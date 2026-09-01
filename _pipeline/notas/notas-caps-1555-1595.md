@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 1555–1595 (Volume 5)
 
-> Progresso da leitura: até o cap. 1584
-> Status: em-andamento
+> Progresso da leitura: até o cap. 1595 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -522,3 +522,194 @@
 - Dado numérico interessante para consolidar (não é lacuna, é achado): capacidade de Reverse Flow River como "medidor" — cada golpe supremo de rank 8/quase-rank-9 consumiu 10% do total; começou a batalha com reservas maiores e terminou com 60% restante após múltiplos usos de reverse flow protection seal + 2 golpes de área absorvidos. Útil para cultivo-imortal.md / catálogo de domínios.
 - A relação exata entre "Longevity Heaven" e "Giant Sun Immortal Venerable's descendants" citada no acordo de White Hair land spirit não é detalhada — pode já estar coberta em notas anteriores (conferir bloco 1514-1554, que está vazio/stub) ou puder aparecer depois.
 - Ainda sem novidades diretas sobre limiares percentuais de aptidão, mecanismo do rule path, critério de fate escapee, ou Grande Era/Great Dream neste subtrecho (1580-1584) além do que já foi registrado sobre fate Gu danificado.
+
+---
+
+## BLOCO 1585-1589 (adicionado)
+
+### 1. Mecânicas e regras (continuação)
+
+#### Snapshot completo de attainment levels de Fang Yuan (dado catalogável raro)
+Listado explicitamente neste ponto da história (cap. 1585):
+- **Quasi-supreme grandmaster**: refinement path.
+- **Great grandmaster**: theft path.
+- **Grandmaster**: strength path, wisdom path, star path, transformation path, blood path, dark path, formation path, water path.
+- **Master**: luck path, soul path, enslavement path, earth path.
+- **Ordinary (comum)**: sword path, space path, time path, dream path, poison path, fire path, metal path.
+- **Nunca envolvido (nenhuma das duas vidas)**: information path, ice and snow path, qi path, light path, sound path, phantom path, rule path.
+- Prioridade declarada por Fang Yuan neste momento: precisa MAIS urgentemente elevar TIME PATH (de "ordinary" para ao menos grandmaster), para poder deduzir golpes ofensivos de time path usáveis pessoalmente dentro do Rio do Tempo (onde quase todo golpe de outro path é severamente enfraquecido) (cap. 1585).
+
+#### Dream realms — mecânica de exploração e "true meaning" residual
+- Dream realms formados a partir da autodetonação de "Pure Dream Reality Seeker Physique" bodies (corpos de constituição extrema usados por Fang Yuan/Shadow Sect) contêm as "true meanings" deixadas por quem os criou (aqui, Spectral Soul Demon Venerable, grandmaster em TODOS os paths conhecidos) — cada dream realm carrega o(s) path(s) específico(s) da constituição usada (cap. 1585).
+- Gu Immortals comuns SEM os métodos avançados de Fang Yuan ainda podem "explorar" um dream realm para coletar materiais de dream path Gu — mas isso é descrito como pegar "sobras" (scraps) comparado ao verdadeiro valor (a true meaning) que só alguém com o método certo consegue extrair — os forces de Southern Border nem perceberam o verdadeiro valor do que guardavam, e ainda "consumiram" parte do dream realm ao longo do tempo, encolhendo-o (cap. 1585).
+- Regra confirmada sobre a "light of wisdom" e dedução de receitas de Immortal Gu: com refinement path quasi-supreme, qualquer receita de Immortal Gu pode virar um killer move, mas o TEMPO de dedução ainda varia MUITO conforme a receita — algumas levariam "décadas ou até séculos" mesmo com a light of wisdom, e Fang Yuan as ignora nesses casos por falta de tempo (cap. 1585) — reforça que quasi-supreme grandmaster não é onisciência instantânea, só reduz drasticamente a dificuldade relativa.
+
+#### Formation path — diferença entre grandmaster e great grandmaster (dado de hierarquia de attainment)
+- Confirmado: um formation path GRANDMASTER consegue "imitar" outros paths dentro de uma formação, mas ainda precisa de Immortal Gu do path desejado como núcleo. Um formation path GREAT GRANDMASTER consegue usar dao marks NATURAIS diretamente, sem precisar de Immortal Gu como intermediário (cap. 1586).
+- Isso significa que attainment level tem um efeito prático de ECONOMIA DE RECURSOS: quanto maior o attainment, menos Immortal Gu são "presos" em usos de suporte (como formações), liberando-os para outros fins — mecânica explicitamente nomeada como vantagem central de subir de attainment (cap. 1586).
+
+#### Split soul / clone attainment — diferença de filosofia entre Spectral Soul e Fang Yuan
+- Confirmado (retrospectivo): Spectral Soul Demon Venerable deliberadamente limitava o attainment de seus split soul clones a UM path cada (não davam ao clone o attainment completo do corpo principal) — estratégia específica para infiltrar espiões em Heavenly Court sem serem identificados como fragmentos do Demon Venerable (cap. 1586).
+- Fang Yuan usa filosofia OPOSTA: seu "time path clone" compartilha o attainment TOTAL do corpo principal em todos os paths (não só time path) — ele aceita o risco de exposição mais fácil porque o propósito do clone é diferente (usar a "light of wisdom" para deduzir, não infiltrar-se disfarçado) (cap. 1586).
+- Regra explícita: attainment level É COMPARTILHADO entre corpo principal e clone de Fang Yuan (cap. 1586) — dado mecânico direto sobre como clones funcionam para ele.
+
+#### "Snow Crystal Formation" — produção industrial de snow monsters
+- Formação de dezenas de km², usando dezenas de milhares de mortal Gu (rank 1-5, maioria ice/snow path), núcleo = 2 Immortal Gu de ice path (obtidos das snowman) + 3 "ice path crystal essence" (material imortal rank 8, do tamanho de um pico de montanha, cristalino azul-gelado, com buracos que emitem ar frio constantemente) (cap. 1586).
+- Efeito do ar frio: gradualmente "esculpe" dao marks de ice/snow path no ambiente ao redor, criando um habitat adequado para snowmen e "snow monsters" — mas esses dao marks NÃO aumentam o total de dao marks de ice/snow path da abertura imortal soberana como um todo; eles se dissipam com o tempo (cap. 1586).
+- Regra de "produção" confirmada: bastam as 3 "ice path crystal essence" existindo passivamente para gerar o efeito — a formação em si serve principalmente para MONITORAR/CONTROLAR a área, não é estritamente necessária para o efeito ambiental básico (cap. 1586).
+- Os "ice path crystal essence" são um recurso CONSUMÍVEL — serão gastos com o tempo, mas o processo é lento o bastante para não ser um problema imediato (cap. 1586).
+- Fang Yuan deliberadamente NÃO isola completamente snowmen (mortais/cultivadores) de snow monsters — quer que "interajam e entrem em conflito" entre si para promover desenvolvimento/seleção — sugere uma filosofia de "criação controlada" de população através de conflito interno regulado (cap. 1586).
+- Dado econômico: um lote de escravos snowman com alta proporção de Gu Masters (cultivadores) vale por "10 vezes" o número normal de escravos snowman comuns em treasure yellow heaven — proporção de cultivadores entre escravos afeta MUITO o valor de mercado (cap. 1586).
+- Regra geográfica: "Mini Southern Border" (dentro da abertura imortal soberana de Fang Yuan) tem a maior densidade de dao marks de earth path entre as "cinco mini regiões" internas — por isso é o lugar mais adequado para realocar rockmen (cap. 1586).
+
+#### Great Thief Ghost Hand — confirmação de que PODE matar diretamente
+- Demonstrado pela primeira vez de forma clara: roubar o Immortal Gu núcleo de um killer move ATIVO causa falha + backlash; se o alvo já estiver enfraquecido ou "sem sorte", um SEGUNDO roubo consecutivo (de outro Immortal Gu núcleo, de outro golpe) pode ser fatal por acumulação de backlash — matou Yang San Mu com apenas DOIS usos consecutivos de great thief ghost hand (cap. 1587).
+- Fang Yuan reflete explicitamente: o motivo de não ter conseguido "sortear" o Immortal Gu núcleo de Feng Jiu Ge (que tinha luck path forte, como Dao Guardian) mas ter conseguido duas vezes seguidas com Yang San Mu (pessoa "normal") é a DIFERENÇA DE SORTE entre os alvos — reforça que luck path afeta literalmente a "aleatoriedade" do roubo de great thief ghost hand (cap. 1588).
+- Insight de Fang Yuan: a COMBINAÇÃO de luck path + theft path é excepcionalmente poderosa — ele possui true inheritances (incompletas) de DOIS venerables diferentes (luck path de Giant Sun, theft path de Thieving Heaven) simultaneamente, caso raro na história (cap. 1588).
+
+#### Southern Border righteous path — procedimentos de segurança pós-trauma de "Wu Yi Hai"
+- Confirmado: depois do episódio antigo em que Fang Yuan (disfarçado de "Wu Yi Hai") infiltrou-se e controlou uma immortal formation de Southern Border por dentro, as formações de Chi clan passaram a operar de forma AUTÔNOMA (não controláveis por outsiders mesmo que disfarçados como membros) especificamente para prevenir repetição desse tipo de traição (cap. 1587).
+- Confirmado: Southern Border's righteous path, com orientação de Heavenly Court, desenvolveu métodos de verificação de identidade (incluindo "soul lantern Gu" e outros "identity type Gu") capazes de dificultar MUITO o uso de familiar face por Fang Yuan — familiar face não é mais garantia de disfarce bem-sucedido contra forças preparadas (cap. 1588).
+- Immortal formation de defesa (Chi clan): sistema de defesa progressivo/adaptativo — quanto mais forte o ataque recebido, mais forte a defesa da formação se torna (não é um limite fixo); tem também um modo OFENSIVO que se ativa quando a formação é danificada até certo ponto (cap. 1589).
+- Detalhe organizacional: formações importantes de clãs podem ter um "caminho oculto" (hidden pathway) permitindo teleporte de reforços de rank 8 de "dezenas de milhares de li" de distância diretamente para dentro da formação em caso de emergência — trunfo oculto revelado só quando necessário (cap. 1589).
+
+#### Vulnerabilidades específicas de Fang Yuan reveladas nesta luta contra a formação de Southern Border
+- **Reverse flow protection seal**: inútil contra uma formação DEFENSIVA que "fica mais forte quanto mais forte o ataque recebido" — não há dano a refletir de volta de forma útil (cap. 1589).
+- **Lead soul into dream**: precisa "sentir" a alma do alvo para funcionar — inútil contra alvos escondidos atrás de uma formação (Heavenly Court já havia tomado contramedidas contra esse golpe antes, no confronto com Lord Huang Shi) (cap. 1589).
+- **Great thief ghost hand**: precisa se aproximar fisicamente do alvo — inútil quando o alvo está protegido por múltiplas camadas de luz branca de uma formação (cap. 1589).
+- Confirma um padrão: Fang Yuan tem um arsenal amplo mas cada golpe tem pré-requisitos específicos (proximidade, percepção da alma, dano direcional) que podem ser neutralizados por defesas bem projetadas — não é onipotente mesmo com todo o arsenal atual.
+
+### 2. Gu catalogados (adição)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Heaven's Will Dissipation | Immortal | dream path (provável) | Espalha luzes cinza-brancas que geram "olhos multicoloridos" cujo piscar ataca heaven's will; usado para "esvaziar"/preparar um dream realm antes da extração final | — | 1585 |
+| Pure Dream Reality Seeker Transformation | Immortal | dream path | Condensa um dream realm de volta em corpo(s) físico(s) de Pure Dream Reality Seeker Physique | — | 1585 |
+| Ice Path Crystal Essence | 8 (material imortal) | ice/snow path | Cristal do tamanho de um pico de montanha, emite ar frio constante que esculpe dao marks de ice/snow path no ambiente; consumível ao longo do tempo | — | 1586 |
+| Contact Heart Gu | wisdom path (mortal, provável) | wisdom path | Encontrado em quantidade no "contact heart river bank", recurso de Chi clan | — | 1589 |
+
+### 3. Mundo e sociedade (adição)
+- **Southern Border righteous path — clãs mencionados**: Yang clan (Yang San Mu), Chi clan (Chi Qiu, Chi Qu You — first supreme elder, rank 8, formation path great grandmaster), Xia clan (Xia Fan, wisdom path), Hou clan e Shang clan (mencionados como vítimas anteriores de Fang Yuan), Tie clan (quase perdeu Tie Mian Shen para Fang Yuan, salvo pelo herdeiro de Paradise Earth) — mapa de forças righteous path da região reforçado (cap. 1587-1589).
+- Confirmado: Southern Border está passando por um período de "earth veins moving" (veios de terra se movendo), expondo materiais e Immortal Gu constantemente pelos Earth Trenches da região — cria disputa interna entre Gu Immortals de Southern Border por posições de "vigia de posto morto" vs. postos de prospecção ativa (contexto político/econômico local, motivação de Yang San Mu de arriscar a vida para ganhar créditos e ser realocado) (cap. 1587).
+- Reforço de reputação pública de Fang Yuan neste ponto da história: "otherworldly demon", "sem limites morais" (ataca até mortais), "demonic path overlord de ascensão mais rápida" — Gu Immortals já o tratam funcionalmente como equivalente a um rank 8 mesmo sendo rank 7 (cap. 1589).
+- Confirmado (retrospectivo, resolve referência de bloco anterior): Fang Yuan matou dois Gu Immortals de Hou clan e Shang clan "meses atrás"; quase matou Tie Mian Shen, que só sobreviveu graças à intervenção do herdeiro de Paradise Earth (cap. 1589) — evento não coberto em detalhe nas notas atuais, possivelmente já registrado em bloco 1514-1554 (stub vazio) ou anterior.
+
+### 4. Economia e vida cotidiana (adição)
+- Preço de escravos snowman em treasure yellow heaven varia até 10x conforme proporção de Gu Masters/cultivadores no lote (cap. 1586).
+- "Contact heart river bank": ponto de recurso econômico de Chi clan, com Gu worms de wisdom path coletáveis em quantidade — saqueado por Fang Yuan como retaliação/aproveitamento após não conseguir romper a formação principal (cap. 1589).
+
+### 5. Estudos de caso mecânicos (adição)
+
+### Caso: manipulação política interna de Southern Border via retórica de wisdom path (cap. 1587-1588)
+- Método: Chi Qiu tenta forçar Xia Fan (único wisdom path presente) a se comprometer publicamente com a tarefa impossível de decifrar yama battlefield rapidamente, usando pressão social ("não vamos incomodar o Lord Xia Fan, confiamos nele"). Xia Fan reverte a pressão redirecionando a narrativa: sugere que Yang San Mu saiu para lutar sozinho por ter descoberto informação privilegiada e querer todo o crédito — isso realinha o grupo emocionalmente (de "vamos culpar quem não ajudar" para "vamos elogiar Yang San Mu e evitar prestar atenção à falha de decifração").
+- Recurso mecânico usado: conhecimento de retórica social e de wisdom path aplicado não a magia, mas à gestão de reputação dentro do próprio grupo — mostra que "wisdom path" no universo do livro também se manifesta como perspicácia social/estratégica pura, não só dedução mágica.
+- Relevância para leitor de mecânica: demonstra que personagens secundários usam astúcia política REAL (sem Gu envolvido) para sobreviver em situações de pressão de grupo — útil para entender cultura organizacional interna das forças righteous path.
+
+### Caso: dois roubos consecutivos fatais (Great Thief Ghost Hand contra Yang San Mu) (cap. 1587)
+- Método: dentro de yama battlefield, Fang Yuan rouba o Immortal Gu núcleo do killer move de movimento de Yang San Mu (causando falha + backlash + ferimento grave), e quando o alvo ainda está debilitado, rouba um SEGUNDO Immortal Gu núcleo de outro golpe ativo, causando um segundo backlash fatal.
+- Recursos: great thief ghost hand usado duas vezes seguidas contra um alvo "normal" (sem proteção de luck path alto), aproveitando o momento de vulnerabilidade pós-primeiro roubo.
+- Resultado/insight: prova que great thief ghost hand pode ser uma arma de assassinato direto (não só de sabotagem/roubo de recursos) quando o alvo tem sorte baixa e killer moves ativos múltiplos — mecanismo dependente de luck path do alvo, não é garantido contra todos.
+
+### 6. Glossário (adição)
+- **Ice path crystal essence**: material imortal rank 8, cristal gigante de gelo que gera efeito ambiental de ice/snow path.
+- **Snow crystal formation**: formação criada por Fang Yuan para produzir/hospedar snow monsters e snowmen.
+- **Contact heart river bank**: ponto de recurso de wisdom path Gu pertencente a Chi clan.
+- **Hidden pathway** (caminho oculto): rota de teleporte de emergência embutida numa immortal formation, permitindo reforços de rank 8 de longa distância.
+
+### 7. Dúvidas e lacunas (adição)
+- O evento "Fang Yuan matou Gu Immortals de Hou clan e Shang clan, quase matou Tie Mian Shen" é mencionado retroativamente sem detalhes mecânicos — possivelmente coberto em bloco anterior (1514-1554, atualmente vazio/stub nas notas do pipeline) ou pode aparecer detalhado depois. Recomenda-se checar/computar esse bloco depois.
+- Não fica claro o mecanismo exato de "Heaven's Will Dissipation" (por que "atacar heaven's will" ajuda a esvaziar um dream realm) — descrito visualmente mas não explicado em termos de regra.
+- Snapshot de attainment levels de Fang Yuan (cap. 1585) é um dado de referência valioso — recomenda-se cruzar com listas anteriores/posteriores em blocos futuros para rastrear progressão ao longo do tempo.
+- Ainda sem novidades diretas sobre limiares percentuais de aptidão, mecanismo do rule path, critério de fate escapee, ou Grande Era/Great Dream neste subtrecho (1585-1589).
+
+---
+
+## BLOCO 1590-1595 (adicionado — FIM DO BLOCO 1555-1595)
+
+### 1. Mecânicas e regras (continuação)
+
+#### Resource points — sistema de classificação formal (dado estrutural importante)
+- Confirmado: super forces das cinco regiões classificam seus pontos de recurso ("resource points") em CINCO categorias por tamanho: mini, small (pequeno), middle (médio), large (grande), giant (gigante) (cap. 1590).
+- Exemplo dado: a "dragonfish sea area" de Fang Yuan (dentro de sua abertura soberana, produz dragonfish de cobre/ferro/prata/ouro) é classificada como resource point GIGANTE, e é sua fonte de receita mais importante (cap. 1590).
+- "Cloud bamboo mountain range" (Chi clan) é um resource point GRANDE; "contact heart river bank" é um resource point MÉDIO; "Wind Flame Mountain" (Chi clan) é um resource point GIGANTE, raro mesmo para super forces (cap. 1590, 1592).
+- Regra confirmada sobre resource points e imunidade parcial: resource points controlados por um clã especializado em determinado path tendem a ter ambiente denso EXATAMENTE nesse path (Chi clan = formation path; seus resource points têm formações fortes E retaliatórias); e podem gerar Immortal Gu selvagens do path correspondente com o tempo (cap. 1590).
+- Regra de crescimento gradual: um resource point grande como cloud bamboo mountain range foi desenvolvido ao longo de gerações — Chi clan pagou um preço alto para convidar um earth path great expert que "moveu veios de montanha" para desenvolvê-lo, levando ~100 anos até atingir a escala vista hoje (cap. 1591). Confirma que resource points não são estáticos — podem ser ARTIFICIALMENTE expandidos/desenvolvidos com investimento e tempo.
+- Regra de segurança: resource points geridos por um clã especializado em formation path (mas fraco em enslavement path) DELIBERADAMENTE evitam permitir que ancient desolate beasts/plantas se formem lá (removem-nas ou as levam embora), porque não têm como controlá-las com segurança — mesmo sendo tecnicamente possível surgirem por leis naturais dado o alto nível de dao marks (cap. 1591).
+
+#### Contact Heart Gu — detalhamento mecânico
+- Wisdom path Gu worm, formato/aparência de "yuhua stones" coloridas, cor/forma variando por rank. Efeito: rouba a concentração do oponente, causando estado de atordoamento/perda de percepção e pensamento. Combinado com outros Gu, forma killer moves — uso mais comum é combinado com enslavement path para reforçar a capacidade de subjugação; também usado puramente por wisdom path Gu Masters (cap. 1590).
+- Contagem concreta obtida por Fang Yuan num resource point médio: mais de 3.000 de rank 5, 50.000 de rank 4, mais de 1 milhão de rank 3 e abaixo (cap. 1590) — dado numérico raro sobre volume de mortal Gu selvagens disponíveis num único resource point.
+
+#### Great Space Temple — Immortal Gu House top 10 do mundo
+- Confirmado: existe um RANKING PÚBLICO das Immortal Gu Houses mais fortes do mundo, formado a partir de observação de batalhas reais durante a guerra caótica das cinco regiões (500 anos da vida anterior de Fang Yuan). Great Space Temple (Chi clan) está classificada em NONO lugar nesse ranking (cap. 1592).
+- Golpe "Moving Space Domain": capaz de aprisionar Gu Immortals de rank 8; em uma batalha histórica citada (Heavenly Court atacando Southern Border), essa Immortal Gu House prendeu simultaneamente 4 rank 7 + 2 rank 8 — desempenho decisivo (cap. 1592).
+- Limitação confirmada: Moving Space Domain normalmente precisa de TEMPO DE PREPARO considerável para ativar — mas Chi clan conseguiu ativá-lo rápido o bastante para capturar great thief ghost hand porque JÁ ESTAVAM PREPARADOS de antemão com base em inteligência vazada por Heavenly Court (cap. 1592) — reforça o padrão: exposição pública de um método específico em treasure yellow heaven permite contramedidas rápidas e preparadas por terceiros.
+- Confirmado: Great Space Temple consegue absorver/capturar great thief ghost hand por completo (via um espiral dourado na superfície), cortando a conexão de Fang Yuan com o golpe — primeira demonstração de uma defesa capaz de "sequestrar" (não apenas bloquear) o golpe de roubo de Fang Yuan (cap. 1592).
+
+#### Treasure Yellow Heaven como arma de guerra de informação (padrão recorrente reforçado)
+- Heavenly Court, em retaliação à humilhação pública sofrida (vídeo de Jing Lan espancada), publicou em treasure yellow heaven: (1) a cena da batalha em Lang Ya blessed land expondo o uso de great thief ghost hand contra Feng Jiu Ge, (2) resultados de dedução SOBRE yama battlefield, incluindo o MÉTODO PARA QUEBRÁ-LO, disponibilizado gratuitamente para todos (cap. 1592, 1593).
+- Consequência direta: um formation path great grandmaster comum (Chi Qu You) consegue se defender com calma dentro de yama battlefield, SEM PÂNICO, porque já sabe (graças à informação pública de Heavenly Court) como o golpe funciona e como resistir dentro dele até ser rompido de fora (cap. 1593) — mostra que a "exposição pública de um trunfo" tem efeito cascata, tornando-o cada v100vez menos eficaz contra QUALQUER oponente informado, não só contra quem o expôs.
+- Fang Yuan retalia imediatamente publicando em treasure yellow heaven a cena da invasão de Lang Ya blessed land mostrando os QUATRO rank 8 de Heavenly Court sendo teleportados simultaneamente (revelando essa capacidade estratégica secreta de Heavenly Court ao mundo inteiro) — efeito: choque geral nas outras 4 regiões, aumento da vigilância contra Heavenly Court (cap. 1592) — confirma a hipótese anterior de Fang Yuan de que Heavenly Court GUARDAVA esse segredo justamente por medo desse tipo de reação.
+- Regra confirmada (relevante para entender "por que não é onipotente"): NENHUM Gu é invencível, só existem "Gu Immortals invencíveis" (ditado citado por Chi Qu You) — até Fixed Immortal Travel "pode ser contornado de várias formas" quando o oponente está preparado e informado (cap. 1593).
+
+#### Dream path — status estratégico confirmado como "próxima grande fronteira"
+- Confirmado: existe consenso entre o mundo Gu Immortal de que dream path terá grande desenvolvimento futuro, culminando na criação de uma "Great Dream Immortal Venerable" — comparável historicamente à criação de theft path por Thieving Heaven, transformation path por Reckless Savage, e qi path por Primordial Origin (cap. 1593) — lista explícita de "paths criados por um fundador específico", dado valioso para consolidar entradas de paths.
+- Quem "desistir" de perseguir dream path agora "ficará para trás nesta grande era iminente" — motivação estratégica coletiva confirmada (cap. 1593).
+- Confirmado: explorar dream realms do zero, sem os métodos avançados de Fang Yuan, é EXTREMAMENTE caro com pouco retorno ("o início é o mais difícil, com grande custo e pouco ganho") — motivo pelo qual Chi Qu You aceita negociar com um inimigo declarado (Fang Yuan) em troca de resultados de pesquisa de dream path já processados (cap. 1593).
+- Fang Yuan possui "resultados de dream path" na forma de information path mortal Gu que podem ser TROCADOS/TRANSACIONADOS como um recurso — confirma que conhecimento de path pode ser empacotado e vendido/trocado como um bem discreto, não apenas ensinado pessoalmente (cap. 1593).
+
+#### Estrutura política de Southern Border righteous path — reunião de clãs (mapa detalhado de forças)
+- Clãs confirmados como participantes de reunião de crise contra Fang Yuan: Luo clan, Hou clan, Yao clan, Xia clan, Shang clan (neutro, especializado em comércio entre forças, tem voz de peso quando fala), Ba clan (disputando o topo com Wu clan), Wu clan (número um righteous path, liderado por Wu Yong, irmão de Wu Yi Hai — a identidade que Fang Yuan usou para se infiltrar), Chi clan (Chi Qu You), Tie clan (possui "Beacon Tower", Immortal Gu House de teleporte entre torres, comparável a "Ten Thousand Li Silk Corridor" do Xiao clan do Western Desert — capaz de teleportar até rank 8 se múltiplas torres forem combinadas) (cap. 1594).
+- Confirmado: as outras super forces impedem ATIVAMENTE Tie clan de expandir sua rede de Beacon Towers por Southern Border — considerada ameaça estratégica coletiva demais mesmo sendo proposta como solução contra Fang Yuan (cap. 1594) — padrão de "equilíbrio de poder" entre super forces do mesmo bloco político.
+- Confirmado: mesmo com ameaça comum (Fang Yuan), as super forces de Southern Border NÃO cooperam efetivamente — "cada um tem seus desejos individuais, cheios de conflito e desconfiança mútua; a menos que não haja escolha, não existe líder capaz de unificá-los" (cap. 1595, avaliação de Wu Yong). Isso é dado como padrão estrutural crônico da política regional, não um evento único.
+- Confirmado: Wu Yong (rank 8, novo first supreme elder de Wu clan) tem contato direto e disposição a cooperar secretamente com Heavenly Court (Fairy Zi Wei) contra Fang Yuan — decisão de alto risco político (tabu regional de "estrangeiros interferindo em assuntos internos", presente em todas as regiões exceto Eastern Sea) (cap. 1595).
+
+#### Reencarnações de memória / dream realms de time path — mecânica de "vida simulada"
+- Confirmado: dentro de um dream realm de time path, Fang Yuan revive como personagem PRÓPRIO dentro da simulação — "old man", rank 4 de cultivo, com um conjunto de Gu worms de time path de suporte (não curativos) já presentes na "aventura" simulada (cap. 1595) — mecânica recorrente de dream realms como vidas simuladas completas e jogáveis, não apenas repositórios de informação passiva.
+- Piada mecânica/caso de uso de Gu registrado: "Water Text Gu" — Gu que permite escrever versos bonitos "como água fluinda"; upou uso excessivo (50-60 textos numa sessão) causa efeito colateral de diarreia severa (mais de 20 vezes) em quem o usa — reforça a regra geral já conhecida de que abuso/uso excessivo de um Gu tem consequências físicas negativas previsíveis, mesmo em Gu "não combativos" (cap. 1595).
+
+### 2. Gu catalogados (adição)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Pulling Water Immortal Gu | 6 | strength path | Puxa/move água como um fio (usado por Fang Yuan para saquear rios) | — | 1590 |
+| Contact Heart Gu | 3-5 (mortal, escala por rank) | wisdom path | Formato de "yuhua stones" coloridas; rouba concentração do alvo, causa atordoamento; combinável com enslavement path | — | 1590 |
+| Moving Space Domain (Great Space Temple) | 8 (capacidade da Immortal Gu House) | space path | Consegue prender múltiplos Gu Immortals de rank 7-8 simultaneamente; precisa de preparo prévio para ativação rápida | — | 1592 |
+| Beacon Tower (Tie clan) | Immortal Gu House | space/travel path | Rede de torres que teleporta Gu Immortals entre si; combinando múltiplas torres, pode teleportar até rank 8 | — | 1594 |
+| Water Text Gu | (mortal, não especificado) | text/water-adjacent | Permite escrever versos "fluidos como água"; uso excessivo causa diarreia severa como efeito colateral | — | 1595 |
+
+### 3. Mundo e sociedade (adição)
+- Reforço de lista de "fundadores de path": Thieving Heaven Demon Venerable (theft path), Reckless Savage Demon Venerable (transformation path), Primordial Origin Immortal Venerable (qi path) — citados juntos como precedente histórico para a expectativa de uma "Great Dream Immortal Venerable" futura (cap. 1593).
+- Confirmado: Southern Border está passando por instabilidade regional generalizada por causa do fenômeno de "earth veins moving" — aumenta tanto os recursos disponíveis quanto os conflitos entre forças righteous path, demonic path e lone cultivators disputando esses recursos (cap. 1594).
+- Confirmado (relevante para árvore de relações políticas): Chi Shang (formation devotee, futuro great grandmaster reconhecido por Chi Qu You) teve boa relação com "Wu Yi Hai" (Fang Yuan disfarçado) no passado, e publicamente se declarou inimigo de Fang Yuan após a exposição — mas o PAI dele, Chi Qu You, ainda assim aceita negociar secretamente com Fang Yuan por interesse estratégico de sucessão familiar (Chi Bang, filho biológico, não tem talento para ser first supreme elder; Chi Qu You precisa que a posição do clã seja fortalecida através de outros meios, incluindo dream path) (cap. 1593).
+- Wu Yong (irmão de Wu Yi Hai) obteve "Clear Jade Dripping Wind Tiny Bamboo Building" (não detalhado aqui) e recuperou Immortal Gu de Southern Border das mãos de Heavenly Court, consolidando reputação e posição de Wu clan como número um do righteous path local (cap. 1594, 1595).
+
+### 4. Economia e vida cotidiana (adição)
+- Confirmado: informação de dream path (conhecimento de path novo/emergente) tem valor de mercado potencialmente CATASTRÓFICO se revelada abertamente — "todas as super forces lutariam por ela até rios de sangue" — reforça hierarquia de valor: conhecimento de path fundacional > Immortal Gu individual > materiais imortais (cap. 1593).
+- Transação registrada: Fang Yuan trocou Pure Dream Reality Seeker Physique bodies (múltiplos) + um information path mortal Gu (parcial, resultados de dream path) por: uma grande quantidade de immortal essence stones + materiais imortais variados + um information path mortal Gu contendo uma "information path inheritance" (cap. 1594) — exemplo raro de barganha estruturada e registrada de "conhecimento por conhecimento + recursos".
+
+### 5. Estudos de caso mecânicos (adição)
+
+### Caso: negociação sob coação com Chi Qu You via Yama Battlefield (cap. 1593-1594)
+- Método: Fang Yuan ataca deliberadamente um resource point gigante (Wind Flame Mountain) SEM destruí-lo por completo, calculando que isso forçaria a vinda pessoal do first supreme elder do clã (Chi Qu You) — usa um information path mortal Gu (prova de capacidade de deduzir a formação do local) como "cartão de visita" que demonstra credibilidade, e um segundo Gu com uma AMOSTRA de conhecimento de dream path como isca de negociação.
+- Recursos: yama battlefield usado não para matar, mas como AMBIENTE PRIVADO E SEGURO de negociação (nenhuma das partes precisa temer interferência externa ou vazamento da conversa); conhecimento prévio (de vida anterior) sobre a estrutura familiar e sucessória de Chi clan, usado para prever e validar o interesse estratégico de Chi Qu You.
+- Resultado: alianças transacionais "inimigo com benefício mútuo" — ambos os lados sabem que a relação é temporária e interesseira (Chi Qu You já planeja trair Fang Yuan mais tarde "quando não precisar mais dele"), mas cooperam enquanto os interesses coincidem. Padrão explícito: "para os termos righteous path e demonic path, cada um tem seu próprio entendimento — o que importa de verdade são os benefícios."
+- Lição mecânica: uma imortal battlefield como yama battlefield pode servir propósitos NÃO combativos — espaço de negociação isolado e à prova de vazamento — uso alternativo interessante de uma ferramenta ofensiva.
+
+### 6. Glossário (adição)
+- **Resource point** (ponto de recurso): território controlado por uma força, classificado em 5 escalas (mini/pequeno/médio/grande/gigante) por potencial produtivo de materiais/Gu/dao marks.
+- **Great Space Temple**: Immortal Gu House de Chi clan, 9ª colocada no ranking mundial histórico.
+- **Moving Space Domain**: golpe de aprisionamento de rank 8 da Great Space Temple.
+- **Beacon Tower**: Immortal Gu House de teleporte em rede de Tie clan (Southern Border), análoga ao Ten Thousand Li Silk Corridor do Xiao clan (Western Desert).
+- **Water Text Gu**: Gu mortal de escrita estilizada com efeito colateral de diarreia por uso excessivo.
+
+### 7. Dúvidas e lacunas (adição)
+- Não fica claro o "método de Shang clan's first supreme elder" para lidar com Fixed Immortal Travel — mencionado mas nunca detalhado neste bloco; possivelmente revelado em capítulos futuros.
+- Não fica claro exatamente COMO Great Space Temple consegue ativar Moving Space Domain tão rápido apesar do "tempo de preparo" normalmente necessário — atribuído a "estarem preparados de antemão com inteligência de Heavenly Court", mas o mecanismo técnico exato não é detalhado.
+- Ainda sem novidades diretas sobre limiares percentuais de aptidão, mecanismo do rule path, critério de fate escapee, ou Grande Era/Great Dream além do que já foi coletado nos blocos anteriores (a menção a "Great Dream Immortal Venerable" como fenômeno esperado do futuro reforça mas não acrescenta detalhe técnico novo).
+- **NOTA IMPORTANTE PARA O PRÓXIMO LEITOR**: o bloco anterior (notas-caps-1514-1554.md) está VAZIO/stub (só cabeçalhos, sem conteúdo) — há uma lacuna de cobertura entre os caps. 1514-1554 que pode conter eventos referenciados retroativamente neste bloco (ex.: "Fang Yuan matou Gu Immortals de Hou clan e Shang clan, quase matou Tie Mian Shen" — cap. 1589; a fundação completa da aliança com Lang Ya blessed land; a primeira invasão de Feng Jiu Ge). Recomenda-se preencher esse bloco antes da síntese final.
+
+---
+
+## FIM DO BLOCO — RESUMO DE ENCERRAMENTO
+
+> Progresso da leitura: até o cap. 1595 (bloco completo)
+> Status: completo

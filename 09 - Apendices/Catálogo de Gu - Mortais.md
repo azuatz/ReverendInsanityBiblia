@@ -487,24 +487,30 @@ quantificável, gasto em deduções e reposto com o descanso. É o caminho que d
 guerras fora do campo de batalha, e o único cujo custo típico não é energia, mas
 tempo de vida.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Bookworm Gu | 1 | Transfere catálogos e conhecimento direto para a mente | — |
-| Heart Engraved Gu | 1-5 | Grava permanentemente uma receita ou informação na memória | — |
-| Malicious Thought Gu | 1-5 | Combustível de dedução especializado em tramar | — |
-| Memory Thought Gu | 1-5 | Combustível de dedução especializado em memória | — |
-| Star Thought Gu | 1-5 | O combustível de dedução mais eficiente da série | — |
-| Anxiety Accumulation Gu | — | Amplifica a ansiedade de todos por perto, sem que percebam | — |
-| Battle Thought Gu | 3-4 | Resistência mental coletiva de tropas contra ataques de pensamento | — |
-| Flash of Inspiration Gu | 3 | Insight súbito de uso único; destrava receitas e padrões complexos | — |
-| Intuition Gu | — | Insights súbitos de investigação; não serve de prova | — |
-| East Window Gu | 4 | Joaninha-arquivo de grandes volumes de informação | — |
-| Painting Idea Gu | — | Grava cenas na memória permanentemente | — |
-| Emotion Poetry Gu | — | Armazena emoções | — |
-| Space Thought Gu | 5 | Pensamentos criptografados, ilegíveis a leitores de mente | — |
-| Vajra Thought Gu | 5 | Milhares de "pensamentos" que interceptam ataques e se reabsorvem | — |
-| Self Will Gu | 5 | Limpa a influência subconsciente da vontade do céu; uso único | — |
-| Electric Brain Gu | — | Reduz o custo e dobra a duração de um golpe de armadura | erva de contas de sabedoria |
+Leia esta tabela sabendo que o recurso em jogo não é energia: são **pensamentos**, uma
+moeda mental quantificável, gasta em deduções e reposta com o descanso. Os "Thought
+Gu" da tabela são literalmente combustível — comprá-los é comprar capacidade de
+raciocínio. E preste atenção à coluna de uso: aqui é comum o custo ser pago em **tempo
+de vida**, não em essência.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Bookworm Gu | 1 | Transfere catálogos e conhecimento direto para a mente | — | — | Raríssimo e muito disputado apesar do rank baixo | Elimina o tempo de estudo: um rank 1 absorve o que levaria anos | A versão de herança aloja-se no cérebro e **morre junto com a cabeça** do usuário |
+| Heart Engraved Gu | 1-5 | Grava permanentemente uma receita ou informação na memória | — | — | — | Memória à prova de esquecimento e de tortura de interrogatório (ded.) | Permanente: não há como apagar o que foi gravado (ded.) |
+| Malicious Thought Gu | 1-5 | Combustível de dedução especializado em tramar | — | — | — | Rende mais que os genéricos quando a dedução é sobre planos e conspirações | Especializado: fora do seu tema, rende pouco |
+| Memory Thought Gu | 1-5 | Combustível de dedução especializado em memória | — | — | — | Mesma lógica, aplicada a recuperar e organizar informação | Especializado da mesma forma |
+| Star Thought Gu | 1-5 | O combustível de dedução mais eficiente da série | — | Consome essência **e** alma; refina-se por repetição de uso. O modo ofensivo em massa custa **tempo de vida** | — | Um Star Thought vale por três ou quatro pensamentos comuns — a melhor densidade da série | O modo ofensivo é pago em tempo de vida, e o modo normal consome alma além de essência |
+| Anxiety Accumulation Gu | — | Amplifica a ansiedade de todos num raio de dez passos | — | — | — | **Ninguém percebe que está sendo afetado**: manipulação social invisível | Raio curto, e o efeito é sutil demais para decidir um combate (ded.) |
+| Battle Thought Gu | 3-4 | Resistência mental coletiva de tropas contra ataques de pensamento | — | — | — | Protege um exército inteiro de uma categoria de ataque contra a qual soldados comuns não têm defesa | Puramente defensivo (ded.) |
+| Flash of Inspiration Gu | 3 | Insight súbito | — | **Uso único** | Cerca de 29.000 pedras, e exige um selo de autorização de grau alto para comprar | Destrava uma receita ou qualquer padrão complexo, desde que haja dados suficientes | Caro, descartável, e de acesso politicamente restrito |
+| Intuition Gu | — | Insights súbitos de investigação | — | — | — | Aponta a direção certa quando não há pista nenhuma | **Não serve de prova**: o que ele revela não convence ninguém |
+| East Window Gu | 4 | Joaninha-arquivo de grandes volumes de informação | — | — | — | Guarda receitas e golpes inteiros: é a biblioteca portátil do sistema | — |
+| Painting Idea Gu | — | Grava cenas na memória permanentemente | — | — | — | Registro visual fiel e permanente | — |
+| Emotion Poetry Gu | — | Armazena emoções | — | — | — | Torna emoção um recurso guardável, o que outros Gu do caminho consomem | — |
+| Space Thought Gu | 5 | Pensamentos criptografados, ilegíveis a leitores de mente | — | Defesa **temporária** | Também serve para refino reverso de Gu implantados à força no usuário | A única contramedida registrada contra leitura de mente | Dura pouco: é uma janela de proteção, não um estado permanente |
+| Vajra Thought Gu | 5 | Milhares de "pensamentos" em forma de casco dourado que interceptam ataques | — | Os pensamentos são **reabsorvíveis na mente a qualquer instante**, sem custo aparente — desliga-se a defesa instantaneamente | — | Defesa que se liga e desliga de graça, e serve também de projétil | Como projétil, tem metade da velocidade dos Gu de espada de rank alto; e o rank escala só a **quantidade**, nunca a qualidade |
+| Self Will Gu | 5 | Produz "vontade própria" que limpa a influência subconsciente da vontade do céu sobre uma pessoa ou área | — | **Uso único** | — | Uma das pouquíssimas ferramentas capazes de interferir na vontade do céu | Descartável, num efeito que dificilmente se precisa uma vez só (ded.) |
+| Electric Brain Gu | — | Modificador de golpes de armadura | erva de contas de sabedoria | — | Refinado a partir da erva de contas de sabedoria, de rank 5 | **Reduz o consumo a menos da metade e dobra a duração** de um golpe de armadura — um dos melhores multiplicadores do catálogo | Serve a uma categoria estreita de golpe, e come um insumo de rank 5 |
 
 ---
 
@@ -514,21 +520,28 @@ Raro, caríssimo e de custo peculiar: seus Gu quase sempre cobram em **tempo de 
 não em energia. É a alavanca de aceleração de cultivo do sistema — e o motivo pelo
 qual praticantes ricos avançam mais rápido que talentosos.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Day Gu | 3 | Concha que contém três dias de tempo; acelera refino | água do Rio do Tempo |
-| Month Gu | — | Análogo maior ao anterior, encontrado no Rio do Tempo | água do Rio do Tempo |
-| Year Gu | — | Armazena anos; produzido em massa por quem tenha um afluente | água do Rio do Tempo |
-| Inch of Time | 1-5 | Paga o "pedágio de tempo" no lugar do tempo de vida | — |
-| Instant Success Gu | 4 | Comprime meses de cultivo em instantes; custa tempo de vida | — |
-| Backtrack Gu | 5 | Reconstitui cenas passadas; fraco contra alvos de rank alto | — |
-| Third Watch Gu | 5 | Triplica o tempo pessoal; o tempo de vida restante cai a um terço | — |
-| Mountain As Before | 5 | Reverte o terreno ao estado original, poupando os vivos | — |
-| River As Before | 5 | O mesmo, para águas artificiais | — |
-| Man As Before | 5 | Restaura terceiros a um estado passado; não funciona no próprio | — |
-| Lifespan Gu | — | Estende o tempo de vida; o único método limpo, e raríssimo | consumido |
-| Fifteen Year Lifespan Gu | — | Soma quinze anos de vida | consumido |
-| Return to Childhood Gu | — | Libera força vital lentamente; fixa o corpo em físico infantil | — |
+A coluna 🍖 desta tabela é a mais reveladora do catálogo inteiro: vários destes Gu
+comem **água do Rio do Tempo**, um recurso que dinheiro não compra e que só quem
+possui um afluente consegue fornecer. Isso explica sozinho por que o caminho do tempo
+é o mais desigual do mundo — ele não separa talentosos de medíocres, separa quem tem
+acesso à fonte de quem não tem. E o custo de uso, aqui, é quase sempre pago em anos
+de vida.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Day Gu | 3 | Concha do tamanho da palma de uma criança que contém três dias de tempo | água do Rio do Tempo | — | — | Acelera refino e ainda estende o tempo de vida | O ganho de vida vem **ao custo de marcas de lei** gravadas no corpo, e a dieta exige acesso ao Rio do Tempo |
+| Month Gu | acima de 3 | Análogo maior ao anterior | água do Rio do Tempo | — | Encontrado no Rio do Tempo, não refinado | Guarda muito mais tempo por unidade | Mesma dependência da fonte |
+| Year Gu | mortal | Armazena anos inteiros | **exclusivamente** água do Rio do Tempo | Consumido no uso | — | **Fácil de produzir em massa** por quem tenha um afluente do Rio do Tempo — a vantagem aqui é industrial, não de potência | Para quem não tem afluente, é simplesmente inalcançável |
+| Inch of Time | 1-5 | Paga o "pedágio de tempo" no lugar do tempo de vida do usuário | — | — | — | Substitui tempo de vida por um consumível: o que era permanente vira despesa | — |
+| Instant Success Gu | 4 | Comprime meses de cultivo ou de transformação em instantes | — | Precisa ser **carregado com essência** antes; o custo é em **tempo de vida**, proporcional ao tempo comprimido (meio ano de vida numa sessão registrada) | Consumível, com cargas contadas em pares de asas | Converte a barreira mais dura do cultivo — o tempo — em algo que se compra | Cada uso custa meses de vida, e o Gu tem cargas contadas |
+| Backtrack Gu | 5 | Reconstitui cenas passadas | — | Autodestrói-se no uso | — | Reconstrução de eventos que nenhuma testemunha viu | Fraco contra alvos de rank alto, que conseguem apagar o próprio rastro |
+| Third Watch Gu | 5 | Triplica o tempo pessoal do usuário | — | **Uso único**; deixa uma tatuagem triangular prateada no peito | — | Cultivo e recuperação três vezes mais rápidos; duas aplicações sucessivas chegam a nove vezes | O tempo de vida restante **cai a um terço**, e venenos e doenças também correm três vezes mais rápido |
+| Mountain As Before | 5 | Reverte o terreno ao estado original | — | — | — | Desfaz terraformação defensiva inimiga, e **deixa os vivos ilesos** | Restaura terreno, não construções nem pessoas |
+| River As Before | 5 | O mesmo, para águas artificiais | — | — | — | Anula obras hidráulicas de defesa | — |
+| Man As Before | 5 | Restaura terceiros a um estado passado | — | — | — | Reverte ferimentos, mutilações e transformações que nenhuma cura alcança | **Não funciona no próprio usuário**, e não funciona sobre Gu |
+| Lifespan Gu | — | Estende o tempo de vida em cem ou quinhentos anos, conforme o grau | consumido no uso | — | Raríssimo | O **único método limpo** de estender vida, sem nenhum efeito colateral | Raridade extrema: não é uma opção de planejamento, é sorte |
+| Fifteen Year Lifespan Gu | — | Soma quinze anos de vida | consumido no uso | — | — | Degrau acessível da mesma família | Quinze anos é pouco para o horizonte de um praticante sério (ded.) |
+| Return to Childhood Gu | — | Acumula e libera força vital lentamente | — | — | — | Longevidade por acumulação, sem o preço dos atalhos | **Fixa o corpo num físico infantil permanentemente** |
 
 ---
 
@@ -538,29 +551,35 @@ Movimento é um dos parâmetros mais decisivos em combate, e a obra o trata como
 categoria própria. Note a curva de preço: deslocamento curto é barato, teleporte é
 caro, e os poucos Gu de teleporte de rank 5 cobram deformidade corporal cumulativa.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Dragonpill Cricket Gu | 1 | Salto ou recuo instantâneo de uns dez metros | — |
-| Shadow Follower Gu | 2 | Movimento pelas sombras; anulado por luz forte | — |
-| Mudskin Toad | 2 | Sapo de carga; base do refino de montarias melhores | terra amarela |
-| Vertical Crash Gu | 3 | Investida em linha reta de até cem passos | — |
-| Horizontal Charge Gu | 3 | Variante lateral do anterior | — |
-| Thunderwings Gu | 3 | Asas de trovão; voo curto e caro | — |
-| Footless Bird | 3 | Voa milhares de li — mas pousar destrói o Gu; uso único | — |
-| Blue Farm Slug Gu | 3 | Caramujo-cargueiro que expande a capacidade de carga | — |
-| Charging Crash Gu | 4 | Fusão das duas investidas: dobro de alcance, metade da recarga | — |
-| Chasing Wind Gu | 4 | Velocidade de vento; incompatível com fantasmas de força | — |
-| Eagle Rise Gu | 4 | Voo; empilhável em várias cópias | — |
-| Dragon Travel Tiger Steps Gu | 4 | Movimento de carga e impacto | — |
-| Space Piercing Gu | — | Teleporte de centenas de passos, rasgando o espaço | — |
-| Flash Bug Gu | 5 | Teleporte de esquiva de uns quinhentos passos; caro | — |
-| Warp Gu | 5 | Teleporte corporal; cada uso deforma o corpo, cumulativamente | — |
-| Treasure Brass Toad | — | Montaria blindada; cerca de cem metros por salto | — |
-| Thousand Li Earthwolf Spider | 5 | Montaria escavadora barata de manter, cara de ativar | terra |
-| Hole Earth Gu | 5 | Túnel fixo entre dois pontos; caro de manter | — |
-| Moving Perspective Cup Gu | 5 | Troca de conteúdo instantânea; custo pela carga, não pela distância | — |
-| Stargate Gu | 5 | Portal entre as cinco regiões; consumo monstruoso | — |
-| Flying Smoke Gu | 5 | Voo cuja velocidade escala com as marcas do usuário | — |
+A curva de preço aqui é a mais nítida do catálogo: deslocamento curto é barato,
+voo é caro, teleporte é caríssimo, e portal permanente cobra uma anuidade. Note que
+as montarias invertem a lógica das outras famílias — o Thousand Li Earthwolf Spider é
+**barato de alimentar e caro de acionar**, o oposto do padrão. Ao montar um
+personagem, decida primeiro qual dos dois orçamentos ele tem folga para pagar.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Dragonpill Cricket Gu | 1 | Salto ou recuo instantâneo de cerca de dez metros | — | — | — | Esquiva instantânea disponível já no rank 1 | Alcance curto (ded.) |
+| Shadow Follower Gu | 2 | Movimento pelas sombras | — | Recarga de **três horas** entre usos | — | Deslocamento que também esconde | **Anulado por luz forte** — inclusive por um Flash Blink Gu de rank 1 |
+| Mudskin Toad | 2 | Sapo de carga | 500 g de terra amarela por refeição; quanto mais fértil, melhor — a comida está literalmente no chão | — | Cerca de 500 pedras; é o ingrediente principal do refino do Treasure Brass Toad | O transporte mais barato de sustentar do catálogo, e a porta de entrada para montarias melhores | Lento e sem capacidade de combate (ded.) |
+| Vertical Crash Gu | 3 | Investida em linha reta de até cem passos, com a força do próprio corpo | — | Recarga de poucas respirações | — | Fecha distância instantaneamente, e recarrega rápido | Trajetória reta e previsível (ded.) |
+| Horizontal Charge Gu | 3 | Variante lateral do anterior | — | Recarga de poucas respirações | — | Cobre o eixo que o Vertical Crash não cobre | Mesma previsibilidade (ded.) |
+| Thunderwings Gu | 3 | Asas de trovão | — | **Alto consumo** de essência | — | Voo já no rank 3 | Voo curto e caro: serve para um reposicionamento, não para viajar |
+| Footless Bird | 3 | Ave óssea sem pernas que voa milhares de li | — | **Voa uma única vez**: pousar destrói o Gu | — | Chamado de o número um abaixo do rank 5 em deslocamento; atravessa distâncias que nenhum outro Gu mortal atravessa | Consumível absoluto, e ainda é a base da receita do Bone Wings Gu |
+| Blue Farm Slug Gu | 3 | Caramujo-cargueiro | — | — | — | Expande a capacidade de carga em cinco vezes | Lentidão de caramujo (ded.) |
+| Charging Crash Gu | 4 | Fusão das duas investidas | — | Custo maior que o dos componentes | Fusão de Vertical Crash + Horizontal Charge | Duzentos passos de alcance e metade do tempo de recarga | Custa mais essência que os dois separados |
+| Chasing Wind Gu | 4 | Velocidade "de perseguir o vento" | — | — | — | Um dos deslocamentos mais rápidos do rank | Grava marca de lei do vento, **incompatível com fantasmas de força**: fecha a porta para uma build de força |
+| Eagle Rise Gu | 4 | Voo | — | — | — | **Empilhável**: várias cópias somam velocidade | — |
+| Dragon Travel Tiger Steps Gu | 4 | Movimento de carga e impacto | — | — | — | Ressoa com os Gu da família do dragão-elefante, somando movimento e dano | — |
+| Space Piercing Gu | — | Teleporte de centenas de passos, rasgando o espaço | — | — | — | Ignora obstáculos e barreiras físicas por completo | — |
+| Flash Bug Gu | 5 | Teleporte de esquiva de cerca de quinhentos passos | — | **Caro** | — | Esquiva absoluta: sai do alcance de qualquer golpe já em curso | O preço faz dele um recurso de emergência, não de mobilidade |
+| Warp Gu | 5 | Teleporte corporal | — | Cada uso **deforma o corpo, cumulativamente** | — | Deslocamento sem limite prático de distância | O custo é grotesco e permanente: o corpo se deforma mais a cada viagem |
+| Treasure Brass Toad | — | Montaria blindada | — | — | Refinado a partir do Mudskin Toad | Cerca de cem metros por salto, com blindagem inclusa | — |
+| Thousand Li Earthwolf Spider | 5 | Montaria escavadora | solo e terra — **barata de manter** | **Cara de acionar** para um usuário de rank baixo | Pode ser encontrada hibernando em casulo por séculos | Viaja por baixo da terra, invisível a qualquer vigilância de superfície, e a comida é gratuita | O orçamento se inverte: quem consegue sustentá-la muitas vezes não consegue acioná-la. E corrompida pelo Blood Frenzy Gu, tem surtos |
+| Hole Earth Gu | 5 | Túnel fixo entre dois pontos | — | **200.000 pedras por ano** de manutenção | Funciona apenas dentro de uma das cinco regiões | Passagem permanente e instantânea, sem custo por travessia | Uma anuidade que só uma organização paga, e a rota é fixa |
+| Moving Perspective Cup Gu | 5 | Troca de conteúdo instantânea entre dois pontos | — | Custo proporcional à **carga**, não à distância | — | Transporte de longuíssima distância sem penalidade de distância | Só transporta Gu de rank igual ou inferior ao rank efetivo do par |
+| Stargate Gu | 5 | Portal entre as cinco regiões, aberto por luz estelar | — | **Consumo monstruoso**, com vaga-lumes de luz estelar como combustível | Item experimental, em par | A única travessia intercontinental instantânea do catálogo mortal | O consumo é proibitivo para qualquer coisa que não seja uma operação de Estado |
+| Flying Smoke Gu | 5 | Voo | — | — | — | A velocidade **supera o limite normal do rank** conforme as marcas de lei do usuário | Só rende para quem já acumulou marcas: num usuário novo, é voo comum |
 
 ---
 
@@ -570,30 +589,37 @@ O caminho que governa o que se sabe e o que se esconde. A obra o trata como deci
 quase todo confronto de alto nível é decidido antes, por quem tinha melhor
 informação.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Signal Gu | 1 | Chama arco-íris visível a dezenas de quilômetros; pedido de socorro | — |
-| Swimword Gu | 1 | Texto mutável em estandartes | — |
-| Paper Crane Gu | 1-2 | Mensageiro voador que guia o caminho | — |
-| Vine Information Gu | 1 | Registro público de vitórias e derrotas de arena | o próprio lutador |
-| Alert Bell Gu | — | Alarme de clã contra perigo iminente | — |
-| Heart Sound Gu | 2 | Comunicação mental a cem passos; voz padronizada | — |
-| Digital Shade Gu | 2 | Arquivo de receitas classificado por cor de rank | — |
-| Earth Communication Ear Grass | 2 | Orelha-implante; estende a audição pelo solo | raízes de ginseng |
-| Snake Tongue Gu | 2 | Radar térmico de curto alcance; não vê sangue-frio | — |
-| Photo-audio Gu | 3 | Grava imagem e som; a versão ritual projeta a cena ao ser esmagada | luz e som |
-| Lightning Eye Gu | 3 | Vê através de qualquer furtividade, a cinquenta passos | — |
-| Bamboo Gentleman | 4 | Detector de mentiras; só refinável por quem nunca mentiu | honestidade |
-| Hints and Clues Gu | 5 | Rastreia Gu marcados a centenas de li | — |
-| Hundred Li Eye | — | Visão de longuíssimo alcance | — |
-| True Sight Gu | — | Contramedida contra furtividade | — |
-| Thread Trace Gu | 5 | Revela marcas residuais: cor indica o caminho, densidade o rank | — |
-| Footprint Gu | — | Nuvem de pó que revela as últimas pegadas de um alvo | — |
-| Chase Smoke Gu | — | Prova contato físico ocorrido meses antes | — |
-| Shared-sense Gu | — | Selo implantado às escondidas; sente o ambiente ao redor do alvo | — |
-| Investigative Gu | 5 | Vê o "qi de talento" sobre a cabeça de mortais e praticantes | — |
-| Letter Gu (série) | 3-5 | Correio mágico; as versões altas rasgam o espaço | — |
-| Poetry Gu | 5 | Gu vital que abre acesso a toda a família de Gu de poesia | — |
+Duas coisas para observar ao ler. Primeiro, quase todo Gu de detecção aqui tem uma
+**cegueira declarada** — o Snake Tongue não vê sangue-frio, o Earth Communication Ear
+Grass não identifica quem ouve, o Lightning Eye só alcança cinquenta passos. Segundo,
+alguns dos refinos mais estranhos do sistema estão nesta tabela: o Bamboo Gentleman
+só pode ser refinado por alguém que nunca mentiu na vida. Isso faz do caminho da
+informação o mais dependente de **quem é o usuário**, e não do quanto ele investiu.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Signal Gu | 1 | Chama arco-íris visível a cerca de cinquenta quilômetros | — | **Uso único** | — | Pedido de socorro que atravessa meia província, com um Gu de rank 1 | Descartável, e avisa também o inimigo de onde você está (ded.) |
+| Swimword Gu | 1 | Texto mutável em estandartes | — | — | — | Comunicação pública editável, útil para quadros de mérito e avisos | — |
+| Paper Crane Gu | 1-2 | Mensageiro voador que também guia o caminho | — | — | — | Entrega mensagens **e** serve de guia por terreno desconhecido | — |
+| Vine Information Gu | 1 | Registro público de vitórias e derrotas de arena | alimentado pelo próprio lutador registrado | — | Alugado, não vendido — só o clã que o controla pode editar os registros | Cria uma reputação verificável e pública, base de todo o sistema de apostas | Quem controla o Gu controla a narrativa: o registro não é neutro |
+| Alert Bell Gu | mortal | Alarme de clã contra perigo iminente | — | — | — | Aviso automático que não depende de ninguém estar de guarda | — |
+| Heart Sound Gu | 2 | Comunicação mental a cem passos | — | — | Funciona em par | Comunicação silenciosa e indetectável em combate | A voz é padronizada e só revela o gênero: não dá para ter certeza de com quem se está falando |
+| Digital Shade Gu | 2 | Arquivo de receitas classificado por cor de rank | — | Exige **reconhecimento da vontade** do Gu para abrir | — | Cofre de conhecimento que não se abre para quem o roubar | O acesso é controlado politicamente pelo clã, com tempo diário limitado e sob vigilância |
+| Earth Communication Ear Grass | 2 | Orelha-implante cujas raízes no solo estendem a audição a duzentos ou trezentos passos | raízes de ginseng — **fáceis de secar e estocar**, ao contrário de pétalas que murcham em dias | — | Substitui uma orelha decepada, o que também a torna solução de mutilação | A dieta é a mais conveniente do catálogo para quem viaja: o alimento se conserva | **Ouve mas não identifica**, e um Silent Step Gu a engana por completo |
+| Snake Tongue Gu | 2 | Radar térmico de curto alcance | — | — | — | Detecta por calor, ignorando furtividade visual | **Não enxerga criaturas de sangue frio** |
+| Photo-audio Gu | 3 | Grava imagem e som | luz e som — alimentação passiva, colhida do ambiente | A versão ritual é de **uso único**: projeta a cena numa fumaça de sete cores ao ser esmagada | — | Come de graça, colhendo do próprio ambiente que registra | A versão ritual se perde na reprodução, e cada gravação serve uma vez só |
+| Lightning Eye Gu | 3 | Vê através de qualquer furtividade | — | — | — | Não há furtividade que ele não atravesse | Alcance de cinquenta passos, que cai a trinta sob fumaça; e uma ilusão de rank 5 o suprime |
+| Bamboo Gentleman | 4 | Detector de mentiras | "honestidade" — um alimento abstrato, sem paralelo no resto do catálogo | — | **Só pode ser refinado por alguém que nunca mentiu na vida** | Verificação de verdade, algo que nenhum outro Gu mortal entrega | O refino exclui quase toda a população; e o Gu é frágil, consumível, e suprimível pela aura de um Gu muito superior |
+| Hints and Clues Gu | 5 | Rastreia Gu previamente marcados | — | — | — | Alcance de quinhentos li | Exige ter marcado o alvo antes (ded.) |
+| Hundred Li Eye | — | Visão de longuíssimo alcance | — | — | — | Enxerga de cem a quatrocentos li: vigilância estratégica de uma região inteira | — |
+| True Sight Gu | — | Contramedida contra furtividade | — | — | — | Anula ocultação sem exigir que o usuário saiba onde procurar | — |
+| Thread Trace Gu | 5 | Revela marcas de lei residuais | — | — | — | A **cor indica o caminho e a densidade indica o rank** de quem passou: identifica um inimigo que nunca foi visto | Lê o rastro, não a pessoa (ded.) |
+| Footprint Gu | — | Nuvem de pó que revela as últimas trinta mil pegadas de um alvo | — | — | — | Reconstrói o trajeto inteiro de alguém, não só a posição atual | — |
+| Chase Smoke Gu | — | Fumaça que prova contato físico ocorrido meses antes | — | — | — | Prova forense de encontros que ambas as partes negam | — |
+| Shared-sense Gu | — | Selo invisível implantado às escondidas, que transmite o ambiente ao redor do alvo | — | — | Taxa de implantação baixa | Espionagem contínua sem que a vítima saiba | A implantação falha com frequência |
+| Investigative Gu | 5 | Vê o "qi de talento" sobre a cabeça de mortais e de Mestres Gu | — | — | — | Lê a aptidão real de qualquer pessoa — informação normalmente secreta e socialmente explosiva | — |
+| Letter Gu (série) | 3-5 | Correio mágico | — | A versão borboleta de rank 5 exige que as defesas do destinatário sejam **afrouxadas** para entregar | — | As versões altas rasgam o espaço e entram até em terras abençoadas | A entrega de rank alto abre uma brecha na própria defesa de quem recebe |
+| Poetry Gu | 5 | Coração de jade vermelho com brilho dourado | — | — | — | É um **Gu vital** que abre acesso à família inteira de Gu de poesia, incluindo um com efeito de golpe de campo de batalha | Sendo Gu vital, amarra a vida do usuário a ele (ded.) |
 
 ---
 
@@ -603,21 +629,27 @@ Um subconjunto do caminho da informação, importante o bastante para ganhar se�
 própria: em um mundo onde inspecionar a abertura alheia é o maior tabu social,
 esconder a própria construção de personagem é uma disciplina completa.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Stealth Rock Gu | 1 | Invisibilidade do corpo — mas não das roupas | — |
-| Silent Step Gu | — | Oculta o som dos passos | — |
-| Smell Lock Gu | — | Ocultaria o odor corporal | — |
-| Stealth Scales Gu | 2 | Esconde corpo e roupas; não engana faro nem rank alto | — |
-| Breath Concealment Gu | 3 | Oculta a aura e mascara o nível de cultivo; quase indetectável | — |
-| Aura Restraint Gu | 3 | Camufla a natureza real de uma fera | — |
-| Bright Pearl Gu | 4 | Selagem de aura em duas camadas; usado para contrabando | — |
-| Sleep Lurk Gu | 4 | Ocultação excelente, mas o usuário cai em sono profundo | — |
-| Invisibility Gu | 5 | Invisibilidade detectável só por Gu investigativo específico | — |
-| Human Skin Gu | — | Troca completa de identidade física | — |
-| Blue Face Gu | — | Muda a aparência | — |
-| Old Removal Gu | — | Desfaz modificações corporais anteriores | — |
-| Clothing Gu | — | Transforma-se instantaneamente em roupa ao ser vestido | — |
+Esta tabela é uma corrida armamentista em miniatura, e ela se lê melhor de baixo para
+cima: cada Gu de ocultação existe porque um Gu de detecção o forçou a existir. Repare
+que a desvantagem quase sempre é uma **brecha específica** deixada aberta — roupas
+visíveis, cheiro, som, aura — e que cobrir cada brecha custa um Gu a mais no
+orçamento do personagem.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Stealth Rock Gu | 1 | Invisibilidade do corpo | — | — | — | Invisibilidade completa do corpo já no rank 1 | **Não esconde as roupas** nem rastros de sangue: sozinho é quase inútil na prática |
+| Silent Step Gu | — | Oculta o som dos passos | — | — | — | Contorna especificamente os Gu de audição, que são a detecção mais comum | Cobre só o som (ded.) |
+| Smell Lock Gu | — | Ocultaria o odor corporal | — | — | — | Fecharia a brecha que o Stealth Scales deixa aberta | A obra apenas o cita: o efeito não é detalhado |
+| Stealth Scales Gu | 2 | Esconde corpo e roupas | — | — | Fusão de Stealth Rock + Fish Scale — uma receita que o mundo só "descobriu" duzentos anos depois de ser possível | Corrige o defeito central do Stealth Rock | **Não engana o faro**, nem um praticante de rank 3 ou acima |
+| Breath Concealment Gu | 3 | Oculta a aura e mascara o nível de cultivo | — | Cai imediatamente ao ativar um fantasma de fera | Planta obtida de leopardos-sombrios; tecnologia obscura, que o mundo só entenderia cento e cinquenta anos depois | Mascara cerca de um rank acima do próprio, e é praticamente indetectável na era atual | Incompatível com o uso de fantasmas de força: quem luta com eles perde o disfarce no primeiro golpe |
+| Aura Restraint Gu | 3 | Camufla a natureza real de uma fera | — | — | Exemplar selvagem | Disfarça um rei-fera de mil feras como um lobo comum | Serve a feras, não ao usuário (ded.) |
+| Bright Pearl Gu | 4 | Selagem de aura em duas camadas | — | — | — | Duas camadas seguram até a aura de um Gu Imortal — é o Gu do contrabando | — |
+| Sleep Lurk Gu | 4 | Ocultação equiparável à de rank 5 | — | O usuário **cai em sono profundo** ao ativar, e perde a percepção do mundo externo; quanto mais profundo o sono, melhor a ocultação | — | Ocultação um rank acima do próprio | O custo está inteiro no uso: o usuário fica cego, surdo e inconsciente enquanto se esconde — e o Gu **quebra após um uso** |
+| Invisibility Gu | 5 | Invisibilidade | — | — | — | Só um Gu investigativo específico de rank 5 consegue detectá-la | — |
+| Human Skin Gu | — | Troca completa de identidade física | — | — | Feito sob medida para cada identidade | Substituição de identidade que sobrevive a inspeção próxima | Sob medida significa uma peça por identidade: não é reutilizável (ded.) |
+| Blue Face Gu | — | Muda a aparência | — | — | — | Disfarce rápido e barato | Muda o rosto, não a aura nem o cultivo (ded.) |
+| Old Removal Gu | — | Desfaz modificações corporais anteriores | — | — | — | Apaga as marcas físicas de um disfarce ou de uma cirurgia anterior | — |
+| Clothing Gu | mortal | Transforma-se instantaneamente em roupa ao ser vestido | — | — | — | Resolve exatamente a brecha do Stealth Rock Gu: a roupa passa a ser um Gu, não um objeto | — |
 
 ---
 
@@ -627,14 +659,19 @@ Dois caminhos "menores" com uma vantagem estrutural notável: caminhos menores s
 **muito menos penalidade** em território dominado por caminhos hostis. São a escolha
 de quem precisa operar longe de casa.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Clairaudience Gu | — | Audição extremamente sensível | — |
-| Sound Amplification Gu | — | Projeta a voz sobre um campo de batalha inteiro | — |
-| Plasma Gu | 2 | Descarga elétrica em área; forte contra armaduras metálicas | — |
-| Thunderclap Gu | 3 | Bola de trovão explosiva de longo alcance | — |
-| Yin Cloud Gu + Yang Cloud Gu | 3 | Par que gera raios de destruição; apaga marcas de força do corpo | — |
-| Heaven Earth Magnificent Sound Gu | 5 | Onda sonora letal em área; desgasta a voz até a mudez | — |
+São dois caminhos pequenos, e vale entender por que alguém os escolheria: caminhos
+menores sofrem **muito menos penalidade** em território dominado por caminhos hostis.
+Quem precisa operar longe de casa monta aqui. E note o par Yin/Yang Cloud, que é uma
+das poucas ferramentas do sistema capazes de **desfazer** um investimento alheio.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Clairaudience Gu | — | Audição extremamente sensível | — | — | — | Vigilância passiva, que não gasta nada enquanto não há nada para ouvir (ded.) | Enganável pelo Silent Step Gu, como toda detecção sonora (ded.) |
+| Sound Amplification Gu | — | Projeta a voz sobre um campo de batalha inteiro | — | — | — | Comando de exército sem cadeia de mensageiros | Quem ouve a ordem inclui o inimigo (ded.) |
+| Plasma Gu | 2 | Descarga elétrica em área que paralisa | — | Recarga de cinco respirações | — | Especialmente forte contra armaduras metálicas, e paralisa vários alvos de uma vez | Contra quem não usa metal, o efeito é bem menor (ded.) |
+| Thunderclap Gu | 3 | Bola de trovão explosiva de longo alcance | — | Precisa recarregar entre disparos | Exemplar selvagem | Dano de área a longa distância | A recarga limita o ritmo de tiro |
+| Yin Cloud Gu + Yang Cloud Gu | 3 | Par de nuvens que geram raios com lei da destruição | — | O processo leva cerca de dezenove dias | Funciona apenas em par | **Apaga fantasmas de fera e marcas de lei de força do corpo** — a ferramenta que permite reconstruir um personagem que se especializou errado | Dezenove dias de processo: não é uso de combate, é cirurgia |
+| Heaven Earth Magnificent Sound Gu | 5 | Onda sonora que vai de fala amplificada a ataque letal em área | — | — | — | Escala de comunicação a arma no mesmo Gu | O uso **desgasta a voz até a mudez permanente** |
 
 ---
 
@@ -643,17 +680,22 @@ de quem precisa operar longe de casa.
 Poucos Gu, mas de aplicação prática constante: terreno, armadilhas e escavação. É o
 caminho que sustenta fortificações.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Sandpit Gu | 1 | Cria um buraco de areia instantâneo no chão | — |
-| Muddy Gu | — | Cria e expande uma poça de lama que prende o alvo | — |
-| Swamp Gu | — | Transforma o chão em lama | — |
-| Monolith Gu | — | O corpo vira pedra: mais defesa e peso, com atraso na ativação | — |
-| Bury Gu | — | Esconder-se sob o solo; imóvel e caro | — |
-| Charred Thunder Potato Gu | 2 | Mina enterrada; o dano cresce com a profundidade | fertilidade do solo |
-| Earth Refinement Gu | 4 | Refina e quebra um selo sólido a partir de fora | — |
-| Territory Gu | 3-4 | Plantado no solo, afirma e controla domínio territorial | — |
-| Giant Mountain Puppet Gu | 5 | Transforma o usuário num títere de rocha de até dezoito metros | — |
+O caminho da terra é o menos glamoroso e o mais constante: terreno, armadilhas,
+escavação e domínio territorial. Ao ler, note que a maioria destes Gu **prepara** o
+campo em vez de atacar — o valor deles aparece quando alguém escolhe onde a luta vai
+acontecer, o que é justamente o tipo de decisão que uma mesa de jogo gosta de tomar.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Sandpit Gu | 1 | Cria um buraco de areia instantâneo no chão | — | — | — | Armadilha instantânea por um Gu de rank 1 | Precisa de solo adequado (ded.) |
+| Muddy Gu | mortal | Cria e expande uma poça de lama que prende o alvo | — | Usos repetidos **aprofundam** a poça | — | Escala com a insistência: quanto mais o usuário aplica, mais fundo o alvo afunda | Exige tempo e repetição para virar ameaça real |
+| Swamp Gu | — | Transforma o chão em lama | — | — | — | Nega mobilidade a uma área inteira | — |
+| Monolith Gu | — | O corpo do usuário vira pedra | — | Tem um **atraso de ativação** | — | Grande ganho de defesa e de peso | O atraso é explorável: um inimigo que conhece o Gu ataca na janela |
+| Bury Gu | — | Esconder-se sob o solo | — | Custo alto, e o usuário fica **imóvel** | — | Ocultação que nenhuma vigilância de superfície pega | Caro e paralisante: é esconderijo, não tática de combate |
+| Charred Thunder Potato Gu | 2 | Mina enterrada | fertilidade do solo | — | Faz parte de uma família (charred, muffled, thunderclap) | O dano **cresce com a profundidade**, e várias minas juntas detonam em reação em cadeia, sendo letais em massa | Estática: só serve onde foi plantada (ded.) |
+| Earth Refinement Gu | 4 | Refina e quebra um selo sólido **a partir de fora** | — | — | — | Abre selos sem precisar estar dentro deles — contramedida rara contra prisões e cofres | — |
+| Territory Gu | 3-4 | Plantado no solo, afirma e controla domínio territorial | — | — | Item comum de vilas e de forças organizadas | A versão imortal chega a mil li de raio; a mortal é a base legal e prática de qualquer domínio | Plantado: o domínio é fixo (ded.) |
+| Giant Mountain Puppet Gu | 5 | Transforma o usuário num títere de rocha de até dezoito metros | — | Ativado através de uma máscara de cobre | — | O títere **hospeda outros Gu nos braços**: vira plataforma de armas, não só corpo grande | — |
 
 ---
 
@@ -663,17 +705,24 @@ Inclui a linha de zumbificação, que é a mais famosa do caminho. A regra estru
 **usar transformações por tempo demais torna-as permanentes**. O Gu que dá qualidades
 de zumbi acaba produzindo um zumbi de verdade.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Running Corpse Gu | 2 | Transforma um cadáver num zumbi capaz de evoluir; uso único | — |
-| Roaming Zombie Gu | 2 | Qualidades de zumbi; o uso prolongado zumbifica de verdade | sangue |
-| Zombie Heart Gu | 3 | Coração de bronze que produz o Gu de animação de cadáveres | zumbis |
-| Fur Zombie Gu | 3 | Estágio seguinte da linha zumbi | — |
-| Jumping Zombie Gu | 4 | Estágio seguinte | — |
-| Flying Zombie Gu | 5 | Primeiro estágio voador; cinco variantes conhecidas | — |
-| Djinn Heart / Body / Mind Gu | 4 | Trio que triplica força física e mental temporariamente | — |
-| Change Form Gu | — | Disfarce por mudança de forma | — |
-| Nine Leaf Vitality Grass → Wood Charm | 3 | Transformação vegetal progressiva e irreversível | — |
+A regra estrutural desta família está toda na coluna de uso, e é uma das mais
+elegantes do sistema: **usar uma transformação por tempo demais a torna permanente**.
+O Gu que empresta qualidades de zumbi acaba produzindo um zumbi de verdade; o Gu que
+empresta qualidades de árvore acaba produzindo uma árvore. Não existe transformação
+temporária de graça — existe transformação temporária **desde que o usuário saiba
+parar**.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Running Corpse Gu | 2 | Transforma um cadáver num zumbi capaz de **evoluir** por estágios de cor | — | **Uso único** por cadáver | Produzido pelo Zombie Heart Gu | O produto não é um servo fixo: ele melhora com o tempo, do branco ao azul | Consumível, e depende de haver cadáveres frescos |
+| Roaming Zombie Gu | 2 | Concede ao usuário qualidades de zumbi: resistência, regeneração e ausência de dor | sangue, depois da transformação | **O uso prolongado zumbifica de verdade** | Exige um Gu de sangue como par obrigatório para sustentar o usuário | Três vantagens de sobrevivência num único Gu de rank 2 | O custo está no uso, e é a perda definitiva da humanidade; além disso obriga a sustentar um segundo Gu |
+| Zombie Heart Gu | 3 | Coração de bronze de sete buracos | zumbis | — | — | Produz continuamente o Gu de animação de cadáveres: é uma fábrica, não uma arma | A dieta de zumbis exige manter uma operação de mortos-vivos funcionando (ded.) |
+| Fur Zombie Gu | 3 | Estágio seguinte da linha zumbi | — | — | — | Progressão sem trocar de arsenal | Cada degrau aprofunda a transformação irreversível (ded.) |
+| Jumping Zombie Gu | 4 | Estágio seguinte | — | — | — | — | — |
+| Flying Zombie Gu | 5 | Primeiro estágio voador da linha | — | — | — | Cinco variantes conhecidas — os "Cinco Grandes Zumbis Voadores" — com especializações diferentes | — |
+| Djinn Heart / Body / Mind Gu | 4 | Trio que triplica força física e mental | — | Temporário | Só rende com os três em conjunto (ded.) | Triplica dois atributos ao mesmo tempo | Exige três Gu de rank 4 simultâneos: um orçamento que quase ninguém tem |
+| Change Form Gu | — | Disfarce por mudança de forma | — | — | — | — | — |
+| Nine Leaf Vitality Grass → Wood Charm Gu | 3 | Transformação vegetal progressiva | — | Irreversível se levada longe demais | — | Concede absorção de essência do ambiente e amplifica todos os Gu de planta | Mesmo mecanismo da linha zumbi: o corpo vira madeira de vez |
 
 ---
 
@@ -683,31 +732,40 @@ Este bloco é o mais importante do catálogo para desenho de progressão: são o
 **mexem no próprio cultivo do praticante**. Repare que cada um deles é um atalho com
 um preço explícito, e que os mais poderosos são os mais sombrios.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Liquor Worm | 1 | Refina a própria essência um estágio acima; perde-se volume | vinho |
-| Four Flavors Liquor Worm | 2 | Versão de rank 2 da mesma destilação | vinhos variados |
-| Seven Fragrances Liquor Worm | 3 | Versão de rank 3 | especiarias |
-| Nine Eyes Liquor Worm | 4 | Versão de rank 4; a linha para aqui, sem versão de rank 5 | — |
-| Relic Gu (green copper) | 1 | Consumível: avança um estágio dentro do rank 1, sem sequelas | — |
-| Relic Gu (red steel) | 2 | O mesmo, para o rank 2 | — |
-| Relic Gu (white silver) | 3 | O mesmo, para o rank 3 | — |
-| Relic Gu (yellow gold) | 4 | O mesmo, para o rank 4; politicamente controlado | — |
-| Relic Gu (purple crystal) | 5 | O mesmo, para o rank 5 | — |
-| Cleansing Water Gu | — | Purifica a abertura de contaminações e apaga evidências de dopagem | — |
-| Stone Aperture Gu | — | Salta direto ao pico do rank atual; queima o potencial futuro | — |
-| Bone Flesh Unity Gu | 3 | Transfere essência entre dois vinculados, sem contaminação | — |
-| Man-beast Life Burial Gu | 3 | Força o avanço de um rank inteiro; corrói a aptidão | ritual de sacrifício |
-| Blood Skull Gu | 4 | Eleva a aptidão com sangue de vítimas; retornos decrescentes | sangue de vítimas |
-| Yin Yang Rotation Gu | 4 | Troca o sexo do corpo; cada uso reduz a aptidão em dez por cento | — |
-| Man Triumphing Heaven Gu | 5 | Desperta a abertura de um mortal sem talento algum | — |
-| Beast Strength Placenta Gu | 5 | Devora aberturas de mortos, convertendo-as em aptidão | aberturas de mortos |
-| Undefeated Hundred Battles Gu | 5 | Garante o sucesso de um refino já em andamento; uso único | — |
-| Immediate Success Gu | — | Eleva a taxa de sucesso de um refino | — |
-| Green Mountain Remains Gu | 4 | Protege o Gu-núcleo quando um refino fracassa | — |
-| Polished Gold Gu | — | Aumenta a aptidão; consumo único | — |
-| Careful Gu | — | Controla os passos críticos de um refino | — |
-| Second Aperture Gu (série) | 1-5 | Abre aberturas adicionais escalonadas; autodetona ao ser saciado | sangue do usuário |
+Se você só for ler uma tabela deste catálogo, leia esta. São os Gu que mexem no
+**próprio cultivo** do praticante, e cada um é um atalho com um preço escrito na
+etiqueta. O padrão vale como regra de desenho: quanto mais poderoso o atalho, mais
+sombrio o custo — e os únicos que não cobram nada (a série Relic) são justamente os
+que não podem ser fabricados, só encontrados, e por isso são politicamente
+controlados. Repare também na coluna 🍖 da linha do Liquor Worm: um Gu que come vinho
+é barato de sustentar com vinho bom e ruinoso com vinho ruim, o que faz da qualidade
+do insumo uma decisão econômica real.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Liquor Worm | 1 | Refina a própria essência um estágio acima | vinho de bambu verde: um jarro (duas pedras) dura quatro dias — **vinho ruim exige doses muito maiores**, então economizar no insumo sai caro | O aroma refina passivamente, sem exigir ação do usuário | — | Melhora a qualidade da essência continuamente e de graça, só por estar perto | O rendimento cai de vinte para cerca de cinco por cento com o tempo, e o Gu é **inútil para quem passa do rank 2** |
+| Four Flavors Liquor Worm | 2 | Versão de rank 2 da mesma destilação | vinhos variados e essência | — | Fusão de dois Liquor Worms com os quatro vinhos (doce, picante, azedo e amargo), em etapas; cerca de 400 pedras no total | Preserva a habilidade de refino ao subir de rank, o que a rota alternativa perde | O refino é multi-etapa e caro para o rank |
+| Seven Fragrances Liquor Worm | 3 | Versão de rank 3 | especiarias | — | — | Mantém a linha viva até o rank 3 | — |
+| Nine Eyes Liquor Worm | 4 | Versão de rank 4 | — | — | — | O topo da linhagem | **A linha acaba aqui**: não existe versão de rank 5 |
+| Relic Gu (green copper) | 1 | Consumível que avança um pequeno estágio dentro do rank 1 | — | Consumido no uso | Gu **natural**: não pode ser criado nem refinado por ninguém. Cerca de 2.000 pedras | Avanço com fundação estável e **sem nenhum efeito colateral** — o único atalho limpo do sistema | Não é fabricável: a oferta é o que a natureza der |
+| Relic Gu (red steel) | 2 | O mesmo, para o rank 2 | — | Consumido no uso | Cerca de 8.000 pedras | — | — |
+| Relic Gu (white silver) | 3 | O mesmo, para o rank 3 | — | Consumido no uso | Cerca de 50.000 pedras | — | O preço já exclui a maioria dos praticantes |
+| Relic Gu (yellow gold) | 4 | O mesmo, para o rank 4 | — | Consumido no uso | Cerca de 300.000 pedras, e **politicamente controlado fora do mercado** | — | Não basta ter dinheiro: é preciso ter permissão |
+| Relic Gu (purple crystal) | 5 | O mesmo, para o rank 5 | — | Consumido no uso | Restrito | — | Restrito da mesma forma |
+| Cleansing Water Gu | — | Purifica a abertura de contaminações e auras estranhas | — | — | — | Além da função declarada, **apaga a evidência de dopagem** — é o Gu de encobrir rastros | — |
+| Stone Aperture Gu | — | Pó que engrossa a parede da abertura e leva o usuário ao pico do rank atual | — | Uso único | — | Salto imediato ao pico do rank, sem espera | **Queima o potencial de avanço futuro**: troca teto por velocidade. É reversível apenas pelo Blood Skull Gu |
+| Bone Flesh Unity Gu | 3 | Converte e transfere essência entre dois usuários vinculados | — | Existem cinco subtipos por grau de vínculo: dez por cento doado rende de vinte a cem por cento recebido, e a qualidade escala com o **vínculo emocional** | Exige parentesco de sangue direto e carne de ambos os vinculados; a versão de rank 5 é fabricada a partir de dois dos três fetos de trigêmeos | Permite avançar meio patamar, ou até cruzar um rank inteiro, com essência de outra pessoa. Valioso em qualquer rank | O refino é feito sobre a própria família, e nos casos extremos sobre fetos |
+| Man-beast Life Burial Gu | 3 | Força o avanço de um rank inteiro | ingerido; a receita exige uma Mestra Gu virgem devorada, uma fera escravizada e fogo ritual | Uso único | Fusão demoníaca | Um rank inteiro de avanço num único ato, o que nenhum método legítimo faz | O resíduo **corrói a aptidão** em cerca de dois por cento, e o refino é um assassinato ritual |
+| Blood Skull Gu | 4 | Eleva a aptidão permanentemente | sangue de vítimas do usuário, na casa das centenas | — | — | Aumenta a aptidão de forma permanente e ainda **reverte efeitos nocivos de rank inferior**, incluindo os do Stone Aperture Gu | Retornos decrescentes, e a alimentação é assassinato em série |
+| Yin Yang Rotation Gu | 4 | Troca o sexo do corpo do usuário; a versão Yin ainda cura estados de quase-morte | — | — | Funciona em par | Suprime temporariamente constituições físicas extremas, e serve de disfarce absoluto | Cada uso **reduz a aptidão em dez por cento** |
+| Man Triumphing Heaven Gu | 5 | Desperta a abertura de um mortal sem nenhum talento | — | — | — | Cria um Mestre Gu onde o céu não deu nenhum: é literalmente desafiar o destino | — |
+| Beast Strength Placenta Gu | 5 | Devora aberturas de mortos, convertendo-as em aptidão | aberturas de Mestres Gu mortos | — | — | Transforma cadáveres de praticantes em progressão | Retornos decrescentes, e a dieta exige um suprimento contínuo de mortos |
+| Undefeated Hundred Battles Gu | 5 | **Garante** o sucesso de um refino em andamento | — | Uso único | Obtido na centésima rodada de uma herança específica, junto com um grupo de servos | Elimina o risco do refino — a maior fonte de perda de patrimônio do sistema | Descartável, e essencialmente inobtenível fora daquela herança |
+| Immediate Success Gu | — | Eleva a taxa de sucesso de um refino | — | — | Mais caro que um Relic Gu de cristal roxo | Melhora a chance sem exigir a raridade do Undefeated Hundred Battles | Custa mais que o consumível de avanço mais caro do mercado |
+| Green Mountain Remains Gu | 4 | Protege o Gu-núcleo quando um refino fracassa | — | — | — | Limita o prejuízo de uma falha ao material, poupando a peça insubstituível | Não aumenta a chance de sucesso: só reduz a perda (ded.) |
+| Polished Gold Gu | mortal | Aumenta a aptidão do usuário | — | Consumo único | Encontrado na corrente de fragmentos de ouro, não refinado | Ganho de aptidão sem custo colateral registrado | Encontrado, não fabricado (ded.) |
+| Careful Gu | — | Controla os passos críticos de um refino | — | — | — | Apoio de processo para as etapas em que uma falha destrói tudo | — |
+| Second Aperture Gu (série) | 1-5 | Cria uma **segunda abertura** do rank correspondente | sangue do usuário — e **autodetona ao ser saciado** | — | A versão rank 6 usa um Lifespan Gu como material | Dobra a capacidade e a recuperação de essência, e permite um segundo conjunto inteiro de Gu | Cada exemplar da série só serve até o próprio rank: sem o degrau seguinte, a segunda abertura trava. E o Gu se destrói ao ser alimentado o bastante |
 
 ---
 
@@ -718,10 +776,15 @@ sorte são as duas faces do mesmo mecanismo** — o céu tira dos excessos e rep
 déficits. Quem cultiva sorte está literalmente usurpando a função administrativa do
 céu.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Luck Inspection Gu | 1-5 | Vê a sorte alheia como auras coloridas; não enxerga rank superior | — |
-| Wish Power Gu | — | Poder de desejos coletivos acumulado por gerações | — |
+São só dois Gu mortais, mas a regra por trás deles vale mais do que a tabela: a
+inspeção de sorte tem uma limitação que define todo o caminho — **ela não enxerga
+quem tem sorte de rank superior**. Ou seja, o especialista em sorte nunca sabe se está
+olhando para alguém comum ou para alguém muito acima dele.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Luck Inspection Gu | 1-5 | Vê a sorte alheia como auras coloridas | — | — | — | Lê um atributo que nenhum outro Gu revela, e que decide o destino de campanhas inteiras | **Não enxerga sorte de rank superior ao próprio**: contra alguém acima, o Gu mostra vazio — e o usuário não sabe distinguir vazio de ausência |
+| Wish Power Gu | mortal | Poder de desejos coletivos acumulado por gerações | — | — | — | Escala com a população e com o tempo, não com o cultivo do dono: é o único recurso do sistema que uma comunidade produz sozinha | Depende de gerações de acumulação: ninguém o constrói dentro da própria vida (ded.) |
 
 ---
 
@@ -730,12 +793,17 @@ céu.
 Um caminho que depende do céu: seus efeitos escalam com quantas estrelas estiverem ao
 alcance. Onde não há estrelas visíveis, ele simplesmente não funciona.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| A Bit of Star Gu | 1 | O degrau mais baixo da série de amplificação estelar | — |
-| Star Dart Gu | — | Projétil estelar de produção em massa | — |
-| Five Stars Aligned Gu | 5 | O topo da série; amplificação barata e confiável | — |
-| Fixed Star Gu | — | Fragmento estelar implantável; âncora de rastreamento global | — |
+A desvantagem deste caminho inteiro está no ambiente, não nos Gu: onde não há
+estrelas visíveis, nada aqui funciona. Em compensação, a vantagem também é ambiental
+e é de **custo** — a amplificação estelar é descrita como mais barata e mais confiável
+que as alternativas, e é por isso que o caminho existe.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| A Bit of Star Gu | 1 | O degrau mais baixo da série de amplificação estelar | — | — | — | Amplificação disponível já no rank 1 | Depende de estrelas ao alcance (ded.) |
+| Star Dart Gu | — | Projétil estelar | — | — | **Produzido em massa** | Munição barata e abundante, coisa rara no sistema | — |
+| Five Stars Aligned Gu | 5 | O topo da série de amplificação | — | — | — | Amplificação **mais barata e mais confiável** que a de outros caminhos: a vantagem é econômica | Cinco estrelas alinhadas é uma condição astronômica, não uma escolha do usuário (ded.) |
+| Fixed Star Gu | — | Fragmento estelar imemorial, implantável às escondidas no corpo do alvo | — | — | Fragmento encontrado, de formato octaédrico | Âncora de rastreamento **global**, base de um golpe de busca e travamento infinito | Remover exige preparo específico ou **amputação** do membro em que foi implantado |
 
 ---
 
@@ -745,13 +813,18 @@ Um caminho criado por um único Venerável, e por isso raro e mal distribuído. 
 premissa é simples e perturbadora: **tudo pode ser roubado** — Gu, tempo de vida,
 identidade, e até as leis do mundo.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Sneak Attack Gu | 2 | Fantasma azul velocíssimo que atravessa defesas e ataca por dentro | — |
-| Sneak Attack Gu | 5 | Versão que solta centenas de fantasmas simultâneos | — |
-| Plunder Gu | — | Rouba um Gu de inimigo ou cadáver; o usuário fica imóvel | — |
-| Open Door Gu | 5 | Abre a entrada de espaços de herança; detecta heranças não reclamadas | — |
-| Close Door Gu | 5 | Fecha o mesmo tipo de passagem | — |
+Note o Sneak Attack Gu de rank 2: consome apenas dez por cento da essência mais
+barata do sistema e atravessa defesas físicas. É o exemplo perfeito da vantagem
+econômica de que fala o cabeçalho — um Gu de rank baixo que continua útil muito
+depois de o dono ter subido, porque quase não custa nada acionar.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Sneak Attack Gu | 2 | Fantasma de bebê azul, velocíssimo, que atravessa defesas físicas e ataca de dentro do alvo | — | Consome apenas **dez por cento de essência de cobre verde**, a mais barata que existe | — | Ignora armadura por completo e é baratíssimo de acionar: continua valendo a pena muitos ranks depois | — |
+| Sneak Attack Gu | 5 | Versão que solta centenas de fantasmas simultâneos | — | — | — | Cada fantasma é velocíssimo e oculto; **perdido de vista um deles, é impossível rastreá-lo de novo** | — |
+| Plunder Gu | — | Rouba à força um Gu de um inimigo ou de um cadáver | — | O usuário fica **imóvel** durante o roubo | — | Converte uma vitória em patrimônio: o espólio vem direto da abertura do derrotado | Taxa de sucesso baixa, contragolpe em caso de falha, e **não rouba Gu de rank acima do próprio** |
+| Open Door Gu | 5 | Abre a entrada de espaços de herança | — | — | Funciona em par com o Close Door | Também **detecta heranças ainda não reclamadas**: transforma exploração em busca dirigida | — |
+| Close Door Gu | 5 | Fecha o mesmo tipo de passagem | — | — | Par do anterior | Permite trancar uma herança atrás de si, negando-a a quem vier depois | — |
 
 ---
 

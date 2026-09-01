@@ -105,8 +105,192 @@ Recém-ascendidos tendem à reclusão por décadas: têm um mundo inteiro para o
 
 E há uma assimetria que a designer vai querer aproveitar: **cultivo baixo tem valor estratégico próprio**. Certos lugares frágeis do mundo só toleram visitantes com poucas marcas de lei — um imortal poderoso os estouraria só por entrar. Existe até um caso-limite documentado de um Gu Immortal com duas aberturas que **selou a imortal e reverteu temporariamente a mortal**, para entrar numa zona que caçava aberturas imortais. Ser fraco é, ocasionalmente, uma habilidade.
 
+---
+
+## O que realmente decide o resultado
+
+Este é o ponto onde a maioria das explicações erra, e ele importa porque decide se um
+personagem vale a pena investir numa ascensão.
+
+> [!warning] A aptidão não manda aqui — e "100%" significa outra coisa
+> A ascensão exige um **assalto total**: o candidato projeta toda a essência que possui,
+> de uma vez, contra a própria parede. É preciso estar com a reserva **cheia, a 100% da
+> própria capacidade** — não com 100% de aptidão. Um grau C com teto de 44% ascende
+> gastando os seus 44%, integralmente. Ter 100% de aptidão é ser portador de uma
+> [[As Dez Constituições Extremas|constituição extrema]], que é outra categoria.
+
+A aptidão determina **quanta munição** o candidato leva para o primeiro passo, e é
+**um** dos ingredientes do segundo — mas apenas um entre muitos. Do passo 2 em diante,
+quem decide é o **qi humano**.
+
+### Do que o qi humano é feito, exatamente
+
+A obra enumera. O qi humano é a soma do acúmulo do cultivador, e nele entram:
+
+- **força de combate** — o que a pessoa é capaz de fazer numa luta;
+- **resistência do corpo físico**;
+- **profundidade da alma**;
+- **familiaridade com os Gu** — quanto o cultivador realmente domina suas ferramentas;
+- **compreensão do céu e da terra** — o entendimento das leis do mundo;
+- **consciência da própria natureza** — saber quem se é;
+- **sorte**;
+- **talento e aptidão** — sim, entram, mas como dois itens de uma lista de onze;
+- **encontros fortuitos** — as oportunidades raras que a vida trouxe;
+- **percepções e insights** acumulados ao longo do caminho.
+
+> [!question] Então idade dá mais qi humano?
+> **Indiretamente, e só indiretamente.** A obra não converte tempo de vida em qi humano.
+> O que conta é **acúmulo**, e uma vida longa apenas oferece mais oportunidade de
+> acumular. Alguém que viveu séculos em reclusão, sem lutar, sem viajar, sem estudar e
+> sem encontrar nada, chega com pouco. Alguém que viveu um terço disso mas atravessou
+> guerras, heranças, revelações e derrotas chega com muito.
+>
+> Dito isso, a obra é explícita quanto ao potencial de uma vida longa: um mortal com
+> séculos de vivência real pode gerar qi humano mais denso do que um imortal jovem. Para
+> a mesa, a leitura correta é: **idade é oportunidade, biografia é o recurso.**
+
+A consequência é a mais importante desta nota: **um talento medíocre que viveu muito,
+viajou, lutou, estudou e sobreviveu chega à ascensão melhor equipado que um prodígio
+que só cultivou.** O mundo mortal recompensa talento; a ascensão recompensa biografia.
+
+### Por que acúmulo baixo mata — e não apenas atrapalha
+
+Aqui está a mecânica precisa, e ela é mais cruel do que parece à primeira vista.
+
+Os três qi precisam terminar equilibrados. Mas o qi do céu e o qi da terra **não são
+opcionais e não são escassos**: assim que a abertura é estilhaçada, eles afluem em
+grande quantidade, independentemente de quem seja o candidato. O qi humano é o único
+que a pessoa produz — e ele é o **contrapeso**.
+
+Quem tem acúmulo raso condensa pouco qi humano enquanto o qi do céu e da terra aparece
+em volume alto. O equilíbrio não é alcançado, os dois qi externos **suprimem e devoram**
+o qi humano, e o cultivador é assimilado pelo céu e pela terra, e morre.
+
+Ou seja: o problema de quem acumulou pouco **não é ficar com um domínio pequeno**. É ser
+engolido. A ascensão não oferece a opção de "tentar modestamente" — o mundo despeja a
+mesma enxurrada sobre todos, e quem não tem lastro para equilibrá-la é dissolvido.
+
+As duas causas de morte, então, são espelhadas:
+
+- **Qi humano insuficiente** — o candidato é sobrepujado pelo que veio de fora. É a morte
+  do despreparado.
+- **Ganância** — o contato direto com o Grande Dao neste momento é inebriante, e a
+  tentação de absorver mais do que o próprio qi humano sustenta desequilibra por excesso.
+  É a morte do preparado que quis mais. A obra a aponta como causa número um.
+
+> [!note] Para o design
+> Esta é a mecânica mais jogável da nota inteira, porque tem **duas falhas opostas**. Um
+> teste de ascensão bem desenhado não é "role alto o suficiente": é escolher **quanto
+> absorver**, sabendo que absorver de menos entrega um domínio pobre, absorver de mais
+> mata, e o teto seguro é o acúmulo que a campanha inteira construiu. Aposte a ficha do
+> personagem contra a biografia dele.
+
+> [!note] Para o design
+> Aqui está uma regra de jogo pronta e temática: a ascensão não deveria ser resolvida por
+> uma estatística da ficha, e sim por **um balanço da campanha inteira** — quantos feitos,
+> quantas perícias, quantos vínculos, quanta compreensão o personagem acumulou. É o
+> momento em que a mesa cobra tudo que a mesa fez.
+
+---
+
+## Tamanho e qualidade do domínio conquistado
+
+O que se ganha ao sobreviver não é padronizado. A abertura imortal resultante varia em
+**área, fluxo de tempo, riqueza de recursos e afinidade** — e tudo isso é determinado no
+instante da ascensão, pelo volume de qi absorvido e equilibrado.
+
+| Grade | Área aproximada | Produção anual de essência | O que mais muda |
+|---|---|---|---|
+| Pequena | até cerca de 2.000 km² | dez e poucas contas | recursos escassos |
+| Média | cerca de 2.700 a 4.000 km² | vinte e poucas contas | recursos abundantes |
+| Alta | cerca de 4.700 a 6.000 km² | trinta e poucas contas | sobra qi para promover um Gu mortal a Imortal na própria ascensão |
+
+Quatro esclarecimentos que a tabela não mostra:
+
+1. **Essas medidas são do tamanho na formação**, não do tamanho atual. A obra registra
+   isso explicitamente. Um domínio cresce depois, e pode ser ampliado por anexação.
+2. **O fluxo de tempo interno cresce junto com a área** e depois estabiliza. Domínios
+   documentados vão de cinco para um até mais de trinta para um. Isso é decisivo: tempo
+   interno acelerado significa cultivar, refinar e plantar mais rápido que o mundo lá fora.
+3. **A paisagem reflete o caminho, a fundação e o temperamento** do dono, e cada domínio
+   tem uma afinidade própria que define o que prospera dentro dele.
+4. **O caminho do espaço nasce maior** que a média, e domínios com ciclo dia-noite
+   completo indicam fundação profunda no caminho do tempo.
+
+A qualidade do domínio é, na prática, a renda vitalícia do personagem: dela saem a moeda
+imortal, os materiais de refino e a comida dos Gu. Ver [[Blessed Lands e Grotto-Heavens]]
+e [[Economia Imortal]].
+
+---
+
+## Chances reais, por cenário
+
+A obra dá poucos números diretos, e eles são brutais. O que existe:
+
+| Cenário | Chance aproximada |
+|---|---|
+| Um rank 5 qualquer completar a ascensão | menos de um em dez mil |
+| Alguém de qualquer rank tornar-se imortal | quase nenhum em dez milhões |
+| Um quase-Venerável tentando o rank 8 → 9 | por volta de quinze por cento |
+
+O caso do rank 8 → 9 merece destaque porque mostra o padrão de custo do fracasso: a
+primeira tentativa malsucedida deixou o candidato acamado por setenta anos, e a segunda
+o destruiu por completo. **Falhar não é voltar ao ponto de partida** — é ficar
+permanentemente diminuído, quando não morrer.
+
+> [!warning] Sobre aptidão baixa e o equilíbrio dos três qi
+> A obra não fornece uma tabela de chance por grau de aptidão. O que ela estabelece é o
+> mecanismo, e dele decorre a dificuldade: um grau baixo leva menos essência para o
+> primeiro passo e, sobretudo, tende a ter acumulado menos vida — menos feitos, menos
+> recursos, menos compreensão — logo gera menos qi humano e tem menos margem para
+> equilibrar os outros dois. A dificuldade é real, mas é **consequência do acúmulo, não
+> do número da aptidão**, e é exatamente por isso que ela pode ser compensada. Qualquer
+> percentual por grau que você venha a adotar é decisão de design, não texto.
+
+---
+
+## Antes de tentar: o que preparar, e por quê
+
+Reunimos aqui o repertório que a obra mostra sendo usado por quem se prepara a sério.
+Cada item resolve um problema específico do processo.
+
+| Preparar | Resolve | Por quê |
+|---|---|---|
+| **Elevar a aptidão** | munição do passo 1 e um item do qi humano | mais capacidade significa assalto mais forte contra a parede, e a aptidão entra na soma do acúmulo; ver [[Avançar com Aptidão Baixa]] |
+| **Acumular vida, não só rank** | qi humano — o item nº 1 | feitos, viagens, compreensão, encontros raros e autoconhecimento são literalmente o combustível do passo 2, e o contrapeso que impede o candidato de ser devorado |
+| **Fortalecer corpo e alma** | qi humano | resistência física e profundidade de alma são componentes explícitos da soma |
+| **Dominar de fato os próprios Gu** | qi humano | "familiaridade com os Gu" é um componente listado — carregar um arsenal que não se domina não conta |
+| **Elevar o [[Attainment|attainment]]** | qi humano e o bônus do passo 2 | compreensão entra na conta; e o passo 2 é uma janela única de comunhão com o Grande Dao, direcionável para saltar de compreensão num caminho escolhido |
+| **Obter um Gu vital maduro e bem escolhido** | pré-requisito absoluto | sem Gu vital não há ascensão — e o Gu vital escolhido **define o caminho** do imortal resultante |
+| **Uma segunda abertura** | seguro de vida | permite estilhaçar apenas uma e sobreviver ao fracasso; é a única rede de segurança conhecida |
+| **Gu de armazenamento externo à abertura** | perda do arsenal | o qi desenfreado destrói Gu mortais próximos; sem isso, o recém-ascendido acorda praticamente sem nada |
+| **Killer moves defensivos e de resistência** | tribulação de ascensão | a ruptura convoca uma provação, e há um período de fraqueza indefeso no passo 3 |
+| **Local seguro e isolado** | interferência | ninguém pode ajudar durante o processo, e a tribulação atinge quem estiver perto; um inimigo que conheça a data tem o alvo mais vulnerável possível |
+| **Reserva cheia e essência no melhor estágio** | passo 1 | é um assalto único; não há segunda chance de encher |
+| **Aliados avisados, não presentes** | proteção pós-ascensão | quem sai vivo fica exausto, sem Gu e com um mundo novo instável para estabilizar |
+
+> [!warning] Um erro clássico que a obra registra
+> Ascender perto de outra tribulação em andamento **funde as duas provações e multiplica
+> o poder delas** — não soma. Isso já foi usado deliberadamente como arma contra um
+> ascendente. Escolher o momento importa tanto quanto escolher o lugar.
+
+### Para quem não tem os pré-requisitos
+
+- **Sem acúmulo de vida suficiente:** existe um Gu de patamar alto que coleta e purifica
+  o qi humano de **outras pessoas** para somar ao próprio. Compensa acúmulo insuficiente
+  e eleva bastante as chances — com o custo moral e prático de tomar isso de terceiros.
+- **Sem margem de segurança:** a segunda abertura é a única rede documentada, e ela mesma
+  exige um Gu Imortal e um processo longuíssimo para ser criada.
+- **Sem chance nenhuma pela via normal:** restam as rotas alternativas de existência —
+  zumbificação, possessão, ou ser convertido por uma organização poderosa. Nenhuma é
+  atalho: todas trocam o problema por outro, geralmente pior. Ver
+  [[Avançar com Aptidão Baixa]] e [[Longevidade]].
+
+---
+
 ## Relações
 
+- [[Avançar com Aptidão Baixa]] — o repertório completo de contornar limites, do rank 1 à imortalidade.
 - [[Ranks e Avanço]] — a escada mortal que termina aqui.
 - [[Abertura]] — o órgão que é destruído e reconstruído.
 - [[Essência Primeva]] — o combustível finito que dá lugar à essência imortal.

@@ -56,6 +56,25 @@ quando dá errado. Sem ela, o praticante não tem sequer como tentar: ele não v
 descobrir por acaso que uma presa de javali-rei aumenta em um quinto a chance de
 sucesso de uma fusão específica.
 
+### Os três aspectos de um Gu
+
+Antes de seguir, um conceito que organiza o assunto todo. Cada Gu tem até três
+aspectos, e a obra os trata como independentes entre si:
+
+- **Nutrição** — o que a criatura come para continuar viva.
+- **Uso** — o que custa acioná-la.
+- **Refino** — o que é preciso para produzi-la ou vinculá-la.
+
+Normalmente os três são coisas distintas, e é essa independência que torna o sistema
+um problema de escolha em vez de uma escada de poder: existe Gu trivial de refinar e
+ruinoso de alimentar, e Gu barato de usar que quase ninguém consegue fabricar. Um
+punhado de Gu raríssimos **funde dois aspectos** — há um que se alimenta pelo mesmo ato
+com que ataca, e outro em que refinar e nutrir são a mesma operação. Quando isso
+acontece, é sempre notável.
+
+Este catálogo trata do terceiro aspecto. Os outros dois estão em
+[[Usar e Alimentar Gu]].
+
 ## Por que receitas são património disputado
 
 Três fatos combinados fazem da receita o ativo mais valioso do mundo depois do
@@ -279,6 +298,8 @@ disposição para pagar certos preços.
 | **Man-beast Life Burial Gu** | 3, uso único | A receita demoníaca mais completamente documentada da obra, e a mais desagradável. Cerca de dez ingredientes, dos quais os centrais são: uma praticante de Gu virgem com aptidão mínima de grau C — graus melhores elevam a taxa de sucesso — e uma besta carnívora escravizada. A besta devora a vítima por inteiro, o controle mental sobrepondo-se à repulsa do animal; o refino começa imediatamente, antes da digestão. Entram então um Gu de carvão que queima por dentro durante cerca de quinze minutos e vários Gu de querosene, até formar uma coluna de fogo; atira-se ao fogo um Gu de veneno de rank 2. Cerca de mil pedras primordiais alimentam a esfera. O produto é ingerido: tinge toda a essência do usuário de negro-avermelhado, e cerca de dois quintos dela são lançados contra a parede da abertura, quebrando-a e substituindo-a — o que entrega um rank inteiro. O resíduo é tóxico: mata Gu se injetado neles, e corrói cerca de dois pontos percentuais da [[Aptidão]] mesmo quando limpo rapidamente. Os materiais **não são raros**, e é justamente por isso que a receita circula entre líderes demoníacos para fortalecer subordinados: o preço não é econômico, é moral. | **Completa** |
 | **Love Life Separation Gu** | 2 | O primeiro colocado entre os venenos de rank 2, e a receita mortal cujo custo é mais desenhado para doer. Quatro ingredientes: um Life Breath Grass de rank 1, uma aranha-viúva, um escorpião de agulha vermelha e **o coração de um amante que o próprio praticante precisa matar com as próprias mãos**. Os três primeiros se compram; o quarto é o ponto inteiro da receita. | **Completa** |
 | **Kinship Bloodworm Gu** | 5 | O refino consome sangue do coração de **dois parentes jovens**, extraído ao longo de **décadas**. É a receita mortal com o prazo de execução mais longo registrado. | **Parcial** — material e duração, sem processo |
+| **Human Medicine Gu** | 3, uso único | Usa uma **criança humana** como material principal, nutrida ao longo de anos antes do refino. O produto estende a longevidade de outra pessoa. | **Parcial** — o material principal e o preparo, sem processo |
+| **Turtle Jade Wolf Skin Gu** | 5 | Exige um imperador-lobo de casco de tartaruga **vivo** como material, sacrificado no processo. | **Fragmento** — só o material principal e a exigência de que esteja vivo |
 | **Blood Guillotine** | 5 | Não se sabe como é feito; sabe-se que **evolui** para o Blood Deity, um Gu Imortal de rank 6. | **Fragmento** — só a cadeia de evolução |
 | **Running Corpse Gu** | 2, consumível | Converte um cadáver num zumbi capaz de evoluir por estágios (branco, preto, verde, azul). É insumo de uma linhagem, não produto dela. | **Fragmento** — só o papel na cadeia |
 | **Roaming Zombie → Fur Zombie → Jumping Zombie → Flying Zombie** | 2 → 3 → 4 → 5 | Cadeia completa de rank, com uma bifurcação no topo: o estágio rank 5 tem **cinco variantes** conhecidas. Nenhum componente é informado em nenhum dos degraus. | **Fragmento** — só a cadeia e a bifurcação |
@@ -290,6 +311,35 @@ disposição para pagar certos preços.
 | **Heavenly Essence Treasure Lotus** | 3 → 6 | Funciona como uma fonte portátil de essência dentro da abertura. Evolui **consumindo nascentes**: sete, depois nove, depois onze, até chegar ao rank 6. A versão rank 4 exige a versão rank 3 como ingrediente, e sua receita foi negociada por seiscentas e setenta mil pedras primordiais. A linhagem inteira é atribuída a um Venerável. | **Parcial** — a escada de custo é clara, o processo não |
 | **Second Aperture Gu** | 6 | Concede ao praticante uma **segunda abertura**. A receita tem cerca de **mil passos**, está escrita em linguagem poética com duplos sentidos deliberados que precisam ser decifrados, e **já prevê as próprias falhas**, listando materiais reserva. Quatro estágios estão documentados: **(1)** misturar solo apodrecido de tanque verde com pó de sangue de oito bestas desoladas ancestrais e plantar nisso uma Earth Treasury Flower; **(2)** acrescentar osso de jade, músculo de gelo e um Relic Gu de ouro-amarelo; **(3)** juntar um Gu de pradaria de fogo estelar e um Gu de planície nevada — passo em que a receita antiga esconde um trocadilho; **(4)** dispor nuvem yang e fogo de elixir embaixo, nuvem yin e areia dourada em cima, e sacrificar os fantasmas de quatro bestas — elefante, píton, tartaruga e cavalo — controlando separadamente a natureza de cada um. O produto desse processo é uma **placenta de força de besta** de rank 5, que então devora aberturas de praticantes mortos para elevar a aptidão do Gu final. Teto: a aptidão da segunda abertura nunca supera a da primeira. | **Parcial** — quatro estágios detalhados de cerca de mil passos |
 | **Stone Aperture Gu** | uso único | Nenhuma informação de produção. | **Fragmento** — nada além da existência |
+
+## Fazer o caminho de volta — o refino reverso
+
+Uma quarta via de produção que não é fusão nem captura nem fabricação: **decompor um
+Gu para obter outro**. A obra a trata como técnica deliberada e reconhecida, não como
+acidente, e ela é a origem de vários Gu deste catálogo.
+
+O detalhe que a torna interessante de mesa é que **o resultado depende de qual Gu de
+reversão se usa**, e existem pelo menos quatro, com comportamentos distintos:
+
+| Gu de reversão | O que devolve |
+|---|---|
+| **Revert Gu** | Uma unidade do Gu componente original. O caso simples. |
+| **Prodigal Son Gu** | **Duas** unidades do Gu inferior original — a reversão lucrativa. |
+| **Butterfly Transformation Gu** | Um Gu **inteiramente diferente**, não o componente de origem. |
+| **Unpredictable Gu** | Resultado **aleatório**. |
+
+O refino reverso também serve a dois usos que não são de produção: **digerir Gu
+hostis** implantados à força no corpo, liberando seus componentes e às vezes segredos
+de quem os fez; e **recuperar a força de um Gu Imortal consumível já gasto** — o que
+funciona até o rank 8, e pode usar como material principal a própria pessoa afetada
+pelo Gu.
+
+> [!note] Para o design
+> Quatro ferramentas que fazem "a mesma coisa" com resultados diferentes, uma delas
+> deliberadamente aleatória, é um pequeno subsistema pronto. E note a assimetria
+> econômica: o Prodigal Son devolve o dobro, o que significa que num mundo com receitas
+> conhecidas existe uma **arbitragem** possível entre fundir e reverter. Vale decidir
+> na sua mesa se isso é um bug explorável ou uma profissão.
 
 ## Gu que não têm receita nenhuma
 
@@ -327,6 +377,17 @@ fabrique**:
 - Uma abertura imortal bem administrada pode formar sozinha um Gu Imortal selvagem
   novo, e um Gu comum dentro de uma besta muito velha pode virar um Gu Imortal
   selvagem com o tempo.
+- **Lugares saturados de marcas de lei geram Gu sozinhos**, e a obra confirma pelo
+  menos cinco: um abismo onde desabamentos e ressentimento se acumulam; uma terra
+  abençoada cuja geografia foi moldada por séculos de tribulações enviesadas de
+  propósito; um vale onde as marcas de espada de um mestre ficaram gravadas no
+  terreno; um rio cuja colheita anual de frutos vem com Gu dentro; e um vale que, a
+  cada duas décadas mais ou menos, produz um Gu Imortal selvagem do caminho da luz.
+  Isso faz do **território** uma forma de meio de produção — ver
+  [[Blessed Lands e Grotto-Heavens]].
+- E há a janela mais curiosa de todas: uma lagarta comum em plena **metamorfose** pode
+  virar um Gu selvagem no exato instante da transformação, capturável ali e em mais
+  nenhum outro momento.
 
 Uma exceção importante corre na direção oposta: os Gu Imortais do **caminho humano não
 ocorrem naturalmente**. Precisam ser deliberadamente criados e deduzidos por pessoas —
@@ -422,7 +483,9 @@ especializadas — o quadro completo do ofício está em [[Refinement Path]].
 | **Heavenly Secret Gu** | 7 | Uma das receitas mais bem descritas da obra, e a mais estranha. O passo final exige **desligar completamente a formação de refino** e assumir o controle manual — e o equilíbrio é delicado nos dois sentidos: controle de menos falha, e **controle demais também falha**, porque o Gu exige um estado de liberdade. O golpe de refino usado forma um anel dourado ao redor do cultivador, que precisa girar **sete vezes**; cada rotação é disparada por um gesto distinto e progressivamente mais difícil — uma intenção simples, depois um olhar, depois uma respiração, depois a voz, depois erguer os braços. O anel encolhe a cada volta até virar o Gu na sétima. | **Completa** — processo, condições e ponto de falha |
 | **Spring Autumn Cicada** (purificação) | 6 → 7 | Não é uma receita de criação, e sim de **limpeza**: remover a vontade dos céus de um Gu selado. O método padrão faz isso em duas etapas separadas; a variante documentada funde as duas num refino paralelo, com taxa maior e risco extremo. A sequência tem seis passos e materiais nomeados: sangue de sete bestas desoladas, um concentrado de cerca de doze flores distintas, madeira divina de nuvem dourada, um ouriço estelar púrpura (que ataca a própria formação e quase causou desastre), uma rocha esculpida com faces humanas cujas sombras arrancam fios da vontade dos céus a cada passagem, e a dissolução final do Gu em líquido, seguida de recondensação. O custo aceito foi o estilhaçamento completo da abertura do refinador. | **Completa** — a receita imortal mais detalhada da obra |
 | **Dragonman** (transformação de um Gu Imortal vivo em material) | — | Um Gu Imortal vivo é usado como material imortal. Quarenta e nove dias contínuos, com formação dedicada, e perder a concentração em qualquer instante mata o sujeito. Corpo, alma e marcas de lei são derretidos e reprocessados. Regra confirmada: marcas **externas** (contratos e alianças impostos por terceiros) são removidas; marcas **internas** (constituição, transformações próprias) sobrevivem e moldam o resultado — de modo que o produto final varia com quem entrou. A chance de sucesso depende da constituição do sujeito. O método foi **banido** por seu criador. | **Completa** — e explicitamente proibida |
-| **Guts Gu** | — | Produzido a partir de **almas** como matéria-prima, num domínio específico. Almas de Gu Imortais mortos rendem mais que almas de bestas. | **Parcial** — só a matéria-prima e o local |
+| **Change Form Gu** | 6 | Refinado pela técnica do sangue e do corpo: o sangue do próprio refinador circula entre o corpo e um recipiente de sangue envenenado. Entram ainda qi astral do limite terrestre, sacrifício em massa de seres vivos e centenas de pedras de essência imortal. O processo leva **sete dias** e consumiu praticamente todos os recursos de quem o executou. Uma segunda execução, mais tarde, contou com apoio de uma estrutura de refino, sorte favorável e um segundo refinador dividindo os papéis. | **Completa** |
+| **Guts Gu** | — | Um caso raro de Gu que é **colhido, não refinado**, mas cuja colheita tem custo de produção calculável. Forma-se quando criaturas morrem num domínio específico e suas almas se fundem à montanha, condensando pedras que precisam ser quebradas no local. O Gu existe apenas por um instante e tem de ser consumido ali mesmo — só um Gu-recipiente feito sob medida permite transportá-lo. O preço em vidas é explícito: cerca de **dez mil bestas sacrificadas por pedra**. Almas de Gu Imortais mortos rendem mais que almas de bestas. | **Parcial** — origem e custo, sem controle sobre o processo |
+| **Airsac Gu** | 3 | Um Gu criado para conter **outro Gu** — projetado do zero para transportar o Guts Gu fora do domínio onde ele se forma, sem que se dissipe. O refino exige a energia de um Gu Imortal de força. É o exemplo mais claro de receita inventada para resolver um problema logístico e não de combate. | **Parcial** — a função e um insumo |
 | **Blood Qi Gu** | 6 | A receita foi **recuperada e executada com sucesso** depois da morte do detentor original. | **Fragmento** — só o destino da receita |
 | **Blood Trace Gu** e **Blood Oath Gu** | — | Ambos os exemplares originais foram destruídos, e ambos foram **recriados** por inspiração natural somada a dedução própria. É a prova canônica de que uma receita perdida pode ser reconstruída do zero por quem tem competência suficiente. | **Fragmento** — só o precedente, que é o que importa |
 | **Blood Battle Gu** | — | Herança original destruída por uma besta imemorial; uma cópia funcional foi refinada com sucesso mesmo assim. | **Fragmento** — só o precedente |
@@ -593,6 +656,17 @@ No patamar imortal, as receitas mais valiosas vêm empacotadas como **heranças
 verdadeiras**: conjuntos completos deixados por um mestre morto, com Gu, receitas,
 golpes e teoria. Ver [[Heranças e Provações]].
 
+Vale registrar um detalhe de arquitetura que é puro material de campanha: pelo menos um
+grande legado histórico foi deliberadamente organizado **em pares**. São dez heranças
+agrupadas duas a duas, e obter uma delas **entrega pistas sobre a gêmea**. Quem coleciona
+não está apenas acumulando: está triangulando. Cada peça encontrada estreita a busca
+pela seguinte.
+
+Há também um erro de leitura que a obra corrige explicitamente, e que vale evitar numa
+mesa: a receita que concede uma **segunda** abertura não é reaproveitável para obter uma
+terceira. Usar o mesmo Gu duas vezes não empilha — a terceira abertura tem receita
+própria e separada.
+
 ## Como circulam
 
 **No mercado mortal**, receitas são item de leilão de primeira linha. O recorde de
@@ -749,6 +823,12 @@ Receita não é texto sagrado — é engenharia, e admite otimização.
   que foi de cinco estágios para dois, cortando pela metade o tempo e o material.
 - **Reformular passos de risco** com patamar alto — trocar uma fusão de opostos com
   margem finíssima por passos estáveis — reduz o fator sorte, mas nunca o elimina.
+
+Um limite importante para quem for reescrever uma receita: **a ordem dos ingredientes
+faz parte da receita**. A obra confirma explicitamente que aplicar os mesmos materiais
+em sequência diferente altera o resultado — há um passo documentado em que três metais
+distintos precisam entrar numa ordem determinada. Substituir um material é
+reformulação legítima; trocar a ordem dos passos é outra receita.
 
 Do outro lado do balcão, existe **defesa contra engenharia reversa**. A mais elegante
 é produzir os Gu mortais "de cima para baixo", a partir de um Gu Imortal — assim não

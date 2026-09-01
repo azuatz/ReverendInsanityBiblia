@@ -6,7 +6,9 @@ status: rascunho-interno
 
 # Catálogo de Gu
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
+> **Destaques do V5-2ª metade (caps. 1514–1966)**: o **Fate Gu** confirmado como Gu de heaven path (só a heaven's will o usava) e depois fragmentado e distribuído; o arsenal de **theft path** (Great Thief, Steal Life com 3 usos totais, Steal Dao como golpe fundador do path, Ghostly Concealment rank 9); os **Gu de rule path** (Region+Limit, Number Gu, Consecutive Gu, Permanence, Suppression); a série **estações** de time path (Spring/Summer/Autumn/Winter); a linhagem **cura↔dano** de human path (Heal Injury, Injury Mark, Mutual Injuries); e a regra numérica do **multiplicador de dao marks** (~1500× para 1,5 milhão de marks).
+> **Destaques do V6 (caps. 1967–2334)**: a família de **Gu de heaven path** (Heaven's Envy — o primeiro do path já refinado na história —, Heaven's Rage, Heaven's Sorrow, Heavenly Web, Heavenly Birth, Heavenly Secret rank 9); os rank 9 finais (**Derivation**, que não pode ser refinado sob pena de perder o poder; **Advance Refinement**; **Heavenly Essence Treasure Imperial Lotus**, 81 contas rank 9 por floração; **Love Gu**, que reconhece em vez de ser possuído; **Kill**, nascido espontaneamente); o **Four Elements Square Regret Blood Refinement Pool** (rank 9, produção em série de Immortal Gu rank 8); as nove true inheritances do **Blood Sea**; os **Gu de profissão de human path**; os **totem killer moves**; e o elenco de *The Legends of Ren Zu* virando itens reais.
 > **Destaques do V5-1ª metade**: Love Gu confirmado rank 9 e o Fate Immortal Gu danificado em reparo dentro da Heaven Overseeing Tower; a graduação do year Gu por anos armazenados (mortal <10 → r6 aos 10 → r7 aos 100 → r8 aos 1.000 → r9 teórico aos 10.000, cap. 1129) e o arsenal completo de time path em torno do Years Flow Like Water (r8); os primeiros Gu "transversais" sem path declarado (Perseverance r7); a linha de soul path da true inheritance de Spectral Soul (Split Soul, Ghost Official/General Garment, Soul Beast Token r8); e as duas metades da herança de Thieving Heaven (divine e ghostly concealment).
 > Fusão das tabelas das notas brutas, duplicatas unificadas. Seções por família temática; a partir do Volume 2 os nomes formais de path existem (ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca ou destaque. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes. As adições de cada volume ficam em bloco próprio ao final (tabelas anteriores intactas); duplicatas entre volumes têm nota cruzada.
 
@@ -1355,3 +1357,185 @@ Refinement Cauldron (r8, Long Hair Ancestor — refina à força os Immortal Gu 
 | Splendid Clouds | 6-9 | heaven | Alimento do Heavenly Secret Gu rank 9; exige cultivar um "splendid cloud cover" de mais de 10 li de raio como fazenda de longo prazo | 2292 |
 | Fire Charcoal | — | fire | Produzido continuamente por um **charcoal lake** autoprodutor | 2108 |
 | **As três chamas céu-terra-humano** | 9 | fire | *Heaven flame bright light glorious ring fire*, *earth flame azure divine stone furnace fire*, *human flame raging wave rising dragon fire* — o trio de chamas únicas de rank 9 | 1760, 2108 |
+
+### Immortal Gu de rank 9 — fichas finais (caps. 2172–2334)
+
+| Nome (EN) | Rank | Path | Efeito e regras | Alimento | Caps. |
+|---|---|---|---|---|---|
+| ⭐ **Heavenly Secret Gu** | 9 (versão original: 8) | heaven | **Obtém a resposta da heaven's will sobre qualquer evento.** Sem os materiais corretos, **8 em cada 10 ativações falham**, com backlash de **10 a 70 anos de lifespan**. A versão rank 8 original foi criada para entrar artificialmente em *natural inspiration* fora da janela da ascensão. Núcleo do *Exposing Heavenly Secret* e do *Obscured Heavenly Secret* | materiais imortais de heaven path (consumidos a cada ativação) | 2271, 2274-2275, 2283, 2290 |
+| ⭐ **Derivation Gu** | 9 | human/rule (lendário, *Legends of Ren Zu*) | Núcleo da **Crazed Demon formation**; base da **derivation formation**, que **acelera o desenvolvimento de um path inteiro**. Regra crítica: **NÃO pode ser refinado por ninguém — perde o poder se for refinado**; precisa permanecer **selvagem** para funcionar como núcleo de formação | — | 2246, 2274, 2291 |
+| ⭐ **Advance Refinement Gu** | 9 (refino concluído) | refinement + rule | Núcleo original da Long Hair refinement path formation, elevado a **rank 9** e transformado no núcleo do Four Elements Square Regret Blood Refinement Pool. Efeito-chave: **reduz a dificuldade de avançar outros Immortal Gu de rank 8 para rank 9**. Refinado com a técnica de water refinement | — | 2247, 2250, 2252-2253 |
+| ⭐ **Heavenly Essence Treasure Imperial Lotus** | 9 (refino concluído) | — | **6º na lista histórica dos Immortal Gu supremos.** Produz **81 contas de yellow apricot (rank 9) por ciclo de floração** (o 1º ciclo pós-refino rendeu 99). Linhagem completa: Lotus (r3) → Monarch Lotus (r4) → King Lotus (r5) → **Imperial Lotus (r9)** | energia primeva ambiente | 2227, 2231-2240 |
+| ⭐ **Heavenly Web Gu** | 8 → 9 | heaven | **Aranha de cristal transparente de 8 pernas.** Ativado sozinho, solta uma teia gigante que prende o alvo. Núcleo do *Heavenly Web Protection Veil* — defesa comparável ao Reverse Flow Protection Seal — e do *Obscured Heavenly Secret*; **usável dentro do Obscured Heavenly Secret sem expor a aura rank 9** | — | 2227, 2229, 2299, 2306 |
+| ⭐ **Love Immortal Gu** | 9 | — (love path) | **Não pode ser refinado nem por um Venerável**: ele **reconhece** um portador em vez de ser possuído. Ativação **imprevisível** e fora do controle do portador; cada uso **cobra algo dele** (às vezes lifespan) | — | 2228, 2330, 2334 |
+| ⭐ **Heaven's Envy Immortal Gu** | 7 (meta: 8) | heaven | *(ficha completa no bloco anterior)* O primeiro Immortal Gu de heaven path totalmente refinado na história; o golpe com ele como núcleo **amplifica calamidades e tribulações mirando os alvos de maior aptidão** | essência imortal rank 8 "white litchi" + unrestrained heavenly marks | 2121, 2135, 2166 |
+| ⭐ **Regret Gu** | 8 | refinement/time | *(ficha no bloco anterior)* Núcleo do **Regret Pool** e, depois, um dos quatro núcleos "Elements" do Four Elements Square Regret Blood Refinement Pool | névoa fresca de extreme marsh flowers | 2073, 2077, 2265 |
+| ⭐ **Sovereign Immortal Fetus Gu** | 9 | human | **Refinado tendo as Ten Extreme Physiques como material.** Dá origem ao sovereign immortal body/aperture; cria um **corpo** compatível com a alma já existente — a expressão máxima do estilo "Gu refina humano" | as Ten Extreme Physiques | 2237, 2295 |
+| ⭐ **Fire Gu (selvagem)** | 9 | fire (lendário) | Um dos **dois núcleos estabilizadores do Sol**; devorado sem refino, luta internamente contra o devorador, drenando suas dao marks | — | 2277-2278 |
+| ⭐ **Light Gu (selvagem)** | 9 | light | O **segundo núcleo estabilizador do Sol**; **foge sozinho** para outro hospedeiro ao sentir perigo | — | 2277-2281 |
+| ⭐ **Kill (Immortal Gu)** | 8 | **killing path** | Núcleo de um path novo. Nasceu **espontaneamente no corpo de um Venerável** como reação do Heavenly Dao a um massacre — **sem refino deliberado de ninguém** | — | 2328 |
+| ⭐ **Sword Qi Gu** | 8 | sword | Gu vital que é a fundação de toda uma linhagem de golpes de sword qi; **pode ser "queimado" e consumido por golpes de fogo** que atacam o próprio sword qi (contra-ataque por material) | — | 2305 |
+| ⭐ **Wisdom Gu (regenerado)** | 6 (selvagem) | wisdom | Prova da regra de reabertura de vaga: consumido o exemplar rank 9 como material, **um novo Wisdom Gu selvagem surge no mundo** — em rank baixo, recomeçando o ciclo | — | 2292 |
+
+### Blood path — as nove true inheritances do Blood Sea (caps. 2246–2252)
+
+> Conjunto fundador do blood path, deixado por um clone de Venerável. É o **estudo de caso canônico da
+> regra de unicidade**: mesmo com attainment supreme grandmaster, um Venerável **não consegue recriar**
+> os Gu que já existem em posse de terceiros — só comprar ou negociar (cap. 2246).
+
+| Nome (EN) | Rank | Efeito / destino registrado | Caps. |
+|---|---|---|---|
+| ⭐ Blood Skull Gu | — (existe versão mortal r5) | **Eleva a aptidão** de um Gu Immortal ao custo de **matar parentes de sangue** (o custo escala com o rank do usuário) — útil a clãs, quase inútil a um cultivador solitário. A **versão mortal rank 5** posterior só exige **extrair parte do sangue** dos parentes, sem matá-los, e leva a aptidão a grau A | 2246, 2252, 2298 |
+| ⭐ Blood Handprint Gu | — | True inheritance recuperada por uma força de Southern Border | 2246 |
+| ⭐ Blood Qi Gu | 6 | Receita recuperada e refinada depois da morte do detentor original | 2246, 2252 |
+| ⭐ Blood Sweat Gu | — | Levada e **nunca reapareceu** | 2246 |
+| ⭐ Menses Blood Gu | — | Recuperada por uma força de Northern Plains | 2246 |
+| ⭐ Blood Shadow Gu | — | Recuperada junto com o Blood Handprint | 2246 |
+| ⭐ Blood Battle Gu | — | Herança original destruída por uma besta imemorial; **uma cópia funcional foi refinada com sucesso** | 2246 |
+| ⭐ Blood Deity Gu | — | **Mais de 50% destruída** na disputa entre as dez grandes seitas; sobrou uma receita incompleta | 2246 |
+| ⭐ Blood Asset Gu | 8 (teto) | **Protege parte dos materiais e Gu worms durante o refino** e permite restaurá-los se o refino falhar. Um dos quatro núcleos "Elements" do Four Elements Square Regret Blood Refinement Pool. **Bateu no teto e não consegue virar rank 9** — atribuído à supressão histórica do blood path pela Heavenly Court | 2077, 2252, 2265 |
+| ⭐ Bloodline Gu / Blood Relation Gu | 8+ | Testam identidade e linhagem; o Blood Relation é o núcleo do Demon Judgment Board, que **detecta todo cultivador de blood path abaixo de rank 9 no mundo** | 2202-2203, 2252 |
+| ⭐ Blood Trace Gu / Blood Oath Gu | — | Investigação e juramento (efeito equivalente a information path); ambos originais destruídos e **recriados via natural inspiration + dedução própria** — prova de que uma receita perdida pode ser reconstruída | 2252 |
+
+### Human path — Gu de profissão e a linhagem cura↔dano (caps. 2172–2334)
+
+> O human path deixa de ser abstrato no fim da obra: cada **profissão humana** vira um Gu, e a
+> "derivation formation" acelera a produção dessas receitas em série (cap. 2284).
+
+| Nome (EN) | Rank | Efeito | Caps. |
+|---|---|---|---|
+| ⭐ **Pill Refiner Gu** | 1-5 | Produz "refinadores" especializados em refinar **pill Gu** — fusão de human path com **pill path**. Julgado o achado de **maior valor** entre todas as receitas humanas derivadas | 2284, 2293 |
+| ⭐ Musician Gu | — | Gu vital que **ressoa com sound path**; o **primeiro Gu de human path elevado com sucesso a Immortal Gu** pela nova geração | 2284, 2293 |
+| ⭐ Blacksmith Gu | 6 | Gu vital que ressoa com **metal path** | 2284 |
+| ⭐ Shadow Puppet Gu | — | Gu vital que ressoa com **shadow path** (que, em tese, funde light + dark path) | 2284 |
+| Police Gate Gu (1 a 6) | 1-6 | Portões **conectados entre si**; com o constable Gu, permitem **viagem instantânea** entre gates | 2284 |
+| Soldier / Sergeant / Lieutenant / Captain Gu | mortal | Hierarquia militar; obtidos dentro de um painting world e **exportáveis** para o mundo real. Compõem, com o Justice Gu, o golpe multi-Gu *Commander of Justice* | 1992, 2262 |
+| ⭐ Justice Gu (versão imortal) | alvo: vital Gu r6 | Exige **crença sincera do usuário na própria retidão** para ativar; núcleo do *Commander of Justice*. Uma das receitas de *Legends of Ren Zu* usa o **Wealth Immortal Gu como material suplementar** | 1819, 2262 |
+| ⭐ Wealth Gu | 5 (versão mortal) / lendário (imortal) | A versão mortal é **consumível de uso único**: transforma-se em **qualquer material Gu de rank 5** e emite um treasure light desproporcional. A versão imortal tem receita rara e incompleta — registrou-se um cultivador tentando refiná-la por **sacrifício humano mais de 100 vezes, sem sucesso** | 2222, 2262 |
+| ⭐ Beggar Gu / Merchant Gu | — | Receitas **incompletas**; ativadas, dariam mão de obra **sem risco de traição**. Abandonadas por falta de attainment em human path | 2267 |
+| ⭐ Heal Injury / **Injury Mark Gu** | 8 / vital Gu substituto | *(fichas no bloco do V5b)* O Heal Injury é o Immortal Gu **puro de human path** que funda a linhagem; o **Injury Mark Gu** é um vital Gu customizado que **converte automaticamente o dano recebido em "injury marks" acumuláveis**, potencializando o *Mutual Injuries* | 1907-1915 |
+| **Mutual Injuries** (golpe) | — | Cria dao marks que ligam as feridas do usuário às da vítima: **enquanto restar uma única dao mark**, o dano sofrido pelo usuário reflete **amplificado** na vítima. Contramedida: *Self Cleansing*, que remove as dao marks nocivas do corpo | 1907-1908 |
+| **Lying in Bed** (golpe) | — | Converte a immortal aperture **doada** por um membro numa "cama" **livre de calamidades e tribulações**, com grande extensão de lifespan — é a base mecânica do sistema de recrutamento e do **immortal graveyard** da Heavenly Court | 2328 |
+| **Others Sleep Soundly** (golpe) | — | Derivado do Lying in Bed: reduz ao mínimo a atividade e o fluxo de tempo do usuário e **extrai a vontade dele convertendo-a em "human nature"** — o recurso que permite resistir à heaven's will | 2328 |
+| **Endless Learning** (golpe) | — | Núcleos: **Book Mountain + Learning Gu**. Eleva o attainment level **diretamente**, até o limite pessoal do cultivador; mais seguro que dream realms, mas com **retornos decrescentes por uso** | 2293 |
+| **Congregated Human Talent** (golpe) | — | **Concentra a aptidão de muitas pessoas num grupo pequeno** — o clã que o criou nutre forasteiros de aptidão medíocre e transfere a aptidão coletiva para os próprios membros | 2138 |
+| **Humanly Flame Smoke** (golpe) | — | Chamas brancas que envolvem e **despedaçam o Black Fire** — mais eficaz que a formação padrão. Também usada historicamente para **devolver clareza a heavenly spirits confusos** | 2108, 2205 |
+
+### Outros Immortal Gu (caps. 2172–2334)
+
+| Nome (EN) | Rank | Path | Efeito | Caps. |
+|---|---|---|---|---|
+| ⭐ **Gamble Gu** | — | theft (otherworldly) | Refinado com **dao marks otherworldly** de theft path. Núcleo do *Luck Gamble*: rola um número aleatório **impossível de manipular por luck path**, e o vencedor **rouba toda a sorte** — boa e má — do perdedor | 2200-2201 |
+| ⭐ **Fortitude Gu** | 8 | strength | **Suprime emoções**; com o Suppression Gu forma o golpe *Calm and Steady* (dois núcleos rank 8 combinados são mais eficazes que um só). Também é requisito, com o calm Gu, para o **Mental Domain** não se voltar contra o usuário | 2187-2189, 2293 |
+| ⭐ **Ability Gu** | 8 | strength/conceitual | **Só se manifesta depois de esforço suficiente**; cresce usando calamidades e tribulações como material — mas o material é **extremamente difícil de controlar** | 2116-2119, 2137, 2187 |
+| ⭐ **Suppression Gu** | 8 | rule | Núcleo da river suppression lotus sealing formation, reaproveitado no *Calm and Steady* | 2189 |
+| ⭐ **Practice Gu** | — | — | Usado para **"esculpir" continuamente o núcleo de truthful floating ice** de uma formação rank 9, fazendo avançar a derivação da pesquisa de vida eterna. Ativado na presença de um **Dao Guardian**, transfere/sacrifica a força dele para amplificar o Venerável | 2189, 2195, 2208 |
+| ⭐ **Expend Strength Immortal Gu** | 7 | strength | Núcleo do *Seventy-Percent Expended Strength*: preparação **sem aura** (indetectável); ativado, faz **toda ação e todo killer move do alvo custar mais de 50% de esforço extra** | 2214 |
+| ⭐ **Heavenly Birth Gu** | — | heaven | Gu central de um Venerável para **reviver a si mesmo** e **converter o próprio path** (de earth para heaven); combinado a métodos de refinement path, **cura Immortal Gu** | 2227 |
+| ⭐ **Summary Gu** | — | information | **Deduz o resumo geral** de uma informação complexa | 2227 |
+| ⭐ **Normal Gu** | — | rule | **Restaura o alvo à condição normal** | 2227 |
+| ⭐ **Fortune Rivalling Heaven Gu** | 8 | luck | **Consumível**: um único uso concede **sorte permanente** rivalizando o céu, sem custo contínuo de essência depois. É o exemplo canônico de "Gu = arranjo concentrado de dao marks" | 2239 |
+| ⭐ **Star Thought / Star Eyes Gu** | — | star | Gu de star path usados como moeda em negociação de alto nível entre Veneráveis | 2230-2231 |
+| ⭐ **Capture Wind Gu** | 7 | movimento | Gu de movimento; o **primeiro Immortal Gu registrado numa transação pública** entre grandes forças | 2222 |
+| ⭐ **Master-Servant Gu** | 7 | enslavement | Formiga de pernas dianteiras curtas e traseiras longas; refinado após **33 falhas, 27 ferimentos graves e 19 quase-mortes** — número raro e concreto do custo real de um refino sem grande instalação | 2245 |
+| ⭐ **Month Gu** | — (selvagem) | time | Completa o trio Year / Month / Day de time path | 2292 |
+| ⭐ **After Gu** | 8 | time/heaven | Núcleo do *Endless Trouble*: **adia a calamidade ou tribulação atual, fundindo-a com a próxima** — mais forte depois, porque irrita a heaven's will | 2300 |
+| ⭐ Departure / Great Shock / Year / Huge Wave / Ringing Sound Gu | 8 cada | rule / wisdom / time / water / sound | Os cinco componentes de um **golpe composto de cinco paths** — exemplo canônico de compound killer move maduro | 2309 |
+| ⭐ **Turn Sand Gu** | — | earth | Transforma terra e rocha em **areia fina** — referência conceitual para um land spirit remodelar terreno | 2312 |
+| ⭐ **Ant Nest Immortal Gu** | 8 | enslavement | *(ficha no bloco do V5b)* No V6, vira núcleo do **battlefield killer move** *Myriad Army Ant Nest*: **corrói uma blessed land ou grotto-heaven inteira** até o campo de batalha se ativar | 1862, 2322 |
+| ⭐ Heaven Qi / Earth Qi Gu | Immortal | qi | Gu vitais de qi path; peças do conjunto necessário à revivificação de um Venerável de qi path | 2323 |
+
+### Gu mortais novos (caps. 2213–2334)
+
+| Nome (EN) | Rank | Path | Efeito | Caps. |
+|---|---|---|---|---|
+| **Second Aperture Gu (r1-r6)** | 1-6 | **heaven path (confirmado)** | Cria uma **segunda abertura** do rank correspondente; autodetona ao ser saciado com o sangue do usuário. **O rank 6 usa o lifespan Gu como material** — por isso é classificado como Gu clássico de heaven path. Não permite avançar além daquele rank sem o próximo da série | 1852, 2295 |
+| **Bone Flesh Unity Gu** | mortal (nasce em r5) | corpo/refino | Eleva a essência primeva de cultivo, permitindo avançar **meio realm ou até cruzar um rank**. Usado como **vital Gu de recém-nascidos**; fabricado a partir de **dois dos três fetos de trigêmeos** | 2295, 2300 |
+| **Guts Gu** | mortal | soul | Fortalece a alma; usado para nutrir **sementes de Gu Immortal** | 2295 |
+| **Família yin-yang da gestação** | 1-5 / mortal | yin-yang | **Multiple Pregnancy Gu** (r1 = 1 filho, r2 = gêmeos, r3 = trigêmeos, r4 = quadrigêmeos, r5 = quíntuplos); **Become Pregnant Gu** (extrai o qi yin-yang do casal); **Safe Pregnancy Gu** (protege um feto específico numa gestação acelerada); **Triplet Gu** (converte um feto único em trigêmeos); **Dead Fetus Gu** (mata os fetos excedentes para uso como **material de refino**); **Abortion Gu**; **Reincarnation Gu**. Formam a cadeia industrial de produção de aptidão de um "Pregnancy Temple" `[segredo]` | 2295-2300 |
+| **Yin-yang life extension method** | — (técnica, não é um Gu) | yin-yang | A cópula entre um Gu Immortal macho e uma fêmea **transfere lifespan de um para o outro** — soma zero, puro transporte: **não gera lifespan novo** | 2298 |
+| **Sleep Lurk Gu** | 4 | furtividade | Ocultação equiparável a rank 5, mas o usuário **cai em sono profundo** ao ativar (quanto mais profundo, melhor o efeito) e perde a percepção do mundo externo; **quebra após um uso** | 2244 |
+| **Earth Refinement Gu** | 4 | earth + refinement | Refina e quebra um selo sólido **a partir de fora** | 2244 |
+| **Purple Smoke Cicada** | 5 | fire | Com infusão de true essence, emite fumaça roxa capaz de **obscurecer uma área inteira de céu e terra**; também usado como iguaria culinária | 2218 |
+
+### Immortal Gu Houses e formações (caps. 2172–2334)
+
+| Nome (EN) | Rank | Path | Efeito | Caps. |
+|---|---|---|---|---|
+| **Four Elements Square Regret Blood Refinement Pool** | **9** | refinement | A maior conquista de refinement path da história (segundo o texto). **Quatro núcleos**: Advance Refinement (r9) + Water Refinement, Regret e Blood Asset (r8 cada). Funde Regret Pool + Refinement Cauldron + Long Hair refinement path formation + Refinement Sea. Refina **Immortal Gu rank 8 em série** (50-60% de sucesso; mais de 50 refinados) e **re-refaz** os destruídos pela insígnia. Também **refina e purifica a própria alma do dono**, reduzindo o efeito colateral do soul path | 2077, 2119, 2247-2265 |
+| **Heaven Overseeing Tower** | 9 | investigativo | O **único** Immortal Gu House rank 9 conhecido antes do Four Elements Pool; **não pode mais ser reconstruído** depois que seu Gu núcleo rank 9 foi destruído — a regra do núcleo insubstituível levada ao limite | 2253 |
+| **Crazed Demon formation** | 9 | rule/heaven | Construída de **truthful floating ice**; núcleo = Derivation Gu **selvagem**. Alimentada pela destruição dos mundos e Gu Immortals da 8ª camada; é a **nêmesis de formações Gu e Immortal Gu Houses** — dentro dela, formações e Houses sofrem **backlash constante**, inclusive ela mesma | 2172-2189 |
+| **Derivation formation** | — | human | Derivada da anterior: **acelera o desenvolvimento de um path inteiro** — foi assim que a série de Gu de profissão de human path foi produzida em massa | 2274, 2284 |
+| **Star Array Calculation Formation** | — | star/wisdom | Megaformação regional que funciona como um **"mini Heaven Overseeing Tower"**; mantida deliberadamente fraca por **acordo tácito entre Veneráveis** | 2254 |
+| **Divine Emperor City** | 8 | painting/human | Fusão de uma Immortal Gu House com uma cidade mortal inteira; guarda o **Learning Gu** e abriga os **painting worlds**. Defesas: **Divine Bean Soldiers** (6 cores/papéis: amarelo carne de canhão, verde arqueiros, vermelho autodetonação, preto defesa, azul reflete killer moves, branco cura os demais), **Graft Wood** (conecta os soldados para dividir dano, redirecionando a maior parte à própria cidade) e **Myriad Life Spring Lightning** (raios que deixam dao marks residuais, alterando o terreno) | 2151-2175 |
+| **Luck Suppression Heavenly Palace** | 8 | luck | Sedia o "heaven and earth luck method", que **manipula a rota de deriva de mundos pequenos inteiros** dentro da 8ª camada da Crazed Demon Cave | 2151-2165 |
+| **Calamity Luck Altar** | 8 | luck | Golpe-núcleo *Calamity Luck Revolution*: **converte calamidades e tribulações em inofensivas e até nutritivas** para a aperture. Também dispara o *Luck Changing Golden Light Path* (caminho de luz dourada para deslocamento extremo) e o *All Living Beings Luck* (**converte toda a fortuna acumulada de uma aperture em um número equivalente de calamidades simultâneas**) | 2175-2205 |
+| **Thieves Den** | Immortal Gu House (peak, **não modificável**) | theft | Golpe *Steal Dao*: rouba dao marks do mundo externo usando **materiais imortais de theft path como catalisador** — os dao marks roubados ficam **presos a esses materiais**, e a House **não tem método próprio de usá-los depois** (daí precisar do *Devour Heaven and Earth* de food path) | 2133 |
+| **Cooking Luck Pot** | 7 → 8 | luck | Torna a sorte **visível e inspecionável** como imagem simbólica. Defesa forte contra luck path, ofensiva fraca. **Regra de escala**: só revela com confiabilidade sujeitos de rank **igual ou inferior** ao seu próprio — um Pot rank 8 nas mãos de um rank 9 já não enxerga a sorte dos outros Veneráveis | 2079-2081, 2232 |
+| **Myriad Age Building** | 7 (luta como 8) | time | Amplifica o *Everlasting Sorrow*; sua defesa mais forte **extrai lifespan de quem a atacar** e, uma vez ativada, **não para antes de 2 horas** | 2259-2260 |
+| **Chamber Pot** | 7 | dark | House de bolso que **não carrega passageiros** (eles sofreriam dano); especializada em atacar Gu Immortals individualmente. Um Gu Immortal preso dentro por uma noite **vira uma poça de dejetos** | 2255-2260 |
+| **Thought Expelling Pavilion** | 7 | wisdom | Faz os **pensamentos do alvo "voarem" da mente**, jogando os Gu worms em caos e causando falha e backlash de killer move; útil até como blefe | 2259 |
+| **Winding Light Platform** | 7 (luta como 8) | light | Plataforma cinza-branca de 8 lados; dispara **feixes que se curvam no ar**; o golpe mais forte enrola um feixe amarelo em torno do alvo e **esmaga os Gu worms internos dele por fora** | 2248-2249 |
+| **Moving Frame Pavilion** | 7 | strength | Pavilhão em forma de gaiola de pássaro, com 8 pilares azul-dourados curvos; usado para **extrair blocos de gelo milenar do fundo do mar** | 2230 |
+| Red River Wheel / Smoke Wave Building / Earth Shuttle / Fallen Flower Hall / Chicken Dog Coop | 7 | fire / fumaça / earth / wood / enslavement | Roda gigante que rola e contra-ataca Houses de wood path / fumaça densa cobrindo o campo de batalha / aríete de investida / *Mirror Flower* e *Fleeting Bloom* / libera bestas ancestrais **para dispersar e quebrar formação inimiga, não para matar** | 2222, 2258-2260 |
+
+### Killer moves nomeados (caps. 2172–2334)
+
+- **Heaven path** — *Emotionless Heaven and Earth* (**suprime a emoção e restaura a racionalidade** de um alvo); *Heavenly Summary Earthly Norm* (**restaura céu e terra ao estado normal**: é a nêmesis de golpes de campo de batalha e formações — colapsa esferas de contenção e apaga trilhos de teleporte, a custo alto mesmo para um pseudo-Venerável); *Heaven Always Leaves A Way Out For People* (abre um **caminho estreito de fuga atravessando um secluded domain hostil** até o mundo externo; 80% de sucesso declarado); *Stealing Heavenly Secret* (rank 9, núcleos Heavenly Secret r9 + Great Thief r8: **rouba o conhecimento que a heaven's will concede a qualquer Gu Master em natural inspiration nas proximidades** — imune a grotto-heavens de fundação própria, e a eficácia **decai com o uso repetido no mesmo alvo**); *Butterfly Explores Heavenly Secret* (2196-2311).
+- **Soul path** — *Dang Hun Luo Po Seal* (selo quadrado cinza-branco que **desintegra almas**; a "nêmesis do soul path"; deixa a área atingida **sem regeneração** por um tempo — cortou mil braços de um Venerável num golpe); *Road of Life* (composto com Dang Hun Mountain + Luo Po Valley + Reverse Flow River: **atravessa e escapa do Door of Life and Death instantaneamente**); *Soul River* (**habilidade inata gravada nas dao marks da própria alma — ativa sem Gu worm**); *Change Soul Technique* (troca de posição instantânea com um soul beast controlado no momento do perigo) (2128, 2197-2212, 2270).
+- **Luck path** — *Luck Gamble* (via Gamble Gu: rolagem **imune a manipulação de luck path**; o vencedor leva **toda** a sorte do perdedor); *Unforeseen Disaster* (extrai e **arremessa a própria má sorte acumulada** como nuvens que matam num raio de 100 li — limitado pela reserva de azar); *Soft Gold Crashing Pillar* (ataca a **sorte** de uma estrutura ou formação, não o corpo, pela lógica de que "tudo tem sorte, até pedra e grama"); *Luck Slicing Golden Blade* (lâmina que cresce em voo e **corta e remove a sorte** do alvo, em vez de drená-la); *Destined Birth Through Luck* (**revive** um Gu Immortal consumindo um secluded domain próprio — a sorte determina **quem** é revivido) (2196-2334).
+- **Refinement path** — *Refine Self* (converte dao marks estranhas em ganho próprio, doloroso); *Loving Consolation* (**estabiliza um Immortal Gu incompleto por encorajamento verbal repetido**); *Crippled Refinement* (preparado secretamente com antecedência, consegue **rachar — não destruir — um Immortal Gu rank 9** mesmo sob a proteção de um Venerável); *Refinement Butterfly* (borboletas de luz que **driblam a defesa de uma Immortal Gu House e refinam à força os Gu worms dentro dela**) (2070, 2213, 2280-2281).
+- **Qi path** — *Hu Elevation* (libera todo o qi acumulado num secluded domain como **feixe único devastador**: custa 30% da essência imortal + 10.000 dao marks de qi path); *Great Qi Grasp* (mão gigante que **assume forma sólida ou se dispersa para invadir os órgãos do alvo**); *Rugged Fiendish Qi* (qi fantasmagórica que condensa em **montanhas e vales regeneráveis**, prendendo Immortal Gu Houses) (2000, 2181-2182).
+- **Compostos multi-path** — *Seven Kills Rainbow* (**sete paths genuinamente fundidos**: metal, madeira, água, fogo, terra, vento e raio — difícil de bloquear porque exige defesa simultânea contra os sete); *Sword Tongue Dragon Soul* (transformation + enslavement + soul: invoca ~100 dragões controláveis que, **ao morrerem, liberam almas que fortalecem os sobreviventes** — enxame autorreforçado, de 10% a 60%+); *Fire-Wind Wheel* (wind + fire: nominal rank 7, mas supera 70% dos golpes existentes em eficácia prática pela **baixa fricção interna via heaven path dao marks**); *Heartache Crying Blood* (blood + wisdom: dor emocional intensa e sangramento em área, **sem contato físico**); *Thunder Note Stream* (refinement + lightning + qi: rede de correntes que **grava dao marks continuamente** nos alvos presos); *Ten Li Time Wind* (time + rule + wind: **trava o tempo do alvo** quando a mão fecha em garra — interrompido, apenas desacelera) (2070-2072, 2185-2193, 2279).
+- **Painting path** — *Scenic Portrait* (cria um **retrato do alvo** dentro de um painting world: os ferimentos no retrato **transferem-se ao corpo real**, ignorando defesas convencionais — é a contramedida específica contra o Reverse Flow Protection Seal); *Ink Slicing Thread* e *Brush Stroke* (os golpes secundários aplicados sobre o retrato) (2204, 2225).
+- **Information path** — *Rumor Cage* (immortal battlefield de **ativação extremamente rápida**; cria um ambiente de information path que prende e **suprime até os próprios aliados** de paths conflitantes que estejam dentro); *Rumors Become Tigers* (converte os caracteres da gaiola em **tigres de luz prateada** que atacam) (2304).
+- **Sword path** — *Sword Qi Takes Form* (o sword qi condensa numa **réplica autônoma indistinguível** do usuário: sob ataque letal ela se desfaz em sword qi e escapa, fazendo **falhar qualquer golpe de captura que exija um corpo real**); *Sword Qi Threads* (fios translúcidos que cortam qualquer coisa — **não podem ser bloqueados, só evitados**); *Sword Qi Lightning Roar*; *Sword Light Disintegration* (2304-2305).
+- **Outros** — *Broken Homes and Dead Family* (human path: **o maior contador de Immortal Gu Houses conhecido** — um roçar destruiu uma House inteira); *Everlasting Sorrow* (time + wisdom: tristeza intensa num raio de vários li que **reduz o lifespan dos afetados, o que por sua vez fortalece o próprio golpe** — retroalimentação); *Rotting Poisonous Dark Ash* (madeira + veneno + trevas + fogo: corrosão que **continua piorando mesmo depois de cancelada** — mata em 3 dias a partir de poucos respiros de ativação); *Bedazzlement* (**cegueira total**, cuja cura exige um método exclusivo do clã criador) e *Gleaming Light* (bloqueia detecção investigativa); *Divine Concealment* (rank 9: **oculta completamente da heaven's will**, mas o portador **deixa de conseguir passar por tribulações**, travando o próprio avanço); *Life-Saving Recovery Pill* (revive mesmo de destruição total em poucos respiros — **enfraquece a cada uso sucessivo**); *Purple Will Production* (teleporte instantâneo com um acompanhante; acumula "purple will" na mente, que precisa ser expurgada antes do reuso); *Spaceless Tunnel* (criação de 300 mil anos atrás que **encurta distâncias de viagem** pelas cinco regiões e os dois céus; ainda parcialmente ativo, danificado pela fusão dos céus) (2175-2260, 2228-2239).
+
+### Materiais imortais e recursos (caps. 2172–2334)
+
+| Nome (EN) | Rank | Path | Observação | Caps. |
+|---|---|---|---|---|
+| **Truthful Floating Ice** | 9 (substrato) | heaven/rule | Substrato derivado do **Caos de fora do mundo**. Cada pedaço é uma "verdade" cristalizada: pisá-lo gera emoções intensas e **diferentes para cada observador**. Desselar um rende salto direto de attainment (heaven path a grandmaster, com ganhos secundários em transformation e rule path); fragmentado, **cada estilhaço contém uma receita ou Gu diferente** | 2172-2275 |
+| **Heavenly Veil** | 9 | heaven | Permite **capturar e coletar estrelas sem disparar alarme** | 2264-2265 |
+| **Heavenly Pillar** | 9 | heaven | Permite que um local se **conecte fisicamente** a um domínio suspenso no céu | 2267 |
+| **Heavenly Chasm** | 9 | heaven | **Sem forma** — parece ar vazio, mas é **impassável**; bloqueia o alcance de métodos investigativos | 2269-2270 |
+| **Heavenly Melody** | 9 | sound | Melodia hipnótica (vento, chuva, trovão, pássaros) que **entorpece e mata lentamente** quem a ouve, mesmo em rank 8; pode ser contida e coletada por um especialista de sound path | 2269 |
+| **Too Much Water** | 8 (tido por extinto) | water | Material criado por uma especialista lendária da Remote Antiquity; reapareceu séculos depois num quadro de troca interno | 2242 |
+| **Jade Green Water Flow** | 7 | water | Material que **nunca para de se mover**; usado como **node de water vein** dentro de uma aperture | 2229 |
+| **Trash Talk Petal Flower** | 6 | information | Material de refino de Immortal Gu de information path | 2228 |
+| **Eight-Desolate Sword Leaf Tree** | — (produz material r8) | wood + metal | Planta desolada imemorial **criada artificialmente por um Venerável** (não é recurso natural); cresce em minas de metal path, e as folhas são material imortal **rank 8 de sword path**. Restam **11 no mundo inteiro** | 2317 |
+| **Sunken Fish (imemorial)** | — (besta) | rule + refinement | **Digere solo marinho com as próprias dao marks de refinement path**, convertendo-o em escamas (material de beauty Gu). **Perde a função** se as dao marks forem refinadas por terceiros — exemplo de recurso vivo que se destrói ao ser explorado errado | 2238 |
+| **Black Fire** | — | resíduo do chaotic disaster | Queima tudo e **muda de forma ao ser parcialmente extinto** (vira água ou raio negro). É o resíduo do **Caos** de fora do mundo; só golpes de **human path** o reduzem de forma eficaz | 2205, 2211-2212 |
+
+### Gu de *The Legends of Ren Zu* — do mito ao item real (caps. 2172–2334)
+
+> O V6 fecha o ciclo aberto no V1: os Gu conceituais da lenda de Ren Zu deixam de ser alegoria e
+> aparecem como **Gu reais, catalogáveis**. Regra transversal: são Gu de **conceito**, não de efeito —
+> operam sobre a mente, a identidade e o conhecimento do portador.
+
+- **Self Gu** — extremamente pequeno; representa a **individualidade**. Só é reconhecido depois de o
+  portador acumular muitas "situações" de vida; **adverte-o sobre os próprios limites internos** (ex.:
+  avisa quando a mente já está cheia). Na lenda, é o que "morde" e captura o Wisdom Gu dentro do
+  Primordial Domain (2161, 2177, 2294).
+- **Memory Gu × Cognition Gu** — o primeiro **armazena informação bruta**; o segundo a **refina em
+  conhecimento**, e precisa de informação nova constante para não ficar obsoleto (2161).
+- **Pride Gu × Humility Gu** — o Pride **ocupa espaço mental e trava o acúmulo** de conhecimento, e só
+  é expulso pela presença do Humility; o Humility faz o portador sentir que **sempre falta**
+  conhecimento, induzindo busca insaciável — e **expande a capacidade da aperture já despertada**.
+  Como golpes: o Pride **reduz pela metade** os pensamentos mobilizáveis do alvo; o Humility **replica
+  instantaneamente** qualquer golpe recém-usado contra o portador (2159-2161, 2176).
+- **Hope Gu** — concede o **"despertar da aperture"** (iluminação) (2176).
+- **Right Gu / Wrong Gu** — permitem **classificar conhecimento** como certo ou errado (2176).
+- **Serious Gu / Learning Gu / Talent Gu** — permitem **reconhecer true meaning**, converter
+  conhecimento em entendimento real, e reforçar talento (2177).
+- **Rules Gu + Regulation Gu + Practice Gu** — o trio que, na lenda, **criou a truthful floating ice
+  original** (2294).
+- **Calm Gu + Fortitude Gu** — o par exigido para que o **Mental Domain** (secluded domain de wisdom
+  path em forma de gaiola/lanterna, que absorve e armazena emoções) não produza **efeito reverso**
+  contra o usuário (2293-2294).
+- **Effort / Ability / Authority / Forgiveness / Freedom / Responsibility / Strong / Familial Emotion
+  Gu** — o restante do elenco: o Effort **não garante sucesso, mas garante um resultado**; o Ability
+  **só se manifesta depois de esforço suficiente**; o Freedom só é atraído por quem tem **Cognition Gu**
+  (percepção do que falta) e, ao ser segurado, **ativa o Responsibility Gu** (o peso) e aperta as teias
+  do fate Gu; o Strong recusa "engolir a derrota" (2117, 2161, 2294).

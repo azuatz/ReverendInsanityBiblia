@@ -834,16 +834,27 @@ O caminho fundado pelo ancestral humano. Opera sobre populações e sobre a pró
 condição humana — trabalho, profissão e vontade coletiva. É o caminho que a obra
 revela, no fim, ser a chave para interferir no próprio céu.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Hope Gu | — | Forma a abertura no ritual dos quinze anos; base de todo cultivo | — |
-| Soldier / Sergeant / Lieutenant / Captain Gu | — | Hierarquia militar; obtidos dentro de um mundo-pintura | — |
-| Pill Refiner Gu | 1-5 | Produz especialistas em refinar Gu de pílula | — |
-| Police Gate Gu | 1-6 | Portões conectados entre si, permitindo viagem instantânea | — |
-| Beast Tamer Gu | — | Surgiu sozinho numa cidade, como resposta a uma ameaça local | — |
-| Wealth Gu | 5 | Consumível: vira qualquer material de rank 5; brilha muito no mercado | — |
-| Accumulate Virtue Gu | — | Refina-se sozinho com atos de bondade; o rank cresce com a virtude | atos de bondade |
-| Justice Gu | — | Só ativa se o usuário acreditar sinceramente na própria retidão | — |
+Esta é a família mais estranha do catálogo e a mais fértil para desenho de jogo:
+**cada profissão humana vira um Gu**. Repare em dois casos-limite de refino. O
+Accumulate Virtue Gu se refina sozinho conforme o dono pratica bondade — o único Gu
+cujo custo de refino é comportamento. E o Justice Gu simplesmente **não liga** se o
+usuário não acreditar sinceramente na própria retidão: é um requisito de personagem,
+não de recurso.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Hope Gu | — | Forma a abertura no ritual dos quinze anos | "o coração", segundo a lenda fundadora | — | — | É a base de todo o cultivo do mundo: sem ele não existe Mestre Gu | — |
+| Soldier / Sergeant / Lieutenant / Captain Gu | mortal | Hierarquia militar completa | — | — | Obtidos dentro de um mundo-pintura, e **exportáveis** para o mundo real | Um exército com cadeia de comando pronta, e compõem com o Justice Gu um golpe combinado | A origem é um mundo-pintura: não há como refiná-los pelos meios normais |
+| Pill Refiner Gu | 1-5 | Produz especialistas em refinar Gu de pílula | — | — | Fusão de caminho do homem com caminho da pílula | Julgado o achado de **maior valor** entre todas as receitas humanas derivadas | — |
+| Musician Gu | — | Gu vital que ressoa com o caminho do som | — | — | Foi o **primeiro Gu do caminho do homem elevado com sucesso à classe imortal** | Abre uma ponte entre profissão e um caminho elemental | Sendo Gu vital, amarra a vida do dono (ded.) |
+| Blacksmith Gu | 6 | Gu vital que ressoa com o caminho do metal | — | — | — | Mesma ponte, para metal | — |
+| Shadow Puppet Gu | — | Gu vital que ressoa com o caminho da sombra | — | — | — | Ponte para um caminho que, em tese, funde luz e trevas | — |
+| Police Gate Gu | 1-6 | Portões conectados entre si | — | — | Precisa do Constable Gu para completar o sistema | Viagem instantânea entre quaisquer dois portões da rede | Só funciona entre portões já instalados: exige infraestrutura prévia |
+| Beast Tamer Gu | — | Domesticação de feras | — | — | **Surgiu sozinho** numa cidade, como resposta espontânea a uma ameaça local | Prova de que o caminho do homem gera Gu por necessidade coletiva, sem ninguém refinar nada | — |
+| Wealth Gu | 5 | Consumível que se transforma em **qualquer material Gu de rank 5** | — | Uso único | A versão imortal tem receita rara e incompleta — houve quem tentasse refiná-la por sacrifício humano mais de cem vezes, sem sucesso | Coringa universal de material: resolve qualquer receita travada por falta de insumo | Emite uma luz de tesouro desproporcional: **denuncia o portador** em qualquer mercado |
+| Beggar Gu / Merchant Gu | — | Dariam mão de obra sem risco de traição | — | — | **Receitas incompletas**, abandonadas por falta de domínio no caminho do homem | Resolveriam o problema de confiança que assombra toda organização do mundo | Não existem em forma utilizável: são projetos parados |
+| Accumulate Virtue Gu | — | Refina-se sozinho conforme o dono pratica bondade | atos de bondade | — | **Não há receita**: o refino é o comportamento do usuário ao longo da vida | O rank cresce sem gasto de material nenhum — o único Gu cujo custo é moral e não econômico | Não há como acelerar: o progresso depende de uma vida inteira de conduta |
+| Justice Gu | — | Golpe coletivo de retidão | — | **Só ativa se o usuário acreditar sinceramente na própria retidão** | — | Núcleo de um golpe multi-Gu de comando | O requisito é de caráter: quem duvida de si mesmo simplesmente não consegue usá-lo |
 
 ---
 
@@ -852,13 +863,19 @@ revela, no fim, ser a chave para interferir no próprio céu.
 Formações são arranjos fixos de muitos Gu que produzem um efeito contínuo num local.
 É a engenharia civil do mundo: fortificações, oficinas e defesas de território.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Formation Heart Gu | 1 | O núcleo universal em torno do qual toda formação se organiza | — |
-| Formation Plate Gu | — | Monta a formação sozinho, sem exigir domínio do usuário | — |
-| Formation Chart Gu | — | Registra as informações de uma formação, com margem de erro baixa | — |
-| Moat Gu | — | Parede de cristal permeável ao redor de uma nascente | — |
-| Iron Cabinet Gu | — | Barreira de contenção de larga escala, ou cofre instantâneo | — |
+Formações são arranjos fixos de muitos Gu que produzem um efeito contínuo num local —
+a engenharia civil do mundo. A tabela é curta, mas repare no Formation Plate Gu: ele
+resolve o problema de **conhecimento** em vez do problema de poder, montando a
+formação sem exigir que o usuário domine o caminho da formação. É o tipo de peça que,
+numa mesa, permite a um personagem usar uma competência que ele não tem.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Formation Heart Gu | 1 | Núcleo universal em torno do qual os demais Gu de uma formação se organizam | — | — | — | Peça básica e universal: serve a qualquer formação, de qualquer caminho | Não faz nada sozinho (ded.) |
+| Formation Plate Gu | — | Monta a formação automaticamente a partir dos Gu fornecidos | — | Montar uma formação de teleporte levou seis horas | — | **Dispensa domínio do caminho da formação**: o usuário só precisa fornecer os Gu e a energia | Reaproveitá-lo exige apagar e regravar o conteúdo antigo; sem uma cópia feita antes, a formação anterior é **perdida para sempre** |
+| Formation Chart Gu | — | Registra as informações de uma formação | — | Consumível | — | Taxa de erro **menor** que a do Formation Plate na hora de montar | Consumível: cada registro custa um Gu |
+| Moat Gu | — | Parede de cristal permeável ao redor de uma nascente | — | — | — | Protege o ativo mais valioso de um clã sem bloquear o fluxo da nascente | — |
+| Iron Cabinet Gu | — | Barreira de contenção de mil metros, ou cofre de ferro instantâneo | — | A versão de contenção exige **quatro usuários** e manutenção contínua | Exclusivo de um clã | Selagem total de aura — melhor que qualquer alternativa de contrabando —, e a versão cofre salva alguém de um golpe letal | Exige quatro pessoas dedicadas, e é derrotado por Gu específicos, como as formigas voadoras comedoras de metal |
 
 ---
 
@@ -868,13 +885,20 @@ Uma família pequena mas conceitualmente rica: contratos mágicos são **leis de
 restrição**, e por isso participam de uma corrida armamentista. Cada Gu de juramento
 tem, mais cedo ou mais tarde, um Gu que o anula — e esse, por sua vez, tem o dele.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Poison Vow Gu | 3 | Juramento letal; vincula pela letra do texto lido em voz alta | sangue do coração |
-| Eating One's Words Gu | — | Anula o juramento acima, só do lado do próprio usuário | — |
-| Black and White Paper Gu | — | Contrato imune ao anterior; ainda não inventado na era atual | — |
-| Distorting Black and White Gu | — | Anularia o anterior; também ainda não existe | — |
-| Blood-sense Pair | — | Selo hereditário de contrato entre linhagens | — |
+Leia esta tabela como uma escada, porque é isso que ela é: cada Gu existe para
+derrotar o anterior, e os dois últimos ainda **não foram inventados** na era em que a
+obra se passa. Isso é uma escolha de desenho interessante por si só — o catálogo
+inclui itens que existem apenas como futuro conhecido. E note a alimentação do Poison
+Vow Gu: sangue do coração dos próprios jurados, o que torna cada contrato um ato
+físico de comprometimento.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Poison Vow Gu | 3 | Juramento letal entre duas partes | sangue do coração dos jurados | Consumível; vincula pela **letra** do texto lido em voz alta, e verifica a intenção no momento do voto. Violar transforma o violador numa poça de sangue | — | O substituto barato dos Gu imortais de juramento: dá contrato executável a quem não tem acesso à classe imortal | Vincula pela letra, não pelo espírito: uma redação descuidada é uma brecha aberta |
+| Eating One's Words Gu | — | Anula o juramento acima | — | Dura dez respirações | Refinado de um Lion Roar Gu mais três Paper Crane Gu; raro, mas re-refinável | Quebra um juramento **sem punição nenhuma** para quem o usa | Só liberta o próprio usuário: a outra parte continua vinculada — e a janela é de dez respirações |
+| Black and White Paper Gu | — | Contrato imune ao Eating One's Words | — | — | — | Seria o contrato inquebrável | **Ainda não foi inventado** nesta era |
+| Distorting Black and White Gu | — | Anularia o anterior | — | — | — | Seria a contramedida seguinte | Também ainda não existe |
+| Blood-sense Pair | — | Selo hereditário de contrato entre linhagens | — | — | — | Vincula famílias inteiras através das gerações, não apenas indivíduos | Hereditário: quem nasce dentro dele não escolheu nada (ded.) |
 
 ---
 
@@ -883,18 +907,24 @@ tem, mais cedo ou mais tarde, um Gu que o anula — e esse, por sua vez, tem o d
 A camada invisível que faz a economia funcionar. Todo comércio de longa distância e
 todo exército em campanha dependem destes Gu.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Large Belly Frog | 2 | Barriga-armazém; não guarda Gu nem venenos, e coaxa ao vomitar | essência primordial |
-| Flowerbud Gu | 2 | Flor-cofre para guardar o bem mais valioso longe do combate | — |
-| Primeval Elder Gu | 3 | Esfera que armazena até um milhão de pedras primordiais | — |
-| Tusita Flower | 3 | Armazém alojado na língua; atrai objetos com luz vermelha | — |
-| Sky Granary Gu | 3 | Armazenamento de grande capacidade | — |
-| Blue Sky Gu | 4 | Versão superior do anterior | — |
-| Airsac Gu | 3 | Preserva fora do lugar de origem um Gu que normalmente não dura | — |
-| Gourmet Food Box Gu | 5 | Preserva pratos prontos; alimenta dezenas de milhares de uma vez | — |
-| Smelly Fart Fatworm | — | Transporta fertilizante congelado | solo podre congelado |
-| Crystal Ladybug | — | Dispensador vivo de líquidos preciosos | — |
+Esta é a camada invisível que faz a economia do mundo funcionar: todo comércio de
+longa distância e todo exército em campanha dependem dela. As desvantagens aqui são
+quase todas **restrições de conteúdo** — o que o armazém aceita e o que ele recusa —
+e vale prestar atenção a elas, porque um cofre que não guarda Gu é uma limitação bem
+mais interessante do que uma capacidade máxima.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Large Belly Frog | 2 | Barriga-armazém que engole e vomita itens | essência primeva | — | — | Capacidade de carga alta por um Gu de rank 2, e ainda cospe uma rede de aço cortante | **Não guarda Gu nem venenos**, e coaxa alto ao vomitar — denuncia o dono na hora errada |
+| Flowerbud Gu | 2 | Flor-cofre | — | — | — | A prática padrão é guardar nela o bem mais valioso e deixá-la **longe do combate** — segurança por separação, não por resistência | Só protege o que ficou fora da luta (ded.) |
+| Primeval Elder Gu | 3 | Esfera de cristal com um "ancião" dentro | — | A expressão do ancião indica quanto ainda cabe | Cerca de 6.600 pedras | Guarda até um milhão de pedras primevas, com indicador de nível embutido | — |
+| Tusita Flower | 3 | Armazém alojado na língua do usuário | — | — | — | Atrai objetos com uma luz vermelha, recolhendo espólio sem o usuário se mover; guarda até trinta mil pedras | Só cerca de quinze mil das trinta mil são de fato utilizáveis |
+| Sky Granary Gu | 3 | Armazenamento de grande capacidade | — | — | Exclusivo de uma região | Capacidade muito acima da média do rank | Regional: fora dali, não se encontra |
+| Blue Sky Gu | 4 | Versão superior do anterior | — | — | Fusão a partir do Sky Granary; evolui a uma versão de rank 5 com um Gu específico de uma ilha | Rota de progressão clara e conhecida | Cada degrau depende de um insumo geograficamente restrito |
+| Airsac Gu | 3 | Preserva, fora do local de origem, um Gu que normalmente não sobreviveria | — | — | — | Solução inédita para transportar Gu presos a um lugar — por exemplo, o Guts Gu fora da montanha onde ele nasce | Serve à preservação, não ao volume (ded.) |
+| Gourmet Food Box Gu | 5 | Preserva pratos prontos | — | — | — | Alimenta dezenas de milhares de pessoas num gesto: é logística de exército inteiro | — |
+| Smelly Fart Fatworm | — | Transporta fertilizante congelado | solo podre congelado | — | Trivial | Custo de manutenção praticamente zero | Carrega uma coisa só, e nada valiosa (ded.) |
+| Crystal Ladybug | — | Dispensador vivo de líquidos preciosos | — | — | — | Doseia líquidos caros sem desperdício | — |
 
 ---
 
@@ -904,18 +934,25 @@ A cura neste mundo tem uma regra que muda tudo: ela **precisa não conflitar com
 leis já presentes no corpo**. Quem encheu o corpo de reforços permanentes descobre,
 tarde demais, que ficou difícil de curar.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Vitality Leaf | 1 | Cura instantânea de uso único | — |
-| Living Steel Gu | 2 | Consome-se inteiro para regenerar outro Gu ferido | a si mesmo |
-| Therapy Light Gu | 3 | Cura em área | — |
-| Flesh-bone Gu | 3 | Reconstrói a carne de corpos incompletos; reutilizável | — |
-| Guts Gu | — | Cura dano de alma com eficácia desproporcional | — |
-| Golden Breeze Gu | 4 | Cura comparável à de um rank acima | — |
-| Rising Dead Gu | 4 | Ressuscita quem morreu há poucas horas, com corpo intacto | — |
-| Spirit Peach Gu | 5 | Gu de cura renomado de toda uma região | — |
-| Remnant Life Gu | 5 | Ressurreição pós-morte se o corpo continuar intacto; uso único | — |
-| Life-Saving Recovery Pill | — | Revive mesmo de destruição total; enfraquece a cada uso | — |
+Antes de escolher qualquer coisa desta tabela, releia a regra que abre a seção: a cura
+precisa **não conflitar com as leis já presentes no corpo**. É a interação mais
+importante de todo o catálogo, e ela liga esta tabela à de reforço corporal —
+quem encheu o corpo de ossos de ferro e tendões de aço descobre, tarde demais, que
+ficou difícil de curar. A cura também tem uma escada clara de ressurreição, e cada
+degrau dela tem uma condição diferente sobre o estado do corpo.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Vitality Leaf | 1 | Cura instantânea | — | Uso único | De 50 a 80 pedras | A cura mais acessível do mundo, e ainda destacável de uma planta que a repõe | Uma hora de imunidade no mesmo alvo: não empilha |
+| Living Steel Gu | 2 | Regenera **outro Gu** ferido | consome a si mesmo no processo | — | — | Reduz de meio ano para cerca de uma hora a recuperação de um Gu ferido — salva patrimônio que levaria uma temporada para se refazer | Sacrifica-se por inteiro a cada aplicação |
+| Therapy Light Gu | 3 | Cura em área | — | — | — | Atende vários feridos de uma vez | Cura por completo só os leves; nos graves, cerca de metade |
+| Flesh-bone Gu | 3 | Dentadura branca que reconstrói a carne de corpos incompletos | — | **Reutilizável** | — | Reconstrói corpos mutilados sem se consumir, e forma com o Rising Dead Gu uma combinação histórica usada até por praticantes de rank 9 | Reconstrói carne, não devolve vida por si só (ded.) |
+| Guts Gu | — | Cura dano de alma | — | Existe por um instante ao quebrar-se a pedra que o contém | Inarmazenável, salvo com o Airsac Gu | O fortalecimento de alma número um do mundo: cerca de dez vezes os métodos comuns | Consumível instantâneo, e preso ao lugar onde nasce sem o Airsac Gu |
+| Golden Breeze Gu | 4 | Cura de alto nível | — | — | — | Cura comparável à de um rank acima | — |
+| Rising Dead Gu | 4 | Ressuscita quem morreu há menos de catorze horas | — | Uso único | **Obtido só por sorte**: não há receita | O melhor Gu de cura de rank 4, e o degrau mais acessível de ressurreição | Exige corpo intacto e uma janela de catorze horas; e não se pode planejar tê-lo |
+| Spirit Peach Gu | 5 | Cura de renome regional | — | — | — | Referência de cura de uma região inteira | — |
+| Remnant Life Gu | 5 | Ressurreição depois da morte | — | Uso único | — | Reanima o dono sem depender de terceiros | Exige que o **corpo permaneça intacto**; é suprimido dentro de uma terra abençoada, e destruir o corpo o anula |
+| Life-Saving Recovery Pill | — | Revive mesmo a partir de destruição total, em poucas respirações | — | — | — | O topo da escada: dispensa até a condição de corpo intacto | **Enfraquece a cada uso sucessivo** |
 
 ---
 
@@ -925,23 +962,32 @@ Estes Gu vêm do mito fundador do mundo, e por muito tempo pareceram alegoria. A
 acaba confirmando que são **criaturas reais e catalogáveis**. O que os distingue é
 que operam sobre conceitos — identidade, conhecimento, virtude — e não sobre matéria.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Self Gu | — | Representa a individualidade; avisa o portador dos próprios limites | — |
-| Memory Gu | — | Armazena informação bruta | — |
-| Cognition Gu | — | Refina informação em conhecimento; precisa de novidade constante | — |
-| Pride Gu | — | Ocupa espaço mental e trava o acúmulo de conhecimento | — |
-| Humility Gu | — | Expulsa o anterior; expande a capacidade da abertura já desperta | — |
-| Effort Gu | — | Não garante sucesso, mas garante um resultado | — |
-| Hope Gu | — | Concede o despertar da abertura | — |
-| Right Gu / Wrong Gu | — | Permitem classificar conhecimento como certo ou errado | — |
-| Serious Gu / Learning Gu / Talent Gu | — | Reconhecem verdadeiro significado e reforçam talento | — |
-| Calm Gu / Fortitude Gu | — | Par exigido para que o domínio mental não se volte contra o usuário | — |
-| Rules Gu / Regulations Gu | — | Par lendário que captura qualquer Gu do mundo | — |
-| Longevity Gu | — | Rejuvenesce quem o consome; quase indetectável | consumido |
-| Derivation Gu | — | Da explosão do seu estômago nasceu a humanidade comum | — |
-| Freedom Gu | — | Atraído por quem tem percepção do que lhe falta | — |
-| Strong Gu | — | Recusa engolir a derrota | carne de Predicament |
+Estes Gu operam sobre **conceitos** — identidade, conhecimento, virtude — e não sobre
+matéria, e por isso as três aptidões quase não se aplicam a eles: a obra raramente
+fala de dieta ou de custo de acionamento aqui. O que a substitui é uma **condição de
+posse**: vários deles não são refinados nem comprados, mas reconhecem o portador, ou
+se recusam a funcionar até que ele tenha vivido o suficiente. Onde há esse tipo de
+condição, ela está registrada na coluna de refino.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Self Gu | — | Representa a individualidade do portador; é extremamente pequeno | — | Adverte o portador sobre os próprios limites internos — por exemplo, avisa quando a mente já está cheia | **Só é reconhecido depois de o portador acumular muitas situações de vida**: não há atalho | Um sistema de autoconhecimento que evita sobrecarga mental antes que ela aconteça | Inacessível para quem ainda não viveu o bastante |
+| Memory Gu | — | Armazena informação bruta | — | — | — | Capacidade de memória sem limite declarado | Guarda dados, não entendimento |
+| Cognition Gu | — | Refina informação bruta em conhecimento | — | **Precisa de informação nova constante** para não ficar obsoleto | — | Converte acúmulo em compreensão real; e é ele que torna o portador capaz de atrair o Freedom Gu | O custo está no uso: exige um fluxo permanente de novidade |
+| Pride Gu | — | Ocupa espaço mental | — | Como golpe, **reduz pela metade** os pensamentos mobilizáveis do alvo e faz os restantes resolverem cedo demais | — | Como arma, trava golpes complexos do inimigo e pode causar contragolpe por ativação falha | No próprio portador, **trava o acúmulo de conhecimento** — e só o Humility Gu o expulsa |
+| Humility Gu | — | Faz o portador sentir que sempre lhe falta conhecimento | — | Como golpe, **replica instantaneamente** qualquer golpe recém-usado contra o portador | — | Expulsa o Pride Gu, expande a capacidade da abertura já desperta e induz busca insaciável | A busca insaciável não tem ponto de parada (ded.) |
+| Effort Gu | — | Garante um resultado a qualquer esforço | — | — | — | **Não garante sucesso, mas garante um resultado**: nenhum esforço é desperdiçado | O resultado garantido não é necessariamente o desejado |
+| Ability Gu | — | Manifesta capacidade | — | **Só se manifesta depois de esforço suficiente** | — | Recompensa o investimento anterior | Inútil para quem quer resultado imediato |
+| Hope Gu | — | Concede o despertar da abertura | — | — | — | É a origem de todo cultivo no mundo | — |
+| Right Gu / Wrong Gu | — | Permitem classificar conhecimento como certo ou errado | — | — | Funcionam em par | Resolvem o problema mais caro do caminho da sabedoria: separar informação boa de ruim | — |
+| Serious Gu / Learning Gu / Talent Gu | — | Reconhecem o verdadeiro significado, convertem conhecimento em entendimento e reforçam o talento | — | — | — | Cobrem a cadeia inteira de aprendizado, do reconhecimento ao talento | — |
+| Calm Gu / Fortitude Gu | — | Par de estabilização mental | — | — | Exigidos em conjunto | **Sem os dois, o domínio mental produz efeito reverso contra o usuário**: são pré-requisito de segurança, não bônus | Ocupam dois lugares no orçamento sem entregar poder ofensivo |
+| Rules Gu / Regulations Gu / Practice Gu | — | Trio lendário que, no mito, criou o gelo flutuante original | — | O par Rules e Regulations obedece a quem souber seu nome verdadeiro | — | Captura qualquer Gu do mundo | A obediência depende de saber o nome verdadeiro: quem não sabe não os comanda |
+| Longevity Gu | — | Rejuvenesce quem o consome | consumido no uso | — | — | Quase indetectável — rejuvenescimento sem deixar evidência | Consumido de uma vez |
+| Derivation Gu | — | Da explosão do seu estômago nasceu a humanidade comum | — | — | Não pode ser refinado **sob pena de perder o poder** | Origem mítica da própria espécie humana | Refiná-lo o destrói: é um item que só serve intocado |
+| Freedom Gu | — | Concede liberdade | — | Ao ser segurado, **ativa o Responsibility Gu** — o peso que vem junto — e aperta as teias do destino | Atraído apenas por quem tem o Cognition Gu, ou seja, por quem percebe o que lhe falta | Liberdade real, dentro de um mundo onde o destino é uma força física | Vem acompanhado da responsabilidade, e prender a liberdade aperta o destino em volta |
+| Responsibility Gu | — | O peso que acompanha a liberdade | — | — | — | — | Ativa-se sozinho quando o Freedom Gu é segurado |
+| Strong Gu | — | Recusa engolir a derrota | carne de Predicament | — | — | Um Gu que não aceita perder: teimosia como mecânica | A dieta é feita de dificuldade — precisa de adversidade para se sustentar (ded.) |
 
 ---
 
@@ -951,22 +997,30 @@ Um exemplo raro e valioso: a **assinatura de um único clã**, desenvolvida ao l
 gerações a partir de um Gu inicial. Serve como modelo do que uma organização faz com
 tempo e recursos — pega uma peça banal e a ramifica numa árvore inteira de fusões.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Moonlight Gu | 1 | Dispara uma lâmina de luz lunar; o Gu-raiz de toda a linhagem | pétalas de orquídea-lua |
-| Little Light Gu | 1 | Dobra o dano da lâmina lunar | — |
-| Moonglow Gu | 2 | Fusão que triplica o dano e multiplica o número de lâminas | pétalas de orquídea-lua |
-| Moon Raiment | 2 | Defesa de luz lunar que cobre o usuário e aliados próximos | — |
-| Moon Scar Gu | — | Mesmo dano da lâmina, com o dobro do alcance | — |
-| Moonwhirl Gu | — | Projétil de trajetória curva | — |
-| Golden Moon Gu | 3 | Lâmina dourada mais forte, com o mesmo alcance | pétalas de orquídea-lua |
-| Frost Moon Gu | 3 | Lâmina gélida que aplica lentidão | pétalas de orquídea-lua |
-| Illusory Moon Gu | 3 | Clone-sombra para distração | pétalas de orquídea-lua |
-| Blood Moon Gu | 3 | Lâmina sangrenta com sangramento contínuo; enfraquece alguns dias por mês | sangue fresco |
-| Moon Poison Gu | 3 | Lâmina que se dissolve em miasma venenoso | — |
-| Moonshadow Gu | 4 | Implantado na abertura do alvo, suprime a essência utilizável dele | — |
-| Moon-invite Gu | — | Absorve as lâminas dos aliados e as combina num golpe maior | — |
-| Moonlight Treasure King Gu | 5 | O ápice da receita da linhagem | — |
+Esta tabela é o melhor estudo de caso do catálogo, porque mostra a **mesma peça
+ramificando**. Todos os Gu abaixo descendem de um só, o Moonlight Gu, e a diferença
+entre os ramos raramente é de potência: é de **dieta e de custo**. Compare as
+colunas 🍖 do Golden Moon e do Blood Moon — o mesmo tipo de lâmina, mas um continua
+preso às pétalas de orquídea-lua (que murcham em dias e exigem cultivo próprio) e o
+outro se liberta comendo sangue de qualquer criatura, ao preço de uma semana fraca por
+mês. Escolher a rota de fusão é escolher qual conta pagar pelo resto da vida.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Moonlight Gu | 1 | Dispara uma lâmina de luz lunar crescente, de cerca de dez metros | pétalas de orquídea-lua: duas refeições por dia, duas pétalas cada — dez pétalas equivalem a uma pedra primeva, mas as pétalas **murcham em poucos dias** e não se estocam | Dez por cento da essência por disparo | Criado por **fusão reversa** pelo primeiro líder do clã: é receita exclusiva | O Gu-raiz de uma árvore inteira de fusões, e serve até para uso fino — abrir fósseis desgastando a superfície | A dieta não se estoca: exige suprimento fresco e contínuo de um insumo cultivado |
+| Little Light Gu | 1 | Reforça o dano da lâmina lunar | — | — | — | **Dobra** o dano do Moonlight, e dois deles são a base da fusão seguinte | Não faz nada sozinho (ded.) |
+| Moonglow Gu | 2 | Lâmina lunar muito mais forte | pétalas de orquídea-lua | — | Fusão de um Moonlight com **dois** Little Light | Triplica o dano — combinação multiplicativa, não aditiva —, e dispara de quatro a dezesseis lâminas conforme o estágio | Consome três Gu para produzir um; e continua preso à orquídea-lua |
+| Moon Raiment | 2 | Defesa de luz azul-lunar | — | — | Fusão de Moonlight + Jade Skin | Cobre o usuário **e os aliados próximos**, coisa rara numa defesa de rank 2 | A fusão descarta a lâmina: quem escolhe esta rota abre mão do ataque |
+| Moon Scar Gu | — | Lâmina lunar de alcance dobrado, cerca de vinte metros | — | — | Fusão de Moonlight + Stone Scar | O dobro do alcance pelo mesmo dano | O dano não sobe: é troca de alcance por nada mais |
+| Moonwhirl Gu | — | Projétil verde de trajetória curva | — | — | Fusão de Moonlight + Whirlwind | Trajetória curva contorna coberturas e escudos frontais (ded.) | — |
+| Golden Moon Gu | 3 | Lâmina dourada de cerca de um metro | pétalas de orquídea-lua | — | Fusão a partir do Moonglow | Mais forte que o Moonglow mantendo o mesmo alcance | Continua na dieta cara da linhagem |
+| Frost Moon Gu | 3 | Lâmina lunar gélida que aplica lentidão | pétalas de orquídea-lua | — | Fusão a partir do Moonglow | Soma controle ao dano | Mesma dieta |
+| Illusory Moon Gu | 3 | Clone-sombra para distração | pétalas de orquídea-lua | — | Fusão a partir do Moonglow; é a base do Moonshadow Gu | Distração, que é o que contorna a resistência de alma em disputas de controle | Mesma dieta, e não causa dano |
+| Blood Moon Gu | 3 | Lâmina sangrenta que causa sangramento contínuo | **sangue fresco de qualquer criatura** — liberta o dono da orquídea-lua, mas é socialmente denunciante (ded.) | Alguns dias por mês o Gu "sangra" e o poder cai a um terço | Fusão de Moonglow + Blood Essence | Resolve o gargalo logístico da linhagem inteira: a comida passa a estar em qualquer lugar | Uma janela mensal de fraqueza previsível, e a mudança para o caminho do sangue traz o peso social junto |
+| Moon Poison Gu | 3 | Lâmina que se dissolve em miasma roxo venenoso | — | Age por inalação | — | Contorna armadura e defesa de contato | — |
+| Moonshadow Gu | 4 | Implantado na abertura do alvo, suprime a essência utilizável dele | — | — | Derivado do Illusory Moon Gu | Suprime sessenta por cento da essência de um rank 3, trinta de um rank 4 e quinze de um rank 5 — desarma sem ferir | O rendimento **cai conforme o alvo é mais forte**: contra quem importa, entrega menos |
+| Moon-invite Gu | — | Absorve as lâminas lunares dos aliados e as combina num golpe maior | — | — | Ferramenta de líder de clã | Transforma um grupo inteiro de usuários do mesmo Gu num único canhão | Exige que todos os aliados usem a mesma linhagem (ded.) |
+| Moonlight Treasure King Gu | 5 | O ápice da receita de rank 5 do clã | — | — | Chegado por múltiplas fusões a partir de Jade Skin e Moonlight; é uma das duas receitas de rank 5 que o clã possui | O produto final de gerações de pesquisa numa única linhagem | A cadeia de fusões consome uma quantidade enorme de Gu intermediários (ded.) |
 
 ---
 

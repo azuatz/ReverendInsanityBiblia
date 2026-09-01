@@ -290,6 +290,7 @@ Cada item resolve um problema específico do processo.
 
 ## Relações
 
+- [[Viver Dentro da Abertura Imortal]] — **leia em seguida**: o que é, na prática, morar dentro do próprio mundo conquistado.
 - [[Avançar com Aptidão Baixa]] — o repertório completo de contornar limites, do rank 1 à imortalidade.
 - [[Ranks e Avanço]] — a escada mortal que termina aqui.
 - [[Abertura]] — o órgão que é destruído e reconstruído.

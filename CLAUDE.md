@@ -105,6 +105,16 @@ contexto vivo se perde. Portanto:
   "Regras do mundo" no topo de cada arquivo; nas notas finais, cada pasta temática
   (`01`–`09`) ganha uma nota-visão geral com o resumo e as regras da categoria,
   além das notas de conceito individuais.
+- **Separação jogadores × mestre** (regra do usuário): distinguir o que é
+  conhecimento comum no mundo — o que qualquer personagem sabe e os jogadores também
+  devem saber (funcionamento básico de clãs, comércio, ranks, cotidiano) — do que é
+  "universo", segredo que só o mestre deve conhecer (Heaven's Will, Fate Gu,
+  segredos do Heavenly Court, verdades por trás das lendas). Nos rascunhos, marcar o
+  nível de cada fato quando a obra indicar: `[comum]` (sabido por todos),
+  `[especializado]` (sabido por Gu Masters instruídos/elders) ou `[segredo]`
+  (pouquíssimos sabem). Nas notas finais, campo `conhecimento:` no frontmatter e,
+  nas notas-visão geral, seções "O que todo personagem sabe" e "O que só o mestre
+  sabe".
 
 ### Convenções Obsidian (obrigatórias em toda nota do vault)
 

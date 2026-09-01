@@ -6,8 +6,20 @@ status: rascunho-interno
 
 # Catálogo de Gu
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
-> Fusão das 5 tabelas das notas brutas, duplicatas unificadas. Seções por família temática (os nomes de path formais ainda não existem no Volume 1 — ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes.
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+> Fusão das tabelas das notas brutas, duplicatas unificadas. Seções por família temática; a partir do Volume 2 os nomes formais de path existem (ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca ou destaque. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes. As adições do Volume 2 estão na seção "Volume 2" ao final (para não quebrar as tabelas do Vol. 1); duplicatas entre volumes têm nota cruzada.
+
+## Resumo do domínio
+
+Tabela mestra de todos os Gu vistos na obra, com rank, efeito, alimento e capítulos. Os Gu são a unidade de toda magia (um Gu = uma habilidade; ver `gu-sistema.md`); este catálogo os agrupa por família temática/path. O Volume 1 catalogou ~160 Gu (ranks 1-5, mais lendas); o Volume 2 soma ~150 novos, incluindo os primeiros **Gu Imortais (rank 6)** vistos em ação — Spring Autumn Cicada, second aperture Gu, fixed immortal travel Gu, one's own way Gu, no loss Gu, sea oath/mountain pledge Gu, Dream Wings — e categorias novas: Gu de contrato (poison vow e a corrida armamentista), Gu de tempo (Third Watch, instant success), Gu de multitarefa, Gu de escravização de pessoas, e os "expenditure Gu" (de usos finitos) como categoria formal.
+
+## Regras do mundo
+
+1. Cada entrada obedece às leis de `gu-sistema.md`: um Gu = uma habilidade; rank 1-9; dieta própria; refino antes do uso.
+2. Gu de rank 6+ são únicos no mundo (um exemplar de cada); ver `cultivo-imortal.md`.
+3. Preços de mercado por rank (referência V2, cap. 278): r1 ≈ 500 pedras; r2 ≈ 500-1.000; r3 ≈ 1.000-10.000; r4 ≈ 10.000-100.000; r5 ≈ 100.000-1.000.000; r6 nunca é vendido. Gu raros fogem da tabela (ver economia-e-vida.md).
+4. Relic Gu e outros Gu "naturais" não podem ser criados por refino — às vezes nem dinheiro compra (cap. 278).
+5. "—" em rank/efeito/alimento = o texto não informou; nunca preencher por inferência sem marcar.
 
 ## Linha lunar (assinatura do clã Gu Yue)
 
@@ -38,14 +50,14 @@ status: rascunho-interno
 | Seven Fragrances Liquor Worm | 3 | evolução seguinte; mantém o refino de essência | — | 105-106 |
 | Moon Harbinger Gu | 2 | rota alternativa do clã para evoluir o Liquor Worm | — | 105 |
 | White Chrysalis / Mist Perspiring Butterfly | 2 / 3 | rota "desperdício": perde o refino; a borboleta enfeitiça mulheres; regride sem alimento | — | 105 |
-| Relic Gu (série: green copper / red steel / silver / yellow golden) | 1 / 2 / 3 / 4 | consumível; eleva 1 pequeno estágio dentro do rank correspondente; preços 3.000-8.000 (r2), 30.000-50.000 (r3) | — | 111-114, 145 |
+| Relic Gu (série: green copper / red steel / white silver / yellow gold) | 1 / 2 / 3 / 4 | consumível; eleva 1 pequeno estágio (small realm) dentro do rank correspondente, com fundação estável e SEM efeito colateral; Gu naturais, não refináveis/criáveis. Preços V2 (cap. 278): 2.000 / 8.000 / 50.000 / ~300.000 pedras; yellow gold relic Gu é politicamente controlado fora do mercado (caps. 351, 358) | — | 111-114, 145, 278, 296, 312, 351, 358 |
 | Stone Aperture Gu | — (uso único) | pó que engrossa a parede da abertura (pedra) e eleva ao pico do rank atual; queima o potencial de avanço futuro | — | 144, 187, 198 |
 | Man-beast Life Burial Gu | 3 (uso único) | fusão demoníaca; força avanço de 1 rank completo (2→3); resíduo corrompe aptidão (~-2%) | ingerido; receita exige virgem Gu Master devorada + fera escravizada + fogo ritual | 148, 151-152, 159 |
 | Cleansing Water Gu | — | purifica abertura/essência de contaminações e auras estranhas (inclusive apagar evidência de dopagem) | — | 50, 111, 152, 155, 159, 179 |
 | Heavenly Essence Treasure Lotus ⭐ | 3 → 6 | "nascente portátil": gera pedras primevas/essência continuamente dentro da abertura; evolui com 7/9/11 nascentes até r6 Imperial Lotus (6º dos Dez Grandes Gu Imortais); receita do Immortal Venerable Genesis Lotus | consome nascentes (fusão); autossuficiente depois | 162-163, 182, 187-188 |
 | Blood Skull Gu | 4 | eleva aptidão % permanentemente com o sangue de vítimas do usuário; rendimentos decrescentes; reverte efeitos de rank inferior (anulou um Stone Aperture Gu) | sangue de vítimas (capacidade ~centenas) | 193-198 |
 | Yin Yang Rotation Gu (par) | 4 | Yin: homem→mulher + cura de quase-morte; Yang: mulher→homem; cada uso -10% aptidão; suprime physiques extremas temporariamente | — | 193-199 |
-| Lifespan Gu | — | +tempo de vida igual ao grau (100/1000 anos); único método legítimo de estender lifespan; raríssimo | consumido | 126, 192 |
+| Lifespan Gu | — | +tempo de vida igual ao grau (100/1000 anos); único método "limpo" de estender lifespan; raríssimo. Exemplares V2: three hundred years lifespan Gu (cobra azul enrolada, +300 anos) e five hundred years lifespan Gu (dragão jovem, +500 anos), ambos sem efeito colateral (cap. 390) | consumido | 126, 192, 390 |
 
 ## Força e corpo
 
@@ -261,7 +273,7 @@ status: rascunho-interno
 
 | Gu | Rank | Efeito | Alimento | Caps. |
 |---|---|---|---|---|
-| Spring Autumn Cicada ⭐ | 6 | reverte o tempo: a consciência do usuário migra ao passado, ao custo da autodetonação total (corpo não atravessa); nº 7 dos "Ten Big Mystical Gu"; renasce junto ao usuário e se recupera por ciclos anuais; como Gu Vital r6, fixo no centro da abertura; aura suprime Gu de rank menor | o Rio do Tempo | 1-2, 18-20, 99, 115, 186-187, 196 |
+| Spring Autumn Cicada ⭐ | 6 | reverte o tempo: a consciência do usuário migra ao passado, ao custo da autodetonação total (todos os Gu, essência, carne e alma explodem para energizar o salto); "grande aposta" a cada uso, não fica mais seguro com a prática. **V2**: confirmado Gu do caminho do tempo, um dos "sete Gu misteriosos do mundo", ex-posse do Red Lotus Demon Venerable (rank 9) (cap. 383); mecânica do salto = nadar contra a corrente do Rio do Tempo e "pular" para dentro de uma gota/imagem do passado, injetando vontade/memórias nela (caps. 383, 399); serve para loops CURTOS dentro do mesmo arco, não só regressões de vida inteira (cap. 400); pós-uso: enfraquecido, sono profundo, cooldown não quantificado (caps. 399-400); "history inertia": grandes eventos de conflitos acumulados se repetem por gatilhos alternativos mesmo evitando o gatilho original (cap. 404); aura latente permite refino instantâneo de Gu (mesmo de Gu vinculados a terceiros, cap. 283); fluxo de tempo acelerado (blessed lands, time path) acelera também a recuperação do Cicada — risco para a abertura do portador (caps. 355, 380, 383); nº 7 dos "Ten Big Mystical Gu"; renasce junto ao usuário; como Gu Vital r6, fixo no centro da abertura; imune a selos/killer moves mortais (cap. 399) | o Rio do Tempo | 1-2, 18-20, 99, 115, 186-187, 196, 283, 355, 383, 399-400, 404 |
 | Blood Deity ⭐ | 6 | evolução do Blood Guillotine; 7º dos Dez Grandes Gu Demoníacos | — | 165 |
 | Heavenly Essence Treasure Imperial Lotus ⭐ | 6 | evolução final do Treasure Lotus; 6º dos Dez Grandes Gu Imortais | — | 163 |
 | Hope Gu | — (mítico) | forma a abertura na Cerimônia do Despertar; na lenda, recebeu o coração de Ren Zu | "o coração" (lenda) | 5, 74, 180 |

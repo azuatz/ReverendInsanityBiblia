@@ -6,8 +6,25 @@ status: rascunho-interno
 
 # Cultivo mortal (aperture, aptidão, essência, ranks 1–5)
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
 > Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção.
+
+## Resumo do domínio
+
+Todo cultivador deste mundo é um **Mestre Gu**: aos 15 anos forma, na Cerimônia do Despertar, uma **aperture (abertura)** — órgão espiritual que serve de reservatório de **essência primeva** (o combustível de todo uso de Gu) e de "estojo" onde seus Gu vivem. O talento inato (**grau de aptidão**, D a A, medido em % de capacidade da abertura) fixa o teto de essência, a velocidade de recuperação e, na prática, o teto de carreira. A progressão corre em dois eixos: **estágios** dentro do rank (inicial/médio/superior/pico — o "pequeno reino", questão de tempo, esforço e itens) e **ranks** 1–5 (o "grande reino", que exige romper a parede de cristal da abertura e depende fundamentalmente de aptidão). A cada estágio a essência dobra de eficiência; a cada rank muda de cor e multiplica a potência. Rank 1–2 é a base social, rank 3 é o "meio de carreira" onde se escolhe especialização e se monta um conjunto de Gu, rank 4–5 é a elite mortal (líderes de clã, "senhores feudais" e os raríssimos "imperadores" rank 5); o rank 6 já é outra categoria de existência (Imortal — ver `cultivo-imortal.md`). Três pilares inseparáveis sustentam qualquer carreira: aptidão, recursos e Gu worms (cap. 202).
+
+## Regras do mundo
+
+1. Sem abertura não há cultivo; ela nasce uma única vez, aos 15 anos, na Cerimônia do Despertar. Destruição da abertura = morte (ou transformação irreversível).
+2. O grau de aptidão fixa a capacidade máxima de essência (%) e a taxa de recuperação; não é imutável, mas mudá-lo exige métodos raros e caros (Gu de elevar talento, Reform Gu, Blood Skull Gu) — caps. 254, 263, 305.
+3. Avanço de estágio ("pequeno reino") exige tempo/esforço/itens; avanço de rank ("grande reino") exige aptidão e romper a parede de cristal — a dificuldade cresce brutalmente a cada rank (caps. 217, 251).
+4. A essência primeva tem quantidade E qualidade: um Gu só ativa se a essência atingir o patamar de qualidade/rank exigido, não importa o volume acumulado (cap. 226); um Mestre Gu só usa Gu de rank igual ou inferior ao próprio (caps. 200-202, 326).
+5. Do rank 1 ao 5, a essência é sempre finita; esgotá-la derruba a força de combate de forma abrupta e total ("de tigre a gato doente"). Só o rank 6 (Imortal) tem essência sem fim (caps. 341, 359-364).
+6. Essência alheia contamina a abertura — exceto se convertida por Gu específico (Bone Flesh Unity Gu), com perda proporcional à qualidade do vínculo entre doador e receptor (caps. 226, 230-231, 245).
+7. A mente humana limita a multitarefa: 2 Gu simultâneos já é bom, 3 é teto de elite, 4 é excepcional; só constituições extremas (5 tarefas) ou Gu de multitarefa furam esse teto (caps. 278, 298, 313, 314, 351).
+8. Gu de rank mais alto não é automaticamente melhor: compatibilidade de rank/efeito/custo com o usuário decide o valor real (caps. 278, 345).
+9. Reforços corporais permanentes deixam "marcas do Dao" no corpo, que conflitam com leis de outros Gu (cura, luz, espaço) — builds físicas devem ser planejadas com antecedência e são majoritariamente irreversíveis (caps. 233, 292).
+10. Um Mestre Gu pode, com um pensamento, autodestruir os próprios Gu antes de morrer (mais rápido que um piscar); por isso saque de Gu de inimigos mortos é raro fora de ambientes que suprimam essa regra (caps. 210, 280, 345, 352).
 
 ---
 
@@ -32,10 +49,12 @@ A membrana que sustenta a abertura muda de material conforme o Mestre avança de
 
 | Estágio dentro do rank | Parede |
 |---|---|
-| Inicial | barreira de luz (light barrier) |
-| Médio | barreira de água (water barrier) |
-| Superior | barreira de pedra (stone barrier) |
-| Pico | não descrita explicitamente até o fim do Volume 1 |
+| Inicial | membrana/barreira de luz (light wall) |
+| Médio | membrana de água (water wall) |
+| Superior | membrana de pedra (stone wall) |
+| Pico | **membrana de cristal (crystal wall)** — confirmado no Volume 2 (caps. 230, 273, 312) |
+
+> **Evolução da regra (parede do estágio pico)**: o Volume 1 não descrevia a parede do pico; o Volume 2 fecha o ciclo — as quatro texturas fixas por rank são luz → água → pedra → cristal, cada uma mais sólida/condensada que a anterior (caps. 212, 230, 312). Na ruptura de **rank**, a parede de cristal racha e colapsa "como um iceberg", os cacos se dissolvem no fundo do Mar Primevo e surge uma nova membrana de luz fina do rank seguinte (caps. 273, 331); a primeira gota de essência da nova cor emerge do fundo do mar (cap. 331).
 
 Avançar de estágio não é só acumular essência: é preciso "nutrir" a parede arremessando grandes quantidades de essência primeva contra ela repetidamente, até que sua natureza se transforme. Já para subir de **rank** (o "grande reino"), o Mestre precisa quebrar a ==parede de cristal (crystal wall)== da abertura — uma barreira autorregenerativa que cicatriza se o ataque de essência parar. Ver [[Ranks e Estágios de Cultivo]].
 
@@ -100,8 +119,19 @@ A essência muda de cor (e multiplica de potência) a cada rank do Mestre:
 | 1 | verde-cobre (green copper) | 1× |
 | 2 | vermelho-aço (red steel)[^1] | 10× a verde-cobre |
 | 3 | branco-prata (white silver) | 10× a vermelho-aço (100× a verde-cobre) |
-| 4 | amarelo-dourado (yellow gold) — inferido da série Relic Gu | — |
-| 5+ | ainda não visto no Volume 1 | — |
+| 4 | amarelo-dourado (yellow gold) — confirmado em uso (caps. 273, 326, 331, 344) | multiplicador não numerado; diferença "significativa" mas compensável por aptidão de recuperação alta (cap. 313) |
+| 5 | roxo-cristal (família purple) — confirmado no Volume 2 (cap. 379) | não numerado |
+| 6+ | essência **imortal** (immortal essence), líquida esverdeada e sem fim — ver `cultivo-imortal.md` (caps. 341, 379) | qualitativamente outra categoria |
+
+Tons por estágio confirmados no Volume 2 (nomenclatura completa por sub-estágio):
+
+- **Rank 1**: verde-jade (jade green) → verde-claro (pale green) → verde-escuro (dark green) → verde-negro (black green) (cap. 212, confirmando o padrão do Vol. 1).
+- **Rank 2**: pico = vermelho-profundo (deep red) (cap. 273).
+- **Rank 3**: light silver → blossom silver → bright silver → snow silver (cap. 312) — preenche a lacuna dos tons intermediários.
+- **Rank 4**: light gold (inicial) → ... → bright golden após refino de um "pequeno reino" de qualidade (cap. 344).
+- **Rank 5**: light purple → violet purple → deep purple → crystal purple (líquido-cristalino, a mais poderosa) (cap. 379).
+
+Cruzamento independente: a série **Relic Gu** é vendida pelos mesmos nomes de cor — green copper (r1) ≈ 2.000 pedras, red steel (r2) ≈ 8.000, white silver (r3) ≈ 50.000, yellow gold (r4) ≈ 300.000 (cap. 278) — confirmando "green copper" como família do Rank 1 (resolve a Contradição nº 1 de LACUNAS.md).
 
 #### Estágios dentro do rank: tons e dobra de potência
 
@@ -281,7 +311,7 @@ Identificação pública: uniforme com cinto e placa numerada por rank (azul/bro
 - Tempo esperado por grau (regra de clã): D ≈ 3 anos para Rank 1 sênior; C ≈ 2 anos para Rank 2; B ≈ 6-7 anos para Rank 3; A ≈ ~10 anos para Rank 4.
 
 > [!question] Lacunas
-> O material da parede da abertura no estágio pico não foi descrito (só inicial/médio/superior = luz/água/pedra). Não há tabela unificada de % mínima de essência para cada transição de rank além da 1→2 (55%). Ranks 6-9 (cultivo imortal, blessed lands, tribulações) ainda não apareceram mecanicamente no Volume 1.
+> ~~O material da parede da abertura no estágio pico não foi descrito~~ — RESPONDIDO no Volume 2: pico = membrana de cristal (caps. 230, 312). Não há tabela unificada de % mínima de essência para cada transição de rank além da 1→2 (55%) — o Volume 2 inteiro (caps. 200-405) não trouxe nenhum novo limiar percentual. Dado indireto: um Mar Primevo a 90% de plenitude sozinho NÃO bastou para a ruptura 3→4; precisou de influxo externo de essência de rank superior (cap. 331). Ranks 6-9 agora têm mecânica própria — ver `cultivo-imortal.md`.
 
 > [!note] Para o design
 > Estrutura pronta de progressão em dois eixos: estágio (grind incremental, 4 passos por nível) e rank (breakthrough com teste/risco e pré-requisito de recurso). Os métodos alternativos de avanço são uma tabela de "atalhos com preço" — consumíveis caros, rituais sombrios, dopagem com efeito colateral — ideal para escolhas dramáticas de personagem.
@@ -336,4 +366,56 @@ A cerimônia é o maior evento social do ano do clã: define o investimento de r
 - [[Graus de Aptidão]] — o que ela mede.
 - [[Mitologia de Ren Zu]] — origem lendária do Hope Gu.
 - [[Clãs]] — quem tem direito ao ritual.
+
+---
+
+> fontes desta seção: ["cap. 200-202", "cap. 212", "cap. 217", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 254", "cap. 258", "cap. 263", "cap. 267", "cap. 273", "cap. 275", "cap. 278", "cap. 298-299", "cap. 301", "cap. 305", "cap. 312-314", "cap. 322", "cap. 326", "cap. 331", "cap. 341", "cap. 344-345", "cap. 351", "cap. 387"]
+
+## Atualizações do Volume 2 (caps. 200–405)
+
+### Pequeno reino vs. grande reino (terminologia consolidada)
+
+O Volume 2 fixa a terminologia: avanço de **estágio** dentro do rank = "pequeno reino" (small realm), depende de esforço, tempo e itens de aceleração (Relic Gu, Liquor Worm, transfusão convertida); avanço de **rank** = "grande reino" (big realm), depende fundamentalmente de aptidão (caps. 217, 251). A diferença de força entre estágios do mesmo rank já é grande e cresce nos estágios finais; cruzar ranks inteiros em combate é feito extraordinário — um lutador excepcional "pula" no máximo um estágio acima do seu (cap. 345).
+
+### Benchmarks documentados de avanço
+
+- Rank 1 pico → 2, com pedras primevas: 3–4 dias (cap. 273).
+- Rank 2 pico → 3, sozinho: ≥ 24 h; com transfusão de essência prata-neve (rank 3 pico) de terceiro: ~6 h (cap. 273). Essência de rank mais alto "empurra para cima" a maturação da essência inferior já presente no mar.
+- Rank 3 superior → pico: instantâneo via white silver relic Gu (consumível caro, fundação estável, sem efeito colateral — contraste explícito com o Stone Aperture Gu do Vol. 1, que compromete o potencial futuro) (cap. 312).
+- Rank 3 pico → 4: mar a 90% + ~2 h de influxo contínuo de essência externa de rank superior via Bone Flesh Unity Gu (cap. 331).
+- Rank 4: um estágio inteiro ("pequeno reino") instantâneo via **yellow gold relic Gu** — item politicamente controlado, retido fora do mercado pelos líderes de clã por afetar o patamar dos "chefes" (caps. 351, 358).
+
+### Transferência de essência entre pessoas (Bone Flesh Unity Gu)
+
+O Vol. 1 tratava transfusão como contaminação inevitável; o Volume 2 introduz o mecanismo "limpo": o par **Bone Flesh Unity Gu** converte a essência doada sem deixar aura residual estranha (caps. 226, 239). A taxa de conversão depende da qualidade do vínculo entre os dois usuários — tabela completa (cap. 230-231): Fratricidal 10%→20%; Friendly 10%→40%; Indissoluble 10%→60%; Familial 10%→80%; Blood Kin 10%→100% (sem perda). Regras associadas:
+
+- O refino do par exige parentesco de sangue direto (pais/filhos ou gêmeos) + carne fresca de ambos os Gu Masters no caldeirão; a qualidade final escala com a profundidade emocional real do par (cap. 226, 229). Receita alterável (caso único documentado: par sem sangue direto obteve nível "Indissoluble" com receita modificada — zona cinzenta mecânica, cap. 230).
+- Permite usar essência ALHEIA para o avanço de **grande reino** (rank), não só de estágio — vantagem "insana" que contorna parcialmente a barreira de aptidão (cap. 231).
+- Salto de qualidade é o perigo, não a quantidade: receber essência de rank muito superior quase rompe a parede da abertura do receptor; a solução é dosar aos poucos (caps. 230-231, 245). A abertura precisa de fundação suficiente: no rank 1, não suporta o impacto de essência rank 3 pico; a partir do rank 2 médio, sim, mas com pausas (cap. 245).
+- Um Mestre pode ESTOCAR essência emprestada de rank superior na própria abertura como reserva de emergência, elevando o poder de combate muito acima do rank nominal — observadores atribuem a discrepância a "Gu de ocultação de aura" (caps. 250-251).
+
+### Aptidão é mutável (evolução da regra)
+
+O Vol. 1 já listava métodos raros; o Volume 2 confirma sistematicamente que aptidão sobe ao longo da vida: mortal grau C elevado a B por Gu raro de herança (cap. 254); **Reform Gu** eleva grau de aptidão, raro e caríssimo, só clãs ricos compram (cap. 263); Shang Xin Ci foi de D 20% (abertura forçada por Man Triumphing Heaven Gu, rank 5, que desperta abertura em mortal sem talento — cap. 274) a C 59% em 2 anos de investimento pesado (cap. 305); a Northern Dark Ice Soul Physique regenera a própria aptidão gradualmente rumo a 100% conforme cultiva (92% no cap. 301, 96% no cap. 326). Além disso, aptidão tem **sub-componentes**: a velocidade de recuperação de essência tem grau próprio ("A grade" de recuperação), capaz de nivelar diferenças de rank em batalhas de atrito (caps. 299, 313).
+
+### Multitarefa mental (regra nova do Volume 2)
+
+Controlar múltiplos Gu simultaneamente é limitado pela mente/alma: 2 tarefas = destaque; 3 = teto comum da elite (Fang Yuan e Yan Tu, caps. 278, 298, 313); 4 = excepcional com 500 anos de treino; 5 = só com Ten Extreme Physique (cap. 314). O custo cresce com a precisão exigida, não só com a quantidade (cap. 313). Falha de multitarefa em mecanismos que retêm força (counter-shock) devolve o acumulado contra o próprio usuário — backlash potencialmente fatal (caps. 299-301). Existe a série **multitask Gu** (two tasks at once Gu, rank 2, em diante) que soma tarefas ao teto natural (cap. 351).
+
+### Especialização no rank 3 e conjuntos de Gu
+
+Rank 3 é o momento de escolher especialização entre as seis direções funcionais — ataque, defesa, cura, armazenamento, movimento e investigação (caps. 214, 275) — mais nichos (refino por procuração, captura de Gu selvagens, suporte cognitivo). Montar um **conjunto (set) de Gu** do mesmo caminho dá três vantagens: alimentação compartilhada, sinergia de uso (suportes cobrindo fraquezas do núcleo) e sinergia de refino (custo menor e taxa de sucesso maior ao refinar Gu semelhantes juntos) (cap. 275). Todo set tem um **Gu núcleo** + suportes; usar um Gu de suporte como núcleo é raro e sinal de valor excepcional do Gu (cap. 288). Trade-off de build explícito: quem aloca a essência no ataque fica com movimento/defesa proporcionalmente piores (cap. 313).
+
+### Papel social por rank (atualizado no Volume 2)
+
+- Rank 1–2 = nível baixo; rank 3 = nível médio, "fase de definição de carreira" (em aldeias pequenas um rank 3 já é ancião); rank 4–5 = alto nível (caps. 275, 331/338).
+- Rank 4 = "especialista"/líder de clã comum — "senhor feudal"; muitos clãs têm só 1–2 rank 4 (caps. 216, 331, 370).
+- Rank 5 = topo do mundo mortal, "imperadores": pouco mais de cem em toda a Southern Border (centenas de milhares de montanhas) (caps. 337, 370). Sua força depende de quantos Gu rank 5 possuem — muitos rank 5 pico não têm nenhum (cap. 373).
+- Rank 6 = Imortal, "mudança qualitativa": um único rank 6 rivaliza com um clã inteiro; tendem à reclusão de décadas (caps. 211, 258, 277). Entre dez milhões de Mestres Gu, talvez nem um vire imortal (cap. 275). Ver `cultivo-imortal.md`.
+
+### Compatibilidade Gu × usuário (consolidação)
+
+- Um Mestre Gu de rank N só ativa Gu de rank ≤ N (caps. 200-202, 326); a essência precisa atingir o patamar de QUALIDADE do Gu, não só a quantidade (Flesh-bone Gu rank 3 inativável por um rank 1 de abertura cheia, cap. 226).
+- Exceções parciais: Gu rank 4 de "baixa demanda" ativáveis por rank 3 (bitter strength Gu, frost arrow Gu — caps. 304, 306); e essência emprestada de rank superior estocada na abertura (caps. 250-251).
+- "Rank mais alto ≠ melhor": às vezes várias doses do Gu inferior rendem mais que a versão superior (big strength defecate Gu, cap. 278); Gu de rank baixo com efeito único seguem valiosos em qualquer nível (Bone Flesh Unity Gu rank 3, cap. 345). Upgrade de rank pode mudar a NATUREZA do efeito, não só a magnitude (bronze skin Gu: rank 2 temporário → rank 3 permanente, cap. 301).
 

@@ -32,6 +32,12 @@ esclarecer.
   zumbificação vive dentro de `transformacoes-e-longevidade.md`, não num arquivo
   próprio). Antes de criar arquivo novo, consulte a taxonomia; se precisar
   criar/fundir/mover domínios, atualize a taxonomia e registre no histórico dela.
+- **Nível de conhecimento no mundo** (regra do usuário): quando a obra indicar quem
+  sabe de um fato, marque-o no rascunho com `[comum]` (qualquer personagem sabe —
+  vira conhecimento de jogador), `[especializado]` (Gu Masters instruídos/elders) ou
+  `[segredo]` (universo — só o mestre saberá). Na dúvida, não marque; a fase final
+  usa essas marcas para separar "o que todo personagem sabe" de "o que só o mestre
+  sabe".
 - **Todo arquivo de domínio abre com duas seções obrigatórias** (regra do usuário),
   logo após a marcação "cobre até": `## Resumo do domínio` (síntese em poucos
   parágrafos do que a categoria é e como funciona) e `## Regras do mundo` (lista

@@ -4,9 +4,26 @@ tags:
 status: rascunho-interno
 ---
 
-# Sistema de Gu (natureza, uso, refino, alimentação, fusão, Gu vital)
+# Sistema de Gu (natureza, uso, refino, alimentação, fusão, Gu vital, killer moves, contratos)
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+
+## Resumo do domínio
+
+Toda a magia do mundo é praticada por meio de **Gu** — criaturas vivas sobrenaturais, cada uma concentrando exatamente UM poder. A base metafísica (revelada no Volume 2): cada Gu contém um **fragmento da Grande Dao** (dao mark); usar Gu é usar leis, refinar Gu é fundir leis (cap. 292 — detalhado em `cultivo-imortal.md`). O ciclo de vida do sistema: capturar/comprar → **refinar** (sobrescrever a vontade do Gu com a sua) → **alimentar** (toda dieta é específica e contínua) → **usar** (gasta essência primeva) → eventualmente **fundir/evoluir** (receitas, taxas de sucesso, risco de backlash). Sobre essa base assentam-se camadas superiores: **conjuntos de Gu** (núcleo + suportes do mesmo caminho), **killer moves** (combos meticulosos de vários Gu, o teto de poder individual), **Gu de contrato** (juramentos mágicos e sua corrida armamentista de anulação), e o mercado paralelo de **receitas** — que valem mais que os próprios Gu, pois permitem produção contínua.
+
+## Regras do mundo
+
+1. Um Gu, uma habilidade — sem exceção em rank algum; poder maior vem de combinação (fusão, sets, killer moves).
+2. Gu são seres vivos: têm vontade (que o refino sobrescreve), dieta própria (que o dono paga) e podem morrer de fome, de ferimento ou em fusão fracassada.
+3. Gu refinado perde para sempre a autonomia de se alimentar de essência ambiente; passa a depender do dono (cap. 183). Refinado por humano, um Gu selvagem fica "ligeiramente rígido", menos instintivo (cap. 210).
+4. Ativar um Gu gasta essência primeva do Mestre; Gu "expendable" (de gasto/uso único ou finito) se consomem — categoria formal que existe até no rank 6 (caps. 210, 375).
+5. O dono pode, com um pensamento (mais rápido que 1% de um piscar), autodestruir os próprios Gu ao morrer — por isso saque de Gu em combate é raro; só morte instantânea sem percepção, ou ambientes que suprimam a regra (blessed lands), permitem espólio (caps. 210-211, 280, 345, 347-348, 352).
+6. Gu podem ser emprestados: a vontade do dono original reside no Gu e ele revoga o acesso quando quiser; o tomador usa com eficiência menor (cap. 201). Emprestar é socialmente raro e visto como risco extremo.
+7. Contratos mágicos (poison vow Gu e família) vinculam pela LETRA exata do texto jurado, nunca pela intenção — toda redação é explorável, e todo contrato acaba ganhando um anti-contrato (caps. 268, 278, 310-312).
+8. Refinar tem preço no corpo E na alma: falhas causam backlash físico (curável) e dano de alma (grave, lento, quase sem cura); refinadores profissionais espaçam tentativas em ~1 mês (cap. 304).
+9. Receita > Gu: vender um Gu rende muito menos que vender sua receita, que permite produção ilimitada; receitas exclusivas valem ordens de magnitude mais que todos os exemplares somados (caps. 262, 308-309).
+10. Toda força tem contramedida — e a força efetiva de um Gu é também função de quão conhecido ele é: um Gu obscuro (Breath Concealment Gu) é praticamente imbatível até o mundo aprender a contra-atacá-lo (cap. 239).
 
 ---
 
@@ -204,3 +221,55 @@ Fusão = combinar 2+ Gu (já refinados, consciências sobrescritas) em um Gu de 
 ### Ver também
 
 - cultivo-mortal.md (abertura, sobrecarga), estudos-de-caso.md (Gu rank 6 debilitado como vital Gu de um rank 1).
+- **Atualização Vol. 2**: um Gu vital tomado à força em combate causa backlash físico ao dono (sangramento pelos sete orifícios — perda do ice crystal Gu na arena, cap. 314); o Gu vital de um Mestre morto perece com ele quando é um Gu "ligado" (position swap Gu de Li Hao, cap. 293).
+
+---
+
+> fontes desta seção: ["cap. 201", "cap. 204", "cap. 210-212", "cap. 214", "cap. 222", "cap. 262", "cap. 268", "cap. 275", "cap. 278", "cap. 283-292", "cap. 296-297", "cap. 304", "cap. 308-314", "cap. 320", "cap. 326", "cap. 345", "cap. 352", "cap. 358", "cap. 374", "cap. 378", "cap. 389-390", "cap. 396", "cap. 401", "cap. 405"]
+
+## Atualizações do Volume 2 (caps. 200–405)
+
+### Classificação funcional e conjuntos de Gu
+
+- Sistema de classificação padrão do mundo por função: **Ataque, Defesa, Cura, Investigação, Armazenamento, Movimento e Cultivo** — uma "herança completa" cobre as seis primeiras, garantindo autossuficiência (cap. 214). No rank 3, o Mestre escolhe especialização entre as seis direções (cap. 275; ver cultivo-mortal.md).
+- **Formas de obter Gu** (lista canônica): comércio, criação, captura, fusão e refino reverso — espólio de combate é raro (cap. 345).
+- **Gu set**: núcleo + suportes do mesmo caminho (alimentação compartilhada, sinergia de uso, sinergia de refino — cap. 275, 288). Ver cultivo-mortal.md.
+
+### Killer moves (golpes mortais) — conceito formalizado
+
+O Volume 1 não tinha o conceito; o Volume 2 o define (cap. 314): **killer move = combinação de vários Gu em pareamento meticuloso formando um movimento desproporcionalmente forte**. Só quem tem grande experiência ou talento desenvolve um; consomem muita essência e são mentalmente exaustivos. Padrão recorrente: combos de ~3 Gu nomeados (cap. 391-393). Exemplos catalogados: Ice Blade Storm (5 Gu simultâneos, teto pessoal da usuária, cap. 314), Fire Sea Twin Dragon Kill, Djinn Transformation (cap. 314-319), My Glorious Spear, Torrential Light Stream, Immemorial Light Fist (caps. 389-393), Infinite Search and Lock (4 usuários, space+seal path, requer alvo pré-marcado com fixed star Gu; não restringe rank 6 — caps. 398-399). Killer moves de clã podem exigir ativação conjunta multiusuário com custo altíssimo de essência (search and lock, cap. 353).
+
+### Refino — riscos, garantias e prática profissional (expansão do Vol. 2)
+
+- **Backlash de falha detalhado**: falhar fere corpo (fácil de curar) e ALMA (multitasking excessivo; grave, lento, Gu de cura de alma são raríssimos e segredo de grandes clãs). Refinadores profissionais espaçam tentativas ~1 mês; falha em etapa final é o pior cenário (perda de todo o material acumulado) (caps. 304, 326, 389). Falhas podem destruir os Gu-material investidos (4 Gu de força perdidos em tentativas do bitter strength Gu, cap. 304).
+- **Garantias de refino** (proteger o Gu núcleo / garantir sucesso): (1) refinar na Land of Bu Bai (terra sagrada dos mestres de refino, Central Continent); (2) undefeated hundred battles Gu (rank 5, uso único, extinto — GARANTE o sucesso do refino em andamento, cap. 286, 405); (3) green mountain remains Gu (rank 4 — protege o Gu núcleo mesmo em falha) (cap. 286).
+- **Refino instantâneo via aura superior**: confirmado em escala — a aura latente de um Gu rank 6 refina centenas de Gu rank 1 e dezenas de rank 2 em minutos; o limite é a capacidade da abertura, não a velocidade (caps. 204, 222). Extensão nova: permite refinar/roubar um Gu JÁ vinculado a outra pessoa viva (flowerbud Gu de Li Ran, cap. 283).
+- **Refino por procuração** é profissão estabelecida (zona própria em Shang clan city); um único Gu rank 5 pode levar 11 anos para refinar mesmo por uma lenda (cap. 265).
+- **Multitarefa no refino** como medida de talento: 2 Gu simultâneos = destaque, 3 = raro, 4 = teto excepcional (cap. 278).
+- Receitas antigas vêm em linguagem poética com duplos sentidos deliberados que exigem decifração; preveem falhas e materiais reserva (receita do second aperture Gu, cap. 378). Receitas gravam-se também em **heart engraved Gu** (série rank 1-5): consumido, grava a receita permanentemente na memória (cap. 309).
+- Aceleração temporal de refino (time path) existe mas cobra caro (Third Watch Gu; instant success Gu paga em lifespan — ver longevidade.md) (caps. 297, 355, 389-390).
+
+### Fusão e refino reverso (expansão)
+
+- **Refino reverso com resultados distintos por Gu usado** (cap. 212): Prodigal Son Gu → 2 unidades do Gu inferior original; Revert Gu → 1 unidade; Butterfly Transformation Gu → um Gu totalmente diferente; Unpredictable Gu → resultado aleatório.
+- **Conversão entre Gu de leis compatíveis**: Atmosphere Gu (rank 4, qi path) → Strength qi Gu (rank 3, qi path) via receita reversa de 20+ ingredientes/30+ passos, >80% de sucesso — só seria descoberta publicamente 200 anos depois (cap. 320). Essence iron bone Gu (rank 4) obtido por refino reverso do iron bone Gu (cap. 355).
+- Fusões evolutivas documentadas: vertical crash + horizontal charge (r3+r3) = charging crash Gu (r4): alcance dobrado, recarga pela metade, custo de essência maior (caps. 288, 345); cadeia liquor worm completa até rank 4 (nine eyes; NÃO existe rank 5 — o pesquisador morreu antes, cap. 326 — ver catalogo-gu.md).
+- Upgrades por método doloroso: ancient bronze skin Gu refina 30% mais rápido se o usuário mergulhar em bronze líquido fervente sem proteção (cap. 354).
+
+### Gu de contrato e a corrida armamentista (novo domínio do Vol. 2)
+
+- **Poison vow Gu** (rank 3, consumível): mecanismo completo no cap. 268 — sangue + leitura em voz alta; verifica se a INTENÇÃO no momento do voto bate com o texto; violar depois mata (poça de sangue). O vínculo é pela letra, não pelo espírito: redação técnica permite cumprir o texto traindo a intenção (caps. 268, 310-312 — cláusulas com "terceiro já sabedor" etc.). É o instrumento-padrão de garantia entre Mestres desconfiados, inclusive em chantagens (cap. 296). Descrito como substituto barato dos Immortal Gu de juramento (cap. 401).
+- **Linha do tempo da corrida armamentista** (conhecimento de vida anterior, cap. 278): poison vow Gu → eating one's words Gu (anula o voto só do próprio usuário; surge ~200 anos "no futuro"; 10 respirações de duração) → black and white paper Gu (~10 anos depois; imune ao anterior) → distorting black and white Gu (séculos depois; anula o anterior). Anulação unilateral deixa a outra parte vinculada sem saber (caps. 278, 285, 288).
+- **Quebra "médica" do voto**: "to live, one must die" — forçar a ativação do voto (morte do jurador) e revivê-lo com cura de linhagem rara; 1/3 de chance de morte permanente (caps. 396, 401).
+- Versões imortais: sea oath Gu / mountain pledge Gu (rank 6, reutilizáveis, ancorados a um local físico destruível) (cap. 384; ver cultivo-imortal.md).
+
+### Regras diversas consolidadas no Volume 2
+
+- **Empréstimo de Gu** (cap. 201): possível, revogável por vontade do dono, menos eficiente para o tomador; usado para revezar Gu de vigilância entre aliados (cap. 210).
+- **Contagem social de Gu**: Mestre comum de baixo rank tem 2-3 Gu; rank 4-5, 4-5 Gu; até um rank 5 veterano ~7 (cap. 202) — refina a regra "4-5 por Mestre" do Vol. 1 (custo de manter é o teto).
+- **Interferência entre leis no corpo** (dao marks): builds físicas conflitam com Gu de luz/espaço/vento; cura precisa de lei compatível (caps. 266, 292, 307; ver cultivo-imortal.md).
+- **Empilhar buffs físicos exige suporte estrutural**: força além do que o esqueleto aguenta fere o usuário (caps. 205, 232-233); o corpo não mobiliza 100% da força somada num movimento isolado (<10% em socos) — fraqueza estrutural do strength path (caps. 241, 280).
+- **Gu de rank alto camuflados**: esconder Gu valioso dentro de pedra de aposta é técnica de espionagem reconhecida e recorrente (cap. 283).
+- **Efeito ≠ rank**: penetração vence blindagem de mesmo rank (frenzy needle bee × Sky Canopy, caps. 208-209); regra geral de "tipo de efeito neutraliza nível de rank" em certas combinações.
+- **Vigilância/registro institucional**: Gu de gravação de missão (Immortal Crane Sect, cap. 211), vine information Gu alugado na arena (caps. 279-280), rust flower Gu na alma de membros do clã Tie marca quem os mata (cap. 352).
+- **Escravização (slavery Gu, ranks 1-5)**: controle total sobre um Mestre Gu implantado; a submissão é uma "disputa de almas" — fundação de alma mais forte resiste, mas distração física/emocional no momento crítico contorna (caps. 330, 387, 401). Controle de escravos barato: poison scorpion Gu (veneno único por indivíduo; antídoto a cada 7 dias) (cap. 330).

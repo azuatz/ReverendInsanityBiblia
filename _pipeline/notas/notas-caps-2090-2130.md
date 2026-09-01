@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 2090–2130 (Volume 6)
 
-> Progresso da leitura: até o cap. 2119
-> Status: em-andamento
+> Progresso da leitura: até o cap. 2130 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 

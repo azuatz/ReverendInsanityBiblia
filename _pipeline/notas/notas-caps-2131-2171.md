@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 2131–2171 (Volume 6)
 
-> Progresso da leitura: até o cap. 2160
+> Progresso da leitura: até o cap. 2165
 > Status: em-andamento
 
 ## 1. Mecânicas e regras

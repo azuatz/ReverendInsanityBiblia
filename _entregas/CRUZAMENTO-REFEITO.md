@@ -554,3 +554,34 @@ Quatro estados, e eles carregam informação:
 | Yin Cloud Gu + Yang Cloud Gu | 3 | Par de nuvens que geram raios com lei da destruição | mortal |
 | Yin Yang Rotation Gu | 4 | Troca o sexo do corpo do usuário; a versão Yin ainda cura estados de q | mortal |
 | Zombie Heart Gu | 3 | Coração de bronze de sete buracos | mortal |
+
+---
+
+## RESULTADO FINAL (fechado em conjunto com a sessão do RPG)
+
+O casamento cruzando idiomas foi concluído do lado do RPG, com léxico de domínio EN→PT
+mais o suplemento que enviamos. Números finais sobre os 507 não verificáveis:
+
+| Balde | Total |
+|---|---|
+| ✅ provavelmente já existem no RPG | **139** |
+| ❓ candidatos a realmente ausentes | **368** |
+| 👁️ precisando de olho humano | **0** |
+
+Detalhe metodológico registrado por eles: nesta passada final compararam apenas contra
+**linhas de ficha de Gu**, e não contra todo texto em negrito das notas como na
+primeira tentativa. Isso corrige o otimismo declarado da primeira medição — o balde
+"já temos" subiu de 68 para 139 **e ficou mais honesto**, não mais frouxo.
+
+Lista completa por balde em `RESIDUAL-APOS-CASAMENTO-PT.md`.
+
+### O que fica pendente, e com quem
+
+A **curadoria dos 368** é decisão de escopo do autor, não de pesquisa: quantos merecem
+ficha mecânica completa no RPG contra quantos entram apenas como sabor e material de
+encontro.
+
+Dado que ajuda a decidir: no nosso catálogo, apenas **8 dos 396 Gu mortais** têm as três
+aptidões completas segundo a obra. A esmagadora maioria dos Gu é citada de passagem no
+romance — o que sugere que o segundo grupo deva mesmo ser a maioria, e que um catálogo
+de mesa não melhora por ter centenas de fichas que ninguém abre.

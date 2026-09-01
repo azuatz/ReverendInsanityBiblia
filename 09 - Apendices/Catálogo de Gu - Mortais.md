@@ -387,17 +387,24 @@ Poucos Gu, mas de letalidade desproporcional ao rank. A regra recorrente é que 
 veneno tem sempre um **antídoto exclusivo**, o que faz destes Gu ferramentas de
 controle político tanto quanto armas.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Single Gate Poison Gu | — | Mata em sete dias sem o Gu-contraparte, que é o único antídoto | — |
-| Moon Poison Gu | 3 | Lâmina lunar que vira miasma roxo venenoso | — |
-| Scorpion Faeces Gu | 2 | Veneno único por indivíduo; o escravo precisa do antídoto semanal | — |
-| Poison Scorpion Gu | 3 | Produz o veneno acima; método barato de controle de escravos | — |
-| Love Life Separation Gu | 2 | Unhas longas com veneno fatal ao toque; feridas incuráveis | ingredientes rituais |
-| Tiger Poison Gu | 3 | Veneno de tigre que cresce absorvendo o das presas mortas | veneno de presas |
-| Poison Heart Gu | — | Veneno transmitido por fragrância | — |
-| Clearing Heat Gu | 2 | Neutraliza venenos comuns | — |
-| Smelly Fart Fat Worm | 1 | Gu comum; usado por vendedores para falsificar outro Gu | lama congelada podre |
+O veneno é o caminho de menor custo por unidade de letalidade — e é justamente por
+isso que ele aparece menos como arma de duelo e mais como instrumento de **controle
+político**. Repare no padrão: quase todo veneno da tabela vem com um antídoto
+exclusivo, e quem controla o antídoto controla a pessoa. A vantagem econômica é
+explícita: manter escravos por veneno é o método barato, e é por isso que é o padrão.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Single Gate Poison Gu | — | Mata a vítima em sete dias | — | — | — | O antídoto é **um Gu-contraparte exclusivo**: não existe cura alternativa, o que o torna uma coleira perfeita | Precisa de reaplicação a cada ciclo para manter a vítima sob controle (ded.) |
+| Moon Poison Gu | 3 | Lâmina lunar que se dissolve num miasma roxo venenoso, inalado pelo alvo | — | — | Faz parte da linhagem lunar de um clã | Ataca por inalação: contorna armadura e defesa de contato | — |
+| Scorpion Faeces Gu | 2 | Veneno diferente para cada indivíduo | — | — | — | Individualizado: um antídoto roubado não serve para outro escravo | O escravo precisa do antídoto **a cada sete dias** — o dono também fica preso ao ciclo |
+| Poison Scorpion Gu | 3 | Produz o veneno acima | — | — | — | O **método padrão e barato** de controle de escravos em todo o mundo: a vantagem é de custo, não de potência | Depende do par: sem o Gu que produz o antídoto, o esquema não funciona (ded.) |
+| Love Life Separation Gu | 2 | Unhas de cerca de cinquenta centímetros que injetam veneno fatal ao menor contato | ingredientes ritualísticos | Basta encostar (ded.) | Refino atroz: exige matar um amante e extrair-lhe o coração | Considerado o número um dos venenos de rank 2; **as feridas não são curáveis nem por cura de rank 3** | O custo está no refino, e é de assassinar alguém próximo |
+| Tiger Poison Gu | 3 | Escorpião preto que emite veneno de tigre | veneno das presas que ele mata — cresce comendo o que abate | — | — | **Fica mais forte a cada vítima**, sem custo adicional para o dono | **Ineficaz contra alvos infantis** — "tigres não ferem filhotes" |
+| Poison Liquid Gu | — | Veneno líquido; par do anterior | — | — | — | Combinado ao Tiger Poison, forma um tigre líquido venenoso de combate | — |
+| Poison Heart Gu | — | Veneno transmitido por fragrância | — | — | — | Não exige contato nem ferimento | — |
+| Clearing Heat Gu | 2 | Neutraliza venenos comuns, inclusive veneno cadavérico | — | — | — | Antídoto genérico barato, num mundo onde a maioria dos antídotos é exclusiva | Não resolve os venenos de receita fechada, que são justamente os perigosos (ded.) |
+| Smelly Fart Fat Worm | 1 | Gu comum de efeito irrelevante | lama congelada podre — insumo sem valor nenhum | — | Trivial de obter | Baratíssimo, e por isso mesmo onipresente: também é usado para transportar fertilizante congelado | Vendedores desonestos o usam para **falsificar o Black Boar Gu** — se você está comprando um, desconfie |
 
 ---
 
@@ -408,24 +415,32 @@ múltiplos da alma de uma pessoa comum, e **fortalecê-la (quantidade) e refiná
 (qualidade) são processos distintos**. É o caminho que produz os efeitos mais
 grotescos do sistema, e vários dos seus Gu cobram o preço em sanidade.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Small Soul Gu | 1 | Veículo de "vontade": investiga sem expor a consciência | — |
-| Big Soul Worm | 2 | Versão maior e intangível do anterior | — |
-| Guts Gu | — | Fortalece a fundação da alma; existe só um instante | — |
-| Soul Search Gu | 3 | Lê memórias da alma; o uso frequente confunde a própria | — |
-| Sight Blow Gu | 3 | Ataque à alma pelo olhar, a algumas centenas de passos | — |
-| Wolf Soul Gu | 3-5 | Refina a alma rumo à "alma de homem-lobo"; empilhável | — |
-| Ghost Fire → Flame → Blaze Gu | 2-4 | Cadeia evolutiva de fogo-fantasma | — |
-| Burial Soul Toad | 4 | Armazena almas colhidas em campos de batalha | almas |
-| Refine Essence Spirit Gu | 4 | Converte vitalidade do corpo em recurso para a alma; fome intensa | — |
-| Impermanence Bone Gu | 4 | Ossos que ampliam a capacidade de conter uma alma poderosa | — |
-| Soul Explosion Gu | 5 | Explosão de alma invisível; o dano cai com a distância | — |
-| Hundred Ghost Night Travel Gu | 5 | Cem fantasmas que destroem almas sem ferir corpos | — |
-| Lurking Soul Coat Gu | 1-5 | Oculta as flutuações da alma; comando remoto sem revelar posição | — |
-| Soul Language Gu | — | Permite entender a fala de almas sem corpo | — |
-| White Lotus Giant Silkworm Gu | — | Base de formações de alma; alimento de um Gu Imortal de alma | — |
-| Soul Lantern Gu | — | Verifica à distância se um membro do clã teve a alma alterada | — |
+Esta é a tabela onde o preço aparece com mais frequência **no uso**, e sob a forma
+mais desagradável do sistema: sanidade, dor e fome. O caminho da alma tem uma escala
+própria de progressão, medida em múltiplos da alma de uma pessoa comum, e fortalecê-la
+(quantidade) é um processo diferente de refiná-la (qualidade). Ao ler, note quantos
+destes Gu ferem quem os usa antes de ferir o alvo.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Small Soul Gu | 1 | Veículo de "vontade" para investigar sem expor a consciência do dono | — | — | — | Explora heranças e lugares perigosos sem arriscar o usuário | Alcance e capacidade limitados frente à versão rank 2 (ded.) |
+| Big Soul Worm | 2 | Versão maior e **intangível** do anterior | — | — | — | Sendo intangível, atravessa barreiras físicas | — |
+| Guts Gu | — | Fortalece a fundação da alma | — | Existe por **um único instante**, ao quebrar-se a pedra que o contém | Inarmazenável: não dá para guardar para depois | Reforço de alma de eficácia desproporcional, e também cura dano de alma | O custo está no uso: é consumido no ato, sem margem para planejar |
+| Soul Search Gu | 3 | Lê as memórias contidas numa alma | — | As memórias vêm desordenadas; o uso frequente **confunde a própria alma do usuário**, e uma busca completa fere quem busca | — | Extrai informação que a vítima jamais entregaria | O custo está no uso, e é cumulativo sobre a sanidade do interrogador |
+| Sight Blow Gu | 3 | Ataque à alma pelo olhar, a cerca de trezentos passos | — | Exige linha de visão (ded.) | — | Ataque instantâneo, à distância, que ignora armadura por completo — e conta como "contato" para outros Gu | — |
+| Wolf Soul Gu | 3-5 | Refina a alma rumo à "alma de homem-lobo" | — | — | A versão rank 5 exige a alma de um lobo-imperador, com cerca de cinquenta por cento de sucesso | Empilhável: várias aplicações se somam | A versão rank 4 trava na "alma de cem homens", e a de rank 5 tem metade de chance de fracassar |
+| Ghost Fire → Ghost Flame → Ghost Blaze Gu | 2-4 | Cadeia evolutiva de fogo-fantasma | — | — | — | Rota de progressão clara, do rank 2 ao 4, sem trocar de arsenal | — |
+| Burial Soul Toad | 4 | Armazena almas | almas colhidas em campos de batalha | — | — | Converte uma batalha alheia em estoque de recurso | A dieta exige acesso a campos de batalha: é um Gu que depende de guerra (ded.) |
+| Refine Essence Spirit Gu | 4 | Converte a vitalidade do corpo em recurso para a alma | — | Provoca **fome intensa** no usuário | — | Permite transferir recurso de um eixo de progressão para o outro | É um paliativo, não uma solução, e cobra em fome constante |
+| Impermanence Bone Gu | 4 | Ossos que ampliam a capacidade do corpo de conter uma alma poderosa | — | — | — | Pré-requisito para quem quer alma muito acima do próprio corpo | Reforço ósseo permanente, com os conflitos que isso traz (ded.) |
+| Coptis Rhizome Gu | — | Fortalece a alma | — | Deixa um **amargor permanente** no usuário | — | Ganho real de alma sem exigir vítimas | O custo está no uso, e é permanente |
+| Slow Slicing Gu | — | Refina a alma | — | Dor de fatiamento contínuo | — | Refino de qualidade da alma, não só de quantidade | O custo está no uso, e é uma das dores mais brutais registradas |
+| Soul Explosion Gu | 5 | Explosão de alma invisível | — | — | — | Invisível e implantável numa besta-isca: o inimigo não vê nem a origem nem o disparo | O dano **cai com a distância**: só é letal de perto |
+| Hundred Ghost Night Travel Gu | 5 | Cem fantasmas que destroem almas | — | — | — | Destrói almas **sem ferir corpos** — mata sem danificar o que se quer saquear | — |
+| Lurking Soul Coat Gu | 1-5 | Oculta as flutuações da alma do usuário | — | — | — | Permite comandar à distância sem revelar a própria posição | — |
+| Soul Language Gu | — | Permite entender a fala de almas sem corpo | — | — | — | Torna negociável um tipo de ser com quem ninguém mais consegue falar | — |
+| White Lotus Giant Silkworm Gu | — | Base de formações de alma | — | — | — | Peça estrutural: sustenta formações inteiras, e serve de alimento a um Gu Imortal de alma | Não tem uso individual (ded.) |
+| Soul Lantern Gu | — | Verifica à distância se um membro do clã teve a alma alterada | — | — | — | Contra-espionagem interna: detecta membros substituídos ou dominados | Funciona só sobre quem já está registrado (ded.) |
 
 ---
 

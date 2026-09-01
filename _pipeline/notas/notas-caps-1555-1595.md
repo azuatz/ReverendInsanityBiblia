@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 1555–1595 (Volume 5)
 
-> Progresso da leitura: até o cap. 1579
+> Progresso da leitura: até o cap. 1584
 > Status: em-andamento
 
 ## 1. Mecânicas e regras
@@ -411,3 +411,114 @@
 - Não fica claro o mecanismo exato de "burning soul bursting luck" (mencionado de passagem como efeito de luck path já usado por Fang Yuan) — não detalhado neste bloco, possivelmente já coberto em bloco anterior.
 - A reação física de Feng Jin Huang ao golpe em Feng Jiu Ge (à distância, em Central Continent) não é explicada mecanicamente — pode ser only fictícia (empatia entre Dao Guardian/protegida) ou pode indicar uma ligação mecânica real (dream path? fate?). Registrar para observação em capítulos futuros.
 - Ainda sem novidades diretas sobre limiares percentuais de aptidão ou mecanismo do rule path neste subtrecho (1575-1579).
+
+---
+
+## BLOCO 1580-1584 (adicionado)
+
+### 1. Mecânicas e regras (continuação)
+
+#### Wisdom Gu rank 9 — motivação central de Heavenly Court (confirmação de escala de poder)
+- Confirmado: Immortal Gu de rank 9 são "o topo da pirâmide" — no mundo inteiro, nas cinco regiões, há PROVAVELMENTE MENOS DE DEZ Gu de rank 9 (cap. 1580).
+- Wisdom Gu de rank 9 é descrito como SEGUNDO em importância só para fate Gu, em termos de valor estratégico para o crescimento de força de Heavenly Court (cap. 1580).
+- Se Fairy Zi Wei obtivesse e refinasse o wisdom Gu selvagem via Star Constellation Chessboard, ela se tornaria a wisdom path Gu Immortal NÚMERO UM do mundo, "muito à frente" da segunda colocada, com capacidade de dedução "impensável" — mesmo emperor yama (defesa de nível rank 8 contra dedução) não seria suficiente contra ela; SÓ métodos de rank 9 poderiam bloquear (cap. 1580). Reforça a hierarquia de poder de wisdom path.
+- Confirmado: nem a true inheritance de Lang Ya nem a de Spectral Soul contêm registro de qualquer método de wisdom path de rank 9 (cap. 1580).
+
+#### Política de recrutamento de Heavenly Court — regra confirmada
+- Confirmado explicitamente: Heavenly Court tem uma política formal de aceitar QUALQUER Gu Immortal (mesmo um "otherworldly demon completo" como Fang Yuan, mesmo alguém com antecedentes extremamente violentos) como membro pleno e igualitário, DESDE QUE a pessoa "vire a página" e DOE sua abertura imortal soberana para Heavenly Court. Uma vez aceito, é tratado "igual a todos os outros", sem discriminação por passado (cap. 1580).
+- Precedente citado: Heavenly Court tentou recrutar Spectral Soul Demon Venerable MÚLTIPLAS VEZES, antes e depois dele atingir rank 9 — mesmo ele sendo descrito como tendo causado destruição em escala muito maior que Fang Yuan (cap. 1580).
+- Contraponto emocional (não mecânico, mas relevante para entender política interna): Chen Yi, que "trabalhou a vida toda" e só conseguiu entrar por força de batalha + true inheritance de Genesis Lotus, sente inveja/injustiça ao ver que um "criminoso" como Fang Yuan poderia entrar tão facilmente — evidencia que a regra de igualdade após entrada é sentida como injusta por membros antigos, mesmo sendo real e aplicada (cap. 1580).
+
+#### Omnipresent Four Seas — killer move de refinement path em escala de blessed land inteira
+- Deduzido por Long Hair Ancestor (via Lang Ya land spirit / "corpo principal") a partir do ganho de batalha de matar um water path great expert. Descrito como o mais poderoso killer move de refinement path que Lang Ya Sect possui.
+- Custo: expende quantidade IMENSA de água do mar — normalmente reservado só para refinar Immortal Gu de rank 8; usado como arma de combate aqui só em desespero, e mesmo assim dura apenas "algumas dezenas de piscar de olhos" (dozens of breaths) (cap. 1580).
+- Mecanismo: não distingue amigo de inimigo — atinge TODOS na área (incluindo Fang Yuan, mitigado por reverse flow protection seal), EXCETO hairy man Gu Immortals, que têm dao marks NATIVOS de refinement path e por isso passam ilesos e ainda têm seus próprios killer moves AMPLIFICADOS pelo omnipresent four seas para poder de "primeira linha de rank 8" (cap. 1580, 1581).
+- Ancient battle formation Heavenly Giant Solor também é imune/beneficiada (não é uma Immortal Gu House, depende do usuário — controlada pelos hairy men, vira efetivamente um "gigante de refinement path" sob o efeito) (cap. 1581).
+- Revelação de lore: a água do mar de Lang Ya blessed land NÃO é água comum — é "refinement water" criada pessoalmente por Long Hair Ancestor em seus últimos anos de vida; o oceano inteiro de Lang Ya (as 3 continentes flutuam sobre ele) é literalmente a fundação de refinement path da blessed land. Objetivo original: acumular o volume de QUATRO mares para causar uma "mudança qualitativa" e criar um secluded domain de heaven-and-earth artificial — atualmente só têm "um mar" de volume, processo interrompido por essa batalha (cap. 1581).
+- Método de geração da água: Lang Ya blessed land foi mantida deliberadamente em "crescent moon lake" por muito tempo, usando o ambiente de water path + o killer move "immortal tribulation tempering aperture" para provocar tribulações de water path repetidamente e aumentar os dao marks de water path da blessed land (cap. 1581) — método de "farming" deliberado de tribulações para acumular dao marks de um path específico, aplicável a uma blessed land inteira.
+- Confirmado: omnipresent four seas PODE ser contido numa área específica (em vez de toda a blessed land) se houver uma immortal formation correspondente para extrair o poder do golpe e usá-lo para refinar Gu — essa formation é a mesma "Long Hair refinement path formation" usada para refinar Myriad Self Immortal Gu (cap. 1580).
+
+#### Steal Life Immortal Gu — arma de rank 8 restrita por autodetonação programada
+- Rank 8 Immortal Gu, criado por Thieving Heaven Demon Venerable, dado a Long Hair Ancestor (main body) em troca de serviços de refino no passado — mantido em segredo mesmo de Heavenly Court, que acreditava (informação FALSA plantada) que Thieving Heaven havia destruído o Gu e a receita por medo do próprio poder (cap. 1581, 1582).
+- Efeito: RETRAI de volta ao usuário uma quantidade de LIFESPAN de TODOS os seres vivos na área de efeito (não distingue aliado/inimigo) — visualmente, uma luz vermelha se espalha e depois "retrai" como flechas voltando ao arco / tempo invertido, envelhecendo instantaneamente todos os atingidos (cap. 1581).
+- Restrição própria imposta pelo criador: só pode ser ativado 3 VEZES antes de AUTODETONAR — Thieving Heaven temia o caos que essa arma causaria no mundo se caísse em mãos erradas, então limitou seus próprios usos mesmo ao dá-la a um aliado de confiança (Long Hair Ancestor) (cap. 1581).
+- Regra de "singular effect" (efeito único, não killer move completo): rouba lifespan mas NÃO é em si um dano direto de combate — cada Heavenly Court immortal atingido pôde se defender parcialmente com métodos próprios, mas não conseguiu bloquear TUDO (cap. 1581).
+- Resultado no combate: 1º uso envelheceu drasticamente todos (Feng Jiu Ge, Fairy Zi Wei, Chen Yi, Jing Lan) — variant humans e Fang Yuan (que tem "four thousand years of lifespan Gu" para reverter) sobreviveram sem problema real; Gu Immortals de Heavenly Court geralmente já gastaram a MAIOR PARTE de seu lifespan (daí precisarem "dormir" no cemitério imortal na maior parte do tempo), tornando-os desproporcionalmente vulneráveis a esse roubo. 2º uso matou Jing Lan (Thunder Ghost True Monarch) de VELHICE instantânea (cap. 1581).
+- Confirma um dado relevante para LACUNAS/lore geral: Gu Immortals poderosos de Heavenly Court (implicitamente incluindo muitos veteranos) já usaram a maior parte de seu lifespan em vida e por isso "dormem" no cemitério imortal a maior parte do tempo, só acordando quando necessário (cap. 1581) — mecanismo geral de conservação de lifespan para seres de vida extremamente longa.
+
+#### Morte de Jing Lan (Thunder Ghost True Monarch) — golpe final póstumo
+- Mesmo após morrer de velhice (steal life), a armadura negra de Jing Lan (natureza soul path em essência, "uma espécie de alma especial") permaneceu ativa — seu coração continuou emitindo faíscas de raio, e o corpo velho se derreteu completamente pelo calor/corrente elétrica do próprio coração, revelando a armadura "sem dono" que se ergueu sozinha (cap. 1582).
+- A armadura, movida só pelo coração residual, atacou em velocidade que ultrapassou o pico de rank 8, atingindo QUASE-RANK-9 — velocidade excepcional mesmo para Jing Lan em vida (ela já era "mestre de movimento" entre rank 8, mas isso supera até seu próprio pico vivo) (cap. 1582).
+- Mecanismo do golpe final: condensou TODOS os dao marks de lightning path de Jing Lan dentro do coração e detonou tudo de uma vez — resultado: após a explosão, NENHUM dao mark de lightning path restou na área (ela "usou cada dao mark que tinha"), confirmando que ela tinha attainment de great grandmaster em lightning path (cap. 1582).
+- Escala de dano: destruiu o silver giant (Heavenly Giant Solor) por completo; mesmo depois disso, ainda atingiu reverse flow protection seal de Fang Yuan e consumiu 10% de TODA a água de Reverse Flow River (domínio interno da abertura soberana de Fang Yuan) em um único golpe — Fang Yuan já havia usado reverse flow protection seal múltiplas vezes nesta batalha e restava apenas 60% da capacidade total do domínio após esse golpe (cap. 1582). Esse é um dado numérico concreto e raro sobre o "medidor de recursos" de um domínio secluded de heaven-and-earth.
+- Confirma: reverse flow protection seal (via Reverse Flow River) tem um limite de "capacidade" que se esgota com uso repetido em uma mesma sessão de combate — não é infinito mesmo dentro de uma única batalha.
+
+#### Dead Inside From Sorrow (Fairy Zi Wei) — golpe de emoção com backlash severo
+- Killer move de Fairy Zi Wei: espalha a emoção de "tristeza" sem luz visível, mata instantaneamente quem for atingido ("os olhos reviram, morrem misteriosamente") — sem meio de defesa aparente por parte das vítimas (matou múltiplos hairy man Gu Immortals de uma vez, incluindo Sixth Hair).
+- Poder comparável ao golpe final de autodetonação de Jing Lan: também consumiu 10% da água de Reverse Flow River quando Fang Yuan bloqueou o resto do dano colateral (cap. 1582) — dado de comparação direta de poder entre golpes de rank 8 "supremo".
+- Custo alto para a própria usuária: após usá-lo, Fairy Zi Wei "quase desmaiou" e precisaria descansar "por muito tempo" — confirma que mesmo wisdom path great experts pagam preço físico severo por golpes ofensivos supremos (cap. 1582).
+
+#### Karma Divine Tree (Chen Yi) — mecanismo de "causa e efeito"
+- Immortal killer move de Chen Yi (Genesis Lotus true inheritance): cresce uma "árvore divina" que produz um FRUTO; o fruto, quando esmagado pelo próprio usuário, libera um efeito que consegue DESTRUIR/ANULAR algo já existente — usado aqui especificamente para destruir Steal Life Immortal Gu (impedindo um 3º uso) (cap. 1582).
+- Custo: usar essa capacidade à força feriu GRAVEMENTE o próprio Chen Yi — o suco da fruta o corroeu como veneno, expondo os ossos em segundos; ele pagou esse preço deliberadamente como sacrifício tático (cap. 1582).
+- Princípio citado (nota de tradução no texto): "toda causa tem um efeito, o efeito pode eliminar a causa" — mecanismo temático de rule/cause-effect path aplicado à anulação de Gu/efeitos já ativos.
+
+#### Lang Ya blessed land — estrutura de "dois land spirits" (obsessões)
+- Confirmado: Lang Ya blessed land tem DUAS obsessões, resultando em DOIS land spirits — um de cabelo preto ("Black Hair", o que já interagia com Fang Yuan) e um de cabelo branco ("White Hair"). Quando o land spirit de cabelo preto morre, o de cabelo branco aparece automaticamente para assumir (cap. 1582).
+- Os dois land spirits têm AGENDAS DIFERENTES: Black Hair tinha aliança com Fang Yuan; White Hair tinha um acordo PRÉ-EXISTENTE e diferente com Giant Sun Immortal Venerable (através de seus descendentes / Longevity Heaven) — pede ajuda a Longevity Heaven e funde Lang Ya blessed land a essa organização em status IGUALITÁRIO como plano de contingência para extinção iminente (cap. 1582). White Hair explicitamente NÃO se considera vinculado ao acordo de aliança que Black Hair fez com Fang Yuan (cap. 1583).
+- Implicação mecânica: uma blessed land com múltiplas obsessões pode ter "personalidades"/planos de contingência conflitantes e independentes, ativados sequencialmente conforme os land spirits anteriores morrem — cada um pode ter recursos, acordos e agendas próprias desconhecidos até serem revelados na crise.
+
+#### Fixed Immortal Travel — Immortal Gu de teletransporte, contramedida específica
+- Confirmado: Fixed Immortal Travel é especificamente um Gu de SPACE PATH — só Gu Immortals de space path são eficazes em CONTRA ele/interceptá-lo (cap. 1583). Isso explica por que a força reunida contra Fang Yuan (mesmo trazendo 3 rank 8 + immemorial desolate beast + Immortal Gu House) não conseguiu impedir sua fuga final — nenhum deles era especialista em space path.
+- Fixed Immortal Travel, uma vez roubado e refinado (via a formação de refino instantâneo Self Love/Affection), torna-se um recurso de fuga confiável e repetível — usado por Fang Yuan pelo menos duas vezes seguidas neste bloco para escapar de situações fatais.
+
+#### Método de dedução/traição por Fang Yuan (soul search em massa)
+- Confirmado: Fang Yuan tem um "método de soul search extremamente proficiente" que permite extrair rapidamente informações detalhadas de uma alma capturada — usado para localizar TODOS os membros restantes (Gu Masters e mortais comuns) das tribos snowman e rockman escondidos no subsolo, e para mapear o tesouro das duas tribos (cap. 1584).
+- Confirma um padrão narrativo-mecânico: um alvo morto por yama children tem sua alma PRESERVADA e APRISIONADA dentro de yama battlefield antes de ser dispelido — Fang Yuan aprisionou as almas de TODOS os variant human Gu Immortals que matou (incluindo Xue Er, sua noiva) dentro do battlefield (cap. 1584).
+
+#### Materiais imortais raros de linhagens extintas ("Olden/Remote Antiquity Era")
+- **Ice tear** (snowman tribe) e **bumpy rice** (rockman tribe): materiais imortais especiais/exclusivos de cada tribo (cap. 1584).
+- **Face changing silver** (metal): material imortal raríssimo, de eras extintas (Olden Antiquity Era / Remote Antiquity Era), praticamente inexistente hoje, nem encontrável em treasure yellow heaven — capaz de imitar/assumir o rosto de qualquer "bela mulher" (cap. 1584).
+
+### 2. Gu catalogados (adição)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Omnipresent Four Seas | Immortal (rank alto, escala de blessed land) | refinement path | Golpe de área que atinge todos exceto hairy man Gu Immortals; amplifica killer moves de refinement path a poder de "primeira linha de rank 8"; consome quantidade imensa de água refinada do mar de Lang Ya, dura só dezenas de piscar de olhos | água do mar refinada (criada por Long Hair Ancestor) | 1580, 1581 |
+| Steal Life Immortal Gu | 8 | (criação de Thieving Heaven Demon Venerable) | Rouba lifespan de todos os seres vivos numa área (não distingue lado); autodetona após 3 usos (restrição do próprio criador) | — | 1581, 1582 |
+| Dead Inside From Sorrow (Fairy Zi Wei) | Immortal (nível supremo) | wisdom/emotion path | Espalha "tristeza" sem luz visível, mata instantaneamente quem atingido; backlash severo para a usuária | — | 1582 |
+| Karma Divine Tree (Chen Yi) | Immortal | wood path (Genesis Lotus true inheritance) | Cresce árvore que produz fruto; esmagar o fruto libera efeito de "causa e efeito" capaz de destruir/anular algo já existente (destruiu Steal Life Gu); fere gravemente o próprio usuário | — | 1582 |
+| Calamity Luck Altar | Immortal Gu House | luck path (provável, ligado a Longevity Heaven) | Uma das fundações de Longevity Heaven; usada por Five Elements Grandmaster como veículo de combate móvel | — | 1583 |
+
+### 3. Mundo e sociedade (adição)
+- **Longevity Heaven** intervém diretamente em socorro de Lang Ya blessed land: traz 3 Gu Immortals de rank 8 (Mao Li Qiu — na verdade um immemorial desolate beast "legendário", Bull Demon, Flower Lady) e ao menos uma Immortal Gu House (Calamity Luck Altar). Confirmado: Mao Li Qiu é hostil a Fang Yuan por causa do colapso de "Eighty-Eight True Yang Building" e quer "recuperar a luck path true inheritance" — encadeamento de vingança de eventos anteriores (cap. 1582, 1583).
+- **Five Elements Grandmaster**: personagem que havia se infiltrado em Longevity Heaven, foi capturado e preso na Immortal Gu House Calamity Luck Altar, e após resistir por muito tempo sem conseguir escapar, se rendeu e juntou-se a Longevity Heaven — presente neste combate como reforço (cap. 1583).
+- Confirmado: quando Lang Ya blessed land se rende/funde a Longevity Heaven, o acordo original prevê "status igualitário" (equal status), não subordinação — mas o novo land spirit de cabelo branco assume comando e desconhece o acordo de aliança com Fang Yuan (cap. 1582, 1583).
+- **Grande revelação de caráter/enredo (registrado por exigir para entender a mecânica de traição)**: Fang Yuan, ao perceber a batalha perdida, executa uma traição total: tenta matar o land spirit branco de Lang Ya (falha, ele teleporta a tempo), foge via Fixed Immortal Travel, depois retorna à base secundária das tribos snowman/rockman (fora da blessed land principal) e MASSACRA todos os variant human Gu Immortals e populações restantes que confiavam nele — incluindo sua própria noiva Xue Er — para saquear seus Immortal Gu, materiais, tesouros e população mortal, movendo tudo para sua própria abertura imortal soberana. Método: acusa falsamente um Gu Immortal aliado (Bing Zhuo) de ser traidor infiltrado de Heavenly Court, usando isso como pretexto/cobertura psicológica para o ataque (cap. 1583, 1584).
+- Depois disso, Fang Yuan viaja até Southern Border e ataca DOIS Gu Immortals desconhecidos guardando uma immortal formation que se revela conter um "dream realm" — gancho para o próximo bloco de capítulos (cap. 1584).
+
+### 4. Economia e vida cotidiana (adição)
+- Confirmado: tribos variant human mantêm "treasury" (tesouro) próprio com materiais imortais exclusivos de cada raça (ice tear, bumpy rice) além de materiais gerais de eras extintas — Fang Yuan saqueia integralmente ao trair as tribos (cap. 1584).
+- Immortal apertures de Gu Immortals mortos por Fang Yuan neste massacre foram deliberadamente SELADAS e NÃO "aterradas" (mantidas fechadas, não abertas/exploradas imediatamente) — sugere procedimento de segurança ao lidar com recursos roubados em massa antes de processá-los com calma depois (cap. 1584).
+
+### 5. Estudos de caso mecânicos (adição)
+
+### Caso: traição e massacre em massa das tribos snowman/rockman (cap. 1583-1584)
+- Método: após escapar da batalha principal via Fixed Immortal Travel, Fang Yuan usa yama battlefield para isolar a base secundária das tribos aliadas, mente sobre a derrota (culpa um bode expiatório como "traidor infiltrado"), e sistematicamente rouba os Immortal Gu de cada aliado individualmente com great thief ghost hand ANTES de matá-los — a ordem importa: roubar primeiro reduz a força de batalha da vítima e evita que ela se desespere e destrua os próprios recursos (referência explícita ao precedente de Meng Tu, que se autodetonou; aqui Fang Yuan evita repetir esse "erro" mantendo esperança falsa nas vítimas até roubá-las por completo).
+- Recursos: yama battlefield (isolamento), great thief ghost hand repetido, emperor yama (yama children como força numérica esmagadora contra rank 6, mas insuficiente sozinha contra o único rank 7 do grupo, que precisou ser finalizado com soul explosion), soul search em massa (para localizar sobreviventes escondidos e mapear o tesouro).
+- Resultado: aniquilação total de uma comunidade aliada, aquisição de população mortal (movida à força para a própria abertura), materiais raros de eras extintas, e eliminação de testemunhas que "sabiam demais" sobre os segredos de Fang Yuan — tudo justificado internamente por ele como necessário dado o colapso da aliança com Lang Ya blessed land.
+
+### 6. Glossário (adição)
+- **Refinement water / omnipresent four seas**: água do mar de Lang Ya blessed land, criada por Long Hair Ancestor como fundação de refinement path; base do golpe de mesmo nome.
+- **Steal Life**: Immortal Gu de rank 8 que rouba lifespan de área, limitado a 3 usos antes de autodetonar.
+- **Dead Inside From Sorrow**: golpe supremo de emoção/wisdom path de Fairy Zi Wei.
+- **Karma Divine Tree**: golpe de "causa e efeito" de Chen Yi, cujo fruto pode anular algo existente ao custo de ferimento grave ao usuário.
+- **Land spirit de cabelo preto/branco**: as duas "personalidades"/obsessões de Lang Ya blessed land, cada uma com agenda e trunfos próprios.
+- **Face changing silver**: metal raríssimo de eras extintas que imita rostos.
+- **Ice tear / bumpy rice**: materiais imortais exclusivos das tribos snowman e rockman, respectivamente.
+
+### 7. Dúvidas e lacunas (adição)
+- Não fica claro o mecanismo técnico exato de "Dead Inside From Sorrow" (por que mata instantaneamente, como se defender dela) — só o efeito e o custo para a usuária foram descritos.
+- Não fica claro se "Karma Divine Tree" pode ser reutilizado ou se o fruto é de uso único por "plantio" — parece exigir tempo de crescimento (a árvore já estava "carregando um fruto grande" antes do momento de uso).
+- Dado numérico interessante para consolidar (não é lacuna, é achado): capacidade de Reverse Flow River como "medidor" — cada golpe supremo de rank 8/quase-rank-9 consumiu 10% do total; começou a batalha com reservas maiores e terminou com 60% restante após múltiplos usos de reverse flow protection seal + 2 golpes de área absorvidos. Útil para cultivo-imortal.md / catálogo de domínios.
+- A relação exata entre "Longevity Heaven" e "Giant Sun Immortal Venerable's descendants" citada no acordo de White Hair land spirit não é detalhada — pode já estar coberta em notas anteriores (conferir bloco 1514-1554, que está vazio/stub) ou puder aparecer depois.
+- Ainda sem novidades diretas sobre limiares percentuais de aptidão, mecanismo do rule path, critério de fate escapee, ou Grande Era/Great Dream neste subtrecho (1580-1584) além do que já foi registrado sobre fate Gu danificado.

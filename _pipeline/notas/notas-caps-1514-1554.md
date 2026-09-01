@@ -270,6 +270,13 @@ Fang Yuan usa a invasão de Heavenly Court como alavanca para extrair de Lang Ya
 - Ancient battle formation — formação de batalha ancestral (ex.: Heavenly Giant Solor)
 - Remote Antiquity Era — Era da Antiguidade Remota (3 milhões de anos atrás)
 - Medieval Antiquity Era — Era da Antiguidade Medieval (300 mil anos atrás)
+- Dao Guardian — guardião do dao (título ligado a um Venerável, ex.: Feng Jiu Ge/Great Dream Immortal Venerable)
+- True meaning — verdadeiro sentido/vontade (recurso de salto de atainment)
+- Quasi-supreme grandmaster — grão-mestre quase-supremo (herda true meaning de um mestre histórico sem inovar além dele)
+- Soul explosion — explosão de alma
+- Immortal graveyard — cemitério imortal (hibernação de grandes experts em Heavenly Court)
+- Winds of assimilation — ventos de assimilação
+- Secluded domain of heaven and earth — domínio recluso do céu e da terra (categoria de Dang Hun Mountain, City Well etc.)
 
 ## 7. Dúvidas e lacunas
 - **Grande Era (LACUNAS)**: cap. 1531 confirma explicitamente que a Grande Era é a fusão das cinco regiões em uma só, sinalizada por turbulência no qi da terra e conexão de veias terrestres, causando terremotos em cascata onde há maior densidade de dao marks de earth path (Southern Border tem a maior). Isso é evidência direta a favor da hipótese "Grande Era = fusão territorial/geológica do mundo", útil para a seção de mundo-e-cosmologia.md. Nenhuma menção a "Great Dream Immortal Venerable" neste bloco.
@@ -284,3 +291,15 @@ Fang Yuan usa a invasão de Heavenly Court como alavanca para extrair de Lang Ya
 - **Grande Era (LACUNAS)**: nenhuma nova confirmação neste sub-bloco além do já registrado no cap. 1531.
 - Não está claro se "reincarnation battlefield" (mencionado por Lu Wei Yin como o conceito que Fetus Earth Maze imita) é um golpe formalmente existente em algum lugar do mundo, ou apenas uma referência lendária/teórica.
 - Não está claro se a "sorte excepcional" de Shang Xin Ci será desenvolvida mecanicamente (ela é chamada de "pessoa importante na grande era") — possível gancho para revelações futuras sobre luck path e/ou a Grande Era.
+
+### Achados finais relevantes para LACUNAS.md (caps. 1544-1554)
+- **Great Dream Immortal Venerable (LACUNAS item 33, prioridade alta)**: DOIS achados diretos neste bloco. (1) Feng Jiu Ge é confirmado como "Dao Guardian de Great Dream Immortal Venerable" (cap. 1549) — primeira menção concreta de alguém vinculado a essa figura, sugerindo que Great Dream Immortal Venerable é uma entidade real e ativa (ou em processo de ascensão) no presente da história, com subordinados/guardiões designados como Star Constellation e outros Venerados têm. (2) Fang Yuan afirma que "quando Great Dream Immortal Venerable alcançar rank 9, lifespan Gu se tornará extremamente raro, céu e terra pararão de produzi-lo" (cap. 1551) — a ascensão desse Venerável a rank 9 é tratada como um EVENTO-MARCO causal da Grande Era, com consequência mundial concreta e datável (fim da produção natural de lifespan Gu). Isso é forte evidência de que "Great Dream" NÃO é uma metáfora, mas um Venerável nomeado cuja ascensão pendente é um dos gatilhos estruturais da Grande Era — registrar com prioridade em mundo-e-cosmologia.md ou dossiê de Venerados.
+- **Grande Era (LACUNAS)**: nenhuma nova confirmação de definição além do já registrado (fusão das 5 regiões, cap. 1531), mas o bloco reforça que a "guerra caótica das cinco regiões" citada nas memórias de vida anterior de Fang Yuan é sinônimo/fase da Grande Era, e que dream realms com true meaning aparecendo "por todo o mundo" são o mecanismo que a torna uma era de gênios sem precedentes (cap. 1552).
+- **Aptidão (LACUNAS)**: nenhum limiar percentual novo neste sub-bloco final.
+- **Rule path / fate escapee (LACUNAS)**: nenhuma menção direta. Porém, City Well é reafirmada como "rule path secluded domain of heaven and earth" (cap. 1549), reforçando rule path como categoria mecânica ativa e ligada a domínios especiais, mas sem nova definição formal do path em si.
+- Nenhuma nova pista sobre "critério de fate escapee" neste bloco.
+
+### Outras dúvidas novas registradas neste bloco
+- Não está claro o efeito completo/rank do "Dark Limit Immortal Gu" de Fang Yuan, apenas que Heavenly Court o considera pista relevante de dedução.
+- Não está claro se a "reincarnation battlefield" mencionada por Lu Wei Yin (cap. 1543) tem qualquer relação com o "campo de batalha" citado no contexto de Great Dream/Grande Era — possível conexão temática a verificar em capítulos futuros.
+- Relação exata entre "Demon Judgment Board" e outros métodos de rastreamento de Heavenly Court (ex. Karma Divine Tree, Star Constellation Chessboard) não foi detalhada — parecem ser ferramentas distintas com pré-requisitos de uso diferentes (Demon Judgment Board exige blood path; Karma Divine Tree exige ligação causal/karma; Star Constellation Chessboard parece mais genérica).

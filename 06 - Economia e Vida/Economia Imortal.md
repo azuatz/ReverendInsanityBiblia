@@ -38,6 +38,17 @@ Essa é a regra mais importante desta nota:
 Ou seja: **uva verde : tâmara vermelha : lichia branca = 10.000 : 100 : 1**. Cada rank de
 cultivo divide o poder de compra do dinheiro por cem.
 
+> [!warning] Converter para cima custa mais do que a proporção nominal
+> Os 100:1 acima são a razão de **valor**. Produzir de fato uma unidade de essência de
+> rank superior a partir da inferior consome **mais** do que cem unidades — a obra dá o
+> caso de uma conta de tâmara vermelha exigindo pelo menos cento e trinta contas de uva
+> verde. Há perda no processo, e ela não é desprezível.
+>
+> Para o design, essa diferença entre "quanto vale" e "quanto custa fabricar" é um
+> atrito econômico útil: desestimula a conversão como estratégia trivial de
+> enriquecimento e faz com que subir de patamar exija mudar de *fonte* de renda, não
+> apenas acumular mais da moeda antiga.
+
 A consequência é dramática e vale enunciar com todas as letras: **um cultivador que
 enriqueceu como rank 6 acorda pobre como rank 7**. Um rank 8 que pague qualquer coisa em
 dinheiro está queimando dez mil unidades de moeda por conta de essência que usa. É

@@ -39,6 +39,15 @@ assim preserva a experiência de ler a obra depois, se quiser.
 > lendárias. Se você pretende ler o romance e é sensível a isso, leia primeiro as
 > notas marcadas como `conhecimento: comum` e deixe as marcadas `segredo` para depois.
 
+## As duas trilhas de leitura
+
+Antes de tudo, saiba que a base está dividida por **quem pode saber o quê**:
+
+- [[Trilha do Jogador]] — tudo que jogadores podem ler sem estragar o mistério da mesa
+  nem a experiência de ler o romance. Sai daqui o manual do jogador.
+- [[Somente o Mestre]] — as verdades ocultas do universo, com aviso de spoiler pesado.
+  Inclui uma tabela do que cortar nas notas que são "quase" seguras.
+
 ## Por onde começar
 
 Se você tem pouco tempo, **estas cinco notas dão a fundação**, nesta ordem:

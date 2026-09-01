@@ -4,14 +4,15 @@
 
 ## Estado atual
 
-- Fase: Volumes 1–4 lidos E consolidados (blocos 1.1–1.5, 2.1–2.5, 3.1–3.6 e
-  4.1–4.9 ✅✅); leitura do Volume 5 em andamento (5.1–5.11 lidos; 5.12–5.15
-  pendentes).
-- Consolidação do Volume 4 fundida nos rascunhos existentes (nenhum arquivo novo —
-  ver histórico da TAXONOMIA). Todos os 12 rascunhos de domínio marcam
-  "cobre até: Volume 4".
-- Próxima ação: commitar esta consolidação; concluir a leitura dos blocos 5.12–5.15
-  e consolidar a leva do Volume 5 em seguida.
+- **LEITURA INTEGRAL DA OBRA CONCLUÍDA** (2026-09-01): todos os 57 blocos, capítulos
+  0–2334, ~19.900 linhas de notas brutas em `_pipeline/notas/`. Nenhum arquivo vazio
+  (verificado). A obra termina no cap. 2334 sem fechamento narrativo — a fonte corta
+  no meio de uma batalha; registrado como está, sem inventar desfecho.
+- Volumes 1–4 consolidados nos rascunhos ("cobre até: Volume 4").
+- Volumes 5 e 6 lidos, **consolidação pendente**: a consolidação do V5 foi
+  interrompida por fim de créditos da API e precisa ser refeita do zero.
+- Próxima ação: consolidar V5 (em 2 partes, para reduzir risco) e depois V6; então
+  seguir para pesquisa externa → escrita final → verificação.
 
 ## Blocos de leitura
 
@@ -145,7 +146,7 @@
 
 ## Pendências gerais
 
-- Volume 5: blocos 5.1–5.11 lidos; ler 5.12–5.15 e consolidar a leva inteira em seguida.
+- Consolidação dos Volumes 5 e 6 nos rascunhos (única etapa pendente da fase de leitura).
 - Pesquisa externa (wiki/Reddit): não iniciada — lista de alvos em `LACUNAS.md`.
 - Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-50).
 - Notas finais da designer (pastas `01`–`09` + LEIA-ME): deliberadamente adiadas até a

@@ -6,7 +6,7 @@ status: rascunho-interno
 
 # Glossário EN → PT
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
 
 ## Resumo do domínio
 

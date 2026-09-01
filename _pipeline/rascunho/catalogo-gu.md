@@ -6,12 +6,12 @@ status: rascunho-interno
 
 # Catálogo de Gu
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Fusão das tabelas das notas brutas, duplicatas unificadas. Seções por família temática; a partir do Volume 2 os nomes formais de path existem (ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca ou destaque. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes. As adições do Volume 2 estão na seção "Volume 2" ao final (para não quebrar as tabelas do Vol. 1); duplicatas entre volumes têm nota cruzada.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Fusão das tabelas das notas brutas, duplicatas unificadas. Seções por família temática; a partir do Volume 2 os nomes formais de path existem (ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca ou destaque. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes. As adições de cada volume ficam em bloco próprio ao final (tabelas anteriores intactas); duplicatas entre volumes têm nota cruzada.
 
 ## Resumo do domínio
 
-Tabela mestra de todos os Gu vistos na obra, com rank, efeito, alimento e capítulos. Os Gu são a unidade de toda magia (um Gu = uma habilidade; ver `gu-sistema.md`); este catálogo os agrupa por família temática/path. O Volume 1 catalogou ~160 Gu (ranks 1-5, mais lendas); o Volume 2 soma ~150 novos, incluindo os primeiros **Gu Imortais (rank 6)** vistos em ação — Spring Autumn Cicada, second aperture Gu, fixed immortal travel Gu, one's own way Gu, no loss Gu, sea oath/mountain pledge Gu, Dream Wings — e categorias novas: Gu de contrato (poison vow e a corrida armamentista), Gu de tempo (Third Watch, instant success), Gu de multitarefa, Gu de escravização de pessoas, e os "expenditure Gu" (de usos finitos) como categoria formal.
+Tabela mestra de todos os Gu vistos na obra, com rank, efeito, alimento e capítulos. Os Gu são a unidade de toda magia (um Gu = uma habilidade; ver `gu-sistema.md`); este catálogo os agrupa por família temática/path. O Volume 1 catalogou ~160 Gu (ranks 1-5, mais lendas); o Volume 2 somou ~150 novos, incluindo os primeiros **Gu Imortais (rank 6)** vistos em ação e categorias novas (contrato, tempo, multitarefa, expenditure). O Volume 3 soma ~130 novos, incluindo mais de uma dúzia de Immortal Gu (rank 6-9 — os primeiros rank 7-9 catalogados: Heavenly Secret, Calamity Beckoning, Divert Disaster, Human Qi, Water Harmony, Earth Prison/Net, Treasure Light r8, Fortune Rivalling Heaven r8, Wisdom Gu r9), os catálogos inteiros do soul path e do sistema jin/jun, os Gu de vontade do wisdom path e os Gu de luck path.
 
 ## Regras do mundo
 
@@ -538,3 +538,136 @@ Tabela mestra de todos os Gu vistos na obra, com rank, efeito, alimento e capít
 | Green Copper Relic Gu (recompensa) | — | avança 1 estágio dentro do rank 1 | 216-217 |
 | Spirit incubating flea | — | aloja a alma de um Mestre morto para orientar um sucessor | 211, 366, 375 |
 | King Quan travel token | — (item) | saída de emergência da King Quan Inheritance (sangue + "Woof", 3 usos); valor ≈ 1 Gu rank 4 | 351-352 |
+
+---
+
+# Volume 3 (caps. 406–649)
+
+## Immortal Gu do V3 (⭐ rank 6+)
+
+| Gu | Rank | Path | Efeito | Alimento | Caps. |
+|---|---|---|---|---|---|
+| ⭐ Second Aperture Gu (completo) | 6 | aperture | concede segunda abertura (nasce r1 no peito, progride sozinha; segundo vital Gu; seguro de vida na ascensão); NÃO gera 3ª abertura em reuso | — | 485-494, 627 |
+| ⭐ Divine Travel Gu (novo exemplar) | 6 | espaço | teleporte de efeito extremamente aleatório/perigoso; condensa-se em quem beber os 4 vinhos supremos (8 no caso real, por interferência); material da etapa final do second aperture Gu | — | 411, 467-469, 485-486 |
+| ⭐ Heavenly Essence Treasure Imperial Lotus | 6+ | recursos | produz essência IMORTAL (a família r3-5 produz primeva); 6º dos "dez maiores Immortal Gu"; refino consome spirit springs inteiras (r6 = 11) | — | 463, 558 |
+| ⭐ Beast Enslavement Gu (Lang Ya) | 7 | enslavement | subjuga qualquer besta do mundo, inclusive desolate/ancient desolate beasts | — | 463 |
+| ⭐ Treasure Light Gu | 8 (único) | avaliação | mede o valor de qualquer item por feixe de luz (metros); localiza tesouros; padrão de preços do treasure yellow heaven | — | 466 |
+| ⭐ Everlasting Gu | 6+ | aperture | reforça as paredes da abertura contra pressão de aptidão altíssima; 3 meses por aplicação | — | 468 |
+| ⭐ Heavenly Secret Gu | 7 | wisdom | deduz verdades sem evidências; ~80% de falha; falha consome 10-70 anos de lifespan | — | 492 |
+| ⭐ Strength of a Thousand Jun | 6 | força | +1.000 jun (30.000 jin); de Chu Du, "Domination Immortal" | — | 442 |
+| ⭐ Calamity Beckoning Gu | 7 | luck | atrai para si a calamidade/tribulação de outro alvo; só aceita portador com genuíno "coração de autossacrifício" | — | 566-568 |
+| ⭐ Divert Disaster Gu | 7 (provisório) | luck | desvia/destrói tribulações e calamidades; pilar da True Yang Building; origem do blizzard decenal | — | 567, 608, 612 |
+| ⭐ Fortune Rivalling Heaven Gu | 8 | luck | uso único; informe/incapturável; protege o portador passivamente via "coincidências" externas; hostilidade contra o protegido piora a sorte do agressor | — | 617-619 |
+| ⭐ Human Qi Gu | 7 | wisdom/ascensão | coleta e purifica o human qi alheio para somar ao próprio na ascensão | — | 600, 608 |
+| ⭐ Wisdom Gu | 9 (lendário) | wisdom | "luz da sabedoria": acelera criação/colisão de pensamentos (insight ao custo de lifespan; destrói vontades residuais); frágil fisicamente; herança suprema de Giant Sun | — | 601, 637-638, 646-649 |
+| ⭐ Water Harmony Gu | 7 | água | núcleo do Water Pavilion; funde o usuário com água ("imortal enquanto houver água por perto") | — | 566, 568, 641 |
+| ⭐ Worldly Wave Trace | 6 | água/movimento | onda propulsora; ativável por não especialista r6+; 1 conta de green grape por uso; topo da árvore water trace | — | 428, 641 |
+| ⭐ Delight in Water and Mountain | — (Immortal) | wisdom | gera "vontade alegre" fixa (tipo de vontade fixado por design); suporte do Water Pavilion; base disfarçada da Fake Will de Mo Yao | — | 568, 645 |
+| ⭐ Flying Bear Phantom Gu | 6 | phantom | transforma o portador no fantasma do desolate beast flying bear (metade da força do original); ativável só com a vontade (raro) | carne/sangue de desolate beast flying bear | 585-586, 624 |
+| ⭐ Flying Bear Strength Gu | 6 | força | chance de explodir em forma de flying bear phantom com força divina; a chave de ascensão de um portador da Great Strength True Martial | — | 593 |
+| ⭐ Landscape As Before | 6 | tempo | fusão espontânea (River+Mountain As Before) na ascensão; restaura o terreno ao estado pré-calamidade; 1 conta de essência por ativação parcial; não defensivo (frágil) | green grape immortal essence | 544-545, 611, 616 |
+| ⭐ Man As Before (imortal) | 6 | tempo | vital Gu de Tai Bai Yun Sheng; casulo→borboleta na ascensão; uso de último recurso (efeito pleno ainda não mostrado); versão mortal r5 revive/restaura terceiros ao estado passado (não a si, não a Gu) | immortal essence | 533-538, 591, 611, 618 |
+| ⭐ Mountain As Before / River As Before | 5 | tempo | revertem terreno/águas artificiais ao estado original (ilesos os vivos); anulam terraformação defensiva | — | 524 |
+| ⭐ Earth Prison Gu / Earth Net Gu | 7 (uso único) | selamento | selaram o land spirit Frost Jade Peacock por centenas de milhares de anos | — | 602 |
+| ⭐ Dark Limit | — (Immortal) | ocultação | sela a aura de uma physique extrema e "segredos celestiais" (bloqueia adivinhação) | — | 528, 618, 649 |
+| ⭐ Sole Blade Gu | 6 (máx.) | lâmina | ignora todas as defesas do mesmo rank (probabilístico; 8 h de recarga); reside na ARMA (sobrevive à morte do dono); receita perdida | consome a própria lâmina | 518-519, 526, 538 |
+| ⭐ Wooden Chicken Gu | 6 | — | cobiçado pelo Hei tribe; efeito nunca revelado; capturado por Formless Hand | — | 587, 594, 630 |
+| ⭐ Possession Gu | 6 | alma/lifespan | núcleo da arte "Possession" de Giant Sun (alma possui corpo novo); herança já saqueada | — | 599 |
+| ⭐ False Emotion Fake Will Gu | 6 | vontade | fabrica "amor verdadeiro" falso que engana a checagem de um land spirit; contém fração da vontade do controlador (controle remoto dos "donos") | — | 599, 612-614 |
+| ⭐ Loving Affection Gu | 6 | enchantment | herança de Giant Sun ligada ao harém (efeito não detalhado) | — | 599 |
+| ⭐ Battle Space Gu | 5 (wild) | espaço | puxa usuário+alvo para espaço isolado de luta até a morte; como wild Gu, alimenta-se do ambiente (duração ilimitada) | essência ambiente | 583-585 |
+
+## Soul path (catálogo V3)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Guts Gu | — (efêmero) | fortalece a fundação da alma; só existe um instante ao quebrar a gutstone; inarmazenável | 410-411 |
+| Burial soul toad | 4 | armazena almas (colheita de campos de batalha → "plantio" em Dang Hun mountain) | 413, 616 |
+| Wolf soul Gu | 3-5 | refina a alma rumo à "wolfman soul"; empilhável; r4 só até hundred man soul; r5 exige alma de wolf emperor (~50% sucesso) | 442-443, 454, 501, 535 |
+| Família de almas temáticas (divine/dragon/ice/dream/moon/general/grudge/poem/horse/heroic soul; qi/body/cloud/wind/tiger spirit Gu) | 3± | refino de alma por tema; bônus permanente a Gu do mesmo tema | 442 |
+| Ghost fire → ghost flame → ghost blaze Gu | 2→3→4 | fogo-fantasma (cadeia evolutiva nomeada) | 445, 457 |
+| Arsenal soul path por função (ghost cry/face/axe; ghost cage/hand/hitting wall; ghost sealing shirt/soul shield; ghost qi/tears; ghost eye; soul fly/elusive ghost; ghost soldier/impermanence ghost/air travel ghost/nine son mother ghost) | vários | ataque/controle/defesa/cura/investigação/movimento/escravização de fantasmas | 442 |
+| Soul explosion Gu | 5 | explosão de alma invisível; dano cai com a distância; implantável em besta-isca | 504-505 |
+| Soul search Gu | 3 | lê memórias da alma (desordenadas; uso frequente confunde a própria alma; busca completa fere o buscador) | 488, 592 |
+| Hundred ghost night travel Gu | 5 | 100 fantasmas que destroem almas sem ferir corpos | 446 |
+| Sight blow Gu | 3 | ataque à alma pelo olhar (~300 passos); conta como "contato" p/ location swap | 471, 548 |
+| Coptis rhizome Gu / Slow slicing Gu | — | fortalecem/refinam a alma com efeitos colaterais brutais (amargor permanente; dor de fatiamento) | 506 |
+| Small soul Gu / Big soul worm | 1 / 2 | veículos de "vontade" (investigar heranças sem expor a consciência; o r2 é intangível) | 598 |
+| Lurking soul coat Gu | 1-5 | oculta as flutuações de alma (comando remoto sem revelar posição) | 517 |
+| Refine essence spirit Gu | 4 | converte vitalidade do corpo em recurso para a alma (fome intensa; paliativo) | 505, 522 |
+| Impermanence bone Gu | 4 | ossos que ampliam a capacidade do corpo de conter alma poderosa | 459, 500 |
+
+## Enslavement e exército (V3)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Wolf enslavement Gu | 1-5 | uso único (fumaça); tier do alvo por rank (r2 hundred / r3 thousand / r4 myriad king); bloqueável por Gu defensivo do alvo; múltiplas receitas por rank | 437, 452-455, 487, 491 |
+| Slavery Gu (r3 refinado) | 1-5 | escraviza pessoas/variantes; disputa de almas | 422 |
+| Estrus Gu | — (exp.) | pó que induz cio em massa (multiplicação de rebanhos) | 415 |
+| Wolf howl Gu / Wolf care Gu / Wolf smoke Gu / Wolf totem Gu | 4 / — / 4 / 5 | buff de matilha (~2-5×, 800 passos) / visão remota por besta (comando à distância) / cura em massa de lobos / lobos de elite guardados como tatuagens invocáveis | 438, 453, 500, 512 |
+| Grass puppet Gu (linha) | 2→4 | exércitos instantâneos de soldados de grama, promovíveis por estágios (chuva jade, vento laranja) | 428, 479, 532 |
+| Self-ignition Gu / Golden bell shield Gu | 3 / — | defesas anti-escravização (queimam/bloqueiam a fumaça) | 453, 457-458 |
+| Onion explosion Gu / Clear mind Gu | 2 / 4 | enfurece bestas / reverte a fúria (par de captura em massa) | 496, 501 |
+| Hand-ear Gu / Sound amplification Gu / Light sphere Gu / Signal Gu | baixos | escuta de solo / voz sobre o campo de batalha / iluminação / alarme | 455, 480 |
+| Brave fight Gu | 4 | ignora dor, ~2× força por tempo limitado; fim abrupto | 457-458 |
+| Do or Die Gu | 5 | essência instantânea ao custo permanente de 1 estágio de cultivo | 482-483 |
+
+## Wisdom path e vontade (V3)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Star Thought Gu | 5 | pensamentos-estrela manipuláveis para dedução (custa essência+alma; refinável por repetição); modo ofensivo em massa custa lifespan | 505, 513 |
+| Space thought Gu | 5 | pensamentos "criptografados" ilegíveis a leitores de mente (defesa temporária); refino reverso de Gu implantados | 507, 569 |
+| Battle thought Gu | 3-4 | resistência mental coletiva de tropas contra ataques de pensamento | 514 |
+| Gu de intenção (hostile/sharp/reckless/changing/cold/chaotic intent) | — | condensam tipos de vontade | 580 |
+| Gu de vontade (special/deliberate/play/keep/new will; battle intent) | — | criam vontades com propriedades próprias; cada tipo devora vontades do MESMO tipo | 598, 619 |
+| Painting idea Gu / Emotion poetry Gu | — | gravam cenas na memória permanentemente / armazenam emoções | 496, 550 |
+| East window Gu | 4 | joaninha-arquivo de grandes volumes de informação (receitas, killer moves) | 490, 536, 570 |
+| Heaven's will / killing intent / casual / one's wishes / proud / evil intent / unexpected Gu | — | catálogo de Gu de "pensamento" (unexpected = lendário de Ren Zu) | 570 |
+
+## Strength path moderno e combate (V3)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Jin strength / strength of ten jin / jun strength / strength of ten jun Gu | 1-4 | +1 jin / +10 jin / +1 jun (30 jin) / +10 jun (300 jin); acumulação linear; ten jun grava dao marks (gargalo ~3 usos) | 442, 454, 500 |
+| Borrow strength Gu (+ sky/earth/fire/water strength Gu) | 5 | "empresta" força dos elementos naturais; núcleo do Six Arm Heavenly Zombie King; pares quase extintos | 560, 574 |
+| Overlord Gu | — | núcleo fraco da versão rebaixada do mesmo killer move | 579 |
+| Vine claw Gu / Numbness Gu / Overlapping shadow Gu | 4 | mão-vinha extensível / paralisia breve (valor de r5) / sombras de espada concentradas perfurantes | 457, 505, 512, 538 |
+| Fire pupil Gu (← fire eye Gu r3 + sight blow Gu) | 4 | incendeia o que mira (dano ocular cumulativo); receita documentada | 548 |
+| Swallow fire Gu | 4 | armazenamento que "engole" fogo alheio (uso tático fora da função nominal) | 457, 510 |
+| Família potato Gu (charred/muffled/thunderclap) | 2-4 | minas enterráveis; letais em massa por reação em cadeia | 210, 515 |
+| Water image Gu | 4 | dublê líquido realista (contramedida de decapitação) | 497, 512 |
+| Amplify effect Gu | 2-5 | rule path: multiplica o efeito de outro Gu (r5 = 5×) | 522, 533-536 |
+| Série star (a bit of star → five stars aligned) | 1-5 | amplificação específica de star path (mais barata/confiável) | 550 |
+| Flash Bug Gu / Eagle rise Gu | 5 / 4 | teleporte de ~500 passos (esquiva cara) / voo (empilhável em múltiplas cópias) | 496, 629 |
+
+## Utilidade, logística e economia (V3)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Spring egg Gu | 5 (exp.) | planta uma spirit spring (≥100 milhões de pedras na vida útil) | 421, 554-558 |
+| Hole earth Gu | 5 (par) | túnel fixo entre 2 pontos (só Central Continent); 200.000 pedras/ano | 423-424, 459 |
+| Stargate Gu | 5 (par, exp.) | portal entre as 5 regiões via luz estelar (starlight firefly Gu como combustível); consumo monstruoso | 459-466 |
+| Moving perspective cup Gu | 5 (par) | troca de conteúdo instantânea via space cave; custo ∝ carga, não distância; só transporta Gu ≤ rank efetivo | 434, 465 |
+| Connecting heaven Gu / Divine sense Gu | 5 | portal de imagem p/ grotto-heaven (vínculo permanente) / telepatia; consumo brutal | 461-466 |
+| Dried pond Gu | 4 | amplifica outro Gu acima do rank efetivo; empilhável; racha o Gu amplificado | 465 |
+| Bright pearl Gu / Dusty Gu | 4 / — | selagem de aura em 2 camadas (contrabando de Immortal Gu) | 429-430 |
+| Letter Gu (lightning symbol paper crane r3 / letter sending green bird r5 / flying sword letter r3 / butterfly letter r5) | 3-5 | correio; o flying sword rasga o espaço para dentro de blessed lands; butterfly exige defesas afrouxadas | 418-420, 528 |
+| Relic Gu (família completa + purple crystal r5) | 1-5 | avanço de estágio dentro do rank; r4-5 restritos (ver cultivo-mortal.md) | 469, 475, 528, 589 |
+| Immediate success Gu | — | eleva taxa de sucesso de refino (mais caro que purple crystal relic) | 469 |
+| Blue farm slug Gu | 3 | caramujo-cargueiro (expande 5×) | 484 |
+| Beggar Moth / Fish Bubble Gu / Grave Yam Gu | var. | armazenam essência primeva fora da abertura (uso durante a ascensão) | 629, 632 |
+| Bone bamboo Gu (+ ghost fire) | 1 | fumaça de osso que repara Gu de osso (30+ por rachadura profunda de r5) | 445 |
+| Human skin Gu | — (sob medida) | troca de identidade física completa (ver transformacoes-e-corpos-especiais.md) | 432, 613 |
+| Old removal Gu | — | desfaz modificações corporais anteriores | 432 |
+| Hints and clues Gu / Chase smoke Gu | 5 / — | rastreio de Gu marcados (500 li) / fumaça que prova contato físico por meses | 447-448 |
+| Luck inspection Gu | 5 | vê a sorte como auras coloridas (não enxerga luck de rank superior) | 601, 604, 617 |
+| Fifteen Year Lifespan Gu | mortal | +15 anos de lifespan | 615 |
+| Open door Gu / Close door Gu | 5 (par) | abrem/selam a passagem do Luo Po valley | 517 |
+| Turtle jade wolf skin Gu | 5 | pele-defesa automática sem custo de essência (consome um wolf emperor vivo) | 499-500 |
+| Eating one's words Gu (revisão) | — | quebra poison vow sem punição; criado por um chefe do Western Desert; raro, re-refinável | 500 |
+| Gu houses (house lizard r2 / mushroom forest / large lizard house r3) | 2-3 | moradias vivas de Northern Plains | 439, 507 |
+
+## Killer moves nomeados do V3 (não são Gu individuais — ver gu-sistema.md)
+
+White Bone Chariot/Battlefield (Shen Jie Ao, combo de r5 ≈ r6; depois 3 Immortal Gu) (cap. 431); Dragon Head Drill (457); Three Hearts Combination Soul (6 Gu, 3 usuários) (506-511); Dark Vortex + versão autodestrutiva (511-513); Cloud Whirlpool (counter dedicado) (511); Seven Star Light (513); Rat Epidemic / Leopard Dash (523); Golden Rainbow Strike (525, 583); Asura Transformation (526); Three Heads Six Arms (18 Gu, 3 usuários) (534-536); Dragon Horse Spirit (542); Four Arm Earth King → Four Arm Wind King → Six Arm Heavenly Zombie King (~42 Gu) (541-586); Grey Meltdown (594-596); Ink Transformation / Shower / Sprinkler (técnicas de refino, 564-580); Winged Blade (3 Gu Immortals) (635-638); Thirty-Eight Sealing Arts (642-643); Myriad Self (fusão strength+enslavement, 646-649); Formless Hand (killer move residual de Thieving Heaven, 629-634); Nether ghost claw (446).

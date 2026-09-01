@@ -255,3 +255,63 @@ Repositório de casos concretos que ILUSTRAM as regras dos demais domínios em a
 ### Traição de longo prazo sob juramento (caps. 396-397)
 
 - Subordinado sob poison vow: identifica a brecha processual, remove o próprio vínculo por método médico de altíssimo risco ("morrer e reviver", 1/3 de falha), encena a própria morte com combo de Gu que imita a autodestruição de sua physique, e ataca só quando o alvo está em refino de concentração total. Regra: vínculos mágicos caem para quem tem tempo, conhecimento raro e paciência de encenar submissão por anos.
+
+---
+
+## Volume 3 (caps. 406–649)
+
+### Dois Immortal Gu por uma "chance" contratual — o exploit da unicidade (caps. 485-487)
+
+- Regra explorada: Immortal Gu são globalmente únicos, e a "vaga" reabre no instante em que o exemplar é consumido/destruído (cap. 411). Método: entregar o produto semiacabado (second aperture Gu) ao land spirit obrigado por contrato; enquanto o spirit consome o ÚNICO Divine Travel Gu do mundo como material da etapa final, executar em si mesmo o ritual mítico de geração (beber vinhos supremos; Clear Mind + Awaken Cloud Gu para manter a lucidez), cronometrado para capturar a vaga recém-aberta — foram precisos 8 vinhos (não os 4 clássicos) pela interferência da instância sendo consumida. Resultado: 2 Immortal Gu por 1 chance. Exceção extrema que confirma a unicidade como regra ATIVA do mundo.
+
+### Uso de menor risco das "3 chances" de herança (caps. 461-465)
+
+- Regra: pedido de Gu mortal ao land spirit = sucesso garantido, 1 chance no total; pedido de Immortal Gu = 1 chance POR tentativa. Método: gastar 1 chance num rank 5 raro de receita quase perdida (stargate Gu, 20 conjuntos de materiais, 2 falhas internas absorvidas pela regra), reservando 2 chances. Contraste histórico: o herdeiro "legítimo" original gastou as 3 em Gu mortais rank 5 por ignorância e se arrependeu ao ascender (cap. 463). Regra geral: em sistemas de tentativa limitada, o valor está em saber o que é garantido versus o que é loteria.
+
+### Ciclo gutstone-rockmen: morte em massa como motor demográfico (caps. 410-415)
+
+- Regras combinadas: almas "plantadas" em Dang Hun mountain viram gutstones (~10.000 bestas por pedra); guts Gu fortalecem almas; almas de rockmen "transbordando" geram descendência instantânea. Método: coletar almas de mortos (burial soul toad), converter em gutstones, devolver parte aos sobreviventes — população triplica em 3 dias apesar da mortandade; o senhor da terra fica com o excedente (alma 6× mais forte com ~100 pedras). Sustentável indefinidamente COM acesso à montanha; sem ela, morte por exaustão dissipa a alma (perda seca).
+
+### Calamidade como lucro líquido (desolate beast calamity, caps. 416-418)
+
+- Contabilidade completa de uma calamidade sobrevivida: perdas — 666 km² de terra sacrificados, 10 pérolas de essência imortal, ~4,4 milhões de raposas, ~700 mil Gu; ganhos — o corpo INTEIRO de uma desolate beast (material de refino que vale mais que tudo o que se perdeu) + gutstones em massa das almas destruídas. Regra: matar a calamidade completa dentro da própria terra converte a ameaça em recurso; táticas usadas: Dang Hun mountain como arma de área (3.000 passos), corte territorial para aprisionar a ameaça secundária.
+
+### Infiltração inter-regional completa (caps. 426-434)
+
+- Pacote de métodos para operar numa região estrangeira sob supressão de 1 rank: dupla selagem de aura do Immortal Gu (bright pearl + dusty Gu — reduz, não zera; janela de risco ~1 mês); troca dos Gu nativos por Gu locais (via par de moving perspective cup Gu como correio interregional); identidade de um morto plausível (human skin Gu fabricado da pele do cadáver + sotaque + lenda local); adaptação gradual do corpo à região. Regra: infiltração sustentável ataca TODOS os canais de detecção (aura, desempenho, aparência, hábito) — não um só.
+
+### Blefe do falso myriad beast king (caps. 479, 484)
+
+- Regra explorada: besta mutante madura ≈ myriad beast king SÓ se cresceu naturalmente (acumulando wild Gu); envelhecida por third watch Gu tem a APARÊNCIA sem o poder (≈ hundred king). Método: exibir o "myriad king" falso como escolta/trunfo — dissuade decapitação e perseguição sem nunca lutar. Regra geral: sinais de poder são leituras de aparência, e aparência é fabricável.
+
+### Decoy total contra decapitação de comando (cap. 512)
+
+- Regra: "beheading the leader" colapsa exércitos de enslavement. Contramedida: nunca estar onde o comando aparenta estar — water image Gu como dublê na tenda de comando, controle remoto do exército via wolf care Gu de um ponto anônimo do campo, plano compartilhado com apenas 3 pessoas. Os assassinos de elite gastam a operação inteira "matando" água. Regra: contra tática de alvo único, a defesa é tornar o alvo uma informação falsa.
+
+### Atrito econômico: bestas baratas contra essência cara (caps. 515, 535, 542)
+
+- Regra: essência primeva de Gu Masters é finita e cara; lobos selvagens são "munição" reponível. Método: ondas contínuas de lobos contra a linha fortificada até drenar a essência dos defensores (~280.000 lobos por ~15 min de fogo defensivo), então o golpe decisivo. Variante: usar a alcateia como amortecedor contra defesas de almas autodestrutivas. É a assimetria econômica estrutural do enslavement path — regra, não exceção.
+
+### Killer move mal testado usado além do limite teórico (caps. 541, 543)
+
+- Regra: killer moves exigem ciclos reais de teste (historicamente gerações). Caso: criar um killer move por inspiração (Four Arm Earth King), usá-lo em batalha decisiva além do "tempo teorizado" e em condição proibida (voando, quando a força escala com contato no solo) → sangramento interno, alma de thousand → 500 man soul. Iteração posterior corrige a fraqueza trocando UM Gu (earth → wind overlord), mudando a condição ambiental de sustento. Regra: cada Gu componente define uma condição/fraqueza do movimento inteiro.
+
+### Grey Meltdown aprimorado + roubo do token no meio da ativação (caps. 594-596)
+
+- Regras combinadas: Gu absorvidos pela True Yang Building ficam "meio-refinados" enquanto a vontade-mestra hiberna; refinar Immortal Gu é ~100× mais lento (janela imensa); um N-edge owner token pode teleportar/roubar o token de outro possuidor em uso. Método: enterrar 2 Immortal Gu próprios na zona de saque décadas antes (serão "recompensas" meio-refinadas recuperáveis com backlash transferido à estrutura); roubar o token do rival no instante em que a formação dele ativa o Grey Meltdown cru — a perda súbita do catalisador mata a formação por backlash. Regra: em sistemas com janelas de processamento, quem conhece o pipeline planta insumos e sabota retiradas.
+
+### Subjugação por estado psicológico genuíno (Calamity Beckoning Gu, caps. 567-568)
+
+- Regra nova: certos Gu têm trava MOTIVACIONAL — só aceitam portador com o estado interno exigido (aqui, genuíno "coração de autossacrifício"); não é fingível nem forçável (a subjugação forçada autodestrói o Gu). O candidato passou porque sua disposição real de sacrificar tudo pela meta (vida eterna) satisfazia a letra da trava, ainda que por motivo "errado". Regra: travas psicológicas avaliam o estado, não a moral.
+
+### Explorar uma vontade parasita como oráculo involuntário (caps. 569, 644-645)
+
+- Situação: vontade de um Gu Immortal morto instalada na própria mente, ilegível e imbatível em confronto direto (28 ataques, 19 métodos, zero sucesso). Métodos: (a) "iscas de pensamento" — expor deliberadamente um problema real para a vontade orgulhosa corrigi-lo, extraindo conhecimento superior (killer move quase completo); (b) prova por eliminação lógica — reconstituir decisões passadas fora do próprio caráter para inferir a existência e o TIPO da vontade (fake will) sem jamais vê-la; (c) paciência estrutural — vontade de morto só se desgasta (sem fonte de reposição), então o tempo joga contra ela. Regra: contra um ocupante superior e permanente, manipula-se o que ele observa.
+
+### Ascensão como arma de área (caps. 626-629)
+
+- Regras combinadas: tribulações que se encontram FUNDEM e multiplicam (~10×); a segunda abertura torna a ascensão "não fatal em caso de falha". Método: iniciar a própria ascensão no meio de um combate perdido, ao lado de uma tribulação em curso — a fusão sobrecarrega o inimigo (vontade de Venerável) e compra a janela dos 3 passos; o gu vital de rank insuficiente (4, não 5) é compensado usando a janela de comunhão com o Grande Dao para virar grandmaster do path na hora. Exceção absoluta (exigiu segunda abertura + conhecimento prévio); confirma as regras de fusão de tribulação e da janela de insight.
+
+### Pagar com o próprio futuro: zumbificação deliberada pelo insight do Wisdom Gu (caps. 646-648)
+
+- Regras combinadas: a luz do rank 9 Wisdom Gu dá insight ao custo de lifespan; zumbis não têm lifespan a consumir; zumbificação total encerra o cultivo para sempre. Método: aceitar conscientemente a zumbificação permanente (ativar o Six Arm Heavenly Zombie King além dos 30 min) para permanecer sob a luz da sabedoria por tempo ilimitado e resolver um problema teórico aberto há eras (fusão strength+enslavement → killer move Myriad Self), capturando de quebra um Immortal Gu de strength path por "falsa autoridade" da aura do rank 9 vizinho (vontades selvagens jovens não distinguem a origem de uma aura esmagadora, cap. 647). Regra: os maiores saltos do mundo se compram com moedas que não voltam.

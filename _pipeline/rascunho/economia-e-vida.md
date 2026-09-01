@@ -226,6 +226,227 @@ Heroes assembly e a disputa decenal do Imperial Court (guerra de alianças com b
 - **Leilão de Immortal Gu de Northern Plains** (caps. 747-763) e **gambling contest de Yi Tian Mountain** (caps. 963-964, 998-1001): ver sociedade-e-organizacoes.md.
 - Menores: shark fishing banquet (pesca dentro do palácio em 7 min, cap. 922); desafios/duelos de refino com apostas de material raríssimo (cap. 847); corrida por dream realms (fase inicial do "próximo grande campo", caps. 734, 983).
 
+---
+
+> fontes desta seção: ["caps. 1022-1513 (1ª metade do V5)", "caps. 1514-1966 (2ª metade do V5)"]
+
+## Atualizações do Volume 5 (caps. 1022–1966)
+
+### A escala completa das essências imortais (a espinha do sistema monetário)
+
+`[especializado]` Aqui o câmbio interno do dinheiro imortal fecha:
+
+| Conta de essência | Rank | Custo em immortal essence stones | Cap. |
+|---|---|---|---|
+| Green grape (uva verde) | 6 | 1 | 1291, 2228 |
+| Red date (tâmara vermelha) | 7 | 100 | 1291, 1316, 1608 |
+| White litchi (lichia branca) | 8 | 10.000 | 1681 |
+| Yellow apricot (damasco amarelo) | 9 | ~1.000.000 | 2228 |
+
+- Proporção-chave para design: **green grape : red date : white litchi = 10.000 : 100 : 1** por conta de essência. Confirmação cruzada: 1.000.000 de stones = 1.000.000 de contas green grape = 10.000 contas red date (cap. 1608).
+- Consequência dramática: um rank 7 que enriqueceu como rank 6 acorda pobre. Um rank 8 que gaste em pedras está queimando 10.000 unidades de moeda por conta usada — por isso Gu Immortals de rank alto **preferem escambo (bens por bens) a transações em stones**, "por causa da péssima taxa de conversão para rank 8" (cap. 1644).
+- Produção de referência de uma abertura soberana em desenvolvimento: **100 contas de white litchi por ano interno**, ≈ meio mês e pouco de tempo externo (cap. 1681).
+- `[especializado]` **Reserva típica**: uma super força inteira gira em torno de 1.000.000 de immortal essence stones em caixa (cap. 1608); Lang Ya Sect ficou com 300.000 de reserva depois de bancar os gastos de um único imortal (cap. 1450).
+
+### Escassez estrutural: o gargalo é artefato, não dinheiro
+
+`[especializado]` Dado central do volume (cap. 1791): **é MUITO incomum um Gu Immortal rank 8 sequer possuir UM Immortal Gu de rank 8** — a maioria não tem nenhum.
+- Ba Shi Ba e Xia Cha, líderes de super forças com "fundação profunda e inúmeras heranças", tinham 1 e 2 respectivamente — tratado como quantidade excepcionalmente alta.
+- Old Ancestor Xue Hu, o nº1 demoníaco de Northern Plains, não tinha **nenhum**.
+- Mesmo a Heavenly Court, cheia de rank 8, tem proporção "terrível" de Immortal Gu rank 8 disponíveis: na linha temporal anterior, rank 8 recém-despertos não tinham Gu suficiente para lutar.
+- Reforço posterior (cap. 2289): "a maioria dos rank 6 não possui sequer um rank 6 Immortal Gu; a maioria dos rank 7 passa a vida tentando conseguir um rank 7 — isso vale até para Veneráveis."
+- **Para o design**: a métrica real de poder não é o rank do cultivador, é *quantos Immortal Gu do rank certo ele tem*. Um rank 7 com dezenas de Immortal Gu supera um rank 8 comum (cap. 1791). Riqueza compra materiais, comida de Gu e receitas; nunca compra o artefato.
+
+### Custo de refino: os números que quebram fortunas
+
+- Refinar um Immortal Gu **rank 8** consome "quase toda a fortuna acumulada" de um Gu Immortal e mobiliza uma blessed land inteira para coletar material (caps. 1065, 1680 — Snowy Mountain blessed land quase se esvaziou por um único *Fortune Rivalling Heaven*).
+- Caso histórico completo (Hei Fan refinando *Years Flow Like Water*, cap. 1131): consumiu **todo o tesouro da tribo Hei da época** + grandes favores + pagamento a dois refinement path great experts; **9 falhas antes do sucesso**; anos de dívida mesmo depois de conseguir.
+- Refinar um Immortal Gu **rank 6 do zero, com modificação de receita** (Cleanse Soul): ~15 tentativas de Fang Yuan + as anteriores de outro refinador ≈ 30 tentativas totais e "quantidade incomparavelmente enorme" de recursos — "um Gu Immortal comum teria falido há muito tempo". Só foi viável por acesso simultâneo a (a) um acervo de heranças trocável por pontos, (b) um comprador capaz de bancar, (c) suprimento garantido do material-chave e (d) um refinador dedicado (cap. 1443).
+- `[especializado]` Financiamento de refino com dívida é normal; o refino ocorre **em risco de backlash** — errar o controle do fogo destrói o lote inteiro e fere o refinador (cap. 1199).
+
+### Treasure yellow heaven — regras maduras de mercado
+
+- **Anonimato total**: identidade do vendedor pode ser oculta/trocada livremente; nem a Heavenly Court consegue rastrear quem vende (caps. 1441, 1451). Compradores também negociam anônimos, inclusive para recomprar os próprios bens saqueados (cap. 1559).
+- **Preço sinalizado por treasure light**: a altura/brilho do feixe da banca indica o valor do lote (caps. 1600, 2256) — um super resource point à venda vira uma coluna de luz "que parece tocar o céu".
+- **Vendedor manda**: pode recusar lances altíssimos e manter o item exposto só para humilhação/propaganda pública (cap. 1559). Não há "primeiro a chegar" — aceita-se lance melhor até o fechamento (cap. 712).
+- **Teto de qualidade do conhecimento vendido**: só informação de nível rank 6-7 circula ali; rank 8 não vende conhecimento (não precisa do dinheiro e quase ninguém saberia usar) — por isso saber algo de rank 8 exige recorrer a pessoas, não ao mercado (cap. 1116).
+- **Mercado é também fórum e mídia**: itens raros atraem "vontades" de imortais do mundo todo e geram debate público instantâneo; vídeos de batalha e escândalos são divulgados ali; funciona como praça de reputação e propaganda (caps. 1559, 1769).
+- **Também é logística**: usado como "a forma mais eficaz de transporte de mercadorias" para mover componentes de formação entre imortais em plena batalha (cap. 1732).
+- **Taxa de serviço escala com o valor do item** — o que cria incentivo a mercados alternativos sem taxa (o *qi sea banquet*, cap. 1885).
+- **Compra em atacado é detectável**: varrer todo o estoque de um material (ex.: qi path) em horas alarma todos que dependem daquele mercado e denuncia a existência de um comprador riquíssimo (cap. 1817).
+- **Hidden rules entre vendedores**: fornecedores estabelecidos de uma mesma categoria mantêm acordos tácitos de época de venda e patamar de preço; recém-chegado que quebra o acordo normalmente é suprimido pelos veteranos coordenados (caps. 1452-1453).
+
+### Estudo econômico central: a guerra de preços do year Gu (caps. 1450-1456)
+
+`[especializado]` O melhor exemplo mecânico de economia da obra:
+1. **Vantagem estrutural de custo**: Fang Yuan possui um Immortal Gu **rank 8** (*Years Flow Like Water*) que produz um Gu **mortal** (year Gu) em massa. Custo marginal = só a essência para ativar o Gu. Se o custo dos três fornecedores tradicionais (Xie Bao Shu, Rong Xin, Wang Ming Yue) é "10", o dele é "3 ou 4".
+2. **Capital de guerra**: 1.730.000 immortal essence stones tomados emprestados de seis credores distintos, todos convertidos em red date immortal essence.
+3. **Ataque**: entra vendendo agressivamente **antes** da época tradicional, forçando os três a anteciparem e quebrarem o acordo tácito entre si; corta preço em estágios, reagindo a cada equiparação; na etapa final vende **abaixo do custo de produção dos rivais** — algo irracional para um produtor normal, mas lucrativo para ele.
+4. **Resultado**: rivais param de vender, propõem cartel, ele recusa. **Lucro líquido: 12.000.000 de stones**; quitadas as dívidas (1.730.000), sobram 10.000.000 livres (cap. 1456).
+5. **Externalidade**: mercado de year Gu (e por extensão month Gu e day Gu) fica saturado e deprimido por **4-5 anos** — o vencedor destrói o próprio mercado (cap. 1470).
+- **Regra generalizável**: possuir um Immortal Gu de rank ALTO que produza um Gu mortal de rank BAIXO cria vantagem de custo praticamente irreplicável e permite dominar qualquer commodity por força bruta econômica. Fonte alternativa do mesmo bem, para quem não tem o Gu: o **Year Essence Pool**, resource point que imita o Rio do Tempo e produz year Gu continuamente (r6 já custa milhões de stones; r7 exige materiais sem oferta no mercado — cap. 1600 do bloco 1596-1636).
+
+### Crédito entre Gu Immortals — termos negociados por relação
+
+`[especializado]` Os seis empréstimos que somaram 1.730.000 stones (caps. 1449-1450) mostram que juros e prazo são função da política, não de uma taxa de mercado:
+| Credor | Valor | Condição |
+|---|---|---|
+| Chu Du (aliado por contrato) | 150.000 | Sem prazo, mas manda carta assinada que serve de prova incriminatória — "penhor de sinceridade" que vira chantagem mútua |
+| Três Excêntricos de Crazed Demon Cave | 200.000 | Taxa de mercado pura; querem só a true inheritance de Limitless |
+| Miao Ming Shen | 100.000 | Prazo flexível, oferece buscar mais entre amigos — bom histórico comercial prévio |
+| Lang Ya land spirit | resto da reserva | Empréstimo + troca por contribution points, até o limite institucional |
+| Bai Ning Bing | maior parte da reserva dela | Termos mais duros: quanto mais pede, maior o juro e menor o prazo |
+| Lady White Rabbit | — | Termos mais leves: "não tem problema nem se não devolver" |
+
+- Total: 1.730.000 — quantia maior do que uma tribo, uma seita ou a maioria das super forças reuniria sozinha; comparável à reserva de um rank 8 veterano (cap. 1450).
+- Outros padrões de crédito: contratos com **juro decrescente conforme a dívida diminui** (incentivo a quitar rápido, cap. 1458); juro padrão de ~10%/mês entre imortais com mínimo de 1 mês (cap. 692, V4); empréstimo de **Immortal Gu** (não de dinheiro) como cláusula de aliança, prática negocial normal entre aliados de rank diferente (cap. 1183).
+- **Cláusula de custódia**: emprestar um tesouro a uma seita rende contribution points + **compensação de 10× o valor** se o item se perder sob custódia (cap. 1029) — modelo de "custódia remunerada", nem doação nem guarda simples.
+
+### Contribution points: a moeda fechada das seitas
+
+`[especializado]` Em Lang Ya Sect (modelo mais detalhado da obra, caps. 1029, 1116, 1147-1148, 1198-1200):
+- **Ganha-se** cumprindo missões (recompensa sobe dinamicamente se a missão emperra: o falling star hound passou a valer "mais de mil" pontos), vendendo almas de Gu Immortal (100-210 pontos por alma), vendendo conhecimento (receitas, killer moves, mapas) e cumprindo objetivos políticos (formar a aliança das quatro raças: ~1.000 pontos).
+- **Gasta-se** em: Immortal Gu do tesouro (**até 10.000 pontos por um rank 6**), empréstimo temporário de Immortal Gu (custo proporcional ao tempo), acesso ao acervo de livros, ensino direto de técnicas de refino pelo land spirit, e custeio de tarefas de refino.
+- Ranking público de pontuação de todos os membros (cap. 1198). Recorde documentado: ~90.000+ pontos acumulados, com 70.000+ gastos num único Immortal Gu **rank 7** (caps. 1198-1200).
+- Em Central Continent o mesmo sistema tem efeito social perverso: um Gu Immortal de aptidão só "decente" não consegue contribuição suficiente e é empurrado para fora da seita, atrás de oportunidades em outra região (cap. 1236).
+- `[comum]` Versão mortal do mesmo mecanismo: pontos de contribuição de clã compram acesso a informação guardada em Gu de information path; missões pagam **o dobro** por captura viva em vez de morte (cap. 1818).
+
+### O que uma abertura imortal rica contém (snapshot de escala, cap. 1291)
+
+`[especializado]` Inventário da abertura soberana como referência de riqueza de um rank 7 atípico:
+- **335.000 km²** de espaço — já "chocantemente enorme" para uma abertura comum; cresce anexando as aberturas de imortais mortos e absorvendo todos os dao marks delas sem desperdício.
+- Cada área anexada mantém ou ganha um **land spirit** que a administra automaticamente (gestão terceirizada).
+- **Trade-off explícito de tempo**: a taxa de fluxo já foi 1:60 e foi deliberadamente **desacelerada** para adiar calamidades — mais segurança contra tribulação = menos produção de recursos (inclusive menos essência imortal).
+- Organizada em mini-regiões (réplicas das 5 regiões + céus), cada uma com **pontos de recurso** específicos: mineral de dark inkstone, montanha de cobre, campos de ossos, praias, lagos de sangue, mares artificiais, crateras de meteorito, criadouros de águias.
+- **Problema logístico permanente**: alimentar todos os Immortal Gu. Os rank 6-7 são administráveis; os **rank 8 são o gargalo** — cada um exige infraestrutura de cultivo dedicada (flores específicas, iluminação, aroma, solo de pérola).
+- Framework declarado dos **7 níveis de desenvolvimento de uma abertura imortal** (caps. 1461, 1470), dos quais 4 são descritos: (1) produzir recursos mortais; (2) produzir materiais imortais suficientes para alimentar os próprios Immortal Gu; (3) criar feras e plantas imortais **integradas à cadeia alimentar** da abertura (não basta possuí-las); (4) exportar o excedente e lucrar. Os níveis podem ser alcançados fora de ordem — dá para dominar mercados (nível 4) sem ser autossuficiente (nível 2).
+
+### As nove fontes de renda de um imortal-empresário (cap. 1470)
+
+`[especializado]` Portfólio documentado, útil como cardápio de negócios jogáveis: (1) **guts Gu** — monopólio absoluto, lucro zero no momento por consumo interno; (2) **year Gu** — grande potencial, mercado deprimido pela própria guerra de preços; (3) **dragonfish** — comida de Gu comprada por praticamente toda super força em intervalos regulares, um dos maiores mercados do treasure yellow heaven, com linhas de produto (ordinary → iron → copper → **silver** → golden) que os concorrentes não conseguem replicar; (4) **regretful spider** — maior receita atual, comprador único absorve toda a produção; (5) eerie fire dragon python; (6) recursos de star path; (7) spirit snakes; (8) snow monsters; (9) light shine fungi — reservado para alimentar os próprios Gu rank 8.
+- **Monopólio tem limite físico**: guts Gu depende da oferta de almas disponíveis, que é estruturalmente escassa mesmo importando de várias fontes; já os regretful spiders escalam 8× só adicionando um Immortal Gu à formação de produção (cap. 1327).
+- **Montar um negócio de recurso custa um ecossistema inteiro**, não uma semente: sementes + solo + água + clima + controle de pragas (aves trazidas só para comer as pragas). Retorno estimado por uma iniciante: 1 ano interno para suprir a própria demanda, +2 anos para lucrar "algumas centenas" de pedras, +3 anos para quitar o empréstimo — em condições ideais (cap. 1451).
+- **Escala de custo de expansão**: 2.000.000 de stones para virar autossuficiente na comida de um Immortal Gu rank 8; +1.800.000 para transformar isso em negócio de venda (cap. 1458).
+- **Comparação de riqueza** (cap. 1343): a fortuna pessoal desse portfólio já **supera a de um Gu Immortal rank 8 comum**, mas continua muito abaixo da base histórica de um super clã — que tem 20-30 pontos de recurso de nível médio-alto, ~10 de topo, mais heranças de gerações e blessed lands ancestrais.
+
+### Mercados e preços do V5 (referências rápidas)
+
+| Item / serviço | Preço | Cap. |
+|---|---|---|
+| Slippery soil (r5, estoque inteiro) | 202 immortal essence stones (abaixo do mercado) | 1148 |
+| Divine deer fruit (r6, lote) | 1.300-1.400, fechado em 1.350 | 1314 |
+| Pacote de informação (enciclopédia de path + heranças mortais) | ~10 stones | 1324 |
+| Heavenly crystal (r8) meio pedaço, disputado | 3× o preço normal | 1177 |
+| Resgate de um Gu Immortal r8 capturado (Xia clan por Xia Cha) | 1.000.000 de stones | 1607-1608 |
+| Resgate do **corpo** de um r8 (Yi clan por Yi Yang) | 1.200.000 de stones | 1613 |
+| Corpo de Gu Immortal capturado, em dream realms | 1 dream realm = 1 corpo (alma e abertura retidas) | 1810 |
+| Immortal Gu rank 6, na conversão do Merit Obelisk | ≥ 10.000 merit points | 1911 |
+| Heaven Qi r6-7 / r8 / r9 | comércio comum / raro / "vendido uma vez a cada mil anos" | 1881 |
+| Chakra melon (r7, material universal de refino) | ~60% do market share vem de uma única fazenda | 1338 |
+
+- **Materiais de dream path valem hoje mais que Immortal Gu**, pela raridade e pela vantagem estratégica que dão (cap. 1232) — e dream realms são explicitamente "o futuro", tratados como moeda de resgate (cap. 1810).
+- **Lifespan Gu** é a moeda mais forte que existe entre Gu Immortals: mortal, mas quase nada se compara em valor de troca; a produção mundial é ciclicamente esgotada pelo Venerável da vez (caps. 1074, 1551).
+- `[especializado]` **Blood qi** é material mortal individualmente, mas em quantidade suficiente funciona como material imortal — regra generalizável a materiais de baixa potência unitária. O blood path é proibido pelo righteous path **justamente por ser fácil demais de obter recursos** (fazendas de bestas dão suprimento infinito), não por maldade intrínseca (caps. 1817-1818).
+- **Extorsão como modelo de negócio** (caps. 1608-1613): exigir "sinceridade" (matéria-prima) antes de qualquer negociação; trocar Immortal Gu por Immortal Gu mas nunca devolver os já saqueados; soltar só o **corpo** retendo a alma, como prova de boa-fé calculada para manter a extorsão futura crível; ameaçar humilhação pública em vídeo; explorar rivalidades internas entre as vítimas; ordenar os alvos do mais rentável ao menos. Rendimento: 100+ Immortal Gu saqueados de 13 clãs (cada especialista capturado carregava em média 3).
+
+### O Merit Obelisk da Dragon Whale Paradise — economia de missões fechada (caps. 1888-1916)
+
+`[especializado]` O sistema econômico mais "jogável" da obra inteira. Dentro da Dragon Whale Paradise (a true inheritance de Paradise Earth Immortal Venerable, alojada dentro de uma baleia-dragão azul) existe uma **Immortal Gu House de rank 8**, o **Merit Obelisk**, que distribui missões e paga em **merit points**.
+
+**Hierarquia de missões e recompensas:**
+| Categoria | Recompensa | Requisito de acesso |
+|---|---|---|
+| Small | 1 a 10 pontos (nenhuma observada acima de 10) | livre |
+| Mid-sized | 11 a 100 pontos | título "good person" |
+| Large-sized | centenas (uma rendeu 973 pontos, divididos entre 5 pessoas; ~500 para quem fez a maior parte) | título "really good person" (custa 1.000 pontos) |
+| Super mission | nível "heavenly spine" — essencialmente insolúvel para não-Veneráveis | — |
+| Ultimate mission | única; sem limite de tempo; concede o título de **Merit Obelisk Lord** e **preserva os pontos** ao completar | — |
+
+- **Preço de referência**: um Immortal Gu **rank 6** custa no mínimo **10.000 merit points** (número confirmado quando o Obelisco gerou uma missão de "devolva os Gu que você tirou" precificando cada peça, cap. 1911). O mortal Gu mais caro do catálogo, o *good deeds Gu* (r5), custa 50 pontos.
+- **Títulos como upgrades comprados**: "good person" (destrava missões médias), "really good person" (1.000 pts, destrava grandes), "super good person" (permite **compartilhar** missões), "group title" (100 pts, permite comunicação entre membros do grupo — normalmente bloqueada). Existem ainda títulos que **removem restrições de acordos de aliança** (um imortal preso por contrato pode cooperar com o "inimigo" sem violá-lo), títulos de **teleporte de saída** (até 100.000 li do destino escolhido) e títulos **transferíveis anonimamente**, que explicam por que certas pessoas "sentem" a localização da baleia sem nunca terem feito nada para merecer isso.
+- **Regras de coerção do sistema**: recusar missões = ficar preso na ilha inicial, sem acesso ao resto do paraíso; após 300 dias todos são expulsos automaticamente. O transporte até o local da missão é irresistível mesmo para um rank 8 denso em dao marks; não se pode sair da área da missão; comunicação externa (inclusive treasure yellow heaven) fica bloqueada; atacar mortais e moradores locais falha com backlash; pode-se sacar itens da própria abertura imortal, mas **não guardar** nada do local da missão dentro dela.
+- **Penalidade real**: falhar catastroficamente uma missão gera **saldo negativo** de merit points, com prazo (10 dias) para voltar ao positivo sob pena de expulsão permanente. Quem agiu "corretamente e falhou" leva penalidade muito menor que quem sabotou.
+- **Zeragem na saída**: todos os merit points não gastos **evaporam** ao deixar o paraíso — exceto para quem aceitou a ultimate mission. É por isso que o quadro de recompensas estava vazio quando o grupo chegou: visitantes anteriores gastaram tudo antes de sair. Nenhum visitante da história completou a ultimate mission.
+- **Gargalo de acesso por path**: cada missão exige métodos de paths específicos; um Gu Immortal de path único só consegue aceitar uma fração das missões disponíveis — **cultivar muitos paths com alto attainment é a vantagem econômica decisiva** dentro do sistema.
+- **O sistema é vivo**: o conjunto de missões muda conforme o estado do mundo do paraíso (uma linha temporal alterada muda o catálogo de missões).
+- **Hackeável? não**: o Obelisco incorpora fundamentos de **quatro paths** (earth e sound como acessórios; **human path e heaven path como núcleo verdadeiro**) — só alguém com attainment de great grandmaster nos quatro simultaneamente poderia abrir brechas nele.
+- **Brecha da não-agressão**: a regra de "não pode atacar" só vale para quem entrou via missão do Obelisco; um ser selado há 100.000 anos e nunca despachado por ele fica fora da restrição e pode atacar livremente.
+
+> [!note] Para o design — o Merit Obelisk é um "board de quests" completo, pronto para mesa: hierarquia de missões, moeda fechada, títulos como desbloqueios, penalidade por saldo negativo, expiração da moeda na saída e um gargalo de acesso que premia personagens versáteis em vez de especialistas.
+
+### Outros mecanismos econômicos da 2ª metade do V5
+
+- **Leilão de Immortal Gu é mercado de vendedor, e frequentemente nem é leilão**: transações de Immortal Gu entre imortais costumam ser **troca direta** (Gu por Gu), não lances em moeda — no caso do heart blood Immortal Gu, os interessados ofereceram Immortal Gu de water path variados, sem nenhum lance em pedras (cap. 1885). Confirmação institucional: a Heavenly Court declara que **Immortal Gu não podem ser vendidos** ("mal há o suficiente para nosso próprio uso"), mas **podem ser emprestados**; já killer moves imortais e **receitas** de Immortal Gu podem ser vendidos normalmente (cap. 2251).
+- **Segundo mercado do "aparelho e a lâmina"**: vender um Gu rank 1 de uma série escondendo que cada um dos 6 estágios seguintes terá de ser comprado à parte; custo de produção quase nulo (usa Gu Masters capturados como matéria-prima), lucro de "centenas ou milhares de vezes" (cap. 1852).
+- **Preservação de Immortal Gu**: sem alimentação, um Immortal Gu **morre de fome**. Método documentado de conservação de longo prazo: selá-lo dentro de uma rocha imortal usando outro Gu (de information path) como membrana — e o Gu selante fica preso lá dentro também, como parte do preço (cap. 1862).
+- **Luxo cerimonial de topo**: o *six sound tea* do clã Shen (6 xícaras, cada uma com sabor e efeito distintos) consome integralmente materiais imortais rank 8 e exige dias de preparo por vários Gu Immortals — chá e vinho de alto attainment funcionam como **moeda social e sonda de perícia em refinement path** entre rank 8 (caps. 1235, 1850, 2216-2217).
+- **Recursos que só o tempo produz**: a *sea suppressing purple rosewood* dá **1 galho enxertável a cada 800 anos**, e cada galho enxertado vira um ponto de recurso de grande porte por si só (cap. 1850). A grotto-heaven pública dos Five Xiangs abre **uma vez a cada mil anos**, com recursos escalonando em valor conforme se aproxima do centro, cada faixa defendida por feras mais fortes (caps. 1638, 1644).
+- **Custo expresso em dao marks, não em essência**: a killer move *Unlimited Wind* cobra **10.000 dao marks de wind path** por ativação — datapoint raro de preço pago em substância do próprio cultivo (cap. 1706).
+- **Cotidiano mortal**: entrada em cidade continua custando pedras primevas por pessoa; excremento de aves ("fat butt birds") é recurso local valioso que atrai caravanas por fertilizar solo de penhasco (cap. 1853); *salt sand* do Western Desert virou commodity comum às cinco regiões, usada como sal comestível (cap. 1635).
+
+---
+
+> fontes desta seção: ["caps. 1967-2007", "caps. 2008-2048", "caps. 2049-2089", "caps. 2090-2130", "caps. 2131-2171", "caps. 2172-2212", "caps. 2213-2253", "caps. 2254-2294", "caps. 2295-2334"]
+
+## Atualizações do Volume 6 (caps. 1967–2334) — a economia pós-Grande Era
+
+### Choque macroeconômico das qi tides
+
+`[comum]` A queda das paredes regionais e as **qi tides** dispararam a maior reorganização econômica da história recente:
+- **Boom de formation path**: todo mundo quer contratar formation path Gu Immortals para blindar os pontos de recurso da própria abertura com immortal Gu formations. O custo de montar uma tem duas partes: **um Immortal Gu do próprio contratante serve de núcleo da formação** (perde-se o uso dele) + o pagamento ao formation path Gu Immortal contratado (cap. 1973).
+- **Reorientação coletiva de gastos**: as cinco regiões e os dois céus desviam orçamento de "guardar recursos" para "nutrir Gu Immortals" — mudança de postura de todo o mundo Gu diante da guerra iminente (cap. 1973).
+- **Treasure yellow heaven vira balcão de reparo**: imortais de paths diferentes trocam recursos para consertar aberturas danificadas; o assunto do momento são reclamações sobre as qi tides e mandados de captura pagos em "grande quantia de materiais imortais" (cap. 1973).
+- **Heranças expostas** pelas qi tides passam a valer proporcionalmente ao rank do falecido: a true inheritance de um rank 8 comum (nem Venerável) já basta para atrair grupos demoníacos inteiros e forçar super clãs a agir (cap. 2067).
+
+### As dao veins: quando ponto de recurso vira infraestrutura
+
+`[especializado]` A grande novidade estrutural do V6. Uma abertura imortal gigantesca sofre de **dao marks difusos demais** — harmonia excessiva gera instabilidade e "abnormal situations". A solução é construir **dao veins** (veias de dao artificiais): heaven vein, earth vein, human vein, water vein, fire vein, wind vein, time vein — canais que concentram e canalizam dao marks de um path sob controle, em vez de deixá-los espalhados (cap. 2140).
+- **Cada dao vein se monta com pontos de recurso reais**, comprados ou tomados: um *water vein* completo exige **13 nós de rank 7+ de fluxo contínuo** para fechar o "water vein ring" (cap. 2229). Exemplos de nós: jade green water flow, divine rift whirlpool, seven treasures sea spring, underwater thousand year profound ice island, cleansing water region, rolling pearl water treasury.
+- **Efeito econômico**: pontos de recurso deixam de ser só renda e viram **peça de engenharia**. Completar uma dao vein dá **estabilidade estrutural** à abertura, não apenas produção (cap. 2313).
+- **O preço vira função da necessidade interna**: a taxa de troca de pontos de recurso por contribution points muda conforme a veia que está sendo construída — "resource points de earth path agora valem menos, wind path e fire path subiram" (cap. 2273). Um mercado interno com política monetária própria.
+- **Dao veins do mundo real se movem**: as veias subterrâneas naturais estão se deslocando por causa da **fusão das cinco regiões**. Uma immortal formation antiga, fixada na posição *original* de um dao vein e sem Immortal Gu como núcleo, perde a sustentação e fica "prestes a se romper como uma janela de papel" — o resource point nº1 de um clã foi saqueado exatamente com essa informação privilegiada (cap. 2273). **Regra nova**: formações ancoradas só em dao marks fixos do terreno são vulneráveis ao deslocamento da veia; formações com Immortal Gu no núcleo não.
+- Por isso o preço cobrado por Immortal Gu passa a ser pago **em pontos de recurso**, não em pedras: um Immortal Gu rank 7 custou um ponto de recurso inteiro de earth path (o "nine central stone forest", um nó de earth vein), preço deliberadamente acima do anunciado publicamente (caps. 2225, 2245). Outra transação: 1 Immortal Gu rank 7 por **um ponto de recurso de earth vein + vários milhões de escravos hairy man** (cap. 2245).
+
+### A abertura soberana como economia planejada
+
+`[especializado]` A abertura soberana deixa de ser propriedade e vira **Estado com moeda interna**:
+- **Contribution points** são a moeda: ganham-se cumprindo missões de um mission board que nunca esvazia (sempre há mais missões que gente); gastam-se em cura, tratamento de contaminação, acesso a formações de benefício e — o item caro — **troca por Immortal Gu**, que zera o saldo de quem o faz (caps. 2254-2257).
+- **Exchange list** com **mais de 20 Immortal Gu de rank 8** de vários paths disponíveis por pontos, alimentada pelo fluxo de novos rank 8 gerados pelas missões de assistência a tribulação (cap. 2139).
+- **Serviços públicos precificados**: a *Liver Life Hall* cobra taxa em pontos pelo uso de uma formação que roda o ano todo; o catálogo de tratamento de fígado tem mais de dez planos, com trade-off explícito de custo/eficácia (time path = caro e fraco para quem não cultiva time path; transplante de fera imemorial = mais eficaz e mais caro; refinement path = mais barato; "salt water liver" = melhor custo-benefício, e ainda pode ser comido em fome extrema) (cap. 2257).
+- **Ressurreição como produto de catálogo** (cap. 2263): usando "human qi" previamente coletado do clã do morto (pré-requisito intransferível), revive-se um Gu Immortal por **2 giant resource points para rank 6**, **+2 giant resource points para rank 7**, e rank 8 "desde que se possa pagar" (preço não revelado).
+- **Refino sob encomenda por um Venerável** (caps. 2219, 2222): serviço público anunciado e executado no treasure yellow heaven — Gu mortais sem limite de quantidade, Immortal Gu até rank 8, mediante pagamento. A discussão pública sobre as taxas de sucesso vira notícia: "fácil como beber água" para rank 7; ~30% para rank 8; rank 9 tido como quase impossível mesmo para um Venerável do refino — com dois precedentes históricos citados: **100 anos** para refinar um único wisdom Gu rank 9 selvagem, e **mais de 1 milhão de anos** de tentativas fracassadas da Heavenly Court para reparar o Fate Gu rank 9 (cap. 2245).
+- **Escassez de mão de obra** é o limite real do sistema: há mais missões do que Gu Immortals disponíveis, e guardar pontos críticos exige um rank 8 de plantão permanente (cap. 2242).
+
+### Moeda como arma política
+
+- `[segredo]` **A Heavenly Court é a fonte única de immortal essence stones e restringiu a distribuição de propósito desde a fate war**, como instrumento de controle político sobre o mundo inteiro (cap. 2228). O escândalo dessa retenção é depois explorado publicamente no treasure yellow heaven por Veneráveis rivais, que manipulam o debate para constranger a Court — o fórum do mercado vira campo de guerra de propaganda (cap. 2245).
+- **Contratar um Venerável tem preço tabelado**: pelas regras das dez grandes seitas e da Heavenly Court, pedir a um Venerável que remova um golpe rank 9 custa uma quantia enorme de pontos de contribuição — acima do que um rank 6-7 comum acumula em tempo útil (cap. 2228).
+- **"Painful Sale" — venda como arma diplomática** (caps. 2255-2258): um clã cercado vende publicamente, via treasure yellow heaven, um **super resource point que pertence ao clã inimigo** mas estava sob sua posse física. Efeitos: (1) o recurso passa ao comprador de forma pública e permanente; (2) o dono original precisa renegociar com os aliados que havia contratado prometendo justamente aquele recurso, gerando atrito na aliança e atrasando a ofensiva; (3) o vendedor lucra duas vezes. A tática foi repetida com pelo menos 3 pontos de recurso.
+- **Preço de aliança em guerra**: comprar apoio militar de um clã supremo custa múltiplos giant resource points, com recontratação a cada vez que o pagamento previsto se perde; pedir "o preço mais baixo" entre aliados é publicamente elogiado como sinal de retidão — reputação é ativo negociável (caps. 2255-2256).
+- **Reputação precificada**: super clãs calculam abertamente o custo reputacional de *não* retaliar, e concluem que sair por baixo é mais barato que provocar um inimigo forte (caps. 2136-2137).
+- **Aposta pública em duelo formal**: o perdedor envia os recursos apostados ao treasure yellow heaven publicamente, e o *treasure light* do local **certifica o valor** perante testemunhas — mecanismo de resolução de disputa por duelo + aposta com garantia de lisura (cap. 2188).
+- `[especializado]` **Defeito estrutural do treasure yellow heaven**: toda transação é publicamente revelada. Esconder o que se vende exige transação secreta fora dele (cap. 2255).
+
+### Preços, saques e riqueza regional no V6
+
+| Item / serviço | Preço | Cap. |
+|---|---|---|
+| Entrada em Sand Wolf City (Western Desert) | 1 pedra primeva por pessoa | 1973 |
+| Hu Land (fundação secludida, quasi-rank 9) | 1 Immortal Gu r8 sob encomenda **ou** 3 Immortal Gu r8 + upgrade de um Gu 7→8 + 1 material r9 de vento | 2134 |
+| Fundação humana de um clã (montanha + golpe + mortais) | 1 true inheritance de fire path + 3 Immortal Gu r8 (teto autorizado: 5) | 2139 |
+| Informação completa de uma true inheritance | 1 immortal material **rank 9** de wind path | 2101 |
+| Revivificação rank 6 / rank 7 | 2 giant resource points / +2 giant resource points | 2263 |
+| Immortal Gu rank 6 do tesouro de seita | ~10.000 contribution points | 1198 |
+
+- **Eastern Sea é a região mais rica das cinco**: o estoque de uma única super força conquistada rendeu "considerável soma" individual mesmo dividido entre quase 15 Gu Immortals rank 8 (cap. 1984).
+- **Partilha de saque como ferramenta política**: o líder que pega menos do que lhe cabe compra lealdade; conceder publicamente um ponto de recurso inteiro a um subordinado específico é jogada para neutralizar as ambições dele (cap. 1984).
+- **Guts Gu**: monopólio mantido, venda pública suspensa há muito tempo — o estoque residual no mercado mingua e o preço sobe continuamente (cap. 2091).
+- **Herança racial como moeda de barganha**: uma tribo revela publicamente ter reunido "mais de 50%" dos fragmentos necessários para escavar sua herança racial completa, expondo o próprio segredo como isca para conseguir aliados (cap. 1990).
+- **Extorsão disfarçada de "custo de cura"**: listar uma quantidade de materiais tão absurda que ninguém ousa questionar, corroborada pelo depoimento público de um terceiro confiável (cap. 1990).
+- `[comum]` **Cotidiano mortal persiste inalterado sob tudo isso**: caravanas mercantes de deserto (com Gu Masters investigadores na vanguarda) são um dos poucos caminhos de ascensão social para mortais comuns (cap. 2015); no exército, acumular Gu de human path (soldier → sergeant → lieutenant) por serviço militar é a via reconhecida de promoção (cap. 2012); e a **escravidão de hairy men segue praticada em escala de milhões**, inclusive por clãs formalmente aliados a uma "Aliança do Grande Amor entre Céu e Terra" que prega igualdade entre humanos e variantes — contradição social explícita no texto (cap. 2245).
+- **Hierarquia interna de clã, em termos econômicos** (cap. 2222): membros "favoritos" recebem recursos completos em reclusão, ganham blessed lands por competição e podem vender presas diretamente no treasure yellow heaven como propriedade pessoal; membros "descartados" são destacados para postos difíceis e isolados (escavação de minério) como expiação social permanente. E o refino de Immortal Gu por **sacrifício humano** — prática ilegal e arriscadíssima — continua sendo tentado por desesperados (100+ tentativas fracassadas documentadas).
+- **Eventos jogáveis novos do V6**: *world poetry competition* da Profound Literature grotto-heaven — evento de recrutamento de sementes de imortal, 18 rodadas de composição temática (5 min por tema), metade dos concorrentes eliminada por rodada, 7 dias corridos, até 3 tentativas por pessoa (cap. 1976); a Refinement Path Convention continua (inscrição de 100 pedras primevas; residentes de Central Continent com colocação prévia entram sem teste, cap. 1698); missões de assistência a tribulação como fábrica institucional de rank 8 (cap. 2139).
+
 ## Lacunas do domínio
 
 - ~~Mercados de rank alto imortais: nada ainda~~ ✅ RESPONDIDO no V3 (treasure yellow heaven, caps. 466+).
@@ -233,3 +454,10 @@ Heroes assembly e a disputa decenal do Imperial Court (guerra de alianças com b
 - Câmbio formal pedra ↔ moedas mortais (se existir).
 - Multiplicadores exatos de custo de vida por rank 4-5.
 - Escala exata do treasure light (o que determina metros/pés) — não definida (cap. 466).
+- ~~Escala completa das essências imortais~~ ✅ RESPONDIDO: green grape (r6) = 1 stone, red date (r7) = 100, white litchi (r8) = 10.000, yellow apricot (r9) ≈ 1.000.000 (caps. 1291, 1608, 1681, 2228).
+- ~~Quem emite immortal essence stones e por quê são escassas~~ ✅ RESPONDIDO: Heavenly Court é fonte única e restringe a distribuição desde a fate war como arma política `[segredo]` (cap. 2228).
+- Tabela completa de preços do Merit Obelisk: só temos o piso de 10.000 merit points para um Immortal Gu rank 6 e 50 pontos para o mortal Gu mais caro; ranks 7-8 e recompensas de super/ultimate mission não numerados (caps. 1911, 1916).
+- Níveis 5, 6 e 7 do framework de desenvolvimento de abertura imortal — nunca descritos no texto (caps. 1461, 1470).
+- Mecanismo pelo qual um "title" do Merit Obelisk é transferido anonimamente entre Gu Immortals (cap. 1916).
+- Preço de revivificação em rank 8 — confirmado possível, valor nunca revelado (cap. 2263).
+- Custo total (em pontos de recurso) de completar uma dao vein: só o water vein tem meta explícita (13 nós rank 7+); earth, fire, wind e time vein não têm contagem declarada (caps. 2229, 2253, 2273).

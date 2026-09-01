@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Cultivo imortal (ranks 6–9, blessed lands, dao marks, Gu Imortais)
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
+> **V5 2ª metade + V6 fecham o domínio inteiro**: as **4 condições formais para se tornar Venerável** (cap. 2085 — white litchi no origin core, ≥300.000 dao marks no path principal, attainment supreme grandmaster, romper o Heavenly Dao blockade), a **teoria unificada das tribulações** (cap. 2042 — TODA calamidade/tribulação é feita de heaven path dao marks que se transformam em outros paths para se manifestar; passar por elas rende dao marks de paths não-heaven), a **tabela numérica de dao marks por provação** (cap. 1703 — 250 / 750 / 7.250 / 86.750), as **faixas de dao marks por rank** (cap. 2071), a escala de **attainment com quasi-níveis e o teto que a herança impõe** (supreme grandmaster exige inovar, e por isso não se herda), o conceito de **Dao Lord**, o **Primordial Domain** como único atalho para supreme grandmaster, **heaven path virando cultivável** por rota indireta (evolução da regra do cap. 2028 para o cap. 2237) e o mundo pós-Grande Era das **qi tides e qi harvest fruits**.
 > **1ª metade do Volume 5 (caps. 1022–1513)** entrega o *princípio operacional* por trás de todo o sistema de provações — "o céu tira dos excessos e repõe os déficits" (cap. 1180) —, a cadência numérica fechada (9 earthly calamities antes da 1ª heavenly tribulation, cap. 1185; rank 7 completo = 24 EC + 3 HT + 3 GT, cap. 1470), a **fórmula final dos dao marks** (100 = +10%; 1.000 = 2×; 10.000 = 10×, e amplificação SEM custo extra de essência — caps. 1161, 1204), e a **regra canônica de anexação de immortal apertures** (critério = fundação, não rank; tabela de attainment master/grandmaster/great grandmaster; três vias de posse; skip proporcional de calamidades — caps. 1184-1187, 1206, 1217). Também: os 7 níveis de desenvolvimento de uma immortal aperture (cap. 1489), a fundação da Heavenly Court por fusão de apertures de três Veneráveis (cap. 1235), o teorizado **rank 10 "Destiny"** (caps. 1234-1235) e a confirmação de que land spirits não podem mentir (cap. 1228).
 > O Volume 2 transformou este domínio de "semente" em corpo real; o **Volume 3 entrega o processo COMPLETO de ascensão mortal→Gu Immortal** (3 passos, 3 qi, modos de falha, grades de blessed land com números), a mecânica de land spirits/vontades residuais, os Immortal Gu houses, a lista quase completa dos Veneráveis (9/10 nomeados, com lifespans) e a economia imortal (treasure yellow heaven, immortal essence stones). O **Volume 4 entrega o esqueleto quantitativo do reino imortal**: a teoria unificada dos dao marks (cap. 821, com números — 100 marks ≈ +10%, cap. 852), o calendário completo de calamidades/tribulações por rank e o critério formal de avanço 6→7→8→9 (caps. 740, 826, 1007), o framework de gaps entre ranks (7→8 = "céu e terra"; 9 = invicto), a tabela completa de grades de blessed land (cap. 939), a life-and-death aperture (-50% de tribulação, cap. 938-939), a hierarquia das quatro essências imortais (green grape → red date → white litchi → yellow apricot) e as regras maduras de Immortal Gu (troca, ressonância de path 130%/60-70%, roubo, alimentação).
 
@@ -37,6 +38,15 @@ Acima do rank 5 existe outra categoria de existência: o **Gu Immortal (Mestre G
 19. `[especializado]` **Anexação de immortal apertures**: quem anexa precisa (a) de aperture de fundação maior — o critério é a FUNDAÇÃO, nunca o rank de cultivo (cap. 1206); (b) que a aperture-alvo esteja viva (dead apertures não anexam nem são anexadas); (c) attainment no path dominante do alvo — **master** para blessed land rank 6, **grandmaster** para rank 7, **great grandmaster** para grotto-heaven rank 8 (cap. 1184).
 20. `[especializado]` Land spirits **não conseguem mentir** — mas podem repetir de boa-fé uma informação falsa que lhes foi plantada (cap. 1228). Fecha a lacuna aberta no V4 (cap. 880).
 21. `[especializado]` A capacidade de entrada num mundo pequeno é INVERSA aos dao marks do visitante: um rank 8 não consegue sequer entrar numa blessed land comum — ela estouraria (cap. 1167).
+22. `[segredo]` **Toda calamidade e toda tribulação são heaven path dao marks manifestando-se como outros paths** (cap. 2042). O Heavenly Dao equilibra déficit e superávit de dao marks; um Gu Immortal é uma concentração que rompe o equilíbrio, e quanto mais dao marks acumula, mais heaven path dao marks são atraídos para ele — a curva de dificuldade das provações É o tamanho do seu desequilíbrio. **Passar por uma tribulação nunca dá heaven path dao marks**: os dao marks gastos nela se convertem em dao marks de outros paths e se fundem à aperture do sobrevivente. Tribulação = mecanismo indireto de aquisição de paths novos.
+23. `[especializado]` **Rendimento fixo por provação** (cap. 1703): earthly calamity = **250** dao marks; heavenly tribulation = **750**; grand tribulation = **7.250**; myriad tribulation = **86.750**. Faixas por rank (cap. 2071): rank 6 = 0–9.000; rank 7 = 10.000–30.000; rank 8 = 100.000–300.000; rank 9 exige ≥300.000 no path principal.
+24. `[segredo]` **Quatro condições para o rank 9 / Venerável** (cap. 2085): (1) origin core produzindo **white litchi immortal essence**; (2) **≥300.000 dao marks** no path principal; (3) attainment **supreme grandmaster** no path principal — o gargalo real, porque exige INOVAR, não só compreender; (4) romper o **Heavenly Dao blockade**, após o que o core passa a produzir **yellow apricot** (rank 9). Nunca houve dois Veneráveis vivos ao mesmo tempo; todos os dez foram humanos puros, todos tiveram sorte inata imensa, um "Dao Guardian" e killer moves próprios de human path de nível topo; todos foram restritos por lifespan.
+25. `[segredo]` **Dao Lord**: um Venerável com supreme grandmaster no path principal passa a sentir e refinar automaticamente **todos os dao marks naturais daquele path no mundo inteiro** (cap. 2085) — é a raiz da invencibilidade dos Veneráveis e de por que seus métodos continuam funcionando eras após sua morte.
+26. `[especializado]` **Attainment tem quasi-níveis reais** (ordinary → master → quasi-grandmaster → grandmaster → … → quasi-supreme → supreme grandmaster) e **um teto de herança**: true meaning herdado concede attainment instantâneo sem desperdiçar a fundação prévia, mas **nunca supreme grandmaster** — esse degrau exige inovação própria; o único atalho conhecido é o Primordial Domain (caps. 2086, 2088, 2091, 1679, 1782). Attainment insuficiente **trava heranças que já se possui** (usar um método acima do próprio attainment produz o efeito errado, cap. 1782), e a **velocidade de compreensão depende do corpo** — trocar de physique derruba o attainment futuro nos paths que a physique favorecia (cap. 2145).
+27. `[segredo]` **Anexar aperturas é a rota de avanço que pula tribulações**: anexação rende **milhões de dao marks de uma vez** (contra 86.750 de uma myriad tribulation) e permite avançar de rank sem enfrentá-las (cap. 2042) — mas empurra a aperture ao seu **limite de equilíbrio** (caps. 2108-2109). Todo aperture tem um **origin core** que é sua fundação: danificá-lo faz a aperture inteira regredir; anexar ou desenvolver outras o fortalece (cap. 1766).
+28. `[especializado]` **Quando um Gu Immortal morre, sua aperture fica instável e cai no mundo**, abre a entrada, absorve qi de céu e terra e vira uma blessed land ou grotto-heaven sem dono (cap. 2253) — origem de boa parte das terras abençoadas selvagens. Exceção: aperturas de cultivadores de **heaven path** permanecem estáveis mesmo após a morte do dono.
+29. **Evolução da regra — heaven path**: declarado **não-cultivável** (cap. 2028, sem true meaning possível) e depois **cultivado na prática** por rota indireta e caríssima (desselar truthful floating ice com essência imortal rank 9 — 1,2 milhão de dao marks e attainment quasi-grandmaster, caps. 2237, 2247). Prevalece a versão tardia; a antiga explica por que quase ninguém o cultiva e por que ele é ponto cego até de Veneráveis.
+30. `[comum]` **Mundo pós-Grande Era**: caídas as paredes regionais, o qi das cinco regiões se mistura e gera **qi tides** — marés periódicas que varrem o mundo inteiro (cinco regiões e os dois céus), matam seres no caminho, abalam aperturas imortais (recuperação forçada), expõem grotto-heavens ocultos e deixam dao marks de qi path suprimindo os outros paths na esteira. Subproduto: **qi harvest fruits** — recurso útil quando colhido solto, praga potencialmente fatal quando cresce dentro de um grotto-heaven (caps. 1967-1969, 1974, 1996, 2001, 2006).
 
 ## A escada 6–9 (o que já está estabelecido)
 
@@ -587,6 +597,194 @@ Regras transversais extraídas: Immortal Gu podem ser "expenditure" (usos finito
 - **Land spirits e mentira**: o V4 registrava "aparentemente não conseguem mentir — regra a confirmar" (cap. 880). O V5 CONFIRMA a regra e a refina: não mentem, mas podem repetir de boa-fé o que foi plantado neles (cap. 1228).
 - **Denominações de essência imortal**: o V4 fechava a hierarquia sem taxa de conversão (lacuna 41). O V5 dá a âncora 100 stones = 1 bead de red date (caps. 1291, 1314) e a escala de ~100× por rank (cap. 1459); a taxa DIRETA entre denominações (green grape → red date, etc.) segue sem número.
 - **Cadência de tribulações do rank 7**: o V4 registrava "heavenly /50; grand /100" (cap. 826). O V5 confirma e acrescenta o TOTAL do rank: 24 earthly + 3 heavenly + 3 grand (cap. 1470). O número de earthly (24) é menor que o esperado por interpolação linear (30) — provável efeito de o contador reiniciar no avanço de rank; registrado em LACUNAS.
+
+## Atualizações do Volume 5 — 2ª metade (caps. 1514–1966)
+
+### Dao marks por provação — a tabela numérica exata (fecha a lacuna prioritária da "tabela de tribulações")
+
+`[especializado]` — cap. 1703, valores-base médios (provações mais ferozes rendem mais):
+
+| Provação | Dao marks concedidos | Quem enfrenta, e a cada quanto |
+|---|---|---|
+| **Earthly calamity** | **250** | rank 7: a cada 10 anos |
+| **Heavenly tribulation** | **750** | rank 7: a cada 50 anos · rank 8: a cada 10 anos |
+| **Grand tribulation** | **7.250** | rank 7: a cada 100 anos · rank 8: a cada 50 anos |
+| **Myriad tribulation** | **86.750** | rank 8: a cada 100 anos |
+
+- **Uma myriad tribulation rende mais de 10× uma grand tribulation** — e é essa curva, não o rank nominal, que explica por que um rank 8 suprime um rank 7 com tanta facilidade: o rank 8 colhe a cada década o que o rank 7 colhe a cada meio século, e colhe uma classe inteira de provação que o rank 7 nunca enfrenta.
+- **Rota alternativa sem risco (V6, cap. 2085)**: uma xícara de *extreme serene mind tea* (chá de materiais imortais rank 8 de earth path), bebida com a técnica correta — grandes goles, não sorvida —, rende **~1.000 dao marks de earth path**. Ou seja: **mais que uma heavenly tribulation + uma earthly calamity somadas (750 + 250), sem risco de morte**. Quando um recurso desses existe, arriscar a vida numa tribulação vira decisão econômica, não destino.
+
+> [!note] Para o design
+> Aqui está a tabela de XP do reino imortal, pronta: cada classe de provação é um "encontro de nível" com recompensa fixa em dao marks, e o relógio do mundo agenda os encontros sozinho. E há a alternativa civilizada — comprar o progresso em vez de sangrar por ele —, o que transforma riqueza em avanço de forma explícita e cria o dilema clássico entre o aventureiro e o rentista.
+
+### Attainment — a escala com quasi-níveis e o teto que a herança dá
+
+`[especializado]`
+
+- **Escala completa em uso no V5-V6**: ordinary → master → (quasi-grandmaster) → grandmaster → (quasi-great grandmaster) → great grandmaster → **quasi-supreme grandmaster** → **supreme grandmaster**. Os níveis "quasi-" são degraus reais e nomeados, não aproximações retóricas — e a diferença entre quasi-supreme e supreme é **qualitativa**, não de grau (ver as 4 condições de Venerável, abaixo).
+- **O que cada nível significa, mecanicamente**:
+  - **master**: o uso dos Gu vira "artístico" e emerge **instinto** — o cultivador *sente* se uma combinação de killer move vai funcionar **antes** de testar, sem tentativa e erro (cap. 2088).
+  - **grandmaster**: o instinto fica "muitas vezes mais forte"; começa a ser possível formar killer moves que **mimetizam outros paths** com os Gu do próprio path (caps. 2091, 2095).
+  - **supreme grandmaster**: não basta compreender toda a profundidade do path — é preciso **INOVAR**; cada avanço nesse nível **eleva o teto do path inteiro** e, em certa medida, do próprio céu e terra (cap. 2086).
+- **Como o attainment sobe** — quatro rotas documentadas:
+  1. **Dream realms**: perigosos, ganho potencialmente **ilimitado**; um único dream realm pode ensinar **mais de um path ao mesmo tempo**, conforme seu conteúdo (cap. 1980). O attainment ganho é **consumido** ao subir de nível: um avanço "gasta" o acúmulo de compreensão, e subir de novo exige acumular base outra vez (cap. 2091).
+  2. **True meaning herdado** (ver abaixo): salto instantâneo, mas com teto.
+  3. **Insight intelectual puro**: subir de grandmaster a **great grandmaster** apenas teorizando e deduzindo sobre a mecânica de um path, sem combate nem dream realm (cap. 2118).
+  4. **Endless Learning** (V6, human path, núcleos Book Mountain + Learning Gu): seguro, mas **limitado por uso e com retornos decrescentes** sem acúmulo de experiência entre usos — e o ganho é limitado pela aptidão/compreensão pessoal, com **alucinação por sobrecarga** como modo de falha (cap. 2293).
+- **True meaning — o teto da herança** `[segredo]`: *true meaning* (verdadeiro significado) é uma forma de herança que **concede attainment diretamente**, sem processo gradual, e **sem desperdiçar a fundação prévia** do herdeiro. Regras fechadas:
+  - Só **wisdom path e rule path** deixam true meaning com facilidade; nos demais paths, o Gu Immortal precisa atingir um nível de "mimetismo" daquele path para conseguir deixá-la (exceções históricas: Long Hair Ancestor deixou refinement path true meaning; Reckless Savage deixou transformation path true meaning) — cap. 2028. Os dez Veneráveis são exceção à restrição.
+  - **Exemplos de magnitude**: a true meaning de um Venerável elevou time path direto a **quasi-supreme grandmaster** (cap. 1679); a true meaning de Tao Zhu elevou rule path de grandmaster a **great grandmaster** instantaneamente (cap. 1782-1796).
+  - **O teto**: a herança nunca entrega o degrau final. Nenhuma true meaning documentada concede **supreme grandmaster** — porque supreme grandmaster exige inovação própria, que por definição não se herda. O único atalho conhecido para supreme grandmaster é o **Primordial Domain** (ver V6).
+  - **Attainment insuficiente trava heranças que você já possui**: o modo reverso oculto do Steal Life Immortal Gu (doar o próprio lifespan em vez de roubar) exige **quasi-supreme em theft path**; com apenas great grandmaster, tentar usá-lo apenas **corta o próprio lifespan por engano** (cap. 1782). Possuir o Gu e o método não é possuir a capacidade.
+- **Attainment está atrelado ao CORPO** `[especializado]`: a velocidade de compreensão de um path depende da physique do cultivador. Um portador de extreme physique tinha vantagem inata enorme em ice path e soul path; **após converter o corpo para dragonman, a velocidade de compreensão nesses paths caiu drasticamente**, e o attainment "master" remanescente é em sua maior parte herança acumulada de antes da conversão (cap. 2145). Regra do mundo enunciada no trecho: **"o homem é o espírito de todos os seres vivos"** — o talento das dez extreme physiques supera o de qualquer raça de humano variante, e a troca de corpo não é neutra.
+- **Taxa de sucesso de refino como função de attainment** (dado numérico raro): uma receita deduzida com **quasi-supreme grandmaster de refinement path** atingiu **50% de sucesso** — enquanto **a maioria dos Gu Immortals ficaria feliz com 1%** (cap. 1569). Os outros fatores citados: apoio da maior força de refino da era e sorte poderosa herdada.
+
+### Anexação de immortal apertures e o corpo imortal soberano
+
+`[segredo]`
+
+- **Origin core**: toda immortal aperture (blessed land ou grotto-heaven) tem um **origin core** que é sua fundação; o Gu Immortal extrai essência imortal dele como de uma fonte. Se o core é danificado ou extraído, **a aperture inteira regride** — o espaço encolhe, a essência primeva diminui, as formas de vida internas morrem em massa. **Desenvolver ou anexar outras aperturas fortalece o próprio core** (cap. 1766). Isto conecta a mecânica de anexação (V5-1ª metade) à das 4 condições de Venerável (V6): o core é o que precisa "amadurecer" até produzir white litchi.
+- **Anexação como rota de avanço que PULA tribulações** (cap. 2042): confirmado explicitamente que um rank 8 com mais de 1 milhão de dao marks **nunca passou por nenhuma myriad tribulation em toda a vida** — porque usou a especialidade da sovereign immortal aperture de **anexar grotto-heavens inteiras** para pular todas as myriad tribulations da progressão de rank. Anexação rende **milhões de dao marks de uma vez**, contra os 86.750 de uma myriad tribulation. É a rota de avanço mais poderosa e mais rara do sistema.
+- **Limite da anexação**: a sovereign immortal aperture chega perto do próprio **limite de equilíbrio** — anexar demais desestabiliza, e por isso o food path (que rende dao marks devagar mas com segurança, usando estoque de materiais imortais) passa a ser considerado a alternativa prudente (caps. 2108-2109, 2119).
+- **O corpo imortal soberano precisa comer aperturas** (revelação do V6, cap. 2253): o corpo originado do *sovereign immortal fetus Gu* — confirmado como **Immortal Gu rank 9 de human path**, refinado ao custo do sacrifício das dez extreme physiques — precisa se **alimentar periodicamente de immortal apertures de rank equivalente ao próprio cultivo**. Chegando ao rank 9, isso significa devorar **aperturas rank 9**: as aperturas dos outros Veneráveis viram, literalmente, comida.
+- **Regra geral sobre aperturas órfãs**: quando um Gu Immortal morre, sua aperture fica **instável e cai no mundo**, abrindo a entrada, absorvendo qi de céu e terra e se tornando uma blessed land ou grotto-heaven sem dono (cap. 2253) — é a origem de boa parte das terras abençoadas "selvagens". Exceção documentada: a aperture de um cultivador de **heaven path** permanece **estável como entidade independente mesmo após a morte do dono**.
+- **Qi tide por aperturas órfãs em combate** (cap. 2016): quando vários Gu Immortals morrem numa batalha, suas aperturas se abrem de uma vez e começam a absorver heaven/earth qi para se estabilizar; o diferencial de qi entre elas e o ambiente, somado ao impacto acumulado da luta, **gera um qi tide localizado** que fere quem ainda usa corpo físico exposto. Tática documentada de campo de batalha.
+
+### Ranks 6–9 e faixas de dao marks
+
+`[especializado]` (cap. 2071 — dado numérico direto do texto, fora de "monstros" e Veneráveis):
+
+| Rank | Faixa de dao marks |
+|---|---|
+| 6 | 0 – 9.000 |
+| 7 | 10.000 – 30.000 |
+| 8 | 100.000 – 300.000 |
+| 9 (Venerável) | ≥ 300.000 no path principal (condição formal) |
+
+> [!warning] Descontinuidade
+> Há um **salto entre 30.000 (topo do rank 7) e 100.000 (piso do rank 8)** que o texto não comenta. Duas leituras possíveis: (a) a transição de rank em si concede um bloco grande de dao marks, ou (b) há uma faixa intermediária omitida. Registrado como lacuna.
+
+Regra de conversão reafirmada: **cada 1.000 dao marks ≈ dobro de amplificação de poder**, e a diferença de poder entre ranks tardios cresce cada vez mais até o rank 9 ser "invencível" (cap. 2071 — coerente com a fórmula fechada do V5-1ª metade: 100 = +10%, 1.000 = 2×, 10.000 = 10×).
+
+
+## Atualizações do Volume 6 (caps. 1967–2334)
+
+### As QUATRO CONDIÇÕES para se tornar Venerável (rank 9) — a revelação definitiva
+
+`[segredo]` — cap. 2085, enunciadas explicitamente. É o critério formal que a obra inteira vinha adiando:
+
+1. **O origin core da immortal aperture precisa produzir *white litchi immortal essence*** — o terceiro degrau da hierarquia de essências (green grape < red date < **white litchi** < yellow apricot). É **pré-requisito**, não resultado: o candidato precisa já estar nesse estágio de essência antes de tentar a quarta condição.
+2. **O path principal precisa ter no mínimo 300.000 dao marks.**
+3. **O path principal precisa estar em attainment level *supreme grandmaster*** — e este é **o gargalo real**. "Quasi-supreme grandmaster" está perto mas **não é o mesmo**: supreme grandmaster exige não só compreender toda a profundidade do path, mas **INOVAR** dentro dele, elevando o teto do path (e do próprio céu e terra) a cada avanço (cap. 2086).
+4. **Romper o *Heavenly Dao blockade* (bloqueio do Caminho Celestial).** Cumprida esta, o origin core passa a produzir a essência imortal rank 9, **yellow apricot**.
+
+**O Heavenly Dao blockade** é descrito como mecanismo formal de três componentes; o que a obra detalha sobre ele:
+
+- Existem **atalhos** para superá-lo — **luck path** é citado nominalmente como um deles.
+- **Todo Venerável histórico teve sorte inata imensa**, vinda de uma de duas fontes: (a) **favor do heaven's will** (caso do Primordial Origin Immortal Venerable, favorecido pelo Heavenly Dao há 3 milhões de anos para reequilibrar um mundo dominado por humanos variantes) ou (b) **"adoração de human path"** — reverência e devoção coletiva de multidões (caso do Red Lotus Demon Venerable, cuja tribulação de nascimento precisou ser bloqueada pelos Three Dukes da Heavenly Court, de tão imensa que era sua sorte inata de "filho da humanidade").
+- **Métodos de human path (formações e killer moves) são a via eficaz de interferir no Heavenly Dao** — e **todos os dez Veneráveis, sem exceção, compreenderam algo de "The Legends of Ren Zu" e criaram os próprios killer moves de human path de nível topo** (cap. 2085).
+
+**Traços comuns confirmados dos dez Veneráveis** (cap. 2085) — útil como perfil estrutural, não como enredo:
+
+- 9 homens e 1 mulher (Star Constellation): **não há restrição de gênero**.
+- **Nenhum é onipotente**: houve Veneráveis que precisaram de ajuda de terceiros para refinar seus Immortal Gu.
+- **Nunca existiram dois Veneráveis vivos ao mesmo tempo** na história ("dois reis não coexistem"); confrontos entre Veneráveis de eras diferentes só ocorrem por métodos deixados para trás.
+- **Todos tiveram um "Dao Guardian"** (guardião do Dao) num momento crucial do crescimento — que podia ser **amigo OU inimigo**.
+- **Todos tiveram supreme grandmaster no path principal.**
+- **Todos foram restritos pelo lifespan** — há registros históricos de Veneráveis caçando lifespan Gu com toda a sua força (ver `longevidade.md`).
+- **Todos os dez eram humanos puros**: nunca houve um Venerável humano variante.
+
+**Dao Lord (Senhor do Dao)** `[segredo]`: status atingido por um Venerável com supreme grandmaster no path principal — ele passa a **sentir e refinar automaticamente todos os dao marks naturais daquele path no mundo inteiro**, manipulando-os à vontade. É o segredo por trás da invencibilidade dos Veneráveis e da permanência histórica dos seus métodos (cap. 2085). Explica retroativamente por que os métodos de um Venerável continuam funcionando eras depois de sua morte: o path inteiro do mundo carrega a assinatura dele.
+
+**Primordial Domain** `[segredo]`: secluded domain de céu e terra mencionado em "The Legends of Ren Zu", localizado na 9ª camada da Crazed Demon Cave. Entrar nele **eleva UM path do usuário diretamente a supreme grandmaster**, pulando o processo gradual (cap. 2086). É o único atalho conhecido para a condição 3 — e portanto o gargalo geográfico de toda a corrida por Venerável na era final da obra.
+
+### Teoria completa das tribulações — todas são heaven path dao marks
+
+`[segredo]` — cap. 2042, a revelação que unifica calamidades, tribulações, dao marks e Heavenly Dao num só mecanismo:
+
+1. **O Heavenly Dao busca equilíbrio entre déficit e superávit de dao marks.** Todo Gu Immortal e toda immortal aperture é uma **concentração de dao marks que rompe o equilíbrio local**.
+2. **TODA calamidade e tribulação, qualquer que seja o tema aparente** — relâmpago, nuvem, dragão, tambor de trovão, vento-flor, neve-lua, sal branco voador — é fundamentalmente feita de **heaven path dao marks que se transformam temporariamente em dao marks de outro path para se manifestar**.
+3. **Regra de escala**: quanto mais dao marks um Gu Immortal acumula, maior o desequilíbrio dele com o ambiente, e **mais heaven path dao marks são atraídos para ele** — daí tribulações mais fortes em ranks mais altos. A curva de dificuldade não é arbitrária: é literalmente o tamanho do seu desequilíbrio.
+4. **Ninguém pode cultivar heaven path diretamente, e passar por uma tribulação NÃO dá heaven path dao marks**: os heaven path dao marks usados na tribulação **se transformam em dao marks de outro(s) path(s) e se fundem à aperture do sobrevivente**. Ou seja — **tribulações são o mecanismo indireto pelo qual um cultivador ganha dao marks de paths novos**, e a recompensa é proporcional ao que a tribulação gastou.
+5. O Heavenly Dao pode **imitar métodos de Veneráveis dentro de uma tribulação** (a "formless hand" de um Venerável pode aparecer replicada numa calamidade).
+
+**Consequências e métodos derivados** — todos exploram a mesma raiz mecânica (cap. 2042):
+
+| Método | Facção | O que faz com os heaven path dao marks |
+|---|---|---|
+| **Immortal Tribulation Tempering Aperture** | Lang Ya Sect | Conecta a aperture ao mundo externo, influenciando **quais** calamidades ocorrem — "tempera" a aperture com dao marks dos paths dominantes na região externa correspondente |
+| **Dog Shit Luck / Fortune Rivalling Heaven** | luck path (true inheritance de Giant Sun) | Interferem na **criação** da tribulação via dao marks de luck path, enfraquecendo-a por "mudança favorável" |
+| **Myriad Beings Assimilation Transformation** | Beast Calamity grotto-heaven | **Limita a transformação** dos heaven path dao marks, forçando toda tribulação a se manifestar como beast calamity de transformation path |
+| **Exposing Heavenly Secret** | Shadow Sect (núcleo: heavenly secret Immortal Gu) | **Deduz com precisão o conteúdo da próxima tribulação**, porque mira a raiz (heaven path dao marks) em vez do sintoma |
+| **Obscured Heavenly Secret** | heaven path (herança de Paradise Earth; núcleo: Heavenly Web Gu rank 8) | Cobre o corpo com uma "rede de pesca" de heaven path dao marks que **muda de forma** e distorce qualquer tentativa de dedução alheia; consome-se conforme resiste (caps. 2229-2231) |
+
+- **Os "mundos pequenos estranhos" derivados dentro da Crazed Demon Cave também se originam de heaven path dao marks** — quando destruídos, **revertem a heaven path dao marks** (cap. 2042).
+- **Tribulação adaptativa** `[segredo]` (cap. 2045): tribulações comuns têm **conteúdo fixo** uma vez manifestadas. Mas uma tribulação diretamente controlada pela heaven's will **pode mudar de forma à vontade** a cada contramedida eficaz do alvo, porque heaven path "contém todos os paths" e assume qualquer manifestação — o que multiplica a dificuldade. A contramedida existente é Exposing Heavenly Secret: **não reduz o dano, remove a imprevisibilidade**, descrita como o maior perigo de qualquer tribulação (cap. 2048).
+- **Refinar heaven path dao marks à força enfurece o céu** (cap. 2037): é possível — com killer moves de heaven path (Heaven-human Sensation, Human Executing Heaven's Work, Unrestrained Heavenly Mark) — sentir e refinar os heaven path dao marks presos no próprio corpo. Mas os dao marks restantes **se reúnem e disparam uma myriad tribulation** (a classe mais severa, que só um rank 8 consegue enfrentar), cobrindo mais de cem mil li em instantes. O processo é possível; o custo é automático e catastrófico.
+- **Absorver muitos heaven path dao marks SELA o próprio cultivador** (cap. 1974): funciona quase como um selo, suprimindo temporariamente a força de quem os absorveu. E **entre os paths, human path é o mais adequado para lidar com heaven path** — daí formações de human path (núcleo: thousand wish tree) serem erguidas justamente para **conter os efeitos do heaven path dentro de uma aperture**.
+
+### Heaven path como path cultivável — a evolução da regra
+
+**Evolução da regra** (registrar as duas versões, prevalecendo a tardia):
+
+- **Versão antiga (cânone até o V6 inicial, cap. 2028)**: `[especializado]` **heaven path não é cultivável.** Nenhum Gu Immortal consegue cultivá-lo, e por isso **nunca existiu "heaven path true meaning"** convencional. Afirmado explicitamente por uma autoridade da Heavenly Court.
+- **Versão tardia (fim do V6)**: heaven path **é cultivável na prática, por uma rota indireta e carésima**. O método documentado: **desselar *truthful floating ice*** obtido na Crazed Demon Cave, com método de heaven path e gasto de **essência imortal yellow apricot** (rank 9). Números concretos (cap. 2237): em 6 horas de desselamento, +60.000 heaven path dao marks (~10.000/hora, partindo de ~240.000); após vários dias e **mais de 100 contas de yellow apricot** gastas, os heaven path dao marks chegam a **1.200.000**, elevando o attainment de heaven path de **ordinary direto a master**. Depois, mais alguns dias levam a **quasi-grandmaster** (cap. 2247).
+  - **Limiar registrado**: "master" em heaven path fica **entre 240 mil e 1,2 milhão de dao marks** desse path — a única âncora numérica de attainment↔dao marks que a obra oferece.
+  - **Efeito colateral útil**: o desselamento rende dao marks em **múltiplos paths simultaneamente** (rule, wisdom, transformation, strength, earth, wood…), cada um correspondendo ao Venerável que investiu naquela camada da caverna — confirmação da correspondência **Venerável ↔ path principal**. Mas o ganho é **hierarquizado**: (1) dao marks de heaven path, muito maior; (2) attainment de heaven path, consequência direta; (3) attainment de outros paths, "quase imperceptível".
+- **Por que alguém escolheria heaven path**: declarado explicitamente como **especialidade estratégica** justamente por ter quase nenhum cultivador ou rival no mundo (a barreira de entrada é alta demais), o que o torna um **fator-surpresa em combate**. Heaven path é **ponto cego** até para Veneráveis de wisdom path e de luck path, que não têm contramedida direta contra ele (caps. 2227, 2229, 2240).
+- **Origem dos heaven path dao marks pode ser artificial**: um Venerável **quebrou o próprio limite do mundo para abrir um buraco e forjou dao marks de heaven path inteiramente novos**, distintos do "espírito celestial natural" original (cap. 2240). Ou seja, heaven path não é só a lei-de-fábrica do universo — parte dele foi **fabricada**.
+- **Metodologia histórica de criação de killer moves**, confirmada no mesmo trecho: os predecessores tomavam como referência as **habilidades inatas de seres vivos** dos cinco reinos e dos dois céus. Conquistas que rivalizam com o mundo natural: criar uma raça inteira (dragonman), criar um secluded domain artificial, criar soul beasts (esculpindo killer moves de soul path como habilidades inatas de dao marks em corpos de fera).
+
+### O mundo pós-Grande Era: qi tides e qi harvest fruits
+
+`[comum]` a existência, `[especializado]` a mecânica (caps. 1967-1969, 1974, 1996, 2001, 2006, 2013-2027):
+
+- **A causa**: as cinco paredes regionais caíram e as cinco regiões se fundiram numa só. O heaven e earth qi das cinco regiões, antes distinto, começa a **convergir e se misturar**.
+- **Qi tides (marés de qi)**: fenômenos periódicos, tipo tsunami, que **varrem o mundo inteiro** — as cinco regiões E os dois céus (black e white heaven) —, matando formas de vida no caminho e **abalando as aperturas imortais**, que sofrem "recuperação forçada" (um período de instabilidade em que o imortal fica travado).
+- **Efeitos secundários das marés**:
+  - Depois que uma maré passa, **dao marks de qi path inundam a área e suprimem os outros paths** — inclusive soul path (fica mais difícil formar novos soul beasts a partir de mortes). Em compensação, **materiais imortais de qi path se multiplicam** — projeta-se que o qi path, em declínio havia eras, **volte a ser relevante** por abundância de recursos baratos (cap. 1974).
+  - **Grotto-heavens escondidos não conseguem mais se ocultar**: as marés os deixam "como peixes fora d'água" e expõem suas posições (cap. 1969).
+  - **Combates de alto nível entre Gu Immortals parecem atrair ou gerar qi tides** — correlação observada, não confirmada por falta de attainment em qi path (cap. 1996). Ver também o mecanismo confirmado das aperturas órfãs (cap. 2016), que é a versão local e explicada do mesmo fenômeno.
+- **Qi harvest fruit (fruto de colheita de qi)**: fruto translúcido em forma de cabaça, feito inteiramente de heaven-earth qi condensado, **subproduto das qi tides**; tamanho normal, o de uma carruagem.
+  - **Uso benigno**: colocado dentro da própria aperture imortal, **acelera a fusão do heaven-earth qi local** e reduz o tempo de recuperação forçada — dando liberdade de movimento antes dos rivais ainda travados. **Não é preciso attainment de qi path para usá-lo**: basta esmagá-lo dentro da aperture (cap. 2006). Frutos "soltos" ficam espalhados em território aberto depois de cada maré e viram recurso de linha de frente, disputado abertamente até por rank 6, com mortes.
+  - **A praga**: um fruto **gerado dentro de um grotto-heaven** (em vez de colhido fora) **continua crescendo, absorvendo o heaven-earth qi do próprio grotto-heaven indefinidamente**, até detoná-lo. Removê-lo à força ou destruí-lo **mata os seres vivos locais e gera uma qi tide interna ainda mais forte**, que pode criar um **segundo fruto** depois. Extrair sem dano exige método e attainment de **qi path** — raríssimo.
+  - **Quem sofre e por quê**: **toda grotto-heaven situada no white heaven** está sujeita — inclusive a Heavenly Court. A causa-raiz: os grotto-heavens dos dois céus se instalam **sobre heaven veins** (veios celestes), o que normalmente é vantagem de recursos, mas os coloca literalmente na fonte quando as heaven veins começam a se fundir — efeito espelhado da fusão das earth veins que gerou as qi tides nas cinco regiões (cap. 2001).
+  - **Remoção bem-sucedida é upgrade, não só reparo**: eliminar um fruto corretamente gera uma **qi tide inofensiva** que varre a grotto-heaven e **eleva a fundação dela** (caps. 2013-2023).
+  - **Grades muito variáveis**: há registro de um fruto minúsculo com **aura de material imortal rank 9 genuíno**, aparentemente guardado deliberadamente por um Gu Immortal de eras anteriores — sugerindo conhecimento antecipado das qi tides (cap. 1996).
+- **Geografia nova**: o *immemorial two heavens* (acima do Eastern Sea) — região densa de grotto-heavens humanas e de humanos variantes — vira palco político central do pós-Grande Era, sem território neutro restante (cap. 2018). Ver `mundo-e-cosmologia.md` e `sociedade-e-organizacoes.md`.
+- **Risco para o mundo mortal**: beast calamities pós-Grande Era atingem civilização mortal comum sem aviso — há registro de uma cidade inteira de Mestres Gu destruída por uma fera em fúria (cap. 2015).
+
+> [!note] Para o design
+> As qi tides são o melhor gerador de campanha da obra inteira: um relógio de mundo que (a) periodicamente incapacita todos os personagens de alto nível por um tempo, (b) redistribui recursos em território aberto, (c) expõe esconderijos e (d) planta uma bomba-relógio dentro de cada fortaleza. Tudo isso sem ninguém decidir nada — é o mundo se reequilibrando após a mudança estrutural.
+
+### Outras regras imortais fechadas no V6
+
+- `[especializado]` **Immortal Gu House sem Gu-núcleo**: existe pelo menos uma cujo núcleo **não é um Immortal Gu, e sim um killer move imortal** — o golpe permite empilhar Gu worms daquele path para **formar a própria Immortal Gu House, mesmo com zero attainment em formation path**. Ganhar o killer move é ganhar a House inteira (cap. 2049).
+- `[especializado]` **Vital Gu que mata o usuário**: o Dream Token (rank 8, vital Gu) consome **toda a base do Gu Immortal** — essência imortal, emoções, true meaning — para criar um dream realm; usá-lo sozinho é fatal, e o tamanho do dream realm resultante depende da situação. Caso histórico documentado: um rank 8 no pico sacrificou a vida usando-o para dotar uma organização inteira de poder de escravização (cap. 2090).
+- `[especializado]` **Food path reavaliado**: seu verdadeiro poder não é só reduzir o fardo de alimentar Gu worms — é **conceder dao marks diretamente ao cultivador que o usa sobre si mesmo**, convertendo estoque de materiais imortais em progresso. Alternativa **segura e gradual** à anexação de grotto-heavens (que rende milhões de uma vez, mas empurra a aperture ao limite de equilíbrio) — caps. 2108-2109, 2119.
+- `[especializado]` **Custo de ocultação escala com o que há para esconder**: a "rede" de heaven path dao marks de Obscured Heavenly Secret se esgota **quase duas vezes mais rápido** quando há dois Immortal Gu rank 9 a ocultar em vez de um; chega a um ponto em que consegue ocultar o **início** de um refino rank 9 mas não sustentar até o fim (cap. 2253). Mecanismo elegante para RPG: furtividade com custo proporcional ao segredo.
+- `[especializado]` **Métodos envelhecem**: um killer move rank 9 criado há 300 mil anos é declarado **obsoleto** contra os Veneráveis atuais, que já desenvolveram contramedidas; modificá-lo exige attainment que o herdeiro não tem (cap. 2234). Herança poderosa não é herança eterna.
+- `[especializado]` **Immortal graveyard da Heavenly Court** (consolidação): local onde Gu Immortals de altíssimo nível entram em **hibernação voluntária**; ao hibernar, quase todos **entregam TODOS os seus Immortal Gu**, porque os Gu exigem cuidado e alimentação contínuos que o hibernante não pode fornecer (cap. 1553). Um despertar causa reação anormal perceptível a toda a corte e é anunciado por uma chama que cresce tingindo o céu do cemitério (cap. 1808). Podem ser **convocados em emergência** e, ao despertar, **recebem instantaneamente na mente toda a informação relevante do combate em curso** (caps. 2180-2181). É a reserva estratégica oculta da maior organização do mundo.
+- `[especializado]` **Dentro de um painting world a distância entre imortal e mortal encolhe**: Gu mortais bem cultivados rendem poder de topo local (cap. 2065). Ambientes especiais achatam a escada de rank.
+- `[segredo]` **Paths sem cobertura**: painting path, weapon path e pill path **não existiam em nenhum dos dream realms** deixados pelo maior criador de dream realms da história — os três surgiram depois da era dele. O **painting path é mantido em segredo absoluto** por um dos Veneráveis, mais fechado até que a herança de luck path (cap. 2145). Nem os maiores experts têm contramedida contra tudo: cada Venerável tem seus pontos cegos declarados.
+
+### Evolução da regra (V6)
+
+- **Heaven path é cultivável?** V6 inicial: **não**, por definição, e por isso não existe heaven path true meaning (cap. 2028). V6 final: **sim, indiretamente** — via desselamento de truthful floating ice com essência imortal rank 9, chegando a 1,2 milhão de dao marks e attainment quasi-grandmaster (caps. 2237, 2247). Prevalece a tardia; a antiga permanece válida como descrição de por que **quase ninguém** o cultiva.
+- **Critério de avanço de rank imortal**: V4 fixava temporal/de tribulações (300 anos, 3 tribulações). O V6 confirma que **existe pelo menos uma rota que ignora completamente a exigência de tribulação** — a anexação de grotto-heavens por uma sovereign immortal aperture (cap. 2042). Os critérios não são uniformes: são o caminho *normal* e as exceções que os monstros usam.
+- **Dao marks por rank**: o V5-1ª metade tinha só a fórmula de amplificação; o V6 acrescenta as **faixas por rank** (cap. 2071) e a **tabela por provação** (cap. 1703).
+- **Bloqueio de anexação por nine heavens fragment**: antes, grotto-heavens fundidas com um "fragmento dos nove céus" eram inanexáveis, porque os heaven path dao marks resultantes invadiam e apagavam o heavenly spirit. Ao adquirir capacidade de **refinar heaven path dao marks**, o bloqueio desaparece e **toda grotto-heaven passa a ser anexável** (desde que haja attainment suficiente no path correspondente) — cap. 2071.
+
+### Lacunas do domínio (atualização V6)
+
+- ✅ **RESPONDIDO — mecanismo de calamidades/tribulações e origem dos heaven path dao marks** (cap. 2042).
+- ✅ **RESPONDIDO — as condições formais para rank 9** (cap. 2085): quatro condições explícitas.
+- ✅ **RESPONDIDO — tabela de dao marks por provação** (cap. 1703): 250 / 750 / 7.250 / 86.750.
+- ✅ **RESPONDIDO — faixas de dao marks por rank imortal** (cap. 2071), com a ressalva da descontinuidade 30.000→100.000.
+- Segue aberto: se a descontinuidade entre a faixa do rank 7 e a do rank 8 é bloco concedido na transição ou faixa omitida (cap. 2071).
+- Segue aberto: a relação exata entre **estágio de essência imortal** (green grape / red date / white litchi / yellow apricot) e **rank de cultivo** — a condição 1 de Venerável implica que "estar no estágio white litchi" é distinto de "ser rank 8 avançado", mas o texto não formaliza a correspondência (cap. 2085).
+- Segue aberto: se o limiar de attainment em heaven path (entre 240 mil e 1,2 milhão de dao marks para "master") generaliza para outros paths ou é específico do heaven path, que ninguém mais cultiva.
+
 
 ## Lacunas do domínio
 

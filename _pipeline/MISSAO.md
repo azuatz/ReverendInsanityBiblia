@@ -82,7 +82,7 @@ ReverendInsanityExpert/
 
 Requisitos de qualidade dos documentos finais:
 
-- Escritos **em português brasileiro**, mantendo termos técnicos consagrados em inglês com tradução na primeira ocorrência (ex.: "aperture (abertura)").
+- Escritos **em português brasileiro**, mantendo termos técnicos consagrados em inglês com tradução na primeira ocorrência (ex.: "aperture (abertura)"). Para termos sem tradução óbvia, usar como referência a tradução brasileira do site centralnovel (centralnovel.com); se inacessível ou sem o termo, manter em inglês — nunca inventar tradução própria.
 - Autossuficientes: a designer não leu a obra e não vai lê-la. Explique tudo do zero, com exemplos mecânicos concretos.
 - Rastreabilidade nos bastidores, nunca na prosa: os capítulos/URLs de cada fato ficam no campo `fontes` do frontmatter e nas notas brutas do `_pipeline/` — o texto das notas finais fica limpo, sem "(cap. NN)" inline, para leitura agradável de quem não conhece nada do sistema.
 - Pensados para design de jogo: sempre que uma mecânica do mundo sugerir algo "jogável" (progressão, economia, risco/recompensa, criação de builds por path, refino como crafting, tribulações como eventos), destaque isso em um bloco `> [!note] Para o design`.

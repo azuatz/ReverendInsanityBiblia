@@ -81,6 +81,12 @@ contexto vivo se perde. Portanto:
 
 - Documentos finais em **português brasileiro**; termos técnicos consagrados em inglês
   com tradução na primeira ocorrência (ex.: "aperture (abertura)").
+- **Política de tradução de termos**: quando não houver tradução óbvia para um termo
+  do mundo (Gu, paths, ranks, lugares, organizações), consultar a tradução brasileira
+  da obra no site centralnovel (centralnovel.com) e adotar o nome usado lá — assim a
+  designer encontra os mesmos termos se ler a tradução PT. Se o site estiver
+  inacessível ou o termo não existir lá, manter o termo em inglês (sem inventar
+  tradução própria). Registrar as escolhas no glossário EN→PT.
 - **Sem citações inline nas notas finais**: a prosa deve ser agradável e fluida para
   uma iniciante — nunca escrever "(cap. NN)" ou URLs no meio do texto, tabelas ou
   callouts das notas consolidadas. A rastreabilidade fica nos bastidores: capítulos

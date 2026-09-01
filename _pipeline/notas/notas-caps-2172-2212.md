@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 2172–2212 (Volume 6)
 
-> Progresso da leitura: até o cap. 2181
+> Progresso da leitura: até o cap. 2191
 > Status: em-andamento
 
 Contexto do bloco: a narrativa entra na "batalha de Crazed Demon Cave" (oitava/nona camadas), clímax de confronto de larga escala entre Fang Yuan/Yellow Earth Great World, Longevity Heaven/Savage Wilderness Great World e Heavenly Court/Green Lotus Great World, disputando o "true inheritance space" de Thieving Heaven e o núcleo "Primordial Domain" da nona camada. Extração focada em mecânica, não em resultado da guerra.
@@ -112,6 +112,59 @@ Contexto do bloco: a narrativa entra na "batalha de Crazed Demon Cave" (oitava/n
 - Mecanismo de acesso ao Primordial Domain a partir de Book Mountain: caminhar espalhando conhecimento/informação acumulados como "texto de tinta" (ink text) no chão, formando um caminho; se o conhecimento usado for de baixo nível (memorizado, não compreendido como true meaning), o caminho se desgasta e desaparece em jornadas longas, impedindo o acesso; um caminho construído a partir de true meaning é largo e resistente o bastante para chegar ao Primordial Domain (cap. 2176–2177).
 - Definição do Primordial Domain (lore, ancião inkman): "a parte mais misteriosa da Qian Kun Crystal Wall... contém a informação do mundo desde a criação, e também a informação do fim de todos os seres vivos. É tanto o ponto de partida quanto o ponto final. Não tem nada, mas compreende tudo" (cap. 2176).
 
+### Star Constellation Immortal Venerable — mecanismo de revival por "avatares de starlight" (caps. 2183–2184, 2189)
+- **Revelação central**: as "três fadas" Fairy Ming Hao, Fairy Yu Xiu e Fairy Feng Ya de Heavenly Court são, na verdade, três avatares/sombras de starlight ("starlight shadow") criados por Star Constellation Immortal Venerable em três momentos emocionais distintos de sua vida mortal/imortal (infância reprimida → Ming Hao; amor não realizado por um variant human → Yu Xiu; sacrifício final ao se fundir com a heaven's will → Feng Ya). Cada avatar nasceu de um lump de starlight extraído do próprio coração dela em momento de dor/renúncia, e recebeu um nome.
+- Ela deixou os três avatares como "arranjo para revival": quando a fate Gu foi destruída (evento do V4/V5), os três avatares despertaram como pseudo-veneráveis independentes (força equivalente a pseudo-venerável cada) e agiram anos a fio dentro de Heavenly Court sem que ninguém soubesse sua verdadeira natureza.
+- **Fusão em Venerável completo**: os três avatares podem se fundir (recitando um verso ritual) formando o corpo completo de Star Constellation Immortal Venerable — mas essa fusão NÃO é permanente/estável: sob desgaste extremo (ex.: atravessar o Crazed Demon formation rank 9), ela colapsa de volta em três avatares separados para se recuperar (cap. 2189).
+- **Dado quantitativo crucial**: mesmo fundida como Venerável completa, a soma de dao marks dos três avatares é MENOR que o total acumulado por Fang Yuan sozinho — por isso ele consegue trocar golpes diretamente com ela e até levar vantagem em confrontos frontais, algo impensável contra um Venerável "pleno" histórico (cap. 2185).
+- Confirma e expande uma regra já suspeitada: Veneráveis podem se preparar para revival via fragmentação de identidade/avatares deixados propositalmente antes de uma "morte" ou fusão com a heaven's will — mecanismo distinto da zumbificação (Giant Sun) e de outros modos de revival já catalogados (Tomb Earth, immortal graveyard).
+- Mesmo sendo Venerável revivida, Star Constellation está sujeita à mesma restrição de Limitless Demon Venerable: não pode "fazer um movimento casualmente" (usar força excessiva) sob risco de ativar o método retaliatório de Limitless, igual a qualquer pseudo-venerável (cap. 2184).
+
+### Definição formal de "eterna vida" (eternal life) vs. longevidade — diferença explícita (cap. 2189)
+- Longevidade (mesmo a de um Venerável) ainda está sujeita a ser ameaçada por um inimigo mais forte — "mesmo Veneráveis só têm longevidade, não podem ser ditos como tendo vida eterna! Especialmente agora que múltiplos Veneráveis existem na mesma era, eles ameaçam a existência um do outro."
+- **Eterna vida = invencibilidade completa**: nada — nem tempo, nem espaço, nem seres vivos — pode ameaçar a existência do portador. É o objetivo/sonho declarado de Fang Yuan e também da pesquisa secreta de Limitless Demon Venerable dentro de Crazed Demon Cave.
+
+### Crazed Demon formation — a formação rank 9 por trás de Book Mountain e Primordial Domain (caps. 2187–2191)
+- Ao destruir totalmente o Primordial Domain (pela ação combinada de Fang Yuan + Giant Sun colhendo, e Star Constellation atacando diretamente quando via que não conseguiria colher tanto quanto os dois juntos), os presentes não caem — são transportados para dentro da **9ª camada real** de Crazed Demon Cave, um vazio muito menor que a 8ª camada, ocupado por uma formação rank 9 gigantesca: o **Crazed Demon formation**.
+- A formação é composta por incontáveis pedaços de **"truthful floating ice"** (gelo flutuante de verdade) do **Rio do Tempo**, cada pedaço sendo literalmente uma "verdade" cristalizada, orbitando lentamente em torno de um centro, crescendo continuamente de tamanho.
+- **Book Mountain e Primordial Domain eram NÚCLEOS extraídos dessa formação** por Heavenly Court — confirma que a "9ª camada" é hierarquicamente a fonte de ambos.
+- **Mecânica de combustível**: os Gu Immortals mortos e as immortal apertures destruídas na 8ª camada (durante toda a guerra deste bloco) servem de "combustível" e "pistas de dedução" para a formação continuar sua "derivação" (deriving) — ou seja, a guerra inteira em curso na 8ª camada está alimentando essa formação rank 9.
+- **Mecânica de travessia**: cada pedaço de gelo-verdade tem tamanho/forma diferentes conforme a PERCEPÇÃO de quem o observa (eco direto da lenda de Ren Zu, ver Glossário); ao pisar num pedaço, o viajante sente uma emoção intensa (alegria, tristeza, raiva, etc.) ligada àquela "verdade"; quanto mais fundo na formação, mais intensas as emoções — se o coração não aguentar, o avanço para. É necessário pular de pedaço em pedaço antes que cada um submerja; forças de atração/repulsão entre pedaços tornam o salto arriscado (esmagamento se cair fora de um pedaço).
+- **Só o pedaço central** (o maior) contém, aparentemente, a resposta final da pesquisa de eterna vida de Limitless Demon Venerable.
+- **Regra de intocabilidade**: atacar/destruir qualquer pedaço de gelo-verdade da formação (diferente do Primordial Domain externo, que podia ser livremente destruído) ativa o método retaliatório de Limitless Demon Venerable — dentro do Crazed Demon formation, força bruta contra os núcleos é proibida até a derivação terminar ou a formação ser destruída.
+- **Practice Gu**: Gu usado pelos "Three Crazed Demon Eccentrics" (Secret Schemer, wisdom path; Pang Shan, earth path; Not Immortal, rule path — moradores de longa data de Crazed Demon Cave) para "esculpir" continuamente o pedaço de gelo central, avançando a derivação da pesquisa de eterna vida; requer ativação CONTÍNUA e ininterrupta por pelo menos um dos três, sob risco das próprias vidas; a derivação só se completa quando todos os mundos da 8ª camada tiverem sido totalmente destruídos/fundidos, fornecendo o combustível final (caps. 2189–2190).
+- **Infiltração sem gatilho de retaliação**: Star Constellation Immortal Venerable, graças à profunda infiltração histórica de Heavenly Court em Crazed Demon Cave (mais de um milhão de anos), consegue se infiltrar tanto na formação a ponto de virar "metade dona" dela — mas o faz apenas ACELERANDO a derivação (nunca destruindo), o que NÃO ativa o método retaliatório de Limitless. Ela usa essa aceleração ofensivamente: aumenta a velocidade orbital dos pedaços de gelo para encurralar/ameaçar esmagar Fang Yuan e Giant Sun lá dentro (cap. 2190).
+- **Contramedida de Giant Sun**: ele introduz sua própria Immortal Gu House Luck Suppression Heavenly Palace (já "profundamente envolvida" nas deduções de Limitless dentro de Crazed Demon Cave desde antes) diretamente DENTRO da formação — ela passa a orbitar como se fosse mais um pedaço de gelo-verdade, e isso permite a Giant Sun também influenciar/acelerar a formação, criando uma rota de fuga segura para si e para Fang Yuan (cap. 2190).
+
+### Hu Land + Xi Land — combinação usada para localizar/entrar no Primordial Domain
+- Segundo Legends of Ren Zu (cap. 5, seção 37): "à frente do Primordial Domain está Xi Land, atrás está Hu Land" — dado de lore usado literalmente por Fang Yuan: combinando Hu Land (própria) e Xi Land (de Demon Immortal Qi Jue, aliado temporário) num único pilar de luz horizontal com um golpe imortal, forma-se um vórtice que, ao tocar o Primordial Domain, o envolve como neblina e permite entrada direta — método alternativo de acesso sem precisar de golpe de dedução (cap. 2185).
+
+### "Hu Elevation" (golpe imortal de Qi Sea Ancestor via Hu Land) — poder e gatilho de retaliação
+- Hu Land, quando ativada por esse golpe, libera todos os tipos de qi nela acumulados (righteous, evil, blood, strange etc.) fundidos numa única força inseparável, disparada como um feixe de qi capaz de "partir céu e terra". Resultado de um único uso: perdeu 30% de força contra defesas de Fairy Yu Xiu, destruiu por completo uma Immortal Gu House rank 8 de Heavenly Court em poucos respiros, e matou o legendary immemorial beast Qing Chou com o restante da força (cap. 2182).
+- **Custo**: 30% da reserva de essência imortal de Qi Sea Ancestor + 10.000 dao marks do qi path gastos num único uso (cap. 2182).
+- **Gatilho de retaliação confirmado**: o golpe foi tão poderoso/destrutivo dentro de Crazed Demon Cave que ativou IMEDIATAMENTE o método retaliatório de Limitless Demon Venerable sobre Qi Sea Ancestor — correntes o imobilizam fisicamente, entram na mente (paralisando pensamentos) e selam toda a essência imortal na aperture. Confirma que o gatilho de Limitless não depende de alinhamento político (aliado ou não), só de EXCESSO de poder destrutivo liberado dentro da zona (cap. 2182).
+
+### Killer moves compostos e combinação de Immortal Gu de mesmo rank — regra reforçada
+- "**Seven Kills Rainbow**" (Fang Yuan): evolução do já conhecido "five technique rainbow" (metal+madeira+água+fogo+terra), agora com +vento +raio = 7 paths genuinamente fundidos num só golpe. Diferença crucial de golpes "falsos" (como o de Thieving Heaven, que apenas IMITA a aparência de vários paths mas é, na essência, um único path — bastava atacar theft path para neutralizá-lo): aqui os 7 paths são realmente combinados, obrigando o defensor a considerar as 7 simultaneamente — Star Constellation Immortal Venerable, mesmo sendo wisdom path supreme grandmaster, tem dificuldade real de defender (cap. 2185).
+- "**Calm and Steady**" (novo golpe imortal de Fang Yuan): combina fortitude Gu (rank 8, strength path, roubado de Myriad Beast Fusion Color Heaven) + suppression Gu (rank 8, roubado ao destruir a "river suppression lotus sealing formation" de Heavenly Court antes da guerra do destino) como dois núcleos — suprime emoções/impacto mental muito mais eficazmente que fortitude Gu sozinho, permitindo avançar mais rápido pelo Crazed Demon formation. Regra reforçada: golpes com DOIS núcleos de rank 8 têm efeito sensivelmente mais forte que um golpe com um núcleo só do mesmo rank (cap. 2189).
+- Revelação lateral: Fang Yuan confirma ser o responsável (não identificado antes) por roubar fortitude Gu e ability Gu de Myriad Beast Fusion Color Heaven, ambos rank 8 do strength path (cap. 2187).
+
+### Eight Extremities (golpe/formação de batalha antiga, Longevity Heaven) — mecânica de compartilhamento
+- Formação antiga incomum: ao invés de reunir a força de vários Gu Immortals em UM (padrão comum de formações de batalha antigas), essa DIVIDE o poder reunido entre OITO Gu Immortals, elevando cada um de rank 7 para força de elite rank 8 (cap. 2182).
+- Além de elevar poder, conecta os pensamentos/visão dos oito e permite COMPARTILHAR golpes imortais entre si (ex.: um membro do fire path conseguiu usar um golpe de space path emprestado de outro membro) (cap. 2182).
+
+### Immortal Gu House revivida/danificada — reconfirmações
+- Star Constellation Chessboard (pequena Immortal Gu House de Heavenly Court no topo de Book Mountain): teleporta à força qualquer inimigo que se aproxime do pico; passível de modificação contínua para continuar funcionando mesmo após uso repetido (risco geral reafirmado: golpes reutilizados arriscam ser decifrados com o tempo) (cap. 2182).
+- Confirma-se possibilidade de destruir permanentemente um Gu Immortal só-alma (sem corpo) por força bruta: Zhan Bu Du destrói completamente a alma de Fairy Maiden Soul (curandeira do immortal graveyard) com um golpe físico (cap. 2182).
+
+### Legends of Ren Zu, cap. 5 seção 37 — lore sobre self Gu, Xi Land/Hu Land e o Rio do Tempo
+- **Lie Gu** (mentira): usado por wisdom Gu para se vingar de Ren Zu, enganando-o sobre a posição de Xi Land/Hu Land.
+- **Attitude Gu** posto sobre self Gu (por conselho de weak Gu) permitiu a Ren Zu enganar a si mesmo — regra: "se um humano engana a si mesmo, seu senso de self o abandona e a pessoa se perde." Self Gu, ao ser "mordido" por betrayal Gu antes, ganhou inclinação a trair e abandonou Ren Zu.
+- **River of Time / truthful floating ice**: o rio contém pedaços de gelo, cada um sendo uma "verdade" fria e silenciosa; humanos, ao pisarem nelas, misturam a verdade com emoção, criando "situações" (o caractere chinês para "situação/coisa" é composto de "verdade" + "emoção", nota de tradução). Diferentes pessoas veem tamanho/forma diferentes no mesmo pedaço de gelo, e sentem emoções diferentes (um chora, outro ri, outro grita de raiva) diante da MESMA verdade.
+- **Good Gu / Bad Gu**: nascem nas palmas de Carefree Wisdom Heart; ajudam a classificar uma "situação" (pedaço de gelo) como boa ou má.
+- **Fortitude Gu** (na lenda, ligado a Great Strength True Martial): suprime emoções, ajudando a resistir ao impacto emocional dos pedaços de gelo — espelha o uso real de fortitude Gu por Fang Yuan no Crazed Demon formation.
+- Esse capítulo da lenda é, na prática, uma alegoria/instrução de uso do próprio Crazed Demon formation (rank 9) revelado neste bloco.
+
 ## 2. Gu catalogados
 | Nome | Rank | Path | Efeito | Alimento | Cap. |
 |---|---|---|---|---|---|
@@ -132,6 +185,19 @@ Contexto do bloco: a narrativa entra na "batalha de Crazed Demon Cave" (oitava/n
 | Serious Gu / Learning Gu / Talent Gu (Legends of Ren Zu) | — | — | Permitem reconhecer "true meaning", converter conhecimento em entendimento real, e reforço de talento | — | 2177 |
 | Self Gu (Legends of Ren Zu) | — | — | Usado por Ren Zu para "morder"/capturar wisdom Gu no Primordial Domain | — | 2177 |
 | Wisdom Gu (Legends of Ren Zu) | — | Sabedoria | Gu final buscado por Ren Zu; escondia-se deliberadamente dentro do Primordial Domain | — | 2176–2177 |
+| Hu Elevation ⭐ | — | Qi (via Hu Land) | Libera todo qi acumulado em Hu Land como feixe único devastador; custo: 30% da essência imortal + 10.000 dao marks de qi path; poder o bastante para ativar retaliação de Limitless | — | 2182 |
+| Seven Kills Rainbow ⭐ | — | Metal+madeira+água+fogo+terra+vento+raio | Evolução do "five technique rainbow"; 7 paths genuinamente fundidos, difícil de bloquear pois exige defesa simultânea contra os 7 | — | 2185 |
+| Sword Tongue Dragon Soul ⭐ | — | Transformação+escravização+alma | Invoca centenas de dragões malignos controláveis; ao morrerem em combate, liberam almas de dragão que crescem em força (10%→60%+) conforme mais dragões morrem | — | 2186 |
+| Calm and Steady ⭐ | — | Força (fortitude Gu + suppression Gu) | Suprime impacto emocional/mental; 2 núcleos rank 8 combinados, mais eficaz que 1 núcleo sozinho | — | 2189 |
+| Fortitude Gu ⭐ | 8 | Força (strength) | Suprime emoções; roubado por Fang Yuan de Myriad Beast Fusion Color Heaven | — | 2187, 2189 |
+| Ability Gu ⭐ | 8 | Força (strength) | Roubado junto com fortitude Gu de Myriad Beast Fusion Color Heaven (efeito específico não detalhado aqui) | — | 2187 |
+| Suppression Gu ⭐ | 8 | — | Obtido por Fang Yuan ao destruir a "river suppression lotus sealing formation" de Heavenly Court antes da guerra do destino | — | 2189 |
+| Practice Gu | — | — | Usado pelos Three Crazed Demon Eccentrics para "esculpir" continuamente o pedaço central de gelo-verdade do Crazed Demon formation, avançando a derivação de eterna vida | — | 2189 |
+| Familial emotion Gu | — | — | Golpe/Gu de Immortal Zombie Giant Sun: compartilha/distribui emoções | — | 2189 |
+| Luck Changing Golden Light Path | — | Sorte | Golpe de Calamity Luck Altar: cria caminho de luz dourada para acesso rápido (usado por Giant Sun para entrar em Primordial Domain) | — | 2184 |
+| Bedazzlement | — | Luz (light) | Golpe de trunfo do clã Liu (Northern Plains): cega completamente a visão do alvo; cura normal exige método de recuperação exclusivo do clã Liu | — | 2188 |
+| Gleaming Light | — | Luz | Bloqueia métodos investigativos de detecção do usuário | — | 2188 |
+| Dark Capital Strength Biao (totem modificado) ⭐ | — | Força/totem | Totem básico "tigre negro dourado" modificado por Hei Lou Lan até virar seu golpe único (totem único); velocidade além da percepção do olho nu, ganhou asas na versão modificada | — | 2188 |
 
 ## 3. Mundo e sociedade
 
@@ -144,9 +210,12 @@ Contexto do bloco: a narrativa entra na "batalha de Crazed Demon Cave" (oitava/n
 - **Heavenly Court sabe a identidade secreta de Qi Sea Ancestor** (clone de Fang Yuan) há algum tempo — Qin Ding Ling descobriu via a grotto-heaven de Heavenly Court (o clone foi criado usando o "qi harvest fruit" de Heavenly Court) mas escolheu não expor essa informação publicamente por cálculo político (evitar dar a Fang Yuan certeza de que o disfarce foi descoberto) (cap. 2175).
 - **Painting path**: confirmado como segredo absoluto de Genesis Lotus Immortal Venerable; mesmo Lu Wei Yin (pseudo-venerável experiente) nunca havia enfrentado esse path antes deste combate (cap. 2175).
 
+- **Northern Plains, pós-Grande Era**: Longevity Heaven (via clãs Huang Jin: Liu, Chanyu, Gong etc.) está unindo à força o mundo de Gu Immortals da região, recrutando compulsoriamente imortais solitários/demoníacos; muitos recrutados à força permanecem quietos por não quererem desafiar as forças do righteous path locais. Nesse vácuo de liderança (Snowy Mountain blessed land destruída, Old Ancestor Xue Hu escondido), a imortal solitária Hei Lou Lan (alcunha "Fairy Black Moon") emerge como polo de resistência, desafiando publicamente experts do righteous path e ganhando adesão espontânea de outros imortais solitários/demoníacos — mecanismo social de formação de facção via duelos públicos com apostas em treasure yellow heaven (cap. 2188).
+- **Treasure yellow heaven como mercado público de alto nível**: confirma-se que fragmentos do Primordial Domain (obtidos por Giant Sun Immortal Venerable) estão sendo abertamente postos à venda ali, chocando o mundo das cinco regiões — primeira vez que um pedaço de um núcleo de Crazed Demon Cave se torna mercadoria pública (cap. 2188).
+
 ## 4. Economia e vida cotidiana
 
-(Sem novidades relevantes de economia cotidiana neste sub-bloco — contexto é batalha de larga escala entre facções veneráveis, não vida comum.)
+- **Aposta pública em duelo formal**: perdedor de um duelo de prestígio envia recursos de cultivo a treasure yellow heaven publicamente como pagamento da aposta; o "treasure light" do local certifica o valor dos itens, funcionando como garantia de lisura perante testemunhas — mecanismo de resolução de disputas entre clãs por duelo + aposta pública (cap. 2188).
 
 ## 5. Estudos de caso mecânicos
 
@@ -158,6 +227,12 @@ Método: Fang Yuan reconstrói, dentro do espaço de herança de Thieving Heaven
 
 ### Caso: contra-ataque em tempo real de um golpe quase-venerável por análise de combate (cap. 2180)
 Método: Giant Sun Immortal Venerable observa "humble reciprocation" (golpe de Fairy Ming Hao via Book Mountain) sendo usado uma primeira vez; na segunda vez que é ativado, ele já formulou uma contramedida — usa Calamity Luck Altar para desviar as tribulações que alimentavam o golpe de volta para o pico da montanha, neutralizando-o e forçando a usuária a cancelá-lo sob risco de morte. Demonstra que mesmo golpes de altíssimo nível podem ser desarmados por análise rápida de um oponente com profundo domínio do path relacionado (aqui, luck path/tribulações), dentro de uma única batalha.
+
+### Caso: negociação forçada por destruição mútua garantida dentro do Primordial Domain (cap. 2186)
+Método: Fang Yuan, incapaz de coletar Primordial Domain tão eficientemente quanto Giant Sun (que tinha método de absorção via aperture), decide simplesmente DESTRUIR ativamente as áreas do domínio que Giant Sun está prestes a coletar, sempre sob o pretexto legítimo de estar "atacando Star Constellation" (não violando o acordo de aliança). Como destruir é mais rápido que coletar, ele consegue interromper Giant Sun repetidamente sem quebrar as regras táticas da aliança. Giant Sun, sem alternativa, negocia dividir os ganhos 50/50 (de um "7/3" oferecido inicialmente) — e ainda cede a Fang Yuan a conveniência de mandar a metade dele para treasure yellow heaven como garantia de boa-fé. Padrão retórico de Fang Yuan: "se eu não posso ter, você também não vai" como alavanca de barganha.
+
+### Caso: infiltração de longo prazo como vantagem decisiva sobre poder bruto (cap. 2190)
+Star Constellation Immortal Venerable vence a disputa por controle do Crazed Demon formation não por força, mas por posse de INFORMAÇÃO acumulada ao longo de mais de um milhão de anos de infiltração de Heavenly Court em Crazed Demon Cave — ela sabe como acelerar a formação sem disparar a retaliação de Limitless, enquanto Fang Yuan e Giant Sun descobrem a regra "na marra" e tarde demais. Reforça um padrão de mundo já visto: vantagem de wisdom path/infiltração histórica pode superar vantagem numérica bruta de dao marks.
 
 ## 6. Glossário
 
@@ -174,6 +249,15 @@ Método: Giant Sun Immortal Venerable observa "humble reciprocation" (golpe de F
 - **Broken Homes and Dead Family**: golpe humano criado por Star Constellation Immortal Venerable, maior contador conhecido de Immortal Gu Houses.
 - **Rugged Fiendish Qi**: golpe de terreno regenerável do qi path (Seven Fiendish Primeval Monarch).
 - **Fiendish qi sea springs**: fontes raras de qi fantasmagórica usadas para criar os 99 Shabi originais.
+- **Starlight shadow (sombra de starlight)**: avatar criado por Star Constellation Immortal Venerable a partir de um lump de starlight do próprio coração num momento de dor/renúncia; mecanismo de revival por fragmentação de identidade.
+- **Crazed Demon formation**: formação rank 9 no coração da 9ª camada de Crazed Demon Cave; construída de "truthful floating ice" do Rio do Tempo; fonte de Book Mountain e Primordial Domain; alimentada pela destruição de mundos/Gu Immortals da 8ª camada; guarda a pesquisa de eterna vida de Limitless Demon Venerable.
+- **Truthful floating ice (gelo flutuante de verdade)**: unidade/núcleo da Crazed Demon formation; cada pedaço é uma "verdade" cristalizada que gera emoções intensas e variáveis por observador ao ser pisado.
+- **Practice Gu**: usado para "esculpir" o pedaço central da formação, avançando a derivação da pesquisa de eterna vida.
+- **Three Crazed Demon Eccentrics**: Secret Schemer (wisdom), Pang Shan (earth), Not Immortal (rule) — moradores de longuíssima data de Crazed Demon Cave, agora agentes de Limitless Demon Venerable na manutenção da formação.
+- **Eternal life (vida eterna)**: invencibilidade completa (imunidade a tempo, espaço e seres vivos) — diferente e superior a mera longevidade, que nem Veneráveis possuem plenamente.
+- **Hu Land / Xi Land**: par de secluded domains complementares (posição "atrás"/"à frente" do Primordial Domain segundo Legends of Ren Zu); combinados, formam um portal de acesso ao Primordial Domain.
+- **Eight Extremities**: formação de batalha antiga que DIVIDE poder entre 8 pessoas (ao invés de reunir em uma), elevando cada uma de rank 7 a elite rank 8 e permitindo compartilhamento de pensamento/visão/golpes entre os oito.
+- **Bedazzlement / Gleaming Light**: golpes do light path (clã Liu, Northern Plains) — cegueira total e bloqueio de detecção investigativa, respectivamente.
 
 ## 7. Dúvidas e lacunas
 
@@ -183,3 +267,7 @@ Método: Giant Sun Immortal Venerable observa "humble reciprocation" (golpe de F
 - Não é dado como exatamente Divine Emperor City reviveu Qing Chou a partir de fragmentos de carne (mecanismo comparável ao da Tomb Earth? processo distinto?) — só o resultado é mostrado (cap. 2180).
 - Se "Dao Lord" é um TÍTULO formal (paralelo a "Venerável") ou apenas uma descrição do attainment supremo recuperado — texto trata como praticamente sinônimo de "Venerável com attainment supremo restaurado", mas a relação exata entre os termos não é 100% esclarecida (cap. 2177).
 - Não é explicado por que Divine Emperor City guarda "mundos de pintura" HABITADOS com população própria (qi howling painting world, growling beast painting world) — origem e propósito desses mundos (colonização? subproduto de refino?) não detalhados (caps. 2175–2176).
+- Não é explicado o mecanismo exato de "familial emotion Gu" de Giant Sun dentro do Crazed Demon formation (compartilha/distribui/dilui a carga emocional? entre quem?) — só o nome e o efeito geral (cap. 2189).
+- Onda de emoções aparentemente sem causa local afetando personagens em Northern Plains (Hei Lou Lan, Liu Luo, um ancião do clã Liu) durante o duelo do cap. 2188 — coincide temporalmente com o Crazed Demon formation sendo atravessado por Fang Yuan/Giant Sun/Star Constellation; possível "vazamento" cross-dimensional de emoções da formação rank 9 para o resto do mundo, mas não confirmado explicitamente no texto — hipótese registrada para checagem futura.
+- Não é dado se "ability Gu" (rank 8, strength path, roubado junto com fortitude Gu) tem efeito específico diferente do já catalogado antes (cap. 2137, V6 bloco anterior: cresce usando calamidades como material) — presume-se ser o mesmo Gu já conhecido, não reafirmado aqui.
+- Não fica claro se o "cage/lantern" secluded domain que Star Constellation traz para o Crazed Demon formation tem efeito prático mostrado no texto além de ser mencionado — segue como referência não detalhada (cap. 2189).

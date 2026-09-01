@@ -20,8 +20,16 @@ veem — um punhado de organizações imortais, uma suserana milenar que paira s
 ==um conjunto de acordos tácitos entre pouquíssimas pessoas que decide o destino de
 regiões inteiras==.
 
+> [!warning] Um só nome para uma só instituição
+> O ==Tribunal Celestial== (em inglês, *Heavenly Court*) é **uma única organização**, não
+> duas. Você vai encontrar por aí a tradução alternativa "Corte Celestial" — inclusive no
+> [[Glossário EN-PT]] deste vault, que registra a forma usada na tradução brasileira da
+> obra. São o mesmo nome da mesma entidade: não existe um "tribunal" judiciário separado de
+> uma "corte" de governo. Desta nota em diante usamos **sempre "Tribunal Celestial"**, que
+> é também o nome do arquivo para onde os links apontam.
+
 > [!note] Escopo desta nota
-> A instituição em si — o que é a Heavenly Court, como se formou, como admite membros e
+> A instituição em si — o que é o Tribunal Celestial, como se formou, como admite membros e
 > quais são seus artefatos — está descrita em [[Tribunal Celestial]]. Esta nota trata do
 > **ângulo político e social**: como esse poder se distribui, quem está abaixo de quem, e
 > como as grandes forças disputam entre si. Boa parte do conteúdo abaixo é marcada como

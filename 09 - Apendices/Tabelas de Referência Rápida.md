@@ -22,6 +22,27 @@ notas temáticas. Cada tabela vem precedida de um parágrafo curto explicando o 
 ela mede e como lê-la — a ideia é que você consiga usar qualquer uma delas sem ter
 lido nenhuma outra nota antes.
 
+> [!warning] Esta nota é a fonte soberana dos números do sistema
+> Um mesmo número — o limiar de aptidão, o piso de dao marks do rank 8, o preço de
+> um Gu — foi escrito à mão em várias notas do vault ao longo da construção. Quando
+> isso acontece, as cópias envelhecem em ritmos diferentes e passam a discordar
+> entre si, e quem consulta recebe duas respostas para a mesma pergunta.
+>
+> A regra do projeto, daqui em diante, é simples:
+>
+> 1. **Se qualquer outra nota do vault divergir de um número desta nota, é esta
+>    nota que vale.** A outra está errada e deve ser corrigida para bater com o que
+>    está aqui — nunca o contrário.
+> 2. **Números novos entram primeiro aqui.** Uma nota temática que precise citar um
+>    número deve repetir o valor daqui e, de preferência, remeter à seção
+>    correspondente em vez de manter uma cópia própria que vai divergir depois.
+> 3. **A única exceção é a obra.** Se o texto original contradisser uma tabela
+>    daqui, a obra vence — mas então o certo é corrigir **esta** nota, e a correção
+>    passa a valer para o vault inteiro.
+>
+> Isso vale para números. Explicações, contexto e exemplos continuam morando nas
+> notas temáticas, que são mais completas do que este resumo.
+
 Duas convenções valem para o documento inteiro:
 
 - **`—` significa "a obra não diz"**, e não "zero" ou "irrelevante". Nada aqui foi
@@ -49,17 +70,30 @@ com que enche: é o limite onde para de encher, mesmo havendo espaço sobrando.
 
 Leia a tabela da esquerda para a direita: o grau é a letra que o mundo usa para
 classificar a pessoa socialmente; a porcentagem é o que esse grau significa
-mecanicamente; a última coluna é o teto de carreira que os clãs ensinam esperar de
-cada grau.
+mecanicamente; a última coluna é o teto de carreira que se espera de cada grau.
 
-| Grau | Capacidade da abertura | Teto de rank esperado |
+Atenção à terceira coluna: ela é **inteiramente `inferido`**. As porcentagens das
+duas primeiras colunas vêm da obra, mas o teto de rank sai de uma conta feita por
+nós, cruzando a faixa de aptidão com a escada de limiares de ruptura da seção 2 — e
+dessa escada só o primeiro degrau (55%) é canônico. Se você mudar os limiares
+inferidos da seção 2, esta coluna muda junto.
+
+| Grau | Capacidade da abertura | Teto de rank esperado (`inferido`) |
 |---|---|---|
 | (sem talento) | abaixo de 20% | **Nunca se torna Mestre Gu.** Não existe grau abaixo do D |
-| D | 20–39% | rank 1; no máximo rank 2 |
-| C | 40–59% | rank 2 (só na faixa alta); rank 3 é quase inédito |
+| D | 20–39% | **rank 1, e só isso** — o teto de 39% nunca alcança os 55% exigidos para romper ao rank 2 |
+| C | 40–59% | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
 | B | 60–79% | rank 3, eventualmente rank 4 |
 | A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
 | Constituição Extrema | 100% | ver [[As Dez Constituições Extremas]] |
+
+> [!warning] O grau D só passa do rank 1 se a aptidão dele for elevada
+> Um grau D que **de fato** chegue ao rank 2 existe na obra, mas nunca como grau D:
+> ele chegou lá porque alguém elevou sua aptidão antes — com um Gu raro, com uma
+> transfusão de essência alheia ou com um método sombrio. O rank 2 não é o teto do
+> grau D; é o que se consegue **depois de deixar de ser** grau D. A distinção
+> importa para o design: "subir de grau" é uma conquista de personagem, e não um
+> acaso da tabela.
 
 Três observações práticas que a tabela não mostra sozinha:
 

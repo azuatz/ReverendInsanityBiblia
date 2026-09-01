@@ -170,3 +170,69 @@ Dicionário EN→PT de todos os termos técnicos do mundo, com definição curta
 - **False Gu** — estágio intermediário de um Gu de alto rank antes de "tornar-se real".
 - **Life-saving token** — item de retirada segura de uma herança.
 - **"To live, one must die"** — método médico de quebrar um poison vow (morrer e reviver).
+
+## Volume 3 (caps. 406–649) — termos novos
+
+### Cultivo, ascensão e alma
+
+- **Heaven qi / earth qi / human qi** — os três qi cuja fusão equilibrada permite ascender a Gu Immortal; human qi = conversão do acúmulo de toda a vida. → cultivo-imortal.md
+- **Immortal aperture** — abertura imortal, o "mundo pequeno" nascido na ascensão; = blessed land (r6-7) ou grotto-heaven (r8-9).
+- **Immortal essence bead / green grape / yellow apricot / red date / white litchi** — contas de essência imortal e seus tiers de qualidade (∝ rank do produtor).
+- **Immortal essence stone** — pedra de essência imortal; moeda entre Gu Immortals (1 > 100 milhões de pedras primevas); só a Heavenly Court produz.
+- **Soul foundation / X man soul (hundred/thousand/ten thousand/hundred million man soul)** — fundação da alma medida em múltiplos da alma comum. → cultivo-mortal.md
+- **Gutstone / guts Gu / Dang Hun mountain / Luo Po valley** — pedra de almas fundidas / Gu efêmero que fortalece a alma / as duas terras sagradas do soul path (fortalecer × refinar).
+- **Wolfman soul / crabman soul** — almas compostas humano-besta (refino qualitativo).
+- **Regional suppression** — supressão de 1 rank ao cruzar regiões; pessoa readapta, Gu worms não. → cultivo-mortal.md
+- **Master / grandmaster** — graus formais de maestria (em refino, paths etc.).
+- **Three Olds** — os três supremos grandmasters de refino da história (Tian Nan, Kong Jue, Long Hair Ancestor).
+- **Purple crystal relic Gu** — 5º tier da série relic (r5).
+
+### Immortal Gu, blessed lands e vontades
+
+- **Immortal Gu house** — killer move solidificado de 10+ Gu (Water Pavilion r7, Eighty-Eight True Yang Building r8). → cultivo-imortal.md
+- **Owner token / guest token / edge (aresta) / glass owner token** — tokens de controle/acesso da True Yang Building; 1 edge = 1 andar.
+- **Land spirit ("3 chances", condição de posse)** — regras completas em cultivo-imortal.md.
+- **Will (vontade) / special will / fake will / obsession** — camadas de espiritualidade do wisdom path; vontades residuais de mortos. → cultivo-imortal.md, paths.md
+- **True inheritance (ordinary / unparalleled / supreme)** — heranças verdadeiras de um Venerável, por grau.
+- **True Inheritance Secluded Domain** — domínio de bolso das heranças de Giant Sun (acesso: 10-edge token).
+- **Winds of Assimilation** — quarentena natural da morte de uma blessed land.
+- **Top Ten Catastrophes / Chaotic Branching Teeth / Snow War Tribulation Lightning** — categoria ranqueada de fenômenos supremos de tribulação.
+- **Formless Hand** — killer move residual de Thieving Heaven: mãos que roubam Gu (dedos = rank).
+- **Quasi grotto-heaven** — blessed land com ciclo dia/noite, à beira de virar grotto-heaven.
+- **Treasure yellow heaven / treasure light** — mercado universal dos Gu Immortals / métrica de valor em feixe de luz.
+- **Otherworldly demon** — categoria de ameaça mundial (transmigrados); rivaliza com rank 9 se crescer.
+
+### Northern Plains e sociedade
+
+- **Super tribe** — tribo com Gu Immortal E blessed land próprios (única que atravessa eras).
+- **Imperial Court / Imperial Court blessed land / lord** — trono decenal de Northern Plains e sua terra-refúgio contra o blizzard. → sociedade-e-organizacoes.md
+- **Heroes assembly** — assembleias regionais que formam as alianças da disputa decenal.
+- **Great blizzard (decenal)** — nevasca-calamidade exportada do Imperial Court blessed land via Divert Disaster Gu.
+- **Huang Jin family** — linhagem de sangue de Giant Sun; autoridade suprema regional.
+- **Battle merit** — moeda de guerra (1 = 10 pedras primevas); também multa/reparação.
+- **Supply camp / battle merit board** — logística e ranking dos exércitos de aliança.
+- **External supreme elder / seed** — ancião externo imortal / talento cultivado em segredo por um patrono.
+- **Death warrior** — guerreiro descartável doutrinado para morrer sob ordem.
+- **Expert challenge** — duelos formais de especialistas antes da batalha geral.
+- **Eighty-Eight True Yang Building / Sacred Palace** — Gu house r8 do Imperial Court / palácio de Giant Sun.
+- **Wolf King / Five Beast Kings** — epíteto de mestre de escravização em larga escala / ranking informal dos 5 maiores enslavement masters da região.
+- **Beheading the leader** — tática de decapitação de comando (colapsa exércitos de bestas).
+- **Killer move cooperativo / multiusuário / self-harming** — categorias novas de killer move. → gu-sistema.md
+
+### Fauna, raças e mitologia
+
+- **Desolate beast / ancient / immemorial desolate beast** — tiers supremos de bestas (immemorial ≈ rank 8).
+- **Beast emperor** — topo da hierarquia de liderança (Gu r5 no corpo; força de rank 5).
+- **Rockman / snowman / inkman / eggman** — variantes humanas novas (biologia em transformacoes-e-corpos-especiais.md).
+- **Icy tears** — lágrimas de gelo de snowman (material raro; 3 choros/60 gotas por vida).
+- **Door of Life and Death (estrutura) / road of death / road of life / reverse flow river / path of destiny** — geografia mítica completa. → mundo-e-cosmologia.md
+- **Cheng Bai mountain / success Gu / failure Gu / cognition Gu / love Gu** — mitos de Ren Zu novos.
+- **Qian Kun Crystal Wall / book mountain / grey-white stone slab** — origem mítica da escrita; fragmentos colecionáveis.
+- **Space cave / space door** — terreno proibido espacial que conecta as 5 regiões.
+- **Blue sea / life Gu** — fonte mítica de toda a vida.
+- **Eras (Immemorial/Remote/Olden/Medieval/Late Antiquity)** — linha do tempo formal.
+- **Heavenly zombie / zombie speckles / zombie energy** — estado meio-morto; marcas e energia da zumbificação. → transformacoes-e-corpos-especiais.md
+- **Great Strength True Martial Physique** — 4ª das Ten Extreme Physiques nomeada (exige Immortal Gu de strength path para ascender).
+- **Jin / jun** — unidades de força (1 jun = 30 jin ≈ 15 kg).
+- **Spirit spring eye / spring egg Gu** — semente de nascente espiritual.
+- **Hong Yan valley / poison grassland / crescent lake / Snowy Mountain blessed land** — geografia de Northern Plains.

@@ -62,3 +62,25 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
 - 2026-09-01 — Nova convenção do usuário adotada em toda a consolidação do V2 em
   diante: marcar fatos com `[comum]` / `[especializado]` / `[segredo]` conforme quem
   os conhece no mundo (na dúvida, não marcar). Vol. 1 não foi retro-marcado.
+- 2026-09-01 — Consolidação do Volume 3 (caps. 406-649): NENHUM domínio novo — tudo
+  coube na taxonomia. Alocações decididas: **ascensão completa (3 passos/3 qi/grades
+  de blessed land), land spirits/"3 chances", vontades residuais, Immortal Gu houses,
+  Veneráveis (lista 9/10), treasure yellow heaven (mecânica), Three Olds** →
+  `cultivo-imortal.md`; **supressão regional, família relic completa, fundação da
+  alma ("X man soul"), densidade de cultivadores, master/grandmaster** →
+  `cultivo-mortal.md` (fundação da alma vive ali como eixo de progressão geral, com
+  cross-ref ao soul path em paths.md); **categorias de killer move
+  (cooperativo/multiusuário/self-harming), Gu houses como killer moves, técnicas de
+  refino de grandmaster, Gu vital fechado, Gu ligado a objeto** → `gu-sistema.md`;
+  **soul/luck/wisdom/phantom/rule/dark/star/restriction/transformation paths + jin-jun**
+  → `paths.md`; **eras históricas, blizzard decenal (origem), lendas novas de Ren Zu,
+  hierarquia completa de bestas, Heavenly Court/Fate Gu (1ªs menções), otherworldly
+  demon** → `mundo-e-cosmologia.md`; **sociedade tribal de Northern Plains + Imperial
+  Court como instituição** → `sociedade-e-organizacoes.md`; **economia imortal
+  (preços em stones/treasure light) + battle merits** → `economia-e-vida.md`;
+  **zumbificação profunda (heavenly zombie, preço final), 4ª physique, variantes
+  humanas (rockmen/snowmen/inkmen/eggmen), human skin Gu** →
+  `transformacoes-e-corpos-especiais.md`; **lifespans de Veneráveis, métodos imortais
+  de extensão (Possession/Yin-Yang), lifespan como custo de dedução** →
+  `longevidade.md`. Catálogo V3 em bloco próprio ao final de `catalogo-gu.md`;
+  +14 estudos de caso.

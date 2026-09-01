@@ -763,7 +763,7 @@ parar**.
 | Flying Zombie Gu | 5 | Primeiro estágio voador da linha | Dieta não informada; no rank 5 a refeição é rara — a cada um ou dois anos — e caríssima (ded.) | **Voar só é possível a partir deste estágio**: nenhum degrau anterior da linha voa | Último degrau da progressão, com cinco variantes paralelas de rank 5 | Cinco variantes conhecidas — os "Cinco Grandes Zumbis Voadores" — com especializações diferentes | — |
 | Djinn Heart / Body / Mind Gu | 4 | Trio que triplica força física e mental | Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é grande (ded.) | Temporário | Só rende com os três em conjunto (ded.) | Triplica dois atributos ao mesmo tempo | Exige três Gu de rank 4 simultâneos: um orçamento que quase ninguém tem |
 | Change Form Gu | — | Disfarce por mudança de forma | pelo e pele de animais variados * | — | — | — | — |
-| Nine Leaf Vitality Grass → Wood Charm Gu | 3 | Transformação vegetal progressiva | Dieta não informada; no rank 3 o intervalo entre refeições já é de cerca de um mês (ded.) | Irreversível se levada longe demais | Refino reconhecidamente difícil — mais difícil que o de outros Gu de rank 3 da mesma época. Avança fundindo com um Lifespan Gu de cem anos (e depois com um de mil): rota que todo mundo conhece e quase ninguém usa, pelo custo | Concede absorção de essência do ambiente e amplifica todos os Gu de planta | Mesmo mecanismo da linha zumbi: o corpo vira madeira de vez |
+| Wood Charm Gu | 3 | *(ficha principal no caminho da madeira — ver acima)* | — | — | Refino reconhecidamente difícil — mais difícil que o de outros Gu de rank 3 da mesma época. Avança fundindo com um Lifespan Gu de cem anos (e depois com um de mil): rota que todo mundo conhece e quase ninguém usa, pelo custo | listado aqui por também ser transformação | — |
 
 ---
 
@@ -993,7 +993,6 @@ degrau dela tem uma condição diferente sobre o estado do corpo.
 | Rising Dead Gu | 4 | Ressuscita quem morreu há menos de catorze horas | Não se alimenta: consome-se no uso único (ded.) | Uso único | **Obtido só por sorte**: não há receita | O melhor Gu de cura de rank 4, e o degrau mais acessível de ressurreição | Exige corpo intacto e uma janela de catorze horas; e não se pode planejar tê-lo |
 | Spirit Peach Gu | 5 | Cura de renome regional | Dieta não informada; no rank 5 a refeição é rara — a cada um ou dois anos — e caríssima (ded.) | — | — | Referência de cura de uma região inteira | — |
 | Remnant Life Gu | 5 | Ressurreição depois da morte | Não se alimenta: é Gu de gasto, consumido no uso único (ded.) | Uso único, e o efeito dispara sozinho quando o dono morre | — | Reanima o dono sem depender de terceiros | Exige que o **corpo permaneça intacto**; é suprimido dentro de uma terra abençoada, e destruir o corpo o anula |
-| Life-Saving Recovery Pill | — | Revive mesmo a partir de destruição total, em poucas respirações | Não se alimenta: é pílula, consumida no uso (ded.) | Age em poucas respirações, sem exigir ação de terceiros | — | O topo da escada: dispensa até a condição de corpo intacto | **Enfraquece a cada uso sucessivo** |
 
 ---
 
@@ -1071,3 +1070,11 @@ mês. Escolher a rota de fusão é escolher qual conta pagar pelo resto da vida.
 - [[Refino de Gu]] · [[Killer Moves]] · [[Visão Geral dos Paths|Paths]]
 - [[Tabelas de Referência Rápida]] — ranks, cores, taxas de refino
 - [[Glossário EN-PT]] — o vocabulário usado aqui
+
+> [!warning] Uma entrada removida daqui
+> A **Pílula de Recuperação Salva-Vidas** já constou desta tabela e foi retirada: ela
+> **não é um Gu**. A obra a apresenta como um *golpe matador imortal* — a categoria
+> descrita em [[Killer Moves]] —, pertencente a uma criatura de patamar imemorial.
+> Ela revive mesmo a partir de destruição total, em poucas respirações e sem depender
+> de terceiros, e enfraquece a cada uso sucessivo. Fica registrada aqui só para que
+> ninguém a procure como item adquirível.

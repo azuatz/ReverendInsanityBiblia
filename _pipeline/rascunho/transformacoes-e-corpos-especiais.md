@@ -6,8 +6,25 @@ status: rascunho-interno
 
 # Transformações e corpos especiais
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
-> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, variantes humanas (hairy men), modificações corporais permanentes, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
+
+## Resumo do domínio
+
+O corpo é um segundo eixo de progressão, paralelo ao cultivo: pode ser **modificado permanentemente** (ossos de ferro/jade, tendões de aço, pele de bronze — cada camada deixando uma "marca do Dao" que precisa ser planejada, pois conflita com outras leis), **transformado de espécie de existência** (zumbificação — com sua própria escada de ranks e ecologia selvagem; espírito de árvore; estátua de gelo) ou **nascer excepcional** (as Ten Extreme Physiques, camada secreta acima do grau A de aptidão; e variantes humanas naturais como os hairy men, nascidos refinadores de Gu). Toda rota corporal é um pacto: poder acelerado ou existência estendida em troca de fraquezas estruturais fixas, custos contínuos e, com frequência, um relógio de autodestruição.
+
+## Regras do mundo
+
+1. `[especializado]` Modificações corporais permanentes deixam camadas da lei correspondente (dao marks): dificultam cura incompatível e interferem com Gu de luz/espaço/vento; builds físicas são quase irreversíveis e devem ser planejadas (caps. 233, 266, 292, 307).
+2. `[comum]` Força além da estrutura fere o próprio corpo: reforço de força exige reforço ósseo/tendíneo correspondente (caps. 205, 232-233).
+3. `[comum]` Zumbis: fracos a fogo/raio/luz/dia; abertura morta (essência só via pedras); insensibilidade corta dor E percepção. Só o Lifespan Gu é a rota de longevidade "reconhecida pelo Céu e a Terra".
+4. `[comum]` Zumbis selvagens evoluem por dieta de sangue numa escada de cores de cabelo (branco → preto → verde → azul); a toxina ptomaine propaga a condição a novos corpos indefinidamente (caps. 253-256).
+5. `[especializado]` Ten Extreme Physiques: 100% de aptidão, cultivo que acelera com o rank, e morte precoce como preço; conhecidas ("não é segredo") entre clãs de alto nível, cada uma com assinatura visual e fraquezas mapeadas (cap. 303).
+6. `[comum]` Variantes existem em todas as espécies — "dez lobos, um lycan; entre tigres, o Biao; entre cães, o mastiff; entre humanos, o hairy man" (cap. 357).
+7. `[comum]` Transformações de gênero e de corpo são mecânicas reais e reversíveis apenas por rotas raras/caras (Yin Yang Rotation Gu; reversão com ajuda de rank 6, cap. 271).
+
+## Marcação de conhecimento
+`[comum]` para a existência de zumbis e modificações corporais; `[especializado]` para as physiques e a metafísica de dao marks; `[segredo]` onde indicado.
 
 ## Zumbificação
 
@@ -83,8 +100,53 @@ Detalhe completo em cultivo-mortal.md (seção Graus de Aptidão). Resumo do que
 - **Vínculo mortal-Gu sem cultivo**: um mortal sem abertura pode ganhar a companhia/proteção de um Gu selvagem poderoso por afeto (lenda de Jiang Fan e o River Swallowing Toad), sem virar Mestre Gu e sem status — desafiar a ordem social assim atrai retaliação letal (cap. 118).
 - **Renascimento temporal**: a migração de consciência rio acima no tempo via Spring Autumn Cicada (mecânica cosmológica completa em mundo-e-cosmologia.md) é a forma extrema de "existência alternativa" — só a consciência atravessa; o corpo nunca (cap. 187).
 
+---
+
+> fontes desta seção: ["cap. 253-257", "cap. 267", "cap. 275", "cap. 292", "cap. 297", "cap. 301-303", "cap. 313-314", "cap. 326", "cap. 354-358", "cap. 367-368", "cap. 395-396"]
+
+## Atualizações do Volume 2 (caps. 200–405)
+
+### Zumbis selvagens — a escada de cores (linhagem Zombie King)
+
+`[comum]` Além da rota de auto-zumbificação do Vol. 1 (Roaming Zombie → Flying Zombie), o V2 revela a ecologia de zumbis CRIADOS (running corpse Gu, r2, produzido pelo zombie heart Gu r3) e selvagens (Mu Bei mountain):
+
+| Estágio | Força | Sol | Evolução |
+|---|---|---|---|
+| Cabelo-branco | mais fraco que feras comuns | dano solar; imóvel de dia | anos bebendo sangue |
+| Cabelo-preto | ≈ hundred beast king | sofre dano mas não teme | anos bebendo sangue |
+| Cabelo-verde | ≈ thousand beast king (à noite) | — | exige cadáver de rank 4 que usou Gu de força em vida + 1-2 anos de sangue fresco |
+| Cabelo-azul | evolução final documentada | — | — |
+
+- Zumbis criados pelo running corpse Gu EVOLUEM nessa escada; criações de "mother Gu" comuns não evoluem (cap. 256). Controle de horda consome concentração/alma contínuas; forçar controle fino causa exaustão mental de ~1 dia (caps. 256-257). Ptomaine infecta cadáveres criando zumbis novos indefinidamente (cap. 253).
+
+### Modificações corporais permanentes (build física — regras consolidadas)
+
+- Arsenal documentado: iron bone → essence iron bone (2-3× ossos); jade bone (duro e flexível); steel tendon → golden steel tendon; bronze skin (r3 permanente) → ancient bronze skin; copper skin; ice muscles; carapaças e costelas externas (herança Bai Gu) (caps. 232-233, 288-292, 301, 354-355, 368).
+- Regras: exigem essência de alta qualidade e/ou tempo de uso contínuo; processos dolorosos podem matar usuários de vontade fraca; dias de fraqueza pós-uso (caps. 232-233); método "masoquista" acelera 30% (imersão em bronze fervente, cap. 354); histórico corporal altera resultados de Gu posteriores (asas ósseas nascem pretas/metálicas num esqueleto já ferrificado, cap. 358).
+- Beast phantoms como "órgão" adquirido: dao marks de força latentes; removíveis com lei de destruição (~19 dias, Yin/Yang cloud Gu) para abrir espaço a fantasmas melhores (cap. 297).
+
+### Ten Extreme Physiques (expansão V2)
+
+- `[especializado]` Terceira nomeada: **Desolate Ancient Moon physique** (cap. 303 — bate com a filha de Ren Zu "Desolate Ancient Moon", cap. 357, reforçando a ligação com os filhos de Ren Zu). Já nomeadas: Northern Dark Ice Soul, Ancient Moon Desolate Yin (Vol. 1 — verificar se "Ancient Moon Desolate Yin" e "Desolate Ancient Moon" são a mesma; provável variação de tradução).
+- `[especializado]` Northern Dark Ice Soul em detalhe (Bai Ning Bing): aptidão se REGENERA sozinha rumo a 100% conforme cultiva (92% cap. 301 → 96% cap. 326); essência de rank/qualidade maior acelera o retorno — motivo para ADIAR avanço de rank quando o efeito é indesejado (cap. 275); a 100%, o corpo reverte ao gênero verdadeiro (nascida fêmea, gênero verdadeiro masculino, caps. 395-396); permite 5 tarefas mentais simultâneas (acima do teto de elite de 3, cap. 314); autodestruição real tem poder capaz de acuar rank 5 — e é simulável por combo ice crystal + ice explosion Gu como blefe (cap. 396); um confronto envolvendo a physique congelou uma montanha inteira permanentemente — assinatura reconhecível por especialistas; nem um rank 5 comum reproduziria o efeito (caps. 267, 303).
+- `[especializado]` Um portador de physique detém o recorde histórico do teste comercial do clã Shang (Shang Gui Cai, 1.110.000) — physiques não são só combate (cap. 322).
+- `[especializado]` Essência amarelo-dourada (r4) de "limpeza" forte pode ser danosa a físicos de alma especiais mesmo com aptidão alta (cap. 326).
+
+### Variantes humanas: hairy men
+
+`[comum]` **Hairy man**: variante humana natural (análogo do Biao/lycan/mastiff), coberto de pelos, baixa inteligência, talento INATO de refino de Gu; seguem por natureza quem refinar melhor que eles; obstáculo padrão da King Xin Inheritance e "herança viva" de quem completa a 100ª rodada (caps. 356-358, 389). Origem mitológica nas Legends of Ren Zu (cap. 357; ver mundo-e-cosmologia.md).
+
+### Outras formas (V2)
+
+- Corpo-criança permanente: return to childhood Gu (ver longevidade.md) (cap. 367).
+- Estátua de gelo: risco terminal do ice crystal Gu em uso prolongado (cap. 313).
+- Corpo expandido: Djinn Transformation (triplica força/mente temporariamente; quebra as próprias armaduras rígidas) (cap. 319).
+- Deformidade cumulativa por space path: warp Gu (cap. 397).
+- Gordura como mecânica: corpo obeso + Gu de controle = "espelho" que devolve 80% do impacto recebido (Zhu Ba; falha de concentração = backlash total, caps. 299-301).
+
 ## Lacunas do domínio
 
 - Faixa exata do grau D e o que existe abaixo de 40% de aptidão.
-- Lista completa das dez physiques (só 2 nomeadas até aqui).
-- Custos/vantagens dos estágios intermediários de zumbi (Fur/Jumping) não detalhados.
+- Lista completa das dez physiques (3 nomeadas; confirmar se Ancient Moon Desolate Yin = Desolate Ancient Moon).
+- Custos/vantagens dos estágios intermediários de zumbi (Fur/Jumping) não detalhados; relação exata entre a escada de cores selvagem e a escada de Gu de auto-zumbificação (paralelas? convergem?).
+- A "fraqueza conhecida" genérica das ten extreme physiques (citada no cap. 303) não foi detalhada.

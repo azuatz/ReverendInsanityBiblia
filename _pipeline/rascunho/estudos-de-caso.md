@@ -6,8 +6,19 @@ status: rascunho-interno
 
 # Estudos de caso mecânicos
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
 > Formato por caso: regra ilustrada → método → por que funcionou → exceção ou regra. Sem enredo além do mínimo mecânico.
+
+## Resumo do domínio
+
+Repositório de casos concretos que ILUSTRAM as regras dos demais domínios em ação: como as leis do mundo são exploradas, combinadas e viradas do avesso por quem as entende. Cada caso é um precedente mecânico ("isso é possível, custou X, funcionou porque Y") — matéria-prima para aventuras, NPCs e rulings de mesa.
+
+## Regras do mundo (meta-padrões que os casos revelam)
+
+1. Vitórias contra oponentes mais fortes vêm de explorar REGRAS estruturais (custos, condições, incompatibilidades), não de poder bruto.
+2. Informação prévia é o recurso mais decisivo do mundo — conhecimento de receitas, rotas, hábitos e eventos vale mais que qualquer Gu isolado.
+3. Todo sistema de garantia (contratos, proteções, selos, reputação) tem letra exata — e a letra é sempre explorável.
+4. Recursos têm dupla função: um ataque inimigo pode ser matéria-prima; um refém pode ser escudo; uma derrota pública pode ser investimento em reputação.
 
 ## Cultivo e avanço
 

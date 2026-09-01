@@ -6,8 +6,23 @@ status: rascunho-interno
 
 # Economia e vida cotidiana
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
-> Domínio: pedras primevas, preços, rendas, mercados/lances, rock gambling, merit points, heranças e eventos jogáveis, cotidiano.
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+> Domínio: pedras primevas, preços, rendas, mercados/leilões, rock gambling, merit points, heranças e eventos jogáveis, cotidiano.
+
+## Resumo do domínio
+
+A economia gira em torno das **pedras primevas** — moeda universal E recurso de cultivo (fonte direta de essência), produzidas por **spirit springs** (a base territorial de todo clã; nascente seca = crise existencial). O ouro é mero material de refino (cap. 241). O mercado tem camadas: varejo local e caravanas; cidades-mercado (o modelo Shang, com acesso duplo dinheiro+token); **leilões** (diário/quinzenal/mensal, grandes bienais); **rock gambling** (fósseis de Gu em 5 graus de preço); e o mercado supremo de **receitas** (valem mais que os Gu que produzem). Preços escalam por rank em ordens de grandeza (r1 ≈ 500 → r5 ≈ 1.000.000; r6 fora de mercado). A vida cotidiana dos Mestres Gu é tensionada por dinheiro (alimentação de Gu, refino, cultivo); a dos mortais é barata e descartável. Eventos jogáveis são o motor social: arenas, torneios, heranças, competições de caça, festivais e leilões.
+
+## Regras do mundo
+
+1. `[comum]` Pedras primevas = moeda + mana; esse duplo papel ancora o valor e faz crises de cultivo virarem crises monetárias (merit points de guerra, Vol. 1).
+2. `[comum]` Spirit springs produzem as pedras; clã sem nascente definha — a informação de uma nascente secando é segredo de Estado e vale extorsões milionárias (caps. 294-296).
+3. `[comum]` Preço por rank de Gu (cap. 278): r1 ≈ 500; r2 ≈ 500-1.000; r3 ≈ 1.000-10.000; r4 ≈ 10.000-100.000; r5 ≈ 100.000-1.000.000; r6 nunca à venda. Gu raros de rank baixo custam como Gu comuns de rank alto.
+4. `[comum]` Receita > Gu: receita exclusiva vale ordens de magnitude mais que os exemplares (caps. 262, 308-309 — recorde de leilão foi uma receita, 670.000).
+5. `[comum]` Acesso é moeda dupla: dinheiro + autorização política (tokens) para itens raros, zonas internas e serviços de elite (caps. 261-263, 271).
+6. `[comum]` Lucro "legítimo" de comércio tem teto ~7-8× por rota; ilegal chega a dezenas de vezes; roubo/assassinato é "lucro infinito" (cap. 243).
+7. `[comum]` Informação é mercadoria de primeira classe: intel de arena, segredos de clã, localização de heranças — vendável, inclusive duas vezes a facções rivais (caps. 294-296, 325, 327-328).
+8. `[comum]` Notícias movem preços instantaneamente (requisitos de herança anunciados = 3× em dias; especulação e insider trading existem e funcionam) (cap. 324).
 
 ## Pedras primevas (primeval stones)
 
@@ -70,8 +85,63 @@ Subsídio de academia (3 pedras/semana) e cargos (monitor 10/semana); prêmios d
 - Aos 16 anos é-se adulto ("idade de reprodução") e mora-se sozinho (cap. 81). Mortais só comem carne de porco no ano novo (topografia íngreme limita criação de gado — cap. 64). Contabilidade em papel de bambu + ábaco; gestão de mortais por "força + misericórdia" (cap. 103).
 - Trajes: uniforme de Mestre Gu com cinto/placa de rank; mortais cedem passagem até a um rank 1 (cap. 87).
 
+---
+
+> fontes desta seção: ["cap. 234", "cap. 240-244", "cap. 259-283", "cap. 276-280", "cap. 289-296", "cap. 302-309", "cap. 315", "cap. 322-328", "cap. 335", "cap. 351-354", "cap. 358", "cap. 373", "cap. 379", "cap. 383"]
+
+## Atualizações do Volume 2 (caps. 200–405)
+
+### Preços e referências novas (tabela de choque de escala)
+
+`[comum]` O Volume 2 sobe a régua monetária em ordens de magnitude:
+
+| Item/serviço | Preço (pedras primevas) | Cap. |
+|---|---|---|
+| Entrada na cidade Shang | 10/pessoa (suborno aceito) | 259, 293 |
+| Ingresso de arena (espectador) | 20 | 315 |
+| Multa por ferir cidadão comum | 49 | 330 |
+| Pensão de Gu (mensalidade, r1) | 80 | 265 |
+| Hospedagem 3ª cidade interna | 30-100/dia (grau especial exige token) | 263 |
+| Mandado de captura (par r1+r3) | 1.000 info / 5.000-8.000 morte | 234 |
+| Ice crystal Gu (r3) | 28.000 | 277 |
+| Flash of inspiration Gu (r3, consumível) | ~29.000 (exige token alto) | 282 |
+| Frost breath Gu (r3, leilão) | 38.000 | 296 |
+| Self-reliance Gu (r3, raro) | 45.000 | 292 |
+| Relic Gu por cor | 2.000 / 8.000 / 50.000 / ~300.000 | 278 |
+| Tratamento rank 5 (dano permanente) | ~100.000 | 302 |
+| Grass tree army Gu (r4 "absoluto") | 250.000 | 296 |
+| Bitter strength Gu (r4, mercado / leilão de ego) | ~380.000 / 810.000 | 304, 307 |
+| Chasing wind Gu (r4, leilão) | 440.000 | 307 |
+| Atmosphere Gu (r4, leilão) | 500.000 | 308 |
+| Receita da Monarch Lotus (recorde do leilão) | 670.000 | 308-309 |
+| Refino da nine eyes liquor worm (custo) | ~200.000 | 326 |
+| Bone wings Gu (materiais de refino) | ~180.000 | 358 |
+| Extorsão por segredo de spirit spring | 3.000.000 (500.000 em 1 dia) | 294-296 |
+| Essência imortal (câmbio) | ~30.000.000 ≈ 2/16 da reserva de uma blessed land | 379, 383 |
+
+- `[comum]` Ouro NÃO é moeda: apenas material de refino (Huang Jin mountain, cap. 241).
+- `[comum]` Exibir essência primeva funciona como credencial/cartão de visita (restaurante Four Seasons: andares por rank, descontos crescentes, rank 4 grátis) (caps. 259-261).
+- Ganhos de arena: milhares de pedras/luta (proporcional ao público) + 1 Gu do perdedor; um lutador de elite acumulou ~1.000.000 em 1,5 ano e 2.400.000 em ativos totais com especulação (caps. 289, 304, 307, 324).
+
+### Leilões (novo no V2)
+
+`[comum]` Sistema em camadas na cidade Shang: pequeno diário, médio quinzenal, grande mensal + "super leilão" bienal (caps. 265, 296). Leilões grandes só listam rank 3+; vendem Gu, comida rara de Gu, materiais, RECEITAS, informação sobre heranças, pedras de aposta perfeitas, escravos e até reis-fera capturados (cap. 296). Token roxo-espinho dá compra antecipada só em leilões pequenos (cap. 296). Táticas documentadas: inflar lances para drenar rivais por ego (cap. 307-308); empréstimos informais milionários entre aliados na palavra (cap. 306).
+
+### Rock gambling (expansão V2)
+
+`[comum]` Classificação em 5 graus de preço: sucata (~10+), baixo (~100), médio (~1.000), alto (~10.000), super (centenas de milhares) (cap. 276). Origem confirmada: Gu ferido/faminto hiberna e fossiliza; dao marks alteram a rocha (cap. 276). Correlação pedra↔Gu (stellar stones → Gu estelares; formato do fóssil denuncia a espécie) (cap. 276). Profissão: rock dissecting master, com métodos por tipo (magnetismo, ácido, fogo, vento; método errado mata o Gu); dissecação grátis para graus alto/super, paga para baixo/médio (cap. 276-277). Falsificação em massa já derrubou o valor do grau sucata na região inteira (Wei Shen Jing, cap. 276). Esconder Gu valiosos em pedras é técnica de espionagem (cap. 283).
+
+### Profissões e serviços novos
+
+`[comum]` Recipe master (criador de receitas); rock dissecting master; refino por procuração; curandeiros de elite (mercado dos "quatro grandes médicos"); negócio de informação de arena (rankings/previsões); casas de aposta (proibidas sobre a arena Shang); agiotas (loan sharks, cap. 296); mercado de contratos de assassinato (pedras + tokens como pagamento, cap. 335); comércio de escravos (monopólio de sangue do clã Shang); "pequena fortuna" pessoal de um itinerante de elite: 50.000 de sinal em transação demoníaca (cap. 354).
+
+### Eventos jogáveis novos do V2
+
+Arena/battle stage (regras completas em sociedade-e-organizacoes.md); leilões e super leilões; competições de caça de clã (fachada para operações, caps. 215-219); Auspicious Festival do Shang (feira anual, cap. 326-328); teste comercial de jovem mestre (capital 100.000 / 3 meses, cap. 322); heranças de blessed land (Three Kings, Hu Immortal); pedágio ritual de luta de braço (cap. 240); expedições anti-zumbi anuais (cap. 253); rock gambling por grau.
+
 ## Lacunas do domínio
 
-- Mercados de rank alto (leilões imortais, Treasure Yellow Heaven): nada ainda.
+- Mercados de rank alto imortais (Treasure Yellow Heaven etc.): nada ainda.
 - Câmbio formal pedra ↔ moedas mortais (se existir).
-- Detalhamento do teto de "conta"/crédito informal.
+- Multiplicadores exatos de custo de vida por rank 4-5.
+- Preço de mercado de um Gu Immortal: por definição "não tem" (nunca vendido) — confirmar se há exceções.

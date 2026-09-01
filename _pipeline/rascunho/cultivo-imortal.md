@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Cultivo imortal (ranks 6–9, blessed lands, dao marks, Gu Imortais)
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> O Volume 2 transformou este domínio de "semente" em corpo real; o **Volume 3 entrega o processo COMPLETO de ascensão mortal→Gu Immortal** (3 passos, 3 qi, modos de falha, grades de blessed land com números), a mecânica de land spirits/vontades residuais, os Immortal Gu houses, a lista quase completa dos Veneráveis (9/10 nomeados, com lifespans) e a economia imortal (treasure yellow heaven, immortal essence stones).
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> O Volume 2 transformou este domínio de "semente" em corpo real; o **Volume 3 entrega o processo COMPLETO de ascensão mortal→Gu Immortal** (3 passos, 3 qi, modos de falha, grades de blessed land com números), a mecânica de land spirits/vontades residuais, os Immortal Gu houses, a lista quase completa dos Veneráveis (9/10 nomeados, com lifespans) e a economia imortal (treasure yellow heaven, immortal essence stones). O **Volume 4 entrega o esqueleto quantitativo do reino imortal**: a teoria unificada dos dao marks (cap. 821, com números — 100 marks ≈ +10%, cap. 852), o calendário completo de calamidades/tribulações por rank e o critério formal de avanço 6→7→8→9 (caps. 740, 826, 1007), o framework de gaps entre ranks (7→8 = "céu e terra"; 9 = invicto), a tabela completa de grades de blessed land (cap. 939), a life-and-death aperture (-50% de tribulação, cap. 938-939), a hierarquia das quatro essências imortais (green grape → red date → white litchi → yellow apricot) e as regras maduras de Immortal Gu (troca, ressonância de path 130%/60-70%, roubo, alimentação).
 
 ## Resumo do domínio
 

@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 860–901 (Volume 4)
 
-> Progresso da leitura: até o cap. 879
-> Status: em-andamento
+> Progresso da leitura: até o cap. 901 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -268,3 +268,267 @@ Fang Yuan, disfarçado de um Gu Immortal star path fictício ("Xing Xiang Zi") v
 - Natureza exata da técnica de information path imortal que quebrou o isolamento da Twelve Wave Cloud Confusion Formation não foi detalhada — só se sabe que é "nível imortal" e rara.
 - Poder real de Qin Bai Sheng ainda incerto — testemunhas avaliam como "nível Feng Jiu Ge", pode ser rank 7 excepcional ou rank 8 oculto; não confirmado neste bloco.
 - Ainda nenhum dado numérico de % de aptidão para ruptura de rank neste sub-bloco (870-879) — lacuna prioritária de LACUNAS.md segue sem resposta; continuar monitorando.
+
+---
+
+### [Caps. 880-889] Land spirit sem alma — imunidade a soul suppression (cap. 880, MUITO IMPORTANTE)
+- Land spirits são "uma obsessão fundida com poder celestial", nem real nem falsa, SEM corpo físico e SEM ALMA. Por isso, o immortal killer move Soul Suppression de Qin Bai Sheng (que usa a própria fundação de alma do usuário para suprimir a alma do alvo — extremamente forte, já decapitou um rank 6 alerta em 1 golpe e derrotou He Lang Zi transformado em 1 movimento) NÃO TEM EFEITO NENHUM sobre um land spirit — analogia do texto: é como xingar alguém que não entende o idioma, o "xingamento" vira ruído aleatório. Regra geral derivada: ataques de soul path são inúteis contra existências sem alma (land spirits, e por extensão qualquer "espírito"/entidade formada só por obsessão + dao marks, não por alma real).
+- Land spirit (a persona hairy man de Lang Ya) "não consegue mentir" — em pelo menos 2 momentos cômicos, expõe verbalmente TODOS os próprios planos secretos sem querer, percebendo o erro só depois de falar. Não fica claro se isso é regra universal de land spirits ou peculiaridade dessa entidade específica — marcar como possível regra a confirmar.
+- Revelação: Inkman City é descendente/ligada a Immortal Yi Yan (wisdom path great grandmaster mencionado no cap. 879) — a persona hairy man de Lang Ya planeja tratar os inkmen com "preferência" por esse motivo, mesmo dentro do plano de escravizá-los.
+
+### Immortal killer moves novos revelados em combate (caps. 880-881, 886)
+- **City Crushing Hammer** (metal path, Qin Bai Sheng): martelo dourado gigante, maior que um cloud building, esmaga estruturas.
+- **Cleanse Sky** (rule path, land spirit): dezenas de Gu mortais circulam o usuário e fazem um ataque recebido desaparecer completamente, "como se nunca tivesse existido" — anula ofensiva inimiga sem dano.
+- **Burning Soul Supreme Gold** (dual immortal killer move soul+metal path, Qin Bai Sheng): raríssimo por combinar ataque E defesa num só golpe; usuário vira um "pequeno sol", radiação intensa que ilumina/aquece o mundo inteiro, imune a soul burning (efeito colateral comum desse tipo de golpe) e serve de ponto de virada em combates onde o oponente ataca em excesso sem coordenação.
+- **Five Finger Fist Heart Sword** (sword path, lendário, criado por Sword Immortal Bo Qing de Spirit Affinity House — Central Continent): postura de "confronto com céu e terra": mãos unidas no peito, um punho erguido sobre a cabeça, olhos fechados, cabeça baixa — parece rendição mas concentra toda força física/mental no ataque mais afiado possível. Ativa "dedo por dedo" (polegar, indicador, anelar...) — cada dedo levantado dispara um raio de luz-espada extremamente veloz e mortal, um por vez, cada um mirando um alvo/parte específica. Mesmo um land spirit sem pontos fracos/vitais sofre dano estrutural severo (partes do corpo "embaçam"/dissolvem a cada acerto). A receita de Bo Qing "desapareceu misteriosamente" da Spirit Affinity House após ele falhar numa tribulação, e acabou nas mãos de um Gu Immortal de Northern Plains (Qin Bai Sheng) — mistério de proveniência não resolvido.
+- **Heaven and Earth Song** (sound path, criado por Feng Jiu Ge): inspirado na vastidão da natureza e insignificância humana; "toma emprestada a força do céu e terra" para suprimir toda resistência com força esmagadora — apresentado como oposto temático ao Five Finger Fist Heart Sword (submissão/harmonia com o céu vs. desafio pessoal ao céu).
+- **Green Jade Song** (sound path, Feng Jiu Ge): immortal killer move que especificamente RESTRINGE transformation path — transforma partes do corpo do alvo (mesmo em forma de besta) em pedra de jade, IMPEDINDO a reversão à forma humana até o ferimento ser curado primeiro. Usado contra He Lang Zi.
+
+### Ancient Battle Formations — nova categoria de formation path (caps. 883-885, MUITO IMPORTANTE)
+- Categoria distinta de Immortal Gu Houses: "pinnacle" de formation path de uma era antiga, hoje quase extinta/"enterrada no rio do tempo" por razões históricas.
+- Mecânica: uma formação permite a VÁRIOS Gu Immortals fundir forças num único "corpo"/entidade de batalha — fundações de ALMA se somam (o que anula ataques de soul path direcionados a um indivíduo só, como soul suppression — a alma agora é coletiva), immortal essence de todos vira um pool compartilhado/intercambiável, comunicação telepática automática entre todos os membros.
+- Diferença-chave em relação a Immortal Gu Houses: Immortal Gu Houses NÃO exigem nada de path/rank dos operadores; ancient battle formations funcionam MELHOR (mais força, mais agilidade) quando TODOS os participantes são do MESMO path — misturar paths (como aqui: Fang Yuan star path, Mo Tan Sang qi path, land spirit path único, resto refinement path hairy men) reduz drasticamente o potencial da formação, embora ainda funcione.
+- Requer também PRÁTICA/familiaridade prévia entre os operadores para atingir potência plena — usuários de primeira viagem (caso deste bloco) são desajeitados e desperdiçam oportunidades, mas melhoram DURANTE o próprio combate com experiência acumulada em tempo real.
+- Outras formações antigas históricas tinham pré-requisitos "estranhos ou rígidos" — dificuldade de reunir as condições é a razão citada para o desaparecimento histórico da categoria; Immortal Gu Houses são apontadas como evolução/substituição mais "conveniente" do mesmo conceito de pico de formation path (comparação explícita de progresso civilizacional entre eras).
+- **Heavenly Giant Solor** (exemplo nomeado, de Long Hair Ancestor): 2ª formação de batalha mais forte do mundo na Olden Antiquity Era, atrás apenas de "Golden Heavenly Saint" (não detalhada). Ativação: nome gritado 3 vezes pelo núcleo (land spirit); forma um gigante metálico de 3 cabeças e 6 braços; cada braço/cabeça pode se transformar para canalizar um immortal killer move de um participante específico (visto: Star Cloud Grindstone e defesas variadas nos braços, Blasting Qi Roar de Mo Tan Sang numa cabeça transformada, Myriad Self Giant Hand amplificado através de 4 braços simultâneos). Custo: consumo de imortal essence agrupado do "pool" comum por ataque grande (100 contas de immortal essence gastas no golpe amplificado do giant hand).
+- Land spirits/Gu Immortals sem coordenação tática desperdiçam o potencial de golpes múltiplos simultâneos (caso do próprio Lang Ya land spirit antes de entrar na formação, cap. 881) — contraste explícito com a sinergia deliberada de Fang Yuan (star cloud grindstone + star snake rope; six illusion star bodies + position star swap).
+
+### Refinement Cauldron fundido ao mundo da immortal aperture — expansão de espaço (caps. 882-884, MUITO IMPORTANTE)
+- Lang Ya land spirit (versão anterior/humana) fundiu o rank 8 Immortal Gu House Refinement Cauldron DIRETAMENTE no mundo da própria immortal aperture — o mundo interno inteiro passou a ser, efetivamente, "o interior do Refinement Cauldron", com todos os seres vivos ali dentro sob o alcance de refino da House.
+- Efeito colateral: essa fusão expande MASSIVAMENTE o espaço interno da immortal aperture, usando os fartos dao marks do próprio Immortal Gu House — Lang Ya blessed land revela-se, por baixo da fachada de "céu de nuvens", um oceano com TRÊS CONTINENTES inteiros, lar de MILHÕES de hairy men vivendo uma civilização completa (agricultura, pesca, cidades, exploração marítima) — espaço muito maior que blessed lands comuns, superando até a maioria dos grotto-heavens.
+- Confirma regra geral: o tamanho/riqueza do espaço interno de uma immortal aperture está diretamente ligado à quantidade/riqueza de dao marks nela contidos; fundir um Immortal Gu House de rank alto é um método (extremo, arriscado) de inflar artificialmente esse espaço.
+- Custo/limitação: o Refinement Cauldron fundido NÃO PODE SER MOVIDO/retirado sem consequência catastrófica — quando Qin Bai Sheng arranca à força Immortal Gu que pertencem a essa House, o mundo da immortal aperture ENCOLHE violentamente, causando desastres regionais (tsunamis, furacões, terra entrando em colapso no mar) que matam grandes quantidades da população mortal hairy man ali dentro. Frase temática explícita: "isto era um caso clássico de mortais sofrendo por causa de uma luta entre imortais."
+- Refinement Cauldron, como outros Immortal Gu Houses, é formado por um NÚCLEO PEQUENO de Immortal Gu + inúmeros Gu mortais; enquanto o núcleo de Immortal Gu sobreviver, a House continua funcionando (mais fraca) mesmo perdendo muitos Gu mortais e até alguns Immortal Gu (regra idêntica à de Dark Prison, ver abaixo).
+- Qin Bai Sheng possui "algum método especial" para arrancar Immortal Gu de outros à força sem risco de autodetonação — caso raro e digno de nota, pois contradiz a regra geral (estabelecida em notas anteriores) de que roubar Immortal Gu à força é "quase impossível" sem um método tipo o de Thieving Heaven Demon Venerable. **Registrar como possível exceção/nova regra a confirmar em LACUNAS.**
+- Espionagem/infiltração: Shadow Sect (organização de Qin Bai Sheng) plantou 3 hairy man Gu Immortals como agentes infiltrados dentro de Lang Ya blessed land ao longo de gerações, usando a immortal killer move "soul replacement" (possessão) — processo lento, citado como precisando de "pelo menos 300 anos" para plantar 3 agentes. 2 foram expostos/usados nesta batalha; 1 permanece oculto. Reforça a regra de possessão exigir infiltração/contato prolongado prévio (cf. Immortal Crane Sect, cap. 827 nas notas anteriores) — mais uma organização com doutrina de infiltração via possessão.
+
+### Immortal Gu House Dark Prison — estudo de caso de durabilidade (caps. 883-885)
+| Nome | Rank | Path | Efeito | Cap. |
+|---|---|---|---|---|
+| Dark Prison | 6 (Immortal Gu House) | — | House de Hei tribe; abriga sharp tusk boar (ancient desolate beast, força de rank 7); resiste a danos extremos enquanto o núcleo de Immortal Gu sobreviver | 883-885 |
+- Confirma regra: Immortal Gu House é composto de poucos Immortal Gu núcleo + muitíssimos Gu mortais; mesmo espancado repetidamente por um gigante de ancient battle formation (perdendo Gu mortais aos montes, e até tendo alguns de seus Gu forçadamente refinados pelo Refinement Cauldron), continua funcional enquanto o núcleo aguenta — "se um Immortal Gu House pudesse ser destruído tão facilmente, ainda seria chamado de Immortal Gu House?"
+
+### Batalha de Luo Po valley — contexto revelado (cap. 886)
+- Shadow Sect (Qin Bai Sheng e associados) abandona o ataque a Lang Ya blessed land (já com metade do Refinement Cauldron capturado) para defender Luo Po valley contra um ataque das Ten Great Ancient Sects de Central Continent, liderado por Feng Jiu Ge (confirmado vivo e ativo, chefiando a investigação da destruição de Eighty-Eight True Yang Building, suspeitando de Qin Bai Sheng como culpado).
+- Motivo da urgência: em Luo Po valley há um Immortal Gu sendo "cultivado"/formado, quase completo — central ao "grande plano" de Shadow Sect; perdê-lo teria "grandes repercussões".
+- Confirma: Qin Bai Sheng usa Five Finger Fist Heart Sword novamente contra Feng Jiu Ge, que responde com Heaven and Earth Song — duelo entre os dois golpes фicou em aberto (não resolvido no bloco).
+- Gu Immortals nomeados do lado Central Continent nesta batalha: Feng Jiu Ge, Chen Zhen Chi (Myriad Dragon Dock), Bu Fei Yan, Old Man Tian Long, Fairy Ling Mei e Fairy Ao Xue (Heaven's Envy Manor).
+
+### Heavenly Court — Recovery of Fate, 2ª etapa: "Heaven's Will" (cap. 886)
+- 1ª etapa concluída: todos os materiais imortais processados na Gu formation.
+- 2ª etapa: "atrair a vontade do céu" (heaven's will / vontade de céu e terra) — descrita como o material imortal MAIS IMPORTANTE para restaurar Fate Gu. Processo longo e árduo; resistir à vontade do céu é perigoso — Heavenly Court já perdeu VÁRIOS Gu Immortals rank 8 nesse processo (risco de ferimento grave ou morte). Os 4 rank 8 vão se revezar em turnos de descanso durante essa etapa.
+
+### Autoavaliação de força de Fang Yuan — calibração de poder (cap. 886, dado de referência)
+- Com killer moves star path: força de combate firmemente no PICO do rank 6.
+- Usando myriad self (só ofensiva): equivalente a rank 7.
+- Ainda muito longe de rank 7 veteranos (Old Lord Can Yang, He Lang Zi, Hui Feng Zi, Unfettered Scholar) — só consegue empatar com dificuldade.
+- Contra Qin Bai Sheng (avaliado como "quase rank 8", nível de Feng Jiu Ge): "nenhuma esperança" de vencer.
+- Confirma roster de Immortal Gu star path de Fang Yuan: apenas 3 dos 4 originais de Star Lord Wan Xiang (Star Mark, Starlight, Star Shoot) — o 4º foi destruído em combate antes de Fang Yuan obter a herança.
+
+### Prisões de Fang Yuan e progresso de soul search (cap. 887)
+- Fang Yuan mantém: vontade falsa de Mo Yao (na immortal aperture morta), Gu Yue Fang Zheng (irmão cativo, em "reeducação" psicológica lenta e deliberada, visitas periódicas), alma de Dong Fang Chang Fan (já totalmente esgotada de informação — só resta o valor da alma em si), alma de Zheng Ling (featherman, wind path), alma de Xue Song Zi (snow path, memórias recentes apagadas por método de soul path desconhecido e "extremamente profundo" — Fang Yuan não consegue descobrir por que Xue Song Zi/Hei Cheng colaboravam com Qin Bai Sheng).
+- Ganhos do soul search de Zheng Ling e Xue Song Zi: grande quantidade de receitas de Gu mortal, muitos killer moves mortais, alguns immortal killer moves, poucas receitas de Immortal Gu, conhecimento secreto, pistas de tesouros/heranças — mas pouco imediatamente utilizável (wind path e snow path não combinam com strength/star path de Fang Yuan); servem só de "fundação" até ele obter Immortal Gu compatíveis.
+- Batalha de vontades (star will vs. fake will de Mo Yao) — progresso: já dura 7 minutos sustentados; star will perde 1x1 mas Fang Yuan reforça com "levas" adicionais e vira o jogo; Mo Yao's will já vence "com dificuldade" agora (evolução gradual confirmada, cf. notas cap. 846).
+- Nova pista da memória de Mo Yao: **Spring dream fruit tree** — árvore de dream path encontrada por Mo Yao perto de um vilarejo sem nome; na época, dream path mal tinha conceituação, nem o próprio Heavenly Court explorava dream realms a fundo; ela reconheceu algo estranho na árvore mas nunca a levou nem voltou; status atual desconhecido. Se ainda existir, spring dream fruits multiplicariam "por pelo menos várias vezes" a eficiência de refino de dream path mortal Gu (que Fang Yuan pratica diariamente desde que obteve o immortal killer move Unravel Dream).
+- Clue anterior (hibiscus stalactite, rank 7 immortal material, cf. cap. 846 notas): Fang Yuan escaneou o local mas descobriu que já está secretamente ocupado por Spirit Affinity House — decidiu não avançar por ora.
+
+### Recompensa de Lang Ya land spirit (cap. 887)
+- (1) Receita de all-out effort Gu em **rank 6** (upgrade da receita rank 5 que Fang Yuan já havia deduzido sozinho, cf. cap. 863).
+- (2) MÉTODO COMPLETO para relocar uma blessed land inteira. Custo/limitação: exige 12 Immortal Gu simultaneamente; causa grande dano à própria blessed land (instabilidade de heaven/earth qi) durante o processo. Lang Ya land spirit vai usar o método nele mesmo primeiro (relocar Lang Ya blessed land), depois emprestar os 12 Immortal Gu a Fang Yuan por um preço "muito alto" para relocar Hu Immortal blessed land e/ou Star Form blessed land.
+
+### Eastern Sea — invasão de Yu Lu blessed land (caps. 888-889, NOVO ARCO)
+- Fang Yuan (disfarçado de "Xing Xiang Zi", persona star+wisdom path) e Tai Bai Yun Sheng viajam a Eastern Sea para se aproximar de Shark Demon (Zombie Alliance), que está invadindo Yu Lu blessed land (ownerless) por sua herança/recursos.
+- **Entrada de blessed land/grotto-heaven** — mecânica confirmada: todo mundo pequeno (blessed land/grotto-heaven) tem uma "entrada" física que o conecta ao mundo principal; fechada, isola o mundo completamente do exterior — extremamente difícil de forçar de fora. Dois métodos confirmados para localizar uma entrada desconhecida: (a) rastreamento de blood path via um parente de sangue capturado do dono (ex.: Immortal Crane Sect usou Fang Zheng contra Hu Immortal blessed land); (b) usando almas de agentes infiltrados já dentro (Qin Bai Sheng contra Lang Ya blessed land). Isso retroativamente justifica por que Fang Yuan precisou capturar/neutralizar Fang Zheng para proteger a localização de Hu Immortal blessed land.
+- Cerco de Yu Lu blessed land pela Zombie Alliance: falhou há 2 meses; desde então Shark Demon gastou grande soma de pontos de contribuição contratando ajuda de um immortal zombie rank 7 wisdom path; já superaram a rodada "vanishing immortal essence dissipation rain" e controlam a entrada há 1 mês; agora enfrentam a 3ª rodada: **Freezing Rain Frozen Earth**, battlefield killer move criado por Fairy Yu Lu (discípula de Paradise Earth Immortal Venerable, criador da "melhor herança de battlefield killer move da história da humanidade").
+- **Freezing Rain Frozen Earth**: mundo de gelo total; a cada hora, chuva congelante intensifica progressivamente (agulhas de gelo → dardos de gelo → tempestade de estalactites) e monstros de neve ("snow monsters") aparecem para atacar. Monstros mortos REVIVEM continuamente até o ciclo terminar, depois somem até o próximo ciclo. **Escala de tamanho = força de combate**: 30 pés = rank 3 Gu Master; 40 pés = rank 4; 50 pés = rank 5; visto neste bloco: 60 pés = nível "desolate beast" (~rank 6).
+- **Regra central sobre battlefield killer moves em território próprio (cap. 889, MUITO IMPORTANTE — fecha o raciocínio inferido no cap. 873)**: a maioria dos Gu Immortals não ousa usar battlefield killer move dentro da própria blessed land/grotto-heaven porque os dao marks TEMPORÁRIOS criados pela ativação podem entrar em conflito com os dao marks JÁ EXISTENTES do mundo pequeno — se isso ocorrer, o battlefield killer move falha e o Gu Immortal sofre um backlash (no pior caso, energia destrutiva que pode destruir a blessed land inteira e MATAR o Gu Immortal na hora). Mecanismo idêntico, em princípio, ao backlash de refino de Gu (fusão de traços de lei incompatíveis). Freezing Rain Frozen Earth é excepcional porque Fairy Yu Lu (rank 8, mestra de battlefield killer moves) conseguiu construí-lo usando os dao marks PERMANENTES já existentes da própria blessed land, evitando esse conflito por completo — descrito como método "muito mais avançado" que o de Lang Ya land spirit (que só ousou usar uma Gu formation comum, não um battlefield killer move de verdade).
+- Atacar um battlefield killer move NA FORÇA (destruí-lo) arrisca destruir os dao marks permanentes subjacentes da blessed land, com dano irreparável — mesma categoria de perda que arrancar Immortal Gu do Refinement Cauldron de Lang Ya. Por isso a Zombie Alliance prefere tentar DECIFRAR/desarmar a formação (achar e destruir seus Gu worms componentes) a atacá-la de frente com força bruta (que também custaria imenso immortal essence).
+- "**Reincarnation Battlefield**" citado como outro battlefield killer move famoso/lendário, com sobreposição temática (renascimento/revivificação) — possivelmente ligado à herança original de Paradise Earth Immortal Venerable.
+- Fang Yuan avalia seu próprio kit de combate como completo (ataque/defesa/movimento/investigação/cura) exceto por faltar um battlefield killer move — motivação central deste arco: obter um battlefield killer move (idealmente da herança de Fairy Yu Lu) para poder matar secretamente um membro da Zombie Alliance e assumir sua identidade sem alarmar reforços.
+- Caso de dedução: Fang Yuan usa uma killer move investigativa star path para identificar corretamente, só por observação/probing, o nome do "Scenic Blue Travel immortal zombie body" auto-criado por Sha Nan Jiang (rank 6 immortal zombie de Eastern Sea Zombie Alliance) — demonstração pública de attainment usada para ganhar respeito/status entre novos contatos.
+- Caso de dedução prolongada de Freezing Rain Frozen Earth: Fang Yuan usa exaustivamente técnicas wisdom path sem sucesso inicial; quando a chuva se intensifica e monstros de neve aparecem, encontra uma brecha, localiza e DESTRÓI PREMATURAMENTE um Gu mortal componente da formação — isso causa uma intensificação COMPENSATÓRIA (tempestade triplica de intensidade), mas revela mais 2 falhas na formação como efeito colateral. Lição de mundo: desmontar parcialmente uma Gu formation/killer move complexa pode torná-la temporariamente MAIS perigosa (resposta compensatória automática), mesmo que ainda represente progresso líquido rumo à sua desativação completa.
+- Contraste: Bo Dan (Gu Immortal humano, "pseudo-wisdom path", baixo status na Zombie Alliance) tinha herança wisdom path "incompleta demais, baixa qualidade, métodos limitados" — não achou nenhuma falha nas 2 rodadas anteriores. O sucesso de Fang Yuan (apesar de attainment wisdom path autoavaliado como "ordinário"/iniciante) é atribuído explicitamente à QUALIDADE/pedigree da herança (ex-Dong Fang Chang Fan, ex-nº1 wisdom path de Northern Plains), não à habilidade pessoal — reforça o tema recorrente "qualidade da herança >> nível de attainment bruto".
+
+## 2. Gu catalogados (continuação 2)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Dark Prison | 6 (Immortal Gu House) | — | House de Hei tribe; abriga sharp tusk boar (ancient desolate beast rank 7) | — | 883-885 |
+| All-out Effort Gu (Immortal, rank 6) | 6 | Strength path | Receita completa dada por Lang Ya land spirit como recompensa | — | 887 |
+
+## 3. Mundo e sociedade (continuação 2)
+
+- Lang Ya blessed land revela-se, por dentro, um "império hairy man" com 3 continentes e milhões de habitantes — maior espaço interno que a maioria dos grotto-heavens (caps. 882-884).
+- Shadow Sect: organização de Qin Bai Sheng, Fairy Jiang Yu, Hui Feng Zi, He Lang Zi, Hei Cheng e outros; base em Luo Po valley; tem um "grande plano" envolvendo um Immortal Gu em formação e Fate Gu (caps. 885-886).
+- Central Continent Ten Great Ancient Sects (liderados por Feng Jiu Ge) suspeitam Qin Bai Sheng de ter destruído Eighty-Eight True Yang Building; movem ataque a Luo Po valley (cap. 886).
+- Eastern Sea Zombie Alliance: hierarquia com immortal zombies e Gu Immortals vivos (ex.: Bo Dan) de status inferior; usa pontos de contribuição para contratar ajuda especializada externa (ex.: rank 7 wisdom path immortal zombie) (cap. 888).
+- Paradise Earth Immortal Venerable: criador histórico da "melhor herança de battlefield killer move da humanidade"; Fairy Yu Lu é sua discípula (cap. 888).
+
+## 4. Economia e vida cotidiana (continuação 2)
+
+- Custo de invasão de blessed land: Shark Demon gastou "uma soma enorme" de pontos de contribuição contratando um immortal zombie rank 7 wisdom path para ajudar a invadir Yu Lu blessed land (cap. 888).
+- Empréstimo do método de relocação de blessed land por Lang Ya land spirit a Fang Yuan: preço "muito alto", ainda não quantificado (cap. 887).
+
+## 5. Estudos de caso mecânicos (continuação 2)
+
+### Caso: decifrando Freezing Rain Frozen Earth (cap. 889)
+Ver seção 1. Método: probing repetido com múltiplas técnicas wisdom path até identificar uma "brecha" que só aparece quando a formação muda de fase (intensificação da chuva, chegada de monstros); ao achar um componente (Gu mortal) vulnerável, usar uma killer move de contenção (Star Snake Rope) para tentar capturá-lo vivo para pesquisa — mas o componente se autodetona ao ser preso, sendo destruído de qualquer forma. Resultado: a formação compensa ficando temporariamente mais forte, mas expõe novas fraquezas. Recursos: nenhum material especial, só tempo e sucessivas tentativas de dedução wisdom path.
+
+## 6. Glossário (continuação 2)
+
+- Ancient battle formation — categoria de formation path antiga que funde vários Gu Immortals numa entidade de combate única (alma, essência e comunicação compartilhadas); requer mesmo path entre operadores para força máxima.
+- Heavenly Giant Solor — ancient battle formation de Long Hair Ancestor, 2ª mais forte da Olden Antiquity Era.
+- Golden Heavenly Saint — ancient battle formation citada como a mais forte da Olden Antiquity Era (não detalhada).
+- Soul replacement — immortal killer move de possessão usado por Shadow Sect para infiltrar agentes.
+- Freezing Rain Frozen Earth — battlefield killer move de Fairy Yu Lu, construído com dao marks permanentes da própria blessed land.
+- Reincarnation Battlefield — battlefield killer move lendário citado por comparação temática (renascimento).
+- Scenic Blue Travel immortal zombie body — técnica de corpo de zumbi imortal autocriada por Sha Nan Jiang.
+- Spring dream fruit tree — árvore de dream path, pista da memória de Mo Yao; frutos multiplicariam eficiência de refino de Gu de dream path.
+- Five Finger Fist Heart Sword — immortal killer move lendário de sword path, criado por Sword Immortal Bo Qing.
+- Heaven and Earth Song / Green Jade Song — immortal killer moves de sound path de Feng Jiu Ge.
+
+## 7. Dúvidas e lacunas (continuação 2)
+
+- **Possível exceção à regra "Immortal Gu não pode ser roubado à força"**: Qin Bai Sheng consegue arrancar Immortal Gu de Refinement Cauldron sem que eles se autodetonem — checar se isso é um método raro específico dele (como o de Thieving Heaven Demon Venerable) ou se blessed lands/Immortal Gu Houses "fundidos" ao mundo ficam vulneráveis de um jeito diferente de Immortal Gu portados normalmente por um Gu Immortal.
+- Se "land spirit não consegue mentir" é regra universal de todos os land spirits ou peculiaridade da persona hairy man de Lang Ya — não confirmado.
+- Identidade completa e objetivo final do "grande plano" de Shadow Sect (envolvendo o Immortal Gu em formação em Luo Po valley e Fate) ainda não revelados.
+- Resultado do duelo Qin Bai Sheng (Five Finger Fist Heart Sword) vs. Feng Jiu Ge (Heaven and Earth Song) ficou em aberto — não resolvido no texto lido.
+- Nenhum dado numérico de % de aptidão para ruptura de rank neste sub-bloco (880-889) — lacuna prioritária de LACUNAS.md segue sem resposta.
+
+---
+
+### [Caps. 890-901] Manipulação política em aliança — caso Bo Dan (caps. 890-891, 897-898)
+- Fang Yuan (como "Xing Xiang Zi") destrói deliberadamente um Gu mortal "isca" da formação Freezing Rain Frozen Earth, sabendo que isso vai piorar o ataque, só para (a) parecer estar progredindo publicamente e (b) tentar seu rival político Bo Dan a copiar a ação. Quando Bo Dan cai na armadilha e destrói o mesmo tipo de Gu por conta própria, Fang Yuan o acusa publicamente de ter causado um "trap" (sem provar tecnicamente, alegando que revelar o método "vazaria sua herança wisdom path secreta") — case de manipulação política pura em aliança temporária, sem uso de força.
+- Regra confirmada (reforço do cap. 889): destruir certos Gu mortais componentes de uma formação PREMATURAMENTE intensifica o próximo ataque (aqui, 3x mais forte) — mecânica de "trap" já documentada, agora usada como arma social entre aliados.
+- Norma de aliança em invasão de blessed land: immortal essence gasta por um "convidado" ajudante durante o ataque é COMPENSADA depois pelo grupo — reduz a barreira para pedir ajuda de especialistas externos.
+
+### Fighting Soul Battlefield — 2º battlefield killer move de Yu Lu blessed land (cap. 898, MUITO IMPORTANTE)
+- Blessed lands/grotto-heavens podem ter MÚLTIPLAS camadas de battlefield killer moves em sequência — ao vencer Freezing Rain Frozen Earth, os invasores caem direto em outro, Fighting Soul Battlefield.
+- Criado por Paradise Earth Immortal Venerable usando como base/referência uma herança de Spectral Soul Demon Venerable. Contraste de design com Freezing Rain Frozen Earth: FRFE é bem balanceado, sem brechas óbvias, "não se sabe por onde começar"; Fighting Soul Battlefield expõe MUITAS brechas facilmente (milhares a dezenas de milhares de Gu escondidos) e destruir qualquer um deles NÃO tem armadilha/backlash (diferente de FRFE) — mas sua ofensiva NUNCA para uma vez ativada (ao contrário de FRFE, que ataca em ondas com pausas de descanso): soul beasts aparecem sem cessar, escalando de tier.
+- **Escala de escalonamento temporal de soul beasts (dado numérico útil)**: soul beast comum → desolate soul beast → ancient desolate soul beast (já em 7 minutos!) → immemorial desolate soul beast (esperado a partir de ~30 minutos, possivelmente mais de um). Fang Yuan consegue desarmar apenas 5-6 pontos escondidos por vez; estimou precisar de pelo menos 30 minutos para desarmar tudo — tempo alto demais frente à escalada.
+- Regra de mundo confirmada: as criações de Paradise Earth Immortal Venerable normalmente "sempre deixam uma chance de sobrevivência" (misericórdia embutida), EXCETO Fighting Soul Battlefield, que herdou a "natureza assassina" de Spectral Soul Demon Venerable — sugere que cada Immortal Venerable tem uma "assinatura" ética/de design rastreável em suas criações derivadas.
+- Genealogia de battlefield killer moves de soul path revelada (Luo Po valley, mesmo capítulo): **Soul Taker Battlefield** (Spectral Soul Demon Venerable, criado quando jovem — converte almas de seres vivos em soul beasts, mas de forma limitada) → **Fighting Soul Battlefield** (Paradise Earth Immortal Venerable, versão aprimorada baseada na anterior — produz soul beasts INFINITAMENTE, mas "amoleceu" a intenção assassina original) → **Hundred Million Slaughterfield** (Spectral Soul Demon Venerable, criado mais tarde/mais velho — versão mais mortífera, sem o abrandamento de Paradise Earth). Confirma que golpes lendários formam "árvores genealógicas" de derivação entre Immortal Venerables.
+- Custo de pedir reforço de especialistas wisdom path para ajudar a desarmar battlefield killer moves complexos: "incorreria um custo enorme" — poucos Gu Immortals têm attainment suficiente (reforço da escassez de wisdom path).
+
+### Duelo Qin Bai Sheng x Feng Jiu Ge em Luo Po valley — atualização (cap. 898)
+- Duelo já dura "dezenas de rounds" sem vencedor definido entre Five Finger Fist Heart Sword (Qin Bai Sheng) e Heaven and Earth Song (Feng Jiu Ge).
+- Novo golpe de Feng Jiu Ge: **Submission Song** — combina sound + wisdom + enslavement + soul path; a "canção" é ouvida DIRETAMENTE NA MENTE do alvo, não pelos ouvidos; efeito: converte temporariamente desolate beasts e ancient desolate beasts para o lado de quem canta, traindo o dono anterior instantaneamente. Nasceu de inspiração tirada do próprio Five Finger Fist Heart Sword de Qin Bai Sheng (mecânica de "aprender com o oponente durante duelo prolongado" já vista antes).
+- Qin Bai Sheng contra-ataca com Soul Taker Battlefield (ver acima) para reconverter os soul beasts e anular a vantagem de Submission Song; Feng Jiu Ge reconhece a formação e a supera citando a genealogia acima; Qin Bai Sheng então revela a versão ainda mais forte, Hundred Million Slaughterfield.
+- Shadow Sect tem uma sede em Southern Border, liderada por "Old Man Yan Shi" (nome novo revelado); Qin Bai Sheng considera ativar um "arranjo oculto" plantado dentro do Northern Plains Zombie Alliance como estratégia de virada, mas hesita pelo impacto no "grande plano".
+
+### Eastern Sea — geografia e sociedade de sea areas (caps. 892-893, 899)
+- Territórios marítimos ("sea areas") em Eastern Sea funcionam como as pastagens de Northern Plains: divididos e possuídos por Gu Immortals individuais, cada um controlando toda a vida marinha, minerais e água de sua área.
+- Shark Sea (Shark Demon): ~3 milhões de km² (tamanho do Mar da China Meridional); ranking nº 46 entre as sea areas de Eastern Sea. Pets nomeados: divine spear shark (cabeça em forma de lança óssea, quebra rochas ao nadar), shattering teeth golden shark (grupos de 200-300, 6 fileiras de dentes minúsculos, filtra peixe/camarão como baleias), silver scale great treasure shark (tamanho de baleia pequena, extremamente rápido, come outros tubarões).
+- **10 grandes sea areas de Eastern Sea (citadas)**: rainbow sea area (Rainbow Island, cores puras que não se misturam), boundless forest sea area (floresta submersa de árvores de milhares de metros), mermen sea area (super força, mermen fortíssimos e "amorosos"), poetic emotion sea area (Song Yi Shi, produz emotion poetry Gu rank 4 wisdom path — armazena emoções, muito valorizado por Gu Masters mortais), Song clan's headquarters em Heavy Water blessed land.
+- "Shark fishing banquet": costume de Shark Demon (mais tarde imitado por outro Gu Immortal, Zhu Xing Bo, após a morte não esclarecida de Shark Demon e Su Bai Man na vida passada de Fang Yuan) — convidados pescam tubarões dentro do palácio submerso em 7 minutos, ficam com o que conseguirem pegar; regra: proibido sair do palácio durante a pesca.
+- Zombie Alliance de Eastern Sea recruta Gu Immortals VIVOS (diferente de outras filiais regionais, que só aceitam zumbis) — mas o status desses membros vivos costuma ser BAIXO, "camada inferior" mesmo comparado a immortal zombies; entrar significa perder liberdade (monitoramento reforçado, ainda mais para forasteiros).
+
+### Caso: Bo Dan — motivação e status (cap. 893)
+- Perdeu sua sea area privada para Blazing Heaven Demoness (immortal zombie de Northern Plains) há anos e não conseguiu retomá-la (apanhou ao tentar); por isso odeia Gu Immortals de Northern Plains especificamente. Sem outra fonte de renda, aposta tudo no prêmio da invasão de Yu Lu blessed land.
+- Subornou Su Bai Man com "medicine ice" do tamanho de uma palma — mesmo em quantidade pequena, confirmado como material genuíno de RANK 8 — para manter seu lugar na expedição apesar da humilhação pública.
+- Shark Demon mantém Bo Dan deliberadamente como contrapeso político contra Xing Xiang Zi (forasteiro): estratégia explícita de "equilíbrio de poder" entre um especialista externo talentoso e um membro interno de confiança, para não depender demais/ficar refém de um outsider.
+
+### Song clan — estrutura de super força (cap. 893, 899)
+- Uma das 10 maiores super forças de Eastern Sea; 18 Gu Immortals reconhecidos oficialmente. Song Qi Yuan (rank 8, 1º supremo ancião) é o líder; seu filho e sucessor designado (rank 7) foi morto por um esquema há 10+ anos, deixando Song Yi Shi (neta, única herdeira) como figura mimada/rica, dona da poetic emotion sea area (4 milhões de km², maior que Shark Sea, dada de presente ao ascender a rank 6).
+- **Ascending Heaven Plain**: localização já é "segredo aberto" entre a maioria dos Gu Immortals de Eastern Sea; contém a herança de Old Eccentric Tian Nan (um dos 3 refinement path supreme grandmasters da história, junto com Old Immortal Kong Jue e Long Hair Ancestor). Lore: Old Eccentric Tian Nan tentou refinar os próprios nove céus imemoriais e morreu ao fracassar. Song clan disputa a herança há um projeto de 100 anos contra clã Cai e clã Ruo Lai.
+- **Song Jia Dan**: Gu Immortal wisdom path (rank 7) cultivado especialmente pelo clã; fundiu voluntariamente a METADE INFERIOR do corpo com o terreno de Twin Polar Sea Strait (pernas petrificadas, fundidas ao mundo) para amplificar drasticamente seu poder de dedução via "fusão com o mundo" — sacrifício de mobilidade total em troca de attainment. Publicamente um dos "3 Gu Immortals wisdom path mais capazes de Eastern Sea" (junto com Hua An do clã Nan Gong e "Dragon Head Tortoise Immortal" de adversity sea).
+- Song Jia Dan FALHA em deduzir a localização de Fang Yuan/Xing Xiang Zi e propõe 2 razões possíveis: (1) o alvo não estava fisicamente em Eastern Sea no momento da dedução, (2) o alvo tem proteção/ocultação wisdom path de nível equivalente. **Ambas as pistas são coerentes com o que aconteceu de fato** (Fang Yuan estava em Central Continent) — sugere fortemente que dedução wisdom path de localização tem alcance limitado à REGIÃO onde o investigador está fisicamente/whose dao marks controla, não é busca global instantânea. **Registrar como resposta parcial a uma lacuna de mecânica de wisdom path/dedução.**
+
+### Caso: plano "Li Xiao Yao" — engenharia social via memória de vida passada (caps. 894-897)
+- Fang Yuan replica deliberadamente um encontro "do destino" descrito na "Biography of Li Xiao Yao" (biografia de um Gu Immortal que nascerá ~200 anos no futuro, na mesma linha temporal) para criar um pretexto de escândalo público contra Song Yi Shi, sabendo о script exato (caverna secreta, corrente submarina, vulcão, hot spring) da vida passada.
+- **Correntes submarinas (undercurrents) de Eastern Sea**: túneis de água em alta velocidade no fundo do mar, mais rápidos que a maioria dos movement immortal killer moves; existem mapas secretos dessas rotas usados por caravanas subaquáticas de super forças para comércio rápido de longa distância (10 mil a 100 mil li em pouco tempo).
+- **Origem natural de mortal Gu por pressão evolutiva (case ecológico, cap. 894)**: num vulcão submarino, lagartos de fogo caçam insetos voadores nascidos em bolhas do rio de magma; uma fração dos insetos, sob a pressão de serem caçados repetidamente, desenvolve "talento latente" e se transforma espontaneamente em Gu worm (mais rápidos, evitam a captura) — alguns desses insetos-Gu passam a viver voluntariamente sobre o lagarto como "Gu acompanhante". Comparado no texto a "uma carpa saltando pelo portão do dragão" — um raro exemplo de Gu mortal surgindo NATURALMENTE por seleção/pressão predatória, sem intervenção de um Gu Master.
+- **Stream Veil** (immortal killer move de water path, Song Yi Shi): véus de água que capturam o alvo — comparado explicitamente a Star Snake Rope de Fang Yuan e descrito como MUITO SUPERIOR nessa função ("o gap entre eles é enorme") — dado relativo de força entre killer moves de captura por path.
+- Fang Yuan escolhe deliberadamente uma rota de fuga passando por perseguidores específicos já mapeados de antemão (incluindo um rank 7, Lei Hong, e uma rival fofoqueira, Seven Seas Snake Woman, rank 7 demonic path, uma das "6 grandes belezas" de Eastern Sea) para GARANTIR que o boato se espalhe descontroladamente — engenharia deliberada de rede de rumores.
+- Mata Yao Ge Pi (perseguidor mais fraco, lone cultivator sem apoio de clã) como demonstração de força/dissuasão, usando combo Six Illusion Star Bodies + Position Star Swap (já visto) para emboscar e escapar livremente.
+
+### Reivindicação de blessed land de Gu Immortal morto — caso Yao Ge Pi (cap. 897)
+- Reforça: 2 usos possíveis do corpo de um Gu Immortal morto — (1) colocá-lo no chão para formar uma blessed land independente; (2) colocar dentro da própria immortal aperture para absorver os dao marks dele. Fang Yuan NÃO PODE usar a opção 2: sua immortal aperture está "morta" (dead immortal aperture) — colocar um corpo nela causaria "destruição maciça", o próprio corpo de Fang Yuan explodiria; outros immortal zombies já tentaram isso antes, "nunca houve nenhum caso de sucesso registrado".
+- Land spirit de Yao Ge Pi (forma de árvore, imóvel, plantada no centro da blessed land) exige uma condição de reconhecimento de novo dono absurda: 100.000 immortal essence stones + grandes quantidades de materiais imortais rank 7-8 + sangue fresco de Genesis Lotus Immortal Venerable (um verdadeiro material rank 9!) — reflete a MAIOR obsessão de Yao Ge Pi em vida: riqueza. Confirma regra geral: condição de reconhecimento de land spirit é ligada à maior obsessão pessoal do Gu Immortal falecido, e pode ser praticamente impossível de cumprir.
+- Confirma também: nem toda blessed land tem land spirit — Gu Immortals mortos "de forma extremamente completa" (sem deixar obsessão) não deixam land spirit algum.
+- Quando a condição é impossível, a alternativa é atacar e destruir o land spirit à força para tomar posse (mesma lógica da invasão de Yu Lu blessed land por Shark Demon).
+
+### Riqueza acumulada de Fang Yuan — marco econômico (cap. 900)
+- Fontes de renda confirmadas: guts Gu (~300 immortal essence stones/mês agora, alta escala); 4 fontes herdadas de Star Lord Wan Xiang em Star Form blessed land + novo comércio de regretful spiders com clã Xiao (Western Desert) = 6 fontes de renda ativas, totalizando MAIS DE 1000 immortal essence stones/mês; projeção de 1500/mês quando dragonfish e eerie fire dragon pythons entrarem no mercado.
+- Em 2 meses como dono de Star Form blessed land, acumulou 2000+ immortal essence stones — usados integralmente para pagar Lang Ya land spirit pelo empréstimo do conjunto de 16 Immortal Gu de relocação (+ 2 Immortal Gu dados como garantia/colateral, selado por immortal killer move de contrato de information path).
+- Contraste narrativo explícito: de "contar cada pedra imortal" no início da ascensão a ~rank 7 de renda mensal como immortal zombie de rank mais baixo — marco de progresso econômico.
+
+### Lang Ya blessed land — reforma pós-batalha (cap. 900)
+- Lang Ya land spirit (persona hairy man) reconstrói os 12 cloud buildings como núcleos de "12 cidades de nuvem" num 4º continente (feito de cloud soil, no ar) — nova área de moradia para hairy men de elite, necessária porque o espaço das 3 continentes originais encolheu (perda de Immortal Gu do Refinement Cauldron) e a população já estava no limite.
+- Funda a **Lang Ya Sect**, estruturada como as seitas de Central Continent: ele mesmo como 1º supremo ancião, hairy man Gu Immortals como os demais anciões; planeja treinar os hairy man GIs para missões externas de seita.
+- **Método de seleção de elite**: incita deliberadamente GUERRA entre os 3 continentes (3 reinos formados, guerra anual); a cada ano, a Lang Ya Sect recruta os hairy men mais elite dos 3 reinos para o continente de nuvens. Fang Yuan reflete internamente que esse método é "desperdício" comparado a simplesmente usar os hairy men como mão de obra escrava de refino de Gu (seu próprio modelo) — contraste ideológico explícito entre dois modos de exploração de hairy men: guerra como filtro genético/de elite (Lang Ya) vs. escravidão em massa para produção (Fang Yuan).
+
+### Immortal Aperture Transplantation Method — mecânica completa de relocação de blessed land (caps. 900-901, MUITO IMPORTANTE)
+- **Origem**: criado (incompleto) por **Old Immortal Kong Jue**, um dos 3 refinement path supreme grandmasters da história (Remote Antiquity Era, junto com Long Hair Ancestor e Old Eccentric Tian Nan). Seu estudo de aperturas/immortal apertures foi tão avançado que permitiu que portadores das Ten Extreme Physiques ascendessem e formassem blessed lands de grau super. Objetivo original (nunca alcançado, nem por Long Hair Ancestor que herdou a pesquisa): transplantar PERFEITAMENTE a immortal aperture de um Gu Immortal VIVO para dentro do corpo de um desolate beast/ancient desolate beast, de forma permanente.
+- Foi o inkman wisdom path Immortal Yi Yan quem, inspecionando essa pesquisa incompleta, percebeu seu valor alternativo: mover a immortal aperture de Gu Immortals MORTOS (blessed lands sem dono vivo).
+- **Procedimento (estudo de caso completo, Fang Yuan relocando Star Form blessed land)**:
+  1. Dedução: usando wisdom path Immortal Gu emprestada + light of wisdom, gerar 2 "Gu formation charts" — um maior para a própria blessed land (8 núcleos de formação, no caso de Star Form), um menor para o corpo do animal transportador (4 núcleos). Total de 12 Immortal Gu núcleo necessários (do conjunto de 16 emprestado). Custo da dedução: 7 dias e 6 noites contínuas, 160.000 star thoughts, 66 contas de immortal essence.
+  2. Posicionamento físico: colocar os 8 Immortal Gu nos núcleos indicados pelo land spirit dentro da blessed land (leva tempo se a terra tiver poucos dao marks de space path, impedindo teleporte do land spirit — meio dia neste caso); colocar os 4 Immortal Gu em pontos anatômicos específicos do animal escolhido (aqui: boca, um osso nas costas, olho esquerdo, estômago).
+  3. Ativação: corpo do executor brilha, luz se concentra nos olhos; um feixe atinge o animal (ativa a formação de 4 núcleos nele, cobrindo-o de uma "armadura" que o imobiliza como estátua); o outro feixe atinge a localização oculta da blessed land, comprimindo-a inteira num "grão de feijão" de luz azul; o executor então PUXA mentalmente essa blessed land comprimida em direção ao animal até os dois se tocarem e se fundirem — a blessed land se instala dentro do corpo do animal como nova immortal aperture-hospedeira.
+  4. Gasto de green grape immortal essence "em velocidade aterrorizante" durante a etapa de compressão/fusão.
+  5. **Limitação crítica**: uma vez fundida, durante toda a viagem restante, o animal transportador NÃO PODE ser guardado na própria immortal aperture do executor (para movê-lo rápido) e NÃO PODE receber ajuda de NENHUM outro Immortal Gu ou immortal killer move — qualquer interferência externa colapsa a frágil dupla formação, destruindo a tentativa de relocação E os Immortal Gu núcleo usados. O animal só pode avançar com sua própria força física reduzida (aqui, menos da metade da velocidade normal, "como carregando uma montanha").
+  6. Consequência: a DISTÂNCIA de relocação por tentativa é inerentemente limitada pela resistência física do animal — por isso Lang Ya land spirit só moveu Lang Ya blessed land uma distância modesta, e por isso Fang Yuan não ousou relocar Hu Immortal blessed land dessa forma (risco/exposição alto demais numa distância real) — usou Star Form blessed land (reserva, menos crítica) como teste/base backup.
+  7. **Custo final inevitável**: o animal transportador SEMPRE morre/desintegra completamente (vira poça de carne e sangue, até a alma da besta se dispersa) ao final — seja por ferimento em combate (como ocorreu aqui) ou simplesmente por exaustão ao chegar ao destino. É um "sacrifício necessário" conhecido de antemão.
+  8. Confirma-se: relocar uma blessed land é conhecimento raríssimo/além do senso comum entre Gu Immortals — Fang Yuan calcula que, se Hei Lou Lan notar Star Form blessed land "sumida" do local conhecido, vai supor que foi destruída, não relocada.
+- **Caso prático**: Fang Yuan usa uma desolate beast "spinefin star dragonfish" (tamanho de baleia, corpo de carpa) de Star Form blessed land como transportador; pretende relocar 3 camadas mais fundo em Earth Abyss, mas após 2 camadas é interceptado por uma desolate beast selvagem ("one-eyed giant ape"); sem battlefield killer move (lacuna que ele busca resolver desde o arco de Eastern Sea), não consegue proteger o transportador adequadamente — o peixe é ferido gravemente e não pode continuar; Fang Yuan é forçado a fixar a blessed land ali mesmo, na 2ª camada em vez da 3ª planejada. Os 12 Immortal Gu (de Lang Ya) permanecem intactos, evitando falência financeira.
+- Earth Abyss confirmado como região extremamente profunda e pouco explorada — nem Ancient Soul Sect (uma das 10 grandes seitas antigas de Central Continent) já explorou tão fundo — reforça escolha de esconderijo de longo prazo.
+
+### Novos immortal killer moves star path (cap. 899, atualização de roster)
+- Usando light of wisdom, Fang Yuan força a conclusão de mais 2 conceitos incompletos deixados por predecessores de Star Lord Wan Xiang na herança: **Star Fire Escape** (movimento: usa starlight Immortal Gu + incontáveis Gu mortais fire path, corpo envolto em chamas azuis para voo extremamente rápido) e **Projected Star Thought** (investigativo: usado para expor o zumbi imortal Sha Nan Jiang). Total agora: 6 immortal killer moves star path (Star Cloud Grindstone, Star Snake Rope, Six Illusion Star Bodies, Position Star Swap, Star Fire Escape, Projected Star Thought), todos alimentados pelas mesmas 3 Immortal Gu núcleo (Star Mark, Starlight, Star Shoot).
+- Reforço do mecanismo: essas 2 eram receitas incompletas mesmo na herança original (predecessores não conseguiram completá-las); mesmo com attainment star path apenas "ordinário", Fang Yuan consegue completá-las graças exclusivamente à assistência ilimitada do light of wisdom (rank 9 wisdom Immortal Gu) — não por talento pessoal em star path.
+
+## 2. Gu catalogados (continuação 3)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Melt Ice | Immortal | Ice path | Derrete até o gelo mais firme; usada por Shark Demon para neutralizar Freezing Rain Frozen Earth | — | 897 |
+| Stream Veil (immortal killer move) | Immortal killer move | Water path | Véus de água capturam o alvo; muito superior a Star Snake Rope na mesma função | — | 895 |
+| Star Fire Escape (immortal killer move) | Immortal killer move | Star path | Movimento extremamente rápido envolto em chamas azuis | — | 899 |
+| Projected Star Thought (immortal killer move) | Immortal killer move | Star path | Investigativo; expõe presença/identidade oculta | — | 899 |
+| Submission Song (immortal killer move) | Immortal killer move | Sound+wisdom+enslavement+soul | Converte temporariamente desolate beasts/ancient desolate beasts para o lado de quem canta | — | 898 |
+| Soul Taker Battlefield | Battlefield killer move | Soul path | Converte almas de seres vivos em soul beasts (finito); criado por Spectral Soul Demon Venerable jovem | — | 898 |
+| Fighting Soul Battlefield | Battlefield killer move | Soul path | Versão aprimorada/infinita do anterior; criada por Paradise Earth Immortal Venerable | — | 898 |
+| Hundred Million Slaughterfield | Battlefield killer move | Soul path | Versão mais mortífera, criada por Spectral Soul Demon Venerable já mais velho | — | 898 |
+| Immortal Aperture Transplantation Method | Immortal killer move (16 Immortal Gu núcleo) | Refinement/space | Relocação de blessed lands mortas via transplante para corpo de desolate beast | — | 900-901 |
+
+## 3. Mundo e sociedade (continuação 3)
+
+- Eastern Sea: territórios marítimos ("sea areas") funcionam como propriedade individual de Gu Immortals; existe um ranking público de sea areas por qualidade/riqueza; existem "10 grandes sea areas" reconhecidas.
+- Song clan: super força top 10 de Eastern Sea, 18 Gu Immortals; disputa centenária por Ascending Heaven Plain (herança de Old Eccentric Tian Nan) contra clã Cai e clã Ruo Lai.
+- Old Eccentric Tian Nan: 3º dos refinement path supreme grandmasters; tentou refinar os nove céus imemoriais e morreu fracassando.
+- Twin Polar Sea Strait: sede permanente de Song Jia Dan (wisdom path Gu Immortal fundido ao terreno).
+- Lang Ya Sect: nova seita fundada por Lang Ya land spirit, estruturada como as seitas de Central Continent, com sistema de guerra anual entre 3 reinos como filtro de elite.
+
+## 4. Economia e vida cotidiana (continuação 3)
+
+- Renda mensal de Fang Yuan: >1000 immortal essence stones/mês (6 fontes ativas), projeção de 1500/mês (cap. 900).
+- Preço do empréstimo do conjunto de 16 Immortal Gu de relocação de blessed land: 2000 immortal essence stones + 2 Immortal Gu como colateral (cap. 900).
+- "Medicine ice" (material rank 8): mesmo em porção do tamanho de uma palma, tem valor suficiente para funcionar como suborno relevante entre Gu Immortals (cap. 893).
+- Condição de reconhecimento de land spirit pode incluir materiais rank 9 (sangue de um Immortal Venerable) — praticamente inatingível, força métodos de conquista à força (cap. 897).
+
+## 5. Estudos de caso mecânicos (continuação 3)
+
+### Caso: engenharia de escândalo público via memória de vida passada (caps. 894-897)
+Ver seção 1. Método: reconstituir deliberadamente um evento futuro conhecido (de uma biografia lida na vida passada) para gerar um encontro comprometedor "genuíno" com uma alvo de clã poderoso, depois fugir por uma rota pré-mapeada passando por testemunhas específicas (incluindo uma rival fofoqueira) para maximizar a viralização do escândalo, criando pressão social que force a própria adesão a uma organização (Zombie Alliance). Recursos: conhecimento de vida passada + reconhecimento extensivo prévio da região + disfarce (vaguely familiar face) + killer moves de movimento/combo de clones para escapar sem ser pego.
+
+### Caso: relocação de blessed land via transplante em desolate beast (caps. 900-901)
+Ver seção 1 ("Immortal Aperture Transplantation Method"). Método completo documentado acima — inclui dedução de 2 Gu formation charts, posicionamento físico de 12 Immortal Gu, ativação por feixes oculares, e transporte físico vulnerável do animal-hospedeiro até o destino, com sacrifício garantido do animal ao final.
+
+## 6. Glossário (continuação 3)
+
+- Fighting Soul Battlefield / Soul Taker Battlefield / Hundred Million Slaughterfield — família de battlefield killer moves de soul path ligadas a Spectral Soul Demon Venerable e Paradise Earth Immortal Venerable.
+- Submission Song — immortal killer move de Feng Jiu Ge que converte desolate beasts para seu lado.
+- Stream Veil — immortal killer move de captura de water path (Song Yi Shi).
+- Immortal Aperture Transplantation Method — método de relocação de blessed lands, criado por Old Immortal Kong Jue.
+- Ascending Heaven Plain — local disputado por Song clan, Cai clan e Ruo Lai clan; contém herança de Old Eccentric Tian Nan.
+- Twin Polar Sea Strait — sede de Song Jia Dan.
+- Emotion Poetry Gu — Gu mortal wisdom path rank 4, armazena emoções, produzido em poetic emotion sea area.
+- Lang Ya Sect — nova seita fundada por Lang Ya land spirit.
+- Spinefin star dragonfish — desolate beast usada por Fang Yuan como transportador de blessed land.
+
+## 7. Dúvidas e lacunas (continuação 3, FINAL do bloco)
+
+- **Possível resposta parcial a mecânica de dedução wisdom path/localização**: o fracasso de Song Jia Dan (rank 7, um dos 3 maiores wisdom path de Eastern Sea) em localizar Fang Yuan sugere que dedução de localização tem alcance regional (o alvo precisa estar fisicamente na mesma região do investigador) — não é busca global instantânea. Precisa de mais confirmações em blocos futuros para virar regra fechada.
+- Se "land spirit não consegue mentir" (cap. 880) é regra geral ainda não confirmada — nenhum dado novo neste sub-bloco.
+- Resultado final do duelo Qin Bai Sheng vs. Feng Jiu Ge em Luo Po valley ainda em aberto ao fim do bloco (901).
+- Natureza exata do "arranjo oculto"/agente que Shadow Sect tem dentro do Northern Plains Zombie Alliance não detalhada.
+- **Nenhum dado numérico de % de aptidão para ruptura de rank apareceu em NENHUM capítulo do bloco 860-901** — a lacuna prioritária listada em LACUNAS.md (limiares de aptidão além do 55% de 1→2) segue completamente sem resposta neste bloco inteiro; sinalizar para o próximo leitor continuar monitorando com prioridade.
+- Identidade e propósito final do "Immortal Gu em formação" em Luo Po valley (central ao "grande plano" de Shadow Sect) permanece não revelado.

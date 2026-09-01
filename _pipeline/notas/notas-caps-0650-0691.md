@@ -227,6 +227,12 @@
 | Dark Arrow Gu ⭐ | 6 (Immortal) | (ofensivo, provável info/perseguição) | Dispara flechas pretas pequenas e discretas que perseguem o alvo autonomamente, mudando de direção para sempre acompanhá-lo; até 3 flechas simultâneas no máximo | — | 677 |
 | Qi Escape Gu ⭐ | ? (nº 4 da "List of Top Ten Mystical Gu") | Movimento | O Gu de voo em linha reta mais rápido do mundo, sem rival; reverse-refinado a partir do lendário "reputation Gu"; base de inspiração da killer move Kong Sheng Tian | — | 678 |
 | Mountain Pledge / Sea Oath — já catalogados (ver bloco 660) | | | | | |
+| Small Family Qi Gu | 5 (ancestral, mortal) | Qi | Absorve e armazena qi de céu-e-terra de qualquer tipo; pode ser criado/promovido a Immortal Gu Big Family Qi; usado para retardar/controlar acúmulo de qi durante tribulação, reduzindo sua severidade | — | 683-684 |
+| Divert Disaster Gu ⭐ | 6 (Immortal) | Luck | Dispara feixe de luz destrutivo pelos olhos, muito mais preciso/poderoso que killer move mortal; forçar demais o uso grava dao marks permanentes nos olhos (cegueira irreversível) e autodestrói o próprio Gu | — | 685 |
+| Death Sentence Awaits ⭐ | 7 (Immortal) | Rule | Define o momento exato da morte de um alvo; ao chegar a hora, mata até um Gu Immortal, sem exceção | — | 683 |
+| Instant Pause Gu ⭐ | 6 (Immortal) | Time | Congela o tempo de um alvo por "seis instantes"; Immortal Gu do mesmo path próximos ressoam/vibram quando ativado (detecção passiva entre Gu do mesmo path) | — | 688 |
+| Dark Prison (Immortal Gu House) ⭐ | 6 (Immortal, propriedade coletiva do clã Hei) | (contenção de besta) | Pérola preta que funde como "estábulo" e aprisiona um desolate beast ancestral (aqui, o "sharp tusk boar"); pode ser liberado como trunfo | — | 689, 691 |
+| Rewind Gu — já catalogado (ver bloco 670-679) | | | | | |
 
 ## 3. Mundo e sociedade
 

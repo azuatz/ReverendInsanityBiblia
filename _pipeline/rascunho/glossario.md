@@ -6,8 +6,11 @@ status: rascunho-interno
 
 # Glossário EN → PT
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**. Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> Traduções PT seguem `_pipeline/pesquisa/glossario-pt-centralnovel.md` (tradução brasileira de referência); onde ele não registra tradução, o termo fica em inglês com glosa descritiva — nunca inventar tradução própria.
 > Destaques da 1ª metade do V5: escala completa de alma (man soul → desolate soul) e de attainment (quasi- → supreme grandmaster); os 4 secluded domains reunidos e o título de Reverse Flow River Lord; economia de time path (year Gu / year beast / Years Flow Like Water); phantom aperture e false immortal; "Destiny" (rank 10) e a Grande Era.
+> Destaques da 2ª metade do V5: a consumação da **Grande Era** (queda das regional walls); **heaven path dao mark** como marca "totalizante" do próprio Heavenly Dao; as 4 técnicas formais de manipulação de killer move; compound killer moves e path mimético; o **origin core** da aperture e o "rank 8 falso"; Dao fields/Great Worlds na Crazed Demon Cave; human will como recurso de human path.
+> Destaques do V6: **qi tides** e o mundo unificado (Ten Earths, heaven veins, Spectral Heaven); as **4 condições de ascensão a Venerável** e o Heavenly Dao blockade; **Dao Lord**; **truthful floating ice** e o **Primordial Domain**; **heaven path** formalizado (unrestrained heavenly mark, Obscured Heavenly Secret); **totem killer moves**; Chaos e chaotic disaster como fraqueza estrutural dos Veneráveis; infraestrutura de aperture (dao veins, resource points, boards de contribuição).
 
 ## Resumo do domínio
 

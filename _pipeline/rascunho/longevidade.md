@@ -6,13 +6,14 @@ status: rascunho-interno
 
 # Longevidade
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
+> **V5 2ª metade + V6 fecham o domínio com a revelação-chave**: o **lifespan de um cultivador de Gu É, em essência, dao marks de heaven path** (cap. 2275) — daí o lifespan Gu ser um **Gu de heaven path irrefinável por qualquer um**, inclusive pelos dez Veneráveis, e daí ele ser **uma das três travas do Heavenly Dao blockade** que impede o surgimento de novos Veneráveis (cap. 2085). A raridade ganha causa estrutural: **durante uma era com Venerável vivo a produção natural de lifespan Gu cai continuamente** (cap. 2085). Fecham o quadro: a distinção formal entre **longevidade e vida eterna** (cap. 2189) e o **fracasso documentado do maior projeto de vida eterna da história** (caps. 2209, 2216, 2286); o teto numérico de 25.000 anos para o Venerável mais longevo (cap. 1747) contra 100.000+ anos por hibernação selada (cap. 1903); o **Lying in Bed** como método nº 1 de extensão depois do lifespan Gu (cap. 2328); e as regras completas do **roubo de lifespan** (Steal Life, 3 usos, cumulativo e invisível, com imunidade para quem já sacrificou os próprios dao marks de lifespan — caps. 1581, 1836, 1966).
 > **1ª metade do Volume 5 (caps. 1022–1513)**: o lifespan Gu é finalmente definido como um Gu **MORTAL** e, ainda assim, a moeda mais forte do mundo imortal — acima de immortal essence stones em transações de alto nível (caps. 1074, 1128, 1441). Descobre-se sua **origem demográfica**: nascem de formas de vida, logo mais população + mais história + mais espaço = mais lifespan Gu acumulados numa região (cap. 1074), o que reescreve a economia mundial do recurso e explica o ciclo de saque venerável. Regra estrutural nova e cara: métodos de extensão via day/month/year Gu **gravam dao marks de time path no corpo**, e o acúmulo eventualmente IMPEDE o uso futuro de lifespan Gu genuínos (cap. 1400) — a gambiarra fecha a porta do método legítimo. Fecham o quadro o sono de rank 8 da Heavenly Court com custo oculto (cap. 1070), o year Gu que gradua por anos armazenados (cap. 1129) e o preço fixo de 50 anos do Yes or No (caps. 1036-1039, 1054).
 > Domínio: lifespan, envelhecimento, expectativa de vida, lifespan Gu, métodos de extensão de vida e seus custos; lifespan como MOEDA de atalhos temporais e de dedução (wisdom path). O V4 fecha a DEFINIÇÃO de lifespan imortal (tempo subjetivo experienciado, contando dilatação) e o cardápio completo de métodos alternativos.
 
 ## Resumo do domínio
 
-Humanos vivem ~100 anos; a morte é lei do mundo ("mesmo Ren Zu teve que morrer"). O único método de estender a vida "pela raiz", reconhecido pelo Céu e pela Terra, é o raríssimo **Lifespan Gu** (+anos iguais ao seu grau, sem efeito colateral). Todo o resto é gambiarra com preço estrutural: zumbificação (vida indefinida num corpo morto), animação suspensa, liberação lenta de força vital acumulada (corpo-criança permanente), ressurreição condicional. O Volume 2 acrescenta o inverso: **lifespan como moeda de pagamento** — os Gu de aceleração temporal (Third Watch Gu, instant success Gu) compram tempo de cultivo queimando anos de vida, formalizando a troca "vida por velocidade" como mecânica central do caminho do tempo.
+Humanos vivem ~100 anos; a morte é lei do mundo ("mesmo Ren Zu teve que morrer"). O único método de estender a vida "pela raiz", reconhecido pelo Céu e pela Terra, é o raríssimo **Lifespan Gu** (+anos iguais ao seu grau, sem efeito colateral). Todo o resto é gambiarra com preço estrutural: zumbificação (vida indefinida num corpo morto), animação suspensa, liberação lenta de força vital acumulada (corpo-criança permanente), ressurreição condicional. O Volume 2 acrescenta o inverso: **lifespan como moeda de pagamento** — os Gu de aceleração temporal (Third Watch Gu, instant success Gu) compram tempo de cultivo queimando anos de vida, formalizando a troca "vida por velocidade" como mecânica central do caminho do tempo. O **Volume 6 fecha o domínio revelando o que o lifespan É**: dao marks de heaven path armazenados no cultivador. Isso reorganiza tudo — explica por que o lifespan Gu é irrefinável (fabricá-lo seria fabricar lei celeste), por que ele é uma das três travas com que o Heavenly Dao impede o surgimento de Veneráveis, e por que a busca pela vida eterna, no fim da obra, é conduzida inteiramente por rotas de heaven path. A obra também separa formalmente **longevidade** (muitos anos, ainda ameaçáveis por um inimigo mais forte — é tudo o que os Veneráveis tiveram) de **vida eterna** (invencibilidade completa contra tempo, espaço e seres vivos), e documenta o fracasso do maior projeto de vida eterna da história sem jamais declarar que ela seja impossível em princípio.
 
 ## Regras do mundo
 
@@ -28,6 +29,14 @@ Humanos vivem ~100 anos; a morte é lei do mundo ("mesmo Ren Zu teve que morrer"
 10. `[comum]` Lifespan Gu também **restaura juventude** e reverte envelhecimento induzido (o envelhecimento massivo causado pelo Love Gu é revertido por lifespan Gu, cap. 1266; resgate de talento por rejuvenescimento, cap. 1331).
 11. `[especializado]` Queimar a própria expectativa de vida **eleva o poder ofensivo**, permitindo lutar acima do próprio nível temporariamente (cap. 1109) — lifespan como combustível de combate, não só de dedução.
 12. `[especializado]` **Produzir lifespan Gu dentro da própria immortal aperture é o 7º e ÚLTIMO nível de desenvolvimento de uma aperture** (cap. 1489) — o topo formal da escala de autossuficiência imortal.
+13. `[segredo]` **O lifespan de um cultivador de Gu É, em essência, dao marks de heaven path** (cap. 2275). Consequências diretas: o **lifespan Gu é um Gu de heaven path** e por isso **não pode ser refinado por ninguém**, nem pelos dez Veneráveis (cap. 2085); todo custo de vida e todo custo de heaven path são a mesma transação (o backlash em anos do Heavenly Secret Gu é literalmente o material de heaven path que não foi pago — cap. 2275); e "vida eterna" é, no limite, um problema de heaven path.
+14. `[segredo]` **O lifespan Gu é uma das três travas do Heavenly Dao blockade** que impede o surgimento de Veneráveis (as outras duas: uma tribulação suprema acima da myriad, e o fate Gu) — cap. 2085. **Todos os dez Veneráveis foram restritos por lifespan** e há registro histórico de Veneráveis caçando lifespan Gu com toda a sua força.
+15. `[especializado]` **A produção natural de lifespan Gu CAI continuamente durante uma era com Venerável vivo** (cap. 2085) — refina a regra 7: não é só o saque, é a oferta que encolhe justamente quando o mais forte precisa dela.
+16. `[segredo]` **Longevidade ≠ vida eterna** (cap. 2189): longevidade é muitos anos, e mesmo a de um Venerável segue ameaçável por um inimigo mais forte; **vida eterna é invencibilidade completa** — imunidade permanente ao tempo, ao espaço e aos seres vivos. Nenhum ser da história alcançou a segunda; o projeto mais bem preparado (um milhão de anos de planejamento) **falhou e matou seu autor** (caps. 2209, 2216, 2286). Perguntar por um método de vida eterna via natural inspiration **não obtém resposta**: excede o que céu e terra conseguem responder (cap. 2262). O texto **não** declara a vida eterna impossível em princípio.
+17. `[especializado]` **Mexer permanentemente nos próprios dao marks de lifespan trava TODA manipulação externa deles — benéfica e hostil** (cap. 1836): quem abusa de métodos de extensão fica imune a lifespan Gu, e quem sacrifica lifespan futuro de forma definitiva fica imune a roubo de vida (Steal Life). É a mesma regra vista pelos dois lados; confirma e unifica a regra 8 (cap. 1400).
+18. `[especializado]` **Roubo de lifespan é arma real, com limites próprios**: pode atingir uma área inteira sem distinguir lados, pode ser **cumulativo e imperceptível** (a vítima morre de exaustão de vida sem nunca saber que foi roubada, cap. 1966), e é **desproporcionalmente letal contra veteranos**, que já gastaram a maior parte do próprio lifespan e por isso hibernam entre batalhas (cap. 1581).
+19. `[especializado]` **Hibernação profunda é categoricamente mais eficiente que viver acordado**: uma formação de selamento com extensão embutida permite **100.000+ anos sem ser Venerável** (cap. 1903), contra os **25.000 anos** do Venerável mais longevo da história vivendo ativamente (cap. 1747). Dormir rende mais anos que ser o ser mais poderoso do mundo.
+20. `[especializado]` **Existem métodos que MOVEM vida, mas só o lifespan Gu a CRIA**: a transferência de lifespan por yin-yang path entre dois Gu Immortals é **soma zero** — puro transporte (cap. 2298). Toda extensão que não venha de lifespan Gu ou é transferência, ou é conservação (hibernação), ou é gambiarra com preço estrutural.
 13. `[especializado]` Até Veneráveis rank 9 têm lifespan LIMITADO — consequência direta da natureza niveladora do heaven's will (cap. 1022); Giant Sun não alcançou vida eterna e seu corpo principal morreu (cap. 1243). Sem o Fate Gu íntegro, nem rank 9 escapa.
 
 ## Expectativa de vida e envelhecimento
@@ -234,6 +243,141 @@ Ponto adjacente e não explicado (cap. 1053): colocar a aperture "para fora", no
 ### Cura extrema vs. extensão (fronteira mantida)
 
 - **Blood Healing Lake**: regenerou a metade inferior do corpo perdida e curou ferimentos catastróficos em **3 DIAS**, dado blood path grandmaster + Immortal Gu rank 6 de suporte (cap. 1058). Segue valendo a distinção do V1/V2: cura extrema é **resgate**, não extensão de lifespan.
+
+
+## Atualizações do Volume 5 — 2ª metade (caps. 1514–1966)
+
+### Lifespan como arma: o Steal Life e as regras do roubo de vida
+
+`[especializado]` — o V5-2ª metade formaliza lifespan como alvo de ataque, não só como recurso próprio.
+
+- **Steal Life Immortal Gu** (rank 8, núcleo da true inheritance de um Venerável): **retrai para o usuário uma quantidade de lifespan de TODOS os seres vivos na área**, sem distinguir aliado de inimigo — visualmente, uma luz vermelha que se espalha e depois recolhe "como flechas voltando ao arco", envelhecendo instantaneamente todos os atingidos (cap. 1581). Regras:
+  - **Limite inamovível de 3 usos**, após os quais autodetona — restrição imposta pelo próprio Venerável criador e **impossível de remover** por quem herda (caps. 1751, 1759, 1581-1582).
+  - É um **"efeito único", não um killer move completo**: rouba lifespan mas não causa dano direto de combate, então defesas parciais funcionam — os atingidos reduzem, mas não bloqueiam tudo (cap. 1581).
+  - A falha de não distinguir lados pode ser **corrigida por dedução**: um killer move derivado, com o mesmo Immortal Gu como núcleo, mira só inimigos — mas não remove o limite de 3 usos (caps. 1751, 1759).
+  - **A dedução e a execução podem ser separadas entre duas pessoas**: quem deduziu o killer move não precisa ser quem fornece a essência imortal para executá-lo (cap. 1759).
+  - **Modo reverso oculto**: usado ao contrário, **DÁ o próprio lifespan do usuário a um alvo** — descrito como a "essência mais profunda" dessa herança. Exige **quasi-supreme grandmaster em theft path**; com attainment menor, tentar usá-lo apenas **corta o próprio lifespan por engano** (cap. 1782). Ver `cultivo-imortal.md` sobre o teto de herança.
+- **Por que roubo de lifespan é desproporcionalmente letal contra veteranos** `[especializado]`: Gu Immortals antigos e poderosos **já gastaram a maior parte do próprio lifespan** — é justamente por isso que passam a maior parte do tempo dormindo no cemitério imortal, acordando só quando necessário. Um ataque de roubo de vida que mal arranha um jovem **mata um veterano de velhice instantânea** (cap. 1581). Conservação por hibernação e vulnerabilidade a roubo de vida são a mesma moeda.
+- **Roubo cumulativo e invisível** `[segredo]` (cap. 1966): o efeito por uso pode ser **baixo e quase imperceptível**, mas **cumulativo e oculto** — um alvo pode ser drenado ao longo de anos sem jamais perceber, e simplesmente **morrer de exaustão de vida** mais cedo do que deveria, no meio de uma batalha, sem ferimento que explique. É o assassinato mais indetectável que o sistema permite.
+- **Imunidade a manipulação de lifespan** `[especializado]` (cap. 1836 — regra generalizável importante): quem **sacrificou o próprio lifespan futuro de forma permanente e voluntária** via certos killer moves de alto rank (ex.: um golpe que troca vida futura por força presente em definitivo) fica **imune a qualquer manipulação externa de dao marks ligados a lifespan**, Steal Life incluído. O texto liga isso explicitamente ao mesmo mecanismo pelo qual quem abusa de métodos de extensão fica **imune a lifespan Gu** — as duas imunidades são a mesma regra vista pelos dois lados: **mexer demais nos próprios dao marks de lifespan trava toda manipulação futura, benéfica ou hostil**.
+- **Queimar lifespan como amplificador de poder** (mecânica invertida, cap. 1721): existe killer move em que **quanto MENOR o lifespan restante, MAIOR a amplificação de poder** concedida — em todos os aspectos. E é **irreversível**: uma vez ativado, o lifespan "só pode diminuir, nunca aumentar" enquanto o efeito persiste (cap. 1732). O arquétipo mecânico do guerreiro que fica mais forte quanto mais perto da morte está.
+
+### Hibernação: a tecnologia central de conservação
+
+`[especializado]`
+
+- **Hibernação profunda é categoricamente mais eficiente que viver ativamente.** Uma formação de selamento que mantenha o selado em hibernação constante permite **viver mais de 100.000 anos sem ser Venerável** — mais que o Venerável de maior lifespan da história. O método de extensão da Heavenly Court permitiria hibernar por **milhões de anos** (cap. 1903).
+- **Extensão de lifespan é campo de pesquisa vivo, não conhecimento estático**: mesmo durante a hibernação de um único Gu Immortal, o método da Heavenly Court acumulou "muitos novos achados e melhorias" (cap. 1926).
+- **Lying in Bed** `[segredo]` (killer move de human path, cap. 2328): converte a **immortal aperture doada por um Gu Immortal à Heavenly Court** numa "cama livre de calamidades e tribulações", estendendo enormemente o lifespan de quem a possui. Criado por Primordial Origin Immortal Venerable com o último fôlego, após ser ferido de morte ao fechar um buraco no mundo. É declarado **o método nº 1 de extensão de vida da história, atrás apenas do lifespan Gu** — e é a base mecânica de todo o sistema de recrutamento da Heavenly Court e do seu cemitério imortal. Explica por que entrar na Heavenly Court vale entregar a própria aperture.
+
+### Números de calibração do teto
+
+- **O Venerável de vida mais longa da história teve 25.000 anos de lifespan total** (cap. 1747) — dado numérico raro e o melhor teto absoluto disponível para um rank 9 vivendo ativamente. Compare com os 100.000+ anos alcançáveis por hibernação selada (cap. 1903): **dormir rende quatro vezes mais anos que ser o ser mais poderoso da história acordado**.
+- **Reserva pessoal documentada**: um cultivador de topo carrega o equivalente a **"quatro mil anos de lifespan Gu"** para reverter envelhecimento em combate (cap. 1581) — lifespan Gu como consumível de batalha, não só como poupança.
+
+### Novos consumidores de lifespan (V5-2ª metade)
+
+- **Ferimentos dentro de um dream realm consomem lifespan**, além de soul foundation (cap. 1597).
+- **Dedução de wisdom path que FALHA gera backlash severo** no deduzidor, incluindo **perda de lifespan e de juventude** (cap. 1618). Complementa a regra do V5-1ª metade (custo fixo de 50 anos do Yes or No): o custo existe tanto no sucesso quanto no fracasso.
+- **Métodos proibidos de formation path** consomem o próprio lifespan para romper defesas rapidamente (caps. 1921-1922).
+- **Killer moves de herança racial** podem consumir **lifespan diretamente** além dos dao marks — categoria distinta dos killer moves comuns porque o núcleo é o corpo/linhagem do usuário, não um Immortal Gu, e por isso **não é replicável por outras raças** mesmo com a receita em mãos (caps. 1995-1996).
+
+### Longevidade racial e o zumbi imortal
+
+- `[especializado]` **O método de extensão de lifespan dos dragonmen é declarado "o segundo melhor depois do lifespan Gu"** — e isso é apresentado como **ameaça estrutural à humanidade**, não como curiosidade: como lifespan Gu são raros mas a demanda por vida longa é universal, uma raça com boa extensão de vida **tende a crescer sem limite às custas da população humana** (cap. 1748). Longevidade é uma vantagem demográfica composta.
+- `[especializado]` **Drought immortal zombie** (cap. 1885): método de extensão que **converte um Gu Immortal próximo do limite de lifespan em zumbi imortal**, com força de combate rivalizando rank 8 (um rank 7 vira um "small drought immortal zombie" incompleto, com força apenas rank 7). Nota de mercado reveladora: **há pouco interesse nele porque, se o Fate Gu for reparado, "immortal zombies deixarão de existir"** — o mundo não permitiria mortos-vivos. Ou seja, a viabilidade de toda a rota da zumbificação é **contingente ao estado do Fate Gu**. Ver `transformacoes-e-corpos-especiais.md`.
+- Long-lived variantes humanas (hairy man e afins) têm vida longa mas **ainda mortal e finita** (cap. 1758) — nenhuma raça escapa da regra.
+
+### O que a queda do Fate Gu abriu
+
+`[segredo]` (cap. 1966, evento fundador da Grande Era): com o Fate Gu fragmentado e sua função distribuída entre a humanidade, o texto declara explicitamente que **"a partir de agora, finalmente havia a possibilidade de perseguir a vida eterna"**. Isso é a dobradiça do domínio inteiro: até aqui, longevidade era administração de um recurso escasso; a partir daqui, **vida eterna vira um projeto tecnicamente concebível** — e o Volume 6 é, em boa medida, a história desse projeto (e do seu fracasso). Reconfirmação prévia: **enquanto o Fate Gu existir, nenhum ser pode ter vida eterna** (cap. 1817, como fato estabelecido em "The Legends of Ren Zu").
+
+
+## Atualizações do Volume 6 (caps. 1967–2334)
+
+### A REVELAÇÃO CENTRAL: lifespan É dao marks de heaven path
+
+`[segredo]` — cap. 2275, equivalência declarada diretamente no texto:
+
+> **O lifespan de um cultivador de Gu é, em essência, dao marks de heaven path.**
+
+Tudo no domínio se reorganiza em torno disso:
+
+- **Por isso o lifespan Gu é classificado como Gu de heaven path** — e por isso ele **não pode ser refinado por ninguém**, nem pelos dez Veneráveis (cap. 2085). Um Gu que só nasce e nunca é fabricado, porque fabricá-lo significaria fabricar dao marks de heaven path.
+- **Por isso todo custo de vida é fungível com todo custo de heaven path**: o backlash em lifespan de um Gu de dedução, o preço de um atalho temporal e o preço de refinar um dao mark celeste são, mecanicamente, a mesma transação.
+- **Caso demonstrativo** (cap. 2275, Heavenly Secret Gu rank 9): esse Gu de heaven path falhava em **8 de cada 10 ativações**, com backlash de **10 a 70 anos de lifespan por falha**. A causa-raiz descoberta: ativá-lo exige, além de essência imortal, **consumir materiais imortais de heaven path como combustível**. É possível ativá-lo sem gastar esses materiais — mas então o custo material da **próxima** ativação sobe muito, e **é exatamente essa lacuna de material não pago que se converte em backlash de lifespan**. O sistema cobra em anos de vida o que você não pagou em matéria-prima celeste, porque as duas coisas são a mesma substância.
+- **Corolário para o design e para a lore**: "vida eterna", no limite, seria um problema de heaven path — acumular, reciclar ou parar de perder esses dao marks. O texto não fecha essa inferência explicitamente, mas ela é a leitura direta dos dados e explica por que a busca pela vida eterna, no fim da obra, é conduzida inteiramente por rotas de heaven path.
+- **Confirmação relacionada**: o **second aperture Gu de rank 6** usa **lifespan Gu como material** — e é por isso que ele é um Gu clássico de heaven path (cap. 2295). Ver `cultivo-imortal.md`.
+
+### O lifespan Gu como uma das três travas do Heavenly Dao
+
+`[segredo]` — cap. 2085. O **Heavenly Dao blockade**, o mecanismo formal que impede o surgimento de Veneráveis, tem três componentes, e o **lifespan Gu é um deles**:
+
+1. Uma **tribulação suprema**, acima da myriad tribulation;
+2. O **lifespan Gu** — um Gu de heaven path **que ninguém consegue refinar**;
+3. O **fate Gu**.
+
+Regras que decorrem disso:
+
+- **Todos os dez Veneráveis foram restritos pelo lifespan.** Há registros históricos de Veneráveis **caçando lifespan Gu com toda a sua força** (cap. 2085) — o ser mais poderoso de uma era gastando essa força atrás do mesmo item escasso que um clã de fronteira. Ver `cultivo-imortal.md`.
+- `[especializado]` **Durante uma era com Venerável vivo, a produção natural de lifespan Gu CAI continuamente** (cap. 2085) — fecha e refina a regra 7 (lifespan Gu nascem de formas de vida, cap. 1074): não é só que o Venerável saqueia o estoque; **a presença dele deprime a produção**. O recurso escasseia exatamente quando o mais forte precisa dele.
+- **Mesmo rank 9 não vive para sempre**: "mesmo rank 9 é invejado pelos céus, mas ainda não pode viver para sempre — segue restrito por lifespan" (cap. 2260).
+
+> [!note] Para o design
+> Esta é a estrutura mais elegante do sistema inteiro: o teto de poder do mundo não é imposto por um inimigo nem por uma regra arbitrária, mas por **um item de inventário que ninguém consegue fabricar** — e cuja oferta encolhe justamente quando alguém se aproxima do teto. É um limitador econômico fazendo o trabalho de um limitador narrativo.
+
+### Longevidade × vida eterna — a distinção formal
+
+`[segredo]` — cap. 2189, definição explícita:
+
+- **Longevidade** = muitos anos. Mesmo a de um Venerável **ainda está sujeita a ser ameaçada por um inimigo mais forte**. Citação direta: *"mesmo Veneráveis só têm longevidade, não se pode dizer que têm vida eterna — especialmente agora que múltiplos Veneráveis existem na mesma era, eles ameaçam a existência uns dos outros."*
+- **Vida eterna (eternal life)** = **invencibilidade completa**: imunidade total e permanente ao tempo, ao espaço e aos seres vivos — e, na formulação mais extrema do V6, ao **Caos de fora do mundo**.
+
+**O projeto de vida eterna e seu fracasso** `[segredo]` (caps. 2208-2209, 2216, 2274, 2286):
+
+- O ser mais bem preparado da história para a tentativa — com **um milhão de anos de planejamento** — construiu uma formação inteira cujo núcleo era um Immortal Gu rank 9 de derivação, e criou a **truthful floating ice** digerindo "o chaos de fora do mundo", produzindo resultados que **excedem o que o Heavenly Dao deste mundo permite**.
+- **A sequência de testes documentada**: (1) estica o braço desprotegido para dentro do buraco na fronteira do mundo — o braço vira carvão mas se recupera; **não é vida eterna**; (2) amplificado pelo sacrifício do próprio **Dao Guardian** via practice Gu, repete o teste e o braço volta **intacto** — ainda não é vida eterna; (3) tenta **sugar o Caos para dentro do próprio corpo** como recurso de cultivo — **FALHA**: fogo negro irrompe de seu nariz e ouvidos, ele declara *"eu falhei… a vida eterna não existe"* e **se desintegra de volta em fragmentos de truthful floating ice**.
+- **Regra enunciada por ele antes de falhar**: *"só com a ajuda do Dao Guardian um Venerável pode dar mais um passo, para romper o reino de Venerável e alcançar a vida eterna."* Conecta-se ao traço comum dos dez Veneráveis (todos tiveram um Dao Guardian — amigo ou inimigo).
+- **Confirmação final** (cap. 2286): o projeto **falhou**; mais da metade da truthful floating ice foi perdida, e o restante foi dividido em três pelos vencedores. O legado sobrevive **apenas como fragmentos de tecnologia rank 9 avulsa** (derivation Gu, heavenly secret Gu), não como método de vida eterna.
+- **Nem o mundo sabe responder**: perguntar por um método de vida eterna via *natural inspiration* **não obtém resposta alguma** — "céu e terra não têm como responder" (cap. 2262). A pergunta excede os limites de céu e terra.
+
+> [!warning] Deixado em aberto pela obra
+> O texto **não** afirma que a vida eterna é definitivamente impossível — afirma que o ser mais preparado da história morreu tentando, e que a pergunta está além do que o mundo consegue responder. Se isso é um limite ontológico ou apenas o limite do conhecimento atual **permanece deliberadamente em aberto** (cap. 2209).
+
+### Novos consumidores e ladrões de lifespan (V6)
+
+- `[especializado]` **Gu de heaven path cobram lifespan de mortais**: a família do *heaven's envy Immortal Gu* (heaven's rage, heaven's sorrow…) normalmente **não pode ser ativada nem por um Venerável rank 9**. A única exceção: **um MORTAL pode ativá-los se ressoar com a emoção correspondente** — mas o preço é pago **em lifespan**, e o usuário **envelhece de jovem a velho até a morte** ao longo das ativações (caps. 2120-2121). Coerente com a equivalência lifespan = heaven path dao marks: o mortal paga em anos porque não tem outra moeda celeste.
+  - **Como se contorna**: acumular **unrestrained heavenly marks** (dao marks de heaven path refinados) permite ativar esses Gu **sem gastar lifespan** — foi preciso mais de 10.000 deles para conseguir apenas reconhecimento parcial (cap. 2121).
+- `[especializado]` **Defesa que come lifespan de quem ataca**: o método defensivo mais forte de uma Immortal Gu House de time path **extrai rapidamente lifespan de qualquer um que a ataque**; uma vez ativado, **só pode parar depois de no mínimo duas horas** — custo temporal fixo obrigatório para o defensor (cap. 2259).
+- `[especializado]` **Killer move com retroalimentação por lifespan**: *Everlasting Sorrow* causa tristeza intensa num raio de vários li, **reduzindo o lifespan dos afetados** — e a redução **fortalece ainda mais o próprio golpe**, num laço de retroalimentação que o leva a nível quase-pseudo-Venerável (caps. 2260, 2263).
+- `[especializado]` **Transferência de lifespan por yin-yang path** (cap. 2298): a cópula entre um Gu Immortal macho e uma fêmea **transfere lifespan de um para o outro** — **soma zero**, puro transporte, **não gera lifespan novo**. Importante como regra de fronteira: existem métodos de *mover* vida, mas criar vida do nada segue restrito ao lifespan Gu.
+- `[especializado]` **Killer moves de human path de elevação de attainment custam lifespan de quem ativa** (*Endless Learning*: consome pensamentos, essência imortal e lifespan do ativador — caps. 2157, 2293). Ensinar custa vida.
+- `[especializado]` **Ancestor Qi Retraction**: converte seres vivos numa área em correntes de qi que retornam ao usuário como dao marks — ofensivo e cultivo ao mesmo tempo; **duas falhas: consome muito lifespan e não pode ser reativado por 100 dias** após o uso, com sucesso ou fracasso (cap. 2320-ish, bloco 2295-2334).
+- `[especializado]` **Immortal Gu rank 9 que resiste à posse**: há ao menos um que **nem um Venerável conseguiu refinar à força** — em vez de ser possuído, ele apenas "reconhece" um portador sem se deixar controlar; a ativação é imprevisível e **cada uso "tira algo" do portador, às vezes lifespan** (caps. 2330, 2334).
+
+### Prática social do lifespan Gu
+
+- `[comum]` **Filhos Gu Immortals usam lifespan Gu para prolongar a vida dos pais mortais** — prática comum o bastante para ser socialmente reconhecida e, por isso mesmo, para virar **alvo de extorsão**: sequestrar os pais de um Gu Immortal para exigir lifespan Gu é padrão de vilania documentado (caps. 1677, 2249). O item mais valioso do mundo é gasto, rotineiramente, em afeto familiar.
+- `[comum]` Segue valendo tudo do V5-1ª metade: denominação padrão de **100 anos**, circulação em leilões privados, valor **acima** das immortal essence stones, e a raridade crescente registrada aqui (produção deprimida em era de Venerável).
+
+### Evolução da regra (V6)
+
+- **Natureza do lifespan Gu**: V5-1ª metade estabelecia que é um Gu **mortal** (caps. 1299-1300, 1441). O V6 acrescenta a camada de **path**: é um Gu de **heaven path** e, por isso, **irrefinável por qualquer um** (cap. 2085). As duas afirmações não se contradizem — "mortal" descreve o tier, "heaven path" descreve a lei que ele carrega — e juntas explicam sua escassez estrutural: um item de tier baixo que ninguém consegue produzir.
+- **Bloqueio ao uso de lifespan Gu**: o V5 registrava que o acúmulo de dao marks de time path por métodos alternativos impede o uso futuro de lifespan Gu (cap. 1400), e listava como inferência a ligação com os casos de imortais que ficaram imunes ao Gu. O V6 **confirma o mecanismo unificado** (cap. 1836): mexer de forma permanente nos próprios dao marks de lifespan trava toda manipulação externa desses dao marks — **inclusive a benéfica (lifespan Gu) e a hostil (Steal Life)**. A lacuna do V5 sobre "se é o mesmo mecanismo" está respondida: é.
+- **Vida eterna**: o V5 deixava em aberto se um Venerável havia obtido o segredo no Crazed Demon Cave (caps. 1173-1176). O V6 **fecha**: ele **falhou e morreu tentando** (caps. 2209, 2216, 2286); o que restou foi tecnologia rank 9 avulsa. Mas o texto se recusa a declarar a vida eterna impossível em princípio.
+
+### Lacunas do domínio (atualização V6)
+
+- ✅ **RESPONDIDO — lifespan é, em essência, dao marks de heaven path** (cap. 2275). É a chave conceitual do domínio inteiro.
+- ✅ **RESPONDIDO — se o bloqueio ao lifespan Gu é o mesmo mecanismo em todos os casos**: sim, manipulação permanente dos próprios dao marks de lifespan bloqueia manipulação externa em ambas as direções (cap. 1836).
+- ✅ **RESPONDIDO — se algum Venerável obteve a vida eterna**: não; o projeto mais bem preparado da história falhou (caps. 2209, 2216, 2286).
+- ✅ **RESPONDIDO — teto de lifespan de um rank 9**: 25.000 anos, do Venerável mais longevo da história (cap. 1747); contra 100.000+ anos alcançáveis por hibernação selada (cap. 1903).
+- ✅ **PARCIALMENTE RESPONDIDO — por que lifespan Gu são tão raros**: além da origem demográfica (cap. 1074), a produção natural **cai continuamente durante uma era com Venerável vivo** (cap. 2085), e o Gu é **irrefinável por definição** por ser de heaven path.
+- Segue aberto: se a vida eterna é ontologicamente impossível ou apenas além do conhecimento atual — o texto recusa a resposta de propósito (cap. 2209).
+- Segue aberto: quantos dao marks de time path bastam para bloquear o uso de lifespan Gu, e se o bloqueio é reversível (cap. 1400) — o V6 confirma o mecanismo mas não o quantifica.
+- Segue aberto: o **custo oculto** do método de sono/hibernação dos rank 8 da Heavenly Court (caps. 1069-1070) — não revelado até o fim da obra. Nota: o *Lying in Bed* (cap. 2328) revela que o preço de entrada é **doar a própria immortal aperture** à Heavenly Court, o que pode ser a resposta, mas o texto não faz a ligação explicitamente.
+- Segue aberto: a taxa de conversão explícita entre lifespan Gu e immortal essence stones — só se sabe que está acima delas (cap. 1128).
+- (novo V6) **Tensão numérica a conciliar**: o cap. 2260 fala em **"onze Veneráveis em toda a história da humanidade"**, contra a contagem de **dez** fechada nos volumes anteriores. Provável inclusão de um Venerável posterior ou de um pseudo-Venerável revivificado na contagem; registrar para o passe de verificação.
 
 ## Lacunas do domínio
 

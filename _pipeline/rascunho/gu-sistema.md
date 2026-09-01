@@ -723,3 +723,284 @@ O Volume 1 não tinha o conceito; o Volume 2 o define (cap. 314): **killer move 
 - **(novo V5)** O mecanismo pelo qual uma **true inheritance eleva temporariamente o RANK DE CULTIVO** (salto r6 → r7 de Black Tigress, chamado pelo próprio narrador de "simplesmente irracional", caps. 1352-1353, parcialmente resolvido no cap. 1376 como ganho artificial e reversível) segue sem explicação — tensão direta com a regra de que rank exige tribulação e acúmulo de dao marks.
 - **(novo V5)** **Man as Before**: catalogado como Immortal Gu de time path que cura o corpo de Fang Yuan (r7) nos caps. 1396/1407, mas o cap. 1441 estabelece que a versão **r6** tem efeito muito fraco em r7 e falha com frequência. Só se concilia se o Gu usado antes fosse de rank superior, ou pela exceção "time path Gu Immortal com muitos dao marks de time path amplifica o efeito" — a segunda leitura é a mais provável, mas não está dita.
 - **(novo V5)** O **alimento do sovereign immortal fetus Gu** é revelado dentro da ficção mas OMITIDO ao leitor (cap. 1371).
+
+## Atualizações do Volume 5 — 2ª metade (caps. 1514–1966) e Volume 6 (caps. 1967–2334)
+
+### Refinement path — o framework completo dos 4 estilos (fecho da obra)
+
+A obra só entrega o mapa completo do refinement path no fim do V6 (cap. 2154 e arredores). O path
+tem **quatro estilos/aspectos**, organizados em dois pares de opostos; dominar os quatro é o
+requisito para virar Venerável por refinement path `[segredo]`:
+
+| # | Estilo | Fórmula | Exemplo canônico |
+|---|---|---|---|
+| 1 | **Hairy man heaven and earth style** | **natureza → Gu**: usa a natureza e as dao marks do ambiente para refinar Gu diretamente | método dos hairy men; **nature Gu refinement technique** de Long Hair Ancestor (caps. 1066-1068, 2108) |
+| 2 | **Contraparte do 1** | **Gu → mundo**: usa Gu worms para refinar o próprio CÉU E TERRA — refinar mundos, não Gu individuais | os arranjos de Limitless Demon Venerable na Crazed Demon Cave (cap. 2131) |
+| 3 | **Human isolation style** | **humano → Gu**: usa humanos como material de refino, implantando/gerando Immortal Gu dentro do corpo dos descendentes | técnica de Ni Ren e a **bloodline condensation** do clã Ni (caps. 2129, 2131) |
+| 4 | **Contraparte do 3** | **Gu → humano**: usa Gu para refinar um ser humano (corpo e alma) | sovereign immortal fetus Gu; **Human Sea**; o mito da **Blue Sea of Life** (cap. 2131) |
+
+- A percepção que costura os quatro é a teoria **"Unifying Human and Gu"** (unificar humano e Gu):
+  *usar humano para refinar Gu* e *usar Gu para refinar humano* são as duas faces da MESMA moeda —
+  e o mesmo vale para o par natureza↔Gu (caps. 2131, 2154) `[segredo]`.
+- O gatilho narrativo do insight é perceber que o mecanismo de revivificação do **Human Sea** é,
+  em essência, um método de cultivo Gu aplicado a **refinar um corpo e uma alma humanos** (cap. 2131).
+- Dominar os quatro aspectos é o que fecha o attainment **supreme grandmaster pleno** em refinement
+  path — pré-requisito estrutural da ascensão a Venerável (cap. 2131).
+- Consequência prática imediata: quem domina o aspecto 3 consegue **engenharia reversa** do estilo de
+  isolamento humano — extrair diretamente Immortal Gu do corpo de membros de um clã que os cultiva
+  internamente (cap. 2131).
+- **Nature Gu refinement technique** (aspecto 1 levado ao limite): usa as dao marks naturais do
+  ambiente EXTERNO para elevar a taxa de sucesso do refino. Historicamente insuperada, é superada no
+  V6 pelo acréscimo de **unrestrained heavenly marks** ao processo (cap. 2108) `[segredo]`.
+
+### Killer move condensável num único Gu — a máxima central do refinement path
+
+Regra-mãe enunciada no cap. 1560-1561 `[especializado]`:
+
+> **"Qualquer killer move, mortal ou imortal, pode ser considerado uma receita de Gu incompleta."**
+
+- Daí decorre a operação de **condensação**: transformar um killer move complexo (dezenas de Gu
+  coordenados) num **único Gu worm** que produz o mesmo efeito. Exige attainment alto em refinement
+  path — na prática, **quasi-supreme grandmaster** para condensar killer moves imortais (caps. 1560-1570).
+- **Trade-offs da condensação** (cap. 1561, 1564, 1570):
+  1. **Ganha**: ativação quase instantânea (basta um pensamento, sem tempo de preparo), gasto de
+     essência imortal muito menor, custo mental muito menor.
+  2. **Perde poder bruto**: um único Gu carrega menos dao marks que a combinação completa de vários
+     Immortal Gu + mortal Gu do killer move original.
+  3. **Perde robustez**: um Gu isolado é mais fácil de roubar ou neutralizar (um golpe de theft path
+     que arranque o Gu núcleo mata o efeito inteiro) do que um killer move distribuído.
+  4. **Perde evolutividade**: o Gu condensado NÃO evolui mais — não ganha variation moves, ao
+     contrário do killer move original.
+- **Nem todo killer move condensa em um só Gu**: alguns permanecem exigindo múltiplos Immortal Gu
+  coordenados mesmo depois de condensados ao limite (cap. 1561).
+- **Framework de criação em 3 estágios** (generalizável para QUALQUER Immortal Gu original nascido de
+  um insight, cap. 1795) `[segredo]`:
+  1. **Sucesso inicial** — criar uma FORMAÇÃO grande e complexa que produz o efeito desejado, porém
+     lenta e impraticável (ex.: milhões de Gu worms + 20 Immortal Gu).
+  2. **Sucesso intermediário** — simplificar essa formação até virar um KILLER MOVE utilizável em batalha.
+  3. **Sucesso completo** — condensar o killer move numa RECEITA de Immortal Gu e refinar o Gu.
+- Um killer move condensado num Gu pode virar a semente de um **path novo**: paths nascem por (a)
+  fusão de dois paths existentes ou (b) subclassificação de um path existente — e ter um Gu
+  condensado como base dá o alicerce para desenvolver o ramo (cap. 1571).
+- **Unificação final** (cap. 2239-2240) `[segredo]`: killer moves, immortal formations, resource
+  points naturais, secluded domains of heaven and earth e certos Immortal Gu consumíveis são todos a
+  MESMA COISA — arranjos concentrados de dao marks de um path. Diferem apenas em serem
+  (a) **naturais/orgânicos** (lentos de formar, sem custo de operação), (b) **artificiais via
+  formação** (rápidos, caros, exigem Immortal Gu + materiais) ou (c) **condensados num Gu worm /
+  killer move portátil**.
+
+### "Will" do Gu — fechamento da regra (V5b/V6)
+
+Complementa a seção "«Will» do Gu — o programa interno" do V5-1ª metade; a regra do cap. 1299
+continua valendo integralmente.
+
+- **Definição operacional de "refinar"** (cap. 1529) `[especializado]`: refinar qualquer Gu worm —
+  mortal ou imortal — é **substituir a vontade interna do worm pela vontade do refinador**,
+  transmitida através da própria essência (primeva ou imortal), que é o veículo dessa vontade. Isso
+  se chama **single refinement** (refinamento único).
+  - Gu selvagens têm "vontades selvagens", difíceis de domar.
+  - Roubar um Immortal Gu **já refinado e impresso pela vontade de outro Gu Immortal** é *ainda mais*
+    difícil — a máxima citada é "o homem é o espírito dos seres vivos": a vontade humana impressa é
+    mais dura de apagar que qualquer vontade natural. É a razão de fundo pela qual **Immortal Gu
+    roubado não se refina à força**.
+- **A brecha operacional para Gu roubado — Wisdom Refinement Formation** (caps. 1578, 1608, 1790)
+  `[segredo]`: a única via prática confirmada é a supressão total e instantânea por **wisdom path**,
+  industrializada numa formação:
+  - Composição: **light of wisdom** (via Wisdom Gu, rank 9) + **Woman's Heart** + **Unravel Mystery**.
+  - Efeito: refina Immortal Gu roubados **rapidamente**, em vez de destruí-los.
+  - Amplificador: a eficácia **aumenta quando a vontade de outra pessoa** participa do processo — o
+    caso registrado usa uma **"fake will"** de terceiro implantada no procedimento (cap. 1790).
+  - Existe também a variante de **refino instantâneo** montada como immortal formation dedicada,
+    acoplada a um golpe de theft path que rouba o Gu: o Gu é roubado e refinado no mesmo gesto,
+    tornando repetível o uso de um Immortal Gu alheio (cap. 1578).
+- **Pipeline completo de espólio de um Gu Immortal capturado** (cap. 1790) `[segredo]` — a sequência
+  padronizada de 5 passos que a obra descreve, útil como modelo mecânico:
+  1. Golpe de theft path modificado rouba **todos** os Immortal Gu do alvo, um a um;
+  2. cada Gu roubado vai imediatamente para a **wisdom refinement formation** e é absorvido;
+  3. golpe de soul path extrai a alma — em cultivadores de soul path é preciso **selar** a alma antes
+     que ela desperte ao sair do dream realm;
+  4. **aperture retrieval**: a immortal aperture é arrancada do corpo e colapsa num "lump of light"
+     selado (a cor varia por path/dono);
+  5. o lump é fundido numa "mini região" da aperture do captor, gerenciando o **caos ecológico**
+     inicial da fusão (beast tides, fauna descontrolada) com subordinados posicionados.
+- **Vontade escondida dentro do próprio artefato** (cap. 1683) `[segredo]`: o criador original de uma
+  Immortal Gu House pode plantar a própria vontade num componente interno (no caso registrado, dentro
+  de uma pintura). Ela é **indetectável mesmo por quem refinou e "possui" o artefato**, dispara
+  sozinha sob uma condição predefinida e **retoma o controle total instantaneamente**, isolando o dono
+  nominal. Método replicável: cláusula de resgate de controle invisível a qualquer inspeção posterior.
+- **Contaminação irreversível por heaven's will** (cap. 1682): um grotto-heaven que já anexou um
+  **fragmento dos nine heavens** fica permanentemente contaminado por heaven's will — a contaminação
+  **não é removível**, e a aperture não pode mais ser anexada por um corpo soberano. Consequência: o
+  fragmento dos nove céus é um upgrade **irreversível**.
+- **Heaven's will nas pedras de essência imortal** (caps. 2302, 2334): pedras de essência imortal de
+  rank alto carregam **muita heaven's will**, que precisa ser removida antes da conversão em essência
+  utilizável — e o processo é **com perda**. Sem métodos adequados de wisdom/luck path, o rendimento
+  observado foi de **~70%** para pedras rank 8. Pedras rank 6 carregam pouquíssima heaven's will e
+  quase não têm perda. **Regra: quanto mais alto o rank da pedra, mais heaven's will e mais lossy a
+  extração.**
+- **Refino paralelo (parallel refining)** — a técnica que funde, num único processo, o refino de
+  elevação de rank e o *reverse refining* de extração da heaven's will de um Gu selado, com taxa de
+  sucesso maior que a do método sequencial — permanece a solução canônica para **arrancar heaven's
+  will de um Gu** (caps. 1479-1480, seção do V5-1ª metade). O V6 acrescenta a alternativa de
+  **atenuação contínua** via unrestrained heavenly mark (ver adiante): quanto mais heaven path dao
+  marks o cultivador refina, **menor o custo de ativar qualquer outro killer move** — refinar dao
+  marks compra "liberdade" progressiva das restrições da heaven's will (cap. 2058).
+
+### Gu de heaven path e as heavenly marks (a grande novidade do V6)
+
+`[segredo]` — o V6 abre o **heaven path** (caminho do céu) como path cultivável, e a regra dos seus Gu
+é a mais estranha do sistema.
+
+- **A regra base do Gu de heaven path** (caps. 2120-2121): **Heaven's Envy Gu** e sua família
+  (heaven's rage, heaven's sorrow…) normalmente **não podem ser ativados nem por um Venerável rank 9**.
+  São uma categoria praticamente inutilizável por qualquer cultivador comum.
+  - **Única exceção nativa**: um **mortal** consegue ativá-los se **ressoar com a emoção
+    correspondente** (inveja/ciúme, no caso do Heaven's Envy) — mas o preço é pago em **lifespan**:
+    o usuário mortal envelhece rapidamente a cada ativação, de jovem a velho até morrer.
+  - O **fate Gu** é confirmado como um Immortal Gu de heaven path (rank 9) — o que explica
+    retroativamente por que ninguém no mundo jamais o "usou" como Gu comum.
+- **Por que exigem heavenly marks livres**: um Gu de heaven path só se refina e se ativa se o
+  cultivador dispuser de um estoque grande de **unrestrained heavenly marks** — heaven path dao marks
+  já *refinadas* e portanto livres da coerção da heaven's will. Sem esse estoque, a própria heaven's
+  will impregnada no Gu rejeita o operador. Com mais de **10.000** unrestrained heavenly marks foi
+  possível **refinar parcialmente** o Heaven's Envy Gu (o Gu resiste, cede em parte, cuspindo fumaça
+  cinza) e **ativá-lo SEM custo de lifespan**, embora só com "reconhecimento parcial" — sem acesso à
+  força plena (caps. 2121, 2129).
+- **Unrestrained Heavenly Mark (marca celestial irrestrita)** — o golpe de ENTRADA do heaven path e
+  **o limiar de entrada mais alto de todos os paths** (cap. 2135). O nome designa duas coisas: o
+  killer move e as próprias marcas brutas roubadas de uma tribulação.
+  - **Linhagem histórica** (cap. 2105): Old Eccentric Tian Nan (1º supreme grandmaster de refinement
+    path, Remote Antiquity) tentou refinar o mundo inteiro como aperture externa e **falhou porque
+    nunca conseguiu refinar heaven path dao marks**. Dois milhões de anos depois, Limitless Demon
+    Venerable (rule path) resolveu o problema. Mais de um milhão de anos depois, Paradise Earth
+    Immortal Venerable (earth path) obteve o método na Crazed Demon Cave e o **modificou** — essa
+    versão modificada é o "unrestrained heavenly mark" que circula no V6.
+  - **Nenhum dos dez Veneráveis cultivou o heaven path por completo**; no máximo dois deles
+    dominaram o golpe de entrada sem aprofundar no path (cap. 2135).
+- **Como se obtêm heaven path dao marks** — três fontes registradas:
+  1. **Heaven-human Sensation + Human Executing Heaven's Work** (caps. 2008, 2037): o par de killer
+     moves que funde/substitui a vontade do Gu Immortal pela heaven's will; usado ao contrário,
+     permite **sentir e capturar** as heaven path dao marks presentes no próprio corpo. Podem ser
+     rebaixados a **killer move mortal** quando faltam Gu worms imortais.
+  2. **Steal Dao + Devour Heaven and Earth** (caps. 2133-2134): o golpe de theft path rouba os dao
+     marks caóticos de uma tribulação em curso e os **fixa em materiais imortais de theft path**; o
+     golpe de food path depois consome esse material, convertendo-o em dao marks de heaven path.
+  3. **Anexação de grotto-heavens**: cada anexação rende heaven path dao marks (cap. 2121).
+- **Custo automático e catastrófico**: refinar heaven path dao marks **enfurece a heaven's will** —
+  as marcas restantes se reúnem e disparam uma **myriad tribulation** involuntária (a categoria mais
+  severa, acima de earthly/heavenly/grand; só rank 8 consegue enfrentá-la). O caso registrado, com
+  três marcas refinadas, disparou o *Myriad Destruction Lightning Forest*, cobrindo mais de cem mil li
+  em instantes (cap. 2037). A tribulação é **adaptativa**: muda de forma quando a tática do
+  cultivador funciona (raio → granizo etc., cap. 2052).
+- **Manejo da tribulação — doutrina prática** (caps. 2037-2058) `[segredo]`:
+  - Sacrificar recursos descartáveis (soul beasts, subordinados, resource points inteiros) para
+    desviar o "fogo" da tribulação e abrir janelas de refino;
+  - montar **estruturas de recurso** que absorvam a tribulação em lote: o **lightning pool**
+    (reservatório de energia de raio, análogo ao "Five Light Mountain" dos cultivadores de light path)
+    converte a tribulação em "plasma" concentrado, refinável em sequência rápida — 10 marcas de uma
+    vez, num caso;
+  - usar **Exposing Heavenly Secret** para prever a próxima forma da tribulação a cada mudança de
+    tática da heaven's will;
+  - há um **teto por janela**: passar de ~200 dao marks refinados numa única pausa faz o Heavenly Dao
+    reiniciar a tribulação em outra forma (cap. 2052).
+  - Escala registrada: ~20 marcas refinadas de um total de ~3.000 num primeiro ciclo (cap. 2048);
+    mais de 10.000 acumuladas no meio do V6 (cap. 2121).
+- **Restrição estrutural do bônus** (cap. 2107): as unrestrained heavenly marks só amplificam
+  **killer moves usuais** e **battlefield killer moves** em compound killer moves **quando todos os
+  Gu worms envolvidos estão dentro da própria immortal aperture**. Ancient battle formations, Gu
+  formations e Immortal Gu Houses — cujos Gu worms residem no mundo externo — **não** recebem o bônus,
+  porque falta o "ambiente de unrestrained heavenly marks". Pelo mesmo motivo, **totem killer moves
+  não podem virar compound killer moves de heaven path**: ao serem ativados, saem do corpo soberano e
+  perdem a proteção das marcas (cap. 2140).
+- **Marco histórico** (cap. 2135): o V6 registra o **primeiro Immortal Gu de heaven path totalmente
+  refinado na história** — um **Heaven's Envy Immortal Gu rank 7**, com o método sendo: acumular
+  unrestrained heavenly marks acima de um limiar não quantificado, e então alimentar o Gu
+  continuamente com essência imortal rank 8 ("white litchi") dentro de uma grande formação de
+  refinement path até o refino completar (evento de "burst" de luz cristalina).
+- **Efeito do golpe com Heaven's Envy como núcleo** (cap. 2166): **amplifica calamidades e
+  tribulações de céu e terra, priorizando automaticamente os alvos de aptidão/talento mais
+  excepcional** — mira "filhos da sorte" com precisão e não desvia para alvos próximos de menor
+  aptidão. É o heaven path expresso como mecânica: o céu inveja o gênio.
+- **Não existe "heaven path true meaning"** para herdar (cap. 2048) — o path não pode ser adquirido
+  pelo atalho de true meaning que serve a rule path e wisdom path; só pela via dura das marcas.
+- **Papel conceitual do path** (cap. 2135): o heaven path é o path que "compreende e equilibra tudo",
+  **incluindo o lifespan Gu e o fate Gu** — os dois pilares do Heavenly Dao blockade. Daí a
+  implicação estratégica que a obra deixa explícita: quem refina Gu de heaven path pode, em tese,
+  refinar o próprio fate Gu.
+
+### Totem killer moves — a categoria nova de uso de Gu (V6)
+
+`[especializado]` — introduzida pela true inheritance **Myriad Beast Fusion Color Heaven** (caps.
+2112-2119) e depois disseminada. Entra na taxonomia **em pé de igualdade** com killer move usual e
+battlefield killer move.
+
+- **O que é**: um **padrão de dao marks acumulado literalmente no corpo do cultivador**, gravado pela
+  **ingestão de Gu materials** — não pela ativação de Gu worms individuais. É a forma mais
+  "primitiva/original" de killer move, a mais próxima do modo natural.
+- **Taxonomia completa de formas de uso de Gu, do mais simples ao mais complexo** (cap. 2118):
+  **Gu worm único → killer move usual → battlefield killer move → ancient battle formation → Gu
+  formation → Gu House (mortal/imortal)** — com o **totem killer move** acrescentado como categoria
+  nova, ao lado de killer move usual e battlefield.
+- **Teoria de origem dos killer moves** (cap. 2118) `[segredo]`: killer moves surgiram porque um Gu
+  worm sozinho tem defeitos e efeitos colaterais; combinar vários em cooperação compensa isso. Mas
+  existem **killer moves naturais** em desolate beasts e plantas — dao marks distribuídos num padrão
+  específico no corpo concedem "habilidades inatas" (ex.: dao marks densas e padronizadas de space
+  path que permitem entrar e sair de blessed lands e grotto-heavens). Conclusão do texto: **"a
+  essência de um killer move são dao marks"**.
+- **A tríade unificada** (cap. 2128) `[segredo]`: habilidades inatas de alma (soul path dao marks
+  gravadas diretamente na alma), totem killer moves (dao marks gravadas no corpo via comida) e o uso
+  de dao marks naturais por um great grandmaster de formation path para montar formações são **a
+  mesma coisa** — usar dao marks **diretamente, sem o intermediário de um Gu worm ativado**.
+
+**Vantagens** (cap. 2112):
+1. **Ativação rápida e simples** — exige apenas essência (primeva ou imortal), sem processamento
+   mental de cada Gu worm: "até um tolo consegue ativar".
+2. **Manutenção barata** — não é preciso alimentar Gu worms continuamente, só ingerir ingredientes de
+   reparo ocasionalmente.
+3. **Acessível a qualquer path** e fácil de **disseminar em massa** entre muitas pessoas.
+
+**Desvantagens** (cap. 2112):
+1. **Custo de criação inicial altíssimo.**
+2. **Molda permanentemente o rumo futuro de cultivo** do usuário — vira dao marks fixas no corpo.
+3. **Métodos fixos**, fáceis de contra-atacar depois de conhecidos (o mesmo defeito das Immortal Gu
+   Houses).
+4. **Não combinam com heaven path**: ao serem ativados, saem do corpo soberano e perdem a proteção
+   das unrestrained heavenly marks (cap. 2140).
+
+**Hierarquia em três graus** (cap. 2140):
+- **Totens básicos** — milhares deles, catalogados e replicáveis (dark capital strength tiger, golden
+  bell totem, rain eagle totem…).
+- **Totens únicos** — desenvolvimento pessoal de um totem básico pelo próprio cultivador; específicos
+  à distribuição e à escala das dao marks do dono e, por isso, **incopiáveis** (ex.: combinar rain
+  eagle + thunder fish num totem "kunpeng"; um tigre negro dourado modificado até ganhar asas).
+- **Super totens** — raríssimos, quase lendários: segundo a lenda **separam-se do cultivador e
+  existem por si mesmos**, cultivando e agindo sozinhos.
+
+**Aquisição do totem pessoal** (caps. 2112-2113): (1) "sopa da diarreia" para expandir o apetite e
+preparar a digestão; (2) uma sopa preparada com ingredientes de nível ancient desolate beast e
+técnicas **culinárias** de refinement path (não refino de Gu propriamente) para decifrar quais
+nutrientes o corpo do indivíduo absorve melhor — provoca crescimento explosivo de pelos multicoloridos
+que revelam as afinidades, depois queimados sem dano pelo totem do tutor; (3) só então o totem pessoal
+começa a se manifestar, em forma inicial simples, e cresce.
+
+**Economia e limites do crescimento**:
+- **Escolha estratégica**: dominar UM totem profundamente (mais poder, menos versatilidade) ou
+  construir MÚLTIPLOS (mais métodos, cada um mais fraco por diluição de esforço e recursos). O
+  Venerável fundador escolheu a segunda via — incontáveis totens, cada um com pelo menos força de
+  rank 8, alguns em nível pseudo-Venerável (cap. 2115).
+- Comer **carne humana** (de Gu Immortals inimigos sacrificados) acelera o crescimento do totem muito
+  mais que ingredientes normais — "mais fácil de absorver, por serem humanos" —, mas é tabu demoníaco
+  publicamente punível (cap. 2113). Há limites de saturação: comer demais de certas carnes lendárias
+  faz "o coração queimar e a mente entrar em colapso" (cap. 2116).
+- **Custo em combate**: liberar em massa (centenas de totens rank 8 simultâneos) custa **~30% da
+  reserva de essência imortal por uso** — na prática, três disparos no máximo (cap. 2244).
+
+**Modos de uso**:
+- **Dormente sobre a pele** em tempos normais, ativável com um único pensamento — vantagem de sigilo e
+  conveniência; o totem ataca à distância e retorna como tatuagem (caps. 2167, 2213).
+- **Fusão corporal (nível avançado)**: o usuário "entra" no corpo do totem em pleno ar; o totem encolhe
+  e vira uma **camada de armadura** sobre o corpo, multiplicando imensamente a força de combate
+  (cap. 2214).
+- **"Queima" pública**: totem killer moves expostos numa batalha ficam temporariamente inutilizáveis
+  contra adversários de topo — precisam ser modificados antes do reuso seguro, já que o método passou
+  a ser conhecido (caps. 2215-2216). Vale para qualquer killer move de assinatura.

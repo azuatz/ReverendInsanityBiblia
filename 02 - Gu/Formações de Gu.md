@@ -449,3 +449,4 @@ as mais externas.
 - [[Blessed Lands e Grotto-Heavens]] — o território onde a maioria das grandes formações vive.
 - [[A Morte dos Gu]] — como os Gu de uma formação morrem e o que custa repô-los.
 - [[Economia Imortal]] — por que uma instalação de refino vale mais que um exército.
+- [[Visão Geral dos Gu]] — o resumo e as regras gerais do domínio.

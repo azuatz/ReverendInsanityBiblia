@@ -347,3 +347,4 @@ Ver [[Economia Imortal]] e [[Pedras Primevas]] para as escalas de valor.
 - [[Gu Imortais]] — a vontade embutida que destrói o Gu em vez de entregá-lo.
 - [[Espólio de Gu]] — a autodestruição comandada e o que sobra para saquear.
 - [[Economia Imortal]] — a escala de valor do que se perde.
+- [[Visão Geral dos Gu]] — o resumo e as regras gerais do domínio.

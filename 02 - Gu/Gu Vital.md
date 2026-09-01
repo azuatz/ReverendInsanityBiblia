@@ -26,6 +26,27 @@ vínculo de refino mais antigo e mais profundo**. A distinção parece escolást
 importa: há um caso registrado em que um vínculo de quinhentos anos formado numa existência
 anterior prevaleceu sobre todos os Gu refinados depois, numa vida nova.
 
+### Quando exatamente isso acontece, e se é escolha
+
+A pergunta é obrigatória, porque a resposta é uma decisão de criação de personagem. E ela
+tem duas camadas:
+
+**Na prática, é automático e imediato.** A consagração acontece **no momento em que o
+primeiro refino se completa** — não há ritual, declaração nem cerimônia à parte. O jovem
+subjuga seu primeiro Gu e, quando a vontade do bicho cede, ele já tem um Gu Vital. Não há
+período de carência nem oportunidade de reconsiderar.
+
+**Formalmente, o critério é o vínculo, não a ordem.** Como dito acima, o que consagra é o
+vínculo de refino mais antigo e mais profundo — o que quase sempre coincide com o primeiro
+Gu refinado, e por isso as duas formulações se confundem no linguajar comum. Só em casos
+extraordinários, como o do vínculo de vida anterior, as duas se separam.
+
+**Onde mora a escolha, então?** Não em *quando* consagrar, e sim em **qual Gu você refina
+primeiro** — e essa decisão é normalmente tomada pelo clã, não pelo jovem, com base no grau
+de aptidão que ele acabou de revelar na [[Abertura|Cerimônia do Despertar]] e no que o clã
+está disposto a gastar com ele. Depois disso, trocar exige destruir o Vital antigo, com o
+backlash descrito adiante.
+
 Escolher o Gu Vital é, portanto, a decisão mais consequente da carreira de um cultivador — e
 é tomada por adolescentes, geralmente com um Gu barato que o clã pôde pagar. Isso não é uma
 falha do mundo: é uma das suas tragédias sociais mais eficientes.

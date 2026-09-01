@@ -92,26 +92,76 @@ Este caso tem duas versões, e o contraste entre elas é a lição.
 
 ### Versão barata: força bruta e disciplina
 
-**Regra ilustrada:** para romper a barreira entre dois ranks, um cultivador precisa acumular
-energia interna até certo percentual de sua capacidade máxima. Uma aptidão baixa nunca
-alcança esse patamar — a barreira é intransponível por quem tem pouco talento.
+**Regra ilustrada:** para romper a barreira entre dois ranks, o método padrão exige projetar
+de uma só vez uma porcentagem mínima da própria capacidade — **55% para a primeira ruptura**,
+o único limiar que a obra fixa (ver [[Tabelas de Referência Rápida]]). Como a
+[[Aptidão|aptidão]] é justamente o teto dessa capacidade, quem tem aptidão abaixo do limiar
+não consegue entregar o golpe exigido. Este caso mostra que existe uma **segunda via**, que
+troca potência por tempo — e mostra também onde essa via para.
 
-**O método:** atacar a barreira em ritmo **lento e sustentado**, absorvendo pedras primevas
-em paralelo para repor a energia. O truque é manter a taxa de recarga acima da taxa de
-cicatrização da barreira — que se refaz sozinha se houver pausa. Foram quatro dias e três
-noites contínuos, com intervalos nunca maiores que quinze minutos, drenando a reserva
-pessoal de 44% para 13%. E um álibi: declarar reclusão de cultivo para não ser interrompido.
+**O método:** atacar a barreira em ritmo **lento e sustentado**, absorvendo
+[[Pedras Primevas|pedras primevas]] em paralelo para repor a energia. O truque é manter a
+taxa de recarga acima da taxa de cicatrização da barreira — que se refaz sozinha se houver
+pausa. Foram quatro dias e três noites contínuos, com intervalos nunca maiores que quinze
+minutos, drenando a reserva pessoal de 44% para 13% e recarregando-a com pedras o tempo
+todo. E um álibi: declarar reclusão de cultivo para não ser interrompido.
 
-**Recursos gastos:** uma quantidade grande de pedras primevas, quatro dias sem dormir, e um
-esconderijo confiável.
+**Recursos gastos:** quatro dias sem dormir, um esconderijo confiável e uma quantidade
+grande de pedras primevas — sobre a qual ver o quadro de custo abaixo.
 
 **Por que funcionou:** a barreira não exige uma **quantidade** de energia num único golpe;
 exige que o dano acumulado supere a regeneração. Transformar um teste de potência num teste
-de **taxa** contorna o requisito original.
+de **taxa** contorna o requisito original. O cultivador nunca teve 55% disponíveis de uma
+vez — ele entregou, somando quatro dias, muito mais que isso, em parcelas.
 
 > [!warning] É exceção ou regra?
-> **Regra plenamente replicável.** Qualquer cultivador com pedras suficientes, disciplina e
-> garantia de não ser interrompido consegue. É caro e arriscado, não milagroso.
+> **Regra replicável, mas com três travas próprias — e ela não abole a aptidão.**
+>
+> Este é o ponto mais importante desta nota inteira, porque a leitura descuidada dele
+> desmonta a economia do cenário. Se bastasse ter pedras e disciplina, a aptidão deixaria
+> de significar qualquer coisa e o grau C não seria a sentença social que o mundo diz que
+> é. Não é o caso. O que este método faz é **substituir potência por tempo e por dinheiro**
+> — nunca talento por dinheiro. As travas:
+>
+> 1. **Só está documentado na ruptura 1 → 2**, a mais barata da escada. A obra registra em
+>    outro ponto um cultivador com a reserva a **90%** que ainda assim **não** rompeu a
+>    barreira 3 → 4 sem ajuda externa — ou seja, mais acima a força bruta sustentada deixa
+>    de bastar. Quanto mais alto o rank, mais rápido a barreira cicatriza, e em algum
+>    degrau a recarga não acompanha mais.
+> 2. **O custo em pedras é proibitivo para quem tem aptidão baixa**, e de propósito: uma
+>    reserva pequena esvazia mais depressa e precisa ser reabastecida mais vezes para
+>    entregar o mesmo total. Aptidão baixa não fica impossível — fica **cara**, que é
+>    exatamente como [[Avançar com Aptidão Baixa]] descreve o problema em geral.
+> 3. **Exige quatro dias contínuos de invulnerabilidade.** Interrupção de quinze minutos e
+>    a barreira cicatriza; todo o gasto se perde. Isso não é um detalhe de cor: é o que
+>    torna o método inviável para quem não tem um esconderijo, um álibi e ninguém atrás de
+>    si.
+>
+> **A resposta curta, para quem precisa decidir isto no sistema:** neste mundo a aptidão é
+> um **teto duro no topo e um imposto embaixo**. Nos ranks iniciais dá para comprar o
+> avanço com tempo e pedras; conforme se sobe, o preço cresce mais rápido que qualquer
+> bolso e o teto volta a ser teto. É por isso que os métodos que **elevam a aptidão em si**
+> — Gu de talento, rituais demoníacos, sangue de linhagem — são os bens mais cobiçados do
+> mundo: são os únicos que mexem no teto, e não apenas no imposto.
+
+> [!warning] Quanto custa, em pedras primevas
+> A obra diz "uma quantidade grande de pedras primevas" e nunca publica o número — e esse
+> é o item de orçamento mais importante que um personagem de rank 1 vai enfrentar, então
+> vale reconstruí-lo.
+>
+> `inferido`, com a conta à vista: a reserva do cultivador foi drenada de 44% a 13% e
+> recarregada continuamente por quatro dias. Um Mestre Gu iniciante gasta de 3 a 5 pedras
+> **por dia** só para viver; aqui a queima é de ordem muito superior, porque a recarga
+> precisa acompanhar a drenagem em tempo real por quase cem horas seguidas. A estimativa
+> deste vault é de **algumas centenas a cerca de mil pedras primevas** para a ruptura
+> 1 → 2 por esta via.
+>
+> Para dimensionar o que isso significa em mesa: é de duas a dez vezes o preço de um Gu de
+> rank 1, e o equivalente a meses de renda de um Mestre Gu iniciante (ver a tabela de renda
+> em [[Como um Mestre Gu Ganha a Vida]]). Ou seja, é **um objetivo de arco**, não uma
+> compra. Se quiser tornar a via mais dura na sua campanha, suba o número; se quiser
+> torná-la a espinha dorsal de uma campanha de rank baixo, mantenha-o e faça os
+> personagens juntarem o dinheiro.
 
 ### Versão cara: o ritual demoníaco
 
@@ -127,12 +177,45 @@ Gu venenoso é arremessado no fogo; cerca de mil pedras primevas são consumidas
 luz resultante. O produto é um Gu descartável de rank 3.
 
 **O efeito:** ingerido, ele tinge toda a energia interna do usuário de um vermelho
-enegrecido. Cerca de 38% dessa energia, lançada contra a barreira, **quebra e substitui** a
-barreira — um rank inteiro de uma vez.
+enegrecido. Cerca de **38%** dessa energia, lançada contra a barreira, **quebra e
+substitui** a barreira — um rank inteiro de uma vez.
+
+> [!warning] Por que 38%, se o limiar normal é 55%?
+> Porque **não é a mesma operação**. O limiar de 55% em
+> [[Tabelas de Referência Rápida]] mede o esforço necessário para *estilhaçar* a parede da
+> abertura pela força — e a parede resiste. Aqui a energia está contaminada pelo Gu
+> demoníaco, e o que ela faz não é estilhaçar: é **quebrar e substituir**. A barreira nova
+> é construída pelo próprio ritual, no lugar da antiga, e por isso a conta muda.
+>
+> É exatamente isso que se está comprando com o preço abaixo: **o ritual não te dá energia
+> para vencer a trava, ele troca a trava por outra mais barata**. Um cultivador que jamais
+> chegaria aos 55% chega aos 38% sem dificuldade — e é por isso que o método existe e é
+> tentador. `inferido`: a obra dá os dois números e descreve o "quebra e substitui", mas
+> nunca explica a relação entre eles; a leitura acima é deste vault.
 
 **O preço:** um resíduo tóxico permanece. Injetado num Gu, mata o Gu. Deixado no corpo,
 corrói a aptidão do cultivador — e mesmo com limpeza imediata, a perda de aptidão é de
-cerca de 2%, **irrecuperável**.
+cerca de **2 pontos percentuais**, **irrecuperável**.
+
+> [!warning] Dois pontos percentuais, não dois por cento do que se tinha
+> A diferença decide se este atalho é caro ou trivial, então vale ser explícita. A aptidão
+> é medida em porcentagem (a fração da abertura que se consegue encher), e as faixas de
+> grau têm **vinte pontos de largura** cada uma. Ler a perda como **2 pontos** — um grau B
+> de 61% caindo para 59% — significa que um único uso pode **rebaixar o grau da pessoa**,
+> e com ele o teto de rank que o mundo espera dela: aquele cultivador acaba de perder o
+> acesso ao rank 3. Ler como "2% do valor que se tinha" daria uma perda de cerca de 1,2
+> ponto, e quase não importaria.
+>
+> Este vault adota a leitura de **pontos percentuais**, que é a mais natural para uma
+> grandeza já expressa em porcentagem e a única que torna o preço proporcional ao benefício
+> (um rank inteiro). `inferido` — a obra não desfaz a ambiguidade. Se você adotar a outra
+> leitura, lembre-se de que o ritual fica barato demais e deixa de ser uma decisão difícil.
+>
+> **A consequência que faz este caso valer a pena em mesa:** o método é um empréstimo com
+> juros cobrados no teto de carreira. Cada uso adianta um rank agora e derruba o rank
+> máximo alcançável depois. Usado uma vez, é um bom negócio; usado três vezes, o
+> personagem trocou o próprio futuro pelo presente — e essa é a curva moral do caminho
+> demoníaco desenhada em números.
 
 > [!warning] É exceção ou regra?
 > **Regra, e é isso que a torna assustadora.** Os materiais não são raros. É exatamente por

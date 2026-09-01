@@ -122,8 +122,10 @@ nível baixo sabe tudo.
   compensa, e por isso capturar vivo vale mais que matar.
 - **Que combinar Gu produz golpes especiais** ([[Killer Moves]]) e que os bons golpes são
   segredo de família.
-- **Que o primeiro Gu que você refina vira seu [[Gu Vital]]**, ligado à sua própria vida —
-  e que perdê-lo é uma catástrofe pessoal.
+- **Que o primeiro Gu que você subjuga vira seu [[Gu Vital]]**, ligado à sua própria vida —
+  e que perdê-lo é uma catástrofe pessoal. A consagração é automática e imediata, no
+  instante em que o primeiro refino se completa; o critério formal, um pouco mais preciso
+  que isso, está na nota própria.
 - **Que "toda força tem contramedida"** — provérbio repetido em todo lugar.
 
 ## O que só o mestre sabe

@@ -154,3 +154,32 @@
 - Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-50).
 - Notas finais da designer (pastas `01`–`09` + LEIA-ME): deliberadamente adiadas até a
   leitura integral; as pastas finais estão vazias por decisão de fluxo.
+
+---
+
+# ESTADO AUTORITATIVO (2026-09-01, verificado em disco pelo orquestrador)
+
+## Fase de leitura e consolidação: CONCLUÍDA
+
+- Obra 100% lida: 57 blocos, capítulos 0–2334, ~19.900 linhas de notas brutas.
+- **12 de 12 rascunhos de domínio marcam "cobre até: Volume 6 (obra completa)"**,
+  confirmado por verificação direta dos marcadores (não por relatório de agente).
+  Destaques de tamanho: catalogo-gu 1541L, gu-sistema 1222L, cultivo-imortal 807L,
+  glossario 783L, cultivo-mortal 716L, estudos-de-caso 622L.
+
+## Pesquisa externa: CONCLUÍDA
+
+- `pesquisa/wiki-lacunas.md` — 7 lacunas investigadas na wiki (com a seção 1 corrigida).
+- `pesquisa/comunidade-debates.md` — power scaling, dao marks, refino, Heaven's Will,
+  mal-entendidos comuns e tentativas de adaptação para RPG.
+- `pesquisa/glossario-pt-centralnovel.md` — 43 termos EN→PT e 7 inconsistências da
+  tradução brasileira.
+- `pesquisa/CORRECAO-limiares-aptidao.md` — **correção crítica**: aptidão é teto de
+  armazenamento e trava de rank; 55% para o rank 2; grau D = 20-30%; nada abaixo de
+  20%; os dois eixos da essência (×2 por estágio, ×10 por rank, conversão 4:1);
+  ascensão imortal por estilhaçamento da abertura, não por porcentagem.
+
+## Fase atual: ESCRITA FINAL das notas da designer (pastas 01–09)
+
+Em andamento por redatores com pastas exclusivas. Falta ainda: concluir as pastas,
+escrever `09 - Apendices/`, o `00 - LEIA-ME`, e o passe de verificação.

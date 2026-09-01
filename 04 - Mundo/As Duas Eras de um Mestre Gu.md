@@ -226,7 +226,7 @@ vai ou não sair do controle.
 | Casa pequena / vilarejo | rank 3 ou 4 | rank 1–2 | nenhum |
 | Clã médio | **rank 4** | ~20 anciãos rank 3 | nenhum |
 | Clã grande | **rank 4**, com 5–6 anciãos abaixo | rank 3–4 | raramente |
-| Clã-potência / super clã | **rank 5** (topo mortal) | rank 4–5 | **anciãos supremos rank 6+** |
+| Clã-potência / super clã | **rank 5** (topo mortal) `(ded.)` | rank 4–5 | **anciãos supremos rank 6+** |
 | Seita das dez grandes (Continente Central) | líder de seita **rank 5**; anciãos de seita rank 4+ | rank 4–5 | **anciãos supremos rank 6, havendo rank 7 entre eles** |
 | Super tribo (Planícies do Norte) | chefe mortal | rank 3–5 | **pelo menos um** ancião supremo imortal — é o critério formal do porte |
 | Super força madura (fim da obra) | rank 8 como "primeiro ancião supremo" | vários rank 6–7 | a própria cúpula já é imortal |
@@ -239,6 +239,15 @@ seis anciãos abaixo dele. A cúpula visível de um clã médio ou grande **gira
 ranks 4 e 5, não do rank 6**. O rank 5 — estágio de pico — é o teto realista da liderança
 formal de uma potência: é o que a organização pode exibir, condecorar e sentar numa
 cadeira.
+
+> [!warning] Onde a obra é vaga
+> A obra afirma o rank 4 para o líder de clã médio e para um líder de clã grande, e afirma
+> que o rank 5 é o topo do mundo mortal e que os Gu Imortais estão "acima" da contagem
+> mortal. O que ela **nunca declara em número** é o rank exato do líder formal de um super
+> clã. A linha `rank 5` da tabela é `(ded.)`: é o único patamar coerente com "a força nº 1
+> da região no âmbito mortal", e é o que se vê em uso — líderes de clã-potência empunhando
+> Gu de rank 5. Se a sua campanha preferir um super clã liderado por um rank 4 excepcional,
+> nada no texto contradiz.
 
 **Segunda: acima dessa cúpula visível existe uma camada silenciosa.** É esse o caso
 confirmado que ancora tudo:

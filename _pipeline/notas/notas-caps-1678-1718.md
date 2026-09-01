@@ -153,6 +153,17 @@ Método: percebendo que perderia a stone lotus island para Fang Yuan/Longevity H
 - **Combat technique (nativo de Beast Calamity grotto-heaven)**: fusão humano-fera que replica a habilidade inata de um desolate beast/ancient desolate beast sem gastar essência imortal.
 - **Year essence pool**: mecanismo de controle do fluxo de tempo interno de uma immortal aperture, alternativo a killer moves de time path.
 - **Pure Dream Reality Seeker Physique "perfeita"**: versão sem falhas criada por Feng Jin Huang, capaz de durar indefinidamente; declarada 11ª extreme physique.
+- **Combat Beast Warrior**: cultivador de Beast Calamity grotto-heaven que se funde com um desolate beast/ancient desolate beast para lutar.
+- **Combat technique**: nome local para a habilidade inata de um desolate beast usada por um Combat Beast Warrior fundido.
+- **Myriad beings assimilation transformation**: killer move rank 8 de Beast Calamity Immortal, converte dao marks de qualquer path em transformation path.
+- **Star Snail Hall**: sede da Beast Calamity grotto-heaven, construída sobre/dentro da carcaça do star sea snail.
+- **Desolation Immortals / Extremities**: as doze posições de liderança formal de Longevity Heaven (4 Desolation Immortals, rank 8; 8 Extremities, rank 7 elite).
+- **Fatal dark lightning**: armadilha indetectável de Zhang Yin (Eastern Sea, rank 8).
+- **Qi Engulfing Mountains and Rivers**: killer move de área de Duke Long, absorve golpes e libera pressão esmagadora.
+- **Triple Qi Retraction**: trunfo mais poderoso e arriscado de Duke Long, raramente usado.
+- **River suppression lotus sealing formation**: super immortal formation de Heavenly Court usada para capturar time path Immortal Gu Houses/stone lotus islands.
+- **Assimilation Wind Song / Winds of Assimilation**: killer move de Feng Jiu Ge que invoca o "vento número um do mundo", capaz de apagar até uma stone lotus island.
+- **Luo Po Seal**: killer move de Fang Yuan capaz de atingir e destruir o Immortal Gu núcleo de uma formação.
 
 ## 7. Dúvidas e lacunas
 
@@ -164,3 +175,8 @@ Método: percebendo que perderia a stone lotus island para Fang Yuan/Longevity H
 - Por que Red Lotus Demon Venerable não deixou memórias de COMO refinou Spring Autumn Cicada nem de como invadiu Heavenly Court/feriu fate Gu — Red Lotus' true meaning especula que foi deliberado (para não influenciar a decisão do herdeiro), mas não confirma (cap. 1679).
 - "Bo Qing" (aliado citado como tendo tentado passar a 3ª myriad tribulation e morrido) — identidade/contexto não detalhados, checar se reaparece (cap. 1686).
 - Se o princípio de "transformation path converte dao marks de qualquer path" é exclusivo dessa grotto-heaven ou um princípio universal de transformation path de alto attainment (cap. 1686).
+- Identidade do East Desolation Immortal de Longevity Heaven (citado como de status mais alto que Bing Sai Chuan, mas não nomeado) — possível pista para o 10º Venerável ou apenas hierarquia interna sem relação (cap. 1692).
+- Por que Duke Long "não se qualifica" para rank 9 (avaliação própria dele, motivo não detalhado) enquanto escolheu fundir sua aperture com Heavenly Court virando "phantom aperture" em vez de arriscar a 3ª myriad tribulation — mecanismo exato dessa fusão/conversão de aperture não explicado (cap. 1686 retomado no diálogo do cap. 1686; reforçado no perfil de poder "pseudo-Immortal Venerable" dele nos caps. 1688-1697).
+- Se a stone lotus island rejeitou Fang Yuan por causa da formação de Heavenly Court supressora ou porque a ilha "já estava no limite" de sua própria defesa — deixado como pergunta em aberto pelo próprio Fang Yuan, não resolvido no texto (cap. 1696).
+- Identidade/natureza exata do "dream path Immortal Gu" núcleo de Dragon Palace nunca é revelada neste bloco, apesar de ser tratado como extremamente valioso e possivelmente "plantado pelos céus" para iniciar uma era de dream path (cap. 1693) — candidato a pista de Grande Era/dream path, mas sem confirmação.
+- Mecanismo exato de como "Bo Qing" (V4/V5, citado cap. 1686) se relaciona (se algo) com os eventos deste bloco — não reaparece.

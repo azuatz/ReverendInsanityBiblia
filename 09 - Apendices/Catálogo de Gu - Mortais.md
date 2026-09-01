@@ -68,13 +68,40 @@ meio de uma luta ou de uma lista de estoque. Um punhado de Gu tem ficha completa
 maioria tem só efeito e rank. Se você precisar preencher as lacunas para jogar,
 invente — mas saiba que está inventando.
 
-> [!warning] A desvantagem quase sempre mora no uso
-> Ao procurar o preço de um Gu, olhe primeiro a coluna ⚡ Uso. É lá que a obra costuma
-> escondê-lo: Gu que precisam ser acionados continuamente por semanas, que doem, que
-> exigem imobilidade, que consomem atenção mental, que dependem de uma condição
-> externa (luz da lua, água por perto, estrelas visíveis) ou que deixam um rastro
-> visível e denunciam o usuário. Um Gu sem desvantagem listada normalmente é um Gu
-> sobre o qual a obra foi breve, não um Gu sem preço.
+### Onde mora a vantagem e onde mora a desvantagem
+
+As duas últimas colunas não são um resumo das três primeiras: são o **saldo**. Na
+prática, o preço de um Gu quase sempre está descrito dentro de uma das três aptidões,
+e não numa categoria própria. Quando é esse o caso, este catálogo registra o custo na
+aptidão onde ele de fato mora e usa a coluna ⬇️ apenas para apontar para lá, em vez
+de repetir a mesma frase duas vezes.
+
+Vale a pena saber onde procurar:
+
+- **No uso** — dor, custo alto de essência, exigência de acionamento continuado por
+  semanas ou meses, imobilidade, consumo de atenção mental, dependência de uma
+  condição externa (luz da lua, água por perto, estrelas visíveis), rastro visível
+  que denuncia o usuário, ou peso social.
+- **Na alimentação** — dieta cara, exótica, de difícil transporte, moralmente pesada
+  (sangue, carne humana) ou de intervalo curto demais. Um Gu que come com frequência
+  é uma despesa permanente, e é assim que a maioria dos praticantes quebra.
+- **No refino** — taxa de sucesso baixíssima, materiais raros, risco de contragolpe
+  durante o processo, receita perdida ou guardada por alguém.
+- **Fora das três, mas correlato** — Gu descartável, que perde valor conforme o dono
+  sobe de rank, que é fácil de detectar, que conflita com outros Gu já instalados no
+  corpo, ou que queima potencial futuro.
+
+E o inverso é igualmente verdadeiro: há Gu cuja **vantagem** inteira é econômica.
+Um Gu de efeito medíocre, mas fácil de refinar e de demanda baixa de essência, vira
+onipresente no mundo — e a obra é explícita sobre isso. Para desenho de jogo, essa
+vantagem vale tanto quanto potência bruta, porque é ela que decide o que os NPCs
+comuns carregam.
+
+> [!warning] Um Gu sem desvantagem listada raramente é um Gu sem preço
+> Antes de concluir que um Gu não cobra nada, releia as três colunas de aptidão. Na
+> maioria das vezes o preço está lá, escrito como se fosse uma característica técnica.
+> Um `—` em ⬇️ significa que a obra foi breve sobre aquele Gu, não que ele seja de
+> graça.
 
 Uma última observação: nos primeiros volumes da obra o **vocabulário formal de
 caminhos ainda não existia**. Nesses casos, os Gu foram agrupados pela família
@@ -234,25 +261,31 @@ Dois caminhos vizinhos, ricos em controle de área. O gelo tem um custo recorren
 característico: o uso prolongado das transformações **congela o próprio usuário**,
 e há registro de praticantes que viraram estátua.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Stream Gu | — | Gu de assinatura de um clã de água | — |
-| Clear Water Gu | — | Produz água limpa | — |
-| Water Drill Gu | 2 | Broca de água rotativa; perfura rocha e aço | — |
-| Ice Edge Gu | 2-3 | Lâminas de gelo arremessáveis | — |
-| Snowball Gu | 3 | Bolas de neve; custo de essência alto | — |
-| Iceblade Gu | 3 | Lâmina de gelo autorregenerativa de quase dois metros | — |
-| Icicle Gu | 3 | Barragem de estacas de gelo | — |
-| Ice Explosion Gu | 3 | Detona gelo já existente; potência conforme tamanho e idade | — |
-| Frost Breath Gu | 3 | Sopro congelante barato | — |
-| Blue Bird Ice Coffin Gu | 3 | Pássaro de gelo teleguiado que congela e mata; caro | — |
-| Frost Demon Gu | 3 | Ataque de gelo de elite; excesso congela o próprio usuário | — |
-| Ice Crystal Gu | 3 | Transformação em corpo de gelo; risco de virar estátua | — |
-| Snow Fairy Gu | 3 | Variante feminina da mesma transformação | — |
-| Frost Arrow Gu | 4 | Flecha de gelo barata para o rank | — |
-| Water Image Gu | 4 | Dublê líquido realista; contramedida contra decapitação | — |
-| Water Prison Gu | 3 | Bola de água que aprisiona o alvo | — |
-| River Swallowing Toad | 5 | Engole rios inteiros; dócil, mas causa enchente se encurralado | água de rio |
+Nesta tabela, olhe a coluna de uso antes da de efeito. O gelo é o caminho onde o
+custo de acionamento varia mais: o Frost Breath Gu gasta cinco por cento da essência
+e o Snowball Gu é explicitamente caro, embora façam coisas parecidas. E as três
+transformações de rank 3 dividem a mesma desvantagem, que é a assinatura do caminho:
+usar demais congela o próprio usuário, de forma permanente.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Stream Gu | — | Gu de assinatura de um clã de água | — | — | Criado por fusão reversa: é receita exclusiva de clã, difícil de decodificar de fora | Marca de identidade e vantagem de segredo — rivais não sabem contra o que lutam | Fora do clã, não existe: não há como comprá-lo (ded.) |
+| Clear Water Gu | mortal | Produz água limpa | — | — | — | Resolve o problema logístico mais banal e mais constante de uma expedição | Nenhum uso ofensivo (ded.) |
+| Water Drill Gu | 2 | Broca de água rotativa | — | — | — | Perfura rocha e aço num rank em que quase nada perfura | — |
+| Ice Edge Gu | 2-3 | Lâminas de gelo arremessáveis | — | — | — | Ataque à distância barato para o rank | — |
+| Snowball Gu | 3 | Bolas de neve ofensivas | — | **Custo alto** de essência | — | — | Caro para o efeito que entrega: é o pior negócio do arsenal de gelo |
+| Iceblade Gu | 3 | Lâmina de gelo de cerca de um metro e setenta, autorregenerativa | — | — | — | Se refaz sozinha, e combina com Swirl Gu e Fierce Wind Gu para formar uma tempestade que ataca e defende ao mesmo tempo | — |
+| Icicle Gu | 3 | Barragem de estacas de gelo | — | — | — | Cobre área em vez de um alvo só | — |
+| Ice Explosion Gu | 3 | Detona gelo já existente | — | — | — | Potência sem teto fixo: cresce com o tamanho, a idade e a frieza do gelo disponível | **Não cria gelo nenhum** — depende de outro Gu ou do ambiente ter posto gelo ali antes |
+| Frost Breath Gu | 3 | Sopro congelante | — | Cinco por cento da essência por uso | — | O ataque de gelo mais barato do rank: dá para repetir a luta inteira | Alcance de sopro, ou seja, curto (ded.) |
+| Blue Bird Ice Coffin Gu | 3 | Pássaro de gelo teleguiado que congela e mata o alvo instantaneamente | — | **Caro** | — | Morte instantânea e perseguição automática do alvo | O custo o torna uma carta de uma rodada, não uma arma de repetição |
+| Frost Demon Gu | 3 | Ataque de gelo de elite | — | — | — | O ataque de gelo mais forte do rank | O excesso de uso **congela músculos e articulações do próprio usuário** (mitigável com o Ice Muscle Gu) |
+| Ice Crystal Gu | 3 | Transformação em corpo de gelo (versão masculina) | — | — | Cerca de 28.000 pedras | Transformação de corpo inteiro ainda no rank 3 | Uso prolongado arrisca deixar o usuário como **estátua de gelo permanente**; mitigável mantendo um Vitality Gu ao lado |
+| Snow Fairy Gu | 3 | Variante feminina da mesma transformação | — | — | — | — | Mesmo risco de estátua permanente |
+| Frost Arrow Gu | 4 | Flecha de gelo | — | Barato para o rank 4 | — | Ataque de rank 4 com custo de acionamento baixo | — |
+| Water Image Gu | 4 | Dublê líquido realista | — | — | — | Contramedida específica contra decapitação — um dos poucos seguros contra morte instantânea | — |
+| Water Prison Gu | 3 | Bola de água que aprisiona o alvo | — | — | — | Controle que neutraliza sem matar, útil para captura | — |
+| River Swallowing Toad | 5 | Engole rios inteiros | água de rio | — | Exemplar selvagem, dócil e fujão — a dificuldade é alcançá-lo, não vencê-lo | Move volumes de água em escala geográfica | Hipersensível a auras de Mestres Gu, foge com facilidade, e **provoca uma enchente destrutiva se for encurralado** |
 
 ---
 
@@ -261,24 +294,29 @@ e há registro de praticantes que viraram estátua.
 Alto dano, controle ruim. Vários dos seus Gu são explicitamente descritos como armas
 de mão única — funcionam uma vez e cobram caro.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Fire Pellet Gu | 3 | Bolas de fogo; reabastecem as serpentes de fogo | — |
-| Fiery Claw Gu | 3 | Garra de fogo para corpo a corpo | — |
-| Fiery Snake Gu | 3 | Serpentes de fogo controláveis | — |
-| Flame Heart Gu | 3 | Aloja-se no coração e fortalece os outros Gu de fogo | — |
-| Lava Explosion Gu | 3 | Bola de lava | — |
-| Flame Stomach Gu | 3 | Defesa térmica | — |
-| Accumulating Ash Gu | 3 | Cura que consome cinzas | cinzas |
-| Fuel Oil Gu | 3-4 | Espalha óleo inflamável em área | — |
-| Oil Dragon Gu | 4 | Dragão de óleo; a função real é untar o alvo | — |
-| Fire Dragon Gu | 4 | Dragão de fogo; regenera-se recuando para dentro do fogo | — |
-| Human Torch Gu | 4 | O corpo vira fogo vivo até a força vital acabar | — |
-| Fire Pupil Gu | 4 | Incendeia o que o usuário mirar; dano ocular acumula | — |
-| Swallow Fire Gu | 4 | Armazenamento que engole o fogo alheio | — |
-| Fire Cape Gu | 5 | Envolve o corpo em chamas inofensivas mas intimidantes | — |
-| Prairie Fire Gu | 5 | Sozinho, repele o ataque conjunto de três especialistas | — |
-| Purple Smoke Cicada | 5 | Fumaça roxa que obscurece uma área inteira de céu e terra | — |
+O fogo é o caminho mais claramente montado em **combinações**: quase nenhum destes Gu
+é forte sozinho, mas os pares são devastadores — o Oil Dragon unta o alvo e o Fire
+Dragon acende, o Fire Pellet reabastece as serpentes. Ao ler a tabela, procure a
+função de cada peça dentro de uma combinação, não o dano isolado dela.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Fire Pellet Gu | 3 | Bolas de fogo | — | — | — | Além do dano, **reabastece as serpentes de fogo** — dois papéis num Gu só | — |
+| Fiery Claw Gu | 3 | Garra de fogo para corpo a corpo | — | — | — | Leva o fogo para a distância curta, onde o caminho normalmente é fraco | Exige encostar no inimigo (ded.) |
+| Fiery Snake Gu | 3 | Serpentes de fogo controláveis | — | Exige controle contínuo do usuário (ded.) | — | Fogo que persegue, em vez de fogo que só é arremessado | Consome-se com o tempo e precisa do Fire Pellet Gu para durar |
+| Flame Heart Gu | 3 | Aloja-se no coração do usuário e fortalece os outros Gu de fogo | — | — | — | Amplificador passivo do arsenal inteiro | Instalado no coração: não é algo que se troca no meio de uma campanha (ded.) |
+| Lava Explosion Gu | 3 | Bola de lava | — | — | Exemplar selvagem, de crocodilo-rei de lava | Dano pesado para o rank | — |
+| Flame Stomach Gu | 3 | Defesa térmica | — | — | Exemplar selvagem, da mesma fera | Protege quem usa fogo do próprio fogo | Serve só contra calor (ded.) |
+| Accumulating Ash Gu | 3 | Cura que consome cinzas | cinzas — insumo que o próprio caminho do fogo produz de sobra | — | Exemplar selvagem, da mesma fera | Cura autossustentável dentro de uma build de fogo: o combate gera a própria comida do Gu | Fora de um cenário incendiado, falta insumo (ded.) |
+| Fuel Oil Gu | 3-4 | Espalha óleo inflamável em área | — | — | — | Prepara o terreno para qualquer Gu de fogo multiplicar o efeito | Sozinho não causa dano nenhum |
+| Oil Dragon Gu | 4 | Dragão de óleo | — | — | — | A função real não é o dragão: é untar o alvo de óleo para o golpe seguinte | Inútil sem o parceiro que acende (ded.) |
+| Fire Dragon Gu | 4 | Dragão de fogo | — | — | — | **Regenera-se recuando para dentro de qualquer fogo aceso** — praticamente imortal num campo em chamas | Depende de haver fogo no cenário para se sustentar (ded.) |
+| Human Torch Gu | 4 | O corpo inteiro do usuário vira fogo vivo | — | Queima **até a força vital acabar** | — | Potência de dano altíssima e imediata | É uma arma suicida, e não permite controle fino de trajetória |
+| Fire Pupil Gu | 4 | Incendeia aquilo que o usuário mirar | — | O dano aos próprios olhos é **cumulativo** | Receita documentada: Fire Eye Gu de rank 3 mais Sight Blow Gu | Ataque instantâneo e sem projétil: olhar já é atacar | Cada uso danifica os olhos, e o dano se acumula sem se recuperar |
+| Swallow Fire Gu | 4 | Armazenamento que engole o fogo alheio | — | — | — | Contramedida ofensiva contra outros usuários de fogo, muito além da função nominal de armazenar | — |
+| Fire Cape Gu | 5 | Envolve o corpo em chamas intimidantes | — | A intensidade varia com as marcas de lei já acumuladas pelo usuário | — | Presença e intimidação sem gastar poder de combate | As chamas são **inofensivas**: é aparência, não arma |
+| Prairie Fire Gu | 5 | Incêndio de larga escala | — | — | — | Sozinho repele o ataque conjunto de três especialistas de rank 4 no pico | — |
+| Purple Smoke Cicada | 5 | Emite fumaça roxa que obscurece uma área inteira de céu e terra | — | Precisa de uma infusão de essência verdadeira para produzir a fumaça | — | Obscurecimento em escala geográfica — e ainda é apreciado como iguaria culinária | Não causa dano: é um Gu de negação de visão, não de ataque (ded.) |
 
 ---
 
@@ -287,24 +325,29 @@ de mão única — funcionam uma vez e cobram caro.
 O caminho mais econômico do sistema: muitos dos seus Gu produzem recursos
 (comida, cura, moradia) em vez de dano. É o caminho da infraestrutura.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Wine Sack Flower Gu | 1 | Secreta néctar e vinho | essência primordial |
-| Rice Pouch Grass Gu | 1 | Produz arroz numa bolsa vegetal | essência primordial |
-| Vitality Leaf | 1 | Cura instantânea de uso único; uma folha por hora, por alvo | — |
-| Nine Leaf Vitality Grass | 2 | Tatuagem-planta com nove folhas de cura destacáveis | água e luz solar |
-| Green Vine Gu | — | Vinhas-chicote de quinze metros que prendem o alvo | — |
-| Pine Needle Gu | — | Chuva de agulhas de pinheiro disparada do cabelo | — |
-| Steel Vine Gu | — | Vinhas de aço em muralhas; perfuram atacantes | — |
-| Poison Flower Gu | — | Flores de muralha que envenenam as feridas das vinhas | — |
-| Wood Charm Gu | 3 | Vira espírito de árvore: absorve essência do ar; corpo vira madeira | — |
-| Cactus Pointer | 3 | Floresce um papel com uma palavra-pista; morre ao ser colhido | essência do usuário |
-| Three Star Cave | 3 | Árvore-loja de três andares que cresce instantaneamente | essência primordial |
-| Umbrella Lotus Gu | — | Flor-lótus gigante usada como escudo | — |
-| Earth Treasury Flower Gu | — | Plantada, sela e conserva outro Gu indefinidamente | energia da terra |
-| Grass Puppet Gu | 1-4 | Soldados-boneco de planta; combináveis em tropas de elite | — |
-| Innocent Mushroom | — | Purifica o ar; mobília viva | — |
-| Groundmat Grass Gu | — | Induz sono instantâneo | — |
+Esta é a tabela que melhor mostra a vantagem **econômica** em ação. Vários destes Gu
+comem essência primeva — o recurso que o próprio praticante gera — e devolvem comida,
+bebida, cura ou moradia. São Gu de efeito modesto que se tornam onipresentes no mundo
+justamente por serem baratos de sustentar. É o caminho que financia os outros.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Wine Sack Flower Gu | 1 | Secreta néctar e vinho de dentro de uma flor | essência primeva — o próprio dono produz o alimento dela | — | — | Autossustentável: transforma essência em bem de consumo, sem depender de mercado | Não gera valor de combate nenhum (ded.) |
+| Rice Pouch Grass Gu | 1 | Produz arroz dentro de uma bolsa vegetal | essência primeva | — | — | Resolve a alimentação de pessoas com um Gu de rank 1 — infraestrutura barata | — |
+| Vitality Leaf | 1 | Cura instantânea | — | **Uso único** por folha | Custa de 50 a 80 pedras primevas | Cura imediata e acessível já no rank 1 | Depois de aplicada, o mesmo alvo fica **uma hora imune** a novas folhas: não dá para empilhar curas |
+| Nine Leaf Vitality Grass | 2 | Tatuagem-planta na palma da mão, com nove folhas de cura destacáveis | água e luz solar — custo baixíssimo, e as folhas recrescem | Recompor cada folha custa vinte por cento da essência do usuário | — | Nove curas guardadas no corpo, alimentadas de graça pelo ambiente. Um dos melhores negócios do rank 2 | O custo real está no uso: repor as folhas drena a abertura em vinte por cento cada |
+| Green Vine Gu | — | Vinhas-chicote de cerca de quinze metros que prendem o alvo | — | — | — | Alcance e imobilização, e é amplificado pelo Wood Charm Gu | — |
+| Pine Needle Gu | — | Chuva de agulhas de pinheiro disparada do cabelo | — | — | — | Ataque em cone, difícil de esquivar (ded.) | — |
+| Steel Vine Gu | — | Vinhas de aço embutidas em muralhas | — | — | — | Defesa fixa que perfura atacantes sem custo humano | Só funciona instalado numa estrutura: não é Gu de campo (ded.) |
+| Poison Flower Gu | — | Flores de muralha que envenenam as feridas abertas pelas vinhas | — | — | — | Peça de combinação com o Steel Vine, transformando defesa passiva em morte | Sozinho não faz ferimento nenhum (ded.) |
+| Wood Charm Gu | 3 | Transforma o usuário num espírito de árvore, que absorve essência do ar | — | Uso prolongado **converte o corpo em madeira** | Tem rotas de evolução para rank 4 e 5 usando Lifespan Gu | Regeneração de essência a partir do ambiente, e amplifica todos os Gu de planta | O custo está no uso: a transformação vegetal é progressiva e **irreversível** |
+| Cactus Pointer | 3 | Floresce um papel com uma palavra-pista, reorganizando o que o usuário já sabe | essência do próprio usuário | Consumível: morre ao ser colhido | — | Destrava uma linha de raciocínio travada, sem exigir informação nova | Só reorganiza o que o dono já sabia, e se perde a cada uso |
+| Three Star Cave | 3 | Árvore-loja de três andares que cresce instantaneamente | essência primeva | — | — | Instalação comercial inteira num Gu, e ainda prende ladrões | — |
+| Umbrella Lotus Gu | — | Flor-lótus gigante usada como escudo | — | — | — | Escudo de área grande | — |
+| Earth Treasury Flower Gu | — | Plantada, sela e conserva outro Gu num "coração de flor" | energia da terra — sobrevive indefinidamente enquanto plantada | Uso único | — | Guarda um Gu por tempo indeterminado sem custo de manutenção — a solução de armazenamento mais barata do sistema | Precisa ficar plantada: é um cofre, não uma bagagem (ded.) |
+| Grass Puppet Gu | 1-4 | Soldados-boneco de planta | — | — | — | Escalável: a versão rank 3 mata um Mestre Gu de rank 1, e vários se combinam em soldados de elite de rank 4 | — |
+| Innocent Mushroom | — | Purifica o ar; serve de mobília viva | — | — | — | Conforto doméstico permanente e sem manutenção descrita | — |
+| Groundmat Grass Gu | — | Induz sono instantâneo | — | — | — | Neutraliza sem matar e sem alarde | — |
 
 ---
 
@@ -315,20 +358,26 @@ moral: **as receitas exigem vítimas**. Vários dos seus Gu mais fortes são
 sustentados por assassinato, e um deles é o método clássico de elevar a própria
 aptidão.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Blood Essence Gu | — | Repõe o sangue do usuário | — |
-| Corrosion Blood Grass Gu | — | Tentáculo que desce pela garganta e corrói por dentro | essência de rank 2 |
-| Blood Moon Gu | 3 | Lâmina lunar sangrenta que causa sangramento contínuo | sangue fresco |
-| Bladewing Blood Bat Gu | 3 | Enxame de morcegos; controla-se a colônia dominando o macho | sangue |
-| Blood Skull Gu | 4 | Eleva a aptidão permanentemente com o sangue de vítimas | sangue de vítimas |
-| Blood Frenzy Gu | 4 | Infecta outros Gu com absorção ambiente; escapa do controle | — |
-| Blood Handprint Gu | 5 | Mão gigante de sangue; quem é atingido vira poça | — |
-| Kinship Bloodworm Gu | 5 | Rastreia parentes de sangue à distância; enganável por gêmeos | sangue do coração |
-| Blood River Python | 5 | Regeneração extrema enquanto houver acesso a um lago de sangue | água de sangue |
-| Blood Guillotine | 5 | Multiplica-se sugando sangue de praticantes; sem dono, ataca todos | sangue de Mestre Gu |
-| Blood Wight Gu | 5 | Primeiro estágio zumbi de sangue; a abertura "morre" | pedras primordiais |
-| Blood Rope Gu | — | Deduz a localização de um membro do clã pelo sangue | — |
+Aqui a desvantagem quase nunca está no uso: está na **alimentação e no refino**. Uma
+dieta de sangue fresco é logisticamente pesada e socialmente denunciante, e várias
+receitas exigem matar pessoas — é por isso, e não por moral abstrata, que o caminho
+é classificado como demoníaco. Ao ler, compare a coluna 🍖 com a de refino: é o par
+que define quem consegue de fato manter um destes Gu sem ser caçado.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Blood Essence Gu | — | Repõe o sangue do usuário | — | — | — | Peça obrigatória para sustentar qualquer transformação que sangre o dono, como o Roaming Zombie Gu | Não faz nada sozinho: é suporte (ded.) |
+| Corrosion Blood Grass Gu | — | Tentáculo que desce pela garganta do alvo e o corrói por dentro | essência vermelho-aço, ou seja, essência de rank 2 | — | — | Ignora armaduras e defesas externas por completo | Come essência de rank 2: só um praticante já estabelecido consegue sustentá-lo |
+| Blood Moon Gu | 3 | Lâmina lunar sangrenta que causa sangramento contínuo | sangue fresco de **qualquer** criatura — bem mais fácil de conseguir que pétalas de orquídea-lua, mas chama atenção social (ded.) | Alguns dias por mês o Gu "sangra" e o poder cai a um terço | Fusão de Moonglow Gu com Blood Essence Gu | A rota de fusão **liberta o dono da orquídea-lua**, que é um insumo raro: é um caso-modelo de troca de dieta por conveniência | Um ciclo mensal de fraqueza previsível, que um inimigo informado pode explorar |
+| Bladewing Blood Bat Gu | 3 | Enxame de morcegos de combate | sangue | — | — | Controla-se a colônia inteira dominando um único macho: um Gu comanda um exército | A dieta de sangue e o próprio enxame denunciam o usuário (ded.) |
+| Blood Skull Gu | 4 | Eleva a aptidão do usuário permanentemente | sangue de vítimas do próprio usuário — capacidade da ordem de centenas | — | — | Um dos pouquíssimos métodos de elevar aptidão de forma permanente, e ainda reverte efeitos nocivos de rank inferior | O custo está na alimentação, e é de assassinato em série; além disso os retornos são decrescentes |
+| Blood Frenzy Gu | 4 | Infecta outros Gu, dando-lhes absorção de essência do ambiente | aura de contato | — | — | Transforma o arsenal inteiro do usuário em Gu autossuficientes | **Escapa do controle**: corrompe os Gu infectados e degenera numa poça contaminante |
+| Blood Handprint Gu | 5 | Mão gigante de sangue | — | — | Pertence à herança verdadeira do Blood Sea, não ao mercado | Qualquer ser vivo atingido **vira uma poça de sangue** — morte sem exceção declarada | Só existe dentro de uma herança específica: não há como refiná-lo por conta própria (ded.) |
+| Kinship Bloodworm Gu | 5 | Rastreia parentes de sangue à distância | sangue do coração | — | Refino atroz: exige sangue do coração de dois parentes jovens, colhido ao longo de décadas | Rastreamento familiar de longo alcance, impossível de bloquear pelos meios comuns | O custo está no refino, e é de mutilar a própria família por décadas. Além disso, **um irmão gêmeo engana o Gu** |
+| Blood River Python | 5 | Regeneração extrema | água de sangue | — | Exemplar selvagem, e dos rank 5 mais difíceis de dominar | Praticamente não morre enquanto tiver acesso ao lago de sangue | Amarrado à fonte: longe do lago, a vantagem some |
+| Blood Guillotine | 5 | Multiplica-se sugando o sangue-origem de Mestres Gu | sangue-origem de Mestre Gu — **uso e alimentação são a mesma coisa** | Atacar é comer: não há custo de essência separado (ded.) | — | Cresce sozinho durante a batalha, e em massa destrói vilas inteiras | Sem dono firme, **ataca indiscriminadamente**, inclusive quem o soltou |
+| Blood Wight Gu | 5 | Primeiro estágio da linha de zumbi de sangue | pedras primevas | — | — | Um dos cinco grandes zumbis voadores, com todas as vantagens da linha zumbi | A abertura do usuário **"morre"**: ele passa a depender exclusivamente de pedras primevas para ter essência |
+| Blood Rope Gu | mortal | Deduz a localização exata de um membro do clã pelo sangue | — | — | — | Além de localizar, serve de alvo para uma formação infligir força contínua à distância sobre a pessoa | Funciona só sobre quem já está registrado pelo clã (ded.) |
 
 ---
 

@@ -8,7 +8,7 @@ status: rascunho-interno
 
 > **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
 > **V5 2ª metade + V6**: a lacuna histórica dos limiares percentuais de rank 3/4/5 fecha em definitivo como **não respondida pela obra** (varredura capítulo a capítulo de 1514 a 2334 — o reino imortal usa critérios temporais/de tribulação, não percentuais); em compensação o V6 entrega a **industrialização da aptidão** (congregated human talent, blood skull rank 5, formações de elevação em massa a grau A), a confirmação de que **relic Gu são human path** e a escala completa de fundação de alma até `hundred million desolate soul`. Ver seções "Atualizações do Volume 5 — 2ª metade" e "Atualizações do Volume 6" ao final.
-> **1ª metade do Volume 5**: fecha o **grau D de aptidão em 20–30%** (cap. 1491, batendo com a descrição de "2-3 camadas" do V1) e entrega a **escala completa da fundação de alma** — man soul → 100 milhões (limiar de solidificação) → 900 milhões (teto do tier) → *desolate soul* → teto absoluto do mundo em 100 milhões de desolate soul (caps. 1460, 1505, 1509). Ver também a nota de correção `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`, incorporada abaixo.
+> **1ª metade do Volume 5**: fecha o **grau D de aptidão em 20–39%** (revisado; a passagem citada descreve o D típico) (cap. 1491, batendo com a descrição de "2-3 camadas" do V1) e entrega a **escala completa da fundação de alma** — man soul → 100 milhões (limiar de solidificação) → 900 milhões (teto do tier) → *desolate soul* → teto absoluto do mundo em 100 milhões de desolate soul (caps. 1460, 1505, 1509). Ver também a nota de correção `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`, incorporada abaixo.
 > Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção. NOTA V4: os 372 capítulos do Volume 4 se passam quase inteiramente no reino imortal — **nenhum novo limiar percentual de aptidão para ruptura de rank apareceu** (a prioridade de LACUNAS.md segue aberta); as novidades mortais estão na seção V4 ao final.
 
 ## Resumo do domínio
@@ -217,14 +217,14 @@ O grau se traduz numa **porcentagem de capacidade de essência primeva** na aber
 | Grau | Capacidade da abertura | Teto de progressão típico |
 |---|---|---|
 | (sem talento) | **abaixo de 20%** | **não se torna Mestre Gu** — não existe grau abaixo do D (V1) |
-| D | **20–30%** | rank 1; no máximo rank 2 (caps. 1491 + descrição de "2-3 camadas" no V1) |
+| D | **20–39%** | rank 1; no máximo rank 2 (caps. 1491 + descrição de "2-3 camadas" no V1) |
 | C | 40–59% | rank 2 (só na faixa 55–59%); rank 3 **quase nunca** (caps. 91, 105). 27 passos ≈ 44% |
 | B | 60–79% | rank 3, podendo 4 |
 | A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
 | Constituição Extrema | **100%** | ver [[As Dez Constituições Extremas]] abaixo |
 
 > [!warning] Correções aplicadas
-> A wiki e versões antigas deste rascunho diziam "D = abaixo de 40%" ou "20–39%" — **erradas**. O texto fixa D em 20–30%. A zona 31–39% nunca é descrita pela obra (provável arredondamento narrativo). E **não existe faixa abaixo de 20%**: o V1, ao descrever uma turma de jovens, separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu.
+> A wiki e versões antigas deste rascunho diziam "D = abaixo de 40%" — errado; a faixa correta é 20–39%. A passagem que diz "20 a 30" descreve o D típico, não o limite da banda: as quatro faixas são regulares de vinte pontos e cobrem 20–99 sem vãos. E **não existe faixa abaixo de 20%**: o V1, ao descrever uma turma de jovens, separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu.
 
 **Por que a aptidão é uma trava de rank, e não só um "stat de mana":** romper a parede de cristal da abertura para subir de rank exige **projetar de uma só vez uma porcentagem mínima da essência primeva**. Como a aptidão fixa o teto de armazenamento, quem não alcança a porcentagem exigida **não rompe a parede sem ajuda externa**, por mais séculos que cultive. Canônico: **1→2 exige 55%** ("sem situações especiais", cap. 90) — daí o grau C só passar dentro da estreita faixa 55–59% (cap. 91), e um cultivador de 44% ficar travado no rank 2 por mais de cem anos até conseguir um Gu que eleve aptidão (cap. 105). `inferido (coerente com o texto)`: 65 / 75 / 85 para 2→3, 3→4 e 4→5 — só o 55% é canônico; ver a seção de correção para a justificativa e a marcação obrigatória como extrapolação.
 
@@ -523,16 +523,16 @@ Fonte: `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md` (verificação direta n
 | Grau | Faixa de aptidão | Teto de progressão típico |
 |---|---|---|
 | (sem talento) | abaixo de 20% | **não se torna Mestre Gu** — não há grau abaixo do D |
-| **D** | **20–30%** | rank 1; no máximo rank 2 (caps. 1491, V1) |
+| **D** | **20–39%** | rank 1; no máximo rank 2 (caps. 1491, V1) |
 | **C** | 40–59% | rank 2; rank 3 só excepcionalmente (caps. 91, 105) |
 | **B** | 60–79% | rank 3–4 |
 | **A** | 80–99% | topo mortal (rank 5) |
 | Constituição Extrema | 100% | ver `transformacoes-e-corpos-especiais.md` |
 
 - **A regra que amarra tudo**: romper a parede da abertura para subir de rank exige **projetar de uma só vez uma porcentagem mínima da essência primeva**. Como a aptidão fixa o TETO de armazenamento, ela é uma trava direta de rank. Canônico: **1→2 exige 55%** ("sem situações especiais", cap. 90) — por isso um grau C só passa dentro da faixa 55–59% (cap. 91) e um 44% fica travado no rank 2 por mais de cem anos até conseguir um Gu que eleve aptidão (cap. 105).
-- **Grau D = 20–30%, confirmado em duas passagens independentes**: o V5 afirma diretamente que Mestres Gu de grau D têm de vinte a trinta por cento de essência primeva na abertura, que a maioria fica no rank 1 e termina a vida na base da hierarquia (cap. 1491); o V1 já descrevia o grau D como um mar primevo de "2 a 3 camadas" da abertura. **A wiki erra ao dizer 20–39%** — prevalece o texto. Zona 31–39% não é descrita pela obra (provável arredondamento narrativo).
+- **Grau D = 20–39% (revisado)** — as duas passagens dizem "20 a 30", mas isso é o D típico, não o limite da banda: o V5 afirma diretamente que Mestres Gu de grau D têm de vinte a trinta por cento de essência primeva na abertura, que a maioria fica no rank 1 e termina a vida na base da hierarquia (cap. 1491); o V1 já descrevia o grau D como um mar primevo de "2 a 3 camadas" da abertura. **A wiki erra ao dizer 20–39%** — prevalece o texto. Zona 31–39% não é descrita pela obra (provável arredondamento narrativo).
 - **Grau D não é sentença**: **Thieving Heaven Demon Venerable (Ben Jie Sun) nasceu com aptidão grau D** e ainda assim se tornou Venerável rank 9 (caps. 1491-1492) — a rota foi outherworldly demon + theft path, não o teto de essência. `[segredo]`
-- **Calibração prática do custo**: o Sneak Attack Gu (rank 2) consome apenas 10% de essência green copper (rank 1) por uso — eficiência alta para o rank; ainda assim um usuário grau D (20–30% de essência total) só o dispara **duas vezes** antes de secar (cap. 1500). É a melhor ilustração da tabela: o grau não muda a qualidade da essência, muda quantas vezes se age.
+- **Calibração prática do custo**: o Sneak Attack Gu (rank 2) consome apenas 10% de essência green copper (rank 1) por uso — eficiência alta para o rank; ainda assim um usuário grau D (na base da faixa, 20–30% de essência total) só o dispara **duas vezes** antes de secar (cap. 1500). É a melhor ilustração da tabela: o grau não muda a qualidade da essência, muda quantas vezes se age.
 - `inferido (coerente com o texto)`: os limiares seguintes seriam 65 / 75 / 85 para 2→3, 3→4 e 4→5 — encaixa com a distribuição social de ranks que a obra descreve (grau C trava logo abaixo de 65%; grau B alcança 3 mas não 85%; só grau A chega ao topo mortal). **Somente o 55% é canônico**; o resto é reconstrução de design e deve ser marcado como extrapolação nas notas finais.
 - **Aptidão é alterável também por Gu MORTAL**: o **polished gold Gu** (mortal, consumível de uso único, encontrado na gold fragment current) aumenta a aptidão de um Gu Master — descrito como algo que "faria qualquer Gu Master mortal enlouquecer" de desejo; para um Gu Immortal é quase inútil. O texto não quantifica o aumento (caps. 1155, 1160). Junta-se ao Blood Skull Gu / Reform Gu / Gu de elevar talento do V1-V2.
 
@@ -593,7 +593,7 @@ Fonte: `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md` (verificação direta n
 
 ### Lacunas do domínio (atualização V5-1ª metade)
 
-- ~~Limiares percentuais de ruptura de rank / faixa numérica do grau D~~ ✅ **RESPONDIDO**: 55% para 1→2 (caps. 90-91) e grau D = 20–30% (cap. 1491). Segue sem resposta canônica os limiares 2→3, 3→4, 4→5 (adotados 65/75/85 como `inferido`).
+- ~~Limiares percentuais de ruptura de rank / faixa numérica do grau D~~ ✅ **RESPONDIDO**: 55% para 1→2 (caps. 90-91) e grau D = 20–39% (cap. 1491). Segue sem resposta canônica os limiares 2→3, 3→4, 4→5 (adotados 65/75/85 como `inferido`).
 - (novo V5) Quanto o **polished gold Gu** eleva a aptidão — o texto nunca quantifica (caps. 1155, 1160).
 - (novo V5) A escala de soul foundation salta de 10 milhões (cap. 1471/1481) para 90 milhões (caps. 1503, 1495) sem evento explicativo registrado nas notas — possível erro de transcrição ou crescimento não narrado. Registrado em LACUNAS.
 - (novo V5) Zona de aptidão 31–39% (entre o topo do D e o piso do C) nunca é descrita pela obra.

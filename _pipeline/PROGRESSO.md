@@ -175,7 +175,7 @@ do ca# Progresso do projeto
 - `pesquisa/glossario-pt-centralnovel.md` — 43 termos EN→PT e 7 inconsistências da
   tradução brasileira.
 - `pesquisa/CORRECAO-limiares-aptidao.md` — **correção crítica**: aptidão é teto de
-  armazenamento e trava de rank; 55% para o rank 2; grau D = 20-30%; nada abaixo de
+  armazenamento e trava de rank; 55% para o rank 2; grau D = 20-39%; nada abaixo de
   20%; os dois eixos da essência (×2 por estágio, ×10 por rank, conversão 4:1);
   ascensão imortal por estilhaçamento da abertura, não por porcentagem.
 

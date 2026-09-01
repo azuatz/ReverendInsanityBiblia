@@ -11,7 +11,7 @@ Regra aplicada: a obra é a autoridade; ausência na wiki não prova ausência n
 | 55% de essência para romper a parede ao rank 2 | ✅ literal (cap. 90-91), com a ressalva "sem situações especiais" |
 | Grau C passa ao rank 2 apenas na faixa 55-59% | ✅ literal (cap. 91) |
 | Grau C quase nunca alcança o rank 3 | ✅ literal (caps. 91, 105) |
-| Grau D = 20-30% | ✅ em duas passagens independentes (V1 e V5) |
+| Grau D = 20–39% | ⚠️ revisado — ver nota abaixo; as passagens dizem "20 a 30", que é o D típico |
 | Abaixo do grau D não há grau: "sem talento algum" | ✅ (V1) |
 | Aptidão é teto de armazenamento, não taxa | ✅ literal (cap. 10) |
 | Aptidão é mutável (cai e sobe) | ✅ (caps. 159, 198) |
@@ -34,7 +34,12 @@ Regra aplicada: a obra é a autoridade; ausência na wiki não prova ausência n
 - **Limiares de aptidão por rank** (corrigido antes deste passe, ver
   `pesquisa/CORRECAO-limiares-aptidao.md`): a conclusão anterior, vinda da wiki, de que
   "a obra nunca fala em limiares" estava errada. A obra enuncia o mecanismo e dá o 55%.
-- **Grau D**: a wiki afirma 20-39%; o texto afirma 20-30%. Prevalece o texto.
+- **Grau D = 20–39% (revisado duas vezes).** Duas passagens descrevem o D como tendo
+  "vinte a trinta por cento", e chegamos a adotar 20–30 contrariando a wiki. Revisto: as
+  quatro bandas são regulares de vinte pontos e cobrem 20–99 sem vãos; um D de onze
+  pontos deixaria 31–39% sem grau algum, e nenhum personagem nessa faixa recebe rótulo
+  diferente. A frase da obra descreve o **D típico**, não o limite da banda. A wiki
+  estava certa.
 
 ## Marcado como inferência, não como fato ⚠️
 

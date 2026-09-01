@@ -4,11 +4,36 @@
 > Método: busca por regex sobre o texto integral, com resolução do capítulo por indexação
 > dos marcadores `## Chapter N`. Veredito por item: ✅ RESOLVIDO / ⚠️ PARCIAL / ❌ A OBRA NÃO DIZ.
 
-**STATUS: em elaboração (gravação incremental).**
+**STATUS: COMPLETO.** Os 10 itens da pauta foram trabalhados.
+
+## Quadro-resumo dos vereditos
+
+| # | Lacuna | Veredito | Onde está a prova |
+|---|---|---|---|
+| 1 | Descontinuidade de dao marks r7→r8 | ✅ Não existe descontinuidade; a aritmética fecha | caps. 1007, 1097, 1470, 1703, 1817 |
+| 2 | Teto/curva da amplificação | ✅ Linear até 1.000.000 de marcas; sem saturação numérica. Teto é qualitativo | caps. 1161, 1629, 1817 |
+| 3 | r7 = 24 earthly calamities | ✅ Tiers superiores SUBSTITUEM earthly; soma sempre 30. Reinício do calendário: ⚠️ demonstrado, nunca declarado | caps. 1097, 1470, 1703 |
+| 4 | Escala de soul foundation | ✅ Progressão integralmente narrada; a "lacuna" era ruído de tradução | caps. 1460–1509, 2128 |
+| 5 | Zona de aptidão 31–39% | ❌ A obra não diz — buraco literal na tabela de graus | caps. 135, 198, 1491 |
+| 6 | Quanto o polished gold Gu eleva | ❌ A obra não diz — mas há teto inferível pelo ranking | caps. 1155, 2295 |
+| 7 | Conversão entre essências imortais | ✅ 100:1 por rank, declarado. O "130" era erro nosso | caps. 1206, 1316, 1644, 2228 |
+| 8 | Essência × rank enunciado fechado? | ✅ Sim, cap. 1007 é a passagem-âncora | caps. 971, 1007 |
+| 9 | Cinco contradições menores | 1 erro do autor, 1 erro nosso, 3 nuances reais | caps. 81/86/89, 93/107, 271/277, 290/291, 230/245 |
+| 10 | Grade "high" de blessed land | ✅ 4.700–6.000 km²; não havia divergência entre capítulos | caps. 690, 939, 1027 |
+
+**Saldo**: 7 resolvidos com prova textual direta, 2 confirmados como não-descritos pela obra
+(resultado válido), 1 parcial. **Três "contradições" do material eram erros nossos de leitura**
+(itens 3-cinto, 7-conversão, 10-blessed land) e **uma era uma nuance real** que a própria obra
+explica (item 10-tokens). Apenas o prêmio do exame (150 vs 100) é inconsistência genuína do original.
 
 ---
 
 ## 1. Descontinuidade de dao marks entre rank 7 e rank 8 (30.000 → 100.000)
+
+> **Nota de convergência**: o orquestrador chegou de forma independente à mesma conclusão e já
+> corrigiu o piso do rank 8 de 100.000 para **30.000**. Esta seção é a base textual dessa correção:
+> não há descontinuidade, e as faixas 9.000 / 30.000 / 300.000 são a soma aritmética exata de um
+> ciclo de 300 anos em cada rank.
 
 **✅ RESOLVIDO — e de forma muito mais forte do que se esperava.** A obra dá a
 aritmética completa, e as faixas registradas são o resultado exato dela.
@@ -278,7 +303,7 @@ Portanto a tabela canônica completa é:
 | A | 80–99% (o máximo é 99%; 100% só nas dez constituições extremas, cap. 135) |
 | B | 60–79% |
 | C | 40–59% |
-| D | 20–30% |
+| D | 20–39% |
 | — | **31–39%: sem grau atribuído** |
 | — | **0–19%: sem grau atribuído** |
 

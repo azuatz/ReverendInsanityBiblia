@@ -162,4 +162,4 @@ Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativ
 - [[Ranks e Avanço]] — a trava que o grau impõe e as brechas para furá-la.
 - [[Ascensão Imortal]] — onde a aptidão para de importar.
 
-[^1]: Fontes secundárias de comunidade registram o grau D como "abaixo de 40%" ou "20–39%". A obra é explícita ao fixá-lo em 20–30%, e prevalece.
+[^1]: Uma passagem da obra descreve o grau D como tendo "vinte a trinta por cento" de essência, o que já nos levou a registrar a faixa como 20–30%. Revisamos: aquilo caracteriza o D típico, não o limite da banda. As quatro faixas são regulares de vinte pontos cada e cobrem 20–99 sem vãos, e nenhum personagem entre 31% e 39% recebe grau diferente. Fontes secundárias de comunidade também registram 20–39%.

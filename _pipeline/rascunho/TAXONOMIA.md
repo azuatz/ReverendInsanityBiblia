@@ -123,7 +123,7 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
   tabela de attainment, 3 vias, skip de calamidades), 7 níveis de desenvolvimento de
   aperture, land spirits (não mentem), essência imortal (100 stones = 1 red date bead),
   ascensão pelos três qi, Heavenly Court como fusão de apertures, rank 10 "Destiny"** →
-  `cultivo-imortal.md`; **grau D = 20–30% + limiar 55% + os dois eixos da essência
+  `cultivo-imortal.md`; **grau D = 20–39% + limiar 55% + os dois eixos da essência
   (×2 estágio / ×10 rank) + escala completa da fundação de alma (man soul → desolate
   soul) + dao marks natos por physique/raça + phantom aperture/false immortal** →
   `cultivo-mortal.md` (a correção de limiares veio de

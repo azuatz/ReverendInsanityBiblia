@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Economia e vida cotidiana
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: pedras primevas, preços, rendas, mercados/leilões, rock gambling, merit points, heranças e eventos jogáveis, cotidiano.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: pedras primevas, preços, rendas, mercados/leilões, rock gambling, merit points, heranças e eventos jogáveis, cotidiano. O V3 abre a **economia imortal** (treasure yellow heaven, immortal essence stones, treasure light) e a economia de guerra de Northern Plains (battle merits).
 
 ## Resumo do domínio
 
@@ -139,9 +139,54 @@ Subsídio de academia (3 pedras/semana) e cargos (monitor 10/semana); prêmios d
 
 Arena/battle stage (regras completas em sociedade-e-organizacoes.md); leilões e super leilões; competições de caça de clã (fachada para operações, caps. 215-219); Auspicious Festival do Shang (feira anual, cap. 326-328); teste comercial de jovem mestre (capital 100.000 / 3 meses, cap. 322); heranças de blessed land (Three Kings, Hu Immortal); pedágio ritual de luta de braço (cap. 240); expedições anti-zumbi anuais (cap. 253); rock gambling por grau.
 
+---
+
+> fontes desta seção: ["cap. 410-424", "cap. 441-442", "cap. 448-454", "cap. 466-476", "cap. 487-508", "cap. 516-522", "cap. 527-546", "cap. 554-562", "cap. 575-581"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Economia imortal: treasure yellow heaven (o mercado que faltava)
+
+`[especializado]` (só Gu Immortals participam; mecânica em cultivo-imortal.md):
+
+- Moeda: **immortal essence stone** (só a Heavenly Court produz; **1 pedra > 100 milhões de primeval stones**; ~60 simultâneas foi o recorde de um imortal veterano em 500 anos) (cap. 466). Precificação por **treasure light** (feixe em metros do treasure light Gu, rank 8 único) (cap. 466).
+- Preços registrados: receita remanescente fraca = 1 m de luz ≈ enxame de starlight fireflies + 2 stones; lote de receitas 3+ m gerou ofertas de 33.000 starlight fireflies cada (cap. 466); venda das receitas de Fang Yuan rendeu 28 stones (cap. 491); 2ª revenda do remnant do Gruel Mud = 11 stones (valor decai a cada revenda, cap. 508); 1 stone = 3 dossiês de conhecimento agrícola (cap. 467); 30.000 turtleback wolves + 1 myriad king = 1 stone (pedido inicial: 2) (cap. 476); ~18.000 night wolves + 1 emperor danificado = 2 stones (cap. 491); ~10.000 hairy men = 0,5 stone (velhos valem MUITO mais que jovens para refino) (cap. 491); ovas de air bubble fish = 1 stone (especulação de 10-100×, cap. 476); hairy men refinement masters ≈ 21 m de treasure light; grandmasters ≈ 70 pés (caps. 486-487); 1 uso do ink transformation ≈ 1,5 stone em Gu raros (cap. 575).
+- Regras de mercado: leilão informal entre compradores que "negociam adequadamente" (cap. 466); vendas anônimas por pseudônimo (divine sense sem identidade — lucro duplo em cadeias de favores, caps. 528, 352 do bloco 488-528 → cap. 528); receitas vendidas são adulteradas de propósito (caps. 491, 495); inovação infla recursos da noite para o dia (stargate Gu valorizou starlight fireflies, cap. 466); beast emperors raramente à venda (refletem a força da blessed land; aparecem feridos, cap. 491); excedente populacional de blessed lands é vendido lá (alívio ecológico + receita, caps. 476, 508).
+
+### Economia de guerra de Northern Plains (battle merits)
+
+`[comum]` **1 battle merit = 10 primeval stones** (self-reliance Gu r3 = 45.000 pedras = 4.500 merits, cap. 517). Battle merits viram moeda corrente na guerra (pedras somem de circulação); emprestáveis até saldo negativo para figuras de prestígio (500.000 → 1.300.000 de dívida documentada, caps. 517, 522, 527); compram até CONHECIMENTO (killer moves completos, diários de mestres, "dezenas" de pequenas heranças de strength path, cap. 546); ranking da 1ª grande batalha: 1º lugar >100.000 merits, 2º ~80.000, cauda ~3.000 (cap. 516); recompensa por matar um comandante: 5 milhões de merits + cargo vitalício (cap. 540); "gig work" interno (capturar lobos, processar peles) paga merits (cap. 517); merits também são multa/reparação pessoal entre aliados (10.000 por um espancamento, cap. 530).
+
+### Spirit springs e infraestrutura (números novos)
+
+- **Spring egg Gu** (r5, expenditure; de eggmen): plantado, gera uma spirit spring — pequena dura 50-60 anos e produz **≥100 milhões de primeval stones** na vida útil; média ~100+ anos; grande séculos; ativar exige a essência de um rank 5 (caps. 421, 554-558). Funções: densidade de essência ambiente + aliviar o gasto de essência imortal (cap. 421).
+- Hole earth Gu (r5, par): túnel fixo entre dois pontos (só dentro do Central Continent); manutenção 200.000 pedras/ano + custo por uso; só grandes seitas bancam (caps. 423-424, 459). Stargate Gu (r5, par): atravessa as cinco regiões; consome luz estelar (starlight firefly Gu morrem 1 a cada 3 respirações) e essência monstruosa (caps. 459-466).
+- Refino de elite custa infraestrutura territorial: a linha Heavenly Essence Treasure Lotus consome spirit springs INTEIRAS por rank (r4=7, r5=9, r6=11; +60% se springs de Northern Plains) (cap. 558).
+- Blessed land como fazenda: fluxo de tempo acelerado multiplica reprodução de rebanhos/exércitos (caps. 474, 476); "lixo" de calamidade vira ativo (gruel mud como ingrediente raro; nuvens residuais como substrato de cultivo; corpo de uma desolate beast vale mais que 60.000 escravos — 1,6 milhão de pedras pelos rockmen vs. corpo do swamp crab, caps. 418, 424, 469, 474).
+
+### Preços mortais novos (Northern Plains)
+
+| Item/serviço | Preço | Cap. |
+|---|---|---|
+| 5 escravos homens mortais | ~0,5 pedra primeva | 441 |
+| Recompensa por "isca humana" em captura de matilha | 500 pedras + 1 Gu r3 | 501 |
+| Presente político a um "herói" | 1 milhão+ de pedras + Gu r5 | 448, 450 |
+| Espólio de uma tribo média (Yan) | 634.000 pedras, 1 Gu r5, 27 r4, +2.000 receitas, +7.000 prisioneiros | 477 |
+| Espólio de tribo média rica (Zheng) | ≥8 milhões de pedras, ~100 Gu r3 | 481 |
+| Receitas de wolf enslavement r1-3 | compráveis no mercado comum; r4+ monopolizadas por grandes tribos | 441 |
+| Salto de preço no rank 4 | vale para categorias difíceis (beast enslavement, relic); Gu r4 fáceis de refinar (strength of ten jun) seguem baratos | 454 |
+
+- Mercado tribal itinerante sazonal (13 dias): área mortal + área exclusiva de Gu Masters; zona de refino terceirizado e comércio de RECEITAS (cap. 441). Mercado negro paralelo para bens de origem duvidosa (cap. 520).
+- Enslavement masters são caríssimos de manter (só clãs grandes; 2-3 por super clã, cap. 459); tribo-hospedeira arca com a alimentação do exército de bestas do "herói" (caps. 495-496).
+
+### Eventos jogáveis novos do V3
+
+Heroes assembly e a disputa decenal do Imperial Court (guerra de alianças com battle merits, expert challenges, reparações — sociedade-e-organizacoes.md); os 88 andares/100 rodadas da True Yang Building (desafios com 3 graus de avaliação e treasure room de trocas por valor equivalente, caps. 557-558); mercado sazonal tribal; duelo público por prêmio (caps. 443-444); caça/subjugação de matilhas selvagens (armadilha de desfiladeiro, cap. 501); defesa de blessed land contra calamidade (caps. 416-418); leilões reversos de material raro (gruel mud, cap. 469).
+
 ## Lacunas do domínio
 
-- Mercados de rank alto imortais (Treasure Yellow Heaven etc.): nada ainda.
+- ~~Mercados de rank alto imortais: nada ainda~~ ✅ RESPONDIDO no V3 (treasure yellow heaven, caps. 466+).
+- ~~Preço de mercado de um Gu Immortal~~ ✅ RESPONDIDO: Immortal Gu só se troca por Immortal Gu (unicidade); nem montanhas de immortal essence stones compram um (caps. 487, 537, 567).
 - Câmbio formal pedra ↔ moedas mortais (se existir).
 - Multiplicadores exatos de custo de vida por rank 4-5.
-- Preço de mercado de um Gu Immortal: por definição "não tem" (nunca vendido) — confirmar se há exceções.
+- Escala exata do treasure light (o que determina metros/pés) — não definida (cap. 466).

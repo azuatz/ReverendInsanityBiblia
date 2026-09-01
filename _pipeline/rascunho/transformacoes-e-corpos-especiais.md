@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Transformações e corpos especiais
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, variantes humanas (hairy men), modificações corporais permanentes, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, variantes humanas (hairy men, rockmen, snowmen, inkmen, eggmen), modificações corporais permanentes, troca de identidade física, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
 
 ## Resumo do domínio
 
@@ -144,9 +144,51 @@ Detalhe completo em cultivo-mortal.md (seção Graus de Aptidão). Resumo do que
 - Deformidade cumulativa por space path: warp Gu (cap. 397).
 - Gordura como mecânica: corpo obeso + Gu de controle = "espelho" que devolve 80% do impacto recebido (Zhu Ba; falha de concentração = backlash total, caps. 299-301).
 
+---
+
+> fontes desta seção: ["cap. 412-415", "cap. 424", "cap. 432", "cap. 435", "cap. 486-499", "cap. 526-528", "cap. 537", "cap. 569-590", "cap. 618", "cap. 626-649"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Zumbificação — mecânica profunda (por que zumbis existem, e o preço final)
+
+- `[especializado]` **Base cosmológica**: a Door of Life and Death enfraqueceu ao longo das eras e não reivindica mais todas as almas — um "**heavenly zombie**" é um corpo morto com a alma ainda presa a ele ("meio-morto"); só a absorção da alma pela porta mata de verdade (cap. 590). A alma persistente ainda sente (dor reduzida, não nula) e pode se ESTILHAÇAR por dor extrema cumulativa (desmaios repetidos = alerta; estilhaçou = morte real) (cap. 590).
+- A série zumbi é formalmente **transformation path**: roaming (r2) → hairy (r3) → hopping (r4) → flying zombie Gu (r5; cinco grandes variantes: asura, heavenly demon, blood wight, nightmare, plague — e um 6º tipo raro, o earth chief zombie Gu) (caps. 526, 569-574). Asura zombie (r5): defesa/regeneração multiplicadas, quase sem dor, feridas até o osso regeneram em segundos; killer move próprio "Asura Transformation" (3 m, 6 braços de bronze) (caps. 526, 531).
+- **Zombie energy é incompatível com corpo vivo**: transformações zumbis temporárias acumulam "energia dos mortos" que drena a força vital; o marcador visível são as **zombie speckles** (manchas que se espalham; cobriram o corpo = zumbificação PERMANENTE e irreversível) (caps. 574-581, 643). Limite seguro do killer move Six Arm Heavenly Zombie King: ~30 min por ativação para um mortal; ~1 h para um Gu Immortal (a qualidade de vida do imortal estende o limite — regra geral de transformações mortais sustentadas por imortais) (caps. 581, 640).
+- **O preço final da zumbificação total** (pago em cena, cap. 643): TODO o corpo — incluindo todas as aberturas, mortais e imortal — perde a força vital; **o avanço de cultivo cessa para sempre** ("pior que um mortal" em potencial). Em troca: sem lifespan a consumir (imune a drenos de vida como a luz do Wisdom Gu) e regeneração/resistência de morto-vivo (caps. 646-647). Nenhuma cura conhecida (o experimento para resolver o backlash fracassou; pendência aberta, cap. 590).
+
+### Ten Extreme Physiques (expansão V3 — 4ª nomeada e a regra da ascensão)
+
+- `[especializado]` **Great Strength True Martial Physique** (Hei Lou Lan): 4ª nomeada; a MAIOR velocidade de recuperação entre as dez (cap. 646-647). Regra nova geral: **cada constituição extrema tem uma "ameaça de morte" embutida que só a ascensão a Gu Immortal com um Immortal Gu do path específico alivia** (Great Strength True Martial exige um Immortal Gu de strength path) (caps. 528, 556, 564-565, 593). Antes de **Old Immortal Kong Jue** (Olden Antiquity, criador do "Immortal Aperture Strategy") nenhum portador havia conseguido ascender (cap. 598).
+- Poder cross-realm: a autodetonação de um portador cresce com o rank — no rank 5 pico já mata Gu Immortals; um portador à beira dela é "meio passo do reino imortal", capaz de suprimir um Gu Immortal recém-ascendido; portadores "quebram convenções" e esmagam oponentes do próprio realm (cap. 618). Caso extremo: mortal rank 5 pico com a physique suprimiu QUATRO Immortal Gu simultâneos e ativou um quinto (mecanismo não sistematizado, cap. 649).
+- Ocultação: o Immortal Gu **Dark Limit** sela a aura da physique (e "segredos celestiais" contra adivinhação) (caps. 528, 618, 649).
+
+### Variantes humanas (variant men) — catálogo ampliado
+
+`[comum]` Raças variantes não descendentes da linhagem principal de Ren Zu: **rockman, eggman, hairy man, inkman, snowman**. Inteligência abaixo da humana; ingênuos — há tradição estabelecida de sequestrá-los/enganá-los para venda (caps. 424, 497). Raríssimos despertam abertura via hope Gu; poucos desses progridem (cap. 498).
+
+- **Rockmen** (caps. 412-415, 435, 476): subterrâneos, comem minério/terra (acumulam ouro/gemas no corpo); só machos, reprodução assexuada por fragmentação de corpo+alma (herda memórias); dormem ~80% da vida (bolas de pedra, 7-8 anos por ciclo — o corpo de pedra sobrecarrega a alma); lifespan ~1.000 anos; maturidade ~180; 1º filho aos 300, depois 1/200 anos (~4 por vida); ciclo acelerável por gutstones (população triplica em dias); organização social suporta ~100 mil por grupo (acima, cisão); mão de obra de escavação cobiçada por Gu Immortals; morte por exaustão dissipa a alma (sem descendência); origem mítica: o Love Gu animando pedras (cap. 435).
+- **Snowmen** (caps. 537, 587): pele branca, olhos azul-gelo; o corpo vira escultura de gelo ao morrer; lágrimas viram gelo — material de refino valioso; limite biológico: 3 choros/vida, 60 gotas ao todo, cada choro consome longevidade; prosperam no blizzard (Gu de snow/ice/water path instalam-se neles espontaneamente); comem carne de snow monsters para propagar e alongar a vida; criados como gado por Gu Immortals (Xue Song Zi).
+- **Inkmen** (cap. 497): tinta da book mountain solidificada; pele negra, cabelo/barba níveos; uma inkman (Mo Yao) chegou a rank 7 e fada-líder de uma das dez grandes seitas (cap. 566) — prova de que variantes não têm teto absoluto.
+- **Eggmen** (caps. 421, 554): fonte dos spring egg Gu (matar um "eggman emperor" forte).
+- **Hairy men** (atualização): talento inato de refino desde a era imemorial; qualidade do trabalho escala com o tratamento recebido; escala formal de habilidade: refinement master < grandmaster; velhos valem mais que jovens (caps. 486-487, 491).
+
+### Troca de identidade física: human skin Gu
+
+`[segredo]` (tecnologia "do futuro" trazida pela vida anterior do protagonista; será popularizada séculos depois na guerra das cinco regiões): fabricado sob medida a partir da PELE do cadáver-alvo (formigas devoram a pele → flor carnívora processa → Gu-fumaça); o usuário reverte modificações corporais anteriores (old removal Gu), esfola-se e aplica a fumaça — replica pele, pelos, cor de olhos, formato ósseo, digitais e cicatrizes do alvo; permanente até nova aplicação (cap. 432). Limite: engana Gu Masters comuns, NÃO engana a vontade de um Immortal com Gu de registro (cap. 613). Filosofia demoníaca associada: "o corpo é só um saco de carne" (cap. 432).
+
+### Modificações corporais (V3)
+
+- **Turtle jade wolf skin Gu** (r5): pele-defesa automática ao ser atingido, sem custo de essência; consome um turtleback wolf emperor VIVO no refino (caps. 499-500). **Impermanence bone Gu** (r4): ossos que ampliam a capacidade do corpo de conter uma alma poderosa (cap. 459). **Body modification Gu**: adequa o corpo à alma/força (cap. 493).
+- Regra do dual-path corporal: um Gu de modificação raramente serve a dois paths ao mesmo tempo (enslavement × strength exigem corpos opostos); cultivar ambos plenamente exige um "fundamento" maior (caps. 500, 536).
+- Overclock suicida: Gu de emergência infla corpo/cultivo a um rank acima por minutos — sentença de morte (cap. 457). Do or Die Gu (r5): essência instantânea ao custo permanente de 1 estágio de cultivo (caps. 482-483).
+
 ## Lacunas do domínio
 
 - Faixa exata do grau D e o que existe abaixo de 40% de aptidão.
-- Lista completa das dez physiques (3 nomeadas; confirmar se Ancient Moon Desolate Yin = Desolate Ancient Moon).
-- Custos/vantagens dos estágios intermediários de zumbi (Fur/Jumping) não detalhados; relação exata entre a escada de cores selvagem e a escada de Gu de auto-zumbificação (paralelas? convergem?).
-- A "fraqueza conhecida" genérica das ten extreme physiques (citada no cap. 303) não foi detalhada.
+- Lista das dez physiques: 4 nomeadas (Northern Dark Ice Soul, Ancient Moon Desolate Yin, Desolate Ancient Moon — provável duplicata —, Great Strength True Martial); faltam ~6-7.
+- Custos/vantagens dos estágios intermediários de zumbi (hairy/hopping) seguem não detalhados; relação entre a escada de cores selvagem e a escada de Gu.
+- Cura da zumbificação total do Six Arm Heavenly Zombie King: NÃO existe até o cap. 649 (experimento fracassou; o protagonista pagou o preço) — pendência aberta.
+- Se "Gu ligado a objeto" (Sole Blade) é categoria formal (ver gu-sistema.md).
+- Se o limite de lágrimas dos snowmen (3×/60 gotas) é universal da raça (provável) ou local.
+- Como exatamente uma physique extrema permite a um mortal suprimir múltiplos Immortal Gu (cap. 649).

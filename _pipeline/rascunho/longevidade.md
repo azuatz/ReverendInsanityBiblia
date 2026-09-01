@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Longevidade
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: lifespan, envelhecimento, expectativa de vida, lifespan Gu, métodos de extensão de vida e seus custos; lifespan como MOEDA de atalhos temporais.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: lifespan, envelhecimento, expectativa de vida, lifespan Gu, métodos de extensão de vida e seus custos; lifespan como MOEDA de atalhos temporais e de dedução (wisdom path).
 
 ## Resumo do domínio
 
@@ -72,9 +72,40 @@ Humanos vivem ~100 anos; a morte é lei do mundo ("mesmo Ren Zu teve que morrer"
 
 - Cruzamento com cura de elite: Rising Dead Gu (r4, ressuscita morto <14 h com corpo intacto) + Flesh-bone Gu (r3, reconstrói o corpo) — combo histórico usado até por rank 9; é resgate, não extensão (cap. 224; ver catalogo-gu.md).
 
+---
+
+> fontes desta seção: ["cap. 449-453", "cap. 461", "cap. 492", "cap. 537", "cap. 563", "cap. 588", "cap. 599-601", "cap. 610", "cap. 615", "cap. 637-647"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Regras estruturais confirmadas
+
+- **Subir de rank/cultivo NÃO estende lifespan** — dito duas vezes, inclusive para Gu Immortals (caps. 492, 563): lifespan é recurso separado; só um lifespan Gu resolve "pela raiz".
+- **Lifespan Gu é recurso natural finito e esgotado**: só o céu e a terra o criam, em locais fixos raríssimos; até rank 9 Veneráveis vasculharam o mundo, exauriram o suprimento e não acharam novos — daí os métodos alternativos, todos inferiores (cap. 599). Rumor: Long Hair Ancestor saberia REFINAR lifespan Gu (motivo do ataque fracassado de Giant Sun a Lang Ya, cap. 597-598). Exemplares/valores: "hundred year lifespan Gu" cobrado como preço de ajuda entre Gu Immortals demoníacos (cap. 588); Fifteen Year Lifespan Gu (+15 anos, mortal) (cap. 615). Grandes potências sabotam coletivamente a compra de lifespan Gu por um rival (cap. 519).
+
+### Lifespans documentados (calibração do teto imortal)
+
+`[especializado]` Veneráveis (rank 9): Primordial Origin 25.000 anos (maior); Star Constellation 19.000 (2º); Giant Sun 8.000+ (médio-alto, mesmo abusando do Wisdom Gu); maioria ~7.000; Red Lotus ~3.000 (menor) (caps. 467, 601). Long Hair Ancestor (r8) viveu "três eras de Veneráveis" e morreu de velhice (cap. 460-461). Rockmen ~1.000 anos (cap. 413); humanos ~100 (regra do V1 intacta).
+
+### Métodos de extensão para Gu IMMORTALS (heranças de Giant Sun, cap. 599)
+
+| Método | O que dá | Custo/limite |
+|---|---|---|
+| **Possession** (Immortal Gu r6 Possession + ~3.000 Gu mortais r5) | a alma "possui" um corpo novo, escapando da morte | criticado in-universe como "mera luta na porta da morte" — a morte segue inevitável; inferior ao lifespan Gu; mudou o equilíbrio da futura guerra das 5 regiões |
+| **Yin-Yang path** | transferência de lifespan entre DOIS Gu Immortals (macho+fêmea, via cópula) | soma zero exata — um ganha o que o outro perde |
+| **Virar land spirit** | a obsessão residual funde-se ao poder da abertura imortal — extensão de existência pós-morte | rígido, preso à terra, sem memórias plenas (cap. 610) |
+| **Vontade residual (will)** | consciência parcial sobrevive em objetos/mentes | desgasta-se sem reposição; "dorme" para durar (caps. 574, 641) |
+
+### Lifespan como moeda de dedução e poder (expansão da regra do V2)
+
+- Wisdom path paga dedução em vida: Heavenly Secret Gu (r7) — ~80% de falha, cada falha consome 10-70 anos (cap. 492); a Prophecy of Three Venerables custou 50 anos a Immortal Yi Yan (cap. 461); Star Thought Gu em modo ofensivo massivo ≈ ≥2 anos por ativação (cap. 513); a "luz da sabedoria" do rank 9 Wisdom Gu consome lifespan por exposição (≈2 anos numa exposição breve/distante; 10+ em exposição próxima e prolongada) — e a mera proximidade de uma herança suprema induz transe que queima a vida sem o usuário notar (caps. 601, 637-638, 646-647).
+- **Third Watch Gu esclarecido**: acelera o FLUXO DE TEMPO PESSOAL do alvo — tudo que amadurece nele acelera (cultivo, recuperação de um vital Gu ferido, crescimento de uma besta) e o lifespan encurta na mesma proporção; numa besta: maturidade rápida + apetite ~13× + vida encurtada (caps. 449, 453). Confirma a leitura "custo proporcional ao tempo subjetivo".
+- Custos exóticos: choro de snowman consome longevidade (3 choros/60 gotas por vida, cap. 537); zumbificação total elimina o próprio conceito de lifespan — nada mais a consumir, mas também sem cultivo futuro (caps. 643-647; ver transformacoes-e-corpos-especiais.md).
+
 ## Lacunas do domínio
 
-- Tabela de expectativa de vida por rank de cultivo: segue inexistente até o cap. 405.
+- Tabela de expectativa de vida por rank de cultivo: segue inexistente (reforçado: rank NÃO dá vida — caps. 492, 563).
 - "Luz de expectativa de vida" (lifespan light): ainda não apareceu.
-- Preço/mercado de um Lifespan Gu: segue sem números.
-- Se o custo do Third Watch Gu ("lifespan a 1/3") se aplica sobre o restante no momento do uso — leitura adotada — ou sobre o total original; confirmar no passe de verificação.
+- Preço de mercado de um lifespan Gu: segue sem números (só o uso como "preço de ajuda" entre imortais, cap. 588).
+- ~~Se o custo do Third Watch Gu se aplica sobre o restante~~ — leitura "fluxo de tempo pessoal ∝ custo" reforçada (caps. 449-453); confirmar formulação exata no passe de verificação.
+- Se o custo de lifespan do Heavenly Secret Gu é fixo por Gu ou escala com a pergunta (o texto sugere ambos, cap. 492).

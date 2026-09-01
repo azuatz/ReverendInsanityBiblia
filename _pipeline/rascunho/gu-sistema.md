@@ -6,7 +6,7 @@ status: rascunho-interno
 
 # Sistema de Gu (natureza, uso, refino, alimentação, fusão, Gu vital, killer moves, contratos)
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
 
 ## Resumo do domínio
 
@@ -24,6 +24,9 @@ Toda a magia do mundo é praticada por meio de **Gu** — criaturas vivas sobren
 8. Refinar tem preço no corpo E na alma: falhas causam backlash físico (curável) e dano de alma (grave, lento, quase sem cura); refinadores profissionais espaçam tentativas em ~1 mês (cap. 304).
 9. Receita > Gu: vender um Gu rende muito menos que vender sua receita, que permite produção ilimitada; receitas exclusivas valem ordens de magnitude mais que todos os exemplares somados (caps. 262, 308-309).
 10. Toda força tem contramedida — e a força efetiva de um Gu é também função de quão conhecido ele é: um Gu obscuro (Breath Concealment Gu) é praticamente imbatível até o mundo aprender a contra-atacá-lo (cap. 239).
+11. Um "tipo" de Gu (nome+rank) pode ter dezenas de receitas alternativas não idênticas (8 receitas só para o wolf enslavement Gu rank 5 num único acervo, cap. 487).
+12. Killer move e Gu house têm a MESMA essência (vários Gu empilhando habilidades); killer moves compostos amarram sua "vida" à dos Gu componentes — se eles morrem no uso, o usuário sofre backlash direto (caps. 513, 573).
+13. Refinar = impor a própria vontade sobre a vontade do Gu, com essência primeva como veículo; um Gu que já carrega a vontade de OUTRO Gu Master é várias vezes mais difícil de refinar que um selvagem (caps. 593-595, 631-632).
 
 ---
 
@@ -273,3 +276,58 @@ O Volume 1 não tinha o conceito; o Volume 2 o define (cap. 314): **killer move 
 - **Efeito ≠ rank**: penetração vence blindagem de mesmo rank (frenzy needle bee × Sky Canopy, caps. 208-209); regra geral de "tipo de efeito neutraliza nível de rank" em certas combinações.
 - **Vigilância/registro institucional**: Gu de gravação de missão (Immortal Crane Sect, cap. 211), vine information Gu alugado na arena (caps. 279-280), rust flower Gu na alma de membros do clã Tie marca quem os mata (cap. 352).
 - **Escravização (slavery Gu, ranks 1-5)**: controle total sobre um Mestre Gu implantado; a submissão é uma "disputa de almas" — fundação de alma mais forte resiste, mas distração física/emocional no momento crítico contorna (caps. 330, 387, 401). Controle de escravos barato: poison scorpion Gu (veneno único por indivíduo; antídoto a cada 7 dias) (cap. 330).
+
+---
+
+> fontes desta seção: ["cap. 407-411", "cap. 428-431", "cap. 442-466", "cap. 477-487", "cap. 493-501", "cap. 511-518", "cap. 526-548", "cap. 564-596", "cap. 618-649"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Killer moves — expansão maior do conceito
+
+- **Definição consolidada**: combinação de múltiplos Gu ativados ao mesmo tempo cuja sinergia gera efeito maior que a soma; consome muita essência; a receita de um killer move revela "fragmentos do Grande Dao" e permite estudar contramedidas (cap. 536).
+- **Categorias formais** (novidade V3):
+  - *Killer move solo* (1 usuário, ~3+ Gu): Thunder Bird, Golden Rainbow Strike, Dark Vortex, Four Arm Earth/Wind King (14+ Gu), Six Arm Heavenly Zombie King (~42 Gu) (caps. 480, 511, 541-543, 569-581).
+  - *Killer move cooperativo* (Gu de MUITOS usuários ao mesmo tempo): Gold and Silver Lightning Dragon (saraivada de centenas de lightning spears "armada" por elders) (cap. 480).
+  - *Killer move multiusuário obrigatório* (não ativa com menos de N pessoas): Three Hearts Combination Soul (3 usuários, 6 Gu em sequência — funde as almas, soma quase linear, comando unificado de bestas mistas; custo: 2-3 min para desfazer sob pressão) (caps. 506-507, 511); Three Heads Six Arms (3 usuários, 18 Gu r3-5; força ~6×, velocidade ~9×; mistura progressiva de memórias → loucura/idiotice com uso prolongado) (caps. 534, 536); Winged Blade (3 Gu IMMORTALS simultâneos, nível imortal) (caps. 635, 638). — categoria que responde lacuna do V2.
+  - *Self-harming move*: o efeito mata parte dos próprios Gu componentes → backlash automático no usuário; reservado como último recurso (Dark Vortex aprimorado, cap. 513).
+  - *Gu house* = killer move solidificado de 10+ Gu que afeta várias pessoas (ver cultivo-imortal.md; caps. 568, 573).
+- **Desenvolvimento é iterativo e perigoso**: killer move não nasce pronto — exige ciclos de teste em combate real (historicamente 10+ gerações de uma linhagem); usar um mal testado além do "tempo teorizado" fere gravemente o criador (caps. 541, 543). Conhecer o killer move de um rival permite desenvolver um counter dedicado (Cloud Whirlpool contra Dark Vortex, 3 anos de preparo, cap. 511); e um killer move público pode ser só a camada visível de uma segunda forma secreta (cap. 513).
+- Killer moves são **comercializáveis como conhecimento** (receitas completas compradas com battle merits, diários de mestres com killer moves registrados, cap. 546); vontades residuais de Veneráveis podem entregá-los prontos, com domínio incluído (cap. 642).
+- Regras específicas notáveis: transformation path garante estruturalmente ao menos 1 killer move a todo praticante com o set certo (caps. 523, 526); strength path phantoms refletem a autoimagem subconsciente do usuário e o uso prolongado remodela a psique rumo a ela (cap. 648); **Myriad Self** (Fang Yuan) resolveu a fusão strength+enslavement — "questão em aberto há eras" na teoria — gerando fantasmas com a aparência/inteligência do próprio usuário e comando de mente única (escala: 2 braços ≈ hundred beast king, 4 ≈ thousand, 6 ≈ myriad; 10.000+ simultâneos) (caps. 647-648); Thirty-Eight Sealing Arts sela qualquer Gu mortal ATIVADO rastreando a assinatura de qi (não sela Immortal Gu; duração inversa ao rank; inofensivo contra quem não ativa nada) (caps. 642-643).
+
+### Refino — técnicas e números novos
+
+- Taxa de sucesso por rank: refino de Gu rank 5 costuma ficar **abaixo de 1 em 1.000** tentativas (cap. 516) — por isso só quem tem blessed land/capital monta sets de rank 5.
+- **Gu existente pode ser evoluído de rank por refino adicional** (breath concealment r2 → r5), em vez de criar um novo do zero (caps. 477, 496).
+- **Refino reverso** é técnica deliberada e reconhecida, não acaso: obter um Gu raro decompondo outro (strength qi Gu a partir de atmosphere Gu, cap. 517); também "digere" Gu hostis implantados no corpo, liberando componentes e até segredos do criador (cap. 507).
+- Técnicas de grandmaster: **shower** (disparar centenas/milhares de Gu de uma vez — +30% velocidade, +20% qualidade; exige concentração total; abuso causa dano de alma/demência) e **sprinkler** (liberação temporizada individual de múltiplos Gu; "milhares de tentativas" para nível decente) (caps. 564, 579-580); **ink transformation** (chuva de Gu que vira tinta e explora falhas de estruturas — ~1,5 immortal essence stone e 800-1.000 Gu mortais por uso, caps. 569, 575); **Grey Meltdown** (formação de refinadores + owner token forçam a conclusão de lotes "meio-refinados" dentro de um Immortal Gu house; backlash escala com a dívida de refino e pode matar ~30% da formação; a variante aprimorada transfere o backlash à própria estrutura) (caps. 594-596).
+- **Reparo de Gu**: classe de Gu curativos para OUTROS Gu/bestas (wolf smoke para lobos; pig iron; bone bamboo Gu aceso com ghost fire Gu libera fumaça de osso que sela rachaduras — 30+ unidades para UMA rachadura profunda de um rank 5, cap. 445); reparo físico e capacidade de ativação são requisitos independentes (sem essência do rank certo, o Gu reparado segue inutilizável) (caps. 431, 445).
+- **Subjugação sem refino formal**: wild Gu de rank alto gravemente danificado pode ser subjugado por injeção contínua de vontade+essência pelas mãos — fundação de alma forte sustenta o processo mesmo acima do próprio rank (Battle Bone Wheel r5 subjugado por um rank 4 suprimido, 15 min, cap. 430).
+- **Amplificação com custo estrutural**: dried pond Gu (r4) empilhável amplifica outro Gu acima do rank efetivo, mas racha permanentemente o Gu amplificado ("esvaziar o lago para pegar o peixe", cap. 465). Amplify effect Gu (rule path) multiplica sem dano estrutural (ver paths.md, cap. 522).
+- Garantias/insumos: immediate success Gu (eleva taxa de sucesso; mais caro que um purple crystal relic Gu, cap. 469); usar slavery Gu num sujeito de teste distorce emoções e arruína dados experimentais (cap. 581).
+
+### Alimentação e ecologia de Gu (V3)
+
+- **Tabela de frequência por rank** (cap. 410): r1-2 comem a cada poucos dias; r4 a cada poucos meses; r5 a cada 1-2 anos (refeição caríssima) — quanto maior o rank, mais caro por refeição e maior o intervalo.
+- **Gu refinados não se reproduzem**; a criatura-base "crua" (pré-Gu) reproduz normalmente — criar a espécie-base é o caminho barato para produzir os próprios Gu (starlight fireflies, cap. 466). Ambientes naturais adequados geram Gu selvagens espontaneamente (campos de blowpipe grass → Gu de sound/wood path; air bubble fish como "incubador natural" de Gu) (caps. 476, 88 do bloco 447-487 → cap. 476).
+- **Wild Gu em combate**: absorvem essência ambiente (duração "ilimitada"), mas ficam passivos/fogem por instinto quando a luta azeda — bestas fortes batem com tudo no início e enfraquecem (caps. 571, 583). Bestas não têm abertura: seus wild Gu residem soltos no corpo, localizáveis por Gu investigativo e CAPTURÁVEIS (expostos, Gu são frágeis) (cap. 582). Contramedida geral a wild Gu ambientais: primeval break Gu (restriction path) corta a ligação com a essência ambiente (cap. 583).
+
+### Gu vital (regras fechadas no V3)
+
+- **Vantagem exclusiva**: o Gu vital sobrevive INTACTO a qualquer backlash de falha de refino (caps. 493-494 — generaliza a imunidade em fusão do V1). Trocar de vital Gu (destruir o antigo para consagrar outro) causa backlash enorme: ferimentos graves a morte (cap. 494). Gu expendable nunca deve ser vital (esgotar = backlash severo) (cap. 494).
+- Perder o vital à força (ex.: Formless Hand) causa backlash imediato (sangue pela boca) mesmo sem ferimento físico (cap. 630). A sobrevivência de qualquer Gu depende de um pensamento do dono (autodestruição instantânea) — reafirmado para Immortal Gu (cap. 544).
+- **Vital Gu maduro é requisito da ascensão a Gu Immortal e determina o path do imortal** (caps. 546, 627; ver cultivo-imortal.md). Segunda abertura permite segundo vital Gu (caps. 493-494).
+- **Gu ligado a objeto** (categoria nova, sem nome formal): o Sole Blade Gu reside na ARMA, não no corpo/abertura — sobrevive à morte do usuário (cap. 538; lacuna: é categoria formal ou exceção?).
+
+### Contratos e juramentos (refinamentos V3)
+
+- Poison vow cobre apenas **ativação de Gu worms**: briga física sem Gu não viola o voto (cap. 530); textos de aliança têm brechas deliberadas negociadas por gerações (cap. 518); a convocação por voto obriga participação, não sacrifício até a morte (caps. 525, 527).
+- **Evolução da regra (eating one's words Gu)**: o V2 o datava como invenção ~200 anos no futuro (cap. 278, memória de vida anterior); o V3 o trata como Gu raro JÁ existente, criado por um chefe do Western Desert, re-refinável via treasure yellow heaven (cap. 500). Prevalece o V3 (existe, raríssimo); registrado em LACUNAS.md.
+- Acordos verbais entre Gu Immortals não vinculam nada — traição oportunista é normalizada (cap. 638); juramentos formais imortais usam sea oath Gu e afins (cap. 468).
+
+### Ocultação de Gu e de aura
+
+- Combo histórico de contrabando inter-regional: **bright pearl Gu** (sela o Gu em sono, reduz vazamento de aura; quase toda a essência de um rank 4 por ativação) + **dusty Gu** (nuvem senciente que abafa mais) — reduz, nunca zera, a aura de um Immortal Gu (caps. 429-430). Alternativas superiores: iron cabinet Gu (selagem total, exclusivo do clã Tie, cap. 433); earth treasury flower king Gu (oculta tudo quando enterrado, cap. 433).
+- **Lurking soul coat Gu** (r1-5): encobre as flutuações de alma — comando remoto de exércitos de bestas sem revelar posição (contra rastreamento por soul fluctuations de wisdom path) (caps. 513-517).
+- Human skin Gu: troca de identidade física completa (pele, ossos, digitais, cicatrizes, cor de olhos) a partir da pele do cadáver-alvo; engana Gu Masters comuns, NÃO engana vontade de Immortal com Gu de registro (caps. 432, 613; detalhes em transformacoes-e-corpos-especiais.md).

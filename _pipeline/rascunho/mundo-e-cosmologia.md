@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Mundo e cosmologia
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: geografia (5 regiões), cosmologia (Rio do Tempo, nove céus, great dao), mitologia de Ren Zu, fauna/marés de bestas, locais notáveis. Heaven's Will, Fate Gu e Heavenly Court ainda não apareceram (uma "Immortal Court" é citada de passagem no cap. 383).
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: geografia (5 regiões), cosmologia (Rio do Tempo, nove céus, great dao, eras históricas), mitologia de Ren Zu, fauna/marés de bestas, locais notáveis. O V3 traz as primeiras menções concretas de **Heavenly Court** e **Fate Gu**, a linha do tempo formal das eras, a hierarquia completa de bestas e Northern Plains em detalhe.
 
 ## Resumo do domínio
 
@@ -108,10 +108,63 @@ Lendas contadas dentro da obra (por anciãos, mercadores) — funcionam como fon
 - Zumbis selvagens como ecologia: Mu Bei mountain — ptomaine infecta corpos criando zumbis infinitamente; campanhas anuais de extermínio têm retorno decrescente (cap. 253; mecânica das cores de cabelo em transformacoes-e-corpos-especiais.md).
 - Pedras de aposta são Gu hibernando fossilizados; seus dao marks alteram a rocha (base do rock gambling, cap. 276; economia em economia-e-vida.md).
 
+---
+
+> fontes desta seção: ["cap. 409-411", "cap. 425-435", "cap. 439-440", "cap. 466", "cap. 476", "cap. 489-497", "cap. 522", "cap. 545-548", "cap. 552-559", "cap. 587", "cap. 590-591", "cap. 597", "cap. 612-614", "cap. 621-629"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Eras históricas (linha do tempo formal do mundo)
+
+`[especializado]` **Immemorial Antiquity** (era de Ren Zu, primeiro a usar Gu) → **Remote Antiquity** → **Olden Antiquity** → **Medieval Antiquity** → **Late Antiquity** → presente (cap. 522). Âncoras: Star Constellation criou o wisdom path há ~3 milhões de anos (Remote Antiquity, caps. 490, 580); Reckless Savage e os "3 Demon Venerables da olden antiquity" (cap. 597); Giant Sun = Medieval Antiquity; Spectral Soul surgiu ~200.000 anos após a morte de Giant Sun (cap. 597).
+
+### As cinco regiões — poder e sistemas
+
+- `[especializado]` Comparação de poder: **Central Continent** é a região mais forte em poder total; **Northern Plains** é a 2ª — a única capaz de resistir e contra-invadir o Central Continent na (futura) "batalha caótica das cinco regiões" (cap. 522). Só o Central Continent é dominado por SEITAS; as outras quatro regiões são dominadas por sistemas de clã/família (cap. 621).
+- `[especializado]` Velocidade de propagação de informação por região (avaliação estratégica, cap. 425): Eastern Sea (redes de super clãs com organizações misteriosas), Western Desert (economia de caravanas entre oásis = informação viaja rápido), Northern Plains (tribos nômades, gestão caótica, fácil infiltração — MAS a maior densidade de Gu Masters de combate do mundo, forjados por guerra constante).
+- As regiões são mutuamente isoladas e imensas: nem uma potência regional mapeou a própria região inteira (cap. 421). Catálogo de espécies de lobo por região confirma as cinco (cap. 476).
+
+### Northern Plains (geografia e clima)
+
+- `[comum]` Estepe sem referências fixas (return heart Gu como bússola padrão, cap. 428); clima extremo força migrações constantes. **Great blizzard decenal**: nevasca catastrófica que varre a região inteira a cada 10 anos, dura meses, mata em massa e encolhe tribos um nível de porte (caps. 440, 489). `[segredo]` **Origem real do blizzard**: é a calamidade/tribulação periódica do Imperial Court blessed land, desviada para o mundo externo pelo Immortal Gu Divert Disaster (luck path, pilar da Eighty-Eight True Yang Building); o blizzard também FUNCIONA como mecanismo de saque — destrói spirit springs e captura Gu de toda a região, que reaparecem como recompensas dentro da True Yang Building (transferência de riqueza para a linhagem Huang Jin) (caps. 556, 558, 567, 612).
+- **Spirit springs por região** (cap. 545): as do norte jorram forte e secam rápido; leste numerosas; sul duráveis; oeste puras. Uma tribo média de Northern Plains precisa de 3-4 nascentes (no sul, 1 dura 10+ anos). A cada ciclo de blizzard as nascentes velhas secam e novas surgem em abundância no fim — "melhor época de crescimento".
+- Locais: **poison grassland** (névoa roxa perene "vazada" da Zi Du blessed land de Zi Yan Ran; anéis de perigo crescente: poison beard wolves → ghost face sunflowers → earth spike rats/shadow crows → área proibida, caps. 426-433); **Hong Yan valley** (fogo subterrâneo, refúgio anti-blizzard do Man tribe, cap. 440); crescent lake, onion valley (caps. 477, 496); **Imperial Court blessed land** (nasceu de um Gu Immortal de space path esquecido; herdada por Giant Sun antes do rank 9 e blindada por métodos de Venerável; "quasi grotto-heaven" com dia/noite; teleporte aleatório na entrada; torres de Gu selvagens a cada 8 li = partes distribuídas da True Yang Building; terreno se restaura a cada ciclo; capacidade ~5 milhões de pessoas; só rank 9 entre os imortais pode entrar) (caps. 528, 548-549, 552, 555-556, 612). **Snowy mountain blessed land**: ninho dos Gu Immortals demoníacos da região (dezenas, um pico cada; líder: Old Ancestor Xue Hu, rank 8) (caps. 537, 638).
+- Fenômenos do blizzard: snow monsters (força escala com altura: 30 pés ≈ r3, 40 ≈ r4, 50 ≈ r5), flying hand snow (mãos de neve com aura r5 que esmagam Gu ativados) (caps. 555, 597).
+
+### Cosmologia — novidades
+
+- `[segredo]` **Nove céus imemoriais, ordem completa confirmada**: white, red, orange, yellow, green, azure, blue, purple, black; após a destruição causada pelo filho de Ren Zu, sete caíram — restam **white heaven e black heaven**, que hoje se alternam como dia e noite (cap. 466, consistente com cap. 389). Materiais cosmológicos: rush thunder stone (colisão de raios entre os 2 céus remanescentes — produção quase cessada, cap. 559); fragmentos de céus extintos podem ser fundidos a blessed lands promovendo-as a grotto-heaven (treasure yellow heaven ← yellow heaven, cap. 466). O Stargate Gu bebe do poder das estrelas do black heaven (cap. 459).
+- `[segredo]` **Space cave** (caverna espacial): terreno proibido do nível do Rio do Tempo; incontáveis Gu de space path; conecta as cinco regiões por "space doors" que podem surgir onde houver espaço; só UMA pessoa na história registrada entrou e saiu (cap. 434). O canal dos moving perspective cup Gu passa por ela (cap. 434); o Space Escape Gu (fracasso único de Long Hair Ancestor) tentava entrar na "Space Door" (cap. 461).
+- `[especializado]` **Heavenly Court**: maior organização de Gu Immortals das 5 regiões desde a antiguidade; só rank 8-9 estabelecem presença; destruiu Lang Ya blessed land (7ª onda) e levou as receitas; produz as immortal essence stones (caps. 466, 468). "Immortal Court" com "Immortal Kings" numerados (Star Constellation 2ª; Giant Sun 4º) fica dentro do **Longevity Heaven** (Central Continent) (cap. 552) — a relação exata Immortal Court × Heavenly Court segue a confirmar.
+- `[segredo]` **Fate Gu — primeira menção concreta**: teria existido com a 2ª Immortal Venerable da Heavenly Court (Star Constellation, criadora do wisdom path), usado para tramar contra os 3 futuros Demon Venerables (cap. 546). Red Lotus Demon Venerable é lembrado como quem "quebrou a restrição do destino" (caps. 383, 546).
+- `[segredo]` **Otherworldly demon** (demônio de outro mundo): categoria formal de ameaça mundial — seres transmigrados capazes de rivalizar com um Venerável rank 9 se crescerem sem oposição; um já quase destruiu as cinco regiões no passado; a vontade de Giant Sun carrega ordem hardcoded de matá-los acima de qualquer prioridade (cap. 614).
+
+### Lendas de Ren Zu — capítulos novos (fonte de regras do mundo)
+
+`[comum]` que as lendas circulam ("The Legends of Ren Zu" é o primeiro clássico do mundo, relido até por Gu Immortals, cap. 546); `[segredo]` o quanto são literais:
+
+- **Door of Life and Death — estrutura completa** (caps. 410-411): dois caminhos formados quando o fate Gu visitou o fairness Gu — **road of death** (da luz à escuridão; coberto de suffering Gu, afastáveis com courage Gu; os suffering DIMINUEM conforme se avança) e **road of life** (saída; os suffering AUMENTAM a cada passo), juntos o "path of destiny". No fim do road of death: o domínio da obsessão/morte, onde reside o fairness Gu ("vida e morte são a maior justiça") e as almas dos mortos bebem soul calming wine; alma "pesada" por reputation Gu não pode ser resgatada. O road of life tem 3 obstáculos: **Dang Hun mountain** (treme almas; gutstones/guts Gu), **Luo Po valley** (nevoeiro de confusão + vento que corta almas; exige faith Gu) e o **reverse flow river** (avançar sem parar um segundo, ou a correnteza devolve — "a vida é um barco contra a corrente"). Ren Zu falhou no último passo. Os fragmentos atuais de Dang Hun mountain e Luo Po valley no mundo são ecos dessa geografia mítica (caps. 410-411, 422).
+- `[especializado]` **A porta enfraqueceu**: ao longo de eras e "vários donos", a Door of Life and Death perdeu o controle pleno sobre as almas dos mortos — essa é a explicação canônica da EXISTÊNCIA de zumbis (alma presa a corpo morto que a porta não reivindicou) (cap. 590).
+- **Cheng Bai mountain / success & failure Gu** (caps. 435, 546-547): montanha de incontáveis failure Gu empilhados (cada pedra um fracasso que inflige males aleatórios; o mantra "me, me, me" do cognition Gu protege parcialmente) com um único success Gu no topo; Desolate Ancient Moon terminou monstruosa e pegou o failure Gu por engano ("a maior tragédia é perder o senso de si"). Base mítica da família immediate success / first attempt Gu.
+- **Love Gu e a origem dos rockmen** (cap. 435): o Love Gu anima uma pedra em rockman completo, que "nasce apaixonado" pela primeira pessoa que vê — mito de criação da espécie; a parábola do rockman que dá ferro/cobre/prata/ouro/coração e morre rejeitado é referência cultural corrente.
+- **Qian Kun Crystal Wall / book mountain** (caps. 495-497): a 9ª filha de Ren Zu (Carefree Wisdom Heart) foi ao espelho gigante flutuante salvar o wisdom Gu; dentro, a book mountain com cachoeira de tinta sobre a literature spring — origem mítica da ESCRITA dos cem clãs; o Wall se partiu em "grey-white stone slabs" (hoje itens de colecionismo/falsificação); a tinta solidificada gerou os **inkmen**.
+- **Blue sea / life Gu** (cap. 591): mar azul no centro de um deserto dourado, "fonte de todos os seres vivos"; no fundo, life Gu em forma de gema com o formato do ser que virarão; gemas humanas são raríssimas (Ren Zu talvez a única); assimilar-se ao mar (>15 min) reverte a pessoa a um life Gu.
+- **Divine travel Gu** nas lendas: condensa-se em quem beber os 4 vinhos supremos do mundo (caps. 411, 469, 486); Verdant Great Sun morreu voando alto demais (cap. 410); o wisdom Gu indicou a Door of Life and Death para revivê-lo (cap. 410).
+
+### Hierarquia de bestas (tabela completa consolidada)
+
+`[comum]`/`[especializado]` (caps. 409, 453, 476, 479, 491, 597):
+
+- Por espécie/raridade: **beast comum → mutated beast → desolate beast → ancient desolate beast → immemorial desolate beast**. Mutated beast adulta ≈ myriad beast king (SÓ se cresceu naturalmente acumulando wild Gu; envelhecida artificialmente por time path fica com aparência adulta e poder de mero hundred king — caps. 453, 479, correção formal). Desolate beast ≈ Gu Immortal; **immemorial desolate beast ≈ rank 8** (ex.: Primordial Ash Owl; nine-tailed fox nas lendas) (caps. 409, 597).
+- Por liderança de grupo: **hundred beast king (Gu r2) → thousand (r3) → myriad (r4) → beast emperor (Gu r5, força de rank 5, comanda myriad kings)** (caps. 409, 491).
+- Regras: rei subjugado transfere ~1/3 do grupo (cap. 549); myriad king invasor suprime beast kings inferiores do grupo rival (cap. 495); grupos mistos não somam linearmente (cap. 540).
+
 ## Lacunas do domínio
 
-- Heaven's Will, Fate Gu, Heavenly Court: ainda nada direto; "Immortal Court" citada só de passagem (cap. 383) e um "Heaven's will Gu" como componente de killer move (cap. 389) — relação a esclarecer.
-- Critério da distância do salto temporal do Spring Autumn Cicada; duração do cooldown pós-regressão (cap. 400).
-- Confirmação de que a lista das dez physiques segue nominalmente os dez filhos de Ren Zu (Desolate Ancient Moon physique nomeada no cap. 303 aponta que sim).
-- Northern Plains e Western Desert seguem sem detalhe.
-- Localização da Shadow Sect blessed land / Door of Life and Death.
+- ~~Heaven's Will, Fate Gu, Heavenly Court: nada direto~~ PARCIAL no V3: Heavenly Court descrita (caps. 466-468), Fate Gu citado historicamente (cap. 546); Heaven's Will (conceito cosmológico) segue sem aparição direta. Relação Immortal Court × Heavenly Court a esclarecer.
+- ~~Northern Plains sem detalhe~~ ✅ RESPONDIDO no V3 (volume inteiro se passa lá). Western Desert segue sem detalhe.
+- Critério da distância do salto temporal do Spring Autumn Cicada; cooldown ligado ao fluxo de tempo PESSOAL do usuário (acelerável por third watch Gu ao custo proporcional de lifespan, caps. 449, 453) — multiplicador exato ainda desconhecido.
+- Confirmação de que a lista das dez physiques segue nominalmente os dez filhos de Ren Zu.
+- Localização da Shadow Sect blessed land / Door of Life and Death física.
+- Se "Space Door" (do Space Escape Gu) e "Door of Life and Death" são locais distintos (aparentam ser; cap. 461 × caps. 410-411).
+- As outras ~8 "Top Ten Catastrophes" (ver cultivo-imortal.md).

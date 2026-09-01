@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Sociedade e organizações
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: clãs (estrutura, política, justiça, academia, missões), seitas, facções correta/demoníaca, alianças, instituições supra-clã, heranças (estrutura social), valor da vida, cultura.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: clãs (estrutura, política, justiça, academia, missões), seitas, facções correta/demoníaca, alianças, instituições supra-clã, heranças (estrutura social), valor da vida, cultura. O V3 adiciona o terceiro grande modelo social do mundo: as **tribos nômades de Northern Plains** e sua instituição-mãe, o **Imperial Court**.
 
 ## Resumo do domínio
 
@@ -154,10 +154,50 @@ A sociedade dos Mestres Gu organiza-se em dois modelos: **clãs** (laços de san
 
 `[comum]` Título regional: Doctor Su Shou (rank 5; só trata "bonitos/ricos"), Travelling Doctor Jiu Zhi (disfarçado de mendigo), Divine Doctor Sheng Shou, Killer Ghost Doctor Chou Jiu (cura em troca de uma vida a ser tirada pelo paciente) (caps. 271, 375). `[segredo]` Su Shou (Chen Jiu) e Chou Jiu foram os dois únicos discípulos da Shadow Sect; o triângulo amoroso com Shang Yan Fei originou a rivalidade dos quatro (cap. 385).
 
+---
+
+> fontes desta seção: ["cap. 419", "cap. 425-427", "cap. 439-445", "cap. 448-459", "cap. 467-489", "cap. 495-530", "cap. 536-546", "cap. 552-565", "cap. 585-588", "cap. 605", "cap. 621", "cap. 638"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Northern Plains — sociedade tribal nômade (terceiro modelo social)
+
+`[comum]` (para quem vive na região):
+
+- **Hierarquia de porte**: small tribe < mid < large < **super tribe** — definição formal de super tribe: possui um Gu Immortal E uma blessed land própria, únicas capazes de "durar eras" (cap. 481 — responde dúvida de bloco anterior; não é só tamanho). Super tribes conhecidas: Hei, Liu, Ye Lui, Dong Fang, Chanyu (caps. 470, 638); a principal força demoníaca da região é a Snowy Mountain blessed land (rank 8 Old Ancestor Xue Hu, cap. 638).
+- **Huang Jin family**: descendência sanguínea de Giant Sun Immortal Venerable; autoridade suprema regional; a espessura do sangue dá acesso mecânico a heranças (True Yang Building) (caps. 488-489). Por decreto do Venerável, tribos Huang Jin derrotadas não podem ser exterminadas — só subjugadas (cap. 545); sobrenome pode ser concedido a estranhos para recompor população (e retirado depois) (cap. 545).
+- **Acampamento**: mortais em tendas no anel externo (primeiros a morrer), Gu houses dos Gu Masters no anel interno, líder no centro (cap. 439). Gu houses adaptadas ao clima (house lizard, mushroom forest; árvores altas atraem raios — three star cave não serve, cap. 439).
+- **Cultura**: status da mulher formalizado como inferior (herança cultural de Giant Sun: "mulheres são roupas, irmãos são mãos e pés"; casamento forçado; mulheres como presente político; sem precedente de líder mulher — a reforma igualitária de um unificador histórico terminou em assassinato e 5 anos de guerra civil, caps. 427, 529, 536); homens livres só se ajoelham perante céu/ancestrais/anciãos de família (vs. Southern Border, onde mortais se ajoelham a Gu Masters) (cap. 439); "roubo de noiva" é costume válido (cap. 427); tabu da covardia (acusação pública força até anciãos a ataques suicidas, caps. 456, 26 do bloco 447-487); hospitalidade medida em distância cavalgada ao encontro do hóspede (cap. 445); desafio público por dinheiro; poupar o inferior derrotado é etiqueta ("bullying the weak" é malvisto) (caps. 443-444).
+- **Escravidão como economia central**: tráfico é "o negócio mais próspero" da região; mortais < variant humans < Gu Masters cativos; escravos como bucha de canhão; vencedores adotam órfãos do lado derrotado como servos (caps. 439, 441, 489). **Death warriors**: corpo de guerreiros doutrinados desde jovens para lealdade absoluta e morte sob ordem (cap. 585).
+- **Regra do caminho reto regional**: tribos righteous não se atacam abertamente sem "motivo apropriado" — disputas correm por casamentos, "acidentes", presentes armadilhados; cartas públicas de justificativa preservam legitimidade (caps. 449-451, 480, 484). Comunicação política por transações: oferta de compra a 120% do preço = gesto de boa vontade; a resposta correta é doar de graça (cap. 450).
+- Guerra formal: **expert challenge** (duelos de especialistas antes do choque geral; ignorá-lo é quebra grave de etiqueta, cap. 509); linhas de defesa recuadas a cada 800-1.000 li (cap. 507); batalha em anéis concêntricos por rank (caps. 510, 532); prisioneiros viram "escravos Gu Masters" (limitados pelo estoque de slavery Gu, caps. 481, 484); espólio: metade pertence por direito ao especialista externo decisivo (cap. 477).
+
+### O Imperial Court (instituição-mãe de Northern Plains)
+
+`[comum]` a existência; `[segredo]` o design real:
+
+- **O que é**: fisicamente uma blessed land (Imperial Court blessed land, cap. 487); politicamente, o trono supremo da estepe, disputado a cada 10 anos na aproximação do great blizzard. Só quem entra na blessed land escapa da nevasca; a cota é limitada — eliminação competitiva entre tribos (caps. 478, 489).
+- **Ciclo**: heroes assembly simultâneas nas regiões famosas (pequenas tribos querem sobreviver, médias subir, grandes defender; righteous e demonic participam) → alianças formalizadas por blood oath/poison vow com hierarquia de assentos por contribuição → exércitos de aliança se eliminam até o confronto final entre dois → vencedor assume o trono ("lord"); perdedor paga **reparação de guerra** (recursos, receitas exclusivas) e enfrenta o blizzard de 10 anos fora (caps. 489, 497, 500, 519, 536). Recusar a reparação = extermínio por ostracização coletiva do caminho reto (regra herdada de Giant Sun, cap. 519). Quem vence a primeira grande batalha do ciclo raramente perde o resto (cap. 520). Absorver derrotados aumenta a força do vencedor (até +50%; casos históricos 5×) (caps. 519-520).
+- `[segredo]` **Design deliberado de Giant Sun** com dois objetivos: preservar/fortalecer a linhagem Huang Jin ao longo de eras E forçar transferência de conhecimento entre rivais (a reparação transfere receitas que ninguém venderia) — além de enfraquecer periodicamente as tribos entre si (caps. 519, 522, 515).
+- **Regras dos Gu Immortals na disputa** (de Giant Sun): patronos NÃO podem agir pessoalmente — só através de "peças": Immortal Gu emprestado ou "seeds" (protegidos humanos cultivados em segredo por décadas) (caps. 524-525); mecanicamente reforçado: só rank 9 entra na Imperial Court blessed land (caps. 528, 275 do bloco 488-528 → cap. 528). Se um Immortal Gu emprestado é capturado por mortais na disputa, os donos não podem retomá-lo à força (cap. 529). Contaminar as spirit springs de um território capturado é permitido (arma de coerção pós-vitória, cap. 545).
+- **Battle merits**: moeda de guerra interna dos exércitos (1 battle merit = 10 primeval stones); pontuação automática via Gu de gravação, recalculada antes de oficializar; ranking público em battle merit board; empréstimos (saldo negativo) para figuras de prestígio; também moeda de multa/reparação pessoal entre aliados (caps. 516-517, 522, 530). Supply camps enormes (1.000+ atendentes) trocam merits por bens (cap. 516).
+- **Sementes e ancestrais externos**: Gu Immortals patrocinam talentos (de qualquer facção) esperando que ascendam e virem "**external supreme elder**" da tribo — expansão de poder inter-geracional sem sangue (caps. 523-524, 543-544). Cada super tribe tem 1+ Gu Immortal supreme elder nos bastidores, que apostam recursos (compras no treasure yellow heaven) num candidato; perder pode falir o patrono (caps. 514, 536-537). Gu Immortals de tribos rivais mantêm canais de cortesia e assistem às batalhas por projeção em blessed lands neutras (Ni Yu) (caps. 514, 519).
+- **Eighty-Eight True Yang Building** (dimensão institucional; mecânica em cultivo-imortal.md): abre no blizzard; acesso por sangue Huang Jin (owner token automático) ou guest token (uso único, escasso — 7 conquistados em toda uma abertura pública, cap. 569); o lord pode vender acesso (cota diária, taxa crescente, poison vow de 50% dos ganhos) e fechá-lo unilateralmente (caps. 556-557, 562, 585); recompensas de rounds vão ao dono do token — subordinados não se sacrificam de graça (limite real do comando, cap. 562); domínio das heranças verdadeiras exige 10-edge token (cap. 597).
+
+### Seitas do Central Continent e organizações imortais (V3)
+
+- Hierarquia confirmada com números (Immortal Crane Sect, cap. 419): outer → inner → elite → legacy disciple → sect elder (r4) → sect leader (≥r5 médio) → supreme elders (Gu Immortals reclusos). Um mortal com um Immortal Gu força hierarquias inteiras a negociar (oferta de cargo de sect elder direto, cap. 419).
+- **Spirit Affinity House** (uma das dez grandes seitas): fundada por Shui Ni (r8, criadora do water path); "fadas" numeradas por geração (Mo Yao = 36ª); forneceu concubinas (até Gu Immortals) a Giant Sun em troca de segredos da True Yang Building (caps. 552, 566-567).
+- **Shadow Sect** (atualização): liderada por Old Man Yan Shi (r7, wisdom path, Sheng Si blessed land); opera em várias regiões; orquestrou as ondas 2-6 contra Lang Ya blessed land (drenando o land spirit por décadas via "presentes"); a 7ª onda, que a destruiu, foi da Heavenly Court (caps. 467-468). Há ainda uma **organização misteriosa de Gu Immortals** dispersa pelas 5 regiões (Old Man Yan Shi, Diao Sou, Great Immortal Ju Shi, Dian Huang Tianmu), calculada e discreta — chefia e objetivo desconhecidos (cap. 493).
+- **Lang Ya blessed land**: infraestrutura industrial de refino (salas por grade/letra, li de diâmetro cada); hairy men como mão de obra especializada; land spirit de Long Hair Ancestor colecionador de receitas (caps. 486-487, 460-465).
+- Sociologia de Gu Immortals: righteous prezam reputação (limita métodos), demonic só força (reputação irrelevante — mas cobram caro por ajuda mútua, ex.: um lifespan Gu, caps. 585, 588); sabotagem econômica coletiva contra um rival é praticada até entre "aliados" righteous (restringir a venda de lifespan Gu a um desafeto, cap. 519); guerra de preços/dumping como retaliação não violenta (venda de snowmen abaixo do custo para arruinar o negócio de um rival, cap. 587); alianças cross-alinhamento por interesse são normais ("o que é reto, o que é demoníaco? Interesse pessoal", cap. 446).
+
 ## Lacunas do domínio
 
 - Estrutura interna completa da Demon Suppression Tower; quem nomeia os Divine Investigators.
 - Regras formais completas do Three-Clan Tournament (Vol. 1) — arquivado, clãs extintos.
-- Hierarquia completa das dez grandes seitas do Central Continent (só a Immortal Crane Sect detalhada).
+- Hierarquia completa das dez grandes seitas do Central Continent (Immortal Crane Sect e Spirit Affinity House parcialmente detalhadas).
 - O 5º general de Shang Yan Fei (3 nomeados: Wei Yang, Shang Bu Li, Yi Huo).
 - Se a contagem de tokens roxo-espinho é 200 ou "algumas centenas" (caps. 271 × 277).
+- Corte numérico entre large tribe e super tribe além do critério qualitativo (Immortal + blessed land).
+- Relação exata Immortal Court × Heavenly Court (ver mundo-e-cosmologia.md).

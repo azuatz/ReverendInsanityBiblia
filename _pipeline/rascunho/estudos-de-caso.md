@@ -6,7 +6,7 @@ status: rascunho-interno
 
 # Estudos de caso mecânicos
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
 > Formato por caso: regra ilustrada → método → por que funcionou → exceção ou regra. Sem enredo além do mínimo mecânico.
 
 ## Resumo do domínio

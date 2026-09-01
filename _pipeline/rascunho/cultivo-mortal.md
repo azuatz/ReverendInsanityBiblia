@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Cultivo mortal (aperture, aptidão, essência, ranks 1–5)
 
-> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405).
-> Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção.
+> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção.
 
 ## Resumo do domínio
 
@@ -25,6 +25,8 @@ Todo cultivador deste mundo é um **Mestre Gu**: aos 15 anos forma, na Cerimôni
 8. Gu de rank mais alto não é automaticamente melhor: compatibilidade de rank/efeito/custo com o usuário decide o valor real (caps. 278, 345).
 9. Reforços corporais permanentes deixam "marcas do Dao" no corpo, que conflitam com leis de outros Gu (cura, luz, espaço) — builds físicas devem ser planejadas com antecedência e são majoritariamente irreversíveis (caps. 233, 292).
 10. Um Mestre Gu pode, com um pensamento, autodestruir os próprios Gu antes de morrer (mais rápido que um piscar); por isso saque de Gu de inimigos mortos é raro fora de ambientes que suprimam essa regra (caps. 210, 280, 345, 352).
+11. `[comum]` **Supressão regional**: cruzar para outra das cinco regiões suprime a força de combate em exatamente UM rank; a pessoa se readapta gradualmente com o tempo, mas os Gu worms trazidos de fora ficam suprimidos para sempre — um Gu só "pertence" à região onde foi REFINADO (caps. 426, 430, 477).
+12. `[especializado]` A alma tem fundação própria, medida em múltiplos da alma de uma pessoa comum ("X man soul") — eixo de progressão paralelo à essência; fortalecer (quantidade) e refinar (qualidade) são processos distintos (caps. 411, 422, 508).
 
 ---
 
@@ -420,4 +422,61 @@ Rank 3 é o momento de escolher especialização entre as seis direções funcio
 - Um Mestre Gu de rank N só ativa Gu de rank ≤ N (caps. 200-202, 326); a essência precisa atingir o patamar de QUALIDADE do Gu, não só a quantidade (Flesh-bone Gu rank 3 inativável por um rank 1 de abertura cheia, cap. 226).
 - Exceções parciais: Gu rank 4 de "baixa demanda" ativáveis por rank 3 (bitter strength Gu, frost arrow Gu — caps. 304, 306); e essência emprestada de rank superior estocada na abertura (caps. 250-251).
 - "Rank mais alto ≠ melhor": às vezes várias doses do Gu inferior rendem mais que a versão superior (big strength defecate Gu, cap. 278); Gu de rank baixo com efeito único seguem valiosos em qualquer nível (Bone Flesh Unity Gu rank 3, cap. 345). Upgrade de rank pode mudar a NATUREZA do efeito, não só a magnitude (bronze skin Gu: rank 2 temporário → rank 3 permanente, cap. 301).
+
+---
+
+> fontes desta seção: ["cap. 407-411", "cap. 422", "cap. 426-430", "cap. 442-443", "cap. 449-459", "cap. 468-469", "cap. 475-477", "cap. 490-508", "cap. 526-538", "cap. 571-572", "cap. 589"]
+
+## Atualizações do Volume 3 (caps. 406–649)
+
+### Supressão regional entre as cinco regiões (quantificada)
+
+`[comum]` (todo Gu Master viajado conhece):
+
+- Um Gu Master que cruza para outra região tem a força de combate suprimida em **exatamente 1 rank** (unidade discreta): um rank 4 pico de Southern Border opera como rank 3 pico em Northern Plains, e sua essência "true gold" se manifesta como o equivalente local inferior (cap. 426).
+- A supressão vale igualmente para os Gu worms trazidos (um golden dragon Gu rank 4 rende como rank 3 fora de casa, cap. 426). **Assimetria crucial**: a PESSOA se adapta ao ambiente com o tempo (anos) e recupera a força; os Gu worms NUNCA se adaptam — permanecem suprimidos (caps. 430, 477). Quem se readapta a uma região sofre a supressão de novo ao voltar à de origem (cap. 430).
+- **Origem regional de um Gu = onde ele foi REFINADO**, não a origem dos materiais nem do refinador: um Gu refinado localmente com materiais estrangeiros nasce "reconhecido" pela região, sem supressão (cap. 477). Consequência estratégica: infiltrados trocam seus Gu nativos por Gu locais (desempenho + disfarce) (cap. 430).
+- Mesmo suprimido, um cultivador ainda emite ao menos a aura do estágio inicial do rank verdadeiro (rank 5 pico suprimido ≥ aura de rank 5 inicial); disfarce completo exige Gu de ocultação (breath concealment) (cap. 495).
+- A adaptação também afeta a QUALIDADE da essência: recém-chegado, mesmo com o mar a 90%, a essência se manifesta no estágio de cor inferior até o corpo se adaptar — e sem a qualidade certa não há ruptura de rank (quantidade e qualidade são eixos independentes, ambos exigidos) (caps. 449, 454). Essência "emprestada" entre as duas aberturas do mesmo Mestre carrega a supressão da abertura de origem (dissipa em ~meia lua, vs. ~3 meses da supressão plena) (cap. 504).
+
+### Relic Gu — família completa e regras fechadas
+
+`[comum]` Série completa de 5 tiers com os nomes das essências: **green copper (r1) → red steel (r2) → white silver (r3) → yellow gold (r4) → purple crystal (r5)** (caps. 469, 475, 528, 589 — fecha a tabela do V2). Regras:
+
+- Relic Gu só avança **estágios dentro do rank correspondente** — nunca cruza a barreira de rank ("grande reino"), que segue exigindo acúmulo/aptidão próprios (cap. 475; 2 purple crystal levaram um rank 5 inicial a superior; mais 2, a pico).
+- **Sem aptidão suficiente, relic Gu não faz nada** — não importa a quantidade (cap. 475). Por que ninguém "spamma": dependência dificulta os grandes reinos futuros; realm sem experiência é perigoso ("bebê com espada"); r4-5 são caríssimos e politicamente controlados (cap. 475).
+- r1-3 vendem-se livremente; r4 (yellow gold) e r5 (purple crystal) são restritos por grandes organizações (afetam o equilíbrio entre rank 4-5); Gu Immortals não sobem de cultivo com eles, mas os usam como catalisadores de receitas imortais e os estocam para discípulos (caps. 469, 475).
+- Comprados à distância (sem inspeção), relic Gu podem vir adulterados — sinais: líquido turvo, pelos no Gu; de 6 comprados, 2 limpos / 2 degradados / 2 inúteis (cap. 475).
+- Uso típico: acelerar uma segunda abertura recém-nascida (white silver a levou de rank 1 a rank 3 pico, cap. 493).
+
+### Aptidão (novos pontos de dados)
+
+- **90% de aptidão = grau A** dito explicitamente (cap. 475) — primeiro mapeamento numérico direto grade↔%.
+- `[especializado]` **Aptidão altíssima é perigosa por si**: a pressão de 100% de essência pode destruir a própria abertura sem reforço externo (o Immortal Gu Everlasting reforça as paredes por 3 meses por aplicação) (cap. 468) — contexto novo para o risco das Ten Extreme Physiques.
+- Blood skull Gu segue como elevador de aptidão demoníaco (usado para levar um C-baixo a 96%, cap. 589).
+- Aptidão como critério político: grau C é considerado insuficiente para herdar liderança tribal em Northern Plains, mesmo para filho do líder (cap. 448).
+
+### Fundação da alma (novo eixo de progressão — "X man soul")
+
+`[especializado]` (praticantes de soul/enslavement path; a escala é comparável entre paths — caps. 511):
+
+- A alma tem força mensurável em múltiplos da alma de uma pessoa comum. **Fortalecer** (strengthen) = ganho quantitativo bruto — via guts Gu de Dang Hun mountain (ver paths.md/soul path); **refinar** (refine/temper) = ganho qualitativo — via sofrimento controlado (Luo Po valley), Gu de alma temática (wolf soul Gu etc.) ou métodos dolorosos (coptis rhizome + slow slicing) (caps. 411, 422, 477, 506, 508).
+- **Teto do fortalecimento bruto: "hundred man soul" (100×)** — ultrapassá-lo sem refino qualitativo explode a alma (morte definitiva); perto do limite (~93×+), cada guts Gu extra causa prazer viciante que induz à autodestruição (cap. 422). O refino qualitativo (alma temática: wolfman soul etc.) é o que DESTRAVA os patamares seguintes: hundred → thousand → ten thousand → … → hundred million man soul (teto desconhecido; Spectral Soul Demon Venerable ultrapassou hundred million) (caps. 422, 443).
+- Tempos de referência: ~20 anos para thousand man soul (10 com apoio de clã); guts Gu comprimem para meses (caps. 508, 64 do bloco 488-528 → cap. 508). Praticantes existentes com thousand man soul: os grandes enslavement masters de Northern Plains (cap. 438).
+- **Corpo como recipiente da alma**: alma forte demais para o corpo trava o crescimento; ossos/corpo reforçados (impermanence bone Gu) ampliam o "saco" (caps. 459, 493). Alma forte facilita refino de Gu, escravização e resistência a ataques de alma (cap. 411).
+- Almas compostas/temáticas: fusão com alma de besta (wolf soul Gu ×N) converte a fundação em "wolfman soul" — 3× a capacidade de subjugar reis-besta, reconhecimento de "mesma espécie", conversão medida em % (30% documentado); cada fusão fica mais difícil quanto maior o exército já comandado (caps. 443, 454, 535). Gu de alma temática dão bônus permanente a Gu do mesmo tema (dragon soul → dragon strength/scales/travel) (cap. 442).
+- Custos: escravização repetida desgasta a alma (irritação → dano/perda de memória; meditação estabiliza) (caps. 452-454); transplante de alma dá mestria instantânea mas deixa a alma "impura" (lapsos de memória; tratamento caro de soul path) (cap. 532); dor extrema racha a alma cumulativamente até estilhaçar (desmaios repetidos = alerta; morte real e irreversível) (cap. 590).
+
+### Densidade populacional de cultivadores (números raros)
+
+`[comum]` Em Northern Plains (bilhões de habitantes): apenas "várias centenas" de rank 4 e **menos de cinquenta rank 5** em toda a região (cap. 538). Rank 1 = estudantes; rank 2 = mão de obra base das tribos; rank 3 = anciãos/pilares; rank 4 = líderes de dez mil; rank 5 = pico mortal (cap. 571). Mesmo superpotências têm só 2-3 rank 5 (cap. 527). Em batalhas de centenas de milhares, rank 3 é "nível médio" e um gênio rank 3 isolado é insignificante (cap. 509).
+
+### Maestria: master e grandmaster
+
+`[especializado]` (cap. 572): **master** não se fabrica com recursos — exige talento inato + capacidade; **grandmaster** está uma categoria acima (grama vs. árvore): talento + aptidão + recursos + oportunidades + compreensão; aprende qualquer path usando o próprio como base. A lacuna entre "ter o Gu" e "dominá-lo com maestria" decide combates entre iguais (voo, cap. 534-535); a janela de comunhão com o Grande Dao na ascensão pode saltar um practitioner de quase-mestre a grandmaster (cap. 627-628).
+
+### Segunda abertura (mecânica mortal — cross-ref cultivo-imortal.md)
+
+- Nasce em rank 1 no centro do peito e progride de rank independentemente (caps. 490, 493); aceita segundo Gu vital (caps. 493-494); não guarda Immortal Gu enquanto for de rank mortal baixo (cap. 494).
+- **Essência primeva é única por pessoa** (como digital): transferência direta entre pessoas sem Gu conversor explode a abertura; entre duas aberturas do MESMO Mestre é segura (cap. 504) — base do atalho de breakthrough forçado (essência da abertura forte contra a parede da fraca, cap. 504).
 

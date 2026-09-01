@@ -45,3 +45,20 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
   `transformacoes-e-corpos-especiais.md` + `longevidade.md`, por correção do
   usuário: são domínios distintos; apenas a zumbificação cruza os dois (zumbis têm
   longevidade estendida), e ela vive em transformações com referência cruzada.
+- 2026-09-01 — Consolidação do Volume 2 (caps. 200-405): NENHUM domínio novo criado —
+  todo o material coube na taxonomia existente. Alocações decididas: **dao marks /
+  blessed lands / land spirits / Gu Imortais / Veneráveis / essência imortal** →
+  `cultivo-imortal.md` (deixou de ser semente); **killer moves, Gu de contrato,
+  expenditure Gu, garantias de refino** → `gu-sistema.md`; **paths nomeados
+  formalmente** (strength, qi, enslavement, refinement, fire, time, space, light,
+  enchantment, bloodline) → `paths.md`; **cinco regiões, nove céus, rio do tempo,
+  Door of Life and Death, hairy men (mito)** → `mundo-e-cosmologia.md`; **arena do
+  clã Shang, seitas do Central Continent, estrutura de heranças, espionagem** →
+  `sociedade-e-organizacoes.md`; **leilões, graus de rock gambling, tabela de preços
+  por rank** → `economia-e-vida.md`; **escada de cores de zumbi, hairy men (espécie),
+  modificações corporais** → `transformacoes-e-corpos-especiais.md`; **lifespan como
+  moeda (Third Watch/instant success)** → `longevidade.md`. Adições do V2 no catálogo
+  ficam em bloco próprio ao final de `catalogo-gu.md` (tabelas do V1 intactas).
+- 2026-09-01 — Nova convenção do usuário adotada em toda a consolidação do V2 em
+  diante: marcar fatos com `[comum]` / `[especializado]` / `[segredo]` conforme quem
+  os conhece no mundo (na dúvida, não marcar). Vol. 1 não foi retro-marcado.

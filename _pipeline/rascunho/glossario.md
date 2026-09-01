@@ -6,7 +6,17 @@ status: rascunho-interno
 
 # Glossário EN → PT
 
-> **Rascunho interno** — cobre até: Volume 1 (caps. 0–199). Fusão dos glossários das 5 notas brutas; termos com arquivo de domínio próprio levam apontador.
+> **Rascunho interno** — cobre até: Volume 2 (caps. 0–405). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+
+## Resumo do domínio
+
+Dicionário EN→PT de todos os termos técnicos do mundo, com definição curta e apontador para o rascunho de domínio que os detalha. Serve de índice transversal e de base para a futura política de tradução (conferir centralnovel na fase final).
+
+## Regras do mundo (do glossário)
+
+1. Termo consagrado fica em inglês até a checagem da tradução brasileira (centralnovel); nunca inventar tradução própria.
+2. Variações de tradução do mesmo termo são registradas juntas (ex.: Middle Continent = Central Continent).
+3. Definição aqui é curta; a mecânica completa vive no arquivo de domínio apontado.
 
 ## Sistema de cultivo
 
@@ -88,3 +98,75 @@ status: rascunho-interno
 - **Attitude is everything** — máxima da fábula de Ren Zu usada como lição política.
 - **Power play** — tática de manipulação/sedução com fins de controle (nota do tradutor).
 - **Benchland** — terraço rochoso à beira d'água (termo geológico usado no texto).
+
+## Volume 2 (caps. 200–405) — termos novos
+
+### Cultivo e metafísica
+
+- **Dao mark / law fragment** — marca do Dao / fragmento de lei da Grande Dao contido em todo Gu; base metafísica das habilidades. → cultivo-imortal.md
+- **Gu Immortal / Immortal Gu** — Mestre Gu rank 6+ / Gu de rank 6+ (único no mundo). → cultivo-imortal.md
+- **Immortal essence** — essência imortal; recurso líquido esverdeado das blessed lands, combustível dos Gu rank 6.
+- **Blessed land** — terra abençoada; "mundo pequeno" (small world) com leis próprias, residência de Gu Immortal. → cultivo-imortal.md
+- **Land spirit** — espírito da terra; vontade residual do Gu Immortal morto fundida ao local.
+- **Wind of assimilation** — vento de assimilação; dissolução final de uma blessed land destruída.
+- **Heavenly power** — poder celestial; força autônoma que impõe as regras de uma herança/blessed land.
+- **Expenditure Gu** — Gu de gasto (usos finitos); categoria formal, existe até no rank 6.
+- **Killer move** — golpe mortal/trunfo; combinação meticulosa de vários Gu. → gu-sistema.md
+- **Beast phantom** — fantasma de fera; dao mark de força latente manifestável. → paths.md
+- **Qi path / strength path / enslavement path / refinement path / fire path / time path / space path / enchantment path / light path** — caminhos de cultivo nomeados. → paths.md
+- **Space path / time path (primordiais)** — os dois caminhos-base do universo (espaço e tempo).
+- **Light silver / blossom silver / bright silver / snow silver** — essência rank 3 por estágio; **light gold / bright golden** (r4); **light purple / violet purple / deep purple / crystal purple** (r5).
+- **Second aperture Gu** — Gu de segunda abertura (rank 6). → cultivo-imortal.md
+- **Multitask Gu (two tasks at once…)** — série que amplia a multitarefa mental.
+- **Reform Gu** — eleva o grau de aptidão (raríssimo, caro).
+- **History inertia** — inércia histórica; tendência de grandes eventos se repetirem por gatilhos alternativos após uma regressão temporal.
+- **Seven mysterious Gu** — "sete Gu misteriosos do mundo" (o Spring Autumn Cicada é um).
+- **Nine heavens** — os nove céus da era imemorial (restam branco e preto).
+- **Door of Life and Death / ordinary abyss** — terrenos proibidos lendários.
+
+### Sociedade, economia e instituições
+
+- **Young master / young clan leader** — jovem mestre (filho do líder com setor próprio) / herdeiro designado.
+- **External (clan) elder** — ancião externo; ex-demoníaco integrado por mérito de arena.
+- **Battle stage / net wins / forceful challenge** — arena do clã Shang / vitórias líquidas / desafio forçado.
+- **Purple thorn token / yellow pear token** — tokens de autoridade do clã Shang (9 cores).
+- **Treasure realm / Living Treasure Door** — cofre ancestral do Shang e seu guardião (troca Gu por Gu).
+- **Recipe master / rock dissecting master** — mestre de receitas / dissecador de pedras de aposta.
+- **Gambling rocks (graus: scrap/low/medium/high/super)** — pedras de aposta por grau de preço.
+- **Arrest warrant** — mandado de captura (preço de informação × preço de morte).
+- **Spirit spring (seca)** — a seca de uma nascente é crise existencial de clã (segredo de Estado).
+- **Sect (outer/inner/elite/legacy disciple; sect elder/leader; supreme elder)** — hierarquia de seitas do Central Continent.
+- **Three year small / eight year middle / fifteen year large examination** — exames periódicos de seita.
+- **Inheritance (righteous × demonic)** — heranças e seus códigos. → sociedade-e-organizacoes.md
+- **Three Kings Inheritance (King Quan/Xin/Bao)** — herança tripla de San Cha mountain (enslavement/refinement/fire).
+- **Hu Immortal blessed land / Dang Hun mountain** — herança de Fairy Bai Hu (Tian Ti mountain) / montanha de choque de alma.
+- **Shadow Sect** — Seita da Sombra (guardiã da Door of Life and Death).
+- **Four great doctors** — quatro grandes médicos da Southern Border.
+- **Feng Yu Manor** — agência de inteligência do clã Shang.
+- **Demon Suppression Tower (Tie)** — prisão-símbolo do clã Tie.
+- **Godfather (demonic)** — padrinho; rede informal de lealdade demoníaca.
+- **Slave capturing group** — grupo de captura de escravos (destino punitivo).
+- **Auspicious Festival** — festival anual do clã Shang.
+- **Biography of [X]** — biografias formais registram as "grandes oportunidades" (great opportunities) de figuras históricas.
+
+### Fauna e variantes
+
+- **Hairy man** — homem peludo; variante humana refinadora de Gu. → transformacoes-e-corpos-especiais.md
+- **Biao / dragon-elephant / lion mastiff / dog emperor / thunder boar / rock crocodile / kunlun bull** — bestas mutantes de prestígio.
+- **Yin dog / steel armor dog / lightning symbol dog / chrysanthemum akita dog / hedgedog / heavy tai dog** — espécies de cães da King Quan Inheritance.
+- **Five great mountain dogs** — cinco cães-montanha de elite (4 nomeados).
+- **Beast-trap tree** — árvore carnívora que não reengaja presas fugidas.
+- **Ptomaine** — toxina de decomposição que propaga zumbificação selvagem.
+- **Zombie King / Second Zombie King** — linhagem demoníaca de exércitos de zumbis.
+- **Milk spring** — nascente de leite (recurso econômico; alimento da linhagem bone spear).
+- **Star stone / charcoal stone** — materiais de construção/iluminação.
+
+### Termos de combate e prática
+
+- **Gu set (core + support)** — conjunto de Gu com núcleo e suportes.
+- **Counter-shock** — devolução de impacto absorvido (defesa de multitarefa).
+- **Probing (battle)** — combate de sondagem entre experts que reservam trunfos.
+- **Essence blood** — sangue essencial; "assina" a posse de um Gu recém-refinado.
+- **False Gu** — estágio intermediário de um Gu de alto rank antes de "tornar-se real".
+- **Life-saving token** — item de retirada segura de uma herança.
+- **"To live, one must die"** — método médico de quebrar um poison vow (morrer e reviver).

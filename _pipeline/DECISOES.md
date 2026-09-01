@@ -38,4 +38,10 @@ decisão, motivo, e se vale a pena o usuário reconsiderar.
    verificação confirmar no texto.
    *Reconsiderar?* Revisar a lista de manhã se quiser; nada foi apagado.
 
+9. **Marcação [comum]/[especializado]/[segredo] aplicada do Volume 2 em diante** —
+   o material do Volume 1 não foi retro-marcado nesta passada (para não atrasar a
+   fila); a retro-marcação pode ser feita na fase de verificação.
+   *Reconsiderar?* Se quiser, posso agendar a retro-marcação do V1 antes da fase
+   final — recomendado fazê-la junto do passe de verificação.
+
 (novas decisões são acrescentadas abaixo conforme a noite avança)

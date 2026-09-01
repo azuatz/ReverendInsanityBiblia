@@ -4,15 +4,16 @@
 
 ## Estado atual
 
-- Fase: Volume 1 lido E consolidado (blocos 1.1–1.5 ✅✅); leitura do Volume 2 em
-  preparação (blocos 2.1–2.5 definidos).
-- Consolidação do Volume 1 feita em `_pipeline/rascunho/` (rascunhos internos por
-  domínio, conforme `rascunho/TAXONOMIA.md`), seguindo a decisão de só escrever as
-  notas finais da designer após a leitura integral. Cada rascunho marca
-  "cobre até: Volume 1".
-- Próxima ação: commitar esta consolidação; lançar a leva 2 com o `leitor-ri`. Nas
-  próximas consolidações, FUNDIR nos rascunhos existentes (nunca criar arquivo fora
-  da TAXONOMIA) e atualizar a marca "cobre até".
+- Fase: Volumes 1 e 2 lidos E consolidados (blocos 1.1–1.5 e 2.1–2.5 ✅✅); leitura
+  do Volume 3 em andamento (3.1–3.3 lidos, aguardando consolidação após 3.6).
+- Consolidação do Volume 2 fundida nos rascunhos existentes de `_pipeline/rascunho/`
+  (nenhum arquivo novo — tudo coube na TAXONOMIA; ver histórico dela). Todos os 13
+  rascunhos agora marcam "cobre até: Volume 2" e ganharam as seções obrigatórias
+  "Resumo do domínio" e "Regras do mundo" (criadas retroativamente onde faltavam).
+  Convenção nova aplicada desta leva em diante: marcação de conhecimento
+  `[comum]`/`[especializado]`/`[segredo]`.
+- Próxima ação: commitar esta consolidação; concluir a leitura dos blocos 3.4–3.6 e
+  consolidar a leva do Volume 3 fundindo nos mesmos rascunhos.
 
 ## Blocos de leitura
 
@@ -23,11 +24,11 @@
 | 1.3 | 80–119 | ✅ | ✅ |
 | 1.4 | 120–159 | ✅ | ✅ |
 | 1.5 | 160–199 | ✅ | ✅ |
-| 2.1 | 200–241 | ✅ | — |
-| 2.2 | 242–283 | ✅ | — |
-| 2.3 | 284–325 | ✅ | — |
-| 2.4 | 326–365 | ✅ | — |
-| 2.5 | 366–405 | ✅ | — |
+| 2.1 | 200–241 | ✅ | ✅ |
+| 2.2 | 242–283 | ✅ | ✅ |
+| 2.3 | 284–325 | ✅ | ✅ |
+| 2.4 | 326–365 | ✅ | ✅ |
+| 2.5 | 366–405 | ✅ | ✅ |
 | 3.1 | 406–446 | ✅ | — |
 | 3.2 | 447–487 | ✅ | — |
 | 3.3 | 488–528 | ✅ | — |
@@ -35,20 +36,28 @@
 | 3.5 | 570–609 | ⏳ | — |
 | 3.6 | 610–649 | ⏳ | — |
 
-## Rascunhos consolidados (leva Volume 1)
+## Rascunhos consolidados
 
-Criados em `_pipeline/rascunho/`: `cultivo-mortal.md`, `cultivo-imortal.md` (semente),
-`transformacoes-e-corpos-especiais.md`, `longevidade.md`, `gu-sistema.md`,
-`catalogo-gu.md` (~160 Gu, duplicatas fundidas), `paths.md` (nota-mãe + proto-paths),
-`mundo-e-cosmologia.md`, `sociedade-e-organizacoes.md`, `economia-e-vida.md`,
-`estudos-de-caso.md` (~25 casos), `glossario.md`. Contradições e pendências
-transversais em `_pipeline/LACUNAS.md`; reorganizações no histórico de
-`rascunho/TAXONOMIA.md`.
+- **Leva Volume 1**: criados em `_pipeline/rascunho/`: `cultivo-mortal.md`,
+  `cultivo-imortal.md` (semente), `transformacoes-e-corpos-especiais.md`,
+  `longevidade.md`, `gu-sistema.md`, `catalogo-gu.md` (~160 Gu), `paths.md`,
+  `mundo-e-cosmologia.md`, `sociedade-e-organizacoes.md`, `economia-e-vida.md`,
+  `estudos-de-caso.md` (~25 casos), `glossario.md`.
+- **Leva Volume 2** (2026-09-01): TODOS os 12 rascunhos de domínio atualizados (fusão,
+  sem arquivos novos) + `TAXONOMIA.md` (histórico) — agora com "cobre até: Volume 2",
+  seções "Resumo do domínio"/"Regras do mundo" e marcação [comum]/[especializado]/[segredo]
+  no material novo. Destaques: `cultivo-imortal.md` deixou de ser semente (dao marks,
+  blessed lands/land spirits, ranks 6-9/Venerável, primeiros Gu Imortais, receita do
+  second aperture Gu); `catalogo-gu.md` +~150 Gu do V2 em bloco próprio;
+  `paths.md` com vocabulário formal de paths; `estudos-de-caso.md` +~25 casos;
+  cores/preços de essência até rank 5 em `cultivo-mortal.md`. Contradições novas
+  (itens 10-14) e itens respondidos (1, 6, parede do pico, paths/killer moves)
+  registrados em `LACUNAS.md`.
 
 ## Pendências gerais
 
-- Volumes 2–6: blocos do Volume 2 definidos; ler.
+- Volume 3: blocos 3.1–3.3 lidos; ler 3.4–3.6 e consolidar a leva inteira em seguida.
 - Pesquisa externa (wiki/Reddit): não iniciada — lista de alvos em `LACUNAS.md`.
-- Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-9).
+- Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-14).
 - Notas finais da designer (pastas `01`–`09` + LEIA-ME): deliberadamente adiadas até a
   leitura integral; as pastas finais estão vazias por decisão de fluxo.

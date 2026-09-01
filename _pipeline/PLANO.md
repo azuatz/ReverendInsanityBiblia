@@ -18,9 +18,19 @@ volume (conferir numeração e tamanho com `ls` + `stat`).
 | 1.4 | 120–159 | `notas/notas-caps-0120-0159.md` |
 | 1.5 | 160–199 | `notas/notas-caps-0160-0199.md` |
 
-## Volumes 2–6
+## Volumes 2–6 (numeração contínua, sem buracos)
 
-A definir ao chegar em cada um (mesmo esquema). Tamanho total da obra: ~28 MB.
+| Volume | Capítulos | Blocos (~41 caps) |
+|---|---|---|
+| 2 — The Demon Leaves the Mountain | 200–405 (206) | 5 |
+| 3 — The Demon Wreaks Chaos in the World | 406–649 (244) | 6 |
+| 4 — The Demon Lord Rampages Unhindered | 650–1021 (372) | 9 |
+| 5 — Demon King's Domination | 1022–1966 (945) | 23 |
+| 6 — Demon Venerable's Eternal Life | 1967–2334 (368) | 9 |
+
+Execução: levas de até 6 leitores paralelos; commit a cada bloco; sintetizador por
+volume, sempre em série (editam os mesmos rascunhos); leitura do volume seguinte
+pode começar enquanto a consolidação do anterior roda.
 
 ## Fases do projeto
 

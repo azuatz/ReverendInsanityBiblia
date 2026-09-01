@@ -4,14 +4,14 @@
 
 ## Estado atual
 
-- Fase: Volumes 1, 2 e 3 lidos E consolidados (blocos 1.1–1.5, 2.1–2.5 e 3.1–3.6
-  ✅✅); leitura do Volume 4 em andamento (4.1–4.5 lidos, aguardando 4.6–4.9 para a
-  próxima consolidação).
-- Consolidação do Volume 3 fundida nos rascunhos existentes (nenhum arquivo novo —
+- Fase: Volumes 1–4 lidos E consolidados (blocos 1.1–1.5, 2.1–2.5, 3.1–3.6 e
+  4.1–4.9 ✅✅); leitura do Volume 5 em andamento (5.1–5.11 lidos; 5.12–5.15
+  pendentes).
+- Consolidação do Volume 4 fundida nos rascunhos existentes (nenhum arquivo novo —
   ver histórico da TAXONOMIA). Todos os 12 rascunhos de domínio marcam
-  "cobre até: Volume 3".
-- Próxima ação: commitar esta consolidação; concluir a leitura dos blocos 4.6–4.9 e
-  consolidar a leva do Volume 4 em seguida.
+  "cobre até: Volume 4".
+- Próxima ação: commitar esta consolidação; concluir a leitura dos blocos 5.12–5.15
+  e consolidar a leva do Volume 5 em seguida.
 
 ## Blocos de leitura
 
@@ -33,15 +33,15 @@
 | 3.4 | 529–569 | ✅ | ✅ |
 | 3.5 | 570–609 | ✅ | ✅ |
 | 3.6 | 610–649 | ✅ | ✅ |
-| 4.1 | 650–691 | ✅ | — |
-| 4.2 | 692–733 | ✅ | — |
-| 4.3 | 734–775 | ✅ | — |
-| 4.4 | 776–817 | ✅ | — |
-| 4.5 | 818–859 | ✅ | — |
-| 4.6 | 860–901 | ✅ | — |
-| 4.7 | 902–941 | ✅ | — |
-| 4.8 | 942–981 | ✅ | — |
-| 4.9 | 982–1021 | ✅ | — |
+| 4.1 | 650–691 | ✅ | ✅ |
+| 4.2 | 692–733 | ✅ | ✅ |
+| 4.3 | 734–775 | ✅ | ✅ |
+| 4.4 | 776–817 | ✅ | ✅ |
+| 4.5 | 818–859 | ✅ | ✅ |
+| 4.6 | 860–901 | ✅ | ✅ |
+| 4.7 | 902–941 | ✅ | ✅ |
+| 4.8 | 942–981 | ✅ | ✅ |
+| 4.9 | 982–1021 | ✅ | ✅ |
 | 5.1 | 1022–1062 | ✅ | — |
 | 5.2 | 1063–1103 | ✅ | — |
 | 5.3 | 1104–1144 | ✅ | — |
@@ -56,6 +56,7 @@
 | 5.12 | 1473–1513 | ⏳ | — |
 | 5.13 | 1514–1554 | ⏳ | — |
 | 5.14 | 1555–1595 | ⏳ | — |
+| 5.15 | 1596–1636 | ⏳ | — |
 
 ## Rascunhos consolidados
 
@@ -96,10 +97,39 @@
   wisdom path, soul path, Blood Sea Ancestor/Immortal Court parciais) e itens novos
   15-33 abertos.
 
+- **Leva Volume 4** (2026-09-01, blocos 4.1–4.9, caps. 650-1021): TODOS os 12
+  rascunhos de domínio atualizados (fusão, sem arquivos novos) + `TAXONOMIA.md`
+  (histórico) — agora com "cobre até: Volume 4". Destaques: `cultivo-imortal.md`
+  ganhou a teoria unificada dos dao marks (100 ≈ +10%, ressonância 130%/60-70%,
+  dano imune a regeneração), o calendário completo de tribulações por rank (6→7→8→9;
+  Venerável = 3 myriad tribulations), o framework de gaps entre ranks, a tabela
+  completa de grades de blessed land, a life-and-death aperture (-50%), a hierarquia
+  das 4 essências e as regras maduras de Immortal Gu/Houses; `paths.md` ganhou os
+  **attainment levels/realms** (5 graus + "só dream realm transfere attainment" +
+  true meaning), o dream path completo, theft path, luck quantitativo e os 3 ramos
+  do strength; `gu-sistema.md` ganhou os success dao marks/Infallible inheritance,
+  as taxas de refino por rank (<1%/0,1%/0,01%) e a anatomia de battlefield/combo
+  killer moves; `mundo-e-cosmologia.md` ganhou o dossiê Fate Gu/heaven's
+  will/fate escapees, otherworldly demons, regional walls nomeadas e a anomalia do
+  rio do tempo (regressão ~1 ano, tratada como mecânica); `sociedade-e-organizacoes.md`
+  ganhou Heavenly Court como suserana, a Zombie Alliance ([segredo]: fachada da
+  Shadow Sect) e as sea areas; `transformacoes-e-corpos-especiais.md` ganhou o
+  immortal zombie completo + tabela de métodos de revival + o corpo soberano
+  (Sovereign Immortal Fetus); `economia-e-vida.md` ganhou riqueza por rank, leilões
+  de Immortal Gu (mercado de vendedor) e o Refinement Path Convention;
+  `longevidade.md` ganhou a definição de lifespan como tempo subjetivo;
+  `catalogo-gu.md` +~110 entradas (incl. os primeiros rank 9 em ação);
+  `estudos-de-caso.md` +15 casos; `glossario.md` +~60 termos. LACUNAS.md: 13+ itens
+  marcados respondidos (fate escapees, attitude Gu, ghostly concealment, tabela de
+  tribulações, attainment levels, revival de zumbi, grades de blessed land, dao
+  marks quantificados, taxas de refino...) e itens novos 34-50 abertos — prioridades
+  MANTIDAS: limiares % de aptidão, 10º Venerável, rule path formal, critério exato
+  de fate escapee.
+
 ## Pendências gerais
 
-- Volume 4: blocos 4.1–4.5 lidos; ler 4.6–4.9 e consolidar a leva inteira em seguida.
+- Volume 5: blocos 5.1–5.11 lidos; ler 5.12–5.15 e consolidar a leva inteira em seguida.
 - Pesquisa externa (wiki/Reddit): não iniciada — lista de alvos em `LACUNAS.md`.
-- Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-33).
+- Passe de verificação: não iniciado (contradições numeradas em `LACUNAS.md`, itens 1-50).
 - Notas finais da designer (pastas `01`–`09` + LEIA-ME): deliberadamente adiadas até a
   leitura integral; as pastas finais estão vazias por decisão de fluxo.

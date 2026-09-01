@@ -6,7 +6,7 @@ status: rascunho-interno
 
 # Estudos de caso mecânicos
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
 > Formato por caso: regra ilustrada → método → por que funcionou → exceção ou regra. Sem enredo além do mínimo mecânico.
 
 ## Resumo do domínio
@@ -315,3 +315,67 @@ Repositório de casos concretos que ILUSTRAM as regras dos demais domínios em a
 ### Pagar com o próprio futuro: zumbificação deliberada pelo insight do Wisdom Gu (caps. 646-648)
 
 - Regras combinadas: a luz do rank 9 Wisdom Gu dá insight ao custo de lifespan; zumbis não têm lifespan a consumir; zumbificação total encerra o cultivo para sempre. Método: aceitar conscientemente a zumbificação permanente (ativar o Six Arm Heavenly Zombie King além dos 30 min) para permanecer sob a luz da sabedoria por tempo ilimitado e resolver um problema teórico aberto há eras (fusão strength+enslavement → killer move Myriad Self), capturando de quebra um Immortal Gu de strength path por "falsa autoridade" da aura do rank 9 vizinho (vontades selvagens jovens não distinguem a origem de uma aura esmagadora, cap. 647). Regra: os maiores saltos do mundo se compram com moedas que não voltam.
+
+---
+
+## Volume 4 (caps. 650–1021)
+
+### Escolher o LOCAL da tribulação pela ressonância de um Venerável morto (caps. 683-687)
+
+- Regra: true meaning impressa num local faz a earthly calamity de uma ascensão ali se manifestar como encarnações da compreensão do Venerável — destruí-las dá attainment direto. Método: ascender deliberadamente no Absolute Ice Battlefield (baixa densidade de qi = tribulação mais branda, MAIS a ressonância de Reckless Savage); o preço é enfrentar uma das Ten Catastrophes. Resultado colateral para um aliado: quase-grão-mestre → grão-mestre de strength + saltos em transformation e voo numa única sessão. Regra formal: local de tribulação é decisão estratégica com trade-off mensurável.
+
+### Vasos comunicantes de sorte contra a maldição do próprio Gu (caps. 673-681, 823)
+
+- Regra: Connect Luck iguala a sorte de todos os vinculados; um mortal não aguenta o backlash. Método: usar memória de vida passada para escolher alvos com potencial futuro alto E trajetória de sorte consistente, vinculá-los ANTES de ficarem famosos e mantê-los vivos (até deixando um vilão local protegê-los de graça por interesse próprio, cap. 676); medir a própria sorte (ininspecionável) observando os vinculados. Regra: sorte é infraestrutura gerenciável, não acaso.
+
+### Selagem do Spring Autumn Cicada por ecossistema de Gu (caps. 658, 671)
+
+- Regra: um Immortal Gu que sobrecarrega a aperture pode ser contido por um ecossistema de Gu plantados que se reforçam mutuamente (aliviar pressão + expelir aura + manter o Gu ativável). Custo real: >6.000 Gu mortais (~2.000 raros, ~800 antigos), 20 essence stones, 7 dias de trabalho, alma "desbotada" — selo de 4 anos. Regra: contenção é engenharia de ambiente, não um único selo.
+
+### Linha de produção "stone nest" (caps. 707, 815, 862)
+
+- Regra ilustrada: dividir uma receita em >12 etapas, um escravo especializado por etapa, impede o vazamento da receita E eleva a taxa de sucesso por repetição; um Immortal Gu ativado no centro satura o ambiente com o insumo-base. Lucros documentados: 43→48 stones/lote (guts Gu). Exceção-ou-regra: replicável por qualquer um com capital, escravos e uma receita exclusiva — a vantagem competitiva é o SEGREDO da receita.
+
+### Comprar caro a fraqueza do vendedor: leilão de Immortal Gu (caps. 747-763)
+
+- Regras: Immortal Gu só por troca; o vendedor escolhe a oferta. Métodos demonstrados: "âncora de preço" exagerada para medir o desespero dos compradores; financiador-fantasma pagando um terceiro para dar lances; lance-isca de um aliado para mascarar identidade; resolver um impasse de três ofertas iguais trocando ativos TEMATICAMENTE relevantes ao vendedor (3 cativos de wood path venceram lances nominalmente maiores). Regra: em mercado de vendedor, informação sobre a NECESSIDADE do vendedor vale mais que poder de compra.
+
+### Quebra "limpa" de juramento ancorado (cap. 814)
+
+- Regra: pacto de mountain pledge ancorado a objeto físico morre com o objeto. Método: killer move "Delay" atrasa o backlash → destruir a âncora (Miniscule Mountain) → Landscape as Before a restaura depois — pacto quebrado, penalidade evitada, aparência intacta. Regra: todo sistema de garantia tem letra explorável (aqui, a dependência material da âncora).
+
+### Escravizar um Gu Immortal pela letra do contrato (caps. 866-868)
+
+- Regra: killer moves de contrato punem pela LETRA. Método: cláusula "escravos dentre os feathermen NO CHÃO" contra oponentes que voam sempre; perder 9 duelos triviais de propósito para inflar a confiança e vencer o 10º (o único com aposta real) revelando todos os Immortal Gu de uma vez. O contratado que tentou fugir cristalizou e morreu (corpo E alma). Regra: legalismo é arma reconhecida entre imortais.
+
+### Interrogatório infinito: soul search + guts Gu (cap. 808)
+
+- Regra: soul search danifica a alma-alvo a cada leitura; guts Gu cura a alma entre sessões. Método: alternar busca e cura indefinidamente até a resistência de ocultação ceder — a "durabilidade" da vítima deixa de ser limite; só a fadiga do próprio buscador (não curável por guts Gu) impõe ritmo. Regra: combinar um dano com sua própria cura converte um recurso finito (a alma alheia) em infinito.
+
+### Roubo de Immortal Gu de um dono dormente (caps. 994-995)
+
+- Regra: roubar Gu de dono consciente é quase impossível (autodestruição por pensamento). Método: aproximar-se de um corpo-zumbi semiconsciente usando uma fake will que a alma residual reconhece (limite de 3 passos); extrair UM Gu por vez, envolvê-lo na aura familiar e selar com "selo enganoso" de wisdom path que convence o próprio Gu de que segue com o dono. Recurso finito: a fake will tem carga mensurável (65% gasta em 5 Gu). Exceção absoluta que confirma a regra geral.
+
+### Battle will: monopolizar a posse de uma Immortal Gu House por infiltração mortal (caps. 963-965, 998-1001)
+
+- Regras: a "forbidden zone" alveja aberturas imortais (não corpos de zumbi nem mortais); quem converter >50% da battle will pura da House vira dono. Método: selar a própria aperture imortal (viável só com duas aberturas), infiltrar-se como mortal de rank MÉDIO (nem alvo de missões, nem bucha), converter battle will presencialmente como wisdom grandmaster (muitas vezes a taxa dos patronos remotos) e só revelar o acúmulo (30× o total rival) quando a vitória já é instantânea. Regra: em corridas por recurso conversível, presença direta + discrição valem mais que poder patrocinado.
+
+### Vitória por preparo temporal: special will e a armadilha de recuperação (cap. 1021)
+
+- Regra: vontades pré-programadas em Gu ativam sob condições futuras (técnica de Giant Sun, replicada). Método contra um usurpador de corpo: esconder fake will na própria mente para enviesar o julgamento dele + programar os próprios Gu para voarem de volta ao ouvir uma frase-gatilho (com autodestruição por prazo como seguro anti-roubo). "Inimigos são os melhores professores": a vítima da técnica a reusa. Regra: contra quem vai possuir seus recursos, o campo de batalha é o estado FUTURO deles.
+
+### Reverter a posse de um corpo possuído pela heaven's will (cap. 962)
+
+- Regra: um corpo sem alma com MÚLTIPLAS camadas de vontade residual pode trocar de "piloto". Método: um Immortal Gu despertou a vontade residual mais antiga/legítima (a da amada do morto), que expulsou a heaven's will do corpo. Regra provável (a confirmar): resíduo mais "nativo" tem precedência quando ativado.
+
+### Dedução regional falha como pista (caps. 899, 986-987)
+
+- Regra ilustrada: dedução de localização por wisdom path tem alcance regional e não penetra mundos pequenos. Caso: o maior dedutor de Eastern Sea falha e propõe as duas únicas explicações (alvo fora da região OU ocultação equivalente) — ambas corretas. Uso reverso: fingir FALHAR uma dedução fácil para não exibir capacidade implausível ao próprio rank (gestão de credibilidade, cap. 979). Regra: o padrão de falhas de um oráculo revela tanto quanto seus acertos.
+
+### Refino de Immortal Gu com todos os multiplicadores (caps. 859-862, 982)
+
+- Método completo documentado (Change Form): success dao mark (elimina a falha aleatória) + técnica pessoal de processamento (flesh body blood refinement para o material impossível) + sacrifícios em massa + essence stones no "pote" + local seguro e preparo prévio — e ainda assim o custo zerou as reservas do refinador. Contraste: a MESMA pessoa, sem marca, falhou 3-4 vezes seguidas no Star Thought mesmo com receita otimizada (cap. 926) e teve um refino sabotado por contaminação indetectável de dao marks (cap. 946). Regra: no refino imortal, cada multiplicador compra probabilidade — nenhum compra certeza, exceto a marca (e só até rank 6).
+
+### Explorar um dream realm por tentativa e erro disciplinada (caps. 912-916)
+
+- Regras: cada fase tem condição de vitória OCULTA; cada "morte" no sonho fere a alma; ganhos escalam com o dono do sonho. Método: repetir incursões com Unravel Dream + guts Gu entre tentativas, deduzindo a condição real por eliminação (fase 1: "salvar TODOS", não sobreviver); administrar deliberadamente o envolvimento emocional (não encarar rostos borrados, não matar quando dá para afastar). Resultado: dual grandmaster (wisdom+star) em <1 mês — vs. uma rival com Gu dedicado mas sem método, 36 falhas e a alma em frangalhos. Regra: em sistemas de fase com regra oculta, o recurso decisivo é dedução barata por iteração, não o "item certo".

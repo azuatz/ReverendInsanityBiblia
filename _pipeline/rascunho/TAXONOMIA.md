@@ -62,6 +62,34 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
 - 2026-09-01 — Nova convenção do usuário adotada em toda a consolidação do V2 em
   diante: marcar fatos com `[comum]` / `[especializado]` / `[segredo]` conforme quem
   os conhece no mundo (na dúvida, não marcar). Vol. 1 não foi retro-marcado.
+- 2026-09-01 — Consolidação do Volume 4 (caps. 650-1021): NENHUM domínio novo — tudo
+  coube na taxonomia (a sugestão de um leitor de criar `heaven-will-e-fate.md` foi
+  avaliada e RECUSADA: o material de Fate Gu/heaven's will/fate escapees já tinha casa
+  em `mundo-e-cosmologia.md`, cujo escopo declarado inclui "Heaven's Will, Fate Gu,
+  Heavenly Court"). Alocações decididas: **teoria unificada de dao marks (100≈+10%),
+  calendário de tribulações por rank, gaps entre ranks, grades de blessed land,
+  hierarquia de essências, regras maduras de Immortal Gu/Houses, life-and-death
+  aperture (mecânica de cultivo), relocação/deglutição de apertures, Veneráveis
+  (critério das 3 myriad tribulations)** → `cultivo-imortal.md`; **attainment
+  levels/realms (5 graus) + true meaning + dream path + theft path + luck
+  quantitativo + rule path (dados) + expansões de wisdom/soul/strength** →
+  `paths.md` (attainment é mestria DE PATH — vive lá com cross-refs); **success dao
+  marks/Infallible, taxas de refino por rank, battlefield/combo killer moves,
+  contratos maduros, série familiar face** → `gu-sistema.md`; **Fate Gu/Heaven
+  Overseeing Tower/fate escapees/heaven's will, otherworldly demons, rio do tempo
+  (anomalia da regressão de ~1 ano tratada como mecânica do rio, sem enredo), nove
+  céus por dentro, porta da vida e da morte, regional walls nomeadas, secluded
+  domains** → `mundo-e-cosmologia.md`; **Heavenly Court (instituição), Zombie
+  Alliance (com a verdade [segredo] de fachada da Shadow Sect), Shadow Sect, sea
+  areas, leilões/contests como instituições** → `sociedade-e-organizacoes.md`;
+  **hierarquia de moedas, riqueza por rank, tiers de preço de killer move,
+  Refinement Path Convention (estrutura de evento)** → `economia-e-vida.md`;
+  **immortal zombie completo + tabela de métodos de revival + possessão/battle of
+  wills + corpo soberano (Sovereign Immortal Fetus) + physiques novas + variantes
+  novas** → `transformacoes-e-corpos-especiais.md`; **lifespan como tempo subjetivo
+  experienciado + cardápio de métodos** → `longevidade.md`; fundação da alma
+  (tríade fortalecer/refinar/apaziguar) e battle will mortal → `cultivo-mortal.md`.
+  Catálogo V4 (~110 entradas) em bloco próprio; +15 estudos de caso; glossário V4.
 - 2026-09-01 — Consolidação do Volume 3 (caps. 406-649): NENHUM domínio novo — tudo
   coube na taxonomia. Alocações decididas: **ascensão completa (3 passos/3 qi/grades
   de blessed land), land spirits/"3 chances", vontades residuais, Immortal Gu houses,

@@ -6,7 +6,7 @@ status: rascunho-interno
 
 # Glossário EN → PT
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
 
 ## Resumo do domínio
 
@@ -236,3 +236,74 @@ Dicionário EN→PT de todos os termos técnicos do mundo, com definição curta
 - **Jin / jun** — unidades de força (1 jun = 30 jin ≈ 15 kg).
 - **Spirit spring eye / spring egg Gu** — semente de nascente espiritual.
 - **Hong Yan valley / poison grassland / crescent lake / Snowy Mountain blessed land** — geografia de Northern Plains.
+
+## Termos novos do Volume 4
+
+### Progressão e dao marks
+
+- **Attainment level / realm** — nível de domínio pessoal num path (ordinary → master → grandmaster → great grandmaster → supreme grandmaster, com "quasi-" intermediários); segundo eixo de progressão, paralelo ao rank. → paths.md
+- **True meaning (infusion)** — verdade de um path impressa por um Venerável num local; absorvível ao destruir suas manifestações. → paths.md
+- **Dao marks (teoria unificada)** — fragmentos de lei que constituem corpos imortais, terras e Gu; 100 marks ≈ +10% de poder. → cultivo-imortal.md
+- **Ressonância de path** — Immortal Gu do próprio path rende até 130%; incompatível, 60-70%. → cultivo-imortal.md
+- **Success dao mark / Infallible inheritance / mortal failure Gu** — marca que elimina a falha aleatória de refino; a terra selada que a produz de fracassos alheios. → gu-sistema.md
+- **Grand tribulation / myriad tribulation** — provações dos ranks 7-8; 3 myriad tribulations = Venerável. → cultivo-imortal.md
+- **Life-and-death immortal aperture** — aperture com vida e morte fundidas; -50% de tribulação sem reduzir dao marks; via de revival de uso único. → transformacoes-e-corpos-especiais.md
+- **Origin core (immortal aperture origin core)** — núcleo estrutural de uma aperture; extraível a custo devastador. → cultivo-imortal.md
+- **Pieced-together blessed land** — terra pública fundida de pedaços doados por vários imortais (base de super força). → cultivo-imortal.md
+- **Grotto-heaven (r8-9) / quasi grotto-heaven** — nomenclatura confirmada da aperture de rank 8-9.
+- **Battle will** — vontade de batalha gerada por combate de mortais; conversível para disputar Immortal Gu Houses. → cultivo-mortal.md
+
+### Fate, céu e cosmologia
+
+- **Fate escapee** — ser que a heaven's will não controla por completo (otherworldly demons, associados deles, zumbis); caçado pela Heavenly Court. → mundo-e-cosmologia.md
+- **Heaven's will (vontade do céu)** — agente cósmico ativo: escala tribulações, sabota transgressores, possui corpos sem alma; também "material de refino" do Fate Gu. → mundo-e-cosmologia.md
+- **Heaven Overseeing Tower / Recovery of Fate** — Immortal Gu House r9 e o projeto de reparo do Fate Gu. → mundo-e-cosmologia.md
+- **Otherworldly demon (completo × "meio")** — transmigrado; alma+origem externas vs. alma externa em corpo local (soul replacement).
+- **Sovereign Immortal Fetus Gu** — Gu r9 que fabrica um corpo com status artificial de otherworldly demon. → transformacoes-e-corpos-especiais.md
+- **River of time (expandido) / ghost face & red lotus** — domínio recluso navegável; a entidade anômala que reverteu uma falha do Spring Autumn Cicada (~1 ano de regressão). → mundo-e-cosmologia.md
+- **Regional walls (saint / licorice / blue water) / earth tide** — muralhas nomeadas das regiões; a maré que as afina. → mundo-e-cosmologia.md
+- **White Heaven / black heaven (por dentro) / heavenly wind qi wall / astral qi / Ascending Heaven Plain / fragment world** — cosmologia dos céus. → mundo-e-cosmologia.md
+- **Reverse Flow River / Fairness Gu / Obsession Death Domain** — o 3º obstáculo do caminho da morte e o domínio final das almas. → mundo-e-cosmologia.md
+- **Secluded domain of heaven and earth** — terreno saturado de dao marks de um path (Dang Hun, Luo Po, Miniscule Mountain, Ascending Heaven Plain, rio do tempo).
+- **Earth Trench / gravity soil zone / purple sand desolate land** — fendas colossais presentes nas 5 regiões e seus perigos.
+- **Immortal Yi Yan / Prophecy of Three Venerables / Limitless Demon Venerable / Verdant Great Sun (alma)** — figuras/profeciais novas do lore profundo.
+
+### Dream path e alma
+
+- **Dream realm / dream realm calamity / manifestação externa** — reinos de sonho; a nova categoria de tribulação. → paths.md
+- **Dream path** — path imaturo; materiais só dentro do próprio sonho; "só dream realm transfere attainment". → paths.md
+- **Lead Soul Into Dream** — sono inquebrável indefensável na era atual.
+- **Split soul** — fragmento de alma de um Venerável agindo como imortal independente. → paths.md
+- **Soul modification / soul replacement** — identidade implantada indetectável; possessão de infiltração. → transformacoes-e-corpos-especiais.md
+- **Battle of wills** — disputa interna de vontades num mesmo corpo. → transformacoes-e-corpos-especiais.md
+- **Will search / fake will / special will / star will** — busca e engenharia de vontades (wisdom path). → paths.md
+- **Guts Gu / Airsac Gu** — o nº 1 do fortalecimento de alma; o Gu-recipiente que o exporta.
+
+### Organizações e sociedade imortal
+
+- **Zombie Alliance / Undying Kingdom / Dark Flow Giant City / immortal zombie** — a aliança dos zumbis (e sua verdade: fachada da Shadow Sect). → sociedade-e-organizacoes.md
+- **Shadow Sect / Lord Vice Envoy / Envoy Azure / Purple Mountain True Monarch** — a rede de split souls de Spectral Soul. → sociedade-e-organizacoes.md
+- **Refinement Path Convention** — o evento centenário de refino de Central Continent. → economia-e-vida.md
+- **Demon Judgment Board** — lista decenal de cultivadores nocivos da Heavenly Court.
+- **Sea area** — território marítimo individual de Eastern Sea.
+- **Lang Ya Sect / Three Olds** — a seita do land spirit hairy man; os três supremos do refino.
+- **Contribution points** — moeda interna de super forças (Zombie Alliance, Lang Ya Sect, Heavenly Court).
+- **Immortal essence (green grape / red date / white litchi / yellow apricot)** — denominações por rank 6/7/8/9. → cultivo-imortal.md
+
+### Técnicas e categorias novas
+
+- **Battlefield killer move / quasi blessed land** — killer move de campo (≥3 Immortal Gu; dao marks temporários). → gu-sistema.md
+- **Combo immortal killer move** — encadeamento por dao marks residuais (exige great grandmaster). → gu-sistema.md
+- **Ancient battle formation** — fusão de vários imortais numa entidade de combate (categoria quase extinta). → cultivo-imortal.md
+- **Immortal Aperture Transplantation Method** — relocação de blessed lands. → cultivo-imortal.md
+- **Nature Gu refinement / flesh body blood refinement** — técnicas de refino alternativas. → gu-sistema.md
+- **Reverse refinement** — recuperar/extrair a força de um Immortal Gu consumível gasto. → gu-sistema.md
+- **Unfamiliar / Vaguely Familiar / Familiar Face + Attitude Gu** — a escada de disfarces de Thieving Heaven. → gu-sistema.md
+- **Divine Concealment / Ghostly Concealment / Formless Hand / theft path** — o arsenal de Thieving Heaven. → paths.md
+- **Nirvana Fire** — alternância reversível zumbi↔vivo. → transformacoes-e-corpos-especiais.md
+- **Time Assist Luck / Delay / Inch of Time** — sorte por lifespan alheio; atraso de dano; pagamento de "pedágio de tempo".
+- **Stone nest** — linha de produção de Gu em massa com escravos hairy men.
+- **Food path** — disciplina secreta de alimentação de Gu/feras/variantes.
+- **Wish power / Heavenly Wish** — poder de desejos coletivos; o teleporte-êxodo de emergência.
+- **Beastmen / minimen / feathermen / mermen** — variantes humanas novas (uma extinta). → transformacoes-e-corpos-especiais.md
+- **Pure Dream Reality Seeker Physique / Blazing Glory Lightning Brilliance** — physiques novas (uma artificial). → transformacoes-e-corpos-especiais.md

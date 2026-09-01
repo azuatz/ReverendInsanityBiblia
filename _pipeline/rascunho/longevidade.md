@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Longevidade
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> Domínio: lifespan, envelhecimento, expectativa de vida, lifespan Gu, métodos de extensão de vida e seus custos; lifespan como MOEDA de atalhos temporais e de dedução (wisdom path).
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> Domínio: lifespan, envelhecimento, expectativa de vida, lifespan Gu, métodos de extensão de vida e seus custos; lifespan como MOEDA de atalhos temporais e de dedução (wisdom path). O V4 fecha a DEFINIÇÃO de lifespan imortal (tempo subjetivo experienciado, contando dilatação) e o cardápio completo de métodos alternativos.
 
 ## Resumo do domínio
 
@@ -101,6 +101,37 @@ Humanos vivem ~100 anos; a morte é lei do mundo ("mesmo Ren Zu teve que morrer"
 - Wisdom path paga dedução em vida: Heavenly Secret Gu (r7) — ~80% de falha, cada falha consome 10-70 anos (cap. 492); a Prophecy of Three Venerables custou 50 anos a Immortal Yi Yan (cap. 461); Star Thought Gu em modo ofensivo massivo ≈ ≥2 anos por ativação (cap. 513); a "luz da sabedoria" do rank 9 Wisdom Gu consome lifespan por exposição (≈2 anos numa exposição breve/distante; 10+ em exposição próxima e prolongada) — e a mera proximidade de uma herança suprema induz transe que queima a vida sem o usuário notar (caps. 601, 637-638, 646-647).
 - **Third Watch Gu esclarecido**: acelera o FLUXO DE TEMPO PESSOAL do alvo — tudo que amadurece nele acelera (cultivo, recuperação de um vital Gu ferido, crescimento de uma besta) e o lifespan encurta na mesma proporção; numa besta: maturidade rápida + apetite ~13× + vida encurtada (caps. 449, 453). Confirma a leitura "custo proporcional ao tempo subjetivo".
 - Custos exóticos: choro de snowman consome longevidade (3 choros/60 gotas por vida, cap. 537); zumbificação total elimina o próprio conceito de lifespan — nada mais a consumir, mas também sem cultivo futuro (caps. 643-647; ver transformacoes-e-corpos-especiais.md).
+
+---
+
+> fontes desta seção: ["cap. 659", "cap. 676", "cap. 733", "cap. 767", "cap. 778", "cap. 815", "cap. 822-823", "cap. 928", "cap. 947", "cap. 956", "cap. 1007", "cap. 1017"]
+
+## Atualizações do Volume 4 (caps. 650–1021)
+
+### Definição formal de lifespan imortal (regra nova central)
+
+- `[especializado]` **O lifespan de um Gu Immortal é o total de tempo que seu corpo já EXPERIENCIOU** — subjetivo, contando a dilatação temporal: viver dentro de uma blessed land acelerada consome vida na proporção interna (cap. 823). Por isso imortais ricos preferem viver FORA da própria aperture, entrando só quando necessário (cap. 767); cooldowns "por mês" de certos Gu também contam tempo subjetivo (Time Assist Luck, cap. 823). Confirmado de novo: virar Gu Immortal NÃO estende a vida; mortal ~100 anos; um imortal esforçado vive séculos a ~1.000 anos via métodos (caps. 733, 767).
+- **Sono como método**: dormir reduz o gasto subjetivo — o método padrão dos rank 8 da Heavenly Court (acordar de emergência queima o pouco restante) (caps. 956, 966).
+
+### Lifespan Gu — raridade calibrada
+
+- Condições de produção variáveis; obtidos "por sorte", majoritariamente por Gu Masters MORTAIS; imortais nunca os revendem — **nenhum lifespan Gu apareceu no maior leilão da história de Northern Plains** (leilões mortais ocasionalmente os têm) (caps. 767, 778); a True Yang Building era a melhor "colheitadeira" de lifespan Gu do mundo — irrecuperável (cap. 778). Exemplar de referência: +60 anos (cap. 947). Rank 9 Veneráveis os buscaram e esgotaram o estoque natural (V3, intacto).
+
+### Métodos alternativos — cardápio completo (todos "contra a natureza")
+
+| Método | Ganho | Custo | Caps. |
+|---|---|---|---|
+| Zumbificação / treeman | existência sem lifespan | cultivo estagna; ver transformacoes-e-corpos-especiais.md | 743, 767 |
+| **Yin-yang life extension** (herança de Giant Sun) | transfere lifespan entre dois imortais (♂+♀, via cópula) | soma zero; a EFICIÊNCIA da transferência varia com a constituição do doador (physiques desperdiçam menos) | 659, 767 |
+| Possessão | corpo novo | ver transformacoes; "mera luta na porta da morte" | 767, 789 |
+| Dormir a maior parte do tempo | reduz gasto subjetivo | vida "não vivida" | 767, 956 |
+| **Serviço comercial de extensão** (Lady Wan Shou) | anos vendidos a clientes | herança específica (lifespan Gu de Wang Jiu); >1.000 anos somados já vendidos — extensão como NEGÓCIO estabelecido | 928 |
+| Human Medicine Gu (r3) | uso único de +lifespan | uma criança humana como material de refino por anos | 676 |
+| **Time Assist Luck** | rouba lifespan de mortais sacrificados → boost temporário de sorte (não de vida) | vítimas morrem envelhecidas; backlash de almas ferozes | 815, 822-823 |
+
+### Lifespan como moeda (expansões V4)
+
+- Heavenly Secret Gu: ~**100 anos de lifespan por dedução** (conteúdo de tribulações futuras, cap. 1017) — números fecham a faixa do V3. Luz da sabedoria: só drena lifespan de VIVOS — o motivo central de um zumbi adiar o próprio revival (caps. 778, 906, 972). **Inch of Time Gu** substitui o componente "tempo/lifespan" do custo de certos Gu (Time Luck) — "paga o pedágio de tempo" (caps. 767, 778); blessed lands de fluxo rápido produzem inch of time de qualidade maior (cap. 778). Custos exóticos: dao marks de fire path como moeda do Nirvana Fire (cap. 947); "efeitos de tempo" de Immortal Gu drenam lifespan por padrão (cap. 767).
 
 ## Lacunas do domínio
 

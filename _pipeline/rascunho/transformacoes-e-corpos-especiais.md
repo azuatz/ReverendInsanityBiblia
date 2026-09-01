@@ -183,12 +183,67 @@ Detalhe completo em cultivo-mortal.md (seção Graus de Aptidão). Resumo do que
 - Regra do dual-path corporal: um Gu de modificação raramente serve a dois paths ao mesmo tempo (enslavement × strength exigem corpos opostos); cultivar ambos plenamente exige um "fundamento" maior (caps. 500, 536).
 - Overclock suicida: Gu de emergência infla corpo/cultivo a um rank acima por minutos — sentença de morte (cap. 457). Do or Die Gu (r5): essência instantânea ao custo permanente de 1 estágio de cultivo (caps. 482-483).
 
+---
+
+> fontes desta seção: ["cap. 650-733", "cap. 734-775", "cap. 776-817", "cap. 818-859", "cap. 860-901", "cap. 902-981", "cap. 982-1021"]
+
+## Atualizações do Volume 4 (caps. 650–1021)
+
+### Immortal zombie (zumbi imortal) — mecânica completa
+
+`[especializado]` (a existência é `[comum]` no meio imortal):
+
+- **Origem cosmológica** (cap. 722): desde que Red Lotus feriu o Fate Gu, almas deixaram de ser sugadas direto para a porta da vida e da morte — um ser que morre com a alma presa ao corpo vira zumbi. Vale para bestas (zombie dragon) e para Gu Immortals no fim do lifespan (a rota clássica da Zombie Alliance). Um imortal pode escolher virar zumbi VOLUNTARIAMENTE por avanço de força (Blazing Heaven Demoness, cap. 743 — mecanismo não explicado). Alternativa restrita a certos paths: wood path pode virar **treeman** (vedado a strength/fire path, cap. 743).
+- **Custos estruturais** (caps. 650-651, 700, 740, 758): a immortal aperture MORRE — não produz essência (só conversão de essence stones), a blessed land murcha em intervalos fixos (retardável com black oil), e o zumbi **não sofre calamidades/tribulações → não ganha dao marks → o cultivo estagna para sempre** (paliativos parciais: Eat Strength etc.). Força de combate cai ~1 tier vs. o rank em vida (cap. 722). **Cognição lenta**: corpo morto gera poucos pensamentos (zumbis fortes hibernam para acumulá-los; a cabeça segue ponto sensível, caps. 651, 921). A alma enfraquece/irrita-se com facilidade (o corpo não a nutre; remédios: guts Gu, dormir, água do Bewitching Lake; teto de alma MAIOR que o de um vivo, porém, caps. 672, 996). Sangue vira verde-jade gelado (quebra rastreio por parentesco, cap. 698); recursos guardados na aperture morta se deterioram (energia da morte, caps. 654, 809).
+- **Vantagens**: sem lifespan a consumir (imune à drenagem da luz da sabedoria e a killer moves movidos a força vital — Life Chasing Fire mal pega, cap. 791); sem dor/fadiga; aperture morta aguenta MAIS pressão de Gu de rank alto que uma viva (cap. 650); resistência alta a veneno (cap. 799); corpo = único orgulho (cemitérios como solo sagrado, cap. 927). Membro decepado reconecta; destruído, regenera em 6-8 h REPONDO os dao marks (cap. 715).
+- Restrições operacionais: não usa connecting heaven/hole earth Gu (sem heavenly power) (cap. 739); não coloca corpos de imortais mortos na própria aperture (explosão, cap. 897); a aura regional de qi da ascensão continua identificável (cap. 679).
+- **Zombie Alliance**: ver sociedade-e-organizacoes.md.
+
+### Métodos de revival (reverter o estado de zumbi) — catálogo completo V4
+
+| Método | Como | Custo/limite | Caps. |
+|---|---|---|---|
+| **Possessão** | alma possui um corpo novo (mortal ou imortal) | exige contato prolongado prévio com o corpo-alvo; cultivo superior ao do alvo (se imortal); a aperture passa a ser a do corpo tomado ("corvo no ninho da gaivota"); sem segunda abertura; tribulação de retaliação ∝ "ofensa ao céu" (modulável por técnica) | 711, 789, 810, 827 |
+| **Variante origin core** (Dong Fang Chang Fan) | drenar/fundir os "immortal aperture origin cores" de VÁRIOS imortais do MESMO SANGUE numa aperture nova para o possuidor | extração de origin core arruína o doador; exige linhagem compatível (contornável gerando um parente novo); a purificação incompleta deixa vontades rancorosas no material | 788-794, 810 |
+| **Re-ascensão com Ten Extreme Physique** | zumbi com physique extrema passa NOVA tribulação de ascensão — a tribulação "purifica" o corpo | tribulação ≈ grand tribulation de rank 7 (>12× uma ascensão extrema normal) — "desafiar o destino duas vezes" | 852, 857 |
+| **Nirvana Fire** (fire path, herança de Kong Jue) | alterna REVERSIVELMENTE zumbi↔vivo, repetível | consome dao marks de fire path do usuário; agrava dano de time path; modificável para outros paths (versão strength de Fang Yuan: 3 Gu núcleo + 330 mil Gu mortais) | 947, 951, 961 |
+| **Life-and-death immortal aperture** | funde as camadas de vida e morte da aperture numa só ("há vida na morte...", filosofia de Limitless Demon Venerable) | USO ÚNICO por aperture; depois de vivo, usar wisdom Gu consome lifespan rápido; **bônus: reduz tribulações/calamidades em 50% SEM reduzir o ganho de dao marks**; a grade final depende do material (corpos de zumbis do mesmo path elevam; um zumbi com Ten Extreme Physique do path → grade super E o revivido HERDA a physique) | 937-939, 947 |
+| **Resurrection From The Dead** (pesquisa, não existe) | Immortal Gu r8 hipotético da "lei da vida e morte" | exigiria ≥10 corpos de zumbis imortais como material + "vaso formless"; 30% de confiança já é "extremamente alto" | 757 |
+| **Man as Before** (time path r6) | ressuscita um MORTO recente a partir de parte do corpo preservada | custo alto de essência; "patch" único — não reverte estado de zumbi antigo nem dá imunidade | 857-858, 1011 |
+
+- Corolário: **corpos de zumbis imortais são material imortal valioso** — ao morrer, a aperture se dissipa e os dao marks concentram-se no corpo (cap. 939). "Canibalizar" um zumbi de physique extrema herda physique + grade super (cap. 939); conceito teórico da **Dual Ten Extreme Physique** (duas aperturas → dois processos de vida-e-morte → duas physiques, inédito, cap. 939).
+
+### Ten Extreme Physiques — o trade-off explicado (V4)
+
+- `[especializado]` **Por que nenhum dos Dez Veneráveis teve uma**: a physique dá poder acima do rank ("quebra convenções"), mas o fluxo de tempo acelerado do corpo/aperture faz tribulações chegarem mais cedo e mais fortes — normalmente MATAM o portador antes do topo (cap. 939). A life-and-death aperture (-50%) neutralizaria o defeito → caminho teórico para um "Venerável de physique extrema", inédito (cap. 939).
+- Ascensão com physique → blessed land grade SUPER (>6.700 km², 50+ contas/ano, ≥2 Immortal Gu de bônus), mas a tribulação é "patinar em gelo fino" (caps. 690, 693).
+- **5ª e 6ª nomeadas**: **Blazing Glory Lightning Brilliance** (resistências elementais ligadas ao tema, cap. 925) e **Pure Dream Reality Seeker Physique** — a primeira physique ARTIFICIAL da história, criada por Old Man Yan Shi de um dream realm "amadurecido" (réplica dos métodos de Ren Zu): corpo descartável com força de batalha até rank 9, +1 rank a cada 2 horas, lifespan total de 18 HORAS; concentração de dao marks de dream faz qualquer alma inserida adormecer/perder memórias (caps. 1001-1011). Confirmadas até aqui: Northern Dark Ice Soul, Ancient Moon Desolate Yin/Desolate Ancient Moon (prov. duplicata), Great Strength True Martial, Blazing Glory Lightning Brilliance, Pure Dream Reality Seeker (artificial), + Carefree Wisdom Heart citada como pilar da formação ten extreme (cap. 968).
+- `[segredo]` A Shadow Sect usava zumbis imortais portadores de physiques como PILARES da "Ten Extreme Immortal Zombie Lifeless Formation" (cada nó contribui o poder da própria constituição, caps. 967-968) — indício de caça deliberada a portadores.
+- Physiques também podem nascer de tribulação: heavenly tribulation pode ser usada para subjugar um Immortal Gu selvagem no ato da ascensão (cap. 948).
+
+### O corpo soberano (Sovereign Immortal Fetus Gu)
+
+`[segredo]` (caps. 1018-1021): o Immortal Gu rank 9 de Spectral Soul gera, para a alma que nele entra, um **corpo inteiramente novo com status artificial de otherworldly demon** — nascimento em 81 mudanças, bebê que envelhece segundos-por-ano até estacionar em 16 anos físicos; mantém o cultivo da alma original; qualidade corporal "seda vs. roupa de gravetos". É a resposta definitiva do sistema à pergunta "como escapar do heaven's will" (ver mundo-e-cosmologia.md).
+
+### Variantes humanas (V4)
+
+- **Padrão consolidado de afinidade inata por raça**: hairy men = refinement (o refinement path ORIGINOU-SE deles; a base de conhecimento perdida era "dezenas de vezes" a humana, cap. 860); feathermen = cloud path (todos flying masters); minimen = wood path; rockmen = mineração; snowmen = frio; inkmen = conhecimento (caps. 799, 860, 864, 871).
+- Novas raças/dados: **feathermen** (liberdade acima da vida — suicídio coletivo antes da escravidão; wish power acumulado por gerações, caps. 864-869, 977-978, 1007); **minimen** (agricultura suprema; aliança, não servidão, com humanos, caps. 799, 801); **beastmen** (EXTINTOS — híbridos homem-fera antropófagos das eras antigas, cap. 912); **mermen** (super força de Eastern Sea, cap. 893). Hierarquia de valor de escravos por espécie (feathermen > rockmen, cap. 979); a supremacia humana é tratada como constante histórica — toda facção variant human acaba subjugada (cap. 980); Heavenly Court os exclui categoricamente (cap. 871).
+
+### Possessão, troca de alma e battle of wills (V4)
+
+- **Possessão** exige contato prolongado prévio da alma com o corpo-alvo (implantação sutil de fração de alma é a variante indetectável); a chance cresce com o hiato entre as almas; corpo com alma "quase colapsando" é alvo ideal (caps. 711, 789, 827). **Soul replacement** (Shadow Sect): infiltração via possessão ao longo de séculos (cap. 884). **Change Soul Gu** (r7): troca completa de almas entre dois corpos em emergência (cap. 1019). Corpo sem alma mas com vontade/emoção residual pode ser possuído até pela heaven's will (cap. 960) — e "despertado" de volta por um resíduo mais antigo (cap. 962).
+- **Battle of wills** (caps. 805, 810-811): num corpo com múltiplas almas/vontades, vence a força relativa das VONTADES (não o cultivo); só se regeneram a alma possuidora (pelo "assento" da mente) e a vontade nativa do corpo (∝ saúde física); vontades importadas são finitas; culpa/retórica causam dano mecânico real. Uma alma recém-saída de batalha de vontades está fraca demais para fugir — janela de captura (cap. 806).
+
 ## Lacunas do domínio
 
 - Faixa exata do grau D e o que existe abaixo de 40% de aptidão.
-- Lista das dez physiques: 4 nomeadas (Northern Dark Ice Soul, Ancient Moon Desolate Yin, Desolate Ancient Moon — provável duplicata —, Great Strength True Martial); faltam ~6-7.
+- Lista das dez physiques: 5-6 nomeadas (Northern Dark Ice Soul, Ancient Moon Desolate Yin/Desolate Ancient Moon — provável duplicata —, Great Strength True Martial, Blazing Glory Lightning Brilliance, Carefree Wisdom Heart; + Pure Dream Reality Seeker, artificial, possivelmente fora da lista canônica); faltam ~4-5.
 - Custos/vantagens dos estágios intermediários de zumbi (hairy/hopping) seguem não detalhados; relação entre a escada de cores selvagem e a escada de Gu.
-- Cura da zumbificação total do Six Arm Heavenly Zombie King: NÃO existe até o cap. 649 (experimento fracassou; o protagonista pagou o preço) — pendência aberta.
+- ~~Cura da zumbificação total~~ ✅ RESPONDIDO no V4: existe um cardápio inteiro de métodos de revival (tabela acima) — todos caros, arriscados ou de uso único; nenhum é "cura limpa".
 - Se "Gu ligado a objeto" (Sole Blade) é categoria formal (ver gu-sistema.md).
 - Se o limite de lágrimas dos snowmen (3×/60 gotas) é universal da raça (provável) ou local.
 - Como exatamente uma physique extrema permite a um mortal suprimir múltiplos Immortal Gu (cap. 649).
+- (novo V4) Mecanismo do "breakthrough por zumbificação voluntária" (Blazing Heaven Demoness, cap. 743).
+- (novo V4) Como um zumbi imortal (Dragon Commander Ye Cha) mantém seres VIVOS dentro da aperture morta (cap. 933) — possível pista da life-and-death aperture.
+- (novo V4) Se o Pure Dream Reality Seeker Physique conta entre as "Ten" ou inaugura categoria própria de physique artificial.

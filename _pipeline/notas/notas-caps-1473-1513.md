@@ -1,20 +1,253 @@
 # Notas brutas — Capítulos 1473–1513 (Volume 5)
 
-> Progresso da leitura: iniciando
+> Progresso da leitura: até o cap. 1508
 > Status: em-andamento
 
 ## 1. Mecânicas e regras
 
+### Wealth Gu (lore + tentativa moderna de refino)
+- Receita mítica original (Legends of Ren Zu): água do mar azul (blue sea, fonte de toda vida), as duas mãos decepadas de Ren Zu, worry Gu, difficulty Gu, sadness Gu, wisdom Gu, stupidity Gu (sacrificado inteiro na chama). Hoje IMPOSSÍVEL seguir literalmente: blue sea e as mãos de Ren Zu são materiais extintos (cap. 1473).
+- Regra central de Gu Immortal: "homem é o espírito de todos os seres vivos, Gu é a essência do céu e da terra" — humanos podem criar infinitas receitas alternativas para um mesmo Immortal Gu lendário, adaptando/substituindo materiais extintos (cap. 1474).
+- Efeito de Wealth Gu (deduzido por um praticante a partir de receita incompleta): transforma-se em QUALQUER material/minério do mundo (ouro, prata, bronze, material imortal de rank 6 a 9); NÃO pode se transformar em nenhum ser vivo (animal, planta, humano, variante, ou Gu) (cap. 1474).
+- Caso de estudo — tentativa de Shi Zhong (rank 7, Shi clan, Western Desert): recriou a receita substituindo água do mar azul/mãos de Ren Zu por HUMANOS (escravos comprados em treasure yellow heaven) como material de Gu — ato demoníaco disfarçado por um cultivador da via reta; usa worry/difficulty/sadness Gu comuns (fáceis de obter) e wisdom path Gu genéricos no lugar do lendário wisdom Gu; refina stupidity Gu ele mesmo. 89 tentativas falhas registradas até o cap. 1474; cada falha o fere de forma peculiar — ele cospe sangue que se solidifica em joias/minérios (efeito colateral do refino malsucedido) (caps. 1474-1475).
+
+### Heavenly Secret Gu — refino e killer moves
+- Refino via killer move de refinement path "Heavenly Light Ring": um anel de luz branca envolve o cultivador; 7 rotações sucessivas, cada uma controlada por um meio de manipulação diferente (vontade → olhar/gaze → respiração...); o anel encolhe a cada rotação até virar um Gu minúsculo na 7ª. Fang Yuan (rank 7) refinou heavenly secret Gu (rank 7) com sucesso na 2ª tentativa (cap. 1475).
+- Killer move "exposing heavenly secret" (usa heavenly secret Gu como núcleo): prediz o CONTEÚDO de tribulações celestiais e calamidades terrenas futuras, permitindo preparar defesas específicas com antecedência — eleva muito a taxa de sucesso na tribulação. Tem limite: não é possível prever o conteúdo de uma grand tribulation com muita antecedência, é preciso "esperar" até estar mais perto dela (caps. 1476, 1482).
+- Killer move "heaven's will dissipation" (wisdom path, usa heavenly secret Gu como núcleo): criada por Old Man Yan Shi (split soul de Spectral Soul Demon Venerable) mas deixada INCOMPLETA por ele; ataca heaven's will diretamente e pode eliminá-lo por completo de um alvo selado por ele. Fang Yuan completou a dedução com ajuda de wisdom Gu (rank 9, "light of wisdom") em ~15 dias de dedução contínua e exaustiva (caps. 1476, 1478).
+- Efeito colateral perigoso: usar heaven's will dissipation diretamente sobre Spring Autumn Cicada (selado por heaven's will) rachou o Gu levemente — heaven's will estava mais profundamente entranhado do que o esperado; risco de destruir o Immortal Gu se insistisse (cap. 1477).
+
+### Refino em paralelo (parallel refining) de Spring Autumn Cicada — método composto
+- Método padrão de Shadow Sect para elevar rank + remover heaven's will de um Gu seria em 2 ETAPAS SEQUENCIAIS: (1) refino normal para elevar rank, (2) reverse refining separado para extrair heaven's will. Fang Yuan modificou para um refino PARALELO (as duas etapas fundidas em um único processo) — maior taxa de sucesso que o método sequencial, mas ainda extremamente arriscado (cap. 1479-1480).
+- Sequência de materiais/etapas do refino observado (cap. 1479-1480):
+  1. "Seven kill blood path Gu refinement method" (de Lang Ya Sect): mata-se 7 desolate beasts vivos, o sangue é sugado por um pilar de luz dourada (refinement path killer move), tingindo-o de vermelho/sinistro.
+  2. "Hundred flowers concentrate": Sixth Hair processa ~12 tipos de flores (ghost face sunflower, wire cotton, heavenly flower, seven treasure flower, milk tea flower, iron shell flower, boat flower, blood poison kerria, multicolored overlord flower, green beetle water lotus, red axe flower, smelly fly flower) em um concentrado; lançado como "chuva rosa" que se funde ao pilar de sangue e ao corpo/Gu sendo refinado.
+  3. "Golden cloud divine wood" (material imortal): dissolve-se na formação, deixando marcas de madeira dourada/âmbar no corpo do zumbi imortal.
+  4. "Purple star urchin" (material imortal raro, do tamanho de uma casa): ao encolher na formação libera "starlight" saltitante que ataca/desestabiliza a formação — quase causa desastre; controlado só com a intervenção de emergência de Sixth Hair (killer move "Moving of a single thought, blossoming of the red snake" — custa lifespan, ver Glossário/Sixth Hair abaixo).
+  5. "Thousand face human rock" (material imortal): esculpido com rostos humanos variados; dissolvido, os rostos viram sombras ilusórias que voam repetidamente PASSANDO por Spring Autumn Cicada (selado, imóvel) — cada passagem arranca um "fio" de heaven's will selado dentro dele; processo repetido dezenas de vezes até não conseguir mais extrair nada por esse método.
+  6. Resíduo final de heaven's will (mínimo mas persistente no núcleo do Gu): removido forçando a formação ao limite — espinhos de purple star urchin (incorporados nas paredes da abertura) perfuram Spring Autumn Cicada de todos os lados, DERRETENDO-O em líquido verde-jade; o resíduo de heaven's will é destruído nesse estado líquido; o líquido é então recondensado de volta na forma de Spring Autumn Cicada, agora sem heaven's will.
+- Resultado colateral inevitável: a abertura de Fang Yuan (já enfraquecida/"stone aperture"/"dead aperture" por pressão anterior do próprio Spring Autumn Cicada) se estilhaça por completo ao final do refino — consequência aceita e desejada do processo (cap. 1480).
+
+### Split soul, clone e tribulação (caso completo)
+- Para passar pela tribulação de ascensão sem arriscar a aperture soberana, Fang Yuan usa split soul: destaca uma porção de sua alma para dentro do corpo de zumbi imortal (strength path), e então ativa o killer move "Strength Reversing Life and Death" (modificado do nirvana fire de Blazing Heaven Demoness) para reverter o zumbi a forma humana viva — passo necessário para poder sofrer a tribulação de ascensão como um Gu Immortal vivo. Usa 2 lifespan Gu para dar lifespan a esse corpo quase no fim de sua vida útil (cap. 1480).
+- Custo do split soul: a fundação de alma do corpo principal de Fang Yuan caiu de 10 milhões para 9 milhões de man soul ao criar esse clone (cap. 1481).
+- O clone é levado para FORA da sovereign immortal aperture antes da tribulação (Fang Yuan não quer o caos da tribulação dentro de sua aperture soberana) (cap. 1480).
+- Resultado: o clone se torna Gu Immortal rank 6 de time path; a "primeira abertura" dele vira blessed land de grau alto (high grade) de time path, batizada "Spring Autumn blessed land" (cap. 1480).
+- Heaven's will reage à conquista total de Spring Autumn Cicada por Fang Yuan liberando calamidades/tribulações do NÍVEL MAIS ALTO POSSÍVEL contra o clone durante a ascensão — mas Fang Yuan as dispersa com facilidade, já dominando o processo (cap. 1480).
+- Natureza do clone: é "meio otherworldly demon" — a alma é split soul de Fang Yuan (otherworldly), mas o CORPO se origina deste mundo e continua restrito pelo destino (fate). Único jeito de torná-lo otherworldly demon completo seria outro sovereign immortal fetus Gu — mas isso levou Shadow Sect 100 mil anos para refinar uma única vez; praticamente impossível repetir (cap. 1481).
+- Regra de conflito de dao marks: dao marks de paths diferentes conflitam num mesmo corpo/alma. Por isso o clone (corpo sem sovereign immortal body) deve escolher só time path — não pode cultivar dual (strength + time) como Fang Yuan cogitou fazer antes de obter o sovereign immortal body. Pelo mesmo motivo, o clone NÃO pode se beneficiar de Dang Hun Mountain/Luo Po Valley (sacred lands de soul path) porque sua alma "já recebeu a porção máxima" herdada de Fang Yuan no momento da criação do split soul — incrementar mais desestabilizaria o cultivo de time path (cap. 1482).
+- Ghost official garment (killer move/item de defesa contra heaven's will) é enfraquecido pela presença de "ghostly concealment" (outra habilidade de Fang Yuan) — por isso não foi dado ao clone; o clone usa em vez disso um método de time path próprio para se defender de heaven's will, de eficácia inferior ao ghost official garment mas mais compatível com seu cultivo (cap. 1482).
+- Wisdom Gu quase não reconheceu o clone após a transformação (mudança de cultivo para time path + remoção de dao marks de strength path + natureza de split soul) — hesitou antes de voltar a emitir a "light of wisdom" para ele. Implica que o vínculo de wisdom Gu pode ser abalado por mudanças drásticas de identidade/cultivo/split soul (cap. 1481).
+
+### Vital Gu — regra sobre segunda abertura/aperture
+- Maior utilidade de uma segunda immortal aperture (para quem já tem sovereign immortal body/aperture): disponibilizar um SEGUNDO slot de vital Gu (cap. 1481).
+- Regra de vital Gu: mesmo que o refino de um vital Gu FALHE, o Gu em si não é destruído — a vida do vital Gu está ligada à vida do próprio Gu Immortal. EXCEÇÃO: se o Gu Immortal morre durante o processo de refino, o vital Gu também é destruído junto (cap. 1481).
+- Spring Autumn Cicada já era vital Gu de Fang Yuan; por isso pôde ser refinado (rank up + remoção de heaven's will) sem risco de destruição total mesmo com o processo de altíssimo risco (cap. 1481).
+
+### Spring Autumn Cicada — rank e uso (refinamento da regra)
+- Rank 6 Spring Autumn Cicada só permite REBIRTH para Gu Immortals de rank 6. Fang Yuan agora rank 7 precisa de uma versão rank 7 do Gu OU usar a versão rank 6 como núcleo dentro de um killer move imortal de rank 7 (cap. 1482) — regra explícita de escalonamento por rank do usuário/Gu.
+
+### Time path — killer move "Years Pass Like Days"
+- Acelera a vazão/velocidade do afluente do Rio do Tempo dentro da sovereign immortal aperture, aumentando a taxa de tempo interna já alta da aperture soberana. Efeitos: calamidades/tribulações passam a ocorrer com mais frequência (mas Fang Yuan já não as teme, tendo heavenly secret Gu + exposing heavenly secret); acelera também a produção de outros recursos internos, notavelmente a reprodução de dragonfish (mais gerações em menos tempo real) (cap. 1482).
+
+### Estado da sovereign immortal aperture de Fang Yuan
+- Development em apenas 4% neste ponto — poucos recursos internos ainda, precisa investir muito mais (cap. 1481).
+
+### Dragonfish — engenharia de novas raças (food path)
+- Dragonfish não é forma de vida natural — foi criado por um Gu Immortal de food path (o "beastman" criador do próprio food path); Fang Yuan tem a herança completa desse criador via Shadow Sect (cap. 1477).
+- Dragonfish comuns no mercado têm dao marks de food path misturados com dao marks de muitos outros paths; usando o método da herança para criar uma formação imortal de food path dedicada e reproduzir dragonfish por várias gerações sucessivas, obtém-se uma raça superior pura de food path (cap. 1477).
+- "Copper dragonfish": raça derivada, corpo menor, escamas com brilho metálico (cobre); qualidade de alimentação para Immortal Gu comprovadamente melhor que dragonfish comum — maior proporção de dao marks de food path no corpo (caps. 1477-1478).
+- "Iron dragonfish": nova raça (cor preta/ferro), obtida automaticamente pela formação de food path sem necessidade de pesquisa adicional, após acelerar ainda mais o tempo interno da aperture (cap. 1482).
+- You Chan (rival) também possuía herança de food path (não tão "autêntica"/completa quanto a de Fang Yuan) e conseguiu, por engenharia reversa a partir de um copper dragonfish de Fang Yuan obtido no mercado, recriar sua própria raça de copper dragonfish em ~meio mês (cap. 1478).
+
+### Estratégia comercial em treasure yellow heaven
+- Tática de desconto por quantidade: compradores que se juntam para comprar acima de certas faixas de quantidade pagam menos por unidade — cria volume de vendas + reputação (compradores recrutam amigos/estranhos, gerando propaganda orgânica); tática antiga do mercado, não é invenção de Fang Yuan (mas ele a aplicou bem) (cap. 1475).
+- Uso de "proxies" (outros Gu Immortals disfarçados, ex.: membros de Shadow Sect) para comprar em conjunto sem revelar que são ligados ao vendedor — impossível de provar dentro de treasure yellow heaven mesmo que suspeitado (cap. 1475).
+- Contra-tática de fidelização: desconto crescente para clientes recorrentes que comprem todo ano por até 10 anos consecutivos (usada por You Chan para reter clientela) (cap. 1476).
+
+### Escalada dragonfish: cobre → ferro → prata → dourado (limite de espécie)
+- Cada nova raça de dragonfish gerada por Fang Yuan (copper → iron → silver) tem proporção crescente de dao marks de food path, e cada uma causa comoção maior em treasure yellow heaven; competidores (You Chan, depois em aliança com Qin Bai He, com apoio secreto de Heavenly Court/Fairy Zi Wei) sempre alcançam via engenharia reversa, mas sempre em escala de produção MENOR que a de Fang Yuan (originador) (caps. 1483-1484).
+- Dentro da aperture soberana de Fang Yuan, surge naturalmente a "ancient golden dragonfish" — um dragonfish do tamanho de uma palma, todo de dao marks de food path puro (sem mistura de outros paths), com aura de ANCIENT DESOLATE BEAST verdadeiro (os outros dragonfish, mesmo os melhorados, só chegam a desolate beast comum). Ela é o TETO de desenvolvimento da linhagem de dragonfish — não há espécie superior a ela nessa linha. Funciona como "rei" dos dragonfish: todos os outros dragonfish (comuns, cobre, ferro, prata) a seguem e protegem instintivamente, sem que o próprio Fang Yuan tenha esse nível de controle direto sobre o cardume — ele controla a dragonfish dourada, e ela controla o resto. Apesar disso, o golden dragonfish tem força de combate baixíssima (pior entre os ancient desolate beasts) — dragonfish servem só como mercadoria, nunca como força de batalha (cap. 1484).
+- Fairy Zi Wei (Heavenly Court) identifica o vendedor misterioso como provável Fang Yuan por dedução: dragonfish é o "produto-assinatura" do food path e nunca havia mudado de espécie em toda a história; alguém capaz de modificá-lo repetidamente quase certamente tem a herança original de food path (que veio de Spectral Soul Demon Venerable, agora com Shadow Sect/Fang Yuan) (cap. 1483).
+
+### Immortal battlefield killer move — "Purple Star Broken Life"
+- Killer move de wisdom path criado por Fang Yuan via dedução combinando referências de 3 killer moves de campo de batalha (battlefield) de rank 8 + mais 18 killer moves diversos. Efeito único: oculta rastros e isola os presos dentro dele do mundo externo. O espaço interno é enorme, mas ocupa apenas um pontinho imperceptível no mundo real — mesmo alguém literalmente no local não notaria o campo de batalha (cap. 1485).
+- Regra geral de battlefield killer moves: dentro do campo, o path do criador tem vantagem territorial e SUPRIME os outros paths dos oponentes — analogia de "escudo vs. lança": se o campo é mais forte, killer moves de comunicação/fuga do oponente (ex.: "fragrant flowery words" de wood path, usado para pedir socorro) simplesmente falham (cap. 1485).
+- Fang Yuan usa esse campo, batalhas internas de wisdom path Immortal Gu/killer moves têm efeito reforçado; outros paths (mesmo o do próprio Fang Yuan) sofrem alguma supressão dentro do campo — diferente da sovereign immortal body, que não sofre esse conflito entre paths (cap. 1485).
+
+### Reverse Flow Protection Seal — killer move defensivo
+- Baseado no princípio de Reverse Flow River: reflete de volta contra o atacante os ataques recebidos enquanto ativo — tático decisivo usado por Fang Yuan (via clone de ancient sword dragon) contra You Chan e Qin Bai He; um ataque forte de You Chan foi inteiramente refletido de volta nela mesma (cap. 1486).
+
+### Pactos/alianças de não agressão entre Gu Immortals — mecânica e brecha
+- Um acordo de não-agressão pode ser formalizado via "métodos de information path" de ambos os lados, com cláusula de morte instantânea em caso de violação — esse tipo de cláusula de morte instantânea NÃO pode ser removido pela self cleansing immortal formation de Fang Yuan (que remove dao marks desfavoráveis, mas leva tempo e não afeta regras de morte instantânea) (cap. 1486).
+- Por esse motivo, Fang Yuan recusa-se a fechar esse tipo de pacto quando pretende trair a promessa — prefere lutar até a morte do oponente a ficar vinculado a uma regra que não pode contornar (cap. 1486).
+
+### Retirada/anexação de immortal aperture e blessed land
+- Fang Yuan herdou de Blazing Heaven Demoness (via Shadow Sect) um método para SELAR TEMPORARIAMENTE immortal apertures inteiras e carregá-las consigo, sem precisar processá-las no local (cap. 1487).
+- Método "familiar face" (mudar de aparência para a de um Gu Immortal específico) permite enganar a porta/vontade de um Immortal Gu House que só reconhece o dono — a vontade (will) do dono, presa na estrutura, não desconfia até ser "puxada" para dentro da mente do infiltrador, onde pode ser capturada em batalha mental. Levou 1 dia e 1 noite de esforço para Fang Yuan (mesmo com Immortal Gu e métodos de wisdom path) dominar completamente Bai He Palace dessa forma (cap. 1487).
+- Immortal killer move "Blood Light Spirit Suppression": suprime o land spirit de uma blessed land, permitindo anexação/subjugação forçada mesmo sem cumprir o requisito normal de reconhecimento (cap. 1487).
+- Regra de anexação de blessed land por path: só é possível anexar uma blessed land cujo path corresponda ao attainment do Gu Immortal (Fang Yuan, grandmaster de water path, conseguiu anexar a water path blessed land de You Chan; mas não conseguiu anexar a wood path blessed land de Qin Bai He, apesar de suprimir o land spirit igualmente — teve que deixá-la intacta e apenas fechada/escondida) (cap. 1487).
+- Requisito de reconhecimento de entrada de uma blessed land pode ser hostil e específico: a blessed land de You Chan exigia "matar Fang Yuan" como condição de reconhecimento — ele contorna disfarçando a aparência (cap. 1487).
+- "Winds of assimilation" (fenômeno de dissolução de blessed land morta) NÃO dispara automaticamente com a morte do dono — "nem todos conseguem disparar os winds of assimilation" (condição não especificada, mas confirma que não é automático) (cap. 1487).
+- Blessed lands cujo dono planejava não deixar nada para um assassino: You Chan e Qin Bai He esvaziaram/destruíram os recursos de suas blessed lands antes/durante o confronto, deixando-as vazias para Fang Yuan (cap. 1487).
+
+### City Well — Domínio Recluso do Céu e Terra (4º de Fang Yuan)
+- Fang Yuan já possuía 3 domínios reclusos do céu e terra (secluded domains of heaven and earth): Dang Hun Mountain, Luo Po Valley, Reverse Flow River. City Well é o 4º — feito raro na história dos Gu Immortals (poucos já reuniram 4) (cap. 1489).
+- City Well é mencionado em Legends of Ren Zu como antigo ambiente de vida dos minimen; a "mini cidade" interna já havia sido destruída por Fang Yuan antes, e Miniscule Mountain (que ficava dentro) já havia sido removida e destruída em Northern Plains — mas o City Well atual NÃO está vazio: contém múltiplas immortal apertures/blessed lands de Gu Immortals que Fang Yuan matou usando o próprio City Well no passado (as entradas dessas apertures estão fechadas agora; ele tem blood light spirit suppression para dominar os land spirits, mas falta um item específico — "upper extreme heavenly eagle" — para conseguir entrar de fato) (cap. 1489).
+- Método de relocação: pulling mountain Immortal Gu sozinho era ineficaz contra City Well; Fang Yuan só conseguiu mover o City Well inteiro para dentro de sua sovereign immortal aperture depois de criar um killer move usando pulling mountain Gu como núcleo, potencializado pela light of wisdom, após muito trabalho (cap. 1488).
+
+### Os sete níveis de desenvolvimento de uma immortal aperture (regra formal, "regra de ouro" do mundo Gu Immortal)
+Ordem obrigatória/ótima segundo consenso histórico do mundo Gu Immortal (pular etapas é possível mas desperdiça fundação/eficiência) (cap. 1489):
+1. Estabelecer recursos mortais — produzir mortal Gu, materiais de mortal Gu, bestas e plantas comuns.
+2. Ter recursos de material imortal suficientes para alimentar Immortal Gu.
+3. Criar e produzir bestas e plantas IMORTAIS, completando um ecossistema.
+4. Usar o excedente de materiais/bestas/plantas imortais para comercializar e gerar lucro.
+5. Produzir Immortal Gu NATURALMENTE dentro da própria immortal aperture.
+6. Criar/gerar variant humans e humanos, produzindo Gu Immortals a partir deles.
+7. Produzir lifespan Gu.
+- Fang Yuan está nos níveis 3-4 (ecossistema + comércio) neste ponto, longe do nível 5. Mas City Well permite pular diretamente para o nível 6 (criação isolada de variant humans/humanos sem prejudicar o desenvolvimento da aperture principal) (cap. 1489).
+
+### Human path, human qi e recursos de variant humans/humanos
+- Balancear heaven qi, earth qi e human qi é o ponto crucial da ascensão imortal (processo já descrito em blocos anteriores); quanto maior o human qi acumulado por um Gu Master mortal durante a ascensão, maior sua fundação e melhor a qualidade da immortal aperture resultante (cap. 1489).
+- Após virar Gu Immortal, o uso de human qi cai muito (o foco passa a ser balancear heaven/earth qi), mas human qi continua IMPORTANTE — não é inútil. O método de usar human qi como material de Gu foi amplamente perdido; qi path (mais antigo que strength path, hoje em declínio) tinha métodos exóticos para isso, praticados por pouquíssimos Gu Immortals hoje (cap. 1489).
+- Variant humans e humanos puros produzem human qi; sob as mesmas condições, um humano puro-sangue produz MAIS human qi que um variant human (cap. 1489).
+- Hipótese registrada na herança de Shadow Sect: quanto mais human qi um Gu Immortal acumula, maior a chance de compreender as profundidades do human path (o path criado por Ren Zu) (cap. 1489).
+- Exemplos históricos de comprensão de human path a partir do estudo de Legends of Ren Zu: Giant Sun Immortal Venerable criou "all living beings luck" e "heaven and earth luck" a partir daí; o Ancestor Chai Fu (Southern Border, Chai clan) criou um killer move de human path a partir do mesmo estudo, elevando o Chai clan a super força (cap. 1489).
+- "Fan door wind": material imortal de rank 7 associado a humanos/variant humans — só cresce em portas de casas mortais (nunca na natureza); onde aparece, a porta da casa fica permanentemente impedida de fechar (cap. 1489).
+- As dez raças de variant humans listadas explicitamente: hairy men, rockmen, snowmen, feathermen, mermen, inkmen, eggmen, beastmen, miniman, mushroommen. Beastmen estão EXTINTOS (cap. 1489).
+- Cada raça de variant human produz recurso único e valioso: snowmen → ice tears e snow lotus essence; rockmen → rock dragonx; feathermen → freedom Gu (cap. 1489).
+- Regra prática: só é viável escolher UMA raça de variant human para criar/multiplicar num domínio isolado como City Well por vez — raças diferentes exigem ambientes de vida incompatíveis entre si, misturar causaria perdas (cap. 1489).
+
+### Aptidão D grade — número explícito (relevante para LACUNAS)
+- D grade (a pior aptidão) = 20% a 30% de essência primeva na abertura. Gu Masters D grade raramente passam de rank 1, e quase nunca alcançam rank 2; são considerados sem futuro/potencial, tipicamente no fundo da hierarquia de Gu Masters pela vida toda (cap. 1491). **Isto refina o dado anterior de LACUNAS (item "Shang Xin Ci era D grade 20%, cap. 305") — agora confirmado como uma FAIXA de 20-30%, não um valor fixo único.**
+
+### Dream realm de Thieving Heaven — exploração e mecânica de heaven's will
+- Dream realms muito antigos/expostos por muito tempo acabam sendo invadidos por heaven's will (mesmo padrão do Southern Border dream realm e do dream realm de Starry Sky grotto-heaven, onde heaven's will chegou a assumir a forma de Star Constellation Immortal Venerable para aconselhar/manipular Fang Yuan) (cap. 1490).
+- Fang Yuan usa heaven's will dissipation pela PRIMEIRA VEZ contra um dream realm inteiro (não um Gu isolado) — precisa manter contato físico próximo (mãos a poucos centímetros, nunca tocando — tocar prenderia sua alma dentro, pois ele não tem Pure Dream Reality Seeker Physique). A luz cinza-esbranquiçada se espalha, gera "olhos multicoloridos" que atacam/destroem o heaven's will, mesma mecânica vista antes em Spring Autumn Cicada. Processo levou 3 dias e noites contínuos para eliminar TODO o heaven's will de um dream realm do tamanho de uma montanha; depois disso, Fang Yuan mantém um "véu" permanente de luz cinza ao redor do dream realm para destruir automaticamente qualquer nova tentativa de invasão de heaven's will (cap. 1490).
+- Escala: em ~10 minutos de ativação, a luz já havia coberto cerca de 1/10 do dream realm (tamanho de montanha) — dá noção de proporção temporal do processo (cap. 1490).
+
+### Exploração de dream realm — regras observadas (caso Thieving Heaven)
+- Dentro de segmentos "fixos"/predeterminados da narrativa do sonho (ex.: revivendo a infância/exílio de Thieving Heaven), Fang Yuan atua apenas como vontade PASSIVA — não consegue controlar as ações do corpo que habita, só observa; immortal killer move "unravel dream" NÃO tem efeito nesses trechos (cap. 1491).
+- Regra geral: quanto MAIOR o dream realm, maior seu poder restritivo sobre o explorador (cap. 1491).
+- Após a passagem do trecho fixo (equivalente ao "trauma"/evento fundador do sonho), o controle é liberado a Fang Yuan e ele passa a agir livremente como o próprio Ben Jie Sun (Thieving Heaven) — a partir daqui, "unravel dream" volta a ter efeitos pontuais específicos (ex.: força a saída de um Gu selvagem de um esconderijo) (cap. 1492).
+- Espaço escuro entre cenas do sonho tem efeito CORROSIVO sobre a alma do explorador; Fang Yuan resiste por ter fundação de alma extraordinária (>10 milhões de man soul) (cap. 1492).
+- Morrer dentro do dream realm (ex.: de sede, no deserto) causa ferimento severo à alma do explorador e o expulsa de volta ao corpo real — não é uma morte permanente, mas custa recursos de cura (guts Gu confirmado, de novo, como melhor recurso de suporte para cura de alma pós-exploração de dream realm) (cap. 1492).
+- O resultado de cada tentativa de sobrevivência no deserto do sonho parece depender de sorte/direção escolhida — métodos de luck path do próprio Fang Yuan NÃO funcionam dentro do dream realm; ele especula que só um killer move ou Immortal Gu HÍBRIDO de dream path + luck path teria efeito ali (cap. 1492).
+- Revelação: Thieving Heaven Demon Venerable nasceu mortal chamado Ben Jie Sun, é um otherworldly demon (transmigrado de outro mundo) assim como Fang Yuan; nasceu com aptidão D grade; foi expulso/exilado da tribo por reclamar em voz alta durante a cerimônia de despertar (regra do ritual: reagir com emoção audível = punição severa, inclusive exílio, que geralmente significa morte para um jovem mortal) (cap. 1491-1492).
+
+### Hierarquia de attainment (path mastery): grandmaster → great grandmaster → supreme grandmaster (definição formal completa)
+- **Grandmaster**: compreende yin-yang e céu-terra, entende a profundidade do universo; consegue usar o próprio path para IMITAR especialidades de outros paths. Ex.: "hundred years harmony" (killer move de time path de Hei Fan) consegue produzir efeito de information path. Tempo típico de acúmulo: centenas de anos (cap. 1501).
+- **Great grandmaster**: entendimento quase COMPLETO de um path — "decifrou quase tudo" sobre ele. Exs.: Blazing Heaven Demoness (fire path great grandmaster) tinha sensibilidade extrema a dao marks de fire path, conseguia implantar uma marca de fire path em qualquer material imortal de fire path; Old Ancestor Xue Hu (rank 8, snow path great grandmaster) consegue desmontar QUALQUER immortal killer move na hora — demonstrado na batalha de Reverse Flow River contra Heavenly Court, ganhando vantagem ao desmontar seu próprio battlefield killer move; um formation path great grandmaster consegue montar immortal Gu formations usando diretamente os dao marks naturais do mundo, precisando só de alguns mortal Gu. Tempo típico: 1.000 a vários milhares de anos; vários rank 8 Gu Immortals têm esse nível (cap. 1501).
+- **Supreme grandmaster**: vai além do great grandmaster — INOVA, obtém mistérios do path que NÃO EXISTIAM antes no mundo ("um passo à frente do céu e da terra"). Não é alcançável só por tempo/acúmulo — exige talento e aptidão natural excepcionais; mesmo vivendo 10 mil anos, sem talento não se chega lá. Raríssimo desde os tempos antigos. Os dez venerables são TODOS supreme grandmasters. Outros supreme grandmasters nomeados: os três supreme grandmasters de refinement path — Long Hair Ancestor, Old Eccentric Tian Nan, Old Immortal Kong Jue (cap. 1501).
+- **Regra crucial sobre dream realms como fonte de attainment**: dream realms de um venerable PODEM elevar attainment até great grandmaster (pois são heranças/legados deixados por um predecessor), mas NUNCA até supreme grandmaster — porque supreme grandmaster exige criar algo inédito, e um dream realm por definição só contém o que já foi vivido/criado pelo predecessor (cap. 1502).
+
+### Exploração do dream realm de Thieving Heaven — mecânica avançada (multi-estágio, reativo)
+- Diferente de todos os dream realms que Fang Yuan já explorou, o de Thieving Heaven é "realista" (restaura literalmente a vida do próprio Thieving Heaven Demon Venerable) e é REATIVO/MUTÁVEL: as escolhas de Fang Yuan dentro do sonho podem desviar o curso da narrativa onírica, e desvios acumulados poderiam alterar o desfecho final — algo que Fang Yuan nunca via em dream realms fixos/roteirizados anteriores (cap. 1497).
+- O dream realm é dividido em ESTÁGIOS discretos (1º, 2º, 3º...), cada um terminando com um "apagão" de escuridão corrosiva que expulsa a alma do explorador de volta ao corpo físico quando o estágio é concluído (cap. 1494, 1501-1502).
+- Corrosão de alma escala por estágio: 1º estágio custou a Fang Yuan cair de 10 milhões para ~9 milhões, depois mais corrosão dentro do próprio estágio derrubou pela metade (cap. 1493), terminando com o estágio custando algo como a maior parte da fundação; recuperado a 10 milhões via guts Gu antes do 2º estágio. O 2º estágio (mais longo que o 1º) foi ainda mais corrosivo: começando em 90 milhões de man soul, terminou com pouco mais de 1 milhão (quase caindo a 100 mil) (caps. 1495, 1501-1502).
+- Recompensa por completar um estágio: attainment em theft path (o path de Thieving Heaven) sobe um degrau inteiro de uma vez. 1º estágio → grandmaster; 2º estágio → quasi-great grandmaster (um passo abaixo de great grandmaster) (caps. 1494, 1501).
+- Controle do corpo dentro do sonho é INTERMITENTE: Fang Yuan só assume o controle do corpo de young Thieving Heaven em momentos de perigo/crise ou combate; no resto do tempo é só espectador passivo, sem poder agir (cap. 1493, 1497).
+- Immortal killer move "unravel dream" (recurso-chave de Fang Yuan em outros dream realms) é quase INEFICAZ neste dream realm específico durante os trechos fixos/narrativos, mas funciona pontualmente em situações específicas de sobrevivência livre (ex.: forçar a saída de um Gu selvagem de uma toca) — Fang Yuan considera isso um grande handicap aqui (caps. 1491-1492, 1498).
+- Regra geral (declarada por Fang Yuan): quanto maior o dream realm, maior seu poder restritivo sobre o explorador (cap. 1491).
+- Motivo estratégico de Fang Yuan ajudar young Thieving Heaven a vencer a competição do clã dentro do sonho: quanto mais forte/influente o "avatar" ficar dentro da narrativa onírica, maiores as recompensas subsequentes e mais fácil a exploração continua do dream realm — evidência de que o desempenho do jogador dentro do sonho afeta o "loot"/progressão disponível nos estágios seguintes (cap. 1498).
+- Colaboração Fang Yuan + Tang clan sobre Thieving Heaven's dream realm: Fang Yuan tem um "limite de estômago" (soul foundation finita) — não consegue devorar/explorar o dream realm inteiro sozinho, sempre sobra parte para Tang clan continuar. Esse argumento foi o que convenceu Tang clan a cooperar de boa fé (cap. 1502).
+- Corpo físico de Fang Yuan fica desprotegido enquanto sua alma explora o dream realm — por isso ele traz Shadow Sect Gu Immortals para vigiar seu corpo, e negocia com Tang clan para que o controle da formação de contenção do dream realm seja DIVIDIDO entre Shadow Sect e Tang clan (nenhum dos dois lados consegue agir sozinho contra Fang Yuan) (cap. 1491).
+
+### Backstory revelada: Thieving Heaven / Ben Jie Sun e Sha Xiao
+- Jovem Thieving Heaven (Ben Jie Sun) tem aptidão D grade (20-30% de essência primeva); é expulso pelo clã aos poucos anos por causa de baixo valor econômico esperado, resgatado de lobos por sorte.
+- Sha Xiao: velho Gu Master do mesmo clã que descobre o mapa de pele de carneiro (sheepskin map) do jovem Thieving Heaven e o escraviza via tortura + killer move de apodrecimento corporal (corrói carne/pele como ácido, reversível pelo próprio Sha Xiao) — obriga o garoto a chamá-lo de "vovô" e executar tarefas sob ameaça de morte lenta (cap. 1493-1494).
+- Método de transferência de conhecimento de Sha Xiao: consegue implantar diretamente na mente da vítima um pacote de conhecimento (técnicas de luta, receitas de Gu, um killer move completo) em apenas 9 respirações, processo extremamente doloroso (cap. 1496).
+- Mortal killer move "Blurred Grey Eyes" (transmitido por Sha Xiao): usa sandpit Gu + chimney smoke Gu + clear water Gu, 8 passos; libera cinza branca que cega o alvo ao cobrir os olhos; jogar ÁGUA na cinza a esquenta e QUEIMA os olhos, causando cegueira permanente — regra de "não lavar com água" (cap. 1496).
+- "Sneak Attack Gu" (rank 2): criado num refino improvisado e caótico. Receita original de Sha Xiao exigia sacrificar o corpo de um bebê morto (não assassinado, morte natural) como material — young Thieving Heaven se recusa a matar mas aceita usar um bebê já morto por causas naturais. Sabota deliberadamente o refino (deixando o fogo descontrolar) para tentar falhar "sem culpa", mas o corpo do bebê tinha uma constituição anômala e o refino sai do controle, quase matando o corpo hospedeiro; Fang Yuan assume o controle no momento crítico e estabiliza tudo alimentando sequencialmente sandpit Gu, depois chimney smoke Gu, depois clear water Gu no fogo anômalo, finalizando ao cuspir seu próprio sangue no resultado ("usar sangue para integrar yin e yang") — cristalizando um Gu NOVO e não planejado a partir da combinação acidental (cap. 1499-1500).
+- Efeito de Sneak Attack Gu: manifesta-se como um fantasma de bebê azul velocíssimo que atravessa defesas físicas e ataca de DENTRO do alvo/objeto (demonstrado destruindo um banco de pedra por dentro, sem dano visível externo até o toque). Consumo de essência: apenas 10% de green copper primeval essence (rank 1) por uso — extremamente eficiente para um Gu de rank 2. Um usuário D grade (20-30% de essência total) só consegue usá-lo 2 vezes (cap. 1500).
+- Regra econômica de equipagem em massa de Gu por facções/clãs (raciocínio explícito de um líder de clã): rank 1 é fraco demais para valer a pena produzir em massa; rank 3 é caro/difícil de sustentar em escala (poucos Gu Masters rank 3 disponíveis); RANK 2 é o "ponto ideal" — forte o bastante e barato o bastante para armar um exército inteiro (cap. 1501).
+- Regra de extração de receita de um Gu Master talentoso mas vulnerável, do ponto de vista de uma facção: evitar coerção direta (arriscaria o alvo entregar uma receita incompleta/adulterada, ou preferir a morte); a estratégia ótima é seduzir/cortejar (presentes, convites, ofertas de casamento) até que ele entregue a receita voluntariamente (cap. 1501).
+- "Hidden nature" (natureza oculta) de young Thieving Heaven: sob perigo mortal ou situações de combate/crise, manifesta intuitivamente escolhas cruéis/astutas/vencedoras (sneak attacks, blefes), contrastando com sua personalidade consciente honesta e íntegra — interpretado no universo como um traço latente de talento involuntário, mecanismo narrativo que casa com o Fang Yuan estar de fato no controle nesses momentos (mas o dream realm atribui as ações ao próprio Thieving Heaven quando ele "desperta") (caps. 1496-1498).
+
+### Produção de guts Gu — dependência de estoque de almas
+- Guts Gu não surgem "do nada": Dang Hun Mountain (agora dentro de Lang Ya blessed land, sob supervisão de Lang Ya land spirit) precisa de ALMAS como matéria-prima contínua para produzir guts Gu; quanto maior a quantidade/qualidade das almas fornecidas, maior a produção. Quando o estoque de almas se esgota (ex.: Shadow Sect parou de caçar desolate beasts em Tai Qiu por estarem viajando com Fang Yuan), a produção de guts Gu trava, mesmo com o secluded domain disponível (cap. 1502).
+
+### Mapas físicos (sheepskin map) vs. Gu de information path
+- Guardar segredos em um mapa físico de pele (sheepskin map) em vez de um Gu worm de information path é tratado no mundo como incomum e mais arriscado (perda física, dano, etc.), mas tem a vantagem de ser indetectável por métodos que rastreiam auras de Gu — um Gu Master de alto status escondeu seu mapa costurado dentro da roupa por esse motivo (cap. 1493).
+
 ## 2. Gu catalogados
 | Nome | Rank | Path | Efeito | Alimento | Cap. |
 |---|---|---|---|---|---|
+| Wealth Gu | lendário (não-ranqueado no texto) | — (múltiplos materiais) | Transforma-se em qualquer material/minério do mundo; não pode virar seres vivos | água do mar azul/humanos, worry/difficulty/sadness/stupidity/wisdom Gu | 1473-1475 |
+| Heavenly Secret Gu ⭐ | 7 | refinement/wisdom | Núcleo de killer moves "exposing heavenly secret" (prevê conteúdo de tribulações) e "heaven's will dissipation" (elimina heaven's will de um alvo selado) | — | 1475-1476 |
+| Spring Autumn Cicada ⭐ | 6 (elevando para 7) | time | Vital Gu de Fang Yuan; permite rebirth sacrificando tudo, movendo a vontade rio acima no Rio do Tempo; atrai má sorte constante ao dono; agora purificado de heaven's will | — | 1477, 1479-1482 |
+| Eat Fragrance | 6 | food | Sozinho é "inútil": permite ao Gu Immortal comer qi de fragrância para saciar a fome; combinável com outros Gu de food path para efeitos úteis | qi de fragrância | 1487 |
+| Cool Wind Gu | mortal | (vento/wind, não nomeado formalmente) | Gu selvagem em forma de peixe alado; vive em tocas subterrâneas com corrente de ar frio | — | 1492 |
+| Sneak Attack Gu | 2 | (criado por acidente, sem path definido claramente — ligado a fogo/água/terra) | Manifesta-se como fantasma de bebê azul velocíssimo que atravessa defesas físicas e ataca de dentro do alvo; consome só 10% de green copper primeval essence (rank 1) por uso | sangue (na criação) | 1499-1500 |
+| Sandpit Gu | mortal, rank 1 | terra | Cria um buraco de areia instantâneo no chão (armadilha) | — | 1492-1500 |
+| Chimney Smoke Gu | mortal | fogo/fumaça | Gera fumaça densa; originalmente usado para defumar comida, reaproveitado como cortina de fumaça de combate | — | 1492-1500 |
+| Clear Water Gu | mortal | água | Produz água limpa | — | 1492, 1500 |
 
 ## 3. Mundo e sociedade
 
+### Myriad ore desert e Shi clan (Western Desert)
+- Deserto de terreno rochoso rachado sem vegetação na superfície, mas com uma mina subterrânea gigantesca cheia de minério natural, controlada pela super força Shi clan; ~100 mil rockmen (variant humans) trabalham como mineiros extraindo materiais mortais; materiais imortais precisam ser extraídos por Gu Immortals (cap. 1474).
+- Materiais notáveis do local: subterranean adamantite (material imortal rank 6 mais duro que existe); dark inkstone (nem as garras do ancient sword dragon conseguem arranhar) (cap. 1474).
+- Sob o deserto corre um "gold fragment river current" — rio metálico remanescente de um fragmento de Immemorial Yellow Heaven que caiu ali; dissipou-se lentamente ao longo de eras, e seus dao marks residuais transformaram a região no deserto de minérios atual. A Mini Yellow Heaven de Fang Yuan tem um "gold fragment current" próprio, mas muitíssimo menor (comparado a "uma formiga") (cap. 1474). Uma formação Immortal Gu monitora o deserto e controla os rockmen dentro desse rio (cap. 1474).
+- Shi Zhong: Gu Immortal rank 7 do Shi clan, ostracizado desde jovem por causa da traição histórica do pai (que causou grandes perdas ao clã); trocou de nome para expressar lealdade; foi designado a guardar essa fronteira perigosa e pouco lucrativa (região cercada por inimigos do clã, mas com pouca chance de desvio de recursos por monitoramento rígido da formação) (cap. 1474).
+
+### Estrutura política / conjuntura pós-noivado
+- Após o noivado com Xue Er, Fang Yuan (humano puro-sangue) passa a ser mais aceito no círculo de Gu Immortals variantes, antes desconfiado por natureza; reputação/status sobem drasticamente ao expor batalha de rank 8 (cap. 1473).
+- Treasure yellow heaven é território neutro que nem Heavenly Court consegue controlar/tomar — até rank 6 ousam desafiar rank 8 comercialmente ali sem represália direta (cap. 1473).
+
 ## 4. Economia e vida cotidiana
+(ver seção 1 "Estratégia comercial em treasure yellow heaven" e "Dragonfish" para mecânica detalhada)
+- Gu Immortals fortes/experts com muitos Immortal Gu têm o problema recorrente de alimentá-los; food path true inheritances são extremamente cobiçadas por esse motivo — vários rank 8 tentaram comprar a herança de food path de Fang Yuan diretamente via divine sense em treasure yellow heaven; ele recusou todos para não fortalecer futuros inimigos (cap. 1478).
 
 ## 5. Estudos de caso mecânicos
 
+### Caso: Refino de Wealth Gu por substituição de materiais extintos (cap. 1473-1475)
+Ver seção 1. Shi Zhong usa humanos escravizados como substituto ritual de "água do mar azul" e "mãos de Ren Zu"; 89 falhas; cada falha produz sangue que se solidifica em joias/minério (efeito colateral observável de progresso/refino malsucedido).
+
+### Caso: Refino paralelo de Spring Autumn Cicada (cap. 1479-1480)
+Ver seção 1, subtítulo "Refino em paralelo". Método de 6 etapas com materiais específicos; primeiro caso documentado de fusão bem-sucedida de "elevar rank" + "remover heaven's will" num único processo de refino.
+
+### Caso: Split soul + clone passando por tribulação fora da aperture (cap. 1480-1481)
+Ver seção 1. Demonstra custo em soul foundation (10M→9M man soul) e as limitações de cultivo (conflito de dao marks) resultantes de um clone criado por split soul sem sovereign immortal fetus Gu próprio.
+
 ## 6. Glossário
+- Wealth Gu (Gu da Riqueza) — Gu lendário de Legends of Ren Zu, transmuta matéria em qualquer material inanimado do mundo.
+- Myriad Gold Wondrous Essence Physique (Físico Miríade de Essência Dourada Maravilhosa) — uma das Dez Extreme Physiques; possuída secretamente por You Chan.
+- Heavenly Light Ring (Anel de Luz Celestial) — killer move de refinement path usado para refinar heavenly secret Gu, 7 rotações.
+- Exposing Heavenly Secret (Expor o Segredo Celestial) — killer move que usa heavenly secret Gu para prever conteúdo de tribulações/calamidades futuras.
+- Heaven's Will Dissipation (Dissipação da Vontade Celestial) — killer move de wisdom path que ataca/elimina heaven's will de um alvo selado por ele.
+- Seven Kill Blood Path Gu Refinement Method (Método de Refino de Gu do Caminho do Sangue das Sete Mortes) — técnica de Lang Ya Sect, mata 7 desolate beasts para gerar pilar de sangue usado no refino.
+- Hundred Flowers Concentrate (Concentrado das Cem Flores) — material processado de ~12 tipos de flores, usado como "chuva" fundente no refino de Spring Autumn Cicada.
+- Golden Cloud Divine Wood (Madeira Divina de Nuvem Dourada) — material imortal usado no refino de Spring Autumn Cicada.
+- Purple Star Urchin (Ouriço-Estrela Roxo) — material imortal raro, libera "starlight" instável durante o refino; seus espinhos ficam incorporados na aperture.
+- Thousand Face Human Rock (Rocha das Mil Faces Humanas) — material imortal esculpido com rostos humanos, usado para extrair heaven's will de um Gu selado.
+- Refinement Snake Lifespan Flower ("Moving of a single thought, blossoming of the red snake") — killer move de refinement path criado por Sixth Hair a partir de método incompleto de Lang Ya Sect; envolve karma de rule path; custa lifespan (tatuagens de serpente vermelha avançam pelo corpo até a cabeça = morte); aumenta muito a capacidade de refino path enquanto ativo.
+- Strength Reversing Life and Death (Reversão de Força de Vida e Morte) — killer move de Fang Yuan (modificado do nirvana fire de Blazing Heaven Demoness) que reverte um zumbi imortal de volta à forma humana viva.
+- Years Pass Like Days (Anos Passam Como Dias) — killer move de time path que acelera a vazão do Rio do Tempo dentro de uma immortal aperture.
+- Spring Autumn Blessed Land (Terra Abençoada Primavera-Outono) — blessed land de grau alto de time path formada a partir da primeira abertura do clone de Fang Yuan após a tribulação.
+- Copper Dragonfish / Iron Dragonfish (Peixe-Dragão de Cobre / Ferro) — raças derivadas de dragonfish, obtidas por seleção via formação de food path, com maior proporção de dao marks de food path.
+- Myriad Ore Desert (Deserto de Minérios Miríades) — território do Shi clan em Western Desert, rico em minérios raros, com um "gold fragment river current" subterrâneo.
+- Purple Star Broken Life — immortal battlefield killer move de wisdom path de Fang Yuan, oculta rastros e isola o campo do mundo externo.
+- Reverse Flow Protection Seal — killer move defensivo baseado em Reverse Flow River, reflete ataques recebidos contra o atacante.
+- Blood Light Spirit Suppression — immortal killer move que suprime o land spirit de uma blessed land para facilitar subjugação/anexação.
+- City Well (Poço da Cidade) — um dos "secluded domains of heaven and earth" (domínios reclusos do céu e terra); antigo lar dos minimen segundo Legends of Ren Zu; 4º domínio de Fang Yuan.
+- Human path (caminho humano) — path fundado por Ren Zu; sua profundidade se relaciona ao acúmulo de human qi.
+- Human Qi (Qi Humano) — um dos três qi (junto de heaven qi e earth qi) relevantes à ascensão imortal; produzido por humanos e variant humans; usos pós-ascensão raros hoje.
+- Fan Door Wind (Vento da Porta do Leque) — material imortal rank 7 que só cresce em portas de casas mortais, impede a porta de fechar.
+- Upper Extreme Heavenly Eagle — item/chave (não detalhado ainda) necessário para abrir as blessed lands seladas dentro de City Well.
+- Ben Jie Sun — nome mortal de Thieving Heaven Demon Venerable antes da ascensão; otherworldly demon (transmigrado).
+- Unravel Dream — immortal killer move de Fang Yuan para escapar/alterar dream realms; eficácia variável conforme o tipo de segmento do sonho.
+- Grandmaster / Great Grandmaster / Supreme Grandmaster — os três níveis de attainment (maestria de path) acima do "expert" comum, em ordem crescente de raridade e poder; ver seção 1 para definições completas.
+- Sha Xiao — Gu Master antigo do dream realm de Thieving Heaven, antagonista/algoz do jovem Ben Jie Sun.
+- Blurred Grey Eyes — mortal killer move (sandpit + chimney smoke + clear water Gu) que cega o alvo com cinza branca; água ativa dano térmico adicional.
+- Quasi-Great Grandmaster — grau intermediário nomeado explicitamente entre grandmaster e great grandmaster (um "quase lá").
+- Old Ancestor Xue Hu — Gu Immortal rank 8, snow path great grandmaster, capaz de desmontar qualquer immortal killer move; atuou na batalha de Reverse Flow River contra Heavenly Court.
+- Long Hair Ancestor / Old Eccentric Tian Nan / Old Immortal Kong Jue — os três supreme grandmasters de refinement path conhecidos na história.
 
 ## 7. Dúvidas e lacunas
+- Item de LACUNAS sobre limiares percentuais de aptidão/rank: nenhum número novo neste sub-bloco (1473-1482); só um dado indireto: sovereign immortal aperture de Fang Yuan está em 4% de desenvolvimento (não é limiar de transição de rank, é "progresso" de uma aperture soberana específica) (cap. 1481).
+- Contagem de Ten Extreme Physiques avança: Myriad Gold Wondrous Essence Physique (You Chan) é citada como "uma das dez" — checar se já apareceu antes noutro nome/bloco; се não, é a 5ª nomeada até agora (cap. 1473).
+- Regra "vital Gu sobrevive a falha de refino, exceto se o dono morre durante o refino" (cap. 1481) é nova e explícita — não estava nas notas anteriores; útil para o rascunho de mecânicas de Gu.
+- Novo item de estudo de caso mecânico do mundo: os "sete níveis de desenvolvimento de immortal aperture" (cap. 1489) é uma tabela formal e explícita nunca antes registrada nas notas anteriores — recomendo priorizar essa síntese no rascunho de cultivo-imortal.md.
+- **Grande achado para LACUNAS**: os caps. 1501-1502 fornecem pela primeira vez uma definição FORMAL e COMPLETA da hierarquia grandmaster → great grandmaster → supreme grandmaster, incluindo tempos típicos de acumulação (centenas de anos / 1.000-vários milhares de anos / não alcançável só por tempo) e a regra de que dream realms (heranças) têm TETO em great grandmaster, nunca chegam a supreme grandmaster. Isso não estava explícito nas notas de blocos anteriores — checar se `paths.md` ou `cultivo-imortal.md` já tinham esse dado; se não, é atualização prioritária.
+- Pendência aberta no próprio texto (não resolvida ainda): por que wisdom Gu (que na lenda de Ren Zu é hiperinteligente, capaz de enganar o próprio Ren Zu) mostrou comportamento "burro"/hesitante ao quase não reconhecer o clone de Fang Yuan? O próprio Fang Yuan questiona se é só porque Legends of Ren Zu é "história" (mito) vs. realidade (cap. 1481) — possível gancho para desenvolvimento futuro do Gu.

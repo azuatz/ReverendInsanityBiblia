@@ -26,7 +26,7 @@
 
 - Limite de reuso de Gu reutilizáveis (cap. 2) e o "preço extremamente pesado" de usar Gu acima do rank (cap. 8) — exemplos parciais no cap. 112; o V2 firmou a regra de compatibilidade (caps. 200-202, 226, 326) sem novo caso de "forçar acima do rank".
 - ~~Material da parede da abertura no estágio pico~~ ✅ RESPONDIDO (V2): membrana de cristal (caps. 230, 273, 312); no avanço de rank ela colapsa "como iceberg" (cap. 331).
-- **% mínima de essência para transições de rank além da 1→2 (55%)**: TODO o Volume 2 (caps. 200-405) passou sem novos limiares percentuais. Dado indireto: mar a 90% não bastou para 3→4 sem influxo externo (cap. 331). PRIORIDADE de atenção nos próximos blocos.
+- **% mínima de essência para transições de rank além da 1→2 (55%)**: TODO o Volume 2 (caps. 200-405) passou sem novos limiares percentuais. Dado indireto: mar a 90% não bastou para 3→4 sem influxo externo (cap. 331). **TODO o Volume 4 (caps. 650-1021, 372 capítulos) também passou sem NENHUM limiar novo** (varredura explícita bloco a bloco pelos leitores) — o V4 se passa no reino imortal, onde o critério de avanço é temporal/de provações (300 anos + 3 tribulações por rank, caps. 740, 826, 1007), não percentual. PRIORIDADE MANTIDA para o V5 e para a pesquisa externa.
 - Potência relativa das essências rank 4+ (multiplicadores numéricos): V2 só deu cores/estágios (r4 light gold→bright golden, cap. 344; r5 light/violet/deep/crystal purple, cap. 379) e o qualitativo "diferença significativa, compensável por aptidão de recuperação" (cap. 313).
 - Mecanismo da "segunda caverna secreta" (cap. 86) e da camuflagem de Gu de rank alto em inspeções — sem novidade no V2 (breath concealment Gu oculta AURA; mecanismo distinto).
 - Critério de disparo do "contra-ataque" de Gu no refino (cap. 18-19).
@@ -68,8 +68,8 @@
 18. **Proporção de fluxo de tempo por blessed land**: 1:5 (Hu Immortal) × 1:20 (Imperial Court) × 1:33 (nova de grade alta) — aparentemente variável por terra/grade, não contradição; formalizar regra.
 19. **Anomalia do ink transformation**: Fang Yuan usou 5 vezes com recursos para 1-2 e o próprio texto estranha (cap. 579) — gancho deliberado? Monitorar.
 20. **Como um mortal com physique extrema suprime 4 Immortal Gu simultâneos** (cap. 649) — mecanismo não explicado.
-21. **Cura da zumbificação total** (Six Arm Heavenly Zombie King): NÃO existe até o cap. 649; o protagonista ficou zumbi permanente — acompanhar como isso interage com o cultivo futuro.
-22. **Dream Wings Gu**: por que é exceção à regra "todo Immortal Gu consome essência imortal"? (cap. 407) — e agora também Immortal Gu ativáveis só por vontade (cap. 624); há uma categoria formal?
+21. ~~**Cura da zumbificação total**~~ ✅ RESPONDIDO (V4): cardápio completo de métodos de revival (possessão, re-ascensão com physique, Nirvana Fire, life-and-death aperture etc.). → transformacoes-e-corpos-especiais.md.
+22. ~~**Dream Wings Gu — exceção de custo**~~ ✅ RESPONDIDO (V4): design deliberado (exploração de dream realms por não-imortais, cap. 911); categoria informal de Immortal Gu com custos alternativos confirmada (Attitude Gu = energia mental, cap. 974).
 23. **Wooden chicken Gu** (Immortal): efeito nunca revelado (caps. 587, 630).
 24. **Destino do Gu levado por uma Formless Hand** que expira (caps. 633-634).
 25. **"Space cave" (canal dos moving perspective cups) × "Space Door" (alvo do Space Escape Gu) × Door of Life and Death**: mesmo lugar, lugares ligados ou distintos?
@@ -80,8 +80,45 @@
 30. **Limite de guts Gu para uma alma comum** (não temperada) antes de "inflar" — sem número (cap. 411).
 31. **Poison vow Fang Yuan × Bai Ning Bing** (item V2 nº 44): V3 mostra Bai Ning Bing viva, aliada temporária da Shadow Sect por Sea Oath para matá-lo (cap. 468) — o voto antigo segue sem status claro.
 32. **Top Ten Catastrophes**: só 2 nomeadas (Snow War Tribulation Lightning, Chaotic Branching Teeth); faltam ~8 (caps. 623, 627).
-33. **10º Venerável** não nomeado; status da profetizada Great Dream Immortal Venerable (cap. 461).
+33. **10º Venerável** não nomeado; status da profetizada Great Dream Immortal Venerable (cap. 461). → segue aberto; ver item 35 (candidato V4: Limitless Demon Venerable).
+
+## Respondidos na leva do Volume 4 (caps. 650-1021)
+
+- ✅ **Fate escapees — termo, definição e mecanismo** (era "monitorar" desde o V3): status mecânico nomeado — ser que a heaven's will não controla por completo; vias: otherworldly demon (no caso de Fang Yuan, especificamente a POSSE do Spring Autumn Cicada, cap. 1017), **contágio por associação prolongada** com um otherworldly demon (Hei Lou Lan/Tai Bai Yun Sheng, cap. 1019) e zumbis em geral (cap. 780); efeito: imunidade parcial a mecanismos do céu (Earth Collapse não os afetou); a Heavenly Court os caça ativamente ("ciclo virtuoso" com o reparo do Fate Gu, cap. 956); **blessed lands/apertures escapam da varredura** da Heaven Overseeing Tower (caps. 780, 986-987, 1019). → mundo-e-cosmologia.md. O CRITÉRIO exato/limite do contágio segue aberto (abaixo).
+- ✅ **Attitude Gu** (mistério desde o V1, cap. 59/87): rank 8; núcleo do familiar face; altera a percepção MENTAL da identidade (não os olhos); engana vontades residuais dentro de Gu alheios; ativa só com energia mental (caps. 948-949, 974-976, 1019).
+- ✅ **Ghostly Concealment** (aberto desde cap. 991): oculta o portador da detecção de fantasmas e ALMAS (cap. 1020).
+- ✅ **Tabela de calamidades/tribulações por rank** (pedida desde o V2): completa — r6: earthly /10 anos + heavenly /100, 300 anos → r7; r7: +grand /100, 300 anos → r8; r8: sem earthly, heavenly /10, grand /50, myriad /100, 3 myriad → r9; contadas no tempo INTERNO da aperture (caps. 740, 745, 826, 1007). Só os 10 Veneráveis passaram 3 myriad tribulations (fecha a definição de Venerável). → cultivo-imortal.md.
+- ✅ **Attainment levels/realms formalizados**: 5 graus (ordinary → master → grandmaster → great grandmaster → supreme grandmaster, com "quasi-"), efeitos por grau, raridades, e a regra "só dream realm transfere attainment" (soul search não transfere) (caps. 687, 810, 916, 937). → paths.md.
+- ✅ **Cura da zumbificação / revival de zumbi imortal** (item 21 do V3): existe um cardápio inteiro — possessão, re-ascensão com extreme physique, Nirvana Fire (reversível), life-and-death aperture (-50% tribulação, uso único), Man as Before (mortos recentes), Resurrection From The Dead (pesquisa) — todos com custos pesados. → transformacoes-e-corpos-especiais.md.
+- ✅ **Item 22 (exceções de custo de Immortal Gu)**: categoria confirmada — Dream Wings não consome essência por DESIGN (ideal para não-imortais, cap. 911); Attitude Gu só energia mental (cap. 974); Spring Autumn Cicada come o rio do tempo (cap. 672).
+- ✅ **Grades de blessed land quantificadas** (item do V2, parcial no V3): tabela completa com km², contas/ano e grade SUPER (Ten Extreme ascension) (caps. 690, 939). → cultivo-imortal.md.
+- ✅ **Dao marks → poder com número**: 100 marks ≈ +10% (cap. 852); ressonância de path 130% / 60-70% (cap. 758); dano com dao marks imune a regeneração comum (caps. 685, 716-718). → cultivo-imortal.md.
+- ✅ **Taxas de refino de Immortal Gu por rank**: <1% (r6), 0,1% (r7), 0,01% (r8) (cap. 860); success dao marks como única garantia (≤r6) (caps. 843-847). → gu-sistema.md.
+- ✅ **Item 29 (wolfman soul ×3 — regra geral?)**: padrão confirmado como família de almas compostas (crabman/eagleman análogos; conversão por % — V3/V4); a escala "X man soul" segue comparável entre paths.
+- ✅ **"Immortal Court" × Heavenly Court** (item V2): Heavenly Court confirmada como SUSERANA das dez seitas de Central Continent, com credo, critérios de ingresso e exclusão de variant humans (caps. 911, 954-956, 871); a relação nominal com o "Immortal Court" do Longevity Heaven segue a esclarecer.
+- ✅ **Mecanismo de manutenção periódica de blessed land** ("retorno à região de origem", V4 caps. 702, 730): absorção periódica de heaven/earth qi (analogia do bonsai).
+- PARCIAL **item 25 (Space cave × Space Door × Door of Life and Death)**: seguem locais distintos; novo dado — a obsessão de Long Hair Ancestor liga o space escape Gu a um "Great Dream Immortal Venerable" (cap. 879); porta da vida e da morte detalhada (3 obstáculos, 2 já removidos, caps. 1010, 1016).
+
+## Contradições/pendências novas do Volume 4
+
+34. **PRIORIDADE — critério exato de fate escapee**: o que qualifica (nascer fora do fated path? interferência temporal? associação — com que intensidade/duração?); se o "puxão" do Fate reparado alcança quem já morreu no destino original; se Divine Concealment é a única proteção. (caps. 948, 956, 1019)
+35. **PRIORIDADE — 10º Venerável**: segue não nomeado. Candidato novo: **Limitless Demon Venerable** (rule path, cap. 937) — citado sem confirmação de pertencer aos dez. Conferir também se "Verdant Great Sun" (alma no Obsession Death Domain, cap. 1010) é só o filho mítico de Ren Zu.
+36. **PRIORIDADE — rule path segue sem definição formal**: só exemplos (Become Real, Small/Disintegrate, Death Sentence Awaits) + dao marks prateados + "life and death dao marks" como subtipo (caps. 861, 984, 994).
+37. **Identidade e motivo do "rosto fantasma"/lótus vermelha no rio do tempo** (cap. 970): Red Lotus, resíduo, ou terceiro? Por que salvar aquele viajante? A regra derivada (falha resgatada = salto curto ~1 ano) é geral?
+38. **Escala de attainment é universal a todos os paths?** (nomenclatura completa só confirmada em refinement/formation, cap. 937.)
+39. **Como Qin Bai Sheng arranca Immortal Gu de uma House fundida sem autodetonação** (cap. 884) — exceção à regra do roubo.
+40. **"Land spirit não consegue mentir"** — regra universal ou peculiaridade de Lang Ya? (cap. 880)
+41. **Denominações de essência imortal**: hierarquia green grape < red date < white litchi < yellow apricot fechada por rank — mas a TAXA de conversão entre denominações nunca foi dada (caps. 703, 1007).
+42. **"Top ten mystical Gu"** corrente (Qi Escape 4º, Cicada 7º, Star Eyes 10º) × listas do V1-V3 (item 9) — seguem não conciliadas.
+43. **Número de success dao marks para r7/r8** ("mais de um", cap. 845) e se a Infallible inheritance é mesmo replicável (cap. 862).
+44. **Mecanismo do breakthrough por zumbificação voluntária** (Blazing Heaven Demoness, cap. 743).
+45. **Zumbi imortal mantendo seres vivos na aperture morta** (Dragon Commander Ye Cha, cap. 933) — pista não explicada (life-and-death aperture?).
+46. **Se todo dream realm nasce de vítimas presas** (ciclo) ou também de sonhos comuns (caps. 722, 730); limite de vínculos do Connect Luck; teto da ressonância de path (>130%?).
+47. **Por que o guts Gu (mortal) cura almas "blindadas"** que exigiriam métodos imortais — anomalia declarada (cap. 808).
+48. **Faixa numérica da grade "high" de blessed land** (entre 4.000 e 6.700 km² — extremos exatos divergem levemente entre caps. 690, 826 e 939; adotadas as faixas do cap. 939 + 690).
+49. **Sobrou algo da Zombie Alliance** após o sacrifício mundial (caps. 1008-1009)? E o objetivo final do plano de 100 mil anos da Shadow Sect contra o céu (cap. 958)?
+50. **"Prêmio do duelo público": prometido vs. entregue** — sem novidade sobre o item 2 do V1; o V4 não tocou nos itens 2, 3, 7, 10-14 (aguardam passe de verificação).
 
 ## Pesquisa externa pendente
 
-- Wiki/Reddit para: o 10º Venerável (9 já nomeados no texto); faixas de aptidão; rankings de Gu supremos (item 9); lista completa das Ten Extreme Physiques (4 nomeadas); nomes canônicos dos paths ainda não nomeados no texto (lua, som, veneno, madeira etc. — água/gelo → water path confirmado, cap. 566).
+- Wiki/Reddit para: o 10º Venerável (9 nomeados; conferir se Limitless Demon Venerable é o 10º); faixas de aptidão e **limiares % de ruptura de rank** (prioridade nº 1 — 4 volumes sem resposta); rankings de Gu supremos (itens 9/42); lista completa das Ten Extreme Physiques (5-6 nomeadas); definição formal do rule path; nomes canônicos dos paths ainda não nomeados no texto (lua, veneno, madeira etc. — som → sound path e água/gelo → water/ice path confirmados).

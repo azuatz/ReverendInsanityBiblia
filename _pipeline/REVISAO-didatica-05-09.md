@@ -444,3 +444,334 @@ linhas mais o link. Reduz a superfície de erro.
   possibilidade de um jogador **não passar**, é o melhor gancho de sessão zero do vault.
 - **O lance cego por escrito** e o **álibi do fóssil** são dois minijogos sociais de custo
   zero em regras.
+
+---
+
+## 08 - Estudos de Caso Mecânicos — lido
+
+### Resposta direta à pergunta feita
+
+**Sim, cada caso diz explicitamente se é exceção ou regra replicável.** Todos os nove
+trazem um callout `> [!warning] É exceção ou regra?` com veredito em negrito, e a nota
+fecha com um **índice rápido exceção × regra** que resume os doze vereditos numa tabela.
+Nesse quesito específico é a nota mais bem construída do vault, e eu não mexeria na
+estrutura.
+
+**Dá para extrair uma regra de jogo a partir deles?** Parcialmente. Dá para extrair o
+*princípio* — a nota é ótima nisso — mas quase nunca o *número*. Ver 08-D e 08-G.
+
+### Problemas
+
+**08-A — Contradição direta com o apêndice sobre a trava de aptidão** · `Estudos de Caso Mecânicos.md` × `09/Tabelas de Referência Rápida.md`
+Tipo: **furo lógico — bloqueador.**
+Caso 2, "versão barata", enuncia como regra ilustrada: "*Uma aptidão baixa nunca alcança
+esse patamar — a barreira é **intransponível** por quem tem pouco talento.*"
+E o veredito do mesmo caso, oito linhas abaixo: "**Regra plenamente replicável.**
+*Qualquer* cultivador com pedras suficientes, disciplina e garantia de não ser
+interrompido consegue."
+As duas frases não podem ser verdadeiras ao mesmo tempo. Se o método lento e sustentado é
+plenamente replicável por qualquer um, então a aptidão **deixa de ser uma trava** — e
+todo o edifício do apêndice desaba junto: `Tabelas de Referência Rápida` §2 diz que "quem
+não alcança a porcentagem exigida simplesmente **não rompe a parede**, por mais séculos
+que cultive", e §1 diz que "o 55% explica de imediato por que o grau C é uma sentença
+social".
+Esta é a decisão de design mais importante do jogo inteiro — **aptidão é um teto duro ou
+um imposto?** — e o material me dá as duas respostas, em notas que se citam mutuamente.
+Sugestão: decidir e escrever. Se o método lento funciona, ele precisa de uma trava
+própria (custo em pedras proibitivo? só funciona de 1→2? risco de morte?) para que a
+aptidão continue significando algo. Se não funciona para qualquer um, o veredito precisa
+dizer "replicável **por quem já tem aptidão suficiente**; o que o caso mostra é que se
+pode substituir potência por tempo, não talento por dinheiro".
+
+**08-B — A nota mais densa do vault é a que tem menos links** · `Estudos de Caso Mecânicos.md`
+Tipo: **jargão não explicado — sério.**
+Não há **um único wikilink no corpo da nota** — só na seção "Relações", no fim. E é
+justamente a nota que empilha mais jargão: *abertura interna*, *Gu Vital*, *essência*,
+*refino*, *espírito guardião*, *terra abençoada*, *gruta-céu*, *território pessoal*,
+*fundação*, *anexação*, *provações*, *dao marks*, *pedras primevas*, *rank*, *attainment*
+(sem usar a palavra — ver 08-C).
+Termos em **negrito** sem link me sinalizam "isto é importante" e ao mesmo tempo "vire-se".
+Alguns nunca são definidos em lugar nenhum que eu pudesse achar sozinha, notadamente
+**"fundação"** — que é o critério decisivo do caso 6 ("o teste não é entre ranks: é entre
+fundações") e do caso 6 ("a fundação absurda de quem os executou"). Eu não sei se fundação
+é o tamanho da terra abençoada, o total de dao marks, o acervo de artefatos, ou outra
+coisa. Sem isso, o caso 6 é ilegível para mim.
+Sugestão: linkar na primeira ocorrência de cada termo, e acrescentar uma definição de
+"fundação" — nem que seja de uma linha, no bloco "Como usar esta nota".
+
+**08-C — O caso 6 cai exatamente na armadilha que o apêndice avisa** · `Estudos de Caso Mecânicos.md`
+Tipo: jargão ambíguo.
+`Tabelas de Referência Rápida` abre com um callout dedicado avisando que **"Mestre Gu"** e
+**"Mestre"** (nível de attainment) são coisas diferentes que dividem a palavra em
+português. O caso 6 então escreve: "*um nível de domínio '**mestre**' basta para anexar
+territórios de rank 6; um domínio **quase-superior** serve para a maioria deles; mas
+'mestre' **não** basta para um território de rank 7*" — sem nunca dizer a palavra
+*attainment*, sem linkar, e usando "quase-superior", que não é um degrau da escala do
+apêndice (lá os degraus são Quase Grão-Mestre, Grão-Mestre, Quase Grande Grão-Mestre,
+Grande Grão-Mestre, Quase Supremo, Supremo Grão-Mestre).
+"Quase-superior" é qual deles? Levei três leituras para entender que o caso está falando
+de attainment, e ainda não sei mapear o degrau.
+Sugestão: usar os nomes exatos da escala de `[[Attainment]]` e linkar.
+
+**08-D — Os casos replicáveis não têm preço** · `Estudos de Caso Mecânicos.md`
+Tipo: **falta de utilidade para design — sério.**
+A nota promete, no callout de abertura, que cada caso traz "**os recursos gastos**". Ela
+cumpre em prosa e falha em número, justamente nos casos marcados como replicáveis — que
+são os únicos que eu posso transformar em regra:
+- Caso 2 (versão barata), o mais jogável de todos: "*absorvendo pedras primevas em
+  paralelo*", "*uma quantidade grande de pedras primevas*". **Quantas?** É o item de
+  orçamento mais importante que um personagem de rank 1 vai enfrentar na campanha, e o
+  número não está aqui nem em `Pedras Primevas`.
+- Caso 3 (versão ativa, "regra corrente e cotidiana"): "*apenas a posse do Gu superior*".
+  Quanto tempo leva o refino assistido? Quanto ele economiza?
+- Caso 5: "*os vinte conjuntos de materiais*" — de quê, custando quanto?
+Sugestão: uma linha "custo estimado em pedras primevas" em cada caso replicável, marcada
+como reconstrução onde a obra não der o número. Sem isso a nota me dá boas cenas e nenhuma
+planilha.
+
+**08-E — "2% de aptidão" é ambíguo justamente onde mais importa** · `Estudos de Caso Mecânicos.md`
+Tipo: número mal especificado.
+Caso 2, ritual demoníaco: "*mesmo com limpeza imediata, a perda de aptidão é de cerca de
+**2%**, irrecuperável*".
+Dois por cento de quê? Se são **pontos percentuais** na escala do apêndice (onde as faixas
+têm 20 pontos de largura), um cultivador grau B de 61% cai para 59% e **muda de grau**,
+perdendo a possibilidade de chegar ao rank 3. Se são 2% relativos, a perda é de ~1,2 ponto
+e quase não importa. A diferença entre as duas leituras decide se este atalho é um preço
+alto ou um detalhe.
+E o mesmo caso diz que o Gu resultante permite quebrar a barreira com "*cerca de **38%**
+dessa energia*", quando o limiar canônico do apêndice é 55%. Por que 38 e não 55? Nunca é
+explicado, e é a única pista que eu teria de como o atalho realmente funciona.
+Sugestão: escrever "2 pontos percentuais de aptidão (ex.: 61% → 59%)" e uma frase
+explicando por que o ritual reduz o limiar efetivo.
+
+**08-F — Um termo em inglês aparece do nada, e briga com a nota de sociedade** · `Estudos de Caso Mecânicos.md`
+Tipo: menor, terminologia.
+Caso 9: "*escravos 'dentre os **feathermen** no chão'*". É o único termo racial não
+traduzido do material que li, sem glossa e sem link. `Cultura das Cinco Regiões` chama o
+mesmo povo de "**uma raça alada**", e `Tribunal Celestial e Grandes Forças` fala em
+"**humanos variantes**".
+Sugestão: usar o termo do glossário e citar o original entre parênteses uma vez.
+
+**08-G — Nenhum caso vira regra proposta** · `Estudos de Caso Mecânicos.md`
+Tipo: falta de utilidade para design.
+O callout de abertura diz que os casos servem a três usos, e o segundo é "**virar regra
+opcional**". Nenhum caso chega a enunciar uma. Os blocos "Para o design" são bons, mas
+falam de *ficção* ("cria um relógio no meio da aventura", "é uma inversão maravilhosa
+para uma sessão de assalto") — nunca de *mecânica*.
+O caso 5 é o exemplo mais gritante: ele descreve um sistema de tentativas limitadas com
+contagem assimétrica, que é literalmente uma regra pronta, e mesmo assim não a escreve.
+Sugestão: fechar cada caso com uma linha `**Regra proposta:**` em itálico. Duas frases
+bastam. É a diferença entre uma coletânea de precedentes e um capítulo de manual.
+
+**08-H — Cobertura concentrada no topo** · `Estudos de Caso Mecânicos.md`
+Tipo: cobertura / utilidade.
+Dos nove casos, **seis** se passam na camada imortal (1, 4, 6, 7, 8 e parte do 9). Só o
+caso 2 e o caso 3 são utilizáveis numa campanha de ranks 1–3, que é onde qualquer mesa
+começa e onde a maioria das mesas vai passar a vida inteira.
+Sugestão: acrescentar dois ou três casos mortais — uma disputa de sucessão de clã resolvida
+por regra, um golpe de leilão, uma missão de grupo de cinco que deu errado — com o mesmo
+formato. O formato é bom demais para servir só ao endgame.
+
+### O que está bom nesta pasta
+
+- **O veredito "exceção ou regra" em todo caso, mais o índice-resumo no fim.** É
+  exatamente o que eu precisava e quase nenhum material de cenário faz. Isso responde
+  sozinho a metade das minhas dúvidas de "posso generalizar isto?".
+- **Os quatro meta-padrões na abertura** dão uma chave de leitura antes dos casos, e o
+  caso 5 até se refere a eles por número. Funciona.
+- **O caso 4 (três vias para tomar um território) é o melhor pedaço de design do vault**:
+  três rotas com preços diferentes, uma delas explicitamente marcada como "não funciona",
+  e a razão pela qual não funciona é uma regra generalizável (trava de força × trava de
+  reconhecimento, e a violência queima a segunda de forma irreversível). Eu escreveria uma
+  subclasse de aventura inteira em cima disso.
+- **O caso 9 (brechas de contrato)** é uma aula. Quatro brechas de sofisticação crescente,
+  todas com a mesma explicação estrutural ("o contrato é um mecanismo, não um árbitro"), e
+  um conselho de design correto: escreva o juramento e deixe os jogadores lerem.
+- **O caso 8 (fazenda de provações)** é o melhor NPC-patrono do vault, e a nota entende
+  por quê: a exploração funciona *porque as duas partes ganham de verdade*.
+- **"Personagens aparecem apenas como 'um cultivador de rank X'"** — a decisão de despir os
+  casos de nomes próprios funcionou. Aqui a ausência de nomes ajuda, ao contrário do que
+  acontece em 05 e 07.
+
+---
+
+## 09 - Apêndices — parcial: `Tabelas de Referência Rápida.md`
+
+> Esta é a nota que a coordenação pediu para conferir contra as notas de conteúdo.
+> Conferi as três suspeitas levantadas, mais o que encontrei por conta própria.
+
+### Veredito sobre as três suspeitas levantadas
+
+**(1) Tabela de amplificação por dao marks — a suspeita procede, e é pior do que parecia.**
+Ver 09-A.
+
+**(2) Piso de 100.000 dao marks no rank 8 — o apêndice está certo; o erro sobreviveu em
+outro lugar.** O apêndice traz rank 8 = 30.000–300.000 e ainda documenta a correção num
+callout: *"Uma versão anterior desta tabela trazia '100.000' como piso do rank 8; era erro
+nosso, sem base no texto, e foi corrigido."* Refiz a aritmética das três linhas e ela
+fecha exatamente (9.000 / 30.000 / 300.000 — conferi as três multiplicações). `01 -
+Cultivo/Dao Marks.md` também já está corrigido. **Mas a correção não propagou:** ver 09-G.
+
+**(3) Escada 65/75/85% — está corretamente marcada como reconstrução em todos os lugares.**
+Rastreei as cinco ocorrências no vault (`LEIA-ME`, `Ranks e Avanço`, `Aptidão`, `Visão
+Geral do Cultivo`, e o apêndice). Todas dizem que é reconstrução, e o apêndice ainda
+acrescenta um contraexemplo honesto (um caso em que 90% não bastou para 3→4). **Nada a
+corrigir aqui — pelo contrário, é o padrão que o resto do vault deveria seguir.** A única
+ressalva é indireta: ver 09-E, onde a escada inferida é usada silenciosamente para derivar
+outra coluna.
+
+### Problemas
+
+**09-A — A tabela de amplificação anuncia uma fórmula fechada, tem o número de âncoras errado, e não fecha** · `Tabelas de Referência Rápida.md` §7
+Tipo: **inferência disfarçada de fato + número que não bate — bloqueador.**
+O texto diz: "*A obra fecha a fórmula com **três** âncoras numéricas explícitas:*" — e a
+tabela logo abaixo tem **quatro** linhas (100, 1.000, 10.000, 50.000). Erro de contagem
+óbvio, mas o problema de fundo é maior.
+Testei se os quatro pontos fecham como fórmula única. Não fecham:
+- `mult = 1 + marcas/1000` acerta em cheio as duas primeiras linhas (100 → 1,1× = "+10%";
+  1.000 → 2×) e **erra as duas últimas** (daria 11× e 51×, a tabela diz 10× e 50×).
+- `mult = marcas/1000` acerta as duas últimas (10× e 50×) e **erra as duas primeiras**
+  (daria 0,1× e 1×).
+As duas leituras diferem exatamente em 1, ou seja, na diferença entre "fator de
+amplificação" e "bônus acrescentado". Provavelmente as duas últimas linhas são
+arredondamentos de 11× e 51×, mas **a nota nunca escreve a fórmula**, então eu não tenho
+como saber — e, o que é pior, não tenho como interpolar. **Quanto rende 5.000 dao marks?
+5× ou 6×?** Essa é a pergunta que eu, como designer, faço em todo combate, e o apêndice
+não responde.
+Some-se a isso que a tabela viola a convenção declarada da própria nota: ela é apresentada
+como texto literal da obra ("a obra fecha a fórmula"), sem marca `inferido`, quando na
+melhor das hipóteses são quatro pontos avulsos.
+Sugestão: (a) corrigir "três" para "quatro"; (b) escrever a fórmula explicitamente —
+sugiro `efeito = base × (1 + dao marks ÷ 1.000)` — marcá-la como `inferido`, e anotar que
+as duas últimas linhas da obra são arredondamentos dela; (c) dizer sobre o que incide a
+amplificação (dano? duração? alcance? tudo?).
+
+**09-B — Duas tabelas da mesma nota discordam sobre o rank 8** · `Tabelas de Referência Rápida.md` §6 × §8
+Tipo: número que não bate.
+A §6 calcula o rank 8 como "**24 × 750 + 3 × 7.250 + 3 miríades × 86.750 = 300.000**" —
+ou seja, 24 tribulações celestiais, 3 grandes e 3 miríades.
+A §8, coluna "Total ao completar o rank", registra para o rank 8 apenas: "**3 tribulações
+miríades**". Somem as 24 celestiais e as 3 grandes que a §6 usa na conta.
+E não é descuido de arredondamento: as linhas dos ranks 6 e 7 da §8 listam a composição
+completa ("27 calamidades + 3 tribulações celestiais", "24 calamidades + 3 celestiais + 3
+grandes"). Só a linha do rank 8 é incompleta — e é justamente a que sustenta o número mais
+importante do sistema, os 300.000 do rank 9.
+(Confirmo que a §8 está internamente coerente: com celestial /10, grande /50 e miríade
+/100 em 300 anos, dá 24 + 3 + 3. Só a célula da tabela está incompleta.)
+Sugestão: completar a célula para "24 celestiais + 3 grandes + 3 miríades". Também vale
+preencher a linha do rank 9, hoje toda com `—`: um Venerável ainda tribula?
+
+**09-C — O bloco "Para o design" da §5 contradiz a nota de economia inteira** · `Tabelas de Referência Rápida.md` §5 × `06/Economia Imortal.md`
+Tipo: **furo lógico — sério.**
+O apêndice conclui: "*riqueza imortal é **literalmente intransferível**, o que **mata pela
+raiz qualquer economia de mercenariado no topo** e força alianças a serem feitas em
+favores, não em pagamento.*"
+`Economia Imortal` descreve exatamente o contrário: uma praça de comércio mundial, taxa de
+serviço, juros de 10% ao mês, seis credores com termos diferentes, custódia remunerada,
+uma guerra de preços de doze milhões, e ressurreição precificada em pontos de recurso.
+A reconciliação existe — as **contas** (uva verde etc.) são pessoais e intransferíveis, as
+**pedras de essência imortal** são moeda corrente — mas o bloco de design funde as duas
+coisas e tira uma conclusão de sistema a partir da fusão.
+Se eu tivesse lido o apêndice primeiro (como o LEIA-ME recomenda), teria projetado uma
+camada de alto nível **sem economia monetária**, e depois descoberto uma nota inteira
+descrevendo a economia que eu decidi que não existia.
+Sugestão: reescrever o bloco distinguindo os dois instrumentos em uma frase — "as contas
+de essência são pessoais e intransferíveis; a pedra de essência imortal é a moeda que
+circula" — e trocar a conclusão por algo verdadeiro (por exemplo: o que não se compra no
+topo são os *artefatos*, não os serviços).
+
+**09-D — Duas medidas de produção da mesma coisa, com 100× de diferença** · `Tabelas de Referência Rápida.md` §5 × §9 × `06/Economia Imortal.md`
+Tipo: **ordem de grandeza — sério.**
+- §5: "*o núcleo de uma abertura imortal excepcional de rank 7 produz cerca de **16 contas
+  de red date por dia**, o equivalente a 1.600 pedras de essência imortal diárias*".
+- §9, grades de terra abençoada: produção de "**10+ contas/ano**" (baixa) a "**50+
+  contas/ano**" (super).
+Anualizando a §5: 16 × 365 ≈ **5.840 contas por ano**, contra as 50+ da melhor grade da
+§9. Cento e vinte vezes de diferença, na mesma nota, sem uma linha de ponte. Entendo que a
+§9 fale de uma terra recém-nascida de rank 6 (uva verde) e a §5 de um núcleo excepcional
+de rank 7 — mas o leitor tem que adivinhar isso, e mesmo adivinhando a distância não fecha
+com o ×100 por rank que a própria nota estabelece.
+Pior: 1.600 pedras/dia = ~584.000 pedras/ano, enquanto `Economia Imortal` dá como riqueza
+típica de um rank 7 "milhares a mais de 10.000 pedras" **no total**. Um único cultivador
+produziria, por semana, mais do que o patrimônio inteiro de um par seu.
+Sugestão: rotular cada número com rank e denominação ("terra abençoada grade baixa,
+recém-ascendida, rank 6: 10+ contas de uva-verde/ano"), e checar qual dos dois está fora
+de escala. Sem isso não consigo precificar renda no alto nível — que é a espinha de
+qualquer campanha de endgame.
+
+**09-E — Uma coluna canônica derivada de números inferidos** · `Tabelas de Referência Rápida.md` §1
+Tipo: inferência disfarçada de fato + contradição interna.
+A nota declara na abertura: "*Números marcados como `inferido` são extrapolações... **Todo
+o resto é numeração literal da obra**.*"
+A coluna "**Teto de rank esperado**" da tabela de aptidão não tem marca `inferido`, mas só
+pode ter sido derivada da escada 65/75/85 — que é reconstrução. Um grau B (60–79%) "chega
+a rank 3, eventualmente rank 4" **porque** o limiar 3→4 seria 75%. Se a escada mudar, a
+coluna inteira muda.
+E há uma contradição aritmética direta: **grau D = 20–30%**, teto declarado "rank 1; **no
+máximo rank 2**". Mas romper para o rank 2 exige 55%, que é o único limiar **canônico** da
+obra. Um D nunca chega lá. A célula deveria dizer "rank 1, e só isso".
+Sugestão: marcar a coluna como `inferido` e corrigir a célula do D. Se o "no máximo rank
+2" vem de casos em que a aptidão foi elevada artificialmente, dizer isso na célula — é
+informação útil, mas é outra coisa.
+
+**09-F — Referência cruzada apontando para a seção errada** · `Tabelas de Referência Rápida.md` §2
+Tipo: menor.
+A linha "5 → 6" diz "*a ascensão a Imortal não é percentual (**ver seção 8**)*". A seção 8
+é "Cadência de calamidades e tribulações", que trata do que acontece *depois* de já ser
+imortal. O que explica o critério de ascensão (qi humano acumulado, constituição extrema
+ou Grão-Mestre) é a **seção 9**.
+Sugestão: trocar para "ver seção 9".
+
+**09-G — A correção do rank 8 não propagou para as notas de conteúdo** · `Tabelas de Referência Rápida.md` §6 × `01 - Cultivo/Tornar-se Venerável.md`
+Tipo: **número que não bate entre notas — sério.**
+O apêndice e `01 - Cultivo/Dao Marks.md` dizem: rank 7 = 9.000–30.000; rank 8 =
+30.000–300.000.
+`01 - Cultivo/Tornar-se Venerável.md` ainda diz: "*um rank 7 comum tem entre **dez e
+trinta mil**; um rank 8, entre **cem e trezentos mil**.*"
+Ou seja, o piso de 100.000 que o apêndice declara ter corrigido continua vivo na nota que
+explica a condição mais importante do sistema (as 300.000 dao marks para virar Venerável).
+Está fora das minhas pastas, mas afeta diretamente a confiança que posso depositar no
+apêndice: se a correção não foi varrida, não sei o que mais ficou para trás.
+Sugestão: corrigir a frase e, mais importante, adotar a regra de que **os números vivem só
+no apêndice** e as notas de conteúdo remetem a ele em vez de repetir. Hoje os mesmos
+números estão duplicados em três e quatro lugares (ver também 06-M e 06-P).
+
+**09-H — A tabela de refino tem três taxas incompatíveis para o rank 6** · `Tabelas de Referência Rápida.md` §12
+Tipo: número que não bate.
+Na mesma tabela: "Gu Imortal de rank 6, refinador comum: **menos de 1%**"; "Especialista
+reconhecido, rank 6: **40%**"; e "Número típico de tentativas por sucesso (referência de
+mercado): **50 a 60**".
+Cinquenta a sessenta tentativas por sucesso implica uma taxa de ~1,7–2%, que não é nem
+"menos de 1%" nem 40%. As três linhas são apresentadas lado a lado sem dizer a que
+população cada uma se refere.
+Sugestão: acrescentar uma coluna "de quem é esta taxa" (refinador comum / especialista /
+média de mercado ponderada), ou separar em duas tabelas.
+
+### O que está bom nesta nota
+
+Apesar da lista acima, esta é a **nota mais bem construída do vault do ponto de vista de
+engenharia de informação**, e vários dos seus achados são exatamente o que eu queria de um
+apêndice:
+
+- **As duas convenções declaradas na abertura** — `—` significa "a obra não diz", e
+  `inferido` marca extrapolação — são a prática correta, e são seguidas na maior parte da
+  nota. Isso é raro e vale muito.
+- **O callout que separa "Mestre Gu" de "Mestre" (attainment)** antecipa uma confusão real
+  antes que ela aconteça. Boa didática.
+- **Admitir o vão 31–39% na escala de aptidão** em vez de preenchê-lo é honestidade
+  intelectual e me diz exatamente onde eu tenho liberdade de design.
+- **O callout que mostra a aritmética das faixas de dao marks** (27 × 250 + 3 × 750 =
+  9.000 etc.) é o melhor recurso didático do vault inteiro: não me pede para confiar, me
+  mostra a conta. Refiz as três e fecham.
+- **Documentar a própria correção** ("uma versão anterior trazia 100.000; era erro nosso")
+  é uma prática que eu gostaria de ver em todo o material.
+- **O aviso de que a escada 65/75/85 pode ser ignorada sem contradizer o cânone** me
+  autoriza explicitamente a inventar. É o tipo de permissão que economiza semanas.
+- **A §8 é uma tabela de encontros pronta** para o reino imortal: quatro classes de
+  provação, recompensa fixa, cadência conhecida e um relógio manipulável pelo jogador.
+- **A §10 (attainment) resolve um problema clássico** ao separar "o que você consegue
+  fazer" de "com quanta força você faz", e a regra de que attainment insuficiente produz o
+  **efeito errado** (não um efeito fraco) é ouro de mesa.
+- **Nenhum wikilink quebrado.** Rodei uma verificação de todos os links das pastas 05 a 09
+  contra os nomes de nota e os aliases: os 73 arquivos e 222 aliases cobrem tudo. Isso
+  significa que os apontamentos "ver nota X" que eu segui sempre chegaram a algum lugar.

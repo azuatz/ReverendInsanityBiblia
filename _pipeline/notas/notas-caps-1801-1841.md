@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 1801–1841 (Volume 5)
 
-> Progresso da leitura: até o cap. 1820
+> Progresso da leitura: até o cap. 1830
 > Status: em-andamento
 
 ## 1. Mecânicas e regras
@@ -168,7 +168,37 @@ Ver mecânica detalhada acima. Resumo do método de resolução por scene: (1) 1
 - **Formation Spirit / Formation Flag**: componentes adicionados à "five regional limit formation" de Fang Yuan — Formation Spirit ajuda a controlar/monitorar a formação; Formation Flag permite mover a formação inteira entre o immortal aperture e o mundo externo.
 - **Otherworldly demon**: status especial de Fang Yuan (mecanismo já registrado em blocos anteriores), citado aqui como explicação popular para por que ele consegue tirar tanto proveito de Spring Autumn Cicada onde outros não conseguiriam.
 
+- **Daybreak sword**: killer move rank 8 de time path de Myriad Year Flying Warship, espadas de prata feitas de dao marks extraídos da água do Rio do Tempo.
+- **Torrential charge**: killer move de aceleração via manipulação da correnteza do Rio do Tempo.
+- **Myriad year hunting**: killer move que atrai (mas não controla) uma beast tide de year beasts via time path.
+- **Precaution Immortal Gu**: núcleo do sistema de defesa de Myriad Year Flying Warship.
+- **Years Flow Like Water**: Immortal Gu rank 8 de time path, núcleo real de myriad year hunting (existe também uma versão falsa/isca a bordo).
+- **Yama Web**: immortal battlefield killer move de Fang Yuan, versão aprimorada de "yama battlefield" com poder de time path.
+- **Five Xiangs grotto-heaven / "ancient bet"**: grotto-heaven público formado pela doação conjunta dos Five Xiangs; sede da disputa por "heaven form".
+- **Heaven form**: killer move/herança de Thieving Heaven Demon Venerable, forma de grou branco de uma perna, rank 9 de aura.
+- **Wisdom sword Immortal Gu**: usado como núcleo de um killer move para exterminar heaven's will/vontades residuais dentro de heaven form.
+- **Qi Sea grotto-heaven**: antigo domínio de Qi Xiang (um dos Five Xiangs), anexado por Fang Yuan; fonte de "unlimited qi sea" e 1 milhão de dao marks de qi path.
+- **Unlimited qi sea**: killer move trunfo de Qi Sea grotto-heaven, consome essência + múltiplos tipos de qi.
+- **Big Qi / Big Family Qi**: Immortal Gu núcleo (rank 8 / rank 7) de unlimited qi sea.
+- **Heavenly Astral Cloth Robe**: killer move rank 7 de qi path, amplificado a poder rank 8 pelos dao marks de Fang Yuan.
+- **White Crane Information Tower**: Immortal Gu House de 9 andares só de information path, em Fei He Mountain (Immortal Crane Sect).
+- **Golden mountain ox**: espécie de desolate beast só-fêmea, reprodução via ferida no chifre.
+- **Blood turns cold**: killer move de blood path usado para congelar/capturar vivo.
+- **Justice Gu**: Gu (mortal, dream realm) cuja ativação exige crença sincera do usuário em sua própria justiça.
+- **Woman's heart Gu**: Gu (mortal, dream realm) usado como veneno alegadamente anti-justice Gu.
+- **Unravel dream**: killer move/método já conhecido para obter pistas dentro de dream realms — eficácia variável (às vezes dá só uma frase de dica, outras vezes "não é muito útil").
+- **Golden Thread Sword**: killer move de sword path, fios dourados perfurantes.
+
 ## 7. Dúvidas e lacunas
+
+- **LACUNAS.md — attainment levels (extensão nova)**: hipótese não confirmada de Fang Yuan de que supreme grandmaster attainment permite criar killer moves autossustentáveis/permanentes (heaven form, ghostly concealment, divine concealment) — cruzar com dados futuros para confirmar ou refutar.
+- **LACUNAS.md item 34 (fate escapee) / origem do otherworldly demon**: dado direto novo — o Heaven's Will teria "nutrido" Fang Yuan como otherworldly demon especificamente para conter o sovereign immortal aperture / o plano da Shadow Sect de Spectral Soul Demon Venerable, mandando-o 500 anos ao passado com esse propósito. Não esclarece o critério GERAL de fate escapee (ainda em aberto), mas dá o motivo específico do CASO de Fang Yuan.
+- **LACUNAS.md — tabela de dao marks por myriad tribulation**: novo dado numérico (~80-100 mil dao marks por myriad tribulation, piso especulativo de ~300 mil para um Venerável recém-ascendido, tratado pelo próprio Fang Yuan como subestimado).
+- **LACUNAS.md — limiares % de aptidão/ruptura de rank**: nada de novo neste sub-bloco.
+- **LACUNAS.md — rosto fantasma/lótus vermelha**: nada de novo neste sub-bloco (mas Fang Yuan segue ativamente perseguindo a true inheritance de Red Lotus no Rio do Tempo).
+- Mistério NÃO resolvido: por que land spirits/heavenly spirits sobrevivem à anexação especificamente dentro do sovereign immortal aperture (Fang Yuan mesmo não sabe, investigação em aberto declarada pelo próprio texto).
+- Não fica claro se a regra "justice Gu exige crença sincera" é exclusiva desse Gu específico ou um princípio mais amplo de Gu "morais"/de path humano em geral — só um exemplo textual até agora.
+- Rank exato da fêmea Gu Immortal selada dentro do golden mountain ox e sua identidade/organização não são revelados neste bloco — possível gancho para capítulos futuros.
 
 - **LACUNAS.md — restauração do Fate Gu (prioridade)**: novo dado direto — mesmo DANIFICADO/não destruído, o Fate Gu já restringe ativamente quantos usos simultâneos de "loopholes" de renascimento/tempo são possíveis no mundo (não permite Fang Yuan combinar Time Anchor+Cicada com "spring autumn success" ao mesmo tempo). Fang Yuan deduz que a destruição completa do Fate Gu ampliaria essa margem. Isso sugere que a "restauração" do Fate Gu (tema central do V5) não é binária (funciona/não funciona), mas gradual em capacidade de repressão de loopholes — vale cruzar com o restante do volume.
 - **LACUNAS.md — limiares % de aptidão/ruptura de rank**: nada de novo neste sub-bloco (segue vazio para V5 até aqui).

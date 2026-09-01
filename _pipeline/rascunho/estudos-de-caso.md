@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Estudos de caso mecânicos
 
-> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> Destaques da 1ª metade do V5: anexação de aperture como atalho de rank (fundação vence rank); fabricação deliberada do conteúdo da própria calamidade; refino paralelo (elevar rank + extrair heaven's will num só processo); dream realm explorado por estágios com fundação de alma como munição; e a escada de custo killer move → núcleo de suporte contínuo → Gu formation.
 > Formato por caso: regra ilustrada → método → por que funcionou → exceção ou regra. Sem enredo além do mínimo mecânico.
 
 ## Resumo do domínio

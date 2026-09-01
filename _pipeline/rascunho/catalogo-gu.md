@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Catálogo de Gu
 
-> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Destaques do V5-1ª metade**: Love Gu confirmado rank 9 e o Fate Immortal Gu danificado em reparo dentro da Heaven Overseeing Tower; a graduação do year Gu por anos armazenados (mortal <10 → r6 aos 10 → r7 aos 100 → r8 aos 1.000 → r9 teórico aos 10.000, cap. 1129) e o arsenal completo de time path em torno do Years Flow Like Water (r8); os primeiros Gu "transversais" sem path declarado (Perseverance r7); a linha de soul path da true inheritance de Spectral Soul (Split Soul, Ghost Official/General Garment, Soul Beast Token r8); e as duas metades da herança de Thieving Heaven (divine e ghostly concealment).
 > Fusão das tabelas das notas brutas, duplicatas unificadas. Seções por família temática; a partir do Volume 2 os nomes formais de path existem (ver paths.md). ⭐ = rank 6+ / classe imortal-demoníaca ou destaque. "—" = não informado (nunca inventar). Coluna Caps. = primeiras aparições/regras relevantes. As adições de cada volume ficam em bloco próprio ao final (tabelas anteriores intactas); duplicatas entre volumes têm nota cruzada.
 
 ## Resumo do domínio
@@ -762,3 +763,344 @@ Refinement Cauldron (r8, Long Hair Ancestor — refina à força os Immortal Gu 
 **De Fang Yuan**: Myriad Self/Giant Hand (8 mãos, ~20.000 fantasmas/braço, "battle strength r7") (779-790); Icy Drill Stardust; Hair/Lion Fur Armor; True Solid Bat Wings (3 pares); Poison Spit; Vaguely/Familiar Face (versões próprias); Unravel Dream; Star Cloud Grindstone / Star Snake Rope / Six Illusion Star Bodies / Position Star Swap / Star Fire Escape / Projected Star Thought; Star Soul Battlefield (~600 Gu; drena força continuamente); Star Fog Concealment (mod.); nirvana fire versão strength (vivo↔zumbi); flesh body blood refinement / Blood Trace Travel.
 **Battlefield killer moves**: Freezing Rain Frozen Earth (composta de Fighting Soul Battlefield + Eight Doors Labyrinth + Unmoving Troops) (888-889, 981); Soul Taker Battlefield → Fighting Soul Battlefield → Hundred Million Slaughterfield (genealogia soul path) (898); Reincarnation Battlefield; Orchard Garden in Mountain (Fairy Li Shan; gasta dao marks próprios) (942); Pear Orchard; Rolling Rock Battlefield (723).
 **De rank 8-9 e lendários**: Five Finger Fist Heart Sword (Bo Qing) (880, 923); Heaven and Earth Song / Green Jade Song / Submission Song (Feng Jiu Ge) (885, 898); Myriad Star Fireflies (793-794, 820); Lead Soul Into Dream (dream, indefensável na era) (969, 1006-1010); Split Heaven Powder (813); Blazing Heaven / Angry Bird / Fire Prison / Phoenix Feather Triple Wing Blade / Nirvana Fire (Blazing Heaven Demoness) (919-947); Time Assist Luck / Delay (815); Heavenly Wish (teleporte coletivo de emergência) (864, 978); Swords Traverse Central Continent (defesa póstuma de Bo Qing) (956-957); Slumbering Lightning Python / Reflect Snow / Muffled Thunder Stone Drum / Wind Grind (os 4 supremos de processamento de materiais) (861, 970); Soul Suppression / Soul Replacement / Burning Soul Supreme Gold / City Crushing Hammer / Cleanse Sky (880-881); Lower Controls Higher (920); Thousand/Hundred/Myriad Disintegrations (790); Life Chasing Fire / Final Afterglow (791-792); Blood Demon Body Separation / Heart Blood Premonition / Blood Rainbow Flash / Blood Tu Su (848-850); Distinct Map / Eight Doors Labyrinth (905); Stream Veil; Immortal Aperture Transplantation Method (900-901); Heavenly Giant Solor / Golden Heavenly Saint / Green City Rampage (ancient battle formations) (883-885, 941-942); Ten Extreme Immortal Zombie Lifeless Formation (967-1011).
+
+---
+
+## Adições do Volume 5 — 1ª metade (caps. 1022–1513)
+
+> Bloco próprio; as tabelas dos Volumes 1–4 acima permanecem intactas. ⭐ = Immortal Gu / classe imortal. "—" = não informado (nunca inventar). `[segredo]` = ficha que só o mestre deve conhecer (trunfo oculto, plano não revelado em cena ou informação restrita a Heavenly Court / Shadow Sect). Toda linha traz capítulo. Fichas já catalogadas em volumes anteriores NÃO foram reescritas aqui — os dados novos delas estão em "Atualizações de fichas já catalogadas (V5-1ª metade)", ao final.
+
+### Immortal Gu novos — rank 9 e teto teórico
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Love Gu ("love emotion Gu") ⭐ | 9 | emoção/amor (elemento "emoção"; par conceitual do wisdom path) | Efeitos ilimitados e incontroláveis (ataque, cura, defesa, teleporte); resiste a fate e a luck; irrefinável mesmo por Venerables; sem problema de alimentação; dispara sozinho em crise emocional extrema e funciona até em domínio que suprime Gu (por ser rank 9) | 1221-1222, 1229-1230, 1234, 1273, 1284, 1449 |
+| "Destiny" (hipotético, ainda não existe) | 10 (teórico) | fate + luck | `[segredo]` Objetivo de Duke Long: fundir o Fate Immortal Gu com um Immortal Gu de luck path para criar o primeiro rank dez da história | 1234-1235 |
+
+### Immortal Gu novos — rank 8
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Years Flow Like Water ⭐ | 8 | time | Produz year Gu continuamente na proporção da immortal essence gasta (podendo gerar até year Gu de nível imortal); ativável por rank 6; come água do River of Time; falha: atrai immemorial year beasts para dentro da abertura (Fang Yuan o mantém selado em gelo r8) | 1129, 1132, 1179, 1221, 1291, 1401-1402, 1409, 1452, 1470 |
+| Fate Armor ⭐ | 8 | — (defensivo) | Armadura de luz de custo altíssimo (<50 respirações sustentadas) que resiste a um immemorial year beast; `[segredo]` funciona também como marcador de rastreamento de Heavenly Court sobre quem a veste | 1404 |
+| Soul Beast Token ⭐ | 8 | soul/enslavement | Escraviza soul beasts, inclusive IMEMORIAIS (rank 8); **não exige immortal essence de rank 8** — utilizável por um rank 7 | 1504, 1507 |
+| Liquor Worm Immortal Gu ⭐ | 8 | food | Com os "3 sovereign 5 emperor wines" (8 vinhos supremos), converte white litchi immortal essence (r8) em yellow apricot immortal essence (r9) | 1191 |
+| Medicine Fragrance ⭐ | 8 | food | Gu de cura: preenche o ambiente com fragrância medicinal que trata os presentes | 1215 |
+| Mutation ⭐ | 8 | transformation | Assinatura de Thousand Transformations Ancestor: muta partes do corpo do alvo em plantas/animais/insetos que continuam ligados organicamente — dano à parte mutada é dano real | 1412-1413 |
+
+### Immortal Gu novos — rank 7
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Perseverance Gu ⭐ | 7 (= rank do refinador) | não declarado (transversal/willpower puro) | Confere o título "Reverse Flow River Lord" (o rio para de arrastar, Gu voltam a funcionar, abertura pode ser aberta dentro do domínio) e amplia potência/duração de outros Gu e killer moves ao custo de tempo de ativação e alcance; refino por perseverança pura, sem fornalha; monolito preto do tamanho de uma baleia; come água do Reverse Flow River | 1276-1277, 1285-1286, 1291, 1295, 1310, 1313, 1410, 1458 |
+| Divination Tortoise Shell Gu ⭐ | 7 | wisdom | Defende contra deduções de wisdom path, mas só protege o próprio portador (daí o baixo valor de mercado); casco defensivo comparável ao de uma divination tortoise ancestral; come ancient ink kelp (r6) | 1297-1298, 1302-1303, 1310, 1313 |
+| Reputation Restriction Gu ⭐ | 7 | information (com efeito de enslavement) | Vira corda que restringe desolate beasts/plants, inclusive ancient e immemorial; o efeito escala com a **reputação/fama do dono** | 1306 |
+| Precaution Gu ⭐ | 7 | rule | Defesa de primeira linha do patamar rank 7 (status equiparável ao sword escape Gu), mas só ativa na 10ª-11ª respiração — inútil contra emboscada; extremamente pesado; dentro do vajra shell, com mortal Gu de time path, torna-se instantâneo | 1346-1347, 1353 |
+| After Immortal Gu ⭐ | 7 | time | Come qualquer immortal material indiretamente, via formigas-mortais que produz (1/mês); núcleo de Three Breaths Future Vision e de Endless Trouble | 1128-1129 |
+| Fight Gu ⭐ | 7 | rule | Núcleo de "Soaring Fighting Spirit" e de "Enslavement After Victorious Fight"; besouro-rinoceronte pesado como pedra; 3 contas de red date por ativação | 1394-1396, 1401-1402 |
+| Self Love ⭐ | 7 | wisdom | Núcleo do killer move "Self Cleansing"; forma de zongzi com folhas de bambu e fios cinza-brancos móveis; atrai mortal Gu em massa pelo cheiro doce | 1403, 1406-1408 |
+| Formation Flag ⭐ | 7 | formation | Armazena uma Gu formation já montada e permite teletransportá-la e remontá-la em outro local | 1410, 1413-1415, 1418 |
+| Pass Gu ⭐ | 7 | rule | Barata sem asas, do tamanho de um punho de feto, cor metálica; estenderia/facilitaria o Yang Pass Tune (menos mortal Gu, menos dificuldade) | 1423 |
+| Dew ⭐ | 7 | — (suplementar) | Acelera a recuperação de immortal essence dentro da área da formação | 1338 |
+| Care Immortal Gu ⭐ | 7+ (4º da List of Mystical Gu) | — (do secluded domain "Care") | Resolve/anula qualquer alliance agreement, independentemente do path de origem; precisa do Immortal Gu "No" para efeito completo | 1175 |
+| No (Immortal Gu) ⭐ | 7 (implícito) | — | Complementa Care na dissolução de alliance agreements | 1175 |
+| Dragon Breath ⭐ | 7 | transformation | Núcleo do sopro de dragão: integrado ao sword dragon transformation dobra o tamanho da forma e corta dark inkstone r7 num golpe; também núcleo da formação do resource point de dragonfish | 1200, 1471 |
+| Dragon Scale ⭐ | 7 | transformation | Emprestado do tesouro do Wu clan para a fusão myriad self + sword dragon transformation; núcleo da mesma formação de dragonfish | 1240, 1471 |
+| Bloodline (Immortal Gu do Wu clan) ⭐ | 7 | blood | Testa uma gota de sangue para verificar parentesco verdadeiro; roubado por Fang Yuan e usado como núcleo (com um Gu de wisdom path) da Blood Red Immortal Essence Formation | 1220, 1427 |
+| Soul Howl Gu (exemplar selvagem) ⭐ | 7 | soul | Sacode almas inimigas à distância; hospedado num soul beast, a ativação custa a "fundação da alma" do hospedeiro e o REBAIXA de rank; núcleo de Burning Soul Bursting Luck | 1039, 1071, 1405 |
+
+### Immortal Gu novos — rank 6
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Perceivable Dao ⭐ | 6 | information | Revela a quantidade exata de dao marks por path no próprio corpo, em mortal Gu ou em immortal materials, e detecta marcações de information path plantadas no portador; **não funciona em Immortal Gu** e não quantifica sem baseline prévio | 1156, 1160-1162, 1378, 1385, 1405, 1446 |
+| Blood Asset ⭐ | 6 | blood | Protege parte dos materiais durante o refino e permite restaurá-los se o refino falhar; nas mãos de um grandmaster serve para cura, deslocamento, disfarce de assinatura sanguínea e produção em massa (núcleo do Gu formation das coiling thread caves) | 1058, 1061, 1118, 1126, 1217, 1220, 1334, 1339 |
+| Vajra Thought ⭐ | 6 (há versão mortal r5) | wisdom | Cria até 10.000 "pensamentos" em forma de casco dourado que interceptam ataques e se autodestroem, reabsorvíveis na mente; como projétil, metade da velocidade do Sword Escape r7; o rank escala só a QUANTIDADE; come divine deer fruit (r6) | 1304-1305, 1310, 1314 |
+| Day Gu (Immortal) ⭐ | 6 | time | Alimenta-se da água do River of Time (dispensa busca de comida); base das futuras versões imortais de Day/Month nos killer moves de time path de Hei Fan | 1299, 1314 |
+| Year Gu ⭐ | 6 → 9 (graduação por anos armazenados) | time | Armazena "anos"; consumido no uso; núcleo de Bountiful Year e de quase toda a linha de killer moves de time path. **Graduação (cap. 1129): mortal com <10 anos → rank 6 a partir de 10 anos (parallel refinement até 99) → rank 7 a partir de 100 → rank 8 a partir de 1.000 → rank 9 teórico a partir de 10.000 (nunca visto na história)** | 1129, 1313, 1400, 1456 |
+| Immortal Slave ⭐ | 6 | enslavement | Adiciona dao marks de enslavement path ao usuário; nasceu de um Gu embryo de refino falho | 1080 |
+| Formation Plate Gu ⭐ | 6 | formation | Regente central de Gu formations complexas: monta a formação automaticamente a partir dos Gu fornecidos, sem exigir attainment do usuário | 1089, 1410 |
+| Ice Soul Immortal Gu ⭐ | 6 | ice/soul | Aranha branca de 8 patas com marcas azuis; só se aproxima de portador com physique de gelo à beira da morte | 1186 |
+| Grass Puppet Immortal Gu ⭐ | 6 | wood/puppet | Forma um avatar humanoide autônomo de grama e vinhas com força de combate rank 6, que representa e negocia pelo dono à distância | 1052, 1060 |
+| Luck Inspection Immortal Gu ⭐ | 6 | luck | Mostra a sorte de uma pessoa como "pilar de sorte" visível e compara assinaturas de sorte — detecta identidade verdadeira sob familiar face; ex-Gu de Qin Bai Sheng | 1060, 1151, 1154 |
+| Qi path Immortal Gu (não nomeado) ⭐ | 6 | qi | Gera uma corda de yin qi de vários metros que se enrola no alvo | 1041 |
+| Snack ⭐ | 6 | food | Lagarta de 6 segmentos com chifre prateado; cospe líquido que substitui até 40% da alimentação de um Immortal Gu r6 (6% por uso), com recuperação obrigatória entre usos — usar além do limite mata o Gu | 1457 |
+| Steal Life ⭐ | 6 | theft | Absorve lifespan/vida de todos tocados pela luz de sua formação e concentra no dono, que pode reverter o próprio envelhecimento; nasce como abelha vermelha | 1511 |
+| Eat Fragrance ⭐ | 6 | food | Permite comer qi de fragrância para saciar a fome; sozinho é "inútil", só rende combinado | 1487 |
+| Dragon Strength ⭐ | 6 | strength | Emprestado do tesouro do Wu clan; com Dragon Scale e Dragon Breath (+130 mil mortal Gu) eleva o resource point de dragonfish de "grande" a "gigante" | 1240, 1471 |
+| Bone Spike (Immortal) ⭐ | 6 | bone | Gu ofensivo obtido nas heranças residuais da Immortal Succession Mountain; irrelevante às circunstâncias de Fang Yuan, trocado por Day Gu | 1132, 1291, 1299 |
+| Dog Shit Luck ⭐ | 6 | luck | Vital Gu dos anos iniciais de Giant Sun: eleva a sorte, reduzindo a severidade das calamidades e auxiliando o refino; come fezes de 6 tipos de desolate hounds | 1029, 1060, 1063, 1065, 1093, 1405, 1415 |
+| Yellow Sand ⭐ | 6 | earth | Joaninha com 6 estrelas amarelas; parte do núcleo da formação defensiva da Corpse City | 1395 |
+
+### Immortal Gu novos — rank não informado, receitas e exemplares perdidos
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Yes or No ⭐ | Immortal (bloodline; ativável por mortal) | information | `[segredo]` Extrai informação do céu-e-terra em formato binário sim/não; 50 anos de lifespan por resposta; intransferível e imune a reverse refining | 1035-1036 |
+| Affection Gu ("love will Gu") ⭐ | — | wisdom (elemento "vontade") | `[segredo]` Montado numa Immortal Gu House, rastreia a localização do Love Gu mesmo dentro da abertura imortal de terceiros; com Self Love gera "self will" imortal em massa (base do Collective Thinking); corpo mole tipo água-viva, resistente a impacto | 1273, 1423, 1447 |
+| Remembrance ⭐ | — | wisdom | 2º Immortal Gu de Zhao Lian Yun, obtido na ascensão; formiga voadora prateada de voo muito veloz; come bright eye flowers | 1449 |
+| Blood Trace Immortal Gu ⭐ | — | blood | Revela ações passadas de um alvo como sombras de sangue que reconstroem seus movimentos no local (criado por Ding Qi e Ding Yan) | 1157 |
+| Blood Oath Immortal Gu ⭐ | — | blood/pacto | Forma pactos vinculantes para dividir recursos e fortuitous encounters entre as partes (criado por Ding Qi e Ding Yan) | 1045, 1157 |
+| Blood Handprint Gu (Immortal) ⭐ | — | blood | Obtido por Shang Yan Fei ao acessar a Blood Sea true inheritance escondida no futuro blood tide pit (existe versão mortal r5, ver V2) | 1339 |
+| Sight Light Immortal Gu ⭐ | — | light | Base do killer move Farsight Weapon Light: raio ocular que fica MAIS forte quanto maior a distância | 1126 |
+| Qi Luck Immortal Gu ⭐ | — (dono r6 com dao marks r7) | luck | Núcleo do Luck Whirlwind (repele quem ataca, puxa quem foge) e do Qi Luck Sensation | 1126-1127, 1239 |
+| Longevity Edict ⭐ | — | information | Token dourado que é, ele próprio, um Immortal Gu; viaja sozinho de tribo em tribo Huang Jin transmitindo ordens e recolhendo a resposta de cada supreme elder | 1181 |
+| Sword Tongue Gu ⭐ | — | information | Dispara luz de espada carmesim pela ponta da língua, em alta velocidade e com alto dano (o usuário é de information path, não de sword) | 1255 |
+| Life Locking Silver Chain ⭐ | — | — | Defesa reativa que contra-ataca sozinha; quebrável por killer move forte o bastante, com backlash no usuário | 1255 |
+| Sweat ⭐ | — | water | Suplementar da "wisdom sweat formation" (formação invertida: núcleo mortal de wisdom + suplemento imortal); cria névoa sobre o rosto durante dedução prolongada | 1329 |
+| Ripe ⭐ | — | rule | Núcleo do super Gu formation de cultivo acelerado da Mushroomman Paradise (treino de killer moves) | 1338 |
+| Stubborn ⭐ | — | — | Núcleo original (não modificado) do killer move Fixed Luck | 1415 |
+| Main ⭐ | — | rule | Núcleo original do Fixed Luck, junto com Stubborn | 1415 |
+| Big ("Da") ⭐ | — | rule | Aumenta o TAMANHO físico do usuário (não a força); usado por Purple Mountain True Monarch (miniman) para ficar do tamanho humano | 1415, 1429 |
+| Main Luck ⭐ | — | luck | Formaliza o papel de "sorte principal" numa conexão de sorte: ganha mais, perde menos (não possuído por Fang Yuan) | 1415 |
+| Sub Luck ⭐ | — | luck | Formaliza o papel de "sorte secundária": ganha menos, perde mais (não possuído por Fang Yuan) | 1415 |
+| Break Luck Immortal Gu ⭐ | — | luck | Rompe vínculos de Connect Luck; parte da herança "all living being's luck" de Giant Sun, com detalhes de cultivo perdidos | 1051, 1153 |
+| Formation Chart Gu ⭐ | — (consumível) | formation | Registra as informações de uma Gu formation, com taxa de erro menor que a do Formation Plate Gu | 1410 |
+| Formation Spirit ⭐ | — (consumível) | formation | Uso único: some ao ser usado e gera um "formation spirit" com inteligência própria, que não pode mentir e gerencia/repara a formação | 1411, 1414-1415 |
+| Soul Shaking Flag ⭐ | — | soul | Arma que aparece na mão DIREITA da alma quando usada com o ghost official garment (citada, não usada em cena) | 1448 |
+| Soul Shackle ⭐ | — | soul | Arma que aparece na mão ESQUERDA da alma, no mesmo conjunto (citada, não usada em cena) | 1448 |
+| Wood Sprout ⭐ | — | wood | Emprestado pela Lang Ya Sect; núcleo (com Perseverance e Self Love) do killer move Light Fungus Radiance | 1458 |
+| Divine Travel Gu ⭐ | — | movimento/espaço | Componente necessário para refinar o Fixed Immortal Travel; uma das receitas exige os 4 licores supremos do mundo | 1038 |
+| Space Escape Gu (refino falhou) ⭐ | Immortal (rank alto) | space | Long Hair Ancestor tentou refiná-lo para Thieving Heaven; o exemplar produzido não pôde ser ativado e o pagamento foi parcialmente devolvido | 1051 |
+| Extreme Light Gu (destruído) ⭐ | Immortal | light | Única fonte conhecida de "luz da era imemorial"; destruído com a morte do hospedeiro Xiao Mang | 1039 |
+| Before Immortal Gu (receita incompleta) ⭐ | — (receita 57%) | time | Par conceitual do After Immortal Gu; Hei Fan nunca chegou a completá-la | 1132 |
+| Blood Revenge (receita incompleta) ⭐ | — (<10%) | blood | Receita de Immortal Gu deixada por Ding Qi | 1187 |
+| Bathing Flames (receita) ⭐ | — | fire | Fragmento sobrevivente da fire path true inheritance de "Stunning Immortal", achado por acaso por um Gu Master mortal; reacende a disputa milenar Wu × Yao | 1338 |
+| Wealth Gu | lendário (não ranqueado no texto) | — | Transforma-se em QUALQUER material ou minério do mundo (ouro, prata, bronze, immortal material r6-9); NÃO pode virar ser vivo (animal, planta, humano, variante, Gu) | 1473-1475 |
+| Hatred Gu (mito) | — | ódio | Faz os alvos sentirem ódio; segundo a lenda, surge quando se tenta forçar o amor sem consentimento mútuo | 1230 |
+| Freedom Gu / wild freedom Gu (mito, versão imortal) | — | liberdade | Gu dos feathermen; fundido num freedom Gu gigante, consegue roubar até um Love Gu de seu portador (ver a ficha mortal do V4) | 1230 |
+
+### Gu mortais novos
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Fire Cape Gu | 5 | fire | Envolve o corpo em chamas inofensivas mas intimidantes; a intensidade varia com os dao marks do usuário | 1025 |
+| Flying Smoke Gu | 5 | movimento/voo | Concede voo; a velocidade pode superar o limite normal do rank conforme os dao marks do usuário | 1025 |
+| Sword Sheath Gu | 5 | sword | Recipiente que atrai outros Gu de sword path a habitá-lo espontaneamente (mecanismo não explicado) | 1059 |
+| Self Will Gu | 5 | wisdom | Produz "self will" que limpa a influência subconsciente de heaven's will sobre uma pessoa ou área; USO ÚNICO | 1092 |
+| Sneak Attack Gu | 5 | theft | Solta CENTENAS de fantasmas de bebê azuis simultâneos, cada um velocíssimo e oculto — perdido de vista um deles, é impossível rastreá-lo de novo | 1512 |
+| Sneak Attack Gu | 2 | theft (path formal não declarado na criação) | Fantasma de bebê azul velocíssimo que atravessa defesas físicas e ataca de DENTRO do alvo; consome só 10% de green copper primeval essence por uso | 1499-1500 |
+| Muddy Gu | mortal | earth | Cria/expande uma poça de lama que prende o alvo; aprofunda com usos repetidos | 1034 |
+| Sword Qi Gu | mortal | sword | Dispara sword qi perfurante pelos dedos; neutralizado por defesa endurecida, desperdiçando essência sem dano residual | 1034 |
+| Alert Bell Gu | mortal (?) | sinalização | Alarme de clã: toca para avisar de perigo iminente | 1034 |
+| Wine Sack Flower / Rice Pouch Grass / Spring Water / Eating Wind Drinking Dew Gu | mortal | food | Conjunto de alimentação básica para Gu Masters e Gu Immortals que ainda precisam comer | 1032 |
+| Bookworm Gu (variantes r2 e r3) | 1 (variantes 2-3) | information | Armazena informação e heranças; as versões r2-r3 criadas por Long Hair Ancestor quebram o limite original do rank 1; sem uso de combate | 1051 |
+| Dazzling Light Gu | mortal | light | Emite aurora light vermelha para "cultivar" flowing light fruits; come scorching swan stones | 1083 |
+| Polished Gold Gu | mortal (consumo único) | metal (implícito) | Aumenta a APTIDÃO de um Gu Master; encontrado na gold fragment current | 1155, 1160 |
+| Clothing Gu | mortal | — | Transforma-se instantaneamente em roupa ao ser vestido | 1225 |
+| Nether Ant Gu | mortal | — | Enxames de Gu-formiga que precedem e "abrem caminho" para exércitos de soul beasts | 1242, 1244 |
+| Life Tablet Gu / Soul Lantern Gu / Blood Rope Gu | mortal | life/soul/blood | Verificam se um membro do clã está vivo ou morto e deduzem sua localização exata; também servem de "alvo" para uma Gu formation infligir força remota e contínua sobre a pessoa correspondente | 1214, 1406 |
+| Formation Heart Gu | 1 | formation | Núcleo básico universal em torno do qual os demais Gu de uma Gu formation se organizam | 1323 |
+| Unravel Dream Gu (mortal) | mortal | dream | Dentro de um dream realm, entrega resposta precisa (às vezes parcial) ao desafio do estágio; material/alimento: nightmare demonic colt | 1324, 1326 |
+| Soul Language Gu | mortal | soul | Permite entender a fala e os gritos de almas sem corpo | 1397 |
+| Day Gu (mortal) | 3 | time | Concha do tamanho da palma de uma criança, com duas nadadeiras; "contém 3 dias de tempo"; acelera refino e estende lifespan (ao custo de dao marks) | 1400 |
+| Month Gu | >3 (implícito) | time | Análogo maior ao Day Gu, encontrado no River of Time | 1400 |
+| Year Gu (mortal) | mortal (<10 anos armazenados) | time | Só se alimenta da água do River of Time; fácil de produzir em massa por quem tenha um tributário | 1400, 1456 |
+| Sandpit Gu | 1 | earth | Cria um buraco de areia instantâneo no chão (armadilha) | 1492-1500 |
+| Chimney Smoke Gu | mortal | fogo/fumaça | Gera fumaça densa (uso original: defumar comida) | 1492-1500 |
+| Clear Water Gu | mortal | water | Produz água limpa | 1492, 1500 |
+| Cool Wind Gu | mortal | wind | Gu selvagem em forma de peixe alado; vive em tocas subterrâneas com corrente de ar frio | 1492 |
+| White Lotus Giant Silkworm Gu | mortal | soul | Criação de Spectral Soul; base, em grande quantidade, da "Luo Po formation"; é o alimento do Cleanse Soul Immortal Gu | 1460 |
+| Pulling Water Gu (mortal) | mortal | strength/water (híbrido) | Manipula correntes de água; a receita só é dedutível por quem tem grandmaster em WATER path, não em strength | 1248 |
+| Vajra Thought Gu (mortal) | 5 | wisdom | Versão mortal do Immortal Gu homônimo; o rank escala só a quantidade de projéteis | 1304-1305 |
+| Lifespan Gu (exemplar de 100 anos) | mortal | time/lifespan | Mortal-tier mas extremamente raro; usado como "diferença" para equilibrar trocas desiguais entre Immortal Gu; moeda forte entre Gu Immortals | 1128, 1299-1300 |
+
+### Killer moves imortais novos
+
+| Nome (EN) | Núcleo / composição | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Split Soul | true inheritance de Spectral Soul | soul | `[segredo]` A alma sai do corpo e DEIXA PARA TRÁS pensamentos/vontades/emoções para manipular Gu worms remotamente; falha = risco de colapso da alma; exige soul foundation alto | 1471 |
+| Ghost Official Garment | Change Soul (r7) + Cleanse Soul (r6) | soul | `[segredo]` Veste a alma com uma "vestimenta" permanente contra deduções de heaven's will e de Gu Immortals; não gasta essência — consome e cresce com a soul foundation; escala em 4 níveis (soldier r6 / general r7 / king r8 / venerable r9) | 1447-1448, 1460 |
+| Ghost General Garment | forma completa r7 do anterior | soul | Farda de guerra + armadura sobre a alma e três bandeiras de guerra nas costas quando plenamente manifestado | 1471 |
+| Divine Concealment | metade da true inheritance de Thieving Heaven (com Zhao Lian Yun) | theft | `[segredo]` Torna a portadora impossível de deduzir e IMUNE a calamidades/tribulações — inclusive durante a ascensão, algo sem precedente na história | 1435, 1449 |
+| Blood Light Spirit Suppression (versão simplificada) | Blood Asset Immortal Gu | blood | Suprime diretamente a resistência de um land spirit, viabilizando a anexação forçada de uma blessed land | 1217 |
+| Days Pass Like Years | year Gu + suplementares de time path | time | Reduz a vazão do tributário do River of Time da própria abertura: 1 dia externo = 1 ano interno, alongando o intervalo entre calamidades ao custo de menos crescimento de recursos e cultivo | 1130, 1187 |
+| Months Pass Like Years / Years Pass Like Months / Years Pass Like Days | year Gu + suplementares | time | Família inversa: ACELERAM o tempo interno da abertura; o efeito é maior para usuário de time path (os dao marks amplificam) e varia com a grade da blessed land | 1130 |
+| Bountiful Year | year Gu imortal + dezenas de milhares de mortal Gu | time | Por 1 ano, todos os recursos da abertura são produzidos a taxa maior; 2-3 dias de preparo mesmo para um rank 8; criada por "Pill Immortal", obtida por Hei Fan em troca | 1130, 1313 |
+| Years Grant Strength | year Gu | time → strength | Consome anos armazenados para gerar força física bruta proporcional (exemplo canônico de mimetismo de path) | 1130 |
+| Hundred Years Harmony | year Gu + mortal Gu de information path | time → information | Cria um alliance agreement com duração de 100 anos — prova textual de que grandmaster imita outro path | 1130, 1134, 1328 |
+| Unlucky Year | Years Flow Like Water | time → luck | Impõe um ano inteiro de má sorte ao alvo | 1130 |
+| Endless Trouble | After Immortal Gu | time | `[segredo]` Adia a calamidade atual para somá-la à próxima, mas IRRITA heaven's will, tornando as seguintes mais fortes; Hei Fan usou uma única vez na vida e a nomeou como advertência | 1130 |
+| Three Breaths Future Vision | After Immortal Gu | time | Enxerga três respirações à frente | 1128-1129 |
+| Year Beast Summoning | year Gu / Years Flow Like Water | time | Invoca um year beast do River of Time como **aliado pago, não escravo** (12 formas possíveis); ignora regional walls; luta bem em vantagem, mas recua quando a luta equilibra e cobra mais | 1129, 1135-1139, 1151, 1257, 1259 |
+| Cutting Flesh Transformation | estilo do "Suicide Transformation" (true inheritance de Reckless Savage) | transformation | Rank 8: expulsa as partes feridas do corpo como criaturas separadas para sobreviver a uma myriad tribulation, com perda líquida de dao marks; os year beasts assim gerados carregam heaven's will e são inescravizáveis | 1398-1399 |
+| Triple Qi Retraction | — (lendária) | qi | Consecutive + variation move em 3 estilos (human / earth / heaven qi retraction); os três em sequência rompem uma abertura imortal instantaneamente; errar causa backlash severo | 1367-1368 |
+| Fate Vanquish | Fate Immortal Gu (r9) | fate | `[segredo]` Área instantânea e indefensável contra qualquer um abaixo de rank 9; não usável consecutivamente (o Gu acumula feridas) | 1359 |
+| Immortal Tribulation Tempering Aperture | vários Immortal Gu (maioria r7) + >100.000 mortal Gu | refinement | Usa a própria blessed land como material de refino e enviesa o TIPO de calamidade que se manifesta | 1051, 1053, 1055-1056 |
+| Blood Torrent | Blood Asset + mortal Gu variável | blood | Transforma/oculta o usuário num rio de luz vermelho-sangue; permite TROCA DE DIREÇÃO em pleno voo (complementa o Sword Escape, que só anda reto) | 1061-1062 |
+| Blood Healing Lake | Blood Asset | blood | Lago de sangue que alimenta a vida continuamente; regenerou a metade inferior de um corpo em 3 dias | 1058, 1061 |
+| Life Staking Blood Print | Blood Asset | blood | Nomeada, não usada em cena | 1061 |
+| Bloodstained Conqueror's Robe | Blood Asset | blood + wisdom | Defesa cuja força escala com o attainment do usuário em blood e wisdom path | 1126 |
+| Blood Drain | — | blood | Sangramento contínuo e progressivo por todos os poros; incurável por métodos comuns — só cessa por vontade ou morte do lançador | 1263, 1266 |
+| Flesh Blood Fire | — | blood + fire | Fogo que se alimenta de carne e sangue vivos e se propaga a partir de ferimentos já abertos; quanto mais forte a fonte, mais poderoso; não se apaga sem contramedida | 1258, 1351 |
+| Sword Marks Targeting Death | Immortal Gu de sword path | sword | Grava dao marks no alvo que caçam autonomamente seu núcleo oculto; queima permanentemente dao marks do Gu-núcleo | 1054-1055, 1057 |
+| Triple Layered Sword Wave | Wave Sword + Gu de water path | sword + water | Três ondas de espada em área, com poder crescente a cada onda | 1055-1056 |
+| Sword Flash Thunder Sound | flash sword Gu + rumbling thunder Gu | sword | Ataque e deslocamento combinados num só golpe | 1039 |
+| Myriad Sword Tribulation (não possuída) | Flying Sword Gu | sword | Lenda de Bo Qing: "dez mil espadas como chuva" | 1044 |
+| Sword Heart Clarity | — (raro) | sword | Restringe/anula efeitos de wisdom path e métodos similares (soul e mind control) | 1196 |
+| One Sword Life | — | sword | Ataque de espada extremamente rápido e quase imbloqueável | 1196 |
+| Sword Dragon Transformation | Change Form + Dragon Breath | transformation | Forma de dragão-espada (garras, cauda mais forte que a garra, arrancada, sopro cortante); escala de r6 a r7 | 1197-1200 |
+| Divination Tortoise Transformation | Change Form + Divination Tortoise Shell | transformation + wisdom | Converte dao marks de transformation em wisdom (dedução 3× a 10× mais eficiente) e anula killer moves de dedução; não é associada publicamente a nenhuma identidade de Fang Yuan | 1302-1303 |
+| Vajra Shell | Vajra Thought (r6) + Perseverance (r7) + muitos mortais, na forma de tartaruga | wisdom | Casco de pensamentos rank 7 que intercepta ataques em massa | 1310-1311 |
+| Myriad Self Second Style | Pulling Water + Perseverance + myriad self + conceito dos fragmentos de estrela de Ye Lui Qun Xing | water + strength (grandmaster) | Empresta a força do próprio rio como força externa; base do Reverse Flow Protection Seal | 1287 |
+| Reverse Flow Protection Seal | essência condensada do Reverse Flow River | water + strength | Manto vestível que reflete todo ataque recebido, inclusive golpe físico de immemorial desolate beast r8; recurso finito (o brilho se desgasta a cada reflexo); o impacto cinético ainda empurra, mas não fere | 1288-1289 |
+| Battle Strength Transpiration | — (Chu Du) | strength | Transforma o corpo do usuário num gigante de 10 m, com o suor virando vapor | 1164 |
+| Heaven and Earth Combined Strength | — (Chu Du) | strength | Campo de força de longo alcance que ataca, defende e imobiliza múltiplos alvos ao mesmo tempo; "battlefield killer move incompleto" | 1164 |
+| Autodetonação em área (Chu Du, sem nome) | — | strength | Cobre uma grotto-heaven inteira: corpos no alcance sofrem força interna que os faz autodetonar; reservada para "existências de rank 8" | 1164 |
+| Extended Dark Concealment | Dark Limit (r6) + Perseverance (r7) + centenas de mortais | dark | Prolonga muito a duração da ocultação, dispensando reativações frequentes | 1346 |
+| Self Cleansing | Self Love (r7) | wisdom | Limpa a própria mente/vontade de influências externas | 1403, 1406-1408 |
+| Collective Thinking | Affection + Self Love | wisdom | Gera "self will" imortal em massa, base de receitas flexíveis | 1423, 1447 |
+| Light Fungus Radiance | Perseverance + Self Love + Wood Sprout (+ Snack como suplemento) | wood | Converte light shine fungi verdes (que exigem escuridão e pressão) numa variante branca adaptada ao céu aberto | 1458 |
+| Eat Strength (recriado) | Snack + suplementares de strength path | strength | Substitui o Immortal Gu Eat Strength destruído: converte materiais imortais de strength path em dao marks, com efeito por sessão melhor que o Gu original, mas custo maior | 1465 |
+| Exposing Heavenly Secret | Heavenly Secret (r7) | wisdom/refino por light path | Prevê o CONTEÚDO da próxima calamidade/tribulação | 1462, 1468-1469 |
+| Heaven's Will Dissipation | Heavenly Secret (r7) | wisdom | Elimina a heaven's will de um alvo selado | 1475-1476 |
+| Burning Soul Bursting Luck | Soul Howl + Connect Luck | soul + luck | Queima a própria alma para elevar drasticamente a sorte, inclusive à distância, via Connect Luck | 1212, 1405 |
+| Soul Beast Summoning | — | soul | Invoca múltiplos ancient soul beasts pela door of life and death; ignora regional walls | 1257 |
+| Soul Howl (killer move) | Soul Howl Gu | soul | Grito de dano de soul path em área ampla, com controle fino o bastante para poupar aliados | 1257 |
+| Bewitching Soul Art | — (Granny Yin) | soul | Paralisa/enfeitiça o oponente à distância, apontando o dedo | 1196 |
+| Wooden Statue Murder | — (assinatura de Qiao Zhi Cai) | wood/soul | A alma da vítima se despedaça, o corpo vira estátua de madeira e a força vital residual nutre as árvores em volta | 1339-1340 |
+| Switch Soul in Dream | Change Soul | soul + dream | Troca de almas executada dentro de um dream realm | 1397 |
+| Qi Luck Sensation | Qi Luck + Unravel Mystery (2º núcleo fundido) | luck + wisdom | Sente a localização de pessoas conectadas por sorte; a precisão cresce com a proximidade e só cruza regional walls com conexão prévia | 1150, 1153, 1239 |
+| Luck Whirlwind | Qi Luck | luck | Repele o alvo que ataca e puxa o que foge | 1126-1127 |
+| Luck Vibration Distance | — | luck | Usa a vibração da própria sorte para deduzir a distância até o perseguidor (contramedida ao Qi Luck Sensation) | 1249 |
+| Fixed Luck | Precaution + Big (originalmente Stubborn + Main) | luck + rule | Fixa a posição de "main luck" numa conexão de sorte | 1415 |
+| Soaring Fighting Spirit / Enslavement After Victorious Fight | Fight Gu (r7) | rule / enslavement | Eleva o espírito de combate / escraviza o derrotado após a vitória | 1394-1396, 1401-1402 |
+| Hundred and Eighty Slaves | — | enslavement | Domina um ser poderoso usando a QUANTIDADE de desolate beasts da mesma categoria como massa; pode falhar com backlash | 1371, 1374, 1376 |
+| Farsight Weapon Light | Sight Light | light | Raio ocular cujo poder cresce com a distância | 1126 |
+| Air Lock | — | wind (provável) | Rank 8: trava uma área de até 100 mil li de raio, reduzindo teleportes a <10% do alcance por ~8 minutos; absorve ventos dispersos; não realocável | 1386-1387 |
+| Finger Wind Dragon | — | wind | Rank 8: verme que cresce em voo até virar um dragão de vento de ~220 pés; variação "chaotic shooting blades" autodetona em lâminas | 1387, 1389 |
+| Yin Wind Ghost Sickle Hand / Yin Wind Rope | — | wind/yin | Rank 8: mão gigante de vento yin com garras-foice que agarra e esmaga; a variação "rope" captura Gu Immortals VIVOS | 1390 |
+| Soft Vajra Wind Chief | — | wind | Rank 8: cria até 6 construtos humanoides gigantes de vento que atacam em grupo | 1389 |
+| Four Clear Transforming Winds | herança ancestral do Wu clan | wind + sound | Battlefield killer move rank 8 com 4 variações (Clear Wind Blades, Clear Jade Lightning, Clear Jade Dripping Wind, Profound Immortal Sound — a mais ofensiva, letal contra sound path); o controlador pode ficar oculto e separado do campo | 1389-1390 |
+| Star Fragments | — (Ye Lui Qun Xing) | star | Fragmentos de estrela orbitantes formando camadas de defesa e ataque; o efeito escala com o número acumulado (~100 = domínio total) e o gasto de essência é baixo | 1201-1205 |
+| Purple Thought Perception Starlight | — (passiva) | wisdom | Mantida sempre ativa: fragmentos de luz que tocam killer moves inimigos devolvem informação fragmentada até permitir deduzir o mecanismo completo | 1365 |
+| Brilliant Will Dissolution | — | wisdom | Sopro/gás roxo que dissolve as defesas do alvo | 1366 |
+| Wisdom Balances Calamity | — (improvisada, poucos Gu) | wisdom | Dispersa perigos ocultos sobre o usuário; insuficiente contra a marcação da Star Constellation Chessboard | 1380, 1383 |
+| Chaotic Dragon Fist | — | transformation (mimetiza wisdom) | Confusão mental cumulativa por golpes sucessivos; quase inútil contra um nativo de wisdom path | 1363 |
+| Spiraling Dragon Fang | — | transformation | Duas presas-lâmina de dragão disparadas que orbitam o alvo, ferindo a cada contato | 1364 |
+| Dragon Gate | — | transformation | Força a abertura da entrada de um blessed land mesmo deliberadamente fechada; o portão se fecha atrás do usuário | 1369 |
+| Bai Xiang (transformação) | physique de gelo | ice/snow | Gigante de 5 m, três cabeças, seis braços e armadura de gelo; o corpo vira "forma de vida mística" e revive integralmente mesmo reduzido a um fragmento do tamanho de uma unha | 1259 |
+| Cold Eyes | Bai Xiang true inheritance | ice/snow | Congela o alvo em bloco de gelo sólido sem contato aparente | 1377 |
+| Ice Shatter Death | — | ice/snow | Transforma o alvo em gelo e o estilhaça | 1354 |
+| Land Boundary | — | earth/space | Corta uma área do espaço externo, prendendo dentro quem lá estiver (inclusive o usuário); a ativação exige sacrifício físico do corpo | 1260 |
+| Spike Forest | — | earth | Espinhos de terra que sobem do chão, com 2º estágio que os dispara ao ar; eficaz contra clones em massa | 1259 |
+| Spaceless Tunnel | fragmentos permanentes espalhados há 300 mil anos | space | Encurta drasticamente viagens; o destino de cada trecho é indecifrável de antemão | 1246, 1248 |
+| Golden Sun Spear | — | fire + light/qi | Condensa uma lança carmesim-dourada disparada por grito ("Strike!"), com explosão comparável a um pequeno sol; sem mira automática | 1262-1263 |
+| Crimson Ray | — | fire | Raio vermelho disparado dos dedos, em velocidade extrema, que perfura instantaneamente | 1377 |
+| Eight Refinement Gates | — | refinement | Estrutura em "portões" progressivos nomeados (ex.: "hand gate"), com efeitos adaptáveis ao inimigo enfrentado | 1263 |
+| Rising Heaven Bull Qi | — | qi | Onda de ar explosiva de alto dano; pode ser reativada para quebrar correntes e prisões físicas | 1255 |
+| Fist of Justice | — | information | Murro de luz cujo poder AUMENTA quanto mais alto o usuário grita durante a ativação | 1256 |
+| Water Life Resurrection | Bay Pavilion | transformation + water + light | Cria réplicas de desolate beasts aquáticos; quando destruídas, revertem a luz azul e voltam à Gu House a custo baixíssimo — arma de desgaste barata | 1377-1378 |
+| Boundless Sea and Sky | Bay Pavilion | — | Teleporte de escape instantâneo de 70 mil li | 1378 |
+| Wondrous Hand Profound Sound | — | sound (provável) | Manifesta 4-6 braços extras cujos dedos geram ondas sonoras destrutivas num raio de centenas de passos, arrasando Gu formations | 1351, 1354 |
+| Grey Cloud Battle Puppet | — | cloud | Campo isolado com puppets de nuvem que replicam a força total de Gu Immortals remotos; os puppets se reconstituem | 1140-1142 |
+| Memory-erasing (Xiao Fei Fei, sem nome) | — | memória/mental | Apaga memórias progressivamente; apagar a lembrança de um killer move causa o backlash automático dele; induz sorriso incontrolável — "quanto mais sorri, mais rápido morre" | 1266 |
+| Perfect Pair | — (Thieving Heaven) | — | Clone com 100% do poder do usuário; guardada em Longevity Heaven | 1235 |
+
+**Outros killer moves imortais nomeados no bloco (sem ficha longa)**: Dark Assassination (Flying Sword + Dark Limit; execução instantânea, alcance <100 passos) (1039, 1042-1046, 1123-1125, 1216); Body Strength Travel (só anda para frente, não vira nem recua) (1062, 1209); Phantom Waves (Zhou Li; acumula poder ao longo do tempo, defesa fraca enquanto ativa) (1047-1048); Poison Breath (Woman's Heart) (1096); Pulling Mountain (arremessa uma montanha inteira) (1113); Sick Tree Spring Armor (armadura de madeira que rejuvenesce com raios) (1196); Grey Rock Moon (petrifica, inclusive a abertura imortal) (1195); Wind Thunder Roar (double killer move, pilar de vento+plasma; debilita os 2 usuários) (1171, 1178); Five Elements Ring (defesa em 5 camadas) (1180); Golden Shield (quebra ao bloquear 1 golpe forte, com backlash) (1216); Snake Wave Stab / Water Snake (1250-1251); Blue Hair Constriction (fica mais forte quanto mais tempo ativa) (1251); Angry Bird / Cloud Rings (1256); Ringing Alarm Bell (padrões de notas codificam o tipo de ameaça) (1238); Curved Moon (aura totalmente oculta) (1351); "Tiger Lick" (mira por PALADAR; dano varia com o sabor da superfície do alvo) (1352-1353); Iron Sand Veil (vulnerável a phantom path) (1341); Collapsing Art (pista falsa de Yao Geng) (1338); Thirty-three Heavenly Lights / Saw Light Wheel / Soaring Essence Strike (light path, Xia Fei Kuai) (1311); Turn Phantom (não protege contra devoração por dream realm) (1360); Yang Pass Tune (1423); Heaven Swallowing Hound (abre brecha na barreira de um blessed land alheio; exaure o usuário) (1169); Flying Bear Transformation (1177); Horned Divine Tortoise / Lightning Flash Giant Wolf / Golden Sword Teeth Tiger (transformações em ancient desolate beasts) (1216); Investigative dourado de Bai Zu Wei (não penetra familiar face) (1170); clonagem de Heavenly Lord Bai Zu (~30% da força de um rank 8) (1235); conversão regional de heaven-and-earth qi (permite tribular com segurança em outra região) (1215); ataque remoto via life tablet + soul lantern Gu (refletível pelo reverse flow protection seal) (1383); captura de Tang Song (490 Gu worms) (1046); floresta instantânea de Liu Luo/Liu Chang (1209).
+
+### Immortal Gu Houses e Gu formations novas
+
+| Nome (EN) | Rank | Path | Efeito (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Calamity Luck Altar | 8 | luck | Converte qualquer calamidade/tribulação que atinja o grotto-heaven (inclusive human calamity) em nutrição e sorte; operada por 8 Gu Immortals | 1180, 1238 |
+| Luck Suppression Heavenly Palace | 8 | luck | Influencia a sorte do céu e da terra de uma região inteira, inclusive fenômenos naturais; imóvel sob pena de perder 300 mil anos de efeito acumulado | 1242-1243, 1267 |
+| Clear Jade Dripping Wind Tiny Bamboo Building | 8 | wind | Gu House pessoal de Wu Yong, construída por Wu Du Xiu com 2 Immortal Gu de wind path r8 como núcleo; dispara "orvalho de jade" que dissolve efeitos de área ao contato | 1341, 1344, 1389 |
+| Star Constellation Chessboard | — | wisdom | Nº 1 das Immortal Gu Houses de wisdom path, criada pela própria Star Constellation Immortal Venerable; possivelmente a menor do mundo; transforma o usuário em luz estelar e multiplica muitas vezes a capacidade de dedução; no tesouro de Heavenly Court | 1234, 1360, 1365 |
+| Bay Pavilion | 7 | — | Gu House do Yi clan, estilo Eastern Sea, especializada em perseguição e deslocamento de longa distância | 1377 |
+| Regret Pool | — | soul/time | `[segredo]` Gu House da Shadow Sect que RE-REFINA Immortal Gu destruídos a partir de suas insígnias + um tributário do River of Time | 1103, 1104 |
+| Golden Dawn Hall | — | — | Base/observatório móvel da Gong tribe, mobilizável para fora da sede | 1105-1110 |
+| Modest Thatched Hut | — | — | Gu House da antiga Dong Fang tribe, usada em ataque direto; repelida facilmente por Chu Du | 1109 |
+| Fate Reversing Sacrificial Refinement Formation | — (super Gu formation) | time/fate (via Reverse Flow River) | Amplifica os peak lords em 1 rank e suprime invasores; roteia combatentes por rank; devora quem morre dentro como sacrifício de refino | 1252 |
+| Wisdom Refinement Formation | Unravel Mystery + Woman's Heart | wisdom | Formação de refino de Gu de wisdom path | 1082, 1083, 1096 |
+| Wisdom Sweat Formation | núcleo MORTAL de wisdom + Sweat (imortal) como suplemento | wisdom/water | Formação invertida (núcleo mortal, suplemento imortal); cria névoa sobre o rosto durante dedução prolongada | 1329 |
+| Gu formation das coiling thread caves | Blood Asset (r6) | blood | Produz e nutre regretful spiders em escala; dobra a produção se a formação for corretamente modificada | 1334, 1339 |
+| Super Gu formation da Mushroomman Paradise | Ripe (núcleo) + Dew (r7) | rule | Cultivo acelerado para treino de killer moves, com recuperação acelerada de immortal essence na área | 1338 |
+| Blood Red Immortal Essence Formation | Bloodline (r7, roubado do Wu clan) + Gu de wisdom path | blood | Produção/conversão de immortal essence a partir de sangue | 1427 |
+| Luo Po Formation | grande quantidade de White Lotus Giant Silkworm Gu | soul | Formação de soul path criada por Spectral Soul | 1460 |
+| Formação defensiva da Corpse City | Yellow Sand (r6) e outros | earth | Núcleo da defesa da cidade | 1395 |
+| Formação do resource point de dragonfish | Dragon Scale (r7) + Dragon Breath (r7) + Dragon Strength (r6) + ~130 mil mortal Gu | transformation/strength | Eleva o resource point de dragonfish de "grande" para "gigante" | 1471 |
+| Purple Blood River Formation | cadáveres de ruin bats como âncora | blood | Bloqueia transmissão de voz e comunicação por pensamento na área, mais distorção espacial (Purple Mountain True Monarch) | 1341+ |
+| Gu formation milenar de twin ice hearts (Shadow Sect) | twin ice hearts (r7) aos milhares | ice | Depósito/formação de cultivo de material imortal de ice path | 1186 |
+| Green City Rampage | ancient battle formation, multiusuário | — | Forma um gigante verde de poder equivalente a rank 8; 3ª melhor ancient battle formation da história | 1171-1172 |
+| Omni-directional Travel | ancient battle formation, multiusuário | formation/space | Fuga/deslocamento instantâneo de grupo, mesmo de perseguidores de Heavenly Court; recarga lenta, inútil dentro de regional walls; a versão incompleta tem alcance reduzido e consome dao marks dos participantes | 1151, 1253, 1380-1387 |
+
+### Materiais imortais e itens não-Gu relevantes (V5-1ª metade)
+
+| Nome (EN) | Rank | Path | Nota (1 linha) | Capítulo(s) |
+|---|---|---|---|---|
+| Raging Wave Rising Dragon Fire | 9 | fire | Chama viva em forma de dragão voador — o fogo "do homem"/do mar; afasta a água ao redor; outrora domada por Bai Xiang | 1212, 1229 |
+| Bright Light Glorious Ring Fire | 9 | fire | Um dos três fogos supremos — o fogo "do céu" | 1229 |
+| Azure Divine Stone Furnace Fire | 9 | fire | Um dos três fogos supremos — o fogo "da terra" | 1229 |
+| True Dragon Heavenly Water | 8 | water | Revive/restaura vitalidade; dose eficaz de 500 g (mais é desperdício); efeito decrescente por uso no mesmo indivíduo | 1228 |
+| Heavenly Crystals | 8 | — | Produzidos apenas por grotto-heavens ou immemorial nine heavens; alimento do upper extreme heavenly eagle | 1147, 1210 |
+| Twin Ice Hearts | 7 | ice | Material de refino, encontrado aos milhares numa Gu formation milenar da Shadow Sect | 1186 |
+| Marrow Sucking Stone ("demon stone") | 7 | — | Suga seres com medula óssea que se aproximam; cultuada por tribos de mermen por medo | 1297 |
+| Multicolored Guts | 7 | earth | Origina-se do Earth Trench; espalha-se ao contato com o solo e muda de cor absorvendo earth qi | 1163 |
+| Heaven Attached Fungi | 6 | — | Cresce só nos immemorial nine heavens e só onde não há dao marks estranhos, vida ou rochas — indicador (falível) de área segura | 1244 |
+| Light Shine Fungus | 6 (desolate plant) | light | Fungo de coral do fundo do Eastern Sea; emite luz forte com dao marks de light path | 1297 |
+| Spring Dream Fruit Tree | — | dream | Árvore que só existe em sonhos e precisa de uma árvore física hospedeira; os frutos aumentam a eficiência do refino de Gu de dream path | 1232 |
+| Hidden Room Oyster | — (ancient desolate beast) | — | Concha gigante (4 elefantes) usada como abrigo/transporte dentro das correntes da turbulent flow sea area | 1155-1156 |
+
+### Atualizações de fichas já catalogadas (V5-1ª metade)
+
+> Sem duplicar linha: só o dado NOVO e o capítulo. Consultar a ficha original nos blocos dos Volumes 1-4.
+
+| Ficha (bloco de origem) | Dado novo revelado na 1ª metade do V5 | Capítulo(s) |
+|---|---|---|
+| Fate Immortal Gu (V4) | Rank 9 confirmado, path **fate**; maior trunfo de Heavenly Court, guardado na Heaven Overseeing Tower; `[segredo]` foi DANIFICADO por Red Lotus via o Love Immortal Gu e está em reparo (50% → 60%); os três Demon Venerables estão dentro de seus confins; base do killer move Fate Vanquish | 1335, 1359, 1409, 1435 |
+| Wisdom Gu (V4) | Rank 9 confirmado; emite a light of wisdom só com corpo E alma do reconhecido juntos; consome lifespan de corpo vivo; o vínculo de reconhecimento é perdível e readquirível; em posse temporária de Fang Yuan, "não realmente dele" | 1029, 1073-1074, 1221, 1441, 1447, 1481 |
+| Sovereign Immortal Fetus Gu (V4) | Rank 9; gera a nine-five sovereign immortal aperture e um corpo tratado pelas paredes regionais COMO se fosse um Immortal Gu; suporta 1000+ dao marks de todos os paths sem interferência mútua; falha da versão r9: precisa se alimentar de aberturas alheias (a versão "perfeita" seria rank 10) | 1027-1028, 1031, 1043-1044, 1064, 1394, 1481 |
+| Ghostly Concealment (V4) | Rank 9, theft path; é uma CAMADA de dao marks ligada diretamente à alma; oculta de soul beasts; rebaixa em 1 rank qualquer killer move de outro path aplicado à mesma camada; é uma das duas metades da true inheritance de Thieving Heaven (a outra, divine concealment, ficou com Zhao Lian Yun) | 1257, 1408, 1435, 1448, 1503 |
+| Fortune Rivalling Heaven (V3/V4) | Rank 8 com poder quase de rank 9; absorve continuamente a sorte dos seres vivos ao redor e a concentra no possuidor, em efeito bola de neve; sorte permanente sem gasto contínuo de essência (dao marks de luck path); vital Gu tardio de Giant Sun, sucessor do Dog Shit Luck; Old Ancestor Xue Hu tenta refiná-lo atualmente | 1029, 1051, 1168-1169, 1234, 1408 |
+| Heavenly Secret (V3 r7 / V4 r8) | Novos usos: núcleo de "exposing heavenly secret" (prevê o conteúdo da próxima tribulação) e de "heaven's will dissipation" (elimina heaven's will de um alvo selado); criado por Paradise Earth Immortal Venerable, herdado por Old Man Yan Shi; refino por light path | 1462, 1468-1469, 1475-1476 |
+| Attitude Gu (V4) | Rank 8 confirmado; ativável só com energia mental (usável por um rank 6), custo baixo, sem métodos ofensivos mas com usos praticamente ilimitados; gera boa vontade instintiva em criaturas próximas e projeta atitude falsa convincente; engana o escrutínio de um rank 7, a vontade de um rank 8 e até Gu selvagens; **alimento: flowing light fruits** | 1023, 1025, 1040, 1082-1085, 1209, 1221, 1291-1293, 1417, 1431 |
+| Wisdom Sword Gu (V4) | Rank 8; "corta os fios do amor" — remove dao marks de wisdom path plantados pelo Love Gu; exige immortal essence rank 8 genuína (inutilizável por quem só produz red date r7); **alimento: multicolored overlord flowers** | 1083, 1221, 1291, 1297 |
+| Change Soul (V4) | Rank 7 confirmado, soul path; ovo de cisne translúcido com luz de jade, emite frio "voltado à alma"; núcleo do "switch soul in dream" e do ghost official garment | 1023, 1025, 1397, 1448, 1505 |
+| Cleanse Soul (V4) | Rank 6; remove o "soul path trap" de um corpo (immortal zombie), devolvendo o reconhecimento do Wisdom Gu; combinado com killer move e uma alma de rank 7 sacrificada, atua 3 dias e 3 noites por ~1200-1300 contas de red date; multiuso (myriad self + cultivo de alma + controle de exército de soul beasts) | 1424, 1441-1446, 1505 |
+| Dark Limit (V3/V4) | Rank 6; oculta a aura contra dedução e parcialmente contra heaven's will, mas o efeito se ESGOTA com o uso e exige reativação/descanso (inconveniente na fuga, ao contrário do ghost official garment); com grandmaster em dark path ganha 3 usos novos (bloquear dedução externa, imitar dark arrow Gu, ocultar a aura de outros killer moves); substitui a peça de earth path faltante na 2ª camada da super formação | 1063, 1087, 1165, 1211, 1338, 1346, 1356, 1448 |
+| Change Form (V4) | É a **essência do transformation path**; historicamente já foi rank 9 com Reckless Savage, hoje rank 6; como núcleo, dispensa versões imortais dos Gu de componente (escama, garra, chifre, olho) nos killer moves de transformação | 1065, 1197 |
+| Spring Autumn Cicada (V2/V4) | Pode ser ativado DIRETAMENTE pela heaven's will, que substitui o usuário-alvo do salto; rank 6 → 7; atrai má sorte constante; `[segredo]` purificado de heaven's will no cap. 1480; Fang Yuan obteve o conjunto COMPLETO de receitas r6-r9 (17-18 receitas r6, 86 r7) | 1022, 1435, 1477, 1479-1482 |
+| Man as Before (V4) | Rank 6 (há variantes superiores); restaura ferimentos fatais instantaneamente, mas só em corpo HUMANO (não durante transformações), com janela restrita e 20+ contas de red date por uso; a eficácia despenca contra alvos de rank igual/superior ao do Gu — exceto contra Gu Immortals de time path, que a amplificam | 1141, 1258-1259, 1407, 1431, 1441 |
+| Landscape as Before (V3/V4) | Origem Shadow Sect; restaura/regenera domínios secludidos, muito eficaz em Dang Hun Mountain e Luo Po Valley (modificados) e quase inútil no Reverse Flow River (nunca modificado) | 1302 |
+| Connect Luck (V4) | Rank 6; conecta PERMANENTEMENTE a sorte de duas partes, que passam a compartilhar fortuna e desgraça; permite localizar remotamente o vinculado via qi luck sensation e projetar o Burning Soul Bursting Luck à distância; ficou preso dentro do treasure yellow heaven fechado | 1079, 1082, 1153, 1212, 1239, 1405, 1512 |
+| Divert Disaster (V3/V4) | Desvia calamidades para FORA da própria blessed land; parte da herança "all living being's luck" de Giant Sun | 1051 |
+| Beast Enslavement (V4) | Captura/subjuga desolate beasts, mas **NÃO funciona em seres cheios de heaven's will** | 1082, 1094 |
+| Fixed Immortal Travel (V4) | Sabotável: uma "vontade especial" implantada no Gu pode causar a autodetonação do usuário ao teleportar | 1023, 1026 |
+| Expand Space (V4) | Adiciona dao marks de espaço à abertura, ampliando o TAMANHO sem alterar o teto de grau da blessed land | 1027-1028 |
+| Become Real (V4) | Dentro de um dream realm, cria um corpo vivo "do nada": lifespan de 18 h, o rank sobe automaticamente a cada 2 h e o corpo autodetona num dream realm gigante | 1023 |
+| Unravel Mystery (V4) | Rank 6, wisdom; base da killer move "unravel dream" — única forma de entrar e sair de um dream realm; também usado como SEGUNDO núcleo fundido no qi luck sensation; núcleo (com Woman's Heart) da Wisdom Refinement Formation | 1023, 1082, 1083, 1096, 1239 |
+| Woman's Heart (V4) | Além do refino, gera o killer move Poison Breath | 1082, 1083, 1096 |
+| Sword Escape (V4) | Rank 7; burst de deslocamento extremo escalado por dao marks (1.000 = 2×; 10.000 = 10×), mais rápido que o Blood Torrent r6; **só voa em LINHA RETA e precisa parar para virar**; ex-Gu de Bo Qing | 1032-1033, 1061, 1086, 1204, 1257 |
+| Flying Sword (V4) | Rank 7; sword light de altíssima velocidade e alto consumo de essência; era o Gu mais usado por Bo Qing em vida; `[segredo]` portava uma insígnia oculta de true inheritance de information path, gravada por método raro | 1032-1033, 1063, 1101-1102, 1112-1113 |
+| Wave Sword (V4) | Rank 7; alterna forma de lâmina e de água; núcleo do Triple Layered Sword Wave | 1055-1056 |
+| Sword Eyebrows (V4) | Contribui dao marks de sword path ao portador | 1204 |
+| Calamity Beckoning (V3/V4) | Rank 7: abre a entrada de um immortal aperture a pedido e força a saída de conteúdo indesejado de dentro | 1113 |
+| Pulling Water (V4) | Versão imortal rank 6, water/strength: move rios e corpos d'água à vontade, porém devagar — insuficiente sozinho contra uma correnteza; componente-base do Myriad Self Second Style | 1248, 1287 |
+| Pulling Mountain (V4) | Arremessa uma montanha inteira como arma; sozinho, ineficaz contra o City Well — só funcionou como núcleo de um killer move novo potencializado pela light of wisdom | 1113, 1488 |
+| Cauldron Strength (V4) | Caldeirão flutuante usado por Yao Huang para fundir immortal materials no refino de "resurrection from the dead" (r8) | 1144 |
+| Flying Bear Strength (V4) | Rank 6, strength path em declínio; alimenta o killer move Flying Bear Transformation; usado por Fang Yuan como moeda de troca pelo Divination Tortoise Shell Gu | 1082, 1177, 1299 |
+| Iron Crown Eagle Strength (V4) | Rank 6; vendido por Ying Wu Xie no treasure yellow heaven e depois preso no mercado fechado | 1071, 1079 |
+| Lifespan Gu (V1/V2/V4) | Usado por Gu Immortals rank 7+ para manter aparência jovem; exemplar mortal de 100 anos serve de "diferença" para equilibrar trocas de Immortal Gu | 1035, 1128, 1299-1300 |
+| Guts Gu (V3/V4) | Cura dano de alma com eficácia desproporcional; originado do secluded domain Dang Hun Mountain; produzido a partir de almas de desolate beasts; a quantidade necessária escala com a profundidade do estágio do dream realm | 1198-1199, 1247, 1324-1325 |
+| Derivation Gu (V1, mito) | Usado por Limitless Demon Venerable para "derivar" novos dao marks a partir de dao marks caóticos — rule path | 1176 |
+| Yin Yang Rotation Gu (V1) | Se a "outra metade" fosse refinada em Immortal Gu, reverteria PERMANENTEMENTE o sexo de Bai Ning Bing | 1237 |
+| Moving Perspective Cup Gu (V2) | Transporta objetos via "Space Door" ATRAVESSANDO as paredes regionais — por isso chamado de "mortal Gu supremo" | 1032 |
+| Stargate Gu (V2) | Portal entre blessed lands cadastradas usando a luz das estrelas do black heaven; só transporta quem tem baixo cultivo/poucos dao marks | 1028, 1032, 1078 |
+| Connecting Heaven Gu / Divine Sense Gu (V2) | Conecta o usuário a um "heaven" fragmentado (ex.: Treasure Yellow Heaven) e projeta consciência/sentidos lá dentro | 1025, 1027 |
+| Three Star Cave Gu (V1) | Vira casa-árvore com espaço habitável interno no tronco | 1032-1033 |
+| Blood Handprint Gu (V2, mortal r5) | Existe agora um exemplar IMORTAL, obtido por Shang Yan Fei na Blood Sea true inheritance | 1339 |
+| Grass Puppet Gu (V2, mortal) | Existe versão imortal rank 6 (ver tabela de rank 6 acima) | 1052, 1060 |
+| Luck Inspection Gu (V3/V4, mortal) | Existe versão imortal rank 6 (ver tabela de rank 6 acima); a versão imortal detecta identidade verdadeira sob familiar face | 1060, 1151, 1154 |
+| Jin/Jun Strength (V3) | Família criada por Chu Du; base do "human jun strength branch" | 1057 |
+| Refinement Cauldron (Immortal Gu House, V4) | Núcleo destruído: íntegro daria 60% de sucesso no refino do change form rank 6; as partes remanescentes ainda ajudam | 1067 |
+| Dark Prison (Immortal Gu House, V4) | Registrada como PERDIDA pela Hei tribe antes deste bloco | 1109 |
+| Lead Soul Into Dream (V4) | A versão completa prende a vítima definitivamente num dream realm; a versão reconstruída só a empurra para dentro e para fora, com efeito decrescente | 1260 |
+| Unravel Dream (V4) | O efeito muda para se adequar ao dream realm, sempre criando algo que beneficia o usuário; gasta Gu mortais de dream path | 1227 |
+| Myriad Self (V3/V4) | Cria um exército de clones/fantasmas do usuário para ataque em massa e como camuflagem do corpo real; ganha o "second style" (ver killer moves) | 1170, 1259, 1287 |
+| Formless Hand (V3/V4) | Rouba Immortal Gu de terceiros (Thieving Heaven) | 1051 |
+| Unfamiliar / Vaguely Familiar / Familiar Face (V4) | Família de disfarce em ordem crescente de qualidade; a versão completa exige o Change Form Gu — sem ele, Fang Yuan precisou de +1.000 mortal Gu suplementares; integrada ao Blood Asset, disfarça também a assinatura sanguínea e engana testes de parentesco de rank ≤7 | 1040, 1051, 1217, 1220 |
+| Heavenly Essence Treasure Imperial Lotus (V1/V4) | Serve de reserva/bateria de essência imortal emprestável, propriedade da Lang Ya Sect | 1053 |
+| White Form Immortal Snake Gu (V1) | Rank 5; funciona como token/guia de bloodline: qualifica o portador com sangue Bai Xiang para a aposta dos Heaven Surveying Five Xiangs e o guia até a Bai Xiang grotto-heaven | 1166, 1194 |
+| Bone Spike Gu (V2, mortal r3) | Existe versão imortal rank 6, obtida nas heranças residuais da Immortal Succession Mountain | 1132, 1291, 1299 |
+| Wild Freedom Gu (V4) | Na lenda, fundido num freedom Gu gigante, consegue roubar até um Love Gu de seu portador | 1230 |

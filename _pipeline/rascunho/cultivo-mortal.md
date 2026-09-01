@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Cultivo mortal (aperture, aptidão, essência, ranks 1–5)
 
-> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **1ª metade do Volume 5**: fecha o **grau D de aptidão em 20–30%** (cap. 1491, batendo com a descrição de "2-3 camadas" do V1) e entrega a **escala completa da fundação de alma** — man soul → 100 milhões (limiar de solidificação) → 900 milhões (teto do tier) → *desolate soul* → teto absoluto do mundo em 100 milhões de desolate soul (caps. 1460, 1505, 1509). Ver também a nota de correção `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`, incorporada abaixo.
 > Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção. NOTA V4: os 372 capítulos do Volume 4 se passam quase inteiramente no reino imortal — **nenhum novo limiar percentual de aptidão para ruptura de rank apareceu** (a prioridade de LACUNAS.md segue aberta); as novidades mortais estão na seção V4 ao final.
 
 ## Resumo do domínio
@@ -27,6 +28,10 @@ Todo cultivador deste mundo é um **Mestre Gu**: aos 15 anos forma, na Cerimôni
 10. Um Mestre Gu pode, com um pensamento, autodestruir os próprios Gu antes de morrer (mais rápido que um piscar); por isso saque de Gu de inimigos mortos é raro fora de ambientes que suprimam essa regra (caps. 210, 280, 345, 352).
 11. `[comum]` **Supressão regional**: cruzar para outra das cinco regiões suprime a força de combate em exatamente UM rank; a pessoa se readapta gradualmente com o tempo, mas os Gu worms trazidos de fora ficam suprimidos para sempre — um Gu só "pertence" à região onde foi REFINADO (caps. 426, 430, 477).
 12. `[especializado]` A alma tem fundação própria, medida em múltiplos da alma de uma pessoa comum ("X man soul") — eixo de progressão paralelo à essência; fortalecer (quantidade) e refinar (qualidade) são processos distintos (caps. 411, 422, 508).
+13. `[comum]` **A aptidão é o TETO de armazenamento da abertura, e por isso funciona como trava direta de rank**: romper a parede para o rank 2 exige projetar **55% da essência de uma só vez** (caps. 90-91) — quem não alcança a porcentagem simplesmente não rompe sem ajuda externa. Faixas canônicas: **grau D 20–30%** (caps. 1491 e V1), **C 40–59%**, **B 60–79%**, **A 80–99%**, **Constituição Extrema 100%**. Abaixo de 20% não existe grau inferior: a pessoa não é Mestre Gu (V1). O grau C só passa ao rank 2 na faixa 55–59% e quase nunca alcança o rank 3 (caps. 91, 105); o grau D raramente passa do rank 1 (cap. 1491). `inferido (coerente com o texto)`: os limiares seguintes seriam 65/75/85 — só o 55% é canônico (ver `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`).
+14. `[especializado]` **Dois eixos independentes da essência**: densidade **×2 a cada estágio** (pequeno reino) e qualidade **×10 a cada rank** (grande reino, cap. 26); o custo de CONVERSÃO entre estágios é 4:1 (caps. 29, 34) e não deve ser confundido com potência. Quantidade armazenada (aptidão, em % da abertura) e qualidade da essência são escalas ortogonais — um grau A rank 1 tem muito mais essência que um grau D rank 1, mas a essência dos dois é igualmente verde-cobre.
+15. `[especializado]` **A escada percentual termina no mundo mortal**: a ascensão 5→6 não é "encher 100%" — é estilhaçar a abertura e equilibrar os três qi (ver `cultivo-imortal.md`). Na passagem imortal a aptidão deixa de mandar; o que decide é o **human qi acumulado nos ranks 1-5**, que fixa a grade da abertura imortal resultante (cap. 1367).
+16. `[especializado]` **Escala da fundação de alma, fechada**: single → ten → hundred → thousand → … → million → ten million → **hundred million man soul** (limiar de SOLIDIFICAÇÃO: a alma deixa de ser fantasmagórica e passa a interferir fisicamente no mundo real, caps. 1460, 1508); daí em incrementos de 100 milhões até **900 milhões**, teto do tier; o salto seguinte é qualitativo, para **desolate soul**; o teto absoluto que o mundo comporta é **100 milhões de desolate soul** (caps. 1505, 1509).
 
 ---
 
@@ -494,3 +499,89 @@ Rank 3 é o momento de escolher especialização entre as seis direções funcio
 - **Selar a própria immortal aperture** (caso-limite, caps. 963-965): um Gu Immortal com DUAS aberturas pode selar a imortal e reverter temporariamente a Gu Master mortal — única forma de entrar em zonas que alvejam aberturas imortais. Mortal com poucos dao marks também entra em fragmentos frágeis onde imortais não podem (caps. 909, 983) — "cultivo baixo" tem valor estratégico próprio.
 - **Battle will** (cap. 963-964): combate feroz de mortais gera "vontade de batalha", recurso convertível/acumulável (disputas de posse de Immortal Gu House via peões mortais); imortais canalizam a battle will de peões sem que eles saibam.
 
+
+## Atualizações do Volume 5 — 1ª metade (caps. 1022–1513)
+
+### Aptidão — os números fechados (CORREÇÃO consolidada; fecha a lacuna prioritária nº 1)
+
+`[comum]` a existência da escala; `[especializado]` os limiares exatos.
+
+Fonte: `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md` (verificação direta no texto-fonte) + confirmação independente no V5.
+
+| Grau | Faixa de aptidão | Teto de progressão típico |
+|---|---|---|
+| (sem talento) | abaixo de 20% | **não se torna Mestre Gu** — não há grau abaixo do D |
+| **D** | **20–30%** | rank 1; no máximo rank 2 (caps. 1491, V1) |
+| **C** | 40–59% | rank 2; rank 3 só excepcionalmente (caps. 91, 105) |
+| **B** | 60–79% | rank 3–4 |
+| **A** | 80–99% | topo mortal (rank 5) |
+| Constituição Extrema | 100% | ver `transformacoes-e-corpos-especiais.md` |
+
+- **A regra que amarra tudo**: romper a parede da abertura para subir de rank exige **projetar de uma só vez uma porcentagem mínima da essência primeva**. Como a aptidão fixa o TETO de armazenamento, ela é uma trava direta de rank. Canônico: **1→2 exige 55%** ("sem situações especiais", cap. 90) — por isso um grau C só passa dentro da faixa 55–59% (cap. 91) e um 44% fica travado no rank 2 por mais de cem anos até conseguir um Gu que eleve aptidão (cap. 105).
+- **Grau D = 20–30%, confirmado em duas passagens independentes**: o V5 afirma diretamente que Mestres Gu de grau D têm de vinte a trinta por cento de essência primeva na abertura, que a maioria fica no rank 1 e termina a vida na base da hierarquia (cap. 1491); o V1 já descrevia o grau D como um mar primevo de "2 a 3 camadas" da abertura. **A wiki erra ao dizer 20–39%** — prevalece o texto. Zona 31–39% não é descrita pela obra (provável arredondamento narrativo).
+- **Grau D não é sentença**: **Thieving Heaven Demon Venerable (Ben Jie Sun) nasceu com aptidão grau D** e ainda assim se tornou Venerável rank 9 (caps. 1491-1492) — a rota foi outherworldly demon + theft path, não o teto de essência. `[segredo]`
+- **Calibração prática do custo**: o Sneak Attack Gu (rank 2) consome apenas 10% de essência green copper (rank 1) por uso — eficiência alta para o rank; ainda assim um usuário grau D (20–30% de essência total) só o dispara **duas vezes** antes de secar (cap. 1500). É a melhor ilustração da tabela: o grau não muda a qualidade da essência, muda quantas vezes se age.
+- `inferido (coerente com o texto)`: os limiares seguintes seriam 65 / 75 / 85 para 2→3, 3→4 e 4→5 — encaixa com a distribuição social de ranks que a obra descreve (grau C trava logo abaixo de 65%; grau B alcança 3 mas não 85%; só grau A chega ao topo mortal). **Somente o 55% é canônico**; o resto é reconstrução de design e deve ser marcado como extrapolação nas notas finais.
+- **Aptidão é alterável também por Gu MORTAL**: o **polished gold Gu** (mortal, consumível de uso único, encontrado na gold fragment current) aumenta a aptidão de um Gu Master — descrito como algo que "faria qualquer Gu Master mortal enlouquecer" de desejo; para um Gu Immortal é quase inútil. O texto não quantifica o aumento (caps. 1155, 1160). Junta-se ao Blood Skull Gu / Reform Gu / Gu de elevar talento do V1-V2.
+
+### Os dois eixos da essência (consolidação numérica)
+
+`[especializado]`:
+
+| Eixo | Fator | Fonte |
+|---|---|---|
+| Estágio → estágio (pequeno reino): **densidade** | **×2** | nota do tradutor, V1 (88% de tier médio = 44% de tier superior) |
+| Rank → rank (grande reino): **qualidade** | **×10** | cap. 26 (1 porção de vermelho-ferro = 10 de verde-cobre; 1 de branco-prata = 10 de vermelho-ferro) |
+| Custo de CONVERSÃO entre estágios (não é potência) | **4:1** | caps. 29, 34 (20% de essência inicial → 5% de média) |
+| Eficiência de cultivo com essência de estágio médio | "no mínimo ×2" | cap. 34 |
+
+- **Armadilha de conversão para RPG**: quantidade armazenada (aptidão, em % da abertura) e qualidade/densidade da essência são escalas ORTOGONAIS. Somá-las numa única "estatística de poder" é o erro mais fácil de cometer.
+- Acumulado do rank 1 ao 3, a qualidade dá ×100.
+
+### Fundação de alma — escala completa (fecha a lacuna aberta desde o V3)
+
+`[especializado]` a escala; `[segredo]` o topo.
+
+- **Escala nominal, em ordem**: single man soul < ten man soul < hundred man soul < thousand man soul < … < million man soul < ten million man soul < **hundred million man soul** (cap. 1460).
+- **Benchmark de tempo**: um Gu Master comum, com **20 anos de cultivo dedicado de soul path**, chega a "thousand man soul" (cap. 1460). Compare com o teto "hundred man soul" que o V3 registrava como limite prático de um mortal comum — a diferença é o cultivo DELIBERADO de soul path.
+- **100 milhões de man soul = limiar de SOLIDIFICAÇÃO**: a alma deixa de ser fantasmagórica e passa a **interferir fisicamente no mundo real** (teste documentado: segurar um punhado de areia com a alma fora do corpo) — é a forma em que Spectral Soul foi visto na Batalha de Yi Tian Mountain (caps. 1460, 1508). Ainda assim é frágil: deficiência inerente da espécie humana (alta compreensão, corpo e alma fisicamente inferiores a outros seres) (cap. 1505).
+- **Este era o TETO ABSOLUTO da alma humana** antes de Red Lotus Demon Venerable ferir o Fate Gu; quando ele quebrou as correntes do destino, esse limite caiu junto — mas **ninguém sabia COMO avançar além dele até Spectral Soul criar o soul path** com attainment de supreme grandmaster (cap. 1505). `[segredo]` Na época, ter 1 milhão de man soul já era considerado extraordinário (cap. 1505).
+- **Acima de 100 milhões, a progressão anda em incrementos de 100 milhões**: 100M → 200M → … → **900M**, que é o TETO do tier "man soul". O salto seguinte NÃO é 1 bilhão: é uma mudança QUALITATIVA de tier para **desolate soul** (cap. 1509).
+- **Desolate soul**: ao cruzar, a alma SOZINHA passa a ter a força de um *desolate level soul beast* (caps. 1505, 1509).
+- **Teto absoluto que o mundo comporta: 100 milhões de desolate soul** — nesse nível a força de batalha é **quase-rank 9** e a alma resiste sozinha, diretamente, a calamidades e tribulações (cap. 1505). `[segredo]` Mesmo 100 milhões de man soul é apenas "meio caminho" nos registros de cultivo de alma da true inheritance de Spectral Soul (cap. 1505).
+- **Ciclo de três passos para crescimento rápido e LIMPO** (método documentado): (1) usar **guts Gu** para inflar a alma depressa — ganho bruto, mas com "impurezas"/efeito fantasma; (2) temperar em **Luo Po Valley** ("como ferro"), removendo as impurezas; (3) descansar/dormir para dissipar a agitação residual. **Resultado contraintuitivo: a fundação final pode ser NUMERICAMENTE MENOR que o pico bruto pós-guts-Gu, mas muito mais sólida** (ex.: 3 milhões brutos → 1 milhão estabilizado) (cap. 1460). `[segredo]`
+- **Soul foundation é orçamento de controle**: determina quantos immemorial year beasts / soul beasts se controla simultaneamente. Com 90 milhões de man soul e apenas 2 Immortal Gu de soul path, o teto prático foi ~60 soul beasts desolate + ~20 ancient soul beasts (expansível ~3× com recrutas). O teto pessoal é função de (1) soul foundation e (2) quantidade/qualidade de Immortal Gu de soul/enslavement path (caps. 1503, 1505).
+- **Dano de alma — assimetria mortal × imortal**: num teste letal de dream realm, se um MORTAL comum falha uma vez, sua alma se dissipa no local (morte real da alma); para um Gu Immortal cada falha apenas enfraquece (cap. 1247). Limite empírico documentado: 17–18 quedas consecutivas antes de a alma atingir o limite, tudo curável em seguida com guts Gu (cap. 1247); com boa base de alma, a recuperação plena após cura leva "pouco mais de dez respirações" (cap. 1231).
+- **Alma forte ≠ capacidade de dream path** (regra importante): alma forte torna o explorador mais RESISTENTE (aguenta mais tempo no sonho, resiste melhor ao backlash), mas não dá navegação, criação de recursos dentro do sonho nem capacidade de encolher/sair à vontade — só o dream path (ou killer move de alto attainment nele) dá controle real. Analogia da obra: a resistência é o cantil, não o mapa do deserto (cap. 1226).
+- Criar um split soul CUSTA fundação permanentemente: 10 milhões → 9 milhões de man soul num único clone (cap. 1481). Ver `paths.md` (soul path) e `transformacoes-e-corpos-especiais.md`.
+
+### Dao marks natos (fundação anterior ao cultivo)
+
+`[especializado]` (novidade do V5 — antes os dao marks só se ganhavam por tribulação/consumo):
+
+- **Extreme physiques conferem dao marks NATOS** que superam "a maioria dos rank 6 Gu Immortals em condição equivalente" — confirmado para a Great Strength True Martial Physique e a Northern Dark Ice Soul Physique (cap. 1258). Explica retroativamente como um mortal com physique extrema suprime Immortal Gu (lacuna aberta desde o cap. 649).
+- **Rockmen** têm dao marks nativos de earth path abundantes só por nascença, que complementam o cultivo intencional daquele path (cap. 1259). Provável regra geral para variantes humanas ligadas a um elemento.
+
+### Mortais no reino imortal — o que é e o que não é possível
+
+- **Um mortal pode legitimamente POSSUIR um Immortal Gu**: normalmente um Gu Immortal não consegue tomá-lo, pelo risco de o mortal destruir o Gu junto consigo antes de cedê-lo. Com a vontade subjugada (controle mental/possessão) esse risco desaparece e a proteção some (cap. 1414). `[especializado]`
+- Um mortal pode **passar num teste de herança de nível Gu Immortal** e ser formalmente aprovado, e ainda assim ficar incapaz de subjugar o guardião da herança (caps. 1411-1415).
+- Corpo físico protege onde uma alma não sobreviveria: um mortal sobreviveu meses dentro do estômago de um green claw ghost winged lion (devorador de almas), onde uma alma teria sido desfeita instantaneamente (cap. 1415).
+- `[segredo]` **Phantom aperture / "false immortal"**: tecnologia furtada da Heavenly Court pela Shadow Sect, dominada apenas 50–60% — permite a um MORTAL ter força de Gu Immortal temporariamente, **sem passar por tribulação**, usando green grape immortal essence e Immortal Gu. Sem manutenção contínua perde os efeitos; tempo de uso limitado (cap. 1194). É a única rota conhecida de "poder imortal sem ascensão".
+
+### Economia e escala do mundo mortal
+
+- **Rank 2 é o ponto ideal de equipagem em massa** `[comum]`: rank 1 é fraco demais para valer produção em escala; rank 3 é caro e há poucos Mestres rank 3 disponíveis; rank 2 é forte e barato o bastante para armar um exército inteiro (cap. 1501).
+- Um mortal comum sustenta **5–6 mortal Gu**; um Gu Immortal no nível 1 de desenvolvimento da própria aperture produz **milhões de mortal Gu de uma vez** (cap. 1461) — a diferença de escala entre os dois mundos.
+- **Refino mortal em lote tem backlash real**: um refinador quase perde um lote de +100 self will Gu (rank 5) por erro no controle do fogo de refino e sacrifica o próprio sangue para corrigir na hora, sangrando pelos sete orifícios (cap. 1199).
+- **Estrutura mortal não suporta vazamento de poder imortal**: uma sala secreta de *mortal* Gu house foi destruída apenas pelo vazamento de um ataque com Immortal Gu rank 7 ativado dentro dela (cap. 1200).
+- `[comum]` **Lifespan Gu são Gu MORTAIS** — e ainda assim são a moeda mais forte que existe entre Gu Immortals, valendo tanto ou mais que Immortal Gu em transações de alto nível, acima das immortal essence stones. Alimentam-se de essência primeva (caps. 1074, 1128; ver `longevidade.md` e `economia-e-vida.md`).
+- **Rank 9 não existe para feras, plantas ou variantes humanas — só para humanos** (caps. 1299-1300). `[especializado]`
+- **Cerimônia do despertar, variante cultural**: em ao menos um clã, reagir com emoção audível durante a cerimônia acarreta punição severa, incluindo exílio — que para um jovem mortal geralmente significa morte (caps. 1491-1492).
+
+### Lacunas do domínio (atualização V5-1ª metade)
+
+- ~~Limiares percentuais de ruptura de rank / faixa numérica do grau D~~ ✅ **RESPONDIDO**: 55% para 1→2 (caps. 90-91) e grau D = 20–30% (cap. 1491). Segue sem resposta canônica os limiares 2→3, 3→4, 4→5 (adotados 65/75/85 como `inferido`).
+- (novo V5) Quanto o **polished gold Gu** eleva a aptidão — o texto nunca quantifica (caps. 1155, 1160).
+- (novo V5) A escala de soul foundation salta de 10 milhões (cap. 1471/1481) para 90 milhões (caps. 1503, 1495) sem evento explicativo registrado nas notas — possível erro de transcrição ou crescimento não narrado. Registrado em LACUNAS.
+- (novo V5) Zona de aptidão 31–39% (entre o topo do D e o piso do C) nunca é descrita pela obra.

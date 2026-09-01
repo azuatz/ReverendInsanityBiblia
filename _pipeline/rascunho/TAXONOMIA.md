@@ -112,3 +112,37 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
   de extensão (Possession/Yin-Yang), lifespan como custo de dedução** →
   `longevidade.md`. Catálogo V3 em bloco próprio ao final de `catalogo-gu.md`;
   +14 estudos de caso.
+- 2026-09-01 — Consolidação do **Volume 5, 1ª metade** (blocos 5.1–5.12, caps. 1022-1513):
+  NENHUM domínio novo — tudo coube na taxonomia existente. A sugestão recorrente de
+  abrir um `heaven-will-e-fate.md` foi RECUSADA de novo, pelo mesmo motivo do V4: o
+  escopo declarado de `mundo-e-cosmologia.md` já inclui "Heaven's Will, Fate Gu,
+  Heavenly Court". Alocações decididas nesta leva: **princípio "tira dos excessos, repõe
+  déficits", cadência fechada de tribulações (9 EC antes da 1ª HT; r7 = 24 EC + 3 HT +
+  3 GT), rendimento numérico de dao marks por provação, fórmula final dos dao marks
+  (100/1.000/10.000/50.000), anexação e fusão de immortal apertures (fundação × rank,
+  tabela de attainment, 3 vias, skip de calamidades), 7 níveis de desenvolvimento de
+  aperture, land spirits (não mentem), essência imortal (100 stones = 1 red date bead),
+  ascensão pelos três qi, Heavenly Court como fusão de apertures, rank 10 "Destiny"** →
+  `cultivo-imortal.md`; **grau D = 20–30% + limiar 55% + os dois eixos da essência
+  (×2 estágio / ×10 rank) + escala completa da fundação de alma (man soul → desolate
+  soul) + dao marks natos por physique/raça + phantom aperture/false immortal** →
+  `cultivo-mortal.md` (a correção de limiares veio de
+  `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`); **paths criados por fundadores
+  (Gu selvagens existem antes), attainment em 9 níveis + "herança tem teto em great
+  grandmaster", time path/year Gu, rule path nomeado, formation path, conversão de dao
+  marks entre paths** → `paths.md`; **"will" como programa do Gu e a impossibilidade de
+  refinar Immortal Gu roubados à força, refino paralelo, números de refino, criação e
+  backlash de killer moves, Immortal Gu Houses** → `gu-sistema.md`; **heaven's will
+  formalizada (janelas de ação; velocidade como defesa), fate vs. luck, fate escapee =
+  otherworldly demon, Heaven Overseeing Tower, Reverse Flow River, rank 9 como categoria
+  ontológica** → `mundo-e-cosmologia.md`; **sovereign immortal body completo + Pure Dream
+  Reality Seeker Physique** → `transformacoes-e-corpos-especiais.md`; **Heavenly Court
+  como instituição, Shadow Sect, estruturas de herança, Great Era** →
+  `sociedade-e-organizacoes.md`; **100 stones = 1 bead, renda passiva por rank, lifespan
+  Gu como moeda** → `economia-e-vida.md`; **custo estrutural dos day/month/year Gu contra
+  lifespan Gu genuínos** → `longevidade.md`. Catálogo V5-1ª metade e estudos de caso em
+  blocos próprios ao final dos respectivos arquivos.
+- 2026-09-01 — Convenção de marcação de cobertura parcial: rascunhos consolidados só até
+  o meio de um volume levam `cobre até: Volume N (parcial, caps X-Y)`, e a seção de
+  atualização se chama `## Atualizações do Volume N — 1ª metade (caps. X–Y)`. A 2ª
+  metade acrescenta seção própria em vez de reescrever a primeira.

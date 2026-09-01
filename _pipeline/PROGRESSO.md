@@ -8,11 +8,14 @@
   0–2334, ~19.900 linhas de notas brutas em `_pipeline/notas/`. Nenhum arquivo vazio
   (verificado). A obra termina no cap. 2334 sem fechamento narrativo — a fonte corta
   no meio de uma batalha; registrado como está, sem inventar desfecho.
-- Volumes 1–4 consolidados nos rascunhos ("cobre até: Volume 4").
-- Volumes 5 e 6 lidos, **consolidação pendente**: a consolidação do V5 foi
-  interrompida por fim de créditos da API e precisa ser refeita do zero.
-- Próxima ação: consolidar V5 (em 2 partes, para reduzir risco) e depois V6; então
-  seguir para pesquisa externa → escrita final → verificação.
+- Volumes 1–4 consolidados nos rascunhos.
+- **Volume 5, 1ª metade (blocos 5.1–5.12, caps. 1022-1513) CONSOLIDADA** (2026-09-01):
+  todos os 12 rascunhos de domínio marcados "cobre até: Volume 5 (parcial, caps
+  1022-1513)", com seção própria `## Atualizações do Volume 5 — 1ª metade`.
+- Volume 5, 2ª metade (blocos 5.13–5.23, caps. 1514-1966) e Volume 6: lidos,
+  **consolidação pendente**.
+- Próxima ação: consolidar a 2ª metade do V5 e depois o V6; então seguir para
+  pesquisa externa → escrita final → verificação.
 
 ## Blocos de leitura
 
@@ -43,18 +46,18 @@
 | 4.7 | 902–941 | ✅ | ✅ |
 | 4.8 | 942–981 | ✅ | ✅ |
 | 4.9 | 982–1021 | ✅ | ✅ |
-| 5.1 | 1022–1062 | ✅ | — |
-| 5.2 | 1063–1103 | ✅ | — |
-| 5.3 | 1104–1144 | ✅ | — |
-| 5.4 | 1145–1185 | ✅ | — |
-| 5.5 | 1186–1226 | ✅ | — |
-| 5.6 | 1227–1267 | ✅ | — |
-| 5.7 | 1268–1308 | ✅ | — |
-| 5.8 | 1309–1349 | ✅ | — |
-| 5.9 | 1350–1390 | ✅ | — |
-| 5.10 | 1391–1431 | ✅ | — |
-| 5.11 | 1432–1472 | ✅ | — |
-| 5.12 | 1473–1513 | ✅ | — |
+| 5.1 | 1022–1062 | ✅ | ✅ |
+| 5.2 | 1063–1103 | ✅ | ✅ |
+| 5.3 | 1104–1144 | ✅ | ✅ |
+| 5.4 | 1145–1185 | ✅ | ✅ |
+| 5.5 | 1186–1226 | ✅ | ✅ |
+| 5.6 | 1227–1267 | ✅ | ✅ |
+| 5.7 | 1268–1308 | ✅ | ✅ |
+| 5.8 | 1309–1349 | ✅ | ✅ |
+| 5.9 | 1350–1390 | ✅ | ✅ |
+| 5.10 | 1391–1431 | ✅ | ✅ |
+| 5.11 | 1432–1472 | ✅ | ✅ |
+| 5.12 | 1473–1513 | ✅ | ✅ |
 | 5.13 | 1514–1554 | ✅ | — |
 | 5.14 | 1555–1595 | ✅ | — |
 | 5.15 | 1596–1636 | ✅ | — |

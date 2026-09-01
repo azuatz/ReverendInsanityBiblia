@@ -375,6 +375,219 @@ Regras transversais extraídas: Immortal Gu podem ser "expenditure" (usos finito
 
 - "Top Ten Mystical Gu" reconfirmada como lista corrente (Qi Escape = nº 4, Spring Autumn Cicada = nº 7, cap. 678; Star Eyes = nº 10, cap. 988) — segue não conciliada com os rankings Immortal/Demonic do V1 (LACUNAS item 9).
 
+## Atualizações do Volume 5 — 1ª metade (caps. 1022–1513)
+
+### O princípio único por trás de calamidades e tribulações (revelação central da metade)
+
+`[especializado]` — enunciado por um rank 8 a outro (cap. 1180):
+
+- **"O céu tira dos excessos e repõe os déficits"** (*heaven takes away surpluses while replenishing deficits*) é o mecanismo por trás de TODAS as calamidades e tribulações (cap. 1180). Corolário explícito: **calamidade retira excedentes; sorte (luck) repõe déficits** — calamidade e sorte são as duas faces do MESMO mecanismo administrativo da heaven's will (cap. 1180). Isso reinterpreta retroativamente todo o luck path (ver `paths.md`) como o "outro braço" do mesmo sistema, e explica por que Giant Sun nunca entrou na Heavenly Court: o luck path USURPA a autoridade do céu, enquanto a Heavenly Court a defende (cap. 1180).
+- Qualquer existência que quebre o ciclo de equilíbrio atrai calamidades — **não é exclusivo de humanos**: desolate beasts e desolate plants também sofrem tribulações (uma "thousand snakes haze tree" enfrenta tribulation lightning) (cap. 1180). Humanos/Gu Immortals são mais visados por terem a maior inteligência E por administrarem mundos pequenos próprios, o que atrai a desconfiança do céu (cap. 1180).
+- Regra derivada: **quanto maior a fortuna, maior o desastre — e maior a recompensa em dao marks** (cap. 1161). Uma aperture de fortuna extrema tem as calamidades elevadas ao **limite máximo permitido**, o que maximiza o ganho de marks (cap. 1161).
+- `[segredo]` **Teto de poder das earthly calamities**: a "lei do equilíbrio do way of heaven" fixa um teto que **nem a heaven's will ultrapassa** — a calamidade se esgota, e quem sobrevive ao pico venceu (cap. 1098). É a brecha estrutural do sistema: earthly calamities são finitas e mensuráveis, portanto exploráveis (ver `estudos-de-caso.md`).
+
+### Cadência de calamidades e tribulações — a tabela fechada
+
+`[especializado]`. Consolida e substitui a tabela parcial do V4:
+
+| Rank | Cadência (tempo INTERNO da aperture) | Total ao completar o rank | Avanço |
+|---|---|---|---|
+| 6 | earthly calamity /10 anos; heavenly tribulation /100 anos | **9 earthly calamities antes da 1ª heavenly** (cap. 1185); 27 EC + 3 HT em 300 anos (cap. 1097) | 3 heavenly tribulations → rank 7 (caps. 1097, 1186) |
+| 7 | earthly /10; heavenly /50; **grand tribulation** /100 | **24 earthly + 3 heavenly + 3 grand** (cap. 1470) | 3 grand tribulations (300 anos) → rank 8 (cap. 1217) |
+| 8 | myriad tribulations | **3 myriad tribulations** (cap. 1398) | → rank 9 |
+
+- **A força de cada grand tribulation sucessiva cresce "dezenas a centenas de vezes"** — o rank 7 mais forte de Southern Border, com milhares de anos de idade, está travado na grand tribulation final e não ousa tentá-la (cap. 1217). É a explicação mecânica de por que rank 8 é raro.
+- **Myriad tribulation é categoria à parte**: um Gu Immortal que passou com folga por tudo antes pode ser pego de surpresa pela primeira (cap. 1398); pode ser de um path totalmente alheio ao do cultivador (cap. 1398).
+- `[segredo]` **Perda líquida numa myriad tribulation**: um rank 8 que sobreviveu à 1ª myriad contabilizou ter PERDIDO mais dao marks (do próprio path, e mais os que esperava ganhar) do que ganhou — cultivo em rank 8 pode REGREDIR em fundação mesmo com sobrevivência. Citado como motivo indireto de só existirem 10 rank 9 em toda a história humana (cap. 1398).
+
+### Rendimento de dao marks por provação (primeira escala numérica absoluta)
+
+`[especializado]` (cap. 1389; cruzar com caps. 1469-1470):
+
+| Provação | Dao marks ganhos |
+|---|---|
+| earthly calamity | ≈ **250** |
+| heavenly tribulation | ≈ **750** |
+| grand tribulation | ≈ **7.250** |
+| myriad tribulation | ≈ **86.750** |
+
+- Confirmação independente do valor da heavenly tribulation (~750) no cap. 1470. Uma tribulação **maximizada** (intensidade máxima que o mundo permite para o rank) rendeu **1.000 dao marks de path único**, com +100% de amplificação para futuros Immortal Gu daquele path (caps. 1469-1470).
+- **Heaven's will escolhe deliberadamente o PATH da tribulação** — e pode escolher um path que o alvo não tem recursos nem atenção para aproveitar, desperdiçando o ganho de propósito (cap. 1470). Também escolhe dentro das opções que o AMBIENTE permite: numa região dominada por dao marks de dois paths, a calamidade será de um dos dois, mas a heaven's will pode escolher justamente o menos útil ao alvo (cap. 1165).
+- `[segredo]` **Regra adaptativa**: a heaven's will AJUSTA a intensidade das provações seguintes conforme o resultado da anterior — se uma tribulação em potência máxima não fere o alvo, as próximas vêm mais fracas (potência máxima só entregaria mais dao marks sem risco de matar). **A dificuldade não é fixa por rank: é dinâmica e reativa ao desempenho** (cap. 1470). Ela também aprende contramedidas contra killer moves específicos entre uma calamidade e a seguinte (cap. 1112) e manipula o TIMING, não só a força — prolongou uma calamidade para abrir janela de emboscada humana logo após (caps. 1139-1142).
+
+### Human calamity — a terceira componente, formalizada
+
+`[segredo]` (dedução de um fate escapee, confirmada pelos eventos):
+
+- A **human calamity** só ocorre quando a heaven's will consegue (a) DECIFRAR o alvo e (b) ter TEMPO de arquitetar uma armadilha usando outras pessoas — **a heaven's will não é onisciente nem instantânea** (cap. 1165). Um otherworldly demon completo é ilegível para ela; e mover-se rápido demais (poucos dias) não dá tempo de orquestrar terceiros (cap. 1165).
+- **Regra estratégica derivada**: permanecer no MESMO local por tribulações repetidas dá tempo à heaven's will de influenciar sutilmente vários Gu Immortals ao redor e montar a human calamity com facilidade — por isso a prática correta é nunca fixar um único local de tribulação (cap. 1165).
+- **A human calamity pode ser QUALQUER pessoa "influenciada inconscientemente" — inclusive um rank 8 pleno, consciente e com motivação própria genuína** (cap. 1180). Motivação pessoal e manipulação da heaven's will **não são mutuamente exclusivas**: "mesmo que seja heaven's will me influenciando, e daí? Essa também é minha própria intenção" (cap. 1180).
+- **Os efeitos se propagam por múltiplos elos causais indiretos**: uma invasão que era human calamity contra um grotto-heaven gerou um edito que remodelou a geopolítica de uma região inteira e resolveu tangencialmente um conflito sem relação aparente. Nenhum dos envolvidos jamais descobre a causa raiz — só um observador com informação privilegiada consegue rastrear (cap. 1181).
+- Também vale a versão simples: ao passar por uma tribulação o cultivador chama a atenção da heaven's will, que tenta ATRAIR outros Gu Immortals para atacá-lo durante a vulnerabilidade — daí a necessidade de aliados de guarda (cap. 1469).
+
+### Escolha e custo do local da tribulação (nova camada estratégica)
+
+- **Tribulações e earthly calamities drenam earth qi do LOCAL onde ocorrem** — custo territorial real, não só pessoal; por isso **não se realiza tribulação em território de aliado** (cap. 1146).
+- **Gu Immortals comuns precisam voltar à própria região de origem para tribular com segurança**: tomar heaven-and-earth qi de outra região causa problemas (cap. 1211). Existe um immortal killer move de **conversão regional** que limpa o heaven-and-earth qi de uma área e o converte para outra região, permitindo tribular longe de casa (cap. 1215).
+- Critério prático de escolha de local: dao marks ricos dos paths desejados + ausência de outros Gu Immortals disputando a área (seções esgotadas por batalhas passadas, sem valor restante, portanto desertas) (cap. 1164).
+- `[segredo]` **Exposing Heavenly Secret** (killer move com Heavenly Secret Gu como núcleo): prevê o CONTEÚDO exato da próxima calamidade/tribulação, elevando muito a taxa de sucesso. Limite: não permite prever uma grand tribulation com muita antecedência — é preciso já estar próximo dela (caps. 1462, 1476, 1482).
+- Calamidade nomeada nova: **Corrosive Dark Current** — esqueleto gigante cobrindo metade do céu que cospe corrente escura corrosiva; **sem "true meaning" de nenhum Venerável embutido** (ao contrário de calamidades ancoradas em locais de feito de Venerável), controlada inteiramente pela heaven's will — e por isso MAIS poderosa que as anteriores (cap. 1164). Regra derivada: calamidade com true meaning embutida é mais fraca, mas rende attainment; calamidade "limpa" é mais forte e rende só dao marks.
+- **Tribulação five poison**: névoa venenosa de 5 cores forma 5 monstros (cobra, escorpião, aranha, sapo, centopeia) que ganham força ao longo do tempo até atacarem no auge — o cultivador pode ESPERAR o pico deliberadamente para medir e absorver o limite da tribulação (cap. 1469).
+- **Tribulação da immortal aperture**: evento distinto das demais; alterar drasticamente o fluxo de tempo do tributário interno antecipa e agrava o risco de atraí-la (cap. 1416).
+
+### Dao marks — a fórmula final e a economia do atributo
+
+`[especializado]`:
+
+- **Fórmula fechada**: **100 dao marks = +10%** de efeito de um Immortal Gu daquele path (caps. 1033, 1161); **1.000 = 2×**; **10.000 = 10×**; **50.000 = 50×** (caps. 1204, 1310). Não há teto/saturação mencionado no texto — lacuna reconhecida (cap. 1161).
+- **REGRA DE CUSTO CRUCIAL**: a amplificação por dao marks **NÃO aumenta o custo de essência imortal** para ativar o Gu — é amplificação gratuita, permanente e cumulativa (cap. 1161). **Contraste explícito**: a amplificação por AMBIENTE (ex.: uma City Well, ~100×) escala o custo de essência na MESMA proporção (~100×) (caps. 1157-1161). Isso torna dao marks o investimento de melhor retorno do reino imortal e explica por que ninguém foge de tribulações indefinidamente.
+- **Benchmarks de quantidade**: um Gu Immortal **rank 7 "normal"** acumula ~**10.000 dao marks no path PRINCIPAL** após ~40-50 earthly calamities + 4-5 heavenly tribulations + 1+ grand tribulation (cap. 1161); outra passagem dá a faixa **10-30 mil** para o rank 7 comum (cap. 1310). Um perfil de 16.000 num único path com apenas 4 earthly calamities é ~3× o esperado (cap. 1161).
+- **Perfis de dao marks são "fichas de personagem" completas** — o texto os lista por path em ordem decrescente, com a ORIGEM de cada bloco (calamidades de um bioma; corpos de imortais absorvidos; ritos de aliança; heranças) (cap. 1161). Modelo para a fase final: cada Gu Immortal tem um vetor de dao marks por path, e é ele — não o rank — que decide o que a pessoa consegue fazer bem.
+- **Conflito entre paths, quantificado**: um path "comum" perde **50-60%** de potência em território saturado por dao marks de path conflitante; um **minor path** (ex.: sound) perde só **20-30%** na mesma situação — vantagem estrutural de mobilidade dos paths menores (cap. 1425). Dentro do próprio **Rio do Tempo**, a concentração de dao marks de time path reduz killer moves de outros paths a **menos de 10%** do poder — quanto mais dao marks alguém tem, mais forte fora do rio e mais penalizado dentro dele (cap. 1404).
+- **Conversão entre paths é possível por killer move**: "Ancient Year Beast Transformation" converte dao marks de transformation path em dao marks de time path para adaptação ao Rio do Tempo (cap. 1431); virar uma criatura de sword path converte os dao marks de transformation em dao marks de SWORD path, somando-se aos já existentes (caps. 1204-1205); "divination tortoise transformation" converte transformation em wisdom, com 3× a 10×+ de eficiência de dedução (caps. 1302-1303). **Regra geral: o transformation path é o conversor universal de dao marks** — é o que lhe dá o menor threshold de refino de todos os paths (cap. 1064).
+- `[segredo]` **Dao marks auto-regenerativos ("self-producing")**: regenerar-se sem gastar essência imortal é característica EXCLUSIVA de killer moves criados por Veneráveis rank 9; nenhum Gu Immortal comum consegue produzir esse efeito (cap. 1408). Exemplos: Inextinguishable Star Target, Fortune Rivalling Heaven, Divine Concealment e Ghostly Concealment (capas de dao marks sobre a alma, que se regeneram sem custo contínuo) (cap. 1408).
+- **Aliança gravada como dao mark**: um pacto entre Gu Immortals é fixado como dao marks no corpo; enquanto a aliança não for "prejudicial" ao portador, self cleansing não a remove; se o portador trai, o dao mark de punição dispara INSTANTANEAMENTE — não há tempo de limpá-lo depois (cap. 1408).
+- **Ao se autodetonar, os dao marks do Gu Immortal voltam à PRÓPRIA aperture dele** — não ao matador. É por isso que "Gu Immortals das cinco regiões não são fáceis de saquear" mesmo mortos: o vencedor só acessa esses marks se se tornar dono da blessed land resultante (cap. 1151). `[segredo]` Exceção histórica: um método (perdido) de information path capturava os dao marks de um inimigo morto e os gravava permanentemente no esqueleto dele como immortal material, chegando a reconciliar marks de paths conflitantes no mesmo objeto (caps. 1156, 1162).
+- **Medidor**: o **Perceivable Dao Immortal Gu** (rank 6, information path) inspeciona a quantidade de dao marks de um path específico num corpo ou alma — usado tanto como métrica quanto para verificar a remoção total de um trap (caps. 1405, 1446).
+- Extensão de lifespan via day/month/year Gu **grava dao marks de time path no corpo**, e o acúmulo eventualmente IMPEDE o uso futuro de lifespan Gu genuínos (cap. 1400; ver `longevidade.md`).
+- Um **great grandmaster de formation path** monta immortal Gu formations usando diretamente os dao marks NATURAIS do mundo, precisando de apenas alguns Gu mortais (cap. 1501).
+
+### Anexação e fusão de immortal apertures — a regra canônica (revelação central da metade)
+
+`[especializado]`:
+
+**Três requisitos obrigatórios** (cap. 1184, refinado no 1206):
+1. Uma aperture MENOR não pode engolir uma MAIOR — e **o critério de "maior/menor" é a FUNDAÇÃO da aperture, NÃO o rank de cultivo do anexador** (resolvido empiricamente no cap. 1206: um corpo rank 6 engoliu uma blessed land rank 7 porque a aperture tinha fundação maior).
+2. **Dead apertures** (destruídas, sem land spirit vivo) não podem ser anexadas nem anexar.
+3. **Attainment no path dominante do alvo**, conforme a tabela:
+
+| Alvo | Attainment mínimo exigido |
+|---|---|
+| blessed land rank 6 | **master** |
+| blessed land rank 7 | **grandmaster** (quase-grandmaster NÃO basta, caps. 1236, 1261) |
+| grotto-heaven rank 8 | **great grandmaster** |
+
+- **Só se anexa uma blessed land cujo PATH corresponda ao attainment que se tem** (cap. 1487): mesmo suprimindo igualmente dois land spirits, só a terra do path em que se é grandmaster foi anexada; a outra teve de ser apenas fechada e escondida. Isso torna o attainment o gargalo real da estratégia — quem tem grandmaster em 5 paths só pode caçar apertures desses 5 (cap. 1210). `[segredo]` Spectral Soul conseguia anexar qualquer coisa por ter attainment alto em TODOS os paths (cap. 1187).
+- Attainment insuficiente impede a anexação **mesmo depois de matar o dono e controlar o land spirit** — a terra fica servindo só de pouso/descanso (caps. 1152, 1211). Num caso, de 3 aperturas rank 6 conquistadas, só 2 puderam ser anexadas; a 3ª virou blessed land independente por falta de attainment (cap. 1394).
+
+**Benefícios da anexação** (cap. 1184):
+- (a) todos os recursos da aperture anexada transferem-se **INTACTOS**, sem realocação manual — e o ECOSSISTEMA vem junto (água, rochas, dao marks locais), com 100% de eficiência e sem adaptação; contraste com o transplante manual, que exige comprar solo fértil avulso e sofre perdas constantes por incompatibilidade de dao marks locais (cap. 1185);
+- (b) o anexador ganha uma **PORÇÃO** dos dao marks da aperture anexada;
+- (c) **o benefício decisivo: SKIP de calamidades/tribulações** — o número de calamidades que a terra já passou em vida do dono original é creditado ao anexador, incluindo o contador reiniciado para a próxima (uma terra cujo dono morreu na 5ª earthly calamity dá passe de até 5 calamidades) (cap. 1184).
+- **Anexar uma blessed land de rank IGUAL ou SUPERIOR ao próprio AVANÇA o rank do anexador diretamente** (rank 6 → rank 7 ao engolir uma terra rank 7, cap. 1206). **Rendimento decrescente**: já em rank 7, anexar uma terra rank 6 rendeu avanço de apenas 1 calamidade — "efeito desprezível". Só terras de rank igual ou superior ao cultivo atual são verdadeiramente eficazes (cap. 1210).
+- **Conflito de dao marks na anexação (regra geral)**: há conflito entre os marks do anexador ("dono da casa") e os da aperture anexada ("convidados"); **só os dao marks do MESMO path do anexador são absorvidos por completo**; os de outros paths são majoritariamente expulsos e perdidos (cap. 1184). Exceção do **sovereign immortal body**: absorve **100% dos dao marks de TODOS os paths** — verificado com Perceivable Dao antes e depois, e confirmado independentemente por terceiro (caps. 1127, 1184-1185, 1291-1292; ver `transformacoes-e-corpos-especiais.md`).
+- **Trade-off estratégico explícito** (cap. 1186): anexar (pulando tribulações) rende MENOS dao marks e menos fundação do que passar pelas provações pessoalmente, mas eleva o poder de batalha muito mais rápido. Método natural = fundação grande, devagar; anexação = poder rápido, fundação rasa. Quem chega a rank 7 por anexação pode nunca ter enfrentado pessoalmente uma heavenly tribulation daquele rank (cap. 1470).
+- Anexar para alimentar um **sovereign immortal fetus Gu** tem regra própria: exige aperture de rank IGUAL ao rank atual do portador, e o path/atributo da aperture não importa — só o rank (cap. 1394).
+- `[segredo]` Existe um método para **SELAR TEMPORARIAMENTE aperturas imortais inteiras e carregá-las consigo**, sem precisar processá-las no local (cap. 1487).
+
+### As três vias de posse de uma blessed land (síntese, caps. 1187, 1217)
+
+1. **Satisfazer a condição de reconhecimento** do land spirit;
+2. **Destruí-lo à força** → destrói também a blessed land, gerando os "winds of assimilation" — a menos que a terra tenha absorvido fragmento dos nove céus imemoriais (o que só ocorre em grotto-heavens, nunca em blessed lands comuns) (cap. 1187);
+3. **NOVA — supressão forçada**: o immortal killer move **Blood Light Spirit Suppression** (blood asset Immortal Gu como núcleo, em versão simplificada) neutraliza a resistência do land spirit SEM cumprir a condição, permitindo a anexação normal (caps. 1217, 1487).
+
+- Land spirit anexado à força **sobrevive mas é não-cooperativo** (chora e não obedece); a hipótese em texto é que só satisfazer a condição original o subjugaria de fato (cap. 1217).
+- **"Winds of assimilation" NÃO disparam automaticamente com a morte do dono** — "nem todos conseguem disparar os winds of assimilation"; a condição não é especificada (cap. 1487). Donos podem esvaziar ou destruir os recursos da própria terra antes de morrer, deixando-a vazia para o assassino (cap. 1487).
+
+### Land spirits — regras fechadas no V5
+
+- **Natureza**: obsessão do Gu Immortal morto fundida ao poder celestial da aperture (caps. 1152, 1228).
+- ✅ **NÃO CONSEGUEM MENTIR** — fecha a lacuna aberta no V4 (cap. 880). Refinamento importante: podem "falar besteira" sem que seja mentira, pois se receberem informação errada e acreditarem nela, repeti-la não conta como mentira (cap. 1228). Ou seja: são confiáveis quanto à sinceridade, não quanto à verdade.
+- **Forma totalmente variável, inclusive não-humanoide** (pato, cobra-espírito, tartaruga marinha) (caps. 1152, 1185, 1217).
+- **Retêm memórias e intenções do falecido**, incluindo obsessões póstumas operacionais (localizar a pista de uma herança) (cap. 1152).
+- **A condição de posse É literalmente a obsessão vitalícia do dono morto** — um imortal que nunca aperfeiçoou sua própria técnica deixou um land spirit que exigia receber a versão completa e verdadeira dela (cap. 1206).
+- **A autoridade de "dono" reconhecido é absoluta e não é reavaliada**: a condição só é checada NO MOMENTO do reconhecimento inicial; depois disso o dono pode transferir a posse a terceiros ou ordenar a autodestruição/anexação sem verificação adicional (caps. 1184-1185). É a maior brecha explorável do sistema.
+- **Contraste heavenly spirit × land spirit**: o "heavenly spirit" de uma grotto-heaven que absorveu fragmento dos nove céus imemoriais fica **SEM MENTE**; land spirits comuns mantêm inteligência e memória plenas (caps. 1119, 1132, 1152).
+
+### Blessed lands e grotto-heavens — novos parâmetros
+
+- **Distinção mecânica limpa**: uma blessed land **não tem clima nem ciclo dia/noite**, por maior que seja; fenômenos climáticos e ciclo dia/noite só aparecem quando a aperture está no LIMIAR de virar grotto-heaven (cap. 1461). Segunda distinção: um **heavenly crystal storage pool só REGENERA dentro de uma grotto-heaven** — numa blessed land vira estoque finito (cap. 1133).
+- **Fluxo de tempo (razão interna:externa)** — tabela nova (caps. 1449, 1459): blessed land de grade alta comum = **1:30**; grade alta recém-formada = **1:33** (5.700 km²); **"ten extreme physique blessed land" = 1:40**; sovereign immortal aperture = **1:60** (335.000 km², 10 camadas) (caps. 1027-1028, 1033, 1459).
+- Grades de blessed land rank 6 reconfirmadas por área: baixa ≤ 2.000 km² … super 6.700–13.000 km² (caps. 1027-1028).
+- **Trade-off do fluxo de tempo** (regra explícita): tempo interno mais rápido = mais produção de recursos **E calamidades mais frequentes**; desacelerar via time path adia as provações mas reduz a produção proporcionalmente (caps. 1033, 1053, 1482). Um rank 8 de time path pode desacelerar o tempo na aperture de TERCEIROS (cap. 1101) — logo os fluxos variados entre blessed lands são, ao menos em parte, **técnica instalada e não propriedade fixa**.
+- **Limite de frequência de modificação do tributário**: killer moves que alteram a taxa de fluxo ("days pass like years", "months pass like years", "years pass like days") são ativações ÚNICAS de efeito duradouro; tentar modificar de novo o mesmo tributário em poucos meses causa "turbulência desastrosa" nos dao marks de time path — a taxa fica travada por um período mínimo (cap. 1416). Efeito colateral do lado rápido: mais calamidades (cap. 1482).
+- **Todo immortal aperture possui um tributário do Rio do Tempo** — é o que permite ao tempo fluir dentro do mundo pequeno (cap. 1400). `[comum]` entre imortais.
+- **Capacidade de entrada é INVERSA aos dao marks do visitante**: quanto mais dao marks, mais difícil entrar; **um rank 8 não consegue sequer entrar numa blessed land comum — a terra estouraria por exceder sua capacidade** (cap. 1167). Consequência política: rank 8 dependem de clones para invadir mundos pequenos.
+- **Defesa estrutural das grotto-heavens**: impõem atraso de **~20 respirações** para o corpo principal do invasor entrar fisicamente — tempo suficiente para o defensor interromper e expulsar (caps. 1163-1164). "Fáceis de defender, difíceis de atacar."
+- **Dentro de uma blessed land, qualquer dedução contra o dono FALHA automaticamente**, sem sequer gastar o poder do Gu de ocultação — o mundo pequeno é zona segura contra dedução (cap. 1211). `[segredo]` MAS: heaven's will guardada dentro da aperture (num dream realm capturado, por exemplo) **vaza para fora e se conecta ao mundo externo**, comprometendo o sigilo mesmo com ocultação ativa (cap. 1430); e a ressonância entre heaven's will interna e externa permite localização aproximada (cap. 1088 — ver `mundo-e-cosmologia.md`).
+- **Blessed land "pública"/pieced-together** tem defesa estruturalmente MAIS FRACA que uma terra íntegra — compensada, na prática, por super Gu formations instaladas por cima (cap. 1251).
+- **Formação de blessed land a partir de mortos**: a aperture de um Gu Immortal morto absorve heaven and earth qi e se transforma automaticamente em blessed land, com land spirit formado por poder celestial (caps. 1151-1152). Há **JANELA DE OPORTUNIDADE limitada** logo após a formação para entrar e reivindicar posse; perdida a janela, a entrada posterior fica muito mais difícil (caps. 1151-1152). Mesmo com o corpo esmagado em fragmentos irreconhecíveis, recuperar "a peça mais crucial" e jogá-la ao chão numa região adequada forma uma blessed land nova (cap. 1261).
+- **Serviço de expansão de aperture**: existe um Gu Immortal especializado (rank 7, space path) cujo negócio é expandir o espaço interno de aperturas alheias — o que o torna hub social e político, já que espaço interno é recurso finito e crítico (cap. 1154).
+- **Fragmento dos nove céus imemoriais**: absorvê-lo remove as calamidades da grotto-heaven, mas **abre uma porta permanente para a heaven's will interferir** e deixa o heavenly spirit "sem mente" (caps. 1119, 1132); e "planta" a aperture no mundo, imóvel para sempre (cap. 1103). O V4 registrava só o custo do confinamento do DONO; o V5 acrescenta o custo estrutural para a própria terra.
+
+### Os sete níveis de desenvolvimento de uma immortal aperture (framework formal)
+
+`[especializado]` — ordem ótima segundo consenso histórico; pular etapas é possível mas desperdiça fundação e eficiência (caps. 1461, 1470, 1489):
+
+1. Estabelecer recursos **mortais** em escala de Gu Immortal: milhões de mortal Gu de uma vez, materiais mortais, bestas/plantas comuns (contraste: um mortal comum sustenta 5-6 Gu) (cap. 1461).
+2. Recursos de nível **imortal**: produzir materiais imortais suficientes para autossuficiência na alimentação dos próprios Immortal Gu (cap. 1461).
+3. Criar bestas e plantas **imortais integradas ao ecossistema** — não basta a criatura estar presente: ela precisa formar cadeia alimentar real com os demais seres da aperture (caps. 1461, 1470).
+4. Usar o **excedente** para comerciar e lucrar (cap. 1461).
+5. Produzir **Immortal Gu naturalmente** dentro da própria aperture (cap. 1489).
+6. Criar variant humans e humanos, e **produzir Gu Immortals** a partir deles (cap. 1489).
+7. Produzir **lifespan Gu** (cap. 1489).
+
+- **Os níveis não são estritamente sequenciais na prática**: é possível dominar um mercado (nível 4) sem ser autossuficiente na alimentação dos próprios Gu (nível 2) (cap. 1461).
+- **Evolução da regra**: o cap. 1159 dá uma versão anterior em TRÊS etapas (inicial = alimentar os próprios Gu; média = excedente para cultivo e venda; superior = populações que se REPRODUZEM naturalmente dentro da aperture). A versão em 7 níveis (cap. 1489) é a mais tardia e completa; a de 3 etapas é o mesmo eixo em granularidade grossa e segue válida como resumo.
+- **Regra econômica associada**: comprar escravos variant human para trabalho forçado é DEFICITÁRIO no longo prazo — a mortalidade por refino forçado supera a reprodução, exigindo reposição constante e cara; só populações que crescem organicamente compensam (cap. 1159). Populações nascidas na aperture geram lealdade extrema e, com humanos, criação orgânica de receitas/Gu/killer moves sem que o dono precise deduzi-los (cap. 1159).
+
+### Essência imortal — números do V5
+
+- Hierarquia reconfirmada: **green grape (r6) < red date (r7) < white litchi (r8) < yellow apricot (r9)** (caps. 1179, 1191, 1449, 1459).
+- ✅ **Taxa de conversão, finalmente**: **100 immortal essence stones = 1 conta (bead) de red date essence** para um rank 7 (caps. 1291, 1314) — fecha parcialmente a lacuna 41 do V4 (a taxa entre denominações segue sem tabela completa, mas há agora uma âncora).
+- **Produção passiva e escala por rank**: o núcleo de uma sovereign immortal aperture produz **96 red date beads/ano = 16/dia (tempo externo) = 1.600 immortal essence stones/dia** para um rank 7; **os mesmos 16 beads/dia no rank 8 (white litchi) valeriam 160.000 stones/dia** — salto de ~**100× por rank** (cap. 1459). `[especializado]`
+- **Conversão industrial**: a "Blood Red Immortal Essence Formation" (núcleo de wisdom path + Immortal Gu de bloodline + milhares de Gu mortais) converte immortal essence stones em beads de red date de forma rápida e eficiente, resolvendo a reposição de essência gasta em combate (cap. 1427).
+- `[especializado]` **Liquor Worm Immortal Gu** (rank 8, food path, lendário): combinado com os "3 sovereign 5 emperor wines" (8 vinhos), **transforma white litchi (r8) em yellow apricot (r9)** — a única rota documentada de upgrade de denominação (cap. 1191).
+- **Essência "estrangeira"** (deixada por donos mortos de terras anexadas) tem uso limitado: serve sobretudo para ativar Immortal Gu Houses, cuja força escala com a quantidade gasta mas cuja habilidade é fixa (cap. 1210).
+- **Assimetria de esgotamento em guerra de atrito**: quem luta com green grape (r6) fingindo ser rank 7 esgota-se antes dos rank 7 genuínos que usam red date — mesmo tendo fundação de terra maior. Entra em "ciclo vicioso" e é forçado a vender ativos de reserva (cap. 1179).
+- **Custos de referência**: remover um soul path trap com Cleanse Soul consumiu 1.200–1.300 beads de red date ao longo de 3 dias e 3 noites contínuos (caps. 1445-1446); o **Fate Armor** (r8) tem custo tão alto que dura **menos de 50 respirações** de uso sustentado sob ataque, mesmo para um usuário excepcional (cap. 1404).
+- **Exceções à regra "essência do rank do Gu"**: um Immortal Gu rank 8 pode ser ATIVADO por um Gu Immortal de rank inferior desde que se tenha o killer move/receita associada, com efeito reduzido (caps. 1401, 1452); e o **Soul Beast Token** (r8) simplesmente não exige essência r8 — comparável ao Attitude Gu como categoria de Gu com custo alternativo embutido (caps. 1504, 1507). Contraexemplo que confirma a regra geral: a Wisdom Sword (r8) é inutilizável por quem só produz red date (cap. 1221).
+
+### Ascensão 5→6 — a mecânica dos três qi, fechada
+
+`[especializado]`:
+
+- Sequência completa observada (cap. 1439): a essência primeva golpeia repetidamente as paredes da abertura até rachá-las → conforme as rachaduras crescem, uma força celestial informe **eleva o corpo do cultivador do chão** (~10 pés) → quando a abertura se estilhaça por completo, um **human qi** denso flui do corpo e se atrai mutuamente com o heaven qi (nuvens escuras, trovões) e o earth qi (tremores, poeira) já acumulados, formando uma esfera de qi ao redor do cultivador → **o próprio cultivador deve controlar PESSOALMENTE a fusão dos três qi; ninguém de fora pode interferir** → a esfera encolhe conforme os três condensam → passo final: injetar o Gu vital no centro da esfera condensada.
+- **O human qi é o parâmetro de qualidade**: quanto MAIOR o human qi acumulado pelo Gu Master mortal durante os ranks 1-5, maior a fundação e melhor a **grade** da immortal aperture resultante (caps. 1367, 1489). As duas fontes de human qi abundante são **extreme physique** OU **grandmaster em qualquer path** (cap. 1367) — o que finalmente liga os dois eixos de progressão (aptidão e attainment) ao resultado da ascensão.
+- **Triple Qi Retraction** (contramedida ofensiva): três estilos sequenciais que drenam os três qi e rompem uma abertura imortal instantaneamente; errar causa backlash severo no usuário (caps. 1367-1368).
+- `[segredo]` **Exceção sem precedente histórico**: possuir Divine Concealment torna o portador impossível de deduzir e **imune a calamidades/tribulações durante a própria ascensão** — nem o criador da técnica tinha isso ao ascender (só criou a 1ª versão já como Gu Immortal) (cap. 1439).
+- Uma abertura mortal de rank 5 pico pode **continuar existindo em separado** depois de o cultivador ter avançado por outra via; conter um Immortal Gu rank 6 numa aperture mortal racha a parede cristalina (cap. 1446).
+- **Segunda aperture**: ao avançar a segunda abertura para immortal aperture, essa "dead aperture" pode depois ser desfeita/colapsada, e os dao marks daquele path se transferem e se fundem no CORPO físico — o corpo passa a ser um autêntico "immortal material" daquele rank e path (cap. 1446) `[segredo]`. Para quem já tem sovereign immortal aperture, a maior utilidade de uma segunda aperture é disponibilizar um **segundo slot de Gu vital** (cap. 1481).
+- **Terminologia arcaica**: uma aperture imortal é um "**immortal fetus**" — aperturas, Essence Pools e Purple Residences mortais viram "immortal fetuses" ao alcançar status imortal; termo pouco usado (cap. 1394).
+
+### Ranks 6–9, Veneráveis e Heavenly Court
+
+- **Camadas sociais**: rank 6 = "bottom tier", numeroso; rank 7 = "mid-tier", elite; rank 8 = raro, cada movimento seu "cria tempestade" numa região (caps. 1206, 1467). Escala populacional: **em uma única região há apenas várias centenas de Gu Immortals**, a maioria rank 6, poucos rank 7, e rank 8 costuma ser o teto (cap. 1221).
+- **Posse típica de Immortal Gu**: **a maioria dos rank 6 do mundo NÃO possui nenhum Immortal Gu**; entre rank 7 e 8 é comum ter apenas 2-3, alguns 5-6 (caps. 1082, 1461) — limitados pelo custo de sustento em essência imortal. Uma coleção de 50+ Immortal Gu é anomalia extrema, e o gargalo dela é justamente alimentar tantos Gu (cap. 1461).
+- **Gap 7→8, quantificado**: golpes rank 7 bem executados praticamente não causam dano significativo a um ser rank 8, que ignora a maioria dos ataques e se recupera em segundos de qualquer ferimento não crítico; textualmente, "nos últimos milhares de anos só duas pessoas no mundo inteiro conseguiram resistir a um rank 8 sendo rank 7" (caps. 1145, 1429). `[comum]`
+- **Poder de rank 8 decomposto em 3 componentes**: dao marks + rank do Immortal Gu núcleo + tipo de immortal essence disponível. Um rank 7 excepcional iguala só o PRIMEIRO — declarado no texto como exceção "contra o senso comum" (V5, bloco 1350-1390).
+- `[especializado]` **Battle strength ≠ rank de cultivo** (reconfirmado com casos): rank 6 com battle strength de rank 7 entre as mais fortes; rank 7 com battle strength de rank 8 reconhecida por um rank 8 (caps. 1391, 1395).
+- **Rank 9 é categoria ontológica distinta**: um Gu rank 9 é feito de **"fragmentos do Grande Dao"**, não de dao marks — é por isso que um Gu rank 9 continua funcionando dentro do Reverse Flow River, onde nenhum Gu de rank 1-8 é ativável (cap. 1284; ver `mundo-e-cosmologia.md`). Rank 9 **não existe** para feras, plantas ou variantes humanas — só para humanos (caps. 1299-1300).
+- **Cada Venerável tem UMA especialização** onde supera os demais: o domínio de time path de um deles equivalia a um rank 8 de time path, muito inferior ao do especialista; e vice-versa no soul path (cap. 1435). **Todo Venerável tem o path principal em Supreme Grandmaster**, publicamente reconhecido (caps. 1408, 1501). Confirmado de novo: apenas **dez Veneráveis** em toda a história (cap. 1435).
+- `[especializado]` **Dao Guardian**: "em toda a jornada de cultivo de um Immortal Venerable ou Demon Venerable, sempre há um Dao Guardian", com papel importante no desenvolvimento do Venerável (cap. 1442) — instituição informal nunca antes nomeada.
+- **True inheritance**: é "o conteúdo de cultivo mais abrangente" criado por um Venerável, e segui-la permite ao herdeiro se APROXIMAR do nível que ele atingiu (cap. 1435). É processo colaborativo entre gerações: o herdeiro deve REFINAR e MELHORAR os detalhes antes de passá-la adiante — retribuir com contribuição própria é parte do contrato implícito (cap. 1428).
+- **Heavenly Court** (ver também `sociedade-e-organizacoes.md` e `mundo-e-cosmologia.md`): `[especializado]` apenas **TRÊS Immortal Venerables da história realmente "entraram"**, fundindo a própria immortal aperture À Heavenly Court — Primordial Origin (1º rank 9 da história), Star Constellation (criadora do wisdom path) e Genesis Lotus (criador do wood path) (cap. 1235). Os demais (Giant Sun, Paradise Earth) nunca entraram de fato, mesmo cooperando. `[segredo]` **Para um rank 8, ingressar significa fundir a própria aperture ao grotto-heaven coletivo**, ganhando uma "mystical phantom aperture", **isenção de tribulações** e um sono que não consome lifespan — com um custo oculto que o texto nunca revela (cap. 1070). O padrão de ingresso ("elite entre os rank 8") nunca foi reduzido desde a fundação (cap. 1301).
+- `[segredo]` **Rank 10 de Immortal Gu — "Destiny"**: acima do rank 9 provavelmente existe um rank 10, confirmado (segundo o texto) por um Venerável. Nome hipotético **"Destiny"**, teorizado como fusão/refino de um Immortal Gu de luck path com o **Fate Immortal Gu**. Ainda não existe; é o objetivo declarado da Heavenly Court (caps. 1234-1235). Não fica claro se existe também um rank 10 de CULTIVADOR.
+- `[segredo]` **Giant Sun morreu sem alcançar vida eterna**: o corpo principal morreu há muito; o que resta é um **immortal zombie com um resquício de vontade e capacidade de UM único ataque** antes de se esvair ("se eu me mover ainda que levemente, vou desaparecer") — nesse estado há 300 mil anos, aguardando retribuir um favor (caps. 1242-1243). Teve três Immortal Gu Houses rank 8 em vida (caps. 1180, 1242).
+- `[segredo]` **Red Lotus Demon Venerable NÃO era otherworldly demon** — conseguiu ferir o Fate Immortal Gu porque tinha o reconhecimento do **Love Gu** (rank 9) (cap. 1234). Corrige a hipótese corrente até o V4.
+- **Limitless Demon Venerable** criou o Crazed Demon Cave em seus últimos anos, buscando o segredo da vida eterna via rule path e Derivation Gu; se obteve sucesso é explicitamente deixado como incógnita (caps. 1173-1176).
+- **Medieval Antiquity Era (300 mil anos atrás)**: surgimento de Genesis Lotus, Thieving Heaven e Giant Sun; nesse período uma mulher fundou o **water path** e construiu a Spirit Affinity House (cap. 1191).
+
+### Immortal Gu Houses (atualizações V5)
+
+- **Só um rank 8 sozinho sustenta o funcionamento pleno de uma House**; rank 6-7 precisam somar essência coletivamente para o mesmo desempenho (cap. 1246). O poder escala com a essência investida: **dois rank 8 controlando juntos** rivalizam com uma super Gu formation baseada em secluded domain (cap. 1267).
+- **Uma Immortal Gu House pode ser danificada e PERDER RANK**: uma House rank 8 destruída deixou um componente sobrevivente que **caiu de rank 8 para rank 7** (cap. 1200). Regra nova: rank de House não é permanente.
+- **Upgrade de estrutura mortal para Immortal Gu House não é trivial nem automático** mesmo com muitos Immortal Gu disponíveis — é processo à parte, não resolvido só com investimento; uma "mortal Gu house" grande e imponente continua não escalando com immortal essence (cap. 1264).
+- `[segredo]` **Ninguém escapa de um dream realm sem dream path**: nenhuma Immortal Gu House resiste a ficar presa num dream realm — confirmado do rank 7 ao rank 9, incluindo a Heaven Overseeing Tower, mesmo em forma fantasma (V5, bloco 1350-1390). É a contramedida universal contra Houses.
+- **Custo real de refino de um Immortal Gu rank 8**: 9 falhas antes do sucesso, todo o tesouro de um super clã, dois great experts pagos e anos de dívida (cap. 1131). Referência de mercado geral: **50-60 tentativas típicas para um sucesso** (cap. 1374; ver `gu-sistema.md`).
+
+### Evolução da regra (V5)
+
+- **Etapas de desenvolvimento de aperture**: 3 etapas (cap. 1159) → **7 níveis** (caps. 1461, 1470, 1489). Prevalece a de 7 níveis; a de 3 etapas segue válida como resumo grosso.
+- **Land spirits e mentira**: o V4 registrava "aparentemente não conseguem mentir — regra a confirmar" (cap. 880). O V5 CONFIRMA a regra e a refina: não mentem, mas podem repetir de boa-fé o que foi plantado neles (cap. 1228).
+- **Denominações de essência imortal**: o V4 fechava a hierarquia sem taxa de conversão (lacuna 41). O V5 dá a âncora 100 stones = 1 bead de red date (caps. 1291, 1314) e a escala de ~100× por rank (cap. 1459); a taxa DIRETA entre denominações (green grape → red date, etc.) segue sem número.
+- **Cadência de tribulações do rank 7**: o V4 registrava "heavenly /50; grand /100" (cap. 826). O V5 confirma e acrescenta o TOTAL do rank: 24 earthly + 3 heavenly + 3 grand (cap. 1470). O número de earthly (24) é menor que o esperado por interpolação linear (30) — provável efeito de o contador reiniciar no avanço de rank; registrado em LACUNAS.
+
 ## Lacunas do domínio
 
 - ~~Ascensão 5→6 em detalhe~~ ✅ RESPONDIDO no V3 (caps. 606-609, 627-633): processo completo, com números.

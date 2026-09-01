@@ -22,8 +22,12 @@ volume (conferir numeração e tamanho com `ls` + `stat`).
 
 A definir ao chegar em cada um (mesmo esquema). Tamanho total da obra: ~28 MB.
 
-## Fases posteriores
+## Fases do projeto
 
-1. Leitura integral (volumes 1–6, leva a leva, consolidando sempre).
-2. Pesquisa externa (wiki reverendinsanity.fandom.com, Reddit) para lacunas e debates.
-3. Passe de verificação (grep no texto para cada afirmação central) + LEIA-ME final.
+1. Leitura integral (volumes 1–6, leva a leva), consolidando sempre em rascunhos
+   internos (`_pipeline/rascunho/`, organização por `TAXONOMIA.md`).
+2. Pesquisa externa (wiki reverendinsanity.fandom.com, Reddit) para lacunas e debates
+   — também para os rascunhos.
+3. Escrita final: só com a obra inteira lida, escrever as notas didáticas das pastas
+   `01`–`09` a partir dos rascunhos, no formato de `_pipeline/MODELOS/`.
+4. Passe de verificação (grep no texto para as afirmações centrais) + LEIA-ME final.

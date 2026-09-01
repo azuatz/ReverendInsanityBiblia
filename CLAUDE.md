@@ -40,10 +40,17 @@ dúvida de escopo.
   encerrar qualquer sessão.** Nada de estado importante só em contexto vivo.
 - `_pipeline/PLANO.md` — plano de processamento da obra em blocos.
 - `_pipeline/notas/` — notas brutas dos subagentes leitores (uma por bloco de capítulos).
-- Pastas `01`–`09` — a base de conhecimento consolidada, em notas Markdown atômicas
-  (um conceito por nota) ligadas por wikilinks `[[assim]]`. Consolidar = fundir notas
-  brutas novas nas notas finais, resolvendo contradições (regras evoluem ao longo da
-  obra; registre a forma mais madura e anote a evolução).
+- `_pipeline/rascunho/` — o conhecimento consolidado DURANTE a leitura, como rascunho
+  interno para o próprio Claude: denso, completo, com citações de capítulo inline
+  (aqui elas são bem-vindas), organizado por tema, com marcação "cobre até: Volume N".
+  Consolidar = fundir notas brutas novas nos rascunhos, resolvendo contradições
+  (regras evoluem ao longo da obra; registre a forma mais madura e anote a evolução).
+- Pastas `01`–`09` — as notas FINAIS para a designer. **Só são escritas na fase de
+  escrita final, depois de a obra inteira ter sido lida e a pesquisa externa feita**
+  — nunca durante a leitura: nota final escrita com leitura parcial sai incompleta
+  (ex.: essência primeva só com os ranks do Volume 1). Na fase final, os rascunhos
+  são a fonte e os modelos de `_pipeline/MODELOS/` dão o formato. Nota final criada
+  prematuramente deve ser movida para `_pipeline/rascunho/`.
 - `00 - LEIA-ME (guia para a designer).md` — porta de entrada para a profissional.
 
 ## Checkpoint e git (regra crítica — nunca pular)

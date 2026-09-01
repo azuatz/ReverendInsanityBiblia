@@ -62,11 +62,33 @@ mais do que o conteúdo:
 3. **`—`** — não há base nenhuma. Nunca significa "nenhum", "barato" ou
    "irrelevante": significa silêncio da obra.
 
-Espere muitos traços. Isso é fiel à fonte: ela detalha dieta, custo e receita quando a
-cena precisa disso, e omite tudo no resto — a maioria dos Gu é citada de passagem, no
-meio de uma luta ou de uma lista de estoque. Um punhado de Gu tem ficha completa; a
-maioria tem só efeito e rank. Se você precisar preencher as lacunas para jogar,
-invente — mas saiba que está inventando.
+Ainda há muitos traços, e isso é fiel à fonte: ela detalha dieta, custo e receita
+quando a cena precisa disso, e omite tudo no resto — a maioria dos Gu é citada de
+passagem, no meio de uma luta ou de uma lista de estoque. Se você precisar preencher
+uma lacuna para jogar, invente — mas saiba que está inventando.
+
+Duas deduções aparecem muitas vezes, e vale entendê-las de uma vez em vez de reler a
+explicação em cada linha:
+
+- **"Dieta não informada; no rank N come..."** — a obra não diz o cardápio daquele Gu,
+  mas dá a escala geral de **frequência** por rank, e ela é uma regra do mundo, não um
+  palpite: rank 1 e 2 comem de poucos em poucos dias (um Gu de rank 2 comum custa da
+  ordem de uma a duas pedras primevas por dia); rank 3 come cerca de uma vez por mês;
+  rank 4, de poucos em poucos meses; rank 5, a cada um ou dois anos, numa refeição
+  caríssima. Quanto maior o rank, mais raro e mais caro cada prato. Então: o **ritmo**
+  da despesa é canônico, o **cardápio** é silêncio — e nunca o preenchemos por conta
+  própria, porque a dieta é específica de cada espécie e inventá-la seria inventar
+  economia.
+- **"Comprado pronto / item de estoque / refino rotineiro (ded.)"** — sempre que a obra
+  mostra o Gu sendo vendido numa loja, escolhido por alunos na sala de estoque de um
+  clã ou usado por gente comum no dia a dia, o refino dele é trabalho rotineiro: não é
+  um projeto, é uma compra. A marcação existe porque a obra mostrou a cena de comércio
+  sem descrever o processo de refino.
+
+Alguns Gu aparecem com a alimentação como **"não se alimenta"**: são os consumíveis
+(Gu de uso único, pó, folha destacada, Gu de pensamento gasto na dedução) e os Gu de
+modificação corporal, consumidos por inteiro na aplicação. Nesses casos o traço seria
+enganoso — não é silêncio da obra, é ausência real de custo contínuo.
 
 ### Onde mora a vantagem e onde mora a desvantagem
 
@@ -615,7 +637,7 @@ informação o mais dependente de **quem é o usuário**, e não do quanto ele i
 | True Sight Gu | — | Contramedida contra furtividade | — | — | Monopolizado por uma seita pequena; só vira item comum quando estoura uma guerra generalizada | Anula ocultação sem exigir que o usuário saiba onde procurar | — |
 | Thread Trace Gu | 5 | Revela marcas de lei residuais | Dieta não informada; no rank 5 a refeição é rara — a cada um ou dois anos — e caríssima (ded.) | Chicoteia-se o ar no local e as marcas deixadas por quem passou ali aparecem | Tem forma de chicote pequeno | A **cor indica o caminho e a densidade indica o rank** de quem passou: identifica um inimigo que nunca foi visto | Lê o rastro, não a pessoa (ded.) |
 | Footprint Gu | — | Nuvem de pó que revela as últimas trinta mil pegadas de um alvo | — | Acionado com essência primeva, explode numa nuvem de pó e marca o chão com pegadas luminosas | Tem forma de pé, em material translúcido | Reconstrói o trajeto inteiro de alguém, não só a posição atual | — |
-| Chase Smoke Gu | — | Fumaça que prova contato físico ocorrido meses antes | A cauda solta uma fumaça — às vezes colorida, às vezes incolor e inodora — que gruda em quem se aproxima do alvo marcado e não se dissipa por meses | Tem forma de borboleta, com o corpo parecido com um bastão de incenso | Prova forense de encontros que ambas as partes negam | — |
+| Chase Smoke Gu | — | Fumaça que prova contato físico ocorrido meses antes | — | A cauda solta uma fumaça — às vezes colorida, às vezes incolor e inodora — que gruda em quem se aproxima do alvo marcado e não se dissipa por meses | Tem forma de borboleta, com o corpo parecido com um bastão de incenso | Prova forense de encontros que ambas as partes negam | — |
 | Shared-sense Gu | — | Selo invisível implantado às escondidas, que transmite o ambiente ao redor do alvo | — | — | Taxa de implantação baixa | Espionagem contínua sem que a vítima saiba | A implantação falha com frequência |
 | Investigative Gu | 5 | Vê o "qi de talento" sobre a cabeça de mortais e de Mestres Gu | Dieta não informada; no rank 5 a refeição é rara — a cada um ou dois anos — e caríssima (ded.) | — | — | Lê a aptidão real de qualquer pessoa — informação normalmente secreta e socialmente explosiva | — |
 | Letter Gu (série) | 3-5 | Correio mágico | Dieta não informada; nessa faixa o intervalo vai de cerca de um mês a um ou dois anos (ded.) | A versão borboleta de rank 5 exige que as defesas do destinatário sejam **afrouxadas** para entregar | — | As versões altas rasgam o espaço e entram até em terras abençoadas | A entrega de rank alto abre uma brecha na própria defesa de quem recebe |

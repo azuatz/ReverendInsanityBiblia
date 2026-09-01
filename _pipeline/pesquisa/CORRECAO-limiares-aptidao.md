@@ -26,24 +26,34 @@ sem ajuda externa.
 | Grau | Faixa | Teto de progressão típico |
 |---|---|---|
 | (sem talento) | abaixo de 20% | não se torna Mestre Gu |
-| D | 20–30% | rank 1, no máximo rank 2 |
+| D | 20–39% | rank 1, no máximo rank 2 |
 | C | 40–59% | rank 2; rank 3 só excepcionalmente |
 | B | 60–79% | rank 3–4 |
 | A | 80–99% | topo mortal (rank 5) |
 | Constituição Extrema | 100% | ver ressalva abaixo |
 
-**Grau D = 20–30%, confirmado em duas passagens independentes:** o Volume 5 afirma
-diretamente que Mestres Gu de aptidão grau D têm de vinte a trinta por cento de
-essência primeva na abertura e que a maioria fica no rank 1, terminando a vida na base
-da hierarquia; e o Volume 1 descreve o grau D como um mar primevo que ocupa "2 a 3
-camadas" da abertura (isto é, 20–30%), com promoção máxima do rank 1 ao 2. **A wiki
-erra ao dizer 20–39%** — divergência registrada, prevalece o texto.
+**Grau D = 20–39% (revisado).** Houve idas e vindas neste ponto, e vale registrar o
+raciocínio final. Duas passagens descrevem o grau D em termos de "vinte a trinta por
+cento" (Volume 5) e de um mar primevo ocupando "2 a 3 camadas" da abertura (Volume 1),
+o que sugeriria uma faixa de 20 a 30. Chegamos a adotar isso, contrariando a wiki.
+
+**A faixa correta, porém, é 20–39**, por três razões que superam a leitura literal
+daquelas frases:
+
+1. **Regularidade das bandas.** C, B e A têm exatamente vinte pontos cada (40-59,
+   60-79, 80-99). Um D de onze pontos quebraria o padrão sem explicação.
+2. **Não pode haver vão.** Com D = 20-30, ninguém entre 31% e 39% teria grau algum —
+   absurdo num sistema que classifica toda a população numa cerimônia pública.
+3. **Nenhum contraexemplo.** Uma varredura por personagens com aptidão entre 31 e 39%
+   não encontra ninguém rotulado com outro grau.
+
+A leitura consistente é que "vinte a trinta por cento" descreve o **D típico**, não o
+limite da banda — a frase aparece em contexto depreciativo, sobre alguém que acabara de
+receber o pior grau possível. A wiki, neste ponto, estava certa.
 
 **Abaixo de 20% não existe outro grau:** o Volume 1, ao descrever uma turma de jovens,
-separa os que são grau D dos que "não têm talento algum" — ou seja, abaixo do D não há
-uma escala inferior, simplesmente não se é Mestre Gu. Note também a lacuna aparente
-entre 30% e 40% (topo do D e piso do C): a obra não a explica; trate 31–39% como zona
-não descrita, provavelmente arredondamento narrativo.
+separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala
+inferior, simplesmente não se é Mestre Gu.
 
 Observações: 99% grau A é o topo comum, e um 99% pode "avançar para as dez aptidões
 absolutas" durante o cultivo (cap. 173) — é a porta de entrada das Dez Constituições

@@ -90,5 +90,3 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 ## Relações
 
 - [[Visão Geral dos Veneráveis]] — as dez figuras que remodelaram estruturalmente este mundo. A história do mundo é, em boa medida, a lista das coisas que cada um deles inventou ou destruiu.
-</content>
-</invoke>

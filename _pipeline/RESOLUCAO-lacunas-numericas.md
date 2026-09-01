@@ -156,6 +156,33 @@ Por simetria, o rank 8 (heavenly/10a, grand/50a, myriad/100a) tem **24 heavenly 
 3 myriad**. A obra nunca escreve esses 24 por extenso, mas a estrutura é idêntica e a soma de
 dao marks resultante (300.000) bate exatamente com o cap. 1817 — ver item 1.3.
 
+### 3.1 O contador reinicia no avanço de rank? (busca dirigida)
+
+**⚠️ PARCIAL — a obra nunca escreve "o contador reinicia", mas DEMONSTRA que a contagem é
+por rank. Não há passagem declarativa; há prova por uso.**
+
+Busca feita por formulações de reinício (`reset`, `start again/anew/over`, `count`) próximas de
+`calamity`/`tribulation` em todo o corpus: **nenhuma declaração explícita existe.**
+
+O que existe é a contagem regressiva em cena, que só fecha se o orçamento for **por rank**:
+
+> "That means, they would have twenty-seven earthly calamities and three heavenly tribulations.
+> And for Fang Yuan, **after this second earthly calamity, he still had twenty-five earthly
+> calamities and three heavenly tribulations**." (cap. 1097)
+
+2 já passadas + 25 restantes = **27**, o total exato do rank 6. Fang Yuan conta rumo ao rank 7,
+não desde o início da vida imortal. A numeração ordinal acompanha ("first earthly calamity",
+caps. 1043, 1056, 1066, 1068; "fifth earthly calamity", cap. 1148) e é sempre interna ao rank.
+
+Ao chegar ao rank 7, o cap. 1470 apresenta um orçamento **novo e de composição diferente**
+(24 + 3 + 3), não um resto do anterior. Logo:
+
+**Modelo canônico**: cada rank tem um orçamento fechado de **30 eventos em 300 anos**, cuja
+composição muda com o rank; ao avançar, começa um novo ciclo de 30. Os **dao marks acumulados
+NÃO reiniciam** (são cumulativos por toda a vida — é o que sustenta a aritmética do item 1);
+o que reinicia é o **calendário de calamidades**. Registrar essa distinção explicitamente no
+material, porque é a fonte provável da confusão original.
+
 ---
 
 ## 4. Item 51 — escala de soul foundation (10 mi → 90 mi → 200 mi)
@@ -388,4 +415,297 @@ a obra trata "denominação de essência" e "tier de calamidade" como duas faces
 **Nuance a registrar**: a produção da denominação segue o rank do **immortal aperture / blessed
 land**, não apenas o do cultivador — daí Fang Yuan produzir white litchi "in advance" por ter o
 sovereign immortal aperture (caps. 681, 1644), e daí um blessed land de rank 7 produzir red date.
+
+---
+
+## 9. As cinco contradições menores (itens 2, 3, 10, 11, 14 de LACUNAS.md)
+
+Resumo dos vereditos antes do detalhe:
+
+| # | Contradição | Veredito |
+|---|---|---|
+| 2 | Prêmio do exame: 150 vs 100 pedras | ⚠️ **Erro do autor/tradução.** Sem reconciliação no texto. Adotar **100** |
+| 3 | Cinto de rank 1: azul vs verde | ✅ **Leitura errada nossa.** É **verde**; o azul é a cor do UNIFORME |
+| 10 | Tokens roxo-espinho: 200 vs "algumas centenas" | ✅ **Nuance real, não contradição.** Estoque ativo vs. total já emitido |
+| 11 | Vertical crash Gu: 5 vs 3 respirações | ✅ **Nuance real.** 5 = cooldown; 3 = defasagem entre os DOIS Gu |
+| 14 | Bone Flesh Unity "Indissoluble": 60% vs 6% | ✅ **Consistente.** A hipótese do material está confirmada literalmente |
+
+---
+
+### 9.1 — Item 2: prêmio do exame de fim de ano (150 vs 100 pedras)
+
+**⚠️ ERRO DO AUTOR / DA TRADUÇÃO. Sem reconciliação possível no texto — mas a assimetria de
+evidência é clara.**
+
+Ocorrências exaustivas (todo o Volume 1 varrido):
+
+**Lado "150" — duas menções, ambas no cap. 81, ambas ANTES do exame (promessa/expectativa):**
+> "But if I get first for the year end exam, I can get **a hundred and fifty primeval stones**
+> as reward," Fang Yuan contemplated in his heart. (cap. 81)
+> "Getting first place, not only is it **a hundred and fifty primeval stones**, but you also get
+> an advantage in picking Gu worms!" — o professor, na véspera. (cap. 81)
+
+**Lado "100" — duas menções, caps. 86 e 89, ambas DEPOIS do exame (pagamento e repercussão):**
+> "Becoming first place, you have **a hundred primeval stones** as reward and also Gu worm
+> choosing priority." — Gu Yue Bo, clan leader, entregando o prêmio. (cap. 86)
+> "just being the first place in the year end exam gave him **a hundred primeval stones** as
+> reward right?" — fofoca entre Gu Masters, dias depois. (cap. 89)
+
+**Análise**: não há no texto qualquer menção a desconto, taxa, retenção, punição ou mudança de
+regra que explique a diferença. Os dois pares são internamente consistentes e mutuamente
+incompatíveis. Note-se ainda que o prêmio de **30 pedras** dado por Gu Yue Bo "em nome pessoal"
+no cap. 78 é de um evento ANTERIOR e distinto, não serve de compensação (e 150 − 30 = 120, não 100).
+
+**Recomendação para o material**: adotar **100 pedras** como valor operativo, porque (a) é o valor
+efetivamente pago em cena, (b) é repetido de forma independente por um segundo personagem no
+cap. 89, e (c) o valor 150 aparece só em fala prospectiva. Registrar a divergência em nota de rodapé
+como inconsistência do original, não como mecânica.
+
+---
+
+### 9.2 — Item 3: cor do cinto de rank 1 (azul vs verde)
+
+**✅ RESOLVIDO — e a contradição é nossa, não da obra. A cor do cinto de rank 1 é VERDE.
+O "azul" nas duas passagens dissidentes é a cor do UNIFORME, não do cinto.**
+
+O sistema completo de insígnias, reconstruído por varredura de todas as ocorrências de "belt"
+no Volume 1:
+
+| Rank | Cor do cinto | Placa | Capítulos |
+|---|---|---|---|
+| 1 | **verde** | cobre/bronze, nº "1" | 12, 40, 64, 93, 107 |
+| 2 | **vermelho / escarlate** | aço, nº "2" | 31, 32, 69, 93, 101, 107 |
+| 3 | **branco** | prata, nº "3" | 110 |
+
+O **uniforme** (peça separada) é azul: "They wore a **blue uniform**… a headband and a waist belt
+completing their appearance" (cap. 31); "she wore a **dark blue uniform**, and a **red belt**"
+(cap. 32); "wearing a **deep blue uniform**, and there was a **scarlet belt**" (cap. 69).
+
+**A passagem dissidente do cap. 31** é a frase imediatamente seguinte à descrição do uniforme azul:
+"The belt had a specific function, for Rank one Gu Masters it was a blue belt. There was a bronze
+plate at the front, and the number '1'… For Rank two Gu Masters, their belt was red." — ou seja,
+a mesma frase que erra o rank 1 acerta o rank 2. É contaminação da cor do uniforme mencionada
+uma linha antes.
+
+**A segunda dissidência** (que o material ainda não tinha registrado) está no cap. 87, descrevendo
+Fang Yuan recém-formado: "This was a **dark blue coloured battle attire**… On his head there was a
+**bright blue headband**… The belt was **navy blue** with a bronze plate on it, carved with the
+number '1'". Mesmo padrão: o parágrafo inteiro está saturado de azul (traje, faixa de cabeça) e o
+cinto é arrastado junto.
+
+**Evidência decisiva de que é verde** — o cap. 93 mostra a TRANSIÇÃO, e é a prova mais forte porque
+contrasta as duas cores na mesma frase:
+> "His belt was **no longer the green coloured Rank one belt**, but a Rank two Gu Master's **red
+> coloured belt**." (cap. 93)
+
+E o cap. 107 repete o contraste com dois personagens lado a lado: Fang Yuan "his belt was also red
+colour… a Rank two Gu Master! However, he himself was still a Rank one, carrying a **green coloured
+belt**."
+
+**Veredito**: verde é canônico (5 ocorrências, incluindo as duas cenas comparativas); azul é lapso
+de redação em 2 passagens descritivas onde a paleta do uniforme domina o parágrafo.
+
+---
+
+### 9.3 — Item 10: contagem de tokens roxo-espinho (200 vs "algumas centenas")
+
+**✅ RESOLVIDO — NÃO é contradição. São duas grandezas diferentes, e a própria obra fornece o
+mecanismo que as separa.**
+
+As duas frases:
+> "The purple thorn token could only be given out when the clan leader, or ten elders came to an
+> agreement. There were only **two hundred purple thorn tokens in the world now**." (cap. 271)
+
+> "Shang Clan has existed for thousands of years but **the number of purple thorn tokens it has
+> given out** is mere a few hundred." (cap. 277)
+
+A primeira é **estoque válido no presente** ("in the world **now**"). A segunda é **total emitido
+ao longo de milhares de anos** ("has **given out**"). São métricas distintas e a segunda tem de ser
+maior que a primeira.
+
+**O mecanismo que garante isso está declarado no mesmo cap. 271** — os tokens **expiram**:
+> "the purple thorn token was not a Gu worm, it only had the power of the token Gu remaining in it.
+> **As time passed, the token Gu's power would decrease, and the purple thorn token would lose
+> effect.** … If Fang Yuan's purple thorn token lost effect, he would have to return to Shang clan
+> city and ask them to create a new one. This was a way Shang clan controlled their tokens."
+
+Ou seja: o Shang clan emitiu "algumas centenas" em milhares de anos; a caducidade dos tokens (e a
+morte dos portadores) mantém o estoque ativo em ~200. **As duas cifras são exatamente o que a
+mecânica prevê.**
+
+**Recomendação**: remover da lista de contradições e registrar como exemplo canônico do mecanismo
+de caducidade/renovação dos tokens Shang.
+
+---
+
+### 9.4 — Item 11: recarga do vertical crash Gu (5 vs 3 respirações)
+
+**✅ RESOLVIDO — NÃO é contradição. As "3 respirações" nunca foram um cooldown: são a DEFASAGEM
+entre os cooldowns de dois Gu diferentes.**
+
+O cooldown real, declarado sem ambiguidade:
+> "He knew very clearly the vertical crash Gu could only charge fifty steps ahead. **Every time it
+> is used, there is a cooldown period of five breaths.**" (cap. 290)
+
+E o cap. 290 confirma o número na prática, duas cenas depois: "**Five breaths had long passed**,
+Fang Yuan looked at Li Hao, and activated the vertical crash Gu, charging over."
+
+A frase do cap. 291, lida por inteiro, diz outra coisa:
+> "He was always paying attention to the cooldown period of **horizontal charge Gu and vertical
+> crash Gu**. **There were three breaths of time interval between them.** Taking into account the
+> time taken to charge fifty steps, he would always have a movement Gu to use." (cap. 291)
+
+"Between **them**" = entre os dois Gu, não entre dois usos do mesmo. Fang Yuan mantém os dois Gu
+**fora de fase em 3 respirações**: cada um recarrega em 5, mas como estão defasados, nunca há uma
+janela em que ambos estejam em cooldown ao mesmo tempo. É por isso que o parágrafo conclui
+"he would always have a movement Gu to use" — uma conclusão que só faz sentido sob a leitura da
+defasagem, e que seria falsa se 3 fosse o cooldown.
+
+O cap. 288 já tinha estabelecido a prática do revezamento: "Not only did he use horizontal charge Gu
+or vertical crash Gu **alternatively**, he also simultaneously used all-out effort Gu."
+
+**Veredito**: cooldown do vertical crash Gu = **5 respirações**, valor único e estável. As 3
+respirações são um dado tático sobre a rotação dos dois Gu de movimento — e são, na verdade, um bom
+exemplo didático de gestão de cooldowns escalonados.
+
+---
+
+### 9.5 — Item 14: Bone Flesh Unity "Indissoluble" (60% vs 6%)
+
+**✅ RESOLVIDO — a leitura provável do material está CONFIRMADA literalmente. As duas formulações
+são consistentes: 60% é a eficiência de conversão, 6% é o resultado sobre o total do doador.**
+
+A tabela completa das cinco qualidades (cap. 230) — e note que o texto usa **frações**, não
+porcentagens:
+> "The worst quality was the **fratricidal** Gu which converted ten percent primeval essence into
+> **one-fifth** of it; above it was **friendly relation** Gu which converted ten percent of primeval
+> essence into **two-fifth** of it; **indissoluble relation** Gu could transfer **three-fifth**;
+> **familial relation** Gu could transfer **four-fifth**; and the top **blood kin relation** Gu could
+> transfer **a hundred percent** of the primeval essence without any loss in conversion." (cap. 230)
+
+| Qualidade | Fração transferida | Equivalente % | % do total do doador (base 10%) |
+|---|---|---|---|
+| fratricidal | 1/5 | 20% | 2% |
+| friendly relation | 2/5 | 40% | 4% |
+| **indissoluble relation** | **3/5** | **60%** | **6%** |
+| familial relation | 4/5 | 80% | 8% |
+| blood kin relation | 5/5 | 100% | 10% |
+
+A cena de uso fecha a conta exatamente:
+> "Bone flesh unity Gu shone with green and red light respectively, converting the primeval essence;
+> **six percent** of snow silver primeval essence entered Fang Yuan's aperture." (cap. 245)
+
+0,10 × 3/5 = **0,06**. ✅
+
+**Duas notas para o material:**
+1. A base de doação é sempre **10% da essência primeval do doador** — esse 10% é fixo em todas as
+   cinco qualidades; o que varia é só a fração que sobrevive à conversão.
+2. O "60%" nas nossas tabelas é uma tradução correta de "three-fifth", mas **a obra escreve em
+   quintos**. Vale citar a fração original, porque a escada 1/5–2/5–3/5–4/5–5/5 torna o sistema
+   imediatamente legível como uma progressão regular de cinco degraus — o que a versão em
+   porcentagem esconde.
+
+A qualidade obtida depende da profundidade do vínculo entre os dois refinadores (cap. 230); Fang
+Yuan e Bai Ning Bing obtiveram "indissoluble" (o degrau do meio) porque adulteraram a receita, e
+porque a relação real entre eles teria rendido a pior qualidade, "fratricidal".
+
+---
+
+## 10. Itens 63/48 — faixa da grade "high" de blessed land (4.000 vs 6.700 km²)
+
+**✅ RESOLVIDO — os números não divergem entre capítulos. A "divergência" era leitura nossa:
+4.000 é o TETO da grade *medium* e 6.700 é o PISO da grade *super*. A grade *high* fica entre
+as duas, em 4.700–6.000 km², e é declarada com esses mesmos valores em todas as passagens.**
+
+### 10.1 A tabela canônica das quatro grades
+
+As grades aparecem em três passagens que **se complementam sem se contradizer** (caps. 690, 939,
+1027). Nenhuma delas dá as quatro grades de uma vez; juntas, dão:
+
+| Grade | Área (km²) | Tributário do River of Time | Essência imortal / ano | Capítulos |
+|---|---|---|---|---|
+| low | **até 2.000** (máximo) | small tributary | mais de 10 contas | 939, 1027 |
+| medium | **2.700 – 4.000** | slightly bigger tributary | mais de 20 contas | 939, 1027 |
+| **high** | **4.700 – 6.000** | **large** tributary | mais de 30 contas | **690** |
+| super | **acima de 6.700**, sem passar de **13.000** | gigantic tributary | mais de 50 contas | 690, 939, 1027 |
+
+Citações literais:
+
+> "A **low grade** blessed land has a size of **two thousand square kilometers at the maximum**, it
+> can draw in a small tributary of the river of time and create over ten beads of immortal essence,
+> while being a land of few resources.
+> A **medium grade** blessed land can have a size of **two thousand and seven hundred square
+> kilometers to four thousand square kilometers**, draw in a slightly bigger tributary of the river
+> of time, create over twenty beads of immortal essence and have plentiful resources." (cap. 939)
+
+> "**High grade** blessed lands were formed with a size of **4700km2 to 6000km2**, drew in a large
+> tributary of the river of time and created **over thirty beads** of immortal essence. There would
+> be plenty of heaven and earth qi remaining which could mutually interact and refine the vital Gu
+> and core Gu into Immortal Gu.
+> **Super grade** blessed lands were even larger with a territory of **over 6700 km2**. The tributary
+> of the river of time it drew in would be gigantic and the amount of green grape immortal essence
+> created would **surpass fifty beads**! If there was nothing unexpected, it could create at least
+> two Immortal Gu." (cap. 690)
+
+> "**Super grade** blessed lands had a territory of over 6700 km2 but **did not exceed 13000km2**."
+> (cap. 1027)
+
+### 10.2 O teto de 13.000 km² e a nota do autor — dois achados novos
+
+O cap. 1027 acrescenta **duas informações que não estavam no material**:
+
+1. **A grade super TEM teto: 13.000 km².** As outras passagens diziam apenas "over 6700 km2", o que
+   sugeria uma grade aberta. Não é. A faixa super é 6.700–13.000 km².
+2. **Uma nota explícita do autor**, entre parênteses, logo depois da tabela:
+   > "**(The above information refers to the starting size after immortal ascension.)**" (cap. 1027)
+
+   Isso é decisivo para o material: **as grades descrevem o tamanho NA FORMAÇÃO**, no momento da
+   ascensão a imortal — não o tamanho corrente. Um blessed land cresce (por calamidades, anexações,
+   gestão) e encolhe (por dano, amputação voluntária), e depois disso a grade original deixa de
+   descrever a área. Isso reconcilia todos os casos concretos aparentemente fora de faixa.
+
+### 10.3 Há lacunas ENTRE as grades — e são reais
+
+Somando as faixas, aparecem três intervalos sem grade atribuída:
+
+- **2.000 – 2.700 km²** (entre low e medium)
+- **4.000 – 4.700 km²** (entre medium e high)
+- **6.000 – 6.700 km²** (entre high e super)
+
+A obra nunca comenta esses vãos. É **exatamente o mesmo padrão de arredondamento narrativo do
+item 5** (a faixa 31–39% de aptidão, entre o topo do grau D e o piso do grau C): o autor fixa
+extremos redondos por grade e não se preocupa em fazê-los encostar. Registrar como não-descrito,
+com a observação de que o padrão se repete em pelo menos dois sistemas de graduação distintos —
+o que reforça que é maneirismo do autor, não erro pontual.
+
+### 10.4 Casos concretos, para conferência cruzada
+
+Todos os blessed lands nomeados caem nas faixas certas (ou fora delas pela razão da nota do autor):
+
+| Blessed land | Área | Grade | Fonte / observação |
+|---|---|---|---|
+| Hu Immortal | 4.000 km², fluxo 5× | medium (no teto) | perdeu >1.300 km² em combate; F.Y. amputa mais 600 km² |
+| Tai Bai | ~4.700 km², fluxo 33× | **high** (no piso) | "Tai Bai blessed land was a high grade blessed land" |
+| Lian Yun | 5.700 km² | **high** (miolo da faixa) | cap. 1449 |
+| Hei Lou Lan | >6.700 km², fluxo 38× | super | Great Strength True Martial Physique (constituição extrema) |
+| dream path (super) | 8.000 km², fluxo 46×, 55 contas/ano | super | bate com "surpass fifty beads" |
+| aperture imortal de F.Y. (ascensão forçada) | 3.500 km², fluxo 16× | medium | "the foundation for his immortal aperture was not high" |
+| sovereign immortal aperture | 335.000 km² | fora de escala | não é blessed land comum |
+
+**Regra estrutural confirmada**: a constituição extrema (ten extreme physique) produz
+automaticamente um blessed land de grade **super** na ascensão — "Once a person of the ten extreme
+physiques became a Gu Immortal, like Hei Lou Lan, they would obtain a super grade blessed land!"
+(cap. 1027), reforçado pelo cap. 901 (foi Thieving Heaven quem tornou isso possível).
+
+E a **maioria dos rank 6 fica em low ou medium**: "Most rank six Gu Immortals had medium or low
+grade blessed lands." (cap. 1027) — útil como calibragem: high e super são exceções, não a norma.
+
+### 10.5 Correção a aplicar no material
+
+- Substituir a faixa "high = entre 4.000 e 6.700 km², extremos divergem entre capítulos" por
+  **high = 4.700–6.000 km²**, sem divergência: os caps. 690, 939 e 1027 são complementares e
+  concordam integralmente.
+- Acrescentar o **teto de 13.000 km² da grade super** (cap. 1027).
+- Acrescentar a **nota do autor** de que os números são o tamanho na formação (cap. 1027).
+- Registrar os três vãos entre grades como não-descritos.
 

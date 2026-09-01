@@ -2,7 +2,8 @@
 tags:
   - pipeline
   - revisao
-status: em-andamento
+status: concluido
+achados: "16 bloqueadores, 25 sérios, 28 menores, 21 elogios específicos"
 autor: "revisão externa — designer de TTRPG sem conhecimento prévio da obra"
 escopo: "00 (3 notas), 01 - Cultivo (11), 02 - Gu (8), 03 - Paths (18), 04 - Mundo (8)"
 ---
@@ -767,9 +768,10 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
 
 ### B13. Quatro notas terminam com lixo de geração (`</content>`, `</invoke>`)
 
-- **Arquivos:** `04 - Mundo/Visão Geral do Mundo.md` (última linha: `</content>` seguida de
-  `</invoke>`), `04 - Mundo/Cosmologia.md`, `04 - Mundo/As Cinco Regiões.md`,
-  `04 - Mundo/Lendas de Ren Zu.md` (todas terminam em `</content>`).
+- **Arquivos:** varri a base com `grep -rln "</content>\|</invoke>"` e são **doze notas** —
+  as **oito** de `04 - Mundo` (em `Visão Geral do Mundo.md` há `</content>` *e* `</invoke>`)
+  e as **quatro** de `07 - Veneráveis e Legados`, que não estava no meu escopo mas está
+  contaminada igual. Nenhuma nota de `01`, `02` ou `03` foi afetada.
 - **Tipo:** defeito de produção.
 - **O problema:** não é conteúdo, é uma etiqueta de ferramenta que vazou para dentro das
   notas finais. Não achei isso em nenhuma nota de `01`, `02` ou `03` — é específico desta
@@ -934,3 +936,278 @@ Conferi as notas de `04` contra as três correções que vocês fizeram. Duas ob
   dizendo que é fenômeno de escala de Venerável/anexador, para o leitor não calibrar errado.
 
 ---
+
+## Segunda metade da pasta `04` (Vontade dos Céus · Fate Gu · Tribunal Celestial · Blessed Lands)
+
+### B15. A abertura imortal é fixa na ascensão numa nota e evolutiva na outra
+
+- **Arquivos:** `01 - Cultivo/Ascensão Imortal.md` × `04 - Mundo/Blessed Lands e
+  Grotto-Heavens.md` — as duas tabelas de "grades", que descrevem o **mesmo** objeto.
+- **Trechos:**
+  - `Ascensão Imortal`: "O tamanho e a riqueza do mundo pequeno resultante são determinados
+    **na formação** ... É o **boletim final** da vida mortal do personagem, e ele é
+    **permanente**." Fluxo de tempo listado como propriedade da grade (média ~1:16, alta ~1:30
+    a 1:33, super ~1:38 a 1:40).
+  - `Blessed Lands`: "terras **jovens começam perto de 1:1 e sobem por degraus** — 1:6, 1:12,
+    1:16; uma terra de grade alta comum roda em torno de 1:30" — e, adiante, "um especialista
+    de rank 8 do caminho do tempo consegue **desacelerar o tempo na dimensão de terceiros**, o
+    que significa que os fluxos variados pelo mundo são, ao menos em parte, **técnica
+    instalada e não propriedade natural**".
+- **Tipo:** furo lógico entre notas, sobre a estatística central do personagem imortal.
+- **O problema:** ou o fluxo temporal é atribuído na ascensão e permanente (modelo "boletim
+  final"), ou ele cresce com a terra e pode ser instalado por terceiros (modelo "infraestrutura
+  desenvolvível"). São duas fichas de personagem diferentes: no primeiro caso a ascensão é uma
+  rolagem definitiva que eu preciso deixar dramática; no segundo é o começo de um jogo de
+  construção de base. As duas notas dizem também coisas diferentes sobre o **teto** da grade
+  Super (`acima de 6.700 km²` × `6.700–13.000 km²`) e sobre o bônus da grade Média (`—` ×
+  `recursos abundantes`).
+- **Correção:** eleger `Blessed Lands` como fonte da tabela (é mais completa e mais recente
+  em detalhe), fazer `Ascensão Imortal` remeter a ela em vez de duplicá-la, e substituir
+  "determinados na formação e permanente" por algo como "o **potencial** é determinado na
+  formação; a realização desse potencial é o trabalho de séculos". Isso concilia os dois
+  textos e, de quebra, é a versão mais jogável.
+
+### B16. Duas afirmações incompatíveis sobre a moeda do mundo imortal
+
+- **Arquivos:** `04 - Mundo/Blessed Lands e Grotto-Heavens.md` × `04 - Mundo/Tribunal
+  Celestial.md` × `04 - Mundo/Vontade dos Céus.md`
+- **Trechos:**
+  - `Blessed Lands`: "O que uma terra gera é *essência imortal* ... Essência é **pessoal e não
+    fungível**: um imortal **não consegue usar a essência de outro**."
+  - `Tribunal Celestial`: "**Produzir a moeda do mundo.** A Corte é a fonte única das **pedras
+    de essência imortal** e restringe deliberadamente a distribuição como arma política."
+- **Tipo:** furo lógico — atinge a economia inteira do reino imortal.
+- **O problema:** se a essência imortal não é utilizável por terceiros, ela não pode ser
+  moeda; e se as pedras de essência imortal circulam como moeda universal, então a essência
+  **é** fungível em alguma forma. Falta exatamente uma frase — provavelmente "a essência
+  ligada a um dono é intransferível; a essência **não reclamada**, cristalizada em pedra, é
+  neutra e circula" —, e sem ela eu não consigo escrever preço de nada acima do rank 5. É o
+  equivalente, no reino imortal, do que as pedras primevas resolvem no mortal.
+- **Correção:** acrescentar essa distinção nos dois lugares e ligar as notas. Vale notar que
+  o material mortal já resolveu o mesmo problema com elegância (`Essência Primeva.md`
+  distingue essência pessoal de pedra primeva); o reino imortal só precisa herdar a solução.
+
+### S23. O ingresso na Corte Celestial isenta de tribulações — e ninguém tira a conclusão
+
+- **Arquivos:** `04 - Mundo/Tribunal Celestial.md` × `01 - Cultivo/Tribulações e
+  Calamidades.md` × `01 - Cultivo/Dao Marks.md`
+- **Trechos:** "**Isenção de desastres e tribulações** — o mundo coletivo não sofre as
+  provações periódicas que perseguem todo cultivador imortal" e "**O direito de dormir** ...
+  A maioria faz exatamente isso" × "sobreviver a desastres é **a via principal** de ganhar dao
+  marks" e "3 miríades → rank 9".
+- **Tipo:** falta de utilidade para design — a consequência mais importante não é enunciada.
+- **O problema:** juntando as três notas, membros da Corte **trocaram progressão por
+  segurança**: sem tribulações não há dao marks, sem dao marks não há avanço de rank, e
+  dormindo não se acumula nada. A instituição mais poderosa do mundo é, por construção,
+  **estagnada** — e isso explicaria de graça por que ela é conservadora, por que persegue
+  reparos em vez de crescimento, e por que só três Veneráveis saíram de dentro dela em três
+  milhões de anos. Nenhuma das três notas diz isso, e é o insight de campanha mais forte que
+  o material contém sobre a Corte. (Se a leitura estiver errada — se houver outra via de
+  progressão lá dentro — então a contradição é real e precisa ser resolvida.)
+- **Correção:** um bloco `> [!note] Para o design` em `Tribunal Celestial.md` fechando o
+  raciocínio, num sentido ou no outro. Do jeito que está, cada leitor vai chegar sozinho a
+  essa conclusão e não vai saber se ela é canônica.
+
+### S24. Um quarto número para "quantos Gu um Mestre sustenta"
+
+- **Arquivo:** `04 - Mundo/Blessed Lands e Grotto-Heavens.md`, sete níveis de desenvolvimento,
+  nível 1: "(Para comparação: um mortal comum sustenta **cinco ou seis** Gu.)"
+- **Tipo:** furo numérico — reincidência do S9.
+- **O problema:** agora são quatro valores para a mesma grandeza: **4 a 5** (`Visão Geral dos
+  Gu`, `O que é um Gu`), **2 a 3 / 4 a 5 / até 7** por perfil (`Usar e Alimentar Gu`) e **5 ou
+  6** aqui. Registro porque mostra que o S9 não é um deslize isolado: é um número que foi
+  reescrito de memória em cada nota que precisou dele.
+- **Correção:** a mesma de S9 — uma fonte única, e as outras notas citando-a. Sugiro que a
+  tabela por perfil de `Usar e Alimentar Gu.md` seja declarada canônica no próprio texto
+  ("esta é a tabela de referência; outras notas remetem a ela").
+
+### S25. `Fate Gu.md` e `Tribunal Celestial.md` repetem seções inteiras uma da outra
+
+- **Arquivos:** `04 - Mundo/Fate Gu.md` × `04 - Mundo/Tribunal Celestial.md`
+- **Trechos duplicados quase palavra por palavra:** os quatro limites da vigilância (não vê
+  fracos, não vê quem está em mundo privado, não vence ocultação da sabedoria, jurisdição
+  regional) e o custo que "dobra sob interferência hostil"; o ciclo de reparo do Fate Gu; a
+  competição centenária de refino como colheita disfarçada; a caça aos foragidos como
+  manutenção.
+- **Tipo:** densidade / redundância.
+- **O problema:** não é erro — as duas versões concordam, o que é um bom sinal. Mas eu li a
+  mesma tabela duas vezes em notas consecutivas e, na segunda, gastei tempo procurando a
+  diferença que não existia. Em material de referência, repetição idêntica é ruído; e cria
+  dois lugares para manter sincronizados a cada correção futura.
+- **Correção:** manter a tabela de limites da Torre em **uma** nota (proponho `Tribunal
+  Celestial.md`, que é a dona do artefato) e na outra deixar duas linhas mais o link.
+
+### Sobre o B5 (unidade de energia imortal): metade resolvida, na pasta errada
+
+Registro a atualização porque muda o diagnóstico: `Blessed Lands e Grotto-Heavens.md`
+**explica** as denominações que eu não tinha encontrado — "uva verde (rank 6), tâmara vermelha
+(7), lichia branca (8), damasco amarelo (9)" — e ainda dá um exemplo de orçamento doméstico
+("terras que dividiam a reserva em dezesseis partes — oito para refino, quatro para
+manutenção, três para operações, uma para emergência"), que é justamente o tipo de âncora que
+eu pedi. Então:
+
+- **O que se resolve:** a escada de denominações existe e está documentada. Falta apenas
+  ligá-la a partir de `01 - Cultivo/Ascensão Imortal.md` e `Tornar-se Venerável.md`, que a
+  usam sem explicar.
+- **O que permanece em aberto:** a unidade "**conta**" continua indefinida nas duas tabelas de
+  grade ("10+ contas", "50+ contas"). Uma conta é uma unidade de quê — uma pedra? uma
+  ativação? um ano de ração de um Gu de rank 6? Sem isso a coluna "produção anual de energia"
+  é decorativa, e é a única coluna que eu usaria para balancear a economia imortal.
+- **E fica o padrão:** este é o terceiro caso (com S19 e com o B5 original) em que **a
+  informação existe, mas não na nota onde a decisão é tomada**. Sugiro que isso vire uma
+  passada de revisão própria: para cada termo destacado com `==...==` numa nota, garantir que
+  a nota que *usa* o termo tenha o link.
+
+## MENORES (04, segunda metade)
+
+- **M25 · Nomes de Veneráveis em inglês — o problema é sistêmico, não pontual.** Além de
+  `Cosmologia.md` (M20), aparecem `[[Red Lotus Demon Venerable]]` e `[[Star Constellation
+  Immortal Venerable]]` em `Fate Gu.md`, e `[[Primordial Origin Immortal Venerable]]`,
+  `[[Star Constellation Immortal Venerable]]` e `[[Genesis Lotus Immortal Venerable]]` em
+  `Tribunal Celestial.md` — enquanto `Wisdom Path.md` chama a mesma pessoa de "**a Venerável
+  Imortal Constelação Estelar**". Um leitor que leia as duas notas não sabe que é a mesma
+  figura. Padronizar é obrigatório, não cosmético.
+- **M26 · `Blessed Lands` é longa demais para o que promete no título.** Com nove seções
+  grandes, ela cobre quatro assuntos separáveis: o que é uma dimensão privada, como se
+  conquista uma, como uma decai (a "masmorra com relógio"), e como se desenvolve uma (os sete
+  níveis). O terceiro e o quarto são sistemas de jogo inteiros e distintos — herança/dungeon
+  de um lado, construção de base do outro. Vale considerar desmembrar em duas notas.
+- **M27 · `Vontade dos Céus.md` · uma defesa listada não é defesa.** O item "2. Elevar o
+  próprio cultivo — a defesa real de longo prazo" é, na prática, "não há defesa"; listá-lo
+  entre as sete opções dilui a lista, que fora isso é excelente e diretamente jogável.
+- **M28 · `Tribunal Celestial.md` · uma pista deixada solta.** "O texto marca explicitamente
+  que existe uma **desvantagem oculta** nessa troca e nunca a revela." Ótimo gancho, mas
+  merece um `> [!note] Para o design` dizendo que é um espaço em branco deliberado que a
+  mestra pode preencher — hoje parece uma lacuna de pesquisa, não um convite.
+
+## O QUE NÃO PRECISA MEXER (04)
+
+- **E16 · `Vontade dos Céus.md` é a melhor nota do material depois de `Gu Imortais.md`.** A
+  tabela lei × vontade resolve, em seis linhas, o "erro conceitual mais comum sobre este
+  mundo"; as **duas janelas de ação direta** convertem um antagonista onipotente em antagonista
+  com regras de engajamento auditáveis; e as sete defesas são todas jogáveis. É o que eu
+  entregaria a um mestre como leitura obrigatória.
+- **E17 · Os limites publicados da Torre que Observa o Céu.** "Um olho que tudo vê com quatro
+  cegueiras publicadas vale infinitamente mais numa mesa do que um olho que tudo vê" — e a
+  tabela cumpre isso, com uma coluna inteira dedicada à consequência de mesa. É o formato que
+  eu gostaria de ver em todas as tabelas da base.
+- **E18 · A condição de posse de uma terra abençoada ser a obsessão não realizada do morto.**
+  É a melhor ideia de design de aventura do material inteiro, e a nota tem a disciplina de
+  listar exemplos variados (o casal que se ama de verdade, a técnica inacabada) em vez de
+  descrever a regra em abstrato.
+- **E19 · `Lendas de Ren Zu.md` — o mito como manual de regras.** A tese ("se precisar decidir
+  se algo é possível neste mundo, a pergunta não é 'isso faz sentido fisicamente?' e sim
+  'existe uma lenda que abre precedente?'") é uma ferramenta editorial que eu vou usar durante
+  todo o projeto, e a permissão explícita de inventar episódios novos resolve o problema de
+  extensibilidade do cenário.
+- **E20 · A anexação de aberturas é descrita de forma idêntica em `01` e `04`** — mesmos três
+  requisitos, mesmos três benefícios, mesmo trade-off. Depois de tantas divergências entre
+  pastas, vale registrar que este subsistema está perfeitamente sincronizado.
+- **E21 · O tratamento da Corte Celestial como burocracia, e não como império do mal**, com
+  protocolos desatualizados, facções herdadas e conta de consumo por consulta. É maduro e é
+  exatamente o que faz uma instituição funcionar numa mesa.
+
+---
+
+# Veredito
+
+**Sim, eu conseguiria projetar o jogo com este material — e não conseguiria escrever as
+regras.** A distinção é a coisa mais importante deste relatório, então deixo ela explícita.
+
+## O que este material já me dá, e é muito
+
+Li 45 notas sem nunca ter ouvido falar da obra e, ao fim, **entendi o mundo**. Sei o que é
+uma abertura, por que a aptidão é um teto e não uma velocidade, por que a magia deste mundo
+é uma economia de criação de animais, por que o poder atrai punição automática, por que
+roubar um artefato de topo o destrói e por que isso torna a diplomacia inevitável entre
+inimigos mortais. Sei qual é a fantasia central de doze arquétipos diferentes. Isso é raro:
+a maior parte dos materiais de cenário me faria decorar nomes próprios.
+
+Mais que isso, o material **pensa como designer**, e não só como enciclopédia. Os blocos
+"Para o design" não são resumos: são propostas mecânicas, várias delas melhores do que eu
+teria bolado sozinha — manutenção de Gu como pressão de campanha, backlash escalonado por
+progresso de conjuração, a condição de posse de uma terra sendo a obsessão não resolvida de
+um morto, os limites publicados de uma máquina de vigilância, "os personagens mais fortes
+não cabem nos lugares menores" como solução para o problema do chefão onipotente. Se eu
+tivesse que apontar o maior valor desta base, não seria a informação: seria **o julgamento
+editorial sobre o que é jogável**.
+
+E há um ativo que nem os autores tinham percebido: a aritmética da progressão imortal
+fecha. Cadência de provações × valor por provação reproduz exatamente as faixas de dao marks
+por rank e a condição formal do rank 9. Com a correção que vocês já aplicaram, ela agora
+reproduz também o salto de ~10× por rank da essência. **Isso é uma tabela de experiência
+pronta, auditável, derivada e não arbitrada.** Poucos cenários publicados têm isso.
+
+## O que me impede de escrever regras hoje
+
+O padrão de falha é único e se repete em todas as pastas: **o mesmo número foi reescrito de
+memória em cada nota que precisou dele**, e as versões divergiram. Quantos Gu um Mestre
+sustenta tem quatro respostas. A escala de attainment tem duas. O teto da herança tem dois.
+Dao Lord tem duas definições. As grades de abertura imortal têm duas tabelas. As taxas de
+sucesso de refino se invertem entre notas. E "refino" nomeia duas operações diferentes na
+mesma página.
+
+Nenhum desses é um erro de pesquisa — a pesquisa é boa, e a rastreabilidade por `fontes`
+está lá. São erros de **arquitetura editorial**: não existe fonte única para nenhuma
+grandeza. Enquanto isso não for resolvido, qualquer regra que eu escrever vai contradizer
+alguma nota, e eu não vou saber qual das duas é a certa.
+
+As quatro coisas que eu literalmente **não posso** escrever hoje, por falta de decisão e não
+de informação:
+
+1. **A economia de ações do combate.** Se controlar dois Gu já é destaque, ninguém dispara um
+   golpe de quarenta e dois. É a primeira regra de qualquer RPG e o material me dá quatro
+   números incompatíveis (B9).
+2. **O subsistema de fabricação.** Três verbos, duas descrições, taxas que se invertem (B7,
+   B8). Não sei se estou desenhando domesticação, artesanato ou os dois.
+3. **A economia imortal.** Não sei o que é uma "conta", e não sei se a essência imortal é
+   fungível — mas ela é a moeda do mundo (B5, B16).
+4. **A criação de personagem.** A Cerimônia do Despertar é a primeira cena de qualquer
+   campanha e é a coisa menos documentada da base — sem nota própria, sem procedimento, sem
+   o que acontece com quem falha (S6). E não tenho pirâmide demográfica para saber se os
+   personagens dos jogadores são especiais ou são a tropa comum (S7), que é a primeira
+   decisão de tom de um jogo.
+
+## O que falta, além das correções
+
+Três lacunas que não são erros — são material que simplesmente não existe:
+
+- **Uma folha de números canônicos.** Um arquivo único, declarado soberano, com toda grandeza
+  do sistema e uma linha por número; todas as notas passando a citá-lo em vez de repeti-lo.
+  `Tabelas de Referência Rápida` talvez já queira ser isso, mas está no fim da fila de leitura
+  e nenhuma nota a trata como autoridade. **Se eu pudesse pedir uma só coisa, seria esta:**
+  resolve, de uma vez, a maioria dos 16 bloqueadores e dos 25 sérios deste relatório.
+- **A camada de "como é uma sessão".** O material me diz como o mundo funciona e nunca me diz
+  o que acontece numa terça-feira na vida de um grupo de personagens: quanto tempo passa entre
+  cenas, em que escala o conflito acontece, o que um grupo de rank 2 faz durante seis meses.
+  Suspeito que `06 - Economia e Vida` cubra parte disso (o LEIA-ME põe `Como um Mestre Gu
+  Ganha a Vida` entre as cinco notas fundacionais, e faz sentido), mas estava fora do meu
+  escopo — vale confirmar que a resposta está lá, porque no escopo que revisei ela não está.
+- **A escolha do estado do mundo.** O cenário tem duas versões (antes e depois da Grande Era)
+  e as regras das duas estão intercaladas nas mesmas listas (S21). Alguém precisa decidir qual
+  é o padrão do livro básico — e essa é uma decisão editorial, não de pesquisa.
+
+## Ordem de trabalho que eu recomendaria
+
+1. A folha de números canônicos e a passada de sincronização (resolve B1–B2 já feitos, B3–B4
+   já feitos, B8, B10, B11, B15, S3, S9, S17, S24).
+2. Desambiguar "refino" e a economia de ações (B7, B9) — são os dois que travam subsistemas
+   inteiros.
+3. Limpar o lixo de geração das doze notas (B13) — é meia hora e é o que mais dana a
+   confiança de um leitor externo.
+4. Escrever a Cerimônia do Despertar e a pirâmide demográfica (S6, S7).
+5. Resolver as duas definições de Dao Lord e o tempo interno × externo (B12, B6).
+6. O resto, por ordem de severidade.
+
+## Em uma frase
+
+Este é o melhor material de cenário que eu já recebi como fonte única para um projeto de
+adaptação, e ele está a **uma passada de consistência numérica** de ser utilizável para
+escrever regras — não a uma rodada de pesquisa. O trabalho difícil já foi feito; o que falta
+é o trabalho chato.
+
+---
+
+**Contagem final:** 16 bloqueadores · 25 sérios · 28 menores · 21 notas ou seções que não
+precisam de mexida. Escopo: 3 notas de `00`, 11 de `01`, 8 de `02`, 5 de `03` (amostra de 18)
+e 8 de `04`.

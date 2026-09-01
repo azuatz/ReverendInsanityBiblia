@@ -775,3 +775,161 @@ apêndice:
 - **Nenhum wikilink quebrado.** Rodei uma verificação de todos os links das pastas 05 a 09
   contra os nomes de nota e os aliases: os 73 arquivos e 222 aliases cobrem tudo. Isso
   significa que os apontamentos "ver nota X" que eu segui sempre chegaram a algum lugar.
+
+---
+
+## 09 - Apêndices — restante das notas
+
+### Resposta direta às perguntas feitas
+
+**As tabelas são autoexplicativas?** As de `Tabelas de Referência Rápida` quase sempre sim
+(com as exceções acima). As dos catálogos, sim — a nota-índice explica as colunas e as
+convenções antes de qualquer lista, o que é o certo.
+
+**O glossário serve para consulta rápida?** Como **dicionário da obra**, sim, e é
+excelente. Como **autoridade sobre a terminologia deste projeto**, não: a coluna que ele
+chama de "PT adotado" descreve escolhas que o vault não fez, e em dois pontos contradiz o
+próprio glossário. Ver 09-I, que considero o achado mais caro desta pasta depois de 09-A.
+
+### Problemas
+
+**09-I — O glossário declara adotar termos que o vault não usa, e contradiz a si mesmo** · `Glossário EN-PT.md`
+Tipo: **inconsistência de nomenclatura — bloqueador.**
+A nota define a coluna do meio assim: "*PT adotado — **a tradução que este projeto usa**.*"
+Contei as ocorrências no vault inteiro (fora de `_pipeline`). Ela não descreve o projeto:
+
+| Termo (EN) | Glossário diz que adotou | O vault realmente usa | Contagem |
+|---|---|---|---|
+| primeval essence | essência primordial | **essência primeva** | 43 × 10 |
+| primeval stones | pedra primordial | **pedras primevas** | 64 × 7 |
+| primeval sea | mar primordial | mar primevo | — |
+| rank (1–9) | **nível** | **rank** | 476 × 170 |
+| attainment level | nível de realização | **attainment** | 71 × 7 |
+| refining | refinamento | **refino** | 227 × 43 |
+| killer move | movimento assassino | *Killer Moves* (título de nota) | — |
+| Heavenly Court | Corte Celestial | **Tribunal** Celestial (título de nota) | — |
+
+Três agravantes:
+1. **O glossário contradiz o próprio glossário.** A tabela da §1 diz que `rank (1–9)` →
+   "**nível**", e a §9.1, dez páginas abaixo, recomenda o contrário com todas as letras:
+   "*neste projeto usamos **rank** para a escada de 1 a 9*".
+2. **O glossário contradiz uma nota que decide explicitamente o oposto.** A §9.4 diz
+   "**Adotamos 'essência primordial'**"; o rodapé de `06/Pedras Primevas.md` diz
+   "**Adotamos 'pedra primeva' nesta base** por consistência com 'essência primeva'". As
+   duas notas anunciam decisões contrárias, cada uma como se fosse a autoridade.
+3. **A marcação `°` fica sem sentido em palavras comuns.** `°` é definido como "sem
+   tradução registrada... **o termo fica em inglês**". Estão marcados assim: `clan`,
+   `sect`, `Immortal Gu`, `recipe`, `inheritance`. O vault escreve clã, seita, Gu Imortal,
+   receita e herança em português, centenas de vezes. Ou a convenção não vale para essas
+   palavras, ou o vault a viola sistematicamente — e eu não sei qual.
+Sugestão: separar em **duas colunas** — "PT da tradução brasileira" e "PT usado neste
+vault" — que é o que a nota de fato precisa ter. Elas divergem por decisão consciente em
+vários casos (o rodapé de `Pedras Primevas` explica bem por quê), e fingir que são uma só
+é o que produz o erro. E resolver as três contradições acima antes de qualquer outra
+coisa: enquanto o glossário não for confiável, nenhum termo do vault é.
+
+**09-J — A linha do tempo nomeia oito Veneráveis e afirma que são dez** · `Linha do Tempo e Eras.md`
+Tipo: **furo lógico / contagem — sério.**
+A nota abre com um callout categórico: "*Os Veneráveis... foram exatamente **dez em toda
+a história do mundo**... Eles aparecem aqui como **marcos históricos e estruturais**.*"
+Contando os que ela efetivamente nomeia, no corpo e na tabela-resumo: Primordial Origin,
+Star Constellation, Reckless Savage, Thieving Heaven, Giant Sun, Genesis Lotus, Spectral
+Soul, Red Lotus. São **oito**. Um nono aparece como "*e um terceiro do mesmo período*",
+sem nome. O décimo não aparece de forma alguma.
+Verifiquei contra o resto do vault: os dois que faltam são o **Paradise Earth Immortal
+Venerable** e o **Limitless Demon Venerable**, ambos amplamente documentados em `07 -
+Veneráveis e Legados`. Não é que a obra não os nomeie — é que a linha do tempo os perdeu.
+Para mim isso é grave porque a nota se apresenta como o **eixo temporal** que permite
+"situar uma campanha em qualquer época e saber o que existia". Se dois dos dez marcos
+estruturais não estão datados, há eras inteiras onde eu não sei o que existia.
+Sugestão: alocar os dois nas eras corretas, substituir "um terceiro do mesmo período" pelo
+nome, e — como salvaguarda — acrescentar à tabela-resumo uma linha de verificação
+("total: 10").
+
+**09-K — Nomes dos Veneráveis em inglês, caminhos em português, na mesma frase** · `Linha do Tempo e Eras.md`
+Tipo: inconsistência de nomenclatura.
+"*o **Giant Sun Immortal Venerable** (criador secreto do **caminho da sorte**...)*". A nota
+traduz todos os caminhos e todos os conceitos, e mantém todos os nomes próprios em inglês,
+inclusive a parte genérica do título — "Immortal Venerable" e "Demon Venerable" — que o
+`Glossário` traduz como "Venerável Imortal" e "Venerável Demônio" e discute na §9.6.
+Também não se explica em lugar nenhum da nota **qual é a diferença** entre um "Immortal
+Venerable" e um "Demon Venerable". Deduzi que é correto × demoníaco, mas a linha do tempo
+usa os dois rótulos dezenas de vezes sem nunca dizer.
+Sugestão: adotar a forma do glossário ("Venerável Imortal Giant Sun") ou manter o inglês
+integralmente, mas escolher — e glosar a distinção Imortal/Demônio na primeira ocorrência.
+
+**09-L — Três taxonomias diferentes de "caminho", e nenhuma é a lista de classes** · `Catálogo de Gu - Mortais.md` × `Glossário EN-PT.md` × `03 - Paths/`
+Tipo: **confusão estrutural — sério.**
+A pergunta que eu preciso responder para desenhar o jogo é "**quantas classes existem e
+quais são?**". O material me dá três respostas diferentes:
+- `03 - Paths/` tem **17** notas de caminho (blood, dream, enslavement, food, heaven,
+  luck, poison, refinement, rule, soul, space, star, strength, sword, time,
+  transformation, wisdom).
+- O `Glossário` §3 lista **21** caminhos — os 17 acima mais human, theft, information,
+  formation e qi.
+- O `Catálogo de Gu - Mortais` se organiza em **cerca de 29 seções**, e várias não são
+  caminhos de forma alguma: "Defesa e reforço corporal", "Furtividade e disfarce",
+  "Contratos e juramentos", "Armazenamento e logística", "Cura e vida", "Gu lendários e
+  conceituais", "Linhagem lunar". E inclui como caminhos vários que não têm nota em `03`:
+  luz, fogo, gelo/água, madeira, terra, som/raio, roubo, homem, formação.
+A nota-índice do catálogo **avisa** parte disso ("nos primeiros volumes o vocabulário
+formal de caminhos ainda não existia; nesses casos os Gu foram agrupados pela família
+funcional"), o que é honesto. Mas o cabeçalho da seção "Como usar" continua afirmando
+"*cada seção é um **caminho** (path)*", o que não é verdade para um terço delas.
+E o problema de fundo permanece: `Linha do Tempo` atribui a Veneráveis a criação dos
+caminhos "do roubo", "da madeira" e "da água" — três caminhos centrais na história do
+mundo, **nenhum com nota em `03`**.
+Sugestão: uma tabela única, num só lugar, com as colunas `Caminho | Tem nota? | Tem seção
+de catálogo? | É jogável como especialização?`. Sem ela eu não consigo nem começar a lista
+de classes, que é a primeira decisão de um TTRPG.
+
+**09-M — A marcação `⭐` prometida não tem função onde está prometida** · `Catálogo de Gu.md`
+Tipo: menor.
+A nota-índice diz: "*Gu Imortais aparecem marcados com ⭐*". Mas a mesma nota acabou de
+explicar que mortais e imortais foram separados em **dois arquivos distintos**. Num
+catálogo só de imortais, marcar todos com ⭐ não distingue nada; num catálogo só de
+mortais, não deveria haver nenhum.
+Sugestão: ou remover a convenção do índice, ou dizer onde ela se aplica (imagino que seja
+para Gu Imortais citados dentro do catálogo mortal, o que faria sentido — mas então
+precisa estar dito).
+
+**09-N — A nota-índice do catálogo não dá a contagem** · `Catálogo de Gu.md`
+Tipo: falta de utilidade para design.
+Eu queria saber, antes de abrir dois arquivos de 40 KB: **quantos Gu existem catalogados,
+por rank e por caminho?** É a primeira informação de calibragem que um designer procura —
+ela me diz se tenho 30 ou 300 itens para trabalhar, e onde estão os buracos.
+Sugestão: acrescentar ao índice uma tabela de contagem (Gu por rank; Gu por caminho), mais
+uma linha dizendo quantos têm dieta informada. O aviso honesto de que "a coluna Alimento
+tem muitos traços" ficaria muito mais útil com o número ao lado.
+
+### O que está bom nestas notas
+
+- **`Linha do Tempo e Eras` é conceitualmente a nota mais útil da pasta**, e a frase que a
+  abre resume por quê: "*Ambientar em outra era não é trocar o cenário — é trocar as
+  **regras disponíveis**.*" A tabela "O que muda nas regras do mundo" (antes × depois da
+  Grande Era) é um documento de design pronto: doze linhas, cada uma um par de regras
+  contrastadas. Eu construiria duas campanhas com aquilo sem consultar mais nada.
+- A tabela-resumo final da linha do tempo (era / marca estrutural / o que nasce /
+  Veneráveis) é exatamente o formato certo para escolher uma ambientação — pena a lacuna
+  do 09-J.
+- **O glossário, apesar do 09-I, faz três coisas raras e valiosas.** A §9 inteira
+  (avisos sobre a tradução brasileira, nove casos com recomendação) é trabalho de curadoria
+  de verdade. A §9.8 (espírito da terra × espírito celestial) me salvou de tratar como erro
+  o que é distinção real do mundo, e ainda me deu de brinde uma pista de rank. E a §8
+  (unidades chinesas: li, mu, catty, jun, liang) é o tipo de coisa que ninguém lembra de
+  incluir e todo mundo precisa.
+- **A honestidade metodológica do glossário no fim** ("a cobertura é contínua nos capítulos
+  iniciais e esparsa no restante... nenhum termo desta nota foi traduzido por conta
+  própria") me diz exatamente quanto peso dar a cada linha.
+- **A nota-índice do `Catálogo de Gu` está estruturalmente correta**: explica as colunas e
+  as convenções *antes* das listas, declara que o catálogo não é exaustivo, e — o melhor
+  — transforma a incompletude em regra de design ("inventar um Gu inédito é uma conquista
+  de personagem, não uma quebra de cânone"). É a resposta certa para um catálogo que nunca
+  poderá ser completo.
+- **A convenção `—` = "a obra não informa", repetida em todas as notas da pasta**, e
+  respeitada. E o conselho explícito sobre o que fazer com os traços da coluna Alimento
+  ("se precisar de dietas para todos, invente-as — o padrão é que a comida seja
+  tematicamente ligada ao efeito") é exatamente o tipo de permissão que eu preciso.
+- **"Um Gu = exatamente um efeito, e todo poder complexo vem de combinar vários"**, com
+  teto de dois a três Gu simultâneos: é uma mecânica de construção de personagem inteira
+  em duas linhas, e está no lugar certo (o bloco "Para o design" do catálogo).

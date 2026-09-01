@@ -136,4 +136,3 @@ Consumada a Grande Era, o mundo muda de estado:
 - [[Blessed Lands e Grotto-Heavens]] — os mundos privados que os imortais carregam, independentes da geografia regional.
 - [[Tribunal Celestial]] — a instituição do Continente Central cujo alcance é limitado justamente pelas paredes regionais.
 - [[Visão Geral do Mundo]] — a nota-porta desta pasta.
-</content>

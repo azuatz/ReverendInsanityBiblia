@@ -173,4 +173,3 @@ O que a estrutura faz, camada a camada, importa:
 - [[Cosmologia]] — a fronteira do mundo, perfurada pela obra de Limitless.
 - [[Blessed Lands e Grotto-Heavens]] — as dimensões privadas que Genesis Lotus aprendeu a guardar e que Spectral Soul aprendeu a engolir sem restrição.
 - [[Lendas de Ren Zu]] — a origem mítica das terras sagradas do caminho da alma.
-</content>

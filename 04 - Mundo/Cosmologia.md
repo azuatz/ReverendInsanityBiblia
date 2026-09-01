@@ -142,4 +142,3 @@ Isso explica, retroativamente, um dos fenômenos mais desconcertantes do cenári
 - [[Blessed Lands e Grotto-Heavens]] — os mundos privados, que reproduzem em miniatura toda a estrutura descrita aqui.
 - [[As Cinco Regiões]] — o andar térreo desta cosmologia.
 - [[Lendas de Ren Zu]] — a versão mitológica dos mesmos fatos, que os cultivadores leem como manual técnico.
-</content>

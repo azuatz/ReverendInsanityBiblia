@@ -55,7 +55,7 @@ cada grau.
 | Grau | Capacidade da abertura | Teto de rank esperado |
 |---|---|---|
 | (sem talento) | abaixo de 20% | **Nunca se torna Mestre Gu.** Não existe grau abaixo do D |
-| D | 20–30% | rank 1; no máximo rank 2 |
+| D | 20–39% | rank 1; no máximo rank 2 |
 | C | 40–59% | rank 2 (só na faixa alta); rank 3 é quase inédito |
 | B | 60–79% | rank 3, eventualmente rank 4 |
 | A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
@@ -63,8 +63,9 @@ cada grau.
 
 Três observações práticas que a tabela não mostra sozinha:
 
-- **A faixa 31–39% simplesmente não é descrita pela obra.** Não é um erro desta
-  nota: o texto salta de 30% (topo do D) para 40% (piso do C) sem comentar o vão.
+- **As quatro faixas são bandas regulares de vinte pontos** e particionam inteiramente
+  o intervalo de 20 a 99, sem vãos. Uma passagem da obra descreve o grau D como tendo
+  "vinte a trinta por cento" de essência; isso é o **D típico**, não o limite da banda.
 - **Abaixo de 20% não há grau inferior.** A pessoa não é um "Mestre Gu ruim": ela
   não é Mestre Gu, e permanecerá mortal comum a vida inteira.
 - **A recuperação de essência acompanha o grau.** Um grau C repõe cerca de 4% da
@@ -311,7 +312,7 @@ Três notas de manejo que costumam surpreender:
   usuário rende até **130%** do poder nominal; um Gu de caminho incompatível rende
   apenas **60–70%**, porque as marcas do corpo interferem no efeito.
 - **Terreno hostil:** um caminho comum perde **50–60%** de potência em território
-  saturado por dao marks de caminho conflitante. Um caminho menor perde só **20–30%**
+  saturado por dao marks de caminho conflitante. Um caminho menor perde só **20–39%**
   na mesma situação — a vantagem estrutural de ser pequeno.
 
 ---

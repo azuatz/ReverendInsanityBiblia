@@ -223,3 +223,161 @@ São **duas outras listas**, mencionadas **uma única vez cada, ambas no Volume 
 
 ### "Dual Ten Extreme Physique"
 Conceito criado por Fang Yuan no **Cap. 939 — "Dual Ten Extreme Physique Rank Nine Demon Venerable?"** (V4): usando o método de revival da life-and-death immortal aperture, ele planejava ter **Great Strength True Martial** (via corpo de immortal zombie de Hei Lou Lan) *e* **Desolate Ancient Moon** simultaneamente. Nota do mesmo capítulo: "**If since ancient times, there has not been a ten extreme physique venerable**, did that imply that they would be the strongest even among the rank nine venerables?" — ou seja, **nenhum dos dez Veneráveis teve uma extreme physique**.
+
+---
+
+## 7. Item 49 — Zombie Alliance e Shadow Sect após o sacrifício — ✅ RESOLVIDO (com ressalva estrutural)
+
+### 7.1. O objetivo final do plano de cem mil anos
+
+**Formulação explícita do alvo — Cap. 968, "Ten Extreme Immortal Zombie Lifeless Formation"** (V4), Old Man Yan Shi explicando a Ying Wu Xie:
+
+> "Heaven's will is not a physical enemy, it is everywhere, vast and boundless. **As long as the five regions and nine heavens exist, heaven's will is eternal.** Even if you destroy a portion of heaven's will, at the same time, another portion of heaven's will would be created."
+> "**What we are doing is defying heaven, so heaven's will is our greatest enemy. After a hundred thousand years of preparation, we are going to unleash an explosive strike.** There is a common saying: man proposes, heaven disposes. But right now, we will be taking action all of a sudden, catching heaven's will unprepared, this can be considered to be **man winning against heaven**!"
+
+**O instrumento concreto do plano — Cap. 1041, "Scaring Himself"** (V5):
+> "Fang Yuan could do this because he had the rank nine **sovereign immortal fetus Gu** that Spectral Soul Demon Venerable refined. …**Not only was it the crucial thing needed for Spectral Soul Demon Venerable's revival, it was also his hope of surpassing all of the venerables in history.**"
+> "In the past, after Spectral Soul Demon Venerable died, he was not resigned to that fate. Thus, he built Shadow Sect and planned meticulously… **Spectral Soul Demon Venerable controlled Shadow Sect and set up Zombie Alliance over the five regions, after tens of thousands of years, he accumulated his foundation and researched, putting in immense effort and making huge sacrifices. Eventually, he gathered all his knowledge and made use of the key aspects of it, creating the rank nine sovereign immortal fetus Gu.**"
+
+**Portanto, o objetivo final em cadeia é:**
+1. Refinar o **sovereign immortal fetus Gu** (rank nove) — 100 mil anos de acumulação de Shadow Sect + Zombie Alliance;
+2. Usá-lo para **ressuscitar Spectral Soul** num corpo/abertura perfeitos;
+3. Esse corpo tem **dao marks de todos os paths coexistindo sem conflito** e **potencial ilimitado** (Cap. 1041, Cap. 1075) — a base para **superar todos os Veneráveis da história**;
+4. Com isso, **derrotar a vontade do céu** e alcançar a vida eterna.
+
+**Sobre o sacrifício em si (Cap. 968):** a formação exigia sacrifício de almas dos próprios membros de Shadow Sect — "Next, I and some other Gu Immortals will sacrifice our souls in setting up this formation. With this, the formation can display ninety percent of its might" — e aprisionava **todos os Gu Immortals de Southern Border** próximos como material. Note que a formação chamava-se **ten extreme immortal zombie lifeless formation**: precisava de immortal zombies das **ten extreme physiques** (Cap. 1075, V5: "The Great Strength True Martial immortal zombie was destroyed, the ten extreme immortal zombie lifeless formation was incomplete, it could not refine Gu. Shadow Sect's plan failed").
+
+O plano **fracassa** porque Fang Yuan — usado como ferramenta pela heaven's will, e depois escapando dela como otherworldly demon — toma o sovereign immortal fetus Gu no momento crucial (Cap. 1021, V4).
+
+### 7.2. O que sobrou
+
+**Zombie Alliance: destruída, região por região.**
+- **Southern Border**: exposta e destruída na batalha de Yi Tian Mountain (Cap. 968-1021, V4).
+- **Eastern Sea**: **Cap. 1885** (V5): "Back then, Spectral Soul tried to refine sovereign immortal fetus Gu, he exposed Shadow Sect and Zombie Alliance. Spectral Soul failed, **Eastern Sea's Zombie Alliance was mobilized in the effort and reduced to nothing, it was wiped out by the combined effort of Eastern Sea's righteous path.**"
+- **Western Desert / Eastern Sea (sedes)**: viraram sítios de herança saqueados por imortais das respectivas regiões (V5, cap. ~1390s).
+- **Veredito final (Cap. 1881, "Setting Up Formation", V5):** "**The Zombie Alliance that Shadow Sect created had already been uprooted along with the organization Defy by Fairy Zi Wei.**" — ou seja, tanto Zombie Alliance quanto Defy (a outra frente de Shadow Sect, Cap. 1703 V5: "Defy was similar to Zombie Alliance, it was a branch of Shadow Sect") foram erradicadas, **e por Fairy Zi Wei**, que era membro de Shadow Sect infiltrada.
+
+**Shadow Sect: reduzida a remanescentes dispersos, caçados.**
+- **Cap. 1031** (V5): "After the battle of Yi Tian Mountain, Shadow Sect's plan failed, they faced massive losses, **only a small portion of their forces were left in the five regions.**"
+- No V6 restam apenas indivíduos: **Fairy Zi Wei** (caçada — Cap. 2286: "Star Constellation Immortal Venerable had sent Heavenly Court Gu Immortals to hunt down the remnants of Shadow Sect like Fairy Zi Wei"), **Song Zi Xing** (Cap. 2246), **Yu Mu Chun** e seu discípulo **Ben Duo Yi** (Cap. 2288: "also a member of Shadow Sect. From this aspect, Ben Duo Yi was also a remnant of Shadow Sect"). No Cap. 2271, dois imortais de Shadow Sect morrem apesar de Heavenly Court tentar salvá-los; no Cap. 2273-ish, "**Feng Jiu Ge did not appear after all, he was not Shadow Sect's savior.**"
+
+**O que sobreviveu de fato foi o *patrimônio*, e ele foi para Fang Yuan:**
+- o **sovereign immortal fetus Gu** → a sovereign immortal aperture, base de todo o poder tardio de Fang Yuan;
+- a **true inheritance de Shadow Sect** — Cap. 2128 (V6): "After Fang Yuan inherited Shadow Sect's true inheritance, he had gained the supreme cultivation method of soul path"; inclui a inheritance original de **food path** do mundo e o killer move rank nove baseado em City Well (Cap. ~2133);
+- o **inventário completo** de Zombie Alliance (Cap. 1885, V5).
+
+**Ressalva estrutural (importante):** *Reverend Insanity* está **inacabada** — termina no **Cap. 2334, "Fang Yuan and Giant Sun Fight Star Constellation"**, no meio da batalha final em Heavenly Court, com Spectral Soul revivido controlando o fused heaven. Não há epílogo. Portanto "o que sobrou de Shadow Sect" é o estado no ponto de interrupção, não um desfecho autoral.
+
+---
+
+## 8. Item 25 — "space cave" × "Space Door" × "Door of Life and Death" — ✅ RESOLVIDO
+
+**Veredito: space cave e space door são A MESMA COISA (o domínio e sua porta). Door of Life and Death é um lugar DISTINTO. Os dois estão ligados por uma passagem específica do mito de Ren Zu.**
+
+### 8.1. space cave = space door
+
+**Cap. 434 — "Chang Shan Yin, be my husband!"** (V3), a exposição canônica:
+> "**Space cave** was first depicted in *The Legends of Ren Zu*, it was a **forbidden ground on the same level as the river of time**. In the river of time, there were large numbers of time path Gu worms. Inside the space cave, there were countless space path Gu worms."
+> "It connected the five regions, hidden in a place no one knew. Pushing open a door from inside the space cave, one can reach any place in the world. **The door that connected the space cave was also known as the space door. Space door was omnipresent**, it could be in a narrow crack, or in the wide and boundless sky. **Where there is space, there is a door into space cave.**"
+
+Confirmação direta no V6, **Cap. 2099 — "Wu Yong's Excitement"**, no catálogo dos secluded domains of heaven and earth: "for time path, there was the River of Time, **for space path, there was space cave, also known as space door**. For qi path, there was Xi Land and Hu Land. For rule path, there was Reverse Flow River, Cheng Bai Mountain, and Miniscule Mountain…"
+
+Ou seja: **space cave** é o domínio (o "dentro"); **space door** é a porta que dá nele, e ela é onipresente. Na prática o texto usa os dois nomes como sinônimos.
+
+Corolários narrativos:
+- **Ninguém consegue entrar.** Cap. 434: "from the past until now, very little people could find the space cave… **In the entire human history, only one person had managed to enter and exit it.**"
+- **Thieving Heaven Demon Venerable dedicou a vida a isso** e falhou. Cap. 461 (V3): "Thieving Heaven Demon Venerable wanted to enter the legendary space door all his life, and requested Long Hair Ancestor to refine the Immortal Gu — **Space Escape Gu**… However, although this Gu was refined and Thieving Heaven Demon Venerable could activate it, **it was not able to enter the Space Door no matter what he did.**" (o enigma volta no Cap. 879, V4)
+- **O motivo, revelado no V6, Cap. 2170 — "Thieving Heaven Versus Limitless":** Thieving Heaven era um **otherworldly demon**, e Space Door era sua única esperança de voltar para casa. "**How can I find Space Door? That is my only hope of returning home!**" / "But now, I am already a venerable! And yet, I cannot find Space Door! Where is Space Door?" / "Sometimes, I will dream of Space Door, I dreamed that I found Space Door but realized it was completely useless… I am afraid that I cannot find Space Door, I am afraid that the truth behind it will send me into utter despair."
+- **O único uso prático que a obra dá ao space cave** é o **moving perspective cup Gu**, criado por Thieving Heaven: dois cálices que trocam de lugar *dentro* do space cave, transportando objetos e **atravessando as regional walls** (Cap. 434 e Cap. 1031, V5).
+
+### 8.2. Door of Life and Death — lugar distinto
+
+**Cap. 384 — "Scheming Ghost Doctor, Secret Door of Life and Death"** (V2):
+> "This door of life and death was a big deal, it was recorded in *Legends of Ren Zu*, **a secret forbidden land in ancient times. It was similar to the river of time and ordinary abyss.**"
+> "Legend says that **behind the door of life and death holds the secrets of life and death, if a person can comprehend it completely, they would be able to control life and death itself.**"
+> "The door of life and death is a forbidden ground not inferior to the river of time, **there is an extremely wide area inside, reflecting the five regions of the main world.** Legend says that there are many unique and natural Gu worms inside, like **life Gu, and death Gu**."
+
+Sua topologia própria (Cap. 410, "Dang Hun Mountain's Gutstone", V3, no mito de Ren Zu):
+- entra-se pela **road of death** e sai-se pela **road of life** (as duas são chamadas *path of destiny*, deixadas por fate Gu ao visitar/deixar fairness Gu);
+- dentro está **fairness Gu**, em corpo gigantesco: "**Life and death are the greatest fairness in this world, when I am inside the door of life and death, my body will become enormous.**";
+- é para onde vão as almas dos mortos. **Cap. ~1001** (V4): "Road of life, road of death and Obsession Death Domain which held fairness Immortal Gu. In the legends, after Verdant Great Sun died, his soul returned to the door of life and death, **rank nine venerables along with all the living beings in the world had such an outcome in the end.**"
+- **Shadow Sect a possui**: Cap. 384 (V2), Chou Jiu: "The great ancestor who created Shadow Sect was a rank eight Gu Immortal of the Immemorial Era. **He was the one who found the door of life and death, and placed it into his blessed land.**"
+
+### 8.3. O elo entre os dois
+
+Há **uma** passagem que os relaciona, e ela é do mito de Ren Zu — **Cap. 435, "Don't block my road to success!"** (V3), sobre Desolate Ancient Moon tentando salvar o pai:
+
+> "The first method was to **enter space cave, then open the space door to directly move to Ren Zu's side. She could then use the space cave to escape life and death door.** However, this method could only rescue Ren Zu's soul and could not resurrect him."
+> "Desolate Ancient Moon already knew of space cave's existence, but **she had no idea how to find the space cave.**"
+
+**Conclusão precisa:** são **dois secluded domains distintos** — space cave é o domínio do space path, door of life and death é o domínio ligado a vida/morte/alma (e a fairness Gu). A relação entre eles é **funcional, não identitária**: como o space door é onipresente, em tese ele seria um atalho para entrar e sair da door of life and death — mas isso permanece um método *hipotético* dentro do mito, nunca executado (Desolate Ancient Moon não conseguiu achar o space cave e teve de usar outro caminho, Cheng Bai Mountain).
+
+Nota adicional: no Cap. 1021 (V4) o **método de revival da life-and-death immortal aperture** — a técnica central de Fang Yuan a partir daí — vem do estudo desse domínio, não do space cave.
+
+---
+
+## 9. Item 32 — "Top Ten Catastrophes" — ⚠️ PARCIAL (a obra nomeia 5 das 10)
+
+**O que são:** as dez tribulações/calamidades mais temidas do mundo — o topo da escala de heavenly tribulation / earthly calamity que todo Gu Immortal enfrenta. São **reconhecidas publicamente** ("one of the publicly recognised top ten catastrophes", Cap. 623, V3) e **ranqueadas entre si** (Cap. 627: "Chaotic branching teeth was also one of the top ten catastrophes, **ranked higher than even the snow war tribulation lightning**, and had greater might").
+
+Nomenclatura no texto: "top ten catastrophes", "ten great catastrophes", "ten catastrophes" — todas a mesma coisa.
+
+### As 5 nomeadas
+
+| Catástrofe | Descrição no texto | Cap. |
+|---|---|---|
+| **Snow war tribulation lightning** | Raio em forma de tridente. Nasce da fusão de nevasca decenal + chaotic lightning balls + restraining smoke. "This lightning bolt was extraordinary, it had the appearance of a trident and had great power" | Cap. 623, 626, 627 (V3) |
+| **Chaotic branching teeth** | Dezoito espirais negras, cada uma gerando um dente de fera branco como neve, com mais de 30 m. Ranqueada **acima** do snow war tribulation lightning | Cap. 627 (V3) — o título do capítulo é "**Top Ten Catastrophes, Chaotic Branching Teeth**" |
+| **Eight layer enchanting noise tribulation** | "when all eight noises are emitted, it would have a range of eight hundred and eighty li, heaven and earth would shake and immortals would be exterminated!" | Cap. 684 (V4) |
+| **Rule eye tribulation** | "only by piercing the rule eye can one obtain this blood" (o sangue é material imortal leiloado) | Cap. 752 (V4) |
+| **Dark flying frost** | "Endless ice and snow circled around like sharp blades before pouring down like a storm" | Cap. 967 (V4) |
+
+❌ **As outras 5 nunca são nomeadas.** Busquei todas as ocorrências de "catastroph" nos 6 volumes (o termo praticamente desaparece a partir do V5, onde só é usado como régua de comparação). Não há lista enumerada em nenhum ponto da obra.
+
+### Uso narrativo (útil como referência de escala)
+As "dez grandes catástrofes" funcionam principalmente como **unidade de medida** para o quão anômalas são as tribulações de Fang Yuan:
+- Cap. 1056 (V5), como piso: "This is only the **flying frost jumping lightning tribulation**, it is **not** even one of the ten great catastrophes." (útil: é uma tribulação nomeada que explicitamente **não** está na lista)
+- Cap. 1046-ish (V5): "this earthly calamity… was **far stronger than the ten great catastrophes**!"
+- Cap. 1060-ish (V5): "it was so terrifying that it **far surpassed the ten great catastrophes**."
+- Cap. 1000-ish (V4): "This tribulation had **surpassed the levels of the ten great catastrophes**; catastrophes like the snow war tribulation lightning were still within the limits of a heavenly tribulation."
+
+---
+
+## 10. Item 46 — Dream realms nascem só de vítimas presas? — ✅ RESOLVIDO: NÃO
+
+**Veredito: qualquer sonho gera dream realm. Toda pessoa tem o seu próprio.** A ideia de que nascem de vítimas aprisionadas é um caso particular (o método artificial da Shadow Sect), não a regra.
+
+### 10.1. A natureza de um dream realm
+
+**Cap. 1055 — "Fang Yuan Undergoes Tribulation (3/5)"** (V5):
+> "In fact, **dream realms themselves are the manifestations of emotions, obsessions and desires, they are the remains of countless wills.** Once one succeeds in exploring a dream realm, their attainment level would rise… without losing oneself, one could **extract true meaning from these scattered memories** and gain a growth in attainment level. **Everything, in essence, is still true meaning infusion!**"
+
+### 10.2. A classificação canônica — TRÊS fontes, nenhuma delas "vítima presa"
+
+**Cap. 2302 — "Contest of the Three Venerables Again"** (V6), Feng Jin Huang (a maior autoridade em dream path do mundo) respondendo a Star Constellation Immortal Venerable:
+> "the present dream realms can be **divided into three types according to their sources. They are human path, beasts and plants, as well as heaven path dream realms.**"
+> "**The source of human path dream realms are the humans or variant humans, these are their dreams.** The source of beast and plant dream realms are **those beasts and plants that once existed or are still living now**. As for heaven path dream realms, **the source is heaven and earth itself.**"
+
+E Star Constellation confirma: "Feng Jin Huang's opinion about heaven path and human path dream realms **verified Star Constellation Immortal Venerable's own ideas.**"
+
+Nota do tradutor no **Cap. 2312** (V6), sobre a mudança de terminologia: "When Fang Yuan explored **human path dream realms** [*The new theory of Feng Jin Huang: it can be of any path as long as it is a human dream.*]" — ou seja, "human path dream realm" não significa dream realm do human path, significa **dream realm cuja fonte é um sonho humano**, seja qual for o path do conteúdo.
+
+### 10.3. Prova direta: sonhos comuns, do próprio cultivador
+
+O texto usa isso rotineiramente como **rotina de farm de recursos**:
+- **Cap. ~1150s** (V5, l.41569): "To get dream path Gu materials, **one's own dream realm was the best and safest option.**"
+- Fang Yuan entra repetidamente **no próprio dream realm** para colher materiais e refinar mortal Gu de dream path (V5, l.33879, 40328, 42302, 42380).
+- **Cap. 1619 — "I Do Not Believe!"** (V5): "Feng Jin Huang's **dream pillow Gu** seemed ordinary but because it was a **mortal Gu**, it could be used by most Gu Masters. As long as this Gu was mass-produced, **Central Continent's Gu Masters could easily enter their own dream realms** and extract dream path Gu materials from them."
+- Fang Yuan põe **hairy men** a fazer o mesmo em escala industrial (V5, l.112785).
+- **Cap. 1585** (V5): "these materials could be harvested in **their own dreams** too. **The true value of dream realms was the true meaning left behind by *others***" — a distinção correta não é *sonho comum vs. vítima*, mas **sonho próprio (só dá materiais) vs. sonho alheio (dá true meaning)**.
+
+### 10.4. Então o que é o fenômeno da grande era?
+
+Não é o *nascimento* dos dream realms, é a **manifestação externa** deles no mundo físico. Termo do texto: "externally manifested dream realms" (V5, l.70738).
+> **Cap. ~1200s** (V5, l.100011): "Why was the five regions chaotic war an unprecedentedly magnificent era? The fundamental reason was **the dream realms appearing everywhere in the world**, many who explored these dream realms successfully obtained **the true meaning contained inside**, raising their attainment levels."
+
+### 10.5. O caso particular que gerou a confusão
+
+Existe **um** método que fabrica dream realms a partir de corpos/almas: a **pure dream reality seeker transformation** de Purple Mountain True Monarch / Shadow Sect. Um corpo Pure Dream Reality Seeker Physique tem prazo de validade e, quando ele expira ou é morto, **auto-detona virando um dream realm** (Cap. 1419 V5; V5 l.65140, 69862, 68841). Foi assim que se formaram os grandes campos de dream realms de Southern Border explorados no V5. **Mas isso é engenharia dream path, não a origem natural dos dream realms.**
+
+Curiosidade correlata (**Cap. 2320**, V6): "*The Legends of Ren Zu* stated that **dream realms are restrained by fire Gu**, looks like it is true."

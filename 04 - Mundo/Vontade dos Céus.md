@@ -139,4 +139,3 @@ Dois exemplos que mostram a Heavenly Dao operando como física, não como person
 - [[Cosmologia]] — a estrutura física dentro da qual a lei opera.
 - [[Visão Geral dos Veneráveis]] — romper o bloqueio desta lei é uma das quatro condições para chegar ao topo do mundo.
 - [[Blessed Lands e Grotto-Heavens]] — os mundos privados, que são simultaneamente esconderijo contra o céu e brecha por onde ele entra.
-</content>

@@ -228,4 +228,3 @@ Uma regra econômica associada, e cínica: **comprar escravos para trabalho for�
 - [[Tribunal Celestial]] — a instituição formada pela fusão de milhares dessas dimensões numa só.
 - [[As Cinco Regiões]] — o mundo grande, do qual essas dimensões são independentes.
 - [[Visão Geral do Mundo]] — a nota-porta desta pasta.
-</content>

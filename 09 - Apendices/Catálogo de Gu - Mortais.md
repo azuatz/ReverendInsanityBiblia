@@ -27,27 +27,58 @@ Cada seção é um **caminho** (*path*): a escola de cultivo à qual o Gu perten
 praticante em geral se especializa em um ou dois caminhos e monta seu conjunto de Gu
 dentro deles.
 
-As colunas são sempre as mesmas:
+A obra descreve os Gu mortais sempre pelas mesmas três aptidões, e este catálogo
+adota exatamente essas três como colunas. Elas são independentes entre si: existe Gu
+fácil de sustentar e horrível de refinar, e Gu trivial de refinar que consome metade
+da energia do dono a cada disparo. É isso que faz do sistema um problema de escolha, e
+não uma escada de poder.
 
 - **Gu** — o nome em inglês, que é a forma canônica. Traduzir nomes de Gu não é
   prática deste projeto: eles funcionam como nomes próprios.
 - **Rank** — de 1 a 5. Um praticante só usa Gu de rank **igual ou inferior** ao seu.
 - **Efeito** — uma linha, o suficiente para saber se o Gu serve ao que você precisa.
-- **Alimento** — o que a criatura come. Todo Gu precisa ser alimentado continuamente,
-  e a dieta é específica de cada espécie. Um Gu com fome perde o brilho; forçado a
-  agir faminto, pode morrer.
+- 🍖 **Alimentação** — o que a criatura come e quão fácil é sustentá-la. Todo Gu
+  precisa ser alimentado continuamente, e a dieta é específica de cada espécie. Um Gu
+  com fome perde o brilho; faminto por muito tempo, regride de rank ou morre.
+- ⚡ **Uso** — quanto custa acionar o Gu: energia gasta, tempo de recarga, atenção
+  mental exigida, limites de duração.
+- 🔨 **Refino** — quão difícil é obter aquele Gu: se é comprado pronto, refinado de
+  um exemplar selvagem, ou fundido a partir de outros; materiais notáveis; risco.
+- ⬆️ **Vantagem** — o que aquele Gu faz melhor do que os concorrentes do mesmo rank.
+- ⬇️ **Desvantagem** — o preço que ele cobra. Todo Gu mortal tem um.
 
-E as convenções:
+### Como ler o preenchimento (três estados)
 
-- **`—` significa "a obra não informa"**, jamais "nenhum" ou "irrelevante". Nada foi
-  preenchido por dedução.
-- **A coluna Alimento tem muitos traços.** Isso é fiel à obra: ela detalha a dieta
-  quando a cena precisa disso, e a omite no resto. Se você precisar de dietas para
-  todos, invente-as — o padrão do mundo é que a comida seja tematicamente ligada ao
-  efeito (Gu de força come carne, Gu lunar come pétalas de orquídea-lua).
-- Nos primeiros volumes da obra o **vocabulário formal de caminhos ainda não existia**.
-  Nesses casos, os Gu foram agrupados pela família funcional que o próprio texto lhes
-  atribui. Nenhum caminho foi atribuído por palpite.
+Cada campo deste catálogo está num de três estados, e a diferença entre eles importa
+mais do que o conteúdo:
+
+1. **Texto normal** — a obra afirma isso. É canônico e você pode construir em cima.
+2. **Texto seguido de `(ded.)`** — a obra não afirma com essas palavras, mas o efeito
+   descrito, a forma de uso ou uma regra geral do mundo tornam a conclusão segura.
+   É **leitura nossa**, não texto: um Gu do caminho do sangue que se alimenta de
+   sangue fresco chama atenção social porque a obra estabelece isso para o caminho
+   inteiro, não porque disse a frase sobre aquele Gu específico. Trate como sugestão
+   fundamentada, e sinta-se livre para descartar.
+3. **`—`** — não há base nenhuma. Nunca significa "nenhum", "barato" ou
+   "irrelevante": significa silêncio da obra.
+
+Espere muitos traços. Isso é fiel à fonte: ela detalha dieta, custo e receita quando a
+cena precisa disso, e omite tudo no resto — a maioria dos Gu é citada de passagem, no
+meio de uma luta ou de uma lista de estoque. Um punhado de Gu tem ficha completa; a
+maioria tem só efeito e rank. Se você precisar preencher as lacunas para jogar,
+invente — mas saiba que está inventando.
+
+> [!warning] A desvantagem quase sempre mora no uso
+> Ao procurar o preço de um Gu, olhe primeiro a coluna ⚡ Uso. É lá que a obra costuma
+> escondê-lo: Gu que precisam ser acionados continuamente por semanas, que doem, que
+> exigem imobilidade, que consomem atenção mental, que dependem de uma condição
+> externa (luz da lua, água por perto, estrelas visíveis) ou que deixam um rastro
+> visível e denunciam o usuário. Um Gu sem desvantagem listada normalmente é um Gu
+> sobre o qual a obra foi breve, não um Gu sem preço.
+
+Uma última observação: nos primeiros volumes da obra o **vocabulário formal de
+caminhos ainda não existia**. Nesses casos, os Gu foram agrupados pela família
+funcional que o próprio texto lhes atribui. Nenhum caminho foi atribuído por palpite.
 
 > [!note] Para o design
 > A estrutura mais reaproveitável não está em nenhum Gu individual: é a de que **um Gu
@@ -55,6 +86,13 @@ E as convenções:
 > transforma o "livro de magias" num sistema de peças encaixáveis, com custo de
 > manutenção contínuo (a comida) e teto de uso simultâneo (a mente humana aguenta dois
 > Gu ao mesmo tempo com folga, três no limite da elite).
+
+> [!note] Para o design
+> As três aptidões formam um triângulo de trade-off pronto para virar mecânica.
+> Um praticante comum sustenta de quatro a cinco Gu do próprio rank — o gargalo é
+> **alimentação somada a custo de ativação**, não o número de "slots". Um Gu barato de
+> comida mas caro de acionar e um Gu caro de comida mas passivo ocupam orçamentos
+> diferentes, e é essa diferença que define quem monta que conjunto.
 
 ---
 
@@ -66,33 +104,41 @@ animal" ao longo de anos. A moeda de conta são o *jin* (~600 g de força) e o *
 (30 jin). Repare no padrão: quanto mais permanente o ganho, mais lento e doloroso o
 processo.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Flower Boar Gu | 1 | Força de javali por dez respirações; barato e eficiente | — |
-| Black Boar Gu | 1 | Força física permanente e cumulativa; persiste após a morte do Gu | carne |
-| White Boar Gu | 1 | Igual ao anterior; teto de quinze minutos por dia | carne de porco |
-| Brute Force Longhorn Beetle Gu | 1 | Força de touro por cinco respirações; risco de lesão muscular | — |
-| Yellow Camel Longhorn Beetle Gu | 1 | Resistência por quinze minutos, sem efeito colateral | — |
-| Jin Strength Gu | 1 | Soma um jin de força; acumulação linear | — |
-| Strength of Ten Jin Gu | 2 | Soma dez jin de força | — |
-| Crocodile Strength Gu | 2 | Força permanente de crocodilo; especialidade em mordida | carne de crocodilo |
-| Jun Strength Gu | 3 | Soma um jun (trinta jin) de força | — |
-| Galloping Horse Strength Gu | 3 | Força e velocidade de cavalo; adaptação leva meses | — |
-| Self-reliance Gu | 3 | Cura proporcional à própria força física; só cura a si mesmo | — |
-| Store Strength Gu | 3 | Acumula força ao longo do combate; exige ficar imóvel | — |
-| All-out Effort Gu | 3 | Invoca fantasma de fera que replica o golpe, amplificado | — |
-| Strength Qi Gu | 3 | Solidifica todos os fantasmas de força para atacarem sozinhos | — |
-| Strength of Ten Jun Gu | 4 | Soma dez jun (trezentos jin); grava marcas no corpo | — |
-| Habitual Strength Gu | 4 | Acumula força durante o combate, sem precisar ficar parado | — |
-| Bitter Strength Gu | 4 | Quanto mais ferido o usuário, mais forte ele fica | — |
-| Dragon-elephant Huge Strength Gu | 4 | Fantasma de dragão-elefante; vale por vários fantasmas comuns | — |
-| Berserk Gu | 4 | Dobra força, velocidade e agilidade por tempo limitado | — |
-| Brave Fight Gu | 4 | Ignora dor e dobra a força; termina de forma abrupta | — |
-| Expend Strength Gu | — | Dobra o gasto de estamina dos inimigos ao se moverem | — |
-| Earth Overlord Gu | 5 | Absorve força ilimitada da terra, amplificando outros Gu de força | — |
-| Borrow Strength Gu | 5 | Toma força emprestada dos elementos naturais | — |
-| Do or Die Gu | 5 | Essência instantânea ao custo permanente de um estágio de cultivo | — |
-| Pulling Water Gu | — | Puxa e remove volumes enormes de água à distância | — |
+Esta é a tabela mais completa do catálogo, porque é a família que a obra mais
+detalha. Leia-a de cima para baixo procurando o padrão: os Gu de rank 1 dão força
+**temporária e barata**, os de rank 2-3 dão força **permanente e lenta**, e os de rank
+4-5 dão força **condicional** — só rendem se o usuário aceitar uma condição (estar
+ferido, ficar imóvel, sacrificar cultivo). Quase nenhum deles é caro de alimentar; o
+preço do caminho da força está quase todo no uso e no corpo.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Flower Boar Gu | 1 | Força de javali por dez respirações | — | Barato de acionar; cada disparo dura dez respirações | — | A melhor relação custo-benefício entre os Gu de força de rank 1 | A duração dá para um golpe, não para uma luta (ded.) |
+| Pink Boar Gu | 1 | Apenas engorda o usuário | — | — | — | — | Não tem valor de cultivo nenhum: é a peça inútil da família |
+| Black Boar Gu | 1 | Força física permanente e cumulativa; persiste após a morte do Gu | carne (ded.) | Uso repetido ao longo do tempo para acumular (ded.) | Comprado pronto por cerca de 600 pedras primevas | O ganho é permanente e sobrevive ao próprio Gu — investimento que não se perde | O ganho vem devagar; empilha com o White Boar, mas exige sustentar os dois |
+| White Boar Gu | 1 | Igual ao anterior; teto na força de um javali adulto | carne de porco: cerca de um porco adulto a cada cinco dias — pesado numa região de montanha, onde carne é cara | No máximo quinze minutos por dia; além disso a dor cresce e há risco de morte | — | Ganho permanente, e acumula com o Black Boar | Teto baixo, duas cópias não somam, e a dieta de carne é o maior custo fixo de um iniciante |
+| Brute Force Longhorn Beetle Gu | 1 | Força de touro por cinco respirações | — | Caro: 10 a 20% da essência por acionamento | — | O pico de força mais alto disponível no rank 1 | Risco de lesão muscular a cada uso, e o custo proíbe repetir |
+| Yellow Camel Longhorn Beetle Gu | 1 | Resistência por quinze minutos | — | — | Considerado item valioso no mercado | Quinze minutos de fôlego **sem nenhum efeito colateral** — raridade no rank | Dá aguento, não potência: sozinho não decide um confronto (ded.) |
+| Jin Strength Gu | 1 | Soma um jin (~600 g) de força | — | — | — | Acumulação linear e previsível; a base do sistema moderno de força | Progresso miúdo: escalar exige dezenas de aplicações (ded.) |
+| Strength of Ten Jin Gu | 2 | Soma dez jin de força | — | — | — | Mesmo sistema, dez vezes mais denso | — |
+| Crocodile Strength Gu | 2 | Força permanente de crocodilo, com especialidade em mordida e em combate aquático | carne de crocodilo | Precisa ser acionado repetidamente por cerca de um mês até a transformação completar | — | Força permanente com uma especialidade definida em vez de um bônus genérico | A especialidade é fixa, e a dieta amarra o dono a uma região com crocodilos (ded.) |
+| Jun Strength Gu | 3 | Soma um jun (trinta jin) de força | — | — | — | O degrau intermediário da série, ainda sem efeito colateral registrado | — |
+| Galloping Horse Strength Gu | 3 | Força e velocidade de cavalo: trinta por cento a mais em investidas | — | O corpo leva de dois a três meses para se adaptar | — | Soma velocidade à força, coisa rara na família | Meses de espera antes de render qualquer coisa |
+| Self-reliance Gu | 3 | Cura proporcional à própria força física | — | — | Cerca de 45.000 pedras primevas | Num usuário de força no pico, entrega cura de nível rank 4 pagando preço de rank 3 | Só cura o próprio usuário, e é praticamente inútil para quem não investiu em força |
+| Store Strength Gu | 3 | Acumula força ao longo do combate e a libera em picos | — | Exige que o usuário fique **imóvel** enquanto acumula | — | Converte tempo em potência de pico | Ficar parado no meio de uma luta entrega a iniciativa ao inimigo (ded.) |
+| All-out Effort Gu | 3 | Invoca um fantasma de fera que replica o movimento do usuário, amplificado | — | **Não consome essência** com os fantasmas inatos do usuário; um fantasma por vez | Gu antigo, quase extinto — não é item de prateleira. Pode ser elevado a rank 4 com o Undefeated Hundred Battles Gu | Funciona cem por cento das vezes e não cobra essência — combinação quase única no sistema | Um fantasma de cada vez, e num rank 3 qual fantasma aparece depende de sorte |
+| Strength Qi Gu | 3 | Solidifica todos os fantasmas de força de uma vez, para atacarem sozinhos | — | Cinco por cento da essência por fantasma invocado | Gu ancestral extinto, do caminho do qi | Multiplica um usuário em vários atacantes, e cada fantasma destruído volta a ser qi reaproveitável | O custo escala com o número de fantasmas: uma invocação cheia esvazia a abertura |
+| Strength of Ten Jun Gu | 4 | Soma dez jun (trezentos jin) de força | — | — | — | O maior salto de força por aplicação da série moderna | Grava marcas de lei no corpo; na prática o ganho trava por volta do terceiro uso |
+| Habitual Strength Gu | 4 | Acumula força durante o combate sem exigir imobilidade | — | — | — | A mesma acumulação do Store Strength, com liberdade de movimento | — |
+| Bitter Strength Gu | 4 | Quanto mais ferido o usuário, mais forte ele fica | — | Demanda baixa de essência — um rank 3 consegue acioná-lo | Raro, com taxa de fusão baixa; cerca de 380.000 pedras | Converte o dano recebido em poder, e é barato de manter aceso para o rank | Só rende depois de apanhar: exige entrar em combate disposto a se ferir |
+| Dragon-elephant Huge Strength Gu | 4 | Fantasma de dragão-elefante, mais denso que os comuns | — | — | — | Um fantasma vale por dois comuns; três valem por oito | — |
+| Berserk Gu | 4 | Dobra força, velocidade e agilidade por tempo limitado | — | — | Exemplar **selvagem**: é capturado e domado, não comprado | Triplo bônus num único Gu | A duração é limitada, e o fim do efeito deixa o usuário exposto (ded.) |
+| Brave Fight Gu | 4 | Ignora a dor e dobra a força | — | — | — | Remove a dor, que é o limitador de metade dos Gu de reforço corporal | Termina de forma abrupta, sem aviso |
+| Expend Strength Gu | — | Dobra o gasto de estamina dos inimigos ao se moverem | — | — | — | Efeito de área que não depende de acertar ninguém | Forte contragolpe contra quem **cede** o Gu a outra pessoa |
+| Earth Overlord Gu | 5 | Absorve força ilimitada da terra, amplificando continuamente outros Gu de força | — | — | — | Fonte de força sem teto declarado | Depende de contato com a terra para funcionar (ded.) |
+| Borrow Strength Gu | 5 | Toma força emprestada dos elementos naturais | — | — | Os Gu-pares (céu, terra, fogo, água) estão quase extintos | Escala com o ambiente em vez de com o corpo do usuário | Sem os pares, entrega só uma fração do que poderia |
+| Do or Die Gu | 5 | Recarrega a essência instantaneamente | — | — | — | Devolve a essência na hora, sem depender de pedras nem de descanso | Custa **um estágio de cultivo, permanentemente**, a cada uso |
+| Pulling Water Gu | mortal | Puxa e remove volumes enormes de água à distância | — | — | A receita só é dedutível por um grão-mestre do **caminho da água** — um especialista em força não chega nela | Alcança um efeito de escala geográfica ainda no nível mortal | Exige um perfil de conhecimento que o usuário típico do caminho não tem |
 
 ---
 
@@ -104,37 +150,54 @@ marcas de lei no corpo**, e essas marcas conflitam com Gu de cura, de luz e de
 espaço. Builds físicas precisam ser planejadas cedo, porque são quase todas
 irreversíveis.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Beast Skin Gu | 1 | Defesa básica por endurecimento; o mais comum da série | — |
-| Iron / Bronze / Stone Skin Gu | 1 | Variações do anterior, com tonalidades diferentes | — |
-| Jade Skin Gu | 1 | Camada de luz jade que absorve impactos; aguenta muitos atacantes | jade |
-| Green Silk Gu | 1 | Capa impermeável de cabelo; sem custo contínuo | — |
-| White Jade Gu | 2 | Fusão que amplifica muito a defesa de jade | jade |
-| Black Mane Gu | 2 | Armadura de pelos que brota de todos os poros | — |
-| Water Shield Gu | 2 | Esfera de água rotativa; falha se não houver espaço | — |
-| Carapace Gu | 2 | Escama defensiva nas costas, tirada de crocodilo-rei | — |
-| Canopy Gu | 3 | Camada de luz branca; enfraquece após impactos fortes | — |
-| Steel Mane Gu | 3 | Endurece o cabelo; serve de ataque e de defesa | — |
-| Heavenly Mugwort Gu | 3 | Corpo duro como jade branco; reduz dano cortante | — |
-| Ice Muscle Gu | 3 | Músculos de gelo transparente; defesa passiva sem custo | — |
-| Sky Canopy Gu | 3 | Defesa que também bloqueia contato com contaminações | — |
-| Golden Shield Gu | 3 | Armadura de luz dourada; incompatível com outras camadas | — |
-| Iron Bone Gu | 3 | Ossos permanentemente duros como ferro; dor extrema | — |
-| Bone Spike Gu | 3 | Espinhos ósseos que ferem o próprio usuário antes do inimigo | — |
-| Ribcage Shield Gu | 3 | Costelas externas como escudo; sem custo contínuo | — |
-| Thunder Shield Gu | 3 | Escudo semicircular de raio | — |
-| Ancient Bronze Skin Gu | 4 | Pele de bronze antigo, muito superior às versões comuns | — |
-| Golden Bell Shield Gu | 4 | Versão de rank alto da armadura de luz dourada | — |
-| Ivory Armor Gu | 4 | Cresce e se regenera ao longo da batalha; quebra se o corpo mudar | — |
-| Hard Qi Gu | 4 | Nuvem de ar amorfa, dura como rocha e disfarçada de indefesa | — |
-| Essence Iron Bone Gu | 4 | Esqueleto várias vezes mais firme que o Iron Bone | — |
-| Bone Wings Gu | 4 | Asas ósseas nas costas; voo exige anos de treino | — |
-| Water Curtain Skyflower Gu | 4 | Esfera que sela por dentro e por fora; nem o dono sai | — |
-| Liquid Metal Gu | 5 | Defesa líquida regenerativa, quase impenetrável | — |
-| Blood Curtain Skyflower Gu | 5 | Versão em que o criador pode sair, mas não voltar | — |
-| Turtle Jade Wolf Skin Gu | 5 | Defesa automática sem custo de essência | um lobo-imperador vivo |
-| Life-preserving Jade Burial Gu | 5 | Animação suspensa em caixão de jade; adia a morte, não cura | — |
+Ao ler esta tabela, separe mentalmente duas famílias que parecem a mesma coisa. As
+**camadas** (peles, escudos, luz) são ativadas, custam essência e podem ser removidas.
+Os **reforços internos** (osso, tendão, músculo) são permanentes, e é neles que mora
+a armadilha: o custo aparece na coluna de uso, na forma de dor e de semanas de
+aplicação contínua, e a marca que deixam no corpo atrapalha cura e caminhos rivais
+para sempre. O Iron Bone Gu se aplica uma vez e acabou; o Steel Tendon Gu precisa
+ser mantido aceso por meio ano de dor — e é essa diferença, e não o rank, que decide
+qual dos dois um personagem consegue de fato usar.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Beast Skin Gu | 1 | Defesa básica por endurecimento da pele | — | — | O mais comum da série, e o que tem mais rotas de fusão | Barato, disponível em qualquer lugar, e a melhor porta de entrada para fusões defensivas | Defesa mínima: perde valor assim que o dono sobe de rank (ded.) |
+| Iron / Bronze / Stone Skin Gu | 1 | Variações do anterior, com tonalidades diferentes | — | — | — | Intercambiáveis: quem não achar um acha outro | Mesmo teto baixo da série (ded.) |
+| Rock Skin Gu | — | Pele de pedra espessa nos braços, resistente a corte | — | — | — | Resistência a corte concentrada onde se apara um golpe | **Penaliza a velocidade** do usuário |
+| Jade Skin Gu | 1 | Camada de luz jade que absorve impactos | pedra de jade: dois liang a cada dez dias — a fonte de jade é um problema logístico à parte, resolvível com pérolas de macaco-de-pedra-olho-de-jade | — | O mais raro da série "Skin" | Aguenta cerca de dezesseis atacantes simultâneos, e é a base da melhor rota de fusão defensiva do clã | Quebra sob força bruta suficiente, e a dieta de jade exige uma fonte estável de mineral |
+| Green Silk Gu | 1 | Capa impermeável feita de cem mil fios de cabelo de cinco a seis metros | — | Trinta por cento da essência para acionar, mas **sem custo contínuo** depois | — | Paga uma vez e cobre o resto da cena | O preço de entrada é alto para um rank 1: quase um terço da abertura de uma vez |
+| White Jade Gu | 2 | Fusão que amplifica muito a defesa de jade | jade: oito liang a cada vinte dias | — | Fusão de White Boar + Jade Skin; uma presa de javali-rei como catalisador eleva a taxa de sucesso em vinte por cento | Aguenta mais de trinta atacantes simultâneos | A fusão **descarta a força** do White Boar: sobra só a defesa. E a conta de jade dobra |
+| Black Mane Gu | 2 | Armadura de pelos que brota de todos os poros | — | — | Fusão de Green Silk + Black Boar | Cobertura total do corpo, sem pontos cegos | — |
+| Water Shield Gu | 2 | Esfera de água rotativa que dispersa o impacto | — | — | — | Dispersa em vez de aparar: não trinca com golpes fortes | **Falha se não houver espaço** — encostar numa parede anula o Gu |
+| Carapace Gu | 2 | Escama defensiva nas costas | — | — | Tirada de um crocodilo-rei | Protege as costas, que quase nenhum outro Gu cobre | Cobre só as costas (ded.) |
+| Iron Thorn Thistle Gu | 3 | Veste de espinhos: defesa somada a arma contra quem ataca desarmado | — | — | — | Duas funções num Gu só, o que é raro no sistema | — |
+| Canopy Gu | 3 | Camada de luz branca sobre o corpo | — | — | — | Cobertura imediata de corpo inteiro | Rígida: enfraquece a cada impacto forte, e **não pode ser usada junto com o Golden Shield** |
+| Steel Mane Gu | 3 | Endurece o cabelo, servindo de ataque e de defesa | — | — | Evolução do Black Mane | Ofensa e defesa no mesmo Gu | — |
+| Heavenly Mugwort Gu | 3 | Corpo duro como jade branco; reduz dano cortante | — | — | Evolução do White Jade | Especializado contra lâminas, o tipo de dano mais comum | — |
+| Ice Muscle Gu | 3 | Músculos de gelo transparente | — | Defesa **passiva**, sem custo contínuo | — | Protege sem exigir atenção nem essência, e ainda torna o usuário imune ao frio do próprio Frost Demon Gu | — |
+| Sky Canopy Gu | 3 | Joaninha de defesa que também bloqueia contato com contaminações | — | — | Fusão de White Jade com um Gu de defesa aquática | Única defesa registrada que serve contra contaminação, não só contra golpes | — |
+| Golden Shield Gu | 3 | Armadura de luz dourada | — | — | — | Cobertura de luz robusta e de acionamento imediato | Incompatível com o Canopy Gu — as camadas se anulam |
+| Iron Bone Gu | 3 | Ossos pretos permanentemente duros como ferro | — | **Uso único**, e exige essência de alta qualidade; a dor "perfura a alma" | — | Reforço permanente aplicado de uma vez só, sem manutenção | Dor extrema no momento da aplicação, e é irreversível |
+| Jade Bone Gu | — | Esqueleto de qualidade jade: duro e ainda flexível | — | Uso único; dor intensa na ativação | — | Une dureza e flexibilidade, o que os reforços de ferro não fazem | Dor intensa, e irreversível como todo reforço ósseo (ded.) |
+| Steel Tendon Gu | — | Converte os tendões do usuário em tendões de aço | — | **Precisa ser mantido em uso contínuo por cerca de meio ano** até a conversão completar; a dor é tão intensa que pode matar quem não tiver firmeza mental | — | Reforço de tendão permanente, que multiplica o rendimento de qualquer Gu de força | O custo é de uso, não de compra: meio ano de dor contínua. E deixa no corpo uma camada de lei da força que **atrapalha toda cura futura** |
+| Golden Steel Tendon Gu | — | Versão dourada e superior do anterior | — | — | — | Supera o Steel Tendon em todos os aspectos | — |
+| Bone Spike Gu | 3 | Espinhos ósseos que brotam através da própria carne | — | — | — | Fere qualquer um que encoste no usuário, sem precisar de ação | O dano espelhado é quase equivalente: para ferir o inimigo, o usuário se fere primeiro. **Exige cura contínua** ao lado |
+| Ribcage Shield Gu | 3 | Costelas externas usadas como escudo | — | Sem custo contínuo | Um dos três Gu da herança Bai Gu, e o candidato **escolhe só um dos três** | Defesa permanente que não consome nada | Escolhê-lo significa abrir mão dos escudos ósseos flutuantes e das asas de antebraço |
+| Flying Bone Shield Gu | 3 | Três escudos ósseos que flutuam ao redor do usuário | — | — | Segunda opção da mesma herança | Cobertura móvel, que acompanha de onde vem o golpe | Mesma escolha excludente |
+| Arm Bone Wings Gu | 3 | Asas ósseas nos antebraços que aumentam a velocidade de ataque | — | — | Terceira opção da mesma herança | Converte defesa em velocidade ofensiva | Mesma escolha excludente |
+| Thunder Shield Gu | 3 | Escudo semicircular de raio | — | — | Exemplar selvagem | — | Semicircular: cobre uma direção de cada vez (ded.) |
+| Water Armor Gu | — | Defesa especializada em combate aquático | — | — | — | Cobre um cenário em que as armaduras comuns falham | Especializada demais para uso geral (ded.) |
+| Ancient Bronze Skin Gu | 4 | Pele de bronze antigo, muito superior às versões comuns | — | — | Imersão em bronze fervente acelera o refino em trinta por cento | Um salto real de qualidade sobre toda a série "Skin" | — |
+| Golden Bell Shield Gu | 4 | Versão de rank 4 da armadura de luz dourada | — | — | — | A mesma cobertura, num patamar de resistência muito maior | Herda a incompatibilidade da família (ded.) |
+| Ivory Armor Gu | 4 | Armadura que cresce e se regenera ao longo da batalha | — | — | — | Fica mais forte quanto mais longa for a luta | **Sem elasticidade**: quebra se o usuário mudar de tamanho — anula qualquer Gu de transformação corporal |
+| Hard Qi Gu | 4 | Nuvem de ar amorfa, dura como rocha | — | — | Pertence ao caminho do qi | Parece que o usuário está indefeso: é uma defesa que também engana | — |
+| Essence Iron Bone Gu | 4 | Esqueleto duas a três vezes mais firme que o do Iron Bone | — | Exige um tempo de aplicação maior que o do Iron Bone | Obtido por refino reverso do Iron Bone Gu | Grande salto de resistência a partir de um Gu que o usuário já tem | Mais tempo sob o mesmo tipo de dor (ded.) |
+| Bone Wings Gu | 4 | Asas ósseas que crescem das costas e concedem voo | — | O crescimento é doloroso; o voo pleno costuma exigir de dois a três anos de treino, e cinco ou mais para combate aéreo | Receita: Footless Bird Gu mais materiais, cerca de 180.000 pedras | Voo permanente e próprio, sem consumir Gu descartável a cada viagem | Anos de treino antes de servir para alguma coisa, e o processo de crescimento dói |
+| Water Curtain Skyflower Gu | 4 | Esfera que sela o interior e o exterior ao mesmo tempo | — | — | — | Resiste a ataques de rank 5 | **Nem o próprio dono entra ou sai** — é tanto abrigo quanto prisão |
+| Liquid Metal Gu | 5 | Defesa líquida regenerativa | — | — | — | Quase impenetrável, e se refaz sozinha | — |
+| Blood Curtain Skyflower Gu | 5 | Versão da esfera em que o criador pode sair | — | Expira sozinha depois de um tempo | — | Resolve o defeito da versão anterior: o dono não fica preso | Quem sai **não pode reentrar**, e a barreira tem prazo |
+| Turtle Jade Wolf Skin Gu | 5 | Defesa que se aciona sozinha | — | Defesa automática, **sem custo de essência** | O refino consome um lobo-imperador vivo | Protege sem gastar nada e sem exigir reação do usuário | O insumo é uma criatura de rank alto viva — proibitivo de repor |
+| Life-preserving Jade Burial Gu | 5 | Animação suspensa dentro de um caixão de jade quase inquebrável | — | — | — | Compra tempo quando nenhuma cura resolveria | **Não cura nada**: apenas adia a morte, e enquanto isso o usuário está inerte |
 
 ---
 
@@ -144,19 +207,24 @@ Um caminho de alto dano e alta velocidade, mas frágil. Sua incompatibilidade
 declarada com o caminho da força é uma das regras de construção de personagem mais
 concretas da obra: as marcas de força no corpo fazem os Gu de luz falharem.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Flash Blink Gu | 1 | Explosão de luz que anula furtividade por sombra em área | — |
-| One-stretch Golden Light Worm | — | Cúpula dourada de proteção em área; consumo contínuo | — |
-| Light Source Gu | — | Reduz à metade o custo de essência de outros Gu de luz | — |
-| Broadsword of Light Gu | 3 | Espadas largas luminosas; dos ataques mais fortes do rank | — |
-| Sword Shadow Gu | 3 | Sombra de espada; par do anterior em potência | — |
-| Rainbow Light Gu | 3 | Vira facho de luz; o movimento mais rápido do rank | — |
-| Therapy Light Gu | 3 | Cura em área: total para leves, parcial para graves | — |
-| Dazzling Light Gu | — | Emite aurora vermelha usada para cultivar frutos de luz | pedras de cisne escaldante |
-| Golden Aurora Gu | 4 | Concede voo | — |
-| Gather Light Gu | 4-5 | Componente dos grandes golpes de luz | — |
-| Aurora Bird | — | Pássaro de luz-arco-íris que ataca em alta velocidade | — |
+Repare que o caminho da luz quase não tem defesa própria e quase não tem Gu
+permanentes: é um arsenal de disparos e de deslocamentos. A desvantagem estrutural
+dele não está em nenhuma linha da tabela, e sim na regra de construção acima —
+qualquer marca de força já gravada no corpo faz estes Gu falharem.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Flash Blink Gu | 1 | Explosão de luz branca que anula furtividade por sombra em área | — | **Uso único** | — | Um rank 1 desmonta o esconderijo de um oponente muito superior | Queima-se num único disparo, e serve contra um tipo específico de furtividade |
+| One-stretch Golden Light Worm | — | Cúpula dourada de proteção em área | — | **Consumo contínuo** de essência enquanto a cúpula estiver de pé | — | Protege um grupo inteiro, não só o usuário | Drena essência sem parar: o tempo de proteção é limitado pela abertura do dono |
+| Light Source Gu | — | Reduz à metade o custo de essência dos outros Gu de luz | — | — | — | Efetivamente dobra quantos disparos o usuário consegue numa luta | Não faz nada sozinho: é um multiplicador que exige um arsenal já montado (ded.) |
+| Broadsword of Light Gu | 3 | Espadas largas luminosas | — | — | — | Um dos dois ataques mais fortes de todo o rank 3 | — |
+| Sword Shadow Gu | 3 | Sombra de espada | — | — | — | O outro dos dois ataques mais fortes do rank 3 | — |
+| Rainbow Light Gu | 3 | Transforma o usuário num facho de luz | — | Exige um Gu de reação rápida ao lado para ser aproveitado | — | O movimento mais rápido do rank 3 — supera até muitos Gu de rank 4 | **Incompatível com Gu de força**: quem tem marcas de força no corpo não consegue usá-lo |
+| Therapy Light Gu | 3 | Cura em área | — | — | — | Cura vários aliados de uma vez, coisa rara em rank 3 | Cura por completo apenas ferimentos leves; nos graves, resolve cerca de metade |
+| Dazzling Light Gu | mortal | Emite uma aurora vermelha usada para cultivar frutos de luz | pedras de cisne escaldante | — | — | Ferramenta de produção, não de combate: gera recurso continuamente | Não tem uso ofensivo nenhum, e depende de um mineral específico para comer |
+| Golden Aurora Gu | 4 | Concede voo | — | — | — | Voo por um Gu só, sem cadeia de pré-requisitos | — |
+| Gather Light Gu | 4-5 | Concentra luz; peça de composição | — | — | — | Componente dos maiores golpes de luz conhecidos | Sozinho não é uma arma: só rende dentro de uma combinação montada |
+| Aurora Bird | mortal | Pássaro de luz-arco-íris que ataca em alta velocidade | — | — | — | Ataque teleguiado e veloz que age sem exigir mira do usuário | — |
 
 ---
 

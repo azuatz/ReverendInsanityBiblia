@@ -134,4 +134,3 @@ E se, contra todas as probabilidades, ele chegar ao topo do mundo, vai passar os
 - [[Visão Geral dos Veneráveis]] — os dez, sem exceção, tiraram das lendas os métodos que os levaram ao topo.
 - [[Blessed Lands e Grotto-Heavens]] — os domínios reclusos de céu e terra, que parecem derivar cada um de um episódio.
 - [[Visão Geral do Mundo]] — a nota-porta desta pasta.
-</content>

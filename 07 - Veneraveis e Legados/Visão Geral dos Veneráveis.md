@@ -118,4 +118,3 @@ Os dez Veneráveis históricos, em ordem aproximada de era. Cada um tem nota pr�
 - [[Tribunal Celestial]] — a instituição fundada por Veneráveis e habitada pelas aberturas de três deles.
 - [[Vontade dos Céus]] — a lei que todo Venerável precisou romper para chegar onde chegou.
 - [[Lendas de Ren Zu]] — a mitologia que os dez, sem exceção, leram como documento técnico.
-</content>

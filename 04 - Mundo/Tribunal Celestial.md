@@ -157,4 +157,3 @@ O projeto de longo prazo que organiza tudo o que ela faz:
 - [[Cosmologia]] — os fragmentos de céu e os dois céus que a Corte usa como tesouro e como estrada.
 - [[As Cinco Regiões]] — as paredes que limitam o alcance real da Corte fora do Continente Central.
 - [[Visão Geral dos Veneráveis]] — os três Veneráveis cujas aberturas formam a sede, e os que nunca entraram.
-</content>

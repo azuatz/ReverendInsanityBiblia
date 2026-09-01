@@ -133,4 +133,3 @@ Vale enunciar o que os dois construíram **juntos**, porque é o esqueleto polí
 - [[Os Criadores de Caminhos]] — os Veneráveis cujo legado é uma disciplina de cultivo inteira.
 
 [^1]: As fontes descrevem em detalhe o que Primordial Origin criou, mas nunca nomeiam sua disciplina de cultivo principal. Registrado como lacuna em vez de inferido — o nome "Primordial Origin" sugere associação com o *origin path*, mas isso não é afirmado no texto.
-</content>

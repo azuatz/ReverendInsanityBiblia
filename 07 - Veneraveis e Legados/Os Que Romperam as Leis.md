@@ -139,4 +139,3 @@ Vale enunciar, porque é o eixo da nota:
 - [[Os Arquitetos da Ordem]] — a instituição que passou um milhão de anos consertando o que Red Lotus quebrou.
 
 [^1]: As fontes creditam a Thieving Heaven a criação do caminho do roubo e a Red Lotus nenhuma fundação de caminho; a disciplina principal de Red Lotus não é nomeada. Registrado como lacuna em vez de inferido a partir do nome ou dos métodos.
-</content>

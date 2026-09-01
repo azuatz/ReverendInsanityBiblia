@@ -26,13 +26,24 @@ Esse grau é imediatamente convertido numa **porcentagem de capacidade da abertu
 | Grau | Capacidade da abertura | Teto de carreira típico |
 |---|---|---|
 | (sem talento) | abaixo de 20% | **nunca se torna Mestre Gu** — não existe grau abaixo do D |
-| **D** | **20–30%** | rank 1; no máximo rank 2 |
+| **D** | **20–39%** | rank 1; poucos alcançam o rank 2 |
 | **C** | 40–59% | rank 2; rank 3 apenas excepcionalmente |
 | **B** | 60–79% | rank 3, podendo alcançar o 4 |
 | **A** | 80–99% | topo do mundo mortal (rank 5) |
 | Constituição Extrema | 100% | categoria à parte, ver abaixo |
 
-Duas observações que a designer precisa ter em mãos. Primeiro: **não existe faixa abaixo dos 20%**. A obra separa explicitamente os jovens de grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu. Segundo: a **zona entre 31% e 39% nunca é descrita**, o que é provavelmente arredondamento narrativo do autor e não uma regra escondida.[^1]
+Duas observações que a designer precisa ter em mãos. Primeiro: **não existe faixa abaixo dos 20%**. A obra separa explicitamente os jovens de grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu. Segundo: as quatro faixas são **bandas regulares de vinte pontos** cada, particionando limpa e inteiramente o intervalo de 20 a 99.
+
+> [!warning] Um ponto em que a obra confunde, e como resolvemos
+> Há uma passagem que descreve os Mestres Gu de grau D como tendo "apenas vinte a trinta
+> por cento" de essência na abertura, o que sugeriria uma faixa de 20 a 30. Adotamos
+> **20–39** mesmo assim, por três razões: as outras três faixas têm exatamente vinte
+> pontos cada, e um D de onze pontos quebraria o padrão; um recorte de 20–30 deixaria a
+> zona de 31 a 39% sem grau algum, o que é absurdo num sistema que classifica toda a
+> população; e nenhum personagem da obra com aptidão nessa faixa é jamais rotulado com
+> outro grau. A leitura mais consistente é que aquele "vinte a trinta por cento" descreve
+> o **D típico**, não o limite da banda — a frase aparece num contexto depreciativo, sobre
+> alguém que acabara de receber o pior grau possível.
 
 ### Aptidão como teto de armazenamento
 

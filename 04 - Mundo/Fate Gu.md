@@ -148,4 +148,3 @@ Durante o processo, marcas de dao do caminho do céu entram em circulação no m
 - [[Cosmologia#A fronteira do mundo]] — a origem estrutural dos demônios de outro mundo.
 - [[Red Lotus Demon Venerable]] — o Venerável que feriu o Fate Gu, e o legado estrutural disso.
 - [[Star Constellation Immortal Venerable]] — a Venerável que construiu a vigilância e travou a revelação do destino a favor da humanidade dominante.
-</content>

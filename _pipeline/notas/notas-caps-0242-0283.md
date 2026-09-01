@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 242–283 (Volume 2)
 
-> Progresso da leitura: até o cap. 271
+> Progresso da leitura: até o cap. 277
 > Status: em-andamento
 
 ## 1. Mecânicas e regras

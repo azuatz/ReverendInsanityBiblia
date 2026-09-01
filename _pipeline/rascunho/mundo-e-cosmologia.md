@@ -6,8 +6,9 @@ status: rascunho-interno
 
 # Mundo e cosmologia
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: Volume 6 (obra completa) (caps. 0–2334).
 > **1ª metade do Volume 5 (caps. 1022–1513)**: a heaven's will deixa de ser antagonista difuso e vira **mecanismo com regras de operação declaradas** — só age DIRETAMENTE em duas janelas (calamidade/tribulação e refino heaven-and-earth style), fora delas apenas influencia decisões instantâneas, e por isso velocidade e rota imprevisível passam a ser a defesa canônica (caps. 1086, 1089, 1094). Revela-se que a heaven's will tem **forma e viés humanos** porque Star Constellation se fundiu VOLUNTARIAMENTE a ela — invertendo a hierarquia presumida: a Heavenly Court é subordinada à heaven's will, não o contrário (caps. 1365, 1372). A lacuna prioritária do V4 fecha: a imunidade dos **fate escapees** vem do status de **otherworldly demon** (cap. 1435), e o par cosmológico fica explícito — **fate = certeza, luck = incerteza** (cap. 1234). Abre-se o dossiê do **Reverse Flow River** (nenhum Gu r1-8 ativável, reflexo de ataques externos, upstream infinito, título de Lord) e com ele a afirmação ontológica de que **rank 9 é feito de fragmentos do Grande Dao, não de dao marks** (caps. 1270, 1283-1286, 1293, 1302, 1284). O calendário do mundo também muda: o Fate Gu passa de 50% a 60% de reparo (cap. 1335) e a Grande Era, antes prevista para 4-5 séculos (cap. 1078), é redatada para **dez anos** (caps. 1435, 1440).
+> **2ª metade do Volume 5 e Volume 6 (caps. 1514–2334)**: a cosmologia se fecha. A **Grande Era** se consuma no cap. 1966 (paredes regionais extintas, earth veins conectadas, cinco regiões fundidas em uma) e no mesmo evento o **Fate Gu é fragmentado e fundido à sorte de toda a humanidade** — "de hoje em diante, não haverá mais destino neste mundo". Revela-se que o **Fate Gu é, em essência, um fragmento do heaven path** (cap. 1866), o que reorganiza tudo: separa-se de vez a **Heavenly Dao** (lei impessoal que busca equilíbrio) da **Heaven's Will** (agência estratégica e hostil a otherworldly demons), e explica-se por que a Heavenly Court "torceu" o céu ao assimilar a vontade de um Venerável a ele. As **qi tides** aparecem como o estado turbulento daquilo que as paredes regionais eram em estado congelado. E o segredo final: o ponto mais profundo da **Crazed Demon Cave** é a parte mais fina da fronteira do mundo, perfurada por uma formação de nível Venerável que puxa matéria de fora — a origem estrutural dos **otherworldly demons** e o quase-apocalipse de 300 mil anos atrás, cujo remendo nunca foi completo.
 > Domínio: geografia (5 regiões), cosmologia (Rio do Tempo, nove céus, great dao, eras históricas), mitologia de Ren Zu, fauna/marés de bestas, locais notáveis. O V3 trouxe as primeiras menções concretas de **Heavenly Court** e **Fate Gu**; o **V4 abre o dossiê completo**: Fate Gu/Heaven Overseeing Tower como mecanismo do mundo, **heaven's will como antagonista ativo**, a categoria formal dos **fate escapees**, os otherworldly demons em detalhe, as regional walls nomeadas, os nove céus (White/Black Heaven por dentro) e o rio do tempo como domínio navegável — incluindo a anomalia temporal do "rosto fantasma + lótus vermelha" (regressão de ~1 ano, cap. 969-970).
 
 ## Resumo do domínio
@@ -231,6 +232,139 @@ Lendas contadas dentro da obra (por anciãos, mercadores) — funcionam como fon
 
 - Eras de Central Continent (reforma de Primordial Origin): Remote Antiquity (seitas raras) → Olden (clãs > seitas) → Medieval (equilíbrio em conflito) → Late (clãs enfraquecem) → presente (seitas dominam) (cap. 704). Nas eras Immemorial/Remote, **variant humans dominavam o mundo** (rock dragons como bestas de guerra); Primordial Origin e Star Constellation lideraram a virada humana; os **beastmen** (variante homem-fera, antropófaga) foram exterminados na Olden Antiquity por três Demon Venerables (caps. 871, 912). `[segredo]` A Heavenly Court **exclui categoricamente variant humans** — Long Hair Ancestor nunca foi aceito por ser hairy man (cap. 879, 871).
 - Fauna nova: escala reconfirmada wild → hundred/thousand/myriad beast king → beast emperor → desolate (≈r6) → ancient desolate (≈r7) → immemorial desolate beast (≈r8) (caps. 701, 920); desolate beasts quase não usam killer moves (o diferencial dos imortais) mas carregam wild Gu imprevisíveis e counters inatos (caps. 701, 714-715); habilidades derivam de dao marks específicos no corpo (matar de vez = destruir os marks, cap. 994); phantom beasts alternam intangível/sólido (cap. 785); "submissão" de uma besta é barra mental separada do dano (cap. 797); **Earth Trench existe nas 5 regiões** (fendas de milhões de li, riquíssimas e inexploradas no fundo; gravity soil zones; "sea of immortal material remains" — campo-armadilha de areia púrpura que dissolve tudo abaixo de densidade r8 de dao marks) (caps. 931-935).
+
+---
+
+> fontes desta seção: ["caps. 1022-1513 (1ª metade do V5)", "caps. 1514-1966 (2ª metade do V5)"]
+
+## Atualizações do Volume 5 (caps. 1022–1966)
+
+### A Grande Era, do gatilho ao desfecho
+
+`[especializado]` na definição, `[segredo]` no mecanismo profundo.
+
+**Definição formal** (cap. 1301): *"as earth veins vão se fundir, as paredes regionais vão sumir, as cinco regiões virarão uma só, e Great Dream se torna Venerável."* Quatro eventos encadeados, não quatro eventos paralelos.
+
+**Gatilho e progressão**
+1. **Earth vein tremors** (tremores das veias de terra) são o sinal de largada. As **earth veins se unificam ANTES** de as paredes caírem — a fusão subterrânea é a causa, a queda das paredes é o efeito (cap. 1408). A Southern Border é a primeira afetada, por ter a earth vein mais profunda.
+2. **Por que as paredes existiam**: cada região tinha heaven-and-earth qi distinta porque tinha earth vein própria; a diferença constante de qi entre regiões vizinhas **era** a parede. Correção retroativa de regra do V6 (cap. 1968): as paredes regionais eram, em essência, **qi tides permanentes e estáticas**. Todo o estudo histórico sobre "five restriction profound light qi" era, sem que os pesquisadores soubessem, um estudo de qi tides congeladas.
+3. **Efeito colateral em cascata**: à medida que as earth veins se fundem, tudo que se alimenta delas escala junto — o Evil Dragon Di Zang Sheng, nascido da fusão entre o poder das earth veins e as emoções negativas coletivas da humanidade, cresce em poder **proporcionalmente** à unificação (cap. 1955). Os "veios humanos" (human veins) das cinco regiões também se interligam, e a vontade humana coletiva das cinco regiões vira um único reservatório (cap. 1933) — o que passa a ser explorável como recurso tático.
+4. **Consumação (cap. 1966)**: *"as paredes regionais que separavam as cinco regiões desapareceram completamente. As earth veins ficaram conectadas quando as cinco regiões separadas se fundiram em uma!"* As diferenças de qi entre as regiões começam a sumir e o trânsito de pessoas fica livre de qualquer barreira.
+
+**O desfecho gêmeo: o Fate Gu entregue à humanidade**
+- `[segredo]` No **mesmo evento causal**, o Fate Gu — fisicamente fragmentado pouco antes — **não é destruído**: ele é **dividido em incontáveis porções e distribuído a cada pessoa das cinco regiões, fundido à sorte individual de cada uma**. A frase que fecha o arco: *"Povo deste mundo, eu confiei o destino a vocês. Todos vocês seguram uma porção do destino; de hoje em diante, não haverá mais destino neste mundo"* (cap. 1966).
+- **Consequência mecânica**: o Fate Gu continua existindo, mas **a heaven's will perde o controle centralizado sobre o destino humano**. O destino não some — ele se pulveriza e passa a residir difuso, misturado à sorte de bilhões de indivíduos.
+- **Como o dano ao Fate Gu foi possível**: o instrumento foi o **Love Gu**. Demonstração canônica: usá-lo permitiu alterar um resultado que uma tribulação vinha recalibrando para se repetir sempre — salvando uma pessoa condenada, ao preço formal de o usuário passar na tribulação sem ascender. Dois resultados fixos mudaram ao mesmo tempo, e é isso que prova que **o Love Gu pode danificar/alterar o Fate Gu** (cap. 1964).
+- **Chuva de heaven path dao marks**: durante o processo, um golpe de escala mundial atinge a fonte de human will e libera **heaven path dao marks** que se distribuem automaticamente a **todos** os conectados àquela fonte — todo mortal e todo Gu Immortal das cinco regiões, na proporção que cada um aguenta. Muitos mortais desmaiam, alguns morrem de dor (cap. 1966). Este é o momento em que heaven path dao marks entram em circulação no mundo.
+
+### Fate Gu como fragmento de heaven path (a chave cosmológica)
+
+`[segredo]` — a revelação que reorganiza toda a cosmologia da obra (cap. 1866):
+
+> *"Gu são a essência do céu e da terra. O Fate Gu, em essência, era um fragmento do heaven path!"*
+
+- **O que isso explica**:
+  - Por que o Fate Gu **só pode ser controlado diretamente pelo próprio Heavenly Dao**. Gu Immortals — humanos ou variantes, Veneráveis inclusive — apenas "observam" fragmentos dele ou recebem **revelações**; nunca o ativam como uma killer move comum (cap. 1747).
+  - Por que **otherworldly demons conseguem danificar o Fate Gu e cultivadores nativos não** — mesmo um Venerável não-otherworldly atacou a Heavenly Court e falhou em feri-lo. A imunidade ao Fate Gu e a capacidade de feri-lo derivam do mesmo status ontológico (caps. 1435, 1866).
+- **Heaven path como categoria de Gu**: existe uma família inteira de **Immortal Gu de heaven path** (Heaven's Envy, Heaven's Rage, Heaven's Sorrow...) que, por regra geral, **não pode ser ativada nem por um rank 9**. A única exceção documentada é um **mortal** que ressoe com a emoção correspondente — e ao preço de lifespan (cap. 2121). Um heaven path dao mark é "totalizante": contém traços de vários sub-paths ao mesmo tempo.
+- **Nenhum cultivador na história cultivou formalmente o heaven path** (cap. 2109). O primeiro supremo grão-mestre de refinement path da Remote Antiquity Era tentou refinar **o mundo inteiro** como abertura imortal externa e falhou justamente porque nunca conseguiu refinar heaven path dao marks — morreu tentando (cap. 2108).
+- **Heavenly Dao blockade**: um dos **quatro requisitos** de ascensão a Venerável é romper o "bloqueio do Heavenly Dao" — a supressão que o Dao exerce sobre o crescimento de poder individual. Regra derivada de altíssimo valor: **quanto mais amplamente espalhado o conhecimento e as heranças entre os cultivadores (elevando o nível geral), mais diluído fica o esforço de supressão do Dao sobre qualquer indivíduo** no momento crítico (cap. 2111). Democratizar o poder enfraquece o guarda-costas do equilíbrio.
+
+### Heavenly Dao × Heaven's Will — duas coisas diferentes
+
+`[segredo]` A distinção mais importante do domínio, e a mais fácil de confundir:
+
+| | **Heavenly Dao** (o Caminho do Céu) | **Heaven's Will** (a Vontade do Céu) |
+|---|---|---|
+| Natureza | Lei impessoal, o funcionamento do mundo | Agência, uma vontade que decide |
+| Objetivo | **Equilíbrio**: "retira dos excedentes e repõe os déficits, para que todas as coisas se restrinjam mutuamente" (caps. 1022, 1180) | **Estratégia**: age contra alvos específicos, calcula, arma emboscadas |
+| Contra quem | Contra ninguém — nivela por princípio, sem afeto nem antipatia | Hostil especificamente a **otherworldly demons** e a indivíduos excepcionais |
+| Como opera | Calamidade retira excedentes; luck repõe déficits — as duas faces do mesmo mecanismo (cap. 1180) | Só age diretamente em duas janelas: durante calamidade/tribulação e durante refino "heaven and earth style"; fora delas, apenas influência sutil e subconsciente (caps. 1086, 1089, 1094) |
+| Manipulável? | Não diretamente; mas pode ser **torcida** por uma vontade assimilada a ele | Sim: pode suprimir de propósito a força das calamidades de um alvo para **limitar o ganho de dao marks** dele e travar sua ascensão (cap. 1599) |
+
+- **A ponte entre os dois — "assimilar-se ao Dao"** (caps. 1747, 1866): ao fim de sua lifespan, Star Constellation Immortal Venerable sacrificou-se para que a **própria vontade passasse a participar das operações do Heavenly Dao**, interferindo na heaven's will *de dentro*. Efeito: trava a "revelação" do Fate Gu a favor da humanidade.
+  - **Preço cosmológico**: essa assimilação **torceu o Heavenly Dao verdadeiro** para defender o reinado da Heavenly Court, indo contra o equilíbrio natural — que, se deixado agir, tomaria dos excedentes (os humanos dominantes) para suprir as carências (os humanos variantes hoje suprimidos). Isso teria **enfurecido o heaven's will verdadeiro** (cap. 1852). A "justiça em nome do céu" da Heavenly Court é, literalmente, uma distorção do céu.
+  - **A trava é frágil e disputada**: a capacidade da vontade de Star Constellation de suprimir o Heavenly Dao puro depende de **reforços vivos** — quando muitos Gu Immortals hibernados da Corte morreram numa batalha, essa capacidade enfraqueceu e a revelação voltou a oscilar (cap. 1748, via fonte não plenamente confiável).
+- **Corolário para o design**: o "céu" desta obra não é um deus. É uma lei de nivelamento que foi **capturada politicamente** por uma instituição, através do sacrifício de um indivíduo, e que resiste a essa captura. Toda a tensão cosmológica da obra mora nessa disputa.
+
+### Qi tides (marés de qi)
+
+`[comum]` na existência, `[especializado]` na causa (caps. 1968, 1990, 2099):
+- **O que são**: fenômenos periódicos, tipo tsunami, que varrem o **mundo inteiro** — as cinco regiões e os dois céus — matando formas de vida no caminho e abalando aberturas imortais.
+- **Causa**: com as paredes caídas, o heaven-and-earth qi das cinco regiões (antes distinto e estático em cada uma) começa a convergir e se misturar; a mistura é violenta e ondulante enquanto não atinge equilíbrio.
+- **Regra unificadora retroativa**: as antigas **paredes regionais eram qi tides permanentes e estáticas**. Não são fenômenos diferentes; são o mesmo fenômeno em estado congelado versus em estado turbulento.
+- **Efeito espelhado nos dois céus**: as **heaven veins** (associadas ao black heaven e ao white heaven) também estão se fundindo. Os grotto-heavens dos dois céus foram instalados **sobre** heaven veins — por isso são ricos em condições normais e, por estarem literalmente na fonte, são **os primeiros a sofrer** quando as heaven veins começam a fundir (cap. 1990).
+- **Regra dos três veios** revelada pela Heavenly Court: *"Céu, terra e humanos, todos têm veias"* — **human veins** (ligadas ao human path e ao Human Sea), **earth veins** (ligadas às antigas paredes regionais, uma por região) e **heaven veins** (ligadas aos dois céus) (cap. 1990).
+- **Efeitos de superfície documentados**: expõem simultaneamente true inheritances antigas em todas as regiões; fazem recursos de cultivo "surgirem um a um" por toda parte; e rasgam o solo — uma fazenda de milhares de acres foi partida ao meio por uma trincheira que a dona não conseguiu reparar (cap. 1985).
+
+### A origem das Earth Trenches
+
+`[especializado]` Duas escalas do mesmo fenômeno:
+- **No mundo**: as Earth Trenches (fendas terrestres) surgem dos **terremotos da Grande Era** — obra direta do heaven's will, sem padrão previsível nem para os Gu Immortals mais fortes (caps. 1531, 1734). Aparecem carregadas de recursos: pontos de recurso de alto grau (Smoky Warm Jade Field), Immortal Gu selvagens (um *wild earth vein Immortal Gu* foi extraído de uma), black oil, materiais raros. Quem souber **onde e quando** uma Earth Trench vai abrir chega antes até dos donos do território — informação com valor estratégico absoluto.
+- **Dentro de uma abertura imortal — mecanismo revelado** (cap. 1849): ao acumular uma quantidade enorme de dao marks (na ordem de 1 milhão de um único path), a abertura desenvolve espontaneamente **heaven qi** e **earth qi** próprias. O excesso de heaven qi forma névoas e nuvens nos mini-céus; o excesso de **earth qi precisa escoar**, e os túneis de escoamento que ele abre, com o tempo, viram **canais permanentes cheios de dao marks de earth path** — isto é, Earth Trenches. Uma Earth Trench é o sistema de drenagem de um mundo que ficou denso demais.
+- **Pós-Grande Era, as trincheiras viram uma categoria geológica inteira**: com a fusão das earth veins das cinco regiões surgem as **Ten Earths** (Dez Terras) — Earth Abyss, Earth Trench, Earth Tunnel, Earth Cave, Earth Prison, Production Earth, Flying Earth, Formation Earth, Treasure Earth e Tomb Earth (caps. 2053, 2145). Todas podem servir de **nó de veia** para construir dao veins artificiais.
+
+---
+
+> fontes desta seção: ["caps. 1842-1882", "caps. 1967-2007", "caps. 2049-2089", "caps. 2090-2130", "caps. 2131-2171", "caps. 2172-2212", "caps. 2295-2334"]
+
+## Atualizações do Volume 6 (caps. 1967–2334) — a borda do mundo
+
+### Crazed Demon Cave e a fronteira do mundo (a revelação cosmológica final)
+
+`[segredo]` — este é o segredo de nível mais alto da obra inteira; nem os Veneráveis vivos o conhecem completo.
+
+**A estrutura**: a Crazed Demon Cave é o "Dao field" (campo do Dao) deixado pelo corpo principal de Limitless Demon Venerable em seus últimos anos. Tem **nove camadas** (caps. 1866, 2170-2171):
+- Camada 1 — a mais externa; vista do céu, parece uma cratera.
+- Camada 2 — terra de rochas em brasa.
+- Camada 3 — névoa branca com feras ferozes e a "Fog City".
+- ... (camadas intermediárias)
+- Camada 7 — solo inteiramente composto de materiais imortais quase-rank-9, mas com dao marks caóticos e inutilizáveis.
+- **Camada 8 — um VOID (vazio) onde mundos nascem e morrem.**
+- **Camada 9 — a "Crazed Demon Ninth Void Formation".**
+
+**A camada 8 e o ciclo de derivação de mundos** (cap. 1859): dentro do vazio surgem "bolhas" coloridas — pequenos mundos completos, com céu, terra e seres vivos próprios — que crescem, se estabilizam e depois são destruídos por um **void tear** (rasgo de vazio, força de phantom path). Cada mundo destruído deixa **filamentos de heaven path dao mark**. O ciclo: um vórtice absorve 1 (às vezes 3-4) filamentos, eles colapsam e geram uma nova bolha-mundo, que cresce, estabiliza e é destruída deixando 1-2 filamentos novos. **Cada ciclo tende a uma perda líquida de heaven path dao marks** — o processo é entrópico. É ali que se acumula mais de um milhão de anos de derivação de dao marks do céu, e o próprio local produz ocasionalmente **"filhos da sorte"**: seres de aptidão extrema, nascidos da camada, independentemente de facção (cap. 2156).
+
+**A revelação central** (caps. 2170-2171, flashback de 300 mil anos): o ponto mais profundo da Crazed Demon Cave é **a parte mais fina da fronteira do mundo de cultivo Gu** — e é exatamente ali que a **Crazed Demon Ninth Void Formation** de Limitless Demon Venerable **perfura essa fronteira e traz para dentro "coisas de fora do mundo"** como matéria-prima. É assim, ao longo de eras, que se geram os Grandes Mundos e os pequenos mundos da 8ª camada.
+- **É assim que se explicam os otherworldly demons**: existe uma perfuração deliberada e permanente na membrana do mundo, operada por uma formação de nível Venerável, que puxa matéria e entidades de fora para dentro. Os "demônios de outro mundo" não são anomalia inexplicável — são **subproduto de infraestrutura**.
+- **O quase-apocalipse**: desesperado por voltar ao próprio mundo natal, Thieving Heaven forçou deliberadamente a **ruptura** da fronteira no ponto mais fino. Limitless tentou impedi-lo e falhou. Pela brecha aberta, "a tribulação mais terrível do mundo" começou a jorrar, ameaçando destruir o mundo de cultivo Gu **inteiro** — não só a caverna.
+- **O remendo**: quatro Veneráveis repararam o mundo. Thieving Heaven selou a brecha **à custa de extrair seus próprios dao marks de otherworldly space path**, criando com eles um subespaço — e **a fenda nunca foi totalmente reparada** (cap. 2192). O mundo de cultivo Gu vive, desde então, sobre um remendo.
+- **Restrição política decorrente** (cap. 2151): na fase final, poder de combate de nível Venerável **não pode agir diretamente** dentro da caverna — um golpe de escala plena perturbaria a derivação final e acionaria um "método retaliatório" deixado por Limitless. Os mais fortes do mundo são obrigados a agir por procuração no lugar mais importante do mundo.
+- **O tabuleiro**: há um milhão de anos, ameaçado de destruição, Star Constellation forçou Limitless a aceitar uma **partida de xadrez** em vez do ataque. O tabuleiro está secretamente ligado à Crazed Demon Cave — os pensamentos colidindo durante o jogo **geram novos heaven path dao marks** (caps. 1959, 2062). A guerra entre os dois maiores intelectos da história é, ela própria, um motor cosmológico.
+
+### O Primordial Domain
+
+`[segredo]` (caps. 2176, 2271):
+- **Definição in-universe** (lore de um ancião inkman): *"a parte mais misteriosa da Qian Kun Crystal Wall... contém a informação do mundo desde a criação, e também a informação do fim de todos os seres vivos. É tanto o ponto de partida quanto o ponto final. Não tem nada, mas compreende tudo."*
+- **Acesso**: parte-se de Book Mountain caminhando enquanto se espalha o conhecimento acumulado como "texto de tinta" no chão, formando um caminho. Se o conhecimento usado for de baixo nível (memorizado, não compreendido como **true meaning**), o caminho se desgasta e desaparece nas jornadas longas, impedindo o acesso. Só um caminho construído com true meaning aguenta a travessia. **A estrada é feita da qualidade do próprio entendimento de quem caminha.**
+- **Efeito mecânico**: absorver o Primordial Domain concede **grande impulso de attainment levels** em múltiplos paths simultaneamente (cap. 2271) — é por isso que ele é o objetivo estratégico final de todos os maiores jogadores.
+- **Peso político**: quem entrar primeiro no Primordial Domain decide o vencedor de toda a batalha da Crazed Demon Cave e, ao voltar às cinco regiões fundidas, provavelmente se torna **o governante do mundo reunificado** (cap. 2177).
+- **Origem de Book Mountain**: estava originalmente na **9ª camada** da Crazed Demon Cave; a Heavenly Court, com sua fundação em wisdom path, compreendeu parte da 9ª camada e conseguiu **extraí-la antecipadamente** sem disparar o método retaliatório de Limitless (cap. 2160).
+
+### A cosmologia da produção de pedras de essência imortal
+
+`[segredo]` — o segredo econômico mais bem guardado do mundo (caps. 2296-2298, 2308):
+- **O paradoxo fundador**: a **Heavenly Dao busca o equilíbrio das dez mil coisas**. Por padrão, ela **não produziria** algo como immortal essence stones naturalmente — é um recurso fundamental demais, que dá vantagem alta demais na sobrevivência a calamidades e tribulações. Produzi-las só é possível por **injeção deliberada de heaven's will**. Ou seja: um **loop impossível**, que violaria as próprias regras da Heavenly Dao.
+- **Como o loop foi resolvido historicamente**: através de uma pessoa. **Unified Essence Yi Qi Zi** — uma figura cuja abertura imortal produz immortal essence stones conforme o estado de seus três qi. Enlouquecida (os três qi em caos, com a **heaven's will dominando a human will**), sua abertura passa a produzir **immortal essence stones contendo heaven's will**.
+- **A história**: Primordial Origin Immortal Venerable derrotou e capturou Yi Qi Zi, **anunciou ao mundo que a havia matado**, e a usou para produzir as pedras. Distribuiu apenas a versão **rank 6** ao mundo, guardando as de rank 8 em segredo — provavelmente para não alarmar os Gu Immortals variantes. Ela tentou escapar repetidas vezes e falhou.
+- **Depois da morte dela**: Star Constellation, já assimilado ao Dao, alterou a heaven's will diretamente e a fundiu ao núcleo de origem da Heavenly Court. Consegue manter a produção — mas **apenas de pedras rank 6**, o limite do seu controle sobre a heaven's will.
+- **Fecho do círculo com a economia**: a Heavenly Court é a fonte única de immortal essence stones do mundo e restringe deliberadamente a distribuição desde a fate war, como arma política (cap. 2228 — ver economia-e-vida.md). Agora sabemos por quê: **a moeda universal do mundo é um artefato antinatural, produzido por uma prisioneira e depois por uma vontade morta enxertada na lei do céu.** A escassez estrutural de dinheiro não é acidente de mercado; é a Heavenly Dao resistindo à própria existência daquele bem.
+
+### Fragmentos de céu imemorial e grotto-heavens
+
+`[especializado]` (caps. 1131, 2296):
+- Um Gu Immortal rank 8 sem confiança de passar a tribulação pode **anexar um fragmento dos nove céus imemoriais**. A partir daí sua abertura imortal vira um **grotto-heaven fixo em um local** — e ele fica "preso como pássaro engaiolado", incapaz de deixar a própria abertura. Segurança comprada com liberdade.
+- **Custo cosmológico oculto**: uma blessed land/grotto-heaven totalmente privada é isolada e **opaca à heaven's will**. Mas qualquer grotto-heaven que absorveu um fragmento dos nove céus passa a estar sob **supervisão e influência da heaven's will** — o fragmento é uma janela que abre nos dois sentidos (cap. 1131). Grotto-heavens contêm heaven's will *e* uma abertura imortal ao mesmo tempo.
+- **Estado atual dos nove céus**: dos nove originais restam apenas o **black heaven** e o **white heaven** (cap. 1779). Se os nove existissem, o *heavenly dew oasis* produziria "nine colored water" (rank 8) em vez de black-white water, e dela sairia anualmente 1 gota de **"nine heavenly star sweat"**, material rank 9 e uma das **três grandes águas de céu e terra** (junto com *myriad being creation water* e *rising falling tide water*). As três águas se perderam com os sete céus; **as três grandes chamas de céu e terra ainda existem** (cap. 1779).
+- **Uma parede sobrevive à Grande Era**: a *heavenly wind qi wall* ainda separa cada uma das cinco regiões do respectivo black heaven / white heaven (cap. 1990).
+
+### Consequências cosmológicas do mundo unificado
+
+`[comum]` no efeito, `[especializado]` na causa:
+- **Ninguém é mais nativo de lugar nenhum** (cap. 2175): antes, o nativo de uma região era imune à restrição da própria região. Agora, com as qi tides unificando a aura do mundo, a **qi combinada das cinco restrições não é idêntica a nenhuma das cinco antigas** — logo nenhum Gu Immortal, de nenhuma origem, escapa da restrição.
+- **As auras regionais desaparecem** — não se identifica mais a origem de um Gu Immortal desconhecido pela aura (cap. 2161).
+- **As dao veins do mundo se movem**: veias subterrâneas naturais mudam de posição por causa da unificação, e formações antigas ancoradas na posição *original* de uma veia — sem Immortal Gu no núcleo — perdem sustentação e se rompem (cap. 2273). Toda a infraestrutura mágica herdada do mundo antigo passa a ter data de validade.
+- **Abundância e novidade geológica**: recursos de cultivo surgem por toda parte, incluindo plantas desolate ancestrais selvagens; e as **Ten Earths** criam um andar subterrâneo inteiro de geografia nova (caps. 2053, 2160).
 
 ## Lacunas do domínio
 

@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Sistema de Gu (natureza, uso, refino, alimentação, fusão, Gu vital, killer moves, contratos)
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
+> **2ª metade do Volume 5 + Volume 6 (caps. 1514–2334)**: fecham o domínio. A máxima central do refinement path — **"qualquer killer move é uma receita de Gu incompleta"** — permite **condensar um killer move num único Gu worm** (attainment quasi-supreme grandmaster), com trade-off explícito de poder, robustez e evolutividade (caps. 1560-1570); o **framework de criação em 3 estágios** (formação → killer move → receita de Immortal Gu, cap. 1795) generaliza o processo. O V6 entrega o **framework completo dos 4 estilos de refinement path** (natureza→Gu, Gu→mundo, humano→Gu, Gu→humano) sob a teoria "Unifying Human and Gu" (cap. 2131), a definição operacional de refinar como **substituição da vontade interna** e a única brecha prática para Gu roubado (Wisdom Refinement Formation, caps. 1529, 1608, 1790), o **heaven path** com seu golpe de entrada **unrestrained heavenly mark** e os Gu de heaven path (**Heaven's Envy**) que só se ativam com estoque de heavenly marks livres (caps. 2037, 2121, 2135), a categoria nova de **totem killer moves** (caps. 2112-2140), a escala fechada de killer moves (quasi-battlefield → immortal battlefield) e compound killer moves multi-path, além dos números finais de refino e da **regra de unicidade** como gargalo de endgame.
 > **1ª metade do Volume 5 (caps. 1022–1513)**: fecha a natureza da **"will" embutida no refino** como programa interno do Gu — é ela que destrói o Immortal Gu quando alguém tenta refiná-lo à força, e é por isso que Immortal Gu roubados são inúteis e Gu selvagens nunca são arriscados de refinar (cap. 1299). Formaliza a fronteira ontológica **rank 9 ≠ rank 8** (fragmentos do Grande Dao vs. dao marks, caps. 1161, 1284) e o Love Gu como Gu incontrolável de vontade própria (cap. 1230). Entrega números duros de refino (50–60 tentativas por sucesso, cap. 1374), a anatomia da **criação** de um killer move (caps. 1287-1289), o **backlash escalonado por estágio de interrupção** (cap. 1311) e o **refino paralelo** que arranca heaven's will de um Gu selado (caps. 1479-1480). Consolida ainda as **Immortal Gu Houses** como categoria (sem backlash, intransferíveis, controle exclusivo anti-traidor: caps. 1341, 1357, 1370).
 > O V4 entrega: as **taxas de refino de Immortal Gu por rank** (r6 <1% / r7 0,1% / r8 0,01%, cap. 860), o sistema de **success dao marks** e a Infallible inheritance (caps. 843-847), a anatomia madura dos **killer moves imortais** (núcleo Immortal Gu, battlefield/"quasi blessed land", combos por dao marks residuais) e o quadro completo de contratos de information path (brechas, prazo de validade, quebra).
 
@@ -1004,3 +1005,218 @@ começa a se manifestar, em forma inicial simples, e cresce.
 - **"Queima" pública**: totem killer moves expostos numa batalha ficam temporariamente inutilizáveis
   contra adversários de topo — precisam ser modificados antes do reuso seguro, já que o método passou
   a ser conhecido (caps. 2215-2216). Vale para qualquer killer move de assinatura.
+
+### Refino de Immortal Gu — números e teoria (V5b/V6)
+
+Atualiza a seção "Refino de Immortal Gu — números e teoria completa" do V4 (r6 <1% / r7 0,1% /
+r8 0,01%, cap. 860) e a do V5-1ª metade (50-60 tentativas por sucesso, cap. 1374).
+
+- **Os dois obstáculos estruturais da profissão** (cap. 1858) `[especializado]`: a taxa de sucesso é
+  limitada por (1) o **attainment de refinement path** de quem refina e (2) a modificação de receita,
+  que exige **simultaneamente** attainment no path do Gu **+** refinement path **+** wisdom path. A
+  maioria dos Gu Immortals não cultiva refinement path nem como secundário — daí as taxas
+  historicamente baixíssimas da profissão.
+- **Anatomia de um refino** (cap. 1569) `[segredo]` — a distinção mais útil do sistema:
+  - **Etapas cruciais** — onde as dao marks colidem e se entrelaçam. **Não podem ser controladas**
+    pelo refinador; são regidas por acaso puro.
+  - **Etapas de processamento** dos materiais imortais — a **maioria** das etapas totais (o caso
+    registrado teve "mais de dez mil passos"). **Podem** ser otimizadas ao melhor estado possível,
+    elevando a taxa final ao custo de material extra.
+  - **Corolário de design de receita**: uma receita "perfeita" é a que **reduz o número de etapas
+    cruciais ao mínimo** (o caso registrado tinha apenas **3**) e joga todo o resto em processamento.
+- **Números concretos de taxa de sucesso**:
+  | Situação | Taxa | Cap. |
+  |---|---|---|
+  | Gu Immortal comum refinando um Immortal Gu | **1%** já seria motivo de alegria | 1569 |
+  | Receita própria deduzida com attainment quasi-supreme de refinement path + apoio da maior força de refino da era + sorte reforçada | **50%** | 1569 |
+  | A mesma receita, deliberadamente sabotada para esconder uma armadilha | 40% | 1756-1758 |
+  | Regret Pool: refazer um Immortal Gu **destruído** a partir da insígnia do refino original | **50-60%** | 2077 |
+  | Four Elements Square Regret Blood Refinement Pool, rank 8 em série | 50-60% mesmo em rank 8 | 2080 |
+  | Método de transformação racial reformulado por um quasi-supreme grandmaster | de "extremamente pequena" para **~10%** | 1842 |
+- **Custo comparativo** (cap. 2080): refinar um Immortal Gu rank 8 **fora** de uma grande instalação
+  de refinement path custa **pelo menos 10× mais materiais imortais**. O texto dá o contraste: um
+  rank 8 esgotou todas as reservas e espremeu subordinados para reunir material para **um único**
+  Immortal Gu rank 8, ao custo do colapso de toda a sua blessed land.
+- **Four Elements Square Regret Blood Refinement Pool** (caps. 2077, 2119) `[segredo]` — a síntese
+  histórica do refinement path, e a peça mecânica mais importante do V6 nesse domínio. Funde quatro
+  tecnologias:
+  1. **Regret Pool** (uma das três piscinas lendárias do mundo, com Heavenly Pool e Wine Pool):
+     refina **de novo** um Immortal Gu destruído usando a **insígnia** deixada no refino original
+     bem-sucedido + o fluxo do River of Time.
+  2. **Refinement Cauldron** — obra-prima de Long Hair Ancestor, capaz de **refinar à força** os
+     Immortal Gu de invasores (usada historicamente para defender uma blessed land de sete ondas de
+     ataque).
+  3. **Long Hair refinement path formation** — a fundação histórica da Lang Ya Sect, só operável por
+     hairy man Gu Immortals.
+  4. **Refinement Sea** — o secluded domain artificial (incompleto) de refinement path.
+  - Incorpora ainda dezenas de técnicas históricas nomeadas: flesh body blood refinement technique,
+    seven kill blood path Gu refinement method, Bei Luo ice refinement method, slumbering lightning
+    python, wind grind, reflect snow, muffled thunder stone drum, dragon-shaped blizzard, heavenly
+    light ring, refinement snake lifespan flower, omnipresent four seas e "one step back, sea and sky
+    expands".
+  - **Efeito**: reduz drasticamente o custo e eleva a taxa de sucesso; permite **produção em série**
+    de Immortal Gu rank 8 (mais de 50 refinados até o cap. 2213) — algo que "supera os limites da
+    imaginação de qualquer Gu Immortal", já que o normal é lutar a vida inteira por UM sucesso no
+    próprio teto de rank.
+  - **Insígnia e recuperação**: todo Immortal Gu refinado pela Pool fica marcado; se depois for
+    destruído, a Pool o **refaz** com taxa MAIOR que a de um refino do zero — é o mecanismo que
+    permite recuperar Immortal Gu rank 8 perdidos em combate em poucos dias (cap. 2213).
+  - **Tetos que permanecem**: nem com a Pool se refina Immortal Gu **rank 9 ou 10**; e certos rank 8
+    ficam de fora por **falta de material** (ex.: material imortal rank 8 de luck path). O gargalo
+    real que sobra é a **regra de unicidade** — não pode haver duplicatas de um Immortal Gu no mundo
+    (caps. 2119, 2213).
+- **Wild Immortal Gu subindo de rank sem refino** (cap. 2020) `[segredo]` — via concreta para
+  ultrapassar o teto de rank 8 de um Gu:
+  - Um wild Immortal Gu nascido espontaneamente num resource point (ex.: um lightning Gu numa
+    "lightning forest") **sobe de rank continuamente** se o dono injetar recursos **no ambiente ao
+    redor**, em vez de refinar o Gu.
+  - **Refinar o Gu interrompe o processo permanentemente** — é a própria natureza que está refinando
+    o Gu, e o processo não pode ser retomado depois.
+  - Quanto **maior a escala do ambiente**, mais alto o rank alcançável. É um método deliberado e
+    replicável de elevar um Immortal Gu selvagem **além de rank 8**.
+- **Wisdom Gu selvagem**: só Veneráveis rank 9 conseguem subjugá-lo e refiná-lo — e mesmo assim, um
+  Venerável levou **quase 100 anos** para refinar um wisdom Gu rank 9 depois de já ser rank 9
+  (cap. 1557) `[segredo]`.
+- **Refino coletivo multigeracional** (cap. 1639) `[segredo]`: um Venerável pode criar um killer move
+  rank 9 a partir de uma **entidade natural** que ele não consegue refinar sozinho. A entidade fica
+  **presa na forma de killer move**, o que reduz drasticamente a taxa de **reposição da heaven's will**
+  nela contida; o refino final fica para as **gerações futuras de vontades** que se acumulam ali ao
+  longo do tempo. Corolário registrado: uma vontade eliminada nessa disputa leva **~1.000 anos** para
+  se recuperar (cap. 1644) — não se esclarece se o número é geral ou específico daquele golpe.
+- **Refino de dao marks alheias em pleno combate** (cap. 2334) `[segredo]`: um refinement path em
+  nível de Venerável **limpa com a mão** as dao marks residuais que um golpe inimigo de acúmulo
+  progressivo deixa no corpo e as **refina para si** — convertendo o dano do adversário em recurso
+  gratuito e anulando por completo um combat system baseado em acúmulo.
+- **Favored Heart** (rank 9, luck path; cap. 2076-2078): o material imortal no núcleo de todo
+  **Earth Treasury**; permite refinar Immortal Gu de luck path **rank 9** — ou elevar a taxa de
+  sucesso ao refinar rank 8.
+- **Sacrifício de vida para completar um refino** (cap. 1952): a última centelha de vida do refinador
+  pode ser gasta para reforçar e estabilizar um refino de rank 9 em curso, completando-o ao custo da
+  própria morte. Há também transferência de vitalidade entre Gu Immortals aliados, com custo de vida
+  para quem doa.
+- **Refino sob perseguição** (cap. 2334): o refino de um Immortal Gu rank 9 é descrito com **99
+  etapas**; a etapa final pode ser concluída sob fogo se o refinador comprar tempo sacrificando
+  recursos em cascata (golpe rank 9 → ocultação → tolerância a dano físico).
+
+### Killer moves — categorias e escalas fechadas (V5b/V6)
+
+- **Escala completa de área/complexidade** (fecha o quadro do V4/V5-1ª metade):
+  | Categoria | Escopo | Requisito | Cap. |
+  |---|---|---|---|
+  | Killer move usual | pontual/local | vários Gu worms coordenados | — |
+  | **Quasi-battlefield killer move** | **até mil li** | mais forte que um golpe comum, ainda não um battlefield | 2213 |
+  | Battlefield killer move | bolha/ambiente próprio | cria um ambiente que **suprime certos paths e amplifica outros** | 1699-1700 |
+  | **Immortal battlefield killer move** | milhares de li | **múltiplas Immortal Gu Houses** operando como núcleos, cada Gu Immortal dentro delas gastando essência continuamente | 1521-1522 |
+  | Ancient battle formation / Gu formation / Gu House | território | ver seções próprias | 2118 |
+  | **Totem killer move** | corpo do usuário | dao marks gravadas no corpo | 2112-2118 |
+- **Immortal battlefield killer move — anatomia** (caps. 1521-1523, 1538-1543): combina 3 killer moves
+  ou 3 Immortal Gu Houses num efeito unificado; prende até rank 8; costuma ter **variações/estágios
+  progressivos** (o caso registrado tem três: terreno transformado → onda ofensiva → "guerreiros"
+  invocados que aceitam ter um immortal killer move **instilado** e detonam ao comando, permitindo
+  usar golpes por meio de **proxies descartáveis**, sem custo ou risco direto para o usuário).
+- **Battlefield killer move como supressor seletivo de path** (cap. 1699-1700): o efeito canônico é
+  criar uma bolha que suprime **todos** os paths exceto o do dono. O de information path registrado é
+  descrito como o de **ativação mais rápida** já visto no mundo.
+- **Battlefield alimentado por battle will** (caps. 1538-1543) `[segredo]`: um immortal battlefield
+  pode recrutar a **vontade de batalha** de todos os presentes — inclusive **mortais** — como
+  combustível, e evoluir para um **dream realm dentro do próprio campo de batalha** (mecânica de
+  "reincarnation battlefield"). Limite estrutural declarado: o criador só consegue **influenciar**, não
+  **controlar**, o resultado quando os participantes que alimentam o sonho são poderosos — a robustez
+  do dream realm depende da **qualidade da vontade coletiva investida**.
+- **Battlefield killer move latente em terreno** (cap. 1526): uma região saturada de dao marks de um
+  path por um massacre histórico é literalmente um **battlefield killer move incompleto**, cujo "dono"
+  é a besta lendária nascida daquelas dao marks — ela pode ativar o terreno inteiro como um único
+  golpe de convocação.
+- **Compound killer move (V6)** (caps. 2049, 2103-2107) `[especializado]`: a fusão **primária** de
+  dois ou mais paths num só golpe (não um path central com apoio de outro). Mais poderoso, mais raro,
+  e sofre **fricção interna** entre os paths — atenuável apenas por **heaven path dao marks**.
+  - Exemplo de escala máxima registrado: um único golpe combinando **poison + enslavement +
+    refinement + wood + food path**, mais consumo de unrestrained heavenly marks, com profundidade de
+    heaven path embutida que nenhum estudioso do mundo detecta (porque ninguém cultiva heaven path).
+  - Compound **battlefield** killer move: campo de neblina que aprisiona um alvo, gera atacantes
+    ilusórios que **desaceleram o pensamento** (wisdom path) e **roubam Immortal Gu** a cada acerto
+    (theft path), e reduz o alcance dos golpes investigativos do preso a **menos da metade** (cap. 2106).
+  - Doutrina explícita: um compound killer move novo **só amadurece em combate real** contra
+    oponentes fortes — nunca na teoria isolada (cap. 2107).
+- **Origem histórica do battlefield killer move** (caps. 2115-2117): a inspiração da **primeira**
+  battlefield killer move da história foi uma besta lendária que puxa quem a encontra para dentro de
+  um **campo de batalha natural**, onde calamidades e tribulações caem sem parar até o grupo escapar
+  ou morrer.
+- **Interromper o próprio killer move em ativação causa backlash** (cap. 2213) — confirma e generaliza
+  a regra de backlash escalonado por estágio de interrupção do V5-1ª metade (cap. 1311).
+- **Killer moves "queimados"**: um golpe de assinatura exposto publicamente numa grande batalha fica
+  temporariamente inseguro contra adversários de topo e **precisa ser modificado antes do reuso**
+  (caps. 2215-2216).
+- **Detecção de ilusão por heaven's will** (cap. 2090) `[segredo]`: golpes que rastreiam heaven's will
+  (heaven's will dissipation) distinguem **ilusão real** de realidade, mas **falham** contra uma
+  construção totalmente falsa — um dream realm falso não carrega heaven's will nenhuma para detectar.
+
+### Immortal Gu Houses — regras fechadas (V5b/V6)
+
+- **Controle coletivo é a norma** (cap. 1806): uma Immortal Gu House normalmente precisa ser
+  controlada **em conjunto por vários Gu Immortals** para ser flexível e versátil; algumas exigem um
+  número **exato** de operadores (nem mais, nem menos). Poucas são operáveis por **uma só pessoa** —
+  casos raros e notáveis.
+- **O Gu núcleo é insubstituível** (cap. 1795): se o Gu **núcleo** de uma Immortal Gu House é
+  destruído, a House não pode ser reconstruída — ao contrário dos Gu **suplementares**, que são
+  repostos. Corolário registrado no fim da obra: uma Immortal Gu House rank 9 cujo núcleo era um Gu
+  rank 9 destruído **não pode mais ser reconstruída** (cap. 2253).
+- **Immortal Gu House de núcleo-golpe** (cap. 2049): categoria rara em que o elemento fundacional não
+  é um Gu específico, mas **um killer move em si**.
+- **Aprendizado adaptativo** (cap. 2261) `[segredo]`: uma Immortal Gu House deixada **dentro** de uma
+  formação inimiga por tempo suficiente pode "aprender" as regras internas dela e depois explorar esse
+  conhecimento ofensivamente, libertando o que a formação prendia e causando colapso com backlash.
+- **Vulnerabilidade a food path** (cap. 1925): há golpes de food path que **atravessam a proteção
+  estrutural** de uma Immortal Gu House — matam os Gu worms dentro dela *e* desintegram os immortal
+  essence beads dos Gu Immortals abrigados. Regra de mundo associada: como o food path circulou pouco
+  historicamente, quase todas as regiões têm defesa fraca contra ele — um **ponto cego regional**.
+- **Autodetonação** (cap. 1967): existe método para detonar propositalmente a própria Immortal Gu
+  House.
+
+### Unicidade de Immortal Gu — a regra que estrangula o endgame
+
+`[especializado]` — a regra de que **não existem duplicatas** de um Immortal Gu no mundo é reafirmada
+e virada em gargalo estrutural no V6.
+
+- Um refinador com processo **correto** e materiais completos **falha repetidamente** se outro já
+  refinou o exemplar idêntico primeiro — confirmado inclusive em luck path (cap. 1852).
+- **Variantes contam como Gu distintos**: dois Gu de mesma família com "sabor" ligeiramente diferente
+  (uma formiga de fogo × uma de água, por exemplo) são **Immortal Gu diferentes** e podem coexistir
+  (cap. 2108).
+- **Gu Immortals podem nascer espontaneamente** de criaturas mortais que devoram recursos suficientes
+  num ambiente arrasado — mas o resultado é **imprevisível e não desenhável** (não se escolhe qual Gu
+  nasce), e a eficiência é péssima: dois Immortal Gu rank 6 obtidos assim custaram recursos
+  equivalentes a mais de dez rank 7 pelos métodos normais (cap. 2108).
+- **Gargalo para um Venerável**: mesmo com attainment supreme grandmaster num path, é impossível
+  simplesmente "recriar" os Gu fundadores desse path se terceiros já os detêm — a única saída real é
+  **negociar/comprar**. Attainment teórico máximo **não** resolve escassez de artefato (cap. 2246).
+- **Regime de transação em três categorias** (cap. 2251): **Immortal Gu não podem ser vendidos** (mas
+  **podem ser emprestados**); **killer moves imortais e receitas de Immortal Gu podem ser vendidos**.
+  Mesmo o maior mercado do mundo raramente vê Immortal Gu sendo negociados.
+- **Modelo de troca que contorna a regra** (cap. 2255): em vez de trocar Gu por Gu, oferece-se o
+  **serviço de refinar até rank 8** um Immortal Gu que o clã já possui, em troca de território
+  (montanhas famosas usadas como nós de earth vein). A justificativa comercial é simétrica: montanhas
+  famosas são resource points contínuos, mas **alimentar** um Immortal Gu rank 8 também consome
+  recursos continuamente.
+
+### Alimentação de Immortal Gu — escala por rank (fechamento)
+
+- **Rank 8 é "um projeto enorme"** (caps. 1681, 2080) `[especializado]`: alimentar Immortal Gu rank 8
+  é logisticamente difícil **em proporção ao rank**, e o fardo cresce com a quantidade possuída. Um
+  único Gu rank 8 chegou a exigir a construção de **um pântano inteiro** só para alimentá-lo.
+  - **Mitigações**: zonas de tempo lento (**year essence sub-pools**) dentro da própria aperture e
+    **heaven path dao marks** aliviam bastante o fardo.
+- **Rank 9 inverte a curva** (cap. 2292): quanto **maior** o rank, **menos frequente** a alimentação.
+  Um Gu rank 9 pode ser fácil de alimentar; a dificuldade passa a ser a **raridade do alimento** — um
+  rank 9 registrado come um campo extenso de "splendid clouds" (material imortal rank 6-9), exigindo
+  cultivar uma "fazenda" de longo prazo dentro da própria aperture para a próxima refeição.
+- **Alimentação por compra é insustentável** (cap. 1600): manter um Immortal Gu rank 7 comprando
+  alimento no mercado é caro demais a longo prazo — o modelo viável é ter **resource point próprio**.
+  É a base econômica de todo o desenvolvimento de aperture no V6.
+- **Custo de dormir**: Gu Immortals que hibernam cedem a maior parte de seus Immortal Gu ao tesouro
+  coletivo — em parte para otimizar recursos, em parte porque **alguém precisa alimentar os Gu
+  enquanto o dono dorme**. Consequência prática: veteranos recém-acordados são rank 8 de elite mas
+  **subequipados em Immortal Gu**, mesmo com essência imortal abundante (caps. 1715, 1718).
+- **Preservação sem alimentação**: um Immortal Gu selado dentro de uma **rocha imortal** por outro Gu
+  sobrevive sem comer por períodos longuíssimos (registro: 1 milhão de anos), mas emerge no **limite
+  da fome** (caps. 1842, 1862).

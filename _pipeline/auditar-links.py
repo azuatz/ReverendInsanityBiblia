@@ -38,7 +38,8 @@ def main():
     for p in files:
         t = limpar_codigo(io.open(p, encoding="utf-8").read())
         for lk in re.findall(r"\[\[([^\]|#\n]+)", t):
-            lk = lk.strip()
+            # dentro de tabelas o Obsidian exige escapar o pipe como \| — remova a barra final
+            lk = lk.strip().rstrip("\\").strip()
             if lk in fname:
                 exato += 1
             elif lk in alias:

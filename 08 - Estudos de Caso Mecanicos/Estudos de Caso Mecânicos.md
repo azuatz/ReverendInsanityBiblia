@@ -373,6 +373,22 @@ uma loteria em quase-certeza.
 
 ## 6. Anexação de aberturas: fundação vence rank
 
+> [!warning] Antes de tudo: o que é "fundação"
+> ==Fundação== é a palavra do mundo para **o tamanho e a solidez acumulados da base de um
+> cultivador** — tudo o que ele construiu, somado. Não é uma estatística única que se
+> possa ler numa ficha; é o conjunto de:
+>
+> - o **tamanho e a qualidade do território pessoal** dele (a [[Blessed Lands e Grotto-Heavens|terra abençoada ou gruta-céu]] em que sua abertura se transformou ao virar imortal);
+> - o acervo de **[[Dao Marks|dao marks]]** que ele carrega, que é o atributo de progressão do reino imortal;
+> - o **[[Attainment|attainment]]** — o domínio teórico dos caminhos que pratica;
+> - e o acervo de artefatos e heranças que sustenta os três.
+>
+> A ideia toda cabe numa frase: **rank é quão alto você chegou; fundação é quão largo você
+> é**. Duas pessoas de rank 7 podem ter fundações muito diferentes, e é a fundação — não o
+> rank — que decide vários testes do sistema, este caso entre eles. Ter "fundação profunda"
+> é o elogio que o mundo faz a quem subiu devagar e completo; "fundação instável" é a
+> acusação contra quem subiu rápido por atalho.
+
 **Regra ilustrada:** um cultivador imortal pode **anexar** o território pessoal de outro
 imortal morto, incorporando-o ao próprio. A regra decisiva, e contraintuitiva, é que o
 teste não é entre **ranks de cultivo**: é entre **fundações**. Quem tem a base maior
@@ -391,11 +407,27 @@ ambiente inteiro com eficiência total e nenhuma adaptação necessária. E o ga
 promoveu o anexador imediatamente de rank 6 para rank 7 — **pulando as provações que
 normalmente separam os dois**.
 
-**O verdadeiro limiar é o domínio técnico, não o rank:** um nível de domínio "mestre" basta
-para anexar territórios de rank 6; um domínio quase-superior serve para a maioria deles;
-mas "mestre" **não** basta para um território de rank 7. Numa mesma expedição, de três
-territórios capturados, um ficou de fora por domínio insuficiente e teve de ser abandonado
-como propriedade solta.
+**O verdadeiro limiar é o [[Attainment|attainment]], não o rank.** *Attainment* é o eixo de
+**domínio teórico** de um caminho de cultivo — o quanto a pessoa *entende* daquilo, em
+oposição a quanta energia ela tem —, e ele é completamente independente do rank. A escala
+completa está em [[Tabelas de Referência Rápida]]; os degraus que interessam aqui são
+**Mestre**, **Quase Grão-Mestre** e **Grão-Mestre**. Na prática da anexação:
+
+| Attainment do anexador | O que ele consegue anexar |
+|---|---|
+| **Mestre** | territórios de rank 6 — e **só** eles |
+| **Quase Grão-Mestre** | a maioria dos territórios de rank 6, com folga |
+| Abaixo de Grão-Mestre | **não** basta para um território de rank 7 |
+
+Numa mesma expedição, de três territórios capturados, um ficou de fora por attainment
+insuficiente e teve de ser abandonado como propriedade solta.
+
+> [!warning] Cuidado com a palavra "Mestre"
+> Ela nomeia duas coisas diferentes em português. **Mestre Gu** é o nome genérico de
+> qualquer cultivador deste mundo. **Mestre**, sozinho, é o primeiro degrau da escala de
+> attainment acima. Neste caso, sempre que aparecer "Mestre" isolado, é o degrau de
+> attainment. Uma versão anterior desta nota usava "quase-superior", que não é um degrau da
+> escala — era erro nosso, e o degrau correto é **Quase Grão-Mestre**.
 
 ### A linha de montagem
 

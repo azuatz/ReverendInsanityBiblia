@@ -162,8 +162,11 @@ Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativ
 > Preso dentro de um escudo de rank 5 durante o caos de um confronto, um Mestre Gu rank 3 de grau C usou um Gu demoníaco roubado para converter cada morte ao seu redor em aptidão permanente, saltando de 43% para mais de 90% em poucas horas. É a exceção que confirma a regra: a aptidão é alterável — pelos métodos mais caros e sombrios que o mundo possui.
 >
 > **Duas coisas neste caso quebram travas do sistema, e vale nomeá-las**, porque de outro
-> modo o exemplo parece impossível. Primeira: um Mestre de **nível 3** está acionando um Gu
-> de **nível 4**, o que normalmente destruiria a abertura dele. A exceção em jogo é a de
+> modo o exemplo parece impossível. Primeira: um Mestre de **nível 3** está acionando o
+> **Crânio de Sangue**, um Gu de **nível 4** do [[Blood Path|caminho do sangue]] — o que
+> normalmente destruiria a abertura dele. É uma exceção real à trava de rank, e não um
+> descuido do material: [[Blood Path]] a registra e discute as duas leituras possíveis do
+> mecanismo, ambas marcadas como leitura nossa. A família a que ela pertence é a do
 > combustível alternativo — Gu demoníacos como esse cobram em **vidas e sangue**, não na
 > essência do usuário, e a trava de rank é uma trava de recurso (a lista completa das
 > exceções está em [[Ranks e Avanço#As exceções à trava de rank]]). Segunda: os 43% de

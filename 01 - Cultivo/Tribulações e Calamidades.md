@@ -63,7 +63,27 @@ A hierarquia de força é estrita: calamidade terrena < tribulação celestial <
 
 A tribulação miríade é categoria à parte: um imortal que passou com folga por tudo o que veio antes pode ser pego de surpresa pela primeira, e ela pode ser de um caminho completamente alheio ao dele. **Somente dez pessoas em toda a história passaram pelas três miríades** — e são exatamente os dez [[Tornar-se Venerável|Veneráveis]].
 
-Duas notas importantes: calamidades e tribulações só ocorrem **dentro de aberturas imortais**, nunca nas terras do mundo comum. E uma abertura morta — o caso dos mortos-vivos imortais — não sofre nenhuma provação, e por isso também não ganha dao mark algum.
+Duas notas importantes: as provações **do calendário** só ocorrem dentro de aberturas imortais, nunca nas terras do mundo comum. E uma abertura morta — o caso dos mortos-vivos imortais — não sofre nenhuma provação, e por isso também não ganha dao mark algum.
+
+> [!warning] Existem provações fora do calendário, e elas seguem outras regras
+> A tabela acima descreve o **calendário**: as provações que o mundo agenda sozinho, em
+> ciclos fixos, dentro da abertura de cada imortal. Ela não é a lista completa de tudo o que
+> o céu manda contra alguém. Há pelo menos três categorias que ficam de fora e não devem ser
+> confundidas com as do calendário:
+>
+> - **Provações induzidas pelo próprio cultivador.** Certos caminhos — o do céu é o exemplo
+>   extremo — progridem *convocando deliberadamente* uma catástrofe adaptativa, fora de
+>   qualquer ciclo e sem depender da abertura. Não são tribulações miríades adiantadas: são
+>   outra coisa, com outro gatilho e outro calendário (nenhum).
+> - **Provações fabricadas por terceiros.** Quem tem poder e conhecimento suficientes invoca
+>   cópias amplificadas de tribulações reais contra um alvo, mesmo que ele não esteja
+>   avançando de rank.
+> - **A tribulação de nascimento**, que atinge quem nasce com sorte ou talento excepcionais
+>   e não tem relação nenhuma com o ciclo de aberturas imortais.
+>
+> A regra de leitura, portanto: **"só dentro de aberturas imortais" vale para o calendário,
+> não para a categoria**. Quando uma nota deste material descrever uma provação fora desse
+> contexto, ela é de um destes três tipos.
 
 > [!warning] O relógio interno é um só — e é por isso que o atalho óbvio não existe
 > Esta é a pergunta que todo jogador vai fazer na primeira sessão, então convém

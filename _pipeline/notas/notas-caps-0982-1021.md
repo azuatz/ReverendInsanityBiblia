@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 982–1021 (Volume 4)
 
-> Progresso da leitura: até o cap. 1001
+> Progresso da leitura: até o cap. 1011
 > Status: em-andamento
 
 ## 1. Mecânicas e regras

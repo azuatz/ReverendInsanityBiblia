@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 1022–1062 (Volume 5)
 
-> Progresso da leitura: até o cap. 1041
+> Progresso da leitura: até o cap. 1046
 > Status: em-andamento
 
 ## 1. Mecânicas e regras

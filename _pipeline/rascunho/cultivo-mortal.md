@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Cultivo mortal (aperture, aptidão, essência, ranks 1–5)
 
-> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513).
+> **Rascunho interno** — cobre até: **Volume 6 (obra completa)**.
+> **V5 2ª metade + V6**: a lacuna histórica dos limiares percentuais de rank 3/4/5 fecha em definitivo como **não respondida pela obra** (varredura capítulo a capítulo de 1514 a 2334 — o reino imortal usa critérios temporais/de tribulação, não percentuais); em compensação o V6 entrega a **industrialização da aptidão** (congregated human talent, blood skull rank 5, formações de elevação em massa a grau A), a confirmação de que **relic Gu são human path** e a escala completa de fundação de alma até `hundred million desolate soul`. Ver seções "Atualizações do Volume 5 — 2ª metade" e "Atualizações do Volume 6" ao final.
 > **1ª metade do Volume 5**: fecha o **grau D de aptidão em 20–30%** (cap. 1491, batendo com a descrição de "2-3 camadas" do V1) e entrega a **escala completa da fundação de alma** — man soul → 100 milhões (limiar de solidificação) → 900 milhões (teto do tier) → *desolate soul* → teto absoluto do mundo em 100 milhões de desolate soul (caps. 1460, 1505, 1509). Ver também a nota de correção `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`, incorporada abaixo.
 > Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção. NOTA V4: os 372 capítulos do Volume 4 se passam quase inteiramente no reino imortal — **nenhum novo limiar percentual de aptidão para ruptura de rank apareceu** (a prioridade de LACUNAS.md segue aberta); as novidades mortais estão na seção V4 ao final.
 
@@ -31,7 +32,11 @@ Todo cultivador deste mundo é um **Mestre Gu**: aos 15 anos forma, na Cerimôni
 13. `[comum]` **A aptidão é o TETO de armazenamento da abertura, e por isso funciona como trava direta de rank**: romper a parede para o rank 2 exige projetar **55% da essência de uma só vez** (caps. 90-91) — quem não alcança a porcentagem simplesmente não rompe sem ajuda externa. Faixas canônicas: **grau D 20–30%** (caps. 1491 e V1), **C 40–59%**, **B 60–79%**, **A 80–99%**, **Constituição Extrema 100%**. Abaixo de 20% não existe grau inferior: a pessoa não é Mestre Gu (V1). O grau C só passa ao rank 2 na faixa 55–59% e quase nunca alcança o rank 3 (caps. 91, 105); o grau D raramente passa do rank 1 (cap. 1491). `inferido (coerente com o texto)`: os limiares seguintes seriam 65/75/85 — só o 55% é canônico (ver `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`).
 14. `[especializado]` **Dois eixos independentes da essência**: densidade **×2 a cada estágio** (pequeno reino) e qualidade **×10 a cada rank** (grande reino, cap. 26); o custo de CONVERSÃO entre estágios é 4:1 (caps. 29, 34) e não deve ser confundido com potência. Quantidade armazenada (aptidão, em % da abertura) e qualidade da essência são escalas ortogonais — um grau A rank 1 tem muito mais essência que um grau D rank 1, mas a essência dos dois é igualmente verde-cobre.
 15. `[especializado]` **A escada percentual termina no mundo mortal**: a ascensão 5→6 não é "encher 100%" — é estilhaçar a abertura e equilibrar os três qi (ver `cultivo-imortal.md`). Na passagem imortal a aptidão deixa de mandar; o que decide é o **human qi acumulado nos ranks 1-5**, que fixa a grade da abertura imortal resultante (cap. 1367).
-16. `[especializado]` **Escala da fundação de alma, fechada**: single → ten → hundred → thousand → … → million → ten million → **hundred million man soul** (limiar de SOLIDIFICAÇÃO: a alma deixa de ser fantasmagórica e passa a interferir fisicamente no mundo real, caps. 1460, 1508); daí em incrementos de 100 milhões até **900 milhões**, teto do tier; o salto seguinte é qualitativo, para **desolate soul**; o teto absoluto que o mundo comporta é **100 milhões de desolate soul** (caps. 1505, 1509).
+16. `[especializado]` **Escala da fundação de alma, fechada**: single → ten → hundred → thousand → … → million → ten million → **hundred million man soul**, que é o **limite racial da alma humana** e o limiar de SOLIDIFICAÇÃO (a alma deixa de ser fantasmagórica e passa a interferir fisicamente no mundo real — caps. 1460, 1508, 1803). O salto seguinte é qualitativo, para **desolate soul** (só possível porque o Fate Gu foi ferido), e a escala segue 1 → 3 → 5 → 8 → 10 → … → **100 milhões de desolate soul**, teto absoluto que o mundo comporta, força quase-rank 9 (caps. 1804, 2128, 2274). **Custo estrutural**: avançar no desolate soul substitui progressivamente a natureza humana por natureza bestial/celestial — poder bruto pago com sanidade (cap. 2274).
+17. `[especializado]` **A aptidão é mutável em três direções, e no fim da obra vira infraestrutura**: sobe (Gu de elevar talento, blood skull Gu, polished gold Gu, formações de blood path em massa), cai (dano à abertura por técnica proibida rebaixa grau A→B, cap. 1646; contaminação por essência alheia) e pode ser **transferida entre pessoas** (congregated human talent concentra a aptidão de muitos num grupo pequeno, cap. 2138). No V6 há métodos que elevam **clãs inteiros ao grau A** (caps. 2298-2299) e um Gu que **desperta à força a abertura de quem não tem aptidão nenhuma** (man triumphing heaven Gu, cap. 2295).
+18. `[especializado]` **Trocar o combustível de ativação fura a trava de rank**: um Gu que consome medula óssea em vez de essência primeva permite a um rank 1 usar um Gu rank 5, ao preço de dano corporal potencialmente letal (caps. 1657, 1659). Alguns Gu têm ainda condições de ativação **de crença**, não de recurso (Justice Gu exige convicção genuína de estar do lado certo, caps. 1819-1820).
+19. `[especializado]` **Relic Gu (avanço instantâneo de um pequeno estágio) são Gu de human path**: formam-se naturalmente só onde há muitos humanos e **não podem ser refinados por ninguém**, nem pela Heavenly Court (cap. 1796). Progressão comprável é limitada pela demografia, não pela tecnologia.
+20. `[segredo]` **Pedras primevas carregam heaven's will** e influenciam sutilmente os pensamentos de quem as absorve — um dos métodos do céu para controlar cultivadores; essência primeva e imortal carregam a **vontade humana** de quem as gerou (caps. 2295-2334).
 
 ---
 
@@ -207,14 +212,21 @@ Na cerimônia, o número de passos que o jovem consegue dar sobre o "mar de flor
 | 30–40 | B |
 | 40–50 | A |
 
-O grau se traduz numa **porcentagem de capacidade de essência primeva** na abertura. Faixas numéricas confirmadas no texto:
+O grau se traduz numa **porcentagem de capacidade de essência primeva** na abertura — e essa porcentagem é o **TETO de armazenamento**, não a taxa de enchimento: ao atingir o próprio limite, o mar primevo simplesmente para de subir "mesmo havendo espaço na abertura" (cap. 10). Faixas numéricas canônicas (corrigidas — fonte: `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md`, verificação direta no texto):
 
-| Grau | Capacidade da abertura | Exemplo |
+| Grau | Capacidade da abertura | Teto de progressão típico |
 |---|---|---|
-| D | abaixo de 40% (inferido; faixa exata não dita) | — |
-| C | 40–59% | 27 passos ≈ 44% |
-| B | 60–79% | — |
-| A | 80–99% | 99% é o máximo "comum" |
+| (sem talento) | **abaixo de 20%** | **não se torna Mestre Gu** — não existe grau abaixo do D (V1) |
+| D | **20–30%** | rank 1; no máximo rank 2 (caps. 1491 + descrição de "2-3 camadas" no V1) |
+| C | 40–59% | rank 2 (só na faixa 55–59%); rank 3 **quase nunca** (caps. 91, 105). 27 passos ≈ 44% |
+| B | 60–79% | rank 3, podendo 4 |
+| A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
+| Constituição Extrema | **100%** | ver [[As Dez Constituições Extremas]] abaixo |
+
+> [!warning] Correções aplicadas
+> A wiki e versões antigas deste rascunho diziam "D = abaixo de 40%" ou "20–39%" — **erradas**. O texto fixa D em 20–30%. A zona 31–39% nunca é descrita pela obra (provável arredondamento narrativo). E **não existe faixa abaixo de 20%**: o V1, ao descrever uma turma de jovens, separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu.
+
+**Por que a aptidão é uma trava de rank, e não só um "stat de mana":** romper a parede de cristal da abertura para subir de rank exige **projetar de uma só vez uma porcentagem mínima da essência primeva**. Como a aptidão fixa o teto de armazenamento, quem não alcança a porcentagem exigida **não rompe a parede sem ajuda externa**, por mais séculos que cultive. Canônico: **1→2 exige 55%** ("sem situações especiais", cap. 90) — daí o grau C só passar dentro da estreita faixa 55–59% (cap. 91), e um cultivador de 44% ficar travado no rank 2 por mais de cem anos até conseguir um Gu que eleve aptidão (cap. 105). `inferido (coerente com o texto)`: 65 / 75 / 85 para 2→3, 3→4 e 4→5 — só o 55% é canônico; ver a seção de correção para a justificativa e a marcação obrigatória como extrapolação.
 
 Efeitos práticos do grau:
 
@@ -585,3 +597,120 @@ Fonte: `_pipeline/pesquisa/CORRECAO-limiares-aptidao.md` (verificação direta n
 - (novo V5) Quanto o **polished gold Gu** eleva a aptidão — o texto nunca quantifica (caps. 1155, 1160).
 - (novo V5) A escala de soul foundation salta de 10 milhões (cap. 1471/1481) para 90 milhões (caps. 1503, 1495) sem evento explicativo registrado nas notas — possível erro de transcrição ou crescimento não narrado. Registrado em LACUNAS.
 - (novo V5) Zona de aptidão 31–39% (entre o topo do D e o piso do C) nunca é descrita pela obra.
+
+
+## Atualizações do Volume 5 — 2ª metade (caps. 1514–1966)
+
+### Aptidão — encerramento da lacuna dos limiares
+
+**Varredura explícita, bloco a bloco, dos caps. 1514 a 1966: NENHUM limiar percentual novo.** Os leitores registraram a ausência em praticamente todos os sub-blocos. Conclusão consolidada: **a obra nunca dá os limiares 2→3, 3→4 e 4→5**; o critério percentual só é enunciado para o 1→2 (55%, cap. 90). Do V4 em diante a narrativa vive no reino imortal, onde o avanço de rank usa critério **temporal e de tribulação** (300 anos / 3 tribulações — ver `cultivo-imortal.md`), não percentual. Trate 65/75/85 como reconstrução de design, jamais como cânone.
+
+Novos data points qualitativos:
+
+- `[comum]` A escala por letra segue em uso corrente para mortais: "B grade aptitude" atribuída a uma mortal comum (cap. 1532); "C grade aptitude" com baixo potencial (cap. 1542).
+- `[especializado]` **Dano à abertura rebaixa o grau de aptidão — confirmado**: uma "forbidden technique" usada em desespero pode rachar permanentemente as paredes da abertura, rebaixando o cultivador de **grau A para grau B**. A cura restaura a porcentagem, mas as rachaduras estruturais podem ser **deliberadamente deixadas por terceiros**, porque tornam a ruptura da abertura na ascensão imortal mais fácil (cap. 1646). É a primeira vez que a obra mostra aptidão sendo sacrificada de propósito como investimento na ascensão.
+- `[especializado]` **Human qi não é função da aptidão**: na ascensão 5→6, a densidade do human qi reflete **experiência de vida, fundação e habilidades** da pessoa — um Mestre Gu muito vivido, mesmo com aptidão rebaixada de A para B por dano, exibe human qi excepcionalmente denso (cap. 1646). Reforça a regra 15: a escada percentual acaba no rank 5.
+- `[especializado]` **Righteous Virtue Physique** (encenada dentro de um dream realm, mas mecanicamente coerente): o *accumulate virtue Gu* se autorrefina na própria abertura a cada ato genuíno de bondade, subindo de rank conforme a virtude acumula; o uso final é **mudar a aptidão de cultivo**, convertendo o praticante numa constituição descrita como "só inferior às dez extreme physiques", mas **sem nenhuma das falhas delas** (cap. 1542). Ver `transformacoes-e-corpos-especiais.md`.
+- `[comum]` Rumor persistente e recorrente no mundo mortal: **existem Gu capazes de mudar a aptidão** — tratado como boato raro fora dos círculos que realmente os possuem (cap. 1542). Confirma que a mutabilidade da aptidão é conhecimento de elite, não de rua.
+- `[especializado]` **Pure Dream Reality Seeker Physique (11ª extreme physique) — cultivo mortal sem obstáculos**: o corpo do pure dream clone sobe de rank 1 (verde-cobre) a rank 5 pico (cristal-roxo) em **horas**, apenas consumindo relic Gu em sequência; cada relic Gu eleva a membrana da abertura (luz → água → pedra → cristal) e o salto de rank ocorre **sem precisar quebrar a membrana de cristal manualmente**. A abertura dessa constituição nasce preenchida com mais de 90% de essência verde-cobre ilusória (cap. 1796). É a exceção mais radical à regra de dificuldade crescente entre pequenos reinos.
+
+### Relic Gu — a revelação decisiva: são Gu de HUMAN PATH
+
+`[especializado]` (fecha a ficha aberta no V3; cap. 1796)
+
+Gu mortal esférico do tamanho de um polegar; consumido, **reforça a parede da abertura e avança o cultivo em um pequeno estágio instantaneamente**. Cinco ranks espelhando os cinco ranks mortais, com preços de mercado agora explícitos:
+
+| Rank | Nome | Preço / disponibilidade |
+|---|---|---|
+| 1 | green copper relic Gu | comum |
+| 2 | red steel relic Gu | **8.000 pedras primevas** — mais caro que Gu comuns de rank 3 |
+| 3 | white silver relic Gu | **50.000 pedras primevas** |
+| 4 | yellow gold relic Gu | raro, controlado; em geral só nas mãos de altos escalões |
+| 5 | purple crystal relic Gu | extremamente raro, mesmo no Treasure Yellow Heaven |
+
+**A regra que explica a escassez**: relic Gu são Gu de **human path** e por isso se formam **naturalmente apenas em áreas com muitos humanos ou humanos variantes** — **não podem ser refinados artificialmente por nenhum Gu Immortal conhecido**, nem por Lang Ya blessed land, nem pela Heavenly Court. Daí circularem em quantidade só nos ranks 1–3 e serem quase inexistentes nos ranks 4–5. (A descoberta só é feita por um refinador com refinement path quasi-supreme grandmaster + human path master — ou seja, é `[segredo]` de fato.)
+
+> [!note] Para o design
+> Relic Gu é o "pergaminho de XP" do sistema: converte dinheiro em progresso de pequeno reino, mas com uma trava econômica elegante — o item **não é fabricável**, só colhido, e sua abundância é função da densidade populacional humana. Sociedade grande = progressão barata; fronteira despovoada = progressão cara. É uma alavanca de worldbuilding econômica pronta.
+
+### Fundação de alma — a escala fechada até o topo absoluto
+
+`[especializado]` a escala; `[segredo]` o topo e o custo.
+
+- **Camada 1 — human soul**: single → ten → hundred → thousand → … → million → ten million → **hundred million man soul**. Cem milhões é o **limite racial da alma humana**: antes de Spectral Soul Demon Venerable, **nenhum humano da história jamais o superou** (caps. 1803, 2128). Nesse ponto a alma **solidifica** — deixa de ser fantasmagórica e passa a interagir fisicamente com o mundo material — mas ainda é descrita como frágil.
+- **Camada 2 — desolate soul**: só existe porque Red Lotus Demon Venerable feriu o Fate Gu, o que afrouxou o teto; e só foi *descoberta* porque Spectral Soul criou o soul path com attainment de supreme grandmaster (caps. 1804, 2128). Ao cruzar, a força da alma muda de patamar ("como céu e terra" comparada a cem milhões de man soul) e passa a rivalizar com desolate beasts em combate direto.
+- **Escala do desolate soul**: 1 → 3 → 5 → 8 → 10 desolate soul (nomenclatura crescente não uniforme, caps. 1804, 1808), seguindo por dez → cem → mil → dez mil → cem mil → um milhão → dez milhões → **cem milhões de desolate soul**, fim da escala (caps. 2128, 2274). Nesse teto a alma se torna a **"Three Headed Thousand Arms Demon Soul"**, com força de combate **quase-rank 9**, resistindo sozinha a calamidades e tribulações — o teto absoluto de fundação de alma que o mundo comporta.
+- **Dao marks pela alma**: ao atingir desolate soul ganham-se **1.000 dao marks** de soul path na alma (cap. 1628, segundo a true inheritance de Spectral Soul).
+- **O método influencia o custo em dao marks**: quem cultiva pelas duas "terras sagradas" (Dang Hun Mountain e Luo Po Valley) atinge cem milhões de man soul com **poucos** dao marks de soul path; métodos alternativos exigiriam muito mais dao marks para a mesma fundação (cap. 1804). Regra geral valiosa: **caminho de cultivo escolhido = quantos dao marks o mesmo resultado custa**.
+- `[segredo]` **O defeito estrutural do desolate soul**: conforme a alma avança pelos estágios de desolate soul, a proporção de **natureza humana cai e é substituída por natureza bestial/celestial** — o método de Spectral Soul trocou controle e sanidade por poder bruto, e é exatamente por isso que ele próprio acabou sem sentidos, agindo por instinto. O diagnóstico feito no V6 é que **soul path precisa do suporte do human path** para não repetir o problema (cap. 2274).
+- **Humanos não voam**: uma alma humana pura flutua livremente enquanto for "human soul", mas ao virar desolate soul **perde a capacidade de voar** (humanos são inatamente incapazes de voar; featherman é exceção por não ser humano puro). Mesmo Spectral Soul, no auge, lutou de pé no chão (cap. 1804).
+- **Custo operacional da alma**: killer moves de ocultação (Emperor Yama) **consomem soul foundation continuamente enquanto ativos**; cada tentativa alheia de dedução que falha contra ele também **consome soul foundation do ALVO** (registro: 1 milhão de man soul perdido numa única tentativa inimiga) — caps. 1596, 1762-1764. Guts Gu é o recurso de restauração.
+- **Split Soul — número de corte**: exige fundação suficiente; só ativou com sucesso a partir de **60 milhões de man soul** (divisão 30M/30M entre corpo principal e clone), com "alta taxa de falha" mesmo para praticantes preparados e prática extensiva prévia (cap. 1796).
+- **Alma e corpo precisam "casar"**: um split soul implantado num corpo variante carrega só a alma humana original e **não conta como membro daquela raça** até passar por refino adicional que reduz drasticamente os dao marks de soul path (a dígitos únicos) e a fundação de alma (de dezenas de milhões para **poucas dezenas** de man soul), reconfigurando a alma para o corpo (cap. 1804). O mesmo descompasso ocorre com corpos imortais adquiridos e com o pure dream clone — exige longo período de cultivo + soul path para resolver.
+- **Fundação de alma é orçamento de escravização**: quanto mais profunda a alma, mais forte o controle de enslavement path, **independentemente do rank nominal de cultivo** — um clone com cultivo nominal de rank 3 domina adversários da mesma faixa porque a alma por trás é de Gu Immortal (cap. 1830). Vale também para instituições: o Dragon Palace, já escravizando 4 Dragon Generals, estava no limite — para escravizar mais, o Lorde precisa sustentar com a própria alma ou **dividir o fardo com outra alma** (cap. 1849). Controlar soul beasts acima do próprio rank exaure até o desmaio (caps. 1514, 1518).
+
+### Novas mecânicas mortais do V5-2ª metade
+
+- `[especializado]` **Gu que trocam o combustível**: o *Gather Oil Gu* (rank 5, criação documentada) consome **medula óssea do usuário em vez de essência primeva** — o que permite a um Mestre Gu **rank 1 usar um Gu rank 5**; uso excessivo sem proteção de bone path pode matar (caps. 1657, 1659). É a exceção mais limpa à regra "só se usa Gu de rank igual ou inferior": trocar o recurso de ativação fura a trava de rank, ao preço de queimar o corpo.
+- `[especializado]` **Condição de ativação por CRENÇA**: o *Justice Gu* (rank 4-5) exige, além da essência primeva, que o usuário **genuinamente acredite estar do lado da justiça**. Neutraliza-se induzindo dúvida ou vergonha sinceras nele, sem precisar de veneno algum (caps. 1819-1820). Precedente valioso: alguns Gu têm requisitos de estado mental, não só de recursos.
+- `[comum]` **Gu desenhados para pobres**: o *Water Shell Gu* (rank 2) foi criado deliberadamente com **materiais 100% locais e reproduzíveis** (conchas de praia) e consumo baixíssimo, para que uma aldeia miserável pudesse fabricá-lo sozinha (cap. 1654). Mostra que a receita de um Gu é uma tecnologia transferível e que "dar a receita" é um ato político.
+- `[comum]` **Recompensa de cultivo por mérito artístico**: o efeito *Assisting Literary Talents* da Profound Literature grotto-heaven recompensa automaticamente qualquer humano puro-sangue que crie ou recite poesia excepcional — **mortais comuns podem atrair hope Gu à distância e despertar a própria abertura cantando bons poemas**; Mestres Gu ganham Gu worms, recuperação de essência primeva ou **avanço direto de cultivo** (caps. 1684, 1976). Uma rota não marcial de progressão.
+- **Volume de Gu selvagens num resource point médio** (dado numérico raro): mais de **3.000 de rank 5, 50.000 de rank 4 e mais de 1 milhão de rank 3 ou abaixo** num único ponto (cap. 1590).
+- `[comum]` **Disparidade regional de nível mortal**: em **Emperor City** (maior cidade mortal do mundo, Central Continent) um Mestre Gu rank 3 é **comum**; em Southern Border um rank 3 é ancião de clã com autoridade (cap. 1931). Ver `sociedade-e-organizacoes.md`.
+- Riscos exclusivos de mortais: o Spring Autumn Cicada pode **estourar a abertura de um usuário mortal** — risco que desaparece ao virar imortal (cap. 1750).
+
+
+## Atualizações do Volume 6 (caps. 1967–2334)
+
+### A industrialização da aptidão (a grande novidade mortal do V6)
+
+O V6 transforma a aptidão de atributo pessoal em **insumo produzível em escala**. Três tecnologias, todas confirmadas:
+
+1. `[especializado]` **Congregated human talent** (golpe de human path, criado por Chai Fu, ancestral rank 8 do clã Chai): **concentra a aptidão de muitas pessoas num grupo pequeno**. É a fundação econômica inteira do clã Chai — eles **nutrem forasteiros mortais de aptidão medíocre** e transferem a aptidão coletiva desses forasteiros para os próprios clansmen, usando a **Human Smoke Mountain** como instalação (caps. 2138-2139). Aptidão vira, literalmente, uma colheita.
+2. `[especializado]` **Blood Skull Gu, versão Gu Immortal** (cap. 2252): eleva a aptidão de um **Gu Immortal**, mas o custo explode — é preciso matar **parentes de sangue** em número crescente conforme o rank do usuário sobe (inclusive parentes que já sejam Gu Immortals). Consequência de design: **quase inútil para um cultivador solitário, valiosíssimo para uma força ou clã inteiro**, que possui "combustível de parentesco" em escala. (A versão mortal rank 4 do V1 continua valendo; ver `catalogo-gu.md`.)
+3. `[especializado]` **Blood Skull Gu rank 5, versão nova** (cap. 2298): extrai a **bloodline de parentes do alvo** para elevá-lo a **grau A** — e, diferente das versões antigas, **não exige mais matar o clã inteiro**, só extrair parte do sangue dos parentes. É a versão "industrializável" do método demoníaco.
+4. `[segredo]` **Elevação de aptidão em massa disfarçada de milagre**: existe um esquema, apresentado publicamente como "formação de dream path", que na verdade é **sacrifício em massa de sangue (blood path) para elevar clãs inteiros ao grau A**. Aplicado a pelo menos **5 clãs** até o fim da obra; ninguém fora do círculo íntimo sabe a verdade e a população acredita ser um milagre (cap. 2299). Acesso à formação é vendido internamente por **contribution points** (cap. 2299).
+
+> [!note] Para o design
+> Aqui está o arco completo do sistema de aptidão como mecânica de jogo: começa como número fixo de personagem (V1), vira negociável a preço demoníaco individual (V1-V2), e termina como **infraestrutura de facção** — uma organização com o golpe e a montanha certos fabrica gênios em série a partir de camponeses. Uma campanha inteira cabe na pergunta "de onde vem a aptidão dos jovens prodígios deste clã?".
+
+### Aptidão como recurso visível e alvo
+
+- `[especializado]` **Talent qi** (qi de talento): manifestação **visível** de aptidão/potencial pairando sobre a cabeça de um indivíduo, observável com o Gu investigativo apropriado (caps. 1967-2007). Aptidão deixa de ser um número secreto e vira algo que um observador treinado lê à distância.
+- `[especializado]` **O céu inveja o talento, literalmente**: um golpe com o *heaven's envy Immortal Gu* como núcleo **amplifica calamidades e tribulações priorizando os alvos de aptidão mais excepcional** — confirmado em combate, mirando repetidamente os prodígios recém-recrutados e ignorando alvos próximos de menor aptidão (bloco 2131-2171). Formaliza mecanicamente o velho ditado da obra de que grande talento atrai grande desgraça.
+- `[segredo]` **Locais podem gerar aptidão extrema**: a **Crazed Demon Cave**, por ser sítio de mais de 1 milhão de anos de derivação de dao marks do céu, produz ocasionalmente **"filhos da sorte" (luck children)** — seres nativos de aptidão extraordinária, independentemente de facção (um macaco de pedra mutante nascido ali supera, em resistência a imersão no Grande Dao, o próprio criador do weapon path da Heavenly Court). Regra do mundo dura registrada no mesmo trecho: **não sendo humano puro, nem a Heavenly Court poupa esses seres** de serem sacrificados como combustível (caps. 2138, 2165).
+- `[especializado]` **Aptidão como teto de absorção de conhecimento**: golpes que elevam attainment por imersão (*Endless Learning*, núcleos Book Mountain + Learning Gu) têm ganho **limitado pela aptidão, talento, compreensão e experiência pessoal do alvo**; se a profundidade exceder o que ele suporta, ele **alucina** (visões diferentes por pessoa) até desmaiar — falha por sobrecarga, distinta de dano físico (caps. 2131-2171, 2293). Ver `cultivo-imortal.md` para os métodos de attainment.
+
+### Avanço de cultivo mortal por Gu de nascimento (linha nova do V6)
+
+`[especializado]` — a "Pregnancy Temple" e o eixo reprodutivo do human path (caps. 2295, 2298, 2300):
+
+- **Bone flesh unity Gu**: Gu mortal **gerado no parto**; eleva a essência primeva de cultivo e permite **avançar meio reino ou até cruzar um rank inteiro**. Usado como **vital Gu de recém-nascidos** via Pregnancy Temple; quando fabricado a partir de **2 dos 3 fetos de trigêmeos**, nasce já em **rank 5**. (Confirma e amplia a mecânica de transferência de essência do V2, agora com o custo humano explícito.)
+- **Multiple pregnancy Gu** (ranks 1–5): rank 1 = 1 filho, rank 2 = gêmeos, rank 3 = trigêmeos, rank 4 = quadrigêmeos, rank 5 = quíntuplos. Subproduto de yin-yang path. Combinado ao anterior, é a linha de produção.
+- **Man triumphing heaven Gu**: **desperta a abertura à força** em humanos puros que **não têm aptidão para ser Mestre Gu** — a primeira rota registrada para furar o piso dos 20%.
+- **Recursos de cultivo mortal por afinidade de raça/path**: unprocessed jade Gu (earth path, ideal para rockmen), wood origin Gu (minimen), water source Gu (mermen) — cada variante humana tem seu insumo (cap. 2295).
+
+### Essência primeva e pedras primevas — a camada oculta
+
+`[segredo]` (revelação do último bloco, caps. 2295-2334):
+
+- **A essência primeva e a essência imortal contêm a vontade humana (human will) de quem as gerou.** Fecha o círculo com a regra 6 (essência alheia contamina a abertura): a contaminação não é só química, é de **vontade**.
+- **Pedras primevas são essência primeva reforçada que carrega heaven's will** em pequena quantidade — geralmente ignorada, mas ela **influencia sutilmente os pensamentos de quem a absorve**. É descrito explicitamente como **um dos métodos do céu para controlar os cultivadores**. Ou seja: a moeda universal do mundo é também um vetor de influência do Heavenly Dao. Ver `mundo-e-cosmologia.md` e `economia-e-vida.md`.
+
+> [!note] Para o design
+> Mecanicamente irresistível: a moeda que todo personagem usa para recuperar recursos é, em doses microscópicas, propaganda do antagonista cósmico. Um mestre pode narrar isso como um deslize de humor ou uma inclinação moral que o jogador não escolheu — e nunca explicar por quê.
+
+### Escala e contexto mortal no mundo pós-Grande Era
+
+- `[comum]` Pedras primevas continuam sendo o meio padrão de **repor essência primeva** de um Mestre Gu (cap. 1973).
+- `[comum]` Clãs de super força recrutam ativamente Mestres Gu mortais com **"aptidão grau A e lealdade ao clã"** nas cidades, para nutri-los como **sementes de futuros Gu Immortals** (caps. 1972-1973) — o pipeline institucional mortal→imortal, explicitado.
+- `[comum]` A vida na base da pirâmide segue reconhecível no mundo pós-Grande Era: um rank 2 comum de Western Desert é retratado como cidadão ordinário (caps. 1967, 1972-1973).
+- `[especializado]` **Dentro de um painting world a diferença entre imortal e mortal é pequena**: Gu mortais bem cultivados (hero Gu rank 5, vagrant warrior Gu rank 3) rendem poder de topo local, e um cultivador com bons Gu mortais é "peixe n'água" ali (cap. 2065). Ambientes especiais achatam a escada de rank — gancho direto para aventuras de nível mortal em mundo de imortais.
+- `[comum]` **Custo físico da criação forçada**: nas rodadas finais da competição mundial de poesia, competidores **cospem sangue ou desmaiam** após recitar — forçar qualidade criativa ao extremo consome recurso interno real (mental/essência primeva) (cap. 1977).
+
+### Lacunas do domínio (encerramento)
+
+- ❌ **ENCERRADA COMO SEM RESPOSTA**: limiares percentuais de aptidão para 2→3, 3→4 e 4→5. Varredura completa de 1514 a 2334 sem um único número novo. A obra dá **apenas** o 55% do 1→2. Qualquer progressão adicional é design nosso e deve ser marcada `inferido`.
+- Segue sem quantificação: quanto o **polished gold Gu** eleva a aptidão (caps. 1155, 1160); quanto o **congregated human talent** transfere por cabeça (cap. 2138).
+- Nunca descrita: a zona de aptidão **31–39%**.
+- Não explicado: por que a Crazed Demon Cave gera "filhos da sorte" de aptidão extrema de forma aparentemente aleatória entre os Grandes Mundos (cap. 2165).

@@ -6,7 +6,8 @@ status: rascunho-interno
 
 # Glossário EN → PT
 
-> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> **Rascunho interno** — cobre até: Volume 5 (parcial, caps 1022-1513). Fusão dos glossários das notas brutas; termos com arquivo de domínio próprio levam apontador.
+> Destaques da 1ª metade do V5: escala completa de alma (man soul → desolate soul) e de attainment (quasi- → supreme grandmaster); os 4 secluded domains reunidos e o título de Reverse Flow River Lord; economia de time path (year Gu / year beast / Years Flow Like Water); phantom aperture e false immortal; "Destiny" (rank 10) e a Grande Era.
 
 ## Resumo do domínio
 
@@ -307,3 +308,217 @@ Dicionário EN→PT de todos os termos técnicos do mundo, com definição curta
 - **Wish power / Heavenly Wish** — poder de desejos coletivos; o teleporte-êxodo de emergência.
 - **Beastmen / minimen / feathermen / mermen** — variantes humanas novas (uma extinta). → transformacoes-e-corpos-especiais.md
 - **Pure Dream Reality Seeker Physique / Blazing Glory Lightning Brilliance** — physiques novas (uma artificial). → transformacoes-e-corpos-especiais.md
+
+---
+
+## Adições do Volume 5 — 1ª metade (caps. 1022–1513)
+
+### Alma, attainment e fundação
+
+- **Man soul (single / ten / hundred / thousand / … / hundred million)** — escala nominal da fundação de alma, medida em múltiplos da alma humana comum (cap. 1460). → cultivo-mortal.md
+- **Desolate soul** — tier de cultivo de alma acima de 900 milhões de man soul; o teto absoluto do mundo é 100 milhões de desolate soul (caps. 1505, 1509). → cultivo-mortal.md
+- **Soul core** — material imortal r6-r8 deixado por um soul beast morto; substitui almas na produção de guts Gu, mas com qualidade inferior (caps. 1502-1503). → paths.md
+- **Path beasts** — categoria formal de criaturas nascidas de dao marks naturais de um path e que não se reproduzem normalmente: soul beasts, mud monsters, blood beasts, shadow monsters, phantom beasts (caps. 1341, 1503). → paths.md
+- **Quasi-grandmaster** — degrau de attainment logo abaixo de grandmaster (cap. 1356); a escala completa tem nove níveis, de ordinary a supreme grandmaster (cap. 1326). → paths.md
+- **Great grandmaster** — attainment acima de grandmaster; permite desmontar e remontar killer moves livremente, entendimento "próximo ao Dao" (cap. 1269). → paths.md
+- **Supreme grandmaster** — topo formal da escala de attainment (caps. 1408, 1501). → paths.md
+- **Immortal fetus** — termo arcaico para immortal aperture; aperturas, Essence Pools e Purple Residences mortais "viram immortal fetuses" ao alcançar status imortal (cap. 1394). → cultivo-imortal.md
+- **Sovereign immortal aperture (nine-five)** — aperture do sovereign immortal fetus Gu: dez camadas espelhando as cinco regiões e os nove céus, razão de tempo 1:60, sem vital Gu (caps. 1091, 1291). → cultivo-imortal.md
+- **Sovereign immortal body** — corpo produzido pelo mesmo Gu; não sofre a penalidade de killer move dentro das regional walls (caps. 1216-1217, 1257). → transformacoes-e-corpos-especiais.md
+- **Phantom aperture** — abertura falsa/temporária que confere força de Gu Immortal sem tribulação real; tecnologia incompleta furtada da Heavenly Court pela Shadow Sect (cap. 1194) `[segredo]`. → cultivo-imortal.md
+- **False immortal** — quem opera por phantom aperture: poder de Gu Immortal sem ter passado por tribulação (cap. 1194). → cultivo-imortal.md
+- **Split soul (1ª geração)** — fragmento de alma que carrega uma PORÇÃO das experiências e memórias de cultivo do corpo principal desde o nascimento (cap. 1371); como killer move, a alma sai do corpo e manipula Gu remotamente, com risco de colapso em caso de falha (cap. 1471). → paths.md
+- **Living refinement** — refino que exige o material VIVO; a morte do material anula o processo e reduz seu valor ao mundano (cap. 1284). → gu-sistema.md
+- **Refino paralelo (parallel refining)** — fundir num único processo o refino de elevação de rank e o reverse refining de extração de heaven's will; taxa de sucesso maior que a do método sequencial (caps. 1479-1480) `[segredo]`. → gu-sistema.md
+- **Hairy man heaven and earth style / human isolation style** — as duas escolas formais de refinement path: a primeira puxa dao marks ambientais e ELEVA a taxa de sucesso; a segunda é o padrão humano (<1% para rank 6) (caps. 1066-1068). → gu-sistema.md
+- **Dual Immortal Gu refinement** — refino em dupla, com papéis divididos entre dois refinadores (caps. 1067-1068). → gu-sistema.md
+- **Seven Kill Blood Path Gu Refinement Method** — método da Lang Ya Sect: matar 7 desolate beasts para gerar o pilar de sangue do refino (cap. 1479) `[especializado]`. → gu-sistema.md
+- **Bei Luo Ice Refinement Method** — método de refino por gelo de Bei Luo (r8, Remote Antiquity), insuperado até hoje (cap. 1440). → gu-sistema.md
+- **Humans alike dragons** — método de refino de Duke Long que converte um Gu Immortal em dragonman usando o próprio como material; oficialmente banido por ele (caps. 1227-1228, 1240) `[segredo]`. → transformacoes-e-corpos-especiais.md
+- **Dragonman / dragon lady** — raça variante produzida por esse método; escamas e sangue regenerativo equivalentes a Gu rank 5 (caps. 1227-1228, 1237). → transformacoes-e-corpos-especiais.md
+- **Cocoon of light** — forma intermediária de criação de um corpo Pure Dream Reality Seeker, condensada de um pedaço de dream realm; método "atalho" que prende a alma no corpo (caps. 1358, 1373). → transformacoes-e-corpos-especiais.md
+
+### Tribulações e calamidades
+
+- **Grand tribulation** — 3º nível de tribulação (após earthly calamity e heavenly tribulation), exclusivo de rank 7; ocorre a cada 100 anos e sua força cresce dezenas a centenas de vezes a cada ocorrência (cap. 1217). → cultivo-imortal.md
+- **Myriad tribulation** — tribulação exclusiva da ascensão a rank 8, três no total, categoricamente mais perigosa que as demais (cap. 1398). → cultivo-imortal.md
+- **Human calamity** — categoria de calamidade em que heaven's will não gera fenômeno próprio: ATRAI outros Gu Immortals para atacarem o cultivador durante a tribulação (cap. 1469). → cultivo-imortal.md
+- **Wind flower / snow moon** — as duas earthly calamities combinadas na Wind Flower Snow Moon Tribulation; wind flowers superam velocidade e defesa, snow moons desaceleram corpo e mente (caps. 1096-1099). → cultivo-imortal.md
+- **Corrosive Dark Current** — 5ª earthly calamity registrada: corrente corrosiva em forma de píton negra cuspida por um esqueleto celestial (cap. 1164). → cultivo-imortal.md
+- **Heavenly drum thunder tribulation** — tribulação de refino que combina sound e lightning, com astral lightning dentro do corpo (cap. 1068). → cultivo-imortal.md
+- **Blue charm lightning shadow** — sombra-relâmpago de força equivalente a rank 6, surgida em enxame numa tribulação de refino rank 6 (cap. 1068). → cultivo-imortal.md
+- **Immortal tribulation tempering aperture** — killer move que provoca e orienta a calamidade a se formar a partir dos dao marks DOMINANTES do local (cap. 1165) `[segredo]`. → estudos-de-caso.md
+- **True meaning** — insight/energia obtido ao matar as criaturas geradas pela true meaning de um Venerável durante uma earthly calamity; eleva o attainment do path correspondente (cap. 1112). → paths.md
+- **Exposing Heavenly Secret** — killer move que prevê o CONTEÚDO de tribulações e calamidades futuras (caps. 1462, 1476) `[segredo]`. → gu-sistema.md
+- **Heavenly Light Ring** — killer move de refino exclusivo do Heavenly Secret Gu; 7 rotações, cada uma disparada por uma ação diferente (caps. 1469, 1475). → gu-sistema.md
+- **Heaven's Will Dissipation** — killer move de wisdom path que ataca e elimina a heaven's will de um alvo selado; usada também sobre um dream realm inteiro (caps. 1476-1478, 1490) `[segredo]`. → paths.md
+- **Assimilar-se à Heaven's Will** — método de Purple Mountain True Monarch: fundir-se temporariamente com a heaven's will ao custo de loucura, obtendo planos e fraquezas dela e reduzindo a própria ameaça de eliminação (caps. 1333-1334) `[segredo]`. → mundo-e-cosmologia.md
+- **Peões cruciais do tabuleiro do destino** — indivíduos que a heaven's will manipula de forma especial; identificáveis e "viráveis" por quem se assimila a ela (caps. 1333-1334). → mundo-e-cosmologia.md
+
+### Domínios, aperturas e território
+
+- **Winds of assimilation** — disparam quando um land spirit é destruído à força sem que a blessed land tenha absorvido fragmento dos nove céus imemoriais (cap. 1187); NÃO disparam automaticamente com a morte do dono (cap. 1487). → cultivo-imortal.md
+- **Blood Light Spirit Suppression** — killer move que suprime o land spirit de uma blessed land para forçar a anexação (cap. 1487) `[segredo]`. → estudos-de-caso.md
+- **Public blessed land** — blessed land "remendada" de fragmentos unidos; defesa estruturalmente mais fraca que a de uma terra íntegra (cap. 1251). → cultivo-imortal.md
+- **Secluded domains of heaven and earth (os quatro)** — Dang Hun Mountain, Luo Po Valley, Reverse Flow River e City Well; reunir os quatro num só dono é feito raro na história (cap. 1489). → mundo-e-cosmologia.md
+- **Reverse Flow River** — domínio-rio onde nenhum Gu worm rank 1-8 funciona, ataques vindos de fora refletem no atacante e não há fim rio acima (caps. 1270, 1283-1284). → mundo-e-cosmologia.md
+- **Reverse Flow River Lord** — título de quem refina o Perseverance Gu dentro do rio; concede controle total do domínio (caps. 1285-1286). → mundo-e-cosmologia.md
+- **City Well** — secluded domain em forma de poço; amplifica ~100× killer moves usados de FORA contra quem está dentro, com custo proporcional (caps. 1157-1159); lar mítico dos minimen segundo as Legends of Ren Zu (cap. 1489). → mundo-e-cosmologia.md
+- **Luo Po Valley** — sacred land do refino de alma; amplifica Gu formations de soul path até nível rank 9 (cap. 1460). → mundo-e-cosmologia.md
+- **Dang Hun Mountain** — secluded domain que produz guts Gu a partir de almas e soul cores fornecidos; a produção TRAVA sem insumo (caps. 1502-1503). → mundo-e-cosmologia.md
+- **Luo Po formation** — formação modular de soul path derivada de Spectral Soul: +30% de eficiência de cultivo em Luo Po Valley, ou reconfigurável para defesa/ataque (cap. 1460). → gu-sistema.md
+- **Five Regional Mountain Range** — réplica artificial das cinco paredes regionais num só local, em cinco zonas coloridas, com a mesma repulsão das paredes reais (caps. 1042-1043). → mundo-e-cosmologia.md
+- **Blue water regional wall / licorice regional wall** — a parede que isola o Eastern Sea / a parede entre Eastern Sea e Northern Plains (caps. 1150, 1257). → mundo-e-cosmologia.md
+- **Turbulent flow sea area** — zona labiríntica do Eastern Sea formada por dao marks de batalhas históricas; prende visitantes por meses ou anos e contém um tributário do River of Time (cap. 1150). → mundo-e-cosmologia.md
+- **Green ghost desert** — deserto do Western Desert formado pela extinção do Qing clan por Spectral Soul; rico em soul beasts (caps. 1503, 1507). → mundo-e-cosmologia.md
+- **Plunder Shadow Earth Trench** — fenda em Southern Border com dao marks densos de dark path; quartel-general temporário da Shadow Sect (cap. 1379). → mundo-e-cosmologia.md
+- **Hidden Dragon Cave** — earth trench de Central Continent, maior que o de Northern Plains, onde Duke Long suprime o Evil Dragon Di Zang Sheng (cap. 1301). → mundo-e-cosmologia.md
+- **Earth veins (veias da terra)** — estrutura subterrânea que acumula emoções coletivas; sua fusão é pré-condição da Grande Era (cap. 1301). → mundo-e-cosmologia.md
+- **Great Era (Grande Era)** — evento cosmológico: fusão das earth veins, desaparecimento das paredes regionais, unificação das cinco regiões e "Great Dream becomes venerable" (cap. 1301). → mundo-e-cosmologia.md
+- **Great Dream Immortal Venerable** — figura profetizada, confirmada como pessoa real e viva, atualmente em Southern Border e ativamente preparada pela Heavenly Court como sua 4ª Immortal Venerable (caps. 1301, 1384). → mundo-e-cosmologia.md
+- **Pseudo-Immortal Venerable** — patamar distinto e ABAIXO de Venerável pleno (ex.: Sword Immortal Bo Qing); não conta entre os dez (cap. 1369). → cultivo-imortal.md
+- **Heavenly wind qi wall** — barreira que envolve os immemorial nine heavens, mais grossa que as cinco regional walls (caps. 1239, 1241). → mundo-e-cosmologia.md
+- **Black-white overturning cloud** — nuvem rara que conecta Black Heaven e White Heaven, permitindo trânsito instantâneo entre eles (cap. 1405). → mundo-e-cosmologia.md
+- **Black lantern / blind fire** — fenômeno do black heaven que cega permanentemente quem olha diretamente (caps. 1242-1243). → mundo-e-cosmologia.md
+- **Star cloud storm** — tempestade de estrelas originária do immemorial blue heaven destruído, hoje também no black heaven; bloqueia comunicação de information path (caps. 1244-1246). → mundo-e-cosmologia.md
+- **Sky chief beast** — fera presente em todos os immemorial nine heavens; cada indivíduo já nasce em nível de mutated beast king (cap. 1246). → mundo-e-cosmologia.md
+
+### River of Time e economia de time path
+
+- **Tributary of the River of Time** — versão "doméstica" (toda apertura tem uma) ou "selvagem" (rara, nas cinco regiões e nos dois céus, permite entrar no rio real) (caps. 1290, 1400). → mundo-e-cosmologia.md
+- **Ripple of time** — fenômeno natural dos tributários; acelera OU desacelera o tempo de quem entra, sempre reduzindo lifespan (cap. 1400). → mundo-e-cosmologia.md
+- **Sudden spring** — erupção súbita de corrente no rio, com força entre killer move rank 7 e rank 9; desacelera o tempo ao redor do alvo (caps. 1431-1432). → mundo-e-cosmologia.md
+- **Peaceful time thread** — fio da teia da dark web spider; congela no tempo qualquer existência de rank ≤7 que o toque, e ~100 fios ameaçam até um rank 8 (cap. 1432). → mundo-e-cosmologia.md
+- **Blade river segment / year river segment** — trecho do rio onde killer moves residuais de um duelo lendário ainda atacam sem aviso / tributário bifurcado repleto de year Gu selvagens (caps. 1432, 1452). → mundo-e-cosmologia.md
+- **Stone lotus island** — uma das 7 sedes das true inheritances de Red Lotus no River of Time; fundação FINITA, que se esgota e destrói com o uso (caps. 1434-1435). → mundo-e-cosmologia.md
+- **Year Gu / month Gu / day Gu** — Gu mortais de time path produzidos em massa; commodity de mercado sazonal (caps. 1450-1456). → economia-e-vida.md
+- **Year beast / immemorial year beast** — criatura ligada ao calendário e ao time path; a força varia por signo do zodíaco e o immemorial é o topo da categoria (não existe rank 9 entre eles) (caps. 1404, 1429); existem também month beasts e day beasts (cap. 1431). → mundo-e-cosmologia.md
+- **Years Flow Like Water** — Immortal Gu rank 8 de time path: produz year Gu a custo marginal ínfimo e ATRAI immemorial year beasts para destruir a aperture do usuário (caps. 1129, 1428-1429, 1456). → catalogo-gu.md
+- **Immemorial Year Beast Fishing Formation** — formação de Hei Fan que atrai (sem controlar) immemorial year beasts via tributário; sobrevive com o núcleo + 60% dos Gu (caps. 1428-1429). → gu-sistema.md
+- **Years Pass Like Days** — killer move de time path que acelera a vazão do tributário dentro de uma apertura (cap. 1482). → gu-sistema.md
+- **Immortal Gu House Regret Pool** — a maior das immortal formations de retrocesso temporal, usada para corrigir refinos; uma das Três Lagoas lendárias (caps. 1104, 1441). → cultivo-imortal.md
+
+### Fate, sorte e destino
+
+- **"Destiny"** — nome hipotético do primeiro Immortal Gu rank 10, fusão teórica do Fate Gu com um Immortal Gu de luck path (caps. 1234-1235). → mundo-e-cosmologia.md
+- **Fortune Rivalling Heaven** — Immortal Gu rank 8 de poder quase-rank-9, ápice do estágio "all living being's luck" (cap. 1234). → catalogo-gu.md
+- **Self luck / all living being's luck / heaven and earth luck** — os três estágios sucessivos do cultivo de luck path de Giant Sun (caps. 1180, 1234). → paths.md
+- **Dao Guardian (Dao Protetor)** — figura que sempre acompanha a jornada de cultivo de um Immortal ou Demon Venerable, com papel importante em seu desenvolvimento (cap. 1442). → mundo-e-cosmologia.md
+- **Fate escapee (precisão)** — status derivado de ser otherworldly demon, não de ser immortal zombie; a maioria dos fate escapees conhecidos são immortal zombies, mas a equivalência não é categórica (caps. 1194, 1244, 1435). → mundo-e-cosmologia.md
+- **Otherworldly demon (precisão)** — ser transmigrado, ÚNICA categoria não restringida pelos grilhões do fate Immortal Gu (cap. 1435). → mundo-e-cosmologia.md
+- **Fixed Luck / Main Luck / Sub Luck** — estabilização da própria sorte contra a assimetria de Connect Luck; papéis formais dentro de uma conexão de sorte (cap. 1415). → paths.md
+- **Burning Soul Bursting Luck** — killer move que gasta permanentemente fundação de alma para inflar a sorte; não cumulativo para o mesmo usuário (cap. 1405). → gu-sistema.md
+- **Spontaneous Auspicious Cloud** — killer move de luck path que NÃO obedece à vontade do usuário: move-se sozinho pelo caminho de maior sorte (cap. 1503). → gu-sistema.md
+- **Luck Suppression Heavenly Palace** — Immortal Gu House rank 8 de Giant Sun escondida no black heaven há 300 mil anos; controla a sorte de céu e terra da região (caps. 1242-1243). → sociedade-e-organizacoes.md
+- **Calamity Luck Altar** — Immortal Gu House rank 8 de Giant Sun em Longevity Heaven; converte calamidade em sorte (caps. 1180, 1238). → sociedade-e-organizacoes.md
+
+### Categorias de killer move e formation path
+
+- **Attached move** — killer move secundário com chance de disparar junto com um primário (cap. 1351). → gu-sistema.md
+- **Split move** — dividir a ativação de um killer move em fragmentos entregues furtivamente, ocultando o sinal de ativação até o efeito final (cap. 1263). → gu-sistema.md
+- **Consecutive moves** — encadear dois ou mais killer moves do mesmo path em sequência, para efeito cumulativo (cap. 1263). → gu-sistema.md
+- **Variant move** — usar um killer move existente como base para produzir um efeito derivado diferente (cap. 1263). → gu-sistema.md
+- **Sub formation / main formation** — par de formações ligadas estruturalmente; ativar a sub força o colapso da main e redireciona o que ela protegia (cap. 1270) `[especializado]`. → gu-sistema.md
+- **Formation heart Gu** — Gu mortal rank 1, núcleo universal de qualquer Gu formation (cap. 1323) `[comum]`. → catalogo-gu.md
+- **Formation Plate / Flag / Chart Gu** — trio de formation path: montagem automática / armazenamento e transporte / registro de formações (cap. 1410). → catalogo-gu.md
+- **Formation spirit** — entidade única criada pelo uso único do Formation Spirit Immortal Gu; inteligente, NÃO pode mentir (mas pode ser persuadida), gerencia e repara formações (caps. 1411, 1414). → gu-sistema.md
+- **Peak lord** — Gu Immortal que serve de núcleo de um dos 15 picos da fate reversing sacrificial refinement formation; amplificado em 1 rank de combate (caps. 1250, 1252). → sociedade-e-organizacoes.md
+- **Wisdom sweat formation** — formação invertida do Chi clan (núcleo mortal de wisdom + suplemento Immortal Gu Sweat) para dedução ininterrupta por dias (cap. 1329). → gu-sistema.md
+- **Blood Red Immortal Essence Formation** — converte immortal essence stones em contas de red date immortal essence rapidamente (cap. 1427). → gu-sistema.md
+- **Reverse Flow Protection Seal** — killer move defensivo que reflete no atacante os ataques recebidos; reservatório esgotável (caps. 1391, 1486). → gu-sistema.md
+- **Vajra Shell** — killer move rank 7 (Vajra Thought r6 + Perseverance r7 + mortais + forma de divination tortoise): enxame autodestrutivo e REABSORVÍVEL de pensamentos (caps. 1310-1311). → gu-sistema.md
+- **Collective Thinking** — killer move de Purple Mountain True Monarch que dá cognição a clones de Myriad Self, permitindo-lhes SUSTENTAR killer moves do original (cap. 1423). → gu-sistema.md
+- **Cutting Flesh Transformation** — killer move rank 8 que expele partes feridas do corpo como criaturas separadas; elas carregam heaven's will e ficam incontroláveis (cap. 1398). → gu-sistema.md
+- **Ancient Year Beast Transformation** — transforma o usuário em ancient year beast, convertendo dao marks de transformation em time path (cap. 1431). → gu-sistema.md
+- **Enslavement After Victorious Fight** — escraviza automaticamente quem for DERROTADO (não morto) pelo usuário (caps. 1401-1402). → gu-sistema.md
+- **Hundred and Eighty Slaves** — killer move de enslavement que subjuga por aplicação REPETIDA sobre alvo já enfraquecido (cap. 1429). → gu-sistema.md
+- **Year Beast Summoning** — killer move de time path com efeito de enslavement; os year beasts invocados fogem se feridos e exigem novo pagamento (caps. 1135-1139, 1402). → gu-sistema.md
+- **Self Love / Self Cleansing** — Immortal Gu e killer move de limpeza AUTOMÁTICA e seletiva de dao marks prejudiciais (caps. 1406-1408). → catalogo-gu.md
+- **Ghost Official Garment** (ghost soldier / general / king / venerable garment) — killer move permanente de soul path que "veste" a alma contra deduções; consome soul foundation, não essência (caps. 1448, 1471). → gu-sistema.md
+- **Purple Star Broken Life** — immortal battlefield killer move de wisdom path: oculta rastros e isola do mundo externo (cap. 1485). → gu-sistema.md
+- **Air lock** — killer move rank 8 que trava uma área grande contra teleportes de longa distância por tempo limitado (caps. 1386-1387). → gu-sistema.md
+- **Grey Cloud Battle Puppet** — battlefield killer move imortal de Lady Earth Mother: isola, impede fuga e bloqueia acesso ao treasure yellow heaven (caps. 1140-1142). → gu-sistema.md
+- **Dark Assassination** — killer move furtiva de sword path que oculta completamente a aura do Immortal Gu; alcance <100 passos (caps. 1042-1043, 1123-1125). → gu-sistema.md
+- **Man as Before / Landscape as Before** — restauração instantânea de ferimentos fatais / restauração de Dang Hun Mountain (caps. 1113, 1141). → catalogo-gu.md
+- **Bountiful Year** — killer move não-ofensivo de gestão de abertura imortal, criado por Pill Immortal (cap. 1313). → gu-sistema.md
+- **Hundred Years Harmony** — killer move da herança de Hei Fan: Gu de time path produzindo efeito de information path — exemplo canônico de imitação de path por grão-mestre (cap. 1328). → gu-sistema.md
+- **Light Fungus Radiance** — killer move de wood path que adapta a light shine fungi ao céu aberto (cap. 1458). → gu-sistema.md
+- **Eat Strength** — recriação de um Immortal Gu destruído (núcleo Snack + Gu de strength path); converte materiais imortais em ganho gradual de dao marks, melhor por sessão que o Gu original, mas com custo maior de essência (cap. 1465). → gu-sistema.md
+- **Triple Qi Retraction** — killer move de Primordial Origin Immortal Venerable que drena os três qi da fundação de um Gu Immortal, rompendo sua abertura imortal (caps. 1367-1368). → gu-sistema.md
+- **Yang Pass Tune / Song Warrior / Heaven and Earth Song / Separation Song / Chaotic Heart Drumming Sound** — repertório de sound path de Feng Jiu Ge, mais o move mental de área cedido pela Heavenly Court (caps. 1391, 1419-1426). → gu-sistema.md
+- **Four Clear Transforming Winds** — battlefield killer move ancestral do Wu clan, com 4 variações: vento, relâmpago, gotejo e som (caps. 1389-1390). → gu-sistema.md
+- **Blurred Grey Eyes** — killer move MORTAL (sandpit + chimney smoke + clear water Gu, 8 passos) que cega com cinza branca; jogar ÁGUA a esquenta e torna a cegueira permanente (cap. 1496) `[comum]`. → gu-sistema.md
+- **Rhino Phantom** — killer move improvisado de strength path combinando 3 Gu rank 1, para arrombar paredes (caps. 1509-1510) `[comum]`. → gu-sistema.md
+
+### Gu, materiais e Immortal Gu Houses
+
+- **Steal Life** — Immortal Gu rank 6 de theft path: rouba lifespan de todos os tocados e o concentra no dono (cap. 1511). → catalogo-gu.md
+- **Sneak Attack Gu** — Gu de theft path que ataca de DENTRO do alvo na forma de fantasma de bebê azul; rank 2 é barato, o rank 5 solta centenas (caps. 1500, 1512). → catalogo-gu.md
+- **Wealth Gu** — Gu lendário das Legends of Ren Zu que transmuta matéria em qualquer material INANIMADO do mundo; a receita original exige materiais extintos (blue sea, mãos de Ren Zu) (caps. 1473-1475). → catalogo-gu.md
+- **Attitude Gu** — Immortal Gu rank 8 de atuação e disfarce comportamental perfeito; usável sem essência de rank 8 correspondente (caps. 1417, 1431, 1504). → catalogo-gu.md
+- **Soul Beast Token** — Immortal Gu rank 8 que escraviza soul beasts, inclusive imemoriais, sem exigir essência de rank 8 (caps. 1504, 1507). → catalogo-gu.md
+- **Unravel dream** — Gu mortal de dream path que entrega respostas (às vezes parciais) dentro de dream realms; refinado a partir do nightmare demonic colt (caps. 1324, 1326). → catalogo-gu.md
+- **Nightmare demonic colt** — desolate beast de dream path (cavalo com chifres de carneiro e fogo nas patas e cauda); único immortal material natural de dream path (cap. 1265). → mundo-e-cosmologia.md
+- **Guts Gu (precisão)** — Gu mortal originado de Dang Hun Mountain; cura dano de alma com eficácia desproporcional e é monopólio de produção da Lang Ya Sect (caps. 1198-1199, 1324-1325). → catalogo-gu.md
+- **Chakra melons** — immortal material rank 7 com dao marks de refinement path; uso universal em refino (cap. 1338). → economia-e-vida.md
+- **Impermanence rocks** — immortal material rank 6, metade preto metade branco; só se forma onde houve mortes e batalhas repetidas (cap. 1513). → economia-e-vida.md
+- **Heavenly crystal** — immortal material rank 8 dos immemorial nine heavens, leve e flutuante (caps. 1115-1116). → economia-e-vida.md
+- **Heaven attached fungi** — immortal material rank 6 exclusivo dos immemorial nine heavens; indicador (falível) de área livre de dao marks estranhos (caps. 1244, 1409). → economia-e-vida.md
+- **True dragon heavenly water** — immortal material rank 8 que revive e restaura vitalidade; dose eficaz de 500 g, com efeito decrescente por uso (cap. 1228). → economia-e-vida.md
+- **Três fogos e três águas** — seis immortal materials rank 9; fogos nomeados: bright light glorious ring fire (céu), azure divine stone furnace fire (terra), raging wave rising dragon fire (mar/homem) (caps. 1228-1229). → economia-e-vida.md
+- **Subterranean adamantite / dark inkstone** — o immortal material rank 6 mais duro que existe / material que nem o ancient sword dragon arranha (cap. 1474). → economia-e-vida.md
+- **Fan door wind** — immortal material rank 7 que só cresce em portas de casas mortais e impede a porta de fechar (cap. 1489). → economia-e-vida.md
+- **Hundred Flowers Concentrate** — concentrado de ~12 flores usado como "chuva rosa" fundente no refino paralelo (cap. 1479). → economia-e-vida.md
+- **Interior rain** — immortal material rank 6, base do Change Form Gu (caps. 1067-1068). → economia-e-vida.md
+- **Heaven Overseeing Tower (precisão)** — Immortal Gu House rank 9 da Heavenly Court que hospeda o Fate Immortal Gu e sua killer move Fate Vanquish; reconstruída rapidamente após ser destruída (caps. 1335, 1359-1360). → sociedade-e-organizacoes.md
+- **Soul Suppression Hall** — Immortal Gu House rank 8 da Heavenly Court dedicada a soul search (caps. 1438, 1460). → sociedade-e-organizacoes.md
+- **Divine Bean Palace** — Immortal Gu House de Genesis Lotus Immortal Venerable, escondida no Western Desert; escadaria de 9.999 degraus, voo impossível (caps. 1507-1508). → sociedade-e-organizacoes.md
+- **Dragon Palace** — Immortal Gu House perdida da extinta raça dragonman; herdável apenas por um dragonman (cap. 1240). → sociedade-e-organizacoes.md
+- **Bay Pavilion / Fallen Flower Hall** — Immortal Gu House rank 7 do Yi clan, especializada em deslocamento de longa distância / Gu House rank 7 do Fang clan, "forte por fora" (caps. 1377, 1512-1513). → sociedade-e-organizacoes.md
+- **Dark Flow Giant City** — cidade oculta no Earth Trench onde a Zombie Alliance escondia os Immortal Gu dos membros assassinados; é um MORTAL Gu house, não Immortal Gu House (caps. 1256, 1264). → sociedade-e-organizacoes.md
+
+### Sociedade, instituições e heranças
+
+- **Longevity Edict** — Immortal Gu de information path que transmite as ordens de Longevity Heaven às tribos Huang Jin, viajando sozinho de tribo em tribo (caps. 1181, 1190) `[especializado]`. → sociedade-e-organizacoes.md
+- **Eight Extremities / Four Desolations** — as doze posições de autoridade central de Longevity Heaven: 8 rank 7 + 4 rank 8 (caps. 1238, 1279-1280). → sociedade-e-organizacoes.md
+- **Huang Jin bloodline** — linhagem sanguínea das tribos "reais" de Northern Plains, ligada a Giant Sun Immortal Venerable (cap. 1190). → sociedade-e-organizacoes.md
+- **Criminal immortals** — Gu Immortals descendentes dos guardas culpados, presos por gerações dentro do Hei Fan grotto-heaven (cap. 1119). → sociedade-e-organizacoes.md
+- **Slave Gu Immortal** — categoria social de Gu Immortal capturado e escravizado por uma força vencedora (cap. 1218). → sociedade-e-organizacoes.md
+- **Immortal opportunity business** — venda de acesso disfarçado ao dream realm de Yi Tian Mountain, operada pela coalizão righteous path de Southern Border; funciona também como válvula de escape política deliberada; regra de segurança de um cultivador por sessão (caps. 1213-1214, 1226, 1346). → economia-e-vida.md
+- **Spar** — combate ritual regrado do righteous path, com condições negociadas antes e sem intenção de matar (cap. 1309). → sociedade-e-organizacoes.md
+- **Blood battle martial competition** — confronto formal entre righteous path e a aliança Chu Sect + Bai Zu tribe, com espólio de corpo e alma (caps. 1190-1197). → sociedade-e-organizacoes.md
+- **Chu tribe (ex-Chu Sect)** — organização de Chu Du renomeada por exigência regional: Northern Plains não permite seitas (caps. 1235-1236). → sociedade-e-organizacoes.md
+- **Four Races Alliance** — aliança formal entre hairy men, snowmen, rockmen e inkmen (caps. 1145-1146). → sociedade-e-organizacoes.md
+- **Earth Mother Altar** — altar subterrâneo de rockmen e snowmen, usado em ritos formais de aliança via earth path (cap. 1146). → sociedade-e-organizacoes.md
+- **Resolute will** — vontade autônoma deixada no treasure yellow heaven para negociar sem barganha (cap. 1114). → economia-e-vida.md
+- **Treasure light (precisão)** — a ALTURA da coluna de luz emitida por um item no mercado é proporcional a seu valor e define a taxa de transporte (caps. 1399, 1451). → economia-e-vida.md
+- **Seven Illusions (true inheritance)** — herança de 7 camadas independentes, cada uma criando uma dívida obrigatória; concede imitação de métodos alheios (caps. 1338, 1340). → sociedade-e-organizacoes.md
+- **Iron Mask / White Rabbit (true inheritances)** — heranças com portão MORAL: exigem, respectivamente, "coração de justiça" e "coração puro" (caps. 1340-1341). → sociedade-e-organizacoes.md
+- **Legends of Ren Zu (como herança)** — a primeira true inheritance da história, em formato de livro; o ganho depende da afinidade do leitor (cap. 1347). → sociedade-e-organizacoes.md
+- **Immortal graveyard** — instalação da Heavenly Court onde Gu Immortals antigos hibernam por eras e onde se contêm ameaças de alma de altíssimo nível (caps. 1228, 1384). → sociedade-e-organizacoes.md
+- **Demon Judgment Board (precisão)** — ranking público mundial dos demônios mais procurados; impede trânsito seguro por Central Continent (caps. 1287, 1388). → sociedade-e-organizacoes.md
+- **Fairy (Spirit Affinity House)** — título da discípula-semente da geração; escolhida por 3 critérios normais ou, de forma absoluta, pelo reconhecimento espontâneo do Love Gu (caps. 1222, 1230). → sociedade-e-organizacoes.md
+- **Befriend the distant enemy, attack the near ones / balanço triangular** — princípio diplomático explícito das super forças de Southern Border e o equilíbrio geopolítico de trios de clãs vizinhos (caps. 1321, 1348). → sociedade-e-organizacoes.md
+- **Mushroomman Paradise** — blessed land tornada "paradise" por Paradise Earth Immortal Venerable: livre de calamidades e tribulações; maior produção de chakra melons (cap. 1338). → mundo-e-cosmologia.md
+
+### Fauna, raças e figuras
+
+- **Miniman** — raça de seres do tamanho de um polegar, com asas finas, que crescem a tamanho humano via killer move sustentado (caps. 1269-1270, 1275). → transformacoes-e-corpos-especiais.md
+- **Mermen** — humanos variantes do Eastern Sea que respiram debaixo d'água (cap. 1297). → transformacoes-e-corpos-especiais.md
+- **Upper extreme heavenly eagle** — immemorial desolate beast de space path, rank 8 adulto, lifespan 80 anos, renasce por ovo conservando dao marks acumulados; entra e sai de grotto-heavens e é a chave das blessed lands seladas do City Well (caps. 1117, 1466, 1489). → mundo-e-cosmologia.md
+- **Mount Snail** — immemorial desolate beast com dao marks de enslavement + earth path; 7 conhecidos em Southern Border; a posse é definida por território (cap. 1315). → mundo-e-cosmologia.md
+- **Dark web spider / disc scorpion / green claw ghost winged lion** — immemorial desolate beasts: predador de topo do rio / de wisdom path, come soul beasts e ignora ghostly concealment / come-almas, contraparte natural do soul path (caps. 1412, 1432, 1503). → mundo-e-cosmologia.md
+- **Myriad Head Coiling Dragon** — immemorial desolate beast rank 8 de formation path, enraizada na earth vein, com até 10 mil cabeças (cap. 1466). → mundo-e-cosmologia.md
+- **Ancient golden dragonfish** — teto da linhagem de dragonfish: ancient desolate beast de food path puro, "rei" do cardume, mas de força de combate ínfima (cap. 1484). → mundo-e-cosmologia.md
+- **Storey building water elephant** — desolate beast do Eastern Sea usado como moeda-mercadoria; raridade medida em "andares" de exoesqueleto de jade azul: 1-5 comuns, 6 = desolate, 7 = ancient, 8 = immemorial, **9 não existe** (cap. 1297). → economia-e-vida.md
+- **Shadow monster** — desolate beast nascida em áreas de dao marks densos de dark path (cap. 1379). → mundo-e-cosmologia.md
+- **Thousand Snakes Haze Tree** — planta desolate imemorial de Tai Qiu (70.770 galhos-serpente historicamente; queimada por raio celestial há 300 mil anos, resta um segmento de força rank 8 "fraco") (caps. 1085-1090). → mundo-e-cosmologia.md
+- **Grudge qi / grudge mudman** — aura verde-pálida de ressentimento coletivo de vítimas de extermínio, que se enreda no assassino e o torna rastreável / revivificação crua e temporária de um morto via grudge qi + matéria compatível em dao marks (caps. 1034-1036). → paths.md
+- **Ben Jie Sun** — nome mortal de Thieving Heaven Demon Venerable; otherworldly demon, aptidão grau D (caps. 1491-1492). → mundo-e-cosmologia.md
+- **Lord Huang Shi / Old Ancestor Xue Hu** — rank 8 de time path da Heavenly Court, "o mais habilidoso em lutar dentro do River of Time nos últimos dez mil anos" / rank 8, snow path great grandmaster, capaz de desmontar qualquer immortal killer move na hora (caps. 1431, 1501). → sociedade-e-organizacoes.md
+- **Domination Immortal (Chu Du)** — rank 7 lendário de Northern Plains, criador do human jun strength branch; poder só rivalizado por Qin Bai Sheng na região (caps. 1057, 1109-1110). → sociedade-e-organizacoes.md
+- **Human jun strength branch** — terceiro branch formal de strength path, criado por Chu Du; cultivado por 9 em cada 10 Gu Masters de Northern Plains como path secundário (cap. 1057) `[comum]`. → paths.md
+- **Restriction path** — branch formal de RULE PATH dedicado a restrições e barreiras; especialista histórico: Restriction Expert Tao Zhu (rank 8, Southern Border) (caps. 1031-1040). → paths.md
+- **Rule path** — categoria de dao marks aparentemente mais fundamental que os paths de cultivo comuns ("rule path life" em desolate beasts); concede vantagem estrutural para atravessar obstruções de formações Gu; mecanismo interno nunca explicado (caps. 1111, 1268) `[lacuna]`. → paths.md
+- **Human path / human qi** — path fundado por Ren Zu; o qi produzido por humanos e variant humans, essencial na ascensão e ligado à profundidade do human path (cap. 1489). → paths.md
+- **Corpse Emperor Yu Ding Tian** — montanha de cadáveres sobre os restos de um rank 8 zumbificado; produz zombie Gu (transformation) e zombie qi Gu (qi path) (cap. 1347). → mundo-e-cosmologia.md

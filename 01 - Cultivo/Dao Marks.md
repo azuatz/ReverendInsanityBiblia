@@ -178,6 +178,7 @@ Consequência política direta e muito jogável: **a aliança que constrói uma 
 
 ## Relações
 
+- [[Conflito de Marcas e Compatibilidade]] — o que as marcas acumuladas impedem de usar, item a item.
 - [[Tribulações e Calamidades]] — a fonte principal de dao marks e a razão da existência deles.
 - [[Ascensão Imortal]] — quando a abertura vira um mundo feito de dao marks.
 - [[Attainment]] — a compreensão, que decide o que se faz com o que se tem.

@@ -88,8 +88,9 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 | [[Bestas Gu e Reis Fera]] | A fauna: onde os Gu selvagens nascem, a hierarquia de reis fera e as marés de bestas | comum |
 | [[Blessed Lands e Grotto-Heavens]] | Os mundos pequenos privados: grades, espíritos da terra, tempo próprio, conquista, anexação | especializado |
 | [[Viver Dentro da Abertura Imortal]] | Como é a vida *por dentro* de um mundo privado: moradores, economia doméstica, rotina | especializado |
+| [[As Duas Eras de um Mestre Gu]] | **Ambientação e escala**: o mundo mortal e o mundo imortal como dois cenários distintos; o patamar de poder das organizações; onde os imortais moram e o que fazem | misto |
 
-**Sugestão de ordem de leitura desta pasta.** Comece por [[As Cinco Regiões]] (o chão onde tudo acontece) e [[Bestas Gu e Reis Fera]] (o que se encontra nele, e de onde vem o dinheiro) — as duas são `comum` e bastam para jogar. [[Lendas de Ren Zu]] vem em seguida, porque é a lente com que os próprios personagens interpretam o mundo. Só então suba para as notas de imortal ([[Blessed Lands e Grotto-Heavens]] e [[Viver Dentro da Abertura Imortal]]) e, por último, para as três de segredo ([[Vontade dos Céus]], [[Fate Gu]], [[Cosmologia]]) mais [[Tribunal Celestial]].
+**Sugestão de ordem de leitura desta pasta.** Comece por [[As Duas Eras de um Mestre Gu]], que dá a escala e o tom de tudo o mais — é a nota que responde "como é este mundo no dia a dia?". Siga por [[As Cinco Regiões]] (o chão onde tudo acontece) e [[Bestas Gu e Reis Fera]] (o que se encontra nele, e de onde vem o dinheiro) — as duas são `comum` e bastam para jogar. [[Lendas de Ren Zu]] vem em seguida, porque é a lente com que os próprios personagens interpretam o mundo. Só então suba para as notas de imortal ([[Blessed Lands e Grotto-Heavens]] e [[Viver Dentro da Abertura Imortal]]) e, por último, para as três de segredo ([[Vontade dos Céus]], [[Fate Gu]], [[Cosmologia]]) mais [[Tribunal Celestial]].
 
 > [!info] Nomes dos Veneráveis aparecem em inglês
 > Ao longo desta pasta, as dez figuras históricas de rank 9 são citadas pelo nome em inglês

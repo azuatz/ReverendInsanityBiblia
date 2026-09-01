@@ -108,6 +108,18 @@ contexto vivo se perde. Portanto:
 - Nomes de arquivo = título natural da nota (ex.: `Refino de Gu.md`), sem numeração,
   pois os wikilinks dependem do nome; a organização vem das pastas e tags.
 
+## Como retomar (para o usuário)
+
+- No terminal, o comando `ri` (função fish em `~/.config/fish/user.fish`) entra no
+  vault e roda `claude --continue`, retomando a última sessão deste diretório com
+  todo o contexto. Alternativas: `claude --continue` dentro da pasta, ou
+  `claude --resume` para escolher entre sessões antigas.
+- Mesmo numa sessão totalmente nova, nada se perde: este arquivo carrega sozinho e
+  `_pipeline/PROGRESSO.md` + `git log` dizem onde o trabalho parou. Atenção: agentes
+  que rodavam em segundo plano não sobrevivem ao desligamento — ao retomar, conferir
+  em `_pipeline/notas/` quais blocos ficaram incompletos (status `em-andamento`) e
+  relançá-los.
+
 ## Protocolo de sessão
 
 1. Ler `_pipeline/PROGRESSO.md` (se não existir, criar plano e iniciar o pipeline do briefing).

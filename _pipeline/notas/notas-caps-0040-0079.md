@@ -1,0 +1,101 @@
+# Notas brutas — Capítulos 040–079 (Volume 1)
+
+> Progresso da leitura: até o cap. 049
+> Status: em-andamento
+
+## 1. Mecânicas e regras
+- Auto-selamento (self-sealing) de Gu: quando um Gu não tem alimento, tem uma pequena chance de hibernar em vez de morrer de fome. Ele entra em estado de conservação máxima de energia, perdendo cor/textura viva e se cobrindo por uma casca de rocha (vira um fóssil/pedregulho) ou, em outros casos, por um casulo (ex.: Liquor Worm forma casulo branco). Esse processo é raro; na maioria dos casos o Gu simplesmente morre de fome (cap. 40).
+- Gu selado/hibernando é indetectável pela maioria dos métodos de detecção do mundo; métodos mais "grosseiros" de detecção matariam o Gu (que está "mal vivo") ao serem usados. Fang Yuan afirma (memória de vida passada) que rumores de métodos de detecção suaves e infalíveis são falsos ou, se existirem, são legado oculto controlado por poucas pessoas, sem impacto no mercado de apostas de pedra (cap. 40).
+- "Aposta de pedra" (rock gambling): fósseis vendidos sem se saber o que (se algo) há dentro; só abrindo se descobre. Regra geral: 9 em cada 10 pedras são maciças (sem Gu). Das que têm Gu, a maioria contém Gu morto. Um "double" ainda mais raro é "pedra dentro de pedra" (rock in a rock) — uma camada externa de um tipo de rocha escondendo um núcleo de composição diferente, sem necessariamente conter um Gu (cap. 41, 42). Estatística dada por Fang Yuan (500 anos de experiência): mesmo um especialista só acerta ~2 em 10 tentativas (i.e., taxa de perda de 80%) (cap. 43).
+- Abrir/"dissecar" um fóssil suspeito exige técnica: usar um Gu como o Moonlight Gu para desgastar a superfície lenta e uniformemente (fricção controlada por essência primeva), reduzindo a pedra a pó aos poucos. Movimentos bruscos podem matar um Gu hibernando frágil lá dentro; a técnica de "uso meticuloso" do Moonlight Gu para isso normalmente leva 2–3 anos de prática para se dominar bem (cap. 41).
+- Gu obtidos de dentro de fósseis nascem extremamente fracos (força e consciência raras/preguiçosas), praticamente indefesos, e por isso são facilmente refinados/subjugados pelo Gu Master que os desperta (cap. 42).
+- Refino de essência primeva (aperture/Primeval Sea) com o Liquor Worm: a essência primeva inicial (jade verde, "initial stage") é processada pelo Liquor Worm e convertida em essência de estágio médio (pale green/"middle stage"), que é mais densa e afunda no fundo do Mar Primevo (Primeval Sea), formando duas camadas visíveis (estágio inicial em cima, estágio médio embaixo) até que toda a essência seja convertida. Enquanto processa, o praticante repõe a essência gasta extraindo mais essência natural de primeval stones (cap. 43).
+- Fang Yuan converteu 45% do seu Mar Primevo (aperture) para essência de estágio médio graças ao Liquor Worm — isso foi o que permitiu abrir 5 pedras seguidas na casa de apostas (implicando que abrir pedras/usar o Moonlight Gu daquela forma consome bastante essência) (cap. 43).
+- Confirmação: Fang Yuan é talento grau C, mas usa o Liquor Worm para compensar, gastando primeval stones em taxa muito maior que pares de sua idade; ele estima que, contando "ritmo real de cultivo", estaria entre os 3 primeiros da geração (cap. 43).
+- Rank 1 Gu (ex.: Liquor Worm) é precioso para um Gu Master Rank 1, mas se torna incompatível/inútil para um Gu Master Rank 2 ou acima (eles não conseguem mais refinar essência com um Gu de rank tão baixo) — por isso expor a posse de um Liquor Worm é um risco baixo para Fang Yuan (contrasta com expor o Spring and Autumn Cicada, que ele diz que o mataria) (cap. 43, 44).
+- Um Gu Master consegue "esconder" a origem real de um Gu dizendo que o obteve de outra forma (ex.: "abri num fóssil"), pois ninguém pode provar o que realmente havia dentro de um fóssil já destruído; combinado com testemunhas de um evento parecido (ele abriu o Mudskin Toad publicamente) e o conceito de "sorte" como desculpa inatacável, cria uma cobertura plausível (cap. 43).
+- Cultivo do Mar Primevo (aperture) não substitui o sono; Gu Masters ainda precisam dormir (cap. 43).
+- Crescente aumento de gasto de primeval stones é esperado à medida que cultivo avança; Fang Yuan cita gasto de 4 pedras/dia no seu estágio (cap. 43).
+- Extorsão/combate: adversários "sparring" ficam mais fortes com o tempo (após repetidas surras, precisam de mais golpes para cair); há um limite de quantos oponentes seguidos alguém consegue vencer/exaurir antes de a resistência acabar (Fang Yuan estima poder aguentar mais "3-4 saques" de extorsão antes que os alunos fiquem fortes demais para ele os dominar sozinho) (cap. 43, 48).
+- Ostrich-chicken (ave de carga) e outros animais/Gu de montaria/carga citados na caravana: fat beetle worm (besouro gordo, monta cargas, andar lento), shaggy mountain spider (aranha de montanha peluda), winged snake (cobra alada que também rasteja na lama), toad Gu de carga (sapos que carregam Gu Masters e carga, saltando) (cap. 47).
+- Proteção contra chuva em caravana usa múltiplos Gu diferentes: (1) One-stretch Golden Light Worm — cria uma cúpula/bolha dourada semi-esférica protetora sobre carga, mas consome essência primeva continuamente, exigindo troca de operador quando a essência acaba; (2) Green Silk Gu — Rank 1, ativa crescimento acelerado do cabelo (100 mil fios, 5-6 metros cada) formando uma "capa de pelo" impermeável ao redor do usuário e sua montaria; usa 30% da essência primeva verde-cobre para ativar, sem gasto contínuo (diferente do One-stretch); (3) combinação de Green Silk Gu + Black Boar Gu (Rank 1) = Black Mane Gu (Rank 2), que estende a "armadura de pelos" a todos os poros do corpo em segundos; via de evolução do Black Mane Gu leva ao Steel Mane Gu (Rank 3, famoso); (4) Water Spider Gu — cria uma capa fina de água ao redor do corpo que absorve a chuva incidente e engrossa com o tempo, exigindo descarga periódica de água (cap. 47).
+- Viagem de caravana é perigosa: guerreiros mortais (sem Gu) sofrem mais baixas que os Gu Masters; doenças por exposição à chuva, estradas escorregadias, ataques de bestas selvagens em migração (podem aniquilar a caravana inteira), e risco humano (vilarejos que roubam forasteiros) são riscos citados explicitamente (cap. 47).
+- Herança (inheritance) de um Gu Master de rank alto pode incluir uma condição/tarefa imposta ao sucessor (ex.: o Flower Wine Monk exige que o herdeiro extermine o clã Gu Yue como condição para herdar seu legado) — reforça que heranças de cultivadores "demoníacos" (demonic cultivators) trazem testes/tarefas perigosas, ao contrário de heranças de cultivadores do caminho correto (righteous), mais "suaves" (cap. 46, 47).
+- Hierarquia de rank / poder territorial mencionada: Rank 3 = ancião de família (family elder); Rank 4 = senhor de vilarejo (village lord); Rank 5 = senhor de montanha (mountain lord, domina uma montanha inteira) (cap. 46).
+- Sistema social/clânico: crianças da clã passam por processo de "condicionamento" institucional — primeiro doutrinação de valores do clã, depois educação moral (elogio de laços familiares, amizade, amor), depois sistema de honrarias e prêmios (ex.: Small Redflower Award, Blue Neckcloth Prize, Five Outstanding Student Prize) que usam recursos/posições (monitor de turma, vice-monitor, depois líder de grupo e assistente) para recrutar e fixar lealdade dos mais talentosos como "sementes" (cap. 49).
+- Avanço de rank de Gu Master depende principalmente de talento (grade/letra, ex. A, B, C, D) — talento maior tende a resultar em avanço mais rápido ao próximo estágio (rank 1 middle stage etc.) (cap. 49).
+
+## 2. Gu catalogados
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Mudskin Toad (Toad Gu) | 2 | — | Gu raro; ingrediente principal necessário para refinar o "Treasure Brass Toad"; valor de mercado ~500 primeval stones | 500g de terra amarela (yellow soil) por refeição, quanto mais fértil melhor | 40, 42 |
+| Moonlight Gu | 1 (specialty do clã Gu Yue) | — | Emite luz azul tipo água na marca em formato de crescente na palma; usado com precisão para desgastar/lapidar superfícies (ex.: abrir fósseis de aposta); uso meticuloso leva 2-3 anos para dominar | Moon Orchid petals (implícito, cap. 40 contexto de auto-selamento) | 40, 41 |
+| Liquor Worm (Liquor Gu) | 1 | — | Refina essência primeva, elevando-a um reino inteiro inicial→médio (initial→middle stage); extremamente valioso para Gu Master Rank 1, mas inútil para Rank 2+ | Consome líquidos/vinho (bebe taças de vinho inteiras em segundos) | 43, 44 |
+| Black Boar Gu | 1 | — | Aumenta a força de um Gu Master permanentemente; raro no mercado, ~600 primeval stones | — | 44, 45, 47 (evolução) |
+| Black Mane Gu | 2 (evolução) | — | Combinação de Green Silk Gu + Black Boar Gu; ao ativar, gera armadura de pelos por todos os poros do corpo em segundos | — | 47 |
+| Steel Mane Gu | 3 (famoso) | — | Evolução do Black Mane Gu (via de avanço citada, efeito não detalhado) | — | 47 |
+| Green Silk Gu | 1 | — | Acelera crescimento de cabelo (100 mil fios, 5-6m cada) formando capa impermeável; ativação usa 30% da essência primeva verde-cobre, sem gasto contínuo | — | 47 |
+| One-stretch Golden Light Worm | — | — | Cria cúpula/bolha dourada protetora sobre uma área (cobre um fat beetle e sobra espaço); consumo contínuo de essência primeva até exaustão | — | 47 |
+| Water Spider Gu | — | — | Gera capa de água ao redor do corpo que absorve chuva; precisa ser descarregada periodicamente | — | 47 |
+| Photo-audio Gu | — | — | Grava imagens/áudio; usado pelo Flower Wine Monk para criar uma "parede de imagem" (image wall) que repete um registro em loop na parede de uma caverna | — | 45 |
+| Innocent Mushroom | — grass Gu | Path da grama (grass) | Absorve poeira/partículas do ar, purificando-o; cultivado propositalmente por Gu Masters como mobília viva (mesas/bancos orgânicos) | — | 44 |
+| Crystal ladybug | — | — | Corpo transparente tipo cristal, estômago oco, usado como recipiente/dispenser de líquidos preciosos (vinhos); libera líquido ao receber essência primeva | — | 44 |
+| Thousand Li Earthwolf Spider | 5 | — | Gu tipo montaria (steed-type), corpo grande, hábil em escavar/tunelar no subsolo; permitia ao Flower Wine Monk fugir de cultivadores do caminho correto | — | 46 |
+
+## 3. Mundo e sociedade
+- Rock gambling dens (casas de aposta de rocha): negócio comum no mundo Gu, com escala de pequeno a "mega" porte. Região do Qing Mao Mountain tem apenas casas pequenas; mais a leste, na região de Bai Tou Mountain, toda família/vilarejo tem sua própria casa de apostas, e há 3 vilarejos com mega casas de apostas com 1000+ anos de história e fluxo constante de clientes: Pan Shi Village (Monolith), Gu Mu Village (Ancient Grave) e Cang Jing Village (Pale Whale) (cap. 40).
+- Estrutura de preços em casas de apostas pequenas: contadores diferenciados por preço — 5, 10, 20 primeval stones por pedra, dependendo da "qualidade"/raridade aparente (cap. 40).
+- Hierarquia de identificação visual: Gu Masters usam um cinto colorido/crachá indicando rank; ex.: cinto verde = Rank 1 (com sub-distinção de estágio inicial/médio); crachá de jade quadrado com caractere numérico (ex. "um") no cinto denota Rank do usuário (cap. 40, 42).
+- Caravanas mercantes viajam entre vilarejos de montanha, parando por "três dias e três noites" em cada parada para comércio, depois seguem viagem (cap. 44). O comércio noturno é o auge do movimento.
+- Estrutura familiar de clã mercante (família Jia): um patriarca fundador que constrói riqueza do zero através de caravanas; ao se aproximar da morte, divide a herança entre dois filhos que devem liderar caravanas separadas e competir; quem tiver melhores resultados ganha mais bens. Esse sistema causou historicamente conflito armado entre herdeiros com convocação de ajuda externa e Gu fighting em larga escala, culminando na morte de ambos herdeiros e colapso rápido da fortuna familiar recém-prosperada (precedente histórico contado por Fang Yuan sobre Jia Fu/Jia Gui, gerações antes) — mecanismo estrutural de sucessão em clãs mercantes (cap. 45).
+- Reputação e "vitrine" de honestidade: líderes de clã/caravana mantêm imagem pública de honestidade/justiça para não perder negócios; punições públicas (compensação em dobro) e discursos são ferramentas de gestão de reputação, mesmo quando family/interno já sabe da manipulação por trás (caso Jia Fu x Jia Jin Sheng) (cap. 45).
+- Estrutura de academia de clã (Gu Yue): tem "academy elder" (responsável por gerir/educar alunos), instrutores de artes marciais, sistema de treino combinando combate físico entre alunos e prêmios em primeval stones. Times/facções sociais entre alunos se formam organicamente ao redor de talentos de maior potencial (aqui: Gu Yue Fang Zheng [A grade, ligado à facção do líder do clã], Gu Yue Chi Chen [B grade] e Gu Yue Mo Bei [B grade]) (cap. 48, 49).
+- Sistema de méritos/prêmios da academia: cargos como monitor de turma (class chairman) e vice, depois líder de grupo/assistente; prêmios nomeados citados: Small Redflower Award, Blue Neckcloth Prize, Five Outstanding Student Prize — usados deliberadamente pelo clã como mecanismo de controle social e fixação de lealdade dos talentos (cap. 49).
+- Village de Gu Yue tem estrutura de "fringe" (borda) versus áreas mais internas/prósperas (cap. 43).
+- Bai family (com talento A grade emergente, Bai Ning Bing) está em ascensão e a dominância da família Gu Yue no Qing Mao Mountain está enfraquecendo, segundo avaliação de um mercador (Jia Jin Sheng) (cap. 45) — fato de mundo/geopolítica regional, não enredo pessoal.
+
+## 4. Economia e vida cotidiana
+- Preço de aposta de pedra: 5 / 10 / 20 primeval stones por fóssil dependendo do contador (cap. 40).
+- Mudskin Toad vendido por 500 primeval stones (cap. 42).
+- Black Boar Gu (Rank 1) custa ~600 primeval stones no mercado, raro, vendido assim que aparece (cap. 44, 45).
+- Liquor Worm citado como Gu "extremamente precioso" para Rank 1, mas sem preço de mercado fixado no texto (implicitamente abaixo de 600, já que serve de referência comparativa "mais barato que Liquor worm" para o golpe de venda de Jia Jin Sheng) (cap. 45).
+- Uma primeval stone completa tem tamanho aproximado de um ovo de pato; ao ser parcialmente drenada de sua essência (refino), fica visivelmente menor (cap. 43).
+- Gasto diário citado de Fang Yuan: 4 primeval stones/dia nesse estágio de cultivo (cap. 43).
+- Prêmio de torneio de combate estudantil citado: 20 primeval stones para o vencedor (cap. 48).
+- Compensação pública em disputa comercial: dobro do valor da fraude (250 → 500 primeval stones) paga publicamente pelo líder de caravana em nome do "irmão" fraudador, como gesto de reputação (cap. 45).
+- Transação de suborno/negociação: Fang Yuan cobra 2000 primeval stones (sem negociação) de Jia Jin Sheng pela "parede de imagem" (image wall) — cifra usada como referência de valor de informação/chantagem política entre clãs rivais (cap. 45).
+- Loja de vinhos com "menu" (catálogo) de mais de 100 tipos de vinho, citados por nome (Lantern Grass Wine, Nine Tune Wine, Ancient Dragon Well, Flower Rock Tune, Hundred Spring Old Cellar, Intoxication of Three Autumns, Monkey Wine); vinhos servidos em taças de bambu, dispensados de crystal ladybugs vivas fixadas na parede da tenda (cap. 44).
+- Mobiliário orgânico: bancos/mesas feitos de Innocent Mushroom cultivados no chão de terra da loja, cap. 44.
+
+## 5. Estudos de caso mecânicos
+
+### Caso: Seleção de fósseis por eliminação (cap. 40)
+Método: sem detecção mágica confiável disponível no mercado, um comprador experiente usa heurísticas físicas para reduzir o campo de fósseis candidatos — tamanho relativo esperado do Gu embrulhado (fóssil deveria ser ~30% maior que o Gu revelado), textura da superfície (lisa vs. rugosa condizente com a pele do Gu-alvo), formato (achatado vs. abaulado) e padrão/distribuição da cor mineral (disperso "como estrelas" vs. sólido). Combinando conhecimento prévio (nesse caso, memória de vida passada) com essas heurísticas, o comprador reduziu ~20-30 candidatos a 6, com confiança subjetiva de 80% de que o alvo estava entre eles.
+
+### Caso: Técnica de abertura fina de fóssil com Gu de precisão (cap. 41, 42)
+Método: usar um Gu manipulável com controle fino de essência primeva (aqui, Moonlight Gu) para esfolar/desgastar a rocha camada por camada, ajustando a velocidade (rápido quando é rocha maciça confirmada, extremamente lento e cauteloso quando sinais indicam núcleo/Gu hibernando) para não matar o Gu frágil dentro. Recurso: controle de essência primeva + tempo + paciência. Resultado depende de sorte prévia (qual fóssil escolher) mas a técnica de execução evita desperdiçar um acerto.
+
+### Caso: Fabricação de alibi para origem de um Gu (cap. 43)
+Método: para esconder a origem real de um Gu sensível (aqui, um Liquor Worm herdado de uma herança secreta), o personagem cria deliberadamente um evento público substituto e plausível (abrir um fóssil de aposta de pedra na frente de testemunhas) para depois declarar publicamente que o Gu "aconteceu" de vir daquele fóssil. Elementos do método: (1) ninguém pode verificar o conteúdo real de um fóssil já destruído; (2) testemunhas de um evento de "sorte" real (o Mudskin Toad) tornam a alegação de uma segunda sorte mais plausível; (3) atribuir tudo à "sorte" torna a alegação impossível de refutar racionalmente; (4) escolher revelar apenas um Gu de rank baixo cujo valor real é irrelevante para Gu Masters de rank mais alto, minimizando o risco de ele ser cobiçado/roubado.
+
+### Caso: Manipulação de posição de poder via pareamento familiar (cap. 45, 47)
+Método/observação de mundo: chefe de clã mercante testa deliberadamente o caráter do herdeiro mais forte colocando um herdeiro mais fraco (mas com status formal) na mesma caravan sob sua autoridade — usado por Fang Yuan como estudo de caso de dinâmica de poder e como base para escolher um "peão" fácil de manipular (baixo cultivo, alta posição formal, pouca experiência) para fins de rede de contrabando e infiltração futura em disputas familiares (mecanismo social, não a trama em si).
+
+### Caso: Postura estratégica em combate de treino para preservar reputação/renda (cap. 48)
+Método: um lutador com stamina finita mas necessidade de manter reputação de invencibilidade (para sustentar um esquema de extorsão paralelo) escolhe sair voluntariamente da arena após uma sequência de vitórias, antes de estar visivelmente exausto ou de correr risco real de derrota, recusando o prêmio em dinheiro. Racional: perder uma luta destruiria a reputação de invencibilidade construída (que é o ativo real, mais valioso que o prêmio); retirar-se voluntariamente evita ambos os riscos (exposição de fraqueza e conflito direto com autoridade) sem violar nenhuma regra formal.
+
+## 6. Glossário
+- Mu (亩) — unidade de área chinesa, ~666,67 m² (cap. 40).
+- Antithetical couplet — par de versos opostos/complementares, decoração comum em entradas (cap. 40).
+- Primeval Sea — "Mar Primevo", o reservatório interno de essência primeva de um Gu Master (aperture) (cap. 43).
+- Primeval essence — essência primeva, energia de cultivo que existe em estágios de pureza/densidade (inicial verde-jade, médio verde-pálido, etc.) (cap. 43).
+- Rock gambling den — casa de aposta de rochas/fósseis, onde se compram fósseis sem saber o conteúdo (cap. 40).
+- Self-sealing (auto-selamento) — processo raro de hibernação de um Gu faminto, formando casca de pedra ou casulo (cap. 40).
+- Steed-type Gu — Gu usado como montaria (cap. 46).
+- Class chairman / vice chairman — cargos escolares usados como ferramenta de controle social dentro do clã (cap. 49).
+
+## 7. Dúvidas e lacunas
+- Não fica claro o mecanismo exato de "detecção suave" de Gu em fósseis que Fang Yuan menciona como rumor possivelmente real, mas não confirmado (cap. 40).
+- Não é dito com clareza o porquê exato de o crescimento capilar do Green Silk Gu não causar dano/queda de cabelo permanente ou como é revertido depois (cap. 47).
+- Falta detalhar completamente o efeito do Steel Mane Gu (Rank 3), apenas citado como evolução do Black Mane Gu (cap. 47).
+- Não está claro se a "condição" imposta por heranças de cultivadores demoníacos (destruir um clã, etc.) é uma regra geral do mundo ou específica desse caso do Flower Wine Monk (cap. 46).

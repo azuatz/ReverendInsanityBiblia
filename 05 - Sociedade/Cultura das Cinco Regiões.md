@@ -34,6 +34,24 @@ sustentavam.
 
 ## As cinco regiões
 
+> [!warning] Por que quase nada aqui tem nome — e o que fazer com isso
+> Você vai reparar que as organizações desta nota aparecem descritas ("um clã número um
+> absoluto", "uma cidade governada por uma raça alada") em vez de nomeadas. Isso é
+> **deliberado**: os nomes próprios da obra estão amarrados ao enredo, e este vault foi
+> escrito para poder ser lido por quem ainda vai ler a história. A consequência ruim, e
+> real, é que uma dúzia de entidades sem nome vira névoa quando você tenta desenhar um
+> cenário em cima delas.
+>
+> A solução adotada aqui: cada entidade recorrente ganha um **rótulo de trabalho entre
+> colchetes**, tipo `[Clã Número Um]`. Esses rótulos são ==invenção deste vault==, não
+> tradução de nada — a obra não os usa. Servem para você ter onde pendurar as coisas e
+> poder dizer "os personagens trabalham para o `[Clã da Prisão]`" sem precisar de nome
+> próprio. Troque-os pelos seus assim que tiver nomes melhores; nada no material depende
+> deles. O [[Glossário EN-PT]] registra os nomes próprios de algumas organizações cuja
+> menção não estraga o enredo, mas **não** os dos clãs da Fronteira Sul listados abaixo —
+> para esses, o rótulo de trabalho é tudo o que este vault oferece por decisão de política
+> de spoiler, e não por falta de informação.
+
 ### Fronteira Sul — o mundo dos clãs
 
 A região dos **[[Clãs|clãs de sangue]]**, e a mais bem documentada de todas. O sobrenome é
@@ -41,13 +59,30 @@ a cidadania. A pergunta que se faz a um desconhecido é "de que clã você é?",
 determina como ele será tratado.
 
 - **Estrutura:** pirâmide de clãs por porte, do super clã milenar ao vilarejo de uma única
-  família. No topo da contagem mortal fica um clã número um absoluto; logo abaixo, um
-  punhado de potências especializadas — comércio, investigação e justiça, transporte aéreo
-  — comparáveis entre si.
-- **Especialização como identidade:** cada grande clã tem uma vocação econômica declarada.
-  Um domina o comércio e as cidades-mercado; outro se apresenta como "a nêmesis do caminho
-  demoníaco" e sedia a prisão mais famosa do mundo; outro controla rotas e ligações com a
-  região marítima.
+  família. No topo da contagem mortal fica um clã número um absoluto — `[Clã Número Um]` —;
+  logo abaixo, um punhado de potências especializadas, comparáveis entre si.
+- **Especialização como identidade:** cada grande clã tem uma vocação econômica declarada,
+  e é por ela que a região os distingue:
+
+  | Rótulo de trabalho | Vocação declarada | O que ele controla na prática |
+  |---|---|---|
+  | `[Clã Número Um]` | nenhuma — é o primeiro em tudo | o topo absoluto da contagem mortal da região |
+  | `[Clã Mercador]` | comércio | as cidades-mercado e o fluxo de bens da região |
+  | `[Clã da Prisão]` | investigação e justiça; "a nêmesis do caminho demoníaco" | a caça a demoníacos e a prisão mais famosa do mundo |
+  | `[Clã das Rotas]` | transporte aéreo | as rotas de viagem e a ligação com o Mar Oriental — e, com elas, a informação rápida |
+
+  São **quatro** entidades ao todo, não mais: o clã do topo e três potências
+  especializadas. Os rótulos entre colchetes são nossos, não da obra — ver o aviso no
+  início desta seção.
+
+> [!note] Para o design
+> Essa tabela é, sozinha, um mapa de tensões da Fronteira Sul: quem controla o dinheiro
+> (`[Clã Mercador]`), quem controla o movimento (`[Clã das Rotas]` e `[Clã do Céu]`), quem
+> controla a violência legítima (`[Clã da Prisão]`) e quem está acima de todos eles
+> (`[Clã Número Um]`). Uma campanha de intriga regional cabe em decidir a qual desses
+> poderes os personagens devem favores — e o `[Clã da Prisão]` é o mais útil dos quatro em
+> mesa, porque emprega os personagens contra alvos que a própria mesa pode achar
+> simpáticos.
 - **Cultura:** hierárquica e cerimoniosa. Mortais se ajoelham diante de Mestres Gu, mesmo
   de rank 1. O desafio escrito é o instrumento padrão de disputa entre iguais.
 - **A regra da guerra formal:** clãs do caminho correto não tomam território por massacre.
@@ -71,9 +106,9 @@ estrutura formal precisa se constituir como **tribo**.
 - **Ideologia:** linhagem de sangue contra sistema mestre-discípulo, tratadas como
   ideologias rivais explícitas. O Continente Central é citado ali como exemplo cautelar do
   que acontece quando a segunda vence.
-- **Uma linhagem suprema:** existe uma família descendente de uma figura fundadora
-  histórica cuja autoridade é regional e cuja **espessura de sangue dá acesso mecânico** a
-  certas heranças. Por decreto antigo, tribos dessa linhagem derrotadas não podem ser
+- **Uma linhagem suprema — `[Linhagem Fundadora]`:** existe uma família descendente de uma
+  figura fundadora histórica cuja autoridade é regional e cuja **espessura de sangue dá
+  acesso mecânico** a certas heranças. Por decreto antigo, tribos dessa linhagem derrotadas não podem ser
   exterminadas, apenas subjugadas — e o sobrenome pode ser concedido a estranhos para
   repor população, e retirado depois.
 - **Organização física do acampamento:** mortais em tendas no anel externo (os primeiros a
@@ -119,8 +154,9 @@ exames em intervalos fixos.
 - **Estrutura:** dez grandes seitas ancestrais controlam cerca de quatro quintos dos
   recursos da região. Abaixo delas, seitas subsidiárias pagam tributo mensal por contrato
   com prazo.
-- **Governança:** conselhos de anciães supremos numerados, decidindo por maioria. É a
-  região com a política mais parlamentar do mundo.
+- **Governança:** conselhos de **anciãos supremos** numerados, decidindo por maioria — o
+  título dos Mestres Gu Imortais que sustentam uma seita nos bastidores, distinto do
+  "ancião" mortal descrito em [[Clãs]]. É a região com a política mais parlamentar do mundo.
 - **Disputas formalizadas até o detalhe:** expulsar uma rival de uma área ocupada pode
   exigir vencer duas de três disputas acordadas; há prazos fixos de exploração; e
   espectadores são proibidos de interferir. Um representante que disputa por sua seita
@@ -147,9 +183,10 @@ prestígio, não em direito**.
   momentos de fraqueza do adversário, como um período de luto, para forçar o desafio.
 - **Cobrança de entrada nas cidades:** taxas por pessoa, pagas em pedras primevas. Um
   detalhe pequeno que diz muito: a cidade é um serviço, e o acesso é mercadoria.
-- **Precedente sombrio:** um dos grandes clãs da região foi aniquilado por completo em
-  algum momento da história, e seu território virou um deserto-cemitério. É a região onde
-  a memória do extermínio total está mais viva.
+- **Precedente sombrio — `[Clã Extinto]`:** um dos grandes clãs da região foi aniquilado
+  por completo em algum momento da história, e seu território virou um deserto-cemitério. É
+  a região onde a memória do extermínio total está mais viva, e o nome apagado é usado como
+  advertência.
 
 ### Mar Oriental — o mundo das forças marítimas
 
@@ -193,10 +230,11 @@ universais numa mesa:
    quase sempre em posição subalterna. Elas só formam assentamentos de porte médio sob a
    proteção de algum cultivador imortal, e são compradas e vendidas como escravos em
    escala industrial, com uma lógica de precificação por "controlabilidade" que é
-   desconfortavelmente explícita. Existem exceções notáveis: uma cidade governada por uma
-   raça alada, com sucessão por torneio e uma cultura de liberdade tão radical que prefere
-   o suicídio coletivo à escravização; e ao menos uma raça que estabeleceu com humanos uma
-   **aliança**, e não uma relação de posse.
+   desconfortavelmente explícita. Existem exceções notáveis: `[Cidade Alada]`, uma cidade
+   governada por uma raça alada — os *feathermen* do original, um dos povos variantes
+   listados no [[Glossário EN-PT]] —, com sucessão por torneio e uma cultura de liberdade
+   tão radical que prefere o suicídio coletivo à escravização; e `[Raça Aliada]`, ao menos
+   uma raça que estabeleceu com humanos uma **aliança**, e não uma relação de posse.
 
 > [!warning] Uma mudança estrutural tardia
 > Em determinado ponto da história do mundo as barreiras entre as cinco regiões **caem**, e

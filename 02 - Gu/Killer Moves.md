@@ -18,6 +18,21 @@ conhecimento: comum
 acionados juntos, cuja sinergia produz um efeito **desproporcionalmente maior que a soma das
 partes** — e é o teto de poder de qualquer indivíduo neste mundo.
 
+> [!note] O que esta nota cobre
+> Esta é a nota mais longa do material, e ela empilha vários sistemas. O mapa, em ordem:
+>
+> 1. **O que são** e as famílias de golpe (por quem opera, por tipo de efeito, por relação
+>    com os Gu) — inclusive a comparação killer move × casa de Gu Imortal.
+> 2. **A economia de ações**: quantas coisas um personagem consegue fazer ao mesmo tempo.
+> 3. **A escala**, do golpe pontual ao campo de batalha imortal.
+> 4. **Como se criam** e como se melhoram.
+> 5. **Backlash** — o que acontece quando dá errado, e a tabela mais aproveitável da base.
+> 6. **Condensação** e a teoria que unifica tudo (matéria de mestre, não de mesa).
+>
+> Dois assuntos vizinhos moram em notas próprias: as **formações** estão em
+> [[Formações de Gu]], e os **golpes totêmicos** — a única forma de poder deste mundo que
+> não usa Gu — aparecem aqui em resumo, como uma das famílias.
+
 ## O que são
 
 Como cada Gu faz exatamente uma coisa, todo poder acima do trivial vem de **combinar**. Um
@@ -173,17 +188,26 @@ no máximo.
 
 ### A escala completa
 
-Do mais simples ao mais complexo, a taxonomia fechada do mundo:
+Do mais simples ao mais complexo, a taxonomia fechada do mundo. A coluna do meio diz **o que
+a coisa é**, porque metade da confusão nesta tabela vem de tratar como sinônimos coisas que
+funcionam de maneiras diferentes:
 
-| Categoria | Escopo |
-|---|---|
-| Gu único | pontual |
-| **Killer move usual** | pontual/local |
-| **Quase-campo de batalha** | até cerca de mil quilômetros |
-| **Campo de batalha** | um ambiente próprio, que suprime caminhos alheios |
-| **Campo de batalha imortal** | milhares de quilômetros; exige **múltiplas casas de Gu** como núcleos |
-| Formação de batalha antiga / formação de Gu / casa de Gu | territorial |
-| **Golpe totêmico** | o corpo do usuário |
+| Categoria | O que é | Escopo |
+|---|---|---|
+| Gu único | um bicho, um efeito | pontual |
+| **Killer move usual** | vários Gu articulados por uma pessoa, no momento do uso | pontual/local |
+| **Golpe totêmico** | um padrão de marcas gravado no corpo, sem nenhum Gu | o corpo do usuário |
+| **Quase-campo de batalha** | um golpe grande o bastante para cobrir uma região, mas que ainda **não cria um ambiente próprio**: não suprime os caminhos alheios | até cerca de mil quilômetros |
+| **Campo de batalha** | um golpe que **vira ambiente**: instala marcas do Dao temporárias que suprimem todos os caminhos exceto o do dono | a área do campo |
+| **Campo de batalha imortal** | o mesmo, em escala imortal; exige **múltiplas casas de Gu** como núcleos | milhares de quilômetros |
+| **Formação de Gu** | Gu **instalados num lugar**, operando sozinhos enquanto alimentados — não carregados no corpo | territorial, permanente |
+| **Casa de Gu Imortal** | uma estrutura tripulada, montada com Gu Imortais; efeito fixo e sem risco de falha | territorial, móvel |
+| **Formação de batalha ancestral** | várias pessoas fundidas numa entidade de combate única; quase extinta | um grupo, não um lugar |
+
+As quatro últimas linhas são o assunto de [[Formações de Gu]], que é a nota dona delas.
+A distinção que mais importa aqui: **golpe é o que se carrega, formação é o que se
+constrói.** As duas usam os mesmos ingredientes — vários Gu empilhando efeitos — e diferem
+em onde os Gu ficam e em quem os sustenta.
 
 ## Como se criam
 

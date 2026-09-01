@@ -33,18 +33,69 @@ Disso decorrem quatro coisas que valem como regra de sistema:
 
 O calendário é fixo, e o relógio conta o **tempo interno da abertura imortal do cultivador**, não o tempo do mundo lá fora. Isso é decisivo: uma abertura com fluxo temporal rápido produz mais recursos **e** enfrenta provações mais cedo em tempo externo. Desacelerar o fluxo com técnicas de tempo adia os desastres ao custo de estagnar o cultivo — não se produz energia nem se ganham dao marks enquanto o relógio está freado.
 
-| Rank | Cadência (tempo interno) | Total ao completar o rank | Critério de avanço |
-|---|---|---|---|
-| **6** | calamidade terrena a cada 10 anos; tribulação celestial a cada 100 | 9 calamidades antes da primeira tribulação celestial; 27 calamidades + 3 tribulações em 300 anos | 3 tribulações celestiais → rank 7 |
-| **7** | calamidade a cada 10; tribulação celestial a cada 50; **grande tribulação** a cada 100 | 24 calamidades + 3 tribulações celestiais + 3 grandes tribulações | 3 grandes tribulações (300 anos) → rank 8 |
-| **8** | sem calamidades terrenas; tribulação celestial a cada 10; grande a cada 50; **tribulação miríade** a cada 100 | 3 tribulações miríades | 3 miríades → rank 9 |
-| **9** | — | — | teto absoluto |
+Antes de ler a tabela, uma regra de leitura sem a qual nenhuma das contas fecha:
+
+> [!warning] A provação maior substitui a menor
+> Quando duas provações caem no **mesmo ano** do calendário, **só a maior
+> acontece**. Ela não se soma à menor: ocupa o lugar dela.
+>
+> É por isso que um rank 7, com "uma tribulação celestial a cada 50 anos" ao
+> longo de 300 anos, enfrenta **três** delas e não seis: as que cairiam nos anos
+> 100, 200 e 300 foram substituídas pelas grandes tribulações do mesmo ano,
+> sobrando as dos anos 50, 150 e 250. Pela mesma lógica, das trinta calamidades
+> que caberiam em 300 anos sobram 24.
+>
+> Cada rank imortal dura **cerca de 300 anos internos** de calendário completo —
+> é esse o período que a coluna "total" cobre.
+
+| Rank | Cadência (tempo interno) | Total ao completar os ~300 anos | Dao marks que isso rende | Critério de avanço |
+|---|---|---|---|---|
+| **6** | calamidade terrena a cada 10 anos; tribulação celestial a cada 100 | 27 calamidades + 3 tribulações celestiais (e as **9 primeiras calamidades** vêm antes da primeira celestial) | 27 × 250 + 3 × 750 = **9.000** | 3 tribulações celestiais → rank 7 |
+| **7** | calamidade a cada 10; tribulação celestial a cada 50; **grande tribulação** a cada 100 | 24 calamidades + 3 tribulações celestiais + 3 grandes tribulações | 24 × 250 + 3 × 750 + 3 × 7.250 = **30.000** | 3 grandes tribulações → rank 8 |
+| **8** | sem calamidades terrenas; tribulação celestial a cada 10; grande a cada 50; **tribulação miríade** a cada 100 | 24 tribulações celestiais + 3 grandes + 3 miríades | 24 × 750 + 3 × 7.250 + 3 × 86.750 = **300.000** | 3 miríades → rank 9 |
+| **9** | **não há calendário** — o rank 9 é o teto do sistema e a obra não descreve provações periódicas acima dele | — | — | teto absoluto: não existe rank 10 |
+
+Repare que a coluna dos dao marks é a mesma coisa que as faixas por rank de
+[[Dao Marks]]: o calendário **é** a curva de progressão. Não são dois sistemas,
+é um só visto de dois ângulos.
 
 A hierarquia de força é estrita: calamidade terrena < tribulação celestial < grande tribulação < tribulação miríade. A força de cada grande tribulação sucessiva cresce **dezenas a centenas de vezes** em relação à anterior — é essa curva, e não uma regra arbitrária, que explica por que o rank 8 é tão raro. O rank 7 mais forte de uma região inteira, com milhares de anos de idade, pode estar travado diante da grande tribulação final e simplesmente não ousar tentá-la.
 
 A tribulação miríade é categoria à parte: um imortal que passou com folga por tudo o que veio antes pode ser pego de surpresa pela primeira, e ela pode ser de um caminho completamente alheio ao dele. **Somente dez pessoas em toda a história passaram pelas três miríades** — e são exatamente os dez [[Tornar-se Venerável|Veneráveis]].
 
 Duas notas importantes: calamidades e tribulações só ocorrem **dentro de aberturas imortais**, nunca nas terras do mundo comum. E uma abertura morta — o caso dos mortos-vivos imortais — não sofre nenhuma provação, e por isso também não ganha dao mark algum.
+
+> [!warning] O relógio interno é um só — e é por isso que o atalho óbvio não existe
+> Esta é a pergunta que todo jogador vai fazer na primeira sessão, então convém
+> respondê-la de uma vez. O raciocínio é: *se o calendário de provações roda no
+> tempo interno da abertura, e o tempo de vida de um imortal conta o tempo que
+> ele de fato **experienciou** (por isso imortais ricos preferem passar a vida
+> fora da própria abertura), então basta morar fora para progredir trinta vezes
+> mais rápido sem envelhecer trinta vezes mais.*
+>
+> **Não funciona, porque os dois relógios são o mesmo relógio.** O que um imortal
+> faz para economizar vida não é sair de casa: é **externalizar a própria
+> abertura**, e uma abertura externalizada tem o fluxo interno normalizado para
+> perto de 1:1. Quem faz isso deixa de envelhecer depressa — e, na mesma medida,
+> deixa de produzir energia depressa e deixa de acumular provações depressa.
+> A dilatação temporal é uma alavanca única, com três coisas presas nela:
+> **velocidade de vida, velocidade de renda e velocidade de perigo**. Não há
+> como puxar uma sem puxar as outras duas, e é isso que mantém a economia do
+> rank 6 em pé.
+>
+> **O que a obra não decide, e você precisa decidir:** se as provações acontecem
+> com o dono **ausente** da abertura. O texto nunca diz. Duas regras possíveis, e
+> qualquer uma fecha:
+> 1. *A provação espera o dono.* O relógio continua, a provação fica pendente e
+>    dispara quando ele volta. Consequência de mesa: ausência vira dívida
+>    acumulada, e voltar para casa é um evento.
+> 2. *A provação acontece de qualquer forma.* Ausência significa a terra
+>    enfrentando o desastre sem defensor — perda de recursos, de ecossistema e,
+>    no limite, da própria terra. Consequência de mesa: viajar tem custo fixo, e
+>    contratar um zelador é um serviço que existe.
+>
+> A opção 2 combina melhor com o resto do sistema (a terra é o que o céu ataca,
+> não a pessoa) e é a que recomendamos; mas isto é reconstrução nossa, não texto.
 
 ## Os números por provação
 

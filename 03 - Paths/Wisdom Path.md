@@ -75,7 +75,10 @@ As regras que a cercam são precisas:
 - **Depende de fundamento e de evidências.** Nenhuma quantidade de luz deduz algo sobre um
   caminho que o usuário não estuda.
 - **Sessões têm teto** de cerca de sete dias contínuos — depois disso, a mente "ferve".
-  Curiosamente, é a erudição no **caminho do fogo** que regula essa resistência.
+  Curiosamente, é a erudição no **caminho do fogo** que regula essa resistência — um dos
+  caminhos menores que a obra cita de passagem e nunca desenvolve, e que por isso não tem
+  nota própria nesta pasta. Ver a nota de rodapé sobre caminhos não cobertos em
+  [[Visão Geral dos Paths]].
 - **Forçar além do próprio limite causa lesão mental real.**
 - **Vincula-se a uma pessoa**, e o vínculo exige que **corpo e alma** do usuário reconhecido
   estejam presentes **juntos**. Uma alma habitando outro corpo não o aciona.
@@ -113,7 +116,32 @@ adapta ao que você pode pagar. Já matou quem consultou sem conferir a própria
 | Pensamento-Estrela | 5 | Converte perguntas em pensamentos manipuláveis |
 | Tabuleiro Constelar (casa de Gu) | 8 → 9 | O número um do caminho; multiplica a capacidade de dedução |
 
-(⭐ = Gu Imortal, único no mundo.)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
+
+> [!warning] Dois Gu de adivinhação diferentes, e é fácil confundi-los
+> Este caminho tem **dois** Gu de topo que cobram tempo de vida, e a semelhança já produziu
+> confusão dentro deste próprio material. Eles não são o mesmo objeto:
+>
+> | | **Segredo Celestial** | **Gu da Sabedoria** |
+> |---|---|---|
+> | Nível | 7 → 8 | 9 |
+> | O que faz | pergunta dirigida a céu e terra; deduz **sem evidências** | acelera pensamento e dedução em geral |
+> | Falha | **cerca de 80%** das ativações | — |
+> | Custo | **10 a 70 anos de vida** por falha | tempo de vida, sem número fechado |
+> | Quem alcança | um Gu Imortal de rank 7 ou 8 | ninguém abaixo de Venerável |
+>
+> Os números famosos — os 80% de falha e os 10 a 70 anos — são do **Segredo Celestial**, que
+> é um Gu de nível 7 → 8. [[Longevidade]] atribui essa mesma estatística a "um Gu de
+> adivinhação de nível 9"; é a troca dos dois. Para efeito de jogo, vale o desta tabela: o
+> efeito de adivinhação mais importante do mundo está ao alcance de um **rank 7**, não
+> apenas de um Venerável — o que muda completamente quem, na mesa, pode fazer a pergunta.
 
 ## Em combate e fora dele
 

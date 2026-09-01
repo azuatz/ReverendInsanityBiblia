@@ -29,18 +29,48 @@ E há a demonstração mais limpa de todas: no mundo mortal, o refino de Gu é u
 
 ## A escala completa
 
-| Nível | O que significa |
-|---|---|
-| Ordinário | sabe usar, aprende por tentativa e erro |
-| **Mestre** | o uso vira artístico e emerge o **instinto**: o cultivador *sente* se uma combinação vai funcionar **antes** de testá-la |
-| Quase-grão-mestre | degrau real e nomeado, não aproximação retórica |
-| **Grão-mestre** | o instinto fica muitas vezes mais forte; passa a ser possível montar golpes que **mimetizam outros caminhos** usando os Gu do próprio |
-| Quase-grande-grão-mestre | — |
-| **Grande grão-mestre** | pode montar formações usando diretamente os dao marks naturais do mundo, com pouquíssimos Gu |
-| **Quase-supremo grão-mestre** | perto do topo, e ainda assim qualitativamente distinto do que vem depois |
-| **Supremo grão-mestre** | não basta compreender toda a profundidade do caminho: é preciso **INOVAR**. Cada avanço neste nível eleva o teto do caminho inteiro — e, em alguma medida, do próprio céu e terra |
+A escala tem **nove degraus**, nesta ordem. Esta nota é a **fonte única** da
+escala no vault: onde qualquer outra nota citar um nível de attainment, é para
+esta tabela que ela deve remeter, em vez de reproduzir a lista.
+
+A terceira coluna é uma **âncora**: a coisa concreta do material que só acontece
+naquele degrau, ou a raridade dele no mundo. Serve para responder "onde está o
+meu personagem?" sem depender de adjetivos. Onde a coluna diz que a obra não
+fixa, é lacuna real — não há número escondido em outra nota.
+
+| # | Nível | O que significa | Âncora concreta |
+|---|---|---|---|
+| 1 | Ordinário | sabe usar, aprende por tentativa e erro | é onde a **esmagadora maioria dos Mestres Gu morre**, e onde todo personagem começa |
+| 2 | Quase-mestre | degrau real e nomeado | é o degrau dos **gênios e dos veteranos** de um caminho — já notável, ainda não raro |
+| 3 | **Mestre** | o uso vira artístico e emerge o **instinto**: o cultivador *sente* se uma combinação vai funcionar **antes** de testá-la | já é **raríssimo** entre mortais: num torneio que reuniu a elite de uma corte inteira havia cinco mestres de escravização e dois de voo. Entre imortais a proporção se inverte por especialidade — oito ou nove em cada dez são ao menos mestres de voo, contra dois ou três em dez no refino. Não se fabrica com recursos: exige talento inato somado a capacidade |
+| 4 | Quase-grão-mestre | degrau real e nomeado | a obra **não descreve efeito próprio** para ele; trate como a metade do caminho entre os dois vizinhos |
+| 5 | **Grão-mestre** | o instinto fica muitas vezes mais forte; passa a ser possível montar golpes que **mimetizam outros caminhos** usando os Gu do próprio | **duzentos a trezentos anos** de acúmulo é o tempo típico para chegar aqui. É uma das **duas** fontes conhecidas de qi humano abundante, e portanto de uma [[Blessed Lands e Grotto-Heavens\|terra abençoada]] grande na [[Ascensão Imortal\|ascensão]]; e é o piso para anexar a abertura de quem cultiva aquele caminho |
+| 6 | Quase-grande-grão-mestre | degrau real e nomeado | **a obra não descreve o que ele acrescenta.** Lacuna registrada: se precisar de um efeito na mesa, invente sem medo de contradizer o cânone |
+| 7 | **Grande grão-mestre** | é aqui que ocorre uma **mudança qualitativa específica de cada caminho**, e não um ganho genérico | é o degrau mais alto **alcançável por dedução teórica pura**, sem combate e sem reino de sonho |
+| 8 | **Quase-supremo grão-mestre** | perto do topo, e ainda assim qualitativamente distinto do que vem depois | é o **teto documentado do que uma herança alcança** (ver "O teto da herança"); uma receita de refino deduzida neste degrau chega a **50%** de sucesso, contra cerca de 1% do refinador comum |
+| 9 | **Supremo grão-mestre** | não basta compreender toda a profundidade do caminho: é preciso **INOVAR**. Cada avanço neste nível eleva o teto do caminho inteiro — e, em alguma medida, do próprio céu e terra | é a terceira das quatro condições para [[Tornar-se Venerável\|virar Venerável]]; ao longo de toda a história do mundo, **dez pessoas** chegaram lá |
 
 Os níveis "quase-" são degraus reais, com efeitos próprios, e a diferença entre quase-supremo e supremo é **qualitativa, não de grau**. É esse último salto que separa os dez maiores seres da história de todos os outros.
+
+> [!warning] Conte pelo nome, nunca pelo número
+> Todos os pré-requisitos deste material são enunciados por **nome** de degrau
+> ("exige grão-mestre", "mestre para anexar uma terra de rank 6") — nunca pela
+> posição na escada. Isso é proposital: existem no material versões antigas da
+> escala com oito degraus, que omitiam o quase-mestre e por isso desalinhavam a
+> numeração em um. A ordem dos nomes acima é a canônica; se encontrar uma lista
+> com oito, é a antiga.
+
+Duas notas sobre o que a mudança qualitativa do grande grão-mestre significa na
+prática, porque ela **muda de caminho para caminho**: quem chega lá no caminho
+das formações passa a montar formações a partir dos dao marks naturais do mundo,
+quase sem Gu; quem chega lá no caminho do fogo passa a armar armadilhas que nem
+um perito do mesmo caminho detecta; e é só a partir daí que alguém consegue
+deixar um verdadeiro significado como herança.
+
+O que **não** existe na escala: nenhum degrau abaixo de ordinário e nenhum acima
+de supremo grão-mestre. Attainment também não é por pessoa, e sim **por
+caminho**: o mesmo cultivador pode ser grão-mestre num caminho e ordinário em
+outros cinco, e isso é o caso normal, não a exceção.
 
 Uma distinção que o mundo faz e vale reproduzir: **mestre não se fabrica com recursos** — exige talento inato mais capacidade. **Grão-mestre está uma categoria acima**, e a metáfora usada é grama contra árvore: exige talento, aptidão, recursos, oportunidades e compreensão reunidos. Um grão-mestre consegue aprender qualquer caminho usando o próprio como base.
 
@@ -64,7 +94,26 @@ O **verdadeiro significado (true meaning)** é a forma de herança mais valiosa 
 Mas o sistema tem uma trava, e ela é a coisa mais importante desta nota:
 
 > [!warning] Nenhuma herança entrega o degrau final
-> **Nenhum verdadeiro significado documentado concede supremo grão-mestre** — porque supremo grão-mestre exige **inovação própria**, e inovação, por definição, não se herda. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar específico e quase inacessível, mencionado no mito fundador do mundo, cuja entrada eleva **um** caminho do visitante diretamente a supremo grão-mestre. Ele é, por isso, o gargalo geográfico de toda corrida pelo topo.
+> **O que nenhuma herança faz é entregar o nono degrau: nenhum verdadeiro
+> significado documentado concede supremo grão-mestre** — porque supremo
+> grão-mestre exige **inovação própria**, e inovação, por definição, não se herda.
+> Um legado só contém o que o antecessor já criou. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar específico e quase inacessível, mencionado no mito fundador do mundo, cuja entrada eleva **um** caminho do visitante diretamente a supremo grão-mestre. Ele é, por isso, o gargalo geográfico de toda corrida pelo topo.
+
+**Onde exatamente fica o teto, então?** A obra dá duas medidas que precisam ser
+lidas juntas. Como *regra enunciada*, ela diz que reinos de sonho e heranças
+levam "no máximo a grande grão-mestre" — o sétimo degrau. Como *caso
+documentado*, existe um verdadeiro significado que levou um caminho direto ao
+**quase-supremo grão-mestre**, o oitavo, e o mundo inclusive descreve esse
+oitavo degrau como sendo tipicamente o de quem herdou a compreensão de um mestre
+histórico sem ter inovado além dela.
+
+A leitura que concilia as duas, e a que este material adota: **o teto real da
+herança é o quase-supremo grão-mestre (degrau 8); o grande grão-mestre é o teto
+usual, o que se alcança na maioria das vezes.** O que nenhuma das duas medidas
+admite é o degrau 9. Para uma mesa, a consequência prática é uma só e é grande:
+existe **um único degrau** que nenhuma riqueza, nenhum legado e nenhuma sorte
+compram — e ele é justamente o que separa os dez maiores da história de todos os
+outros.
 
 Duas restrições secundárias, úteis para worldbuilding: apenas alguns caminhos deixam verdadeiro significado com facilidade. Nos demais, o cultivador precisa antes alcançar um nível de mimetismo daquele caminho para conseguir deixar a herança. Os dez maiores da história são exceção a essa restrição, o que é parte do que os torna excepcionais.
 
@@ -84,5 +133,7 @@ A regra do mundo enunciada no mesmo trecho: "o homem é o espírito de todos os 
 - [[Ascensão Imortal]] — grão-mestre como uma das duas fontes de human qi abundante.
 - [[Tornar-se Venerável]] — supremo grão-mestre como a terceira das quatro condições.
 - [[Ranks e Avanço]] — por que dois cultivadores do mesmo rank não valem o mesmo.
+- [[Tabelas de Referência Rápida]] — a escala de oito degraus em formato de consulta, ao lado dos demais números do sistema.
+- [[Refino de Gu]] — o lugar onde o attainment vira taxa de sucesso mensurável.
 
 [^1]: Atenção a uma colisão de vocabulário em português: o nível de attainment chamado "Mestre" (mestre do caminho da sabedoria, por exemplo) não tem nenhuma relação com "Mestre Gu", que é como se chama qualquer cultivador. São conceitos diferentes que dividem a mesma palavra. A tradução brasileira usa "Grão-Mestre", "grande grão-mestre" e "Supremo Grão-Mestre" para os níveis seguintes.

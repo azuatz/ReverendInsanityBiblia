@@ -10,7 +10,7 @@ aliases:
   - Tabelas Numéricas
   - Números do Sistema
 status: verificado-no-texto
-fontes: ["cap. 7", "cap. 10", "cap. 26", "cap. 29", "cap. 90-91", "cap. 105", "cap. 121", "cap. 212", "cap. 273", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 460", "cap. 516", "cap. 608", "cap. 633", "cap. 690", "cap. 740", "cap. 826", "cap. 860", "cap. 939", "cap. 1007", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1398", "cap. 1459", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1569", "cap. 1703", "cap. 1756-1758", "cap. 1842", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2118", "cap. 2145", "_pipeline/pesquisa/CORRECAO-limiares-aptidao.md"]
+fontes: ["cap. 7", "cap. 10", "cap. 26", "cap. 29", "cap. 90-91", "cap. 105", "cap. 121", "cap. 212", "cap. 273", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 460", "cap. 516", "cap. 608", "cap. 633", "cap. 690", "cap. 740", "cap. 826", "cap. 860", "cap. 939", "cap. 1007", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1398", "cap. 1459", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1569", "cap. 1703", "cap. 1756-1758", "cap. 1842", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2118", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2295", "_pipeline/pesquisa/CORRECAO-limiares-aptidao.md"]
 conhecimento: misto — as tabelas de aptidão, ranks e cores são conhecimento comum no mundo; dao marks, tribulações, essências imortais e attainment são conhecimento especializado; as quatro condições para virar Venerável são segredo de altíssimo nível
 ---
 
@@ -130,7 +130,7 @@ nunca como cânone.
 | 2 → 3 | 65% | `inferido` — extrapolação, nunca enunciada |
 | 3 → 4 | 75% | `inferido` — extrapolação, nunca enunciada |
 | 4 → 5 | 85% | `inferido` — extrapolação, nunca enunciada |
-| 5 → 6 | não se aplica | a ascensão a Imortal **não é percentual** (ver seção 8) |
+| 5 → 6 | não se aplica | a ascensão a Imortal **não é percentual** (ver seção 9) |
 
 > [!warning] Só o 55% é da obra
 > A escada 65/75/85 é uma reconstrução plausível, feita para dar continuidade à
@@ -225,18 +225,27 @@ formado a partir do próprio Imortal morto, que pode gastar a essência que ele 
 
 ## 5. Escala de valor das essências imortais
 
-Cada degrau de denominação vale cerca de **cem vezes** o anterior. Compondo os dois
-degraus, chega-se à proporção que resume a economia imortal inteira:
+Cada degrau de denominação vale cerca de **cem vezes** o anterior. A tabela abaixo
+responde a uma pergunta só, e é preciso ler o cabeçalho com atenção porque a
+direção da razão é fácil de inverter: **quantas contas de cada denominação são
+precisas para igualar o valor de UMA conta de lichia-branca (rank 8)?**
 
-| green grape (r6) | red date (r7) | white litchi (r8) |
+| Denominação | Rank de quem produz | Contas necessárias para igualar 1 lichia-branca |
 |---|---|---|
-| **10.000** | **100** | **1** |
+| green grape (uva-verde) | 6 | **10.000** |
+| red date (tâmara-vermelha) | 7 | **100** |
+| white litchi (lichia-branca) | 8 | **1** (é a própria referência) |
 
-Leia assim: são precisas dez mil contas de uva-verde para igualar uma única conta de
-lichia-branca. A obra confirma o degrau de ~100× por rank e afirma diretamente que
-cem contas de uva-verde valem **menos** que uma de lichia-branca — o que é coerente
-com a razão de 10.000 : 1 acima. A proporção exata entre denominações consecutivas é
-`inferido` a partir do multiplicador de 100× por rank; o multiplicador em si é texto.
+Ou seja, a conta de rank mais alto é a **mais valiosa**, e são precisas dez mil
+contas de uva-verde para igualar uma única de lichia-branca. Se você encontrar em
+alguma nota a proporção escrita como "uva-verde : tâmara : lichia = 10.000 : 100 :
+1" sem essa explicação de cabeçalho, é esta tabela que vale: o número grande está
+do lado da moeda **fraca**, porque é preciso muito dela para igualar pouco da forte.
+
+A obra confirma o degrau de ~100× por rank e afirma diretamente que cem contas de
+uva-verde valem **menos** que uma de lichia-branca — o que é coerente com a razão
+acima. A proporção exata entre denominações consecutivas é `inferido` a partir do
+multiplicador de 100× por rank; o multiplicador em si é texto.
 
 Há uma âncora com a moeda dos Imortais, a **pedra de essência imortal**:
 
@@ -244,18 +253,47 @@ Há uma âncora com a moeda dos Imortais, a **pedra de essência imortal**:
 - 1 pedra de essência imortal vale **mais de 100 milhões** de [[Pedras Primevas]] —
   a moeda dos mortais.
 
-Para dar escala de produção: o núcleo de uma abertura imortal excepcional de rank 7
-produz cerca de **16 contas de red date por dia**, o equivalente a 1.600 pedras de
-essência imortal diárias. As mesmas 16 contas, se fossem de white litchi (rank 8),
-valeriam 160.000 pedras por dia — o mesmo salto de cem vezes, agora em renda.
+> [!warning] O número de produção abaixo é um recorde, não uma média
+> Existe na obra uma medida de produção citada com frequência: o núcleo de uma
+> abertura imortal **excepcional** de rank 7 produz cerca de **16 contas de red
+> date por dia**, o equivalente a 1.600 pedras de essência imortal diárias.
+>
+> Esse número é um **teto documentado**, e não a renda de um rank 7 qualquer. Ele
+> não deve ser cruzado sem cuidado com as grades de terra abençoada da seção 9,
+> que falam de **10 a 50 contas de uva-verde por ano** — porque as duas medidas não
+> são a mesma coisa: a seção 9 mede uma terra **recém-nascida de rank 6** e conta
+> em uva-verde; este número mede um núcleo **excepcional de rank 7** e conta em
+> tâmara-vermelha, que vale cem vezes mais por unidade.
+>
+> Mesmo corrigindo a denominação e o rank, sobra uma distância que a obra não
+> fecha: anualizado, o núcleo excepcional daria da ordem de 5.800 contas/ano contra
+> as 50+ da melhor grade da seção 9. Não temos como reconciliar os dois números com
+> o texto na mão, e preferimos registrar a lacuna a inventar uma ponte. **Para uso
+> em mesa, calibre pelas grades da seção 9** — elas descrevem o caso típico — e
+> trate as 16 contas/dia como o extremo superior absoluto da escala, o patrimônio
+> de uma figura histórica.
 
 > [!note] Para o design
-> Esta é uma economia de três moedas com câmbio fixo e brutalmente inflacionário
-> entre camadas: a moeda mortal, a pedra de essência imortal e as quatro
-> denominações pessoais. O detalhe elegante é que a moeda mais alta **não é
-> transferível entre pessoas** — riqueza imortal é literalmente intransferível, o
-> que mata pela raiz qualquer economia de mercenariado no topo e força alianças a
-> serem feitas em favores, não em pagamento.
+> Esta é uma economia de **três instrumentos diferentes**, e a distinção entre eles
+> é o que faz o topo do sistema funcionar:
+>
+> - A **[[Pedras Primevas|pedra primeva]]** é a moeda dos mortais, e circula
+>   normalmente.
+> - A **pedra de essência imortal** é a moeda corrente dos Imortais: circula,
+>   compra, paga serviços, rende juros e é penhorável. É com ela que funcionam a
+>   praça de comércio, os empréstimos e os contratos descritos em
+>   [[Economia Imortal]].
+> - As **contas de essência** (uva-verde, tâmara, lichia) **não são moeda**: são o
+>   combustível pessoal do Imortal, produzido pela abertura dele e utilizável
+>   apenas por ele. Essas, sim, são intransferíveis.
+>
+> A consequência de design é mais interessante que "não há economia no topo", que
+> seria falso: há economia, e ela é vigorosa. O que a intransferibilidade das
+> contas garante é que **ninguém compra potência de combate diretamente**. Dinheiro
+> imortal compra materiais, serviços, informação, receitas e favores — mas a
+> energia com que você luta só a sua própria abertura produz. Um Imortal riquíssimo
+> e preguiçoso continua fraco, e é por isso que alianças no topo se pagam em favores
+> e em acesso, não em soldo.
 
 ---
 
@@ -317,15 +355,39 @@ apenas o **caminho principal** dele e excluindo prodígios e Veneráveis:
 ## 7. Amplificação por dao marks
 
 Dao marks não são só um contador de progresso: eles **multiplicam diretamente** o
-efeito dos Gu Imortais do mesmo caminho. A obra fecha a fórmula com três âncoras
-numéricas explícitas:
+efeito dos Gu Imortais do mesmo caminho. Esta tabela responde "com X marcas do
+caminho gravadas no corpo, quão mais forte fica o que eu faço nesse caminho?".
 
-| Dao marks no caminho | Amplificação do efeito |
-|---|---|
-| 100 | +10% |
-| 1.000 | 2× (o dobro) |
-| 10.000 | 10× |
-| 50.000 | 50× |
+A amplificação incide sobre o **efeito declarado do Gu, seja ele qual for** — dano,
+duração, alcance, área, número de alvos. A obra trata o efeito como uma grandeza
+única e não o decompõe: um Gu que queima com força 1 queima com força 10 quando o
+usuário tem dez vezes mais peso de marcas. Ela **não** amplifica o custo de
+ativação (ver a primeira regra abaixo), nem o attainment, nem a chance de acerto.
+
+| Dao marks no caminho | Amplificação do efeito | Origem |
+|---|---|---|
+| 100 | +10% (1,1×) | ponto citado na obra |
+| 1.000 | 2× (o dobro) | ponto citado na obra |
+| 10.000 | 10× | ponto citado na obra (arredondado — ver abaixo) |
+| 50.000 | 50× | ponto citado na obra (arredondado — ver abaixo) |
+
+São **quatro** pontos avulsos, e a obra nunca enuncia a fórmula que os liga. A
+fórmula abaixo é reconstrução nossa, e é o que recomendamos usar em mesa:
+
+> **`inferido` — efeito final = efeito base × (1 + dao marks ÷ 1.000)`**
+
+Ela reproduz exatamente os dois primeiros pontos (100 marcas → 1,1×; 1.000 marcas →
+2×) e reproduz os dois últimos com um arredondamento que a própria obra
+evidentemente faz: 10.000 marcas dariam 11× e o texto diz "dez vezes"; 50.000
+dariam 51× e o texto diz "cinquenta vezes". Em números grandes, o "+1" da fórmula
+some no arredondamento, e é por isso que os quatro pontos parecem obedecer a duas
+regras diferentes quando olhados isoladamente.
+
+O ganho prático de ter a fórmula escrita é poder **interpolar**, que é o que uma
+mesa faz o tempo todo e a lista de quatro pontos não permite: com 5.000 dao marks,
+o efeito é 6× o base (1 + 5.000 ÷ 1.000), e não 5×. Note que a curva é **linear**,
+não exponencial — dobrar as marcas praticamente dobra o efeito, sem retornos
+crescentes nem decrescentes.
 
 Duas regras tornam esse número o investimento de melhor retorno do sistema inteiro:
 
@@ -367,13 +429,43 @@ Duas coisas precisam ficar claras antes de ler a tabela:
 2. **Provações só ocorrem dentro de aberturas imortais**, jamais nas cinco regiões
    do mundo comum. Uma abertura morta não sofre nenhuma — e também não ganha dao
    marks.
+3. **A provação mais alta substitui a mais baixa, não se soma a ela.** Quando dois
+   ciclos caem no mesmo ano, só o mais severo acontece. É essa regra que faz as
+   contagens da quarta coluna fecharem, e ela vale para os três ranks — veja o
+   exemplo logo abaixo da tabela.
 
-| Rank | Essência produzida | Ciclo de provações (tempo interno) | Total ao completar o rank | Critério de avanço |
+| Rank | Essência produzida | Ciclo de provações (tempo interno) | Total ao completar o rank (≈300 anos) | Critério de avanço |
 |---|---|---|---|---|
-| 6 | green grape | calamidade terrena a cada 10 anos; tribulação celestial a cada 100 | 27 calamidades + 3 tribulações celestiais em 300 anos | 3 tribulações celestiais → rank 7 |
-| 7 | red date | calamidade terrena /10 anos; celestial /50; **grande tribulação** /100 | 24 calamidades + 3 celestiais + 3 grandes | 3 grandes tribulações (≈300 anos) → rank 8 |
-| 8 | white litchi | **sem calamidade terrena**; celestial /10; grande /50; **tribulação miríade** /100 | 3 tribulações miríades | 3 tribulações miríades → rank 9 |
-| 9 | yellow apricot | — | — | teto absoluto: não existe rank 10 de cultivador |
+| 6 | green grape | calamidade terrena a cada 10 anos; tribulação celestial a cada 100 | 27 calamidades + 3 celestiais | 3 tribulações celestiais → rank 7 |
+| 7 | red date | calamidade terrena /10 anos; celestial /50; **grande tribulação** /100 | 24 calamidades + 3 celestiais + 3 grandes | 3 grandes tribulações → rank 8 |
+| 8 | white litchi | **sem calamidade terrena**; celestial /10; grande /50; **tribulação miríade** /100 | **24 celestiais + 3 grandes + 3 miríades** | 3 tribulações miríades → rank 9 |
+| 9 | yellow apricot | grande tribulação /10 anos; miríade /50; **desastre caótico** /100 | não se aplica — não há rank seguinte a completar | teto absoluto: não existe rank 10 de cultivador |
+
+> [!example] Como as contagens da quarta coluna são calculadas
+> Tome o rank 8, cujo ciclo é celestial a cada 10 anos, grande a cada 50 e miríade
+> a cada 100. Em 300 anos há 30 anos múltiplos de 10. Desses, os anos 100, 200 e
+> 300 são miríades (3), e os anos 50, 150 e 250 são grandes (3) — porque a provação
+> mais alta substitui a mais baixa. Sobram **24** anos para as celestiais.
+>
+> Confira que a mesma conta produz as linhas dos ranks 6 e 7, e que o resultado bate
+> com as faixas de dao marks da seção 6: 24 × 750 + 3 × 7.250 + 3 × 86.750 =
+> **300.000**, exatamente o exigido para o rank 9.
+
+> [!warning] O rank 9 não para de tribular — ele só deixa de progredir
+> A linha do rank 9 costuma ser mal lida. Virar Venerável não encerra o calendário:
+> ele fica **mais pesado**, com grande tribulação a cada 10 anos e miríade a cada
+> 50 — a cadência que, no rank 8, levava trezentos anos para acontecer três vezes.
+>
+> Acima disso existe uma quarta camada que só o rank 9 conhece: um **desastre
+> caótico (*chaotic disaster*)** a cada 100 anos, que não vem do céu deste mundo e
+> sim do Caos que existe além da fronteira dele. Cada um deles ameaça a vida do
+> Venerável de verdade — é a fraqueza estrutural comum aos dez, e a razão pela qual
+> nenhum deles é invulnerável apesar de estar no teto do sistema. Isto é
+> conhecimento de nível **segredo**: pouquíssimos personagens do mundo sabem que os
+> Veneráveis têm um relógio contra si.
+>
+> A quarta coluna aparece como "não se aplica" porque não existe rank 10: o rank 9
+> não acumula provações rumo a lugar nenhum, apenas as sobrevive indefinidamente.
 
 Detalhes que valem para qualquer uso em mesa:
 
@@ -413,12 +505,25 @@ foi, fez, compreendeu e sofreu. As duas fontes conhecidas de qi humano abundante
 possuir uma constituição extrema **ou** ter alcançado o nível de Grão-Mestre em
 qualquer caminho.
 
-| Grade | Área | Produção de essência | Traço distintivo |
+A tabela abaixo descreve a terra **no momento em que nasce** — isto é, um Imortal
+recém-ascendido, de rank 6. Por isso toda a coluna de produção está em **contas de
+uva-verde (green grape), a denominação de rank 6**, e por ano. Não confunda essas
+contas com as de tâmara-vermelha da seção 5: a de tâmara vale cem vezes mais por
+unidade, e comparar os dois números sem converter produz um erro de duas ordens de
+grandeza.
+
+| Grade | Área | Produção (contas de uva-verde/ano) | Traço distintivo |
 |---|---|---|---|
-| Baixa | até 2.000 km² | 10+ contas/ano | recursos escassos |
-| Média | 2.700 – 4.000 km² | 20+ contas/ano | recursos abundantes |
-| Alta | 4.700 – 6.000 km² | 30+ contas/ano | sobra qi para promover um Gu mortal a Gu Imortal já na ascensão |
-| **Super** | acima de 6.700 km² | 50+ contas/ano | nasce de ascensão com constituição extrema; vem com 2 ou mais Gu Imortais de bônus |
+| Baixa | até 2.000 km² | 10+ | recursos escassos |
+| Média | 2.700 – 4.000 km² | 20+ | recursos abundantes |
+| Alta | 4.700 – 6.000 km² | 30+ | sobra qi para promover um Gu mortal a Gu Imortal já na ascensão |
+| **Super** | acima de 6.700 km² | 50+ | nasce de ascensão com constituição extrema; vem com 2 ou mais Gu Imortais de bônus |
+
+Duas ressalvas de leitura. As faixas de área têm **vãos** (nada é dito sobre 2.000 a
+2.700 km², nem sobre 4.000 a 4.700): são valores citados avulsos na obra, não uma
+escala fechada, e você pode preencher os vãos como quiser. E o "+" das produções é
+literal — são pisos, não médias; uma terra abençoada cresce ao longo da vida do
+Imortal, então esses números descrevem o ponto de partida dele, não o de chegada.
 
 O **fluxo de tempo** interno é sempre mais rápido que o do mundo externo e cresce
 junto com a área até estabilizar. Proporções documentadas vão de 1:5 a 1:38 — isto é,
@@ -534,16 +639,31 @@ Aqui a tabela vira outra coisa: as taxas ordinárias são tão baixas que a prof
 inteira se organiza em torno de exceções. Um refinador comum passa a vida lutando por
 **um único sucesso**.
 
-| Situação | Taxa de sucesso |
-|---|---|
-| Gu Imortal de rank 6, refinador comum | **menos de 1%** |
-| Gu Imortal de rank 7, refinador comum | **0,1%** |
-| Gu Imortal de rank 8, refinador comum | **0,01%** |
-| Número típico de tentativas por sucesso (referência de mercado) | **50 a 60** |
-| Especialista reconhecido, rank 6 | 40% |
-| Especialista reconhecido, rank 7 | 5% |
-| Receita própria, attainment quase supremo em refino, apoio institucional e sorte reforçada | **50%** |
-| Refazer um Gu Imortal **destruído** a partir da insígnia do refino original | 50 – 60% |
+A tabela abaixo confundiria se lida como uma escala única, porque as taxas não
+descrevem a mesma pessoa: um mesmo Gu Imortal de rank 6 aparece com menos de 1% e
+com 40% de sucesso. Não é contradição — é **quem está refinando** que muda tudo. Por
+isso a primeira coluna diz de quem é a taxa, e ela é a coluna que se lê primeiro.
+
+| De quem é esta taxa | Rank do Gu Imortal | Taxa de sucesso |
+|---|---|---|
+| Refinador comum (não cultiva o caminho do refino) | 6 | **menos de 1%** |
+| Refinador comum | 7 | **0,1%** |
+| Refinador comum | 8 | **0,01%** |
+| Especialista reconhecido no caminho do refino | 6 | **40%** |
+| Especialista reconhecido | 7 | **5%** |
+| Especialista com receita própria, attainment quase supremo em refino, apoio institucional e sorte reforçada | 6 | **50%** |
+| Qualquer um, refazendo um Gu Imortal **destruído** a partir da insígnia do refino original | 6 – 7 | **50 – 60%** |
+
+Uma quarta medida circula no mercado e **não pertence a esta tabela**, embora seja
+frequentemente citada ao lado dela: fala-se em **50 a 60 tentativas por sucesso**
+como referência de custo ao encomendar um refino de rank 6. Isso equivale a cerca de
+**1,7% a 2%** — número que não é nem o do refinador comum nem o do especialista.
+
+A razão é que essa medida é uma **média de mercado ponderada**: ela mistura os
+muitos refinadores comuns com os poucos especialistas, e é o que um cliente deve
+esperar ao contratar alguém de quem não conhece o attainment. Use-a para precificar
+uma encomenda; use as linhas da tabela para resolver a tentativa de um personagem
+específico, de quem você sabe a competência.
 
 Três regras que explicam a curva:
 

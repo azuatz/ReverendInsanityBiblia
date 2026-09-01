@@ -7,7 +7,7 @@ aliases:
   - Rank 9
   - Dao Lord
 status: consolidado
-fontes: ["cap. 187", "cap. 383", "cap. 406", "cap. 518", "cap. 552", "cap. 567", "cap. 601", "cap. 813-814", "cap. 939", "cap. 962", "cap. 968", "cap. 1007", "cap. 1016", "cap. 1235", "cap. 1284", "cap. 1299-1300", "cap. 1398", "cap. 1408", "cap. 1435", "cap. 1442", "cap. 1501", "cap. 1747", "cap. 2028", "cap. 2071", "cap. 2085-2086", "cap. 2091", "cap. 2234", "cap. 2260"]
+fontes: ["cap. 187", "cap. 383", "cap. 406", "cap. 518", "cap. 552", "cap. 567", "cap. 601", "cap. 813-814", "cap. 939", "cap. 962", "cap. 968", "cap. 1007", "cap. 1016", "cap. 1235", "cap. 1284", "cap. 1299-1300", "cap. 1398", "cap. 1408", "cap. 1435", "cap. 1442", "cap. 1501", "cap. 1747", "cap. 2028", "cap. 2071", "cap. 2085-2086", "cap. 2091", "cap. 2172-2177", "cap. 2195", "cap. 2220", "cap. 2234", "cap. 2240", "cap. 2260", "cap. 2266", "cap. 2290"]
 conhecimento: segredo
 ---
 
@@ -17,7 +17,7 @@ conhecimento: segredo
 
 ## O que é um Venerável
 
-Comece pela escala, porque ela é difícil de sentir sem números. Entre o rank 7 e o rank 8 há uma distância que o mundo descreve como "céu e terra": nos últimos milhares de anos, apenas duas pessoas conseguiram resistir a um rank 8 sendo rank 7. Grupos de rank 7 "derrotam com facilidade, matam com dificuldade e capturam quase nunca" um rank 8.
+Comece pela escala, porque ela é difícil de sentir sem números. Entre o rank 7 e o rank 8 há uma distância que o mundo descreve como "céu e terra". **Trate como diferença de categoria, não de grau: um rank 7 não vence um rank 8.** A exceção existe e mede o tamanho da regra — nos últimos milhares de anos, apenas duas pessoas conseguiram *resistir* a um rank 8 sendo rank 7, e resistir não é vencer. O que funciona é número: grupos de rank 7 "derrotam com facilidade, matam com dificuldade e capturam quase nunca" um rank 8.
 
 E entre o rank 8 e o rank 9 não há distância — há um abismo. **Um rank 8 nunca venceu um rank 9 na história registrada**, sem uma única exceção. A imagem que a obra usa é a de pisar numa formiga.
 
@@ -25,15 +25,33 @@ A diferença é ontológica, não quantitativa. Um Gu de rank 9 não é feito de
 
 Registre também um limite de espécie que diz muito sobre a filosofia do mundo: **o rank 9 não existe para bestas, plantas ou variantes humanas — só para humanos puros**. Todos os dez foram humanos puros; nunca houve um Venerável de outra raça.
 
-O critério informal de entrada é sobreviver às **três tribulações miríades** do rank 8 — a classe apocalíptica de provação, que só um rank 8 enfrenta. Os dez que passaram por elas são exatamente os dez Veneráveis. Alguém passou por duas, falhou na terceira duas vezes e morreu: a primeira falha o deixou setenta anos acamado, a segunda o reduziu a cinzas. O mundo o chama de pseudo-Venerável.
+O critério informal de entrada é sobreviver às **três tribulações miríades** do rank 8 — a classe apocalíptica de provação, que só um rank 8 enfrenta. Os dez que passaram por elas são exatamente os dez Veneráveis. Há registro de alguém que passou por duas, falhou na terceira duas vezes e morreu: a primeira falha o deixou setenta anos acamado, a segunda o reduziu a cinzas.
+
+> [!warning] "Pseudo-Venerável" não quer dizer "fracassou na última tribulação"
+> Este material já trouxe essa definição errada, e ela vale ser desfeita
+> explicitamente porque muda a estrutura da escada de poder. **Pseudo-Venerável
+> (*pseudo venerable*) é um patamar de força de combate, não um rótulo de
+> derrota.** Designa quem alcançou poder comparável ao de um Venerável **sem ser
+> rank 9** — e é uma meta que cultivadores de rank 8 perseguem deliberadamente,
+> não um consolo para quem tropeçou.
+>
+> A hierarquia formal do topo do mundo, portanto, tem quatro degraus:
+>
+> **Gu Imortal comum → pseudo-Venerável → Venerável → Dao Lord.**
+>
+> E o que separa o segundo do terceiro é enunciado pela obra numa frase só: a
+> diferença entre Venerável e pseudo-Venerável está no **Dao Lordship** — o
+> pseudo-Venerável tem a força e não tem o senhorio de um caminho (ver a seção
+> seguinte). Existe até um patamar informal logo abaixo, "quase pseudo-Venerável",
+> onde ficam os rank 8 mais fortes de uma era.
 
 ## As quatro condições
 
 Estas são as condições formais, enunciadas explicitamente pela obra, e são a razão pela qual este é o rank mais raro da história:
 
-**1. O núcleo da abertura imortal precisa produzir essência imortal de terceiro grau.** A energia que uma abertura imortal gera tem quatro denominações crescentes, uma por rank: uva verde no rank 6, tâmara vermelha no 7, **lichia branca no 8** e damasco amarelo no 9. A condição é ter o núcleo já **produzindo lichia branca** — é pré-requisito, não resultado.
+**1. O núcleo da abertura imortal precisa produzir essência imortal de terceiro grau.** A energia que uma abertura imortal gera tem quatro denominações crescentes, uma por rank — uva-verde no 6, tâmara-vermelha no 7, **lichia-branca no 8**, damasco-amarelo no 9 —, e cada degrau vale cerca de cem vezes o anterior. A escala de valor completa, com o câmbio para a moeda dos imortais, está em [[Tabelas de Referência Rápida#5. Escala de valor das essências imortais]]; a mecânica de produção, em [[Ascensão Imortal]]. A condição é ter o núcleo já **produzindo lichia-branca** — é pré-requisito, não resultado.
 
-**2. O caminho principal precisa ter no mínimo 300.000 dao marks.** Para calibrar: um rank 7 comum tem entre dez e trinta mil; um rank 8, entre cem e trezentos mil.
+**2. O caminho principal precisa ter no mínimo 300.000 dao marks.** Para calibrar, use as faixas de [[Dao Marks]]: um rank 7 fica entre 9.000 e 30.000; um rank 8, entre 30.000 e 300.000. Ou seja, a condição 2 é exatamente **fechar o rank 8 inteiro** — os 300.000 são o que o calendário completo de provações do rank 8 rende, nem um a mais.
 
 **3. O caminho principal precisa estar em attainment de supremo grão-mestre — e este é o gargalo real.** Quase-supremo grão-mestre está perto e **não é a mesma coisa**. Supremo grão-mestre não significa compreender toda a profundidade de um campo do conhecimento: significa **inovar** dentro dele, elevando o teto do campo inteiro — e, em alguma medida, do próprio céu e terra. É por isso que nenhuma herança do mundo, por mais completa, entrega esse degrau: inovação, por definição, não se herda. Ver [[Attainment]].
 
@@ -49,11 +67,33 @@ E há um traço técnico que os une: **todos os dez compreenderam algo do mito f
 
 ## O Dao Lord
 
-Este é o conceito que explica por que os Veneráveis são invencíveis — e por que continuam influentes eras depois de mortos.
+Este é o conceito que explica por que os Veneráveis são invencíveis — e por que continuam influentes eras depois de mortos. É também o ponto do material onde mais se tropeça, porque a obra descreve o Dao Lord de duas maneiras que parecem brigar. Esta seção é a **fonte única** do assunto no vault; as outras notas remetem para cá.
 
-Um Venerável com supremo grão-mestre no caminho principal alcança o status de ==Dao Lord (Senhor do Dao)==: ele passa a **sentir e refinar automaticamente todos os dao marks naturais daquele caminho no mundo inteiro**, manipulando-os à vontade.
+Um Venerável com supremo grão-mestre no caminho principal alcança o status de ==Dao Lord (Senhor do Dao)==: ele passa a **sentir e refinar os dao marks naturais daquele caminho**, manipulando-os à vontade.
 
-Leia de novo, porque a implicação é grande: não é que ele seja muito bom no caminho da força ou da alma. É que **o caminho inteiro, em todo o planeta, responde a ele**. Todo dao mark natural daquela linha carrega a assinatura dele. É por isso que os métodos de um Venerável continuam funcionando eras após sua morte, que suas técnicas residuais se manifestam sozinhas dentro de tribulações extremas séculos depois, e que herdar uma técnica dele é herdar algo que o mundo já reconhece.
+Leia de novo, porque a implicação é grande: não é que ele seja muito bom no caminho da força ou da alma. É que **aquele caminho responde a ele**. Todo dao mark natural daquela linha que ele já refinou carrega a assinatura dele. É por isso que os métodos de um Venerável continuam funcionando eras após sua morte, que suas técnicas residuais se manifestam sozinhas dentro de tribulações extremas séculos depois, e que herdar uma técnica dele é herdar algo que o mundo já reconhece.
+
+### Três perguntas que precisam de resposta única
+
+**Como se vira Dao Lord?** É **automático**: virar Venerável tendo supremo grão-mestre no caminho principal *é* ser o senhor daquele caminho. Não há cerimônia, concessão nem disputa de acesso. Por isso o pseudo-Venerável, que tem a força mas não o rank 9, nunca é Dao Lord.
+
+**Qual é o alcance — o mundo inteiro ou um território?** As duas coisas, e não se contradizem, porque **capacidade e realização são coisas diferentes**. A capacidade nasce global: o Dao Lord sente e pode refinar os dao marks naturais daquele caminho onde quer que estejam. A realização é territorial e leva séculos: ele precisa **efetivamente refinar** os dao marks, região por região, e só é imbatível onde já terminou o trabalho. A obra é explícita quanto a isso — um Venerável recém-alçado a Dao Lord **ainda não é invencível**; ele precisa sair e refinar as marcas do próprio caminho pelo mundo afora para aumentar a própria força.
+
+> A imagem que resolve: o Dao Lord recebe a **escritura** do caminho inteiro e passa a vida **tomando posse** dele, pedaço por pedaço. Possuir uma porção de céu e terra é a forma que o senhorio assume na prática.
+
+**É permanente?** Não. Duas formas documentadas de perder o status, e uma de recuperá-lo:
+
+- **Perde-se por saturação do caminho.** Se muitos rank 8 de topo do mesmo caminho acumularem avanços coletivos até que o caminho, no mundo, ultrapasse um limiar qualitativo, o Venerável deixa de ser "equivalente ao caminho" e é **expulso do supremo grão-mestre** — perdendo junto o senhorio e a capacidade de refinar as marcas naturais daquele caminho. É a razão pela qual um Dao Lord tem interesse ativo em manter o próprio caminho **em segredo** e subdesenvolvido: a pesquisa alheia é uma ameaça direta ao seu trono.
+- **Perde-se por perda da própria mente.** Há registro de um Venerável que sobreviveu à morte sem sanidade e por isso **não conta como Dao Lord verdadeiro** — tem apenas os instintos do cargo, e o efeito dele vaza inclusive para inimigos do mesmo caminho.
+- **Recupera-se** num lugar específico e quase inacessível do mundo, capaz de restituir o attainment supremo a quem o perdeu.
+
+> [!note] Para o design
+> Um trono que se perde quando os súditos ficam bons demais é uma engenhoca de
+> cenário rara e valiosa: transforma o ser mais poderoso do mundo em alguém com
+> **motivo estrutural para sabotar o progresso alheio**. O antagonista de topo
+> não precisa ser cruel para perseguir estudiosos — precisa apenas querer
+> continuar sendo quem é. E dá aos personagens uma alavanca real contra alguém
+> que não podem enfrentar: pesquisar o caminho dele, em grupo, por gerações.
 
 Um corolário útil para o mestre: **cada Venerável domina uma especialidade e é medíocre nas outras**. O domínio de um deles sobre o caminho do tempo equivalia ao de um rank 8 especialista — muito inferior ao do especialista real, e vice-versa no caminho da alma. Nem os maiores têm contramedida contra tudo, e cada um tem pontos cegos declarados. Há inclusive caminhos inteiros que nenhum deles cobriu, porque surgiram depois da era em que viveram.
 

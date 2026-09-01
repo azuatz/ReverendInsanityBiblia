@@ -31,35 +31,62 @@ missões e provas, antes de promover alguém. Clãs não precisam disso: o sangu
 
 ### Hierarquia de discipulado
 
-A escada de uma grande seita é rigorosamente escalonada, e cada degrau tem uma prova com
-periodicidade fixa:
+Uma seita mede seus membros por **dois eixos diferentes ao mesmo tempo**, e é essencial
+não confundi-los:
 
-| Degrau | Como se sobe |
-|---|---|
-| Discípulo externo | Porta de entrada; a base numerosa |
-| Discípulo interno | Exame a cada três anos |
-| Discípulo de elite | Exame a cada oito anos |
-| Discípulo de legado | Exame a cada quinze anos |
-| Ancião de seita | Corresponde ao rank 4 de cultivo |
-| Líder de seita | Rank 5 em diante |
-| Anciães supremos | Ranks 6 e acima — os Mestres Gu Imortais, em reclusão |
+- o **rank de cultivo** (1 a 9), que é força bruta e vale igual no mundo inteiro,
+  explicado em [[Ranks e Avanço]];
+- o **degrau de discipulado**, que é o cargo dentro daquela casa específica e não vale
+  nada fora dela.
+
+Os dois **não são a mesma escala**, mas também não são independentes: o degrau de
+discipulado é a metade de baixo da escada e o rank toma conta da metade de cima. Nos
+quatro degraus de discípulo, quem manda é a prova periódica, não o rank — dá para ser um
+cultivador forte e continuar discípulo externo por não ter passado no exame, e a seita não
+promove ninguém automaticamente por ter subido de rank. Dos cargos de comando para cima o
+jogo se inverte: ali o rank vira **pré-requisito duro**, e nenhuma prova substitui.
+
+| Degrau | Rank de cultivo | Como se sobe |
+|---|---|---|
+| Discípulo externo | — | Porta de entrada; a base numerosa. Entra-se por exame público de admissão |
+| Discípulo interno | — | Exame a cada três anos |
+| Discípulo de elite | — | Exame a cada oito anos |
+| Discípulo de legado | — | Exame a cada quinze anos |
+| Ancião de seita | **rank 4** | O rank é a condição; alcançá-lo é a promoção |
+| Líder de seita | **rank 5 ou acima** | O rank é a condição, mais escolha do conselho |
+| Anciãos supremos | **rank 6 ou acima** | Ascender a [[Ascensão Imortal\|Mestre Gu Imortal]]. Ficam em reclusão |
+
+Os `—` da coluna do meio são a convenção do vault para "**a obra não diz**", e aqui isso é
+uma lacuna real: o texto nunca fixa um rank mínimo para cada degrau de discípulo. O que
+ele mostra é a periodicidade dos exames. Se a sua mesa precisar de um número, invente-o à
+vontade — você não estará contradizendo nada.
 
 Duas leituras importantes dessa tabela. Primeira: **os intervalos entre exames são a
 verdadeira medida do tempo de uma carreira**. Um discípulo que não passa perde oito anos,
 não oito meses. Segunda: a liderança visível de uma seita é mortal (ranks 4 e 5), mas o
-poder real está nos anciães supremos, imortais e reclusos, que raramente aparecem e que
+poder real está nos anciãos supremos, imortais e reclusos, que raramente aparecem e que
 frequentemente jogam por procuração.
 
-Nas seitas de elite, o nível médio de aptidão dos discípulos é alto o bastante para que o
-grau mais baixo simplesmente não exista entre eles — o comum é o grau B, e há muitos de
-grau A. Isso significa que um personagem que seria uma promessa num clã de interior é
-apenas mediano numa grande seita.
+Nas seitas de elite, o nível médio de [[Aptidão|aptidão]] dos discípulos é alto o bastante
+para que o grau mais baixo simplesmente não exista entre eles — o comum é o grau B, e há
+muitos de grau A. Isso significa que um personagem que seria uma promessa num clã de
+interior é apenas mediano numa grande seita.
+
+A ==aptidão== é o talento inato de cultivo, medido uma única vez na vida, aos quinze anos.
+Mecanicamente ela é a **fração da [[Abertura|abertura]] que a pessoa consegue encher de
+energia** — o teto da reserva dela — e, como romper para o rank seguinte exige gastar uma
+porcentagem grande dessa reserva de uma vez só, cada grau vem com um teto de carreira
+esperado. É por isso que uma seita de elite pode se dar ao luxo de só aceitar B e A: ela
+está selecionando por teto de rank, não por esforço. As porcentagens exatas de cada grau,
+o teto de rank de cada um e o limiar de ruptura estão em
+[[Tabelas de Referência Rápida#1. Graus de aptidão|Tabelas de Referência Rápida]] — a nota
+que guarda os números do sistema —, e a discussão completa em [[Aptidão]].
 
 ### Deveres e cultura
 
 - **Defender publicamente o prestígio do próprio mestre** é dever formal do discípulo,
   sob pena de processo interno. A honra do professor é patrimônio institucional.
-- **A governança é colegiada**: conselhos de anciães supremos numerados decidem por
+- **A governança é colegiada**: conselhos de anciãos supremos numerados decidem por
   maioria de votos, o que torna a política de seita mais parlamentar e menos dinástica
   que a de um clã.
 - **Rivalidades entre seitas são formalizadas.** Expulsar uma rival de uma área ocupada,
@@ -112,7 +139,7 @@ ela apenas torna a permanência inviável.
 | Lealdade | Presumida pelo sangue | Testada por missões |
 | Entrada de fora | Só por casamento | Por exame, aberta |
 | Hierarquia | Rank de cultivo = posição | Rank + degrau de discipulado |
-| Governança | Líder e facções familiares | Conselho de anciães, por votação |
+| Governança | Líder e facções familiares | Conselho de anciãos, por votação |
 | Herança | Primogenitura, patrimônio familiar | Legado de mestre para discípulo |
 | Território | Vilarejo e nascente espiritual | Sede, filiais e seitas subsidiárias |
 | Fraqueza estrutural | Consanguinidade e estagnação | Deserção e traição interna |
@@ -147,7 +174,11 @@ O ciclo padrão dura cerca de um ano e começa aos quinze:
 O que impressiona na academia é o quanto ela é deliberadamente projetada para produzir
 competição e lealdade simultâneas:
 
-- **subsídio semanal** de algumas pedras primevas a todo aluno;
+- **subsídio semanal** de **três [[Pedras Primevas|pedras primevas]]** a todo aluno — a
+  moeda corrente do mundo mortal, que é ao mesmo tempo dinheiro e combustível de cultivo.
+  Para comparar com os outros degraus da carreira (um ancião de clã recebe muito mais que
+  isso por semana), a tabela de rendas e preços está em [[Pedras Primevas]], a nota-fonte
+  de números desta pasta;
 - **prêmios por marcos** alcançados, em dinheiro e em prioridade de escolha de Gu e de
   grupo;
 - **cargos remunerados** de monitor e vice-monitor de turma;
@@ -185,8 +216,8 @@ Como uma seita ou um clã encontra gente nova, na ordem da mais comum à mais ex
   vencedor o cargo de ancião externo do clã anfitrião — inclusive a cultivadores de
   origem demoníaca. É uma porta de reabilitação institucional, tratada em
   [[Caminho Correto e Caminho Demoníaco]].
-- **Anciães externos e patrocínio.** Imortais patrocinam talentos promissores de qualquer
-  facção, esperando que um dia ascendam e se tornem "anciães supremos externos" da
+- **Anciãos externos e patrocínio.** Imortais patrocinam talentos promissores de qualquer
+  facção, esperando que um dia ascendam e se tornem "anciãos supremos externos" da
   organização. É expansão de poder entre gerações, sem sangue e sem contrato formal.
 - **Competições culturais.** Há registro de um concurso mundial de poesia — dezoito
   rodadas temáticas, metade dos concorrentes eliminada por rodada, sete dias corridos —

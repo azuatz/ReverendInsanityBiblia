@@ -84,11 +84,32 @@ vezes acima do esperado — e isso significa que ele achou outra fonte.
 > O total ao fim do rank 8 bate exatamente com os 300.000 exigidos como condição formal
 > para o rank 9 (ver [[Tornar-se Venerável]]). O sistema fecha sozinho.
 
+> [!example] As duas escadas do sistema batem uma com a outra
+> Vale fazer a conferência, porque ela é o argumento de coerência mais forte do
+> material. Aplique a regra linear ao topo de cada faixa acima e veja o que sai:
+>
+> - **rank 6** no topo (9.000 marcas) → cerca de **×10**
+> - **rank 7** no topo (30.000 marcas) → cerca de **×31**
+> - **rank 8** no topo (300.000 marcas) → cerca de **×301**
+>
+> Ou seja: só pela contagem de dao marks, cada rank imortal vale **cerca de dez
+> vezes** o anterior. Esse é exatamente o salto de dez vezes por rank que
+> [[Essência Primeva]] atribui à *qualidade da essência*, por um caminho
+> completamente independente — e é a explicação aritmética da frase, repetida em
+> [[Tribulações e Calamidades]], de que um rank 8 suprime um rank 7 sem esforço.
+> Duas escadas que foram medidas separadamente e chegam ao mesmo lugar.
+
 > [!note] Para o design
 > Essa é a melhor notícia deste material para quem vai montar regras: a progressão do
 > reino imortal é uma **curva fechada e auditável**. Você pode calcular exatamente
 > quanto poder um personagem tem em qualquer ponto, e o custo desse poder está expresso
 > em número de desastres sobrevividos. É raro um cenário de ficção entregar isso pronto.
+
+Todos os números desta seção — as faixas por rank, o rendimento de cada provação
+e a tabela de amplificação — estão reunidos, junto com o resto dos números do
+sistema, em [[Tabelas de Referência Rápida]]. Em caso de dúvida ou divergência,
+é aquela nota que vale: ela é a fonte única, e esta aqui explica *por que* os
+números são o que são.
 
 ## Como se ganham
 

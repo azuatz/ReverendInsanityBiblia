@@ -41,7 +41,7 @@ O mundo classifica as organizações por categorias reconhecidas, e a escada é 
 
 | Categoria | O que é |
 |---|---|
-| **Força suprema** (*ultimate force*) | Categoria reservada a duas ou três entidades no mundo inteiro: a Heavenly Court e um punhado de patrimônios comparáveis |
+| **Força suprema** (*ultimate force*) | Categoria reservada a duas ou três entidades no mundo inteiro: o Tribunal Celestial e um punhado de patrimônios comparáveis |
 | **Super força** | Uma potência regional: super clã, super tribo, uma das dez grandes seitas |
 | **Grande força** | Potência local, com um ou dois imortais |
 | **Força comum** | Clãs e seitas mortais, do porte médio para baixo |
@@ -59,9 +59,9 @@ permite atravessar eras.
 ## A suserania
 
 O fato político mais importante do mundo, e um dos mais discretos: **as dez grandes seitas
-ancestrais do Continente Central têm uma origem comum e são, formalmente, subordinadas da
-Heavenly Court**. Elas se descrevem, internamente, como representantes administrando em
-nome da Corte.
+ancestrais do Continente Central têm uma origem comum e são, formalmente, subordinadas do
+Tribunal Celestial**. Elas se descrevem, internamente, como representantes administrando em
+nome do Tribunal.
 
 As consequências práticas são três, e todas são utilizáveis numa mesa:
 
@@ -69,10 +69,33 @@ As consequências práticas são três, e todas são utilizáveis numa mesa:
    delas, e todo mundo no topo sabe disso. As guerras entre grandes seitas são, por isso,
    guerras limitadas — disputas por área com regras acordadas, não campanhas de
    aniquilação.
-2. **A Corte pode convocar as dez a agir em conjunto** contra um alvo. Quando isso
+2. **O Tribunal pode convocar as dez a agir em conjunto** contra um alvo. Quando isso
    acontece, nenhuma potência regional resiste: uma força-tarefa oficial com três
    cultivadores de rank 8 e três fortalezas móveis já é suficiente para liquidar uma super
    força inteira.
+
+   > [!note] Quanto vale um rank 8? — calibração
+   > A frase acima só é útil se você souber o que esses números significam. As duas escalas
+   > que a sustentam estão em [[Tabelas de Referência Rápida]] e valem ser lidas juntas:
+   >
+   > - **A distância entre ranks imortais não é aritmética, é de ordem de grandeza.** O que
+   >   separa um rank 7 de um rank 8 é o acervo de dao marks (o "atributo de progressão"
+   >   imortal), e ele salta de dezenas de milhares para centenas de milhares — ver
+   >   [[Tabelas de Referência Rápida#Faixas de dao marks por rank|a tabela de faixas por
+   >   rank]] e [[Dao Marks]]. Um rank 8 não vence "alguns" rank 7: ele opera
+   >   numa camada onde o número de oponentes de rank inferior deixa de ser o fator
+   >   decisivo, e é por isso que a regra do mundo diz que força individual supera número.
+   > - **Rank 8 é raro por construção.** Chegar lá exige sobreviver a três grandes
+   >   tribulações, e cada uma é "dezenas a centenas de vezes" mais forte que a anterior
+   >   (ver [[Tribulações e Calamidades]]). Numa região inteira, os rank 8 publicamente
+   >   conhecidos podem ser meia dúzia — como a própria seção seguinte desta nota descreve.
+   >
+   > Para dimensionar o outro lado da conta: uma **super força** típica é uma potência
+   > regional cujo núcleo imortal é majoritariamente de **rank 6**, com um ou poucos rank 7
+   > no topo — praticamente nunca um rank 8 próprio. Daí a assimetria: três rank 8 contra
+   > uma organização inteira sem nenhum não é uma batalha, é uma demolição. `inferido` — a
+   > obra descreve a composição das super forças caso a caso e nunca publica um censo; o
+   > perfil acima é a média do que ela mostra, não um número enunciado.
 3. **A política do dia a dia é feita por ranks 6 e 7.** Os rank 8 estão em reclusão ou
    hibernação, e só se movem em emergência. O andar visível da política imortal é, portanto,
    o andar intermediário — e é exatamente ali que personagens jogadores de alto nível
@@ -129,7 +152,7 @@ um realismo notável.
   caberia compra lealdade; conceder publicamente um ponto de recurso inteiro a um
   subordinado específico neutraliza as ambições dele.
 - **A escolha do alvo é engenharia de consenso.** Uma técnica documentada: propor de
-  propósito um alvo exagerado — a própria Heavenly Court, por exemplo — para tornar o alvo
+  propósito um alvo exagerado — o próprio Tribunal Celestial, por exemplo — para tornar o alvo
   real palatável à aliança. O critério verdadeiro costuma ser bem mais prosaico: fundação
   mais fraca e localização remota aproveitável como base.
 - **Alianças do caminho correto são coalizões de conveniência com verniz moral.** Os
@@ -193,7 +216,7 @@ usar como estrutura de campanha:
   nela.
 - **A proibição formal do extermínio sistemático** de seitas menores e cultivadores
   solitários pelas grandes seitas — uma proposta nesse sentido foi rejeitada com ameaça de
-  punição a quem insistisse. A Corte protege ativamente os pequenos, ainda que por
+  punição a quem insistisse. O Tribunal protege ativamente os pequenos, ainda que por
   interesse próprio.
 - **Uma rede de informação de alcance mundial**, capaz de notificar as dez grandes seitas e
   cercar um território quase instantaneamente após identificar um culpado.
@@ -210,31 +233,31 @@ usar como estrutura de campanha:
 Tudo nesta seção é `segredo`: inacessível a personagens comuns, e boa parte inacessível
 até aos membros das próprias instituições envolvidas.
 
-- **O preço do ingresso na Corte é a soberania.** Quem é admitido funde sua base material
+- **O preço do ingresso no Tribunal é a soberania.** Quem é admitido funde sua base material
   pessoal ao patrimônio coletivo e recebe em troca uma versão menor e portátil para uso
   externo. Ganha imunidade a certas provações, o direito de hibernar para poupar tempo de
-  vida e trânsito livre entre regiões. Perde a própria terra. Um membro que saia da Corte é
-  um imortal sem chão — e o texto afirma explicitamente que há uma desvantagem oculta nessa
+  vida e trânsito livre entre regiões. Perde a própria terra. Um membro que saia do Tribunal
+  é um imortal sem chão — e o texto afirma explicitamente que há uma desvantagem oculta nessa
   troca sem jamais revelar qual.
 - **O padrão de admissão nunca foi reduzido.** Rank 8 não basta: exige-se ser elite entre
   os rank 8, sob um princípio institucional declarado de que "poucos é melhor que muitos".
 - **A exclusão categórica de humanos variantes.** Por mais talentoso que seja um cultivador
-  de raça variante, a Corte não o admite. Não é preconceito individual; é regra estrutural
+  de raça variante, o Tribunal não o admite. Não é preconceito individual; é regra estrutural
   — e é a fratura que empurra essas raças para os blocos rivais. Uma instituição cujo credo
   é defender a justiça em nome do céu é, simultaneamente, etnicamente fechada.
-- **A Corte não é monolítica.** Ainda que as dez grandes seitas sejam formalmente
+- **O Tribunal não é monolítico.** Ainda que as dez grandes seitas sejam formalmente
   subsidiárias, muitos membros permanecem alinhados à seita de origem, e descendentes da
   mesma casa viram aliados políticos naturais lá dentro. É um condomínio de facções
   herdadas, não um bloco.
 - **A segurança da admissão está desatualizada há eras**, o que já permitiu a um infiltrado
   operar mil anos dentro da instituição sem ser detectado.
-- **A moeda é uma arma.** A Corte é a **fonte única** das pedras de essência imortal, a
+- **A moeda é uma arma.** O Tribunal é a **fonte única** das pedras de essência imortal, a
   moeda universal da camada imortal, e restringe deliberadamente a distribuição desde uma
   guerra antiga, como instrumento de controle político sobre o mundo inteiro. Esse
   escândalo chega a ser explorado publicamente por rivais no fórum do grande mercado —
   o comércio vira campo de propaganda.
-- **A Corte tem interesse mecânico, e não apenas ideológico, em exterminar certos
-  inimigos.** A existência ativa deles danifica um artefato central que a Corte tenta
+- **O Tribunal tem interesse mecânico, e não apenas ideológico, em exterminar certos
+  inimigos.** A existência ativa deles danifica um artefato central que o Tribunal tenta
   reparar há mais de um milhão de anos; destruí-los facilita o reparo. Ver
   [[Tribunal Celestial]].
 
@@ -251,7 +274,7 @@ Tudo isso era **real**.
 
 E tudo isso servia para acumular um tipo específico de recurso vivo em um único lugar. A
 organização inteira era, em segredo, subordinada de uma seita das sombras — no mesmo modelo
-em que as dez grandes seitas são subordinadas da Corte, e sem que nem os altos escalões
+em que as dez grandes seitas são subordinadas do Tribunal, e sem que nem os altos escalões
 soubessem. No momento devido, todos os seus membros mais valiosos foram ativados
 remotamente e consumidos como matéria-prima de um único artefato descartável, cujo preparo
 consumira cem mil anos e as fundações somadas das duas organizações. Uma instituição

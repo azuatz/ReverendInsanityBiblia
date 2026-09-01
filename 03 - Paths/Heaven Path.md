@@ -15,6 +15,23 @@ conhecimento: segredo
 com o limiar de entrada mais alto que existe, e que **nenhum dos dez Veneráveis chegou a
 cultivar de verdade**. Para entender o que é um "caminho", veja [[Visão Geral dos Paths]].
 
+> [!abstract] O caminho em três linhas
+> Esta é a nota conceitualmente mais difícil da pasta, então aqui está o quadro inteiro antes
+> dos detalhes:
+>
+> - **Para entrar, você precisa de:** um estoque grande de *marcas celestiais irrestritas* —
+>   marcas do céu já refinadas e portanto livres da vigilância dele. Não há herança, não há
+>   atalho e não há professor: só se obtêm refinando.
+> - **Você paga com:** uma catástrofe. Cada sessão de refino convoca contra você, na hora, um
+>   desastre de escala continental que **muda de forma** toda vez que sua defesa funciona. E
+>   há um teto por sessão: passar de cerca de duzentas marcas reinicia o desastre.
+> - **Você ganha:** todos os seus golpes ficam mais baratos, de qualquer caminho, para sempre
+>   — mas só enquanto os Gu envolvidos estiverem dentro da sua própria abertura. E ganha
+>   acesso teórico aos Gu que travam o crescimento do mundo inteiro.
+>
+> Em resumo: é o único caminho cujo progresso **ataca automaticamente quem progride**, e o
+> único cujo prêmio é um desconto universal em vez de um poder novo.
+
 ## Filosofia e identidade
 
 Neste mundo existe uma força ambiental que funciona como um sistema imunológico do universo: a
@@ -96,11 +113,38 @@ Três fontes registradas:
 Aqui está o motivo pelo qual ninguém cultiva este caminho.
 
 **Refinar marcas do céu enfurece a vontade do céu.** As marcas restantes se reúnem e disparam
-uma **tribulação de miríade** — a categoria mais severa que existe, acima das calamidades
-terrenas, celestiais e grandes. Só cultivadores de nível 8 conseguem enfrentá-la.
+contra o cultivador um desastre de severidade comparável à da **tribulação miríade** — a
+categoria mais alta do calendário de provações. Só cultivadores de nível 8 a enfrentam e
+sobrevivem.
 
 O caso registrado: **três marcas refinadas** dispararam uma floresta de raios destruidores que
 cobriu mais de cem mil quilômetros **em instantes**.
+
+> [!warning] Isto é uma provação **induzida** — não é a tribulação miríade do calendário
+> As duas se parecem em ferocidade e são fáceis de confundir, mas obedecem a regras
+> diferentes, e confundi-las quebra o subsistema de progressão imortal inteiro. A distinção
+> importa tanto que vale uma tabela:
+>
+> | | **Tribulação miríade** (calendário) | **Provação induzida** (caminho do céu) |
+> |---|---|---|
+> | O que a dispara | o **relógio**: chega sozinha, na cadência fixa do rank | uma **ação voluntária**: refinar marcas do céu |
+> | Quantas vezes | exatamente **três**, e sobreviver às três *é* a definição de Venerável | quantas o cultivador provocar — é custo operacional recorrente |
+> | Onde ocorre | **dentro da abertura imortal** do cultivador | onde ele estiver refinando, inclusive no mundo externo |
+> | Rende dao marks | sim, e é a via principal de progressão do reino imortal | não é o objetivo: o ganho são as marcas do céu refinadas |
+> | Quem já passou | dez pessoas em toda a história | o assunto é raro, mas não é o portão do rank 9 |
+>
+> Ou seja: quando esta nota diz "tribulação de miríade", leia **"desastre de porte de
+> miríade"**, não "a terceira prova do rank 9". Um cultivador do caminho do céu enfrentando
+> dez provações induzidas **não** se torna Venerável dez vezes; ele apenas sobreviveu dez
+> vezes a um desastre muito grande que ele mesmo chamou.
+>
+> O calendário oficial, com cadência, rendimento e a regra de que ele roda em tempo interno,
+> está em [[Tribulações e Calamidades]] e em
+> [[Tabelas de Referência Rápida#8. Cadência de calamidades e tribulações]]. Aquela nota
+> enuncia também que provações "só ocorrem dentro de aberturas imortais": a regra vale para o
+> **calendário**, e este caminho é a exceção documentada a ela — a floresta de raios de cem
+> mil quilômetros cai no mundo externo. Se você for escrever a regra de tribulação para uma
+> mesa, escreva as duas categorias separadas desde o início.
 
 E a tribulação é **adaptativa**: ela **muda de forma** quando a tática do cultivador funciona.
 Raio vira granizo; granizo vira outra coisa. Você não pode preparar uma defesa e usá-la duas
@@ -148,7 +192,14 @@ catálogo próprio — o que existe é o que segue:
 | Torre de Supervisão Celestial (casa de Gu) | 9 | Vigilância mundial; seu núcleo é o Gu do Destino |
 | Marca celestial irrestrita | golpe | O golpe de entrada do caminho — e o limiar mais alto que existe |
 
-(⭐ = Gu Imortal, único no mundo.)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
 
 O efeito do golpe cujo núcleo é a **Inveja do Céu** merece nota, porque é o caminho expresso
 como mecânica pura: ele **amplifica calamidades e tribulações, priorizando automaticamente os
@@ -166,7 +217,7 @@ A linhagem do problema, em três atos, atravessa milhões de anos:
    Dao do céu. O caminho começa como um obstáculo, não como uma escola.
 2. **Dois milhões de anos depois**, o criador do [[Rule Path|caminho da regra]] resolveu o
    problema.
-3. **Mais de um milhão de anos depois**, o Venerável do Paraíso Terreno obteve o método e o
+3. **Mais de um milhão de anos depois**, o Venerável **Paradise Earth** obteve o método e o
    **modificou** — essa versão modificada é a que circula no fim da obra.
 
 **Nenhum dos dez Veneráveis cultivou o caminho do céu por completo.** No máximo dois deles
@@ -226,9 +277,18 @@ essência imortal de nível 8 dentro de uma grande formação de refinamento.
 - **O primeiro supremo grão-mestre de refinamento** da remota antiguidade — que falhou em
   refinar o mundo por não conseguir refinar as marcas do céu, e cujo fracasso definiu o
   problema para os dois milhões de anos seguintes.
-- **O Venerável Demoníaco Sem Limites**, criador do [[Rule Path]] — quem resolveu o problema.
-- **O Venerável Imortal do Paraíso Terreno** — quem obteve e modificou o método, produzindo a
+- **[[Os Criadores de Caminhos|Limitless Demon Venerable]]**, criador do [[Rule Path]] — quem
+  resolveu o problema.
+- **Paradise Earth Immortal Venerable** — quem obteve e modificou o método, produzindo a
   versão que circula hoje.
+
+> [!info] Por que os nomes dos Veneráveis estão em inglês
+> A tradução brasileira de referência só verteu de forma consistente alguns dos dez nomes, e
+> este material não inventa nomenclatura própria. Por isso os Veneráveis aparecem sempre pelo
+> nome em inglês, que funciona como identificador estável em toda a base — a forma em
+> português entra apenas quando existe tradução publicada confirmada. As biografias
+> estruturais estão em [[Visão Geral dos Veneráveis]], [[Os Criadores de Caminhos]],
+> [[Os Arquitetos da Ordem]] e [[Os Que Romperam as Leis]].
 
 ## Relações
 

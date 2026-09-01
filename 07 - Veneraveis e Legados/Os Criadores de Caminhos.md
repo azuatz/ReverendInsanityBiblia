@@ -9,20 +9,24 @@ aliases:
   - Spectral Soul Demon Venerable
   - Venerável Demônio Alma Espectral
   - Limitless Demon Venerable
+  - Giant Sun Immortal Venerable
   - Reckless Savage
   - Genesis Lotus
   - Spectral Soul
   - Limitless
+  - Giant Sun
 status: consolidado
-fontes: ["cap. 163", "cap. 422", "cap. 443", "cap. 508", "cap. 558", "cap. 597", "cap. 599", "cap. 686", "cap. 912", "cap. 937", "cap. 994", "cap. 1000", "cap. 1009", "cap. 1010", "cap. 1042", "cap. 1111", "cap. 1173", "cap. 1175", "cap. 1176", "cap. 1187", "cap. 1191", "cap. 1226", "cap. 1235", "cap. 1323", "cap. 1760", "cap. 1859", "cap. 1866", "cap. 2131", "cap. 2151", "cap. 2160", "cap. 2170"]
+fontes: ["cap. 163", "cap. 422", "cap. 427", "cap. 443", "cap. 508", "cap. 515", "cap. 519", "cap. 522", "cap. 524-525", "cap. 528", "cap. 529", "cap. 536", "cap. 545", "cap. 546", "cap. 558", "cap. 568", "cap. 597", "cap. 599", "cap. 686", "cap. 912", "cap. 937", "cap. 994", "cap. 1000", "cap. 1009", "cap. 1010", "cap. 1042", "cap. 1111", "cap. 1173", "cap. 1175", "cap. 1176", "cap. 1180", "cap. 1187", "cap. 1190", "cap. 1191", "cap. 1226", "cap. 1234", "cap. 1235", "cap. 1238", "cap. 1242-1243", "cap. 1266", "cap. 1323", "cap. 1760", "cap. 1859", "cap. 1866", "cap. 2131", "cap. 2151", "cap. 2160", "cap. 2170"]
 conhecimento: especializado
 ---
 
 # Os Criadores de Caminhos
 
-**Em uma frase:** quatro Veneráveis cujo legado principal não é uma instituição nem um lugar, mas **uma disciplina de cultivo inteira que antes não existia** — e que, uma vez criada, passou a estar disponível para todo mundo, para sempre.
+**Em uma frase:** cinco Veneráveis cujo legado principal não é uma instituição nem um lugar, mas **uma disciplina de cultivo inteira que antes não existia** — e que, uma vez criada, passou a estar disponível para todo mundo, para sempre.
 
-Esta nota cobre **Reckless Savage**, **Genesis Lotus**, **Spectral Soul** e **Limitless**, todos listados em [[Visão Geral dos Veneráveis]].
+Esta nota cobre **Reckless Savage**, **Genesis Lotus**, **Spectral Soul**, **Limitless** e **Giant Sun**, cinco dos dez Veneráveis listados em [[Visão Geral dos Veneráveis]]. Os outros cinco estão em [[Os Arquitetos da Ordem]] e [[Os Que Romperam as Leis]]; a lista completa dos dez, com caminho e legado de cada um, está na tabela da nota-porta.
+
+O Giant Sun é o caso atípico do grupo, e vale saber disso antes de chegar nele: ele criou um caminho como os outros quatro, mas **escondeu a criação do mundo inteiro** em vez de ensiná-la — e por isso o legado visível dele é político, não técnico.
 
 ## O que significa "criar um caminho"
 
@@ -157,6 +161,48 @@ O que a estrutura faz, camada a camada, importa:
 
 ---
 
+## Giant Sun Immortal Venerable
+
+| | |
+|---|---|
+| **Via** | correta — mas começou pela via demoníaca e mudou de lado |
+| **Era** | Antiguidade Tardia |
+| **Caminho principal** | **luck path** (caminho da sorte) — ele o criou, e o manteve em segredo |
+| **Legado geográfico** | o Céu da Longevidade, a dimensão privada dele; e a ordem política das [[As Cinco Regiões\|Planícies do Norte]] |
+
+### O que ele deixou no mundo
+
+**1. O caminho da sorte — inventado e escondido.** Este é o ponto que separa o Giant Sun dos outros quatro desta nota. Os demais sistematizaram uma disciplina e a entregaram ao mundo; ele fez o trabalho inteiro e depois **enterrou a existência dele**. Durante toda a história seguinte, o caminho da sorte foi tratado publicamente como lenda nunca confirmada — algo que se supunha impossível — enquanto ele o usava para roubar a sorte alheia e transferir o próprio azar para outros.
+
+Convém entender o que "sorte" significa tecnicamente aqui, porque não é o sentido casual da palavra. É uma disciplina completa, com ataque, defesa, movimento e cura, construída sobre um objeto incorpóreo: a **incerteza**. Boa sorte é incerteza que tende a favor; má sorte é incerteza que tende contra. O cultivo dela sobe em três degraus sucessivos — a sorte **de si mesmo**, depois a sorte **de todos os seres vivos**, e por fim a sorte **do céu e da terra**, que é a escala em que uma região inteira passa a ter sua fortuna administrada por uma pessoa.
+
+**2. A metade que falta ao controle do mundo.** `conhecimento: segredo` — a consequência mais pesada do item anterior. O [[Tribunal Celestial]] governa o mundo através do [[Fate Gu]], que opera sobre a **certeza**: o que está determinado. O caminho da sorte opera sobre a incerteza, e ficou de fora desse controle porque o criador nunca o revelou.
+
+O resultado é uma brecha permanente na arquitetura de poder do cenário: **mesmo com o Fate Gu perfeitamente íntegro, a instituição que governa o mundo não fecha o sistema**, porque metade do que existe — o indeterminado — obedece a uma disciplina que ela não domina. É a razão estrutural pela qual o caminho da sorte é caçado.
+
+**3. Um estado inteiro desenhado como máquina.** `conhecimento: especializado` — nas Planícies do Norte, a ordem política não é fruto de costume acumulado: foi **projetada** por ele, e continua rodando.
+
+A engrenagem central é o ciclo de assembleias e o trono que se disputa periodicamente entre tribos, descrito em [[Eventos e Instituições Jogáveis]]. O que a nota-porta acrescenta é a **intenção** por trás do desenho, e ela é de uma frieza notável. O ciclo serve a três objetivos ao mesmo tempo:
+
+- **Preservar a linhagem de sangue dele através das eras.** As tribos "reais" descendem dele por sangue, e a *espessura* desse sangue é um requisito mecânico de acesso às heranças que ele deixou — quanto mais puro, mais portas se abrem.
+- **Forçar transferência de conhecimento entre rivais.** As reparações que o perdedor paga ao vencedor incluem receitas de Gu que ninguém venderia voluntariamente. O ciclo é, na prática, um mecanismo compulsório de circulação técnica disfarçado de guerra.
+- **Enfraquecer periodicamente as tribos umas contra as outras**, impedindo que qualquer uma consolide poder suficiente para ameaçar o arranjo.
+
+Ele também deixou por decreto duas travas que ainda valem: uma tribo derrotada da linhagem dele **não pode ser exterminada, apenas subjugada**, e o sobrenome pode ser concedido a estranhos para recompor uma população dizimada. A linhagem é protegida contra a própria violência que o sistema produz.
+
+**4. A regra que mantém os imortais fora do tabuleiro.** Ainda no mesmo desenho, e é a peça mais aproveitável de todas: os cultivadores imortais **não podem agir pessoalmente** na disputa pelo trono. Só podem operar por meio de "peças" — um Gu Imortal emprestado a um mortal, ou um protegido humano cultivado em segredo por décadas para aquele momento. E a dimensão privada onde o trono fica só admite a entrada de um rank 9, o que na prática significa ninguém.
+
+**5. Construções que administram a sorte.** Deixou pelo menos duas máquinas mágicas de rank 8 dedicadas ao caminho que criou: um **altar que converte calamidade em sorte** — isto é, transforma o custo do cultivo imortal em vantagem — e um **palácio que controla a sorte de céu e terra de uma região inteira**, escondido por trezentos mil anos. Ambas continuam funcionando.
+
+**6. Uma herança cultural que o cenário ainda carrega.** Vale registrar sem eufemismo, porque é decisão de ambientação e não detalhe: a inferioridade formal da mulher nas Planícies do Norte é herança cultural dele, enunciada em máximas atribuídas à sua autoridade. Não há precedente de líder mulher na região, e a única reforma igualitária tentada por um unificador histórico terminou em assassinato e cinco anos de guerra civil.
+
+> [!note] Para o design
+> Giant Sun é o Venerável que rende o tipo de aventura mais difícil de escrever do zero: **a conspiração que já venceu**. Tudo que ele construiu continua operando sem ele, e ninguém sabe que foi desenhado — os participantes acham que estão disputando um trono, quando estão executando o programa de um morto.
+>
+> Três usos diretos. Primeiro, a regra "patronos poderosos só agem por peças" é a solução mais elegante do vault para o problema clássico de por que os NPCs fortes não resolvem tudo sozinhos — e ainda transforma os personagens dos jogadores nas peças, que é exatamente onde eles devem estar. Segundo, o caminho da sorte é a especialização perfeita para uma mesa que goste de manipular rolagens em vez de somar dano, e o fato de ser **secreto** significa que um personagem que o cultive é caçado por existir. Terceiro, "a instituição que governa o mundo controla só metade da realidade" é um segredo de campanha inteiro numa frase.
+
+---
+
 ## Comparação de legados
 
 | Venerável | Caminho criado | O que ficou fisicamente no mundo | Consequência permanente |
@@ -165,6 +211,7 @@ O que a estrutura faz, camada a camada, importa:
 | Genesis Lotus | madeira | Um depósito-hospital de dimensões; a linhagem de nascentes portáteis | Poder deixa de depender de território fixo |
 | Spectral Soul | alma | Duas terras sagradas classificadas; almas divididas ainda ativas | Um indivíduo pode ser muitas pessoas por eras |
 | Limitless | regra | A Caverna do Demônio Enlouquecido, de nove camadas | Existe um furo permanente na fronteira do mundo |
+| Giant Sun | sorte (mantido em segredo) | O Céu da Longevidade; o altar de calamidade-em-sorte; o palácio que rege a sorte de uma região | A ordem política das Planícies do Norte roda sozinha há eras; e o governo do mundo controla só a certeza, nunca a incerteza |
 
 ## Relações
 
@@ -173,3 +220,7 @@ O que a estrutura faz, camada a camada, importa:
 - [[Cosmologia]] — a fronteira do mundo, perfurada pela obra de Limitless.
 - [[Blessed Lands e Grotto-Heavens]] — as dimensões privadas que Genesis Lotus aprendeu a guardar e que Spectral Soul aprendeu a engolir sem restrição.
 - [[Lendas de Ren Zu]] — a origem mítica das terras sagradas do caminho da alma.
+- [[Luck Path]] — a disciplina que Giant Sun criou e escondeu, em detalhe.
+- [[Eventos e Instituições Jogáveis]] — o ciclo do trono das Planícies do Norte visto como evento jogável; aqui está a intenção por trás dele.
+- [[Fate Gu]] — o instrumento que governa a certeza, e que a criação secreta de Giant Sun deixou incompleto.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números citados nesta nota.

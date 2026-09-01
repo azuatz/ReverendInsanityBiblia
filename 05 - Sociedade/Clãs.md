@@ -70,6 +70,17 @@ nessa contagem mortal.
 
 ### Ser ancião
 
+> [!warning] "Ancião" e "ancião supremo" são cargos diferentes
+> ==Ancião== (plural: **anciãos**) é o cargo descrito aqui: conselheiro de uma instituição
+> mortal, dezenas deles por casa. Num clã, o degrau é o **rank 3**; numa seita, o cargo de
+> mesmo nome fica um degrau acima, no **rank 4** — o título é o mesmo, a régua muda com a
+> instituição. ==Ancião supremo== é outra coisa, e você vai encontrar o
+> termo em [[Seitas e Academias]] e [[Cultura das Cinco Regiões]]: é o título dos
+> **[[Tribunal Celestial e Grandes Forças|Mestres Gu Imortais]] (rank 6 ou acima)** que
+> sustentam uma seita ou uma grande força por trás dos bastidores. Um clã mortal tem
+> anciãos e não tem nenhum ancião supremo; uma super força tem os dois. O qualificador
+> "supremo" é o que marca a diferença — quando ele não está lá, é o cargo mortal.
+
 Alcançar o rank 3 torna alguém ancião **automaticamente**, e todos os anciãos têm status
 formalmente igual entre si. A consequência prática é enorme: uma disputa entre dois
 anciãos é tratada como "assunto interno entre iguais", em que o coletivo não intervém.
@@ -92,7 +103,9 @@ mesa:
 
 - recrutar anciãos indecisos para o próprio lado;
 - fraudar cerimônias e avaliações;
-- **dopar herdeiros** com transfusões de essência antes de testes públicos;
+- **dopar herdeiros** com transfusões de [[Essência Primeva|essência primeva]] — a energia
+  interna que todo Mestre Gu produz e gasta para acionar seus Gu, o "combustível" do
+  cultivo — antes de testes públicos;
 - absorver facções enfraquecidas, num movimento que se chama abertamente de repartir "o
   bolo de interesses";
 - usar decretos de "interesse coletivo" para viabilizar confiscos.
@@ -145,16 +158,34 @@ O sistema jurídico de um clã não se parece com um tribunal: parece uma tabela
 indenizações combinada com cálculo político. Não há investigação criminal formal, e o
 princípio operante é a **compensação financeira**.
 
-- **A vida de servos e mortais praticamente não tem valor legal.** Matar vários servos
-  custa uma multa de algumas dezenas de pedras. Já ofender um Mestre Gu pode custar a
-  família inteira de um mortal.
+- **A vida de servos e mortais praticamente não tem valor legal.** Matar vários servos de
+  um clã custa uma multa de algumas dezenas de pedras. Já ofender um Mestre Gu pode custar
+  a família inteira de um mortal.
+
+  > [!warning] Não existe uma multa só: existem categorias de mortal
+  > É fácil ler a linha acima e a multa por ferir um cidadão comum registrada em
+  > [[Pedras Primevas]] como se fossem a mesma coisa, e elas não são — a diferença não está
+  > no ato, está em **de quem é o mortal**. A obra nunca enuncia um código com essas
+  > categorias — ela mostra multas avulsas, em cenas diferentes, sem explicar a diferença.
+  > `inferido`: a leitura que concilia os dois valores é que a multa não indeniza a vítima
+  > e sim o **dono ou a jurisdição** dela. Ferir um cidadão livre de uma cidade seria
+  > ofender a autoridade que cobra imposto daquela cidade, com valor tabelado por ela;
+  > matar servos do próprio clã seria destruir patrimônio interno, resolvido em conselho e
+  > por isso mais barato. Se você adotar essa leitura na sua mesa, estará preenchendo uma
+  > lacuna da obra, não seguindo uma regra dela. As categorias e os valores estão reunidos em
+  > [[Pedras Primevas]], que é a nota-fonte de preços desta pasta — esta aqui não repete
+  > números para não divergir dela.
 - **Existe uma "lei da necessidade":** sacrificar um companheiro para sobreviver sob
   risco de morte iminente não é crime — é apenas moralmente condenável.
 - **Interrogatórios detectam mentiras factuais, mas não intenções.** Omitir o que se
   pretendia não condena ninguém, o que torna a habilidade de dizer somente verdades
   seletivas uma competência social real.
 - **Todo Gu é registrado por escrito.** O patrimônio de um morto é verificado inspecionando
-  sua abertura interna — o clã sabe exatamente o que cada membro possui.
+  sua [[Abertura|abertura interna]] — a cavidade sobrenatural que todo Mestre Gu tem dentro
+  de si, onde ficam guardados os Gu vivos e a essência que os alimenta. Ela é ao mesmo
+  tempo o "órgão" do cultivo e o cofre pessoal do cultivador: abrir a de um morto é abrir a
+  gaveta de bens dele. Fazer isso com um vivo, sem autorização, é tabu. Assim o clã sabe
+  exatamente o que cada membro possui.
 - **Vingança exige prova.** Sem evidência, nem o líder pode acusar publicamente um
   parente.
 - **Punições administrativas são leves quando a letra da lei foi respeitada.** Falhar
@@ -190,10 +221,20 @@ Este é o roteiro de vida padrão, e provavelmente o esqueleto mais útil para c
 personagens jogadores.
 
 **Aos quinze anos — a cerimônia de despertar.** Um evento público em que se descobre se o
-jovem consegue abrigar Gu e qual é seu **grau de aptidão** (de A a D, ou nenhuma). É o
-momento que define tudo: aptidão alta significa recursos, atenção das facções e um futuro;
-aptidão baixa significa uma vida de tarefas menores. Facções fraudam essa cerimônia, e
-famílias dopam candidatos antes dela.
+jovem consegue abrigar Gu e qual é seu **grau de [[Aptidão|aptidão]]** (de A a D, ou
+nenhuma). É o momento que define tudo: aptidão alta significa recursos, atenção das facções
+e um futuro; aptidão baixa significa uma vida de tarefas menores. Facções fraudam essa
+cerimônia, e famílias dopam candidatos antes dela.
+
+O que a aptidão significa mecanicamente, em uma frase: ela é a **fração da [[Abertura|abertura]]
+que a pessoa consegue encher de essência** — ou seja, o teto de energia que ela pode
+guardar. Como subir de rank exige gastar uma porcentagem grande da própria reserva de uma
+só vez, o grau de aptidão funciona como uma **trava direta de carreira**: cada grau tem um
+rank máximo que se espera dele. A escala completa, com as porcentagens exatas de cada grau
+e o teto de rank correspondente, está em
+[[Tabelas de Referência Rápida#1. Graus de aptidão|Tabelas de Referência Rápida]]; a
+explicação longa está em [[Aptidão]]. Esta nota não repete os números para que exista um
+lugar só onde eles são mantidos.
 
 **Um ano de academia.** Os aprovados entram na academia do clã. O currículo é bem
 documentado:

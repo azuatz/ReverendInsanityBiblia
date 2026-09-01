@@ -14,9 +14,38 @@ conhecimento: comum
 
 # Refino de Gu
 
-**Em uma frase:** ==refinar== um Gu é substituir a vontade interna do bicho pela sua,
-usando a própria essência como veículo — e é o único jeito de um Gu passar a obedecer,
-poder ser guardado no corpo e ser considerado seu.
+**Em uma frase:** ==refinar== é o verbo que este mundo usa para *fazer um Gu ser seu* — e
+ele nomeia **duas operações completamente diferentes**, que esta nota trata em duas metades
+separadas.
+
+> [!warning] Leia isto antes de qualquer outra coisa: uma palavra, duas operações
+> O mundo chama de "refinar" tanto **domar um bicho que já existe** quanto **fabricar um
+> bicho que ainda não existe**. Não são variações da mesma coisa: são profissões
+> diferentes, com custos, prazos e riscos que não se parecem em nada. Confundi-las é o
+> erro mais fácil de cometer neste material, então elas ficam explicitamente separadas:
+>
+> | | **A. Subjugação** | **B. Fabricação por receita** |
+> |---|---|---|
+> | O que é | vencer a vontade de um Gu que já existe e substituí-la pela sua | produzir um Gu novo a partir de materiais, seguindo uma receita |
+> | Ponto de partida | um bicho capturado, herdado ou comprado | um monte de matéria-prima |
+> | Duração típica | **horas** | **anos a séculos** |
+> | Custo típico | algumas [[Pedras Primevas\|pedras primevas]] | um conjunto completo de materiais, por tentativa |
+> | Como se falha | o bicho contra-ataca, ou você desiste no meio | a receita falha numa etapa e você perde tudo |
+> | Quem faz | **todo Mestre Gu**, desde o primeiro dia | especialistas, e mesmo assim raramente |
+>
+> Há ainda um **terceiro** verbo circulando, e vale desarmar a confusão de uma vez:
+> **fundir** (ver [[Fusão de Gu]]) não é uma quarta coisa — é a *técnica* mais comum
+> dentro da operação B. Fabricar um Gu por receita é, na prática, executar uma sequência de
+> fusões e preparos. Quando este material diz "fusão", está falando de **um passo**; quando
+> diz "fabricação" ou "refino completo", está falando da **linha de produção inteira**.
+
+---
+
+# A. Subjugação — dominar um Gu que já existe
+
+Esta é a operação que todo personagem faz. Subjugar um Gu é substituir a vontade interna
+do bicho pela sua, usando a própria essência como veículo — e é o único jeito de um Gu
+passar a obedecer, poder ser guardado no corpo e ser considerado seu.
 
 ## A guerra de desgaste
 
@@ -89,39 +118,30 @@ a capacidade da abertura de quem recebe. Um caso extremo registrado leva a técn
 usada com força suficiente, ela permite refinar — isto é, roubar — um Gu **já vinculado a
 outra pessoa viva**, no nível mortal.
 
-## As taxas de sucesso
+### O que a subjugação custa
 
-Este é o número que define a economia inteira do mundo, e ele é brutal.
+Subjugar é a operação barata do sistema, e é bom fixar a ordem de grandeza: um Gu banal de
+nível 1 custa **cinco a dezesseis pedras primevas** e algumas horas. Não há receita, não há
+material, não há conjunto a perder. O que existe é o risco de contra-ataque e a
+impossibilidade de pausar.
 
-### Gu mortais
+A dificuldade sobe com o nível do bicho e, principalmente, com a **vontade** que mora nele
+(ver a tabela acima). Do nível 4 em diante, subjugar já é serviço de profissional. E para
+Gu Imortais a subjugação simplesmente **não funciona pela força**, se o Gu já pertence a
+outra pessoa: ver [[Gu Imortais]].
 
-| Nível do Gu | Chance aproximada |
-|---|---|
-| 1 a 3 | alta; refino é rotina |
-| 4 | já exige profissional |
-| 5 | **abaixo de 1 em 1.000 tentativas** |
+---
 
-É por isso que apenas quem possui território produtivo e capital consegue montar um conjunto
-completo de Gu de nível 5. Refino não é uma habilidade que se treina até dominar — é uma
-atividade de risco financiado.
+# B. Fabricação por receita — produzir um Gu que ainda não existe
 
-### Gu Imortais
+Aqui muda tudo. Não há bicho para vencer: há uma receita, uma pilha de materiais e uma
+sequência de etapas que pode ter **mais de dez mil passos**. Um único Gu de nível 5 pode
+levar **onze anos** para ser produzido, mesmo por uma lenda viva; no nível imortal, fala-se
+em **décadas a séculos**, e cada tentativa consome um conjunto completo de materiais
+imortais — um único conjunto de nível 6 já consome quase toda a riqueza líquida de um
+imortal médio.
 
-`conhecimento: especializado`
-
-| Nível do Gu | Taxa ordinária |
-|---|---|
-| 6 | **menos de 1%** |
-| 7 | **cerca de 0,1%** |
-| 8 | **cerca de 0,01%** |
-
-Especialistas lendários fogem dessa curva — há registro de um mestre que atingia 40% no
-nível 6 e 5% no nível 7 —, mas a referência prática mais citada é: **cinquenta a sessenta
-tentativas por sucesso**. Cada tentativa consome um conjunto completo de materiais imortais,
-e um único conjunto para nível 6 já consome quase toda a riqueza líquida de um imortal
-médio. Refinos levam **décadas a séculos**.
-
-### Por que existe falha aleatória
+## Por que existe falha aleatória
 
 `conhecimento: segredo`
 
@@ -149,6 +169,48 @@ extraordinário para o padrão do mundo.
 E há um limite que nenhuma perícia vence: se **alguém no mundo já refinou aquele Gu
 Imortal**, a tentativa falha automaticamente, sempre no último passo. Ver [[Gu Imortais]].
 
+## As taxas de sucesso, lado a lado
+
+Este é o número que define a economia inteira do mundo, e ele só faz sentido se as três
+operações forem lidas na mesma tabela — que é o que falta na maioria das explicações.
+
+**Leia por coluna, não por linha.** Cada coluna mede uma unidade de trabalho diferente:
+subjugar é uma tarde, fundir é **um passo** de uma receita, fabricar é a receita **inteira**.
+
+| Nível do Gu | Subjugar (um bicho que já existe) | Fundir (**um** passo) | Fabricar por receita (**processo completo**) |
+|---|---|---|---|
+| 1 a 3 | rotina; horas de trabalho | fácil | rotina de oficina |
+| 4 | serviço de profissional | **abaixo de 10%** | difícil; exige profissional |
+| 5 | possível, e há caso de um bicho debilitado subjugado em quinze minutos | **abaixo de 10%** | **abaixo de 1 em 1.000** |
+| 6 (Imortal) | **não funciona pela força** se já tem dono | **cerca de 1%** | **menos de 1%** comum · **40%** para especialista reconhecido |
+| 7 (Imortal) | idem | a obra não numera a fusão isolada | **cerca de 0,1%** comum · **5%** para especialista |
+| 8 (Imortal) | idem | a obra não numera a fusão isolada | **cerca de 0,01%** |
+
+> [!warning] Por que o nível 5 mortal *parece* mais difícil que o nível 6 imortal
+> Comparando os números crus, produzir um Gu mortal de nível 5 (abaixo de 1 em 1.000, ou
+> 0,1%) sairia **dez vezes mais difícil** que produzir um Gu Imortal de nível 6 (cerca de
+> 1%) — o que contradiz tudo o que o resto do material diz sobre o nível 6 ser uma mudança
+> de categoria.
+>
+> A contradição é aparente, e desaparece quando se compara o que é comparável: o **1%** do
+> nível 6 é a chance de **uma fusão** dar certo; o **0,1%** do nível 5 é a chance de a
+> **cadeia inteira** de fusões e preparos chegar ao fim. Um passo contra uma linha de
+> produção. A coluna do meio e a da direita nunca devem ser comparadas entre si.
+>
+> Esta leitura é **reconstrução nossa**: a obra fornece os dois números em contextos
+> separados e nunca os confronta. Ela é, porém, a única que mantém as duas afirmações de pé.
+
+Duas âncoras de mercado que valem mais que as porcentagens na hora de orçar: a referência
+prática mais citada é de **cinquenta a sessenta tentativas por sucesso**, e o teto absoluto
+documentado — receita própria, domínio quase-supremo em refino, apoio institucional e sorte
+reforçada — é de **50%**. É por isso que apenas quem possui território produtivo e capital
+monta um conjunto completo de Gu de nível 5, e por que produzir um Gu Imortal não é ação de
+personagem: é projeto de facção.
+
+Esta tabela é a versão explicada; a versão de consulta, ao lado dos demais números do
+sistema, está em [[Tabelas de Referência Rápida#12. Taxas de sucesso de refino]] — que é a
+fonte única em caso de divergência.
+
 ## Falhar: o preço no corpo e na alma
 
 Falhar não é apenas perder o investimento.
@@ -172,12 +234,48 @@ Existem garantias compráveis, todas caras:
 - Um Gu de nível 4 que **protege o Gu núcleo** mesmo em caso de falha.
 - Gu que elevam a taxa de sucesso, mais caros que os Gu que produzem.
 - Refinar em terra sagrada — existe uma região inteira dedicada aos mestres do refino.
-- E, no nível imortal, as **marcas do sucesso**: marcas gravadas no corpo que, consumidas
-  num refino, **eliminam a probabilidade natural de falha aleatória**. Não cobrem erro de
-  técnica, nem interferência externa, nem a regra de unicidade. Uma marca cobre até o nível
-  6; níveis 7 e 8 exigem mais de uma. São **intransferíveis e incomercializáveis** — nem a
-  maior autoridade do mundo consegue extrair uma à força de alguém. A única forma de se
-  beneficiar da marca de outra pessoa é **contratar essa pessoa** para refinar em seu nome.
+- E, no nível imortal, as **marcas do sucesso** — o item mais valioso da profissão, que
+  merece explicação própria (abaixo).
+
+### As marcas do sucesso: de onde vêm e o que compram
+
+`conhecimento: especializado`
+
+As ==marcas do sucesso (success dao marks)== são marcas gravadas no corpo que, consumidas
+num refino, **eliminam a probabilidade natural de falha aleatória** — isto é, apagam
+exatamente a parte do processo que nenhuma perícia controla (as etapas cruciais da seção
+anterior).
+
+**De onde vêm.** Não se compram nem se cultivam: nascem de uma herança antiga, ligada ao
+mito fundador do mundo e à dupla de Gu do sucesso e do fracasso que aparece nele (ver
+[[Lendas de Ren Zu]]). O mecanismo é uma inversão elegante: a herança **recolhe os fracassos
+alheios**, refina-os em Gu mortais do fracasso e, quando esses se acumulam em quantidade
+suficiente, eles **se condensam em marcas do sucesso**. Fracasso alheio é literalmente a
+matéria-prima do sucesso próprio.
+
+**Como se ganham.** Pela [[Convenção do Caminho de Refino]], o torneio periódico de refino
+aberto a qualquer participante — e
+a abertura é interessada, porque mais competidores significam mais fracassos e portanto mais
+marcas colhidas. Cada ciclo produz no máximo **36 marcas**; a maior instituição do mundo
+retira **30** à força para os próprios fins e deixa **6** para os melhores colocados. A marca
+é gravada no corpo do vencedor na hora, sem intermediário.
+
+**O que elas não fazem.** Não cobrem erro de técnica, não cobrem interferência externa e não
+furam a regra de unicidade — se aquele Gu Imortal já existe no mundo, a tentativa falha
+mesmo assim, no último passo.
+
+**Alcance e economia.** Uma marca cobre até o nível 6; níveis 7 e 8 exigem mais de uma. São
+**consumidas no uso**, e são **intransferíveis e incomercializáveis** — nem a maior
+autoridade do mundo consegue extrair uma à força de alguém, e já tentou muitas vezes. A
+única forma de se beneficiar da marca de outra pessoa é **contratar essa pessoa** para
+refinar em seu nome.
+
+> [!note] Para o design
+> Um recurso que não pode ser roubado, comprado nem doado, e que só existe em 36 unidades
+> por ciclo, transforma automaticamente quem o possui numa **pessoa procurada** em vez de num
+> alvo. Toda a pressão vira contratação, chantagem, casamento político e sequestro-com-vida —
+> nunca assassinato. É a mesma lógica que a unicidade dos Gu Imortais impõe ao mercado de
+> itens, aplicada agora a pessoas.
 
 ## Refino reverso
 
@@ -266,7 +364,9 @@ historicamente baixíssimas da profissão se explicam sozinhas.
   nas cidades grandes. Um único Gu de nível 5 pode levar **onze anos** para ser refinado,
   mesmo por uma lenda viva.
 - **Multitarefa é a medida do talento.** Refinar dois Gu simultaneamente já destaca alguém;
-  três é raro; quatro é o teto excepcional.
+  três é raro; quatro é o teto excepcional. Atenção: este limite é de **tarefas
+  independentes**, e não tem nada a ver com o número de Gu que cabe num golpe — a distinção
+  está explicada em [[Killer Moves#Quantas coisas um personagem faz ao mesmo tempo]].
 - **Receitas antigas vêm em linguagem poética**, com duplos sentidos deliberados que exigem
   decifração, e já preveem falhas e materiais reserva.
 - **Existe produção industrial.** Uma receita pode ser dividida em dezenas de etapas, com um

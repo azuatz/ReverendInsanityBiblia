@@ -7,7 +7,7 @@ aliases:
   - Gu Society
 status: consolidado
 fontes: ["cap. 4", "cap. 46", "cap. 55", "cap. 124-127", "cap. 148", "cap. 178-180", "cap. 195", "cap. 209", "cap. 260-283", "cap. 334-341", "cap. 344", "cap. 439-451", "cap. 489", "cap. 519", "cap. 892-899", "cap. 909-911", "cap. 954", "cap. 1069-1070", "cap. 1207", "cap. 1235-1236", "cap. 1303-1305", "cap. 2115", "cap. 2246"]
-conhecimento: comum
+conhecimento: misto — tudo até "Como as peças se encaixam" é `comum` (material de manual do jogador); a seção "O que só o mestre sabe" é `segredo` e não deve ser impressa para jogadores
 ---
 
 # Visão Geral da Sociedade
@@ -42,10 +42,11 @@ o mundo inteiro: o **caminho correto** e o **caminho demoníaco**, que não são
 "mal" — são duas apostas diferentes sobre como se deve conseguir recursos, explicadas
 em [[Caminho Correto e Caminho Demoníaco]].
 
-No topo de tudo, e conhecida do mundo apenas como um nome reverenciado, está a
-**Heavenly Court** (Corte Celestial), a organização mais antiga e poderosa que existe,
-detalhada em [[Tribunal Celestial e Grandes Forças]]. Boa parte do que ela realmente é
-não é sabido por ninguém fora dela.
+No topo de tudo, e conhecido do mundo apenas como um nome reverenciado, está o
+==Tribunal Celestial== (em inglês, *Heavenly Court*; a tradução brasileira da obra também
+usa "Corte Celestial" — é a mesma e única instituição, não duas), a organização mais antiga
+e poderosa que existe, detalhada em [[Tribunal Celestial e Grandes Forças]]. Boa parte do
+que ele realmente é não é sabido por ninguém fora dele.
 
 > [!note] Para o design
 > Esta é a estrutura mais reaproveitável do cenário: **toda organização é uma máquina de
@@ -114,8 +115,8 @@ não é sabido por ninguém fora dela.
   pertencer ou não a uma instituição reconhecida — não ser bom ou mau.
 - **As etiquetas de conflito**: desafio escrito, *spar*, duelo de especialistas antes de
   uma batalha geral, pretexto formal para invadir, cartas públicas de justificativa.
-- **Que a Heavenly Court existe** e é a autoridade suprema do mundo — do mesmo jeito que
-  um camponês medieval sabia que existia um Papa. Praticamente nada além disso.
+- **Que o Tribunal Celestial existe** e é a autoridade suprema do mundo — do mesmo jeito
+  que um camponês medieval sabia que existia um Papa. Praticamente nada além disso.
 - **Que reputação é infraestrutura**: um nome bom protege mais que uma muralha, e um
   nome ruim atrai caçadores de recompensa.
 - **Que um Mestre Gu viajando sozinho pela selva é suspeito.** Clãs mandam gente em
@@ -124,14 +125,21 @@ não é sabido por ninguém fora dela.
 
 ## O que só o mestre sabe
 
+> [!warning] Não imprima esta seção para os jogadores
+> O campo `conhecimento` do frontmatter desta nota diz `misto` justamente por causa desta
+> seção. **Todo o resto da nota é material de manual do jogador**; o que vem abaixo é
+> `segredo` e vaza o cenário se for lido por quem senta do outro lado da mesa. Se você
+> estiver recortando o vault para montar um livro do jogador, o corte é aqui: leve tudo
+> acima desta linha e pare.
+
 - **Que as dez grandes seitas do Continente Central têm uma origem comum e são,
-  formalmente, subordinadas da Heavenly Court.** É por isso que os conflitos entre elas
+  formalmente, subordinadas do Tribunal Celestial.** É por isso que os conflitos entre elas
   quase nunca escalam: existe uma arbitragem implícita acima.
-- **O preço real de entrar na Heavenly Court**: quem é admitido funde sua base material
+- **O preço real de entrar no Tribunal Celestial**: quem é admitido funde sua base material
   pessoal ao patrimônio coletivo da instituição e recebe em troca uma versão menor e
   portátil para uso externo. Ganha segurança e mobilidade; perde soberania. O texto
   afirma que há uma desvantagem oculta nessa troca e nunca revela qual.
-- **Que a Heavenly Court exclui categoricamente humanos variantes** (raças humanoides
+- **Que o Tribunal Celestial exclui categoricamente humanos variantes** (raças humanoides
   não-humanas), por mais talentosos que sejam. Não é preconceito individual: é regra
   estrutural — e é a fratura que empurra essas raças para os blocos rivais.
 - **Que uma instituição mundial inteira, de propósito genuinamente útil, regras

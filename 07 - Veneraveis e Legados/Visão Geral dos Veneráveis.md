@@ -59,7 +59,7 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 São **quatro condições cumulativas**:
 
 1. **O núcleo do mundo privado do candidato precisa produzir essência imortal de terceiro grau.** A energia que um imortal produz internamente tem quatro denominações crescentes; o candidato precisa já estar na terceira antes de tentar a quarta condição. É pré-requisito, não resultado.
-2. **Pelo menos 300 mil marcas de dao no caminho principal.** Para escala: um rank 6 tem até 9 mil; um rank 7, entre 10 e 30 mil; um rank 8, entre 100 e 300 mil. Cada mil marcas de dao dobram aproximadamente a amplificação de poder.
+2. **Pelo menos 300 mil marcas de dao no caminho principal.** Para escala: um rank 6 tem até 9 mil; um rank 7, entre 9 e 30 mil; um rank 8, entre **30 e 300 mil**. Sobre a amplificação que essas marcas dão, a regra prática é que **cada mil marcas somam uma vez o efeito base** — mil marcas dobram o efeito, dois mil triplicam, dez mil o multiplicam por onze. A curva é linear, e não uma duplicação a cada mil. Os números completos estão em [[Tabelas de Referência Rápida]], que é a fonte soberana deles neste vault.
 3. **Nível de realização "Supremo Grão-Mestre" no caminho principal — e este é o gargalo real.** Os níveis de domínio de uma disciplina vão de comum até supremo grão-mestre. O degrau imediatamente anterior, por mais próximo que pareça, não basta: supremo grão-mestre exige não apenas compreender toda a profundidade da disciplina, mas **inovar** dentro dela, elevando o teto da disciplina em si. Não é erudição; é autoria.
 4. **Romper o bloqueio do Caminho Celestial.** A lei do mundo suprime ativamente o crescimento de poder individual. Quebrar essa supressão é a última porta. Quem a atravessa passa a produzir a essência imortal de quarto grau.
 
@@ -94,20 +94,39 @@ Vale registrar um terceiro estado, o mais raro: **uma era em que os métodos dei
 
 ## Os dez
 
-Os dez Veneráveis históricos, em ordem aproximada de era. Cada um tem nota própria, focada no **legado estrutural**, não na biografia.
+Esta é a **lista completa e consultável** dos dez, para não ser preciso abrir as três
+notas temáticas só para saber quem são. Estão em ordem aproximada de era. A coluna
+"Onde ler" diz em qual nota desta pasta está a ficha de cada um — as fichas são
+agrupadas por **tipo de legado**, e não uma por Venerável, porque é o legado que
+interessa ao design, não a biografia.
 
-| Venerável | Via | Caminho principal | Legado em uma linha |
-|---|---|---|---|
-| [[Os Arquitetos da Ordem|Primordial Origin Immortal Venerable]] | correta | origin path | O primeiro rank 9 da história; fundou o sistema de seitas e o [[Tribunal Celestial]] |
-| [[Os Arquitetos da Ordem|Star Constellation Immortal Venerable]] | correta | wisdom path | Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu |
-| [[Os Criadores de Caminhos|Reckless Savage Demon Venerable]] | demoníaca | strength path | Criou os caminhos da força e da transformação; exterminou uma raça |
-| [[Os Criadores de Caminhos|Genesis Lotus Immortal Venerable]] | correta | wood path | Criou o caminho da madeira e a infraestrutura de cura e armazenamento do mundo imortal |
-| [[Os Que Romperam as Leis|Thieving Heaven Demon Venerable]] | demoníaca | theft path | Criou o caminho do roubo; o mais rico da história; remendou a fronteira do mundo |
-| [[Visão Geral dos Veneráveis|Giant Sun Immortal Venerable]] | correta (ex-demoníaca) | luck path | Criou o caminho da sorte em segredo; fundou a ordem política das Planícies do Norte |
-| [[Os Criadores de Caminhos|Limitless Demon Venerable]] | demoníaca | rule path | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo |
-| [[Os Criadores de Caminhos|Spectral Soul Demon Venerable]] | demoníaca | soul path | Criou o caminho da alma; a existência mais destrutiva dos dez |
-| [[Visão Geral dos Veneráveis|Paradise Earth Immortal Venerable]] | correta | (herança de campo de batalha) | Criou a melhor herança de combate da história e as ferramentas de leitura e ocultação do segredo celeste |
-| [[Os Que Romperam as Leis|Red Lotus Demon Venerable]] | demoníaca | (vida mais curta dos dez) | Feriu o [[Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida |
+Leia a coluna "Via" como rótulo de **método e reputação, não de força**: *Immortal
+Venerable* (Venerável Imortal) é quem chegou ao rank 9 pela via correta, aceita pelas
+instituições; *Demon Venerable* (Venerável Demônio) é quem chegou pela via demoníaca,
+sem respeitar esses limites. Os dois são igualmente invencíveis, e a distinção não
+diz nada sobre quem era cruel — vários "imortais" foram piores que vários "demônios".
+
+| # | Venerável | Via | Caminho principal | Legado em uma linha | Onde ler |
+|---|---|---|---|---|---|
+| 1 | Primordial Origin Immortal Venerable | correta | origin path (caminho da origem) | O primeiro rank 9 da história; fundou o sistema de seitas e o [[Tribunal Celestial]] | [[Os Arquitetos da Ordem]] |
+| 2 | Star Constellation Immortal Venerable | correta | wisdom path (caminho da sabedoria) | Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu | [[Os Arquitetos da Ordem]] |
+| 3 | Reckless Savage Demon Venerable | demoníaca | strength path (caminho da força) | Criou os caminhos da força e da transformação; exterminou uma raça | [[Os Criadores de Caminhos]] |
+| 4 | Genesis Lotus Immortal Venerable | correta | wood path (caminho da madeira) | Criou o caminho da madeira e a infraestrutura de cura e armazenamento do mundo imortal | [[Os Criadores de Caminhos]] |
+| 5 | Thieving Heaven Demon Venerable | demoníaca | theft path (caminho do roubo) | Criou o caminho do roubo; o mais rico da história; remendou a fronteira do mundo | [[Os Que Romperam as Leis]] |
+| 6 | Giant Sun Immortal Venerable | correta (ex-demoníaca) | luck path (caminho da sorte) | Criou o caminho da sorte e o manteve em segredo; fundou a ordem política das Planícies do Norte | [[Os Criadores de Caminhos]] |
+| 7 | Limitless Demon Venerable | demoníaca | rule path (caminho da regra) | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo | [[Os Criadores de Caminhos]] |
+| 8 | Spectral Soul Demon Venerable | demoníaca | soul path (caminho da alma) | Criou o caminho da alma; a existência mais destrutiva dos dez | [[Os Criadores de Caminhos]] |
+| 9 | Paradise Earth Immortal Venerable | correta | — (não criou caminho próprio) | Deixou a melhor herança de combate da história, as ferramentas de ler e ocultar o segredo celeste, e uma instituição de missões que ainda funciona | [[Os Arquitetos da Ordem]] |
+| 10 | Red Lotus Demon Venerable | demoníaca | — (a obra não informa) | Feriu o [[Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida; teve a vida mais curta dos dez | [[Os Que Romperam as Leis]] |
+
+**Total: 10.** A lista acima é fechada e não há um décimo primeiro. Se você encontrar
+em outra nota do vault uma contagem que não chegue a dez, é esta tabela que vale — e
+os dois nomes mais fáceis de perder de vista são o **Giant Sun** e o **Paradise
+Earth**, justamente porque não dão nome a nenhuma das três notas temáticas.
+
+Dois traços em "Caminho principal" são honestos, não lacunas de pesquisa: Paradise
+Earth de fato não fundou um caminho (o legado dele é de outra natureza), e a obra
+nunca declara qual era o caminho principal do Red Lotus.
 
 > [!warning] Sobre os nomes
 > Os nomes dos Veneráveis aparecem aqui em inglês porque a tradução brasileira de referência da obra só verteu alguns deles de forma consistente (por exemplo, *Venerável Imortal Constelação Estelar* e *Venerável Demônio Alma Espectral*). Para não inventar nomenclatura, cada nota traz o nome em inglês como título e registra a forma em português nos `aliases` quando ela existe confirmada.

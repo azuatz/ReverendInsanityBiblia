@@ -23,9 +23,25 @@ caminho consegue fazer coisas que nenhum outro faz (curar, rastrear parentesco, 
 passado, elevar aptidão) e por isso mesmo que o mundo o odeia.
 
 A obra é enfática quanto à posição social: o caminho do sangue é descrito como **pior que
-queimar almas**. Não é "mal visto" — é o extremo da escala moral. Um praticante conhecido não
-tem carreira legítima, não tem clã disposto a acolhê-lo e não tem trégua. É o caminho
-demoníaco por definição.
+queimar almas**. A comparação só funciona para quem conhece o outro termo dela, então vale
+explicitá-lo: consumir ou destruir a alma de uma pessoa é, neste mundo, uma agressão de
+categoria diferente de matá-la — a alma é substância manipulável, e destruí-la apaga a pessoa
+de forma definitiva, sem sobra e sem retorno. É a prática que deu ao
+[[Soul Path|caminho da alma]] a pior reputação da sua história, ao ponto de um cultivador de
+nível 9 tê-lo suprimido e de o comércio de almas ter sido empurrado para a clandestinidade.
+Dizer que o caminho do sangue é *pior* que isso é, portanto, colocá-lo acima da referência
+que o mundo já usava para o horror.
+
+Não é "mal visto" — é o extremo da escala moral. Um praticante conhecido não tem carreira
+legítima, não tem clã disposto a acolhê-lo e não tem trégua. É o caminho demoníaco por
+definição.
+
+> [!warning] Inferência nossa
+> A frase "pior que queimar almas" é da obra. O **enquadramento** acima — tratar a destruição
+> de almas como a referência contra a qual este mundo mede atrocidades — é reconstrução
+> nossa, feita a partir do que [[Soul Path]] documenta sobre a supressão histórica do
+> caminho da alma e sobre o comércio de almas. A obra não enuncia essa escala moral de forma
+> fechada.
 
 O que o torna tentador, apesar disso, é uma característica rara: **ele funciona com o corpo
 que você já tem**. Um cultivador pobre, sem receitas de família e sem território, ainda tem
@@ -71,7 +87,33 @@ que não é dinheiro.
 | Morcego Alado de Sangue | 3 | Enxame barato de alimentar |
 | Frenesi de Sangue | 4 | Devolve autossuficiência energética a outros Gu — e os corrompe |
 
-(⭐ = Gu Imortal, único no mundo. Ver [[Gu Imortais]] e [[Catálogo de Gu]].)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
+
+> [!warning] O Crânio de Sangue é o caso que fura a trava de rank
+> A regra geral do mundo é dura: acionar um Gu acima do próprio rank arrebenta a abertura de
+> quem tenta — morte ou dano irreversível. Ver [[Ranks e Avanço]]. Mas o caso mais citado
+> deste Gu, registrado em [[Aptidão]], é justamente o de um **Mestre Gu de rank 3** operando
+> um Gu de **nível 4** para converter mortes em aptidão permanente.
+>
+> Isso não é um erro do material: é uma exceção real, e ela importa para o design. O caso
+> tem duas particularidades que provavelmente a explicam — o Gu era **demoníaco e roubado**,
+> isto é, não fora refinado pelo usuário e não estava vinculado a ele da forma normal; e o
+> caminho do sangue opera com **combustível alternativo** (sangue e vitalidade, não essência
+> primeva), o que muda quem paga a conta da ativação. Nenhuma das duas está enunciada pela
+> obra como regra geral; são leituras nossas do caso.
+>
+> Para a mesa, o proveito é este: **a trava de rank é mais porosa do que o mundo admite em
+> voz alta**, e os furos custam caro em outra moeda. Um personagem pode acionar acima do
+> próprio nível — pagando com corpo, com vida ou com um Gu que não é dele e vai cobrar a
+> conta depois. É um botão de emergência excelente, e o caminho do sangue é onde ele mais
+> aparece.
 
 ## Em combate e fora dele
 

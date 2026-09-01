@@ -111,7 +111,14 @@ das habilidades do outro. Sorte é, literalmente, redução de variância compar
 | Sorte do Tempo ⭐ | — | Compra sorte com tempo de vida de terceiros |
 | Coração Favorecido ⭐ | 9 | Material no núcleo de todo Tesouro da Terra; permite refinar sorte de nível 9 |
 
-(⭐ = Gu Imortal, único no mundo.)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
 
 Vale destacar o **Convocar Calamidade**, porque é a peça de design mais bonita do caminho:
 ele só aceita como portador alguém com um **genuíno coração de autossacrifício**. É uma trava

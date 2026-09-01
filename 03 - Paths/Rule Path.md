@@ -110,7 +110,14 @@ vez.
 | Desintegrar | 5–7 | Desintegra quase qualquer elemento místico |
 | Amplificar Efeito | 2–5 | Multiplica o efeito de outro Gu (nível 5 = 5×) |
 
-(⭐ = Gu Imortal, único no mundo.)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
 
 O caso do **Precaução** merece nota, porque é o melhor exemplo documentado de como uma
 descrição errada mata: ele produz seu efeito na **décima primeira** respiração, não na décima
@@ -182,7 +189,8 @@ Os pares mais notáveis:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco Sem Limites** — nível 9, criador do caminho da regra. É também a
+- **[[Os Criadores de Caminhos|Limitless Demon Venerable]]** — nível 9, criador do caminho da
+  regra. É também a
   figura que resolveu, há mais de dois milhões de anos, o problema de refinar marcas do Dao do
   céu — o obstáculo que impedira o maior refinador da antiguidade de refinar o mundo inteiro.
   Ver [[Heaven Path]].

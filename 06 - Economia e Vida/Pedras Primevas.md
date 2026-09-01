@@ -71,25 +71,81 @@ Duas notas técnicas com consequências grandes:
 
 ## O que uma pedra compra
 
+> [!warning] Leia isto antes das tabelas: são **duas** economias, não uma
+> Este é o mal-entendido mais caro que se pode ter com este material, então vale a
+> interrupção. Se você somar os números das tabelas abaixo sem separá-los, chega a
+> absurdos: uma xícara de chá custando cinco meses do sustento de uma família, ninguém
+> jamais conseguindo pagar a entrada de uma cidade, um aluguel "modesto" valendo vinte
+> vezes o que uma família inteira consome.
+>
+> Nada disso está errado. O que acontece é que **quase todos os preços registrados na obra
+> são preços de Mestre Gu**, e o mortal comum simplesmente **não participa da economia
+> monetária**. Ele não compra chá em casa de chá, não assiste a lutas de arena, não aluga
+> imóvel e não entra em cidade grande. Ele vive de lavoura, troca e serviço dentro de um
+> clã que o abriga, e a pedra primeva passa pela vida dele umas poucas vezes — em impostos,
+> em multas e no dia da cerimônia de despertar do filho.
+>
+> A coluna **Público** nas tabelas desta nota diz, para cada linha, de qual das duas
+> economias aquele preço veio. Use só as linhas do público certo e as contradições somem.
+>
+> `inferido` — a obra mostra os preços em cena e nunca enuncia essa separação em duas
+> economias; a leitura acima é deste vault. Mas ela é a única que faz os números fecharem,
+> e é coerente com a regra social de que a vida de um mortal quase não tem valor legal.
+
 A referência mais útil para calibrar tudo o mais:
 
-| Referência | Valor |
-|---|---|
-| Um javali de caça | meia pedra |
-| Um jarro do melhor vinho da região | 2 pedras (= 2 meses de despesas de uma família mortal) |
-| Cinco meses de vida de uma família mortal de três pessoas | 5 pedras |
-| Um dia de vida de um Mestre Gu iniciante | 3 a 5 pedras |
-| Entrada numa cidade grande | 1 a 10 pedras por pessoa |
-| Aluguel de um imóvel modesto | 8 a 25 pedras por mês |
-| Multa por ferir um cidadão comum | cerca de 49 pedras |
-| Mensalidade de uma "pensão" de Gu | 80 pedras |
-| Salário semanal de um ancião de clã | 100 pedras (300 em crise) |
-| Reserva mínima de um itinerante independente | ~10.000 pedras |
+| Referência | Valor | Público |
+|---|---|---|
+| Cinco meses de vida de uma família mortal de três pessoas | 5 pedras | mortal |
+| Um javali de caça | meia pedra | mortal |
+| Um jarro do melhor vinho da região | 2 pedras (= 2 meses de despesas de uma família mortal) | mortal |
+| Entrada numa cidade grande | 1 a 10 pedras por pessoa | Mestre Gu (para o mortal, é uma barreira, não um preço) |
+| Aluguel de um imóvel modesto | 8 a 25 pedras por mês | Mestre Gu |
+| Mensalidade de uma "pensão" de Gu | 80 pedras | Mestre Gu |
+| Um dia de vida de um Mestre Gu iniciante | 3 a 5 pedras | Mestre Gu |
+| Salário semanal de um ancião de clã | 100 pedras (300 em crise) | Mestre Gu |
+| Reserva mínima de um itinerante independente | ~10.000 pedras | Mestre Gu |
 
-O contraste que mais choca vem daí: **um único dia de vida de um Mestre Gu iniciante custa
-mais que um mês inteiro de uma família mortal** — e ele ainda é considerado pobre pelos
-pares. O consumo cresce com o rank, então nunca há alívio: ficar mais forte é assumir uma
-conta maior.
+A conversão entre as duas colunas é a única conta que você precisa guardar: **1 pedra ≈ 1
+mês de sustento de uma família mortal de três pessoas** e, ao mesmo tempo, **3 a 5 pedras ≈
+1 dia de vida de um Mestre Gu iniciante**. Ou seja, o piso da existência de um cultivador
+novato — o mais pobre e desprezado dos Mestres Gu — consome, por dia, cerca de **cem vezes**
+o que uma família de mortais consome. Ele ainda assim é considerado pobre pelos pares, e o
+consumo cresce com o rank: nunca há alívio, ficar mais forte é assumir uma conta maior.
+
+> [!note] Para o design
+> Essa razão de cem para um não é um detalhe de ambientação: é a régua moral do cenário
+> inteiro, e ela explica sozinha por que a vida de um mortal "não vale nada" sem que
+> ninguém precise ser retratado como cruel. Um Mestre Gu de rank 1 que gasta um dia
+> comum já queimou o orçamento anual de uma família. A crueldade do mundo é aritmética
+> antes de ser moral — e é por isso que a personagem que **se recusa** a tratar mortais
+> como descartáveis está pagando um preço mecânico real, não fazendo um gesto barato.
+
+### Quanto custa machucar um mortal
+
+Os valores de multa que a obra registra parecem incoerentes até se perceber que **eles não
+medem o dano à vítima, e sim a quem a vítima pertencia**. Um mortal do mundo não é uma
+categoria só; ele ocupa uma de três posições jurídicas, e é a posição — não o ferimento —
+que define o preço:
+
+| Categoria do mortal | Quem é | O que custa ofendê-lo |
+|---|---|---|
+| **Cidadão comum** | mortal livre, morador de uma cidade ou vila sob jurisdição declarada | multa tabelada pela autoridade local: **cerca de 49 pedras** por ferir um |
+| **Servo** | mortal preso a um clã por vínculo de serviço | resolvido no conselho interno do clã: **algumas dezenas de pedras** por matar vários |
+| **Escravo** | mortal que é propriedade transferível | nenhuma multa: é dano ao patrimônio do dono, e vale o preço de reposição (ver a seção seguinte) |
+
+Repare no que isso produz: **ferir um cidadão livre custa mais caro que matar vários
+servos**. Não é um erro de contabilidade do mundo — é a lógica dele funcionando. O cidadão
+livre está sob uma jurisdição que cobra imposto e precisa manter autoridade; o servo está
+dentro de um clã, e o clã é ao mesmo tempo dono, vítima e juiz. Ninguém indeniza a si
+mesmo pelo valor cheio.
+
+> [!warning] Isto é reconstrução, não citação
+> `inferido` — a obra mostra multas avulsas em cenas diferentes e **nunca enuncia um código
+> com essas três categorias**. Os dois valores em negrito acima são do texto; a moldura que
+> os organiza é deste vault. Se a sua mesa precisa de uma tabela de consequências, esta
+> funciona e é coerente com tudo o mais; só não a apresente como regra citável da obra.
+> Ver também [[Clãs]] e [[Vida Cotidiana]].
 
 ## Preço de Gu por rank
 
@@ -106,8 +162,21 @@ A tabela que define as ordens de grandeza do mundo mortal:
 
 Três observações que valem mais que a tabela:
 
-1. **Cada rank multiplica o preço por dez.** É uma escala logarítmica limpa e fácil de usar
-   em mesa.
+1. **A regra do ×10 por rank só vale a partir do rank 3** — e o desvio nos dois primeiros
+   ranks é informação, não ruído. Confira na tabela: do rank 1 para o 2 o preço mal dobra;
+   do 2 para o 3 ele varia entre dobrar e decuplicar; só do rank 3 em diante cada degrau
+   multiplica por dez de forma limpa.
+
+   O motivo é econômico e vale para a sua mesa: **nos ranks baixos o preço não é ditado
+   pelo custo de refinar, e sim pelo custo de capturar**. Gu de rank 1 e 2 são abundantes,
+   qualquer clã produz os seus, e o mercado tem um piso — ninguém vende abaixo do trabalho
+   de sair e pegar o bicho. A partir do rank 3, a raridade e a dificuldade de refino passam
+   a mandar, e aí a escala logarítmica se instala. Na prática: **use ×10 do rank 3 para
+   cima e a tabela acima nos ranks 1 e 2**, que é justamente onde os personagens começam e
+   onde errar a ordem de grandeza estraga a economia da campanha inteira.
+
+   `inferido` — a explicação do piso de captura é deste vault; as faixas de preço são da
+   obra.
 2. **Um Gu raro de rank baixo custa como um Gu comum de rank alto.** Raridade e potência
    são eixos independentes.
 3. **Certas categorias saltam no rank 4.** Gu de categorias difíceis de refinar disparam de
@@ -120,32 +189,63 @@ cidade-mercado inteira foi uma receita, não um item. Ver [[Mercados e Leilões]
 
 ## Preços de referência para uma mesa
 
-Alguns números documentados, úteis como âncoras ao improvisar:
+> [!note] Esta nota é a fonte única de preços do vault
+> Os números abaixo são mantidos **aqui e só aqui**. Onde outra nota precisar de um preço,
+> ela deve apontar para esta em vez de repetir o valor — foi a duplicação à mão que
+> produziu as pequenas divergências que a revisão encontrou. Se você achar um preço em
+> outra nota que não bata com esta tabela, **esta tabela vence**. Para os números do
+> sistema de cultivo (aptidão, ranks, dao marks, refino), a soberana é outra:
+> [[Tabelas de Referência Rápida]].
+
+Alguns números documentados, úteis como âncoras ao improvisar. **Todos os preços desta
+tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto:
 
 | Item ou serviço | Preço |
 |---|---|
-| Chá comum | 5 pedras |
-| Folha medicinal cultivada (unidade) | 55 a 80 (o preço superior é inflação de crise) |
+| Chá comum, numa casa de chá | 5 pedras |
 | Ingresso de arena, como espectador | 20 |
 | Hospedagem em bairro nobre | 30 a 100 por dia |
+| Folha medicinal cultivada (unidade) | 55 a 80 (o topo da faixa é inflação de crise) |
+| Inscrição em arena profissional | 500 |
 | Gravação comprometedora (chantagem) | 2.000 |
 | Gu de rank 3 de boa qualidade | 28.000 a 45.000 |
-| Inscrição em arena profissional | 500 |
 | Tratamento de dano permanente por um rank 5 | ~100.000 |
-| Gu de rank 4 de topo, em leilão | 250.000 a 500.000 |
-| Receita exclusiva (recorde de leilão) | 670.000 |
 | Custo de refino de um Gu raro sob encomenda | ~200.000 |
-| Extorsão por um segredo existencial de clã | 3.000.000 |
+| Gu de rank 4 de topo, em leilão | 250.000 a 500.000 |
 | Espólio completo de uma tribo média | 634.000 pedras mais Gu e prisioneiros |
+| Receita exclusiva (recorde de leilão) | 670.000 |
+| Extorsão por um segredo existencial de clã | 3.000.000 |
 
 ## Regras e limites
 
 - **O ouro não é dinheiro.** É apenas mais um material de refino. Meia tonelada de ouro,
   "uma fortuna imensa" pelos padrões terrenos, é aqui um lote de matéria-prima comum. Toda
   a intuição econômica que um jogador traz de outros cenários se desfaz nesse detalhe.
-- **Escravos são baratos.** Cinco homens mortais escravizados custam cerca de meia pedra
-  primeva. É a estatística que mede, com mais crueldade que qualquer discurso, o valor da
-  vida mortal neste mundo.
+- **Escravos são baratos — e o número documentado é um piso, não uma média.** A obra
+  registra uma cena em que **cinco homens mortais escravizados custam cerca de meia pedra
+  primeva**: um décimo de pedra por pessoa, o mesmo que um javali vale inteiro. É a
+  estatística que mede, com mais crueldade que qualquer discurso, o valor da vida mortal
+  neste mundo. Mas ela precisa de uma ressalva antes de virar regra de mesa — ver o aviso
+  abaixo.
+
+  > [!warning] Não precifique o tráfico inteiro por esse número
+  > A meio décimo de pedra por cabeça, um escravo custa menos que duas semanas da própria
+  > comida dele, e o "negócio mais próspero das Planícies do Norte", movimentando cativos
+  > aos milhões, faturaria menos que um punhado de Gu de rank 3. Isso não fecha com nada do
+  > que a obra diz sobre a escala do tráfico.
+  >
+  > O que a obra dá: **um preço, numa cena, para um lote de cativos comuns na ponta mais
+  > barata do mercado**. O que ela não dá: uma tabela de preços do tráfico. Ela deixa
+  > claro, porém, que existe precificação sofisticada acima desse piso — cativos de raças
+  > variantes custam **mais** que humanos, e o critério declarado é a "controlabilidade".
+  >
+  > `inferido`, para uso em mesa: trate a meia pedra como **preço de saldo na boca do
+  > campo de batalha**, logo depois de uma razia, quando o vencedor tem mais prisioneiros
+  > do que consegue transportar. O preço de varejo — depois do transporte, da seleção e do
+  > adestramento, que são onde o lucro do tráfico realmente está — é de uma a duas ordens
+  > de grandeza acima, e um cativo com habilidade útil ou uma raça variante controlável vai
+  > além disso. Se você precisa de um número para um resgate, uma indenização ou um NPC
+  > capturado, use a faixa de varejo e não o piso.
 - **Crises monetizam-se sozinhas.** Quando uma emergência força todo mundo a cultivar ao
   mesmo tempo, as pedras somem de circulação — a demanda por combustível engole a oferta de
   moeda. As organizações então emitem **pontos de mérito** como substituto, com câmbio

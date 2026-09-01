@@ -6,7 +6,7 @@ aliases:
   - Immortal ascension
   - Ascensão 5 para 6
 status: consolidado
-fontes: ["cap. 492", "cap. 519", "cap. 544-546", "cap. 561", "cap. 563", "cap. 600", "cap. 606-612", "cap. 616", "cap. 626-634", "cap. 690", "cap. 693", "cap. 703", "cap. 939", "cap. 1027-1028", "cap. 1033", "cap. 1367-1368", "cap. 1439", "cap. 1449", "cap. 1459", "cap. 1461", "cap. 1489", "cap. 1646", "cap. 2253"]
+fontes: ["cap. 492", "cap. 519", "cap. 544-546", "cap. 561", "cap. 563", "cap. 600", "cap. 606-612", "cap. 616", "cap. 626-634", "cap. 690", "cap. 693", "cap. 703", "cap. 939", "cap. 1027-1028", "cap. 1033", "cap. 1367-1368", "cap. 1439", "cap. 1449", "cap. 1459", "cap. 1461", "cap. 1489", "cap. 1646", "cap. 655", "cap. 665-666", "cap. 672", "cap. 692", "cap. 971", "cap. 1053", "cap. 1082", "cap. 1291", "cap. 1681", "cap. 2228", "cap. 2253"]
 conhecimento: especializado
 ---
 
@@ -79,25 +79,70 @@ O desequilíbrio entre os três qi mata de três maneiras distintas, e cada uma 
 
 ## As grades de abertura imortal
 
-O tamanho e a riqueza do mundo pequeno resultante são determinados **na formação** e dependem diretamente do human qi acumulado. É o boletim final da vida mortal do personagem, e ele é permanente.
+O **potencial** do mundo pequeno resultante é determinado na formação e depende diretamente do human qi acumulado: é o boletim final da vida mortal do personagem. Mas potencial não é resultado. **A realização desse potencial é o trabalho dos séculos seguintes** — a terra cresce, o fluxo de tempo dela muda, os recursos se desenvolvem por níveis, e outro imortal pode inclusive instalar técnicas dentro dela. Na ficha do personagem, a grade é o ponto de partida, não a linha de chegada.
 
-| Grade | Área | Energia produzida por ano | Fluxo de tempo interno | Extra |
-|---|---|---|---|---|
-| Baixa | até 2.000 km² | 10+ contas | — | recursos escassos |
-| Média | 2.700–4.000 km² | 20+ | ~1:16 | — |
-| Alta | 4.700–6.000 km² | 30+ | ~1:30 a 1:33 | sobra energia para **promover um Gu mortal a Gu imortal** na própria ascensão |
-| **Super** | acima de 6.700 km² | 50+ | ~1:38 a 1:40 | nasce de ascensão com constituição extrema; vem com dois ou mais Gu imortais de bônus |
+A tabela das quatro grades — área, produção anual e traço distintivo de cada uma — está em [[Tabelas de Referência Rápida#9. Grades de blessed land]], que é a fonte única dos números do sistema. O desenvolvimento posterior da terra é assunto de [[Blessed Lands e Grotto-Heavens]]. Aqui interessa o que a tabela **não** mostra:
 
-Três coisas a entender sobre essa tabela:
+**O fluxo de tempo é a estatística mais estranha e mais importante.** Toda abertura imortal contém um afluente do rio do tempo do mundo, e por isso o tempo lá dentro corre mais rápido que fora. As proporções documentadas vão de cerca de 1:5 até mais de 1:38 — até trinta e oito dias internos para cada dia lá fora. Duas ressalvas que evitam erro de calibragem: o fluxo **não é fixo por grade** (ele cresce junto com a área e depois estabiliza, e terras jovens começam perto de 1:1), e ele **não é inteiramente natural** (conectar a terra ao mundo externo para absorver energia desacelera a dilatação, e um especialista de rank 8 do caminho do tempo consegue desacelerar deliberadamente a dimensão de terceiros). Trate o fluxo como **infraestrutura**, não como atributo inato.
 
-**O fluxo de tempo é a estatística mais estranha e mais importante.** Toda abertura imortal contém um afluente do rio do tempo do mundo, e por isso o tempo lá dentro corre mais rápido que fora — de 16 para 1 numa terra média, de 30 para 1 numa alta. Isso parece puro benefício e não é: tempo interno mais rápido significa **mais produção de recursos e também calamidades mais frequentes**, porque o relógio das provações conta o tempo *interno*. Desacelerar o fluxo com técnicas de tempo adia os desastres e reduz a produção na mesma proporção. É uma alavanca de risco-recompensa que o jogador controla.
+E ele parece puro benefício e não é: tempo interno mais rápido significa **mais produção de recursos e também calamidades mais frequentes**, porque o relógio das provações conta o tempo *interno*. Desacelerar o fluxo adia os desastres e reduz a produção na mesma proporção — e reduz também a velocidade com que o dono envelhece. É uma alavanca única com três coisas presas nela, explicada em [[Tribulações e Calamidades]].
 
 **A abertura imortal é, ela mesma, o território do personagem.** Enquanto o cultivador for rank 6 ou 7, ela se chama **blessed land (terra abençoada)**; nos ranks 8 e 9, **grotto-heaven (gruta-céu)**, uma categoria acima que exibe clima e ciclo de dia e noite próprios, coisa que uma terra abençoada comum não tem por maior que seja.
 
-**Ela se desenvolve por níveis.** Existe uma escada formal de sete degraus de desenvolvimento, e ela descreve uma economia inteira: (1) estabelecer recursos mortais em escala imortal — um imortal produz milhões de Gu mortais de uma vez, contra os cinco ou seis que um mortal comum sustenta; (2) produzir materiais de nível imortal suficientes para alimentar os próprios Gu; (3) criar bestas e plantas imortais **integradas numa cadeia alimentar real**; (4) usar o excedente para comerciar; (5) produzir Gu imortais naturalmente ali dentro; (6) criar populações humanas e **produzir Gu Immortals** a partir delas; (7) produzir itens de longevidade. Na prática os níveis não são estritamente sequenciais — dá para dominar um mercado sem ser autossuficiente na própria alimentação.
+**Ela se desenvolve por níveis.** Existe uma escada formal de sete degraus de desenvolvimento, e ela descreve uma economia inteira: (1) estabelecer recursos mortais em escala imortal — um imortal produz milhões de Gu mortais de uma vez, contra os poucos que um Mestre Gu mortal sustenta (a tabela por perfil está em [[Usar e Alimentar Gu]]); (2) produzir materiais de nível imortal suficientes para alimentar os próprios Gu; (3) criar bestas e plantas imortais **integradas numa cadeia alimentar real**; (4) usar o excedente para comerciar; (5) produzir Gu imortais naturalmente ali dentro; (6) criar populações humanas e **produzir Gu Immortals** a partir delas; (7) produzir itens de longevidade. Na prática os níveis não são estritamente sequenciais — dá para dominar um mercado sem ser autossuficiente na própria alimentação.
 
 > [!warning] O que acontece quando o dono morre
 > A abertura de um Gu Immortal morto fica instável e **cai no mundo**: abre sua entrada, absorve energia do céu e da terra e se torna uma terra abençoada ou gruta-céu **sem dono**. É essa a origem de boa parte das terras abençoadas "selvagens" que existem espalhadas pelo mundo, com seus tesouros, seus guardiões e suas heranças — cada uma delas foi, um dia, o corpo espiritual de alguém. Há uma janela curta logo após a formação para entrar e reivindicar a posse; perdida a janela, entrar fica muito mais difícil.
+
+## A economia de energia imortal: o que é uma "conta"
+
+As tabelas medem a produção de uma abertura imortal em "contas por ano", e essa
+palavra precisa de definição, porque é a unidade monetária do reino imortal
+inteiro e ela não se parece com nada do mundo mortal.
+
+A ==conta (bead)== é a **unidade discreta de essência imortal** que o núcleo de
+origem da abertura produz — literalmente uma pérola de líquido, contada uma a
+uma. Não é uma medida abstrata de energia: é um objeto, e o imortal sabe
+exatamente quantas tem.
+
+Três propriedades definem tudo o que se pode fazer com ela:
+
+- **A conta tem denominação, e a denominação é o rank de quem a produziu.**
+  Uva-verde no rank 6, tâmara-vermelha no 7, lichia-branca no 8,
+  damasco-amarelo no 9. Cada degrau vale cerca de **cem vezes** o anterior.
+- **A conta é pessoal e intransferível.** Um imortal não consegue gastar a
+  essência de outro. A exceção estrutural são as **casas de Gu imortais**, que
+  absorvem essência de qualquer fonte — e é por isso que elas são o único
+  equipamento do mundo que várias pessoas conseguem alimentar juntas.
+- **Existe uma moeda neutra que faz a ponte:** a **pedra de essência imortal**,
+  que circula e é negociável. O câmbio completo está em
+  [[Tabelas de Referência Rápida#5. Escala de valor das essências imortais]];
+  a âncora de base é que **uma conta de uva-verde equivale a uma pedra de
+  essência imortal**, e as denominações acima seguem o degrau de cem.
+
+### Quanto custa viver
+
+Estes são os custos de referência que a obra fornece. São o que permite orçar
+uma campanha; onde não houver número, está dito.
+
+| O que | Custo | Como ler |
+|---|---|---|
+| Ascender e receber a primeira reserva | cerca de **36 contas** de uva-verde | é com isso que um imortal recém-nascido começa a vida |
+| **Ativar** um golpe imortal | cerca de **1 conta** por ativação | este é o número que importa em combate: um rank 6 dispara na casa das dezenas de vezes antes de secar a produção de um ano |
+| **Alimentar** um Gu Imortal | cerca de **1 conta a cada seis anos** | alimentar é baratíssimo; **usar** é que é caro. A distinção é a coisa mais importante desta tabela |
+| Uma batalha grande entre imortais | **mais de uma dúzia** de contas | uma briga séria custa o equivalente a um ano de renda de uma terra pequena |
+| Deduzir a receita de um Gu Imortal de rank 6 | **3 a 6 contas** com base para partir; **mais de 100** do zero | é a diferença entre ter e não ter uma herança |
+| Produção anual de uma terra abençoada | de **10+ a 50+ contas**, conforme a grade | ver [[Tabelas de Referência Rápida#9. Grades de blessed land]] |
+
+> [!note] Para o design
+> Compare as duas linhas do meio e você tem a economia inteira do reino imortal
+> numa frase: **manter o arsenal é trivial, disparar o arsenal é ruinoso**. Um
+> Gu Imortal parado custa alguns centavos por década; o mesmo Gu numa batalha
+> consome, em minutos, o que a terra levou meses para produzir. Isso empurra
+> naturalmente os imortais para a política, a barganha e a ameaça — brigar é
+> literalmente caro demais para ser o método padrão. É o oposto exato da economia
+> mortal, em que a comida dos Gu é o custo que quebra as pessoas (ver
+> [[Usar e Alimentar Gu]]).
 
 ## Na vida de um Gu Immortal
 
@@ -196,26 +241,20 @@ As duas causas de morte, então, são espelhadas:
 ## Tamanho e qualidade do domínio conquistado
 
 O que se ganha ao sobreviver não é padronizado. A abertura imortal resultante varia em
-**área, fluxo de tempo, riqueza de recursos e afinidade** — e tudo isso é determinado no
-instante da ascensão, pelo volume de qi absorvido e equilibrado.
+**área, fluxo de tempo, riqueza de recursos e afinidade** — e o *potencial* de tudo isso
+é determinado no instante da ascensão, pelo volume de qi absorvido e equilibrado. As
+quatro grades e seus números estão na seção anterior, que remete a
+[[Tabelas de Referência Rápida#9. Grades de blessed land]].
 
-| Grade | Área aproximada | Produção anual de essência | O que mais muda |
-|---|---|---|---|
-| Pequena | até cerca de 2.000 km² | dez e poucas contas | recursos escassos |
-| Média | cerca de 2.700 a 4.000 km² | vinte e poucas contas | recursos abundantes |
-| Alta | cerca de 4.700 a 6.000 km² | trinta e poucas contas | sobra qi para promover um Gu mortal a Imortal na própria ascensão |
-
-Quatro esclarecimentos que a tabela não mostra:
+Três esclarecimentos que a tabela não mostra:
 
 1. **Essas medidas são do tamanho na formação**, não do tamanho atual. A obra registra
    isso explicitamente. Um domínio cresce depois, e pode ser ampliado por anexação.
-2. **O fluxo de tempo interno cresce junto com a área** e depois estabiliza. Domínios
-   documentados vão de cinco para um até mais de trinta para um. Isso é decisivo: tempo
-   interno acelerado significa cultivar, refinar e plantar mais rápido que o mundo lá fora.
-3. **A paisagem reflete o caminho, a fundação e o temperamento** do dono, e cada domínio
+2. **A paisagem reflete o caminho, a fundação e o temperamento** do dono, e cada domínio
    tem uma afinidade própria que define o que prospera dentro dele.
-4. **O caminho do espaço nasce maior** que a média, e domínios com ciclo dia-noite
-   completo indicam fundação profunda no caminho do tempo.
+3. **O caminho do espaço nasce maior** que a média, e domínios com ciclo dia-noite
+   completo indicam fundação profunda no caminho do tempo — o degrau informal da
+   "quase gruta-céu".
 
 A qualidade do domínio é, na prática, a renda vitalícia do personagem: dela saem a moeda
 imortal, os materiais de refino e a comida dos Gu. Ver [[Blessed Lands e Grotto-Heavens]]

@@ -7,18 +7,22 @@ aliases:
   - Primordial Origin Immortal Venerable
   - Star Constellation Immortal Venerable
   - Venerável Imortal Constelação Estelar
+  - Paradise Earth Immortal Venerable
   - Primordial Origin
   - Star Constellation
+  - Paradise Earth
 status: consolidado
-fontes: ["cap. 467", "cap. 490", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 704", "cap. 780", "cap. 788", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 1010", "cap. 1015", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1367", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2062", "cap. 2085", "cap. 2296", "cap. 2328"]
+fontes: ["cap. 467", "cap. 490", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 704", "cap. 780", "cap. 788", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 1010", "cap. 1015", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1367", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2062", "cap. 2085", "cap. 2296", "cap. 2328", "cap. 657", "cap. 996", "cap. 1017", "cap. 1338", "cap. 1462", "cap. 1468-1469", "cap. 1475-1476", "cap. 2229-2231"]
 conhecimento: especializado
 ---
 
 # Os Arquitetos da Ordem
 
-**Em uma frase:** dois Veneráveis da via correta, separados por eras, construíram entre si a **arquitetura institucional e cosmológica** em que o mundo ainda vive — um inventou as instituições e a moeda, a outra inventou a inteligência e prendeu a lei do céu numa trava política que dura até hoje.
+**Em uma frase:** três Veneráveis da via correta, separados por eras, construíram entre si a **arquitetura institucional e cosmológica** em que o mundo ainda vive — um inventou as instituições e a moeda, a outra inventou a inteligência e prendeu a lei do céu numa trava política que dura até hoje, e o terceiro montou dentro dessa ordem as ferramentas de informação e a instituição de missões que ainda emprega herdeiros.
 
-Esta nota cobre **Primordial Origin Immortal Venerable** e **Star Constellation Immortal Venerable**. Ambos aparecem em [[Visão Geral dos Veneráveis]]; aqui interessa apenas o que restou deles no mundo.
+Esta nota cobre **Primordial Origin Immortal Venerable**, **Star Constellation Immortal Venerable** e **Paradise Earth Immortal Venerable** — três dos dez listados em [[Visão Geral dos Veneráveis]], onde está a tabela completa com os outros sete. Aqui interessa apenas o que restou deles no mundo.
+
+Os dois primeiros **fundaram** a ordem; o terceiro trabalhou dentro dela, consertando o que outros Veneráveis haviam quebrado. É por isso que ele aparece nesta nota e não entre os criadores de caminhos: ele é o único dos dez que nunca fundou uma disciplina.
 
 > [!warning] Legado, não biografia
 > Estas notas registram deliberadamente **o que cada Venerável deixou funcionando no mundo** — invenções, instituições, transformações permanentes. A vida pessoal deles é enredo da obra e fica de fora.
@@ -108,9 +112,49 @@ E a trava é **frágil**: sua capacidade de suprimir a lei pura depende de refor
 
 ---
 
-## O legado conjunto
+## Paradise Earth Immortal Venerable
 
-Vale enunciar o que os dois construíram **juntos**, porque é o esqueleto político do cenário inteiro:
+| | |
+|---|---|
+| **Via** | correta |
+| **Caminho principal** | — nenhum. É o único dos dez que **não fundou uma disciplina** |
+| **Legado institucional** | o Paraíso da Baleia-Dragão e seu quadro de missões |
+| **Legado técnico** | as duas ferramentas opostas de ler e de ocultar o segredo celeste |
+
+### Por que ele está nesta nota
+
+Paradise Earth é o Venerável mais fácil de perder de vista, e por um motivo estrutural: ele não dá nome a um caminho, então não aparece quando se pergunta "quem inventou o quê". O legado dele é de outra natureza — ele **consertou e organizou** em vez de fundar, e por isso pertence aos arquitetos da ordem, ao lado dos dois que construíram as instituições.
+
+### O que ele deixou no mundo
+
+**1. Uma herança que é uma instituição em funcionamento.** Deixou aquela que é considerada a melhor herança de combate já montada, e a forma dela é o que importa para o design: não é um cofre com itens dentro, é um **lugar habitado que distribui trabalho**. Dentro dele opera uma construção mágica de rank 8 que funciona como um quadro de missões — publica tarefas, recebe entregas e paga em pontos de mérito, uma moeda interna que os herdeiros gastam para destravar o que a herança guarda.
+
+A diferença em relação a qualquer outro legado desta pasta é que este **não se esgota quando alguém o encontra**. Uma herança comum é um evento: você chega, pega, acabou. Esta é um empregador.
+
+**2. As duas metades da guerra pela informação.** `conhecimento: especializado` — criou, sozinho, os dois lados de uma disputa que ainda estrutura o alto nível do mundo.
+
+De um lado, o Gu que **pergunta diretamente ao céu e à terra** e obtém resposta. Sobre ele foi construída a técnica que permite deduzir com antecedência o **conteúdo** de uma provação futura — saber exatamente o que vem antes de enfrentá-lo. O preço é brutal e mantém a coisa rara: cada consulta desse tipo custa cerca de **cem anos da própria expectativa de vida**.
+
+Do outro lado, o método que **impede que deduzam você**. Ele cobre o portador com uma espécie de rede de marcas de dao do caminho do céu que muda de forma continuamente, distorcendo qualquer tentativa alheia de dedução. A rede se **consome conforme resiste**: quanto mais alguém tenta ler você, menos proteção sobra.
+
+A elegância disso é que as duas ferramentas foram feitas pela mesma pessoa e se anulam mutuamente. O mundo herdou um empate técnico permanente entre prever e esconder.
+
+**3. A supressão pacífica do caminho da alma.** Depois de o caminho da alma ter sido criado e levado ao extremo por outro Venerável — a ponto de metade dos cultivadores do mundo o praticarem e de existir um comércio aberto de almas —, foi Paradise Earth quem o reduziu, e o fez **sem massacre**. O efeito durou: a venda de almas hoje é rara e clandestina até nos mercados mais permissivos do mundo imortal. É o registro mais claro de que o legado de um Venerável pode ser **desfazer** o de outro.
+
+**4. O conceito de "paraíso".** Converteu ao menos uma dimensão privada num tipo de lugar que antes não existia: um mundo interno **livre de calamidades e tribulações**. Como toda dimensão imortal normalmente paga o preço periódico das provações — o relógio descrito em [[Tribulações e Calamidades]] —, um espaço isento é uma anomalia de altíssimo valor, e ele o acoplou à maior produção conhecida de um recurso raro de cultivo.
+
+**5. Um esgotamento.** Como os outros Veneráveis, varreu o mundo atrás dos Gu que estendem a vida e **exauriu o suprimento da própria era**. Isso não é anedota: o suprimento desses Gu é finito, só o céu e a terra os produzem, e cada Venerável que passa deixa o mundo empobrecido daquele recurso por um bom tempo depois de morrer.
+
+> [!note] Para o design
+> Paradise Earth é o Venerável mais imediatamente utilizável dos dez, e o motivo é o item 1. Um legado que **emprega** os personagens em vez de premiá-los uma única vez resolve o problema mais chato de uma campanha longa: de onde vêm as missões, e por que este grupo específico as aceita. O quadro de missões com moeda própria dá ao mestre um botão de progressão que ele controla sem precisar de um NPC patrão presente em cena.
+>
+> O item 2 rende a mesa mais tensa possível no alto nível: os dois lados sabem que o outro pode prever, os dois sabem que o outro pode se ocultar, e o custo de olhar o futuro é pago em **tempo de vida** — a única moeda que não se recupera. Uma campanha em que cada informação decisiva custa um pedaço do personagem se escreve sozinha.
+
+---
+
+## O legado conjunto de Primordial Origin e Star Constellation
+
+Vale enunciar o que os dois primeiros construíram **juntos**, porque é o esqueleto político do cenário inteiro. Paradise Earth veio depois e trabalhou **dentro** dessa ordem, corrigindo excessos alheios em vez de fundar camadas novas:
 
 | Camada | Obra | Consequência viva hoje |
 |---|---|---|

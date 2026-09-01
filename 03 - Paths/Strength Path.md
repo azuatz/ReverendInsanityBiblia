@@ -107,7 +107,14 @@ Investir só na primeira camada é desperdício. E há um limite físico duro po
 | Força Amarga | 4 | Quanto mais ferido o usuário, mais forte ele fica |
 | Força Habitual / Armazenar Força | 2–4 | Os sucessores modernos; acumulação permanente |
 
-(⭐ = Gu Imortal, único no mundo.)
+> [!info] Como ler a coluna "Nível"
+> **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
+> informa** o nível daquele Gu (é lacuna da fonte, não zero). **X → Y** = o Gu **evolui** de
+> X para Y, e a forma superior **consome** a inferior — as duas nunca coexistem.
+> **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
+> assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
+> Legenda completa em [[Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
+> ver também [[Gu Imortais]] e [[Catálogo de Gu]].
 
 ## Em combate e fora dele
 

@@ -24,6 +24,20 @@ conhecimento: especializado
 > [!warning] Nível de conhecimento
 > A existência desses mundos pequenos e suas regras gerais são conhecimento de clãs e seitas de alto nível. Mortais comuns e cultivadores de baixo rank mal sabem que existem. Os detalhes internos de cada terra específica são segredo de quem está envolvido nela.
 
+> [!abstract] Esta nota cobre quatro assuntos separáveis
+> Ela é longa porque o mesmo objeto — a dimensão privada — é quatro sistemas de jogo
+> diferentes conforme o ângulo. Se você procura um deles em particular, vá direto:
+>
+> | Se você quer... | Vá para |
+> |---|---|
+> | entender **o que é** uma dimensão privada, e quanto ela rende | "O que é" · "Grades e tamanhos" · "O fluxo do tempo" |
+> | desenhar o **espírito da terra** como PNJ, informante e guardião | "Land spirits" |
+> | montar uma **masmorra de herança** — a terra abandonada com relógio | "Como se conquistam" · "Degeneração" |
+> | montar um **jogo de construção de base** | "Anexação" · "Os sete níveis de desenvolvimento" |
+>
+> Os dois últimos são sistemas inteiros e independentes um do outro: um é aventura de
+> exploração com prazo, o outro é gestão de império de longo prazo.
+
 ## O que é
 
 Quando um cultivador atravessa a barreira que separa o mundo mortal do imortal, o espaço interno que ele usava para armazenar energia se **expande num mundo**. Deixa de ser um recipiente e passa a ser um lugar: quilômetros quadrados de terreno real, com solo, água, pedras, plantas e bichos.
@@ -39,31 +53,88 @@ Dentro dela, a energia ambiente é dezenas de vezes mais densa que a do mundo ex
 
 `conhecimento: especializado`
 
-O tamanho de uma terra abençoada é determinado no momento da ascensão do dono e define quase tudo sobre a vida dele dali em diante. As grades formais:
+A **grade** de uma terra abençoada é decidida no momento da ascensão do dono e define quase tudo sobre a vida dele dali em diante. As grades formais:
 
 | Grade | Área | Produção anual de energia | Bônus |
 |---|---|---|---|
 | Baixa | até 2.000 km² | 10+ contas | recursos escassos |
 | Média | 2.700 – 4.000 km² | 20+ contas | recursos abundantes |
 | Alta | 4.700 – 6.000 km² | 30+ contas | sobra energia para promover um Gu mortal a Gu Imortal já na ascensão |
-| Super | 6.700 – 13.000 km² | 50+ contas | nasce de uma ascensão com Constituição Extrema; afluente gigante; nasce com dois ou mais Gu Imortais de brinde |
+| Super | acima de 6.700 km² | 50+ contas | nasce de uma ascensão com Constituição Extrema; afluente gigante; nasce com dois ou mais Gu Imortais de brinde |
+
+Esta tabela é reprodução de [[Tabelas de Referência Rápida#9. Grades de blessed land]], que é a
+**fonte única dos números do sistema**. Se algum dia os dois textos divergirem, vale o
+daquela nota. O que decide a grade não é a aptidão do mortal e sim o **qi humano** que ele
+acumulou nos ranks 1 a 5 — a soma de tudo o que ele foi, fez, compreendeu e sofreu.
 
 Para escala: a dimensão mais extraordinária documentada na obra passa de **335 mil km² organizados em dez camadas** — uma ordem de grandeza inteiramente fora da tabela.
 
-**A energia produzida.** O que uma terra gera é *essência imortal*, o combustível de tudo o que um imortal faz. Ela tem quatro denominações, pela ordem crescente do rank de quem a produz: uva verde (rank 6), tâmara vermelha (rank 7), lichia branca (rank 8) e damasco amarelo (rank 9). Essência é **pessoal e não fungível**: um imortal não consegue usar a essência de outro. Ela é o orçamento doméstico de uma dimensão inteira, e há registro de terras que dividiam a reserva em dezesseis partes — oito para refino, quatro para manutenção do território, três para operações, uma para emergência.
+> [!warning] "Decidido na ascensão" quer dizer o **potencial**, não o estado atual
+> Este é o ponto que mais confunde, porque duas afirmações verdadeiras parecem se contradizer:
+> [[Ascensão Imortal]] descreve a grade como o **boletim final** da vida mortal do personagem
+> — permanente, atribuído de uma vez —, e esta nota descreve terras que **começam pequenas e
+> crescem**, com o fluxo de tempo subindo por degraus ao longo de séculos. As duas estão
+> certas, e a conciliação é simples:
+>
+> - **O que é fixo na ascensão:** a *grade* — o teto de área, de produção e de fluxo de tempo
+>   que aquela dimensão pode um dia alcançar, mais os bônus de nascença (os Gu Imortais de
+>   brinde da grade Super, por exemplo). Isso é o boletim, e não muda.
+> - **O que é trabalho de séculos:** *chegar lá*. Uma terra recém-formada nasce perto do piso
+>   da própria faixa e sobe conforme o dono a desenvolve. Os números da tabela são o
+>   **destino** da terra, não o dia seguinte à ascensão.
+>
+> Em uma frase: **o potencial é determinado na formação; realizá-lo é o trabalho de uma vida
+> imortal.** Para a mesa, isso é a melhor das duas versões — a ascensão continua sendo uma
+> rolagem dramática e definitiva, e ainda assim sobra um jogo inteiro de construção de base
+> depois dela (ver "Os sete níveis de desenvolvimento", mais abaixo).
+
+**A energia produzida.** O que uma terra gera é *essência imortal*, o combustível de tudo o que um imortal faz. Ela é medida em ==contas== — pérolas do líquido esverdeado que o núcleo da dimensão produz sozinho — e tem quatro denominações, pela ordem crescente do rank de quem a produz: uva verde (rank 6), tâmara vermelha (rank 7), lichia branca (rank 8) e damasco amarelo (rank 9). Ela é o orçamento doméstico de uma dimensão inteira, e há registro de terras que dividiam a reserva em dezesseis partes — oito para refino, quatro para manutenção do território, três para operações, uma para emergência.
+
+> [!warning] Duas coisas diferentes com o mesmo nome — e é disso que depende a economia inteira
+> "Essência imortal" designa **dois objetos distintos**, e confundi-los torna impossível
+> escrever o preço de qualquer coisa acima do rank 5. A distinção é exatamente a mesma que o
+> mundo mortal já faz entre a essência do próprio corpo e a [[Pedras Primevas|pedra primeva]]
+> que circula no mercado:
+>
+> | | **Conta de essência imortal** | **Pedra de essência imortal** |
+> |---|---|---|
+> | O que é | a pérola que a *sua* dimensão produz, já vinculada a você | um cristal neutro, sem dono, que não serve de combustível como está |
+> | Transferível? | **Não.** Um imortal não consegue queimar a conta de outro | **Sim.** É justamente para isso que ela existe |
+> | Função | combustível pessoal: refino, golpes, manutenção da terra | **moeda**: é com ela que imortais pagam uns aos outros |
+>
+> O elo entre as duas é uma **conversão**, e é ela que resolve o aparente paradoxo: quem
+> recebe uma pedra a converte em contas *suas*. Ou seja, ninguém nunca gasta a essência de
+> outra pessoa — o que circula é o cristal neutro, e cada um o transforma no próprio
+> combustível ao recebê-lo. É o mesmo truque que a [[Pedras Primevas|pedra primeva]] faz no
+> mundo mortal, um andar acima.
+>
+> O detalhe que torna essa economia brutal: **quantas contas uma pedra rende depende do rank
+> de quem converte.** Uma pedra vira 1 conta de uva verde para um rank 6, mas são precisas
+> 100 pedras para uma tâmara vermelha (rank 7) e 10.000 para uma lichia branca (rank 8) —
+> cada rank divide o poder de compra do dinheiro por cem. A tabela completa está em
+> [[Economia Imortal]] e em
+> [[Tabelas de Referência Rápida#5. Escala de valor das essências imortais]].
+>
+> Quem fabrica as pedras — e restringe a distribuição delas como arma política — é o
+> [[Tribunal Celestial]].
+>
+> Então as duas frases que pareciam se contradizer são ambas verdadeiras, porque falam de
+> objetos diferentes: a **conta** é intransferível, a **pedra** é a moeda do mundo.
 
 ### O fluxo do tempo
 
-O tempo corre mais depressa dentro do que fora, sempre. A razão vai crescendo com a área até estabilizar:
+O tempo corre mais depressa dentro do que fora, sempre. A razão **não é atribuída de uma vez na ascensão**: ela cresce junto com a área da terra, por degraus, até estabilizar no teto da grade. É a demonstração mais clara do princípio da caixa acima — a grade é o destino, o fluxo atual é onde a terra chegou até agora.
 
 - terras jovens começam perto de 1:1 e sobem por degraus — 1:6, 1:12, 1:16;
 - uma terra de grade alta comum roda em torno de **1:30**;
-- uma terra nascida de Constituição Extrema chega a **1:40**;
+- uma terra nascida de Constituição Extrema chega a **1:38 a 1:40**;
 - e a dimensão excepcional citada acima roda a **1:60** — um dia lá fora são dois meses lá dentro.
+
+A faixa **documentada como ordinária** vai de 1:5 a 1:38, conforme [[Tabelas de Referência Rápida#9. Grades de blessed land]]; o 1:60 é a exceção fora de escala, não o topo da tabela. Note ainda que a lista acima descreve o fluxo **típico** de cada patamar, e não uma propriedade travada: conectar a terra ao mundo externo para absorver qi **desacelera** a dilatação, e o parágrafo seguinte mostra que o fluxo pode ser deliberadamente alterado.
 
 **O trade-off é explícito e é a decisão econômica central do domínio:** tempo interno mais rápido significa mais produção de recursos **e desastres mais frequentes**. Desacelerar o tempo com métodos do caminho do tempo adia as provações, mas reduz a produção na mesma proporção. Não existe almoço grátis — existe escolha entre crescer rápido sob bombardeio ou crescer devagar em paz.
 
-Duas ressalvas úteis: alterar a taxa de fluxo é uma ativação única de efeito duradouro, e tentar mexer de novo no mesmo afluente em poucos meses causa turbulência desastrosa — a taxa fica travada por um período mínimo. E um especialista de rank 8 do caminho do tempo consegue desacelerar o tempo **na dimensão de terceiros**, o que significa que os fluxos variados pelo mundo são, ao menos em parte, técnica instalada e não propriedade natural.
+Duas ressalvas úteis: alterar a taxa de fluxo é uma ativação única de efeito duradouro, e tentar mexer de novo no mesmo afluente em poucos meses causa turbulência desastrosa — a taxa fica travada por um período mínimo. E um especialista de rank 8 do caminho do tempo consegue desacelerar o tempo **na dimensão de terceiros**, o que significa que os fluxos variados pelo mundo são, ao menos em parte, **técnica instalada** e não só propriedade de nascença. Isso não contradiz a grade fixada na ascensão: a grade continua sendo o teto, e o que a técnica faz é mover a terra dentro dele — inclusive para baixo, que é justamente o uso mais comum, adiar provações ao custo de estagnar. Um imortal pode, portanto, **comprar** uma alteração de fluxo de um especialista, e isso é serviço de mercado, não milagre.
 
 ### O que separa uma terra de uma gruta-céu
 
@@ -206,7 +277,7 @@ Os custos são quatro, e cada um deles é uma tragédia pequena:
 
 Existe um consenso histórico sobre a ordem ótima de desenvolver uma dimensão privada. Pular etapas é possível, mas desperdiça fundação e eficiência. Para a designer, isto funciona como uma **árvore de progressão de base** pronta:
 
-1. Estabelecer recursos **mortais** em escala imortal: milhões de Gu mortais de uma vez, materiais, feras e plantas comuns. (Para comparação: um mortal comum sustenta cinco ou seis Gu.)
+1. Estabelecer recursos **mortais** em escala imortal: milhões de Gu mortais de uma vez, materiais, feras e plantas comuns. (Para comparação: um Mestre Gu mortal comum sustenta **2 a 3** Gu, e um veterano de nível 5 bem estabelecido chega a cerca de 7 — a tabela por perfil está em [[Usar e Alimentar Gu#O teto: quantos Gu se carrega]], que é a referência canônica desse número. O contraste é a questão: uma dimensão privada opera na casa dos milhões.)
 2. Produzir recursos de **nível imortal** suficientes para alimentar os próprios Gu Imortais sem depender de compras.
 3. Criar feras e plantas imortais **integradas ao ecossistema** — não basta a criatura estar presente; ela precisa formar cadeia alimentar real com o resto.
 4. Usar o **excedente** para comerciar e lucrar.

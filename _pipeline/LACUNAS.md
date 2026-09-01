@@ -1,5 +1,68 @@
 # Lacunas e pendências de verificação
 
+> **LEIA ESTE BLOCO PRIMEIRO.** O corpo deste arquivo é o registro histórico, acumulado
+> volume a volume durante a leitura. Ele mistura o que já foi fechado com o que continua
+> aberto. O resumo abaixo é a fotografia atual — mantenha-o atualizado e use o corpo
+> apenas como memória de como cada item chegou onde chegou.
+
+## ESTADO ATUAL (2026-09-01)
+
+### Fechado por verificação no texto-fonte
+
+- **Limiares de aptidão e faixa do grau D** — o 55% do rank 1→2 é canônico; grau D é
+  20–39% (bandas regulares de vinte pontos); abaixo de 20% não há grau. Ver
+  `pesquisa/CORRECAO-limiares-aptidao.md`.
+- **Os dois eixos da essência** — ×2 de densidade por estágio, ×10 de qualidade por
+  rank, custo de conversão 4:1.
+- **Dao marks por provação** — 250 / 750 / 7.250 / 86.750, literal e exato. A suposta
+  descontinuidade entre os ranks 7 e 8 **era erro nosso**: as faixas fecham em
+  9.000 / 30.000 / 300.000, e o último número bate com a condição formal do rank 9.
+- **Amplificação por dao marks** — regra linear: multiplicador ≈ 1 + (marcas ÷ 1.000).
+- **Ascensão imortal** — três passos, três qi, três modos de falha; o qi humano é a soma
+  do acúmulo de vida (onze componentes enumerados pela obra, entre eles a aptidão).
+- **Espólio de Gu Imortal** — três estados: tomar posse é possível e o Gu fica inerte;
+  suprimir a vontade custa tempo e força; **refinar à força** é o que destrói o Gu.
+- **Os dez Veneráveis** — lista fechada; a tensão "dez × onze" se resolve com o décimo
+  primeiro que ascende no fim da obra. Ver `RESOLUCAO-lacunas-mundo.md`.
+- **Rule path** — caracterizado como "path-mãe", o mais universal, fonte de sub-paths.
+- **Rosto fantasma / lótus vermelha no rio do tempo** — resolvido.
+- **Contradições menores do Volume 1-2** — prêmio do exame (erro do autor; vale 100),
+  cor do cinto de rank 1 (é verde; o azul era o uniforme), tokens roxo-espinho (estoque
+  ativo × total emitido), recarga do vertical crash (cooldown × defasagem entre dois Gu),
+  Bone Flesh Unity (a obra escreve em quintos; 3/5 de 10% = 6%). Ver
+  `RESOLUCAO-lacunas-numericas.md`.
+- **Grades de terra abençoada** — nunca houve divergência: as medidas descrevem o tamanho
+  **na formação**, não o atual, conforme nota do próprio autor.
+
+### Aberto porque a obra não responde
+
+Estes não são falhas da pesquisa. São silêncios ou ambiguidades deliberadas do romance,
+e devem ser tratados como matéria-prima de campanha:
+
+- **Limiares dos ranks 2→3, 3→4 e 4→5** — a obra dá apenas o 55% do primeiro degrau.
+  A escada 65/75/85 é reconstrução nossa, marcada como tal em todas as notas.
+- **Vida eterna: impossível ou apenas desconhecida?** Um Venerável declara ao morrer que
+  não existe, e a obra imediatamente registra que ninguém pôde responder. O narrador
+  nunca afirma impossibilidade.
+- **Três das Dez Constituições Extremas nunca são nomeadas** (sete são). Qualquer lista
+  com dez nomes contém invenção.
+- **Cinco das Dez Catástrofes nunca são nomeadas** (cinco são).
+- **A dieta específica da maioria dos Gu mortais** — silêncio real da obra. No catálogo,
+  o que está marcado com `*` é invenção nossa declarada, descartável sem perda de cânone.
+- **A obra está inacabada.** Termina no capítulo 2334, no meio da batalha final, sem
+  epílogo. Vários "buracos" são material que o autor nunca escreveu.
+
+### Aberto e ainda investigável
+
+- Cerca de 30 a 40 campos de **refino** no catálogo de mortais, recuperáveis por uma
+  varredura das seções de economia e leilão das notas brutas (estratégia diferente da
+  busca por nome, que já foi esgotada).
+- Alguns itens numerados do corpo abaixo que nunca receberam passe dirigido.
+
+---
+
+## Registro histórico (memória do processo)
+
 > Registro central. Cada rascunho de domínio (`_pipeline/rascunho/`) tem sua seção
 > "Lacunas do domínio"; aqui ficam as pendências transversais e as contradições a
 > checar no passe de verificação (grep no texto-fonte).

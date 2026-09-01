@@ -28,15 +28,43 @@ a converte**.
 
 Essa é a regra mais importante desta nota:
 
-| Tipo de conta de essência | Rank correspondente | Custo em pedras de essência imortal |
+| Tipo de conta de essência | Rank correspondente | Quantas pedras de essência imortal custa **uma** conta |
 |---|---|---|
 | Uva verde | 6 | 1 |
 | Tâmara vermelha | 7 | 100 |
 | Lichia branca | 8 | 10.000 |
 | Damasco amarelo | 9 | ~1.000.000 |
 
-Ou seja: **uva verde : tâmara vermelha : lichia branca = 10.000 : 100 : 1**. Cada rank de
-cultivo divide o poder de compra do dinheiro por cem.
+Leia a última coluna sempre com a pergunta inteira: *"quantas pedras eu preciso entregar
+para receber **uma** conta deste tipo?"*. Uma conta de uva verde sai por uma pedra; uma
+conta de lichia branca, por dez mil.
+
+> [!warning] A mesma proporção, escrita de duas maneiras opostas — não as confunda
+> Você vai encontrar esta razão enunciada nos dois sentidos, e as duas formas estão
+> corretas porque **medem coisas diferentes**. É a confusão mais fácil de cometer com este
+> material, então vale destrinchar:
+>
+> - **Por unidade (a tabela acima).** Uma conta vale mais quanto maior o rank:
+>   `1 : 100 : 10.000` para uva verde : tâmara vermelha : lichia branca. Uma conta de
+>   lichia branca vale dez mil vezes uma de uva verde.
+> - **Por equivalência (a forma usada em [[Tabelas de Referência Rápida]]).** Quantas
+>   contas de cada tipo se equivalem: `10.000 : 100 : 1`. Ou seja, **dez mil contas de uva
+>   verde ≡ cem de tâmara vermelha ≡ uma de lichia branca**.
+>
+> São a mesma verdade de cabeça para baixo, como "1 real vale 20 centavos" e "5 moedas de
+> 20 centavos valem 1 real". O erro é ler a segunda como se dissesse que uva verde vale
+> mais — ela diz o contrário: são precisas dez mil delas para chegar a uma lichia.
+>
+> **Exemplo fechado, para não restar dúvida:** com 10.000 pedras de essência imortal na
+> mão, um rank 6 compra 10.000 contas de uva verde; um rank 7 compra 100 de tâmara
+> vermelha; um rank 8 compra 1 de lichia branca. Mesmo dinheiro, mesma hora, três
+> resultados.
+>
+> Onde este vault e o apêndice divergirem em qualquer número de essência imortal,
+> **[[Tabelas de Referência Rápida]] vence** — é lá que os números do sistema são
+> mantidos, e esta nota aponta para lá em vez de guardar cópias próprias.
+
+Cada rank de cultivo divide por cem o poder de compra do dinheiro.
 
 > [!warning] Converter para cima custa mais do que a proporção nominal
 > Os 100:1 acima são a razão de **valor**. Produzir de fato uma unidade de essência de
@@ -138,9 +166,18 @@ E a escassez é muito pior do que se imaginaria:
   artefatos de topo disponíveis.
 
 **Por que dinheiro não resolve:** existe uma regra de unicidade. Dominar completamente a
-teoria de um campo de cultivo **não produz** os artefatos correspondentes, porque a
-unicidade impede duplicar os que já existem em mãos alheias. Resta negociar. Domínio técnico
-e posse são gargalos independentes.
+teoria de um [[Visão Geral dos Paths|caminho de cultivo]] **não produz** os artefatos
+correspondentes, porque a unicidade impede duplicar os que já existem em mãos alheias.
+Resta negociar. Domínio técnico e posse são gargalos independentes.
+
+> [!warning] "Caminho de cultivo" e "path" são a mesma coisa
+> ==Caminho== (*path*) é a especialização de um cultivador — caminho da força, do veneno,
+> do tempo, do refino, e assim por diante. É **o conceito mais central do sistema depois do
+> próprio Gu**, e cada caminho tem nota própria na pasta `03 - Paths`, resumidas em
+> [[Visão Geral dos Paths]]. Versões anteriores desta nota chamavam a mesma coisa de "campo
+> de cultivo"; era sinônimo nosso, não um segundo conceito, e foi padronizado para
+> "caminho". Se você encontrar "campo" em algum canto do vault falando de especialização,
+> leia "caminho".
 
 > [!note] Para o design
 > **A métrica real de poder não é o rank do personagem — é quantos artefatos do rank certo
@@ -238,8 +275,9 @@ pontos, com mais de setenta mil gastos num único artefato de rank 7.
 >   leva penalidade muito menor que quem sabotou.
 > - **A moeda expira na saída:** todos os pontos não gastos evaporam ao deixar o local —
 >   exceto para quem aceitou a missão definitiva.
-> - **Gargalo que premia versatilidade:** cada missão exige métodos de campos de cultivo
->   específicos, então um especialista único só consegue aceitar uma fração do catálogo.
+> - **Gargalo que premia versatilidade:** cada missão exige métodos de
+>   [[Visão Geral dos Paths|caminhos]] específicos, então um especialista de caminho único
+>   só consegue aceitar uma fração do catálogo.
 >   Ser versátil é a vantagem econômica decisiva ali dentro.
 > - **O catálogo é vivo:** o conjunto de missões muda conforme o estado do mundo em volta.
 
@@ -261,10 +299,10 @@ dez.
 
 **Três regras econômicas de território:**
 
-1. **Prosperidade de um campo de cultivo é um ciclo auto-reforçado.** Mais praticantes
-   geram mais receitas, mais materiais cultivados e mais oferta. Campos pouco praticados
-   sofrem escassez crônica de material de rank alto mesmo com as receitas conhecidas —
-   prestígio não é o mesmo que abundância de recursos.
+1. **A prosperidade de um [[Visão Geral dos Paths|caminho de cultivo]] é um ciclo
+   auto-reforçado.** Mais praticantes geram mais receitas, mais materiais cultivados e mais
+   oferta. Caminhos pouco praticados sofrem escassez crônica de material de rank alto mesmo
+   com as receitas conhecidas — prestígio não é o mesmo que abundância de recursos.
 2. **Montar um negócio de recurso custa um ecossistema inteiro**, não uma semente: solo,
    água, clima, controle de pragas (com aves trazidas só para comer as pragas). A estimativa
    de retorno de uma operação em condições ideais foi de um ano para suprir a própria
@@ -303,11 +341,43 @@ quitadas e dez milhões livres.
 deprimido por quatro ou cinco anos, porque os compradores estocaram em excesso. **O vencedor
 destruiu o próprio mercado.**
 
-> [!warning] É regra, não exceção
-> A lição generaliza: **possuir um artefato de rank alto que produza um item de rank baixo
-> cria uma vantagem de custo praticamente irreplicável**, e permite dominar qualquer
-> mercadoria por força bruta econômica. Vale para qualquer mercado de item comum do
-> cenário.
+> [!warning] Esse lucro é o teto histórico — não calibre sua mesa por ele
+> Confronte os doze milhões com a tabela de riqueza típica no alto desta nota e o número
+> salta aos olhos: **uma única operação comercial rendeu cerca de dez vezes o caixa de uma
+> super força inteira**. Isso é real e está na obra, mas você precisa saber lê-lo antes de
+> transformá-lo em economia de campanha:
+>
+> - **É um recorde, não uma média.** É o maior lucro comercial individual que a obra
+>   registra, obtido com uma vantagem estrutural que quase ninguém no mundo possui — um
+>   artefato de rank 8 dedicado a produzir um item de rank baixo — e financiado por um
+>   empréstimo simultâneo de seis credores que, somado, já superava a reserva da maioria
+>   das super forças. Cada uma dessas três condições é excepcional; as três juntas
+>   aconteceram uma vez.
+> - **Fluxo não é estoque.** O "1.000.000 em caixa" da tabela é uma **reserva parada**; os
+>   doze milhões são o **giro de uma operação inteira**, com capital de terceiros e ao
+>   longo de anos. Comparar os dois diretamente é comparar o saldo bancário de uma empresa
+>   com o faturamento de outra. Ainda assim a distância é grande, e a obra nunca a
+>   concilia explicitamente.
+> - **Para a sua mesa:** opere **uma ou duas ordens de grandeza abaixo**. Uma manobra
+>   comercial brilhante de personagens jogadores rendendo algo entre dezenas e centenas de
+>   milhares de pedras de essência imortal já os coloca no páreo com uma super força, que é
+>   provavelmente o efeito narrativo que você quer. Reserve a casa dos milhões para o feito
+>   que define uma era.
+
+> [!note] O princípio se replica; o número, não
+> Vale separar as duas coisas, porque só uma delas generaliza.
+>
+> **Replicável — o princípio.** Possuir um artefato de rank alto que produza em massa um
+> item de rank baixo cria uma vantagem de custo praticamente irreplicável, e permite
+> dominar qualquer mercadoria por força bruta econômica. Isso é regra do mundo e vale para
+> qualquer mercado de item comum do cenário: quem tem a máquina dita o preço, e quem não
+> tem só pode escolher entre falir e vender o negócio.
+>
+> **Não replicável — a escala.** O que **não** se repete é o lucro de doze milhões. Ele
+> dependeu de um artefato específico, de um mercado grande o bastante para absorver a
+> jogada e de crédito político que poucos conseguem levantar. Um personagem que reproduza
+> o princípio numa mercadoria regional deve esperar dominar o mercado dela — não financiar
+> uma guerra mundial com o resultado.
 
 ## Outras práticas de mercado
 

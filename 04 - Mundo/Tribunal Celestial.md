@@ -62,6 +62,37 @@ O que ele ganha com isso é considerável:
 
 E o que ele perde: a própria base material. O texto marca explicitamente que existe uma desvantagem oculta nessa troca e nunca a revela. O efeito prático, esse sim, é claríssimo: **um membro que saia da Corte é um imortal sem terra.**
 
+> [!note] Para o design — o preço real do ingresso é a progressão
+> Junte três regras que moram em notas diferentes e a conclusão é dura, canônica e ninguém a
+> enuncia:
+>
+> 1. Sobreviver a calamidades e tribulações é **a via principal** de ganhar dao marks
+>    ([[Tribulações e Calamidades]]).
+> 2. Dao marks são o atributo de progressão do reino imortal, e o rank 9 exige um número
+>    formal delas ([[Dao Marks]] e
+>    [[Tabelas de Referência Rápida#6. Dao marks: rendimento por provação]]).
+> 3. O mundo coletivo da Corte é **isento de provações**, e a maioria dos membros passa as
+>    eras **dormindo**.
+>
+> Logo: **os membros da Corte trocaram progressão por segurança.** Sem provações não há dao
+> marks; dormindo não se acumula nada. A instituição mais poderosa do mundo é, por
+> construção, **estagnada** — e isso explica de graça quase tudo o que ela faz: por que é
+> conservadora, por que persegue *reparo* em vez de crescimento, por que os protocolos de
+> admissão não são atualizados há eras, e por que apenas três Veneráveis saíram de dentro
+> dela em três milhões de anos. A Corte não é forte porque cresce; é forte porque **acumulou
+> antes de parar**, e agora administra o estoque.
+>
+> Para uma mesa, é o gancho mais útil que a Corte oferece: o membro ambicioso que percebeu a
+> armadilha e quer sair — mas sair é ficar sem chão. É um conflito interno que não precisa de
+> nenhum vilão.
+
+> [!warning] Isto é leitura nossa, não afirmação da obra
+> As três regras acima são do texto; a **conclusão** de que a Corte é estruturalmente
+> estagnada é dedução deste material. A obra não a enuncia, e também não descreve nenhuma via
+> alternativa de progressão dentro da Corte que a desmentisse. Se você quiser que membros
+> avancem lá dentro, precisará inventar essa via — e ela será um acréscimo seu, não um
+> resgate de cânone.
+
 > [!note] Para o design
 > Este é o melhor desenho de "organização poderosa" que a obra oferece, porque o custo de pertencer é **estrutural, não moral**. Ninguém jura lealdade nem vende a alma; a pessoa entrega literalmente o chão onde pisa e recebe segurança e mobilidade em troca. O resultado é uma instituição de onde ninguém sai — não por medo de represália, mas porque sair significa deixar de ter onde morar. Para uma mesa, isso transforma "trair a Corte" numa decisão com consequência mecânica imediata, sem precisar de nenhum vilão que persiga o desertor.
 
@@ -145,7 +176,25 @@ O projeto de longo prazo que organiza tudo o que ela faz:
 - **Caçar o controle da incerteza.** Mesmo com o Fate Gu inteiro, a Corte não fecharia o sistema, porque o destino governa apenas a certeza — a incerteza pertence ao caminho da sorte, criado em segredo por um Venerável que nunca pertenceu a ela. Daí a caça aos Gu Imortais de sorte e a especulação interna sobre um artefato de "rank 10" que fundiria destino e sorte numa coisa só.
 - **Pesquisar os demônios de outro mundo**, categoria que a preocupa estruturalmente, e que é a única imune ao seu instrumento central.
 - **Conter, sem conseguir impedir, a prática de virar zumbi imortal** por falta de expectativa de vida — prática que só cresceu desde que o Fate Gu foi danificado. A Corte se opõe e não consegue parar. É um bom retrato do seu poder real: imensa e ainda assim insuficiente.
-- **Produzir a moeda do mundo.** A Corte é a fonte única das pedras de essência imortal e restringe deliberadamente a distribuição como arma política. Ver [[Vontade dos Céus#Casos de resistência da lei]] — a produção depende de um arranjo antinatural que viola as regras da própria lei do céu, e é o segredo econômico mais bem guardado do cenário.
+- **Produzir a moeda do mundo.** A Corte é a fonte única das **pedras de essência imortal** e restringe deliberadamente a distribuição como arma política. Ver [[Vontade dos Céus#Casos de resistência da lei]] — a produção depende de um arranjo antinatural que viola as regras da própria lei do céu, e é o segredo econômico mais bem guardado do cenário.
+
+  > [!warning] A pedra não é a mesma coisa que a essência imortal do cultivador
+  > É fácil ler a linha acima como se a Corte fabricasse o combustível pessoal dos imortais, e
+  > isso tornaria a economia incoerente — porque a **conta** de essência imortal, aquela que a
+  > dimensão privada de alguém produz, é rigorosamente **intransferível**: ninguém queima a
+  > essência de outra pessoa. O que a Corte fabrica é o outro objeto: um **cristal neutro, sem
+  > dono**, que não serve de combustível como está e que cada imortal **converte** em contas
+  > suas ao recebê-lo. É por isso que ele pode circular como dinheiro.
+  >
+  > A distinção completa, com a tabela de câmbio, está em
+  > [[Blessed Lands e Grotto-Heavens]] e em [[Economia Imortal]]; os números, em
+  > [[Tabelas de Referência Rápida#5. Escala de valor das essências imortais]].
+  >
+  > O que isso dá à Corte é o poder mais bruto que ela tem, e o menos comentado: **ela é o
+  > banco central de um mundo cuja riqueza, sem ela, não circularia.** Sem a pedra, cada
+  > imortal seria uma economia fechada de uma pessoa só, capaz de acumular e incapaz de
+  > comprar. Restringir a emissão não é uma sanção comercial — é desligar alguém do resto da
+  > espécie.
 
 > [!note] Para o design
 > A Corte Celestial funciona melhor numa mesa se for apresentada como **burocracia milenar, não como império do mal**. Ela tem regras de admissão, protocolos desatualizados, facções internas, um cemitério de funcionários dormindo, contas de consumo por consulta ao sistema de vigilância, e um projeto de manutenção que atravessa um milhão de anos. Personagens jogadores podem trabalhar para ela, negociar com ela, ser caçados por ela ou apenas tentar não aparecer no radar dela — e em todos os quatro casos o que os espera é um **procedimento**, não um vilão. Uma organização que caça você porque você é um vazamento no sistema é mais assustadora do que uma que caça você porque te odeia.

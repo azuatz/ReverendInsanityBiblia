@@ -71,10 +71,13 @@ Duas notas importantes: as provações **do calendário** só ocorrem dentro de 
 > o céu manda contra alguém. Há pelo menos três categorias que ficam de fora e não devem ser
 > confundidas com as do calendário:
 >
-> - **Provações induzidas pelo próprio cultivador.** Certos caminhos — o do céu é o exemplo
->   extremo — progridem *convocando deliberadamente* uma catástrofe adaptativa, fora de
->   qualquer ciclo e sem depender da abertura. Não são tribulações miríades adiantadas: são
->   outra coisa, com outro gatilho e outro calendário (nenhum).
+> - **Provações induzidas pelo próprio cultivador.** O [[Heaven Path|caminho do céu]] é o
+>   caso central e o mais importante: progredir nele consiste em *convocar deliberadamente*
+>   uma catástrofe adaptativa, disparada de fora, sem depender da abertura e sem seguir
+>   calendário nenhum. E o porte dela é comparável ao de uma tribulação miríade — ou seja,
+>   não se trata de uma provação menor fora de hora, e sim de uma provação de topo com outro
+>   gatilho. Quem lê a tabela acima como se fosse a lista completa vai subestimar
+>   grosseiramente o perigo desse caminho.
 > - **Provações fabricadas por terceiros.** Quem tem poder e conhecimento suficientes invoca
 >   cópias amplificadas de tribulações reais contra um alvo, mesmo que ele não esteja
 >   avançando de rank.

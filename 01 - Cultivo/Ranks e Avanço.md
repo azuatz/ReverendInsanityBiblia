@@ -108,12 +108,13 @@ furos.
 | 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
 | 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de nível 6 que se camuflou de uma inspeção de nível 4 dentro da abertura de um Mestre de nível 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
 
-Some a isso um sexto caso, que não é exceção à regra e sim uso de um **item** acima do
-próprio nível: existe registro de um Mestre Gu de **nível 3** que acionou um Gu demoníaco
-roubado de **nível 4** para converter mortes ao redor em aptidão permanente (ver
-[[Aptidão]]). O caso pertence à mesma família da exceção 1 — Gu demoníacos tipicamente
-cobram em vidas, sangue ou corpo, não em essência do usuário —, e é o exemplo mais claro de
-que a porosidade da trava é justamente onde as histórias acontecem.
+Some a isso um sexto caso, o mais concreto de todos: existe registro de um Mestre Gu de
+**nível 3** que acionou o **Crânio de Sangue**, um Gu de **nível 4** do
+[[Blood Path|caminho do sangue]], para converter mortes ao redor em aptidão permanente (ver
+[[Aptidão]] para o caso e [[Blood Path]] para o Gu). Ele pertence à mesma família da exceção
+1 — Gu demoníacos tipicamente cobram em vidas, sangue ou corpo, não em essência do usuário —,
+e é o exemplo mais claro de que a porosidade da trava é justamente onde as histórias
+acontecem.
 
 > [!note] Para o design
 > Cada linha da tabela acima é um **arquétipo jogável pronto**: o que queima o próprio corpo

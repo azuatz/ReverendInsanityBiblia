@@ -17,9 +17,30 @@ conhecimento: comum
 
 **Em uma frase:** neste mundo, ==cultivar== significa formar dentro do próprio corpo um órgão espiritual chamado [[Abertura|abertura]], enchê-lo de uma energia pessoal chamada [[Essência Primeva|essência primeva]] e usar essa energia para acionar criaturas mágicas vivas — os **Gu** — que fazem, cada uma, exatamente uma coisa impossível.
 
+## O esqueleto em seis linhas
+
+Esta é a nota-porta do domínio do cultivo, e o resumo abaixo introduz muitos conceitos de
+uma vez. Antes dele, o mapa: **a cadeia inteira do sistema, do começo ao fim**. Se você
+guardar só isto, já consegue se localizar em qualquer outra nota do vault.
+
+> **[[Abertura|abertura]]** — o órgão que se ganha aos quinze anos, e sem o qual nada existe
+> → **[[Aptidão|aptidão]]** — quanto cabe dentro dele; o teto de tudo, medido uma vez só
+> → **[[Essência Primeva|essência primeva]]** — o combustível que enche a abertura
+> → **Gu** — as criaturas vivas que a essência aciona; cada uma faz uma coisa
+> → **[[Ranks e Avanço|rank e estágio]]** — a escada de poder do mundo mortal, do 1 ao 5
+> → **[[Ascensão Imortal|ascensão]]** — a passagem para o rank 6, que muda a natureza de tudo
+> → **[[Dao Marks|dao marks]] e [[Attainment|attainment]]** — os dois eixos que substituem a
+> aptidão no reino imortal: poder e compreensão
+> → **[[Tribulações e Calamidades|provações]]** — o preço agendado desse poder
+> → **[[Longevidade|tempo de vida]]** — o recurso que nenhum dos anteriores repõe.
+
+Duas leituras curtas que se pagam antes do resumo, se você estiver começando: o
+[[Glossário EN-PT]], para os termos, e [[Tabelas de Referência Rápida]], para os números.
+
 ## Resumo
 
-Esta é a nota-porta do domínio do cultivo. Ela explica o esqueleto inteiro do sistema; as outras dez notas desta pasta detalham cada peça.
+As outras notas desta pasta detalham cada peça da cadeia acima; este resumo mostra como elas
+se encaixam.
 
 Comece por um ponto que é diferente da maioria das ficções de magia: **ninguém aqui lança feitiços**. Todo poder sobrenatural vem de um **Gu** (pronuncia-se "gu"; o termo não se traduz) — um verme, inseto ou criatura mágica viva, criada ou encontrada, que carrega em si um fragmento de lei do universo e produz um único efeito. Existe um Gu que corta com uma lâmina de luar, um que endurece a pele como bronze, um que registra imagem e som, um que empurra o tempo de uma pessoa para frente. Quem usa Gu é um ==Mestre Gu (Gu Master)==. O Gu é a ferramenta; o cultivador é a bateria, o estojo e a mão que aponta.
 

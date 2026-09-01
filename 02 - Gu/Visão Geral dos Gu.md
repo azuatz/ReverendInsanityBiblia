@@ -141,9 +141,13 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 - **Por que o refino tem sorte envolvida**: o refinador controla apenas a primeira metade
   do processo. Na metade final, as leis interagem sozinhas. A analogia interna da obra é a
   de uma tacada de golfe — você controla o golpe, não o rolamento da bola.
-- **Os números reais de sucesso no topo**: refinar um Gu Imortal de nível 6 tem menos de 1%
-  de chance; nível 7, cerca de 0,1%; nível 8, cerca de 0,01%. Especialistas lendários fogem
-  dessa curva, mas o normal são **cinquenta a sessenta tentativas por sucesso**.
+- **Os números reais de sucesso no topo**: fabricar um Gu Imortal de nível 6 do começo ao
+  fim tem menos de 1% de chance, e a curva desce uma ordem de grandeza por nível daí em
+  diante. Especialistas lendários fogem dela, mas o normal são **cinquenta a sessenta
+  tentativas por sucesso**. A tabela completa, com as três operações lado a lado, está em
+  [[Refino de Gu#As taxas de sucesso, lado a lado]], e a de consulta rápida em
+  [[Tabelas de Referência Rápida#12. Taxas de sucesso de refino]] — que é a fonte única em
+  caso de divergência.
 - **A trava de autodestruição dos Gu Imortais**: a vontade injetada durante o refino
   funciona como um *programa* dentro do bicho. Se um terceiro tenta refinar à força um Gu
   Imortal já dominado, essa vontade **destrói o próprio Gu**. É por isso que Gu Imortal

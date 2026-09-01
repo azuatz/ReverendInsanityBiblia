@@ -141,11 +141,32 @@ Duas notas relacionadas:
 > [!note] Para o design
 > "Dano que a cura não alcança" costuma ser uma regra arbitrária em sistemas de RPG. Aqui ela é **dedutiva**: sai da mesma premissa que explica por que Gu de luz falham em quem encheu o corpo de força, por que dois poderes se cancelam, por que um contrato mágico é quebrável por outro contrato. Uma regra, muitas consequências. E o tratamento em dois tempos transforma cura numa cena com decisão real: identificar o caminho do atacante, conseguir o Gu certo, limpar, só então curar.
 
-## Efeitos colaterais e detalhes que valem ouro
+## Sete regras de manejo
 
-- **Ressonância de caminho, quantificada.** Um Gu imortal do **mesmo** caminho dos dao marks do usuário rende até **130%** da potência nominal, e cada uso aprofunda a compreensão dele naquele caminho. Um Gu de caminho incompatível rende **60 a 70%**, porque as marcas do corpo interferem. Daí a convenção universal: os Gu de um imortal são normalmente da mesma linha da sua abertura — que também produz o alimento deles. Manter Gu de caminhos alheios obriga a comprar comida fora.
-- **Aberturas imortais são feitas de dao marks.** As propriedades de um mundo pessoal saem diretamente das marcas que ele contém: marcas de tempo produzem um afluente mais generoso e um fluxo temporal mais rápido; marcas de espaço, mais área; marcas temáticas, afinidade de criação e recursos. É por isso que uma terra abençoada **sela os Gu mortais dos visitantes**: as marcas da terra funcionam como uma lagoa que absorve os traços de lei dos Gu mortais, que são apenas gotas d'água. Gu imortais são pedras jogadas na lagoa: não seláveis, apenas enfraquecidos ou fortalecidos.
-- **Pureza vence quantidade em defesa.** Uma terra formada de marcas de origem única é difícil de derrubar; terras "públicas", montadas com pedaços doados por vários imortais diferentes, têm marcas misturadas que se cancelam. A imagem usada: um dedo de cada uma de cinco pessoas não forma um punho.
+Esta seção não é uma lista de curiosidades: são **sete regras distintas**, cada uma com
+consequência própria. As três primeiras são as que mais aparecem em mesa e ganham seção
+própria; as outras quatro vêm em lista logo depois.
+
+### 1. Ressonância de caminho — o multiplicador que decide o seu inventário
+
+Um Gu imortal do **mesmo** caminho dos dao marks do usuário rende até **130%** da potência nominal, e cada uso aprofunda a compreensão dele naquele caminho. Um Gu de caminho incompatível rende **60 a 70%**, porque as marcas do corpo interferem.
+
+Daí a convenção universal: os Gu de um imortal são normalmente da mesma linha da sua abertura — que também produz o alimento deles. Manter Gu de caminhos alheios cobra duas vezes: rende menos **e** obriga a comprar comida fora. É a razão mecânica de os imortais deste mundo serem especialistas estreitos em vez de generalistas.
+
+### 2. Aberturas imortais são feitas de dao marks
+
+As propriedades de um mundo pessoal saem diretamente das marcas que ele contém: marcas de tempo produzem um afluente mais generoso e um fluxo temporal mais rápido; marcas de espaço, mais área; marcas temáticas, afinidade de criação e recursos.
+
+É por isso que uma terra abençoada **sela os Gu mortais dos visitantes**: as marcas da terra funcionam como uma lagoa que absorve os traços de lei dos Gu mortais, que são apenas gotas d'água. Gu imortais são pedras jogadas na lagoa: não seláveis, apenas enfraquecidos ou fortalecidos. Na prática, entrar na casa de um imortal **desarma um mortal por completo** e apenas incomoda outro imortal.
+
+### 3. Pureza vence quantidade na defesa de um território
+
+Uma terra formada de marcas de origem única é difícil de derrubar; terras "públicas", montadas com pedaços doados por vários imortais diferentes, têm marcas misturadas que se cancelam. A imagem usada pelo mundo: um dedo de cada uma de cinco pessoas não forma um punho.
+
+Consequência política direta e muito jogável: **a aliança que constrói uma base conjunta constrói uma base fraca**. Coalizões pagam pela cooperação com solidez, e os territórios mais duros do mundo pertencem a uma pessoa só.
+
+### As outras quatro
+
 - **Quantidade de dao marks é também um limite de entrada.** A capacidade de entrar num mundo pequeno é **inversa** às marcas do visitante: um rank 8 não consegue sequer entrar numa terra abençoada comum, porque ela estouraria. Consequência política direta: os mais poderosos do mundo dependem de clones e intermediários para invadir qualquer lugar pequeno.
 - **Alianças gravadas como dao marks.** Um pacto entre imortais pode ser fixado como marca no corpo. Enquanto a aliança não for prejudicial ao portador, a autolimpeza não a remove; se ele trair, a marca de punição dispara **instantaneamente** — não há tempo de removê-la depois.
 - **Materiais também se medem em dao marks.** A densidade de marcas de um material determina seu rank, e materiais de densidade altíssima emitem luz visível a olho nu — um identificador de raridade que dispensa perícia. Material de um caminho só serve para Gu daquele caminho, por mais alto que seja o rank.

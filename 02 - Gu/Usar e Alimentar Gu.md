@@ -60,6 +60,15 @@ estão — anomalias valiosíssimas.
 Aqui está a parte do sistema que mais rende em mesa, porque transforma poder mágico em
 logística.
 
+> [!warning] Esta nota é a regra geral da alimentação; o catálogo é o fichário
+> Duas partes do vault falam de dieta de Gu e elas não competem — têm funções diferentes.
+> **Esta nota é a fonte das regras e dos números gerais**: como a dieta escala com o nível,
+> o que acontece na fome, quanto custa por mês, quantos Gu se sustenta.
+> O [[Catálogo de Gu]] é o **banco de fichas**: o que *aquele* bicho específico come.
+> Se um dado do catálogo divergir de uma regra daqui, é aqui que vale — a menos que o
+> catálogo esteja registrando uma exceção declarada pela obra, que é justamente o tipo de
+> coisa que um catálogo existe para guardar.
+
 **Todo Gu refinado tem uma dieta específica.** Não "energia" genérica: comida concreta,
 que precisa ser comprada, colhida, transportada e estocada.
 

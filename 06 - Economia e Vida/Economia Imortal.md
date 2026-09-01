@@ -471,8 +471,11 @@ destruiu o próprio mercado.**
 - [[Tribunal Celestial e Grandes Forças]] — quem emite a moeda e como usa isso politicamente.
 - [[Estudos de Caso Mecânicos]] — a guerra de preços passo a passo, e o caso da **fazenda
   de provações**: um imortal que transforma as provações alheias (as descritas acima) em
-  negócio, patrocinando cultivadores mais fracos e ficando com parte do que eles colhem ao
-  sobreviver.
+  negócio. Ele protege subordinados mais fracos durante as provações deles, destrói a
+  ameaça antes que os atinja e **colhe a energia residual** — que rende em proporção à
+  dificuldade da prova. Por isso o patrono sabota *para cima*: torna a provação do
+  protegido mais forte, não mais fraca. O protegido recebe proteção real e não perde nada,
+  o que é justamente o que torna o arranjo sustentável.
 - [[Tribulações e Calamidades]] — o calendário de provações que essa economia precisa
   financiar.
 - [[Visão Geral dos Paths]] — os caminhos de cultivo que definem o que cada território

@@ -56,7 +56,7 @@ Dentro de cada família, os quatro estágios têm tons próprios, que um observa
 - **Rank 1:** verde-jade → verde-claro → verde-escuro → verde-negro.
 - **Rank 2:** vermelho-claro → escarlate → carmesim → vermelho-profundo.
 - **Rank 3:** prata-clara → prata-flor → prata-brilhante → prata-neve.
-- **Rank 4:** dourado-claro no início, passando a dourado-brilhante após o refino de um estágio.
+- **Rank 4:** dourado-claro no início, passando a dourado-brilhante após o refino de um estágio. **A obra só nomeia esses dois tons** — os do estágio superior e do pico nunca aparecem. É lacuna real, não omissão desta nota; se precisar dos quatro na mesa, invente os dois que faltam sem receio de contradizer o cânone.
 - **Rank 5:** roxo-claro → violeta → roxo-profundo → roxo-cristalino, este último líquido e cristalino ao mesmo tempo, o mais poderoso do mundo mortal.
 
 A diferença é tangível na prática, não apenas cosmética: uma lâmina disparada com essência de estágio médio corta até o osso, enquanto o mesmo golpe com essência inicial fere apenas a carne superficial.

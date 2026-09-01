@@ -79,6 +79,28 @@ Todos "contra a natureza", todos cobrando em outra moeda:
 | **Extensão comercial** | anos vendidos a clientes por um especialista com herança própria | é um negócio estabelecido, com preço; mais de mil anos já vendidos por uma única fornecedora |
 | **Extração direta de vida** de um prisioneiro dominado | recupera anos e poder de imediato | vítimas envelhecem e morrem; parece escapar ao teto de aplicabilidade do Gu de longevidade |
 
+> [!note] Para o design
+> A tabela acima não é uma lista de curiosidades: é um **cardápio de nove arquétipos
+> jogáveis prontos**, cada um com uma fantasia de personagem distinta e um preço que já vem
+> embutido na mecânica. Traduzindo direto para a mesa:
+>
+> | Método | O personagem que ele produz |
+> |---|---|
+> | Zumbificação | **o morto-vivo que parou de crescer** — poder congelado no patamar em que morreu, e sabe disso |
+> | Animação suspensa | **o adormecido fora de época** — acorda intacto num mundo que mudou, com aliados e inimigos mortos |
+> | Corpo de criança | **a criança milenar** — trata social e diplomático usando a própria aparência como arma |
+> | Possessão | **o inquilino de si mesmo** — memória furada, identidade em disputa, e o desprezo do mundo por quem faz isso |
+> | Transferência entre casais | **o par que divide os anos** — dois personagens com um único orçamento de vida entre eles |
+> | Espírito de terra | **o guardião preso ao lugar** — imóvel, quase onisciente dentro dos próprios limites, incapaz de sair |
+> | Dormir a maior parte do tempo | **o veterano que só acorda em emergência** — poderoso, desatualizado, mal equipado |
+> | Extensão comercial | **a fornecedora de anos** — a pessoa mais cortejada e mais ameaçada de uma região inteira |
+> | Extração direta de vida | **o predador** — cada ano seu tem um nome e um rosto de vítima |
+>
+> Repare no que os nove têm em comum e no que fazem com uma campanha: **nenhum deles compra
+> tempo com dinheiro; todos compram tempo com identidade** — corpo, liberdade, memória,
+> crescimento ou consciência limpa. Se você quiser um único eixo de custo para o cenário
+> inteiro, é este.
+
 ### A regra que torna tudo isso caro de verdade
 
 > [!warning] Mexer nos próprios anos trava toda manipulação futura

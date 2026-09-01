@@ -25,6 +25,33 @@ veredito explícito sobre se aquilo é replicável ou foi sorte irrepetível.
 > aparecem apenas como "um cultivador de rank X" — o que interessa aqui é a mecânica, não
 > a história. Estes casos servem a três usos de mesa: virar aventura pronta, virar regra
 > opcional, ou avisar o mestre de um exploit a prever antes que um jogador o encontre.
+>
+> Duas convenções que valem para a nota inteira:
+>
+> - **`> [!example] Regra proposta`** — onde um caso permite, ele termina com uma regra de
+>   mesa escrita em duas ou três frases, em itálico. Ela é **nossa**, não da obra: é a
+>   tradução do precedente em mecânica, oferecida pronta para copiar. Nem todo caso tem
+>   uma, porque nem todo caso vira regra sem inventar demais.
+> - **Preços marcados `inferido`** — a obra descreve os gastos em prosa ("uma quantidade
+>   grande de pedras") e quase nunca dá o número. Onde o número importa para orçar uma
+>   campanha, ele foi reconstruído e está sinalizado. Os preços de referência do mundo
+>   moram em [[Pedras Primevas]]; os números do sistema de cultivo, em
+>   [[Tabelas de Referência Rápida]]. Onde esta nota divergir de qualquer uma das duas,
+>   elas vencem.
+
+> [!warning] Cinco palavras que você precisa antes de começar
+> Esta é a nota mais densa em jargão do vault, e ela pressupõe o vocabulário das outras
+> pastas. Se você está lendo do zero, estes cinco termos destravam quase tudo:
+>
+> | Termo | Em uma frase | Nota |
+> |---|---|---|
+> | **Abertura** | a cavidade sobrenatural dentro de todo Mestre Gu, onde ele guarda os Gu vivos e a energia que os alimenta | [[Abertura]] |
+> | **Essência primeva** | a energia interna que o Mestre Gu gasta para acionar seus Gu e para cultivar; também é a moeda, em forma sólida | [[Essência Primeva]] |
+> | **Refino** | sobrescrever a vontade de um Gu com a sua, para poder usá-lo; a operação mais cara e arriscada do sistema | [[Refino de Gu]] |
+> | **Dao marks** | fragmentos de lei do universo gravados no corpo de um imortal; o atributo de progressão do reino imortal | [[Dao Marks]] |
+> | **Attainment** | o domínio *teórico* de um caminho — o quanto você entende, e não quanta energia você tem; eixo independente do rank | [[Attainment]] |
+>
+> Uma sexta, **fundação**, é definida no caso 6, onde ela é decisiva.
 
 ## Os quatro meta-padrões
 
@@ -83,6 +110,17 @@ criação no instante exato, o cultivador colheu dois artefatos onde a regra per
 > aventura**: os personagens sabem que um item único será destruído numa data, e têm que
 > estar prontos naquele minuto. Toda a preparação vira aventura e a execução vira uma cena
 > só.
+
+> [!example] Regra proposta — a vaga de um artefato único
+> *Cada artefato único ocupa uma **vaga** no mundo, e enquanto ele existir nenhuma tentativa
+> de criar outro igual pode ter sucesso — a tentativa falha automaticamente, sem rolagem. A
+> vaga reabre no instante em que o exemplar é destruído ou consumido. Quem estiver com o
+> ritual de criação **já em andamento** nesse instante a ocupa; quem começar depois disputa
+> em igualdade com todo o mundo.*
+>
+> Vale como regra porque muda o comportamento da mesa: destruir um artefato inimigo deixa
+> de ser só dano e vira **abrir uma vaga** — possivelmente para o próprio inimigo, que
+> estava esperando. É uma razão diegética para não quebrar as coisas por reflexo.
 
 ---
 
@@ -230,6 +268,18 @@ cerca de **2 pontos percentuais**, **irrecuperável**.
 > permite que um jogador tome essa decisão com os olhos abertos, sabendo exatamente o que
 > está vendendo.
 
+> [!example] Regra proposta — avanço forçado
+> *Um personagem pode romper para o rank seguinte por ritual, ignorando o requisito de
+> aptidão, ao custo de **−2 pontos percentuais permanentes de aptidão**, irrecuperáveis por
+> qualquer meio comum. O ritual exige o sacrifício de uma vítima com aptidão de cultivo (a
+> taxa de sucesso sobe com o grau dela) e materiais comuns. A perda é aplicada mesmo em
+> caso de sucesso e mesmo com limpeza imediata; se a perda cruzar a fronteira de um grau, o
+> personagem **muda de grau** e perde o teto de rank correspondente.*
+>
+> Escrita assim, a regra faz o trabalho moral sozinha: o primeiro uso é claramente
+> vantajoso, o terceiro é claramente ruinoso, e o personagem consegue ver isso na própria
+> ficha antes de decidir. Não é preciso nenhum NPC dizendo que é errado.
+
 ---
 
 ## 3. Uso de Gu acima do próprio rank
@@ -249,8 +299,32 @@ quase sem gasto de energia. Anciãos de clã "emprestam" rotineiramente a aura d
 rank 3 para que protegidos de rank 1 refinem os deles sem esforço. A mesma técnica funciona
 em capturas de campo e permite refinar um Gu em público fingindo não estar fazendo nada.
 
-**Recursos gastos:** na versão ativa, apenas a posse do Gu superior e a presença de quem o
-detém.
+**Recursos gastos:** na versão ativa, **nenhum recurso consumível** — apenas a posse do Gu
+superior e a presença física de quem o detém. É por isso que ela é gratuita e cotidiana:
+não gasta o Gu emprestado, não gasta pedras, não gasta nada. O que ela custa é **social**:
+alguém de rank alto precisa querer ficar ao seu lado enquanto você trabalha.
+
+> [!warning] Quanto ela economiza, em números
+> A comparação é o que dá utilidade ao caso. Um refino normal de Gu Vital é o trabalho de
+> **dias de reclusão** de um aluno de academia, com gasto real de energia e risco de falha
+> — é a razão de o currículo do primeiro ano de academia interromper as aulas até o aluno
+> terminar o dele (ver [[Seitas e Academias]]). Com a aura de um Gu de rank 3 sobre a mesa,
+> o mesmo refino leva **segundos** e quase nenhuma energia, com sucesso praticamente
+> garantido.
+>
+> Ou seja, a economia não é de 20% ou 50%: é de **ordens de grandeza em tempo e em risco**,
+> por custo zero em material. `inferido` — a obra descreve os dois regimes em cena e nunca
+> os tabela lado a lado; a comparação é deste vault.
+
+> [!example] Regra proposta — refino sob aura
+> *Refinar um Gu na presença de um aliado que porte um Gu **dois ranks acima** do alvo
+> reduz o tempo de refino a uma ação e dispensa o teste de refino. O portador precisa estar
+> presente e consentir durante todo o processo; ele não gasta recurso algum. Não funciona
+> se o Gu a refinar for de rank igual ou superior ao Gu que projeta a aura.*
+>
+> Repare no que essa regra faz com a ficção da mesa: ela transforma "andar com um mentor"
+> numa **vantagem mecânica concreta e mensurável**, e transforma ser abandonado pelo mentor
+> numa perda real de capacidade — sem tirar um único ponto da ficha do personagem.
 
 **Por que funcionou:** o sistema arbitra **vontades**, não fichas. O rank nominal é um
 indicador de força típica, mas o que decide qualquer interação é o estado real das duas
@@ -330,6 +404,18 @@ suicídio inútil.
 > — ou sabem, e essa é a tensão. E funciona melhor ainda porque as duas rotas alternativas
 > (enganar e suprimir) existem e são conhecidas: a mesa escolhe.
 
+> [!example] Regra proposta — as duas travas de um guardião
+> *Todo território guardado tem duas travas independentes: **Força** e **Reconhecimento**.
+> Vencer a de Força dá acesso físico ao lugar e nada mais. A de Reconhecimento é avaliada
+> pelo guardião sobre a **conduta observada** do candidato desde que entrou, e concede a
+> posse plena e os artefatos. Um guardião não pode mentir, e pode destruir o próprio acervo
+> em vez de entregá-lo. Cada personagem tem **uma única** avaliação de Reconhecimento por
+> território: uma vez negada, nenhuma ação posterior a reabre.*
+>
+> A regra a segurar com força é a última frase. Ela é o que impede o grupo de matar
+> primeiro e negociar depois, e é o que torna as outras duas vias — enganar e suprimir —
+> decisões estratégicas de verdade, tomadas antes de entrar e não depois de errar.
+
 ---
 
 ## 5. As "3 chances" de um espírito guardião
@@ -350,8 +436,24 @@ Resultado: um artefato raríssimo por uma chance, com duas chances ainda em rese
 chances em Gu comuns de rank alto, por ignorância das regras de contagem. Só percebeu o
 tamanho do erro depois de ascender.
 
-**Recursos gastos:** o conhecimento da receita e os vinte conjuntos de materiais. A chance
-em si é gratuita — é o conhecimento que custa.
+**Recursos gastos:** o conhecimento da receita e **vinte conjuntos completos de materiais
+de refino** para o Gu pedido. A chance em si é gratuita — é o conhecimento que custa.
+
+> [!warning] Quanto custam "vinte conjuntos de materiais"
+> `inferido`. A obra não precifica os conjuntos, mas a conta é fechável e vale a pena
+> porque este é o tipo de orçamento que uma mesa precisa aprovar antes da sessão. Um
+> conjunto de materiais para um Gu é a matéria-prima de um refino daquele rank; para um Gu
+> de rank alto, o custo de refino sob encomenda registrado em [[Pedras Primevas]] serve de
+> âncora. Vinte conjuntos, portanto, ficam na casa das **centenas de milhares a alguns
+> milhões de pedras primevas** para um Gu de rank 4 ou 5 — ou seja, é orçamento de
+> organização, não de personagem.
+>
+> **Por que vinte, e por que isso importa:** o pedido a um espírito guardião pode falhar
+> internamente, e cada falha queima um conjunto sem queimar uma chance. Os vinte conjuntos
+> não são exagero, são **margem de segurança comprada com dinheiro**. Duas falhas
+> aconteceram e foram absorvidas. É a demonstração exata do princípio: quando a tentativa
+> é limitada mas o material não é, você converte dinheiro em probabilidade até a loteria
+> virar quase-certeza.
 
 **Por que funcionou:** em qualquer sistema de tentativas limitadas, **o valor está em saber
 o que é garantido e o que é loteria**. Um pedido garantido consumido em algo barato é
@@ -368,6 +470,17 @@ uma loteria em quase-certeza.
 > recompensa jogadores que fazem perguntas, pune quem age por impulso, e não depende de
 > ficha nenhuma. E o precedente do herdeiro original que desperdiçou tudo dá ao mestre uma
 > maneira natural de plantar a informação.
+
+> [!example] Regra proposta — pedidos a um guardião
+> *Um guardião reconhecido concede **3 pedidos**. Um pedido por um item **comum** sempre é
+> atendido e consome 1 pedido, qualquer que seja o número de itens. Um pedido por um item
+> **único ou lendário** consome 1 pedido **por tentativa** e exige um teste; o solicitante
+> pode gastar 1 conjunto de materiais antes de rolar para repetir um teste falho **sem
+> consumir pedido**. As regras de contagem não são anunciadas: quem não perguntar, não
+> sabe.*
+>
+> Duas frases e o caso virou mecânica. A cláusula final é a que faz o dispositivo
+> funcionar — ela transforma "ler as regras" na perícia que o caso inteiro celebra.
 
 ---
 
@@ -455,6 +568,20 @@ deliberadamente a anexação de um território já inteiramente saqueado, para n
 próprio avanço de rank. **Espólio e cronograma de progressão são dois orçamentos distintos
 que competem entre si.**
 
+> [!example] Regra proposta — anexação de territórios
+> *Anexar o território pessoal de um imortal morto exige três coisas: a posse física do
+> corpo e do território, **attainment** suficiente na técnica de anexação (Mestre para um
+> território de rank 6; Grão-Mestre para um de rank 7), e uma **fundação** maior que a do
+> território-alvo — comparação que ignora completamente o rank de cada parte. Bem-sucedida,
+> a anexação soma a fundação do alvo à sua, o que pode promover o anexador de rank
+> imediatamente, pulando as provações intermediárias. Cada anexação **zera o cronômetro da
+> próxima provação** do anexador.*
+>
+> A última cláusula é a que impede o abuso. Sem ela, anexar seria puro ganho e todo imortal
+> passaria a campanha inteira colecionando territórios; com ela, cada anexação adia o
+> próprio avanço, e o jogador passa a ter que **escolher entre crescer largo e crescer
+> alto** — que é exatamente a decisão que o caso mostra o operador tomando.
+
 ---
 
 ## 7. Roubo de um Gu Imortal de rank superior
@@ -503,6 +630,18 @@ artefatos.
 > "O roubo é a parte fácil" é uma inversão maravilhosa para uma sessão de assalto. O clímax
 > não é a extração: é os personagens escondidos num buraco por três dias enquanto o mundo
 > inteiro os procura e o item tenta se matar nas mãos deles.
+
+> [!example] Regra proposta — artefato roubado
+> *Um artefato roubado continua pertencendo ao dono original e **se autodestrói em 3 dias**
+> se o ladrão não concluir o refino antes. O refino é uma disputa de vontade contra a
+> vontade residual do dono, exige concentração ininterrupta e falha se for interrompido. Se
+> o dono estiver **consciente** no momento do furto, ele destrói o artefato com um
+> pensamento: o roubo só é viável contra dono inconsciente, ausente ou enganado.*
+>
+> Duas consequências para a mesa, e as duas são boas. O assalto deixa de terminar quando o
+> item muda de mãos — o relógio começa ali. E o item roubado não pode ser vendido no
+> caminho: ou o grupo para tudo por três dias, ou perde o prêmio. É a mecânica que garante
+> que um tesouro roubado gere uma segunda sessão em vez de encerrar a primeira.
 
 ---
 
@@ -565,6 +704,19 @@ nova rodada de assistência em provação, e mais dependência. **A fazenda é r
 > cultivado como safra. Serve para um patrono de campanha que os jogadores demoram muito a
 > querer largar, mesmo depois de entenderem.
 
+> [!example] Regra proposta — assistência em provação
+> *Um terceiro presente durante a provação de um cultivador pode **colher a energia
+> residual** dela, desde que consiga destruir a manifestação antes que ela atinja o
+> provado. A colheita rende em proporção à **dificuldade** da provação, não à força do
+> colhedor. Acumular materiais raros no território do provado antes da prova aumenta a
+> dificuldade — e, portanto, a colheita — sem que o provado corra mais risco, **desde que**
+> o protetor consiga interceptar. O provado recebe proteção real e nada perde.*
+>
+> A última frase é a que faz esta regra valer a pena: escreva-a no contrato do patrono e
+> deixe os jogadores lerem. Eles vão verificar que estão sendo tratados com honestidade —
+> e vão continuar sendo colhidos. Nenhuma outra mecânica desta nota produz tanto
+> desconforto com tão pouca traição.
+
 ---
 
 ## 9. Brechas de contrato mágico
@@ -601,10 +753,13 @@ mágica.
 
 ### A definição maliciosa
 
-**A cláusula:** o perdedor de uma série de duelos entregaria escravos "dentre os feathermen
-**no chão**".
+**A cláusula:** o perdedor de uma série de duelos entregaria escravos "dentre os homens
+alados (*feathermen*) **que estivessem no chão**".
 
-**A brecha:** o adversário pertencia a um povo alado, que praticamente nunca toca o solo. O
+**A brecha:** o adversário pertencia justamente a esse povo alado — uma das raças de
+**humanos variantes** do mundo, os mesmos que [[Cultura das Cinco Regiões]] descreve —, e
+os alados praticamente nunca tocam o solo. A cláusula parecia entregar um contingente
+enorme e entregava quase ninguém. O
 proponente ainda perdeu **nove duelos triviais de propósito** para inflar a confiança do
 outro, e revelou todo o seu arsenal apenas no décimo — o único com aposta real. O contratado
 que tentou fugir do vínculo cristalizou e morreu, corpo e alma.
@@ -628,6 +783,17 @@ ruim.
 > personagem. E o corolário para o mestre: todo NPC que oferece um juramento já pensou
 > nisso antes.
 
+> [!example] Regra proposta — juramentos vinculantes
+> *Um juramento mágico executa **literalmente o texto acordado**. Ele não avalia intenção,
+> não infere propósito e não corrige redação. Quem tenta violar a letra sofre a pena
+> escrita, sem apelação. Quem cumpre a letra frustrando o propósito **não sofre nada**. O
+> juramento é redigido em voz alta na mesa, por escrito, e as duas partes podem negociar
+> cada palavra antes de fechar; depois de fechado, o texto não se altera.*
+>
+> A cláusula operacional é "por escrito, na mesa". Um juramento que o mestre resume em uma
+> frase e guarda na cabeça não produz nada disto; um juramento que os jogadores leem
+> palavra por palavra vira a cena mais tensa da sessão, sem rolar um dado.
+
 ---
 
 ## Índice rápido: exceção × regra
@@ -635,14 +801,14 @@ ruim.
 | Caso | Veredito |
 |---|---|
 | Refino de Gu Imortal por um não-imortal | Exceção extrema; princípio replicável |
-| Avanço forçado por disciplina e pedras | **Regra** — caro, não milagroso |
+| Avanço forçado por disciplina e pedras | **Regra**, mas só na ruptura 1 → 2 e a preço proibitivo — troca potência por tempo e dinheiro, **nunca talento por dinheiro**; a aptidão continua sendo teto |
 | Avanço forçado por ritual demoníaco | **Regra** — materiais comuns, custo permanente |
 | Uso de Gu acima do próprio rank (aura emprestada) | **Regra corrente e cotidiana** |
 | Conquista de território — enganar | **Regra** — barata e confiável |
 | Conquista de território — suprimir | **Regra** — cara, deixa rastro |
 | Conquista de território — invadir e pedir | **Não funciona** — trava independente |
 | As três chances do espírito guardião | **Regra** — depende só de informação |
-| Anexação de aberturas | **Regra** do sistema; fundação excepcional |
+| Anexação de aberturas | **Regra** do sistema; fundação excepcional. O limiar real é o attainment, não o rank |
 | Roubo de artefato de rank superior | Estrutura é regra; alvo foi exceção |
 | Fazenda de provações | Princípio é regra; escala é exceção |
 | Brechas de contrato | **Regra universal** |

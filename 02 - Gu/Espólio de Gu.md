@@ -37,13 +37,35 @@ várias vezes mais difícil de refinar que um selvagem, mas nada além disso. A 
 explica por quê: a vontade humana impressa num Gu é mais dura de apagar do que qualquer vontade
 natural.
 
-No nível imortal, deixa de ser grau e vira **categoria**. Se um terceiro tenta refinar à força
-um [[Gu Imortais|Gu Imortal]] já refinado por outra pessoa, a vontade embutida do dono anterior
-não resiste: ela **destrói o próprio Gu** como mecanismo de defesa. O ladrão não fica com um Gu
-difícil. Ele fica com nada.
+No nível imortal, deixa de ser grau e vira **categoria** — mas com uma precisão que faz toda a
+diferença numa mesa de jogo, porque o processo tem **três estados distintos** e só o terceiro é
+que destrói.
 
-É por isso — a obra diz isso com todas as letras — que os cultivadores imortais **dormem
-tranquilos**. Ninguém toma um Gu Imortal por força bruta.
+| Estado | É possível? | O que acontece com o Gu |
+|---|---|---|
+| **1. Tomar posse** | sim | o Gu sobrevive, mas fica **inerte**: não responde a quem o tomou, e o dono original continua percebendo onde ele está |
+| **2. Suprimir a vontade** original | sim, com esforço | custa tempo e força consideráveis; enquanto dura, o Gu segue inutilizável pelos dois lados |
+| **3. Refinar de fato**, para que passe a obedecer | quase nunca | é aqui que a vontade embutida **destrói o próprio Gu** em vez de aceitar novo dono |
+
+Ou seja: saquear um [[Gu Imortais|Gu Imortal]] é perfeitamente possível — e perfeitamente
+inútil. O ladrão sai com um objeto valiosíssimo que não funciona nas mãos dele. Transformá-lo em
+equipamento de verdade exige o terceiro passo, e o terceiro passo é onde o prêmio se destrói.
+
+> [!warning] Um erro de leitura fácil de cometer
+> É tentador resumir isto como "não dá para roubar Gu Imortal", e está errado. Dá para roubar; o
+> que não dá é **usar**. A obra tem cenas em que um Gu Imortal é tomado e permanece suprimido e
+> ocioso nas mãos de quem o tomou, precisamente porque refiná-lo exigiria tempo e força que
+> aquela pessoa não tinha naquele momento.
+
+É por isso que os cultivadores imortais **dormem tranquilos** apesar de seus Gu serem cobiçáveis:
+não porque sejam impossíveis de tomar, mas porque tomar não converte em posse.
+
+> [!note] Para o design
+> Estes três estados são um presente para o jogo. O espólio de um imortal derrotado vira um
+> objeto simultaneamente valioso e inútil, e convertê-lo em equipamento exige **uma cena
+> dedicada**, com custo alto e risco real de destruir o prêmio no processo. Isso mantém a
+> economia fechada sem proibir o saque, e ainda gera pressão narrativa: o dono original sabe
+> onde o Gu está, e sabe que você ainda não conseguiu usá-lo.
 
 ### A única brecha: o caminho da sabedoria
 

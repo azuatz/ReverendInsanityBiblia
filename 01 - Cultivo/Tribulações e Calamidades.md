@@ -6,6 +6,7 @@ aliases:
   - Calamities and tribulations
   - Earthly calamity
   - Heavenly tribulation
+  - Calamidades e Tribulações
 status: consolidado
 fontes: ["cap. 374-375", "cap. 416", "cap. 425", "cap. 460", "cap. 610-612", "cap. 623", "cap. 626-629", "cap. 684-685", "cap. 740", "cap. 745", "cap. 748", "cap. 750", "cap. 761", "cap. 765-766", "cap. 792", "cap. 823-826", "cap. 939", "cap. 949", "cap. 966-967", "cap. 978", "cap. 1007", "cap. 1011-1017", "cap. 1097-1098", "cap. 1112", "cap. 1130", "cap. 1139-1142", "cap. 1146", "cap. 1161", "cap. 1164-1165", "cap. 1180-1181", "cap. 1184-1187", "cap. 1206", "cap. 1210-1211", "cap. 1215-1217", "cap. 1398", "cap. 1462", "cap. 1469-1470", "cap. 1476", "cap. 1482", "cap. 1703", "cap. 2042", "cap. 2045", "cap. 2048"]
 conhecimento: especializado

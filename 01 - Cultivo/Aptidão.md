@@ -6,6 +6,8 @@ aliases:
   - Aptitude
   - Aptitude grade
   - Grau de aptidão
+  - Graus de Aptidão
+  - As Dez Constituições Extremas
 status: consolidado
 fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299"]
 conhecimento: comum

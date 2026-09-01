@@ -9,6 +9,16 @@ aliases:
   - Immortal Venerable
   - Demon Venerable
   - Dao Lord
+  - Genesis Lotus Immortal Venerable
+  - Giant Sun Immortal Venerable
+  - Limitless Demon Venerable
+  - Paradise Earth Immortal Venerable
+  - Primordial Origin Immortal Venerable
+  - Reckless Savage Demon Venerable
+  - Red Lotus Demon Venerable
+  - Spectral Soul Demon Venerable
+  - Star Constellation Immortal Venerable
+  - Thieving Heaven Demon Venerable
 status: consolidado
 fontes: ["cap. 187", "cap. 383", "cap. 518", "cap. 552", "cap. 601", "cap. 813", "cap. 1007", "cap. 1297", "cap. 1435", "cap. 1442", "cap. 2071", "cap. 2085", "cap. 2086", "cap. 2111"]
 conhecimento: especializado

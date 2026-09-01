@@ -6,6 +6,7 @@ aliases:
   - Aperture
   - Primeval Sea
   - Mar Primevo
+  - Cerimônia do Despertar
 status: consolidado
 fontes: ["cap. 5-7", "cap. 10", "cap. 17", "cap. 19", "cap. 22", "cap. 26", "cap. 35", "cap. 43", "cap. 50", "cap. 80", "cap. 96", "cap. 111", "cap. 141", "cap. 145", "cap. 152-153", "cap. 167", "cap. 179", "cap. 187-188", "cap. 212", "cap. 230", "cap. 273", "cap. 312", "cap. 331", "cap. 490", "cap. 493-494", "cap. 504", "cap. 598", "cap. 1646", "cap. 1796"]
 conhecimento: comum

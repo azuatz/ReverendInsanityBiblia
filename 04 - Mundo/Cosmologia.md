@@ -12,6 +12,7 @@ aliases:
   - River of Time
   - Rio do Tempo
   - Earth Trench
+  - Os Nove Céus
 status: consolidado
 fontes: ["cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1990", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
 conhecimento: segredo

@@ -79,4 +79,4 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 > No mundo da obra, saber como o sistema funciona por dentro é literalmente uma
 > vantagem competitiva — vale que no jogo também seja.
 
-Para o que fica de fora das duas camadas, veja [[Somente o Mestre]].
+Para o que fica de fora das duas camadas, veja [[00 - Somente o Mestre|Somente o Mestre]].

@@ -65,6 +65,6 @@ Se for distribuí-las, corte o que está indicado:
 
 > [!warning] Cuidado com a tentação de revelar cedo
 > A parte mais poderosa deste material é o contraste: os personagens agem sob uma
-> explicação de mundo (que é o que a [[Trilha do Jogador]] descreve) e, em algum
+> explicação de mundo (que é o que a [[00 - Trilha do Jogador|Trilha do Jogador]] descreve) e, em algum
 > momento, descobrem que a explicação real é outra. Se você revelar tudo no começo,
 > perde-se exatamente a virada que torna esse cenário memorável.

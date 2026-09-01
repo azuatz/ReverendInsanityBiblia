@@ -99,6 +99,12 @@ contexto vivo se perde. Portanto:
   na primeira aparição, nunca como leitor resumindo para si mesmo.
 - Toda nota consolidada segue os modelos de `_pipeline/MODELOS/` (conceito, path,
   estudo de caso, catálogo de Gu); os modelos evoluem junto com o conhecimento.
+- **Regras do mundo e resumo por categoria** (regra do usuário): cada domínio do
+  conhecimento sempre traz suas regras do mundo enumeradas e/ou um resumo da
+  categoria. Nos rascunhos, são as seções obrigatórias "Resumo do domínio" e
+  "Regras do mundo" no topo de cada arquivo; nas notas finais, cada pasta temática
+  (`01`–`09`) ganha uma nota-visão geral com o resumo e as regras da categoria,
+  além das notas de conceito individuais.
 
 ### Convenções Obsidian (obrigatórias em toda nota do vault)
 

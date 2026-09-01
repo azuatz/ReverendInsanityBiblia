@@ -32,6 +32,12 @@ esclarecer.
   zumbificação vive dentro de `transformacoes-e-longevidade.md`, não num arquivo
   próprio). Antes de criar arquivo novo, consulte a taxonomia; se precisar
   criar/fundir/mover domínios, atualize a taxonomia e registre no histórico dela.
+- **Todo arquivo de domínio abre com duas seções obrigatórias** (regra do usuário),
+  logo após a marcação "cobre até": `## Resumo do domínio` (síntese em poucos
+  parágrafos do que a categoria é e como funciona) e `## Regras do mundo` (lista
+  numerada das leis daquela categoria — o que sempre vale, o que nunca é possível,
+  os custos e limites). Atualize ambas a cada leva; se um rascunho existente ainda
+  não tiver essas seções, crie-as retroativamente ao tocá-lo.
 - Rascunhos densos e completos — otimizados para o Claude da fase final entender
   rápido, não para leitura de leigos. Citações de capítulo inline em toda afirmação
   (é o que permitirá verificar e citar depois).

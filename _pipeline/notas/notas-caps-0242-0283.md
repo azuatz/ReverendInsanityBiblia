@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 242–283 (Volume 2)
 
-> Progresso da leitura: até o cap. 277
-> Status: em-andamento
+> Progresso da leitura: até o cap. 283 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -204,6 +204,12 @@ Um agente estrategicamente "não revela" e "não pede" certas informações-chav
 ### Caso: recusa pública repetida de recompensa para forçar concessão de maior valor (cap. 269–271)
 Ao ser oferecida uma recompensa genérica (dinheiro, remoção de mandado de prisão), o beneficiário recusa repetidamente por "princípio", o que text-book social força o doador (que tem uma reputação pública a proteger) a insistir e efetivamente aumentar a oferta, até que um terceiro "aliado" (manipulado a sugerir a ideia) proponha exatamente o item de maior valor real (um token de alto escalão) que o beneficiário queria desde o início — permitindo obter o prêmio mais valioso sem parecer ganancioso, e com o próprio doador se sentindo generoso por "ter pensado nisso primeiro".
 
+### Caso: acordo de aliança "hostil" entre dois manipuladores usando garantias mútuas (cap. 272)
+Duas partes que se enganaram mutuamente por muito tempo, cada uma segurando uma "peça de refém" da outra (uma posse física de valor emocional/funcional único), decidem formalizar uma parceria temporária em vez de tentar eliminar uma à outra, porque o custo de uma queda de braço (ambas guardam segredos capazes de destruir a outra) é maior que o ganho. Mecanismo usado: exigir deliberadamente uma condição desproporcional e "abusiva" (divisão de lucros muito desigual) na negociação, não para de fato extrair o máximo, mas porque a ausência de qualquer exigência abusiva pareceria suspeita para uma contraparte que já sabe que o interlocutor é um manipulador nato — ou seja, uma concessão "razoável demais" seria interpretada como sinal de armadilha.
+
+### Caso: gestão de risco — descartar um ganho imediato para proteger um segredo mais valioso (cap. 276–277)
+Ao localizar por acaso (graças a conhecimento de vida anterior) um "Gu lendário" escondido dentro de uma pedra de aposta comum usada como calço de um balcão, o protagonista escolhe deliberadamente NÃO extrair o Gu ali mesmo, mesmo tendo os meios sociais (token de altíssimo prestígio) para forçar uma dissecação imediata e discreta. Raciocínio: uma segunda vitória "miraculosa" consecutiva em jogos de sorte levantaria suspeita justificada em um observador poderoso e atento (o líder do clã anfitrião), que já sabe do primeiro golpe de sorte do protagonista em outro contexto; essa suspeita poderia motivar uma investigação mais profunda capaz de revelar um segredo muito mais valioso e perigoso (um Gu de rank 6 escondido na própria aperture). A técnica escolhida: comprar deliberadamente pedras de grau baixo em vez do alvo real, gastar tempo/dinheiro construindo uma rotina "normal" de frequentador de cassino de pedras, e voltar mais tarde, dissociando a descoberta futura do próprio comportamento presente.
+
 ### Caso: essência emprestada para mascarar poder de combate real (cap. 250–251)
 Um Gu Mestre de rank nominal inferior (rank 2 estágio superior) consegue vencer e depois matar um Gu Mestre de rank 3 estágio inicial guardando uma reserva de essência primeva de rank 3 pico (prata-neve, emprestada/transferida por uma aliada de rank 3 pico) dentro da própria aperture, além de usar predominantemente Gu de rank 3 no combate. Isso produz poder de combate muito acima do "rank aparente", e confunde observadores, que atribuem a discrepância a um suposto "Gu de ocultação de aura" quando na verdade é literalmente reserva extra de essência de rank mais alto guardada para emergências.
 
@@ -226,6 +232,10 @@ Um Gu Mestre de rank nominal inferior (rank 2 estágio superior) consegue vencer
 - **Jovem mestre (young master) / jovem líder do clã (young clan leader)**: títulos formais da estrutura sucessória do clã Shang — jovem mestre administra um setor de negócio; jovem líder do clã é o herdeiro aparente único, escolhido entre os jovens mestres (cap. 263, 269).
 - **Clan elder (ancião/elder externo)**: posição de confiança dada a Gu Mestres (inclusive demoníacos de origem) recrutados por mérito nas arenas de batalha, acima da posição de jovem mestre em autoridade formal, mas sem disputar a sucessão do clã (cap. 265, 269).
 - **Nove cores de token do clã Shang**: preto, branco, vermelho, laranja, amarelo, verde, turquesa, azul, roxo-espinho (do mais baixo ao mais alto) (cap. 271).
+- **Treasure realm / Living Treasure Door**: cofre ancestral do clã Shang e seu guardião senciente, respectivamente; funciona só por troca (Gu por Gu de valor equivalente ou maior) (cap. 273–274).
+- **Blood Sea inheritance (herança do Mar de Sangue)**: linhagem/legado extremamente raro de Gu focados em sangue/linhagem, do qual Shang Yan Fei extrai a maior parte de seu próprio arsenal (cap. 274).
+- **Gambling rocks (pedras de aposta) e "rock dissecting master" (mestre dissecador de pedras)**: sistema de jogo de azar baseado em fósseis de Gu formados naturalmente; profissão dedicada a extrair Gu vivos dessas pedras sem matá-los (cap. 276–277).
+- **"Great Dao" (fragmentos da Grande Via/Lei)**: conceito citado como o que confere aos Gu suas propriedades únicas mesmo sendo seres de baixa inteligência — frase-conceito usada para explicar por que Gu fossilizados alteram visualmente a rocha ao redor (cap. 276).
 
 ## 7. Dúvidas e lacunas
 

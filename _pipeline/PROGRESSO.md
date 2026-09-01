@@ -183,3 +183,12 @@ do ca# Progresso do projeto
 
 Em andamento por redatores com pastas exclusivas. Falta ainda: concluir as pastas,
 escrever `09 - Apendices/`, o `00 - LEIA-ME`, e o passe de verificação.
+
+### Nota avulsa acrescentada em 2026-09-01
+
+- Criada `02 - Gu/Conflito de Marcas e Compatibilidade.md` (mecânica de interferência
+  entre leis: ressonância × conflito, modificações corporais permanentes, força × luz/
+  espaço/vento, restrição × palavra). Fontes canônicas centrais: cap. 266, 292, 307.
+- `09 - Apendices/Catálogo de Gu - Mortais.md`: coluna ⬇️ Desvantagem anotada com a
+  incompatibilidade em 22 Gu (7 canônicos, 15 deduzidos). Nenhuma outra coluna tocada.
+- Wikilinks de volta acrescentados em `01 - Cultivo/Dao Marks.md` e no catálogo.

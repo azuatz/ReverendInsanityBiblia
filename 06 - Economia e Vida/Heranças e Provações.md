@@ -74,7 +74,7 @@ formatos observados:
 
 - **dilemas mentais** — decisões difíceis sem solução limpa, em que o teste é o que a pessoa
   escolhe quando não há saída boa;
-- **câmaras simples** — uma sala secreta com Gu e pedras primevas, sem prova nenhuma;
+- **câmaras simples** — uma sala secreta com Gu e pedras primordiais, sem prova nenhuma;
 - **provas letais** — falhar no meio do caminho significa morrer;
 - **armadilhas totais** — a "herança" inteira é mentira, montada pela lógica explícita de
   **levar alguém junto na morte**. O morto não queria um herdeiro: queria companhia.
@@ -195,7 +195,7 @@ Reunindo o que a obra mostra em heranças de escalas diferentes:
 
 | Escala | Conteúdo típico |
 |---|---|
-| Micro-legado | Uma câmara: alguns Gu, pedras primevas, um bilhete |
+| Micro-legado | Uma câmara: alguns Gu, pedras primordiais, um bilhete |
 | Herança de força comum | Gu em quantidade nos ranks baixos, alguns Gu de rank médio, receitas de refino, a biografia do construtor |
 | Herança de patamar alto | Territórios inteiros (as terras onde cultivadores imortais moram), técnicas completas, acervos acumulados por gerações |
 | Herança verdadeira | O sistema de cultivo integral de um cultivador do topo, artefatos de rank altíssimo, e conhecimento que redefine um campo inteiro |
@@ -304,4 +304,4 @@ herança pode ser mais lucrativo, e infinitamente mais seguro, do que explorá-l
   atravessar.
 - [[Ranks e Avanço]] — por que um acervo herdado pode furar travas que o tempo não fura.
 - [[Refino de Gu]] — as receitas que costumam ser o prêmio de maior valor real.
-- [[Pedras Primevas]] — a moeda em que a corrida por heranças é disputada.
+- [[Pedras Primordiais]] — a moeda em que a corrida por heranças é disputada.

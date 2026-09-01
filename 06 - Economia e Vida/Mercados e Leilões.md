@@ -162,7 +162,7 @@ disponíveis ou não funcionam através da casca, ou matariam o ocupante.
 - entre as restantes, a maioria guarda um Gu já morto;
 - um especialista com séculos de prática acerta algo em torno de duas em dez.
 
-**As cinco categorias de preço:** sucata (dezenas de pedras primevas), baixo (~100), médio
+**As cinco categorias de preço:** sucata (dezenas de pedras primordiais), baixo (~100), médio
 (~1.000), alto (~10.000) e super (centenas de milhares).
 
 **Como se melhora as chances:** heurísticas de tamanho relativo — o fóssil costuma ser
@@ -268,7 +268,7 @@ mecanismo de precificação por feixe de luz, estão em [[Economia Imortal]].
 
 ## Relações
 
-- [[Pedras Primevas]] — a unidade em que os preços mortais são medidos.
+- [[Pedras Primordiais]] — a unidade em que os preços mortais são medidos.
 - [[Economia Imortal]] — a praça de comércio da camada superior e suas regras maduras.
 - [[Como um Mestre Gu Ganha a Vida]] — o que se vende nesses mercados e quem produz.
 - [[Eventos e Instituições Jogáveis]] — leilões, feiras e convenções como eventos de mesa.

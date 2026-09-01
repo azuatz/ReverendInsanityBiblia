@@ -51,7 +51,7 @@ Antes de tudo, saiba que a base está dividida por **quem pode saber o quê**:
 ## Por onde começar
 
 **Leitura zero, de dez minutos:** [[Glossário EN-PT]]. Passe os olhos antes de qualquer outra
-coisa. Este mundo tem um vocabulário próprio — abertura, essência primeva, Gu, rank, caminho,
+coisa. Este mundo tem um vocabulário próprio — abertura, essência primordial, Gu, rank, caminho,
 attainment, dao marks — e as notas de fundação usam esses termos entre si. O glossário não
 precisa ser decorado; basta você ter visto as palavras uma vez para que a primeira nota deixe
 de parecer um texto em código.

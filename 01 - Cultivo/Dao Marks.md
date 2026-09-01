@@ -94,7 +94,7 @@ vezes acima do esperado — e isso significa que ele achou outra fonte.
 >
 > Ou seja: só pela contagem de dao marks, cada rank imortal vale **cerca de dez
 > vezes** o anterior. Esse é exatamente o salto de dez vezes por rank que
-> [[Essência Primeva]] atribui à *qualidade da essência*, por um caminho
+> [[Essência Primordial]] atribui à *qualidade da essência*, por um caminho
 > completamente independente — e é a explicação aritmética da frase, repetida em
 > [[Tribulações e Calamidades]], de que um rank 8 suprime um rank 7 sem esforço.
 > Duas escadas que foram medidas separadamente e chegam ao mesmo lugar.

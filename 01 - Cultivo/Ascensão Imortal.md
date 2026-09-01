@@ -26,7 +26,7 @@ A estatística que o mundo repete: de dez mil Mestres Gu rank 5, nem um completa
 
 ### 1. Estilhaçar a abertura
 
-O Mestre Gu lança **toda** a sua essência primeva num ataque total contra a própria parede de cristal, até destruí-la por completo. É a inversão exata de tudo o que ele fez até aqui: passou décadas fortalecendo aquela parede, e agora precisa demoli-la.
+O Mestre Gu lança **toda** a sua essência primordial num ataque total contra a própria parede de cristal, até destruí-la por completo. É a inversão exata de tudo o que ele fez até aqui: passou décadas fortalecendo aquela parede, e agora precisa demoli-la.
 
 O passo é **irreversível**. Uma vez iniciado, há apenas sucesso ou morte. A única rede de segurança conhecida é ter uma segunda abertura: nesse caso, estilhaça-se apenas uma, e a falha custa a abertura sacrificada em vez da vida.
 
@@ -333,7 +333,7 @@ Cada item resolve um problema específico do processo.
 - [[Avançar com Aptidão Baixa]] — o repertório completo de contornar limites, do rank 1 à imortalidade.
 - [[Ranks e Avanço]] — a escada mortal que termina aqui.
 - [[Abertura]] — o órgão que é destruído e reconstruído.
-- [[Essência Primeva]] — o combustível finito que dá lugar à essência imortal.
+- [[Essência Primordial]] — o combustível finito que dá lugar à essência imortal.
 - [[Attainment]] — uma das duas fontes de human qi abundante.
 - [[Dao Marks]] — a nova régua de poder do outro lado.
 - [[Tribulações e Calamidades]] — o calendário de provações que começa a correr assim que a abertura se forma.

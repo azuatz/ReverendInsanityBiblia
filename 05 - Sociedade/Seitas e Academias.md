@@ -174,10 +174,10 @@ O ciclo padrão dura cerca de um ano e começa aos quinze:
 O que impressiona na academia é o quanto ela é deliberadamente projetada para produzir
 competição e lealdade simultâneas:
 
-- **subsídio semanal** de **três [[Pedras Primevas|pedras primevas]]** a todo aluno — a
+- **subsídio semanal** de **três [[Pedras Primordiais|pedras primordiais]]** a todo aluno — a
   moeda corrente do mundo mortal, que é ao mesmo tempo dinheiro e combustível de cultivo.
   Para comparar com os outros degraus da carreira (um ancião de clã recebe muito mais que
-  isso por semana), a tabela de rendas e preços está em [[Pedras Primevas]], a nota-fonte
+  isso por semana), a tabela de rendas e preços está em [[Pedras Primordiais]], a nota-fonte
   de números desta pasta;
 - **prêmios por marcos** alcançados, em dinheiro e em prioridade de escolha de Gu e de
   grupo;

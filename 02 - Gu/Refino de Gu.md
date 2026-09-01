@@ -29,7 +29,7 @@ separadas.
 > | O que é | vencer a vontade de um Gu que já existe e substituí-la pela sua | produzir um Gu novo a partir de materiais, seguindo uma receita |
 > | Ponto de partida | um bicho capturado, herdado ou comprado | um monte de matéria-prima |
 > | Duração típica | **horas** | **anos a séculos** |
-> | Custo típico | algumas [[Pedras Primevas\|pedras primevas]] | um conjunto completo de materiais, por tentativa |
+> | Custo típico | algumas [[Pedras Primordiais\|pedras primordiais]] | um conjunto completo de materiais, por tentativa |
 > | Como se falha | o bicho contra-ataca, ou você desiste no meio | a receita falha numa etapa e você perde tudo |
 > | Quem faz | **todo Mestre Gu**, desde o primeiro dia | especialistas, e mesmo assim raramente |
 >
@@ -52,7 +52,7 @@ passar a obedecer, poder ser guardado no corpo e ser considerado seu.
 O refino básico é, mecanicamente, uma **guerra de atrito de vontades**, e é surpreendentemente
 concreto:
 
-O Mestre canaliza [[Essência Primeva]] continuamente para dentro do Gu. O Gu — que é um ser
+O Mestre canaliza [[Essência Primordial]] continuamente para dentro do Gu. O Gu — que é um ser
 vivo com vontade própria — resiste e **expele a essência de volta**. O progresso é visível:
 mede-se pela porcentagem da superfície do bicho que já foi "tingida" pela cor da essência do
 Mestre. A cor da essência varia por nível de cultivo, então o refino é literalmente algo que
@@ -63,7 +63,7 @@ Duas propriedades definem a experiência:
 - **Não há como pausar.** Se o Mestre interrompe antes de completar, o Gu expele a essência
   injetada e **reverte todo o progresso** em algumas horas. Um refino comum leva horas
   contínuas de concentração.
-- **O custo é medido em pedras primevas.** Refinar um Gu banal de nível 1 consome entre
+- **O custo é medido em pedras primordiais.** Refinar um Gu banal de nível 1 consome entre
   cinco e dezesseis pedras, dependendo do bicho. Dois fatores determinam o custo: a
   **aptidão do Mestre** (quanto mais rápido ele regenera essência, mais barato sai) e a
   **força de vontade do Gu**.
@@ -121,7 +121,7 @@ outra pessoa viva**, no nível mortal.
 ### O que a subjugação custa
 
 Subjugar é a operação barata do sistema, e é bom fixar a ordem de grandeza: um Gu banal de
-nível 1 custa **cinco a dezesseis pedras primevas** e algumas horas. Não há receita, não há
+nível 1 custa **cinco a dezesseis pedras primordiais** e algumas horas. Não há receita, não há
 material, não há conjunto a perder. O que existe é o risco de contra-ataque e a
 impossibilidade de pausar.
 
@@ -412,4 +412,4 @@ historicamente baixíssimas da profissão se explicam sozinhas.
 - [[Gu Imortais]] — por que o refino à força não funciona no topo.
 - [[Gu Vital]] — o primeiro Gu refinado e sua proteção especial contra falhas.
 - [[Refinement Path]] — o caminho de cultivo dedicado a esta arte.
-- [[Essência Primeva]] — o veículo da vontade.
+- [[Essência Primordial]] — o veículo da vontade.

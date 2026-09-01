@@ -21,7 +21,7 @@ empobrece a pessoa==.
 ## A moeda
 
 A moeda da camada imortal é a **pedra de essência imortal** (*immortal essence stone*), e
-ela funciona de maneira diferente da pedra primeva do mundo mortal. Uma pedra primeva é
+ela funciona de maneira diferente da pedra primordial do mundo mortal. Uma pedra primordial é
 consumida diretamente como combustível. Uma pedra de essência imortal é convertida em
 **contas de essência** — e o número de contas que uma pedra rende **depende do rank de quem
 a converte**.
@@ -84,7 +84,7 @@ exatamente por isso que os cultivadores mais poderosos do mundo **preferem escam
 bens por bens — a transações monetárias: a taxa de conversão para eles é péssima.
 
 Para calibrar a escala: uma pedra de essência imortal vale mais de cem milhões de pedras
-primevas. Um cultivador imortal pode ter bilhões de pedras primevas guardadas e **zero**
+primordials. Um cultivador imortal pode ter bilhões de pedras primordiais guardadas e **zero**
 pedras de essência imortal — e não conseguir comprar sequer os recursos básicos do próprio
 cultivo.
 
@@ -300,7 +300,7 @@ padronizada:
 
 Um ==ponto de recurso== é um pedaço de território que **gera material de cultivo
 continuamente**, sozinho, para sempre — uma jazida viva. Ele é para o imortal o que a
-nascente espiritual é para o clã mortal (ver [[Pedras Primevas]]): não é um estoque que se
+nascente espiritual é para o clã mortal (ver [[Pedras Primordiais]]): não é um estoque que se
 gasta, é uma renda que não para. Por isso a riqueza madura de um imortal se mede em pontos
 de recurso, e não no que ele tem guardado.
 
@@ -466,7 +466,7 @@ destruiu o próprio mercado.**
 ## Relações
 
 - [[Visão Geral da Economia]] — o quadro geral e a ponte com a economia mortal.
-- [[Pedras Primevas]] — a moeda que esta substitui a partir do rank 6.
+- [[Pedras Primordiais]] — a moeda que esta substitui a partir do rank 6.
 - [[Mercados e Leilões]] — as regras de mercado do lado mortal e o leilão de artefatos.
 - [[Tribunal Celestial e Grandes Forças]] — quem emite a moeda e como usa isso politicamente.
 - [[Estudos de Caso Mecânicos]] — a guerra de preços passo a passo, e o caso da **fazenda

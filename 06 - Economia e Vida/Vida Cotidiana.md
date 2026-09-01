@@ -28,7 +28,7 @@ respeitar. **Mestres Gu** são uma minoria minúscula, com vida mais longa, pode
 desproporcional e uma conta de despesas que os mantém permanentemente ocupados.
 
 A assimetria é explícita e quantificada dentro do mundo. Matar vários servos mortais custa
-uma multa de algumas dezenas de pedras primevas. Ofender um Mestre Gu pode custar a família
+uma multa de algumas dezenas de pedras primordiais. Ofender um Mestre Gu pode custar a família
 inteira de um mortal. A formulação corrente é que a vida de um Mestre Gu vale mais que a de
 cem mortais — e, na região onde a hierarquia é mais cerimoniosa, mortais literalmente cedem
 passagem na rua até para um cultivador de rank 1, identificável pelo uniforme e pela placa
@@ -78,7 +78,7 @@ para as crises funciona, na prática, como descarte honroso de quem já não pro
   encantador — construções altas atraem raios, então certos modelos de casa não servem
   naquela região.
 - **Cidades**, nas regiões urbanizadas, com cobrança de entrada por pessoa em pedras
-  primevas. A cidade é um serviço, e o acesso é mercadoria.
+  primordials. A cidade é um serviço, e o acesso é mercadoria.
 
 > [!note] Para o design
 > "Móveis são organismos" é a decisão estética que faz o cenário parecer diferente de
@@ -90,7 +90,7 @@ para as crises funciona, na prática, como descarte honroso de quem já não pro
 
 - **Carne é rara para mortais.** Numa região montanhosa documentada, a topografia íngreme
   limita a criação de gado a tal ponto que camponeses só comem carne de porco no ano novo.
-- **A cozinha do dia a dia** é de grãos, vegetais e o que a caça render — meia pedra primeva
+- **A cozinha do dia a dia** é de grãos, vegetais e o que a caça render — meia pedra primordial
   compra um javali inteiro, o que dá a medida de quanto a caça importa.
 - **Bebida é o luxo acessível.** Vinhos regionais são o principal produto de exportação de
   muitas vilas, e um jarro do melhor vinho de uma região custa o equivalente a dois meses de
@@ -114,7 +114,7 @@ espetacularmente desigual.
   marca: há registro de um que só atende os ricos e bonitos, um que anda disfarçado de
   mendigo, e um que cobra pela cura o preço de uma vida a ser tirada pelo próprio paciente.
 - **Preços proibitivos.** Tratar um dano permanente com um especialista de rank alto custa
-  na casa das centenas de milhares de pedras primevas — uma fortuna absolutamente fora do
+  na casa das centenas de milhares de pedras primordiais — uma fortuna absolutamente fora do
   alcance de qualquer mortal.
 - **Existe cura de alma, e ela é comercializável.** Certos Gu restauram dano de alma com
   eficácia desproporcional, o que os torna insumo econômico de primeira linha nos níveis
@@ -140,7 +140,7 @@ Viajar é lento, perigoso e socialmente marcado.
   solitários que sobrevivem tendem a ser fortes, a suspeita se confirma com frequência
   suficiente para se manter.
 - **Existe infraestrutura mágica de transporte, e ela é caríssima.** Túneis fixos entre dois
-  pontos exigem manutenção anual da ordem de duzentas mil pedras primevas, mais custo por
+  pontos exigem manutenção anual da ordem de duzentas mil pedras primordiais, mais custo por
   uso — só as grandes organizações bancam. Portais capazes de atravessar regiões inteiras
   consomem recursos monstruosos por travessia.
 - **Atravessar uma fronteira regional é uma decisão de campanha.** As barreiras entre as
@@ -162,7 +162,7 @@ Viajar é lento, perigoso e socialmente marcado.
   precificação é feita por "controlabilidade": raças variantes menos propensas à revolta
   custam **mais** que humanos escravizados, e fêmeas e crianças raramente são vendidas —
   para impedir que os compradores se tornem reprodutivamente autossuficientes. Cinco homens
-  mortais escravizados custam cerca de meia pedra primeva.
+  mortais escravizados custam cerca de meia pedra primordial.
 - **A contradição institucional é explícita no texto:** clãs formalmente aliados a um bloco
   político que prega igualdade entre humanos e raças variantes continuam comprando escravos
   dessas raças aos milhões. Discurso e prática correm em trilhos separados, e o mundo sabe.
@@ -212,7 +212,7 @@ Pequenos fatos, todos documentados, que fazem uma cena parecer daquele mundo e n
 ## Relações
 
 - [[Visão Geral da Economia]] — o quadro econômico geral.
-- [[Pedras Primevas]] — o que essas quantias significam.
+- [[Pedras Primordiais]] — o que essas quantias significam.
 - [[Como um Mestre Gu Ganha a Vida]] — o lado de cima da mesma divisão social.
 - [[Visão Geral da Sociedade]] — por que os mortais valem tão pouco, institucionalmente.
 - [[Cultura das Cinco Regiões]] — como o cotidiano muda de região para região.

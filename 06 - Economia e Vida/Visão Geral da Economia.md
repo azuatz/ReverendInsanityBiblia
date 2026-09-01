@@ -17,11 +17,11 @@ coincidência que faz de toda crise econômica uma crise de poder e vice-versa.
 
 ## Resumo
 
-A moeda universal do mundo mortal é a **pedra primeva** (*primeval stone*), uma pedra do
+A moeda universal do mundo mortal é a **pedra primordial** (*primordiall stone*), uma pedra do
 tamanho de um ovo de pato que serve para duas coisas ao mesmo tempo: pagar contas e
 alimentar o próprio cultivo. Um Mestre Gu que gasta suas pedras numa hospedaria está
 gastando o mesmo recurso com que ficaria mais forte. Esse duplo papel ancora todo o
-sistema de valores e está detalhado em [[Pedras Primevas]].
+sistema de valores e está detalhado em [[Pedras Primordiais]].
 
 As pedras nascem de **nascentes espirituais** (*spirit springs*), fontes que as produzem
 continuamente. Toda organização séria é, no fundo, dona de nascentes — quem perde a sua
@@ -50,7 +50,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 
 ## Regras do mundo
 
-1. **Pedra primeva é moeda e mana ao mesmo tempo.** Em tempos de crise, quando todo mundo
+1. **Pedra primordial é moeda e mana ao mesmo tempo.** Em tempos de crise, quando todo mundo
    precisa cultivar, as pedras somem de circulação e as organizações emitem moedas
    substitutas (pontos de mérito) — com inflação e depressão pós-crise exatamente como se
    esperaria de papel-moeda de guerra.
@@ -94,7 +94,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 
 ## O que todo personagem sabe
 
-- **Quanto custa viver.** Cinco pedras primevas sustentam uma família mortal de três
+- **Quanto custa viver.** Cinco pedras primordiais sustentam uma família mortal de três
   pessoas por cinco meses. Um Mestre Gu iniciante gasta de três a cinco pedras *por dia*
   entre cultivo, comida de Gu e despesas — ou seja, um único dia dele custa o mês de uma
   família inteira. Um viajante solitário precisa de uns dez mil de reserva para não
@@ -150,7 +150,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 
 Ordem sugerida de leitura desta pasta:
 
-1. [[Pedras Primevas]] — a unidade básica de valor e de poder.
+1. [[Pedras Primordiais]] — a unidade básica de valor e de poder.
 2. [[Como um Mestre Gu Ganha a Vida]] — o cardápio de ocupações; a nota mais diretamente
    utilizável em mesa.
 3. [[Mercados e Leilões]] — onde tudo isso se compra e se vende.

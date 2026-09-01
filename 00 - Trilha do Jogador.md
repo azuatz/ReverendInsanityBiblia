@@ -27,7 +27,7 @@ Conhecimento de senso comum: um camponês sabe disso, ainda que superficialmente
 - [[Visão Geral do Cultivo]] — o que significa cultivar, e por que quase ninguém chega longe
 - [[Abertura]] — o órgão que separa quem tem poder de quem não tem
 - [[Aptidão]] — o número que define o teto de um personagem, e como ele pode mudar
-- [[Essência Primeva]] — o combustível de tudo
+- [[Essência Primordial]] — o combustível de tudo
 - [[Ranks e Avanço]] — a escada de poder do mundo mortal
 - [[Longevidade]] — quanto tempo se vive, e o que se paga para viver mais
 
@@ -49,7 +49,7 @@ Conhecimento de senso comum: um camponês sabe disso, ainda que superficialmente
 - [[Caminho Correto e Caminho Demoníaco]] · [[Cultura das Cinco Regiões]]
 
 **Economia e vida**
-- [[Visão Geral da Economia]] · [[Como um Mestre Gu Ganha a Vida]] · [[Pedras Primevas]]
+- [[Visão Geral da Economia]] · [[Como um Mestre Gu Ganha a Vida]] · [[Pedras Primordiais]]
 - [[Mercados e Leilões]] · [[Eventos e Instituições Jogáveis]] · [[Vida Cotidiana]]
 - [[Ritmo de Cultivo e Reclusão]] — quanto tempo as coisas levam; o calendário de um personagem
 - [[Heranças e Provações]] — as masmorras deste mundo, e como se entra nelas

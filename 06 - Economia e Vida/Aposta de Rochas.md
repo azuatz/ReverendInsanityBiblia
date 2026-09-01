@@ -81,7 +81,7 @@ treinado, não de instrumento.
 O mercado organiza as pedras em cinco graus, e o preço de cada grau anda em ordens de
 grandeza distintas:
 
-| Grau | Preço aproximado (pedras primevas) |
+| Grau | Preço aproximado (pedras primordiais) |
 |---|---|
 | Sucata | a partir de ~10 |
 | Baixo | ~100 |
@@ -91,7 +91,7 @@ grandeza distintas:
 
 O grau é uma avaliação de quanto a pedra *promete* — quantos sinais ela exibe —, não uma
 garantia do que há dentro. Nas casas pequenas de aldeia, a coisa é ainda mais rudimentar:
-balcões com pedras a cinco, dez ou vinte pedras primevas cada, separadas por aparência.
+balcões com pedras a cinco, dez ou vinte pedras primordiais cada, separadas por aparência.
 
 O grau também carrega status social. Numa grande cidade-mercado, as pedras de grau sucata
 ficam amontoadas em balcões como se fossem hortifrúti, e um Mestre Gu de rank 3 evita
@@ -107,7 +107,7 @@ de rochas em mesa: é preciso saber **o que se ganha**. A obra descreve o prêmi
 reconstrução deste vault, montada a partir de três coisas que o texto **de fato** afirma:
 que o grau da pedra mede quantos sinais ela exibe, que mais sinais significam maior chance
 **e maior rank potencial** do conteúdo, e que os preços de Gu por rank são os de
-[[Pedras Primevas]].
+[[Pedras Primordiais]].
 
 > [!warning] Tabela reconstruída
 > `inferido` — os números das duas colunas do meio **não estão na obra**. São a
@@ -188,7 +188,7 @@ material e sem permissão de ninguém. E há um bônus técnico: o Gu que sai de
 fraquíssimo e com a consciência quase apagada pela hibernação, o que torna o **refino de
 domínio dele trivial** — até um Mestre Gu inexperiente consegue vinculá-lo. Um Gu que
 normalmente exigiria uma receita rara e um refinador competente pode simplesmente sair de
-uma pedra comprada por vinte pedras primevas.
+uma pedra comprada por vinte pedras primordiais.
 
 É por isso que a atividade é ao mesmo tempo vício popular e porta legítima. Ela é
 matematicamente perdedora e mesmo assim é a única loteria do mundo cujo prêmio é acesso a
@@ -273,7 +273,7 @@ universal, não regional.
 
 - [[Mercados e Leilões]] — as outras camadas do comércio de Gu, e por que a receita é o
   bem mais caro de todos.
-- [[Pedras Primevas]] — a moeda com que se aposta.
+- [[Pedras Primordiais]] — a moeda com que se aposta.
 - [[Como um Mestre Gu Ganha a Vida]] — por que quase ninguém pode se dar ao luxo de perder
   oitenta por cento do que gasta.
 - [[Refino de Gu]] — a rota normal de obtenção de Gu, que a aposta de rochas contorna.

@@ -66,7 +66,7 @@ Este é o conceito que amarra o sistema inteiro, e vale a pena entendê-lo com p
 porque quase todas as regras de propriedade e roubo derivam dele.
 
 **Refinar um Gu é substituir a vontade interna do bicho pela vontade do refinador.** A
-essência do Mestre — [[Essência Primeva]] no caso dos mortais, essência imortal no caso dos
+essência do Mestre — [[Essência Primordial]] no caso dos mortais, essência imortal no caso dos
 imortais — não é combustível apenas: é o **veículo** que carrega a vontade para dentro do
 Gu. Uma vez instalada, essa vontade funciona como um **programa**: é ela que define a quem
 o Gu obedece e o que ele faz.
@@ -239,4 +239,4 @@ resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, loja
 - [[Gu Vital]] — o Gu ligado à própria vida do Mestre.
 - [[Gu Imortais]] — o que muda a partir do nível 6.
 - [[Visão Geral dos Paths]] — como Gu se agrupam em famílias temáticas.
-- [[Essência Primeva]] — a energia que aciona todos eles.
+- [[Essência Primordial]] — a energia que aciona todos eles.

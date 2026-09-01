@@ -3,6 +3,7 @@ tags:
   - economia
   - economia/moeda
 aliases:
+  - Pedras Primevas
   - Primeval Stones
   - Pedras Primordiais
 status: consolidado
@@ -10,21 +11,21 @@ fontes: ["cap. 4", "cap. 8", "cap. 12", "cap. 17-18", "cap. 39-45", "cap. 43", "
 conhecimento: comum
 ---
 
-# Pedras Primevas
+# Pedras Primordiais
 
-**Em uma frase:** a ==pedra primeva== é uma pedra do tamanho de um ovo de pato que serve
+**Em uma frase:** a ==pedra primordial== é uma pedra do tamanho de um ovo de pato que serve
 ao mesmo tempo como dinheiro e como combustível mágico — e é essa coincidência que
 organiza toda a economia e boa parte da política do mundo.[^1]
 
 ## Como funciona
 
-Um Mestre Gu opera com uma reserva de energia interna chamada **essência primeva**, que
+Um Mestre Gu opera com uma reserva de energia interna chamada **essência primordial**, que
 gasta ao usar seus Gu e ao cultivar. Essa reserva se recupera sozinha, mas devagar. A pedra
-primeva é a solução: ela **contém essência primeva em forma sólida** e pode ser drenada
+primordial é a solução: ela **contém essência primordial em forma sólida** e pode ser drenada
 diretamente para dentro do corpo.
 
 Ao mesmo tempo, ela é a moeda universal do mundo mortal. Compra-se pão, hospedagem, Gu,
-informação e vidas com pedras primevas.
+informação e vidas com pedras primordiais.
 
 Essas duas funções não são separadas nem convertíveis uma na outra: **é literalmente o
 mesmo objeto**. Quando um Mestre Gu paga uma conta, está entregando o combustível com que
@@ -43,7 +44,7 @@ alguém olhando as pedras dele.
 
 ## De onde vêm
 
-Pedras primevas não são mineradas nem cunhadas: são **produzidas** por **nascentes
+Pedras primordiais não são mineradas nem cunhadas: são **produzidas** por **nascentes
 espirituais** (*spirit springs*), fontes que as geram continuamente ao longo de séculos.
 
 Isso faz da nascente espiritual o ativo mais importante do mundo mortal, e explica a
@@ -82,7 +83,7 @@ Duas notas técnicas com consequências grandes:
 > são preços de Mestre Gu**, e o mortal comum simplesmente **não participa da economia
 > monetária**. Ele não compra chá em casa de chá, não assiste a lutas de arena, não aluga
 > imóvel e não entra em cidade grande. Ele vive de lavoura, troca e serviço dentro de um
-> clã que o abriga, e a pedra primeva passa pela vida dele umas poucas vezes — em impostos,
+> clã que o abriga, e a pedra primordial passa pela vida dele umas poucas vezes — em impostos,
 > em multas e no dia da cerimônia de despertar do filho.
 >
 > A coluna **Público** nas tabelas desta nota diz, para cada linha, de qual das duas
@@ -223,7 +224,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   a intuição econômica que um jogador traz de outros cenários se desfaz nesse detalhe.
 - **Escravos são baratos — e o número documentado é um piso, não uma média.** A obra
   registra uma cena em que **cinco homens mortais escravizados custam cerca de meia pedra
-  primeva**: um décimo de pedra por pessoa, o mesmo que um javali vale inteiro. É a
+  primordial**: um décimo de pedra por pessoa, o mesmo que um javali vale inteiro. É a
   estatística que mede, com mais crueldade que qualquer discurso, o valor da vida mortal
   neste mundo. Mas ela precisa de uma ressalva antes de virar regra de mesa — ver o aviso
   abaixo.
@@ -249,7 +250,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 - **Crises monetizam-se sozinhas.** Quando uma emergência força todo mundo a cultivar ao
   mesmo tempo, as pedras somem de circulação — a demanda por combustível engole a oferta de
   moeda. As organizações então emitem **pontos de mérito** como substituto, com câmbio
-  oficial (uma pedra primeva valendo algumas dezenas de pontos), quadro público de saldos e
+  oficial (uma pedra primordial valendo algumas dezenas de pontos), quadro público de saldos e
   conversão em bens. Dentro do mundo, a comparação com papel-moeda de guerra é feita
   explicitamente, inclusive a previsão de depressão no pós-crise.
 - **Espólio é institucionalizado.** Nas economias de guerra, os Gu recolhidos de mortos
@@ -259,7 +260,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   própria energia interna dá acesso a andares, descontos crescentes por rank e até
   gratuidade no topo. O dinheiro que você **é** vale tanto quanto o dinheiro que você tem.
 - **Acima do rank 6, esta moeda deixa de importar.** Um cultivador imortal pode ter bilhões
-  de pedras primevas e ainda assim não comprar nada de que precise, porque a camada imortal
+  de pedras primordiais e ainda assim não comprar nada de que precise, porque a camada imortal
   usa outra moeda inteiramente. Ver [[Economia Imortal]].
 
 > [!example] Caso mecânico
@@ -281,6 +282,6 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 - [[Vida Cotidiana]] — o que essas quantias significam para quem não cultiva.
 
 [^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para
-    *primeval stone*. Adotamos "pedra primeva" nesta base por consistência com "essência
-    primeva", mas os dois termos designam exatamente o mesmo objeto — vale conhecer os dois
+    *primordiall stone*. Adotamos "pedra primordial" nesta base por consistência com "essência
+    primordial", mas os dois termos designam exatamente o mesmo objeto — vale conhecer os dois
     se a designer for consultar a tradução em português.

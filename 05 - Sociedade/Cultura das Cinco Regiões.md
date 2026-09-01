@@ -181,7 +181,7 @@ prestígio, não em direito**.
 - **Fronteiras decididas por duelo.** Super forças da região resolvem limites territoriais
   por **cartas de desafio** e combate entre líderes — e rivais escolhem deliberadamente os
   momentos de fraqueza do adversário, como um período de luto, para forçar o desafio.
-- **Cobrança de entrada nas cidades:** taxas por pessoa, pagas em pedras primevas. Um
+- **Cobrança de entrada nas cidades:** taxas por pessoa, pagas em pedras primordiais. Um
   detalhe pequeno que diz muito: a cidade é um serviço, e o acesso é mercadoria.
 - **Precedente sombrio — `[Clã Extinto]`:** um dos grandes clãs da região foi aniquilado
   por completo em algum momento da história, e seu território virou um deserto-cemitério. É

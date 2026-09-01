@@ -55,7 +55,7 @@ do tempo de um grau B, e o **quádruplo** do tempo de um grau A, para avançar u
 Isso se soma a um segundo efeito: a recuperação natural de essência é proporcional ao grau.
 Um grau C repõe cerca de 4% do próprio total por hora; um grau A, cerca de 8%. Ou seja, o
 talentoso não só progride mais rápido — ele também **gasta menos dinheiro** para chegar ao
-mesmo lugar, porque depende menos de comprar essência em [[Pedras Primevas]]. A
+mesmo lugar, porque depende menos de comprar essência em [[Pedras Primordiais]]. A
 desigualdade de talento neste mundo é composta.
 
 ### A régua de expectativa dos clãs
@@ -94,7 +94,7 @@ cultivador nessa exata situação, travado no mesmo ponto por mais de cem anos a
 um Gu capaz de elevar a aptidão.
 
 Os pisos dos saltos seguintes (2→3, 3→4, 4→5) nunca são declarados. Um único dado indireto
-existe: um Mar Primevo a 90% de plenitude **não** bastou para uma ruptura 3→4, que precisou
+existe: um Mar Primordial a 90% de plenitude **não** bastou para uma ruptura 3→4, que precisou
 de um aporte externo de essência de rank superior.
 
 > [!note] Para o design
@@ -108,13 +108,13 @@ de um aporte externo de essência de rank superior.
 
 Se tempo não resolve tudo, dinheiro resolve parte. Três alavancas aparecem na obra.
 
-**Pedras primevas.** São simultaneamente a moeda do mundo e uma fonte direta de essência.
-Absorvê-las repõe o Mar Primevo muito mais rápido que a recuperação natural — mas **nunca
+**Pedras primordiais.** São simultaneamente a moeda do mundo e uma fonte direta de essência.
+Absorvê-las repõe o Mar Primordial muito mais rápido que a recuperação natural — mas **nunca
 acima do teto fixado pela aptidão**. Elas aceleram o preenchimento; não elevam o limite.
 
 **Relic Gu.** Consumíveis, um para cada rank, que elevam um estágio *dentro* do rank
 correspondente. São o item de aceleração por excelência, e são caros: os de rank 2 custam na
-faixa de 3.000 a 8.000 pedras primevas; os de rank 3, de 30.000 a 50.000. Três limites
+faixa de 3.000 a 8.000 pedras primordiais; os de rank 3, de 30.000 a 50.000. Três limites
 importam: eles **nunca** cruzam a barreira de rank; **sem aptidão suficiente não fazem
 absolutamente nada**, por mais que se consuma; e há um custo oculto reconhecido no mundo —
 depender deles dificulta os grandes reinos futuros, e ganhar patamar sem experiência
@@ -127,7 +127,7 @@ criminosos — por projeto.
 
 ### Quanto custa deixar o relógio andando
 
-A obra dá o custo de vida cotidiano de um Mestre Gu de rank baixo: **3 a 5 pedras primevas
+A obra dá o custo de vida cotidiano de um Mestre Gu de rank baixo: **3 a 5 pedras primordiais
 por dia**, somando cultivo, alimentação dos Gu e despesas gerais. Um praticante concreto
 cita um gasto de 4 pedras por dia no seu estágio.
 
@@ -166,7 +166,7 @@ tanto: certos processos **reiniciam do zero se forem interrompidos**. No avanço
 documentado, atacar a parede de cristal exige manter a pressão contínua — uma pausa de
 cerca de quinze minutos já cicatriza a parede e apaga o progresso. Aquele avanço específico
 levou **quatro dias e três noites** ininterruptos, consumiu boa parte das economias do
-praticante em pedras primevas e derrubou sua essência de 44% para 13%.
+praticante em pedras primordiais e derrubou sua essência de 44% para 13%.
 
 Reclusões longas produzem os saltos que o mundo comenta. A obra registra:
 
@@ -214,7 +214,7 @@ Reclusão exige logística, e a obra deixa isso explícito por acumulação:
    um recluso consegue manter. Após fusões, os intervalos entre refeições aumentam (um Gu de
    rank 2 come a cada meio mês, um de rank 3 a cada mês ou mais), o que torna Gu de rank mais
    alto **mais fáceis de sustentar em reclusão longa**, ainda que mais caros por refeição.
-2. **Reserva de pedras primevas** suficiente para o consumo do período inteiro, mais o que
+2. **Reserva de pedras primordiais** suficiente para o consumo do período inteiro, mais o que
    for queimado no processo em si.
 3. **Segurança física** — um local guardado. A obra mostra reclusões dentro de sedes de clã,
    em cavernas isoladas, em instalações dedicadas e, no nível imortal, dentro de territórios
@@ -227,7 +227,7 @@ Reclusão exige logística, e a obra deixa isso explícito por acumulação:
 > [!example] Caso mecânico
 > Um Mestre Gu com aptidão insuficiente para o piso de 55% forçou o avanço de rank do modo
 > mais bruto disponível: atacou a parede da abertura em ritmo lento e sustentado enquanto
-> absorvia pedras primevas seguradas na mão, mantendo a taxa de reposição apenas um pouco
+> absorvia pedras primordiais seguradas na mão, mantendo a taxa de reposição apenas um pouco
 > acima da taxa de cicatrização da parede. Quatro dias e três noites sem parar, com pausas
 > nunca maiores que quinze minutos, sob o disfarce de uma reclusão anunciada. Custou quase
 > toda a sua poupança. É o modelo exato de uma cena de "avanço como provação": recurso
@@ -265,7 +265,7 @@ normal neste mundo, não injustiça narrativa.
 
 > [!question] Lacunas conhecidas
 > A obra não fornece: tempo por estágio para ranks 4 e 5; pisos percentuais de ruptura além
-> do 55% do salto 1→2; escala de consumo diário de pedras primevas por rank; e duração
+> do 55% do salto 1→2; escala de consumo diário de pedras primordiais por rank; e duração
 > típica de reclusão por objetivo. Nada disso deve ser preenchido citando a obra — se a
 > mesa precisar, são decisões de design.
 
@@ -273,7 +273,7 @@ normal neste mundo, não injustiça narrativa.
 
 - [[Ranks e Avanço]] — a mecânica dos dois eixos e os métodos de forçar a barreira.
 - [[Aptidão]] — o multiplicador de tempo e o teto que o tempo não vence.
-- [[Pedras Primevas]] — a moeda que é também combustível de cultivo.
+- [[Pedras Primordiais]] — a moeda que é também combustível de cultivo.
 - [[Como um Mestre Gu Ganha a Vida]] — a renda que a reclusão interrompe.
 - [[Mercados e Leilões]] — onde se compram os itens de aceleração.
 - [[Eventos e Instituições Jogáveis]] — o calendário do mundo que continua correndo enquanto

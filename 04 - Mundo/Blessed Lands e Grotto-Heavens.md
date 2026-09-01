@@ -93,7 +93,7 @@ Para escala: a dimensão mais extraordinária documentada na obra passa de **335
 > [!warning] Duas coisas diferentes com o mesmo nome — e é disso que depende a economia inteira
 > "Essência imortal" designa **dois objetos distintos**, e confundi-los torna impossível
 > escrever o preço de qualquer coisa acima do rank 5. A distinção é exatamente a mesma que o
-> mundo mortal já faz entre a essência do próprio corpo e a [[Pedras Primevas|pedra primeva]]
+> mundo mortal já faz entre a essência do próprio corpo e a [[Pedras Primordiais|pedra primordial]]
 > que circula no mercado:
 >
 > | | **Conta de essência imortal** | **Pedra de essência imortal** |
@@ -105,7 +105,7 @@ Para escala: a dimensão mais extraordinária documentada na obra passa de **335
 > O elo entre as duas é uma **conversão**, e é ela que resolve o aparente paradoxo: quem
 > recebe uma pedra a converte em contas *suas*. Ou seja, ninguém nunca gasta a essência de
 > outra pessoa — o que circula é o cristal neutro, e cada um o transforma no próprio
-> combustível ao recebê-lo. É o mesmo truque que a [[Pedras Primevas|pedra primeva]] faz no
+> combustível ao recebê-lo. É o mesmo truque que a [[Pedras Primordiais|pedra primordial]] faz no
 > mundo mortal, um andar acima.
 >
 > O detalhe que torna essa economia brutal: **quantas contas uma pedra rende depende do rank

@@ -25,14 +25,14 @@ por três motivos simultâneos:
 1. **Os Gu comem.** Cada Gu que ele carrega tem uma dieta própria — um se alimenta de
    luz da lua, outro de sangue, outro de determinado inseto raro. Gu não alimentado
    enfraquece e morre, e Gu morto é dinheiro perdido.
-2. **Cultivar consome dinheiro literalmente.** As [[Pedras Primevas|pedras primevas]]
+2. **Cultivar consome dinheiro literalmente.** As [[Pedras Primordiais|pedras primordiais]]
    são ao mesmo tempo a moeda do mundo e a fonte direta de energia de cultivo. Progredir
    é queimar dinheiro.
 3. **A conta cresce com o rank.** Ficar mais forte aumenta o consumo, então cada degrau
    de poder é também um degrau de despesa. Não existe "aposentadoria" de Mestre Gu: quem
    para de ganhar, regride.
 
-Como referência prática: um Mestre Gu de rank baixo gasta de três a cinco pedras primevas
+Como referência prática: um Mestre Gu de rank baixo gasta de três a cinco pedras primordiais
 por dia. Uma família mortal de três pessoas vive cinco meses com cinco pedras. Ou seja,
 **um único dia de vida de um Mestre Gu iniciante custa mais que um mês de uma família
 inteira** — e ele ainda é considerado pobre.
@@ -96,7 +96,7 @@ internas; gasta-se em coisas que o mercado aberto simplesmente não vende:
 
 Existe um quadro público de pontuação com o ranking de todos os membros — pressão social
 embutida no sistema. Em tempos de guerra, essa moeda interna vira a moeda **real**: as
-pedras primevas somem de circulação porque todo mundo as está queimando para cultivar, e
+pedras primordiais somem de circulação porque todo mundo as está queimando para cultivar, e
 as organizações emitem pontos de mérito como papel-moeda de guerra, com direito a
 inflação e depressão no pós-crise.
 
@@ -269,14 +269,14 @@ que a torna utilizável: **quem** consegue aquilo, **quanto tempo** custa e, por
 compensa. Sem elas os números não dizem nada — "milhares por luta de arena" é ótimo para um
 rank 3 e suicídio para um rank 1.
 
-| Fonte de renda | Faixa típica (pedras primevas) | Rank típico de quem executa | Tempo gasto |
+| Fonte de renda | Faixa típica (pedras primordiais) | Rank típico de quem executa | Tempo gasto |
 |---|---|---|---|
 | Subsídio de estudante de academia | 3 por semana | pré-rank 1 (aluno de 15 anos) | passivo |
 | Missão simples de coleta | 2 a 6 | rank 1 | dias |
 | Aluguel de imóvel (mensal, como locador) | 8 a 25 | qualquer; exige capital prévio | passivo |
 | Cargo de monitor de turma | 10 por semana (vice: 5) | pré-rank 1 | passivo, com dever |
 | Prêmio por marco na academia | 20 a 30 | pré-rank 1 | por conquista |
-| Venda de consumível cultivado (por unidade) | ver [[Pedras Primevas]] | rank 1–2, ou mortal a serviço de um clã | semanas de cultivo |
+| Venda de consumível cultivado (por unidade) | ver [[Pedras Primordiais]] | rank 1–2, ou mortal a serviço de um clã | semanas de cultivo |
 | Salário de ancião de clã | 100 por semana (300 em crise) | **rank 3** — é o cargo | passivo, vitalício |
 | Recompensa por afugentar um invasor de rank alto | 500 | rank 3–4, ou um grupo de cinco coordenado | um confronto |
 | Mandado de captura (informação / morte) | 1.000 / 5.000 a 8.000 | rank 2–3 para informação; rank 4 para execução | semanas a meses de caçada |
@@ -304,7 +304,7 @@ partida de balanceamento, não como cânone.
 
 Compare com o lado da despesa: custo de vida diário de 3 a 5 pedras; reserva mínima de um
 itinerante independente por volta de 10.000. Os preços de Gu por rank e todos os demais
-valores estão em [[Pedras Primevas]], que é a nota-fonte de preços — esta tabela cobre
+valores estão em [[Pedras Primordiais]], que é a nota-fonte de preços — esta tabela cobre
 apenas o lado da **renda**, e onde as duas divergirem, a de lá vence.
 
 ## A camada imortal: o que muda no rank 6
@@ -360,7 +360,7 @@ Duas rotas continuam abertas e são as mais parecidas com "trabalho":
 
 ## Relações
 
-- [[Pedras Primevas]] — a unidade em que tudo acima é medido.
+- [[Pedras Primordiais]] — a unidade em que tudo acima é medido.
 - [[Mercados e Leilões]] — onde o produto do trabalho vira dinheiro.
 - [[Economia Imortal]] — o mesmo problema, duas ordens de grandeza acima.
 - [[Eventos e Instituições Jogáveis]] — as oportunidades sazonais que complementam a

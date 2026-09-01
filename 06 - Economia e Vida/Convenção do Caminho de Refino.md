@@ -53,7 +53,7 @@ que alinhamento não importa. Ver [[Caminho Correto e Caminho Demoníaco]].
 
 ### Inscrição
 
-Paga-se **100 pedras primevas** em uma entre centenas de sedes regionais espalhadas pelo
+Paga-se **100 pedras primordiais** em uma entre centenas de sedes regionais espalhadas pelo
 mundo, todas ligadas às grandes seitas organizadoras. É um preço deliberadamente baixo — a
 Convenção quer volume.
 
@@ -263,7 +263,7 @@ de campeonato.
 >   completa só aparece depois, e é a que está registrada acima;
 > - **se as edições seguem exatamente o mesmo formato** a cada cem anos. As fontes descrevem
 >   uma edição em detalhe e confirmam que edições posteriores mantêm a inscrição de 100
->   pedras primevas e as vagas automáticas por colocação prévia, mas não confirmam que todas
+>   pedras primordiais e as vagas automáticas por colocação prévia, mas não confirmam que todas
 >   as regras se repetem.
 
 ## O detalhe que faz o evento funcionar
@@ -291,7 +291,7 @@ evento em que ninguém sabe com certeza contra quem está competindo.**
 
 O evento gera negócios próprios ao redor:
 
-- **Corretores de informação** vendem abertamente, por pedras primevas, os enunciados de
+- **Corretores de informação** vendem abertamente, por pedras primordiais, os enunciados de
   competições passadas, previsões e rankings. É um mercado legítimo, não um contrabando.
   Existe registro de uma seita inteira de primeiro escalão construída do zero em cerca de
   cem anos apenas comercializando informação — e até as maiores seitas compram dela.
@@ -371,7 +371,7 @@ edição** conforme quem apareceu.
   centenário.
 - [[Mercados e Leilões]] — o mercado de informação e de materiais que gira em torno do
   evento.
-- [[Pedras Primevas]] — a moeda da inscrição e do mercado de enunciados.
+- [[Pedras Primordiais]] — a moeda da inscrição e do mercado de enunciados.
 - [[Heranças e Provações]] — a herança antiga que dá origem aos dao marks de sucesso.
 - [[Caminho Correto e Caminho Demoníaco]] — por que a trégua universal é excepcional.
 - [[Economia Imortal]] — a escala de custo do refino de Gu Imortais mencionada aqui.

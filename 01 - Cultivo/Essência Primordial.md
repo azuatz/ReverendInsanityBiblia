@@ -3,6 +3,7 @@ tags:
   - cultivo/mortal
   - cultivo/essencia
 aliases:
+  - Essência Primeva
   - Primeval Essence
   - Essência primordial
   - Essência Imortal
@@ -11,27 +12,27 @@ fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap
 conhecimento: comum
 ---
 
-# Essência Primeva
+# Essência Primordial
 
-**Em uma frase:** a ==essência primeva (primeval essence)== é a energia pessoal de um Mestre Gu — o combustível líquido que enche o Mar Primevo da sua [[Abertura|abertura]] e que ele gasta para ativar, refinar e alimentar seus Gu.[^1]
+**Em uma frase:** a ==essência primordial (primordiall essence)== é a energia pessoal de um Mestre Gu — o combustível líquido que enche o Mar Primordial da sua [[Abertura|abertura]] e que ele gasta para ativar, refinar e alimentar seus Gu.[^1]
 
 ## Como funciona
 
-Cada Mestre Gu tem uma essência única. A obra é enfática: não existem duas essências primevas idênticas, e essa singularidade tem consequências mecânicas reais — energia de outra pessoa não é intercambiável, é contaminante.
+Cada Mestre Gu tem uma essência única. A obra é enfática: não existem duas essências primordiais idênticas, e essa singularidade tem consequências mecânicas reais — energia de outra pessoa não é intercambiável, é contaminante.
 
-O gasto é contado em **porcentagem do Mar Primevo**, nunca em pontos absolutos. Uma lâmina de luar custa 10% da reserva; um escudo custa outros tantos. É por isso que a [[Aptidão|aptidão]] importa tanto: ela define quanto é o total de que essa porcentagem é tirada.
+O gasto é contado em **porcentagem do Mar Primordial**, nunca em pontos absolutos. Uma lâmina de luar custa 10% da reserva; um escudo custa outros tantos. É por isso que a [[Aptidão|aptidão]] importa tanto: ela define quanto é o total de que essa porcentagem é tirada.
 
-A reposição vem de duas fontes. A **recuperação natural**, proporcional ao grau de aptidão — cerca de 4% da reserva por hora para um grau C, cerca de 8% para um grau A — e que fica progressivamente mais lenta e mais cara conforme o rank sobe, porque a energia que precisa ser produzida é de qualidade maior. E a **absorção de [[Pedras Primevas|pedras primevas]]**, muito mais rápida, mas limitada pelo mesmo teto de capacidade: pedras enchem depressa, não enchem além do limite. Absorver pedras **durante** o combate é possível e quase suicida, porque exige dividir a atenção; a prática real é recarregar em pausas táticas.
+A reposição vem de duas fontes. A **recuperação natural**, proporcional ao grau de aptidão — cerca de 4% da reserva por hora para um grau C, cerca de 8% para um grau A — e que fica progressivamente mais lenta e mais cara conforme o rank sobe, porque a energia que precisa ser produzida é de qualidade maior. E a **absorção de [[Pedras Primordiais|pedras primordiais]]**, muito mais rápida, mas limitada pelo mesmo teto de capacidade: pedras enchem depressa, não enchem além do limite. Absorver pedras **durante** o combate é possível e quase suicida, porque exige dividir a atenção; a prática real é recarregar em pausas táticas.
 
 ## Os dois eixos: densidade e qualidade
 
-Este é o coração conceitual da nota, e o ponto onde é mais fácil errar ao adaptar o sistema. A essência primeva melhora de **duas maneiras independentes**, que não se somam nem se convertem uma na outra.
+Este é o coração conceitual da nota, e o ponto onde é mais fácil errar ao adaptar o sistema. A essência primordial melhora de **duas maneiras independentes**, que não se somam nem se convertem uma na outra.
 
 **Eixo 1 — densidade, por estágio (o "pequeno reino").** A cada um dos quatro estágios dentro de um rank, a essência **dobra de eficiência**. O mesmo golpe passa a custar metade. Aquela lâmina de luar de 10% no estágio inicial custa 5% no médio, 2,5% no superior e 1,25% no pico. Multiplicador acumulado ao longo de um rank inteiro: **×8**.
 
 **Eixo 2 — qualidade, por rank (o "grande reino").** A cada rank, a essência muda de cor e fica **dez vezes** mais potente. Uma porção de essência de rank 2 equivale a dez porções de rank 1; uma de rank 3 equivale a dez de rank 2, portanto cem de rank 1. Acumulado do rank 1 ao rank 3: **×100**.
 
-**O custo de conversão é uma terceira coisa, e não deve ser confundido com potência.** Refinar a própria essência para o estágio acima custa **4 para 1**: vinte por cento de essência do estágio inicial produzem cinco por cento de essência do estágio médio. Perde-se 75% do volume e ganha-se qualidade. Existe um Gu especializado nessa destilação (a linhagem do Verme do Licor), e o resultado é visível: a essência mais densa afunda e forma camadas dentro do Mar Primevo.
+**O custo de conversão é uma terceira coisa, e não deve ser confundido com potência.** Refinar a própria essência para o estágio acima custa **4 para 1**: vinte por cento de essência do estágio inicial produzem cinco por cento de essência do estágio médio. Perde-se 75% do volume e ganha-se qualidade. Existe um Gu especializado nessa destilação (a linhagem do Verme do Licor), e o resultado é visível: a essência mais densa afunda e forma camadas dentro do Mar Primordial.
 
 > [!warning] A armadilha de conversão
 > Quantidade armazenada (aptidão, medida em % da abertura) e qualidade da essência (densidade e rank) são escalas **ortogonais**. Um grau A rank 1 tem muito mais essência que um grau D rank 1 — mas a essência dos dois é igualmente verde-cobre, com exatamente a mesma potência por gota. Somar os dois eixos numa única "estatística de poder" é o erro mais fácil de cometer ao converter este sistema para regras de jogo, e destrói justamente o que ele tem de mais interessante.
@@ -80,14 +81,14 @@ A diferença é tangível na prática, não apenas cosmética: uma lâmina dispa
 ## A camada oculta
 
 > [!warning] Conhecimento de mestre, não de jogador
-> Duas revelações tardias reorganizam o sentido de tudo isto, e nenhum personagem comum as conhece. A primeira: **a essência primeva contém a vontade humana de quem a gerou** — a contaminação por energia alheia não é só química, é de vontade. A segunda: **as pedras primevas carregam uma fração da vontade do céu**, que influencia sutilmente os pensamentos de quem as absorve, e isso é descrito explicitamente como um dos métodos pelos quais o céu controla os cultivadores. A moeda universal do mundo, que todo personagem usa todo dia para recuperar recursos, é também um canal de propaganda do antagonista cósmico. Um mestre pode narrar isso como um deslize de humor ou uma inclinação moral que o jogador não escolheu — e nunca explicar por quê.
+> Duas revelações tardias reorganizam o sentido de tudo isto, e nenhum personagem comum as conhece. A primeira: **a essência primordial contém a vontade humana de quem a gerou** — a contaminação por energia alheia não é só química, é de vontade. A segunda: **as pedras primordiais carregam uma fração da vontade do céu**, que influencia sutilmente os pensamentos de quem as absorve, e isso é descrito explicitamente como um dos métodos pelos quais o céu controla os cultivadores. A moeda universal do mundo, que todo personagem usa todo dia para recuperar recursos, é também um canal de propaganda do antagonista cósmico. Um mestre pode narrar isso como um deslize de humor ou uma inclinação moral que o jogador não escolheu — e nunca explicar por quê.
 
 ## Relações
 
 - [[Abertura]] — onde a essência vive.
 - [[Aptidão]] — quanto cabe e com que velocidade repõe.
 - [[Ranks e Avanço]] — o que determina cor e potência.
-- [[Pedras Primevas]] — a fonte externa.
+- [[Pedras Primordiais]] — a fonte externa.
 - [[Ascensão Imortal]] — onde a essência finita dá lugar à essência imortal.
 
-[^1]: A tradução brasileira da obra alterna entre "essência primordial" e "essência primitiva" para o mesmo conceito, e entre "mar primordial" e "mar primitivo" para o Mar Primevo. São inconsistências de tradução, não distinções de significado.
+[^1]: A tradução brasileira da obra alterna entre "essência primordial" e "essência primitiva" para o mesmo conceito, e entre "mar primordial" e "mar primitivo" para o Mar Primordial. São inconsistências de tradução, não distinções de significado.

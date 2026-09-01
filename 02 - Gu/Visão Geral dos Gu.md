@@ -71,7 +71,7 @@ notas desta pasta.
    do ambiente. Depois de refinado, ele perde isso para sempre e passa a depender
    inteiramente do dono. A conveniência do dono é comprada com dependência total.
 5. **Usar gasta essência.** Todo acionamento consome a energia interna do Mestre
-   ([[Essência Primeva]]). Alguns Gu são consumíveis e se dissipam depois de um, dois ou
+   ([[Essência Primordial]]). Alguns Gu são consumíveis e se dissipam depois de um, dois ou
    três usos.
 6. **Existe um teto de quantos Gu se carrega** — não por regra arbitrária, mas por
    economia: o custo de alimentar e acionar. O teto sobe com a carreira, de dois ou três
@@ -188,6 +188,6 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 ## Relações
 
 - [[Visão Geral dos Paths]] — como os Gu se organizam em famílias temáticas de cultivo.
-- [[Essência Primeva]] — a energia que aciona tudo.
+- [[Essência Primordial]] — a energia que aciona tudo.
 - [[Ranks e Avanço|Ranks e Estágios de Cultivo]] — a escala de 1 a 9 que Gu e Mestres compartilham.
 - [[Catálogo de Gu]] — a lista dos Gu documentados.

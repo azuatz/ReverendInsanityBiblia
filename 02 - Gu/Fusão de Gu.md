@@ -65,14 +65,14 @@ de refinador: é intimidade com aquelas duas criaturas.
 ## Como é executado
 
 Os Gu saem da abertura do Mestre e flutuam. Ao comando mental, colidem e formam uma esfera
-de luz branca. O usuário então **arremessa pedras primevas para dentro da esfera** — elas se
+de luz branca. O usuário então **arremessa pedras primordiais para dentro da esfera** — elas se
 convertem em essência pura, deixando um pó residual — até que a esfera atinja o tamanho
 certo e se dissipe, revelando o Gu novo.
 
 Existem variantes multi-etapa mais elaboradas. Uma fusão documentada exigia mergulhar os
 componentes num pote com cada um de quatro vinhos diferentes — doce, picante, azedo e amargo
 —, gastando cerca de cem pedras por vinho até a esfera encolher ao tamanho de um punho,
-trocando o vinho e repetindo. Total: mais de quatrocentas pedras primevas para um Gu de
+trocando o vinho e repetindo. Total: mais de quatrocentas pedras primordiais para um Gu de
 nível 2.
 
 Catalisadores fora da receita padrão podem elevar a taxa. Uma presa de uma fera específica
@@ -109,7 +109,7 @@ Três desfechos possíveis para os Gu envolvidos:
    recuperarem, o que leva dias.
 3. **Morrem** — e a probabilidade disso cresce com o nível-alvo.
 
-**As pedras primevas se perdem em qualquer um dos três casos.** É a parte não-negociável do
+**As pedras primordiais se perdem em qualquer um dos três casos.** É a parte não-negociável do
 custo: você paga sempre, e às vezes também perde os bichos.
 
 Uma exceção crucial: o **[[Gu Vital]] nunca morre numa fusão fracassada**. No pior caso fica

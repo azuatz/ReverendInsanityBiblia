@@ -196,7 +196,7 @@ A partir daí, entregar bens em troca da vida é comportamento normal e negociá
 
 - Cobrar por resgate em combate é **tecnicamente permitido** — não há regra de aliança que o
   proíba — embora seja socialmente malvisto. Há um caso registrado de alguém cobrando
-  abertamente um Gu mais setecentas pedras primevas para salvar sete vidas cercadas.
+  abertamente um Gu mais setecentas pedras primordiais para salvar sete vidas cercadas.
 - Um ultimato de "submeta-se ou morra" funciona muito melhor quando alguém oferece ao coagido
   uma **saída honrosa** — uma narrativa pública que lhe permita ceder sem perder a reputação.
   Numa sociedade de honra, o roteiro de resgate da imagem é parte da coerção.

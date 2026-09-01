@@ -22,7 +22,7 @@ simultaneamente a hierarquia militar, o sistema de heranças, o critério de cid
 Na maior parte do mundo mortal, especialmente na Fronteira Sul, a unidade política básica
 não é a cidade nem o reino: é o clã. Um clã ocupa um vilarejo ou uma montanha, é dono da
 terra e — o que de fato importa — é dono de uma **nascente espiritual**, a fonte que
-produz continuamente as [[Pedras Primevas|pedras primevas]] com que se compra e se
+produz continuamente as [[Pedras Primordiais|pedras primordiais]] com que se compra e se
 cultiva. Sem nascente, um clã definha em uma geração.
 
 Todo membro nasce dentro dessa estrutura, é testado na adolescência, recebe (ou não)
@@ -88,7 +88,7 @@ anciãos é tratada como "assunto interno entre iguais", em que o coletivo não 
 Os privilégios do cargo são tabelados e valem como referência de padrão de vida da elite
 mortal do mundo:
 
-- cerca de cem pedras primevas por semana (o triplo em tempos de crise);
+- cerca de cem pedras primordiais por semana (o triplo em tempos de crise);
 - um Gu de rank 3 fornecido gratuitamente pelo clã;
 - acesso ao arquivo de receitas de rank 1 a 3;
 - direito a uma esposa e duas concubinas.
@@ -103,7 +103,7 @@ mesa:
 
 - recrutar anciãos indecisos para o próprio lado;
 - fraudar cerimônias e avaliações;
-- **dopar herdeiros** com transfusões de [[Essência Primeva|essência primeva]] — a energia
+- **dopar herdeiros** com transfusões de [[Essência Primordial|essência primordial]] — a energia
   interna que todo Mestre Gu produz e gasta para acionar seus Gu, o "combustível" do
   cultivo — antes de testes públicos;
 - absorver facções enfraquecidas, num movimento que se chama abertamente de repartir "o
@@ -164,7 +164,7 @@ princípio operante é a **compensação financeira**.
 
   > [!warning] Não existe uma multa só: existem categorias de mortal
   > É fácil ler a linha acima e a multa por ferir um cidadão comum registrada em
-  > [[Pedras Primevas]] como se fossem a mesma coisa, e elas não são — a diferença não está
+  > [[Pedras Primordiais]] como se fossem a mesma coisa, e elas não são — a diferença não está
   > no ato, está em **de quem é o mortal**. A obra nunca enuncia um código com essas
   > categorias — ela mostra multas avulsas, em cenas diferentes, sem explicar a diferença.
   > `inferido`: a leitura que concilia os dois valores é que a multa não indeniza a vítima
@@ -173,7 +173,7 @@ princípio operante é a **compensação financeira**.
   > matar servos do próprio clã seria destruir patrimônio interno, resolvido em conselho e
   > por isso mais barato. Se você adotar essa leitura na sua mesa, estará preenchendo uma
   > lacuna da obra, não seguindo uma regra dela. As categorias e os valores estão reunidos em
-  > [[Pedras Primevas]], que é a nota-fonte de preços desta pasta — esta aqui não repete
+  > [[Pedras Primordiais]], que é a nota-fonte de preços desta pasta — esta aqui não repete
   > números para não divergir dela.
 - **Existe uma "lei da necessidade":** sacrificar um companheiro para sobreviver sob
   risco de morte iminente não é crime — é apenas moralmente condenável.

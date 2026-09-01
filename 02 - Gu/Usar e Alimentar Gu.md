@@ -22,7 +22,7 @@ como sustentar uma amante**.
 
 ## O custo de acionar: essência
 
-Acionar um Gu consome [[Essência Primeva]], a energia interna que um Mestre Gu armazena na
+Acionar um Gu consome [[Essência Primordial]], a energia interna que um Mestre Gu armazena na
 própria abertura e regenera com o tempo. É o equivalente mais próximo de "mana" no sistema,
 com três diferenças importantes:
 
@@ -142,14 +142,14 @@ Não existe um limite mágico. Existe um limite **econômico**, e ele é apertad
 > tabela é a fonte;** as outras notas remetem a ela em vez de repetir um número. Se você
 > encontrar outro valor solto por aí, é resíduo antigo — vale este.
 
-| Perfil | Quantidade típica de Gu | Custo mensal aproximado em [[Pedras Primevas\|pedras primevas]] |
+| Perfil | Quantidade típica de Gu | Custo mensal aproximado em [[Pedras Primordiais\|pedras primordiais]] |
 |---|---|---|
 | Mestre comum de nível baixo (níveis 1–2) | **2 a 3** | cerca de **60 a 180** |
 | Mestre de nível 4 a 5 | **4 a 5** | ordens de grandeza acima — a refeição rareia, mas cada uma custa uma fortuna |
 | Veterano de nível 5, bem estabelecido | **até cerca de 7** | inviável sem território produtivo próprio |
 
 A coluna de custo sai de uma única âncora da obra: **um Gu comum de nível 2 custa cerca de
-uma a duas pedras primevas por dia** para manter. Três Gu desses, trinta dias, dá a faixa
+uma a duas pedras primordiais por dia** para manter. Três Gu desses, trinta dias, dá a faixa
 acima. Para os níveis 4 e 5 a obra não fornece número equivalente — o que ela fornece é a
 regra da curva ("nível maior, refeição mais rara e mais cara") e a constatação de que
 comprar ração no mercado deixa de ser sustentável. **O que aparece como faixa é da obra; a
@@ -180,8 +180,8 @@ um veterano é um lobo solitário viável. Se a mesa quiser manter a coesão do 
 altos, o motivo terá de ser político, não logístico.
 
 > [!example] Caso mecânico
-> O depósito de Gu de uma academia de clã consome mais de mil pedras primevas **por dia**
-> apenas em alimentação do estoque. A moeda-base do mundo mortal é a pedra primeva, e um Gu
+> O depósito de Gu de uma academia de clã consome mais de mil pedras primordiais **por dia**
+> apenas em alimentação do estoque. A moeda-base do mundo mortal é a pedra primordial, e um Gu
 > comum de nível 2 custa cerca de uma a duas pedras por dia para manter. Alimentar um
 > arsenal é, portanto, um item de orçamento institucional comparável ao soldo de um
 > exército — e explica por que clãs cobram pesado dos membros e por que perder um pomar
@@ -236,4 +236,4 @@ Para um Gu Imortal, alimentação deixa de ser despesa e vira **projeto de engen
 - [[Fusão de Gu]] — como a dieta muda quando o Gu evolui.
 - [[Gu Imortais]] — a alimentação como gargalo do topo do sistema.
 - [[Food Path]] — o caminho dedicado a resolver este problema.
-- [[Essência Primeva]] — a energia gasta em cada acionamento.
+- [[Essência Primordial]] — a energia gasta em cada acionamento.

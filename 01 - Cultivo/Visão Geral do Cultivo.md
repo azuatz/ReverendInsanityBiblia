@@ -15,7 +15,7 @@ conhecimento: comum
 
 # Visão Geral do Cultivo
 
-**Em uma frase:** neste mundo, ==cultivar== significa formar dentro do próprio corpo um órgão espiritual chamado [[Abertura|abertura]], enchê-lo de uma energia pessoal chamada [[Essência Primeva|essência primeva]] e usar essa energia para acionar criaturas mágicas vivas — os **Gu** — que fazem, cada uma, exatamente uma coisa impossível.
+**Em uma frase:** neste mundo, ==cultivar== significa formar dentro do próprio corpo um órgão espiritual chamado [[Abertura|abertura]], enchê-lo de uma energia pessoal chamada [[Essência Primordial|essência primordial]] e usar essa energia para acionar criaturas mágicas vivas — os **Gu** — que fazem, cada uma, exatamente uma coisa impossível.
 
 ## O esqueleto em seis linhas
 
@@ -25,7 +25,7 @@ guardar só isto, já consegue se localizar em qualquer outra nota do vault.
 
 > **[[Abertura|abertura]]** — o órgão que se ganha aos quinze anos, e sem o qual nada existe
 > → **[[Aptidão|aptidão]]** — quanto cabe dentro dele; o teto de tudo, medido uma vez só
-> → **[[Essência Primeva|essência primeva]]** — o combustível que enche a abertura
+> → **[[Essência Primordial|essência primordial]]** — o combustível que enche a abertura
 > → **Gu** — as criaturas vivas que a essência aciona; cada uma faz uma coisa
 > → **[[Ranks e Avanço|rank e estágio]]** — a escada de poder do mundo mortal, do 1 ao 5
 > → **[[Ascensão Imortal|ascensão]]** — a passagem para o rank 6, que muda a natureza de tudo
@@ -44,7 +44,7 @@ se encaixam.
 
 Comece por um ponto que é diferente da maioria das ficções de magia: **ninguém aqui lança feitiços**. Todo poder sobrenatural vem de um **Gu** (pronuncia-se "gu"; o termo não se traduz) — um verme, inseto ou criatura mágica viva, criada ou encontrada, que carrega em si um fragmento de lei do universo e produz um único efeito. Existe um Gu que corta com uma lâmina de luar, um que endurece a pele como bronze, um que registra imagem e som, um que empurra o tempo de uma pessoa para frente. Quem usa Gu é um ==Mestre Gu (Gu Master)==. O Gu é a ferramenta; o cultivador é a bateria, o estojo e a mão que aponta.
 
-Para ser essa bateria, é preciso ter uma **abertura**. Aos quinze anos, num ritual público chamado [[Abertura|Cerimônia do Despertar]], o corpo do jovem forma uma cavidade espiritual invisível logo abaixo do umbigo. Dentro dela existe um pequeno "mar" de energia líquida — a **essência primeva** — que é ao mesmo tempo a reserva de combustível da pessoa e o ambiente onde seus Gu vivem guardados. Quem sai da cerimônia sem abertura será um mortal comum pelo resto da vida, e essa é a maioria da população. Quem sai com abertura recebe também um número: sua [[Aptidão|aptidão]], o talento inato, medido de D (pior) a A (melhor) e expresso como a **porcentagem da abertura** que aquela pessoa consegue encher de essência. Esse número acompanha o personagem a vida inteira e é o teto silencioso de tudo o que ele poderá fazer.
+Para ser essa bateria, é preciso ter uma **abertura**. Aos quinze anos, num ritual público chamado [[Abertura|Cerimônia do Despertar]], o corpo do jovem forma uma cavidade espiritual invisível logo abaixo do umbigo. Dentro dela existe um pequeno "mar" de energia líquida — a **essência primordial** — que é ao mesmo tempo a reserva de combustível da pessoa e o ambiente onde seus Gu vivem guardados. Quem sai da cerimônia sem abertura será um mortal comum pelo resto da vida, e essa é a maioria da população. Quem sai com abertura recebe também um número: sua [[Aptidão|aptidão]], o talento inato, medido de D (pior) a A (melhor) e expresso como a **porcentagem da abertura** que aquela pessoa consegue encher de essência. Esse número acompanha o personagem a vida inteira e é o teto silencioso de tudo o que ele poderá fazer.
 
 Daí para frente, a progressão corre em **duas escadas simultâneas**. A escada pequena são os **estágios** dentro de um nível: inicial, médio, superior e pico. Subir de estágio é questão de tempo, disciplina e itens caros; a cada degrau a essência fica duas vezes mais densa, e o mesmo golpe passa a custar metade. A escada grande são os **ranks**, de 1 a 5 no mundo mortal. Subir de rank exige quebrar fisicamente a parede que sustenta a abertura, e a essência muda de cor e fica **dez vezes** mais potente. Um Mestre Gu rank 1 é um cidadão respeitável; um rank 3 é ancião de clã; um rank 5 é uma das poucas centenas de pessoas mais poderosas de um continente inteiro. Tudo isso está em [[Ranks e Avanço]].
 
@@ -63,7 +63,7 @@ No topo de tudo está o rank 9, o [[Tornar-se Venerável|Venerável]] — um por
 
 1. **Sem abertura não há cultivo.** A abertura nasce uma única vez, aos quinze anos, na [[Abertura|Cerimônia do Despertar]]. Destruí-la mata o Mestre Gu ou o transforma de forma irreversível. Ver [[Abertura]].
 2. **A aptidão é o teto de armazenamento, e por isso é uma trava de rank.** Ela fixa a porcentagem máxima de essência que a abertura comporta e a velocidade de reposição. Como romper a parede para subir de rank exige projetar de uma vez uma porcentagem mínima de essência, quem não alcança a porcentagem simplesmente não sobe — por mais séculos que cultive. Ver [[Aptidão]].
-3. **A essência primeva tem quantidade E qualidade, e as duas escalas são independentes.** A densidade dobra a cada estágio; a qualidade multiplica por dez a cada rank (confirmado até o rank 3; nos ranks 4 e 5 a obra descreve a diferença como "significativa" sem numerá-la — ver [[Essência Primeva]]). Um Gu só ativa se a essência atingir o patamar de *qualidade* exigido, não importa o volume acumulado.
+3. **A essência primordial tem quantidade E qualidade, e as duas escalas são independentes.** A densidade dobra a cada estágio; a qualidade multiplica por dez a cada rank (confirmado até o rank 3; nos ranks 4 e 5 a obra descreve a diferença como "significativa" sem numerá-la — ver [[Essência Primordial]]). Um Gu só ativa se a essência atingir o patamar de *qualidade* exigido, não importa o volume acumulado.
 4. **Um Mestre Gu só usa Gu de rank igual ou inferior ao seu.** Forçar um Gu acima do próprio rank destrói a abertura. A trava é real, mas é **porosa**: há cinco exceções documentadas, listadas em [[Ranks e Avanço#As exceções à trava de rank]], e é nelas que moram os personagens mais interessantes do mundo.
 5. **Do rank 1 ao 5, a energia é sempre finita.** Ficar sem essência em combate derruba a força de forma abrupta e total: um Mestre Gu de abertura vazia luta pior que um mortal comum. Só o rank 6 em diante tem energia sem fim.
 6. **A energia de outra pessoa contamina a abertura.** Essência alheia despejada na abertura entra em conflito com a nativa e impregna as paredes, sufocando o talento futuro — a menos que seja convertida por um Gu específico feito para isso, com perda proporcional à qualidade do vínculo afetivo entre doador e receptor.
@@ -87,10 +87,10 @@ Qualquer pessoa nascida neste mundo — inclusive mortais sem talento — cresce
 - Que existem Mestres Gu, que eles se formam aos quinze anos numa cerimônia, e que a maioria das pessoas não passa nela.
 - Que o talento é medido em graus de D a A, e que o grau define a carreira inteira de alguém. Um jovem grau A é notícia na região; um grau D é motivo de resignação familiar.
 - A escada de nove ranks e os quatro estágios de cada um, e o que cada rank significa socialmente: rank 1 é recém-formado, rank 2 é a tropa comum das organizações, rank 3 é ancião com autoridade, rank 4 é líder de clã, rank 5 é o topo do mundo mortal. Rank 6 é "imortal" e pertence ao território da lenda.
-- Que a essência primeva tem cor por rank — verde no rank 1, vermelho no 2, prateado no 3, dourado no 4, roxo no 5 — e que essa cor é prova pública de nível, sem precisar violar a intimidade de ninguém.
+- Que a essência primordial tem cor por rank — verde no rank 1, vermelho no 2, prateado no 3, dourado no 4, roxo no 5 — e que essa cor é prova pública de nível, sem precisar violar a intimidade de ninguém.
 - Que **inspecionar a abertura de outro Mestre Gu sem consentimento é o maior tabu social da profissão**, comparável a revistar alguém à força.
 - Que ficar sem essência em combate é a morte, e que se guarda sempre uma reserva.
-- Que existem [[Pedras Primevas|pedras primevas]] — a moeda universal, que também recarrega essência.
+- Que existem [[Pedras Primordiais|pedras primordiais]] — a moeda universal, que também recarrega essência.
 - Que viajar para outra região do mundo enfraquece a pessoa e, principalmente, os Gu que ela carrega.
 - Que tempo de vida não vem de graça com o poder: um cultivador poderoso e velho está morrendo do mesmo jeito, e itens que dão anos de vida são a coisa mais cobiçada que existe.
 - Que calamidades e tribulações atingem os poderosos, e que "grande talento atrai grande desgraça" é ditado popular, não superstição.
@@ -100,7 +100,7 @@ Qualquer pessoa nascida neste mundo — inclusive mortais sem talento — cresce
 Estes são fatos verdadeiros do mundo que os personagens normalmente **não** conhecem, ou conhecem errado. Alguns circulam entre anciãos e especialistas; outros são conhecidos por algumas dezenas de pessoas no planeta.
 
 - **Que a aptidão é fabricável.** No mundo, "existem Gu que mudam o talento" é boato de taverna. Na verdade há uma família inteira de métodos: itens raríssimos que elevam o grau, rituais demoníacos que convertem o sangue de parentes assassinados em talento permanente e, no fim da história, técnicas industriais capazes de **colher a aptidão de multidões de camponeses e concentrá-la num punhado de escolhidos**, ou de elevar clãs inteiros ao grau A sob o disfarce de um milagre religioso. A pergunta "de onde vem o talento dos prodígios deste clã?" tem resposta, e ela é desagradável.
-- **Que a moeda do mundo é um vetor de influência.** As pedras primevas que todo personagem carrega no bolso contêm uma fração da vontade do céu, e ela influencia sutilmente os pensamentos de quem as absorve. É descrito explicitamente como um dos métodos pelos quais o céu controla os cultivadores. Um mestre pode narrar isso como uma inclinação moral que o jogador nunca escolheu, e jamais explicar por quê.
+- **Que a moeda do mundo é um vetor de influência.** As pedras primordiais que todo personagem carrega no bolso contêm uma fração da vontade do céu, e ela influencia sutilmente os pensamentos de quem as absorve. É descrito explicitamente como um dos métodos pelos quais o céu controla os cultivadores. Um mestre pode narrar isso como uma inclinação moral que o jogador nunca escolheu, e jamais explicar por quê.
 - **Que toda calamidade e toda tribulação são a mesma substância.** Independentemente da forma que assumam — relâmpago, besta, nevasca, sinos —, são sempre fragmentos de lei celeste se disfarçando temporariamente de outra coisa para se manifestar. Por isso sobreviver a uma tribulação nunca dá poder *celeste*: dá poder de outras especialidades, convertido a partir do que o ataque gastou.
 - **Que a dificuldade das provações é dinâmica e reativa.** O céu ajusta a intensidade da próxima conforme o desempenho na anterior, aprende contramedidas contra golpes específicos entre uma e outra, e manipula o *momento* além da força. E existe uma terceira categoria de desastre além do raio e da fera: a **calamidade humana**, em que o céu influencia outras pessoas — inclusive gente poderosa, consciente e com motivos próprios genuínos — para atacar o alvo. Ninguém envolvido jamais descobre a causa raiz.
 - **Que tempo de vida é literalmente feito de lei celeste.** É isso que explica por que o item que dá anos de vida não pode ser fabricado por ninguém, nem pelos dez seres mais poderosos da história, e por que ele é uma das três travas com que o céu impede o surgimento de novos Veneráveis.
@@ -114,7 +114,7 @@ Estes são fatos verdadeiros do mundo que os personagens normalmente **não** co
 
 - [[Abertura]] — o órgão que torna tudo possível.
 - [[Aptidão]] — o teto que cada personagem carrega desde os quinze anos.
-- [[Essência Primeva]] — o combustível, com suas duas escalas.
+- [[Essência Primordial]] — o combustível, com suas duas escalas.
 - [[Ranks e Avanço]] — a escada mortal e os atalhos com preço.
 - [[Ascensão Imortal]] — a fronteira entre as duas metades do sistema.
 - [[Dao Marks]] — a moeda de poder do reino imortal.

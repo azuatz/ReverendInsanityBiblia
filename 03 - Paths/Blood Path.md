@@ -106,7 +106,7 @@ que não é dinheiro.
 > tem duas particularidades que provavelmente a explicam — o Gu era **demoníaco e roubado**,
 > isto é, não fora refinado pelo usuário e não estava vinculado a ele da forma normal; e o
 > caminho do sangue opera com **combustível alternativo** (sangue e vitalidade, não essência
-> primeva), o que muda quem paga a conta da ativação. Nenhuma das duas está enunciada pela
+> primordial), o que muda quem paga a conta da ativação. Nenhuma das duas está enunciada pela
 > obra como regra geral; são leituras nossas do caso.
 >
 > Para a mesa, o proveito é este: **a trava de rank é mais porosa do que o mundo admite em

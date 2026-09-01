@@ -64,8 +64,8 @@ Duas convenções valem para o documento inteiro:
 
 A ==aptidão== é o talento inato de cultivo, medido uma única vez na vida, aos 15
 anos, na [[Abertura|Cerimônia do Despertar]]. Ela se expressa como uma **porcentagem**: a
-fração da [[Abertura]] que a pessoa consegue encher de [[Essência Primeva|essência
-primeva]] — ou seja, o **teto de armazenamento** de energia dela. Não é a velocidade
+fração da [[Abertura]] que a pessoa consegue encher de [[Essência Primordial|essência
+primordial]] — ou seja, o **teto de armazenamento** de energia dela. Não é a velocidade
 com que enche: é o limite onde para de encher, mesmo havendo espaço sobrando.
 
 Leia a tabela da esquerda para a direita: o grau é a letra que o mundo usa para
@@ -104,7 +104,7 @@ Três observações práticas que a tabela não mostra sozinha:
   não é Mestre Gu, e permanecerá mortal comum a vida inteira.
 - **A recuperação de essência acompanha o grau.** Um grau C repõe cerca de 4% da
   própria reserva por hora; um grau A, cerca de 8%. Na prática, grau baixo gasta
-  muito mais [[Pedras Primevas]] para o mesmo progresso.
+  muito mais [[Pedras Primordiais]] para o mesmo progresso.
 
 A aptidão **não é imutável**, mas mudá-la exige métodos raros, caros e em geral
 sombrios — e ela também pode **cair**, por dano à abertura ou contaminação por
@@ -147,9 +147,9 @@ aptidão.
 
 ---
 
-## 3. Os dois eixos da essência primeva
+## 3. Os dois eixos da essência primordial
 
-A [[Essência Primeva|essência]] de um Mestre Gu tem **quantidade** e **qualidade**, e
+A [[Essência Primordial|essência]] de um Mestre Gu tem **quantidade** e **qualidade**, e
 as duas escalas são independentes. A quantidade é a aptidão (seção 1). A qualidade
 cresce em dois eixos separados, que nunca devem ser somados:
 
@@ -200,11 +200,11 @@ mantiver, seriam 1.000× e 10.000× — mas isso é `inferido`, não texto.
 
 ### Ranks imortais (6 a 9)
 
-A partir do rank 6 a substância **muda de categoria**: não é mais essência primeva,
+A partir do rank 6 a substância **muda de categoria**: não é mais essência primordial,
 é ==essência imortal==, um líquido esverdeado que a abertura do Imortal produz
 sozinha em "contas" (pérolas). A grande diferença não é de cor, é de escassez: do
 rank 1 ao 5, a essência é sempre finita e esgotá-la deixa o Mestre indefeso; a
-partir do rank 6, a essência primeva é **inesgotável**, e o que passa a ser contado
+partir do rank 6, a essência primordial é **inesgotável**, e o que passa a ser contado
 é a essência imortal.
 
 As quatro denominações abaixo levam nomes de frutas e correspondem ao rank de quem
@@ -250,7 +250,7 @@ multiplicador de 100× por rank; o multiplicador em si é texto.
 Há uma âncora com a moeda dos Imortais, a **pedra de essência imortal**:
 
 - **100 pedras de essência imortal = 1 conta de red date** (para um rank 7).
-- 1 pedra de essência imortal vale **mais de 100 milhões** de [[Pedras Primevas]] —
+- 1 pedra de essência imortal vale **mais de 100 milhões** de [[Pedras Primordiais]] —
   a moeda dos mortais.
 
 > [!warning] O número de produção abaixo é um recorde, não uma média
@@ -277,7 +277,7 @@ Há uma âncora com a moeda dos Imortais, a **pedra de essência imortal**:
 > Esta é uma economia de **três instrumentos diferentes**, e a distinção entre eles
 > é o que faz o topo do sistema funcionar:
 >
-> - A **[[Pedras Primevas|pedra primeva]]** é a moeda dos mortais, e circula
+> - A **[[Pedras Primordiais|pedra primordial]]** é a moeda dos mortais, e circula
 >   normalmente.
 > - A **pedra de essência imortal** é a moeda corrente dos Imortais: circula,
 >   compra, paga serviços, rende juros e é penhorável. É com ela que funcionam a
@@ -696,7 +696,7 @@ Três regras que explicam a curva:
 
 ## Notas relacionadas
 
-- [[Aptidão|Graus de Aptidão]] · [[Abertura]] · [[Essência Primeva]] · [[Ranks e Avanço|Ranks e Estágios de Cultivo]]
+- [[Aptidão|Graus de Aptidão]] · [[Abertura]] · [[Essência Primordial]] · [[Ranks e Avanço|Ranks e Estágios de Cultivo]]
 - [[Dao Marks]] · [[Attainment]] · [[Tribulações e Calamidades|Calamidades e Tribulações]]
-- [[Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[Essência Primeva|Essência Imortal]] · [[Visão Geral dos Veneráveis|Veneráveis]]
+- [[Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[Essência Primordial|Essência Imortal]] · [[Visão Geral dos Veneráveis|Veneráveis]]
 - [[Refino de Gu]] · [[Glossário EN-PT]] · [[Catálogo de Gu]]

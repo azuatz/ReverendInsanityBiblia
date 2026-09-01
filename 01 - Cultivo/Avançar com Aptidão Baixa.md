@@ -51,7 +51,7 @@ existem, no fundo, apenas três formas de resolver o problema:
 3. **Trazer volume de fora** — usar energia que não é sua.
 
 Todos os métodos abaixo são variações dessas três ideias. Detalhes das escalas em
-[[Essência Primeva]].
+[[Essência Primordial]].
 
 ---
 
@@ -99,7 +99,7 @@ converte a essência inicial em essência de estágio superior antes da tentativ
 ruptura. Como cada estágio dobra a densidade, uma reserva menor entrega o mesmo impacto.
 
 A conversão não é gratuita: custa cerca de **quatro unidades para produzir uma**. Você
-troca volume por qualidade e paga a diferença em tempo e em pedras primevas.
+troca volume por qualidade e paga a diferença em tempo e em pedras primordiais.
 
 - **Preço:** tempo de preparação, consumo de recursos, e um Gu extra para alimentar.
 - **Por que importa:** é o que explica mecanicamente como graus medianos rompem paredes
@@ -130,13 +130,13 @@ de limpar essa contaminação — obtê-lo é, ele mesmo, um objetivo de campanh
   fratricida a sangue do mesmo sangue, com aproveitamento crescente e sem perda alguma
   no vínculo mais próximo. Ou seja: **de quem você recebe importa mecanicamente.**
 
-### Pedras primevas como combustível externo
+### Pedras primordiais como combustível externo
 
 Reposição comprada. Não resolve o teto, mas resolve a *velocidade*: permite manter a
 reserva cheia durante um processo longo, em vez de esperar a recuperação natural.
 
 - **Preço:** dinheiro, e muito. É a razão pela qual talento baixo é **mais caro** de
-  cultivar, não apenas mais lento. Ver [[Pedras Primevas]].
+  cultivar, não apenas mais lento. Ver [[Pedras Primordiais]].
 
 ---
 
@@ -155,7 +155,7 @@ de um animal escravizado, e entrega o salto de rank imediatamente.
 
 ### Trocar o combustível do Gu
 
-Alguns Gu funcionam com um recurso que não é essência primeva — medula óssea, vitalidade,
+Alguns Gu funcionam com um recurso que não é essência primordial — medula óssea, vitalidade,
 tempo de vida, energia mental. Isso permite **contornar a trava de rank pelo lado do
 custo**, usando efeitos que a reserva do personagem não sustentaria.
 
@@ -275,7 +275,7 @@ Nem toda saída do mundo mortal passa pela ascensão comum:
 | Gu de apoio (densidade) | ruptura viável | 4:1 de conversão, tempo | rotina de preparação |
 | Subir estágios antes | ruptura viável | anos | escolha entre pressa e segurança |
 | Essência emprestada | ruptura imediata | contamina o potencial futuro | favor que vira dívida |
-| Pedras primevas | velocidade | dinheiro | motor econômico da campanha |
+| Pedras primordiais | velocidade | dinheiro | motor econômico da campanha |
 | Ritual de avanço forçado | um rank inteiro | −2 pontos de aptidão, permanente | pacto faustiano |
 | Trocar combustível | efeitos acima do rank | recurso mais caro que energia | build alternativa |
 

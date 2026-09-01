@@ -34,7 +34,7 @@ prazo== — ou seja, aventuras que já vêm montadas.
 > Nos eventos da coluna da direita a obra diz apenas "prêmios crescentes", "benefícios
 > territoriais", "recursos escalonando em valor" — e este vault **não inventa** um número
 > para preencher a lacuna. Quando você precisar de um, a régua para arbitrar está em
-> [[Pedras Primevas]] (o que as coisas custam) e na tabela de ordens de grandeza de renda
+> [[Pedras Primordiais]] (o que as coisas custam) e na tabela de ordens de grandeza de renda
 > em [[Como um Mestre Gu Ganha a Vida]]
 > (quanto se ganha por rank e por tempo gasto). Um prêmio calibrado é o que a coluna de
 > renda daquela tabela paga em algumas semanas de trabalho do rank correspondente.
@@ -138,7 +138,7 @@ Uma carreira completa, não um passatempo. Regras do modelo mais bem documentado
 | Frequência | Um desafio por dia; luta obrigatória a cada dez dias |
 | Eliminação | Cinco derrotas desqualificam |
 | Desafio forçado | Um por mês, com oito dias de descanso garantidos ao desafiado |
-| Inscrição | 500 pedras primevas, mais aluguel de um Gu de registro |
+| Inscrição | 500 pedras primordiais, mais aluguel de um Gu de registro |
 | Prêmio | Um Gu do perdedor — e tudo, se o perdedor morrer |
 | Morte | Permitida, mas socialmente malvista |
 
@@ -197,7 +197,7 @@ Certas heranças viraram **instituições permanentes**, com calendário e buroc
 O maior evento técnico do mundo, realizado a cada cem anos. É o melhor exemplo de "evento
 de campanha" do cenário:
 
-- **Inscrição barata e acessível** — cem pedras primevas, em centenas de sedes espalhadas
+- **Inscrição barata e acessível** — cem pedras primordiais, em centenas de sedes espalhadas
   pelo mundo.
 - **Quatro tarefas de entrada**, seguidas de rodadas eliminatórias no sistema "os três
   primeiros a completar avançam".

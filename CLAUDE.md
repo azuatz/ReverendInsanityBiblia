@@ -48,7 +48,7 @@ dúvida de escopo.
 - Pastas `01`–`09` — as notas FINAIS para a designer. **Só são escritas na fase de
   escrita final, depois de a obra inteira ter sido lida e a pesquisa externa feita**
   — nunca durante a leitura: nota final escrita com leitura parcial sai incompleta
-  (ex.: essência primeva só com os ranks do Volume 1). Na fase final, os rascunhos
+  (ex.: essência primordial só com os ranks do Volume 1). Na fase final, os rascunhos
   são a fonte e os modelos de `_pipeline/MODELOS/` dão o formato. Nota final criada
   prematuramente deve ser movida para `_pipeline/rascunho/`.
 - `00 - LEIA-ME (guia para a designer).md` — porta de entrada para a profissional.

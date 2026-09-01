@@ -85,9 +85,9 @@ termos que a comunidade e a obra usam sem tradução estável.
 |---|---|---|---|
 | rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[Ranks e Avanço]] |
 | attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[Attainment]] |
-| primeval essence | essência primordial | **essência primeva** | Escolha de coerência com "pedras primevas"; as duas formas circulam na tradução. Ver [[Essência Primeva]] |
-| primeval stones | pedra primordial | **pedras primevas** | Idem. Ver [[Pedras Primevas]] |
-| primeval sea | mar primordial | **mar primevo** | Idem, mesma família de termos |
+| primordiall essence | essência primordial | **essência primordial** | Escolha de coerência com "pedras primordiais"; as duas formas circulam na tradução. Ver [[Essência Primordial]] |
+| primordiall stones | pedra primordial | **pedras primordiais** | Idem. Ver [[Pedras Primordiais]] |
+| primordiall sea | mar primordial | **mar primordial** | Idem, mesma família de termos |
 | refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[Refino de Gu]] |
 | killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[Killer Moves]] |
 | Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[Tribunal Celestial]] |
@@ -120,9 +120,9 @@ do mundo conhece.
 | Gu Master | **Mestre Gu** | Qualquer pessoa capaz de cultivar, isto é, que possui uma abertura. O "praticante" genérico |
 | Gu Immortal | **Imortal** / **Mestre Gu Imortal** | Mestre Gu de rank 6 ou acima; outra categoria de existência, não apenas um nível mais alto |
 | aperture | **abertura** | Órgão espiritual invisível que serve de reservatório de energia e de "estojo" onde os Gu vivem |
-| primeval sea | mar primordial → **o vault escreve "mar primevo"** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
-| primeval essence | essência primordial → **o vault escreve "essência primeva"** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
-| primeval stones | pedra primordial → **o vault escreve "pedras primevas"** | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
+| primordiall sea | mar primordial → **o vault escreve "mar primordial"** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
+| primordiall essence | essência primordial → **o vault escreve "essência primordial"** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
+| primordiall stones | pedra primordial → **o vault escreve "pedras primordiais"** | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
 | Awakening Ceremony | *Awakening Ceremony*° (Cerimônia do Despertar) | Ritual aos 15 anos que forma a abertura e mede o talento; decide se a pessoa será cultivadora ou mortal comum |
 | aptitude grade (A/B/C/D) | **grau** (grau A, B, C, D) | Talento inato, expresso como a porcentagem da abertura que a pessoa consegue encher |
 | Ten Extreme Physiques | *Ten Extreme Physiques*° (Dez Constituições Extremas) | Camada secreta acima do grau A: dez constituições lendárias que armazenam 100% e cujos portadores morrem cedo |
@@ -410,21 +410,21 @@ recursos distintos.
 
 ### 9.4. "Essência primordial" × "essência primitiva"
 
-O mesmo conceito (*primeval essence*) aparece com as duas formas **dentro da tradução
+O mesmo conceito (*primordiall essence*) aparece com as duas formas **dentro da tradução
 brasileira**. Entre as duas, a dominante lá é **"essência primordial"**, que é a mais
 frequente e a que aparece nos capítulos mais didáticos — é por isso que ela figura na
 coluna do meio das tabelas acima.
 
-> **O que o vault escreve é outra coisa: "essência primeva".** A decisão é nossa e
+> **O que o vault escreve é outra coisa: "essência primordial".** A decisão é nossa e
 > está registrada em "Onde o vault diverge da tradução", no topo desta nota, junto com
 > o motivo. As duas afirmações convivem sem contradição: "primordial" é o que a
-> tradução publicada mais usa, "primeva" é o que este projeto escreve.
+> tradução publicada mais usa, "primordial" é o que este projeto escreve.
 
 ### 9.5. "Mar primordial" × "mar primitivo"
 
-Exatamente a mesma oscilação, aplicada ao *primeval sea*. A forma dominante na
+Exatamente a mesma oscilação, aplicada ao *primordiall sea*. A forma dominante na
 tradução é **"mar primordial"**, por coerência com o item anterior — e, também por
-coerência com o item anterior, **o vault escreve "mar primevo"**.
+coerência com o item anterior, **o vault escreve "mar primordial"**.
 
 ### 9.6. "Venerável Demônio" × "Demônio Venerável"
 

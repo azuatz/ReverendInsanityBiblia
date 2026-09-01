@@ -14,7 +14,7 @@ conhecimento: comum
 
 # Aptidão
 
-**Em uma frase:** a ==aptidão (aptitude)== é o talento inato de cultivo de uma pessoa, medido uma única vez aos quinze anos e expresso como a **porcentagem da [[Abertura|abertura]] que ela consegue encher de [[Essência Primeva|essência primeva]]** — um número que fixa o teto de energia, a velocidade de recuperação e, na prática, a carreira inteira do personagem.
+**Em uma frase:** a ==aptidão (aptitude)== é o talento inato de cultivo de uma pessoa, medido uma única vez aos quinze anos e expresso como a **porcentagem da [[Abertura|abertura]] que ela consegue encher de [[Essência Primordial|essência primordial]]** — um número que fixa o teto de energia, a velocidade de recuperação e, na prática, a carreira inteira do personagem.
 
 ## Como funciona
 
@@ -63,7 +63,7 @@ Duas observações que a designer precisa ter em mãos. Primeiro: **não existe 
 
 ### Aptidão como teto de armazenamento
 
-O ponto que a maioria dos resumos erra: a aptidão **não é a velocidade com que o mar enche, é onde ele para de subir**. Um Mestre Gu de grau C com 44% cultiva a vida inteira e seu Mar Primevo trava em 44%, ainda que haja espaço físico sobrando dentro da abertura. Não há grind que resolva. Não há paciência que resolva.
+O ponto que a maioria dos resumos erra: a aptidão **não é a velocidade com que o mar enche, é onde ele para de subir**. Um Mestre Gu de grau C com 44% cultiva a vida inteira e seu Mar Primordial trava em 44%, ainda que haja espaço físico sobrando dentro da abertura. Não há grind que resolva. Não há paciência que resolva.
 
 Isso também define a economia pessoal do personagem: quem tem teto baixo age menos vezes por dia. A ilustração mais limpa que a obra oferece é um Gu de emboscada, de rank 2, que consome apenas 10% de energia por uso — eficiência considerada alta. Um usuário de grau D, com 20 a 30% de reserva total, consegue **duas ativações** antes de secar. O grau não muda a *qualidade* do que a pessoa faz; muda **quantas vezes ela pode agir**.
 
@@ -81,7 +81,7 @@ de acrescentar a ressalva **"sem situações especiais"**. Essa ressalva não é
 teto de 30%, nenhum grau D deveria jamais alcançar o rank 2 — e no entanto a obra diz que
 ele alcança. A resposta está no fato de que **o limiar não mede quanto cabe na abertura,
 e sim quanta essência efetiva se entrega no golpe**. E essência tem duas variáveis:
-volume e densidade (ver [[Essência Primeva]]).
+volume e densidade (ver [[Essência Primordial]]).
 
 Como a essência de estágio médio vale o dobro da inicial, alguém que converta a própria
 reserva antes de tentar a ruptura entrega muito mais do que a porcentagem bruta sugere.
@@ -128,7 +128,7 @@ resolva de novo, e com recursos maiores, o mesmo problema.
 
 ### Efeitos práticos do grau
 
-- **Recuperação de energia** é proporcional ao grau: um grau C repõe cerca de 4% da reserva por hora; um grau A, cerca de 8%. Grau baixo gasta mais [[Pedras Primevas|pedras primevas]] para o mesmo progresso.
+- **Recuperação de energia** é proporcional ao grau: um grau C repõe cerca de 4% da reserva por hora; um grau A, cerca de 8%. Grau baixo gasta mais [[Pedras Primordiais|pedras primordiais]] para o mesmo progresso.
 - **Velocidade de avanço de estágio**: um grau C leva o dobro do tempo de um B e o quádruplo de um A, sem métodos de compensação.
 - **Regra de bolso ensinada nos clãs**: D chega ao rank 1 sênior em cerca de três anos; C ao rank 2 em dois; B ao rank 3 em seis ou sete; A ao rank 4 em cerca de dez. Leia isso como **expectativa social**, não como garantia mecânica: a linha do C pressupõe alguém na faixa alta do grau (55% ou mais), que é a única parte da banda que rompe sozinha, ou alguém com o auxílio descrito adiante. Um C de 44% não chega ao rank 2 em dois anos nem em duzentos.
 - **A recuperação tem grau próprio.** Um personagem pode ter aptidão mediana e mesmo assim uma taxa de reposição de nível A — o que nivela diferenças de rank em batalhas longas de atrito. É um sub-atributo real, não uma variação de sabor.
@@ -179,7 +179,7 @@ Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativ
 
 - [[Abertura|Cerimônia do Despertar]] — onde o grau é medido.
 - [[Abertura]] — o que o grau dimensiona.
-- [[Essência Primeva]] — o que cabe dentro desse teto.
+- [[Essência Primordial]] — o que cabe dentro desse teto.
 - [[Ranks e Avanço]] — a trava que o grau impõe e as brechas para furá-la.
 - [[Ascensão Imortal]] — onde a aptidão para de importar.
 

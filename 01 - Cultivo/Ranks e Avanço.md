@@ -19,7 +19,7 @@ conhecimento: comum
 
 O vocabulário do mundo distingue as duas escadas com precisão, e vale adotá-lo:
 
-- **Pequeno reino** = avançar de **estágio** dentro do rank. Os quatro estágios são **inicial, médio, superior e pico**. Depende de esforço, tempo e itens de aceleração. A cada estágio, a [[Essência Primeva|essência]] dobra de densidade e a parede da abertura muda de material (luz → água → pedra → cristal).
+- **Pequeno reino** = avançar de **estágio** dentro do rank. Os quatro estágios são **inicial, médio, superior e pico**. Depende de esforço, tempo e itens de aceleração. A cada estágio, a [[Essência Primordial|essência]] dobra de densidade e a parede da abertura muda de material (luz → água → pedra → cristal).
 - **Grande reino** = avançar de **rank**. Depende fundamentalmente de [[Aptidão|aptidão]]. A cada rank, a essência muda de cor e multiplica a potência por dez.
 
 Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 9 há outra categoria de existência, tratada em [[Ascensão Imortal]] e [[Tornar-se Venerável]]. Os próprios Gu são classificados na mesma escala de nove ranks, e a regra que amarra as duas é simples: **um Mestre Gu só aciona Gu de rank igual ou inferior ao seu**.
@@ -34,7 +34,7 @@ O processo é documentado em detalhe para a passagem do rank 1 ao 2, e o padrão
 2. **Atacar a parede de cristal com essência contínua.** Ela se autorregenera: uma pausa de cerca de quinze minutos apaga o progresso acumulado. Na prática, isso transforma a ruptura num esforço ininterrupto de dias, com concentração constante — um caso documentado levou quatro dias e três noites.
 3. **Ter o piso de recursos.** Sem situações especiais, é preciso projetar de uma só vez pelo menos **55% da essência do estágio mais avançado do rank**. Esse é o número que exclui **todo o grau D** (cujo teto é 39%) e **cerca de três quartos da faixa C** (que vai de 40% a 59%, e só rompe a partir dos 55%). Os graus B e A passam com folga. É a razão aritmética de o grau C ser uma sentença social: não é preconceito de clã, é uma conta.
 
-Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primevo, uma nova membrana de luz se forma e a primeira gota de essência da nova cor emerge.
+Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primordial, uma nova membrana de luz se forma e a primeira gota de essência da nova cor emerge.
 
 > [!warning] O único limiar canônico é o 55% — e ele não é medido em volume bruto
 > A obra fornece o percentual apenas para o avanço **1 → 2**, sempre com a ressalva
@@ -45,7 +45,7 @@ Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primev
 > foi preciso influxo externo de essência de rank superior. Noventa é mais que qualquer
 > limiar plausível para o terceiro degrau, então o que faltou não era volume: era
 > **qualidade**. O limiar mede *essência efetiva entregue no golpe*, que combina volume
-> com o estágio e o rank da essência (ver [[Essência Primeva]] e [[Aptidão]]).
+> com o estágio e o rank da essência (ver [[Essência Primordial]] e [[Aptidão]]).
 >
 > Estas notas adotam **65 / 75 / 85%** para 2→3, 3→4 e 4→5 como reconstrução de design,
 > entendidos como percentual **de essência já no estágio de pico do rank** — não de
@@ -57,7 +57,7 @@ Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primev
 
 | Transição | Condições | Tempo |
 |---|---|---|
-| Rank 1 pico → 2 | com pedras primevas para recarregar durante o ataque | 3 a 4 dias |
+| Rank 1 pico → 2 | com pedras primordiais para recarregar durante o ataque | 3 a 4 dias |
 | Rank 2 pico → 3 | sozinho | mais de 24 horas |
 | Rank 2 pico → 3 | com transfusão de essência de rank 3 pico doada por terceiro | cerca de 6 horas |
 | Rank 3 superior → pico | com um consumível de avanço instantâneo | imediato |
@@ -69,7 +69,7 @@ Este é o cardápio de atalhos do mundo mortal — e o mais interessante é que 
 
 | Método | O que faz | O preço |
 |---|---|---|
-| **Recarga com pedras primevas durante a ruptura** | mantém a essência acima da taxa de cicatrização da parede | dias de cultivo ininterrupto, concentração total, gasto financeiro pesado |
+| **Recarga com pedras primordiais durante a ruptura** | mantém a essência acima da taxa de cicatrização da parede | dias de cultivo ininterrupto, concentração total, gasto financeiro pesado |
 | **Itens que elevam a aptidão** | atacam a causa: elevam o teto, e com ele a possibilidade de romper | raríssimos; alguns são demoníacos e cobram vidas (ver [[Aptidão]]) |
 | **Gu de refino de essência** | destila a própria energia para o estágio acima, a 4 por 1 | é preciso possuir e alimentar o Gu; perde-se 75% do volume |
 | **Transfusão de essência de um aliado mais forte** | permite avançar com energia alheia, inclusive de **rank** | contamina a abertura, a menos que se use o par de Gu conversor; exige limpeza depois |
@@ -86,7 +86,7 @@ As regras que os cercam:
 - Eles **só avançam estágios dentro do rank correspondente**. Nunca cruzam a barreira de rank, que continua exigindo aptidão e acúmulo próprios.
 - **Sem aptidão suficiente, não fazem absolutamente nada** — não importa quantos se consuma.
 - Ninguém "spamma" por três motivos declarados: a dependência dificulta os grandes reinos futuros; ganhar estágio sem ganhar experiência é perigoso, e o mundo descreve isso como dar uma espada a um bebê; e os tiers altos são caros e politicamente controlados.
-- Os tiers 1 a 3 circulam livremente. Preços de referência: cerca de 8.000 pedras primevas para o de rank 2 — mais caro que Gu comuns de rank 3 — e cerca de 50.000 para o de rank 3. Os tiers 4 e 5 são retidos fora do mercado pelos líderes das grandes organizações, justamente porque alterariam o equilíbrio de força no topo.
+- Os tiers 1 a 3 circulam livremente. Preços de referência: cerca de 8.000 pedras primordiais para o de rank 2 — mais caro que Gu comuns de rank 3 — e cerca de 50.000 para o de rank 3. Os tiers 4 e 5 são retidos fora do mercado pelos líderes das grandes organizações, justamente porque alterariam o equilíbrio de força no topo.
 - Comprados à distância, sem inspeção, vêm frequentemente adulterados: de um lote de seis, dois estavam limpos, dois degradados e dois inúteis.
 
 > [!note] Para o design
@@ -199,7 +199,7 @@ O trade-off é explícito e permanente: quem aloca a energia no ataque fica com 
 ## Relações
 
 - [[Abertura]] — o órgão cuja parede define estágio e rank.
-- [[Essência Primeva]] — cor e potência por rank e estágio.
+- [[Essência Primordial]] — cor e potência por rank e estágio.
 - [[Aptidão]] — o teto que cada personagem precisa furar.
 - [[Ascensão Imortal]] — o que existe depois do rank 5.
 - [[Attainment]] — por que dois cultivadores do mesmo rank não são iguais.

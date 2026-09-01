@@ -127,7 +127,7 @@ Três efeitos estruturais, e o terceiro é o mais sombrio:
 
 ## Por que a caça é a profissão básica — e o que a torna letal
 
-Para os mortais, caçar é subsistência. O preço de referência é brutalmente modesto: um javali de porte médio vale cerca de meia pedra primeva, e uma família mortal de três pessoas vive uns meses com cinco pedras. Carne é cara o bastante para muitas famílias comerem porco só na virada do ano, dependendo do que os caçadores trouxerem da montanha.
+Para os mortais, caçar é subsistência. O preço de referência é brutalmente modesto: um javali de porte médio vale cerca de meia pedra primordial, e uma família mortal de três pessoas vive uns meses com cinco pedras. Carne é cara o bastante para muitas famílias comerem porco só na virada do ano, dependendo do que os caçadores trouxerem da montanha.
 
 O ativo real de uma família de caçadores não é a arma: é o **mapa**. Mapas de pele de fera — couro de animal grande, com códigos de cor marcando território de feras, armadilhas e terreno — são acumulados e refinados por gerações e guardados como o tesouro de sobrevivência da linhagem. Uma cruz vermelha grande marca zona proibida, tipicamente o território de um rei. Mas as convenções **não são padronizadas**: cada família de caçadores desenvolve o próprio código, e o mesmo símbolo pode significar coisas opostas em dois mapas diferentes.
 

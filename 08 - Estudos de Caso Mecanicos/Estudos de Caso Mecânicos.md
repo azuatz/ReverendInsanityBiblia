@@ -35,7 +35,7 @@ veredito explícito sobre se aquilo é replicável ou foi sorte irrepetível.
 > - **Preços marcados `inferido`** — a obra descreve os gastos em prosa ("uma quantidade
 >   grande de pedras") e quase nunca dá o número. Onde o número importa para orçar uma
 >   campanha, ele foi reconstruído e está sinalizado. Os preços de referência do mundo
->   moram em [[Pedras Primevas]]; os números do sistema de cultivo, em
+>   moram em [[Pedras Primordiais]]; os números do sistema de cultivo, em
 >   [[Tabelas de Referência Rápida]]. Onde esta nota divergir de qualquer uma das duas,
 >   elas vencem.
 
@@ -46,7 +46,7 @@ veredito explícito sobre se aquilo é replicável ou foi sorte irrepetível.
 > | Termo | Em uma frase | Nota |
 > |---|---|---|
 > | **Abertura** | a cavidade sobrenatural dentro de todo Mestre Gu, onde ele guarda os Gu vivos e a energia que os alimenta | [[Abertura]] |
-> | **Essência primeva** | a energia interna que o Mestre Gu gasta para acionar seus Gu e para cultivar; também é a moeda, em forma sólida | [[Essência Primeva]] |
+> | **Essência primordial** | a energia interna que o Mestre Gu gasta para acionar seus Gu e para cultivar; também é a moeda, em forma sólida | [[Essência Primordial]] |
 > | **Refino** | sobrescrever a vontade de um Gu com a sua, para poder usá-lo; a operação mais cara e arriscada do sistema | [[Refino de Gu]] |
 > | **Dao marks** | fragmentos de lei do universo gravados no corpo de um imortal; o atributo de progressão do reino imortal | [[Dao Marks]] |
 > | **Attainment** | o domínio *teórico* de um caminho — o quanto você entende, e não quanta energia você tem; eixo independente do rank | [[Attainment]] |
@@ -138,14 +138,14 @@ não consegue entregar o golpe exigido. Este caso mostra que existe uma **segund
 troca potência por tempo — e mostra também onde essa via para.
 
 **O método:** atacar a barreira em ritmo **lento e sustentado**, absorvendo
-[[Pedras Primevas|pedras primevas]] em paralelo para repor a energia. O truque é manter a
+[[Pedras Primordiais|pedras primordiais]] em paralelo para repor a energia. O truque é manter a
 taxa de recarga acima da taxa de cicatrização da barreira — que se refaz sozinha se houver
 pausa. Foram quatro dias e três noites contínuos, com intervalos nunca maiores que quinze
 minutos, drenando a reserva pessoal de 44% para 13% e recarregando-a com pedras o tempo
 todo. E um álibi: declarar reclusão de cultivo para não ser interrompido.
 
 **Recursos gastos:** quatro dias sem dormir, um esconderijo confiável e uma quantidade
-grande de pedras primevas — sobre a qual ver o quadro de custo abaixo.
+grande de pedras primordiais — sobre a qual ver o quadro de custo abaixo.
 
 **Por que funcionou:** a barreira não exige uma **quantidade** de energia num único golpe;
 exige que o dano acumulado supere a regeneração. Transformar um teste de potência num teste
@@ -182,8 +182,8 @@ vez — ele entregou, somando quatro dias, muito mais que isso, em parcelas.
 > — Gu de talento, rituais demoníacos, sangue de linhagem — são os bens mais cobiçados do
 > mundo: são os únicos que mexem no teto, e não apenas no imposto.
 
-> [!warning] Quanto custa, em pedras primevas
-> A obra diz "uma quantidade grande de pedras primevas" e nunca publica o número — e esse
+> [!warning] Quanto custa, em pedras primordiais
+> A obra diz "uma quantidade grande de pedras primordiais" e nunca publica o número — e esse
 > é o item de orçamento mais importante que um personagem de rank 1 vai enfrentar, então
 > vale reconstruí-lo.
 >
@@ -191,7 +191,7 @@ vez — ele entregou, somando quatro dias, muito mais que isso, em parcelas.
 > recarregada continuamente por quatro dias. Um Mestre Gu iniciante gasta de 3 a 5 pedras
 > **por dia** só para viver; aqui a queima é de ordem muito superior, porque a recarga
 > precisa acompanhar a drenagem em tempo real por quase cem horas seguidas. A estimativa
-> deste vault é de **algumas centenas a cerca de mil pedras primevas** para a ruptura
+> deste vault é de **algumas centenas a cerca de mil pedras primordiais** para a ruptura
 > 1 → 2 por esta via.
 >
 > Para dimensionar o que isso significa em mesa: é de duas a dez vezes o preço de um Gu de
@@ -211,7 +211,7 @@ vítima humana com aptidão de cultivo (quanto maior o grau, maior a taxa de suc
 fera carnívora escravizada. A fera devora a vítima por completo, o controle mental
 sobrepondo-se ao instinto do animal; o refino começa imediatamente, antes da digestão, com
 uma combinação de Gu de queima interna e Gu incendiários até formar uma coluna de fogo; um
-Gu venenoso é arremessado no fogo; cerca de mil pedras primevas são consumidas na esfera de
+Gu venenoso é arremessado no fogo; cerca de mil pedras primordiais são consumidas na esfera de
 luz resultante. O produto é um Gu descartável de rank 3.
 
 **O efeito:** ingerido, ele tinge toda a energia interna do usuário de um vermelho
@@ -443,9 +443,9 @@ de refino** para o Gu pedido. A chance em si é gratuita — é o conhecimento q
 > `inferido`. A obra não precifica os conjuntos, mas a conta é fechável e vale a pena
 > porque este é o tipo de orçamento que uma mesa precisa aprovar antes da sessão. Um
 > conjunto de materiais para um Gu é a matéria-prima de um refino daquele rank; para um Gu
-> de rank alto, o custo de refino sob encomenda registrado em [[Pedras Primevas]] serve de
+> de rank alto, o custo de refino sob encomenda registrado em [[Pedras Primordiais]] serve de
 > âncora. Vinte conjuntos, portanto, ficam na casa das **centenas de milhares a alguns
-> milhões de pedras primevas** para um Gu de rank 4 ou 5 — ou seja, é orçamento de
+> milhões de pedras primordiais** para um Gu de rank 4 ou 5 — ou seja, é orçamento de
 > organização, não de personagem.
 >
 > **Por que vinte, e por que isso importa:** o pedido a um espírito guardião pode falhar

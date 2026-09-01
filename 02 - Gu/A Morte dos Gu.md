@@ -125,7 +125,7 @@ Numa **fusão fracassada**, os Gu envolvidos têm três destinos possíveis:
 3. **morrem por completo e desaparecem** — desfecho tanto mais provável quanto mais alto o
    nível-alvo da fusão.
 
-As pedras primevas investidas se perdem em qualquer um dos três casos. E falhas repetidas
+As pedras primordiais investidas se perdem em qualquer um dos três casos. E falhas repetidas
 danificam permanentemente os Gu envolvidos, acumulando rachaduras até que morram.
 
 No **refino**, o padrão é o mesmo com apostas maiores. Falhar destrói os Gu-material investidos
@@ -204,7 +204,7 @@ ponto cego geográfico.
 
 ## Ferido não é morto: o reparo de Gu
 
-Um Gu danificado não some. Ele **flutua sem vida no mar primevo da abertura do dono**, esperando
+Um Gu danificado não some. Ele **flutua sem vida no mar primordial da abertura do dono**, esperando
 ser reparado ou descartado. Existe, para isso, uma classe inteira de Gu curativos que não tratam
 corpos humanos, e sim outros Gu e certas feras.
 
@@ -282,7 +282,7 @@ alma. Vale a pena ver os números lado a lado.
 
 | O que se perde | Quanto custou | Observação |
 |---|---|---|
-| Um Gu de nível 1 comum | 5 a 16 pedras primevas só de refino | mais o custo de aquisição e a alimentação até ali |
+| Um Gu de nível 1 comum | 5 a 16 pedras primordiais só de refino | mais o custo de aquisição e a alimentação até ali |
 | Uma fusão de nível 2 | centenas de pedras em uma única receita | e a taxa de sucesso já não é garantida |
 | Uma fusão de nível 4-5 | menos de 10% de sucesso por tentativa | o custo real é o das tentativas fracassadas |
 | Uma fusão de nível 6 | cerca de 1% de sucesso | o Gu que morre aqui levava anos de preparo |
@@ -290,7 +290,7 @@ alma. Vale a pena ver os números lado a lado.
 | Um Gu Imortal de nível 6 | 50 a 60 tentativas por sucesso, e cada conjunto de materiais consome quase toda a riqueza líquida de um imortal médio | perder um destes é perder décadas |
 
 Some a isso o **custo de manutenção**: a sala de estoque de Gu de uma única academia de clã
-gastava mais de mil pedras primevas por dia só para alimentar o acervo. E o custo em saúde: cada
+gastava mais de mil pedras primordiais por dia só para alimentar o acervo. E o custo em saúde: cada
 falha de refino fere o corpo (curável) e a **alma** (grave, lenta, com Gu de cura de alma
 raríssimos e guardados como segredo pelos grandes clãs). Refinadores profissionais espaçam as
 tentativas em cerca de um mês só para deixar a alma se recuperar.
@@ -300,7 +300,7 @@ equipamento" e "minhas economias": um Mestre Gu carrega literalmente sua conta b
 corpo, alimentando-a todo dia, e cada combate é uma aposta em que parte desse capital pode ser
 incinerada.
 
-Ver [[Economia Imortal]] e [[Pedras Primevas]] para as escalas de valor.
+Ver [[Economia Imortal]] e [[Pedras Primordiais]] para as escalas de valor.
 
 > [!example] Caso mecânico
 > Um cultivador precisava transportar Gu de nível 5 através de um par de Gu de transporte que,

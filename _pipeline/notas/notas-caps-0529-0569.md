@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 529–569 (Volume 3)
 
-> Progresso da leitura: até o cap. 538
+> Progresso da leitura: até o cap. 548
 > Status: em-andamento
 
 ## 1. Mecânicas e regras

@@ -528,3 +528,409 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
   não por dano, mas por fome dos bichos dele") é o melhor insight de campanha da base.
 
 ---
+
+# Pasta `03 - Paths`
+
+> **Método:** revisei a nota-porta integralmente e quatro caminhos como amostra, escolhidos
+> para cobrir as três camadas de conhecimento e os dois perfis de nota: `Blood Path`
+> (comum, caminho de combate), `Sword Path` (comum, caminho de vitrine), `Wisdom Path`
+> (especializado, caminho transversal) e `Heaven Path` (segredo, caminho-limite).
+>
+> **O padrão se repete, e é bom.** Os quatro seguem o mesmo gabarito — *Em uma frase →
+> Filosofia e identidade → Mecânicas típicas → Gu representativos (tabela) → Em combate e
+> fora dele → Sinergias e fraquezas → Para o design → Praticantes notáveis (sem enredo) →
+> Relações* — e os quatro abrem remetendo à nota-porta ("Para entender o que é um 'caminho',
+> veja [[Visão Geral dos Paths]]"), que é exatamente a cortesia didática que faltou em `01`.
+> Todos os quatro entregam um **arquétipo nomeado** no bloco de design. Esta é a pasta mais
+> bem construída das quatro, e os problemas abaixo são de *coerência entre pastas*, não de
+> forma. Presumo, pela amostra, que o mesmo valha para os treze caminhos que não li.
+
+## BLOQUEADORES (03)
+
+### B10. Existem duas escalas de attainment canônicas, com números de degraus diferentes
+
+- **Arquivos:** `01 - Cultivo/Attainment.md` × `03 - Paths/Visão Geral dos Paths.md`
+- **Trechos:**
+  - `Attainment.md`, "A escala completa": Ordinário · Mestre · Quase-grão-mestre ·
+    Grão-mestre · Quase-grande-grão-mestre · Grande grão-mestre · Quase-supremo grão-mestre ·
+    Supremo grão-mestre — **oito degraus**.
+  - `Visão Geral dos Paths.md`: "Escala canônica, em **nove degraus**", tabela numerada de 1 a
+    9, que insere **quase-mestre** entre "comum" e "mestre".
+- **Tipo:** furo lógico entre notas, ambas marcadas `status: consolidado`.
+- **O problema:** o eixo de perícia do sistema tem duas versões oficiais, e elas divergem
+  logo no degrau 2 — o mais usado, porque é onde estarão os personagens iniciais. Todos os
+  requisitos do material são enunciados por *nome* de degrau ("exige grão-mestre", "mestre
+  para anexar uma terra rank 6"), então a numeração muda o alinhamento de tudo: o
+  "grão-mestre" é o 4º degrau numa nota e o 5º na outra. Não consigo montar uma tabela de
+  perícia sem escolher, e escolher errado desalinha todos os pré-requisitos do material.
+- **Correção:** eleger `Attainment.md` como fonte única (é a nota especializada), corrigir a
+  tabela de `Visão Geral dos Paths.md` para apontar para lá em vez de reproduzir a escala, e
+  decidir a existência do "quase-mestre" — se existir, ele também precisa entrar em
+  `Attainment.md`, que hoje pula direto de Ordinário para Mestre.
+
+### B11. O teto da herança é "grande grão-mestre" numa nota e "quase-supremo grão-mestre" na outra
+
+- **Arquivos:** `03 - Paths/Visão Geral dos Paths.md` × `01 - Cultivo/Attainment.md`
+- **Trechos:**
+  - `Paths`, regra 8: "Legados, sonhos de mestres mortos e transmissões diretas elevam o
+    domínio de alguém até **grande grão-mestre, nunca até o topo**." Repetido na tabela
+    ("grande grão-mestre — **teto de qualquer herança**") e em "O que só o mestre sabe".
+  - `Attainment.md`: "uma herança dessas elevou um caminho direto a **quase-supremo
+    grão-mestre**; outra elevou alguém de grão-mestre a grande grão-mestre instantaneamente"
+    — e a regra formulada como "**nenhum verdadeiro significado concede supremo grão-mestre**".
+- **Tipo:** furo lógico — as duas notas põem o teto em degraus diferentes.
+- **O problema:** a diferença é de um degrau inteiro e ela é decisiva, porque é a fronteira
+  entre "o que dá para comprar/herdar" e "o que exige mérito próprio" — a decisão econômica
+  central do endgame. Com o teto em grande grão-mestre, existe uma faixa de dois degraus que
+  nenhuma riqueza alcança; com o teto em quase-supremo, existe uma só. Isso muda diretamente
+  o desenho da curva de recompensas de uma campanha longa.
+- **Correção:** adotar a formulação de `Attainment.md` (que é a mais precisa e traz o motivo:
+  inovação não se herda) e corrigir as três ocorrências em `Paths`. Vale a pena manter, na
+  nota de Paths, a frase que explica *por quê* — hoje ela só afirma o teto.
+
+### B12. "Dao Lord" tem duas definições incompatíveis, e uma delas cria um degrau de rank novo
+
+- **Arquivos:** `01 - Cultivo/Tornar-se Venerável.md` × `03 - Paths/Visão Geral dos Paths.md`
+- **Trechos:**
+  - `Tornar-se Venerável`: "Um Venerável com supremo grão-mestre no caminho principal alcança
+    o status de Dao Lord: ele passa a sentir e refinar automaticamente todos os dao marks
+    daquele caminho **no mundo inteiro**" — apresentado como consequência automática.
+  - `Paths`: Dao Lord é quem "refinou as marcas daquele caminho sobre **uma porção de céu e
+    terra**... *possuir uma porção de céu e terra é o que define um Dao Lord*", o status é
+    "**recuperável**, o que faz dele um cargo disputável e não um troféu permanente", e vem
+    numa hierarquia formal: "**Mestre Gu Imortal comum → pseudo-Venerável → Venerável → Dao
+    Lord**".
+- **Tipo:** furo lógico + jargão redefinido sem aviso.
+- **O problema:** três divergências de uma vez. (a) **Escopo**: o mundo inteiro contra uma
+  porção dele — a diferença entre "há um dono para cada caminho no planeta" e "há vários
+  senhores territoriais por caminho", que são cenários completamente distintos. (b)
+  **Permanência**: consequência automática do supremo grão-mestre contra cargo disputável e
+  reconquistável. (c) A hierarquia de `Paths` transforma **pseudo-Venerável** num degrau da
+  escada, enquanto `Tornar-se Venerável` o define como *rótulo de fracasso* — alguém que
+  falhou a terceira tribulação miríade e morreu. Não são a mesma coisa, e a versão de
+  `Paths` sugere uma progressão que a outra nota nega.
+- **Correção:** uma seção única sobre Dao Lord (proponho em `Tornar-se Venerável.md`, com a
+  nota de Paths apenas remetendo) que decida escopo e permanência, e uma frase separando
+  "pseudo-Venerável" (fracasso documentado) de qualquer leitura de degrau intermediário. Se
+  a obra sustentar as duas leituras, marcar como divergência e escolher uma para o jogo.
+
+## SÉRIOS (03)
+
+### S14. Dois caminhos diferentes são apresentados como "o primeiro/a mãe de todos"
+
+- **Arquivo:** `03 - Paths/Visão Geral dos Paths.md`, regras 3 e 11 (e o eco em
+  `03 - Paths/Heaven Path.md`, seção "História").
+- **Trechos:** regra 3 — "**Espaço e tempo são os dois caminhos primordiais** — descritos como
+  a base do céu e da terra desde a era imemorial. **Todos os outros vieram depois**"; regra
+  11 — "O caminho da regra é a **'mãe' de todos** — o mais universal... Outros caminhos
+  brotam dele como sub-ramos".
+- **Tipo:** furo lógico interno à mesma nota.
+- **O problema:** as duas regras se contradizem na mesma lista, com sete regras de distância.
+  E `Heaven Path.md` desempata contra a regra 11 sem perceber: o caminho da regra tem um
+  **criador datado** ("dois milhões de anos depois" do primeiro supremo grão-mestre de
+  refinamento), portanto não pode ser a origem de caminhos que já existiam. A leitura que
+  concilia tudo — regra é a mãe *conceitual*, espaço e tempo são os mais *antigos* — não está
+  escrita em lugar nenhum, e eu precisaria inventá-la.
+- **Correção:** distinguir explicitamente **anterioridade histórica** (espaço e tempo) de
+  **generalidade conceitual** (regra), em uma frase em cada regra. É uma correção de dez
+  palavras que resolve o que hoje parece um erro de pesquisa.
+
+### S15. `Heaven Path` viola três regras de `Tribulações e Calamidades`
+
+- **Arquivos:** `03 - Paths/Heaven Path.md` × `01 - Cultivo/Tribulações e Calamidades.md`
+- **Trechos de `Heaven Path`:** "Refinar marcas do céu enfurece a vontade do céu. As marcas
+  restantes se reúnem e disparam uma **tribulação de miríade**"; "o caso registrado: **três
+  marcas refinadas** dispararam uma floresta de raios que cobriu **mais de cem mil
+  quilômetros** em instantes"; "passar de cerca de duzentas marcas numa única pausa faz o
+  processo **reiniciar** a tribulação".
+- **Contra `Tribulações`:** (1) "calamidades e tribulações **só ocorrem dentro de aberturas
+  imortais, nunca nas terras do mundo comum**" — mas uma floresta de raios de cem mil km
+  parece o mundo externo; (2) o calendário de provações é **fixo por rank e por tempo
+  interno**, enquanto aqui a tribulação é disparada por uma **ação voluntária**, quantas
+  vezes o cultivador quiser; (3) "**somente dez pessoas em toda a história passaram pelas
+  três miríades** — e são exatamente os dez Veneráveis", mas aqui alguém enfrenta miríades
+  repetidas num único ciclo de refino, sem ser Venerável (a nota afirma que nenhum Venerável
+  cultivou o caminho).
+- **Tipo:** furo lógico entre notas — atinge o subsistema de progressão do reino imortal.
+- **O problema:** a tribulação miríade é, ao mesmo tempo, o portão dos dez maiores da
+  história e um custo operacional rotineiro de uma profissão. Não pode ser as duas coisas com
+  as mesmas regras. Se eu escrever a regra de tribulação a partir de `01`, o caminho do céu
+  fica impossível; se escrever a partir de `03`, o rank 9 deixa de ser raro.
+- **Correção:** ou nomear a provação do caminho do céu de outra forma ("tribulação induzida",
+  distinta da miríade do calendário), ou acrescentar em `Tribulações` uma seção "provações
+  fora do calendário" que reconheça a categoria e diga como ela difere. E revisar a frase
+  "só ocorrem dentro de aberturas imortais", que a amostra já contradiz.
+
+### S16. A "trava de rank" é violada por um exemplo concreto que atravessa duas pastas
+
+- **Arquivos:** `01 - Cultivo/Aptidão.md` × `03 - Paths/Blood Path.md`
+- **Trechos:** `Aptidão` — "um Mestre Gu **rank 3** de grau C usou um Gu demoníaco roubado
+  para converter cada morte ao seu redor em aptidão permanente"; `Blood Path`, tabela — "Crânio
+  de Sangue | **4** | Eleva a aptidão do usuário permanentemente, com sangue de vítimas".
+- **Tipo:** furo lógico só visível cruzando as pastas.
+- **O problema:** é o mesmo Gu, e o caso mostra um rank 3 acionando um Gu de nível 4 — o que
+  `Ranks e Avanço.md` diz que "destrói a abertura: morte ou transformação irreversível". Nem
+  a nota de aptidão nem a de sangue registram que ali há uma exceção sendo usada. Junto com
+  as outras exceções que já listei (S11), isso confirma que a trava de rank é bem mais porosa
+  do que o material admite — e que os casos mais interessantes do mundo estão justamente nos
+  furos.
+- **Correção:** anotar no caso mecânico de `Aptidão.md` qual exceção está em jogo (é um Gu
+  demoníaco roubado — provavelmente combustível alternativo ou sobrecarga deliberada), e
+  incluí-lo na seção de exceções proposta em S11.
+
+### S17. O mesmo Gu de adivinhação aparece com dois níveis diferentes
+
+- **Arquivos:** `01 - Cultivo/Longevidade.md` × `03 - Paths/Wisdom Path.md`
+- **Trechos:** `Longevidade` — "um **Gu de adivinhação de rank 9** falhava em oito de cada dez
+  ativações, com backlash de dez a setenta anos"; `Wisdom Path`, tabela — "**Gu do Segredo
+  Celestial** (deduz sem evidências) | cerca de 80% de falha; cada falha consome 10 a 70 anos
+  de vida", e na tabela de Gu representativos: "Segredo Celestial ⭐ | **7 → 8**".
+- **Tipo:** furo numérico / atribuição inconsistente.
+- **O problema:** a estatística é idêntica (80% de falha, 10–70 anos), então é o mesmo Gu —
+  mas ele é rank 9 numa nota e 7→8 na outra. Como o nível determina quem pode usá-lo, isso
+  muda completamente quem na mesa tem acesso ao efeito de adivinhação mais importante do
+  mundo. `Wisdom Path` ainda lista separadamente um "Gu da Sabedoria ⭐ | 9", o que sugere que
+  `Longevidade` confundiu os dois.
+- **Correção:** conferir e alinhar; se forem dois Gu distintos com números parecidos, dizer
+  isso explicitamente, porque a coincidência é grande demais para o leitor não tropeçar.
+
+### S18. As tabelas de "Gu representativos" têm colunas de nível vazias e uma notação não explicada
+
+- **Arquivos:** `03 - Paths/Blood Path.md` (quatro linhas com `—` na coluna Nível),
+  `03 - Paths/Sword Path.md`, `03 - Paths/Heaven Path.md`.
+- **Trechos:** "Rastro de Sangue ⭐ | — |", "Juramento de Sangue ⭐ | — |", "Vingança de Sangue
+  / Sangue Frio ⭐ | — |"; e a notação "Guilhotina de Sangue | **5 → 6**", "Segredo Celestial ⭐
+  | **7 → 8**", "Lâmina Única ⭐ | **6 (máximo)**".
+- **Tipo:** confusão estrutural (tabela sem instrução de leitura).
+- **O problema:** (a) a legenda diz "⭐ = Gu Imortal, único no mundo", e a base já me ensinou
+  que Gu Imortal significa nível 6 a 8 — então uma linha com ⭐ e nível `—` é um dado que eu
+  sei ser preenchível e não foi; (b) a notação `X → Y` nunca é explicada (evolui? tem duas
+  versões? sobe com o dono?) e `Gu Imortais.md` diz que **não podem coexistir** duas versões
+  do mesmo Gu Imortal em níveis diferentes, o que torna `7 → 8` uma afirmação carregada;
+  (c) "6 (máximo)" introduz uma terceira convenção. Três notações numa coluna só.
+- **Correção:** uma legenda de duas linhas, comum às 17 notas de caminho, definindo `—`
+  ("nível não informado pela obra"), `X → Y` ("existe em duas formas; a superior consome a
+  inferior — ver `Gu Imortais`") e `X (máximo)` ("teto de evolução"). É a correção de melhor
+  relação custo-benefício desta pasta, porque replica em 17 notas de uma vez.
+
+## MENORES (03)
+
+- **M15 · `Visão Geral dos Paths.md` · jargão.** "Dentro do **Rio do Tempo**, todo caminho que
+  não seja o do tempo cai a menos de 10%" — "Rio do Tempo" aparece sem definição nem link.
+  É citado como se eu já soubesse o que é.
+- **M16 · Duas listas de caminhos com critérios diferentes.** O "Mapa desta pasta" agrupa os
+  17 caminhos em quatro famílias (combate/corpo · mente/alma · fundamentais/abstratos ·
+  infraestrutura), enquanto `00 - Trilha do Jogador.md` os reparte por camada de conhecimento
+  (9 comuns + 5 avançados + 3 secretos). Ambas as listas estão completas e corretas, mas
+  nenhuma menciona a outra — e a segunda não diz o critério (ver M9). Um "ver também" cruzado
+  resolve.
+- **M17 · `Blood Path.md` · afirmação forte sem contexto.** "o caminho do sangue é descrito
+  como **pior que queimar almas**" — como leiga, não faço ideia de que queimar almas seja o
+  pior crime de referência do mundo; a comparação só funciona para quem já conhece a escala.
+  Uma cláusula ("queimar almas, que é a atrocidade-padrão contra a qual o mundo mede as
+  outras") converte a frase de opaca em eficaz.
+- **M18 · `Wisdom Path.md` · detalhe órfão.** "é a erudição no **caminho do fogo** que regula
+  essa resistência" — o caminho do fogo não tem nota nem consta do mapa dos 17. Aparece
+  também na regra 13 da nota-porta ("no do fogo, passa-se a armar armadilhas indetectáveis").
+  Ou entra no mapa como caminho menor documentado, ou ganha uma nota de rodapé dizendo que é
+  citado de passagem e não coberto.
+- **M19 · `Heaven Path.md` · densidade no lugar certo, mas sem panorama.** É a nota mais
+  conceitualmente difícil da amostra (marcas irrestritas, tribulação involuntária, teto por
+  janela, restrição de abertura) e é a única que se beneficiaria de três linhas de resumo
+  antes de "Filosofia e identidade" — algo como "para cultivar este caminho você precisa de X,
+  paga Y e ganha Z". Hoje o leitor só monta esse quadro ao chegar ao bloco de design.
+
+## O QUE NÃO PRECISA MEXER (03)
+
+- **E11 · O gabarito das notas de caminho é a melhor decisão editorial do material.** Mesma
+  ordem de seções, mesma primeira frase remetendo à porta, mesmo fecho com arquétipo. Depois
+  da segunda nota eu já sabia onde procurar cada coisa — o que não acontece em nenhuma outra
+  pasta. **Não mexer nisso.**
+- **E12 · "Sinergias e fraquezas" com nomes de outros caminhos** é exatamente a informação de
+  que preciso para montar composição de grupo e matriz de contramedidas. É raro um material de
+  cenário entregar isso mastigado.
+- **E13 · A regra de que um caminho é *inventado* por alguém** (`Visão Geral dos Paths`, "Como
+  nasce um caminho") é a melhor ideia de worldbuilding da base: transforma "escola de magia"
+  em "corpo de conhecimento com autor, data e lacunas", e o corolário — o caminho dos sonhos
+  existe de fato mas não de direito — é um prêmio de campanha pronto.
+- **E14 · `Heaven Path.md`** apesar de M19: a mecânica de progressão que convoca uma
+  catástrofe adaptativa, com teto por janela e decisão de ganância a cada pausa, é a resposta
+  mais completa que a base dá à pergunta "como fazer subir de nível ser dramático".
+- **E15 · O bloco "Praticantes notáveis (sem enredo)"** cumpre a promessa do LEIA-ME de não
+  contar a história e ainda assim me dar figuras utilizáveis. Boa disciplina de escopo.
+
+---
+
+# Pasta `04 - Mundo`
+
+## BLOQUEADORES (04)
+
+### B13. Quatro notas terminam com lixo de geração (`</content>`, `</invoke>`)
+
+- **Arquivos:** `04 - Mundo/Visão Geral do Mundo.md` (última linha: `</content>` seguida de
+  `</invoke>`), `04 - Mundo/Cosmologia.md`, `04 - Mundo/As Cinco Regiões.md`,
+  `04 - Mundo/Lendas de Ren Zu.md` (todas terminam em `</content>`).
+- **Tipo:** defeito de produção.
+- **O problema:** não é conteúdo, é uma etiqueta de ferramenta que vazou para dentro das
+  notas finais. Não achei isso em nenhuma nota de `01`, `02` ou `03` — é específico desta
+  pasta, o que sugere um lote gerado com um erro de fechamento. Coloco como bloqueador porque
+  (a) me fez desconfiar, na primeira vez, se a nota tinha sido **truncada** — e eu não tinha
+  como saber se faltava conteúdo depois daquilo; e (b) se este material for entregue a
+  terceiros ou publicado, é o tipo de coisa que destrói a confiança no resto.
+- **Correção:** apagar as linhas e varrer as outras pastas com `grep -rn "</content>\|</invoke>"`
+  para confirmar que só estas quatro foram afetadas. Conferir também se algo foi perdido no
+  fim de cada uma: `Visão Geral do Mundo.md` termina com um único item em "Relações", o que
+  é pouco para uma nota-porta e pode ser sintoma de truncamento real.
+
+### B14. A nota-porta do mundo apaga a distinção ontológica que a pasta `02` chama de fundamental
+
+- **Arquivos:** `04 - Mundo/Visão Geral do Mundo.md` (regra 4) × `02 - Gu/O que é um Gu.md`
+- **Trechos:**
+  - `Visão Geral do Mundo`, regra 4: "**Todo Gu contém um fragmento da Grande Dao** — uma lei
+    do mundo em miniatura."
+  - `O que é um Gu`, "A camada metafísica": "há uma **fronteira ontológica nítida** no topo:
+    Gu comuns (1–5) contêm *marcas do Dao*; Gu Imortais (6–8) contêm *fragmentos do próprio
+    Grande Dao* — **categoria diferente, não apenas quantidade maior**; Gu de nível 9 não são
+    feitos de marcas do Dao **de forma alguma**."
+- **Tipo:** inferência disfarçada de fato numa nota-porta (mesmo padrão de S8).
+- **O problema:** é literalmente a distinção que a pasta `02` declara ser a mais importante do
+  domínio — a que explica por que um Gu Imortal não afeta outro Gu Imortal, por que os Gu de
+  nível 9 escapam a todo método que opere sobre marcas, e por que o rank 9 é ontologicamente
+  diferente. A nota-porta do mundo diz o contrário em nove palavras, sem ressalva. E é uma
+  nota `conhecimento: comum`, ou seja, é a versão que vai para o manual do jogador: eu teria
+  escrito a regra errada na página 12 do livro básico.
+- **Correção:** trocar a regra 4 por "Todo Gu carrega um fragmento de lei do universo — as
+  *marcas do Dao*. Nos níveis mais altos essa relação muda de natureza; ver [[O que é um
+  Gu]]." Duas linhas, e o problema vira um gancho.
+
+## SÉRIOS (04)
+
+### S19. A origem das "marcas de sucesso" está em `04` e o uso está em `02`, sem link e com nomes diferentes
+
+- **Arquivos:** `04 - Mundo/Lendas de Ren Zu.md` × `02 - Gu/Refino de Gu.md`
+- **Trechos:**
+  - `Lendas`, episódio "O sucesso no topo da montanha de fracassos": "existe um Gu que devora
+    fracassos e absorve permanentemente o poder deles. As **'marcas de sucesso'** que circulam
+    na economia do mundo vêm dessa lógica."
+  - `Refino de Gu`: "as **marcas do sucesso**: marcas gravadas no corpo que, consumidas num
+    refino, **eliminam a probabilidade natural de falha aleatória** ... intransferíveis e
+    incomercializáveis."
+- **Tipo:** confusão estrutural (definição órfã do uso) + inconsistência de nome.
+- **O problema:** eu registrei em S12 que "marcas do sucesso" aparecia sem origem. A origem
+  existe — está numa nota de mitologia, três pastas adiante, sob o nome ligeiramente diferente
+  "marcas **de** sucesso". Nenhuma das duas notas aponta para a outra, então o leitor que
+  precisa do conceito (o refinador) nunca chega à explicação, e o leitor que encontra a
+  explicação (lendo mitos) não sabe que ela importa. É o exemplo mais nítido de um problema
+  geral desta base: **a informação existe, mas não está onde a decisão é tomada.**
+- **Correção:** unificar o nome, e cruzar os links nos dois sentidos. Idealmente, mover a
+  regra operacional (o que a marca faz, quantas cobrem cada nível, por que é intransferível)
+  para `Refino de Gu.md` e deixar em `Lendas` só a origem mítica com um link.
+
+### S20. Existem duas explicações concorrentes para as paredes regionais, e as notas não escolhem
+
+- **Arquivos:** `04 - Mundo/As Cinco Regiões.md` × `04 - Mundo/Cosmologia.md` ×
+  `04 - Mundo/Visão Geral do Mundo.md`
+- **Trechos:** `Cinco Regiões` explica a parede como **diferença de energia entre veias de
+  terra vizinhas** ("onde duas regiões vizinhas se encontram, a diferença constante entre
+  essas duas energias forma uma faixa de turbulência permanente"); `Cosmologia` a explica como
+  **maré de qi congelada** ("as paredes regionais eram marés de qi permanentes e estáticas");
+  e `Visão Geral do Mundo` a chama de "barreira regional invisível" sem causa.
+- **Tipo:** confusão estrutural — três formulações do mesmo fato, em três níveis de
+  conhecimento diferentes (`comum`, `segredo`, `comum`).
+- **O problema:** as duas primeiras são compatíveis (são a mesma coisa dita de dois ângulos),
+  mas o material nunca diz isso, e uma delas está marcada como segredo de mestre enquanto a
+  outra está no manual do jogador. Como designer eu preciso saber **o que o personagem
+  comum acredita** sobre a parede: se a explicação das veias é conhecimento público, o segredo
+  de `Cosmologia` deixa de ser segredo. Hoje as duas notas se contradizem quanto ao **nível de
+  sigilo** do mesmo fato, não quanto ao fato.
+- **Correção:** decidir a camada. Sugestão: "atravessar enfraquece" = comum; "a causa são as
+  veias de terra" = especializado; "parede e maré são o mesmo fenômeno em dois estados" =
+  segredo. Escrever essa escada de três degraus explicitamente em `As Cinco Regiões.md`,
+  porque é lá que o leitor chega primeiro.
+
+### S21. A "Grande Era" é tratada como fato consumado em três notas e como opção de design em uma
+
+- **Arquivos:** `04 - Mundo/Visão Geral do Mundo.md`, `As Cinco Regiões.md` (seção "Depois da
+  Grande Era"), `Cosmologia.md` (marés de qi, Earth Trenches, Dez Terras).
+- **Trechos:** a caixa "O mundo muda de estado" oferece as três opções (antes / depois /
+  durante) — excelente —, mas as outras notas descrevem o "depois" no presente do indicativo,
+  misturado com o "antes", em listas contínuas: "Depois da Grande Era, as trincheiras deixam
+  de ser acidentes e viram uma categoria geológica inteira"; "Cada Gu Imortal carrega a aura
+  da sua região natal ... **antes da Grande Era**" (a ressalva vem no fim da frase, depois de
+  eu já ter anotado a regra).
+- **Tipo:** confusão estrutural / densidade.
+- **O problema:** o cenário tem dois estados, e as regras dos dois estados estão intercaladas.
+  Como preciso escolher **um** para o livro básico, tive que reler as três notas marcando
+  quais regras caem quando as paredes somem — e pelo menos quatro das regras mais úteis
+  (supressão de um rank, nacionalidade do Gu, aura regional, imunidade do nativo) caem ou
+  invertem. Isso é o alicerce da estrutura de campanha que a própria nota elogia.
+- **Correção:** uma marcação visual consistente — sufixo `(antes da Grande Era)` /
+  `(depois)` em toda regra afetada — ou, melhor, uma tabela de duas colunas "Antes × Depois"
+  em `As Cinco Regiões.md` listando as regras que mudam. É meia hora de trabalho e economiza
+  a releitura que eu tive que fazer.
+
+### S22. `Cosmologia.md` é `segredo` inteira, mas contém o que o jogador precisa saber
+
+- **Arquivo:** `04 - Mundo/Cosmologia.md`, `conhecimento: segredo` no cabeçalho.
+- **Trecho:** a própria nota se corrige no corpo, com marcações internas: os dois céus são
+  "`comum` na existência, `especializado` no conteúdo"; marés de qi são "`comum` no efeito,
+  `especializado` na causa"; Earth Trenches são `especializado`.
+- **Tipo:** confusão estrutural / classificação.
+- **O problema:** a nota está catalogada como segredo em `00 - Somente o Mestre.md` e no mapa
+  da pasta ("especializado / segredo"), mas metade do conteúdo é geografia que qualquer
+  personagem usa — os dois céus, a muralha de vento celestial, as marés, as trincheiras. Eu
+  precisaria dessa metade no manual do jogador e não posso entregar a nota. Nenhuma outra
+  nota reúne essa geografia.
+- **Correção:** ou dividir em `Cosmologia` (comum/especializado: céus, muralha, marés,
+  trincheiras) e `A Fronteira do Mundo` (segredo: nove céus, Rio do Tempo, o furo), ou —
+  mais barato — acrescentar à nota uma tabela de corte, no padrão que `00 - Somente o
+  Mestre.md` já usa para outras notas, dizendo exatamente quais seções liberar.
+
+## MENORES (04)
+
+- **M20 · Nomes de Veneráveis em inglês, sem tradução, em nota portuguesa.** `Cosmologia.md`
+  fecha com "Ver [[Thieving Heaven Demon Venerable]] e [[Limitless Demon Venerable]]" — os
+  únicos nomes próprios não traduzidos que encontrei em 45 notas. `Heaven Path.md`, tratando
+  das mesmas figuras, usa "**o Venerável Demoníaco Sem Limites**" e "**o Venerável Imortal do
+  Paraíso Terreno**". Padronizar para o português, com o inglês entre parênteses na primeira
+  ocorrência, como o resto do material faz.
+- **M21 · `Lendas de Ren Zu.md` · densidade de nomes próprios.** A seção "A origem das
+  espécies" despeja homens-de-pedra, homens-de-tinta, homens-peludos e homens-pena em quatro
+  marcadores seguidos, sem dizer se são povos jogáveis, criaturas de encontro ou cor de
+  fundo. É o único trecho da nota que li duas vezes sem tirar nada acionável. Uma coluna
+  "papel no jogo" ou uma frase de enquadramento resolveria.
+- **M22 · `As Cinco Regiões.md` · ranking incompleto declarado como ranking.** "Ranking de
+  abertura a estrangeiros (do mais fechado ao mais aberto): Fronteira Sul → Continente
+  Central → Mar Oriental. As outras duas ficam no meio, sem ordenação declarada." Um ranking
+  de cinco itens com dois ausentes é mais confuso que útil; melhor apresentar como três
+  extremos nomeados ("a mais fechada, a mais aberta, e o Centro que é seletivo").
+- **M23 · `Visão Geral do Mundo.md` · a marcação 🔒 é local e não documentada.** A lista de
+  regras marca com 🔒 as que são segredo — recurso ótimo, e o `00 - LEIA-ME` não o menciona
+  (menciona 🔒 apenas para o Glossário). Vale generalizar para as outras notas-porta, que hoje
+  separam o segredo por seção em vez de por item.
+- **M24 · `Cosmologia.md` · uma escala sem referência.** "quando um mundo privado acumula uma
+  quantidade colossal de marcas de dao — na ordem de **um milhão de um único caminho**" —
+  ver a observação abaixo sobre as correções recentes.
+
+## Interação com as correções já aplicadas (B1–B4)
+
+Conferi as notas de `04` contra as três correções que vocês fizeram. Duas observações:
+
+- **A regra linear nova (`multiplicador ≈ 1 + marcas ÷ 1.000`) valida as faixas novas, e vale
+  registrar isso.** Com as faixas corrigidas, o topo de cada rank dá: rank 6 → ×10, rank 7 →
+  ×31, rank 8 → ×301. Isso reproduz, sozinho, o salto de aproximadamente **dez vezes por
+  rank** que `Essência Primeva.md` atribui à qualidade da essência, e dá base aritmética à
+  frase de `Tribulações` de que "um rank 8 suprime um rank 7 com tamanha facilidade". As duas
+  escadas do sistema agora batem. Sugiro escrever essa conferência numa caixa em
+  `Dao Marks.md` — é um argumento de coerência forte e barato.
+- **Um número de `04` ficou destoante depois da correção.** `Cosmologia.md` põe a formação
+  espontânea de Earth Trenches num mundo privado em "**um milhão** de marcas de dao de um
+  único caminho". Com as faixas novas (rank 9 = 300.000 ou mais), isso é mais de **três vezes
+  o limiar de Venerável** — ou seja, pela aritmética corrigida, só um Venerável, ou alguém que
+  anexou muitas aberturas, produziria uma trincheira dentro do próprio mundo. Isso é
+  compatível com `Tribulações` ("existe registro de um imortal com mais de um milhão de dao
+  marks — porque pulou todas as provações"), mas a nota apresenta o fenômeno como um processo
+  geológico natural, o que sugere algo corriqueiro. Vale uma linha em `Cosmologia.md`
+  dizendo que é fenômeno de escala de Venerável/anexador, para o leitor não calibrar errado.
+
+---

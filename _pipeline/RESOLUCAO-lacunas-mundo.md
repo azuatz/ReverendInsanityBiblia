@@ -185,3 +185,41 @@ São **duas outras listas**, mencionadas **uma única vez cada, ambas no Volume 
 - **Top Ten Great Demonic Gu** — Cap. 165 ("Blood Guillotine"): "when this Blood Guillotine Gu advances into the highly acclaimed Rank six demonic Gu, **Blood Deity. Among the Top Ten Great Demonic Gu in the world, it ranks 7th.**"
 
 **Interpretação (marcada como inferência):** o Cap. 163 diz que o 6º dos "Great Immortal Gu" vale "about the same as the Spring Autumn Cicada", que é 7º dos Mystical Gu — o que sugere listas *paralelas de escala comparável*, não a mesma lista renomeada. Mas a obra nunca explicita a relação entre elas, e as abandona. Registre-se como terminologia inicial não desenvolvida.
+
+---
+
+## 6. Lista das Ten Extreme Physiques — ⚠️ PARCIAL (7 das 10 são nomeadas)
+
+**O mecanismo (Cap. 135 e Cap. 181, V1):** as dez physiques extremas são **os dez filhos de Ren Zu**.
+
+> **Cap. 135 — "Northern Dark Ice Soul, Ten Extreme Talents"** (V1): "Before Ren Zu died, he gave birth to ten children. The eldest son Verdant Great Sun, second daughter Desolate Ancient Moon… Among the ten, there was one named Northern Dark Ice Soul… **Ren Zu's ten kids individually represented ten types of ultimate aptitudes.**"
+
+> **Cap. 181 — "By an odd twist"** (V1), explicação de Tie Ruo Nan: "Ren Zu's ten children died one by one… Ren Zu gathered the corpse of his ten children and sacrificed himself, all going into the stomach of the **Derivation Gu**. Derivation Gu's stomach burst… creating the first batch of mortals. …**every one of us has Ren Zu and his ten children's bloodline in us!** The only thing is that most people have diluted bloodlines… But some people when born have stronger bloodlines, and as they aged or cultivated, they would start going towards the extreme, with one bloodline dominating the rest. **When it appears, that is the ten extreme physiques!**"
+
+**A falha inerente** (Cap. 135): "everything exists in balance; the ten extreme physiques which hold hundred percent primeval essence is too perfect and heavens won't easily allow their existence… **it is difficult for the Gu Masters who hold ten extreme physiques to grow and mature, almost all dying an untimely death.**"
+
+**Vantagem material** (Cap. 1027, V5): "Once a person of the ten extreme physiques became a Gu Immortal, like Hei Lou Lan, they would obtain a **super grade blessed land**!" (6.700–13.000 km², contra 4.700–6.000 do high grade)
+
+### As 7 physiques efetivamente nomeadas
+
+| Filho de Ren Zu | Physique | Portador na narrativa | Cap. da 1ª identificação |
+|---|---|---|---|
+| 1º filho | **Verdant Great Sun** | — (só mítico) | Cap. 131 (V1) |
+| 2ª filha | **Desolate Ancient Moon** (tb. traduzido "Desolate Yin Ancient Moon") | Fang Yuan foi *suspeito* de tê-la (falso alarme, cap. 135/181) | Cap. 131 (V1) |
+| 3º filho | **Northern Dark Ice Soul** | Fang Zheng | Cap. 135 (V1); Cap. 722 (V4) |
+| — | **Great Strength True Martial** | Hei Lou Lan | V4, muitas ocorrências |
+| — | **Blazing Glory Lightning Brilliance** | o immortal zombie de manto negro | Cap. 925 (V4) |
+| — | **Myriad Gold Wondrous Essence** | — (só mítico; irmã de Blazing Glory) | Cap. 2021 (V6) |
+| 9ª filha | **Carefree Wisdom Heart** | um immortal zombie | Cap. 495 (V3); Cap. 969 (V4) |
+
+**Passagem que confirma a raridade e a convergência:** Cap. 969 (V4): "**Blazing Glory Lightning Brilliance, Northern Dark Ice Soul, Carefree Wisdom Heart… the ten extreme physiques that one seldom sees in a hundred years are actually appearing one after the other**, I am afraid this is not a coincidence."
+
+❌ **As outras 3 nunca são nomeadas.** Busquei todas as ocorrências de "physique" nos 6 volumes; não há oitava, nona nem décima com nome. As ordinais 4ª–8ª e 10ª entre os filhos de Ren Zu também nunca são preenchidas (apenas 1º, 2ª, 3º e 9ª têm ordem explícita).
+
+### Duas physiques *fora* das dez (importantes para não confundir)
+
+- **Pure Dream Reality Seeker Physique — a "décima primeira extreme physique"**, **artificial**, criada por Old Man Yan Shi. Cap. 1419 (V5): "The Pure Dream Reality Seeker Physique was created by Old Man Yan Shi, it contained dream path dao marks, **Old Man Yan Shi wanted to create the eleventh extreme physique, he succeeded to an extent, but not fully**, because the Pure Dream Reality Seeker Physique had a huge flaw, it was limited by time, once time was up, it would **detonate into a dream realm**." Segunda falha (Cap. 1075, V5): "Any soul which resides in the Pure Dream Reality Seeker Physique body will fall into deep sleep and lose its memories… the Pure Dream Reality Seeker Physique still caused the soul to lose memories continuously." — Portador: Ying Wu Xie.
+- **Righteous Virtue Physique** — obtida via accumulate virtue Gu (Virtue true inheritance). Cap. 1542 (V5) / Cap. 2085-ish (V6): "the Righteous Virtue Physique was **only inferior to the ten extreme physiques, but it did not have any of the ten extreme physiques' flaws**, it represented an unparalleled future and potential!"
+
+### "Dual Ten Extreme Physique"
+Conceito criado por Fang Yuan no **Cap. 939 — "Dual Ten Extreme Physique Rank Nine Demon Venerable?"** (V4): usando o método de revival da life-and-death immortal aperture, ele planejava ter **Great Strength True Martial** (via corpo de immortal zombie de Hei Lou Lan) *e* **Desolate Ancient Moon** simultaneamente. Nota do mesmo capítulo: "**If since ancient times, there has not been a ten extreme physique venerable**, did that imply that they would be the strongest even among the rank nine venerables?" — ou seja, **nenhum dos dez Veneráveis teve uma extreme physique**.

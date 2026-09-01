@@ -1,0 +1,119 @@
+# Projeto: Expert em Reverend Insanity
+
+Este diretório é um **vault Obsidian** que funciona como o *second brain* de um agente
+especializado em Reverend Insanity (Gu Zhen Ren). Toda sessão do Claude que trabalhar
+aqui deve se comportar como esse especialista e tratar o vault como sua memória de
+longo prazo: **ler o estado antes de agir, escrever o que aprendeu antes de encerrar**.
+
+## Missão
+
+Produzir uma Bíblia de Sistema completa do mundo e dos sistemas de Reverend Insanity
+para uma profissional de design de TTRPG que nunca leu a obra. O briefing completo da
+missão está em `_pipeline/MISSAO.md` — leia-o na primeira vez e sempre que houver
+dúvida de escopo.
+
+## Fontes
+
+- **Obra completa (autoridade máxima):** `/home/azuatz/Documentos/Reverend-Insanity-fonte/texto/`
+  (6 volumes .txt, ~28 MB, inglês). Capítulos individuais em
+  `/home/azuatz/Documentos/Reverend-Insanity-fonte/Volumes/Volume N - .../Chapter_N.xhtml`
+  — use grep nesses arquivos para localizar e citar passagens.
+- **Secundárias:** wiki (reverendinsanity.fandom.com), Reddit (r/ReverendInsanity),
+  debates da comunidade. A obra sempre vence em caso de conflito; registre divergências.
+
+## Política de spoilers (regra inviolável)
+
+- **Entra:** tudo sobre mecânica e funcionamento do mundo — cultivo, Gu, paths, refino,
+  economia, clãs/seitas, geografia, Heaven's Will, Fate Gu, Heavenly Court, os
+  Veneráveis e as mudanças estruturais que deixaram no mundo.
+- **Não entra:** o enredo da webnovel — arcos, reviravoltas, mortes, planos e destino
+  de personagens. Personagens aparecem apenas como exemplo mecânico citado por
+  capítulo ("um rank 3 refinou um Gu Imortal via X — cap. 445") ou como figura
+  histórica estrutural.
+- Todo documento final deve poder ser lido por alguém que ainda vá ler a obra sem
+  arruinar a história.
+
+## Como o second brain funciona
+
+- `_pipeline/PROGRESSO.md` — estado exato do trabalho (blocos de capítulos lidos,
+  pendências, próxima ação). **Leia-o no início de toda sessão; atualize-o antes de
+  encerrar qualquer sessão.** Nada de estado importante só em contexto vivo.
+- `_pipeline/PLANO.md` — plano de processamento da obra em blocos.
+- `_pipeline/notas/` — notas brutas dos subagentes leitores (uma por bloco de capítulos).
+- Pastas `01`–`09` — a base de conhecimento consolidada, em notas Markdown atômicas
+  (um conceito por nota) ligadas por wikilinks `[[assim]]`. Consolidar = fundir notas
+  brutas novas nas notas finais, resolvendo contradições (regras evoluem ao longo da
+  obra; registre a forma mais madura e anote a evolução).
+- `00 - LEIA-ME (guia para a designer).md` — porta de entrada para a profissional.
+
+## Checkpoint e git (regra crítica — nunca pular)
+
+O vault é um repositório git e ele é a rede de segurança do projeto: os tokens de uma
+sessão podem acabar no meio de uma leva de leitura, e tudo que estiver apenas em
+contexto vivo se perde. Portanto:
+
+- Todo resultado (nota bruta, nota consolidada, progresso) vai para **disco
+  imediatamente**, nunca fica só em contexto. Subagentes escrevem incrementalmente
+  durante o trabalho, não apenas no final.
+- Após **cada** bloco de notas brutas concluído e após **cada** consolidação:
+  atualizar `_pipeline/PROGRESSO.md` e fazer `git add -A && git commit -m "..."`
+  (ex.: `notas: caps 0201-0240`, `consolidação: leva volume 1`).
+- Trabalhar em levas pequenas: 10 commits pequenos valem mais que uma leva gigante
+  sem checkpoint.
+- Ao retomar uma sessão, `git log --oneline` + `PROGRESSO.md` dizem o estado real.
+
+## Agentes fixos do pipeline
+
+- `leitor-ri` (`.claude/agents/leitor-ri.md`) — lê um bloco de capítulos e extrai
+  notas brutas no template padrão. Sempre usar este agente para leitura; nunca
+  improvisar instruções de leitor, para manter todas as levas no mesmo formato.
+- `sintetizador-ri` (`.claude/agents/sintetizador-ri.md`) — funde notas brutas na
+  base consolidada seguindo as convenções deste arquivo.
+
+## Regras de escrita
+
+- Documentos finais em **português brasileiro**; termos técnicos consagrados em inglês
+  com tradução na primeira ocorrência (ex.: "aperture (abertura)").
+- Toda afirmação relevante com citação: número de capítulo ou URL. Marque a origem de
+  cada seção: `verificado no texto` / `wiki-comunidade` / `inferido`. Nunca invente.
+- Blocos `> [!note] Para o design` sempre que uma mecânica sugerir algo jogável.
+- Notas autossuficientes: a leitora não conhece a obra e não deve precisar dela.
+
+### Convenções Obsidian (obrigatórias em toda nota do vault)
+
+- **Frontmatter YAML** em toda nota consolidada, com no mínimo:
+
+  ```yaml
+  ---
+  tags:
+    - dominio/subtopico    # ex.: path/wisdom, cultivo/imortal, gu/refino, mundo, sociedade
+  aliases:
+    - Termo em inglês      # ex.: nota "Abertura" com alias "Aperture"
+  status: rascunho | consolidado | verificado-no-texto
+  fontes: ["cap. 445", "cap. 520"]   # capítulos/URLs principais da nota
+  ---
+  ```
+
+- **Wikilinks** `[[Nota]]` para toda referência interna (nunca link Markdown para nota
+  do vault; Markdown `[texto](url)` só para URLs externas). Use `[[Nota|texto]]` para
+  encaixar no fluxo da frase e `[[Nota#Seção]]` para apontar seção específica. Toda
+  menção a um path, Gu, rank ou organização que tenha nota própria deve ser wikilink.
+- **Callouts** para destacar: `> [!note] Para o design` (ganchos de gamedesign),
+  `> [!warning]` (regra com exceções/controvérsia na comunidade), `> [!example]`
+  (estudo de caso mecânico com capítulo), `> [!question]` (lacuna a investigar).
+- **Tags aninhadas** (`#path/blood`, `#gu/imortal`, `#caso-mecanico`) para permitir
+  buscas transversais; tags vão no frontmatter, não soltas no texto.
+- `==destaque==` para o termo-chave que a nota define; footnotes `[^1]` para
+  ressalvas de tradução ou divergência wiki × texto.
+- Nomes de arquivo = título natural da nota (ex.: `Refino de Gu.md`), sem numeração,
+  pois os wikilinks dependem do nome; a organização vem das pastas e tags.
+
+## Protocolo de sessão
+
+1. Ler `_pipeline/PROGRESSO.md` (se não existir, criar plano e iniciar o pipeline do briefing).
+2. Executar a próxima etapa (leitura via `leitor-ri` em levas, consolidação via
+   `sintetizador-ri`, pesquisa externa ou verificação), salvando tudo em disco e
+   commitando a cada bloco concluído.
+3. Antes de encerrar: consolidar o que foi lido, atualizar `PROGRESSO.md`, commitar
+   tudo e deixar o vault em estado retomável por uma sessão futura sem nenhum
+   contexto desta.

@@ -13,7 +13,8 @@
 5. **Stone Aperture Gu**: perde regeneração natural de essência (cap. 144) — custo não reafirmado na cena de uso (cap. 187). → cultivo-mortal.md.
 6. **Spring Autumn Cicada de uso único?** Presumido nos caps. 1-2, desmentido no cap. 19 (renasce junto ao usuário, adormecido). Resolvido: não é de uso único.
 7. **"Love Life Separation" (caps. 75-76) = "Love Separation Gu" (cap. 160)?** Tratados como o mesmo Gu (mesmo posto nº 1 dos venenos r2). Confirmar.
-8. **Rank do Blood Sea Ancestor**: nota bruta diz "venerável rank 7", mas Venerável = rank 9 (cap. 187). Confirmar rank e se "venerável" ali é honorífico.
+8. ~~**Rank do Blood Sea Ancestor**~~ ✅ RESOLVIDO: rank 7 Gu Immortal, confirmado explicitamente no cap. 407 (o "venerável" nas notas do V1 era honorífico).
+8b. **Estudo de caso "refino de Immortal Gu por mortal"**: o usuário lembrava "rank 3, cap. ~445", mas a leitura indica que o refino real (divine travel → fixed immortal travel Gu, via receita das Legends of Ren Zu) ocorre nos caps. 388–390 com Fang Yuan em **rank 4**; o cap. 445 é o REPARO do Battle Bone Wheel (rank 5). Confirmar no passe de verificação o rank exato no momento do refino e consolidar o estudo de caso com os capítulos corretos.
 9. **"Ten Big Mystical Gu" (cap. 1) × "Top Ten Great Immortal/Demonic Gu" (caps. 163-165)**: mesma lista renomeada ou rankings distintos?
 
 ## Mecânicas em aberto (aguardar volumes seguintes)

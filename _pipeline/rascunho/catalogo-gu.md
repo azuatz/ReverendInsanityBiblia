@@ -285,3 +285,256 @@ Tabela mestra de todos os Gu vistos na obra, com rank, efeito, alimento e capít
 [^1]: Evolução da regra: na 1ª menção o Moonshadow Gu aparece como Gu de ocultação que também restringe a essência do alvo (cap. 15); a descrição madura (cap. 156) o define como supressor de essência implantável, derivado do Illusory Moon Gu. Prevalece a versão do cap. 156; a menção a stealth pode ser imprecisão inicial ou uso combinado.
 [^2]: "Photo-audio Gu" cobre mais de uma variante: gravador simples de imagem/som em loop (cap. 15-16, 45), evolução r3 do Digital Shade Gu que grava voz (cap. 156) e o gravador ritual de uso único que projeta a cena ao ser esmagado (cap. 179-180). Tratar como família de Gu de registro até a obra distinguir.
 [^3]: "Love Life Separation" (caps. 75-76) e "Love Separation Gu" (cap. 160) são tratados como o mesmo Gu (mesmo posto de "nº 1 dos venenos rank 2"); variação de tradução.
+
+---
+
+# Volume 2 (caps. 200–405) — adições
+
+## Gu Imortais (rank 6) — primeiros catalogados
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Second aperture Gu ⭐ | 6 | concede uma SEGUNDA abertura: dobra capacidade e recuperação de essência, segundo conjunto de Gu; criação inacabada de um Gu Immortal do strength path; receita de ~mil passos (ver cultivo-imortal.md); aptidão da 2ª abertura limitada pela da 1ª (cap. 387) | apertures de Mestres mortos (via beast strength placenta) + essência imortal | 377-390 |
+| Divine travel Gu ⭐ | 6 | teleporte para local ALEATÓRIO do mundo; só ativa com o usuário embriagado; pode "engolir" outro Gu ativamente (cap. 405); material-base do fixed immortal travel | — | 371, 378, 404-405 |
+| Fixed immortal travel Gu ⭐⭐ | 6 | evolução do divine travel: teleporte global a destino escolhido, exige imagem mental precisa e atual do local; NÃO transporta nada fora do corpo/abertura; consome essência imortal; receita: divine travel + jade sky Gu + fixed star Gu + luz da glória imemorial ("hack" de substitutos funcionais) | essência imortal (ativação) | 404-405 |
+| One's own way Gu ⭐ | 6 | mantém os Gu de um protegido funcionando dentro de blessed land apesar do selo do land spirit; expenditure, 3 usos | — | 375 |
+| No loss Gu ⭐ (clã Wu) | 6 | teleporta automaticamente os Gu rank 5 do dono para longe no momento da morte; nenhuma blessed land restringe um Immortal Gu | — | 381 |
+| Sea oath Gu / Mountain pledge Gu ⭐ | 6 | juramentos reutilizáveis, ancorados a um mar/montanha físicos; destruir o local anula o voto | — | 384 |
+| Dream Wings ⭐ | 6 | só existe em sonhos; consome espírito/alma (não essência imortal); ativação forçada por mortal: amnésia a invalidez mental | — | 398 |
+
+## Tempo e destino (time path)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Third Watch Gu ⭐ | 5 (uso único) | acelera o tempo pessoal 3× (cultivo e recuperação 3× — e também venenos/doenças); custo: lifespan restante cai a 1/3; deixa tatuagem triangular prateada no peito; 2 aplicações sucessivas = 9× (etapa final do second aperture Gu) | — | 210-211, 389-390 |
+| Instant success Gu | 4 (consumível, "cargas" = pares de asas) | contém dao mark do tempo; comprime processos de cultivo/transformação de meses em instantes; custo em LIFESPAN proporcional ao tempo comprimido (meio ano de vida numa sessão documentada); precisa ser "carregado" com essência do usuário | — | 293, 296-297 |
+| Man triumphing heaven Gu | 5 | "desafia os céus e muda o destino": desperta a abertura de um mortal sem talento algum | — | 274, 302, 305 |
+| Fixed star Gu ⭐ | — (fragmento estelar imemorial) | implantável às escondidas no corpo do alvo; âncora de rastreamento global (killer move Infinite Search and Lock); remoção exige preparo ou amputação; formato octaédrico | — | 398-400, 405 |
+
+## Contratos e anti-contratos
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Poison vow Gu | 3 (consumível) | juramento letal entre partes; vincula pela LETRA do texto lido; checa intenção no momento do voto; violar = poça de sangue; "substituto barato" dos Gu imortais de juramento | sangue do coração dos juradores | 268, 285, 296, 310-312, 401 |
+| Eating one's words Gu | — (invenção "à frente do tempo") | anula o poison vow só do lado do próprio usuário; dura 10 respirações; refinado de lion roar Gu + 3 paper crane Gu | — | 278, 285, 288 |
+| Black and white paper Gu | — (futuro) | contrato imune ao eating one's words (linha do tempo original, ainda não inventado) | — | 278 |
+| Distorting black and white Gu | — (futuro) | anula o black and white paper Gu (idem) | — | 278 |
+
+## Força e corpo (strength path — expansão V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| All-out effort Gu ⭐ | 3 (→4 via undefeated hundred battles Gu) | Gu antigo quase extinto; invoca beast phantom que replica o movimento do usuário com força amplificada, 100% das vezes, SEM custo de essência para fantasmas inatos; 1 fantasma por vez (rank 3 invoca os de prestígio só por sorte) | — | 285-292, 345, 368 |
+| Bitter strength Gu | 4 | quanto mais ferido o usuário, mais forte fica (dano recebido vira "buracos" extras de força/fantasmas); raro, baixa taxa de fusão, ~380.000 pedras; baixa demanda de essência (ativável por rank 3) | — | 304-311, 337-345 |
+| Self-reliance Gu | 3 | cura baseada na força física do próprio usuário (escala com a força; no pico iguala cura rank 4); só cura a si mesmo; 45.000 pedras | — | 292, 342, 345 |
+| Strength qi Gu ⭐ | 3 (ancestral extinto, qi path) | solidifica TODOS os fantasmas de força de uma vez para ataque físico independente; 5% da essência (r3 pico) por fantasma; fantasma destruído volta a ser qi reutilizável | — | 320-321, 343, 368 |
+| Habitual strength Gu / Store strength Gu | 4 / 3 | acumulam força ao longo do combate e liberam em picos; r3 exige ficar imóvel, r4 permite movimento livre — "sucessor moderno" do all-out effort | — | 316-319 |
+| Dragon-elephant huge strength Gu | 4 | fantasma de dragon-elephant (sangue de dragão): 1 > 2 fantasmas comuns; 3 > 8 comuns | — | 317-319 |
+| Crocodile Strength Gu | 2 | +força permanente (nível crocodilo; especialidade: mordida/água); ~1 mês de uso repetido para completar | carne de crocodilo | 204-207, 233, 288 |
+| Galloping horse strength Gu | 3 | força/velocidade de cavalo (30% mais rápido em investidas); adaptação natural 2-3 meses | — | 297 |
+| Green bull labor Gu / Stone turtle strength Gu / Tortoise Strength Gu | — | força de touro (duradoura) / tartaruga (resistência) — especialidades distintas por animal | — | 240, 297, 301 |
+| Grand bear Gu / Bear palm Gu | — | aumenta corpo + "força de urso" / aumenta mãos e pés >3× para golpes pesados; perder o grand bear reduz 30% da força de combate | — | 281 |
+| Tendon Coiling Gu | — | comprime a musculatura (aparência franzina esconde força real) | — | 240 |
+| Big strength Gu | — | +força por 50 respirações (suporte/material de refino) | — | 278 |
+| Violent strength Gu / Tyrant strength Gu | — / 4 | aumenta corpo e força drasticamente / linhagem "ancient strength path" (Tie Ba Xiu) | — | 340, 360-363 |
+| Earth overlord Gu ⭐ | 5 | absorve força ilimitada da terra, amplificando continuamente outros Gu de força | — | 360-363 |
+| Expend strength Gu | — | dobra o gasto de força/estamina dos inimigos ao se moverem; forte backlash a quem o cede | — | 341 |
+| Iron Bone Gu | 3 (uso único) | ossos pretos duros como ferro, permanente; exige essência de alta qualidade; dor extrema ("perfura a alma") | — | 232-233 |
+| Essence iron bone Gu | 4 | via refino reverso do iron bone; esqueleto muito mais firme (2-3×); exige tempo de uso maior | — | 355, 368 |
+| Steel tendon Gu / Golden steel tendon Gu | — / — | tendões de aço (uso contínuo por ~meio ano; deixa "camada" de lei da força que atrapalha cura) / versão dourada superior | — | 288-292, 368 |
+| Jade Bone Gu | — (uso único) | esqueleto qualidade "jade", duro e flexível; dor intensa na ativação | — | 214, 225, 228 |
+| Bone Spike Gu | 3 | espinhos ósseos perfuram a própria carne antes do inimigo (dano espelhado ~1000:800); exige cura contínua | — | 222-223 |
+| Bone wings Gu | 4 | asas ósseas crescem das costas (processo doloroso); voo pleno normalmente exige 2-3 anos de treino (5+ para combate aéreo); receita: footless bird Gu + materiais (~180.000 pedras) | — | 358, 361-364 |
+| Undefeated hundred battles Gu ⭐ | 5 (uso único) | GARANTE o sucesso de uma refinação em andamento (também usado para elevar o all-out effort a rank 4); obtido na 100ª rodada da King Xin Inheritance (herda-se junto um grupo de hairy men) | — | 286, 345, 389, 405 |
+| Beast strength placenta Gu ⭐ | 5 | devora aberturas de Mestres mortos, convertendo-as em "aptidão" do second aperture Gu (retornos decrescentes) | apertures de mortos | 378-385 |
+
+## Defesa (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Canopy Gu | 3 | camada de luz branca no corpo; enfraquece após impactos fortes; "rígido" | — | 250-251, 288-290 |
+| Golden shield Gu / Golden bell shield Gu | 3 / 4 | armadura de luz dourada (incompatível com canopy simultâneo) / versão rank 4 | — | 296, 300-301, 342-345 |
+| Bronze skin Gu / Ancient bronze skin Gu | 2-3 / 4 | reforço de pele (r2 temporário, r3 permanente) / pele de "bronze antigo", muito superior; refino 30% mais rápido por imersão em bronze fervente | — | 301, 354, 368 |
+| Ivory armor Gu | 4 | cresce/regenera cobrindo o corpo ao longo da batalha; sem elasticidade — quebra se o usuário mudar de tamanho | — | 316-319 |
+| Hard qi Gu | 4 (qi path) | nuvem de ar amorfo, defesa "como rocha" disfarçada de indefeso | — | 315, 319 |
+| Liquid metal Gu ⭐ | 5 | defesa líquida regenerativa, quase impenetrável (Tie Mu Bai) | — | 374, 379 |
+| Ribcage Shield Gu / Flying Bone Shield Gu / Arm Bone Wings Gu | 3 | trio "escolha 1 de 3" da herança Bai Gu: costelas externas (sem custo contínuo) / 3 escudos ósseos flutuantes / asas ósseas no antebraço (velocidade de ataque) | — | 222-223 |
+| Carapace Gu | 2 | escama defensiva nas costas (de crocodilo-rei) | — | 204, 209 |
+| Iron Thorn Thistle Gu | 3 | veste de espinhos (defesa + arma anti-desarmado) | — | 210, 212 |
+| Water Armor Gu | — | defesa especializada em combate aquático | — | 240 |
+| Umbrella lotus Gu | — | flor-lótus gigante como escudo | — | 360 |
+
+## Movimento (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Vertical crash Gu / Horizontal charge Gu | 3 | investidas em linha reta (até 100 passos) com a força do próprio corpo; recarga de poucas respirações | — | 288, 341-345 |
+| Charging crash Gu | 4 | fusão dos dois: 200 passos, recarga pela metade, custo maior | — | 288, 345, 368 |
+| Rainbow light Gu | 3 | vira facho de luz — o movimento r3 mais rápido (supera muitos r4); exige Gu de reação rápida; incompatível com Gu de força | — | 266 |
+| Chasing wind Gu | 4 | velocidade "de perseguir o vento"; dao mark de vento (incompatível com fantasmas de força) | — | 307 |
+| Footless Bird (Gu) ⭐ | 3 (consumível) | ave óssea sem pernas, "nº 1 abaixo do rank 5"; voa milhares/dez mil li — mas pousar = destruição (voa uma única vez) | — | 225-229, 358 |
+| Position swap Gu | — (vital de Li Hao) | troca instantânea de posição com um alvo; custo cresce com distância e "peso"/força do alvo | — | 289-293 |
+| Space piercing Gu | — | teleporte de centenas de passos rasgando o espaço | — | 339 |
+| Warp Gu | 5 | teleporte corporal; custo corporal cumulativo grotesco por uso (deformidade crescente) | — | 385, 397 |
+| Swift shadow Gu / Blitz Gu / Jumping Grass Gu | — | velocidade com rastro de sombra / aceleração "de canhão" / saltos | — | 210, 214, 227, 251, 298 |
+| Dragon travel tiger steps Gu | 4 | movimento de carga/impacto (família "dragão", ressonância com dragon-elephant) | — | 317-320 |
+| Golden aurora Gu | 4 | voo (Tie Mu Bai) | — | 373 |
+
+## Luz (light path)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Extreme light Gu ⭐ (incompleto) | 5 | emite a "luz da glória" imemorial que atravessa TUDO (inclusive blessed lands); sem ataque próprio; 3 usos/mês (senão autodestrói); núcleo dos killer moves Immemorial Light Fist / Torrential Light Stream / My Glorious Spear | — | 389-393 |
+| Gather light Gu / River under the sun Gu / My will Gu / Bright spear Gu / Heaven's will Gu / Empty fist Gu | 4-5 | componentes dos killer moves de luz acima | — | 389-393 |
+| Light source Gu | — | reduz à metade o custo de essência de Gu do tipo luz | — | 266, 288 |
+| Broadsword of light Gu / Sword shadow Gu | 3 | os dois Gu de ataque mais fortes do rank 3 (espadas largas luminosas / sombra de espada) | — | 265-266 |
+
+## Gelo e fogo (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Ice crystal Gu / Frost demon Gu / Snow fairy Gu | 3 | trio de transformação do gelo ("para homens" / "para mulheres" ×2); uso prolongado arrisca virar estátua de gelo (mitigar com vitality Gu); 28.000 pedras (ice crystal) | — | 275, 277, 298, 313, 396 |
+| Ice edge Gu / Icicle Gu / Snowball Gu / Ice explosion Gu / Frost breath Gu / Frost arrow Gu / Frost Fish Gu | 2-4 | arsenal de gelo: lâminas, estilhaços, bolas de neve (custo alto), detonação de gelo existente (potência ∝ tamanho/idade/frieza do gelo), sopro congelante (5% de essência), flecha de gelo r4 barata, dardo congelante | — | 227, 296-299, 306, 313 |
+| Fiery claw Gu / Fiery snake Gu / Fire pellet Gu / Fuel oil Gu | 3-4 | garra de fogo / serpentes de fogo controláveis / bolas de fogo (reabastecem as serpentes) / óleo inflamável em área | — | 312-314 |
+| Prairie fire Gu ⭐ | 5 | sozinho repele o ataque conjunto de 3 rank 4 pico (Yi Huo) | — | 356 |
+| Flame heart Gu | 3 | aloja-se no coração; fortalece Gu de fogo | — | 296 |
+| Lava Explosion Gu / Flame Stomach Gu / Accumulating Ash Gu | 3 (selvagens, lava crocodile king) | bola de lava / defesa térmica / cura que come cinzas | cinzas (o 3º) | 207-208 |
+| Human Torch Gu | 4 | corpo inteiro vira fogo vivo até a força vital acabar; arma suicida sem controle fino de trajetória | — | 227 |
+
+## Cura e vida (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Flesh-bone Gu (Meat-bone Gu) ⭐ | 3 | dentadura branca; reconstrói a carne de corpos incompletos; reutilizável; combo histórico com Rising Dead Gu (usado até por rank 9) | — | 224, 226, 228-229 |
+| Rising Dead Gu | 4 | o melhor Gu de cura r4: ressuscita morto há <14 h com corpo intacto; uso único, obtido só por sorte | — | 224 |
+| Remnant life Gu | 5 (uso único) | ressurreição pós-morte se o corpo permanecer intacto; suprimido dentro de blessed land (reativa quando a supressão cai); anulável destruindo o corpo | — | 385 |
+| Vitality Gu | — (qi path) | preserva a força vital; par de segurança de transformações perigosas | — | 313, 315 |
+| Spirit peach Gu ⭐ | 5 | Gu de cura renomado do Southern Border (Tao Zi) | — | 375 |
+| Golden breeze Gu | 4 | cura comparável a rank 5 | — | 373 |
+| Clearing Heat Gu | 2 | neutraliza venenos (corpse poison etc.) | — | 217-218, 273 |
+| One life one death Gu | — | converte energia de morte (de quem morre "por causa" do dono) em força vital/cura excepcional; guardado na Door of Life and Death | energia de morte | 384 |
+| Return to childhood Gu | — | acumula e libera lifeforce lentamente (longevidade); fixa o corpo em físico infantil permanente | — | 367 |
+
+## Escravização, controle e multitarefa (enslavement path)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Slavery Gu (série) | 1-5 | controle total sobre o alvo implantado; r5 escraviza um Mestre Gu rank 5 inteiro; submissão = disputa de almas (distração contorna resistência) | — | 330, 387, 401 |
+| Poison scorpion Gu / Scorpion faeces Gu | 3 / 2 | defeca veneno único por indivíduo; escravo precisa do antídoto a cada 7 dias — método padrão barato de controle de escravos | — | 330 |
+| Dog enslavement Gu | 1-2 (chave) / 5 (King Quan) | domina um cão implantando-se na alma (morre com o cão); versão r5 escraviza reis-fera e comanda exércitos | — | 324, 346-350 |
+| Dog guts Gu (série) | 1-5 | remove o medo dos cães em área: r2 vence medo de hundred beast king; r3 ("above mountain") thousand; r4 ("above sea") myriad; r5 ("above heaven") frenesi total | — | 350 |
+| Multitask Gu (two/three/… tasks at once) | 2+ | divide a mente: soma tarefas simultâneas ao teto natural do usuário | — | 351 |
+| Whale enslavement Gu | — | controla baleias-voadoras-azuis (caravanas do clã Yi) | — | 260 |
+| Puppet control Gu / Grass puppet Gu | — / 1-4 | controle de corpos vivos à distância (combo golden needle) / soldados-boneco de planta (r3 mata rank 1; combináveis em "grass sword elite soldier" r4) | — | 360-362, 374 |
+| Atmosphere Gu | 4 (qi path, natural, sem receita) | insere/remove hábitos e inclinações em grupos/raças INTEIRAS via força invisível; sem efeito em indivíduos isolados; usos históricos de sabotagem cultural | — | 308-309, 320 |
+
+## Investigação, ocultação e informação (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Breath Concealment Gu | 3 (planta, de dark leopards) | oculta aura e nível de cultivo (mascara ~1 rank acima do Gu); praticamente indetectável na era atual (tecnologia obscura por mais 150 anos); cai ao ativar beast phantom | — | 228-229, 239, 273, 337, 345 |
+| Heart sound Gu | 2 (par) | comunicação mental a 100 passos; voz padronizada (só revela gênero) | — | 284 |
+| Paper crane Gu | 1-2 | mensageiro/carta; chave da King Xin Inheritance; guia o caminho voando | — | 278, 324, 356 |
+| Vine information Gu | 1 | registro público de vitórias/derrotas da arena (alugado; só o clã Shang edita) | alimentado pelo lutador | 279-280, 284, 293 |
+| Bookworm | 1 | "download" de catálogos/conhecimento na mente; versão herança aloja-se no cérebro (morre com a cabeça) | — | 210, 261 |
+| Heart engraved Gu | 1-5 | grava permanentemente uma receita/informação na memória do usuário | — | 309 |
+| Flash of inspiration Gu | 3 (uso único) | insight súbito (destrava receitas ou qualquer padrão complexo com dados suficientes); ~29.000 pedras, exige token de alto grau | — | 282 |
+| Anxiety Accumulation Gu | — | amplifica ansiedade de todos num raio de 10 passos, sem que percebam | — | 218 |
+| Gentle feelings Gu ⭐ | — (alma) | sussurro com a voz de um ente querido; distração emocional em combate | — | 398 |
+| Invisibility Gu | 5 | invisibilidade detectável só por Gu investigativo específico r5 | — | 354, 364 |
+| Rust flower Gu | — (clã Tie) | na alma dos membros do clã; marca quem os mata com fragrância rastreável (vingança post-mortem) | — | 352 |
+| (Limitless/rank 5) search and lock Gu | 5 | golpe secreto multiusuário do clã Tie: planta "lock Gu" e localiza o alvo em qualquer lugar; contramedida definitiva contra voo; consumo altíssimo | — | 353, 362 |
+| Vajra stare Gu ⭐ | 5 | olhar destrói a alma do alvo (1 s de contato visual); requer golden eye Gu para não cegar o usuário | — | 379 |
+| Monkey Language Gu | — | negociação na "língua" dos macacos (abriu rota comercial histórica) | — | 239 |
+
+## Armazenamento e economia (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Primeval elder Gu | 3 | esfera de cristal com "ancião" dentro; armazena até 1.000.000 de pedras primevas (expressão do ancião indica o nível); ~6.600 pedras | — | 268, 354 |
+| Flowerbud Gu | 2 | flor-cofre; prática padrão: esconder o bem mais valioso num armazém secundário longe do combate | — | 283-284 |
+| Blue sky Gu / Sky granary Gu | 4 / 3 | armazenamento de grande capacidade (exclusivo Eastern Sea; funde de sky granary; evolui a blue sky well r5 com sky well Gu da ilha Tian Jing) | — | 353 |
+| Earth treasury flower Gu | — | armazém-flor; material da receita do second aperture Gu | — | 373, 378 |
+| Gourmet food box Gu | 5 | preserva pratos prontos; alimenta dezenas de milhares num gesto | — | 269 |
+| Rice Bag Grass Gu | — | vinha que produz arroz maduro em instantes | essência | 210, 212 |
+
+## Cultivo dual e transferência (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Bone Flesh Unity Gu ⭐ (par) | 3 | "cultivo dual": converte e transfere essência entre dois usuários vinculados sem contaminação de aura; 5 subtipos por vínculo (10% doado → 20/40/60/80/100% recebido); refino exige parentesco de sangue direto + carne de ambos; qualidade escala com vínculo emocional; permite avanço até de RANK com essência alheia; valioso em qualquer rank | — | 214, 226, 229-231, 239, 245, 301, 326, 331, 345 |
+| Grass skirt Gu | 5 | zero defesa; absorve energia primeva do ar rapidamente, repondo a essência do usuário | — | 274 |
+| Heavenly Essence Treasure Monarch Lotus (receita) | 4 | versão r4 da Treasure Lotus (exige a lotus r3 como ingrediente); receita vendida por 670.000 pedras | — | 308-309 |
+
+## Cadeia liquor worm completa (V2 — atualiza a seção do Vol. 1)
+
+| Gu | Rank | Receita | Purifica | Caps. |
+|---|---|---|---|---|
+| Liquor worm | 1 | — | essência verde-cobre +1 pequeno reino | 326 |
+| Four flavors liquor worm | 2 | 2× liquor worm + 4 vinhos | vermelho-aço +1 | 326 |
+| Seven fragrances liquor worm | 3 | 2× four flavors + 7 especiarias | branco-prata +1 | 326 |
+| Nine eyes liquor worm | 4 | 2× seven fragrances + olhos de 9 hundred beast kings distintos (~200.000 pedras de custo) | amarelo-dourado +1 | 326, 344 |
+| (rank 5) | — | NÃO existe: o mestre-receita morreu antes de completar a pesquisa | — | 326 |
+
+## Herança Bai Gu mountain e ossos (linhagem "Grey Bone Scholar")
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Bone Spear Gu / Spiral Bone Spear Gu | 1 / 2 | lança óssea (criação exclusiva do Grey Bone Scholar; difícil de nutrir, alto ataque); versão espiral penetrante | leite (milk spring) | 222-223, 248-251, 261-262 |
+| Flesh Laughter Gu | — | câmara de "bocas de sorte" que entregam Gu aleatórios | — | 223-224 |
+| Grey Bone Huge Book | — | livro-osso com receitas e história do fundador | — | 222 |
+
+## Venenos e armas raras (V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Jade sky Gu ⭐ | 5 | veneno imemorial quase incurável; mata em horas transformando o corpo em luz verde; formato de bambu de jade oco (substituto na receita do fixed immortal travel) | — | 387-388, 400, 405 |
+| Blood Handprint Gu | 5 (Blood Sea) | mão gigante de sangue: qualquer ser vivo atingido vira poça de sangue | — | 274 |
+| Blood skull Gu (posse de Fang Yuan) | 4 | "Gu divino para criar gênios de clã" (aptidão via sangue) — entrada do Vol. 1 confirmada em novo contexto | sangue | 302, 319, 345 |
+| Turn gold Gu ⭐ | 5 (vital de Tie Mu Bai) | transforma seres vivos em escultura de ouro, extinguindo a força vital | — | 372, 379 |
+| Soft bones Gu ⭐ | 5 | transforma todos os ossos num raio de 50 milhas em pasta | — | 373 |
+| Pitch black Gu ⭐ | 5 | escuridão que restringe qualquer Gu abaixo de rank 6 | — | 373 |
+| Golden needle Gu | 2 (clã Tie) | agulhas douradas ultraversáteis por combo: +poison liquid = veneno; +stiff = paralisia; +chaotic mind = fogo amigo; +vitality = cura; +create fog = névoa perfurante em área; +puppet control = marionetes | — | 374 |
+| Golden silkworm Gu | 3 | base do poderio do clã Jin; refinado da erva Jinzan (maturação 4 anos) | erva Jinzan | 243 |
+| Detonation Gu | 3 | detonação capaz de matar um zumbi cabelo-verde | — | 257 |
+| Charred Thunder Potato Gu (+ Mother Gu) | 2 / 3 | batata-mina enterrada (dano ∝ profundidade); a "mãe" produz sementes (1/3 viáveis); inútil em terreno sem solo | fertilidade do solo | 210, 213, 217 |
+| Exploding egg Gu | 1 | chave da King Bao Inheritance | — | 324 |
+| Plasma Gu | 2 | descarga elétrica em área: paralisa, forte contra armaduras metálicas; recarga 5 respirações | — | 349, 351 |
+| Thunderclap Gu (uso V2) | 3 | material de fusão do "thunder boar" (upgrade de beast phantom) | — | 353 |
+| Yin cloud Gu + Yang cloud Gu | 3 (par) | nuvens yin/yang que geram raios com lei de destruição — removem beast phantoms/dao marks de força (~19 dias) | — | 297 |
+| Iron cabinet Gu (+ qi flow Gu) | — (alto) | barreira de contenção de 1.000 m (4 usuários, manutenção contínua) OU cofre de ferro instantâneo que sela/protege uma pessoa de golpe letal | — | 352-354, 363 |
+| Water prison Gu / Water cage Gu / Bury Gu | 3 / — / — | bola de água que aprisiona / captura de Gu selvagens / esconder-se sob o solo (imóvel, custo alto) | — | 247-248, 288, 358 |
+| Gold eating flying ant Gu | 3 | bolas de formigas voadoras; eficaz contra iron cabinet Gu | — | 353 |
+
+## Zumbi (linhagem Zombie King — V2)
+
+| Gu | Rank | Efeito | Alimento | Caps. |
+|---|---|---|---|---|
+| Zombie heart Gu | 3 | coração de bronze de 7 buracos; produz o running corpse Gu | zumbis | 256 |
+| Running corpse Gu | 2 (consumível) | transforma cadáver em zumbi CAPAZ de evoluir (branco→preto→verde→azul; ver transformacoes-e-corpos-especiais.md) | — | 256 |
+
+## Lendas e mitologia (V2 — Legends of Ren Zu)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Reputation Gu | — (lenda) | formato de crisântemo; cruza o "ordinary abyss" gerando ponte proporcional à reputação (má reputação é mais fácil de obter que boa) | 287, 357 |
+| Vanity Gu | — (lenda) | caranguejo oco; explode em "vento de vaidade" que obceca mentes | 357 |
+| Life Gu / Death Gu | — (únicos) | habitam a Door of Life and Death | 384 |
+
+## Miscelânea V2 (não classificados)
+
+| Gu | Rank | Efeito | Caps. |
+|---|---|---|---|
+| Third eye / iron hand / hand blade / consecutive slash / quick battle gale / blade qi Gu | — | arsenal corpo-a-corpo de Tie Dao Ku (hand blade = núcleo r3) | 298, 360-362 |
+| Mountain back toad | 3 | sapo com montanha nas costas: ataque/defesa altíssimos, lentíssimo | 289-291 |
+| Golden needle mosquito Gu / Star arrow Gu / Flower rain Gu / Blade aura Gu | — | ataques à distância de suprimento limitado (esgotáveis por indução) | 300, 360-361 |
+| Rolling meat Gu + Blade aura Gu | — | combo "rolling blade meat" (bola de carne rolante com aura de lâmina) | 300 |
+| Swirl Gu / Tornado Gu / Revolving Gu / Whirlwind Gu | — | componentes de killer moves de gelo/vento | 299, 314 |
+| Djinn heart/body/mind Gu | 4 ×3 | killer move Djinn Transformation: triplica força física e mental temporariamente; quebra armaduras rígidas ao expandir | 319, 321 |
+| Eating wind Gu | 2 | "come" vento para saciar a fome (clã Ju) | 308 |
+| Injury wind Gu | — | vento de ferimento (parece leve, dano terrível; drena essência rápido) | 341 |
+| Green mountain remains Gu | 4 | protege o Gu núcleo em refino malsucedido | 286 |
+| Frenzy Needle Bee Gu | 3 | ferrão penetrante que contorna blindagens do mesmo rank | 208-209 |
+| Green Copper Relic Gu (recompensa) | — | avança 1 estágio dentro do rank 1 | 216-217 |
+| Spirit incubating flea | — | aloja a alma de um Mestre morto para orientar um sucessor | 211, 366, 375 |
+| King Quan travel token | — (item) | saída de emergência da King Quan Inheritance (sangue + "Woof", 3 usos); valor ≈ 1 Gu rank 4 | 351-352 |

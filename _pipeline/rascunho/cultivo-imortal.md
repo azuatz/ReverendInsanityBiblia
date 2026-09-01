@@ -39,9 +39,10 @@ Acima do rank 5 existe outra categoria de existência: o **Gu Immortal (Mestre G
 > fontes: ["cap. 163", "cap. 183", "cap. 187", "cap. 192", "cap. 383"]
 
 - **Venerável = rank 9**, teto do sistema; "Immortal Venerable" na via correta, "Demon Venerable" na demoníaca. **Em cada era existe só UM Venerável** — nunca dois simultâneos; representam invencibilidade suprema (cap. 383, confirmando cap. 187).
+- `[especializado]` A existência dos Veneráveis e o sistema de ranks até 9 são conhecimento de Gu Masters instruídos; os detalhes históricos individuais variam de lenda pública a segredo.
 - Nomeados até aqui:
   - **Immortal Venerable Genesis Lotus** (via correta): criador da receita do Heavenly Essence Treasure Lotus (cap. 163).
-  - **Red Lotus Demon Venerable** (demoníaco, rank 9): dono original do Spring Autumn Cicada (Gu do caminho do tempo, um dos "sete Gu misteriosos do mundo"); resistiu à Immortal Court e "quebrou as correntes que prendiam o destino" (cap. 383).
+  - `[segredo]` **Red Lotus Demon Venerable** (demoníaco, rank 9): dono original do Spring Autumn Cicada (Gu do caminho do tempo, um dos "sete Gu misteriosos do mundo"); resistiu à Immortal Court e "quebrou as correntes que prendiam o destino" (cap. 383 — revelado por um land spirit; a ligação com o Cicada e a natureza da "quebra do destino" são verdade oculta do universo).
   - **Blood Sea Ancestor** (demoníaco, lendário): criador das linhagens de Gu de sangue e do sistema de heranças-chamariz (caps. 183, 192). Rank ainda não confirmado (nota bruta do Vol. 1 dizia "rank 7" — provável honorífico; heranças verdadeiras do Mar de Sangue são raríssimas: o clã Shang achou só 2 em gerações de busca, cap. 274).
 - Combos de rank 5 citam um "Heaven's will Gu" como componente de killer move (cap. 389) — sem relação confirmada ainda com o conceito cosmológico de Heaven's Will.
 
@@ -49,7 +50,7 @@ Acima do rank 5 existe outra categoria de existência: o **Gu Immortal (Mestre G
 
 > fontes: ["cap. 276", "cap. 292", "cap. 297", "cap. 319-320"]
 
-- Todo Gu, grande ou pequeno, contém um **fragmento da Grande Dao** (law fragment / dao mark). Usar Gu = usar leis; refinar Gu = fundir/formar leis. O cultivo de Gu não é um "pequeno Dao": é o verdadeiro Grande Dao, centro da busca pela imortalidade (cap. 292).
+- `[especializado]` Todo Gu, grande ou pequeno, contém um **fragmento da Grande Dao** (law fragment / dao mark). Usar Gu = usar leis; refinar Gu = fundir/formar leis. O conceito circula entre Gu Masters instruídos (é a explicação corrente do rock gambling, cap. 276); a formulação plena — o cultivo de Gu não é um "pequeno Dao": é o verdadeiro Grande Dao, centro da busca pela imortalidade — aparece como compreensão de um cultivador de 500 anos (cap. 292).
 - Consequências mecânicas concretas:
   1. Gu que reforça o corpo (steel tendon Gu etc.) deixa uma "camada" da lei correspondente na região — cura só funciona bem se a lei do Gu de cura não conflitar com a lei presente (cap. 292).
   2. Beast phantoms (fantasmas de fera) são dao marks de força latentes no corpo, visíveis só quando manifestados (cap. 292); podem ser removidos destruindo o fragmento com lei de destruição (raios do par Yin cloud + Yang cloud Gu, ~19 dias, cap. 297).
@@ -63,6 +64,8 @@ Acima do rank 5 existe outra categoria de existência: o **Gu Immortal (Mestre G
 > fontes: ["cap. 325", "cap. 346-352", "cap. 366", "cap. 372", "cap. 374-375", "cap. 379-385", "cap. 389-390", "cap. 398", "cap. 404-405"]
 
 ### Natureza e leis internas
+
+`[especializado]` A existência e as regras gerais de blessed lands são conhecimento de clãs/seitas de alto nível (mortais comuns e Gu Masters rasos mal sabem que existem); os detalhes internos de cada terra específica são segredo dos envolvidos.
 
 - Um blessed land é um "mundo pequeno" (small world) dentro do mundo principal, com leis próprias; entrar = obedecê-las (cap. 346). Residência e obra de um Gu Immortal (rank 6+); cenário denso em recursos; essência primeva dezenas de vezes mais densa que fora (cap. 325).
 - **Fluxo de tempo próprio**, sempre mais rápido que o exterior: 3× (Terra dos Três Reis decadente, cap. 346, 380), 5× (Hu Immortal blessed land, cap. 366), 6× (Três Reis no auge, ~6.000 km², cap. 380).
@@ -116,6 +119,7 @@ Regras transversais extraídas: Immortal Gu podem ser "expenditure" (usos finito
 ### A receita do second aperture Gu (primeiro refino de rank 6 documentado)
 
 > fontes: ["cap. 377-390", "cap. 404-405"]
+> `[segredo]` — a receita inteira existe num único lugar (o land spirit Ba Gui a recitou a um único candidato); o mundo não sabe que esse Gu existe.
 
 - Receita em forma de poema (~10 mil palavras, ~mil passos); estágio inicial usa centenas de materiais, o intermediário consome Gu de rank 4-5 em massa, e o passo final requer OUTRO Gu de rank 6 (cap. 378). Etapas registradas: (1) solo podre + pó de sangue de 8 bestas desoladas ancestrais + earth treasury flower Gu (com falhas previstas e materiais reserva); (2) jade bone + ice muscle + yellow gold relic Gu; (3) stellar fire prairie Gu + snowy plain Gu — receitas antigas escondem duplos sentidos que exigem decifração; (4) nuvens invertidas (yin acima, yang abaixo) + sacrifício de 4 beast phantoms cuja natureza o refinador precisa compreender e expressar deliberadamente → **beast strength placenta Gu** (rank 5).
 - **Beast strength placenta Gu**: devora aberturas de Mestres Gu mortos e converte em "aptidão" do futuro Gu; quanto maior o rank/fundação da vítima, maior o ganho, com retornos decrescentes (40% → 75% → 83% → 89% documentado, caps. 379-388).
@@ -125,7 +129,7 @@ Regras transversais extraídas: Immortal Gu podem ser "expenditure" (usos finito
 
 ## Caminhos primordiais: espaço e tempo
 
-- Desde a era imemorial existem dois tipos-base de Mestres Gu: **caminho do espaço** (cima/baixo/esquerda/direita) e **caminho do tempo** (passado/presente/futuro) — a base do céu e da terra (cap. 383).
+- `[segredo]` Desde a era imemorial existem dois tipos-base de Mestres Gu: **caminho do espaço** (cima/baixo/esquerda/direita) e **caminho do tempo** (passado/presente/futuro) — a base do céu e da terra (cap. 383). A explicação completa foi dada por um land spirit em privado; o vocabulário "time path/space path" em si circula entre especialistas (cap. 355) — `[especializado]` para a existência dos caminhos, `[segredo]` para seu papel cosmológico e para o rio do tempo.
 - O caminho do tempo abrange do rank 1 ao 5 (Third Watch Gu etc.) até o rank 6 (Spring Autumn Cicada); Mestres comuns usam time path para acelerar cultivo/refino (cap. 355).
 - A cosmologia associada (rio do tempo, nove céus, cinco regiões) está em `mundo-e-cosmologia.md`; a mecânica de regressão do Spring Autumn Cicada está na ficha do catálogo e em `estudos-de-caso.md`.
 

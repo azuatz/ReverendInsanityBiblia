@@ -387,6 +387,8 @@ O Volume 2 fixa a terminologia: avanço de **estágio** dentro do rank = "pequen
 
 ### Transferência de essência entre pessoas (Bone Flesh Unity Gu)
 
+`[especializado]`→`[segredo]`: o Gu é criação única de uma herança (Flesh Bone Lord/Grey Bone Scholar, Bai Gu mountain); seu potencial de "produzir Gu Masters em lote" é tratado como tecnologia capaz de mudar a estrutura da sociedade — usá-lo em escala atrairia a cobiça de todas as grandes potências (cap. 231).
+
 O Vol. 1 tratava transfusão como contaminação inevitável; o Volume 2 introduz o mecanismo "limpo": o par **Bone Flesh Unity Gu** converte a essência doada sem deixar aura residual estranha (caps. 226, 239). A taxa de conversão depende da qualidade do vínculo entre os dois usuários — tabela completa (cap. 230-231): Fratricidal 10%→20%; Friendly 10%→40%; Indissoluble 10%→60%; Familial 10%→80%; Blood Kin 10%→100% (sem perda). Regras associadas:
 
 - O refino do par exige parentesco de sangue direto (pais/filhos ou gêmeos) + carne fresca de ambos os Gu Masters no caldeirão; a qualidade final escala com a profundidade emocional real do par (cap. 226, 229). Receita alterável (caso único documentado: par sem sangue direto obteve nível "Indissoluble" com receita modificada — zona cinzenta mecânica, cap. 230).

@@ -51,6 +51,32 @@ Duas convenções valem para o documento inteiro:
 > Eles aparecem aqui como **marcos históricos e estruturais** — quem fundou o quê, o
 > que deixou para trás — e não como personagens. Nada do enredo em que eles se
 > envolvem entra nesta nota.
+>
+> **Os dez estão todos alocados nas eras abaixo**, e a tabela-resumo no fim traz a
+> contagem para conferência. A ficha completa de cada um — caminho, legado e nota
+> onde ler — está em [[Visão Geral dos Veneráveis]], que é a lista soberana dos dez.
+
+> [!warning] "Immortal Venerable" e "Demon Venerable" são a mesma patente
+> Os títulos aparecem o tempo todo nesta nota e a diferença nunca é óbvia para quem
+> chega de fora. Ambos designam **exatamente o mesmo rank 9**, e a palavra que muda
+> indica apenas **por qual via a pessoa chegou lá**:
+>
+> - **Immortal Venerable** (Venerável Imortal) — chegou pela **via correta**, a
+>   ortodoxia aceita pelas instituições do mundo.
+> - **Demon Venerable** (Venerável Demônio) — chegou pela **via demoníaca**, que
+>   recusa esses limites.
+>
+> Nenhum dos dois é mais forte que o outro, e o rótulo **não mede crueldade**: os dois
+> caminhos são descritos em [[Caminho Correto e Caminho Demoníaco]], e vários
+> "imortais" fizeram coisas piores que vários "demônios". Leia o título como escola de
+> método, nunca como alinhamento moral.
+>
+> **Sobre a grafia:** os nomes próprios ficam em inglês nesta nota porque a tradução
+> brasileira de referência da obra só verteu alguns deles de forma consistente, e o
+> projeto decidiu não inventar nomenclatura própria. Onde existe forma em português
+> confirmada, ela está registrada nos `aliases` da nota do Venerável. Já os
+> **caminhos** aparecem traduzidos, porque para esses a tradução existe e é estável —
+> daí a mistura de idiomas dentro de uma mesma frase, que é deliberada.
 
 ---
 
@@ -130,9 +156,21 @@ quando o mundo se torna perigoso da forma como é hoje.
 - **No Continente Central, os clãs superam as seitas.** O equilíbrio institucional
   pende para o sangue.
 
-**Veneráveis desta era:** o **Reckless Savage Demon Venerable** (progenitor da força e
-da transformação), o **Thieving Heaven Demon Venerable** (criador do caminho do roubo,
-e o mais rico da história) e um terceiro do mesmo período.
+**Veneráveis desta era:** três, e todos pela via demoníaca — é a única era com um
+bloco assim.
+
+- O **Reckless Savage Demon Venerable**, progenitor dos caminhos da força e da
+  transformação.
+- O **Thieving Heaven Demon Venerable**, criador do caminho do roubo e o mais rico da
+  história; a atuação dele atravessa a fronteira desta era para a seguinte.
+- O **Limitless Demon Venerable**, criador do **caminho da regra**. Ele pertence a
+  esta era, mas a obra dele que mais marcou o mundo — a caverna de nove camadas que
+  perfurou a fronteira externa — foi escavada nos últimos anos de sua vida e por isso
+  aparece datada na era seguinte.
+
+Foram esses três, agindo juntos, que **exterminaram uma raça humana variante
+antropófaga** — o exemplo canônico de que um Venerável não apenas cria: remove
+populações inteiras do mundo de forma permanente.
 
 ---
 
@@ -159,16 +197,20 @@ próxima de um desastre irreversível. Situa-se por volta de **trezentos mil ano
 - **O mercado universal dos Imortais**, uma gruta-céu vazia convertida em praça de
   comércio anônima entre as cinco regiões.
 
-**O quase-apocalipse:** foi nesta era que uma formação de nível Venerável perfurou o
-ponto mais fino da **fronteira do mundo** e passou a trazer matéria de fora para
-dentro. É a origem estrutural dos **demônios de outro mundo** — seres cuja alma vem de
-fora e que, por isso, escapam ao controle do destino. O remendo nunca foi
-completamente feito. `[segredo]`
+**O quase-apocalipse:** foi nesta era que a formação escavada pelo **Limitless Demon
+Venerable** perfurou o ponto mais fino da **fronteira do mundo** e passou a trazer
+matéria de fora para dentro. É a origem estrutural dos **demônios de outro mundo** —
+seres cuja alma vem de fora e que, por isso, escapam ao controle do destino. O remendo
+nunca foi completamente feito. `[segredo]`
 
-**Veneráveis desta era:** o **Giant Sun Immortal Venerable** (criador secreto do
-caminho da sorte, fundador de uma linhagem regional inteira e de um trono decenal), o
-**Genesis Lotus Immortal Venerable** (caminho da madeira) e o **Thieving Heaven Demon
-Venerable**, cuja atuação atravessa a fronteira entre esta era e a anterior.
+**Veneráveis desta era:** dois começam aqui e dois transbordam da era anterior.
+
+- O **Giant Sun Immortal Venerable**, criador secreto do caminho da sorte, fundador
+  de uma linhagem regional inteira e do trono decenal das Planícies do Norte.
+- O **Genesis Lotus Immortal Venerable**, criador do caminho da madeira.
+- O **Thieving Heaven Demon Venerable** e o **Limitless Demon Venerable**, ambos da
+  Antiguidade Antiga, cuja atuação atravessa a fronteira entre as duas eras — o
+  segundo deixando aqui, no fim da vida, a obra citada acima.
 
 ---
 
@@ -191,9 +233,24 @@ do seguinte.
   é a explicação canônica para a **existência de zumbis**: almas presas a corpos mortos
   que a Porta não reivindicou. `[segredo]`
 
-**Veneráveis desta era:** o **Spectral Soul Demon Venerable** (criador do caminho da
-alma) e o **Red Lotus Demon Venerable**, que teve o menor tempo de vida dos dez —
-cerca de três mil anos, contra os vinte e cinco mil do mais longevo.
+- **O caminho da alma é contido.** Depois do estrago acima, foi ainda nesta era que
+  ele voltou a ser marginal — e por meios pacíficos, não por massacre. É o registro
+  mais claro do cenário de que o legado de um Venerável pode ser **desfazer** o de
+  outro. Até hoje o comércio de almas é raro e clandestino mesmo nos mercados imortais
+  mais permissivos.
+
+**Veneráveis desta era:** três, e é a era mais povoada da lista junto com a
+Antiguidade Antiga.
+
+- O **Spectral Soul Demon Venerable**, criador do caminho da alma.
+- O **Paradise Earth Immortal Venerable**, que conteve o caminho da alma, criou as
+  duas ferramentas opostas de **ler e de ocultar o segredo celeste**, e deixou a
+  herança de combate mais bem montada da história — uma herança que funciona como
+  instituição, distribuindo missões e pagando por elas.
+- O **Red Lotus Demon Venerable**, que teve o menor tempo de vida dos dez — cerca de
+  três mil anos, contra os vinte e cinco mil do mais longevo — e que feriu o
+  [[Fate Gu]], quebrando as correntes do destino. É a única lei fundamental do mundo
+  já rompida.
 
 ---
 
@@ -303,15 +360,26 @@ controle centralizado sobre ele. `[segredo]`
 
 Para consulta rápida: em que era ambientar, e o que existe lá.
 
-| Era | Marca estrutural | O que nasce | Veneráveis |
-|---|---|---|---|
-| **Antiguidade Imemorial** | Nove céus revezando-se; céu e terra contínuos; variantes dominam | O cultivo por Gu; o mito fundador | — |
-| **Antiguidade Remota** | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; a instituição de topo | Primordial Origin; Star Constellation |
-| **Antiguidade Antiga** | Três Veneráveis demoníacos; extinções | Caminhos da força, transformação e roubo; a primeira Casa de Gu Imortal | Reckless Savage; Thieving Heaven; um terceiro |
-| **Antiguidade Medieval** | A fronteira do mundo é perfurada | Caminhos da sorte, da madeira e da água; o mercado universal | Giant Sun; Genesis Lotus |
-| **Antiguidade Tardia** | A Porta da Vida e da Morte enfraquece; surgem zumbis | Caminho da alma | Spectral Soul; Red Lotus |
-| **Era atual** | Nenhum Venerável vivo; teto prático no rank 8 | — | Nenhum |
-| **A Grande Era** | As cinco regiões viram uma; o destino é distribuído | Marés de qi; as Dez Terras; o caminho do céu cultivável | Um novo, previsto pela profecia |
+| Era | Marca estrutural | O que nasce | Veneráveis | Quantos |
+|---|---|---|---|---|
+| **Antiguidade Imemorial** | Nove céus revezando-se; céu e terra contínuos; variantes dominam | O cultivo por Gu; o mito fundador | — | 0 |
+| **Antiguidade Remota** | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; a instituição de topo | Primordial Origin; Star Constellation | 2 |
+| **Antiguidade Antiga** | Três Veneráveis demoníacos; extinções | Caminhos da força, transformação, roubo e regra; a primeira Casa de Gu Imortal | Reckless Savage; Thieving Heaven; Limitless | 3 |
+| **Antiguidade Medieval** | A fronteira do mundo é perfurada pela obra de Limitless | Caminhos da sorte, da madeira e da água; o mercado universal | Giant Sun; Genesis Lotus | 2 |
+| **Antiguidade Tardia** | A Porta da Vida e da Morte enfraquece; surgem zumbis; o caminho da alma é criado e depois contido | Caminho da alma; as ferramentas de ler e ocultar o segredo celeste | Spectral Soul; Paradise Earth; Red Lotus | 3 |
+| **Era atual** | Nenhum Venerável vivo; teto prático no rank 8 | — | Nenhum | 0 |
+| **A Grande Era** | As cinco regiões viram uma; o destino é distribuído | Marés de qi; as Dez Terras; o caminho do céu cultivável | Um novo, previsto pela profecia | — |
+| | | | **Total histórico** | **10** |
+
+A última linha é uma trava de conferência deliberada: se a soma das eras não der
+**dez**, a tabela perdeu alguém. Os dois nomes que historicamente escaparam desta
+lista foram o **Limitless** e o **Paradise Earth**, porque nenhum dos dois dá nome à
+era em que viveu. A lista completa e soberana dos dez está em
+[[Visão Geral dos Veneráveis]].
+
+Note que **Thieving Heaven e Limitless são contados uma única vez**, na Antiguidade
+Antiga, embora a atuação dos dois transborde para a Antiguidade Medieval. É por isso
+que a Medieval aparece com dois, e não com quatro.
 
 ---
 

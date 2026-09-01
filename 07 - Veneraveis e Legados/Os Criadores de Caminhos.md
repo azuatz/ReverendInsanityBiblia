@@ -129,6 +129,7 @@ O que isso permite, mecanicamente, é que um único indivíduo seja simultaneame
 | | |
 |---|---|
 | **Via** | demoníaca |
+| **Era** | Antiguidade Antiga — um dos três Veneráveis Demônios daquela era; a Caverna, obra do fim de sua vida, já data da Antiguidade Medieval |
 | **Caminho principal** | **rule path** (caminho da regra) — ele o criou |
 | **Legado geográfico** | a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo |
 
@@ -166,9 +167,9 @@ O que a estrutura faz, camada a camada, importa:
 | | |
 |---|---|
 | **Via** | correta — mas começou pela via demoníaca e mudou de lado |
-| **Era** | Antiguidade Tardia |
+| **Era** | Antiguidade Medieval |
 | **Caminho principal** | **luck path** (caminho da sorte) — ele o criou, e o manteve em segredo |
-| **Legado geográfico** | o Céu da Longevidade, a dimensão privada dele; e a ordem política das [[As Cinco Regiões\|Planícies do Norte]] |
+| **Legado geográfico** | o Céu da Longevidade, a dimensão privada dele; e a ordem política das Planícies do Norte, uma das regiões descritas em [[As Cinco Regiões]] |
 
 ### O que ele deixou no mundo
 

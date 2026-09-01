@@ -27,16 +27,38 @@ Cada tabela tem três colunas:
 
 - **Termo (EN)** — o nome como aparece na tradução inglesa. É a forma canônica: use-a
   se precisar pesquisar qualquer coisa sobre a obra.
-- **PT adotado** — a tradução que este projeto usa.
+- **PT da tradução brasileira** — a forma registrada na tradução publicada em
+  português. **Não é necessariamente a palavra que este vault escreve** — veja o
+  aviso logo abaixo.
 - **O que é** — uma linha de definição, escrita para quem nunca leu a obra.
+
+> [!warning] Esta coluna documenta a tradução publicada, não o vocabulário do vault
+> É a confusão mais cara desta nota, e vale ler devagar. A coluna do meio responde
+> "**como a tradução brasileira chamou isto?**" — uma pergunta de pesquisa, útil para
+> quem for cruzar este material com a tradução PT.
+>
+> Ela **não** responde "que palavra eu devo usar ao escrever o jogo?". Em cerca de
+> uma dúzia de termos o vault escolheu conscientemente escrever diferente da tradução
+> publicada, por razões de coerência interna. Esses casos estão todos reunidos na
+> seção **"Onde o vault diverge da tradução"**, logo abaixo — e é aquela tabela, não
+> esta coluna, que diz o vocabulário do projeto.
+>
+> Uma versão anterior desta nota chamava a coluna de "PT adotado" e afirmava ser "a
+> tradução que este projeto usa". Era erro nosso: a coluna nunca descreveu o uso do
+> vault, e a afirmação fazia o glossário contradizer tanto o corpo das notas quanto a
+> própria seção 9.
 
 E duas marcações aparecem ao longo do documento:
 
-- **°** — *sem tradução registrada na tradução brasileira consultada.* O termo fica
-  **em inglês** e a coluna "O que é" carrega o sentido. Esta é uma decisão
-  deliberada do projeto: onde a tradução publicada não oferece uma forma, não
-  inventamos uma — assim ninguém acaba usando um nome que não existe em lugar
-  nenhum. Traduções **não marcadas** foram conferidas na tradução brasileira.
+- **°** — *sem tradução registrada na tradução brasileira consultada.* Onde a
+  tradução publicada não oferece uma forma, não inventamos uma para ela — assim
+  ninguém sai usando um nome que não existe em lugar nenhum. Nesses casos a célula
+  traz o termo em inglês em itálico e, **entre parênteses, a forma descritiva em
+  português que o vault de fato escreve no corpo das notas** (por exemplo, *Immortal
+  Gu*° (Gu Imortal): o vault escreve "Gu Imortal" normalmente, e o ° apenas registra
+  que essa forma não vem da tradução publicada). O ° é uma nota de procedência, não
+  uma proibição de escrever em português. Traduções **não marcadas** foram conferidas
+  na tradução brasileira.
 - **🔒** — conhecimento **secreto** dentro da ficção. Pouquíssimos personagens sabem
   disso. Se você for construir um jogo, é material de mestre, não de jogador.
 
@@ -45,6 +67,44 @@ E duas marcações aparecem ao longo do documento:
 > com nomes diferentes em capítulos diferentes. A seção final desta nota lista
 > caso a caso. Se você for consultar a tradução em português, leia aquela seção
 > primeiro — ela evita horas de confusão.
+
+---
+
+## Onde o vault diverge da tradução
+
+Esta é a tabela mais importante da nota, e a única que responde "**que palavra eu
+escrevo?**". Nos termos abaixo, o vault decidiu conscientemente escrever diferente da
+tradução brasileira publicada. Nas duas colunas do meio, a da direita é a que vale
+para o projeto.
+
+As divergências não são descuido: quase todas seguem um mesmo princípio — preferir a
+forma mais curta e mais fácil de conjugar em texto corrido, e manter em inglês os
+termos que a comunidade e a obra usam sem tradução estável.
+
+| Termo (EN) | A tradução brasileira escreve | **O vault escreve** | Por quê |
+|---|---|---|---|
+| rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[Ranks e Avanço]] |
+| attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[Attainment]] |
+| primeval essence | essência primordial | **essência primeva** | Escolha de coerência com "pedras primevas"; as duas formas circulam na tradução. Ver [[Essência Primeva]] |
+| primeval stones | pedra primordial | **pedras primevas** | Idem. Ver [[Pedras Primevas]] |
+| primeval sea | mar primordial | **mar primevo** | Idem, mesma família de termos |
+| refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[Refino de Gu]] |
+| killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[Killer Moves]] |
+| Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[Tribunal Celestial]] |
+
+> [!warning] Se encontrar as duas formas no vault, prevalece a coluna da direita
+> Notas escritas em momentos diferentes podem ainda trazer a forma antiga em alguma
+> passagem. Onde isso acontecer, a forma correta é a desta tabela, e a passagem
+> divergente é que deve ser corrigida. O mesmo princípio vale para números, com a
+> diferença de que ali a autoridade é outra nota: [[Tabelas de Referência Rápida]].
+
+Um esclarecimento sobre a seção 9, no fim desta nota, para que ela não pareça
+contradizer a tabela acima. Aquela seção resolve uma pergunta **diferente**: quando a
+própria tradução brasileira usa duas formas para a mesma coisa, qual delas é a
+dominante **lá dentro**? Por isso ela conclui coisas como "a forma dominante na
+tradução é *essência primordial*" — o que é verdade, e é exatamente por isso que essa
+forma aparece na coluna do meio das tabelas. Não é uma decisão sobre o que o vault
+escreve; essa decisão está aqui.
 
 ---
 
@@ -60,13 +120,13 @@ do mundo conhece.
 | Gu Master | **Mestre Gu** | Qualquer pessoa capaz de cultivar, isto é, que possui uma abertura. O "praticante" genérico |
 | Gu Immortal | **Imortal** / **Mestre Gu Imortal** | Mestre Gu de rank 6 ou acima; outra categoria de existência, não apenas um nível mais alto |
 | aperture | **abertura** | Órgão espiritual invisível que serve de reservatório de energia e de "estojo" onde os Gu vivem |
-| primeval sea | **mar primordial** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
-| primeval essence | **essência primordial** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
-| primeval stones | **pedra primordial** | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
+| primeval sea | mar primordial → **o vault escreve "mar primevo"** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
+| primeval essence | essência primordial → **o vault escreve "essência primeva"** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
+| primeval stones | pedra primordial → **o vault escreve "pedras primevas"** | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
 | Awakening Ceremony | *Awakening Ceremony*° (Cerimônia do Despertar) | Ritual aos 15 anos que forma a abertura e mede o talento; decide se a pessoa será cultivadora ou mortal comum |
 | aptitude grade (A/B/C/D) | **grau** (grau A, B, C, D) | Talento inato, expresso como a porcentagem da abertura que a pessoa consegue encher |
 | Ten Extreme Physiques | *Ten Extreme Physiques*° (Dez Constituições Extremas) | Camada secreta acima do grau A: dez constituições lendárias que armazenam 100% e cujos portadores morrem cedo |
-| rank (1–9) | **nível** (ver aviso na seção final) | A escada de nove degraus que classifica tanto Mestres Gu quanto os próprios Gu |
+| rank (1–9) | nível → **o vault escreve "rank"** | A escada de nove degraus que classifica tanto Mestres Gu quanto os próprios Gu |
 | realm / stage | **grande reino** (o rank) e **pequeno reino** (o estágio) | Um rank é um "grande reino"; dentro dele há quatro "pequenos reinos" |
 | initial / middle / upper / peak stage | **estágio inicial / intermediário / superior / de pico** | Os quatro estágios dentro de cada rank |
 | crystal wall | *crystal wall*° (parede de cristal) | A membrana da abertura no estágio de pico; precisa ser estilhaçada para subir de rank |
@@ -92,11 +152,11 @@ instruído domina.
 | Termo (EN) | PT adotado | O que é |
 |---|---|---|
 | Gu worm | **Gu** / *Gu worm*° | A criatura em si; cada uma concentra exatamente **um** poder |
-| refining | **refinamento** | Sobrescrever a vontade do Gu com a sua própria, tornando-o utilizável |
+| refining | refinamento → **o vault escreve "refino"** | Sobrescrever a vontade do Gu com a sua própria, tornando-o utilizável |
 | recipe | *recipe*° (receita) | O procedimento de fusão que produz um Gu; vale mais que o próprio Gu, porque permite produção contínua |
 | Gu fusion | *Gu fusion*° (fusão de Gu) | Combinar Gu e materiais para gerar uma espécie nova |
 | reverse refining | *reverse refining*° (refino reverso) | Desfazer um refino, ou extrair de volta a força de um consumível já gasto |
-| killer move | **movimento assassino** | Combinação meticulosa de vários Gu; é o teto do poder individual |
+| killer move | movimento assassino → **o vault escreve "killer move"** | Combinação meticulosa de vários Gu; é o teto do poder individual |
 | Gu set (core + support) | *Gu set*° (núcleo + suportes) | Conjunto coerente de Gu, com um central e vários de apoio |
 | Immortal Gu | *Immortal Gu*° (Gu Imortal) | Gu de rank 6 ou acima. **Existe apenas um exemplar de cada no mundo inteiro** |
 | Immortal Gu House | *Immortal Gu House*° | Um movimento assassino solidificado em estrutura, feito de dez ou mais Gu; funciona como fortaleza viva |
@@ -107,7 +167,7 @@ instruído domina.
 | rock gambling | *rock gambling*° (aposta de pedra) | Mercado de pedras fechadas que podem ou não conter um Gu hibernando dentro |
 | backlash | *backlash*° (contragolpe) | O dano que volta contra quem tenta usar poder acima do próprio limite |
 | essence blood | *essence blood*° (sangue essencial) | Sangue usado para "assinar" a posse de um Gu recém-refinado |
-| attainment level | **nível de realização** | O quanto uma pessoa **entende** de um caminho; eixo separado do rank |
+| attainment level | nível de realização → **o vault escreve "attainment"** | O quanto uma pessoa **entende** de um caminho; eixo separado do rank |
 | master (attainment) | **Mestre** (do caminho X) | Primeiro nível de domínio: o uso vira instintivo (ver aviso na seção final) |
 | grandmaster | **Grão-Mestre** | Domínio avançado; permite imitar outros caminhos com os próprios Gu |
 | great grandmaster | **grande grão-mestre** | Domínio de elite; permite desmontar e remontar movimentos livremente |
@@ -247,7 +307,7 @@ vale.
 | supreme elder | *supreme elder*° (ancião supremo) | O Imortal que garante a existência de uma organização |
 | external supreme elder | *external supreme elder*° | Imortal de **fora** contratado para esse papel — aliança política com risco de legitimidade |
 | super tribe / super force | *super force*° (super força) | Organização que possui Imortais **e** território imortal próprio; as únicas que atravessam eras |
-| Heavenly Court | **Corte Celestial** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino 🔒 |
+| Heavenly Court | Corte Celestial → **o vault escreve "Tribunal Celestial"** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino 🔒 |
 | Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta de fragmentos de alma de um Venerável 🔒 |
 | Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
 | Lang Ya Sect | *Lang Ya Sect*° | A seita do refino, governada por um espírito da terra |
@@ -350,20 +410,36 @@ recursos distintos.
 
 ### 9.4. "Essência primordial" × "essência primitiva"
 
-O mesmo conceito (*primeval essence*) aparece com as duas formas. **Adotamos
-"essência primordial"**, que é a forma mais frequente e a que aparece nos capítulos
-mais didáticos.
+O mesmo conceito (*primeval essence*) aparece com as duas formas **dentro da tradução
+brasileira**. Entre as duas, a dominante lá é **"essência primordial"**, que é a mais
+frequente e a que aparece nos capítulos mais didáticos — é por isso que ela figura na
+coluna do meio das tabelas acima.
+
+> **O que o vault escreve é outra coisa: "essência primeva".** A decisão é nossa e
+> está registrada em "Onde o vault diverge da tradução", no topo desta nota, junto com
+> o motivo. As duas afirmações convivem sem contradição: "primordial" é o que a
+> tradução publicada mais usa, "primeva" é o que este projeto escreve.
 
 ### 9.5. "Mar primordial" × "mar primitivo"
 
-Exatamente a mesma oscilação, aplicada ao *primeval sea*. **Adotamos "mar
-primordial"**, por coerência com o item anterior.
+Exatamente a mesma oscilação, aplicada ao *primeval sea*. A forma dominante na
+tradução é **"mar primordial"**, por coerência com o item anterior — e, também por
+coerência com o item anterior, **o vault escreve "mar primevo"**.
 
 ### 9.6. "Venerável Demônio" × "Demônio Venerável"
 
 A ordem das palavras se inverte entre trechos. É um deslize pontual e não altera o
-sentido, mas atrapalha buscas. **Adotamos "Venerável Demônio"**, que é a ordem
-dominante e a coerente com "Venerável Imortal".
+sentido, mas atrapalha buscas. A ordem dominante é **"Venerável Demônio"**, coerente
+com "Venerável Imortal", e é essa a forma que registramos.
+
+Duas notas de uso, porque este par confunde bastante. Primeiro, **no corpo das notas
+o vault mantém os títulos em inglês** — "Reckless Savage Demon Venerable" —, porque
+os nomes próprios dos Veneráveis não têm forma PT estável; as formas em português
+ficam nos `aliases` das notas. Segundo, e mais importante: *Immortal Venerable* e
+*Demon Venerable* **são a mesma patente**, o rank 9, e a palavra que muda indica só
+por qual via a pessoa chegou lá — a correta ou a demoníaca. Não é medida de força nem
+de crueldade. Ver [[Visão Geral dos Veneráveis]] e
+[[Caminho Correto e Caminho Demoníaco]].
 
 ### 9.7. "Paraíso do Tesouro Dourado" × "tesouro do paraíso dourado"
 

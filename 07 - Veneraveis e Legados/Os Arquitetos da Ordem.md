@@ -117,6 +117,7 @@ E a trava é **frágil**: sua capacidade de suprimir a lei pura depende de refor
 | | |
 |---|---|
 | **Via** | correta |
+| **Era** | Antiguidade Tardia — veio depois do criador do caminho da alma, e boa parte do seu trabalho foi conter o estrago dele |
 | **Caminho principal** | — nenhum. É o único dos dez que **não fundou uma disciplina** |
 | **Legado institucional** | o Paraíso da Baleia-Dragão e seu quadro de missões |
 | **Legado técnico** | as duas ferramentas opostas de ler e de ocultar o segredo celeste |
@@ -175,5 +176,10 @@ Vale enunciar o que os dois primeiros construíram **juntos**, porque é o esque
 - [[Vontade dos Céus]] — a lei que uma delas capturou por dentro.
 - [[Fate Gu]] — o objeto sobre o qual a Torre que Observa o Céu foi construída.
 - [[Os Criadores de Caminhos]] — os Veneráveis cujo legado é uma disciplina de cultivo inteira.
+- [[Os Que Romperam as Leis]] — os dois cujo legado foi quebrar uma regra fundamental.
+- [[Eventos e Instituições Jogáveis]] — o quadro de missões deixado por Paradise Earth, descrito como evento de mesa.
+- [[Tribulações e Calamidades]] — o relógio de provações do qual um "paraíso" está isento.
+- [[Soul Path]] — a disciplina que Paradise Earth suprimiu sem massacre.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números citados nesta nota.
 
 [^1]: As fontes descrevem em detalhe o que Primordial Origin criou, mas nunca nomeiam sua disciplina de cultivo principal. Registrado como lacuna em vez de inferido — o nome "Primordial Origin" sugere associação com o *origin path*, mas isso não é afirmado no texto.

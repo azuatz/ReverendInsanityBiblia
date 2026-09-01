@@ -31,7 +31,7 @@ Esta nota cobre **Thieving Heaven** e **Red Lotus**, listados em [[Visão Geral 
 | | |
 |---|---|
 | **Via** | demoníaca |
-| **Era** | Antiguidade Medieval |
+| **Era** | Antiguidade Antiga — um dos três Veneráveis Demônios daquela era; sua atuação atravessa para a Antiguidade Medieval |
 | **Caminho principal** | **theft path** (caminho do roubo) — ele o criou |
 | **Caminho de especialidade** | **space path** (caminho do espaço) |
 | **Traço distintivo** | o **mais rico da história**; e um **demônio de outro mundo** |
@@ -61,11 +61,11 @@ Este último ponto tem valor de design enorme, e vale registrar em separado: **e
 
 E aqui está o detalhe que a designer deve guardar: **a Mão Sem Forma reaparece sozinha, séculos depois da morte dele, dentro de tribulações extremas.** A lei do mundo aprendeu o golpe e passou a reproduzi-lo contra cultivadores que nunca ouviram falar do autor. É a demonstração mais concreta do que significa um Venerável assinar um caminho.
 
-**3. A ocultação absoluta.** Criou os métodos que tornam o portador **invisível à sondagem do céu**. Sem sondagem, não há tribulação nenhuma — imunidade completa. O preço é permanente e brutal: quem nunca é sondado **nunca ganha marcas de dao por essa via**, ou seja, troca uma vida tranquila por progressão travada. Ver [[Vontade dos Céus#Defesas possíveis]]. É, ainda hoje, a única contramedida verdadeiramente absoluta contra o céu que existe no mundo.
+**3. A ocultação absoluta.** Criou os métodos que tornam o portador **invisível à sondagem do céu**. Sem sondagem, não há tribulação nenhuma — imunidade completa. O preço é permanente e brutal: quem nunca é sondado **nunca ganha [[Dao Marks|marcas de dao]] por essa via** — e marcas de dao são o atributo que faz um imortal ficar mais forte, o equivalente a pontos de experiência. Trocar sondagem por invisibilidade é trocar uma vida tranquila por progressão travada. Ver [[Vontade dos Céus#Defesas possíveis]]. É, ainda hoje, a única contramedida verdadeiramente absoluta contra o céu que existe no mundo.
 
 **4. A família de disfarces.** Criou a linhagem de Gu que fabrica identidades e rostos alheios — a base técnica da infiltração no cenário.
 
-**5. Um contrato que ainda paga.** Deixou, guardadas com o espírito de uma terra abençoada específica, **três oportunidades de refino** que o herdeiro reconhecido tem direito de reivindicar. As regras dessas oportunidades são um pequeno sistema em si: um pedido de Gu mortal tem sucesso garantido e consome uma chance no total; um pedido de Gu Imortal consome uma chance **por tentativa**, com ou sem sucesso; e se aquele Gu Imortal já existir no mundo, o refino falha automaticamente — porque a unicidade dos Gu Imortais é regra ativa de refino, não apenas nomenclatura.
+**5. Um contrato que ainda paga.** Deixou, guardadas com o espírito de uma [[Blessed Lands e Grotto-Heavens|terra abençoada]] específica — o mundo em miniatura que todo imortal carrega dentro de si —, **três oportunidades de refino** que o herdeiro reconhecido tem direito de reivindicar. As regras dessas oportunidades são um pequeno sistema em si: um pedido de Gu mortal tem sucesso garantido e consome uma chance no total; um pedido de Gu Imortal consome uma chance **por tentativa**, com ou sem sucesso; e se aquele Gu Imortal já existir no mundo, o refino falha automaticamente — porque a unicidade dos Gu Imortais é regra ativa de refino, não apenas nomenclatura.
 
 **6. O rombo na fronteira do mundo, e o remendo.** `conhecimento: segredo` — o legado mais consequente.
 
@@ -136,6 +136,9 @@ Vale enunciar, porque é o eixo da nota:
 - [[Cosmologia#A fronteira do mundo]] — o rombo que Thieving Heaven abriu e remendou.
 - [[Vontade dos Céus]] — a ocultação absoluta, a única imunidade real ao céu, é obra de Thieving Heaven.
 - [[Os Criadores de Caminhos]] — Limitless, cuja obra é a caverna onde a fronteira foi rompida.
-- [[Os Arquitetos da Ordem]] — a instituição que passou um milhão de anos consertando o que Red Lotus quebrou.
+- [[Os Arquitetos da Ordem]] — a instituição que passou um milhão de anos consertando o que Red Lotus quebrou; e Paradise Earth, o terceiro Venerável documentado lá.
+- [[Dao Marks]] — o atributo de progressão que a ocultação absoluta trava.
+- [[Linha do Tempo e Eras]] — em que era cada um destes dois viveu.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números do sistema.
 
 [^1]: As fontes creditam a Thieving Heaven a criação do caminho do roubo e a Red Lotus nenhuma fundação de caminho; a disciplina principal de Red Lotus não é nomeada. Registrado como lacuna em vez de inferido a partir do nome ou dos métodos.

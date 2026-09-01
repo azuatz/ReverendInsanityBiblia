@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 326–365 (Volume 2)
 
-> Progresso da leitura: até o cap. 355
-> Status: em-andamento
+> Progresso da leitura: até o cap. 365 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 

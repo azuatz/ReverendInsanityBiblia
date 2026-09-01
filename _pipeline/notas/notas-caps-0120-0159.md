@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 120–159 (Volume 1)
 
-> Progresso da leitura: até o cap. 149
-> Status: em-andamento
+> Progresso da leitura: até o cap. 159
+> Status: completo
 
 ## 1. Mecânicas e regras
 

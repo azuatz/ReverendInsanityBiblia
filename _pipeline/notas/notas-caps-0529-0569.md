@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 529–569 (Volume 3)
 
-> Progresso da leitura: até o cap. 558
-> Status: em-andamento
+> Progresso da leitura: até o cap. 569 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -288,4 +288,167 @@ Fang Yuan percebe uma anomalia estrutural (ausência de uma torre de Gu selvagem
 - Não fica claro se o "guest halt" na sala do tesouro pode realmente ser contornado por refino/hackeamento com um Gu worm, ou se Fang Yuan vai fracassar nessa tentativa — fica em aberto para o próximo bloco de capítulos.
 - Não é dito o que exatamente aconteceria a um Gu Master pego tentando roubar as pequenas torres de Gu selvagem do blessed land além de "derreter até virar esqueleto" — não fica claro se é sempre fatal ou se há graus de punição conforme a tentativa.
 - Não fica claro se a "condição" de magma decrescente em Hong Yan valley (Man tribe) é uma consequência do próprio ciclo de blizzard de 10 anos ou um evento anômalo isolado dessa tribo específica — o texto trata como mistério não resolvido, possivelmente gancho para desenvolvimento futuro.
+
+## BLOCO 4 (caps. 559–568)
+
+## 1. Mecânicas e regras (cont.)
+
+- **É possível "refinar parcialmente" um Immortal Gu house de rank muito acima do próprio cultivador**: Fang Yuan (mortal) consegue refinar uma fração (a "guest halt stele") do Eighty-Eight True Yang Building (rank 8) injetando primeval essence e vontade continuamente por horas, mesmo sem condições de refinar a estrutura inteira — analogia do texto: um cupim não derruba uma jaula de madeira inteira, mas pode roer as bordas. Refino aqui = ocupar o corpo do Gu com a própria vontade, usando essência primeva como veículo (cap. 559).
+- **Vontade residual de um Immortal Venerable morto pode permanecer "adormecida" dentro de sua criação (Immortal Gu house) por milênios**: dentro do Eighty-Eight True Yang Building existe uma fração (~30% do total) da vontade remanescente de Giant Sun Immortal Venerable, "adormecida"; se despertada, pode instantaneamente destruir o intruso ("dispersar a alma", como aconteceu a dois Gu Immortals de Central Continent na vida passada de Fang Yuan) (cap. 559).
+- **Refino/hackeamento de estruturas divinas é uma prática histórica documentada**: na vida passada de Fang Yuan, Gu Immortals de Central Continent já haviam infiltrado a sala do tesouro do Eighty-Eight True Yang Building e gravado/divulgado o processo publicamente como arma de propaganda contra a legitimidade dos Huang Jin; o vídeo, porém, foi editado (partes "entediantes" cortadas), o que torna o próprio Fang Yuan vulnerável a subestimar o tempo/esforço real necessário (cap. 559).
+- **Sistema de trocas do treasure room tem estoque fixo e monitorado**: o total de tesouros nas paredes de cristal é conhecido e registrado por todas as super-forças; retirar algo sem repor gera suspeita quando outra pessoa depois notar a ausência — por isso Fang Yuan devolve a rush thunder stone que pegou "de graça" após burlar a barreira, para não expor sua intrusão (cap. 559).
+- **Rush thunder stone**: material de refino quase extinto, formado por colisão de raios/trovões dos "nove céus" primordiais; desde a era immemorial, 7 dos 9 céus "caíram", restando apenas "white heaven" e "black heaven" — colisões de raio entre esses dois remanescentes são raras, por isso a produção do material praticamente cessou (cap. 559) — dado cosmológico raro sobre estrutura do céu do mundo.
+- **Owner token pode ser corrompido/adulterado por um Immortal Gu para uso futuro**: ~1000 anos antes (na timeline pré-reencarnação), Gu Immortals de Central Continent subornaram o então líder da aliança e usaram um Immortal Gu para adulterar secretamente o owner token do Imperial Court, escondendo-o dentro do próprio Eighty-Eight True Yang Building como "chave" para uso futuro — modificar owner tokens sem ser detectado pela estrutura parece exigir poder de nível Immortal Gu (cap. 560).
+- **Processo de "despertar"/vincular um owner token adulterado a um novo usuário**: exige golpes rítmicos repetidos de Gu worms no token (contagem observada: 38 "halos") até revelar as palavras "owner token"; depois, sangue do usuário precisa ser pingado nele para vinculação — o token then se torna translúcido feito vidro ("glass owner token"), visualmente diferente do owner token original (cap. 560).
+- **Um "glass owner token" permite acesso livre à sala do tesouro sem precisar de avaliação alta em nenhuma rodada**, e permite entrar/sair de True Yang Building por vontade própria, mesmo com o portador do owner token original fora do prédio — mas usar essa vantagem abertamente entrega a identidade de quem o possui (cap. 560).
+- **Mapa físico do blessed land existe numa "sala de controle central" acessível apenas via owner token**: modelo/maquete completo do Imperial Court blessed land (inclusive as pequenas torres) que pode ser manipulado com Gu (ex.: fumaça negra que revela topografia oculta de poder) — funciona como interface de "engenharia reversa" da estrutura mágica (cap. 560).
+- **Confirmação: rank 9 Immortal Gu house nunca existiu na história**; Long Hair Ancestor, ao ser solicitado por Giant Sun para criar algo equivalente, concluiu que só seria possível com uma solução de compromisso: um Immortal Gu house rank 8 que "reforma" a cada ciclo, funcionando como um "rank 9 temporário" que só existe por um curto período — esse é o verdadeiro design por trás do Eighty-Eight True Yang Building (cap. 561).
+- **Regra confirmada dos "três elementos" (heaven, earth, man) necessários para um mortal virar Gu Immortal**: elemento do Céu (poder incomensurável), elemento da Terra (virtude/estabilidade), elemento do Homem (espírito de todos os seres, esforço de superação); o Eighty-Eight True Yang Building foi desenhado deliberadamente para reunir os três: a disputa do Imperial Court = elemento do Homem; o blizzard de 10 anos = elemento do Céu; as torres afundando no chão = elemento da Terra do próprio blessed land. Essa combinação tríplice é o mecanismo real por trás da criação do prédio (cap. 561) — GRANDE peça de worldbuilding, resposta a lacunas anteriores sobre "como refinar Immortal Gu" e "elementos" do avanço a Immortal.
+- **Regra "man as before"/"pesquisa" confirmada: Gu Immortal em ascensão tem 2 Gu rank 5 relacionados que podem se fundir espontaneamente em 1 Immortal Gu rank 6**, reforçado (Tai Bai Yun Sheng ainda não ascendeu, mantendo a incerteza registrada antes).
+- **78º round de True Yang Building tem "golden-white tiger phantom" como guardião**: fantasma com 30% do poder de uma "desolate beast" (categoria hierárquica acima até de beast emperor, aparentemente); resistente a ataques de mortais mesmo em grupo, só cedendo a ataques coordenados e sacrificiais em massa ("formiga mordendo elefante") (cap. 562).
+- **Sistema formal de acesso pago ao Eighty-Eight True Yang Building para não-descendentes**: proposta e aprovada por Hei Lou Lan — cota de 800 entrantes por dia, taxa de entrada crescente conforme a ordem de chegada, poison vow obrigatório exigindo 50% de todos os ganhos entregues a Hei tribe; quem quiser entrar sem ser da tribo precisa comprar um guest token a preço alto (cap. 562).
+- **Elite tribal tem incentivo estrutural para NÃO se sacrificar em desafios que beneficiam só o líder**: mecânica social explícita — dentro de True Yang Building, as recompensas de progresso vão para o dono do owner token (o líder tribal), então os subordinados (mesmo corajosos em batalhas normais) evitam agir como "cannon fodder" voluntário, já que não há recompensa direta ganha nem ameaça de morte por recusa (diferente da disputa do Imperial Court, onde sobrevivência e fama pessoal estavam em jogo) — Hei Lou Lan reconhece que não pode "comandar a vontade" dos súditos mesmo sendo o mais forte (cap. 562).
+- **Refazer/reset de andar**: quando o primeiro andar do Eighty-Eight True Yang Building "recolapsa" e reforma, TODOS os checkpoints/avanços daquele andar são zerados para todo mundo, mesmo quem já havia avançado dezenas de rounds (cap. 565) — evento sem precedente na história registrada, causado deliberadamente por Fang Yuan.
+- **Técnica de refino "sprinkler" (borrifador)**: técnica avançada de arremesso/liberação temporizada e espaçada de múltiplos Gu worms simultâneos, com timing individual de queda diferente para cada um; mesmo gênios em enslavement e voo levam "milhares de tentativas" para atingir nível decente; Fang Yuan já está bem além do nível "decente" nessa técnica (cap. 564).
+- **Ressonância entre Immortal Gu**: quando um novo Immortal Gu está para nascer, outros Immortal Gu próximos "tremem" e respondem, com intensidade proporcional à proximidade/conflito de leis entre eles — Spring Autumn Cicada (path do tempo) treme moderadamente quando percebe o nascimento do calamity beckoning Gu (path da sorte), indicando que não são do mesmo path (cap. 564).
+- **Regra confirmada: Immortal Gu house pode processar refino em etapas incrementais rastreáveis (% de controle)**: Fang Yuan mede seu progresso refinando o Water Pavilion em frações percentuais (10% após 6h de refino de 500 Gu de rank 1-2, depois 13% após mais 2h) — quanto maior o %, mais tempo o dono real (ou intruso) consegue bloquear outros usuários antes de perder o controle daquela fração (cap. 568).
+- **Divert Disaster Gu (rank 7 Immortal Gu, luck path)**: um dos pilares fundamentais do Eighty-Eight True Yang Building/Imperial Court blessed land; desvia calamidades celestiais e terrestres que naturalmente se acumulariam dentro do blessed land (por ele ter tempo/espaço "profundos" demais) para o mundo externo, formando o blizzard de 10 anos de Northern Plains. Cria uma brecha temporária na proteção do blessed land contra Gu Immortals bem no momento da descarga da calamidade (cap. 567) — RESPOSTA DIRETA à origem mecânica do blizzard de 10 anos, uma lacuna maior do worldbuilding.
+- **Calamity Beckoning Gu (rank 7 Immortal Gu, luck path)**: Gu de "autossacrifício genuíno"; desvia calamidade celestial/terrestre de OUTRO alvo (originalmente pensado para ajudar alguém a atravessar a tribulação de ascensão a rank 9) diretamente para o portador; para ser subjugado com segurança (mortal ou imortal), o candidato precisa genuinamente ter "coração de autossacrifício" — subjugação forçada sem essa disposição gera backlash ou autodestruição fatal do próprio Gu (cap. 567-568).
+- **Confirmação definitiva: Luck path existe como path completo e formal**, com estrutura própria de ataque, defesa, movimento, cura etc., mas atuando sobre "sorte" (conceito incorpóreo que todo ser possui) em vez de matéria; Giant Sun Immortal Venerable o inventou e o manteve em segredo, lucrando silenciosamente ao roubar sorte alheia e transferir para si mesmo (ou transferir azar para outros) (cap. 568) — RESPOSTA a lacuna de "luck path" registrada no bloco anterior.
+- **Regra de ruptura da tribulação de rank 9**: mesmo um dos maiores prodígios da história (Sword Immortal Bo Qing, quase-Venerable) tinha apenas ~15% de chance de sucesso ao tentar romper para rank 9; um fracasso pode deixar o cultivador "ferido gravemente por 70 anos, acamado" (primeira tentativa) ou reduzi-lo a cinzas / total desintegração (segunda tentativa) — confirma que a barreira rank 8→9 é a mais letal do sistema de cultivo (cap. 567).
+- **Origem histórica confirmada dos "Gu houses" (casas-Gu)**: definição formal — um Gu house é uma killer move formada pela combinação/solidificação de 10+ Gu worms diferentes. O primeiro Gu house da história foi "Turtle House", criado pelos sete irmãos septuplos Lui Gui (era antiga), uma killer move defensiva coletiva capaz de bloquear três golpes de um Gu Immortal ("three moves pact"). A partir daí surgiram formas mais simples de um único Gu (three star cave, lizard house, mushroom forest Gu house) e formas mais complexas equivalentes a Immortal Gu (White Bone Chariot de Shen Jie Ao, feito de múltiplos Gu rank 5 como o White Bone Wheel, com poder equivalente a rank 6) (cap. 568) — grande peça de lore sobre origem de mecânica já usada (lizard house, etc.).
+- **Water Pavilion (Immortal Gu house rank 7)**: construído com ~3000 Gu worms interligados; núcleo é o rank 7 Water Harmony Gu (fusão total com água — enquanto houver água ao redor, o usuário não morre); Gu Immortals assistentes: rank 6 movement Immortal Gu "Worldly Wave Trace" e wisdom path Immortal Gu "Delight in Water and Mountain". Pode se esconder na água, névoa ou gelo, sendo indetectável até por Gu Immortals rank 8 sem o token de acesso correto (cap. 566, 568).
+- **Vontade residual de um Gu Immortal morto pode se implantar SILENCIOSAMENTE na mente de outra pessoa** (não apenas "adormecida" dentro de um objeto, como a de Giant Sun): a vontade de Mo Yao entra na mente de Fang Yuan sem que ele perceba o momento exato, e passa a ler diretamente seus pensamentos em tempo real (não apenas se comunicar) — mecanismo mais avançado e perigoso do que o "land spirit" que Fang Yuan já possui (cap. 568).
+- **Constituições extremas (extreme physiques) têm uma "ameaça de morte" embutida que só a ascensão a Gu Immortal com um Immortal Gu específico do tipo certo consegue aliviar**: reforço explícito — Hei Lou Lan (Great Strength True Martial physique) precisa especificamente de um Immortal Gu de strength path para sobreviver à progressão de sua constituição; sem isso, ele enfrenta risco de vida contínuo (cap. 556, 564-565, reforçado).
+- **Advançar a Gu Immortal NÃO aumenta automaticamente a expectativa de vida (lifespan) por si só**: Tai Bai Yun Sheng, mortal idoso e mestre de cura, avalia que tornar-se Gu Immortal não resolveria seu problema de tempo de vida restante a menos que ele obtenha especificamente um "lifespan Gu" — reforça que lifespan é um recurso separado, não implícito ao rank de cultivo (cap. 563).
+
+## 2. Gu catalogados (cont.)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Borrow strength Gu | 5 | Strength (raro, quase extinto) | Não funciona sozinho; combinado com sky/earth/fire/water strength Gu, permite "emprestar" força do elemento correspondente | — | 560 |
+| Sky strength Gu | — (extinto) | Strength | Par de borrow strength Gu; permite emprestar força do céu | — | 560 |
+| Earth/Fire/Water/Wind strength Gu | — | Strength (uso alterado) | Hoje usados desviados do propósito original (agricultura, suporte a Gu de path elemental) em vez de combate | — | 560 |
+| Meteor rain Gu / star lightning speed Gu / wind fog hair Gu / stellar fire prairie Gu / water curtain skyflower Gu | 5 | Diversos | Exemplos de Gu rank 5 raros vistos na sala do tesouro de True Yang Building | — | 560 |
+| Rush thunder stone | — (material) | Trovão/relâmpago (imemorial) | Material de refino quase extinto, formado por colisão de raios entre os 2 céus remanescentes dos 9 originais | — | 559 |
+| Little light Gu | 1 | Luz | Ilumina; usado como 1ª camada do ritual "light in the soil" para abrir Di Qiu | — | 563 |
+| Light fences Gu | 3 | Luz | Forma cercas de luz que restringem o alvo; usado no ritual de Di Qiu | — | 563 |
+| Lightning flash Gu / Unlimited spring light Gu / Heaven blazing spark Gu | 5 | Luz | Respectivamente: velocidade, cura, ataque; combinados formam o efeito final do 1º passo do ritual de Di Qiu | — | 563 |
+| Shine back spike Gu | 5 | Defesa | Usado no 2º passo do ritual de Di Qiu ("shine up to a hundred thousand feet") | — | 563 |
+| High observation Gu | — | Investigação | Idem acima | — | 563 |
+| Ten thousand heart piercing arrow Gu | — | Ataque | Idem acima | — | 563 |
+| Nine feet flame Gu | — | Suporte/fogo | Idem acima | — | 563 |
+| Smelly fart Gu | — | — | Gu de "fragrância peculiar" usado para atrair blissful snow bats como sacrifício final do ritual de refino de Di Qiu | — | 564-565 |
+| Current charge Gu | 5 | Água | Transforma o usuário temporariamente em corrente de água para atravessar distâncias; obsoleto em combate (vulnerável a fogo), mas útil para entrar em Water Pavilion | — | 566 |
+| ⭐ Calamity Beckoning Gu | 7 (Immortal) | Sorte (luck) | Desvia calamidade celestial/terrestre de outro alvo para si mesmo; requer "coração de autossacrifício" para ser subjugado com segurança | — | 566-568 |
+| ⭐ Divert Disaster Gu | 7 (Immortal) | Sorte (luck) | Pilar do Eighty-Eight True Yang Building; desvia calamidades do blessed land para o mundo externo, criando o blizzard de 10 anos | — | 567 |
+| ⭐ Water Harmony Gu | 7 (Immortal) | Água | Núcleo do Water Pavilion; funde o usuário com água; imortal enquanto houver água por perto | — | 568 |
+| ⭐ Worldly Wave Trace | 6 (Immortal) | Movimento | Immortal Gu assistente do Water Pavilion | — | 568 |
+| ⭐ Delight in Water and Mountain | — (Immortal) | Wisdom | Immortal Gu assistente do Water Pavilion | — | 568 |
+| Heavenly Essence Treasure King Lotus | 5 | — | Já catalogado no bloco 3; obtido por Fang Yuan trocando 4 spring egg Gu | — | 559 |
+
+## 3. Mundo e sociedade (cont.)
+
+- **Fairy Mo Yao**: 36ª geração "fada" (fairy/líder) de Spirit Affinity House (uma das dez grandes seitas de Central Continent); inkman (raça variante) que se tornou Gu Immortal rank 7, grandmaster em refinement path; casada com Sword Immortal Bo Qing; traiu formalmente sua seita para ajudá-lo, sacrificando-se ao final (cap. 566-568).
+- **Bo Qing (Sword Demon/Immortal)**: cultivador solitário de origem humilde que criou sozinho os Gu de sword path; um dos maiores experts rank 8 pico da história, "pseudo-Immortal Venerable"; tentou romper para rank 9 duas vezes (1ª: sobreviveu gravemente ferido por 70 anos; 2ª: morreu, virou cinzas); mudou de demoníaco para reto por amor a Mo Yao (cap. 567).
+- **Spirit Affinity House**: uma das dez grandes seitas de Central Continent, fundada por Shui Ni (rank 8, criadora do water path); forneceu muitas concubinas (inclusive Gu Immortals) a Giant Sun Immortal Venerable, ganhando acesso a segredos do Eighty-Eight True Yang Building através delas; Giant Sun tornou-se "external supreme elder" dessa seita ao se casar com sua "número um fada" (cap. 552, 566-567).
+- **Shui Ni**: Gu Immortal rank 8, lendária criadora do water path e fundadora de Spirit Affinity House (cap. 566).
+- **Sistema de "reputação de bribes" no acesso ao Eighty-Eight True Yang Building**: quando o acesso é limitado por cota/token, mesmo figuras extremamente respeitadas (Tai Bai Yun Sheng, "o maior curador de Northern Plains") recorrem a suborno pessoal a intermediários (elder Hei Pei) para conseguir prioridade — corrupção de acesso a recursos raros é normalizada mesmo entre "heróis" de reputação impecável (cap. 563).
+- **Backstory de Tai Bai Yun Sheng**: aos 14 anos, curou um "velho mendigo" (implicitamente um Gu Immortal ou figura extraordinária) que lhe ofereceu escolha entre 3 heranças completas (fogo/andar sobre chamas; controlar vento/voar livremente; ou superar vida e morte/curar pessoas) — escolheu a terceira. A herança dada continha o método completo de cultivo até rank 6 Gu Immortal (cap. 563) — grande revelação de background de personagem, mas registrada aqui apenas como fato mecânico de "herança completa até um rank específico".
+- **Rivalidade política dentro do "Hei tribe" e entre facções pró/contra Fang Yuan**: Chang Biao (pai biológico oculto de Chang Ji You, inimigo secreto de "Chang Shan Yin"/Fang Yuan) e Pan Ping (humilhado por Fang Yuan antes) se aliam taticamente para minar a reputação e a participação de Fang Yuan nos desafios de True Yang Building, usando um "agente plantado" na multidão para desviar pedidos de ajuda para outra enslavement master (Tang Miao Ming) (cap. 565) — mecanismo social de manipulação de opinião em grupo usando terceiros.
+- **Tang tribe**: pequena tribo quase extinta na disputa do Imperial Court, liderada por Tang Fang (jovem, avesso a responsabilidade) sob tutela de sua irmã mais velha Tang Miao Ming (enslavement master quase de nível mestre); tenta reerguer a tribo usando os ganhos de True Yang Building (cap. 565-567).
+
+## 4. Economia e vida cotidiana (cont.)
+
+- Sistema de cobrança formal para acesso de não-membros ao Eighty-Eight True Yang Building: cota diária de 800 entrantes, preço crescente por ordem de chegada, poison vow obrigando entrega de 50% dos ganhos à tribo dona (cap. 562).
+- Custo de "hackear" estruturas Immortal Gu: Fang Yuan precisa manter reservas de Gu de disfarce cujo material principal é "mil jin de sangue da família Huang Jin", purificado em 98 etapas — recurso extremamente escasso após o fim da disputa do Imperial Court, tornando reposição quase impossível (cap. 560).
+- Valor de mercado de um Immortal Gu "inútil" para o portador: mesmo um Gu tão estranho quanto Calamity Beckoning Gu tem valor de troca garantido em quantidade enorme de immortal essence stones no treasure yellow heaven, simplesmente por ser Immortal Gu (cap. 567).
+
+## 5. Estudos de caso mecânicos (cont.)
+
+### Caso: exploração de uma falha estrutural documentada (vídeo da vida passada) para "roer as bordas" de uma megaestrutura divina (caps. 559-561)
+Fang Yuan usa memória de um vídeo de propaganda (de sua vida passada) que mostrava Gu Immortals de Central Continent invadindo a sala do tesouro do Eighty-Eight True Yang Building, combinado com informação privilegiada de seu land spirit, para replicar o processo: refinar uma "estela de bloqueio" usando injeção prolongada e cuidadosa de vontade/essência, sem despertar a vontade residual e letal do criador original. Demonstra que estruturas divinas podem ter vulnerabilidades sistemáticas exploráveis repetidamente por quem tem o conhecimento certo, não é um evento único.
+
+### Caso: identificar o propósito de uma anomalia estrutural raciocinando pela motivação do agente que a criou (cap. 561)
+Ao encontrar uma "torre ausente" na grade do blessed land, Fang Yuan não apenas confirma o fato, mas pergunta explicitamente "por que alguém correria esse risco enorme, quando poderia simplesmente criar uma herança em outro lugar mais seguro?" — a resposta ("a herança EXIGIA esse arranjo específico") o leva a deduzir corretamente que o local usa o próprio fluxo de poder do Eighty-Eight True Yang Building como recurso de refino de Immortal Gu. Ilustra um método geral de investigação: quando uma escolha parece irracionalmente arriscada, presumir que o risco era necessário para o objetivo, não incidental.
+
+### Caso: provocar deliberadamente uma crise pública para mascarar uma ação secreta simultânea (cap. 564)
+Fang Yuan ativa o mecanismo de Di Qiu exatamente quando sabe que a atenção de todos os Gu Masters do sacred palace estará voltada para a abertura pública do Eighty-Eight True Yang Building (evento que ele mesmo não provocou, mas soube aproveitar). Quando seu próprio ritual causa uma reação inesperada e visível (o primeiro andar do prédio recolapsando, pânico geral), ele usa mais Gu (incluindo um humourístico "smelly fart Gu" para atrair bestas como sacrifício final) para resolver o problema no local, contando com o fato de que ninguém suspeitaria de uma conexão causal entre os dois eventos simultâneos.
+
+### Caso: subjugação de Immortal Gu condicionada a estado psicológico genuíno, não a poder bruto (cap. 567-568)
+Diferente de subjugações de Gu comuns (que dependem de força de alma/primeval essence), o Calamity Beckoning Gu exige que o candidato tenha autenticamente um "coração de autossacrifício" — não é possível fingir ou forçar. Fang Yuan reflete conscientemente sobre sua própria disposição a se sacrificar (não por amor, como Mo Yao, mas pela busca de vida eterna) e conclui que possui essa qualidade em sua própria forma, conseguindo a subjugação sem o menor sinal de resistência do Gu. Ilustra uma categoria de Gu cuja "trava de segurança" é psicológica/motivacional, não apenas técnica.
+
+## 6. Glossário (cont.)
+
+- **Guest halt stele**: reforço — barreira parcialmente refinável por um mortal com esforço extremo, controla acesso à sala do tesouro de True Yang Building (cap. 559-560).
+- **Owner token / glass owner token**: reforço — token de propriedade de um blessed land/Immortal Gu house; pode ser adulterado secretamente por um Immortal Gu para uso futuro por terceiros (cap. 560).
+- **Elemento do Céu / Terra / Homem (Heaven, Earth, Man)**: os três componentes necessários, segundo a cosmologia do mundo, para um mortal ascender a Gu Immortal; usados deliberadamente na arquitetura do Eighty-Eight True Yang Building (cap. 561).
+- **Nine heavens (nove céus)**: estrutura cosmológica primordial; 7 de 9 "caíram" desde a era immemorial, restando "white heaven" e "black heaven" (cap. 559).
+- **Water Pavilion**: Immortal Gu house rank 7, criado por Shui Ni/usado por Mo Yao; esconde-se em água, névoa ou gelo (cap. 566, 568).
+- **Turtle House**: primeiro Gu house da história, criado pelos sete irmãos Lui Gui; resistiu a 3 golpes de um Gu Immortal ("three moves pact") (cap. 568).
+- **White Bone Chariot**: Gu house de Proud Bone Demon Lord Shen Jie Ao, feito de múltiplos Gu rank 5 (como White Bone Wheel), com poder equivalente a rank 6 (cap. 568).
+- **Lui Gui (sete irmãos)**: septuplos demoníacos da era antiga (olden antiquity), cada um rank 5 pico, criadores do primeiro Gu house da história (cap. 568).
+- **Golden-white tiger phantom**: guardião do 78º round de True Yang Building, com 30% do poder de uma "desolate beast" (cap. 562).
+- **Desolate beast**: reforço/nova referência — categoria de fera de poder extremo, acima mesmo de "beast emperor", cujo "fantasma"/eco de poder já é formidável (cap. 562).
+- **Sprinkler (técnica de refino)**: técnica avançada de liberação temporizada/espaçada de múltiplos Gu worms simultaneamente (cap. 564).
+
+## 7. Dúvidas e lacunas (cont.)
+
+- **RESPOSTA DIRETA a lacuna geral "luck path"**: confirmado definitivamente que luck path existe como path formal completo (ataque/defesa/movimento/cura), citando Calamity Beckoning Gu e Divert Disaster Gu como provas concretas, e explicando que Giant Sun Immortal Venerable o mantinha em segredo para vantagem pessoal (roubar sorte alheia, transferir azar) (cap. 568).
+- **RESPOSTA DIRETA a "mecanismo do blizzard de 10 anos"**: confirmado que o blizzard é o subproduto do Divert Disaster Gu desviando calamidades celestiais/terrestres que se acumulariam naturalmente dentro do Imperial Court blessed land (por seu tempo/espaço "profundos") para fora, no mundo real de Northern Plains (cap. 567).
+- **RESPOSTA PARCIAL a "critério de avanço a Gu Immortal / elementos necessários"**: os "três elementos" (céu/terra/homem) são citados como framework cosmológico formal para a ascensão, mas o texto não detalha se esse framework aplica-se a TODA ascensão a Gu Immortal no mundo (não só via Eighty-Eight True Yang Building) — fica em aberto se é regra universal ou um caso particular dessa estrutura específica.
+- Não é dito se "ler pensamentos" é uma habilidade padrão de qualquer vontade residual implantada (como a de Mo Yao) ou uma capacidade rara e específica dela — o texto trata como algo "não trivial", mas não classifica formalmente.
+- Não fica claro se existem outros "loopholes" além do de Di Qiu no Eighty-Eight True Yang Building, ou se esse era o único de sua espécie — texto sugere que pode haver mais ("essa inheritance deve ser uma corrente, o que obtive é só uma parte"), mas não confirma.
+- Não é dito o que aconteceria a Fang Yuan especificamente se a vontade residual de Mo Yao decidisse ser hostil (ela alerta que "poderia ter causado problemas" mas escolhe não fazê-lo) — não fica claro qual seria o mecanismo de dano nesse caso hipotético.
+- Não fica claro se o sistema de "% de controle" sobre um Immortal Gu house (Water Pavilion) tem um teto que um mortal pode atingir sem nunca se tornar Gu Immortal, ou se em teoria um mortal poderia chegar a 100% com tempo suficiente — o texto só mostra os números 10% e 13%, sem indicar limite superior.
+
+## BLOCO 5 (cap. 569 — fecha o bloco 529–569)
+
+## 1. Mecânicas e regras (cont.)
+
+- **Pensamento é literalmente mediado por Gu e pode ser "criptografado"**: Fang Yuan usa "space thought Gu" (combinado com outros Gu de apoio) para gerar pensamentos imbuídos do poder do espaço, que a vontade implantada de Mo Yao não consegue ler diretamente — mas essa defesa é temporária: "vontade" tem precedência hierárquica sobre "pensamento", e uma vontade que convive tempo suficiente com um padrão de pensamento eventualmente aprende a decifrá-lo mesmo assim (cap. 569) — mecânica nova e importante sobre telepatia/leitura de mente no mundo de Gu.
+- **Vontade residual de um Gu Immortal pode existir em múltiplos "fragmentos" simultâneos e semi-independentes**: Mo Yao tem uma parte de sua vontade implantada na mente de Fang Yuan E outra parte residual ainda dentro do próprio Water Pavilion — não é uma vontade única e indivisível, mas algo que pode ser "espalhado" em mais de um receptáculo ao mesmo tempo (cap. 569).
+- **Contra-ataques mentais de um mortal contra uma vontade implantada de Gu Immortal são fúteis se o Immortal for superior em wisdom/soul path**: Fang Yuan tenta atacar a vontade de Mo Yao 28 vezes com 19 métodos diferentes ao longo de meio mês, todos neutralizados facilmente — ela o supera tanto em wisdom quanto em soul path attainment, mesmo sendo "apenas uma vontade" e não seu corpo completo (cap. 569).
+- **Guest tokens de True Yang Building continuam extremamente escassos mesmo com o prédio "aberto ao público"**: apesar de Hei Lou Lan ter suspendido temporariamente a cobrança de taxas e aberto livre acesso a tribos com sangue Huang Jin, para OUTSIDERS completos (sem vínculo algum) o único caminho continua sendo o guest token de uso único, obtido apenas como prêmio de passar uma rodada — até este ponto, apenas 7 guest tokens foram conquistados no total, e mesmo assim alcançam "preços astronômicos" no mercado entre experts sem vínculo de sangue (cap. 569).
+- **Killer move "Six Arm Heavenly Zombie King" (revelado incompleto)**: usa borrow strength Gu (rank 5, catalogado antes) como núcleo, seis tipos de "flying zombie Gu" como suplemento (mas só existem "cinco grandes flying zombie Gu" conhecidos publicamente — implica um sexto tipo raro/desconhecido, ainda não identificado por Fang Yuan) e mais 36 Gu worms de apoio; arquitetura quase perfeita, mas com uma etapa final faltando por causa desse sexto Gu zumbi desconhecido — representa a evolução natural de Four Arm Earth King → Four Arm Wind King, agora potencialmente para um killer move de 6 braços (cap. 569).
+- **Killer move "Ink Transformation"**: técnica de refinement path ensinada por Mo Yao a Fang Yuan; usa Gu worms hoje raros/quase extintos, exigindo tempo e recursos do treasure yellow heaven para reconstituir; recomendada especificamente para reduzir a dificuldade de entrar na "central control hall" (câmara central de controle) de Eighty-Eight True Yang Building — sugere que essa câmara tem defesas específicas que esse killer move ajuda a driblar (cap. 569).
+
+## 2. Gu catalogados (cont.)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Space thought Gu | — | Espaço/Wisdom | Usado como componente principal para gerar pensamentos imbuídos de poder espacial, ilegíveis por vontades implantadas leitoras de mente (defesa temporária) | — | 569 |
+
+## 3. Mundo e sociedade (cont.)
+
+- **Escassez extrema de guest tokens mesmo em evento "aberto"**: apenas 7 conquistados ao longo de toda a abertura pública do Eighty-Eight True Yang Building até este ponto — quantifica o quão raro é passar rodadas o suficiente para gerar esse prêmio específico, mesmo com centenas/milhares de Gu Masters tentando diariamente (cap. 569).
+
+## 5. Estudos de caso mecânicos (cont.)
+
+### Caso: usar uma vontade hostil implantada como fonte involuntária de conhecimento, oferecendo "iscas" de pensamento (cap. 569)
+Percebendo que não pode expulsar ou vencer a vontade de Mo Yao (que o supera em wisdom/soul path), Fang Yuan inverte a situação: deliberadamente expõe pensamentos sobre um problema real que está tentando resolver (como aperfeiçoar sua killer move de fusão enslavement-strength), sabendo que a vontade curiosa de Mo Yao vai "morder a isca" e reagir mostrando conhecimento próprio superior (a killer move quase completa "Six Arm Heavenly Zombie King") sem perceber que está sendo explorada. Padrão geral: quando não se pode neutralizar um observador mais poderoso instalado à força na própria mente, pode-se ainda manipulá-lo estrategicamente através do que se escolhe pensar "abertamente".
+
+## 6. Glossário (cont.)
+
+- **Space thought Gu**: Gu que torna pensamentos ilegíveis a leitores de mente comuns, imbuindo-os de poder espacial (cap. 569).
+- **Ink transformation (killer move)**: técnica de refinement path ensinada por Mo Yao, útil contra defesas da central control hall do Eighty-Eight True Yang Building (cap. 569).
+- **Six Arm Heavenly Zombie King (killer move, incompleta)**: evolução projetada da linha Four Arm Earth/Wind King de Fang Yuan; combina borrow strength Gu + 6 tipos de flying zombie Gu (um deles ainda desconhecido) + 36 Gu de apoio (cap. 569).
+- **Five great flying zombie Gu**: categoria fixa e conhecida de cinco tipos de Gu zumbi voador (um deles é asura zombie Gu, já catalogado); a killer move de Mo Yao implica a existência de um sexto tipo raro, não confirmado (cap. 569).
+
+## 7. Dúvidas e lacunas (cont.)
+
+- Não é revelado qual é o "sexto flying zombie Gu" necessário para completar Six Arm Heavenly Zombie King — fica como gancho explícito para os próximos blocos de capítulos.
+- Não fica claro qual defesa específica a "central control hall" de Eighty-Eight True Yang Building possui que torna o killer move "ink transformation" recomendável — não detalhado neste bloco.
+- Não é dito se a limitação de "space thought Gu" (eventualmente decifrável por uma vontade familiarizada) tem prazo definido, ou se depende só da frequência de uso/exposição — Mo Yao apenas afirma que é questão de tempo, sem quantificar.
+
+---
+
+## RESUMO DO BLOCO PARA RELATÓRIO FINAL
+
+**Capítulos lidos**: 529 a 569 (41 capítulos), Volume 3.
+
+**Gu catalogados neste bloco**: ~40 entradas na tabela (incluindo 5 Immortal Gu marcados com ⭐: Calamity Beckoning Gu, Divert Disaster Gu, Water Harmony Gu, Worldly Wave Trace, Delight in Water and Mountain).
+
+**3 achados mecânicos mais importantes do bloco**:
+1. **Mecanismo completo do blizzard de 10 anos e da ascensão a Gu Immortal via "três elementos"** (céu/terra/homem) explicado através do design do Eighty-Eight True Yang Building — resposta direta a duas lacunas antigas (origem do blizzard e existência do luck path, confirmado via Divert Disaster Gu / Calamity Beckoning Gu).
+2. **Revelação de "killer moves multiusuário"** (three heads six arms, exigindo 3 pessoas e 18 Gu simultâneos) como categoria distinta de killer moves de usuário único, e o desenvolvimento progressivo da linha própria de Fang Yuan (Four Arm Earth King → Four Arm Wind King → Six Arm Heavenly Zombie King, incompleta) como estudo de caso extenso de criação/iteração de killer move ao longo de vários capítulos.
+3. **Mecânica de "refino parcial" de estruturas Immortal Gu house muito acima do rank do cultivador** (guest halt stele do Eighty-Eight True Yang Building, e depois o próprio Water Pavilion), incluindo o conceito de vontade residual de Immortal Venerables/Gu Immortals mortos que pode "dormir" dentro de suas criações ou até se implantar ativamente na mente de um intruso (caso de Mo Yao), consumindo-o com o novo problema de "vontade espiã" instalada permanentemente na cabeça do protagonista.
 

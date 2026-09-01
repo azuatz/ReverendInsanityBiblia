@@ -237,8 +237,10 @@ A sociedade dos Mestres Gu organiza-se em dois modelos: **clãs** (laços de san
 
 - Estrutura interna completa da Demon Suppression Tower; quem nomeia os Divine Investigators.
 - Regras formais completas do Three-Clan Tournament (Vol. 1) — arquivado, clãs extintos.
-- Hierarquia completa das dez grandes seitas do Central Continent (Immortal Crane Sect e Spirit Affinity House parcialmente detalhadas).
+- Hierarquia completa das dez grandes seitas do Central Continent — V4 nomeia mais: Immortal Crane, Spirit Affinity House, Myriad Dragon Dock, Combat Immortal Sect, Heavenly Lotus, Heaven's Envy Manor, Ancient Soul Sect, Spirit Butterfly Valley, Demon Expelling Sect (~9; confirmar a 10ª).
 - O 5º general de Shang Yan Fei (3 nomeados: Wei Yang, Shang Bu Li, Yi Huo).
 - Se a contagem de tokens roxo-espinho é 200 ou "algumas centenas" (caps. 271 × 277).
 - Corte numérico entre large tribe e super tribe além do critério qualitativo (Immortal + blessed land).
 - Relação exata Immortal Court × Heavenly Court (ver mundo-e-cosmologia.md).
+- (novo V4) Estrutura remanescente da Zombie Alliance após a destruição do cap. 1008-1009 (sobrou algo?); objetivo final detalhado do plano de 100 mil anos da Shadow Sect.
+- (novo V4) Se a suspensão da proibição de "immortal slaughtering" durante a futura guerra caótica tem mecanismo formal (cap. 705).

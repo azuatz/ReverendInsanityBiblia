@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Economia e vida cotidiana
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> Domínio: pedras primevas, preços, rendas, mercados/leilões, rock gambling, merit points, heranças e eventos jogáveis, cotidiano. O V3 abre a **economia imortal** (treasure yellow heaven, immortal essence stones, treasure light) e a economia de guerra de Northern Plains (battle merits).
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> Domínio: pedras primevas, preços, rendas, mercados/leilões, rock gambling, merit points, heranças e eventos jogáveis, cotidiano. O V3 abriu a **economia imortal** (treasure yellow heaven, immortal essence stones, treasure light) e os battle merits; o **V4 a preenche com números**: hierarquia de moedas, riqueza típica por rank, tabela de preços de killer moves, leilões de Immortal Gu (mercado de vendedor), monopólios, juros e os grandes eventos jogáveis da era imortal.
 
 ## Resumo do domínio
 

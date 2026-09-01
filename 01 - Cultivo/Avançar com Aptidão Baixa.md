@@ -4,6 +4,8 @@ tags:
   - cultivo/avanco
   - design/progressao
 aliases:
+  - Métodos para alcançar a imortalidade
+  - Rotas para a imortalidade
   - Avançar com Aptidão Baixa
   - Métodos de avanço para talento baixo
   - Como um talento medíocre sobe de rank
@@ -165,6 +167,102 @@ custo**, usando efeitos que a reserva do personagem não sustentaria.
 Quem nasce com uma [[As Dez Constituições Extremas|constituição extrema]] tem 100% de
 capacidade e ignora o problema inteiro — mas herda outro, geralmente fatal. Não é rota
 de contorno: é uma categoria à parte, e quase sempre uma tragédia.
+
+---
+
+---
+
+## E depois do topo mortal: as rotas para a imortalidade
+
+A escada percentual acaba no rank 5. A passagem para o reino imortal muda de natureza —
+e há uma confusão comum que vale desfazer logo, porque ela muda tudo para quem está
+montando progressão.
+
+> [!warning] "Precisa de 100%" — sim, mas não da aptidão
+> A ascensão exige um **assalto total**: o cultivador projeta **toda a essência que tem,
+> de uma só vez**, para estilhaçar a própria abertura. Nesse sentido, sim: é preciso
+> estar com a reserva cheia, a 100% — mas 100% **da própria capacidade**, não 100% de
+> aptidão. Um grau C com 44% de teto ascende usando os seus 44%, integralmente.
+>
+> Ter 100% de aptidão é outra coisa completamente distinta: é ser portador de uma
+> [[As Dez Constituições Extremas|constituição extrema]], categoria rara e quase sempre
+> trágica. Confundir as duas leva a concluir, erradamente, que só constituições extremas
+> ascendem — o que é falso, e apagaria a maior parte dos imortais do mundo.
+
+E é aqui que a lógica do documento inteiro se inverte, num ponto que vale destacar:
+**na ascensão, a aptidão deixa de ser o fator decisivo.** Ela ainda ajuda (mais
+capacidade significa mais essência para o assalto), mas o que determina sucesso, fracasso
+e o tamanho do domínio conquistado é o equilíbrio dos três qi — céu, terra e humano —,
+e a qualidade do qi humano é o acúmulo da vida inteira do candidato: feitos, vontade,
+compreensão. Um talento medíocre que viveu muito e fez muito chega à ascensão mais bem
+equipado que um prodígio vazio.
+
+### O procedimento canônico, em três passos
+
+1. **Estilhaçar a abertura** com o assalto total de essência. A abertura selada vira um
+   buraco aberto no corpo. É **irreversível** — a obra frisa que não há volta, e que só
+   esse primeiro passo já exige coragem enorme.
+2. **Atrair e absorver qi do céu e qi da terra** pela abertura destruída. Quanto mais se
+   absorve, maior a chance — mas os dois não podem crescer sem limite: precisam ficar
+   equilibrados com o **qi humano** do praticante.
+3. **Inserir o Gu vital** na nova estrutura, que se fecha como um mundo em miniatura.
+
+Os três modos de falha correspondem ao desequilíbrio, e todos são fatais ou piores que a
+morte. Detalhes em [[Ascensão Imortal]].
+
+### O que melhora as chances de quem não é prodígio
+
+Nenhum destes é atalho gratuito; todos são investimentos de décadas ou pactos caros.
+
+| Rota | O que faz | Preço |
+|---|---|---|
+| **Acumular qi humano** | feitos, reputação, vontade forjada e compreensão elevam a qualidade do componente que a aptidão não fornece | uma vida inteira de riscos — é a rota "honesta" |
+| **Obter um Gu Imortal antes de ascender** | garante o item que a nova estrutura precisa e melhora drasticamente a posição inicial | ver abaixo: é o gargalo econômico do mundo |
+| **Elevar o [[Attainment|attainment]] antes** | compreensão do caminho vale mais que rank e sustenta a ascensão | tempo, mestres, heranças |
+| **Ascender em local marcado por um Venerável morto** | a "verdade" impressa no lugar concede saltos de compreensão que levariam décadas | acesso ao local, e enfrentar a provação que ele impõe |
+| **Segunda abertura** | funciona como rede de segurança contra a falha na ascensão | exige um Gu Imortal específico e um processo longuíssimo |
+| **Constituição extrema** | 100% de capacidade, dao marks natos, ascensão facilitada | herda uma condição geralmente fatal; ver a nota própria |
+
+### A rota que o mundo inteiro disputa: conseguir um Gu Imortal sendo mortal
+
+Este é o gargalo real, e por isso é o motor econômico e político do cenário. Um mortal
+**não consegue refinar um Gu Imortal por conta própria** em circunstâncias normais. As
+vias que a obra documenta:
+
+- **Pedir a um espírito da terra.** Um herdeiro reconhecido por uma terra abençoada pode
+  solicitar refinos a ela. Há um limite rígido de tentativas, e um pedido de Gu Imortal
+  consome uma tentativa **mesmo quando falha** — diferente de um pedido de Gu mortal, que
+  só consome uma no total, com repetições grátis. É a via principal, e é escassa.
+- **Herança de um imortal morto**, com as condições que ele impôs ao herdeiro.
+- **Receber de um imortal vivo**, com tudo que isso implica de dívida e subordinação.
+- **Uma receita completa e correta**, que praticamente não circula; e ainda assim o
+  refino precisa respeitar a regra de que **cada Gu Imortal é exemplar único no mundo** —
+  tentar refinar uma duplicata falha automaticamente.
+
+> [!warning] Regra de espólio que segura a economia inteira
+> Matar um imortal **não** entrega os Gu dele. A vontade que o refinador original embutiu
+> no Gu funciona como um programa interno: tentar refiná-lo à força o destrói. Apenas o
+> caminho da sabedoria consegue suprimir essa vontade, com margem mínima de erro. Gu
+> selvagens, que não têm vontade embutida, são seguros de refinar — e é por isso que a
+> caça a Gu selvagens é uma profissão, e o saque de arsenais imortais não é.
+
+### Rotas alternativas de existência
+
+Nem toda saída do mundo mortal passa pela ascensão comum:
+
+- **Zumbificação.** Existe uma escada inteira de transformação em morto-vivo, com ganho
+  de longevidade e poder e perda progressiva de humanidade. É rota real, praticada por
+  organizações inteiras, e não um beco sem saída — mas cobra o que se imagina.
+- **Possessão.** Um imortal morto tomando outro corpo, herdando a vida dele.
+- **Ser convertido por terceiros.** Organizações poderosas fabricam imortais para os
+  próprios fins, o que resolve o problema técnico e cria outro, de servidão.
+
+> [!note] Para o design
+> Repare na assimetria que isto cria e que é ótima para campanha: a **subida mortal** é
+> um problema de recursos (aptidão, essência, dinheiro), enquanto a **ascensão** é um
+> problema de acesso e de acúmulo de vida. Um grupo de personagens pobres mas veteranos
+> pode chegar mais perto da imortalidade que um prodígio isolado — desde que resolva o
+> gargalo do Gu Imortal, que é justamente o objetivo que amarra uma campanha inteira.
 
 ---
 

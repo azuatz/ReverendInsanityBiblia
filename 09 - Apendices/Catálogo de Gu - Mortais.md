@@ -451,23 +451,32 @@ investimento: um único praticante de rank alto comanda dezenas de milhares de
 criaturas. A submissão de um ser humano é uma **disputa de almas**, e distrair o
 alvo contorna a resistência dele.
 
-| Gu | Rank | Efeito | Alimento |
-|---|---|---|---|
-| Dog Enslavement Gu | 1-2 | Domina um cão implantando-se na alma dele; morre com o cão | — |
-| Dog Guts Gu | 1-5 | Remove o medo dos cães em área, por tier de fera-rei | — |
-| Wolf Enslavement Gu | 1-5 | Fumaça de uso único; o tier do alvo sobe com o rank | — |
-| Slavery Gu | 1-5 | Controle total sobre o alvo; no rank 5 escraviza um praticante | — |
-| Bear Enslavement Gu | 2 | Controla ursos comuns; volta à mão do dono quando o urso morre | — |
-| Onion Explosion Gu | 2 | Enfurece bestas em massa | — |
-| Multitask Gu | 2+ | Divide a mente; soma tarefas simultâneas ao teto natural | — |
-| Estrus Gu | — | Pó que induz cio em massa; multiplica rebanhos | — |
-| Wolf Howl Gu | 4 | Fortalece a matilha inteira em amplo raio | — |
-| Wolf Smoke Gu | 4 | Fumaça negra que cobre um raio enorme quase instantaneamente | — |
-| Clear Mind Gu | 4 | Reverte a fúria induzida; par de captura em massa | — |
-| Wolf Totem Gu | 5 | Lobos de elite guardados como tatuagem, invocáveis | — |
-| Crane Enslavement Gu | 5 | Controla um rei-fera de grous; comanda dezenas de milhares de aves | — |
-| Puppet Control Gu | — | Controle de corpos vivos à distância | — |
-| Master-Servant Gu | — | Vínculo formal de senhor e servo | — |
+A leitura desta tabela pede atenção a uma coluna que ela **não** tem: o custo de
+alimentar o rebanho. Estes Gu escalam absurdamente — um praticante comanda dezenas de
+milhares de criaturas — mas a obra deixa claro que o gargalo real é logístico e
+mental, não de poder. Note também que a submissão de um ser humano é uma disputa de
+almas: distrair o alvo contorna a resistência dele, o que faz destes Gu ferramentas
+de emboscada tanto quanto de combate.
+
+| Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
+|---|---|---|---|---|---|---|---|
+| Dog Enslavement Gu | 1-2 | Domina um cão implantando-se na alma dele | — | — | Existe também uma versão rank 5, capaz de escravizar reis-fera e comandar exércitos | Controle total e permanente sobre o animal, já no rank 1 | O Gu **morre junto com o cão**: perder o animal é perder o investimento |
+| Dog Guts Gu | 1-5 | Remove o medo dos cães numa área | — | — | — | Escala por patamar de fera-rei: rank 2 vence o medo de um rei de cem feras, rank 3 de mil, rank 4 de dez mil, rank 5 induz frenesi total | Só afeta cães (ded.) |
+| Wolf Enslavement Gu | 1-5 | Fumaça que escraviza lobos | — | **Uso único** — a fumaça se esgota | Existem várias receitas diferentes para cada rank | O patamar do alvo sobe com o rank: rank 2 domina um rei de cem, rank 3 de mil, rank 4 de dez mil | Descartável, e **bloqueável por um Gu defensivo do alvo** — como o Self-ignition Gu, que queima a fumaça |
+| Slavery Gu | 1-5 | Controle total sobre a pessoa em quem for implantado | — | A submissão é uma **disputa de almas**: distrair o alvo contorna a resistência dele | — | Na versão rank 5, escraviza um Mestre Gu de rank 5 inteiro — o efeito de controle mais absoluto do catálogo mortal | Contra um alvo alerta e concentrado, a disputa pode ser perdida |
+| Bear Enslavement Gu | 2 | Controla ursos comuns | — | — | — | Ao contrário do Dog Enslavement, **volta à mão do dono quando o urso morre**: o investimento se preserva | Não alcança um rei dos ursos até o Gu subir a rank 3 |
+| Onion Explosion Gu | 2 | Enfurece bestas em massa | — | — | — | Ferramenta de captura em massa quando pareado com o Clear Mind Gu | Sozinho só cria caos: sem o par, o usuário liberta uma horda enfurecida (ded.) |
+| Multitask Gu | 2+ | Divide a mente do usuário | — | — | — | **Soma tarefas simultâneas ao teto natural do usuário** — quebra o limite mais duro do sistema inteiro, que é quantos Gu se controla de uma vez | — |
+| Estrus Gu | — | Pó que induz cio em massa | — | — | — | Multiplica rebanhos: é infraestrutura econômica, não arma | — |
+| Wolf Howl Gu | 4 | Fortalece a matilha inteira | — | Alcance de cerca de oitocentos passos | — | Reforço de duas a cinco vezes sobre todos os lobos ao alcance | Precisa de uma matilha já formada para valer alguma coisa (ded.) |
+| Wolf Care Gu | — | Cura em massa de lobos | — | — | — | Mantém o exército de pé sem custo humano | — |
+| Wolf Smoke Gu | 4 | Fumaça negra que cobre um raio enorme quase instantaneamente | — | — | Exemplar selvagem | Cobre mais de cem li quase de imediato: negação de visão em escala de campanha | — |
+| Clear Mind Gu | 4 | Reverte a fúria induzida | — | — | — | Fecha a combinação de captura em massa iniciada pelo Onion Explosion | Reativo: sozinho não captura nada (ded.) |
+| Wolf Totem Gu | 5 | Guarda lobos de elite como tatuagens invocáveis | — | — | — | Exército no próprio corpo, sem custo de transporte nem de manutenção em campo | — |
+| Crane Enslavement Gu | 5 | Controla um rei-fera de grous | — | — | — | Um único Gu comanda dezenas de milhares de aves pela cadeia de comando do rei-fera | Depende de manter vivo o rei-fera; perdê-lo derruba o exército inteiro (ded.) |
+| Whale Enslavement Gu | — | Controla baleias-voadoras-azuis | — | — | — | Base das caravanas comerciais de longa distância de um clã inteiro | — |
+| Puppet Control Gu | — | Controle de corpos vivos à distância | — | Combina com agulhas douradas para funcionar | — | Controle sem implantar nada permanente na vítima | — |
+| Master-Servant Gu | — | Vínculo formal de senhor e servo | — | — | — | Cria uma relação reconhecida e estável, em vez de dominação bruta | — |
 
 ---
 

@@ -158,3 +158,26 @@
 
 - ~~faixas de aptidão e **limiares % de ruptura de rank**~~ ✅ RESOLVIDO no texto-fonte (ver "Respondidos na leva do Volume 5 — 1ª metade"); a wiki erra ao dizer grau D = 20–39%, prevalece o texto (20–30%). Segue em aberto só os limiares 2→3/3→4/4→5, que a obra nunca dá.
 - Wiki/Reddit para: o 10º Venerável (9 nomeados; conferir se Limitless Demon Venerable é o 10º, e o status da Great Dream Immortal Venerable como 4ª da Heavenly Court e não como 10ª histórica — cap. 1384); rankings de Gu supremos (itens 9/42); lista completa das Ten Extreme Physiques (5-6 nomeadas); definição formal do rule path; nomes canônicos dos paths ainda não nomeados no texto (lua, veneno, madeira etc. — som → sound path e água/gelo → water/ice path confirmados).
+
+## Lacunas da consolidação final (V5 2ª metade + V6)
+
+Registradas pelo orquestrador a partir dos relatórios dos sintetizadores de domínio.
+
+- **Descontinuidade de dao marks entre rank 7 e 8**: as faixas registradas são rank 6
+  = 0–9.000, rank 7 = 10.000–30.000, rank 8 = 100.000–300.000. O salto de 30 mil para
+  100 mil não é explicado pela obra. Verificar no passe final se há passagem que cubra
+  a faixa intermediária.
+- **Estágio de essência imortal × rank de cultivo**: a relação exata entre os quatro
+  tiers (green grape → red date → white litchi → yellow apricot) e o rank do cultivador
+  não é enunciada de forma fechada.
+- **Vida eterna: impossível ou apenas desconhecida?** O projeto do Limitless Demon
+  Venerable falha de forma documentada, mas o texto recusa deliberadamente dizer se a
+  vida eterna é inalcançável em princípio. Tratar como pergunta em aberto da própria
+  obra — não resolver por inferência.
+- **"Onze Veneráveis" (cap. 2260) × a contagem de dez** dos volumes anteriores.
+  Provável resolução: os dez históricos mais Fang Yuan como décimo primeiro. Confirmar
+  no passe de verificação.
+- **Reverificar no texto** (apontado pela pesquisa da comunidade): a alegada escala
+  mortal ×2 por sub-realm / ×3 por rank (o ×3 não se sustentou: o texto dá ×10 entre
+  ranks); a suposta regra inicial de avanço de rank por ecossistema de blessed land;
+  e as quatro proposições sobre Heaven's Will da seção 4.1 daquela pesquisa.

@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 1268–1308 (Volume 5)
 
-> Progresso da leitura: até o cap. 1297
-> Status: em-andamento
+> Progresso da leitura: até o cap. 1308 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 

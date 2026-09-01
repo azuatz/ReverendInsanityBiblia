@@ -69,6 +69,29 @@ descreve. **Recomendação para o RPG: adotar 55/65/75/85 como régua de design*
 deixando registrado que apenas o 55% é canônico e o resto é reconstrução coerente.
 Marcar assim nas notas finais: `inferido (coerente com o texto)`.
 
+## Os dois eixos da essência: ×2 por estágio, ×10 por rank
+
+Pergunta original do usuário (que estava meio certa): "cada pequeno reino aumenta 2× o
+condensamento e 4× a cada grande reino?". Verificado no texto — são **dois eixos
+diferentes**, e um dos números era outro:
+
+| Eixo | Fator | Fonte |
+|---|---|---|
+| **Estágio → estágio** (pequeno reino): densidade da essência | **×2** | nota do tradutor no Volume 1: a essência de um tier é o dobro da do anterior — 88% de tier médio equivalem a 44% de tier superior |
+| **Rank → rank** (grande reino): qualidade da essência | **×10** | aula na academia (cap. 26): uma porção de vermelho-ferro equivale a dez porções de verde-cobre, e uma de branco-prata a dez de vermelho-ferro |
+| **Custo de conversão** entre estágios (não é potência!) | **4:1** | caps. 29 e 34: gastam-se 20% de essência inicial para condensar 5% de essência de estágio médio |
+| **Eficiência de cultivo** com essência de estágio médio | "no mínimo ×2" | cap. 34 |
+
+Portanto: o **×2 por pequeno reino estava certo**; o "×4 por rank" confundia o custo de
+conversão (4:1) com potência — entre ranks o fator é **×10**, e acumulado do rank 1 ao 3
+dá ×100.
+
+> [!warning] Armadilha para a designer
+> Quantidade armazenada (aptidão, em % da abertura) e qualidade/densidade da essência são
+> escalas independentes. Um grau A de rank 1 tem MUITO mais essência que um grau D de rank
+> 1, mas a essência dos dois é igualmente verde-cobre. Somar os dois eixos numa única
+> "estatística de poder" é o erro mais fácil de cometer ao converter isto para RPG.
+
 ## E para virar imortal? Não é porcentagem — é destruir a abertura
 
 A escada percentual **termina no mundo mortal**. O rank 5 estágio de pico é descrito

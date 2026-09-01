@@ -36,8 +36,22 @@ O processo é documentado em detalhe para a passagem do rank 1 ao 2, e o padrão
 
 Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primevo, uma nova membrana de luz se forma e a primeira gota de essência da nova cor emerge.
 
-> [!warning] O único limiar canônico é o 55%
-> A obra fornece o percentual apenas para o avanço **1 → 2**. Para 2→3, 3→4 e 4→5 ela nunca dá número algum. Estas notas adotam **65 / 75 / 85%** como reconstrução coerente de design, compatível com a distribuição social de ranks descrita no mundo — mas isso é decisão de sistema, não texto. Um dado indireto útil: um Mar Primevo a 90% de plenitude, sozinho, **não** bastou para uma ruptura de 3→4; foi preciso influxo externo de essência de rank superior.
+> [!warning] O único limiar canônico é o 55% — e ele não é medido em volume bruto
+> A obra fornece o percentual apenas para o avanço **1 → 2**, sempre com a ressalva
+> "sem situações especiais". Para 2→3, 3→4 e 4→5 ela nunca dá número algum.
+>
+> Há um dado que impede tratar esses limiares como simples porcentagem de capacidade:
+> uma reserva a **90%** de plenitude, sozinha, **não** bastou para uma ruptura de 3→4 —
+> foi preciso influxo externo de essência de rank superior. Noventa é mais que qualquer
+> limiar plausível para o terceiro degrau, então o que faltou não era volume: era
+> **qualidade**. O limiar mede *essência efetiva entregue no golpe*, que combina volume
+> com o estágio e o rank da essência (ver [[Essência Primeva]] e [[Aptidão]]).
+>
+> Estas notas adotam **65 / 75 / 85%** para 2→3, 3→4 e 4→5 como reconstrução de design,
+> entendidos como percentual **de essência já no estágio de pico do rank** — não de
+> capacidade crua. É decisão de sistema, não texto. Alternativa igualmente fiel: largar
+> os números e tratar o avanço como "reunir volume e qualidade suficientes, por qualquer
+> via", deixando a dificuldade a cargo da aptidão e dos recursos do personagem.
 
 ### Benchmarks de tempo documentados
 

@@ -44,10 +44,60 @@ Isso também define a economia pessoal do personagem: quem tem teto baixo age me
 
 Aqui está a consequência estrutural que amarra todo o sistema mortal. Romper a parede da abertura para subir de rank exige **projetar de uma só vez uma porcentagem mínima da própria essência**. Como a aptidão fixa o teto de armazenamento, quem não alcança essa porcentagem **não rompe a parede**, por mais séculos que cultive.
 
-O número canônico é: passar do **rank 1 para o rank 2 exige 55%**, "sem situações especiais". Daí decorre diretamente a distribuição social que o mundo observa — um grau C só passa se estiver na faixa estreita de 55 a 59%, e um cultivador de 44% pode ficar travado no rank 2 por mais de cem anos até conseguir, com muito custo, um item que eleve sua aptidão.
+O número canônico é: passar do **rank 1 para o rank 2 exige 55%**, e a obra faz questão
+de acrescentar a ressalva **"sem situações especiais"**. Essa ressalva não é decorativa —
+é ela que faz o sistema inteiro fechar, e vale entender por quê.
 
-> [!warning] Reconstrução, não cânone
-> A obra fornece **apenas o limiar de 55% para o rank 1 → 2**. Os limiares dos avanços seguintes nunca são dados: uma varredura de milhares de capítulos não produz um único número novo, porque a partir de certo ponto a narrativa passa a viver no reino imortal, onde o critério de avanço é temporal e de provações, não percentual. Nestas notas adotamos **65 / 75 / 85%** para os avanços 2→3, 3→4 e 4→5 como **reconstrução coerente de design** — os números encaixam com a distribuição de ranks que a obra descreve (o grau C trava logo abaixo de 65%, o grau B alcança o rank 3 mas não os 85%, só o grau A chega ao topo mortal). Trate-os como decisão de sistema, jamais como texto.
+### Por que graus baixos ainda sobem de rank
+
+À primeira vista há uma contradição: se romper para o rank 2 exige 55% e o grau D tem
+teto de 30%, nenhum grau D deveria jamais alcançar o rank 2 — e no entanto a obra diz que
+ele alcança. A resposta está no fato de que **o limiar não mede quanto cabe na abertura,
+e sim quanta essência efetiva se entrega no golpe**. E essência tem duas variáveis:
+volume e densidade (ver [[Essência Primeva]]).
+
+Como a essência de estágio médio vale o dobro da inicial, alguém que converta a própria
+reserva antes de tentar a ruptura entrega muito mais do que a porcentagem bruta sugere.
+São três as saídas que a obra nomeia para quem não alcança o limiar por capacidade:
+
+1. **Elevar a aptidão** com um Gu que aumenta talento — a solução direta e a mais rara.
+2. **Elevar a densidade** com um Gu de apoio que refina a essência para um estágio
+   superior antes do golpe. É a rota mais acessível, e a razão pela qual graus medianos
+   conseguem romper.
+3. **Receber essência emprestada** de um Mestre Gu de rank superior — funciona, mas
+   contamina a abertura e sufoca o potencial futuro, salvo purificação posterior.
+
+> [!warning] Consequência para o design
+> O limiar percentual **não é uma trava absoluta de carreira; é o preço do caminho
+> fácil.** Um grau A sobe sozinho. Um grau C sobe se planejar. Um grau D sobe se alguém
+> investir nele ou se ele fizer algo drástico. Isso é mais interessante para um jogo do
+> que um teto rígido: transforma a aptidão em *dificuldade*, não em *impossibilidade*, e
+> explica por que a obra trata cada avanço de um talento medíocre como uma conquista.
+
+É por isso, também, que um cultivador de 44% pode ficar travado por mais de cem anos: não
+porque seja proibido de subir, mas porque cada degrau acima do primeiro exige que ele
+resolva de novo, e com recursos maiores, o mesmo problema.
+
+> [!warning] Reconstrução, não cânone — e uma ressalva importante
+> A obra fornece **apenas o limiar de 55% para o rank 1 → 2**. Os limiares dos avanços
+> seguintes nunca são dados: uma varredura de milhares de capítulos não produz um único
+> número novo, porque a partir de certo ponto a narrativa passa a viver no reino imortal,
+> onde o critério de avanço é temporal e de provações, não percentual. Nestas notas
+> adotamos **65 / 75 / 85%** para os avanços 2→3, 3→4 e 4→5 como **reconstrução coerente
+> de design** — os números encaixam com a distribuição de ranks que a obra descreve.
+>
+> **A ressalva:** existe um dado canônico que parece contrariar essa escada. Uma reserva
+> a 90% de plenitude não bastou para uma ruptura do rank 3 para o 4, e foi preciso
+> influxo externo de essência de rank superior. Se o limiar fosse simplesmente 75% do
+> volume, 90% teria bastado.
+>
+> A leitura que concilia os dois fatos é a mesma da seção acima: **o que conta é essência
+> efetiva, não volume bruto**. Naquele caso faltou *qualidade* — a essência era de rank e
+> estágio insuficientes, e nenhuma quantidade compensa qualidade abaixo do exigido. Se
+> você adotar a escada 65/75/85, adote-a como percentual **de essência já no estágio de
+> pico do rank**, não de capacidade crua. E se preferir abandonar os números e tratar o
+> avanço como "reunir volume e qualidade suficientes, por qualquer via", estará igualmente
+> fiel à obra — talvez mais.
 
 ### Efeitos práticos do grau
 

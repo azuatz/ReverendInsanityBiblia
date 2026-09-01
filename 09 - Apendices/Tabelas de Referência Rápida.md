@@ -261,15 +261,21 @@ apenas o **caminho principal** dele e excluindo prodígios e Veneráveis:
 | Rank | Faixa de dao marks |
 |---|---|
 | 6 | 0 – 9.000 |
-| 7 | 10.000 – 30.000 |
-| 8 | 100.000 – 300.000 |
+| 7 | 9.000 – 30.000 |
+| 8 | 30.000 – 300.000 |
 | 9 (Venerável) | ≥ 300.000 no caminho principal |
 
-> [!warning] O vão entre 30.000 e 100.000
-> Há um salto que o texto não explica entre o topo do rank 7 e o piso do rank 8. Duas
-> leituras são possíveis: ou a própria transição de rank concede um bloco enorme de
-> dao marks de uma vez, ou existe uma faixa intermediária que a obra nunca menciona.
-> Ambas são especulação. Registre como lacuna se for construir progressão sobre isso.
+> [!example] De onde saem exatamente essas faixas
+> Não são estimativas: são o calendário de provações multiplicado pelo rendimento de
+> cada uma (as duas tabelas anteriores desta nota). Confira somando:
+>
+> - **Rank 6** — 27 calamidades × 250 + 3 tribulações × 750 = **9.000**
+> - **Rank 7** — 24 × 250 + 3 × 750 + 3 grandes × 7.250 = **30.000**
+> - **Rank 8** — 24 × 750 + 3 × 7.250 + 3 miríades × 86.750 = **300.000**
+>
+> O acumulado ao fim do rank 8 coincide com os 300.000 exigidos como condição formal do
+> rank 9. Uma versão anterior desta tabela trazia "100.000" como piso do rank 8; era erro
+> nosso, sem base no texto, e foi corrigido.
 
 ---
 

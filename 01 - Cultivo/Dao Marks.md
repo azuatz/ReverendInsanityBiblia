@@ -25,31 +25,70 @@ Cada linha de conhecimento é chamada de **path (caminho)**: caminho da força, 
 
 ## A matemática da amplificação
 
-A obra fecha a fórmula, e ela é limpa o bastante para ir direto para uma tabela de regras:
+A obra dá vários pontos de referência, e eles se encaixam numa regra única e linear:
 
-| Dao marks de um caminho | Amplificação dos efeitos daquele caminho |
+> **Cada dao mark acrescenta um décimo de por cento ao efeito.** Ou seja, o multiplicador
+> final é aproximadamente **1 + (número de dao marks ÷ 1.000)**.
+
+| Dao marks de um caminho | Efeito sobre os poderes daquele caminho |
 |---|---|
-| 100 | **+10%** |
-| 1.000 | **×2** |
-| 10.000 | **×10** |
-| 50.000 | **×50** |
+| 100 | +10% |
+| 200 | +20% |
+| 600 | +60% |
+| 1.000 | dobra (×2) |
+| 4.000 | ×5 |
+| 10.000 | cerca de ×10 |
+| 50.000 | cerca de ×50 |
+
+As linhas de 200 e 600 vêm de uma fala literal da obra e são o que permite identificar
+a regra como linear. As linhas de 100 e 1.000 batem exatamente com ela. As de 10.000 e
+50.000 são a forma como a obra as enuncia — "dez vezes", "cinquenta vezes" —, que é o
+arredondamento natural do que a regra produziria (×11 e ×51).
+
+> [!warning] Use a regra, não decore a tabela
+> A tabela existe para você conferir; o que você vai usar de fato é a regra linear, que
+> responde qualquer valor intermediário. Um personagem com 4.000 dao marks de um caminho
+> tem os poderes daquele caminho multiplicados por cinco.
+>
+> Duas ressalvas honestas: a obra nunca menciona um **teto** para essa acumulação, e
+> nunca descreve o que acontece **abaixo de 100** dao marks — presumivelmente a mesma
+> proporção, mas isso é dedução nossa, não texto. Em ranks muito altos a própria obra
+> passa a falar em amplificações de "centenas a milhares de vezes", coerente com a regra
+> linear levada a dezenas ou centenas de milhares de marcas.
 
 > [!note] Para o design
 > Aqui está a regra que faz dos dao marks o melhor investimento do sistema, e é preciso lê-la com atenção: **a amplificação por dao marks não aumenta o custo de energia para ativar o Gu**. É ganho puro, permanente e cumulativo. O contraste está explícito no texto: a amplificação por **ambiente** — colocar-se num lugar que multiplica seu poder por cem — escala o custo de energia na mesma proporção de cem. Uma é um bônus na ficha, a outra é um empréstimo. É por isso que ninguém foge de tribulações indefinidamente, por mais mortais que elas sejam: fugir é abrir mão do único multiplicador gratuito que existe.
 
 ### Faixas de referência por rank
 
-| Rank imortal | Dao marks no caminho principal |
+| Rank imortal | Dao marks acumulados no caminho principal |
 |---|---|
 | 6 | 0 – 9.000 |
-| 7 | 10.000 – 30.000 |
-| 8 | 100.000 – 300.000 |
+| 7 | 9.000 – 30.000 |
+| 8 | 30.000 – 300.000 |
 | 9 | 300.000 ou mais (é condição formal) |
 
-Um perfil típico: um rank 7 comum acumula por volta de 10.000 dao marks no caminho principal, depois de quarenta a cinquenta calamidades e algumas tribulações. Alguém com 16.000 num único caminho tendo enfrentado apenas quatro calamidades é considerado três vezes acima do esperado — e isso significa que ele achou outra fonte.
+Um perfil típico: um rank 7 comum acumula por volta de 10.000 dao marks no caminho
+principal, depois de quarenta a cinquenta calamidades e algumas tribulações. Alguém com
+16.000 num único caminho tendo enfrentado apenas quatro calamidades é considerado três
+vezes acima do esperado — e isso significa que ele achou outra fonte.
 
-> [!warning] Uma descontinuidade que o texto não explica
-> Há um salto entre os 30.000 do topo do rank 7 e os 100.000 do piso do rank 8 que a obra nunca comenta. Duas leituras possíveis: ou a transição de rank concede um bloco grande de dao marks de uma vez, ou existe uma faixa intermediária omitida. Registrado como lacuna real, não como erro de leitura.
+> [!example] Por que essas faixas são exatamente essas
+> Elas não são estimativas: caem do calendário de provações multiplicado pelo rendimento
+> de cada uma. Some você mesma, usando as tabelas de [[Tribulações e Calamidades]]:
+>
+> - **Rank 6** — 27 calamidades terrenas × 250, mais 3 tribulações celestes × 750 = **9.000**
+> - **Rank 7** — 24 × 250, mais 3 × 750, mais 3 grandes tribulações × 7.250 = **30.000**
+> - **Rank 8** — 24 × 750, mais 3 × 7.250, mais 3 tribulações miríade × 86.750 = **300.000**
+>
+> O total ao fim do rank 8 bate exatamente com os 300.000 exigidos como condição formal
+> para o rank 9 (ver [[Tornar-se Venerável]]). O sistema fecha sozinho.
+
+> [!note] Para o design
+> Essa é a melhor notícia deste material para quem vai montar regras: a progressão do
+> reino imortal é uma **curva fechada e auditável**. Você pode calcular exatamente
+> quanto poder um personagem tem em qualquer ponto, e o custo desse poder está expresso
+> em número de desastres sobrevividos. É raro um cenário de ficção entregar isso pronto.
 
 ## Como se ganham
 

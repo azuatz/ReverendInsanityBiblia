@@ -311,3 +311,220 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
   consistência. A tabela de "o que cortar" em `00 - Somente o Mestre.md` é um acerto raro.
 
 ---
+
+# Pasta `02 - Gu`
+
+## BLOQUEADORES (02)
+
+### B7. "Refino" nomeia duas operações completamente diferentes, e a nota não as separa
+
+- **Arquivo:** `02 - Gu/Refino de Gu.md` (e o eco em `Visão Geral dos Gu.md`, regra 3 e 10)
+- **Trechos, todos na mesma nota:**
+  - definição de abertura: "refinar um Gu é **substituir a vontade interna do bicho pela
+    sua**" — uma guerra de atrito contra um bicho que já existe; "um refino comum leva horas";
+    "refinar um Gu banal de nível 1 consome entre **cinco e dezesseis pedras**".
+  - e, adiante, na mesma nota: "um refino registrado tinha **mais de dez mil passos**";
+    "**uma receita perfeita** é aquela que reduz o número de etapas cruciais ao mínimo";
+    "cada tentativa consome um **conjunto completo de materiais imortais**"; "um único Gu de
+    nível 5 pode levar **onze anos** para ser refinado"; "taxa de sucesso do nível 5:
+    **abaixo de 1 em 1.000**".
+- **Tipo:** jargão não desambiguado + furo lógico — o problema mais grave da pasta.
+- **O problema:** essas duas coisas não podem ser a mesma operação. Domar um bicho capturado
+  não tem receita, não tem materiais, não tem dez mil passos e não custa onze anos. Fabricar
+  um Gu a partir de materiais não é uma "guerra de vontades" com um bicho que ainda não
+  existe. A nota escorrega de uma para a outra sem aviso, e o leitor leigo só percebe quando
+  as contas param de fazer sentido. Pior: `Fusão de Gu.md` diz que fundir é "o principal
+  caminho de evolução **e de fabricação** do mundo", enquanto `Refino de Gu.md` descreve um
+  segundo processo de fabricação, com receita e materiais, sem nunca dizer como os dois se
+  relacionam. Eu tenho **três** verbos (refinar, fundir, fabricar-por-receita) e **duas**
+  descrições, e não sei qual mecânica de crafting estou desenhando.
+- **Correção:** dividir explicitamente, de preferência em duas seções nomeadas dentro da
+  nota (ou duas notas): **(A) Subjugação** — dominar um Gu que já existe: custo em pedras,
+  horas, contra-ataque, atalho de aura superior. **(B) Fabricação por receita** — produzir um
+  Gu novo a partir de materiais: etapas cruciais/de processamento, taxas, marcas do sucesso,
+  regra de unicidade. E uma frase no topo dizendo que o mundo usa a mesma palavra para as
+  duas, que é justamente a informação que me faltou.
+
+### B8. As taxas de sucesso não formam uma curva: elas se invertem entre notas
+
+- **Arquivos:** `02 - Gu/Refino de Gu.md`, `02 - Gu/Fusão de Gu.md`, `02 - Gu/Gu Imortais.md`
+- **Trechos:**
+  - `Refino`: mortais — "nível 5: **abaixo de 1 em 1.000**" (isto é, < 0,1%); imortais —
+    "6: **menos de 1%** · 7: ~0,1% · 8: ~0,01%".
+  - `Fusão`: "1 a 3: fácil · **4 a 5: abaixo de 10%** · 6 (Gu Imortal): **cerca de 1%**".
+- **Tipo:** furo numérico entre notas.
+- **O problema:** (a) produzir um Gu de **nível 5** aparece como `<0,1%` numa nota e
+  `<10%` na outra — duas ordens de grandeza de diferença para o mesmo resultado, sem que
+  nenhuma das duas mencione a outra; (b) juntando as tabelas, um Gu **mortal** de nível 5
+  (<0,1%) seria **dez vezes mais difícil** que um Gu **Imortal** de nível 6 (<1%), o que
+  contradiz frontalmente a tese das duas notas de que o nível 6 é uma mudança de categoria;
+  (c) "abaixo de 10%" é um limite superior inútil para calibrar — 9% e 0,01% cabem os dois.
+- **Correção:** uma única tabela consolidada, provavelmente em `Refino de Gu.md`, com uma
+  linha por nível (1 a 8), uma coluna por operação (subjugar / fundir / fabricar) e valores
+  centrais em vez de tetos. Onde só houver teto, escrever "entre X e Y". Sem isso não consigo
+  precificar nada: a taxa de sucesso é o parâmetro que define a economia inteira do mundo, e
+  a própria nota diz isso ("Este é o número que define a economia inteira do mundo").
+
+### B9. Não existe economia de ação: os limites de multitarefa se contradizem em três notas
+
+- **Arquivos:** `01 - Cultivo/Visão Geral do Cultivo.md` (regra 7), `02 - Gu/Refino de Gu.md`,
+  `02 - Gu/Killer Moves.md`, `02 - Gu/Fusão de Gu.md`
+- **Trechos:**
+  - regra 7: "Controlar **dois** Gu ao mesmo tempo já é destaque; **três** é o teto da elite;
+    quatro é excepcional; cinco só com constituições extremas."
+  - `Refino`: "Refinar **dois** Gu simultaneamente já destaca alguém; três é raro; quatro é o
+    teto excepcional."
+  - `Killer Moves`: "A escala típica de um golpe mortal é de cerca de **três Gu**. Mas
+    existem golpes com **catorze** Gu, e um documentado com cerca de **quarenta e dois**." E
+    ainda: "o limite pessoal citado é de cerca de **cinco golpes simultâneos**".
+  - `Fusão`: durante a fusão "o Mestre precisa controlar **cada Gu envolvido separadamente e
+    ao mesmo tempo**".
+- **Tipo:** furo lógico estrutural / falta de utilidade para design.
+- **O problema:** se controlar dois Gu simultaneamente já é destaque, ninguém consegue
+  acionar um golpe de quarenta e dois. Ou os golpes combinados **não** contam como
+  multitarefa (porque são coreografados como uma unidade), ou o limite de dois só vale para
+  ações independentes — mas nenhuma nota diz qual das duas. Essa é a decisão de que depende
+  a **economia de ações do combate inteiro**: quantas coisas um personagem faz por turno é
+  literalmente a primeira regra que eu preciso escrever, e o material me dá quatro números
+  incompatíveis.
+- **Correção:** um bloco `> [!warning]` em `Killer Moves.md` (com espelho na regra 7) que
+  enuncie a distinção: `N Gu articulados num golpe único = 1 tarefa` contra `N Gu com
+  comandos independentes = N tarefas`, e diga onde o limite de 2–5 se aplica. Se a obra não
+  resolve, marcar como reconstrução e escolher — mas escolher.
+
+## SÉRIOS (02)
+
+### S9. Quantos Gu um Mestre carrega: três números diferentes, e o argumento de design usa o errado
+
+- **Arquivos:** `02 - Gu/Visão Geral dos Gu.md` (regra 6), `02 - Gu/O que é um Gu.md`,
+  `02 - Gu/Usar e Alimentar Gu.md`
+- **Trechos:** "Um Mestre médio sustenta **quatro ou cinco** Gu do próprio nível" (repetido
+  nas duas primeiras notas) contra a tabela da terceira: "Mestre comum de nível baixo:
+  **2 a 3** · nível 4 a 5: 4 a 5 · veterano de nível 5: até cerca de 7".
+- **Tipo:** furo numérico + conclusão de design construída sobre ele.
+- **O problema:** "Mestre médio" e "Mestre comum de nível baixo" descrevem a mesma pessoa e
+  recebem números diferentes. E a inferência mais citada do domínio — "o teto é de quatro ou
+  cinco slots e as funções necessárias são seis, então a matemática não fecha e Mestres Gu
+  operam em grupos" — usa 4–5 quando o personagem inicial típico tem **2 a 3**. Com o número
+  certo, o argumento fica ainda mais forte (2–3 slots contra 6 funções), mas o tamanho do
+  grupo que ele implica muda completamente: 2 pessoas contra 5.
+- **Correção:** adotar a tabela por perfil como fonte única, corrigir as duas ocorrências de
+  "quatro ou cinco" para "2 a 3 no início da carreira, 4 a 5 no auge mortal" e refazer o
+  argumento das seis funções com os números por faixa. Isso me dá diretamente o tamanho
+  recomendado de grupo por nível de campanha, que é ouro puro.
+
+### S10. "Formação" é um conceito central e nunca é definido
+
+- **Arquivos:** `02 - Gu/Killer Moves.md` (dezenas de ocorrências), `02 - Gu/Gu Imortais.md`,
+  `02 - Gu/Refino de Gu.md`
+- **Trechos:** "formação de Gu", "formação de batalha antiga", "formações imortais",
+  "montado como uma **formação** dedicada", "criar uma **formação** grande e complexa
+  (milhões de Gu comuns e vinte Gu Imortais)", e na tabela da escala: "Formação de batalha
+  antiga / formação de Gu / casa de Gu | territorial".
+- **Tipo:** jargão nunca definido.
+- **O problema:** eu não sei o que é uma formação. É um golpe grande? Uma construção física?
+  Um arranjo permanente no terreno? A tabela de escala junta três coisas de nomes diferentes
+  numa linha só, como se fossem sinônimos, e uma delas (casa de Gu) tem definição própria em
+  outra seção — o que sugere que as outras duas **não** são sinônimos. É provavelmente o
+  segundo sistema mais importante da pasta (é o que produz território defendido, e o que
+  aparece em quase todo conflito de grande escala) e não tem uma linha de definição.
+- **Correção:** uma subseção "Formações" em `Killer Moves.md` com três frases: o que é, como
+  difere de um killer move e de uma casa de Gu, e quem consegue montar uma. E desmembrar a
+  linha da tabela de escala em três linhas com escopos distintos.
+
+### S11. A regra "só se usa Gu do próprio rank" tem exceções espalhadas por cinco notas
+
+- **Arquivos:** `01 - Cultivo/Ranks e Avanço.md`, `01 - Cultivo/Abertura.md`,
+  `02 - Gu/O que é um Gu.md`, `02 - Gu/Gu Vital.md`, `02 - Gu/Refino de Gu.md`
+- **Trechos:** a regra dura ("forçar um Gu acima do próprio rank destrói a abertura") contra:
+  o Gu de rank 5 movido a medula óssea; os Gu que exigem **estado mental** e não recurso; o
+  caso do Gu Vital de nível 6 carregado por um cultivador de **nível 1**; os Gu Imortais do
+  "estilo do isolamento humano" que "foram **desenhados para serem usáveis por mortais**"; e
+  o Gu de nível 6 que se camufla de uma inspeção de nível 4 na abertura de um rank 1.
+- **Tipo:** confusão estrutural — a regra e suas exceções nunca aparecem juntas.
+- **O problema:** a regra que mais estrutura o poder do sistema tem pelo menos cinco furos
+  documentados, cada um numa nota diferente, e nenhuma nota os lista. Ao ler `Ranks e
+  Avanço.md` eu escrevi "trava rígida de rank" na minha planilha; três notas depois descobri
+  que a trava é porosa e que **a porosidade é onde estão os personagens interessantes**.
+- **Correção:** uma seção "As exceções à trava de rank" em `Ranks e Avanço.md` listando as
+  cinco, cada uma com a mecânica que a permite (trocar o combustível · requisito de
+  convicção · vínculo de Gu Vital · Gu projetado para mortais · Gu adormecido/debilitado).
+  Cinco linhas resolvem, e viram cinco arquétipos jogáveis.
+
+### S12. Jargão introduzido sem definição dentro de `02`
+
+- **`Refino de Gu.md`:** "as **marcas do sucesso**: marcas gravadas no corpo que, consumidas
+  num refino, eliminam a probabilidade natural de falha" — de onde vêm? Como se ganha uma?
+  São dao marks? São únicas por pessoa? A nota diz que são intransferíveis e que cobrem até o
+  nível 6, e nada mais. É o item mais valioso da profissão e não tem origem.
+- **`Gu Imortais.md`:** "refazer um Gu Imortal destruído a partir da **insígnia deixada no
+  refino original**" — "insígnia" aparece uma única vez em todo o material.
+- **`Killer Moves.md`:** "**quase-campo de batalha**" entra direto na tabela de escala sem
+  definição, e "**dedução passiva**" (em "observadores com dedução passiva") idem.
+- **Correção:** meia linha de definição em cada primeira aparição, no padrão que o resto do
+  material já usa (`==termo (original em inglês)== = definição`).
+
+### S13. `Killer Moves.md` — a nota mais longa da base e a mais difícil de usar
+
+- **Arquivo:** `02 - Gu/Killer Moves.md` (~3.500 palavras, a maior das 45 notas revisadas)
+- **Tipo:** densidade excessiva / confusão estrutural.
+- **O problema:** o conteúdo é excelente, mas a nota empilha nove sistemas distintos —
+  categorias por operador, por efeito, por relação com os Gu, totens, escala, criação,
+  melhoria, backlash, condensação — cada um com regras próprias, e o leitor só descobre
+  quantos são ao chegar ao fim. Não há mapa no começo. A seção de totens sozinha (com
+  hierarquia de três graus, procedimento de aquisição, dois modos de uso e uma tabela de
+  vantagens) é uma nota inteira disfarçada de subseção, e ela trata de um sistema que **não
+  usa Gu** — ou seja, é a única forma de poder do mundo que foge da premissa da pasta.
+- **Correção:** (a) uma lista de cinco linhas no topo dizendo o que a nota cobre; (b)
+  promover **Golpes Totêmicos** a nota própria — é matéria de arquétipo (o guerreiro que
+  grava poder no corpo, sem bocas para alimentar) e hoje está enterrada; (c) mover
+  "Condensação" e "A unificação final" para o fim como apêndice teórico, já que são
+  `segredo` e não afetam a mesa no dia a dia.
+
+## MENORES (02)
+
+- **M10 · `Visão Geral dos Gu.md` · promessa quebrada.** A nota-porta diz "um único exemplar
+  no mundo inteiro para cada tipo" na lista de tópicos, mas a nota de destino esclarece que
+  isso vale só dos níveis 6 a 8 e que **variantes** contam como Gu distintos. A ressalva
+  (que é a válvula que impede o sistema de travar) deveria estar já na porta.
+- **M11 · Marcadores `conhecimento:` no meio do corpo.** Várias notas de `02` usam uma linha
+  solta `conhecimento: especializado` / `segredo` para marcar seções. É um recurso ótimo —
+  mas o `00 - LEIA-ME` só documenta o campo do **cabeçalho** e os três tipos de destaque.
+  Acrescentar um parágrafo lá ("seções internas podem ter marcação própria, que prevalece
+  sobre a da nota") evita que eu distribua a nota inteira por engano.
+- **M12 · `Fusão de Gu.md` · tabela sem âncora.** "Engenharia reversa: mestre · deduzir
+  receita nova: grão-mestre · criar série nova: quase-grande-grão-mestre" não linka para
+  `[[Attainment]]`, onde esses níveis são definidos. É a única tabela do material que usa a
+  escala de attainment sem apontar para ela.
+- **M13 · `Usar e Alimentar Gu.md` · a melhor tabela da base merece um total.** A tabela de
+  dietas é excelente, mas para orçar uma campanha eu preciso de **custo por mês em pedras
+  primevas** por nível de Gu — que existe disperso no caso mecânico ("um Gu comum de nível 2
+  custa cerca de uma a duas pedras por dia"). Promover isso a uma coluna ou a uma tabela de
+  custo mensal por nível 1–5 tornaria a nota diretamente jogável.
+- **M14 · `Gu Vital.md` · uma pergunta óbvia sem resposta.** A nota diz que o Gu Vital é
+  escolhido na adolescência com "um Gu barato que o clã pôde pagar" e que trocar depois é uma
+  cirurgia com risco de morte — mas nunca diz **quando** a consagração acontece nem se é
+  automática (o primeiro que você refina) ou deliberada. `Visão Geral dos Gu.md` diz "o
+  primeiro Gu que você refina vira seu Gu Vital"; a própria nota diz que a definição
+  precisa **não** é essa. Uma frase resolvendo isso é obrigatória: é uma escolha de criação
+  de personagem.
+
+## O QUE NÃO PRECISA MEXER (02)
+
+- **E6 · `Gu Imortais.md` é a melhor nota do material inteiro.** A regra de unicidade, a
+  trava de autodestruição e a conclusão de que "roubar destrói o item, logo negociar vira a
+  via dominante" formam um argumento causal completo que eu poderia levar direto para o
+  documento de design. O bloco "Para o design" acerta o ponto certo (unicidade global =
+  geopolítica de objetos, não corrida de estatísticas).
+- **E7 · A tabela de backlash por progresso de ativação** (`Killer Moves.md`: leve / médio /
+  grave / fatal conforme o lampejo em que o golpe é interrompido) é a melhor mecânica pronta
+  de toda a base. Vai para o jogo praticamente sem tradução.
+- **E8 · O quadro comparativo killer move × casa de Gu Imortal** é exemplar: seis linhas,
+  eixos opostos, decisão de build imediata. É o modelo que as outras notas deveriam seguir
+  quando comparam duas coisas.
+- **E9 · `Gu Vital.md`** é curta, completa e honesta — inclusive registra a contradição que a
+  obra deixa em aberto (a abertura imortal sem Gu Vital) em vez de escondê-la.
+- **E10 · O bloco "Para o design" de `Usar e Alimentar Gu.md`** ("um cerco derrota um mago
+  não por dano, mas por fome dos bichos dele") é o melhor insight de campanha da base.
+
+---

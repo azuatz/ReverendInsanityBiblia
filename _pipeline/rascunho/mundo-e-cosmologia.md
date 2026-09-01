@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Mundo e cosmologia
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> Domínio: geografia (5 regiões), cosmologia (Rio do Tempo, nove céus, great dao, eras históricas), mitologia de Ren Zu, fauna/marés de bestas, locais notáveis. O V3 traz as primeiras menções concretas de **Heavenly Court** e **Fate Gu**, a linha do tempo formal das eras, a hierarquia completa de bestas e Northern Plains em detalhe.
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> Domínio: geografia (5 regiões), cosmologia (Rio do Tempo, nove céus, great dao, eras históricas), mitologia de Ren Zu, fauna/marés de bestas, locais notáveis. O V3 trouxe as primeiras menções concretas de **Heavenly Court** e **Fate Gu**; o **V4 abre o dossiê completo**: Fate Gu/Heaven Overseeing Tower como mecanismo do mundo, **heaven's will como antagonista ativo**, a categoria formal dos **fate escapees**, os otherworldly demons em detalhe, as regional walls nomeadas, os nove céus (White/Black Heaven por dentro) e o rio do tempo como domínio navegável — incluindo a anomalia temporal do "rosto fantasma + lótus vermelha" (regressão de ~1 ano, cap. 969-970).
 
 ## Resumo do domínio
 
@@ -159,12 +159,75 @@ Lendas contadas dentro da obra (por anciãos, mercadores) — funcionam como fon
 - Por liderança de grupo: **hundred beast king (Gu r2) → thousand (r3) → myriad (r4) → beast emperor (Gu r5, força de rank 5, comanda myriad kings)** (caps. 409, 491).
 - Regras: rei subjugado transfere ~1/3 do grupo (cap. 549); myriad king invasor suprime beast kings inferiores do grupo rival (cap. 495); grupos mistos não somam linearmente (cap. 540).
 
+---
+
+> fontes desta seção: ["cap. 650-733", "cap. 734-780", "cap. 810-830", "cap. 843-848", "cap. 860-901", "cap. 902-981", "cap. 982-1021"]
+
+## Atualizações do Volume 4 (caps. 650–1021)
+
+### Fate Gu, Heaven Overseeing Tower e os fate escapees (dossiê central do V4)
+
+`[segredo]` — pouquíssimos no mundo conhecem qualquer parte disto:
+
+- **Fate Immortal Gu (rank 9)**: forma de aranha preto-e-branca; impõe a todo ser vivo um "caminho de vida fixo". **Red Lotus Demon Venerable o feriu deliberadamente no rio do tempo** ("quebrou as correntes do destino") — desde então seres podem escapar do julgamento do destino; zumbis (alma que não deixa o corpo) são a consequência mais visível (caps. 722, 780, 1015). Há >1 milhão de anos gerações da Heavenly Court o reparam a duras penas na **Heaven Overseeing Tower** (Immortal Gu House rank 9, criada por Star Constellation, >3 milhões de anos) (caps. 780, 948).
+- **Reparo**: Gu formation de refinement path (mímica do Refinement Cauldron) operada por 4 rank 8 nos pontos cardeais; consome materiais raros em massa (rock dragon eyes), os success dao marks da Infallible inheritance (30/ciclo do Refinement Path Convention — o motivo oculto de o evento existir e aceitar qualquer participante) e, como material mais importante, **a própria heaven's will** ("atrair a vontade do céu" — ~300 dias de exposição contínua que já matou vários rank 8) (caps. 843-848, 871, 886, 948).
+- **Fate a 50% de força** (pós-reparo, cap. 948): o mundo "se ajusta sozinho" — quem se desviou do caminho original começa a ser empurrado de volta. A Torre então enxerga mais **fate escapees**; eliminá-los repara mais o Fate Gu, que enxerga mais — "ciclo virtuoso" declarado da Heavenly Court (cap. 956).
+- **Fate escapee — definição textual** (caps. 958, 1019): ser que a heaven's will não consegue prever/controlar por completo. Vias documentadas: (a) otherworldly demons (transmigrados) — e no caso de Fang Yuan é especificamente a POSSE do Spring Autumn Cicada (regressão temporal) que o faz "escapar do destino" (cap. 1017); (b) **contágio por associação**: aliados próximos e prolongados de um otherworldly demon viram fate escapees mesmo sem serem transmigrados (Hei Lou Lan, Tai Bai Yun Sheng — cap. 1019); (c) zumbis imortais em geral (existência fora do julgamento, cap. 780). Efeito prático do status: imunidade parcial a mecanismos da heaven's will (a grand tribulation "Earth Collapse" simplesmente não os afetou, cap. 1019). O CRITÉRIO exato/limite do contágio segue aberto.
+- **Limites da varredura da Torre**: só mostra os escapees mais FORTES, descobertos, que não estejam dentro de blessed lands/grotto-heavens (mundos pequenos isolam contra dedução) e sem ocultação de wisdom path (caps. 780, 986-987); a jurisdição prática é regional (não age livre fora de Central Continent, cap. 848); custo por degrau da escadaria = 1 conta de essência r8, dobrável sob interferência hostil (que pode até "olhar de volta", cap. 966).
+- **Heaven's will como agente**: não é força passiva — reage proporcionalmente à ameaça (escala tribulações até myriad, cap. 1011), intensifica-se com transgressões REPETIDAS da mesma categoria (2ª tentativa >10×, rastreia a categoria e não só o indivíduo, caps. 1016-1017), sabota ativamente planos que causaram grande comoção (percepção explícita dos próprios vilões, cap. 980) e pode **possuir um corpo sem alma** (com vontade/emoção residual) para caçar fate escapees pessoalmente (o cadáver de Bo Qing, caps. 956-960-962; a possessão é reversível despertando um resíduo de vontade mais antigo/legítimo no corpo, cap. 962).
+- Contramedida absoluta conhecida: **Divine Concealment** (heaven's will não sonda o portador → sem tribulações; ver paths.md/theft, cap. 949). A **Shadow Sect** declara que seu "verdadeiro inimigo" é o próprio CÉU — plano de 100 mil anos usando fate escapees como peões (cap. 958; ver sociedade-e-organizacoes.md).
+
+### Otherworldly demons (expansão do V3)
+
+`[segredo]`: seres de origem externa às cinco regiões e aos nove céus (transmigrados). Categoria reconhecida e VERIFICÁVEL mecanicamente (heranças de Thieving Heaven só se abrem a eles; ventos de assimilação não os tocam quando "aceitos", caps. 949-951, 992). **Thieving Heaven Demon Venerable era um** — nome real Ben Jie Sun, "viajante que quer voltar para casa", ex-operador de "mecha" no mundo de origem; classificado como "MEIO otherworldly demon" (alma de fora, corpo nascido aqui, via soul replacement) vs. o tipo COMPLETO (alma e origem inteiras de fora) (caps. 991, 1015). Três fontes independentes o afirmam "a melhor ferramenta contra heaven's will" (caps. 1004, 1017, 1019). O **Sovereign Immortal Fetus Gu** (r9, obra final de Spectral Soul) FABRICA artificialmente um corpo com esse status (cap. 1018-1021; ficha no catálogo; corpo em transformacoes-e-corpos-especiais.md). Star Constellation teria arquitetado um esquema que DEPENDE de um otherworldly demon completo futuro ("só ele pode destruir o destino por completo", cap. 1015). Spirit Affinity House identifica e recruta transmigrados ativamente (Zhao Lian Yun, cap. 949).
+
+### Rio do tempo — mecânica expandida e a anomalia da regressão curta
+
+`[segredo]`:
+
+- O rio do tempo é um **domínio recluso de céu-e-terra** (mesma categoria de Dang Hun mountain/Luo Po valley): nele vivem e se propagam incontáveis Gu de time path; conecta início e fim, causa e efeito; certos desolate beasts nadam fisicamente nele (one finger flow shark, immemorial, com 3 Immortal Gu r8 de tempo no corpo) (caps. 920, 970). A herança de Red Lotus está DENTRO do rio (pré-requisito: possuir o Spring Autumn Cicada; método: autodetonar-se levando a vontade ao rio e navegar até uma "stone lotus island" — navegar exige métodos de time path que o Cicada sozinho não dá) (cap. 830).
+- **Mecânica do rio do tempo — a regressão anômala de ~1 ano** (caps. 969-970; tratar como regra do rio, sem enredo): uma ativação do Spring Autumn Cicada pode FALHAR (o Gu se autodetona ao entrar no rio; a vontade fica à deriva, condenada a dissolver-se = morte definitiva). No caso documentado, uma entidade do próprio rio interveio — um "rosto fantasma" emergiu e vomitou uma **lótus vermelha** cujo raio reverteu o tempo LOCALMENTE no ponto da falha ("filme voltando"), reconstituindo o Gu estilhaçado e a vontade, que prosseguiu a viagem. Resultado: regressão de pouco mais de **1 ano** — ordens de magnitude menor que as "várias centenas de anos" esperadas pela fundação do usuário. Regra derivada: um resgate externo de ativação falhada produz salto curto e incontrolado, qualitativamente distinto do salto pleno. A imagem da lótus vermelha aponta para Red Lotus Demon Venerable (ou um resíduo dele) habitando/influenciando o rio — NÃO confirmado; motivo da intervenção desconhecido.
+- Immortal Gu de investigação de time path projetam cenas do passado no presente a partir do rio (centenas de contas de essência; criam "zona proibida para imortais" que se expande, caps. 958-959).
+
+### Nove céus imemoriais — por dentro (V4)
+
+- Na Immemorial Antiquity, os nove céus se REVEZAVAM sobre as cinco regiões em intervalos fixos, e céu e terra eram CONTÍNUOS (dava para caminhar entre eles) (cap. 722). Hoje: **black heaven** (escuridão total, cheio de vida — walking meat trees, dream realms; explorável por rank 8) e **white heaven** (palco convencionado das batalhas de rank 8; contém recursos como true heaven silver; o cloud phoenix é nativo) (caps. 722, 755, 813, 936).
+- **Heavenly wind qi wall / astral qi**: muralha de qi celestial que envolve os nove céus — só imortais muito fortes a rasgam; a exceção geográfica é a **Ascending Heaven Plain** (Eastern Sea): entrada direta aberta até a mortais; saturada de dao marks instáveis de space path; contém a herança de Old Eccentric Tian Nan (que morreu tentando refinar os próprios nove céus); disputada há um século por três super clãs (caps. 751-752, 861, 932, 985-986).
+- **Fragment worlds**: pedaços sobreviventes dos sete céus caídos — mundos isolados (green heaven fragment = lar da Sacred Feather City; yellow heaven fragments = única fonte de concealing heaven dust; purple heaven fragments com poisonous flowers); rank 8 podem fundi-los a grotto-heavens (ver cultivo-imortal.md); frágeis a visitantes de dao marks densos (caps. 740, 776, 864, 871).
+- **Falling Heavenly River** (Central Continent): rio celeste nascido (teoria corrente) quando a sword light da tribulação de Bo Qing perfurou white e black heaven; correnteza diurna resiste até a rank 8, noturna a rank 7; leito com bestas de nível rank 8 (caps. 955-957).
+
+### Porta da vida e da morte / Obsession Death Domain (expansão)
+
+`[segredo]`: TODA alma, inclusive de rank 9, retorna à porta após a morte (precedente: "Verdant Great Sun", cap. 1010). O caminho da morte tem TRÊS obstáculos: **Dang Hun mountain, Luo Po valley e Reverse Flow River** — que regulam o retorno de almas ao mundo dos vivos. Dois dos três já foram REMOVIDOS do caminho (capturados/anexados por cultivadores); o Reverse Flow River segue filtrando parcialmente (7 de 10 split souls passaram) — remoção dos obstáculos é a explicação provável de como uma alma suprema (Spectral Soul) quase rompeu a porta para ressuscitar (caps. 1010, 1016, 1021). No domínio residem o **Fairness Gu** e almas adormecidas (a de Verdant Great Sun, esfera dourada, cap. 1010). A "água que apazigua almas" do Bewitching Lake fica no Obsession Death Domain (cap. 672).
+
+### Regional walls (consolidação V4)
+
+- Cada região tem sua muralha NOMEADA: **saint regional wall** (Central Continent), **licorice** (Northern Plains), **blue water** (Eastern Sea) (caps. 710, 928). Dificuldade de travessia cresce brutalmente com o rank ("inumeráveis vezes" pior para r8; travessias matam rank 7; um rank 4 cruzava em ~5 min) (caps. 673, 710, 928); a muralha se regenera ativamente atrás do viajante (cap. 710); a muralha de destino ATRAI nativos retornando e a de origem rejeita quem sai (cap. 928). **Earth tide** (Eastern Sea): fenômeno anual (ou artificial, via Gu formation da Zombie Alliance) que afina a muralha temporariamente; rotas mapeadas pelas forças de maré valem caro e expiram (caps. 819, 928). Fixed Immortal Travel ignora tudo isso (cap. 673). É por isso que a Heavenly Court não age livremente fora de Central Continent (cap. 780).
+- Ranking de abertura a estrangeiros: Southern Border (menos receptiva) < Central Continent < Eastern Sea (mais aberta) (cap. 965). Intervir abertamente em disputa formal de outra região provoca retaliação coletiva regional (cap. 965).
+
+### Secluded domains de céu-e-terra (categoria formal)
+
+`[especializado]`: terrenos saturados de dao marks de UM path — Dang Hun mountain e Luo Po valley (soul; "os dois tesouros do cultivo de soul path"), Miniscule Mountain (registrada nas Legends of Ren Zu), Ascending Heaven Plain (space), o rio do tempo (time). Podem ser fisicamente ERGUIDOS e guardados dentro de uma immortal aperture, servindo de reserva extra de dao marks/fundação (Fairy Li Shan amplifica killer moves com a Miniscule Mountain; anexar Luo Po + Dang Hun acelera "soul foundation") (caps. 942, 953, 986-990).
+
+### Lendas de Ren Zu — capítulos novos (V4)
+
+`[comum]` a circulação; `[segredo]` a literalidade: o Self Gu MORDEU a filha de Ren Zu (Boundless Forest Samsara) e o empurrou para fora do ordinary abyss contra a vontade dele — "foi o self Gu que causou o problema" é historicamente preciso (cap. 807; fecha dúvida antiga); o Self Gu devora Gu/fracassos e absorve seus poderes permanentemente ("todo fracasso tem valor") — base mítica dos success dao marks (caps. 845, 870); feathermen que morrem sem ceder a liberdade liberam **Wild Freedom Gu** incapturáveis (cap. 870); dream realms famintos entraram no Derivation Gu na criação dos mortais — por isso todo mortal sonha (cap. 730); o líder mítico dos hairy men criou o princípio "sucesso via fracassos" (cap. 845); a Thousand Wish Tree (árvore-dos-desejos do Western Desert: 1.000 frutos, um Gu por pedido bem-sucedido) (cap. 673).
+
+### Eras, raças e história profunda (V4)
+
+- Eras de Central Continent (reforma de Primordial Origin): Remote Antiquity (seitas raras) → Olden (clãs > seitas) → Medieval (equilíbrio em conflito) → Late (clãs enfraquecem) → presente (seitas dominam) (cap. 704). Nas eras Immemorial/Remote, **variant humans dominavam o mundo** (rock dragons como bestas de guerra); Primordial Origin e Star Constellation lideraram a virada humana; os **beastmen** (variante homem-fera, antropófaga) foram exterminados na Olden Antiquity por três Demon Venerables (caps. 871, 912). `[segredo]` A Heavenly Court **exclui categoricamente variant humans** — Long Hair Ancestor nunca foi aceito por ser hairy man (cap. 879, 871).
+- Fauna nova: escala reconfirmada wild → hundred/thousand/myriad beast king → beast emperor → desolate (≈r6) → ancient desolate (≈r7) → immemorial desolate beast (≈r8) (caps. 701, 920); desolate beasts quase não usam killer moves (o diferencial dos imortais) mas carregam wild Gu imprevisíveis e counters inatos (caps. 701, 714-715); habilidades derivam de dao marks específicos no corpo (matar de vez = destruir os marks, cap. 994); phantom beasts alternam intangível/sólido (cap. 785); "submissão" de uma besta é barra mental separada do dano (cap. 797); **Earth Trench existe nas 5 regiões** (fendas de milhões de li, riquíssimas e inexploradas no fundo; gravity soil zones; "sea of immortal material remains" — campo-armadilha de areia púrpura que dissolve tudo abaixo de densidade r8 de dao marks) (caps. 931-935).
+
 ## Lacunas do domínio
 
-- ~~Heaven's Will, Fate Gu, Heavenly Court: nada direto~~ PARCIAL no V3: Heavenly Court descrita (caps. 466-468), Fate Gu citado historicamente (cap. 546); Heaven's Will (conceito cosmológico) segue sem aparição direta. Relação Immortal Court × Heavenly Court a esclarecer.
-- ~~Northern Plains sem detalhe~~ ✅ RESPONDIDO no V3 (volume inteiro se passa lá). Western Desert segue sem detalhe.
-- Critério da distância do salto temporal do Spring Autumn Cicada; cooldown ligado ao fluxo de tempo PESSOAL do usuário (acelerável por third watch Gu ao custo proporcional de lifespan, caps. 449, 453) — multiplicador exato ainda desconhecido.
+- ~~Heaven's Will, Fate Gu, Heavenly Court: nada direto~~ ✅ RESPONDIDO no V4 (dossiê completo acima): Fate Gu como mecanismo do mundo, heaven's will como agente ativo, fate escapees nomeados e demonstrados (caps. 948, 956-960, 1019). Relação Immortal Court × Heavenly Court ainda a esclarecer.
+- ~~Northern Plains sem detalhe~~ ✅ RESPONDIDO no V3. ~~Western Desert / Eastern Sea sem detalhe~~ PARCIAL no V4 (oásis/clãs Xiao-Tian/dunas; sea areas, earth tide, Ascending Heaven Plain).
+- Critério da distância do salto temporal do Spring Autumn Cicada — V4 acrescenta: falha "resgatada" externamente produz salto curto e incontrolado (~1 ano vs. séculos esperados, cap. 970); a fórmula da distância de um salto pleno segue desconhecida.
+- **Identidade do "rosto fantasma"/lótus vermelha no rio do tempo** (cap. 970): Red Lotus, um resíduo dele, ou outra entidade? Motivo da intervenção? — em aberto, alta prioridade.
+- **Critério EXATO de fate escapee** (o que qualifica; limites do contágio por associação; se o "puxão" do Fate reparado alcança quem já morreu no destino original) — em aberto, prioridade.
 - Confirmação de que a lista das dez physiques segue nominalmente os dez filhos de Ren Zu.
-- Localização da Shadow Sect blessed land / Door of Life and Death física.
-- Se "Space Door" (do Space Escape Gu) e "Door of Life and Death" são locais distintos (aparentam ser; cap. 461 × caps. 410-411).
-- As outras ~8 "Top Ten Catastrophes" (ver cultivo-imortal.md).
+- ~~Localização da Shadow Sect blessed land / Door of Life and Death física~~ PARCIAL V4: Luo Po valley/Life and Death blessed land como sede; a porta em si segue sem localização plena.
+- Se "Space Door" (do Space Escape Gu) e "Door of Life and Death" são locais distintos (aparentam ser); a obsessão de Long Hair Ancestor liga o space escape Gu a um "Great Dream Immortal Venerable" (cap. 879) — relação a esclarecer.
+- Top Ten Catastrophes: ~5 nomeadas (ver cultivo-imortal.md).
+- (novo V4) Quem detém (se alguém) o Reverse Flow River; se "Verdant Great Sun" da porta é a mesma figura mítica do filho de Ren Zu (provável) e o que sua alma adormecida implica.
+- (novo V4) Se todo dream realm nasce de vítimas presas em outros dream realms (ciclo) ou também de sonhos comuns de vivos (caps. 722, 730).

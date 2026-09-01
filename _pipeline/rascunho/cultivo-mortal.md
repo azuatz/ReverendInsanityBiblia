@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Cultivo mortal (aperture, aptidão, essência, ranks 1–5)
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção.
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> Domínio: aperture, graus de aptidão, essência primeva, ranks/estágios, avanço, cerimônia de despertar; a partir do V3, também a **fundação da alma** (eixo paralelo de progressão) e a **supressão regional** entre as cinco regiões. Fontes de capítulo detalhadas nos frontmatters originais foram preservadas por seção. NOTA V4: os 372 capítulos do Volume 4 se passam quase inteiramente no reino imortal — **nenhum novo limiar percentual de aptidão para ruptura de rank apareceu** (a prioridade de LACUNAS.md segue aberta); as novidades mortais estão na seção V4 ao final.
 
 ## Resumo do domínio
 
@@ -479,4 +479,18 @@ Rank 3 é o momento de escolher especialização entre as seis direções funcio
 
 - Nasce em rank 1 no centro do peito e progride de rank independentemente (caps. 490, 493); aceita segundo Gu vital (caps. 493-494); não guarda Immortal Gu enquanto for de rank mortal baixo (cap. 494).
 - **Essência primeva é única por pessoa** (como digital): transferência direta entre pessoas sem Gu conversor explode a abertura; entre duas aberturas do MESMO Mestre é segura (cap. 504) — base do atalho de breakthrough forçado (essência da abertura forte contra a parede da fraca, cap. 504).
+
+---
+
+> fontes desta seção: ["cap. 650-733", "cap. 810", "cap. 822-829", "cap. 902-941", "cap. 956", "cap. 963-965", "cap. 998"]
+
+## Atualizações do Volume 4 (caps. 650–1021)
+
+- **Limiar % de aptidão para romper ranks: NENHUM dado novo em todo o Volume 4** (varredura explícita bloco a bloco, caps. 650-1021) — a prioridade de LACUNAS.md segue com só o 55% (1→2). Pistas laterais (não confundir): "abertura grau A + >90% de essência" como condição para um mortal ativar 1× o Rewind Gu (métrica de PLENITUDE, cap. 679); o critério formal de avanço de rank IMORTAL é temporal/de provações (300 anos, 3 tribulações — ver cultivo-imortal.md), não percentual.
+- **Cognição/pensamentos como mecânica** (caps. 651-652): raciocinar = "pensamentos" (thoughts) colidindo e se fundindo na mente; a velocidade/quantidade depende do CORPO e da ALMA (corpo morto de zumbi produz poucos e lentos; alma em corpo de fera = mais esperta que fera, menos que humano). Base do wisdom path (ver paths.md).
+- **Fundação da alma (expansões V4)**: cultivo de alma tem TRÊS frentes com método canônico — **fortalecer** (guts Gu / Dang Hun mountain — "o método nº 1 de fortalecimento de alma do mundo", eficiência ≥10× os métodos comuns, cap. 707, 775), **refinar** (bewilderment fog + Luo Po wind do Luo Po valley — a alma sai do corpo e é ferida/purificada; curar depois com guts Gu CONDENSA a alma ao dobro, "aço forjado") e **apaziguar** (pacifying soul soup do Bewitching Lake; para vivos o SONO comum cumpre a função — só zumbis descobrem que é necessidade separada) (caps. 662, 672, 997). Qualidade de alma ∝ força + inteligência do ser de origem (cap. 996). Corpo define o teto: corpo de zumbi imortal comporta MAIS alma que um vivo, mas não a nutre (murcha sem reforço externo) (cap. 996). A integridade da alma do enslavement master sustenta TODA escravização ativa — alma ferida = escravos podem se soltar (cap. 997).
+- **Killer moves mortais** (regra-base formalizada): mínimo 2 Gu; mais Gu = mais poder e mais dificuldade de ativação; falha fere o Mestre ou os Gu; essência mortal se esgota rápido em killer moves grandes (cap. 956). Contra dedução/poder imortal, mortal killer moves colapsam — a diferença mortal×imortal é qualitativa (caps. 903-904).
+- **Rank 5 é o teto mortal comum** também em Central Continent: até líderes de seita de super força são rank 5 mortais (caps. 828, 832). Refino de Gu mortal é habilidade puramente técnica — um mortal PODE vencer um Gu Immortal em competição de refino (por isso imortais competem disfarçados no Refinement Path Convention, cap. 838).
+- **Selar a própria immortal aperture** (caso-limite, caps. 963-965): um Gu Immortal com DUAS aberturas pode selar a imortal e reverter temporariamente a Gu Master mortal — única forma de entrar em zonas que alvejam aberturas imortais. Mortal com poucos dao marks também entra em fragmentos frágeis onde imortais não podem (caps. 909, 983) — "cultivo baixo" tem valor estratégico próprio.
+- **Battle will** (cap. 963-964): combate feroz de mortais gera "vontade de batalha", recurso convertível/acumulável (disputas de posse de Immortal Gu House via peões mortais); imortais canalizam a battle will de peões sem que eles saibam.
 

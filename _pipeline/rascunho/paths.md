@@ -47,7 +47,7 @@ status: rascunho-interno
 
 ### Zumbi/cadáver (futuro Corpse Path?) — `inferido`
 
-- Linha formal de zumbificação r2→r5 e os Five Great Flying Zombies; detalhes em transformacoes-e-longevidade.md (cap. 125, 185-186, 192).
+- Linha formal de zumbificação r2→r5 e os Five Great Flying Zombies; detalhes em transformacoes-e-corpos-especiais.md (cap. 125, 185-186, 192).
 
 ### Outros aglomerados temáticos já visíveis
 

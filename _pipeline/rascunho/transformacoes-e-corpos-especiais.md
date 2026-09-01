@@ -4,25 +4,10 @@ tags:
 status: rascunho-interno
 ---
 
-# Transformações e longevidade
+# Transformações e corpos especiais
 
 > **Rascunho interno** — cobre até: Volume 1 (caps. 0–199).
-> Domínio: zumbificação, corpos especiais / Ten Extreme Physiques, lifespan e envelhecimento, formas alternativas de existência.
-
-## Lifespan e envelhecimento
-
-> fontes: ["cap. 126", "cap. 192"]
-
-- Humanos comuns vivem no máximo ~100 anos sem acidentes/doenças (cap. 126).
-- **Lifespan Gu**: aumenta o tempo de vida na quantidade do seu "grau" (Gu de 100 anos = +100 anos; de 1000 = +1000). Extremamente raros e cobiçados. Não dão invulnerabilidade — um usuário com +500 anos morreu antes do prazo em combate (cap. 126).
-- Regra explícita: o Lifespan Gu é o ÚNICO método "reconhecido pelo Céu e Terra" de aumentar lifespan pela raiz; todo o resto (zumbificação, animação suspensa) é recurso desesperado com desvantagens estruturais (cap. 192).
-- **Life-preserving Jade Burial Gu** (rank 5): animação suspensa em caixão de jade quase inquebrável, desde que reste "um fio de vida"; não cura, só atrasa a morte; o portador emerge quando quiser (cap. 192, 199).
-- Rota de fusão com Lifespan Gu: Wood Charm Gu (r3) + Lifespan Gu 100 anos = r4 Hundred-years Wood Charm; + Lifespan 1000 = r5 Thousand-years Wood Charm — rota pouco usada porque todos preferem consumir o Lifespan Gu diretamente (cap. 126).
-
----
-
-> fontes desta seção: ["cap. 125-126", "cap. 185-186", "cap. 192-193"]
-
+> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
 
 ## Zumbificação
 
@@ -34,7 +19,7 @@ status: rascunho-interno
 
 A porta de entrada é o **Roaming Zombie Gu** (Rank 2): ativado, dá ao usuário qualidades de zumbi — mais resistência a impactos, regeneração maior, resistência a água, vento e veneno, e insensibilidade à dor. Com uso prolongado, porém, o sangue do usuário diminui e a transformação se torna real e permanente; para usar o Gu com segurança é preciso combiná-lo com um Gu de reposição de sangue (Bloodline/Blood Essence Gu) que mitigue o efeito colateral — exemplo da regra geral de que Gu poderosos exigem Gu complementares para conter seus custos.
 
-Um zumbi completo pode viver indefinidamente, desde que se alimente de sangue em intervalos regulares — é a rota "dos pobres" para a longevidade, alternativa ao raríssimo Lifespan Gu.
+Um zumbi completo pode viver indefinidamente, desde que se alimente de sangue em intervalos regulares — é a rota "dos pobres" para a longevidade, alternativa ao raríssimo Lifespan Gu (ver longevidade.md).
 
 #### A escada de ranks do zumbi
 

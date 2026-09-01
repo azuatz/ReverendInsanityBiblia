@@ -1,5 +1,11 @@
 # Modelo — Estudo de caso mecânico
 
+> **Regra de estilo (usuário, 2026-09-01):** nas notas FINAIS da designer, NÃO usar
+> citações "(cap. NN)"/URLs inline no corpo, tabelas ou callouts — a prosa deve ser
+> limpa; os capítulos vão somente no campo `fontes` do frontmatter. Ignorar as
+> citações inline dos exemplos abaixo ao aplicar o modelo. (Rascunhos internos de
+> `_pipeline/rascunho/` podem e devem citar capítulos inline.)
+
 Uso: notas em `08 - Estudos de Caso Mecânicos/` (ex.: `Refino de Gu Imortal em rank
 3.md`). O caso existe para provar/ilustrar regras — nunca para contar história.
 

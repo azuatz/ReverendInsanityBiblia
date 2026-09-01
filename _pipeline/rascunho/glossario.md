@@ -17,7 +17,7 @@ status: rascunho-interno
 - **Primeval stones** — pedras primevas; moeda + recurso de cultivo. → economia-e-vida.md
 - **Awakening Ceremony** — Cerimônia do Despertar (15 anos; mede o grau, abre a abertura).
 - **Aptitude grades A/B/C/D** — graus de aptidão (A 80-99%, B 60-79%, C 40-59%; D abaixo, inferido).
-- **Ten Extreme Physiques / ten absolute aptitudes** — Dez Constituições Extremas, acima do grau A. → transformacoes-e-longevidade.md
+- **Ten Extreme Physiques / ten absolute aptitudes** — Dez Constituições Extremas, acima do grau A. → transformacoes-e-corpos-especiais.md
 - **Northern Dark Ice Soul / Ancient Moon Desolate Yin** — duas das dez constituições (gelo; lua-yin).
 - **Small realm / large realm** — pequeno reino (estágio: inicial/médio/superior/pico) / grande reino (rank).
 - **Crystal wall** — parede de cristal da abertura, quebrada no avanço de rank.

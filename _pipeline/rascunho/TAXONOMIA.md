@@ -26,7 +26,22 @@ atualize este arquivo — a taxonomia evolui junto com a leitura.
 
 ## Histórico de reorganizações
 
-- 2026-09-01 — `transformacoes-e-longevidade.md` dividido em
+- 2026-09-01 — Consolidação do Volume 1: rascunhos por assunto criados no início da
+  sessão (cultivo-abertura, cultivo-essencia-primeva, cultivo-graus-de-aptidao,
+  cultivo-ranks-e-avanco, cultivo-cerimonia-do-despertar, cultivo-zumbificacao,
+  gu-natureza, gu-refino, gu-alimentacao, gu-fusao) foram fundidos nos domínios
+  `cultivo-mortal.md`, `transformacoes-e-corpos-especiais.md`/`longevidade.md` e
+  `gu-sistema.md`.
+- 2026-09-01 — Escopo ampliado de `mundo-e-cosmologia.md`: além de
+  geografia/cosmologia/mitologia, passa a cobrir **fauna, reis de bestas e marés de
+  bestas** (fenômenos de mundo; não cabiam em sociedade nem economia).
+- 2026-09-01 — `cultivo-imortal.md` ganhou seção **Veneráveis** (domínio já previa
+  "Veneráveis como teto do sistema"); figuras lendárias (Blood Sea Ancestor, Genesis
+  Lotus) registradas lá.
+- 2026-09-01 — Ten Extreme Physiques: resumo em `cultivo-mortal.md` (seção Graus de
+  Aptidão), tratamento completo em `transformacoes-e-corpos-especiais.md`; duplicação
+  mínima intencional com apontadores.
+- 2026-09-01 — `transformacoes-e-corpos-especiais.md` dividido em
   `transformacoes-e-corpos-especiais.md` + `longevidade.md`, por correção do
   usuário: são domínios distintos; apenas a zumbificação cruza os dois (zumbis têm
   longevidade estendida), e ela vive em transformações com referência cruzada.

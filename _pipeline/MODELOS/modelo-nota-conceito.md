@@ -1,5 +1,11 @@
 # Modelo — Nota de conceito
 
+> **Regra de estilo (usuário, 2026-09-01):** nas notas FINAIS da designer, NÃO usar
+> citações "(cap. NN)"/URLs inline no corpo, tabelas ou callouts — a prosa deve ser
+> limpa; os capítulos vão somente no campo `fontes` do frontmatter. Ignorar as
+> citações inline dos exemplos abaixo ao aplicar o modelo. (Rascunhos internos de
+> `_pipeline/rascunho/` podem e devem citar capítulos inline.)
+
 Uso: qualquer conceito do mundo/sistema (ex.: `Abertura.md`, `Essência Primeva.md`,
 `Refino de Gu.md`, `Blessed Land.md`). Copiar a estrutura, não o texto.
 

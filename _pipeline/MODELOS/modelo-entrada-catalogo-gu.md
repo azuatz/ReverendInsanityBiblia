@@ -1,5 +1,11 @@
 # Modelo — Catálogo de Gu
 
+> **Regra de estilo (usuário, 2026-09-01):** nas notas FINAIS da designer, NÃO usar
+> citações "(cap. NN)"/URLs inline no corpo, tabelas ou callouts — a prosa deve ser
+> limpa; os capítulos vão somente no campo `fontes` do frontmatter. Ignorar as
+> citações inline dos exemplos abaixo ao aplicar o modelo. (Rascunhos internos de
+> `_pipeline/rascunho/` podem e devem citar capítulos inline.)
+
 Uso: `09 - Apêndices/Catálogo de Gu.md` — tabela mestra de todos os Gu da obra,
 dividida por path (uma seção `## Path` por path, Gu Imortais com ⭐ no nome). Gu
 especialmente importantes ganham nota própria além da linha na tabela.

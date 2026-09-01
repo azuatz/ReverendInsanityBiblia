@@ -6,8 +6,8 @@ status: rascunho-interno
 
 # Transformações e corpos especiais
 
-> **Rascunho interno** — cobre até: Volume 3 (caps. 0–649).
-> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, variantes humanas (hairy men, rockmen, snowmen, inkmen, eggmen), modificações corporais permanentes, troca de identidade física, formas alternativas de existência. Extensão de vida como tema próprio: ver longevidade.md (zumbis têm vida estendida — referência cruzada).
+> **Rascunho interno** — cobre até: Volume 4 (caps. 0–1021).
+> Domínio: zumbificação (todas as fases), corpos especiais / Ten Extreme Physiques, variantes humanas (hairy men, rockmen, snowmen, inkmen, eggmen), modificações corporais permanentes, troca de identidade física, formas alternativas de existência. O **V4 é o volume do zumbi imortal**: mecânica completa do immortal zombie (custos, cognição, alma), TODOS os métodos conhecidos de revival, possessão como via de existência, o trade-off numérico das Ten Extreme Physiques e o **corpo soberano** do Sovereign Immortal Fetus Gu. Extensão de vida: ver longevidade.md.
 
 ## Resumo do domínio
 

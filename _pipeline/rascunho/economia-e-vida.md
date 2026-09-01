@@ -183,6 +183,35 @@ Arena/battle stage (regras completas em sociedade-e-organizacoes.md); leilões e
 
 Heroes assembly e a disputa decenal do Imperial Court (guerra de alianças com battle merits, expert challenges, reparações — sociedade-e-organizacoes.md); os 88 andares/100 rodadas da True Yang Building (desafios com 3 graus de avaliação e treasure room de trocas por valor equivalente, caps. 557-558); mercado sazonal tribal; duelo público por prêmio (caps. 443-444); caça/subjugação de matilhas selvagens (armadilha de desfiladeiro, cap. 501); defesa de blessed land contra calamidade (caps. 416-418); leilões reversos de material raro (gruel mud, cap. 469).
 
+---
+
+> fontes desta seção: ["cap. 650-733", "cap. 734-775", "cap. 776-817", "cap. 818-859", "cap. 860-901", "cap. 902-981", "cap. 982-1021"]
+
+## Atualizações do Volume 4 (caps. 650–1021)
+
+### Hierarquia de moedas e riqueza por rank (calibração)
+
+`[especializado]`:
+
+- **Pedras primevas < immortal essence stone < conta de essência imortal pessoal**: uma imortal pode ter "bilhões" de pedras primevas e ZERO essence stones — e não comprar recursos básicos de cultivo imortal (cap. 668). Conversão: 1 essence stone → 1 conta de essência pessoal (só faz sentido em necessidade, pois a pessoal não é comercializável, cap. 666). Referência: 1 essence stone ≈ 1 rei-lobo mirífico + 30 mil lobos (cap. 666).
+- **Riqueza típica por rank** (caps. 729, 750): rank 6 = algumas CENTENAS de essence stones; rank 7 = milhares a 10.000+; rank 8 = dezenas de milhares (veteranos: centenas de milhares). O máximo que um senhor demoníaco regional r6 juntou numa vida: 64 stones (cap. 666). Rendas documentadas: monopólio de guts Gu 48 → 92 → ~300 stones/mês (escassez artificial dobrou o preço — "monopólio é realmente útil", cap. 779); portfólio diversificado de 6 fontes >1.000-2.000/mês (caps. 900, 907, 979).
+- **Crédito**: juro padrão de empréstimo entre imortais ~10%/mês (mínimo de 1 mês mesmo em dias, cap. 692); empréstimos de confiança sem juros existem entre aliados (cap. 683); financiamento de refino com dívida a juros + direito a um Immortal Gu em 100 anos de inadimplência (cap. 926, 930).
+
+### Mercado imortal — regras novas
+
+- **A economia do mundo Gu é subdesenvolvida**: monopólios e recursos sem oferta a preço nenhum; partes de desolate beast somem do mercado em instantes (cap. 672). Treasure yellow heaven NÃO tem "primeiro a chegar": o vendedor aceita lance melhor até o fechamento (cap. 712); taxa de serviço fixa; sem garantia de autenticidade (cap. 666).
+- **Paz × guerra** (caps. 667-668): em paz, imortais PRODUZEM os próprios Gu mortais dentro da blessed land (tempo dilatado = colheitas); em guerra, poupam Immortal Gu e queimam Gu mortais em massa — demanda e preços explodem (air bubble fish 10×) e mérito de batalha/pontos de seita viram moeda paralela.
+- **Preços de killer moves mortais** (tabela de tiers, cap. 732): 0,5 stone (fraco) / 1-2 (mediano) / 2-2,5 (pico do comum) / 3 (confiável) / 4-5 (notável, muda combates) / 6 (topo, raro). A partir do rank 6, killer moves custam MUITO MENOS que receitas de Immortal Gu (cap. 667). Receitas de killer move vendidas com quantidades vagas — detalhes só após a compra (cap. 667).
+- Preços V4 selecionados: 100 guts Gu = 1 stone (taxa preferencial 120, cap. 702); receita completa otimizada r1-5 = 70 stones em leilão (vs. 2 de uma receita antiga comum, cap. 750); corpo de desolate beast ≈ 40 stones; de ANCIENT ≈ 400 (lucro líquido ~100 — o custo de abate come o resto; só rank 7 de elite caça, cap. 729); serviço de dedução de receita: 10-20 stones/receita conforme a % de partida (caps. 663, 682); consultoria pontual de dedução: 2 stones/gargalo (cap. 731); escravos: hairy men inflacionáveis por compra em massa (cap. 735); lote guts Gu p/ seita = 180 stones (cap. 863); empréstimo do kit de relocação de blessed land = 2.000 stones + 2 Immortal Gu de colateral (cap. 900); Ma Hong Yun/Zhao Lian Yun leiloados a partir de 30.000 stones (topo histórico do leilão, cap. 754-763).
+- **Leilões de Immortal Gu**: ver sociedade-e-organizacoes.md (mercado de vendedor; Immortal Gu só por troca). Vender blessed lands inteiras de imortais mortos = negócio "mil vezes mais lucrativo" que guts Gu (o comprador engole a terra e pula tribulações, cap. 731). Corretores de informação vendem enunciados de competições passadas e fofocas políticas (Lightning Information Sect: seita construída só de informação em ~100 anos, cap. 838). Transaction tokens de super forças = redes comerciais preferenciais mutuamente excludentes (cap. 908).
+- **Padrões de monopólio**: reter oferta para subir preço (guts Gu); vender produto refinado "de cima para baixo" do próprio Immortal Gu (sem receita mortal a copiar, cap. 852); modelo "lâmina e aparelho" (killer move barato + Gu consumível proprietário, cap. 667); black oil e guts Gu como "seller's markets" (cap. 742).
+
+### Eventos jogáveis novos do V4
+
+- **Refinement Path Convention** (Central Continent, centenário; caps. 828-859): maior evento de refino do mundo; inscrição 100 pedras primevas em centenas de sedes; 4 tarefas de entrada → rounds eliminatórios "first come first served" (3 primeiros por meta) → a partir do 8º round, 1 vencedor por sede e duelos 1x1 (com direito único de "remoção de material" do adversário); formatos: sect contests, duels (aposta negociada; empate = trocar ou reaver apostas), task contests, arena contests, "martial duels" (5 chances de ataque escalando r1→r5, defesa limitada ao rank do ataque — trava anti-imortal); trégua universal (demoníacos e foragidos participam abertamente); vagas automáticas por colocação na edição anterior; prêmios crescem até essence stones/receitas de Immortal Gu; **top 6 = 1 success dao mark cada** (ver gu-sistema.md). Gu Immortals competem disfarçados (perder para um mortal é técnica e possível).
+- **Leilão de Immortal Gu de Northern Plains** (caps. 747-763) e **gambling contest de Yi Tian Mountain** (caps. 963-964, 998-1001): ver sociedade-e-organizacoes.md.
+- Menores: shark fishing banquet (pesca dentro do palácio em 7 min, cap. 922); desafios/duelos de refino com apostas de material raríssimo (cap. 847); corrida por dream realms (fase inicial do "próximo grande campo", caps. 734, 983).
+
 ## Lacunas do domínio
 
 - ~~Mercados de rank alto imortais: nada ainda~~ ✅ RESPONDIDO no V3 (treasure yellow heaven, caps. 466+).

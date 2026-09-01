@@ -4,9 +4,9 @@
 
 ## Estado atual
 
-- Fase: leitura do Volume 1 (leva 1 em andamento).
-- Próxima ação: aguardar leitores dos blocos 1.1–1.5; depois consolidar com
-  `sintetizador-ri` e commitar.
+- Fase: Volume 1 lido por completo (blocos 1.1–1.5 ✅); consolidação em andamento.
+- Próxima ação: após consolidação, commitar, definir blocos do Volume 2 e lançar a
+  leva 2.
 
 ## Blocos de leitura
 
@@ -15,7 +15,7 @@
 | 1.1 | 0–39 | ✅ | — |
 | 1.2 | 40–79 | ✅ | — |
 | 1.3 | 80–119 | ✅ | — |
-| 1.4 | 120–159 | ⏳ | — |
+| 1.4 | 120–159 | ✅ | — |
 | 1.5 | 160–199 | ✅ | — |
 
 ## Pendências gerais

@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 1473–1513 (Volume 5)
 
-> Progresso da leitura: até o cap. 1508
-> Status: em-andamento
+> Progresso da leitura: até o cap. 1513 (bloco completo)
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -170,6 +170,102 @@ Ordem obrigatória/ótima segundo consenso histórico do mundo Gu Immortal (pula
 ### Mapas físicos (sheepskin map) vs. Gu de information path
 - Guardar segredos em um mapa físico de pele (sheepskin map) em vez de um Gu worm de information path é tratado no mundo como incomum e mais arriscado (perda física, dano, etc.), mas tem a vantagem de ser indetectável por métodos que rastreiam auras de Gu — um Gu Master de alto status escondeu seu mapa costurado dentro da roupa por esse motivo (cap. 1493).
 
+### Escala de cultivo de alma — man soul → desolate soul (achado central, prioridade alta)
+- Antes de Red Lotus Demon Venerable quebrar o fate Gu, a alma humana tinha um teto ABSOLUTO e inquebrável de 100 milhões de man soul — era o "pico", ninguém progredia além disso; até ter 1 milhão de man soul já era considerado incrível naquela época (cap. 1505).
+- Quando Red Lotus Demon Venerable quebrou o fate Gu, esse limite também foi destruído — mas ninguém sabia COMO avançar além dele. Só quando Spectral Soul Demon Venerable criou soul path (com attainment de supreme grandmaster) é que se descobriu o caminho para superar 100 milhões de man soul (cap. 1505).
+- Acima de 100 milhões de man soul: nível "desolate soul" (alma desolada). 100 milhões de man soul já SOLIDIFICA a alma humana, permitindo que ela interfira diretamente no mundo real (deixa de ser um "corpo ilusório"), mas ainda é frágil — deficiência inerente da espécie humana (alta compreensão, corpo/alma fisicamente inferiores a outros seres) (cap. 1505).
+- Cruzar para desolate soul: só a alma sozinha já tem a força de um desolate level soul beast (cap. 1505).
+- Cultivar desolate soul até o limite = "100 milhões de desolate soul" — o TETO absoluto de cultivo de alma, o limite que o próprio mundo consegue conter. Nesse nível: força de batalha quase-rank 9; a alma sozinha resiste diretamente a calamidades/tribulações (cap. 1505).
+- Exemplo visto pessoalmente por Fang Yuan desse nível supremo: a forma verdadeira gigante do corpo principal de Spectral Soul Demon Venerable — "three headed thousand arms demon soul" (demônio-alma de três cabeças e mil braços), registrado em sua true inheritance (cap. 1505).
+- Escala prática intermediária confirmada por Fang Yuan: 90 milhões de man soul é o "quase lá" de 100 milhões; mesmo 100 milhões de man soul é só "meio caminho" nos registros de cultivo de alma da true inheritance de Spectral Soul, longe do pico real (100 milhões de desolate soul) (cap. 1505).
+
+### Soul beasts — origem, tipologia e soul cores
+- Origem dupla dos soul beasts: (1) Red Lotus Demon Venerable, ao danificar o fate Gu, abriu uma brecha no Great Dao do mundo que permitiu que muitos seres escapassem das restrições do destino — após a morte, nem todas as almas eram sugadas para o door of life and death, muitas ficaram vagando no mundo; (2) Spectral Soul Demon Venerable, ao criar soul path, fez com que almas se manifestassem e se transformassem em soul beasts. Atualmente, uma parte dos soul beasts também se forma naturalmente em locais com dao marks densos de soul path (cap. 1503).
+- "Path beasts" (categoria formal): soul beasts, mud monsters, blood beasts, shadow monsters e phantom beasts são todos "path beasts" — corpos inteiros carregados de dao marks densos de um path específico (cap. 1503).
+- Ao morrer, um soul beast se dissolve em fumaça cinza-escura, deixando um "soul core" (núcleo de alma) — material imortal denso e pesado, cor azul-escura quase preta. Rank do soul core varia: rank 6 (comum), rank 7 (soul beasts mais fortes), rank 8 (só de immemorial soul beasts). Analogia: mud monster deixa "mud core" da mesma forma (cap. 1503).
+- Soul cores PODEM substituir almas como alimento de Dang Hun Mountain para produzir guts Gu, mas sua qualidade é inferior à de almas de Gu Immortals — no máximo equivalem a almas de bestas/plantas comuns (cap. 1503).
+- Guts Gu não surge do nada — depende de estoque contínuo de almas/soul cores fornecido a Dang Hun Mountain; quando o estoque acaba, a produção trava mesmo com o secluded domain disponível (cap. 1502, reforçado 1503).
+
+### Green ghost desert — origem histórica e perigo
+- Região perigosa de Western Desert, ~100 mil anos de histórico de mortes de Gu Immortals; céu perpetuamente coberto de nuvens escuras, quase sem luz solar (cap. 1503).
+- Origem: campo de batalha onde o jovem Spectral Soul Demon Venerable (ainda não-venerable) exterminou sozinho o Qing clan inteiro (super força já extinta) — os dao marks de seus killer moves, os corpos dos Gu Immortals mortos e os dao marks da destruição de suas immortal apertures ficaram gravados no terreno, criando o ambiente atual rico em soul beasts. "Green" no nome é homófono de "Qing" (referência ao clã) (cap. 1507).
+- Immemorial desolate beast "disc scorpion": besta de wisdom path, forma de disco com longa cauda e duas grandes pinças; alimenta-se preferencialmente de soul beasts; imune à ghostly concealment de Fang Yuan (que só oculta de soul beasts) — obrigou-o a fugir em vez de lutar (cap. 1503).
+
+### Limites de controle de exército de soul beasts (Fang Yuan)
+- Capacidade de controle simultâneo de soul beasts tem TETO pessoal — determinado por (1) fundação de alma (soul foundation) do controlador e (2) quantidade/qualidade de Immortal Gu de soul path/enslavement path disponíveis. Com 90 milhões de man soul e apenas 2 Immortal Gu de soul path (rank 7 Change Soul, reservado como núcleo do killer move "switch soul in dream", não pode ser usado à toa; rank 6 Cleanse Soul, usado simultaneamente em myriad self + cultivo pessoal + controle do exército, sobrecarregado fazendo múltiplas funções), Fang Yuan atinge seu limite prático em ~60 soul beasts desolate-level + ~20 ancient soul beasts (depois some mais, "expandiu 3x" com recrutas adicionais) (cap. 1503, 1505).
+- Regra de progressão de captura: soul beasts que não podem ser subjugados são mortos por seus soul cores; soul beasts já enfraquecidos ("à beira da morte") são mais fáceis de escravizar em vez de matar (cap. 1503).
+
+### Soul explosion — método de mútua destruição
+- Método extremamente temido no mundo Gu Immortal: precedente histórico citado — no confronto entre Qin Bai Sheng (ainda sem memórias recuperadas, mais fraco) e Feng Jiu Ge, este último evitou golpes fatais especificamente por cautela contra o soul explosion de Qin Bai Sheng (cap. 1506).
+- Fang Yuan não detona a PRÓPRIA alma (reserva isso só para "burning soul bursting luck"), mas pode ordenar que SOUL BEASTS escravizados se autodetonem — a detonação "impura" desses soul beasts destrói também seus próprios soul cores (custo real: perde-se o material que seria coletado), mas gera poder de explosão devastador — squad de soul beasts como bombas móveis descartáveis (cap. 1506).
+- "Burning soul bursting luck": método de impulso de sorte que consome fundação de alma; Fang Yuan ativou pessoalmente antes de entrar em green ghost desert (em vez de delegar a Ying Wu Xie) — origem da "coincidência" de encontrar os Gu Immortals do clã Fang no momento certo (cap. 1506).
+
+### Killer move "spontaneous auspicious cloud"
+- De luck path, originado de uma true inheritance de luck path em Hei Fan grotto-heaven, muito modificado por Fang Yuan. Não obedece à vontade do usuário — se move sozinho seguindo o caminho de maior sorte (profundidade de luck path); o próprio Fang Yuan não sabe de antemão quando/para onde vai virar (cap. 1503).
+
+### Rank 8 Immortal Gu "Soul Beast Token" — regra especial de custo
+- Permite escravizar soul beasts, incluindo IMMEMORIAL soul beasts (nível rank 8); crucialmente, seu uso NÃO exige immortal essence de rank 8 — pode ser usado por um cultivador de rank 7 (como Old Ghost Bai Jun). Fang Yuan supõe que isso implica um método especial embutido no próprio Gu, comparando-o a um "top-tier Gu como attitude Gu" (Gu de rank alto que dispensa o requisito normal de essência correspondente ao rank) (cap. 1504, 1507).
+
+### Disfarce e diplomacia de Fang Yuan (caso "Suan Bu Jin")
+- Fang Yuan cria a identidade "Suan Bu Jin" e alega ter herdado o legado de "Zheng Jing Shen" — um lendário cultivador solitário histórico com ligação (não consumada) ao Fang clan (apoio financeiro recebido do clã em vida + affair não realizado com uma ancestral do clã) — para justificar por que teria interesse em ajudar dois Gu Immortals do Fang clan sem revelar sua identidade real (caps. 1505, 1507).
+- Técnica de manipulação de imagem: Fang Yuan anuncia EM VOZ ALTA sua intenção de salvar os reféns antes de agir (ao invés de agir em segredo), o que os próprios reféns interpretam como sinal de confiança suprema/caráter "aloof e orgulhoso, mas com princípios" — construção deliberada de reputação através de comportamento "dominador" consistente (cap. 1506).
+- Depois de deixar Old Ghost Bai Jun escapar (por já ter plantado um método investigativo de rastreamento nele no momento do primeiro combate), Fang Yuan mantém rastreamento contínuo da localização do inimigo mesmo tendo "deixado ir" publicamente — praticando controle duplo de imagem e informação (cap. 1507).
+- Killer move "Ignited Thought Flying Rock": wisdom path, herdado de Purple Mountain True Monarch, mas modificado por Fang Yuan especificamente para dificultar identificação de autoria (cap. 1505).
+- Killer move "Purple Thought Perception Starlight": usado para remover cadeias de alma (soul chains) que prendiam os dois Gu Immortals do Fang clan, sem dificuldade para Fang Yuan (cap. 1507).
+
+### Qing clan e Divine Bean Palace (Immortal Gu House de Genesis Lotus Immortal Venerable)
+- Qing clan: super força extinta de Western Desert, exterminada inteiramente pelo jovem Spectral Soul Demon Venerable ainda antes de virar venerable, num conflito irreconciliável — Qing clan o subestimou por ter mais números/recursos (cap. 1507).
+- Antes de morrer, o primeiro supremo ancião do Qing clan selou os recursos remanescentes do clã e os enterrou em algum ponto de green ghost desert, deixando uma herança com condição única: o herdeiro deve VINGAR o clã matando Spectral Soul (ou, se ele já estiver morto, sua família/amigos/discípulos). Como Spectral Soul se tornou venerable (imbatível), a herança virou "piada" impraticável por gerações — até agora, com Spectral Soul capturado/enfraquecido na timeline atual (cap. 1507).
+- Fang clan (super força mais próxima de green ghost desert) vem, há gerações, reunindo pistas fragmentadas sobre essa herança; nesta geração as pistas já estão completas, com um "método de resposta vago" que permite buscar o local (cap. 1507).
+- Divine Bean Palace: Immortal Gu House criada por Genesis Lotus Immortal Venerable, escondida em Western Desert como parte do legado do Qing clan — de valor extremamente alto, historicamente notável; Fang clan almeja obtê-la há gerações (cap. 1507-1508).
+- Acesso a Divine Bean Palace: entrada por um poço de areia movediça (quicksand pit) que desce quase mil li; leva a um espaço envolto em luz verde onde voar é IMPOSSÍVEL — só se sobe por uma escadaria dourada de exatos 9.999 degraus até o portão do palácio (cap. 1508).
+- Dentro do salão principal do palácio: um soul beast gigantesco composto — casco de tartaruga, quatro patas de tigre, cauda de dragão, pescoço de serpente, cabeça humana — tratado como "mestre" por Old Ghost Bai Jun e por outra subordinada, Eagle Concubine. Implica que esse soul beast colossal é quem de fato comanda o esquema de Old Ghost Bai Jun para dominar green ghost desert, e provavelmente foi ele quem forneceu o rank 8 Immortal Gu Soul Beast Token, com meio de monitoramento embutido (Eagle Concubine confirma que o "mestre" sabia da derrota de Old Ghost Bai Jun quase instantaneamente) (cap. 1508).
+
+### Divine Bean Palace — mecanismo interno e detecção remota
+- O soul beast-mestre reconhece Fang Yuan como ligado a Spectral Soul Demon Venerable pelo CHEIRO/aura ("scent") mesmo através do disfarce de aparência — método de identificação que ignora "familiar face" (cap. 1508).
+- Divine Bean Palace tem defesas autônomas que atacam o próprio "mestre" (o soul beast) se ele ficar descontrolado/berserk dentro do palácio — raios de luz verde perfuram o corpo do soul beast quando ele começa a enlouquecer de raiva, forçando-o a se conter (cap. 1508).
+- Eventos de criação/manifestação de uma Immortal Gu House de rank alto (como Divine Bean Palace reaparecendo no mundo) geram fenômenos atmosféricos detectáveis a distância mesmo de dentro de Heavenly Court (auroras verdes na "pure white sky" de Heavenly Court) — Fairy Zi Wei consegue deduzir a origem exata (Genesis Lotus Immortal Venerable, Western Desert) só a partir desse fenômeno (cap. 1508).
+- Heavenly Court recruta especialistas externos poderosos oferecendo entrada direta na organização como recompensa por serviços críticos: Fairy Zi Wei promete a Chen Yi (rank 8, primeiro supremo ancião da Heavenly Lotus Sect, Central Continent) entrada em Heavenly Court se ele subjugar Divine Bean Palace com sucesso (cap. 1508).
+
+### Cultivo de alma — marco numérico exato confirmado (100 milhões de man soul = limiar de solidificação)
+- Confirmado textualmente: ao atingir exatamente 100 milhões de man soul, a alma passa "de fantasma a sólida", conseguindo interferir fisicamente no mundo material (Fang Yuan testa segurando um punhado de areia com a alma fora do corpo) (cap. 1508).
+- Escala de progresso pós-100M confirmada em incrementos de 100 em 100 milhões: 100M → 200M → 300M... até 900M. Depois de 900 milhões, o PRÓXIMO salto NÃO é 1 bilhão — é uma mudança QUALITATIVA para o tier "desolate soul" (cap. 1509). **Isto fixa o limiar exato: 900 milhões de man soul é o teto da fase "man soul" antes da transição a desolate soul.**
+- Ao cruzar para desolate soul, a alma sozinha do Gu Immortal passa a ter a força de um desolate level soul beast — mudança qualitativa confirmada de novo (cap. 1509).
+- Cada 100 milhões adicionais de man soul torna a alma "mais sólida e realista", com "membros" (quando materializada) cada vez mais resistentes — não é só um número, tem efeito qualitativo perceptível a cada marco de 100M (cap. 1509, comparando 100M vs 200M).
+
+### Exploração do 3º estágio do dream realm de Thieving Heaven — desvio deliberado
+- Fang Yuan testa deliberadamente DESVIAR do "roteiro" natural do sonho (recusando terminar a tarefa de Sha Xiao) para ver o quanto o dream realm consegue reagir/adaptar-se a escolhas muito diferentes das históricas — primeira vez que ele faz isso intencionalmente, não por necessidade (cap. 1509-1510).
+- Ao invadir fisicamente a câmara subterrânea de armazenamento de Gu do clã (usando sneak attack Gu para atacar silenciosamente por dentro da parede sem disparar as defesas mágicas, seguido de um killer move improvisado de rank 1 — "rhino phantom" de strength path, feito combinando 3 Gu de rank 1 — para arrombar fisicamente a parede), Fang Yuan provoca uma cadeia de eventos ACELERADA e mais perigosa que o caminho "natural" do sonho (caps. 1509-1510).
+- Punição proporcional ao desvio: ao ser capturado por um guarda rank 3 de water path dentro do sonho, um único golpe (soul search/palm strike) corta 50 milhões de man soul da fundação de alma de Fang Yuan de uma vez — o próprio Fang Yuan calcula que, na sua fundação anterior (90M), esse único golpe teria destruído mais da metade de sua alma; ele só sobrevive por ter entrado no estágio já com 200 milhões de man soul acumulados propositalmente (cap. 1510).
+- Interpretação de Fang Yuan: o dream realm parece gerar obstáculos ESCALADOS especificamente contra o ponto fraco do explorador (nesse caso, soul path) — ele hipotetiza que Gu Immortals de outros paths, sem fundação de alma alta, jamais sobreviveriam a esse mesmo evento (cap. 1510).
+- Confirmação de "fenômeno de criação de Immortal Gu": quando a piscina do oásis ferve e libera um pilar de luz vermelha que tinge o céu por centenas de li, isso é identificado explicitamente como "o fenômeno da criação de um Immortal Gu" (heaven qi surgindo, earth qi subindo) — sinal visível a distância, evento público detectável (cap. 1511).
+- O mapa de pele de carneiro (sheepskin map, do bloco anterior) é revelado como um material imortal disfarçado, indetectável até ser molhado na água da piscina, o que desencadeia toda a cascata de criação do Immortal Gu (cap. 1511).
+- Resultado do evento: a luz vermelha varre a região, envelhecendo instantaneamente e matando todos que ela toca (mortais e Gu Masters), sugando sua vida/lifespan; jovem Thieving Heaven também é atingido e envelhece para um ancião — mas como ele é o "dono" do novo Gu formado (uma abelha vermelha que voa até sua mão), ele recupera todo o lifespan extraído e volta a ser jovem. Nasce assim o rank 6 Immortal Gu "Steal Life", dado por Sha Xiao como presente final antes de desaparecer (caps. 1511).
+- Attainment final do 3º estágio: theft path GREAT GRANDMASTER — descrito como "o limite que Fang Yuan poderia alcançar" por esse método, e também "o limite das cinco regiões" (isto é, o teto de attainment de theft path atingível no mundo atual, com apenas a via de supreme grandmaster restando, inatingível por dream realm) (caps. 1511-1512).
+
+### Dream realms como causa estrutural da guerra caótica das cinco regiões
+- Afirmação explícita de worldbuilding: o boom de exploração de dream realms ao longo da história fez com que MUITAS pessoas ganhassem saltos de attainment rapidamente, aumentando drasticamente seus desejos por recursos de cultivo e status — apontado como uma CAUSA estrutural da five regions chaotic war (cap. 1512).
+- Durante o período inicial/médio da guerra caótica anterior (vida passada de Fang Yuan), viu-se a criação de inúmeros Gu worms e killer moves de dream path especificamente desenhados para combater a corrosão de alma de dream realms específicos — sugere um "campo de tecnologia" inteiro de contramedidas anti-corrosão que se desenvolveu organicamente pela demanda da época (cap. 1510).
+- Dream realm de um venerable descrito como "cemitério de Gu Immortals" durante períodos de exploração intensa por causa da corrosão de alma — mesmo alguns rank 8 não conseguiriam pagar o preço que Fang Yuan pagou aqui (cap. 1512).
+
+### Theft path great grandmaster — capacidades demonstradas
+- Dedução de receitas de Gu de theft path torna-se quase instantânea, sem precisar da light of wisdom — Fang Yuan consegue deduzir receitas de sneak attack Gu do rank 1 ao rank 7 (incluindo versões Immortal Gu de rank 6-7) simplesmente por ESCAVAR a capacidade intrínseca que o attainment de great grandmaster já lhe dá, não por "usar inspiração" (caps. 1510, 1512).
+- Rank 5 Sneak Attack Gu: solta CENTENAS de fantasmas de bebê azuis simultaneamente, cada um extremamente veloz e oculto — se perdido de vista um deles, é impossível rastreá-lo de novo (cap. 1512).
+- Grandes quantidades de theft path mortal Gu de rank 5 foram entregues para Lang Ya Sect refinar em massa a partir das receitas deduzidas por Fang Yuan (cap. 1512).
+
+### Estratégia político-militar de Fang Yuan (atualização)
+- Plano para enfrentar Heavenly Court passa por obter a true inheritance completa de Red Lotus Demon Venerable via River of Time — mas Fang Yuan avalia que ainda não tem força suficiente para sobreviver sozinho a uma emboscada de Heavenly Court lá sem o apoio da stone lotus island; decide adiar essa viagem até estar mais forte (cap. 1512).
+- Zhao Lian Yun (meio otherworldly demon) está confirmada como "cão de Heavenly Court", oposta a Fang Yuan nesta timeline (cap. 1512).
+- Fang Yuan usou previamente o killer move/Gu "Connect Luck" no "upper extreme heavenly eagle" (item-chave que ficou em Southern Border) para criar um vínculo de sorte; agora consegue localizá-lo remotamente com "qi luck sensation" sempre que precisar — método de rastreamento baseado em luck path (cap. 1512).
+- Fang Yuan opta por priorizar cultivo em green ghost desert (fazendo dela sua "fazenda de soul cores") em vez de correr atrás imediatamente do upper extreme heavenly eagle para abrir as blessed lands de City Well — julga o custo-benefício mais favorável no momento (cap. 1512).
+
+### Fallen Flower Hall (Fang clan) e cooperação/vigilância disfarçada
+- Immortal Gu House de rank 7 do Fang clan; ao pousar, libera pétalas que transformam areia em lama fértil e fazem brotar flores em segundos — display de poder/riqueza; classificada como "forte por fora" (oposto do Dark Prison do Hei tribe, que é "forte por dentro, fraco por fora") (cap. 1512-1513).
+- "Seven Li Fragrant Tea" (chá-assinatura do Fang clan): after drinking, corpo/hálito exalam fragrância de chá; até 7 xícaras aumentam a duração/alcance (até 7 dias/noites, alcance de 7 li); além de 7 xícaras NÃO há efeito adicional — teto de rendimentos explícito (cap. 1513).
+- "Impermanence rocks": material imortal de rank 6, cor metade preta metade branca; só se forma em locais de batalhas constantes/onde seres vivos morreram repetidamente — encontrado em quantidade em green ghost desert (cap. 1513).
+- Esquema do Fang clan (revelado via monólogo interno de Fang An Lei): oferecer a "Suan Bu Jin" um Immortal Gu de rank 6 em troca de coletar impermanence rocks — mas o verdadeiro objetivo é usar o acordo de aliança para justificar seguir Fang Yuan discretamente por green ghost desert; se ele encontrar a herança do Qing clan, a cláusula de aliança o impede de competir contra o Fang clan por ela. Plano atribuído ao segundo supremo ancião Fang Di Chang (cap. 1513).
+- Confirmação: Old Ghost Bai Jun de fato usou Soul Beast Token "sem se importar com o custo" para subjugar múltiplos immemorial soul beasts, e ataca Fallen Flower Hall em busca de vingança — gancho de fechamento do bloco (cap. 1513).
+
 ## 2. Gu catalogados
 | Nome | Rank | Path | Efeito | Alimento | Cap. |
 |---|---|---|---|---|---|
@@ -182,6 +278,11 @@ Ordem obrigatória/ótima segundo consenso histórico do mundo Gu Immortal (pula
 | Sandpit Gu | mortal, rank 1 | terra | Cria um buraco de areia instantâneo no chão (armadilha) | — | 1492-1500 |
 | Chimney Smoke Gu | mortal | fogo/fumaça | Gera fumaça densa; originalmente usado para defumar comida, reaproveitado como cortina de fumaça de combate | — | 1492-1500 |
 | Clear Water Gu | mortal | água | Produz água limpa | — | 1492, 1500 |
+| Soul Beast Token ⭐ | 8 | soul/enslavement | Permite escravizar soul beasts, incluindo immemorial soul beasts (rank 8); não exige immortal essence de rank 8 para ser usado | — | 1504, 1507 |
+| Change Soul | 7 | soul | Núcleo do killer move "switch soul in dream"; reservado, uso restrito | — | 1505 |
+| Cleanse Soul | 6 | soul | Multiuso: myriad self, cultivo pessoal de alma, auxílio no controle de exército de soul beasts | — | 1505 |
+| Steal Life ⭐ | 6 | theft | Absorve lifespan/vida de todos tocados por sua luz de formação e concentra no seu dono; dono pode reverter envelhecimento recuperando o lifespan roubado | vida/lifespan (na criação) | 1511 |
+| Rhino Phantom (killer move improvisado) | — (combinação de 3 Gu rank 1) | strength | Forma fantasma de rinoceronte físico para arrombar paredes | — | 1509-1510 |
 
 ## 3. Mundo e sociedade
 
@@ -243,11 +344,30 @@ Ver seção 1. Demonstra custo em soul foundation (10M→9M man soul) e as limit
 - Quasi-Great Grandmaster — grau intermediário nomeado explicitamente entre grandmaster e great grandmaster (um "quase lá").
 - Old Ancestor Xue Hu — Gu Immortal rank 8, snow path great grandmaster, capaz de desmontar qualquer immortal killer move; atuou na batalha de Reverse Flow River contra Heavenly Court.
 - Long Hair Ancestor / Old Eccentric Tian Nan / Old Immortal Kong Jue — os três supreme grandmasters de refinement path conhecidos na história.
+- Desolate Soul (Alma Desolada) — nível de cultivo de alma acima de 100 milhões de man soul; teto absoluto do mundo é 100 milhões de desolate soul.
+- Soul Core (Núcleo de Alma) — material imortal deixado por um soul beast morto, rank 6-8 conforme a força do soul beast de origem.
+- Path Beasts (Bestas de Path) — categoria formal: soul beasts, mud monsters, blood beasts, shadow monsters, phantom beasts — corpos carregados de dao marks densos de um path específico.
+- Divine Bean Palace — Immortal Gu House criada por Genesis Lotus Immortal Venerable, escondida em Western Desert; alvo histórico do Fang clan.
+- Qing Clan — super força extinta de Western Desert, exterminada por Spectral Soul Demon Venerable jovem; origem de green ghost desert.
+- Green Ghost Desert — região perigosa de Western Desert formada pelo campo de batalha da extinção do Qing clan; rica em soul beasts.
+- Suan Bu Jin — identidade disfarçada usada por Fang Yuan perante o Fang clan.
+- Zheng Jing Shen — lendário cultivador solitário histórico com ligação não consumada ao Fang clan; usado por Fang Yuan como pretexto de disfarce.
+- Old Ghost Bai Jun — Gu Immortal rank 7 de soul path, subordinado de um soul beast-mestre em Divine Bean Palace; possui Soul Beast Token.
+- Eagle Concubine — outra subordinada do soul beast-mestre de Divine Bean Palace.
+- Chen Yi — Gu Immortal rank 8, primeiro supremo ancião da Heavenly Lotus Sect (Central Continent), recrutado por Fairy Zi Wei para subjugar Divine Bean Palace.
+- Impermanence Rocks — material imortal rank 6, metade preto/metade branco, só se forma em locais de mortes/batalhas repetidas.
+- Fallen Flower Hall — Immortal Gu House rank 7 do Fang clan, transforma areia em jardim florido ao pousar.
+- Seven Li Fragrant Tea — chá-assinatura do Fang clan; até 7 xícaras dão fragrância corporal por 7 dias/7 li de alcance, sem efeito adicional além disso.
+- Fang An Lei — Gu Immortal rank 7 do Fang clan, responsável por relações externas.
+- Fang Di Chang — segundo supremo ancião do Fang clan, wisdom path great grandmaster.
+- Steal Dream — immortal killer move de dream path criado por Tang Fang Ming (confirmado nas notas como provavelmente autoral, não herdado do Shadow Sect).
 
 ## 7. Dúvidas e lacunas
 - Item de LACUNAS sobre limiares percentuais de aptidão/rank: nenhum número novo neste sub-bloco (1473-1482); só um dado indireto: sovereign immortal aperture de Fang Yuan está em 4% de desenvolvimento (não é limiar de transição de rank, é "progresso" de uma aperture soberana específica) (cap. 1481).
 - Contagem de Ten Extreme Physiques avança: Myriad Gold Wondrous Essence Physique (You Chan) é citada como "uma das dez" — checar se já apareceu antes noutro nome/bloco; се não, é a 5ª nomeada até agora (cap. 1473).
 - Regra "vital Gu sobrevive a falha de refino, exceto se o dono morre durante o refino" (cap. 1481) é nova e explícita — não estava nas notas anteriores; útil para o rascunho de mecânicas de Gu.
 - Novo item de estudo de caso mecânico do mundo: os "sete níveis de desenvolvimento de immortal aperture" (cap. 1489) é uma tabela formal e explícita nunca antes registrada nas notas anteriores — recomendo priorizar essa síntese no rascunho de cultivo-imortal.md.
+- **Segundo grande achado para LACUNAS**: cap. 1505 formaliza pela primeira vez a escala COMPLETA de cultivo de alma além do teto de 100 milhões de man soul — "desolate soul" até 100 milhões de desolate soul como teto absoluto do mundo, com marcos de poder (quasi-rank 9 na alma sozinha no teto). Isso conecta diretamente com itens de LACUNAS sobre a forma verdadeira de Spectral Soul e "dez seres verdadeiramente invencíveis" — três-cabeças-mil-braços demon soul agora tem explicação mecânica formal (não é só narrativa).
 - **Grande achado para LACUNAS**: os caps. 1501-1502 fornecem pela primeira vez uma definição FORMAL e COMPLETA da hierarquia grandmaster → great grandmaster → supreme grandmaster, incluindo tempos típicos de acumulação (centenas de anos / 1.000-vários milhares de anos / não alcançável só por tempo) e a regra de que dream realms (heranças) têm TETO em great grandmaster, nunca chegam a supreme grandmaster. Isso não estava explícito nas notas de blocos anteriores — checar se `paths.md` ou `cultivo-imortal.md` já tinham esse dado; se não, é atualização prioritária.
+- **Terceiro achado para LACUNAS**: cap. 1509 fixa o limiar numérico exato de transição man soul → desolate soul em 900 MILHÕES de man soul (o próximo marco após 900M não é "1 bilhão", é a mudança de tier). Combinado com o achado do cap. 1505 (teto absoluto = 100 milhões de DESOLATE soul), agora a escala completa de cultivo de alma está documentada: 0 → 100M man soul (marco: solidificação, confirmado cap. 1508) → ... → 900M man soul (teto da fase man soul) → transição para desolate soul → 100M desolate soul (teto absoluto do mundo, quasi-rank 9). Isto é diretamente relevante ao item de LACUNAS sobre "% mínima de essência para transições de rank" — embora seja uma escala DIFERENTE (soul foundation, não aperture essence %), é a primeira vez que se documenta uma progressão numérica tão completa de qualquer sistema de cultivo no texto.
 - Pendência aberta no próprio texto (não resolvida ainda): por que wisdom Gu (que na lenda de Ren Zu é hiperinteligente, capaz de enganar o próprio Ren Zu) mostrou comportamento "burro"/hesitante ao quase não reconhecer o clone de Fang Yuan? O próprio Fang Yuan questiona se é só porque Legends of Ren Zu é "história" (mito) vs. realidade (cap. 1481) — possível gancho para desenvolvimento futuro do Gu.

@@ -16,11 +16,24 @@ Legenda de marcação:
 
 ---
 
-## 1. Limiares percentuais de aptidão para romper cada rank — **NÃO ENCONTRADO**
+## 1. Limiares percentuais de aptidão para romper cada rank — **PARCIALMENTE CORRIGIDO**
 
-### Resposta curta
+> [!warning] CORREÇÃO (2026-09-01, verificada no texto-fonte pelo usuário)
+> A conclusão original desta seção — "a obra nunca fala em limiares percentuais" —
+> estava **ERRADA**, e a wiki é que é incompleta. A obra ENUNCIA o mecanismo e dá o
+> número do rank 1→2. Ver `CORRECAO-limiares-aptidao.md` nesta mesma pasta, com as
+> citações exatas dos capítulos 90, 91, 105 e 10. Lição de método: a ausência de uma
+> informação na wiki nunca prova ausência na obra; verificar sempre no texto-fonte
+> antes de afirmar uma negativa.
 
-**Não existe, em nenhuma fonte encontrada, uma progressão de limiares percentuais por rank (2→3, 3→4, 4→5).** Nem a wiki, nem a wiki-fork, nem fóruns/compilações de fãs apresentam números como "65%, 75%…". A conclusão da leitura — **a obra nunca generaliza** — se sustenta e não é contradita por nenhuma fonte.
+### Resposta curta (revisada)
+
+O **mecanismo existe e é explícito na obra**: romper a parede da abertura exige
+projetar de uma vez uma porcentagem mínima de essência primeva, e a aptidão é o teto
+de quanto se pode armazenar — logo a aptidão trava diretamente até que rank se pode
+subir. O número do rank 1→2 é **55%** (cap. 90-91). O que NÃO existe é a *tabela
+numérica completa* para 3→4 e 4→5: a obra passa a descrever a barreira em termos
+qualitativos e de recursos. A wiki não registra nem o mecanismo nem o 55%.
 
 ### O que foi verificado, e como
 

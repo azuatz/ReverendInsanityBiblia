@@ -331,4 +331,250 @@ Perguntas irmãs sem resposta:
 
 ---
 
-*(seções 3 a 7 em coleta — este arquivo é atualizado incrementalmente)*
+## 3. Refino de Immortal Gu
+
+### 3.1 Taxa de sucesso: a obra **nunca dá um número** — `[verificado no texto]`
+
+Este é o achado mais importante da seção, e é negativo: em toda a obra, a taxa de sucesso do
+refino de Gu Imortal é descrita **qualitativamente** ("too low", "extremely low", "the vast
+majority of attempts fails"), **nunca com uma porcentagem**. Percentuais aparecem no texto
+apenas para Gu *mortais* e para *modificadores* ("raise the success rate by 30%").
+
+Portanto: **qualquer número percentual de refino de Gu Imortal que circule na comunidade é
+inferência de fã.** `[especulação]`
+
+O que a obra dá, e que é muito mais útil para design, é a **forma** do problema — cap. 926:
+
+> "All of the Gu refinement materials met the Immortal Gu recipe's requirements after Fang
+> Yuan checked them meticulously. But when they were used in practice, there was bound to be
+> failure. (...) The entire Immortal Gu refinement process had many such examples like the
+> fusing of water and fire. **Succeeding once or twice was not difficult. The difficult thing
+> was to succeed every single time.** Thus, the success rate of refining Immortal Gu was
+> extremely low." — cap. 926
+
+> [!note] Para o design
+> O refino não é **uma** rolagem difícil: é uma **cadeia de rolagens fáceis** em que basta uma
+> falhar. Isso explica sozinho por que a economia do mundo funciona como funciona (preparar
+> muitas porções de material, ir à falência, rank 6 sem nenhum Gu Imortal — cap. 926) e é
+> trivialmente conversível em mecânica de mesa.
+
+Modificadores canônicos que a obra nomeia (todos qualitativos):
+- **Attainment em refinement path** — quem não é refinement path tem taxa "just too low" (cap.
+  ~2270); um refinador de topo sente "success was guaranteed" a partir de certo ponto do
+  processo.
+- **Melhorar a receita** — encontrar procedimentos melhores ou substituir materiais.
+- **True inheritances** especializadas elevam a taxa de um clã inteiro de forma duradoura.
+- **Success dao marks**, que se consomem virando "um tipo especial de material imortal que
+  auxilia o refino" (cap. ~955) — a obra chega a dizer que reduzem "the natural rate of
+  failure" de um Gu Imortal de rank 6 a zero, **mas erro técnico humano continua possível**.
+
+### 3.2 Unicidade global: a comunidade acerta, e a regra é **ativamente aplicada** — `[consenso]` `[verificado no texto]`
+
+"Immortal Gu are unique" é uma das frases mais repetidas da obra (dezenas de ocorrências, dos
+vol. 2 ao 6) e a comunidade a trata como pedra fundamental. Consequências que o texto tira
+explicitamente:
+
+- Não se **compra** Gu Imortal: "there was only one of each Immortal Gu, others would not sell
+  them even if they had it. At most, they would use Immortal Gu to exchange for Immortal Gu"
+  — o mercado é de **escambo**, não de moeda.
+- Saber a receita **não basta**: se o Gu já existe, refiná-lo de novo é inútil.
+  "even if I obtain the rank seven remnant recipe and perfect it, Immortal Gu are unique, I
+  won't be able to refine the rank seven luck inspection Immortal Gu."
+
+E o ponto que a maioria dos resumos de fã não menciona: **a unicidade é aplicada como falha de
+refino**, não como proibição informada. Um personagem com receita correta, materiais corretos
+e método que dispensa attainment simplesmente **falha**, e só depois deduz por quê:
+
+> "I failed the Gu refinement? Impossible! (...) Wei Wu Shang could only think of one
+> explanation: 'I failed because Immortal Gu is unique?!' (...) It meant that someone else had
+> already refined thief Immortal Gu." — cap. 2289
+
+> [!note] Para o design
+> A unicidade funciona como um **registro global invisível**: o mundo não te avisa que o Gu já
+> existe; ele só te faz queimar os recursos. É simultaneamente uma regra econômica e uma
+> ferramenta de informação para o mestre.
+
+### 3.3 O problema que a unicidade cria, e que a comunidade levanta — `[disputado]`
+
+Se só existe **um** exemplar de cada Gu Imortal no mundo, como um path inteiro floresce quando
+sua função central está trancada num único worm? O caso levantado com mais clareza é o
+enslavement path:
+
+> "there's only 1 beast enslavement gu in the world (...) how does that work when we know
+> there are multiple different enslavement path gu immortals with desolate/ancient desolate
+> beasts enslaved? (...) I don't think it makes logical sense honestly. If we take any other
+> path, i.e fire path for example, there's hundreds of different fire immortal gu, therefore
+> the path can flourish."
+> — <https://www.reddit.com/r/ReverendInsanity/comments/1v2mwtk/how_is_enslavement_path_viable_when_theres_only_1/>
+
+A resposta parcial que a obra oferece (e que o próprio OP antecipa) é que **killer moves e
+métodos alternativos** substituem o Gu específico, e que Gu Imortais "vizinhos" podem ser
+criados variando materiais — o texto mostra alguém planejando produzir *ant Immortal Gu* em
+série trocando o inseto-base ("Even though Immortal Gu are unique, after obtaining red copper
+fire ant, I can still produce ant Gu like red copper water ant or yellow gold fire ant!").
+Ou seja: a unicidade vale por **identidade exata do Gu**, não por *função*. Isso não é
+formulado como regra em lugar nenhum; é inferência a partir de exemplos. `[disputado]`
+
+### 3.4 As "Legends of Ren Zu" como fonte de receitas — `[consenso]` `[verificado no texto]`
+
+A comunidade chama isso de "hack" ou "loophole", e a substância é real, mas a moldura de
+"exploit" é interpretação de fã. O que o texto diz:
+
+- As *Legends* **contêm receitas de Gu Imortal literalmente citáveis por capítulo e seção**:
+  "this Gu was also an Immortal Gu whose recipe was recorded in chapter two section three of
+  《The Legends of Ren Zu》".
+- **Todos os Veneráveis** extraíram algo dela: "the various venerables had a common trait, they
+  all comprehended something from 《The Legends of Ren Zu》 and created their own top tier human
+  path killer moves" (cap. ~2085).
+- E, crucialmente, **a receita das Legends frequentemente não é executável ao pé da letra** —
+  ela é ponto de partida a ser adaptado: "The method in 《The Legends of Ren Zu》 could not be
+  used, but the Gu Immortal could modify the recipe themselves!" / "I do not have wisdom Gu, I
+  used other wisdom path Gu worms in place of it, I can improve upon this aspect."
+
+Ou seja: as Legends são **um livro de mitos que é também um manual de refino**, público e
+conhecido de todos — não um segredo que alguém descobriu. O "exploit" da comunidade é, no
+texto, **saber ler o mito como procedimento** (o que exige attainment, não sorte).
+
+A comunidade produz muito conteúdo derivado disso, quase todo `[especulação]`: p.ex. a tese de
+que as Legends contêm "a receita para o Gu Master mais forte"
+(<https://www.reddit.com/r/ReverendInsanity/comments/1rwz71q/the_ultimate_secret_of_the_legends_of_ren_zu_the/>)
+e a longa série sobre a essência do refinement path
+(<https://www.reddit.com/r/ReverendInsanity/comments/1j0wsot/the_essence_of_refinement_path_secret_of_self_gu/>).
+Ambas são bem escritas e bem citadas — e ambas anunciam abertamente que respondem perguntas
+"that aren't asked or answered in the story".
+
+### 3.5 A teoria de comunidade mais ambiciosa sobre refino — `[especulação]`
+
+O post *"Law Fragments, Failure Probability, & The Origin of Gu Recipes"* tenta derivar **por
+que** o refino falha, ligando estrutura do Gu (seu "Dao map"), o alimento que ele consome e a
+probabilidade de falha aos **law fragments** que o Gu contém. É a tentativa mais séria de
+transformar o refino num sistema fechado.
+<https://www.reddit.com/r/ReverendInsanity/comments/1juz6l8/law_fragments_failure_probability_the_origin_of/>
+
+O próprio autor avisa: *"there is going to be a lot of questions that I'm going to ask and
+answer that aren't asked or answered in the story"*. **Não usar como regra.** É útil como
+inspiração de design, não como cânone.
+
+### 3.6 Land spirits — `[consenso]` sobre o fato, sem debate registrado
+
+Não encontrei debate de comunidade sobre land spirits e refino (a busca retornou zero threads
+relevantes). No texto, o papel é claro e mecânico: o land spirit de uma blessed land
+**guarda receitas de Gu Imortal** e **assiste o refino**, e a força do refino depende da
+immortal essence disponível na blessed land e da sobrevivência do próprio land spirit — se ele
+morre no meio, "the Gu refinement ended in utter failure". Um land spirit liberto também pode
+refinar Gu Imortal por conta própria.
+
+> [!question] Lacuna
+> A ausência de discussão comunitária aqui significa que, neste ponto, **só o texto serve**.
+> Vale marcar como área a ser lida diretamente na obra, sem apoio secundário.
+
+---
+
+## 4. Heaven's Will / Fate Gu
+
+### 4.1 Onde há consenso — `[consenso]`
+
+A comunidade converge em quatro proposições, todas com base textual:
+
+1. **Heaven's Will é uma vontade, não uma pessoa.** Existe desde o início do mundo; é vasta e
+   impessoal. Não é um deus que conversa.
+2. **Ela age por canais limitados**, não onipresentemente: sobretudo durante **tribulações e
+   calamidades** de um Gu Immortal, e por **revelações em sonhos**.
+3. **Fate Gu é o instrumento**, e Heaven's Will é *um dos materiais* usados para refiná-lo — a
+   relação é de ferramenta, não de identidade.
+4. **Otherworldly demons estão fora do alcance do Fate Gu** ("free from Fate Gu's prestige"),
+   e é por isso que representam a ameaça estrutural ao sistema. Mas um otherworldly demon
+   *incompleto* ainda pode ser influenciado por Heaven's Will.
+
+Fonte comunitária: páginas e discussões do wiki Fandom (Heaven's Will, Fate Gu, Heaven's Will
+Gu). **Ressalva metodológica:** o Fandom bloqueou leitura direta; estas quatro proposições
+vêm de trechos indexados por busca e **precisam ser reconfirmadas no texto** antes de virarem
+regra.
+
+### 4.2 O debate real: Heaven's Will tem *agência*? — `[disputado]`
+
+Este é o ponto onde a comunidade se divide e não fecha. As duas leituras:
+
+- **Leitura "força homeostática"**: Heaven's Will não *quer* nada; é um mecanismo de
+  equilíbrio ("taking away surpluses while replenishing deficits") que reage a desequilíbrios.
+  Tribulações são a manutenção automática do sistema, não punição.
+- **Leitura "agente"**: Heaven's Will *escolhe*, arma armadilhas, e usa pessoas como peças.
+  O título de capítulo *"It was all Heaven's Will"* (cap. 1022) e teorias como *"The
+  destruction of Fate Gu was an arrangement of Heaven's Will"* (thread do Fandom) alimentam
+  essa leitura.
+
+A obra usa formulações que sustentam as duas ("Heaven's Will cannot be defied, Heaven's Will
+cannot be anticipated"), e a comunidade sabe disso. **Registro como inconclusivo por mérito:
+a ambiguidade parece deliberada do autor.**
+
+> [!note] Para o design
+> Para uma mesa, essa ambiguidade é um recurso, não um defeito: permite ao mestre operar
+> Heaven's Will ora como regra física, ora como antagonista, sem quebrar cânone. Mas a
+> escolha precisa ser feita e mantida.
+
+### 4.3 Fate escapees — `[disputado]` / mal documentado
+
+O termo aparece na comunidade quase sempre num único contexto: Fate Gu se recupera de danos
+com o tempo, e essa recuperação **acelera exterminando entidades que desafiam o fate** —
+"fate escapees" e zumbis entre elas. Isso vem de resumo do Fandom, não de citação de capítulo
+que eu tenha podido verificar.
+
+Não encontrei nenhuma discussão de comunidade que defina **o que faz alguém virar um fate
+escapee** de forma sistemática. `[especulação]` em tudo além do fato de que existem e de que
+são alvo.
+
+### 4.4 Otherworldly demon: **completo × incompleto** — `[verificado no texto]`
+
+A comunidade usa "otherworldly demon" como se fosse um estado único. **Não é**, e a distinção é
+mecanicamente decisiva. O texto separa dois graus:
+
+| | Otherworldly demon **incompleto** | Otherworldly demon **completo** |
+|---|---|---|
+| Origem | alma vinda de outro mundo | alma de outro mundo **+ corpo artificial** |
+| Pode alterar o passado? | sim — "only otherworldly demons can change the past" (cap. 1076) | sim |
+| Heaven's Will pode influenciar seus pensamentos? | **sim** — "he is not a complete otherworldly demon, so he could still be influenced and manipulated by heaven's will" (cap. 1022) | **não** — "heaven's will cannot influence me" (cap. ~1078) |
+| Heaven's Will consegue detectá-lo? | sim | não — "Only a complete otherworldly demon can be fully undetected by heaven's will" (cap. 1017) |
+| Pode destruir o Fate Gu? | não | sim — "only a complete otherworldly demon can thoroughly destroy fate" (cap. 1015) |
+
+E a ressalva que **quase toda leitura de fã omite**, e que uma designer erraria com certeza:
+
+> "Even though you are a complete otherworldly demon, and heaven's will cannot influence your
+> thoughts, **it can influence others and create situations to eliminate you**." — cap. 1044
+
+Ou seja: imunidade a fate **não é imunidade a consequências**. O que fica fora de alcance é a
+*mente do sujeito*; o mundo inteiro em volta continua sendo material de trabalho do Heaven's
+Will. Isto também esclarece o vetor de ataque padrão do Heaven's Will sobre gente comum: ele
+opera sobre **wills** (vontades/fragmentos de consciência), que "are inferior to souls, they
+can very easily be influenced" (cap. 1022) — não precisa tomar a alma de ninguém.
+
+> [!note] Para o design
+> Este é o modelo de "escapar do destino" da obra: você pode sair da **planilha**, não do
+> **tabuleiro**. Muito mais jogável do que uma imunidade binária.
+
+### 4.5 Otherworldly dao marks e o resto — `[especulação]`
+
+A comunidade liga (corretamente) otherworldly demons ao tema dos **otherworldly dao marks** da
+seção 2.6, e a partir daí especula bastante: que um transmigrado poderia fundar um *path* novo
+a partir de suas marks estrangeiras, que Heavenly Court já recrutou otherworldly demons antes
+sem que nenhum path novo aparecesse, etc.
+<https://www.reddit.com/r/ReverendInsanity/comments/1ushm6p/otherworldly_dao_marks/>
+
+Um post tenta deduzir a composição de um Gu de rank 9 a partir da premissa de que "otherworldly
+demon status" só pode vir de dao marks não originadas no Mundo Gu — raciocínio bem construído
+e **inteiramente dedutivo**.
+<https://www.reddit.com/r/ReverendInsanity/comments/qt13i8/how_can_i_refine_a_supreme_immortal_aperture_gu/>
+
+Debate correlato e honestamente aberto: **o que conta como "corpo artificial"** para completar
+um otherworldly demon? O OP aponta que a obra só reconhece um caso, mas que outros corpos
+igualmente "man-made" existem no mundo e deveriam, pela mesma lógica, servir. Sem resposta
+canônica. `[disputado]`
+<https://www.reddit.com/r/ReverendInsanity/comments/1u885o0/otherworldly_demon_bodies/>
+
+> [!warning]
+> Nada em 4.4 deve entrar numa bíblia de sistema como regra. O status de "otherworldly" é,
+> na comunidade, o mesmo tipo de McGuffin que os otherworldly dao marks (seção 2.6): usado
+> para explicar tudo justamente porque quase nada é definido sobre ele.
+
+---
+
+*(seções 5 a 7 em coleta — este arquivo é atualizado incrementalmente)*

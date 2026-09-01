@@ -1,6 +1,6 @@
 # Notas brutas — Capítulos 860–901 (Volume 4)
 
-> Progresso da leitura: até o cap. 869
+> Progresso da leitura: até o cap. 879
 > Status: em-andamento
 
 ## 1. Mecânicas e regras
@@ -154,3 +154,117 @@ Ver seção 1 ("Contratos/agreements"). Método: aproveitar uma cláusula formal
 - Não ficou claro se a nature Gu refinement technique é uma variante rara ou se outros hairy men Gu Immortals a praticam amplamente — texto sugere ser extremamente rara ("primeira vez que Ben Duo Yi ouviu essa teoria").
 - Motivação e escopo do "grande plano" que Yu Mu Chun e Song Zi Xing preparam (aludido, "dez anos restantes", ligado a Fate/Fate Immortal Gu não completamente destruído) — não detalhado neste bloco; aguardar próximos capítulos.
 - Nenhum dado numérico de % de aptidão para ruptura de rank apareceu neste sub-bloco (860-869) — prioridade da lacuna de LACUNAS.md segue em aberto; monitorar próximos capítulos do bloco.
+
+---
+
+### [Caps. 870-879] Mito de Ren Zu — feathermen e Wild Freedom Gu (cap. 870)
+- Trecho de "The Legends of Ren Zu": Ren Zu tenta convencer feathermen livres a resgatar sua filha; eles se recusam por orgulho da liberdade. Self Gu de Ren Zu, irritado, MORDE Strength Gu e absorve seu poder PERMANENTEMENTE sem custo ("eu tenho minha própria força agora, não preciso pagar preço para usá-la") — reforço da mecânica de Self Gu "devorar" outros Gu para ganho permanente (já visto no caso da Infallible Inheritance, cap. 845).
+- Ren Zu manipula os feathermen por DEPENDÊNCIA em vez de força: constrói casa com comida/calor fartos, atrai os feathermen para se acomodarem (perdem o hábito de caçar/voar, muitos engordam a ponto de não voar mais), depois CORTA o fornecimento para forçá-los a cooperar. Mesmo assim, os feathermen preferem morrer de fome/frio a ceder — TODOS morrem sem ajudar Ren Zu. Ao morrerem, pequenas criaturas luminosas (**Wild Freedom Gu**) saem de seus corpos, mas NÃO PODEM SER CAPTURADAS — Cognition Gu explica: "essas feathermen perseguiram a liberdade selvagem desde o nascimento, mas só encontraram a liberdade após a morte." Reforça tematicamente (e mecanicamente, com um Gu real) a cultura de liberdade radical dos feathermen mostrada nos caps. 864-869.
+
+### Captura de alma vs. destruição de alma — distinção mecânica (cap. 870, reforça caso dos caps. 866-869)
+- Zheng Ling (morto por ataque combinado de poison path + strength path de Fang Yuan) teve o CORPO destruído mas a ALMA preservada — Fang Yuan a capturou secretamente e a guardou na própria immortal aperture.
+- Zhou Zhong (morto por violar o acordo formal, backlash de cristalização) teve a alma COMPLETAMENTE EXTINTA junto com o corpo — nenhuma alma restou para capturar.
+- Regra derivada: o MÉTODO de morte determina se a alma sobrevive ao corpo. Ataques "normais" (killer moves de dano comuns) podem deixar a alma intacta e capturável; a morte por backlash de um killer move de contrato/juramento (information path) destrói corpo E alma por completo.
+- Fang Yuan consegue capturar almas secretamente durante o uso de myriad self porque modificou esse killer move (usando light of wisdom) para incluir vários Gu mortais de soul path junto aos core Immortal Gu de strength path — assim, quando o giant hand mata, a alma ferida é automaticamente puxada e capturada, parecendo aos observadores que a alma foi destruída junto com o corpo. Nem Tai Bai Yun Sheng (sem killer move investigativo de nível imortal) percebeu isso; Lang Ya land spirit SIM percebeu (cap. 875), sugerindo variação na capacidade investigativa entre land spirits/Gu Immortals.
+- Hierarquia de valor confirmada: alma de Gu Immortal >> vontade (will) de Gu Immortal > alma de mortal (cap. 870).
+- Soul path, wisdom path e enslavement path são historicamente "muito próximos" (relação reafirmada) — obter a herança wisdom path de Dong Fang Chang Fan deu a Fang Yuan compreensão adicional (attainment) em soul path e enslavement path também, por tabela.
+
+### Variant humans — mais duas raças com afinidade elemental confirmada (cap. 871)
+- **Minimen** (miniature people): nascem com dao marks de wood path; onde vivem, a vegetação cresce rapidacamente; possuem heranças de cultivo de plantas transmitidas por gerações — raça mais especializada do mundo em agricultura/flora.
+- Padrão consolidado de raças de variant human com afinidade elemental inata: hairy men = refinement path; feathermen = cloud path; minimen = wood path.
+- Caso Fairy Li Shan/Miniscule Mountain: minimen inicialmente resistentes à subjugação; ela usou "cenoura e porrete" — instalou um miniman fantoche como líder e matou 40% da população da tribo sem piedade até subjugá-los. Depois de meio ano vivendo lá, os minimen fizeram o jade yin grass (material rank 7, antes murchando) se expandir num campo miniatura cheio de vitalidade.
+
+### Materiais imortais raros — 3 encomendas de Old Ancestor Xue Hu (cap. 871)
+- **Concealing heaven dust** (rank 8): só existe em yellow heaven, um dos nove céus imemoriais — mas yellow heaven já foi destruído pelos filhos de Ren Zu; só resta buscá-lo em "fragment worlds" (mundos-fragmento) de yellow heaven, que precisam ser grandes/ricos o bastante em dao marks para permitir exploração. Fairy Li Shan prefere pagar caro em treasure yellow heaven a gastar tempo/esforço nisso.
+- **Rock dragon eye** (rank 7): olho do rock dragon, um ancient desolate beast feito de rochas. Rock dragons nascem quando raios atingem cemitérios de rockmen (corpos enterrados acumulados ao longo do tempo atraem o raio). Sem sentido de dor, defesas extremamente sólidas; tática de guerra: rockmen podem se sacrificar tocando o ferimento do rock dragon para se CONVERTEREM em parte dele, curando-o instantaneamente. Eram bestas de guerra centrais nas eras Immemorial/Remote Antiquity, quando variant humans dominavam o mundo. Hoje raríssimos (tribos rockmen quase extintas, maioria escravizada) — por isso rock dragon eye é de fato MAIS DIFÍCIL de obter que o rank 8 concealing heaven dust.
+- **Elephant tusk flame** (rank 7): pequena chama (tamanho de ervilha) que queima na presa de um ancient desolate beast elephant (existência equivalente a Gu Immortal rank 7) após sua morte; não ocorre sempre; apaga ao contato com ar externo assim que termina de queimar a presa. É o mais "fácil" dos três, ainda assim raro no mercado de treasure yellow heaven.
+- Uso confirmado de rock dragon eye em massa: Heavenly Court consome grandes quantidades no ritual "Recovery of Fate" (cap. 871, 879).
+
+### Heavenly Court — ritual "Recovery of Fate" (caps. 871, 879)
+- Conduzido por 4 Gu Immortals rank 8: Heaven Overseeing Tower Lord, Bai Cang Shui, Lian Jiu Sheng, Bi Chen Tian, posicionados nos 4 pontos cardeais ao redor do rank 9 Immortal Gu House Heaven Overseeing Tower.
+- Usa uma "refinement path Gu formation" — mimetismo do rank 8 Immortal Gu House de Long Hair Ancestor, Refinement Cauldron, criado por um antecessor do Heavenly Court a partir de registros históricos antigos. Processa imortal materiais (ex.: grandes quantidades de rock dragon eyes) a velocidade absurda.
+- **Não pode ser elevado a Immortal Gu House de verdade** porque falta o core Immortal Gu específico — o Refinement Cauldron ORIGINAL ainda existe, dentro de Lang Ya blessed land, com todos os seus core Immortal Gu intactos (reforça regra: Immortal Gu são únicos/irrepetíveis; uma mímica sem o núcleo original nunca alcança o status pleno).
+- Já consumiu METADE dos success dao marks obtidos da Infallible Inheritance (30 marcas obtidas — ver notas do bloco anterior) neste ritual, até o momento observado (marco de progresso temporal).
+- Custo de acesso a essa Gu formation (mencionado como lembrete/dissuasão a uma GI tentada a distrair-se): 30.000 pontos de contribuição.
+- Revelação histórica: os rank 8 Immortal Gu Houses de Long Hair Ancestor (Eighty-Eight True Yang Building e Refinement Cauldron) só foram possíveis porque, além de ele ser refinement path SUPREME GRANDMASTER (um de apenas 3 na história — Old Eccentric Tian Nan, Old Immortal Kong Jue, Long Hair Ancestor, cf. notas anteriores), ele tinha um amigo wisdom path GREAT GRANDMASTER, Immortal Yi Yan (criador da "Prophecy of Three Venerables", previsões muito precisas) — insight estrutural: criar um Immortal Gu House de altíssimo nível parece exigir parceria entre um supreme/great grandmaster de refinement path E um grandmaster de wisdom path.
+- **Revelação de racismo estrutural do Heavenly Court**: Long Hair Ancestor NUNCA foi recrutado pelo Heavenly Court apesar de ser um dos 3 maiores refinadores da história, porque ele era hairy man (variant human) — Heaven Overseeing Tower Lord confirma explicitamente: "Heavenly Court é o santuário de NÓS HUMANOS... como poderíamos deixar esses variant humans inferiores entrar." Regra de mundo: Heavenly Court exclui CATEGORICAMENTE qualquer variant human de ingressar, independentemente do nível de poder/attainment.
+
+### Twelve Wave Cloud Confusion Formation — mecânica de defesa de blessed land (caps. 872-873, 878)
+- Gu formation (não é battlefield killer move / quasi blessed land — ver definição abaixo) ativada quando Lang Ya blessed land é atacada. 12 "cloud buildings" (Immortal Gu Houses mortais) servem como núcleos/formation cores da formação.
+- Efeito: névoa densa e total (visão zero) que confunde os 5 sentidos do invasor — perde noção de direção, pode andar em círculos sem perceber. Só um killer move IMORTAL investigativo permite navegar; sem ele, é pura sorte encontrar um cloud building.
+- Os 12 cloud buildings NÃO podem ser movidos depois que a formação é montada — por isso um investigativo imortal sempre pode achá-los eventualmente (não é aleatório para quem tem a ferramenta certa); mas sem essa ferramenta, nem a sorte ajuda.
+- Em teoria, a formação isola/bloqueia killer moves de information path rank 6-7 dentro dela, impedindo comunicação/pedido de reforço entre invasores (mesmo hole earth Gu configurado previamente é inutilizado) — mas os invasores neste ataque conseguiram uma TÉCNICA imortal de information path que transmite informação MESMO dentro da formação, quebrando esse isolamento (ver abaixo).
+- Motivo de a formação não ser elevada a um battlefield killer move completo (quasi blessed land): criar uma battlefield killer move exige ENTALHAR NOVOS dao marks na terra; esses novos dao marks entrariam em conflito/incompatibilidade com os dao marks já existentes do mundo, DANIFICANDO a própria blessed land — por isso o land spirit evitou essa opção, usando só a formação de névoa (que usa dao marks já existentes) como alternativa "quase no limite" do que uma Gu formation consegue fazer.
+- Vazamento de segurança revelado: Lang Ya land spirit vendia Gu Immortals capturados como escravos após "limpar" suas memórias (não matá-los) — mas isso permitiu que informações eventualmente vazassem (provavelmente um Gu Immortal wisdom path entre os ex-escravos ou seus compradores deduziu detalhes da formação a partir de pistas indiretas). Land spirit se arrepende: deveria tê-los matado em vez de vendê-los.
+- Regra confirmada: dentro do território ativo da formação/blessed land sitiada, invasores SÓ PODEM usar Immortal Gu e immortal killer moves — Gu mortal comum não funciona ali (efeito específico dessa defesa, não regra universal de todas as blessed lands).
+
+### Battlefield killer move / "quasi blessed land" — definição (cap. 872)
+- Nome alternativo para immortal battlefield killer moves: "quasi blessed lands". Ao serem ativados, replicam temporariamente um grande número de dao marks, criando um campo de batalha único e temporário isolado do mundo.
+- Dentro de um battlefield killer move, normalmente Gu Immortals não conseguem usar Gu de information path para pedir reforços (não é regra absoluta, "nada é absoluto neste mundo"); battlefield killer moves superiores também podem restringir espaço, impedindo fuga do inimigo.
+- Raríssimos — a maioria dos Gu Immortals não possui um. Exemplo confirmado: Pear Orchard, de Fairy Li Shan. Fang Yuan não tem um (nem tinha na vida passada — foi cercado e teve que se autodetonar ao obter seu primeiro Immortal Gu). Hei Lou Lan e Tai Bai Yun Sheng também não têm (avançaram a Gu Immortal recentemente demais).
+
+### Lang Ya blessed land — lore e defesas (caps. 872, 878-879)
+- Na vida passada de Fang Yuan, resistiu a SETE ondas de invasores Gu Immortal; na sétima onda, até Feng Jiu Ge morreu ali. Desta vez, é apenas a QUARTA onda — Fang Yuan deduz que suas próprias ações alteraram significativamente a estrutura de poder de Northern Plains, atraindo um ataque mais cedo/mais forte que na timeline original.
+- Estrutura: 12 cloud buildings na superfície, cada um escondendo uma desolate beast por baixo como defesa "mais externa"; a defesa VERDADEIRA são os inúmeros Immortal Gu deixados por Long Hair Ancestor (ex-dono, refinement path supreme grandmaster, refinou oficialmente 38 Immortal Gu na vida — incluindo rank 7 e rank 8 — "mais de 100" contando rumores/registros não oficiais).
+- **Heavenly Essence Treasure Imperial Lotus**: recurso da blessed land que produz immortal essence continuamente MESMO SEM dono vivo — permite ao land spirit usar Immortal Gu/killer moves livremente na defesa (blessed lands sem dono normalmente não têm essa autonomia de recursos).
+- **Refinement Cauldron** (rank 8 Immortal Gu House, 2º de Long Hair Ancestor, além de Eighty-Eight True Yang Building): capaz de FORÇAR o refino dos Immortal Gu de OUTROS Gu Immortals que estejam presos ali — combo letal: restringe invasores a usar só Immortal Gu/immortal killer moves E, dado tempo suficiente, refina à força esses mesmos Immortal Gu, destituindo o poder do invasor. Explica como Lang Ya blessed land conseguiu capturar Gu Immortals vivos no passado e matar até Feng Jiu Ge (na timeline anterior). Limitação: precisa de "um período de tempo" para funcionar — não é instantâneo; contra um ataque rápido e implacável (Qin Bai Sheng), não há tempo hábil para ativá-lo.
+
+### Land Spirit com dupla obsessão — revelação de Lang Ya land spirit (cap. 879, MUITO IMPORTANTE)
+- Quando um Gu Immortal morre, pode deixar um land spirit ligado à sua immortal aperture. Se o falecido tinha DUAS obsessões de força IGUAL, nenhuma conseguindo suprimir a outra, elas se FUNDEM numa única posição de land spirit — mas o land spirit resultante pode alternar entre as duas "personas"/obsessões conforme as circunstâncias (aqui, sob pressão extrema de batalha).
+- Long Hair Ancestor (dono original de Lang Ya blessed land) morreu com 2 obsessões: (1) obsessão de refinement path, ligada a space escape Immortal Gu e a um "Great Dream Immortal Venerable" (referência ainda não explicada); (2) obsessão RACIAL — supremacia hairy man — porque Long Hair Ancestor era secretamente um hairy man (variant human), oprimido/nunca reconhecido pelos humanos apesar de seu talento.
+- A persona "fraca" (aparência humana idosa, voz gentil) que Fang Yuan conhecia era a obsessão de refinement path/space escape — sua condição de reconhecimento de novo dono era resolver por que space escape Immortal Gu não conseguia entrar no Space Cave.
+- Sob pressão extrema (achando que a blessed land ia cair para Qin Bai Sheng), a persona alternativa emerge: hairy man musculoso, agressivo, com condição de reconhecimento TOTALMENTE diferente — "qualquer hairy man que trouxer TODAS as raças (incluindo humanos) à submissão como escravos dos hairy men se torna o novo dono". Fang Yuan (humano) é permanentemente desqualificado dessa condição.
+- Mecânica geral derivada: land spirits com obsessão dupla de origem podem ter MÚLTIPLAS condições de reconhecimento de dono mutuamente exclusivas, uma por persona/obsessão: satisfazer uma não satisfaz a outra.
+- Reforça também: Heavenly Court exclui variant humans categoricamente (ver acima) — motivo real de Long Hair Ancestor nunca ter sido recrutado apesar do poder.
+
+## 2. Gu catalogados (continuação)
+| Nome | Rank | Path | Efeito | Alimento | Cap. |
+|---|---|---|---|---|---|
+| Wild Freedom Gu | — | — | Emerge de feathermen que morrem sem nunca ceder sua liberdade; não pode ser capturado | — | 870 |
+| Ice Heart Immortal Gu | 6 | Ice path | Núcleo de um conjunto completo de killer moves (ataque/defesa/movimento/cura); emprestado por Qin Bai Sheng a Xue Song Zi | — | 874 |
+| Star Mark / Star Shoot / Starlight Immortal Gu | Immortal | Star path | Trio de core Immortal Gu herdados de Star Lord Wan Xiang; alimentam Star Cloud Grindstone, Star Snake Rope, Six Illusion Star Bodies, Position Star Swap | — | 876-877 |
+| Refinement Cauldron | 8 (Immortal Gu House) | Refinement path | Immortal Gu House de Long Hair Ancestor; força o refino dos Immortal Gu de outros Gu Immortals presos em sua área, drenando o poder deles | — | 878-879 |
+
+## 3. Mundo e sociedade (continuação)
+
+- Fragment worlds de yellow heaven: única fonte de concealing heaven dust (rank 8), já que o próprio yellow heaven foi destruído pelos filhos de Ren Zu (cap. 871).
+- Rock dragons: ancient desolate beasts feitos de pedra, nascidos de cemitérios de rockmen atingidos por raios; bestas de guerra icônicas das eras Immemorial/Remote Antiquity; hoje raríssimos (cap. 871).
+- Inkman City (Northern Plains): assentamento de inkmen (variant humans), sobrevive apenas por ter Gu Immortals líderes protegendo-o há gerações (atualmente Mo Tan Sang, "Inkman King"); revelado neste bloco que a cidade escondia um SEGUNDO Gu Immortal inkman (idoso, nome não dado) como carta na manga, morto por Qin Bai Sheng em 1 golpe (caps. 878-879). Regra geral: variant humans não conseguem formar tribos médias/grandes sem proteção de um Gu Immortal, pois atrairiam caçadores de escravos em massa — só sobrevivem dispersos em pequenos grupos OU sob proteção de um Gu Immortal forte.
+- Zombie Alliance (Northern Plains) aumentou drasticamente a vigilância contra zumbis imortais desconhecidos após a identidade de Sha Huang (Fang Yuan disfarçado) ser exposta — infiltração pelo método antigo não é mais viável (cap. 870, 872).
+- Sacred Feather City / green heaven fragment world: origem remonta à Late Antiquity Era, era de Spectral Soul Demon Venerable (cap. 870) — idade e contexto histórico do assentamento confirmados.
+
+## 4. Economia e vida cotidiana (continuação)
+
+- Old Ancestor Xue Hu (Snowy Mountain) distribui missões de coleta de materiais raríssimos aos "peak owners" (Fairy Li Shan entre eles) — 3 materiais desta vez, dificuldade crescente citada como tendência (cap. 871).
+- Custo de acesso à Gu formation de recuperação de Fate no Heavenly Court: 30.000 pontos de contribuição (cap. 879).
+- Qin Bai Sheng "empresta" Immortal Gu a subordinados/aliados em missões de risco, condicionado a (a) sucesso da missão = doação permanente do Gu, (b) uso de método de rastreamento imortal no tomador do empréstimo como salvaguarda contra fuga — modelo de "contrato de empréstimo entre demonic path" (cap. 874-875).
+
+## 5. Estudos de caso mecânicos (continuação)
+
+### Caso: emboscada econômica contra Xue Song Zi (caps. 874-875)
+Fang Yuan se esconde DENTRO do corpo de uma desolate beast aliada (yellow jade lion) usando vaguely familiar face para escapar da varredura investigativa de Xue Song Zi (que já havia escaneado o leão 3 vezes achando que só podia haver um Gu selvagem ali, não um Gu Immortal disfarçado). Deixa a besta lutar e perder força normalmente; quando Xue Song Zi se distrai tentando capturar a besta viva (para revender no mercado), Fang Yuan sai com um golpe de myriad self giant hand e o mata em um só movimento. Recursos usados: quase nenhum (mortal killer moves/besta descartável) vs. o custo que teria sido enfrentá-lo de frente gastando muita green grape immortal essence contra um oponente com Immortal Gu completo. Lição de mundo explicitada pelo próprio Fang Yuan: "todo tipo de luta é uma extensão de conflitos econômicos" — batalhas entre Gu Immortals se avaliam em termos de capital investido vs. lucro obtido.
+
+### Caso: teste de star path sob disfarce contra dois rank 7 (caps. 876-878)
+Fang Yuan, disfarçado de um Gu Immortal star path fictício ("Xing Xiang Zi") via vaguely familiar face, usa o combate contra He Lang Zi (transformation path) e Hui Feng Zi (movimento) para TESTAR deliberadamente seu kit de star path recém-herdado, evitando usar true solid bat wings (que exporia sua natureza real de strength path). Método: combina Star Cloud Grindstone (armadilha/moedor) + Star Snake Rope (amarração) para prender um inimigo veloz transformado; quando isso falha, usa Six Illusion Star Bodies (clones a custo de mortal/primeval essence, forçando o inimigo a gastar immortal essence repetidamente para se defender de cada clone) + Position Star Swap (troca de posição instantânea com um clone) para sustentar vantagem posicional. É neutralizado quando Hui Feng Zi usa um killer move investigativo para expor o corpo real entre os clones e o marca com outro killer move (pena verde), permitindo ataques precisos dos aliados. Fang Yuan bate em retirada usando Fixed Immortal Travel (3 respirações) ao perceber que o poder de Qin Bai Sheng está fora de alcance.
+
+## 6. Glossário (continuação)
+
+- Wild Freedom Gu — Gu que emerge de feathermen mortos que nunca cederam sua liberdade; incapturável.
+- Battlefield killer move / quasi blessed land — immortal killer move raro que replica dao marks temporariamente para criar um campo de batalha isolado.
+- Twelve Wave Cloud Confusion Formation — Gu formation defensiva de Lang Ya blessed land, névoa desorientadora com 12 cloud buildings como núcleos.
+- Heavenly Essence Treasure Imperial Lotus — recurso de Lang Ya blessed land que gera immortal essence autonomamente, mesmo sem dono.
+- Refinement Cauldron — rank 8 Immortal Gu House de Long Hair Ancestor, força o refino de Immortal Gu alheios.
+- Concealing heaven dust, rock dragon eye, elephant tusk flame — materiais imortais raros (rank 7-8) encomendados por Old Ancestor Xue Hu.
+- Minimen — variant humans com dao marks de wood path inatos, mestres em cultivo de plantas.
+- Immortal Yi Yan — wisdom path great grandmaster histórico, criador da "Prophecy of Three Venerables", parceiro de Long Hair Ancestor na criação de Immortal Gu Houses.
+- Prophecy of Three Venerables — obra de previsão criada por Immortal Yi Yan (não detalhada ainda).
+- Star Cloud Grindstone, Star Snake Rope, Six Illusion Star Bodies, Position Star Swap — kit de immortal killer moves star path herdados de Star Lord Wan Xiang.
+- Wind Escape, Death Wind Flying Blade — immortal killer moves de movimento/ataque de Hui Feng Zi (top-tier movement em Northern Plains).
+- Fragrant Sorcerer Yin Statue Wolf, Lightning Flash Giant Wolf — formas de ancient desolate beast (rank 7) de transformação de He Lang Zi.
+
+## 7. Dúvidas e lacunas (continuação)
+
+- "Great Dream Immortal Venerable" — mencionado como ligado à obsessão de refinement path de Long Hair Ancestor; identidade/relação não explicada ainda.
+- Natureza exata da técnica de information path imortal que quebrou o isolamento da Twelve Wave Cloud Confusion Formation não foi detalhada — só se sabe que é "nível imortal" e rara.
+- Poder real de Qin Bai Sheng ainda incerto — testemunhas avaliam como "nível Feng Jiu Ge", pode ser rank 7 excepcional ou rank 8 oculto; não confirmado neste bloco.
+- Ainda nenhum dado numérico de % de aptidão para ruptura de rank neste sub-bloco (870-879) — lacuna prioritária de LACUNAS.md segue sem resposta; continuar monitorando.

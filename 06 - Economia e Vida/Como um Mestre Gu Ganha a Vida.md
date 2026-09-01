@@ -55,7 +55,8 @@ natureza e podem ser domados.
 
 - **Renda:** baixa e irregular no começo — uma missão de coleta simples rende algumas
   pedras. Uma folha de vitalidade colhida e revendida rende dezenas.
-- **Risco:** alto e mal remunerado. Feras territoriais, marés de bestas e a competição
+- **Risco:** alto e mal remunerado. Feras territoriais,
+  [[Bestas Gu e Reis Fera|marés de bestas]] e a competição
   com outros caçadores.
 - **Salto de escala:** matar um rei de feras (o exemplar dominante de uma espécie, que
   carrega um Gu simbionte) muda o patamar de um caçador de uma vez só.
@@ -160,7 +161,11 @@ Modalidades documentadas:
   distintos**: um menor por informação, um maior pela morte ou captura. Na prática são
   pouco eficazes contra alvos disfarçados, porque a distância e o viés de "não vai
   acontecer comigo" desestimulam a caçada.
-- **Contratos de assassinato**, pagos em pedras e em fichas de autoridade.
+- **Contratos de assassinato**, pagos em pedras e em **fichas de autoridade** — uma segunda
+  moeda que o dinheiro não compra: ela representa permissão política, e é o que destrava
+  itens restritos, zonas internas e serviços de elite aos quais nenhuma quantia de pedras
+  daria acesso. Ver [[Mercados e Leilões]], onde a escada completa de fichas está
+  descrita, e [[Visão Geral da Economia]].
 - **Serviço militar**, em regiões que o têm: acumular Gu de determinada categoria é a via
   formal e reconhecida de promoção na hierarquia militar.
 - **Guerreiros da morte** — corpos de combatentes doutrinados desde jovens para
@@ -209,9 +214,13 @@ O jogo de azar profissional do mundo Gu. Gu famintos ou feridos às vezes hibern
 fossilizam dentro de rocha; a pedra fechada é vendida **sem que ninguém saiba o que há
 dentro** — os métodos de detecção disponíveis ou não funcionam ou matariam o Gu.
 
-- **As probabilidades são péssimas e conhecidas:** cerca de nove em cada dez pedras são
-  maciças, e entre as restantes a maioria guarda um Gu já morto. Um especialista com
-  séculos de prática acerta algo como duas em dez.
+- **As probabilidades são péssimas e conhecidas** — mas as duas taxas que circulam
+  **não se comparam entre si**, e confundi-las faz o minijogo parecer impossível ou
+  parecer fácil, conforme o erro. Sobre a **população inteira** de pedras à venda, cerca de
+  nove em cada dez são maciças, e entre as restantes a maioria guarda um Gu já morto.
+  Sobre as pedras que um **especialista escolheu** depois de examiná-las, ele acerta algo
+  como duas em dez. Os 20% não contradizem os 10%: eles são o resultado de uma seleção
+  prévia, e a diferença entre os dois números **é exatamente o valor da perícia**.
 - **Preços por categoria:** sucata, baixo, médio, alto e super — de dezenas de pedras a
   centenas de milhares.
 - **Como se acerta mais:** heurísticas de tamanho relativo, textura, formato e padrão
@@ -224,10 +233,15 @@ dentro** — os métodos de detecção disponíveis ou não funcionam ou mataria
   refino dele muito mais fácil.
 
 > [!note] Para o design
-> A aposta de pedra é um minijogo pronto: custo fixo, tabela de resultados, perícia que
-> melhora as chances mas nunca as garante, e uma segunda perícia (abrir) que pode
-> estragar o prêmio já ganho. E tem um uso social embutido, descrito abaixo, que rende
-> intriga sozinho.
+> A aposta de pedra é um minijogo quase pronto: custo por categoria, perícia que melhora as
+> chances mas nunca as garante, e uma segunda perícia (abrir) que pode estragar o prêmio já
+> ganho. E tem um uso social embutido, descrito adiante, que rende intriga sozinho.
+>
+> Falta-lhe uma peça, e ela é decisiva: **o prêmio**. Sem saber o que sai de dentro da
+> pedra, o minijogo é uma máquina de perder dinheiro — e a obra não publica essa tabela. A
+> reconstrução do lado do prêmio, com a conta de se compensa ou não, está em
+> [[Aposta de Rochas]], que é a nota dona deste assunto. Esta seção aqui é só o resumo pelo
+> ângulo da renda.
 
 ### 10. Ocupações de fronteira (e o que elas custam)
 
@@ -250,24 +264,48 @@ por que a sociedade ainda assim consegue mantê-las minoritárias.
 
 ## Tabela de referência: ordens de grandeza de renda
 
-| Fonte de renda | Faixa típica (pedras primevas) |
-|---|---|
-| Subsídio de estudante de academia | 3 por semana |
-| Cargo de monitor de turma | 10 por semana (vice: 5) |
-| Missão simples de coleta | 2 a 6 |
-| Prêmio por marco na academia | 20 a 30 |
-| Venda de consumível cultivado (por unidade) | 50 a 80 |
-| Aluguel de imóvel (mensal, como locador) | 8 a 25 |
-| Salário de ancião de clã | 100 por semana (300 em crise) |
-| Recompensa por afugentar um invasor de rank alto | 500 |
-| Mandado de captura (informação / morte) | 1.000 / 5.000 a 8.000 |
-| Luta de arena de bom público | milhares, mais um Gu do perdedor |
-| Carreira de arena bem-sucedida (ano e meio) | ~1.000.000 |
-| Extorsão por um segredo existencial de clã | milhões |
+Esta é a tabela de onde sai a recompensa de uma sessão. As três colunas da direita são o
+que a torna utilizável: **quem** consegue aquilo, **quanto tempo** custa e, portanto, se
+compensa. Sem elas os números não dizem nada — "milhares por luta de arena" é ótimo para um
+rank 3 e suicídio para um rank 1.
 
-Compare com o lado da despesa: custo de vida diário de 3 a 5; reserva mínima de um
-itinerante independente por volta de 10.000; um Gu de rank 3 no mercado entre 1.000 e
-10.000; um de rank 4 entre 10.000 e 100.000.
+| Fonte de renda | Faixa típica (pedras primevas) | Rank típico de quem executa | Tempo gasto |
+|---|---|---|---|
+| Subsídio de estudante de academia | 3 por semana | pré-rank 1 (aluno de 15 anos) | passivo |
+| Missão simples de coleta | 2 a 6 | rank 1 | dias |
+| Aluguel de imóvel (mensal, como locador) | 8 a 25 | qualquer; exige capital prévio | passivo |
+| Cargo de monitor de turma | 10 por semana (vice: 5) | pré-rank 1 | passivo, com dever |
+| Prêmio por marco na academia | 20 a 30 | pré-rank 1 | por conquista |
+| Venda de consumível cultivado (por unidade) | ver [[Pedras Primevas]] | rank 1–2, ou mortal a serviço de um clã | semanas de cultivo |
+| Salário de ancião de clã | 100 por semana (300 em crise) | **rank 3** — é o cargo | passivo, vitalício |
+| Recompensa por afugentar um invasor de rank alto | 500 | rank 3–4, ou um grupo de cinco coordenado | um confronto |
+| Mandado de captura (informação / morte) | 1.000 / 5.000 a 8.000 | rank 2–3 para informação; rank 4 para execução | semanas a meses de caçada |
+| Luta de arena de bom público | milhares, mais um Gu do perdedor | **rank 3+**; abaixo disso não se sobrevive ao circuito | uma luta a cada dez dias |
+| Carreira de arena bem-sucedida | ~1.000.000 | rank 4, lutador de elite | **ano e meio** de circuito contínuo |
+| Extorsão por um segredo existencial de clã | milhões | qualquer rank — é informação, não força | uma negociação, e inimizade vitalícia |
+
+As colunas de rank e de tempo são `inferido`: a obra registra os valores em cena e quase
+nunca declara o rank de quem os ganhou nem quanto durou. As atribuições acima são a leitura
+deste vault, feitas para dar à tabela a utilidade que ela deve ter — trate-as como ponto de
+partida de balanceamento, não como cânone.
+
+> [!note] Para o design — a curva que essa tabela desenha
+> Repare no que acontece quando você lê a coluna do rank de cima para baixo: **a renda não
+> cresce de forma contínua, ela salta no rank 3**. Do rank 1 ao 2, um personagem ganha
+> unidades e dezenas de pedras enquanto gasta de três a cinco por dia — ou seja, ele
+> trabalha o mês inteiro para quase empatar. No rank 3 abrem-se de uma vez o salário de
+> ancião, a arena e as recompensas de centenas, e a renda passa a superar folgadamente a
+> despesa.
+>
+> Isso dá ao seu sistema uma **fase de escassez genuína nos dois primeiros ranks**, que é
+> exatamente onde a maioria das campanhas se passa, e uma virada econômica clara como
+> recompensa por chegar ao rank 3. Se você quiser encurtar essa fase, o botão a girar é a
+> recompensa das missões de clã; se quiser alongá-la, é a despesa diária.
+
+Compare com o lado da despesa: custo de vida diário de 3 a 5 pedras; reserva mínima de um
+itinerante independente por volta de 10.000. Os preços de Gu por rank e todos os demais
+valores estão em [[Pedras Primevas]], que é a nota-fonte de preços — esta tabela cobre
+apenas o lado da **renda**, e onde as duas divergirem, a de lá vence.
 
 ## A camada imortal: o que muda no rank 6
 
@@ -275,9 +313,22 @@ Ao ascender, o cultivador troca de economia inteira e as ocupações mudam de na
 de *serviços prestados* para *ativos operados*. As fontes de renda documentadas de um
 imortal-empresário incluem monopólio de um produto proprietário, produção em massa de
 um Gu mortal barato, criação de comida de Gu para vender às grandes potências, e
-exploração de pontos de recurso dentro do próprio território pessoal. Um portfólio
-maduro rende mais de mil unidades da moeda imortal por mês. Os detalhes, o câmbio e as
-armadilhas estão em [[Economia Imortal]].
+exploração de pontos de recurso dentro do próprio território pessoal. Um portfólio maduro
+rende **mais de mil pedras de essência imortal por mês** — a moeda da camada imortal,
+explicada em [[Economia Imortal]], onde estão também o câmbio e as armadilhas.
+
+> [!warning] Mil por mês é renda de magnata, não de imortal comum
+> Essa cifra precisa de contexto ou engana. Confronte-a com a reserva típica por rank: um
+> rank 6 comum tem **algumas centenas** de pedras de essência imortal no patrimônio
+> **inteiro**. Um portfólio que rende mil por mês, portanto, produz em trinta dias várias
+> vezes tudo o que um imortal recém-ascendido possui na vida.
+>
+> Não há contradição: é que os dois números descrevem pessoas diferentes. "Mais de mil por
+> mês" é a renda de um **imortal-empresário maduro** — alguém de rank 7 ou 8 que passou
+> séculos montando monopólios e territórios produtivos, e que é raro. A reserva de
+> "algumas centenas" é a de um **rank 6 típico**, que é a esmagadora maioria. Ao calibrar
+> uma mesa, use o segundo como padrão e o primeiro como o NPC que os personagens querem
+> se tornar — ou saquear.
 
 Duas rotas continuam abertas e são as mais parecidas com "trabalho":
 

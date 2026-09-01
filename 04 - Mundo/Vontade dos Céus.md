@@ -81,25 +81,26 @@ A regra tática mais valiosa do domínio inteiro, e a que transforma um antagoni
 
 `conhecimento: segredo` — este é o conteúdo mais diretamente utilizável da nota.
 
+Antes da lista, a premissa que a organiza, porque ela é dura e o texto é explícito quanto a ela: **não existe evasão permanente.** Fugir, esconder-se e ocultar-se são medidas paliativas; a única solução estrutural contra este antagonista é ficar forte o bastante para atravessar o que vier. Tudo o que segue são táticas para **sobreviver até lá** — e é justamente por isso que elas são jogáveis, enquanto "elevar o próprio cultivo" não é uma defesa que alguém escolha numa cena, é o objetivo do personagem.
+
+Feita essa ressalva, as seis defesas reais:
+
 **1. Velocidade e rota imprevisível — a defesa canônica.**
 Orquestrar uma emboscada exige **tempo** para alinhar múltiplos seres e circunstâncias. Portanto: mover-se rápido, em rota curva, nunca em linha reta até o destino, nunca voltando por onde já se passou. Isso impede que a Vontade do Céu deduza para onde o alvo está indo e monte a armadilha a tempo. É uma regra de perseguição pronta para mesa, e a mais canônica do cenário.
 
-**2. Elevar o próprio cultivo — a defesa real de longo prazo.**
-Fugir e se esconder são medidas paliativas. A única solução estrutural é ficar forte o bastante para atravessar o que vier. O texto é explícito nisso, e é uma escolha temática forte: contra este antagonista, não existe estratégia de evasão permanente.
-
-**3. Ficar dentro do próprio mundo privado.**
+**2. Ficar dentro do próprio mundo privado.**
 Mundos pequenos são isolados e opacos: dedução externa contra quem está lá dentro falha automaticamente. **Mas há uma brecha crítica** — se houver Vontade do Céu guardada *dentro* da abertura (num objeto capturado, num ser marcado), a ressonância entre a vontade interna e a externa **denuncia a posição aproximada do portador**. Carregar um troféu do céu é carregar um rastreador.
 
-**4. Ocultação absoluta.**
+**3. Ocultação absoluta.**
 Existe pelo menos um método lendário que torna o portador simplesmente invisível à sondagem do céu — sem sondagem, sem tribulação alguma. O preço é permanente e severo: quem nunca é sondado nunca ganha marcas de dao por essa via, ou seja, troca imortalidade tranquila por progressão travada.
 
-**5. Ler o roteiro em vez de resistir a ele.**
+**4. Ler o roteiro em vez de resistir a ele.**
 Existem métodos que deduzem com precisão o **conteúdo** da próxima tribulação, mirando a raiz (as marcas do caminho do céu) em vez do sintoma. Não reduzem o dano — **removem a imprevisibilidade**, que o texto descreve como o maior perigo de qualquer tribulação. Existe também o contrário: uma "rede de pesca" de marcas do caminho do céu que cobre o corpo, muda de forma continuamente e distorce qualquer tentativa alheia de deduzir você, consumindo-se conforme resiste.
 
-**6. Redirecionar em vez de enfrentar.**
+**5. Redirecionar em vez de enfrentar.**
 Documentado no cenário: desviar o desastre periódico de um mundo privado para o mundo externo, transformando a própria tribulação no clima de uma região inteira. Também: limitar por formação mágica a *forma* que a tribulação pode assumir, forçando-a sempre a se manifestar do jeito que você sabe combater. E: interferir na criação do desastre com métodos do caminho da sorte, enfraquecendo-o por "mudança favorável".
 
-**7. Diluir a supressão coletivamente.**
+**6. Diluir a supressão coletivamente.**
 A regra de mais longo alcance de todas: **quanto mais amplamente espalhado o conhecimento e as heranças entre os cultivadores em geral, mais diluído fica o esforço de supressão da lei sobre qualquer indivíduo** no momento crítico. Democratizar o poder enfraquece o guarda-costas do equilíbrio. É a única defesa que não é individual — e a única que uma facção inteira pode perseguir como projeto.
 
 > [!note] Para o design

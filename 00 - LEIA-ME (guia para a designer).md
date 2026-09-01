@@ -50,7 +50,13 @@ Antes de tudo, saiba que a base está dividida por **quem pode saber o quê**:
 
 ## Por onde começar
 
-Se você tem pouco tempo, **estas cinco notas dão a fundação**, nesta ordem:
+**Leitura zero, de dez minutos:** [[Glossário EN-PT]]. Passe os olhos antes de qualquer outra
+coisa. Este mundo tem um vocabulário próprio — abertura, essência primeva, Gu, rank, caminho,
+attainment, dao marks — e as notas de fundação usam esses termos entre si. O glossário não
+precisa ser decorado; basta você ter visto as palavras uma vez para que a primeira nota deixe
+de parecer um texto em código.
+
+Feito isso, **estas cinco notas dão a fundação**, nesta ordem:
 
 1. [[Visão Geral do Cultivo]] — como uma pessoa comum vira alguém com poder, e o que
    limita esse crescimento.
@@ -63,9 +69,21 @@ Se você tem pouco tempo, **estas cinco notas dão a fundação**, nesta ordem:
 5. [[Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e
    demoníaco.
 
-Depois disso, [[Tabelas de Referência Rápida]] concentra todos os números do sistema
-num lugar só, e [[Estudos de Caso Mecânicos]] mostra as regras em ação, com casos reais
-da obra descritos mecanicamente.
+Depois disso, [[Estudos de Caso Mecânicos]] mostra as regras em ação, com casos reais da obra
+descritos mecanicamente, e [[Bestas Gu e Reis Fera]] cobre o que um grupo de personagens
+iniciantes de fato encontra e caça no dia a dia.
+
+> [!important] Uma nota manda em todas as outras: [[Tabelas de Referência Rápida]]
+> Ela é a **fonte única e soberana dos números do sistema**. Toda grandeza — graus de aptidão,
+> limiares de ruptura, faixas de dao marks, cadência de tribulações, grades de terra
+> abençoada, níveis de attainment, taxas de refino, câmbio da economia imortal — mora lá, com
+> a origem de cada número marcada linha a linha (o que é texto da obra, o que é reconstrução
+> nossa, e o que a obra simplesmente não diz).
+>
+> **A regra é simples: se qualquer nota deste vault divergir dela num número, vale o número
+> dela.** As notas temáticas explicam o que um número significa e o que ele destranca; a
+> tabela decide quanto ele vale. Quando você for montar planilha, é de lá que os valores
+> saem — e é lá que uma correção precisa ser feita uma vez só.
 
 ## Como as notas estão organizadas
 
@@ -73,8 +91,8 @@ da obra descritos mecanicamente.
 |---|---|
 | `01 - Cultivo` | Progressão de poder: abertura, aptidão, essência, ranks, ascensão imortal, tribulações, longevidade. |
 | `02 - Gu` | O sistema de Gu: o que são, uso, alimentação, refino, fusão, killer moves. |
-| `03 - Paths` | Uma nota por caminho de especialização, com o arquétipo de personagem que cada um entrega. |
-| `04 - Mundo` | Geografia, cosmologia, as leis do céu, as instituições que governam o mundo. |
+| `03 - Paths` | Uma nota por caminho de especialização — **dezessete** ao todo —, cada uma no mesmo gabarito e fechando com o arquétipo de personagem que aquele caminho entrega. Comece pela [[Visão Geral dos Paths]]. |
+| `04 - Mundo` | Geografia, fauna, cosmologia, as leis do céu, as instituições que governam o mundo, e os mundos privados que os imortais carregam dentro de si. |
 | `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região. |
 | `06 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
 | `07 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
@@ -101,6 +119,18 @@ personagem sabe e o que só o mestre deveria saber.
   economia, risco/recompensa, ideia de aventura ou de arquétipo.
 - `> [!warning]` — uma regra com exceção, controvérsia ou limite conhecido.
 - `> [!example]` — um caso concreto da obra ilustrando a mecânica.
+- `> [!abstract]` — um resumo ou tabela de navegação: o que a nota cobre, ou como cortá-la.
+- ==texto destacado== — o termo que aquela nota **define**. Se você encontrar o termo em
+  outra nota sem entendê-lo, procure a nota onde ele aparece destacado.
+- 🔒 — **item de nível `segredo` dentro de uma nota liberada.** Serve para marcar segredo
+  *item a item*, em vez de seção a seção: nas listas de "Regras do mundo" das notas-porta,
+  as regras marcadas com 🔒 são as que você deve cortar antes de entregar a lista a
+  jogadores. O mesmo símbolo marca os termos secretos do [[Glossário EN-PT]].
+
+Nem toda nota mista usa 🔒: várias separam o segredo por **seção** (uma seção final "O que só
+o mestre sabe") ou por uma **tabela de corte** no topo, dizendo linha a linha o que liberar —
+é o caso de [[Cosmologia]]. [[00 - Somente o Mestre]] concentra a lista de todas as notas que
+precisam de corte.
 
 ## Confiabilidade: o que é canônico e o que é reconstrução
 

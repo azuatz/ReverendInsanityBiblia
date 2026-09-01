@@ -35,7 +35,7 @@ Estas são as regras estruturais que valem em qualquer mesa de jogo ambientada a
 1. **O mundo tem cinco regiões**, mutuamente isoladas, e o Continente Central é a mais rica em energia ambiente e a mais forte politicamente.
 2. **Atravessar de uma região para outra custa poder.** Uma barreira regional invisível envolve cada região; um viajante que a cruza fica efetivamente **um rank mais fraco** enquanto estiver em solo estrangeiro. Isso torna invasões continentais quase impossíveis e é a razão pela qual as cinco culturas evoluíram separadas.
 3. **A dificuldade de atravessar cresce brutalmente com o rank.** Um cultivador fraco atravessa em minutos; um cultivador de topo pode morrer tentando. O mundo é mais permeável para os pequenos do que para os grandes.
-4. **Todo Gu contém um fragmento da Grande Dao** — uma lei do mundo em miniatura. Usar Gu é usar leis; refinar Gu é fundir leis. Isso significa que magia, física e metafísica são a mesma coisa neste cenário.
+4. **Todo Gu carrega um fragmento de lei do universo** — as *marcas do Dao*. Usar Gu é usar leis; refinar Gu é fundir leis. Isso significa que magia, física e metafísica são a mesma coisa neste cenário. **Nos níveis mais altos essa relação muda de natureza, e não apenas de quantidade** — a diferença é uma das mais importantes do sistema. Ver [[O que é um Gu]].
 5. **Existem mundos pequenos dentro do mundo.** Cultivadores de alto nível carregam consigo dimensões privadas com clima, tempo e ecologia próprios. Ver [[Blessed Lands e Grotto-Heavens]].
 6. 🔒 **O céu retira dos excedentes e repõe os déficits.** Essa é a formulação literal da lei suprema do mundo. Desastre e sorte são as duas faces do mesmo mecanismo de nivelamento — não são recompensa nem castigo moral.
 7. 🔒 **Existem duas coisas diferentes chamadas "céu"**: a lei impessoal (Heavenly Dao) e uma vontade estratégica que age contra alvos escolhidos (Heaven's Will). Confundi-las é o erro conceitual mais comum sobre este mundo. Ver [[Vontade dos Céus]].
@@ -85,8 +85,28 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 | [[Fate Gu]] | O objeto que impõe destino; seu estado danificado; quem escapa dele | segredo |
 | [[Tribunal Celestial]] | A instituição suprema: formação, ingresso, exclusões, arsenal e projeto de longo prazo | especializado / segredo |
 | [[Lendas de Ren Zu]] | A mitologia fundadora tratada como manual de regras do mundo | comum |
-| [[Blessed Lands e Grotto-Heavens]] | Os mundos pequenos privados: grades, espíritos da terra, tempo próprio, conquista | especializado |
+| [[Bestas Gu e Reis Fera]] | A fauna: onde os Gu selvagens nascem, a hierarquia de reis fera e as marés de bestas | comum |
+| [[Blessed Lands e Grotto-Heavens]] | Os mundos pequenos privados: grades, espíritos da terra, tempo próprio, conquista, anexação | especializado |
+| [[Viver Dentro da Abertura Imortal]] | Como é a vida *por dentro* de um mundo privado: moradores, economia doméstica, rotina | especializado |
+
+**Sugestão de ordem de leitura desta pasta.** Comece por [[As Cinco Regiões]] (o chão onde tudo acontece) e [[Bestas Gu e Reis Fera]] (o que se encontra nele, e de onde vem o dinheiro) — as duas são `comum` e bastam para jogar. [[Lendas de Ren Zu]] vem em seguida, porque é a lente com que os próprios personagens interpretam o mundo. Só então suba para as notas de imortal ([[Blessed Lands e Grotto-Heavens]] e [[Viver Dentro da Abertura Imortal]]) e, por último, para as três de segredo ([[Vontade dos Céus]], [[Fate Gu]], [[Cosmologia]]) mais [[Tribunal Celestial]].
+
+> [!info] Nomes dos Veneráveis aparecem em inglês
+> Ao longo desta pasta, as dez figuras históricas de rank 9 são citadas pelo nome em inglês
+> (*Primordial Origin Immortal Venerable*, *Limitless Demon Venerable*, e assim por diante).
+> Isso é decisão editorial, não descuido: a tradução brasileira de referência só verteu de
+> forma consistente alguns dos dez nomes, e este material não inventa nomenclatura própria.
+> O nome em inglês funciona como **identificador estável** — a mesma figura é chamada da
+> mesma forma em todas as notas, e um leitor que encontre um nome numa nota reconhece a
+> pessoa em outra. Onde existe tradução publicada confirmada, ela aparece nos `aliases` das
+> notas de [[Visão Geral dos Veneráveis|07 - Veneráveis e Legados]].
 
 ## Relações
 
 - [[Visão Geral dos Veneráveis]] — as dez figuras que remodelaram estruturalmente este mundo. A história do mundo é, em boa medida, a lista das coisas que cada um deles inventou ou destruiu.
+- [[Visão Geral do Cultivo]] — como uma pessoa deste mundo adquire poder. Esta nota descreve o tabuleiro; aquela, as peças.
+- [[Visão Geral dos Gu]] — as criaturas que são a magia deste cenário, e a razão pela qual a fauna e a geografia são assuntos econômicos.
+- [[Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e demoníaco: como os humanos se organizam dentro desta geografia.
+- [[Visão Geral dos Paths]] — as especializações de cultivo, várias delas com raízes geográficas e regionais.
+- [[Linha do Tempo e Eras]] — a sequência histórica das eras nomeadas na regra 9, com o que mudou em cada uma.
+- [[Tabelas de Referência Rápida]] — **a fonte única dos números do sistema.** Sempre que uma nota desta pasta citar um número, é de lá que ele vem; em caso de divergência, aquela nota vence.

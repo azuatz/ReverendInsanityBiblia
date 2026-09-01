@@ -16,9 +16,68 @@ conhecimento: comum
 
 **Em uma frase:** a ==abertura (aperture)== é o órgão espiritual invisível que todo Mestre Gu forma dentro do próprio corpo aos quinze anos, e que funciona ao mesmo tempo como reservatório de energia, como mochila onde seus Gu vivem e como ficha de progressão — sem abertura, a pessoa é um mortal comum e nunca poderá cultivar.[^1]
 
+## A Cerimônia do Despertar
+
+A abertura nasce num ritual, e o ritual merece detalhamento próprio: ele é, na prática, **a
+cena de criação de personagem deste mundo**, e provavelmente a primeira sessão de qualquer
+campanha ambientada aqui.
+
+**Quando e para quem.** Uma vez por ano, para os jovens do clã que completaram **quinze
+anos**. E aqui está o dado mais importante de todos, porque é político e não mágico: **só
+membros de sangue do clã passam pela cerimônia**. Cultivo é reservado à linhagem e negado
+aos servos mortais, deliberadamente, por estabilidade. A raridade dos Mestres Gu no mundo
+não mede quanta gente tem talento — mede quanta gente foi **autorizada a descobrir** se tem.
+
+**Onde e como.** Numa câmara subterrânea construída sobre a nascente espiritual do clã. O
+candidato precisa atravessar um rio subterrâneo de uns nove metros de largura **caminhando
+sobre um mar de flores** — orquídeas-lua. Cada passo exige vencer uma pressão invisível que
+aumenta, e a cada passo dado ==Hope Gu (Gu da Esperança)==, criaturas de luz ligadas ao mito
+fundador do mundo, saem das flores e entram no corpo do jovem, acumulando-se abaixo do
+umbigo. Quanto maior a aptidão, mais forte a luz que o envolve — de modo que **a plateia vê
+o resultado antes do anúncio**.
+
+**O desfecho.** Quando o jovem chega ao próprio limite de passos, a bola de Hope Gu explode
+dentro do corpo e forma a abertura, com seu Mar Primevo. **O número de passos determina o
+grau de aptidão** — a tabela completa está em [[Aptidão]] —, e quem não alcança dez passos
+**jamais será Mestre Gu**. Não há segunda chance: a cerimônia acontece uma vez na vida, e o
+resultado é definitivo.
+
+**O que acontece com quem não passa.** Permanece mortal comum, dentro do próprio clã, para
+sempre. Não é exílio nem desonra formal — é irrelevância: a pessoa deixa de ser investimento
+e passa a ser população. Existem três rotas raras de escapar disso mais tarde, e todas ficam
+**fora** do sistema de clãs: topar por acaso com um Hope Gu selvagem, encontrar uma herança
+que conceda força, ou receber instrução pessoal de um membro de clã disposto a quebrar a
+regra. Quem entra por essas portas é um "Mestre sem clã", nunca plenamente aceito — e
+empurrado, na prática, para o lado demoníaco do mundo.
+
+**O que ela custa e o que ela vale.** Para o clã, é o maior evento social do ano: define
+quanto será investido em cada jovem pelos vinte anos seguintes e funciona como vitrine
+política, com anciãos exibindo netos talentosos como capital de facção. Para a aldeia, é a
+única vez na vida em que a maioria das pessoas entra na área restrita do clã. Tudo é
+registrado por um Gu de imagem e som, o que permite reexame posterior — e já serviu de prova
+em investigação formal.
+
+**Dá para fraudar?** O ritual em si é considerado preciso e difícil de burlar, mas um ancião
+com autoridade suficiente consegue **adulterar o resultado divulgado** — anunciar como B um
+grau C real. A fraude nunca se sustenta por muito tempo: a velocidade de cultivo do jovem
+denuncia o talento verdadeiro em poucos anos. Em pelo menos um clã, reagir com emoção
+audível durante a cerimônia acarreta punição severa, incluindo exílio — o que, para um jovem
+mortal, costuma equivaler a uma sentença de morte.
+
+> [!note] Para o design
+> A cerimônia é uma **sessão zero diegética**: ela gera a ficha do personagem — grau,
+> porcentagem de capacidade, e portanto o teto de carreira inteiro — dentro de um evento
+> público, com plateia, apostas de família, hierarquia de investimento em jogo e a
+> possibilidade real de fraude por parte de quem conduz. Três coisas caem prontas na mesa:
+> (1) a rolagem de atributo acontece **na frente de todo mundo**, o que dá consequência
+> social imediata a um número; (2) o resultado decide quanto o clã vai gastar com o
+> personagem, transformando a ficha numa relação de dependência; (3) existe uma autoridade
+> capaz de mentir sobre o resultado, o que é um segredo de campanha embutido no primeiro
+> minuto de jogo.
+
 ## Como funciona
 
-A abertura nasce durante a [[Abertura|Cerimônia do Despertar]]. Criaturas de luz chamadas *Hope Gu* (Gu da Esperança) entram no corpo do jovem, acumulam-se cerca de três polegadas abaixo do umbigo e explodem, abrindo ali uma cavidade esférica coberta por uma película fina e luminosa. É um órgão real para efeitos de mundo — pode ser ferido, inspecionado, sobrecarregado, rachado —, mas não aparece em nenhuma dissecação: existe na camada espiritual do corpo.
+Mecanicamente, o que a cerimônia produz é isto: criaturas de luz entram no corpo do jovem, acumulam-se cerca de três polegadas abaixo do umbigo e explodem, abrindo ali uma cavidade esférica coberta por uma película fina e luminosa. É um órgão real para efeitos de mundo — pode ser ferido, inspecionado, sobrecarregado, rachado —, mas não aparece em nenhuma dissecação: existe na camada espiritual do corpo.
 
 Dentro dessa cavidade fica o ==Mar Primevo (Primeval Sea)==: um pequeno mar de [[Essência Primeva|essência primeva]] líquida, a condensação da vitalidade, da energia e da alma que o indivíduo acumulou ao longo da vida. É esse líquido que o Mestre Gu gasta para acionar seus Gu, e é o nível dele que responde à pergunta prática "quanto ainda posso lutar hoje?".
 
@@ -43,7 +102,7 @@ Para subir de **rank**, porém, o processo se inverte: em vez de fortalecer a pa
 
 ## Regras e limites
 
-- **Dano à abertura é catastrófico e frequentemente permanente.** Ferir a abertura reduz o cultivo e pode reduzir a própria [[Aptidão|aptidão]]; destruí-la por completo mata o Mestre Gu na hora. Uma técnica proibida usada em desespero pode rachar as paredes de forma permanente e **rebaixar o cultivador de grau A para grau B**.
+- **Dano à abertura é catastrófico e frequentemente permanente.** Ferir a abertura reduz o cultivo e pode reduzir a própria [[Aptidão|aptidão]]; destruí-la por completo mata o Mestre Gu na hora. Uma técnica proibida usada em desespero pode rachar as paredes de forma permanente e **rebaixar o cultivador de grau A para grau B** — isto é, derrubá-lo um degrau inteiro na escala de talento, que vai de D (pior) a A (melhor) e está explicada em [[Aptidão]].
 - **A energia de outra pessoa contamina.** Não existem duas essências primevas idênticas — elas são tão pessoais quanto uma impressão digital. Essência alheia injetada na abertura conflita com a nativa e, acumulada, impregna as paredes de forma permanente, sufocando o desenvolvimento futuro do talento. A sequela só é removida por um Gu de limpeza raríssimo — que também serve, na prática, para **apagar a evidência** de dopagem antes de uma avaliação pública.
 - **Inspeção de abertura é o maior tabu social entre Mestres Gu.** Por toque, um Mestre Gu consegue "escanear" a abertura de outro e ver a cor e a quantidade da essência (o que revela rank e estágio exatos) e os Gu guardados ali. Fazer isso sem consentimento é ofensa gravíssima. Um Gu de rank muito superior ao do inspetor consegue se ocultar da leitura: um inspetor rank 4 não detecta um Gu rank 6.
 - **Existe uma "segunda caverna secreta"** onde é possível manter Gu fora da abertura principal, justamente para escapar de inspeções. É um recurso conhecido, não um segredo absoluto, mas o mecanismo nunca é detalhado.
@@ -75,7 +134,7 @@ Socialmente, a abertura é o que se esconde. A cor da essência vaza como aura e
 - [[Aptidão]] — o que fixa a capacidade máxima da abertura.
 - [[Ranks e Avanço]] — avanço é transformar ou quebrar as paredes.
 - [[Ascensão Imortal]] — o momento em que a abertura é destruída de propósito.
-- [[Abertura|Cerimônia do Despertar]] — o ritual que a cria.
+- [[Aptidão]] — o grau que a cerimônia mede, e o teto que ele impõe.
 - [[Pedras Primevas]] — a recarga externa.
 
 [^1]: A abertura também aparece na obra sob nomes populares e poéticos ("Palácio Púrpuro", "Lago Chinês"), que são sinônimos do mesmo órgão. A tradução brasileira consagrada é "abertura"; "mar primordial" e "mar primitivo" circulam como variantes para o Mar Primevo, sem diferença de significado.

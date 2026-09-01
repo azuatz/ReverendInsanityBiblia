@@ -6,7 +6,7 @@ aliases:
   - Economy Overview
 status: consolidado
 fontes: ["cap. 8", "cap. 43", "cap. 64", "cap. 132", "cap. 241", "cap. 243", "cap. 262", "cap. 278", "cap. 294-296", "cap. 324", "cap. 466", "cap. 666-668", "cap. 712", "cap. 729", "cap. 1155", "cap. 1291", "cap. 1450-1456", "cap. 1608", "cap. 1681", "cap. 1791", "cap. 2228", "cap. 2251", "cap. 2257", "cap. 2289"]
-conhecimento: comum
+conhecimento: misto — tudo até "O que todo personagem sabe" é `comum` (material de manual do jogador); a seção "O que só o mestre sabe" é `segredo` e não deve ser impressa para jogadores
 ---
 
 # Visão Geral da Economia
@@ -105,21 +105,33 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 - **Como se compra e se vende**: caravanas, lojas locais, lances fechados por escrito nos
   vilarejos, leilões em cidades grandes, e a aposta de pedra — comprar fósseis lacrados
   na esperança de encontrar um Gu dentro. Ver [[Mercados e Leilões]].
-- **Que os preços mudam com a política.** Uma guerra, uma maré de feras ou o anúncio de
-  uma herança reorganizam o mercado de uma região inteira em semanas.
+- **Que os preços mudam com a política.** Uma guerra, uma
+  [[Bestas Gu e Reis Fera|maré de bestas]] — a migração em cascata de feras que
+  periodicamente arrasa as terras cultivadas de uma região — ou o anúncio de uma herança
+  reorganizam o mercado de uma região inteira em semanas.
 - **Que o ouro não vale quase nada** e que a única riqueza que importa é a que se converte
   em cultivo.
 
 ## O que só o mestre sabe
 
+> [!warning] Não imprima esta seção para os jogadores
+> É por causa dela que o campo `conhecimento` desta nota diz `misto`. **Todo o resto da
+> nota é material de manual do jogador**; o que vem abaixo é `segredo`. Se você estiver
+> recortando o vault para montar um livro do jogador, o corte é aqui.
+
 - **Quem emite a moeda dos imortais.** As pedras de essência imortal, moeda universal da
-  camada superior do mundo, têm uma **fonte única** — a Heavenly Court —, que restringe
-  deliberadamente a distribuição desde uma guerra antiga, usando a política monetária como
-  instrumento de controle sobre o mundo inteiro. Poucos sabem disso; menos ainda podem
-  reclamar.
-- **A escala exata do câmbio imortal** (dez mil para cem para um, entre os ranks 6, 7 e
-  8), que explica por que os cultivadores mais poderosos do mundo negociam por troca de
-  bens e não por dinheiro. Está em [[Economia Imortal]].
+  camada superior do mundo, têm uma **fonte única** — o [[Tribunal Celestial]] —, que
+  restringe deliberadamente a distribuição desde uma guerra antiga, usando a política
+  monetária como instrumento de controle sobre o mundo inteiro. Poucos sabem disso; menos
+  ainda podem reclamar.
+- **A escala exata do câmbio imortal**, que explica por que os cultivadores mais poderosos
+  do mundo negociam por troca de bens e não por dinheiro. Enunciada sem ambiguidade: **uma
+  conta de essência de rank 7 vale cem contas de rank 6, e uma de rank 8 vale cem de rank
+  7** — ou seja, dez mil de rank 6. Quanto mais alto o rank, **mais** vale cada conta;
+  quem sobe de patamar precisa de cem vezes mais dinheiro para comprar a mesma coisa, e
+  por isso empobrece ao subir. A tabela, a leitura inversa (quantas contas de cada tipo se
+  equivalem) e um exemplo fechado estão em [[Economia Imortal]]; os números do sistema, em
+  [[Tabelas de Referência Rápida]].
 - **Quão pouco artefato existe de fato.** Que a maioria dos cultivadores de rank 8 — o
   segundo patamar mais alto que existe — não possui nenhum Gu Imortal do próprio rank é um
   dado que muda completamente o cálculo de ameaça de qualquer mestre de jogo. Poder

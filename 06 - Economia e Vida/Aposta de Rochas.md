@@ -56,6 +56,21 @@ acumulada acerta cerca de duas em dez tentativas.** Uma taxa de perda de oitenta
 é o *teto* da competência, não o desempenho de um novato. Não existe habilidade que
 converta a aposta de rochas em renda confiável.
 
+> [!warning] Os dois números medem coisas diferentes — não os compare
+> À primeira vista as duas taxas se contradizem: se no máximo **uma em dez** pedras contém
+> alguma coisa, como um especialista acerta **duas em dez**? Ele não está furando o teto —
+> está jogando outro jogo.
+>
+> - **Uma em dez** é a taxa da **população**: todas as pedras expostas no balcão, boas e
+>   ruins misturadas. É o que um novato enfrenta, porque ele compra praticamente ao acaso.
+> - **Duas em dez** é a taxa das **pedras que o especialista escolheu** depois de examinar
+>   dezenas e descartar as que não exibem sinal. Ele nunca comprou as nove ruins.
+>
+> A diferença entre os dois números **é exatamente o que a perícia vale**, e é assim que
+> ela deve entrar na sua mesa: a leitura de sinais não melhora o conteúdo da pedra, ela
+> melhora a *seleção*. Um personagem sem perícia joga com a taxa da população; um perito
+> joga com a taxa dele — e continua perdendo oito vezes em dez.
+
 O método dos especialistas, na falta de qualquer detecção confiável, é filtrar por
 heurísticas: tamanho relativo da pedra em relação ao Gu que se espera encontrar (algo em
 torno de trinta por cento maior), textura, formato e padrão mineral. É trabalho de olho
@@ -83,6 +98,60 @@ ficam amontoadas em balcões como se fossem hortifrúti, e um Mestre Gu de rank 
 mexer nelas por achar o gesto insultuoso ao próprio prestígio — prefere o grau baixo, que
 tem chance melhor. O grau sucata acaba servindo para diversão ocasional ou para
 profissionais treinarem o olho.
+
+## O prêmio: o que sai de dentro, e se compensa
+
+Esta é a metade que faltava. Custo, perícia e probabilidade não bastam para usar a aposta
+de rochas em mesa: é preciso saber **o que se ganha**. A obra descreve o prêmio em prosa —
+"um Gu vivo", "um Gu de rank alto" — e nunca publica uma tabela. A que segue é uma
+reconstrução deste vault, montada a partir de três coisas que o texto **de fato** afirma:
+que o grau da pedra mede quantos sinais ela exibe, que mais sinais significam maior chance
+**e maior rank potencial** do conteúdo, e que os preços de Gu por rank são os de
+[[Pedras Primevas]].
+
+> [!warning] Tabela reconstruída
+> `inferido` — os números das duas colunas do meio **não estão na obra**. São a
+> interpolação mais simples entre os fatos acima, calibrada para reproduzir o veredito que
+> o texto dá em palavras: que a atividade é matematicamente perdedora. Use-a como ponto de
+> partida e ajuste sem culpa; você não está contradizendo cânone nenhum, porque não há
+> cânone aqui.
+
+| Grau | Custo | Chance de Gu **vivo**, em pedra já selecionada por olho treinado | Rank típico do achado | Valor de mercado do prêmio | Retorno esperado |
+|---|---|---|---|---|---|
+| Sucata | ~10 | ~2% | 1 | ~500 | ≈ empata |
+| Baixo | ~100 | ~5% | 1–2 | 500 – 1.000 | perde ~60% |
+| Médio | ~1.000 | ~10% | 2–3 | 1.000 – 10.000 | perde ~50% |
+| Alto | ~10.000 | ~20% | 3–4 | 10.000 – 100.000 | ≈ empata |
+| Super | ~300.000 | ~40% | 4–5 | 100.000 – 1.000.000 | perde ~33% |
+
+Três leituras que a tabela sozinha não dá:
+
+- **A conta fecha negativa de propósito, e é assim na obra.** Somando tudo, quem aposta
+  sistematicamente perde. Isso não é um defeito da reconstrução: é o que o texto afirma em
+  palavras, e é o que faz da atividade um vício e não uma profissão.
+- **Então por que alguém joga?** Porque o valor de mercado **subestima o prêmio real**. Um
+  Gu saído de fóssil vem sem exigir receita, sem exigir material e sem exigir permissão de
+  ninguém — e nasce tão enfraquecido que qualquer novato consegue refiná-lo. Para um
+  personagem sem clã, sem receita e sem refinador, um Gu de rank 3 comprado por mil pedras
+  numa aposta não vale dez mil: vale o que valeria uma porta que estava fechada. É por isso
+  que a aposta de rochas é a loteria dos deserdados.
+- **O grau alto é o ponto ótimo.** Repare que ele empata *e* tem dissecação gratuita. Um
+  personagem que consiga bancar o grau alto está jogando o melhor jogo da mesa; quem só
+  alcança o baixo e o médio está pagando os prêmios dele.
+
+> [!note] Para o design — como rodar isso em mesa
+> Duas rolagens, nesta ordem, e o minijogo está pronto:
+>
+> 1. **Compra.** O jogador escolhe o grau (o custo é a aposta). A perícia de leitura de
+>    sinais move a chance da coluna 3 para cima ou para baixo — sem perícia, use a taxa da
+>    população (~2%, qualquer grau); com perícia de especialista, a taxa da tabela.
+> 2. **Abertura.** Se houver algo vivo, uma segunda rolagem decide se sobreviveu à
+>    extração. Método errado ou mão pesada mata o prêmio já ganho. Pagar um dissecador
+>    profissional dispensa esta rolagem — e é grátis nos graus alto e super, que é onde o
+>    prêmio importa.
+>
+> A tensão fica onde deve: a primeira rolagem é sobre dinheiro, a segunda é sobre não
+> estragar o que você já conquistou. E o fracasso na segunda dói muito mais.
 
 ## Abrir a pedra: uma profissão inteira
 

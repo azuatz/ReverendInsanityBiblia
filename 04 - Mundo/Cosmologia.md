@@ -23,7 +23,26 @@ conhecimento: segredo
 **Em uma frase:** o mundo é uma esfera de cultivo com **dois céus habitáveis** que se revezam como dia e noite — restos de nove que existiam na aurora dos tempos —, atravessada por um ==Rio do Tempo== que é literalmente a história em forma de correnteza navegável, e cuja fronteira externa tem um furo permanente por onde entram coisas que não são deste mundo.
 
 > [!warning] Nível de conhecimento
-> Quase nada nesta nota é conhecimento comum. Que existem dois céus e que houve mais no passado é folclore corrente; **tudo o resto** — a natureza do Rio do Tempo, as veias do mundo, a origem das trincheiras e sobretudo a fronteira do mundo — é segredo de mestre. Um cultivador de rank 8 pode passar cinco mil anos vivo sem descobrir metade disto.
+> O cabeçalho classifica esta nota inteira como `segredo` porque é o **trecho mais restrito** dela que manda na classificação — e a fronteira do mundo é o segredo de nível mais alto do cenário. Mas a nota não é uniforme: **metade dela é geografia que qualquer personagem usa**, e não existe outra nota que reúna essa geografia. Não a entregue nem a esconda inteira; corte-a.
+
+> [!abstract] Tabela de corte — o que liberar e o que reter
+> Se você for distribuir esta nota, use esta divisão. Ela segue o mesmo padrão de
+> [[00 - Somente o Mestre]] e resolve o problema de a geografia útil estar trancada junto com
+> o segredo cosmológico.
+>
+> | Seção | Camada | Pode ir para o jogador? |
+> |---|---|---|
+> | Os dois céus | `comum` na existência, `especializado` no conteúdo | **Sim.** Que existem dois céus que se alternam como dia e noite é folclore corrente. O detalhe do que há lá em cima é para cultivadores instruídos. |
+> | A muralha de vento celestial | `comum` | **Sim.** Todo mundo sabe que não se sobe ao céu a pé, e a exceção do Mar Oriental é conhecimento de mapa. |
+> | Marés de qi | `comum` no efeito, `especializado` na causa | **Sim, com corte.** O desastre periódico é público. Que ele é a parede regional descongelada, não. |
+> | As Earth Trenches | `especializado` | **Sim, para personagens instruídos.** Corte o mecanismo do mundo privado (o parágrafo do milhão de marcas). |
+> | As veias do mundo | `especializado` | **Talvez.** É a explicação técnica por trás de várias coisas que o jogador observa; libere como recompensa de estudo. |
+> | Os nove céus imemoriais | `segredo` | **Não**, exceto o folclore de que "houve mais céus antigamente". |
+> | O Rio do Tempo | `segredo` | **Não.** |
+> | A fronteira do mundo | `segredo` de nível máximo | **Nunca.** É o cofre do cenário. |
+>
+> Regra prática: **as quatro primeiras linhas formam o capítulo de geografia do manual do
+> jogador**; as quatro últimas ficam com a mestra.
 
 ## Os dois céus
 
@@ -96,6 +115,15 @@ Esta é a regra unificadora mais bonita do domínio, e vale enunciá-la com clar
 
 Não são dois fenômenos. São o mesmo fenômeno — a diferença de energia ambiente entre regiões — em dois estados. Enquanto as veias de terra estavam separadas, a diferença era constante e formava uma barreira estável. Quando as veias se fundem, a diferença começa a se resolver, e o processo de resolução é violento: ondas do tipo tsunami que varrem o mundo inteiro, incluindo os dois céus, matando o que estiver no caminho e sacudindo mundos privados.
 
+> [!info] Este é o degrau mais alto de uma escada de três
+> A parede regional é explicada em três níveis de profundidade, e **cada nível pertence a uma
+> camada de conhecimento diferente**. A escada completa, com o que cada tipo de personagem
+> acredita, está em [[As Cinco Regiões#O que se sabe sobre as paredes]] — que é onde o leitor
+> encontra o assunto primeiro. O que esta nota acrescenta, e que é `segredo`, é o degrau
+> final: **parede e maré são o mesmo fenômeno em dois estados**. Um cultivador instruído sabe
+> que a causa são as veias de terra; que a maré que o aterroriza é a sua própria parede
+> derretendo, não.
+
 Efeitos de superfície documentados: as marés **expõem simultaneamente heranças antigas em todas as regiões**, fazem recursos de cultivo brotarem por toda parte e rasgam o solo — uma fazenda de milhares de acres partida ao meio por uma trincheira que a dona não conseguiu reparar.
 
 > [!note] Para o design
@@ -111,12 +139,33 @@ Uma ==Earth Trench== (trincheira terrestre) é uma fenda no solo de escala conti
 
 **Uma Earth Trench é o sistema de drenagem de um mundo que ficou denso demais.**
 
+> [!warning] Um milhão de marcas é escala de Venerável — não é fenômeno corriqueiro
+> O parágrafo acima descreve o processo como se fosse geologia natural, e isso convida a
+> calibrar errado. Confira o número contra
+> [[Tabelas de Referência Rápida#Faixas de dao marks por rank]]: a condição formal do rank 9
+> é **300.000** marcas no caminho principal. Um milhão é mais de **três vezes o limiar de
+> Venerável**.
+>
+> Ou seja: uma trincheira que se forma sozinha dentro de um mundo privado **não** é coisa que
+> aconteça na dimensão de um imortal comum, nem de um rank 8 competente. É fenômeno de
+> **Venerável, ou de anexador em série** — alguém que engoliu muitas aberturas alheias e
+> herdou as marcas delas (ver [[Blessed Lands e Grotto-Heavens]]). Consta o registro de um
+> imortal com mais de um milhão de marcas justamente porque ele pulou todas as provações, o
+> que confirma a ordem de grandeza.
+>
+> Para a mesa: se o grupo enriquecer o próprio mundo pequeno, ele **não** vai começar a
+> rachar. Rachar é um problema que só o topo absoluto do mundo tem — e é, por isso mesmo, um
+> excelente indício narrativo. Uma trincheira nova dentro de uma dimensão privada é a
+> assinatura de que alguém de escala impossível esteve ali.
+
 **No mundo grande.** As trincheiras do mundo real se abrem pelos terremotos da Grande Era, sem padrão previsível — nem os cultivadores mais fortes conseguem antecipá-las. E elas nascem carregadas: campos de recurso de alto grau, Gu Imortais selvagens, óleo negro, materiais raros. Quem souber **onde e quando** uma trincheira vai abrir chega antes até dos donos legítimos do território. É informação de valor estratégico absoluto.
 
 Depois da Grande Era, as trincheiras deixam de ser acidentes e viram uma categoria geológica inteira — **as Dez Terras**: abismo, trincheira, túnel, caverna, prisão, terra de produção, terra voadora, terra de formação, terra de tesouro e terra de tumba. Todas podem servir de nó para construir veias artificiais. O mundo unificado ganha um andar subterrâneo inteiro de geografia nova.
 
 > [!note] Para o design
-> "Uma fenda abre no mapa e ninguém sabe onde nem quando" é um gerador de corrida ao ouro embutido no cenário. Some a isso o fato de que a previsão é impossível e você tem uma economia inteira de rumor, oráculo fraudulento e especulação imobiliária mágica. E a analogia com o mundo privado dá ao mestre uma dica útil: se o grupo enriquecer demais o próprio mundo pequeno, ele vai começar a rachar sozinho.
+> "Uma fenda abre no mapa e ninguém sabe onde nem quando" é um gerador de corrida ao ouro embutido no cenário. Some a isso o fato de que a previsão é impossível e você tem uma economia inteira de rumor, oráculo fraudulento e especulação imobiliária mágica.
+>
+> Cuidado com a analogia inversa, porém: o mecanismo do mundo privado **não** é uma ameaça que um grupo de jogadores vá encontrar por prosperar. Ele exige mais de três vezes o limiar de Venerável em marcas de dao (ver a caixa acima). Use-o ao contrário — como **pista**: uma trincheira nova dentro de uma dimensão privada denuncia que aquele lugar pertenceu, ou pertence, a alguém fora de escala.
 
 ## A fronteira do mundo
 

@@ -71,9 +71,36 @@ zona de prazeres, refino por procuração, leilões e arena.
 O que a torna interessante é o **sistema de acesso**, que separa dinheiro de autoridade:
 
 - Existe uma escada de **fichas coloridas** — nove cores, do preto ao roxo-espinho — que
-  determina onde você pode entrar e o que pode comprar.
-- A ficha de topo equivale a cerca de metade da autoridade de um ancião de clã, e há apenas
-  algumas centenas delas no mundo inteiro.
+  determina onde você pode entrar e o que pode comprar. É a segunda moeda da cidade: o
+  dinheiro paga o item, a ficha decide se você tem o direito de vê-lo.
+- A ficha de topo, a roxo-espinho, é rara a ponto de existirem apenas **algumas centenas
+  delas no mundo inteiro**, e dá ao portador uma autoridade comparável à metade da de um
+  ancião de clã — ou seja, um estranho com essa ficha manda mais, dentro da cidade, que
+  boa parte dos quadros do próprio clã anfitrião.
+
+A obra nomeia as duas pontas da escada e o número de degraus, mas **não publica as sete
+cores do meio nem o que cada uma destrava**. Como a escada é justamente o que faz a
+mecânica de moeda dupla funcionar, segue uma reconstrução utilizável:
+
+| Degrau | Ficha | O que destrava |
+|---|---|---|
+| 1 | **Preta** | apenas a cidade externa: o mercado caótico, sem garantias e sem proteção |
+| 2 | Cinza | primeira cidade interna; direito de reclamar de fraude perante a administração |
+| 3 | Branca | pensão de Gu, culinária, aposta de rochas nos graus baixos |
+| 4 | Verde | leilões pequenos (diários) e refino por procuração |
+| 5 | Azul | segunda cidade interna; leilões médios; dissecação gratuita de pedras |
+| 6 | Vermelha | leilões grandes — os que só aceitam item de rank 3 ou acima |
+| 7 | Dourada | terceira cidade interna; compra antecipada antes da abertura dos leilões |
+| 8 | Prateada | acesso ao super leilão bienal; audiência com os jovens mestres do clã |
+| 9 | **Roxo-espinho** | cidades internas restantes; direito de compra sobre qualquer item antes que vá a leilão; autoridade administrativa dentro da cidade |
+
+> [!warning] Reconstrução, não texto
+> `inferido` — só **o número de degraus (nove), a cor da base (preta), a cor do topo
+> (roxo-espinho), a raridade do topo e a regra de que a ficha destrava zonas e compras**
+> são da obra. Os sete nomes intermediários e a distribuição de privilégios são deste
+> vault, montados a partir das zonas e dos tipos de leilão que a própria nota descreve.
+> Renomeie e reordene à vontade: o que importa para a mesa é que existam nove degraus e que
+> subir um seja uma conquista.
 - As fichas são **vinculadas ao sangue** por um Gu específico, não replicáveis, e
   **degradam com o tempo** — a renovação periódica é um instrumento deliberado de controle
   de longo prazo sobre os portadores.
@@ -164,10 +191,15 @@ região inteira. E esconder Gu valiosos dentro de pedras é técnica reconhecida
 espionagem.
 
 > [!note] Para o design
-> A aposta de pedra é um minijogo pronto com todas as peças no lugar: custo fixo por
-> tentativa, tabela de resultados, uma perícia que melhora as chances sem nunca garanti-las,
-> uma **segunda** perícia que pode estragar o prêmio conquistado, e um uso social — o álibi
-> — que gera intriga sozinho.
+> A aposta de pedra tem quase todas as peças de um minijogo: custo por categoria, uma
+> perícia que melhora as chances sem nunca garanti-las, uma **segunda** perícia que pode
+> estragar o prêmio conquistado, e um uso social — o álibi — que gera intriga sozinho.
+>
+> A peça que a obra **não** entrega é a tabela de prêmios: quanto vale o que sai de dentro,
+> e se compensa apostar. Sem ela o minijogo não fecha. A reconstrução dessa tabela, com a
+> conta do retorno esperado por categoria e o procedimento de duas rolagens para rodar em
+> mesa, está em [[Aposta de Rochas]] — a nota dona deste assunto. O que está aqui é o
+> resumo pelo ângulo do mercado; os números moram lá.
 
 ## O mercado de informação
 

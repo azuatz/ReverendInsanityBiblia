@@ -19,9 +19,25 @@ instituições, ==um calendário inteiro de eventos com regras escritas, prêmio
 prazo== — ou seja, aventuras que já vêm montadas.
 
 > [!note] Como usar esta nota
-> Cada evento abaixo vem com o que uma mesa precisa: **quem participa, qual é a regra,
-> qual é o prêmio, e o que dá errado**. São todos recorrentes ou reprodutíveis — nenhum é
-> um acontecimento único e irrepetível da história do mundo.
+> Cada evento abaixo traz **quem participa, qual é a regra e o que dá errado**. Todos são
+> recorrentes ou reprodutíveis — nenhum é um acontecimento único e irrepetível da história
+> do mundo.
+>
+> **Sobre o prêmio, seja avisada de antemão:** só uma minoria dos eventos vem com valor
+> quantificado, porque só neles a obra publica um número. São seis, e vale saber quais são
+> antes de planejar uma sessão em cima de um número que não existe:
+>
+> | Eventos **com** prêmio quantificado | Eventos **sem** prêmio quantificado |
+> |---|---|
+> | arena; trono decenal; convenção do caminho de refino; subjugação de matilhas; torneio entre organizações; provas de sucessão | caçadas; reinos de sonho; provas de herança institucionalizadas; feiras e festivais; e os demais |
+>
+> Nos eventos da coluna da direita a obra diz apenas "prêmios crescentes", "benefícios
+> territoriais", "recursos escalonando em valor" — e este vault **não inventa** um número
+> para preencher a lacuna. Quando você precisar de um, a régua para arbitrar está em
+> [[Pedras Primevas]] (o que as coisas custam) e na tabela de ordens de grandeza de renda
+> em [[Como um Mestre Gu Ganha a Vida]]
+> (quanto se ganha por rank e por tempo gasto). Um prêmio calibrado é o que a coluna de
+> renda daquela tabela paga em algumas semanas de trabalho do rank correspondente.
 
 ## Heranças: o grande evento social do mundo
 
@@ -57,8 +73,9 @@ Esta é a diferença que define o tom de uma aventura:
 - **A chave barata para o tesouro caro** — Gu triviais de rank 1 ou 2 usados como filtro de
   entrada. Anunciar publicamente quais são triplica o preço deles no mercado em dias.
 - **Guardião ancestral** — clãs fundados sobre nascentes mantêm um Gu do fundador vivendo
-  na nascente como teste permanente: aprovação significa que ele entra na abertura do
-  candidato e libera a herança; reprovação significa morte.
+  na nascente como teste permanente: aprovação significa que ele entra na
+  [[Abertura|abertura]] do candidato — a cavidade sobrenatural onde todo Mestre Gu guarda
+  seus Gu e sua energia — e libera a herança; reprovação significa morte.
 - **Camadas empilhadas de proteção** — nas heranças de rank alto, as proteções são
   independentes e cumulativas: selo por aura de artefato, técnicas deliberadamente
   corrompidas para punir quem as copie sem entender, reconhecimento de linhagem por sangue,
@@ -144,8 +161,12 @@ ancião externo do clã anfitrião — uma porta institucional de reabilitação
   recompensas documentadas na casa das centenas de pedras mais um Gu de rank alto).
 - **Expedições sazonais** contra ameaças recorrentes, organizadas anualmente por
   instituições regionais.
-- **Defesa de território contra calamidade** — para cultivadores imortais, sobreviver a uma
-  calamidade dentro do próprio território **converte a ameaça em recurso**: há uma
+- **Defesa de território contra calamidade** — ==calamidade== é a mais branda das quatro
+  classes de **provação**, os desastres que o próprio mundo dispara em ciclos fixos contra
+  todo Gu Imortal, porque a existência dele desequilibra o céu e a terra. Não é azar: é um
+  calendário, e o imortal sabe quando a próxima chega. Ver [[Tribulações e Calamidades]].
+  Para cultivadores imortais, sobreviver a uma calamidade dentro do próprio território
+  **converte a ameaça em recurso**: há uma
   contabilidade completa documentada em que as perdas foram enormes mas o corpo da criatura
   abatida valia mais que tudo o que se perdeu.
 - **Pedágios rituais** — passagens guardadas por criaturas que exigem uma prova específica.
@@ -163,8 +184,11 @@ Certas heranças viraram **instituições permanentes**, com calendário e buroc
   de tesouro onde se trocam itens por valor equivalente. O detalhe político: **o soberano da
   região pode vender o acesso** — com cota diária, taxa crescente e juramento de partilha
   dos ganhos — e pode fechá-lo unilateralmente.
-- **Uma gruta-céu pública que abre uma vez a cada mil anos**, com recursos escalonando em
-  valor conforme se aproxima do centro e cada faixa defendida por criaturas mais fortes.
+- **Uma [[Blessed Lands e Grotto-Heavens|gruta-céu]] pública que abre uma vez a cada mil
+  anos** — gruta-céu é o mundo em miniatura, com céu, terra e tempo próprios, em que a
+  abertura de um Gu Imortal se transforma a partir do rank 8; algumas ficaram sem dono e
+  viraram território público. Os recursos escalonam em valor conforme se aproxima do
+  centro, e cada faixa é defendida por criaturas mais fortes.
 
 ## Convenções e competições formais
 
@@ -270,7 +294,7 @@ escalas:
    restrições contratuais, teleportar-se na saída), **saldo negativo** por fracasso
    catastrófico com prazo curto para recuperação sob pena de expulsão, **expiração da moeda
    na saída**, e um gargalo de acesso que exige versatilidade — cada missão pede métodos de
-   campos de cultivo específicos, então especialistas únicos só acessam uma fração do
+   [[Visão Geral dos Paths|caminhos]] específicos, então especialistas de caminho único só acessam uma fração do
    catálogo. Detalhes numéricos em [[Economia Imortal]].
 
 ## Eventos de exploração

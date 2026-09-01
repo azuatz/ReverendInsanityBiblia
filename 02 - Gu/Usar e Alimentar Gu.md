@@ -125,21 +125,50 @@ além do limite mata o próprio Gu**.
 
 ## O teto: quantos Gu se carrega
 
-Não existe um limite mágico. Existe um limite **econômico**, e ele é apertado:
+Não existe um limite mágico. Existe um limite **econômico**, e ele é apertado.
 
-| Perfil | Quantidade típica de Gu |
-|---|---|
-| Mestre comum de nível baixo | 2 a 3 |
-| Mestre de nível 4 a 5 | 4 a 5 |
-| Veterano de nível 5, bem estabelecido | até cerca de 7 |
+> [!warning] Esta é a tabela de referência do vault para "quantos Gu"
+> O número de Gu que um Mestre sustenta aparece citado em várias notas, e por muito tempo
+> apareceu com valores diferentes em cada uma ("quatro ou cinco", "cinco ou seis"). **Esta
+> tabela é a fonte;** as outras notas remetem a ela em vez de repetir um número. Se você
+> encontrar outro valor solto por aí, é resíduo antigo — vale este.
+
+| Perfil | Quantidade típica de Gu | Custo mensal aproximado em [[Pedras Primevas\|pedras primevas]] |
+|---|---|---|
+| Mestre comum de nível baixo (níveis 1–2) | **2 a 3** | cerca de **60 a 180** |
+| Mestre de nível 4 a 5 | **4 a 5** | ordens de grandeza acima — a refeição rareia, mas cada uma custa uma fortuna |
+| Veterano de nível 5, bem estabelecido | **até cerca de 7** | inviável sem território produtivo próprio |
+
+A coluna de custo sai de uma única âncora da obra: **um Gu comum de nível 2 custa cerca de
+uma a duas pedras primevas por dia** para manter. Três Gu desses, trinta dias, dá a faixa
+acima. Para os níveis 4 e 5 a obra não fornece número equivalente — o que ela fornece é a
+regra da curva ("nível maior, refeição mais rara e mais cara") e a constatação de que
+comprar ração no mercado deixa de ser sustentável. **O que aparece como faixa é da obra; a
+multiplicação por trinta é nossa.**
 
 O que impõe o teto é a soma de dois custos: **alimentar** todos os dias e **acionar** todos
 em combate. Um cultivador que não consegue pagar a ração de sete Gu não pode carregar sete
 Gu, por mais talentoso que seja.
 
+### A conta que obriga a formar grupo
+
 A consequência estrutural, já mencionada em [[O que é um Gu]], é que **Mestres Gu operam em
-grupos**. A doutrina de sobrevivência exige seis funções cobertas — ataque, defesa, cura,
-armazenamento, reconhecimento e movimento — e um único Mestre não tem slots para todas.
+grupos** — e agora dá para fazer a conta com os números certos, porque ela decide o tamanho
+recomendado de um grupo de jogadores.
+
+A doutrina de sobrevivência exige **seis funções** cobertas: ataque, defesa, cura,
+armazenamento, reconhecimento e movimento. Confronte com a tabela acima:
+
+| Faixa de campanha | Slots por personagem | Grupo mínimo para cobrir as 6 funções |
+|---|---|---|
+| Início de carreira (níveis 1–2) | 2 a 3 | **2 a 3 pessoas** |
+| Meio de carreira (níveis 4–5) | 4 a 5 | **2 pessoas** — mas com folga para especializar |
+| Veterano de nível 5 | até 7 | **1 pessoa** já se vira sozinha, e é exatamente por isso que veteranos agem sozinhos |
+
+Repare no que a tabela diz sobre o tom do jogo: a interdependência é **máxima no começo** e
+se dissolve conforme os personagens sobem. Um grupo de iniciantes é obrigado a ser um grupo;
+um veterano é um lobo solitário viável. Se a mesa quiser manter a coesão do grupo em níveis
+altos, o motivo terá de ser político, não logístico.
 
 > [!example] Caso mecânico
 > O depósito de Gu de uma academia de clã consome mais de mil pedras primevas **por dia**

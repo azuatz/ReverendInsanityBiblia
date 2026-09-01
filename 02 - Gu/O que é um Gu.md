@@ -189,16 +189,21 @@ E há uma fronteira ontológica nítida no topo:
 
 ## Na vida de um Mestre Gu
 
-Um Mestre médio sustenta quatro ou cinco Gu do próprio nível — mais que isso, a alimentação
-e o custo de acionamento tornam a coisa inviável. A doutrina de sobrevivência para quem
-viaja sozinho manda cobrir **seis funções**: ataque, defesa, cura, armazenamento,
-reconhecimento e movimento. Cada lacuna nessa lista é um ponto fraco potencialmente fatal —
-um cultivador poderosíssimo sem Gu de movimento morre cercado.
+Quantos Gu um Mestre sustenta depende do estágio da carreira dele, e a tabela por perfil
+está em [[Usar e Alimentar Gu#O teto: quantos Gu se carrega]] — é ela que vale. O
+essencial para esta nota é que o teto é **econômico**, não mágico: a alimentação e o custo
+de acionamento é que travam.
 
-Como o teto é de quatro ou cinco slots e as funções necessárias são seis, a matemática não
-fecha. É por isso que Mestres Gu operam em **grupos de três a cinco**, com papéis
-especializados. A estrutura social do mundo é uma consequência direta do custo de ração dos
-bichos.
+A doutrina de sobrevivência para quem viaja sozinho manda cobrir **seis funções**: ataque,
+defesa, cura, armazenamento, reconhecimento e movimento. Cada lacuna nessa lista é um ponto
+fraco potencialmente fatal — um cultivador poderosíssimo sem Gu de movimento morre cercado.
+
+Confronte as duas coisas e sai a estrutura social do mundo inteira: um Mestre no **início da
+carreira carrega dois ou três Gu** contra seis funções obrigatórias, e a matemática não
+fecha nem de longe. É por isso que Mestres Gu operam em **grupos** — e por que o grupo é uma
+necessidade dos fracos que se afrouxa conforme se sobe: um veterano de nível 5, com até sete
+slots, cobre as seis funções sozinho. A estrutura social do mundo é uma consequência direta
+do custo de ração dos bichos.
 
 Gu também são ferramentas civis, e essa é a parte do mundo que raramente aparece nos
 resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, lojas que são

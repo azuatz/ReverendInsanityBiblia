@@ -18,18 +18,35 @@ conhecimento: comum
 
 ## Como funciona
 
-Na [[Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. O número de passos que ele consegue dar determina seu grau. Menos de dez passos: nenhum talento, mortal para sempre. Dez a vinte passos: grau D. Vinte a trinta: grau C. Trinta a quarenta: grau B. Quarenta a cinquenta: grau A.
+Na [[Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. **O número de passos que ele consegue dar determina seu grau**, e o grau é imediatamente convertido numa **porcentagem de capacidade da abertura** — é a porcentagem que faz o trabalho mecânico.
 
-Esse grau é imediatamente convertido numa **porcentagem de capacidade da abertura**, e é a porcentagem que faz o trabalho mecânico:
+Uma tabela só, com as duas medidas lado a lado:
 
-| Grau | Capacidade da abertura | Teto de carreira típico |
-|---|---|---|
-| (sem talento) | abaixo de 20% | **nunca se torna Mestre Gu** — não existe grau abaixo do D |
-| **D** | **20–39%** | rank 1; poucos alcançam o rank 2 |
-| **C** | 40–59% | rank 2; rank 3 apenas excepcionalmente |
-| **B** | 60–79% | rank 3, podendo alcançar o 4 |
-| **A** | 80–99% | topo do mundo mortal (rank 5) |
-| Constituição Extrema | 100% | categoria à parte, ver abaixo |
+| Grau | Passos na cerimônia | Capacidade da abertura | Teto de carreira típico |
+|---|---|---|---|
+| (sem talento) | menos de 10 | abaixo de 20% | **nunca se torna Mestre Gu** — não existe grau abaixo do D |
+| **D** | 10 a 19 | **20–39%** | rank 1. Sem auxílio externo **não rompe** para o rank 2, porque o teto fica abaixo do limiar de 55%; com auxílio, o rank 2 é o teto |
+| **C** | 20 a 29 | 40–59% | rank 2, e só na faixa alta (55–59%) sem auxílio; rank 3 é quase inédito |
+| **B** | 30 a 39 | 60–79% | rank 3, podendo alcançar o 4 |
+| **A** | 40 a 49 | 80–99% | topo do mundo mortal (rank 5); 99% é o máximo "comum" |
+| Constituição Extrema | — | 100% | categoria à parte, ver abaixo |
+
+> [!warning] Como converter passos em porcentagem — e o que a obra não decide
+> Os intervalos de passos acima estão escritos como **fechados e sem sobreposição**
+> (10 a 19, 20 a 29…), porque a obra os enuncia de forma imprecisa ("dez a vinte", "vinte a
+> trinta") e alguém precisa dizer de que lado cai o vigésimo passo. **A correspondência
+> entre a banda de passos e a banda de porcentagem é da obra; o corte exato é nosso.**
+>
+> O que a obra **não** diz é se, dentro de uma banda, a conversão é proporcional. Repare que
+> ela não pode ser simples: as bandas de passos têm dez unidades cada e as de porcentagem
+> têm vinte pontos cada, e o único cultivador com passos e porcentagem citados juntos não
+> cai onde uma regra linear o colocaria.
+>
+> **A recomendação para criação de personagem:** trate o número de passos como o **rótulo**
+> que a cerimônia revela — o resultado público, que é o que o mundo enxerga — e sorteie a
+> porcentagem dentro da banda correspondente. Assim você fica fiel ao que a obra afirma, tem
+> um número jogável, e ainda ganha de graça a tensão social de dois jovens do mesmo grau
+> descobrirem, anos depois, que um valia 41% e o outro 59%.
 
 Duas observações que a designer precisa ter em mãos. Primeiro: **não existe faixa abaixo dos 20%**. A obra separa explicitamente os jovens de grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu. Segundo: as quatro faixas são **bandas regulares de vinte pontos** cada, particionando limpa e inteiramente o intervalo de 20 a 99.
 
@@ -113,7 +130,7 @@ resolva de novo, e com recursos maiores, o mesmo problema.
 
 - **Recuperação de energia** é proporcional ao grau: um grau C repõe cerca de 4% da reserva por hora; um grau A, cerca de 8%. Grau baixo gasta mais [[Pedras Primevas|pedras primevas]] para o mesmo progresso.
 - **Velocidade de avanço de estágio**: um grau C leva o dobro do tempo de um B e o quádruplo de um A, sem métodos de compensação.
-- **Regra de bolso ensinada nos clãs**: D chega ao rank 1 sênior em cerca de três anos; C ao rank 2 em dois; B ao rank 3 em seis ou sete; A ao rank 4 em cerca de dez.
+- **Regra de bolso ensinada nos clãs**: D chega ao rank 1 sênior em cerca de três anos; C ao rank 2 em dois; B ao rank 3 em seis ou sete; A ao rank 4 em cerca de dez. Leia isso como **expectativa social**, não como garantia mecânica: a linha do C pressupõe alguém na faixa alta do grau (55% ou mais), que é a única parte da banda que rompe sozinha, ou alguém com o auxílio descrito adiante. Um C de 44% não chega ao rank 2 em dois anos nem em duzentos.
 - **A recuperação tem grau próprio.** Um personagem pode ter aptidão mediana e mesmo assim uma taxa de reposição de nível A — o que nivela diferenças de rank em batalhas longas de atrito. É um sub-atributo real, não uma variação de sabor.
 
 ### O degrau acima do grau A
@@ -143,6 +160,17 @@ Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativ
 
 > [!example] Caso mecânico
 > Preso dentro de um escudo de rank 5 durante o caos de um confronto, um Mestre Gu rank 3 de grau C usou um Gu demoníaco roubado para converter cada morte ao seu redor em aptidão permanente, saltando de 43% para mais de 90% em poucas horas. É a exceção que confirma a regra: a aptidão é alterável — pelos métodos mais caros e sombrios que o mundo possui.
+>
+> **Duas coisas neste caso quebram travas do sistema, e vale nomeá-las**, porque de outro
+> modo o exemplo parece impossível. Primeira: um Mestre de **nível 3** está acionando um Gu
+> de **nível 4**, o que normalmente destruiria a abertura dele. A exceção em jogo é a de
+> combustível alternativo — Gu demoníacos como esse cobram em **vidas e sangue**, não na
+> essência do usuário, e a trava de rank é uma trava de recurso (a lista completa das
+> exceções está em [[Ranks e Avanço#As exceções à trava de rank]]). Segunda: os 43% de
+> partida são de alguém que **já era rank 3** — ou seja, ele rompeu duas paredes com uma
+> aptidão que, pela regra do limiar, não bastaria. Isso só se explica pelos auxílios
+> descritos acima nesta nota, e é a razão de o caso ser tão citado: ele é um retrato de
+> alguém que passou a carreira inteira operando nas frestas do sistema.
 
 ## Relações
 

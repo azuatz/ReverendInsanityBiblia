@@ -39,8 +39,11 @@ Sobre essa base simples o mundo empilha camadas cada vez mais sofisticadas:
 - **Fusão** — juntar Gu para criar Gu mais fortes ([[Fusão de Gu]]).
 - **Killer moves** — combinações coreografadas de vários Gu que produzem um efeito muito
   maior que a soma das partes ([[Killer Moves]]).
-- **Gu Imortais** — a categoria superior, da qual existe **um único exemplar no mundo
-  inteiro** para cada tipo ([[Gu Imortais]]).
+- **Gu Imortais** — a categoria superior (níveis 6 a 8), da qual existe **um único exemplar
+  no mundo inteiro** para cada tipo. Duas ressalvas que impedem essa regra de travar o
+  sistema, e que valem já aqui: a unicidade vale **só do nível 6 para cima** — Gu mortais se
+  produzem aos milhares —, e **variantes contam como Gu distintos**, de modo que dois bichos
+  parecidos com nomes diferentes coexistem sem violar nada ([[Gu Imortais]]).
 - **Receitas** — o conhecimento de como fabricar um Gu, que vale muito mais que o Gu.
 
 O resultado, para uma designer, é um sistema mágico que se comporta como uma **economia de
@@ -57,8 +60,13 @@ notas desta pasta.
    por fusão, por conjuntos, por killer moves. Não há exceção em rank algum.
 2. **Gu são seres vivos.** Têm vontade própria, têm dieta, envelhecem, adoecem, morrem de
    fome e morrem em acidentes de fabricação.
-3. **Refinar é sobrescrever a vontade do Gu pela sua.** A essência do Mestre é o veículo
-   dessa vontade. Um Gu não refinado não obedece e não pode ser guardado no corpo.
+3. **"Refinar" nomeia duas operações diferentes, e é preciso saber qual está em jogo.**
+   *Subjugar* é sobrescrever a vontade de um Gu que já existe pela sua, usando a própria
+   essência como veículo — leva horas, custa algumas pedras, e todo Mestre faz. *Fabricar
+   por receita* é produzir um Gu novo a partir de materiais — leva anos a séculos, consome
+   um conjunto inteiro por tentativa e quase sempre falha. O mundo usa a mesma palavra para
+   as duas; [[Refino de Gu]] as separa em duas metades. Um Gu não subjugado não obedece e
+   não pode ser guardado no corpo.
 4. **Refinar custa a autonomia do Gu.** Na natureza, um Gu se alimenta sozinho da energia
    do ambiente. Depois de refinado, ele perde isso para sempre e passa a depender
    inteiramente do dono. A conveniência do dono é comprada com dependência total.
@@ -66,8 +74,10 @@ notas desta pasta.
    ([[Essência Primeva]]). Alguns Gu são consumíveis e se dissipam depois de um, dois ou
    três usos.
 6. **Existe um teto de quantos Gu se carrega** — não por regra arbitrária, mas por
-   economia: o custo de alimentar e acionar. Um Mestre médio sustenta quatro ou cinco Gu
-   do próprio nível.
+   economia: o custo de alimentar e acionar. O teto sobe com a carreira, de dois ou três
+   Gu no começo a cerca de sete num veterano do topo mortal; a tabela por perfil, que é a
+   referência do vault para este número, está em
+   [[Usar e Alimentar Gu#O teto: quantos Gu se carrega]].
 7. **O dono pode destruir os próprios Gu com um pensamento**, mais rápido que um piscar de
    olhos. Por isso saquear Gu de um inimigo derrotado é raríssimo: ele os mata antes de
    morrer. Só a morte instantânea e imperceptível deixa espólio.

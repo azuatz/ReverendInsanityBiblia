@@ -95,14 +95,9 @@ O efeito prático é imunidade parcial aos mecanismos do céu. Há um caso docum
 
 Há também um caso especial e importante: a **posse de um artefato de regressão temporal** basta para tirar alguém do destino. Faz sentido dentro da lógica do cenário — quem pode reescrever o próprio passado não tem um caminho de vida fixo, tem vários.
 
-**A vigilância.** Foragidos são localizados por uma construção específica, e os limites dela são precisos e exploráveis:
+**A vigilância.** Foragidos são localizados por uma construção específica — a Torre que Observa o Céu, erguida sobre o próprio Fate Gu e operada pelo [[Tribunal Celestial]]. Ela tem **quatro cegueiras publicadas** e um custo por consulta que um alvo hábil consegue encarecer de fora; a tabela completa dos limites, com a consequência de mesa de cada um, está em [[Tribunal Celestial#A Torre que Observa o Céu]] — que é a nota dona do artefato.
 
-- Ela mostra apenas os foragidos **mais fortes**;
-- apenas os já **descobertos**;
-- **não** enxerga quem estiver dentro de um mundo privado — mundos pequenos são opacos à dedução;
-- **não** vence ocultação competente do caminho da sabedoria;
-- e sua jurisdição prática é **regional**: ela não opera livremente fora do Continente Central, porque as paredes regionais limitam o alcance da instituição que a opera.
-- Cada consulta custa dinheiro imortal de alto valor, e o custo **dobra** sob interferência hostil — a vigilância pode ser encarecida de fora, e um alvo suficientemente hábil chega a "olhar de volta".
+O que importa registrar aqui, do lado do destino, é a assimetria que isso cria: **ser visto pela Torre é condição para ser caçado, e escapar dela é mais fácil do que escapar do destino.** Um foragido do destino continua sendo foragido dentro de um mundo privado; ele apenas deixa de ser localizável. A vigilância é o gargalo prático da caça, não o mecanismo do destino.
 
 ## Demônios de outro mundo
 

@@ -21,10 +21,12 @@ partes** — e é o teto de poder de qualquer indivíduo neste mundo.
 > [!note] O que esta nota cobre
 > Esta é a nota mais longa do material, e ela empilha vários sistemas. O mapa, em ordem:
 >
-> 1. **O que são** e as famílias de golpe (por quem opera, por tipo de efeito, por relação
->    com os Gu) — inclusive a comparação killer move × casa de Gu Imortal.
+> 1. **O que são** — a definição e o que caracteriza a categoria.
 > 2. **A economia de ações**: quantas coisas um personagem consegue fazer ao mesmo tempo.
-> 3. **A escala**, do golpe pontual ao campo de batalha imortal.
+>    Se você só puder ler uma seção, leia esta.
+> 3. **As famílias de golpe** (por quem opera, por tipo de efeito, por relação com os Gu) —
+>    inclusive a comparação killer move × casa de Gu Imortal e a escala completa, do golpe
+>    pontual ao campo de batalha imortal.
 > 4. **Como se criam** e como se melhoram.
 > 5. **Backlash** — o que acontece quando dá errado, e a tabela mais aproveitável da base.
 > 6. **Condensação** e a teoria que unifica tudo (matéria de mestre, não de mesa).
@@ -67,6 +69,51 @@ sistema inteiro:
 
 Um golpe combinado não é uma técnica: é um **Gu que ainda não foi fabricado**. Voltaremos a
 isso na seção sobre condensação.
+
+## Quantas coisas um personagem faz ao mesmo tempo
+
+Esta é a primeira regra que qualquer mesa precisa escrever, e o material a espalhava por
+quatro notas com números que pareciam brigar. A resolução cabe numa distinção.
+
+> [!warning] Um golpe é **uma** tarefa, por mais Gu que ele use
+> O mundo tem dois limites diferentes, e eles medem coisas diferentes:
+>
+> - **Gu articulados num golpe único = 1 tarefa.** Um killer move de quarenta e dois Gu é
+>   uma coreografia ensaiada, acionada como um bloco. O esforço mental é o de *um* comando
+>   complexo, não o de quarenta e dois comandos simultâneos.
+> - **Gu com comandos independentes = N tarefas.** Aí sim vale a escada estreita que o
+>   material repete: controlar **dois** Gu com propósitos separados ao mesmo tempo já
+>   destaca alguém; **três** é o teto da elite; **quatro** é excepcional; **cinco** só com
+>   constituição extrema.
+>
+> É por isso que refinar dois Gu ao mesmo tempo é façanha de veterano enquanto disparar um
+> golpe de catorze Gu é rotina para um imortal: refinar exige atenção separada por bicho,
+> disparar exige atenção para o golpe.
+>
+> Esta distinção é **reconstrução nossa**: a obra usa os dois limites em contextos separados
+> e nunca os confronta. Ela é, porém, a única leitura que mantém de pé tudo o que o material
+> afirma.
+
+Três consequências que essa regra explica de uma vez:
+
+- **Por que a [[Fusão de Gu|fusão]] é tão difícil.** Fundir exige, explicitamente, controlar
+  **cada Gu envolvido separadamente e ao mesmo tempo** — ou seja, é o caso raro em que N Gu
+  custam N tarefas. É por isso que a fusão bate no teto de dois ou três tão depressa, enquanto
+  um golpe empilha dezenas.
+- **Por que golpes simultâneos são limitados a cerca de cinco.** O limite de golpes é uma
+  camada acima do limite de Gu: cada golpe ativo consome atenção. E aqui a regra madura da
+  obra corrige a intuição — **não é um corte binário, é uma curva descendente**: manter
+  golpes demais não impede o uso, faz a **taxa de sucesso de cada um cair**.
+- **Por que clones cognitivos valem uma fortuna.** Eles são a única forma documentada de
+  comprar tarefas a mais: absorvem a divisão de atenção e o backlash no lugar do dono.
+
+> [!note] Para o design
+> Aqui está a economia de ações pronta: **uma ação complexa por turno, com um teto de duas a
+> três ações independentes para personagens de elite**, e um degrau acima para "quantos
+> efeitos contínuos você sustenta", com penalidade progressiva em vez de trava. O detalhe
+> elegante é que investir em *coreografia* (criar golpes maiores) e investir em *atenção*
+> (conseguir sustentar mais coisas separadas) são dois eixos de progressão distintos — e o
+> primeiro é muito mais barato, o que explica por que o mundo inteiro fabrica golpes.
 
 ## As categorias
 
@@ -320,7 +367,10 @@ contra-atacar**.
 estiver o alvo — e que, à queima-roupa, é bloqueado por um golpe comum qualquer.
 
 **Vazamento por repetição:** quanto mais um cultivador usa um golpe específico, mais
-informação vaza para observadores com dedução passiva. Um golpe de assinatura exposto numa
+informação vaza para observadores com ==dedução passiva== — isto é, especialistas do
+[[Wisdom Path|caminho da sabedoria]] cujos métodos ficam ligados o tempo todo, colhendo e
+cruzando o que passa diante deles sem que precisem investigar de propósito. Não é espionagem:
+é alguém que **não consegue não reparar**. Um golpe de assinatura exposto numa
 grande batalha fica temporariamente **inseguro** contra adversários de topo e precisa ser
 modificado antes do reuso. O mundo chama isso, informalmente, de golpe "queimado".
 

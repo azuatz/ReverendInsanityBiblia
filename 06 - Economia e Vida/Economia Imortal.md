@@ -213,10 +213,22 @@ alimento **morre de fome**: existe um método de conservação de longo prazo qu
 de rocha usando outro Gu como membrana — e o Gu selante fica preso lá dentro também, como
 parte do preço.
 
+**A despesa agendada: as provações.** ==Provação== é o nome geral dos desastres que o
+próprio mundo dispara, em ciclos fixos, contra todo Gu Imortal — porque a existência dele
+desequilibra o céu e a terra. Vêm em quatro classes de gravidade crescente, sendo a mais
+branda a ==calamidade terrena== e as mais graves as *tribulações*. Elas não são azar: são um
+**calendário**, e todo imortal sabe quando a próxima chega. Sobreviver a uma rende
+[[Dao Marks|dao marks]] — o avanço do reino imortal —; não sobreviver é o fim. O calendário
+completo, com a cadência de cada rank e quanto cada classe rende, está em
+[[Tribulações e Calamidades]] e em [[Tabelas de Referência Rápida]].
+
+O que interessa aqui é o efeito no orçamento: **preparar-se para provações é uma despesa
+periódica obrigatória**, e acelerar o desenvolvimento do próprio território faz as provações
+chegarem mais cedo e mais fortes. Crescer depressa custa caro duas vezes.
+
 **Renda não é reserva.** Quanto mais alguém usa seus melhores artefatos em combate e mais
-acelera o desenvolvimento do próprio território (o que atrai provações mais frequentes),
-maior o descompasso entre o que ganha e o que sobra. A expressão usada no mundo é que a
-essência "vai e vem como um rio".
+acelera o desenvolvimento do próprio território, maior o descompasso entre o que ganha e o
+que sobra. A expressão usada no mundo é que a essência "vai e vem como um rio".
 
 ## Crédito
 
@@ -286,16 +298,50 @@ pontos, com mais de setenta mil gastos num único artefato de rank 7.
 A riqueza madura de um imortal não é dinheiro: é **território produtivo**. A grade é
 padronizada:
 
-| Porte do ponto de recurso | Produz |
-|---|---|
-| Minúsculo, pequeno, médio | Nível rank 1 a 5 |
-| Grande | Rank 6 estável, rank 7 ocasional |
-| Gigante | Rank 7 estável |
-| Super | Nível rank 8 |
-| Pináculo | Domínio recluso de céu e terra |
+Um ==ponto de recurso== é um pedaço de território que **gera material de cultivo
+continuamente**, sozinho, para sempre — uma jazida viva. Ele é para o imortal o que a
+nascente espiritual é para o clã mortal (ver [[Pedras Primevas]]): não é um estoque que se
+gasta, é uma renda que não para. Por isso a riqueza madura de um imortal se mede em pontos
+de recurso, e não no que ele tem guardado.
+
+A grade é padronizada em seis portes. A coluna do meio responde à única pergunta que
+importa — **de que rank é o material que sai dali**:
+
+| Porte do ponto de recurso | Rank do material que produz | O que isso significa na prática |
+|---|---|---|
+| Minúsculo | rank 1 a 2 `inferido` | sustenta alguns Mestres Gu mortais; irrelevante para um imortal |
+| Pequeno | rank 2 a 3 `inferido` | base de um clã mortal pequeno |
+| Médio | rank 3 a 5 `inferido` | base de um clã mortal próspero; é a faixa em que uma campanha mortal acontece |
+| Grande | rank 6 estável, rank 7 ocasional | o primeiro porte que interessa a um imortal |
+| Gigante | rank 7 estável | ativo de super força |
+| Super | rank 8 | ativo estratégico; poucos existem |
+| **Pináculo** | **acima da escala — não precificável** | não produz "material de rank tal": o próprio território **é** um domínio recluso de céu e terra, uma realidade autocontida. Ver [[Blessed Lands e Grotto-Heavens]] |
+
+Os três portes de baixo estão marcados `inferido` porque a obra os trata como um bloco
+único ("nível rank 1 a 5") e nunca diz onde um termina e o outro começa. A repartição acima
+é deste vault, feita para dar utilidade à faixa mortal; use-a à vontade, sabendo que não é
+cânone. Os portes de Grande para cima são do texto.
+
+Duas leituras da tabela. Primeira: os três portes de baixo foram separados de propósito,
+porque é neles que uma campanha de ranks 1 a 5 se passa inteira — para um imortal, os três
+se confundem numa faixa só de "irrelevante", mas para os personagens de uma mesa comum a
+diferença entre um ponto minúsculo e um médio é a diferença entre um vilarejo pobre e um
+clã que forma rank 4. Segunda: a linha **Pináculo** quebra a coluna de propósito, e isso é
+a informação. Ela não fica no fim da escala de produção — ela sai da escala. Ver a nota
+sobre domínios reclusos abaixo.
 
 Uma super força pobre tem três ou quatro pontos de recurso de nível super; uma rica passa de
 dez.
+
+> [!warning] "Domínio recluso de céu e terra" e "gruta-céu" são a mesma família de coisa
+> Dois nomes que aparecem no vault e podem passar por conceitos diferentes. Quando um
+> Mestre Gu ascende ao rank 6, a [[Abertura|abertura]] dele — a cavidade interna onde
+> guarda seus Gu e sua energia — é estilhaçada e renasce como um **mundo em miniatura
+> autocontido**, com céu, terra e fluxo de tempo próprios. Esse mundo é a ==terra abençoada
+> (blessed land)==; a partir do rank 8 ele cresce e muda de categoria, virando uma
+> ==gruta-céu (grotto-heaven)==. "Domínio recluso de céu e terra" é o rótulo que a obra usa
+> para essa mesma classe de realidade quando ela aparece como território, e não como órgão
+> de cultivo de alguém. Tudo isso está numa nota só: [[Blessed Lands e Grotto-Heavens]].
 
 **Três regras econômicas de território:**
 
@@ -308,12 +354,19 @@ dez.
    de retorno de uma operação em condições ideais foi de um ano para suprir a própria
    demanda, mais dois para começar a lucrar, mais três para quitar o empréstimo.
 3. **Territórios muito grandes ficam instáveis.** A solução tardia do mundo é construir
-   **veias de dao** — canais artificiais que concentram e canalizam a energia de um campo
-   específico em vez de deixá-la difusa. Cada veia se monta com pontos de recurso reais
-   comprados ou tomados (uma delas exige treze nós de alto rank para se fechar), o que
-   transforma pontos de recurso de simples renda em **peça de engenharia**. O preço deles
-   passa a variar conforme a veia que está sendo construída — um mercado interno com
-   política monetária própria.
+   ==veias de dao== — canais artificiais que concentram e canalizam a energia de um
+   [[Visão Geral dos Paths|caminho]] específico em vez de deixá-la difusa pelo terreno.
+
+   O nome vem de **dao**, a palavra do mundo para "lei fundamental do universo": um
+   fragmento dessa lei gravado num corpo é uma [[Dao Marks|dao mark]], a unidade de
+   progressão de um imortal; um veio dela correndo pelo chão é uma veia de dao. Uma serve
+   para o cultivador ficar mais forte, a outra para o território ficar mais produtivo, e as
+   duas são a mesma substância em escalas diferentes.
+
+   Cada veia se monta com pontos de recurso reais comprados ou tomados (uma delas exige
+   treze nós de alto rank para se fechar), o que transforma pontos de recurso de simples
+   renda em **peça de engenharia**. O preço deles passa a variar conforme a veia que está
+   sendo construída — um mercado interno com política monetária própria.
 
 ## Um estudo econômico completo: a guerra de preços
 
@@ -382,8 +435,17 @@ destruiu o próprio mercado.**
 ## Outras práticas de mercado
 
 - **Monopólio por retenção de oferta:** segurar a produção para subir o preço. Um monopólio
-  documentado passou de 48 para 92 e depois para cerca de 300 unidades de renda mensal
-  apenas com escassez artificial.
+  documentado triplicou e depois sextuplicou a própria receita mensal — de 48 para 92 e
+  daí para cerca de 300 **pedras de essência imortal por mês** — apenas com escassez
+  artificial, sem produzir uma unidade a mais.
+
+  > [!note] A unidade é sempre a pedra de essência imortal
+  > Quando esta pasta disser "renda mensal" de um imortal sem qualificar, a unidade é a
+  > **pedra de essência imortal** — a moeda descrita no alto desta nota —, nunca contas de
+  > essência, que são pessoais e intransferíveis e por isso não servem para medir renda de
+  > negócio. Compare sempre com a tabela de riqueza típica por rank: 300 pedras por mês é
+  > uma renda que, em menos de um ano, reconstrói do zero a reserva típica de um rank 6.
+  > É por isso que monopólios valem guerras.
 - **Vender de cima para baixo:** produzir com o próprio artefato o produto acabado, sem
   jamais liberar uma receita que possa ser copiada.
 - **Modelo "aparelho e lâmina":** vender barato a peça inicial de uma série, escondendo que
@@ -407,5 +469,12 @@ destruiu o próprio mercado.**
 - [[Pedras Primevas]] — a moeda que esta substitui a partir do rank 6.
 - [[Mercados e Leilões]] — as regras de mercado do lado mortal e o leilão de artefatos.
 - [[Tribunal Celestial e Grandes Forças]] — quem emite a moeda e como usa isso politicamente.
-- [[Estudos de Caso Mecânicos]] — a guerra de preços e a fazenda de provações em detalhe.
+- [[Estudos de Caso Mecânicos]] — a guerra de preços passo a passo, e o caso da **fazenda
+  de provações**: um imortal que transforma as provações alheias (as descritas acima) em
+  negócio, patrocinando cultivadores mais fracos e ficando com parte do que eles colhem ao
+  sobreviver.
+- [[Tribulações e Calamidades]] — o calendário de provações que essa economia precisa
+  financiar.
+- [[Visão Geral dos Paths]] — os caminhos de cultivo que definem o que cada território
+  produz e cada missão exige.
 - [[Eventos e Instituições Jogáveis]] — os eventos que movimentam esta economia.

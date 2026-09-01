@@ -32,7 +32,7 @@ O processo é documentado em detalhe para a passagem do rank 1 ao 2, e o padrão
 
 1. **Estar no estágio de pico** do rank atual — ou seja, com a parede da abertura já convertida em cristal.
 2. **Atacar a parede de cristal com essência contínua.** Ela se autorregenera: uma pausa de cerca de quinze minutos apaga o progresso acumulado. Na prática, isso transforma a ruptura num esforço ininterrupto de dias, com concentração constante — um caso documentado levou quatro dias e três noites.
-3. **Ter o piso de recursos.** Sem situações especiais, é preciso projetar de uma só vez pelo menos **55% da essência do estágio mais avançado do rank**. Esse é o número que exclui a maior parte dos graus C e D, cujo teto de armazenamento fica abaixo disso.
+3. **Ter o piso de recursos.** Sem situações especiais, é preciso projetar de uma só vez pelo menos **55% da essência do estágio mais avançado do rank**. Esse é o número que exclui **todo o grau D** (cujo teto é 39%) e **cerca de três quartos da faixa C** (que vai de 40% a 59%, e só rompe a partir dos 55%). Os graus B e A passam com folga. É a razão aritmética de o grau C ser uma sentença social: não é preconceito de clã, é uma conta.
 
 Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primevo, uma nova membrana de luz se forma e a primeira gota de essência da nova cor emerge.
 
@@ -73,7 +73,7 @@ Este é o cardápio de atalhos do mundo mortal — e o mais interessante é que 
 | **Itens que elevam a aptidão** | atacam a causa: elevam o teto, e com ele a possibilidade de romper | raríssimos; alguns são demoníacos e cobram vidas (ver [[Aptidão]]) |
 | **Gu de refino de essência** | destila a própria energia para o estágio acima, a 4 por 1 | é preciso possuir e alimentar o Gu; perde-se 75% do volume |
 | **Transfusão de essência de um aliado mais forte** | permite avançar com energia alheia, inclusive de **rank** | contamina a abertura, a menos que se use o par de Gu conversor; exige limpeza depois |
-| **Relic Gu** (série de cinco, um por rank) | avança **um estágio inteiro instantaneamente**, sem sequelas | caríssimos, e **não cruzam a barreira de rank** — ver abaixo |
+| **Relic Gu** — "Gu-relíquia", esferas consumíveis do tamanho de um polegar, uma série de cinco, uma por rank | avança **um estágio inteiro instantaneamente**, sem sequelas | caríssimos, e **não cruzam a barreira de rank** — ver abaixo |
 | **Gu que converte a parede em pedra grossa** | salta direto ao estágio de pico do rank atual | queima o potencial de avanço de rank no futuro: teto permanente |
 | **Ritual demoníaco de fusão com sacrifício humano** | força o avanço de **um rank inteiro** | mortes humanas no ritual e resíduo que corrói a aptidão do usuário |
 
@@ -92,12 +92,35 @@ As regras que os cercam:
 > [!note] Para o design
 > A trava econômica dos relic Gu é a coisa mais engenhosa do sistema de progressão, e só é revelada bem no fim da obra: eles são Gu de uma categoria específica de lei — a **humana** —, e por isso se formam naturalmente **apenas onde há muitos humanos**. Ninguém consegue fabricá-los: nem os maiores refinadores da história, nem a maior organização do mundo. Consequência de worldbuilding pronta para uso: **sociedade grande e antiga = progressão barata; fronteira despovoada = progressão cara**. O "pergaminho de experiência" do sistema é colhido, nunca produzido, e sua abundância é função da densidade populacional.
 
-### Duas exceções que furam a trava de rank
+### As exceções à trava de rank
 
-A regra "só se usa Gu de rank igual ou inferior ao seu" tem furos conhecidos, e ambos são elegantes:
+A regra "só se usa Gu de rank igual ou inferior ao seu" é a que mais estrutura o poder neste
+mundo — e ela é **porosa**. As exceções estavam espalhadas por cinco notas; ficam reunidas
+aqui, porque juntas elas dizem uma coisa que separadas não dizem: **a trava é uma trava de
+recurso, não uma lei da física**, e os personagens mais interessantes do mundo moram nos
+furos.
 
-- **Trocar o combustível.** Existe um Gu de rank 5 que consome **medula óssea do usuário em vez de essência primeva** — o que permite a um Mestre Gu rank 1 acioná-lo. O preço é dano corporal potencialmente letal com o uso repetido. A trava de rank é uma trava de *recurso*: mude o recurso e ela cede.
-- **Condições que não são de recurso.** Alguns Gu exigem um **estado mental**, não uma quantidade. Um deles só ativa se o usuário genuinamente acreditar estar do lado certo — e se neutraliza induzindo nele dúvida ou vergonha sinceras, sem veneno nem combate. Vale registrar a categoria: requisitos de convicção existem no sistema.
+| # | A exceção | Por que funciona | O que ela custa |
+|---|---|---|---|
+| 1 | **Trocar o combustível** | um Gu de nível 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de nível 1 | dano corporal potencialmente letal com o uso repetido |
+| 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia — um deles só ativa se o usuário acreditar sinceramente estar do lado certo | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
+| 3 | **Vínculo de [[Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
+| 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
+| 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de nível 6 que se camuflou de uma inspeção de nível 4 dentro da abertura de um Mestre de nível 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
+
+Some a isso um sexto caso, que não é exceção à regra e sim uso de um **item** acima do
+próprio nível: existe registro de um Mestre Gu de **nível 3** que acionou um Gu demoníaco
+roubado de **nível 4** para converter mortes ao redor em aptidão permanente (ver
+[[Aptidão]]). O caso pertence à mesma família da exceção 1 — Gu demoníacos tipicamente
+cobram em vidas, sangue ou corpo, não em essência do usuário —, e é o exemplo mais claro de
+que a porosidade da trava é justamente onde as histórias acontecem.
+
+> [!note] Para o design
+> Cada linha da tabela acima é um **arquétipo jogável pronto**: o que queima o próprio corpo
+> para empunhar o que não deveria; o fanático cuja arma falha no instante em que ele duvida;
+> o herdeiro de um Gu grande demais para ele; o filho de uma linhagem desenhada como
+> ferramenta; e o ladrão que carrega um monstro adormecido. A trava rígida dá a estrutura; as
+> cinco frestas dão os personagens.
 
 ## O que cada rank significa no mundo
 
@@ -112,6 +135,43 @@ A regra "só se usa Gu de rank igual ou inferior ao seu" tem furos conhecidos, e
 | 9 | Venerável: um por era, dez em toda a história |
 
 Alguns números de densidade que ajudam a calibrar a escala: numa região de bilhões de habitantes existem apenas **várias centenas de rank 4 e menos de cinquenta rank 5**. Mesmo superpotências têm só dois ou três rank 5. Em toda uma fronteira continental há pouco mais de cem. Entre dez milhões de Mestres Gu, talvez nenhum consiga ascender ao rank 6.
+
+### A pirâmide demográfica
+
+Os números acima dão o topo e não dão a base, que é justamente o que decide o tom de uma
+campanha ("os personagens são especiais ou são a tropa comum?"). A tabela abaixo completa a
+pirâmide — com a advertência de que **só as duas últimas linhas são da obra**; o resto é
+reconstrução deste material, feita para ser usável, não para ser cânone.
+
+| Rank | Por 100.000 habitantes | Numa região de ~3 bilhões | Origem do número |
+|---|---|---|---|
+| Mortal comum (nunca vira Mestre Gu) | ~99.000 | a esmagadora maioria | `inferido` |
+| Rank 1 | ~700 | ~21 milhões | `inferido` |
+| Rank 2 | ~250 | ~7,5 milhões | `inferido` |
+| Rank 3 | ~40 | ~1,2 milhão | `inferido` |
+| Rank 4 | 1 a cada **10 milhões** de habitantes | **várias centenas** | **canônico** |
+| Rank 5 | 1 a cada **60 a 100 milhões** | **menos de cinquenta** | **canônico** |
+
+Duas coisas que a tabela ensina e que valem mais que os números:
+
+**A entrada é um portão social, não só de talento.** Só membros de sangue de um clã passam
+pela [[Abertura|Cerimônia do Despertar]] — cultivo é reservado à linhagem e negado aos
+servos, por estabilidade política. A fração de 1% de Mestres Gu na população não mede quanta
+gente *tem* talento; mede quanta gente foi **autorizada a descobrir** se tem. É um dos ganchos
+de campanha mais fortes do cenário inteiro.
+
+> [!warning] O penhasco entre o rank 3 e o rank 4
+> A obra é literal quanto ao topo (várias centenas de rank 4) e quanto ao papel social do
+> rank 3 (ancião de clã, figura comum numa cidade grande). Junte os dois e sai uma queda de
+> **três ordens de grandeza** entre um degrau e o seguinte — muito mais abrupta que qualquer
+> outra transição da escada.
+>
+> Isso não é erro nosso: é o que o material afirma, e ele nunca suaviza. O próprio texto
+> tensiona a coisa em outro lugar, ao descrever o rank 4 como "líder de dez mil pessoas", o
+> que implicaria muito mais rank 4 do que várias centenas. **Onde a obra não decide, decida
+> você:** se quiser uma campanha em que alcançar o rank 4 é entrar para um clube de trezentas
+> pessoas num continente, use os números canônicos; se quiser uma em que o rank 4 é o
+> patamar dos senhores locais, afrouxe a linha e mantenha só o rank 5 como raridade absoluta.
 
 E a escala varia por lugar: na maior cidade mortal do mundo, um rank 3 é figura **comum**; numa aldeia de fronteira, o mesmo rank 3 é o ancião com autoridade sobre todos. O rank é absoluto; o status que ele confere é local.
 

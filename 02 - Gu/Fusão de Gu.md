@@ -14,8 +14,13 @@ conhecimento: comum
 # Fusão de Gu
 
 **Em uma frase:** ==fundir== é combinar dois ou mais Gu já dominados num único Gu de nível
-mais alto — o principal caminho de evolução e de fabricação do mundo, e nunca uma operação
-garantida.
+mais alto — a técnica central da fabricação neste mundo, e nunca uma operação garantida.
+
+Uma palavra sobre vocabulário, porque três verbos circulam e é fácil se perder: **subjugar**
+é domar um bicho que já existe; **fabricar por receita** é produzir um bicho novo do começo
+ao fim; e **fundir** — o assunto desta nota — é o **passo** de que a fabricação é feita.
+Fabricar um Gu de nível 5 é executar uma sequência de fusões e preparos. Os três verbos
+estão desembaraçados no alto de [[Refino de Gu]].
 
 A obra descreve o que acontece de forma memorável: a fusão **condensa num instante um
 processo evolutivo natural** que a espécie levaria eras para percorrer. É por isso que ela
@@ -32,6 +37,12 @@ Durante a fusão, o Mestre precisa controlar **cada Gu envolvido separadamente e
 tempo**, fundindo suas consciências. A analogia usada no mundo é desenhar um círculo com uma
 mão e um quadrado com a outra, simultaneamente. A maioria dos Mestres Gu não consegue nem
 sustentar duas tarefas ao mesmo tempo, e por isso jamais funde nada — compra Gu prontos.
+
+Este é **o** caso em que N Gu custam N tarefas de atenção, e é o que torna a fusão tão
+seletiva. Um golpe de catorze Gu é uma coreografia acionada como um bloco; uma fusão de três
+Gu são três comandos independentes simultâneos, o que já é raro no mundo. A regra completa
+de economia de ações está em
+[[Killer Moves#Quantas coisas um personagem faz ao mesmo tempo]].
 
 ### 2. Receita
 
@@ -71,11 +82,23 @@ receitas "oficiais" são sempre incompletas, e a vantagem competitiva mora nas m
 
 ## Taxas de falha
 
-| Nível-alvo | Chance aproximada |
+| Nível-alvo | Chance aproximada de **uma** fusão dar certo |
 |---|---|
 | 1 a 3 | fácil; rotina de clã |
 | 4 a 5 | **abaixo de 10%** |
 | 6 (Gu Imortal) | **cerca de 1%** |
+
+> [!warning] Estes números medem **um passo**, não a produção inteira
+> É a confusão mais fácil de cometer neste material, e ela muda tudo em duas ordens de
+> grandeza. Os valores acima são a chance de **uma fusão** dar certo. Fabricar um Gu de
+> nível 5 do começo ao fim é uma **cadeia** de fusões e preparos, e a chance de a cadeia
+> inteira chegar ao fim é muito menor: fica **abaixo de 1 em 1.000**.
+>
+> Ou seja: os "10%" desta tabela e o "0,1%" que aparece em [[Refino de Gu]] não se
+> contradizem — medem coisas de tamanhos diferentes. A tabela que põe as três operações
+> lado a lado (subjugar, fundir, fabricar) está em
+> [[Refino de Gu#As taxas de sucesso, lado a lado]], e a versão de consulta rápida em
+> [[Tabelas de Referência Rápida#12. Taxas de sucesso de refino]].
 
 ### O que acontece quando falha
 
@@ -187,9 +210,10 @@ Como as receitas são guardadas, na prática:
 `conhecimento: especializado`
 
 Melhorar uma receita é uma atividade distinta de executá-la, com sua própria escala de
-dificuldade:
+dificuldade. Os níveis abaixo são degraus da escala de [[Attainment]] — o eixo de domínio
+teórico do sistema, que corre em paralelo ao nível de cultivo — e é lá que estão definidos:
 
-| Tarefa | Domínio mínimo exigido |
+| Tarefa | Domínio mínimo exigido ([[Attainment]]) |
 |---|---|
 | Engenharia reversa de um Gu comum existente | mestre |
 | Deduzir uma receita nova | grão-mestre |

@@ -88,11 +88,28 @@ E há uma consequência que explica um fenômeno cotidiano do cenário: `especia
 
 Uma montanha feita de incontáveis Gu do fracasso empilhados — cada pedra um fracasso que inflige males aleatórios a quem passa —, com um único Gu do sucesso no topo. Uma das filhas de Ren Zu subiu, terminou monstruosa e pegou o Gu errado por engano, sob a moral de que *a maior tragédia é perder o senso de si*.
 
-Isso é a base mítica de uma família real de Gu ligados a êxito imediato e acerto de primeira tentativa. E de um princípio operacional que um Venerável transformou em método: **todo fracasso tem valor** — existe um Gu que devora fracassos e absorve permanentemente o poder deles. As "marcas de sucesso" que circulam na economia do mundo vêm dessa lógica.
+Isso é a base mítica de uma família real de Gu ligados a êxito imediato e acerto de primeira tentativa. E de um princípio operacional que um Venerável transformou em método: **todo fracasso tem valor** — existe um Gu que devora fracassos e absorve permanentemente o poder deles.
+
+É daqui que vêm as ==marcas do sucesso==, o item mais valioso da profissão de refinador: marcas gravadas no corpo que, consumidas num refino, eliminam a probabilidade natural de falha. A regra operacional — o que elas fazem, quantas cobrem cada nível, por que são intransferíveis e incomercializáveis — está em [[Refino de Gu#As marcas do sucesso: de onde vêm e o que compram]]. O que este mito acrescenta é a **lógica** delas, e ela é notável: neste mundo, fracasso não é ausência de resultado, é matéria-prima. Alguém precisa fracassar muito para que outra pessoa acerte de primeira.
 
 ### A origem das espécies
 
-Vários episódios explicam de onde vieram povos e materiais que existem hoje:
+Vários episódios explicam de onde vieram povos e materiais que existem hoje. Antes da lista, o
+enquadramento que ela precisa — porque nem tudo aqui tem o mesmo peso de jogo:
+
+| Povo | Existe no presente? | Papel numa mesa |
+|---|---|---|
+| Homens-peludos | **Sim**, em número relevante | **Povo jogável ou PNJ recorrente.** Têm regra de comportamento própria e são um dos grupos barrados pelo [[Tribunal Celestial]] |
+| Homens-pena | **Sim** | **PNJ e recurso.** A morte deles produz um Gu que ninguém consegue capturar |
+| Homens-de-pedra | Míticos; sobrevivem como **referência cultural** | **Cor de fundo e alusão.** As pessoas os citam como citaríamos um conto de fadas |
+| Homens-de-tinta | Míticos | **Gancho de tesouro**, pelas lascas do espelho — item de colecionismo e de falsificação |
+
+Os dois primeiros são **humanos variantes**: raças aparentadas com a humanidade, várias com
+dons inatos extraordinários, e sistematicamente excluídas do topo institucional do mundo. Essa
+exclusão é uma das fraturas políticas centrais do cenário — ver
+[[Tribunal Celestial#Quem ela exclui]]. Os dois últimos são mitologia com resíduo material.
+
+Com isso em mente, os episódios:
 
 - **Os homens-de-pedra** nascem quando um Gu do amor anima uma pedra; a criatura nasce apaixonada pela primeira pessoa que vê. A parábola do homem-de-pedra que oferece ferro, cobre, prata, ouro e por fim o próprio coração, e morre rejeitado, é referência cultural corrente — as pessoas a citam do jeito que citaríamos um conto de fadas.
 - **Os homens-de-tinta** nasceram da tinta solidificada de uma cachoeira que caía sobre uma fonte de literatura, dentro de um espelho gigante flutuante ao qual a nona filha de Ren Zu foi para salvar o Gu da sabedoria. O mesmo episódio é a origem mítica da **escrita**. O espelho se partiu, e suas lascas são hoje item de colecionismo e alvo de falsificação.

@@ -60,7 +60,22 @@ O que ele ganha com isso é considerável:
 - **O direito de dormir.** Membros podem hibernar para desacelerar a perda de expectativa de vida, acordando apenas sob convocação de emergência. A maioria faz exatamente isso.
 - **Mobilidade mundial.** Viajam entre as cinco regiões pelos dois céus imemoriais, o que **contorna as paredes regionais** e a punição que normalmente recai sobre quem cultiva fora da região natal. Ver [[As Cinco Regiões#As paredes regionais]].
 
-E o que ele perde: a própria base material. O texto marca explicitamente que existe uma desvantagem oculta nessa troca e nunca a revela. O efeito prático, esse sim, é claríssimo: **um membro que saia da Corte é um imortal sem terra.**
+E o que ele perde: a própria base material. O efeito prático é claríssimo: **um membro que saia da Corte é um imortal sem terra.**
+
+Há ainda uma segunda perda, e ela é uma curiosidade editorial: o texto marca explicitamente que a troca embute uma **desvantagem oculta** — e nunca diz qual é.
+
+> [!note] Para o design — um espaço em branco deliberado, e ele é seu
+> Essa lacuna não é falha de pesquisa nossa: a obra a deixa em aberto de propósito, sinalizando
+> que existe um custo escondido sem jamais nomeá-lo. Para uma mesa, isso é um presente, porque
+> é exatamente o formato de um segredo que a mestra preenche como quiser e revela quando o
+> grupo tiver investido o suficiente para se importar.
+>
+> Três preenchimentos que se encaixam no que o resto desta nota já estabelece, sem contradizer
+> nada: (a) a fusão é **irreversível** e a dimensão-fantasma nunca volta a crescer, de modo que
+> o membro está preso a um teto de poder para sempre; (b) a fusão dá à Corte acesso permanente
+> ao interior do membro, anulando contra ela a zona cega que os mundos privados oferecem contra
+> todo o resto do mundo; (c) a estagnação descrita logo abaixo é a desvantagem, e os fundadores
+> sabiam disso desde o início. Escolha uma, ou nenhuma — mas escolha antes de a mesa perguntar.
 
 > [!note] Para o design — o preço real do ingresso é a progressão
 > Junte três regras que moram em notas diferentes e a conclusão é dura, canônica e ninguém a

@@ -60,8 +60,10 @@ para as crises funciona, na prática, como descarte honroso de quem já não pro
 
 ## Onde as pessoas moram
 
-- **Vilas compactas e muradas.** A muralha não é decorativa: existem marés de feras
-  recorrentes, e a defesa coletiva é a razão de ser do assentamento. O efeito econômico é
+- **Vilas compactas e muradas.** A muralha não é decorativa: a região sofre
+  [[Bestas Gu e Reis Fera|marés de bestas]] recorrentes — migrações periódicas em que
+  várias espécies de feras avançam de uma vez sobre as terras cultivadas —, e a defesa
+  coletiva é a razão de ser do assentamento. O efeito econômico é
   imediato — o espaço dentro dos muros é escasso, então **imóveis são caros**, e os
   subterrâneos, mais baratos, são úmidos e insalubres no inverno.
 - **Casas de bambu e madeira de dois andares.** Uma estalagem por vila. Uma loja de vinhos

@@ -32,6 +32,31 @@ O segundo é o do isolamento. As regiões não estão separadas por oceanos intr
 
 Três das cinco paredes são nomeadas na obra: a *parede santa* do Continente Central, a *parede alcaçuz* das Planícies do Norte e a *parede de água azul* do Mar Oriental.
 
+### O que se sabe sobre as paredes
+
+A parede regional é explicada em **três níveis de profundidade**, e cada um pertence a uma
+camada de conhecimento diferente. Isso importa mais do que parece: define o que os jogadores
+podem saber na primeira sessão, e o que precisa ser descoberto.
+
+| Degrau | O que se sabe | Quem sabe |
+|---|---|---|
+| **1. O efeito** | Atravessar a parede enfraquece: você chega valendo um rank a menos, e seus Gu ficam assim para sempre. | `comum` — todo mundo. É senso comum de viajante, como saber que existe alfândega. |
+| **2. A causa** | Cada região tem uma **veia de terra** própria, cada veia produz uma energia de sabor distinto, e a parede é a faixa de turbulência onde duas energias vizinhas se encontram. | `especializado` — anciãos de clã, estudiosos, imortais. Explica por que a "nacionalidade" de um Gu é onde ele foi refinado. |
+| **3. A identidade** | Parede e **maré de qi** são o *mesmo fenômeno em dois estados*: a parede é a maré congelada; a maré é a parede derretendo. | `segredo` — pouquíssimos. Ver [[Cosmologia#Marés de qi]]. |
+
+O degrau 3 é o que dá o arrepio, e vale explicitá-lo: um cultivador do degrau 2 entende
+perfeitamente por que a parede existe e ainda assim **não faz ideia de que a catástrofe
+periódica que ele teme é a sua própria fronteira se desfazendo**. Ele trata os dois como
+desastres distintos. Para uma mesa, essa é uma revelação de campanha inteira embalada em uma
+frase.
+
+> [!note] Para o design
+> Use a escada como cronograma de revelação. Os jogadores começam no degrau 1, que é
+> puramente mecânico e não precisa de explicação nenhuma para funcionar. O degrau 2 é a
+> recompensa de estudar, viajar ou subir de posto — e destranca decisões novas (refinar
+> localmente, contrabandear, escolher onde se estabelecer). O degrau 3 é o tipo de segredo
+> que reconfigura o mapa-múndi na cabeça do jogador sem alterar uma única regra.
+
 **Regras da travessia:**
 
 - **Supressão de exatamente um rank.** Um Mestre Gu que cruze para outra região tem a força de combate suprimida em uma unidade discreta de rank. Um rank 4 no auge opera, em solo estrangeiro, como um rank 3 no auge — e sua energia interna se manifesta na forma equivalente inferior.
@@ -101,10 +126,10 @@ Três das cinco paredes são nomeadas na obra: a *parede santa* do Continente Ce
 
 ## Regras e limites
 
-- **Ranking de abertura a estrangeiros** (do mais fechado ao mais aberto): Fronteira Sul → Continente Central → Mar Oriental. As outras duas ficam no meio, sem ordenação declarada.
+- **Abertura a estrangeiros: três extremos nomeados, não um ranking de cinco.** A obra declara apenas as pontas e o meio, e é assim que convém usá-las: a **Fronteira Sul** é a mais fechada, o **Mar Oriental** é o mais aberto, e o **Continente Central** é seletivo — recebe, mas escolhe quem. As Planícies do Norte e o Deserto Ocidental ficam em algum ponto intermediário que a obra nunca ordena; trate-as como você precisar, sem contradizer nada.
 - **Intervir abertamente numa disputa formal de outra região provoca retaliação coletiva regional.** As cinco regiões se detestam e se ignoram, mas fecham fileiras contra ingerência externa. Isso limita drasticamente o alcance real das grandes potências: nem a instituição mais poderosa do mundo age livremente fora do Continente Central, e a parede regional é a razão física disso.
 - **Ninguém mapeou a própria região.** Isso não é ignorância dos personagens; é uma propriedade do cenário. Sempre existe mais mundo do que o mapa.
-- **Cada Gu Imortal carrega a aura da sua região natal**, e leitores treinados identificam a origem de um desconhecido só por isso — antes da Grande Era.
+- **(Antes da Grande Era) Cada Gu Imortal carrega a aura da sua região natal**, e leitores treinados identificam a origem de um desconhecido só por isso. Esta regra **deixa de valer** no mundo unificado — ver a tabela de conversão no fim desta nota.
 
 ## Na vida de um Mestre Gu
 
@@ -129,6 +154,36 @@ Consumada a Grande Era, o mundo muda de estado:
 - **Chegam as marés de qi.** A diferença de energia entre regiões, antes congelada nas paredes, descongela e vira ondas violentas que varrem o mundo inteiro. Ver [[Cosmologia#Marés de qi]].
 - **As veias subterrâneas se movem**, e toda formação mágica antiga ancorada na posição *original* de uma veia perde sustentação e se rompe. Toda a infraestrutura mágica herdada do mundo antigo passa a ter data de validade.
 - **Uma parede sobrevive**: a muralha de energia que separa a terra dos dois céus continua de pé.
+
+### Tabela de conversão: quais regras caem quando as paredes somem
+
+Este é o ponto que mais custa caro se passar despercebido: **o cenário tem dois estados**, e
+várias das regras mais úteis desta nota valem só no primeiro. Todo o resto deste arquivo
+descreve o **mundo dividido** — se você adotar o mundo unificado, substitua as linhas abaixo.
+
+| Regra | Antes da Grande Era (padrão desta nota) | Depois |
+|---|---|---|
+| Travessia entre regiões | faixa de turbulência que mata rank 7 e trava rank 8 | **livre**: não há mais parede |
+| Supressão de um rank no estrangeiro | vale para todo viajante | **vale para todos, sempre** — a energia unificada não é a de ninguém, então não existe mais "estar em casa" |
+| Imunidade do nativo | o nativo não sofre supressão na própria região | **acaba.** Ninguém é nativo de lugar nenhum |
+| "Nacionalidade" de um Gu | é onde ele foi refinado, e define se ele é suprimido | perde a função: não há regiões para pertencer |
+| Aura regional de um Gu Imortal | identifica a origem de um desconhecido | **some.** O truque de leitura deixa de funcionar |
+| Alcance das grandes potências | limitado pela parede; a jurisdição é regional na prática | **mundial.** A limitação física do poder institucional desaparece |
+| Marés de qi | não ocorrem; a diferença de energia está congelada nas paredes | **ocorrem**, e são o desastre periódico dominante do mundo |
+| Formações mágicas antigas | ancoradas em veias estáveis, duram eras | **quebram** conforme as veias se movem |
+| Muralha terra–céu | de pé | **continua de pé** — é a única que sobrevive |
+
+> [!warning] Escolha um estado antes de escrever regras
+> Quatro das mecânicas mais aproveitáveis do cenário — supressão de um rank, nacionalidade do
+> Gu, aura regional e imunidade do nativo — **caem ou invertem** na passagem. Não dá para
+> escrever um livro básico que valha para os dois; é uma decisão editorial, não uma questão
+> de pesquisa. A caixa "O mundo muda de estado" em [[Visão Geral do Mundo]] apresenta as três
+> opções (antes, durante, depois) com o tipo de jogo que cada uma produz.
+>
+> Nossa sugestão, se você não quiser decidir agora: **adote o "antes"**, que é o estado que
+> este material descreve por padrão e o que traz mais mecânica utilizável, e guarde a Grande
+> Era como o evento de fim de campanha que apaga metade das suas próprias regras — o que é,
+> por si só, um clímax.
 
 ## Relações
 

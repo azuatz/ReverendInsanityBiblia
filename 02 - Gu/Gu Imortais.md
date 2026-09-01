@@ -143,13 +143,17 @@ juntos porque explicam o formato do mundo inteiro.
 
 **1. A taxa de sucesso.**
 
-| Nível | Taxa ordinária de refino |
+| Nível | Taxa ordinária de fabricação completa |
 |---|---|
 | 6 | menos de 1% |
 | 7 | cerca de 0,1% |
 | 8 | cerca de 0,01% |
 
-A referência prática mais citada: **cinquenta a sessenta tentativas por sucesso**.
+A referência prática mais citada: **cinquenta a sessenta tentativas por sucesso**. Estes
+números são da **fabricação por receita do começo ao fim** — não confundir com a chance de
+uma fusão isolada dar certo, que é outra escala. A tabela com as três operações lado a lado
+está em [[Refino de Gu#As taxas de sucesso, lado a lado]], e a de consulta rápida em
+[[Tabelas de Referência Rápida#12. Taxas de sucesso de refino]].
 
 **2. O custo por tentativa.** Cada tentativa consome um conjunto completo de materiais
 imortais. Um único conjunto para nível 6 já consome quase toda a riqueza líquida de um
@@ -170,7 +174,19 @@ Duas coisas rompem esse regime, e ambas são material de campanha:
 - **Instalações lendárias.** Existe uma síntese histórica do caminho do refinamento — uma
   instalação que funde quatro tecnologias distintas, incluindo uma piscina capaz de
   **refazer** um Gu Imortal destruído a partir da insígnia deixada no refino original, com
-  50 a 60% de sucesso. Com ela, produção **em série** de Gu de nível 8 se torna possível —
+  50 a 60% de sucesso.
+
+  A ==insígnia (insignia)== merece definição, porque é a peça que faz isso funcionar: é um
+  **registro que a instalação grava em todo Gu Imortal refinado por ela** — uma espécie de
+  recibo de fabricação, guardado por ela e não pelo Gu. Se aquele Gu for destruído depois, a
+  instalação usa a insígnia como molde e o refaz, com chance muito maior que a de um refino
+  do zero. Três limites: a insígnia é **consumida** a cada uso e precisa ser reposta; ela só
+  vale para Gu que aquela instalação refinou; e o refazer não fura a unicidade — o Gu
+  original precisa estar mesmo destruído. Na prática, quem opera uma dessas deixa de perder
+  permanentemente os Gu Imortais que perde em combate, o que é uma vantagem estratégica
+  difícil de exagerar.
+
+  Com ela, produção **em série** de Gu de nível 8 se torna possível —
   mais de cinquenta refinados, algo descrito como além da imaginação de qualquer imortal. Os
   tetos que permanecem: nem ela refina níveis 9 ou 10, e a **unicidade continua valendo**.
 - **Gu selvagens que sobem de nível sozinhos.** Um Gu Imortal nascido espontaneamente num

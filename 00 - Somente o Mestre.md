@@ -31,7 +31,13 @@ descobri-las, na mesa, deve ser uma conquista, não um pressuposto.
 - [[Fate Gu]] — o que o destino é, mecanicamente; o fato de estar danificado; e quem
   consegue escapar dele.
 - [[Cosmologia]] — a estrutura real do mundo, incluindo o que existe além da fronteira
-  dele e por onde essa fronteira já foi perfurada.
+  dele e por onde essa fronteira já foi perfurada. **Atenção: esta nota é a exceção da
+  lista.** Ela está classificada como segredo porque o trecho mais restrito dela manda na
+  classificação, mas **metade do conteúdo é geografia que qualquer personagem usa** — os dois
+  céus, a muralha de vento celestial, as marés de qi, as trincheiras — e nenhuma outra nota
+  reúne essa geografia. Não a esconda inteira: a própria nota traz uma **tabela de corte** no
+  topo, dizendo seção a seção o que liberar. As quatro primeiras seções formam o capítulo de
+  geografia do manual do jogador.
 - [[Tornar-se Venerável]] — as quatro condições exatas para alcançar o topo absoluto,
   e o bloqueio que o próprio céu impõe.
 - [[Os Que Romperam as Leis]] — as figuras que quebraram as regras do mundo, e como.
@@ -51,6 +57,7 @@ Se for distribuí-las, corte o que está indicado:
 
 | Nota | O que esconder |
 |---|---|
+| [[Cosmologia]] | os nove céus imemoriais, o Rio do Tempo e **sobretudo** a fronteira do mundo. Libere as quatro primeiras seções — ver a tabela de corte no topo da própria nota |
 | [[Tabelas de Referência Rápida]] | as quatro condições para virar Venerável |
 | [[Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
 | [[Glossário EN-PT]] | todos os termos marcados com 🔒 |

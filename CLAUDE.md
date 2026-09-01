@@ -74,8 +74,12 @@ contexto vivo se perde. Portanto:
 
 - Documentos finais em **português brasileiro**; termos técnicos consagrados em inglês
   com tradução na primeira ocorrência (ex.: "aperture (abertura)").
-- Toda afirmação relevante com citação: número de capítulo ou URL. Marque a origem de
-  cada seção: `verificado no texto` / `wiki-comunidade` / `inferido`. Nunca invente.
+- **Sem citações inline nas notas finais**: a prosa deve ser agradável e fluida para
+  uma iniciante — nunca escrever "(cap. NN)" ou URLs no meio do texto, tabelas ou
+  callouts das notas consolidadas. A rastreabilidade fica nos bastidores: capítulos
+  no campo `fontes` do frontmatter (invisível na leitura) e nas notas brutas do
+  `_pipeline/`. Marque a origem via `status` do frontmatter (`verificado-no-texto` /
+  `wiki-comunidade` / `inferido`). Nunca invente.
 - Blocos `> [!note] Para o design` sempre que uma mecânica sugerir algo jogável.
 - Notas autossuficientes e **didáticas para leigos**: a leitora não conhece a obra e
   não vai lê-la — escrever como professor que ensina do zero, definindo todo termo

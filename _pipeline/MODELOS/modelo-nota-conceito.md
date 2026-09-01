@@ -21,18 +21,19 @@ fontes: ["cap. NN", "cap. MM"]
 
 Explicação completa, do zero, em prosa didática. Todo termo do mundo que aparecer
 vira wikilink (ex.: [[Essência Primeva]]). Números exatos quando a obra der
-(percentuais, custos, durações), sempre com (cap. NN).
+(percentuais, custos, durações). Sem citações de capítulo no texto — os capítulos
+ficam só no `fontes` do frontmatter.
 
 ## Regras e limites
 
 - O que pode e o que não pode; exceções conhecidas.
-- Evolução da regra ao longo da obra, se houver (versão antiga → versão madura, caps.).
+- Evolução da regra ao longo da obra, se houver (versão antiga → versão madura).
 
 ## Na vida de um Mestre Gu
 
-Como isso aparece no dia a dia / na prática. Exemplos concretos citados por capítulo.
+Como isso aparece no dia a dia / na prática, com exemplos concretos.
 
-> [!example] Caso mecânico (cap. NN)
+> [!example] Caso mecânico
 > Um exemplo real da obra, descrito mecanicamente, sem enredo.
 
 > [!note] Para o design

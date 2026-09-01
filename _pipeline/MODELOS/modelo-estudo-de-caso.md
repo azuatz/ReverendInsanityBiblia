@@ -20,7 +20,7 @@ cria exceção, mostra limite).
 ## Situação (mínimo necessário)
 
 Uma ou duas frases de contexto mecânico: quem (por rank/recursos, não por biografia),
-com o quê, tentando o quê. (cap. NN)
+com o quê, tentando o quê.
 
 ## O método, passo a passo
 

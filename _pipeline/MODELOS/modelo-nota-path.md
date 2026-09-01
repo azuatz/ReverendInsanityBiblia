@@ -24,12 +24,12 @@ O que este path representa no mundo; que tipo de cultivador o segue e por quê.
 ## Mecânicas típicas
 
 O que os Gu deste path costumam fazer; recursos e custos característicos
-(ex.: blood path paga com a própria vitalidade). Sempre (cap. NN).
+(ex.: blood path paga com a própria vitalidade).
 
 ## Gu representativos
 
-| Gu | Rank | Efeito resumido | Cap. |
-|---|---|---|---|
+| Gu | Rank | Efeito resumido |
+|---|---|---|
 
 (⭐ = Gu Imortal. Catálogo completo em [[Catálogo de Gu]].)
 

@@ -83,7 +83,7 @@ Requisitos de qualidade dos documentos finais:
 
 - Escritos **em português brasileiro**, mantendo termos técnicos consagrados em inglês com tradução na primeira ocorrência (ex.: "aperture (abertura)").
 - Autossuficientes: a designer não leu a obra e não vai lê-la. Explique tudo do zero, com exemplos mecânicos concretos.
-- Cada fato relevante com citação de capítulo ou URL.
+- Rastreabilidade nos bastidores, nunca na prosa: os capítulos/URLs de cada fato ficam no campo `fontes` do frontmatter e nas notas brutas do `_pipeline/` — o texto das notas finais fica limpo, sem "(cap. NN)" inline, para leitura agradável de quem não conhece nada do sistema.
 - Pensados para design de jogo: sempre que uma mecânica do mundo sugerir algo "jogável" (progressão, economia, risco/recompensa, criação de builds por path, refino como crafting, tribulações como eventos), destaque isso em um bloco `> [!note] Para o design`.
 - Um aviso de spoiler-safety no LEIA-ME: o que a base cobre, o que deliberadamente omite e por quê.
 - **Obsidian Flavored Markdown de verdade**, seguindo as convenções detalhadas no `CLAUDE.md` do vault: frontmatter YAML em toda nota (tags aninhadas como `path/wisdom`, aliases com o termo em inglês, `status` da verificação, `fontes` com capítulos), wikilinks `[[Nota]]` para toda referência interna (Markdown links só para URLs externas), callouts (`> [!example]` para estudos de caso, `> [!warning]` para regras controversas, `> [!question]` para lacunas), `==destaque==` no termo que a nota define, e nomes de arquivo iguais ao título natural da nota para os wikilinks funcionarem.

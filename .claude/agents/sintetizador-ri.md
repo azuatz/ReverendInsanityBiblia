@@ -33,8 +33,10 @@ pastas `01 - Cultivo/` a `09 - Apêndices/`).
 - **Contradições**: regras evoluem ao longo da obra. Prevalece a versão mais
   tardia/completa; registre a evolução em nota de rodapé ou seção "Evolução da regra",
   citando os capítulos de cada versão. Nunca apague silenciosamente a versão antiga.
-- Toda afirmação com citação de capítulo herdada das notas brutas. Se uma afirmação
-  chegar sem capítulo, marque-a `inferido`.
+- **Nunca cite capítulos ou URLs no texto das notas consolidadas** (prosa, tabelas ou
+  callouts) — a leitura deve ser fluida para uma iniciante. Os capítulos herdados das
+  notas brutas vão apenas no campo `fontes` do frontmatter da nota. Afirmação sem
+  capítulo conhecido → `status: inferido` no frontmatter.
 - Estudos de caso mecânicos viram notas em `08 - Estudos de Caso Mecânicos/` com
   callout `> [!example]`.
 - Dúvidas/lacunas das notas brutas viram callouts `> [!question]` na nota do tópico

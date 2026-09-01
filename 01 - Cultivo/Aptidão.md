@@ -7,7 +7,6 @@ aliases:
   - Aptitude grade
   - Grau de aptidão
   - Graus de Aptidão
-  - As Dez Constituições Extremas
 status: consolidado
 fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299"]
 conhecimento: comum
@@ -117,18 +116,9 @@ resolva de novo, e com recursos maiores, o mesmo problema.
 - **Regra de bolso ensinada nos clãs**: D chega ao rank 1 sênior em cerca de três anos; C ao rank 2 em dois; B ao rank 3 em seis ou sete; A ao rank 4 em cerca de dez.
 - **A recuperação tem grau próprio.** Um personagem pode ter aptidão mediana e mesmo assim uma taxa de reposição de nível A — o que nivela diferenças de rank em batalhas longas de atrito. É um sub-atributo real, não uma variação de sabor.
 
-### As Dez Constituições Extremas
+### O degrau acima do grau A
 
-Acima do grau A existe uma camada que o mundo comum desconhece: as ==Dez Constituições Extremas (Ten Extreme Physiques)==, ligadas aos dez filhos lendários do primeiro homem do mito fundador.
-
-- Armazenam **100%** de essência, contra os 99% do melhor grau A.
-- A partir do rank 3, a mera *existência* da essência armazenada passa a nutrir as paredes da abertura com a mesma força que o gasto ativo de um Mestre Gu comum — e o efeito cresce a cada rank. É cultivo que **acelera** em vez de desacelerar.
-- Conferem **marcas de lei natas**: um mortal com constituição extrema já nasce com um acúmulo que supera a maioria dos imortais rank 6 em condições equivalentes. É o que explica como um mortal excepcional consegue suprimir poderes imortais.
-- **O preço é a morte precoce.** A abertura vive sob pressão crescente e risco de explosão; a maioria dos portadores morre cedo. A pressão de 100% de energia é capaz de destruir a própria abertura sem reforço externo contínuo. O mundo descreve isso como "desafiar o Céu", e o Céu responde.
-- Uma aptidão grau A de 99% pode **evoluir espontaneamente** para uma das dez ao longo do cultivo.
-
-> [!note] Para o design
-> As Dez Constituições Extremas são o arquétipo do vidro-canhão com relógio de morte embutido, e o relógio é diegético: quanto melhor o personagem, mais depressa o mundo o mata. Note ainda o detalhe estrutural mais elegante — **nenhum dos dez seres mais poderosos da história teve uma constituição extrema**, porque as provações aceleradas os teriam matado antes. O melhor talento do mundo é, comprovadamente, um caminho sem saída.
+Acima do grau A existe uma camada à parte, que armazena **100%** de essência contra os 99% do melhor grau A: as [[As Dez Constituições Extremas|Dez Constituições Extremas]]. Não são um sexto grau da escala, e sim uma categoria com regras próprias de crescimento, de preço e de ascensão — inclusive a possibilidade de uma aptidão grau A de 99% **evoluir espontaneamente** para uma delas ao longo do cultivo. Tudo isso está na nota dedicada.
 
 ## A aptidão muda — em três direções
 

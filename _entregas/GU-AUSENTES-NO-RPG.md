@@ -1,0 +1,448 @@
+# Entrega para o vault do RPG — Gu ausentes e receitas
+
+Gerado pelo vault de pesquisa (`~/Documentos/ReverendInsanityExpert/`) a partir da
+leitura integral do romance. Cruzamento automático entre o nosso catálogo (625 Gu
+identificados) e o catálogo do RPG.
+
+**Resultado: 414 Gu presentes no romance que não constam no catálogo do RPG.**
+
+## Como usar esta lista
+
+O cruzamento foi por nome em inglês e é aproximado — pode haver falso positivo se o
+RPG registrou algum destes só com nome em português. Confira antes de adicionar.
+
+Para cada Gu desta lista, a ficha completa está em:
+
+- `09 - Apendices/Catálogo de Gu - Mortais.md` (ranks 1–5) — colunas: efeito,
+  alimentação, uso, refino, vantagem e desvantagem
+- `09 - Apendices/Catálogo de Gu - Imortais.md` (ranks 6–9) — colunas: efeito,
+  alimentação, uso e peculiaridade
+
+Convenção nossa que vale respeitar ao importar: texto normal é canônico; `(ded.)` é
+dedução nossa a partir do efeito descrito; `—` significa que **a obra não informa** — e
+não deve ser lido como "nenhum", "barato" ou "irrelevante".
+
+## Receitas e progressão
+
+- **Receitas de fusão e refino**: `_pipeline/rascunho/gu-sistema.md` (regras gerais de
+  refino, fusão, taxas de sucesso por rank, os quatro estilos de refinement path) e
+  `_pipeline/rascunho/catalogo-gu.md` (receitas específicas registradas na leitura).
+- **Regras de espólio** (importante, muda economia): `02 - Gu/Espólio de Gu.md`.
+- **Tabelas numéricas do sistema**: `09 - Apendices/Tabelas de Referência Rápida.md`.
+
+## Lista dos Gu ausentes
+
+- *Destiny Gu*
+- *Eternal Gu*
+- A Bit of Star Gu
+- Accumulate Virtue Gu
+- Accumulating Ash Gu
+- Adaptation Gu
+- Addition Gu
+- After Gu
+- Airsac Gu
+- Alert Bell Gu
+- Ancient Bronze Skin Gu
+- Arm Bone Wings Gu
+- Aura Restraint Gu
+- Aurora Bird
+- Backtrack Gu
+- Bamboo Gentleman
+- Battle Thought Gu
+- Bear Enslavement Gu
+- Beast Enslavement Gu
+- Beast Skin Gu
+- Beast Strength Placenta Gu
+- Beast Tamer Gu
+- Become Real
+- Beggar Gu / Merchant Gu
+- Berserk Gu
+- Big ("Da")
+- Big Family Qi
+- Big Qi
+- Big Soul Worm
+- Black Mane Gu
+- Black and White Paper Gu
+- Blacksmith Gu
+- Blessing in Disguise
+- Blood Battle Gu
+- Blood Frenzy Gu
+- Blood Guillotine
+- Blood Oath Gu
+- Blood Qi Gu
+- Blood Relation Gu
+- Blood Revenge / Cold Blood
+- Blood River Python
+- Blood Rope Gu
+- Blood Shadow Gu
+- Blood Sweat Gu
+- Blood Trace Gu
+- Blood Wight Gu
+- Blood-sense Pair
+- Bloodline Gu
+- Blue Farm Slug Gu
+- Blue Sky Gu
+- Bookworm Gu
+- Brave Fight Gu
+- Break Luck Gu
+- Bright Pearl Gu
+- Broadsword of Light Gu
+- Burial Soul Toad
+- Bury Gu
+- Calm Gu / Fortitude Gu
+- Capture Wind Gu
+- Cauldron Strength
+- Cause / Effect
+- Chamber Pot
+- Charging Crash Gu
+- Chase Smoke Gu
+- Chasing Wind Gu
+- Clairaudience Gu
+- Clear Mind Gu
+- Clear Water Gu
+- Clothing Gu
+- Cognition Gu
+- Consecutive Gu
+- Cook
+- Cooking Luck Pot
+- Coptis Rhizome Gu
+- Corrosion Blood Grass Gu
+- Crane Enslavement Gu
+- Crazed Demon Formation
+- Create Dream Gu
+- Dazzling Light Gu
+- Death Sentence Awaits
+- Delight in Water and Mountain
+- Derivation Gu
+- Devour Soul Gu
+- Distorting Black and White Gu
+- Distracting Thoughts
+- Divert Disaster Gu
+- Divine Bean Palace
+- Divine Emperor City
+- Djinn Heart / Body / Mind Gu
+- Do or Die Gu
+- Dog Enslavement Gu
+- Dog Guts Gu
+- Dragon Scale
+- Dragon Strength
+- Dragon Travel Tiger Steps Gu
+- Dragon-elephant Huge Strength Gu
+- Dream Armor
+- Dream Butterfly Gu
+- Dream Travel
+- Eagle Rise Gu
+- Earth Qi Gu
+- Earth Refinement Gu
+- Earth Treasury Flower Gu
+- Earth Vein Gu
+- East Window Gu
+- Eat Fragrance
+- Eating One's Words Gu
+- Edge Gu
+- Eighty-Eight True Yang Building
+- Electric Brain Gu
+- Emotion Poetry Gu
+- Essence Iron Bone Gu
+- Estrus Gu
+- Eternal Yacht
+- Everlasting
+- Everlasting Gu
+- Expand Space
+- Expend Strength Gu
+- Extreme Past
+- Fallen Flower Hall
+- False Emotion Fake Will Gu
+- Fan Wind Gu
+- Fate Armor Gu
+- Fiery Claw Gu
+- Fiery Snake Gu
+- Fifteen Year Lifespan Gu
+- Fight Gu
+- Fire Cape Gu
+- Fire Dragon Gu
+- Fire Pellet Gu
+- Fire Pupil Gu
+- Five Stars Aligned Gu
+- Fixed Luck (Stubborn + Main)
+- Fixed Space Gu
+- Flame Heart Gu
+- Flame Stomach Gu
+- Flash Blink Gu
+- Flash Bug Gu
+- Flash of Inspiration Gu
+- Flower Boar Gu
+- Flowerbud Gu
+- Flying Bear Phantom Gu
+- Flying Bear Strength
+- Flying Smoke Gu
+- Flying Zombie Gu
+- Footless Bird
+- Formation Chart Gu
+- Formation Flag
+- Formation Heart Gu
+- Formation Plate Gu
+- Formation Spirit
+- Four Elements Square Regret Blood Refinement Pool
+- Four Flavors Liquor Worm
+- Freedom Gu
+- Frost Arrow Gu
+- Frost Breath Gu
+- Frost Moon Gu
+- Fuel Oil Gu
+- Fur Zombie Gu
+- Galloping Horse Strength Gu
+- Gather Light Gu
+- Ghost Fire → Ghost Flame → Ghost Blaze Gu
+- Ghost Official Garment
+- Giant Mountain Puppet Gu
+- Golden Aurora Gu
+- Golden Breeze Gu
+- Golden Moon Gu
+- Golden Steel Tendon Gu
+- Gourmet Food Box Gu
+- Green Mountain Remains Gu
+- Groundmat Grass Gu
+- Habitual Strength Gu
+- Hard Liver Gu
+- Heal Injury
+- Heart Blood Gu
+- Heart Engraved Gu
+- Heart Sound Gu
+- Heaven Qi Gu
+- Heaven's Rage
+- Heaven's Sorrow
+- Heavenly Birth Gu
+- Heavenly Mugwort Gu
+- Heavenly Pool
+- Hints and Clues Gu
+- Horizontal Charge Gu
+- Human Qi Gu
+- Human Torch Gu
+- Humility Gu
+- Hundred Ghost Night Travel Gu
+- Hundred Li Eye
+- Ice Edge Gu
+- Ice Heart
+- Ice Soul Immortal Gu
+- Iceblade Gu
+- Illusory Moon Gu
+- Imitation Gu
+- Immediate Success Gu
+- Immortal Slave
+- Impermanence Bone Gu
+- Inch of Time
+- Injury Mark Gu
+- Instant / That Time
+- Intuition Gu
+- Investigative Gu
+- Iron / Bronze / Stone Skin Gu
+- Iron Bone Gu
+- Iron Thorn Thistle Gu
+- Iron Wall Gu
+- Ivory Armor Gu
+- Jin Strength Gu
+- Jumping Zombie Gu
+- Jun Strength Gu
+- Justice Gu
+- Kindness Thought
+- Lava Explosion Gu
+- Learning Gu
+- Letter Gu (série)
+- Life-Saving Recovery Pill
+- Life-preserving Jade Burial Gu
+- Lifespan Gu
+- Light Source Gu
+- Lightning Eye Gu
+- Longevity Edict
+- Longevity Gu
+- Looking Back
+- Love Life Separation Gu
+- Luck Plan
+- Luck Suppression Heavenly Palace
+- Main Luck
+- Malicious Thought Gu
+- Man Triumphing Heaven Gu
+- Man-beast Life Burial Gu
+- Master-Servant Gu
+- Medicine Fragrance
+- Melt Ice
+- Memory Gu
+- Memory Thought Gu
+- Menses Blood Gu
+- Moat Gu
+- Moon Poison Gu
+- Moon Scar Gu
+- Moonlight Treasure King Gu
+- Moonshadow Gu
+- Moonwhirl Gu
+- Mountain Pledge Gu
+- Muddy Gu
+- Musician Gu
+- Mutual Sense
+- Myriad Age Building
+- Nine Eyes Liquor Worm
+- Nine Leaf Vitality Grass → Wood Charm Gu
+- No Loss Gu
+- Oil Dragon Gu
+- Old Removal Gu
+- One / Three ("Number Gu")
+- One's Own Way Gu
+- Onion Explosion Gu
+- Overturn River
+- Painting Idea Gu
+- Paper Crane Gu
+- Permanence
+- Pill Refiner Gu
+- Pine Needle Gu
+- Pink Boar Gu
+- Poem Wall Gu
+- Poison Flower Gu
+- Poison Heart Gu
+- Poison Liquid Gu
+- Poison Scorpion Gu
+- Police Gate Gu
+- Polished Gold Gu
+- Possession Gu
+- Prairie Fire Gu
+- Precaution Gu
+- Present and Past Pavilion
+- Pride Gu
+- Puppet Control Gu
+- Purple Smoke Cicada
+- Qi Escape Gu
+- Qi Flow Gu
+- Qi Luck
+- Rainbow Light Gu
+- Red Copper Fire Ant
+- Relic Gu (green copper)
+- Relic Gu (purple crystal)
+- Relic Gu (red steel)
+- Relic Gu (white silver)
+- Relic Gu (yellow gold)
+- Reminiscence
+- Remnant Life Gu
+- Reputation Restriction Gu
+- Responsibility Gu
+- Responsive Luck
+- Return to Childhood Gu
+- Rice Pouch Grass Gu
+- Right Gu / Wrong Gu
+- River As Before
+- River Swallowing Toad
+- Rock Skin Gu
+- Rules Gu / Regulations Gu / Practice Gu
+- Running Corpse Gu
+- Sandpit Gu
+- Scorpion Faeces Gu
+- Sea Oath Gu
+- Second Aperture Gu (série)
+- Serious Gu / Learning Gu / Talent Gu
+- Seven Fragrances Liquor Worm
+- Shadow Follower Gu
+- Shadow Puppet Gu
+- Shared-sense Gu
+- Sight Blow Gu
+- Sight Light Gu
+- Silent Step Gu
+- Single Gate Poison Gu
+- Sky Granary Gu
+- Sleep Lurk Gu
+- Slow Slicing Gu
+- Slumbering Lightning Python
+- Small (Big to Small)
+- Small Soul Gu
+- Smell Lock Gu
+- Smelly Fart Fat Worm
+- Smelly Fart Fatworm
+- Snake Tongue Gu
+- Sneak Attack Gu
+- Snow Fairy Gu
+- Soldier / Sergeant / Lieutenant / Captain Gu
+- Sole Blade Gu
+- Soul Howl Gu
+- Soul Language Gu
+- Soul Lantern Gu
+- Soul Search Gu
+- Soul Shackle
+- Soul Shaking Flag
+- Sound Amplification Gu
+- Space Escape Gu
+- Space Piercing Gu
+- Space Thought Gu
+- Space Travel
+- Spirit Peach Gu
+- Star Constellation Chessboard
+- Star Dart Gu
+- Stealth Rock Gu
+- Steel Mane Gu
+- Steel Tendon Gu
+- Steel Vine Gu
+- Store Strength Gu
+- Strength of Ten Jin Gu
+- Strength of Ten Jun Gu
+- Strength of a Thousand Jun
+- Strong Gu
+- Sub Luck
+- Summary Gu
+- Suppress Space Gu
+- Swallow Fire Gu
+- Swamp Gu
+- Swimword Gu
+- Sword Legged Dragon Centipede
+- Sword Qi Gu
+- Sword Tongue Gu
+- Territory Gu
+- Thieves Den
+- Third Watch Gu
+- Thought Expelling Pavilion
+- Thread Trace Gu
+- Three Star Cave
+- Thunder Shield Gu
+- Tiger Poison Gu
+- Time Anchor
+- Time Concealment
+- Time Luck
+- Time Needle
+- Treasure Brass Toad
+- Treasure Light Gu
+- True Sight Gu
+- Turn Sand Gu
+- Tusita Flower
+- Vajra Thought
+- Vajra Thought Gu
+- Vertical Crash Gu
+- Vine Information Gu
+- Vitality Leaf
+- Vivid Recollection
+- Water Armor Gu
+- Water Curtain Skyflower Gu
+- Water Harmony Gu
+- Water Image Gu
+- Water Pavilion
+- Water Prison Gu
+- Water Refinement
+- Weak Chicken Gu
+- Wealth Gu
+- Whale Enslavement Gu
+- White Lotus Giant Silkworm Gu
+- White Noodle Immortal Ant
+- Wild Immortal Gu
+- Winding Light Platform
+- Wine Drinker Gu
+- Wine Sack Flower Gu
+- Wisdom Obstacle
+- Wish Power Gu
+- Wolf Care Gu
+- Wolf Enslavement Gu
+- Wolf Howl Gu
+- Wolf Soul Gu
+- Wolf Totem Gu
+- Wood Charm Gu
+- Wood Sprout
+- Worldly Wave Trace
+- Yellow Sand
+- Yes or No
+- Yin Cloud Gu + Yang Cloud Gu
+- Yin Yang Rotation Gu
+- Zombie Heart Gu

@@ -408,7 +408,7 @@ Três notas de manejo que costumam surpreender:
   usuário rende até **130%** do poder nominal; um Gu de caminho incompatível rende
   apenas **60–70%**, porque as marcas do corpo interferem no efeito.
 - **Terreno hostil:** um caminho comum perde **50–60%** de potência em território
-  saturado por dao marks de caminho conflitante. Um caminho menor perde só **20–39%**
+  saturado por dao marks de caminho conflitante. Um caminho menor perde só **20–30%**
   na mesma situação — a vantagem estrutural de ser pequeno.
 
 ---
@@ -547,11 +547,14 @@ caminho e rank 6 com attainment altíssimo. Na prática, é o attainment que dec
 que a pessoa **consegue fazer**, e o rank decide com quanta força ela faz.
 
 Os níveis "quase" (*quasi-*) são degraus reais e nomeados, não aproximações de
-linguagem.
+linguagem. **São nove degraus no total** — conte sempre pelo nome, nunca pela
+posição: uma versão anterior desta tabela omitia o "Quase Mestre" e desalinhava
+todos os pré-requisitos do material em um degrau.
 
 | Nível | O que permite |
 |---|---|
 | Comum (*ordinary*) | usar o que aprendeu, por tentativa e erro |
+| Quase Mestre | degrau intermediário nomeado |
 | **Mestre** (*master*) | o uso vira "artístico" e surge **instinto**: sente se uma combinação de golpe vai funcionar **antes** de testar |
 | Quase Grão-Mestre | degrau intermediário nomeado |
 | **Grão-Mestre** (*grandmaster*) | o instinto fica muitas vezes mais forte; passa a conseguir criar golpes que **imitam outros caminhos** usando os Gu do próprio |

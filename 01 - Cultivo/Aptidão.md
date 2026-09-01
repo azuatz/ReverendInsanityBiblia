@@ -22,14 +22,14 @@ Na [[Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores cami
 
 Uma tabela só, com as duas medidas lado a lado:
 
-| Grau | Passos na cerimônia | Capacidade da abertura | Teto de carreira típico |
-|---|---|---|---|
-| (sem talento) | menos de 10 | abaixo de 20% | **nunca se torna Mestre Gu** — não existe grau abaixo do D |
-| **D** | 10 a 19 | **20–39%** | rank 1. Sem auxílio externo **não rompe** para o rank 2, porque o teto fica abaixo do limiar de 55%; com auxílio, o rank 2 é o teto |
-| **C** | 20 a 29 | 40–59% | rank 2, e só na faixa alta (55–59%) sem auxílio; rank 3 é quase inédito |
-| **B** | 30 a 39 | 60–79% | rank 3, podendo alcançar o 4 |
-| **A** | 40 a 49 | 80–99% | topo do mundo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | — | 100% | categoria à parte, ver abaixo |
+| Grau                 | Passos na cerimônia | Capacidade da abertura | Teto de carreira típico                                                                                                             |
+| -------------------- | ------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| (sem talento)        | menos de 10         | abaixo de 20%          | **nunca se torna Mestre Gu** — não existe grau abaixo do D                                                                          |
+| **D**                | 10 a 19             | **20–39%**             | rank 1. Sem auxílio externo **não rompe** para o rank 2, porque o teto fica abaixo do limiar de 55%; com auxílio, o rank 2 é o teto |
+| **C**                | 20 a 29             | 40–59%                 | rank 2, e só na faixa alta (55–59%) sem auxílio; rank 3 é quase inédito                                                             |
+| **B**                | 30 a 39             | 60–79%                 | rank 3, podendo alcançar o 4                                                                                                        |
+| **A**                | 40 a 49             | 80–99%                 | topo do mundo mortal (rank 5); 99% é o máximo "comum"                                                                               |
+| Constituição Extrema | —                   | 100%                   | categoria à parte, ver abaixo                                                                                                       |
 
 > [!warning] Como converter passos em porcentagem — e o que a obra não decide
 > Os intervalos de passos acima estão escritos como **fechados e sem sobreposição**

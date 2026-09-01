@@ -93,6 +93,21 @@ contexto vivo se perde. Portanto:
   no campo `fontes` do frontmatter (invisível na leitura) e nas notas brutas do
   `_pipeline/`. Marque a origem via `status` do frontmatter (`verificado-no-texto` /
   `wiki-comunidade` / `inferido`). Nunca invente.
+- **Os quatro estados de confiabilidade (regra do usuário, vale em TODA nota do vault).**
+  Preencher lacuna com informação induzida é permitido e desejado — o que é proibido é
+  fazer isso em silêncio, de forma que se confunda com o que a obra afirma. Toda
+  informação deve cair, visivelmente, num destes quatro níveis:
+
+  1. **texto simples** — canônico: a obra afirma;
+  2. **`(ded.)`** — dedução segura a partir de algo que a obra afirma (efeito descrito,
+     regra geral do caminho, escala por rank);
+  3. **`*`** — invenção ou indução plausível nossa, **sem base textual**;
+  4. **`—`** — a obra não informa e nada foi preenchido.
+
+  Toda nota que use esses marcadores explica a convenção no próprio cabeçalho, e afirma
+  que **apagar tudo marcado com `*` devolve o documento a cem por cento canônico**. Onde
+  a marcação por símbolo não couber (prosa corrida), diga em palavras que aquilo é
+  indução nossa. Na dúvida entre marcar e não marcar, marque.
 - Blocos `> [!note] Para o design` sempre que uma mecânica sugerir algo jogável.
 - Notas autossuficientes e **didáticas para leigos**: a leitora não conhece a obra e
   não vai lê-la — escrever como professor que ensina do zero, definindo todo termo

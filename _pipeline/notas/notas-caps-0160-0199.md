@@ -1,7 +1,7 @@
 # Notas brutas — Capítulos 160–199 (Volume 1)
 
-> Progresso da leitura: até o cap. 189
-> Status: em-andamento
+> Progresso da leitura: até o cap. 199
+> Status: completo
 
 ## 1. Mecânicas e regras
 
@@ -155,6 +155,13 @@
 - Xiong clan (terceiro clã da montanha Qing Mao) tinha um Gu ancestral de fuga em massa (ocultação simultânea de grande número de pessoas), usado para evacuar a população antes da chegada da maré de lobos, preservando mais da metade da força do clã às custas de atrair a maré para os clãs vizinhos — tática vista pelos rivais como covarde/desonesta (cap. 175, 178).
 - Julgamento moral explícito do narrador/personagem experiente (Tie Xue Leng) sobre o mundo: "o mundo é cinza", cultivadores demoníacos que se estabelecem e passam a contribuir para o lado correto após gerações são geralmente perdoados/absorvidos pela narrativa histórica oficial dos clãs — reflete como "a história é escrita pelos vencedores/pelos homens no poder" (cap. 178-179, reforçado pelo próprio título do cap. 179).
 - Regra explícita de comportamento organizacional: toda organização existe para maximizar benefício coletivo; membros individuais são sacrificáveis sempre que confrontam esse benefício maior, mesmo que sejam membros de status alto (clan elder) — a lealdade organizacional é condicional aos interesses de grupo (cap. 179).
+- Existência de "super clãs" (super clan) de milhares de anos de história no mundo, muito acima do porte de clãs locais como Gu Yue: Tie clan é citado como potência de primeira linha na Southern Border, sede física da Demon Suppression Tower, símbolo do "righteous faction"; Jia clan é citado como clã "jovem" (recém-formado, em termos relativos) mas ainda maior que Gu Yue clan — cria hierarquia explícita de porte: super clã > clã jovem grande (Jia) > clã médio (Gu Yue) (cap. 182).
+- Existência do conceito "ten extreme physiques/aptitudes" como conhecimento restrito, não de domínio popular — mesmo um clan leader experiente só reconhece o termo quando confrontado com evidência específica, indicando que é lenda antiga, não currículo padrão de educação de Gu Master (cap. 181).
+- Prática política observada: a mera possibilidade de um membro possuir uma aptidure extrema muda instantaneamente o cálculo de custo-benefício de protegê-lo, mesmo contra pressão de uma família cliente poderosa (Jia family) e mesmo que o indivíduo seja suspeito de assassinato — uma vez que a hierarquia de aptidão é reavaliada para cima, a "sentença" automática de sacrifício organizacional (regra do cap. 179) é revertida instantaneamente (cap. 181).
+- Torneios entre clãs podem ter regras de "battle royale" com prazo fixo (do amanhecer ao anoitecer), sem restrição de morte, e sem limite de participantes simultâneos por luta — colecionar "tokens" de outros competidores é o critério de qualificação (número mínimo citado: 30 tokens) para a fase seguinte (competição real entre os três clãs) (cap. 186).
+- A ordem social/moral do "torneio livre" é explicitamente justificada pelos próprios líderes de clã com a filosofia "força é a única lei válida — o forte tem mais direito a benefícios, o fraco deve se recolher e acumular força" — não há objeção mesmo de clãs prejudicados pela regra (cap. 186).
+- Alianças táticas temporárias entre clãs rivais dentro de uma competição de "todos contra todos" são socialmente aceitáveis e formadas abertamente (Gu Yue clan + Xiong clan aliam-se contra Bai clan/Bai Ning Bing especificamente, por ele ser ameaça desproporcional) — mas a desconfiança residual permanece (ninguém quer "atacar primeiro" por medo do parceiro aproveitar a abertura) (cap. 188-189).
+- "Hundred beast king" pode ser subjugado/escravizado por um Gu de controle de fera específico (Bear Enslavement Gu) quando o próprio Gu do usuário atinge rank compatível (rank 3, neste caso, permitindo domar ursos hundred-beast-king) — implica em regra geral: Gu de controle de bestas têm um "teto" de rank do alvo controlável, proporcional ao próprio rank do Gu de controle (cap. 189).
 
 ## 4. Economia e vida cotidiana
 
@@ -166,6 +173,7 @@
 - Custo de "comprar" o Heavenly Essence Treasure Lotus (arrancá-lo antes do tempo): jogar pedras primevas diretamente na nascente onde ele flutua; ~500 pedras primevas geraram um crescimento perceptível mínimo na "folha danificada" da flor; estimativa final de custo total: mais de 50.000 pedras primevas de uma vez (não pode ser parcelado em intervalos longos, pois a flor "devolve" energia à nascente entre doses, desperdiçando o progresso) (cap. 163).
 - Negociação de "preço de noivado" político: um Gu Master pode demandar quantia alta em pedras primevas + Gu de rank específico como condição para casar-se com uma herdeira e assim assumir/salvar uma facção enfraquecida; valores citados: pedido inicial recusado, depois "reduzido em 30%" para 40.000 pedras primevas adiantadas + um Pig Iron Gu + um Afterlife Grass Gu (o segundo item não disponível no estoque da facção, tentativa de substituição) (cap. 174, 176).
 - Bamboo wine (vinho de bambu) é citado como especialidade cara e exclusiva do clã, vendida apenas em uma única pousada/estalagem (inn) na vila — usado narrativamente como disfarce para mascarar alimentação de um Gu que consome álcool (cap. 177).
+- Doação total documentada na negociação do Heavenly Essence Treasure Lotus: ~10.000 pedras primevas do banquete de bajulação (bloco 1) + 40.000 pedras primevas da negociação de casamento com o Mo faction = cerca de 50.000 pedras primevas jogadas na nascente, suficiente para extrair o Gu (cap. 182), confirmando a estimativa de custo do cap. 163.
 
 ## 5. Estudos de caso mecânicos
 
@@ -189,6 +197,15 @@ Uma investigadora treinada examina um cadáver não identificado, deduzindo prof
 
 ### Caso: blackmail estrutural via descoberta de "dopagem de cultivo" (cap. 178-179)
 Um jovem Gu Master de baixa aptidão descobre, por acaso, que uma facção influente de seu clã transferiu secretamente essência primeva de um elder mais forte para o aperture do herdeiro oficial da facção (elevando artificialmente seu poder de cultivo/reputação de aptidão), e depois usou um Cleansing Water Gu para apagar o rastro dessa transferência. Ele usa esse conhecimento como alavanca de chantagem, forçando a facção a ceder um Gu valioso (Liquor worm) sem alarde nem confronto direto, evitando expor publicamente a fraude (que destruiria a reputação da facção) em troca do silêncio. Mecanismo: mesmo com a "limpeza" de evidências diretas, a compra específica de um Cleansing Water Gu registrada em documentos externos (nota de venda de terceiros) é evidência circunstancial suficiente para reconstituir todo o esquema.
+
+### Caso: dedução por "calma anômala" leva a conclusão investigativa errada mas mecanicamente coerente (cap. 180-181)
+Uma investigadora analisa a gravação (Photo-audio Gu) de uma cerimônia de despertar de aptidão. Observa que o suspeito principal, ao ser revelado como aptidão baixa (grade C) diante de todos, não demonstrou nenhuma reação emocional (inveja, choque, desespero) esperada de um jovem nessa situação, mesmo tendo um irmão gêmeo revelado como grade A no mesmo evento. Usando um raciocínio de "só alguém com um trunfo maior guardado não sente inveja de quem achou um prêmio menor", ela reinterpreta a calma como evidência de que o suspeito estava ocultando uma aptidão real muito superior (uma das lendárias "dez aptidões extremas"), e não uma aptidão genuinamente baixa. Mecanismo geral (não exclusivo de Gu): ausência de reação emocional esperada em um evento de status é tratada como evidência circunstancial forte de recurso oculto compensatório — método correto de raciocínio, mas neste caso aplicado a uma causa real diferente (o protagonista tinha memórias de vida passada, não uma aptidão extrema), gerando uma teoria de investigação equivocada mas suficientemente plausível para mudar decisões políticas de um clã inteiro.
+
+### Caso: extração final da Heavenly Essence Treasure Lotus e reação da nascente "morta" (cap. 182-183)
+Depois de reunir os ~50.000 pedras primevas necessários (ver seção econômica), o protagonista mergulha fisicamente através da parede de cristal formada por um Moat Gu (permeável como água) para agarrar a flor diretamente com as mãos, sem conseguir vê-la claramente através da água (compensado por cálculo mental de refração e posição memorizada). Após a extração bem-sucedida (rendição instantânea via aura de um Gu de rank muito superior, técnica já registrada), o efeito colateral inesperado: a nascente "morta" no local revela conter, nas profundezas abaixo dela, uma estrutura secreta muito maior e mais perigosa (o "cemitério do lago de sangue"), sugerindo que fontes de essência naturais antigas podem ocultar estruturas ou entidades muito mais profundas do que aparentam — extrair um Gu vinculado à nascente pode desencadear uma reação em cadeia que expõe o que estava adormecido/selado por baixo dela.
+
+### Caso: fuga de armadilha temporal/espacial usando trade-off de recursos (Gu descartável, Gu contaminado, montaria instável) (cap. 186-189)
+Encurralado numa caverna profunda, sem escapatória viável e sob perseguição simultânea de dois poderes de rank 5 (um zumbi ancestral, um investigador ferido), o protagonista de rank 3 sobrevive através de uma sequência de decisões de gerenciamento de recursos, não de força bruta: (1) sacrifica um Gu de voo já contaminado por um agente corruptor, jogando-o para os perseguidores como isca/atraso; (2) usa um item de rank desconhecido de uso único que converte permanentemente potencial futuro de cultivo em poder de combate imediato (elevando-se a um novo patamar de resistência estrutural, mas fechando a porta para avanço de rank tranquilo); (3) explora uma regra de controle de enxame (eliminar o único "nó" macho de controle de um enxame de fêmeas) para neutralizar temporariamente uma ameaça numericamente superior; (4) recorre a um Gu gerador de essência embutido no próprio corpo para sustentar combate prolongado sem a vulnerabilidade de "parar para recarregar" com pedras primevas externas; (5) refina, por sorte de encontro casual, um Gu de escavação de rank muito superior ao seu (rank 5) abandonado/hibernando havia séculos, usando-o como via de fuga apesar de não conseguir sustentá-lo plenamente e de o Gu estar parcialmente corrompido (surtos incontroláveis periódicos). Lição mecânica geral: sobrevivência contra oponentes de rank muito superior depende de explorar regras estruturais do sistema de Gu (contaminação, controle de enxame, geração de essência, itens de sacrifício único) em vez de tentar competir em poder bruto.
 
 ## 6. Glossário
 
@@ -218,6 +235,16 @@ Um jovem Gu Master de baixa aptidão descobre, por acaso, que uma facção influ
 - Three-Clan Tournament (EN) — Torneio dos Três Clãs; competição formal entre Gu Yue, Bai e Xiong clan.
 - Cactus pointer (EN) — Gu consumível investigativo em forma de semente/cacto.
 - Photo-audio Gu (EN) — Gu de fotografia/áudio; usado ritualisticamente para registrar eventos importantes de clã.
+- Ren Zu (EN, nome/mito) — ancestral primordial lendário do mundo, pai mitológico dos "dez filhos" cujas mortes originaram, via sacrifício e Derivation Gu, a humanidade cultivadora comum.
+- Derivation Gu (EN) — Gu mitológico cujo "estômago" explodiu espalhando vida, originando os primeiros mortais segundo o mito de Ren Zu.
+- Ten extreme physiques/aptitudes (EN) — os dez extremos; aptidões supremas ligadas à linhagem de Ren Zu, acima do grade A convencional, associadas a morte precoce apesar do poder.
+- Ancient Moon Desolate Yin physique (EN) — uma das dez aptidões extremas, profetizada por um fundador de clã como destino futuro de sua linhagem (erroneamente atribuída ao protagonista pelos investigadores neste bloco).
+- Blood pond graveyard / blood lake graveyard (EN) — cemitério do lago de sangue; câmara secreta subterrânea sob o cofre comum de um clã, contendo um lago de "água de sangue" nutritiva e o túmulo do fundador.
+- Blood Sea Ancestor (EN) — Venerável demoníaco lendário (rank 7), criador das três grandes linhagens de Gu de sangue (Bladewing Blood Bat, Blood Frenzy, Blood Guillotine) e de um método difundido de inserção rápida no mundo demoníaco via heranças espalhadas.
+- Venerable / Immortal Venerable / Demonic Venerable (EN) — título de Gu Master de rank 9; "Immortal" para via correta, "Demonic" para via demoníaca.
+- Five Great Flying Zombies (EN) — cinco rotas avançadas de rank 5 de zumbificação: Blood Wight, Asura zombie, Heavenly Demon zombie, Nightmare zombie, Plague zombie.
+- Great dao (EN, termo cosmológico) — "grande via"/lei fundamental do mundo que aprova ou barra fenômenos que violam a ordem natural (ex.: viagem no tempo de corpo físico).
+- Butterfly effect (EN, conceito aplicado) — efeito cascata de mudanças causado pela consciência retrocedida no tempo alterando o comportamento do hospedeiro no passado.
 
 ## 7. Dúvidas e lacunas
 
@@ -229,5 +256,9 @@ Um jovem Gu Master de baixa aptidão descobre, por acaso, que uma facção influ
 - Não fica claro se a "aprovação incompleta/anômala" do White Form Immortal Snake Gu em Bai Ning Bing (entrou no aperture mas não abriu a herança) é um bug único de enredo ligado à sua aptidão especial, ou uma regra geral de que Gu guardiões de herança reagem de forma diferente a portadores de aptidões absolutas — texto explicitamente deixa isso como mistério não resolvido para os personagens (cap. 173, 178).
 - Rank exato de Pig Iron Gu e Afterlife Grass Gu, citados na negociação de casamento, não é informado (cap. 174, 176).
 - Rank exato de Cleansing Water Gu não é informado (cap. 179).
-- Não é claro se "dez aptidões absolutas" têm nomes/listas fixas conhecidas do mundo ou se são reveladas aos poucos ao longo da obra — apenas Northern Dark Ice Soul foi nomeada até este bloco (cap. 173).
+- Não é claro se "dez aptidões absolutas" têm nomes/listas fixas conhecidas do mundo ou se são reveladas aos poucos ao longo da obra — apenas Northern Dark Ice Soul foi nomeada até este bloco (cap. 173); neste bloco mais um nome aparece (Ancient Moon Desolate Yin), citado como um dos "dez filhos" de Ren Zu, sugerindo que os dez nomes seguem a lista mitológica dos dez filhos (cap. 181).
+- Não ficou claro por que exatamente o Thousand Li Earthwolf Spider "hibernou/selou-se" em vez de simplesmente morrer ou continuar agindo por comando residual do Flower Wine Monk — o texto trata isso como comportamento parcialmente instintivo de autopreservação de Gu moribundo, sem regra geral explicitada (cap. 188).
+- Motivo exato de First Gen Gu Yue (fundador zumbificado) permanecer selado há quase mil anos sem agir antes deste bloco, e o que ele realmente "planejava" a longo prazo além de defender o Heavenly Essence Treasure Lotus, não é esclarecido — fica como gancho de enredo, não mecânica (cap. 183-186).
+- Rank exato do Moat Gu (usado para formar a parede de cristal permeável ao redor da nascente) não é informado (cap. 163, 182).
+- Não é claro se a regra "Gu de rank 6+ é único no mundo" se aplica igualmente a rank 7, 8, 9 (Venerados) ou é específica da faixa 6+ mencionada no texto — o texto generaliza como "rank six and above" (cap. 187).
 

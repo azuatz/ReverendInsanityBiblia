@@ -77,7 +77,11 @@ contexto vivo se perde. Portanto:
 - Toda afirmação relevante com citação: número de capítulo ou URL. Marque a origem de
   cada seção: `verificado no texto` / `wiki-comunidade` / `inferido`. Nunca invente.
 - Blocos `> [!note] Para o design` sempre que uma mecânica sugerir algo jogável.
-- Notas autossuficientes: a leitora não conhece a obra e não deve precisar dela.
+- Notas autossuficientes e **didáticas para leigos**: a leitora não conhece a obra e
+  não vai lê-la — escrever como professor que ensina do zero, definindo todo termo
+  na primeira aparição, nunca como leitor resumindo para si mesmo.
+- Toda nota consolidada segue os modelos de `_pipeline/MODELOS/` (conceito, path,
+  estudo de caso, catálogo de Gu); os modelos evoluem junto com o conhecimento.
 
 ### Convenções Obsidian (obrigatórias em toda nota do vault)
 

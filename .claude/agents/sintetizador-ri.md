@@ -21,7 +21,12 @@ pastas `01 - Cultivo/` a `09 - Apêndices/`).
 ## Como consolidar
 
 - Uma nota atômica por conceito, autossuficiente, em português brasileiro, escrita
-  para uma designer de TTRPG que nunca leu a obra.
+  para uma designer de TTRPG que nunca leu a obra — didática de professor que ensina
+  do zero, não resumo de leitor. Todo termo definido na primeira aparição.
+- **Siga os modelos de `_pipeline/MODELOS/`** (nota de conceito, nota de path,
+  estudo de caso, catálogo de Gu): mesma estrutura de seções em todas as notas do
+  mesmo tipo. Se perceber que um modelo precisa evoluir, atualize o modelo junto
+  com as notas e diga isso no relatório.
 - Funda informação nova nas notas existentes com Edit; crie notas novas apenas para
   conceitos ainda sem nota. Mantenha e expanda o catálogo de Gu (`09 - Apêndices/`)
   e as notas por path (`03 - Paths/`).

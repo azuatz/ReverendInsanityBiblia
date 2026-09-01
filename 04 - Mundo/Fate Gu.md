@@ -55,7 +55,7 @@ São domínios distintos e complementares. Boa sorte é incerteza positiva; má 
 
 `conhecimento: segredo` — a peça central da nota.
 
-O Fate Gu **foi ferido de propósito**. Um dos dez Veneráveis o atacou dentro do [[Cosmologia#O Rio do Tempo|Rio do Tempo]] — o ato que a memória histórica registra como "quebrar as correntes que prendiam o destino". Ver [[Red Lotus Demon Venerable]].
+O Fate Gu **foi ferido de propósito**. Um dos dez Veneráveis o atacou dentro do [[Cosmologia#O Rio do Tempo|Rio do Tempo]] — o ato que a memória histórica registra como "quebrar as correntes que prendiam o destino". Ver [[Os Que Romperam as Leis|Red Lotus Demon Venerable]].
 
 Desde então, o mundo tem um sistema de destino que funciona parcialmente. Os efeitos observáveis são espalhados por todo o cenário, e a maioria das pessoas nunca liga os pontos:
 
@@ -146,5 +146,5 @@ Durante o processo, marcas de dao do caminho do céu entram em circulação no m
 - [[Vontade dos Céus]] — a lei e a agência das quais o Fate Gu é um fragmento e um instrumento.
 - [[Tribunal Celestial]] — a instituição que guarda a peça, opera a vigilância e financia o reparo.
 - [[Cosmologia#A fronteira do mundo]] — a origem estrutural dos demônios de outro mundo.
-- [[Red Lotus Demon Venerable]] — o Venerável que feriu o Fate Gu, e o legado estrutural disso.
-- [[Star Constellation Immortal Venerable]] — a Venerável que construiu a vigilância e travou a revelação do destino a favor da humanidade dominante.
+- [[Os Que Romperam as Leis|Red Lotus Demon Venerable]] — o Venerável que feriu o Fate Gu, e o legado estrutural disso.
+- [[Os Arquitetos da Ordem|Star Constellation Immortal Venerable]] — a Venerável que construiu a vigilância e travou a revelação do destino a favor da humanidade dominante.

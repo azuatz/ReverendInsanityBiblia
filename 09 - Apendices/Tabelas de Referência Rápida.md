@@ -42,7 +42,7 @@ Duas convenções valem para o documento inteiro:
 ## 1. Graus de aptidão
 
 A ==aptidão== é o talento inato de cultivo, medido uma única vez na vida, aos 15
-anos, na [[Cerimônia do Despertar]]. Ela se expressa como uma **porcentagem**: a
+anos, na [[Abertura|Cerimônia do Despertar]]. Ela se expressa como uma **porcentagem**: a
 fração da [[Abertura]] que a pessoa consegue encher de [[Essência Primeva|essência
 primeva]] — ou seja, o **teto de armazenamento** de energia dela. Não é a velocidade
 com que enche: é o limite onde para de encher, mesmo havendo espaço sobrando.
@@ -74,7 +74,7 @@ Três observações práticas que a tabela não mostra sozinha:
 
 A aptidão **não é imutável**, mas mudá-la exige métodos raros, caros e em geral
 sombrios — e ela também pode **cair**, por dano à abertura ou contaminação por
-essência alheia. Os detalhes estão em [[Graus de Aptidão]].
+essência alheia. Os detalhes estão em [[Aptidão|Graus de Aptidão]].
 
 ---
 
@@ -184,7 +184,7 @@ as **produz**, não ao rank de quem as usa:
 | 9 | yellow apricot | damasco-amarelo |
 
 A essência imortal é **pessoal e não transferível**: um Gu Imortal não consegue usar
-a essência imortal de outro. A única exceção é o [[Land Spirit|espírito da terra]]
+a essência imortal de outro. A única exceção é o [[Blessed Lands e Grotto-Heavens|espírito da terra]]
 formado a partir do próprio Imortal morto, que pode gastar a essência que ele deixou.
 
 ---
@@ -468,7 +468,7 @@ Traços comuns confirmados dos dez Veneráveis, úteis como perfil estrutural:
 - **Nenhum era onipotente**: houve Veneráveis que precisaram de ajuda de terceiros
   para refinar os próprios Gu.
 - **Todos tiveram sorte inata imensa**, vinda de uma de duas fontes: o favor da
-  [[Heaven's Will|vontade do céu]] ou a devoção coletiva de multidões.
+  [[Vontade dos Céus|vontade do céu]] ou a devoção coletiva de multidões.
 - **Todos tiveram um "Guardião do Dao"** num momento crucial do próprio crescimento —
   que podia ser um amigo **ou** um inimigo.
 - **Todos foram limitados pelo tempo de vida.** Nem Veneráveis são imortais de fato:
@@ -539,7 +539,7 @@ Três regras que explicam a curva:
 
 ## Notas relacionadas
 
-- [[Graus de Aptidão]] · [[Abertura]] · [[Essência Primeva]] · [[Ranks e Estágios de Cultivo]]
-- [[Dao Marks]] · [[Attainment]] · [[Calamidades e Tribulações]]
-- [[Terra Abençoada]] · [[Essência Imortal]] · [[Veneráveis]]
+- [[Aptidão|Graus de Aptidão]] · [[Abertura]] · [[Essência Primeva]] · [[Ranks e Avanço|Ranks e Estágios de Cultivo]]
+- [[Dao Marks]] · [[Attainment]] · [[Tribulações e Calamidades|Calamidades e Tribulações]]
+- [[Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[Essência Primeva|Essência Imortal]] · [[Visão Geral dos Veneráveis|Veneráveis]]
 - [[Refino de Gu]] · [[Glossário EN-PT]] · [[Catálogo de Gu]]

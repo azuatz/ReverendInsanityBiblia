@@ -685,5 +685,5 @@ de um por cento da força.
 
 - [[Catálogo de Gu - Mortais]] — os Gu de rank 1 a 5
 - [[Tabelas de Referência Rápida]] — escala das essências imortais, taxas de refino, dao marks
-- [[Veneráveis]] · [[Dao Marks]] · [[Terra Abençoada]] · [[Refino de Gu]]
+- [[Visão Geral dos Veneráveis|Veneráveis]] · [[Dao Marks]] · [[Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[Refino de Gu]]
 - [[Glossário EN-PT]] — o vocabulário usado aqui

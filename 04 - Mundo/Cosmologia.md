@@ -130,7 +130,7 @@ Isso explica, retroativamente, um dos fenômenos mais desconcertantes do cenári
 
 **O quase-apocalipse.** Há cerca de trezentos mil anos, a fronteira foi rompida de propósito, no ponto mais fino, por um Venerável que queria voltar para o próprio mundo natal. Pela brecha começou a jorrar algo descrito como a pior tribulação que o mundo já viu, ameaçando destruir não a caverna, mas o mundo inteiro. Quatro Veneráveis remendaram a fronteira, e o responsável a selou extraindo as próprias marcas de dao para servirem de tampão.
 
-**O remendo nunca foi completo.** O mundo de cultivo Gu vive, desde então, em cima de uma emenda mal feita. Ver [[Thieving Heaven Demon Venerable]] e [[Limitless Demon Venerable]].
+**O remendo nunca foi completo.** O mundo de cultivo Gu vive, desde então, em cima de uma emenda mal feita. Ver [[Os Que Romperam as Leis|Thieving Heaven Demon Venerable]] e [[Os Criadores de Caminhos|Limitless Demon Venerable]].
 
 > [!note] Para o design
 > Aqui está a fundação de um cenário de horror cósmico que não precisa de deuses. A ameaça externa é real, tem um endereço geográfico, e existe porque alguém do lado de dentro **decidiu construir uma porta**. Se a designer quiser um arco de campanha de escala máxima, este é o cofre: não é "derrotar o mal", é "descobrir que o buraco no casco do navio foi feito de propósito, para pescar".

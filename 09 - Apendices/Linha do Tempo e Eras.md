@@ -317,8 +317,8 @@ Para consulta rápida: em que era ambientar, e o que existe lá.
 
 ## Notas relacionadas
 
-- [[Veneráveis]] — quem foram os dez e o que cada um deixou
-- [[Cosmologia]] · [[As Cinco Regiões]] · [[Os Nove Céus]] · [[Rio do Tempo]]
-- [[Paths]] — os caminhos citados aqui, com quem os criou
+- [[Visão Geral dos Veneráveis|Veneráveis]] — quem foram os dez e o que cada um deixou
+- [[Cosmologia]] · [[As Cinco Regiões]] · [[Cosmologia|Os Nove Céus]] · [[Cosmologia|Rio do Tempo]]
+- [[Visão Geral dos Paths|Paths]] — os caminhos citados aqui, com quem os criou
 - [[Tabelas de Referência Rápida]] — as quatro condições para virar Venerável
 - [[Glossário EN-PT]] — o vocabulário usado nesta nota

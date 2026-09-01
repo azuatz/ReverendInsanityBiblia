@@ -18,7 +18,7 @@ conhecimento: comum
 
 ## Como funciona
 
-A abertura nasce durante a [[Cerimônia do Despertar]]. Criaturas de luz chamadas *Hope Gu* (Gu da Esperança) entram no corpo do jovem, acumulam-se cerca de três polegadas abaixo do umbigo e explodem, abrindo ali uma cavidade esférica coberta por uma película fina e luminosa. É um órgão real para efeitos de mundo — pode ser ferido, inspecionado, sobrecarregado, rachado —, mas não aparece em nenhuma dissecação: existe na camada espiritual do corpo.
+A abertura nasce durante a [[Abertura|Cerimônia do Despertar]]. Criaturas de luz chamadas *Hope Gu* (Gu da Esperança) entram no corpo do jovem, acumulam-se cerca de três polegadas abaixo do umbigo e explodem, abrindo ali uma cavidade esférica coberta por uma película fina e luminosa. É um órgão real para efeitos de mundo — pode ser ferido, inspecionado, sobrecarregado, rachado —, mas não aparece em nenhuma dissecação: existe na camada espiritual do corpo.
 
 Dentro dessa cavidade fica o ==Mar Primevo (Primeval Sea)==: um pequeno mar de [[Essência Primeva|essência primeva]] líquida, a condensação da vitalidade, da energia e da alma que o indivíduo acumulou ao longo da vida. É esse líquido que o Mestre Gu gasta para acionar seus Gu, e é o nível dele que responde à pergunta prática "quanto ainda posso lutar hoje?".
 
@@ -75,7 +75,7 @@ Socialmente, a abertura é o que se esconde. A cor da essência vaza como aura e
 - [[Aptidão]] — o que fixa a capacidade máxima da abertura.
 - [[Ranks e Avanço]] — avanço é transformar ou quebrar as paredes.
 - [[Ascensão Imortal]] — o momento em que a abertura é destruída de propósito.
-- [[Cerimônia do Despertar]] — o ritual que a cria.
+- [[Abertura|Cerimônia do Despertar]] — o ritual que a cria.
 - [[Pedras Primevas]] — a recarga externa.
 
 [^1]: A abertura também aparece na obra sob nomes populares e poéticos ("Palácio Púrpuro", "Lago Chinês"), que são sinônimos do mesmo órgão. A tradução brasileira consagrada é "abertura"; "mar primordial" e "mar primitivo" circulam como variantes para o Mar Primevo, sem diferença de significado.

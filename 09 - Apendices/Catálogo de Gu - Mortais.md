@@ -1027,6 +1027,6 @@ mês. Escolher a rota de fusão é escolher qual conta pagar pelo resto da vida.
 ## Notas relacionadas
 
 - [[Catálogo de Gu - Imortais]] — os Gu de rank 6 a 9, únicos no mundo
-- [[Refino de Gu]] · [[Killer Moves]] · [[Paths]]
+- [[Refino de Gu]] · [[Killer Moves]] · [[Visão Geral dos Paths|Paths]]
 - [[Tabelas de Referência Rápida]] — ranks, cores, taxas de refino
 - [[Glossário EN-PT]] — o vocabulário usado aqui

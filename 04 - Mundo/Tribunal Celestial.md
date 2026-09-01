@@ -34,9 +34,9 @@ A Corte Celestial é o que acontece quando milhares dessas dimensões são fundi
 
 `conhecimento: especializado`, com o núcleo em `segredo`
 
-Foi fundada há três milhões de anos, na Antiguidade Remota, pelo **primeiro rank 9 da história** — ver [[Primordial Origin Immortal Venerable]] —, que também inventou o método de fusão de mundos privados que a torna possível. Desde então nunca deixou de ser a organização número um do mundo, e três gerações de Veneráveis já a lideraram.
+Foi fundada há três milhões de anos, na Antiguidade Remota, pelo **primeiro rank 9 da história** — ver [[Os Arquitetos da Ordem|Primordial Origin Immortal Venerable]] —, que também inventou o método de fusão de mundos privados que a torna possível. Desde então nunca deixou de ser a organização número um do mundo, e três gerações de Veneráveis já a lideraram.
 
-`segredo` — **Apenas três Veneráveis de toda a história realmente "entraram"** na Corte, no sentido de fundir a própria abertura a ela: [[Primordial Origin Immortal Venerable]], [[Star Constellation Immortal Venerable]] e [[Genesis Lotus Immortal Venerable]]. Outros cooperaram com ela sem jamais pertencer.
+`segredo` — **Apenas três Veneráveis de toda a história realmente "entraram"** na Corte, no sentido de fundir a própria abertura a ela: [[Os Arquitetos da Ordem|Primordial Origin Immortal Venerable]], [[Os Arquitetos da Ordem|Star Constellation Immortal Venerable]] e [[Os Criadores de Caminhos|Genesis Lotus Immortal Venerable]]. Outros cooperaram com ela sem jamais pertencer.
 
 `segredo` — O mundo coletivo da Corte é **livre de tribulações**, aparentemente por ter devorado fragmentos dos sete céus imemoriais destruídos, dos quais ela guarda uma quantidade significativa no tesouro. Ver [[Cosmologia#Os nove céus imemoriais]].
 

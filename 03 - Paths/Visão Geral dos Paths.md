@@ -264,4 +264,4 @@ dos aliados.
 - [[Visão Geral dos Gu]] — a base de tudo: o que é um Gu e como funciona.
 - [[Killer Moves]] — como Gu de um caminho se combinam em golpes.
 - [[Refino de Gu]] — o processo que dá nome ao caminho do refinamento.
-- [[Ranks e Estágios de Cultivo]] — a barra de poder, paralela à barra de domínio.
+- [[Ranks e Avanço|Ranks e Estágios de Cultivo]] — a barra de poder, paralela à barra de domínio.

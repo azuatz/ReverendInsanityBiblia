@@ -18,7 +18,7 @@ conhecimento: comum
 
 ## Como funciona
 
-Na [[Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. O número de passos que ele consegue dar determina seu grau. Menos de dez passos: nenhum talento, mortal para sempre. Dez a vinte passos: grau D. Vinte a trinta: grau C. Trinta a quarenta: grau B. Quarenta a cinquenta: grau A.
+Na [[Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. O número de passos que ele consegue dar determina seu grau. Menos de dez passos: nenhum talento, mortal para sempre. Dez a vinte passos: grau D. Vinte a trinta: grau C. Trinta a quarenta: grau B. Quarenta a cinquenta: grau A.
 
 Esse grau é imediatamente convertido numa **porcentagem de capacidade da abertura**, e é a porcentagem que faz o trabalho mecânico:
 
@@ -146,7 +146,7 @@ Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativ
 
 ## Relações
 
-- [[Cerimônia do Despertar]] — onde o grau é medido.
+- [[Abertura|Cerimônia do Despertar]] — onde o grau é medido.
 - [[Abertura]] — o que o grau dimensiona.
 - [[Essência Primeva]] — o que cabe dentro desse teto.
 - [[Ranks e Avanço]] — a trava que o grau impõe e as brechas para furá-la.

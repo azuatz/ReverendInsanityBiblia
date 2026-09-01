@@ -98,16 +98,16 @@ Os dez Veneráveis históricos, em ordem aproximada de era. Cada um tem nota pr�
 
 | Venerável | Via | Caminho principal | Legado em uma linha |
 |---|---|---|---|
-| [[Primordial Origin Immortal Venerable]] | correta | origin path | O primeiro rank 9 da história; fundou o sistema de seitas e o [[Tribunal Celestial]] |
-| [[Star Constellation Immortal Venerable]] | correta | wisdom path | Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu |
-| [[Reckless Savage Demon Venerable]] | demoníaca | strength path | Criou os caminhos da força e da transformação; exterminou uma raça |
-| [[Genesis Lotus Immortal Venerable]] | correta | wood path | Criou o caminho da madeira e a infraestrutura de cura e armazenamento do mundo imortal |
-| [[Thieving Heaven Demon Venerable]] | demoníaca | theft path | Criou o caminho do roubo; o mais rico da história; remendou a fronteira do mundo |
-| [[Giant Sun Immortal Venerable]] | correta (ex-demoníaca) | luck path | Criou o caminho da sorte em segredo; fundou a ordem política das Planícies do Norte |
-| [[Limitless Demon Venerable]] | demoníaca | rule path | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo |
-| [[Spectral Soul Demon Venerable]] | demoníaca | soul path | Criou o caminho da alma; a existência mais destrutiva dos dez |
-| [[Paradise Earth Immortal Venerable]] | correta | (herança de campo de batalha) | Criou a melhor herança de combate da história e as ferramentas de leitura e ocultação do segredo celeste |
-| [[Red Lotus Demon Venerable]] | demoníaca | (vida mais curta dos dez) | Feriu o [[Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida |
+| [[Os Arquitetos da Ordem|Primordial Origin Immortal Venerable]] | correta | origin path | O primeiro rank 9 da história; fundou o sistema de seitas e o [[Tribunal Celestial]] |
+| [[Os Arquitetos da Ordem|Star Constellation Immortal Venerable]] | correta | wisdom path | Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu |
+| [[Os Criadores de Caminhos|Reckless Savage Demon Venerable]] | demoníaca | strength path | Criou os caminhos da força e da transformação; exterminou uma raça |
+| [[Os Criadores de Caminhos|Genesis Lotus Immortal Venerable]] | correta | wood path | Criou o caminho da madeira e a infraestrutura de cura e armazenamento do mundo imortal |
+| [[Os Que Romperam as Leis|Thieving Heaven Demon Venerable]] | demoníaca | theft path | Criou o caminho do roubo; o mais rico da história; remendou a fronteira do mundo |
+| [[Visão Geral dos Veneráveis|Giant Sun Immortal Venerable]] | correta (ex-demoníaca) | luck path | Criou o caminho da sorte em segredo; fundou a ordem política das Planícies do Norte |
+| [[Os Criadores de Caminhos|Limitless Demon Venerable]] | demoníaca | rule path | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo |
+| [[Os Criadores de Caminhos|Spectral Soul Demon Venerable]] | demoníaca | soul path | Criou o caminho da alma; a existência mais destrutiva dos dez |
+| [[Visão Geral dos Veneráveis|Paradise Earth Immortal Venerable]] | correta | (herança de campo de batalha) | Criou a melhor herança de combate da história e as ferramentas de leitura e ocultação do segredo celeste |
+| [[Os Que Romperam as Leis|Red Lotus Demon Venerable]] | demoníaca | (vida mais curta dos dez) | Feriu o [[Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida |
 
 > [!warning] Sobre os nomes
 > Os nomes dos Veneráveis aparecem aqui em inglês porque a tradução brasileira de referência da obra só verteu alguns deles de forma consistente (por exemplo, *Venerável Imortal Constelação Estelar* e *Venerável Demônio Alma Espectral*). Para não inventar nomenclatura, cada nota traz o nome em inglês como título e registra a forma em português nos `aliases` quando ela existe confirmada.

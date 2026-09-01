@@ -173,5 +173,5 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 
 - [[Visão Geral dos Paths]] — como os Gu se organizam em famílias temáticas de cultivo.
 - [[Essência Primeva]] — a energia que aciona tudo.
-- [[Ranks e Estágios de Cultivo]] — a escala de 1 a 9 que Gu e Mestres compartilham.
+- [[Ranks e Avanço|Ranks e Estágios de Cultivo]] — a escala de 1 a 9 que Gu e Mestres compartilham.
 - [[Catálogo de Gu]] — a lista dos Gu documentados.

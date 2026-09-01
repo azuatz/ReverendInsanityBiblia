@@ -23,18 +23,32 @@ sem ajuda externa.
 
 ### Faixas de aptidão (confirmadas pelo usuário e coerentes com o texto)
 
-| Grau | Faixa |
-|---|---|
-| D | abaixo de 40% |
-| C | 40–59% |
-| B | 60–79% |
-| A | 80–99% |
-| Constituição Extrema | 100% |
+| Grau | Faixa | Teto de progressão típico |
+|---|---|---|
+| (sem talento) | abaixo de 20% | não se torna Mestre Gu |
+| D | 20–30% | rank 1, no máximo rank 2 |
+| C | 40–59% | rank 2; rank 3 só excepcionalmente |
+| B | 60–79% | rank 3–4 |
+| A | 80–99% | topo mortal (rank 5) |
+| Constituição Extrema | 100% | ver ressalva abaixo |
 
-Observações do texto: 99% grau A é o topo comum, e há registro de que um 99% pode
-"avançar para as dez aptidões absolutas" durante o cultivo (cap. 173) — é a porta de
-entrada das Dez Constituições Extremas. A wiki afirma D = 20-39%; o texto mostra um
-caso de "grau D 20%", mas não fecha o piso — **na dúvida, use "abaixo de 40%"**.
+**Grau D = 20–30%, confirmado em duas passagens independentes:** o Volume 5 afirma
+diretamente que Mestres Gu de aptidão grau D têm de vinte a trinta por cento de
+essência primeva na abertura e que a maioria fica no rank 1, terminando a vida na base
+da hierarquia; e o Volume 1 descreve o grau D como um mar primevo que ocupa "2 a 3
+camadas" da abertura (isto é, 20–30%), com promoção máxima do rank 1 ao 2. **A wiki
+erra ao dizer 20–39%** — divergência registrada, prevalece o texto.
+
+**Abaixo de 20% não existe outro grau:** o Volume 1, ao descrever uma turma de jovens,
+separa os que são grau D dos que "não têm talento algum" — ou seja, abaixo do D não há
+uma escala inferior, simplesmente não se é Mestre Gu. Note também a lacuna aparente
+entre 30% e 40% (topo do D e piso do C): a obra não a explica; trate 31–39% como zona
+não descrita, provavelmente arredondamento narrativo.
+
+Observações: 99% grau A é o topo comum, e um 99% pode "avançar para as dez aptidões
+absolutas" durante o cultivo (cap. 173) — é a porta de entrada das Dez Constituições
+Extremas. A aptidão pode subir dentro da escala: há registro de alguém que sobe de
+grau D até 59% de grau C, "a um passo do grau B" (Volume 2).
 
 ## O que a obra NÃO dá
 
@@ -43,6 +57,46 @@ obra descreve a barreira em termos qualitativos e de recursos, não de porcentag
 Portanto: o limiar de 55% para o rank 2 é canônico; qualquer progressão do tipo
 "65%, 75%, 85%" é **inferência**, não texto — se for adotada no RPG, marcar como
 extrapolação de design.
+
+### A hipótese "de 10 em 10" (55 / 65 / 75 / 85)
+
+O usuário propôs que os limiares subam de 10 em 10 pontos. É a extrapolação mais
+elegante e **encaixa bem com o que a obra mostra**: com teto de 59%, um grau C fica
+logo abaixo de 65% e por isso "pouquíssimos alcançam o rank 3" (cap. 91); um grau B
+(60-79%) alcançaria o rank 3 mas travaria antes do 85% do rank 5; e só grau A (80-99%)
+chegaria ao topo mortal — o que é exatamente a distribuição social de ranks que a obra
+descreve. **Recomendação para o RPG: adotar 55/65/75/85 como régua de design**,
+deixando registrado que apenas o 55% é canônico e o resto é reconstrução coerente.
+Marcar assim nas notas finais: `inferido (coerente com o texto)`.
+
+## E para virar imortal? Não é porcentagem — é destruir a abertura
+
+A escada percentual **termina no mundo mortal**. O rank 5 estágio de pico é descrito
+como "a linha de chegada dos Mestres Gu mortais". A passagem para Gu Immortal não é
+"encher 100%": é uma mudança qualitativa de mecânica.
+
+Segundo o texto (Volume 3), ascender exige:
+
+1. **Estilhaçar completamente a própria abertura** com um assalto total de essência
+   primeva — a abertura selada pela parede de cristal vira um buraco aberto no corpo.
+   O texto enfatiza que é irreversível: "não há volta depois de estilhaçar a abertura",
+   e por isso o primeiro passo exige coragem enorme.
+2. **Absorver qi do céu e qi da terra** pela abertura destruída. Quanto mais se absorve,
+   maior a chance de sucesso — mas os dois não podem ser acumulados sem limite: precisam
+   ficar **equilibrados com o qi humano** do praticante.
+3. O equilíbrio dos três qi (céu, terra, humano) determina o resultado; o desequilíbrio
+   produz os modos de falha (autodetonação, dissolução, fossilização) e a qualidade do
+   qi humano define a **graduação da blessed land** resultante.
+
+Ou seja: no mundo mortal a aptidão é o teto e a porcentagem é o portão; na passagem
+imortal a aptidão deixa de mandar, e o que decide é coragem, recursos e o equilíbrio
+dos três qi.
+
+> [!note] Para o design
+> São dois subsistemas de progressão distintos, e vale que o RPG os trate assim: uma
+> escada mortal governada por um número-teto (aptidão), e um salto imortal que é um
+> evento irreversível de alto risco, com falha catastrófica possível e um "resultado"
+> variável (o tamanho e a qualidade do próprio domínio que se ganha).
 
 ## Aptidão é mutável (importante para o jogo)
 

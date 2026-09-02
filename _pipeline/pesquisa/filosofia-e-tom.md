@@ -13,9 +13,29 @@ Coleta de **citações literais em inglês** do texto-fonte
 (`/home/azuatz/Documentos/Reverend-Insanity-fonte/texto/`), com número de capítulo.
 Material bruto para redação de nota final — sem paráfrase, sem interpretação.
 
-Convenção: cada citação traz `— cap. N`. Quando o capítulo não pôde ser determinado,
-está escrito explicitamente. Comentários do pesquisador aparecem entre colchetes e em
-itálico, e nunca se misturam ao texto citado.
+Convenção: cada citação traz `— cap. N`. **Todas as citações deste dossiê tiveram o
+capítulo determinado com sucesso** — não há nenhuma citação sem atribuição. Comentários
+do pesquisador aparecem entre colchetes e em itálico, e nunca se misturam ao texto
+citado.
+
+## Índice e densidade de evidência
+
+| Bloco | Tema | Citações | Densidade |
+|---|---|---|---|
+| 1 | A tese central do mundo | 25 | abundante |
+| 2 | Ausência de karma e justiça cósmica | 25 | abundante |
+| 3 | Instituições "justas" que buscam poder | 35 | abundante |
+| 4 | O objetivo comum das pessoas | 16 | **média — evidência indireta** |
+| 5 | O objetivo do protagonista: vida eterna | 37 | abundantíssima |
+| 6 | A ética do protagonista | 35 | abundante |
+| 7 | A natureza humana segundo a obra | 40 | abundantíssima |
+| 8 | Contra-argumentos e vozes discordantes | 40 | abundante |
+| 9 | O caminho demoníaco, a fundo | 63 | abundantíssima |
+| 10 | A tipologia de gente do mundo | 41 | média — **com lacunas declaradas** |
+| 11 | As filosofias em disputa | 26 | abundante — **com uma lacuna declarada** |
+
+Blocos 10 e 11 trazem seções "❌ Lacunas honestas" no fim, listando o que a obra
+**não** informa.
 
 ---
 

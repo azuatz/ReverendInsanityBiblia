@@ -280,6 +280,8 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 - [[Economia Imortal]] — a moeda que substitui esta a partir do rank 6.
 - [[Clãs]] — a nascente espiritual como base territorial de toda organização.
 - [[Vida Cotidiana]] — o que essas quantias significam para quem não cultiva.
+- [[A Filosofia do Mundo]] — por que uma moeda que também é combustível de cultivo faz do
+  recurso escasso o motor de todos os conflitos do cenário.
 
 [^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para
     *primordiall stone*. Adotamos "pedra primordial" nesta base por consistência com "essência

@@ -86,3 +86,67 @@ Vínculo grau ↔ rank:
 - c460: contas enviadas por um Gu voador que as carrega, uma a uma, em rodadas.
 - c641: "Even if your immortal essence is used up, you can lend Water Pavilion to me, I still have over twenty green grape immortal essence beads!"
 - c655: "Hu Immortal blessed land only has sixty-four beads of Bai Hu's immortal essence."
+
+## 9. Manuseio físico — a cena decisiva (c409-410)
+
+- c409: "The land spirit brought Fang Yuan to the palace in Dang Hun Mountain. In the deepest parts of the palace was an enormous golden bowl which was filled with green immortal essence."
+- c410: "Fang Yuan counted, the golden bowl had seventy-eight pieces of green grape immortal essence. **Adding in the layer of blue-green immortal liquid essence at the bottom of the bowl, it amounted to seventy-eight pieces and a half.**"
+- c410: "Fang Yuan took out one bead of green grape immortal essence, **holding it in his hand**, willing and summoning fixed immortal travel Gu." / "he spread his palm for fixed immortal travel Gu to land. / Fixed immortal travel Gu **sensed the green grape immortal essence's aura** and fluttered its wings, gliding in the air and landing in Fang Yuan's palm. / Next, **it laid down on the green grape immortal essence and slowly consumed it.** / Fixed immortal travel's name contained an 'immortal' word, that was not for show. **Its food was immortal essence.** / A moment later, one green grape immortal essence was expended."
+- => a conta é sólida o bastante para ser segurada na palma junto com um Gu-borboleta; a fração de conta existe como **líquido azul-esverdeado** no fundo do recipiente. Meia conta é uma unidade contável ("seventy-eight pieces and a half").
+- c1055 (em combate, fora da abertura): "Fang Yuan **held flying sword Immortal Gu in his hand as he injected immortal essence into it**" — em combate a obra nunca descreve manuseio da conta, só "injetar/despejar".
+- c1094: "**At Fang Yuan's will**, he injected green grape immortal essence into this Immortal Gu."
+- c727: "Shi Lei placed both his palms on the filthy mud robe, pouring a large amount of immortal essence into it."
+- c1207: "Fang Yuan was sitting cross-legged on a prayer mat, **his divine sense entering his immortal aperture**." (trabalhar as contas = sentido divino dentro da abertura)
+- c1457: "After injecting red date immortal essence, snack Immortal Gu's caterpillar body shook like it had gotten drunk, its lower half sprawled out on Fang Yuan's palm"
+
+## 10. A regra da não transferência (e as exceções)
+
+- c638: "**Gu Masters cannot use the primeval essence of others. Gu Immortals were also unable to use the immortal essence of others.** After Fang Yuan obtained Hu Immortal blessed land, he had obtained a lot of green grape immortal essence left behind by Hu Immortal. But only the land spirit, Little Hu Immortal, could use this immortal essence. Land spirits were formed from a Gu Immortal's obsession. Giant Sun's immortal essence also could only be used by Giant Sun's will."
+- c1625: "**Immortal essence contained the Gu Immortal's will and had to belong to themselves**, if they died, their heavenly spirit or land spirit could use their immortal essence."
+- c638: "The reason the dragon of Giant Sun's will could activate Immortal Gu was because it was **holding** Giant Sun's immortal essence." + wisdom Gu "cutting its connection with Giant Sun's immortal essence in one move, thereby causing the Immortal Gu controlled by Giant Sun's will, more than ten in number, to be of no use."
+- **Exceção canônica — Casas de Gu Imortal.** c971: "Giant Sun's immortal essence could not be used by Fang Yuan himself, but the Immortal Gu House could absorb it. **Immortal Gu Houses could absorb immortal essence of others**, otherwise Shark Demon and the other immortal zombies would not be able to combine their powers to activate Profound Ice House. **This was the fundamental characteristic of Immortal Gu House — integrating the power of a group of immortals into one!**"
+- c2297: "This primeval essence and immortal essence includes both the owner and others. If a Gu worm is lent out, the Gu worm can still use others' primeval essence or immortal essence. For example, an Immortal Gu House can use the stored immortal essence of Gu Immortals inside." / "be it primeval essence or immortal essence, both contain our human will" / "If lent to others, the human will inside the Gu worm will acknowledge others so they can use their own primeval essence or immortal essence to activate it."
+- Caso-limite c767: "Little sister left behind a familial emotion along with a large amount of green grape immortal essence, they are still in Little Lan's immortal aperture. That was the reason why Little Lan was able to use Immortal Gu when she was a mortal."
+- c2082 (vontade ocupando corpo alheio): "I am using Shen Shang's immortal essence, which is akin to unlimited primeval essence"
+
+## 11. Essência imortal × essência primordial
+
+- c587: "Gu Immortals possessed immortal essence, **a bead of immortal essence could be regarded as unlimited primeval essence**. This meant every single Gu Immortal could control large numbers of mortal Gu, and would never be lacking in primeval essence."
+- c611: "If not for the fact that I have green grape immortal essence, and **can dilute it to form endless primeval essence**, such an insane flying speed would have drained my aperture dry long ago."
+- c650: "I have already ascended into an immortal, I have nineteen green grape immortal essence and limitless primeval essence!"
+- c1051: "he used a trace of the unlimited primeval essence in his immortal essence to use the bookworm"
+- c1129: "**Refining Immortal Gu could not be done with primeval essence, he needed immortal essence.**"
+- c624/c2297: "most of the Gu worms required primeval essence or immortal essence to be activated" / "Wild Gu ... can absorb primeval energy ... But once they are refined ... They will only be able to use primeval essence or immortal essence."
+- c820: "One bead of green grape immortal essence could produce a hundred thousand star thoughts from the use of star thought Immortal Gu."
+
+## 12. Abertura fantasma do Tribunal Celestial
+
+- c1070: "Any rank eight Gu Immortal who joins Heavenly Court would first have to contribute their immortal aperture, and combine it into Heavenly Court's grotto-heaven. When they go outside of Heavenly Court, they would be given a mystical phantom aperture for storing immortal essence and Gu worms."
+- c1252: "A disadvantage was that it **could only store immortal essence, Gu worms and will, but could not be managed and developed like normal immortal apertures. It also had to be replenished at set intervals of time and could not last forever.** An advantage was that it could store Immortal Gu of any rank"
+- c1556: "she had a phantom aperture which only had Immortal Gu and immortal essence, unlike normal immortal apertures containing large amount of resources."
+- c1166: "your phantom aperture ... can also allow you to become a false immortal and own green grape immortal essence, you will be able to refine and use Immortal Gu."
+- c1245: "She had a phantom aperture, but she had refined immortal essence stones before and accumulated some immortal essence."
+
+## 13. Pedras de essência imortal (a fonte externa) — com marcas de rank
+
+- c466: "Immortal essence stones were extremely precious, as it can be used to replenish immortal essence. In addition, it was also used in transactions between immortals, adopted as a precious currency. In the vast Gu world, only the heavenly court could produce immortal essence stones." (e a descrição física: "round like pearls ... translucent and sparkly ... resembled crystals, but had the lustre of jade", do tamanho de ovo de pato)
+- c2298: "when it is sane and clearheaded, its immortal aperture will produce immortal essence. When it is irrational and insane, its immortal aperture will produce **immortal essence stones that contain heaven's will**." / "Heavenly Court could only produce rank six immortal essence stones." / "There was a lot of heaven's will inside these rank eight immortal essence stones, if he wanted to absorb them, he would need to get rid of the heaven's will. ... one rank eight immortal essence stone might only be able to produce **half a bead** of rank eight immortal essence after getting rid of the heaven's will. Rank six immortal essence stones had no such problem because the heaven's will inside was too little."
+- c2302: "after absorbing rank eight immortal essence stones, the converted immortal essence was only seventy percent of the immortal essence stones."
+- c666/c683/c679/c810: converter pedras em essência própria é ato deliberado do imortal, feito na base.
+
+## 14. Reservas e drenagem (percentuais)
+
+- c2182: "he lost thirty percent of his immortal essence storage" · c2196: "Thirty percent of my immortal essence was used up!" · c2207: "Only twenty percent of my immortal essence is remaining."
+- c1547: "Separation song expended a lot of immortal essence, after several uses, Feng Jiu Ge's immortal essence storage was less than thirty percent."
+- c1633: "'I expended a lot of rank eight immortal essence.' Fang Yuan **inspected his immortal aperture**, his immortal essence storage had fallen to a dangerous level."
+- c460: "To Gu Immortals, every bead of immortal essence was very precious. Normally, the Gu Immortals would always try to accumulate them and would not use them lightly unless absolutely necessary."
+- c1925: "many of their immortal essence beads started to disintegrate and disappear." (ataque destrói contas)
+- c642: "Won't it be the same if I kill you and seize the immortal essence back from your immortal aperture?"
+
+## 15. Lacunas — o que a obra NÃO diz (verificado por grep)
+
+- Não há descrição de tamanho, cor ou peso das contas de tâmara-vermelha, lichia-branca e damasco-amarelo. Só a cor da uva-verde aparece (verde/azul-esverdeado quando líquida).
+- Não há trecho dizendo **onde**, dentro de uma abertura pessoal, as contas ficam depositadas. Os dois depósitos descritos são de espírito da terra (tigela de ouro no fundo do palácio de Dang Hun, c409; caldeirão de bronze no salão, c377).
+- Não há trecho dizendo que o imortal precise se deslocar até um ponto da abertura para "colher" as contas produzidas.
+- Não há número para o tempo de reposição de uma conta gasta, nem taxa por hora — só produção anual/diária agregada.
+- Não há descrição de peso.

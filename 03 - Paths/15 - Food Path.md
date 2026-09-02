@@ -4,7 +4,7 @@ tags:
 aliases:
   - Food Path
 status: consolidado
-fontes: ["cap. 671", "cap. 1114", "cap. 1457", "cap. 1478", "cap. 1487", "cap. 1600", "cap. 1681", "cap. 1925", "cap. 2083", "cap. 2103", "cap. 2108", "cap. 2109", "cap. 2112", "cap. 2113", "cap. 2133", "cap. 2292"]
+fontes: ["cap. 671", "cap. 758", "cap. 759", "cap. 778", "cap. 779", "cap. 784", "cap. 836", "cap. 852", "cap. 909", "cap. 936", "cap. 937", "cap. 965", "cap. 1014", "cap. 1016", "cap. 1020", "cap. 1093", "cap. 1114", "cap. 1191", "cap. 1235", "cap. 1317", "cap. 1353", "cap. 1457", "cap. 1471", "cap. 1477", "cap. 1478", "cap. 1483", "cap. 1487", "cap. 1600", "cap. 1653", "cap. 1655", "cap. 1681", "cap. 1779", "cap. 1871", "cap. 1893", "cap. 1925", "cap. 1955", "cap. 2041", "cap. 2053", "cap. 2083", "cap. 2103", "cap. 2108", "cap. 2109", "cap. 2112", "cap. 2113", "cap. 2133", "cap. 2292"]
 conhecimento: especializado
 ---
 
@@ -14,6 +14,11 @@ conhecimento: especializado
 banal e é, na verdade, a solução para o gargalo mais duro do topo do sistema, além de uma via
 alternativa de ganhar poder. Para entender o que é um "caminho", veja
 [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
+
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—`.
 
 ## Filosofia e identidade
 
@@ -95,6 +100,158 @@ desintegram as reservas de essência dos cultivadores abrigados.
 Como quase nenhuma região desenvolveu defesa contra este caminho, é um vetor de ataque que
 funciona contra fortificações que resistem a tudo o mais.
 
+## A camada escondida
+
+O caminho da comida parece ser "quem alimenta os Gu". Debaixo disso há um caminho que
+**fabrica espécies, come o poder alheio, e é o único jeito seguro de engolir o mundo**.
+
+### 1. Comer é o caminho lateral para ganhar marcas do Dao — e para gastá-las
+
+A obra deixa isso explícito num único Gu Imortal, e vale desmontá-lo peça por peça porque ele é
+o melhor resumo do caminho inteiro.
+
+Existe um Gu Imortal que pertence **a dois caminhos ao mesmo tempo**: força e comida. Ele é
+classificado como um **Gu de cultivo** — categoria rara — e faz o seguinte: o dono come carne de
+fera ou vegetação carregada de marcas do Dao daquele caminho, e o Gu **extrai as marcas naturais
+do alimento e as grava no corpo dele**. As marcas assim obtidas *encaixam perfeitamente no
+próprio corpo*, diferentemente das que vêm de provação.
+
+O que isso significa na prática:
+
+- **É a via de risco zero.** Ganhar marcas normalmente exige sobreviver a calamidades e
+  tribulações. Aqui não se arrisca nada. Para quem travou o cultivo e não consegue mais passar
+  por provações, é a única saída.
+- **É lenta e cara.** Um praticante somou **pouco mais de quarenta marcas** num período longo,
+  tendo menos de duzentas no total — e a obra é honesta: *é só uma compensação parcial, não se
+  compara a passar tribulações*. Além disso, comprar comida rica em marcas no mercado gera
+  despesa contínua e pesada; a solução econômica é **manter viva uma fera daquele caminho e
+  cortar pedaços dela periodicamente**.
+- **Só serve a quem já é daquele caminho.** O Gu é precioso para um cultivador de força e
+  quase sem valor para os demais — o que faz dele um item de **aluguel**: seu dono cobrava
+  materiais imortais de quem quisesse usá-lo por uma temporada.
+- **E ele funciona ao contrário.** Usado invertido, o mesmo Gu **gasta** marcas do Dao em vez de
+  gravá-las — e foi assim que um cultivador **trocou a própria aura regional**, fazendo-se passar
+  por nativo de outra das cinco regiões. ==Marcas do Dao, que em todo o resto do sistema são um
+  contador que só sobe, no caminho da comida viram um recurso que se saca do próprio corpo.==
+
+E há a rota exótica, mais rápida e muito mais perigosa: um golpe de roubo captura as marcas
+caóticas de uma tribulação **em curso** e as fixa num material; um golpe de comida depois
+**consome esse material**, convertendo-o em marcas do [[17 - Heaven Path|caminho do céu]] — o
+caminho que ninguém consegue cultivar. Ver também os golpes totêmicos em
+[[07 - Killer Moves|Killer Moves]], cujo procedimento de aquisição é literalmente culinário.
+
+> [!warning] Sem métodos de comida, engolir o mundo mata
+> Materiais imortais são densos em marcas do Dao, e é exatamente por isso que ingeri-los é
+> letal. A obra registra uma água imortal cujas marcas de força **matariam até um Gu Imortal**
+> que a bebesse sem métodos do caminho da comida. E um óleo negro, material imortal barato e
+> abundante, grava marcas de comida em qualquer Mestre Gu que o toque — o conflito de marcas
+> derruba a força dos mineradores, e mortais que encostam nele morrem. ==O caminho da comida não
+> é o caminho de comer: é o caminho de **sobreviver ao que se comeu**.==
+
+### 2. Ele fabrica espécies — e as melhora de geração em geração
+
+Este é o feito mais estranho do caminho e o menos conhecido no mundo: **a criatura mais vendida
+do mercado imortal não nasceu da natureza — foi projetada por um cultivador de comida**.
+
+O peixe-dragão, insumo de alimentação de incontáveis Gu, *não é uma espécie de origem natural:
+foi criada artificialmente por meio do caminho da comida*, pelo próprio fundador. E o caminho
+não só cria: **melhora**. Com a herança autêntica e uma formação imortal de comida montada em
+volta do criadouro, o peixe-dragão comum foi sendo refeito, geração após geração, em variedades
+sucessivamente melhores — ferro, cobre, prata, ouro. O mecanismo é declarado: cada nova
+variedade tem uma **proporção maior de marcas do Dao de comida no próprio corpo**, e é essa
+proporção que a torna melhor. A linhagem de ouro chegou a **não ter marca nenhuma de outro
+caminho**.
+
+A consequência de mundo é ótima e muito jogável: quando uma variedade nova apareceu no mercado,
+os imortais do mundo inteiro deduziram na hora que **alguém tinha obtido uma herança verdadeira
+do caminho da comida** — e o preço da criatura, o preço da herança e a segurança pessoal do
+criador mudaram no mesmo dia.
+
+### 3. Ele mantém vivo tudo o que o mundo construiu
+
+Uma formação de Gu precisa de incontáveis Gu trabalhando juntos, e Gu comem. **Formações de
+comida são o que impede que uma formação, uma casa de Gu ou uma fortaleza morram de fome.** A
+obra mostra os dois extremos:
+
+- Uma casa de Gu Imortal construída com segredos de comida na qual, **depois de eras**, nenhum
+  Gu jamais morreu de fome: os vermes estavam *saciados e em excelente condição*.
+- Um sítio arruinado onde restavam duas ou três formações de comida em funcionamento — e onde os
+  Gu Imortais tinham **morrido de fome** justamente porque as poucas formações de comida
+  sobreviventes não davam conta de alimentá-los.
+
+`(ded.)` Ou seja: por baixo de toda estrutura permanente do mundo — formações antigas, casas de
+Gu, fortalezas herdadas — existe uma camada de comida que ninguém menciona, e ela é o verdadeiro
+prazo de validade dessas estruturas.
+
+### 4. O que ele faz com o arsenal alheio
+
+O uso ofensivo do caminho não é queimar nem cortar: é **digerir**.
+
+- Golpes de comida **atravessam a proteção estrutural de uma casa de Gu Imortal**, matam os Gu
+  de dentro e desintegram as reservas de essência de quem se abrigava ali. Contra uma fortaleza
+  de defesa impecável, imortais de uma região inteira ficaram **sem resposta**, porque a região
+  quase não tinha herança de comida para estudar contramedidas.
+- Existe um golpe fatal do caminho que, acertando sem preparação do alvo, **decide a luta quase
+  na hora** — mais do que os golpes de comida comuns, que só inclinam a balança.
+- E existe o degrau que a obra apresenta como profundidade superior: uma besta capaz de
+  **devorar os ataques recebidos** e, mais que isso, de **arrancar do corpo dos imortais os
+  golpes de amplificação que eles tinham ativado**. Devorar o *buff* do inimigo é descrito como
+  uma profundidade de comida que um perito do caminho **ainda não possuía** — e que ele
+  reconheceu na hora como o próximo passo do seu próprio estudo.
+- Há também defesa contra isso, e ela vem do mesmo lugar: uma fortaleza construída por um
+  Venerável que **usava métodos de comida** resistiu bem ao ataque de comida. `(ded.)` A regra
+  prática do mundo é simples — só quem conhece o caminho consegue se defender dele, e quase
+  ninguém o conhece.
+
+### 5. Ele imita os outros caminhos pela boca
+
+O caminho tem uma família de golpes que produz efeitos que deveriam pertencer a outras escolas,
+sempre pelo mesmo truque: **enquanto a refeição está sendo digerida, o efeito dura**.
+
+O exemplo mais claro é um golpe tribal em que digerir uma ave desolada antiga **fortalece a
+sorte** do comensal por meia jornada, com ênfase em sobrevivência — comida produzindo efeito de
+[[18 - Luck Path|caminho da sorte]]. Um mestre que assistiu comentou exatamente isso: usar um
+método de comida para obter efeito de sorte é "excepcional".
+
+E há a fronteira sombria do caminho: combinando comida com [[10 - Soul Path|alma]], um
+cultivador criou um método de **devorar almas** que não apenas o restaurava ao auge como lhe
+entregava **as memórias e a experiência de cultivo de vidas inteiras** dos devorados. É a razão
+apontada para que essa figura tivesse domínio altíssimo em praticamente todos os caminhos sem
+nunca ter estudado nenhum deles do zero. ==Comer é a única forma documentada de adquirir
+*attainment* alheio.== Ver [[06 - Attainment|Attainment]].
+
+> [!note] A tese filosófica do caminho
+> Todo caminho responde "o que eu faço com o mundo?". Este responde "**o que eu incorporo do
+> mundo?**". O fundador — que não era humano, e é por isso que o caminho nunca se espalhou —
+> chegou a um ponto em que *comia pedras e vento para se saciar, e comia Gu para aumentar as
+> próprias marcas do Dao*: comeu marcas sem parar por mil anos. E foi um Venerável Demônio
+> quem apontou o degrau acima: *comer é matar* — comemos carne, então caçamos; comemos vegetais,
+> então arrancamos; mesmo quem só come vento e bebe orvalho engole e digere. A comida é, nessa
+> leitura, um **caso particular do abate**. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
+
+## Progressão por rank
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Ranks 1–4** | Subsistência e refino de essência. A flor-saco-de-vinho e a grama-bolsa-de-arroz produzem comida; a cadeia do verme do licor refina a essência do próprio Mestre um pequeno estágio acima, do rank 1 ao 4. É a espinha dorsal do avanço de milhões de Mestres Gu comuns — e quase nenhum deles sabe que está usando o caminho da comida. |
+| **Rank 5** | Preservação e logística: a caixa de gourmet mantém pratos prontos e alimenta uma tropa inteira num gesto. `(ded.)` É a faixa em que o caminho deixa de servir uma pessoa e passa a servir uma organização. |
+| **Rank 6** | A entrada imortal. Substituição de alimentação de outros Gu Imortais, saciedade por *qi* de fragrância, e o Gu de cultivo por ingestão que grava marcas do Dao sem risco. |
+| **Rank 7** | `(ded.)` Culinária de nível imortal: preparações que destrancam totens, formações de comida capazes de sustentar criadouros e estruturas inteiras, e o primeiro patamar de golpes ofensivos que furam casas de Gu. |
+| **Rank 8** | Cura em área por fragrância; conversão de essência imortal de rank 8 em rank 9 com o auxílio dos oito vinhos supremos; e golpes combinados com outros caminhos capazes de esvaziar uma fortaleza. |
+| **Rank 9** | `(ded.)` Nenhum Venerável é registrado como cultivador principal do caminho da comida — o que existe no topo é um Venerável que **usava métodos de comida** para resolver a alimentação das próprias criações, e o fundador não humano do caminho, que chegou ao rank 8. A obra não descreve um repertório de rank 9 próprio: `—`. |
+
+## Golpes de assinatura, e o mecanismo de cada um
+
+| Golpe | O que ele realmente faz |
+|---|---|
+| **Sentar e comer a montanha até esvaziá-la** | Combinado de comida com [[27 - Os Caminhos Elementais\|caminho da terra]]. Atravessa a proteção estrutural de uma fortaleza e **consome o que está dentro**. Imortais de uma região inteira não tiveram como se defender dele. |
+| **Comer o coração** | Golpe fatal de comida. Diferente dos golpes que apenas inclinam a batalha, este, acertando um alvo sem preparação, **decide o combate quase instantaneamente**. |
+| **Gosto amargo / Engolir a perda** | O par de golpes ofensivos "comuns" do caminho: eficazes, mas descritos como capazes apenas de inclinar a balança, não de encerrar uma luta. |
+| **Jantar de galinha** | Digerir uma ave desolada antiga **fortalece a sorte** do comensal enquanto a digestão dura (cerca de meia jornada), com ênfase em sobrevivência. Comida produzindo efeito de sorte. |
+| **Devorar forças (o Gu de cultivo)** | Come material rico em marcas de um caminho e grava essas marcas no corpo — ou, invertido, **gasta** marcas para trocar a aura regional do usuário. Risco zero, rendimento baixo, e a única fonte de marcas que não exige sobreviver a nada. |
+| **Formação imortal de comida** | Não é um golpe de combate: é a instalação que sustenta um criadouro ou uma estrutura. Usa poucos Gu Imortais e pouca essência, e é o que permite **melhorar uma espécie de geração em geração**. |
+| **Devoração de almas** | Fronteira com o [[10 - Soul Path\|caminho da alma]]: devora a alma de um imortal e absorve as memórias e a experiência de cultivo dele. A única via documentada de tomar *attainment* de outra pessoa. |
+
 ## Gu representativos
 
 | Gu | Nível | Efeito resumido |
@@ -160,11 +317,29 @@ exatamente o que permite converter território em autonomia.
   for usado além do limite. A eficiência tem teto duro.
 - **Raridade de conhecimento.** O segredo que torna o caminho valioso também torna difícil
   entrar nele: as heranças verdadeiras são pouquíssimas e ninguém as vende de bom grado.
+- **O fundador não era humano.** A obra aponta isso como a causa histórica de o caminho nunca
+  ter se espalhado: ele nasceu com um imortal beastman, e a humanidade nunca o adotou. A
+  raridade não é acidente, é herança de origem.
+- **Ganhar marcas comendo é lento.** Algumas dezenas de marcas por temporada, contra dezenas de
+  milhares de uma provação. A própria obra chama isso de compensação parcial.
+- **Manter o insumo é caro.** Comprar comida rica em marcas no mercado sangra a economia de
+  qualquer imortal; a saída é possuir uma fera ou um ponto de recurso — ou seja, o caminho só
+  compensa para quem já tem território.
+- **Ser bom nele denuncia você.** Quando uma criatura melhorada aparece no mercado, o mundo
+  imortal deduz na hora que existe uma herança verdadeira de comida por trás — e vai atrás dela.
+  Neste caminho, **exibir competência é publicar o próprio endereço**.
 
 > [!note] Para o design
-> **Arquétipo entregue: o provedor.** É o personagem de apoio que ninguém escolhe pela
-> fantasia e todo mundo quer no grupo — o que, se bem desenhado, é ouro: um papel de suporte
-> cuja contribuição é **visível na ficha de todos os outros**.
+> **Arquétipo entregue: o provedor — e, por baixo dele, o criador de espécies e o devorador.**
+> É o personagem de apoio que ninguém escolhe pela fantasia e todo mundo quer no grupo — um
+> papel de suporte cuja contribuição é **visível na ficha de todos os outros**. Mas o caminho
+> entrega três arquétipos sobrepostos, e vale escolher qual apresentar à mesa:
+> o **cozinheiro-logístico**, que sustenta o arsenal e o exército do grupo; o
+> **criador**, que projeta e melhora criaturas geração a geração e vive escondendo de quem
+> compra delas de onde vem o segredo; e o **devorador**, que ganha poder engolindo o que
+> encontra — inclusive golpes e memórias alheias. Os três são o mesmo personagem em fases
+> diferentes, o que dá ao caminho um arco de progressão narrativo raro: começa cozinhando e
+> termina comendo pessoas.
 >
 > **A mecânica a roubar é a de transformar manutenção num papel jogável.** Se o sistema cobra
 > ração por cada capacidade mágica (como o sistema Gu cobra), então um personagem que reduz
@@ -202,3 +377,7 @@ exatamente o que permite converter território em autonomia.
 - [[17 - Heaven Path|Heaven Path]] — a via de aquisição de marcas que passa pela comida.
 - [[07 - Killer Moves|Killer Moves]] — os golpes totêmicos, adquiridos por ingestão.
 - [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, proposto por um Venerável Demônio como o **superconjunto** deste ("comer é matar"), e que ele tentou fundar usando métodos do caminho da comida.
+- [[12 - Dao Marks|Dao Marks]] — a via lenta e segura de ganhá-las, e o único método documentado de gastá-las de propósito.
+- [[08 - Formações de Gu|Formações de Gu]] — a camada de alimentação sem a qual nenhuma formação sobrevive ao tempo.
+- [[10 - Soul Path|Soul Path]] — a fronteira sombria do caminho, onde comer vira roubar experiência de vida.
+- [[06 - Attainment|Attainment]] — o único atalho documentado para o domínio de outra pessoa passa pela boca.

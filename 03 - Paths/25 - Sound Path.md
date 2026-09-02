@@ -6,7 +6,7 @@ aliases:
   - Caminho do som
   - As nove canções
 status: consolidado
-fontes: ["cap. 476", "cap. 684", "cap. 751", "cap. 752", "cap. 766", "cap. 768", "cap. 841", "cap. 842", "cap. 875", "cap. 886", "cap. 898", "cap. 923", "cap. 1009", "cap. 1046", "cap. 1068", "cap. 1107", "cap. 1161", "cap. 1193", "cap. 1323", "cap. 1351", "cap. 1364", "cap. 1389-1392", "cap. 1400-1404", "cap. 1420-1427", "cap. 1435", "cap. 1448", "cap. 1541", "cap. 1545", "cap. 1546", "cap. 1567", "cap. 1571", "cap. 1577", "cap. 1578", "cap. 1653", "cap. 1666", "cap. 1668", "cap. 1685", "cap. 1694", "cap. 1700", "cap. 1726", "cap. 1881", "cap. 1885", "cap. 1889", "cap. 1891", "cap. 1895", "cap. 1899", "cap. 1909", "cap. 1915", "cap. 1919", "cap. 1942", "cap. 1965", "cap. 1971", "cap. 2042", "cap. 2061", "cap. 2078", "cap. 2107", "cap. 2152", "cap. 2154", "cap. 2181", "cap. 2284", "cap. 2291", "cap. 2293", "cap. 2298", "cap. 2303", "cap. 2309"]
+fontes: ["cap. 476", "cap. 684", "cap. 751", "cap. 752", "cap. 766", "cap. 768", "cap. 841", "cap. 842", "cap. 875", "cap. 886", "cap. 898", "cap. 923", "cap. 1009", "cap. 1046", "cap. 1068", "cap. 1107", "cap. 1161", "cap. 1193", "cap. 1323", "cap. 1351", "cap. 1364", "cap. 1389-1392", "cap. 1400-1404", "cap. 1420-1427", "cap. 1435", "cap. 1448", "cap. 1541", "cap. 1545", "cap. 1546", "cap. 1547", "cap. 1696", "cap. 1697", "cap. 1567", "cap. 1571", "cap. 1577", "cap. 1578", "cap. 1653", "cap. 1666", "cap. 1668", "cap. 1685", "cap. 1694", "cap. 1700", "cap. 1726", "cap. 1881", "cap. 1885", "cap. 1889", "cap. 1891", "cap. 1895", "cap. 1899", "cap. 1909", "cap. 1915", "cap. 1919", "cap. 1942", "cap. 1965", "cap. 1971", "cap. 2042", "cap. 2061", "cap. 2078", "cap. 2107", "cap. 2152", "cap. 2154", "cap. 2181", "cap. 2284", "cap. 2291", "cap. 2293", "cap. 2298", "cap. 2303", "cap. 2309"]
 conhecimento: comum
 ---
 
@@ -247,7 +247,31 @@ poder. O compositor do som chegou à sétima e, depois, à nona. Nunca vemos as 
 ## As nove canções
 
 O projeto de vida do maior praticante da era: nove canções para expressar a si mesmo, todos os seres
-vivos, e o céu e a terra. A obra mostra **sete criadas** até certo ponto e **nomeia cinco**:
+vivos, e o céu e a terra. A obra registra **sete criadas** num determinado ponto, mais a **nona**
+depois — e **nomeia oito das nove**. Só uma fica sem nome.
+
+E há uma organização interna que a obra explicita e que é o dado mais aproveitável do conjunto: as
+canções **não são todas armas**. Delas, **duas servem para auxiliar o próprio cultivo**, **quatro
+são cartas na manga guardadas para grandes confrontos**, e **uma é a extrema**, tratada à parte por
+ser perigosa demais.
+
+| Canção | Função declarada |
+|---|---|
+| **Obter Tesouro** | Auxílio ao cultivo. Efeito — a obra não informa |
+| **Rumo ao Céu** | Auxílio ao cultivo. Efeito — a obra não informa |
+| **Jade Verde** | Carta na manga |
+| **Céu e Terra** | Carta na manga |
+| **Submissão** | Carta na manga |
+| **Separação** | Carta na manga |
+| **Vento da Assimilação** | A extrema, guardada — ver *A camada escondida*, acima |
+| **Destino** | A **nona** |
+| — | A oitava: a obra **não a nomeia** |
+
+O detalhe das duas primeiras é uma correção útil de intuição: um caminho cujo projeto é *descrever o
+mundo* dedica parte do seu repertório a **entender**, não a atacar. Duas das nove canções do maior
+compositor do mundo existem só para ajudá-lo a estudar.
+
+Descrição do que a obra detalha, canção por canção:
 
 - **Canção de Jade Verde** — *ela converte tudo em jade*. O alvo tem roupas, cabelo e pele
   congelados em jade; o sangue para de circular e vira "sangue de jade contaminado". Órgãos
@@ -272,8 +296,15 @@ vivos, e o céu e a terra. A obra mostra **sete criadas** até certo ponto e **n
   **feriu gravemente o próprio cantor**. Dois limites declarados: um Gu Imortal de nível 8 **não
   aguenta** a canção completa, e *o destino dos **Veneráveis** não pode ser descrito de forma tão
   simples*.
+- **Vento da Assimilação** — a extrema, tratada em detalhe na seção
+  *A camada escondida* (acima): ela **invoca os ventos da assimilação**,
+  a força com que o próprio mundo dissolve uma abertura imortal destruída. É a única canção que
+  **não pode ser corporificada** num guerreiro-canção, e o cantor **morre se permanecer no centro
+  dela**.
+- **Obter Tesouro** e **Rumo ao Céu** — as duas canções de **auxílio ao cultivo**. Efeitos: `—` a
+  obra não informa.
 
-As demais canções: `—` a obra não informa os nomes.
+A oitava canção: `—` a obra **não a nomeia nem a descreve**.
 
 ## Outros golpes nomeados
 
@@ -413,7 +444,10 @@ a granularidade que dá a outros caminhos. O que ela informa:
 
 - **O compositor das nove canções** — o maior praticante da era, pilar de uma das grandes seitas
   antigas. É o caso mecânico central do caminho: **nível 7 com força de combate de nível 8, por
-  acúmulo de marcas do Dao e não por Gu Imortais de nível alto**. Autor das nove canções.
+  acúmulo de marcas do Dao e não por Gu Imortais de nível alto**. Autor das nove canções, e o
+  **primeiro Gu Imortal da história capaz de convocar os ventos da assimilação** — feito que a obra
+  trata como inédito e que colocou imortais de nível 8 a pesquisarem contramedidas contra um golpe
+  criado por um nível 7.
 - **A portadora da herança do som profundo** — imortal de nível 7 cujo golpe de assinatura **escala
   junto com o Gu-núcleo até o nível 8**, mesmo com ela permanecendo no nível 7.
 - **O supremo ancião de um clã do mar** — imortal de nível 8, praticante "puro" do caminho. O clã
@@ -454,7 +488,10 @@ a granularidade que dá a outros caminhos. O que ela informa:
 
 - **O significado verdadeiro ou a essência do caminho.** Verificado no texto: não há formulação.
 - **Quem criou o caminho.** Ele apenas "emerge" na Antiguidade Medieval.
-- **Os nomes de quatro das nove canções**, e a mecânica de "O Silêncio Supera o Som".
+- **O nome da oitava canção**, e os efeitos das duas canções de auxílio ao cultivo.
+- **A mecânica de "O Silêncio Supera o Som".**
+- **Por que ninguém antes conseguira invocar os ventos da assimilação**, nem o que exatamente na
+  gramática do som torna isso possível.
 - **O efeito da maioria dos Gu Imortais do caminho** — vários são nomeados e negociados sem que a
   obra diga o que fazem.
 - **O que cada degrau de domínio destranca**, com a granularidade que ela dá a outros caminhos.

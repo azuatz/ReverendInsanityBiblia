@@ -5,7 +5,7 @@ aliases:
   - Qi Path
   - Caminho do qi
 status: consolidado
-fontes: ["cap. 308", "cap. 313", "cap. 315", "cap. 319", "cap. 320", "cap. 350", "cap. 497", "cap. 517", "cap. 518", "cap. 531", "cap. 584", "cap. 662", "cap. 683-685", "cap. 693", "cap. 752", "cap. 754", "cap. 769", "cap. 863", "cap. 883", "cap. 1035", "cap. 1043", "cap. 1066", "cap. 1241", "cap. 1265", "cap. 1323", "cap. 1637", "cap. 1682", "cap. 1710", "cap. 1712", "cap. 1741", "cap. 1775", "cap. 1810", "cap. 1815-1817", "cap. 1834-1836", "cap. 1881", "cap. 1934", "cap. 1935", "cap. 1945", "cap. 1950", "cap. 1955", "cap. 1974", "cap. 1986", "cap. 1987", "cap. 1996", "cap. 1998", "cap. 2001", "cap. 2003", "cap. 2004", "cap. 2007", "cap. 2025", "cap. 2052", "cap. 2071", "cap. 2086", "cap. 2096", "cap. 2098", "cap. 2099", "cap. 2179", "cap. 2181", "cap. 2289", "cap. 2322", "cap. 2324", "cap. 2327"]
+fontes: ["cap. 308", "cap. 313", "cap. 315", "cap. 319", "cap. 320", "cap. 350", "cap. 497", "cap. 517", "cap. 518", "cap. 531", "cap. 584", "cap. 662", "cap. 683-685", "cap. 693", "cap. 752", "cap. 754", "cap. 769", "cap. 863", "cap. 883", "cap. 1035", "cap. 1043", "cap. 1066", "cap. 1241", "cap. 1265", "cap. 1323", "cap. 1637", "cap. 1682", "cap. 1710", "cap. 1712", "cap. 1741", "cap. 1775", "cap. 1810", "cap. 1815-1817", "cap. 1834-1836", "cap. 1881", "cap. 1934", "cap. 1935", "cap. 1945", "cap. 1950", "cap. 1955", "cap. 1974", "cap. 1986", "cap. 1987", "cap. 1996", "cap. 1998", "cap. 2001", "cap. 2003", "cap. 2004", "cap. 2007", "cap. 2025", "cap. 2052", "cap. 2071", "cap. 2086", "cap. 2096", "cap. 2098", "cap. 2099", "cap. 2179", "cap. 2181", "cap. 2289", "cap. 2322", "cap. 2324", "cap. 2327", "cap. 315", "cap. 1119", "cap. 1741", "cap. 1817", "cap. 1935", "cap. 1967", "cap. 1968", "cap. 1969", "cap. 1970", "cap. 2006", "cap. 2020", "cap. 2085", "cap. 2086", "cap. 2097", "cap. 2179", "cap. 2289"]
 conhecimento: comum
 ---
 
@@ -78,6 +78,145 @@ visto exatamente **três** cultivadores de qi em toda a sua vida.
 > [[04 - Strength Path|caminho da força]] no dele, conseguiram levar os outros caminhos à
 > extinção. Dominância aqui significa **quota de mercado**, não monopólio. Sempre houve
 > praticantes de tudo, mesmo quando 80% do mundo fazia a mesma coisa.
+
+## A camada escondida
+
+O caminho do qi parece o mais transparente da pasta: sopro, correntes, ar. Por baixo dele
+existem quatro coisas que nenhuma descrição de efeito entrega — uma razão política para ele ter
+sido criado, um parentesco secreto com outro caminho, um gatilho conhecido para a
+ressurreição dele e uma regra de material que vale para o mundo inteiro mas só fica visível aqui.
+
+### Por que ele foi criado: era a arma de uma raça, não uma disciplina
+
+`conhecimento: segredo`
+
+A Antiguidade Remota não era um mundo de humanos. As raças de humanos variantes dominavam as
+cinco regiões, e o status dos humanos era **baixíssimo**: a maioria era escrava, comprada e
+vendida à vontade; até Mestres Gu Imortais humanos eram escravos de humanos variantes, e os
+que viviam livres podiam ser cercados e capturados a qualquer dia.
+
+O fundador do caminho do qi era humano e imortal de nível 7 — e, mesmo assim, **não conseguia
+igualar a força de combate de muitos imortais variantes**. A frase dele, registrada
+literalmente, é a certidão de nascimento do caminho:
+
+> *Eu queria muito resistir a eles, mas mesmo tendo virado imortal de nível 7 não consigo
+> igualar a força de combate de muitos imortais humanos variantes. Foi por isso que eu vinha
+> cultivando sem parar e querendo **criar um caminho que pertencesse só a nós, humanos**.*
+
+Ele só decidiu criá-lo de fato depois de segurar nas mãos o Gu de nível 9 do destino, levado
+até ele por um Mestre Gu mortal, e de ver nele o futuro: as raças variantes em declínio, a
+humanidade tomando o lugar delas. Ver [[12 - Fate Gu|Fate Gu]] e [[23 - Human Path|Human Path]].
+
+O caminho do qi, portanto, não nasceu como especialidade técnica: nasceu como **projeto de
+libertação de uma raça inteira**, e é por isso que ele dominou o mundo tão rápido e tão
+completamente. Oito em dez Mestres Gu cultivavam qi porque o qi era, literalmente, a bandeira
+da humanidade.
+
+### O parentesco secreto: a sorte mora dentro do qi
+
+Este é o vínculo que quase ninguém percebe, e ele é dito com todas as letras por um imortal da
+era em que o caminho do qi reinava:
+
+- O termo original da obra para a **sorte inata** de uma pessoa se escreve como ==variável de
+  qi==. É por isso que o caminho do qi se envolve com sorte.
+- A boa e a má sorte de alguém moram **dentro do qi humano** dessa pessoa.
+- Quando o caminho do qi dominava o mundo, **muitos gênios chegaram a vislumbrar a
+  profundidade da sorte inata** — o assunto era corrente entre eles.
+- E a conclusão explícita: o fundador do [[18 - Luck Path|caminho da sorte]] quase certamente
+  **usou a sorte inata como referência** ao criar o caminho dele.
+
+A regra geral que a obra tira daí vale para toda a pasta: *os caminhos de cultivo não são
+independentes uns dos outros; eles se influenciam e se afetam de forma conectada*.
+
+### O gatilho da ressurreição: as marés de qi
+
+`conhecimento: segredo`
+
+A nota já diz que o caminho morreu por **extinção de material** e que ele volta quando o mundo
+muda estruturalmente. O gatilho é conhecido e tem um mecanismo inteiro por trás:
+
+1. **Por que existiam muros regionais.** O qi do céu e da terra de cada uma das cinco regiões é
+   **diferente**. É por isso que um imortal que viaja para outra região tem problemas na
+   abertura ao absorver o qi local, e é por isso que imortais costumam **voltar para a própria
+   região para enfrentar tribulações**. A diferença entre esses qi é a própria substância dos
+   muros que separavam as regiões. Ver [[04 - As Cinco Regiões|As Cinco Regiões]].
+2. **O que acontece quando os muros caem.** Os qi das cinco regiões passam a convergir num só.
+   A convergência não é suave: ela produz **marés de qi** — ondas colossais que varrem o mundo
+   vindas de todas as direções.
+3. **O estrago.** Onde a maré passa, seres vivos morrem. Nem os dois céus imemoriais escapam.
+   **Cavernas-céu deixam de conseguir se esconder**: a posição delas é exposta. E todo imortal
+   das cinco regiões sente tremores na própria abertura, porque os dois qi colidem lá dentro —
+   e é forçado a se recolher para se recuperar. Regra cruel e ótima para mesa: **quanto mais
+   forte a fundação da abertura, mais longa a recuperação**. A maré paralisa primeiro os
+   maiores.
+4. **O efeito colateral que muda a economia.** Depois que a maré passa, as **marcas do Dao de
+   qi inundam a área** — e isso **suprime os outros caminhos**. Onde a maré passou, feras-alma
+   novas deixam de se formar. Em compensação, **materiais imortais de qi passam a ser
+   produzidos em quantidade absurda** nas cinco regiões e nos dois céus.
+5. **E o caminho volta.** Com material abundante, o custo de cultivar despenca, e forma-se uma
+   corrente de novos cultivadores de qi. A frase da obra é seca: *pensar que o caminho do qi
+   recuperaria a glória de antes*. Um conselho de clã chega a dizer a uma herdeira que
+   **escolher qi passou a ser mais sensato do que continuar na força**.
+
+E aparece um recurso novo junto com as marés: o **fruto da colheita de qi**, descrito como "a
+essência do caminho do qi e a fusão do qi das cinco regiões". Colocado dentro de uma abertura
+imortal, ele vira correntes turbulentas que **aceleram a harmonização do qi do céu e da terra**
+lá dentro — ou seja, encurta a paralisia. E o detalhe que o torna uma moeda e não uma técnica:
+**não exige domínio nenhum do caminho**; basta esmagá-lo dentro da abertura. Quem juntar mais
+frutos volta a agir antes dos outros.
+
+> [!note] Para o design
+> Aqui está o desenho completo de um **ciclo de vida de escola de magia**: nasce como arma
+> política de um grupo oprimido, domina o mundo, morre por falta de insumo, fica décadas como
+> nota de rodapé, e ressuscita por causa de um evento geológico que ninguém planejou. Nenhuma
+> parte disso depende de alguém ser mais talentoso que outro. É oferta e demanda com séculos de
+> atraso.
+
+### A regra de material que só fica visível aqui
+
+A nota já registra que um praticante de qi consegue **usar materiais imortais no lugar dos
+próprios Gu** para disparar golpes. O que vale destacar é o alcance real da afirmação:
+
+> *Por mais baixo que seja seu domínio no caminho do qi, um Mestre Gu (ou Gu Imortal) sempre
+> conseguirá usar materiais de Gu no lugar de Gu para desencadear golpes assassinos.*
+
+Repare no "sempre". A obra usa o caminho do qi como o **caso extremo de uma regra geral**: os
+materiais do qi são os mais móveis e mais simples de manipular que existem; os de água já são
+menos úteis; marcas de terra e de rocha são muito mais difíceis. O traço existe em todo
+caminho e **decresce conforme o material fica mais duro**. Ver [[12 - Dao Marks|Dao Marks]] e
+[[05 - Refino de Gu|Refino de Gu]].
+
+### O que o acúmulo de marcas destranca
+
+Duas coisas, uma delas geral e outra exclusiva.
+
+**A geral.** Ao acumular um certo número de marcas do Dao de um caminho, o cultivador recebe
+uma "promoção mística": uma faculdade inata que funciona **sem Gu nenhum**. O caminho do
+refino ganha percepção de minúcias no refino; o do fogo, sensibilidade a Gu Imortais e feras de
+fogo; o da sabedoria, dedução forte sem nenhum Gu na mão; o da sorte, radar para a própria
+sorte e a alheia. A obra **não informa o que o caminho do qi ganha** — `—`. Nem o número de
+marcas necessário.
+
+**A exclusiva, e essa é espetacular.** Com **um milhão** de marcas de qi, a própria abertura
+imortal **muda de natureza**: correntes de qi brotam por toda parte, ela passa a produzir qi do
+céu e da terra sozinha e deixa de precisar se abrir para o exterior por um tempo. A sequência é
+descrita passo a passo — primeiro acumula-se qi de nível mortal; depois esse acúmulo passa a
+**gerar materiais imortais**; depois esses materiais estabilizam e criam conexão com o
+ambiente. É a receita de como um **ponto de recurso nasce dentro de uma pessoa**. Ver
+[[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+
+E a escala de amplificação continua linear no topo: um milhão de marcas multiplicam um golpe
+por mil; um milhão e meio, por mil e quinhentos. Confira sempre contra
+[[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks]], que é a fonte soberana.
+
+### O teto do domínio, e onde ele mora
+
+O degrau de **grão-mestre supremo** neste caminho — como em qualquer outro — tem uma rota
+canônica conhecida: existe um **domínio recluso de céu e terra** citado no livro das lendas
+mais antigas do mundo cuja propriedade é elevar **um** dos caminhos do visitante a grão-mestre
+supremo. Ele é descrito como "ao mesmo tempo o começo e o fim", contendo a profundidade suprema
+de todo o céu e a terra. Chegar até ele é outra história. Ver
+[[08 - Lendas de Ren Zu|Lendas de Ren Zu]] e [[06 - Attainment|Attainment]].
 
 ## Mecânicas típicas
 
@@ -174,6 +313,35 @@ anti-caminho":
 > A obra afirma isso perto do fim, em tom de lamento — e deixa a porta aberta ao especular
 > que talvez exista um guardado no tesouro pessoal do fundador do caminho. É lacuna
 > declarada, e portanto espaço livre para o seu jogo.
+
+## Progressão por rank
+
+O caminho do qi é o mais fácil de começar e o mais impossível de terminar do sistema inteiro, e
+a escada mostra exatamente por quê: ela é larga embaixo e some no topo.
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Ranks 1–2** | Utilidades corporais: uma corrente morna que percorre os órgãos e sustenta a força vital, funcionando sozinha depois de ativada; e a bola de ar **sem forma** em volta do corpo que deixa o usuário duro como rocha parecendo indefeso |
+| **Rank 3** | O degrau da autossuficiência: **um praticante de nível 3 refina sozinho um Gu de qi a partir de outro Gu de qi**, sem oficina nem mestre. É aqui que fica claro que o gargalo do caminho nunca foi dificuldade — foi estoque. Também é a faixa do qi que dá **ataque à distância ao caminho da força** |
+| **Rank 4** | O primeiro efeito de escala social: um Gu natural nascido do vento que **dá ou remove um costume inteiro** de uma tribo, clã ou bando de feras. Quase inútil contra uma pessoa; devastador contra um grupo — e ninguém jamais deduziu a receita dele |
+| **Rank 5** | Absorção e estoque: um Gu que armazena qi do céu e da terra e, espalhado pelo chão, **manipula a tribulação de uma ascensão**, suprimindo-a ou atraindo-a. Evolui depois para a forma imortal |
+| **Ranks 6–7** | A faixa dos golpes completos: muralhas de qi, explosões, tesouras de correntes, movimento em forma de dragão. E o armazenamento maduro — um Gu de nível 7 que estoca **todo tipo de qi, inclusive o das tribulações**, e que a obra usa como prova de que nível maior nem sempre é mais útil |
+| **Rank 8** | O topo real do caminho hoje: os três Gu insubstituíveis do qi do céu, do qi da terra e do qi humano, núcleos do golpe supremo; e o Gu do "mar de qi ilimitado". Um golpe de nível 7 amplificado por um milhão de marcas alcança o **pico do nível 8** — mas **não** rompe para o 9 |
+| **Rank 9** | `—` **Não existe Gu Imortal de nível 9 conhecido do caminho do qi.** A obra afirma isso em tom de lamento e especula que talvez exista um guardado no tesouro pessoal do fundador. É lacuna declarada |
+
+Três observações que a tabela não cabe:
+
+- **Domínio e poder se descolam neste caminho mais que em qualquer outro.** Como material
+  substitui Gu, um praticante de domínio comum e bolso fundo dispara golpes caros; o caso
+  extremo registrado é o de um imortal ressuscitado **sem nenhum Gu Imortal** cujos golpes
+  ainda funcionavam, porque queimavam material.
+- **O acúmulo de marcas é o eixo real de progressão.** Os praticantes históricos são medidos em
+  marcas, não em ranks: um dos cinco exploradores dos céus acumulou **mais de um milhão** em
+  vida; o quase-Venerável de dois caminhos tinha **mais de trezentas mil em cada um** dos seus.
+- **E o caminho tem um teto institucional.** Escolher um caminho morto é sacrificar a carreira:
+  a obra registra clãs designando membros para virar imortais de qi por necessidade, com o
+  comentário explícito de que esses membros **sacrificam o próprio potencial futuro**. Isso
+  muda quando as marés de qi chegam.
 
 ## Em combate e fora dele
 

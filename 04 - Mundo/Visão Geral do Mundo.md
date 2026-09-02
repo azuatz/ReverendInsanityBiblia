@@ -6,7 +6,7 @@ aliases:
   - O Mundo de Reverend Insanity
   - As Cinco Regiões (visão geral)
 status: consolidado
-fontes: ["cap. 29", "cap. 334", "cap. 383", "cap. 389", "cap. 466", "cap. 522", "cap. 710", "cap. 1022", "cap. 1180", "cap. 1301", "cap. 1408", "cap. 1866", "cap. 1966", "cap. 1968", "cap. 1990", "cap. 2170"]
+fontes: ["cap. 29", "cap. 334", "cap. 442", "cap. 383", "cap. 389", "cap. 466", "cap. 522", "cap. 710", "cap. 1022", "cap. 1180", "cap. 1301", "cap. 1408", "cap. 1866", "cap. 1966", "cap. 1968", "cap. 1990", "cap. 2170"]
 conhecimento: comum
 ---
 

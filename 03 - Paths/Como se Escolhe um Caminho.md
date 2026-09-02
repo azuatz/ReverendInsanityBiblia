@@ -587,11 +587,20 @@ laço fechado:
 **Diversificação, neste mundo, é conquista.** Não existe multiclasse por estudo; existe
 multiclasse por assassinato.
 
+E a obra deixa a escolha explícita, como um dilema que o vencedor de um combate precisa resolver
+ali mesmo, sobre o corpo do derrotado:
+
+> **Ou você fica com as marcas do caminho principal dele e abre mão da abertura, ou você anexa a
+> abertura e pula calamidades.** Não dá para os dois.
+
 > [!warning] Não confunda as duas operações
 > **Anexar** uma abertura (engoli-la inteira e integrá-la à sua) **concentra** o vetor: só as
-> marcas do seu caminho são absorvidas por completo, o resto é expulso. **Detonar** a abertura
-> de um morto dentro da sua **diversifica** o vetor: você fica com as marcas do caminho dele.
-> São ferramentas opostas, e escolher entre elas é uma decisão de construção de personagem.
+> marcas do seu caminho são absorvidas por completo, o resto é expulso — e o quanto você
+> realmente absorve é descrito como dependente da sua própria sorte. Em compensação, você pula
+> provações. **Detonar** a abertura ou o corpo de um morto dentro da sua **diversifica** o vetor:
+> você fica com as marcas do caminho dele, e em **volume maior** do que a anexação renderia. São
+> ferramentas opostas, e escolher entre elas é uma decisão de construção de personagem: **marcas
+> agora, ou tempo economizado depois.**
 
 Duas ressalvas finais:
 

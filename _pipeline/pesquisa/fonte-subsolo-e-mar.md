@@ -335,3 +335,99 @@ ao redor de uma nascente perigosa e disputada:
 > e comprar/plantar uma nova (via spring egg Gu) é uma operação de altíssimo custo
 > reservada a Gu Immortals.
 
+## 5. Earth Trench e Earth Abyss
+
+São duas formações subterrâneas DISTINTAS e nomeadas separadamente na obra — não é o
+mesmo lugar, embora ambas sejam imensas, perigosas e associadas a "underground world".
+
+**Earth Abyss** (localizado no extremo oeste do Continente Central):
+- Cap. 728 (Vol. 4): "this Earth Abyss was located in the far west of Central
+  Continent, and was an incomparably large underground world. Earth Abyss was divided
+  into tens of layers with every layer being at least hundreds of thousands of square
+  kilometers in size... There were all sorts of caves and tunnels, some were like
+  labyrinths, some had giant underground lakes while some had flat ground."
+- Controlado (parcialmente) pela Ancient Soul Sect, uma das dez grandes seitas
+  ancestrais, mas mesmo eles só exploraram uma fração: "Ancient Soul Sect has spent
+  thousands of years but has only explored no more than eighteen layers fully, with
+  some brief explorations up to the twenty-seventh layer... From the twenty-eight to
+  thirty-sixth layers, only Ancient Soul Sect's Gu Immortals roam about occasionally."
+  Fang Yuan revela que a profundidade real ultrapassa isso — a exploração eventualmente
+  chega à camada 107 sem terminar: "They had only discovered there were one hundred
+  and seven layers."
+- Serve como esconderijo estratégico para blessed lands (terras abençoadas) de Gu
+  Immortals fugitivos, por ser "extremely secluded" — plantar uma terra abençoada
+  abaixo da camada 40 evita detecção mesmo por uma seita que domina a região há
+  milênios.
+- Um evento histórico de grande escala: uma "beast tide" (maré de feras) sem
+  precedentes emergiu de dentro do Earth Abyss e assolou toda a superfície do
+  Continente Central, exigindo anos de esforço conjunto de facções justas e demoníacas
+  para conter — depois disso, Gu Masters de ambos os lados passaram a explorar o
+  Earth Abyss em conjunto, caçando feras para obter recursos de cultivo.
+- Perigo geológico intrínseco: "The structure of Earth Abyss was not stable and there
+  would occasionally be earthquakes or collapse of places within. It was because of
+  this as well that Ancient Soul Sect did not spend a lot of energy to carry out
+  explorations, even though they were in control of this place." E durante um desses
+  colapsos: "The Gu Masters in Earth Abyss scurried off like rats... Many were crushed
+  to death by the falling stones, while others were buried alive."
+
+**Earth Trench** (existe em CADA uma das cinco grandes regiões do mundo — não é único
+ao Continente Central):
+- Cap. 931 (Vol. 4, linha 47802-47804): "not only did Northern Plains have an Earth
+  Trench, in fact, the five regions all had an Earth Trench. The ground was split open
+  into giant ravines, some Earth Trenches stretched on for millions of li, some were
+  tens of thousand of kilometers deep, some were immeasurably deep, in the Gu Master
+  world, it was one of the most magnificent wonders of nature."
+- É descrito fisicamente como uma imensa fenda/ravina na terra, não um sistema de
+  cavernas labirínticas como o Earth Abyss: Cap. 743 (linha 15060): "The giant gully
+  was like the bloody mouth of a vicious beast... following deep into this entrance,
+  the gully would expand by tens of times and even hundreds of times."
+- O Earth Trench do Northern Plains é controlado pela Zombie Alliance (aliança de
+  zumbis imortais), que construiu sua cidade principal (Dark Flow Giant City) bem na
+  entrada dele para guardá-lo — recurso extraído: "black oil" (óleo negro), item
+  comercial central da economia da Zombie Alliance, equivalente em importância ao
+  comércio de "guts Gu" de Fang Yuan (Cap. 742-743).
+- É extremamente rico em recursos e perigoso: abriga "earth shell snails" (só existem
+  nas profundezas do Earth Trench), feras ancestrais (ancient desolate beasts), grupos
+  de feras desoladas (desolate beasts), plantas misteriosas e Gu selvagens cada vez
+  mais fortes quanto mais fundo se vai (Cap. 931).
+- Abriga também estruturas construídas: um cemitério de zumbis imortais ("immortal
+  zombie graveyard") nas profundezas, e uma herança (inheritance) deixada por um
+  grande zumbi imortal especialista em ressurreição — ambos mencionados no Cap.
+  741-743 e explorados ao longo do arco do Vol. 4.
+
+`(ded.)` Como não achei no texto uma frase que equipare Earth Trench e Earth Abyss
+como sinônimos, trato-os como dois fenômenos geológicos paralelos e distintos: Earth
+Abyss = sistema profundo de camadas/cavernas/labirintos localizado especificamente no
+oeste do Continente Central; Earth Trench = fenda/ravina gigantesca, um por região,
+mais estreita e vertical em conceito (like a "gully"/"mouth"), cada uma controlada por
+uma facção regional diferente (no caso descrito, a Zombie Alliance do Northern Plains).
+
+## 6. Perigos do subsolo
+
+- **Desmoronamento/colapso**: confirmado tanto no Earth Abyss (Cap. 728, citado acima
+  — terremotos e colapsos regulares, mortes por pedras caindo e soterramento) quanto
+  em cavernas específicas: Cap. ~640 (Vol. 4, linha 12809): "Large amounts of stones
+  fell down from above, even more dangerous were those sharp stalactites that could
+  pierce through rank three defensive Gu if they struck." — mostra que estalactites
+  desprendidas são uma ameaça física capaz de superar defesas mágicas de nível
+  considerável.
+- **Escuridão**: recorrente como elemento atmosférico — Cap. 931 (linha 42072): "The
+  blessed land doors were shining with light, but it could only radiate over a small
+  range of land. The inside of Earth Abyss was very dark and silent." A escuridão do
+  subsolo é tratada como perigo passivo (dificulta navegação/visão) mais do que uma
+  ameaça mecânica com regras próprias — não encontrei menção a sufocamento por falta
+  de ar ("suffocate", "lack of air", "stale air") no subsolo:
+  - Termos testados via grep -i nos 6 volumes: "suffocate", "lack of air", "stale
+    air", "thin air" (subterrâneo) — sem resultado relevante ligando isso ao ambiente
+    subterrâneo. A obra não trata "falta de ar" como perigo do subsolo.
+- **Feras subterrâneas**: extensamente documentado — desolate beasts e ancient
+  desolate beasts em território de Earth Abyss e Earth Trench (citados acima), além de
+  criaturas específicas como o "yaksha octopus" que ataca a extração de black oil no
+  Earth Trench (Cap. 741, Vol. 4, linha 14738: "A yaksha octopus has appeared in Earth
+  Trench, it is wrecking havoc. It is seriously affecting our extraction of the black
+  oil.").
+- **Perigo geopolítico/territorial**: rockmen tratados como propriedade/escravos de
+  quem controla a caverna onde vivem (Cap. 412) — mostrando que o subsolo também é
+  perigoso socialmente: viver embaixo da terra frequentemente significa viver sob
+  domínio de um Gu Immortal que reivindica aquele território.
+

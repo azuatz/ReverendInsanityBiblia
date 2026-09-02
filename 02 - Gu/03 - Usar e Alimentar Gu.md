@@ -51,19 +51,21 @@ existem nos três ofícios**, e são categoria formal, não curiosidade:
   se deixa dominar por quem tem, de fato, coração de sacrifício. Outro só aceita quem
   nunca mentiu na vida — e, se um mentiroso tentar, o refino não apenas falha: **o Gu
   morre na hora**.
-- **No usar** — a condição recai sobre o estado da pessoa no momento do acionamento. Um Gu
-  de justiça exige que quem o aciona tenha, naquele momento, coração justo. Uma formação
-  imortal registrada só funciona nas mãos de uma raça específica e mata qualquer outro que
-  entre nela.
+- **No usar** — a condição recai sobre quem aciona. O Gu que detecta mentiras **só pode ser
+  usado por um Mestre que nunca mentiu na vida**; um Gu de justiça exige que quem o aciona
+  tenha coração justo. E as condições não são só morais: uma formação imortal registrada só
+  funciona nas mãos de uma **raça** específica e mata qualquer outro que entre nela.
 
-Há ainda condições que não são morais, mas **posicionais**: certos Gu, uma vez consagrados
-[[04 - Gu Vital|Gu Vitais]], ficam presos no centro da abertura e **não podem mais ser
-retirados nem manifestados** — funcionam como fundação e nunca como arma.
+Há ainda condições **posicionais**: um Gu de nível 6 ou mais, uma vez consagrado
+[[04 - Gu Vital|Gu Vital]], fica preso no centro da abertura e **não pode mais ser retirado
+nem manifestado** — funciona como fundação e nunca como arma.
 
 O exemplo que exibe os três eixos ao mesmo tempo é um Gu de nível 4 que detecta mentiras:
-ele **come** honestidade, só pode ser **refinado** por alguém que jamais mentiu, e só
-**funciona** enquanto o portador não mente. Três travas empilhadas no mesmo bicho, e é
-por isso que ele é raríssimo apesar de não ser especialmente forte.
+ele **come** honestidade, só pode ser **refinado** por quem jamais mentiu, e só pode ser
+**usado** por quem jamais mentiu. Três travas empilhadas no mesmo bicho — e é por isso que
+ele é raríssimo apesar de não ser especialmente forte. Repare que a exigência é sobre a
+vida inteira da pessoa, não sobre o momento: uma única mentira dita anos antes já a
+desqualifica para sempre.
 
 > [!note] Para o design
 > Requisitos de uso são a forma mais barata de amarrar mecânica a personagem. Um poder que

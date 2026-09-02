@@ -75,20 +75,21 @@ Leia a tabela da esquerda para a direita: o grau é a letra que o mundo usa para
 classificar a pessoa socialmente; a porcentagem é o que esse grau significa
 mecanicamente; a última coluna é o teto de carreira que se espera de cada grau.
 
-Atenção à terceira coluna: ela é **inteiramente `inferido`**. As porcentagens das
+Atenção à última coluna: ela é **inteiramente `inferido`**. As porcentagens das
 duas primeiras colunas vêm da obra, mas o teto de rank sai de uma conta feita por
 nós, cruzando a faixa de aptidão com a escada de limiares de ruptura da seção 2 — e
 dessa escada só o primeiro degrau (55%) é canônico. Se você mudar os limiares
 inferidos da seção 2, esta coluna muda junto.
 
-| Grau | Capacidade da abertura | Teto de rank esperado (`inferido`) |
-|---|---|---|
-| (sem talento) | abaixo de 20% | **Nunca se torna Mestre Gu.** Não existe grau abaixo do D |
-| D | 20–39% | **rank 1, e só isso** — o teto de 39% nunca alcança os 55% exigidos para romper ao rank 2 |
-| C | 40–59% | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
-| B | 60–79% | rank 3, eventualmente rank 4 |
-| A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | 100% | ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] |
+| Grau | Capacidade da abertura | Origem da faixa | Teto de rank esperado (`inferido`) |
+|---|---|---|---|
+| (sem talento) | abaixo de 20% | **canônico** que não há grau abaixo do D | **Nunca se torna Mestre Gu** |
+| D | **20–30%** | **canônico** | **rank 1, e só isso** — nem de longe alcança os 55% exigidos para romper ao rank 2 |
+| *(sem grau)* | **31–39%** | **a obra não atribui grau nenhum a esta faixa** | — |
+| C | **40–59%** | **canônico** | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
+| B | **60–79%** | **canônico** | rank 3, eventualmente rank 4 |
+| A | **80–99%** | **canônico** | topo mortal (rank 5); 99% é o máximo "comum" |
+| Constituição Extrema | **100%** | **canônico** | ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] |
 
 > [!warning] O grau D só passa do rank 1 se a aptidão dele for elevada
 > Um grau D que **de fato** chegue ao rank 2 existe na obra, mas nunca como grau D:
@@ -100,9 +101,15 @@ inferidos da seção 2, esta coluna muda junto.
 
 Três observações práticas que a tabela não mostra sozinha:
 
-- **As quatro faixas são bandas regulares de vinte pontos** e particionam inteiramente
-  o intervalo de 20 a 99, sem vãos. Uma passagem da obra descreve o grau D como tendo
-  "vinte a trinta por cento" de essência; isso é o **D típico**, não o limite da banda.
+- **A escada tem um buraco literal entre 31% e 39%, e ele é do texto, não nosso.** As
+  faixas de C, B e A são enunciadas de uma vez ("40–59 é C, 60–79 é B, 80 ou mais é A") e
+  fecham entre si; o grau D é definido separadamente, noutro capítulo, como "vinte a
+  trinta por cento". Ninguém em toda a obra tem aptidão declarada entre 31% e 39%, e
+  varredura completa do texto por esses valores não devolve **nenhuma** ocorrência.
+  Provavelmente é arredondamento do autor — ele fixou "20 a 30" como número redondo e não
+  alinhou com o piso 40 do grau C. Para uma mesa, o mais simples é esticar o D até 39%;
+  só saiba que **essa esticada é sua, não da obra**. O mesmo maneirismo reaparece nos vãos
+  entre as grades de terra abençoada da seção 9.
 - **Abaixo de 20% não há grau inferior.** A pessoa não é um "Mestre Gu ruim": ela
   não é Mestre Gu, e permanecerá mortal comum a vida inteira.
 - **A recuperação de essência acompanha o grau.** Um grau C repõe cerca de 4% da

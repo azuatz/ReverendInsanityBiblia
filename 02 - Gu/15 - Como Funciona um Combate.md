@@ -224,7 +224,14 @@ saem daí, e juntas formam um sistema de iniciativa pronto:
    alvo era rápida, mas o efeito do golpe era **mais rápida ainda**. Existem golpes descritos
    como "além da velocidade de reação de qualquer um" — contra esses, não há esquiva, só
    defesa prévia.
-4. **A velocidade de reação é um estado, não uma constante.** Ela piora com fadiga, com
+4. **O tempo em si é manipulável — por um caminho só.** O [[13 - Time Path|caminho do tempo]] tem três
+   operações: desacelerar o tempo, acelerá-lo e alterar a percepção dele. Desacelerar **é** uma
+   esquiva: a obra descreve alguém escapando de uma corrente de ataques ao retardar o tempo, e
+   outro caso em que desacelerar o projétil comprou a reação. E vem com uma trava elegante: se
+   um cultivador de **outro** caminho usar métodos de tempo para acelerar o próprio golpe, o
+   efeito **sai pela culatra** — o golpe falha e produz backlash. Acelerar não é um bônus
+   universal; é privilégio de quem cultiva tempo.
+5. **A velocidade de reação é um estado, não uma constante.** Ela piora com fadiga, com
    umidade, com o corpo entorpecido — a obra registra um alvo cuja reação estava lenta por ter
    passado a noite ao relento, e é exatamente essa lentidão que quase decide o combate.
 
@@ -768,7 +775,10 @@ o contra-contra-jogo é um membro do grupo **prender** o assassino de modo que e
 o comandante. Papéis de controle existem porque existem papéis de execução.
 
 **Comprar tempo de ativação.** "Preciso de tempo para ativar a segunda camada da formação —
-segurem e ganhem tempo" é uma fala literal da obra. Num sistema em que golpes grandes exigem
+segurem e ganhem tempo" é uma fala literal da obra, e ela vem sempre com **prazo declarado**:
+*aguentem trinta minutos e eu resolvo*; *só preciso de pouco mais de dez respirações, defenda-me*;
+*vou levar vinte respirações para entrar, e nesse tempo o inimigo consegue me impedir*. Segurar
+é uma ação com número, não uma intenção vaga. Num sistema em que golpes grandes exigem
 preparo e a interrupção os anula, **o grupo é o que compra a janela**.
 
 **Disparar golpes que exigem várias pessoas.** Há golpes que simplesmente não ativam com menos

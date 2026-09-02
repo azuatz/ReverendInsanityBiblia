@@ -21,7 +21,7 @@ aliases:
   - Yin-Yang Path
   - Seal Path
 status: consolidado
-fontes: ["cap. 268", "cap. 278", "cap. 292", "cap. 570", "cap. 584", "cap. 585", "cap. 595", "cap. 599", "cap. 703", "cap. 704", "cap. 775", "cap. 1014", "cap. 1323", "cap. 1340", "cap. 1345", "cap. 1500", "cap. 1563", "cap. 1649", "cap. 1787", "cap. 1865", "cap. 1869", "cap. 2023", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2137", "cap. 2154", "cap. 2163", "cap. 2181", "cap. 2284", "cap. 2286", "cap. 2293", "cap. 2298", "cap. 2299", "cap. 2300", "cap. 2328"]
+fontes: ["cap. 268", "cap. 278", "cap. 292", "cap. 570", "cap. 584", "cap. 585", "cap. 595", "cap. 599", "cap. 703", "cap. 704", "cap. 775", "cap. 1014", "cap. 1323", "cap. 1340", "cap. 1345", "cap. 1500", "cap. 1563", "cap. 1649", "cap. 1176", "cap. 1787", "cap. 1865", "cap. 1869", "cap. 2023", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2137", "cap. 2154", "cap. 2163", "cap. 2181", "cap. 2284", "cap. 2286", "cap. 2293", "cap. 2298", "cap. 2299", "cap. 2300", "cap. 2321", "cap. 2328", "cap. 2332"]
 conhecimento: especializado
 ---
 
@@ -255,6 +255,14 @@ do verbete:
 
 Ou seja: um caminho novo se constrói **traduzindo** Gu de caminhos vizinhos para a gramática dele.
 
+**E o criador do caminho oferece a teoria por trás disso**, que é uma das melhores frases do vault:
+*qualquer caminho que atinja o domínio de grão-mestre consegue aprender sobre qualquer outro
+caminho usando o seu próprio como fundação; através do seu caminho, é possível **imitar a perícia
+dos outros** — por exemplo, usar Gu do caminho do fogo para criar um golpe com habilidades do
+caminho da água*. A conclusão dele sobre a máquina: ==a formação de derivação talvez seja apenas
+uma forma **forçada** dessa imitação.== Ver
+[[27 - Os Caminhos Elementais#A camada escondida|de onde vem a capacidade de imitar outros caminhos]].
+
 > [!question] A profecia do caminho-guarda-chuva das armas
 > Há uma passagem que descreve uma marca do Dao nova como sinal de *um caminho totalmente novo...
 > bastante grandioso, que na verdade contém **lâminas, espadas, machados, alabardas e outras
@@ -295,6 +303,15 @@ dentro.
 
 **Gu:** o **Gu do Fio** (mortal, a raiz do caminho) e uma **Asa de Lâmina** (Gu Imortal de nível 7,
 com aparência de borboleta branca do tamanho de um punho).
+
+**O custo escondido do caminho, e ele é sombrio.** A técnica que um praticante inventou para forçar
+o próprio avanço — **imitar o Ancestral Humano inserindo um Gu do Fio no próprio coração** — produziu
+um golpe **incompleto e com efeitos colaterais ocultos graves**: a mente dele foi sendo afetada aos
+poucos e ele passou a **cair em estados demoníacos de loucura**, chegando a atacar os próprios
+aliados sem controle. Ele sabia que o método não era o ideal e insistiu mesmo assim, escondendo-o de
+todos. É o registro mais claro da obra de que **um golpe mal terminado não falha: ele funciona, e
+cobra na cabeça de quem o usa**. Ver
+[[23 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
 
 **E o melhor estudo de caso de gargalo de domínio da obra inteira:** *os supremos anciãos da tribo
 todos me elogiavam como um gênio de lâmina raro de se ver uma vez a cada mil anos, mas **eu ainda
@@ -380,7 +397,11 @@ existente:
 Ou seja: o caminho da matança é proposto como o **superconjunto** do caminho da comida.
 
 E existe um **Gu do Matar**, que é *claramente o Gu Imortal-núcleo do caminho da matança; ele não se
-formou tão facilmente*.
+formou tão facilmente*. Dois detalhes registrados fecham o quadro e são os melhores ganchos daqui:
+o Gu-núcleo **se formou dentro do corpo de um ser vivo**, não numa bancada de refino; e a obra
+registra, muito depois da tentativa fracassada, que ==sinais do caminho da matança **voltaram a
+emergir**== — sem que ninguém estivesse tentando criá-lo conscientemente. O caminho continua
+pressionando para nascer.
 
 > [!note] Para o design
 > **Um caminho abortado é diferente de um caminho não descoberto.** Os fenômenos existem, o
@@ -402,9 +423,31 @@ Humano, e o chamou de caminho do yin-yang. O veredito canônico é seco:
 > uma mudança qualitativa para se tornar um caminho totalmente novo**. No máximo, podia ser usado
 > junto com outros caminhos para ocasionalmente criar **pequenos ganhos heterodoxos**.
 
-**O conteúdo concreto** é gestacional: a essência estava em Gu do aborto, da gravidez segura e da
-gravidez múltipla. E há uma herança guardada em cofre com um método que exige **um imortal homem e
-uma imortal mulher cooperando, usando a cópula para estender a longevidade de um dos dois**.
+**Por que fracassou — e a resposta é conceitual, não de poder.** A ambição declarada era **usar o
+yin e o yang para descrever todos os seres do mundo**. A obra compara essa ambição, explicitamente,
+à do maior praticante do [[25 - Sound Path|caminho do som]], que queria *usar o som para expressar
+toda a vida deste mundo* — e o contraste é o ponto: o segundo chegou a nove canções, o primeiro
+desistiu. O motivo é registrado sem piedade: conforme sua força e seu conhecimento cresciam, ele
+**reconheceu que sua própria formulação de yin-yang era muito rasa** e abandonou o projeto.
+==Um Venerável falhou em fundar um caminho não por falta de poder, mas por a ideia não ser boa o
+bastante.==
+
+**O conteúdo concreto** é gestacional — é o único conjunto de Gu do cenário dedicado a gravidez e
+nascimento:
+
+| Gu | O que faz |
+|---|---|
+| **Gravidez Múltipla** | O **nível é o número de filhos**: nível 1 gera um, nível 2 gêmeos, nível 3 trigêmeos, nível 4 quadrigêmeos, nível 5 quíntuplos |
+| **Engravidar** | Induz a gravidez |
+| **Gravidez Segura** | Protege a gestação |
+| **Aborto** | O oposto |
+| **Feto Morto** | — a obra não descreve |
+| **Reencarnação** | — a obra não descreve |
+
+E há a **extensão de vida yin-yang**, guardada em cofre: um método que exige **um imortal homem e
+uma imortal mulher cooperando, usando a cópula para estender a longevidade de um dos dois**. A
+falha é declarada e é o que impede o método de ser uma solução para a mortalidade: ==se um ganha
+tempo de vida, o outro **necessariamente perde**==. Não se cria longevidade — apenas se transfere.
 
 > [!note] Para o design
 > Isto é ouro: **nem um Venerável consegue garantir que um caminho novo pegue.** Fundar uma escola
@@ -547,8 +590,11 @@ esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que 
    **desenvolvimento e número de praticantes**, não de potência.
 2. **Caminhos brotam de outros caminhos.** O caminho da regra é declaradamente **o número um** nesse
    quesito, por ser o mais conceitualmente amplo; o da sabedoria também gera ramos.
-3. **Um ramo que não se separou por completo não tem marcas do Dao próprias** — e cultivá-lo eleva
-   o domínio do **caminho-mãe**. É o teste prático de se um caminho "existe de verdade".
+3. **Existem graus de separação, e o teste tem duas perguntas.** *Este caminho tem marcas do Dao
+   próprias?* e *ele tem significado verdadeiro próprio?* Um ramo pode não ter nenhuma das duas
+   coisas (emoção, encantamento — e aí cultivá-lo eleva o domínio do **caminho-mãe**), ter só a
+   primeira (fantasma, que tem marcas próprias mas cujo domínio ainda é significado verdadeiro do
+   caminho da regra), ou ter as duas (caminho pleno). Ver *A camada escondida*, acima.
 4. **Um caminho novo pode ser construído por conversão**: traduzindo Gu de caminhos vizinhos para a
    gramática do novo.
 5. **A primeira etapa de desenvolver um caminho novo é popularizá-lo** — gerações de praticantes com

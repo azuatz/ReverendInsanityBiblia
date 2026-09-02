@@ -249,9 +249,22 @@ as **produz**, não ao rank de quem as usa:
 | 8 | white litchi | lichia-branca |
 | 9 | yellow apricot | damasco-amarelo |
 
-A essência imortal é **pessoal e não transferível**: um Gu Imortal não consegue usar
-a essência imortal de outro. A única exceção é o [[09 - Blessed Lands e Grotto-Heavens|espírito da terra]]
-formado a partir do próprio Imortal morto, que pode gastar a essência que ele deixou.
+A essência imortal é **pessoal e não transferível**: a obra afirma literalmente que um Gu
+Imortal não consegue usar a essência imortal de outro, e dá a razão — a essência carrega
+dentro de si a **vontade** de quem a produziu. É por isso que aliados emprestam equipamento,
+nunca combustível.
+
+São **três** as exceções canônicas, e todas nascem da mesma lógica de que a vontade original
+continua valendo:
+
+1. o [[09 - Blessed Lands e Grotto-Heavens|espírito da terra]] formado a partir do próprio
+   Imortal morto, que gasta a essência que ele deixou;
+2. a **vontade remanescente** do morto, pelo mesmo motivo;
+3. as **Casas de Gu Imortal**, que absorvem essência de qualquer um — a obra trata isso como
+   a característica *fundamental* da categoria, e não como excentricidade de um exemplar.
+
+A terceira é a que mais muda uma mesa: é o único ralo por onde a essência de um imortal
+pode financiar o esforço de outro.
 
 ---
 

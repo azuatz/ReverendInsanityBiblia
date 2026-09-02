@@ -349,10 +349,10 @@ permanentes: é um arsenal de disparos e de deslocamentos. A desvantagem estrutu
 dele não está em nenhuma linha da tabela, e sim na regra de construção acima —
 qualquer marca de força já gravada no corpo faz estes Gu falharem.
 
-*Uma correção que vale registrar: o **Aurora Bird**, que já apareceu listado como Gu
-nesta seção, **não é um Gu** — a obra o descreve como um **golpe combinado mortal** do
-caminho da luz, transmitido de mestre para discípulo, cujos Gu componentes ela nunca
-nomeia. Ele saiu daqui e o lugar dele é o catálogo de golpes.*
+*Um aviso de nomenclatura, porque a confusão é fácil: o **Aurora Bird** circula como se
+fosse um Gu deste caminho, mas **não é**. A obra o descreve como um **golpe combinado**
+mortal do caminho da luz, transmitido de mestre para discípulo, e nunca nomeia os Gu que
+o compõem. Procure-o no catálogo de golpes, não aqui.*
 
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|

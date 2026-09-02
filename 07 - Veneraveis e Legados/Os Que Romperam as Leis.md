@@ -6,8 +6,6 @@ tags:
 aliases:
   - Thieving Heaven Demon Venerable
   - Red Lotus Demon Venerable
-  - Thieving Heaven
-  - Red Lotus
   - Formless Hand
   - Divine Concealment
 status: consolidado
@@ -19,7 +17,7 @@ conhecimento: segredo
 
 **Em uma frase:** dois Veneráveis Demônios cujo legado não é uma instituição nem uma disciplina, mas **um dano permanente numa lei fundamental do mundo** — um rasgou a fronteira externa da realidade e a remendou mal, o outro quebrou o destino, e o mundo vive com as duas cicatrizes até hoje.
 
-Esta nota cobre **Thieving Heaven** e **Red Lotus**, listados em [[Visão Geral dos Veneráveis]].
+Esta nota cobre **Thieving Heaven** (Antiguidade Antiga) e **Red Lotus** (Antiguidade Tardia), dois dos dez listados em [[Visão Geral dos Veneráveis]], onde está a tabela completa em ordem de era. Eles não foram contemporâneos: separa-os mais de uma era, e nenhum dos dois soube o que o outro fez.
 
 > [!warning] Conhecimento de nível máximo
 > Quase tudo nesta nota é `segredo`. Que estes dois existiram e que foram Veneráveis Demônios é cultura geral; **o que eles realmente fizeram** é conhecido por um punhado de indivíduos no mundo inteiro, e vários desses indivíduos conhecem apenas a própria metade da história.
@@ -31,9 +29,9 @@ Esta nota cobre **Thieving Heaven** e **Red Lotus**, listados em [[Visão Geral 
 | | |
 |---|---|
 | **Via** | demoníaca |
-| **Era** | Antiguidade Antiga — um dos três Veneráveis Demônios daquela era; sua atuação atravessa para a Antiguidade Medieval |
+| **Era** | Antiguidade Antiga — um dos **três** Veneráveis Demônios daquela era, ao lado de **Reckless Savage** e **Limitless** (ambos em [[Os Criadores de Caminhos]]); sua atuação atravessa para a Antiguidade Medieval |
 | **Caminho principal** | **theft path** (caminho do roubo) — ele o criou |
-| **Caminho de especialidade** | **space path** (caminho do espaço) |
+| **Caminho de especialidade** | **[[Space Path\|space path]]** (caminho do espaço) |
 | **Traço distintivo** | o **mais rico da história**; e um **demônio de outro mundo** |
 
 ### A condição que define o legado
@@ -50,28 +48,44 @@ Este último ponto tem valor de design enorme, e vale registrar em separado: **e
 
 ### O que ele deixou no mundo
 
-**1. O caminho do roubo.** Sistematizou a disciplina de tirar de outros aquilo que, pelas regras do mundo, não deveria poder ser tirado. Importa entender por que isso é radical: neste cenário, roubar um Gu Imortal à força é **quase impossível**, porque o dono simplesmente o destrói com um pensamento no instante em que percebe a perda. O caminho do roubo é a exceção estrutural a essa regra.
+**1. O caminho do roubo.** Sistematizou a disciplina de tirar de outros aquilo que, pelas regras do mundo, não deveria poder ser tirado. Importa entender por que isso é radical: neste cenário, roubar um [[Gu Imortais|Gu Imortal]] à força é **quase impossível**, porque o dono simplesmente o destrói com um pensamento no instante em que percebe a perda. O caminho do roubo é a exceção estrutural a essa regra. (O caminho do roubo ainda não tem nota própria neste vault; o que existe dele está aqui.)
 
-**2. A Mão Sem Forma.** O golpe lendário dele, e um dos objetos mais elegantes do cenário. Uma mão que rouba Gu, com regras precisas:
+**2. A Mão Sem Forma.** O [[Killer Moves|golpe]] lendário dele — um *killer move*, a combinação coreografada de vários Gu que é a unidade de magia lançada deste sistema —, e um dos objetos mais elegantes do cenário. Uma mão que rouba Gu, com regras precisas:
 
 - **O número de dedos indica o rank máximo que aquela mão consegue roubar** — de um a nove.
 - É intangível enquanto está de palma aberta, e **só é vulnerável no instante seguinte à captura**, quando fecha o punho.
-- **Arranca Gu até de dentro da dimensão privada de alguém** — atravessa a única defesa que o mundo considera absoluta.
+- **Arranca Gu até de dentro da [[Blessed Lands e Grotto-Heavens|abertura imortal]] de alguém** — atravessa a única defesa que o mundo considera absoluta.
 - O Gu desaparece junto com a mão após certa distância ou tempo.
 
-E aqui está o detalhe que a designer deve guardar: **a Mão Sem Forma reaparece sozinha, séculos depois da morte dele, dentro de tribulações extremas.** A lei do mundo aprendeu o golpe e passou a reproduzi-lo contra cultivadores que nunca ouviram falar do autor. É a demonstração mais concreta do que significa um Venerável assinar um caminho.
+E aqui está o detalhe que a designer deve guardar: **a Mão Sem Forma reaparece sozinha, séculos depois da morte dele, dentro de [[Tribulações e Calamidades|tribulações]] extremas.** A lei do mundo aprendeu o golpe e passou a reproduzi-lo contra cultivadores que nunca ouviram falar do autor. É a demonstração mais concreta do que significa um Venerável assinar um caminho.
 
 **3. A ocultação absoluta.** Criou os métodos que tornam o portador **invisível à sondagem do céu**. Sem sondagem, não há tribulação nenhuma — imunidade completa. O preço é permanente e brutal: quem nunca é sondado **nunca ganha [[Dao Marks|marcas de dao]] por essa via** — e marcas de dao são o atributo que faz um imortal ficar mais forte, o equivalente a pontos de experiência. Trocar sondagem por invisibilidade é trocar uma vida tranquila por progressão travada. Ver [[Vontade dos Céus#Defesas possíveis]]. É, ainda hoje, a única contramedida verdadeiramente absoluta contra o céu que existe no mundo.
 
 **4. A família de disfarces.** Criou a linhagem de Gu que fabrica identidades e rostos alheios — a base técnica da infiltração no cenário.
 
-**5. Um contrato que ainda paga.** Deixou, guardadas com o espírito de uma [[Blessed Lands e Grotto-Heavens|terra abençoada]] específica — o mundo em miniatura que todo imortal carrega dentro de si —, **três oportunidades de refino** que o herdeiro reconhecido tem direito de reivindicar. As regras dessas oportunidades são um pequeno sistema em si: um pedido de Gu mortal tem sucesso garantido e consome uma chance no total; um pedido de Gu Imortal consome uma chance **por tentativa**, com ou sem sucesso; e se aquele Gu Imortal já existir no mundo, o refino falha automaticamente — porque a unicidade dos Gu Imortais é regra ativa de refino, não apenas nomenclatura.
+**5. Um contrato que ainda paga.** Deixou, guardadas com o espírito de uma [[Blessed Lands e Grotto-Heavens|terra abençoada]] específica — o mundo em miniatura que todo imortal carrega dentro de si —, **três oportunidades de [[Refino de Gu|refino]]** que o herdeiro reconhecido tem direito de reivindicar. ==Refinar== um Gu é sobrescrever a vontade da criatura com a sua própria para torná-la utilizável: é a operação mais cara e mais arriscada do sistema, com taxas de sucesso baixíssimas, e é por isso que três tentativas garantidas valem uma fortuna.
+
+As regras dessas oportunidades são um pequeno sistema em si: um pedido de Gu mortal tem sucesso garantido e consome uma chance no total; um pedido de [[Gu Imortais|Gu Imortal]] consome uma chance **por tentativa**, com ou sem sucesso; e se aquele Gu Imortal já existir no mundo, o refino falha automaticamente — porque a unicidade dos Gu Imortais é regra ativa de refino, não apenas nomenclatura.
 
 **6. O rombo na fronteira do mundo, e o remendo.** `conhecimento: segredo` — o legado mais consequente.
 
 Desesperado por voltar ao próprio mundo natal, ele forçou deliberadamente a **ruptura da fronteira externa do mundo** no ponto mais fino, no fundo da caverna de nove camadas descrita em [[Cosmologia#A fronteira do mundo]]. Pela brecha começou a jorrar algo capaz de destruir o mundo de cultivo Gu **inteiro**.
 
 Quatro Veneráveis repararam o mundo. E foi ele quem selou a brecha, **extraindo as próprias marcas de dao de espaço para servirem de tampão** e criando com elas um subespaço.
+
+> [!warning] Não confundir com a obra de Limitless
+> Duas coisas diferentes acontecem no mesmo lugar, e é fácil fundi-las numa só.
+>
+> **Limitless** escavou a caverna e construiu ali uma máquina que perfura a membrana **de
+> propósito e de forma controlada**, para puxar matéria de fora como matéria-prima. É essa
+> obra — e não a de Thieving Heaven — que faz dos **demônios de outro mundo** um subproduto
+> permanente de infraestrutura. Ver [[Os Criadores de Caminhos]].
+>
+> **Thieving Heaven** veio depois e **rompeu** a mesma membrana, sem controle, tentando
+> passar por ela. Quase destruiu o mundo, e foi ele mesmo quem remendou.
+>
+> Um construiu a porta; o outro arrebentou a parede ao lado dela e tapou o buraco com o
+> próprio corpo.
 
 **O remendo nunca foi completo.** O mundo inteiro vive, desde então, em cima de uma emenda mal feita, e ninguém sabe quantos outros pontos finos existem.
 
@@ -86,17 +100,18 @@ Quatro Veneráveis repararam o mundo. E foi ele quem selou a brecha, **extraindo
 | | |
 |---|---|
 | **Via** | demoníaca |
+| **Era** | Antiguidade Tardia — o **último** dos dez |
 | **Expectativa de vida** | ~3.000 anos, a **menor dos dez** |
-| **Caminho principal** | não nomeado explicitamente nas fontes[^1] |
+| **Caminho principal** | **—** não nomeado explicitamente nas fontes[^1] |
 | **Origem da sorte inata** | **adoração do caminho humano** — devoção coletiva de multidões |
 
 ### O que ele deixou no mundo
 
-**1. A única lei fundamental já rompida.** `conhecimento: segredo` — Red Lotus **feriu deliberadamente o [[Fate Gu]]**, atacando-o dentro do [[Cosmologia#O Rio do Tempo|Rio do Tempo]]. A memória histórica do mundo registra o ato como "quebrar as correntes que prendiam o destino".
+**1. A única lei fundamental já rompida.** `conhecimento: segredo` — Red Lotus **feriu deliberadamente o [[Fate Gu]]** — o Gu de rank 9 através do qual o destino de todo mundo é administrado —, atacando-o dentro do [[Cosmologia#O Rio do Tempo|Rio do Tempo]]. A memória histórica do mundo registra o ato como "quebrar as correntes que prendiam o destino".
 
 É o único caso na história de um dano permanente a uma lei fundamental do mundo, e as consequências estão espalhadas por todo o cenário, sendo que quase ninguém as reconhece como relacionadas:
 
-- **Zumbis existem.** A almas que deveriam ser reivindicadas na morte e não são. O mundo convive com isso como se fosse um fenômeno natural.
+- **Zumbis existem.** As almas que deveriam ser reivindicadas na morte não são, e ficam. O mundo convive com isso como se fosse um fenômeno natural — não é necromancia, é erro de contabilidade do destino.
 - **Existem seres que escapam do julgamento do destino** — uma categoria formal de existência que o mundo não consegue prever nem controlar.
 - **A maior instituição do mundo perdeu a plenitude do seu poder** e gastou mais de um milhão de anos, e uma fortuna incalculável, tentando consertar a peça. Ver [[Tribunal Celestial#O papel no mundo]].
 
@@ -110,7 +125,7 @@ Isso é importante estruturalmente, porque estabelece que existe **mais de uma c
 
 Isso tem uma consequência de sistema notável: **a posse desse artefato, por si só, tira alguém do controle do destino** — quem pode reescrever o próprio passado não tem um caminho de vida fixo.
 
-**5. Uma herança dentro do tempo.** A verdadeira herança dele não está guardada num lugar do mapa: está **dentro do Rio do Tempo**. Os pré-requisitos de acesso são os mais exigentes do cenário — é preciso possuir o artefato de regressão, autodestruir-se levando a própria vontade ao rio, e então **navegar** até uma ilha específica, o que exige métodos do caminho do tempo que o artefato sozinho não fornece. Ele deixou múltiplas verdadeiras heranças, rastreáveis entre si por quem já tenha encontrado uma.
+**5. Uma herança dentro do tempo.** A [[Heranças e Provações|verdadeira herança]] dele não está guardada num lugar do mapa: está **dentro do Rio do Tempo**. Os pré-requisitos de acesso são os mais exigentes do cenário — é preciso possuir o artefato de regressão, autodestruir-se levando a própria vontade ao rio, e então **navegar** até uma ilha específica, o que exige métodos do [[Time Path|caminho do tempo]] que o artefato sozinho não fornece. Ele deixou múltiplas verdadeiras heranças, rastreáveis entre si por quem já tenha encontrado uma.
 
 **6. Uma vontade que continua operando.** `conhecimento: segredo` — há registro de uma entidade dentro do Rio do Tempo capaz de **reverter o tempo localmente** para resgatar uma viagem temporal que falhou, reconstituindo o artefato estilhaçado e a vontade à deriva. O resgate produz um salto curto e incontrolado, qualitativamente distinto de uma viagem plena. A assinatura visual desse resgate — uma lótus vermelha — aponta para um plano póstumo dele operando dentro do rio há um milhão de anos.
 
@@ -125,17 +140,21 @@ Isso tem uma consequência de sistema notável: **a posse desse artefato, por si
 Vale enunciar, porque é o eixo da nota:
 
 - **Ambos danificaram uma lei fundamental do mundo**, e em ambos os casos o dano é **permanente e incompleto**: a fronteira externa foi remendada e não fechou; o destino foi quebrado e continua sendo remendado sem nunca chegar ao pleno.
-- **Ambos criaram, como subproduto, uma categoria inteira de existência.** Um abriu a porta por onde entram os seres de fora; o outro criou a possibilidade de escapar do destino. Ainda hoje as duas categorias se confundem no vocabulário do mundo, e a instituição que caça uma delas caça a outra por engano.
+- **Ambos alargaram uma categoria inteira de existência que o mundo não consegue governar.** Red Lotus **criou** a possibilidade de escapar do destino, ao rachar o Fate Gu. Thieving Heaven não abriu a porta dos demônios de outro mundo — essa é obra de **Limitless**, e ele próprio já era um demônio de outro mundo antes de qualquer coisa —, mas o rombo que abriu e remendou mal deixou a membrana permanentemente frágil no ponto por onde eles passam. Ainda hoje as duas categorias se confundem no vocabulário do mundo, e a instituição que caça uma delas caça a outra por engano.
 - **Ambos deixaram heranças com trava ontológica.** Um exige ser um demônio de outro mundo; o outro exige possuir um artefato específico e saber navegar o tempo. São cofres que não se arrombam.
 - **Nenhum dos dois construiu uma instituição.** O legado deles é puramente estrutural — está na física do mundo, não na sua política. E é exatamente por isso que é irreversível: instituições podem ser derrubadas; rachaduras na lei, não.
 
 ## Relações
 
-- [[Visão Geral dos Veneráveis]] — a nota-porta desta pasta.
+- [[Visão Geral dos Veneráveis]] — a nota-porta desta pasta, com a tabela dos dez em ordem de era.
 - [[Fate Gu]] — a lei que Red Lotus quebrou e que Thieving Heaven poderia quebrar por natureza.
 - [[Cosmologia#A fronteira do mundo]] — o rombo que Thieving Heaven abriu e remendou.
 - [[Vontade dos Céus]] — a ocultação absoluta, a única imunidade real ao céu, é obra de Thieving Heaven.
-- [[Os Criadores de Caminhos]] — Limitless, cuja obra é a caverna onde a fronteira foi rompida.
+- [[Os Criadores de Caminhos]] — Limitless, cuja obra é a caverna onde a fronteira foi rompida, e a quem se deve a porta por onde entram os demônios de outro mundo.
+- [[Space Path]] · [[Time Path]] — a especialidade de Thieving Heaven, e a disciplina sem a qual não se alcança a herança de Red Lotus.
+- [[Refino de Gu]] · [[Gu Imortais]] — o que são as "três oportunidades de refino" e por que valem tanto.
+- [[Heranças e Provações]] — como funcionam as heranças que estes dois deixaram trancadas.
+- [[Tornar-se Venerável]] — as quatro condições do rank 9, e a sorte inata que os dez tiveram.
 - [[Os Arquitetos da Ordem]] — a instituição que passou um milhão de anos consertando o que Red Lotus quebrou; e Paradise Earth, o terceiro Venerável documentado lá.
 - [[Dao Marks]] — o atributo de progressão que a ocultação absoluta trava.
 - [[Linha do Tempo e Eras]] — em que era cada um destes dois viveu.

@@ -5,7 +5,6 @@ aliases:
   - Gu fusion
   - Fusion
   - Reverse fusion
-  - Receitas de Gu
 status: consolidado
 fontes: ["cap. 98", "cap. 99", "cap. 100", "cap. 105", "cap. 106", "cap. 113", "cap. 121", "cap. 156", "cap. 157", "cap. 212", "cap. 262", "cap. 288", "cap. 308", "cap. 309", "cap. 320", "cap. 326", "cap. 345", "cap. 477", "cap. 487", "cap. 496", "cap. 711", "cap. 736", "cap. 852", "cap. 863", "cap. 1444", "cap. 1474"]
 conhecimento: comum

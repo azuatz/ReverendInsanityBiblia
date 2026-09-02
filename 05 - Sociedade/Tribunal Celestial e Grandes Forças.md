@@ -4,8 +4,6 @@ tags:
   - sociedade/grandes-forcas
   - sociedade/politica-imortal
 aliases:
-  - Heavenly Court
-  - Corte Celestial
   - Super forces
   - Ultimate force
 status: consolidado

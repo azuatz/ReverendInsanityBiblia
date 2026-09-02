@@ -5,7 +5,6 @@ tags:
   - gu/imortal
 aliases:
   - Catálogo de Gu Imortais
-  - Immortal Gu
   - Gu Imortais
 status: consolidado
 fontes: ["_pipeline/rascunho/catalogo-gu.md", "cap. 163", "cap. 371-405", "cap. 411", "cap. 428", "cap. 463-469", "cap. 485-494", "cap. 518-528", "cap. 544-568", "cap. 583-649", "cap. 650-712", "cap. 730-801", "cap. 852-1021", "cap. 1029-1132", "cap. 1156-1240", "cap. 1273-1314", "cap. 1394-1512", "cap. 1514-1759", "cap. 1760-1966", "cap. 1967-2171", "cap. 2172-2334"]

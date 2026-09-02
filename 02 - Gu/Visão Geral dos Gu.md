@@ -4,7 +4,6 @@ tags:
   - visao-geral
 aliases:
   - Gu
-  - Gu worm
   - Gu Overview
 status: consolidado
 fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 23", "cap. 183", "cap. 210", "cap. 292", "cap. 314", "cap. 860", "cap. 1161", "cap. 1299", "cap. 1441", "cap. 2118"]

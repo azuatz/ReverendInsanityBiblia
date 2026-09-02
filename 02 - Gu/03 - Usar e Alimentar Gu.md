@@ -7,7 +7,7 @@ aliases:
   - Alimentação de Gu
   - Expendable Gu
 status: consolidado
-fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292"]
+fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292", "cap. 8", "cap. 10", "cap. 20", "cap. 22", "cap. 44", "cap. 156", "cap. 162", "cap. 297", "cap. 563", "cap. 1791"]
 conhecimento: comum
 ---
 
@@ -73,6 +73,70 @@ desqualifica para sempre.
 > **é** o item. E, como a sanção documentada é a morte do próprio Gu, mentir custa
 > patrimônio, não pontos de reputação.
 
+## O gesto: o que exatamente se faz para acionar um Gu
+
+A pergunta é básica e nenhuma regra a responde: o Mestre Gu **pensa, fala, toca, aponta?** A
+obra responde numa aula — literalmente uma aula, dada por um ancião a cinquenta e sete
+adolescentes num campo de treino, com demonstração. É a passagem canônica sobre o gesto, e ela
+divide o acionamento em **três etapas**.
+
+**Etapa 1 — mover o Gu até o ponto de uso. Só com a mente.** O ancião abre a mão direita, os
+cinco dedos bem afastados, e vira a palma para os alunos verem. "Primeiro, vocês usam a mente
+para mobilizar o Gu, levando-o até o centro da palma." E a marca em forma de lua crescente que
+representa o Gu **desce pelo braço dele e chega à palma**. Não há gesto, não há palavra, não há
+toque: o bicho anda por dentro do corpo do dono, obedecendo a um pensamento. (Onde ele mora
+enquanto isso é assunto de [[13 - Onde um Gu Mora|Onde um Gu Mora]].)
+
+**Etapa 2 — empurrar essência para dentro do Gu. Também só com a mente.** "Depois, vocês
+mobilizam a essência primordial da abertura e a despejam dentro do Gu." Um **fio de essência
+branco-prateada tão fino que quase não se vê** sai do corpo do ancião e entra no Gu na palma. O
+Gu **acende**: brilha cada vez mais forte e, mesmo sendo dia claro, emite uma luz azul-pálida
+nítida. A cor da luz é a do efeito; a cor do fio é a do rank de quem o aciona.
+
+**Etapa 3 — lançar. Esta é física.** Para um Gu de projétil, existe um movimento, e ele é
+ensinado como um golpe de esgrima: os cinco dedos abertos se fecham lentamente, o braço sobe e
+se estende para a frente, e a palma faz um **corte leve no ar**. Firme e sem pressa. *Swoosh* —
+e a luz condensada na palma sai voando.
+
+### O que isso implica na mesa
+
+- **Nem todo Gu exige a etapa 3.** Gu defensivos e de reforço se acionam só com a mente: a
+  armadura de luz branca cristalina simplesmente aparece sobre o corpo, as ondulações de
+  invisibilidade correm pela pele. A etapa física só existe quando o efeito **sai do corpo** e
+  precisa de direção.
+- **Falar não é obrigatório.** A obra mostra as duas coisas: Mestres Gu que acionam em silêncio
+  ("com um pensamento") e Mestres Gu que dizem o nome do Gu em voz alta antes de agir. O segundo
+  é hábito, ênfase ou teatro — nunca requisito.
+- **Mirar é perícia, e erra-se muito.** Aqui está o detalhe mais jogável de toda a nota. Depois
+  de cinco minutos de prática, a turma de adolescentes já conseguia **produzir** lâminas de luar
+  — mas quase nenhuma acertava o boneco. Umas se apagavam no meio do caminho, outras colidiam
+  entre si, outras saíram voando para fora do campo. O aluno que acertou o pescoço de um boneco
+  virou notícia, e nem ele sabia se a lâmina era dele. A doutrina que o ancião enuncia é
+  "praticar até acertar" — e a observação amarga que ele faz em seguida é que **quem tem aptidão
+  alta treina mais vezes por dia**, porque tem mais essência para gastar errando. O talento não
+  melhora a mira: compra repetições.
+- **O Gu precisa estar visível?** Não. Muitos são acionados de dentro do corpo ou de dentro da
+  abertura, sem nunca aparecer. Quando é preciso trazer o bicho para fora, o gesto informal e
+  repetido na obra é **dar um tapinha na própria barriga** — a abertura fica três polegadas
+  abaixo do umbigo — e o Gu sai voando dali como um risco de luz. Sem tapinha também funciona:
+  basta querer.
+- **O que a plateia vê.** Uma névoa ou um fio colorido saindo do corpo, um brilho na palma ou na
+  pele, e o efeito. E ouve: a obra registra o *swoosh* passando junto ao ouvido dos alunos.
+
+```mermaid
+flowchart LR
+  A["Vontade do Mestre Gu"] --> B["1. O Gu se desloca<br/>pelo corpo até a palma<br/>(mental, invisível)"]
+  B --> C["2. Essência sai da abertura<br/>névoa/fio da cor do rank<br/>e entra no Gu"]
+  C --> D["Gu acende<br/>luz da cor do efeito"]
+  D --> E{"O efeito sai do corpo?"}
+  E -->|Não| F["Ativa sozinho:<br/>armadura, invisibilidade,<br/>força — só vontade"]
+  E -->|Sim| G["3. Gesto físico de lançar<br/>dedos fecham, braço estende,<br/>palma corta o ar"]
+  G --> H["Projétil voa<br/>— e pode errar"]
+```
+
+> O diagrama acima é **leitura nossa** da cena de aula descrita pela obra; a obra não apresenta
+> nenhum fluxograma de acionamento.
+
 ## O custo de acionar: essência
 
 Acionar um Gu consome [[04 - Essência Primordial|Essência Primordial]], a energia interna que um Mestre Gu armazena na
@@ -124,6 +188,35 @@ logística.
 
 **Todo Gu refinado tem uma dieta específica.** Não "energia" genérica: comida concreta,
 que precisa ser comprada, colhida, transportada e estocada.
+
+### Alimentar, na prática: o gesto e o ritmo
+
+A dieta é a regra; isto é a cena. Alimentar um Gu **não é mental** — é dar comida a um bicho,
+com as mãos, e a obra mostra o gesto duas vezes.
+
+**Chama-se o Gu para fora e põe-se a comida junto dele.** Um verme do licor sai da abertura do
+dono "virando um risco de luz branca", desenha um arco no ar e cai **com um *ploc* dentro da
+taça de vinho**. Um Gu de luar recebe suas pétalas na palma da mão. Não há ritual, não há
+fórmula, não há preparo: é pôr o bicho em contato com o alimento e esperar.
+
+**O ritmo é doméstico, não tático.** O Gu de luar come **duas refeições por dia — uma de manhã,
+uma à noite —, duas pétalas em cada uma**. O verme do licor bebe de um jarro que dura quatro
+dias e que fica guardado embaixo da cama. As pétalas são compradas numa loja ao lado da academia
+do clã, dez por uma pedra primordial, entregues num **saquinho de papel**, e **murcham em poucos
+dias** — o que impede estoque grande e obriga a compra recorrente. Uma folha de "grama íntima"
+misturada à ração faz o bicho se dar por satisfeito com metade.
+
+**Dá para alimentar em combate?** A obra **nunca mostra** ninguém alimentando um Gu no meio de
+uma luta, e nunca proíbe explicitamente. O que ela mostra sempre é o contrário: alimentação é
+rotina de casa, em horário fixo, e o que se faz em pausa tática é **recarregar essência com
+pedras primordiais**, não dar comida. A leitura prática — e é leitura nossa, não regra declarada
+— é tratar alimentação como atividade de tempo livre e recarga como atividade de pausa.
+
+**Quanto tempo leva uma refeição?** A obra não informa. Não há uma única passagem que cronometre
+o ato de comer de um Gu comum. (No patamar imortal existe um número isolado e enorme: um Gu
+Imortal que se sacia depois de **oito dias e oito noites** submerso na água de que se alimenta —
+mas isso é a exceção do topo, não a régua.) Se a mesa precisar de um tempo para o dia a dia, é
+campo livre.
 
 ### Exemplos de dietas documentadas
 

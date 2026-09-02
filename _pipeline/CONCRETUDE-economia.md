@@ -99,6 +99,99 @@ tem 20 itens):
 
 ---
 
+## `04 - Vida Cotidiana`
+
+Passe sensorial. Acrescentadas quatro seções novas e duas subseções, todas montadas para que
+a designer **consiga descrever uma vila em voz alta**.
+
+### Seções novas
+
+- **"Por dentro de uma casa"** (subseção de *Onde as pessoas moram*) — quatro interiores
+  descritos: a casa de montanha sobre palafitas, a casa de caçador na floresta, o quarto
+  alugado de um pobre, e a taberna da vila (o interior mais completamente descrito da obra).
+- **"As casas que estão vivas"** — casa-lagarto, casas-cogumelo, casa-árvore de semente,
+  joaninhas-cristal que servem bebida.
+- **"Luz, calor e água"** — a escada de iluminação por riqueza, aquecimento, higiene, e a
+  lista do que a obra não descreve.
+- **"O que está de fato na mesa"** (subseção de *Comida*).
+- **"Como as pessoas se vestem"** — o sistema de cinto e placa de rank, e o contraste
+  mortal × Mestre Gu.
+- **"O que puxa a carroça"** (subseção de *Viagem*) — o bestiário de transporte.
+- **"Uma vila em voz alta"** — seção de fechamento que remonta tudo na ordem de um dia,
+  para leitura única antes de uma sessão.
+
+### Achados principais, e de onde
+
+| Fato | Capítulo |
+|---|---|
+| Casa de montanha: 2 andares, primeiro andar são **estacas grossas**, moram no segundo | 3 |
+| Paredes de bambu "como jade" ao luar | 17, 100 |
+| Casa de caçador: casca grossa, musgo verde, cerca de bambu-lança, hortas, poço cavado à mão; 4 quartos + sala + cozinha; fogueira de chão ligada à chaminé | 67, 68 |
+| Quarto de pobre: assoalho que range, cobertor remendado com algodão amarelo escapando; lista de compras completa para mobiliar (mesa, cadeira, colchão, lençóis, 2 cobertores, lamparina, 2 potes de óleo, fogão) | 90, 91, 92 |
+| Cabana de sapé, esteira de palha, um único conjunto de roupas remendadas | 1318 |
+| Taberna: adega subterrânea, ladrilho preto quadrado, 8 mesas, balcão marrom-escuro com pincel/tinta/**ábaco**, jarros de cerâmica preta e porcelana clara, 16 livros-caixa em papel de bambu verde-claro | 103 |
+| Pátio com árvore-alfarroba cobrindo tudo como dossel | 63 |
+| **"Lanternas eram um luxo para gente comum; a casa ficava escura à noite, a única luz vinha da lua pela janela"** | 229 |
+| Lamparina a óleo que apaga quando o óleo acaba; óleo vendido em potes | 90, 91 |
+| Velas que iluminam o centro do cômodo e deixam os cantos escuros, encolhendo ao queimar | 17 |
+| **Pedra de carvão** na cidade interna: queima muito, sem fumaça, em nichos a cada cem passos; deixa a cidade mais quente e mais seca | 261 |
+| Fogão de ferro com fuligem, lenha seca ao lado, chaleira de bronze em cima | 74 |
+| Mina de carvão de graça fora da vila | 92 |
+| Limpeza sazonal do fogão de inverno, bacia de água suja | 129 |
+| Higiene matinal: bacia de água morna, bochecho, **galho de salgueiro com sal fino** nos dentes | 3 |
+| Bacia de água quente + toalhas de pano levadas ao quarto da hospedaria | 17 |
+| Poço, balde, "encher o tanque de água" e rachar lenha como rotina | 67, 229 |
+| **Casa-lagarto**: rank 2, tamanho de ônibus, olhos são janelas, boca é a porta, corredor com duas fileiras de quartos, privada no fim, defeca levantando a cauda, anda quando a tribo migra | 439 |
+| **Casas-cogumelo**: chapéu cinzento redondo escoando a chuva, caule circular, paredes brancas com janelas; dezenas formam um bosque; ali moram os anciãos e os ricos | 439 |
+| **Casa-árvore**: 18 m, raízes como cobras enroscadas, três andares no tronco, cresce de semente com essência primordial e volta a ser semente | 439 |
+| **Joaninhas-cristal** do tamanho de cestos nas paredes de pano, corpo transparente mostrando o licor; o atendente encosta a taça no bocal e faz carinho no casco | 44 |
+| Arrozal amarelo-alaranjado no outono, canteiros de folha gorda | 119 |
+| "O ar cheio de aroma de comida; famílias reunidas à mesa conversando alegremente" | 229 |
+| Pão no vapor distribuído em cesto | 235 |
+| Porco só no ano novo (topografia íngreme impede criar gado) | 64 |
+| Carne salgada + biscoito seco como ração de viagem | V2 |
+| Chá em xícara de bambu, folhas sopradas antes de beber; chá específico contra ressaca; café da manhã reaquecido a pedido | 17 |
+| Carta de mais de cem vinhos, com cinco nomes citados literalmente | 44 |
+| Hospitalidade nômade: **kumis** em odre de couro; o chefe corta olhos de vaca e ovelha e a carne do dorso, serve em **prato de ouro com as duas mãos** | 439 |
+| **Cinto de rank**: r1 azul/verde com placa de bronze "1"; r2 vermelho com placa de aço "2"; r3 branco com peça quadrada de prata "3" | 12, 31, 110 |
+| Uniforme completo r1: traje azul-escuro, perneiras de bambu, sapatos de bambu, faixa azul-viva, cinto azul-marinho | 87 |
+| Variante de luxo: roupão dourado, cinto rendado, peça quadrada de jade em vez de placa | 42 |
+| Rua com descalços, lavradores enlameados, colhedores de ervas, caçadores com faisões e javalis — e Mestres Gu "limpos e animados" | 31 |
+| Mestre Gu na miséria tecendo as próprias sandálias de palha para vender | 61 |
+| Estepe: túnicas de pele; fios de ouro/púrpura para os melhores; pobres de roupa rasgada remendada; **escravos quase sem roupa**, magros e pálidos | 439 |
+| Vestidos bordados a ouro e prata na dança em torno da fogueira | 524 |
+| Roupão de pele de raposa-da-neve | V3 |
+| Transporte: avestruz puxando carroça de duas rodas | 39 |
+| Caravana: besouros pretos gordos com gente e carga nas costas, avestruzes de penas coloridas, aranhas peludas de montanha, serpentes aladas | 109 |
+| **Lobo-corcunda**: as duas corcovas formam a sela | 437 |
+| **Cavalo de estômago grande**: dois estômagos, um para comer e outro para carga; usado em mudanças | 427 |
+| Boi de chifre curvo para famílias remediadas | V3 |
+| Jangada de bambu com corda de cânhamo, mastro tosco, vela branca puída | 200 |
+| Vias da cidade interna largas para **dez carroças lado a lado** | 261 |
+| **Vigia noturno batendo matracas de madeira** antes do amanhecer | 3 |
+| Galo cantando ao amanhecer | 231 |
+| Feira: barracas provisórias em volta da vila ao entardecer, pregões gritados com preço | 39 |
+| Depois da feira: grama pisoteada virando lama, buracos com água de chuva, lixo | 40 |
+
+### Marcações
+
+- `(ded.)` **A progressão do cinto de rank.** A obra descreve três degraus em cenas
+  separadas (r1, r2, r3) e nunca publica a tabela; a regra implícita — a cor muda a cada
+  rank e o metal da placa fica mais nobre — é leitura nossa e está marcada como tal na nota.
+- Todo o resto é descrição literal de cena.
+
+### Lacunas registradas na própria nota
+
+**Sabão não existe** na obra (a única ocorrência da palavra é expressão idiomática);
+**latrina e penico domésticos** nunca descritos (a única privada descrita no mundo é a da
+casa-lagarto); **casa de banhos** não existe como instalação de vila; **objetos de toucador**
+(pente, espelho doméstico) inexistentes; **roupa de inverno de mortal** nunca descrita — o
+frio se resolve sempre com fogo. Também não há, em nenhum lugar da obra: **Gu doméstico de
+iluminação** de uso civil, cena de **casamento** ou de **funeral de aldeão** em andamento, e
+nenhuma menção a **instrumentos musicais ou canções**.
+
+---
+
 ## Perguntas que a obra NÃO responde
 
 Registradas nas próprias notas como lacunas explícitas, para que a designer saiba que ali

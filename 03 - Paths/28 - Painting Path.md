@@ -167,6 +167,24 @@ e portanto o mundo — e o narrador — só vê os efeitos.
 > de golpe, uma estrutura de assinatura (o mundo dentro do quadro) — e **nenhum item**. Invente à
 > vontade: nada do que você criar vai contradizer o cânone, porque o cânone não diz nada.
 
+## Em combate e fora dele
+
+**Em combate**, o caminho da pintura é **uma arma de assimetria de informação**. Ele não tem uma
+curva de poder documentada nem um perfil ofensivo típico — tem três golpes visuais nomeados e uma
+constatação repetida por quem apanha dele: *meus ataques não conseguem se livrar deles, e eu também
+não consigo me ocultar com meus métodos defensivos*. Quem não cultiva o caminho simplesmente **não
+tem jogada**.
+
+O uso mais alto que a obra registra é como **modificador**: o praticante desfere golpes de outro
+caminho **no estilo da pintura**, e o golpe fica mais forte. Isso significa que, numa mesa, o
+caminho da pintura raramente é o que o personagem *faz* — é o que torna melhor tudo o que ele já
+fazia.
+
+**Fora de combate**, ele é uma tecnologia de **prisão e de simulação**. O mundo-pintura sela
+pessoas, esconde quem está dentro, e serve de laboratório: a maior estrutura do caminho existe para
+reproduzir um milhão de anos de vida mortal e extrair dali as fundações de outra escola inteira. É
+uma das poucas coisas no cenário que funciona ao mesmo tempo como masmorra e como universidade.
+
 ## Sinergias e fraquezas
 
 **Combina com:** por definição, **com tudo**. Esta é a característica central do caminho — ele

@@ -535,3 +535,156 @@ Três refinamentos que tornam a sexta via jogável:
 > **golpe de disfarce** antes do golpe final. A moldura da passagem é ainda mais reveladora —
 > "batalhas são perigosas e aterrorizantes" —, ou seja, o mundo considera matar em combate um
 > método **pouco confiável** de obter alguma coisa.
+
+### A pergunta que se faz antes de lutar
+
+A obra registra uma avaliação completa de "podemos ganhar isto?" que funciona como
+procedimento pronto de mesa. Diante de uma criatura de rank 3 com três Gu — um de ataque, um
+de defesa e um de cura —, a conclusão foi que os três aspectos básicos estavam **cobertos**, e
+a análise seguiu cinco passos:
+
+1. **Inventariar os Gu do inimigo e classificá-los por função** — ataque, defesa, cura,
+   movimento.
+2. **Perguntar se alguma coisa no próprio arsenal fura aquela defesa** — e a que custo. No caso,
+   uma única peça furava, e ficaria mutilada ao fazê-lo.
+3. **Perguntar se ele cura mais rápido do que se consegue feri-lo.**
+4. **Perguntar se ele pode ir embora.** No caso, podia: cavava e voltava para a toca.
+5. **Se as respostas forem ruins, não lutar** — e usar informação para pôr terceiros no lugar,
+   atraindo outros predadores para que se enfrentassem entre si.
+
+O passo 5 é a doutrina real do mundo. A obra diz, de um combatente experiente, que **se as
+chances de vitória são pequenas, ele evita o combate** — e trata isso como sabedoria, não como
+covardia.
+
+Do outro lado da mesma moeda está a contabilidade em porcentagem, que a obra faz **durante** a
+luta: *"onze por cento de essência: isso são duas lâminas de luar, ou aguentar dois ataques
+surpresa. Depender só dos Gu de defesa não serve. Minha única chance é o instante em que ele
+atacar."* Cada ponto percentual é convertido em ações restantes, e a decisão sai da conta.
+
+### O que anula uma via
+
+Nenhuma via é confiável sozinha, e a obra mostra o contra-jogo de cada uma:
+
+| Via | O que a anula |
+|---|---|
+| Rank | terreno adverso, emboscada, arsenal inesperado, cerco |
+| Arsenal | não ser identificado — quem luta escondendo o próprio arsenal para não ser reconhecido perde parte da força que tem |
+| Informação | segredo do outro lado; e um caminho novo, que ninguém sabe contrariar |
+| Terreno | destruí-lo, ou lutar num palco formal que o neutraliza |
+| Número | um duelo formalizado, que impede os outros de entrar; e um degrau de poder grande demais |
+| Atrito | motor de recuperação — cura, absorção contínua, pedras primordiais no bolso |
+
+A linha do atrito merece número: existe um Gu que absorve energia do ambiente **por instinto,
+sem dividir a atenção do usuário**, e quem o tem "pode lutar até **três vezes mais tempo**".
+Motor de recuperação é uma categoria de item que vale mais que dano.
+
+E há uma família de efeitos desenhada exatamente contra essa categoria: **ferimentos que não
+cicatrizam**, que se agravam com o tempo em vez de sarar. Contra um oponente que cura, é a
+resposta estrutural — e o assunto está em [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]].
+
+## Rank contra rank
+
+Aqui está a régua que o cenário oferece, e ela é mais dura do que a de quase qualquer ficção do
+gênero.
+
+### O que vale um degrau
+
+Cada rank se divide em quatro estágios — inicial, médio, superior e pico. A obra chama vencer
+alguém um **estágio** acima de "cruzar ranks para lutar", e vencer alguém um **rank inteiro**
+acima de "cruzar reinos para lutar". A diferença de vocabulário não é decorativa:
+
+> Quanto mais alto o cultivo, **maior fica a diferença entre cada estágio**, e mais difícil
+> cruzar para lutar — que dirá cruzar reinos inteiros.
+
+O alcance típico de um lutador muito bom, com experiência farta e bom arsenal, é **um estágio**
+— não um rank. E a obra quantifica o resto:
+
+| Situação | Chance de vitória |
+|---|---|
+| Cultivador de rank 3 excepcional (arsenal muito bom, séculos de experiência) contra um rank 4 no estágio inicial | **30%** — e o texto comenta que, dada a diferença de um reino inteiro, trinta por cento *já é notável* |
+| O mesmo cultivador, depois de acrescentar **um único Gu certo** ao arsenal | **60%** |
+| Um consumível de topo acrescentado a um duelo entre iguais de rank 5 | **+20 pontos percentuais** |
+
+Guarde a segunda linha: **um Gu novo e adequado dobra a chance de vitória**. Ela sozinha
+explica por que este mundo gira em torno de adquirir bichos e não de treinar.
+
+Quando a diferença passa de um rank, a luta deixa de existir: a obra registra um rank 4 no
+estágio superior que **não aguentou um único golpe** de um adversário acima dele. E cruzar
+reinos com sucesso é tratado como **notícia** — observadores reagem a isso perguntando quem é
+aquela pessoa, porque não é o esperado. Quando acontece, quase sempre há um fator externo: um
+corpo excepcional, um terreno especial, um item de rank superior, uma emboscada.
+
+### Muitos fracos contra um forte
+
+A resposta da obra é em duas partes, e as duas importam.
+
+**Quando o número vence**, ele vence por atrito, não por dano. Os casos com aritmética
+explícita:
+
+| Alvo | Quanto custa |
+|---|---|
+| Um rei-fera de porte médio | **três** Mestres Gu de rank 3, ou **três grupos** bem coordenados |
+| Um rank 5 | **dois** rank 4 no pico, com anos de entrosamento |
+| Um rank 8 | **vários** rank 8 coordenados — e a obra diz que provavelmente venceriam |
+| Uma criatura poderosa, com ilusões descartáveis | cerca de **dez para um**, com baixas |
+
+**Quando o número não vence** — que é o caso mais comum — a formulação é seca: *a diferença de
+força de combate era grande demais, e eles não podiam reivindicar a vitória apenas com
+vantagem numérica*. Há registro de tropas de elite de rank 2 lideradas por rank 3 que "jamais
+seriam páreo" para um único rank 5, e de um imortal sozinho controlando a situação inteira
+contra um grupo que o superava em número.
+
+E há o degrau abaixo disso, que é o mais útil para uma mesa: diante de um rei-fera, **todos os
+Mestres Gu de rank 1 e 2 simplesmente fogem aterrorizados**. Não é desvantagem, é
+irrelevância. A regra prática que sai daí:
+
+> **Número decide dentro do mesmo patamar. Contra um patamar acima, número é combustível —
+> pessoas convertidas em gasto de essência alheia.**
+
+Três detalhes que temperam isso:
+
+- **Cerco tem número mínimo.** A obra registra quatro pessoas que "mal davam para formar um
+  cerco" e o cerco desmoronando assim que uma saiu. Abaixo do mínimo, o cerco deixa de existir
+  como coisa.
+- **Cerco anula mobilidade.** A maior vantagem de uma criatura veloz — a velocidade — fica
+  restrita quando ela está cercada. É por isso que cercar é a maneira canônica de tornar um
+  inimigo *matável*, e não apenas derrotável.
+- **Duelos sequenciais são um presente ao veterano.** A obra o diz com todas as letras: se
+  viessem todos juntos, dariam trabalho; vindo um a um, foi mais tranquilo que da primeira vez.
+
+## Lutar em grupo
+
+O grupo neste mundo não é um amontoado de fichas: é uma **estrutura de papéis**, e a obra a
+publica. A unidade tática do mundo mortal é o **grupo de cinco** — reconhecimento, ataque,
+defesa, cura e apoio —, e clãs grandes usam **sete**, com o investigador à frente, o líder e o
+resistente no centro e o curandeiro atrás protegido por um defensor. A composição e a vida
+social desses grupos estão em [[14 - Guerra Organizada|Guerra Organizada]].
+
+O que interessa aqui é o que um grupo faz que um indivíduo não faz:
+
+**Cobrir as duas faixas de distância.** Como quem não cobre perto e longe perde, um grupo
+resolve por composição o que um indivíduo teria de resolver comprando Gu.
+
+**Revezar em turnos cronometrados.** A obra registra um plano de assalto em que três
+combatentes se alternam e **cada um precisa aguentar quinze minutos** antes de o próximo
+entrar. Rotação é doutrina, não improviso — e é uma forma de administrar reservas de essência
+em nível de esquadrão.
+
+**Segurar para que outro execute.** O contra-jogo canônico do atrito é **matar o comandante**;
+o contra-contra-jogo é um membro do grupo **prender** o assassino de modo que ele não alcance
+o comandante. Papéis de controle existem porque existem papéis de execução.
+
+**Comprar tempo de ativação.** "Preciso de tempo para ativar a segunda camada da formação —
+segurem e ganhem tempo" é uma fala literal da obra. Num sistema em que golpes grandes exigem
+preparo e a interrupção os anula, **o grupo é o que compra a janela**.
+
+**Disparar golpes que exigem várias pessoas.** Há golpes que simplesmente não ativam com menos
+de três usuários, e golpes cooperativos em que dezenas de anciãos disparam juntos. As
+categorias estão em [[07 - Killer Moves|Killer Moves]].
+
+> [!warning] Cooperação não é automática
+> Duas ressalvas que a obra faz questão de registrar. Primeira: certos caminhos **se atrapalham
+> entre si** — dois especialistas em controle de feras, juntos, fazem "um mais um valer menos
+> que dois", porque os bandos se interferem. Segunda: a fraqueza estrutural de um time é que,
+> **quando a cooperação quebra, cada membro vira o fardo do outro** — e interferência externa
+> deliberada na formação é uma tática reconhecida justamente por isso.

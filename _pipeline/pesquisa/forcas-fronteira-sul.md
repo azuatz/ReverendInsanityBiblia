@@ -377,6 +377,13 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   the five great generals of Shang clan, Wei Yang **controlled the intelligence agency Feng
   Yu Manor**, thus it was easy for him to get all the information he wanted", inclusive a
   ordem dos lotes de um leilão e a identidade dos convidados.
+- **O comércio de escravos** — **cap. 329** (V2 l. 26060–26064): "In the world, there was slave
+  trade. **Any strong or affluent first-class clan, or super clan, would engage in slave
+  business.** Shang clan's slave trade was handled by **the head of the five clan elders, Shang
+  Bu Li**, personally. **Slave trade was too profitable, the higher-ups were not confident of
+  letting an external elder handle it. In history, only Shang clansmen were in charge of it.**"
+  Existe também um **grupo de captura de escravos** para o qual jovens mestres rebaixados são
+  mandados como castigo, por três anos (**cap. 311**, V2 l. 22390).
 - **Os cinco generais** de Shang Yan Fei: nomeados na obra, Wei Yang é o **terceiro** e
   **Yi Huo** é o **quinto** (**cap. 306**, V2 l. 21459).
 - **O cofre ancestral, a Living Treasure Door / Porta do Tesouro Vivo** — **cap. 273–274**
@@ -851,3 +858,182 @@ Fonte principal: **cap. 1035** (V5 l. 2586–2660), com complementos em **cap. 1
   imortais.
 
 ---
+
+## 6. Forças fora dos treze: decadentes, antigas e de segunda linha
+
+### 6.1 Clã Fei — o super clã que sumiu da lista
+
+- **cap. 228** (V2 l. 5797): o clã Wu, no auge de Empress Wu Ji, suprimia "**Tie clan, Shang
+  Clan, Fei Clan**" — ou seja, na contagem mais antiga o clã Fei está entre os três maiores
+  depois do Wu.
+- **cap. 229** (V2 l. 6088): "Shang clan was one of the top forces of the Southern Border,
+  **not weaker to Tie clan and Fei clan**."
+- **cap. 231** (l. 6428): uma aliança capaz de segurar a cobiça do mundo inteiro precisaria ser
+  "at least **Wu clan, Fei clan, Tie clan and Shang clan**".
+- **Do que era conhecido:** o vinho de altíssima qualidade **Zhuang Si Fei** — **cap. 411** (V3
+  l. 909): "**Southern Border's Fei clan possess a top quality wine Zhuang Si Fei**", citado no
+  mesmo fôlego que o mar de vinho de um rank 7 do Mar do Leste e o vinho da longa vida da Corte
+  Imperial do norte.
+- **cap. 306–307** (V2 l. 21459, 21576): tem anciãos com peso em leilões (**Fei Luan Feng**) e
+  disputa mercado com o clã Yi.
+- **Mas não está na lista madura dos treze** (**cap. 1610**). A obra **não explica** a queda.
+  `—` Lacuna declarada; é um buraco confortável para a designer preencher.
+
+### 6.2 Clã Xiao da Fronteira Sul — super força rebaixada
+
+**cap. 962** (V4 l. 54245–54247):
+> "Rumors had it that **Southern Border's Xiao clan and Western Desert's Xiao clan were of the
+> same origin. A thousand years ago, there was an internal conflict within Western Desert's
+> Xiao clan, resulting in the losing side leaving and moving to Southern Border.** Southern
+> Border's Xiao clan **was once a super force**. But its final remaining Gu Immortal, Xiao
+> clan's supreme elder, had **not appeared for the last hundred years**, it caused Xiao clan to
+> **fall from a super force to a large scale force**."
+
+Regra estrutural que isso ensina: **um clã cai de categoria pela ausência de um único imortal**.
+Complemento (**cap. 998**, V4 l. 61229): esse ancião desaparecido foi "**the first Gu Immortal in
+Southern Border to start refining battle will in the Immortal Gu House**", e os outros imortais
+da região torciam ativamente para que a vantagem dele fosse anulada (**cap. 999**, l. 61248–61250).
+
+### 6.3 Clã Zhou — o clã aniquilado
+
+**cap. 325** e **cap. 333** (V2 l. 25281, 26650) e **cap. 1072** (V5 l. 9918): Zhou Quan era líder do clã Zhou,
+rank 4; "after there was an internal strife, and the clan got **slaughtered by demonic Gu
+Masters**, he escaped with heavy injuries, thus only having rank three upper stage cultivation
+left." Hoje toca lojas na cidade do clã Shang e é o melhor gerente de todos, movido pela ideia de
+**reconstruir o clã**. É o modelo canônico de "clã morto que ainda tem um herdeiro vivo".
+
+---
+
+## 7. A escala de baixo: clãs médios e pequenos (a régua que a designer precisa)
+
+### 7.1 Qing Mao Mountain — a montanha-modelo de três clãs
+
+- **cap. 74** (V1 l. 10160): "**Qing Mao mountain did not only have the Gu Yue clan, but also
+  the Bai clan and Xiong clan.**" **cap. 65** (l. 8825): "Other than the three villages, there
+  was also **tens of tiny villages at the mountain foot, all being inhabited by mortals.**"
+- **Gu de assinatura, um por clã, inegociáveis** — **cap. 123** (V1 l. 18620): "Of course, **Gu
+  Yue Clan's Moonlight Gu, Xiong clan's Bear Strength Gu and Bai clan's Stream Gu** were the
+  clan's signature, and **would not be exchangeable**."
+- **O Gu de assinatura é segredo industrial** — **cap. 8** (V1 l. 955): "Known as the **Moonlight
+  Gu**… **it was not a Gu of nature; it was a breed that was cultivated with a secret method by
+  the Gu Yue clan. The Moonlight Gu could not be found anywhere else**; it could be said that
+  this Gu was **a symbol of the Gu Yue clan.**" Muitos membros o escolhem como Gu vital.
+- **Especialidades:** "**the Xiong clan specializes in strength**" (**cap. 121**, V1 l. 17773) —
+  e por isso o clã Gu Yue os contrata quando precisa mover algo grande.
+- **A cooperação forçada:** durante uma maré de bestas as três aldeias montam uma aliança e uma
+  **lista de contribuições** com os Gu guardados de cada clã, trocáveis por mérito (**cap. 123**,
+  V1 l. 18489 e l. 18524: "Under the wolf tide, **non-alliance means destruction**. But after
+  forming an alliance, the biggest problem is **how to distribute the interests and profits**").
+  Fora da crise, voltam a se assassinar: **cap. 74** (l. 10714–10716) — quando um clã produz um
+  talento de grau A, os vizinhos mandam assassinos.
+- **O custo de uma maré de bestas:** **cap. 112** (V1 l. 16559) — "the wolf tide caused Qing Mao
+  mountain's three clans to suffer a great reduction in clan members… **at least half the
+  population was wiped out.**"
+
+### 7.2 A régua de porte, em números canônicos
+
+- **Clã médio (Gu Yue):** **cap. 55** (V1 l. 7270) — "**Within the Gu Yue clan, only the clan
+  leader is Rank four**… while the other clan elders were all **Rank three**." **cap. 31**
+  (l. 3703): "in the entire history of the Gu Yue clan, there were only the **first generation
+  clan head and the fourth generation clan head** who had reached [rank 5]." E **cap. 31**
+  (l. 3709): "the Gu Yue Clan managed to monopolize one of the best resource locations in Qing
+  Mao Mountain. But… **the Gu Yue clan could only be considered as a middle-low tier clan.**"
+- **Clã grande (família Jia, mercadores):** **cap. 55** (V1 l. 7272) — "The Jia family head was
+  at an even higher cultivation level. He was a **Rank five**, and under his lead the Jia family
+  rose to prosperity, becoming a **large sized clan and possessing the resources of an entire
+  mountain**, with a large number of clansmen. **Compared to them, Gu Yue clan was just a middle
+  sized one.**"
+- **Super clã:** rank 8 no topo (Wu, Shang, Xia, Chi, Ba, Yao), imortais de rank 6–7 às dúzias,
+  Casas de Gu Imortal próprias — e mesmo assim clãs como Chai e Qiao têm apenas rank 7 no topo
+  (§2.8, §2.12).
+- **Fundação de um clã médio** — **cap. 4** (V1 l. 550): "Hundreds of years ago, the Gu Yue clan
+  came to Qing Mao Mountain and settled down **after migrating from the central lands to the
+  South Border**. It was when they found **a spirit spring in this underground cave. This spirit
+  spring produces a large number of primeval stones — it could be said that this was the
+  foundation of the Gu Yue village.**"
+- **A linhagem como ativo genético** — **cap. 4** (V1 l. 582): a média mundial é 5 em 10 pessoas
+  com talento para virar Mestre Gu; no clã Gu Yue é **6 em 10**, "because the Gu Yue clan's
+  ancestor — the first generation clan leader — was a famous, legendary and powerful man. **Due
+  to cultivation reasons his bloodline carried powerful genes**". E o inverso também é regra
+  (l. 604): "**the bloodline is getting thinner. These few years the clan hasn't had any rank
+  four masters to strengthen the bloodline.**"
+- **Outros clãs pequenos e médios nomeados na região:** clã Zhang (inimigo hereditário do clã
+  Shang), família Jia (mercadores, rank 5), clã Wei Chi, clã Chen, clã Tang, clã Song, clã Shen,
+  clã Lin, clã Ju — a obra em geral só dá o nome. `—`
+
+---
+
+## 8. Prestadores independentes e títulos regionais
+
+### 8.1 Os Quatro Grandes Médicos da Fronteira Sul
+
+- **cap. 271** (V2 l. 14233): "in the southern border, she, **Travelling Doctor Jiu Zhi, Divine
+  Doctor Sheng Shou, and Killer Ghost Doctor** are the **four great doctors**" — a quarta é
+  **Doctor Su Shou**, rank 5 (**cap. 306**, l. 21445).
+- **Atendem os dois lados** — **cap. 375** (V2 l. 34354): "**The four great doctors healed both
+  demonic and righteous**"; quando o Médico Fantasma Assassino subiu a San Cha Mountain, foi
+  convidado com honras por um figurão do caminho correto e os dois beberam juntos num banquete.
+- **Monopólio técnico:** **cap. 388** (V2 l. 36512) — o veneno do *jade sky Gu*, da era
+  imemorial e já extinto, "in the current southern border, **only the four great doctors can
+  cleanse it**."
+- **O mecanismo do Médico Fantasma Assassino (Chou Jiu), rank 5** — **cap. 384** (V2 l. 35871),
+  na primeira pessoa: "I know the door's location [a **porta da vida e da morte**], not only
+  that, I have even explored it multiple times and **captured some of the life Gu and death Gu
+  inside, eventually refining one life one death Gu**. I placed this Gu inside the door of life
+  and death, **every time a person dies because of me, it will absorb this death energy and
+  convert it into lifeforce.** Because of this lifeforce, my healing methods are extremely
+  profound. **This is the reason why I became one of the four great doctors of southern
+  border.**"
+  > Correção a registrar: o rascunho antigo do vault descrevia esse médico como quem "cobra a
+  > cura em troca de uma vida a ser tirada pelo próprio paciente". O canônico é mais forte e mais
+  > específico: **ele próprio precisa matar**, e cada morte causada por ele vira combustível de
+  > cura.
+- **As esquisitices dos outros** — **cap. 385** (V2 l. 36062): "**Travelling Doctor Jiu Zhi
+  likes to disguise himself as an old beggar and wander around aimlessly. Divine Doctor Sheng
+  Shou is a male who likes other males.**" (A obra **não** diz que algum deles só atende belos e
+  ricos — isso não foi encontrado no texto e sai da nota. `—`)
+- Chou Jiu tem pouca força de combate apesar do rank 5 (**cap. 375**, l. 34346).
+
+### 8.2 O Investigador Divino e o "Grande Senhor Tie"
+
+- **Divine Investigator Tie Xue Leng** — ver §2.3.
+- **Tie Qu Zhong, "Great Sir Tie"** — **cap. 1604** (V5 l. 107543): "Tie clan's Tie Qu Zhong had
+  impressive battle achievements in the current Southern Border Gu Immortal world, and was known
+  as **Great Sir Tie**! When he made his debut, he had **captured and killed over ten demonic
+  path Gu Immortals. Southern Border's demonic immortals trembled at his name.**"
+
+---
+
+## 9. O que a obra não informa (lacunas declaradas)
+
+- **Caminho de casa** dos clãs **Hou** (só sabemos que usa *blade qi Immortal Gu*), **Yao**,
+  **Ba** (só o caminho pessoal de Ba De, madeira) e **Luo** (só o caminho pessoal de Luo Ran,
+  espaço). `—`
+- **Rank e nome** do primeiro ancião supremo dos clãs **Hou** e **Tie** (Tie Mian Shen e Tie Qu
+  Zhong são imortais do clã, mas a obra não os declara primeiro ancião supremo). `—`
+- **Número total de Gu Imortais por clã.** A obra dá regras de escala (§1.1) mas nunca um censo.
+  `—`
+- **População mortal** de qualquer super clã, exceto a informação qualitativa de que o clã Chai
+  tem a maior de todas e que a cidade do clã Shang tem "hundreds of thousands of people". `—`
+- **Por que o clã Fei saiu da lista dos treze.** `—`
+- **Quem nomeia o Investigador Divino** e se o título é um cargo formal ou uma alcunha popular.
+  A obra o trata como pessoa, não como instituição. `—`
+- **Qualquer autoridade central da região** (tipo o Longevity Heaven do norte ou o Tribunal
+  Celestial do centro). Não existe: o que existe é hegemonia informal do clã Wu + as "regras do
+  caminho correto". Verificado por busca; nenhuma menção a corte, éditos ou insígnia regional
+  na Fronteira Sul.
+
+---
+
+## 10. Deixado de fora de propósito
+
+- **Aliança do Sul (Southern Alliance)**, sua criação e liderança: é resultado do enredo do
+  romance, não estado inicial do cenário. Mencionada na nota final apenas como *o que poderia
+  acontecer*, sem gatilho nem desfecho.
+- **Morte, sucessão e desaparecimento de líderes nomeados** (quem morre, quem sobe, quem é
+  substituído): enredo. As fichas dão o cargo, o nome e o rank como fotografia.
+- **A grande batalha correta × demoníaca de Yi Tian Mountain** e o que aconteceu com os reinos de
+  sonho gigantes: enredo. O Atlas do vault já cobre a montanha como zona selada.
+- **Shang Xin Ci e a sucessão do clã Shang**: enredo puro.
+- **Fang Yuan e tudo que gira em torno dele**: fora por definição. Onde uma citação o
+  mencionava, a informação foi extraída sem ele.

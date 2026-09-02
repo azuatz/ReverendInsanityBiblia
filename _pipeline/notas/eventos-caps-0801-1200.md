@@ -711,6 +711,35 @@ ambientação, mão de obra, tropa ou vítima.
   preso num selo enquanto o céu desaba é situação suficiente.
 - **Lacunas:** a obra não descreve a estrutura completa da formação nem quantos sobreviveram.
 
+### O refino público do fortune rivalling heaven Gu — cap. 1145
+
+- **Tipo:** evento-espetáculo de escala regional; um único artesão trabalhando, e uma região
+  inteira paralisada olhando.
+- **Onde:** Northern Plains, na base de um rank 8 do path demoníaco.
+- **O que acontece:** um Gu Immortal **rank 8** monta abertamente uma **Gu formation de
+  refinement path** para refinar o lendário **fortune rivalling heaven Gu** (o Gu que rivaliza
+  com o céu, um Gu de sorte). Não há disfarce nem sigilo: **a luz da formação sobe até o céu e
+  brilha por sete dias e sete noites** antes de se dissipar lentamente.
+- **Por que ele faz isso:** ele está tentando passar sua **primeira myriad tribulation** — o
+  degrau final antes do rank 9 — e "não poupou despesas" para conseguir esse Gu. Ou seja: o
+  evento inteiro é o preparo de um homem para uma única prova.
+- **Reação do mundo (a parte útil para a mesa):** "forte turbulência" no mundo imortal
+  inteiro — e, logo depois, **um silêncio estranho**. A regra explicitada: **num evento dessa
+  magnitude só os rank 8 têm voz.** Enquanto os outros três ou quatro rank 8 da região não se
+  pronunciam, "por mais que os rank 6 e 7 clamem, não adianta nada". Uma facção de humanos
+  variantes com força equivalente a rank 8 avalia intervir e desiste sozinha, calculando que
+  tomar o Gu significaria **expor-se e atrair a perseguição conjunta de todo o mundo imortal
+  humano** da região.
+- **Papel possível de um grupo pequeno:** personagens de rank baixo aqui são espectadores
+  impotentes — e é exatamente esse o valor do evento: mostra a diferença entre escalas. Ganchos:
+  mercenários contratados para vigiar o perímetro, ladrões calculando um golpe impossível,
+  mensageiros levando a notícia entre as super forças, ou o grupo que precisa aproveitar
+  aqueles sete dias porque **todos os poderosos estão olhando para o outro lado**.
+- **Consequência para o mundo:** se der certo, "a força dos Gu Immortals humanos daquela região
+  sobe outro degrau" — e o equilíbrio entre humanos e humanos variantes piora ainda mais.
+- **Cuidado de spoiler:** ficam de fora quem é o refinador, de onde veio o Gu, e o resultado.
+- **Lacunas:** a obra não descreve o interior da formação nem os materiais usados.
+
 ## Eventos recorrentes e institucionais
 
 ### Refinement Path Convention (Convenção do Caminho do Refino) — caps. 828-859
@@ -1084,7 +1113,196 @@ ambientação, mão de obra, tropa ou vítima.
   e uma rede social de exploradores para dar missões e comprar informação.
 - **Lacunas:** a obra não mapeia a zona nem diz quantas bolhas existem.
 
+### O ritual da Infallible blessed land e a colheita de success dao marks — caps. 843-847
+
+- **Tipo:** ritual periódico de uma potência oculta; a engrenagem secreta por trás do
+  Refinement Path Convention. [segredo]
+- **Onde:** **Hairy Foot Mountain**, uma montanha pequena, feia e sem recursos que ninguém
+  disputa — disfarce perfeito. Por baixo dela está a **Infallible blessed land**.
+- **Origem (contada como lenda dentro do mundo):** o legado do maior refinador de um povo
+  variante, que descobriu que **"toda falha tem valor"**: o método consiste em **reunir os
+  fracassos alheios** e refiná-los em "mortal failure Gu"; acumulados em número suficiente,
+  esses Gu se condensam em **success dao marks** — marcas que garantem o sucesso de um refino.
+- **O ciclo (o mecanismo, com números):**
+  - A cada ciclo, a blessed land acumula até um teto de **36 success dao marks**.
+  - A potência oculta consegue extrair **30** à força; os **6 restantes** ficam reservados para
+    os seis primeiros colocados do Convention e **não podem ser tomados** de forma alguma.
+  - A blessed land é **"perfeitamente selada, sem entradas"**. Abri-la exige **quatro Gu
+    Immortals rank 8 atacando em conjunto**; na ocasião registrada foram necessárias **seis
+    rodadas** de killer moves de rank 8 combinados. Isso é repetido "há milhares de anos", a
+    cada ciclo.
+  - **Por que não conquistam de vez:** forçar mais destruiria a capacidade da terra de
+    "reproduzir suas maravilhas" — ela não se regeneraria para o ciclo seguinte. Tomá-la em
+    definitivo exigiria Gu Immortals **rank 8 de refinement path e de "rule path"
+    simultaneamente**, e cultivadores rank 8 de qualquer um desses dois são raríssimos.
+- **Por isso o Convention é como é:** o evento é mantido aberto a demoníacos, criminosos,
+  mortais e imortais **porque mais participantes significam mais fracassos de refino**, e cada
+  fracasso alimenta o mecanismo. A generosidade do maior evento artesanal do mundo é, na
+  origem, uma operação de colheita.
+- **Para que servem as marcas:** [segredo] a potência oculta as gasta num projeto de restauração
+  de um Immortal Gu de rank 9. No momento registrado, metade das 30 marcas de um ciclo já tinha
+  sido consumida só nesse projeto.
+- **Cuidado de spoiler:** ficam de fora quem é a potência, qual Gu está sendo restaurado e para
+  quê. Para a mesa basta: *existe uma organização que lucra com os fracassos do mundo inteiro e
+  por isso patrocina o maior torneio do mundo.*
+- **Lacunas:** a obra não diz a duração exata de um ciclo (na prática, um Convention, ou seja,
+  cem anos) nem quantas marcas são necessárias para rank 7 ou 8 (só que é "mais de uma").
+
+### O ritual de Recovery of Fate — caps. 871, 879, 886
+
+- **Tipo:** ritual de altíssima escala conduzido por uma potência oculta, em andamento durante
+  boa parte da faixa. [segredo]
+- **Estrutura:** **quatro Gu Immortals rank 8** posicionados nos quatro pontos cardeais em
+  torno de um **Immortal Gu House de rank 9**, operando uma **Gu formation de refinement path**
+  que processa materiais imortais (em grandes quantidades) a velocidade absurda.
+- **Detalhe estrutural interessante:** essa formação é uma **imitação** de um Immortal Gu House
+  rank 8 histórico, reconstruída a partir de registros antigos. Ela **jamais poderá ser
+  promovida a Immortal Gu House de verdade**, porque lhe falta o núcleo — e o original ainda
+  existe, intacto, em outro lugar do mundo. Reforça a regra: **Immortal Gu são únicos; uma
+  cópia sem o núcleo nunca alcança o status pleno.**
+- **Etapas registradas:** (1) processamento de todos os materiais imortais na formação; (2)
+  **"atrair a vontade do céu"** — descrita como o material imortal mais importante de todos.
+  Essa segunda etapa é longa, árdua e letal: a organização **já perdeu vários Gu Immortals
+  rank 8** nela, e os quatro operadores precisam se revezar em turnos de descanso.
+- **Custo de acesso (dado econômico):** usar essa Gu formation custa **30.000 pontos de
+  contribuição** — número citado internamente como dissuasão.
+- **Cuidado de spoiler:** ficam de fora o objeto do ritual, seu propósito e as consequências.
+- **Lacunas:** a obra não diz quanto tempo o ritual inteiro leva.
+
+### A ascensão imortal na northern icy plain — caps. 1053-1057, 1166-1169
+
+- **Tipo:** peregrinação recorrente a um lugar sagrado; um sítio onde a regra normal do mundo é
+  substituída por outra melhor.
+- **Onde:** a **planície gelada do extremo norte** de Northern Plains, destruída e depois
+  recongelada, em tempos imemoriais, por um dos rank 9 Veneráveis (na forma de uma besta
+  imemorial de gelo), usando "gelo absoluto profundo". A planície inteira carrega, gravada nela,
+  a **true meaning** (o sentido verdadeiro) daquele Venerável em **strength path e
+  transformation path**.
+- **A regra normal, para comparação:** quando um Gu Master faz a **ascensão a imortal**, ele
+  puxa qi de céu e terra e nesse processo **se mistura com a vontade do céu**; se fizer
+  perguntas sobre cultivo, a vontade do céu responde. Isso se chama **"inspiração natural"**, e
+  é o único momento da vida em que acontece.
+- **A regra do lugar:** ali, um Gu Master de strength path ou transformation path que faça sua
+  ascensão **não interage com a vontade do céu** — ele se mistura com a true meaning do
+  Venerável. A calamidade da ascensão se manifesta infundida com esse sentido verdadeiro e, ao
+  destruí-la, o candidato recebe uma **infusão de true meaning** equivalente a receber
+  orientação direta do próprio Venerável, e seu attainment nesses dois paths **sobe
+  bruscamente**.
+- **Escala:** **quanto mais forte a tribulação, maior a quantidade de true meaning colhida.**
+- **Limite:** a dádiva vale **apenas na ascensão**. Depois de virar Gu Immortal, as calamidades
+  passam a ocorrer *dentro* da abertura imortal e não geram mais infusão. (Existe um método,
+  caríssimo, capaz de burlar essa regra — ver caps. 1053-1056.)
+- **Consequência social (o gancho de mesa):** existe pelo menos um Gu Immortal que **cria e
+  patrocina discípulos mortais em série** com o objetivo declarado de estar presente na
+  ascensão deles **para colher a true meaning do Venerável** e elevar o próprio attainment. Um
+  mestre generoso pode ser exatamente isso: alguém plantando uma safra. Um grupo de jogadores
+  mortais de strength path convidado a ascender na planície gelada está sendo agraciado **e**
+  usado ao mesmo tempo.
+- **Lacunas:** a obra não diz se existem sítios equivalentes para outros paths, embora o padrão
+  (dao marks de Venerável impregnando uma região) sugira que sim (ded.).
+
 ## Eventos históricos citados
+
+> Eventos aqui não acontecem na faixa: são **citados de segunda mão** (memória, registro
+> histórico, lenda ou explicação de um personagem). Servem de pano de fundo, de justificativa
+> para o estado atual do mundo e de gancho para ruínas e heranças.
+
+### As sete ondas de invasão a Lang Ya blessed land — citado no cap. 872
+
+Numa linha de tempo alternativa relatada de memória, a blessed land sem dono de um rank 8
+morto **resistiu a sete ondas sucessivas de Gu Immortals invasores** antes de cair. A sétima
+onda foi conduzida por uma das maiores potências do mundo, que teve **perdas enormes** —
+inclusive a de uma figura considerada gênio de uma geração — e ainda assim saiu lucrando,
+tal era a riqueza acumulada lá dentro. Uso na mesa: define o **formato "cofre sem dono
+assediado em ondas"**, e dá licença para o mestre rodar quantas ondas quiser antes da queda.
+
+### O duelo que enterrou a Graceful Chaotic Duel Stage — citado no cap. 959
+
+Um Gu Immortal **rank 7** desconhecido derrotou um **rank 8** que possuía o Great Strength True
+Martial Physique, usando um Immortal Gu House de criação própria que **absorvia e selava todos
+os ataques do adversário e os devolvia contra ele** — feito extraordinário de um rank 7 vencer
+um rank 8. Como último recurso o rank 8 **transformou-se em immortal zombie**, corpo quase
+impossível de matar; o vencedor, incapaz de acabar com ele, **abandonou o próprio Immortal Gu
+House** no chão para mantê-lo selado sob a terra. O terreno depois virou planície, depois
+colina, depois montanha. A cena é mostrada em **imagens fantasma** que se repetem no cume.
+Uso na mesa: origem canônica para "por que há um artefato lendário enterrado embaixo desta
+montanha", com a resposta de que **um herói o deixou lá como tampa de um caixão**.
+
+### A era de ouro de Hei tribe — citado no cap. 1101
+
+Um Gu Immortal **rank 8 de time path** liderou sua tribo ao auge por um método específico:
+ele **desacelerava o tempo dentro das aberturas imortais dos Gu Immortals subordinados**. Com
+o tempo interno mais lento, as calamidades e tribulações deles ficavam mais espaçadas e as
+chances de sobrevivência subiam — e, ao longo de gerações, **a tribo passou a ter mais Gu
+Immortals vivos que qualquer outra super força**. Quando ele morreu de velhice, a tribo
+minguou e outras subiram. Uso na mesa: mostra que **poder político no mundo imortal é, no
+fundo, gestão atuarial de mortalidade**.
+
+### As formações de batalha da Olden Antiquity Era — citado nos caps. 883-885, 1105
+
+Categoria de formation path hoje quase extinta, "enterrada no rio do tempo", que permitia a
+**vários Gu Immortals fundirem forças num único corpo de batalha** (almas somadas, essência
+imortal em pool comum, comunicação telepática). Ranking histórico citado: **1º Golden Heavenly
+Saint, 2º Heavenly Giant Solor, 3º Green City Rampage**. Sumiram porque seus pré-requisitos
+eram "estranhos ou rígidos" demais para serem reunidos, e porque os **Immortal Gu Houses** —
+que não exigem nada de path ou rank dos operadores — se mostraram uma solução mais conveniente
+para o mesmo problema. Uso na mesa: é uma **comparação explícita de progresso civilizacional
+entre eras**, e um bom motivo para uma relíquia antiga ser mais forte *e* mais difícil de usar
+que a tecnologia atual. Ainda hoje possuir uma é sinal de super força: quando uma delas aparece
+num campo de batalha, todos entendem que **os quatro maiores anciãos daquela tribo chegaram
+juntos**.
+
+### O Venerável que venceu sem se mover — citado no cap. 917
+
+Antes de chegar ao rank 9, um dos Veneráveis subjugou um famoso Gu Immortal rank 7 usando
+apenas seu battlefield killer move **Unmoving Troops**, que impede de avançar qualquer um que
+entre portando intenção de luta, malícia ou desejo. **Ele não se moveu uma única vez**, e o
+adversário, exercendo toda a sua força, não conseguiu dar um passo a mais na direção dele. O
+derrotado tornou-se guarda-costas do vencedor. Uso na mesa: precedente canônico de que
+**vitória sem violência é um estilo legítimo e respeitado** nesse mundo.
+
+### O congelamento da planície gelada do norte — citado nos caps. 1053, 1166
+
+Um dos Veneráveis, na forma de uma besta imemorial de gelo, **destruiu e recongelou** toda a
+planície do extremo norte com "gelo absoluto profundo", deixando gravados ali dao marks com sua
+true meaning em dois paths. O lugar virou sítio de peregrinação (ver a entrada sobre ascensão
+na icy plain). Uso na mesa: modelo de como um **ato único de um poder máximo vira geografia
+permanente e economia local**.
+
+### A viagem pelos nove céus imemoriais — citado no cap. 1045
+
+Quando um dos Veneráveis do path demoníaco refinou Gu **contra a vontade do céu**, os Gu
+Immortals de uma potência oculta chegaram ao outro lado do mundo depressa demais para ser
+normal — porque usaram um Immortal Gu House de rank 9 para **viajar através do white heaven**,
+uma das camadas dos **nove céus imemoriais**. A regra por trás: cada camada dos nove céus
+**cobre as cinco regiões inteiras**, então quem entra numa delas **ignora as paredes
+regionais**. Pelo mesmo motivo, criaturas originárias dos nove céus circulam livremente entre
+regiões. Uso na mesa: explica logisticamente **como uma potência global consegue responder
+rápido**, e por que só ela consegue.
+
+### O immemorial yellow heaven despedaçado — citado nos caps. 1155-1156
+
+Uma das camadas dos nove céus imemoriais foi destruída, e um de seus **rios celestiais
+metálicos** sobrou como uma **corrente de fragmentos de ouro** que hoje escorre dentro de uma
+zona marítima caótica, carregando Gu de metal path e ouro puro. Uso na mesa: o modelo de
+"destroço cosmológico virando ponto de recurso" — bom para justificar qualquer material
+absurdo num lugar específico.
+
+### O tributo dos que falharam na miríade de tribulações — citado no cap. 1007
+
+Um lendário Gu Immortal de sword path **passou duas myriad tribulations** e era o favorito para
+se tornar o Venerável do sword path. **Falhou na terceira e sobreviveu por pouco**; ao tentar
+de novo, morreu. Em toda a história, **apenas dez pessoas** passaram por três — os dez
+Veneráveis. Uso na mesa: calibra o topo da escala e dá o tom trágico do teto de poder.
+
+### A invasão do rank 9 grotto-heaven e o Calamity Luck Altar — citado no cap. 1190
+
+Um Gu Immortal **rank 8 solitário** invadiu o **grotto-heaven de rank 9** que é a autoridade
+suprema de sua região e **ficou preso dentro do "Calamity Luck Altar"** — permanecendo fora de
+combate por todo o período narrado. Consequência estrutural direta: com um dos poucos rank 8
+neutralizado, a política inteira da região muda, porque **só rank 8 decide qualquer coisa**.
+Uso na mesa: mostra que até no topo existe uma prisão, e que **remover uma peça do tabuleiro
+é uma jogada estratégica válida**.
 
 ## Candidatos a nota própria
 

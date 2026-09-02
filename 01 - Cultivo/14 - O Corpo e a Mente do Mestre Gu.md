@@ -16,7 +16,7 @@ conhecimento: comum
 
 # O Corpo e a Mente do Mestre Gu
 
-**Em uma frase:** subir de rank neste mundo **não melhora o corpo nem a mente de quem sobe** — ele aumenta a energia disponível e a qualidade dela, e é só isso; um Mestre Gu de nível 5 desarmado é fisicamente um adulto comum, precisa comer, precisa dormir, adoece, envelhece e morre.
+**Em uma frase:** subir de rank neste mundo **não melhora o corpo nem a mente de quem sobe** — ele aumenta a energia disponível e a qualidade dela, e é só isso; um Mestre Gu de rank 5 desarmado é fisicamente um adulto comum, precisa comer, precisa dormir, adoece, envelhece e morre.
 
 ## Por que esta nota existe
 
@@ -25,7 +25,7 @@ Esta é a nota que desfaz o mal-entendido mais provável de todos. Em quase toda
 A frase que a obra usa para fechar o assunto é direta: **sem acionar nenhum Gu, um Mestre Gu não é diferente de um mortal.** E ela vem com a exceção colada, o que é ainda mais útil: a diferença só aparece se aquele corpo tiver recebido **[[12 - Dao Marks|dao marks]] gravadas nele** — marcas de lei fixadas na carne por Gu específicos, que são um investimento deliberado e caro, não um subproduto de cultivar.
 
 > [!warning] A consequência prática, em uma linha
-> **Rank é orçamento, não musculatura.** Tirar os Gu de um Mestre Gu de nível 5 e tirar os Gu de um Mestre Gu de nível 1 produz duas pessoas igualmente comuns. É por isso que roubar, destruir ou selar o arsenal alheio é uma tática decisiva neste cenário, e não uma inconveniência.
+> **Rank é orçamento, não musculatura.** Tirar os Gu de um Mestre Gu de rank 5 e tirar os Gu de um Mestre Gu de rank 1 produz duas pessoas igualmente comuns. É por isso que roubar, destruir ou selar o arsenal alheio é uma tática decisiva neste cenário, e não uma inconveniência.
 
 ## O que o rank realmente muda
 
@@ -44,7 +44,7 @@ Muito pouco na pessoa, e muita coisa em volta dela. A lista honesta:
 
 A aura também é a prova pública de rank — é ela, junto com a cor da essência, que permite a um estranho saber com quem está falando sem violar o tabu de inspecionar a [[02 - Abertura|abertura]] de alguém. E ela pode ser escondida: existem Gu de contenção de aura, e um cultivador treinado consegue **selar o próprio cultivo** e liberá-lo depois, o que é a base de todo disfarce sério neste mundo.
 
-**Não muda a força física.** Força bruta vem de Gu do [[04 - Strength Path|caminho da força]] e de reforços corporais, nunca do rank. Um Mestre Gu de nível 1 com os Gu certos levanta mais peso que um de nível 4 sem eles.
+**Não muda a força física.** Força bruta vem de Gu do [[04 - Strength Path|caminho da força]] e de reforços corporais, nunca do rank. Um Mestre Gu de rank 1 com os Gu certos levanta mais peso que um de rank 4 sem eles.
 
 **Não muda os sentidos.** Audição e visão ampliadas existem no mundo, mas como **efeito de Gu**, pago em essência enquanto durar — e o texto mostra até o corpo se deformando visivelmente enquanto o efeito está ligado. Ninguém passa a ouvir melhor por ter subido de rank.
 
@@ -52,10 +52,10 @@ A aura também é a prova pública de rank — é ela, junto com a cor da essên
 
 **Não muda a necessidade de comer.** Mestres Gu comem, bebem e se hospedam como todo mundo — a economia inteira do mundo mortal depende disso. Quem *não* precisa comer é o morto-vivo, e a obra menciona isso justamente como peculiaridade do estado de morto-vivo, o que confirma a regra pelo contraste. Ver [[09 - Longevidade|Longevidade]].
 
-**Não muda a mortalidade comum.** Doença, velhice e ferimento continuam matando. A formulação do mundo é que nem os cultivadores de nível 7 e 8 escapam: eles apenas *vivem um pouco mais*, e as três mortes possíveis continuam sendo velhice, doença e campo de batalha.
+**Não muda a mortalidade comum.** Doença, velhice e ferimento continuam matando. A formulação do mundo é que nem os cultivadores de rank 7 e 8 escapam: eles apenas *vivem um pouco mais*, e as três mortes possíveis continuam sendo velhice, doença e campo de batalha.
 
 > [!note] Para o design
-> Isto resolve, de graça, um problema clássico de balanceamento: **a escada de poder não infla o personagem, infla o equipamento e o orçamento**. Três consequências jogáveis imediatas. (1) Desarmar é uma condição de vitória legítima em qualquer patamar, o que mantém adversários fracos relevantes contra alvos fortes. (2) Cenas sociais, de infiltração e de sobrevivência funcionam igual para todos os níveis — um nível 5 preso numa masmorra sem Gu passa fome como qualquer um. (3) Investir no corpo é uma **escolha de build**, com custo e com efeitos colaterais, e não um bônus automático de nível.
+> Isto resolve, de graça, um problema clássico de balanceamento: **a escada de poder não infla o personagem, infla o equipamento e o orçamento**. Três consequências jogáveis imediatas. (1) Desarmar é uma condição de vitória legítima em qualquer patamar, o que mantém adversários fracos relevantes contra alvos fortes. (2) Cenas sociais, de infiltração e de sobrevivência funcionam igual para todos os níveis — um rank 5 preso numa masmorra sem Gu passa fome como qualquer um. (3) Investir no corpo é uma **escolha de build**, com custo e com efeitos colaterais, e não um bônus automático de nível.
 
 ## O corpo como recipiente
 

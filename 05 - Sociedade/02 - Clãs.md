@@ -135,6 +135,12 @@ não perder autoridade sobre eles.
 
 ## Casamentos e sucessão
 
+> [!info] O lado doméstico tem nota própria
+> Esta seção trata do casamento como **instrumento político do clã**. O funcionamento
+> familiar em si — quantos cônjuges cada cargo pode ter, o que é um filho ilegítimo e o que
+> muda quando ele é reconhecido, como funciona a adoção, o que é o salão ancestral e por que
+> ele é o cartório do mundo — está em [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+
 - **O cultivo é exclusivo da linhagem.** Mortais servos nunca são autorizados a cultivar
   — não por incapacidade, mas por estabilidade política. A única porta de entrada real
   para um forasteiro é o **casamento**.
@@ -157,6 +163,12 @@ não perder autoridade sobre eles.
 O sistema jurídico de um clã não se parece com um tribunal: parece uma tabela de
 indenizações combinada com cálculo político. Não há investigação criminal formal, e o
 princípio operante é a **compensação financeira**.
+
+> [!info] Esta seção é o caso particular; a nota geral é outra
+> O que segue é a justiça **dentro** de um clã. As outras camadas — os regimentos de seita,
+> os juízes itinerantes, a cadeia do clã, os mandados de captura, a pena de escravidão para
+> imortais capturados e a única lista de procurados válida no mundo inteiro — estão em
+> [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]], junto com a tabela completa de penas.
 
 - **A vida de servos e mortais praticamente não tem valor legal.** Matar vários servos de
   um clã custa uma multa de algumas dezenas de pedras. Já ofender um Mestre Gu pode custar

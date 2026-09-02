@@ -7,7 +7,7 @@ aliases:
   - Grande reino e pequeno reino
   - Ranks e Estágios de Cultivo
 status: consolidado
-fontes: ["cap. 4-6", "cap. 74", "cap. 90-91", "cap. 105", "cap. 126", "cap. 156", "cap. 179-181", "cap. 200-202", "cap. 212", "cap. 214", "cap. 216-217", "cap. 230", "cap. 251", "cap. 273", "cap. 275", "cap. 278", "cap. 288", "cap. 301", "cap. 304", "cap. 306", "cap. 312-314", "cap. 326", "cap. 331", "cap. 337-338", "cap. 345", "cap. 351", "cap. 358", "cap. 370", "cap. 373", "cap. 426", "cap. 430", "cap. 469", "cap. 475", "cap. 477", "cap. 493", "cap. 509", "cap. 527-528", "cap. 538", "cap. 571", "cap. 589", "cap. 828", "cap. 832", "cap. 1501", "cap. 1590", "cap. 1657", "cap. 1659", "cap. 1796", "cap. 1819-1820", "cap. 1931"]
+fontes: ["cap. 4-6", "cap. 74", "cap. 90-91", "cap. 92", "cap. 105", "cap. 123", "cap. 126", "cap. 156", "cap. 162", "cap. 179-181", "cap. 200-202", "cap. 212", "cap. 214", "cap. 216-217", "cap. 230", "cap. 251", "cap. 273", "cap. 275", "cap. 278", "cap. 288", "cap. 301", "cap. 304", "cap. 306", "cap. 312-314", "cap. 326", "cap. 331", "cap. 337-338", "cap. 345", "cap. 351", "cap. 358", "cap. 370", "cap. 373", "cap. 426", "cap. 430", "cap. 469", "cap. 475", "cap. 477", "cap. 493", "cap. 509", "cap. 527-528", "cap. 538", "cap. 571", "cap. 589", "cap. 828", "cap. 832", "cap. 1501", "cap. 1590", "cap. 1657", "cap. 1659", "cap. 1796", "cap. 1819-1820", "cap. 1931"]
 conhecimento: comum
 ---
 

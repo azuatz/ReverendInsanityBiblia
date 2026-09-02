@@ -656,7 +656,7 @@ pode reaproveitar como formatos de cenário:
   com marcas de casca que parecem rostos chorando; quando o vento passa, elas gritam. De dia é frio
   e sombrio e bestas de alma circulam livremente; de noite, ventos que gelam os ossos e incontáveis
   fantasmas. Há **bestas de alma imemoriais** ali, e muitos Gu Imortais da região morreram no lugar
-  ao longo de cem mil anos (cap. 1411).
+  ao longo de cem mil anos (cap. 1412).
 - **Escala:** duas Immortal Gu Houses rank 7 em confronto (uma de clã, uma do palácio), mais exércitos
   de bestas de alma, mais imortais individuais rank 6-8.
 - **Prêmio:** a Immortal Gu House de um Venerável; o soul beast token rank 8; e o deserto como
@@ -965,3 +965,122 @@ pode reaproveitar como formatos de cenário:
   quilômetros (trovão, terremoto, coluna de qi) e **imobiliza** o cultivador mais importante do
   grupo por um período. É um cenário de defesa pronto.
 - **Lacunas:** quanto tempo dura de ponta a ponta; a taxa de fracasso.
+
+---
+
+## Eventos históricos citados
+
+Todos abaixo são contados de **segunda mão** dentro da faixa 1201-1600 — como lenda, registro de
+seita, memória de um ancião ou conversa de bastidor. São o "passado utilizável" que a designer pode
+dar aos jogadores como boato, história de taverna ou verdade de mestre.
+
+### A Batalha de Yi Tian Mountain — citada nos caps. 1206, 1211, 1213, 1234, 1438
+
+Uma batalha gigantesca em Southern Border que **matou todos os envolvidos** e deixou, no lugar deles,
+um **dream realm gigante manifestado do nada**. As consequências estruturais que a faixa registra:
+o caminho justo da região correu para cercar o fenômeno com uma super Gu formation conjunta; uma
+grande aliança de imortais-zumbi foi **aniquilada**; a seita demoníaca por trás dela ficou com
+"apenas alguns membros"; e as partes envolvidas **mantiveram silêncio absoluto**, de modo que os Gu
+Imortais comuns da região ficaram no escuro sobre o que houve — nem conseguem investigar o local
+(cap. 1213). Modelo perfeito de "grande evento cujo relato oficial não existe".
+`[comum]` que aconteceu; `[segredo]` o que aconteceu.
+
+### A campanha de extermínio da Zombie Alliance — citada nos caps. 1211, 1256, 1265
+
+A Zombie Alliance (Aliança dos Zumbis) era uma federação de Gu Imortais-zumbi que existia **sob** uma
+seita demoníaca sem que a maioria dos membros soubesse disso (cap. 1256). Depois de Yi Tian Mountain
+ela foi varrida: **todas as divisões regionais foram sitiadas simultaneamente**, e só a divisão de
+Northern Plains sobreviveu porque se refugiou numa **Earth Trench** — um abismo natural defensável
+(cap. 1265). O mecanismo do fim é o dado mais brutal: a própria liderança **sacrificou a aliança
+inteira**, usando os incontáveis imortais-zumbi **como material imortal** para um refino de cem mil
+anos (cap. 1256). `[segredo]`
+
+### A criação do green ghost desert — citada no cap. 1412
+
+Antes de virar Venerável, um futuro Demon Venerable de soul path lutou ali contra um clã-superpotência
+de wood path de Western Desert e **matou todos os Gu Imortais do clã presentes**. O rescaldo da
+batalha converteu a região inteira em deserto amaldiçoado: sem sol, coberto de nuvens negras, com
+árvores que gritam ao vento e bestas de alma circulando de dia. Cem mil anos depois, ainda mata Gu
+Imortais que entram. Regra de mundo implícita: **batalhas de nível Venerável deixam geografia
+permanente**. `[comum]`
+
+### O dano ao Fate Gu e o nascimento dos zumbis e das bestas de alma — citado nos caps. 1234, 1243, 1244
+
+Um Demon Venerable feriu o **Fate Gu** rank 9 usando o poder do **Love Gu** rank 9 — e a obra é
+explícita: ele conseguiu porque **o amor resiste ao destino**, não porque fosse um "demônio de outro
+mundo" (cap. 1234). Consequências permanentes, todas visíveis no presente:
+- a **porta da vida e da morte** ficou muito mais fraca em absorver almas, então almas fortes
+  **permanecem no mundo** — daí os **imortais-zumbi**, que hoje são a alternativa padrão de quem
+  fica sem lifespan, contra a vontade de Heavenly Court (cap. 1243);
+- depois, com a ascensão de outro Venerável, "o mundo mudou naquela grande era e **as bestas de alma
+  apareceram**"; hoje elas infestam o black heaven imemorial (cap. 1244);
+- o Fate Gu está sendo reparado há gerações: a faixa registra **50%** após uma convenção de
+  refinement path de Central Continent, e **60%** pouco depois, com a nota de que, passado o ponto
+  de mudança qualitativa, **a recuperação acelera muitas vezes** (cap. 1335). `[segredo]`
+
+### As três invasões a Heavenly Court — citada no cap. 1438
+
+"Mesmo quando três Demon Venerables a invadiram, eles tiveram de partir sem sucesso." É o dado que
+sustenta a reputação de Heavenly Court como fortaleza inexpugnável, e é o que a propaganda dela
+desenterra quando quer impressionar o mundo. `[comum]`
+
+### O estilhaçamento do immemorial blue heaven — citado no cap. 1244
+
+Os nove céus imemoriais eram nove; hoje **só restam o white heaven e o black heaven**, e a obra
+atribui isso a Ren Zu e seus dez filhos (cap. 1241). O blue heaven em particular **se estilhaçou**, e
+suas estrelas caíram no black heaven — que é por isso que existem **star cloud storms** ali, um
+fenômeno que não era de lá (cap. 1244). Cada camada dos céus tinha **o tamanho coletivo das cinco
+regiões**. `[especializado]`
+
+### A remoção dos três obstáculos da porta da vida e da morte — citada nos caps. 1252, 1277
+
+Dentro da porta da vida e da morte há três obstáculos: **Dang Hun Mountain, Luo Po Valley e Reverse
+Flow River**. Um Demon Venerable de theft path entrou por ocultação e **arrancou os dois primeiros
+para fora, no mundo**, mas não conseguiu levar o terceiro. O Reverse Flow River foi tirado depois por
+outro Venerável, o criador do wood path, que ficou preso nele e só escapou refinando o
+**Perseverance Immortal Gu** dentro do próprio corpo — tornando-se o **primeiro Reverse Flow River
+Lord** da história, há trezentos mil anos (caps. 1252, 1277, 1285). `[especializado]`
+
+### A plantação da Luck Suppression Heavenly Palace — citada nos caps. 1242-1243
+
+O criador do luck path deixou **três Immortal Gu Houses** ao morrer. Uma foi colocada numa blessed
+land, outra ficou com a autoridade regional, e a terceira — a **Luck Suppression Heavenly Palace** —
+foi escondida no **black heaven há trezentos mil anos**, explicitamente **para defender Northern
+Plains** de invasões vindas por cima. O efeito acumulado é assustador: em trezentos mil anos ela
+"afetou profundamente o black heaven imemorial e até influenciou o white heaven", a ponto de
+**interferir na direção das tempestades de raios** de lá — algo que, segundo o texto, **nem a heaven's
+will consegue fazer** (cap. 1242). O mesmo Venerável deixou ali seu **corpo de imortal-zumbi**, com
+"um único ataque restante", e a faixa afirma que ele ficou trezentos mil anos ali **para pagar um
+favor** a alguém cuja identidade nunca é dita (cap. 1243). `[segredo]`
+
+### O tumulto de Huo Kong — citado no cap. 1540
+
+Uma **immemorial desolate beast lendária** de Central Continent, do escalão das que têm força de pico
+de rank 8, causou estrago suficiente para que um Gu Imortal rank 8 de Heavenly Court, especialista de
+space path, **morresse na batalha**. Com ele se destruiu o **único Fixed Immortal Travel rank 7 da
+história** — e por milhares de anos ninguém conseguiu refazê-lo, só versões rank 6. Regra de mundo:
+**uma técnica pode simplesmente sumir do mundo com a morte de uma pessoa.** `[especializado]`
+
+### A destruição de uma tribo-superpotência e a fundação de uma nova — citada nos caps. 1207, 1546
+
+Uma das grandes tribos de Northern Plains **não tinha um rank 8 para segurar a situação e perdeu sua
+Immortal Gu House**; com isso, "com apenas algumas desculpas, seus próprios irmãos de linhagem a
+destruíram" (cap. 1207). Um imortal solitário rank 8 ocupou o território e fundou uma tribo nova no
+lugar — e a autoridade regional, que odeia sangue de fora entre as forças justas, não pôde impedir,
+porque **um rank 8 vivo torna uma força estável como rocha** (cap. 1207). Anos depois, ele já consta
+como uma das cinco potências rank 8 conhecidas da região (cap. 1546). É o melhor resumo curto da
+física política do mundo: **força de rank 8 é a única garantia de existência de uma facção.** `[comum]`
+
+### A guerra caótica das cinco regiões — citada nos caps. 1212, 1273, 1298, 1531, 1573
+
+Aparece na faixa como **evento futuro conhecido** (via memória de uma vida anterior) e como
+referência de precedente: nela, "cada Gu Imortal rank 8 dominava uma área", os Gu Imortais faziam
+**sessões de troca de Gu Imortais** com frequência, e os clãs usaram suas grandes formações para
+matar imortais de outra região. Serve à designer como **cenário de campanha alternativo**: o mesmo
+mundo, quinhentos anos adiante, em guerra aberta e generalizada. `[segredo]`
+
+### A convenção de refinement path de Central Continent — citada no cap. 1335
+
+Mencionada de passagem como a ocasião em que o **Fate Gu chegou a 50% de recuperação**. O evento em
+si é anterior à faixa (está no Volume 4) — registrado aqui só como ponte para quem varrer aquele
+trecho.

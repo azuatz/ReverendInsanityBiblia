@@ -29,15 +29,37 @@ Ambientar em outra era não é trocar o cenário — é trocar as regras dispon�
 ## Como o mundo conta o tempo
 
 A escala é vertiginosa e vale registrar de saída: o mundo mede sua história em
-**milhões de anos**. Um dos caminhos de cultivo mais usados foi criado há cerca de três
-milhões de anos, e isso o coloca já na **segunda** era. As eras não têm datas de
-fronteira precisas na obra; são períodos reconhecidos pela cultura do mundo, do jeito
-que nós dizemos "Idade Média".
+**milhões de anos**. As eras não têm datas de **fronteira** precisas — ninguém no mundo
+diz "a Antiguidade Medieval começou no ano tal" —, mas a obra ancora quatro delas em
+distâncias redondas do presente, sempre da mesma forma: dizendo há quanto tempo
+aconteceu algo que todo mundo sabe que aconteceu naquela era.
 
 São cinco eras nomeadas, mais o presente, mais a transição em curso:
 
 > **Antiguidade Imemorial → Antiguidade Remota → Antiguidade Antiga → Antiguidade
 > Medieval → Antiguidade Tardia → era atual → a Grande Era**
+
+### A régua de datas
+
+Esta é a tabela que faltava para situar uma campanha. Cada âncora é uma afirmação
+literal da obra, e não uma conta nossa; a coluna da direita diz qual evento serve de
+marco.
+
+| Era | Distância do presente | Âncora |
+|---|---|---|
+| Antiguidade Imemorial | **—** | a obra **nunca a data**. É o horizonte da memória: "imemorial" é literal |
+| Antiguidade Remota | **~3 milhões de anos** | a criação do caminho da sabedoria e a fundação da instituição de topo do mundo são datadas assim, e as duas são desta era |
+| Antiguidade Antiga | **~1 milhão de anos** | uma fera imemorial "existe desde um milhão de anos atrás, na Antiguidade Antiga" |
+| Antiguidade Medieval | **~300 mil anos** | datada assim seis vezes ou mais, sempre pelos mesmos marcos: os Veneráveis da era, a fundação do mercado universal, a chegada da aliança dos zumbis |
+| Antiguidade Tardia | **~100 mil anos** | "cem mil anos atrás, durante a Antiguidade Tardia, o caminho da alma floresceu" |
+| Era atual | o presente | — |
+
+Duas leituras que a tabela entrega de graça. Primeira: **as eras encurtam**. Da Remota à
+Antiga passam-se dois milhões de anos; da Antiga à Medieval, setecentos mil; da Medieval
+à Tardia, duzentos mil; da Tardia até hoje, cem mil. A história do mundo acelera, e isso
+é coerente com a densidade crescente de invenções em cada era desta nota. Segunda: **a
+era atual já dura cerca de cem mil anos sem produzir um Venerável** — o intervalo mais
+longo sem um rank 9 vivo desde que existem rank 9.
 
 Duas convenções valem para o documento inteiro:
 
@@ -102,11 +124,27 @@ que sobrou dela virou material lendário.
   um Gu — e o mito fundador que o mundo inteiro ainda estuda como fonte de regras, não
   como folclore.
 
+**Quem destruiu os sete céus.** A obra dá nome ao responsável, e é uma informação que
+amarra três sistemas de uma vez: foram os **dez filhos do Ancestral Humano**. Esses dez
+filhos são, ao mesmo tempo, as **dez constituições extremas** — as aptidões máximas que
+até hoje classificam o talento de um recém-nascido. Ou seja: o teto do sistema de
+aptidão e a mutilação do céu são o mesmo fato, contado duas vezes. Todos os dez morreram
+jovens, e é essa a explicação, dentro da ficção, de por que portadores de constituição
+extrema quase nunca amadurecem. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+
+**Como a era termina.** O Ancestral Humano sobreviveu aos dez filhos e estava para morrer
+de velhice. Antes disso, reuniu os corpos dos dez, e ofereceu a eles e a si mesmo a um Gu
+específico, deixando que os devorasse. O estômago do Gu arrebentou — e do rompimento
+**espalhou-se vida** pelo mundo. É o mito de origem da abundância de formas vivas do
+mundo atual, e o fecho do livro fundador.
+
 **Herança estrutural que chega até hoje:** os materiais dos sete céus destruídos, que
-se tornaram os ingredientes impossíveis das receitas mais cobiçadas; as feras
-"imemoriais", o degrau máximo da escala de bestas, com força equivalente a um
-cultivador de rank 8; e a primeira herança verdadeira da história, em formato de
-livro.
+se tornaram os ingredientes impossíveis das receitas mais cobiçadas; os **mundos-fragmento**
+— pedaços dos céus destruídos que caíram sobre as cinco regiões e viraram pequenos
+mundos próprios, ainda visitáveis, e o único lugar onde se colhem materiais que já não
+existem; as feras "imemoriais", o degrau máximo da escala de bestas, com força
+equivalente a um cultivador de rank 8; e a primeira herança verdadeira da história, em
+formato de livro.
 
 ---
 
@@ -133,6 +171,26 @@ tentou refinar **o mundo inteiro** como se fosse uma abertura imortal externa, e
 morreu na tentativa. O motivo do fracasso só seria compreendido milhões de anos
 depois: ele nunca conseguiu refinar as marcas do caminho do céu.
 
+**Um detalhe de geografia que nasce aqui:** foi durante esta era que muitos dos
+**mundos-fragmento** dos nove céus destruídos terminaram de cair sobre as cinco regiões,
+espalhados por áreas diferentes. Boa parte dos lugares "impossíveis" que um grupo de
+personagens pode explorar hoje entrou no mapa neste período.
+
+> [!warning] Os três únicos Supremos Grão-Mestres de refinamento da história
+> A obra é explícita: em toda a história humana, **apenas três** pessoas alcançaram
+> Supremo Grão-Mestre no caminho do refinamento, e o mundo as chama coletivamente de "os
+> Três Velhos". Cada uma pertence a uma era diferente, e é útil ter as três juntas porque
+> elas medem o teto absoluto da profissão mais cobiçada do cenário:
+>
+> | Era | Quem | O que fez |
+> |---|---|---|
+> | Antiguidade Remota | Old Eccentric Tian Nan | tentou refinar o céu e morreu na tentativa |
+> | Antiguidade Antiga | Old Immortal Kong Jue | a pesquisa mais profunda já feita sobre aberturas imortais; escreveu o tratado que ainda hoje é a referência do assunto |
+> | Antiguidade Medieval | Long Hair Ancestor | refinou dezenas de Gu Imortais e construiu a maior estrutura saqueadora do mundo |
+>
+> Nenhum dos três foi Venerável, e nenhum Venerável foi um deles. É o registro mais
+> limpo de que **attainment e rank são eixos independentes**.
+
 ---
 
 ## 3. Antiguidade Antiga
@@ -155,6 +213,14 @@ quando o mundo se torna perigoso da forma como é hoje.
   solidificar um golpe numa fortaleza viva. Hoje toda organização de peso tem uma.
 - **No Continente Central, os clãs superam as seitas.** O equilíbrio institucional
   pende para o sangue.
+- **A pesquisa sobre aberturas imortais é fundada.** O segundo dos três Supremos
+  Grão-Mestres de refinamento da história é desta era, e o que ele deixou não foi um
+  item: foi um **tratado sobre como uma abertura imortal funciona**, que continua sendo
+  a referência do assunto trezentos mil anos depois. Quando um personagem seu quiser
+  entender a própria terra abençoada, é este livro que ele vai procurar.
+- **As feras imemoriais mais antigas do mundo aparecem aqui.** Duas delas são nomeadas
+  como "os pesadelos" de três eras seguidas — Antiga, Medieval e Tardia. Uma fera desse
+  patamar não é um encontro: é um evento histórico que atravessa milênios.
 
 **Veneráveis desta era:** três, e todos pela via demoníaca — é a única era com um
 bloco assim.
@@ -195,7 +261,14 @@ próxima de um desastre irreversível. Situa-se por volta de **trezentos mil ano
   regra do mundo, não um acaso: **a instituição exclui categoricamente humanos
   variantes**.
 - **O mercado universal dos Imortais**, uma gruta-céu vazia convertida em praça de
-  comércio anônima entre as cinco regiões.
+  comércio anônima entre as cinco regiões. Ele foi **fixado num ponto do mundo há
+  trezentos mil anos e nunca mais se moveu** — e onde exatamente fica é um dos maiores
+  mistérios em aberto do cenário: gerações de Imortais do caminho da sabedoria tentaram
+  deduzir a localização e nenhuma conseguiu.
+- **A aliança mundial dos zumbis imortais**, hoje uma super força espalhada pelas cinco
+  regiões, com sede numa delas e filial em cada uma das outras quatro.
+- **Seitas e clãs empatam.** No Continente Central, as duas formas de organização se
+  enfrentam de igual para igual durante toda a era — o único período em que isso acontece.
 
 **O quase-apocalipse:** foi nesta era que a formação escavada pelo **Limitless Demon
 Venerable** perfurou o ponto mais fino da **fronteira do mundo** e passou a trazer
@@ -216,10 +289,9 @@ nunca foi completamente feito. `[segredo]`
 
 ## 5. Antiguidade Tardia
 
-A era mais próxima do presente, e a de vocação mais sombria. Começa
-aproximadamente **duzentos mil anos** após o fim da anterior — datação `inferida` a
-partir do intervalo que o texto registra entre a morte de um Venerável e o surgimento
-do seguinte.
+A era mais próxima do presente, e a de vocação mais sombria. A obra a data
+diretamente: **cerca de cem mil anos atrás**, o que a coloca uns duzentos mil anos
+depois da anterior. A âncora é o auge do caminho da alma, que é a marca da era.
 
 **O que mudou:**
 
@@ -239,6 +311,10 @@ do seguinte.
   outro. Até hoje o comércio de almas é raro e clandestino mesmo nos mercados imortais
   mais permissivos.
 
+**O que mais muda aqui, e quase não se nota:** é nesta era que **as seitas passam
+definitivamente na frente dos clãs** no Continente Central. O mundo institucional que a
+era atual apresenta como natural foi decidido aqui.
+
 **Veneráveis desta era:** três, e é a era mais povoada da lista junto com a
 Antiguidade Antiga.
 
@@ -257,7 +333,9 @@ Antiguidade Antiga.
 ## 6. A era atual
 
 O presente da obra. É a era **sem Venerável vivo** — e isso não é um detalhe: é a
-condição que define tudo.
+condição que define tudo. Ela já dura **cerca de cem mil anos**, o intervalo mais longo
+sem um rank 9 vivo desde que existem rank 9, e o mundo inteiro sabe disso: a ausência é
+tratada como uma anomalia à espera de correção, não como o estado normal das coisas.
 
 **O estado do mundo no início da obra:**
 
@@ -353,6 +431,31 @@ controle centralizado sobre ele. `[segredo]`
 > periódicas, com segredos milenares expostos ao mesmo tempo em toda parte e um
 > caminho de cultivo novo entrando em circulação — o cenário de corrida do ouro.
 > A transição em si é uma campanha inteira.
+
+---
+
+## A guerra de mil eras: clãs contra seitas
+
+Vale isolar este fio, porque ele é o único conflito estrutural que atravessa **todas** as
+eras do mundo e porque decide como uma campanha se parece: um mundo de clãs é um mundo de
+sobrenomes, sangue e herança; um mundo de seitas é um mundo de exames, mérito e carreira.
+A obra acompanha o placar era a era, e só para o Continente Central — nas outras quatro
+regiões o clã venceu desde sempre e nunca foi seriamente ameaçado.
+
+| Era | Situação no Continente Central |
+|---|---|
+| Antiguidade Remota | O sistema de seitas é **inventado**, pelo primeiro Venerável da história. Ainda são raras |
+| Antiguidade Antiga | **Os clãs superam as seitas** |
+| Antiguidade Medieval | **Empate**: os dois modelos avançam no mesmo ritmo, em atrito constante |
+| Antiguidade Tardia | **Os clãs enfraquecem, as seitas florescem** |
+| Era atual | As seitas dominam; **quase não restam clãs** no Continente Central |
+
+> [!note] Para o design
+> Esta tabela é, sozinha, cinco cenários. A mesma região, cinco épocas, cinco contratos
+> sociais diferentes para o personagem dos jogadores: em uma delas ele nasce com um
+> sobrenome que vale tudo; em outra, ele presta uma prova. E a era do **empate** é a mais
+> jogável das cinco, porque é a única em que as duas lógicas coexistem e um personagem
+> pode escolher — ou trair — o lado.
 
 ---
 

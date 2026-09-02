@@ -160,8 +160,9 @@ entrar um pouco, ganhar um pouco, e a decisão de quanto avançar é do jogador.
 
 Quando alguma coisa de valor extraordinário aparece no mapa, o interdito é **militar**. A obra
 registra um vale sem nenhum recurso notável que, por ter recebido a queda de um fragmento de um
-mundo celestial, foi cercado pelas forças aliadas de dez grandes seitas: **mil li ao redor**
-viraram zona proibida, e qualquer imortal que pisasse dentro do perímetro seria morto sem
+mundo celestial, foi cercado pelas forças aliadas de dez grandes seitas: **mil li ao redor** — o
+*li* é a unidade de distância do mundo e vale meio quilômetro, então são quinhentos quilômetros de
+raio — viraram zona proibida, e qualquer imortal que pisasse dentro do perímetro seria morto sem
 misericórdia.
 
 Repare no que isso ensina sobre o mundo: **uma zona proibida pode nascer em uma semana**, e
@@ -178,8 +179,8 @@ O comportamento observado depois é o detalhe que a torna memorável:
 
 - quem se aproxima sente a própria aura enfraquecer rápido, a ponto de não conseguir mais
   exercer o pensamento;
-- **a zona se expande sozinha** — no começo dava para chegar a três li da montanha; depois, nem
-  isso;
+- **a zona se expande sozinha** — no começo dava para chegar a três li (um quilômetro e meio) da
+  montanha; depois, nem isso;
 - no topo, uma imagem fantasma se repete em ciclos, sempre idêntica, como uma gravação.
 
 > [!note] Para o design

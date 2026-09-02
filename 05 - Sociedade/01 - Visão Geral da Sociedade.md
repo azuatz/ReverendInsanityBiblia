@@ -51,6 +51,15 @@ usa "Corte Celestial" — é a mesma e única instituição, não duas), a organ
 e poderosa que existe, detalhada em [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]]. Boa parte do
 que ele realmente é não é sabido por ninguém fora dele.
 
+Atravessando todos esses modelos, existem quatro sistemas que valem em qualquer um deles e
+que esta pasta trata em notas próprias: **como se pune** ([[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]]),
+**como se obriga alguém a cumprir a palavra** ([[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]),
+**como a notícia e o segredo circulam** ([[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]]) e
+**como se faz guerra de fato** ([[14 - Guerra Organizada|Guerra Organizada]]). E, embaixo de
+tudo, a vida doméstica que produz as pessoas dessas instituições — nascimento, casamento,
+adoção, herança, funeral, festa e culto aos ancestrais — está em
+[[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+
 > [!note] Para o design
 > Esta é a estrutura mais reaproveitável do cenário: **toda organização é uma máquina de
 > redistribuir recursos escassos, e todo personagem tem uma posição declarada nessa
@@ -104,6 +113,18 @@ que ele realmente é não é sabido por ninguém fora dele.
     aniquilou forças inteiras mais de uma vez na história registrada — e esse precedente
     é lembrado por todos, o que torna o mundo muito mais cauteloso com indivíduos
     excepcionais do que com exércitos.
+13. **Não existe lei do mundo, só regimentos privados.** Quem pertence a uma organização é
+    julgado por ela; quem não pertence não é julgado — é cobrado, expulso ou caçado. Ver
+    [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+14. **A palavra é executada por magia ou por vergonha.** Um acordo só obriga se for selado por
+    um Gu de juramento; fora disso, o que segura alguém é a reputação e a dívida de favor.
+    Ver [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+15. **Pertencer é estar registrado.** Filiação a um clã ou seita se materializa em dois Gu
+    vivos guardados no salão ancestral, que dizem se você está vivo e onde você está. Ver
+    [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+16. **A guerra consome energia, não vidas.** A tática dominante do mundo é gastar a reserva
+    interna do inimigo com tropa descartável; e essa tropa quase nunca é humana. Ver
+    [[14 - Guerra Organizada|Guerra Organizada]].
 
 ## O que todo personagem sabe
 
@@ -125,6 +146,14 @@ que ele realmente é não é sabido por ninguém fora dele.
 - **Que um Mestre Gu viajando sozinho pela selva é suspeito.** Clãs mandam gente em
   grupos de cinco; solitários costumam ser demoníacos ou fortes o bastante para não
   precisar de ninguém — o que dá no mesmo em termos de perigo.
+- **Que não existe polícia nem tribunal público.** Cada organização julga os seus; um
+  forasteiro é problema de quem ele ofendeu.
+- **Que acordo sem Gu de juramento não vale nada**, e que exigir o juramento não é ofensa —
+  é procedimento normal de negócio.
+- **Que existe um par de Gu com o seu nome dentro do salão ancestral do seu clã**, e que se
+  ele se partir todo mundo saberá, na hora, que você morreu.
+- **Que a aptidão medida aos quinze anos decide se você vai ao campo de batalha ou à
+  logística**, e que isso é dito abertamente e aceito por todos.
 
 ## O que só o mestre sabe
 
@@ -154,6 +183,15 @@ que ele realmente é não é sabido por ninguém fora dele.
   Um NPC leal há décadas pode ser um ativo dormente.
 - **Que a admissão da maior instituição do mundo usa métodos de verificação que não são
   atualizados há eras**, o que já permitiu a um infiltrado operar mil anos lá dentro.
+- **Que existe uma máquina, no topo do mundo, que detecta sozinha todo praticante de um
+  determinado caminho de cultivo, em qualquer lugar** — e que ela é operada por alguém que
+  pratica exatamente esse caminho. Ver [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+- **Que todo juramento tem uma saída**, e que os juramentos mais fortes do mundo estão
+  ancorados em acidentes geográficos que podem ser destruídos. Ver
+  [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+- **Que os Gu-tabuleta do salão ancestral permitem deduzir a localização exata de um membro
+  e até feri-lo à distância** — e que são Gu mortais, portanto adulteráveis por quem souber.
+  Ver [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 
 ## Como as peças se encaixam
 
@@ -163,20 +201,35 @@ Vale ler as notas desta pasta nesta ordem:
    compete, é avaliado e punido dentro de uma família-Estado.
 2. [[03 - Seitas e Academias|Seitas e Academias]] — o modelo alternativo, por mérito, e como se ensina alguém a
    cultivar.
-3. [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que classifica todo
-   personagem do mundo, e a matriz "talento × virtude" que os dois lados usam para
-   avaliar gente.
+3. [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — o lado doméstico dessas instituições: como se nasce,
+   se casa, se adota, se registra e se morre neste mundo, mais o calendário de festas e o
+   que faz as vezes de religião.
 4. [[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — desce das instituições para as pessoas: o
    catálogo de posições sociais que um personagem pode ocupar (mortal sem abertura, servo,
    escravo, cultivador de aptidão baixa, gênio, membro de organização, solitário, herdeiro),
    com o destino provável de cada uma, e as filosofias de vida que estão em disputa no
    mundo — o material mais direto para criar personagem e para dar convicção a um NPC.
-5. [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
-6. [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
-   está escondido atrás delas.
-7. [[09 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
-   das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
-   pertencem a região nenhuma e os domínios fechados.
+5. [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que classifica todo
+   personagem do mundo, e a matriz "talento × virtude" que os dois lados usam para
+   avaliar gente.
+6. [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o que acontece com quem infringe: os regimentos de clã e de
+   seita, os juízes itinerantes, os mandados de captura e a única lista de procurados que
+   vale no mundo inteiro.
+7. [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — as três moedas invisíveis que substituem o
+   contrato executável num mundo sem tribunal.
+8. [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia viaja, quanto custa, e como se
+   planta um boato ou um espião.
+9. [[14 - Guerra Organizada|Guerra Organizada]] — o que acontece depois que a política falha: quem vai ao campo,
+   em que formação, e o que a batalha realmente consome.
+10. [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
+11. [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — o catálogo, região por região, das organizações
+    que de fato mandam, com ficha de cada uma. É a nota de consulta da pasta, não a de leitura
+    corrida.
+12. [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
+    está escondido atrás delas.
+13. [[09 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
+    das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
+    pertencem a região nenhuma e os domínios fechados.
 
 E, do lado material, a pasta vizinha responde a pergunta que esta deixa em aberto —
 [[01 - Visão Geral da Economia|Visão Geral da Economia]] explica com que dinheiro tudo isso funciona.

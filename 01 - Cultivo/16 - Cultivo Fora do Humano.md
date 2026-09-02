@@ -38,7 +38,7 @@ Do que decorrem quatro consequências práticas:
 - **Não há reserva de energia a esgotar, e também não há reserva a proteger.** A fera não gasta essência: ela dispara o que carrega. Em compensação, os Gu dela podem ser atingidos, arrancados e capturados, porque não estão guardados em lugar nenhum.
 - **A fera não refina e não comanda.** Ela **hospeda** os Gu e os dispara por instinto, em padrões repetitivos. Um grupo que saiba de antemão o que aquela espécie costuma carregar consegue antecipar cada ataque — e é isso que torna a caça uma profissão viável em vez de suicídio.
 - **Matar a fera é abrir o cofre.** O Gu selvagem sobrevive à morte do hospedeiro e vira propriedade de quem o pegar. Toda a economia da caça sai daí.
-- **O "rank" de uma fera é a etiqueta do Gu que ela guarda.** A escada de reis-fera e os Gu típicos de cada patamar estão em [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]; a regra de bolso é que um rei de cem hospeda Gu de nível 2, um rei de mil hospeda nível 3, e um rei de miríade hospeda nível 4.
+- **O "rank" de uma fera é a etiqueta do Gu que ela guarda.** A escada de reis-fera e os Gu típicos de cada patamar estão em [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]; a regra de bolso é que um rei de cem hospeda Gu de rank 2, um rei de mil hospeda rank 3, e um rei de miríade hospeda rank 4.
 
 ### As feras de outra escala
 
@@ -46,17 +46,17 @@ Acima dos reis-fera do mundo mortal existe uma escada própria, medida diretamen
 
 | Categoria | Força de combate equivalente |
 |---|---|
-| Besta desolada (*desolate beast*) | um Gu Imortal de nível 6 |
-| Besta desolada antiga (*ancient desolate beast*) | um Gu Imortal de nível 7 |
-| Besta desolada imemorial (*immemorial desolate beast*) | um Gu Imortal de nível 8 |
+| Besta desolada (*desolate beast*) | um Gu Imortal de rank 6 |
+| Besta desolada antiga (*ancient desolate beast*) | um Gu Imortal de rank 7 |
+| Besta desolada imemorial (*immemorial desolate beast*) | um Gu Imortal de rank 8 |
 
 Três detalhes que mudam o encontro:
 
-1. **Elas crescem com o tempo.** Uma imemorial ainda jovem opera apenas no patamar de nível 6 — a categoria diz o que ela *será*, não necessariamente o que ela é hoje.
+1. **Elas crescem com o tempo.** Uma imemorial ainda jovem opera apenas no patamar de rank 6 — a categoria diz o que ela *será*, não necessariamente o que ela é hoje.
 2. **O corpo delas é coberto de dao marks.** Isso as torna quase imunes a golpes de Mestres Gu mortais, e mesmo golpes imortais rendem pouco contra as antigas. E é também o que faz do corpo delas material de refino valiosíssimo: cada parte serve.
 3. **Ferimento causado por elas não cicatriza normalmente**, pelo mesmo motivo — as marcas estranhas na ferida expulsam as marcas do corpo da vítima e bloqueiam a cura. Ver [[12 - Dao Marks|Dao Marks]].
 
-Um Gu Imortal de nível 6 comum, ao topar com uma besta desolada antiga, **recua**. Vale como calibragem: um bicho pode ser um problema de nível regional sem ser um vilão.
+Um Gu Imortal de rank 6 comum, ao topar com uma besta desolada antiga, **recua**. Vale como calibragem: um bicho pode ser um problema de nível regional sem ser um vilão.
 
 ## Plantas
 
@@ -72,10 +72,10 @@ Mecanicamente, eles são o caso mais próximo do humano, e é justamente por iss
 
 - **Cultivam como humanos.** Têm abertura, ranks, Gu, e chegam a Gu Imortais. Existem imortais variantes com Gu Imortais próprios e território próprio.
 - **Nascem com dao marks do próprio elemento.** Um homem-rocha já vem ao mundo com marcas do caminho da terra abundantes, que se somam ao que ele cultivar deliberadamente naquele caminho. É uma vantagem de partida real, e específica.
-- **Têm talentos raciais fixos.** Homens peludos são excepcionais no [[05 - Refino de Gu|refino de Gu]] — uma quantidade grande deles resolve o problema de suprimento de Gu de nível 5 de um imortal inteiro. Homens-rocha se destacam em batalha coletiva e em escavação.
+- **Têm talentos raciais fixos.** Homens peludos são excepcionais no [[05 - Refino de Gu|refino de Gu]] — uma quantidade grande deles resolve o problema de suprimento de Gu de rank 5 de um imortal inteiro. Homens-rocha se destacam em batalha coletiva e em escavação.
 - **Têm insumos de cultivo próprios.** A obra registra recursos específicos por raça: um material de caminho da terra ideal para homens-rocha, um de caminho da madeira para os minúsculos, uma fonte de água para os sereianos.
 - **Perdem em inteligência.** A obra é direta: variantes são mais inteligentes que os demais seres vivos, mas ficam **longe da sabedoria humana** — e são descritos como ingênuos a ponto de crianças humanas os enganarem e venderem como escravos rotineiramente.
-- **Perdem no duelo, ganham no grupo.** Homens-rocha treinados até o patamar de nível 4 perdem individualmente para Mestres Gu humanos de nível 5, e o que eles fazem bem é lutar em formação.
+- **Perdem no duelo, ganham no grupo.** Homens-rocha treinados até o patamar de rank 4 perdem individualmente para Mestres Gu humanos de rank 5, e o que eles fazem bem é lutar em formação.
 - **Não podem virar Veneráveis.** O texto usa a palavra "defeituosos" para explicar por quê. É o teto de espécie.
 
 > [!warning] O lado feio, e ele é estrutural

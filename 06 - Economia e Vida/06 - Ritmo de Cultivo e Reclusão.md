@@ -141,16 +141,22 @@ ela dá são âncoras laterais que mostram a ordem de grandeza da escalada:
 - a sala de estoque de Gu de uma academia gasta mais de **mil pedras por dia** apenas em
   alimentação do acervo;
 - um cultivador itinerante que viaja sozinho precisa de uma reserva na ordem de **10.000
-  pedras** para se manter.
+  pedras** para se manter;
+- e a âncora do outro extremo, que fecha a escala: um Mestre Gu de **rank 3**, morando numa
+  cidade-mercado e cultivando a sério, calcula que **quatrocentas e vinte mil pedras não
+  lhe durariam nem um ano**. Entre o rank 1 e o rank 3, o custo anual de existir sobe de
+  cerca de mil e quinhentas pedras para mais de quatrocentas mil — duas ordens e meia de
+  grandeza. Os detalhes estão em [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
 
 Para efeito de comparação de renda: um estudante de academia recebe um subsídio de 3 pedras
 por semana, e um ancião de clã recebe cerca de 100 por semana. Detalhes em
 [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
 
 > [!warning] Não existe tabela de consumo diário por rank
-> A obra afirma que o consumo cresce com o rank e dá exemplos pontuais, mas nunca publica
-> uma escala completa. Se a mesa precisar de uma, ela terá que ser construída — os dados
-> acima são as âncoras reais disponíveis.
+> A obra afirma que o consumo cresce com o rank e dá **duas** âncoras firmes — o rank 1 a
+> 2, em três a cinco pedras por dia, e o rank 3, em mais de quatrocentas mil por ano —,
+> mas nunca publica a escala completa, e nunca diz nada sobre os ranks 4 e 5. Se a mesa
+> precisar de uma escala, ela terá que ser construída a partir dessas duas pontas.
 
 ## Cultivo fechado: a reclusão
 
@@ -265,8 +271,8 @@ normal neste mundo, não injustiça narrativa.
 
 > [!question] Lacunas conhecidas
 > A obra não fornece: tempo por estágio para ranks 4 e 5; pisos percentuais de ruptura além
-> do 55% do salto 1→2; escala de consumo diário de pedras primordiais por rank; e duração
-> típica de reclusão por objetivo. Nada disso deve ser preenchido citando a obra — se a
+> do 55% do salto 1→2; a escala **completa** de consumo por rank (há âncoras firmes nos
+> ranks 1 e 3, e silêncio nos ranks 4 e 5); e duração típica de reclusão por objetivo. Nada disso deve ser preenchido citando a obra — se a
 > mesa precisar, são decisões de design.
 
 ## Relações

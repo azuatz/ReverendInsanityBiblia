@@ -10,7 +10,7 @@ aliases:
   - Constituição Extrema
   - Dez Aptidões Absolutas
 status: consolidado
-fontes: ["cap. 135", "cap. 137", "cap. 139-140", "cap. 173", "cap. 178", "cap. 181", "cap. 195", "cap. 199", "cap. 267", "cap. 275", "cap. 301-303", "cap. 314", "cap. 322", "cap. 326", "cap. 357", "cap. 395-396", "cap. 528", "cap. 556", "cap. 564-565", "cap. 593", "cap. 598", "cap. 618", "cap. 649", "cap. 690", "cap. 693", "cap. 925", "cap. 939", "cap. 947-948", "cap. 967-968", "cap. 1001-1011", "cap. 1160-1161", "cap. 1165", "cap. 1186", "cap. 1194", "cap. 1228", "cap. 1258-1259", "cap. 1358-1359", "cap. 1373-1378", "cap. 1395", "cap. 1401", "cap. 1459", "cap. 1473", "cap. 2090", "cap. 2237"]
+fontes: ["cap. 135", "cap. 137", "cap. 139-140", "cap. 173", "cap. 178", "cap. 181", "cap. 195", "cap. 199", "cap. 267", "cap. 275", "cap. 301-303", "cap. 314", "cap. 322", "cap. 326", "cap. 357", "cap. 395-396", "cap. 528", "cap. 556", "cap. 564-565", "cap. 593", "cap. 598", "cap. 618", "cap. 619", "cap. 649", "cap. 690", "cap. 693", "cap. 925", "cap. 939", "cap. 947-948", "cap. 967-968", "cap. 1001-1011", "cap. 1160-1161", "cap. 1165", "cap. 1186", "cap. 1194", "cap. 1228", "cap. 1258-1259", "cap. 1358-1359", "cap. 1373-1378", "cap. 1395", "cap. 1401", "cap. 1459", "cap. 1473", "cap. 2090", "cap. 2237"]
 conhecimento: especializado
 ---
 

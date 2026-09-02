@@ -7,7 +7,7 @@ aliases:
   - Rank 9
   - Dao Lord
 status: consolidado
-fontes: ["cap. 187", "cap. 383", "cap. 406", "cap. 518", "cap. 552", "cap. 567", "cap. 601", "cap. 813-814", "cap. 939", "cap. 962", "cap. 968", "cap. 1007", "cap. 1016", "cap. 1235", "cap. 1284", "cap. 1299-1300", "cap. 1398", "cap. 1408", "cap. 1435", "cap. 1442", "cap. 1501", "cap. 1747", "cap. 2028", "cap. 2071", "cap. 2085-2086", "cap. 2091", "cap. 2172-2177", "cap. 2195", "cap. 2220", "cap. 2234", "cap. 2240", "cap. 2260", "cap. 2266", "cap. 2290"]
+fontes: ["cap. 187", "cap. 383", "cap. 406", "cap. 407", "cap. 518", "cap. 552", "cap. 567", "cap. 601", "cap. 664", "cap. 733", "cap. 813-814", "cap. 939", "cap. 962", "cap. 968", "cap. 1007", "cap. 1016", "cap. 1235", "cap. 1284", "cap. 1299-1300", "cap. 1398", "cap. 1408", "cap. 1435", "cap. 1442", "cap. 1501", "cap. 1747", "cap. 2028", "cap. 2071", "cap. 2085-2086", "cap. 2091", "cap. 2172-2177", "cap. 2195", "cap. 2220", "cap. 2234", "cap. 2240", "cap. 2260", "cap. 2266", "cap. 2290"]
 conhecimento: segredo
 ---
 

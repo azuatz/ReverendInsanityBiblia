@@ -117,7 +117,7 @@ Todo capítulo citado foi conferido no texto-fonte.
 - **Escala:** "dezenas de milhares de lobos-relâmpago" carregando contra as vilas
   (cap. 97). Do lado humano, os três clãs inteiros: rank 1 alocados como suporte,
   rank 2 como tropa de manobra real, rank 3 são os *elders* (um clã médio como o Gu Yue
-  tem "pouco mais de vinte" — cap. 145), rank 4 são os chefes de clã. Gu Masters
+  tem "pouco mais de vinte" — cap. 124), rank 4 são os chefes de clã. Gu Masters
   aposentados foram **realistados**; até *elders* de gabinete tiveram de vestir armadura
   e ir para a linha (cap. 145). A obra estima que, terminada a maré, **menos de um décimo**
   dos combatentes sobreviveria (cap. 145).
@@ -885,16 +885,16 @@ Todo capítulo citado foi conferido no texto-fonte.
 - **Cuidado de spoiler:** deixar de fora quem se infiltra, quem sabota e o desfecho dos
   passageiros nomeados.
 
-### Assembleia de Aliança dos Três Clãs (Alliance Slope) — caps. 123, 126-127
+### Assembleia de Aliança dos Três Clãs (Alliance Slope) — caps. 123-127
 
 - **Tipo:** cúpula política de emergência entre clãs vizinhos, com torneio ritual embutido
 - **Onde:** a **Alliance Slope** (Encosta da Aliança). Era uma encosta comum; o segundo
   chefe do clã Gu Yue firmou ali a primeira aliança tripla, e desde então **toda aliança é
   feita no mesmo lugar**. Depois de gerações de obras, virou uma praça gigante, "dezenas
-  de vezes maior" que a encosta original (cap. 126). O lugar é infraestrutura política.
+  de vezes maior" que a encosta original (cap. 124). O lugar é infraestrutura política.
 - **Periodicidade:** convocada quando uma ameaça externa obriga; historicamente, a cada
   wolf tide grande. A obra menciona a assembleia "de três anos atrás" como referência
-  natural (cap. 126).
+  natural (cap. 125).
 - **Fases da assembleia:**
   1. **Negociação prévia**, que trava por semanas: a aliança em si é consenso ("sem
      aliança, destruição"), o problema é **como dividir custos e ganhos**. A mesa fica
@@ -907,16 +907,16 @@ Todo capítulo citado foi conferido no texto-fonte.
      público justamente para **queimar essa ficha** (cap. 123).
   3. **Torneio de Gu (Gu battle tournament)** na encosta, com todos assistindo. Regra
      declarada pelo chefe anfitrião: "no espírito da competição, os competidores **param
-     antes da morte**" (cap. 126). Não é luta de vida ou morte; é *sparring*. Funções
+     antes da morte**" (cap. 125). Não é luta de vida ou morte; é *sparring*. Funções
      declaradas: exibir a força individual de cada clã **e** promover convívio e aliviar
-     rancores, para tornar a cooperação possível (cap. 126).
+     rancores, para tornar a cooperação possível (cap. 125).
   4. **Assinatura das regras** (ver a lista no evento "The Wolf Tide").
 - **Composição da plateia:** os rank 2 são a tropa real e formam a massa da encosta; rank 1
-  ficam de suporte; rank 3 são os *elders*, e um clã médio tem **pouco mais de vinte* deles
+  ficam de suporte; rank 3 são os *elders*, e um clã médio tem **pouco mais de vinte** deles
   após gerações de esforço; os chefes e *elders* ficam num prédio de pedra sobre a praça
-  (cap. 126, 145). Veteranos aproveitam para **apontar e apresentar aos novatos** os fortes
+  (caps. 124-125). Veteranos aproveitam para **apontar e apresentar aos novatos** os fortes
   dos outros dois clãs, avisando de quem se cuidar — a assembleia é também o único momento
-  em que se conhece o inimigo de perto (cap. 126).
+  em que se conhece o inimigo de perto (cap. 124).
 - **Efeito colateral notável (regra social útil):** admitir derrota rápido e sem lutar faz
   o oponente **perder o interesse** — "não querendo ser pisado, há dois caminhos: ficar
   forte até ninguém ousar, ou virar bosta de cachorro, que ninguém quer pisar" (cap. 127).

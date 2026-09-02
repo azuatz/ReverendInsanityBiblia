@@ -8,7 +8,7 @@ aliases:
   - Grau de aptidão
   - Graus de Aptidão
 status: consolidado
-fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299"]
+fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 159", "cap. 198", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299"]
 conhecimento: comum
 ---
 
@@ -47,6 +47,8 @@ Uma tabela só, com as duas medidas lado a lado:
 > porcentagem dentro da banda correspondente. Assim você fica fiel ao que a obra afirma, tem
 > um número jogável, e ainda ganha de graça a tensão social de dois jovens do mesmo grau
 > descobrirem, anos depois, que um valia 41% e o outro 59%.
+
+As três faixas superiores não são reconstrução: a obra as enuncia **literalmente e de uma vez só** — de 40 a 59 por cento é grau C, de 60 a 79 é grau B, e de 80 para cima é grau A. É a única passagem que dá a escala inteira num fôlego, e é ela que garante que as bandas são regulares de vinte pontos.
 
 Duas observações que a designer precisa ter em mãos. Primeiro: **não existe faixa abaixo dos 20%**. A obra separa explicitamente os jovens de grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu. Segundo: as quatro faixas são **bandas regulares de vinte pontos** cada, particionando limpa e inteiramente o intervalo de 20 a 99.
 

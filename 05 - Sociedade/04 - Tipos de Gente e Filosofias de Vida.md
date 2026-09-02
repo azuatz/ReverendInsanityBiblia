@@ -90,6 +90,13 @@ literalmente uma planta baixa. (Ver [[06 - Cultura das Cinco Regiões|Cultura da
 como **muralha de carne** para segurar uma horda de feras e comprar tempo aos Mestres Gu —
 e a formulação usada por quem os manda morrer é que aquilo é uma honra para eles.
 
+Fora dessa hora extrema, porém, o mortal **não combate**: ele carrega, constrói, vigia carga
+na chuva e sustenta a campanha por trás. A obra também registra a existência de
+**alistamento forçado**, mostrando um homem visivelmente arruinado por ele — cabelo
+embranquecido, saúde destruída — sem nunca descrever o procedimento (`—` quem convoca, por
+quanto tempo e com que critério não são informados). O lugar exato do mortal numa guerra está
+em [[14 - Guerra Organizada|Guerra Organizada]].
+
 **Mas há dois contrapesos, e os dois são jogáveis.**
 
 1. **Mortais são a pedra fundamental de qualquer clã.** A própria obra formula: sem
@@ -151,6 +158,18 @@ institucional deste mundo converte criminosos em mão de obra qualificada.
 > [[03 - Blood Path|caminho do sangue]], **escravidão** para crimes menores. Isso dá ao mestre
 > uma escala de consequência pronta, e dá aos jogadores um motivo concreto para negociar em
 > vez de lutar até o fim: render-se tem um resultado previsível, e não é bom.
+
+Três detalhes completam o quadro do imortal escravo, e todos são canônicos: eles são
+**revendidos** com lucro; a memória deles pode ser **apagada** antes da venda; e o vínculo é
+um contrato mágico que pode **se dissolver** sob pressão suficiente, o que faz deles mão de
+obra qualificada e pouco confiável ao mesmo tempo. A escala completa de penas do mundo está
+em [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+
+E há uma origem de escravidão que não aparece na lista acima porque não é judicial nem
+militar: **a dívida de funeral**. Enterrar um parente é caro o bastante para arruinar uma
+família mortal, e a obra mostra tanto quem se endivida para enterrar um avô quanto quem se
+vende em praça pública para pagar o funeral do pai. Ver
+[[13 - Família, Ancestrais e Ritos#O funeral|Família, Ancestrais e Ritos]].
 
 ## O de aptidão baixa
 

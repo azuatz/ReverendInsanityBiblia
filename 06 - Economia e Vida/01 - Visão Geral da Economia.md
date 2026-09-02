@@ -34,6 +34,15 @@ os próprios Gu — tudo em [[05 - Mercados e Leilões|Mercados e Leilões]]. E 
 paralela e quase invisível para os mortais, a dos Mestres Gu Imortais, com moeda própria,
 praça própria e uma tabela de câmbio brutal, tratada em [[11 - Economia Imortal|Economia Imortal]].
 
+Por baixo dos mercados corre uma **cadeia produtiva** completa — gente caçando, plantando,
+cavando e sendo vendida para que exista matéria-prima —, descrita em
+[[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]]. Amarrando tudo, há uma camada de instituições que quase
+nenhum cenário de fantasia detalha e esta obra detalha bem: **crédito, penhor, contratos
+mágicos, corretagem e pedágios**, em [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]]. E, fazendo fronteira com
+tudo isso, uma economia criminal com margens de lucro publicamente conhecidas, em
+[[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]]. Os números de todas elas moram em
+[[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
+
 O ponto que mais surpreende quem chega de outros cenários de fantasia é este: **dinheiro
 não é o gargalo do mundo**. Recursos, materiais e comida de Gu se compram. O que não se
 compra é o artefato: os Gu Imortais são únicos no mundo, não se vendem por moeda alguma
@@ -67,10 +76,13 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 5. **Acesso é moeda dupla.** Para itens raros, zonas internas e serviços de elite não
    basta dinheiro: é preciso autorização política, materializada em fichas de autoridade
    que o dinheiro não compra.
-6. **Comércio honesto tem teto de lucro; crime não tem.** Uma rota comercial legítima
-   multiplica o capital em torno de sete ou oito vezes; o contrabando chega a dezenas de
-   vezes; e o roubo é descrito dentro do mundo como "lucro infinito". A economia empurra
-   ativamente para a criminalidade — e é essa pressão que sustenta o caminho demoníaco.
+6. **Comércio honesto tem teto de lucro; crime não tem.** A escada é enunciada dentro da
+   obra, em quatro degraus: comércio legítimo feito com maestria multiplica o capital por
+   **sete ou oito vezes**, e isso é declarado como o teto do mundo, não de uma pessoa;
+   métodos ilegais passam de dez vezes; fraude aberta chega a dezenas de vezes; e o
+   assalto "não precisa nem de capital". A economia empurra ativamente para a
+   criminalidade — e é essa pressão, não uma inclinação moral, que sustenta o caminho
+   demoníaco como categoria social permanente.
 7. **Informação é mercadoria de primeira classe.** Segredos, mapas de herança, dossiês de
    lutadores e boatos se vendem — e, como não se gastam ao serem vendidos, podem ser
    vendidos duas vezes, inclusive a facções rivais.
@@ -91,6 +103,25 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
     transferíveis para fora — e é justamente por isso que compram as coisas realmente
     escassas: acesso ao tesouro, empréstimo de artefatos, conhecimento restrito, cura,
     ressurreição.
+13. **Todo produto tem uma origem física e atacável.** Gu são cozinhados a partir de
+    bichos, plantas, minérios, solo, água e gente, segundo receitas que listam ingredientes
+    um a um. Existe uma cadeia produtiva completa por trás de cada item à venda, e ela pode
+    ser comprada, monopolizada ou queimada. Destruir a fonte de um material é mais eficaz
+    do que roubar o produto acabado.
+14. **Um Gu pertence à região onde foi refinado, não à região de onde veio o material.**
+    Como cada região do mundo suprime o poder de quem não é nativo dela, compensa importar
+    matéria-prima através de meio mundo e não compensa quase nada importar produto
+    acabado. É a regra que organiza toda a logística do cenário.
+15. **A tributação é por portão, não por renda.** Não existe imposto sobre o que alguém
+    ganha; existem pedágios para entrar numa cidade, atravessar uma estrada, usar uma
+    praça de comércio ou participar de um evento. E o clã não cobra dinheiro dos próprios
+    membros: cobra **uma missão por mês**, porque já é dono das fontes de renda deles.
+16. **Promessa entre iguais armados não vale em papel.** O contrato deste mundo é um Gu
+    consumível que bebe o sangue dos dois contratantes e denuncia a má-fé na hora da
+    assinatura — e existe uma corrida armamentista permanente entre os Gu que criam
+    vínculos e os que os quebram.
+17. **Crédito existe em todos os patamares, e a garantia define o instrumento**: reputação
+    de vizinhança, cargo, arma penhorada, imóvel hipotecado ou tempo de vida em servidão.
 
 ## O que todo personagem sabe
 
@@ -98,10 +129,18 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
   pessoas por cinco meses. Um Mestre Gu iniciante gasta de três a cinco pedras *por dia*
   entre cultivo, comida de Gu e despesas — ou seja, um único dia dele custa o mês de uma
   família inteira. Um viajante solitário precisa de uns dez mil de reserva para não
-  depender de ninguém.
+  depender de ninguém. E a conta **piora** com o rank: um cultivador de rank 3 vivendo numa
+  cidade-mercado queima mais de quatrocentas mil pedras por ano. Os números estão em
+  [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
 - **De onde vem dinheiro.** Missões da organização, caça, salário de cargo, prêmios de
   competição, comércio, aluguel de imóveis, espólio de batalha. O cardápio completo está
   em [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
+- **Que existe uma saída da roda-viva, e ela é comprar uma fonte de renda** — um negócio,
+  uma plantação, uma nascente. Um negócio de vila se paga em dois ou três anos.
+- **Quanto custa entrar em qualquer lugar.** Cidades cobram pedágio por pessoa, escalonado
+  por anel, de uma a seiscentas pedras. Estradas perigosas têm dono, e o dono cobra.
+- **Que uma promessa só vale se estiver selada por um Gu de contrato**, que custa milhares
+  de pedras e some depois de um uso.
 - **Como se compra e se vende**: caravanas, lojas locais, lances fechados por escrito nos
   vilarejos, leilões em cidades grandes, e a aposta de pedra — comprar fósseis lacrados
   na esperança de encontrar um Gu dentro. Ver [[05 - Mercados e Leilões|Mercados e Leilões]].
@@ -151,18 +190,26 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 Ordem sugerida de leitura desta pasta:
 
 1. [[02 - Pedras Primordiais|Pedras Primordiais]] — a unidade básica de valor e de poder.
-2. [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cardápio de ocupações; a nota mais diretamente
+2. [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — a planilha: o que custa cada coisa, quanto rende cada
+   atividade e quanto se queima por ano. É a nota que você vai abrir no meio de uma sessão.
+3. [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cardápio de ocupações; a nota mais diretamente
    utilizável em mesa.
-3. [[05 - Mercados e Leilões|Mercados e Leilões]] — onde tudo isso se compra e se vende.
-4. [[11 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
-5. [[12 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
+4. [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — de onde saem as coisas: quem extrai, quem trabalha,
+   quem compra. É o chão de fábrica do mundo.
+5. [[05 - Mercados e Leilões|Mercados e Leilões]] — onde tudo isso se compra e se vende.
+6. [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — dinheiro que não se tem, promessas que precisam
+   valer, e o que sempre alguém tira no caminho.
+7. [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o degrau seguinte da mesma economia, com margens
+   de lucro publicadas.
+8. [[11 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
+9. [[12 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
    compra a maior parte dos Gu que gasta, ele os **cultiva** dentro do próprio mundo
    privado. É a nota que explica por que a camada de cima é mais uma questão de fazenda e
    de paciência do que de dinheiro.
-6. [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
-   com estrutura de aventura.
-7. [[04 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
-   maioria das pessoas.
+10. [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
+    com estrutura de aventura.
+11. [[04 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
+    maioria das pessoas.
 
 ## Relações
 

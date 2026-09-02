@@ -34,10 +34,9 @@ prazo== — ou seja, aventuras que já vêm montadas.
 > Nos eventos da coluna da direita a obra diz apenas "prêmios crescentes", "benefícios
 > territoriais", "recursos escalonando em valor" — e este vault **não inventa** um número
 > para preencher a lacuna. Quando você precisar de um, a régua para arbitrar está em
-> [[02 - Pedras Primordiais|Pedras Primordiais]] (o que as coisas custam) e na tabela de ordens de grandeza de renda
-> em [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]]
-> (quanto se ganha por rank e por tempo gasto). Um prêmio calibrado é o que a coluna de
-> renda daquela tabela paga em algumas semanas de trabalho do rank correspondente.
+> [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], que reúne num lugar só o que as coisas custam e o que
+> cada atividade rende por rank e por tempo gasto. Um prêmio calibrado é o que a tabela de
+> renda daquela nota paga em algumas semanas de trabalho do rank correspondente.
 
 ## Heranças: o grande evento social do mundo
 
@@ -170,8 +169,12 @@ ancião externo do clã anfitrião — uma porta institucional de reabilitação
   contabilidade completa documentada em que as perdas foram enormes mas o corpo da criatura
   abatida valia mais que tudo o que se perdeu.
 - **Pedágios rituais** — passagens guardadas por criaturas que exigem uma prova específica.
-  Um caso documentado: uma queda de braço contra os guardiões, em que usar um Gu conta como
-  trapaça e é punido com a morte de todo o grupo.
+  O caso mais bem documentado é uma cordilheira inteira em que cada bando de guardiões
+  mantém o próprio posto de cobrança: disputa-se uma queda de braço, e a caravana que vence
+  passa livre enquanto a que perde entrega parte da carga. Usar um Gu na disputa conta como
+  trapaça. A instituição existe porque um cultivador de rank 5 abriu a rota gerações atrás
+  vencendo o líder dos guardiões no próprio jogo deles. Ver
+  [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]].
 
 ## Provas de herança institucionalizadas
 

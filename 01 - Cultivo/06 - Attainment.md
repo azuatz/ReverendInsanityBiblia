@@ -7,7 +7,7 @@ aliases:
   - Attainment level
   - Nível de realização
 status: consolidado
-fontes: ["cap. 572", "cap. 627-628", "cap. 731", "cap. 735", "cap. 838", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1210", "cap. 1236", "cap. 1261", "cap. 1367", "cap. 1394", "cap. 1487", "cap. 1569", "cap. 1679", "cap. 1782", "cap. 1796", "cap. 1980", "cap. 2028", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2095", "cap. 2118", "cap. 2131-2171", "cap. 2145", "cap. 2237", "cap. 2247", "cap. 2293"]
+fontes: ["cap. 572", "cap. 627-628", "cap. 687", "cap. 731", "cap. 735", "cap. 838", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1210", "cap. 1236", "cap. 1261", "cap. 1367", "cap. 1394", "cap. 1487", "cap. 1569", "cap. 1679", "cap. 1782", "cap. 1796", "cap. 1980", "cap. 2028", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2095", "cap. 2118", "cap. 2131-2171", "cap. 2145", "cap. 2237", "cap. 2247", "cap. 2293"]
 conhecimento: especializado
 ---
 

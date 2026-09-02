@@ -173,8 +173,97 @@ parede da região que ela envolve e obrigaria a duplicar a escada de conheciment
 
 ## Grandes eventos que encontrei
 
-*(para os agentes de `08 - Eventos e Cenarios/`)*
+*(lista para os agentes de `08 - Eventos e Cenarios/`. Não escrevi nota de nenhum deles — só
+registro que existem e onde está a evidência. Vários já aparecem como pano de fundo em notas de
+`04 - Mundo/`, o que significa que a pasta 08 deve tratá-los como **cenário jogável**, não repetir
+a descrição de mundo.)*
+
+**Ciclos com data marcada (os melhores para virar estrutura de campanha):**
+
+- **A maré de bestas / calamidade de bestas** — trienal no caso mais documentado, com quatro fases
+  sazonais legíveis; a calamidade é a escala secular acima. Já descrita como mecânica em
+  `07 - Bestas Gu e Reis Fera`.
+- **A grande nevasca decenal das Planícies do Norte** — dura meses, mata em massa, seca as
+  nascentes de toda a região e é seguida do melhor período de crescimento. Segredo: não é
+  meteorologia. Já descrita em `04 - As Cinco Regiões` e no Atlas.
+- **A maré de terra anual do Mar Oriental** — abre a única porta regular do mundo, e as rotas de
+  travessia são um ativo comercial perecível. Já descrita no Atlas.
+- **A erupção centenária da grande cratera do Deserto Ocidental** — redesenha o terreno em volta.
+- **A dispersão anual da névoa da montanha número um** (Continente Central) — dispara uma
+  peregrinação continental de reivindicação e instalação de heranças.
+- **A convenção do caminho de refino** — a cada cem anos, com inscrições por todo o continente.
+- **A frutificação da Árvore dos Mil Desejos** (Deserto Ocidental) — ciclo de 300/600/900 anos,
+  exatamente mil frutos, exige chegar com uma receita de Gu em mãos; já causou guerras entre
+  facções imortais. Descrita em `17 - As Plantas e os Bichos Comuns`. **Excelente candidata a
+  cenário.**
+- **A submersão sazonal de ilhas-mercado no Mar Oriental** — o mercado abre e fecha com a maré.
+- **A disputa decenal pelo trono** nas Planícies do Norte (já em `06 - Economia e Vida`).
+
+**Eventos estruturais únicos:**
+
+- **A Grande Era** — as veias de terra se fundem, as paredes regionais caem, as cinco regiões viram
+  uma só, e as diferenças de qi congeladas viram marés de qi que varrem o mundo. É o evento que
+  divide o cenário em "antes" e "depois". Ver `04 - As Cinco Regiões` e `13 - Cosmologia`.
+- **A queda dos sete céus imemoriais** — origem dos mundos fragmentados e da escassez permanente de
+  vários materiais.
+- **A ruptura da fronteira do mundo, há ~300 mil anos** — quatro Veneráveis remendaram; o remendo
+  nunca ficou completo. `conhecimento: segredo` de nível máximo.
+- **A "batalha dos cem dias"** — um vale desaparece do mapa e vira lugar de visitação (cap. 953).
+- **O massacre de Mu Bei mountain** — um clã inteiro chacinado e convertido em zumbis, com lápide
+  gigante erguida sobre as ruínas; sacudiu a Fronteira Sul inteira e deixou a montanha com nome
+  novo e população hostil permanente (cap. 253). É o **modelo canônico de ruína amaldiçoada**, e
+  está descrito como mecânica em `18 - O Selvagem, as Ruínas e as Zonas Proibidas`.
+- **A queda de um fragmento de gruta-céu num vale** (cap. 908) — dez grandes seitas cercam mil li e
+  matam quem entrar. Modelo de "corrida ao ouro com cordão militar".
+- **A fome histórica da capital** (cap. 1992) — citada de passagem, sem causa nem frequência.
+  `—` Espaço grande e limpo para a pasta 08 preencher.
 
 ## O que a obra realmente não diz
 
-*(em andamento)*
+Levantamento de silêncios **verificados por varredura do texto-fonte**, não por ausência em fonte
+secundária. Todos foram registrados dentro das notas com `—` ou em callout `[!question]`, para que
+a designer saiba que pode preencher sem contradizer nada.
+
+**Tempo e céu**
+- Não há conversão numérica de "tempo de um sopro", "vareta de incenso" ou "quarto de hora" para
+  segundos/minutos. Só dá para calibrar por comparação relativa.
+- Não existe datação por ano numerado. Nenhum "ano 3.412", nenhum calendário imperial, nenhuma
+  contagem desde uma fundação. Só eras com nome de Venerável.
+- Não existe relógio de nenhum tipo — nem de água, nem de sol, nem ampulheta. E a obra também não
+  usa o sistema chinês de doze duplas-horas.
+- **Não existem eclipses**, em nenhum dos seis volumes.
+- A fase da lua real não tem nenhum efeito mecânico conhecido sobre cultivo. A única ligação
+  registrada é folclórica: lobos uivam na lua cheia.
+- Não há nenhuma afirmação de que a noite favoreça o cultivo. O perigo noturno é explicado por
+  falta de luz, e nada mais.
+- Não há duração numérica da noite nem do dia.
+
+**Clima e desastre**
+- O Continente Central é o maior silêncio meteorológico da obra: sem estações, monções, secas ou
+  desastre sazonal próprio.
+- O Deserto Ocidental não tem estações agrícolas nem calendário sazonal formal.
+- **Quase não existe desastre natural espontâneo.** Terremoto, tsunami, tempestade de areia,
+  enchente e epidemia aparecem quase sempre ou como comparação literária, ou com causa mágica
+  identificável. A obra nunca *nega* que existam desastres naturais puros; simplesmente quase nunca
+  narra um.
+- Não há **nenhuma epidemia natural** em nenhum volume. Toda "praga" nomeada é arma de cultivador.
+- A fome histórica é citada uma vez, sem causa, frequência ou resposta social.
+- Não há protocolo descrito de proteção contra desastre puro (dique, abrigo, celeiro público).
+
+**Natureza**
+- A obra nunca enuncia num parágrafo só a escada de grau das **plantas**, como faz com as feras —
+  a escada é dedução por vocabulário.
+- A obra **nunca usa o verbo "domesticar"**. Fala em criar, escravizar e manter fazenda.
+- Não existem os termos "herbalista", "farmácia", "jardim de ervas" nem "planta carnívora".
+- A fronteira entre "planta cultivada comum" e "planta que é um Gu" nem sempre é explicitada: várias
+  flores listadas como material de refino não recebem classificação.
+
+**Geografia e travessia**
+- A obra não descreve o interior das paredes regionais de miasma, de chama ardente e de água azul —
+  só o das de santa e de alcaçuz.
+- A cadência exata e a duração da maré de terra do Mar Oriental nunca são dadas.
+- Não existe sistema de marés comuns com ciclo lunar; a maré aparece só como pano de fundo.
+- Não há lista de ruínas famosas do mundo, nem escala de "níveis de assombração", nem prazo de
+  dissipação natural do qi de rancor. O que existe é o mecanismo.
+- Não existe cartografia pública de nenhuma região, e a obra faz disso uma propriedade do cenário:
+  **sempre existe mais mundo do que mapa**.

@@ -272,7 +272,10 @@ isso é imprevisível de um jeito que nenhum planejamento institucional cobre.
   reeducar e eventualmente **recrutar** os prisioneiros.
 - **Uma lista oficial de procurados** de âmbito mundial, atualizada em ciclos de décadas
   pela autoridade máxima do mundo, na qual certos caminhos de cultivo são presença
-  permanente.
+  permanente. Ela não é um pergaminho: é uma máquina que **detecta sozinha** os praticantes
+  de um caminho específico em qualquer lugar do mundo — ver
+  [[10 - Lei, Crime e Castigo#Camada 5 — a única lei mundial|Lei, Crime e Castigo]], onde
+  todo este aparato repressivo está descrito em detalhe, com a tabela de penas.
 - **Seitas caçadoras** especializadas em perseguir cultivadores demoníacos.
 - **Suspeita por indício circunstancial:** um Mestre Gu viajando **sozinho** pela selva já
   é sinal de alerta, porque clãs mandam gente em grupos de cinco. E solitários que

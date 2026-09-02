@@ -13,9 +13,9 @@ RPG registrou algum destes só com nome em português. Confira antes de adiciona
 
 Para cada Gu desta lista, a ficha completa está em:
 
-- `09 - Apendices/Catálogo de Gu - Mortais.md` (ranks 1–5) — colunas: efeito,
+- `10 - Apendices/Catálogo de Gu - Mortais.md` (ranks 1–5) — colunas: efeito,
   alimentação, uso, refino, vantagem e desvantagem
-- `09 - Apendices/Catálogo de Gu - Imortais.md` (ranks 6–9) — colunas: efeito,
+- `10 - Apendices/Catálogo de Gu - Imortais.md` (ranks 6–9) — colunas: efeito,
   alimentação, uso e peculiaridade
 
 Convenção nossa que vale respeitar ao importar: texto normal é canônico; `(ded.)` é
@@ -28,7 +28,7 @@ não deve ser lido como "nenhum", "barato" ou "irrelevante".
   refino, fusão, taxas de sucesso por rank, os quatro estilos de refinement path) e
   `_pipeline/rascunho/catalogo-gu.md` (receitas específicas registradas na leitura).
 - **Regras de espólio** (importante, muda economia): `02 - Gu/Espólio de Gu.md`.
-- **Tabelas numéricas do sistema**: `09 - Apendices/Tabelas de Referência Rápida.md`.
+- **Tabelas numéricas do sistema**: `10 - Apendices/Tabelas de Referência Rápida.md`.
 
 ## Lista dos Gu ausentes
 

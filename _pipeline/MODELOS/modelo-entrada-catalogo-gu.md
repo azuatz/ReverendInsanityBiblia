@@ -6,7 +6,7 @@
 > citações inline dos exemplos abaixo ao aplicar o modelo. (Rascunhos internos de
 > `_pipeline/rascunho/` podem e devem citar capítulos inline.)
 
-Uso: `09 - Apêndices/Catálogo de Gu.md` — tabela mestra de todos os Gu da obra,
+Uso: `10 - Apêndices/Catálogo de Gu.md` — tabela mestra de todos os Gu da obra,
 dividida por path (uma seção `## Path` por path, Gu Imortais com ⭐ no nome). Gu
 especialmente importantes ganham nota própria além da linha na tabela.
 

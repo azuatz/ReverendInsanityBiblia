@@ -12,7 +12,7 @@ por tema (ex.: `cultivo-essencia-primeva.md`, `catalogo-gu.md`, `paths.md`,
 
 Os rascunhos são para o próprio Claude ler nas fases seguintes, não para a designer:
 densos, completos, com citações de capítulo inline (aqui são bem-vindas), sem
-preocupação didática. As notas FINAIS das pastas `01 - Cultivo/` a `09 - Apêndices/`
+preocupação didática. As notas FINAIS das pastas `01 - Cultivo/` a `10 - Apêndices/`
 só serão escritas na fase de escrita final, depois da obra inteira lida — NÃO as crie
 durante a leitura; se encontrar alguma criada prematuramente, mova o conteúdo para o
 rascunho do tema. Consulte `_pipeline/LACUNAS.md` e marque/responda itens que a leva

@@ -32,8 +32,8 @@ em português, e o efeito desambigua os casos de nome parecido.
 Sugestão de procedimento: varram a lista comparando por efeito, não por nome. O que
 sobrar sem correspondente é o conjunto realmente ausente, e aí a curadoria vale a pena.
 
-Fichas completas em `09 - Apendices/Catálogo de Gu - Mortais.md` e
-`09 - Apendices/Catálogo de Gu - Imortais.md`.
+Fichas completas em `10 - Apendices/Catálogo de Gu - Mortais.md` e
+`10 - Apendices/Catálogo de Gu - Imortais.md`.
 
 ## Convenção das fichas (importante ao importar)
 

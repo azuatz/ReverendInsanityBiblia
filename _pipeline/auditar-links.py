@@ -21,7 +21,7 @@ def limpar_codigo(t):
     return t
 
 def main():
-    files = sorted(glob.glob("0*/*.md") + glob.glob("*.md"))
+    files = sorted(glob.glob("[0-9]*/*.md") + glob.glob("*.md"))
     fname, alias = {}, {}
     for p in files:
         b = os.path.basename(p)[:-3]

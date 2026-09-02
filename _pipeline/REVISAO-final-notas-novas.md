@@ -10,7 +10,7 @@ data: 2026-09-01
 # Revisão final — as seis notas novas
 
 Revisão feita com **olhar de designer de TTRPG que nunca leu a obra** e que tem este vault
-como única fonte. Fonte soberana dos números: `09 - Apendices/Tabelas de Referência Rápida.md`.
+como única fonte. Fonte soberana dos números: `10 - Apendices/Tabelas de Referência Rápida.md`.
 Os catálogos da pasta `09` (exceto a tabela soberana, consultada como referência) ficaram
 fora do escopo.
 

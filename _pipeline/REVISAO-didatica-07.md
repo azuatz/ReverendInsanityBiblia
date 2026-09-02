@@ -9,9 +9,9 @@ leiga. A `07` foi escrita e depois corrigida pelo mesmo agente, sem olhar extern
 
 **Método:** li as quatro notas na ordem em que uma designer as encontraria (nota-porta
 primeiro), anotando cada termo que não entendi e cada nome que não consegui situar.
-Depois cruzei todo número e toda afirmação estrutural contra `09 - Apendices/Tabelas de
-Referência Rápida.md` (fonte soberana), `09 - Apendices/Linha do Tempo e Eras.md`,
-`09 - Apendices/Glossário EN-PT.md`, `01 - Cultivo/Tornar-se Venerável.md`,
+Depois cruzei todo número e toda afirmação estrutural contra `10 - Apendices/Tabelas de
+Referência Rápida.md` (fonte soberana), `10 - Apendices/Linha do Tempo e Eras.md`,
+`10 - Apendices/Glossário EN-PT.md`, `01 - Cultivo/Tornar-se Venerável.md`,
 `04 - Mundo/Cosmologia.md` e `04 - Mundo/Fate Gu.md`. Por fim auditei as 36 âncoras de
 wikilink da pasta contra os cabeçalhos reais das notas de destino.
 

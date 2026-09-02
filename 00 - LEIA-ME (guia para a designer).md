@@ -106,8 +106,8 @@ geografia concreta de cada região, com os lugares, os bichos e as zonas que a p
 | `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região, os tipos de gente que o mundo reconhece e as filosofias de vida em disputa. |
 | `06 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
 | `07 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
-| `08 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
-| `09 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
+| `09 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
+| `10 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
 
 Cada pasta tem uma nota "Visão Geral" que serve de porta de entrada, com um resumo, as
 **regras do mundo** daquele domínio em lista numerada, e a separação entre o que todo

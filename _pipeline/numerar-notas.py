@@ -63,8 +63,8 @@ ORDEM = {
         "Visão Geral dos Veneráveis", "Os Criadores de Caminhos",
         "Os Arquitetos da Ordem", "Os Que Romperam as Leis",
     ],
-    "08 - Estudos de Caso Mecanicos": ["Estudos de Caso Mecânicos"],
-    "09 - Apendices": [
+    "09 - Estudos de Caso Mecanicos": ["Estudos de Caso Mecânicos"],
+    "10 - Apendices": [
         "Glossário EN-PT", "Tabelas de Referência Rápida", "Catálogo de Gu",
         "Catálogo de Gu - Mortais", "Catálogo de Gu - Imortais",
         "Catálogo de Receitas", "Catálogo de Golpes - Mortais",
@@ -73,22 +73,34 @@ ORDEM = {
 }
 
 
+PREFIXO = re.compile(r"^\d{2} - ")
+
+
+def base(nome):
+    """Nome da nota sem o prefixo numerico — o script precisa ser idempotente,
+    porque roda de novo toda vez que uma nota nova entra na ordem."""
+    return PREFIXO.sub("", nome)
+
+
 def plano():
-    """Devolve (renomeios, erros). renomeios = lista de (pasta, antigo, novo)."""
+    """Devolve (renomeios, erros). renomeios = lista de (pasta, arquivo atual, novo)."""
     ren, err = [], []
     for pasta, ordem in ORDEM.items():
         if not os.path.isdir(pasta):
             err.append(f"pasta inexistente: {pasta}")
             continue
-        no_disco = {f[:-3] for f in os.listdir(pasta) if f.endswith(".md")}
+        # base sem prefixo -> nome do arquivo como esta no disco agora
+        no_disco = {base(f[:-3]): f[:-3] for f in os.listdir(pasta) if f.endswith(".md")}
         listadas = set(ordem)
-        for falta in sorted(no_disco - listadas):
+        for falta in sorted(set(no_disco) - listadas):
             err.append(f"{pasta}: nota no disco e fora da ordem -> {falta}")
-        for sobra in sorted(listadas - no_disco):
+        for sobra in sorted(listadas - set(no_disco)):
             err.append(f"{pasta}: na ordem mas nao existe no disco -> {sobra}")
         for i, nome in enumerate(ordem, 1):
             if nome in no_disco:
-                ren.append((pasta, nome, f"{i:02d} - {nome}"))
+                atual, alvo = no_disco[nome], f"{i:02d} - {nome}"
+                if atual != alvo:
+                    ren.append((pasta, atual, alvo))
     return ren, err
 
 
@@ -144,7 +156,7 @@ def main():
     # relatórios de revisão também usam wikilinks, e ficariam quebrados dentro do Obsidian
     # se só as pastas numeradas fossem tratadas.
     arquivos = sorted(
-        glob.glob("0*/*.md")
+        glob.glob("[0-9]*/*.md")
         + glob.glob("*.md")
         + glob.glob("_pipeline/**/*.md", recursive=True)
         + glob.glob("_entregas/**/*.md", recursive=True)

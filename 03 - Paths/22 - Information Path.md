@@ -146,9 +146,11 @@ não abstração:
 
 ### Juramento, revisitado: por que ele é físico e o que isso libera
 
-A nota já registra que ==a essência de um acordo de aliança é usar métodos do caminho da
-informação para deixar marcas do Dao de informação no corpo **e** na alma==. Com a camada acima
-no lugar, três detalhes ganham sentido novo:
+A seção seguinte desta nota destrincha o sistema de juramentos inteiro. O que interessa aqui é a
+frase que o funda — ==a essência de um acordo de aliança é usar métodos do caminho da informação
+para deixar marcas do Dao de informação no corpo **e** na alma== — porque, com a camada acima no
+lugar, ela deixa de ser uma metáfora jurídica e vira física do mundo. Três detalhes ganham
+sentido novo:
 
 1. **Um acordo é um objeto, e um objeto pode ser desmontado por qualquer um que saiba mexer em
    marcas — não só por quem entende de contratos.** O caso canônico é decisivo: as marcas de um

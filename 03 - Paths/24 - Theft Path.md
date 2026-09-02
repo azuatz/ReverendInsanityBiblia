@@ -235,7 +235,7 @@ verdade, um dos que mais cobram, e as cobranças são de cinco tipos distintos.
 | **Destrói a fonte para sempre** | Um acionamento **aleija um ponto de recurso natural sem nenhuma possibilidade de recuperação**. Isso não é apenas dano ao inimigo: é o caminho **esterilizando o mundo** de onde ele próprio vive. Cada uso é uma mina fechada |
 | **Custo operacional altíssimo** | Mesmo em quem tem a Casa de Gu Imortal do caminho, o golpe representa uma **carga enorme** sobre a estrutura e um gasto pesado de essência imortal — a ponto de o uso extensivo ser impossível e o golpe virar **carta na manga**, não rotina |
 | **Assinatura** | Cada roubo entrega uma amostra do método; exposição convida contra-ataque e dedução da identidade |
-| **Conflito interno de marcas** | Roubo e [[10 - Soul Path|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
+| **Conflito interno de marcas** | Roubo e [[10 - Soul Path\|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
 
 E há a cobrança mais elegante de todas, que já está registrada acima nesta nota e pertence
 conceitualmente a esta seção: o golpe de ocultação que torna o portador **invisível para a vontade
@@ -481,6 +481,9 @@ Vale enumerar, porque a resposta é econômica e não moral:
 - O nível do Gu da Aposta.
 - A mecânica do golpe lendário "Roubar o Coração" — só o nome e o efeito prometido.
 - O que exatamente o degrau de **grão-mestre** destranca neste caminho.
+- **Por que doar o próprio tempo de vida é a essência mais profunda da herança do fundador.** A obra
+  afirma que é, sela a capacidade atrás de um patamar de domínio altíssimo, e **nunca explica o
+  porquê**. É a lacuna deliberada mais valiosa da nota.
 
 ## Relações
 

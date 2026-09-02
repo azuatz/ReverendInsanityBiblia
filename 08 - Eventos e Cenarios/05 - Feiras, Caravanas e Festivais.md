@@ -133,7 +133,7 @@ aposta. E o número que a mesa precisa ouvir antes de gastar: **numa casa pequen
 pedras são maciças, sem Gu nenhum; e mesmo quando há Gu, quase sempre está morto**. Quem tira um Gu
 vivo raro *"ou vira uma pessoa de sucesso, ou é assassinado e roubado"*. Detalhes em
 [[09 - Aposta de Rochas|Aposta de Rochas]] e
-[[13 - Aposta de Rochas: Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
+[[15 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
 
 **A casa da árvore.** A loja de alto padrão, e ela tem **três andares**: o primeiro vende Gu de
 rank 1, o segundo de rank 2, o terceiro de rank 3 — quanto mais alto, menos peças e mais caro. Não

@@ -109,7 +109,18 @@ Três fontes registradas:
 2. **Roubo de tribulação.** Um golpe do caminho do roubo captura as marcas caóticas de uma
    tribulação **em curso** e as fixa num material; um golpe do [[15 - Food Path|caminho da comida]]
    depois **consome** esse material, convertendo-o em marcas do céu.
-3. **Anexação de territórios celestes.** Cada anexação rende marcas do céu.
+3. **Anexação de territórios celestes.** Cada anexação rende marcas do céu. Grotto-heavens de
+   rank 8 costumam conter algo entre **oitocentas e duas mil** marcas do céu, dependendo do
+   caminho e da idade — um patrimônio que o dono original nunca soube que tinha.
+4. **Refinar a tribulação alheia.** Quem já domina o golpe de entrada pode se postar **do lado
+   de fora** de uma grande tribulação em curso e refinar as marcas do céu que ela produz — e,
+   pelo mesmo princípio, ajudar outros cultivadores a passarem pelas provações deles **para
+   colher as marcas resultantes**. A provação de um vira a matéria-prima do outro.
+5. **Material imortal do caminho do céu.** Marcas celestiais irrestritas **roubadas de outra
+   pessoa** se consolidam num material imortal do caminho do céu — que então precisa ser
+   **devorado** por um golpe do [[15 - Food Path|caminho da comida]] para virar marcas de novo.
+   Existe também um gelo flutuante ligado ao caminho do céu que, "digerido", eleva diretamente o
+   nível de cultivo de quem o consome.
 
 ### O custo: uma tribulação involuntária
 
@@ -275,10 +286,10 @@ Venerável que dominou o golpe cultivava terra.
 
 `(ded.)` A trava final do caminho do céu, portanto, não é técnica: é **biográfica**. Quando
 alguém acumula domínio e marcas suficientes para chegar perto do caminho do céu, já está
-irreversivelmente comprometido com outro caminho — e o conflito de marcas fecha a porta. Um
-Venerável que **converteu-se** ao caminho do céu depois de morto e revivido pagou o preço:
-ressuscitou apenas em nível **pseudo-Venerável**, e a obra levanta explicitamente a hipótese de
-que a conversão seja a causa. Ver
+irreversivelmente comprometido com outro caminho — e o conflito de marcas fecha a porta. E há
+o preço registrado da conversão tardia: um Venerável que **trocou de caminho** para o do céu já
+muito adiantado na existência voltou à ativa apenas em nível **pseudo-Venerável**, e a obra
+levanta explicitamente a hipótese de que a troca seja a causa. Ver
 [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 
 ## O que o mundo não sabe que já é caminho do céu

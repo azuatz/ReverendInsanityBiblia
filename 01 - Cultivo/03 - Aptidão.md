@@ -278,7 +278,9 @@ C. É correlação, não medida. O segundo é tardio e explícito: existe um Gu 
 quem o usa passa a enxergar colunas de qi de cores diferentes, umas mais altas que as outras,
 cada uma com um formato próprio, sobre a cabeça de cada pessoa da sala. Fora esses dois casos,
 **a obra não descreve nenhuma aura, marca ou traço físico que denuncie aptidão**: um grau A e um
-grau D andando na rua são indistinguíveis. E existe um golpe que amplifica calamidades **priorizando os alvos de maior talento**, confirmado em combate mirando repetidamente os prodígios e ignorando os medianos ao lado. O ditado popular de que grande talento atrai grande desgraça é, mecanicamente, verdade.
+grau D andando na rua são indistinguíveis.
+
+Uma última nota de mundo tardio, útil para ambientação: existe um golpe que amplifica calamidades **priorizando os alvos de maior talento**, confirmado em combate mirando repetidamente os prodígios e ignorando os medianos ao lado. O ditado popular de que grande talento atrai grande desgraça é, mecanicamente, verdade.
 
 > [!example] Caso mecânico
 > Preso dentro de um escudo de rank 5 durante o caos de um confronto, um Mestre Gu rank 3 de grau C usou um Gu demoníaco roubado para converter cada morte ao seu redor em aptidão permanente, saltando de 43% para mais de 90% em poucas horas. É a exceção que confirma a regra: a aptidão é alterável — pelos métodos mais caros e sombrios que o mundo possui.

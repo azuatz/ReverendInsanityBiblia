@@ -8,7 +8,7 @@ aliases:
   - Essência primordial
   - Essência Imortal
 status: consolidado
-fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap. 50", "cap. 81", "cap. 90-91", "cap. 135", "cap. 140", "cap. 147", "cap. 152", "cap. 159", "cap. 173", "cap. 178-181", "cap. 193-199", "cap. 212", "cap. 214", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 273", "cap. 278", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 449", "cap. 454", "cap. 504", "cap. 1500", "cap. 1973", "cap. 2295-2334"]
+fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap. 50", "cap. 81", "cap. 90-91", "cap. 135", "cap. 140", "cap. 147", "cap. 152", "cap. 159", "cap. 173", "cap. 178-181", "cap. 193-199", "cap. 212", "cap. 214", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 273", "cap. 278", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 449", "cap. 454", "cap. 504", "cap. 1500", "cap. 1973", "cap. 2295-2334", "cap. 6", "cap. 22", "cap. 29", "cap. 96", "cap. 100", "cap. 106", "cap. 122", "cap. 362", "cap. 410", "cap. 437"]
 conhecimento: comum
 ---
 
@@ -23,6 +23,88 @@ Cada Mestre Gu tem uma essência única. A obra é enfática: não existem duas 
 O gasto é contado em **porcentagem do Mar Primordial**, nunca em pontos absolutos. Uma lâmina de luar custa 10% da reserva; um escudo custa outros tantos. É por isso que a [[03 - Aptidão|aptidão]] importa tanto: ela define quanto é o total de que essa porcentagem é tirada.
 
 A reposição vem de duas fontes. A **recuperação natural**, proporcional ao grau de aptidão — cerca de 4% da reserva por hora para um grau C, cerca de 8% para um grau A — e que fica progressivamente mais lenta e mais cara conforme o rank sobe, porque a energia que precisa ser produzida é de qualidade maior. E a **absorção de [[02 - Pedras Primordiais|pedras primordiais]]**, muito mais rápida, mas limitada pelo mesmo teto de capacidade: pedras enchem depressa, não enchem além do limite. Absorver pedras **durante** o combate é possível e quase suicida, porque exige dividir a atenção; a prática real é recarregar em pausas táticas.
+
+## Como ela é: a fisicalidade da essência
+
+Antes de qualquer regra, o que a leitora precisa poder imaginar. A obra descreve a essência
+em cena dezenas de vezes, e o retrato é consistente.
+
+**É líquida.** Literalmente água: um mar com ondas que sobem e descem, superfície lisa como um
+espelho quando em repouso, densa, com brilho metálico. Cada gota é uma porção de essência.
+Quando a essência é refinada para um estágio mais denso, a porção nova **afunda** e forma
+camada no fundo do mar — comporta-se como líquido de densidade diferente, não como energia
+abstrata.
+
+**Ela brilha.** A água do Mar Primordial emite luz da própria cor. Um Gu mergulhado nela pode
+ser visto lá do fundo brilhando "como uma lâmpada".
+
+**Sai do corpo visivelmente.** Este é o ponto que muda a encenação de qualquer cena de combate.
+Quando o Mestre Gu aciona um Gu, a essência **sai do corpo** e vai até ele, e a forma depende
+do volume:
+
+- Volume grande: um **jato contínuo de névoa colorida** que emana do corpo inteiro e envolve o
+  alvo — a obra descreve isso ao pé da letra durante um refino, com a névoa verde-cobre
+  enrolando um Gu suspenso a menos de trinta centímetros do rosto do Mestre.
+- Volume médio: uma **nuvem ou neblina** que escorre do corpo em direção à marca do Gu na pele
+  (uma neblina vermelho-clara, no caso de um rank 2).
+- Volume pequeno, ou usuário de rank alto: um **fio finíssimo**, "quase impossível de ver".
+
+**Um observador vê.** Vê a névoa e vê a cor, e a cor entrega o rank na hora — é assim que se
+prova cultivo em público sem violar o tabu de inspeção. O que ele *não* vê é quanta essência
+sobrou: isso não vaza.
+
+**Tem cheiro? Temperatura? Som?** — a obra não informa. Não há uma única passagem em que
+alguém cheire, sinta calor ou frio ou ouça a essência primordial. (Vários **Gu** têm cheiro
+próprio, mas isso é do bicho, não da energia.) Se a mesa quiser dar à essência um cheiro ou uma
+temperatura, está inventando — o que é permitido, desde que declarado.
+
+### Quando ela acaba
+
+**O que se sente.** A obra descreve o gasto pesado uma única vez de dentro, e a descrição é
+seca: em menos de três minutos despejando essência num Gu, **o rosto empalidece** e vem "uma
+fraqueza que sobe rapidamente até o coração". Não há dor, não há tontura, não há visão turva.
+É exaustão, do tipo que se sente depois de doar sangue.
+
+**O que acontece no mundo.** A queda de desempenho é abrupta, não gradual: sem essência, a força
+de combate de um Mestre Gu "cai vertiginosamente" e ele passa a valer **menos que um mortal
+comum** — porque perdeu o equipamento inteiro de uma vez. O ditado que o mundo usa é a passagem
+de tigre a gato doente. Daí a norma de nunca gastar os últimos 10%.
+
+**Como se percebe que está acabando.** Aqui está o detalhe mais útil para uma mesa, e ele é
+contraintuitivo: **não existe sensação automática de reserva baixa.** O Mestre Gu não tem uma
+barrinha na cabeça. Ele **vira a atenção para dentro e olha o próprio mar** — o gesto de
+"inspecionar a abertura", que leva um instante e pode ser feito em qualquer situação, inclusive
+montado ou no meio de uma troca de golpes. As falas da obra são literalmente leituras de
+painel: "gastei 20% da minha essência", "ainda tenho pouco mais da metade do vermelho-escuro".
+Quem não olha, não sabe — e um Mestre Gu distraído descobre que secou no pior momento possível.
+
+### Como ela volta
+
+Duas rotas, e as duas têm encenação própria.
+
+**Recuperação natural.** Passiva, contínua, lenta e silenciosa: nada se vê e nada se sente. É a
+que sustenta o cultivo do dia a dia, e a obra registra o caso limite de alguém que só usa Gu de
+rank 1 e cuja recuperação simplesmente empata com o gasto, tornando-o praticamente inesgotável.
+
+**Absorção de [[02 - Pedras Primordiais|pedras primordiais]].** Esta tem gesto: o Mestre Gu
+**pega a pedra na mão, fecha os olhos** e extrai. Por dentro, o nível do mar sobe "numa
+velocidade visível a olho nu" — e para de repente ao bater no teto da aptidão, com espaço
+sobrando. Encher do quase-zero até o teto de 44%, num rank 1 com pedras à mão, leva **cerca de
+meia hora**. É rápido o bastante para ser feito numa pausa tática, e a obra mostra grupos
+fazendo exatamente isso: um faz vigilância enquanto os outros três recarregam sentados. Fazer
+isso *durante* a luta é possível e quase suicida, porque divide a atenção. Com anos de prática
+a extração vira instinto e deixa de exigir concentração.
+
+### E no patamar imortal, a substância muda de forma
+
+Do rank 6 em diante a energia deixa de ser um mar e passa a ser **contável**. A essência imortal
+se apresenta em **contas** — grãos discretos, guardados e gastos um a um, com nomes de fruta que
+descrevem a aparência e sobem com o rank: **uva-verde** (rank 6), **tâmara** (7), **lichia** (8) e
+**damasco-amarelo** (o patamar dos Veneráveis). A obra chega a mostrar uma tigela dourada com
+setenta e oito contas de uva-verde dentro, mais uma película de essência líquida azul-esverdeada
+no fundo contada como "meia conta". Um Imortal não pergunta "quantos por cento tenho": ele conta
+os grãos, e o número costuma ser assustadoramente pequeno — dezenas, não milhares. A escala de
+valor entre as contas está em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
 
 ## Os dois eixos: densidade e qualidade
 
@@ -50,7 +132,7 @@ A cor é a identidade pública do cultivador. Ela vaza como aura, é difícil de
 | 3 | branco-prata | 100× |
 | 4 | amarelo-dourado | diferença "significativa", sem número declarado |
 | 5 | roxo-cristal | sem número declarado |
-| 6+ | **essência imortal**, líquida esverdeada e sem fim | outra categoria de existência |
+| 6+ | **essência imortal** — não é mais um mar, e sim **contas** contadas uma a uma (uva-verde, tâmara, lichia, damasco-amarelo) | outra categoria de existência |
 
 Dentro de cada família, os quatro estágios têm tons próprios, que um observador treinado lê à distância:
 

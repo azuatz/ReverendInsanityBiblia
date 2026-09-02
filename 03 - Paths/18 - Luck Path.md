@@ -297,7 +297,9 @@ das habilidades do outro. Sorte é, literalmente, redução de variância compar
 | Coração Favorecido | 9 (material) | **Não é um Gu, é um material**: fica no núcleo de todo Tesouro da Terra e é o que permitiria refinar sorte na escala de nível 9 |
 | Jade da Sorte | 8 (material) | Material imortal do caminho; brilha sozinho e concentra uma densidade enorme de marcas de sorte |
 
-**Casas de Gu Imortal do caminho** — todas obra do fundador, que teve três casas de nível 8 na vida:
+**Casas de Gu Imortal do caminho.** O fundador teve **três casas de nível 8** ao longo da vida,
+e duas delas são de sorte; a primeira da lista abaixo não é dele, é a **criação de ápice da
+herança da sorte de si** — montada por quem a estudou depois:
 
 | Casa | Nível | O que faz |
 |---|---|---|

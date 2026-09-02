@@ -292,8 +292,8 @@ delas, como ingrediente escondido:
   contém profundidade humana;
 - o método de [[28 - Painting Path|pintura]] mais poderoso que a obra mostra é descrito como *um
   método do caminho da pintura **repleto das profundidades do caminho humano***;
-- as **dez constituições extremas** — os corpos mais raros do mundo — *são todas profundidades do
-  caminho humano*. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]];
+- os **dez físicos extremos** — os corpos mais raros do mundo — *são todos profundidades do caminho
+  humano*. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]];
 - e o caso mais afiado: existe um tipo de marca do Dao que é **o melhor auxílio de refino do mundo**,
   e a razão pela qual ninguém consegue reproduzi-la é que ela contém **essência do caminho humano**.
   A profundidade humana é literalmente o que **tranca** a receita.
@@ -612,5 +612,5 @@ nele.** Para todos os outros, um grande especialista de caminho humano é invis�
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — o qi humano e a mecânica da ascensão.
 - [[11 - Vontade dos Céus|Vontade dos Céus]] — o que exatamente este caminho combate, e a diferença entre Dao Celeste e vontade do céu.
 - [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — por que uma abertura imortal precisa de gente para não desmoronar.
-- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os corpos raros que são, tecnicamente, profundidades deste caminho.
+- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os "dez físicos extremos": corpos raros que são, tecnicamente, profundidades deste caminho.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

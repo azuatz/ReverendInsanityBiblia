@@ -7,7 +7,7 @@ aliases:
   - Phantom aperture
   - Abertura fantasma
 status: consolidado
-fontes: ["cap. 364", "cap. 395", "cap. 403", "cap. 585", "cap. 586", "cap. 757", "cap. 785", "cap. 788", "cap. 797", "cap. 808-810", "cap. 936", "cap. 1013", "cap. 1070", "cap. 1076", "cap. 1161", "cap. 1166", "cap. 1194", "cap. 1241", "cap. 1251-1254", "cap. 1277", "cap. 1323", "cap. 1344", "cap. 1419", "cap. 1556", "cap. 1605", "cap. 1682", "cap. 1696", "cap. 1714", "cap. 1782", "cap. 1787", "cap. 1788", "cap. 1806", "cap. 1866", "cap. 1869", "cap. 1901", "cap. 1980", "cap. 2154", "cap. 2155", "cap. 2171", "cap. 2316", "cap. 2323", "cap. 2330", "cap. 2331"]
+fontes: ["cap. 364", "cap. 395", "cap. 403", "cap. 585", "cap. 586", "cap. 757", "cap. 785", "cap. 788", "cap. 797", "cap. 808-810", "cap. 936", "cap. 1013", "cap. 1070", "cap. 1076", "cap. 1161", "cap. 1166", "cap. 1194", "cap. 1241", "cap. 1251-1254", "cap. 1277", "cap. 1323", "cap. 1344", "cap. 1419", "cap. 1556", "cap. 1605", "cap. 1682", "cap. 1696", "cap. 1714", "cap. 1746", "cap. 1782", "cap. 1787", "cap. 1788", "cap. 1806", "cap. 1866", "cap. 1869", "cap. 1901", "cap. 1980", "cap. 2154", "cap. 2155", "cap. 2171", "cap. 2316", "cap. 2323", "cap. 2330", "cap. 2331"]
 conhecimento: especializado
 ---
 
@@ -196,6 +196,20 @@ E há uma arma correspondente: o **rasgo no vazio** — *esta é a força do cam
 vazio!* Um rasgo que se expande; *quando ele acabara de começar a se espalhar, era **extremamente
 perigoso**; mas depois que seu poder se dispersou*, dava para se abrigar dentro dele. Enquanto o
 rasgo cresce, o mundo pequeno em volta encolhe.
+
+### O golpe nomeado do caminho
+
+A obra nomeia **um único golpe assassino** do caminho fantasma, e ele é uma boa síntese de tudo:
+
+**Torre Fantasma Invencível** — golpe imortal acionado de dentro de uma Casa de Gu Imortal pelos
+imortais que a tripulam. Efeito: *num instante, a Casa entrou em **forma fantasma** e ficou
+**virtualmente intocável***. É a forma fantasma aplicada a uma estrutura inteira, por decisão
+coletiva, como manobra de emergência no meio de uma batalha.
+
+E o mesmo episódio demonstra o limite canônico do caminho de forma perfeita: o golpe foi **derrotado
+na hora** por um golpe ofensivo do [[19 - Dream Path|caminho dos sonhos]], que atravessou a forma
+fantasma e invadiu a Casa mesmo assim — para espanto e fúria dos dois lados do combate. Ver
+*Sofre contra*, abaixo.
 
 ### Golpes entre o real e o ilusório
 
@@ -392,8 +406,9 @@ acabem se soltando.
   sabedoria, e praticantes são pouquíssimos.
 - **A dependência de domínio.** Sem domínio, o caminho só serve para evadir: montar formação fantasma
   exige nível de mestre; navegar o vazio exige grão-mestria.
-- **A ausência de golpes de assinatura.** Ver abaixo — a obra **não nomeia nenhum golpe assassino** do
-  caminho, e (ded.) isso reforça o status de caminho menor.
+- **A escassez de golpes de assinatura.** A obra nomeia **um** golpe assassino do caminho (a Torre
+  Fantasma Invencível) contra dezenas nomeadas em caminhos mainstream. (ded.) Isso reforça o status
+  de caminho menor: o repertório existe, mas quase nada dele foi registrado com nome.
 - **E ele não gera riqueza.** (ded.) Em nenhuma passagem o caminho fantasma produz materiais imortais,
   pontos de recurso ou renda: ele produz **segurança, ocultação e recipientes**. Isto é indução nossa
   a partir da ausência total de pontos de recurso fantasmas no texto — a obra não afirma.
@@ -458,9 +473,10 @@ acabem se soltando.
 
 ## O que a obra não diz
 
-- **Nenhum golpe assassino do caminho é nomeado.** Não existe aqui o equivalente a um "mão sem forma".
-  Os efeitos aparecem sempre como "um método do caminho fantasma", "formação fantasma", "virar
-  fantasma", "rasgo no vazio". É a lacuna mais notável desta nota.
+- **Quase nenhum golpe assassino do caminho é nomeado.** A obra nomeia exatamente **um** — a Torre
+  Fantasma Invencível — contra os muitos que nomeia em caminhos mainstream. Fora dele, os efeitos
+  aparecem sempre como "um método do caminho fantasma", "formação fantasma", "virar fantasma",
+  "rasgo no vazio". É a lacuna mais notável desta nota.
 - **O significado verdadeiro do caminho.** A obra afirma que ele existe e que foi obtido num reino de
   sonho, mas **não o enuncia** — e ainda diz que, no fundo, ele é o significado verdadeiro do caminho
   da regra.

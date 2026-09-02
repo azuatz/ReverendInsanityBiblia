@@ -6,7 +6,7 @@ aliases:
   - Wild Gu
   - Gu selvagem
 status: consolidado
-fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 129", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1038", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108"]
+fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 129", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1038", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108", "cap. 40", "cap. 44", "cap. 46", "cap. 57", "cap. 62", "cap. 63", "cap. 109", "cap. 113", "cap. 156", "cap. 165", "cap. 177", "cap. 268", "cap. 278", "cap. 297", "cap. 312", "cap. 315", "cap. 358", "cap. 400", "cap. 443", "cap. 448", "cap. 496", "cap. 505", "cap. 616", "cap. 689", "cap. 722", "cap. 751", "cap. 994-995", "cap. 1051", "cap. 1092", "cap. 1186", "cap. 1323", "cap. 1346", "cap. 1504", "cap. 1565", "cap. 1791", "cap. 1795", "cap. 1852"]
 conhecimento: comum
 ---
 
@@ -15,6 +15,143 @@ conhecimento: comum
 **Em uma frase:** um ==Gu== é uma criatura viva sobrenatural — em geral com forma de inseto,
 verme, planta ou pequeno animal — que concentra em si **um único poder mágico**, e toda a
 magia deste mundo consiste em capturar, dominar, alimentar e acionar esses bichos.
+
+## Como um Gu é, fisicamente
+
+Esta seção existe porque nenhuma regra do sistema faz sentido antes dela. Um Gu é um **bicho
+que cabe na mão** — e quase tudo o que o mundo faz (esconder Gu no corpo, guardá-los em potes,
+temer esmagá-los sem querer, roubá-los de um cadáver) decorre disso.
+
+### Tamanho: quase sempre pequeno, e o rank não muda isso
+
+A obra descreve dezenas de Gu com medida explícita, e o padrão é claro. Do menor ao maior, com
+exemplos canônicos:
+
+| Tamanho | Exemplos descritos na obra |
+|---|---|
+| **Meia unha** | um Gu em forma de pentagrama, luz branca leitosa |
+| **Uma unha** | um bicho-pau que normalmente seria maior que uma palma, encolhido e brilhando de branco |
+| **Ponta de dedo** | Gu em forma de gafanhoto, vermelhos, com cara assustadora |
+| **Um polegar** | uma pérola dourada; um bonequinho de lobo cinzento com brilho azul sinistro |
+| **Um dedo** | uma pérola branco-prateada; uma "centopeia" prateada e azul de pelos finos — que é um **Gu Imortal** |
+| **Uma palma da mão** | o Gu de luar, "do tamanho de um pingente de jade comum"; uma libélula de quatro cores; um caule de bambu verde-escuro, oco, frio ao toque; um Gu de nuvens em bola de cristal |
+| **Um punho** | um besouro preto como ferro; uma aranha preta gorda de oito patas peludas; uma joaninha verde-jade; um "briquete de carvão" cheio de furos; um Gu Imortal de sopro de vento em forma de pulga de cristal, encolhida em bola |
+| **Uma tigela de arroz / uma bacia** | uma pérola negra translúcida com um javali dormindo dentro; um Gu de fogo que **cresce** de punho para bacia depois de comer |
+| **Duas mãos** | um besouro-serra de exoesqueleto preto, tão pesado que nem um cultivador de corpo excepcional consegue segurá-lo |
+| **Um antebraço** | uma centopeia inteiramente dourada, coberta de espinhos finos (Gu Imortal de rank 7) |
+| **Corpo de montaria** | uma aranha-lobo de rank 5, grande o bastante para ser cavalgada, que escava túneis |
+| **Uma casa** | a "casa de Gu" das caravanas: uma **árvore de dezoito metros** com três andares de lojas por dentro, que faz crescer balcões e prateleiras conforme a vontade do dono |
+| **Uma montanha** | um Gu Imortal em forma de formiga dourada, "grande como uma montanha" — caso extremo e explicitamente excepcional |
+
+Duas conclusões importam mais que a lista.
+
+**Primeira: um Gu de rank 1 cabe na palma, e dá para segurar dez numa mão fechada.** O Gu de
+luar típico ocupa um pedaço da palma, pesa **o equivalente a uma folha de papel**, é
+semitransparente a ponto de o dono ver as linhas da própria mão através dele, e vai **no bolso**
+como uma moeda quando ainda não foi refinado. Um verme do licor pesa **meio ovo de galinha**.
+
+**Segunda, e é a que mais surpreende: tamanho não escala com rank.** Gu Imortais de rank 6, 7 e
+8 são do tamanho de um dedo, de um punho, de meia palma — exatamente a mesma faixa dos Gu de
+rank 1. Não existe "Gu grande porque é poderoso". Consequência direta para a mesa: **olhar um Gu
+não diz o rank dele**, e a diferença entre um tesouro que decide uma guerra e um bicho comum de
+mercado não é visível a olho nu. Os gigantes existem, mas são exceções nomeadas como tais.
+
+### Aparência: bicho de verdade, feito de material errado
+
+A maioria dos Gu tem forma de um animal real, e a obra os nomeia sem cerimônia: percevejo,
+bicho-da-seda, joaninha, besouro, aranha, mosquito, cigarra, pulga, formiga, libélula, escorpião,
+lagarta, sapo, água-viva, girino, centopeia.
+
+O que os torna estranhos não é a forma, é o **material**. Um Gu raramente parece feito de carne
+e quitina: parece feito de mineral. A obra descreve Gu de cristal, de jade, de safira, de
+porcelana vitrificada, de bronze, de ferro, de pedra; semitransparentes; com carapaça de brilho
+dourado; salpicados de estrelas que piscam. E **quase todos brilham**, com luz própria e da cor
+do seu efeito — um Gu de luar cheio de essência ilumina a palma da mão em pleno dia.
+
+### Nem todo Gu é inseto
+
+Vale dizer com todas as letras, porque a palavra "verme" engana. Há Gu que são:
+
+- **plantas** — uma grama de nove folhas, um caule de bambu, um lótus do tamanho de um rosto, um
+  ginseng milenar com raízes que parecem pernas, uma trepadeira de folhas verde-jade, e uma
+  árvore inteira;
+- **objetos** — uma máscara de bronze, um osso preto de pontas arredondadas, um crânio de criança
+  em cristal com veios de sangue, uma noz do tamanho de uma melancia, um peso de ferro, uma casca
+  de amendoim dourada, um peixe seco, uma cebola vermelha, um casulo preto metálico, um ovo de
+  cisne translúcido;
+- **partes de corpo** — uma palma de bebê, macia e gorducha, translúcida, com veias vermelhas
+  correndo por dentro.
+
+A frase que a obra usa como resumo é direta: **"Gu existem em todas as formas e tamanhos."**
+
+### Estão vivos, e dá para perceber
+
+Estão. Se mexem, resistem, brincam. Um Gu recém-pego treme na mão enquanto luta contra a essência
+que o dono está despejando nele. Um Gu de escorpião anda devagar pela palma da mão, tão leve que
+mal se sente, e **as pernas dele fazem um ruído fininho ao se mover**. Um verme do licor, solto
+dentro do Mar Primordial do dono, nada, mergulha, sacode a cabeça e a cauda e espirralha água,
+"como quem toma banho quente" — e se enrola numa bola quando chamado.
+
+Fazem barulho? Alguns sim. O depósito de Gu de um clã é descrito como uma sala de sessenta metros
+quadrados de nichos, e **alguns Gu ficam em silêncio enquanto outros piam, cacarejam e farfalham**:
+a sala inteira soa como uma criação de animais.
+
+### Ao toque
+
+A obra dá texturas específicas e elas variam muito:
+
+- **frio e duro, metálico** — um casulo preto de Gu Imortal;
+- **frio antes mesmo de tocar** — um Gu em forma de ovo de cisne translúcido irradia um frio que
+  chega aos ossos de quem se aproxima;
+- **macio e fresco, como jade azul** — um besouro de rank alto;
+- **liso e escorregadio, como porcelana boa** — um Gu bicho-da-seda esmaltado, "gostoso de segurar";
+- **áspero** — um Gu em forma de pedra achatada com um padrão de olho;
+- **frio como jade** — um caule de bambu oco.
+
+Não há um padrão único. O que **não** aparece em lugar nenhum da obra é um Gu quente ao toque.
+
+### Cheiro, e o direito de ser nojento
+
+Alguns Gu têm cheiro próprio, e ele denuncia a espécie: o verme do licor exala um aroma de vinho
+tênue e enevoado — que não é o vinho que ele bebeu, é o cheiro do bicho. Outros fedem por
+função, como um Gu de fogo que solta um odor intenso ao ser acionado.
+
+E a obra encara a pergunta de frente, numa frase que vale citar como está: Gu existem em todas as
+formas e tamanhos — pode ser o lótus puro e sagrado, pode ser a cigarra poética e misteriosa, pode
+ser o crânio de sangue perverso e bizarro; e, sem dúvida nenhuma, **existem Gu repulsivos em
+aparência, cheiro e toque**, do tipo Gu de excremento e Gu de peido. São categorias formais, com
+rank e uso. Um Mestre Gu que os refine tem de pegá-los na mão.
+
+### Ele morde?
+
+**A obra não descreve nenhum Gu mordendo, picando ou ferindo fisicamente o próprio dono.** O
+perigo de manejar um Gu não é o bicho atacar a mão: é o **contra-ataque de vontade** durante o
+[[05 - Refino de Gu|refino]], que atinge a mente e não a carne. Feras selvagens picam; Gu, não.
+Se a mesa quiser um Gu que morda, está inventando — o que é permitido, desde que declarado.
+
+### Quando ele dorme ou passa fome, muda de aparência
+
+O auto-selamento tem descrição visual, e ela explica por que existe um mercado inteiro de
+"fósseis": um Gu de luar faminto **perde o brilho azul, deixa de ser cristal transparente e vira
+uma pedra cinzenta**, coberta por uma casca rochosa que vai engrossando até virar um pedregulho.
+Um verme do licor, no mesmo aperto, tece um **casulo branco** e se enrola dentro dele. Mais em
+[[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]].
+
+> [!note] Para o design
+> Três consequências saem só da fisicalidade, antes de qualquer regra:
+>
+> **(a) O inventário é uma caixa de joias, não uma mochila.** Todo o arsenal de um personagem
+> cabe numa mão fechada e pesa quase nada. Isso torna roubo, ocultação, revista e contrabando
+> mecanicamente triviais — e por isso mesmo centrais.
+>
+> **(b) Não dá para avaliar poder no olho.** Como tamanho não acompanha rank, identificar um Gu
+> é perícia, não percepção. Um punhado de bichos numa bandeja pode conter um item de campanha e
+> nove bugigangas, e ninguém sabe sem testar ou sem pagar um avaliador.
+>
+> **(c) Cada Gu é uma imagem.** Uma lua crescente azul que ilumina a palma, uma centopeia dourada
+> enrolada no antebraço, um casulo preto gelado, uma máscara de bronze suja de sangue. Descrever
+> um poder neste sistema é descrever um **objeto**, e isso faz metade do trabalho de ambientação
+> sozinho.
 
 ## Como funciona
 

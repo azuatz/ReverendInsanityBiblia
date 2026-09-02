@@ -431,3 +431,182 @@ pastas:
 - **`05 - Sociedade`** — variantes humanos como mercadoria e como degrau formal de
   desenvolvimento de um domínio imortal é um fato social pesado, tratado aqui só de
   passagem.
+
+---
+
+# Adendo — nota de zumbificação (`17 - Zumbis e Corpos Transformados.md`)
+
+> Tarefa dada pelo orquestrador depois da auditoria, a partir do achado registrado acima em
+> "Sinalizações para outros domínios": **não existia nota final sobre zumbificação em
+> nenhuma pasta numerada**, apesar de `_pipeline/rascunho/transformacoes-e-corpos-especiais.md`
+> ter 523 linhas de material. Nome e pasta foram decididos pelo orquestrador; a posição de
+> leitura ficou comigo.
+
+## O que a nota cobre
+
+Um único arquivo, `01 - Cultivo/17 - Zumbis e Corpos Transformados.md`, com a
+zumbificação como espinha e as demais transformações corporais como fecho:
+
+1. **Por que isto é cultivo e não bestiário** — zumbificar-se é decisão de carreira, não
+   uma criatura de masmorra; o motivo é sempre o mesmo (acabou o tempo de vida), e o mundo
+   não a reconhece como método legítimo.
+2. **A definição técnica** — corpo morto com a alma ainda presa a ele; "meio-morto"; só a
+   absorção da alma pela porta da vida e da morte é morte de verdade.
+3. **A escada de Gu**, rank a rank, com as cinco variantes de topo e o sexto Gu voador
+   raro; o Gu de entrada como *buff* que cobra sangue e precisa de Gu acompanhante.
+4. **As manchas de zumbi** como barra de corrupção diegética, com o limite seguro por
+   ativação (≈30 min mortal / ≈1 h imortal) e a regra de que o que acumula é **tempo
+   contínuo**, não número de usos.
+5. **Os zumbis fabricados e selvagens** — o Gu-coração que produz consumíveis, a escada de
+   cores de cabelo com força comparada a reis-fera, a propagação por toxina e o custo de
+   comandar hordas (concentração, não energia).
+6. **O zumbi imortal** como categoria à parte, com demografia, motivo e a organização
+   mundial que a sustenta.
+7. **A abertura morta**, em três blocos: o que ela deixa de fazer (energia, crescimento,
+   progressão), o que ela ganha (nenhuma provação, aguenta mais, não conflita) e o
+   catálogo de propriedades do corpo.
+8. **A tabela de revivificação** com os sete métodos, o que cada um custa e o que limita.
+9. **A abertura de vida-e-morte** destacada como a jogada que inverte o domínio — cortar
+   provações pela metade sem cortar o ganho, e o roteiro de zumbificar-se **de propósito**
+   como primeiro passo.
+10. **O preço final** — perda de força vital em todas as aberturas, cultivo cessado para
+    sempre, "pior que um mortal" em potencial; e o retrato dos trezentos mil anos.
+11. **Os outros corpos transformados** — modificação corporal permanente, transformação em
+    outra forma, troca de identidade física, possessão e batalha de vontades,
+    constituições fabricadas. Cada um em um parágrafo, remetendo a quem é dono do assunto.
+12. **A separação de conhecimento em três seções** — "O que todo personagem sabe", "O que
+    um ancião de clã sabe", "O que só o mestre sabe".
+
+## Posição de leitura sugerida: **16**, entre `Dao Marks` e `Tornar-se Venerável`
+
+**Não** logo após `Cultivo Fora do Humano`, que era a hipótese de partida do orquestrador —
+e vale explicar por quê, porque a decisão contraria a arrumação temática.
+
+A espinha da nota é uma cadeia causal: *o tempo de vida acabou → viro morto-vivo → pago com
+uma abertura morta → a abertura morta não enfrenta provações → sem provações não há dao
+marks → sem dao marks o cultivo congela para sempre*. Essa cadeia atravessa **quatro** notas
+que, na ordem atual, vêm depois de `Cultivo Fora do Humano`: `Longevidade` (o motivo),
+`Tribulações e Calamidades` e `Dao Marks` (o preço) e `Ascensão Imortal` (o que é uma
+abertura imortal). Uma leitora que chegasse à nota na posição 12 leria a frase mais
+importante do documento sem ter os quatro termos que a compõem.
+
+Na posição 16, todas as dependências já foram lidas, e a pasta ainda **fecha no Venerável**,
+que é o clímax natural do currículo. De quebra, as duas últimas notas passam a formar um par
+com simetria útil: o que acontece com quem não consegue mais subir, e o que acontece com
+quem chega ao topo.
+
+**Alternativas descartadas.** Posição 12, logo após `Cultivo Fora do Humano`: mantém o bloco
+temático dos "corpos que não são o padrão" junto, mas cobra quatro referências para a
+frente — descartada porque a regra do vault é que a barra lateral **é** o currículo, e
+currículo se ordena por dependência, não por afinidade temática. Posição 17, ao fim de
+tudo: resolve as dependências igualmente bem, mas encerraria a pasta num anticlímax, com a
+rota dos que desistiram de crescer depois da nota sobre o topo do mundo.
+
+Ordem de leitura completa resultante da pasta (17 notas):
+
+1. Visão Geral do Cultivo · 2. Abertura · 3. Aptidão · 4. Essência Primordial ·
+5. Ranks e Avanço · 6. O Corpo e a Mente do Mestre Gu · 7. Perder Cultivo ·
+8. Attainment · 9. Avançar com Aptidão Baixa · 10. As Dez Constituições Extremas ·
+11. Cultivo Fora do Humano · 12. Longevidade · 13. Tribulações e Calamidades ·
+14. Ascensão Imortal · 15. Dao Marks · **16. Zumbis e Corpos Transformados** ·
+17. Tornar-se Venerável
+
+## O que foi verificado no texto-fonte
+
+Todo dado que entrou na nota passou por `grep -i` no texto-fonte antes de ser escrito. O que
+o rascunho trazia e ficou **confirmado literalmente**:
+
+- Escada de Gu de zumbi por rank, com as duas grafias que a obra usa para o degrau 3 (*fur*
+  e *hairy*), as cinco variantes de topo nomeadas e o sexto Gu voador raro.
+- Fraquezas fixas, na formulação da obra: melhor resistência a socos e chutes e maior
+  regeneração, **medo de fogo, raio e luz**, e maior resistência a água, vento e veneno.
+- O Gu de entrada consumindo o sangue do usuário e exigindo Gu de reposição de sangue como
+  acompanhante.
+- Manchas de zumbi, o alastramento e o ponto sem volta; e o limite seguro de trinta minutos
+  por ativação (uma hora para imortal), com a regra de que muitos usos curtos **não**
+  acumulam.
+- Definição de "meio-morto" e o papel da porta da vida e da morte.
+- Escada de cores de cabelo dos zumbis selvagens, com força comparada a reis-fera, o
+  requisito do cadáver de nível 4 para o degrau verde e o peso social do cabelo-azul.
+- Gu-coração de nível 3 produzindo consumíveis de nível 2; zumbis assim criados **evoluem**,
+  criações de Gu-mãe comuns não; a toxina propagando indefinidamente; o custo do controle de
+  horda em concentração, com exaustão de cerca de um dia.
+- Abertura morta: não produz essência (só conversão de pedras), a terra **se desintegra em
+  intervalos fixos**, o óleo negro que retarda a desintegração, os recursos que se
+  deterioram lá dentro, e o cultivo que não avança ("nem uma tribulação vencida").
+- A ausência de provações como vantagem declarada, com o imortal vivo que a inveja em voz
+  alta e a frase "a vida tem suas vantagens, a morte tem suas utilidades".
+- Corpo: não come, não bebe, **não respira**; dor abolida junto com parte da percepção;
+  **sem tempo de vida a consumir** (não pode acionar Gu que cobram anos, e ataques que
+  drenam vitalidade não pegam); crânio como ponto fraco terminal; regeneração de membros em
+  **seis a oito horas, repondo as dao marks junto**; sangue verde-jade e gelado; cognição
+  lenta, com uma tribulação que venceu um zumbi explorando exatamente isso; alma que definha
+  sem o corpo nutri-la, mas com teto **maior** que o de um vivo; alma que racha por dor
+  acumulada, e alma rachada é morte definitiva.
+- Abertura morta suportando pressão que estouraria uma viva, e não conflitando ao entrar em
+  outra abertura.
+- Os sete métodos de revivificação, com custos e limites.
+- A abertura de vida-e-morte: uso único, redução de **cinquenta por cento** na força de
+  calamidades e tribulações **sem redução alguma** no ganho de dao marks, a qualidade final
+  dependendo do material, a herança da constituição extrema a partir do corpo canibalizado, e
+  o método enunciado de zumbificar-se primeiro **de propósito**.
+- Corpos de zumbis imortais como material de refino, e a formação ritual que usava zumbis
+  portadores de constituições extremas como pilares.
+- O preço final na cena em que é pago, e o retrato dos trezentos mil anos com um único
+  ataque restante.
+- Origem cosmológica: zumbis passaram a existir quando o Gu do destino foi ferido; o
+  Tribunal Celestial se opõe e **fracassou** ("não conseguiram resistir aos desejos dos
+  homens"); zumbis são "fugitivos do destino" e **matá-los facilita o conserto** do Gu —
+  confirmado com a passagem que diz que, depois de a maior parte dos zumbis imortais do
+  mundo ser destruída, a dificuldade de refinar aquele Gu **caiu drasticamente**.
+- Detalhes do *asura*: defesa e recuperação multiplicadas várias vezes, dor quase abolida
+  com sangue verde escorrendo da ferida, e os **seis braços grossos como se fundidos em
+  bronze**.
+
+## Correção feita contra o rascunho
+
+- **"Força de combate cai ~1 tier"** — o rascunho enunciava isso como regra geral dos zumbis
+  imortais. A verificação mostra que a única passagem que **quantifica** a queda trata de uma
+  **fera** (nível 8 em vida → pico do nível 7 depois de morta); a afirmação geral que a obra
+  faz é apenas que a maioria dos zumbis imortais luta **abaixo de um Gu Imortal comum**. Na
+  nota, o dado geral entrou como canônico e a régua de "um patamar" entrou marcada
+  **`(ded.)`**.
+- **Altura do corpo na Transformação Asura** — o rascunho dizia "3 m, 6 braços de bronze". Os
+  seis braços estão no texto; **os três metros não**. Removido.
+- **"Fur Zombie" × "hairy zombie"** — o rascunho listava só uma das grafias. A obra usa as
+  duas para o mesmo degrau de nível 3; a nota registra ambas.
+
+## Estados de confiabilidade na nota
+
+A nota declara a convenção no cabeçalho e afirma, com verificação: **não há um único item
+marcado com `*`**. Tudo é canônico ou dedução declarada. Há exatamente uma marcação
+**`(ded.)`**, na régua de queda de força de combate, e três lacunas ditas em voz alta:
+
+- **Os degraus 3 e 4 da escada de zumbi nunca são detalhados.** A obra nomeia os quatro Gu e
+  descreve apenas o primeiro e o último. Declarado no corpo da nota como lacuna real, com a
+  autorização explícita de inventar na mesa.
+- **O degrau cabelo-azul não tem descrição de força nem de requisito de evolução.**
+- **O Gu de "Ressurreição dos Mortos" não existe** — é linha de pesquisa dentro do próprio
+  mundo, e a nota o apresenta como tal.
+
+## Lacunas registradas para o dono de outros domínios
+
+Material do rascunho de transformações que **não** cabia numa nota de cultivo e continua sem
+dono:
+
+- **Variantes humanas em detalhe** (homens-rocha, de neve, de tinta, de ovo, peludos,
+  minúsculos, homens-pena, sereianos): reprodução, dieta, tempo de vida, ciclo de sono,
+  organização social, valor de mercado por espécie. `01 - Cultivo/16 - Cultivo Fora do
+  Humano` cobre só o recorte de cultivo; a etnografia é assunto de `04 - Mundo` ou
+  `05 - Sociedade`.
+- **O corpo soberano** (*sovereign immortal body*) e sua fome estrutural — é peça central do
+  fim da obra, `[segredo]` de topo, e não pertence a esta nota nem a nenhuma existente.
+- **Golpes de totem** como terceira categoria formal de uso de Gu, ao lado do golpe comum e
+  do golpe de campo de batalha: dao marks gravados no corpo pela **alimentação**. Assunto de
+  `02 - Gu/07 - Killer Moves`.
+- **Revivificação de Veneráveis** — mecanismos distintos e não intercambiáveis, todos
+  montados em vida. Assunto de `07 - Veneraveis e Legados`.
+- **Modificação corporal permanente** tem hoje um parágrafo nesta nota e outro em
+  `02 - Gu/11 - Conflito de Marcas e Compatibilidade`; o arsenal completo (ossos, tendões,
+  peles, carapaças, os custos de cada processo, o método "masoquista" que acelera trinta por
+  cento) continua só no rascunho.

@@ -82,8 +82,9 @@ No topo de tudo está o rank 9, o [[13 - Tornar-se Venerável|Venerável]] — u
 19. **Subir de rank não melhora o corpo nem a mente de quem sobe.** Sem acionar nenhum Gu, um Mestre Gu de qualquer rank é fisicamente uma pessoa comum: precisa comer, precisa dormir, adoece, envelhece e morre de velhice. Corpo mais forte e sentidos mais aguçados existem, mas como **efeito de Gu** ou como marcas de lei gravadas na carne por investimento deliberado — nunca como bônus automático de nível. Ver [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]].
 20. **A escada desce.** Ferimento, velhice, contaminação e conflito entre efeitos mágicos artificiais derrubam o cultivo de alguém, em estágios ou em ranks inteiros. Parte da perda volta com anos de reclusão; parte não volta nunca. Ver [[15 - Perder Cultivo|Perder Cultivo]].
 21. **Subir de estágio é garantido pelo tempo; subir de rank não é garantido por nada.** A obra é literal: o grande reino exige capacidade e talento, o pequeno reino é mero acúmulo. Na mesa, estágios passam entre sessões e ranks merecem cena.
-22. **Nenhum ser vivo usa as leis do universo sem um Gu no meio.** Humanos, feras e plantas podem *ter* dao marks no corpo e nenhum deles consegue manipulá-las diretamente. O Gu é a interface obrigatória do sistema inteiro.
-23. **Cada espécie cultiva de um jeito, e nenhuma delas alcança o topo.** Feras não têm abertura (os Gu moram no corpo delas, expostos); plantas monstruosas também enfrentam calamidades; variantes humanos cultivam como humanos mas com teto de espécie; mortos-vivos mantêm o rank com uma abertura morta que não produz energia nem ganha dao marks. **O rank 9 é exclusivo de humanos puros.** Ver [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
+22. **Existe uma rota de progressão que compra existência sem prazo e paga com o próprio futuro.** Um cultivador pode trocar o corpo vivo por um corpo de morto-vivo: ganha uma existência sem prazo, imunidade a tudo o que cobra tempo de vida e o fim das provações — e perde a produção de energia, o crescimento do próprio domínio e **a possibilidade de subir de rank, para sempre**. É a saída padrão de quem ficou sem anos, e é olhada com desprezo por todo mundo. Ver [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]].
+23. **Nenhum ser vivo usa as leis do universo sem um Gu no meio.** Humanos, feras e plantas podem *ter* dao marks no corpo e nenhum deles consegue manipulá-las diretamente. O Gu é a interface obrigatória do sistema inteiro.
+24. **Cada espécie cultiva de um jeito, e nenhuma delas alcança o topo.** Feras não têm abertura (os Gu moram no corpo delas, expostos); plantas monstruosas também enfrentam calamidades; variantes humanos cultivam como humanos mas com teto de espécie; mortos-vivos mantêm o rank com uma abertura morta que não produz energia nem ganha dao marks. **O rank 9 é exclusivo de humanos puros.** Ver [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
 
 ## O que todo personagem sabe
 
@@ -97,6 +98,7 @@ Qualquer pessoa nascida neste mundo — inclusive mortais sem talento — cresce
 - Que ficar sem essência em combate é a morte, e que se guarda sempre uma reserva — e que **um Mestre Gu sem seus Gu é uma pessoa comum**, por mais alto que seja seu nível.
 - Que cultivar não dispensa comer nem dormir, e que Mestres Gu morrem de doença e de velhice como todo mundo.
 - Que cultivo **se perde**: quem sai muito ferido de uma batalha volta com um nível a menos, e quem envelhece demais também.
+- Que existem zumbis, que eles são fracos a fogo, raio e luz e enfraquecem de dia, e que virar um deles é a saída desesperada de quem ficou sem tempo de vida — uma escolha real, e desprezada.
 - Que existem [[02 - Pedras Primordiais|pedras primordiais]] — a moeda universal, que também recarrega essência.
 - Que viajar para outra região do mundo enfraquece a pessoa e, principalmente, os Gu que ela carrega.
 - Que tempo de vida não vem de graça com o poder: um cultivador poderoso e velho está morrendo do mesmo jeito, e itens que dão anos de vida são a coisa mais cobiçada que existe.
@@ -132,3 +134,4 @@ Estes são fatos verdadeiros do mundo que os personagens normalmente **não** co
 - [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o rank muda na pessoa, e o que não muda.
 - [[15 - Perder Cultivo|Perder Cultivo]] — a escada percorrida para baixo.
 - [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — feras, plantas, variantes e mortos-vivos.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a rota que troca o corpo vivo por um corpo morto, e todas as outras transformações corporais.

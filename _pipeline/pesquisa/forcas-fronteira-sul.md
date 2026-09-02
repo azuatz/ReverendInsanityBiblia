@@ -362,6 +362,27 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   mountain's interior, they built an **inner city**." **cap. 265** (l. 12978): "Our Shang
   clan city is **number one in the southern border in terms of size**. … Here, there are
   **over ten thousand shops, and hundreds of thousands of people**."
+- **A anatomia da cidade (ouro puro para a mesa)** — **cap. 261** (V2 l. 12247–12263):
+  "Shang Liang mountain had been through a few thousand years of development by Shang clan,
+  the entire mountain was remodelled by Shang clan, digging paths and constructing new
+  buildings, classifying the place into regions. Thus, **the inner city was huge, from inner
+  to outer, there was five regions.**
+  **The first inner city** was called the central inner city, **the political heart of Shang
+  clan, and also their military base.**
+  **The second inner city** was also known as the clan city, **only Shang clansmen could stay
+  here.**
+  **The third inner city** had an elegant environment, with clean and fresh air, it was **the
+  high-class zone.**
+  **Fourth inner city** was the **middle-class zone**. **Fifth inner city** was the
+  **low-class zone**.
+  Any further and we get to **the outer city**, having high traffic flow, and all sorts of
+  goods transportation. Compared to the inner city, it was **much more chaotic**.
+  **This construction structure was somewhat like a termite hill.**"
+  Cada anel cobra **taxa de entrada**, e a do quarto é o dobro da do quinto; a iluminação do
+  quinto é a carvão, e a do quarto é feita por um **Gu de grama de rank 1** (l. 12267–12271).
+  E há regra de paz nos anéis altos: "This is Shang clan's **third inner city, no fighting is
+  allowed**" (**cap. 262**, l. 12583) — mesmo um jovem mestre do clã não ousa usar força ali,
+  embora no quarto e no quinto pudesse (**cap. 263**, l. 12750).
 - **Fichas de nove cores** — **cap. 271** (V2 l. 14397): "Shang clan city had **black, white,
   red, orange, yellow, green, turquoise, blue, purple** — a total of nine tokens. Black stone
   token was the lowest, **purple thorn token was the highest**, it meant one was a VIP in
@@ -938,6 +959,11 @@ left." Hoje toca lojas na cidade do clã Shang e é o melhor gerente de todos, m
   clan head and the fourth generation clan head** who had reached [rank 5]." E **cap. 31**
   (l. 3709): "the Gu Yue Clan managed to monopolize one of the best resource locations in Qing
   Mao Mountain. But… **the Gu Yue clan could only be considered as a middle-low tier clan.**"
+- **Quantos anciãos tem um clã médio** — **cap. 124** (V1 l. 18797): "Rank two Gu Masters were
+  the true mobile troops. As for Rank three Gu Masters, they were clan elders, and **for a
+  mid-size clan like the Gu Yue clan, even after each generation's effort they only had a
+  little more than twenty clan elders.**" (Depois de uma maré de lobos, o mesmo clã ficou com
+  **menos de dez** — **cap. 171**, V1 l. 27487.)
 - **Clã grande (família Jia, mercadores):** **cap. 55** (V1 l. 7272) — "The Jia family head was
   at an even higher cultivation level. He was a **Rank five**, and under his lead the Jia family
   rose to prosperity, becoming a **large sized clan and possessing the resources of an entire

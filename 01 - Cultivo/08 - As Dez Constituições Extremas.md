@@ -128,7 +128,7 @@ Uma constituição extrema é ativo, alvo e problema ao mesmo tempo. As prática
 - **Ocultação.** A aura de uma constituição extrema pode ser completamente selada por um Gu Imortal específico de tema de limite e escuridão, que também bloqueia adivinhação. Portadores que sabem o que lhes convém andam selados.
 - **Supressão deliberada.** Existe um par de Gu de rank 4, de temas opostos, cujo uso **troca o sexo do corpo do alvo e reduz a aptidão em 10%** — o suficiente para rebaixar temporariamente uma constituição extrema abaixo do limiar autodestrutivo. Como o cultivo faz a aptidão subir de volta ao extremo, isso vira um **ciclo de manutenção** perpétuo, aplicando alternadamente o Gu de um tema e o do outro. É um dos tratamentos mais estranhos e mais jogáveis do cenário: manter alguém vivo mantendo-o deliberadamente menos talentoso.
 - **Purificação linhagística.** Registra-se a prática de usar Gu de sangue para purificar a linhagem de uma família ao longo de gerações, tentando **produzir** um herdeiro com uma constituição extrema — para então absorver o sangue desse descendente e elevar a própria aptidão. A criança como safra.
-- **Caça organizada.** Uma organização histórica reunia zumbis imortais portadores de constituições extremas como pilares de uma grande formação ritual, na qual cada nó contribuía com o poder da própria constituição. Isso implica caça deliberada e sistemática a portadores ao longo de eras.
+- **Caça organizada.** Uma organização histórica reunia zumbis imortais portadores de constituições extremas como pilares de uma grande formação ritual, na qual cada nó contribuía com o poder da própria constituição. Isso implica caça deliberada e sistemática a portadores ao longo de eras. Ver [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]].
 - **Canibalização.** Corpos de imortais mortos são material de refino valioso, e o corpo de um portador de constituição extrema é o mais valioso de todos: existe um método capaz de **herdar a constituição** a partir dele.
 - **Sacrifício em escala.** No episódio mais extremo registrado, as dez constituições extremas foram consumidas como **material** para refinar um único Gu Imortal de rank 9.
 
@@ -145,6 +145,7 @@ Uma constituição extrema é ativo, alvo e problema ao mesmo tempo. As prática
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — os dez que chegaram ao topo, e nenhum deles com uma destas.
 - [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — a origem mítica e o motivo de serem dez.
 - [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — o outro extremo do mesmo problema.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a rota de revivificação que herda uma constituição, e a única saída teórica conhecida para o defeito estrutural delas.
 
 Sobre a variação de nome de uma das sete.[^1]
 

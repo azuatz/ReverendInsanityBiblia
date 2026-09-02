@@ -14,7 +14,7 @@ aliases:
   - Earth Trench
   - Os Nove Céus
 status: consolidado
-fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1155", "cap. 1301", "cap. 1400", "cap. 1408", "cap. 1531", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2001", "cap. 2140", "cap. 2145", "cap. 2170", "cap. 2277", "cap. 2278", "cap. 2192"]
+fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1155", "cap. 1301", "cap. 1400", "cap. 1408", "cap. 1531", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2001", "cap. 2140", "cap. 2145", "cap. 2170", "cap. 2267", "cap. 2277", "cap. 2278", "cap. 2333", "cap. 2192"]
 conhecimento: segredo
 ---
 
@@ -83,6 +83,38 @@ escuridão total e cheio de criaturas "que nunca viram o sol": ele não é a aus
 > personagem que sobe alto o bastante não encontra "o espaço": encontra um **chão** — o assoalho
 > do céu que está de plantão naquele momento. E a mesma pergunta infantil ("o que tem em cima
 > das nuvens?") tem, aqui, uma resposta com terreno, ecologia, dono e recursos.
+
+### O que o sol realmente é
+
+`conhecimento: segredo`
+
+Nos níveis mais altos de conhecimento do mundo, o sol deixa de ser um astro e vira uma coisa
+muito mais estranha — e a obra é explícita ao dizer o quê.
+
+**O sol é um acúmulo de marcas de dao.** Textualmente: "o sol é uma congregação de marcas de dao
+do caminho do céu, do caminho da luz e do caminho do fogo; é tangível, mas não sólido. Pode ser
+visto como **uma tribulação que vem acontecendo há incontáveis anos**, e que começou a se
+acumular desde o início do mundo".
+
+Três consequências que reorganizam o cenário inteiro na cabeça de quem as ouve:
+
+1. **O sol não é matéria. É lei acumulada** — do mesmo tipo que um Gu carrega dentro de si, só que
+   em quantidade absurda e ao ar livre, desde o primeiro dia.
+2. **O sol é, tecnicamente, uma tribulação.** A mesma categoria de fenômeno que o céu manda contra
+   um cultivador que cresceu demais, só que permanente e apontada para o mundo inteiro. Ver
+   [[11 - Vontade dos Céus|Vontade dos Céus]].
+3. **E ele é o maior nó de veia de céu do mundo**, além do maior nó de veia de luz e de veia de
+   fogo dos dois céus — ver [[#Veias de céu]].
+
+E, por ser uma coisa e não um princípio, **pode ser destruído**. Um Venerável fez exatamente
+isso: destruiu o sol, junto com pilares celestes e abismos celestiais, para acelerar a fusão dos
+dois céus remanescentes.
+
+> [!note] Para o design
+> Aqui está o segredo com o melhor retorno emocional do domínio inteiro, e ele cabe numa frase:
+> **o sol é uma punição em curso.** Um mundo cuja luz do dia é uma catástrofe lenta e permanente,
+> pendurada no céu desde o começo, tem um tom que nenhuma descrição de paisagem alcança. E é um
+> segredo que não muda nenhuma regra — só muda como o jogador olha para o céu na sessão seguinte.
 
 **A meteorologia dos céus também é economia.** Quando os nove céus existiam, os trovões deles
 se chocavam entre si e a essência desses choques condensava uma pedra usada em refino. Com sete

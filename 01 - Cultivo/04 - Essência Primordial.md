@@ -14,7 +14,7 @@ conhecimento: comum
 
 # Essência Primordial
 
-**Em uma frase:** a ==essência primordial (primordiall essence)== é a energia pessoal de um Mestre Gu — o combustível líquido que enche o Mar Primordial da sua [[02 - Abertura|abertura]] e que ele gasta para ativar, refinar e alimentar seus Gu.[^1]
+**Em uma frase:** a ==essência primordial (primeval essence)== é a energia pessoal de um Mestre Gu — o combustível líquido que enche o Mar Primordial da sua [[02 - Abertura|abertura]] e que ele gasta para ativar, refinar e alimentar seus Gu.[^1]
 
 ## Como funciona
 

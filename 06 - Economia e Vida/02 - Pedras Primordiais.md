@@ -308,6 +308,6 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   recurso escasso o motor de todos os conflitos do cenário.
 
 [^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para
-    *primordiall stone*. Adotamos "pedra primordial" nesta base por consistência com "essência
+    *primeval stone*. Adotamos "pedra primordial" nesta base por consistência com "essência
     primordial", mas os dois termos designam exatamente o mesmo objeto — vale conhecer os dois
     se a designer for consultar a tradução em português.

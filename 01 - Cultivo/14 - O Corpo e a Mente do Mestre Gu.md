@@ -120,3 +120,4 @@ Duas consequências que valem para o cenário. Primeiro, o par é **caro de form
 - [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — o preço permanente de reforçar o corpo.
 - [[06 - Ritmo de Cultivo e Reclusão|Ritmo de Cultivo e Reclusão]] — quanto tempo tudo isso leva.
 - [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o mesmo assunto em corpos que não são humanos.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — o mesmo assunto num corpo que morreu e continua andando.

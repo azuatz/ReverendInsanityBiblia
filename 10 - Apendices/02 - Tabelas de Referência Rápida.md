@@ -7,6 +7,9 @@ tags:
   - gu/refino
   - mundo/escala
   - mundo/geografia
+  - economia
+  - cultivo/longevidade
+  - sociedade
 aliases:
   - Quick Reference Tables
   - Tabelas Numéricas
@@ -14,14 +17,17 @@ aliases:
   - Tabela de Escala e Distância
 status: verificado-no-texto
 fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 736", "cap. 737", "cap. 740", "cap. 826", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
-conhecimento: misto — as tabelas de aptidão, ranks e cores são conhecimento comum no mundo; a escala, as distâncias, os tempos de viagem e os custos de transporte da seção 13 são conhecimento comum; dao marks, tribulações, essências imortais e attainment são conhecimento especializado; as quatro condições para virar Venerável são segredo de altíssimo nível
+conhecimento: misto — são conhecimento comum no mundo as tabelas de aptidão, ranks e cores, a escala e as distâncias da seção 13, os custos de essência e de vida (14, 19), a força em jun (15), a demografia (18) e a capacidade da abertura (20); são conhecimento especializado dao marks, tribulações, essências imortais, attainment, grades de terra abençoada e a longevidade dos Veneráveis (17); são segredo de altíssimo nível as quatro condições para virar Venerável (11) e a escala de fundação de alma acima do teto humano (16)
 ---
 
 # Tabelas de Referência Rápida
 
 Esta é a nota de consulta rápida do projeto: todos os números que o sistema de
 Reverend Insanity fixa, reunidos num lugar só, para não ser preciso caçá-los pelas
-notas temáticas. Cada tabela vem precedida de um parágrafo curto explicando o que
+notas temáticas. São vinte seções, e elas cobrem, em ordem: o cultivador (1 a 12), o
+mundo em que ele anda (13), a economia de ação de uma cena (14 a 16), quanto ele vive
+(17), quantos como ele existem (18), quanto tudo custa (19) e quanto ele consegue
+carregar (20). Cada tabela vem precedida de um parágrafo curto explicando o que
 ela mede e como lê-la — a ideia é que você consiga usar qualquer uma delas sem ter
 lido nenhuma outra nota antes.
 
@@ -1068,7 +1074,7 @@ Todos os valores abaixo estão em [[02 - Pedras Primordiais|Pedras Primordiais]]
 |---|---|---|
 | **Montaria comum** (cavalo de carga) | **menos de 1 pedra primordial** | **canônico** |
 | Comparação: um Gu de rank 1 | centenas de pedras | **canônico** |
-| **Entrada em cidade-clã** | **10 pedras por pessoa** | **canônico** |
+| **Entrada em cidade-clã** | **de 1 a 600 pedras por pessoa**, conforme o anel — ver 19.4 | **canônico** |
 | **Reserva mínima para viver na estrada** | **10.000 pedras**, reposta de tempos em tempos | **canônico** |
 | **Túnel fixo entre dois pontos** (par de Gu) | **200.000 pedras por ano** de manutenção | **canônico** |
 | Túnel fixo: efeito da distância no custo | **nenhum** — o custo depende só de quanto se põe dentro, não de quão longe vai | **canônico** |
@@ -1408,29 +1414,66 @@ tem talento; mede quanta gente foi autorizada a descobrir se tem.
 ## 19. Preços de referência
 
 Os custos de transporte e viagem estão na seção 13.8. Esta seção cobre o resto: quanto
-custa **um Gu**, quanto custa **mantê-lo vivo**, e quanto rende uma fonte de renda. Todos
-os valores em [[02 - Pedras Primordiais|Pedras Primordiais]], a moeda dos mortais.
+custa **um Gu**, quanto custa **mantê-lo vivo**, quanto rende uma fonte de renda, quanto
+se paga só para **entrar** num lugar, e quanto lucra cada grau de honestidade. Todos os
+valores em [[02 - Pedras Primordiais|Pedras Primordiais]], a moeda dos mortais.
+
+Antes das tabelas, guarde a régua que dá sentido a todas elas: **uma família mortal de
+três pessoas vive um mês com uma única pedra primordial.** Toda cifra abaixo deve ser
+lida contra esse número.
 
 ### 19.1 Quanto custa um Gu
 
-| Item | Preço | Origem |
-|---|---|---|
-| Gu de rank 1 **comum** | **~250** | **canônico** |
-| Gu de rank 1 **raro** | **500 a 600** | **canônico** |
-| Gu consumível de uso único, rank 1 | **~50** | **canônico** |
-| Gu de rank 2 raro | **~500** | **canônico** |
-| Gu de relíquia de rank 2 (avança um estágio na hora) | **~3.000** | **canônico** |
-| Gu de rank 3 | "**milhares**" | **canônico** |
-| Gu de rank 3 raro | **~6.600** | **canônico** |
-| Gu de rank 3 disputado em leilão | **70.000 a 85.000** | **canônico** |
-| Gu de rank 4 **comum** | **até 100.000** | **canônico** |
-| Gu de rank 4 raro / de grande utilidade | **180.000 a 250.000** | **canônico** |
-| Gu de rank 5 **comum** | **~250.000** | **canônico** — pela equivalência que a obra faz com um rank 4 excepcional |
-| Gu Imortal (rank 6+) | não tem preço em pedras primordiais; ver seção 5 | **canônico** |
+A obra publica a escada inteira de uma vez só, num único parágrafo, e é ela que manda
+aqui. São preços de **Gu comum**: um Gu raro salta uma faixa inteira, e a obra diz isso
+explicitamente ao citar um Gu de rank 1 que custa o preço de um rank 2.
 
-O salto de rank 3 para rank 4 é o mais violento da escala: de "milhares" para "cem mil",
-duas ordens de grandeza num único degrau. É o mesmo penhasco que a demografia da seção 18
-mostra entre o rank 3 e o rank 4 — economia e população contam a mesma história.
+| Rank | Preço de mercado de um Gu **comum** | Origem |
+|---|---|---|
+| 1 | **~500** | **canônico** |
+| 2 | **500 a 1.000** | **canônico** |
+| 3 | **1.000 a 10.000** | **canônico** |
+| 4 | **10.000 a 100.000** | **canônico** |
+| 5 | **100.000 a 1.000.000** | **canônico** |
+| 6 e acima | **nunca foi vendido** — não existe preço | **canônico** |
+
+Alguns pontos concretos que caem dentro dessa escada e servem de calibragem, todos
+canônicos: um Gu consumível de uso único, de rank 1, sai por **50**; Gu raros de rank 1
+(bebida, livro, javali) circulam entre **580 e 600**; um Gu de rank 3 raro foi comprado
+em leilão por **6.600**; um Gu de rank 4 raro em leilão chegou a **250.000**, "o preço de
+um rank 5 comum".
+
+> [!warning] Existe um spread de compra e venda, e ele é de 2 para 1
+> Este é o ponto que faz duas passagens da obra parecerem se contradizer, e não se
+> contradizem. **O preço de mercado de um Gu de rank 1 comum é ~500. O que uma loja
+> paga por ele é ~250.** As duas cifras aparecem na obra, em cenas diferentes, e a
+> segunda é sempre a de alguém **vendendo** para o balcão.
+>
+> Ou seja: o comerciante compra pela metade e revende pelo dobro. Para uma mesa, essa
+> é a régua de espólio mais útil que existe — **liquidar Gu saqueados rende metade do
+> preço de tabela**, e é por isso que os personagens da obra preferem usar o que
+> pilham a vender. Uma cena que trate espólio pelo preço de vitrine dá ao grupo o
+> dobro do dinheiro que o mundo daria.
+
+E uma família de preços à parte, porque os Gu de relíquia (que avançam um estágio na
+hora e **não podem ser refinados por ninguém** — são achados da natureza) custam muito
+acima do rank:
+
+| Gu de relíquia | Rank | Preço | Origem |
+|---|---|---|---|
+| verde-cobre | 1 | **2.000** | **canônico** |
+| vermelho-aço | 2 | **8.000** | **canônico** |
+| branco-prata | 3 | **50.000** | **canônico** |
+| amarelo-dourado | 4 | **~300.000** | **canônico** |
+| roxo-cristal | 5 | — | a obra não precifica |
+
+Compare com a escada de cima: um relic Gu de rank 4 custa **três vezes** o teto de um Gu
+comum do mesmo rank. E, ainda assim, a obra observa que muitas vezes **nem dinheiro os
+compra** — eles simplesmente não aparecem no mercado.
+
+O salto de rank 3 para rank 4 é o mais violento da escala, e o de 4 para 5 repete a dose:
+uma ordem de grandeza por degrau, todas as vezes. É o mesmo penhasco que a demografia da
+seção 18 mostra entre o rank 3 e o rank 4 — economia e população contam a mesma história.
 
 ### 19.2 Quanto custa manter
 
@@ -1474,14 +1517,83 @@ mostra entre o rank 3 e o rank 4 — economia e população contam a mesma hist�
 | Vida útil de uma nascente pequena | **50 a 60 anos** | **canônico** |
 | Nascente média / grande | ~100+ anos / séculos | **canônico**, sem valor em pedras |
 | Preço do Gu de rank 5 que planta uma nascente nova | **mais de 100 milhões** | **canônico** |
+| **Nascente portátil** (Gu de rank 3 que fica dentro da abertura) | **50 pedras por dia**, indefinidamente | **canônico** |
+| Retorno de um negócio montado numa vila | paga-se em **2 a 3 anos** | **canônico** |
 | Prêmio do primeiro lugar num exame de academia de clã | **100 a 150 pedras** | **canônico** |
+| **Custo de vida de um Mestre Gu de rank 1** | da ordem de **1.500 pedras por ano** (as ~5 pedras/dia da seção 19.2, incluindo cultivo) | `(ded.)` — aritmética sobre um valor canônico |
+| **Custo de vida de um Mestre Gu de rank 3** numa cidade grande | **mais de 420.000 pedras por ano** — o próprio personagem calcula que essa quantia "não duraria um ano" | **canônico** |
+| Custo de vida nos ranks 4 e 5 | — | a obra não precifica |
 
 A primeira e a quarta linha juntas explicam a economia inteira de um clã: **a nascente
 espiritual se paga**, e é por isso que uma tribo aceita gastar um Gu de rank 5 para
 plantar uma. É também por isso que nascentes são o motivo mais comum de guerra entre
 organizações no mundo mortal — é o único ativo que produz dinheiro sozinho.
 
----
+E as três últimas linhas explicam por que quase ninguém sobe: o custo de vida de um
+Mestre Gu **cresce mais rápido que qualquer renda que ele consiga montar**. Um rank 1
+vive com o que uma nascente portátil produziria em um mês; um rank 3, na mesma cidade,
+queima quase meio milhão por ano. Subir de rank não é ficar mais rico — é ficar mais
+caro, e ter de encontrar um patrocinador maior.
+
+
+### 19.4 O preço de entrar: pedágios urbanos por anel
+
+Uma cidade-clã grande não é um lugar, são **anéis concêntricos**, e cada anel cobra para
+deixar você passar. É a estrutura de classe do mundo mortal transformada em bilheteria, e
+vale ter a escada inteira, porque o degrau mais barato e o mais caro diferem em
+**seiscentas vezes**.
+
+| Onde se entra | Preço por pessoa | Origem |
+|---|---|---|
+| Cidade pequena de fronteira | **1 pedra** | **canônico** |
+| Portão externo de uma grande cidade-clã | **10 pedras** | **canônico** |
+| Cidade interna (primeiro anel pago) | **100 pedras** | **canônico** |
+| Quarto anel interno | **200 pedras** | **canônico** |
+| Terceiro anel interno | **600 pedras** | **canônico** |
+| Segundo anel interno e além | **dinheiro não entra** — só com ficha de autoridade do clã | **canônico** |
+
+Três leituras que a tabela sozinha não dá:
+
+- **A partir de certo ponto, o dinheiro deixa de funcionar.** Os anéis mais internos, as
+  propriedades de luxo e os Gu mais raros exigem uma **ficha de autoridade** emitida pelo
+  clã dono da cidade, e nenhuma quantia substitui. Um personagem riquíssimo e sem
+  relações bate numa porta que não abre — o que é, de novo, o argumento a favor de
+  pertencer a uma organização.
+- **A ficha também isenta pedágio.** Há o caso documentado de uma ficha que dispensa
+  **três pessoas** das taxas de entrada. Não encontramos na obra nenhum desconto
+  percentual associado à ficha; o que ela faz é **destravar acesso** e **isentar**.
+- **Duzentas pedras é "uma soma enorme" para um rank 1**, e a obra diz isso com essas
+  palavras. Compare com a seção 19.2: são duzentos meses de sustento de uma família
+  mortal, cobrados para atravessar um portão.
+
+E, já que a pessoa entrou, os aluguéis do anel caro: um jardim pequeno sai por **300
+pedras a cada dez dias** (perto de mil por mês) e é considerado **barato** ali; jardins
+grandes custam **100 pedras por dia**; os de grau especial, de novo, só com ficha.
+
+### 19.5 A escada de lucro: quanto rende cada grau de honestidade
+
+Esta é a tabela mais reveladora da economia do cenário, e ela existe literalmente na
+obra, enunciada em ordem crescente de desonestidade. O comerciante que a enuncia é
+explícito ao dizer que os sete a oito vezes são **o teto do mundo** — não a habilidade
+dele, o limite do que a atividade honesta consegue render.
+
+| Modo de operar | Retorno sobre o capital | Origem |
+|---|---|---|
+| Comércio honesto, muito bem executado | **7 a 8 vezes** o capital — "o limite deste mundo" | **canônico** |
+| Comércio com métodos ilegais | **mais de 10 vezes** | **canônico** |
+| Fraude aberta (mentir, enganar) | **dezenas de vezes** | **canônico** |
+| Assalto e assassinato | ilimitado, e **não precisa de capital nenhum** | **canônico** |
+
+> [!note] Para o design
+> Um cenário inteiro cabe nessas quatro linhas, e elas não são um julgamento moral: são
+> uma **planilha**. A obra apresenta a escalada como raciocínio econômico frio, e conclui
+> com a observação de que "negócio sem capital investido é sempre o mais lucrativo".
+>
+> Para uma mesa, isso dá o que quase nenhum cenário de fantasia dá: um **motivo
+> numérico** para a existência do caminho demoníaco. O demoníaco não é mais cruel por
+> temperamento; ele leu a tabela. E qualquer sistema de recompensa que a sua mesa
+> monte deveria refletir isso — se a via honesta pagar tão bem quanto a via violenta, o
+> cenário perde a tensão que o define.
 
 ## 20. Capacidade da abertura: quantos Gu se carrega
 

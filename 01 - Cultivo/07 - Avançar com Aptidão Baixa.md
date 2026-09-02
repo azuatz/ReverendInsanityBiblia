@@ -260,7 +260,7 @@ Nem toda saída do mundo mortal passa pela ascensão comum:
   organizações inteiras, e não um beco sem saída — mas cobra o que se imagina, e cobra
   no lugar mais caro possível: a abertura **morre**, para de produzir energia sozinha e
   deixa de ganhar dao marks, congelando o cultivo no patamar em que a pessoa morreu. Ver
-  [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
+  [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]], que traz a escada completa, o marcador visível do ponto sem volta e os sete métodos de voltar atrás.
 - **Possessão.** Um imortal morto tomando outro corpo, herdando a vida dele.
 - **Ser convertido por terceiros.** Organizações poderosas fabricam imortais para os
   próprios fins, o que resolve o problema técnico e cria outro, de servidão.

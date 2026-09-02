@@ -69,6 +69,57 @@ se recuperar, e **quanto mais forte a fundação da dimensão interna, mais temp
 enquanto quem vem dos dois céus e a instituição suserana não sofrem o efeito (cap. 1968). É uma
 janela em que os fortes do mundo de baixo ficam imobilizados e os de fora ficam livres.
 
+**L12 — Navegação e viagem por água não existiam em nota nenhuma.** `severidade: média` —
+**corrigido** (era L7). O achado mais valioso: o Mar Oriental tem uma **rede de estradas expressas
+submarinas**. Uma corrente submarina é "como um dragão ou píton sem forma" que abre um túnel de
+água no fundo do mar, e quem a pega viaja mais rápido que os golpes imortais comuns de movimento;
+super forças mantêm **caravanas submarinas** que percorrem dez mil a cem mil li em pouco tempo
+para comerciar; existe um tipo de **mapa precioso que registra só as correntes**, nem as ilhas nem
+a superfície; e ele **perde a validade**, porque as correntes mudam de traçado o tempo todo
+(cap. 894, e cap. 114976 do Vol. 5). Nada disso estava no vault.
+
+**L13 — Este mundo não tem ponte nem balsa, e ninguém tinha registrado isso.** `severidade: média`
+— **corrigido.** Varredura dedicada: não há travessia de rio por ponte de madeira ou pedra usada
+por população comum, e "balsa/barqueiro" não aparece em nenhum volume. As pontes que existem são
+decorativas ou mágicas (ponte de ouro, de arco-íris, de jade, criadas na hora por um cultivador).
+É um silêncio consistente com o cenário, e vale mais dito do que omitido: atravessar um rio é
+problema real para quem não tem poder.
+
+**L14 — O subsolo, que é a fonte do dinheiro do mundo, não tinha nota.** `severidade: alta` —
+**corrigido com nota nova.** A cadeia inteira estava dispersa: a caverna subterrânea é o motivo
+pelo qual um clã se instalou naquela montanha (cap. 4), abriga a nascente, o cofre de Gu de
+reserva e o ritual de despertar (caps. 1, 156, 158), e é área proibida. Faltava também **quem
+minera neste mundo** — e a resposta é surpreendente: os *rockmen*, humanos variantes que comem
+minério, dormem enrolados em bola por sete ou oito anos, vivem mil anos, têm metal crescendo no
+corpo e pagam tributo em minério **a cada dez anos** a quem controla o território, sendo tratados
+explicitamente como escravos (caps. 409, 412, 414, 423).
+
+**L15 — A nota de Cosmologia tratava as Trincheiras Terrestres como fenômeno da Grande Era.**
+`severidade: média` — **corrigido.** Cap. 931 (Volume 4, muito antes da Grande Era): "não só as
+Planícies do Norte tinham uma Trincheira Terrestre — na verdade, **as cinco regiões todas
+tinham**". São acidentes geográficos antigos e permanentes, com dono, e a do norte é a grande área
+de recursos da região mais pobre das cinco. O que a Grande Era faz é abrir trincheiras **novas**.
+
+**L16 — A seção "As veias do mundo" era um parágrafo de três linhas para o sistema técnico mais
+reaproveitável do domínio.** `severidade: alta` — **corrigido.** Faltava praticamente tudo: que
+"veia" é uma **categoria genérica** (a obra cita veia de fogo, veia de água, além das três); que as
+veias de terra expelem magma a cada cem anos e remodelam o terreno (cap. 1155); que **acumulam as
+emoções negativas de uma região e podem gerar feras a partir delas** (cap. 1301); que a Fronteira
+Sul treme primeiro porque tem a veia mais profunda, por ter mais marcas de dao do caminho da terra,
+e por isso é a mais devastada **e** a mais recompensada, com o Mar Oriental no extremo oposto
+(cap. 1408); que existem **nós** de veia de céu e que um mundo privado assentado sobre um deles
+produz mais recursos (cap. 2001); e que as veias humanas se formam onde a humanidade se aglomera e
+**explicam por que certos lugares produzem gênios**, com a maior cidade mortal do mundo sempre
+voltando a se assentar sobre o traçado da sua (caps. 1931, 1947).
+
+**L17 — O que o sol realmente é: o segredo cosmológico melhor guardado do domínio, e ele estava
+fora do vault.** `severidade: alta` — **corrigido.** Cap. 2277: "o sol é uma congregação de marcas
+de dao do caminho do céu, do caminho da luz e do caminho do fogo; é tangível, mas não sólido. Pode
+ser visto como **uma tribulação que vem acontecendo há incontáveis anos**, e que começou a se
+acumular desde o início do mundo". E é o **maior nó de veia de céu do mundo inteiro**. E pode ser
+destruído — um Venerável destruiu o sol de propósito para acelerar a fusão dos dois céus
+(cap. 2333).
+
 **L9 — O Atlas afirmava que a Fronteira Sul não tem estações do ano.** `severidade: média` —
 **corrigido.** A obra descreve estação chuvosa e inverno na região e mostra os dois produzindo
 materiais de refino diferentes no mesmo lugar (cap. 2098). O silêncio real é mais estreito: não há
@@ -150,6 +201,31 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
   regra "o mundo é permeável para os fracos e sólido para os fortes".
 - `fontes` do frontmatter atualizado com caps. 1044, 1045, 1211, 1258.
 
+### `13 - Cosmologia.md` (terceira rodada)
+- **Reescrita a seção "As veias do mundo"** (L16), que passou de três linhas a três subseções
+  completas: veias de terra (as cinco funções, a caixa explicando por que a Fronteira Sul treme
+  primeiro e ganha mais), veias de céu (os nós, o mundo privado que rende mais pelo endereço, o
+  fruto anômalo da fusão e a solução de **mudar a propriedade de lugar**, e a destruição de nó como
+  ato de guerra) e veias humanas (por que certos lugares produzem gênios, e a cidade que sempre
+  volta a se assentar sobre a veia).
+- **Acrescentada a subseção `conhecimento: segredo` "O que o sol realmente é"** (L17): o sol como
+  acúmulo de marcas de dao, como tribulação permanente em curso desde o início do mundo, como maior
+  nó de veia de céu, e como alvo destrutível.
+- **Corrigido L15**: a seção das Earth Trenches agora separa as **cinco trincheiras antigas**, uma
+  por região, que já existem e têm dono, das trincheiras **novas** que a Grande Era abre.
+- `fontes` atualizado com caps. 1155, 1301, 1408, 1531, 2001, 2140, 2267, 2277, 2278, 2333.
+
+### `06 - Escala, Distâncias e Viagem.md`
+- **Acrescentada a seção "Pela água"** (L12 e L13), que a nota não tinha: a jangada de bambu e a
+  descida de rio; o `[!warning]` sobre a **ausência de pontes e balsas** no mundo; a frase-régua do
+  mar ("para os Mestres Gu o mar era muito profundo; para os Gu Imortais a água ainda era muito
+  rasa"); o mergulho como trabalho de mortal e as duas regras dele (a superfície engana; luz
+  atrai); a **rede de correntes submarinas** com as caravanas de fundo de mar, o mapa exclusivo de
+  correntes e a validade que ele perde; as casas-fortaleza imortais em forma de navio; e o
+  elefante-d'água como embarcação viva, com a escala de poder codificada no número de andares.
+- Três regras do mundo novas acrescentadas à lista enumerada (15 a 17).
+- `fontes` atualizado com caps. 201, 1228, 1652-1656.
+
 ### `05 - Atlas das Cinco Regiões.md`
 - **Preenchida uma lacuna que o próprio atlas declarava** (L9, abaixo): o bloco de clima da
   Fronteira Sul dizia que a região não tem estações. Ela tem — a obra registra **estação chuvosa e
@@ -202,14 +278,32 @@ sobre por que uma ruína continua perigosa — o qi de rancor como substância i
 de morte atraindo raios, a ruína que gera população própria, e batalhas imortais que apagam
 acidentes geográficos deixando os nomes órfãos.
 
+### `19 - O Subsolo.md` — resolve L14
+Posição de leitura sugerida: **imediatamente depois do Atlas** (posição 6 na ordem nova). O Atlas
+descreve a superfície; esta nota vira o mapa de cabeça para baixo.
+Cobre: a caverna como motivo da vila, com as quatro funções sobrepostas (fundação econômica,
+santuário do ritual de despertar, cofre de Gu e lavoura protegida) e o interior descrito
+literalmente pela obra — estalactites coloridas, rio subterrâneo de nove metros, mar de flores; a
+geologia do dinheiro (a pedra é cristalização da energia da nascente, não minério), com as três
+regras que decorrem disso e o segredo de que **a moeda imortal não tem nascente equivalente**; os
+homens de pedra como o povo minerador do mundo, com o retrato completo e a relação de tributo e
+servidão; o que sai do chão, com nomes; o Abismo da Terra e as Trincheiras Terrestres como duas
+formações distintas, incluindo a trincheira submarina; os perigos do subsolo (com o registro de que
+**falta de ar não é um deles**); e o que se constrói lá embaixo, incluindo a prisão falsa montada
+na frente da verdadeira como isca.
+
 ### Ordem de leitura completa proposta para a pasta
 
 1. Visão Geral do Mundo · 2. A Filosofia do Mundo · 3. As Duas Eras de um Mestre Gu ·
-4. As Cinco Regiões · 5. Atlas das Cinco Regiões · **6. O Relógio do Mundo** ·
-7. Escala, Distâncias e Viagem · **8. As Plantas e os Bichos Comuns** · 9. Bestas Gu e Reis Fera ·
-**10. O Selvagem, as Ruínas e as Zonas Proibidas** · 11. Lendas de Ren Zu ·
-12. Blessed Lands e Grotto-Heavens · 13. Viver Dentro da Abertura Imortal · 14. Vontade dos Céus ·
-15. Fate Gu · 16. Cosmologia · 17. Lugares Fora das Cinco Regiões · 18. Tribunal Celestial.
+4. As Cinco Regiões · 5. Atlas das Cinco Regiões · **6. O Subsolo** · **7. O Relógio do Mundo** ·
+8. Escala, Distâncias e Viagem · **9. As Plantas e os Bichos Comuns** · 10. Bestas Gu e Reis Fera ·
+**11. O Selvagem, as Ruínas e as Zonas Proibidas** · 12. Lendas de Ren Zu ·
+13. Blessed Lands e Grotto-Heavens · 14. Viver Dentro da Abertura Imortal · 15. Vontade dos Céus ·
+16. Fate Gu · 17. Cosmologia · 18. Lugares Fora das Cinco Regiões · 19. Tribunal Celestial.
+
+Os quatro arquivos novos estão no disco como `16`, `17`, `18` e `19` (continuando o maior número
+da pasta, como pedido). A renumeração para a ordem acima é trabalho do
+`_pipeline/numerar-notas.py`.
 
 `01 - Visão Geral do Mundo.md` **já foi atualizada** com as três notas novas na tabela "Mapa da
 pasta" e no texto da sugestão de ordem de leitura, usando os nomes de arquivo atuais.

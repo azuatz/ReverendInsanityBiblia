@@ -126,7 +126,7 @@ Como ele fez isso, na prática — e este é um detalhe delicioso de worldbuildi
 > Shang clan**." — **cap. 335**
 
 > "Immortal Crane Sect is one of the ten great ancient sects of central continent, **it is a
-> powerful force that surpasses northern plains' super tribes**." — **cap. 650** (V4 l.787)
+> powerful force that surpasses northern plains' super tribes**." — **cap. 654**
 
 ### 1.3 O barril de pólvora — a tensão estrutural da região
 
@@ -258,7 +258,7 @@ Heaven Temple + Immortal Crane Sect + Myriad Dragon Dock.
   than Immortal Crane Sect**." — **cap. 698**
 - **Feng Jiu Ge:** "He was **the person publicly recognized to have the highest battle strength
   in Central Continent's ten great ancient sects. Even though he was rank seven, he could
-  withstand rank eight Gu Immortals**" — **cap. 753**. Caminho do som (sound path) — cap. 925.
+  withstand rank eight Gu Immortals**" — **cap. 753**. Caminho do som (sound path) — cap. 751, 886.
 - **A instituição das "fadas" (fairies), numeradas por geração:** Mo Yao é a **36ª geração**
   (cap. 566, 567, 622, 644); Fairy Lian Xiang, geração anterior (cap. 857); Fairy Black Moon é
   a geração atual numa linha do tempo (cap. 926, 602); Zhao Lian Yun vira a fada da geração
@@ -325,7 +325,7 @@ Heaven Temple + Immortal Crane Sect + Myriad Dragon Dock.
   world." — **cap. 334**; "Fei He mountain had **tens of thousands of flying cranes**, such a
   territorial advantage was well used by the people in Immortal Crane Sect." — **cap. 334**
 - **Idade:** "**Immortal Crane Sect is one of the oldest sects in the Middle Continent**" — **cap. 211**;
-  "having stood tall and straight at Fei He mountain for **hundreds of thousands of years**" — **cap. 651**
+  "having stood tall and straight at Fei He mountain for **hundreds of thousands of years**" — **cap. 658**
 - **Escada de cargos (o gabarito da região):** "In Immortal Crane Sect, from low to high, they were
   classified as, **outer disciple, inner disciple, elite disciple, legacy disciple, sect elder, sect
   leader, and the supreme elder**." … "**The sect elders in Immortal Crane Sect had at least rank four
@@ -770,8 +770,8 @@ stationed there, was heavily injured, he had no choice but to return to the sect
 
 ### 5.6 A corte imperial — desambiguação obrigatória
 
-Não existe "corte imperial" do Continente Central. A ***Imperial Court blessed land*** é das **Planícies do Norte** (cap. 696, 1114) e a ***Merman Imperial
-Court*** é do **Mar do Leste**. O que faz papel de corte no centro é o **Heavenly Court** (Tribunal Celestial); e há, **dentro** da sede dele, um salão chamado
+Não existe "corte imperial" do Continente Central. A ***Imperial Court blessed land*** é das **Planícies do Norte** (cap. 489: "setting up inheritances in Imperial Court blessed land had gradually
+turned into a tradition of northern plains") e a ***Merman Imperial Court*** é do **Mar do Leste** (cap. 1862). O que faz papel de corte no centro é o **Heavenly Court** (Tribunal Celestial); e há, **dentro** da sede dele, um salão chamado
 *Immortal Emperor Court* (rota central da planta, ver Atlas). **Emperor City** é cidade mortal, não corte de governo.
 
 ---

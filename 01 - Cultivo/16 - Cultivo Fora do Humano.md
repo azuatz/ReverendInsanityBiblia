@@ -95,7 +95,7 @@ A ==abertura morta== conserva o rank que a pessoa tinha e perde tudo o mais:
 
 E há o custo mental, que é o mais sutil e o mais jogável: como a produção de **pensamentos** depende de corpo *e* alma (ver [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]]), um morto-vivo — corpo morto, alma intacta — **pensa devagar e pensa pouco**. Raciocinar intensamente esgota seu estoque mental mais rápido do que ele o repõe, e a pessoa fica progressivamente mais obtusa. É a explicação mecânica para o hábito, comum entre mortos-vivos poderosos, de **dormir décadas seguidas**: dormindo eles quase não consomem pensamentos, e acumulam um estoque para gastar de uma vez quando forem lutar.
 
-A escada de zumbificação, as cinco variantes de topo e as fraquezas elementais fixas (fogo, raio, luz, dia) são assunto de [[09 - Longevidade|Longevidade]] e das notas de transformação; aqui interessa só o que ela faz com o **cultivo**.
+A escada de Gu de zumbificação, as cinco variantes de topo, as fraquezas elementais fixas (fogo, raio, luz, dia), os métodos de voltar atrás e o preço final estão em [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]]; aqui interessa só o que a condição faz com o **cultivo**.
 
 ## Almas em corpos trocados
 
@@ -115,3 +115,4 @@ A mesma lógica cobra caro em qualquer troca de corpo. A velocidade com que algu
 - [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o imposto cósmico que também cai sobre bichos e árvores.
 - [[13 - Tornar-se Venerável|Tornar-se Venerável]] — o teto que só humanos puros alcançam.
 - [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — onde variantes humanos viram economia.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a rota do morto-vivo em detalhe: como se entra, o que custa e como se sai.

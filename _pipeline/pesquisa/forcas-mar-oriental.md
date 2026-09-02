@@ -566,3 +566,422 @@ grep: **todas** as ocorrências de "sea god" na obra estão nesse arco (caps. 16
 > Para uma mesa: é o tesouro-lenda do Leste. Existe, está no mar, é rank 8, tem guardiões
 > involuntários, e **a chave não é força e sim espécie** — só um homem-dragão a herda.
 
+
+---
+
+## 4. Fichas de força — material canônico reunido
+
+### 4.1 Clã Song (Song clan)
+
+- **Porte e posição.** "Song clan was a colossus that had occupied Eastern Sea for **hundreds of
+  years**" (cap. 893, l. 40776). "This clan was an existence that was in the **top ten** even
+  among the many super forces in Eastern Sea" (l. 40778).
+- **Número de imortais:** "The official, **publicly known** number of Gu Immortals in the clan
+  was **eighteen**" (cap. 893, l. 40780) — o maior contingente que a obra dá para um clã.
+- **Liderança:** **Song Qi Yuan**, primeiro ancião supremo, **rank 8** "for many years, his
+  battle strength was unfathomable" (cap. 893, l. 40780).
+- **Sucessão:** "Song Qi Yuan's son, **Song Diao Ling**, was a **rank seven** Gu Immortal with
+  outstanding talent, he was cultured and elegant, and had been **publicly recognized as the
+  successor** for Song clan's leadership" (l. 40782).
+- **Sede:** **Heavy Water blessed land** (terra abençoada da Água Pesada), cap. 899, l. 41754.
+- **Caminhos de casa:** "even though our Song clan **specializes in light path and water path**,
+  these two true inheritances are **not outstanding compared to other super forces**"
+  (cap. 2102, l. 23813) — declaração do próprio clã, e uma confissão de mediocridade relativa
+  que explica o projeto de cem anos por uma herança de refino.
+- **Herança de assinatura:** o *flowing water* (água corrente), inheritance de caminho da água
+  do clã (**cap. 2238**, l. 51873), com um leque defensivo temático:
+  *noncorroding flowing water* (contra caminho do veneno), *emotionless flowing water* (contra
+  sabedoria), *flowering flowing water* (contra madeira), *flowing water carriage* (locomoção),
+  *thin flowing water* (reduz gasto de essência imortal), *flowing water wine party* (imita
+  efeito de caminho da comida), *moving cloud flowing water* (facilita a ativação de golpes).
+- **O grande projeto:** cem anos disputando a **Ascending Heaven Plain** contra Cai e Ruo Lai
+  (cap. 899, l. 41862: "a project that the clan had been planning for a **hundred years**"), com
+  o objetivo declarado de obter a herança de **Old Eccentric Tian Nan** — e o clã **venceu**
+  (cap. 2102). Motivo declarado: "with this Tian Nan's true inheritance, our **success rate of
+  refining Immortal Gu will rise sharply**… after decades or centuries, our Song clan's strength
+  will definitely surpass the other super forces" (cap. 2102, l. 23813–23821). E o contexto
+  regional: "Because Eastern Sea had the most abundant resources and immortal materials, **once
+  they had a high quality refinement path true inheritance, the amount of benefits they would
+  gain far surpassed the other regions**" (cap. 2102, l. 23819).
+- **O pilar de sabedoria — Song Jia Dan** (cap. 899, l. 41800–41812): imortal de caminho da
+  sabedoria **criado de propósito pelo clã**. Vive no penhasco do **Twin Polar Sea Strait**
+  (Estreito dos Polos Gêmeos), coberto de névoa o ano inteiro; **a metade inferior do corpo está
+  petrificada e fundida ao terreno**; o rosto é rígido como estátua e ele fala com dificuldade.
+  "Song Jia Dan had **sacrificed his own freedom for the clan**." Um **token** do primeiro ancião
+  supremo abre a névoa e — regra interna — **ele exige ver o token antes de deduzir, mesmo para
+  parentes**. É o nº 1 dos três dedutores do Leste: "he sacrificed himself for his clan and
+  **fused himself into the world of Eastern Sea itself**. As long as it is **within Eastern
+  Sea**, he can deduce it accurately, this is very scary. **Even if you hide in someone's
+  immortal aperture, you will only delay the timing**" (cap. 903, l. 42504).
+- **Figura de fachada — Song Yi Shi:** neta de Song Qi Yuan, "the **prized jewel** of Song clan,
+  one of the **beauties of Eastern Sea**" (cap. 986), muitos pretendentes. Ao chegar a **rank
+  6** ganhou do avô a **poetic emotion sea area**, 4 milhões de km², acima da 46ª colocada do
+  ranking (cap. 893, l. 40794). O mar produz o ***emotion poetry Gu***, rank 4 de caminho da
+  sabedoria, que **armazena emoções** e é "extremely precious in the minds of mortal Gu Masters"
+  (cap. 894, l. 40999).
+- **Como o clã reage a uma ofensa** (o melhor gancho de mesa da região) — caps. 897–907: um
+  forasteiro ofende Song Yi Shi. O clã **não** age imediatamente; os **pretendentes dela** saem
+  caçando o sujeito por conta própria, em massa (cap. 897, l. 41412). Um observador explica:
+  "precisely **because Song clan is a righteous path super force, a large organization with many
+  matters to take care of**, that they would not create a huge commotion over such a small
+  matter. But Song clan's **reputation** was affected, they would definitely want an answer"
+  (cap. 898). A resolução foi **negociada** — a Zombie Alliance mediou e o caso fechou por
+  **seiscentas pedras de essência imortal** (cap. 907, l. 43100).
+
+### 4.2 Clã Shen (Shen clan)
+
+- **Liderança:** **Shen Cong Sheng**, primeiro ancião supremo, **rank 8**, e cultiva **caminho do
+  som**: "He was an Eastern Sea rank eight Gu Immortal, the first supreme elder of super force
+  Shen clan, **he cultivated sound path**" (cap. 1700, l. 123570).
+- **Sede:** a **purple rosewood myriad sparrow island** (ilha do jacarandá-roxo dos dez mil
+  pardais) — **cap. 1850**, l. 153529 e 153607–153613. A ilha **não é terra**: é uma **planta
+  desolada imemorial**, o *sea suppressing purple rosewood* (jacarandá-roxo que suprime o mar),
+  enraizado no fundo do oceano, com a copa acima da água e os galhos entrelaçados formando a
+  ilha. Vivem nela incontáveis espécies, sobretudo pardais; **quando os pardais cantam, os galhos
+  vibram e emitem sons que se propagam e acalmam o mar ao redor** — daí o nome. O mar ali é liso
+  como espelho e não venta. A árvore produz **um galho especial a cada oitocentos anos**, e só
+  esse galho pode ser enxertado para criar um novo jacarandá de nível ancião — cada muda é, por
+  si só, **um ponto de recurso de grande porte**.
+- **Território e negócio:** "Shen clan was an Eastern Sea super force, it had **huge businesses
+  and seven seas under its control**" (cap. 2217, l. 47584).
+- **Produto único no mundo:** o *constant wave sound* (som de onda constante), **material imortal
+  rank 7 de caminho do som**, guardado numa concha, que **emite som por anos sem parar**;
+  "Shen clan's constant wave sound is **unique in the world**" (cap. 1895, l. 162408, 162470).
+- **O instrumento diplomático — o chá dos seis sons** (*six sound tea*), **cap. 1850**
+  (l. 153535–153579): "the **signature tea** of Shen clan, it was **incredibly famous in the five
+  regions**", superior ao qingpu da Spirit Affinity House, ao chá da sombra do dragão do Myriad
+  Dragon Dock, ao chá enfeitiçante do clã Qiao da Fronteira Sul e ao sete-li perfumado do clã
+  Fang. Não é uma xícara: é um **conjunto de seis**, cada uma com processo de preparo,
+  temperatura, xícara, **ordem** e **modo exato de beber** próprios. As seis: *autumn wood
+  sound*, *cloud flow sound*, *river mournful cry*, *jade harp*, *phoenix cry*, *hibiscus
+  laughter*. Bebidas na ordem, as seis se encadeiam e **tomam os cinco sentidos** do convidado —
+  o hóspede "voltou a si" duas horas depois. Custo: o chá é **feito de materiais imortais** e só
+  um perito em refino consegue prepará-lo; na versão de topo o próprio rank 8 do clã participa e
+  gasta **material imortal rank 8** para produzir algo que se bebe e acaba. "**three days and
+  nights of preparation** by my clan's Gu Immortals."
+- **Golpe de assinatura:** Shen Cong Sheng tem um método imortal para **capturar um rank 8 vivo**
+  — e depois escravizá-lo. A obra registra o espanto dos pares: "did Shen Cong Sheng have a
+  method to **capture a rank eight Gu Immortal alive**?" e a consequência política: "just the
+  reputation gained from capturing a great expert of the same rank was enough for Shen Cong Sheng
+  and the entire Shen clan's reputation to **soar in Eastern Sea**" (cap. 1716, l. 126558–126576;
+  cap. 1725: "Shen clan had just gained a new rank eight existence… it would **break the balance
+  of the current Eastern Sea**").
+- **Rivais e pares:** "For example, **Xie clan, Cai clan, Hua clan, Tang clan, and even Song
+  clan**…" — a lista dos que o clã Shen considera de porte equivalente (cap. 1910, l. 165525).
+  O clã Tang o tem por inimigo declarado (cap. 1046, l. 4874).
+- **Anciãos supremos externos:** o clã usa o cargo para amarrar solitários fortes — **Ren Xiu
+  Ping**, imortal solitário, "became Shen clan's **external supreme elder**… a person who
+  followed the rules and kept a low profile" (cap. 1982, V6 l. 3113).
+- **Mentalidade da casa** (a crítica que a obra põe na boca de um forasteiro, cap. 1838,
+  l. 151538): "With this kind of **small-minded thinking**, no wonder Shen clan has not done
+  anything significant after you led it for so many years. **The sect system is extremely
+  accepting of outsiders, we only look at talent.**" O clã Shen é a caricatura do clã fechado do
+  Leste: rico, cauteloso, endógamo, e consciente disso.
+- **Como negocia** (caps. 1891–1896): dentro do Dragon Whale Paradise, impedido de lutar, Shen
+  Cong Sheng primeiro **tenta impor** ("Do you think our Shen clan is easy to fool?"), falha,
+  **troca de tática para comprar** ("you are not just getting my friendship, you will get the
+  friendship of Shen clan"), é logrado numa troca, e **sorri, elogia o adversário em público** e
+  jura por dentro cobrar depois. É a etiqueta de super força correta em estado puro.
+
+### 4.3 Clã Hua (Hua clan)
+
+- **Liderança:** **Hua Cai Yun**, primeira anciã suprema, **rank 8**, mulher — "a young girl with
+  bright eyes, **exquisite rainbow clouds coiled around her body**" (cap. 1690, l. 121792).
+- **Caminho de casa:** "**Hua clan was most proficient in cloud path**, they were **experts in
+  exploring black heaven and white heaven**" (cap. 1881, l. 159521) — os dois céus imemoriais
+  ainda íntegros. É a razão histórica da riqueza da casa: eles trazem o que só existe lá em cima.
+- **Prova de fundação:** deu de presente uma porção de ***rank nine heaven qi*** (qi celestial
+  rank 9) — "it showed her sincerity as well as **Hua clan's immense foundation**" (mesma
+  passagem).
+- **Assinatura:** o golpe *pot tossing cloud* (nuvem que arremessa o pote), que ela descreve como
+  imune a um selo de peste: "Your red pestilence insignia is useless against my pot tossing
+  cloud! It will only be **tossed away** by me, I will never get hit" (cap. 1691, l. 121937); e
+  uma **besta-nuvem imemorial** que solta para corroer formações (cap. 1716, l. 126514).
+- **Herança contribuída:** *snake poison qi thread* (fio de qi de veneno de serpente)
+  (cap. 2105, l. 24265).
+- **A mancha interna:** **Hua An** era imortal do clã Hua, **desertou** e foi acolhido pelo clã
+  Nan Gong; tornou-se **um dos três maiores dedutores do Mar Oriental**. O clã Hua "**threatened
+  him all along, he had faced their assassination attempts multiple times**", e por isso ele
+  quase não sai da sede do Nan Gong (cap. 1472, l. 86839–86847). Quando os dois clãs se cruzam
+  num banquete, "Hua Cai Yun's expression **sank**" — e ela engole, porque o anfitrião era mais
+  forte (cap. 1882, l. 159714–159722).
+
+### 4.4 Clã Qing Yue (Qing Yue clan)
+
+- **Liderança:** **Qing Yue An**, primeiro ancião supremo, **rank 8**, "a middle aged man in blue
+  robe" (cap. 1690, l. 121790).
+- **Perfil de combate:** **força bruta, não técnica** — ao quebrar uma super formação imortal,
+  "He was **not a formation path Gu Immortal**, he could not resolve it through formation path
+  means, he had **used brute force instead**", e se feriu no processo (cap. 1707, l. 124902,
+  124918).
+- **Herdeiro:** **Qing Yue Zhi Cheng**, rank 7, descendente de sangue do primeiro ancião supremo
+  (cap. 1488, l. 89547). A obra o usa como retrato do jovem de super força do Leste: passou dez
+  anos cortejando por carta uma imortal solitária famosa que só respondia "lido" ou "certo", e
+  ela mantinha a correspondência **porque não queria se indispor com o clã Qing Yue**
+  (l. 89555–89561).
+- **Geografia:** entre as forças mais próximas da sede da Zombie Alliance, com Su, Song e Hua
+  (cap. 1885, l. 160471).
+- **Especialidade declarada:** `—` a obra não informa o caminho de casa do clã.
+
+### 4.5 Clã Tang do Mar Oriental (Tang clan) — não confundir com o clã Tang do Deserto Ocidental
+
+- **Estatura:** "Tang clan was a super force in Eastern Sea, it was **equivalent to Central
+  Continent's ten great ancient sects**" (cap. 1046, l. 4862) — o maior elogio de porte que a
+  obra dá a um clã do Leste. E "Tang clan might be an **overlord** in Eastern Sea" (l. 4874).
+- **Liderança:** a obra menciona o **primeiro ancião supremo** do clã tomando parte pessoalmente
+  em exército aliado (cap. 2069, l. 17666) mas **nunca o nomeia nem dá o rank**.
+- **Imortais nomeados:** **Tang Song**, ancião supremo, **rank 7**, cujas marcas do dao são de
+  **caminho do som** (caps. 1046, 1161 l. 27999); **Tang Tang** (cap. 2137); **Tang Miao**.
+- **Herança contribuída:** *myriad fusion* (fusão miríade) (cap. 2105, l. 24293).
+- **Inimigos:** clã Shen e clã Su (cap. 1046, l. 4874); **conflito de fronteira crônico com o clã
+  Xia**, a sudeste dele (caps. 1985, 1991, 2137).
+- **Como se comporta:** um solitário legalista que o clã queria recrutar há tempos ofereceu
+  entrar no clã em troca de socorro contra um inimigo poderoso — e o clã **recusou friamente**,
+  calculando que a perda de reputação por não retaliar era menor que o risco: "**My Tang clan
+  cannot offend a person like Fang Yuan!** … As for reputation, Tang clan's reputation would fall
+  a little because they did not retaliate. But, **other clans were also the same**" (cap. 2137,
+  l. 30514–30528). O Leste inteiro funciona assim.
+- **Oportunismo entre pares:** quando o clã Xia perdeu o território, o clã Tang aproveitou o
+  momento para **chantageá-lo** pelo segredo do *Human Sea*: "Tang clan was an Eastern Sea super
+  force, they bordered Xia clan and had much conflict in usual times. Thus, they decided to
+  **make things difficult for Xia clan at this moment**" (cap. 1991, l. 3915).
+
+### 4.6 Clã Xia do Mar Oriental (Xia clan) — não confundir com o clã Xia da Fronteira Sul
+
+A obra é explícita sobre a homonímia: "Southern Border had Xia clan, Eastern Sea also had Xia
+clan, **these Xia clans were not the same** but they were similarly super forces" (cap. 1981,
+l. 2619).
+
+- **Posição:** "Eastern Sea's Xia clan has the **weakest foundation of all the super forces**,
+  they are **at the bottom of Eastern Sea's righteous path forces**. Not just that, Xia clan is
+  at the **eastern most part of Eastern Sea**, the location is remote" (cap. 1981, l. 2625).
+- **Vizinhos:** "towards their **west** was the **Merman Imperial Court**, towards the
+  **southeast** was **Tang clan**, and towards the **northeast** was **Xie clan**" — e a relação
+  melhor é com os homens-peixe; com Tang e Xie há atrito (cap. 1985, l. 3053–3057). O clã Shen
+  fica **mais a oeste** (l. 3059).
+- **Liderança:** **Xia Rui Zhi**, primeiro ancião supremo, **apenas rank 7** — "Even though Xia
+  Rui Zhi only had **rank seven** cultivation level, he had **high reputation**" (cap. 1982,
+  l. 2740). E: "**Xia clan did not have a single rank eight**" (l. 2764). Outros: **Xia Ying**
+  (imortal), **Xia Zheng Qing** (guarda de ponto de recurso).
+- **Sede:** **Hot Springs blessed land** (terra abençoada das Fontes Termais), cap. 1982, l. 2692.
+- **Casas de Gu Imortal:** **duas, ambas rank 7**; uma delas é o **Whale Fishing Boat** (Barco de
+  Pesca de Baleia), usado como transporte e como fuga (cap. 1982, l. 2772, 2788). Comentário
+  externo: "even without a rank eight, they can rely on rank seven Immortal Gu Houses to put up a
+  fight" (cap. 1983, l. 2795).
+- **Caminho de casa:** **caminho da água** — "even though Xia clan **primarily cultivated water
+  path**" (cap. 1982, l. 2652).
+- **Pontos de recurso nomeados:** *reflecting shadow sea area* (mar do reflexo de sombra), "a
+  **giant resource point**, it produced **dark path and rule path** cultivation resources in
+  large quantities" — e como não é o caminho da casa, o clã **os vende** com lucro alto
+  (l. 2652); *light ripple sea* e *shooting fish sea* (l. 2716).
+- **Herança contribuída:** *molten casting* (fundição derretida) (cap. 2105, l. 24293).
+- **O segredo da casa — `[segredo]` Human Sea (Mar Humano):** um projeto de **muitos anos**,
+  conhecido **só pelos imortais do clã**, e cujo método de recuperação **só o primeiro ancião
+  supremo domina**: construir um **domínio recluso artificial de caminho humano**. "Wu Shuai knew
+  that Human Sea was the work of Xia clan for **many years**, they were attempting to **create a
+  human path secluded domain in secret**" (cap. 1983, l. 2877–2885). O potencial é enorme: numa
+  linha do tempo alternativa, "Human Sea was dazzling and impressive, **it helped Eastern Sea's
+  Xia clan to rise up to the top**" (l. 2887). É a super força mais fraca da região sentada sobre
+  a aposta mais alta dela.
+
+### 4.7 Clãs Cai e Ruo Lai (Cai clan, Ruo Lai clan)
+
+- Ambos são **super forças** (cap. 985, l. 58744) e cada um tem **um rank 8** (cap. 986, l. 58943:
+  "The **three rank eights** from Song clan, Cai clan, and Ruo Lai clan").
+- **Representantes rank 7 nomeados:** **Cai Xiong** e **Ruo Lai Gui Yi** (cap. 985, l. 58738).
+- **O que os define:** a disputa centenária pela **Ascending Heaven Plain** contra o clã Song — e
+  a **retaliação conjunta** contra qualquer intruso, apesar da rivalidade (caps. 986, 988).
+- **Fraqueza declarada:** "**Ruo Lai clan and Cai clan have no powerful wisdom path Gu
+  Immortals**" (cap. 987, l. 58994) — é a vantagem estrutural que o clã Song tem sobre eles.
+- Caminho de casa, porte e sede: `—` a obra não informa.
+
+### 4.8 Clã Nan Gong (Nan Gong clan)
+
+- "Nan Gong clan was a **righteous path super force** of Eastern Sea" (cap. 1472, l. 86813).
+- **Território marítimo com fronteira reconhecida**: a visitante para na borda, pousa numa ilha
+  sem nome, e **avisa antes de entrar** por método de caminho da informação; um imortal do clã vai
+  recebê-la (l. 86811–86817). É o protocolo de fronteira do Leste em uma cena.
+- Recebe hóspedes no **Hua Qiao Pavilion**, dentro da sede.
+- **O ativo da casa:** acolheu **Hua An**, desertor do clã Hua, hoje **um dos três maiores
+  dedutores do Mar Oriental** — e o protege de assassinatos do clã Hua há anos.
+- **Herança contribuída:** *great profound* (grande profundidade) (cap. 2105, l. 24265).
+- **Etiqueta:** o imortal rank 6 enviado para receber a visitante "**did not display the prideful
+  nature of a super force member**" porque a visitante era rank 7, solitária e famosa — no Leste,
+  reputação pessoal vale contra sobrenome (l. 86821).
+
+### 4.9 Clãs Su e Xie (Su clan, Xie clan)
+
+- **Su clan** — super força (cap. 1882, l. 159668); **inimigo do clã Tang** (cap. 1046);
+  geograficamente entre os mais próximos da sede da Zombie Alliance (cap. 1885). Imortal nomeado:
+  **Su Chen**, "he **specialized in healing** and was **famous in Eastern Sea**, he was quite a
+  kind person" (cap. 1648, l. 114686). Herança contribuída: *big belly* (barriga grande)
+  (cap. 2105).
+- **Xie clan** — super força a **nordeste do clã Xia**, com atrito habitual com ele (cap. 1985);
+  tem **primeiro ancião supremo** que sai em campanha pessoalmente (cap. 2069, l. 17666). Herança
+  contribuída: *remnant leaves* (folhas remanescentes) (cap. 2105). Nome do líder, rank e caminho:
+  `—`.
+
+### 4.10 Clãs Ni, Qiu e Ba (donos conjuntos do air bubble sea)
+
+**cap. 673** (V4 l. 3566):
+> "Especially in one of the sea areas, **air bubble sea**. This sea produces abundant **air bubble
+> fish** but due to a **fight between Gu Immortals** recently, it has been **poisoned**. The
+> owners of this sea area, **Ni clan, Qiu clan and Ba clan** are having headaches because of this."
+
+Contexto econômico (cap. 491, V3 l. 14817): envenenado o mar, "the **price of air bubble fish in
+treasure yellow heaven will greatly increase**" — um acidente local move o mercado mundial.
+Recomendação prática dada a um forasteiro que quisesse abordá-los (cap. 673, l. 3578): **não
+procurá-los direto**; ir antes a **Hai Shi blessed land**, pegar lá a missão pública de salvar o
+air bubble sea, e usar isso como pretexto de apresentação.
+
+> Nota de fonte: a mesma passagem (cap. 673) grafa os três clãs uma vez como "Ni clan, Qiu clan
+> and **Ba** clan" e, doze linhas depois, como "Ni, Qiu and **Bai** clans". Divergência interna da
+> tradução; não há terceira ocorrência para desempatar.
+
+### 4.11 Corte Imperial dos Homens-Peixe (Merman Imperial Court)
+
+- **O caso único do mundo:** "In the entire five regions, **only you are still a super force among
+  the variant humans**" (cap. 1979, V6 l. 2170). E: "For the mermen sea area… they have incredible
+  strength, being **one of Eastern Sea's top ten super forces**" (cap. 892, V4 l. 40605). "Most
+  mermen in the world live in Eastern Sea" (cap. 1297, V5 l. 53488).
+- **Liderança tripla e feminina:** "Eastern Sea's merman force had **three leaders, they were all
+  mermaid immortals**, they were called **Lian Ke Xin, Yu Zi, and Xie Ning Si**" (cap. 1979,
+  l. 2156).
+- **Doutrina declarada:** "For countless years, mermen have lived in Eastern Sea peacefully and
+  harmoniously, **we have been neutral all along, we will not participate in any conflict
+  outside**" (l. 2168). Alinhamento: **neutro por política de sobrevivência**, não por
+  indiferença.
+- **De onde vem a proteção:** "The merman race **received the help of Paradise Earth Immortal
+  Venerable** back then, **that is why you could live like this until now**" — e a ameaça
+  correspondente: "**How long has it been since Paradise Earth Immortal Venerable died? How much
+  influence does he still have to protect you?**" (l. 2170–2174). Confirmado fora da cena:
+  cap. 2047 (V6 l. 13690) "he helped and assisted many different forces. For example, the Merman
+  Imperial Court in Eastern Sea, it was **because he did not want to see the merfolk get
+  bullied**"; cap. 2194: "Paradise Earth left Merman Imperial Court in Eastern Sea and also
+  Mushroomman Paradise in Southern Border."
+- **A ameaça permanente:** "**The human forces had been wanting to take down the Merman Imperial
+  Court long ago**, they were only restricted by Paradise Earth Immortal Venerable's influence"
+  (cap. 1979, l. 2200). Basta um boato de que os homens-peixe conspiram contra humanos para que
+  "with the usual behavior of humans, they would form into an **allied army and eliminate the
+  Merman Imperial Court first**" (l. 2198).
+- **Arsenal nomeado:** a formação de batalha **merman wave sacred spiritual formation** (formação
+  espiritual sagrada da onda dos homens-peixe), montada reunindo os imortais da tribo; e a Casa de
+  Gu Imortal **Floating Reputation Boat** (Barco da Reputação Flutuante) (cap. 1979,
+  l. 2222–2234).
+- **Instituição interna:** a **santa** (*saintess*), eleita na **Sea God Ceremony**, e que **tem
+  autoridade real** — a obra usa isso como contraste explícito com as bruxas dos homens-cogumelo,
+  que têm prestígio mas não poder (cap. 2143, V6 l. 31700). Ver §3.9 para a mecânica da cerimônia.
+- **Diplomacia de sombra:** a Corte "had always been **helping Gu tribe in secret to conceal their
+  traces**" — uma tribo de homens-fera escondida no fundo do mar — e por isso soube deles o
+  **segredo dos homens-dragão** (cap. 1868, V5 l. 157006). E: "The Merman Imperial Court has
+  already begun **investing everywhere for the survival of their tribe**" (l. 157012).
+- **Cadeira frágil:** uma das três líderes, sozinha, resume o cálculo da casa — "she had high
+  status and authority, but now she felt **helpless and fearful**… If she was careless, then the
+  entire Merman Imperial Court would even get **completely devoured**" (cap. 1991, V6 l. 3965).
+
+### 4.12 Aliança dos Zumbis — sede mundial (Eastern Sea Zombie Alliance)
+
+- **Natureza e escala:** "This alliance has existed since long ago… it appeared in the **Medieval
+  Antiquity Era, three hundred thousand years ago**. Now, it is a super force which is spread
+  throughout the five regions; its **main headquarters is in eastern sea**, with a branch in each
+  of the other four regions" (cap. 636/V4 l. 636 — cap. 653 aprox.). "Zombie Alliance's branches
+  were weaker than the respective region's super forces. **But the headquarters at eastern sea was
+  a level stronger than the native super forces**."
+- **Estatura local:** "Eastern Sea Zombie Alliance was the main headquarters… it was a **colossal
+  force, a level stronger than even super forces**, and could even be called an **overlord of the
+  Eastern Sea cultivation world**" (cap. 918, l. 45337). "it had **three Immortal Gu Houses**!"
+  (cap. 902, l. 27741).
+- **Território:** a **yellow spring sea area** (mar da fonte amarela) — água amarela por natureza;
+  no fundo, corais apodrecidos cinza-esbranquiçados de cheiro intenso e algas pálidas "like nooses
+  used to hang people"; peixes-zumbi, lulas-zumbi, medusas e tartarugas-zumbi brigando entre si; e
+  **quanto mais perto do centro, menos vida** — "this is the **largest zombie farming area in the
+  five regions**" (cap. 906, l. 42955–42963). Também controla áreas de mar ricas em **deepsea
+  lightning eels** (cap. 679, l. 4710).
+- **A sede — Undying Kingdom (Reino Imorredouro):** uma **terra abençoada pública** no centro do
+  mar amarelo. Ao contrário do que se espera de zumbis, dentro dela é "a scene **full of life**,
+  filled with the twittering of birds and fragrance of flowers". No centro há **uma cordilheira
+  esculpida em ossos**, com dezenas de palácios e salões sobre dezenas de montanhas (cap. 906,
+  l. 42977–43040).
+- **Como a terra abençoada foi construída** (a peça mais original da região, cap. 906, l. 42985–
+  42995): a Aliança **funde pedaços de terras abençoadas doadas**, com um método próprio que
+  **preserva a vitalidade** dos pedaços. Doadores: sobretudo imortais zumbis e "**those old Gu
+  Immortals whose lifespan is ending and are planning to turn into immortal zombies**". Regra
+  declarada: "Eastern Sea Zombie Alliance has **never forcibly demanded** any living Gu Immortal…
+  to offer a part of their immortal aperture. Naturally, Zombie Alliance **encourages** you to
+  offer part of your blessed land by providing **large amounts of rewards**."
+- **Recrutamento e casta interna:** recruta abertamente **imortais vivos**, mas "these living Gu
+  Immortals had **lower statuses** than immortal zombies in most cases" e "**Living Gu Immortals
+  cannot become higher-ups of Zombie Alliance**" (caps. 902, 907). Entrar é fácil se um membro de
+  status apadrinha: a inspeção vira formalidade (cap. 907, l. 43048). O novato sai com **um token
+  de identidade** e **Gu mortais de caminho da informação** para trocar mensagens com a Aliança
+  (cap. 906, l. 43038).
+- **Propósito declarado e moeda interna:** pesquisar em conjunto a reversão da zumbificação —
+  "how to **maintain the vitality of the immortal aperture while not causing any change to the
+  immortal zombie body**". O resultado **não se compra**: troca-se por **pontos de contribuição**,
+  e o preço é enorme (cap. 906, l. 42997–43010). Fang Yuan deduz o limite da pesquisa: "**If they
+  truly had this method, Eastern Sea Zombie Alliance would already have been dominating Eastern
+  Sea.**"
+- **Economia de missões:** a Aliança emite missões (atacar Yu Lu blessed land, restaurar coisas),
+  paga em pontos de contribuição e **cobra as perdas** de volta — quem gastou uma Casa de Gu
+  Imortal numa tentativa fracassada "will have to pay a huge amount of contribution points"
+  (cap. 818, l. 27797). E compra rota e informação: um mapa de travessia da maré terrestre valeria
+  "**large amounts of contribution points**" (cap. 819, l. 27884).
+- **Capacidade de infraestrutura única:** a formação que gera **maré terrestre artificial**
+  (cap. 928) — ver §2.7.
+- **Como reage a uma ofensa:** despachou **três rank 8 imortais zumbis mais dez rank 7** para punir
+  um agressor externo "**to protect their reputation**" (cap. 927, l. 47096). E o custo: mesmo com
+  a formação da sede, atravessar duas muralhas regionais deixou os três rank 8 gravemente feridos
+  e matou quatro dos rank 7 (cap. 928, l. 47267–47279).
+- **Peso diplomático:** foi a Zombie Alliance que **negociou em nome de um membro** com o clã Song
+  e fechou o caso barato, "**if not for Eastern Sea Zombie Alliance being stronger than Song
+  clan**" (cap. 907, l. 43100).
+- **Limite:** a Ascending Heaven Plain está **fora** do alcance dela por razão geográfica
+  (cap. 985) — a Aliança é hegemônica, não onipresente.
+
+### 4.13 Solitários e figuras sem clã (a quarta perna do poder)
+
+| Figura | Rank | O que é | Fonte |
+|---|---|---|---|
+| **Granny Rong, Yang Zi He, Shi Miao, Zhang Yin** | 8 | os quatro rank 8 **solitários e demoníacos** do Leste; são, sem que os pares saibam, **"Dragon Palace Dragon Generals"** — escravizados de longa data pela Casa de Gu Imortal perdida, e obrigados a defendê-la | caps. 1688, 1725, 1923 |
+| **Miao Ming Shen** | 7 | caminho do espaço; **expande a abertura imortal de terceiros**; núcleo de um círculo de quatro; "even super forces refused to offend him" | cap. 1154 |
+| **Zui Xian Weng** | 7 (V3) | caminho da comida/vinho; **137º herdeiro** do Wine Emperor; criou um **mar de vinho** e dá **uma recepção por ano**; ligado a quase todas as forças corretas | caps. 411, 1191, 2104 |
+| **Hua An** | — | um dos **três grandes dedutores** do Leste; desertor do clã Hua, abrigado pelo Nan Gong | caps. 1472, 1882 |
+| **Dragon Head Tortoise** | — | o terceiro dos três dedutores; vive dentro do **adversity sea** (mar da adversidade) e é **quase impossível de localizar** | caps. 903, 1296 |
+| **Gong Liang Bai** | — | sabedoria + madeira; **abaixo dos três**, mas com herança verdadeira completa e enorme rede; **deduz por encomenda, mediante pagamento** — o dedutor a que um solitário de fato consegue chegar | cap. 1296 |
+| **Wu Ma Yang** | 7 | caminho das trevas; o golpe *dark arrow veil* já **derrotou três rank 7 juntos**, e essa batalha o tornou famoso na região | cap. 1296 |
+| **Shark Demon e Su Bai Man** | 7 | casal de **imortais zumbis** da Zombie Alliance; donos do **Shark Sea** (46º do ranking), que **criaram de propósito** ao redor do *one finger flow shark*, um tubarão que se esconde **dentro do Rio do Tempo**, para tentar subjugá-lo com cardumes (falta-lhes attainment de escravização) | caps. 892, 920 |
+| **Seven Seas Snake Woman** | — | imortal **do caminho demoníaco** que possui **sete áreas de mar** sozinha | cap. 896 |
+| **Bo Dan** | — | imortal que **perdeu a área de mar** para uma invasora forte, ficou sem renda, apanhou ao ir implorar de volta, e virou mercenário de invasão de terra abençoada | caps. 893, 918–919 |
+| **As "seis grandes fadas do Mar Oriental"** | 6–7 | lista pública de beldades imortais (nomeadas: **You Chan**, caminho da água; **Qin Bai He**, caminho da madeira); ambas com rede grande e **ligações com rank 8 do Leste** — pedir socorro lhes rende muitas respostas | caps. 1472, 1485, 1487 |
+| **Ren Xiu Ping** | 7+ | solitário calculista; virou **ancião supremo externo do clã Shen** | caps. 1889, 1982 |
+
+### 4.14 A aliança do caminho correto do Mar Oriental
+
+> **Recorte temporal:** esta aliança **não existe no presente do cenário**. Ela é formada
+> tardiamente, sob pressão de uma ameaça externa, e recebe o nome de **Righteous Qi Alliance**
+> (Aliança do Qi Correto). Registro aqui só a **arquitetura**, que é o que interessa para design;
+> as circunstâncias são enredo e ficam de fora da nota final.
+
+**cap. 2074** (V6 l. 18527–18561), os pilares declarados na fundação:
+1. **Liderança única com obediência real** — "I will give commands for the overall situation, I
+   hope everyone will **not merely pretend to obey** the orders."
+2. **Quadro de contribuição e quadro de missões**, "fair and impartial, **anyone who contributes
+   to the alliance from now on will have their merits known to everyone**. The alliance's affairs
+   should be handled by people who are **qualified** to take on the tasks." Os próprios membros
+   reconhecem que sem isso "the alliance would **only exist in name** and would be better off not
+   established".
+3. **Intercâmbio de heranças verdadeiras e de gênios entre os clãs** — "Some clans had many
+   refinement path Gu Immortals, while some were strong in wisdom path."
+4. **Diplomacia coletiva** — falar com o Tribunal Celestial **em nome da aliança**.
+
+E as duas patologias que a obra mostra em seguida, igualmente úteis para mesa:
+- Enquanto não há crise, o quadro de contribuição fica **quase vazio**: "if there was no need to,
+  **who would take out their unique inheritance** to trade to others?" (cap. 2105, l. 24267).
+- Sob crise, a contribuição vira **competição política**: "The contribution of true inheritances
+  became a competition, it turned into a **political conflict between the clans**, the members
+  were **tearing at each other**, while the biggest beneficiary was… the alliance leader who
+  watched this spectacle from his main seat" (cap. 2105, l. 24343). O clã que mais deu ficou em
+  primeiro no quadro — e mais pobre.
+- **Quem entra por medo, sai por medo**: quando o poder mudou de lado, as super forças do Leste
+  trocaram de aliança em bloco (caps. 2217–2251).
+

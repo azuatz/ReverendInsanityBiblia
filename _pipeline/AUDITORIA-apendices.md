@@ -201,6 +201,40 @@ avisos obsoletos foram substituídos por um registro de resolução.
   só de comida e **~5 pedras/dia** somando cultivo e sustento (cap. 64); refinar um Gu de
   rank 1 custa **~7 pedras** em média (cap. 11).
 
+### Números vindos das auditorias irmãs (`02 - Gu/` e `06 - Economia e Vida/`)
+
+Todos foram reconferidos no texto-fonte antes de gravar. Um foi recusado.
+
+| Item | Veredito | Onde entrou |
+|---|---|---|
+| **3 a 5 Gu** para um Mestre Gu comum; 7 como caso explicitamente excepcional (cap. 137) | ✅ confirmado literalmente | nova seção 20 |
+| A abertura tem **limite físico** de quantos Gu comporta, separado do limite financeiro (cap. 222); abertura mortal não guarda um segundo Gu Imortal (cap. 969) | ✅ confirmado | nova seção 20 |
+| **0,9 pedra por dia** para dois Gu de rank 1; **1 pedra por mês** para uma família mortal de três (caps. 11, 23) | ✅ confirmado, e a obra dá ainda mais: 4 Gu = 2+ pedras/dia só de comida, ~5 pedras/dia com cultivo e sustento (cap. 64); refinar um Gu de rank 1 custa ~7 pedras (cap. 11) | §19.2 |
+| **Escada de pedágio urbano 1 / 10 / 100 / 200 / 600** por anel (caps. 260, 261, 293, 1973) | ✅ confirmado nos cinco degraus, mais um sexto que é o mais interessante: **do segundo anel interno para dentro o dinheiro não entra**, só ficha de autoridade (cap. 261) | nova §19.4; a linha antiga da §13.8 virou remissão |
+| **Escada de lucro por honestidade** — 7 a 8× no comércio honesto ("o limite deste mundo"), 10+× no ilegal, dezenas de vezes na fraude, e o assalto que "não precisa de capital" (cap. 243) | ✅ confirmado literalmente, nos quatro degraus | nova §19.5 |
+| **Spread de compra e venda de Gu** (loja paga ~250, mercado vende ~500) | ✅ confirmado, e a aparente contradição entre os caps. 262 e 278 se resolve: o 262 é uma cena de **venda ao balcão**, o 278 é a tabela de **preço de mercado** | §19.1, num callout |
+| **Custo de vida por rank**: rank 3 calcula que 420.000 pedras "não durariam um ano" (cap. 278); ranks 4 e 5 em silêncio | ✅ confirmado. O valor do rank 1 (~1.500/ano) **não** é literal: é aritmética sobre as ~5 pedras/dia do cap. 64, e entrou marcado `(ded.)` | §19.3 |
+| **Nascente portátil: 50 pedras por dia** (cap. 273) e **negócio de vila que se paga em 2–3 anos** (cap. 112) | ✅ confirmado | §19.3 |
+| **Desconto de um terço por ficha de autoridade** (cap. 272) | ❌ **não incluído** | ver abaixo |
+
+**Por que a ficha de autoridade entrou sem o desconto de um terço.** Busquei o texto por
+"one-third", "discount", "cheaper" e "reduce the price" no bloco dos caps. 259–280 e não
+encontrei nenhuma passagem associando a ficha a uma redução percentual de preço. O que a
+obra documenta sobre a ficha é outra coisa, e mais forte: ela **destrava acesso** (há Gu,
+imóveis e anéis inteiros da cidade que "não são mais problema de pedras primordiais" e
+exigem ficha de nível suficiente, cap. 261) e **isenta pedágio** (uma ficha específica
+dispensa três pessoas das taxas de entrada, cap. 293). Registrei essas duas funções e
+deixei o desconto de fora. Se ele existir num capítulo que não localizei, é fácil
+acrescentar depois — mas, pela regra do projeto, não gravo número que não vi.
+
+**Efeito colateral: a escada de preços de Gu da §19.1 foi refeita inteira.** Eu a tinha
+montado por agregação de casos avulsos (250 / milhares / 100.000 / 250.000). O cap. 278
+publica a escada completa num parágrafo só — **500 / 500–1.000 / 1.000–10.000 /
+10.000–100.000 / 100.000–1.000.000, e rank 6 nunca vendido** — e é ela que passou a valer,
+com os casos avulsos rebaixados a pontos de calibragem. O mesmo parágrafo deu de brinde a
+escada dos Gu de relíquia (2.000 / 8.000 / 50.000 / ~300.000), que não estava em lugar
+nenhum do vault.
+
 ### Seções novas
 
 | # | Seção | O que traz |
@@ -211,6 +245,8 @@ avisos obsoletos foram substituídos por um registro de resolução.
 | 17 | **Longevidade** | ~100 anos para humano e para Mestre Gu de qualquer rank (subir de rank **não** estende vida); ~1.000 para homens-de-pedra; milhares para alguns rank 7/8; 25.000 / 19.000 / ~7.000 / ~3.000 para os Veneráveis; 100.000+ por hibernação selada; os cinco graus documentados de lifespan Gu (15/100/300/500/1.000 anos); e a tabela de **atalhos pagos em anos de vida** |
 | 18 | **Demografia** | bilhões de habitantes por região, várias centenas de rank 4, menos de 50 rank 5 (cap. 538), cinco rank 8 "à vista" numa região (cap. 736); e o registro de que a base da pirâmide a obra não dá |
 | 19 | **Preços de referência** | escada de preço de Gu por rank (250 → 100.000 → 250.000 pedras), custo de manutenção, e rendimento de uma nascente espiritual (≥100 milhões de pedras em 50–60 anos) |
+| 19.4 | **Pedágios urbanos por anel** | a escada 1 / 10 / 100 / 200 / 600 pedras, mais o degrau em que o dinheiro deixa de funcionar e só a ficha de autoridade abre a porta; e os aluguéis do anel caro |
+| 19.5 | **A escada de lucro por honestidade** | 7–8× honesto (declarado como o teto do mundo), 10+× ilegal, dezenas de vezes na fraude, ilimitado e sem capital no assalto |
 | 20 | **Capacidade da abertura** | **3 a 5 Gu** para um Mestre Gu comum (cap. 137), 7 como caso explicitamente excepcional; nenhuma escala por rank na obra; abertura mortal não comporta um segundo Gu Imortal (cap. 969); e a distinção entre o limite **físico** da abertura e o limite **financeiro** da alimentação (cap. 222) |
 
 ### Divergências encontradas em notas de outras pastas (NÃO corrigidas por mim)
@@ -231,8 +267,14 @@ corrigir:
 | `01 - Cultivo/03 - Aptidão.md` | 28, 58-60, nota 191 | argumenta que 20–39% é o D e que "20-30%" caracteriza o D típico | a decisão (20–39%) fica mantida no vault, mas a nota afirma que a faixa é canônica; precisa marcar a metade superior como convenção do projeto, como a tabela soberana agora faz |
 | `05 - Sociedade/04 - Tipos de Gente e Filosofias de Vida.md` | 187, 196, 759 | D = 20–39% sem ressalva | idem |
 
+| `04 - Mundo/06 - Escala, Distâncias e Viagem.md` | 458 | "Pedágio de cidade-clã \| 10 pedras por pessoa" | são cinco degraus, de 1 a 600 pedras conforme o anel — ver §19.4 das Tabelas |
+
 **Não é divergência, é lacuna:** a pasta `08 - Eventos e Cenarios/` estava vazia no
-momento desta auditoria.
+momento desta auditoria (outros agentes escreviam em paralelo; pode ter mudado desde então).
+
+**Conferido e sem divergência:** `06 - Economia e Vida/13 - Preços, Renda e Custo de Vida.md`
+e `06 - Economia e Vida/02 - Pedras Primordiais.md` já trazem o spread de 250/500 e a escada
+de pedágio corretos — batem com a tabela soberana.
 
 ---
 
@@ -341,6 +383,9 @@ ausente. São lacunas do texto, não da pesquisa.
 - **Os limiares percentuais de ruptura acima do 55%.** A obra enuncia **um só** limiar, o
   do rank 1 → 2. Os 65/75/85 da seção 2 continuam marcados como invenção, e há um
   contraexemplo de ruptura 2 → 3 com 38%.
+- **O desconto percentual da ficha de autoridade de clã.** Ela destrava acesso e isenta
+  pedágio; nenhuma passagem localizada a associa a um abatimento de preço.
+- **O custo de vida de um Mestre Gu de rank 4 e de rank 5.** Os ranks 1 e 3 têm âncora.
 - **O custo de refino em porcentagem de essência acima do rank 1**, e o **tempo de refino
   por rank**. A obra cronometra um único refino em detalhe (rank 1, meia hora para 1/12 do
   trabalho) e nunca fecha a escala.

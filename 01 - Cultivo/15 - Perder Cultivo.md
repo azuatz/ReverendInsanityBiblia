@@ -87,7 +87,7 @@ Nem toda perda é acidente. A obra registra três usos deliberados, e todos são
 - **Rachar a própria abertura como investimento.** Rachaduras estruturais são um defeito — mas tornam mais fácil estilhaçar a abertura na hora da [[11 - Ascensão Imortal|ascensão]]. Há registro de terceiros deixando essas rachaduras de propósito num candidato. No fim da carreira mortal, a abertura deixa de ser um cofre a preservar e vira um obstáculo a demolir.
 - **Reverter-se a mortal.** Um imortal com duas aberturas pode selar a imortal e voltar temporariamente ao estado mortal, para entrar em lugares que caçam aberturas imortais ou que um poder grande demais destruiria só por chegar perto. Ser fraco é, ocasionalmente, uma habilidade — ver [[11 - Ascensão Imortal|Ascensão Imortal]].
 
-E existe a forma involuntária mais estranha de todas: **a abertura morta**. Um cultivador que se torna morto-vivo mantém o rank que tinha, mas a abertura para de produzir energia sozinha — ele passa a depender inteiramente de pedras, deixa de enfrentar provações e, por isso, **deixa de ganhar [[12 - Dao Marks|dao marks]]**. O cultivo dele congela no patamar em que morreu. Em compensação, uma abertura morta aguenta pressões internas que estourariam uma viva. Ver [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
+E existe a forma involuntária mais estranha de todas: **a abertura morta**. Um cultivador que se torna morto-vivo mantém o rank que tinha, mas a abertura para de produzir energia sozinha — ele passa a depender inteiramente de pedras, deixa de enfrentar provações e, por isso, **deixa de ganhar [[12 - Dao Marks|dao marks]]**. O cultivo dele congela no patamar em que morreu. Em compensação, uma abertura morta aguenta pressões internas que estourariam uma viva. Ver [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]].
 
 > [!example] Caso mecânico
 > Um cultivador de rank 4 que perdeu o cultivo por ferimentos entrou em reclusão prolongada em vez de continuar operando enfraquecido. Meses depois reapareceu emitindo de novo a aura de rank 4 pico, e os subordinados reconheceram a recuperação **pela aura, antes de qualquer anúncio** — porque a aura não se falsifica sem Gu próprio para isso. Duas regras do sistema aparecem juntas aí: a recuperação exige tempo parado, e o resultado é público no instante em que a pessoa reaparece.
@@ -105,5 +105,6 @@ E há a assimetria que define o tom do cenário: **subir exige talento; cair nã
 - [[03 - Aptidão|Aptidão]] — o teto que também pode cair.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — a escada vista na direção contrária.
 - [[09 - Longevidade|Longevidade]] — o relógio que produz o declínio por velhice.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — a abertura morta e o cultivo congelado.
+- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o cultivo em corpos que não são humanos.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a abertura morta e o cultivo congelado, em detalhe.
 - [[11 - Ascensão Imortal|Ascensão Imortal]] — a única destruição de abertura que é vitória.

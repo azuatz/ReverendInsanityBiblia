@@ -17,7 +17,7 @@ coincidência que faz de toda crise econômica uma crise de poder e vice-versa.
 
 ## Resumo
 
-A moeda universal do mundo mortal é a **pedra primordial** (*primordiall stone*), uma pedra do
+A moeda universal do mundo mortal é a **pedra primordial** (*primeval stone*), uma pedra do
 tamanho de um ovo de pato que serve para duas coisas ao mesmo tempo: pagar contas e
 alimentar o próprio cultivo. Um Mestre Gu que gasta suas pedras numa hospedaria está
 gastando o mesmo recurso com que ficaria mais forte. Esse duplo papel ancora todo o

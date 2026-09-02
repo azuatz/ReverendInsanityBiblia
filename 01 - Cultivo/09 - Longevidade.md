@@ -69,7 +69,7 @@ Todos "contra a natureza", todos cobrando em outra moeda:
 
 | Método | O que dá | O preço |
 |---|---|---|
-| **Zumbificação** | existência indefinida, sem conceito de tempo de vida | corpo morto-vivo com fraquezas fixas; a abertura "morre" e o cultivo estagna; sem provações, e portanto sem dao marks |
+| **Zumbificação** | existência indefinida, sem conceito de tempo de vida | corpo morto-vivo com fraquezas fixas; a abertura "morre" e o cultivo estagna; sem provações, e portanto sem dao marks. A rota inteira está em [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] |
 | **Animação suspensa** em caixão selado | adia a morte enquanto restar um fio de vida | não cura nada; o portador emerge exatamente no estado em que entrou |
 | **Corpo de criança permanente** | acumula força vital e a libera devagar; um usuário chegou a mais de 180 anos | aparência e corpo de criança para sempre |
 | **Possessão** de um corpo novo | escapa à morte trocando de corpo | criticado no próprio mundo como "mera luta na porta da morte"; a alma fica impura, com lapsos de memória |
@@ -173,3 +173,4 @@ Mas atenção ao que o texto **não** diz: ele nunca declara a vida eterna impos
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — a escada de poder, que corre em paralelo e não se cruza com esta.
 - [[15 - Perder Cultivo|Perder Cultivo]] — o declínio por velhice medido em ranks e estágios.
 - [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o que a abertura morta do morto-vivo faz com o cultivo.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a rota alternativa mais praticada quando os anos acabam.

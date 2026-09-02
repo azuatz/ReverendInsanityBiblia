@@ -1449,3 +1449,388 @@ negócio, enquanto o membro de super força pode se dar ao luxo de lutar por hon
 *[O outro lado da moeda: o preço da proteção institucional é a liberdade. A escolha
 correto/demoníaco/solitário é, mecanicamente, uma **troca entre segurança e autonomia**.]*
 
+---
+
+## Bloco 10 — A tipologia de gente do mundo
+
+*Bloco de evidência **média**. A obra classifica as pessoas o tempo todo, mas quase
+sempre em passagens descritivas dispersas, não em declarações tipológicas fechadas.
+Aviso onde falta.*
+
+### Os eixos de classificação que os personagens realmente usam
+
+**Eixo 1 — mortal × Gu Master.** O corte social mais forte do mundo.
+**Eixo 2 — grau de aptidão (C / B / A / dez físicos extremos).** O corte biológico.
+**Eixo 3 — clã ou seita × cultivador solitário.** O corte de filiação (ver Bloco 9).
+**Eixo 4 — rank.** O corte de poder puro.
+
+### O mortal comum sem abertura — destino típico
+
+> "Mortals had cheap lives, their status were extremely low, and **their survival was as difficult as walking on steel wire. Inside the caravan, the Gu Masters could easily beat them to death and take their lives like cutting grass. Anyway, mortals like them could be replenished easily in the hamlets along the way.**"
+> — cap. 235
+
+> "Mortals were cheap as grass, even if one or two were killed, so what?"
+> — cap. 234
+
+> "among Chen Gu Master's family servants, manpower was starting to feel lacking, after all mortals had cheap lives, **they were just a type of expendable resources that can talk and move**."
+> — cap. 234
+
+> "**If mortals died, they can just be replenished through snatching, in a Gu Master's eye, mortals were just numbers.** As long as the Gu masters were intact, and the elders were intact, the tribe's structure would still be around."
+> — cap. 456
+
+> "These mortals have cheap lives, so be it if they die. **But they can be sacrifices for us, and this is their honor.**"
+> — cap. 120
+
+> "In this dire situation, even the mortals had been mobilized. **Using each and every single human life to be turned as a meat wall, obstructing the wolf tide for the time being**, this gave the Gu Masters some time to recuperate and regroup."
+> — cap. 164
+
+> "Mortals were unable to train their eyelids to become steel-like. **This was the limits of the mortal martial arts.**"
+> — cap. 34
+
+> "Pork in this world was not cheap, and **mortals could only afford to slaughter one during the New Year celebration**."
+> — cap. 64
+
+*[Mas — contraponto obrigatório:]*
+
+> "**Without mortals, how could there be any future new Gu Masters in any tribes? Mortals were the cornerstone of all tribes.**"
+> — cap. 451
+
+> "In this world where Gu Masters ruled above all, the strength of a mortal is nothing spectacular. **Being able to become the most important person in this small circle, he had some wits after all.**"
+> — cap. 234
+
+> "**Although servants were servants**, the one tasked to take care of Ma tribe's young tribe leader was definitely a crucial person that was closely related to the tribe in many ways. Having such a role, **if the low rank Gu Masters want to find out information about the higher-ups, they would need to go through the servant leader.**"
+> — cap. 522
+
+*[Gancho de design: o mortal bem posicionado tem **poder de informação**, que é real
+neste mundo. Personagem mortal jogável é viável.]*
+
+**⚠️ E o status do mortal muda por região:**
+
+> "**In southern border, mortals had to kneel down when they met Gu Masters. But in northern plains, the male warriors only kneeled to heaven, their ancestors, and family elders. Normally, they did not kneel even to the tribe leader or tribe elders.**"
+> — cap. 439
+
+> "In northern plains, mortals lived in tents. The tents were scattered at the outer ring of the camp, while the inner area was the residential area for Gu Masters."
+> — cap. 439
+
+### O escravo
+
+> "Northern plains tribes would go on war campaigns all year round. **Some defeated Gu Masters would become slaves. Slaves had very low status and when necessary, they would be treated as cannon fodder and abandoned.**"
+> — cap. 437
+
+> "These slaves wore barely any clothing, they were skinny and pale. In the northern plains, these slaves had very lowly status, and lived a pitiful life."
+> — cap. 439
+
+> "Large numbers of mortal slaves or even Gu Master slaves were being mercilessly utilized."
+> — cap. 495
+
+> "No matter which region it was, **variant human slaves were sold in the market**."
+> — cap. 866
+
+> "**Hairy man slaves were most expensive among slaves, they were even more expensive than human Gu Masters!**"
+> — cap. 816
+
+*[Existe um mercado de escravos com tabela de preços, e uma raça variante vale mais que
+um humano cultivador porque refina Gu melhor. Detalhe econômico, não moral.]*
+
+E no topo da escala, a escravidão como pena judicial:
+
+> "some other demonic path or lone immortals had less severe crimes, **they were taken away by the ten great ancient sects and turned into slave Gu Immortals**."
+> — cap. 1218
+
+### O de baixa aptidão — o tipo com a melhor voz na obra
+
+*A obra dá ao ressentimento do talento baixo o discurso mais longo e mais amargo que
+tem sobre destino pessoal (First gen Gu Yue, cap. 195):*
+
+> "Junior brother, you never thought there would be a day like this, right?! **We were both orphans raised by the master. But since young, master always pampered you more. Why? Isn't it because your aptitude is A grade and mine is only C grade?**"
+> — cap. 195
+
+> "**Naturally, with your A grade aptitude, your cultivation progressed much faster. Did you know, with my C grade aptitude, how much sweat and effort I had to put in compared to you, just barely be able to match with your pace?** Although we were called the Twin Cranes of Righteous Paths — you were always the main and I the second. **You were like the brightest star, just because you were an A grade genius!**"
+> — cap. 195
+
+> "**The heavens favored you, gave you A grade aptitude and the true blood sea inheritance. But what could I do about it? I was only an insignificant C grade talent, so how could I succeed just by relying on myself? I could only seize, rob! Change what wasn't mine to become mine! The fate that heaven had planned for me was to let me bow under someone, making me a shadow behind others! But I am indignant, for on what basis did he put me below and you above?**"
+> — cap. 195
+
+*[Esta é a **origem canônica do caminho demoníaco como fenômeno social**: aptidão baixa +
+ambição alta = roubo. Ligar diretamente ao Bloco 9.]*
+
+O destino mecânico de quem tem aptidão baixa:
+
+> "**With his 44% C grade aptitude, advancing to Rank three was almost impossible.** In his previous life, Fang Yuan had stalled at Rank two for over a hundred years before finally and coincidentally obtaining a talent-raising Gu worm and becoming a Rank three Gu Master."
+> — cap. 105
+
+> "However, advancing to Rank three was not an easy thing. Especially considering Fang Yuan's C grade aptitude, **it was almost an impossible barrier**."
+> — cap. 148
+
+*[Resposta direta a "o velho que ficou preso num rank a vida inteira": sim, a obra
+descreve isso — **cem anos parado no rank 2** é o destino normal de um C grade.]*
+
+### O de alta aptidão
+
+> "After he was tested to have B grade aptitude, he received Gu Yue Bo's personal guidance. His aptitude was outstanding [...] **Gu Yue Bo had been raising him as a clan leader candidate.**"
+> — cap. 105
+
+> "**An A grade aptitude, his life would no longer be the same from that moment!**"
+> — cap. 180
+
+> "The fourth generation clan leader possessed an A grade aptitude and cultivated to Rank five, **creating another golden age for the clan**."
+> — cap. 163
+
+> "**Any one of the ten extreme physiques is superior to A grade aptitude.** The most excellent A grade aptitude can only store ninety nine percent primeval essence in their aperture. But any one of the ten extreme physiques holds full hundred percent primeval essence in their aperture!"
+> — cap. 135
+
+*[Mas a obra desmonta o determinismo do talento:]*
+
+> "A grade aptitude, but nothing more than a pawn... truly insignificant."
+> — cap. 103
+
+> "**Second, higher realm did not represent everything. To survive in this cruel world, one still needed planning, wisdom, opportunity, experience and training.** A sudden increase in strength without the knowledge to control it was like an infant brandishing a broadsword."
+> — cap. 475
+
+> "**Every single Gu Master who cultivated to rank five needed to go through the survival of the fittest and many competitions before they were able to distinguish themselves; none of them were a simple character.**"
+> — cap. 385
+
+> "Heaven and earth were impartial, treating all beings as pawns. **No matter how talented one was, or how extraordinary the Gu Immortal was, in this world, they were just a life form**, ordinary and simple, they were all treated equally."
+> — cap. 1362
+
+### O sistema de acesso: talento não basta, é preciso nascer dentro
+
+> "**It was not that mortals had no cultivating talent, but that the clan restricted the cultivation methods from leaking out, and controlled it tightly in their hands.**"
+> — cap. 74
+
+> "**Nurturing a Gu Master, they would only choose a clansman. Even if they knew that among these mortals were people with talent, although rare, they would still not use them.**"
+> — cap. 65
+
+*[Achado importante: a barreira mortal/Gu Master **não é biológica, é política**. Existe
+talento entre os mortais e ele é deliberadamente desperdiçado. Isso é combustível de
+campanha puro.]*
+
+### A escala de poder, por rank
+
+> "Rank three cultivation in this cruel world of nature, **was the bottom of the hierarchy**."
+> — cap. 208
+
+> "The difference between immortal and mortal is as far apart as clouds and mud. **Those rank four and five experts are just pawns of the immortals.**"
+> — cap. 1035
+
+> "In the world of Gu Immortals, **rank six Gu Immortals were at the bottom, rank seven Gu Immortals were in the middle, while rank eights were the top brass**."
+> — cap. 1101
+
+> "Rank six and seven Gu Immortals are not even qualified to join. **As for rank eight Gu Immortals, we are merely pawns.**"
+> — cap. 1713
+
+> "Since Immemorial Era to Remote Antiquity Era, Olden Antiquity Era, Medieval Antiquity Era, Early Antiquity Era to present age, **only around ten venerable level Gu Immortals had appeared in human history.**"
+> — cap. 464
+
+> "Immortal Gu were extremely rare, **many Gu Immortals live their entire life without having a single one**."
+> — cap. 446
+
+*[Cada degrau redefine quem é "peão". Ninguém é jogador para sempre — nem um rank oito.]*
+
+### O lamento do mortal que quer subir
+
+> "**How can there be any existence in this world that is indestructible? The cycle of heavenly fate, the competition of all living beings, in this wide universe, we mortals are like a single speck of sand at the bottom of an entire sea, small and insignificant. Only by advancing to a Gu Immortal, can we surpass mortality, and have our own foundation, turning from sand into an island, having the ability to resist the sea waves.**"
+> — cap. 375 *(Tie Mu Bai, ex-líder de clã do caminho correto)*
+
+### ❌ Lacunas honestas deste bloco
+
+- **"O que abandonou o cultivo"**: não localizei uma passagem que descreva esse tipo como
+  categoria social nem seu destino típico. A obra é escassa aqui.
+- **"O herdeiro"**: aparece só como situação narrativa (candidato a líder de clã), não
+  como tipo com destino enunciado.
+- **Uma declaração tipológica única e fechada** ("existem N tipos de pessoa neste mundo")
+  **não existe** no texto. A tipologia acima é montagem minha a partir de passagens
+  dispersas — cada citação é canônica, o arranjo é meu.
+
+---
+
+## Bloco 11 — As filosofias em disputa
+
+> **Resposta direta e mais importante deste dossiê: o mundo NÃO tem uma filosofia só.**
+> Há pelo menos onze posições de vida articuladas por personagens distintos, várias
+> delas testadas em cena, e a obra concede a mais de uma delas a vitória retórica.
+> O que **é** monolítico é o *diagnóstico* do mundo (a lei da selva do Bloco 1 é aceita
+> por praticamente todos, inclusive pelo Heavenly Court). O que está em disputa é
+> **o que fazer com esse diagnóstico**. Essa é a distinção decisiva para a nota final.
+
+### O eixo real da disputa
+
+Todos concordam que o mundo é predatório e que não há justiça cósmica (Blocos 1 e 2). A
+briga é sobre a **resposta correta a esse fato**:
+
+| Posição | Resposta ao mundo cruel | Quem defende |
+|---|---|---|
+| Vida eterna acima de tudo | escapar da condição mortal | Fang Yuan |
+| Valor acima de duração | viver intensamente e morrer | Wu Ji |
+| Aceitação serena da morte | não é problema a resolver | Gu Yue Qing Shu, Chou Jiu |
+| Sacrifício pela humanidade | organizar a espécie contra o mundo | Duke Long, Heavenly Court |
+| Liberdade | o mal do mundo é a coerção, não a morte | Wei Yu Shu, Ren Zu |
+| Bondade prática | derrotar o mal sem virar o mal | Shang Xin Ci, o ancião do cap. 2124 |
+| Estabilidade e paciência | não ser extremo, durar | o land spirit (cap. 383) |
+| Extremidade e risco | sem apoio, o risco é o único capital | Fang Yuan, caminho demoníaco |
+| Sobrevivencialismo puro | abandonar toda pauta moral | Wu Yong (cap. 2223) |
+| Ressentimento e tomada | o céu foi injusto, então eu roubo | First gen Gu Yue (cap. 195) |
+| Reforma institucional | mudar a estrutura social, não as pessoas | Primordial Origin (cap. 1738) |
+
+### 1. Vida eterna acima de tudo — Fang Yuan
+
+*(Bloco 5 inteiro. Citação-síntese:)*
+
+> "**There is only immortality, only eternal life should be the goal one should pursue! If one cannot live forever, is there any difference between a rank nine Gu Immortal and a pile of shit in the gutter?!**"
+> — cap. 464
+
+**Testada?** Sim, no cap. 567: ele admite que pode não existir e mantém a escolha
+("But even if it did not exist, so what?"). E no cap. 1011: "I pursue eternal life...
+does it truly exist?"
+
+### 2. O valor da vida acima da duração — Wu Ji
+
+> "**This is my answer, the duration of life does not matter as much as the value of the life that is being lived.**"
+> — cap. 2096
+
+**Testada?** Sim, e ela **vence**: a mais velha que veio convencê-la sai convencida
+(cap. 2096, ver Bloco 8).
+
+### 3. A aceitação da morte — Gu Yue Qing Shu, Chou Jiu, Bai clan leader
+
+> "Towards death, I feel fear as well. But I understand deeply, eventually, one day I Gu Yue Qing Shu will die too. [...] **But at that moment, I can leave peacefully with no regrets.**"
+> — cap. 144
+
+> "**It is no matter if I die now, after all in this world, who can live forever? One can gain a long life but immortality is a hopeless prospect. Even those Immortal Venerable and Demon Venerable will only turn into ashes in the end.**"
+> — cap. 385
+
+> "**Who doesn't die? True immortality doesn't exist! As long as we live our life interestingly, it is enough.**"
+> — cap. 173
+
+**Testada?** A obra dá razão factual a eles — nenhum Venerável alcançou a vida eterna
+(cap. 1817). Não são refutados; são a posição empiricamente melhor sustentada.
+
+### 4. O sacrifício pela humanidade — Duke Long e o Heavenly Court
+
+> "**Maintaining Heavenly Court's righteous path requires you to pay a price, it requires sacrifices. If you don't even have this sacrificial mentality, then I will tell you, you don't have the qualifications to enter Heavenly Court!**"
+> — cap. 1960
+
+> "**No matter how times change, fate Gu will always be the protector of humanity. You are disregarding the big picture of humanity for your personal selfish goals, I failed in my teachings!**"
+> — cap. 1698 *(Duke Long a seu discípulo)*
+
+> "Yes, I will persevere till I die. I will contribute every bit of my strength and every drop of my blood and sweat for Heavenly Court, for humanity, and for the future!"
+> — cap. 1949
+
+**Testada?** Duramente. O discípulo dele (Hong Ting / Red Lotus) rejeita a posição e
+argumenta de volta — ver item 5. E o cap. 2183 mostra o custo pessoal como tragédia.
+
+### 5. A rebelião contra o destino, por amor — Hong Ting / Red Lotus e Feng Jin Huang
+
+> "'Who do you want to revive?' — '**Every person who sacrificed themselves for me. My parents, Liu Shu Xian, and many others.**'"
+> — cap. 1960
+
+> "**Even if there are crueler tragedies, I will accept them! Master, disciple always had a question. Why? Why must we accept fate's arrangements? If there was no fate, would the world truly fall into chaos? Is it not possible that the world will become a better place?**"
+> — cap. 1960
+
+> "**Your love towards me is just a small love. Greater love is for humanity, for the myriad living beings in this world!**"
+> — cap. 1964 *(a réplica que lhe é dada)*
+
+> "**If all this is predestined by fate, then... I do not believe in fate!**"
+> — cap. 1960 *(Feng Jin Huang)*
+
+**Testada?** É o conflito central de um arco inteiro, com mestre e discípulo em lados
+opostos e ambos tratados com seriedade.
+
+### 6. A liberdade como bem supremo — Wei Yu Shu e as Lendas de Ren Zu
+
+> "**At least, they know they lost their freedom and are staking their lives to chase after freedom. But what about me? I did not even know I lost my freedom!**"
+> — cap. 1960
+
+> "**Heavenly Court was never the important point! Without Heavenly Court, there can be Earthly Court, or even Human Court! There will always be a place where a group of humans gather and pursue freedom!!**"
+> — cap. 1960
+
+**Testada?** É apresentada como a corrente histórica de fundo da humanidade inteira, em
+tom épico. É a posição que a obra trata com mais reverência formal.
+
+### 7. A bondade prática — Shang Xin Ci
+
+> "**In this world, being a bad person is not easy, but being a good person is even tougher. Because a good person has to defeat the bad person while defending their own morals and beliefs.**"
+> — cap. 2124
+
+> "**You have benevolence but you are not blinded by it** [...] **you are a truly practical good person.**"
+> — cap. 2124
+
+**Testada?** Sim, e do jeito mais duro possível: ela é sistematicamente enganada por ser
+boa (cap. 236) — e ainda assim recebe, muito depois, uma herança de Gu Immortal
+justamente por essa qualidade (cap. 2124). A obra cobra o preço **e** paga o valor.
+
+### 8. Estabilidade contra extremidade — o land spirit contra Fang Yuan
+
+*O debate mais limpo da obra, com as duas posições enunciadas seguidas, no mesmo
+capítulo:*
+
+> [Land spirit] "**In this world, why do you think the righteous path is blooming and suppressing the demonic path? It is because demonic path is too extreme, too greedy, and likes to place themselves in danger. The righteous path pursues stability, slow and steady, unmovable like the mountain.**"
+> — cap. 383
+
+> [Fang Yuan] "**Greed, selfishness, extremity, and risk-taking; these are all laws of survival of the demonic path.** As long as the benefits are enough, so what if we have to walk on a tightrope? [...] **The life of a demonic path member is like wine, intense and alluring.**"
+> — cap. 383
+
+**Testada?** O land spirit tem os fatos do lado dele — o caminho correto de fato domina
+todas as cinco regiões (caps. 383, 959, 1052). A posição "extrema" é a minoritária e a
+obra sabe disso.
+
+### 9. Sobrevivencialismo puro — Wu Yong
+
+> "**Give up the so-called pride of the righteous path, break free from the restraints of cheap morals and virtues, abandon your superiority complex as a Gu Immortal, these are all superficial and worthless things.**"
+> — cap. 2223
+
+> "**Us pitiful worms need to survive between the cracks of the venerables.** We need to work hard and absorb more nutrients to strengthen ourselves, if we can gain the pity of destiny, we might have a chance of survival."
+> — cap. 2223
+
+> "**Work your very best, spend every minute and second of your life to fight for survival in this terrifying great era!**"
+> — cap. 2223
+
+**Testada?** Ele é o primeiro supremo ancião de uma super força do caminho correto e é
+obedecido na hora. É a posição institucional vencedora no fim da obra.
+
+### 10. Ressentimento e tomada — First gen Gu Yue
+
+> "**The fate that heaven had planned for me was to let me bow under someone, making me a shadow behind others! But I am indignant, for on what basis did he put me below and you above?**"
+> — cap. 195
+
+**Testada?** Ele fracassa e é destruído. Mas note que a **pergunta** dele ("on what
+basis?") é literalmente a mesma que o clímax da obra celebra no cap. 1960 ("On what
+damned basis?"). A obra distingue a pergunta (legítima) da resposta dele (mesquinha).
+
+### 11. Reforma institucional — Primordial Origin Immortal Venerable
+
+> "**If we truly want humanity to rise, we must rely on ourselves. We must expand our population and also nurture as many Gu Immortals as we can.**"
+> — cap. 1738
+
+> "**If we use the clan system, what difference is there from the variant humans? We are already extremely behind, if we keep on using this clan system, we will never be able to surpass them.**"
+> — cap. 1738
+
+> "**An organization run by people will definitely have selfishness and conflict over personal gains. A clan bases its foundation on blood or marriage relations, while a sect decides based on abilities and talent, the latter is naturally more open and transparent, the limited cultivation resources will go to the more suitable people, which is more beneficial to the overall situation!**"
+> — cap. 1738
+
+**Testada?** É apresentada como a decisão histórica que fez o Central Continent ser
+dominado por seitas em vez de clãs. Uma filosofia que **mudou a geografia social do
+mundo** — o melhor exemplo de que ideias têm consequências mecânicas aqui.
+
+### 12. A posição metafísica de fundo — Spectral Soul
+
+*Não é uma ética, é o diagnóstico cosmológico que todas as éticas acima estão tentando
+responder:*
+
+> "**The way of heaven is to be impartial, it is to take away surpluses while replenishing deficits.** [...] **And the way of humans is exactly the opposite of the way of heaven** [...] **Human avarice knows no bound, it will never be satisfied and is opposed to heaven's will.**"
+> — cap. 1022
+
+*[Se a nota final quiser um esquema único: **o desejo humano é uma força em oposição
+estrutural ao equilíbrio do universo**, e as onze filosofias acima são onze maneiras de
+lidar com esse fato. Isso amarra os onze blocos deste dossiê num sistema só.]*
+
+### ❌ Lacuna honesta deste bloco
+
+Procurei especificamente por uma posição de **conformismo satisfeito** — alguém que
+reconheça o próprio limite e viva bem assim, defendendo isso como filosofia. **Não
+encontrei uma formulação articulada disso na obra.** Há personagens satisfeitos com o
+próprio progresso pontual (cap. 71) e personagens que aceitam a morte com serenidade
+(item 3), mas ninguém que enuncie "parar de subir é o certo" como posição de vida. Este
+é um vazio real do texto, não uma falha de busca — e é significativo: **num mundo onde
+todos concordam que os fracos são presa, a resignação não tem defensor.**
+

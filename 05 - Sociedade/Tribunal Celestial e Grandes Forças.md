@@ -93,7 +93,7 @@ As consequências práticas são três, e todas são utilizáveis numa mesa:
    > Para dimensionar o outro lado da conta: uma **super força** típica é uma potência
    > regional cujo núcleo imortal é majoritariamente de **rank 6**, com um ou poucos rank 7
    > no topo — praticamente nunca um rank 8 próprio. Daí a assimetria: três rank 8 contra
-   > uma organização inteira sem nenhum não é uma batalha, é uma demolição. `inferido` — a
+   > uma organização inteira sem nenhum não é uma batalha, é uma demolição. `inferido · conferido pelo autor` — a
    > obra descreve a composição das super forças caso a caso e nunca publica um censo; o
    > perfil acima é a média do que ela mostra, não um número enunciado.
 3. **A política do dia a dia é feita por ranks 6 e 7.** Os rank 8 estão em reclusão ou

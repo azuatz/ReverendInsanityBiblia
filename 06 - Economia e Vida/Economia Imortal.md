@@ -309,15 +309,15 @@ importa — **de que rank é o material que sai dali**:
 
 | Porte do ponto de recurso | Rank do material que produz | O que isso significa na prática |
 |---|---|---|
-| Minúsculo | rank 1 a 2 `inferido` | sustenta alguns Mestres Gu mortais; irrelevante para um imortal |
-| Pequeno | rank 2 a 3 `inferido` | base de um clã mortal pequeno |
-| Médio | rank 3 a 5 `inferido` | base de um clã mortal próspero; é a faixa em que uma campanha mortal acontece |
+| Minúsculo | rank 1 a 2 `inferido · conferido pelo autor` | sustenta alguns Mestres Gu mortais; irrelevante para um imortal |
+| Pequeno | rank 2 a 3 `inferido · conferido pelo autor` | base de um clã mortal pequeno |
+| Médio | rank 3 a 5 `inferido · conferido pelo autor` | base de um clã mortal próspero; é a faixa em que uma campanha mortal acontece |
 | Grande | rank 6 estável, rank 7 ocasional | o primeiro porte que interessa a um imortal |
 | Gigante | rank 7 estável | ativo de super força |
 | Super | rank 8 | ativo estratégico; poucos existem |
 | **Pináculo** | **acima da escala — não precificável** | não produz "material de rank tal": o próprio território **é** um domínio recluso de céu e terra, uma realidade autocontida. Ver [[Blessed Lands e Grotto-Heavens]] |
 
-Os três portes de baixo estão marcados `inferido` porque a obra os trata como um bloco
+Os três portes de baixo estão marcados `inferido · conferido pelo autor` porque a obra os trata como um bloco
 único ("nível rank 1 a 5") e nunca diz onde um termina e o outro começa. A repartição acima
 é deste vault, feita para dar utilidade à faixa mortal; use-a à vontade, sabendo que não é
 cânone. Os portes de Grande para cima são do texto.

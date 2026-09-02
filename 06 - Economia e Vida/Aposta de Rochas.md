@@ -109,20 +109,23 @@ que o grau da pedra mede quantos sinais ela exibe, que mais sinais significam ma
 **e maior rank potencial** do conteúdo, e que os preços de Gu por rank são os de
 [[Pedras Primordiais]].
 
-> [!warning] Tabela reconstruída
-> `inferido` — os números das duas colunas do meio **não estão na obra**. São a
-> interpolação mais simples entre os fatos acima, calibrada para reproduzir o veredito que
-> o texto dá em palavras: que a atividade é matematicamente perdedora. Use-a como ponto de
-> partida e ajuste sem culpa; você não está contradizendo cânone nenhum, porque não há
-> cânone aqui.
-
-| Grau | Custo | Chance de Gu **vivo**, em pedra já selecionada por olho treinado | Rank típico do achado | Valor de mercado do prêmio | Retorno esperado |
-|---|---|---|---|---|---|
-| Sucata | ~10 | ~2% | 1 | ~500 | ≈ empata |
-| Baixo | ~100 | ~5% | 1–2 | 500 – 1.000 | perde ~60% |
-| Médio | ~1.000 | ~10% | 2–3 | 1.000 – 10.000 | perde ~50% |
-| Alto | ~10.000 | ~20% | 3–4 | 10.000 – 100.000 | ≈ empata |
-| Super | ~300.000 | ~40% | 4–5 | 100.000 – 1.000.000 | perde ~33% |
+> [!warning] Aqui o vault deliberadamente não dá números
+> Uma versão anterior desta nota trazia uma tabela com chance de acerto, rank típico do
+> achado e retorno esperado por grau de pedra. **Ela foi removida a pedido do autor**: os
+> valores intermediários eram invenção nossa no meio de uma tabela cujas pontas são
+> canônicas, e esse é o arranjo que, com o tempo, passa a ser lido como se fosse da obra.
+>
+> O que a obra **de fato** estabelece, e que basta para desenhar a atividade:
+>
+> - o **grau da pedra mede quantos sinais** ela exibe;
+> - **mais sinais significam maior chance de haver um Gu vivo dentro, e maior rank
+>   potencial** do conteúdo;
+> - os **preços de Gu por rank** são os de [[Pedras Primordiais]];
+> - e o veredito que o texto dá em palavras: a atividade é **matematicamente perdedora**,
+>   porque a esmagadora maioria das pedras não entrega nada.
+>
+> Com esses quatro fatos você monta a sua própria tabela, calibrada para a sua mesa, sem
+> risco de contradizer o cânone — porque não há cânone numérico aqui.
 
 Três leituras que a tabela sozinha não dá:
 

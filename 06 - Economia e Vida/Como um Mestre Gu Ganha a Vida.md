@@ -284,7 +284,7 @@ rank 3 e suicídio para um rank 1.
 | Carreira de arena bem-sucedida | ~1.000.000 | rank 4, lutador de elite | **ano e meio** de circuito contínuo |
 | Extorsão por um segredo existencial de clã | milhões | qualquer rank — é informação, não força | uma negociação, e inimizade vitalícia |
 
-As colunas de rank e de tempo são `inferido`: a obra registra os valores em cena e quase
+As colunas de rank e de tempo são `inferido · conferido pelo autor`: a obra registra os valores em cena e quase
 nunca declara o rank de quem os ganhou nem quanto durou. As atribuições acima são a leitura
 deste vault, feitas para dar à tabela a utilidade que ela deve ter — trate-as como ponto de
 partida de balanceamento, não como cânone.

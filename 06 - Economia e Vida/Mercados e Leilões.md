@@ -95,7 +95,7 @@ mecânica de moeda dupla funcionar, segue uma reconstrução utilizável:
 | 9 | **Roxo-espinho** | cidades internas restantes; direito de compra sobre qualquer item antes que vá a leilão; autoridade administrativa dentro da cidade |
 
 > [!warning] Reconstrução, não texto
-> `inferido` — só **o número de degraus (nove), a cor da base (preta), a cor do topo
+> `inferido · conferido pelo autor` — só **o número de degraus (nove), a cor da base (preta), a cor do topo
 > (roxo-espinho), a raridade do topo e a regra de que a ficha destrava zonas e compras**
 > são da obra. Os sete nomes intermediários e a distribuição de privilégios são deste
 > vault, montados a partir das zonas e dos tipos de leilão que a própria nota descreve.

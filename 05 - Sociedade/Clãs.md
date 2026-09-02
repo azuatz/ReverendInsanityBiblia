@@ -167,7 +167,7 @@ princípio operante é a **compensação financeira**.
   > [[Pedras Primordiais]] como se fossem a mesma coisa, e elas não são — a diferença não está
   > no ato, está em **de quem é o mortal**. A obra nunca enuncia um código com essas
   > categorias — ela mostra multas avulsas, em cenas diferentes, sem explicar a diferença.
-  > `inferido`: a leitura que concilia os dois valores é que a multa não indeniza a vítima
+  > `inferido · conferido pelo autor`: a leitura que concilia os dois valores é que a multa não indeniza a vítima
   > e sim o **dono ou a jurisdição** dela. Ferir um cidadão livre de uma cidade seria
   > ofender a autoridade que cobra imposto daquela cidade, com valor tabelado por ela;
   > matar servos do próprio clã seria destruir patrimônio interno, resolvido em conselho e

@@ -89,7 +89,7 @@ Duas notas técnicas com consequências grandes:
 > A coluna **Público** nas tabelas desta nota diz, para cada linha, de qual das duas
 > economias aquele preço veio. Use só as linhas do público certo e as contradições somem.
 >
-> `inferido` — a obra mostra os preços em cena e nunca enuncia essa separação em duas
+> `inferido · conferido pelo autor` — a obra mostra os preços em cena e nunca enuncia essa separação em duas
 > economias; a leitura acima é deste vault. Mas ela é a única que faz os números fecharem,
 > e é coerente com a regra social de que a vida de um mortal quase não tem valor legal.
 
@@ -142,7 +142,7 @@ dentro de um clã, e o clã é ao mesmo tempo dono, vítima e juiz. Ninguém ind
 mesmo pelo valor cheio.
 
 > [!warning] Isto é reconstrução, não citação
-> `inferido` — a obra mostra multas avulsas em cenas diferentes e **nunca enuncia um código
+> `inferido · conferido pelo autor` — a obra mostra multas avulsas em cenas diferentes e **nunca enuncia um código
 > com essas três categorias**. Os dois valores em negrito acima são do texto; a moldura que
 > os organiza é deste vault. Se a sua mesa precisa de uma tabela de consequências, esta
 > funciona e é coerente com tudo o mais; só não a apresente como regra citável da obra.
@@ -176,7 +176,7 @@ Três observações que valem mais que a tabela:
    cima e a tabela acima nos ranks 1 e 2**, que é justamente onde os personagens começam e
    onde errar a ordem de grandeza estraga a economia da campanha inteira.
 
-   `inferido` — a explicação do piso de captura é deste vault; as faixas de preço são da
+   `inferido · conferido pelo autor` — a explicação do piso de captura é deste vault; as faixas de preço são da
    obra.
 2. **Um Gu raro de rank baixo custa como um Gu comum de rank alto.** Raridade e potência
    são eixos independentes.
@@ -240,7 +240,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   > claro, porém, que existe precificação sofisticada acima desse piso — cativos de raças
   > variantes custam **mais** que humanos, e o critério declarado é a "controlabilidade".
   >
-  > `inferido`, para uso em mesa: trate a meia pedra como **preço de saldo na boca do
+  > `inferido · conferido pelo autor`, para uso em mesa: trate a meia pedra como **preço de saldo na boca do
   > campo de batalha**, logo depois de uma razia, quando o vencedor tem mais prisioneiros
   > do que consegue transportar. O preço de varejo — depois do transporte, da seleção e do
   > adestramento, que são onde o lucro do tráfico realmente está — é de uma a duas ordens

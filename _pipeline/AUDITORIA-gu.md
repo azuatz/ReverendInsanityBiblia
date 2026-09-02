@@ -341,6 +341,34 @@ falsificação industrial com autodetonação, falsificação de procedência, r
 falsificada); quem detecta e a partir de que patamar; dez regras enumeradas; e cinco
 ganchos de design.
 
+### Pendência para o orquestrador
+
+As duas notas foram criadas como `13` e `14` apenas para não colidir com a numeração
+existente. **A ordem de leitura correta é outra** (4ª e 11ª, ver acima), e o vault exige que
+a renumeração passe por `_pipeline/numerar-notas.py`: é preciso **inserir os dois títulos na
+posição certa da lista de ordem da pasta `02 - Gu`** dentro do script e rodá-lo, seguido de
+`_pipeline/auditar-links.py`. Não fiz isso porque o script renomeia e reescreve links em
+todo o vault, o que colidiria com os outros agentes em trabalho simultâneo.
+
+Ordem final pretendida da pasta:
+
+| # | Nota |
+|---|---|
+| 01 | Visão Geral dos Gu |
+| 02 | O que é um Gu |
+| 03 | Usar e Alimentar Gu |
+| 04 | **Onde um Gu Mora** *(nova)* |
+| 05 | Gu Vital |
+| 06 | Refino de Gu |
+| 07 | Fusão de Gu |
+| 08 | Killer Moves |
+| 09 | Formações de Gu |
+| 10 | A Morte dos Gu |
+| 11 | **Qualidade e Fraude** *(nova)* |
+| 12 | Espólio de Gu |
+| 13 | Conflito de Marcas e Compatibilidade |
+| 14 | Gu Imortais |
+
 ## Decisões tomadas
 
 1. **Duas notas novas em vez de uma ou de quatro.** Considerei (a) enfiar tudo em seções

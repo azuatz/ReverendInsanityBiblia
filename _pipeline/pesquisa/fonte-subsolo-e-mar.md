@@ -431,3 +431,57 @@ uma facção regional diferente (no caso descrito, a Zombie Alliance do Northern
   perigoso socialmente: viver embaixo da terra frequentemente significa viver sob
   domínio de um Gu Immortal que reivindica aquele território.
 
+## 7. O que se constrói no subsolo
+
+- **Cidades subterrâneas**: explicitamente atribuídas à capacidade construtiva dos
+  rockmen. Cap. 414 (Vol. 3, linha 1388): "The rockmen lived underground, they ate
+  soil as food and were skilled at digging. A large group of rockmen could even build
+  an underground city deep in the ground." Cap. 423 (linha 2937): construir uma cidade
+  subterrânea com rockmen suficientes é tratado como forma de "expandir o território de
+  uma terra abençoada" (expanding the blessed land's territory) — ou seja, cidades
+  subterrâneas de rockmen são infraestrutura estratégica para Gu Immortals donos de
+  blessed lands.
+- **Prisões subterrâneas (underground prison)**: usadas tanto por Gu Immortals
+  individuais (Cap. 843, Vol. 4, linha 31668: Fang Yuan sai de "this underground
+  prison" após um encontro) quanto por clãs mortais inteiros como estrutura de defesa e
+  contenção. O exemplo mais detalhado é a prisão subterrânea do clã Tu (Cap. 2145,
+  Vol. 6): "Tu clan village's real underground prison was unexpectedly complicated and
+  extensive! The underground prison was like an ant nest, it was filled with thousands
+  of paths intersecting each other" — e o clã chega a manter uma prisão FALSA como
+  isca/armadilha na frente da prisão real, mais simples e vazia, enquanto a
+  verdadeira é um labirinto: "Not only was Huang Xiao Mi fake, the whole underground
+  prison was also fake" / "The underground prison was mostly empty, and there were
+  more beasts than mortals locked up in it" (na prisão falsa).
+- **Cofres/tesouros (treasury)**: o texto usa "treasury" para os depósitos de riqueza e
+  materiais raros de um clã/seita, mas não encontrei uma cena que localize
+  explicitamente um treasury "no subsolo" com essas palavras exatas — a única citação
+  relevante fala apenas de material raro "hidden so deep in the treasury that only the
+  first supreme elder could know of it" (Vol. 5, linha 143447), sugestivo de
+  profundidade física ou apenas de sigilo hierárquico, ambíguo no texto.
+  - Termos testados sem resultado claro de "cofre subterrâneo" descrito fisicamente:
+    "underground vault", "underground treasury", "buried treasury" — sem ocorrências
+    nos 6 volumes.
+- **Salas secretas (secret room)**: o termo aparece dezenas de vezes por volume (31 a
+  120 ocorrências), mas majoritariamente como salas de refino de Gu ou salas de
+  reunião privada dentro de residências/palácios — nem sempre subterrâneas
+  explicitamente. `(ded.)` Dado o volume de ocorrências e o padrão geral da obra
+  (nascentes, tesouros e rituais ficando em cavernas, cf. tópicos 1, 3 e 4), é razoável
+  deduzir que uma fração significativa dessas "salas secretas" está fisicamente
+  subterrânea, mas não fiz a leitura exaustiva de todas as ocorrências para confirmar
+  cada uma individualmente — isso ficaria como trabalho futuro se for necessário
+  granularidade maior.
+- **Salas/câmaras de nascente espiritual**: como visto no tópico 4, o acesso à nascente
+  de um clã é tratado como caminho secreto e área restrita (Vol. 1, linha 27831: "he
+  had been led by the Bai clan leader as they went through a long secret pathway, and
+  finally arrived here"), o que por si só é uma construção subterrânea de segurança
+  (corredores/portas escondidas) ao redor de um recurso natural.
+
+`> [!question]` Não encontrei uma cena que descreva explicitamente um "cofre de Gu"
+(vault dedicado a guardar Gu worms) como estrutura subterrânea nomeada por esse termo
+exato; o que a obra usa nesse papel são "secret rooms" genéricas e as próprias
+Blessed Lands / Immortal Apertures (espaços de bolso, não literalmente "subsolo") como
+guarda-tesouros dos Gu Immortals. Vale investigar mais se a designer precisar
+especificamente desse conceito.
+
+---
+

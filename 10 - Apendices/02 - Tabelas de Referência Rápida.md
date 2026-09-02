@@ -84,8 +84,7 @@ inferidos da seção 2, esta coluna muda junto.
 | Grau | Capacidade da abertura | Origem da faixa | Teto de rank esperado (`inferido`) |
 |---|---|---|---|
 | (sem talento) | abaixo de 20% | **canônico** que não há grau abaixo do D | **Nunca se torna Mestre Gu** |
-| D | **20–30%** | **canônico** | **rank 1, e só isso** — nem de longe alcança os 55% exigidos para romper ao rank 2 |
-| *(sem grau)* | **31–39%** | **a obra não atribui grau nenhum a esta faixa** | — |
+| D | **20–39%** | **20–30% é canônico**; a extensão até 39% é convenção do projeto (`inferido`) — ver abaixo | **rank 1, e só isso** — o teto de 39% nem chega perto dos 55% exigidos para romper ao rank 2 |
 | C | **40–59%** | **canônico** | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
 | B | **60–79%** | **canônico** | rank 3, eventualmente rank 4 |
 | A | **80–99%** | **canônico** | topo mortal (rank 5); 99% é o máximo "comum" |
@@ -101,15 +100,18 @@ inferidos da seção 2, esta coluna muda junto.
 
 Três observações práticas que a tabela não mostra sozinha:
 
-- **A escada tem um buraco literal entre 31% e 39%, e ele é do texto, não nosso.** As
-  faixas de C, B e A são enunciadas de uma vez ("40–59 é C, 60–79 é B, 80 ou mais é A") e
-  fecham entre si; o grau D é definido separadamente, noutro capítulo, como "vinte a
-  trinta por cento". Ninguém em toda a obra tem aptidão declarada entre 31% e 39%, e
-  varredura completa do texto por esses valores não devolve **nenhuma** ocorrência.
-  Provavelmente é arredondamento do autor — ele fixou "20 a 30" como número redondo e não
-  alinhou com o piso 40 do grau C. Para uma mesa, o mais simples é esticar o D até 39%;
-  só saiba que **essa esticada é sua, não da obra**. O mesmo maneirismo reaparece nos vãos
-  entre as grades de terra abençoada da seção 9.
+- **A faixa 31–39% é convenção nossa, e vale saber disso.** A obra enuncia C, B e A de
+  uma vez só ("40–59 é C, 60–79 é B, 80 ou mais é A"), e essas três fecham entre si. Mas
+  o grau D é definido noutro capítulo, isolado, como "**vinte a trinta por cento**" — e
+  aí sobra uma faixa de 31% a 39% sem grau atribuído. Varredura completa do texto não
+  encontra **nenhum** personagem com aptidão declarada nessa faixa, nem qualquer menção
+  a um quinto grau: a obra afirma expressamente que os graus são quatro.
+  **A decisão do projeto é esticar o D até 39%**, porque as outras três faixas têm
+  exatamente vinte pontos cada, porque não existe grau para acomodar quem estivesse ali,
+  e porque um sistema que classifica todo mundo não deixaria um décimo da escala de fora.
+  É a leitura mais defensável — mas é leitura, e o número que a obra escreve é 30.
+  O mesmo maneirismo de arredondamento reaparece nos vãos entre as grades de terra
+  abençoada da seção 9: o autor fixa extremos redondos e não se importa que encostem.
 - **Abaixo de 20% não há grau inferior.** A pessoa não é um "Mestre Gu ruim": ela
   não é Mestre Gu, e permanecerá mortal comum a vida inteira.
 - **A recuperação de essência acompanha o grau.** Um grau C repõe cerca de 4% da

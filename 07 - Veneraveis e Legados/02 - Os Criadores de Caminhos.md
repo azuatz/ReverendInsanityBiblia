@@ -65,8 +65,10 @@ E há um detalhe que torna essa invenção diferente de qualquer outra: quando o
 | | |
 |---|---|
 | **Via** | correta |
-| **Era** | Antiguidade Medieval |
+| **Era** | Antiguidade Medieval — a era em que mais disciplinas nasceram de uma vez |
 | **Caminho principal** | **wood path** (caminho da madeira) — ele o criou |
+| **Especialidade** | **cura e recuperação** — entre os dez, é o especialista reconhecido do tema |
+| **Legado institucional** | a Seita do Lótus Celestial, uma das dez grandes seitas ancestrais |
 
 ### O que ele deixou no mundo
 
@@ -80,10 +82,28 @@ Isso resolve um problema estrutural do mundo. A ==[[09 - Blessed Lands e Grotto-
 
 Vale dimensionar o impacto: no cenário, um clã inteiro se sustenta economicamente por ter uma nascente espiritual sob a vila, e regiões inteiras são classificadas pela durabilidade das suas nascentes. Ver [[04 - As Cinco Regiões|As Cinco Regiões]]. Tornar isso **móvel** é o equivalente a inventar a bateria num mundo movido a usina.
 
-**4. Um dos três que entraram.** É um dos apenas **três Veneráveis da história** que fundiram de fato a própria abertura imortal ao [[15 - Tribunal Celestial|Tribunal Celestial]]. Parte da riqueza intransponível da instituição é, literalmente, o mundo pessoal dele.
+**4. Uma seita que ainda é uma das dez do mundo.** Este é o legado que mais se parece com o de um dos [[03 - Os Arquitetos da Ordem|arquitetos da ordem]], e é fácil perdê-lo de vista: ele **fundou a Seita do Lótus Celestial** (*Heavenly Lotus Sect*), que na era dele foi, sem discussão, a seita número um do Continente Central, e que continua entre as **dez grandes seitas ancestrais** até hoje.
+
+O traço que a distingue das outras nove é diretamente derivado do fundador: ela possui **a maior frota de [[07 - Killer Moves|Casas de Gu Imortal]] das dez**, todas criadas pessoalmente por ele. Uma organização inteira construída em torno de máquinas herdadas. Ver [[07 - As Grandes Forças do Mundo#As dez grandes seitas ancestrais|As Grandes Forças do Mundo]].
+
+**5. Uma frota de construções espalhada pelo mundo.** Além do depósito-hospital, ele deixou Casas de Gu Imortal em regiões diferentes, e uma delas produziu uma das disputas políticas mais interessantes do cenário: um **palácio de rank 8 abandonado no Deserto do Oeste**, cujo controle é reivindicado por um clã descendente da seita dele — ao que os locais respondem com um argumento que vale como princípio jurídico do mundo: *ele deixou o palácio no Deserto do Oeste, portanto o palácio pertence ao Deserto do Oeste; você é apenas um descendente, como ousa distorcer a decisão do seu ancestral?* **A vontade de um Venerável morto é lida como se fosse lei, e a briga é sobre interpretação.**
+
+**6. O primeiro a domar um dos três obstáculos míticos.** Ele atravessou um dos três lugares que as [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] descrevem como obstáculos do caminho da vida — o Rio de Fluxo Reverso —, ficou preso lá dentro, e só saiu porque **refinou dentro do próprio corpo um Gu Imortal de perseverança** e viajou até o fim do rio. Com isso tornou-se o **primeiro Senhor do Rio de Fluxo Reverso da história**, e foi ele quem trouxe o rio para o mundo. Ver [[14 - Lugares Fora das Cinco Regiões#Reverse Flow River — o Rio de Fluxo Reverso|Lugares Fora das Cinco Regiões]].
+
+**7. Uma herança que ainda decide batalhas.** A verdadeira herança dele não é relíquia de museu: o portador atual dela, um imortal de rank 8, tem por causa dela força de combate excepcional, e um dos golpes deixados ali é capaz de libertar alguém de uma técnica de nível Venerável. O texto compara essa herança diretamente com a de **Star Constellation** e conclui que não é inferior — só é mais barata de operar, porque golpes de sabedoria custam muito mais energia mental. Heranças de Venerável são, entre si, comparáveis como equipamento.
+
+**8. Um dos três que entraram.** É um dos apenas **três Veneráveis da história** que fundiram de fato a própria abertura imortal ao [[15 - Tribunal Celestial|Tribunal Celestial]]. Parte da riqueza intransponível da instituição é, literalmente, o mundo pessoal dele.
+
+> [!question] O caminho da pintura
+> Corre entre imortais de altíssimo nível a suspeita de que ele teria criado, além do caminho
+> da madeira, um **caminho da pintura** — cuja virtude declarada seria acomodar perfeitamente a
+> operação de Gu Imortais e golpes de outras disciplinas, resolvendo o problema do conflito
+> entre [[12 - Dao Marks|marcas de dao]]. A obra apresenta isso **como rumor examinado por
+> personagens, nunca como fato afirmado pelo narrador**. Fica registrado como pergunta em
+> aberto, não como legado.
 
 > [!note] Para o design
-> Genesis Lotus é o Venerável que a designer deve usar quando precisar de **logística e serviços** em vez de armas. O legado dele produz três ganchos prontos: um hospital que também é um cofre (e portanto um alvo), um recurso portátil que rompe a dependência entre poder e território, e a existência de uma economia de cura entre imortais — que implica preço, fila, favor e dívida.
+> Genesis Lotus é o Venerável que a designer deve usar quando precisar de **logística e serviços** em vez de armas. O legado dele produz quatro ganchos prontos: um hospital que também é um cofre (e portanto um alvo), um recurso portátil que rompe a dependência entre poder e território, uma economia de cura entre imortais — que implica preço, fila, favor e dívida —, e uma **disputa de herança entre uma instituição e um território**, que é a briga mais civilizada e mais insolúvel que uma campanha pode ter.
 
 ---
 
@@ -233,8 +253,8 @@ fichas acima estão agrupadas por afinidade de legado, não cronologicamente.
 |---|---|---|---|---|
 | Reckless Savage | Antiga | [[04 - Strength Path\|força]] + [[05 - Transformation Path\|transformação]] | Um campo de batalha com o significado verdadeiro impresso | Toda tradição marcial e de metamorfose do mundo; uma raça a menos |
 | Limitless | Antiga | [[16 - Rule Path\|regra]] | A Caverna do Demônio Enlouquecido, de nove camadas | Existe um furo permanente na fronteira do mundo |
-| Giant Sun | Medieval | [[18 - Luck Path\|sorte]] (mantido em segredo) | O Céu da Longevidade; o altar de calamidade-em-sorte; o palácio que rege a sorte de uma região | A ordem política das Planícies do Norte roda sozinha há eras; e o governo do mundo controla só a certeza, nunca a incerteza |
-| Genesis Lotus | Medieval | madeira | Um depósito-hospital de aberturas imortais; a linhagem de nascentes portáteis | Poder deixa de depender de território fixo |
+| Giant Sun | Medieval | [[18 - Luck Path\|sorte]] (mantido em segredo) | O Céu da Longevidade; o Edifício dos Oitenta e Oito Yang Verdadeiros; o altar de calamidade-em-sorte; o palácio que rege a sorte de uma região | A ordem política das Planícies do Norte roda sozinha há eras; a nevasca que empobrece a região é a colheita dele; e o governo do mundo controla só a certeza, nunca a incerteza |
+| Genesis Lotus | Medieval | madeira | Uma das dez grandes seitas; a maior frota de Casas de Gu Imortal do mundo; um depósito-hospital de aberturas imortais; a linhagem de nascentes portáteis | Poder deixa de depender de território fixo; e o Continente Central tem um polo de cura que todos precisam usar |
 | Spectral Soul | Tardia | [[10 - Soul Path\|alma]] | Duas terras sagradas classificadas; almas divididas ainda ativas | Um indivíduo pode ser muitas pessoas por eras |
 
 ## Relações

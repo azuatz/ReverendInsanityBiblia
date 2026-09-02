@@ -740,6 +740,126 @@ ambientação, mão de obra, tropa ou vítima.
 - **Cuidado de spoiler:** ficam de fora quem é o refinador, de onde veio o Gu, e o resultado.
 - **Lacunas:** a obra não descreve o interior da formação nem os materiais usados.
 
+### O estilhaçamento do Starry Sky grotto-heaven e a corrida pelos fragmentos — caps. 908-916, 983
+
+- **Tipo:** cataclismo cosmológico seguido de corrida mundial por despojos. **É o evento da
+  faixa mais bem desenhado para pôr um grupo de personagens fracos dentro de um acontecimento
+  gigantesco** — a obra literalmente proíbe os poderosos de entrar.
+- **Onde:** o **Starry Sky grotto-heaven** era um grotto-heaven antiquíssimo, ligado a um dos
+  rank 9 Veneráveis, com **sete áreas isoladas entre si** (por causa de dao marks de space path
+  muito peculiares), oito ou mais "salões estelares", e habitado por desolate beasts e ancient
+  desolate beasts — um dragão zumbi guardando o oitavo salão estelar, uma árvore de carne que
+  anda. Depois do estilhaçamento, os fragmentos caem **espalhados pelo mundo, como meteoros**;
+  um deles pousa num vale sem nome de Central Continent.
+- **Gatilho / causa mecânica:** uma super força descobriu o grotto-heaven e passou a atacá-lo
+  em segredo para tomá-lo, retirando covertamente suas forças de nível imortal de outros
+  lugares — movimento grande o bastante para as outras grandes seitas perceberem que "algo
+  estava acontecendo". O dono, encurralado, escolheu **autodetonar o próprio grotto-heaven**
+  em vez de entregá-lo — e controlou a explosão de propósito, para que sobrassem fragmentos.
+- **A regra especial que define o evento (o coração da coisa):** os mundos-fragmento têm **dao
+  marks esparsos**, estão rasgados e quebrados — "como casas prestes a desabar" — e **só
+  existem por um período limitado** antes de se desfazerem. E, como **Gu Immortals são feitos
+  de dao marks**, entrar num fragmento é como **um gigante entrar numa casinha**: a casa quebra
+  e todos os recursos lá dentro se destroem junto. Portanto:
+  - **Nenhum Gu Immortal pode entrar.** Nem o mais fraco.
+  - **Só mortais entram** — os **discípulos** das grandes seitas, tipicamente rank 4 e rank 5.
+  - A única exceção registrada é um imortal de fundo de escala que estava, por motivo
+    particular, **perdendo dao marks continuamente** — ou seja, a "chave" para entrar é ser
+    leve, não ser forte.
+  - De dentro, olhando para cima, vê-se o "chão" do fragmento **rachar como um espelho
+    quebrado** e, através das rachaduras, o mundo exterior e os imortais lá fora, observando
+    de fora, impotentes.
+- **Organização da corrida (pronta para mesa):** os fragmentos viraram **pauta de negociação
+  entre as dez grandes seitas antigas**, que combinaram **horários e turnos de entrada** para
+  colher os recursos de dentro. Cada seita monta uma equipe de discípulos de elite — o texto
+  descreve uma de **cinco pessoas: quatro rank 5 e um rank 4 estágio de pico**, cujo cultivo a
+  seita **elevou de propósito** para essa missão, "porque estavam com falta de gente". A
+  motivação declarada é dupla: colher recursos e **treinar a geração seguinte**.
+- **Contrato típico do enviado:** missões nominais (capture estes três seres, de preferência
+  **vivos**), com pagamento de **um terço do valor do que trouxer**, e a possibilidade de
+  escolher qual das presas fica com você.
+- **O que se caça lá dentro (exemplos de presas, todos sem Immortal Gu):**
+  - **Desolate beast dragonfish** — o desolate beast de **menor força de combate** que existe;
+    vive em cardume junto de dragonfish mortais comuns. Valor: a carne de dragonfish de nível
+    desolate beast é **comida universal de Gu** — serve para alimentar quase qualquer Gu mortal
+    e parte da dieta de um Immortal Gu.
+  - **Hidden essence turtle** — desolate beast raro de wisdom path. Quando amadurece, **para de
+    se mover para sempre**: cria musgo, petrifica e vira uma falsa colina. Só se desloca ao
+    sentir perigo enorme, e só para de novo quando acha um lugar que a satisfaça. Esconde a
+    própria aura, é dificílima de achar, tem defesa altíssima e nenhuma agressividade — e
+    imortais de wisdom path a usam para ajudar em deduções.
+  - **Nether grass** — planta enraizada, inofensiva se ninguém chegar perto; carrega tantos dao
+    marks de soul path que, com o tempo, **transforma o ambiente ao redor num criadouro de Gu
+    de soul path**. Capaz de modificar o ecossistema inteiro de uma blessed land.
+  - Regra explicada de passagem, útil: **normalmente não há Immortal Gu selvagens dentro de
+    grotto-heavens e blessed lands**, porque o dono os recolhe assim que se formam — deixá-los
+    lá reduz o controle dele sobre o próprio mundo e pode enlouquecer as feras.
+- **Papel possível de um grupo pequeno:** é *o* cenário. Os jogadores são a equipe de
+  discípulos mortais que uma grande seita manda para dentro de um mundo desabando, com hora
+  marcada de entrada, hora marcada de saída, uma lista de encomendas, uma fatia do lucro, e
+  equipes rivais de outras seitas fazendo a mesma coisa no mesmo fragmento — enquanto os
+  poderosos assistem do lado de fora, através das rachaduras, sem poder ajudar nem interferir.
+  A tensão dramática vem de graça: nenhum adulto pode entrar.
+- **Consequência para o mundo:** um grotto-heaven antiquíssimo deixa de existir; seus recursos
+  e heranças se dispersam por incontáveis forças; uma geração inteira de discípulos das grandes
+  seitas ganha experiência de campo (e uma parte morre).
+- **Cuidado de spoiler:** ficam de fora quem era o dono e por que ele preferiu se destruir, o
+  papel de personagens específicos, e o que havia nos salões estelares. Nada disso é preciso:
+  basta "um mundo antigo se despedaçou e os cacos estão caindo".
+- **Lacunas:** a obra não diz quantos fragmentos existem, nem exatamente quanto tempo cada um
+  dura antes de se desfazer.
+
+### Disputa pelo Ascending Heaven Plain — caps. 908, 985-986
+
+- **Tipo:** guerra fria entre super forças por um sítio de herança, que degenera em queda de
+  braço aberta.
+- **Onde:** **Ascending Heaven Plain**, em Eastern Sea. Lá está a herança de um **supreme
+  grandmaster de refinement path** da Remote Antiquity Era — um dos três de toda a história —,
+  figura que morreu ao tentar **refinar os próprios nove céus imemoriais**.
+- **Gatilho / causa mecânica:** a localização exata do lugar deixou de ser segredo e virou
+  **"segredo aberto" entre os Gu Immortals de Eastern Sea**. A partir daí, o que era um projeto
+  de longo prazo vira corrida.
+- **Escala e fases:** começa como disputa entre **três clãs** (super forças), cada um levando o
+  grosso de seus Gu Immortals — para um deles é "um projeto que o clã planeja há **cem anos**",
+  e o patriarca em pessoa lidera. Quando as três forças **empatam**, o impasse atrai **muitas
+  outras forças e imortais solitários**, que entram não para vencer, mas **para arrancar
+  benefícios da confusão**. É o padrão descrito várias vezes na obra: *o impasse entre gigantes
+  é a janela dos pequenos.*
+- **Consequência lateral (ótima para mesa):** enquanto as super forças estão ocupadas nesse
+  impasse, **não sobra atenção para nada mais** — inimigos declarados delas circulam
+  impunemente, dívidas ficam sem cobrança, e todo mundo sabe disso e explora. O texto usa isso
+  como razão explícita para vários personagens escaparem de perseguições.
+- **Papel possível de um grupo pequeno:** ser exatamente os oportunistas — vender serviços aos
+  três lados, saquear a periferia, ou simplesmente aproveitar que os poderosos estão olhando
+  para o outro lado.
+- **Cuidado de spoiler:** fica de fora quem levou a herança.
+- **Lacunas:** a obra não descreve o interior do sítio nem as provas da herança.
+
+### A Aliança das Quatro Raças — caps. 1145-1146
+
+- **Tipo:** fundação política clandestina; um pacto entre povos oprimidos.
+- **Onde:** Northern Plains, com ramificações para dentro de uma blessed land.
+- **Quem:** quatro povos de **humanos variantes** — **hairy men** (dentro de uma blessed land
+  de rank 8), **snowmen** e **rockmen** (aliados sob a planície gelada do norte) e **inkmen**
+  (de uma cidade própria). Motivo declarado: sobrevivência comum diante da **dominância
+  humana**.
+- **Como se formaliza:** um rito no **Earth Mother Altar** (altar da mãe terra), com incenso
+  que produz efeito de pacto via earth path. Detalhe de mesa: a **hierarquia interna** da
+  aliança é definida por **poder militar bruto** — o povo que possui um **rock dragon imemorial**
+  (força de combate rank 8) fala primeiro nas cerimônias e tem status mais alto.
+- **Como uma aliança cresce:** de três para quatro partes, porque os fundadores de dois dos
+  povos foram **amigos íntimos na história antiga**, e por isso um dos povos **fiança** o outro
+  perante os demais. Relações pessoais de séculos atrás continuam pesando na diplomacia atual.
+- **Regra do mundo que a torna necessária:** humanos variantes, mesmo virando imortais, são
+  **empurrados para a margem e ostracizados**; e são apontados como incapazes de chegar ao
+  rank 9 — logo, jamais poderão produzir um Venerável próprio. A aliança nasce dessa
+  desigualdade estrutural, não de uma ofensa pontual.
+- **Papel possível de um grupo pequeno:** jogar humanos variantes é jogar um grupo de segunda
+  classe num mundo que os despreza; a aliança dá objetivo político, cerimônias, facções
+  internas e uma causa maior que a sobrevivência individual.
+- **Cuidado de spoiler:** ficam de fora os nomes, quem trai quem e o desfecho.
+- **Lacunas:** a obra não diz o tamanho populacional de cada povo nem os termos exatos do pacto.
+
 ## Eventos recorrentes e institucionais
 
 ### Refinement Path Convention (Convenção do Caminho do Refino) — caps. 828-859

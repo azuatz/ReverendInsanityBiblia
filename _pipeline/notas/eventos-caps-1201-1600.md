@@ -1020,6 +1020,55 @@ pode reaproveitar como formatos de cenário:
   grupo por um período. É um cenário de defesa pronto.
 - **Lacunas:** quanto tempo dura de ponta a ponta; a taxa de fracasso.
 
+### A cerimônia de reconhecimento mestre-discípulo (master-disciple acknowledgement) — cap. 1442
+
+- **Tipo:** rito institucional que muda a posição política de uma seita inteira.
+- **Regra de fundo:** um Gu Imortal **que já pertence a uma seita não pode**, normalmente, aceitar
+  outro Gu Imortal como mestre. A exceção se abre pelo prestígio do mestre — e, quando abre, a seita
+  toda comemora, porque o discípulo continua sendo dela (cap. 1442).
+- **Como é a cerimônia:** realizada dentro de uma **Immortal Gu House** tirada do tesouro e ativada
+  só para isso, flutuando nas nuvens e alternando luz de sol e de lua em cada telha. Presentes: todos
+  os supreme elders da seita. O discípulo **se ajoelha e faz kowtow**, depois oferece com as duas
+  mãos **uma xícara de chá que preparou pessoalmente** — a qualidade do chá é lida como prova de
+  mestria pessoal (aqui, de refinement path). O mestre aceita, bebe, e declara formalmente o
+  discípulo. Segue-se **música imortal**, novo kowtow com a fórmula "discípulo presta respeito ao
+  mestre", e a coisa toda dura **mais de duas horas** (cap. 1442).
+- **Detalhe de mundo precioso:** o protocolo **não existia mais**. A primeira supreme elder da seita
+  teve de **consultar textos antigos** e reconstruir a cerimônia como era praticada na era do mestre
+  — que é de uma antiguidade absurda. Ou seja: nesse mundo, ritos são **arqueologia aplicada**.
+- **A política por trás:** a seita queria fazer a cerimônia "no padrão mais alto" **e divulgá-la
+  amplamente** para elevar o próprio prestígio. O mestre recusou: "mantenham tudo simples, não
+  divulguem, mas mantenham o padrão alto" (cap. 1442). O conflito entre *fazer* e *anunciar* é toda a
+  cena.
+- **Papel possível de um grupo pequeno:** conseguir o chá; reconstruir o protocolo a partir de
+  fontes antigas contraditórias; segurar a segurança de uma cerimônia que não pode ser divulgada;
+  ou ser a facção da seita que **perde** com a promoção do discípulo e tenta atrapalhar.
+- **Lacunas:** o que o vínculo mestre-discípulo obriga formalmente cada lado a fazer.
+
+### O noivado político entre um Gu Imortal e uma tribo de humanos variantes — cap. 1472
+
+- **Tipo:** aliança matrimonial — tratado disfarçado de festa.
+- **A mecânica:** uma tribo de humanos variantes (variant humans) sem força de rank 8 **negocia um
+  casamento** com um Gu Imortal de força de rank 8 para adquirir sua proteção e sua autoridade.
+  O acordo passa por "muitas negociações difíceis"; ambos os lados cedem: o imortal ganha **um novo
+  lote de recursos**, a tribo ganha o direito de usar o nome e a autoridade dele. E o resultado é
+  deliberadamente **só um noivado, não um casamento** — porque a noiva ainda é a garantia que a
+  tribo não quis entregar de uma vez (cap. 1472).
+- **A festa como mapa político:** duas ou três mesas de banquete, cheias de Gu Imortais de **quatro
+  raças de humanos variantes** (homens-de-neve, homens-peludos, homens-de-tinta, homens-de-pedra) —
+  "quase todos os Gu Imortais da aliança de humanos variantes de Northern Plains" compareceram. A
+  descrição das reações é o cenário inteiro: os da tribo da noiva **festejam**; os da tribo vizinha
+  e rival ficam **com expressões duras**, porque "ver o vizinho que você vinha suprimindo ganhar uma
+  força de rank 8 é simplesmente um pesadelo" (cap. 1472). O supreme elder rival parabeniza a avó da
+  noiva em tom de escárnio; ela finge não notar.
+- **Regra de mundo implícita:** entre forças pequenas, **casamento é o instrumento padrão de aquisição
+  de poder militar**, e uma aliança de raças minoritárias funciona como bloco político com reuniões,
+  invejas e hierarquia interna.
+- **Papel possível de um grupo pequeno:** o banquete inteiro é uma sessão. Cada mesa é uma facção,
+  cada brinde é uma posição, e a tribo que perdeu poder naquela noite vai agir — provavelmente antes
+  do casamento de fato acontecer.
+- **Lacunas:** quais são os termos exatos do acordo; o que aconteceria se um dos lados o rompesse.
+
 ---
 
 ## Eventos históricos citados

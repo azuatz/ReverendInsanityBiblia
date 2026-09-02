@@ -46,6 +46,16 @@ Três coisas dessa tabela mudam o desenho de um mapa:
 - **As paredes se tocam.** Quem sai do Continente Central atravessa a parede santa e cai **direto** dentro da parede alcaçuz do norte — não há terra de ninguém entre as duas. Na prática, **toda travessia entre regiões é a travessia de duas paredes seguidas**, e é por isso que a viagem inteira é descrita como um sofrimento contínuo em vez de um portão que se cruza.
 - **Nada vive lá dentro.** A parede não tem feras, guardas nem armadilhas: a parede é, ela própria, o obstáculo inteiro.
 
+> [!example] Caso mecânico — o preço de uma travessia dupla
+> Um grupo de cultivadores imortais precisou ir do Mar Oriental às Planícies do Norte, o que
+> significa **atravessar duas paredes regionais em sequência**. O resultado: os três de rank 8
+> saíram **gravemente feridos**, e **quatro dos de rank 7 morreram dentro das paredes**. Os de
+> rank 6 sofreram muito menos pressão — e o que menos sofreu de todos foi justamente o de cultivo
+> mais baixo do grupo, que por cima era **nativo da região de destino**.
+>
+> A leitura para a mesa é direta: numa travessia de fronteira, **os personagens mais fracos do
+> grupo são os mais seguros**, e o inimigo poderoso que os persegue é quem paga o preço mais alto.
+
 **A parede tem espessura, e a espessura se mede em passos.** Um golpe de nível imortal abre um corredor de setenta e poucos passos dentro dela; um grupo de imortais avança revezando golpes, cada um abrindo mais algumas dezenas de passos, e um trecho fino de parede pode exigir mais de **três mil passos** de escavação. E ela **se regenera enquanto se cava** — um corredor recém-aberto já encolheu dois passos quando o último da fila entra. Existem **pontos fracos**, e localizá-los é trabalho de adivinhação: um especialista em dedução consegue calcular onde a parede é mais fina, e essa informação vale uma travessia inteira.
 
 ### O que se sabe sobre as paredes

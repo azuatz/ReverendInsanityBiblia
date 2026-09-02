@@ -113,6 +113,11 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
   vive dentro da parede, ela é o obstáculo inteiro.
 - **Acrescentado** (L6): a espessura medida em passos, a regeneração durante a escavação e os
   pontos fracos localizáveis por dedução.
+- **Acrescentado um `[!example]`** com o dado mais vívido que a obra dá sobre travessia: um grupo
+  que foi do Mar Oriental às Planícies do Norte atravessou **duas paredes** e perdeu **quatro
+  imortais de rank 7 mortos dentro delas**, com os três de rank 8 gravemente feridos — enquanto o
+  de cultivo mais baixo do grupo passou com facilidade (cap. 928). É a ilustração canônica da
+  regra "o mundo é permeável para os fracos e sólido para os fortes".
 - `fontes` do frontmatter atualizado com caps. 1044, 1045, 1211, 1258.
 
 ### `05 - Atlas das Cinco Regiões.md`

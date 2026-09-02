@@ -421,10 +421,27 @@ marcado, aberturas imortais são literalmente feitas de marcas, e um ambiente sa
 ativamente** quem cultiva um caminho conflitante (perda de metade da potência ou mais). Isso
 está firme e está em [[Conflito de Marcas e Compatibilidade]].
 
+**O que a obra afirma na direção contrária, e é o que ela realmente descreve:** são os **seres
+que marcam o lugar**, não o contrário. Uma criatura antiga que permanece muito tempo num
+território vai gradualmente alterando o ambiente com as próprias marcas — processo de décadas,
+séculos ou milênios. À medida que ele avança, a região passa a **rejeitar marcas de todos os
+outros caminhos** e a conservar predominantemente o daquela criatura, até os dois atingirem um
+equilíbrio em que o ambiente passa a **nutrir** as marcas dela em vez de dissipá-las.
+
+O mesmo vale para uma abertura imortal: as marcas que um imortal absorve **mudam o ambiente
+interno dela** com o tempo, e esse ambiente novo favorece o cultivo de recursos daquele
+caminho.
+
 **O que a obra não afirma:** que ficar parado num território saturado transfira, sozinho e por
-osmose, marcas daquele caminho para o corpo do visitante. O ambiente funciona como **modificador
-de desempenho**, e não há descrição de absorção passiva pela simples permanência. `—` A obra
-não decide isso.
+osmose, marcas daquele caminho para o corpo de um visitante. O ambiente funciona como
+**modificador de desempenho** e como **destino** das marcas de quem mora nele, e não há
+descrição de absorção passiva pela simples permanência. `—` A obra não decide isso.
+
+> [!note] Um detalhe de mesa que sai de graça daqui
+> Como o ambiente interno de uma abertura imortal reflete as marcas do dono, **ver a abertura de
+> alguém é ler a ficha dele**. É por isso que imortais mantêm o próprio mundo pessoal em
+> segredo: a paisagem lá dentro, e os recursos que crescem nela, permitem deduzir quais Gu
+> Imortais a pessoa tem. Sigilo de build é uma prática cultural com razão mecânica.
 
 **O que a obra afirma no lugar disso, e que é melhor:** o ambiente age sobre o corpo
 **indiretamente, através das provações**. Como a região determina de quais caminhos serão as
@@ -463,12 +480,52 @@ Duas travas adicionais:
   mas eleva o poder de combate muito mais rápido. É um trade-off estratégico explícito: método
   natural dá fundação grande e devagar; anexação dá poder rápido e fundação rasa.
 
-**E matar, sozinho, quase não rende.** Ao se autodetonar, as marcas de um imortal voltam para a
-**própria abertura dele**, não para o matador. Por isso imortais mortos não são fáceis de
-saquear: o vencedor só acessa aquele acúmulo se conseguir se tornar dono do mundo pequeno que
-restou. `[segredo]` Existiu um método histórico, hoje perdido, de capturar as marcas de um
-inimigo morto e gravá-las no esqueleto dele como material imortal — chegando a reconciliar
-marcas de caminhos conflitantes no mesmo objeto.
+#### As duas rotas depois de matar — e a diferença é de caminho, não de volume
+
+A obra enuncia explicitamente **duas** formas de lucrar com um imortal morto, e elas rendem
+coisas diferentes:
+
+1. **Depositar a abertura do morto nas cinco regiões**, onde ela se converte numa terra
+   abençoada ou caverna-céu, e então atacá-la para tomar os recursos de dentro. Rende bens.
+2. **Colocar a abertura do morto dentro da própria abertura e fazê-la se autodetonar.** As
+   marcas contidas nela **ficam para o vencedor**.
+
+A segunda rota é a que interessa a esta nota, porque ela é a **única via de diversificação
+volumosa que a obra documenta**. As marcas que se ganha são **do caminho da vítima**, não do
+seu. A obra descreve exatamente esse resultado: um cultivador que abateu um especialista de
+outro caminho constata que as marcas daquele caminho vão aumentar drasticamente no corpo dele,
+que os Gu e golpes daquele caminho passarão a ser amplificados **acima de todos os seus outros
+caminhos** — e lamenta, na mesma frase, que sua compreensão daquele caminho seja apenas
+ordinária.
+
+Guarde essa combinação, porque ela é o retrato mais claro do sistema inteiro: **potência de um
+caminho que ele não entende, adquirida matando alguém que entendia.**
+
+E há um segundo efeito, mais lento e mais interessante: **as marcas absorvidas mudam o ambiente
+da própria abertura**, o que passa a favorecer o cultivo de recursos daquele caminho. Junte com
+o mecanismo da via 1 — a provação se converte conforme o estado da abertura — e você tem um
+laço fechado:
+
+> Matar alguém de outro caminho → sua abertura deriva na direção daquele caminho → suas
+> provações futuras passam a lhe entregar marcas daquele caminho.
+
+**Diversificação, neste mundo, é conquista.** Não existe multiclasse por estudo; existe
+multiclasse por assassinato.
+
+> [!warning] Não confunda as duas operações
+> **Anexar** uma abertura (engoli-la inteira e integrá-la à sua) **concentra** o vetor: só as
+> marcas do seu caminho são absorvidas por completo, o resto é expulso. **Detonar** a abertura
+> de um morto dentro da sua **diversifica** o vetor: você fica com as marcas do caminho dele.
+> São ferramentas opostas, e escolher entre elas é uma decisão de construção de personagem.
+
+Duas ressalvas finais:
+
+- **Um imortal que se autodetona por vontade própria em combate leva as marcas consigo**: elas
+  voltam para a própria abertura dele, não para o matador. Por isso imortais mortos não são
+  fáceis de saquear — o vencedor precisa ter a abertura em mãos para aplicar a rota 2.
+- `[segredo]` Existiu um método histórico, hoje perdido, de capturar as marcas de um inimigo
+  morto e gravá-las no esqueleto dele como material imortal — chegando a reconciliar marcas de
+  caminhos conflitantes no mesmo objeto.
 
 > [!warning] Uma exceção que muda tudo para quem a tem
 > Existe um tipo de corpo excepcional cuja propriedade é absorver **cem por cento das marcas de
@@ -484,7 +541,11 @@ Nem todo mundo começa em zero.
   de nível 6 em condição equivalente. É o que explica como um mortal excepcional consegue, em
   situações extremas, suprimir poderes imortais. As dez estão em
   [[As Dez Constituições Extremas]].
-- **Certas variantes humanas nascem com marcas nativas** do elemento a que pertencem.
+- **Certas raças e variantes humanas nascem com marcas nativas** do caminho a que pertencem —
+  um homem-rocha, por exemplo, já nasce com marcas do caminho da terra, o que torna o cultivo
+  de terra extremamente vantajoso para ele desde o primeiro dia.
+- **Bestas e plantas também nascem marcadas**, e é isso que define de que se alimentam e onde
+  conseguem viver. Ver [[Bestas Gu e Reis Fera]].
 
 O caminho, nesses casos, é decidido pelo nascimento e não é negociável — o que é a versão mais
 literal possível da tese desta nota.

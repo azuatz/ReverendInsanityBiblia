@@ -518,6 +518,147 @@ Vale listar, porque cada uma é um gancho de campanha pronto:
   tempo** — cada um correspondendo ao Venerável que investiu naquela camada. O custo é medido
   em essência imortal do nível mais alto que existe.
 
-<!-- SECOES: dirigir aquisicao / para o design / relacoes -->
+## Dá para dirigir a aquisição?
+
+Esta é a pergunta que decide se "montar build" existe neste mundo. A resposta curta é
+**parcialmente, e o quanto depende de quanto poder você já tem**.
+
+Organize as alavancas em três faixas, porque elas correspondem a três estágios de carreira
+muito diferentes.
+
+### Faixa 1 — o que qualquer imortal controla
+
+Direção total, volume desprezível:
+
+- **O que comer.** Consumir materiais de um caminho rende marcas exatamente daquele caminho.
+  Totalmente dirigível, e cerca de um milésimo do rendimento de uma calamidade por uso.
+- **O que converter.** Golpes de conversão transformam marcas de um caminho em outro, e o
+  destino é escolhido pelo golpe. Dirigível, limitado pelo estoque de origem.
+- **Que Gu usar.** A ressonância de caminho aprofunda a compreensão a cada uso de um Gu Imortal
+  do próprio caminho — isso é **attainment**, não marcas, mas conta na construção do
+  personagem.
+
+### Faixa 2 — o que se controla escolhendo onde e quando
+
+Aqui está a alavanca real do imortal comum, e ela é geográfica.
+
+**Escolher o local da provação é uma decisão estratégica formal do mundo**, tratada como tal
+pelos personagens. E ela mexe em várias coisas ao mesmo tempo:
+
+- **A região define a paleta.** Como as calamidades saem dos caminhos dominantes do lugar,
+  escolher onde passar séculos de provações é escolher, com margem, de quais caminhos serão as
+  marcas acumuladas. É a forma mais acessível de dirigir o vetor.
+- **O conteúdo da própria abertura muda o tema.** Esvaziar a terra antes de uma provação atrai
+  uma calamidade mais fraca — mas **pode mudar o tema dela** e arruinar a compatibilidade dos
+  recursos que se guardou. Manter os recursos costuma pagar melhor no longo prazo, porque a
+  provação mira o maior trunfo do alvo e sobreviver rende marcas que reforçam exatamente o que
+  foi atacado.
+- **Passar a provação no local do feito final de um Venerável** faz a calamidade se manifestar
+  como encarnações da verdade daquele caminho, entregando saltos enormes de compreensão. Ver a
+  via 6 acima.
+- **Nunca repetir o local.** Ficar sempre no mesmo lugar dá tempo à vontade dos céus de
+  orquestrar uma calamidade humana — outros imortais influenciados a atacar você durante a
+  vulnerabilidade. A prática correta é itinerante.
+- **Não passar provações em território de aliado.** Elas drenam o qi terrestre do local onde
+  ocorrem: custo territorial real, não só pessoal.
+
+Duas alavancas de rendimento, não de caminho:
+
+- **Fortuna alta eleva as calamidades ao máximo que o mundo permite** — o que maximiza o ganho
+  de marcas, ao custo do risco máximo. Uma tribulação maximizada rendeu mil marcas de caminho
+  único, com o dobro de amplificação para futuros Gu Imortais daquele caminho.
+- Existe um Gu do [[Luck Path|caminho da sorte]] que **dobra as marcas ganhas** numa provação,
+  em troca de aumentar em trinta a quarenta por cento o poder dela. É a aposta explícita do
+  sistema.
+
+### Faixa 3 — o que só instituições e potências controlam
+
+E é aqui que a resposta vira "sim, dá para montar build" — para quem pode pagar.
+
+Existem métodos construídos exatamente para **forçar a mão da vontade dos céus**, e todos
+atacam a mesma raiz mecânica (as marcas do caminho do céu que se transformam para se
+manifestar):
+
+- **Uma formação que conecta a abertura ao mundo externo** e assim influencia **quais**
+  calamidades ocorrem, "temperando" a abertura com marcas dos caminhos dominantes na região
+  externa correspondente. É seleção de caminho por engenharia, e pertence a uma seita
+  específica.
+- **Um método que limita a transformação** das marcas do caminho do céu, forçando **toda**
+  tribulação a se manifestar como calamidade de feras do [[Transformation Path|caminho da
+  transformação]]. Isto é literalmente travar o gerador de marcas num único caminho — o mais
+  perto de "escolher a build" que o sistema chega. Pertence a um domínio específico.
+- **Golpes do [[Luck Path|caminho da sorte]] que interferem na criação da tribulação**,
+  enfraquecendo-a por mudança favorável.
+- **Dedução do conteúdo exato da próxima provação.** Duas escolas fazem isso por rotas
+  diferentes; uma delas custa cerca de cem anos de longevidade por dedução. O ganho não é
+  reduzir o dano — é **remover a imprevisibilidade**, descrita como o maior perigo de qualquer
+  tribulação. Contra uma provação diretamente pilotada pela vontade dos céus, que muda de forma
+  a cada contramedida eficaz, esta é a única defesa conhecida.
+
+### O que não dá para fazer
+
+Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
+
+- **Não dá para recusar as marcas indesejadas.** Se a provação foi de um caminho que você não
+  usa, as marcas entram e ficam. O vetor de qualquer imortal antigo tem entulho.
+- **Não dá para fugir sem pagar.** Existe um método lendário que concede **imunidade total a
+  tribulações** — a vontade dos céus simplesmente não sonda o portador. O preço é nunca mais
+  ganhar marcas por essa via. O mesmo vale para desacelerar ou congelar o fluxo de tempo da
+  própria abertura: adia as provações e **para o cultivo junto**. E uma abertura morta não
+  sofre nenhuma provação e não ganha marca nenhuma. **Fugir é abrir mão do único multiplicador
+  gratuito do sistema.**
+- **Não dá para acumular sem atrair.** Quanto mais marcas você tem, mais desequilíbrio você é,
+  e mais forte vem a próxima provação. A curva de dificuldade é o seu próprio sucesso.
+- **Não dá para contar com ganho líquido no topo.** `[segredo]` Um cultivador de nível 8 que
+  sobreviveu à primeira tribulação miríade contabilizou ter **perdido** mais marcas do que
+  ganhou. Nos ranks mais altos, sobreviver não garante progredir — a fundação pode regredir. É
+  citado como razão indireta de só terem existido dez cultivadores de nível 9 em toda a
+  história.
+
+### Resposta curta
+
+**Montar build existe, mas é um exercício de estatística e geografia, não de escolha.** Você
+não seleciona marcas num menu; você escolhe **onde viver, o que comer, o que engolir e quando
+arriscar** — e depois administra o que chegou. A parte dirigível é lenta e barata; a parte
+volumosa é adversarial e cara de influenciar. Um imortal antigo é, literalmente, o registro
+sedimentado dos lugares em que ele sobreviveu.
+
+> [!note] Para o design
+> **Especialização emergente e retroativa.** Este é o ponto que muda a estrutura de um jogo
+> baseado neste mundo, e vale enunciá-lo devagar: aqui a especialidade **não é escolhida numa
+> ficha em branco** — ela é o padrão que se forma a partir de escolhas pequenas, dispersas e
+> quase sempre feitas por outros motivos. O jogador não declara "sou do caminho do sangue" na
+> sessão zero. Ele compra o que pode, sobrevive ao que aparece, e por volta da vigésima sessão
+> alguém olha a ficha e percebe que ele **virou** do caminho do sangue.
+>
+> Três consequências desenháveis:
+>
+> **(1) Inverta a ordem de criação de personagem.** Em vez de escolher uma classe e derivar o
+> inventário, distribua um inventário heterogêneo e deixe a classe emergir. A pergunta "qual é
+> o seu caminho?" deixa de ser uma pergunta de criação e vira uma **pergunta de meio de
+> campanha** — com resposta descobrível, não declarável. E o momento em que ela se fecha (a
+> ascensão) vira um marco dramático real, porque ali o personagem descobre no que se
+> transformou.
+>
+> **(2) O progresso é retroativo e auditável.** Como o vetor de marcas registra a origem de
+> cada bloco, a ficha de um personagem antigo **é uma autobiografia**. Um adversário competente
+> lê a build do outro e deduz por onde ele passou — em que bioma sobreviveu, quem ele engoliu,
+> com quem jurou aliança. Isso transforma perícia em investigação e dá conteúdo a uma cena que
+> normalmente é só uma planilha.
+>
+> **(3) Dê ao mestre um orçamento adversarial, não uma tabela de loot.** A maior fonte de poder
+> do sistema é uma inteligência que escolhe o que dar e tem motivo para dar o que não serve.
+> Isso resolve de graça o problema do jogador que otimiza: ele pode planejar, e o planejamento
+> **funciona parcialmente**, o que é muito mais interessante do que funcionar sempre ou nunca.
+> As alavancas caras — escolher a região, engolir um território, travar o gerador num caminho —
+> viram objetivos de campanha em vez de compras.
+>
+> **(4) O arrependimento é conteúdo, não punição.** Um personagem preso a um caminho medíocre
+> por causa de um Gu barato que o clã comprou quando ele tinha quinze anos não é um erro de
+> balanceamento: é o motor narrativo mais confiável do cenário. E o sistema oferece saídas
+> caras e legítimas — segunda abertura, conversão, um segundo caminho secreto — que dão ao
+> jogador algo para **perseguir** em vez de algo para lamentar.
+
+<!-- SECOES: para o design / relacoes -->
 
 ## Relações

@@ -2,7 +2,7 @@
 tags:
   - pipeline/notas-brutas
   - golpes-assassinos
-status: em-andamento
+status: concluido
 fontes: ["caps. 1967-2334 (Volume 6 - Demon Venerable's Eternal Life)"]
 ---
 
@@ -245,3 +245,212 @@ Níveis 1–5 = golpes mortais; 6–9 = golpes imortais.
 | Refinement Snake Lifespan Flower | imortal | refinement | — | Golpe de refino do mesmo repertório | — | 2077 |
 | Omnipresent Four Seas | imortal | refinement | — | Golpe de refino do mesmo repertório | — | 2077 |
 | One Step Back, Sea and Sky Expands | imortal | refinement | — | Golpe de refino do mesmo repertório, citado como o mais notável da lista | — | 2077 |
+| Fire-Wind Wheel | 7 (rank seven killer move; efeito prático cai a nível rank 6 nas mãos de quem não reduza o atrito interno) | wind + fire (compound killer move) | núcleos: vários Immortal Gu de wind path rank 7 + vários Immortal Gu de fire path; base conceitual em Gu mortais (clear wind wheel Gu rank 1, jade wind wheel Gu rank 2) | Condensa dois ciclones sob os pés do usuário que giram como rodas e o carregam; as rodas giram cada vez mais rápido com o tempo, aumentando a velocidade continuamente. A adição de fire path lhe dá **arranque explosivo**, corrigindo o defeito clássico dos golpes de vento | Defeito original (comum a **todos** os golpes de wind path): velocidade inicial baixíssima, precisa de tempo para chegar ao máximo. As saídas convencionais são três — attainment de wind path alto o bastante para refinar o golpe, sacrificar tempo preparando-o antes para liberá-lo de uma vez, ou gastar muito mais essência imortal. A saída usada aqui foi acoplar fire path (o caminho de maior potencial explosivo, entre os dois primeiros de todos). Preço: **atrito interno entre wind e fire** — para quem não tem heaven path dao marks reduzindo o atrito, é um golpe rank 7 que entrega efeito rank 6, avaliado como abaixo de baixa qualidade. Já pronto, gasta pouca essência imortal e exige pouco controle mental | 2072 |
+| I Reside in All Living Beings and Heaven and Earth | imortal (usado por Immortal Venerable) | luck | — | **Alcance que cobre as cinco regiões inteiras.** Influencia a sorte do céu-e-terra e a sorte de todos os seres vivos, fazendo toda essa sorte girar em torno do usuário; a sorte dele sobe a um nível sem precedentes e, somada ao sistema de combate, amplifica sua força de modo terrível em todos os aspectos | **Extrai sorte externa à força — é "árvore sem raiz, água sem nascente": quanto mais se usa, menos sobra**, e o efeito decai a cada uso. Pode ser usado continuamente, mas os efeitos posteriores se agravam a cada vez: usá-lo duas vezes em curto intervalo deixa o usuário num **estado enfraquecido prolongado**, que ele precisa esconder — se a fraqueza for exposta, o valor e a usabilidade futura do golpe desabam. Não afeta quem tenha defesa de luck path suficiente (Cooking Luck Pot + heavenly web protection veil), mas quebra defesas de luck path menores | 2314, 2315, 2328, 2329 |
+| Heaven Always Leaves A Way Out For People | imortal | luck / human (ded.) | — | Abre um caminho de fuga: o golpe rasgou uma passagem longa e sinuosa que atravessou a Door of Life and Death, com o mundo exterior visível ao fundo | O caminho é longo e tortuoso — inferior em qualidade a luck changing golden light path | 2198 |
+| Earth Water Wood Fire Four Elements Shifting Formation | imortal (formação conjunta de quatro Gu Immortals) | earth + water + wood + fire | — | Formação de quatro elementos que **aprisiona/desloca** o alvo, exigindo quatro Gu Immortals coordenados | Os quatro operadores ficam expostos ao alvo preso (comparados a mortais deitados sobre um dragão maligno). Foi usada deliberadamente como **isca**: sua função real era criar o ambiente para um golpe aliado, não prender o alvo | 2321, 2322, 2323 |
+| Soul Howl | imortal | soul + sound | — | Uivo de alma cujas ondas sonoras sacodem violentamente Immortal Gu Houses de todos os tamanhos, como navios em tempestade prestes a emborcar, e **mata Gu Immortals feridos** que não conseguem suportá-lo | Fere por pressão sonora: alvos em plena condição resistem; os já feridos, não (ded.) | 2048, 2328, 2333 |
+
+## Observações de mecânica
+
+Regras gerais sobre golpes assassinos que a obra enuncia neste volume. Salvo indicação,
+tudo abaixo é canônico (texto simples).
+
+### 1. As categorias de golpe
+
+- A obra distingue explicitamente **quatro maneiras de usar Gu** além do Gu isolado:
+  golpes assassinos comuns, **battlefield killer moves** (golpes de campo de batalha),
+  formações de batalha antigas, formações Gu da geração atual, e Immortal/mortal Gu Houses.
+  A este conjunto o Volume 6 acrescenta uma quinta: os **totem killer moves**. (cap. 2112)
+- **Golpe de caminho único** (single path killer move) é a forma ortodoxa e majoritária:
+  baseia-se num caminho, e Gu de outros caminhos entram apenas como suplemento
+  (exemplos citados: five restriction profound light qi, de rule path; time cutting edge,
+  de time path). (cap. 2065)
+- **Compound killer move** (golpe composto) é o golpe excepcional que usa **dois ou mais
+  caminhos como principais**. É bem mais forte, porque o inimigo precisa pensar em
+  contramedidas para dois ou mais caminhos ao mesmo tempo. Normalmente só existe nas mãos
+  de quem cultiva múltiplos caminhos — e como dao marks conflitantes tornam raríssimo
+  cultivar vários caminhos, golpes compostos são raros no mundo. (cap. 2065)
+- **Battlefield killer move**: transforma a área num campo controlado que **prende** os
+  presentes. Numa fuga, só um battlefield killer move bem aplicado consegue impedir o
+  inimigo de escapar (cap. 2061). Quebrar o campo de um usuário lhe causa **backlash
+  imenso**, derrubando sua força de combate (cap. 2057). Battlefield killer moves têm
+  velocidades de ativação diferentes entre si (cap. 2322). O contra-golpe geral existe:
+  heavenly summary earthly norm devolve o alvo à condição normal (cap. 2237).
+- **Totem killer move**: só se desenvolveu num único lugar do mundo (Myriad Beast Fusion
+  Color Heaven, a abertura imortal de um Demon Venerable dentro de uma fera imemorial de
+  food path) e não existe em nenhum outro lugar. Tem status igual ao dos golpes comuns e
+  dos battlefield killer moves. Cinco traços: (a) fica gravado na **pele** do cultivador
+  e só solidifica e voa para fora quando recebe essência primordial ou imortal;
+  (b) **não precisa ser conjurado na hora** — como já foi construído antes, poupa
+  esforço e tempo, ao contrário do golpe comum que exige ativar Gu e gastar pensamento;
+  (c) serve a **qualquer caminho** — cada cultivador ergue o totem do caminho que já
+  cultiva; (d) ao contrário de uma Immortal Gu House forte, que não tem margem de melhoria,
+  o totem **pode ser refinado e melhorado continuamente**; (e) é construído comendo
+  materiais Gu num ambiente de food path, com Gu worms auxiliando de leve — o método
+  principal é consumo e digestão, e nunca se sabe de antemão que forma o totem tomará,
+  pois cada um é único. Totens podem ser estropiados em combate, reparados a alto custo,
+  ou **fundidos** entre si quando dois estão danificados. (caps. 2112, 2113, 2117, 2119)
+
+### 2. Como um golpe se cria
+
+- **Requisitos para um golpe ser prático** (a formulação mais explícita da obra):
+  não pode ter Gu worms demais; a carga de essência imortal não pode ser pesada demais;
+  o efeito precisa ser bom; e não pode haver um defeito óbvio. Por isso "criar um golpe
+  é um projeto extremamente difícil". (cap. 2072)
+- **Atrito interno** (internal friction) é o custo estrutural do golpe composto: os dao
+  marks de caminhos diferentes conflitam entre si dentro do próprio golpe e desperdiçam
+  potência. É por isso que a saída habitual de um Gu Immortal comum é diluir o segundo
+  caminho em incontáveis Gu **mortais**, o que por sua vez incha o número de Gu no golpe,
+  dispara a dificuldade de ativação, aumenta a concentração exigida e derruba o valor do
+  golpe. **Heaven path dao marks reduzem drasticamente o atrito interno** — com pouco mais
+  de três mil delas, golpes compostos multiplicaram sua potência várias vezes e ficaram
+  mais suaves de ativar. (caps. 2065, 2072)
+- Consequência contraintuitiva: para quem tem heaven path dao marks, **criar golpes
+  compostos é mais fácil que criar golpes de caminho único**, e quanto mais caminhos
+  existirem no mundo, mais fácil fica conceber golpes novos. (caps. 2072, 2309)
+- Insumos que aceleram a criação: acervo de receitas Gu e de golpes já conhecidos para
+  servirem de referência (dispensa attainment alto nos caminhos envolvidos); um Immortal
+  Gu de wisdom path (wisdom Gu rank 8) que fornece inspirações precisas e evita becos sem
+  saída; e informação bruta sobre fenômenos naturais — vários golpes de topo foram
+  deduzidos a partir de fenômenos e habilidades naturais do mundo (uma fera imemorial
+  extinta, um fenômeno de sonho, uma planta desolada extinta), obtida por métodos
+  investigativos. (caps. 2072, 2309)
+- **Espaço de modificação**: golpes de caminho único têm espaço limitado de modificação;
+  os compostos, ainda menos, por causa do atrito. Um golpe pode ser modificado para
+  remover limitações (farewell friend wind perdeu a exigência de tocar o alvo e de dizer
+  palavras de despedida quando o attainment de wind path do dono subiu de nível), ou para
+  ganhar alcance e potência. Modificar exige attainment no caminho do golpe:
+  compreender a essência de um golpe por outro caminho **não basta** para poder modificá-lo.
+  (caps. 1997, 2240)
+- **Split move technique**: existe uma técnica que divide um golpe já formado em várias
+  partes, permitindo sustentar e mover cada parte separadamente. (cap. 2045)
+- Um golpe pode ser **entregue/transferido a outra pessoa** (um golpe rank 8 dado a um
+  aliado o transformou em pseudo-venerável na hora; um golpe assinatura inteiro foi
+  passado a um clone para servir de núcleo do sistema de combate dele). (caps. 2071, 2175)
+
+### 3. Custos e limites de uso
+
+- **Limite de golpes simultâneos**: manter vários golpes ativos ao mesmo tempo é limitado
+  pela capacidade de **pensamento** (wisdom path) do usuário; e não se deve usar toda a
+  capacidade, porque é preciso deixar margem de raciocínio livre para reagir a imprevistos
+  — sem essa margem, um atraso de reação abre oportunidade para o inimigo. Ativar um golpe
+  novo pode obrigar a **cancelar** outro já ativo. (cap. 2204)
+- Golpes rank 9 diferem entre si nesse ponto: alguns (heavenly web protection veil,
+  heavenly ghost concealment) exigem **atenção contínua**; outros (obscured heavenly
+  secret) não precisam ser vigiados o tempo todo. Manter dois rank 9 vigiados mais um
+  golpe composto quase esvazia os pensamentos de um venerável. (cap. 2314)
+- **Golpes compostos gastam pensamento demais** — essa é a desvantagem enunciada
+  explicitamente. (cap. 2314)
+- **Tempo de ativação**: como regra, **quanto mais forte o golpe, mais tempo leva para ser
+  usado**. Num impasse ou num instante decisivo, um golpe muito forte simplesmente não
+  encontra a brecha para ser conjurado, e tentá-lo expõe fraquezas; com o inimigo alerta,
+  o efeito deixa de ser decisivo. Métodos de information path dão alarme antecipado assim
+  que a preparação de um golpe lento começa. (caps. 2166, 2305)
+- **Defensivos passivos**: golpes defensivos passivos (divine concealment, ghostly
+  concealment, a linhagem *flowing water*) **não consomem essência imortal alguma**; em
+  compensação, são raros e **um Gu Immortal em regra só consegue cultivar um deles — não
+  se empilham vários**. (caps. 2239, 2240)
+- **Custos exóticos** documentados: gastar os próprios dao marks do caminho (unlimited
+  wind consome wind path dao marks; myriad ghost sword dragon consome quatro mil soul path
+  dao marks por uso); gastar **tempo de vida** (extreme ice crystal light immortal
+  suppression coffin consome dao marks **e** lifespan); gastar unrestrained heavenly marks
+  (lingering poisonous ant plague); gastar materiais imortais estocados (unlimited qi sea);
+  gastar seres vivos de alto rank (soul explosion, mais de dez soul beasts imemoriais);
+  e o limite de usos por vida (**nine spiritual transformations: nove usos na vida inteira**).
+  (caps. 1995, 1997, 2019, 2050, 2065, 2103, 2180)
+- **Golpes ficam obsoletos e conhecidos**: um golpe usado muitas vezes passa a ser conhecido
+  de todos e um observador atento cria a contramedida em poucas trocas; um golpe criado há
+  trezentos mil anos já é "ultrapassado aos olhos dos veneráveis". Por isso golpes de topo
+  são guardados como trunfos e o uso prematuro é considerado desperdício. (caps. 2042,
+  2180, 2227, 2281)
+
+### 4. Quando dois golpes colidem
+
+- **Nenhum golpe é invencível** — a obra afirma isso literalmente, e exemplifica com um
+  golpe rank 9 que simplesmente não teve efeito algum dentro de certo terreno. (cap. 2194)
+- Contra-golpes são desenhados de propósito: soft gold crashing pillar foi criado só para
+  furar reverse flow protection seal; scenic portrait foi modificado por dois veneráveis
+  com o mesmo fim; all life is bitter e suffering loss is a blessing foram criados para
+  anular os golpes de food path de um venerável específico. (caps. 2083, 2204, 2280)
+- **Três abordagens canônicas contra um golpe defensivo forte** (todas usadas contra
+  reverse flow protection seal): (a) atacá-lo pelo **caminho em que o dono tem attainment
+  zero** — um selo que reflete tudo não sabe refletir o que seu criador não entende;
+  (b) **consumi-lo** por desgaste, atacando até esgotá-lo; (c) **imitar seu princípio** e
+  devolver o reflexo, criando um ciclo em que o golpe volta mais forte a cada ida e volta.
+  (caps. 2204, 2311)
+- **Por que os veneráveis cultivam dois caminhos**: um caminho principal, público e amplamente
+  difundido, e um caminho de especialidade, mantido em segredo absoluto. A vantagem é
+  exatamente esta: o inimigo prepara defesa contra o caminho conhecido e fica desarmado
+  contra o caminho oculto. (cap. 2204)
+- Golpes colidem como massas equivalentes: dois "rios" de golpe que se chocam empurram um
+  ao outro e ambos sofrem dano. Um golpe penetrante perde força progressivamente se o
+  inimigo o obriga a atravessar obstáculos que se agarram a ele e absorvem seus caminhos
+  um a um. (caps. 2051, 2308)
+- Um golpe que **refina os dao marks alheios do próprio corpo** (refine self) anula o golpe
+  encadeado seguinte do inimigo, porque apaga os dao marks que o primeiro golpe deixou
+  como gancho. (cap. 2215)
+
+### 5. Golpes com secluded domain of heaven and earth como núcleo
+
+- Um golpe cujo núcleo é um **secluded domain of heaven and earth** (Dang Hun Mountain,
+  Luo Po Valley, Reverse Flow River, City Well, Hu Land…) alcança nível **comparável a
+  rank 9** mesmo sem conter nenhum Immortal Gu rank 9 — nesse caso é um golpe **quase-rank 9**.
+  (cap. 2309)
+- Mas nenhum golpe consegue usar um secluded domain por inteiro, **nem nas mãos de um
+  venerável**. A razão é estrutural: um Immortal Gu é vivo e se entrega por completo assim
+  que recebe essência imortal; um secluded domain é **não-vivo**, uma amálgama de
+  incontáveis dao marks empilhados em direções, formatos e entrelaçamentos díspares, e não
+  há como aproveitar todos. Daí existir uma escala de aproveitamento: **elementar**
+  (Luo Po seal), **intermediário** (reverse flow protection seal) e **avançado**
+  (orderly well). (cap. 2136)
+- Um golpe de nível rank 8 aplicado a um alvo de volume rank 9 (um secluded domain
+  completo) perde eficácia continuamente conforme o alvo se aproxima do estado pleno,
+  até ficar desprezível. (cap. 2136)
+
+### 6. Substituições e imitações
+
+- **Um caminho pode imitar outro**: quando um cultivador leva um caminho a certo nível,
+  ele passa a conseguir imitar a força de outros caminhos e alcançar equilíbrio abrangente.
+  Exemplos canônicos: fleeting bloom (wood imitando time), Bai Xiang (ice/snow com força de
+  transformation), stone throw inquiry (earth com efeito de information), flowing water wine
+  party (water imitando food), humanly flame smoke (fire com efeito humano), contented
+  lifestyle (human com efeito de painting), farewell friend wind (wind com efeito humano),
+  salt water liver (water gerando dao marks de food). (cap. 2312)
+- **Faltando um Immortal Gu de um caminho, uma massa de Gu mortais desse caminho pode
+  substituí-lo** no golpe — o núcleo então fica sendo de outro caminho, mas o golpe funciona
+  (é assim que existem mais golpes de dream path que Immortal Gu de dream path na mão de um
+  mesmo cultivador). (cap. 2088)
+- **Qi path tem um traço próprio**: consegue usar **materiais imortais de qi no lugar de Gu
+  worms** para executar golpes. (cap. 2052)
+- **Theft path** usa materiais imortais de theft path como catalisador, e os dao marks
+  roubados **precisam se fixar nesses materiais** — se vierem desordenados, o resultado não
+  tem valor. (cap. 2133)
+- Alguns golpes têm **núcleos insubstituíveis**: os três Immortal Gu de qi de triple qi
+  retraction não admitem troca — refeito com outros Immortal Gu de qi, o golpe perde
+  drasticamente o valor em combate. (cap. 2025)
+- O **rank do golpe acompanha o rank do Immortal Gu núcleo**: elevar o rank do Gu núcleo
+  eleva o golpe (roof tile breaker, wondrous hand profound sound, landscape as before de
+  rank 6 para rank 8). Mas **a maioria dos Immortal Gu tem teto no rank 8** — só uma
+  pequena parte pode chegar a rank 9, porque cada fragmento do Grande Dao tem seu próprio
+  limite, e alguns nem passam do rank 6. (caps. 2136, 2250, 2061)
+
+### 7. Golpes e estruturas
+
+- Uma Immortal Gu House pode ter golpes fixos embutidos; um caso extremo é a Immortal Gu
+  House **sem nenhum Immortal Gu núcleo, cujo núcleo são os próprios golpes imortais**
+  (Peaceful Soil Heavy Mountain Fortress). Nesse arranjo, obter o golpe equivale a obter a
+  casa inteira; cada instância tem aparência e habilidades distintas conforme os Gu usados;
+  e reparar é trivial (basta despejar mais Gu do caminho, que se fundem com estabilidade),
+  ao contrário das casas normais, cuja reparação é como empilhar uma torre de Jenga com Gu
+  específicos em posições específicas, exigindo métodos para não derrubar a estrutura.
+  (caps. 2049, 2050)
+- Golpes com Gu **dentro** da abertura imortal do usuário podem ser amplificados por
+  unrestrained heavenly marks e virar golpes compostos; formações de batalha antigas, Gu
+  formations e Immortal Gu Houses têm seus Gu no **mundo externo** e por isso nada ganham
+  com esse ambiente. (cap. 2107)
+- Um golpe pode ser acoplado tão intimamente a uma Immortal Gu House que passe a parecer um
+  golpe da própria casa, e a casa amplifica sua potência. (cap. 2321)
+- Um golpe pode ser instalado permanentemente sobre um **grotto-heaven inteiro**, moldando
+  a vida de todos os que vivem ali por gerações (soul pacifying, assisting literary talents,
+  contented lifestyle, humanly flame smoke). (caps. 1974, 1976, 1992, 2107)

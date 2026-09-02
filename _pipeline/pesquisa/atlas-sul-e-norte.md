@@ -66,11 +66,20 @@ cada montanha nomeada tende a ter um bioma próprio e às vezes um fenômeno pr�
   cuja fama corre o mundo junto com o *anti-sound desert* do Western Desert: ambas são
   extremamente desfavoráveis a Gu Immortals de sound path. Produz poucos recursos, e por
   isso nunca foi muito útil a ninguém (caps. 1420, 2152).
-- **Rede fluvial dos "rios-dragão"**: três grandes rios nomeados por cores — **yellow dragon
-  river**, **red dragon river** e **jade dragon river**. O jade e o yellow **não se cruzam**;
-  o red cruza com os dois. Visto de cima, o Yellow Dragon river "forma um ziguezague que
-  corre por mais da metade da Southern Border" (caps. 200, 1345). O Yellow Dragon é o 3º
-  maior rio (>8.000 km, cap. 200).
+- **Rede fluvial dos "rios-dragão" — os "três rios da Southern Border"**, tratados no texto
+  como um conjunto canônico ("Southern Border's three rivers were not simple"): **yellow dragon
+  river**, **red dragon river** e **jade dragon river**. O jade e o yellow **não se cruzam**; o
+  red cruza com os dois. Onde o red e o yellow se juntam, formam **um redemoinho enorme com
+  ondas gigantes, extremamente perigoso**. Visto de cima, o Yellow Dragon river "forma um
+  ziguezague que corre por mais da metade da Southern Border"; é o 3º maior rio do mundo
+  (>8.000 km) (caps. 200, 1345).
+  - **Mecanismo econômico dos três rios**: às vezes **se formam spirit springs dentro dos
+    próprios rios**; a nascente se mistura à água corrente e a água fica "cheia de essência
+    natural", o que faz **mais materiais de Gu se formarem** ao longo do curso (cap. 1345).
+    É um sistema fluvial que funciona como esteira de produção de matéria-prima.
+  - **Corpse mountain (montanha-cadáver)**: acidente geográfico característico desses rios —
+    a essência natural da água somada às plantas aquáticas que se enraízam pode converter um
+    cadáver de escala imensa numa montanha permanente dentro do rio (cap. 1345).
 - **Lago/pântano**: a obra usa "swamp" (pântano) genericamente em várias passagens do sul,
   mas **não nomeia um grande pântano da Southern Border** — (ded.) existem, sem topônimo.
 - **Cavernas subterrâneas com fluido**: o **blood pond graveyard** sob a vila Gu Yue — lago
@@ -229,7 +238,9 @@ norte — essa é uma assimetria real da obra, e vale registrar. O que ela tem:
   durar **mais de 10 anos**, enquanto uma tribo média do norte precisa de 3-4 nascentes
   simultâneas (cap. 545). É a base da estabilidade do sistema de clãs sedentários do sul.
 - **Nascentes em rio**: "seja no red dragon river, no yellow dragon river ou no jade dragon
-  river, às vezes se formam spirit springs nesses rios" (cap. 1635).
+  river, às vezes se formam spirit springs nesses rios"; a nascente se dissolve na correnteza e
+  torna a água rica em essência natural, gerando mais materiais de Gu rio abaixo (cap. 1345).
+  É um recurso **em fluxo**, distinto da nascente fixa que sustenta uma vila.
 - **Ouro de refino**: Huang Jin mountain (caps. 241-243).
 - **Pedra-osso e milk springs**: Bai Gu mountain (caps. 214-222).
 - **Rock gambling (aposta em pedras)**: mercado especulativo concentrado em Bai Tou Mountain,
@@ -610,4 +621,128 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
   nascem e morrem, e o ponto mais profundo é **a parte mais fina da fronteira do mundo**
   (caps. 1173-1176, 1859, 1866, 2170-2171). É, em termos de escala cosmológica, **o lugar mais
   importante do mundo — e fica no Northern Plains**.
+
+---
+
+# PARTE III — Comparação, lacunas e notas de terminologia
+
+## Contraste direto Sul × Norte (útil para o atlas)
+
+A obra praticamente **constrói as duas regiões como espelhos** uma da outra. Todo par abaixo
+é canônico, salvo marcação.
+
+| Eixo | Fronteira Sul | Planícies do Norte |
+|---|---|---|
+| Relevo | Cem mil montanhas; floresta e montanha | Planície; pastagens, planícies e outeiros |
+| Navegação | Montanhas dão referência de direção | Sem referências fixas; fácil se perder (bússola de Gu é padrão) |
+| Clima | Úmido, molhado, muitos dias de chuva | Extremo; vento e neve; nevasca decenal |
+| Abrigo | Vilas fortificadas de montanha contra marés de bestas | Sem abrigo topográfico; tribos "sofrem o batismo do vento e da neve" |
+| Assentamento | Sedentário, clãs presos a uma montanha | Nômade, tribos que migram |
+| Spirit springs | **Duráveis** — uma dura 10+ anos | **Jorram forte e secam rápido** — tribo média precisa de 3-4 |
+| Ciclo do desastre | Maré de bestas trienal (local) | Grande nevasca decenal (regional) |
+| Muralha regional | `miasma regional wall` | `(green) licorice regional wall` |
+| Poder relativo | — (não está entre as duas primeiras) | **2ª região mais forte do mundo** |
+| Suserano imortal | Nenhum; treze super clãs em equilíbrio | **Longevity Heaven** acima de todos |
+| Zonas proibidas | Sem lista canônica; categoria informal "montanha famosa e grande rio" | **As dez grandes áreas ferozes**, categoria formal e nomeada |
+| Desolate beast representativa | Phoenix feather lava crocodile | Coiling mountain goat king |
+| Planta-assinatura | `—` (a obra não dá uma) | **Blowpipe grass** |
+| Espécie em extinção documentada | Cloud beasts | Azure wolves |
+| Hidrografia | **Três rios-dragão** (yellow, red, jade), que produzem materiais de Gu | **Nenhum rio comum nomeado** |
+| Recurso estratégico moderno | **Dream realms** (o maior estoque do mundo) | **As áreas ferozes** (última fronteira de recursos não reclamados) |
+| Abertura a estrangeiros | **A menos receptiva das cinco regiões** | Fácil de infiltrar (gestão tribal caótica) |
+| Domínio recluso de soul path | **Dang Hun mountain** | **Luo Po valley** |
+
+## Onde a obra é muda (lacunas honestas)
+
+**Fronteira Sul**
+
+- **Bloco 2 (clima) é fraco**: fora de "úmida, chuvosa" e das marés de bestas, a região não tem
+  nenhum desastre calendarizado nem estações nomeadas. `—`
+- **Bloco 4 (zonas perigosas) é fraco em estrutura** — *verificado por busca direta no
+  texto-fonte*: não existe lista canônica de áreas proibidas do sul equivalente às dez do
+  norte. As ocorrências de "forbidden zone/area" na Southern Border são todas situacionais
+  (a selagem em torno de Yi Tian Mountain), nunca uma categoria geográfica permanente. Só há montanhas perigosas avulsas e a categoria
+  informal "montanha famosa e grande rio".
+- **Flora é quase inexistente**: nenhuma planta-assinatura regional; só cedros e floresta
+  tropical numa única montanha. `—`
+- **Pântanos e lagos não são nomeados**: a região tem "swamp" genérico, mas nenhum grande
+  pântano ou lago com topônimo. `—`
+- **Blessed lands nomeadas são poucas** para uma região que, por inferência textual, tem
+  dezenas delas — a obra só nomeia um punhado. As sedes dos treze super clãs quase nunca são
+  nomeadas como blessed land.
+- **Não há mapa**: a obra dá apenas três âncoras de orientação (Wu Yi a sudoeste, Lin Chi a
+  nordeste, Yi Tian ao centro-oeste) e o traçado do Yellow Dragon river.
+
+**Planícies do Norte**
+
+- **Bloco 3 é assimétrico**: muitíssimos topônimos de nível imortal (blessed lands,
+  grotto-heavens, áreas ferozes), mas **pouquíssimas cidades e nenhuma vila mortal nomeada** —
+  coerente com o nomadismo, mas deixa a camada mortal quase anônima.
+- **As dez áreas ferozes nunca são listadas**: cinco confirmadas por nome, cinco ausentes. `—`
+- **Rios**: o norte **não tem nenhum rio comum nomeado** — *verificado por busca direta no
+  texto-fonte*. O único "rio" nomeado da região (Reverse Flow River) não é um rio, e sim um
+  domínio recluso de céu e terra. Contraste deliberado com os três rios-dragão do sul. `—`
+- **Estações**: fora do ciclo decenal da nevasca, a obra não descreve estações do ano do norte
+  com detalhe. `—`
+- **Geografia interna**: só uma referência de triangulação (o "V irregular" Blood Plain –
+  Iron Eagle – Tai Qiu) e uma de extremo (northern icy plain ao norte). Não há mapa.
+
+**Ambas**
+
+- A obra afirma explicitamente que **nem uma potência regional mapeou a própria região
+  inteira** (cap. 421) — a incompletude geográfica é um fato do mundo, não só do texto. Isso é
+  material de design: um atlas in-universe é necessariamente parcial.
+
+## Armadilhas de leitura (importante para quem escrever o atlas)
+
+1. **"Mini + região" = interior de abertura imortal, não geografia do mundo.** A obra usa
+   *Mini Southern Border*, *Mini Northern Plains*, *Mini Western Desert*, *Mini Eastern Sea*,
+   *Mini Central Continent* e *Mini Blue Heaven* para os cinco/seis setores internos de uma
+   abertura imortal soberana. Lugares como **Triple Sacred Mountain, Heaven Sealing Mountain,
+   Five Light Mountain, Immortal Succession Mountain, Fire Bird Mountain, become dragon mound,
+   bone burial field (versão mini), Star Collection City, Sacred Eagle City, Spirit Spring
+   Forest, Dark Valley, Mountain Cliff City** aparecem nesses setores e **não são geografia do
+   mundo real**. Vários deles foram *transplantados* para lá vindos de outros lugares.
+2. **Nomes homônimos entre regiões**: existe *Inkman City* real (Northern Plains) e uma cópia
+   dentro de *Mini Western Desert*; existe *Earth Trench* em todas as cinco regiões, e a
+   Southern Border tem uma nomeada (Plunder Shadow Earth Trench).
+3. **"Purple Mountain"** tem 588 ocorrências no texto, mas é esmagadoramente um **título de
+   pessoa** ("Purple Mountain True Monarch"), não um lugar. Não incluir no atlas.
+4. **Bai Gu mountain (sul) × Bone Burial Field (norte)**: nomes parecidos em português
+   ("montanha do osso branco" × "campo do enterro dos ossos"), regiões diferentes.
+5. **Sorrowful Wind Mountain Range e Hairy Foot Mountain são do Central Continent**, apesar de
+   aparecerem em buscas gerais.
+
+## Terminologia EN → PT (proposta, a confirmar contra a tradução centralnovel)
+
+Nenhum destes termos foi verificado no site centralnovel nesta pesquisa — são **propostas de
+trabalho**, marcadas `*` onde não há tradução consagrada conhecida.
+
+| Inglês | Proposta PT | Nota |
+|---|---|---|
+| Southern Border | Fronteira Sul | Já em uso no vault |
+| Northern Plains | Planícies do Norte | Já em uso no vault |
+| hundred thousand mountains | as cem mil montanhas | Tradução literal, epíteto da região |
+| regional wall | muralha regional | Já em uso no vault |
+| miasma regional wall | muralha regional de miasma | * |
+| licorice regional wall | muralha regional de alcaçuz | * (*licorice* = alcaçuz) |
+| ten great fierce areas | as dez grandes áreas ferozes | * |
+| poison grassland | pastagem envenenada | * |
+| northern icy plain | planície gelada do norte | * |
+| great blizzard | a grande nevasca | — |
+| beast tide | maré de bestas | Já em uso no vault |
+| beast calamity | calamidade de bestas | Já em uso no vault |
+| spirit spring | nascente espiritual | Já em uso no vault |
+| blessed land | terra abençoada | Já em uso no vault |
+| grotto-heaven | gruta-céu | Já em uso no vault |
+| secluded domain of heaven and earth | domínio recluso de céu e terra | Já em uso no vault |
+| dream realm | reino de sonho | Já em uso no vault |
+| Earth Trench | trincheira terrestre | Já em uso no vault |
+| blowpipe grass | grama-zarabatana | * |
+| snow monster | monstro de neve | * |
+| Longevity Heaven | Céu da Longevidade | * (manter EN se centralnovel não traduzir) |
+| Crazed Demon Cave | Caverna do Demônio Enlouquecido | * |
+| Loose Tail Ridge | Serra da Cauda Solta | * |
+| Flower Forest Forbidden Land | Terra Proibida da Floresta de Flores | * |
+| year essence pool | poço de essência de ano | * |
 

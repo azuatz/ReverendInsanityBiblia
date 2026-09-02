@@ -9,7 +9,7 @@ aliases:
   - Dicionário de Termos
   - EN-PT Glossary
 status: consolidado
-fontes: ["_pipeline/pesquisa/glossario-pt-centralnovel.md", "_pipeline/rascunho/glossario.md", "cap. 1", "cap. 7", "cap. 17", "cap. 19", "cap. 90", "cap. 178", "cap. 187", "cap. 292", "cap. 346", "cap. 383", "cap. 466", "cap. 610", "cap. 821", "cap. 1015", "cap. 1025-1027", "cap. 1092", "cap. 1119-1121", "cap. 1147-1148", "cap. 1301", "cap. 1489", "cap. 1760", "cap. 1966", "cap. 2049", "cap. 2085", "cap. 2131", "cap. 2172", "cap. 2254"]
+fontes: ["_pipeline/pesquisa/glossario-pt-centralnovel.md", "_pipeline/rascunho/glossario.md", "cap. 1", "cap. 7", "cap. 17", "cap. 19", "cap. 90", "cap. 135", "cap. 178", "cap. 181", "cap. 187", "cap. 292", "cap. 346", "cap. 383", "cap. 466", "cap. 492", "cap. 500", "cap. 522", "cap. 538", "cap. 552", "cap. 598", "cap. 610", "cap. 704", "cap. 740", "cap. 821", "cap. 912", "cap. 1015", "cap. 1025-1027", "cap. 1092", "cap. 1119-1121", "cap. 1147-1148", "cap. 1218", "cap. 1301", "cap. 1489", "cap. 1760", "cap. 1965", "cap. 1966", "cap. 2049", "cap. 2085", "cap. 2086", "cap. 2131", "cap. 2172", "cap. 2254", "cap. 2257"]
 conhecimento: misto — a maior parte do vocabulário é de conhecimento comum ou especializado no mundo; os itens marcados com 🔒 são segredo de altíssimo nível, conhecidos por pouquíssimos personagens
 ---
 

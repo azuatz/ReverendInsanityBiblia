@@ -77,6 +77,36 @@ rank 3, o custo anual de existir sobe de cerca de mil e quinhentas pedras para m
 quatrocentas mil. **Ficar mais forte não é um alívio financeiro: é um agravamento de duas
 ordens e meia de grandeza.**
 
+## O que existe abaixo da pedra primordial
+
+Nada. E vale dizer isso com todas as letras, porque é a primeira pergunta que qualquer
+pessoa com experiência de RPG faz, e a resposta contraria a intuição de todo cenário de
+fantasia medieval.
+
+A obra afirma diretamente, duas vezes, que a pedra primordial é **a** moeda do mundo,
+usada para medir o valor de todas as mercadorias. **Não existe moeda de cobre, de prata,
+de ouro nem nada equivalente.** O ouro, aliás, é apenas mais um material de refino: meia
+tonelada dele, uma fortuna pelos padrões terrenos, é aqui um lote de matéria-prima comum.
+
+O que existe são três substitutos parciais, e cada um resolve um problema diferente:
+
+1. **A fração de pedra.** A obra fala naturalmente em "meia pedra", "cinco pedras e meia",
+   "um décimo de pedra". A pedra é fisicamente divisível — ela encolhe conforme é drenada —,
+   e a fração faz o papel do troco. É por isso que não é preciso uma moeda menor.
+2. **O escambo.** Trocar mercadoria por mercadoria é descrito como **prática comum**, "e
+   especialmente numa caravana", sem que ninguém a considere primitiva. No patamar
+   imortal a proporção chega a ser esmagadora: **nove em cada dez transações do grande
+   mercado são escambo puro**.
+3. **O favor.** Dívidas de gratidão, avais de idoneidade e alianças informais circulam como
+   valor, são cobrados e são honrados. Um forasteiro sem histórico não consegue emprego
+   nem entrada em lugar nenhum sem que alguém "responda por ele" — e esse aval é moeda
+   social real, com credor e devedor.
+
+Para os mortais, portanto, a resposta prática é: eles **usam a mesma moeda**, apenas em
+quantidades minúsculas. Um empregado de taverna é pago mensalmente em pedras primordiais;
+uma promoção de chefe da guarda vale meia pedra a mais por mês; uma família inteira vive
+com uma por mês. O mundo não tem duas moedas — tem uma moeda e duas escalas de vida.
+
 ## Preços — o catálogo
 
 ### Comida, bebida, hospedagem e moradia

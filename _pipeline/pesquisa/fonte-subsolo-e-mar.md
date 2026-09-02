@@ -257,3 +257,81 @@ mundo. Jogadores comuns só sabem "a Corte Celestial as distribui/vende" (cap. 4
 o mecanismo real (Yi Qi Zi, manipulação da Vontade Celestial) é lore avançada de
 Volume 6.
 
+## 4. Nascentes espirituais (spirit spring)
+
+**Onde ficam**: dentro de cavernas subterrâneas, em regiões montanhosas ricas em
+essência primeva. Confirmado repetidamente — ver citações do tópico 1 e 3 (Cap. 4,
+Cap. 17 linha 27831 "he had been led by the Bai clan leader as they went through a
+long secret pathway" até a nascente). Vol. 2, linha 3185: "any large mountain is a
+gathering of primeval essence, and thus a spirit spring will be there. But to find the
+spirit spring's specific location, it is not easy and requires a lot of manpower and
+resources." — ou seja, toda montanha grande tem potencial para abrigar uma, mas achar
+o local exato exige uma expedição de busca dedicada (o enredo de várias facções
+disputando terrenos gira em torno disso no Vol. 1-2).
+
+**Quanto produzem por dia**: o texto não dá uma taxa fixa universal — a produção
+escala com o "tamanho" da nascente. Dados concretos encontrados:
+- Uma nascente pequena/artificial (criada por spring egg Gu, rank 5): "at least a
+  hundred million primeval stones from the moment they formed till they disappeared"
+  ao longo de dezenas de anos — Fang Yuan calcula que três delas juntas rendem
+  "at least three hundred million primeval stones and can last for fifty to sixty
+  years" (Cap. 421, Vol. 3).
+- O Heavenly Essence Treasure Lotus, descrito como equivalente a uma "nascente em
+  miniatura" (mini-scale spirit spring), produz "dozens of primeval stones daily"
+  (Vol. 2, linha 8015) — e o próprio texto nota que isso é bem menor que uma nascente
+  natural completa (Vol. 1, linha 25832: "its daily primeval stones production can't
+  compare to a normal spirit spring, but the amount will be enough to sustain my
+  cultivation expenditure").
+- Uma nascente natural grande sustenta um clã inteiro por gerações — o clã Gu Yue
+  usa a sua "for close to a millennium" (quase mil anos, Vol. 1 linha 25826) antes de
+  ela começar a se esgotar.
+
+`(ded.)` Combinando os dois dados acima (uma nascente artificial pequena rende ~100
+milhões de pedras em 50-60 anos, ou seja, ordem de grandeza de alguns milhares de
+pedras por dia), e o fato de que a Heavenly Essence Treasure Lotus — explicitamente
+descrita como MENOR que uma nascente normal — já produz dezenas por dia, uma nascente
+natural "grande" deve produzir de centenas a milhares de pedras por dia. Isso é dedução
+minha combinando números do texto, não uma cifra que a obra declara diretamente.
+
+**Como secam**: o texto trata isso como processo natural de esgotamento por uso
+contínuo ao longo de séculos — não há uma causa mecânica única explicada (tipo "por
+que" uma nascente seca), apenas o fato observado de que elas se esgotam com o tempo e
+uso:
+- Vol. 2, linha 3030: "Bai clan's spirit spring was drying out; they needed to find a
+  new one and relocate their clan."
+- Vol. 2, linha 19124: "As the spirit spring continues to dry up, the primeval stones
+  produced will also decrease sharply."
+- O esgotamento pode também ser causado deliberadamente por um Gu Master que extrai o
+  "coração" da nascente para refinar o Heavenly Essence Treasure Lotus, o que destrói
+  a nascente instantaneamente e por completo (Vol. 1, linha 25824, citada no tópico 3).
+- Nascentes também podem ser destruídas por desastre natural: Vol. 2, linha 21154: "The
+  terrifying hurricane destroyed the spirit spring, and many people in Ju clan died."
+- Perder a nascente é existencialmente grave para um clã: Vol. 2, linha 19107:
+  "Spirit spring was the foundation of a clan, there was no need to mention its
+  importance. If the clan lost the spirit spring, no matter how strong it was, it
+  would only be rootless weed [erva sem raiz]."
+
+**Efeito ambiental além de moeda**: nascentes espirituais também adensam a energia
+primeva (primeval energy) ao redor, o que atrai feras e Gu selvagens — tornando a área
+ao redor de uma nascente perigosa e disputada:
+- Vol. 2, linha 3627: "the primeval energy around the spirit spring is very dense, so
+  there will definitely be beasts pack or formidable wild Gu worms living near it. To
+  establish the village, the very first exploration group will have to go through
+  intense battles."
+- Dentro de uma Blessed Land (terra abençoada, espaço de bolso dos Gu Immortals),
+  nascentes espirituais cumprem a mesma função em escala ampliada: "Sufficient spirit
+  springs meant the primeval energy in the blessed land would be thicker and be
+  beneficial to the cultivation and nurturing of Gu worms. Conversely, if there were
+  no spirit springs, the primeval energy in the blessed land would be created by
+  diluting the immortal essence." (Vol. 3, linha 2565-2567) — ou seja, sem nascente,
+  um Gu Immortal precisa "gastar" sua própria essência imortal (mais cara) para
+  substituir a energia que a nascente forneceria de graça.
+
+> [!note] Para o design
+> A nascente espiritual é essencialmente o "poço de petróleo" ou "mina de ouro" do
+> mundo de Reverend Insanity: é território, é moeda, é motivo de guerra entre clãs, e
+> some com o tempo. Um sistema de jogo pode usar isso literalmente como recurso
+> territorial controlável — clãs pequenos vivem e morrem pela posse de uma nascente,
+> e comprar/plantar uma nova (via spring egg Gu) é uma operação de altíssimo custo
+> reservada a Gu Immortals.
+

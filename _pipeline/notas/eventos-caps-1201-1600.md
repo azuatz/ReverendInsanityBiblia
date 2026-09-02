@@ -735,6 +735,60 @@ pode reaproveitar como formatos de cenário:
 > dos imortais. Coloque a mesa nos dois lados: a sessão em que eles cavam ouro no abismo é a mesma em
 > que a vila deles deixou de existir.
 
+### A expedição ao River of Time e a herança de Red Lotus — caps. 1427-1435
+
+- **Tipo:** expedição a um lugar impossível + herança de Venerável com perseguição em cima.
+- **Onde:** o **River of Time** (Rio do Tempo), acessado por **afluentes** que afloram em pontos
+  específicos do mundo — no cânone, dentro de uma caverna de dissolução natural, sob um deserto sem
+  nome, onde a areia se misturou com ouro e formou rochas douradas brilhantes (cap. 1430). Um
+  afluente é um bem estratégico: quem controla um pode, por exemplo, capturar **year Gu selvagens**
+  e virar um dos maiores fornecedores do mundo (cap. 1452).
+- **O que é:** o rio do próprio tempo. Entrar nele é a única forma conhecida de viajar ao passado — e
+  é o meio pelo qual o Gu que permite renascer funciona. Sair vivo é notável: um imortal que
+  conseguiu é descrito emergindo "como um afogado, mal conseguindo rastejar até a margem, ofegante e
+  encharcado até os ossos" — e precisou de uma Gu formation montada por aliados na margem para ser
+  puxado para fora (cap. 1301).
+- **Geografia por trechos (a estrutura de masmorra):** o rio **não é uniforme**; ele tem *segmentos*,
+  cada um com um perigo próprio, e atravessar a herança exige passar por todos em ordem (cap. 1431):
+  1. **Sudden spring segment (trecho das fontes súbitas):** jatos irrompem do rio sem aviso. Ser
+     atingido **grava uma quantidade enorme de time path dao marks** no alvo — ferimento grave,
+     morte, ou **perda de lifespan**. A potência varia: a maioria equivale a golpe imortal de rank 8,
+     algumas a rank 7, e o texto registra **uma de poder rank 9** — "uma cachoeira gigante correndo
+     para cima, na direção do céu". Aqui, "além da força, depende-se da própria **sorte**". O trecho
+     é **longo**, então usar um golpe defensivo o tempo todo drena a essência imortal e deixa o
+     viajante fraco para o que vem depois (cap. 1431).
+  2. **Dark web spiders** e **one finger flow sharks** — fauna do rio (cap. 1431).
+  3. **Blade river segment (trecho das lâminas):** um trecho **permanentemente contaminado por uma
+     batalha antiga** entre dois grandes especialistas rank 8 de sword path e blade path. Qi de
+     espada e luz de lâmina permeiam a água, e **golpes imortais dos dois mortos ainda disparam
+     sozinhos, sem aviso**. É mais perigoso que o trecho anterior justamente porque as fontes
+     súbitas ao menos têm um processo de erupção visível — as lâminas não têm (cap. 1432).
+     Regra de mundo: **batalhas deixam cicatriz permanente até no tempo.**
+- **Regras adicionais:** métodos de cura de outros caminhos são **restritos** dentro do rio; quem não
+  tem cura de time path não conserta nada lá dentro (cap. 1431). Existe um Gu Imortal de rank 8 cujo
+  dono é reconhecido como "a pessoa mais habilidosa em lutar dentro do River of Time nos últimos dez
+  mil anos" — ou seja, **lutar no rio é uma especialidade rara e reconhecida** (cap. 1431).
+- **O prêmio:** a **true inheritance (herança verdadeira)** de um dos Veneráveis, deixada num lótus
+  dentro do rio. Ela dá acesso a uma vontade com que se conversa, permite **observar o passado e o
+  futuro**, e concede a capacidade de **manipular o segmento de rio próximo** — e a obra revela que
+  o trecho das lâminas foi **escolhido de propósito** pelo Venerável como defesa da herança
+  (caps. 1301, 1433).
+- **Escala e forças:** um punhado de imortais entrando; e, atrás deles, uma força de perseguição que
+  **espera do lado de fora** porque não consegue passar por uma barreira de dream realms flutuantes
+   — os perseguidores calculam que "os dream realms se movem o tempo todo; logo vai abrir uma brecha
+  na defesa" (cap. 1431). Ótima cena: um cerco em que ambos os lados olham para um obstáculo e
+  contam o tempo.
+- **Papel possível de um grupo pequeno:** é uma **masmorra linear com relógio e perseguidores**, e
+  cada trecho tem uma regra diferente. Um grupo rank 6-7 pode fazer a travessia inteira montado numa
+  fera imemorial contratada (que serve de escudo vivo e vai se ferindo), gerindo essência imortal
+  como recurso escasso — sabendo que gastar demais no primeiro trecho é perder o terceiro.
+- **Consequência para o mundo:** uma herança de Venerável muda de mãos; e a existência de afluentes
+  acessíveis vira informação estratégica cobiçada.
+- **Cuidado de spoiler:** quem entra, quem morre, quem fica com a herança, e o que a vontade do
+  Venerável revela.
+- **Lacunas:** quantos segmentos existem ao todo; como um afluente se forma; se dá para navegar o
+  rio sem um objetivo de herança.
+
 ---
 
 ## Eventos recorrentes e institucionais

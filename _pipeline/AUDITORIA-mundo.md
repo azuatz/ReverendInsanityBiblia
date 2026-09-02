@@ -51,6 +51,11 @@ interior** de cada parede, que a obra descreve com riqueza (cap. 710).
 
 ### 🟠 SÉRIAS
 
+**L9 — O Atlas afirmava que a Fronteira Sul não tem estações do ano.** `severidade: média` —
+**corrigido.** A obra descreve estação chuvosa e inverno na região e mostra os dois produzindo
+materiais de refino diferentes no mesmo lugar (cap. 2098). O silêncio real é mais estreito: não há
+calendário agrícola.
+
 **L5 — Ninguém explica que as paredes regionais se tocam.** `severidade: média`
 Cap. 710: saindo da parede santa entra-se direto na parede alcaçuz. Cap. 1045: da parede de
 miasma direto para a de água azul. Cap. 1211 idem. Consequência que muda o mapa: **não existe
@@ -109,6 +114,16 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
 - **Acrescentado** (L6): a espessura medida em passos, a regeneração durante a escavação e os
   pontos fracos localizáveis por dedução.
 - `fontes` do frontmatter atualizado com caps. 1044, 1045, 1211, 1258.
+
+### `05 - Atlas das Cinco Regiões.md`
+- **Preenchida uma lacuna que o próprio atlas declarava** (L9, abaixo): o bloco de clima da
+  Fronteira Sul dizia que a região não tem estações. Ela tem — a obra registra **estação chuvosa e
+  inverno distintos** (cap. 2098), e registra a neblina como estado permanente, não evento. O que
+  de fato falta é o **calendário agrícola** (meses de plantio e colheita), e a lista de silêncios do
+  fim da nota foi corrigida para dizer isso em vez de negar as estações.
+- **Acrescentado um `[!example]`** com o caso mais concreto de estação mudando recurso: uma montanha
+  de lama do sul que produz um material de refino na estação chuvosa e outro no inverno.
+- `fontes` atualizado com cap. 2098.
 
 ## Notas novas criadas
 

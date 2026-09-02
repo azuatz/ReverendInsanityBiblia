@@ -220,4 +220,237 @@ dia o que uma família inteira gasta por mês.
 
 ## O que foi corrigido
 
-_(preenchido conforme cada arquivo é editado)_
+### `01 - Visão Geral dos Gu.md`
+
+- **Regra 6 reescrita.** Deixou de dizer que o teto de arsenal é "não por regra arbitrária,
+  mas por economia" e passou a enunciar os **dois** tetos independentes (econômico e físico)
+  e o número canônico de três a cinco Gu.
+- **Três regras novas** (numeradas 14, 15 e 16; a antiga 14 virou 17): o Gu acima do nível
+  como "martelo grande demais"; refinar/usar/alimentar como três ofícios com exigências
+  próprias em cada eixo; e a fraude como fato estrutural do mercado.
+- **"O que todo personagem sabe"** ganhou a linha sobre Gu falsificados e adulterados e
+  sobre a única defesa disponível (comprar cru e refinar você mesmo).
+- **"Mapa desta pasta"** e frontmatter atualizados com as duas notas novas e os capítulos
+  novos.
+
+### `02 - O que é um Gu.md`
+
+- **Nova subseção "O martelo grande demais"**, dentro de "Escala de 1 a 9", substituindo a
+  frase vaga *"um Gu acima do seu simplesmente não é manejável"*. Enumera os quatro custos
+  canônicos (comida, acionamento, controle, **ferimento no usuário**) mais o quinto efeito
+  de posse (pressão sobre a abertura), e trata também o caso simétrico do Gu abaixo do
+  nível.
+- **"Regras e limites"** ganhou a regra de que qualidade varia dentro de um mesmo nível,
+  com ponteiro para a nota nova.
+- A conta que "obriga a formar grupo" foi corrigida de "dois ou três Gu / veterano de nível
+  5 com sete slots" para o número canônico (três a cinco; sete é exceção declarada) — e
+  reformulada para dizer que o lobo solitário viável é o **mais rico**, não o mais forte,
+  porque o teto é de sustento.
+
+### `03 - Usar e Alimentar Gu.md`
+
+- **Nova seção de abertura "Os três ofícios: alimentar, usar, refinar"**, com tabela e com
+  a subseção **"Cada Gu pode ter uma exigência especial — em qualquer um dos três eixos"**:
+  requisitos morais de refino (e a sanção de morte do Gu), requisitos de estado no uso,
+  restrição de raça, imobilidade posicional, e o Gu que empilha os três.
+- **Seção "O teto: quantos Gu se carrega" corrigida**: passou a declarar os dois tetos, a
+  trazer o número canônico ("três a cinco") como linha destacada da tabela, e a tabela foi
+  reescrita por perfil real em vez de por rank.
+- **Nova âncora econômica**: a conta completa que a obra faz (0,4 + 0,5 pedra/dia para dois
+  Gu de nível 1) e o callout com a comparação decisiva — família mortal de três pessoas vive
+  com **uma pedra por mês**; o Mestre iniciante gasta isso **por dia**.
+- Tabela do grupo mínimo refeita com os números novos; frontmatter e relações atualizados.
+
+### `05 - Refino de Gu.md`
+
+- **Teto da técnica da aura superior**, que faltava: esmagadora contra níveis 1–4, *menor*
+  contra o nível 5, **nula** contra outro do nível 6 — com a analogia sociológica da obra.
+- **Nova linha na tabela de dificuldade de refino**: requisito moral/pessoal não cumprido =
+  o refino falha **e o Gu morre na hora**.
+- Frontmatter atualizado.
+
+### `06 - Fusão de Gu.md`
+
+- **Nova seção "De onde vêm as receitas"**, em quatro camadas: a dieta como pista (o
+  princípio que liga alimentar e refinar); humanos comuns como fábrica de receitas do mundo;
+  receitas que melhoram e receitas que morrem por material extinto (com o caso do caminho
+  inteiro empobrecido pela perda do acervo); e o ciclo receitas → materiais cultivados →
+  prosperidade do caminho. Com callout de design.
+- **Segunda defesa anticópia acrescentada** ao lado da fabricação "de cima para baixo": a
+  adulteração deliberada do produto, com o teto (grão-mestre) e a contramedida canônica
+  (**cinco mil exemplares vencem a ofuscação**).
+- **Nova seção "A receita adulterada como arma de negociação"**: por que coagir quem tem
+  uma receita é irracional, e por que a resposta documentada foram presentes e propostas de
+  casamento.
+- Subtítulo "Como circulam, e o que pode dar errado" acrescentado para organizar a metade
+  já existente. Frontmatter e relações atualizados.
+
+### `09 - A Morte dos Gu.md`
+
+- **Nova causa de morte (nº 9)**: o Gu falso que funciona e depois se autodetona, e o Gu
+  adulterado que trai o dono e precisa ser abandonado. A antiga nº 9 virou nº 10.
+- Relações e frontmatter atualizados.
+
+### `10 - Espólio de Gu.md`
+
+- Relações: ponteiro para as duas notas novas — Gu alojados no corpo se perdem com o corpo,
+  e comprar errado é a outra forma de perder patrimônio sem combate.
+
+### `12 - Gu Imortais.md`
+
+- **Nova extensão da regra de unicidade**: o Gu-caixa que copia qualquer Gu Imortal do
+  mundo (e cuja cópia é sempre mais fraca), mais a existência canônica de uma técnica de
+  fabricar Gu Imortais falsos. É a única brecha da unicidade e faltava por completo.
+- Relações e frontmatter atualizados.
+
+## Notas novas criadas
+
+### `13 - Onde um Gu Mora.md`
+
+**Posição de leitura sugerida: 4ª da pasta**, logo depois de "Usar e Alimentar Gu" e antes
+de "Gu Vital". Justificativa: é informação de base — a leitora precisa saber onde os bichos
+ficam antes de ler sobre o vínculo do Gu Vital, sobre morte de Gu ou sobre espólio, e três
+notas posteriores passaram a apontar para ela.
+
+Cobre: as três moradas (abertura, corpo, recipiente) com tabela comparativa; a fragilidade
+física que obriga a guardar bem; o Gu como tatuagem, com os sete casos documentados e o Gu
+que **vira** um órgão; as consequências de a marca ser pública e de morrer com a carne; o
+inventário literal de um depósito de Gu de clã e como ele opera; a caixa de madeira como
+embalagem de transação imortal; a quarta morada rara (o objeto); **o teto físico da
+abertura** com o caso que separa limpo os dois limites; a **pressão** que rompe aberturas,
+com cinco registros e a exceção da abertura fabricada; a tabela de fatores de capacidade,
+fechando explicitamente que a obra nunca dá um número de vagas; a aura que vaza e denuncia;
+esconder Gu em pedra como espionagem; e os Gu que não podem ser movidos.
+
+### `14 - Qualidade e Fraude.md`
+
+**Posição de leitura sugerida: 11ª da pasta**, entre "A Morte dos Gu" e "Espólio de Gu".
+Justificativa: as três notas formam um bloco temático — as três maneiras de perder
+patrimônio (o Gu morre, o Gu é comprado errado, o Gu é tomado) —, e a nota depende de
+conceitos de refino e fusão já explicados antes.
+
+Cobre, em duas metades. **Qualidade:** qualidade é da espécie e não do exemplar; os dois
+eixos (potência × consumo) com o teste prático canônico do "um nível abaixo consegue
+acionar"; a escala de consumo dentro do nível como defeito catalogado; procedência; tabela
+dos quatro estados que degradam um exemplar; qualidade do material e rendimento (cem Gu de
+uma perna; três dias de processamento contra uma hora de refino; o método errado queima
+marcas); e o nível 2 como calibre de produção em massa. **Fraude:** o regime de
+não-garantia em todos os patamares; as oito modalidades (fraude tosca, adulteração,
+adulteração-sabotagem, adulteração-backdoor de fábrica, adulteração anticópia,
+falsificação industrial com autodetonação, falsificação de procedência, receita
+falsificada); quem detecta e a partir de que patamar; dez regras enumeradas; e cinco
+ganchos de design.
+
+## Decisões tomadas
+
+1. **Duas notas novas em vez de uma ou de quatro.** Considerei (a) enfiar tudo em seções
+   das notas existentes e (b) abrir quatro notas (armazenamento, capacidade, qualidade,
+   fraude). Descartei (a) porque "onde um Gu mora" e "fraude" são assuntos de porte
+   comparável ao de "A Morte dos Gu", e enfiá-los como subseção os esconderia da barra
+   lateral, que é o currículo da leitora. Descartei (b) porque capacidade e armazenamento
+   respondem à mesma pergunta física, e qualidade e fraude respondem à mesma pergunta de
+   compra — separá-los produziria quatro notas curtas e repetitivas.
+2. **Requisitos de uso ficaram dentro de `03 - Usar e Alimentar Gu`, não em nota própria.**
+   A obra os apresenta como um dos três eixos de "alimentar, usar, refinar", e a nota 03 já
+   é a casa dos outros dois. Uma nota separada "Condições de Uso" quebraria a tríade que a
+   própria obra enuncia. Descartada.
+3. **Não reescrevi a tabela de "quantos Gu" para simplesmente trocar os números.**
+   Preservei as faixas antigas como linhas de perfil e acrescentei a linha canônica ("três
+   a cinco", com sete como exceção declarada) em destaque, porque as faixas antigas
+   descrevem casos reais da obra — só estavam rotuladas como se fossem regra por rank.
+   Alternativa descartada: apagar a tabela e deixar só "três a cinco", o que perderia a
+   progressão de início de carreira que a designer usa para calibrar o grupo.
+4. **Não toquei em `10 - Apendices/02 - Tabelas de Referência Rápida.md`** (é de outro
+   agente) — e confirmei por busca que aquela nota **não** carrega o número de Gu por
+   Mestre, então não há divergência a resolver lá; `03 - Usar e Alimentar Gu` continua
+   sendo a fonte declarada desse número específico. Fica registrado abaixo, para o
+   orquestrador, caso queira migrá-lo.
+5. **"Mutação de Gu" não virou seção.** A varredura no texto mostrou que a obra não tem
+   mecânica geral de mutação de Gu: o que existe é um **Gu chamado Mutation** (nível 8,
+   caminho da transformação) e a mutação de **feras** e de **materiais**. Registrar uma
+   seção de "mutação" daria à leitora a impressão de que existe um sistema onde não existe.
+   Vai para "O que a obra realmente não diz".
+6. **A honestidade do Bamboo Gentleman ficou como dieta.** Cheguei a marcar como erro da
+   nota 03, e o texto me desmentiu: cap. 57 diz literalmente que ele *"is fed honesty as
+   food"*. O que faltava não era corrigir a ficha, era mostrar que aquilo é um dos três
+   eixos de exigência, e não uma esquisitice isolada.
+7. **Não abri nota sobre o mercado de Gu como instituição** (leilões, casas de comércio,
+   preços) — isso é `06 - Economia e Vida`, de outro agente. A nota 14 fica estritamente no
+   que é propriedade **do Gu**: como se avalia um bicho e como se falsifica um bicho.
+
+## Achados que interessam aos catálogos
+
+Não editei nada em `10 - Apendices/`. Levantamentos para quem cuida de lá:
+
+- **Imitation Gu (nível 8, herança de Thieving Heaven)** — já consta em
+  `_pipeline/rascunho/catalogo-gu.md` (linha 1318) mas convém conferir se chegou a
+  `05 - Catálogo de Gu - Imortais.md`: é a **única exceção conhecida à unicidade** e a
+  entrada precisa dizer que a cópia é sempre mais fraca que o original (caps. 2151, 2203,
+  2246).
+- **Smelly Fart Fat Worm / Smelly Fart Gu (nível 1, veneno)** — consta no rascunho como o
+  falso usado por vendedores desonestos para imitar o Black Boar Gu (cap. 2098); a cena
+  original da fraude é o **cap. 44**, e ela dá o **preço de mercado do Black Boar Gu: 600
+  pedras primordiais** (vendido falso por 250). Esse par de números é bom para a coluna de
+  preço do catálogo de mortais e para as tabelas de referência.
+- **Bamboo Gentleman (nível 4)** — a ficha atual do catálogo de mortais está correta, mas
+  falta um dado do cap. 57 que é mecanicamente relevante: se um Mestre que **já mentiu**
+  tentar refiná-lo, o refino falha **e o Gu morre no ato**. Também falta que o exemplar da
+  cena morreu por não ter alimento disponível depois de extraído da pedra.
+- **Sneak attack Gu (nível 2)** — se não estiver no catálogo de mortais, merece entrada:
+  é o caso canônico de "Gu de primeira linha" (poder ofensivo alto **e** consumo tão baixo
+  que um Mestre de nível 1 consegue acioná-lo) e o exemplo que a obra usa para explicar por
+  que o nível 2 é o calibre de produção em massa de um clã (caps. 1501–1502).
+- **Golden breeze Gu (nível 4, caminho do metal, cura)** — a obra o chama explicitamente de
+  "top quality Gu" e registra que, sob supressão regional nas Planícies do Norte, ele rendia
+  como um nível 3 (cap. 428). Bom exemplo de "qualidade" e de supressão regional na mesma
+  ficha. Do mesmo dono vinham golden dragon, golden breeze, golden coat e golden aurora Gu,
+  descritos como "Gu de alta qualidade dentro do caminho do metal" (cap. 379).
+- **Star shoot Gu (nível 3, caminho estelar)** — vale a coluna de observação: foi
+  **adulterado de propósito** por seu criador para impedir engenharia reversa da receita, e
+  a reversão só se tornou possível com cinco mil exemplares (caps. 671, 711).
+- **Iron cabinet Gu** — o cap. 354 dá a história de criação completa da receita (autor,
+  intenção original de "Gu de armazenamento firme", uso derivado em capturas, sinergia com
+  qi flow Gu). Se a entrada existir sem isso, é um bom acréscimo de mecanismo.
+- **Nightmare demonic colt (material imortal)** — cap. 1293: uma perna rende **cem Gu
+  mortais de dream path**; o processamento leva 3 dias e o resto do refino menos de 1 hora.
+  Melhor âncora numérica de rendimento material→Gu que encontrei, útil para
+  `06 - Catálogo de Receitas`.
+- **Conjunto de receitas "inch of time"** (cap. 750): todas as receitas de nível 1 a 5, **já
+  melhoradas** para usar apenas materiais comuns, leiloadas a partir de **22 pedras de
+  essência imortal**. É o único preço de conjunto de receitas que encontrei.
+- Para `07 - Catálogo de Golpes - Mortais` / tabelas: a **escala de intimidação por aura**
+  (cap. 129) — a aura de um Gu de nível 6 é esmagadora contra Gu de níveis 1–4, *menor*
+  contra nível 5, e **nula** contra outro nível 6.
+
+## O que a obra realmente não diz
+
+Ausências verificadas com `grep -i` no texto-fonte, não presumidas.
+
+- **Número de vagas de Gu por nível de abertura.** A obra afirma que a capacidade existe e
+  que cresce com o rank, dá o caso do teto atingido numa abertura de nível 1 e o teto
+  absoluto de um Gu Imortal por abertura mortal — mas **nunca** publica uma tabela de
+  "quantos cabem". Qualquer escada de slots por rank seria invenção nossa.
+- **Limiar de "forte demais" na pressão sobre a abertura.** Sabe-se que um Gu de nível
+  muito superior pressiona e pode romper; não se sabe a partir de qual diferença de níveis
+  isso começa, nem em quanto tempo.
+- **Mecânica geral de mutação de Gu.** Não existe. Há um Gu chamado Mutation (nível 8) e há
+  mutação de feras e de materiais, mas nenhum sistema de "um Gu sofre mutação e vira outro".
+  O mais próximo é a regra de que **variantes contam como Gu distintos**.
+- **Velhice de Gu.** A obra documenta desgaste por uso repetido (Gu reutilizáveis perdem
+  qualidade, Gu de um golpe "começam a se desgastar" no meio do combate) e morte por fome,
+  ferimento e falha — mas **não** afirma que um Gu bem alimentado e pouco usado morra de
+  velhice.
+- **Uma escala de graus de qualidade por exemplar.** O mundo tem graus para as **pedras de
+  aposta** (sucata / baixo / médio / alto / super) e adjetivos para Gu ("primeira linha",
+  "alta qualidade"), mas **não** um sistema de graus aplicado a exemplares individuais de um
+  mesmo Gu — a obra diz o contrário, que exemplares em série são praticamente idênticos.
+- **Percentual de perda por usar um Gu acima do próprio nível.** A obra descreve as quatro
+  consequências qualitativamente (comida, essência, controle, ferimento) e nunca as
+  quantifica.
+- **Como exatamente se detecta um Gu adulterado.** Sabe-se o patamar necessário
+  (grão-mestre do refino para reverter; veneráveis detectam por familiaridade com o caminho
+  do refino) e sabe-se o que **não** funciona (a luz de tesouro do maior mercado do mundo).
+  O procedimento em si nunca é descrito.
+- **Se a categoria "Gu que mora num objeto" é formal.** Registrada uma única vez, sem
+  nome e sem generalização. Continua sendo o único mecanismo conhecido pelo qual um Gu
+  sobrevive à morte do dono sem virar órfão.

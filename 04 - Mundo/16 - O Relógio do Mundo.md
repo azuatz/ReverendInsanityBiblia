@@ -11,7 +11,7 @@ aliases:
   - Estações
   - Sol e Lua
 status: consolidado
-fontes: ["cap. 1", "cap. 3", "cap. 7", "cap. 10", "cap. 18", "cap. 22", "cap. 39", "cap. 41", "cap. 44", "cap. 50", "cap. 63", "cap. 64", "cap. 65", "cap. 71", "cap. 78", "cap. 81", "cap. 90", "cap. 92", "cap. 93", "cap. 109", "cap. 114", "cap. 116", "cap. 117", "cap. 124", "cap. 131", "cap. 189", "cap. 205", "cap. 215", "cap. 245", "cap. 247", "cap. 297", "cap. 328", "cap. 334", "cap. 335", "cap. 388", "cap. 389", "cap. 409", "cap. 416", "cap. 466", "cap. 525", "cap. 559", "cap. 720", "cap. 740", "cap. 831", "cap. 860", "cap. 1028", "cap. 1033", "cap. 1060", "cap. 1451", "cap. 1635", "cap. 1694", "cap. 1886", "cap. 1972", "cap. 1992", "cap. 2098", "cap. 2103", "cap. 2122", "cap. 2169"]
+fontes: ["cap. 1", "cap. 3", "cap. 7", "cap. 10", "cap. 18", "cap. 22", "cap. 39", "cap. 41", "cap. 44", "cap. 50", "cap. 63", "cap. 64", "cap. 65", "cap. 71", "cap. 78", "cap. 81", "cap. 90", "cap. 92", "cap. 93", "cap. 109", "cap. 114", "cap. 116", "cap. 117", "cap. 124", "cap. 131", "cap. 189", "cap. 205", "cap. 215", "cap. 245", "cap. 247", "cap. 297", "cap. 328", "cap. 334", "cap. 335", "cap. 388", "cap. 389", "cap. 409", "cap. 416", "cap. 466", "cap. 525", "cap. 559", "cap. 720", "cap. 740", "cap. 831", "cap. 860", "cap. 1028", "cap. 1033", "cap. 1060", "cap. 1451", "cap. 1635", "cap. 1694", "cap. 1886", "cap. 1972", "cap. 1992", "cap. 2098", "cap. 2103", "cap. 2115", "cap. 2122", "cap. 2169"]
 conhecimento: comum
 ---
 

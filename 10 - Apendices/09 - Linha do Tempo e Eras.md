@@ -11,7 +11,7 @@ aliases:
   - Grande Era
   - Great Era
 status: consolidado
-fontes: ["cap. 383", "cap. 389", "cap. 490", "cap. 518", "cap. 522", "cap. 552", "cap. 558", "cap. 580", "cap. 597-601", "cap. 704", "cap. 722", "cap. 740", "cap. 871", "cap. 879", "cap. 912", "cap. 915", "cap. 921", "cap. 1007", "cap. 1078", "cap. 1191", "cap. 1235", "cap. 1301", "cap. 1408", "cap. 1435", "cap. 1440", "cap. 1866", "cap. 1933", "cap. 1955", "cap. 1966-1969", "cap. 1990", "cap. 2008", "cap. 2049", "cap. 2085", "cap. 2108-2109", "cap. 2121", "cap. 2131", "cap. 2145", "cap. 2170-2172", "cap. 2254"]
+fontes: ["cap. 383", "cap. 389", "cap. 490", "cap. 518", "cap. 522", "cap. 552", "cap. 558", "cap. 580", "cap. 597-601", "cap. 704", "cap. 722", "cap. 740", "cap. 871", "cap. 879", "cap. 912", "cap. 915", "cap. 921", "cap. 1007", "cap. 1078", "cap. 1191", "cap. 1235", "cap. 1301", "cap. 1408", "cap. 1435", "cap. 1440", "cap. 1866", "cap. 1933", "cap. 1955", "cap. 1966-1969", "cap. 1990", "cap. 2008", "cap. 2049", "cap. 2085", "cap. 2108-2109", "cap. 2121", "cap. 2131", "cap. 2145", "cap. 2170-2172", "cap. 2254", "cap. 135", "cap. 181", "cap. 464", "cap. 522", "cap. 552", "cap. 568", "cap. 598", "cap. 653", "cap. 695", "cap. 704", "cap. 730", "cap. 740", "cap. 871", "cap. 912", "cap. 1005", "cap. 1051", "cap. 1070", "cap. 1073", "cap. 1128", "cap. 1191", "cap. 1249", "cap. 1337", "cap. 1551"]
 conhecimento: misto — a divisão em eras e os nomes dos Veneráveis são conhecimento especializado (qualquer praticante instruído sabe); a mecânica profunda da Grande Era e a origem da fronteira do mundo são segredo de altíssimo nível
 ---
 
@@ -463,16 +463,16 @@ regiões o clã venceu desde sempre e nunca foi seriamente ameaçado.
 
 Para consulta rápida: em que era ambientar, e o que existe lá.
 
-| Era | Marca estrutural | O que nasce | Veneráveis | Quantos |
-|---|---|---|---|---|
-| **Antiguidade Imemorial** | Nove céus revezando-se; céu e terra contínuos; variantes dominam | O cultivo por Gu; o mito fundador | — | 0 |
-| **Antiguidade Remota** | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; a instituição de topo | Primordial Origin; Star Constellation | 2 |
-| **Antiguidade Antiga** | Três Veneráveis demoníacos; extinções | Caminhos da força, transformação, roubo e regra; a primeira Casa de Gu Imortal | Reckless Savage; Thieving Heaven; Limitless | 3 |
-| **Antiguidade Medieval** | A fronteira do mundo é perfurada pela obra de Limitless | Caminhos da sorte, da madeira e da água; o mercado universal | Giant Sun; Genesis Lotus | 2 |
-| **Antiguidade Tardia** | A Porta da Vida e da Morte enfraquece; surgem zumbis; o caminho da alma é criado e depois contido | Caminho da alma; as ferramentas de ler e ocultar o segredo celeste | Spectral Soul; Paradise Earth; Red Lotus | 3 |
-| **Era atual** | Nenhum Venerável vivo; teto prático no rank 8 | — | Nenhum | 0 |
-| **A Grande Era** | As cinco regiões viram uma; o destino é distribuído | Marés de qi; as Dez Terras; o caminho do céu cultivável | Um novo, previsto pela profecia | — |
-| | | | **Total histórico** | **10** |
+| Era | Quando | Marca estrutural | O que nasce | Veneráveis | Quantos |
+|---|---|---|---|---|---|
+| **Antiguidade Imemorial** | — (não datada) | Nove céus revezando-se; céu e terra contínuos; variantes dominam | O cultivo por Gu; o mito fundador | — | 0 |
+| **Antiguidade Remota** | ~3 milhões de anos | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; a instituição de topo | Primordial Origin; Star Constellation | 2 |
+| **Antiguidade Antiga** | ~1 milhão de anos | Três Veneráveis demoníacos; extinções; clãs superam seitas | Caminhos da força, transformação, roubo e regra; a primeira Casa de Gu Imortal | Reckless Savage; Thieving Heaven; Limitless | 3 |
+| **Antiguidade Medieval** | ~300 mil anos | A fronteira do mundo é perfurada pela obra de Limitless | Caminhos da sorte, da madeira e da água; o mercado universal; a aliança dos zumbis | Giant Sun; Genesis Lotus | 2 |
+| **Antiguidade Tardia** | ~100 mil anos | A Porta da Vida e da Morte enfraquece; surgem zumbis; as seitas vencem os clãs | Caminho da alma; as ferramentas de ler e ocultar o segredo celeste | Spectral Soul; Paradise Earth; Red Lotus | 3 |
+| **Era atual** | dura há ~100 mil anos | Nenhum Venerável vivo; teto prático no rank 8 | — | Nenhum | 0 |
+| **A Grande Era** | durante a obra | As cinco regiões viram uma; o destino é distribuído | Marés de qi; as Dez Terras; o caminho do céu cultivável | Um novo, previsto pela profecia | — |
+| | | | | **Total histórico** | **10** |
 
 A última linha é uma trava de conferência deliberada: se a soma das eras não der
 **dez**, a tabela perdeu alguém. Os dois nomes que historicamente escaparam desta
@@ -492,4 +492,5 @@ que a Medieval aparece com dois, e não com quatro.
 - [[13 - Cosmologia|Cosmologia]] · [[04 - As Cinco Regiões|As Cinco Regiões]] · [[13 - Cosmologia|Os Nove Céus]] · [[13 - Cosmologia|Rio do Tempo]]
 - [[01 - Visão Geral dos Paths|Paths]] — os caminhos citados aqui, com quem os criou
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — as quatro condições para virar Venerável
-- [[01 - Glossário EN-PT|Glossário EN-PT]] — o vocabulário usado nesta nota
+- [[01 - Glossário EN-PT|Glossário EN-PT]] — o vocabulário usado nesta nota, incluindo a tabela com os nomes dos dez Veneráveis
+- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os dez filhos do Ancestral Humano, que são também quem destruiu sete dos nove céus

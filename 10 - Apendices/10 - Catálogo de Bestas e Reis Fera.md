@@ -273,3 +273,269 @@ não adianta.
 > lutar e começar a pensar.
 
 ---
+
+## 4. Bestas desoladas — a fauna de escala imortal
+
+> **Conhecimento: especializado.** Um aldeão sabe que existem "monstros lendários nas
+> terras proibidas". Saber que uma besta desolada tem força de rank 6, que a antiga
+> tem 7 e a imemorial tem 8, e conhecer as espécies pelo nome, é conhecimento de
+> ancião de clã ou de Gu Imortal.
+
+A partir daqui muda tudo. Bestas desoladas quase **não usam golpes assassinos** — o
+diferencial técnico dos cultivadores humanos —, mas em compensação carregam Gu
+selvagens **imprevisíveis** e contramedidas inatas contra ataques comuns. E há um
+detalhe que quebra planos: as habilidades delas vêm de **marcas do Dao gravadas no
+próprio corpo**, o que significa que **matá-las de verdade exige destruir essas
+marcas**. Um golpe que apenas desfaz o corpo pode não bastar.
+
+Economicamente: o corpo de uma besta desolada gira em torno de **quarenta pedras
+imortais**; o de uma desolada antiga, cerca de dez vezes isso. O lucro líquido é bem
+menor do que parece, porque o custo de abater uma consome quase toda a diferença.
+
+### Terrestres
+
+| Criatura | Onde vive | Como é | O que faz em combate | O que se tira dela | Patamar |
+|---|---|---|---|---|---|
+| **Caranguejo-do-pântano** (*swamp crab*) | pântanos; usada como fera de guerra emprestada | **grande como uma montanha** | avança **sem parar um passo**; bandos inteiros que arranham suas pernas viram pasta de carne; ataques explodem no casco "como fogos de artifício" | carapaça `*` | desolada |
+| **Urso-diamante** (*diamond bear*) | raro nas cinco regiões | **corpo transparente, como feito de diamante**, forma de urso, **tamanho de um mamute** | os Gu selvagens dele **anulam especificamente o caminho da força** — quebrou a perna de um gigante fantasma de força | terra-diamante do território; matá-lo custa caro demais para valer | desolada |
+| **Urso voador** (*flying bear*) | guardião do centésimo round do quinto andar de uma torre de provações | urso alado | mesmo o **fantasma** dele, com metade da força do corpo verdadeiro, foi o adversário mais forte que um líder de tribo já encontrara | — | desolada |
+| **Macaco divino da cascata de gelo** (*icefall divine ape*) | montanhas nevadas | sombra enorme, presas afiadas | **avalia antes de atacar**: diante de dezenas de milhares de fantasmas de força, contraiu os músculos e **escolheu esperar** | — | desolada, **rank 7** |
+| **Leão de jade amarelo** (*yellow jade lion*) | — | leão de jade | natureza **corajosa**: ferido quase de morte, ainda tenta abrir os olhos e rosnar para continuar | corpo vendável; sangue drenado por rituais | desolada |
+| **Javali de presas afiadas** (*sharp tusk boar*) | mantido preso numa casa-prisão de Gu Imortal e **solto como arma** | javali colossal | destruir um pomar inteiro é "como pisar num jardim"; as presas quebram em choque contra rank 7+ | presas | **antiga, rank 7** |
+| **Dragão de rocha** (*rock dragon*) | **nasce quando um raio atinge um cemitério** | dragão de pedra | — | os **olhos** são material imortal de **rank 7** | antiga |
+| **Dragão-espada** (*sword dragon*) | terras saturadas de caminho da espada | dragão prateado de **duas garras** | — | base da transformação "dragão-espada": escama, chifre, garra e olho de dragão | desolada |
+| **Dragão maligno** (*evil dragon*) | um exemplar **preso e vigiado** numa caverna do Continente Central | — | serve de aferidor de poder: "nem o dragão maligno escapou deste golpe" | — | desolada |
+| **Crocodilo-dragão** (*dragon crocodile*) | desertos e ermos; em bandos | crocodilo enorme | **escala as nuvens e voa** direto para cima; **cospe torrente de chamas**; ruge em ondas sonoras que se espalham por quilômetros | — | desolada; há **imemoriais** |
+| **Lobo celeste noturno** (*night heavenly wolf*) | ermos de escala imortal | lobo | matilhas de **mais de dez mil** | — | **cada indivíduo é uma desolada**; os reis são **antigas**; e há um **imperador de rank 8** |
+| **Raposa-espírito-fantasma** (*ghost spirit fox*) | mesmos ermos | — | anda em bandos | — | desolada |
+| **Iaque-castanha** (*chestnut yak*) | — | iaque | **natureza mansa** — o que a obra registra como incomum para uma desolada | **a carne tem gosto de castanha e pode ser comida crua**; vale um par de asas de morcego desolado mais um golpe mortal | desolada |
+| **Pangolim dourado** (*golden pangolin*) | — | pangolim de armadura dourada | — | **a armadura** é o produto; esfarrapada, derruba muito o preço do cadáver | desolada |
+| **Leão alado fantasma de garra verde** (*green claw ghost winged lion*) | adormecido sob uma formação de Gu, como prêmio de herança | **do tamanho de uma colina** | golpes mortais passam por ele **"como uma brisa inofensiva"** | quem herda e tem essência imortal suficiente **o subjuga e fica com ele**; quem não tem, morre | **imemorial** |
+| **Formiga-exército** (*army ant*) | criada, não nascida | marcas naturais no corpo **parecidas com caracteres de escrita humana** | poucas servem de treino; muitas formam uma **maré de formigas** | serve à escravização e **resolve boa parte do problema de alimentação** do caminho | com número suficiente, um só cultivador enfrentava um grupo de imortais **rank 8** |
+
+**A formiga-exército não é fauna: é engenharia.** A obra afirma que ela **não foi
+produzida pela natureza**, e sim **criada por grandes especialistas Gu Imortais**, como
+os homens-dragão. É a prova de que o bestiário deste mundo tem uma camada artificial:
+alguém, em algum momento, projetou uma espécie para resolver um problema de logística.
+
+### Aéreas
+
+| Criatura | Onde vive | Como é | O que faz em combate | O que se tira dela | Patamar |
+|---|---|---|---|---|---|
+| **Águia de coroa de ferro** (*iron crown eagle*) | picos e territórios patrulhados | asas largas e grossas, garras firmes | **cada pena pode ser disparada como flecha afiada**; garras que esmagam pedregulhos e **rasgam dragões e tigres** | força de águia (vira Gu de força de rank imortal) | desolada, **rank 6** |
+| **Águia-dragão** (*dragon eagle*) | junto de grupos de águias de ferro | aura poderosa | — | — | desolada, rank 6 |
+| **Ave-foice do vento** (*wind scythe bird*) | migra em massa sobre exércitos | bico afiado como espada, **asas curvas e cortantes como foices** | voa rápido demais, deixando pós-imagens; **carrega sem nenhum medo** | — | um golpe em vórtice matou **dezenas de milhares** e ainda não bastou; uma batalha durou uma hora com baixas pesadas dos dois lados |
+| **Ave do piscar** (*blinking bird*) | ao redor de nuvens de sete cores, no céu branco imemorial | pequena | **a besta desolada mais rápida do mundo**: some da vista de um Gu Imortal num piscar | — | detectam instintivamente perigo escondido sob disfarce; **impossíveis de criar em cativeiro**, porque comem poeira flutuante que nem uma abertura imortal produz |
+| **Morcego da ruína** (*ruin bat*) | ermos saturados de caminho do espaço | morcego colossal | carrega **Gu de ocultação**: engoliu três elites de uma vez | asas; o **cadáver de um imemorial é grande o bastante para se entrar dentro dele e explorá-lo** | desolada rank 7; **imemorial rank 8** |
+| **Morcego demônio estelar** (*star demon bat*) | gruta-céu estelar | — | — | as **asas** são o alvo da caça; um par de asas de morcego desolado vale um iaque-castanha inteiro | desolada |
+| **Mosquito-urso** (*bear mosquito*) | Céu Negro | **do tamanho de ursos**, bocas aterrorizantes | **dezenas de milhares atacam de uma vez** | — | **cada um** tem força de besta desolada; três casas de Gu Imortal com rank 8 a bordo mal escaparam |
+| **Abelha-giro amarela** (*yellow gyro bee*) | criada em aberturas imortais do Mar Oriental | abelha amarela | — | **convive com outras espécies de abelha selvagem e ajuda a aumentar o número delas** — é a peça central de uma criação | chega a desolada, mas é rara: um imortal rico tinha só três nesse nível |
+| **Peixe-dragão estelar** (*spinefin star dragonfish*) | **voa no céu noturno** sobre lagos | peixe-dragão de barbatana espinhosa | flutua tranquilamente, sem agressividade aparente | — | desolada |
+
+### Aquáticas
+
+| Criatura | Onde vive | Como é | O que faz em combate | O que se tira dela | Patamar |
+|---|---|---|---|---|---|
+| **Polvo yaksha** (*yaksha octopus*) | fossas oceânicas profundas, em grupo | polvo colossal | um único indivíduo à solta **inviabiliza a extração de petróleo negro de uma fossa inteira** e feriu dois imortais | pode ser **criado em massa** dentro de uma abertura imortal | **antiga**; recompensa oficial de mil pontos para expulsá-lo e dois mil para matá-lo |
+| **Elefante-d'água de andares** (*storey building water elephant*) | Mar Oriental | presas brancas, pele azul, e sobre o dorso um **exoesqueleto de jade azul em forma de prédio** | — | é **mercadoria corrente** entre imortais, trocada por lote | **o número de andares é a idade**: 1 andar = do tamanho de um barco; 6 = desolada; 7 = antiga; 8 = imemorial, raríssima; **9 andares não existe** |
+| **Tartaruga da essência oculta** (*hidden essence turtle*) | onde ela mesma escolheu se esconder | ao amadurecer, **para de se mover para sempre**: cria musgo, petrifica e vira uma **falsa colina** | nada — a defesa é não ser encontrada | imortais de sabedoria a usam para **auxiliar deduções**; há um método que usa o **casco recém-morto** para o mesmo fim | desolada do **caminho da sabedoria**; habilidade inata de escolher um lugar seguro |
+| **Peixe afundado** (*sunken fish*) | fundo do mar, à deriva | pesado; escamas que caem e crescem | não luta: apenas afunda | as **escamas** são material imortal para refinar Beauty Gu | **antiga**, com exemplares **imemoriais**; carrega marcas do Dao de **regra** e **refino** |
+| **Tubarão do fluxo de um dedo** (*one finger flow shark*) | águas de caminho do tempo | **pequeno** — "não subestime este tubarãozinho" | — | — | **imemorial**; imortais comuns nunca ouviram falar dele, mas quase todo imortal de tempo conhece o mnemônico sobre ele |
+| **Peixe-bolha-de-ar** (*air bubble fish*) | mar das bolhas de ar | peixe pequeno | nenhum | criado a partir de ovas compradas em lote — uma leva de ovas rende cerca de **3.000 peixes**, e só **30% delas sobrevivem à incubação** | não é ameaça — é **investimento**: o preço saltou dez vezes quando dois imortais envenenaram o mar deles |
+
+**O ciclo de vida do peixe afundado é um pequeno mecanismo de relojoaria**, e vale
+descrevê-lo inteiro porque é raro a obra dar tanto detalhe. A cada poucos anos ele bate
+a cauda e sobe para respirar. O esforço **faz as escamas se soltarem do corpo**. Depois
+de respirar o bastante, escamas novas crescem, ele fica imóvel de novo e afunda,
+levado pela corrente para longe. Ou seja: a matéria-prima que os imortais querem só
+existe **no instante em que ele respira**, e ele nunca está duas vezes no mesmo lugar.
+Um encontro inteiro cabe aí dentro, sem uma única jogada de ataque.
+
+> [!note] Para o design
+> A tartaruga da essência oculta é o oposto de tudo que um bestiário costuma oferecer:
+> uma criatura de altíssimo poder cuja **única defesa é ser indistinguível da paisagem**.
+> O grupo passou por cima dela três vezes. Ela não é um combate — é uma percepção. E o
+> prêmio por percebê-la também não é combate: é conselho, porque ela ajuda a pensar.
+
+---
+
+## 5. Escala de Venerável — o que quase ninguém sabe que existe
+
+> **Conhecimento: segredo.** Nada nesta seção é sabido pela população, e boa parte
+> dela não é sabida nem pela maioria dos Gu Imortais.
+
+| Criatura | O que é | Por que importa |
+|---|---|---|
+| **Baleia-dragão azul** (*blue dragon whale*) | besta desolada **imemorial** criada por um **Venerável** | ele **despertou uma abertura imortal dentro dela** e gravou um golpe imortal no corpo dela: por isso **não tem predadores nem perigos**. Dentro dela existe um tesouro enorme, e há um método específico para **entrar** nela; mais de dez imortais solitários se juntaram só para procurá-la. A sabedoria dela **não** foi ampliada — ela apenas nada pelo oceano por instinto, sem saber o que carrega |
+| **Bestas estelares** (*star beasts*) | de tamanhos que vão de uma baleia branca a um mosquito, em formas variadíssimas | **cada uma é, no mínimo, desolada imemorial**. As **líderes** têm abertura imortal própria, Gu próprios e **inteligência não inferior à humana** — porque a Venerável da sabedoria as **iluminou de propósito**. Ficam guardadas dentro da abertura imortal dela e são soltas em ondas que ela repõe indefinidamente |
+| **Lobo celeste** (*heavenly wolf*) | besta desolada arquetípica | a linhagem dele, **diluída em um traço**, é o que faz uma espécie comum inteira — o lobo-anil — voar |
+
+> [!note] Para o design
+> As três entradas acima dizem a mesma coisa por três ângulos, e é a ideia mais
+> aproveitável do bestiário inteiro: **no topo da escala, criaturas deixam de ser
+> encontros e viram lugares, ferramentas ou infraestrutura**. Uma baleia é um cofre
+> que nada. Um exército de monstros é o *inventário* de uma pessoa. Uma linhagem é um
+> recurso natural. Se a sua campanha chegar lá, pare de perguntar "como matamos isso?"
+> e comece a perguntar "de quem isso é?".
+
+---
+
+## 6. Montarias, gado e criaturas de trabalho
+
+Nem toda criatura do mundo é um encontro. Estas são infraestrutura, e são o que uma
+mesa usa quando não está lutando.
+
+| Criatura | O que faz | Observação importante |
+|---|---|---|
+| **Sapo de latão do tesouro** (*Treasure Brass Toad*) | montaria de carga de caravana: **2,5 m de altura**, corpo laranja-amarelado, dorso coberto de verrugas e nós como as tachas de bronze de um portão antigo; carrega uma montanha de mercadoria amarrada com cordas grossas | **é um Gu**, não uma besta selvagem — refinado tendo o Mudskin Toad Gu (rank 2) como Gu principal. **Salta cem metros por pulo**, o que anula trilha estreita e íngreme como obstáculo. Caravanas os usam em fila, com versões menores do porte de vacas e cavalos |
+| **Aranha-lobo-da-terra de mil li** (*Thousand Li Earthwolf Spider*) | montaria escavadora de corpo enorme | também **é um Gu**, de **rank 5**, tipo montaria. Cava túneis quilométricos; a mobilidade lendária de um cultivador demoníaco famoso vinha quase toda dela |
+| **Escorpião-de-areia gordo** | gado de família pobre no Deserto Ocidental | criatura ordinária, **não Gu** |
+| **Lobo de barbatana de tubarão** | guarda-costas vivo de um comandante | anfíbio, com a defesa de um rank 4 |
+| **Raposas de criação** (*golden fox*, *red fox*, *cloud fox*, *wind fox*, *autumn fox*, *flowing light fox*) | criação em escala industrial dentro de uma terra abençoada | ver o quadro de reprodução abaixo |
+
+**Reprodução, e por que ela decide tudo em criação de bestas.** Numa mesma terra
+abençoada conviviam cerca de **mil bandos de raposas**, somando **quatro milhões e
+setecentas mil** — os três maiores bandos com uns 800 mil cada. E a diferença entre as
+espécies é brutal: a **raposa dourada** pare a cada **dois meses**, três a quatro
+filhotes por vez; já a **raposa de três caudas**, que é besta desolada, leva **mais de
+cem anos só de gestação**. É a regra econômica silenciosa do cenário: **quanto mais
+forte a criatura, mais devagar ela se repõe** — e é por isso que uma fazenda de bestas
+dentro de um mundo particular, onde o tempo corre acelerado, é um poder estratégico e
+não um passatempo.
+
+---
+
+## 7. Criaturas que a obra só nomeia
+
+Estas aparecem no texto pelo nome, sem descrição de aparência, comportamento ou
+poder. **Estão aqui de propósito**: são a permissão explícita para a designer inventar.
+Tudo que você escrever sobre elas será invenção sua — o que, pela convenção desta nota,
+equivale a marcar com `*` —, mas o **nome** é canônico, e é o nome que faz o cenário
+soar como ele mesmo.
+
+**Mutantes citadas só no ditado:** *lamassu* (a mutação dos tigres, "cinco tigres, um
+lamassu") e *molossus* (a dos cães, "três cães, um molossus"). Aparecem **uma única
+vez** na obra inteira, nessa frase, e nunca mais.
+
+**Lobos:** lobo-de-coroa-relâmpago comum (*thunder crown wolf*), lobo berserk
+(*berserk wolf*), lobo-pêssego (*peach wolf*), lobo-de-areia (*sand wolf*),
+lobo-da-floresta, lobo-de-jade.
+
+**Cães de montanha, pelo nome de raça:** *heavy tai*, *green hua*, *smoke song*,
+*light heng*, *star heng*, *lightning symbol dog*, *chrysanthemum akita dog*.
+
+**Desoladas listadas num inventário de espécimes, sem nada mais:** *moon howling
+heavenly wolf* (lobo celeste que uiva para a lua), *star desolate hound* (cão desolado
+estelar), *golden sand dark stallion* (garanhão negro de areia dourada), *white hoof
+ink horse* (cavalo-tinta de casco branco), *nine palace crane* (grulha dos nove
+palácios), *earth chief desolate beast* (besta desolada chefe da terra), *phoenix
+feather lava crocodile* (crocodilo de lava de pena de fênix).
+
+**Outras citadas de passagem:** águia de cauda-flecha (*arrowtail eagle*, cuja fêmea
+fica **trinta anos gestando um único ovo**), águia de cristal celeste (*heavenly
+crystal eagle*, cujo **ninho** é um cofre que só abre com golpes de caminho do refino),
+cobra venenosa escura (*dark venomous snake*, em bandos crescentes no Céu Negro),
+tigre comum, urso pardo, urso preto, touro verde, cavalo, boi de montanha, veado,
+tartaruga de pedra, píton de rio, píton negra, píton de lava, leopardo escuro,
+leopardo de sombra, sapo de caverna, sapo funerário, carpa azul, carpa dourada,
+mudfish gordo.
+
+> [!question] Lacuna declarada
+> A obra nomeia com folga mais criaturas do que descreve. Nomes soltos como
+> *aurora bird*, *bone bird*, *death bird*, *ice bird*, *snow bat*, *lava bat*,
+> *sea spider*, *web spider*, *crystal spider*, *disc scorpion*, *nether ant*,
+> *corpse ant*, *spear shark*, *treasure shark*, *seashell shark*, *snake lion*,
+> *lightning lion* aparecem uma ou duas vezes cada, sem contexto suficiente para
+> saber sequer se são bestas ou nomes de Gu. Se você precisar de mais fauna, é aqui
+> que o cenário abre espaço.
+
+---
+
+## Resumo do domínio
+
+- A fauna é, ao mesmo tempo, **a maior ameaça cotidiana e a principal fonte de renda**
+  do mundo, porque bestas fortes hospedam os Gu que os cultivadores precisam.
+- Existem **duas escalas independentes**: o **título de rei** (quantos o bicho comanda
+  e que Gu ele guarda) e a **categoria de espécie** (comum → mutante → desolada →
+  antiga → imemorial). Uma besta comum pode ser rei de miríade; uma besta desolada
+  pode andar sozinha.
+- **Bestas mutantes** são o degrau onde um único animal vale um exército: um adulto
+  comum já equivale a um rei de miríade, e a obra mantém uma lista fixa delas.
+- **Bestas de caminho** não têm pais: nascem de marcas do Dao acumuladas num lugar, e
+  por isso **repovoam sozinhas** e servem de indicador geográfico de recurso.
+- **Bestas desoladas** são a fauna de escala imortal, e a regra que as define é que
+  **destruir o corpo não basta**: é preciso destruir as marcas do Dao gravadas nele.
+- No topo, criaturas deixam de funcionar como monstros e viram **lugares, ferramentas
+  ou propriedade de alguém**.
+
+## Regras do mundo (fauna)
+
+1. **O título do rei é a etiqueta de preço do Gu que ele guarda.** Cem/mil/miríade/
+   imperador correspondem a Gu de rank 2/3/4/5.
+2. **O rei costuma ser fisicamente menor que os súditos.** Mirar no maior bicho da
+   manada é mirar errado — com exceções gritantes, como o rei de miríade de
+   lobo-de-carapaça, que é dez vezes maior que os seus.
+3. **Um mutante só vale o que promete se cresceu naturalmente.** Envelhecimento
+   artificial dá aparência de adulto, poder medíocre, apetite treze vezes maior e
+   vida curta.
+4. **Espécies de hábitats muito diferentes não se reconhecem como rivais** — e um
+   estrategista pode forçar o encontro de dois reis que *se* reconhecem para provocar
+   uma guerra entre eles.
+5. **Bando ferido mas ainda numeroso entra em fúria vingativa.** O momento mais
+   perigoso de atacar uma manada é logo depois de ela ter sofrido perdas pesadas.
+6. **Feras com apego ao território abandonam perseguições longas.** É a rota de fuga
+   padrão de quem sabe o que está fazendo.
+7. **Submissão é uma barra separada do dano**, e **um rei subjugado traz consigo
+   cerca de um terço do próprio grupo**, não o grupo inteiro.
+8. **Feras têm inteligência baixa e usam os Gu em padrões repetitivos.** Saber de
+   antemão o que uma espécie carrega é metade da vitória — e é por isso que mapas de
+   caça valem mais que armas.
+9. **A inteligência sobe com o patamar.** Um rei de miríade já supera em muito a
+   espécie; um lycan pensa como gente; as líderes das bestas estelares foram
+   deliberadamente iluminadas e têm Gu próprios.
+10. **Quanto mais forte a criatura, mais devagar ela se reproduz** — de dois meses
+    (raposa dourada) a mais de um século de gestação (raposa de três caudas).
+11. **Não existe besta de rank 9.** O teto da fauna é rank 8, o da desolada imemorial.
+
+## O que todo personagem sabe
+
+Que existem reis-fera e que eles guardam Gu; que a maré de bestas vem em ciclos; que
+caçar é a profissão-base e que o mapa de pele de fera da família é o bem mais
+valioso da casa; que "besta mutante" é palavra de fortuna ou de desastre; que há
+monstros lendários nas terras proibidas, sem saber o nome nem a escala deles.
+
+## O que só o mestre sabe
+
+A escala real das bestas desoladas e a correspondência exata com os ranks imortais;
+que matá-las exige destruir marcas do Dao e não corpos; que espécies inteiras foram
+**fabricadas** por Gu Imortais (a formiga-exército); que existem criaturas criadas por
+Veneráveis com aberturas imortais dentro do corpo; e que, no topo, um "monstro" pode
+ser simplesmente o inventário de alguém.
+
+## Relações
+
+- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o conceito por trás deste
+  catálogo: marés de bestas, economia da caça, ritual de reconhecimento territorial.
+- [[17 - As Plantas e os Bichos Comuns|As Plantas e os Bichos Comuns]] — a flora e a
+  fauna ordinária que não entra num bestiário.
+- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu que estas
+  criaturas hospedam, e os Gu cujos nomes imitam bichos.
+- [[06 - Enslavement Path|Enslavement Path]] — o caminho que transforma tudo que está
+  neste catálogo em exército próprio.
+- [[05 - Refino de Gu|Refino de Gu]] — o que se faz com um Gu selvagem depois de
+  arrancá-lo do corpo da fera.
+- [[12 - Dao Marks|Dao Marks]] — por que bestas desoladas não morrem quando o corpo
+  morre.
+- [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] — onde estas criaturas moram.
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — fonte soberana
+  dos números citados aqui.
+
+Sobre a nomenclatura desta nota.[^1]
+
+[^1]: A obra não usa a expressão "besta Gu": ela fala em **bestas** (*beasts*), que são
+os animais, e em **Gu selvagens** (*wild Gu*), que são os insetos-lei que eles
+hospedam. "Besta Gu" é comodidade de catalogação nossa, herdada de
+[[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]. Os nomes em inglês entre
+parênteses são a forma canônica; as traduções para o português são nossas, feitas
+termo a termo, e servem para leitura fluida — se você for cruzar com a obra ou com a
+comunidade, use sempre o nome em inglês.

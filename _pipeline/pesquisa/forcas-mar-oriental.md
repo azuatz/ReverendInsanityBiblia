@@ -104,7 +104,7 @@ A obra nomeia **três** das dez. As outras sete nunca são listadas.
 
 ### 1.5 As correntes submarinas como rodovia (e como segredo comercial)
 
-**cap. 892** (V4 l. 40913):
+**cap. 894** (V4 l. 40913):
 > "In Eastern Sea, some super forces had **underwater caravans**. These caravans made use of
 > Gu worms to go deep into the sea and use the undercurrents to move rapidly, in a short
 > time, they could travel for ten thousand li, or even a hundred thousand li, to engage in
@@ -230,7 +230,7 @@ Song está entre as dez (cap. 893, l. 40778) e a **Corte Imperial dos Homens-Pei
   treasure yellow heaven was an open market, it was not a private auction location."
   Ou seja: o Leste sustenta um circuito **fechado e privado** de troca imortal, em paralelo ao
   mercado público mundial, e a moeda de topo ali é **tempo de vida**.
-- **Caravanas submarinas** de super forças (cap. 892, l. 40913) — ver §1.5.
+- **Caravanas submarinas** de super forças (cap. 894, l. 40913) — ver §1.5.
 - **Exportação nomeada:** os *blue sea cloud tea bricks* (tijolos de chá de nuvem do mar azul)
   são produzidos no Leste e importados em massa pelo clã Yi da Fronteira Sul, que os revende
   com grande lucro — a relação estreita entre Yi e Leste é a base da relevância daquele clã
@@ -419,10 +419,10 @@ Dentro dele há terras abençoadas de imortais solitários do Leste (cap. 1231, 
 **Onde fica.** A **baleia-dragão azul** (*blue dragon whale*) é uma **besta desolada imemorial**
 que nada pelo Mar Oriental. Paradise Earth Immortal Venerable a subjugou, **despertou a abertura
 imortal dela** e deixou lá dentro a **herança verdadeira de Paradise Earth do Mar Oriental**
-(**cap. 1554**/V5 l. 53052–53064; **cap. 2059**, V6 l. 15811; **cap. 2073**, V6 l. 20821 — "Eastern
+(**cap. 1295**, V5 l. 53052–53064; **cap. 2059**, V6 l. 15811; **cap. 2087**, V6 l. 20821 — "Eastern
 Sea's Paradise Earth true inheritance is in the blue dragon whale").
 
-Traços da besta (cap. 1554, V5 l. 53056–53060):
+Traços da besta (cap. 1295, V5 l. 53056–53060):
 - **Inteligência não foi elevada** — ela só nada por instinto;
 - Paradise Earth deixou um **golpe imortal no corpo dela**, "thus, this blue dragon whale had
   almost **no predators or dangers**";
@@ -910,7 +910,7 @@ air bubble sea, e usar isso como pretexto de apresentação.
   offer part of your blessed land by providing **large amounts of rewards**."
 - **Recrutamento e casta interna:** recruta abertamente **imortais vivos**, mas "these living Gu
   Immortals had **lower statuses** than immortal zombies in most cases" e "**Living Gu Immortals
-  cannot become higher-ups of Zombie Alliance**" (caps. 902 e 907 — a formulação sobre status inferior está em cap. 902, V4 l. 27733, e a regra sobre altos escalões em cap. 907, l. 43050). Entrar é fácil se um membro de
+  cannot become higher-ups of Zombie Alliance**" (caps. 818 e 907 — a formulação sobre status inferior está em cap. 818, V4 l. 27733, e a regra sobre altos escalões em cap. 907, l. 43050). Entrar é fácil se um membro de
   status apadrinha: a inspeção vira formalidade (cap. 907, l. 43048). O novato sai com **um token
   de identidade** e **Gu mortais de caminho da informação** para trocar mensagens com a Aliança
   (cap. 906, l. 43038).
@@ -984,3 +984,61 @@ E as duas patologias que a obra mostra em seguida, igualmente úteis para mesa:
 - **Quem entra por medo, sai por medo**: quando o poder mudou de lado, as super forças do Leste
   trocaram de aliança em bloco (caps. 2217–2251).
 
+
+---
+
+## 5. O que a obra NÃO diz sobre o Mar Oriental (declarado, para a designer)
+
+Verificado com grep no texto-fonte; são ausências, não esquecimentos meus.
+
+1. **Não existe lista fechada de super forças do Leste.** A Fronteira Sul tem treze clãs
+   nomeados (cap. 1610) e o Deserto Ocidental catorze (cap. 2255). Para o Mar Oriental a obra
+   fala em "as dez maiores super forças" (caps. 892, 893) mas **nunca as enumera**. Os nomes
+   que aparecem, somados, são: Song, Shen, Hua, Qing Yue, Tang, Xia, Cai, Ruo Lai, Nan Gong,
+   Su, Xie, Corte Imperial dos Homens-Peixe — mais Ni, Qiu e Ba/Bai como forças menores.
+2. **Sete das dez grandes áreas de mar nunca são nomeadas** (só rainbow, boundless forest e
+   mermen — cap. 892).
+3. **Cai, Ruo Lai, Su e Xie não têm caminho de casa declarado**, nem sede, nem número de
+   imortais. De Cai e Ruo Lai sabemos apenas que cada um tem um rank 8 e que não têm dedutor
+   forte. Do clã Qing Yue sabemos o líder e o herdeiro, mas **não o caminho**.
+4. **O clã Tang do Leste nunca tem o primeiro ancião supremo nomeado**, apesar de ser descrito
+   como equivalente às dez grandes seitas ancestrais.
+5. **A Hai Shi blessed land não tem líder nomeado** — só "os anciãos", e a regra de metade dos
+   votos.
+6. **A obra nunca diz o número total de Gu Imortais do Mar Oriental**, nem quantos rank 8 exatos
+   — só que é a região com mais rank 8 do mundo (cap. 1690) e nomeia oito deles mais os zumbis.
+7. **Não há descrição de vida mortal no Mar Oriental** comparável à que existe da Fronteira Sul:
+   nada sobre academias de clã, justiça, tributos ou cotidiano de Mestre Gu mortal na região.
+   Tudo que a obra mostra do Leste é o andar imortal — com uma exceção, e ela é **dentro do
+   Dragon Whale Paradise** (aldeias de pescadores, cidades de homens-peixe, tribos).
+8. **A religião do Deus do Mar só é descrita dentro do Dragon Whale Paradise.** Nenhuma
+   ocorrência de "sea god" fora dos caps. 1660–1674. Que a Corte Imperial dos Homens-Peixe das
+   cinco regiões pratique a mesma cerimônia é **dedução** — o que é canônico é que ela tem uma
+   **santa com autoridade** (cap. 2143).
+9. **Não há mapa.** A obra dá relações de vizinhança (Xia ↔ Merman/Tang/Xie/Shen) e distâncias em
+   correntes ("quatro correntes e um dia e meio, dez áreas de mar"), mas nunca uma geografia
+   fechada.
+
+---
+
+## 6. Divergências e cuidados
+
+- **Dois clãs Xia e dois clãs Tang.** A obra alerta explicitamente para os dois clãs Xia
+  (cap. 1981). Para o clã Tang o alerta é meu: existe um **clã Tang do Deserto Ocidental**
+  (caminho do sonho, afluente do Rio do Tempo, clã fraco de catorze — caps. 1436–1438, 2255) que
+  **não tem nada a ver** com o clã Tang do Mar Oriental (equivalente às dez grandes seitas). Toda
+  ocorrência de "Tang clan" precisa ser lida com a região no contexto.
+- **Ba clan × Bai clan** no air bubble sea — ver §4.10.
+- **"Merman Sacred Court" × "Merman Imperial Court".** A *Sacred Court* (com a *Sacred City*, a
+  *Frost Tide tribe* e a cerimônia) é a sociedade de homens-peixe **dentro do Dragon Whale
+  Paradise** (cap. 1669: "Inside the blue dragon whale grotto-heaven, the Merman Sacred City"). A
+  *Imperial Court* é a super força real das cinco regiões (caps. 1868, 1979). O narrador chega a
+  chamar a Sacred Court de "Eastern Sea's Merman Sacred Court" (cap. 1663) — o mundo interno da
+  baleia espelha o mundo de fora. Tratei as duas separadamente e disse isso na nota final.
+- **Alinhamento do clã Song.** É caminho correto, mas o clã **negocia com a Zombie Alliance** e
+  aceita dinheiro para encerrar uma ofensa à honra (cap. 907). Não há hipocrisia declarada pela
+  obra; há pragmatismo comercial, que é o tom da região.
+
+---
+
+**Status:** pesquisa concluída. Base da nota final `11 - Forcas e Organizacoes/05 - Mar Oriental.md`.

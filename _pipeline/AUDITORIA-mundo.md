@@ -10,6 +10,31 @@
 
 ## Lacunas encontradas
 
+> Dezesseis lacunas, **todas fechadas**: doze por correção de nota existente e quatro pela criação
+> de quatro notas novas. Índice rápido — o corpo abaixo está agrupado por severidade, não por
+> número. Oito são bloqueadoras 🔴 e oito são sérias 🟠.
+
+| # | Assunto | Severidade | Como fechou |
+|---|---|---|---|
+| L1 | Relógio e calendário do mundo | 🔴 | nota nova `16` |
+| L2 | O mundo parecia não ter sol | 🔴 | seção nova em `13` + ajuste em `01` |
+| L3 | Biosfera ordinária (planta, bicho, lavoura, comida) | 🔴 | nota nova `17` |
+| L4 | Só três das cinco paredes regionais nomeadas | 🔴 | tabela nova em `04` |
+| L5 | As paredes regionais se tocam (travessia dupla) | 🟠 | `04` |
+| L6 | Espessura em passos, regeneração e pontos fracos da parede | 🟠 | `04` |
+| L8 | Os cinco sentidos de "zona proibida" | 🟠 | nota nova `18` |
+| L9 | O Atlas negava as estações da Fronteira Sul | 🟠 | `05` |
+| L10 | Maré de qi tratada como desastre periódico e antigo | 🔴 | `13` |
+| L11 | Efeito mecânico assimétrico da maré de qi | 🟠 | `13` |
+| L12 | Navegação e correntes submarinas | 🟠 | `06` |
+| L13 | O mundo não tem ponte nem balsa | 🟠 | `06` |
+| L14 | O subsolo, fonte do dinheiro do mundo | 🔴 | nota nova `19` |
+| L15 | Trincheiras Terrestres tratadas como fenômeno da Grande Era | 🟠 | `13` |
+| L16 | "As veias do mundo" reduzida a três linhas | 🔴 | `13` |
+| L17 | O que o sol realmente é | 🔴 | `13` |
+
+*(L7 foi renumerada como L12 durante a auditoria; não há lacuna L7 no corpo.)*
+
 ### 🔴 BLOQUEADORES (a designer não consegue rodar uma cena sem isso)
 
 **L1 — O relógio e o calendário do mundo não existem em nota nenhuma.** `severidade: alta`
@@ -310,10 +335,45 @@ pasta" e no texto da sugestão de ordem de leitura, usando os nomes de arquivo a
 
 ## Decisões tomadas
 
+**D0 — Escopo: só o mundo estável.** Os grandes acontecimentos (Grande Era, marés, calamidades,
+aberturas de herança) foram **listados** na seção seguinte para os agentes da pasta
+`08 - Eventos e Cenarios/`, e não receberam nota aqui. Onde um evento é indispensável para explicar
+uma lei do mundo — a maré de qi para entender as paredes regionais, a nevasca decenal para entender
+a economia do norte —, ele aparece como **mecânica de mundo**, nunca como cenário jogável.
+
 **D1 — Corrigir a nota 04 em vez de criar uma nota "Paredes Regionais".** O material novo sobre
 as paredes é grande, mas é o assunto declarado da nota 04, que já tem a escada de conhecimento
 em três degraus e as regras de travessia. Alternativa descartada: nota própria — separaria a
 parede da região que ela envolve e obrigaria a duplicar a escada de conhecimento.
+
+**D2 — O sol vai para Cosmologia, e o calendário vai para nota nova.** Os dois assuntos chegaram
+juntos, mas têm donos diferentes: "existe um sol e os céus são filtros" é **cosmologia** e resolve
+uma ambiguidade que a própria nota 13 criou; "que mês é, que horas são, que tempo faz" é
+**cotidiano** e não tinha casa nenhuma. Separar evita que a nota nova vire um apêndice da
+cosmologia e mantém a nota 13 responsável pela própria confusão. As duas se referenciam.
+
+**D3 — A navegação vai para dentro de "Escala, Distâncias e Viagem", não para nota própria.**
+Barco, corrente submarina e mergulho são **mobilidade**, e a nota 06 já é a nota de mobilidade, com
+a escada completa por rank. Uma nota "Navegação" separada quebraria a escada em duas e obrigaria a
+leitora a comparar velocidades entre dois arquivos. Alternativa descartada: juntar navegação com o
+subsolo numa nota "O Subsolo e as Águas" — descartada porque as duas metades não se explicam
+mutuamente e a nota ficaria com dois assuntos sem tese comum.
+
+**D4 — O subsolo ganha nota própria por causa da nascente, não por causa das cavernas.** O que
+justifica a nota não é a geografia subterrânea (que já estava parcialmente em `13` e `14`), e sim a
+descoberta de que **a caverna com a nascente dentro é o motivo de existir de cada assentamento do
+mundo** — um fato que responde "por que esta vila fica aqui?" e que estava disperso entre a nota de
+economia e nenhuma nota de mundo.
+
+**D5 — A biosfera ordinária ficou separada de "Bestas Gu e Reis Fera" em vez de fundida.** A nota
+07 tem uma tese própria e forte (a fauna como economia e ameaça), e enfiar javali, trigo e ovelha
+dentro dela dissolveria essa tese. As duas passaram a ser lidas em sequência, com a natureza normal
+antes da natureza perigosa.
+
+**D6 — Preços, cardápio e orçamento doméstico ficaram em `06 - Economia e Vida/04 - Vida
+Cotidiana`, que já os cobre.** A nota nova de natureza aponta para lá em vez de duplicar. O que ela
+acrescenta ali é apenas a **regra de mundo** que faltava e que é dela por direito: todo ser vivo
+precisa comer, imortais inclusive.
 
 ## Grandes eventos que encontrei
 
@@ -362,6 +422,33 @@ a descrição de mundo.)*
 - **A fome histórica da capital** (cap. 1992) — citada de passagem, sem causa nem frequência.
   `—` Espaço grande e limpo para a pasta 08 preencher.
 
+## Achados fora do meu escopo (para os donos das outras pastas)
+
+- **`06 - Economia e Vida/04 - Vida Cotidiana.md`** — a seção "Comida" não registra a regra de
+  mundo mais forte do assunto: **"Até Gu Imortais morreriam se não comessem. A menos que tivessem
+  as marcas de dao relevantes do caminho da comida"** (cap. 1032). A única exceção é o zumbi
+  imortal, que não come **porque está morto**, não porque é forte. Registrei a regra em
+  `17 - As Plantas e os Bichos Comuns`, mas ela pertence também à nota de vida cotidiana.
+- **`06 - Economia e Vida`** — existe um **caminho da comida** (*food path*) formal: "um caminho
+  muito secreto, que se especializa em pesquisar como alimentar vermes Gu, humanos variantes, feras
+  selvagens e até humanos" (cap. 671), raro historicamente e ainda mais raro hoje (cap. 936), com
+  formações capazes de manter Gu vivos e hibernando em estruturas antigas. É infraestrutura
+  logística de escala estratégica.
+- **`06 - Economia e Vida` / `02 - Pedras Primordiais`** — o mecanismo real da produção das pedras
+  de essência imortal é revelado no Volume 6 (caps. 2297-2298) como segredo de altíssimo nível: a
+  lei do equilíbrio **não produziria** esse recurso espontaneamente, e produzi-lo exige injetar
+  Vontade do Céu no processo, o que historicamente só foi possível por meios extraordinários. Deixei
+  o resumo em `19 - O Subsolo` com `conhecimento: segredo`; a cadeia econômica completa é da pasta
+  06.
+- **Links quebrados fora da minha pasta** (achados pelo `_pipeline/auditar-links.py` ao final):
+  `03 - Paths/24 - Theft Path.md` aponta para `08 - Calamidades e Tribulações`, e
+  `03 - Paths/27 - Os Caminhos Elementais.md` aponta para `28 - Os Demais Caminhos`. Nenhum dos dois
+  destinos existe. Não são meus arquivos; ficam registrados aqui para quem cuidar deles.
+- **`03 - Paths`** — a obra tem um *moon path* cujo golpe **invoca uma lua artificial** que aparece
+  em pleno dia e vai de crescente a cheia conforme absorve a energia do combate, chegando ao pico de
+  ataque e defesa quando fica cheia (cap. 2169). Registrei o aviso em `16 - O Relógio do Mundo` para
+  que ninguém confunda essa lua com a lua do céu.
+
 ## O que a obra realmente não diz
 
 Levantamento de silêncios **verificados por varredura do texto-fonte**, não por ausência em fonte
@@ -401,6 +488,20 @@ a designer saiba que pode preencher sem contradizer nada.
 - Não existem os termos "herbalista", "farmácia", "jardim de ervas" nem "planta carnívora".
 - A fronteira entre "planta cultivada comum" e "planta que é um Gu" nem sempre é explicitada: várias
   flores listadas como material de refino não recebem classificação.
+
+**Subsolo e água**
+- A obra não descreve **mineração humana organizada**: não há pedreira, companhia de mineração nem
+  mineiro de profissão. O único caso de humano cavando é um vale com mina de carvão perto de uma
+  vila, onde qualquer um vai escavar o próprio (cap. 92). A extração em escala é dos homens de
+  pedra.
+- **Falta de ar não é um perigo do subsolo.** Buscas por sufocamento, ar rarefeito e ar viciado não
+  retornam nada ligado a caverna ou mina.
+- **Não existe ponte nem balsa** para população comum, em nenhum volume.
+- **Não existe naufrágio** descrito como evento autônomo, e a obra nunca usa a palavra "frota".
+- A obra **nunca descreve o barco de pesca em si** — só a existência das vilas e da atividade.
+- Não há travessia marítima longa feita por mortal em nenhum ponto da obra.
+- Não há um pântano nomeado como bioma principal de nenhuma região, nem um lago que funcione como
+  marco geográfico recorrente.
 
 **Geografia e travessia**
 - A obra não descreve o interior das paredes regionais de miasma, de chama ardente e de água azul —

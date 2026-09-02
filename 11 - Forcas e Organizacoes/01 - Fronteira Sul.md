@@ -107,7 +107,7 @@ cidade; o primeiro ancião supremo governa o clã.
 | | |
 |---|---|
 | **Manda quem** | Camada imortal: o **primeiro ancião supremo**, rank 8 — a obra nomeia **Wu Du Xiu**, mulher, no poder por milhares de anos, e depois **Wu Yong**, do caminho do vento. Camada mortal: a líder do clã, **Imperatriz Wu Ji** (*Empress Wu Ji*), rank 5 |
-| **Caminho de casa** | **Vento**, entre os imortais; **[[04 - Strength Path\|caminho da força]]**, entre os mortais |
+| **Caminho de casa** | **[[27 - Os Caminhos Elementais\|Vento]]**, entre os imortais; **[[04 - Strength Path\|caminho da força]]**, entre os mortais |
 | **Por que esse caminho** | O clã cultiva muitos caminhos, mas "é no vento que somos mais proficientes, e é por isso que estamos no topo do mundo dos Gu Imortais da Fronteira Sul" — o clã detém a **mais forte herança verdadeira do caminho do vento**. Já o caminho da força veio de fora: existem **três heranças antigas do caminho da força no mundo inteiro**, e o clã Wu ocupou e explorou a única que está na Fronteira Sul. Foi essa herança que o pôs no trono da região |
 | **Porte** | **No mínimo quatro Casas de Gu Imortal** (*Immortal Gu Houses*, fortalezas vivas feitas de dezenas de Gu), uma delas de rank 8. Território grande demais para o número de imortais — o próprio clã reconhece isso como sua maior fraqueza |
 | **Alinhamento** | Caminho correto, e o hegemon dele. Mas com poeira embaixo do tapete: a própria líder mortal mantém um Mestre Gu demoníaco como subordinado |
@@ -349,7 +349,7 @@ entrar pelos treze salões.
 | | |
 |---|---|
 | **Manda quem** | **Xia Cha**, primeira anciã suprema — uma velha senhora, rank 8, **grande especialista do [[13 - Time Path\|caminho do tempo]]** |
-| **Caminho de casa** | **[[12 - Wisdom Path\|Caminho da sabedoria]]** e caminho da luz |
+| **Caminho de casa** | **[[12 - Wisdom Path\|Caminho da sabedoria]]** e [[27 - Os Caminhos Elementais\|caminho da luz]] |
 | **Por que esse caminho** | Concentração deliberada e anômala: Gu Imortais do caminho da sabedoria são raríssimos no mundo, e **o clã Xia tem cinco**, alguns deles fortes. Entre todos os imortais de sabedoria da Fronteira Sul, o clã Xia é a força dominante, com uma proporção enorme deles. Isso faz do clã "especial na Fronteira Sul, e mesmo entre as cinco regiões" |
 | **Porte** | Super clã com rank 8 no topo e um contingente notável de imortais; mantém escravos em número industrial |
 | **Alinhamento** | Caminho correto. Reputação de conspirador: "o clã Xia tem muitos imortais do caminho da sabedoria, **eles são bons em tramar**" |
@@ -453,7 +453,7 @@ um núcleo de formação, ou ser contratado para testar uma defesa nova.
 | | |
 |---|---|
 | **Manda quem** | O primeiro ancião supremo, rank 8 — a obra nomeia **Ba Shi Ba** e, depois, **Ba De** |
-| **Caminho de casa** | — A obra não declara um caminho de casa. O caminho pessoal da sua figura mais famosa é o **caminho da madeira** |
+| **Caminho de casa** | — A obra não declara um caminho de casa. O caminho pessoal da sua figura mais famosa é o **[[27 - Os Caminhos Elementais\|caminho da madeira]]** |
 | **Por que esse caminho** | — |
 | **Porte** | Super clã forte, tratado como **o segundo poder de fato** e o candidato natural ao primeiro lugar |
 | **Alinhamento** | Caminho correto |
@@ -504,7 +504,7 @@ fundação do clã Wu sem se expor.
 | | |
 |---|---|
 | **Manda quem** | Um primeiro ancião supremo (a obra não lhe dá nome nem rank `—`); no nível mortal, anciãos como **Yi Bu Hui** representam o clã em leilões |
-| **Caminho de casa** | **Água** — "nosso clã Yi é o mais habilidoso no caminho da água" |
+| **Caminho de casa** | **[[27 - Os Caminhos Elementais\|Água]]** — "nosso clã Yi é o mais habilidoso no caminho da água" |
 | **Por que esse caminho** | `(ded.)` A vocação marítima: é o clã da região com laços mais estreitos com o Mar do Leste, e o caminho da água é o caminho de casa daquela região |
 | **Porte** | Super clã; "um dos senhores da Fronteira Sul, **com status quase igual ao do clã Shang**" |
 | **Alinhamento** | Caminho correto |
@@ -771,7 +771,7 @@ procedimento é força bruta superior.
 | | |
 |---|---|
 | **Manda quem** | **Qiao Zhi Cai**, primeiro ancião supremo, **rank 7, caminho da madeira** |
-| **Caminho de casa** | Madeira, no líder `(ded.)` — a obra não declara caminho de casa para o clã `—` |
+| **Caminho de casa** | [[27 - Os Caminhos Elementais\|Madeira]], no líder `(ded.)` — a obra não declara caminho de casa para o clã `—` |
 | **Por que esse caminho** | — |
 | **Porte** | **O mais fraco entre as super forças da Fronteira Sul** — e ainda assim uma super força |
 | **Alinhamento** | Caminho correto; satélite do clã Wu |
@@ -937,8 +937,10 @@ aberração no funcionamento do mundo, e é a razão de aldeias insignificantes 
 É o inimigo hereditário do clã Wu, e a organização mais bem construída do lado demoníaco da região.
 
 São **sete membros, sempre sete**. Cada geração dos Sete Fantasmas causa uma perturbação enorme e perdas
-pesadas ao caminho correto da Fronteira Sul. Há muitas evidências de que **a herança deles vem do
-Venerável Demônio da Alma Espectral** — e é essa herança que os torna praticamente indestrutíveis: **enquanto
+pesadas ao caminho correto da Fronteira Sul. Há muitas evidências de que **a herança deles vem de
+[[02 - Os Criadores de Caminhos|Spectral Soul Demon Venerable]]**, o criador do caminho da alma e a
+figura mais destrutiva entre os dez Veneráveis — e é essa herança que os torna praticamente
+indestrutíveis: **enquanto
 uma única pessoa de uma geração continuar viva, a herança continua**, e com o tempo surgem outros seis
 imortais demoníacos ao lado do sobrevivente.
 
@@ -1066,7 +1068,7 @@ números.
 | **Clã médio-baixo** | **Rank 4** no líder; anciãos de rank 3 | Uma aldeia numa montanha, uma nascente espiritual, ~20 anciãos |
 | **Clã grande** | **Rank 5** no líder | Os recursos de **uma montanha inteira** e muitos membros |
 | **Força de grande porte** | Um Gu Imortal, ou nenhum em atividade | Super clã decaído |
-| **Super clã** | **Rank 7 ou 8** no primeiro ancião supremo | Dezenas de imortais, Casas de Gu Imortal, território de tamanho nacional |
+| **Super clã** | **Rank 7 ou 8** no primeiro ancião supremo | Uma dezena ou mais de Gu Imortais `(ded.)`, Casas de Gu Imortal próprias, território de tamanho nacional |
 
 **Um clã médio, por dentro.** O exemplo trabalhado da obra é o **clã Gu Yue**, em Qing Mao Mountain.
 Chegou à Fronteira Sul **há algumas centenas de anos**, migrando das terras centrais, e se fixou ali quando
@@ -1091,7 +1093,7 @@ do que é um Gu de assinatura: **não é um Gu natural — é uma criação cult
 que não existe em nenhum outro lugar do mundo**, e é o símbolo do clã; boa parte dos membros o escolhe como
 Gu vital.
 
-A vida entre os três é um ciclo de trégua e sangue. Quando vem uma **maré de bestas**, os três precisam se
+A vida entre os três é um ciclo de trégua e sangue. Quando vem uma **[[07 - Bestas Gu e Reis Fera|maré de bestas]]**, os três precisam se
 aliar — "sem aliança, destruição" — e montam uma lista de contribuições em que os Gu guardados de cada clã
 ficam disponíveis por mérito; a dificuldade toda passa a ser **como dividir o lucro**. Uma maré de lobos
 chegou a matar **metade da população** das três aldeias. Passada a crise, voltam ao normal: quando um clã
@@ -1150,7 +1152,7 @@ produz um talento de grau A, os vizinhos mandam assassinos para matá-lo antes q
 | **Clã Hou** | Super clã de segunda linha | — `—` | — `—` (qi de lâmina) | — `—` | O manual de como invadir dentro das regras: inventar um demoníaco para perseguir |
 | **Clã Qiao** | Super clã, o mais fraco | Qiao Zhi Cai, rank 7 (madeira) | — `—` | Centro da região | Vassalo do clã Wu por casamento — e com um espião no 3º ancião supremo do suserano |
 | **Cinco clãs dos Xiang** | Cinco linhagens em decadência | Cada uma a sua | Qi, sangue e outros | Espalhados | Uma aposta de mil anos, uma gruta-céu que abre uma vez por milênio, e um "irmão" que pastoreia os outros quatro |
-| **Sete Fantasmas do Desfiladeiro Feroz** | Grupo demoníaco de sete imortais | Sem chefe declarado `—` | Herança do Venerável da Alma Espectral | Fierce Gorge | Vilões que se repõem sozinhos; inimigos hereditários do clã Wu |
+| **Sete Fantasmas do Desfiladeiro Feroz** | Grupo demoníaco de sete imortais | Sem chefe declarado `—` | Herança de Spectral Soul Demon Venerable | Fierce Gorge | Vilões que se repõem sozinhos; inimigos hereditários do clã Wu |
 | **Aliança dos Zumbis (filial sul)** | Filial de uma aliança inter-regional | — `—` | — | Sede regional exposta `—` | Aceita quase qualquer zumbi imortal; suprimida por todos; pesquisa como voltar a viver |
 | **Quatro Grandes Médicos** | Título, não organização | Ninguém — são independentes | Cura | Itinerantes | O sistema de saúde de alto nível; atendem os dois lados; um deles cura matando |
 | **Clã Fei** | Ex-grande, sumiu da lista | — `—` | — `—` | — `—` | Um buraco declarado no mapa político |
@@ -1174,3 +1176,7 @@ produz um talento de grau A, os vizinhos mandam assassinos para matá-lo antes q
 - [[14 - Guerra Organizada|Guerra Organizada]] — como uma disputa entre clãs vira campanha militar.
 - [[07 - Heranças e Provações|Heranças e Provações]] — o que é uma herança e por que meia região briga por
   elas.
+- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que são as terras abençoadas
+  e as grutas-céus que aparecem como sede e como prêmio nesta nota.
+- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — zumbis imortais e raças variantes, que
+  aparecem aqui como organização e como escravos.

@@ -356,3 +356,78 @@ qualquer varredura futura vai reencontrá-los:
 | `life retaining jade burial` | **Life-preserving Jade Burial Gu** (já catalogado) |
 | `level year` / `level day` | recorte de "mortal/immortal **level** year Gu"; os Gu são o **Year Gu** e o **Day Gu** |
 
+
+---
+
+## Entradas reescritas
+
+O critério do projeto para uma linha de catálogo é que ela responda **o que acontece,
+quanto, por quanto tempo, em quem e com que limite** — o teste é "um mestre consegue
+rodar isto com o que está escrito?". Descrição curta não é defeito; vaga é. O pior caso
+é a entrada que se descreve por referência a outra ("versão menor da mesma série"), e
+essas foram caçadas primeiro.
+
+**Método.** Extração programática da célula de efeito de toda linha dos dois catálogos,
+com dois filtros: (a) células com menos de setenta caracteres, e (b) células que
+contêm construção referencial (*"da mesma série"*, *"mais denso que os comuns"*,
+*"versão menor"*, *"ver acima"*). Deram 180 entradas, divididas em três levas de
+pesquisa no texto-fonte, cada uma obrigada a devolver mecanismo com números ou a
+declarar explicitamente que a obra cala.
+
+**As sete piores — entradas que só se descreviam por referência a outra:**
+
+| Gu | Como estava | Como ficou |
+|---|---|---|
+| Dragon-elephant Huge Strength Gu | "fantasma de dragão-elefante, mais denso que os comuns" | mecanismo do fantasma de fera, escala de força e o que "mais denso" significa em combate |
+| Ancient Bronze Skin Gu | "pele de bronze antigo, muito superior às versões comuns" | efeito próprio, mais o dado de que submergir o usuário em bronze fervente acelera a instalação em 30% |
+| Essence Iron Bone Gu | "esqueleto duas a três vezes mais firme que o do Iron Bone" | efeito próprio e o lugar dele na regra do teto corporal |
+| Big Strength Defecate Gu | "mesma função do Defecate Gu, mesma aparência, três vezes mais forte" | função descrita por inteiro, sem depender da linha vizinha |
+| Star Thought Gu | "o combustível de dedução mais eficiente da série" | o que ele faz e quanto rende por unidade |
+| A Bit of Star Gu | "o degrau mais baixo da série de amplificação estelar" | efeito próprio e a escada completa nomeada |
+| Wine Drinker Gu | "equivalente imortal da série de Gu de profissão" | ficha própria de mecanismo |
+
+**Entradas que a pesquisa corrigiu, e não apenas ampliou.** Estas são as mais
+importantes do relatório, porque o catálogo estava **errado** nelas:
+
+| Gu | O que estava escrito | O que a obra diz |
+|---|---|---|
+| **Aurora Bird** | listado como Gu de rank mortal no caminho da luz | **não é um Gu**: é um golpe combinado mortal do caminho da luz, transmitido de mestre para discípulo, cujos Gu componentes a obra nunca nomeia. A linha foi **removida** do catálogo, e a seção da luz ganhou o registro do erro |
+| **Wolf Care Gu** | "cura em massa de lobos, e compartilha a visão de uma fera" | a cura em massa é do **Wolf Smoke Gu**. O Wolf Care Gu faz uma coisa só: compartilhar visão — e reside como uma segunda pupila no olho esquerdo do dono |
+| **Rock Skin Gu** | rank `—` | **rank 1**; a versão de corpo inteiro é o Monolith Gu, rank 2 |
+| **Ghost Fire → Ghost Flame → Ghost Blaze** | classificado como fogo | é **caminho da alma**: o fogo azul não fere o corpo, queima a alma direto. Ranks 2 → 3 → 4 confirmados |
+| **Iceblade Gu** | lâmina de "um metro e setenta" | pouco mais de **um metro** no rank 3, dois metros num patamar acima |
+| **Lifespan Gu** | "cem ou quinhentos anos, conforme o grau" | os graus canônicos são **cem** e **mil** anos; os seiscentos anos de vida de um caso famoso vieram de **acumular cinco** Gu de cem |
+| **Second Aperture Gu (série)** | rank 1-5 | a série vai de **rank 1 a 6** — o original era um Gu Imortal de rank 6, convertido depois em série mortal |
+| **Dragonpill Cricket Gu** | "salto de cerca de dez metros" | **três metros** na esquiva lateral, **dez** no recuo |
+| **Inch of Time** | "paga o pedágio de tempo no lugar do tempo de vida do usuário" | esse uso **fracassou** no cânone: funciona em teoria, mas o consumo é intenso demais. E o Gu **não pode ser usado em humanos nem no próprio usuário** |
+| **Space Thought Gu** | "pensamentos criptografados, ilegíveis a leitores de mente" | a obra não afirma isso; o que ela mostra é armazenamento de informação em forma de pensamento e **refino reverso** de um Gu inimigo alojado no crânio |
+| **Wealth Gu** | uma linha só | são **dois** Gu: o lendário (imortal, vira qualquer coisa menos ser vivo) e o mortal de rank 5 (vira qualquer material de rank 5) |
+| **Landscape As Before** | "restaura o terreno" | o rank 8 é o **teto absoluto** deste Gu, e ele só age sobre **montanha e corpo d'água** — móveis e construções ficam de fora |
+| **Territory Gu** | "raio de até mil li" na linha mortal | os mil li são da versão **imortal de rank 7**; as versões de aldeia são rank 3-4 |
+| **Heart Blood Gu** | "emite um batimento que sincroniza o de quem o ouve" | não corresponde ao texto: é o núcleo de um golpe de **premonição** — o sangue se choca contra as paredes do próprio coração e daí nasce a percepção de perigo |
+| **Instant / That Time** | dois Gu de rank 7-8 do caminho do tempo | **os nomes não existem no texto-fonte**. A varredura não achou nenhuma ocorrência: vieram de fonte secundária. O que a obra descreve é uma **Casa de Gu Imortal** de rank 8 que comprime o tempo do trajeto. A linha foi mantida com o aviso explícito de que o nome é não canônico |
+| **Musician Gu** e a série das profissões | listados sem separação de patamar | a obra divide a série em dois níveis: **Mestre Gu** (doctor, pill refiner, constable, craftsman) e **Gu Imortal de rank 6** (shadow puppet, talented girl, soldier, sergeant, musician, thief, farmer, dancer, blacksmith). E acrescenta o mecanismo: o que esses Gu produzem é um **clone** cuja abertura só **armazena** essência, nunca a produz, e que **não consegue cultivar** — o rank do Gu decide a força do clone, mas o clone herda os níveis de domínio do dono |
+
+**Entradas ampliadas com números que faltavam** (amostra do que a leva de aprofundamento
+devolveu, e que agora está nas células): Green Silk Gu custa 30% da essência de bronze
+verde por ativação; Frost Breath Gu custa 5% e foi leiloado por 38.000 pedras; Bitter
+Strength Gu tem preço de mercado por volta de 380.000 e foi arrematado por 810.000; Ice
+Crystal Gu custa 28.000; Bone Wings Gu custou 180.000 de refino e exige de dois a três
+anos de treino para voar e mais de cinco para lutar voando; Sight Blow Gu tem limite
+rígido de trezentos passos; Wolf Smoke Gu cobre mais de cem li de raio; Flash Blink Gu
+trava o Shadow Follower Gu por três horas; Moonshadow Gu suprime 60% da essência de um
+rank 3, 30% de um rank 4 e 15% de um rank 5; Soft Bones Gu amolece ossos num raio de
+vinte e cinco quilômetros e atravessa até ossos de ferro-essência; Bone Spike Gu devolve
+ao próprio usuário cerca de 80% do dano que causa e é vendido por 6.700 pedras; Golden
+Lion Fur Gu, fundido num golpe defensivo, eleva a defesa em 150% e em 200% contra o
+caminho do metal; Biao Strength Gu concede cinco vezes a força de um tigre; e a série
+Bone Flesh Unity tem cinco qualidades com perdas de transferência de 4/5, 3/5, 2/5, 1/5
+e **zero**.
+
+**Uma regra do mundo apareceu repetidamente durante o aprofundamento** e vale mais que
+qualquer linha isolada: abaixo do rank 6, o corpo mortal é descrito como "uma tigela que
+não contém um lago" — há um **teto rígido** de quanta força de fera e de quanta alma ele
+suporta. Os Gu de osso, tendão, pele e músculo existem exatamente para levantar esse
+teto, e as rotas são **mutuamente excludentes**: tendões de aço somados a ossos de ferro,
+ou músculos de gelo somados a ossos de jade, ou ossos da impermanência para quem investe
+em alma. Escolher uma fecha as outras.

@@ -5,7 +5,7 @@ aliases:
   - Rule Path
   - Law path
 status: consolidado
-fontes: ["cap. 522", "cap. 533", "cap. 536", "cap. 584", "cap. 757", "cap. 790", "cap. 801", "cap. 845", "cap. 861", "cap. 937", "cap. 984", "cap. 994", "cap. 1042", "cap. 1111", "cap. 1323", "cap. 1787", "cap. 1869", "cap. 2028", "cap. 2131"]
+fontes: ["cap. 522", "cap. 533", "cap. 536", "cap. 584", "cap. 683", "cap. 757", "cap. 790", "cap. 801", "cap. 845", "cap. 861", "cap. 937", "cap. 984", "cap. 994", "cap. 1001", "cap. 1042", "cap. 1111", "cap. 1176", "cap. 1182", "cap. 1268", "cap. 1323", "cap. 1346", "cap. 1395", "cap. 1549", "cap. 1618", "cap. 1622", "cap. 1717", "cap. 1722", "cap. 1731", "cap. 1766", "cap. 1771", "cap. 1787", "cap. 1791", "cap. 1793", "cap. 1794", "cap. 1795", "cap. 1798", "cap. 1803", "cap. 1859", "cap. 1866", "cap. 1869", "cap. 1958", "cap. 2003", "cap. 2028", "cap. 2065", "cap. 2077", "cap. 2086", "cap. 2099", "cap. 2131", "cap. 2174", "cap. 2194", "cap. 2199", "cap. 2227"]
 conhecimento: especializado
 ---
 
@@ -15,6 +15,11 @@ conhecimento: especializado
 baixo, verdadeiro e falso, os números — que por isso funciona sobre qualquer coisa e serve de
 "caminho-mãe" do qual outros brotam. Para entender o que é um "caminho", veja
 [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
+
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—`.
 
 ## Filosofia e identidade
 
@@ -150,6 +155,150 @@ significado verdadeiro da regra**.
 Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]] para a árvore completa de derivação, incluindo os
 ramos do [[12 - Wisdom Path|caminho da sabedoria]].
 
+## A camada escondida
+
+Amplificar efeitos e aplicar conceitos ao pé da letra é a cara pública do caminho da regra. O
+que está por baixo é maior: ele é o caminho que **fabrica lei nova**, o que **reconcilia leis
+incompatíveis**, e o que **desliga a máquina dos outros**.
+
+### 1. Ele deriva marcas do Dao novas — e é por isso que é o caminho-mãe
+
+Aqui está a resposta ao mistério que a nota registra acima como "lacuna teórica": a obra nunca
+explica o mecanismo interno do caminho da regra, mas mostra **o que o maior praticante dele fez
+com esse mecanismo**, e isso é ainda mais revelador.
+
+O criador do caminho queria vida eterna e sabia que não conseguiria contornar o Dao Celestial.
+Então **atacou o problema pela raiz**: pesquisou como *derivar marcas do Dao inteiramente novas*,
+para usar essas marcas como pista até a eternidade. E construiu a máquina para isso — um
+domínio primordial acoplado a um **Gu Imortal de derivação de rank 9**, que **cria e destrói
+mundos pequenos em ciclos**. Deriva-se um mundo; o mundo nasce, cresce e é destruído; e do que
+sobra emergem **marcas do Dao do céu**. O objetivo declarado nunca foi criar mundos: era
+**criar marcas do Dao que ainda não existiam**. Ver [[17 - Heaven Path|Heaven Path]].
+
+`(ded.)` É por aqui que a árvore de derivação da obra ganha sentido mecânico. O caminho da
+regra é o número um em gerar caminhos menores não por ser popular, mas porque **operar sobre
+categorias é operar sobre a própria fábrica de categorias**. Um caminho que trabalha com "grande
+e pequeno", "verdadeiro e falso", "vida e morte" está trabalhando com o material de que os
+outros caminhos são feitos.
+
+E as marcas do Dao de **vida** e de **morte** são, elas mesmas, marcas de regra — um tipo
+especial, raríssimo e muito valioso no mundo inteiro. Existem aves desoladas carregadas de
+marcas de "vida" que, ao voarem, **chovem essas marcas sobre o terreno e o transformam**,
+despejando força vital sem fim — e morrem em uma dúzia de respirações, com o tempo de vida
+gasto. A categoria "vida" existe no mundo antes de qualquer cultivador, e ela pode ser derramada.
+
+### 2. Ele é a única coisa que reconcilia marcas incompatíveis
+
+O conflito de marcas do Dao é a limitação estrutural mais dura do sistema inteiro: dois caminhos
+incompatíveis no mesmo corpo, na mesma abertura ou no mesmo terreno se anulam mutuamente. Ver
+[[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+
+E existe **um** domínio recluso do céu e da terra, do caminho da regra, cujo golpe removeu o
+conflito entre as marcas de dois caminhos hostis. A obra chama isso de *a profundidade que levou
+à origem* do Gu que dá origem a uma abertura imortal sem conflito nenhum. ==O caminho da regra é
+a ferramenta de compatibilidade do sistema.== `(ded.)` E isso explica retroativamente por que
+ele é o melhor caminho secundário do mundo: não é só que os Gu dele funcionam com tudo — é que
+ele é a escola que **conserta a incompatibilidade em si**.
+
+### 3. Ele desliga o motor dos outros — e há duas escalas disso
+
+**Na escala pequena, é o ramo da restrição.** A habilidade de assinatura do caminho da restrição
+é **cortar a conexão entre a energia primeva e os Gu selvagens** — na prática, desligar o Gu do
+Mestre no meio da luta. Existe um Gu mortal dedicado a isso, e a passagem que o cita é uma cena
+de gente lamentando não tê-lo comprado quando podia: quando ele faz falta, não há substituto.
+Restrição é um caminho raro, com pouquíssimos praticantes.
+
+**Na escala grande, é o golpe supremo do caminho.** Um imortal de rank 8 do ramo da restrição
+estudou as **barreiras que separam as cinco regiões** — as paredes que fazem um cultivador
+estrangeiro sofrer supressão ao atravessá-las — e transformou o resultado em duas coisas: uma
+formação e um golpe. O golpe dispara luz em cinco cores, e o efeito é este:
+
+- **Suprime qualquer Gu Imortal, venha ele de que região vier**, porque replica as cinco paredes
+  ao mesmo tempo — não há região de origem que escape;
+- é a **nêmese das formações de Gu e das casas de Gu Imortal**: dentro dele, elas *sofrem
+  contragolpe a cada instante* e acabam **se despedaçando**;
+- as cinco cores se aprendem **uma a uma** — um praticante levou muito treino para usar quatro
+  simultaneamente, e mais ainda para as cinco;
+- e ele **não pode coexistir com a formação irmã**, porque as duas usam os mesmos Gu Imortais
+  como núcleo. Escolher entre as duas é a decisão tática central de quem herda esse legado: o
+  golpe é mais forte e mais flexível, a formação dura mais e é quase impossível de desmontar
+  depois de erguida.
+
+`(ded.)` Para uma mesa, guarde a leitura: **o caminho da regra é o antídoto declarado das
+fortalezas**. Num cenário em que casas de Gu e formações são o auge da engenharia, existe uma
+escola cujo golpe de topo faz toda essa engenharia se autodestruir.
+
+E o mesmo caminho fornece a manobra defensiva mais estranha do sistema: um imortal de regra
+cobria a pele de linhas azuis entrelaçadas como tatuagens e **transferia para o próprio corpo o
+dano que caía sobre a estrutura que ele protegia**. Quem atacava a formação estava, sem saber,
+batendo nele.
+
+### 4. O ramo que não se separou, e o homem que esculpiu a geografia do mundo
+
+A regra de que um sub-ramo sem separação **não tem marcas do Dao próprias** está enunciada mais
+acima, em "Os caminhos que brotaram deste". O que vale acrescentar é o **caso concreto** que a
+sustenta, porque ele é grande demais para ser nota de rodapé.
+
+O imortal de rank 8 que deixou aquele significado verdadeiro da regra **cultivava restrição** — e
+foi ele quem construiu, com as próprias mãos, a **cordilheira que separa as cinco regiões**. A
+obra é explícita: *aquela cadeia de montanhas não se formou naturalmente, era feita pelo homem*.
+Ele estudou as barreiras regionais para fazê-la, e desse estudo saíram o golpe e a formação
+descritos acima.
+
+`(ded.)` Junte as três peças e o retrato fica assombroso: um praticante de um **caminho menor,
+raro e ainda não separado do caminho-pai** produziu (1) um traço permanente na geografia do
+mundo, (2) o golpe que anula fortalezas, e (3) um significado verdadeiro que promove estranhos a
+grande grão-mestre. É o argumento mais forte da obra de que "caminho pequeno" não significa
+"caminho fraco" — significa apenas caminho com poucos praticantes.
+
+### 5. Ele possui território, e o território é conceitual
+
+Cada caminho grande tem seus **domínios reclusos do céu e da terra** — lugares que são, eles
+mesmos, uma peça daquele caminho. O tempo tem o Rio do Tempo; o espaço tem a caverna do espaço;
+a alma tem um vale e uma montanha. **A regra tem três: um rio de fluxo reverso, uma montanha e
+uma montanha minúscula.** `(ded.)` É um patrimônio territorial grande para um caminho descrito
+como raro — mais um sinal de que a raridade dele é de praticantes, não de recursos.
+
+> [!note] A tese filosófica do caminho
+> Os outros caminhos perguntam "de que o mundo é feito?" e respondem fogo, sangue, som, tempo.
+> O caminho da regra pergunta "**quem decidiu quais são as categorias?**" — e responde que as
+> categorias são anteriores às coisas, e portanto manipuláveis. Não é por acaso que a obra
+> retrata seus praticantes como fatalistas convictos: um deles declara que *cultiva o caminho da
+> regra e por isso acredita nas regras deste mundo — todas as coisas têm o seu curso ordenado,
+> que é o destino*. Quem passa a vida provando que "grande" e "pequeno" são leis executáveis
+> acaba acreditando que o próprio percurso também é uma lei executável.
+>
+> A ironia é que o **significado verdadeiro** — a herança que transmite domínio direto — exige
+> exatamente dois ingredientes: a **verdade**, que é da regra, e a **vontade**, que é da
+> sabedoria. O caminho que acredita que tudo é lei precisa pedir emprestada a vontade humana
+> para conseguir deixar alguma coisa para trás.
+
+## Progressão por rank
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Ranks 2–5** | Amplificação universal. O multiplicador é o rank: um Gu de amplificar efeito de rank 5 multiplica por **cinco**, e quanto mais alto o rank, maior o gasto de essência primordial. Serve a qualquer caminho — fogo, água, escravização, força —, e é por isso o Gu mais cobiçado por Mestres Gu que **nem cultivam a regra**. Nesta faixa o caminho não é uma escola: é um acessório que todo mundo quer. |
+| **Rank 5–7** | Desintegração em escala nomeada, e é o melhor exemplo de progressão limpa da obra inteira: **cem** desintegrações no rank 6, **mil** no rank 7, **dez mil** no rank 8, com o mesmo golpe. Ataca e defende ao mesmo tempo, e desfaz quase qualquer elemento místico. Um clã inteiro do Continente Central construiu sua reputação sobre esse único golpe. |
+| **Rank 7** | Os conceitos como leis físicas: campos que encolhem qualquer ataque recebido, defesas de temporização exata, fixação do momento da morte de um alvo, Gu que estendem golpes de outros caminhos. |
+| **Rank 8** | Núcleos de golpes que replicam as barreiras entre regiões, transferência de dano para o próprio corpo, e a série dos números — o maior conjunto de Gu do caminho, "um, dois, três, quatro... praticamente ilimitada". |
+| **Rank 9** | Derivação de marcas do Dao novas; golpes de regra que a obra descreve como *já no ápice, sem espaço para melhoria*; e formações que só puderam existir porque um mestre da regra se aliou a uma mestra da sabedoria — porque a regra sozinha, sem vontade, não fecha. |
+
+## Golpes e Gu de assinatura, e o mecanismo de cada um
+
+| Golpe / Gu | O que ele realmente faz |
+|---|---|
+| **Qi de luz profunda das cinco restrições** | Replica as cinco barreiras regionais em volta do usuário. Suprime todo imortal, de qualquer região, e faz formações e casas de Gu Imortal sofrerem contragolpe contínuo até se despedaçarem. As cinco cores se dominam uma de cada vez. |
+| **Formação-limite das cinco regiões** | A irmã do golpe acima, mesmos núcleos: em vez de um efeito móvel e curto, um efeito fixo e duradouro. As duas **nunca podem ser usadas ao mesmo tempo**. |
+| **Cem / mil / dez mil desintegrações** | O mesmo golpe em três ranks, com o número de desintegrações escalando por potências de dez. Desfaz quase qualquer elemento místico, sem distinguir o caminho de origem. |
+| **Um passo atrás** | Golpe de regra que um Venerável Demônio do roubo **reescreveu como golpe do caminho do espaço**, dando-lhe outro nome. É o registro mais claro de como um golpe migra entre escolas: o conceito é da regra, a implementação é de quem o adota. |
+| **Ruptura primeva** (ramo da restrição) | Corta a ligação entre a energia primeva do Mestre Gu e os Gu dele. Desliga o adversário em vez de feri-lo. |
+| **Causa** (regra) + **Efeito** (madeira) | O par de Gu Imortais que sustenta os golpes de **karma**. Causalidade é matéria-prima da regra; a consequência que brota dela é madeira. |
+| **Tornar-se real** | Deixa uma trilha prateada persistente que serve de **âncora** para outros golpes e rituais — e é o Gu que, aplicado a um ser nascido de um reino de sonho, o tornou **real**. |
+| **Forte** | Um Gu de uma palavra só: usado com qualquer caminho, torna qualquer golpe mais forte. É a identidade do caminho reduzida ao mínimo. |
+| **Normal** | Devolve o alvo à sua condição normal. Contra qualquer transformação, ampliação, veneno ou estado alterado, a regra simplesmente **declara** que o normal é o normal. |
+| **Precaução** | O Gu defensivo de topo do rank 7 — e o melhor exemplo documentado de que **uma descrição errada mata**: o efeito sai na **décima primeira** respiração, não na décima. Ver a nota abaixo da tabela de Gu. |
+| **Cuidado** | Um dos dez Gu místicos do mundo, refinado pelo criador do caminho a partir de um domínio recluso: **anula qualquer acordo de aliança**, não importa o caminho que sustente o acordo. É o caminho da regra operando sobre a categoria "compromisso". |
+
 ## Gu representativos
 
 | Gu | Nível | Efeito resumido |
@@ -218,11 +367,31 @@ Os pares mais notáveis:
 - **Escassez de material teórico.** Como o mecanismo interno nunca foi formulado, o caminho é
   difícil de estudar — o que ajuda a explicar por que, apesar de universalmente útil, ele
   permanece raro.
+- **Ambiente hostil derruba a regra como derruba qualquer um.** Um campo de batalha imortal
+  saturado de marcas de outro caminho **enfraquece o cultivador de regra** que entrar nele, e
+  dentro de um domínio recluso de outro caminho até um Gu Imortal de regra fica difícil de
+  acionar. A universalidade do caminho é temática, não territorial.
+- **Os Gu de regra comem coisas que o dono não produz.** Um Gu Imortal de regra pode se alimentar
+  de um recurso de outro caminho inteiramente — houve um que só comia uma água de caminho da
+  água, obrigando o dono a **construir um ponto de recurso de água dentro da própria abertura**
+  só para sustentá-lo. Cultivar a regra não isenta ninguém de virar fazendeiro de outra escola.
+- **Amplificar custa mais quanto mais forte.** Quanto maior o rank do Gu de amplificação, maior
+  o gasto de essência primordial por uso. O multiplicador é gratuito em potência, não em conta.
 
 > [!note] Para o design
 > **Arquétipo entregue: o metamago — o especialista em modificar magia alheia.** Este caminho
 > não dá ao personagem um poder próprio marcante; dá a ele a capacidade de tornar o poder de
-> todo mundo maior, menor, mais lento ou impossível.
+> todo mundo maior, menor, mais lento ou impossível. E o caminho tem uma segunda face que rende
+> um personagem muito diferente: o **legislador**, aquele que declara categorias e o mundo
+> obedece — "você é pequeno", "seu acordo não vale", "sua morte é às três da tarde". O primeiro
+> é um personagem de apoio adorado pelo grupo; o segundo é aterrorizante, e os dois usam a mesma
+> ficha.
+>
+> **O antídoto das fortalezas é um gancho de campanha inteiro.** Num cenário onde castelos
+> mágicos e formações são o auge do poder institucional, ter uma escola cujo golpe de topo faz
+> essas construções **se despedaçarem sozinhas** transforma um único personagem na peça que
+> decide cercos. Vale desenhar a contrapartida junto: ele precisa aprender as cinco cores uma a
+> uma, e a versão fixa e a versão móvel do poder são mutuamente exclusivas.
 >
 > **A mecânica a roubar é a amplificação agnóstica de escola.** Um item que multiplica
 > qualquer efeito por cinco, independentemente da origem, é ao mesmo tempo a coisa mais
@@ -264,3 +433,8 @@ Os pares mais notáveis:
 - [[07 - Refinement Path|Refinement Path]] — o par exigido nas conquistas territoriais de maior nível.
 - [[17 - Heaven Path|Heaven Path]] — o problema que o criador deste caminho resolveu.
 - [[07 - Killer Moves|Killer Moves]] — como Gu de regra reforçam golpes de qualquer outro caminho.
+- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — o problema que só este caminho resolve.
+- [[08 - Formações de Gu|Formações de Gu]] — o alvo preferencial do golpe de topo do caminho.
+- [[12 - Dao Marks|Dao Marks]] — as marcas de vida e de morte, que são de regra, e a derivação de marcas novas.
+- [[04 - As Cinco Regiões|As Cinco Regiões]] — as barreiras regionais de onde saiu o golpe supremo do caminho.
+- [[14 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — o mapa dos domínios reclusos, entre eles os três da regra.

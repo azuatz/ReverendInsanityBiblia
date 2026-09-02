@@ -141,3 +141,21 @@ informação fica sem casa em nenhum momento.
 Execução: um agente por rank, sem colisão de arquivo. Só pode começar depois que o agente
 de deduplicação e completude dos catálogos terminar, porque é o material dele que será
 migrado.
+
+### Precisão do campo "Interações" (esclarecimento do usuário)
+
+"Interações" significa **como um Gu se comporta na presença de outros Gu e das marcas de dao
+que o cultivador já carrega** — não sinergia genérica. O exemplo do usuário: um Gu de luz
+rende pior em quem usou Gu de força, e quanto mais força a pessoa tem, pior.
+
+O vault já documenta essa mecânica em `02 - Gu/11 - Conflito de Marcas e Compatibilidade`, e
+a formulação canônica é **mais dura** do que "rende pior": se a marca de força for forte
+demais, os Gu de luz e de espaço **falham ao ser usados** — é falha de ativação, não
+penalidade percentual. Os pares que a obra nomeia são força × luz, força × espaço,
+força × vento e restrição × palavra; **não existe tabela geral de pares**, e a obra nunca
+informa o limiar de "forte demais". Qualquer par além desses quatro é invenção.
+
+Portanto o campo Interações de cada entrada de catálogo deve trazer, quando houver: com que
+marcas de dao aquele Gu entra em conflito; com que Gu ele se combina em golpe ou fusão; de
+que outro Gu ele depende para funcionar; e a que build ele fecha a porta. Onde a obra não
+disser nada, declarar o silêncio em vez de deixar em branco.

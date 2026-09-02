@@ -126,6 +126,17 @@ você vai ser.
 > mortal, significa "tenho um núcleo coerente", não "só tenho isto". A pureza total é um
 > fenômeno do reino imortal, e você vai ver adiante por que ela só faz sentido lá.
 
+E a prova mais direta de que nada está travado no mundo mortal: **mortais trocam de caminho, e
+o motivo mais comum é falta de dinheiro.** A obra registra praticantes que cultivaram um caminho
+por anos e tiveram de abandoná-lo simplesmente porque os recursos acabaram. A regra que ela
+enuncia por trás disso é seca e vale como resumo da seção inteira:
+
+> **Os caminhos dos Mestres Gu se estabelecem sobre a base dos recursos.** Quando os recursos
+> de que um caminho precisa minguam, a vitalidade daquele caminho mingua junto.
+
+É por isso que caminhos inteiros nascem, dominam uma era e morrem. E é por isso que, no mundo
+mortal, "qual é o seu caminho?" é uma pergunta sobre a sua situação, não sobre a sua identidade.
+
 ### O Gu Vital: a decisão que ninguém sabe que está tomando
 
 Há, no entanto, **uma** escolha de verdade no mundo mortal — e a crueldade do sistema é que
@@ -778,7 +789,14 @@ foi atacado**. Empobrecer-se para sofrer menos empobrece o ganho junto.
 - **Não passar provações em território de aliado.** Elas drenam o qi terrestre do local onde
   ocorrem: custo territorial real, não só pessoal.
 
-Duas alavancas de rendimento, não de caminho:
+Quatro alavancas de rendimento, não de caminho:
+
+- **Uma abertura de vida-e-morte** corta pela metade o poder de todas as provações futuras **sem
+  reduzir em nada as marcas obtidas**. É o item mais puramente vantajoso do domínio: metade do
+  risco pelo mesmo ganho.
+- Existe um Gu que permite **absorver o qi da provação para enfraquecê-la, ou liberá-lo para
+  fortalecê-la** — um dial de dificuldade acionável na hora, para quem quer mais marcas ou
+  quer sobreviver.
 
 - **Fortuna alta eleva as calamidades ao máximo que o mundo permite** — o que maximiza o ganho
   de marcas, ao custo do risco máximo. Uma tribulação maximizada rendeu mil marcas de caminho
@@ -811,6 +829,15 @@ manifestar):
   reduzir o dano — é **remover a imprevisibilidade**, descrita como o maior perigo de qualquer
   tribulação. Contra uma provação diretamente pilotada pela vontade dos céus, que muda de forma
   a cada contramedida eficaz, esta é a única defesa conhecida.
+- **Roubar a provação de outra pessoa.** `[segredo]` Uma via tardia e engenhosa: intervir de
+  fora na tribulação alheia e refinar para si as marcas do caminho do céu que a compõem. O
+  ajudante ganha; **o tribulante passa pela provação e não ganha marca nenhuma**, o que é uma
+  perda enorme para ele. Um serviço de proteção que é, silenciosamente, um roubo.
+- **Ser Dao Lord de um caminho.** No topo absoluto, um Venerável com domínio supremo passa a
+  **sentir e refinar as marcas naturais daquele caminho no mundo inteiro**, transformando o
+  mundo em campo de batalha próprio. É a única via de controle verdadeiramente total, está fora
+  do alcance de qualquer personagem jogável, e é o que a obra chama de segredo da
+  invencibilidade dos Veneráveis. Ver [[Tornar-se Venerável]].
 
 ### E as marcas que você não quer?
 

@@ -213,3 +213,41 @@ escrever `09 - Apendices/`, o `00 - LEIA-ME`, e o passe de verificação.
   discordantes, caminho demoníaco a fundo, tipologia de gente, filosofias em disputa).
   Dele sairão duas notas novas: a filosofia do mundo e os tipos de gente e filosofias de
   vida, mais um enriquecimento de `Caminho Correto e Caminho Demoníaco`.
+
+### Sessão de 2026-09-01 — segunda leva
+
+Sete notas novas e três correções de conteúdo. Vault: 98 notas, 2.015 wikilinks por nome
+exato de arquivo, nenhum quebrado, nenhum alias duplicado.
+
+**Notas novas**
+
+- `06 - Economia e Vida/Produzir Gu Dentro da Abertura.md` — a fazenda de Gu do imortal.
+- `04 - Mundo/A Filosofia do Mundo.md` — tese do mundo, ausência de justiça cósmica, a
+  moral como tecnologia de sobrevivência coletiva, natureza humana, o sentido do título.
+- `04 - Mundo/Escala, Distâncias e Viagem.md` — li = 500 m; região ≈ 10× a Terra; caravana
+  da Fronteira Sul (15-20 dias entre montanhas vizinhas); escada de mobilidade; velocidade
+  da informação; travessia de paredes regionais por rank.
+- `04 - Mundo/Atlas das Cinco Regiões.md` — 823 linhas, ~280 lugares nomeados.
+- `04 - Mundo/Lugares Fora das Cinco Regiões.md` — nove céus, Rio do Tempo, domínios
+  reclusos, Dez Terras, borda do mundo, em três andares de segredo.
+- `05 - Sociedade/Tipos de Gente e Filosofias de Vida.md` — 8 tipos, 11 posições em disputa.
+- `09 - Apendices/Catálogo de Golpes - Mortais.md` (90) e `- Imortais.md` (580).
+
+**Correções de conteúdo (contradiziam o vault)**
+
+1. Pasta `07`: `origin path` era inferência apresentada como fato; Dao Lord divergia da fonte
+   única (capacidade global × posse territorial, e perda por saturação); amplificação 11×
+   contra os 10× da tabela soberana. Relatório em `_pipeline/REVISAO-didatica-07.md`.
+2. Casa de Gu **é** golpe assassino solidificado (mutuamente conversíveis); golpes cobram
+   **pensamentos** além de essência; totens escapam desse custo; existem golpes compostos.
+3. O eixo correto × demoníaco tem **três** facções. Distinção crítica: *solitário* é condição
+   estrutural, *neutro* é posição política, e elas não se implicam (há solitários do caminho
+   correto e solitários demoníacos).
+
+**Levantamentos em `_pipeline/pesquisa/`**: `filosofia-e-tom.md` (383 citações),
+`escala-e-viagem.md`, `atlas-sul-e-norte.md`, `atlas-centro-e-oeste.md`,
+`atlas-leste-e-fora.md`. Notas brutas de golpes em `_pipeline/notas/golpes-caps-*.md`
+(877 linhas de extração, 6 faixas).
+
+**Aviso de processo:** agentes paralelos compartilham o scratchpad da sessão e um
+sobrescreveu o arquivo auxiliar de outro. Instruir sempre nomes de arquivo únicos por agente.

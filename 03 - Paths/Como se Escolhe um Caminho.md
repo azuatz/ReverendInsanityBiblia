@@ -169,6 +169,108 @@ Reverter existe e é caro: há Gu especializados em desfazer modificações corp
 desfazer devolve o corpo, não os anos. `(ded.)` O praticante volta a ser fraco — não é um
 botão de recomeçar, é uma amputação.
 
-<!-- SECOES: ascensao / de onde vem as marcas / dirigir aquisicao / para o design / relacoes -->
+## A ascensão: o instante em que a preferência vira natureza
+
+Passar do nível 5 para o nível 6 é a fronteira mais dura do sistema — de dez mil Mestres Gu
+de nível 5, nem um a completa. O processo tem três passos, e o terceiro é o que interessa
+aqui.
+
+1. **Estilhaçar a abertura mortal**, atacando por dentro a parede que a fecha.
+2. **Equilibrar os três qi** — céu, terra e homem — numa esfera condensada em torno do
+   corpo. O candidato precisa controlar pessoalmente essa fusão; ninguém de fora pode
+   interferir.
+3. **Inserir o Gu Vital** no centro da esfera. A explosão arrebenta o que restou da abertura
+   mortal e forma no lugar a **abertura imortal**: um mundo em miniatura autocontido, com
+   céu, chão, terreno e fluxo de tempo próprios.
+
+E aqui está a frase que esta nota inteira existe para dizer:
+
+> **O Gu Vital inserido no passo 3 determina o caminho do Gu Imortal resultante.**
+
+Não há escolha a fazer no momento da ascensão. A escolha já foi feita — décadas ou séculos
+antes, quando aquele Gu foi consagrado por um adolescente que não sabia o que estava
+fazendo. O que a ascensão faz é **cobrar a conta e torná-la irreversível**.
+
+### O que exatamente muda de estado
+
+Três coisas ao mesmo tempo, e é a soma delas que transforma preferência em natureza:
+
+- **A abertura imortal nasce com um caminho.** O mundo em miniatura que se forma tem
+  paisagem, clima e recursos que refletem o caminho do Gu Vital, além da fundação e do
+  temperamento do dono. Ele passa a **produzir naturalmente o alimento dos Gu daquele
+  caminho** — o que significa que manter Gu de outro caminho obriga a comprar comida fora,
+  para sempre.
+- **O corpo é remodelado por caminho.** Os três qi refazem o corpo do ascendente conforme o
+  Gu Vital, produzindo o que a obra chama de "corpo imortal de [caminho]". Gu e golpes
+  daquele caminho passam a ter efeito amplificado; **os de outros caminhos ficam
+  ordinários**. Não é um bônus opcional: é a nova constituição física da pessoa.
+- **A ressonância vira a regra do inventário.** Um Gu Imortal do mesmo caminho das marcas do
+  usuário rende acima do valor nominal e ainda aprofunda a compreensão dele; um de caminho
+  incompatível rende bem menos. Os percentuais estão em
+  [[Tabelas de Referência Rápida#7. Amplificação por dao marks]].
+
+Junte as três e você entende por que os imortais deste mundo são especialistas estreitos e
+não generalistas. **Não é cultura, é aritmética.** Ser generalista significa pagar três vezes
+— rendimento menor, logística de alimento externa e nenhum ganho de compreensão — por cada
+peça fora do próprio caminho.
+
+> [!note] A comparação que ajuda
+> No mundo mortal, o caminho é como o sotaque de alguém: formou-se sozinho, dá para perceber
+> de fora, e ainda é possível falar outras línguas com esforço. Depois da ascensão, o caminho
+> é a **anatomia** dessa pessoa. Ela não fala outras línguas mal — ela tem uma boca com um
+> formato só.
+
+### Quem escolhe mal
+
+A obra é explícita sobre o custo social e pessoal dessa arquitetura, e ele é uma das
+tragédias mais eficientes do cenário: **a decisão mais consequente da carreira de um
+cultivador é tomada por um adolescente, geralmente com um Gu barato que o clã pôde pagar.**
+
+O caso arquetípico é o do cultivador brilhante preso a um caminho medíocre porque a família
+era pobre quando ele tinha quinze anos. Ele pode ser genial, pode acumular séculos de estudo,
+pode enriquecer — e ainda assim o corpo imortal dele é do caminho daquele bicho barato.
+
+A obra, no entanto, **não descreve um imortal que ascendeu, se arrependeu do caminho e tentou
+desfazer a ascensão**. O que ela mostra é o inverso, e é mais interessante: gente que
+**planeja** a ascensão com décadas de antecedência justamente para não cair nessa armadilha —
+trocando o Gu Vital enquanto ainda é mortal (com o backlash brutal que isso custa), ou
+elevando o Gu Vital de nível antes de ascender.
+
+Duas alavancas legítimas que a obra registra para quem chega preparado:
+
+- **Uma segunda abertura dá um segundo Gu Vital.** Quem consegue abrir uma segunda abertura
+  ganha um segundo slot de Gu Vital independente — e, na ascensão, **escolhe qual abertura
+  estilhaçar e qual Gu Vital usar**, escolhendo assim o caminho do imortal resultante. É a
+  única forma documentada de chegar à ascensão com uma decisão de caminho ainda em aberto. De
+  quebra, se a tentativa falhar, o custo é apenas a abertura sacrificada.
+- **O passo 2 é uma janela de compreensão direcionável.** O equilíbrio dos três qi é descrito
+  como um momento único de comunhão com o Grande Dao, e o salto de domínio que ele concede
+  pode ser dirigido a um caminho escolhido. Não muda o caminho do corpo — muda o quanto se
+  entende de um caminho.
+
+### Dá para mudar depois?
+
+Esta é a pergunta que toda mesa vai fazer, e a resposta honesta tem três camadas.
+
+**O corpo e a abertura, não.** O corpo imortal de um caminho e a natureza da abertura são
+resultado de um processo irreversível. A obra não descreve ninguém refazendo isso.
+
+**As marcas, sim — parcialmente e a custo alto.** Existem técnicas que convertem dao marks de
+um caminho em outro, e o [[Transformation Path|caminho da transformação]] funciona como
+conversor universal — é justamente o que lhe dá a menor barreira de entrada de todos. Isso
+permite **acrescentar** um caminho, não trocar o de baixo.
+
+**Um segundo caminho, sim, e é o padrão da elite.** Todo Venerável cultiva dois caminhos: um
+principal e público, outro de especialidade e mantido em segredo absoluto. A mesma
+arquitetura aparece em escala menor entre cultivadores fortes. Ou seja: no reino imortal a
+resposta a "escolhi mal" não é trocar de caminho — é **adicionar** um, pagando o preço de
+carregar dois conjuntos de marcas que não se ajudam.
+
+Existe ainda uma rota de nicho: **desfazer uma segunda abertura já elevada a imortal
+transfere as dao marks daquele caminho para o corpo físico**, que passa a ser ele mesmo um
+material imortal daquele caminho. É segredo de alto nível e não é uma opção de carreira
+comum, mas registra que a arquitetura tem juntas móveis para quem tem poder de sobra.
+
+<!-- SECOES: de onde vem as marcas / dirigir aquisicao / para o design / relacoes -->
 
 ## Relações

@@ -8,7 +8,7 @@ aliases:
   - Immortal Killer Moves
   - Golpes Assassinos Imortais
 status: consolidado
-fontes: ["_pipeline/notas/golpes-caps-0001-0649.md", "_pipeline/notas/golpes-caps-0650-1021.md", "_pipeline/notas/golpes-caps-1022-1330.md", "_pipeline/notas/golpes-caps-1331-1650.md", "_pipeline/notas/golpes-caps-1651-1966.md", "_pipeline/notas/golpes-caps-1967-2334.md", "cap. 431", "cap. 629-642", "cap. 650-1021", "cap. 1022-1330", "cap. 1331-1650", "cap. 1651-1966", "cap. 1967-2334"]
+fontes: ["_pipeline/notas/golpes-caps-0001-0649.md", "_pipeline/notas/golpes-caps-0650-1021.md", "_pipeline/notas/golpes-caps-1022-1330.md", "_pipeline/notas/golpes-caps-1331-1650.md", "_pipeline/notas/golpes-caps-1651-1966.md", "_pipeline/notas/golpes-caps-1967-2334.md", "cap. 431", "cap. 629-642", "cap. 650-1021", "cap. 1022-1330", "cap. 1331-1650", "cap. 1651-1966", "cap. 1967-2334", "cap. 768", "cap. 883-884", "cap. 941", "cap. 995", "cap. 1015", "cap. 1090", "cap. 1338", "cap. 1346", "cap. 1386-1387", "cap. 1396", "cap. 1415", "cap. 1434", "cap. 1436", "cap. 1463-1465", "cap. 1485-1488", "cap. 1547", "cap. 1572", "cap. 1609", "cap. 1716", "cap. 1748", "cap. 1759", "cap. 1789", "cap. 1819", "cap. 1875", "cap. 1898", "cap. 1915", "cap. 1937", "cap. 1944-1946", "cap. 2033", "cap. 2157", "cap. 2181", "cap. 2197", "cap. 2305", "_pipeline/AUDITORIA-catalogos-golpes.md"]
 conhecimento: especializado a segredo — que golpes imortais existem é conhecimento corrente entre Gu Imortais; a composição exata de um golpe, sua sequência de ativação e suas falhas são segredo pessoal, e as fichas marcadas com 🔒 são conhecidas por pouquíssimos
 ---
 

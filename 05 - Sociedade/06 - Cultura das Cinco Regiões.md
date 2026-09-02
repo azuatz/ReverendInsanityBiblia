@@ -95,8 +95,11 @@ determina como ele será tratado.
 ### Planícies do Norte — o mundo das tribos
 
 Uma estepe nômade, dura, com um inverno catastrófico recorrente que reorganiza a política
-inteira a cada década. A palavra "seita" é **proibida** como forma organizacional: qualquer
-estrutura formal precisa se constituir como **tribo**.
+inteira a cada década. A forma normal de organização é a **tribo**, fundada em linhagem de
+sangue — e a seita, que se funda em vínculo de mestre e discípulo, é a ideologia rival.
+Não há proibição escrita: o que existe é hostilidade ativa do suserano da região, forte o
+bastante para que quem funda uma seita ali o faça em segredo ou em escala pequena. Seitas
+do norte existem, e a obra nomeia duas.
 
 - **Estrutura:** tribos pequenas, médias, grandes e **super tribos**. A definição de super
   tribo é qualitativa e precisa — possuir um Mestre Gu Imortal *e* um território de cultivo

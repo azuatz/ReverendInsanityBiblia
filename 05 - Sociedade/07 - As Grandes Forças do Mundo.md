@@ -106,7 +106,7 @@ cultural, mas por estrutura. Ver [[04 - As Cinco Regiões|As Cinco Regiões]] pa
 | Região | Forma dominante | Existe um poder unificador? |
 |---|---|---|
 | **Continente Central** | Seitas (recrutamento por talento) | **Sim** — o Tribunal Celestial, único caso de região com liderança única |
-| **Planícies do Norte** | Tribos (linhagem de sangue); "seita" é forma proibida | **Em parte** — o Céu da Longevidade, via uma insígnia de autoridade, dá ao norte a segunda melhor coesão do mundo, mas não é liderança única |
+| **Planícies do Norte** | Tribos (linhagem de sangue); a seita é forma *hostilizada*, não proibida | **Em parte** — o Céu da Longevidade, via uma insígnia de autoridade, dá ao norte a segunda melhor coesão do mundo, mas não é liderança única |
 | **Fronteira do Sul** | Clãs (laços de sangue) | **Não** — existe um clã nº 1, mas a obra classifica a região entre as desunidas, controladas por super forças independentes |
 | **Deserto do Oeste** | Clãs | **Não** — e a obra aponta isso como a fraqueza estrutural da região |
 | **Mar do Leste** | Clãs, sobre territórios marítimos possuídos individualmente | **Não** — a região mais rica e a mais sem dono |

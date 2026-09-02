@@ -120,9 +120,18 @@ incontáveis recifes e redemoinhos", e um descuido mata na hora. Atravessar exig
 rota preciso** — e as rotas **expiram**: depois de algumas marés, as forças mudam de lugar e o
 mapa velho não vale nada.
 
-É por isso que o Mar Oriental é, explicitamente, **a região mais receptiva a estrangeiros das
-cinco** — e também a mais permeável a espiões. E é por isso que um bom cartógrafo de maré vale
-uma fortuna que vence todo ano.
+É por isso que o Mar Oriental é, explicitamente, **a região mais aberta das cinco** — a
+Fronteira Sul é a que menos aceita forasteiros, o Mar Oriental é a mais aberta e o Continente
+Central vem em seguida. E é por isso que um bom cartógrafo de maré vale uma fortuna que vence
+todo ano.
+
+Uma ressalva importante, e a obra a faz sem meias palavras: **"a xenofobia dos Mestres Gu das
+cinco regiões é bem forte. Mesmo no Mar Oriental, o mais aberto de todos, os Mestres Gu
+Imortais estrangeiros não tinham vida fácil: eram com frequência isolados e maltratados pelos
+Mestres Gu do Mar Oriental."** Mais aberta que as outras não quer dizer acolhedora. O
+estrangeiro entra — e depois precisa comprar seu lugar, o que na prática significa **oferecer
+uma capacidade que ninguém local tem**. Foi assim que um forasteiro do Norte se estabeleceu na
+região: chegou com dois Gu Imortais de cura temporal, e passou a ser disputado.
 
 ### 5. A região mais rica, e a mais desunida
 
@@ -182,6 +191,31 @@ não tem **nenhum** rank 8. É esse empate que mantém o Leste em paz e, ao mesm
   sustentá-lo. Comparado a ele, o grande mercado imortal do mundo é "apenas um mercado aberto".
 
 Ver [[05 - Mercados e Leilões|Mercados e Leilões]] para como esses eventos funcionam por dentro.
+
+### 9. Uma casta profissional protegida: os extratores de água oleosa
+
+A **água oleosa** (*oil water*) é um material de refino que se forma no fundo do mar e nas
+grandes fossas. É **comuníssima no Mar Oriental** e rara nas Planícies do Norte e no Deserto
+Ocidental — e mesmo assim quase nunca chega ao grande mercado imortal, por duas razões: em
+pequena quantidade a margem não paga a taxa do mercado, e em grande quantidade a oferta é
+rara, porque **a própria região consome o que produz**.
+
+Extraí-la não é trivial: exige um **conjunto específico de Gu**, e as receitas desse conjunto
+são **transmitidas de geração em geração** dentro de um grupo pequeno e especializado de
+Mestres Gu que descem ao fundo do mar para colher. A obra registra o estatuto social deles numa
+frase que vale ouro para uma mesa: *"eles não tinham força de combate alta, mas seu status
+social era alto e eles eram bem-vindos em todas as forças do Mar Oriental"*.
+
+É uma poça renovável, além disso: quem tem um poço de água oleosa pode **regenerá-lo
+indefinidamente** acrescentando água limpa de tempos em tempos, deixando que ela se misture ao
+qi da terra. Território, receita hereditária e um recurso que se refaz sozinho — a base
+material de uma linhagem inteira que **não precisa saber lutar**.
+
+> [!note] Para o design
+> É o raro caso, na obra, de **poder social sem poder de combate**. Um velho extrator sem um
+> único golpe ofensivo é recebido por super forças, e a única coisa que ele quer é um herdeiro
+> — a obra conta que um deles ofereceu a neta em casamento a um forasteiro competente, com a
+> condição de que ele **adotasse o sobrenome da família**. Uma campanha inteira cabe nisso.
 
 ---
 
@@ -1175,11 +1209,12 @@ foram conferidas no texto-fonte.
    votos.
 6. **Não há número total de imortais da região**, nem contagem exata de rank 8 — só a afirmação
    de que é a região com mais rank 8 do mundo, e oito deles nomeados.
-7. **Não há descrição da vida mortal no Mar Oriental.** Nada sobre academias de clã, justiça,
-   tributos ou cotidiano de Mestre Gu mortal — tudo que a obra mostra da região é o andar
-   imortal. A única exceção fica **dentro do Paraíso da Baleia-Dragão**: aldeias de pescadores,
-   cidades submarinas, tribos com peste e poços que secam. Se a mesa quiser jogar com
-   personagens mortais no Leste, o Paraíso é o modelo canônico mais próximo.
+7. **Quase não há descrição da vida mortal no Mar Oriental.** Nada sobre academias de clã,
+   justiça, tributos ou cotidiano de Mestre Gu mortal; quase tudo que a obra mostra da região é
+   o andar imortal. As duas exceções são os **extratores de água oleosa** e o que se vê **dentro
+   do Paraíso da Baleia-Dragão** — aldeias de pescadores, cidades submarinas, tribos com peste,
+   poços que secam. Se a mesa quiser jogar com personagens mortais no Leste, o Paraíso é o
+   modelo canônico mais próximo.
 8. **Não há mapa.** A obra dá relações de vizinhança e distâncias em correntes ("quatro
    correntes e um dia e meio, dez áreas de mar"), mas nunca uma geografia fechada.
 

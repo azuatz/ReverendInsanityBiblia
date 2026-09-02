@@ -106,8 +106,8 @@ cultural, mas por estrutura. Ver [[04 - As Cinco Regiões|As Cinco Regiões]] pa
 | Região | Forma dominante | Existe um poder unificador? |
 |---|---|---|
 | **Continente Central** | Seitas (recrutamento por talento) | **Sim** — o Tribunal Celestial, único caso de região com liderança única |
-| **Planícies do Norte** | Tribos (linhagem de sangue); "seita" é forma proibida | **Sim** — o Céu da Longevidade, via uma insígnia de autoridade |
-| **Fronteira do Sul** | Clãs (laços de sangue) | **Sim** — o clã nº 1 da região, por hegemonia informal |
+| **Planícies do Norte** | Tribos (linhagem de sangue); "seita" é forma proibida | **Em parte** — o Céu da Longevidade, via uma insígnia de autoridade, dá ao norte a segunda melhor coesão do mundo, mas não é liderança única |
+| **Fronteira do Sul** | Clãs (laços de sangue) | **Não** — existe um clã nº 1, mas a obra classifica a região entre as desunidas, controladas por super forças independentes |
 | **Deserto do Oeste** | Clãs | **Não** — e a obra aponta isso como a fraqueza estrutural da região |
 | **Mar do Leste** | Clãs, sobre territórios marítimos possuídos individualmente | **Não** — a região mais rica e a mais sem dono |
 
@@ -116,6 +116,20 @@ conflito é canalizado por regras e a política fica previsível; onde não exis
 forças negociam de igual para igual, ninguém arbitra, e a região inteira fica difícil de
 coordenar — a obra observa explicitamente que o Deserto do Oeste **nunca teve** um poder
 dominante e que é exatamente isso que trava qualquer cooperação de larga escala ali.
+
+> [!warning] Só uma região do mundo tem liderança única
+> A obra é literal a respeito: o Continente Central tem a fundação mais profunda, o maior
+> número de Mestres Gu e de Gu Imortais **e um líder unificado — algo que nenhuma das
+> outras quatro regiões possui**. Mar do Leste, Deserto do Oeste, Fronteira do Sul e
+> Planícies do Norte são todas controladas por super forças independentes e são
+> **desunidas**; o norte fica um pouco melhor que os outros três por causa do Céu da
+> Longevidade, e só. Ter um clã nº 1 na Fronteira do Sul **não** é o mesmo que ter um
+> poder unificador: é hegemonia informal entre iguais, que os outros doze super clãs
+> reconhecem quando lhes convém.
+>
+> Numa mesa, a consequência prática é direta: fora do Continente Central, não existe a
+> quem recorrer. Nenhuma autoridade regional resolve uma disputa entre super forças, e
+> nenhuma protege quem está embaixo.
 
 ---
 
@@ -132,9 +146,11 @@ detalhada da obra, e por isso a que oferece mais material pronto.
 
 ### Clã Wu — o nº 1 da região
 
-- **Poder:** hegemonia informal sobre toda a Fronteira do Sul. Junto com o Céu da
-  Longevidade no norte, é um dos **dois únicos casos no mundo** de uma região com um poder
-  dominante unificador; as outras três nunca tiveram um.
+- **Poder:** hegemonia informal sobre toda a Fronteira do Sul — primeiro entre pares, não
+  soberano. Junto com o Céu da Longevidade no norte, é um dos dois casos de região onde
+  alguém se destaca o bastante para arbitrar de vez em quando; ainda assim a obra classifica
+  as duas regiões entre as **desunidas**, porque nenhum dos dois manda de direito. Liderança
+  única, no mundo inteiro, só o Continente Central tem.
 - **O que domina:** o **[[04 - Strength Path|caminho da força]]**. A soberana histórica do clã
   detinha uma das **três** heranças antigas de caminho da força existentes no mundo
   inteiro — uma escassez que faz do clã Wu a porta praticamente obrigatória para esse

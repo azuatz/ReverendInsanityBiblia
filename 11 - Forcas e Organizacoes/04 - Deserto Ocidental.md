@@ -616,7 +616,7 @@ de longe.
 
 | | |
 |---|---|
-| **Manda quem** | Há **primeiro** e **segundo anciãos supremos**; o primeiro é figura de peso regional, reconhecida até fora da região, e pode passar longos períodos em cultivo fechado, com o segundo assumindo. Nomes e ranks `—` |
+| **Manda quem** | Há **primeiro** e **segundo anciãos supremos**; o primeiro pode passar longos períodos em **cultivo fechado**, e nesse caso o segundo assume e mobiliza a casa inteira. Nomes e ranks `—` |
 | **Caminho de casa** | **Caminho do osso** `(ded.)`, pelo território e pelo perfil de seus guardiões |
 | **Porte** | Duas Casas de Gu Imortais mobilizáveis |
 | **Alinhamento** | Caminho correto `(ded.)` |
@@ -701,10 +701,10 @@ Vale um registro honesto, porque é uma inconsistência real da obra. O clã Xi:
   Ocidental**, entre os grandes que ficaram em casa numa mobilização mundial;
 - tem cena própria, com esse líder comentando a política do mundo de dentro de uma sala de
   cultivo fechado;
-- e teve, em algum momento, um **ancestral de rank 8** que "saiu da reclusão, suprimiu todos
-  os especialistas pela força e impôs sua majestade a todo o grande deserto" — um dos
-  raríssimos momentos em que um único indivíduo impôs ordem à região inteira. Foi ele quem
-  tomou para o clã a **árvore dos mil desejos** e a plantou na terra abençoada da casa.
+- e teve um **ancestral de rank 8** de quem a obra conta que "saiu da reclusão, suprimiu
+  todos os especialistas pela força e impôs sua majestade a todo o grande deserto" — um dos
+  raríssimos momentos em que um único indivíduo impôs ordem à região inteira, encerrando
+  uma disputa entre várias super forças e levando o objeto disputado para casa.
 
 **Mas o clã Xi não aparece na enumeração das catorze super forças.** A obra não resolve isso:
 ou o clã Xi não é formalmente "super força" apesar do rank 8, ou a lista é posterior a alguma
@@ -907,10 +907,13 @@ pedido bem-sucedido**. Envolta num campo de ilusão gigantesco que faz a pessoa 
 círculos — só se sai dele **a pé**. Precisa de ambiente extremo para sobreviver e murcha se
 transplantada às pressas.
 
-Já foi objeto de uma grande batalha entre os Gu Imortais do Deserto Ocidental, resolvida
-quando várias super forças chegaram a um acordo para **repartir a árvore entre si** — o
-mecanismo de disputa da região, funcionando exatamente como esperado. Depois disso, foi tomada
-pelo clã Xi.
+No presente do cenário ela está **onde sempre esteve, sem dono**, protegida apenas pela
+própria ilusão. Mas a obra registra o que costuma acontecer quando ela é encontrada: uma
+grande batalha entre os Gu Imortais do Deserto Ocidental, encerrada quando várias super forças
+chegaram a um acordo para **repartir a árvore entre si** — e, logo depois, a chegada de um
+rank 8 que suprimiu todo mundo pela força e a levou embora inteira. É o mecanismo de disputa
+da região funcionando exatamente como esperado, incluindo a parte em que o acordo não
+sobrevive ao primeiro sujeito forte o bastante para ignorá-lo.
 
 ---
 
@@ -971,7 +974,7 @@ E dois casos de cultivador solitário que valem como modelo de carreira:
 | **Clã Sun** | Investigação | Primeiro ancião supremo | Correto | A covardia declarada, e os melhores olheiros |
 | **Clãs Zuo Qiu e Tuoba** | `—` | `—` | Correto `(ded.)` | O golpe estado de desunião, que trava Casas de Gu; o bloco estável com Shi |
 | **Clã Qin** | `—` | `—` | Correto `(ded.)` | `—` |
-| **Clã Xi** | `—` — estatuto ambíguo | Primeiro ancião supremo de primeira grandeza | `—` | A árvore dos mil desejos, em sua terra abençoada |
+| **Clã Xi** | `—` — estatuto ambíguo | Primeiro ancião supremo de primeira grandeza | `—` | Um ancestral rank 8 que já impôs ordem ao deserto inteiro sozinho |
 | **Clã Huang** | Senhorio de oásis (escalão superior) | Casa mortal | `—` | Séculos no oásis Sha Jing |
 | **Clã Lan** | Criação de gaivotas-de-areia | Líder de clã idoso, sem imortal | **Neutro por doutrina** | A técnica secreta de fertilidade das montarias da região |
 | **Cidade Sagrada da Pena** | Um povo alado inteiro | Rei por torneio + três anciãos supremos | Neutro, isolado | Ela mesma é uma Casa de Gu Imortal; o golpe desejo celeste |

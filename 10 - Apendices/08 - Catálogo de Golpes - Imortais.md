@@ -1105,6 +1105,60 @@ atacá-la pelo caminho em que o dono tem **domínio zero**.
 
 ---
 
+## Caminho da maldição (*curse path*)
+
+Um caminho que a obra só registra por uma família — a de um clã do Deserto Ocidental — e
+sempre com a mesma assinatura: **combate a longuíssima distância, sem que a vítima
+perceba nada**. Os golpes de maldição desse clã são descritos como imperceptíveis e
+capazes de tirar a vida em silêncio mesmo com um vão enorme separando as duas pessoas.
+Um único golpe do caminho aparece nomeado.
+
+| Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
+|---|---|---|---|---|
+| Bow Shadow Cup | 8 (ded., golpe mais famoso de um clã de super força) | — | **O golpe de assassinato a distância mais temido do Deserto Ocidental** — a obra diz que ele aterrorizou o mundo dos Gu Imortais da região inteira. O funcionamento é o de uma maldição de vodu com condição de alvo extremamente barata: basta ao usuário obter **um traço da sombra do alvo**; a partir daí ele aciona o golpe e **mata a pessoa a qualquer distância**, sem limite declarado e sem que ela perceba o ataque chegando. | **A condição é a sombra**: sem esse traço, o golpe não tem em quem se fixar — o que faz de qualquer prática de ocultação, disfarce ou anulação de sombra a contramedida natural (ded.). A obra não informa tempo de conjuração, custo, nem se um Gu Imortal de rank suficientemente alto resiste (—) |
+
+---
+
+## ⚔ Formações de batalha antigas (*ancient battle formations*)
+
+Esta é a forma **cooperativa** do golpe assassino, e a obra a trata como categoria
+própria. Uma formação de batalha antiga não usa Gu como núcleos: usa **pessoas** — ou,
+num projeto registrado, feras. Vários Gu Imortais entram na formação, cada um ocupa a
+posição de um núcleo, e o conjunto passa a agir como **uma entidade só**.
+
+O que a obra descreve do funcionamento interno é bem específico, e vale como regra do
+mundo: dentro da formação, **as forças de todos se somam**, **as fundações de alma se
+somam**, a **essência imortal vira um caixa comum** que qualquer um pode gastar, e todos
+**se comunicam por pensamento** de modo que qualquer ideia é sentida na hora por todo o
+grupo. A soma das almas tem consequência tática direta: um golpe inimigo que suprime pela
+fundação de alma **deixa de ser decisivo**, porque agora ele enfrenta a soma das almas de
+mais de dez imortais em vez da alma de um. E a formação **amplifica os golpes assassinos
+disparados de dentro dela** — um golpe de rank 7 acionado lá dentro matou uma
+besta-desolada-antiga com força de combate de rank 7 em três respirações.
+
+Os limites também são claros. A potência é **puxada para baixo pelo participante mais
+fraco**: o dono de uma formação reclamou em voz alta que os imortais medíocres que a
+compunham estavam segurando o desempenho dela. Cada ação custa **contas de essência
+imortal do caixa comum**, inclusive consertar o próprio corpo da formação. E são
+tecnologia **extinta**: a obra diz que as formações de batalha antigas foram "enterradas
+dentro do Rio do Tempo" e que ver uma em funcionamento é privilégio raro.
+
+> [!note] Para o design
+> Aqui está a regra de grupo que falta em quase todo sistema de RPG: em vez de somar
+> ações individuais, a formação transforma o grupo num personagem único com ficha
+> própria, caixa de recursos compartilhado, comunicação livre e resistência calculada
+> sobre a soma — e cujo desempenho é limitado pelo elo mais fraco. É cooperação com
+> custo social embutido.
+
+| Formação | Posição histórica | Núcleos | O que faz | Custo, risco ou limite |
+|---|---|---|---|---|
+| Golden Heavenly Saint ⚔ | **a primeira do mundo** na Era da Antiguidade Remota | — | A obra **só informa a posição no ranking**: era a formação de batalha antiga mais forte do mundo, acima das duas que ela descreve em cena. Nenhum efeito, núcleo, dono ou aparência é registrado (—). | — |
+| Heavenly Giant Solor ⚔ | **a segunda do mundo** na Era da Antiguidade Remota | mais de dez Gu Imortais, cada um alojado num núcleo de formação | **Monta um gigante de metal prateado de dezenas de metros, com três cabeças e seis braços.** A montagem é descrita passo a passo: dezenas de milhares de Gu são teleportados e cobrem todos os participantes; a luz prateada estoura e se condensa em líquido metálico; o dono grita o nome três vezes; o líquido explode criando por dentro um espaço do tamanho de um pátio, onde surge uma formação tridimensional de linhas de luz e cada imortal recebe sua posição. O gigante então solidifica e abre os olhos. Por dentro, **a visão de todos é sincronizada com a do gigante**, todas as forças e fundações de alma se somam, a essência imortal é usada em comum e o pensamento circula livre. O corpo **se autorrepara**: um amassado no peito se desfez sozinho com um clarão prateado. E **três imortais podem disparar três golpes defensivos ao mesmo tempo, transformando três braços do gigante de uma vez** — cada braço vira o golpe do seu operador. | Cada golpe, cada colisão e cada reparo custa **várias contas de essência imortal** do caixa comum. A potência **cai para o nível dos participantes mais fracos**. E a formação só existe enquanto todos permanecem dentro dela e enviam essência — o dono precisa mandar, em voz alta, que enviem |
+| Green City Rampage ⚔ | **a terceira do mundo** na Era da Antiguidade Remota | os **quatro** anciãos supremos mais fortes de uma super força tribal, agindo juntos | Faz surgir um **gigante verde que rasga o espaço** e se planta no chão. Dispara uma luz misteriosa da testa e ataca com uma **mão verde gigante que afeta o tempo** — ela agarrou um Gu Imortal antes que qualquer um dos presentes conseguisse reagir, e a vítima não conseguiu se mover. Que a tribo dona a controla é fato público em toda uma região do mundo, o que faz do seu simples aparecimento um anúncio: se ela apareceu, os quatro anciãos vieram juntos. | Exige **exatamente os quatro anciãos supremos mais fortes ao mesmo tempo** — é impossível montá-la sem esvaziar a cúpula da tribo, e por isso o custo real é político. A obra registra que quem foi agarrado só escapou por artifício, não por força |
+| Omni-directional Travel ⚔ | — | quatro ou mais Gu Imortais, usados como núcleos | **Teleporte de grupo.** Todos os que estão na formação desaparecem juntos e reaparecem muito longe — foi assim que um grupo atravessou de um extremo a outro de uma região. Sua vantagem declarada sobre os métodos de teleporte comuns é que, por **usar pessoas como núcleos**, tem **exigências muito menores** quanto a quem participa: não depende de um Gu Imortal de viagem específico, e por isso é muito mais difícil de bloquear por quem tentaria travar o Gu. | **Leva só quem está na formação**: numa fuga, um dos presentes ficou para trás e os outros sumiram sem ele. Nasceu **cheia de falhas e pouco útil**, e só ficou boa depois de modificada por um especialista. E pode ser **estrangulada**: um golpe que tranca o alvo no ar reduziu o alcance de um salto a **menos de dez por cento** do normal, deixando o grupo parado ao alcance do caçador |
+| Twelve Zodiac Battle Formation ⚔ | — (**projetada, nunca construída**) | **doze feras do ano imemoriais, de doze espécies diferentes** | Formação **de ofensiva pura**, e — ao contrário das outras — **móvel**, apesar do tamanho. A elegância do projeto está na manutenção: fora de combate, as doze feras são **seladas e viram estátuas**, imóveis e sem precisar comer; em combate, o selo é solto e elas se montam na formação e atacam. É a variante da categoria que usa feras, e não Gu Imortais, como núcleos. | **Só serve com feras do ano imemoriais**: feras antigas ou desoladas não montam a formação, e as doze precisam ser de **espécies distintas**. Reunir doze feras imemoriais diferentes exige força e sorte, e leva muito tempo — foi exatamente por isso que o projeto **foi descartado em favor de outro plano**. Esta ficha registra um projeto descrito em detalhe, não uma formação que a obra tenha mostrado funcionando |
+---
+
 ## 🎴 Totens
 
 A quinta forma de usar Gu, e a mais recente. Não se conjuram: já estão prontos,
@@ -1196,6 +1250,8 @@ qualquer — o número de núcleos, o modo de ativação, o custo.
 | Nine Essence Jade Dew Pill | 6–9 | — (caminho da pílula) | **Cura em combate**: restaura os aliados feridos | — |
 | Life Sustaining Small Revival Pill | 6–9 | — (caminho da pílula) | **Prolonga à força a vida** de quem foi atingido por um ataque fatal | — |
 | Earth Water Wood Fire Four Elements Shifting Formation 🔗 | 6–9 | — — terra + água + madeira + fogo, com **quatro Gu Imortais** operando juntos | Formação de quatro elementos que **aprisiona e desloca** o alvo | Os quatro operadores ficam expostos ao alvo preso — "mortais deitados sobre um dragão maligno". Foi usada deliberadamente como **isca**: sua função real era criar o ambiente para um golpe aliado, não prender o alvo |
+| Benevolent Equality | 8–9 (ded., usado por uma rank 8 contra um método de Venerável) | **Benevolence** (Gu Imortal, núcleo) — peça de uma herança verdadeira de Venerável, guardada por outra facção | **Iguala condições por olhar.** A obra explica o efeito e diz que ele é literalmente o que o nome promete: enquanto a usuária mantém o golpe, **as pessoas que ela olhar durante o processo passam a experimentar mudanças equivalentes de condição** — o que aconteceu a uma passa a acontecer às outras. O uso registrado é o mais extremo possível: ela percebeu que alguém havia renascido com as memórias da vida anterior e, olhando para um aliado, transferiu-lhe a mesma condição. Foi construído deliberadamente como **contramedida a um golpe de renascimento do caminho do tempo** — a lógica é que, se o inimigo pode voltar no tempo, o golpe faz seus adversários voltarem também. | O núcleo **não pertence a quem usa o golpe**: foi preciso **pedir emprestado** a um herdeiro de outra facção, que impôs a condição de a interessada **subir a pé até o topo de uma montanha** para ganhar o direito — e a obra registra que a subida é tanto mais dura quanto maior o cultivo de quem sobe. Sem o empréstimo, o golpe é inutilizável. Falha silenciosa registrada: a usuária **acreditou ter ativado o golpe, avisou o aliado que havia dado certo, e não o tinha ativado** — o golpe não avisa quando não sai |
+| Collapsing Art | 7 (ded., de um rank 7) | — | Golpe **criado pelo próprio dono**, Yao Geng. A obra não descreve o efeito (—), mas registra a cena: no lugar onde ele foi usado, um poço de maré de sangue **entrou em erupção e causou grande destruição**, e investigadores enviados ao local encontraram os vestígios do golpe. Pelo nome e pelo resultado, é um golpe de **desmoronamento/colapso** de estrutura ou terreno (ded.). | O que este golpe ensina não é sobre poder, e sim sobre **perícia forense**: golpes assassinos **deixam vestígios identificáveis**. Investigadores conseguiram, a partir das marcas no chão, nomear o golpe e o dono, e a obra chama essas evidências de indiscutíveis. Quem usa um golpe-assinatura assina o crime — e, por isso mesmo, **imitar o golpe de outra pessoa é uma técnica de incriminação conhecida na história** |
 
 ---
 

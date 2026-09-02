@@ -99,9 +99,13 @@ mudam tudo:
     não antiguidade: o caminho da regra tem criador datado e é muito posterior aos
     primordiais da regra 3. Ele é a mãe no sentido em que a aritmética é a "mãe" da
     engenharia — mais abstrata e aplicável a tudo, não mais velha.
-12. **Só dois caminhos deixam "significado verdadeiro" como herança** — o da regra e o
-    [[12 - Wisdom Path|da sabedoria]] — porque um porta a *verdade* de um conceito e o outro
-    porta a *vontade*. Os dez Veneráveis são exceção a tudo.
+12. **Dois caminhos deixam "significado verdadeiro" com muito mais facilidade que os outros** — o
+    [[16 - Rule Path|da regra]] e o [[12 - Wisdom Path|da sabedoria]] —, porque *todo significado
+    verdadeiro envolve a **verdade** do caminho da regra e a **vontade** do caminho da sabedoria*.
+    **Mas eles não são os únicos:** os demais caminhos conseguem deixar o seu **desde que alcancem
+    certo nível de imitação desses dois**. A obra dá exemplos nominais — significado verdadeiro do
+    refino, da transformação, da formação, da sorte, da força, do fantasma, do humano. Ver a seção
+    "Significado verdadeiro: quem consegue deixar um" logo abaixo.
 13. **Chegar a grande grão-mestre produz uma mudança qualitativa específica daquele
     caminho**, não um bônus genérico. No caminho das formações, passa-se a construir
     formações a partir das marcas naturais do terreno, sem materiais. No do fogo,

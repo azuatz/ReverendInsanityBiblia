@@ -97,11 +97,11 @@ categoria do adversário.
 > Como **formação**: exige um investimento inicial (montagem, registro, um suporte físico),
 > depois custa pouco por tempo, **beneficia todos dentro dela** e não exige que ninguém
 > conheça o golpe original. Subir um degrau é um projeto, não uma ação. E o suporte físico de
-> uma formação pode ser roubado ou destruído — o que o golgo pessoal não podia.*
+> uma formação pode ser roubado ou destruído — o que o golpe pessoal não podia.*
 
 ## Relações
 
 - [[07 - Killer Moves|Killer Moves]] — o degrau 1, em detalhe.
 - [[08 - Formações de Gu|Formações de Gu]] — o degrau 3, em detalhe.
 - [[21 - Formation Path|Formation Path]] — o caminho de cultivo que fornece as ferramentas de conversão.
-- [[26 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o que custa construir um golpe antes de poder promovê-lo.
+- [[23 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o que custa construir um golpe antes de poder promovê-lo.

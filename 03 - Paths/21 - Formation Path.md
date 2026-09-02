@@ -6,7 +6,7 @@ aliases:
   - Caminho das formações
   - Gu formation
 status: consolidado
-fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 818", "cap. 837", "cap. 871-874", "cap. 878", "cap. 882-885", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 979", "cap. 1004-1008", "cap. 1020", "cap. 1089", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316", "cap. 771", "cap. 818", "cap. 848", "cap. 872", "cap. 884", "cap. 905", "cap. 942", "cap. 943", "cap. 971", "cap. 980", "cap. 1003", "cap. 1030", "cap. 1038", "cap. 1067", "cap. 1069", "cap. 1070", "cap. 1090", "cap. 1119", "cap. 1333"]
+fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 771", "cap. 818", "cap. 837", "cap. 848", "cap. 871-874", "cap. 872", "cap. 878", "cap. 882-885", "cap. 884", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 943", "cap. 971", "cap. 979", "cap. 980", "cap. 1003", "cap. 1004-1008", "cap. 1020", "cap. 1030", "cap. 1038", "cap. 1067", "cap. 1069", "cap. 1070", "cap. 1089", "cap. 1090", "cap. 1119", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1333", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316"]
 conhecimento: comum
 ---
 
@@ -370,6 +370,14 @@ Fora de combate, o caminho é infraestrutura pesada e cara:
   os dois caminhos disputam parte do mesmo terreno.
 - **[[20 - Qi Path|Qi Path]]** — existem formações imortais cuja única função é amplificar
   golpes de qi.
+
+**Suprime (e é suprimido por):**
+- **[[22 - Information Path|Information Path]] — a relação mais interessante do caminho, e ela é
+  de mão dupla.** Uma formação **cala** a informação: golpes de campo de batalha normalmente
+  impedem pedir reforço por Gu de informação, e existe formação específica que isola golpes
+  imortais de informação de níveis 6 e 7. Mas uma formação suficientemente boa também **serve**
+  ao caminho da informação: foi uma super formação Gu que apagou as marcas do Dao de um
+  juramento de um corpo e de uma alma. A formação é ao mesmo tempo a mordaça e o solvente.
 
 **Sofre contra:**
 - **A própria imobilidade.** É a fraqueza-mestra, declarada nestes termos: *a esmagadora

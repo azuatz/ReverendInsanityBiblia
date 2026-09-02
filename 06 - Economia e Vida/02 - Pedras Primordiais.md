@@ -35,8 +35,7 @@ decisão econômica do mundo é, por construção, uma decisão de progressão.
 Detalhe físico útil para descrever em mesa: a pedra **encolhe visivelmente** conforme é
 drenada. Não existe carteira cheia disfarçando pobreza — dá para estimar a riqueza de
 alguém olhando as pedras dele. A descrição completa do objeto — tamanho, cor, peso, como se
-faz troco, como se confere, como se consome — está logo abaixo, em
-[[02 - Pedras Primordiais#A pedra na mão|A pedra na mão]].
+faz troco, como se confere, como se consome — está na seção **A pedra na mão**, logo abaixo.
 
 Um comentário que a própria obra faz, e que economiza uma página de explicação para a
 designer: a pedra primordial é descrita **explicitamente como o padrão-ouro deste mundo**,
@@ -565,6 +564,8 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 - [[04 - Vida Cotidiana|Vida Cotidiana]] — o que essas quantias significam para quem não cultiva.
 - [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] — por que uma moeda que também é combustível de cultivo faz do
   recurso escasso o motor de todos os conflitos do cenário.
+- [[11 - Vontade dos Céus|Vontade dos Céus]] — o que vem de carona dentro de cada pedra absorvida (leitura de
+  mestre).
 
 [^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para
     *primeval stone*. Adotamos "pedra primordial" nesta base por consistência com "essência

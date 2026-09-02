@@ -4,7 +4,7 @@ tags:
 aliases:
   - Soul Path
 status: consolidado
-fontes: ["cap. 366", "cap. 379", "cap. 398", "cap. 411", "cap. 422", "cap. 442", "cap. 443", "cap. 457", "cap. 477", "cap. 501", "cap. 508", "cap. 511", "cap. 517", "cap. 598", "cap. 599", "cap. 771", "cap. 772", "cap. 806", "cap. 808", "cap. 870", "cap. 880", "cap. 883", "cap. 903", "cap. 996", "cap. 1009", "cap. 1011", "cap. 1198", "cap. 1405", "cap. 1448", "cap. 1471", "cap. 1185", "cap. 1257", "cap. 412", "cap. 532", "cap. 535", "cap. 540", "cap. 877", "cap. 909", "cap. 953", "cap. 986", "cap. 997"]
+fontes: ["cap. 366", "cap. 379", "cap. 398", "cap. 411", "cap. 412", "cap. 422", "cap. 442", "cap. 443", "cap. 457", "cap. 477", "cap. 501", "cap. 508", "cap. 511", "cap. 517", "cap. 532", "cap. 535", "cap. 540", "cap. 598", "cap. 599", "cap. 771", "cap. 772", "cap. 806", "cap. 808", "cap. 870", "cap. 877", "cap. 880", "cap. 883", "cap. 903", "cap. 909", "cap. 953", "cap. 986", "cap. 996", "cap. 997", "cap. 1009", "cap. 1011", "cap. 1185", "cap. 1198", "cap. 1257", "cap. 1405", "cap. 1448", "cap. 1471"]
 conhecimento: comum
 ---
 

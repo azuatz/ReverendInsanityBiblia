@@ -427,6 +427,120 @@ inteira** e enganam qualquer um.
 | **"Caminho do trovão"** | Variante nominal do caminho do relâmpago; a obra usa os dois nomes para a mesma coisa. Ver [[27 - Os Caminhos Elementais\|Os Caminhos Elementais]] |
 | **caminho principal / de especialidade / secundário / mainstream / menor** | Termos **estruturais** do sistema, e importantes — mas não nomes de caminhos |
 
+## A camada escondida
+
+Os caminhos pequenos parecem sobras de catálogo. Na verdade, é **neles** que a obra deixa as regras
+mais reveladoras sobre como o sistema inteiro funciona — porque um caminho grande já está pronto e
+não mostra a costura, enquanto um caminho pequeno está sempre no meio de virar outra coisa.
+
+### 1. Um caminho não nasce inteiro: existem graus de separação
+
+A obra mostra **três estados diferentes** de "ser um caminho", e distingui-los resolve várias
+confusões de uma vez. O teste tem duas perguntas independentes: *este caminho tem marcas do Dao
+próprias?* e *ele tem significado verdadeiro próprio?*
+
+| Estado | Marcas do Dao próprias | Significado verdadeiro próprio | Exemplo canônico |
+|---|---|---|---|
+| **Conjunto de técnicas** | **Não** — *não existem marcas de encantamento e emoção neste mundo, só marcas do caminho da sabedoria* | Não | Caminho da **emoção** e do **encantamento**. Cultivá-los eleva o domínio no [[12 - Wisdom Path\|caminho da sabedoria]] |
+| **Ramo com corpo próprio** | **Sim** — existem lugares saturados de marcas fantasmas, e peritos procuram "marcas de fantasma, de espaço ou de roubo" ao periciar um campo de batalha | **Não** — *avançar no domínio do caminho fantasma é, na essência, ainda o significado verdadeiro do caminho da regra* | Caminho **fantasma** |
+| **Caminho pleno** | Sim | Sim | Os caminhos principais |
+
+(ded.) A escala acima é leitura nossa: a obra afirma cada uma das três situações separadamente e
+nunca as põe lado a lado. Mas a ordem é natural — **primeiro o mundo passa a produzir marcas
+próprias do fenômeno; só depois o caminho ganha um significado verdadeiro autônomo** — e ela
+corrige uma simplificação em que é fácil cair, a de achar que "ramo" significa sempre "sem marcas
+próprias". Não significa: o caminho fantasma tem as suas.
+
+### 2. O mundo escreve o caminho antes de a pessoa criá-lo
+
+Este é o achado mais estranho e mais aproveitável da nota.
+
+Existe pelo menos um lugar no mundo onde marcas do Dao de todos os caminhos se misturam em caos
+permanente — e, ali, **marcas do Dao inteiramente novas se formam sozinhas**. Um perito capaz de
+lê-las encontrou, no mesmo lugar:
+
+- marcas que ele identificou como sendo do **caminho das pílulas** (que já existia);
+- marcas do **caminho da pintura** (que existia, mas em segredo absoluto);
+- e uma marca **de nenhum caminho existente**, da qual ele "viu" lâminas e espadas, "cheirou"
+  machados e alabardas, "sentiu" martelos e lanças, "ouviu" dardos e flechas — e sobre a qual
+  concluiu que *representa um caminho totalmente novo, bastante grandioso, que certamente
+  englobaria o caminho da espada e o caminho da lâmina*, e que *tem claramente muitas profundidades
+  do [[23 - Human Path|caminho humano]]*.
+
+O que isso estabelece é enorme: ==um caminho **existe como fenômeno antes de existir como escola**.==
+Criar um caminho não é inventar nada — é **encontrar uma marca que o mundo já produziu e organizá-la
+em doutrina**. E a obra deixa registrada a melancolia que acompanha isso:
+
+> Talvez alguém tenha o pensamento e a fundação para criar este caminho, e ver esta cena seria uma
+> ajuda enorme. Ou talvez **ninguém no mundo jamais tenha esse pensamento**, e este caminho fique
+> para sempre escondido como **um baú de tesouro enterrado fundo, sem que nunca apareça alguém para
+> abri-lo**.
+
+E há um segundo efeito, econômico: quando marcas iguais se juntam em quantidade, elas podem ser
+colhidas para fabricar **materiais imortais puros daquele caminho** — inclusive de níveis altíssimos
+— e esses materiais servem para **compreender o caminho correspondente**. É a rota registrada para
+alguém estudar um caminho que não tem professor nenhum.
+
+### 3. As três maneiras conhecidas de construir um caminho novo — e as duas de fracassar
+
+Juntando o que os verbetes desta nota mostram, a obra documenta **três rotas** distintas:
+
+| Rota | Como funciona | Custo |
+|---|---|---|
+| **Popularização** | *O primeiro passo do desenvolvimento é popularizá-lo*: gerações de cultivadores com experiências de vida diferentes constroem o caminho lentamente com ideias próprias | Lenta, e **vaza** — o conhecimento sai do controle do criador |
+| **Conversão** | Traduzir Gu de caminhos vizinhos para a gramática do novo (*o Gu do bastão de ferro é o resultado de converter o caminho do metal em caminho das armas*; *o Gu do chicote de couro é a derivação de combinar transformação com armas*) | Produz um caminho **derivativo**; a obra chama a criação assim obtida de "tosca" |
+| **Derivação forçada** | Uma formação institucional faz os resultados de pesquisa de um praticante colidirem com heranças de peritos antigos e deriva o que jamais teria sido possível — mil receitas e duzentos golpes numa sessão | **Queima a pessoa, não a máquina** (abaixo) |
+
+E as **duas maneiras documentadas de fracassar** são de naturezas completamente diferentes:
+
+- **Fracasso conceitual** — o caminho do yin-yang. O criador tinha poder de Venerável e ambição de
+  descrever todos os seres do mundo, mas concluiu que **a própria formulação era rasa demais** e
+  desistiu. O caminho nunca alcançou a mudança qualitativa. ==Não é falta de força: é falta de ideia
+  boa o bastante.==
+- **Fracasso de substrato** — o caminho da matança. Outro Venerável tentou obtê-lo devorando um ser
+  cheio de vontade celeste e **falhou**, sendo forçado a criar outra escola com o que aprendeu no
+  caminho.
+
+> [!note] Para o design
+> Estas cinco linhas são um sistema de "criar sua própria escola" quase pronto. Um grupo que queira
+> fundar um caminho tem três rotas com custos diferentes, dois modos de falhar com consequências
+> diferentes, e um pré-requisito objetivo: **encontrar a marca que o mundo já escreveu.**
+
+### 4. O limite humano da máquina de derivação
+
+Vale isolar, porque é a trava mais elegante desta nota inteira. A formação de derivação que
+comprime gerações em meio dia **não se esgota — quem se esgota é a pessoa**.
+
+Praticantes jovens, de fundação rasa, gastam **todo o próprio potencial numa única sessão**. Entrar
+de novo não é inútil: é **destrutivo**. As heranças alheias passam a **corromper a mente deles**,
+impedindo-os de inovar e **arruinando o desenvolvimento futuro**. A imagem que a obra usa é
+agrícola: são brotos que acabaram de receber uma injeção de essência e precisam de muito tempo para
+se recuperar — *ajuda em excesso destruiria a criatividade deles*.
+
+A criatura antiquíssima que criou um dos caminhos novos, com uma vida longuíssima e experiências
+incontáveis, **não sofre esse limite** e obteve ganhos imensos. ==A moeda que a máquina consome é
+experiência de vida acumulada.==
+
+### 5. Os caminhos pequenos guardam os fenômenos mais estranhos do sistema
+
+Uma observação transversal que vale para quem for escolher o que roubar desta nota: as mecânicas
+mais **singulares** da obra não estão nos caminhos grandes. Estão aqui.
+
+- O caminho da **lua** tem a única mecânica do sistema em que **o céu se alimenta dos seus
+  fracassos**: cada golpe seu que é destruído ou anulado devolve suas marcas residuais à lua no céu,
+  que **cresce** — de crescente a meia, de meia a cheia, e na cheia amplifica tudo ao máximo.
+- O caminho da **lâmina** tem um terreno cujas marcas são tão densas que **fabricam Gu sozinhas e
+  ferem quem pisa nelas**, e um atalho de domínio que é um vinho feito do sangue de quem sofreu ali.
+- O caminho da **sombra** é o único da obra apontado como **o futuro de dois caminhos grandes**.
+- O caminho da **restrição** desliga o Gu do inimigo **cortando-lhe a alimentação**, em vez de
+  atacá-lo.
+- E o caminho do **yin-yang**, mesmo tendo fracassado, produziu o único conjunto de Gu do cenário
+  dedicado a **gestação e nascimento**.
+
+(ded.) Faz sentido estrutural: um caminho grande precisa ser generalista o suficiente para milhares
+de praticantes, enquanto um caminho pequeno pode se dar ao luxo de fazer **uma coisa só, muito
+esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que ninguém viu antes.
+
 ## Regras do mundo que este inventário estabelece
 
 1. **A obra separa formalmente caminhos principais de caminhos menores** — e a distinção é de

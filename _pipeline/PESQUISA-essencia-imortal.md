@@ -2,7 +2,7 @@
 
 Arquivo de trabalho do agente. Citações literais do texto-fonte (inglês), com capítulo.
 Fonte: `/home/azuatz/Documentos/Reverend-Insanity-fonte/texto/Volume_*.txt`.
-Status: em andamento.
+Status: concluída.
 
 ## 1. Graus (contas nomeadas por fruta) e câmbio
 

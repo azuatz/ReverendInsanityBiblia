@@ -431,3 +431,116 @@ suporta. Os Gu de osso, tendão, pele e músculo existem exatamente para levanta
 teto, e as rotas são **mutuamente excludentes**: tendões de aço somados a ossos de ferro,
 ou músculos de gelo somados a ossos de jade, ou ossos da impermanência para quem investe
 em alma. Escolher uma fecha as outras.
+
+---
+
+## Decisões tomadas
+
+Cada decisão abaixo resolveu uma ambiguidade real. Estão registradas para que uma
+sessão futura não as refaça em sentido contrário.
+
+1. **A casa de um Gu é a seção do caminho que a obra lhe atribui.** As seções que são
+   famílias funcionais (cura e vida, armazenamento, furtividade, Gu lendários) ficam
+   apenas com os Gu para os quais a obra não declara caminho nenhum. Quando um Gu com
+   caminho declarado estava numa seção funcional, a ficha mudou de casa e a seção
+   funcional ganhou um ponteiro em itálico.
+2. **Exceção deliberada à regra 1: a linhagem lunar.** Aquela seção não é um caminho, é
+   um estudo de caso de árvore de fusões de um clã, e seu valor didático depende de as
+   linhas ficarem lado a lado para comparação — o texto da seção manda o leitor comparar
+   colunas entre ramos. Blood Moon Gu e Moon Poison Gu ficaram lá mesmo tendo caminho
+   declarado (sangue e veneno), e as duas seções de caminho ganharam ponteiro.
+3. **Todo Gu de rank 9 mora na seção "Os Gu de rank 9", nunca na seção do caminho.**
+   O motivo é estrutural: naquele patamar as três aptidões se dissolvem e as fichas usam
+   colunas diferentes das demais. Manter cópias nas seções de caminho produzia
+   divergência — e produzia de fato, em oito dos nove casos.
+4. **Gu com versão mortal e versão imortal ficam com uma linha em cada catálogo**, e
+   cada linha declara a existência da outra com o rank dela e o link. Não é duplicata: a
+   obra explicita que ter a versão imortal **não dispensa** ter a mortal, porque um Gu
+   Imortal é único e não serve a dois golpes ao mesmo tempo.
+5. **Gu cujo único rank conhecido é 6 ou mais saem do catálogo mortal**, mesmo quando a
+   tradição do vault os listava lá por serem Gu do mito fundador. A seção de origem
+   ganhou ponteiro em vez de linha.
+6. **Três seções novas no catálogo mortal**: caminho do vento, caminho do metal e "outros
+   caminhos com poucos Gu". As duas primeiras são caminhos reais que agora têm massa
+   crítica; a terceira evita criar seções de uma linha só para qi, yin-yang, sonhos e
+   comida, e recebe também os Gu cujo caminho a obra nunca declara. Cada linha de lá diz
+   a que caminho pertence.
+7. **Nome truncado pela varredura não é descarte, é correção.** Quando o n-grama cortou o
+   começo do nome (`hole jade flute` → Five Hole Jade Flute Gu), a entrada foi para o
+   catálogo com o nome canônico completo, não descartada como falso positivo.
+8. **Quando a obra só dá o nome, a célula diz isso com todas as letras.** Nada de
+   descrição inventada disfarçada de canônica e nada de traço mudo. A frase "a obra cita
+   o nome e nada mais" é informação útil: marca exatamente onde a designer pode inventar
+   sem contradizer o cânone.
+9. **Dieta ausente vira ritmo por rank, marcado `(ded.)`.** A obra dá a frequência de
+   refeições por rank como regra geral do mundo, então uma linha sem cardápio ao menos
+   informa o **ritmo da despesa**, que é a metade que importa para orçamento. O cardápio
+   continua em branco, ou aparece como invenção marcada com `*`.
+10. **Nenhum nome de personagem no corpo das fichas.** A pesquisa devolveu dezenas de
+    exemplos mecânicos com nomes próprios do enredo; todos foram convertidos em papéis
+    ("um Mestre Gu do caminho da força", "o dono da terra abençoada"). Ficaram apenas os
+    nomes do mito fundador e os Veneráveis, que são figuras estruturais do mundo e não
+    personagens do enredo — é o que a política de spoilers do projeto permite.
+11. **Nenhuma citação de capítulo no corpo das fichas.** As que a pesquisa trouxe foram
+    removidas das células; a rastreabilidade fica no `fontes` do frontmatter e neste
+    relatório.
+12. **Um nome que a varredura não encontra no texto-fonte fica no catálogo, mas com
+    aviso.** Foi o caso do par "Instant / That Time": em vez de apagar a linha, ela diz
+    que o nome vem de fonte secundária e não é canônico, e descreve o que a obra de fato
+    mostra. Apagar teria escondido a dúvida; manter sem aviso teria propagado um erro.
+
+---
+
+## O que a obra realmente não diz
+
+Registro das negativas, todas verificadas com busca direta no texto-fonte (sempre
+insensível a maiúsculas) e não em fonte secundária. Uma negativa só entra aqui depois
+de o grep voltar vazio.
+
+**Sobre Gu falsificados.** A obra confirma que **falsificar Gu é prática corrente** e
+mostra a cena inteira: um vendedor passou um Smelly Fart Fat Worm por Black Boar Gu, o
+comprador só descobriu ao tentar refinar, e não obteve reparação nenhuma. Mas a obra
+**não** diz, em nenhum lugar, que um Gu falso **se autodetona** nem que isso seja causa
+de morte registrada. Buscas por `fake gu`, `counterfeit`, `self-destruct`, `self-detonate`
+e por Gu explodindo não devolvem nada nesse sentido. A afirmação circula, mas não está no
+texto — e por isso o aviso escrito no cabeçalho do catálogo mortal fala só do que é
+canônico: a fraude existe, o preço é o único sinal prévio, e a descoberta vem no refino.
+
+**O que a obra diz, e que é ainda mais útil:** *não é incomum um Mestre Gu ser morto pelo
+próprio Gu*. Quem força a ativação de um Gu além do que a essência comporta sofre o
+contragolpe da força daquele Gu e morre — e a obra afirma que "incidentes assim estão por
+toda parte". O mesmo vale para o refino, que **sempre** produz contragolpe quando falha, e
+para os golpes combinados, cujo contragolpe não se pode evitar, só atenuar. Isso entrou no
+cabeçalho do catálogo mortal como aviso próprio.
+
+**Efeito não descrito, apesar do Gu existir.** Uma família inteira de Gu tem nome, rank e
+lugar no sistema, e nenhum efeito declarado. As células desses Gu dizem isso
+explicitamente, em vez de inventar:
+
+- a **escada de fogo de cinco degraus** (single orifice charcoal → double orifice stove →
+  three orifices fire hut → four orifices fire tower → five orifices fire pagoda): a obra
+  descreve a cadeia de refino inteira, degrau por degrau, e **nunca diz o que qualquer um
+  deles faz** quando acionado;
+- os **seis Gu de alma temáticos** (divine, dream, moon, general, grudge, poem soul):
+  aparecem apenas em duas listas, com o mecanismo da **classe** descrito e o efeito
+  individual jamais;
+- o **Kill**, Gu de rank 8 → 9: a obra registra a origem (nasceu sozinho no corpo de um
+  Venerável, como reação do céu a um massacre) e a dieta (massacres), e **não descreve o
+  efeito**;
+- **Wooden Chicken Gu**, **Eight-faced Prestige Wind Gu**, **Exert Strength Gu**,
+  **Afterlife Grass Gu**, **Abortion Gu**, **Reincarnation Gu** e **Snowy Plain Gu**: só o
+  nome, e no máximo o contexto de uma transação ou de um passo de refino.
+
+**Dados que a obra nunca fornece, para nenhum Gu.** Vale saber de antemão o que não
+adianta procurar: tempo de recarga entre ativações; peso ou tamanho da maioria dos Gu;
+quanto exatamente um Gu come por refeição em unidade de massa; taxa de mortalidade de um
+Gu mal alimentado; e prazo de vida natural de um Gu mortal. O ritmo de refeições por rank
+existe; a quantidade por refeição, não.
+
+**A dieta da maioria dos Gu mortais.** A obra a cala porque no mundo ela é trivial —
+cerca de um terço das linhas do catálogo mortal continua sem cardápio, e é onde a
+designer vai precisar inventar. O ritmo por rank, esse sim, é canônico e está em todas.
+
+**Preço.** A obra dá preço em pedras primordiais para poucas dezenas de Gu, e quase nunca
+para Gu Imortais — no patamar imortal ela é explícita em que **não há preço**, só troca,
+o que é uma resposta e não uma lacuna.

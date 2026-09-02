@@ -5,7 +5,7 @@ aliases:
   - Dream Path
   - Dream realm
 status: consolidado
-fontes: ["cap. 722", "cap. 724", "cap. 725", "cap. 726", "cap. 730", "cap. 734", "cap. 765", "cap. 770", "cap. 773", "cap. 775", "cap. 776", "cap. 810", "cap. 911", "cap. 912", "cap. 913", "cap. 916", "cap. 969", "cap. 984", "cap. 993", "cap. 1006", "cap. 1010", "cap. 1226", "cap. 1293", "cap. 1324", "cap. 1360", "cap. 1377", "cap. 1419", "cap. 1490", "cap. 733", "cap. 749", "cap. 763", "cap. 766", "cap. 775", "cap. 810", "cap. 847", "cap. 914", "cap. 987", "cap. 1001", "cap. 1002", "cap. 1020", "cap. 1055", "cap. 1231", "cap. 1338", "cap. 1373", "cap. 1631", "cap. 2097"]
+fontes: ["cap. 722", "cap. 724", "cap. 725", "cap. 726", "cap. 730", "cap. 733", "cap. 734", "cap. 749", "cap. 763", "cap. 765", "cap. 766", "cap. 770", "cap. 773", "cap. 775", "cap. 776", "cap. 810", "cap. 847", "cap. 911", "cap. 912", "cap. 913", "cap. 914", "cap. 916", "cap. 969", "cap. 984", "cap. 987", "cap. 993", "cap. 1001", "cap. 1002", "cap. 1006", "cap. 1010", "cap. 1020", "cap. 1055", "cap. 1226", "cap. 1231", "cap. 1293", "cap. 1324", "cap. 1338", "cap. 1360", "cap. 1373", "cap. 1377", "cap. 1419", "cap. 1490", "cap. 1631", "cap. 2097"]
 conhecimento: segredo
 ---
 
@@ -331,6 +331,13 @@ mantém-se um véu permanente que destrói automaticamente novas invasões.
 - **[[03 - Blood Path|Blood Path]]** — o método de extração forçada de vítimas.
 - **[[13 - Time Path|Time Path]]** — os sonhos se acumulam ao longo da história, e vários deles são de
   figuras mortas há eras.
+- **Todos os caminhos, por um motivo só.** Como o domínio que um sonho concede é o **do
+  sonhador**, este caminho é a porta de entrada barata para qualquer especialidade. Dois casos
+  que mostram o alcance: um sonho temático de [[21 - Formation Path|formação]] levou alguém de
+  domínio zero a grão-mestre em um a dois meses; e há registro de um sonho que elevaria o
+  domínio de [[18 - Luck Path|sorte]] — o caminho mais secreto do mundo, cujos imortais são
+  contáveis nos dedos e que praticamente não tem professores. Onde não existe escola, o sonho
+  **é** a escola.
 
 **Sofre contra:**
 - **A própria imaturidade.** Sem caminho formal, não há receitas, não há mestres, não há

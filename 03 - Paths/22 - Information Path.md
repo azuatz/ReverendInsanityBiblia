@@ -7,7 +7,7 @@ aliases:
   - Alliance agreement
   - Juramentos
 status: consolidado
-fontes: ["cap. 127", "cap. 268", "cap. 272", "cap. 278", "cap. 292", "cap. 297", "cap. 384", "cap. 401", "cap. 406", "cap. 418", "cap. 468", "cap. 490", "cap. 495", "cap. 516", "cap. 566", "cap. 570", "cap. 660", "cap. 664", "cap. 672", "cap. 697", "cap. 699", "cap. 705", "cap. 708", "cap. 709", "cap. 713", "cap. 730", "cap. 737", "cap. 743-747", "cap. 765-768", "cap. 796-800", "cap. 812-815", "cap. 838", "cap. 841", "cap. 843", "cap. 865-873", "cap. 900", "cap. 930", "cap. 940", "cap. 946-950", "cap. 961", "cap. 975", "cap. 996", "cap. 1007", "cap. 1025", "cap. 1031", "cap. 1036-1039", "cap. 1061", "cap. 1075-1090", "cap. 1102", "cap. 1114", "cap. 1115", "cap. 1129", "cap. 1130", "cap. 1146-1149", "cap. 1156-1165", "cap. 1168", "cap. 1172-1182", "cap. 1202", "cap. 1214", "cap. 1228", "cap. 1233", "cap. 1237", "cap. 1245", "cap. 1252", "cap. 1255", "cap. 1256", "cap. 1264", "cap. 1292", "cap. 1306", "cap. 1323", "cap. 1326", "cap. 1338", "cap. 1339", "cap. 1348", "cap. 1355", "cap. 1362", "cap. 1366", "cap. 1370", "cap. 1378", "cap. 1380", "cap. 1386", "cap. 1408", "cap. 1418", "cap. 1453", "cap. 1461", "cap. 1502", "cap. 1517-1521", "cap. 1562", "cap. 1566", "cap. 1567", "cap. 1580", "cap. 1595", "cap. 1596", "cap. 1641", "cap. 1650", "cap. 1684", "cap. 1690", "cap. 1699-1701", "cap. 1707", "cap. 1711", "cap. 1744", "cap. 1770", "cap. 1818-1825", "cap. 1836", "cap. 1843", "cap. 1848", "cap. 1862", "cap. 1870", "cap. 1892", "cap. 1895", "cap. 1901", "cap. 1932", "cap. 1933", "cap. 1937", "cap. 1948", "cap. 1988", "cap. 1990", "cap. 2009", "cap. 2023", "cap. 2043", "cap. 2048", "cap. 2066", "cap. 2069", "cap. 2074", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2099", "cap. 2117", "cap. 2120", "cap. 2121", "cap. 2126", "cap. 2142", "cap. 2166", "cap. 2182", "cap. 2220", "cap. 2227", "cap. 2242", "cap. 2252", "cap. 2253", "cap. 2266", "cap. 2283", "cap. 2288", "cap. 2292", "cap. 2304-2306", "cap. 2312"]
+fontes: ["cap. 127", "cap. 268", "cap. 272", "cap. 278", "cap. 292", "cap. 297", "cap. 384", "cap. 401", "cap. 406", "cap. 418", "cap. 468", "cap. 490", "cap. 495", "cap. 516", "cap. 566", "cap. 570", "cap. 660", "cap. 664", "cap. 672", "cap. 697", "cap. 699", "cap. 705", "cap. 708", "cap. 709", "cap. 713", "cap. 730", "cap. 737", "cap. 743-747", "cap. 765-768", "cap. 796-800", "cap. 812-815", "cap. 838", "cap. 841", "cap. 843", "cap. 865-873", "cap. 900", "cap. 930", "cap. 940", "cap. 946-950", "cap. 961", "cap. 975", "cap. 996", "cap. 1007", "cap. 1025", "cap. 1031", "cap. 1036-1039", "cap. 1038", "cap. 1061", "cap. 1075-1090", "cap. 1102", "cap. 1114", "cap. 1115", "cap. 1119", "cap. 1129", "cap. 1130", "cap. 1146-1149", "cap. 1146", "cap. 1151", "cap. 1156-1165", "cap. 1162", "cap. 1168", "cap. 1172-1182", "cap. 1202", "cap. 1214", "cap. 1228", "cap. 1233", "cap. 1237", "cap. 1245", "cap. 1252", "cap. 1255", "cap. 1256", "cap. 1264", "cap. 1292", "cap. 1306", "cap. 1323", "cap. 1326", "cap. 1338", "cap. 1339", "cap. 1348", "cap. 1355", "cap. 1362", "cap. 1366", "cap. 1370", "cap. 1378", "cap. 1380", "cap. 1386", "cap. 1408", "cap. 1418", "cap. 1453", "cap. 1461", "cap. 1502", "cap. 1517-1521", "cap. 1562", "cap. 1566", "cap. 1567", "cap. 1580", "cap. 1595", "cap. 1596", "cap. 1641", "cap. 1650", "cap. 1684", "cap. 1690", "cap. 1699-1701", "cap. 1707", "cap. 1711", "cap. 1744", "cap. 1770", "cap. 1818-1825", "cap. 1836", "cap. 1843", "cap. 1848", "cap. 1862", "cap. 1870", "cap. 1892", "cap. 1895", "cap. 1901", "cap. 1932", "cap. 1933", "cap. 1937", "cap. 1948", "cap. 1988", "cap. 1990", "cap. 2009", "cap. 2023", "cap. 2043", "cap. 2048", "cap. 2066", "cap. 2069", "cap. 2074", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2099", "cap. 2117", "cap. 2120", "cap. 2121", "cap. 2126", "cap. 2142", "cap. 2166", "cap. 2182", "cap. 2220", "cap. 2227", "cap. 2242", "cap. 2252", "cap. 2253", "cap. 2266", "cap. 2283", "cap. 2288", "cap. 2292", "cap. 2304-2306", "cap. 2312"]
 conhecimento: comum
 ---
 
@@ -89,6 +89,126 @@ A sequência histórica registrada é um estudo de caso perfeito de escalada tec
    anular o anterior.
 
 E a corrida continua.
+
+## A camada escondida
+
+O caminho da informação já parece estranho na superfície — uma escola de cartórios armados. Por
+baixo dela há algo bem maior: este é o caminho que mexe na **matéria-prima de todos os outros**.
+
+### A descoberta central: informação é a solda do sistema de marcas do Dao
+
+Para entender o tamanho disto, é preciso lembrar duas regras do mundo:
+
+- Toda a magia deste cenário é feita de **marcas do Dao**. Gu Imortais são, literalmente,
+  *fragmentos feitos de marcas do Dao*.
+- **Marcas de caminhos diferentes se repelem e entram em conflito.** É por isso que cultivar
+  dois caminhos é caro, que um corpo cheio de marcas de um caminho resiste aos efeitos de
+  outro, e que um Gu rende menos nas mãos de quem tem marcas incompatíveis. Ver
+  [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] e
+  [[12 - Dao Marks|Dao Marks]].
+
+E agora o achado:
+
+> Existe uma **insígnia do caminho da informação** gravada dentro de um Gu Imortal do
+> [[09 - Sword Path|caminho da espada]]. Ela carrega marcas de informação — e mesmo assim
+> permanece ali, intacta, dentro de um recipiente feito de marcas de espada, **por eras**. A
+> imagem que a obra usa: *como um navio flutuando no mar, imperturbável a todas as correntes ao
+> redor*. O conflito entre os dois caminhos **foi resolvido**.
+
+A obra é explícita sobre a dificuldade: *é muito difícil conseguir isso; mesmo Gu Imortais de
+nível 8 teriam problemas com isso*. E registra que a herança de informação de onde aquilo veio
+tinha **muitos métodos que miram as marcas do Dao** diretamente.
+
+O que isso significa, dito sem rodeios: **o caminho da informação é o único que consegue
+etiquetar, anexar e reconciliar as marcas dos outros caminhos**. Ele não produz efeito próprio
+grande; ele produz **metadados** — e num sistema em que tudo é feito de marcas conflitantes,
+quem sabe escrever metadados é quem consegue montar o que ninguém mais monta.
+
+> [!note] Para o design
+> Esta é a justificativa mecânica definitiva para uma classe "burocrática" ser poderosa. Ela não
+> lança bolas de fogo: ela é a única que consegue fazer duas magias incompatíveis conviverem no
+> mesmo objeto. Todo sistema com escolas que se anulam ganha uma classe inteira só com essa
+> ideia.
+
+### A informação também é solo: onde ela satura, coisas crescem
+
+Duas consequências ambientais fecham o argumento de que marcas de informação são substância, e
+não abstração:
+
+- **Uma caverna-céu feita de marcas de informação produz naturalmente recursos do caminho** — e
+  por isso os Mestres Gu e imortais que vivem lá dentro cultivam, quase todos, o caminho da
+  informação. O ambiente escolhe a profissão dos habitantes.
+- **O Gu da sabedoria selvagem só completa seu avanço em áreas saturadas de marcas do Dao de
+  informação.** A receita dele contém uma grande quantidade de materiais imortais de
+  informação. Ou seja: o objeto mais cobiçado do
+  [[12 - Wisdom Path|caminho da sabedoria]] **nasce em solo de informação**. O parentesco entre
+  os dois caminhos não é temático — é agrícola.
+
+### Juramento, revisitado: por que ele é físico e o que isso libera
+
+A nota já registra que ==a essência de um acordo de aliança é usar métodos do caminho da
+informação para deixar marcas do Dao de informação no corpo **e** na alma==. Com a camada acima
+no lugar, três detalhes ganham sentido novo:
+
+1. **Um acordo é um objeto, e um objeto pode ser desmontado por qualquer um que saiba mexer em
+   marcas — não só por quem entende de contratos.** O caso canônico é decisivo: as marcas de um
+   juramento foram removidas por uma **super formação Gu do caminho da luz**, não por métodos de
+   informação. Quem assistiu comentou exatamente isso: esperava-se alma ou trevas, veio luz, e a
+   dona original do acordo era quase-grande-grão-mestra. **Marcas são marcas**; quem tiver
+   ferramenta e potência suficientes as apaga, venha de onde vier. É a décima segunda maneira de
+   romper um acordo, e a mais humilhante para o caminho.
+2. **Juramentos regulam modos, não só traições.** Há registro de um acordo cuja cláusula obrigava
+   alguém a **ser educado** com o outro lado o tempo todo: se xingasse, sofria contragolpe das
+   marcas. A granularidade do sistema desce até a etiqueta.
+3. **Existe um método antigo de firmar aliança sem Gu individual.** Uma fumaça sobe, envolve o
+   participante por uma dúzia de respirações e **se funde ao corpo dele**, acrescentando as
+   marcas. Os imortais se aproximam um a um e aceitam o efeito; assim viram membros. É a
+   cerimônia de adesão em forma pura — e mostra que o caminho tem **liturgia**, não só contratos
+   escritos.
+
+E fecha-se o círculo com a regra já conhecida e agora mais assustadora: **removidas as marcas,
+o traidor não sofre nada** — nem pelo que traiu antes. Um acordo não é uma dívida moral; é um
+dispositivo. Desligado o dispositivo, não sobra nada.
+
+### O que o acúmulo de marcas destranca
+
+`—` **A obra não diz.** A lista canônica de "promoção mística" por acúmulo de marcas do Dao —
+a faculdade inata que passa a funcionar sem Gu nenhum — nomeia refino, fogo, sabedoria e sorte.
+**Informação não está nela.**
+
+O que a obra dá no lugar é um efeito equivalente por outra via, e ele é forte: **um imortal de
+nível 8 do caminho chegou ao topo sem clã e sem recursos porque possuía uma montanha flutuante
+feita pelo homem, saturada de marcas de informação, "equivalente a meio domínio recluso de céu e
+terra"**. Neste caminho, o acúmulo que importa não fica no corpo — fica no **terreno**. (ded.)
+
+### O que o caminho vira no topo
+
+- **Ele para de coletar e passa a fabricar.** Um grande perito de nível 8 não só reúne pistas na
+  escala de um campo de batalha inteiro: ele **forja provas falsas convincentes** e **limpa a
+  cena** de todos os traços perceptíveis. No topo, o caminho da informação decide qual é a
+  versão dos fatos.
+- **Ele vira arma de combate por acúmulo.** O conjunto dos rumores — a gaiola de caracteres
+  prateados que suprime todos os outros caminhos e amplifica só o dele, os tigres prateados
+  infinitos, os rumores maliciosos — faz a força de combate do usuário **crescer sem parar**
+  enquanto a luta dura. Um praticante declara que, **ao continuar falando, cura os próprios
+  ferimentos**, e que **quanto mais alto grita, mais forte fica o golpe**.
+- **Ele vira infraestrutura de guerra.** As Casas de Gu Imortal do caminho não lutam: uma
+  contém placas com nomes formando uma rede espalhada pelas cinco regiões (e tem **defesas
+  fracas**); outra se especializa em reunir informação; e uma torre foi projetada
+  deliberadamente para **não** armazenar o acervo em si mesma, de modo que destruí-la não apague
+  os dados. Existe ainda um tabuleiro de nível superior capaz de liberar, no meio de uma
+  guerra, uma habilidade de informação que ninguém tinha visto antes.
+- **E ele vira sabedoria emprestada.** Golpes de informação chegam a **imitar efeitos do
+  caminho da sabedoria** — a ponto de uma instituição inteira operar sem nenhum imortal de
+  sabedoria na linha de frente.
+
+### O que continua não existindo, verificado
+
+- **A essência ou o significado verdadeiro do caminho** nunca é enunciado. Só há a
+  caracterização funcional: acordos e coleta de inteligência.
+- **Nenhum golpe de nível 9 do caminho é descrito**, nem golpe criado por um Venerável —
+  ao contrário do [[23 - Human Path|caminho humano]], em que todos os Veneráveis têm um.
+- **Nenhum criador.** O caminho apenas "emerge" na Antiguidade Medieval, junto com outros sete.
 
 ## O sistema de juramentos
 
@@ -190,6 +310,11 @@ ser quebrado dado tempo suficiente, ou se você pagar um preço enorme.**==
 11. **Se o caminho do acordo não for este, a solução também não é.** Quando um pacto é feito com
     outro caminho **produzindo efeito de informação**, a saída tem de vir daquele caminho. A obra
     registra isso para acordos de terra, de alma e de tempo.
+12. **Força bruta sobre as marcas, por qualquer caminho.** A regra 11 tem contraexemplo, e ele é
+    canônico: as marcas de um acordo de informação foram **inteiramente removidas por uma super
+    formação Gu do caminho da luz**, apesar de a autora do acordo ser quase-grande-grão-mestra
+    de informação. Quem tem instrumento e potência suficientes apaga marcas sem entender de
+    contratos. Ver [[21 - Formation Path|Formation Path]].
 
 > [!note] Para o design
 > A regra 11 é a mais elegante do sistema e a mais fácil de importar: **o contrato pertence à
@@ -326,6 +451,15 @@ fabricar a prova que faltava.
 - **[[06 - Enslavement Path|Enslavement Path]]** — existe Gu Imortal deste caminho **com efeito de
   escravização**, mas usá-lo contra alvos de grande porte exige **grão-mestria nos dois caminhos**.
 
+- **[[21 - Formation Path|Formation Path]] — o parceiro incômodo.** Uma formação cala a
+  informação (bloqueia reforços, isola golpes imortais de níveis 6 e 7), mas uma super formação
+  também é a ferramenta que **apaga as marcas de um juramento** de um corpo e de uma alma —
+  mesmo vinda de um caminho que não tem nada a ver com contratos.
+- **[[09 - Sword Path|Sword Path]] e os demais, por uma via técnica.** A insígnia de informação
+  gravada dentro de um Gu Imortal de espada mostra que este caminho é o que consegue fazer
+  marcas incompatíveis conviverem no mesmo objeto. Qualquer projeto de item híbrido passa por
+  aqui.
+
 **Sofre contra:**
 - **A própria fraqueza em combate.** Cultivadores do caminho têm força de combate tipicamente
   baixa. Um imortal de perfil ofensivo declara textualmente que **não conseguia cultivar** nem
@@ -371,6 +505,32 @@ Existe também **comércio formal de informação**: uma seita vende informes po
 maiores organizações do mundo compram dela. Cenas de batalha gravadas em Gu são mercadoria. E
 especialistas do caminho publicam **rankings** — de imortais, de Casas de Gu Imortal — que geram
 competição feroz.
+
+## Progressão por rank
+
+Este caminho tem a base mais povoada de toda a pasta — é o único com **sub-ramos que existem só
+no mundo dos mortais, sem via de ascensão à imortalidade** — e um topo estranhamente vazio.
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Ranks 1–2** | O básico do ofício: Gu que **armazenam e transmitem conteúdo** (mapas, listas de materiais, cenas de batalha gravadas, encomendas, cartas). O conteúdo pode ser **apagado e reescrito** com essência primeva, e o Gu pode ser destruído para apagar a prova. Aqui também moram os sub-ramos literários e o Gu que **conversa com feras selvagens** |
+| **Rank 3** | O degrau do contrato: o **voto venenoso**, descartável, que suga o sangue do coração de cada parte enquanto ela lê os termos e **explode** quando cheio — virando uma poça de sangue estragado se alguém mentiu. Cerca de 4.500 pedras primevas numa loja comum |
+| **Rank 4** | Armazenamento com controle remoto: um Gu que guarda informação e pode ser feito para **se autodestruir à distância, pelo vendedor** |
+| **Rank 5** | Transmissão confiável e carreira literária: a carta voadora cujo remetente **sente** se ela for destruída no caminho; e o Gu da poesia, que pode ser **Gu vital** — a porta de entrada cultural, e não marcial, do caminho |
+| **Rank 6 (primeiro degrau imortal)** | Os juramentos **reutilizáveis** e ancorados no mundo: o que jura por uma montanha e o que jura de frente para o mar. E o Gu que faz as duas partes **sentirem a situação uma da outra**. É a faixa que sustenta um modelo de negócio inteiro |
+| **Rank 7** | A faixa dos efeitos anômalos: o Gu de informação **com efeito de escravização**, cujo poder varia conforme a **reputação do dono**; e o selo que **sela outro Gu Imortal** dentro de uma membrana rochosa ao preço de ficar selado junto |
+| **Rank 8** | O grande perito: reunir pistas na escala de um campo de batalha inteiro, conversas secretas imunes a terceiros, **forjar provas falsas convincentes**, comandar golpes de campo de batalha e operar Casas de Gu Imortal do caminho |
+| **Rank 9** | `—` **A obra não descreve nenhum Gu nem golpe de nível 9 do caminho da informação**, e nenhum Venerável deixou um golpe dele. É lacuna canônica declarada |
+
+Duas notas de manejo que a tabela não cabe:
+
+- **Sair de "comum" resolve mais que subir de rank.** A obra afirma que, se o domínio subisse,
+  o cultivador poderia resolver gradualmente seus problemas e decifrar muitas armadilhas
+  **mesmo sem possuir nenhum Gu Imortal do caminho**. Ver a seção de domínio abaixo.
+- **Ativar Gu Imortais deste caminho com material puro sai mais barato.** Usar apenas materiais
+  imortais puros de informação **gasta menos essência**; qualquer outro material traz marcas
+  conflitantes e **aumenta o gasto**. É a mesma física de marcas que o caminho manipula, cobrada
+  dele mesmo.
 
 ## O domínio, degrau a degrau
 

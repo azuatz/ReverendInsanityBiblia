@@ -4,7 +4,7 @@ tags:
 aliases:
   - Luck Path
 status: consolidado
-fontes: ["cap. 546", "cap. 566", "cap. 567", "cap. 568", "cap. 604", "cap. 608", "cap. 611", "cap. 612", "cap. 617", "cap. 618", "cap. 619", "cap. 629", "cap. 661", "cap. 674", "cap. 675", "cap. 676", "cap. 679", "cap. 680", "cap. 751", "cap. 756", "cap. 761", "cap. 772", "cap. 815", "cap. 822", "cap. 833", "cap. 926", "cap. 928", "cap. 941", "cap. 975", "cap. 1093", "cap. 1234", "cap. 1852", "cap. 2076", "cap. 748", "cap. 757", "cap. 758", "cap. 760", "cap. 767", "cap. 824", "cap. 1051", "cap. 1056", "cap. 1099", "cap. 1113", "cap. 1119", "cap. 1126", "cap. 1153", "cap. 1180", "cap. 1243", "cap. 1246", "cap. 1782", "cap. 1823", "cap. 1824", "cap. 1869", "cap. 2042", "cap. 2073", "cap. 2205", "cap. 2220", "cap. 2221", "cap. 2229", "cap. 2230", "cap. 2289"]
+fontes: ["cap. 546", "cap. 566", "cap. 567", "cap. 568", "cap. 604", "cap. 608", "cap. 611", "cap. 612", "cap. 617", "cap. 618", "cap. 619", "cap. 629", "cap. 661", "cap. 674", "cap. 675", "cap. 676", "cap. 679", "cap. 680", "cap. 748", "cap. 751", "cap. 756", "cap. 757", "cap. 758", "cap. 760", "cap. 761", "cap. 767", "cap. 772", "cap. 815", "cap. 822", "cap. 824", "cap. 833", "cap. 926", "cap. 928", "cap. 941", "cap. 975", "cap. 1051", "cap. 1056", "cap. 1093", "cap. 1099", "cap. 1113", "cap. 1119", "cap. 1126", "cap. 1153", "cap. 1180", "cap. 1234", "cap. 1243", "cap. 1246", "cap. 1782", "cap. 1823", "cap. 1824", "cap. 1852", "cap. 1869", "cap. 2042", "cap. 2073", "cap. 2076", "cap. 2205", "cap. 2220", "cap. 2221", "cap. 2229", "cap. 2230", "cap. 2289"]
 conhecimento: segredo
 ---
 
@@ -285,9 +285,9 @@ das habilidades do outro. Sorte é, literalmente, redução de variância compar
 | Romper Sorte ⭐ | 6 (ded.) | Rompe vínculos criados pelo Conectar Sorte. Sem ele, **não se deve conectar a ninguém**: gasta essência imortal e obriga a vigilância constante, mas é a única saída |
 | Sorte de Bosta de Cão ⭐ | 6 | Eleva a sorte de forma contínua; reduz a potência de calamidades e tribulações e auxilia refinos. Alimenta-se de fezes de seis tipos de cães desolados |
 | Ocultar Sorte ⭐ | 6 | Esconde a própria sorte de quem a inspeciona. Só funciona contra inspeção **de nível igual ou inferior**, e por isso é considerado de uso estreito demais — chegou a **não receber um único lance** num leilão |
-| Selar Sorte ⭐ | — | Sela a sorte do alvo |
-| Transferir Sorte ⭐ | — | Move sorte de um portador para outro |
-| Deixar Sorte ⭐ | — | **Gasta a sorte do alvo rapidamente** — o instrumento ofensivo direto do caminho |
+| Selar Sorte ⭐ (ded.) | — | **Sela** a sorte. Apareceu num leilão de Gu Imortais junto com os dois seguintes; a obra descreve o efeito em uma linha e não dá mais |
+| Transferir Sorte ⭐ (ded.) | — | **Transfere** sorte de um portador para outro |
+| Deixar Sorte ⭐ (ded.) | — | **Gasta sorte rapidamente**. A obra não diz de quem — se é a do usuário, é um acelerador; se é a do alvo, é a arma ofensiva direta do caminho. `—` |
 | Boa Sorte ⭐ | — | Gu de **armazenamento**: recolhe e estoca toda a boa sorte **sem dono** que se dissipa pelo céu e pela terra |
 | Sorte de Flor de Pessegueiro ⭐ | — | Sorte amorosa. Vendido caro; é o exemplo de que a sorte tem **gêneros**, não só quantidade |
 | Dedução de Sorte ⭐ | — | Gu duplo de sorte **e** sabedoria: **consome a própria sorte** para deduzir perigos e oportunidades futuras |

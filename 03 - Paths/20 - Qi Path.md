@@ -5,7 +5,7 @@ aliases:
   - Qi Path
   - Caminho do qi
 status: consolidado
-fontes: ["cap. 308", "cap. 313", "cap. 315", "cap. 319", "cap. 320", "cap. 350", "cap. 497", "cap. 517", "cap. 518", "cap. 531", "cap. 584", "cap. 662", "cap. 683-685", "cap. 693", "cap. 752", "cap. 754", "cap. 769", "cap. 863", "cap. 883", "cap. 1035", "cap. 1043", "cap. 1066", "cap. 1241", "cap. 1265", "cap. 1323", "cap. 1637", "cap. 1682", "cap. 1710", "cap. 1712", "cap. 1741", "cap. 1775", "cap. 1810", "cap. 1815-1817", "cap. 1834-1836", "cap. 1881", "cap. 1934", "cap. 1935", "cap. 1945", "cap. 1950", "cap. 1955", "cap. 1974", "cap. 1986", "cap. 1987", "cap. 1996", "cap. 1998", "cap. 2001", "cap. 2003", "cap. 2004", "cap. 2007", "cap. 2025", "cap. 2052", "cap. 2071", "cap. 2086", "cap. 2096", "cap. 2098", "cap. 2099", "cap. 2179", "cap. 2181", "cap. 2289", "cap. 2322", "cap. 2324", "cap. 2327", "cap. 315", "cap. 1119", "cap. 1741", "cap. 1817", "cap. 1935", "cap. 1967", "cap. 1968", "cap. 1969", "cap. 1970", "cap. 2006", "cap. 2020", "cap. 2085", "cap. 2086", "cap. 2097", "cap. 2179", "cap. 2289"]
+fontes: ["cap. 308", "cap. 313", "cap. 315", "cap. 319", "cap. 320", "cap. 350", "cap. 497", "cap. 517", "cap. 518", "cap. 531", "cap. 584", "cap. 662", "cap. 683-685", "cap. 693", "cap. 752", "cap. 754", "cap. 769", "cap. 863", "cap. 883", "cap. 1035", "cap. 1043", "cap. 1066", "cap. 1119", "cap. 1241", "cap. 1265", "cap. 1323", "cap. 1637", "cap. 1682", "cap. 1710", "cap. 1712", "cap. 1741", "cap. 1775", "cap. 1810", "cap. 1815-1817", "cap. 1817", "cap. 1834-1836", "cap. 1881", "cap. 1934", "cap. 1935", "cap. 1945", "cap. 1950", "cap. 1955", "cap. 1967", "cap. 1968", "cap. 1969", "cap. 1970", "cap. 1974", "cap. 1986", "cap. 1987", "cap. 1996", "cap. 1998", "cap. 2001", "cap. 2003", "cap. 2004", "cap. 2006", "cap. 2007", "cap. 2020", "cap. 2025", "cap. 2052", "cap. 2071", "cap. 2085", "cap. 2086", "cap. 2096", "cap. 2097", "cap. 2098", "cap. 2099", "cap. 2179", "cap. 2181", "cap. 2289", "cap. 2322", "cap. 2324", "cap. 2327"]
 conhecimento: comum
 ---
 
@@ -415,6 +415,9 @@ acrescentadas diretamente ao corpo do ressuscitado.
 - **Corrosão pelas próprias marcas.** Onde as marcas de qi ficam densas demais, corpos e
   construtos são lentamente **convertidos em qi**. Aliados marcados por elas enlouquecem se a
   concentração cair.
+- **E, no retorno, o caminho vira agressor de todo mundo.** Onde uma maré de qi passa, as marcas
+  de qi inundam a área e **suprimem os outros caminhos** indiscriminadamente. A ressurreição do
+  caminho do qi não é uma boa notícia para ninguém que cultive outra coisa.
 - **Escassez estrutural.** O caminho gasta material para lançar golpes **e** precisa de
   material para refinar Gu — e é justamente o material que se extinguiu. A escassez o ataca
   duas vezes.

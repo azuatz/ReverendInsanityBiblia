@@ -8,7 +8,7 @@ aliases:
   - Mar Primordial
   - Cerimônia do Despertar
 status: consolidado
-fontes: ["cap. 5-7", "cap. 10", "cap. 17", "cap. 19", "cap. 22", "cap. 26", "cap. 35", "cap. 43", "cap. 50", "cap. 80", "cap. 92", "cap. 96", "cap. 111", "cap. 141", "cap. 145", "cap. 152-153", "cap. 167", "cap. 179", "cap. 187-188", "cap. 212", "cap. 230", "cap. 273", "cap. 312", "cap. 331", "cap. 490", "cap. 493-494", "cap. 504", "cap. 598", "cap. 1646", "cap. 1796"]
+fontes: ["cap. 5-7", "cap. 10", "cap. 17", "cap. 19", "cap. 22", "cap. 26", "cap. 35", "cap. 43", "cap. 50", "cap. 80", "cap. 92", "cap. 96", "cap. 111", "cap. 141", "cap. 145", "cap. 152-153", "cap. 167", "cap. 179", "cap. 187-188", "cap. 212", "cap. 230", "cap. 273", "cap. 312", "cap. 331", "cap. 490", "cap. 493-494", "cap. 504", "cap. 598", "cap. 1646", "cap. 1796", "cap. 180-181", "cap. 33", "cap. 52", "cap. 86", "cap. 106", "cap. 437"]
 conhecimento: comum
 ---
 
@@ -41,6 +41,15 @@ dentro do corpo e forma a abertura, com seu Mar Primordial. **O número de passo
 grau de aptidão** — a tabela completa está em [[03 - Aptidão|Aptidão]] —, e quem não alcança dez passos
 **jamais será Mestre Gu**. Não há segunda chance: a cerimônia acontece uma vez na vida, e o
 resultado é definitivo.
+
+**O instante em que o órgão nasce, por dentro.** Vale registrar aqui, porque é a única vez em
+que a obra descreve a abertura se formando: o jovem ouve um estouro que ninguém mais escuta;
+os pelos do corpo se arrepiam, os poros se fecham, a mente se estica até um limite tenso. Logo
+depois a mente apaga, o corpo amolece como se estivesse caindo dentro de uma nuvem, o coração
+relaxa, os pelos baixam, os poros reabrem — e ele está encharcado de suor. Parece longo e é
+curtíssimo. Quando volta a si, ele vira a atenção para dentro e encontra, abaixo do umbigo e
+entre os dois rins, **uma abertura que não existia**. A cena completa da cerimônia, do ponto de
+vista de quem a atravessa e de quem assiste, está em [[03 - Aptidão#A cerimônia como cena|Aptidão]].
 
 **O que acontece com quem não passa.** Permanece mortal comum, dentro do próprio clã, para
 sempre. Não é exílio nem desonra formal — é irrelevância: a pessoa deixa de ser investimento
@@ -84,6 +93,84 @@ Dentro dessa cavidade fica o ==Mar Primordial (Primeval Sea)==: um pequeno mar d
 O nível do Mar Primordial é medido em **porcentagem da capacidade da abertura**, e essa capacidade máxima é fixada pela [[03 - Aptidão|aptidão]] da pessoa. Isso merece atenção porque é contraintuitivo: alguém com aptidão de 44% nunca acumulará mais que 44% de essência, **mesmo havendo espaço físico sobrando na cavidade**. Ao atingir o próprio limite, o mar simplesmente para de subir. A essência é reposta por recuperação natural, numa taxa também proporcional à aptidão, ou pela absorção de [[02 - Pedras Primordiais|pedras primordiais]] — a moeda do mundo, que dobra de função como bateria portátil.
 
 Além de energia, a abertura guarda os **Gu**. Os vermes mágicos do Mestre Gu vivem ali dentro, alimentados por ele, e são chamados para fora quando usados. Na prática isso significa que a abertura é também o inventário do personagem — e que atacar a abertura de alguém é atacar simultaneamente sua mana, seu equipamento e sua vida.
+
+### Por dentro: o que o cultivador vê quando "olha" para a própria abertura
+
+A designer precisa poder imaginar este órgão, e a obra o descreve com generosidade. Vale
+começar pelo que ele **não** é: não é um espaço físico. A abertura fica dentro do corpo mas
+**não divide espaço com os órgãos** — não aparece numa dissecação, não desloca nada, não
+pode ser alcançada por uma faca.
+
+**Onde fica.** Num ponto preciso e sempre o mesmo: cerca de **três polegadas abaixo do
+umbigo, entre os dois rins**. É por isso que o gesto informal de chamar um Gu para fora é
+dar um tapinha na própria barriga.
+
+**Que tamanho tem.** Aqui a obra é deliberadamente evasiva, e a evasão é a resposta: a
+abertura é descrita como "infinitamente grande e, ao mesmo tempo, infinitamente pequena".
+Não há centímetros, não há litros. Existe uma única medida citada, e ela é burocrática, não
+física: ao registrar o resultado de um jovem na cerimônia, o ancião anota "Mar Primordial
+medindo seis por seis" — uma notação de cartório de clã, sem unidade declarada e sem
+explicação. Para efeito de mesa, a leitura útil é que **a abertura não tem tamanho absoluto;
+só tem tamanho relativo**, medido em porcentagem de si mesma, e é por isso que todo o
+sistema fala em "44% de essência" e nunca em "quatro litros de essência".
+
+**Como se olha para dentro.** Não com os olhos. O Mestre Gu fecha os olhos, acalma a mente e
+**deixa a atenção escorregar para dentro do Mar Primordial**. É um sentido interno, aprendido
+na primeira semana de aula do clã junto com meditar e movimentar a essência pelo corpo. O
+procedimento é rápido o bastante para ser feito no meio de uma viagem, montado, ou entre dois
+lances de uma luta — e não é contemplativo: é o gesto de conferir o próprio painel.
+
+**O que ele vê.** Uma paisagem interior, e sempre a mesma:
+
+- Uma **cavidade esférica**, fechada por quatro paredes que são, no primeiro estágio, uma
+  fina camada de **luz branca**, lisa e sem impurezas, brilhando como uma casca luminosa que
+  sustenta a esfera para que não desabe.
+- No fundo, o **Mar Primordial**: água de verdade, com ondas que sobem e descem, superfície
+  lisa como um espelho quando em repouso, densa, com brilho metálico, emitindo luz da cor do
+  próprio rank. **Cada gota é uma gota de essência.**
+- O nível do mar é literalmente um nível de água: ele sobe e desce à vista. Absorvendo uma
+  [[02 - Pedras Primordiais|pedra primordial]], o nível sobe "numa velocidade visível a olho
+  nu" — e, ao bater no teto imposto pela [[03 - Aptidão|aptidão]], **para de repente**, com
+  espaço de sobra acima.
+- Acima do mar existe um **céu vazio** dentro da esfera. É onde os [[13 - Onde um Gu Mora|Gu
+  guardados]] pairam. Gu de água ficam boiando na superfície do mar; um Gu chamado para uso
+  sobe do mar até o meio da esfera e sai dali para o corpo.
+- Em combate ou em cultivo, o mar **se agita sozinho**: ondas se levantam sem vento e se
+  atiram contra as paredes, tempestades, marés, maremotos. É essa a imagem que a obra usa
+  para descrever o esforço de avançar de estágio.
+
+Nada disso é visível de fora. **Um forasteiro não vê a abertura de ninguém** — nem por
+observação, nem por dissecação. O único acesso é a inspeção por toque descrita adiante: a
+mão no ombro, os olhos fechados, alguns segundos de concentração. Daí o tabu.
+
+```mermaid
+graph TD
+  subgraph AP["Abertura — esfera, 3 polegadas abaixo do umbigo"]
+    P["PAREDE<br/>luz → água → pedra → cristal<br/>(muda a cada estágio)"]
+    C["CÉU INTERNO<br/>Gu guardados pairam aqui"]
+    M["MAR PRIMORDIAL<br/>essência líquida, colorida por rank<br/>nível = % da aptidão"]
+    P --- C
+    C --- M
+  end
+  M -->|"gasto: jato de essência sai do corpo"| G["Gu acionado"]
+  PS["Pedra primordial"] -->|"absorção: nível sobe a olho nu"| M
+  M -->|"ondas atiradas contra a parede"| P
+```
+
+> O diagrama acima é **leitura nossa** do que a obra descreve em cena; a obra não apresenta
+> nenhum esquema da abertura.
+
+### O que muda, fisicamente, a cada degrau
+
+Duas coisas mudam de aparência, e são exatamente as duas que um inspetor lê:
+
+| O que muda | Ao subir de **estágio** (dentro do rank) | Ao subir de **rank** |
+|---|---|---|
+| **A parede** | muda de material — luz, água, pedra, cristal — e fica **mais espessa** a cada degrau: a parede de luz é lisa e sem impurezas; a de água é visivelmente mais grossa que a de luz, com ondulações de luz correndo e piscando sobre ela; a de cristal é branca e sólida | volta ao começo: a parede de cristal estilhaça e se refaz como uma nova parede de luz, fina outra vez, agora do rank seguinte |
+| **A cor do mar** | muda de tom dentro da mesma família (verde-jade → verde-claro → verde-escuro → verde-negro, no rank 1) | muda de família inteira (verde-cobre → vermelho-aço → branco-prata → amarelo-dourado → roxo-cristal) |
+
+Fora isso, a abertura **não muda de aparência**: não ganha decoração, não muda de formato,
+não acumula marcas. Os detalhes de cor estão em [[04 - Essência Primordial|Essência Primordial]].
 
 ### As paredes por estágio
 

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Wisdom Path
 status: consolidado
-fontes: ["cap. 461", "cap. 467", "cap. 490", "cap. 492", "cap. 505", "cap. 513", "cap. 570", "cap. 580", "cap. 598", "cap. 601", "cap. 637", "cap. 652", "cap. 657", "cap. 711", "cap. 735", "cap. 780", "cap. 788", "cap. 793", "cap. 802", "cap. 810", "cap. 817", "cap. 830", "cap. 846", "cap. 899", "cap. 952", "cap. 984", "cap. 986", "cap. 1029", "cap. 1073", "cap. 1299", "cap. 1447", "cap. 1608", "cap. 1649", "cap. 1787", "cap. 2028"]
+fontes: ["cap. 461", "cap. 467", "cap. 490", "cap. 492", "cap. 505", "cap. 513", "cap. 570", "cap. 580", "cap. 598", "cap. 601", "cap. 637", "cap. 639", "cap. 642", "cap. 646", "cap. 647", "cap. 651", "cap. 652", "cap. 657", "cap. 711", "cap. 735", "cap. 743", "cap. 780", "cap. 788", "cap. 793", "cap. 802", "cap. 810", "cap. 817", "cap. 819", "cap. 820", "cap. 830", "cap. 846", "cap. 899", "cap. 952", "cap. 984", "cap. 986", "cap. 1029", "cap. 1073", "cap. 1299", "cap. 1447", "cap. 1608", "cap. 1649", "cap. 1787", "cap. 2028", "cap. 2163"]
 conhecimento: especializado
 ---
 
@@ -98,9 +98,13 @@ As regras que a cercam são precisas:
 - **Consome combustível.** Gu de pensamento em massa são queimados como lenha.
 - **Depende de fundamento e de evidências.** Nenhuma quantidade de luz deduz algo sobre um
   caminho que o usuário não estuda.
-- **Sessões têm teto** de cerca de sete dias contínuos — depois disso, a mente "ferve".
-  Curiosamente, é a erudição no **caminho do fogo** que regula essa resistência — um dos doze
-  caminhos naturais tratados em [[27 - Os Caminhos Elementais|Os Caminhos Elementais]].
+- **Sessões têm teto** de cerca de sete dias e sete noites contínuos — depois disso a mente
+  precisa descansar, e insistir causa dano considerável. A imagem que a obra usa é a de um
+  caldeirão fervendo, que precisa esfriar de tempos em tempos.
+  E o teto **não é fixo: ele é função do domínio do deduzidor no caminho sobre o qual ele está
+  deduzindo.** No caso registrado, um grão-mestre da sabedoria ficou limitado a sete dias por
+  turno porque seu domínio no **caminho do fogo** — o assunto da dedução — era baixo demais.
+  Deduzir sobre o que você conhece cansa menos. Ver [[27 - Os Caminhos Elementais|Os Caminhos Elementais]].
 - **Forçar além do próprio limite causa lesão mental real.**
 - **Vincula-se a uma pessoa**, e o vínculo exige que **corpo e alma** do usuário reconhecido
   estejam presentes **juntos**. Uma alma habitando outro corpo não o aciona.
@@ -123,6 +127,224 @@ Este é o traço mais característico, e a obra é generosa com números:
 
 O último é o exemplo mais brutal de design do sistema inteiro: um custo fixo que não se
 adapta ao que você pode pagar. Já matou quem consultou sem conferir a própria reserva.
+
+## A camada escondida
+
+A sabedoria se apresenta como um caminho de suporte: você deduz melhor, planeja melhor, e paga
+em tempo de vida. Isso é verdade. O que a descrição não conta é que este caminho e o
+[[16 - Rule Path|caminho da regra]] têm, na obra, um **estatuto especial** que nenhum outro tem —
+e que a moeda dele não é só a longevidade. Ele também cobra da mente, do corpo e da própria
+fundação de poder.
+
+> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
+> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
+> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
+
+### 1. O estatuto especial: a chave da transferência de erudição
+
+`conhecimento: segredo`
+
+Para entender o privilégio deste caminho é preciso entender o problema que ele resolve.
+
+No mundo da obra, **erudição não se transfere**. Você pode roubar os Gu de um mestre, ler a
+alma dele, herdar os manuscritos dele — e não vai ter a compreensão que ele tinha. O
+[[06 - Attainment|domínio]] de um caminho é pessoal, custa séculos, e não se copia. É a razão pela
+qual o mundo não converge: cada geração recomeça.
+
+Exceto por uma coisa. Existe um objeto chamado **significado verdadeiro** — a compreensão de um
+caminho destilada e *destacada* da pessoa que a possuía. Quem absorve um significado verdadeiro
+tem o domínio naquele caminho **elevado bruscamente**, sem os séculos. É o único atalho real de
+erudição do mundo, e é por isso que reinos de sonho e heranças que contenham um deles valem
+guerras.
+
+E aqui entra o privilégio:
+
+> **Para deixar um significado verdadeiro, o caminho da sabedoria e o caminho da regra têm a
+> maior facilidade.** Todos os outros caminhos precisam alcançar **certo nível de imitação
+> desses dois** para conseguirem deixar o seu.
+
+A razão de fundo é que todo significado verdadeiro envolve a **verdade** (que é o material do
+caminho da regra) e a **vontade** (que é o material do caminho da sabedoria). Os outros
+caminhos não têm as ferramentas; precisam pegá-las emprestadas.
+
+E há o segundo verbo, que é o que faz esta seção pertencer à camada escondida:
+
+> **Imortais dos caminhos da regra e da sabedoria são também mais hábeis em EXTRAIR o próprio
+> significado verdadeiro.**
+
+Ou seja: eles não apenas conseguem deixar um quando morrem — eles conseguem **arrancar o
+próprio, em vida**, e entregá-lo a outra pessoa. É a única forma canônica de um cultivador
+ensinar de verdade.
+
+**E o preço é terrível:**
+
+> Quem extrai o próprio significado verdadeiro **sofre uma queda de domínio, e a perda não pode
+> ser recuperada.**
+
+Essa é a explicação canônica de por que significados verdadeiros são raros no mundo. Não é que
+seja difícil fabricá-los; é que fabricar um **te rebaixa permanentemente**. Ensinar custa saber.
+
+> [!note] Para o design
+> Este é o melhor achado da nota inteira para uma mesa. **Um personagem pode transferir a
+> própria maestria para outro — e sai da transação menos capaz do que entrou, para sempre.**
+> É um sistema de mentoria com custo real, é a explicação de por que o conhecimento não se
+> acumula no cenário, e é uma decisão dramática que um jogador vai lembrar por anos: *quanto
+> de mim eu dou para você conseguir?*
+
+### 2. O preço que cobra da mente: a lesão mental é real e mensurável
+
+`conhecimento: especializado`
+
+A obra não trata "pensar demais" como metáfora. Ela descreve uma lesão com anatomia, sintoma e
+convalescença — e explica com uma comparação muito boa:
+
+> **Deduções do caminho da sabedoria também têm risco, é possível se machucar. Assim como no
+> caminho da força, quem se esforça além da conta distende os músculos, e os tendões podem até
+> arrebentar.**
+
+O quadro clínico, num caso registrado, é este:
+
+1. O cultivador forçou uma dedução acima do que a mente dele aguentava. **Cuspiu sangue.**
+2. Todos os pensamentos que ele tinha na cabeça **colapsaram e se desintegraram** de uma vez.
+3. A mente entrou em **tremores**, e os pensamentos novos **se desintegravam no instante em que
+   eram criados** — isto é, ele ficou temporariamente **incapaz de pensar**.
+4. Os *limites* da mente dele — as bordas do espaço mental — ficaram **rachados**.
+5. Enquanto durou, **qualquer pensamento causava dor intensa**. O tratamento foi parar
+   completamente de pensar, imóvel como uma estátua.
+6. Depois da convalescença, os tremores cessaram, mas **as rachaduras permaneceram**, e a
+   **velocidade de geração de pensamentos ficou menor que antes**.
+
+Repare no que sobrou: uma sequela. Não morreu ninguém, e o personagem ficou permanentemente um
+pouco mais lento.
+
+E a causa é a parte instrutiva, porque é uma regra de limite muito melhor que "gaste pontos de
+mana": ele estava tentando deduzir um problema de um caminho em que **sua fundação era baixa
+demais**. A luz da sabedoria dá inspiração ilimitada — e é exatamente esse o perigo:
+
+> A inspiração ilimitada me dá inúmeras possibilidades e direções, **mas eu preciso deduzir cada
+> uma delas**. E, durante o processo de dedução, **ainda mais alternativas são geradas.**
+
+Ou seja: **sem domínio no assunto, a ferramenta gera opções mais depressa do que a mente
+consegue conferir**, e o excesso arrebenta o pensador. A luz não substitui saber; ela multiplica
+o que você já sabe. Quem não sabe nada é esmagado pelo próprio auxílio.
+
+> [!note] Para o design
+> **Um poder de investigação cuja falha é uma sequela permanente de velocidade mental** é muito
+> mais interessante que um teste falhado. E a condição de segurança é elegante: só é seguro
+> perguntar sobre aquilo em que você já tem base. Isso obriga o jogador a construir competência
+> antes de usar a ferramenta que dispensa competência.
+
+### 3. O preço em proximidade: a lâmpada que consome quem se aproxima
+
+`conhecimento: segredo`
+
+A luz da sabedoria não cobra uma taxa fixa. Ela cobra **por distância e por tempo**, e a obra dá
+os números:
+
+- A alguns passos de distância da fonte, **poucas respirações** custaram **dois anos de vida**.
+- Perto da fonte e por um tempo longo, o mesmo cultivador perdeu **mais de dez anos de vida**.
+- Para calibrar o horror: **uma pessoa comum tem cerca de cem anos de vida no total.**
+
+E a obra tira daí a consequência tática, que é uma das melhores cenas de regra do texto: num
+combate travado dentro do alcance da luz, um dos lados ordenou aos aliados que **empurrassem o
+inimigo para mais perto da fonte**, *para que a longevidade dele se esgotasse mais depressa*. A
+lâmpada virou arma de área.
+
+Do outro lado, a brecha: **um corpo que já está morto não tem longevidade para perder.** Um
+cultivador que se transformou em zumbi imortal pôde ficar sob a luz indefinidamente — e usou
+esse tempo para atravessar um avanço de realm inteiro. O texto é explícito: *meu corpo de zumbi
+atual não tem longevidade, ele é ainda mais adequado para chegar perto*. Ver
+[[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] e [[09 - Longevidade|Longevidade]].
+
+> [!note] Para o design
+> **Um recurso posicional**: quanto mais perto da fonte, mais rápido você pensa e mais rápido
+> você morre. Isso transforma uma sala num tabuleiro, dá ao mestre um relógio visível, e cria
+> a decisão recorrente mais limpa que existe — *dou mais um passo?*
+
+### 4. O preço em fundação: golpes que queimam marcas do Dao
+
+`conhecimento: especializado`
+
+Há uma terceira moeda, além de vida e de mente, e ela é permanente: alguns golpes do caminho
+**consomem as próprias marcas do Dao da sabedoria do corpo do usuário**.
+
+O caso documentado é preciso: um golpe ofensivo de assinatura da escola gasta, **por
+acionamento, pelo menos dezesseis marcas do Dao da sabedoria** — além da essência imortal.
+Marcas do Dao são a fundação acumulada de séculos, ganhas sobretudo atravessando tribulações, e
+a obra é categórica: **marcas gastas não voltam.** A única reposição normal é a próxima
+tribulação, e elas vêm de década em década.
+
+Isso dá ao caminho um perfil de custo que nenhum outro tem: ele cobra **nas três dimensões do
+personagem ao mesmo tempo** — quanto ele viverá (longevidade), quão rápido ele pensa (mente) e
+quão forte ele é (marcas do Dao).
+
+Para dimensionar o que essas marcas valem, um número de referência que a obra dá no mesmo
+trecho: cem marcas do Dao rendiam uma amplificação de cerca de **vinte por cento**, e
+cultivadores experientes chegam a amplificações de *duas, três, quatro, cinco, dez vezes*.
+Dezesseis marcas por acionamento é uma mordida pequena numa fundação madura — e uma mutilação
+numa jovem. Ver [[12 - Dao Marks|Dao Marks]] e
+[[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks|Tabelas de Referência Rápida]].
+
+### 5. O corpo muda: o coração maligno
+
+`conhecimento: segredo`
+
+O caminho tem, sim, uma alteração corporal permanente documentada — e ela é do tipo que dá nome
+a um vilão.
+
+Existe um golpe mortal do caminho da sabedoria que **transforma o coração do usuário**, enchendo
+o órgão de marcas do Dao da sabedoria **por dentro e por fora**, até ele se tornar um *coração
+maligno*. O que o novo coração faz é duplo:
+
+- **Cada batida converte essência de sangue em vontade maliciosa**, automaticamente e sem
+  acionamento — o cultivador **produz combustível mental enquanto está vivo**, do mesmo jeito que
+  respira.
+- E ele **reduz enormemente o consumo** de vontades quando o usuário pensa.
+
+Compare com o irmão de mecanismo que a obra aponta explicitamente: o golpe de veneno em que
+**cada respiração emite veneno**. É a mesma ideia aplicada a outra função vital. O mundo da obra
+tem uma família inteira de técnicas que **sequestram um processo automático do corpo** e o põem
+a produzir recurso — batimento, respiração — e o caminho da sabedoria é onde ela aparece na
+forma mais valiosa.
+
+Um detalhe de compatibilidade que vale como regra geral: o golpe **serve a um imortal normal e
+não serve a um zumbi imortal**, cujo corpo não funciona da mesma maneira. Modificações de corpo
+pressupõem um corpo. Ver [[18 - Modificar o Próprio Corpo|Modificar o Próprio Corpo]].
+
+### O que procuramos e não encontramos
+
+- **`—` A obra não diz o que acontece com quem extrai o próprio significado verdadeiro mais de
+  uma vez**, nem se existe um piso de domínio abaixo do qual a extração deixa de ser possível.
+- **`—` A obra não diz se as rachaduras da mente algum dia se fecham.** O que ela registra é
+  que, terminada a convalescença, elas continuavam lá e a velocidade de pensamento continuava
+  reduzida — o que sugere sequela permanente (ded.), mas não é afirmado.
+- **`—` Não há Gu do caminho da sabedoria de nível 9 além do próprio Gu da Sabedoria**, e a obra
+  não descreve o que seria um segundo.
+
+## Progressão por rank
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Níveis 1–4** | Gu de pensamento e de memória. Nesta faixa a sabedoria é um **auxílio de trabalho**: lembrar melhor, organizar melhor, tramar melhor. Nada que ganhe um combate |
+| **Nível 5** | O combustível: Gu que **convertem perguntas em pensamentos manipuláveis**. É o degrau em que a dedução deixa de ser talento e vira operação com recurso contável — e há uma conta canônica de conversão: **uma conta de essência imortal produz cem mil pensamentos** com o Gu Imortal correspondente |
+| **Nível 6** | Aplicações: interceptação de ataques físicos com dezenas de milhares de "pensamentos" materializados, e dedução de rastros de heranças |
+| **Nível 7** | Adivinhação de verdade — pergunta direta a céu e terra, resposta sem evidências — e a defesa contra dedução alheia. É também aqui que aparece o custo mais brutal: **cerca de 80% de falha, e cada falha consome de 10 a 70 anos de vida** |
+| **Nível 8** | A casa de Gu que multiplica a capacidade dedutiva, e o Gu de espada feito para **cortar este caminho**. O mundo considera a sabedoria perigosa o bastante para lhe dedicar um contra sob medida |
+| **Nível 9** | A **luz da sabedoria**: um campo que acelera a colisão de pensamentos. Dentro dele, deduzir é questão de semanas onde fora dele seriam anos — e cada minuto custa longevidade |
+
+### Domínio e as duas portas de entrada
+
+O caminho tem a peculiaridade de ser **acessível por fora**. Além da via direta, há duas
+entradas laterais canônicas:
+
+- **Pela emoção.** O caminho da emoção e o do encantamento **nunca se separaram** deste: não
+  existem marcas do Dao de emoção nem de encantamento no mundo, **só marcas do caminho da
+  sabedoria**. Quem cultiva sedução e influência está subindo domínio em sabedoria sem saber.
+- **Pelas estrelas.** Os pensamentos-estrela são o combustível dedutivo mais eficiente que
+  existe — valem por três ou quatro dos outros —, e é possível entrar na sabedoria por ali.
+
+A consequência para uma mesa é simpática: o personagem não precisa ser o gênio da mesa para
+cultivar o caminho do gênio. Ele pode ser o sedutor, ou o astrólogo.
 
 ## Gu representativos
 
@@ -213,6 +435,13 @@ Duas limitações que salvam o caminho de ser onipotente:
   carta da formação, a formação a monta.
 
 **Sofre contra:**
+- **A própria falta de base no assunto.** É a fraqueza mais contraintuitiva e a mais útil: a
+  ferramenta que dispensa competência **exige competência para ser usada com segurança**. Sem
+  domínio no caminho sobre o qual se deduz, a inspiração gera alternativas mais rápido do que a
+  mente consegue conferir, as sessões encurtam e a lesão mental vira risco real.
+- **O custo em fundação.** Alguns golpes do caminho **queimam marcas do Dao permanentemente** —
+  ao menos dezesseis por acionamento no caso documentado. A sabedoria cobra nas três moedas:
+  vida, mente e fundação.
 - **Ausência de informação.** Sem evidências, não há dedução. Ocultação de alto nível é o
   contra direto.
 - **A própria reserva de vida.** Cada resposta encurta a existência. É o único caminho que
@@ -262,4 +491,8 @@ Duas limitações que salvam o caminho de ser onipotente:
 - [[12 - Gu Imortais|Gu Imortais]] — a brecha de sabedoria que permite refinar Gu roubados.
 - [[22 - Information Path|Information Path]] — o par canônico: um busca, o outro deduz.
 - [[21 - Formation Path|Formation Path]] — a dupla que deduz e monta formações.
+- [[12 - Dao Marks|Dao Marks]] — as marcas que os golpes deste caminho queimam para sempre.
+- [[06 - Attainment|Attainment]] — o domínio que este caminho é o único capaz de transferir, e o preço da transferência.
+- [[18 - Modificar o Próprio Corpo|Modificar o Próprio Corpo]] — o coração maligno.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — o corpo que não tem longevidade a perder sob a luz.
 - [[29 - Os Demais Caminhos|Os Demais Caminhos]] — os caminhos da emoção e do encantamento, ramos deste.

@@ -88,7 +88,7 @@ Cinco Regiões` já pressupõe saber o que é um homem-peludo quando fala de esc
 
 ## 3. Correções feitas contra o rascunho
 
-Seis divergências entre `transformacoes-e-corpos-especiais.md` e o texto-fonte. As notas
+Sete divergências entre `transformacoes-e-corpos-especiais.md` e o texto-fonte. As notas
 finais trazem a versão corrigida; o rascunho **não foi editado** (não é arquivo meu).
 
 ### 3.1 Homens-fera não estão extintos `[correção de fato]`
@@ -366,12 +366,12 @@ Não editei nenhuma delas. Lista para quem tiver o arquivo:
 | `01 - Cultivo/14 - O Corpo e a Mente do Mestre Gu.md` | em Relações: `[[18 - Modificar o Próprio Corpo]]` — é a continuação natural dela |
 | `02 - Gu/11 - Conflito de Marcas e Compatibilidade.md` | em Relações: `[[18 - Modificar o Próprio Corpo]]` — a nota 11 explica **por que** as marcas brigam; a 18 lista **o que** as grava |
 | `03 - Paths/04 - Strength Path.md` e `03 - Paths/05 - Transformation Path.md` | em Relações: `[[18 - Modificar o Próprio Corpo]]` |
-| `05 - Sociedade/06 - Cultura das Cinco Regiões.md` | a constante nº 5 deve linkar `[[15 - Povos e Variantes Humanas]]`. **E os dois marcadores de posição `[Cidade Alada]` e `[Raça Aliada]` podem ser resolvidos**: a primeira é a *Sacred Feather City* dos homens-pena; a segunda são os **minimen**, que a obra descreve como aliados e não servos |
+| `05 - Sociedade/06 - Cultura das Cinco Regiões.md` | a constante nº 5 deve linkar `[[15 - Povos e Variantes Humanas]]`. **O marcador `[Cidade Alada]` pode ser resolvido**: é a *Sacred Feather City* dos homens-pena. **O marcador `[Raça Aliada]` precisa ser corrigido, não resolvido** — ver §3.6: ele veio de uma afirmação errada do rascunho sobre os minimen, e o substituto correto é a paridade humanos × homens-peixe (mercados de status igual; a corte como superforça) e o noivado humano × homem-de-neve |
 | `05 - Sociedade/09 - Sociedade Fora das Cinco Regiões.md` | em Relações: `[[15 - Povos e Variantes Humanas]]` — a nota fala o tempo todo de homens-peludos e homens-de-pedra sem uma nota que os apresente |
 | `05 - Sociedade/01 - Visão Geral da Sociedade.md` | incluir a nota nova no índice da pasta |
 | `04 - Mundo/05 - Atlas das Cinco Regiões.md` | na linha de **Inkman City**, linkar `[[15 - Povos e Variantes Humanas]]` |
 | `11 - Forcas e Organizacoes/04 - Deserto Ocidental.md` | na entrada de *Sacred Feather City*, linkar `[[15 - Povos e Variantes Humanas]]` |
-| `11 - Forcas e Organizacoes/05 - Mar Oriental.md` | **verificar se a corte dos homens-peixe consta como superforça.** Se não constar, ela precisa constar: o texto a classifica assim explicitamente (cap. 1663) |
+| `11 - Forcas e Organizacoes/05 - Mar Oriental.md` | já registra "a área dos homens-peixe, que é ela própria uma das dez maiores super forças da região" — **está correto**. Falta apenas linkar `[[15 - Povos e Variantes Humanas]]` e, se houver espaço, acrescentar a cultura da corte (religião do Deus do Mar, Cerimônia, santa da geração) |
 | `11 - Forcas e Organizacoes/03 - Continente Central.md` | a linha sobre Duke Long ter criado os homens-dragão pode linkar `[[15 - Povos e Variantes Humanas]]` e `[[18 - Modificar o Próprio Corpo]]` |
 | `10 - Apendices/01 - Glossário EN-PT.md` | faltam na §7: **mushroomman**, **sovereign immortal body / sovereign immortal fetus Gu**, **humans alike dragons**, **possession technique**, **Dao Guardian**. E o glossário pode registrar a padronização do §9 abaixo |
 | `_pipeline/numerar-notas.py` | **acrescentar as duas notas novas à ordem de leitura** antes da próxima execução — o script aborta se encontrar nota em disco fora da ordem |

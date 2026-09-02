@@ -169,8 +169,10 @@ Mestre destrói o arsenal.
 
 > [!note] Para o design
 > **Um item de fundação escolhido cedo demais.** O Gu Vital é uma decisão tomada na
-> adolescência, praticamente irreversível, e que determina o caminho de cultivo décadas
-> depois. Para uma ficha de personagem, é uma escolha de criação com peso real — e uma fonte
+> adolescência que determina o caminho de cultivo décadas depois. Trocá-lo é **possível,
+> mas caro**: o processo é lento, perigoso, danifica a abertura e não traz junto as marcas
+> de lei já acumuladas no caminho antigo. É por isso que a elite prefere **acrescentar** um
+> segundo caminho a trocar o primeiro. Ver [[Como se Escolhe um Caminho]]. Para uma ficha de personagem, é uma escolha de criação com peso real — e uma fonte
 > gratuita de drama: o cultivador brilhante preso a uma escolha ruim feita pela família
 > pobre.
 >

@@ -48,8 +48,12 @@ mudam tudo:
 
 1. **Todo caminho é um agrupamento de leis compatíveis.** Sinergia dentro do caminho,
    interferência entre caminhos. É a regra da qual todas as outras derivam.
-2. **A escolha de caminho acontece na prática no nível 3**, quando o Mestre monta seu
-   primeiro conjunto. Antes disso ele é apenas um colecionador.
+2. **No nível 3 escolhe-se uma direção funcional, não um caminho.** O conselho que os
+   clãs dão é montar um conjunto com uma função clara — apoio, investigação, refino,
+   combate — e os personagens da obra rejeitam esse conselho sem penalidade alguma. É
+   prática social, não regra do mundo. **A escolha formal e definitiva de caminho só
+   acontece na ascensão**, pelo Gu vital levado a ela. Ver
+   [[Como se Escolhe um Caminho]].
 3. **Espaço e tempo são os dois caminhos primordiais** — descritos como a base do céu e da
    terra desde a era imemorial. Todos os outros vieram depois. Isto é uma afirmação de
    **anterioridade histórica**: são os mais *antigos*, não os mais *abrangentes* (compare
@@ -240,7 +244,7 @@ dos aliados.
 ## O que todo personagem sabe
 
 - **O que é um caminho** e qual é o seu. É identidade social básica, como profissão.
-- **Que se escolhe um caminho no nível 3** e que essa escolha é praticamente definitiva.
+- **Que no nível 3 se monta um conjunto com uma função** — e que o mundo trata isso como escolher um caminho, embora a definição real só venha muito depois.
 - **Quais caminhos são comuns e quais são prestigiados.** Força é o caminho dos pobres;
   caminhos raros dão status. Sabe-se disso do mesmo jeito que se sabe que médico ganha mais
   que pedreiro.

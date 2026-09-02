@@ -274,3 +274,326 @@ norte — essa é uma assimetria real da obra, e vale registrar. O que ela tem:
 - **Miniscule Mountain**: secluded domain registrado nas *Legends of Ren Zu*; a obra não o
   localiza numa região. `—`
 
+---
+
+# PARTE II — PLANÍCIES DO NORTE (Northern Plains)
+
+## Cartão de identidade
+
+- Uma das **cinco regiões** do mundo (cap. 334). Palco principal do Volume 3 e de boa parte
+  dos Volumes 4-5.
+- **Posição de poder**: é a **2ª região mais forte** do mundo em poder total, atrás só do
+  Central Continent — a única capaz de resistir e contra-invadir o Central Continent
+  (cap. 522). Tem a **maior densidade de Gu Masters de combate do mundo**, forjada por guerra
+  constante (cap. 425).
+- **Muralha regional**: `(green) licorice regional wall` — muralha regional de alcaçuz
+  (verde) (cap. 1048).
+- **Sistema social**: **tribos nômades**, não clãs sedentários nem seitas; a região
+  explicitamente **não permite "seitas" (sects)**. Gestão caótica, fácil de infiltrar
+  (caps. 425, 621, 1227-1267). "Compared to western desert, northern plains is a huge
+  grassland, all sorts of tribes graze their livestock, migrate, battle, and procreate
+  there" (cap. 425).
+- **Camada imortal**: dominada pelas **tribos de linhagem Huang Jin** e, no topo,
+  por **Longevity Heaven** (Céu da Longevidade), a grotto-heaven que "está no céu" acima da
+  região — o análogo norte da Heavenly Court do Central Continent.
+
+## 1. Biomas e paisagem
+
+A etiqueta genérica é "estepe", mas a obra é explícita sobre a monotonia ser *a* característica
+— e sobre as exceções que quebram essa monotonia.
+
+- **Base geral**: "o Northern Plains era **em sua maior parte plano**, e tinha incontáveis
+  **pastagens, planícies e outeiros** (*grasslands, plains, and mounds*)" (cap. 928); "o
+  terreno do northern plains era em sua maior parte pastagem plana, havia poucos obstáculos e
+  cavalos podiam correr livremente" (cap. 507).
+- **Consequência de navegação**: "a southern border tinha muitas montanhas e dava para
+  distinguir a direção geral; já o northern plains era pastagem até onde a vista alcança e era
+  muito fácil se perder" (cap. 1044) — por isso o *return heart Gu* é a bússola padrão da
+  região (cap. 428). A estepe **não tem referências fixas**.
+- **"Sem montanhas"** — com ressalva: uma fala afirma que "o northern plains não tinha
+  montanhas e as tribos tinham de sofrer o batismo do vento e da neve" (cap. 440), em contraste
+  com as vilas fortificadas de montanha do sul. É **hipérbole prática, não literal**: a obra
+  nomeia Snowy Mountain, Ku Mu Mountain, Triple Sacred Mountain e outros relevos. Leia como:
+  a região **não tem abrigo topográfico generalizado** (ded.).
+- **Pastagem envenenada**: a **poison grassland** — névoa roxa perene "vazada" de uma blessed
+  land vizinha, onde **"é nublado o ano inteiro e o sol não é visível"** (cap. 432). Organizada
+  em **anéis concêntricos de perigo crescente**: poison beard wolves → ghost face sunflowers →
+  earth spike rats / shadow crows → área proibida no núcleo (caps. 426-433).
+- **Pântanos e brejos venenosos**: dentro da **Zi Du blessed land**, "um número incontável de
+  ervas venenosas crescia, com muitos grandes **pântanos e brejos venenosos**" (cap. 433) — a
+  fonte do vazamento que criou a poison grassland acima.
+- **Planície de gelo**: a **northern icy plain** (planície gelada do norte), no **extremo
+  norte** da região (cap. 1053). Não é geografia natural: foi **criada por Reckless Savage
+  Demon Venerable** e está saturada do **true meaning (verdadeiro sentido) de Reckless Savage**,
+  o que ali substitui parte da heaven's will e reduz o risco de passar tribulação imortal.
+  Terreno **instável**: "cada vez que o earth qi enfraquece, a northern icy plain fica mais
+  instável, e a terra em que podemos viver diminui em área". É **pobre em recursos**, e sob a
+  superfície vivem tribos de **snowmen (homens-de-neve)** e **rockmen (homens-de-pedra)**
+  (caps. 1053, 1441).
+- **Vale de fogo subterrâneo**: **Hong Yan valley** — vale com fogo queimando no subsolo, solo
+  fértil e recursos abundantes ao redor; serve de **refúgio contra a nevasca decenal**
+  (cap. 440).
+- **Lagos**: **crescent lake** (lago crescente) — "um lugar cheio de espiritualidade" com dao
+  marks de water path e refinement path na vizinhança, onde muitos grupos de feras se reúnem
+  (caps. 459-476).
+- **Floresta de cogumelos gigantes**: **Flower Forest Forbidden Land** — "lar de incontáveis
+  cogumelos; esses cogumelos eram grandes como árvores e, em número enorme, formavam uma vasta
+  floresta" (cap. 2317).
+- **Anéis de árvores antigas**: **Jade Ring fierce area** — "tinha mais de dez anéis diferentes
+  de enormes árvores antigas" (cap. 2298).
+- **Grama gigante**: **Tai Qiu** — "grama gigante crescia por todo o Tai Qiu", a ponto de
+  amortecer a queda de uma fera voadora (cap. 1136).
+- **Cratera**: a **Crazed Demon Cave**, vista do céu, "parece uma cratera" (cap. 1866) — sua
+  camada 1 é a mais externa; camada 2 é terra de rochas em brasa; camada 3 é névoa branca com
+  feras ferozes e a "Fog City" (caps. 1866, 2170-2171).
+- **Fendas subterrâneas**: **Earth Trench** (trincheira terrestre) — fendas de milhões de li,
+  riquíssimas e inexploradas no fundo, com zonas de gravity soil (caps. 931-935). No norte, a
+  entrada de uma Earth Trench é ponto geográfico de referência (caps. 739, 1082).
+- **Penhasco**: **Feng Bo cliff** (cap. 1048) — um dos raros relevos verticais nomeados.
+- **Rio**: o **Reverse Flow River** (Rio de Fluxo Reverso), que fica na região, é um **secluded
+  domain de céu e terra**, não um rio comum (caps. 2136, e V5 passim).
+
+## 2. Clima e fenômenos periódicos
+
+Este é o bloco **mais rico** das Planícies do Norte — a região é definida por seu calendário
+de desastre.
+
+- **Great blizzard decenal (a grande nevasca de dez em dez anos)**: nevasca catastrófica que
+  varre a **região inteira a cada 10 anos**, dura **meses**, mata em massa e encolhe as tribos
+  um nível de porte (caps. 440, 489). "A nevasca se espalhava pelo northern plains com toda a
+  força, com seu vento e neve gelando os ossos"; "no mundo exterior do northern plains, a neve
+  já caía havia mais de um mês".
+- `[segredo]` **Origem real da nevasca**: é a **calamidade/tribulação periódica do Imperial
+  Court blessed land**, desviada para o mundo externo por um Immortal Gu de luck path
+  (*Divert Disaster*). A nevasca também **funciona como mecanismo de saque** — destrói spirit
+  springs e captura Gu de toda a região, que reaparecem como recompensas dentro de uma
+  estrutura fechada (caps. 556, 558, 567, 612).
+- **Ciclo econômico acoplado à nevasca**: "a cada dez anos, conforme a nevasca se aproxima, as
+  spirit springs de todas as áreas do northern plains vão secando e morrendo" — e, ao fim do
+  ciclo, nascentes novas surgem em abundância, tornando o pós-nevasca **a melhor época de
+  crescimento** da região (cap. 545). O calendário econômico da região tem período de dez anos.
+- **Fenômenos da nevasca**: **snow monsters (monstros de neve)** cuja força escala com a
+  altura (30 pés ≈ rank 3, 40 ≈ rank 4, 50 ≈ rank 5) e **flying hand snow** (mãos de neve com
+  aura rank 5 que esmagam Gu ativados) (caps. 555, 597).
+- **Clima extremo cotidiano**: o clima extremo **força migrações constantes** — é a razão
+  material do nomadismo da região (caps. 426-440).
+- **Beast tides**: também ocorrem no norte; nas áreas ferozes, uma perturbação pode disparar
+  uma maré de bestas "de escala grandiosa" (caps. 2317-2318).
+- **Qi tides (marés de qi)** e Earth Trenches: fenômenos do fim da obra, globais e não
+  exclusivos da região (caps. 1968, 1990, 2099).
+
+## 3. Locais nomeados
+
+### Áreas ferozes (ver bloco 4 para a categoria)
+
+| Nome (EN) | O que é | Por que importa |
+|---|---|---|
+| **Tai Qiu** | Área feroz coberta de grama gigante; feras ferozes e plantas perigosas; recursos abundantes | A área feroz mais desenvolvida/explorada da obra; abrigou um terreno de herança (caps. 781-784, 1085-1136) |
+| **Crazed Demon Cave** | Área feroz que, vista do céu, parece uma cratera; na verdade uma estrutura de **nove camadas** | Superficialmente uma das dez áreas ferozes; na verdade o "Dao field" deixado por um Venerável e o ponto mais fino da fronteira do mundo (caps. 1173-1176, 1862, 2170-2171) |
+| **Loose Tail Ridge** | Cordilheira/serra feroz; abriga dragões de gelo imemoriais | "Até Gu Immortals rank 8 têm de ter cuidado ao explorá-la" (caps. 1546, 1763-1764) |
+| **Jade Ring fierce area** | Área feroz com mais de dez anéis concêntricos de árvores antigas enormes | Formação vegetal única da obra (cap. 2298) |
+| **Flower Forest Forbidden Land** | Floresta de cogumelos do tamanho de árvores; a área feroz mais próxima de Longevity Heaven | Bioma-assinatura do norte (cap. 2317) |
+| **Earth Trench** (a do norte) | Fenda terrestre gigantesca; "sua situação é complicada demais" | Contada entre os recursos remanescentes ao lado das dez áreas ferozes; sobre a entrada dela fica a sede da Zombie Alliance do norte (caps. 739, 1082-1084) |
+
+> As **dez** áreas ferozes nunca são listadas por completo na obra. Confirmadas por nome: Tai
+> Qiu, Crazed Demon Cave, Loose Tail Ridge, Jade Ring e Flower Forest Forbidden Land — cinco
+> das dez. As outras cinco: `—`.
+
+### Terrenos especiais e domínios reclusos de superfície
+
+| Nome (EN) | O que é | Por que importa |
+|---|---|---|
+| **northern icy plain** | Planície gelada no extremo norte; artificial, criada por um Venerável; instável e encolhendo | Melhor lugar conhecido para passar tribulação imortal com risco reduzido; sob ela vivem snowmen e rockmen (caps. 1053, 1441) |
+| **poison grassland** | Pastagem envenenada de névoa roxa perene, nublada o ano inteiro, em anéis de perigo crescente | Ecossistema tóxico completo, com fauna própria por anel (caps. 426-433) |
+| **Reverse Flow River** | Rio que é na verdade um **secluded domain de céu e terra** | Um dos três obstáculos míticos do caminho da vida na Door of Life and Death; o exemplar do mundo fica no norte (caps. 410-411, 2136) |
+| **Luo Po valley** | **Secluded domain de céu e terra** de **soul path**; nevoeiro de confusão e vento que corta almas | Junto com Dang Hun mountain (que fica no sul), "os dois tesouros do cultivo de soul path"; pode ser erguido fisicamente e guardado numa abertura imortal (caps. 410-411, 942, 953, 986-990) |
+
+### Relevos, vales, lagos e planícies
+
+| Nome (EN) | O que é | Por que importa |
+|---|---|---|
+| **Snowy Mountain** | Maciço nevado com múltiplos picos, cada um ocupado por um Gu Immortal demoníaco; "fortaleza sólida, fácil de defender e difícil de atacar"; vento tão frio que "quase arranca a alma do corpo" | Sede da nº 1 força demoníaca da região (caps. 537, 638) |
+| **Hong Yan valley** | Vale com fogo subterrâneo, solo fértil, recursos abundantes | Refúgio anti-nevasca de tribos pequenas (cap. 440) |
+| **crescent lake** | Lago "cheio de espiritualidade"; dao marks de water e refinement path ao redor; muitos grupos de feras | Ponto de recurso natural e de caça (caps. 459-476) |
+| **onion valley** | Vale nomeado | (cap. 496) |
+| **Xing Jiu peak** | Pico nomeado; local de heranças | (cap. 550) |
+| **Demon Blood Hill** | "Área famosa do northern plains" onde quatro grandes tribos do caminho justo se aliaram para aniquilar um bando de bandidos do caminho demoníaco | Marco histórico-geográfico, nome-monumento (cap. 593) |
+| **dragon elephant plain** | Planície nomeada; um dos nós de uma rede de formações de teleporte distribuída pela região | (cap. 1085) |
+| **Blood Plain** | Planície nomeada; sede de competições marciais | Com Iron Eagle blessed land e Tai Qiu, forma um "V irregular" no mapa — a única referência de triangulação geográfica explícita da região (caps. 1190, 1206) |
+| **Bone Burial Field** | "Campo do Enterro dos Ossos" — campo nomeado | (cap. 1208) |
+| **Feng Bo cliff** | Penhasco nomeado; ponto de formação de teleporte | (cap. 1048) |
+| **Ku Mu mountain** | Montanha nomeada | (cap. 737) |
+| **Divine Needle Valley** | Vale que "não se formaria naturalmente"; no fundo repousa um ouriço branco gigantesco coberto de espinhos cheios de dao marks de sword path | Exemplo de acidente geográfico **criado por uma criatura** (cap. 1567) |
+| **Triple Sacred Mountain** | Montanha nomeada, tratada como "lar" por um povo | (cap. 1591) |
+| **Myriad Bean Garden** | "Jardim das Miríades de Feijões" — ponto nomeado | (cap. 1100) |
+
+### Cidades
+
+| Nome (EN) | O que é | Por que importa |
+|---|---|---|
+| **Inkman City** | Cidade dos **inkmen** (homens-de-tinta, humanos variantes); população acima de 800 mil, depois >1,2 milhão | Prova que o norte abriga **forças de humanos variantes** com cidade própria — mas com apenas um Gu Immortal inkman público (caps. 1766, e V5-V6) |
+| **Dark Flow Giant City** | "Cidade Gigante do Fluxo Escuro"; a escuridão fica mais densa quanto mais perto do centro; situada **sobre a entrada de uma Earth Trench** | Sede da Zombie Alliance do norte (caps. 739, 1227-1267) |
+| **Old Earth City** | Cidade nomeada, com um "velha árvore de madeira-terra" na entrada | (cap. 738) |
+| **Mountain Cliff City** | Cidade nomeada com senhor de cidade próprio | (cap. 1824) |
+
+## 4. Zonas perigosas
+
+O norte tem uma categoria **formal e canônica** que o sul não tem:
+
+- **As dez grandes áreas ferozes (ten great fierce areas)**: "o Northern Plains era vasto e
+  amplo, mas as forças grandes e super forças já haviam dividido entre si os recursos de
+  cultivo encontrados nele. O que restava eram principalmente **as dez grandes áreas ferozes**"
+  (cap. 1082). Definição funcional: são **os territórios que os humanos não conseguiram tomar**.
+  - **Motivo do perigo**: "dentro delas havia incontáveis grupos de desolate beasts; immemorial
+    desolate beasts e plantas [imemoriais] também não eram raros" (cap. 2298). "Poucos Gu
+    Immortals ousam se aventurar nelas" (cap. 1107); "os immemorial desolate beasts escondidos
+    nelas davam dor de cabeça até às super forças" (cap. 1089).
+  - **Inversão de ponto de vista**: "para os humanos, Tai Qiu era uma das dez grandes áreas
+    ferozes; mas para essas desolate beasts e ancient desolate beasts, as dez grandes áreas
+    ferozes eram **santuários**, lugares que os humanos não conseguiam tomar" (cap. 782).
+  - **Contrapartida**: "as dez grandes áreas ferozes são perigosas, mas ao mesmo tempo contêm
+    oportunidades abundantes" (cap. 1082).
+- **poison grassland**: perigo por **veneno + fauna venenosa em anéis**; o núcleo é área
+  proibida declarada (caps. 426-433).
+- **northern icy plain**: perigo por **instabilidade do terreno** (encolhe com o
+  enfraquecimento do earth qi) e por frio extremo/escassez (cap. 1053).
+- **Snowy Mountain**: perigo político-militar (concentração de imortais demoníacos) somado a
+  vento que ameaça a alma (caps. 537, 638).
+- **Earth Trench**: perigo por profundidade inexplorada e "situação complicada demais"
+  (caps. 931-935, 1084).
+- **A região inteira, durante a nevasca**: por meses a cada dez anos, o mundo exterior do norte
+  é uma zona letal indiscriminada (caps. 440, 489, 555).
+
+## 5. Fauna e flora características
+
+- **Lobos — o animal-assinatura da região**. "Havia grupos de lobos de todos os tamanhos no
+  northern plains" e a **manipulação de lobos** é a habilidade de fera regional por excelência.
+  Espécies nomeadas: **poison beard wolves** (lobos-de-barba-venenosa, "comumente vistos no
+  northern plains", cap. 426), **wind wolves** (lobos-de-vento), **water wolves**, **hump
+  wolves** (lobos-corcunda — "montarias de destaque no northern plains", cap. 436), e reis:
+  *wind wolf myriad wolf king*, *turtleback myriad wolf king*, além dos **wolf emperors**
+  (imperadores-lobo) "nativos do northern plains". Um *myriad wolf pack* guarda um recurso
+  de nível imortal na pastagem (caps. 426-476, e V4-V5 passim).
+- **Coiling mountain goat king** (rei-cabra-da-montanha-espiralada): citado explicitamente
+  como a **desolate beast representativa do Northern Plains**, ao lado do phoenix feather lava
+  crocodile do sul (caps. 700, 781).
+- **Fauna da poison grassland, por anel**: poison beard wolves (borda) → **ghost face
+  sunflowers** (girassóis-de-rosto-fantasma) → **earth spike rats** (ratos-espinho-de-terra) e
+  **shadow crows** (corvos-sombra) → núcleo proibido (caps. 426-433).
+- **Snow monsters (monstros de neve)**: aparecem com a nevasca; força escala com a altura;
+  há variedades comum, desolate e "ancient" (caps. 555, 597).
+- **Dragões de gelo imemoriais (immemorial frost dragons)**: em Loose Tail Ridge (cap. 1764).
+- **Immemorial desolate beasts e plantas imemoriais**: concentrados nas dez áreas ferozes —
+  o maior reservatório de fauna de nível rank 8 fora dos dois céus (caps. 1116, 2298).
+- **Eagle hound** (cão-águia) e **upper extreme heavenly eagle**: feras aéreas da região
+  (caps. 1136, 1441).
+- **Humanos variantes como "fauna sapiente" regional**: **snowmen** e **rockmen** sob a
+  northern icy plain (o snowman tribe tem "bastante essência de lótus de neve"), e os
+  **inkmen** com cidade própria (caps. 1441, 1766).
+- **Flora**:
+  - **Blowpipe grass** (grama-zarabatana): **"a especialidade do northern plains"**; "cada
+    grama parecia um longo cano ereto" (cap. 476). É a planta-assinatura da região.
+  - **Tea flower** (flor de chá): "no Northern Plains havia um tipo de flor de chá que crescia
+    do chão e era muito apreciada" (cap. 1093).
+  - **Giant grass** (grama gigante) em Tai Qiu (cap. 1136).
+  - **Cogumelos do tamanho de árvores** em Flower Forest Forbidden Land (cap. 2317).
+  - **Ervas venenosas** e **ghost face sunflowers** na poison grassland / Zi Du (caps. 432-433).
+  - **Árvores antigas em anéis** na Jade Ring fierce area (cap. 2298).
+  - **Snow lotus** (lótus de neve), sob a northern icy plain (cap. 1441).
+
+## 6. Recursos e economia da terra
+
+- **Spirit springs do norte — o traço econômico definidor**: na comparação regional canônica,
+  as do norte **"jorram forte e secam rápido"**; as do sul são duráveis, as do leste numerosas,
+  as do oeste puras. Uma **tribo média do norte precisa de 3-4 nascentes** para se sustentar
+  (no sul, uma só dura mais de 10 anos). A cada ciclo de nevasca as nascentes velhas secam e
+  novas surgem em abundância no fim — o pós-nevasca é a **melhor época de crescimento**
+  (cap. 545). É a razão material do nomadismo: **a economia da terra do norte é de fluxo alto
+  e curta duração, e por isso exige mobilidade**.
+- **Pastagens férteis como propriedade**: "como no Northern Plains, onde as pastagens férteis
+  eram divididas entre as pessoas" — a pastagem é a unidade de propriedade territorial da
+  região, o equivalente do sea area no Eastern Sea (cap. 928 e V4).
+- **Rebanhos e gado**: as tribos "pastoreiam seu gado, migram, batalham e procriam" (cap. 425).
+  A economia mortal do norte é **pastoril**, não agrícola nem mineral.
+- **Grupos de lobos como capital**: um grupo de lobos é ativo econômico mensurável — "depois da
+  minha compra, o tamanho do meu grupo de lobos já é de segunda categoria no plano mortal do
+  northern plains" (cap. ~1300s). Existe mercado de compra e venda de matilhas.
+- **Blowpipe grass**: especialidade regional exportável (cap. 476).
+- **As dez áreas ferozes como fronteira de recursos**: depois que as super forças dividiram
+  todo o resto da região, **o que restou de recurso não reclamado está nas áreas ferozes** —
+  o que faz delas a fronteira de expansão econômica do norte, com risco proporcional
+  (caps. 1082, 2296). Tai Qiu é descrita como tendo "recursos abundantes" apesar do perigo.
+- **Earth Trench**: fenda riquíssima e inexplorada no fundo — pontos de recurso de alto grau,
+  Immortal Gu selvagens, black oil, materiais raros (caps. 931-935, 1531, 1734).
+- **Refinement path**: a região tem uma tradição forte de refino — entre os Gu Masters de
+  refinement path publicamente conhecidos do norte, quatro são quasi-grão-mestres ou mais
+  (cap. V5). A blessed land nº 1 de refino da região oferece **maior chance de sucesso ao
+  refinar Gu dentro dela**.
+- **Poder de combate como "produto" regional**: a maior densidade de Gu Masters de combate do
+  mundo, e Gu Immortals de bravura e força de combate notáveis, é o recurso humano
+  característico da região (caps. 425, e V4).
+- **Snow lotus essence**: extraída pelas tribos sob a northern icy plain (cap. 1441).
+
+## 7. Domínios reclusos de céu e terra, terras abençoadas e grutas-céu
+
+### Grutas-céu (grotto-heavens)
+
+- **Longevity Heaven** (Céu da Longevidade): a grotto-heaven suprema da região — "criação de
+  pico de cultivo" de Giant Sun Immortal Venerable e sua fundação após passar três desastres
+  caóticos. Não pode ser inspecionada nem por métodos de roubo de segredo celeste. Funciona
+  como o poder suserano do norte (o análogo da Heavenly Court no Central Continent) e como o
+  agente unificador do mundo imortal da região.
+- **Luck Suppression Heavenly Palace** (Palácio Celeste de Supressão da Sorte): estrutura
+  ligada a Longevity Heaven que **influencia as porções de black heaven e white heaven
+  situadas acima do Northern Plains** — isto é, o norte tem controle institucional sobre o
+  próprio "céu regional".
+- **Hei Fan grotto-heaven**: gruta-céu com montanhas, água e céu próprios; ligada a uma
+  **herança verdadeira** por tabuleta de pedra e a um sistema de "imortais criminosos" que
+  recuperam a liberdade quando o primeiro herdeiro se torna Gu Immortal (caps. 1182, e V5).
+- **Feng Xian grotto-heaven**: gruta-céu nomeada do Northern Plains, com salão de entrada
+  próprio (V5).
+
+### Terras abençoadas (blessed lands)
+
+- **Imperial Court blessed land** (Terra Abençoada da Corte Imperial): a mais importante da
+  região. Nasceu de um Gu Immortal de space path esquecido, foi herdada por Giant Sun antes do
+  rank 9 e blindada por métodos de Venerável. É uma **"quasi grotto-heaven"** — tem ciclo de
+  dia e noite próprio, o terreno **se restaura a cada ciclo**, e comporta cerca de **5 milhões
+  de pessoas**. Tem **teleporte aleatório na entrada** e **torres de Gu selvagens a cada 8 li**.
+  **Dilatação temporal**: "um dia aqui no mundo externo equivale a mais de vinte dias dentro da
+  Imperial Court blessed land". Sua **tribulação periódica é a fonte real da nevasca decenal**
+  (caps. 528, 548-556, 612).
+- **Snowy Mountain blessed land**: ninho dos Gu Immortals demoníacos da região — dezenas
+  deles, **um pico para cada um**. "Fortaleza sólida, fácil de defender e difícil de atacar";
+  é o **ponto de reunião do caminho demoníaco do norte** e sua **nº 1 força demoníaca**
+  (caps. 537, 638).
+- **Lang Ya blessed land**: a blessed land de **refinement path** da região — "refinar Gu aqui
+  teria maior chance de sucesso". Antiga casa do "nº 1 imortal de refinement path" do mundo.
+  Notavelmente, é **móvel**: pode ser **relocada** de lugar (chegou a se esconder dentro de uma
+  área feroz). Foi destruída pela Heavenly Court numa onda antiga, que levou as receitas
+  (caps. 466, 468, 1546, e V4-V5 passim).
+- **Jade Pool blessed land**: sede da tribo **Dong Fang**. Vocação **agrícola/de cultivo de
+  recursos** — nela se plantavam recursos trazidos do Eastern Sea até darem fruto, para depois
+  serem vendidos a Gu Immortals do Northern Plains. É o exemplo mais claro de blessed land
+  usada como **fazenda de recursos** (V4-V5).
+- **Iron Eagle blessed land** (Terra Abençoada da Águia de Ferro): sede da tribo **Hei**;
+  descrita como "ninho de águia". Forma, com Blood Plain e Tai Qiu, o "V irregular" do mapa
+  regional (caps. 1206, e V5).
+- **Zi Du blessed land**: blessed land de **poison path**, coberta de ervas venenosas
+  incontáveis e de grandes pântanos e brejos venenosos. **Seu veneno vaza para fora e criou a
+  poison grassland** — caso raro de blessed land que altera o bioma do mundo externo ao redor
+  (caps. 426-433).
+- **Star Form blessed land**: blessed land do norte com um sistema fluvial construído dentro
+  dela (V5).
+- **Tai Bai blessed land**: blessed land nomeada do Northern Plains (V5).
+
+### Domínios reclusos de céu e terra (secluded domains) na região
+
+- **Luo Po valley** (soul path) — ver bloco 3.
+- **Reverse Flow River** — ver bloco 3.
+- **Crazed Demon Cave**: formalmente uma das dez áreas ferozes, mas na verdade o **Dao field**
+  de nove camadas deixado por Limitless Demon Venerable; a camada 8 é um vazio onde mundos
+  nascem e morrem, e o ponto mais profundo é **a parte mais fina da fronteira do mundo**
+  (caps. 1173-1176, 1859, 1866, 2170-2171). É, em termos de escala cosmológica, **o lugar mais
+  importante do mundo — e fica no Northern Plains**.
+

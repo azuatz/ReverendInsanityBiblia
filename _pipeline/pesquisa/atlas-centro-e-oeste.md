@@ -284,4 +284,330 @@ oásis num mar de areia, com formações geológicas anômalas espalhadas.
 
 ---
 
-*(Continente Central em construção)*
+# CONTINENTE CENTRAL (Central Continent)
+
+> Também aparece traduzido como **"Middle Continent"** nas notas do Volume 1 — é a mesma
+> região (variação de tradução, cap. 191-192 vs. cap. 334).
+
+## 1. Biomas e paisagem
+
+- **Escala e densidade mágica**: mais de **cinquenta milhões de km²**, com a **essência
+  primeva mais rica do ar** entre as cinco regiões; "área com abundantes recursos humanos
+  e naturais", a mais forte em poder total (cap. 334). É a região **cercada pelas outras
+  quatro** (cap. 1401): fica no meio do mundo.
+- **Cadeias de montanhas e colinas**: o sul do continente é descrito como "dezenas de
+  milhares de colinas" das quais emerge uma montanha isolada acima das nuvens (cap. 334).
+  Cadeias nomeadas: **True Yang mountain range** e **Xuanwu mountain range**. Imortais
+  viajando em baixa altitude percorrem "as cadeias de montanhas do Continente Central"
+  (cap. 1701).
+- **Um mundo subterrâneo inteiro — o Earth Abyss.** No extremo oeste do continente há um
+  **mundo subterrâneo incomensuravelmente grande**, dividido em **dezenas de camadas**,
+  cada camada com no mínimo centenas de milhares de km². Contém "todo tipo de cavernas e
+  túneis, alguns como labirintos, alguns com lagos subterrâneos gigantes, outros com chão
+  plano". Tem uma **ecologia própria, cheia de vida e claramente distinta da superfície**
+  (cap. 728). Vive-se e minera-se ali; há rockmen. Este é, disparado, o bioma mais original
+  da região.
+- **Costa leste tropical**: o litoral leste do Continente Central é **tropical, quente o
+  ano inteiro** — a ponto de cultivadores de ice path terem dificuldade em se sustentar ali
+  (cap. 831). Ou seja, a região tem faixas climáticas internas contrastantes.
+- **Vales**: vales de montanha anônimos são o terreno mais comum de esconderijo e de sede
+  de seitas pequenas (caps. 679, 908, 983, 1611). Nomeados: **centipede valley** (região
+  central), **Imprisonment Valley**, **Quiet Rain Valley**, **Mountain Tortoise Valley**,
+  **Broken Sword Valley**, **Divine Needle Valley**.
+- **Rios e um rio caído do céu**: além dos rios comuns, o continente tem o **Falling
+  Heavenly River**, "um rio gigante que caiu dos céus" (cap. 955). Há também *scale light
+  river* e a *red river beach* (praia de rio de pedras vermelhas ardentes).
+- **Florestas**: *hundred segment forest*, *earth qi rock forest* (floresta de rocha),
+  e as **zhi forests subterrâneas** — florestas que crescem **sob o solo**, por dezenas de
+  li, onde os cogumelos *lingzhi* atingem tamanho de árvores, carnudos e suculentos
+  (cap. 680).
+- **Cavernas**: **Hidden Dragon Cave** (na verdade um Earth Trench, ver bloco 3) e cavernas
+  isoladas junto a cachoeiras (cap. 1611).
+- **Uma ilha de gelo flutuante**: há séculos, um bloco de *profound ice* do tamanho de uma
+  ilha veio flutuando de algum lugar e encalhou na costa leste tropical; transborda energia
+  de gelo, acumula Gu selvagens de ice path e a energia gélida é absorvida até pelas
+  árvores ao redor (cap. 831). Anomalia climática pontual dentro de um bioma tropical.
+- **O céu como andar do mapa**: **Starry Sky grotto-heaven** flutuava alta no céu do
+  Continente Central antes de se despedaçar em dezenas de **fragmentos de abertura imortal
+  espalhados por toda a região** (caps. 713, 908-909, 1119). Depois disso, o continente
+  passou a ter mini-mundos caídos como acidente geográfico.
+- **Trincheiras terrestres (Earth Trenches)**: o continente tem pelo menos uma nomeada
+  (**An Zu Earth Trench**) desde antes da Grande Era; durante a Grande Era abrem-se novas,
+  e o fato de aparecerem na **região central** (e não só nas bordas) é usado como prova de
+  que a fusão dos veios de terra chegou ao ponto máximo (cap. 1942).
+
+## 2. Clima e fenômenos periódicos
+
+> **Bloco fraco.** O Continente Central é, entre as cinco regiões, a que menos recebe
+> descrição meteorológica. A obra dá contraste climático interno (costa leste tropical,
+> cap. 831) mas **não descreve estações, monções, secas nem desastres sazonais** próprios
+> da região — ao contrário das Northern Plains (nevasca decenal) e do Deserto Ocidental
+> (tempestades de areia). O que existe é **calendário institucional e ciclos de perigo**,
+> não clima:
+
+- **A neblina anual do Tian Ti Mountain**: todo ano, depois que as nuvens e a névoa que
+  cobrem a montanha se dispersam, o Tian Ti Mountain recebe **um fluxo enorme de pessoas**;
+  muitas heranças são reivindicadas e muitas heranças novas são instaladas (cap. 341). É o
+  único fenômeno natural com periodicidade anual declarada na região — e é o motor de uma
+  peregrinação de escala continental.
+- **O ritmo diurno do Falling Heavenly River**: **de dia** a correnteza é tão forte que nem
+  um Gu Immortal rank 8 resiste; **de noite** desacelera a ponto de um rank 7 mal conseguir
+  aguentar (cap. 955). Ciclo diário fixo que define a janela de exploração.
+- **Refinement Path Convention**: convenção de refino sediada pela Heavenly Court e pelas
+  dez grandes seitas ancestrais, normalmente **uma vez a cada cem anos**, com pontos de
+  inscrição espalhados pelo continente e final na Emperor City (caps. 823, 832, 852, 1930).
+  É o grande evento de calendário da região.
+- **Marés de bestas saindo do Earth Abyss**: registram-se marés de bestas que irrompem do
+  subterrâneo, invadem a superfície, arrastam consigo os bandos da superfície e formam uma
+  **maré de bestas sem precedentes que se espalha por todo o Continente Central**; levaram
+  anos para ser erradicada (cap. 728). Não é declarada cíclica, mas é o desastre
+  característico da região (ded.: recorrente em escala de séculos).
+- **Marés de bestas locais de névoa de sangue**: perto da Yuan Yang City forma-se uma
+  névoa de sangue de centenas de li onde crescem *blood beasts*; a cidade despacha
+  **missões recorrentes** para caçá-los e impedir que virem maré de bestas (cap. 850).
+- **Terremotos do Earth Abyss**: a estrutura do abismo é instável e há **terremotos e
+  desabamentos ocasionais** — motivo pelo qual nem a seita dona dele investe muito em
+  exploração (cap. 728).
+- **Qi tides e terremotos da Grande Era**: fenômenos mundiais, não regionais, mas que
+  atingem o continente com força (ver `mundo-e-cosmologia.md`).
+
+## 3. Locais nomeados
+
+### As grandes montanhas
+| Nome | O que é | Por que importa |
+|---|---|---|
+| **Tian Ti Mountain** | A **montanha nº 1 do Continente Central**, no **centro** da região; mais de 3.000 km de altura; chamada "terra das heranças" e "montanha dos sábios/santos" | Terra sagrada dos Mestres Gu; o **lugar mais próximo da Immortal Court**. Buscadores de imortalidade que fracassaram enterram-se ali e ali instalam suas heranças — a montanha esconde **incontáveis heranças**, incluindo blessed lands inteiras. Foi originalmente a **escadaria que ligava o mundo à Heavenly Court** (construída sobre um *heavenly pillar*, material imortal rank 9); mesmo destruída e abandonada há eras, atacá-la ainda equivale politicamente a atacar a Heavenly Court — por isso ninguém a ataca (caps. 338, 341, 407, 419) |
+| **Fei He Mountain** (montanha das Grous) | No **sul** do continente, entre dezenas de milhares de colinas, ergue-se acima das nuvens e "perfura os céus"; sede da Immortal Crane Sect | Os **dez mil grous** da montanha são famosos em todo o Continente Central; abriga a *White Crane Information Tower*, uma Immortal Gu House de nove andares dedicada exclusivamente a information path (cap. 334) |
+| **True Yang mountain range** | Cadeia **muito perigosa**, cheia de feras ferozes e desolate beasts; produz *hibiscus stalactite* e *stone heart liquid* em suas cavernas | O melhor esconderijo do continente para imortais foragidos — nem as dez grandes seitas conseguem encontrar alguém lá dentro (caps. 846-849, 859, 862) |
+| **Xuanwu mountain range** | Cadeia de área enorme, ponto de recurso gigante da Spirit Affinity House | **Tesouro público de materiais imortais**; grande demais para ser bem defendido, o que a torna alvo clássico de saque (caps. 954, 1921) |
+| **Lake Heart Mountain** | Sede da Spirit Affinity House; **super ponto de recurso por si só**, com vários picos nomeados — *secret inheritance peak*, *lesser cold peak*, *affection peak*, *fierce fire peak*, *heavenly flowers peak* — mais a *Fairy Life Tablet Hall* e uma formação imortal de cultivo de time path | Modelo canônico de como uma seita ancestral ocupa e explora um relevo inteiro (cap. 2325) |
+| **Star Zone Mountain** | Montanha **dentro da Heavenly Court**, com o *Imperfection Regret Pavilion* no cume | Ponto final de uma das três rotas de invasão históricas da Corte (cap. 1710) |
+
+### Águas
+| Nome | O que é | Por que importa |
+|---|---|---|
+| **Falling Heavenly River** | "Um rio gigante que caiu dos céus". Duas teorias correntes sobre sua origem: que ele próprio seja uma forma de calamidade/tribulação, ou que tenha nascido quando a luz de espada de uma tribulação perfurou o white heaven e o black heaven | Correnteza diurna que **nem rank 8 resiste**, noturna que um rank 7 mal aguenta. A água é **cheia de vitalidade**: incontáveis feras ferozes vivem e se reproduzem nela, plantas aquáticas crescem em massa, e há correntes ocultas, redemoinhos e armadilhas naturais que **matam Gu Immortals**. No leito vivem *immemorial desolate beasts* como o *myriad eyes clear bull*. Um evento na **nascente** do rio pode agitar o continente inteiro (caps. 955-957, 983) |
+| **Sumeru Lake** | Lago dentro da Heavenly Court | Etapa da rota central de invasão (cap. 1710) |
+| **Forgotten Dao Lake** | Lago dentro da Heavenly Court, logo depois da Heaven Overseeing Tower | Etapa da rota esquerda (cap. 1710) |
+| **Lotus Fairy Pond** | Lagoa dentro da Heavenly Court | Primeira etapa da rota direita (cap. 1710) |
+| **Red river beach** | "Praia" de rio que produz *blazing red stones* | Ponto de recurso saqueável da Spirit Affinity House (caps. 1702, 1921) |
+| **Scale light river** | Rio, ponto de recurso | Citado sem descrição (cap. 2325) |
+
+### Cidades
+| Nome | O que é | Por que importa |
+|---|---|---|
+| **Emperor City** | **A maior cidade mortal do Continente Central e das cinco regiões inteiras**; construída inteiramente de Gu mortais — é ela própria uma *mortal Gu House*; fundada por Primordial Origin Immortal Venerable na aurora da ascensão humana; já se **mudou de lugar mais de uma dezena de vezes** | Mestres Gu rank 3 são **comuns** ali (na Southern Border um rank 3 é ancião com autoridade) — a melhor medida da disparidade regional de cultivo. Foi erguida sobre o **veio humano principal do Continente Central** e o acompanhou em todas as mudanças de lugar; é por isso que "produz talentos" e é o **maior berço de Gu Immortals do mundo**. Contém métodos de human path que a defendem em emergência (caps. 1717, 1727, 1931) |
+| **Divine Emperor City** | Terra sagrada de human path arranjada por Genesis Lotus Immortal Venerable, no centro do continente, dentro do território da Heavenly Court; contém um **"mundo de pinturas" (painting path world)** onde cada grande cena da história da Emperor City virou uma pintura habitável | Um dos alvos estratégicos mais valiosos do continente; guardada pela vontade de um Venerável (caps. 1981, 1991-1992, 2010-2011) |
+| **Yuan Yang City** | Cidade na periferia da True Yang mountain range | Base de caçadores; recruta gênios para missões de extermínio de *blood beasts* na névoa de sangue vizinha (cap. 850) |
+| **Maple Leaf City** | Cidade mortal governada por um City Lord rank 5 com manor próprio | Retrato canônico do urbanismo mortal comum da região: uma cidade média inteira sob a autoridade de um único rank 5 (cap. 1675) |
+
+### A Heavenly Court e sua geografia interna
+A sede da Heavenly Court é um **grotto-heaven coletivo** — a fusão das aberturas imortais
+de três Veneráveis e de incontáveis membros — que paira "muito acima" do Continente
+Central, não uma cidade no chão (ded.: é um espaço próprio ancorado à região, e não
+território de superfície). Sua planta interna é conhecida porque **três Veneráveis
+Demoníacos abriram três rotas** através dela, e essas rotas são citadas nominalmente
+(caps. 1710-1712, 1954):
+
+- **Rota esquerda** (aberta por Limitless Demon Venerable): *Central Heaven Gate* → *Name
+  Plaque Palace* → *Sun Palace* → *Five Deity Hall* → *Central Great Hall* → *Heaven
+  Overseeing Tower* → *Forgotten Dao Lake* → *Imperfection Regret Pavilion*, no cume da
+  *Star Zone Mountain*.
+- **Rota central** (aberta por Reckless Savage Demon Venerable): *Immortal Emperor Court* →
+  *Hidden Space Pavilion* → *Sumeru Lake* → *Eternal Sand Cave* → *Million Heavenly King
+  Gallery* → *Embroidered Tower* → *Central Great Hall* → *Heaven Overseeing Tower*.
+- **Rota direita** (aberta por Red Lotus Demon Venerable): *Lotus Fairy Pond* → *Bright
+  Moon Treasure Light Hall* → *Twelve Spiritual Pass* → *Separation Flame Pavilion* →
+  *Magnetic Star Hill* → *Water Wood Clarity Court* → *Central Great Hall* → *Heaven
+  Overseeing Tower*.
+- Outros pontos internos: o **immortal graveyard** (onde Gu Immortals antiquíssimos
+  hibernam por eras); a **qi wall** que envolve a sede; o tesouro operado a partir do
+  *Central Great Hall*, que é a **sala de controle de todas as Immortal Gu Houses da
+  Corte**; e a **Heaven Overseeing Tower**, Immortal Gu House rank 9 que é o ponto final
+  das três rotas.
+
+### Terras de heranças, campos e outros pontos
+| Nome | O que é | Por que importa |
+|---|---|---|
+| **Land of Bu Bai** | Terra sagrada dos mestres de refino, "muito longe, no Continente Central" | Destino de peregrinação para quem busca a herança Bu Bai; tão distante que, da Southern Border, é considerado inalcançável (cap. 286) |
+| **Reincarnation Battlefield** | Área/killer move de campo de batalha **reconhecidamente a número um do mundo**, montada pessoalmente por Paradise Earth Immortal Venerable; ali um Gu Immortal pode "morrer" repetidas vezes sem perecer de verdade (só acumula ferimentos após muitas mortes) | Disputada há muitos anos pelas dez grandes seitas ancestrais como território permanente; manter posição ali consome Gu Immortals e recursos continuamente (caps. 697, 745) |
+| **Hidden Dragon Cave** | Um **Earth Trench** cuja localização a Heavenly Court apagou deliberadamente dos registros; abriga o *Evil Dragon* Di Zang Sheng, immemorial desolate beast nascido do ódio e rancor acumulados nas **earth veins do Continente Central** | O carcereiro mais importante do mundo: Di Zang Sheng **não pode ser morto em definitivo** (enquanto houver humanidade gerando emoção negativa ele se reforma a partir de novas earth veins), só suprimido por uma super formação imortal; guardá-lo é pena disciplinar da Corte (caps. 1069, 1301, 1701, 1707) |
+| **An Zu Earth Trench** | Trincheira terrestre controlada pela Demon Expelling Sect | "Muito famosa no Continente Central"; base territorial de uma super força (caps. 838, 931) |
+| **Broken Sword Valley** | Montanha partida ao meio por uma luz de espada disparada sob o Falling Heavenly River, com dao marks de sword path gravados no terreno | Local **autossustentável** que produz continuamente Gu selvagens de sword path |
+| **Imprisonment Valley** | Ponto de recurso da Spirit Affinity House; produz *southern thorns* | Alvo clássico de saque (caps. 1702, 1921, 2325) |
+| **Centipede valley** | Vale na região central do continente | Foi cortado ao meio por luzes de espada vindas da nascente do Falling Heavenly River (caps. 956-957) |
+| **Quiet Rain Valley**, **Mountain Tortoise Valley**, **hundred segment forest**, **earth qi rock forest**, **scale light river** | Cadeia de pontos de recurso das seitas ancestrais | Citados em sequência como alvos de saque; sem descrição individual (cap. 2325) |
+| **Ilha de *profound ice*** (sem nome próprio) | Bloco de gelo profundo do tamanho de uma ilha, encalhado na costa leste tropical há séculos | Ponto de recurso de ice/water path que atrai cultivadores dessas escolas para uma região que os contraria (cap. 831) |
+| **Névoa de sangue de Yuan Yang** | Zona de névoa de sangue de centenas de li, gerada pela detonação de um resto de corpo de imortal, onde crescem *blood beasts* | Explica como zonas de perigo **nascem** na obra: um evento imortal deixa uma cicatriz permanente na geografia mortal (cap. 850) |
+
+### Seitas e academias como marcos geográficos
+`[comum]` O Continente Central é a **única das cinco regiões dominada por seitas**, não por
+clãs (cap. 621) — logo, no mapa dele, os nomes de instituições **são** nomes de lugares,
+e as seitas têm **territórios com fronteiras reconhecidas** que se atravessam em viagem
+(cap. 955: sai-se do território do Myriad Dragon Dock e entra-se no do Combat Immortal
+Sect).
+
+- **As dez grandes seitas ancestrais** (nomeadas ao longo da obra): *Immortal Crane Sect*
+  (Fei He Mountain, controla o noroeste), *Spirit Affinity House* (Lake Heart Mountain),
+  *Myriad Dragon Dock*, *Combat Immortal Sect*, *Heavenly Lotus Sect*, *Heaven's Envy
+  Manor*, *Ancient Soul Sect* (Earth Abyss, extremo oeste), *Spirit Butterfly Valley*,
+  *Demon Expelling Sect* (An Zu Earth Trench) — a décima nunca é confirmada com clareza.
+  Elas controlam cerca de **80% dos recursos da região**.
+- **Seitas menores e subsidiárias**: *Great Heavenly Sword Sect* (subsidiária da Immortal
+  Crane Sect, perto de uma fronteira territorial), *Flying Frost Sect* (leste),
+  *Universal Life Academy* (seita pequena instalada num vale de montanha, com uma **zhi
+  forest subterrânea** sob suas terras que ela nem sabe que tem), *Scorpion Needle Sect*,
+  *Unification Sect*, *Mystical Body Sect*, *Shan Chuan Hall* (costa leste),
+  *Five Virtues Sect*, *Lightning Information Sect*.
+- **Immortal Gu Houses associadas** que funcionam como marcos móveis: *Frost Dragon Manor*
+  (Ancient Soul Sect), *Canary Pavilion* (Heavenly Lotus Sect), *White Crane Information
+  Tower* (Immortal Crane Sect).
+
+## 4. Zonas perigosas
+
+1. **True Yang mountain range** — "um lugar muito perigoso", com incontáveis feras ferozes
+   e desolate beasts; a periferia é frequentada por Mestres Gu, mas o interior não
+   (caps. 849-850, 859).
+2. **Falling Heavenly River** — perigoso em três camadas: a correnteza (que nem rank 8
+   enfrenta de dia), as feras do leito (até *immemorial desolate beasts*) e as armadilhas
+   naturais (correntes ocultas, redemoinhos) que matam imortais (caps. 955, 957).
+3. **Earth Abyss** — quanto mais fundo, mais *immemorial desolate beasts*; a estrutura é
+   instável e desaba; a seita dona explorou plenamente só até a 18ª camada em milhares de
+   anos, e nem ela sabe quantas camadas existem (cap. 728). É a fronteira inexplorada da
+   região.
+4. **Hidden Dragon Cave** — evitada porque contém uma fera imemorial que a Heavenly Court
+   não consegue matar, apenas conter; a própria localização foi apagada dos registros para
+   que ninguém a perturbe (caps. 1069, 1701).
+5. **Névoa de sangue de Yuan Yang** — zona de contaminação onde crescem feras de sangue;
+   exige campanhas de extermínio periódicas (cap. 850).
+6. **Tian Ti Mountain** — perigosa não por feras mas por **regra política**: a montanha é
+   coberta de heranças e blessed lands, e atacá-la equivale a atacar a Heavenly Court, o
+   que a torna intocável mesmo para as dez grandes seitas (cap. 407).
+7. **Reincarnation Battlefield** — zona de guerra permanente entre as dez seitas
+   (caps. 697, 745).
+8. **Fragmentos da Starry Sky grotto-heaven** — dezenas de mini-mundos caídos espalhados
+   pelo continente, cada um com sua própria fauna desolate e distorção temporal (2 horas
+   fora ≈ vários dias dentro) (caps. 908-909, 983).
+
+## 5. Fauna e flora características
+
+- **Grous (cranes)** — os **dez mil grous** de Fei He Mountain são o emblema faunístico da
+  região; usados como montaria de bando por discípulos e como guardas de Immortal Gu House
+  (grous de nível *desolate beast*) (caps. 334, 336). A espécie *Iron Beak Flying Crane*
+  é citada como exótica do Continente Central desde o Volume 1 (caps. 191-192, 199).
+- **Earth horses (cavalos de terra)** — *mutated beasts* nativas das zhi forests
+  subterrâneas; vivem em família de dois ou três, cada uma no patamar de um *myriad beast
+  king*. Aproveitamento integral: **casco** é ingrediente principal do *earth escape Gu*
+  (rank 5); **olhos** refinam o *x-ray vision Gu*; **pelo da cauda** refina o *smoke dust
+  Gu* (cap. 680).
+- **Lingzhi de porte arbóreo** — nas zhi forests subterrâneas; carnudos e suculentos,
+  servem de ração para Gu, material de refino ou mercadoria (cap. 680).
+- **Blood beasts** — crescem espontaneamente na névoa de sangue perto de Yuan Yang City e
+  tendem a formar marés de bestas (cap. 850).
+- **Immemorial desolate beasts** — a região tem os mais famosos: o *Evil Dragon Di Zang
+  Sheng* e *Huo Kong*, além do *myriad eyes clear bull* no leito do Falling Heavenly River
+  e do *spirit rhino* (ancient desolate) caçado pela Immortal Crane Sect
+  (caps. 696, 955, 1336-1337).
+- **Fauna do Earth Abyss** — "incontáveis organismos vivos", ecologia própria distinta da
+  superfície, com densidade de feras imemoriais crescendo com a profundidade (cap. 728).
+- **Rockmen** — variante humana com populações no Earth Abyss (usado como base por eles).
+- **Flora**: *hibiscus stalactite* e *stone heart liquid* (True Yang mountain range);
+  *southern thorns* (Imprisonment Valley); *spring dream fruit tree* (ao pé de uma montanha
+  anônima, cap. 1232); *mirror willows* e *blood zhi forest* aparecem como espécies
+  cultiváveis em terreno de tipo "Continente Central" (cap. 1159).
+
+> **Ressalva**: a obra descreve a fauna do Continente Central menos que a das outras
+> regiões — não há uma espécie-assinatura do porte dos lobos das Northern Plains ou das
+> feras marinhas do Eastern Sea. O grou e o *earth horse* são o que mais se aproxima.
+
+## 6. Recursos e economia da terra
+
+- **O ativo estrutural: essência primeva no ar.** "A energia primeva era extremamente rica
+  no ar" do Continente Central (cap. 334) — é a única região cuja vantagem econômica é
+  ambiental e difusa, e não concentrada em pontos de recurso.
+- **O ativo institucional: a Heavenly Court é a fonte única de *immortal essence stones* do
+  mundo**, e restringe deliberadamente a distribuição como arma política (caps. 466, 468,
+  2228). Como a Corte fica no Continente Central, **a moeda do mundo nasce nesta região**.
+- **Menos Immortal Gu por cabeça, não menos poder**: o Continente Central é o **último**
+  entre as cinco regiões em **taxa de posse de Immortal Gu** — simplesmente porque tem o
+  maior número de Gu Immortals para dividir o mesmo estoque (cap. 852). A escassez relativa
+  é efeito da abundância de gente, e é o que alimenta as tensões internas.
+- **Estrutura de propriedade**: as dez grandes seitas ancestrais controlam ~**80% dos
+  recursos** da região; seitas subsidiárias pagam tributo mensal por contrato com prazo
+  (cap. 697). Um "ponto de recurso" típico é uma cadeia de montanhas, um vale ou uma praia
+  de rio explorada por uma seita — não uma nascente única como nos clãs.
+- **Nascentes espirituais**: o texto compara as nascentes das quatro regiões periféricas
+  ("as do leste são numerosas, as do sul gorgolejam, as do norte são intensas, as do oeste
+  são puras" — cap. 545) e **omite o Continente Central**. `—` A obra não caracteriza as
+  nascentes espirituais desta região.
+- **Materiais e pontos de recurso nomeados**: *hibiscus stalactite* e *stone heart liquid*
+  (True Yang); tesouro difuso de materiais imortais (Xuanwu); *blazing red stones* (red
+  river beach); *southern thorns* (Imprisonment Valley); *lingzhi* e partes de *earth horse*
+  (zhi forests); Gu selvagens de sword path (Broken Sword Valley); Gu selvagens de ice path
+  (ilha de gelo profundo da costa leste); *heavenly pillar*, material imortal rank 9 que
+  permite a um lugar se conectar fisicamente à Heavenly Court — é o que o Tian Ti Mountain
+  usava.
+- **Excedente populacional como recurso e como bomba**: o continente é descrito como
+  "saturando de peritos com recursos limitados, um barril de pólvora que não para de
+  crescer", com talentos monstruosos brotando entre os mortais e vagas limitadas nas dez
+  seitas (caps. 704-705). É esse excedente que faz clãs migrarem para as outras regiões
+  (cap. 748) e que gera continuamente seitas novas e escolas de pensamento novas.
+- **Comércio e mobilidade**: o continente é o **segundo mais aberto a estrangeiros** entre
+  as cinco regiões (menos que o Eastern Sea, mais que a Southern Border, cap. 965), mas é
+  também o mais vigiado — há um "Demon Judgment Board" que, ao listar alguém, impede
+  trânsito seguro pelo território (cap. 1287).
+
+## 7. Domínios reclusos, terras abençoadas e grutas-céu
+
+- **Secluded domains de céu e terra**: `—` **nenhum dos secluded domains canônicos fica no
+  Continente Central**. Dang Hun Mountain e Luo Po Valley (soul), Miniscule Mountain,
+  Ascending Heaven Plain (space) e o rio do tempo estão fora da região. **Ressalva
+  importante**: a **Dang Hun Mountain está dentro da Hu Immortal blessed land**, que por sua
+  vez estava **no Tian Ti Mountain, no Continente Central** (caps. 366, 372, 407) — logo,
+  na prática, um dos dois maiores tesouros de soul path do mundo estava **fisicamente na
+  região**, guardado dentro de uma terra abençoada. É o caso mais notável do continente.
+  Casos-limite adicionais: **Broken Sword Valley** e a **Book Mountain** (esta última é um
+  secluded domain de information path, mas foi extraída da 9ª camada da Crazed Demon Cave
+  pela Heavenly Court, não é nativa da região).
+- **Blessed lands nomeadas na região**:
+  - **Hu Immortal blessed land** — terra abençoada de uma Gu Immortal rank 6, cuja herança
+    abre no Tian Ti Mountain. Só tem **dia, nunca noite**. Contém a *Dang Hun Mountain* e
+    seus *gutstones* (um a cada cinco passos), além de um *blood pond graveyard* e uma
+    população de rockmen (caps. 337, 372, 410-425).
+  - **Star Form blessed land** — enterrada abaixo da **quadragésima camada do Earth Abyss**.
+    Terreno em forma de **bacia/tigela gigante**: bordas de cadeias de montanhas contínuas
+    formando uma muralha circular, chão subindo em direção ao centro, sendo o centro o ponto
+    mais baixo. Só tem **noite, nunca dia** — sinal de blessed land próxima de virar
+    grotto-heaven. Abriga uma pequena tribo de rockmen e *spinefin star dragonfish* de nível
+    desolate (caps. 728-729, 851-852).
+  - Numerosas blessed lands anônimas espalhadas pelo **Tian Ti Mountain** (cap. 407).
+- **Grutas-céu (grotto-heavens)**:
+  - **Starry Sky grotto-heaven** — abertura imortal de um Gu Immortal rank 8 de 1.700 anos
+    atrás; ficava **alta no céu do Continente Central**, com paisagem de montanhas, florestas
+    e névoa, e populada por desolate e ancient desolate beasts (incluindo o *star demon bat*).
+    Absorveu um fragmento de céu imemorial, o que lhe deu capacidade espacial de prender
+    intrusos. **Despedaçou-se em dezenas de fragmentos que caíram por toda a região** —
+    fragmentos que passaram a ser mundos exploráveis com dilatação temporal (2 h fora ≈
+    vários dias dentro) e que abrigam também o **dream realm de Star Constellation Immortal
+    Venerable** (caps. 713-714, 724, 908-909, 983, 1119).
+  - **Heavenly Court** — a sede é ela própria um **grotto-heaven coletivo**, formado pela
+    fusão das aberturas imortais de três Veneráveis (Primordial Origin, Star Constellation,
+    Genesis Lotus) mais grutas-céu doadas por incontáveis membros ao longo de eras; é
+    **livre de calamidades e tribulações**, aparentemente por ter devorado fragmentos dos
+    sete céus imemoriais destruídos (caps. 1069-1070, 1235, 1266). Ver a geografia interna
+    no bloco 3.
+  - **Longevity Heaven — NÃO fica no Continente Central.** A anotação do cap. 552 no rascunho
+    `mundo-e-cosmologia.md` ("Immortal Court dentro do Longevity Heaven, Central Continent")
+    **contradiz** a afirmação explícita e repetida de que Longevity Heaven é a grotto-heaven
+    de Giant Sun Immortal Venerable **nas Northern Plains** ("Longevity Heaven é, nas
+    Northern Plains, o que a Heavenly Court é no Continente Central" — caps. 1181, 1190,
+    1435). Registrar como **correção**: Longevity Heaven pertence ao atlas das Northern
+    Plains, não a este.
+
+> **Onde a obra é muda sobre o Continente Central**: clima e estações (bloco 2 é fraco por
+> silêncio da obra, não por falta de busca); hidrografia geral (só o Falling Heavenly River
+> é caracterizado; nenhum grande rio "normal" é nomeado); nascentes espirituais da região;
+> qualquer mapa de fronteiras internas além de "sul", "leste", "noroeste", "extremo oeste"
+> e "região central"; e uma espécie-assinatura de fauna comparável à das outras regiões.
+> Em compensação, é **de longe a região mais rica em locais nomeados** — sobretudo por causa
+> da geografia interna da Heavenly Court e da rede de territórios das dez grandes seitas.

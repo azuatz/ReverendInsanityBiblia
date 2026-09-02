@@ -2,8 +2,8 @@
 tags:
   - golpes/catalogo
   - pipeline/notas-brutas
-status: em-andamento
-fontes: ["caps. 650-1021"]
+status: verificado-no-texto
+fontes: ["caps. 650-1021 (Volume 4)"]
 ---
 
 # Golpes assassinos — capítulos 650 a 1021 (Volume 4)
@@ -16,13 +16,17 @@ segura a partir do efeito descrito ou de regra geral do caminho; `*` = indução
 plausível sem base textual; `—` = a obra não informa.
 
 Níveis 1–5 = golpes mortais (mortal killer moves); 6–9 = golpes imortais
-(immortal killer moves).
+(immortal killer moves). Quando a obra só diz que o golpe é mortal ou imortal sem dar
+a rank exata, o campo traz `mortal (1-5)` ou `imortal (6-9)`; quando a rank foi inferida
+do rank do Gu Imortal-núcleo ou do usuário, vem marcada com `(ded.)`.
+
+**176 golpes distintos** extraídos das 1.483 ocorrências de "killer move" no volume.
 
 ## Catálogo
 
 | Nome (EN) | Nível | Caminho | Gu que o compõem | O que faz | Custo, risco ou limite | cap. |
 |---|---|---|---|---|---|---|
-| Myriad Self | 6 (ded.) | soul + strength + enslavement (convergência de enslavement e strength; núcleo é Gu Imortal de soul path) | Cleanse Soul Immortal Gu (núcleo); 45 group strength Gu fundidos depois; conjunto de Gu mortais de strength | Cria fantasmas (phantoms) de strength path do próprio usuário, cada um com um traço da alma dele, manipuláveis livremente como extensões do corpo — ágeis e flexíveis | Consome green grape immortal essence; desgasta a fundação da alma do usuário (backlash: alma muito depauperada, dificuldade de mover o próprio corpo depois). Eleva a força de combate de "abaixo de um rank 6 comum" para "rank 6 de primeira linha" | 650, 661-664, 679, 682, 684-685 |
+| Myriad Self | 6 (ded.) | strength + enslavement (nasce da convergência dos dois; o primeiro núcleo era um Gu Imortal de soul path) | Núcleo original: Cleanse Soul Immortal Gu. Depois que ele passou fome, foi trocado por Self Strength, e em seguida somaram-se Pulling Mountain e Pulling Water — chegando a **três núcleos de strength path**. Suplementos: 45 group strength Gu, muitos Gu mortais de strength e, mais tarde, de soul path | Cria fantasmas (phantoms) de strength path do próprio usuário, cada um com um traço da alma dele, manipuláveis livremente como extensões do corpo — ágeis e flexíveis; chegou a formar um exército de centenas de milhares deles. O **group strength Gu** é lançado por último e reúne a força de todo o exército no corpo do usuário: é aí que strength path passa a servir enslavement path | Consome uma conta de green grape immortal essence **por ativação** — usá-lo muitas vezes drena as finanças do usuário mesmo em vitória. Desgasta a fundação da alma (backlash: alma muito depauperada, dificuldade de mover o próprio corpo depois). Se o Gu Imortal-núcleo estiver faminto, cada uso arrisca destruí-lo. Não tem verdadeiro poder de matar: o inimigo pode simplesmente resistir com golpes mortais até a essência imortal acabar. Fundir um novo Gu Imortal ao golpe custa meses de dedução — pulling mountain sozinho elevou o poder em 10% (20% contra alvos de earth path) | 650, 661-664, 679, 682, 684-687, 692-693, 710, 736, 769, 779, 783, 817, 822, 824, 875 |
 | Dazzling Star Armor | mortal (1-5) (ded.) | star | grandes quantidades de starlight Gu; poucos bane star Gu; vários star shield Gu | Defensivo: forma uma armadura de corpo inteiro que brilha como luz estelar | Preço em treasure yellow heaven: meia pedra de essência imortal; golpe extremamente comum e difundido | 667 |
 | Spring Star Rain | mortal (1-5) (ded.) | star | grandes quantidades de star rain Gu; pequenas quantidades de spring wind Gu; algumas star shoot Gu | Forma uma chuva cor de jade que cai sem parar por três dias e três noites; a chuva é rica como óleo, nutre plantações e aumenta muito a produtividade — usado para cultivar vegetação e administrar blessed lands | 1,5 pedra de essência imortal; cada ativação gasta até ~500 star shoot Gu (Gu mortal rank 3), que só o criador vendia — dependência de fornecedor | 667, 671, 672 |
 | Spiral Drill Star Spear | mortal (1-5) (ded.) | star | pequenas quantidades de spiral bone spear Gu; várias star river Gu; incontáveis star dart Gu; grandes quantidades de shooting star Gu | Ofensivo (—; o texto só diz que o nome descreve o efeito: lança estelar em broca espiral) | 1 pedra de essência imortal; golpe caído em desuso — e golpe em desuso "com certeza tem muitas fraquezas" | 667 |
@@ -198,3 +202,253 @@ Níveis 1–5 = golpes mortais (mortal killer moves); 6–9 = golpes imortais
 | Ten Thousand Li Flying Sword | — | sword | idem | Espada voadora de dez mil li de alcance | idem | 995 |
 | Three Winged Green Bird | imortal (6-9) | — | — | — (efeito não descrito) | Criado por um antecessor das Planícies do Norte que **falhou na tribulação mas sobreviveu** e teve a inspiração a partir do "grand clear space"; os descendentes que o herdaram dominaram as Planícies do Norte com ele | 1015 |
 | Myriad Star Fireflies | 7 (ded.) | wisdom | três Gu Imortais de wisdom path como núcleo | Gera "star thoughts" (pensamentos-estrela) que invadem as mentes dos Gu Imortais na área; quanto mais pensamentos-estrela produzidos, mais forte fica o golpe — e quanto mais Gu Imortais dentro do alcance, mais pensamentos são produzidos. Quando os pensamentos-estrela tomam por completo a mente de um Gu Imortal, ele vira fantoche do usuário e luta por ele | Gasto enorme de essência imortal. Criado sozinho pelo seu autor e é seu golpe mais forte; famosíssimo nas Planícies do Norte — ou seja, conhecido e estudado pelos inimigos | 793, 794, 801 |
+
+## Observações de mecânica
+
+Regras gerais sobre golpes assassinos que a obra enuncia neste trecho (caps. 650-1021).
+Marcação: texto simples = a obra afirma; `(ded.)` = dedução; `*` = indução nossa; `—` = não informado.
+
+### O que é um golpe assassino
+
+- Um golpe assassino exige **no mínimo dois Gu** para ser ativado. Quanto mais Gu ele
+  usa, mais complicados os passos e maior a dificuldade de ativação — mas normalmente
+  também maior o poder (cap. 956).
+- Golpes imortais usam **Gu Imortal como núcleo** e Gu mortais como suplemento. Um golpe
+  imortal é superior a usar o Gu Imortal cru por dois motivos: a combinação de incontáveis
+  Gu **esconde qual é o Gu Imortal-núcleo**, e torna o efeito muito mais difícil de
+  contra-atacar (cap. 921).
+- **Um mesmo Gu Imortal pode ser o núcleo de vários golpes diferentes**, mudando os Gu
+  mortais que o acompanham. Por isso um Gu Imortal de suporte pode gerar um golpe
+  ofensivo (o caso de cleanse soul → myriad self), e por isso a prática mais comum é
+  alimentar poucos Gu Imortais e construir sobre eles um conjunto de golpes para
+  situações diferentes: ataque, defesa, movimento, cura, investigação, armazenamento
+  (caps. 732, 952, 995).
+- **Qualidade vale mais que quantidade**: um Gu Imortal com um conjunto completo de
+  golpes construídos em cima dele elimina os pontos fracos do usuário (cap. 952).
+- Não basta ter os Gu: só depois de resolver a sequência de ativação, as relações entre
+  os Gu e todas as demais questões é que o Gu Master de fato **possui** um golpe
+  (cap. 783). Como as pessoas diferem, cada golpe criado carrega forças e fraquezas
+  próprias do criador.
+
+### Níveis, ranks e escala
+
+- Golpes mortais = ranks 1-5; golpes imortais = ranks 6-9.
+- **A rank do Gu Imortal-núcleo limita o golpe.** Golpe imortal comum usa Gu Imortal
+  rank 6 no núcleo; contra feras desoladas ancestrais isso é "esfaquear um elefante com
+  um punhal" — funciona, mas o dano precisa ser acumulado por muito tempo. Só golpes
+  formados com Gu Imortal **rank 7** lidam de fato com elas, ao custo de centenas de
+  contas de green grape immortal essence ou dezenas de red date (cap. 729). Do mesmo
+  modo, um disfarce com núcleo rank 6 engana rank 6 mas corre grande risco diante de
+  rank 7 e rank 8 (cap. 967), e um golpe de dream path rank 6 não desfaz um dream realm
+  criado por um golpe rank 8 (caps. 1012, 1019).
+- Há séries de golpes escalonadas por rank: hundred / thousand / myriad disintegrations,
+  usadas respectivamente por rank 6, 7 e 8 do clã Chen (cap. 790); e lead soul into dream,
+  com uma versão e um conjunto de Gu próprios para cada rank do usuário (cap. 1006).
+- **Marcas de dao amplificam golpes.** As marcas de dao no corpo do Gu Imortal multiplicam
+  o poder dos seus Gu Imortais e golpes; num rank 8 a multiplicação chega a centenas ou
+  milhares de vezes — é por isso que rank 7 raramente vence rank 8 (cap. 850). O mesmo
+  golpe usado por dois corpos diferentes tem efeitos completamente distintos (cap. 1008).
+- O **corpo imortal** do Gu Imortal tem caminho próprio: um corpo imortal de wind path
+  potencializa Gu e golpes de wind path, enquanto os de outros caminhos rendem só efeito
+  ordinário (cap. 703).
+
+### Criar, deduzir e modificar
+
+- Deduzir um golpe imortal **inteiramente novo** custa anos até para um Gu Imortal rank 8,
+  e muitos morrem sem terminar — por isso as heranças estão cheias de **golpes imortais
+  incompletos** (cap. 904). Golpes incompletos podem ser completados depois por quem
+  tiver ferramenta suficiente, ou usados parcialmente.
+- Golpes imortais **evoluem a partir de golpes mortais** usados como fundação; mesmo com a
+  fundação pronta e o nível de atingimento adequado, subir um golpe mortal a imortal
+  leva anos (caps. 732, 736, 769).
+- Um golpe pode ser **modificado**: trocar o Gu Imortal-núcleo por outro que o usuário
+  possua, fundir novos Gu Imortais para ganhar poder, ou adaptá-lo a um corpo diferente.
+  Modificar é bem mais barato que criar do zero, mas exige nível de atingimento nos
+  caminhos envolvidos (caps. 836, 951, 976).
+- Golpes vendidos vêm com **quantidades vagas** de Gu ("grandes quantidades", "vários",
+  "alguns", "poucos") e **sem** a sequência de ativação nem as relações entre os Gu;
+  os detalhes só são entregues depois da compra (cap. 667). Existem também **versões
+  simplificadas** vendidas ao público, mais fracas que o original do criador (cap. 852).
+- **Emprestar um golpe imortal é diferente de emprestar um Gu Imortal**: uma vez emprestado,
+  os segredos do golpe são aprendidos, as fraquezas ficam conhecidas e o outro pode
+  desenvolver contramedidas (cap. 965).
+- Um **combo immortal killer move** é o encadeamento de dois ou mais golpes imortais em
+  sequência, com sinergia entre eles e poder maior que a soma. Projetar um exige nível de
+  atingimento **great grandmaster** (cap. 942).
+- Golpes de **transformation path são fáceis de formar**: basta reunir o conjunto de Gu
+  Imortais da criatura-alvo e o golpe imortal existe (cap. 751). Golpes de **refinement
+  path**, ao contrário, são mais raros que os de qualquer outro caminho (cap. 834).
+
+### Custos, falha e backlash
+
+- **Ativar um golpe pode falhar**, e a falha cobra caro: interromper ou errar a ativação
+  danifica os órgãos do usuário e provoca hemorragia (cap. 856).
+- Falha na ativação fere o Gu Master **ou** destrói os Gu que compõem o golpe (cap. 956);
+  interromper à força um golpe em conjuração causa dano aos órgãos e hemorragia (cap. 856).
+- **Ativar exige concentração intensa**; alguns golpes precisam de ambiente especial e não
+  podem ser perturbados (cap. 956). Manter um golpe consome essência e desgasta a mente
+  continuamente; **desfazer** um golpe exige tanta atenção quanto ativá-lo e abre a mesma
+  brecha de vulnerabilidade (caps. 855, 856).
+- Ativar golpes em ritmo frenético faz os Gu mortais que os compõem **perecerem em massa**
+  — backlash do céu e da terra (cap. 687).
+- Normalmente, **quanto mais forte o golpe imortal, mais tempo ele leva para ativar**
+  (cap. 722) — golpes que quebram essa regra são notáveis.
+- Alguns golpes cobram um custo permanente: gasto irreversível de marcas de dao do corpo
+  do usuário (orchard garden in mountain, nirvana fire), desgaste da fundação da alma
+  (myriad self), ou dano à própria fundação (light sand escape).
+- Golpes existem em dois regimes de custo: os que consomem **green grape immortal essence**
+  viram métodos comuns no rank 7, enquanto os que consomem **red date immortal essence**
+  ficam guardados como trunfos raros (cap. 732).
+- Um golpe pode ter **pré-requisito de estado**: nirvana fire exige marcas de dao de fire
+  path no corpo; harboring malicious heart exige corpo vivo capaz de nutrir malicious will
+  com essência de sangue — um zumbi imortal simplesmente não consegue usá-lo.
+
+### Colisão, contra-ataque e desmonte
+
+- **Golpes não são invencíveis**: têm fraquezas e podem ser contra-atacados (cap. 715).
+  Todo golpe imortal tem forças e fraquezas próprias (cap. 786).
+- **Desvendar um golpe imortal desconhecido no meio da luta é praticamente impossível**:
+  exige fundação forte de wisdom path e não se faz depressa — quem não tem como
+  contrariar o golpe simplesmente convive com ele (cap. 877).
+- **Coordenação vence frequência**: um lutador que dispara golpes imortais magníficos mas
+  descoordenados desperdiça força — os golpes chegam a atrapalhar uns aos outros —
+  enquanto um adversário atacando com um décimo da frequência, mas encadeando armadilhas,
+  domina a luta (cap. 881).
+- Golpes empilham: dois ou três golpes defensivos imortais podem ser sustentados ao mesmo
+  tempo (caps. 688, 867, 883). Golpes que ocupam a mesma parte do corpo, porém, são
+  mutuamente exclusivos (hair armor × Kong Sheng Tian).
+- Ferimentos causados por golpes imortais ficam cheios de **marcas de dao** e não podem ser
+  curados por Gu mortais nem por golpes mortais de cura (caps. 726, 977).
+- Métodos de escala mortal são inúteis contra um golpe imortal: golpes mortais de topo, por
+  mais numerosos que sejam, não bloqueiam a dedução de um especialista rank 7 (cap. 904).
+
+### Golpes de campo de batalha (battlefield killer moves)
+
+- Criam um **ambiente de batalha independente, isolado do mundo**. Dentro deles, os Gu
+  Imortais normalmente não conseguem usar Gu de information path para pedir reforço (não
+  é absoluto), e os melhores **limitam o espaço**, impedindo o inimigo de fugir para
+  qualquer lado (cap. 872).
+- Golpes de campo de batalha **imortais** têm outro nome: **"quasi blessed lands"**
+  (quase-terras-abençoadas). Ao serem usados, replicam temporariamente incontáveis marcas
+  de dao, criando um campo único e temporário (cap. 872). **A maioria dos Gu Imortais não
+  possui nenhum** (cap. 872).
+- Diferença crucial em relação a uma blessed land de verdade: **dentro de um campo de
+  batalha, Gu mortais e golpes mortais funcionam normalmente**, sem a supressão que uma
+  blessed land impõe (cap. 890).
+- Montar um campo de batalha exige **gravar marcas de dao** com Gu. Por isso quase nenhum
+  Gu Imortal ousa montar um dentro da própria blessed land ou grotto-heaven: as marcas
+  temporárias colidem com as marcas do pequeno mundo interno, o golpe falha e o usuário
+  sofre backlash — no pior caso o conflito destrói a blessed land e mata o Gu Imortal na
+  hora (caps. 888, 917). Uma Gu Imortal rank 8 excepcional contornou essa limitação
+  criando campos **fundidos com as próprias marcas de dao da blessed land**, o que permitiu
+  empilhar campos de caminhos diferentes na mesma terra (caps. 888, 917).
+- Campos de batalha **levam muito tempo para montar** e costumam ser preparados com
+  antecedência (cap. 984).
+- **Desvendar** (unravel) um campo é achar os Gu escondidos que o sustentam e destruí-los;
+  cada Gu destruído acrescenta falhas ao campo. Mas destruir a esmo pode acionar armadilhas
+  interligadas, invalidar toda a dedução feita e provocar resistência e contra-ataque mais
+  fortes (caps. 889, 891). Alguns campos não têm armadilhas e a dificuldade está só no
+  volume (dezenas de milhares de pontos escondidos) e no tempo sob ataque (cap. 898).
+- Um campo **abandonado, sem Gu Imortal controlando**, é bem mais fácil de atacar porque é
+  inflexível — não se transforma nem se repõe. Com um Gu Imortal no comando, ele se
+  transforma e se reabastece continuamente (cap. 917). Campos também **se reparam sozinhos**
+  com o tempo (cap. 897).
+- Quebrar um campo à força exige um golpe ofensivo imortal poderoso e gasto enorme de
+  essência imortal — muitas vezes sai mais caro que desvendá-lo (cap. 889).
+- O **Reincarnation Battlefield**, montado por Paradise Earth Immortal Venerable, é
+  publicamente reconhecido como o **golpe de campo de batalha número um do mundo**
+  (cap. 745), e Paradise Earth deixou a maior herança de campos de batalha da história
+  humana (cap. 888).
+
+### Golpes × formações de Gu × Casas de Gu Imortal
+
+- **Formações de Gu (Gu formations)** não são ativadas instantaneamente: levam muito tempo
+  para subir e não têm flexibilidade para uso variado em combate intenso. Mas depois de
+  montadas dão vantagem enorme, agem **mais rápido que golpes imortais** e gastam menos
+  recursos (cap. 923).
+- **Formações de batalha antigas (ancient battle formations)** permitem que os Gu Imortais
+  usem seus próprios golpes imortais dentro delas e **amplificam muito o poder** desses
+  golpes; a formação chega a mudar de forma conforme o golpe usado (cap. 905). Suas marcas
+  de dao são muito menos danosas à blessed land do que as de um campo de batalha (cap. 980).
+- **Casas de Gu Imortal (Immortal Gu Houses)** são "mais completas que golpes imortais":
+  golpes imortais podem ser alvejados e neutralizados, enquanto uma Casa combina defesa e
+  ofensa sem lacunas estruturais (caps. 741, 797).
+
+### Economia dos golpes
+
+- Golpes são **um dos quatro fatores que determinam a força de combate** de um Gu Imortal,
+  ao lado de essência imortal, Gu Imortais e o atingimento pessoal em combate (caps. 681,
+  710, 732).
+- Preços são fixados por raridade, falhas, força, backlash, facilidade de ser contrariado e
+  a condição dos Gu que o compõem — e golpes em geral **não são baratos** (cap. 667).
+- No mercado (treasure yellow heaven), **golpes mortais custam mais que receitas de Gu
+  mortais do mesmo rank**; do rank 6 para cima, ao contrário, **golpes imortais custam bem
+  menos que receitas de Gu Imortal** (cap. 667).
+- Tabela de faixas de golpe mortal, em pedras de essência imortal (cap. 732):
+  **0,5** = fundo de gaveta, melhor que nada; **1-2** = medíocre, ajuda se bem usado;
+  **2,5** = topo do que é comum (hair armor, nine cloud ring); **3** = médio, método
+  confiável; **4-5** = poder notável, muda a situação; **6** = topo de linha, quase não
+  aparece à venda. Golpes mortais **normalmente não passam de seis** pedras.
+- Vendedores usam golpes como **negócio recorrente**: spring star rain só funciona com um
+  Gu mortal que apenas o criador vendia, transformando uma venda única em fornecimento
+  contínuo (cap. 667).
+- A maior parte dos Gu Imortais rank 6 **não tem nenhum Gu Imortal** e só usa golpes
+  mortais — conseguir usar um golpe imortal já prova que a pessoa tem um Gu Imortal
+  (cap. 889).
+- Feras desoladas quase nunca conseguem usar golpes assassinos, por falta de inteligência;
+  as ancestrais e as imemoriais que ganham sabedoria humana e abertura imortal, sim — e aí
+  superam Gu Imortais rank 8 (caps. 701, 717).
+
+### Golpes deixados pelos Veneráveis
+
+- Quando um Venerável rank 9 morre, seu **golpe principal fica impresso no céu e na terra**,
+  formando um tipo de tribulação celeste ou calamidade terrestre (cap. 686).
+- Golpes de Venerável fogem às regras normais: divine concealment e ghostly concealment são
+  defensivos **permanentemente ativos e sem nenhum gasto de essência imortal**, comparados a
+  fortune rivalling heaven Gu (caps. 949, 954).
+- Esses dois golpes de Thieving Heaven agem formando **camadas de marcas de dao que
+  envolvem a alma** do protegido — um uso de marcas de dao que os Gu Imortais do Heavenly
+  Court descrevem como nunca visto e ainda não compreendido por eles (cap. 954).
+
+### Golpes concretos citados sem nome próprio
+
+Registrados aqui para não se perderem, já que a obra descreve o mecanismo mas não batiza:
+
+- **Golpe de sorte de Fairy Li Shan** (cap. 767): núcleo time luck Immortal Gu; puxa o tempo
+  de vida de outra pessoa e amplia temporariamente a sorte do usuário. É o mesmo que depois
+  aparece nomeado como **Time Assist Luck**.
+- **Golpe de três Gu Imortais em carruagem** (cap. 782): só pode ser desencadeado quando os
+  três Gu Imortais agem juntos; forma a imagem de uma carruagem e permite avançar sem que
+  ninguém os detenha.
+- **Golpe de campo de batalha de drenagem de Fairy Yu Lu** (cap. 818): sem nenhum poder de
+  ataque, mas de alcance imenso; combinado com vanishing immortal essence dissipation rain,
+  serve para drenar a essência imortal dos invasores até o zero.
+- **Oito golpes mortais-chave** (cap. 745): oito golpes mortais **sem nome**, cuja única
+  função é servir de chave, na ordem certa, para abrir o caixão do golpe sleeping cloud
+  coffin.
+- **Golpe de acordo de information path** (caps. 867, 900, 930): golpe imortal que sela um
+  acordo entre duas partes, funcionando como o mountain pledge Gu; quebrar o acordo dispara
+  um backlash intenso no corpo do infrator.
+- **Versão strength path de nirvana fire** (cap. 961): núcleos eat strength + pulling
+  mountain + pulling water Immortal Gu, com **330 mil** Gu mortais suplementares; exige
+  duas horas de concentração total para ativar e depois três dias e três noites sem
+  descanso para converter um corpo vivo em corpo de zumbi imortal, ou vice-versa. Menos
+  conveniente que nirvana fire, do qual foi copiado.
+- **Golpe de troca de alma de Fang Yuan** (cap. 1019): núcleos change soul Immortal Gu
+  rank 7 + attitude Gu + unravel mystery Immortal Gu, mais muitos Gu mortais de dream path
+  e soul path; além do efeito principal, permite ao usuário **usar os Gu do corpo alheio**.
+- **Golpe de teleporte de três imortais** (caps. 962, 997, 1003): três Gu Imortais
+  específicos ativando juntos transportam quatro pessoas até outra região do continente;
+  com um dos três morto, o golpe fica inativável.
+- **Golpe de dedução de tribulação** (cap. 1017): núcleo heavenly secret Immortal Gu; golpe
+  de wisdom path que deduz o conteúdo das tribulações vindouras.
+- **Golpe de recuperação de abertura imortal** (cap. 944): golpe imortal de fire path
+  derivado do método de Immortal Kong Jue; retira temporariamente a abertura imortal de um
+  Gu Imortal morto e a mantém por **sete dias e sete noites** — depois disso o golpe cessa e
+  a abertura se funde com o mundo externo, virando uma blessed land. Os Gu de dentro,
+  mortais e imortais, são todos destruídos no processo.
+- **Golpe de investigação por olfato** (cap. 860): golpes investigativos permitem sentir
+  cheiro mesmo para quem perdeu o olfato por ser zumbi imortal.
+- **Conjunto de golpes imortais de dark arrow** (cap. 941): a Shadow Sect projetou para
+  Hei Cheng um conjunto de golpes imortais com dark arrow Immortal Gu como núcleo comum —
+  um deles transforma o usuário numa cobra negra para fugir.

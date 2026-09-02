@@ -32,6 +32,19 @@ Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 
 
 A diferença de força entre estágios do mesmo rank já é grande, e cresce nos estágios finais. Cruzar um rank inteiro em combate é feito extraordinário; mesmo um lutador excepcional, com os melhores Gu e a melhor execução, vence no máximo **um estágio acima do seu**.
 
+### O que muda a cada estágio, exatamente
+
+Como a informação está espalhada por três notas, vale reuni-la numa vista só. Dentro de um mesmo rank, subir um estágio muda quatro coisas ao mesmo tempo:
+
+| Estágio | Parede da abertura | Custo de acionar o mesmo Gu | Tom da essência | O que mais muda |
+|---|---|---|---|---|
+| Inicial | membrana de luz | 100% (referência) | o tom mais claro da família de cor do rank | — |
+| Médio | membrana de água | 50% | um tom acima | o mesmo golpe passa a **cortar até o osso** onde antes só feria a pele |
+| Superior | membrana de pedra | 25% | mais escuro | — |
+| Pico | **membrana de cristal** | 12,5% | o tom mais profundo e denso da família | é o **pré-requisito** para tentar romper o rank |
+
+Ou seja: um cultivador no pico de um rank age **oito vezes** mais do que ele mesmo agia no estágio inicial, com a mesma reserva. Não é um bônus de dano: é um bônus de **número de ações**, e é por isso que a diferença entre dois cultivadores do mesmo rank em estágios distantes decide combates. Os tons de cor completos estão em [[04 - Essência Primordial|Essência Primordial]]; os materiais de parede, em [[02 - Abertura|Abertura]].
+
 ## Como se rompe um rank
 
 O processo é documentado em detalhe para a passagem do rank 1 ao 2, e o padrão vale para os demais:
@@ -41,6 +54,22 @@ O processo é documentado em detalhe para a passagem do rank 1 ao 2, e o padrão
 3. **Ter o piso de recursos.** Sem situações especiais, é preciso projetar de uma só vez pelo menos **55% da essência do estágio mais avançado do rank**. Esse é o número que exclui **todo o grau D** (cujo teto é 39%) e **cerca de três quartos da faixa C** (que vai de 40% a 59%, e só rompe a partir dos 55%). Os graus B e A passam com folga. É a razão aritmética de o grau C ser uma sentença social: não é preconceito de clã, é uma conta.
 
 Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primordial, uma nova membrana de luz se forma e a primeira gota de essência da nova cor emerge.
+
+> [!warning] Romper um rank não é perigoso — é caro, demorado e vulnerável
+> Vale desfazer uma expectativa que o gênero cria e que este mundo não cumpre: **no mundo
+> mortal, a ruptura de rank não tem modo de falha catastrófico.** Não existe aqui o
+> "desvio de energia" que enlouquece ou mata o cultivador de outras ficções — a obra não
+> tem esse conceito. Se a essência acaba antes de a parede ceder, a parede simplesmente
+> **cicatriza** e o esforço se perde; o cultivador descansa, junta recursos e tenta de novo.
+>
+> O perigo real da ruptura é de outra natureza, e é dramático do mesmo jeito: são **dias
+> seguidos de concentração absoluta**, num lugar fechado, sem poder reagir a nada. Quem
+> sabe a data e o local tem à disposição o alvo mais indefeso que aquela pessoa vai ser na
+> vida. É por isso que a reclusão para romper um rank é cercada de segredo, e é por isso
+> que ela é uma cena, e não um intervalo entre sessões.
+>
+> A exceção é a [[11 - Ascensão Imortal|ascensão imortal]], onde a falha **é** letal — e é
+> justamente por isso que ela pertence a outra categoria.
 
 > [!warning] O único limiar canônico é o 55% — e ele não é medido em volume bruto
 > A obra fornece o percentual apenas para o avanço **1 → 2**, sempre com a ressalva

@@ -156,8 +156,21 @@ Viajar é lento, perigoso e socialmente marcado.
   a sério: fraude contábil é punida até em filhos de líderes de clã.
 - **A doutrina declarada de gestão de mortais** é "força mais misericórdia" — e é ensinada
   como técnica, não como valor.
-- **Salários mortais são medidos em frações de pedra.** A promoção de um chefe da guarda de
-  uma vila valia meia pedra a mais por mês.
+- **Salários mortais são medidos em frações de pedra, e são pagos por mês.** A promoção de
+  um chefe da guarda de uma vila valia meia pedra a mais por mês. Numa taverna de vila,
+  os empregados são pagos mensalmente em pedras primordiais, e um aumento é anunciado em
+  porcentagem — vinte por cento para os garçons, quarenta para o gerente. Quando um
+  proprietário avarento corta esses salários, a queixa dos empregados é literal: *"com tão
+  poucas pedras por mês, é muito difícil sustentar nossas famílias."* Um emprego de
+  taverna é descrito por eles mesmos como **estável e seguro**, o ideal para um mortal — o
+  que diz tudo sobre as alternativas.
+- **O mortal comum não é livre para escolher patrão.** As aldeias em volta de uma sede de
+  clã são descritas como povoadas por **servos-lavradores** daquele clã. Eles não são
+  vendidos como escravos, mas também não decidem para quem trabalham.
+- **Crédito existe na base da pirâmide.** Há conta em aberto nas lojas de vila, empréstimo
+  informal entre conhecidos, agiotas para quantias grandes, casas de penhores e — no fundo
+  do poço — contratos de servidão por prazo determinado para quitar uma dívida, de até
+  vinte anos de serviço. Ver [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]].
 - **Escravidão existe em toda parte**, em escala industrial nas regiões onde é central. A
   precificação é feita por "controlabilidade": raças variantes menos propensas à revolta
   custam **mais** que humanos escravizados, e fêmeas e crianças raramente são vendidas —
@@ -213,6 +226,10 @@ Pequenos fatos, todos documentados, que fazem uma cena parecer daquele mundo e n
 
 - [[01 - Visão Geral da Economia|Visão Geral da Economia]] — o quadro econômico geral.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — o que essas quantias significam.
+- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o custo de tudo o que aparece nesta nota.
+- [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — o que essa gente produz, e para quem.
+- [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — os pedágios, as multas e as dívidas que atravessam
+  essa vida.
 - [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o lado de cima da mesma divisão social.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — por que os mortais valem tão pouco, institucionalmente.
 - [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como o cotidiano muda de região para região.

@@ -2,7 +2,7 @@
 
 > **Faixa:** caps. 1–400 (Volume 1 = 1–199; Volume 2 = 200–400)
 > **Data:** 2026-09-02
-> **Status:** em-andamento
+> **Status:** completo
 > **Formato:** `_pipeline/MODELOS/modelo-nota-bruta-evento.md`
 
 ## Método
@@ -106,27 +106,28 @@ Todo capítulo citado foi conferido no texto-fonte.
   vilas da montanha" (cap. 93). No inverno a comida escasseia; as alcateias, já
   crescidas, ampliam a escala de caça, expurgam os bandos vizinhos e passam a rondar as
   vilas (cap. 122). Esta em particular foi de escala "raramente vista em toda a história"
-  registrada (cap. 144-145).
+  registrada (cap. 145).
 - **Periodicidade:** a cada três anos (cap. 93). A intensidade varia; esta foi um
   outlier histórico.
 - **Duração:** mais de um ano do primeiro sinal ao fim. Os sinais preliminares começam
   no outono/início do inverno (cap. 122); a fase de cerco às vilas se arrasta por meses
   — a Xiong village foi cercada três vezes, uma delas por **seis dias e seis noites**
-  seguidos (cap. 145). O inverno passa e a primavera chega com a maré ainda ativa
+  seguidos (cap. 147). O inverno passa e a primavera chega com a maré ainda ativa
   (cap. 127); em julho ainda estava "sob controle, mas não otimista" (cap. 131).
 - **Escala:** "dezenas de milhares de lobos-relâmpago" carregando contra as vilas
   (cap. 97). Do lado humano, os três clãs inteiros: rank 1 alocados como suporte,
   rank 2 como tropa de manobra real, rank 3 são os *elders* (um clã médio como o Gu Yue
   tem "pouco mais de vinte" — cap. 145), rank 4 são os chefes de clã. Gu Masters
   aposentados foram **realistados**; até *elders* de gabinete tiveram de vestir armadura
-  e ir para a linha (cap. 144-145).
+  e ir para a linha (cap. 145). A obra estima que, terminada a maré, **menos de um décimo**
+  dos combatentes sobreviveria (cap. 145).
 - **Ambiente por dentro:**
   - **Hierarquia de reis-besta** (regra do mundo, cap. 168): "cinco tigres, um lamassu;
     três cães, um molosso; **dez lobos, um lycan**". Os escalões citados são
     *bold lightning wolf* (lobo de elite) → **thunder crown wolf** (rei) → *frenzy
     lightning wolf pack* com **thousand beast king** (rei de mil bestas) → **lightning
     lycan**, um **myriad beast king** (rei de miríade), com inteligência não inferior à
-    humana e função de estrategista da alcateia (cap. 144, 168).
+    humana e função de estrategista da alcateia (caps. 145, 168).
   - O lycan comanda **cerco reverso**: manda alcateias fecharem por trás do grupo humano
     em fuga, previsão de rota incluída (cap. 168-169).
   - Um lycan portava o **Rank 4 Wolf Smoke Gu**: fumaça negra que cobre mais de **cem li**
@@ -141,7 +142,7 @@ Todo capítulo citado foi conferido no texto-fonte.
     comuns, não (cap. 127).
   - No auge, "nove em cada dez casas estavam vazias"; os mortais fugiam em êxodo ou se
     amontoavam dentro da vila-clã por contatos pessoais (cap. 145). Caravanas de comércio
-    pararam de vir: **as comunicações com fora da montanha foram cortadas** (cap. 144).
+    pararam de vir: **as comunicações com fora da montanha foram cortadas** (cap. 145).
 - **Regras especiais do local (as do pacto de aliança, cap. 127 — ver também o evento
   institucional "Three Clan Alliance Meeting"):** trégua obrigatória entre os três clãs;
   **proibição de matar entre aliados**, com um *investigating battle group* dedicado a
@@ -159,7 +160,7 @@ Todo capítulo citado foi conferido no texto-fonte.
   - Os três clãs esvaziam suas reservas guardadas para armar os combatentes e elevar a
     capacidade de batalha geral (cap. 132).
   - Ascensão social relâmpago: "os dez astros em ascensão surgidos da wolf tide" viram
-    figuras públicas (cap. 146). A pressão de morte iminente acelera avanços de cultivo
+    figuras públicas (cap. 147). A pressão de morte iminente acelera avanços de cultivo
     reais (cap. 145).
 - **Fases:**
   1. **Prelúdio (um ano antes):** small beast tide anômala, com aparição precoce de
@@ -178,7 +179,7 @@ Todo capítulo citado foi conferido no texto-fonte.
   5. **Cerco:** alcateias passam a cercar vilas inteiras com intenção de assalto. A vila
      mais baixa (Xiong) é cercada repetidas vezes; o padrão de socorro é ataque
      coordenado de dentro e de fora ao mesmo tempo, para dispersar e derrotar em pedaços
-     (cap. 145).
+     (cap. 147).
   6. **Escalada de reis:** thunder crown wolves aparecem; depois um lightning lycan
      (myriad beast king) assume o comando (caps. 163-168).
   7. **Queda de uma das três vilas** e concentração da maré na seguinte (cap. 168).
@@ -198,10 +199,10 @@ Todo capítulo citado foi conferido no texto-fonte.
   população foi varrida**" (cap. 112). Uma vila-clã inteira desaparece. Facções antigas
   encolhem e facções novas sobem ao palco político; as cartas na manga dos três clãs são
   quase todas gastas (cap. 123, 127). Cultivadores rank 3 são o gargalo: "o clã pode
-  sacrificar rank 2, mas rank 3 são os pilares e cada perda é dano enorme" (cap. 147).
+  sacrificar rank 2, mas rank 3 são os pilares e cada perda é dano enorme" (cap. 148).
   A montanha só volta ao normal quando os recursos naturais se recompõem.
   Enquanto dura, **investigações internas e política ficam congeladas** — as
-  autoridades não têm banda para nada além da maré (cap. 144, 147). É a janela em que
+  autoridades não têm banda para nada além da maré (cap. 145, 148). É a janela em que
   crimes e segredos passam despercebidos.
 - **Cuidado de spoiler:** deixar de fora — qual das três vilas cai, quem são os
   personagens que ascendem, o duelo entre dois jovens gênios que envenena a política
@@ -1081,9 +1082,9 @@ descreve o funcionamento com precisão rara.
   terceira onda pequena (cap. 97) — ou seja, existe um cronograma esperado, e a quebra dele
   é o sinal de que algo excepcional vem vindo.
 - **Defesa institucional (cap. 145):** a vila é a arma. Muros externos reforçados com
-  **dezenas de torres**; **fossos com estacas de bambu afiadas**; e os muros **plantados
+  **dezenas de torres** (cap. 147); **fossos com estacas de bambu afiadas**; e os muros **plantados
   com Steel Vine Gu e Poison Flower Gu**, de modo que a muralha fica coberta de espinhos
-  vivos e de centenas ou milhares de flores venenosas em botão. Sem muros, contra uma maré,
+  vivos e de centenas ou milhares de flores venenosas em botão (cap. 147). Sem muros, contra uma maré,
   não há defesa (cap. 191).
 - **Limite de crescimento urbano (cap. 103):** uma vila **não pode crescer além do que
   consegue defender**. A Gu Yue village se expandiu várias vezes na história e **foi
@@ -1126,6 +1127,32 @@ descreve o funcionamento com precisão rara.
   pessoas de aparência comum trabalhando como carregadores (cap. 234). Mandados funcionam
   mal contra quem é anônimo e se move.
 
+### Auspicious Festival (Festa Auspiciosa) da Shang Clan City — caps. 326-328
+
+- **Tipo:** feriado tradicional de clã com feira popular e camada política
+- **Periodicidade:** **uma vez por ano**; todos na cidade cresceram com ela.
+- **O que comemora:** o **primeiro ancestral do clã Shang**, que **milhares de anos atrás
+  montou sua primeira barraca de feira**. O clã inteiro é comerciante e celebra o dia em
+  que o comércio começou (cap. 326).
+- **Como funciona o dia (cap. 326, 328):**
+  - As **cidades internas** são decoradas com lanternas e estandartes coloridos.
+  - **Todos os grandes estabelecimentos fecham** — lojas, bordéis, restaurantes.
+  - No lugar deles, **as próprias pessoas montam barracas** nas ruas: duas fileiras de
+    tendas temporárias que se estendem até onde a vista alcança, homens, mulheres, velhos
+    e crianças. **Naquele dia, comprar e vender é tratado como um jogo divertido** — e é
+    justamente por isso que **bugigangas sem valor aparente mudam de mão**, e que uma
+    barraca de tralha pode conter um objeto de trezentos anos (ver "Dan Huo Mountain").
+  - **Os jovens mestres do clã dão banquetes de gala simultâneos** e distribuem
+    recompensas, cada um convidando "gente de todos os lados".
+- **A camada política (o que faz o feriado ser um evento, cap. 326):** os convites são
+  simultâneos e **só se pode aceitar um**. Na superfície é festa harmoniosa; na prática,
+  **escolher a qual banquete comparecer é declarar publicamente de que lado se está**.
+  Recusar todos também é uma declaração.
+- **Papel possível de um grupo pequeno:** uma sessão inteira sem combate: garimpar a feira
+  atrás do item certo entre lixo, negociar sem revelar por que se quer aquilo (o preço
+  triplica no instante em que o vendedor desconfia de valor), e escolher a qual banquete
+  ir sabendo que a escolha custa aliados.
+- **Cuidado de spoiler:** deixar de fora quem convida quem e o que sai da feira.
 ---
 
 ## Eventos históricos citados
@@ -1304,3 +1331,86 @@ centenários é notícia de mesa de bar a algumas centenas de li de distância.*
   si mesma por um prêmio), e anunciam a terceira forma de evento grande do mundo: a
   **guerra ideológica de coalizões**, justo × demoníaco, por território.
 
+---
+
+## Candidatos a nota própria
+
+Ordenados por prontidão para virar uma nota jogável ("os personagens estão *dentro* do
+evento; a história é deles"). A faixa de rank indicada é a dos personagens jogadores,
+não a das forças presentes.
+
+1. **The Wolf Tide de Qing Mao Mountain** — *ranks 1-3.* O melhor evento da faixa e
+   provavelmente da obra inteira para uma mesa iniciante: dura mais de um ano, tem
+   calendário previsível (ciclo de três anos) e escalada clara (bandos aleijados → cerco
+   de vilas → reis-besta → estrategista), traz uma economia de guerra pronta (quadro de
+   méritos, dez pontos por olho de lobo), força uma aliança entre inimigos com regras
+   escritas que dá enredo social, e congela a política interna — o que dá aos jogadores
+   licença para agir. Cabe uma campanha inteira, não uma sessão.
+2. **Three Kings Inheritance / San Cha Mountain** — *ranks 2-4.* O mais "módulo de
+   masmorra" de todos, e com a mecânica mais original: entra-se com **um único Gu rank 1**
+   e todo o resto selado; cresce-se vencendo rodadas; cada rodada oferece três rotas de
+   risco diferente na névoa; a dificuldade salta a cada dez rodadas. Além disso tem a
+   camada externa (corrida do ouro, especulação, acampamento de facções) e um cronômetro
+   embutido: a terra abençoada está morrendo e a supressão cede junto com ela.
+3. **Hu Immortal Inheritance / Dang Hun Mountain** — *ranks 3-5, ou jovens de elite.*
+   Uma prova sem combate e sem morte, o que é raro no mundo e ótimo para variar o tom:
+   subir uma montanha de cristal que ataca a alma, sem nenhum Gu, contra um relógio que
+   corre cinco vezes mais rápido, valendo tudo para o primeiro e nada para todos os
+   outros. O torneio de ranking que antecede a subida é uma sessão inteira em si.
+4. **Crane Disaster** — *ranks 1-4.* Uma sessão única, curta, memorável e brutal: dez mil
+   aves de rapina caem sobre um campo aberto de cem li onde não há um único muro. É o
+   contraponto perfeito à wolf tide (que se vence com fortificação) e ensina uma regra do
+   mundo por experiência direta.
+5. **A Competição de Jovem Mestre do clã Shang** — *qualquer rank; até mortais capazes.*
+   O melhor evento **não violento** da faixa: cem mil pedras primevas, três meses, e um
+   número histórico na parede. Recompensa informação e cobertura política, pune atalhos
+   ilegais, e roda em paralelo a qualquer outra coisa que a mesa esteja fazendo na cidade.
+6. **A destruição do clã Ju e o leilão de liquidação** — *ranks 1-4.* Dois cenários
+   encadeados e ambos completos: a noite em que o furacão finalmente vence as defesas de
+   uma montanha, e o leilão em que séculos de patrimônio de um clã morto são vendidos numa
+   tarde, com os herdeiros arruinados na plateia. Traz de brinde uma tabela de preços
+   canônica.
+7. **Three Clans Competition** — *ranks 2-3.* Um battle royale de mapa aberto pronto para
+   usar: cem li de arena, do anúncio ao pôr do sol, trinta fichas para classificar, sem
+   limite de participantes, sem proibição de matar — e o resultado define a repartição de
+   recursos entre três clãs pelos anos seguintes. Regras curtas, consequências longas.
+8. **Mu Bei Mountain, a montanha dos zumbis** — *ranks 1-3.* O melhor cenário "baixo
+   nível" da faixa: uma rota comercial que ninguém consegue limpar, com um sistema de
+   infecção que se realimenta, uma hierarquia de zumbis legível por cor, e um custo de
+   cura que transforma cada arranhão em decisão econômica. Roda como travessia de caravana
+   ou como o esquadrão anual de limpeza que todos sabem que é inútil.
+9. **Blood Pond Graveyard** — *ranks 2-3.* Sessão única de puro terror e fuga: uma
+   caverna de lago de sangue maior que a vila acima dela, carcaças secas boiando, e dois
+   rank 5 brigando enquanto o oxigênio acaba. Os personagens não são combatentes ali —
+   são pessoas atravessando o mapa.
+10. **A Guerra da Névoa (batalha final de San Cha)** — *ranks 2-4.* Para mesas que
+    querem sentir uma guerra sem virar wargame: cada grupo é uma coluna com uma rota
+    designada, a névoa anula visão e comunicação, a rota está errada, e voltar significa
+    encarar um comandante rank 5 que já executou um insubordinado.
+11. **A grande caravana de longa distância** — *ranks 1-3.* Campanha itinerante inteira,
+    não um evento: linhas de defesa disputadas politicamente, ataques de bandos de bestas
+    em série, moral que desaba, e a certeza estatística de que muita gente não chega.
+12. **River Swallowing Toad** — *ranks 1-3.* Sessão única e elegante, e a melhor para
+    mostrar que este mundo nem sempre se resolve com violência: uma criatura rank 5 que
+    não pode ser ferida sob nenhuma hipótese, só realocada — e um erro afoga uma região.
+13. **Awakening Ceremony** — *nenhum rank; é a criação de personagem.* Merece nota própria
+    não como aventura, mas como **cena de abertura de campanha** com regra de sistema
+    embutida (passos → grau → carreira) e humilhação pública garantida para metade da
+    turma.
+14. **Shang Clan City (battle zone + auction zone + Auspicious Festival)** — *ranks 1-4.*
+    Não é um evento, é um **cenário urbano completo** com progressão mecanizada: escada de
+    arenas com vitórias líquidas, o vencedor leva um Gu do perdedor, pedágio por anel de
+    cidade, leilões em intervalos fixos, e um feriado anual em que a cidade inteira vira
+    feira e os convites de banquete são declarações políticas.
+15. **A caravana mercante anual (visita a uma vila-clã)** — *ranks 1-2.* Três dias e três
+    noites de feira, aposta em fósseis e lance cego confidencial. Ideal como segunda ou
+    terceira sessão de uma campanha de vila, quando os personagens ainda contam pedras
+    primevas uma a uma.
+16. **Assembleia de Aliança + Battle Merit Board** — *ranks 1-3.* Pode virar nota própria
+    ou entrar como capítulo interno da nota da wolf tide; tem regras suficientes para as
+    duas coisas.
+
+**Observação de escopo:** os eventos históricos (Ren Zu, Blood Sea Ancestor, a vingança
+dos Três Reis, o Segundo Rei Zumbi) **não** viram notas jogáveis, mas são a matéria-prima
+das notas de mundo e de herança — e o Blood Sea Ancestor em particular explica, sozinho,
+por que existem heranças demoníacas em toda parte no cenário.

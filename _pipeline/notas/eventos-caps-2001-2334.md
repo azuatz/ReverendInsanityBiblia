@@ -618,3 +618,80 @@ Categoria recorrente, com três origens distintas documentadas nesta faixa:
 - **Outro evento institucional do mesmo lugar:** a **Refinement Path Convention**, com **ranking dos cem melhores** do path — mencionada como marco temporal e como credencial pública de reputação (cap. 2064; a convenção em si ocorreu antes desta faixa).
 - **Papel possível de um grupo pequeno:** prova fechada, tempo limitado, sem comunicação com fora, rivais de outras seitas, e o vencedor leva uma herança. É o formato "torneio de seitas" com uma regra de ouro: **lá dentro, ninguém é imortal**.
 - **Cuidado de spoiler:** quem está infiltrado entre as sementes é enredo.
+
+---
+
+## Eventos históricos citados
+
+Eventos que **não acontecem** nesta faixa, mas são narrados de segunda mão dentro dela — em diálogo,
+flashback, visão dentro de um dream realm ou registro histórico. Marcados como tal.
+
+### Thieving Heaven pierces the world and the four Venerables repair it — caps. 2170-2172 (narrado como visão, ~300 mil anos atrás)
+
+- Um Venerável, já em estado mental degradado, entrou na 9ª camada de Crazed Demon Cave e, ao perceber que ali estava **o ponto mais fino da fronteira do mundo**, decidiu **atravessá-la para ver o que havia do outro lado**.
+- Ele usou um duplo: enquanto o corpo original era preso por correntes, **outro dele apareceu e socou a fronteira**, rompendo-a. Um deles saiu pelo buraco.
+- Consequência imediata: **"a tribulação mais terrível do mundo desceu"** pelo rombo. As correntes do criador da caverna não conseguiam nem chegar perto, e **em poucas respirações o buraco dobrou de tamanho**. Diagnóstico dito em cena: **se o buraco não fosse tapado, o mundo inteiro seria destruído.**
+- **Três vontades residuais de Veneráveis** (o dono da caverna, mais os donos de dois Grandes Mundos, que saíram trazendo, respectivamente, feras incontáveis e árvores e ervas incontáveis) conseguiram **segurar, mas não consertar** — a força de vontades residuais não bastava.
+- A solução veio do próprio causador, com uma revelação de mundo importante: **todo otherworldly demon que entra neste mundo carrega a insígnia do mundo de origem — os "otherworldly dao marks"** — e é por causa disso que o controle do fate Gu sobre otherworldly demons sempre foi limitado. Ele **usou seus otherworldly space path dao marks para criar um subespaço e tampar o buraco**, dando aos outros a janela para remendar a fronteira.
+- **Detalhe de caráter que é regra do mundo:** os canhões do golpe dele iam atingir os dois Grandes Mundos; ao perceber que **aqueles mundos tinham habitantes vivos** — os mundos pequenos que ele vinha destruindo eram silenciosos e sem vida —, ele **desviou o ataque à força** e sofreu backlash grave por isso.
+- **Cuidado de spoiler:** os nomes dos quatro Veneráveis e o que cada um representa é lore de personagem histórico, aceitável na dose que a política do vault já usa (figura histórica estrutural). O que **não** deve ir junto é o que esse episódio revela sobre o presente da obra.
+
+### A partida de xadrez que fundou Crazed Demon Cave — cap. 2086 (há ~1 milhão de anos)
+
+- Um Demon Venerable atacou a instituição central do mundo e ameaçou destruí-la, forçando a vontade residual da fundadora a **jogar uma partida de xadrez com ele**.
+- **O tabuleiro estava secretamente ligado a Crazed Demon Cave:** os pensamentos colidindo durante o jogo **geravam ganhos novos de heaven path**, que alimentavam a "derivação" dentro da caverna. A adversária percebeu, fingiu não perceber, e **jogou junto de propósito**, porque também lucrava.
+- Motivo declarado da parceria: ele cultivava **rule path**, que sozinho não bastava para o "conceito insano" da caverna — precisava da cooperação da **criadora do wisdom path** para deduzir resultados de heaven path. Em troca, ela obteve resultados de pesquisa de heaven path que se materializaram em duas capacidades: **influenciar as emoções de Gu Immortals mutantes** (usada para recrutá-los) e **controlar/dominar a vontade de outrem** em escala extrema (cap. 2194).
+- **A batalha final entre essas duas vontades, que a história registra como encerrada num lugar específico, foi apenas o fim de um segmento do jogo** — o verdadeiro campo de decisão continuou sendo a caverna (cap. 2086).
+
+### O Imperial Court contest — caps. 2170, 2261 (instituição que durou 300 mil anos, hoje encerrada)
+
+- Torneio criado por um Venerável no Northern Plains. Consequência declarada: **"desde que ele criou o Imperial Court contest, o Northern Plains inteiro virou o reino dele"** — trezentos mil anos de domínio de uma linhagem tribal específica sobre o mundo imortal e mortal da região.
+- Sustentado na prática por uma Immortal Gu House que **controlava a situação política de toda a região mesmo depois da morte do criador**, e que **podia dissipar calamidades e tribulações** (cap. 2066). Essa House foi destruída antes desta faixa.
+- **Ressentimento histórico:** imortais solitários e cultivadores demoníacos da região guardam rancor duradouro por causa desse torneio; a obra registra que "a maioria dos imortais sabe a verdade por trás do Imperial Court contest" (cap. 2170). Houve **a última edição** do torneio, e personagens são identificados socialmente por terem participado dela (cap. 2261).
+- **Regra política derivada:** essa região **só se unifica em duas circunstâncias** — sob pressão externa esmagadora, ou sob um Venerável vivo e invencível (cap. 2170).
+
+### A Reverse Flow River battle — cap. 2221 (referida; ocorreu antes desta faixa)
+
+- A instituição central do mundo organizou um grupo e **invadiu o Northern Plains**; sofreu derrota nos céus imemoriais. Esta faixa **preenche a lacuna do mecanismo**: a derrota se deveu principalmente a uma Immortal Gu House de luck path instalada no céu acima daquela região, que **arranja dao marks de luck path e manipula a sorte dos seres vivos sob seu domínio**, tornando aquele céu território manipulável pelo dono (cap. 2221).
+- Consequência mostrada nesta faixa: com a fusão dos dois céus, **os dao marks de luck path pré-arranjados ficaram caóticos e quebrados**, e a estrutura teve de ser retirada para não ser destruída ao resistir à mudança do Heavenly Dao — **estruturas fixas de dao marks não sobrevivem a mudanças estruturais grandes do céu que as sustenta** (cap. 2221).
+
+### Extermínios de superforças — caps. 2055-2056, 2102
+
+- **Doutrina explícita registrada:** "neste mundo, força individual supera número — mesmo uma única pessoa pode aniquilar uma força inteira" (cap. 2102).
+- **Um clã supremo do Western Desert** foi levado à extinção: outras forças rivais o restringiram por vias indiretas enquanto um único agressor agia como "lâmina aberta". À beira da extinção, os dois supremos anciãos do clã criaram um killer move de emergência para virar o jogo; **o killer move sofreu mutação e ganhou vida própria**, virando uma criatura. O território virou um deserto-cemitério, hoje explorado por terceiros em busca de **soul cores** (caps. 2055-2056, 2102, 2131).
+- **Uma tribo do Northern Plains** foi destruída e substituída por outra, fundada por um ex-imortal solitário (cap. 2102). Nesta faixa, duas tribos "de fora" (fundadas por ex-solitários) são descritas como tendo nascido **devorando a fundação de tribos de linhagem tradicional** — e temem virar bucha de canhão por isso (caps. 2202, 2218).
+- **Regra de continuidade de heranças demoníacas:** um grupo demoníaco hereditário do Southern Border tinha a propriedade de que, **enquanto restasse um sobrevivente do grupo original, a herança continuava e o grupo se repunha com o tempo até voltar ao número original** — foi finalmente exterminado por completo nesta faixa (cap. 2067).
+
+### As sete ondas de ataque a Lang Ya blessed land — cap. 2077 (memória de uma linha do tempo anterior)
+
+- Uma blessed land defendeu-se de **sete ondas sucessivas de ataque** apoiando-se numa única peça: um **Refinement Cauldron** capaz de **refinar à força os Immortal Gu dos invasores**. Os Immortal Gu de quem invadia eram tomados, e **incontáveis Gu Immortals foram capturados assim**.
+- Serve de modelo de **cerco defensivo assimétrico**: a fortaleza não mata os atacantes — ela **os desarma e os coleciona**.
+
+### O White Terror — cap. 2061 (referido)
+
+- Fenômeno histórico do Southern Border que "sacudiu a região e deixou sua marca na história", causado por um único killer move de transformação corporal de ice path que **converte o corpo do usuário em outra forma de vida** (um gigante de gelo). Regras dele: enquanto na forma alternativa, o usuário fica **imune a efeitos que dependem de ter sangue**; e, mesmo despedaçado, **basta restar um fragmento para se recuperar por completo através de luz intensa** (caps. 2061, 2063).
+
+### Mito: a fragmentação do immemorial blue heaven — cap. 2021 (Legends of Ren Zu)
+
+- Dois filhos de Ren Zu são arremessados pelo fate Gu para dentro do **immemorial blue heaven**, onde encontram um **lightning Gu** preso e furioso por não achar saída, e um **hatred Gu** atraído por essa raiva.
+- Regras do hatred Gu segundo o mito: **não pode ser morto** — esmagado, ressuscita do sangue do hospedeiro e fica maior e mais forte a cada tentativa; **cega parcialmente o hospedeiro**, que passa a "ver" só o caminho da vingança e a ignorar obstáculos físicos reais; e **pode emprestar força a outro Gu** para amplificar um golpe.
+- Resultado do mito: a combinação lightning Gu + hatred Gu **destruiu a heavenly wind qi wall daquele céu e fragmentou o immemorial blue heaven inteiro**.
+- Relevância: é **um dos poucos precedentes canônicos de destruição de um céu inteiro**, e serve de modelo mítico para o que acontece com os dois céus nesta faixa.
+
+---
+
+## Um evento futuro anunciado — the Five Regions Chaotic War
+
+Não é um evento desta faixa: é **o evento que a faixa inteira passa esperando** e que **a obra termina sem
+mostrar**. Aparece 25 vezes no volume, sempre como pressuposto.
+
+- **O que é:** a guerra caótica das cinco regiões, tida como **inevitável** depois que as muralhas regionais caíram e as cinco regiões viraram uma só (caps. 2151, 2170, 2217, 2239, 2268).
+- **Por que todos a esperam:** "as cinco regiões são uma agora, a guerra caótica das cinco regiões não pode ser evitada" — e a conclusão prática que todo mundo tira é a mesma: **força de combate de Gu Immortal é o que importa; o resto se considera depois** (cap. 2151).
+- **O que ela já está fazendo com o mundo, mesmo sem começar:**
+  - Uma superforça mandou suas tribos vassalas **unificarem à força o mundo imortal de uma região inteira** — recrutando ou matando os solitários que resistem — explicitamente **como preparação para essa guerra** (cap. 2170).
+  - Clãs que se sabem fracos calculam que, se aderirem a qualquer potência, **serão bucha de canhão quando a guerra estourar** — e por isso preferem não escolher lado (caps. 2202, 2217).
+  - Paths antes considerados desperdício em tempos de paz (enslavement path é o exemplo dado) **passam a receber recursos e atenção da seita justamente porque a guerra vem** (cap. 2219).
+  - Superforças começam a **acumular fundação e planejamento de longo prazo** em vez de buscar ganho rápido, porque a expectativa é de **um conflito longo, não decidido depressa** (cap. 1987 — pouco antes desta faixa).
+  - Um clã do Eastern Sea vinha construindo em segredo, havia anos, uma máquina de **ressuscitar os próprios Gu Immortals**, exatamente para "lidar com o caos futuro" (ver "Human Sea").
+- **Papel possível de um grupo pequeno:** `*` É o melhor pano de fundo de campanha da obra inteira, e não precisa de nenhum detalhe de enredo: **o mundo em véspera de guerra**. Todo mundo se armando, todo mundo escolhendo padrinho, todo mundo com medo de escolher errado, recursos militares valorizando, mercenários em alta, e a certeza compartilhada de que **quem for pequeno quando estourar será usado como escudo**.
+- **Cuidado de spoiler:** nenhum, porque **ela não acontece na obra**. É pura atmosfera.

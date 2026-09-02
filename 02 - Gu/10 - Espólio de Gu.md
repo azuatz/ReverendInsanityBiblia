@@ -420,4 +420,6 @@ de artefato. É o gargalo que estrangula o fim do jogo do mundo inteiro.
 - [[08 - Formações de Gu|Formações de Gu]] — as instalações que refinam à força e as Casas que não se transferem.
 - [[11 - Economia Imortal|Economia Imortal]] — o mercado que essa regra cria.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — por que invadir território raramente compensa.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — por que Gu alojados no corpo se perdem junto com a parte do corpo destruída.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — a outra forma de perder patrimônio sem combate: comprar errado.
 - [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] — o resumo e as regras gerais do domínio.

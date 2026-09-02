@@ -114,9 +114,21 @@ parada. Compram o excedente local (vinhos, chás, produtos regionais) e vendem r
 
 Trabalhar numa caravana é uma das poucas rotas de ascensão social abertas a mortais
 comuns, geralmente como batedor ou guarda. Para um Mestre Gu, é renda estável com teto
-conhecido: uma rota comercial legítima multiplica o capital investido em torno de sete
-ou oito vezes. O contrabando rende dezenas de vezes mais — e o roubo é descrito dentro do
-mundo, com franqueza desconcertante, como "lucro infinito".
+conhecido — e o teto é declarado dentro da obra, numa escada de quatro degraus que vale
+memorizar:
+
+| Método | Multiplicador do capital |
+|---|---|
+| Comércio honesto feito com maestria | 7 a 8 vezes — descrito como **o teto deste mundo** |
+| Métodos ilegais dentro do comércio | mais de 10 vezes |
+| Fraude aberta | dezenas de vezes |
+| Assalto | não precisa de capital nenhum |
+
+E existe uma doutrina de comércio dita com todas as letras: **um mercador de verdade
+ganha ao longo do caminho, não no destino.** Ele não se limita a transportar mercadoria e
+embolsar a diferença de preço entre as duas pontas; ele aprende a especialidade de cada
+montanha, a necessidade de cada clã e o que falta em cada parada, e lucra em cada perna do
+trajeto. Ver [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] para o que há depois do primeiro degrau.
 
 Caravanas grandes são mistas, com um vice-líder por clã participante e um líder geral
 eleito só para manter a ordem. Elas têm mercados internos próprios (um diário para
@@ -137,10 +149,25 @@ Profissões vizinhas, todas documentadas:
 - **Mestre de escravização de feras** — caríssimo de manter; só organizações grandes
   sustentam dois ou três.
 - **Corretor de informação** — vende dossiês, resultados de competições passadas,
-  fofoca política. Existe uma seita inteira construída sobre esse único negócio.
+  fofoca política. Existe uma seita inteira construída sobre esse único negócio, erguida
+  do zero à relevância regional em cerca de um século. A escala de preço é ampla e
+  documentada: um boletim com a previsão de um analista sobre um torneio sai por dez
+  pedras; uma gravação comprometedora, por dois mil; o segredo de que a nascente de um clã
+  está secando, por três milhões.
 - **Curandeiro de elite** — os melhores médicos de uma região são figuras públicas com
   preços e excentricidades célebres; um tratamento de dano permanente custa uma fortuna.
-- **Agiota** — o crédito existe, com juros negociados caso a caso.
+- **Agiota e casa de penhores** — o crédito existe, com juros negociados caso a caso, e o
+  penhor também: um Mestre Gu pressionado penhora o próprio Gu. Ver
+  [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]].
+- **Fornecedor de contratos** — o Gu de voto venenoso, o instrumento com que se fecha
+  qualquer acordo entre iguais armados, é vendido em praticamente toda loja de
+  cidade-mercado e custa milhares de pedras a unidade, porque é consumível. É um negócio
+  de recorrência garantida.
+- **Extrator e coletor** — mineração, coleta de ervas e caça são um **departamento formal**
+  dentro de um clã grande, ao lado do departamento que administra o comércio de escravos.
+  Não é aventura: é emprego, e alguém o dirige. Ver [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]].
+- **Lojista e locador** — comprar um negócio que já funciona é a rota mais segura e mais
+  lenta. Ver a seção de renda de patrimônio adiante.
 
 O refino é também onde o risco financeiro aparece com mais crueza: **errar destrói o lote
 inteiro e fere o refinador**. Financiar um refino com dívida é prática normal, e a
@@ -262,6 +289,43 @@ Vale dizer com todas as letras: no cálculo econômico do mundo, essas atividade
 mais rentáveis que existem. Ver [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] para entender
 por que a sociedade ainda assim consegue mantê-las minoritárias.
 
+### 11. Viver de patrimônio
+
+As dez ocupações acima são **trabalho**: param quando o personagem para. Existe uma décima
+primeira categoria, e é a única que não para — a renda que vem de possuir alguma coisa. É
+a saída da roda-viva, e a obra documenta quatro portas para ela.
+
+- **Ser dono de um negócio.** Uma taverna de vila, três prédios de aluguel, a terra e oito
+  servos formam um pacote cujo custo de compra se paga com **dois ou três anos** de
+  operação. Essa é a régua de retorno de investimento do mundo mortal: se a sua mesa
+  precisar precificar qualquer negócio, multiplique o lucro anual por três. O aluguel
+  isolado de um imóvel rende de oito a vinte e cinco pedras por mês, conforme a
+  localização.
+- **Ser dono de uma planta produtiva.** Uma planta de cura excepcional, colhida
+  diariamente, rendeu cerca de quatrocentas pedras de lucro líquido por dia, com custo de
+  produção praticamente nulo — ela só precisava de água e sol. É a "mina de ouro" do mundo
+  mortal, e explica por que heranças familiares brigam por um vaso.
+- **Ser dono de uma nascente espiritual.** Uma nascente pequena produz mais de **cem
+  milhões de pedras** ao longo dos cinquenta a sessenta anos de vida útil. É por isso que
+  clã e nascente são, no fundo, a mesma coisa.
+- **Ser dono da versão portátil dela.** Existe um Gu de rank 3 que condensa uma nascente
+  inteira e produz **cinquenta pedras por dia**, para sempre, sem consumir nada. Cinquenta
+  por dia é cerca de dez vezes o custo de vida de um Mestre Gu de rank baixo: um único Gu
+  aposenta um personagem inteiro. Extraí-lo, porém, mata a nascente de onde ele veio — a
+  troca da renda perpétua de uma comunidade por um ativo único e móvel.
+
+> [!note] Para o design
+> Repare no contraste com a tabela de renda de trabalho logo abaixo: o salário de ancião
+> de clã, o melhor emprego estável do mundo mortal, rende cerca de cem pedras por semana.
+> A nascente portátil rende trezentas e cinquenta na mesma semana, sem trabalho nenhum e
+> sem morrer.
+>
+> É a virada de patamar mais limpa que uma campanha pode ter, e ela não exige subir de
+> rank: exige **adquirir um ativo**. Se você quiser dar ao grupo um objetivo de médio prazo
+> que não seja "ficar mais forte", dê a eles a chance de comprar, plantar ou tomar uma
+> fonte de renda. O momento em que os personagens deixam de perguntar quanto paga a missão
+> é o momento em que a campanha muda de gênero.
+
 ## Tabela de referência: ordens de grandeza de renda
 
 Esta é a tabela de onde sai a recompensa de uma sessão. As três colunas da direita são o
@@ -302,10 +366,14 @@ partida de balanceamento, não como cânone.
 > recompensa por chegar ao rank 3. Se você quiser encurtar essa fase, o botão a girar é a
 > recompensa das missões de clã; se quiser alongá-la, é a despesa diária.
 
-Compare com o lado da despesa: custo de vida diário de 3 a 5 pedras; reserva mínima de um
-itinerante independente por volta de 10.000. Os preços de Gu por rank e todos os demais
-valores estão em [[02 - Pedras Primordiais|Pedras Primordiais]], que é a nota-fonte de preços — esta tabela cobre
-apenas o lado da **renda**, e onde as duas divergirem, a de lá vence.
+Compare com o lado da despesa: custo de vida diário de 3 a 5 pedras no rank 1, reserva
+mínima de um itinerante independente por volta de 10.000 — e, no rank 3, mais de
+quatrocentas mil pedras por ano para quem mora numa cidade-mercado e cultiva a sério.
+Ficar mais forte não alivia a conta: multiplica-a.
+
+A versão completa desta tabela, com mais linhas, os preços de tudo o que se compra e a
+curva de custo de vida por patamar, está em [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — e onde as duas
+divergirem, a de lá vence.
 
 ## A camada imortal: o que muda no rank 6
 
@@ -361,6 +429,10 @@ Duas rotas continuam abertas e são as mais parecidas com "trabalho":
 ## Relações
 
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a unidade em que tudo acima é medido.
+- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — as tabelas completas de preço, renda e despesa.
+- [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — o que essas ocupações extraem, e para quem vendem.
+- [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — as ocupações de fronteira, em detalhe.
+- [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — como se financia o começo de qualquer uma delas.
 - [[05 - Mercados e Leilões|Mercados e Leilões]] — onde o produto do trabalho vira dinheiro.
 - [[11 - Economia Imortal|Economia Imortal]] — o mesmo problema, duas ordens de grandeza acima.
 - [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — as oportunidades sazonais que complementam a

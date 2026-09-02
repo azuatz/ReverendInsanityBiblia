@@ -17,9 +17,16 @@ conhecimento: segredo
 
 ## O que é um Venerável
 
-Comece pela escala, porque ela é difícil de sentir sem números. Entre o rank 7 e o rank 8 há uma distância que o mundo descreve como "céu e terra". **Trate como diferença de categoria, não de grau: um rank 7 não vence um rank 8.** A exceção existe e mede o tamanho da regra — nos últimos milhares de anos, apenas duas pessoas conseguiram *resistir* a um rank 8 sendo rank 7, e resistir não é vencer. O que funciona é número: grupos de rank 7 "derrotam com facilidade, matam com dificuldade e capturam quase nunca" um rank 8.
+Comece pela escala, porque ela é difícil de sentir sem números — e porque os três degraus do reino imortal **não são iguais entre si**.
 
-E entre o rank 8 e o rank 9 não há distância — há um abismo. **Um rank 8 nunca venceu um rank 9 na história registrada**, sem uma única exceção. A imagem que a obra usa é a de pisar numa formiga.
+**Do rank 6 ao 7 há uma distância que se atravessa.** Um rank 6 de topo, bem montado e com bons golpes, vence um rank 7 comum — há registro de alguém que fez isso duas vezes na carreira. Neste degrau, "força de combate" e "nível de cultivo" são coisas separadas o bastante para que a preparação compense o rank. É a faixa em que um personagem jogador ainda pode brigar acima do peso.
+
+**Do rank 7 ao 8 há uma distância que o mundo descreve como "céu e terra".** Trate como diferença de categoria, não de grau: **um rank 7 não vence um rank 8**. A exceção existe e mede o tamanho da regra — nos últimos milhares de anos, apenas duas pessoas conseguiram *resistir* a um rank 8 sendo rank 7, e resistir não é vencer. O que funciona é número: grupos de rank 7 "derrotam com facilidade, matam com dificuldade e capturam quase nunca" um rank 8.
+
+**E entre o rank 8 e o rank 9 não há distância — há um abismo.** Um rank 8 nunca venceu um rank 9 na história registrada, sem uma única exceção. A imagem que a obra usa é a de pisar numa formiga.
+
+> [!note] Para o design
+> Repare no formato dessa curva: **um degrau transponível, um degrau intransponível, um abismo**. Isso dá três zonas de campanha muito diferentes com o mesmo sistema — a faixa em que preparação vence rank, a faixa em que só número e política funcionam, e a faixa em que nada funciona. E uma regra de bolso que vale para todo o reino imortal: **acúmulo vence talento**. Um veterano de séculos, com fundação profunda, golpes testados e experiência, esmaga um recém-ascendido brilhante do mesmo rank. Talento decide o mundo mortal; biografia decide o imortal.
 
 A diferença é ontológica, não quantitativa. Um Gu de rank 9 não é feito de [[12 - Dao Marks|dao marks]] como todos os outros: é feito de **fragmentos das leis do universo** propriamente ditas. É por isso que um Gu de rank 9 continua funcionando em lugares onde nenhum Gu de rank 1 a 8 sequer liga.
 

@@ -96,6 +96,8 @@ Como cultivar é, fisicamente, uma rotina banal: o Mestre Gu senta de pernas cru
 
 Isso dá à mesa uma regra de calendário confortável: entre uma sessão e outra, os personagens sobem estágios. Ranks, não — ranks são eventos, e merecem cena. O ritmo detalhado está em [[06 - Ritmo de Cultivo e Reclusão|Ritmo de Cultivo e Reclusão]].
 
+E a rotina não deixa de ser corporal nem nos momentos épicos. Durante uma ruptura de rank — dias e noites de ataque ininterrupto contra a parede da [[02 - Abertura|abertura]] —, a obra registra que o cultivador **parava, quando já não aguentava, para comer depressa e usar o banheiro**, e voltava. É a melhor imagem que este mundo dá do que é ser um Mestre Gu: um poder enorme operado por um corpo que continua sendo um corpo.
+
 Uma cortesia que a obra oferece de graça ao mestre: **o corpo avisa**. Um cultivador próximo do avanço *sente o sinal* chegando e procura um lugar seguro para se concentrar. Ou seja, "estou perto de romper" é informação que o personagem tem, e que portanto pode ser usada para tomar decisões — parar uma viagem, adiar uma missão, buscar um esconderijo.
 
 ### Cultivar acompanhado

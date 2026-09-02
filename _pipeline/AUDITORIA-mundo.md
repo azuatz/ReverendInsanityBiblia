@@ -83,6 +83,22 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
 
 ## O que foi corrigido
 
+### `13 - Cosmologia.md`
+- **Acrescentada a seção "Sim, existe um sol — e os céus são filtros"** (L2), que resolve a
+  ambiguidade mais perigosa do domínio: o mundo tem sol, lua e estrelas comuns, e os dois céus são
+  **filtros** por cima deles — a luz atravessa o céu branco (dia) e não atravessa o negro (noite),
+  porque a luz de hoje é um resíduo enfraquecido da luz imemorial, que atravessava os nove.
+- **Acrescentado** o corolário econômico: com sete céus caídos, os trovões dos dois restantes quase
+  nunca se chocam, e a pedra de refino que nascia desse choque praticamente deixou de ser produzida
+  — uma catástrofe de milhões de anos atrás que ainda se manifesta como escassez de mercado.
+- `fontes` atualizado com caps. 21, 34, 73, 559, 1028.
+
+### `01 - Visão Geral do Mundo.md`
+- **Corrigido o risco de leitura de L2**: a linha "existem dois céus que se alternam como dia e
+  noite" agora diz explicitamente que isso **não** substitui o sol, e aponta para a seção nova de
+  Cosmologia e para `16 - O Relógio do Mundo`.
+- Tabela "Mapa da pasta" e sugestão de ordem de leitura atualizadas com as três notas novas.
+
 ### `04 - As Cinco Regiões.md`
 - **Corrigido erro factual** (L4): a frase "Três das cinco paredes são nomeadas na obra" foi
   substituída por uma **tabela das cinco paredes** com nome em português e inglês, cor vista de
@@ -96,7 +112,57 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
 
 ## Notas novas criadas
 
-*(em andamento)*
+> As três notas nasceram com prefixo provisório continuando o maior da pasta (`16`, `17`, `18`).
+> **A posição de leitura correta é outra** — indicada abaixo. O orquestrador deve rodar
+> `_pipeline/numerar-notas.py` com a ordem nova para renumerar e reescrever os wikilinks.
+
+### `16 - O Relógio do Mundo.md` — resolve L1 e L2
+Posição de leitura sugerida: **logo depois do Atlas e antes de "Escala, Distâncias e Viagem"**
+(posição 6 na ordem nova). O Atlas diz onde o grupo está; esta nota diz quando e com que tempo.
+Cobre: o céu ordinário (sol, lua, estrelas, fases) e a costura com os dois céus; o calendário
+(meses, data corrente, calendário regional, ausência de ano numerado, eras com nome de Venerável,
+Ano Novo e a idade coletiva, calendário institucional de meio e fim de ano); as três escalas de
+duração (hora / sopro / vareta de incenso) e o vigia noturno como relógio público; dia e noite
+(perigo por falta de luz, Gu de visão noturna, "de dia se luta, de noite se conspira"); as quatro
+estações, o clima regional permanente, o zoneamento vertical de montanha e a estação mudando o que
+o terreno produz; quem controla o clima; e a regra de tom mais forte do achado — **quase todo
+desastre deste mundo tem culpado**.
+
+### `17 - As Plantas e os Bichos Comuns.md` — resolve L3
+Posição de leitura sugerida: **imediatamente antes de "Bestas Gu e Reis Fera"** (posição 8 na
+ordem nova). É a metade não-mágica da natureza, e prepara a metade mágica.
+Cobre: a regra "bicho não é Gu" com a citação decisiva; o aviso de que muita "erva" da obra é um Gu;
+plantas comuns nomeadas e a grama-zarabatana como planta-que-vira-dinheiro-e-gera-Gu; a escada de
+grau das plantas `(ded.)` e as três plantas de topo (árvore-bruma-das-mil-serpentes, Árvore dos Mil
+Desejos, girassóis-de-rosto-fantasma); agricultura real e a **regra social** de que plantar é
+trabalho de mortal de fora; os Gu de rank 1 que produzem comida e por que isso explica a estrutura
+social; fauna comum e comportamento animal utilizável como regra de rastreamento; a tabela de
+montarias; rebanho, couro e a especialização de criação por terreno; e a regra de que **todo ser
+vivo precisa comer, imortais inclusive**.
+
+### `18 - O Selvagem, as Ruínas e as Zonas Proibidas.md` — resolve L8 e o item "seguro × selvagem"
+Posição de leitura sugerida: **imediatamente depois de "Bestas Gu e Reis Fera"** (posição 10 na
+ordem nova). Fecha o movimento "o que existe fora dos muros".
+Cobre: o selvagem como padrão do mapa e o assentamento como exceção; a régua **rank 3 para sair,
+rank 4 para andar sozinho**, com a tabela de classes de mobilidade; a estrada como lugar; a
+fronteira do seguro que recua durante uma maré de bestas; a ausência de cartografia pública e os
+códigos idiossincráticos dos mapas de caçador; **os cinco sentidos de zona proibida**
+(institucional, ecológica, política, fabricada, cósmica) com exemplo mecânico de cada; e a seção
+sobre por que uma ruína continua perigosa — o qi de rancor como substância interrogável, o acúmulo
+de morte atraindo raios, a ruína que gera população própria, e batalhas imortais que apagam
+acidentes geográficos deixando os nomes órfãos.
+
+### Ordem de leitura completa proposta para a pasta
+
+1. Visão Geral do Mundo · 2. A Filosofia do Mundo · 3. As Duas Eras de um Mestre Gu ·
+4. As Cinco Regiões · 5. Atlas das Cinco Regiões · **6. O Relógio do Mundo** ·
+7. Escala, Distâncias e Viagem · **8. As Plantas e os Bichos Comuns** · 9. Bestas Gu e Reis Fera ·
+**10. O Selvagem, as Ruínas e as Zonas Proibidas** · 11. Lendas de Ren Zu ·
+12. Blessed Lands e Grotto-Heavens · 13. Viver Dentro da Abertura Imortal · 14. Vontade dos Céus ·
+15. Fate Gu · 16. Cosmologia · 17. Lugares Fora das Cinco Regiões · 18. Tribunal Celestial.
+
+`01 - Visão Geral do Mundo.md` **já foi atualizada** com as três notas novas na tabela "Mapa da
+pasta" e no texto da sugestão de ordem de leitura, usando os nomes de arquivo atuais.
 
 ## Decisões tomadas
 

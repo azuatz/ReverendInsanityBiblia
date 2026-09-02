@@ -658,7 +658,431 @@ ambientação, mão de obra, tropa ou vítima.
   formação antiga e a revelação sobre uma abertura imortal específica.
 - **Lacunas:** a obra nunca descreve o fundo do Earth Trench — ninguém jamais chegou lá.
 
+### A armadilha de Yi Tian Mountain — a fase imortal — caps. 967-971 e 998-1021
+
+- **Tipo:** emboscada em massa contra a elite imortal de uma região inteira, dentro de um campo
+  de batalha selado, sob chuva de tribulações. É o evento mais próximo de um "incidente" no
+  sentido de mesa: um lugar, uma noite, todo mundo dentro, e as regras do mundo virando do
+  avesso.
+- **Onde:** ao redor de **Yi Tian Mountain** (Southern Border), a dez mil li do cume — a
+  distância mínima que a zona proibida a imortais permite. Todos os Gu Immortals apostadores da
+  disputa mortal (ver a entrada do "gambling contest") estão acampados exatamente ali, parados,
+  esperando o resultado.
+- **Escala:** a elite imortal de uma região inteira num só lugar — **quatro rank 8, nove rank 7
+  e mais de dez rank 6**, mais os mortais dentro da zona proibida.
+- **Gatilho / causa mecânica (duas camadas):**
+  1. **Chuva de tribulações.** Do céu começam a cair provações em série — a primeira delas uma
+     versão monstruosa de uma tribulação conhecida (a "thousand pearl-light tribulation" tem,
+     pelo nome, mil pérolas de luz; a que cai tem **cem mil**). Ninguém sabe quem está sendo
+     provado. Pela cláusula do contrato de apostas, **se aparece uma ameaça, todos os
+     apostadores se unem para bloqueá-la** — então a elite inteira, inimiga entre si, passa a
+     defender coletivamente o mesmo pedaço de céu, e ainda **puxa camadas de nuvem** para que os
+     mortais lá embaixo não percebam nada. Ficam presos ao lugar: sair seria abandonar a aposta.
+  2. **A armadilha.** Enquanto todos estão ocupados servindo de para-raios, uma organização
+     oculta ativa em volta deles uma **Gu formation gigantesca** que os prende. É a **"ten
+     extreme immortal zombie lifeless formation"**. Detalhe mecânico central: montada apenas em
+     parte, ela **não chega a um décimo da própria força**, e as tribulações que caem a
+     **desgastam continuamente** — ela não duraria. Para completá-la, vários Gu Immortals da
+     organização **sacrificam a própria alma**, fundindo-a na formação, que salta para **noventa
+     por cento** da potência. A partir daí não há mais fuga.
+- **Regras especiais do local:** a zona proibida a imortais continua valendo (ninguém pode
+  descer à montanha); as tribulações caem sobre **todos**, aliados e inimigos, e não distinguem
+  lados — o texto descreve rank 7 sendo carregados "como jangadas em mar revolto", sem controle
+  da própria situação. Uma formação controlada por pessoas é explicitamente **mais flexível**
+  do que um battlefield killer move fixo, e é isso que a faz aguentar as tribulações.
+- **Fases:** (1) chuva de tribulações e defesa coletiva improvisada; (2) caça interna — todos
+  se acusam de estar escondendo o parente que está ascendendo e usando os outros de escudo;
+  (3) selamento pela formação; (4) sacrifício de almas e formação a 90%; (5) inimigos mortais
+  **abandonam suas rixas e cooperam** para tentar romper; (6) muito depois (caps. 998-1021), o
+  lugar reúne de novo **três facções** de escala continental ao mesmo tempo, com Immortal Gu
+  Houses em campo e uma **grande tribulação** (grand tribulation, acima do nível das "dez
+  grandes catástrofes") caindo sobre o campo de batalha inteiro.
+- **Papel possível de um grupo pequeno:** o cenário é feito para grupos de rank 6 ou 7 que não
+  decidem nada, mas precisam **sobreviver e escolher lados** dentro de um selo, com tribulações
+  caindo, um plano alheio em curso e a certeza de que quem ficou parado morre. Também rende o
+  contraponto: os mortais na montanha, que só veem o céu ficar estranho porque alguém puxou
+  nuvens para escondê-los.
+- **Consequência para o mundo:** a elite imortal de uma região inteira é dizimada num único
+  lugar e numa única noite; o mundo imortal daquela região fica "em turbulência por décadas"
+  (frase textual). Um Immortal Gu House troca de dono e um immortal zombie rank 8 sai da prisão.
+- **Cuidado de spoiler:** fica de fora tudo o que importa dramaticamente — quem armou a
+  emboscada, o que a organização queria, quem estava ascendendo, quem morreu, e as revelações
+  de identidade das duas fases. O evento **funciona sem nada disso**: um exército de imortais
+  preso num selo enquanto o céu desaba é situação suficiente.
+- **Lacunas:** a obra não descreve a estrutura completa da formação nem quantos sobreviveram.
+
 ## Eventos recorrentes e institucionais
+
+### Refinement Path Convention (Convenção do Caminho do Refino) — caps. 828-859
+
+- **Tipo:** torneio/feira mundial de artesanato, com trégua universal. É o maior evento
+  institucional descrito na faixa e o mais fácil de pôr jogadores dentro.
+- **Onde:** **Central Continent**, a região mais forte do mundo. Não tem sede única: são
+  **centenas de locais de inscrição** espalhados, quase todos seitas médias ligadas às **dez
+  grandes seitas antigas** ou representantes delas. As rodadas acontecem simultaneamente em
+  vários desses locais.
+- **Periodicidade:** **uma vez a cada cem anos**. Consequência social explícita: sem métodos
+  especiais de prolongar a vida, **a maioria dos Gu Masters participa uma única vez na vida**.
+- **Quem pode participar:** *qualquer um*. O cultivo de um Gu Master tem três facetas —
+  **nutrir, usar e refinar** — e basta ter perícia ou experiência na terceira. Não é evento
+  só de refinement path. Path reto e path demoníaco entram lado a lado; criminosos procurados
+  se inscrevem abertamente **sem risco de prisão durante o evento**; mortais e Gu Immortals
+  competem nas mesmas provas. A única regra absoluta é **não lutar e não matar** — só técnicas
+  de refino decidem.
+- **Por que o evento é assim tão aberto (o segredo por trás):** [segredo] a estrutura por trás
+  do Convention colhe os **fracassos** dos participantes. Cada tentativa fracassada de refino,
+  de qualquer competidor, em qualquer rodada, alimenta um mecanismo antigo que condensa
+  fracassos em **success dao marks**. Mais participantes = mais fracassos = mais colheita. Por
+  isso os organizadores impulsionam deliberadamente a escala e não filtram ninguém.
+- **Como se entra:**
+  - **Quatro tarefas de entrada** (four entry tasks): provas básicas de refino, iguais para
+    todos naquela edição, feitas ali na hora. Servem só para barrar incompetentes — qualquer
+    Gu Master com alguma experiência passa. Exemplo real de tarefa: refinar um Gu específico
+    cujo antepenúltimo passo exige entrelaçar cem hastes de uma erva com cem fios de outra
+    **em trinta respirações**; passou disso, o fogo do refino incinera tudo.
+  - **Inscrição:** paga-se **100 primeval stones** e recebe-se um **token**. Os dados são
+    deliberadamente flexíveis: nome pode ser inventado, seita e path podem ser omitidos. Só o
+    token importa; perdê-lo é ficar de fora até conseguir outro.
+  - **Vagas automáticas:** seitas e indivíduos que se colocaram bem na edição anterior (cem
+    anos antes) recebem vagas sem prova — mas **só de Central Continent** (favoritismo regional
+    declarado). Uma seita pequena que ficou perto do fim da lista ganhou **três vagas**
+    (1 discípulo, 1 elder, 1 elder externo), disputadas internamente por competição de refino.
+- **Estrutura da competição:**
+  - **Rodadas eliminatórias sucessivas**, cada uma com uma tarefa de refino específica e um
+    corte por **quantidade ou por tempo**. Recompensas em camadas: quanto maior a meta batida,
+    melhor o prêmio.
+  - Regra decisiva para mesa: **primeiro a chegar, primeiro a servir**. Só os **três primeiros**
+    a bater cada meta levam 1º, 2º e 3º lugar — desempenho posterior **não conta**, mesmo que
+    seja superior. Velocidade vale tanto quanto qualidade.
+  - **A partir da 8ª rodada** o formato muda: cada local de prova produz **um único vencedor**
+    (eliminação direta), e trocar de local significa abandonar a posição já acumulada.
+  - Ainda na 8ª rodada em diante, cada competidor recebe **uma "chance de remoção"** por
+    rodada: pode obrigar o adversário a revelar e entregar **um material de refino específico**
+    dele — mesmo já escondido ou secretamente usado. Recusar implica revista completa, o que
+    arruinaria a reputação em público.
+  - Há uma competição **de grande escala** (as cinco regiões juntas, com eliminatórias
+    regionais antes da final) e competições **de pequena escala** (uma por região) e até
+    disputas informais entre amigos.
+- **Formatos de disputa paralelos (paralelos ao torneio, e ótimos para mesa):**
+  **sect contests** (times equivalentes resolvendo conflitos entre seitas), **duels** (desafio
+  individual, com a aposta acordada pelos dois lados; um lado pode ceder ao outro a escolha da
+  tarefa como desvantagem deliberada), **task contests** (um lado propõe um problema difícil,
+  o outro tenta resolver) e **arena contests** (um perito monta a arena e a aposta, e
+  desafiantes apostam também). Podem ser **abertas** (com público) ou **privadas** (sem público
+  e sem divulgar o resultado). Nas abertas de grande escala, **espectadores são proibidos de
+  usar qualquer Gu** durante a observação.
+- **Economia paralela:** existe em Central Continent um **mercado legítimo de corretores de
+  informação** que vende abertamente enunciados vazados de edições passadas, rankings e
+  previsões (exemplos: 50 pedras por um "shadow image Gu" com o ranking dos cem primeiros; 10
+  pedras por fofoca política). Competidores sérios treinam **décadas** em cima desses
+  enunciados; um caso registrado fala em **80+ anos** de treino antecipado. Apostas em duelos
+  são precedidas de espionagem sobre **de que material o adversário está precisando**, para
+  montar a aposta mais tentadora possível.
+- **Prêmios:** crescem por rodada — primeiro materiais e Gu mortais de rank crescente; nas
+  rodadas finais, **immortal essence stones, materiais imortais, receitas de Immortal Gu e até
+  immortal killer moves** para o primeiro lugar. E o prêmio máximo: os **seis primeiros
+  colocados** recebem cada um **um success dao mark**, gravado no corpo ali mesmo. Um success
+  dao mark **elimina a chance natural e aleatória de falha** de um refino (não cobre erro de
+  técnica nem interferência externa), cobre **um Immortal Gu de até rank 6** e é
+  **absolutamente intransferível** — nunca foi extraído de ninguém à força, nem pela maior
+  potência do mundo. Quem quiser usá-lo só pode **contratar o próprio vencedor** para refinar
+  em seu nome.
+- **Hierarquia de perícia relevante ao evento:** ordinário → master → grandmaster → great
+  grandmaster → supreme grandmaster. Só **três pessoas em toda a história** chegaram ao topo.
+  Diferença de um *tier* inteiro é intransponível por preparação. Detalhe delicioso: Gu
+  Immortals escondem o próprio rank ao competir, porque **perder para um mortal acontece de
+  verdade** — o refino de Gu mortal é puramente técnico e não reflete a diferença de poder.
+- **Papel possível de um grupo pequeno:** o evento é feito sob medida para personagens
+  mortais de qualquer rank. O grupo se inscreve numa sede provinciana, atravessa as quatro
+  provas de entrada, sobe rodadas, é desafiado para duelos com aposta, negocia materiais,
+  compra enunciados no mercado cinza, e convive numa trégua forçada com criminosos famosos.
+  Nada disso exige poder de combate.
+- **Consequência para o mundo:** redistribui receitas, materiais e reputação em escala mundial
+  a cada século; e alimenta, sem que os participantes saibam, um projeto de uma potência
+  oculta.
+- **Cuidado de spoiler:** ficam de fora quem venceu a edição descrita, os duelos nominais entre
+  personagens da trama, e a identidade de quem colhe os fracassos e para quê.
+- **Lacunas:** a obra não dá o número total de rodadas de uma edição inteira, nem o calendário
+  detalhado, nem como as eliminatórias regionais se conectam à final.
+
+### Calamidades terrestres e tribulações celestiais (earthly calamities / heavenly tribulations) — caps. 809, 824-826, 1053-1057, 1096-1099, 1111-1113, 1164
+
+- **Tipo:** cataclismo periódico e privado — a "conta" que o céu cobra de todo Gu Immortal.
+  Não é um evento do mapa: acontece **dentro** da abertura imortal da vítima. Mas é o desastre
+  mais frequente do mundo imortal e o melhor cenário fechado da faixa.
+- **Os quatro graus de provação, em ordem crescente de força:** **earthly calamity**
+  (calamidade terrestre) → **heavenly tribulation** (tribulação celestial) → **grand
+  tribulation** (grande tribulação) → **myriad tribulation** (miríade de tribulações, apelidada
+  no mundo de "myriad tribulations apocalípticas").
+- **Calendário completo por rank (dado numérico direto, cap. 1007):**
+
+  | Rank | Essência imortal | Calamidade terrestre | Tribulação celestial | Grande tribulação | Miríade | Avanço de rank |
+  |---|---|---|---|---|---|---|
+  | 6 | green grape (uva verde) | a cada 10 anos | a cada 100 anos | — | — | após 300 anos / 3 tribulações celestiais → rank 7 |
+  | 7 | red date (tâmara vermelha) | a cada 10 anos | a cada 50 anos | a cada 100 anos | — | após 300 anos → rank 8 |
+  | 8 | white litchi (lichia branca) | — | a cada 10 anos | a cada 50 anos | a cada 100 anos | após 3 miríades → rank 9 |
+
+  Em toda a história da humanidade **apenas dez pessoas passaram por três miríades de
+  tribulações — os dez Veneráveis**. Sobreviver a uma única miríade já é glória mundial.
+  Casos anômalos aceleram brutalmente o relógio: um corpo "que desafia o céu" pode receber
+  **uma calamidade a cada dois meses**.
+- **A saída extrema e seu preço (cap. 1007):** é possível pagar uma fortuna para **remover por
+  completo o tributário do Rio do Tempo** da própria abertura imortal. O tempo interno para,
+  e **as calamidades deixam de chegar**. Em troca, a abertura **para de produzir immortal
+  essence** e, sem provações, os dao marks do dono não aumentam: o cultivo congela junto.
+  Métodos de time path que apenas *pausam* têm limite de duração e custo crescente. Mesmo
+  assim, **a maioria dos Gu Immortals do mundo atual usa time path para desacelerar** a própria
+  abertura — e os rank 8 de uma certa potência passam o tempo normal **hibernando**, que é
+  descrito como um dos melhores métodos de desaceleração existentes.
+- **Causa mecânica (a regra que governa tudo):** "o caminho do céu tira dos excedentes e repõe
+  aos deficientes, com ênfase no equilíbrio". **Quanto mais rica e profunda a fundação de uma
+  abertura imortal, mais forte a calamidade que ela atrai.** Prosperar é perigoso.
+- **Contramedidas conhecidas (ótimas como decisões de jogadores):**
+  - **Empobrecer-se temporariamente:** mover os recursos mais preciosos para a abertura de um
+    aliado antes da data, para atrair uma calamidade mais fraca.
+  - **Elevar a própria sorte** com métodos de luck path: quanto maior a sorte pessoal, mais
+    branda a calamidade.
+  - **Desacelerar o tempo interno** da própria abertura com métodos de time path — as
+    calamidades ficam mais raras, mas **a produção de recursos cai na mesma proporção**. Trocar
+    crescimento por segurança é uma decisão econômica explícita, e o serviço é **contratado de
+    especialistas**, não improvisado.
+  - **"Pôr a abertura para fora"** (procedimento padrão): o corpo do Gu Immortal é puxado para
+    dentro; a abertura ocupa um ponto físico do mundo externo e fica invisível. Enquanto isso
+    ele **não pode sair** — é como um land spirit dentro do próprio mundo —, mas a abertura
+    **suga qi do céu-e-terra externo** para se estabilizar (em três fases decrescentes:
+    cachoeira, grande rio, riacho, até o "apetite" se esgotar), e o tempo interno **desacelera
+    temporariamente para quase 1:1** com o exterior.
+  - **Aviso prévio:** toda calamidade dá um pressentimento sensorial universal, sentido por
+    qualquer Gu Immortal — a comparação do texto é com animais que sentem o terremoto chegando.
+- **Ambiente por dentro (como rodar uma na mesa):** a calamidade se manifesta como um
+  **desastre ambiental temático** que ataca justamente o maior trunfo da terra, e vem em
+  **ondas**. Exemplos completos registrados:
+  - **Blood Poison Kerria** (caps. 824-826): flores gigantes do tamanho de um rosto, com umas
+    cem pétalas em seis ou mais camadas, brotando explosivamente pela terra inteira; o ciclo de
+    brotar-a-murchar dura **dez respirações**, e ao murchar viram poça de sangue venenoso que
+    contamina o solo e mata em larga escala. Só técnicas de wood path lidam com as flores em
+    si; qualquer outro método de destruição **também** gera o veneno. A limpeza exige remover
+    fisicamente a camada superficial de solo em poucos dias, antes que apodreça e contamine o
+    resto.
+  - **Nevasca com snow monsters** (caps. 1053-1057): a nevasca é o meio de nutrição. Os
+    monstros têm um **núcleo oculto**; feridas comuns cicatrizam na hora. O tamanho dá o tier:
+    10-20 pés = trivial; 60 pés = nível desolate beast (rank 6); 70 pés = ancient desolate
+    (rank 7). E há a regra hidra: **matar um grande o estilhaça em vários menores**, que
+    **crescem com o tempo** enquanto a nevasca durar — mas abaixo de dez pés a cadeia termina.
+    Suprimir localmente a nevasca desacelera o crescimento, e a nevasca **responde
+    intensificando-se** e destrói a supressão. Ondas posteriores trazem criaturas de neve
+    específicas (águias, grous em grupo de nove, um morcego de space path que distorce o espaço
+    a ponto de um passo custar centenas e que pode **estilhaçar as paredes da própria abertura**
+    se não for contido).
+  - **Wind Flower Snow Moon** (caps. 1096-1099) e uma calamidade em que **a ordem das duas
+    metades foi invertida** deliberadamente pelo céu (caps. 1111-1113) — o sistema não é
+    previsível nem justo.
+- **Regra especial importante:** **battlefield killer moves de nível imortal não podem ser
+  usadas dentro da própria abertura** (os dao marks colidem e danificam a terra); só as de
+  nível mortal, que carregam poucos dao marks, são seguras. Isso fecha a saída óbvia de
+  "prender os monstros num campo de batalha".
+- **Prêmio:** sobreviver rende **dao marks novos e temáticos**, que remodelam o ecossistema da
+  abertura e habilitam recursos melhores. Registro concreto de uma terra que começou sem água
+  e sem vento: calamidades sucessivas trouxeram dao marks de madeira e terra (ervas e flores
+  básicas), depois de fogo, depois de água, depois de sangue — e a de sangue habilitou gramas e
+  flores de rank 3, uma espécie nova de raposa criável, e a mutação espontânea de parte dos
+  peixes num tipo várias vezes mais valioso. "A boa sorte se esconde na má."
+- **Papel possível de um grupo pequeno:** os jogadores como a equipe que um Gu Immortal
+  contrata (ou escraviza) para atravessar a calamidade dentro da terra dele: conter as ondas,
+  salvar plantações e populações, remover solo contaminado sob prazo, caçar núcleos. Cenário
+  fechado, com relógio, ondas escalonadas e um patrono que **perde dinheiro a cada erro**.
+- **Consequência para o mundo:** estrutural e constante — é o mecanismo que impede que
+  riquezas se acumulem indefinidamente e que mata a maioria dos Gu Immortals.
+- **Cuidado de spoiler:** ficam de fora quem sobreviveu a quê e a razão específica pela qual um
+  personagem em particular é perseguido pelo céu.
+- **Lacunas:** a obra não dá a tabela completa de calamidades por rank acima de 6, nem como o
+  tipo de calamidade é sorteado.
+
+### Marés de bestas (beast tides) — caps. 850, 1034-1036, 1085-1089, 1093, 1138, 1183
+
+- **Tipo:** desastre natural regional; é o desastre-padrão que ameaça aldeias e clãs mortais.
+- **Gatilho / causa mecânica:** acúmulo excessivo de bestas selvagens na vizinhança de um
+  assentamento. Duas regras explícitas e muito úteis:
+  1. **Uma maré natural é de uma espécie só** — maré de lobos, maré de tigres. Uma maré em que
+     lobos, tigres, leopardos, touros, veados, raposas e cobras avançam **misturados e sem se
+     atacarem** é o sinal inequívoco de que **não é um desastre natural, é um desastre humano**
+     (cap. 1034).
+  2. É preciso **haver população de bestas suficiente** nos arredores para formar uma. Um clã
+     que acabou de sobreviver a uma maré há um ano sabe que **não há bestas bastantes** para
+     outra — anomalia que deve ser investigada.
+- **Periodicidade:** irregular; o texto registra clãs que enfrentam uma maré séria a cada
+  poucos anos e uma "de uma escala não vista em décadas" como marco de catástrofe.
+- **Defesa típica de um clã mortal (pronta para mesa):** **três camadas de defesa** ativadas em
+  sequência; uma **Gu formation ofensiva** operada pelos elders e pelas elites (no caso citado,
+  uma "heavenly fire Gu formation"); um **salão de medicina** com equipe médica mobilizada; e
+  uma **Gu formation de transporte** conferida com antecedência, para **evacuar os jovens** se
+  a muralha cair. Batedores de elite são enviados para procurar a *causa* enquanto a defesa se
+  arma.
+- **Escala imortal — as fierce areas:** nas grandes zonas selvagens, uma maré de bestas não é
+  de bestas comuns: é de **desolate beasts e ancient desolate beasts**, com possibilidade de
+  atrair **immemorial desolate beasts**. Nessa escala, **nenhum Gu Immortal quer causar uma** —
+  o texto é explícito de que até um rank 8 precisa de cuidado, e que super forças evitam operar
+  nessas áreas exatamente por isso. Uma maré nesse nível arrasta quem estiver dentro como "uma
+  tábua flutuando em água revolta": não se luta contra ela, anda-se junto com ela.
+- **Uso como arma:** [segredo] uma maré de bestas pode ser **fabricada** — como cobertura para
+  um massacre, ou como ferramenta de caça: quando a vontade do céu (heaven's will) sabe a
+  região aproximada de um alvo mas não a posição exata, ela **provoca uma maré enorme para
+  varrer a área e expor o alvo**. Nesse caso a maré muda de direção conforme o alvo se move.
+- **Papel possível de um grupo pequeno:** o cerco de aldeia clássico, e a investigação que vem
+  junto — a maré errada é uma pista.
+- **Lacunas:** a obra não dá números de bestas nem duração típica.
+
+### Earth tide e a travessia das paredes regionais — caps. 818-819, 928, 987, 1042-1048
+
+- **Tipo:** fenômeno natural periódico que abre a única janela de viagem entre regiões.
+- **Regra de base:** as cinco regiões são separadas por **paredes regionais** (regional walls),
+  e atravessá-las é "extremamente difícil" para um Gu Immortal em condições normais. Cada
+  parede tem sua natureza e cor: a de Southern Border é a **miasma regional wall**
+  (púrpura-negra), a de Eastern Sea é a **blue water regional wall** (azul profunda). Dentro
+  da parede **não há criaturas nem obstáculos** — a parede *é* o obstáculo. Efeito curioso e
+  aproveitável: ao atravessar, **a aura regional do viajante muda sozinha** — a aura da região
+  de origem enfraquece e a da região de destino se fortalece, sem killer move nenhum.
+- **Quem passa e quem não passa:** **desolate beasts, ancient e immemorial desolate beasts
+  quase não conseguem sair da própria região** — eles carregam a essência dela, e as paredes
+  são grilhões para eles. **Bestas comuns, beast kings e bestas mutantes circulam livremente.**
+  A exceção são criaturas originárias dos **nove céus imemoriais**, que não pertencem a região
+  nenhuma e por isso ignoram as paredes.
+- **O evento:** **uma vez por ano**, uma **earth tide** (maré da terra) sobe do fundo do mar em
+  Eastern Sea, agita a água e **enfraquece e afina a parede regional** daquela região. É a
+  janela em que Gu Immortals de Central Continent, Northern Plains e Southern Border entram em
+  Eastern Sea — e alguns saem. (Os de Western Desert quase nunca aparecem: estão do outro lado
+  do mundo, separados pelas outras regiões, e um deles em Eastern Sea chama muita atenção.)
+- **Perigo e regra especial:** mesmo enfraquecida, a passagem é letal. A área fraca fica cheia
+  de **forças de maré sem forma** (formless tidal forces) que funcionam como recifes e vórtices
+  invisíveis; ser atingido por uma, no julgamento de uma personagem, faz "ossos quebrados serem
+  o menor dos problemas — é bem possível morrer violentamente na hora".
+- **A economia do evento (o gancho de mesa):** atravessar exige uma **rota mapeada com
+  precisão**. Idealmente deduzida por um Gu Immortal de wisdom path; sem isso, só por tentativa
+  e erro, pagando com vidas. Mapas de rota são **mercadoria valiosa**, negociáveis por pontos
+  de contribuição junto a super forças — e são **perecíveis**: depois de algumas earth tides as
+  forças de maré mudam e a rota velha não vale mais nada. Um viajante com rota própria **recusa
+  escolta** para não revelá-la.
+- **Papel possível de um grupo pequeno:** ser os cartógrafos. Vender travessias. Roubar mapas.
+  Ou simplesmente: a janela abre uma vez por ano, e o grupo precisa estar do lado certo antes
+  de ela fechar.
+- **Consequência para o mundo:** é o que faz o comércio, a migração e a espionagem entre
+  regiões existirem. Northern Plains, pobre em recursos e rica em guerras, exporta gente para
+  Eastern Sea a cada maré.
+- **Lacunas:** a obra não descreve a earth tide das outras quatro regiões, nem a duração exata
+  da janela.
+
+### Aberturas do Treasure Yellow Heaven — caps. 1032-1033, 1104
+
+- **Tipo:** mercado imortal transregional que **abre e fecha**, e cujas aberturas param o mundo
+  imortal.
+- **O que é:** um espaço de mercado acessado por consciência (via um Gu de conexão), onde Gu
+  Immortals das cinco regiões negociam **atravessando as paredes regionais** — o transporte
+  real é feito por um Gu mortal capaz de mandar objetos através das paredes, chamado no texto
+  de "Gu mortal supremo" por causa dessa capacidade.
+- **Mecânica de mercado (excelente para mesa):**
+  - Toda transação gera uma **coluna de luz visível** cuja **altura é proporcional ao valor**
+    do que foi negociado — e a **taxa de transporte é cobrada com base nessa altura**. Ou seja:
+    **não existe transação discreta**; negociar grande é anunciar publicamente que se negociou
+    grande.
+  - É um mercado **aberto**: dezenas de imortais percebem a coluna simultaneamente. Vender
+    material de rank 8 causa "comoção" e especulação generalizada; vender um Immortal Gu é raro
+    o bastante para virar notícia mundial.
+  - **Não existe moeda obrigatória**: as partes podem combinar pagar um Immortal Gu rank 7 com
+    uma pedra comum, porque o sistema só registra e taxa a *transação*, não o valor combinado.
+    Isto é, o mercado pode ser usado para **disfarçar** presentes, subornos e pagamentos.
+  - Fica **fechado por períodos** e a **reabertura** é um evento: todos os que esperavam
+    explodem em atividade ao mesmo tempo, e mensagens acumuladas chegam de uma vez.
+- **Quem fica de fora:** mundos isolados (grotto-heavens fechados) **não conseguem se conectar**
+  — e o texto trata isso como uma condenação: sem o mercado, uma comunidade acumula quantidade
+  mas não variedade, os métodos ficam desatualizados e o conhecimento estagna.
+- **Papel possível de um grupo pequeno:** ninguém precisa lutar. Um grupo pode viver de
+  arbitragem entre regiões, de encomendas, de descobrir quem vendeu o quê pela altura da
+  coluna de luz, ou de ser o intermediário que um cliente rico usa para não aparecer.
+- **Lacunas:** a obra não explica o que determina quando o mercado abre e fecha.
+
+### Sucessão do rei dos feathermen — torneio de arena — cap. 864
+
+- **Tipo:** torneio institucional de sucessão, em escala mortal.
+- **Onde:** **Sacred Feather City**, a cidade flutuante dos feathermen.
+- **Gatilho:** a morte do rei. Pelo costume do povo, o novo rei é **escolhido em combate**.
+- **Regras (curtas e completas, prontas para uso):**
+  1. Para ser **candidato**, é preciso ser **reconhecido pela maioria dos cidadãos** — e o
+     critério declarado é **reputação de boas ações e serviços prestados à cidade**, não força.
+     O povo não quer um tirano, quer um herói compassivo.
+  2. Os candidatos aprovados lutam em **combates de arena**, diante de **dezenas de milhares**
+     de espectadores, até a final.
+  3. Existe uma trava institucional: **três supreme elders Gu Immortals** do povo, que
+     controlam a situação caso um cruel vença mesmo assim.
+- **Observação de mesa:** os finalistas descritos são **rank 5** (o teto mortal) e o combate é
+  puramente de Gu Masters; o público torce em coro, e a narrativa da cidade sobre quem "parece
+  um rei" pesa tanto quanto o resultado. É um evento inteiro rodável sem nenhum imortal em cena.
+- **Lacunas:** a obra não descreve o processo de endosso popular em detalhe nem a periodicidade
+  (é por morte do rei, não por calendário).
+
+### As dez grandes áreas ferozes de Northern Plains (ten great fierce areas) — caps. 781, 1085-1091, 1173-1176
+
+- **Tipo:** zonas de perigo permanentes; não são um evento com data, mas são o motor de
+  incontáveis expedições e o único lugar onde ainda há o que pegar.
+- **Regra de mundo que as justifica (cap. 1085):** "Northern Plains é vasta, mas as grandes
+  forças e super forças **já dividiram entre si todos os recursos de cultivo** da região. O que
+  restou foram, principalmente, as dez grandes áreas ferozes." Ou seja: **num mundo já
+  repartido, a fronteira é o que é perigoso demais para ser repartido.**
+- **Característica comum:** habitadas por desolate beasts e ancient desolate beasts em massa,
+  com immemorial desolate beasts nas profundezas. **A aura de um Gu Immortal provoca as
+  feras**; mortais passam despercebidos. Qualquer combate de escala mínima ali dentro
+  desencadeia uma maré de bestas — e a maré, sendo perceptível de longe, **denuncia quem está
+  lá**. Consequência estratégica explícita: nem super forças querem montar base dentro delas.
+- **Exemplos descritos na faixa:**
+  - **Tai Qiu**: selva primitiva de **grama gigante** (um talo equivale a uma árvore centenária).
+    Foi usada como terreno de herança justamente porque só mortais atravessam. Existe um **mapa
+    detalhado de Tai Qiu**, fruto de viagens repetidas de um grande imortal somadas a deduções
+    de terceiros — um item de campanha por si só.
+  - **Earth Trench** (ver entrada própria em "Eventos únicos").
+  - **Crazed Demon Cave** (caps. 1173-1176): [segredo] é uma área feroz **apenas na aparência**.
+    Foi **construída de propósito** por um dos rank 9 Veneráveis nos últimos anos de vida, para
+    perseguir o segredo da vida eterna. Estrutura em **nove camadas**: (1) floresta tropical com
+    desolate beasts; (2) terreno de rochas incandescentes; (3) névoa perpétua produzida por
+    bambu-nuvem em larga escala, contendo a **Fog City**, cidade formada por almas vingativas de
+    Gu Immortals mortos — entrar é morte quase certa; camadas seguintes progressivamente
+    piores. Os **três eremitas** que moram lá há séculos **não ousam entrar nas três últimas
+    camadas**. Os "sons demoníacos" que dão nome ao lugar são **efeito colateral** de uma
+    super Gu formation montada em torno de um Gu lendário na camada mais funda: o objetivo do
+    Venerável não era enlouquecer ninguém, era **transformar e misturar dao marks** de seres
+    vivos em busca de dao marks nunca vistos, como material de pesquisa.
+- **Papel possível de um grupo pequeno:** as áreas ferozes são a resposta da obra para "onde um
+  grupo fraco vai buscar fortuna num mundo já dividido". A profundidade é o dial de
+  dificuldade; a superfície é acessível e já perigosa; guias locais e mapas são o recurso mais
+  caro.
+- **Lacunas:** a obra não lista as dez áreas; nomeia apenas algumas.
+
+### Turbulent flow sea area — zona de encontros fortuitos — caps. 1150-1159
+
+- **Tipo:** zona de perigo e tesouro permanente, em escala imortal; o equivalente marítimo das
+  áreas ferozes.
+- **Onde:** Eastern Sea, perto da parede regional daquela região.
+- **Como se formou:** acúmulo de **dao marks de batalhas históricas intensas** entre muitos Gu
+  Immortals de rank 6 e 7. Superfície aparentemente calma, correntes caóticas por baixo, e
+  **nuvens permanentes** que impedem orientação por sol ou estrelas.
+- **Ambiente por dentro (um dos cenários mais vistosos da faixa):** múltiplas **correntes**,
+  cada uma feita de um material vindo de um lugar diferente do mundo — água do rio dos mortos,
+  água de mil ilusões (que exige wisdom path para atravessar), uma corrente de **magma** vinda
+  de uma cratera do Western Desert que entra em erupção a cada cem anos, água de almas negras
+  carregada de dao marks de soul path e dark path, uma corrente de fragmentos de ouro que
+  sobrou de um rio celestial de um dos nove céus imemoriais, e uma corrente de água-relâmpago.
+  Onde as correntes colidem e se equilibram formam-se **"olhos de furacão"** (espaços vazios
+  temporários, onde dá para descansar) e **"bolhas"** — cada bolha contendo um **mundo
+  fragmentado inteiro**, com ilhas, ruínas e heranças.
+- **Por que se vai lá:** atrai caçadores de "fortuitous encounters" das cinco regiões, porque
+  historicamente guarda heranças e riquezas de Gu Immortals mortos ali.
+- **Sociedade local:** existe um circuito social de imortais solitários que **organiza leilões
+  privados** entre si — mercado paralelo ao mercado aberto, com acesso por indicação, e onde se
+  usa **Gu de longevidade como moeda**. Grupos veteranos abordam recém-chegados oferecendo
+  acesso à rede em troca de ajuda em buscas de longo prazo (uma delas dura mais de dez anos e,
+  por natureza, "não depende de cultivo, depende de sorte").
+- **Papel possível de um grupo pequeno:** navegação por correntes hostis, cada uma exigindo um
+  path diferente para ser atravessada com segurança; bolhas como mini-cenários auto-contidos;
+  e uma rede social de exploradores para dar missões e comprar informação.
+- **Lacunas:** a obra não mapeia a zona nem diz quantas bolhas existem.
 
 ## Eventos históricos citados
 

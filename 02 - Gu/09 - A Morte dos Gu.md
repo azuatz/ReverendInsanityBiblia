@@ -9,7 +9,7 @@ aliases:
   - Gu Injury
   - Ferimento de Gu
 status: consolidado
-fontes: ["cap. 17", "cap. 30", "cap. 40", "cap. 106", "cap. 121", "cap. 165", "cap. 177", "cap. 183", "cap. 188", "cap. 210", "cap. 211", "cap. 304", "cap. 326", "cap. 352", "cap. 389", "cap. 410", "cap. 431", "cap. 445", "cap. 465", "cap. 494", "cap. 513", "cap. 544", "cap. 567", "cap. 568", "cap. 586", "cap. 671", "cap. 735", "cap. 956", "cap. 995", "cap. 1054", "cap. 1103", "cap. 1128", "cap. 1129", "cap. 1273", "cap. 1299", "cap. 1376", "cap. 1441", "cap. 1457", "cap. 1477", "cap. 1481", "cap. 1795", "cap. 1842", "cap. 1862", "cap. 1925", "cap. 2077"]
+fontes: ["cap. 17", "cap. 30", "cap. 40", "cap. 106", "cap. 121", "cap. 165", "cap. 177", "cap. 183", "cap. 188", "cap. 210", "cap. 211", "cap. 304", "cap. 326", "cap. 352", "cap. 389", "cap. 410", "cap. 431", "cap. 445", "cap. 465", "cap. 494", "cap. 513", "cap. 544", "cap. 567", "cap. 568", "cap. 586", "cap. 671", "cap. 735", "cap. 956", "cap. 995", "cap. 1054", "cap. 1103", "cap. 1128", "cap. 1129", "cap. 1273", "cap. 1299", "cap. 1376", "cap. 1441", "cap. 1457", "cap. 1477", "cap. 1481", "cap. 1795", "cap. 1842", "cap. 1862", "cap. 1925", "cap. 2077", "cap. 2122", "cap. 2124"]
 conhecimento: comum
 ---
 
@@ -193,7 +193,22 @@ sorte cujo efeito é o autossacrifício genuíno, e que só aceita ser subjugado
 fato, coração de sacrifício. Tentar subjugá-lo à força gera backlash ou a **autodestruição
 fatal do próprio Gu**.
 
-### 9. Ataques que matam Gu diretamente
+### 9. O Gu falso que se autodetona
+
+Esta não é a morte de um Gu — é a morte do **dinheiro** de quem comprou um, e a obra a
+descreve como um evento de mercado, não de combate. Existem Gu falsificados
+indistinguíveis dos verdadeiros, que **funcionam com o mesmo efeito** quando acionados e
+que, passado algum tempo, se denunciam e **se autodetonam**, deixando o comprador com
+prejuízo total. Foram fabricados por um mestre do caminho do refino e despejados no mercado
+de um clã como sabotagem política. Ver [[14 - Qualidade e Fraude|Qualidade e Fraude]].
+
+Vale ao lado disso a modalidade irmã, que não mata o Gu mas obriga a matá-lo: o **Gu
+adulterado** que continua funcionando enquanto trai o dono. Um fugitivo percebeu, em plena
+perseguição, que seu Gu de movimento havia sido adulterado, e o soltou para longe — perdendo
+a mobilidade para não ser rastreado. Um Gu comprometido custa a função inteira que ele
+cobria.
+
+### 10. Ataques que matam Gu diretamente
 
 Há golpes desenhados para atacar o arsenal em vez do corpo. O exemplo mais completo vem do
 caminho da comida: existem golpes que **atravessam a proteção estrutural de uma Casa de Gu
@@ -347,4 +362,6 @@ Ver [[11 - Economia Imortal|Economia Imortal]] e [[02 - Pedras Primordiais|Pedra
 - [[12 - Gu Imortais|Gu Imortais]] — a vontade embutida que destrói o Gu em vez de entregá-lo.
 - [[10 - Espólio de Gu|Espólio de Gu]] — a autodestruição comandada e o que sobra para saquear.
 - [[11 - Economia Imortal|Economia Imortal]] — a escala de valor do que se perde.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — por que guardar fora da abertura mata, e o que rompe uma abertura por dentro.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — o Gu ferido e o faminto vistos pelo lado do preço, e as mortes causadas por fraude.
 - [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] — o resumo e as regras gerais do domínio.

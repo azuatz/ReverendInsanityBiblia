@@ -83,6 +83,21 @@ dinheiro está queimando dez mil unidades de moeda por conta de essência que us
 exatamente por isso que os cultivadores mais poderosos do mundo **preferem escambo** —
 bens por bens — a transações monetárias: a taxa de conversão para eles é péssima.
 
+E a preferência não é uma tendência: é o funcionamento normal do mercado. **Nove em cada
+dez transações da praça de comércio imortal são escambo puro**; a décima é uma super força
+comprando pedras de essência imortal a preço alto, justamente porque elas são escassas por
+decisão política de quem as emite. A moeda existe, circula e serve de unidade de conta —
+mas a maior parte do comércio do topo do mundo acontece **trocando coisa por coisa**, do
+jeito mais antigo que existe.
+
+> [!note] Para o design
+> Uma economia de topo que roda em escambo resolve sozinha o problema que trava qualquer
+> campanha de alto nível: o dinheiro deixa de ser um número que cresce sem limite e volta
+> a ser um problema de **compatibilidade de desejos**. Para comprar, não basta ser rico:
+> é preciso ter exatamente aquilo de que o vendedor precisa. Isso transforma toda
+> negociação de alto nível numa cena de investigação — descobrir o que o outro quer é
+> metade do preço.
+
 Para calibrar a escala: uma pedra de essência imortal vale mais de cem milhões de pedras
 primordials. Um cultivador imortal pode ter bilhões de pedras primordiais guardadas e **zero**
 pedras de essência imortal — e não conseguir comprar sequer os recursos básicos do próprio
@@ -467,6 +482,11 @@ destruiu o próprio mercado.**
 
 - [[01 - Visão Geral da Economia|Visão Geral da Economia]] — o quadro geral e a ponte com a economia mortal.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a moeda que esta substitui a partir do rank 6.
+- [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — o que os pontos de recurso produzem, e quem compra.
+- [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — o crédito e os contratos, comparados com os do mundo
+  mortal.
+- [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o mercado negro de revenda e a extorsão como
+  modelo de negócio.
 - [[05 - Mercados e Leilões|Mercados e Leilões]] — as regras de mercado do lado mortal e o leilão de artefatos.
 - [[12 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o lado da produção: como um ponto de recurso
   converte enxames comuns em Gu, e por que comprar é a opção secundária.

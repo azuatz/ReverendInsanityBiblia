@@ -100,7 +100,7 @@ A referência mais útil para calibrar tudo o mais:
 | Cinco meses de vida de uma família mortal de três pessoas | 5 pedras | mortal |
 | Um javali de caça | meia pedra | mortal |
 | Um jarro do melhor vinho da região | 2 pedras (= 2 meses de despesas de uma família mortal) | mortal |
-| Entrada numa cidade grande | 1 a 10 pedras por pessoa | Mestre Gu (para o mortal, é uma barreira, não um preço) |
+| Entrada numa cidade, por pessoa | 1 pedra numa cidade pequena; 10 no anel externo de uma cidade grande; 100, 200 e 600 nos anéis internos | Mestre Gu (para o mortal, é uma barreira, não um preço) |
 | Aluguel de um imóvel modesto | 8 a 25 pedras por mês | Mestre Gu |
 | Mensalidade de uma "pensão" de Gu | 80 pedras | Mestre Gu |
 | Um dia de vida de um Mestre Gu iniciante | 3 a 5 pedras | Mestre Gu |
@@ -190,13 +190,28 @@ cidade-mercado inteira foi uma receita, não um item. Ver [[05 - Mercados e Leil
 
 ## Preços de referência para uma mesa
 
-> [!note] Esta nota é a fonte única de preços do vault
-> Os números abaixo são mantidos **aqui e só aqui**. Onde outra nota precisar de um preço,
-> ela deve apontar para esta em vez de repetir o valor — foi a duplicação à mão que
-> produziu as pequenas divergências que a revisão encontrou. Se você achar um preço em
-> outra nota que não bata com esta tabela, **esta tabela vence**. Para os números do
+> [!note] Onde moram os preços do vault
+> Esta nota guarda as **âncoras** — a dúzia de números que calibram todo o resto. O
+> **catálogo completo**, com mais de cem preços organizados por categoria, as tabelas de
+> renda, a curva de inflação de um insumo durante uma crise e o custo de vida por
+> patamar, está em [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — é lá que você vai quando precisar
+> montar uma planilha, e as duas notas não se contradizem porque a de lá foi montada a
+> partir desta.
+>
+> Onde qualquer nota da pasta divergir de [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], **a de lá vence**, por
+> ser a mais completa e a mais recentemente conferida contra o texto. Para os números do
 > sistema de cultivo (aptidão, ranks, dao marks, refino), a soberana é outra:
 > [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
+
+> [!warning] Preço de compra e preço de venda não são o mesmo número
+> A confusão mais fácil de cometer com os números da obra. Uma loja **compra** um Gu comum
+> de rank 1 por cerca de 250 pedras e o **revende** por cerca de 500. Os dois valores estão
+> no texto e não se contradizem: são as duas pontas do mesmo balcão, e o comerciante vive
+> da diferença.
+>
+> Regra prática: todas as tabelas desta pasta são **preços de varejo**, o que o personagem
+> paga. Quando ele for vender numa loja, use metade. `(ded.)` a generalização da metade
+> para todas as categorias é nossa; o par 250/500 é da obra.
 
 Alguns números documentados, úteis como âncoras ao improvisar. **Todos os preços desta
 tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto:
@@ -247,6 +262,14 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   > de grandeza acima, e um cativo com habilidade útil ou uma raça variante controlável vai
   > além disso. Se você precisa de um número para um resgate, uma indenização ou um NPC
   > capturado, use a faixa de varejo e não o piso.
+- **Dinheiro tem volume, e isso limita o que se pode carregar.** Cada pedra tem o tamanho
+  de um ovo de pato; um saco de mão comporta cerca de cem, e dez mil pedras são carga para
+  vários carregadores. Por isso a capacidade do Gu de armazenamento é, na prática, o teto
+  de quanto um personagem consegue movimentar: um Gu de armazenamento comum de rank 3
+  guarda **30.000 pedras**, e o Gu especializado em dinheiro — uma esfera translúcida com
+  a imagem de um velho feito de nuvens dentro, cuja **expressão muda conforme o saldo** —
+  guarda **um milhão** e custa cerca de 6.600 em leilão. É o extrato bancário mais bonito
+  que um cenário de fantasia já teve.
 - **Crises monetizam-se sozinhas.** Quando uma emergência força todo mundo a cultivar ao
   mesmo tempo, as pedras somem de circulação — a demanda por combustível engole a oferta de
   moeda. As organizações então emitem **pontos de mérito** como substituto, com câmbio
@@ -275,6 +298,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 ## Relações
 
 - [[01 - Visão Geral da Economia|Visão Geral da Economia]] — o quadro geral em que esta moeda opera.
+- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o catálogo completo de preços, a renda e o custo de vida.
 - [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — como se conseguem essas pedras.
 - [[05 - Mercados e Leilões|Mercados e Leilões]] — onde elas mudam de mãos.
 - [[11 - Economia Imortal|Economia Imortal]] — a moeda que substitui esta a partir do rank 6.

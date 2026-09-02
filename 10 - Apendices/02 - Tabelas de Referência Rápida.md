@@ -1125,6 +1125,339 @@ tempo diferente, **o aviso chega cronologicamente distorcido**.
 
 ---
 
+## 14. Recuperação e custo de essência primordial
+
+As seções 1 a 3 dizem **quanta** essência um Mestre Gu tem e **de que qualidade**. Esta
+diz o que acontece com ela durante um dia de jogo: quanto ela se repõe sozinha, quanto
+custa cada coisa que se faz, e quanto se perde ao passá-la para outra pessoa. É, na
+prática, a economia de ação de uma cena de combate.
+
+### 14.1 Reposição
+
+A essência volta sozinha, num ritmo que **depende do grau de aptidão** — o mesmo grau
+que fixa o teto de armazenamento fixa também a velocidade de reposição. Quem tem mais
+enche mais rápido, o que é a segunda camada da injustiça do sistema.
+
+| Grau | Reposição natural | Em 6 horas | Origem |
+|---|---|---|---|
+| C | **4% da reserva por hora** | 24% | **canônico** |
+| A | **8% da reserva por hora** | 48% | **canônico** |
+| B | ~6% por hora | ~36% | `inferido` — interpolação entre as duas linhas canônicas |
+| D | ~2% por hora | ~12% | `inferido` — extrapolação para baixo |
+| Com [[02 - Pedras Primordiais|pedras primordiais]] | muito mais rápido; a obra não dá a taxa | — | **canônico** que é o método rápido; o número, não |
+
+Duas consequências que a tabela esconde e que valem mais que ela:
+
+- **A pedra primordial é o que converte dinheiro em tempo de cultivo.** Sem pedras, o
+  cultivador depende da própria reposição, e a obra diz literalmente que isso "reduziria
+  muito a velocidade de cultivo". Um grau C pobre pratica pouco porque **não pode pagar
+  a recuperação**, não porque lhe falte disposição.
+- **Existe uma corrida entre reposição e consumo.** Alguns Gu drenam essência
+  continuamente enquanto estão sendo refinados. Se a sua taxa de reposição for menor que
+  a taxa de dreno do Gu, você **nunca** conclui o refino, por mais que insista — foi
+  exatamente esse o cálculo que separou um grau A de um grau C na primeira lição de
+  refino da obra.
+
+### 14.2 Custo das ações
+
+Todos os valores abaixo estão em **porcentagem da reserva total do usuário**, que é como
+a obra sempre os dá. Repare que o custo é do **Gu**, não do usuário: os mesmos 10% saem
+de uma reserva de 38% ou de uma de 99%, e é por isso que a aptidão decide quantas vezes
+alguém pode agir, e não quão forte age.
+
+| Ação | Custo | Origem |
+|---|---|---|
+| Disparar uma lâmina de luar (Gu ofensivo de rank 1) | **10%** por disparo | **canônico** |
+| — quantos disparos isso dá a um grau C | **3 a 4**, e a reserva acaba | **canônico** |
+| Gerar uma folha de vitalidade (Gu de suporte de rank 1) | **20%** por folha | **canônico** |
+| Matar um javali selvagem, em campo, no rank 1 | deixou a reserva em 23% | **canônico** |
+| Vencer um duelo de arena entre rank 2 | **70%** consumidos, 20% restantes | **canônico** |
+| Uma emboscada bem-sucedida entre rank 2 | **10%** | **canônico** |
+| Refinar um Gu de rank 1, meia hora de trabalho | mais de metade da reserva, e **1/12** do Gu refinado | **canônico** |
+| Refinar um Gu de rank 2, 3, 4, 5 | — | a obra nunca dá o custo em porcentagem |
+
+> [!note] Para o design
+> Esta tabela resolve sozinha a pergunta "quantas rodadas dura uma luta?". Se o golpe
+> básico custa 10% e o cultivador comum guarda 40% a 60%, **uma luta mortal tem quatro a
+> seis ações significativas por lado** — e depois disso os dois estão desarmados e
+> exaustos, não mortos. É um sistema de recurso muito mais curto que o de um RPG típico,
+> e explica por que emboscada, terreno e preparação valem mais que força bruta neste
+> mundo: quem gasta primeiro perde.
+
+### 14.3 Supressão: tirar essência do inimigo
+
+Existe uma categoria de Gu que não ataca o corpo, **tranca a reserva**. O detalhe
+interessante é que o efeito **não escala como o resto do sistema**: ele é mais forte
+contra alvos fracos e mais fraco contra alvos fortes, em vez de percentual fixo.
+
+| Alvo | Fração da reserva suprimida | Origem |
+|---|---|---|
+| Mestre Gu de rank 3 | **60%** | **canônico** |
+| Mestre Gu de rank 4 | **30%** | **canônico** |
+| Mestre Gu de rank 5 | **15%** | **canônico** |
+
+Contra um grau C de rank 3, com 40% a 50% de teto, uma supressão de 60% **acaba o
+combate**: o alvo simplesmente não tem mais com que agir.
+
+### 14.4 Doar essência para outra pessoa
+
+Um Mestre Gu pode transferir essência para outro, e é assim que um clã sustenta seus
+combatentes durante uma batalha longa. A doação tem **base fixa de 10% da reserva do
+doador**; o que muda de um Gu para outro é **quanto disso chega do outro lado**. A
+família de Gu que faz isso forma uma escada nomeada, e vale a pena guardá-la porque é
+um dos raros lugares em que a obra publica uma tabela de eficiência inteira.
+
+| Gu de transferência | Rank | Do que sai, quanto chega | Origem |
+|---|---|---|---|
+| relação fratricida (*fratricidal*) | — | **1/5** (20%) | **canônico** |
+| relação amistosa (*friendly relation*) | — | **2/5** (40%) | **canônico** |
+| relação indissolúvel (*indissoluble relation*) | 3 | **3/5** (60%) | **canônico** |
+| relação familiar (*familial relation*) | — | **4/5** (80%) | **canônico** |
+| relação de sangue (*blood kin relation*) | — | **5/5** (100%), sem perda nenhuma | **canônico** |
+
+A leitura de mundo é boa demais para não ser dita: **a eficiência da transferência é
+literalmente a proximidade do laço**. Sangue não perde nada; inimizade perde quatro
+quintos. O sistema mágico do mundo trata parentesco como um parâmetro físico.
+
+---
+
+## 15. Força do caminho da força, em jun
+
+O ==caminho da força== tem uma escada própria, medida numa unidade que só ele usa: o
+==jun==. É a única escala de "atributo" numérico que a obra publica para um caminho
+específico, e por isso é a melhor referência disponível para calibrar poder físico.
+
+Uma advertência de leitura que a seção 8 do [[01 - Glossário EN-PT|Glossário]] também traz: *jin* (o "catty")
+pesa objetos; **jun mede força de cultivador**. São unidades diferentes que a tradução
+coloca lado a lado.
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **1 jun** | **30 jin**, ou seja `(ded.)` cerca de **15 kg** de força | **canônico** — a obra faz a conta "sessenta jun = mil e oitocentos jin" |
+| 10 jun | 300 jin | **canônico** |
+| Ponto de partida de quem acabou de entrar no caminho | **30 jun** | **canônico** |
+| "Apenas passável" para um rank 4 de estágio inicial | **70 jun** | **canônico** |
+| Faixa do **rank 5** | **100 jun ou mais** | **canônico** |
+| Quanto um corpo refinado com pele de fera de topo aguenta | **cerca de 100 jun** | **canônico** |
+| Pico documentado com amplificador de rank 5 acoplado | **500 jun** | **canônico** |
+| Faixa dos ranks 1, 2 e 3 | — | a obra não numera |
+| Faixa dos ranks 6 a 9 | — | a obra não numera |
+
+> [!warning] A força tem um teto que não é o teto do cultivador: é o do corpo
+> É a regra mais jogável desta seção. Um cultivador consegue **gerar** mais força do que
+> o próprio corpo suporta, e nesse caso o corpo é que cede: a obra registra o caso de
+> alguém capaz de disparar 500 jun sabendo que, ao fazê-lo, "seu próprio corpo se
+> desfaria antes do adversário". Subir no caminho da força, portanto, é **duas
+> progressões paralelas** — a que produz força e a que refina ossos, pele, músculos e
+> tendões para aguentá-la. E refinar o corpo para força **estraga** a afinidade dele com
+> outros caminhos: as partes do corpo são um orçamento disputado.
+
+---
+
+## 16. Fundação de alma
+
+A ==fundação de alma (soul foundation)== é o segundo eixo numérico de progressão do
+mundo, paralelo ao rank e ao attainment. Ela mede **o tamanho da alma**, e a unidade é
+comparativa: `man soul` é a alma de uma pessoa comum, e "mil man soul" quer dizer uma
+alma mil vezes maior que a de um transeunte qualquer.
+
+Para que serve, em uma frase: alma grande sustenta mais tarefas mentais simultâneas,
+resiste a ataques de alma, é pré-requisito de várias técnicas, e — no topo da escala —
+passa a **interagir fisicamente com o mundo**.
+
+A escada é decimal e a obra a enuncia inteira:
+
+| Degrau | O que significa | Origem |
+|---|---|---|
+| 1 → 10 → 100 → 1.000 man soul | os primeiros degraus; **mil man soul ≈ vinte anos** de caminho da alma dedicado | **canônico** |
+| … → 1 milhão → 10 milhões man soul | faixa alta humana | **canônico** |
+| **100 milhões man soul** | **o teto humano.** A alma "passa de fantasma a sólida" e começa a interferir na matéria | **canônico** |
+| 200, 300 … 900 milhões | a sub-escada acima do teto; a obra é explícita de que ela existe | **canônico** |
+| depois de 900 milhões | **não** vem 1 bilhão: vem uma **ruptura de categoria** para *desolate soul* | **canônico** |
+| 1 → 10 → … → **100 milhões de desolate soul** | a segunda escada, que recomeça do 1. O topo dela é o teto absoluto do mundo, com força de combate quase de rank 9 | **canônico** |
+
+Dois números avulsos que ajudam a calibrar:
+
+- Romper para *desolate soul* grava **cerca de 1.000 dao marks** na própria alma.
+- A ruptura do teto humano **só é possível por uma técnica específica**, herdada de um
+  único Venerável, e **só existe porque o Gu do Destino está danificado**. `[segredo]`
+
+> [!warning] Ruído de tradução num bloco de capítulos
+> Num trecho da obra, a tradução inglesa perde uma casa decimal e chama o mesmo estado
+> de alma ora de "noventa milhões", ora de "nove milhões" ou "dez milhões". A causa
+> provável é a unidade chinesa de dez milhões. **Os valores narrativamente consistentes
+> são os altos** — 70 → 80 → 90 → 100 → 200 milhões —, porque só eles fecham com a
+> própria aritmética que os personagens fazem em voz alta. Se você encontrar os números
+> baixos em alguma fonte, são artefato de tradução, não mecânica.
+
+---
+
+## 17. Longevidade: quanto tempo se vive
+
+Longevidade é um recurso **separado do rank**, e essa é a informação mais importante da
+seção: **subir de rank não aumenta o tempo de vida**. A obra diz isso duas vezes, e vale
+inclusive para Imortais. Quem vive muito, vive muito porque **comprou anos**, não porque
+ficou forte.
+
+| Quem | Expectativa | Origem |
+|---|---|---|
+| Humano comum, sem acidente nem doença | **~100 anos** | **canônico** |
+| Mestre Gu de rank 1 a 5 | também ~100; o cultivo não muda isso | **canônico** |
+| Homem-de-pedra (raça variante) | **~1.000 anos** | **canônico** |
+| Gu Imortal de rank 6 | — | a obra não dá número |
+| Gu Imortal de rank 7 e 8 | "alguns chegam a **milhares de anos**" — não é o padrão, é o topo | **canônico** |
+| Venerável mais longevo dos dez | **mais de 25.000 anos** | **canônico** |
+| Segundo mais longevo | **~19.000 anos** | **canônico** |
+| A maioria dos Veneráveis | **~7.000 anos** | **canônico** |
+| Venerável mais curto dos dez | **~3.000 anos** | **canônico** |
+| Recorde absoluto de existência continuada, por hibernação selada | **mais de 100.000 anos**, sem ser Venerável | **canônico** |
+
+Repare no contraste da última linha com a antepenúltima: **dormir rende mais anos que
+ser o ser mais poderoso do mundo**. É a piada estrutural mais amarga do cenário.
+
+### O método legítimo: os Gu de tempo de vida
+
+O ==lifespan Gu== é o único método reconhecido pelo céu e pela terra de aumentar a vida
+"pela raiz", sem efeito colateral. Ele vem em graus, e o grau **é** o número de anos que
+concede. São Gu **mortais** — e, ainda assim, moeda forte no mundo imortal, porque não se
+fabricam: nascem sozinhos, em lugares raríssimos, e o suprimento do mundo já foi
+vasculhado por gente de rank 9.
+
+| Grau documentado | Concede | Origem |
+|---|---|---|
+| Gu de quinze anos | +15 anos | **canônico** |
+| Gu de cem anos | +100 anos | **canônico** |
+| Gu de trezentos anos | +300 anos | **canônico** |
+| Gu de quinhentos anos | +500 anos | **canônico** |
+| Gu de mil anos | +1.000 anos | **canônico** |
+
+Duas travas que impedem que isso vire vida eterna barata: perto do **limite absoluto** de
+vida de uma pessoa, o lifespan Gu **deixa de fazer efeito**; e quem abusou de métodos
+alternativos de extensão acumula marcas que **bloqueiam permanentemente** o uso de
+lifespan Gu genuínos. A gambiarra fecha a porta do método legítimo.
+
+### O preço em anos dos atalhos
+
+Tempo de vida também é **moeda**: vários efeitos de alto nível se pagam em anos, e essa é
+uma das mecânicas mais características do mundo.
+
+| Atalho | Preço em anos | Origem |
+|---|---|---|
+| Acelerar o próprio fluxo de tempo em 3× (Gu de rank 5, uso único) | a vida restante cai **a um terço** | **canônico** |
+| Uma pergunta de "sim ou não" ao mecanismo de adivinhação de alto nível | **50 anos**, preço fixo | **canônico** |
+| Uma dedução com o Gu de segredo celeste de rank 7 | ~80% de chance de falhar, e **cada falha custa de 10 a 70 anos** | **canônico** |
+| Uma grande profecia | **50 anos** | **canônico** |
+| Ficar exposto à luz de sabedoria de um Gu de rank 9 | ~2 anos numa exposição breve; 10+ numa longa | **canônico** |
+
+> [!note] Para o design
+> Aqui está um recurso de personagem que **não se recupera**, num sistema em que quase
+> tudo se recupera. Essência volta em horas; dao marks voltam na próxima tribulação;
+> anos de vida, não. Qualquer mesa que queira a textura da obra deveria cobrar as
+> respostas fáceis em tempo de vida: **saber uma coisa que você não deveria saber é a
+> compra mais cara do cenário**, e o jogador paga com o próprio relógio.
+
+---
+
+## 18. Demografia: quantos cultivadores existem
+
+Estes números decidem uma coisa que nenhuma outra tabela decide: **se os personagens dos
+jogadores são gente comum ou já são figuras históricas**. A obra é generosa no topo da
+pirâmide e silenciosa na base.
+
+| Camada | Quantidade | Origem |
+|---|---|---|
+| População de uma região | **bilhões de pessoas**, esmagadoramente mortais | **canônico** |
+| Rank 4 numa região inteira | **várias centenas** | **canônico** |
+| Rank 5 numa região inteira | **menos de cinquenta** | **canônico** |
+| Rank 5 numa superpotência regional | dois ou três | **canônico** |
+| Rank 8 numa região inteira | **cinco**, "à vista" — mais alguns que ninguém contabiliza | **canônico** |
+| Rank 6 e 7 numa região | algumas centenas no total, a maioria rank 6 | **canônico**, sem número exato |
+| Rank 1, 2 e 3 | — | a obra nunca publica a base da pirâmide |
+| Chance de um Mestre Gu qualquer chegar ao rank 6 | entre **dez milhões** de Mestres Gu, talvez nenhum | **canônico** |
+
+> [!warning] Um número da obra que não bate com os outros
+> Uma passagem afirma que "apenas um ou dois Mestres Gu de rank 5 podem aparecer entre um
+> milhão de pessoas". Isso é **sessenta a cem vezes mais rank 5** do que a contagem
+> regional acima (menos de cinquenta numa região de bilhões). As duas afirmações são
+> canônicas e não se reconciliam.
+>
+> A passagem discrepante é retórica — está ilustrando o formato de pirâmide, não contando
+> gente — e a contagem regional é específica e nomeada. **A decisão do projeto é usar a
+> contagem regional** e tratar o "um ou dois por milhão" como figura de linguagem. Se a
+> sua mesa quiser um mundo com muito mais rank 5, o cânone dá cobertura para isso; só não
+> dá para usar as duas ao mesmo tempo.
+
+A base da pirâmide (quantos rank 1, 2 e 3 existem) **a obra não dá**, e a reconstrução
+usável está em [[05 - Ranks e Avanço|Ranks e Avanço]], marcada linha a linha como `inferido`. Duas coisas
+canônicas ancoram qualquer reconstrução: o rank 3 é **figura comum** numa cidade grande e
+**ancião** numa aldeia, e a queda do rank 3 para o rank 4 é de várias ordens de grandeza.
+
+E um lembrete que não é número, mas muda a leitura de todos eles: **só quem tem sangue do
+clã passa pela Cerimônia do Despertar.** A escassez de Mestres Gu não mede quanta gente
+tem talento; mede quanta gente foi autorizada a descobrir se tem.
+
+---
+
+## 19. Preços de referência
+
+Os custos de transporte e viagem estão na seção 13.8. Esta seção cobre o resto: quanto
+custa **um Gu**, quanto custa **mantê-lo vivo**, e quanto rende uma fonte de renda. Todos
+os valores em [[02 - Pedras Primordiais|Pedras Primordiais]], a moeda dos mortais.
+
+### 19.1 Quanto custa um Gu
+
+| Item | Preço | Origem |
+|---|---|---|
+| Gu de rank 1 **comum** | **~250** | **canônico** |
+| Gu de rank 1 **raro** | **500 a 600** | **canônico** |
+| Gu consumível de uso único, rank 1 | **~50** | **canônico** |
+| Gu de rank 2 raro | **~500** | **canônico** |
+| Gu de relíquia de rank 2 (avança um estágio na hora) | **~3.000** | **canônico** |
+| Gu de rank 3 | "**milhares**" | **canônico** |
+| Gu de rank 3 raro | **~6.600** | **canônico** |
+| Gu de rank 3 disputado em leilão | **70.000 a 85.000** | **canônico** |
+| Gu de rank 4 **comum** | **até 100.000** | **canônico** |
+| Gu de rank 4 raro / de grande utilidade | **180.000 a 250.000** | **canônico** |
+| Gu de rank 5 **comum** | **~250.000** | **canônico** — pela equivalência que a obra faz com um rank 4 excepcional |
+| Gu Imortal (rank 6+) | não tem preço em pedras primordiais; ver seção 5 | **canônico** |
+
+O salto de rank 3 para rank 4 é o mais violento da escala: de "milhares" para "cem mil",
+duas ordens de grandeza num único degrau. É o mesmo penhasco que a demografia da seção 18
+mostra entre o rank 3 e o rank 4 — economia e população contam a mesma história.
+
+### 19.2 Quanto custa manter
+
+| Item | Custo | Origem |
+|---|---|---|
+| Alimentar um Gu de rank 2 comum | **1 a 2 pedras por dia** | **canônico** |
+| Guardar um Gu de rank 1 numa creche de Gu | **80 pedras por mês** | **canônico** |
+| Alimentar um Gu de rank 3, 4 ou 5 | — | a obra não precifica; diz apenas que "quanto mais alto o Gu, mais caro e mais raro o alimento", e que alguns exigem comida que **não circula no mercado** |
+
+> [!note] Para o design
+> A linha de cima é uma das melhores da obra para uma mesa. Um Gu de rank 2 come **uma a
+> duas pedras por dia** — 400 a 700 por ano, ou seja, **mais do que o preço de compra de
+> dois Gu de rank 1 inteiros, todo ano**. Manter um arsenal é uma despesa corrente que
+> nunca acaba, e é ela, e não o preço de aquisição, que empurra o Mestre Gu comum para
+> dentro de um clã. Um cultivador solitário com sete Gu tem um problema de fluxo de caixa
+> antes de ter um problema de poder.
+
+### 19.3 Quanto rende uma fonte de renda
+
+| Fonte | Rendimento | Origem |
+|---|---|---|
+| **Nascente espiritual** pequena, ao longo da vida útil | **pelo menos 100 milhões de pedras** | **canônico** |
+| Vida útil de uma nascente pequena | **50 a 60 anos** | **canônico** |
+| Nascente média / grande | ~100+ anos / séculos | **canônico**, sem valor em pedras |
+| Preço do Gu de rank 5 que planta uma nascente nova | **mais de 100 milhões** | **canônico** |
+| Prêmio do primeiro lugar num exame de academia de clã | **100 a 150 pedras** | **canônico** |
+
+A primeira e a quarta linha juntas explicam a economia inteira de um clã: **a nascente
+espiritual se paga**, e é por isso que uma tribo aceita gastar um Gu de rank 5 para
+plantar uma. É também por isso que nascentes são o motivo mais comum de guerra entre
+organizações no mundo mortal — é o único ativo que produz dinheiro sozinho.
+
+---
+
 ## Notas relacionadas
 
 - [[03 - Aptidão|Graus de Aptidão]] · [[02 - Abertura|Abertura]] · [[04 - Essência Primordial|Essência Primordial]] · [[05 - Ranks e Avanço|Ranks e Estágios de Cultivo]]
@@ -1132,3 +1465,5 @@ tempo diferente, **o aviso chega cronologicamente distorcido**.
 - [[09 - Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[04 - Essência Primordial|Essência Imortal]] · [[01 - Visão Geral dos Veneráveis|Veneráveis]]
 - [[05 - Refino de Gu|Refino de Gu]] · [[01 - Glossário EN-PT|Glossário EN-PT]] · [[03 - Catálogo de Gu|Catálogo de Gu]]
 - [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] · [[04 - As Cinco Regiões|As Cinco Regiões]] · [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] · [[01 - Visão Geral do Mundo|Visão Geral do Mundo]]
+- [[09 - Longevidade|Longevidade]] · [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[04 - Strength Path|Strength Path]] · [[10 - Soul Path|Soul Path]]
+- [[01 - Visão Geral da Economia|Visão Geral da Economia]] · [[05 - Mercados e Leilões|Mercados e Leilões]] · [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]]

@@ -5,7 +5,7 @@ aliases:
   - Immortal Gu
   - Gu Imortal
 status: consolidado
-fontes: ["cap. 183", "cap. 189", "cap. 860", "cap. 909", "cap. 933", "cap. 950", "cap. 1030", "cap. 1044", "cap. 1058", "cap. 1114", "cap. 1129", "cap. 1161", "cap. 1186", "cap. 1212", "cap. 1230", "cap. 1242", "cap. 1284", "cap. 1299", "cap. 1441", "cap. 1444", "cap. 1457", "cap. 1478", "cap. 1511", "cap. 1529", "cap. 1608", "cap. 1681", "cap. 1790", "cap. 1852", "cap. 2020", "cap. 2108", "cap. 2119", "cap. 2246", "cap. 2251", "cap. 2292"]
+fontes: ["cap. 183", "cap. 189", "cap. 860", "cap. 909", "cap. 933", "cap. 950", "cap. 1030", "cap. 1044", "cap. 1058", "cap. 1114", "cap. 1129", "cap. 1161", "cap. 1186", "cap. 1212", "cap. 1230", "cap. 1242", "cap. 1284", "cap. 1299", "cap. 1441", "cap. 1444", "cap. 1457", "cap. 1478", "cap. 1511", "cap. 1529", "cap. 1608", "cap. 1681", "cap. 1790", "cap. 1852", "cap. 2020", "cap. 2108", "cap. 2119", "cap. 2151", "cap. 2178", "cap. 2246", "cap. 2251", "cap. 2292", "cap. 2327"]
 conhecimento: especializado
 ---
 
@@ -72,6 +72,13 @@ terminal inexplicável significa que aquele Gu já existe em algum lugar, nas m�
   material principal** — sob risco de destruí-la.
 - **Vale para produção automática.** Um Gu que fabrica outros Gu só produz uma versão
   imortal se ainda não existir uma no mundo.
+- **Existe uma cópia possível, e ela é oficialmente inferior.** Um Gu-caixa deixado por um
+  venerável antigo, ao ficar algum tempo ao lado de **qualquer** Gu Imortal do mundo,
+  **transforma-se nele** e pode ser acionado por quem o possui. É a única brecha conhecida
+  na unicidade — e a obra a fecha com o contrapeso certo: **a cópia é sempre mais fraca que
+  o original**. A mesma herança que contém esse Gu contém também a técnica de **fabricar Gu
+  Imortais falsos**, e a obra observa que falsificar Gu é prática comum no mundo mortal.
+  Ver [[14 - Qualidade e Fraude|Qualidade e Fraude]].
 - **Não vale para variantes.** Dois Gu da mesma família com "sabor" ligeiramente diferente —
   uma formiga de fogo e uma de água — contam como Gu **distintos** e podem coexistir. É a
   brecha que impede o sistema de travar completamente.
@@ -320,3 +327,5 @@ a obra trata o nível 9.
 - [[04 - Gu Vital|Gu Vital]] — o que muda quando o Gu Vital é imortal.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — os caminhos aos quais cada Gu Imortal pertence.
 - [[15 - Food Path|Food Path]] — o caminho que existe para resolver o gargalo alimentar.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — a pressão que um Gu Imortal exerce sobre a abertura que o abriga, e a aura que vaza quando ele fica fora dela.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — o Gu-caixa que copia, e a técnica de falsificar Gu Imortais.

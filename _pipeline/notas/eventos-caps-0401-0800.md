@@ -3,7 +3,7 @@ tipo: nota-bruta
 varredura: eventos
 faixa: caps. 401-800
 data: 2026-09-02
-status: em-andamento
+status: concluido
 ---
 
 # Varredura de grandes eventos — caps. 401 a 800
@@ -106,325 +106,6 @@ que é enredo e **não** pode migrar para a nota final.
 
 > Nomeados vistos: dark flame meteor calamity (2ª), clouded white sea / dilúvio (4ª),
 > blue charm lightning shadow (5ª, resíduo persistente), desolate beast calamity (6ª).
-
----
-
-## Eventos recorrentes e institucionais
-
-### The Great Blizzard of Northern Plains (grande nevasca decenal) — caps. 440, 449, 470, 489
-
-- **Tipo:** calamidade climática regional / relógio civilizacional
-- **Onde:** **todo** o Northern Plains (Planícies do Norte), região de estepe sem montanhas.
-  Não existe abrigo natural: "no sul, os humanos fazem aldeias fortificadas que defendem
-  contra as marés de bestas; nas planícies do norte não há montanhas e as tribos têm de
-  sofrer o batismo do vento e da neve" (cap. 440).
-- **Gatilho / causa mecânica:** ciclo fixo do clima da região. **A cada dez anos uma grande
-  nevasca engole o Northern Plains inteiro** (cap. 440).
-- **Periodicidade:** a cada 10 anos, e ela sincroniza *todo* o calendário político da região.
-- **Duração:** — (a obra não dá o número de dias na faixa).
-- **Escala:** regional total. "Lobos, raposas, águias, vegetação e humanos; nenhum escapa"
-  (cap. 440).
-- **Ambiente por dentro:** o vento e a neve "cortam tudo como facas" (cap. 489); e — o dado
-  mais jogável — **durante a nevasca aparecem em massa Gu selvagens fortes** (cap. 440). A
-  nevasca também **destrói heranças montadas ao ar livre**, e por isso ninguém em sã
-  consciência deixa uma herança na estepe aberta (cap. 489).
-- **Regras especiais do local:** o único abrigo é ou geografia rara (vales de fogo subterrâneo
-  como **Hong Yan valley**, controlado por uma tribo que cobra caro pelo acesso — cap. 440,
-  449) ou **entrar numa blessed land** (a Imperial Court / Wang Ting blessed land). Um vale
-  quente pode esfriar por conta própria e deixar de servir de abrigo (cap. 555).
-- **Prêmio / o que se ganha:** nada — sobreviver é o prêmio; e a nevasca é o motor de tudo o
-  mais nesta lista.
-- **Fases:** contagem regressiva de anos → corrida diplomática por um lugar sob abrigo →
-  migrações em massa → heroes assembly e guerra pelo direito de entrar na Imperial Court →
-  nevasca → recontagem demográfica das tribos.
-- **Papel possível de um grupo pequeno:** escoltar a migração de uma tribo pequena; negociar
-  entrada num vale quente; caçar os Gu selvagens fortes que só aparecem na nevasca; salvar
-  heranças ao ar livre antes que sejam apagadas.
-- **Consequência para o mundo:** **reorganização demográfica compulsória a cada dez anos** —
-  "depois da nevasca, tribos de grande escala encolhem para média escala, e as de média
-  escala encolhem para pequena, por causa do enorme número de baixas" (cap. 440). É a razão
-  estrutural de as tribos do norte serem nômades e agressivas, e a razão de todas as heranças
-  do norte estarem guardadas dentro da Imperial Court (cap. 489).
-- **Cuidado de spoiler:** nenhum — é pura estrutura de mundo. (Manter fora as tramas
-  familiares específicas usadas na obra para ilustrá-la: o casamento arranjado, a fuga da
-  noiva.)
-- **Lacunas:** duração exata, temperatura, se há regiões do norte poupadas.
-
-> [!note] Para o design
-> É o melhor "relógio de campanha" da obra inteira: uma contagem regressiva de dez anos que
-> obriga toda facção a se mexer, e que reseta o mapa político no fim de cada ciclo.
-
-### Heroes Assembly (assembleia dos heróis) — caps. 440, 448-450, 470-501
-
-- **Tipo:** torneio + feira política + formação de alianças (a "fase de classificatórias" da
-  disputa pela Imperial Court)
-- **Onde:** simultaneamente em **todas as regiões famosas do Northern Plains** — a obra nomeia
-  quatro por nome: **Tian Chuan, Yu Tian, Meng Qiu e Cao Fu** (cap. 489, 496). Cada região
-  tem a sua assembleia, com seus favoritos.
-- **Gatilho / causa mecânica:** "Para essa disputa, a heroes assembly veio a existir e
-  lentamente tomou forma até virar uma tradição firme do povo das planícies do norte"
-  (cap. 489). Ela existe porque a Imperial Court blessed land só abre de dez em dez anos e
-  as vagas são disputadas — é o mecanismo pelo qual as tribos decidem *quem representa a
-  região* antes de a nevasca chegar.
-- **Periodicidade:** a cada 10 anos, **todas as regiões ao mesmo tempo**, quando a grande
-  nevasca se aproxima (cap. 489).
-- **Duração:** semanas a meses; em Yu Tian já durava meio mês quando o texto a mostra
-  (cap. 497), e as assembleias de regiões diferentes terminam em datas diferentes (cap. 496).
-- **Escala:** toda a região. "Essa disputa envolvia todo o Northern Plains e era de escala
-  extremamente grande. Tribos de pequena escala queriam sobreviver, tribos de média escala
-  queriam avançar, e tribos de grande escala queriam defender sua base. Não só o caminho
-  justo (righteous path), mas até Gu Masters do caminho demoníaco queriam entrar na blessed
-  land e tomar as heranças" (cap. 489).
-- **Ambiente por dentro:** um acampamento-feira com **palco de batalha** (battle stage) no
-  centro. Duelos formais rodada a rodada entre campeões enviados por cada tribo; o vencedor
-  recebe uma taça de vinho e prestígio na hora (cap. 497). Ao redor, banquetes, mercados
-  conjuntos das tribos vizinhas (cap. 440), troca de intel por Gu mensageiros, e negociação
-  aberta de submissão e alianças.
-- **Regras especiais do local:**
-  - Uma tribo pode **desafiar outra tribo** e o desafiado não pode recusar sem perder a face
-    ("não posso mostrar fraqueza na heroes assembly" — cap. 497). Isso é usado como arma: um
-    líder desafia repetidamente o rival só para **consumir os especialistas dele** um a um.
-  - Reféns e casamentos são fichas legítimas de barganha na mesa (cap. 470, 497).
-  - **Não participar é suicídio político:** uma tribo que se desliga "das regras do jogo"
-    é ostracizada, com impacto enorme (cap. 496).
-  - Um Gu Master errante e sem tribo usa a assembleia para se vender a uma facção — é o
-    caminho normal de um demônio solitário conseguir abrigo para a nevasca (cap. 470).
-  - Quanto maior a força que você traz (ex.: um bando de bestas escravizadas), maior sua
-    "autoridade e voz" na mesa (cap. 496).
-- **Prêmio / o que se ganha:** o vencedor de cada região "atrai mais especialistas e faz mais
-  tribos se apegarem a ele" (cap. 489); a assembleia é **só a etapa preliminar** para montar a
-  aliança de verdade, que depois vai à guerra (cap. 500).
-- **Fases:** (1) migração e chegada das tribos; (2) rodadas de duelos no palco; (3) submissões,
-  absorções e casamentos; (4) formação da aliança regional sob um líder, selada por **poison
-  vow Gu** (Gu de juramento venenoso — cap. 500); (5) a aliança marcha para a guerra regional.
-- **Papel possível de um grupo pequeno:** ideal para rank 3-4. Ser os campeões de uma tribo
-  pequena no palco; negociar a submissão da própria tribo pelo melhor preço; sabotar o campeão
-  rival; escoltar um refém; vender-se ao maior lance.
-- **Consequência para o mundo:** define o mapa de poder do Northern Plains pelos dez anos
-  seguintes e decide **quem entra na Imperial Court**.
-- **Cuidado de spoiler:** os nomes dos vencedores, os campeões específicos, o herói disfarçado
-  e o desfecho de cada assembleia. A instituição não é spoiler; o placar é.
-- **Lacunas:** a obra não dá o número de regiões que sediam assembleia (nomeia quatro), nem o
-  regulamento formal dos duelos (morte permitida? rendição?).
-
-### Imperial Court Contest e Imperial Court (Wang Ting) blessed land — caps. 489, 500-501, 550-556
-
-- **Tipo:** grande abertura de terreno de herança + guerra regional pelo direito de entrar
-- **Onde:** **Imperial Court blessed land** (também chamada Wang Ting blessed land), a terra
-  abençoada mais sagrada do Northern Plains — "uma posição elevada e sagrada nos corações do
-  povo das planícies do norte, um símbolo espiritual, e também um berço que nutriu muitos Gu
-  Immortals do norte" (cap. 550). No centro fica o **sacred palace** (palácio sagrado), uma
-  das quatro câmaras de repouso do **Giant Sun Immortal Venerable** (as outras três ficam no
-  Eastern Sea, Western Desert e Southern Border — cap. 552).
-- **Gatilho / causa mecânica:** o Venerável deixou a terra abençoada como legado aos
-  descendentes e **estabeleceu ele mesmo as regras do Imperial Court contest** antes de sumir
-  do mundo (cap. 552). A terra abre **uma vez a cada dez anos** (cap. 552), casada com o ciclo
-  da nevasca.
-- **Periodicidade:** a cada 10 anos.
-- **Duração:** meses (o contest inteiro, incluindo a exploração interna, ocupa a maior parte
-  de um ciclo — caps. 550-640).
-- **Escala:** dezenas de milhares. Só no palácio sagrado havia "quase dez mil pessoas" logo no
-  começo (cap. 553); a guerra prévia mobiliza alianças tribais inteiras, exércitos de bestas
-  na casa das centenas de milhares (cap. 501) e Gu Masters até rank 5.
-- **Ambiente por dentro:**
-  - Terreno vasto e variado, cheio de **heranças escondidas** de todas as eras: heranças de Gu
-    Immortal, de rank 4 e 5, e muitas de rank 1 a 3 (cap. 496). Deixar herança ali virou
-    tradição do norte **porque a nevasca destrói qualquer herança deixada na estepe**
-    (cap. 489).
-  - **Pequenas torres a cada oito li** espalhadas por toda a terra abençoada — elas são,
-    secretamente, partes do Eighty-Eight True Yang Building, e afundam no chão conforme o
-    prédio se condensa no céu (cap. 555-556).
-  - **Não há luz de estrelas no céu** da Imperial Court, o que quebra métodos que dependem de
-    starlight (cap. 550).
-  - Gu selvagens para subjugar, para quem não tem chance nas heranças grandes (cap. 555).
-- **Regras especiais do local:**
-  - **Gu Immortals são proibidos de entrar.** É exatamente por isso que o Eighty-Eight True
-    Yang Building sobreviveu tanto tempo com mais da metade das heranças intactas (cap. 600).
-  - Quem tem o **sangue Huang Jin** (a linhagem dos descendentes do Giant Sun Immortal
-    Venerable, que domina quase toda a região — cap. 552) tem privilégios; o líder da aliança
-    vencedora com sangue Huang Jin **aparece automaticamente no palácio sagrado** ao entrar
-    (cap. 552).
-  - O **owner token** (talismã de dono) fica com o líder da aliança e **se autodestrói se sair
-    da Imperial Court blessed land** (cap. 560).
-  - Não se anda montado dentro do palácio sagrado, por respeito ao Venerável; e as portas
-    principais dos oito grandes palácios só podiam ser usadas por ele — a regra sobreviveu à
-    morte dele (cap. 553).
-  - **O terreno se regenera:** batalhas mudam a paisagem durante o contest, mas quando a
-    Imperial Court fecha "o terreno lentamente se recupera" (cap. 552) — por isso ali funciona
-    uma herança que usa o relevo como pista, coisa impossível no mundo lá fora.
-  - Um efeito colateral crucial: uma herança dentro da Imperial Court exige **duas**
-    qualificações — decifrar a pista (o que costuma pedir um Gu Master de avaliação) **e** ter
-    vencido o contest para poder estar ali (cap. 552).
-- **Prêmio / o que se ganha:** sobreviver à nevasca em segurança; heranças de todos os níveis;
-  e o topo do topo, o acesso ao Eighty-Eight True Yang Building. "Todas as tribos que
-  entraram na Imperial Court ao longo da história tiveram um aumento enorme de força"
-  (cap. 489).
-- **Fases:** heroes assembly regionais → formação das alianças → **guerra aberta entre
-  alianças** nas várias regiões (cap. 501) → os vencedores entram → exploração interna →
-  fechamento e regeneração do terreno.
-- **Papel possível de um grupo pequeno:** rank 2-5. Antes: mercenários numa das alianças.
-  Dentro: caçadores de herança de baixo escalão vasculhando o mapa enquanto os grandes se
-  batem pelo palácio — a obra explicita que **a maioria dos Gu Masters não entra no True Yang
-  Building e passa o tempo vagando pela blessed land, subjugando Gu selvagens ou procurando
-  heranças** (cap. 555). Um bom grupo pode achar uma herança de Gu Immortal escondida sob uma
-  torre deslocada (cap. 556).
-- **Consequência para o mundo:** decide o hegemon do Northern Plains da década; e "berço" de
-  gerações inteiras de Gu Immortals do norte (cap. 550).
-- **Cuidado de spoiler:** que a Imperial Court blessed land é **destruída** cerca de 500 anos
-  depois por uma aliança de Gu Immortals do Central Continent, com o palácio sagrado e o
-  Eighty-Eight True Yang Building junto (cap. 550, 553) — isso é conhecimento de futuro obtido
-  por um personagem, portanto enredo. Também: quem venceu, quem tinha o token, quem se
-  disfarçou de quem.
-- **Lacunas:** quantas vagas a Imperial Court comporta; o que decide exatamente o número de
-  entrantes por aliança.
-
-### Eighty-Eight True Yang Building (torre de provações do Giant Sun) — caps. 555-640
-
-- **Tipo:** masmorra institucional / Immortal Gu house de rank 8 que se remonta a cada ciclo
-- **Onde:** condensa-se **acima do palácio sagrado**, no centro da Imperial Court blessed land
-  (cap. 555).
-- **Gatilho / causa mecânica — o mecanismo é a melhor peça de design da faixa:** o prédio é
-  uma **Immortal Gu house rank 8** refinada pelo **Long Hair Ancestor** (um dos três grandes
-  mestres do caminho de refino da história), tendo o **divert disaster Gu** como uma das
-  pedras angulares. A cada ciclo ele **saqueia o Northern Plains inteiro**, puxando os
-  recursos de Gu preciosos da região para cima do palácio sagrado, e com eles condensa
-  **andar por andar** (cap. 593). Cada formação do prédio é, literalmente, **um novo processo
-  de refino**: ele absorve um Gu forte e usa a força dele para formar a **centésima rodada**
-  do andar; absorve o próximo mais forte e forma a 99ª; depois a 98ª, a 97ª... (cap. 593). Se
-  não houver Gu à altura, ele substitui por receita de Gu, primeval stones ou segredos de
-  herança (cap. 593). Quem faz o refino de fato é a **vontade do Giant Sun** hospedada no
-  prédio — por isso ele nunca falha um refino (cap. 593).
-- **Periodicidade:** a cada 10 anos, junto com a abertura da Imperial Court. Tem **88 andares**;
-  eles se condensam em ordem e o processo continua durante o contest (no texto, o 68º andar
-  ainda estava se formando quando 67 já existiam — cap. 593).
-- **Duração:** o ciclo inteiro do contest.
-- **Escala:** milhares de Gu Masters simultâneos quando o dono do token abre o prédio para
-  todos (cap. 593); grupos organizados por tribo; mortalidade alta ("trinta por cento dos Gu
-  Masters com ele pereceram" numa única rodada — cap. 593).
-- **Ambiente por dentro:** cada **rodada** (round) é um cenário fechado e autocontido, com sua
-  própria geografia e seu próprio quebra-cabeça. Exemplo verificado (54ª rodada): uma ilha no
-  centro de um lago, um bando de *water snake lions* na ilha e um bando de *hedgehog fish* na
-  água sob seu comando — o número de peixes é só o dobro do de leões, e um leão vale cinco ou
-  seis peixes. É uma prova de **caminho de escravização (enslavement path)** disfarçada de
-  batalha impossível: a solução foi tática, não força bruta (cap. 557).
-- **Regras especiais do local — o coração jogável:**
-  - **Cada rodada é avaliada em três graus** (cap. 557): **baixo** = recompensa mínima, segue
-    para a próxima rodada; **médio** = o dobro da recompensa do baixo, **mais informação
-    antecipada sobre a próxima rodada**; **alto** = o dobro da recompensa do médio, **mais
-    transporte para a "treasure room"** (câmara do tesouro) nas profundezas do prédio, onde o
-    conteúdo não é dado de graça: precisa ser **trocado** por algo (cap. 557).
-  - **Tokens.** Quem tem sangue Huang Jin entra e sai à vontade (cap. 555). Quem não tem
-    precisa de um **guest token** (talismã de convidado) — **cada um serve uma única vez** e
-    derrete na mão ao entrar (cap. 556-557). Guest tokens são eles próprios recompensas de
-    rodada (cap. 556) e podem virar mercadoria de preço absurdo (cap. 593).
-  - **A recompensa vai para quem limpa a rodada, não para o chefe.** Um líder de tribo pode
-    tomar tudo dos próprios tribesmen pela autoridade interna, mas **pelas regras do prédio,
-    a recompensa de um reforço convidado pertence ao reforço** (cap. 556). Isso torna
-    "chamar o especialista de fora" uma decisão cara e política.
-  - **Owner token e "edges" (gumes).** Existe um talismã superior, o **owner token**, que dá
-    ao portador o controle de uma parte do prédio: entrada livre na treasure room sem precisar
-    de avaliação alta, e visão do que se passa lá dentro (cap. 560). Ele **evolui por gumes**:
-    a cada andar completado por um descendente do Giant Sun, o token ganha um gume, e com
-    **um gume** já se controla um andar inteiro (cap. 575, 562). É por isso que um dono de
-    token tem incentivo em abrir o prédio para uma multidão: cada rodada que a multidão limpa
-    faz o token dele avançar (cap. 562, 565).
-  - **Dificuldade e prêmio andam juntos por construção:** "quanto mais difícil a rodada, mais
-    farta a recompensa; e inversamente, quanto mais farta a recompensa ou mais forte o Gu,
-    mais difícil a rodada" — porque o Gu que forma a rodada *é* o prêmio dela (cap. 593).
-  - O dono do token pode **fechar o prédio para todos** e ninguém ousa reclamar (cap. 593).
-  - Gu Immortals não entram na Imperial Court, mas **podem dar suporte à distância a um andar
-    em formação** — e o suporte perde eficácia quanto mais o andar se condensa (cap. 593).
-  - **Falhas estruturais:** quando a vontade do Giant Sun hiberna, o refino desacelera e
-    **abre-se uma brecha** no prédio (cap. 593). A obra menciona **treze falhas** conhecidas
-    por terceiros, cada uma capaz de avançar um owner token adulterado em um gume (cap. 575).
-- **Prêmio / o que se ganha:** receitas de Gu, Gu mortais e **Immortal Gu** (a rodada final de
-  um andar *pode* ter um Immortal Gu, mas não necessariamente — cap. 556); "cada item podia
-  fazer um Gu Master ascender apesar de origem ordinária" (cap. 556). E, no topo da escada,
-  o acesso ao true inheritance secluded domain.
-- **Fases:** condensação dos andares (as torres do mapa afundam) → abertura → subida rodada a
-  rodada, andar a andar → dez andares completos habilitam o domínio secluso → colapso/
-  dissolução no fim do ciclo.
-- **Papel possível de um grupo pequeno:** **este é o formato de masmorra pronto da obra.**
-  Cada rodada é um encontro autocontido com uma condição de vitória de três níveis — os
-  jogadores decidem toda hora se aceitam o "passe baixo" e seguem, ou se arriscam a morte por
-  um passe alto e a câmara do tesouro. A economia de guest tokens dá a moeda da mesa; a regra
-  de que a recompensa pertence a quem limpa dá o conflito político com os patronos.
-- **Consequência para o mundo:** transfere recursos de Gu de toda uma região para as mãos de
-  poucos vencedores a cada década; é a fábrica de Gu Immortals do Northern Plains.
-- **Cuidado de spoiler:** a vontade do Giant Sun como personagem ativo e antagonista, a
-  infiltração de vontades de fora, quem obteve qual Immortal Gu, e o destino final do prédio.
-  O **mecanismo** (andares, rodadas, graus, tokens, gumes) é worldbuilding puro e pode ir
-  inteiro para a nota final.
-- **Lacunas:** quantas rodadas tem cada andar (a obra mostra numeração até a 100ª de um andar
-  — cap. 593); o que acontece com quem está dentro quando o ciclo acaba.
-
-### True Inheritance Secluded Domain (domínio secluso das verdadeiras heranças) — caps. 597-602, 620-639
-
-- **Tipo:** câmara final de herança / armadilha mortal com relógio
-- **Onde:** um espaço escuro e imenso nas profundezas do Eighty-Eight True Yang Building
-  (cap. 597).
-- **Gatilho / causa mecânica:** Giant Sun Immortal Venerable colocou ali **oitenta e oito
-  verdadeiras heranças** para os descendentes (cap. 598). Entrar exige três coisas, em ordem:
-  (1) ser um dos **vencedores do Imperial Court contest** daquele ciclo; (2) ter completado
-  **pelo menos dez andares** do Eighty-Eight True Yang Building; (3) sobreviver ao **teste**
-  da herança que se pretende tomar (cap. 600).
-- **Periodicidade:** só existe enquanto a Imperial Court está aberta; e é raríssimo alguém
-  chegar a dez gumes num ciclo (cap. 599).
-- **Duração:** dias a meses de permanência possível — mas o tempo *dentro* é o inimigo (ver
-  regras).
-- **Escala:** pouquíssimas pessoas por ciclo. A obra registra um caso histórico de **onze Gu
-  Immortals** do Central Continent entrando e apenas **nove** saindo, todos feridos (cap. 599).
-- **Ambiente por dentro:** escuridão. As heranças são **grumos de luz voando em órbitas
-  próprias**, cada um com sua cor e sua cauda luminosa. O tamanho denuncia o grau:
-  **tigela = ordinary true inheritance; bacia = unparalleled true inheritance; do tamanho de
-  um homem adulto = supreme true inheritance** (cap. 600).
-- **Regras especiais do local:**
-  - **Três graus de herança.** Ordinárias (a maioria); **unparalleled** (incomparáveis, poucas
-    mas não raríssimas); e apenas **três supreme true inheritances** no domínio inteiro
-    (cap. 600). O owner token limita o que se pode *levar*: com dez gumes só se leva uma
-    ordinária, mesmo passando no teste de uma superior (cap. 600).
-  - **Cada herança tem seu próprio teste, e o teste é o perigo.** Verificados: uma que carrega
-    um traço de vontade de um Venerável e só um Gu Immortal suportaria (foi *amortecida* pelo
-    dono do prédio para que mortais sobrevivessem — cap. 597); outra que ataca diretamente a
-    **abertura (aperture)** do candidato, rachando as paredes, e cuja saída ortodoxa seria
-    amputar os próprios braços (cap. 598).
-  - **O relógio.** "Toda vez que entram em contato com uma verdadeira herança, ou quanto mais
-    tempo ficam ali, **mais rápido as heranças se movem**" — até voarem como meteoros,
-    impossíveis de capturar. E elas matam por colisão (cap. 600). O domínio também **encolhe**
-    com o tempo, até as caudas luminosas tecerem uma teia por onde só se passa pelas frestas
-    (cap. 600). Quem hesita demais já não consegue pegar nem uma ordinária, e continua correndo
-    risco de vida.
-  - **Só a aura já mata:** aproximar-se de uma supreme true inheritance quase matou um rank 5
-    sem nenhum contato (cap. 600); uma unparalleled dissolveu uma vontade sondadora antes que
-    ela chegasse perto (cap. 600).
-  - Uso de Gu é permitido dentro do domínio (cap. 600).
-  - **Truque canônico de sondagem:** criar uma *vontade* (will) com Gu do caminho da sabedoria,
-    montá-la num *big soul worm* e mandá-la tocar a herança no seu lugar — assim se lê o
-    conteúdo **sem disparar o teste** (cap. 598). Funciona nas ordinárias; falha nas superiores.
-  - **Heranças podem ser saqueadas e ficarem cascas vazias** — uma delas foi encontrada sem o
-    Immortal Gu e sem os três mil Gu mortais, levados por alguém antes (cap. 598). Das 88
-    originais, dez mil anos atrás já só restavam 53 (cap. 599).
-  - Uma herança **danificada** desequilibra o domínio e faz as heranças **colidirem umas com as
-    outras** (cap. 601).
-- **Prêmio / o que se ganha:** conhecimento e Immortal Gu do mais alto nível — teoria de refino
-  de um grão-mestre, métodos de **estender lifespan** criados por um Venerável, Immortal Gu
-  lendários (cap. 597-600).
-- **Fases:** entrada → busca em órbita lenta → escolha (ou ganância) → aceleração progressiva →
-  encolhimento do espaço → saída forçada ou morte.
-- **Papel possível de um grupo pequeno:** é o clímax de uma campanha de Imperial Court. Um
-  cenário de **puro risco-x-ganância com temporizador**, sem inimigo pensante: cada minuto a
-  mais aumenta o prêmio possível e a chance de morrer. Excelente para forçar decisões entre
-  jogadores que querem coisas diferentes.
-- **Consequência para o mundo:** cada herança levada some do domínio para sempre — o acervo é
-  finito e vem se esvaziando ao longo de milênios (cap. 599).
-- **Cuidado de spoiler:** o conteúdo específico das três supremas, quem as levou, e o papel da
-  vontade que serve de guia. O **conteúdo** das supremas é a maior mina de spoiler da faixa.
-- **Lacunas:** quantas heranças restam hoje; qual a velocidade-limite; se há saída voluntária
-  segura em qualquer momento.
-
----
-
-## Eventos únicos (continuação)
 
 ### Turtleback Wolf Group e Night Wolf Group — o cerco de bestas a uma tribo em migração — caps. 451-458
 
@@ -746,96 +427,6 @@ que é enredo e **não** pode migrar para a nota final.
 - **Lacunas:** o custo total da operação; como se defende uma blessed land contra a técnica de
   Mutual Sense.
 
-### Immortal Crane Sect Gu Immortal Meeting — o conselho orçamentário dos imortais — cap. 697
-
-- **Tipo:** assembleia institucional / sessão política
-- **Onde:** o salão de conselho de uma das **dez grandes seitas antigas** do Central Continent.
-- **Gatilho / causa mecânica:** a seita precisa alocar um recurso escasso e fungível — os
-  **immortal essence stones** (pedras de essência imortal) — entre projetos concorrentes.
-- **Periodicidade:** regular (a sessão mostrada "decidiu o que a seita faria nos próximos
-  meses" — cap. 698).
-- **Duração:** **um dia e uma noite** de discussão (cap. 698).
-- **Escala:** **oito Gu Immortals** presentes, presididos pelo **primeiro ancião supremo, rank
-  8**, que abre e fecha cada item batendo um sino cujo som **engole a voz de todos** (cap. 697).
-- **Ambiente por dentro:** imortais sentados em círculo, aura imortal irradiando, discutindo
-  contabilidade. O tom é de reunião de diretoria — inclusive as acusações de peculato:
-  "Shu Zhi Ge, você está atrasando o tratamento para poder tirar proveito do processo?"
-  (cap. 697).
-- **Regras especiais do local — como funciona a política imortal:**
-  - **Cada proposta vira uma cifra e vai a voto.** O proponente pede um valor em immortal
-    essence stones; os presentes objetam ou apoiam; a proposta é votada. No caso mostrado,
-    **cinco dos oito objetaram** e o proponente saiu com 200 em vez dos 360 pedidos
-    (cap. 697).
-  - **Facções internas são explícitas:** "todos os presentes eram anciãos supremos, mas tinham
-    também suas facções e conflitos internos" (cap. 697).
-  - **Informação é alavanca de voto:** um imortal condicionou o voto a ouvir o relatório de
-    progresso de outra pesquisadora, e votou contra ao saber que o projeto não avançava
-    (cap. 697).
-  - **Pautas típicas verificadas:** tratar uma besta desolada antiga da seita; reforçar uma
-    frente de guerra permanente (o *reincarnation battlefield*, disputado contra as outras
-    nove seitas, em que escalar reforços só faz o adversário escalar também — cap. 697);
-    impedir a independência de uma **seita subsidiária** aliciando um dos imortais dela;
-    retomar uma blessed land.
-  - **Economia de fundo:** as dez grandes seitas controlam **oitenta por cento dos recursos do
-    Central Continent**, e **só elas conseguem sustentar muitos Gu Immortals**; uma seita
-    subsidiária entrega recursos todo mês e por isso seus imortais vivem em escassez — o que
-    os torna **compráveis** (cap. 697). O preço citado para aliciar um Gu Immortal: tratamento
-    igual ao dos membros plenos **mais cerca de 75 immortal essence stones** (cap. 697).
-- **Prêmio / o que se ganha:** orçamento, e o direito de conduzir uma operação em nome da
-  seita.
-- **Papel possível de um grupo pequeno:** uma sessão inteira de mesa sem combate. Os jogadores
-  são os agentes cujo projeto está na pauta e precisam **conseguir os votos**: levantar
-  evidências de progresso antes da reunião, comprar um voto, expor o peculato do rival,
-  descobrir qual imortal a facção adversária já aliciou.
-- **Consequência para o mundo:** o orçamento vira as guerras e cercos dos meses seguintes.
-- **Cuidado de spoiler:** os nomes, as intrigas específicas e o alvo do aliciamento. A
-  **instituição** (conselho, sino, voto, orçamento em pedras) é worldbuilding limpo e
-  altamente jogável.
-- **Lacunas:** a periodicidade formal do conselho; se há quórum ou poder de veto do rank 8.
-
-### Zombie Alliance e Snowy Mountain Alliance — alianças como instituições — caps. 653, 660, 737-746
-
-- **Tipo:** organização transregional (Zombie Alliance) e pacto formal entre imortais
-  (alianças juradas)
-- **Onde:** a **Zombie Alliance** tem sede no **Eastern Sea** e uma **filial em cada uma das
-  outras quatro regiões**; sua filial do norte se reúne na **Dark Flow Giant City** (cidade
-  gigante do fluxo escuro — caps. 653, 739).
-- **Gatilho / causa mecânica:** um Gu Immortal que chega ao **fim do lifespan** sem obter um
-  lifespan Gu pode virar **immortal zombie** para não morrer. O preço é estrutural: a abertura
-  imortal dele **morre** — não produz mais essência imortal nem absorve qi do céu e da terra,
-  e sua blessed land começa a encolher e desmoronar; por isso a força de combate dele em
-  geral fica abaixo da de um Gu Immortal normal (cap. 653). A aliança nasceu para esses
-  imortais **pesquisarem juntos como recuperar um corpo vivo** (cap. 653).
-- **Periodicidade:** permanente. Existe desde a **Era da Antiguidade Medieval, há trezentos mil
-  anos** (cap. 653).
-- **Escala:** "uma superforça espalhada pelas cinco regiões"; as filiais são mais fracas que as
-  superforças nativas de cada região, **mas a sede do Eastern Sea é um nível acima das
-  superforças locais** (cap. 653).
-- **Regras especiais — como se entra e como se vive:**
-  - **Entrar é fácil e a identidade não se falsifica:** basta demonstrar a condição de immortal
-    zombie; a aliança pesquisou muito o assunto e tem **muitos métodos para distinguir um
-    immortal zombie verdadeiro** (cap. 653).
-  - **Eles recrutam com avidez** porque **são suprimidos por todas as superforças** e operam
-    com dificuldade (cap. 653) — ou seja, é uma organização de párias com um problema comum.
-  - A filial do norte realiza uma **Immortal Zombie Discussion** (assembleia de zumbis
-    imortais) numa cidade própria (caps. 741-743).
-- **Alianças juradas entre imortais (regra geral, muito jogável):** um pacto entre Gu Immortals
-  é selado com um **Immortal Gu de juramento**. Exemplo verificado: **Mountain Pledge**, Gu
-  imortal rank 6 de information path, "tão famoso quanto o sea oath Gu": escolhe-se uma
-  montanha para jurar, e **enquanto aquela montanha existir, o juramento não pode ser
-  violado** (cap. 660). Entre mortais o equivalente é o **poison vow Gu** (cap. 500) — e
-  existem Gu raros que anulam juramentos, o que é o pesadelo silencioso de todo pacto
-  (cap. 500).
-- **Papel possível de um grupo pequeno:** trabalhar *para* uma aliança de párias — escoltar
-  material de pesquisa, recuperar um corpo, mediar entre a filial e uma superforça local; ou
-  ser mortais contratados por um patrono imortal cujo juramento os obriga a algo que eles não
-  querem fazer.
-- **Consequência para o mundo:** existe uma classe permanente de imortais falidos e
-  desesperados por um recurso específico (lifespan), o que é um motor infinito de contratos
-  sujos.
-- **Cuidado de spoiler:** quem virou zumbi e por quê; as intrigas dentro da filial norte.
-- **Lacunas:** o organograma da aliança; o que ela cobra dos membros.
-
 ### The Grand Auction of Northern Plains — caps. 734-768
 
 - **Tipo:** leilão / cúpula diplomática
@@ -1058,6 +649,452 @@ que é enredo e **não** pode migrar para a nota final.
 - **Lacunas:** a lista das dez grandes áreas ferozes do Northern Plains (a obra nomeia só Tai
   Qiu nesta faixa).
 
+### The Rockmen River Project — mobilização de massa por propaganda — caps. 409-415, 421
+
+- **Tipo:** projeto de obra pública / mobilização coercitiva de uma população inteira
+- **Onde:** a área sul de uma blessed land, onde vive uma tribo de **rockmen** (homens de
+  pedra).
+- **Gatilho / causa mecânica:** o dono da terra abençoada precisava de terraplenagem em escala
+  (abrir um canal de rio) e de Gu extraídos dos corpos dos rockmen, antes da calamidade
+  chegar. Os rockmen são a mão de obra ideal por **biologia**: comem terra, e muitos dos Gu que
+  nascem em seus corpos são aproveitáveis (cap. 415).
+- **Duração:** meses de trabalho contínuo até a calamidade (caps. 411-416).
+- **Escala:** a tribo inteira; **cento e vinte mortos numa única prestação de contas de poucos
+  dias**, e mortes diárias por exaustão como rotina (cap. 415).
+- **Regras especiais — a mecânica social, que é o miolo do evento:**
+  - **Um rockman que morre de exaustão tem a alma dissipada e morre de verdade** — não sobra
+    resíduo de alma para formar um rockman jovem, ou seja, cada morte por trabalho **subtrai
+    permanentemente da capacidade reprodutiva da espécie** (cap. 415). O ancião que aponta isso
+    é publicamente humilhado.
+  - **O sistema de controle é o pacote completo de mobilização:** lápides de herói erguidas
+    para os mortos ("seus filhos e descendentes vão lembrar e ser gratos"), slogans
+    entalhados nas pedras, e uma **guarda juvenil ("rock guards")** formada pelos jovens mais
+    fracos, encarregada de inspecionar o trabalho, entalhar slogans, fazer as lápides e
+    **amarrar e criticar publicamente os desanimados** — "que aprendam coragem pela
+    humilhação" (cap. 415).
+  - Funciona: "a moral baixa era imediatamente levantada; embora todo dia incontáveis rockmen
+    morressem de exaustão, eles continuavam de bom ânimo" — e os moribundos morriam sorrindo
+    (cap. 415). Nem o líder que montou o sistema consegue mais olhar nos olhos dos jovens que
+    ele fanatizou; a empolgação deles o **assusta** (cap. 415).
+  - Depois, o mesmo mecanismo é usado para **vender rockmen como escravos**, disfarçado de
+    missão sagrada (caps. 423-424).
+- **Prêmio / o que se ganha:** obra concluída, Gu colhidos, mercadoria viva.
+- **Papel possível de um grupo pequeno:** um cenário sem combate e com peso moral. O grupo pode
+  ser (a) os supervisores estrangeiros que precisam da obra pronta antes do prazo; (b)
+  os próprios rockmen, tentando salvar a espécie por dentro de um sistema que transforma
+  dissidência em humilhação pública; (c) investigadores que descobrem para onde vão os
+  "voluntários".
+- **Consequência para o mundo:** uma espécie inteira reduzida a insumo; e o modelo é
+  reaproveitável em qualquer clã que precise queimar população por um projeto.
+- **Cuidado de spoiler:** quem estava por trás e o que ele ganhou com isso; o destino da tribo.
+  A **mecânica de mobilização** é worldbuilding limpo e desconfortavelmente jogável.
+- **Lacunas:** a demografia total dos rockmen; se outras regiões os usam do mesmo jeito.
+
+---
+
+## Eventos recorrentes e institucionais
+
+### The Great Blizzard of Northern Plains (grande nevasca decenal) — caps. 440, 449, 470, 489
+
+- **Tipo:** calamidade climática regional / relógio civilizacional
+- **Onde:** **todo** o Northern Plains (Planícies do Norte), região de estepe sem montanhas.
+  Não existe abrigo natural: "no sul, os humanos fazem aldeias fortificadas que defendem
+  contra as marés de bestas; nas planícies do norte não há montanhas e as tribos têm de
+  sofrer o batismo do vento e da neve" (cap. 440).
+- **Gatilho / causa mecânica:** ciclo fixo do clima da região. **A cada dez anos uma grande
+  nevasca engole o Northern Plains inteiro** (cap. 440).
+- **Periodicidade:** a cada 10 anos, e ela sincroniza *todo* o calendário político da região.
+- **Duração:** — (a obra não dá o número de dias na faixa).
+- **Escala:** regional total. "Lobos, raposas, águias, vegetação e humanos; nenhum escapa"
+  (cap. 440).
+- **Ambiente por dentro:** o vento e a neve "cortam tudo como facas" (cap. 489); e — o dado
+  mais jogável — **durante a nevasca aparecem em massa Gu selvagens fortes** (cap. 440). A
+  nevasca também **destrói heranças montadas ao ar livre**, e por isso ninguém em sã
+  consciência deixa uma herança na estepe aberta (cap. 489).
+- **Regras especiais do local:** o único abrigo é ou geografia rara (vales de fogo subterrâneo
+  como **Hong Yan valley**, controlado por uma tribo que cobra caro pelo acesso — cap. 440,
+  449) ou **entrar numa blessed land** (a Imperial Court / Wang Ting blessed land). Um vale
+  quente pode esfriar por conta própria e deixar de servir de abrigo (cap. 555).
+- **Prêmio / o que se ganha:** nada — sobreviver é o prêmio; e a nevasca é o motor de tudo o
+  mais nesta lista.
+- **Fases:** contagem regressiva de anos → corrida diplomática por um lugar sob abrigo →
+  migrações em massa → heroes assembly e guerra pelo direito de entrar na Imperial Court →
+  nevasca → recontagem demográfica das tribos.
+- **Papel possível de um grupo pequeno:** escoltar a migração de uma tribo pequena; negociar
+  entrada num vale quente; caçar os Gu selvagens fortes que só aparecem na nevasca; salvar
+  heranças ao ar livre antes que sejam apagadas.
+- **Consequência para o mundo:** **reorganização demográfica compulsória a cada dez anos** —
+  "depois da nevasca, tribos de grande escala encolhem para média escala, e as de média
+  escala encolhem para pequena, por causa do enorme número de baixas" (cap. 440). É a razão
+  estrutural de as tribos do norte serem nômades e agressivas, e a razão de todas as heranças
+  do norte estarem guardadas dentro da Imperial Court (cap. 489).
+- **Cuidado de spoiler:** nenhum — é pura estrutura de mundo. (Manter fora as tramas
+  familiares específicas usadas na obra para ilustrá-la: o casamento arranjado, a fuga da
+  noiva.)
+- **Lacunas:** duração exata, temperatura, se há regiões do norte poupadas.
+
+> [!note] Para o design
+> É o melhor "relógio de campanha" da obra inteira: uma contagem regressiva de dez anos que
+> obriga toda facção a se mexer, e que reseta o mapa político no fim de cada ciclo.
+
+### Heroes Assembly (assembleia dos heróis) — caps. 440, 448-450, 470-501
+
+- **Tipo:** torneio + feira política + formação de alianças (a "fase de classificatórias" da
+  disputa pela Imperial Court)
+- **Onde:** simultaneamente em **todas as regiões famosas do Northern Plains** — a obra nomeia
+  quatro por nome: **Tian Chuan, Yu Tian, Meng Qiu e Cao Fu** (cap. 489, 496). Cada região
+  tem a sua assembleia, com seus favoritos.
+- **Gatilho / causa mecânica:** "Para essa disputa, a heroes assembly veio a existir e
+  lentamente tomou forma até virar uma tradição firme do povo das planícies do norte"
+  (cap. 489). Ela existe porque a Imperial Court blessed land só abre de dez em dez anos e
+  as vagas são disputadas — é o mecanismo pelo qual as tribos decidem *quem representa a
+  região* antes de a nevasca chegar.
+- **Periodicidade:** a cada 10 anos, **todas as regiões ao mesmo tempo**, quando a grande
+  nevasca se aproxima (cap. 489).
+- **Duração:** semanas a meses; em Yu Tian já durava meio mês quando o texto a mostra
+  (cap. 497), e as assembleias de regiões diferentes terminam em datas diferentes (cap. 496).
+- **Escala:** toda a região. "Essa disputa envolvia todo o Northern Plains e era de escala
+  extremamente grande. Tribos de pequena escala queriam sobreviver, tribos de média escala
+  queriam avançar, e tribos de grande escala queriam defender sua base. Não só o caminho
+  justo (righteous path), mas até Gu Masters do caminho demoníaco queriam entrar na blessed
+  land e tomar as heranças" (cap. 489).
+- **Ambiente por dentro:** um acampamento-feira com **palco de batalha** (battle stage) no
+  centro. Duelos formais rodada a rodada entre campeões enviados por cada tribo; o vencedor
+  recebe uma taça de vinho e prestígio na hora (cap. 497). Ao redor, banquetes, mercados
+  conjuntos das tribos vizinhas (cap. 440), troca de intel por Gu mensageiros, e negociação
+  aberta de submissão e alianças.
+- **Regras especiais do local:**
+  - Uma tribo pode **desafiar outra tribo** e o desafiado não pode recusar sem perder a face
+    ("não posso mostrar fraqueza na heroes assembly" — cap. 497). Isso é usado como arma: um
+    líder desafia repetidamente o rival só para **consumir os especialistas dele** um a um.
+  - Reféns e casamentos são fichas legítimas de barganha na mesa (cap. 470, 497).
+  - **Não participar é suicídio político:** uma tribo que se desliga "das regras do jogo"
+    é ostracizada, com impacto enorme (cap. 496).
+  - Um Gu Master errante e sem tribo usa a assembleia para se vender a uma facção — é o
+    caminho normal de um demônio solitário conseguir abrigo para a nevasca (cap. 470).
+  - Quanto maior a força que você traz (ex.: um bando de bestas escravizadas), maior sua
+    "autoridade e voz" na mesa (cap. 496).
+- **Prêmio / o que se ganha:** o vencedor de cada região "atrai mais especialistas e faz mais
+  tribos se apegarem a ele" (cap. 489); a assembleia é **só a etapa preliminar** para montar a
+  aliança de verdade, que depois vai à guerra (cap. 500).
+- **Fases:** (1) migração e chegada das tribos; (2) rodadas de duelos no palco; (3) submissões,
+  absorções e casamentos; (4) formação da aliança regional sob um líder, selada por **poison
+  vow Gu** (Gu de juramento venenoso — cap. 500); (5) a aliança marcha para a guerra regional.
+- **Papel possível de um grupo pequeno:** ideal para rank 3-4. Ser os campeões de uma tribo
+  pequena no palco; negociar a submissão da própria tribo pelo melhor preço; sabotar o campeão
+  rival; escoltar um refém; vender-se ao maior lance.
+- **Consequência para o mundo:** define o mapa de poder do Northern Plains pelos dez anos
+  seguintes e decide **quem entra na Imperial Court**.
+- **Cuidado de spoiler:** os nomes dos vencedores, os campeões específicos, o herói disfarçado
+  e o desfecho de cada assembleia. A instituição não é spoiler; o placar é.
+- **Lacunas:** a obra não dá o número de regiões que sediam assembleia (nomeia quatro), nem o
+  regulamento formal dos duelos (morte permitida? rendição?).
+
+### Imperial Court Contest e Imperial Court (Wang Ting) blessed land — caps. 489, 500-501, 550-556
+
+- **Tipo:** grande abertura de terreno de herança + guerra regional pelo direito de entrar
+- **Onde:** **Imperial Court blessed land** (também chamada Wang Ting blessed land), a terra
+  abençoada mais sagrada do Northern Plains — "uma posição elevada e sagrada nos corações do
+  povo das planícies do norte, um símbolo espiritual, e também um berço que nutriu muitos Gu
+  Immortals do norte" (cap. 550). No centro fica o **sacred palace** (palácio sagrado), uma
+  das quatro câmaras de repouso do **Giant Sun Immortal Venerable** (as outras três ficam no
+  Eastern Sea, Western Desert e Southern Border — cap. 552).
+- **Gatilho / causa mecânica:** o Venerável deixou a terra abençoada como legado aos
+  descendentes e **estabeleceu ele mesmo as regras do Imperial Court contest** antes de sumir
+  do mundo (cap. 552). A terra abre **uma vez a cada dez anos** (cap. 552), casada com o ciclo
+  da nevasca.
+- **Periodicidade:** a cada 10 anos.
+- **Duração:** meses (o contest inteiro, incluindo a exploração interna, ocupa a maior parte
+  de um ciclo — caps. 550-640).
+- **Escala:** dezenas de milhares. Só no palácio sagrado havia "quase dez mil pessoas" logo no
+  começo (cap. 553); a guerra prévia mobiliza alianças tribais inteiras, exércitos de bestas
+  na casa das centenas de milhares (cap. 501) e Gu Masters até rank 5.
+- **Ambiente por dentro:**
+  - Terreno vasto e variado, cheio de **heranças escondidas** de todas as eras: heranças de Gu
+    Immortal, de rank 4 e 5, e muitas de rank 1 a 3 (cap. 496). Deixar herança ali virou
+    tradição do norte **porque a nevasca destrói qualquer herança deixada na estepe**
+    (cap. 489).
+  - **Pequenas torres a cada oito li** espalhadas por toda a terra abençoada — elas são,
+    secretamente, partes do Eighty-Eight True Yang Building, e afundam no chão conforme o
+    prédio se condensa no céu (cap. 555-556).
+  - **Não há luz de estrelas no céu** da Imperial Court, o que quebra métodos que dependem de
+    starlight (cap. 550).
+  - Gu selvagens para subjugar, para quem não tem chance nas heranças grandes (cap. 555).
+- **Regras especiais do local:**
+  - **Gu Immortals são proibidos de entrar.** É exatamente por isso que o Eighty-Eight True
+    Yang Building sobreviveu tanto tempo com mais da metade das heranças intactas (cap. 600).
+  - Quem tem o **sangue Huang Jin** (a linhagem dos descendentes do Giant Sun Immortal
+    Venerable, que domina quase toda a região — cap. 552) tem privilégios; o líder da aliança
+    vencedora com sangue Huang Jin **aparece automaticamente no palácio sagrado** ao entrar
+    (cap. 552).
+  - O **owner token** (talismã de dono) fica com o líder da aliança e **se autodestrói se sair
+    da Imperial Court blessed land** (cap. 560).
+  - Não se anda montado dentro do palácio sagrado, por respeito ao Venerável; e as portas
+    principais dos oito grandes palácios só podiam ser usadas por ele — a regra sobreviveu à
+    morte dele (cap. 553).
+  - **O terreno se regenera:** batalhas mudam a paisagem durante o contest, mas quando a
+    Imperial Court fecha "o terreno lentamente se recupera" (cap. 552) — por isso ali funciona
+    uma herança que usa o relevo como pista, coisa impossível no mundo lá fora.
+  - Um efeito colateral crucial: uma herança dentro da Imperial Court exige **duas**
+    qualificações — decifrar a pista (o que costuma pedir um Gu Master de avaliação) **e** ter
+    vencido o contest para poder estar ali (cap. 552).
+- **Prêmio / o que se ganha:** sobreviver à nevasca em segurança; heranças de todos os níveis;
+  e o topo do topo, o acesso ao Eighty-Eight True Yang Building. "Todas as tribos que
+  entraram na Imperial Court ao longo da história tiveram um aumento enorme de força"
+  (cap. 489).
+- **Fases:** heroes assembly regionais → formação das alianças → **guerra aberta entre
+  alianças** nas várias regiões (cap. 501) → os vencedores entram → exploração interna →
+  fechamento e regeneração do terreno.
+- **Papel possível de um grupo pequeno:** rank 2-5. Antes: mercenários numa das alianças.
+  Dentro: caçadores de herança de baixo escalão vasculhando o mapa enquanto os grandes se
+  batem pelo palácio — a obra explicita que **a maioria dos Gu Masters não entra no True Yang
+  Building e passa o tempo vagando pela blessed land, subjugando Gu selvagens ou procurando
+  heranças** (cap. 555). Um bom grupo pode achar uma herança de Gu Immortal escondida sob uma
+  torre deslocada (cap. 556).
+- **Consequência para o mundo:** decide o hegemon do Northern Plains da década; e "berço" de
+  gerações inteiras de Gu Immortals do norte (cap. 550).
+- **Cuidado de spoiler:** que a Imperial Court blessed land é **destruída** cerca de 500 anos
+  depois por uma aliança de Gu Immortals do Central Continent, com o palácio sagrado e o
+  Eighty-Eight True Yang Building junto (cap. 550, 553) — isso é conhecimento de futuro obtido
+  por um personagem, portanto enredo. Também: quem venceu, quem tinha o token, quem se
+  disfarçou de quem.
+- **Lacunas:** quantas vagas a Imperial Court comporta; o que decide exatamente o número de
+  entrantes por aliança.
+
+### Eighty-Eight True Yang Building (torre de provações do Giant Sun) — caps. 555-640
+
+- **Tipo:** masmorra institucional / Immortal Gu house de rank 8 que se remonta a cada ciclo
+- **Onde:** condensa-se **acima do palácio sagrado**, no centro da Imperial Court blessed land
+  (cap. 555).
+- **Gatilho / causa mecânica — o mecanismo é a melhor peça de design da faixa:** o prédio é
+  uma **Immortal Gu house rank 8** refinada pelo **Long Hair Ancestor** (um dos três grandes
+  mestres do caminho de refino da história), tendo o **divert disaster Gu** como uma das
+  pedras angulares. A cada ciclo ele **saqueia o Northern Plains inteiro**, puxando os
+  recursos de Gu preciosos da região para cima do palácio sagrado, e com eles condensa
+  **andar por andar** (cap. 593). Cada formação do prédio é, literalmente, **um novo processo
+  de refino**: ele absorve um Gu forte e usa a força dele para formar a **centésima rodada**
+  do andar; absorve o próximo mais forte e forma a 99ª; depois a 98ª, a 97ª... (cap. 593). Se
+  não houver Gu à altura, ele substitui por receita de Gu, primeval stones ou segredos de
+  herança (cap. 593). Quem faz o refino de fato é a **vontade do Giant Sun** hospedada no
+  prédio — por isso ele nunca falha um refino (cap. 593).
+- **Periodicidade:** a cada 10 anos, junto com a abertura da Imperial Court. Tem **88 andares**;
+  eles se condensam em ordem e o processo continua durante o contest (no texto, o 68º andar
+  ainda estava se formando quando 67 já existiam — cap. 593).
+- **Duração:** o ciclo inteiro do contest.
+- **Escala:** milhares de Gu Masters simultâneos quando o dono do token abre o prédio para
+  todos (cap. 593); grupos organizados por tribo; mortalidade alta ("trinta por cento dos Gu
+  Masters com ele pereceram" numa única rodada — cap. 593).
+- **Ambiente por dentro:** cada **rodada** (round) é um cenário fechado e autocontido, com sua
+  própria geografia e seu próprio quebra-cabeça. Exemplo verificado (54ª rodada): uma ilha no
+  centro de um lago, um bando de *water snake lions* na ilha e um bando de *hedgehog fish* na
+  água sob seu comando — o número de peixes é só o dobro do de leões, e um leão vale cinco ou
+  seis peixes. É uma prova de **caminho de escravização (enslavement path)** disfarçada de
+  batalha impossível: a solução foi tática, não força bruta (cap. 557).
+- **Regras especiais do local — o coração jogável:**
+  - **Cada rodada é avaliada em três graus** (cap. 557): **baixo** = recompensa mínima, segue
+    para a próxima rodada; **médio** = o dobro da recompensa do baixo, **mais informação
+    antecipada sobre a próxima rodada**; **alto** = o dobro da recompensa do médio, **mais
+    transporte para a "treasure room"** (câmara do tesouro) nas profundezas do prédio, onde o
+    conteúdo não é dado de graça: precisa ser **trocado** por algo (cap. 557).
+  - **Tokens.** Quem tem sangue Huang Jin entra e sai à vontade (cap. 555). Quem não tem
+    precisa de um **guest token** (talismã de convidado) — **cada um serve uma única vez** e
+    derrete na mão ao entrar (cap. 556-557). Guest tokens são eles próprios recompensas de
+    rodada (cap. 556) e podem virar mercadoria de preço absurdo (cap. 593).
+  - **A recompensa vai para quem limpa a rodada, não para o chefe.** Um líder de tribo pode
+    tomar tudo dos próprios tribesmen pela autoridade interna, mas **pelas regras do prédio,
+    a recompensa de um reforço convidado pertence ao reforço** (cap. 556). Isso torna
+    "chamar o especialista de fora" uma decisão cara e política.
+  - **Owner token e "edges" (gumes).** Existe um talismã superior, o **owner token**, que dá
+    ao portador o controle de uma parte do prédio: entrada livre na treasure room sem precisar
+    de avaliação alta, e visão do que se passa lá dentro (cap. 560). Ele **evolui por gumes**:
+    a cada andar completado por um descendente do Giant Sun, o token ganha um gume, e com
+    **um gume** já se controla um andar inteiro (cap. 575, 562). É por isso que um dono de
+    token tem incentivo em abrir o prédio para uma multidão: cada rodada que a multidão limpa
+    faz o token dele avançar (cap. 562, 565).
+  - **Dificuldade e prêmio andam juntos por construção:** "quanto mais difícil a rodada, mais
+    farta a recompensa; e inversamente, quanto mais farta a recompensa ou mais forte o Gu,
+    mais difícil a rodada" — porque o Gu que forma a rodada *é* o prêmio dela (cap. 593).
+  - O dono do token pode **fechar o prédio para todos** e ninguém ousa reclamar (cap. 593).
+  - Gu Immortals não entram na Imperial Court, mas **podem dar suporte à distância a um andar
+    em formação** — e o suporte perde eficácia quanto mais o andar se condensa (cap. 593).
+  - **Falhas estruturais:** quando a vontade do Giant Sun hiberna, o refino desacelera e
+    **abre-se uma brecha** no prédio (cap. 593). A obra menciona **treze falhas** conhecidas
+    por terceiros, cada uma capaz de avançar um owner token adulterado em um gume (cap. 575).
+- **Prêmio / o que se ganha:** receitas de Gu, Gu mortais e **Immortal Gu** (a rodada final de
+  um andar *pode* ter um Immortal Gu, mas não necessariamente — cap. 556); "cada item podia
+  fazer um Gu Master ascender apesar de origem ordinária" (cap. 556). E, no topo da escada,
+  o acesso ao true inheritance secluded domain.
+- **Fases:** condensação dos andares (as torres do mapa afundam) → abertura → subida rodada a
+  rodada, andar a andar → dez andares completos habilitam o domínio secluso → colapso/
+  dissolução no fim do ciclo.
+- **Papel possível de um grupo pequeno:** **este é o formato de masmorra pronto da obra.**
+  Cada rodada é um encontro autocontido com uma condição de vitória de três níveis — os
+  jogadores decidem toda hora se aceitam o "passe baixo" e seguem, ou se arriscam a morte por
+  um passe alto e a câmara do tesouro. A economia de guest tokens dá a moeda da mesa; a regra
+  de que a recompensa pertence a quem limpa dá o conflito político com os patronos.
+- **Consequência para o mundo:** transfere recursos de Gu de toda uma região para as mãos de
+  poucos vencedores a cada década; é a fábrica de Gu Immortals do Northern Plains.
+- **Cuidado de spoiler:** a vontade do Giant Sun como personagem ativo e antagonista, a
+  infiltração de vontades de fora, quem obteve qual Immortal Gu, e o destino final do prédio.
+  O **mecanismo** (andares, rodadas, graus, tokens, gumes) é worldbuilding puro e pode ir
+  inteiro para a nota final.
+- **Lacunas:** quantas rodadas tem cada andar (a obra mostra numeração até a 100ª de um andar
+  — cap. 593); o que acontece com quem está dentro quando o ciclo acaba.
+
+### True Inheritance Secluded Domain (domínio secluso das verdadeiras heranças) — caps. 597-602, 620-639
+
+- **Tipo:** câmara final de herança / armadilha mortal com relógio
+- **Onde:** um espaço escuro e imenso nas profundezas do Eighty-Eight True Yang Building
+  (cap. 597).
+- **Gatilho / causa mecânica:** Giant Sun Immortal Venerable colocou ali **oitenta e oito
+  verdadeiras heranças** para os descendentes (cap. 598). Entrar exige três coisas, em ordem:
+  (1) ser um dos **vencedores do Imperial Court contest** daquele ciclo; (2) ter completado
+  **pelo menos dez andares** do Eighty-Eight True Yang Building; (3) sobreviver ao **teste**
+  da herança que se pretende tomar (cap. 600).
+- **Periodicidade:** só existe enquanto a Imperial Court está aberta; e é raríssimo alguém
+  chegar a dez gumes num ciclo (cap. 599).
+- **Duração:** dias a meses de permanência possível — mas o tempo *dentro* é o inimigo (ver
+  regras).
+- **Escala:** pouquíssimas pessoas por ciclo. A obra registra um caso histórico de **onze Gu
+  Immortals** do Central Continent entrando e apenas **nove** saindo, todos feridos (cap. 599).
+- **Ambiente por dentro:** escuridão. As heranças são **grumos de luz voando em órbitas
+  próprias**, cada um com sua cor e sua cauda luminosa. O tamanho denuncia o grau:
+  **tigela = ordinary true inheritance; bacia = unparalleled true inheritance; do tamanho de
+  um homem adulto = supreme true inheritance** (cap. 600).
+- **Regras especiais do local:**
+  - **Três graus de herança.** Ordinárias (a maioria); **unparalleled** (incomparáveis, poucas
+    mas não raríssimas); e apenas **três supreme true inheritances** no domínio inteiro
+    (cap. 600). O owner token limita o que se pode *levar*: com dez gumes só se leva uma
+    ordinária, mesmo passando no teste de uma superior (cap. 600).
+  - **Cada herança tem seu próprio teste, e o teste é o perigo.** Verificados: uma que carrega
+    um traço de vontade de um Venerável e só um Gu Immortal suportaria (foi *amortecida* pelo
+    dono do prédio para que mortais sobrevivessem — cap. 597); outra que ataca diretamente a
+    **abertura (aperture)** do candidato, rachando as paredes, e cuja saída ortodoxa seria
+    amputar os próprios braços (cap. 598).
+  - **O relógio.** "Toda vez que entram em contato com uma verdadeira herança, ou quanto mais
+    tempo ficam ali, **mais rápido as heranças se movem**" — até voarem como meteoros,
+    impossíveis de capturar. E elas matam por colisão (cap. 600). O domínio também **encolhe**
+    com o tempo, até as caudas luminosas tecerem uma teia por onde só se passa pelas frestas
+    (cap. 600). Quem hesita demais já não consegue pegar nem uma ordinária, e continua correndo
+    risco de vida.
+  - **Só a aura já mata:** aproximar-se de uma supreme true inheritance quase matou um rank 5
+    sem nenhum contato (cap. 600); uma unparalleled dissolveu uma vontade sondadora antes que
+    ela chegasse perto (cap. 600).
+  - Uso de Gu é permitido dentro do domínio (cap. 600).
+  - **Truque canônico de sondagem:** criar uma *vontade* (will) com Gu do caminho da sabedoria,
+    montá-la num *big soul worm* e mandá-la tocar a herança no seu lugar — assim se lê o
+    conteúdo **sem disparar o teste** (cap. 598). Funciona nas ordinárias; falha nas superiores.
+  - **Heranças podem ser saqueadas e ficarem cascas vazias** — uma delas foi encontrada sem o
+    Immortal Gu e sem os três mil Gu mortais, levados por alguém antes (cap. 598). Das 88
+    originais, dez mil anos atrás já só restavam 53 (cap. 599).
+  - Uma herança **danificada** desequilibra o domínio e faz as heranças **colidirem umas com as
+    outras** (cap. 601).
+- **Prêmio / o que se ganha:** conhecimento e Immortal Gu do mais alto nível — teoria de refino
+  de um grão-mestre, métodos de **estender lifespan** criados por um Venerável, Immortal Gu
+  lendários (cap. 597-600).
+- **Fases:** entrada → busca em órbita lenta → escolha (ou ganância) → aceleração progressiva →
+  encolhimento do espaço → saída forçada ou morte.
+- **Papel possível de um grupo pequeno:** é o clímax de uma campanha de Imperial Court. Um
+  cenário de **puro risco-x-ganância com temporizador**, sem inimigo pensante: cada minuto a
+  mais aumenta o prêmio possível e a chance de morrer. Excelente para forçar decisões entre
+  jogadores que querem coisas diferentes.
+- **Consequência para o mundo:** cada herança levada some do domínio para sempre — o acervo é
+  finito e vem se esvaziando ao longo de milênios (cap. 599).
+- **Cuidado de spoiler:** o conteúdo específico das três supremas, quem as levou, e o papel da
+  vontade que serve de guia. O **conteúdo** das supremas é a maior mina de spoiler da faixa.
+- **Lacunas:** quantas heranças restam hoje; qual a velocidade-limite; se há saída voluntária
+  segura em qualquer momento.
+
+### Immortal Crane Sect Gu Immortal Meeting — o conselho orçamentário dos imortais — cap. 697
+
+- **Tipo:** assembleia institucional / sessão política
+- **Onde:** o salão de conselho de uma das **dez grandes seitas antigas** do Central Continent.
+- **Gatilho / causa mecânica:** a seita precisa alocar um recurso escasso e fungível — os
+  **immortal essence stones** (pedras de essência imortal) — entre projetos concorrentes.
+- **Periodicidade:** regular (a sessão mostrada "decidiu o que a seita faria nos próximos
+  meses" — cap. 698).
+- **Duração:** **um dia e uma noite** de discussão (cap. 698).
+- **Escala:** **oito Gu Immortals** presentes, presididos pelo **primeiro ancião supremo, rank
+  8**, que abre e fecha cada item batendo um sino cujo som **engole a voz de todos** (cap. 697).
+- **Ambiente por dentro:** imortais sentados em círculo, aura imortal irradiando, discutindo
+  contabilidade. O tom é de reunião de diretoria — inclusive as acusações de peculato:
+  "Shu Zhi Ge, você está atrasando o tratamento para poder tirar proveito do processo?"
+  (cap. 697).
+- **Regras especiais do local — como funciona a política imortal:**
+  - **Cada proposta vira uma cifra e vai a voto.** O proponente pede um valor em immortal
+    essence stones; os presentes objetam ou apoiam; a proposta é votada. No caso mostrado,
+    **cinco dos oito objetaram** e o proponente saiu com 200 em vez dos 360 pedidos
+    (cap. 697).
+  - **Facções internas são explícitas:** "todos os presentes eram anciãos supremos, mas tinham
+    também suas facções e conflitos internos" (cap. 697).
+  - **Informação é alavanca de voto:** um imortal condicionou o voto a ouvir o relatório de
+    progresso de outra pesquisadora, e votou contra ao saber que o projeto não avançava
+    (cap. 697).
+  - **Pautas típicas verificadas:** tratar uma besta desolada antiga da seita; reforçar uma
+    frente de guerra permanente (o *reincarnation battlefield*, disputado contra as outras
+    nove seitas, em que escalar reforços só faz o adversário escalar também — cap. 697);
+    impedir a independência de uma **seita subsidiária** aliciando um dos imortais dela;
+    retomar uma blessed land.
+  - **Economia de fundo:** as dez grandes seitas controlam **oitenta por cento dos recursos do
+    Central Continent**, e **só elas conseguem sustentar muitos Gu Immortals**; uma seita
+    subsidiária entrega recursos todo mês e por isso seus imortais vivem em escassez — o que
+    os torna **compráveis** (cap. 697). O preço citado para aliciar um Gu Immortal: tratamento
+    igual ao dos membros plenos **mais cerca de 75 immortal essence stones** (cap. 697).
+- **Prêmio / o que se ganha:** orçamento, e o direito de conduzir uma operação em nome da
+  seita.
+- **Papel possível de um grupo pequeno:** uma sessão inteira de mesa sem combate. Os jogadores
+  são os agentes cujo projeto está na pauta e precisam **conseguir os votos**: levantar
+  evidências de progresso antes da reunião, comprar um voto, expor o peculato do rival,
+  descobrir qual imortal a facção adversária já aliciou.
+- **Consequência para o mundo:** o orçamento vira as guerras e cercos dos meses seguintes.
+- **Cuidado de spoiler:** os nomes, as intrigas específicas e o alvo do aliciamento. A
+  **instituição** (conselho, sino, voto, orçamento em pedras) é worldbuilding limpo e
+  altamente jogável.
+- **Lacunas:** a periodicidade formal do conselho; se há quórum ou poder de veto do rank 8.
+
+### Zombie Alliance e Snowy Mountain Alliance — alianças como instituições — caps. 653, 660, 737-746
+
+- **Tipo:** organização transregional (Zombie Alliance) e pacto formal entre imortais
+  (alianças juradas)
+- **Onde:** a **Zombie Alliance** tem sede no **Eastern Sea** e uma **filial em cada uma das
+  outras quatro regiões**; sua filial do norte se reúne na **Dark Flow Giant City** (cidade
+  gigante do fluxo escuro — caps. 653, 739).
+- **Gatilho / causa mecânica:** um Gu Immortal que chega ao **fim do lifespan** sem obter um
+  lifespan Gu pode virar **immortal zombie** para não morrer. O preço é estrutural: a abertura
+  imortal dele **morre** — não produz mais essência imortal nem absorve qi do céu e da terra,
+  e sua blessed land começa a encolher e desmoronar; por isso a força de combate dele em
+  geral fica abaixo da de um Gu Immortal normal (cap. 653). A aliança nasceu para esses
+  imortais **pesquisarem juntos como recuperar um corpo vivo** (cap. 653).
+- **Periodicidade:** permanente. Existe desde a **Era da Antiguidade Medieval, há trezentos mil
+  anos** (cap. 653).
+- **Escala:** "uma superforça espalhada pelas cinco regiões"; as filiais são mais fracas que as
+  superforças nativas de cada região, **mas a sede do Eastern Sea é um nível acima das
+  superforças locais** (cap. 653).
+- **Regras especiais — como se entra e como se vive:**
+  - **Entrar é fácil e a identidade não se falsifica:** basta demonstrar a condição de immortal
+    zombie; a aliança pesquisou muito o assunto e tem **muitos métodos para distinguir um
+    immortal zombie verdadeiro** (cap. 653).
+  - **Eles recrutam com avidez** porque **são suprimidos por todas as superforças** e operam
+    com dificuldade (cap. 653) — ou seja, é uma organização de párias com um problema comum.
+  - A filial do norte realiza uma **Immortal Zombie Discussion** (assembleia de zumbis
+    imortais) numa cidade própria (caps. 741-743).
+- **Alianças juradas entre imortais (regra geral, muito jogável):** um pacto entre Gu Immortals
+  é selado com um **Immortal Gu de juramento**. Exemplo verificado: **Mountain Pledge**, Gu
+  imortal rank 6 de information path, "tão famoso quanto o sea oath Gu": escolhe-se uma
+  montanha para jurar, e **enquanto aquela montanha existir, o juramento não pode ser
+  violado** (cap. 660). Entre mortais o equivalente é o **poison vow Gu** (cap. 500) — e
+  existem Gu raros que anulam juramentos, o que é o pesadelo silencioso de todo pacto
+  (cap. 500).
+- **Papel possível de um grupo pequeno:** trabalhar *para* uma aliança de párias — escoltar
+  material de pesquisa, recuperar um corpo, mediar entre a filial e uma superforça local; ou
+  ser mortais contratados por um patrono imortal cujo juramento os obriga a algo que eles não
+  querem fazer.
+- **Consequência para o mundo:** existe uma classe permanente de imortais falidos e
+  desesperados por um recurso específico (lifespan), o que é um motor infinito de contratos
+  sujos.
+- **Cuidado de spoiler:** quem virou zumbi e por quê; as intrigas dentro da filial norte.
+- **Lacunas:** o organograma da aliança; o que ela cobra dos membros.
+
 ### Immortal Ascension Tribulation — a prova de passagem para imortal — caps. 606-612, 683-685
 
 - **Tipo:** provação individual com raio de dano coletivo
@@ -1112,51 +1149,6 @@ que é enredo e **não** pode migrar para a nota final.
 - **Cuidado de spoiler:** quem ascendeu, quem ajudou e o que foi cobrado depois.
 - **Lacunas:** a lista completa das Dez Grandes Catástrofes; a fórmula que liga densidade de qi
   a intensidade.
-
-### The Rockmen River Project — mobilização de massa por propaganda — caps. 409-415, 421
-
-- **Tipo:** projeto de obra pública / mobilização coercitiva de uma população inteira
-- **Onde:** a área sul de uma blessed land, onde vive uma tribo de **rockmen** (homens de
-  pedra).
-- **Gatilho / causa mecânica:** o dono da terra abençoada precisava de terraplenagem em escala
-  (abrir um canal de rio) e de Gu extraídos dos corpos dos rockmen, antes da calamidade
-  chegar. Os rockmen são a mão de obra ideal por **biologia**: comem terra, e muitos dos Gu que
-  nascem em seus corpos são aproveitáveis (cap. 415).
-- **Duração:** meses de trabalho contínuo até a calamidade (caps. 411-416).
-- **Escala:** a tribo inteira; **cento e vinte mortos numa única prestação de contas de poucos
-  dias**, e mortes diárias por exaustão como rotina (cap. 415).
-- **Regras especiais — a mecânica social, que é o miolo do evento:**
-  - **Um rockman que morre de exaustão tem a alma dissipada e morre de verdade** — não sobra
-    resíduo de alma para formar um rockman jovem, ou seja, cada morte por trabalho **subtrai
-    permanentemente da capacidade reprodutiva da espécie** (cap. 415). O ancião que aponta isso
-    é publicamente humilhado.
-  - **O sistema de controle é o pacote completo de mobilização:** lápides de herói erguidas
-    para os mortos ("seus filhos e descendentes vão lembrar e ser gratos"), slogans
-    entalhados nas pedras, e uma **guarda juvenil ("rock guards")** formada pelos jovens mais
-    fracos, encarregada de inspecionar o trabalho, entalhar slogans, fazer as lápides e
-    **amarrar e criticar publicamente os desanimados** — "que aprendam coragem pela
-    humilhação" (cap. 415).
-  - Funciona: "a moral baixa era imediatamente levantada; embora todo dia incontáveis rockmen
-    morressem de exaustão, eles continuavam de bom ânimo" — e os moribundos morriam sorrindo
-    (cap. 415). Nem o líder que montou o sistema consegue mais olhar nos olhos dos jovens que
-    ele fanatizou; a empolgação deles o **assusta** (cap. 415).
-  - Depois, o mesmo mecanismo é usado para **vender rockmen como escravos**, disfarçado de
-    missão sagrada (caps. 423-424).
-- **Prêmio / o que se ganha:** obra concluída, Gu colhidos, mercadoria viva.
-- **Papel possível de um grupo pequeno:** um cenário sem combate e com peso moral. O grupo pode
-  ser (a) os supervisores estrangeiros que precisam da obra pronta antes do prazo; (b)
-  os próprios rockmen, tentando salvar a espécie por dentro de um sistema que transforma
-  dissidência em humilhação pública; (c) investigadores que descobrem para onde vão os
-  "voluntários".
-- **Consequência para o mundo:** uma espécie inteira reduzida a insumo; e o modelo é
-  reaproveitável em qualquer clã que precise queimar população por um projeto.
-- **Cuidado de spoiler:** quem estava por trás e o que ele ganhou com isso; o destino da tribo.
-  A **mecânica de mobilização** é worldbuilding limpo e desconfortavelmente jogável.
-- **Lacunas:** a demografia total dos rockmen; se outras regiões os usam do mesmo jeito.
-
----
-
-## Eventos recorrentes e institucionais (continuação)
 
 ### Reincarnation Battlefield — a arena permanente das dez grandes seitas — caps. 696-697, 745, 776
 
@@ -1240,6 +1232,53 @@ que é enredo e **não** pode migrar para a nota final.
   são worldbuilding; o desfecho é enredo.**
 - **Lacunas:** o que exatamente é um dream realm (a obra ainda não explica nesta faixa); se
   eles podem ser criados de propósito.
+
+### Inheritance grounds com janela periódica — o formato "porta que abre a cada N dias" — caps. 495-496, 548, 550, 552
+
+A obra usa repetidamente um formato compacto e imediatamente jogável: **um terreno de herança
+que só abre em janelas curtas e periódicas, com uma defesa que sai pela porta junto com a
+abertura.** Exemplo integralmente verificado, no **Xing Jiu peak** (cap. 550): "esta herança
+abre **a cada sete dias**, e durante a abertura solta uma luz estelar altíssima e revela uma
+**porta de luz estelar**. Essa duração não só é extremamente curta, como também há **grupos de
+insetos que saem correndo da porta**, impedindo que entremos." Consequência prática: forma-se
+um **acampamento permanente de candidatos** ao redor da porta, com brigas entre eles no
+intervalo — e quem chega com força bruta pode simplesmente **tomar a vez dos outros**, ao custo
+da reputação (cap. 550).
+
+Variantes do mesmo formato na faixa:
+- **Herança escondida em objeto falso:** a pista é uma laje de pedra cinza-esbranquiçada que
+  parece lixo e exige **um Gu Master especializado em avaliação** para ser decifrada; e o
+  terreno em si estava escondido sob uma torre deslocada de propósito (caps. 495-496, 556).
+- **Herança escondida no covil de uma besta:** a "herança escondida no covil da píton de fogo
+  sinistro" (cap. 548) — a defesa é simplesmente o bicho que mora lá.
+- **Herança que exige duas qualificações independentes:** decifrar a pista *e* ter o direito de
+  estar naquele lugar (cap. 552).
+
+> [!note] Para o design
+> Este é o "encontro padrão" da obra e o mais fácil de multiplicar numa mesa: uma janela curta,
+> uma horda que sai junto com a porta, um monte de rivais acampados esperando a mesma janela, e
+> um prêmio que ninguém sabe medir de fora.
+
+### Treasure Yellow Heaven — o mercado permanente dos imortais — caps. 462-469
+
+- **O que é:** "um grotto-heaven muito peculiar, **vazio**, sem montanhas, árvores ou rios, sem
+  aves, bestas, vermes ou peixes — **só tesouros dentro**" (cap. 466). É "o maior mercado de
+  transações entre Gu Immortals" (cap. 467).
+- **Como se entra:** ninguém entra em pessoa. Usa-se um **connecting heaven Gu** para mandar o
+  **divine sense** (sentido divino) até lá; uma vez ligado ao Treasure Yellow Heaven, aquele
+  connecting heaven Gu **não pode mais ser realocado** (cap. 466). Os negociantes são vontades
+  e sentidos divinos flutuando, o que torna **anonimato e falsificação de identidade
+  perfeitamente viáveis** — na obra, um mortal se passa por Gu Immortal ali (cap. 462).
+- **Como um item é avaliado:** cada mercadoria emite **treasure light** (luz de tesouro) cuja
+  **altura em metros** denuncia o valor; um lote de couros comuns brilhava de três a nove
+  metros (cap. 466). Os *treasure light Gu* de rank 1 a 3 são banais, os de rank 4 e 5 ficam
+  com grandes forças, e acima disso são Immortal Gu (cap. 466).
+- **Regra de mercado:** **Immortal Gu quase nunca são vendidos ali** (cap. 467) — coerente com
+  a regra do leilão (Immortal Gu não se compram com dinheiro). E um lote com condição
+  irrealista "fica no treasure yellow heaven sem comprador para sempre" (cap. 469).
+- **Por que importa para os eventos:** é o **preço de referência do mundo**. Toda pilhagem de
+  todos os eventos acima só vira poder depois de passar por aqui, e a obra dá preços concretos
+  a killer moves e materiais em immortal essence stones (caps. 712-713).
 
 ---
 
@@ -1381,3 +1420,74 @@ depois do outro" (cap. 735). Há indício de que o **Heavenly Court usa a conven
 instrumento próprio** — "usar a última Refinement Path Convention para curar a ferida do Fate
 Gu vai dar um salto qualitativo" (cap. 780). **A convenção em si acontece depois do cap. 800**
 — quem varrer a faixa seguinte deve documentá-la como evento próprio.
+
+---
+
+## Candidatos a nota própria
+
+Ordenados pelo quanto rendem numa mesa, com a faixa de rank de personagem que caberia.
+
+1. **Eighty-Eight True Yang Building** *(rank 2-5)* — é uma masmorra institucional já
+   projetada: andares, rodadas autocontidas, três graus de aprovação por rodada, câmara do
+   tesouro, economia de guest tokens e a regra política de que a recompensa pertence a quem
+   limpa. Nenhum outro evento da faixa entrega tanto sistema pronto.
+2. **Tai Qiu e a corrida pela herança** *(rank 2-4)* — o melhor cenário da obra para
+   personagens fracos: numa área feroz, **a aura fraca de um mortal é a credencial de entrada**
+   e os imortais literalmente não conseguem seguir. Vinte e seis abutres esperando do lado de
+   fora dão a tensão. Cenário completo em uma ou duas sessões.
+3. **Imperial Court contest + Heroes Assembly + Grande Nevasca** *(rank 1-5, campanha inteira)*
+   — o único relógio de campanha de dez anos da obra, com fase social (assembleia), fase
+   militar (guerra das alianças) e fase de exploração (a terra abençoada). Vale uma nota só
+   para o *ciclo*, com as outras três como sub-notas.
+4. **True Inheritance Secluded Domain** *(rank 4-5, como clímax)* — risco-x-ganância com
+   temporizador e sem inimigo pensante: as heranças aceleram a cada contato e o espaço encolhe.
+   O tipo de cena que rende decisão de jogador, não rolagem.
+5. **Battle Merit Board e a guerra das alianças** *(rank 3-4)* — um quadro público em tempo
+   real, auditado por gravação em Gu, que converte feitos em moeda numa loja. É um sistema de
+   missões e recompensas embutido no mundo, e serve de esqueleto para uma campanha militar
+   inteira.
+6. **A calamidade terrena de uma blessed land** *(rank 3-4)* — a cada dez anos, com força
+   proporcional à riqueza do lugar, atacando primeiro as cicatrizes das calamidades anteriores,
+   com buracos que viram portas para invasores. Dá tanto o cenário de defesa quanto o de cerco
+   (Lang Ya).
+7. **O Grande Leilão dos imortais** *(rank 3-5 como agentes)* — sessão inteiramente social, com
+   três camadas de assento (público / privado / anônimo), catálogo, condições de pagamento em
+   espécie e a regra de ouro de que **Immortal Gu não se compram com dinheiro**.
+8. **Starry Sky grotto-heaven** *(qualquer rank, escalável)* — masmorra clássica com salões de
+   defesas em camadas, mapa que mente, uma equipe rival lá dentro e reinos de sonho no fundo.
+9. **Tribulação de ascensão imortal** *(rank 4-5 como equipe de apoio)* — camadas nomeadas,
+   cada uma com um contra-perfil, fontes destrutíveis que se refazem, e o trade-off explícito
+   entre escolher qi ralo (sobreviver) e qi denso (ter futuro).
+10. **Maré de bestas dirigida contra uma tribo em migração** *(rank 2-4)* — engenharia de
+    defesa cronometrada pela distância do bando, contramedida específica por tipo de horda, e
+    um inimigo humano observando de um morro. O melhor "encontro grande" de nível baixo.
+11. **Conselho de Gu Immortals de uma grande seita** *(rank 4-5 ou como intriga de fundo)* —
+    orçamento em immortal essence stones, votação item a item, facções e peculato. Uma sessão
+    sem combate, com stakes altíssimos.
+12. **Formless Hand / tribulação como calamidade coletiva** *(rank 3-5)* — encontro em que o
+    dano é a **perda de equipamento**, não de vida, e a única janela de contra-ataque é
+    destruir a mão no instante em que ela fecha o punho sobre o seu Gu.
+13. **A era dos Dream Realms** *(rank 3-5)* — corrida tecnológica em estágio inicial, com
+    pioneiros perdidos cuja alma vai enfraquecendo. Excelente pano de fundo de campanha longa.
+14. **O projeto do rio dos rockmen** *(qualquer rank)* — cenário sem combate e com peso moral:
+    lápides de herói, slogans, guarda juvenil e uma espécie sendo consumida por unanimidade
+    entusiasmada.
+15. **Cerco a uma blessed land por uma grande seita** *(rank 3-5 como defensores)* — a lição
+    estrutural de que **legitimidade é o recurso mais escasso**: a seita precisa de um pretexto
+    público antes de precisar de força, e se falhar, as rivais caem em cima.
+
+---
+
+## Notas de método e cuidados
+
+- **Verificação:** todas as entradas acima foram lidas no texto-fonte (`grep -i` + extração de
+  faixa de capítulo). As notas brutas antigas (`notas-caps-0406-0446` a `notas-caps-0776-0817`)
+  serviram apenas de índice de candidatos.
+- **Negativas evitadas:** onde escrevi "a obra não informa", marquei como **Lacunas** e limitei
+  a afirmação à faixa 401-800 — não a toda a obra.
+- **Não varridos aqui:** o *Central Continent Refinement Path Convention* (ocorre depois do
+  cap. 800), o interior do *reincarnation battlefield* (nunca mostrado nesta faixa) e a
+  *guerra caótica das cinco regiões* (futura na narrativa).
+- **Atenção da varredura seguinte:** confirmar o que é exatamente o reincarnation battlefield;
+  documentar a Refinement Path Convention como evento próprio; e verificar se a obra chega a
+  listar as **dez grandes áreas ferozes** do Northern Plains.

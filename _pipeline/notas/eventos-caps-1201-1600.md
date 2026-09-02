@@ -670,6 +670,71 @@ pode reaproveitar como formatos de cenário:
   palácio.
 - **Lacunas:** o interior completo do palácio; o que a besta quer.
 
+### Os terremotos das veias da terra de Southern Border (earth vein earthquakes) — caps. 1406-1408, 1467-1468, 1531
+
+- **Tipo:** calamidade natural regional em série — **e**, ao mesmo tempo, a maior corrida do ouro da
+  faixa. É o melhor evento "de mundo" do período: atinge mortais e imortais, muda a política e cria
+  geografia nova.
+- **Onde:** toda Southern Border, de uma vez. A obra explica **por que ali**: Southern Border tem os
+  **dao marks de earth path mais densos das cinco regiões**, então é a primeira região a sentir
+  (cap. 1531).
+- **Gatilho / causa mecânica:** é **o primeiro passo da Grande Era**. As cinco regiões vão virar uma
+  só; o começo disso é "a turbulência no earth qi e a conexão das veias da terra" (cap. 1531). Não é
+  um desastre aleatório: é a costura do mundo se refazendo. `[segredo]` — os personagens só sabem
+  que "nunca aconteceu nada assim".
+- **Periodicidade:** o primeiro abalo é único e inédito; depois vêm **vários outros**, cada vez
+  maiores. A obra diz que **não houve nada igual nos últimos dez mil, cem mil anos, nem na Era da
+  Antiguidade Antiga ou Remota — é a primeira vez na história** (cap. 1408).
+- **O que se vê (a parte para ler em voz alta):**
+  - Primeiro abalo: o chão treme como se "houvesse uma píton gigante rolando debaixo da terra".
+  - Abalos posteriores: "o mundo tremia como se o apocalipse tivesse chegado"; **trincheiras
+    (Earth Trenches) de profundidade imensurável se abrem e se estendem por milhões de li**;
+    cordilheiras inteiras se rasgam ao meio; montanhas desabam, rios são bloqueados, depressões são
+    soterradas (caps. 1408, 1467, 1531).
+  - Nos novos abismos, rochas cristalizadas do tamanho de montanhas cospem fumaça que **vira solo
+    diante dos olhos**; campos de solo negro e duro como ferro exalam fumaça colorida que sobe e
+    forma nuvens, e quem entra sente calor agradável no corpo e na alma (caps. 1468, 1531).
+- **Efeitos imediatos e assimétricos (o ponto do evento):**
+  1. **Para os mortais é uma catástrofe pura.** "Incontáveis mortais infelizes morreram nesta vasta
+     calamidade"; **muitas forças mortais foram exterminadas** (cap. 1408).
+  2. **Para as super forças imortais é prejuízo:** perdem vários pontos de recurso, sofrem revés.
+  3. **Para os Gu Imortais individualmente é um encontro fortuito.** Dos abismos emergem
+     **materiais imortais de todos os tipos, até rank 8, e Gu Imortais selvagens** — "as veias da
+     terra são a essência da terra, afinal" (caps. 1468, 1531). Um material rank 8 rariíssimo, que
+     só se via saindo de um domínio recluso, aparece a céu aberto.
+  4. **Trabalho em andamento é destruído:** o abalo interrompe refinos e formações em curso. No
+     cânone, seis anos de refino de um imortal recluso viram fumaça porque a montanha em que ele
+     estava foi engolida por uma trincheira; noutro lugar, uma formação imortal explode no meio da
+     ativação e fere quem a operava (caps. 1407, 1467). **Terremoto é dano a projetos, não só a
+     corpos.**
+- **Consequência política (a parte mais jogável):** "este súbito terremoto das veias da terra fez a
+  tensa situação política de Southern Border ficar em silêncio. As super forças **puseram seus
+  conflitos de lado e começaram a investigar juntas** a causa" (cap. 1408). Depois, com as perdas
+  acumuladas de duas guerras recentes, "incontáveis Gu Imortais de Southern Border se lançaram nisso,
+  tentando catar recursos e compensar as perdas enquanto aumentavam sua força" (cap. 1531).
+  Ou seja, o ciclo completo: **catástrofe → trégua → corrida do ouro → nova rodada de disputas.**
+- **Escala:** uma região inteira, mortais e imortais; todas as super forças relatam abalos ao mesmo
+  tempo; a notícia circula pelo mercado mundial em dias.
+- **Fases:** (1) primeiro abalo, inédito, com pânico e contagem de perdas; (2) trégua e investigação
+  conjunta; (3) abalos seguintes, maiores; (4) abertura das trincheiras; (5) corrida por materiais,
+  com acampamentos de Gu Masters mortais montando formações dentro dos abismos; (6) as disputas
+  voltam, agora *dentro* das trincheiras.
+- **Papel possível de um grupo pequeno:** este é provavelmente **o melhor cenário da faixa para
+  personagens de rank baixo e até mortais**. Um grupo pode: sobreviver ao primeiro abalo e salvar uma
+  vila; ser mandado investigar a causa junto com enviados de clãs rivais (uma expedição de inimigos
+  obrigados a cooperar); ou descer numa trincheira nova para prospectar, com acampamento, formação
+  de proteção, rivais na mesma fenda e o risco do próximo abalo. A obra mostra literalmente uma
+  líder de clã **rank 5, mortal**, acampada dentro de uma trincheira nova com sua equipe (cap. 1531).
+- **Cuidado de spoiler:** a ligação explícita com a Grande Era é conhecimento de mestre — os
+  personagens não devem saber a causa; e quem descobre o quê nas trincheiras.
+- **Lacunas:** quantos abalos ao todo; quanto tempo entre eles; se as outras quatro regiões
+  passam pelo mesmo depois (a obra só mostra Southern Border nesta faixa).
+
+> [!note] Para o design
+> Um desastre natural que é **simultaneamente** o fim do mundo para os mortais e o melhor dia da vida
+> dos imortais. Coloque a mesa nos dois lados: a sessão em que eles cavam ouro no abismo é a mesma em
+> que a vila deles deixou de existir.
+
 ---
 
 ## Eventos recorrentes e institucionais
@@ -744,12 +809,12 @@ pode reaproveitar como formatos de cenário:
      Recém-chegados vão por último (cap. 1297).
   4. **Costume tácito:** guarda-se o que é difícil de trocar para o **fim**; por isso uma troca de Gu
      Imortal **na primeira rodada** é anômala e eleva o prestígio da convenção inteira e do
-     anfitrião (cap. 1299).
+     anfitrião (caps. 1298, 1300).
   5. **Não é evento restritivo:** quem quiser sair no meio pode sair, ninguém impede (cap. 1300).
   6. Guardas de fora (imortais de rank menor) **não participam** — entram, deixam os convidados e
      saem para vigiar o perímetro (cap. 1296).
   7. Depois da convenção é costume alguém convidar todos para um encontro social no seu próprio
-     território — a parte de rede de contatos é metade do valor (cap. 1299).
+     território — a parte de rede de contatos é metade do valor (cap. 1300).
 - **Escala:** pequena de propósito — meia dúzia de imortais ricos e um ou dois convidados. "Uma rara
   reunião de especialistas de Eastern Sea"; quem está ali é abastado por definição.
 - **O que se troca:** plantas e feras desoladas raras, materiais imortais rank 6-7, e — raramente —
@@ -773,7 +838,7 @@ pode reaproveitar como formatos de cenário:
   sem parar, "como um mar de cobras ou de cabelos"; a **blue water regional wall** de Eastern Sea; a
   **miasma regional wall** de Southern Border (caps. 1211, 1215).
 - **Duração da travessia:** dias a dezenas de dias por parede; a obra fala em "mais de dez dias" e
-  "dezenas de dias" para cada trecho (caps. 1211, 1214).
+  "dezenas de dias" para cada trecho (cap. 1211).
 - **As regras de combate dentro de uma parede (o cerne):**
   1. Um Gu Imortal dentro de uma parede regional exibe **apenas cerca de cinquenta a sessenta por
      cento** da sua força (cap. 1216).
@@ -818,10 +883,10 @@ pode reaproveitar como formatos de cenário:
      explorador **assume o corpo de uma pessoa do passado**, precisa agir como ela, e o "roteiro"
      reage quando ele se desvia — inclusive punindo desvios com morte dentro do sonho (caps. 1490-1513).
   6. Esses realms têm **estágios**: quem falha volta ao começo; quem passa avança para um cenário
-     mais difícil e mais informativo (cap. 1509).
+     mais difícil e mais informativo (caps. 1325-1326, 1509).
 - **Por que é institucional:** a Profecia dos Três Veneráveis fez de dream path o caminho da próxima
   era, então **toda super força das cinco regiões vigia seus dream realms com paranoia** e todas
-  estão pesquisando e desenvolvendo Gu de dream path (caps. 1213, 1440-ecos).
+  estão pesquisando e desenvolvendo Gu de dream path (cap. 1213).
 - **Papel possível de um grupo pequeno:** o dream realm é a resposta da obra a "masmorra". A mesa
   pode jogar **dentro** de um cenário histórico com regras próprias, com o corpo e a identidade
   emprestados, sabendo que os erros custam alma e que o cenário encolhe a cada visita.

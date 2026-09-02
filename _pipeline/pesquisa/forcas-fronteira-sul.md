@@ -294,8 +294,8 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   world!"
 - **Líder imortal:** o primeiro ancião supremo. A obra nomeia dois ao longo do tempo:
   **Wu Du Xiu** — mulher, rank 8, "a person who was in power for **thousands of years**"
-  (**cap. 1213**, V5 l. 38314), cujo poder vinha de **Gu Imortais do caminho do vento**
-  (**cap. 1214**, l. 38342) — e depois **Wu Yong**, rank 8. **cap. 2067** (V6 l. 17179):
+  (**cap. 1215**, V5 l. 38314), cujo poder vinha de **Gu Imortais do caminho do vento**
+  (**cap. 1215**, l. 38342) — e depois **Wu Yong**, rank 8. **cap. 2067** (V6 l. 17179):
   "He was Wu clan's first supreme elder, **rank eight wind path Gu Immortal**, a formidable
   expert of the present age — Wu Yong!"
 - **Caminho de casa, camada imortal: vento.** **cap. 2096** (V6 l. 22710), um ancião supremo
@@ -307,7 +307,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 - **Caminho de casa, camada mortal: força**, pela herança antiga (§0.1).
 - **Casa de Gu Imortal:** *Clear Jade Dripping Wind Tiny Bamboo Building*, **rank 8**,
   construída pela própria Wu Du Xiu — **cap. 1344/1355** (V5 l. 62412, 64493). É a **quarta**
-  Casa de Gu Imortal do clã (l. 69271), ou seja, **o clã tem pelo menos quatro**.
+  Casa de Gu Imortal do clã (**cap. 1378**, l. 69271), ou seja, **o clã tem pelo menos quatro**.
 - **Formação de assinatura:** *cardinal directional wind formation* (formação de vento das
   quatro direções) — **cap. 2067** (V6 l. 17352).
 - **A coleira:** entrar no clã Wu exige refinar um **life tablet Gu** e um **soul lantern
@@ -315,7 +315,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   Gu worms would be left in Wu clan's ancestral hall, they were the symbol of Fang Yuan's
   acknowledgement into the clan"). Servem de aviso de morte imediato do membro (**cap.
   1339**, l. 61426) e de rastreador via *life location searching Gu formation* (**cap.
-  1377**, l. 69303). **E de arma:** **cap. 1383** (V5 l. 70190) — "**Wu Yong indeed has some
+  1378**, l. 69303). **E de arma:** **cap. 1383** (V5 l. 70190) — "**Wu Yong indeed has some
   kind of terrifying method that can directly attack my physical body through my life tablet
   Gu and soul lantern Gu.**"
 - **Pontos de recurso nomeados do clã Wu:** Corpse Emperor Yu Ding Tian (montanha-cadáver de
@@ -323,7 +323,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   e zombie qi Gu de caminho do qi** — **cap. 2067**, V6 l. 17330); *poisonous waterfall*
   (cachoeira venenosa) e *Golden Cloud Canyon* (produz recursos de caminho do metal e do
   caminho das nuvens — **cap. 1345**, V5 l. 62467); *inspiration cocoon cave* e *spring sun
-  mountain range* (**cap. 1302**, V5 l. 54743); um dos sete Mount Snails conhecidos (**cap.
+  mountain range* (**cap. 1304**, V5 l. 54743); um dos sete Mount Snails conhecidos (**cap.
   1315**).
 - **Fraqueza estrutural declarada:** **cap. 2067** (V6 l. 17320) — "**The biggest weakness of
   Wu clan currently is insufficient Gu Immortals. Even if we annex the surrounding lands in
@@ -331,7 +331,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   para o número de imortais.
 - **Inimigo hereditário:** os **Fierce Gorge Seven Ghosts** (ver §4.1).
 - **Rivais:** clã Ba (quer o primeiro lugar — cap. 1594), clã Yao (tomou a montanha-cadáver;
-  rixa de mil anos por uma herança verdadeira do caminho do fogo — **cap. 1339**, V5
+  rixa de mil anos por uma herança verdadeira do caminho do fogo — **cap. 1338**, V5
   l. 61223), clã Hou (Golden Cloud Canyon), clã Yang (tomou a cachoeira venenosa quando o Wu
   estava fraco — **cap. 2078**, V6 l. 19259).
 - **Vassalo:** clã Qiao.
@@ -347,7 +347,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   clan was among the top super forces in Southern Border, it naturally had a rank eight Gu
   Immortal. Shang clan's first supreme elder Shang Wu Jie had all along **maintained the
   tradition of neutrality** in Shang clan, and had good relations with all clans."
-- **Posição:** entre os cinco primeiros (**cap. 1626**, V5 l. 110626: "Shang clan is ranked
+- **Posição:** entre os cinco primeiros (**cap. 1623**, V5 l. 110626: "Shang clan is ranked
   among the top five super forces of Southern Border"); logo abaixo do clã Wu (**cap. 229**,
   V2 l. 6088: "Shang clan was one of the top forces of the Southern Border, not weaker to
   Tie clan and Fei clan. Only the Wu Clan was above it.").
@@ -455,7 +455,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   caminho da formação, tão absorto que esquece de comer — "If not for the clan's care, he
   would have likely forgotten to eat and died while immersed in his thoughts" (**cap. 2078**,
   V6 l. 19235). Chi Qu You disse várias vezes que Chi Shang herdaria seu legado (**cap.
-  1329**, V5 l. 59092).
+  1328**, V5 l. 59092).
 - **Diplomacia: neutralidade calculada.** **cap. 1329** (V5 l. 59301): "if, at this time, my
   Chi clan joins in, it will **damage the neutrality of Chi clan**… it will also worsen our
   relation with Wu clan, harming my clan's interests." Relação com o clã Wu descrita
@@ -470,22 +470,22 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   path**. Even though wisdom path Gu Immortals were rare, **Xia clan had five wisdom path Gu
   Immortals**, and some of them were strong experts. Among the wisdom path Gu Immortals of
   Southern Border, **Xia clan was the domineering force**, having a huge proportion of them."
-  E (l. 55089) "Xia clan has many wisdom path Gu Immortals, **they are good at plotting**."
+  E (**cap. 1306**, l. 55089) "Xia clan has many wisdom path Gu Immortals, **they are good at plotting**."
 - **Primeiro ancião supremo: Xia Cha**, mulher idosa, **rank 8, grande especialista do
-  caminho do tempo** — **cap. 1598** (V5 l. 106894): "an old woman, the rank eight time path
-  great expert, Xia clan's first supreme elder — Xia Cha!"; **cap. 1604** (l. 107126): "Xia
+  caminho do tempo** — **cap. 1599** (V5 l. 106894): "an old woman, the rank eight time path
+  great expert, Xia clan's first supreme elder — Xia Cha!"; **cap. 1601** (l. 107126): "Xia
   Cha was a **time path great grandmaster**"; e a suspeita de que ela esconde ainda mais
-  (l. 107466): "her time path attainment level was perhaps not just great grandmaster! It was
+  (**cap. 1603**, l. 107466): "her time path attainment level was perhaps not just great grandmaster! It was
   possible that she had **formation path attainment level too**, but nobody knew about it."
   Ela tem **um conjunto de quatro golpes assassinos**, dos quais um é *spring scissors*
-  (tesoura da primavera), ofensivo de rank 8 (l. 107311).
+  (tesoura da primavera), ofensivo de rank 8 (**cap. 1602**, l. 107311).
 - **Detalhe de cor:** o chá de assinatura do clã, criado pela própria Xia Cha, é o *four
   seasons tea* — "With one sip, you will taste four different flavors, making people feel the
   four seasons of spring, autumn, summer, and winter" — e é exibido como demonstração de
   domínio do caminho do tempo (**cap. 1307**, V5 l. 55197–55199).
 - **Escravos:** **cap. 1607** (V5 l. 108032): "**Xia clan raised a large group of featherman
   slaves**, feathermen were the highest in quantity in Jian Wen blessed land." Os aposentos de
-  Xia Cha são servidos por criadas homem-pena (**cap. 1848**, V5 l. 162732).
+  Xia Cha são servidos por criadas homem-pena (**cap. 1897**, V5 l. 162732).
 - **Vizinhança:** encurralada entre clã Chai (norte) e clã Ba (sul) no triângulo do
   redemoinho; qualquer um que cresça é atacado pelos outros dois (§1.4).
 
@@ -497,8 +497,8 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 - **Caminho de casa: água.** **cap. 1533** (V5 l. 97075): "**Our Yi clan is most skilled at
   water path**, it is hard for these three Gu Immortals to find out."
 - **Casa de Gu Imortal:** *Bay Pavilion* (Pavilhão da Baía), **rank 7**, "**specialized in
-  long range chases**" (**cap. 1377**, V5 l. 68950 e l. 69189). Detalhe mecânico precioso
-  (l. 69219): quando avariada, "the **spare mortal Gu** we brought over can restore Bay
+  long range chases**" (**cap. 1377**, V5 l. 68950; **cap. 1378**, l. 69189). Detalhe mecânico precioso
+  (**cap. 1378**, l. 69219): quando avariada, "the **spare mortal Gu** we brought over can restore Bay
   Pavilion completely **within a few minutes**" — Casas de Gu Imortal são reparáveis em campo
   com peças de reposição mortais.
 - **Golpe de assinatura:** *water life resurrection*, que combina Gu Imortais de caminho da
@@ -522,17 +522,17 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 
 - **A ambição declarada:** **cap. 1594** (V5 l. 106096) "**Ba clan had been after their
   position**"; **cap. 1610** (l. 108473) "your Ba clan wants to overthrow Wu clan to become
-  the number one force of Southern Border"; **cap. 1626** (l. 110247) "Ba clan's first supreme
+  the number one force of Southern Border"; **cap. 1620** (l. 110247) "Ba clan's first supreme
   elder who had **always wanted to seize the number one position from Wu clan**".
 - **Figura de assinatura: "Old Treeman" Ba De**, caminho da madeira — **cap. 1214** (V5
   l. 38221): "He had **rank seven peak battle strength, publicly recognized in Southern
   Border's Gu Immortal world as the number one person under rank eight** — Old Treeman Ba
   De!" **cap. 2100** (V6 l. 23421): "Ba De cultivated **wood path**"; a pele exposta dele
   parece casca de árvore milenar, com musgo verde crescendo em cima (l. 23335).
-- **Primeiro ancião supremo (estado anterior): Ba Shi Ba**, rank 8 (**cap. 1683**, V5
+- **Primeiro ancião supremo (estado anterior): Ba Shi Ba**, rank 8 (**cap. 1706**, V5
   l. 124799); depois, Ba De assume (**cap. 2079**, V6 l. 19288).
 - **Cabeça fria de política:** Ba De é quem explica, na obra, por que ninguém ataca primeiro —
-  **cap. 1230** (V5 l. 41284): "nobody wants to strike first, because we have not uncovered Wu
+  **cap. 1231** (V5 l. 41284): "nobody wants to strike first, because we have not uncovered Wu
   clan's true foundation yet. **If Ba clan is the first to jump out and is met with Wu clan's
   iron fist, we would suffer a loss, while the other clans would benefit.**"
 - **Recurso nomeado:** *seven treasures water* (água dos sete tesouros), item de barganha do
@@ -566,7 +566,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   do clã Xia do Mar do Leste (**cap. 1983**, V6 l. 2891 e l. 3881). `atenção`: o clã Xia citado
   aí é o do **Mar do Leste**, homônimo e distinto do clã Xia da Fronteira Sul.
 - **Primeiro ancião supremo: Chai Gan**, apenas **rank 7** — e ele mesmo comenta o
-  constrangimento (**cap. 2140**, V6 l. 30805): "even though I am Chai clan's first supreme
+  constrangimento (**cap. 2138**, V6 l. 30805): "even though I am Chai clan's first supreme
   elder, my cultivation is only at rank seven, how can I be worthy of a rank eight Immortal
   Gu?" Auxiliar de confiança: **Chai You Yan**, imortal do caminho da informação (**cap.
   1348**, V5 l. 63093).
@@ -577,7 +577,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   dragon river, it had abundant resources and was a strategic location**, Yang clan Gu
   Immortals **mostly cultivated soul path**, they had incredible battle strength and was a
   threat to Chi clan."
-- **cap. 1322** (V5 l. 57846): "**Yang clan is specialized in soul path** while I do not excel
+- **cap. 1321** (V5 l. 57846): "**Yang clan is specialized in soul path** while I do not excel
   in dealing with this path."
 - **Especialistas nomeados** — **cap. 2078** (V6 l. 19221): "**Yang Yin Guang** is proficient
   at **freezing soul profound light**, which is very hard to defend against. The other, **Yang
@@ -624,10 +624,10 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   forces.** Despite that, **they were united**, even with Qiao Zhi Cai missing, they still
   carried out their plans accordingly, as expected, **any super force had its extraordinary
   aspect**."
-- **Primeiro ancião supremo: Qiao Zhi Cai**, **rank 7, caminho da madeira** (**cap. 1693**, V5
+- **Primeiro ancião supremo: Qiao Zhi Cai**, **rank 7, caminho da madeira** (**cap. 1709**, V5
   l. 125262: "He was the first supreme elder of Qiao clan, even though he had rank seven
   cultivation level, he cultivated wood path").
-- **A relação com o clã Wu, nas palavras do próprio líder** — **cap. 1220** (V5 l. 38965):
+- **A relação com o clã Wu, nas palavras do próprio líder** — **cap. 1218** (V5 l. 38965):
   "**Everyone thinks that we are Wu clan's lackey, but the truth is, we were just trying to
   survive.** … we have better reasons to do this because of our **long term marriage alliances
   with Wu clan**!" O apelido corrente na região é mais cru (**cap. 1348**, l. 63083):
@@ -635,8 +635,8 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   force**, invading Qiao clan's territory was **offending Wu clan**" (**cap. 2100**, V6
   l. 23353).
 - **A traição embutida:** o clã Qiao infiltrou o clã Wu **até o terceiro ancião supremo** —
-  **cap. 1220** (V5 l. 39189): "I did not think that Qiao clan had infiltrated Wu clan so
-  deeply, reaching up to the third supreme elder, Wu Qiao." Antes disso (**cap. 1326**,
+  **cap. 1219** (V5 l. 39189): "I did not think that Qiao clan had infiltrated Wu clan so
+  deeply, reaching up to the third supreme elder, Wu Qiao." Antes disso (**cap. 1322**,
   l. 58011): "Qiao clan had mobilized its agent inside Wu clan, whom unexpectedly was Wu
   clan's third supreme elder. Many perceptive people were given a fright."
 - **Origem do patrocínio:** **cap. 1348** (V5 l. 63081) "Qiao clan was **heavily supported by a
@@ -648,7 +648,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 ### 2.13 Clã Yao
 
 - Tem **primeiro ancião supremo de rank 8** com voz de peso nos conselhos (**cap. 1594**, V5
-  l. 106076; **cap. 1736**, l. 141124: "killing a rank eight existence is too risky").
+  l. 106076; **cap. 1786**, l. 141124: "killing a rank eight existence is too risky").
 - **Rixa com o clã Wu:** **cap. 1339** (V5 l. 61223) "**A thousand years ago, Wu clan and Yao
   clan had lingering enmity after fighting over this fire path true inheritance.** Eventually,
   both sides suffered losses, but they did not obtain this fire path true inheritance."
@@ -656,9 +656,198 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 - **Usa anciãos supremos externos** — imortais recrutados de fora do sangue (**cap. 1452**, V5
   l. 83337: "**Wang Ming Yue, an external supreme elder of the righteous path super force Yao
   clan**").
-- **Ferro na política de pesquisa:** **cap. 1736** (V5 l. 141110), o primeiro ancião supremo a
+- **Ferro na política de pesquisa:** **cap. 1786** (V5 l. 141110), o primeiro ancião supremo a
   um pesquisador de sua órbita: "**I will not allow you to do any research on the secrets of
   the five regional walls!**" — clãs censuram linhas de pesquisa que ameacem a ordem.
 - Caminho de casa: a obra **não declara**. `—`
+
+---
+
+## 3. Instituições que os treze clãs operam em conjunto
+
+### 3.1 A rede de Torres-Farol (Beacon Tower) — clã Tie
+
+- **cap. 1594** (V5 l. 106134): "**Beacon Tower was an Immortal Gu House of Tie clan**, its
+  greatest use was similar to Western Desert Xiao clan's Ten Thousand Li Silk Corridor. This
+  Gu House was made of **multiple Beacon Towers**, they could **transport Gu Immortals to each
+  other**, if many Beacon Towers were put together, they could even transport rank eight Gu
+  Immortals!"
+- **A escala** — **cap. 1621** (V5 l. 110300): "**Beacon Tower is indeed worthy of being Tie
+  clan's signature Immortal Gu House, it is truly unbelievable for a Gu House formed from
+  mortal Gu to be able to transport Gu Immortals!** … The true terror of Beacon Tower is that
+  **the higher the number of Beacon Towers built, the greater their overall power. To reach an
+  Immortal Gu House's power, there needs to be at least one hundred Beacon Towers.** Right
+  now, the number of Beacon Towers in Southern Border is already **over one thousand and can
+  transport rank seven Gu Immortals**. But to transport rank eights, we need **at least ten
+  thousand**."
+- **O bloqueio político (este é o estado normal da região)** — **cap. 1594** (V5 l. 106136):
+  "Tie clan had been trying to set up more Beacon Towers around Southern Border. But **this
+  arrangement was too much of a threat to the other super forces. Thus, the forces had been
+  trying to stop Tie clan from creating more Beacon Towers.**"
+- **Vulnerabilidade** — **cap. 1621** (l. 110338–110342): as torres estão espalhadas em campo
+  aberto; imortais demoníacos e solitários, que não ganham nada com elas, **destroem qualquer
+  torre que encontrem**, e a rede inteira sente quando uma cai.
+- **Construção:** equipes de três — um imortal do clã Tie ergue a torre, um segundo dá suporte,
+  um terceiro monta uma formação para **disfarçar a obra**, porque o barulho denuncia
+  (l. 110294).
+
+### 3.2 A super formação de Gu conjunta
+
+- Montada pessoalmente pelo primeiro ancião supremo do clã Chi, com **Gu Imortais emprestados
+  pelos vários super clãs** (**cap. 1329**, V5 l. 59255).
+- Cada clã destaca **pelo menos um Gu Imortal** para guardá-la, "**to defend their own
+  interests**" — o que põe treze imortais de rank 7+ no mesmo lugar (**cap. 1212**, V5
+  l. 37773–37779). "These righteous path forces had worked together, they were united, **their
+  distribution of benefits was also very reasonable**."
+
+### 3.3 O "negócio das oportunidades imortais"
+
+- **cap. 1214** (V5 l. 38103–38227): a exploração de reinos de sonho matava imortais
+  demais; o caminho correto então **vendeu o acesso** a imortais demoníacos e solitários em vez
+  de guardá-lo. "the involvement was far bigger than he had predicted"; "there are **at least
+  six or seven clans working together** to result in this fearless stance".
+- **A função política**, dita explicitamente (**cap. 1226**, V5 l. 40371): "On one hand, it
+  could give Gu Immortals immense benefits. On the other hand, it could **greatly reduce the
+  conflict of the righteous path, demonic path, and lone cultivators.**" Sem isso, o raciocínio
+  dos excluídos seria: "The righteous path definitely obtained a lot of benefits, but they are
+  keeping it for themselves… **how can we live?**"
+- **E a fratura que cria dentro do próprio bloco** (**cap. 1214**, l. 38227): "This time, they
+  actually cooperated with **six other clans**… **What do they think of the remaining six clans
+  not involved, us included? This super Gu formation was made by all of us, we created it with
+  all of our Immortal Gu!**"
+
+---
+
+## 4. O outro lado: caminho demoníaco, solitários e organizações fora do bloco
+
+### 4.1 Fierce Gorge Seven Ghosts (Os Sete Fantasmas do Desfiladeiro Feroz)
+
+**cap. 2067** (V6 l. 17280–17294), tudo literal:
+- "The Fierce Gorge Seven Ghosts were **a famous demonic path group in Southern Border's Gu
+  Immortal world comprising seven members. Every generation of the Fierce Gorge Seven Ghosts
+  brought a huge disturbance and many losses to Southern Border's righteous path.**"
+- "there was much evidence that suggested **their inheritance was very likely to be from
+  Spectral Soul Demon Venerable. As long as there was one person living in every generation's
+  Fierce Gorge Seven Ghosts, the inheritance would continue. And with time, there would be
+  another six demonic immortals besides the survivor.**"
+- "Every generation's first supreme elder of Wu clan dedicated themselves to exterminating the
+  Fierce Gorge Seven Ghosts. And every generation's Fierce Gorge Seven Ghosts provoked Wu clan,
+  **as long as the colossal force Wu clan showed any weakness, they would attack like dogs
+  hiding in the darkness, biting off a piece of flesh of Wu clan and run away immediately.**"
+- Wu Du Xiu, em milhares de anos de poder, matou **mais de dez** membros dos Sete Fantasmas e
+  ainda assim não conseguiu extingui-los; deixou isso como um de seus três arrependimentos.
+- São **rank sete no máximo**, e a razão de nunca terem sido varridos é tática: "we could not
+  deal with them properly because **they rarely moved together**" (**cap. 2068**, l. 17441).
+- Conhecem o clã Wu por dentro: "we, the Fierce Gorge Seven Ghosts, have **a deep understanding
+  of your Wu clan**, this large formation cannot trap us! … they had **tackled the cardinal
+  directional wind formation many times over the generations**" (l. 17352–17360).
+
+### 4.2 A Aliança dos Zumbis (Zombie Alliance), filial da Fronteira Sul
+
+- **cap. 653** (V4 l. 636–654): "an alliance of zombies. This alliance has existed since long
+  ago, and reportedly it appeared in the **Medieval Antiquity Era, three hundred thousand years
+  ago**. Now, it is a **super force which is spread throughout the five regions; its main
+  headquarters is in eastern sea, with a branch in each of the other four regions.**"
+- Composição: quase todos os membros são zumbis; a cúpula são **zumbis imortais** — Gu Imortais
+  que chegaram ao fim da vida e não tiveram outra saída. Aberturas imortais mortas, força de
+  combate abaixo da média.
+- "**Zombie Alliance's branches were weaker than the respective region's super forces.**"
+- "**Zombie Alliance is suppressed by all the super forces, thus they operate with much
+  difficulty, as such they are very eager to have more members**"; estrutura frouxa, pouca
+  força vinculante.
+- Objetivo fundacional: **pesquisar em conjunto como recuperar um corpo vivo**.
+- Na Fronteira Sul, a aliança queria comprar do clã Wu a montanha-cadáver Corpse Emperor Yu
+  Ding Tian **por preço alto, para servir de sede regional; o clã Wu recusou** (**cap. 2067**,
+  V6 l. 17334). Depois disso a sede da filial sulista foi exposta (mesma linha).
+
+### 4.3 Solitários (lone immortals) — o terceiro bloco
+
+- Não são um clube, mas a obra trata "righteous path, demonic path e **lone cultivators**" como
+  os três blocos padrão da região (**cap. 1072**, V5 l. 9846: numa cerimônia do clã Shang
+  compareceram "even experts from the demonic path and lone cultivators").
+- Exemplo canônico de peso: **Mountain Moving Old Monster (Qin Jin Sheng)** — **cap. 1315** (V5
+  l. 56583–56607): vive há **mais de dois mil anos**, é senior a ponto de tratar de igual para
+  igual um enviado do clã Wu, e um rank 7 comum "could not compare" a ele. Especialidade: os
+  **Mount Snails** (caminho da escravização).
+- Outro: **Old Man Yue Xia**, "a **well-known lone immortal of Southern Border**, with some
+  friction against Wu clan", contratável por pagamento pesado (**cap. 1000**, V4 l. 61449).
+- **Ladrão divino Lu Zuan Feng**, rank 5, o homem que entrou e saiu da Torre de Supressão de
+  Demônios à vontade (§2.3).
+- Os solitários e demoníacos são também os **sabotadores naturais** da rede de Torres-Farol
+  (§3.1) e o mercado comprador do negócio de oportunidades imortais (§3.3).
+
+### 4.4 Rotten Mud Mountain — o ponto de encontro informal
+
+**cap. 2098** (V6 l. 22913–22933):
+- "**Rotten Mud Mountain was one of the famous mountains of Southern Border.** If it were in
+  Western Desert, Eastern Sea, or Northern Plains, it might be more famous, but **Southern
+  Border had too many mountains, it had the most number of famous mountains in the five
+  regions**, Rotten Mud Mountain became quite inconspicuous."
+- Nas estações de chuva a montanha vira pântano temporário e a lama podre é **material de refino
+  de Gu de uso amplo**; produz o *smelly fart fat worm* e o *smelly fart Gu* (rank 1, caminho do
+  veneno); tem **feras desoladas de caminho do veneno**, algumas antigas.
+- "there were **several villages** that survived using the resources of the Rotten Mud
+  Mountain… scattered around the periphery… **even though they competed with each other, they
+  were more likely to work together**." Essas aldeias **não têm nenhum Gu Imortal** (**cap. 2100**, l. 23275).
+- É para onde imortais demoníacos em fuga correm, e onde outros solitários e demoníacos ficam
+  circulando (**cap. 2098**, l. 22985; **cap. 2099**, l. 23236).
+
+---
+
+## 5. Os cinco clãs da aposta dos Cinco Xiang
+
+Fonte principal: **cap. 1035** (V5 l. 2586–2660), com complementos em **cap. 1037**, **cap.
+1637–1638** e **cap. 2126**.
+
+- **O que foram:** "**The Heaven Surveying Five Xiangs** were five publicly recognized Gu
+  Immortal experts in Southern Border during that time. **The five of them had rank eight
+  cultivation level**, at the peak of the Gu Immortal world. They often collaborated and
+  **explored white heaven and black heaven together**… **During that time, Southern Border's Gu
+  Immortal world had the edge over the other four regions because of the Five Xiangs.**" Outros
+  rank 8 desviavam deles nos dois céus.
+- **Os cinco:** Qi Xiang, Ni Xiang, Bai Xiang, Xue Xiang, Chi Xiang.
+- **A ruptura:** acharam no *white heaven* "**a huge secret… an unimaginable achievement, but
+  only one person could obtain it**". Sendo de força equivalente e amigos, criaram uma aposta.
+- **A regra da aposta:** "**this bet had a thousand year duration. The rules of the bet were:
+  The five Xiang could only watch as their descendants developed on their own. A thousand years
+  later, whichever clan had the most Gu Immortals would be the winner.**"
+- **Nem todos eram do caminho correto:** "**Among the five Xiangs, there were lone immortals and
+  demonic path members**, developing clans is something only righteous path members generally
+  have the patience to do." Bai Xiang, especificamente, era do caminho demoníaco, "**a man of
+  his word**, hated people who went against his wish, and was **extremely tyrannical**; only Gu
+  Immortals whose battle strength met his expectations could talk and associate with him"
+  (**cap. 1194**, V5 l. 34172).
+- **Estado atual de cada linhagem** (**cap. 1035**, l. 2660):
+  - **Qi** — caminho do qi; base na **Qi Sea grotto-heaven**; o mais próspero, com vários
+    anciãos imortais. Uma jovem imortal do clã pergunta por que não imitam Wu e Shang (l. 2578)
+    — sinal de que o clã Qi é rico mas **não é um super clã**, por opção estratégica.
+  - **Ni** — "even though they have several branches in Southern Border, **there are no longer
+    any Ni clan Gu Immortals**". Sede histórica na **Rotten Mud Mountain**.
+  - **Xue** — "Xue Xiang's descendants cultivate **blood path**, they are **almost wiped out**".
+  - **Bai** — "**Bai Xiang's final traces of bloodline have all died recently.**" Resta a **Bai
+    Xiang grotto-heaven**, que só pode ser aberta por um descendente de sangue que vire Gu
+    Imortal, guiado por uma serpente imortal branca.
+  - **Chi** — "Chi Xiang's descendants are **staying inside their immortal aperture and live
+    like livestock**, they do not have any urge to improve themselves, they are lazy and only
+    want to eat, they are nothing significant."
+    `atenção`: esses descendentes de Chi Xiang **não são** o super clã Chi de Myriad Snake
+    Mountain — a obra nunca liga os dois, e as descrições são incompatíveis (um é o número um em
+    caminho da formação com um rank 8; o outro é irrelevante). Trato como homonímia. `(ded.)`
+- **A vigilância disfarçada de neutralidade** — **cap. 1037** (V5 l. 2909): "**the Ni clan
+  villages that were scattered all over Southern Border were purposely preserved by Qi clan's
+  Gu Immortals.** Qi Zai was in charge of Rotten Mud Mountain, once in a while, he would do a
+  check." E, mais duro, **cap. 1637** (V5 l. 112977): "**Qi clan had developed while suppressing
+  or enslaving the other four clans**, they also kept a low profile and hid themselves deeply.
+  **Even Southern Border's righteous path did not know** or attempt to find the Five Xiang's
+  treasure."
+- **A arquitetura do prêmio** — **cap. 1638** (V5 l. 113180): há uma **gruta-céu pública** com
+  **cinco áreas**, uma por linhagem, todas ligadas a um centro que contém o tesouro final; e um
+  salão central onde o selo dos Cinco Xiang é mais forte e **ninguém pode lutar** (l. 113292).
+  A gruta-céu **abre uma vez a cada mil anos** (**cap. 1642**, l. 113750).
+- **O segredo do clã Ni** — **cap. 2126** (V6 l. 28421): "Once in a while, **a Gu Master in Ni
+  clan will awaken their bloodline. If they survive, an Immortal Gu will grow inside their
+  body!** … This is too strange. **A mortal Gu Master's body can actually give birth to an
+  Immortal Gu!**" É o que faz aldeias de mortais sem nenhum imortal valerem a atenção de
+  imortais.
 
 ---

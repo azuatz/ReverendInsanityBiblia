@@ -101,6 +101,10 @@ mecânica de moeda dupla funcionar, segue uma reconstrução utilizável:
 > vault, montados a partir das zonas e dos tipos de leilão que a própria nota descreve.
 > Renomeie e reordene à vontade: o que importa para a mesa é que existam nove degraus e que
 > subir um seja uma conquista.
+- A ficha não destrava apenas o acesso: ela **desconta o preço**, e o desconto é
+  quantificado. Um item de 4.500 pedras saiu por 3.000 para o portador da ficha de topo —
+  um terço a menos, aplicado na hora e sem negociação. Ou seja, subir na escada de fichas
+  é uma promoção salarial disfarçada de privilégio social.
 - As fichas são **vinculadas ao sangue** por um Gu específico, não replicáveis, e
   **degradam com o tempo** — a renovação periódica é um instrumento deliberado de controle
   de longo prazo sobre os portadores.
@@ -147,6 +151,28 @@ capturadas vivas.
 > A regra generalizável dos leilões deste mundo: em disputa pública, **o orgulho do
 > adversário é um ativo que você pode gastar**. Todas as táticas acima exploram isso, e
 > nenhuma delas exige poder de compra superior.
+
+E a observação que fecha o assunto, feita por um espectador dentro da própria obra ao ver
+dois rivais inflarem um preço até o dobro do valor de mercado: **"o verdadeiro vencedor é
+a casa de leilões."** A casa cobra a sua parte de qualquer resultado, e portanto lucra
+exatamente com o comportamento irracional que os participantes acham que é uma disputa
+entre eles. No mercado do patamar imortal essa cobrança é explícita e **escala com o valor
+do lote** — quanto mais caro o item, maior a taxa —, o que cria incentivo real para que as
+transações grandes migrem para praças alternativas sem taxa. E elas migram.
+
+### Quando o comprador é que tem monopólio
+
+Um ângulo que quase nenhum cenário de fantasia cobre, e que a obra mostra em cena: numa
+cidade-mercado, praticamente **todas as lojas pertencem ao mesmo clã**. Quando o herdeiro
+desse clã decide que um forasteiro não vai vender, a instrução circula, e as lojas simplesmente
+recusam a mercadoria — uma após a outra, educadamente. O vendedor não é roubado nem
+ameaçado; ele apenas descobre que não existe segundo comprador.
+
+A frase com que um lojista explica a situação vale como regra de mesa: *"se o senhor não
+consegue vender aqui, nenhum outro lugar vai comprar."* **Monopólio de compra é uma arma
+tão real quanto monopólio de venda**, e é muito mais difícil de perceber a tempo. A saída
+documentada foi resistir e esperar: quem tinha mercadoria única e podia aguentar mais
+tempo sem vender acabou ditando o preço.
 
 ## Aposta de pedra
 
@@ -269,6 +295,10 @@ mecanismo de precificação por feixe de luz, estão em [[11 - Economia Imortal|
 ## Relações
 
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a unidade em que os preços mortais são medidos.
+- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — quanto custa cada coisa que passa por estes balcões.
+- [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o mercado paralelo com que este faz fronteira.
+- [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — os corretores, os contratos e as taxas que sustentam
+  estas transações.
 - [[11 - Economia Imortal|Economia Imortal]] — a praça de comércio da camada superior e suas regras maduras.
 - [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o que se vende nesses mercados e quem produz.
 - [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — leilões, feiras e convenções como eventos de mesa.

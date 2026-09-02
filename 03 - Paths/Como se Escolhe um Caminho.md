@@ -9,7 +9,7 @@ aliases:
   - Como se escolhe um path
   - Aquisição de dao marks
 status: verificado-no-texto
-fontes: ["cap. 61", "cap. 62", "cap. 202", "cap. 214", "cap. 233", "cap. 266", "cap. 275", "cap. 288", "cap. 292", "cap. 293", "cap. 307", "cap. 313", "cap. 493", "cap. 494", "cap. 519", "cap. 546", "cap. 606-610", "cap. 627-633", "cap. 683-687", "cap. 703", "cap. 748", "cap. 758-759", "cap. 761", "cap. 778", "cap. 810", "cap. 819-821", "cap. 823-826", "cap. 852", "cap. 937", "cap. 939", "cap. 949", "cap. 1017", "cap. 1033", "cap. 1064", "cap. 1112", "cap. 1146", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1165", "cap. 1184-1187", "cap. 1204-1206", "cap. 1210", "cap. 1302-1303", "cap. 1310", "cap. 1367", "cap. 1389", "cap. 1394", "cap. 1398", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1469-1470", "cap. 1481", "cap. 1487", "cap. 1489", "cap. 1703", "cap. 1787", "cap. 2042", "cap. 2045", "cap. 2048", "cap. 2071", "cap. 2085", "cap. 2237"]
+fontes: ["cap. 5", "cap. 7", "cap. 8", "cap. 17", "cap. 61-62", "cap. 106", "cap. 148", "cap. 230", "cap. 275", "cap. 288", "cap. 292", "cap. 313", "cap. 380", "cap. 412", "cap. 493-494", "cap. 517-519", "cap. 546", "cap. 581", "cap. 606-610", "cap. 627-633", "cap. 683-687", "cap. 703", "cap. 710-711", "cap. 715", "cap. 717-719", "cap. 752", "cap. 758-759", "cap. 761", "cap. 778", "cap. 784", "cap. 810", "cap. 819-821", "cap. 823-826", "cap. 836", "cap. 852", "cap. 860", "cap. 865-866", "cap. 871", "cap. 877", "cap. 884", "cap. 937-939", "cap. 949", "cap. 1027", "cap. 1031", "cap. 1033", "cap. 1043", "cap. 1051", "cap. 1053", "cap. 1064", "cap. 1067", "cap. 1080", "cap. 1089", "cap. 1099", "cap. 1119", "cap. 1148", "cap. 1161", "cap. 1165", "cap. 1184-1187", "cap. 1204", "cap. 1216", "cap. 1258-1259", "cap. 1272", "cap. 1300", "cap. 1302", "cap. 1333", "cap. 1367", "cap. 1398", "cap. 1400", "cap. 1407-1408", "cap. 1425", "cap. 1431", "cap. 1444", "cap. 1459", "cap. 1467", "cap. 1470", "cap. 1473", "cap. 1481", "cap. 1487", "cap. 1562", "cap. 1571", "cap. 1581", "cap. 1586", "cap. 1599", "cap. 1628", "cap. 1644", "cap. 1646", "cap. 1677", "cap. 1686", "cap. 1690", "cap. 1703", "cap. 1787", "cap. 1804", "cap. 1821", "cap. 1993", "cap. 2023", "cap. 2042", "cap. 2071", "cap. 2078", "cap. 2083", "cap. 2085-2086", "cap. 2112", "cap. 2119", "cap. 2121", "cap. 2133-2135", "cap. 2152", "cap. 2197", "cap. 2237", "cap. 2262", "cap. 2284"]
 conhecimento: especializado
 ---
 
@@ -21,10 +21,12 @@ conseguiu comprar, herdar e sobreviver, e só se fecha de vez no instante da asc
 imortalidade.
 
 > [!important] Como esta nota está marcada
-> Texto normal é **canônico**: a obra afirma. `(ded.)` marca uma dedução segura a partir
-> de algo que a obra afirma. `*` marca invenção ou indução nossa, **sem base textual** —
-> apagar tudo marcado com `*` devolve este documento a cem por cento canônico. Onde a
-> obra simplesmente não decide, a nota diz isso com todas as letras em vez de preencher.
+> Texto normal é **canônico**: a obra afirma, e as afirmações centrais desta nota foram
+> conferidas linha a linha no texto original. `(ded.)` marca uma dedução segura a partir de
+> algo que a obra afirma. `*` marcaria invenção ou indução nossa sem base textual — e **não há
+> nenhum `*` nesta nota**: ela é inteiramente canônica ou dedução declarada. Onde a obra
+> simplesmente não decide, a nota marca `—` e diz isso com todas as letras, em vez de
+> preencher. Este tema é fácil de errar por dedução, e por isso preferimos os buracos.
 
 Esta nota existe porque duas perguntas óbvias não têm resposta óbvia neste mundo, e quem
 vier de outros sistemas de RPG vai errar as duas por instinto:
@@ -704,6 +706,11 @@ Vale listar, porque cada uma é um gancho de campanha pronto:
 - **Prolongar a própria vida.** Estender a longevidade com Gu de dia, mês e ano **grava marcas
   do caminho do tempo no corpo** — e o acúmulo eventualmente **impede o uso futuro** de Gu de
   longevidade genuínos. Uma via de aquisição que se sabota sozinha. Ver [[Longevidade]].
+- **Cultivar a alma.** Existe um eixo inteiro paralelo que é fácil esquecer: **a alma também é
+  um portador de marcas**, e não apenas de marcas do caminho da alma — o caminho do tempo, por
+  exemplo, também as grava ali. Lugares e recursos dedicados a fortalecer a alma estão, em
+  essência, acrescentando marcas a ela. Uma ficha completa tem três estoques: corpo, abertura e
+  alma.
 - **Desfazer uma segunda abertura imortal.** `[segredo]` Colapsar uma segunda abertura já
   elevada transfere as marcas daquele caminho para o corpo físico, que passa a ser ele mesmo um
   material imortal daquele rank e caminho.
@@ -960,10 +967,11 @@ Duas frases para levar para a mesa:
 > caras e legítimas — segunda abertura, conversão, um segundo caminho secreto — que dão ao
 > jogador algo para **perseguir** em vez de algo para lamentar.
 
-## Resumo em sete regras
+## Resumo em oito regras
 
 1. **Não existe escolha de caminho no mundo mortal.** Existe tendência, formada por recursos,
-   herança de clã, aptidão e oportunidade.
+   herança de clã, aptidão e oportunidade — e ela é reversível: mortais trocam de caminho, em
+   geral porque o dinheiro acabou.
 2. **A única decisão vinculante do mundo mortal é o Gu Vital**, e ela é tomada na
    adolescência, quase sempre pelo clã, sem que ninguém entenda o que está escolhendo.
 3. **As portas começam a fechar muito antes da imortalidade**, pelo acúmulo de marcas e por
@@ -976,11 +984,19 @@ Duas frases para levar para a mesa:
    própria abertura** — por isso a maioria do ganho é do seu caminho principal, com resíduo de
    outros. Por cima disso, o ambiente restringe o cardápio e a vontade dos céus escolhe dentro
    dele, com liberdade para escolher o que menos te serve.
-6. **As vias dirigíveis existem e são pequenas:** comer materiais de um caminho e converter
-   marcas de um caminho em outro. As vias volumosas — provações e anexação — são
-   semi-dirigíveis, por geografia e por métodos institucionais caros.
-7. **Mudar de caminho depois da ascensão não acontece.** O que acontece é **acrescentar** um
-   segundo caminho — que é, não por acaso, exatamente o que todo Venerável faz.
+6. **As vias de controle total são as de menor rendimento; a de maior rendimento é a de menor
+   controle.** Comer materiais, escolher quem matar e manter Gu geradores dão o caminho exato e
+   pouco volume. Provações e anexação dão volume e só se deixam dirigir por geografia, pela
+   composição da própria abertura e por métodos institucionais caros. Você monta o menu; o
+   adversário faz o pedido.
+7. **Marcas indesejadas entram e quase não saem.** Ferimentos, pactos, rastreadores e provações
+   erradas deixam resíduo permanente. O golpe de autolimpeza existe, mas **quem decide o que é
+   prejudicial não é o usuário** — e há marcas que nenhum método remove.
+8. **Mudar de caminho depois da ascensão é possível e quase ninguém faz.** Exige trocar o Gu
+   Vital: lento, perigoso, caro, e não traz as marcas antigas junto. A resposta prática da elite
+   é **acrescentar** um segundo caminho — que é, não por acaso, exatamente o que todo Venerável
+   faz. E como o topo exige trezentas mil marcas em **um** caminho, diversificar demais é
+   desistir do topo.
 
 ## Relações
 

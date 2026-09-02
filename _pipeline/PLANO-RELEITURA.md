@@ -90,3 +90,54 @@ corrigiu em vez de obedecer — que é o comportamento certo:
 A lição para os próximos briefings é não embutir exemplo não verificado no enunciado da
 tarefa — um exemplo errado num briefing vira instrução, e só não vira erro no produto
 porque a regra de verificar no texto-fonte está explícita em todo prompt.
+
+---
+
+# Segunda encomenda do usuário (mesma sessão): profundidade dos caminhos e reorganização dos Gu
+
+## Frente A — a camada escondida de cada caminho
+
+Pedido: cada nota de caminho deve explicar **o que o caminho tem de escondido**, não só o
+efeito aparente. O caso-modelo, dado pelo usuário e verificado por mim no texto-fonte antes
+de virar briefing: o caminho da força parece força bruta, mas tem a mecânica dos **fantasmas
+de besta**, que emerge do acúmulo de marcas de dao de força. O *all-out effort Gu*, rank 3 e
+descrito pela obra como "Gu antigo quase extinto", invoca o fantasma da besta correspondente
+a cada Gu de força que o cultivador carrega — um por vez, cem por cento de taxa de sucesso —
+e a obra chega a registrar que carregar dois Gu do mesmo bicho é desperdício, porque só um
+fantasma sai por vez (caps. 285-297).
+
+Execução: cinco agentes, cada um com cinco a sete notas de caminho, acrescentando a seção
+`## A camada escondida` e aprofundando progressão por rank, Gu e golpes de assinatura,
+limites, sinergias e arquétipo. Onde o caminho não tiver camada escondida, a nota diz isso.
+
+## Frente B — reorganizar os Gu por rank, caminho e categoria
+
+Pedido: organizar os Gu na hierarquia **rank → caminho → categoria funcional → Gu** ("Rank 1
+> Caminho da Lua > Ataque > Gu Lua"), de modo que a estrutura do catálogo já seja a estrutura
+da ficha de personagem. Mais dois campos obrigatórios por Gu:
+
+- **Evolução** — os Gu do rank seguinte em que aquele Gu pode se transformar, recursivamente,
+  formando árvores. Onde a obra não registra evolução, a entrada declara que não é citada.
+- **Interações** — como o Gu se combina, conflita ou se sustenta com outros.
+
+Caso especial resolvido pelo usuário: quando a obra descreve o mesmo Gu em dois ranks com
+efeitos diferentes e **não dá nome novo** ao de rank maior — a pele de bronze, que no rank 2
+se ativa por tempo com gasto de essência e no rank 3 é de uso único e permanente —, tratar
+como **dois Gu distintos**, nomeados pelo rank, com o maior listado como evolução do menor.
+
+### Arquitetura decidida (com a alternativa descartada)
+
+Descartado: manter os dois catálogos planos e acrescentar a hierarquia como uma terceira
+nota-índice. Duplicaria quinhentas entradas em duas vistas que divergiriam.
+
+Adotado: **migrar**. Nascem notas por rank — Gu de Rank 1 até Gu de Rank 9 —, cada uma
+organizada por caminho e por categoria funcional, com a ficha completa de cada Gu
+(mecanismo, dieta, desvantagem, refino, evolução, interações). Os dois catálogos planos
+existentes encolhem para **índices alfabéticos** (nome, rank, caminho, onde ler), que
+preservam a consulta por nome. A migração é feita copiando do catálogo plano, que só é
+convertido em índice **depois** de todas as notas de rank estarem prontas — assim nenhuma
+informação fica sem casa em nenhum momento.
+
+Execução: um agente por rank, sem colisão de arquivo. Só pode começar depois que o agente
+de deduplicação e completude dos catálogos terminar, porque é o material dele que será
+migrado.

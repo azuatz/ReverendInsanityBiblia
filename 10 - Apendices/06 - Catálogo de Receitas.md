@@ -667,6 +667,38 @@ mesa: a receita que concede uma **segunda** abertura não é reaproveitável par
 terceira. Usar o mesmo Gu duas vezes não empilha — a terceira abertura tem receita
 própria e separada.
 
+## Quanto material rende quantos Gu
+
+Uma pergunta que toda mesa faz na primeira sessão de artesanato — *matei a criatura, e
+agora, quantos itens saem daí?* — e que a obra responde uma única vez, com números
+exatos. Vale registrar porque é a melhor âncora de rendimento que existe.
+
+O caso é o de uma montaria demoníaca de pesadelo, criatura cujo corpo conta como
+**material imortal**. De **uma perna só** dela saíram **cem Gu mortais** do caminho dos
+sonhos. Não a criatura inteira: uma perna.
+
+O tempo se reparte de forma reveladora:
+
+| Etapa | Quanto leva |
+|---|---|
+| Processar o material bruto (derreter a perna até um líquido roxo-escuro) | **três dias** |
+| Todo o resto do refino, até os cem Gu saírem voando | **menos de uma hora** |
+
+Duas lições para o design saem daí. A primeira: **o gargalo do artesanato não é o
+refino, é o preparo do insumo** — e preparo é trabalho que se pode delegar, terceirizar
+ou automatizar, o que abre espaço para oficinas, empregados e cadeia produtiva.
+A segunda: **um único material imortal converte-se em produção em escala industrial de
+Gu mortais**. É assim que um Gu Imortal deixa de comprar Gu de rank baixo no mercado e
+passa a fabricá-los às centenas — e é uma diferença de patamar econômico, não de poder
+de combate.
+
+> [!note] Para o design
+> Se você precisa de uma regra de bolso e a obra não a dá para o seu caso, esta serve
+> de calibragem: **um material de patamar imortal rende Gu mortais na casa das
+> centenas**, e o custo real está no tempo de processamento, não no ato de refinar.
+> Repare que isso é indução nossa a partir de um único caso — a obra dá o número para
+> essa criatura e esse caminho, e não promete que valha para os demais.
+
 ## Como circulam
 
 **No mercado mortal**, receitas são item de leilão de primeira linha. O recorde de
@@ -694,6 +726,24 @@ receitas, ao lado da zona de refino terceirizado.
 essência imortal ou em escambo — ver [[11 - Economia Imortal|Economia Imortal]]. Receitas fracas e
 fragmentárias são mercadoria corrente ali; lotes de receitas melhores puxam ofertas
 enormes.
+
+O melhor exemplo documentado é um **conjunto completo de receitas de rank 1 a 5** de um
+mesmo Gu, leiloado entre Gu Imortais. Ele reúne três coisas que fazem preço, e a obra
+explica cada uma:
+
+- é **completo**, do rank 1 ao rank 5, e não uma peça solta;
+- já foi **aperfeiçoado** por um Gu Imortal, de modo que todos os materiais exigidos
+  são comuns hoje — a receita original pedia insumos escassos, caríssimos ou extintos;
+- o Gu que ele produz **encurta o tempo de outros refinos**, ou seja, é uma ferramenta
+  que se paga com o uso.
+
+O leilão abriu em **vinte e duas pedras de essência imortal**, subiu para quarenta e
+oito, depois sessenta e seis, e fechou em **setenta**. Para comparar: a receita solta de
+um Gu de força de era ainda mais antiga valia de mercado **duas** pedras de essência
+imortal. A diferença de trinta e cinco vezes entre uma receita solta e um conjunto
+completo e modernizado é o número mais útil desta seção — e o argumento dado por um
+comprador para justificá-la foi puramente contábil: quem também cultiva o caminho do
+refino recupera as setenta pedras em economia de tempo ao longo dos séculos.
 
 **Como espólio de guerra**, receitas são contadas junto com o dinheiro. O saque de uma
 tribo de porte médio foi registrado como algo em torno de seiscentas mil pedras, um
@@ -734,6 +784,24 @@ falta de material, mas por falta de patamar em quem as tinha.
 O caminho também importa mais que a intuição sugere. Uma receita de um Gu híbrido só
 é dedutível por quem domina o caminho **certo** dos dois envolvidos — dominar o outro
 não adianta.
+
+
+> [!example] Uma receita nascendo, do começo ao fim
+> A obra registra uma história de criação completa, e ela é o melhor estudo de caso
+> desta seção porque mostra que **a intenção do criador não decide o uso do produto**.
+>
+> Um mestre do caminho do refino de um clã do norte queria uma coisa modesta: um Gu de
+> **armazenamento firme e seguro**. Criou a receita, refinou o primeiro exemplar e o
+> entregou a um investigador do clã para testar. O investigador usou o Gu para **prender
+> pessoas** — o cofre aguenta o preso lá dentro tão bem quanto aguenta um objeto. Ao ser
+> combinado a outro Gu do clã, o efeito ainda foi amplificado, e a dupla virou o método
+> padrão daquele clã inteiro para capturar Mestres Gu demoníacos.
+>
+> Três coisas úteis para a mesa saem daí. O criador da receita é **nomeado e lembrado**,
+> o que faz de "quem inventou isto" uma pergunta com resposta no mundo. O primeiro
+> exemplar vai para um **testador**, não para o criador — refinar e usar são ofícios
+> diferentes. E o uso canônico de um Gu pode ser um **efeito colateral descoberto por
+> terceiros**, o que autoriza qualquer mesa a redescobrir aplicações fora da ficha.
 
 ### A pergunta da ascensão — de onde vêm as receitas incompletas
 

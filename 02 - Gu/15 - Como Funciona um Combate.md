@@ -114,12 +114,37 @@ narrativa, e a contagem **cresce com o patamar dos envolvidos**:
 | Limite de fôlego de um Mestre Gu comum | **algumas dezenas** de rodadas, e ele está ofegante |
 | Imortais | **dezenas a mais de cem** rodadas, muitas vezes sem vencedor |
 
+> [!warning] A única ponte entre as duas contagens
+> A obra mede em respirações e conta em rodadas, e há uma passagem — uma só — que amarra as
+> duas: *dez respirações não é pouco para um imortal; numa batalha intensa, dez respirações
+> dão para uma dúzia de rodadas de luta, com incontáveis ataques desferidos.* Ou seja,
+> aproximadamente **uma rodada por respiração**. É a régua de conversão de todo o combate
+> deste mundo, e ela sai de uma frase única — trate-a como boa, mas não como confirmada em
+> vários lugares.
+
 E há uma estrutura recorrente dentro dessas contagens que vale ouro para uma mesa: as
 primeiras rodadas são de **sondagem**. A obra descreve explicitamente combatentes gastando
 dezenas de trocas para *aprender as técnicas do adversário* e só então sacar o trunfo — e
 descreve o outro lado percebendo, depois de algumas trocas, "uma fraqueza" e passando por
 ela. **Uma luta longa é um processo de coleta de informação**, e o trunfo se guarda até que a
 informação esteja colhida.
+
+### Momentum e a janela
+
+Duas noções que a obra rastreia de rodada em rodada e que valem para qualquer sistema.
+
+**O momentum** (*momentum*) é um estado que se ganha e se perde, e perdê-lo antecede a
+derrota. A obra registra combatentes que se distraem, "perdem o momentum" e são desfeitos
+"depois de algumas rodadas"; e registra o efeito intermediário, que é ainda mais útil: quem
+perde o momentum **começa a economizar essência**, e economizar é ceder a iniciativa. Momentum,
+recurso e iniciativa formam uma espiral: perder um puxa os outros dois.
+
+**A janela** (*gap*, *flaw*) é o que se procura durante as rodadas de sondagem. Ela não aparece
+sozinha: nasce do desgaste, e a obra descreve alguém aguentando à distância porque sabia que o
+outro "acabaria errando em algum momento". Procurar a janela é uma **perícia que pode falhar**
+— há registro de quem tentou achar a falha do adversário durante todo o período de ataque e
+"não obteve nada". E, contra um inimigo com reservas, a janela **fecha na hora**: outras
+criaturas correram para preencher o buraco quase imediatamente.
 
 ## O turno: o que se faz de cada vez
 
@@ -155,13 +180,37 @@ A economia de ações do mundo cabe numa distinção, e ela está desenvolvida e
   **dois** já destaca alguém, **três** é o teto da elite, **quatro** é excepcional, **cinco**
   só com [[08 - As Dez Constituições Extremas|constituição extrema]].
 
+A obra confirma o teto com uma frase de fecho que vale como regra: *mesmo o forte só
+conseguia fazer três coisas ao mesmo tempo sem erro; não conseguia dividir a mente em quatro
+por muito tempo, ou surgiriam erros.* E existe pelo menos um Gu cuja função é **comprar uma
+tarefa a mais** — literalmente um Gu de "duas tarefas de uma vez".
+
 Sustentar golpes demais não trava: **derruba a taxa de sucesso de cada um**. É uma curva
-descendente, não um corte binário.
+descendente, não um corte binário — a obra descreve ataques que "ficaram mais lentos conforme
+ele dividia a atenção" e efeitos que "enfraqueceram inevitavelmente" porque o usuário teve de
+atender a outra coisa. Forçar o inimigo a dividir a atenção é, portanto, uma forma de atacar.
 
 ### Iniciativa: quem age primeiro
 
-A obra trata **velocidade de ativação** (*activation speed*) como propriedade nomeada de um
-golpe, e ela é comparada diretamente com a **velocidade de reação** do alvo. Quatro regras
+A obra tem uma regra-mãe para isto, e ela é boa demais para ser parafraseada:
+
+> Entre imortais, **assim que um dos lados tem vantagem de velocidade, ele ganha a iniciativa
+> da batalha. Lutar ou recuar passa a ser escolha dele.**
+
+Iniciativa, aqui, não é "quem age primeiro na rodada": é **quem decide se a luta continua**. E
+a obra descreve o outro lado da moeda com a mesma clareza — o que perde a iniciativa fica
+"numa situação passiva, sem saber quando o ataque virá, e tendo de manter a formação ligada o
+tempo todo, o que consome a energia dele". Quem tem a iniciativa gasta quando quer; quem não
+tem, gasta o tempo inteiro.
+
+Duas maneiras de perdê-la estão documentadas: **ser atacado primeiro** — há registro de um
+cultivador com fundação mais profunda que perdeu a iniciativa simplesmente porque o outro
+atacou antes — e **defender mais do que atacar**, que a obra trata como causa e não como
+sintoma.
+
+Sobre a velocidade propriamente dita, a obra trata **velocidade de ativação** (*activation
+speed*) como propriedade nomeada de um golpe, comparada diretamente com a **velocidade de
+reação** do alvo. Quatro regras
 saem daí, e juntas formam um sistema de iniciativa pronto:
 
 1. **O caminho de cultivo determina a iniciativa.** A obra é explícita: quem cultiva
@@ -315,6 +364,9 @@ Duas consequências que decidem lutas inteiras:
   movimento de rank 4 contra um fugitivo com um de rank 3 não apenas impede que a distância
   aumente: ele **encurta**. Perseguição é uma comparação direta de duas fichas, e o resultado é
   determinístico.
+- **Voar invalida o cerco.** A obra é direta: contra alguém no ar, **as táticas de cerco no
+  chão praticamente não representam ameaça**. Voo não é um bônus de mobilidade; é a saída de
+  toda uma categoria de táticas.
 - **Voar invalida o duelo.** Alguém que pode subir e sair está fora do alcance de quem não
   pode, e a obra registra combatentes desistindo do confronto por essa única razão. Gu de voo
   são **caros e raros**, e poucos os possuem. E há um custo escondido: aprender a **combater**
@@ -325,7 +377,13 @@ Duas consequências que decidem lutas inteiras:
 Terreno neste mundo não é cenário; é uma estatística. Ele age em três camadas:
 
 **A camada física.** Floresta densa reduz velocidade e anula a vantagem de quem não tem Gu de
-movimento adequado. Obstáculos encurtam investidas. Espaço fechado impede a fuga.
+movimento adequado. Obstáculos encurtam investidas. Espaço fechado impede a fuga. E o efeito
+mais valioso: **o terreno estreito converte um número grande num número pequeno** — a obra
+registra uma matilha inteira que, por causa do lugar, só conseguia mandar **quinze animais de
+cada vez**. Um gargalo é a maneira mais barata de neutralizar superioridade numérica.
+
+O terreno também é **consumível**: pilares, paredes e formações do lugar acabam destruídos ao
+longo da luta, e a vantagem que davam some com eles.
 
 **A camada de marcas.** Como explica [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]], o chão saturado pelas
 marcas de um caminho corta boa parte da potência de quem chega com outro. **Quem escolhe onde a
@@ -358,6 +416,17 @@ Quantas camadas se empilha é a medida de quão sério é o combatente:
 | Reflexo treinado de um especialista em defesa | **três**, montadas antes de pensar |
 | Imortal em crise | **cerca de cem** linhas de defesa de uma vez |
 
+> [!warning] A regra de conversão por rank — o número mais útil desta nota
+> A obra publica uma equivalência direta entre ataque e defesa através dos ranks, e ela é
+> rara o bastante para ser tratada como tesouro:
+>
+> > Quanto mais um Gu avança, **maior a diferença entre os reinos**. Para o ataque de um Gu de
+> > **rank 4**, seriam necessários **pelo menos dois Gu de rank 3** para defendê-lo.
+>
+> Ou seja: **um degrau de rank vale mais ou menos duas camadas**. É a régua que faltava para
+> converter a pilha de defesas em números, e ela explica por que empilhar duas defesas é o
+> comportamento de quem espera enfrentar alguém acima de si.
+
 ### O que faz uma camada ser boa ou ruim
 
 Cinco propriedades, e nenhuma é "quanto dano ela para":
@@ -380,10 +449,29 @@ manutenção fora de combate é parte do preço, e está em [[03 - Usar e Alimen
 a própria defesa ainda aguenta — a obra descreve exatamente esse cálculo, "mais um ou dois
 ataques e ela se rompe" —, é esse número que faz o personagem mudar de tática.
 
+**Área contra força.** A obra enuncia a troca: *uma defesa de área ampla significa força
+defensiva menor do que a de um golpe defensivo de alvo único.* Proteger o grupo custa
+proteção pessoal — e isso, sozinho, já desenha dois papéis distintos num esquadrão.
+
 **Maleabilidade.** Nem toda defesa acompanha o corpo. Há armaduras que **crescem e endurecem
 com o tempo de combate**, mas que não se esticam com o usuário e que, terminada a luta, **têm
 de ser quebradas pelo próprio dono para sair**. Contra uma dessas, a jogada é não deixar que
 ela termine de crescer.
+
+### Três coisas que a defesa não é
+
+**Não é um caminho de cultivo.** A busca no texto-fonte por "caminho da defesa" não retorna
+nada. Defesa é **função**, exercida por Gu de vários caminhos, e é **profissão**. Isso vale
+igualmente para a cura, e está detalhado em [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]].
+
+**Não é o alvo mais difícil.** A obra afirma, com todas as letras, que **é mais fácil atacar a
+defesa do que atacar o ataque**. Golpes defensivos são estruturas mais expostas do que golpes
+ofensivos, e desmontá-los é um caminho de vitória por si.
+
+**Não é um item indestrutível.** Um Gu defensivo é um **ser vivo**: ele acumula dano de uma
+batalha para a outra, adoece e morre — e a obra registra defesas que falharam porque o bicho
+que as fornecia já vinha ferido de antes. Um arsenal defensivo é um estoque perecível, e o
+assunto é de [[09 - A Morte dos Gu|A Morte dos Gu]].
 
 ### A defesa que não custa nada
 
@@ -392,7 +480,12 @@ convertidos, pele endurecida, escamas. Eles **não consomem essência para se ma
 não estão ligados: estão gravados. É a defesa dos veteranos, e a razão pela qual um lutador de
 [[04 - Strength Path|caminho da força]] é difícil de matar por dano bruto.
 
-O preço está em [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] e é alto: cada reforço grava marcas
+Eles não são de graça: são pagos em **tempo**, não em energia. Converter os tendões em aço
+exigiu **meio ano de uso diário** do Gu correspondente. E a cobertura tem buraco — a obra
+observa que uma carapaça externa **não protege as vísceras**, de modo que um golpe que
+atravessa a casca sem quebrá-la ainda mata.
+
+O outro preço está em [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] e é alto: cada reforço grava marcas
 permanentes que empurram para fora os Gu de luz, de espaço e de cura, e tornam o próprio corpo
 lento de curar.
 

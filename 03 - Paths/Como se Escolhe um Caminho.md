@@ -98,11 +98,27 @@ O que a obra descreve no nível 3 são duas coisas:
   os Gu comem coisas parecidas (logística mais barata), cobrem as fraquezas uns dos outros
   (sinergia de uso) e se fundem melhor quando refinados juntos (sinergia de refino).
 
-É **essa segunda coisa** — a montagem do conjunto coeso — que faz o mundo dizer que se
-"escolhe um caminho no nível 3". A formulação é útil e amplamente verdadeira, mas é uma
-**descrição de prática, não uma regra formal do universo**. Ninguém assina nada. O cultivador
-simplesmente começa a comprar coisas que combinam com o que já tem, e um observador de fora
-passa a conseguir dizer de que caminho ele é.
+Vale reparar em como o próprio mundo dá esse conselho, porque é revelador. A orientação que um
+veterano passa a um jovem é "no nível 3 você tem que **determinar a direção que quer seguir** e
+montar um conjunto de Gu naquela linha" — e os exemplos que ele dá em seguida são todos
+**funções**, não caminhos: se você quer ser um Mestre de suporte, seus Gu serão principalmente
+de armazenamento; se quer ser investigador, o núcleo será de investigação; se quer futuro no
+refino, trabalhe receitas; se gosta de tramar, colecione Gu de apoio ao pensamento. Ninguém diz
+"escolha entre o caminho do sangue e o caminho da espada".
+
+É **essa** montagem de conjunto coeso que faz o mundo dizer que se "escolhe um caminho no nível
+3". A formulação é útil e amplamente verdadeira — a obra registra que, ao chegar ao nível 3, os
+Mestres Gu já começaram a se classificar em categorias e a virar especialistas de um domínio —
+mas é uma **descrição de prática, não uma regra formal do universo**. Ninguém assina nada. O
+cultivador começa a comprar coisas que combinam com o que já tem, e um observador de fora passa
+a conseguir dizer de que caminho ele é.
+
+O mundo também sabe que a montagem é uma decisão difícil e falível. O conselho continua assim:
+um núcleo sozinho não faz um conjunto, são precisos vários Gu de suporte importantes, e é
+preciso **escolher com cuidado e pensar à frente**, porque uma escolha errada impede o núcleo
+de mostrar todo o seu valor. É a coisa mais próxima de "planejamento de build" que o mundo
+mortal oferece — e ainda assim é sobre completar o que você já tem, não sobre decidir o que
+você vai ser.
 
 > [!warning] Uma nuance que vale guardar
 > Um Mestre Gu de nível 3 que montou um conjunto do caminho da força **continua carregando
@@ -154,9 +170,13 @@ Três acumuladores silenciosos operam durante toda a vida mortal:
   de bronze, cada "força de javali" empilhada é uma cirurgia irreversível que grava mais uma
   camada de uma lei específica. O praticante compra um bônus e gasta espaço — e o espaço
   gasto não volta.
-- **O uso repetido dos mesmos Gu.** `(ded.)` A obra estabelece que usar um Gu é acionar uma
-  lei e que leis deixam resíduo; o acúmulo gradual pelo uso rotineiro é a leitura natural
-  disso, mas a obra **não quantifica** quanto uso rende quanta marca no mundo mortal.
+- **O uso rotineiro dos próprios Gu.** Isto é canônico e mais forte do que parece: usar um Gu
+  que concede a força de um javali **grava marcas do caminho da força no corpo** de quem o usa.
+  A obra generaliza sem meias-palavras — ao longo de uma carreira inteira de cultivo, é
+  impensável que alguém *não* acumule marcas por essa via; é descrito como algo natural e
+  inevitável. Um efeito colateral notável: essas marcas ficam no corpo, e não no Gu, então quem
+  cair num lugar onde nenhum Gu funciona **ainda ataca com a força de um javali**. `—` A obra
+  não quantifica quanto uso rende quanta marca.
 - **O conflito entre leis já instaladas.** Quanto mais marcas de um caminho um corpo tem,
   pior ele responde a caminhos hostis. A porta não se fecha de uma vez: ela vai emperrando.
 
@@ -250,26 +270,52 @@ Duas alavancas legítimas que a obra registra para quem chega preparado:
 
 ### Dá para mudar depois?
 
-Esta é a pergunta que toda mesa vai fazer, e a resposta honesta tem três camadas.
+Esta é a pergunta que toda mesa vai fazer, e a resposta é **sim, mas** — com um "mas" grande o
+bastante para explicar por que quase ninguém o faz.
 
-**O corpo e a abertura, não.** O corpo imortal de um caminho e a natureza da abertura são
-resultado de um processo irreversível. A obra não descreve ninguém refazendo isso.
+A regra, como o mundo a enuncia: **é possível trocar de caminho, mas é preciso trocar o Gu
+Vital junto.** E aí vêm as condições, todas afirmadas pela obra:
 
-**As marcas, sim — parcialmente e a custo alto.** Existem técnicas que convertem dao marks de
-um caminho em outro, e o [[Transformation Path|caminho da transformação]] funciona como
-conversor universal — é justamente o que lhe dá a menor barreira de entrada de todos. Isso
-permite **acrescentar** um caminho, não trocar o de baixo.
+- **Não se faz rápido.** É descrito como um assunto grande, com muitos aspectos a considerar.
+- **Tem repercussões negativas sobre a abertura imortal.** Você não sai ileso do outro lado.
+- **Trocar o Gu Vital é extremamente perigoso e pode ferir gravemente** quem tenta.
+- **Custa um Gu Imortal novo do caminho de destino** — comprar, roubar ou refinar uma peça
+  única no mundo inteiro. É um projeto, não uma decisão.
 
-**Um segundo caminho, sim, e é o padrão da elite.** Todo Venerável cultiva dois caminhos: um
-principal e público, outro de especialidade e mantido em segredo absoluto. A mesma
-arquitetura aparece em escala menor entre cultivadores fortes. Ou seja: no reino imortal a
-resposta a "escolhi mal" não é trocar de caminho — é **adicionar** um, pagando o preço de
-carregar dois conjuntos de marcas que não se ajudam.
+A obra registra a operação sendo cogitada e executada: cultivadores que refinaram um Gu Imortal
+novo e o converteram em Gu Vital; forças que consideram trocar o caminho inteiro do clã ao
+ganhar acesso a um território rico no caminho de destino; imortais que se oferecem para
+intermediar a compra dos Gu necessários e viabilizar a troca de um aliado. Há inclusive uma
+versão mortal do procedimento, feita com apoio de uma instalação especializada.
 
-Existe ainda uma rota de nicho: **desfazer uma segunda abertura já elevada a imortal
-transfere as dao marks daquele caminho para o corpo físico**, que passa a ser ele mesmo um
-material imortal daquele caminho. É segredo de alto nível e não é uma opção de carreira
-comum, mas registra que a arquitetura tem juntas móveis para quem tem poder de sobra.
+**Então por que é raro?** Porque as marcas não vêm junto. Quem trocou o Gu Vital continua com o
+corpo, a abertura e o vetor de marcas do caminho antigo — e vai precisar de séculos de provações
+para reconstruir no caminho novo o que já tinha no velho. Trocar o Gu Vital muda para onde você
+vai; **não muda o que você é**. E há o caso extremo de quem trocou de caminho principal
+**abandonando de vez todas as marcas do caminho antigo** — perda total e irreversível de séculos
+de acúmulo.
+
+Por isso a resposta prática da elite não é trocar, e sim **acrescentar**:
+
+**Um segundo caminho é o padrão do topo.** Todo Venerável cultiva dois: um principal e público,
+outro de especialidade e mantido em segredo absoluto. A mesma arquitetura aparece em escala
+menor entre cultivadores fortes. E o mundo tem uma norma explícita sobre isso: mesmo quem
+cultiva mais de um caminho **escolhe um para ser o principal** — é tratado como conhecimento
+básico do reino imortal, porque marcas de caminhos diferentes se atrapalham dentro do mesmo
+corpo.
+
+Existe ainda uma rota de nicho: **desfazer uma segunda abertura já elevada a imortal transfere
+as dao marks daquele caminho para o corpo físico**, que passa a ser ele mesmo um material
+imortal daquele rank e caminho. É segredo de alto nível e não é uma opção de carreira comum, mas
+registra que a arquitetura tem juntas móveis para quem tem poder de sobra.
+
+> [!warning] O caminho do corpo e o caminho da abertura são estoques separados
+> Vale registrar, porque é fácil confundir e a obra é explícita: o **corpo** de um imortal pode
+> ser puramente de um caminho enquanto a **abertura** dele contém marcas de vários outros. As
+> marcas da abertura não pertencem ao corpo. E quando um imortal morre, as marcas que estavam no
+> corpo dele **se transferem para a terra abençoada** que ele deixou. São duas contabilidades
+> distintas, e uma ficha completa registra as duas — três, na verdade, porque a **alma** também
+> acumula marcas por conta própria, e não só do caminho da alma.
 
 ## De onde vêm as marcas de cada caminho
 
@@ -573,33 +619,61 @@ Dois casos concretos que ilustram a distinção:
   fragmentos da compreensão do Venerável na mente de quem cultiva o caminho correspondente.
   Saltos equivalentes a décadas ou séculos de estudo. Mas o que se ganha é **attainment**, e o
   ganho é dirigido pelo **caminho daquele Venerável**, não pelo seu.
-- **Herança como bloco de marcas.** Ainda assim, "heranças" aparecem listadas como origem de um
-  bloco do vetor de marcas de um imortal. `(ded.)` A leitura coerente é que uma herança pode
-  incluir recursos, materiais e aberturas que rendem marcas — e não que o conhecimento herdado
-  se converta em marcas. A obra não detalha o mecanismo.
+- **A exceção que a obra nomeia.** Existe **uma** herança documentada que entrega dao marks de
+  verdade, e não apenas compreensão: uma montanha de legado do [[Luck Path|caminho da sorte]]
+  cujo primeiro herdeiro saiu dela com um volume de marcas de sorte comparável ao de um imortal
+  de nível 7 — sem ter nível 7. As marcas são **do caminho da herança**. Isso confirma que a
+  categoria existe; `—` a obra não diz se essa montanha é caso único ou exemplar de uma classe.
 
 ### 7. Conversão entre caminhos
 
-Marcas podem ser **convertidas de um caminho para outro** por golpes especializados, e o
+Marcas podem ser **convertidas de um caminho para outro**, e o
 [[Transformation Path|caminho da transformação]] é o **conversor universal** do sistema — é
-exatamente isso que lhe dá o menor limiar de refino de todos os caminhos.
+exatamente isso que lhe dá o menor limiar de refino de todos os caminhos. Mas o mecanismo é mais
+estreito e mais caro do que parece, e vale desmontá-lo.
 
-Os casos documentados mostram o padrão: transformar-se numa criatura de um caminho converte as
-marcas de transformação em marcas **daquele** caminho, somando-se às que já existiam. Assim se
-converte transformação em tempo (para operar dentro do Rio do Tempo), em espada, em sabedoria.
+**O que se converte são as marcas de transformação, e enquanto a forma durar.** Um praticante
+que se transforma numa criatura ligada a um caminho vê as **próprias marcas de transformação**
+virarem marcas daquele caminho — em espada ao virar um dragão-espada, em sabedoria ao virar uma
+tartaruga adivinhatória, em tempo para conseguir operar dentro do Rio do Tempo. É assim que ele
+usa Gu Imortais daquele caminho com amplificação plena sem nunca tê-lo cultivado.
 
-**O caminho de destino é escolhido pelo golpe usado**, e portanto esta é, junto com o consumo,
-a segunda via realmente dirigível. Custo e limite: `—` a obra não quantifica a taxa de conversão
-nem informa se há perda no processo.
+Quatro limites que a obra estabelece, e que juntos explicam por que isso não é um câmbio livre:
+
+- **A conversão é temporária e atada à forma.** Ela vale enquanto o cultivador está transformado.
+- **É preciso limpar antes de trocar de forma.** As marcas da transformação anterior permanecem,
+  e é obrigatório usar Gu apropriados para removê-las por completo antes da próxima — **senão
+  há grande dano ao próprio corpo**. A limpeza leva tempo, e esse tempo é uma janela de
+  vulnerabilidade em combate.
+- **Há teto por compreensão.** Um praticante em grau de mestre consegue equilibrar apenas três
+  tipos de marca simultaneamente. Carregar muitas formas ao mesmo tempo exige domínio muito
+  alto, ou um método excepcional.
+- **Resíduo mal limpo tem consequências permanentes e bizarras.** A obra registra marcas de
+  transformação residuais alterando o corpo do próprio cultivador de forma duradoura, inclusive
+  interferindo no resultado de um refino.
+
+Existe também a **operação inversa**, e ela é o método mais poderoso de direção de marcas que a
+obra documenta abaixo do nível de Venerável: um golpe supremo do caminho da transformação capaz
+de converter **marcas de todos os outros caminhos em marcas de transformação** — e que alcança
+inclusive as marcas do caminho do céu, forçando qualquer tribulação a se manifestar como
+calamidade de feras. O limite declarado é de escala: contra quantidades altas demais de marcas,
+simplesmente não é executável.
+
+`—` A obra não quantifica a taxa de conversão nem informa se há perda de volume no processo.
 
 ### 8. As vias menores que a obra registra
 
 Vale listar, porque cada uma é um gancho de campanha pronto:
 
-- **Ritos de aliança.** Um pacto entre imortais é gravado como marca no corpo. Aparece
-  explicitamente como origem de um bloco no vetor de marcas de alguém. Enquanto a aliança não
-  for prejudicial ao portador, a autolimpeza natural do corpo não a remove; se ele trair, a
-  marca de punição dispara instantaneamente.
+- **Ritos de aliança.** Um pacto entre imortais é, na sua essência, um método que grava marcas
+  no corpo **e na alma** dos signatários — e para desfazer o pacto é preciso remover essas
+  marcas. Ele aparece explicitamente como origem de um bloco no vetor de marcas de imortais
+  reais, com volume relevante. **A regra de caminho aqui é peculiar e vale guardar: a marca é do
+  caminho do MÉTODO usado para forjar o pacto, não do caminho dos signatários.** Uma aliança
+  selada por um método do caminho da terra deixa marcas do caminho da terra em todo mundo que a
+  assinou, independentemente do que cada um cultive. Enquanto a aliança não for prejudicial ao
+  portador, a autolimpeza natural do corpo não a remove; se ele trair, a marca de punição
+  dispara instantaneamente.
 - **Prolongar a própria vida.** Estender a longevidade com Gu de dia, mês e ano **grava marcas
   do caminho do tempo no corpo** — e o acúmulo eventualmente **impede o uso futuro** de Gu de
   longevidade genuínos. Uma via de aquisição que se sabota sozinha. Ver [[Longevidade]].

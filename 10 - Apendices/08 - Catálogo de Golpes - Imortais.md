@@ -82,10 +82,12 @@ tema desenvolvido nas observações ao final.
 > o teto de pensamentos, produz um sistema de recursos com duas dimensões — o que se
 > tem e quantas coisas se consegue segurar de uma vez — sem nenhuma barra de mana.
 
-## As três categorias especiais
+## As categorias especiais
 
-A obra nomeia três categorias de golpe que **só existem neste patamar**. Elas estão
-marcadas no catálogo por símbolos.
+A obra nomeia categorias de golpe que **só existem neste patamar**. Elas estão marcadas
+no catálogo por símbolos, e as três primeiras são as que ela apresenta como tipos de
+golpe assassino propriamente ditos; as duas últimas são formas de usar Gu que a obra
+também trata como golpes.
 
 ### 🏟 Golpes de campo de batalha (*battlefield killer moves*)
 
@@ -142,6 +144,15 @@ essência; como já foi construído antes, dispensa conjuração. Serve a qualqu
 pode ser refinado e melhorado indefinidamente, e é feito **comendo** materiais Gu, não
 ativando Gu — cada totem é único e ninguém sabe de antemão que forma tomará. Estão
 reunidos numa seção própria ao fim do catálogo.
+
+### ⚔ Formações de batalha antigas (*ancient battle formations*)
+
+A forma **cooperativa** do golpe assassino, e a única em que os núcleos não são Gu, e sim
+**pessoas**. Vários Gu Imortais entram na formação, cada um ocupa a posição de um núcleo,
+e o conjunto passa a agir como uma entidade só: as forças somam, as fundações de alma
+somam, a essência imortal vira caixa comum e o pensamento circula livre entre todos. São
+tecnologia extinta — a obra diz que ficaram "enterradas dentro do Rio do Tempo" — e o
+mundo guarda um ranking histórico delas. Também têm seção própria ao fim do catálogo.
 
 ## Como usar este catálogo
 

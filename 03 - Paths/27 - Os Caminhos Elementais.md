@@ -668,5 +668,5 @@ Duas exceções canônicas ao custo de cultivar vários elementos:
 - [[21 - Formation Path|Formation Path]] — o consumidor universal dos caminhos elementais.
 - [[07 - Refinement Path|Refinement Path]] — o par estrutural do fogo; refinar exige fogo.
 - [[06 - Attainment|Attainment]] — a escala de domínio, cujos degraus esta nota mostra em ação.
-- [[28 - Os Demais Caminhos|Os Demais Caminhos]] — os caminhos menores e os ramos derivados.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — os caminhos menores e os ramos derivados.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

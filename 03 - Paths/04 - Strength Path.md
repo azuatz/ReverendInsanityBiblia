@@ -4,7 +4,7 @@ tags:
 aliases:
   - Strength Path
 status: consolidado
-fontes: ["cap. 241", "cap. 266", "cap. 275", "cap. 280", "cap. 281", "cap. 285", "cap. 288", "cap. 291", "cap. 292", "cap. 297", "cap. 316", "cap. 317", "cap. 319", "cap. 345", "cap. 353", "cap. 368", "cap. 377", "cap. 422", "cap. 442", "cap. 454", "cap. 459", "cap. 500", "cap. 546", "cap. 560", "cap. 597", "cap. 648", "cap. 711", "cap. 754", "cap. 782", "cap. 1183"]
+fontes: ["cap. 241", "cap. 266", "cap. 275", "cap. 280", "cap. 281", "cap. 285", "cap. 288", "cap. 291", "cap. 292", "cap. 297", "cap. 316", "cap. 317", "cap. 319", "cap. 345", "cap. 353", "cap. 368", "cap. 377", "cap. 422", "cap. 442", "cap. 454", "cap. 459", "cap. 500", "cap. 546", "cap. 560", "cap. 597", "cap. 648", "cap. 711", "cap. 754", "cap. 782", "cap. 1183", "cap. 1248", "cap. 1323"]
 conhecimento: comum
 ---
 

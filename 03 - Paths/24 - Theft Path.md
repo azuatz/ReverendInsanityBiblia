@@ -235,7 +235,7 @@ Os golpes nomeados:
 > algo inédito na história — e cujo cultivo travou para sempre em troca.
 >
 > O único conserto proposto é **desfazer o próprio golpe** — quebrar um golpe de nível 9, o que é
-> dificílimo e desperdiça um tesouro. Ver [[08 - Calamidades e Tribulações|Calamidades e Tribulações]].
+> dificílimo e desperdiça um tesouro. Ver [[10 - Tribulações e Calamidades|Calamidades e Tribulações]].
 
 **Fora de combate**, o caminho tem dois usos surpreendentes:
 
@@ -363,7 +363,7 @@ Vale enumerar, porque a resposta é econômica e não moral:
 - [[10 - Soul Path|Soul Path]] — o caminho que é ao mesmo tempo parceiro e rival deste.
 - [[11 - Space Path|Space Path]] — o caminho de especialidade do fundador, e a defesa canônica contra o roubo.
 - [[18 - Luck Path|Luck Path]] — a combinação mais potente, e o rival no refino.
-- [[08 - Calamidades e Tribulações|Calamidades e Tribulações]] — por que ficar invisível para o céu trava o cultivo.
+- [[10 - Tribulações e Calamidades|Calamidades e Tribulações]] — por que ficar invisível para o céu trava o cultivo.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — a assimilação, "o roubo que o mundo pratica".
 - [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] — o fundador, como figura histórica.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

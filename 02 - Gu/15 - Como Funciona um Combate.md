@@ -199,3 +199,149 @@ rápida: escolha-se uma.
 o detalhe que inverte a intuição — **o dano escala com o quanto o golpe já avançou**.
 Interromper cedo poupa o adversário; interromper tarde pode matá-lo. A escala completa, com os
 quatro patamares de gravidade, está em [[07 - Killer Moves#Backlash: o que acontece quando dá errado|Killer Moves]].
+
+## Alcance, posição e terreno
+
+A obra mede o combate mortal em **passos**, e os números são pequenos. Isso é importante: uma
+luta entre Mestres Gu comuns acontece num espaço do tamanho de um pátio, não de um campo.
+
+| Efeito | Alcance | Observação |
+|---|---|---|
+| Investida de rank 2 (dois Gu de deslocamento) | **50 passos** cada | recarga de **5 respirações**; obstáculos encurtam a investida |
+| A versão fundida de rank 4 | **200 passos** | e a recarga cai **pela metade** |
+| Defesa corporal comum | **cerca de um metro** ao redor do corpo | um ataque que não invade esse metro não pode ser defendido |
+| Deslocamento dentro de uma arena | **mais de cem metros** em poucos segundos | com Gu de movimento de rank 3 |
+| Alcance de um golpe de campo de batalha imortal | **milhares de quilômetros** | outra categoria; ver [[08 - Formações de Gu|Formações de Gu]] |
+
+### Corpo a corpo contra distância
+
+A obra trata isso como uma escolha de escola, não como uma preferência. Três regras:
+
+**Distância curta anula a esquiva.** A formulação é literal: contra um efeito muito rápido, um
+Mestre Gu de rank 3 ainda consegue desviar com dificuldade, mas contra um de rank 1 ou 2
+*basta encurtar a distância* e ele será atingido sem tempo de reagir. Fechar a distância é,
+portanto, uma jogada ofensiva com efeito mecânico — e há registro de um lutador que a executa
+de propósito, colando no adversário justamente para tirar dele o tempo de desviar.
+
+**Quem luta perto tem defesa forte, e isso é regra de perfil.** A obra afirma que "nenhum
+Mestre Gu de curta distância teria defesa fraca". Faz sentido econômico: quem não pode se
+afastar precisa aguentar.
+
+**Esquivar satura.** Contra volume — uma saraivada, uma nuvem de projéteis — esquivar funciona
+para os primeiros e depois deixa de funcionar; a obra descreve alguém desviando de alguns e
+sendo obrigado a bloquear o resto de peito aberto. Esquiva pura, sem nenhuma camada de
+defesa, é descrita como "andar na corda bamba".
+
+### Movimento é meia luta
+
+Um Gu de deslocamento e um de reconhecimento, juntos, são creditados na obra com **triplicar a
+força de combate** de quem os adquire — e nenhum dos dois causa dano. Quatro famílias são
+apontadas como as melhores para movimento: **vento, luz, relâmpago e nuvem**.
+
+Duas consequências que decidem lutas inteiras:
+
+- **A diferença de rank entre Gu de movimento decide a perseguição.** Um perseguidor com Gu de
+  movimento de rank 4 contra um fugitivo com um de rank 3 não apenas impede que a distância
+  aumente: ele **encurta**. Perseguição é uma comparação direta de duas fichas, e o resultado é
+  determinístico.
+- **Voar invalida o duelo.** Alguém que pode subir e sair está fora do alcance de quem não
+  pode, e a obra registra combatentes desistindo do confronto por essa única razão. Gu de voo
+  são **caros e raros**, e poucos os possuem. E há um custo escondido: aprender a **combater**
+  voando — não apenas a voar — leva **pelo menos cinco anos** de treino.
+
+### O terreno
+
+Terreno neste mundo não é cenário; é uma estatística. Ele age em três camadas:
+
+**A camada física.** Floresta densa reduz velocidade e anula a vantagem de quem não tem Gu de
+movimento adequado. Obstáculos encurtam investidas. Espaço fechado impede a fuga.
+
+**A camada de marcas.** Como explica [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]], o chão saturado pelas
+marcas de um caminho corta boa parte da potência de quem chega com outro. **Quem escolhe onde a
+luta acontece já ganhou uma parte dela sem gastar nada.**
+
+**A camada de exceção.** Existem regiões em que uma regra ambiental atinge todo mundo — por
+exemplo, lugares onde acionar qualquer golpe fere primeiro o próprio usuário. Quem tiver uma
+imunidade pessoal a essa regra combate ali com vantagem quase absoluta. É o padrão de
+emboscada mais eficiente documentado na obra: **combinar uma regra ambiental universal com uma
+exceção pessoal**.
+
+## Defesa: uma pilha, não um número
+
+A defesa deste mundo não é um valor que reduz dano. É uma **pilha de camadas**, cada uma um Gu
+distinto, cada uma com custo, área coberta e prazo de validade próprios.
+
+### As camadas
+
+Defesa é uma das **seis categorias funcionais** de Gu que todo Mestre monta — ataque, defesa,
+movimento, armazenamento, reconhecimento e cura — e existe como **especialidade profissional**:
+o mundo tem "Mestres Gu defensivos", que são um posto numa equipe, ao lado do investigador e
+do curandeiro.
+
+Quantas camadas se empilha é a medida de quão sério é o combatente:
+
+| Situação | Camadas ativas |
+|---|---|
+| Mestre Gu comum, uso corrente | **uma** |
+| Situação que ameaça a vida, mortal bem equipado | **duas** — e a obra credita a sobrevivência exatamente à segunda |
+| Reflexo treinado de um especialista em defesa | **três**, montadas antes de pensar |
+| Imortal em crise | **cerca de cem** linhas de defesa de uma vez |
+
+### O que faz uma camada ser boa ou ruim
+
+Cinco propriedades, e nenhuma é "quanto dano ela para":
+
+**Área coberta.** Existem defesas que protegem **só as costas** — e a obra as descreve como
+"normalmente inúteis", exceto no dia em que o ataque vem por trás. Isso vale até no patamar
+imortal: há um Gu Imortal de rank 7 cuja defesa também cobre apenas as costas.
+
+**Custo de sustentação.** Manter defesa acesa drena essência continuamente, e é uma das formas
+mais rápidas de secar. A obra registra o cálculo do outro lado da mesa: um atacante que vê o
+alvo com **duas** defesas ativas decide **não** atacar e puxar a luta para o longo, porque sabe
+que o defensor gastará mais depressa que ele. **Defesa demais é uma sangria.**
+
+**Custo de alimentação.** Um Gu defensivo bom come mais que dois Gu comuns somados — a
+manutenção fora de combate é parte do preço, e está em [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]].
+
+**Prazo.** Defesas quebram, e a obra conta em respirações quanto elas duraram. Meia respiração
+é o número recorrente para uma defesa insuficiente diante de um ataque acima do patamar dela;
+"poucas respirações" para um escudo improvisado. E quando alguém está contando quantos golpes
+a própria defesa ainda aguenta — a obra descreve exatamente esse cálculo, "mais um ou dois
+ataques e ela se rompe" —, é esse número que faz o personagem mudar de tática.
+
+**Maleabilidade.** Nem toda defesa acompanha o corpo. Há armaduras que **crescem e endurecem
+com o tempo de combate**, mas que não se esticam com o usuário e que, terminada a luta, **têm
+de ser quebradas pelo próprio dono para sair**. Contra uma dessas, a jogada é não deixar que
+ela termine de crescer.
+
+### A defesa que não custa nada
+
+Há uma categoria importante à parte: os **reforços corporais permanentes** — músculos
+convertidos, pele endurecida, escamas. Eles **não consomem essência para se manter**, porque
+não estão ligados: estão gravados. É a defesa dos veteranos, e a razão pela qual um lutador de
+[[04 - Strength Path|caminho da força]] é difícil de matar por dano bruto.
+
+O preço está em [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] e é alto: cada reforço grava marcas
+permanentes que empurram para fora os Gu de luz, de espaço e de cura, e tornam o próprio corpo
+lento de curar.
+
+### Reflexão e contra-ataque
+
+Existe uma família de defesas que **devolve o ataque ao atacante**, e ela é o exemplo mais
+completo do princípio "toda força tem contramedida". A obra descreve uma reflexão tão boa que
+até socos e chutes voltam, e que coloca o dono numa "posição inexpugnável" contra adversários
+de patamar altíssimo. E então mostra as três maneiras de vencê-la:
+
+1. **Não atacar a pessoa** — atacar o terreno, o ambiente, o campo em volta, já que a
+   reflexão só devolve ao atacante o que foi dirigido ao protegido.
+2. **Atacar com material descartável** — mandar Gu baratos, aceitar que voltem destruídos e
+   repô-los na hora. A reflexão vira um imposto pago em consumíveis.
+3. **Decifrar** — com estudo acumulado, uma organização desenvolveu um ataque em que **a maior
+   parte** ainda é refletida e **uma fração passa**. Informação suficiente fura qualquer coisa.
+
+> [!warning] Não existe defesa absoluta neste mundo
+> A busca no texto-fonte por "defesa absoluta", "defesa impenetrável", "defesa perfeita" não
+> retorna nada: a obra nunca usa a ideia. O termo que ela usa é **posição inexpugnável**, e é
+> sempre situacional — alguém está inexpugnável *naquela circunstância*, com *aquele* golpe,
+> contra *aqueles* atacantes. A máxima do mundo, dita com todas as letras, é a oposta: **"a
+> melhor defesa é o ataque."**

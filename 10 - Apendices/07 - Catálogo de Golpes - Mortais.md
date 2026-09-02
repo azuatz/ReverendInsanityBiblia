@@ -614,6 +614,11 @@ ser ativado sozinho**. Os casos registrados vão de duplas a exércitos:
 
 - **Três pessoas:** *Three Hearts Combination Soul*, *Three Heads Six Arms*.
 - **Quatro pessoas:** *Infinite Search and Lock*.
+- **Sete pessoas:** *Turtle House* — e este merece destaque, porque a obra o registra
+  como **a primeira Casa de Gu da história** e tira dele a definição do que uma Casa de Gu
+  é: um golpe assassino formado pela combinação e **solidificação** de dez ou mais tipos
+  de Gu. Toda Casa de Gu do mundo, portanto, é tecnicamente um golpe cooperativo que ficou
+  permanente.
 - **Um grupo de refinadores em formação:** *Grey Meltdown*.
 - **Uma tropa de elite inteira:** o pilar de luz das tropas brancas.
 - **Centenas de praticantes coordenados:** *Gold and Silver Lightning Dragon*.

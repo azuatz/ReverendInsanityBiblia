@@ -22,7 +22,9 @@ Imagine um mundo onde a magia não vem de feitiços nem de deuses, mas de **inse
 
 O mundo desses Mestres Gu tem três camadas que a designer precisa ter na cabeça desde o começo:
 
-1. **A camada geográfica.** Cinco regiões continentais — Continente Central, Planícies do Norte, Deserto Ocidental, Mar Oriental e Fronteira Sul — cada uma do tamanho de vários planetas Terra, separadas por barreiras invisíveis que enfraquecem quem as atravessa. Ver [[As Cinco Regiões]].
+1. **A camada geográfica.** Cinco regiões continentais — Continente Central, Planícies do Norte, Deserto Ocidental, Mar Oriental e Fronteira Sul —, separadas por barreiras invisíveis que enfraquecem quem as atravessa. Ver [[As Cinco Regiões]].
+
+   Vale parar na escala, porque ela é a coisa mais fácil de subestimar e a que mais muda o desenho de uma campanha. A obra dá o número: **a Fronteira Sul sozinha é sete a oito vezes maior que a superfície inteira da Terra** — e ela é a região *pequena*. Sobre o conjunto, o texto é ainda mais direto: um planeta Terra não se compara sequer a uma das cinco regiões. A consequência prática é que **nenhuma potência do mundo jamais mapeou a própria região**, o interior é permanentemente desconhecido, e qualquer coisa pode estar escondida a alguns dias de viagem de onde os personagens vivem sem que ninguém saiba.
 2. **A camada cosmológica.** Acima das cinco regiões existem **dois céus** habitáveis, restos de nove que existiam na aurora do mundo. Abaixo e ao redor de tudo corre o **Rio do Tempo**, que é literalmente a história do mundo em forma de correnteza navegável. Ver [[Cosmologia]].
 3. **A camada da lei.** O "céu" deste mundo não é uma divindade. É um princípio administrativo impessoal que tira dos que têm demais e devolve aos que têm de menos. Um cultivador poderoso não é abençoado: é um **desequilíbrio a ser corrigido**, e o mundo manda desastres proporcionais ao tamanho dele. Ver [[Vontade dos Céus]].
 

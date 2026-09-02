@@ -790,3 +790,174 @@ capacidade de quem a pratica:*
 própria capacidade é respeitável, bondade acima dela é dano — é coerente com o resto do
 sistema dele, e é ecoado por uma figura de altíssimo nível no cap. 2124 (ver Bloco 8).]*
 
+---
+
+## Bloco 7 — A natureza humana segundo a obra
+
+*Bloco riquíssimo e o mais estruturado de todos: a obra tem um **texto sagrado interno**,
+`<<The Legends of Ren Zu>>` (As Lendas de Ren Zu), que é a mitologia compartilhada do
+mundo inteiro e onde a natureza humana é definida. As lendas aparecem espalhadas por
+toda a obra (caps. 5, 38, 131, 733, 807, 1175, 1229, 1473, 1619, 1954, 1960, 2036, 2117,
+2160-2161, 2176, 2185, 2294 e outros).*
+
+### O que Ren Zu é
+
+> "**Ren Zu's story was the most popular and widespread tale in this world, as well as the most ancient legend.**"
+> — cap. 38
+
+> "[1] Ren Zu (人祖) — Ren is human, Zu is ancestor. He is the first human, like the Adam from Adam & Eve."
+> — cap. 5, nota do tradutor
+
+### A lenda fundadora: o homem é o animal fraco que troca partes de si por poder
+
+> "Among the wild beasts that walked the earth, the first man appeared. He was known as Ren Zu, eating raw meat and drinking blood, living a difficult life."
+> — cap. 5
+
+> "**Ren Zu did not have a body as strong as mountain rock, nor did he have the sharp teeth and claws of a wild beast.** How could he fight with the Predicaments? His source of food was unstable and he had to hide all day. **He was at the bottom of nature's food chain, and could barely survive.**"
+> — cap. 5
+
+> "At this moment, there were 3 Gu that came up to him and said, '**As long as you use your life to provide us, we will help you through this difficulty.**' Ren Zu had nowhere to go, so he could only agree to these 3 Gu."
+> — cap. 5
+
+> "But soon he suffered and finally realized that **strength was not everything**. It needed to heal and be cultivated, not spent freely at his will."
+> — cap. 5
+
+> "Ren Zu reflected over this lesson bitterly and decided to give his prime middle years to the most beautiful Gu among the three. And thus, the second Gu gave him wisdom."
+> — cap. 5
+
+> "But good things do not last and Ren Zu was old, and would only grow older and older. **This is because he gave away his youth and middle years to keep the strength and wisdom Gu.**"
+> — cap. 5
+
+*[A tese antropológica da obra: **poder sempre se paga com tempo de vida**. O contrato
+com os Gu é o contrato humano fundamental, e está na origem mítica da espécie.]*
+
+### A esperança: a única coisa que não se paga com anos
+
+> "'Gu, I don't have anything else left. See, **the strength and wisdom Gu have abandoned me**. I only have my old age left! [...] I wish to live a little longer, even if just a second more.'"
+> — cap. 5
+
+> "'Then I will give you my heart,' Ren Zu said."
+> — cap. 5
+
+> "But when Ren Zu gave it his heart, this Gu suddenly gave out endless light. In this light, the Predicaments screamed in horror: '**This is the Hope Gu, withdraw! We Predicaments are most afraid of hope!**'"
+> — cap. 5
+
+> "The Predicaments retreated suddenly. Ren Zu was speechless, and **from that day onwards whenever he faced a predicament, he would give his heart to hope**."
+> — cap. 5
+
+> "'The Strength and Wisdom Gu had left me long ago and I do not have much lifespan left so I'm at my wits end. **But as long as there's hope in my heart, I will not give up!**'"
+> — cap. 38
+
+> "Ren Zu clenched his heart and rejected, '**Even if I die, I will not give up hope!**'"
+> — cap. 38
+
+> "The Hope Gu was very touched and answered Ren Zu's call enthusiastically, emitting a bright light. [...] **But this light was too weak, it could not illuminate the darkness. In fact, it could not even cover Ren Zu's entire body, but only engulfed his chest area.**"
+> — cap. 38
+
+*[Detalhe importantíssimo de tom: a esperança **funciona**, mas ilumina só o peito de
+quem a tem — nunca o caminho. Não é um poder que resolve; é o que impede a desistência.]*
+
+### A solidão e os filhos
+
+> "Ren Zu laughed loudly, tears flowing out of his empty sockets. He said 'good' three times and continued, '**I have children now, I can finally endure the pain of the heart of loneliness. From now on, there will be people celebrating my existence, and grieving for my death, even if I die now, you will remember me.**'"
+> — cap. 131
+
+### A cena central da obra inteira: o desejo humano contra a natureza (cap. 1960)
+
+*A quarta parte das Lendas: Ren Zu, enlouquecido, pergunta a três grupos de animais por
+que buscam o `freedom Gu`. Cada grupo lhe diz que ele, sendo humano, deve se conformar.
+A obra depois recita essa passagem na cena climática. É o texto-tese do livro.*
+
+> The birds: "**We once possessed freedom Gu, but we did not realize that.** Only after losing it, we found that we no longer had wings and could not fly anymore."
+> — cap. 1954
+
+> "But you humans are destined to be alone, all gatherings will end up in separation. Oh human, **you want to pursue freedom but you also need to abide by your nature, you should not indulge in wild fantasies**."
+> — cap. 1954 / 1960
+
+> "The beasts ridiculed him: But you humans were born with empty hands and will pass away with nothing. Oh human, you want to pursue freedom but you also need to abide by your nature, you should not indulge in wild fantasies."
+> — cap. 1960
+
+> "The fishes rebutted: **But you humans are destined to have no relation with eternal life, you will die of old age and illnesses.** Oh human, you want to pursue freedom but you also need to abide by your nature, you should not indulge in wild fantasies."
+> — cap. 1960
+
+E a resposta, recitada no momento culminante:
+
+> Ren Zu was puzzled. / Ren Zu was disgruntled. / Ren Zu was irritated. / **Ren Zu became insane!**
+> — cap. 1960
+
+> "How can you have such thoughts? / **Why can't I have the same thoughts?** / Why can't a human be together forever with their loved ones? / Why can't a human live life without worries and have endless wealth? / **Why can't a human have eternal life?**"
+> — cap. 1960
+
+> "Because fate does not allow it? / Because it does not allow, therefore I cannot do it?! I cannot even think about it?! / **On what basis? On what damned basis? On what basis am I not allowed to think about it?! On what basis is eternal life forbidden?!**"
+> — cap. 1960
+
+> "**If such thoughts turn me insane. Then let me become a lunatic! If such pursuit makes me demonic. Then let me become a demon!!**"
+> — cap. 1960
+
+*[Este é o coração temático da obra e a chave do próprio título. A "insanidade"
+(`Reverend Insanity` / 蛊真人) é definida como **querer o que a natureza declarou
+proibido para a sua espécie**. Não é vilania: é recusa de aceitar um limite ontológico.
+Se a nota final tiver uma única citação, é esta.]*
+
+### A cosmologia por trás: o modo do céu contra o modo dos humanos
+
+> "**The way of heaven is to be impartial, it is to take away surpluses while replenishing deficits.** So all things are in balance and mutually restrict each other. As such, almost all fierce beasts have their natural enemies, and even rank nine venerables have limited lifespan."
+> — cap. 1022 *(vontade de Spectral Soul Demon Venerable)*
+
+> "**And the way of humans is exactly the opposite of the way of heaven, it is to reduce the deficits and build up the surpluses. An expert will want to become even stronger. The rich would want to become richer. A beauty would want to become more beautiful. Those who have found longevity will want to obtain eternal life. Human avarice knows no bound, it will never be satisfied and is opposed to heaven's will.**"
+> — cap. 1022
+
+> "The two are complete opposites, and they are in conflict with each other. Thus, the previous venerables, and any legendary figures, are the targets of heaven's will's suppression. **Calamities and tribulations, lifespan Gu, they are two of heaven's will's trump cards.**"
+> — cap. 1075
+
+> "Heaven's will never made things difficult for us out of dislike. **It also never helped us out of pity.**"
+> — cap. 1022
+
+> "The way of heaven was to take away surpluses while replenishing deficits, it emphasized on balance. **The deeper the foundation of the blessed land, the stronger the heavenly tribulation or earthly calamity.**"
+> — cap. 824
+
+*[Isto é a costura metafísica do mundo: cultivar **é** desejar, desejar **é** acumular, e
+acumular **é** desafiar o equilíbrio cósmico. Por isso a tribulação é proporcional à
+riqueza. O desejo humano não é um pecado moral — é uma força física em oposição a outra.
+Conhecimento nível `[segredo]` no mundo.]*
+
+> "But when a Gu Master cultivates, they search all over the world and gather resources, using them to promote the growth of oneself, thus **this is really the path that defies the way of heaven. Maybe this is why tribulations and calamities occur.**"
+> — cap. 599
+
+### Ganância e interesse como motor do comportamento
+
+> "**Birds die for food and humans die for fortune, this was human heart!**"
+> — cap. 392
+
+> "The saying goes: Humans die for wealth and birds die for food. **Profits could move the human heart, even if Gu Immortals ordinarily appeared to be unconcerned with worldly matters, that was only because mortal materials cannot satisfy their desires.**"
+> — cap. 762
+
+> "Yeah, but **endless greed is also human nature**, hahaha..."
+> — cap. 315
+
+> "**Humans were selfish, who would be willing to hand such a valuable treasure for no purpose?**"
+> — cap. 579
+
+> "Getting close to stronger people is human nature."
+> — cap. 49
+
+> "But no one would want to kill themselves, **survival instinct was human nature**."
+> — cap. 585
+
+> "Five hundred years of experience had already made him fully aware of the human nature and their weaknesses."
+> — cap. 33
+
+> "**Human hearts are easy to change, they are filled with desires which can hardly be satisfied. Even stronger forces or familial fetters cannot fill the deficiencies of the human heart.** Looking at external issues, if a powerful Gu Immortal is offended, it will usually result in the super force facing huge problems. [...] In this world, individual strength can easily surpass a group."
+> — cap. 1747 *(Duke Long, do Heavenly Court — ou seja, o lado "bom" concorda com o diagnóstico)*
+
+### Sorte (`luck`) como recurso real, não como metáfora
+
+> "In Imperial Court blessed land, he learned about the power of luck path. **He knew that the stronger his own luck was, the weaker the heavenly tribulation or earthly calamity would be.**"
+> — cap. 824
+
+> "In fact, Ma Hong Yun died too, even with Fortune Rivalling Heaven's protection."
+> — cap. 1362
+
+*[A sorte é um caminho de cultivo (`luck path`) e um recurso mensurável — mas o cap. 1362
+mostra que nem a sorte de nível supremo garante sobrevivência. Ver Bloco 2.]*
+

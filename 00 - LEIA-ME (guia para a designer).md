@@ -68,10 +68,20 @@ Feito isso, **estas cinco notas dão a fundação**, nesta ordem:
    de uma campanha realmente acontece.
 5. [[Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e
    demoníaco.
+6. [[A Filosofia do Mundo]] — o tom. Leia esta por último entre as fundações, e não a pule:
+   as cinco primeiras explicam **como o mundo funciona**, e esta explica **que tipo de
+   história essas regras servem**. As mesmas mecânicas produzem heroísmo clássico ou tragédia
+   amoral dependendo de uma única questão — se o mundo recompensa quem age bem —, e aqui está
+   a resposta que a obra dá.
 
 Depois disso, [[Estudos de Caso Mecânicos]] mostra as regras em ação, com casos reais da obra
 descritos mecanicamente, e [[Bestas Gu e Reis Fera]] cobre o que um grupo de personagens
 iniciantes de fato encontra e caça no dia a dia.
+
+Duas notas resolvem perguntas que aparecem cedo em qualquer mesa e não cabem nas fundações:
+[[Escala, Distâncias e Viagem]] responde "quanto tempo leva chegar lá?" — a régua física do
+mundo, sem a qual tudo fica convenientemente perto —, e [[Atlas das Cinco Regiões]] dá a
+geografia concreta de cada região, com os lugares, os bichos e as zonas que a população evita.
 
 > [!important] Uma nota manda em todas as outras: [[Tabelas de Referência Rápida]]
 > Ela é a **fonte única e soberana dos números do sistema**. Toda grandeza — graus de aptidão,
@@ -92,12 +102,12 @@ iniciantes de fato encontra e caça no dia a dia.
 | `01 - Cultivo` | Progressão de poder: abertura, aptidão, essência, ranks, ascensão imortal, tribulações, longevidade. |
 | `02 - Gu` | O sistema de Gu: o que são, uso, alimentação, refino, fusão, killer moves. |
 | `03 - Paths` | Uma nota por caminho de especialização — **dezessete** ao todo —, cada uma no mesmo gabarito e fechando com o arquétipo de personagem que aquele caminho entrega. Comece pela [[Visão Geral dos Paths]]. |
-| `04 - Mundo` | Geografia, fauna, cosmologia, as leis do céu, as instituições que governam o mundo, e os mundos privados que os imortais carregam dentro de si. |
-| `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região. |
+| `04 - Mundo` | Geografia, fauna, cosmologia, as leis do céu, as instituições que governam o mundo, e os mundos privados que os imortais carregam dentro de si. Inclui o **atlas** região a região, a **régua de escala e viagem** (distâncias, tempos, transporte) e a **filosofia** que dá o tom do cenário. |
+| `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região, os tipos de gente que o mundo reconhece e as filosofias de vida em disputa. |
 | `06 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
 | `07 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
 | `08 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
-| `09 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogo de Gu, linha do tempo. |
+| `09 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
 
 Cada pasta tem uma nota "Visão Geral" que serve de porta de entrada, com um resumo, as
 **regras do mundo** daquele domínio em lista numerada, e a separação entre o que todo

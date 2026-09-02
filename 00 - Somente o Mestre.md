@@ -41,6 +41,11 @@ descobri-las, na mesa, deve ser uma conquista, não um pressuposto.
 - [[Tornar-se Venerável]] — as quatro condições exatas para alcançar o topo absoluto,
   e o bloqueio que o próprio céu impõe.
 - [[Os Que Romperam as Leis]] — as figuras que quebraram as regras do mundo, e como.
+- [[Lugares Fora das Cinco Regiões]] — a geografia de tudo o que existe além do mundo
+  habitado: os nove céus e o que sobrou deles, o Rio do Tempo como território navegável, os
+  domínios reclusos, as camadas da borda do mundo. A nota é escalonada em **três andares de
+  segredo**, pensados para servir de escada de campanha: libere um andar por vez, conforme
+  o grupo sobe. Só a existência dos dois céus é conhecimento comum.
 
 ## Caminhos que são segredo em si
 
@@ -62,6 +67,9 @@ Se for distribuí-las, corte o que está indicado:
 | [[Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
 | [[Glossário EN-PT]] | todos os termos marcados com 🔒 |
 | [[Tribunal Celestial e Grandes Forças]] | a seção final, sobre o que a instituição realmente faz |
+| [[A Filosofia do Mundo]] | o conflito entre a lei de equilíbrio do céu e o impulso humano de acumular — que é a explicação metafísica de por que cultivar atrai desastre — e a leitura da mitologia que explica o sentido do título |
+| [[Tipos de Gente e Filosofias de Vida]] | o pano de fundo metafísico que amarra as onze posições, no fim da nota |
+| [[Catálogo de Golpes - Imortais]] | **a nota inteira, na prática.** Que golpes imortais existem é sabido; o conteúdo do catálogo é arsenal, e neste mundo golpe conhecido é golpe deduzido. Libere item a item, conforme a mesa encontrar cada golpe |
 | [[Visão Geral do Cultivo]], [[Visão Geral dos Gu]], [[Visão Geral do Mundo]] e demais notas-porta | a seção "O que só o mestre sabe" no fim de cada uma |
 
 > [!note] Para o design

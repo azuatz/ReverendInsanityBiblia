@@ -253,8 +253,12 @@ Um passe de enriquecimento sinalizou três colunas de **caminho** possivelmente 
 - **Everlasting Sorrow** — confirmado: a obra diz que é golpe composto de **tempo e
   sabedoria** e que só quem cultiva os dois consegue usá-lo. A coluna dizia "emoção".
   **Corrigido.**
-- **Heartache Crying Blood** e **Thunder Note Stream** — **não verificáveis**. As passagens
-  localizadas apenas nomeiam os golpes, sem atribuir caminho. Não troquei um palpite por
-  outro: os valores atuais ("sangue + emoção" e "raio + som") ficam como estão, e a correção
-  proposta ("sangue + sabedoria" e "refino + raio + qi") fica registrada aqui como hipótese
-  a confirmar por quem encontrar a passagem certa.
+- **Heartache Crying Blood** e **Thunder Note Stream** — **FECHADO como silêncio real da
+  obra** (varredura de 2026-09-02). Cada um aparece exatamente duas vezes nos seis volumes,
+  ambas no mesmo trecho de um duelo: uma em que o golpe é anunciado pelo nome antes de ser
+  usado, e outra em que ele é citado numa lista de golpes bons do arsenal de alguém. Em
+  nenhuma das quatro ocorrências há efeito, caminho ou mecânica. Portanto não há passagem
+  certa a encontrar: os caminhos que o catálogo atribui ("sangue + emoção" e "raio + som")
+  são leitura do próprio nome do golpe, e ficam como estão, marcados como dedução. A
+  hipótese alternativa que um agente havia proposto ("sangue + sabedoria" e "refino + raio
+  + qi") não tem mais base que a atual e foi descartada.

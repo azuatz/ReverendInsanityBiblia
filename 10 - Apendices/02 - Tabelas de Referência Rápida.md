@@ -13,7 +13,7 @@ aliases:
   - Números do Sistema
   - Tabela de Escala e Distância
 status: verificado-no-texto
-fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 70", "cap. 75", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 736", "cap. 737", "cap. 740", "cap. 826", "cap. 860", "cap. 865", "cap. 939", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
+fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 736", "cap. 737", "cap. 740", "cap. 826", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
 conhecimento: misto — as tabelas de aptidão, ranks e cores são conhecimento comum no mundo; a escala, as distâncias, os tempos de viagem e os custos de transporte da seção 13 são conhecimento comum; dao marks, tribulações, essências imortais e attainment são conhecimento especializado; as quatro condições para virar Venerável são segredo de altíssimo nível
 ---
 
@@ -800,6 +800,7 @@ isso a primeira coluna diz de quem é a taxa, e ela é a coluna que se lê prime
 | Especialista reconhecido | 7 | **5%** |
 | Especialista com receita própria, attainment quase supremo em refino, apoio institucional e sorte reforçada | 6 | **50%** |
 | Qualquer um, refazendo um Gu Imortal **destruído** a partir da insígnia do refino original | 6 – 7 | **50 – 60%** |
+| Quem opera uma Casa de Gu Imortal construída especificamente para refinar | 8 | **50 – 60%** — taxa alta o bastante para **produzir em série** um Gu de rank 8, e por isso mesmo motivo de guerra se souberem |
 
 Uma quarta medida circula no mercado e **não pertence a esta tabela**, embora seja
 frequentemente citada ao lado dela: fala-se em **50 a 60 tentativas por sucesso**
@@ -1435,9 +1436,27 @@ mostra entre o rank 3 e o rank 4 — economia e população contam a mesma hist�
 
 | Item | Custo | Origem |
 |---|---|---|
+| **Viver: uma família mortal de três pessoas** | **1 pedra por mês**, no máximo | **canônico** — é a régua de custo de vida do mundo |
+| Alimentar **dois** Gu de rank 1 | **cerca de 0,9 pedra por dia** | **canônico** — a obra faz a conta em detalhe |
 | Alimentar um Gu de rank 2 comum | **1 a 2 pedras por dia** | **canônico** |
+| Manter quatro Gu (ranks 1 e 2), só a comida | **mais de 2 pedras por dia** | **canônico** |
+| Manter quatro Gu **mais** cultivo e vida pessoal | **cerca de 5 pedras por dia** | **canônico** |
+| Refinar um Gu de rank 1, custo médio em pedras | **~7 pedras** | **canônico** |
 | Guardar um Gu de rank 1 numa creche de Gu | **80 pedras por mês** | **canônico** |
 | Alimentar um Gu de rank 3, 4 ou 5 | — | a obra não precifica; diz apenas que "quanto mais alto o Gu, mais caro e mais raro o alimento", e que alguns exigem comida que **não circula no mercado** |
+
+> [!warning] Compare as duas primeiras linhas antes de seguir
+> **Uma família mortal inteira vive um mês com uma pedra. Dois Gu de rank 1 comem quase
+> uma pedra por dia.** Alimentar o arsenal mais modesto possível custa, portanto, cerca
+> de **trinta vezes o custo de vida de uma família de três pessoas** — e um Mestre Gu de
+> quatro Gu, somando cultivo e sustento, gasta **cinco pedras por dia**, que é o que
+> alimentaria essa mesma família por cinco meses.
+>
+> Este é o número que explica a estrutura social inteira do mundo mortal, e vale mais que
+> qualquer outro desta seção. O Mestre Gu não é um aristocrata porque é forte: ele é um
+> aristocrata porque **precisa** consumir o excedente de dezenas de famílias só para não
+> perder o próprio equipamento. E é por isso que ele quase nunca é independente — o clã
+> não é uma escolha de carreira, é o único orçamento disponível.
 
 > [!note] Para o design
 > A linha de cima é uma das melhores da obra para uma mesa. Um Gu de rank 2 come **uma a
@@ -1461,6 +1480,40 @@ A primeira e a quarta linha juntas explicam a economia inteira de um clã: **a n
 espiritual se paga**, e é por isso que uma tribo aceita gastar um Gu de rank 5 para
 plantar uma. É também por isso que nascentes são o motivo mais comum de guerra entre
 organizações no mundo mortal — é o único ativo que produz dinheiro sozinho.
+
+---
+
+## 20. Capacidade da abertura: quantos Gu se carrega
+
+A [[02 - Abertura|abertura]] guarda duas coisas ao mesmo tempo — a **energia** (o mar primordial, medido
+em porcentagem: seções 1 a 3) e os **próprios Gu**, que moram fisicamente dentro dela. As
+seções anteriores mediram a energia. Esta mede o estojo.
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **Gu que um Mestre Gu comum carrega** | **3 a 5** | **canônico** — enunciado de forma geral, sem amarrar a rank |
+| Um caso excepcional citado como tal, ainda em início de carreira | **7** | **canônico** — a obra o apresenta explicitamente como fora do padrão |
+| Quantos Gu por rank | — | **a obra nunca dá uma escala por rank.** Qualquer tabela do tipo "2 a 3 no rank 1, 7 no rank 5" é invenção |
+| Gu Imortais numa abertura mortal | **zero**; e uma abertura mortal que já guarde um **não guarda um segundo** | **canônico** |
+| Gu mortais numa abertura imortal | vários, sem número declarado | **canônico** |
+
+> [!warning] O limite é físico, e é diferente do limite financeiro
+> São duas travas distintas e a obra as separa com clareza numa mesma cena: um cultivador
+> de rank 1 saqueia um depósito, diz de saída que **não tem como alimentar** o que está
+> levando, leva assim mesmo — e ainda assim precisa **abandonar boa parte**, "considerando
+> os limites da sua abertura de rank 1". Ou seja: mesmo com dinheiro infinito, a abertura
+> enche.
+>
+> Para o design, isso é ótimo, porque dá **duas** pressões sobre o inventário em vez de
+> uma. O dinheiro decide o que você consegue sustentar (seção 19.2); a abertura decide o
+> que você consegue carregar. Um personagem rico ainda tem de escolher, e escolher o
+> conjunto de Gu certo para a missão é uma decisão de jogo, não de contabilidade.
+
+> [!question] O que fica em aberto
+> A obra **não** diz quantos Gu cabem numa abertura por rank, nem quanto a capacidade
+> cresce ao subir. Sabemos que cresce (a fala citada acima só faz sentido assim) e sabemos
+> onde o patamar comum fica (três a cinco). O resto é seu para inventar — e, se inventar,
+> ancore no 3–5 como o normal e trate 7 como já notável.
 
 ---
 

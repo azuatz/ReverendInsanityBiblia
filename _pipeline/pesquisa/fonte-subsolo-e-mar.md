@@ -566,3 +566,94 @@ aparecem e desaparecem). Isso é consistente com o foco da obra em Gu Masters e
 Immortals, que voam ou usam formações de transporte em vez de infraestrutura mortal
 comum — ver tópico 12 para a discussão completa de quem depende de barco/travessia.
 
+## 9. O Mar Oriental (Eastern Sea) como espaço navegável
+
+O Eastern Sea é uma das cinco grandes regiões do mundo (ao lado de Northern Plains,
+Southern Border, Western Desert e Central Continent) e é tratado consistentemente como
+a região mais rica em recursos naturais, com foco quase inteiramente em Gu Immortals
+(o Vol. 5 tem 837 ocorrências do termo, o Vol. 6 tem 414 — é o cenário central de boa
+parte da segunda metade da obra).
+
+- Cap. ~1414 (Vol. 4, linha 27856): "Eastern Sea was the most abundant in resources.
+  In the vast sea areas and deep seas, countless water creatures, sea beasts, minerals
+  and precious stones were hidden."
+
+**Navios/barcos comerciais mortais**: pouco detalhados como tal — a única menção
+explícita de "merchant ships" (navios mercantes) é uma referência de passagem a ataques
+piratas: Vol. 4, linha 61153: "there was once a time when there was news about the
+'Bai Sha Twin Generals' assaulting Tie clan's merchant ships." Não há descrição de
+frota, tripulação ou rota comercial mortal detalhada nessa cena — é mencionada apenas
+retrospectivamente. Termo "fleet" (frota) testado nos 6 volumes: nenhuma ocorrência —
+a obra nunca usa a palavra "fleet" para descrever agrupamentos de navios.
+
+**"Immortal Gu Houses" em forma de navio**: o principal meio de navegação marítima
+detalhado na obra não é o barco mortal comum, mas sim casas-fortaleza mágicas dos Gu
+Immortals com formato de embarcação — tratadas como fortalezas de guerra móveis, não
+como transporte civil:
+- "Red Fiend Divine Boat" (Vol. 4, cap. ~742-878): um "Immortal Gu House" famoso
+  historicamente, tratado como fortaleza de guerra: "they all were like this, they
+  could be considered war fortresses" (linha 30660), ao lado de outras Immortal Gu
+  Houses como "Eighty-Eight True Yang Building" e "Water Pavilion".
+- "Whale Fishing Boat" (Vol. 6): usada pelo clã Xia (Eastern Sea) como meio de fuga
+  de guerra em massa de seus Gu Immortals — "Most of Xia clan's Gu Immortals have
+  escaped using Whale Fishing Boat" (linha 2932).
+- "Floating Reputation Boat" (Vol. 6, linha 2234): Immortal Gu House de rank 7
+  pertencente ao Merman Imperial Court, usada em duelo formal.
+
+**Correntes submarinas (undercurrent)** — o achado mais rico e mecânico da pesquisa:
+o Eastern Sea tem um fenômeno único de "undercurrents" que funciona como rede de
+transporte rápido submarino, tanto para Gu Immortals quanto para o comércio:
+- Cap. 894 (Vol. 4, linha 40887): "This was the unique undercurrent phenomenon of
+  Eastern Sea."
+- Mesmo capítulo (linha 40899-40905): "This undercurrent was like a formless dragon or
+  python, it created a tunnel of water at the bottom of the sea... Fang Yuan followed
+  this undercurrent as he moved quickly, his current speed was incredible fast, even
+  ordinary movement immortal killer moves could not match his speed! This was a
+  specialty of the sea's undercurrents."
+- Existe um tipo de mapa raro e valioso especificamente dedicado a mapear essas
+  correntes (não a costa nem as ilhas): "In Eastern Sea, there was a type of precious
+  map. The map did not record the islands, nor the surface of the sea, it included the
+  undercurrents in the sea." (linha 40909)
+- **Uso comercial explícito**: "Gushes of undercurrents interweaved under the sea,
+  they formed into a natural route for transportation of goods. In Eastern Sea, some
+  super forces had underwater caravans. These caravans made use of Gu worms to go
+  deep into the sea and use the undercurrents to move rapidly, in a short time, they
+  could travel for ten thousand li, or even a hundred thousand li, to engage in
+  trade." (linhas 40911-40913) — isso é a resposta mais direta encontrada para
+  "rotas navegáveis" e "correntes submarinas" pedidas na pauta: existem sim, e são a
+  base logística de caravanas comerciais submarinas de "super forças" (super forces,
+  facções de altíssimo nível).
+- As correntes não são fixas: Vol. 5, linha 114976: "Eastern Sea's deep sea
+  undercurrents did not have fixed paths, they were always changing and had various
+  lengths, it was a display of the great power of nature." — mudam com o tempo, o
+  que explica por que um mapa delas é tão valioso e raro.
+- Correntes também aparecem ligadas a vulcões submarinos (underwater volcano) como
+  parte de uma lenda in-universe (a "Biography of Li Xiao Yao"), sugerindo que
+  correntes específicas levam a destinos extraordinários/perigosos (Vol. 4, linhas
+  41086-41088).
+
+**Marés e tempestades**: a palavra "tide" é usada majoritariamente para "beast tide"
+(maré de feras, fenômeno terrestre de hordas de monstros, não maré oceânica) — dos
+altos números de ocorrência por volume, a maioria são falsos positivos para o sentido
+de maré do mar. Ainda assim há usos genuínos de tempestade marítima como metáfora de
+perigo/poder: Vol. 4, linha 55501: "Many of the rank seven Gu Immortals could only be
+carried along by the tide, like a small raft in a stormy sea, they had no control over
+their circumstances." Vol. 5, linha 165493: "Shen clan was a super force in Eastern
+Sea, but in such a chaotic situation, it was also like a rocky boat in a stormy sea." —
+tempestade marítima aparece quase sempre como metáfora política/de poder entre
+facções, não como evento climático mortal descrito com detalhe físico próprio (chuva,
+ventos, naufrágio real).
+
+**Naufrágios**: termo "shipwreck" testado nos 6 volumes sem nenhuma ocorrência
+literal. Não encontrei uma cena de naufrágio de navio mortal descrita como evento
+autônomo — o mais próximo é o episódio da jangada de bambu do Cap. 200 (ver tópico 8),
+que é fluvial, não marítimo, e o "Myriad Year Flying Warship" sendo "sent flying and
+crashed on the ground" (Vol. 5, linha 174344) — mas isso é um navio voador de combate
+de Gu Immortal derrubado em batalha, não um naufrágio marítimo comum.
+
+`(ded.)` Conclusão do tópico 9: a obra constrói o Eastern Sea muito mais como um
+tabuleiro geopolítico de Gu Immortals e variant humans (mermen, Shark Demon — ver
+tópico 13) do que como um espaço de navegação mortal cotidiana. O elemento mecânico
+mais rico e reaproveitável para design de jogo é o sistema de undercurrents: rotas
+submarinas velozes, instáveis, mapeadas por item raro, usadas por caravanas de elite.
+

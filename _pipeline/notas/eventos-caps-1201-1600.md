@@ -47,7 +47,7 @@ pode reaproveitar como formatos de cenário:
 - **Onde:** parte de Central Continent, atravessa a **heavenly wind qi wall** (parede de qi que separa
   as cinco regiões do céu imemorial), cruza o **immemorial black heaven** e desce em Northern Plains,
   terminando na **Snowy Mountain blessed land** (cap. 1241, 1252).
-- **Gatilho / causa mecânica:** Old Ancestor Xue Hu, o rank 8 número um de Northern Plains, está
+- **Gatilho / causa mecânica:** o rank 8 número um de Northern Plains (nome omitido de propósito: aqui ele é *o dono da montanha*) está
   refinando abertamente o **Fortune Rivalling Heaven Gu** (Gu Imortal rank 8 de luck path, com
   "poder quase-rank 9"), usando um rapaz de sorte extrema como material vivo (cap. 1234). O brilho
   da formação de refino subiu ao céu por sete dias e sete noites e foi visto por toda a região —
@@ -135,7 +135,7 @@ pode reaproveitar como formatos de cenário:
 - **Escala:** dezenas de Gu Imortais rank 6 e 7 dos dois lados; cinco a seis grandes tribos de um
   lado, uma seita nova + uma tribo nova + mercenários do outro; dois rank 8 como árbitros-
   patrocinadores; **público de imortais espectadores** de outras regiões, incluindo observadores de
-  Central Continent (caps. 1203, 1207).
+  Central Continent (caps. 1190, 1206).
 - **Regras especiais do local:**
   1. Combate **um contra um em palco**, por rodadas, cada lado indicando seu campeão.
   2. Os rank 8 **não lutam** até a decisão final; sua batalha decidiria tudo e por isso é evitada.
@@ -847,7 +847,7 @@ pode reaproveitar como formatos de cenário:
 
 - **Tipo:** convenção fechada de escambo entre Gu Imortais — o inverso do mercado aberto.
 - **Onde:** Eastern Sea, em ilha isolada. Regra de segurança canônica: **o local só é decidido poucos
-  dias antes da reunião**, para impedir que alguém com má intenção se prepare (cap. 1295).
+  dias antes da reunião**, para impedir que alguém com má intenção se prepare (cap. 1296).
 - **Periodicidade:** recorrente, sem calendário fixo; convocada por um anfitrião. Eastern Sea é
   famosa nas cinco regiões por elas, e é dito que **as outras quatro regiões têm pouquíssimas**
   (cap. 1295).
@@ -874,7 +874,7 @@ pode reaproveitar como formatos de cenário:
 - **O que se troca:** plantas e feras desoladas raras, materiais imortais rank 6-7, e — raramente —
   Gu Imortais. A obra lembra que **nem todo Gu Imortal é desejado**: para quem não é do path certo,
   um Gu Imortal alheio rende menos por conflito de dao marks e ainda dá trabalho para alimentar; só
-  vale o Gu que serve (cap. 1298).
+  vale o Gu que serve (cap. 1273).
 - **Papel possível de um grupo pequeno:** conseguir o convite *é* a aventura; depois, cada rodada é
   uma negociação com informação incompleta, e o prêmio real é quem você conhece ao sair. Também
   funciona como cenário de espionagem: o local secreto, os guardas no perímetro, os imortais ricos
@@ -1174,12 +1174,12 @@ porque **um rank 8 vivo torna uma força estável como rocha** (cap. 1207). Anos
 como uma das cinco potências rank 8 conhecidas da região (cap. 1546). É o melhor resumo curto da
 física política do mundo: **força de rank 8 é a única garantia de existência de uma facção.** `[comum]`
 
-### A guerra caótica das cinco regiões — citada nos caps. 1212, 1273, 1298, 1531, 1573
+### A guerra caótica das cinco regiões — citada nos caps. 1212, 1273, 1531, 1573
 
 Aparece na faixa como **evento futuro conhecido** (via memória de uma vida anterior) e como
-referência de precedente: nela, "cada Gu Imortal rank 8 dominava uma área", os Gu Imortais faziam
-**sessões de troca de Gu Imortais** com frequência, e os clãs usaram suas grandes formações para
-matar imortais de outra região. Serve à designer como **cenário de campanha alternativo**: o mesmo
+referência de precedente: nela, "cada Gu Imortal rank 8 dominava uma área" (cap. 1573), os Gu
+Imortais faziam **sessões de troca de Gu Imortais** com frequência (cap. 1273), e os clãs usaram
+suas grandes formações para matar imortais de outra região (cap. 1212). Serve à designer como **cenário de campanha alternativo**: o mesmo
 mundo, quinhentos anos adiante, em guerra aberta e generalizada. `[segredo]`
 
 ### A convenção de refinement path de Central Continent — citada no cap. 1335
@@ -1363,10 +1363,13 @@ que cabem *dentro* do evento como protagonistas, não os que decidem seu desfech
   deve completar a montagem do evento.
 - A **convenção de refinement path de Central Continent** (grande evento institucional) fica no
   Volume 4; aqui só aparece citada (cap. 1335).
-- A **guerra dos três continentes** dentro de Lang Ya blessed land (uma guerra encenada entre humanos
-  variantes mortais, usada pelo espírito da terra como método de seleção de talentos) é mencionada
-  duas vezes na faixa (caps. 1439 e um eco tardio) mas **nunca descrita**; a montagem dela deve estar
-  no Volume 4.
+- A **guerra dos três continentes** dentro de Lang Ya blessed land: o texto diz que o espírito da
+  terra "mudou a estratégia de desenvolvimento, promovendo a guerra dos homens-peludos dos três
+  continentes", e que por causa dela "muitos Gu Masters homens-peludos excepcionais se ergueram" e
+  foram **selecionados e levados** para o continente flutuante para cultivar melhor (cap. 1439) —
+  ou seja, uma guerra entre mortais **fabricada pelo dono do mundo como método de seleção de
+  talentos** (ded.). É um evento de grande potencial, mas a faixa **nunca o descreve**: só duas
+  menções de passagem. A montagem deve estar no Volume 4; vale reabrir.
 - As outras quatro regiões **não** aparecem passando pelos terremotos das veias da terra dentro desta
   faixa — quem varrer 1601-1966 deve verificar se isso acontece depois.
 - Nomes e caráter das paredes regionais de **Central Continent** e **Western Desert** não aparecem

@@ -67,7 +67,21 @@ E aqui está o detalhe que a designer deve guardar: **a Mão Sem Forma reaparece
 
 As regras dessas oportunidades são um pequeno sistema em si: um pedido de Gu mortal tem sucesso garantido e consome uma chance no total; um pedido de [[12 - Gu Imortais|Gu Imortal]] consome uma chance **por tentativa**, com ou sem sucesso; e se aquele Gu Imortal já existir no mundo, o refino falha automaticamente — porque a unicidade dos Gu Imortais é regra ativa de refino, não apenas nomenclatura.
 
-**6. O rombo na fronteira do mundo, e o remendo.** `conhecimento: segredo` — o legado mais consequente.
+**6. A malha de túneis que ainda transporta o mundo.** Este é o legado mais concreto e o menos lembrado, e é infraestrutura pura.
+
+Ele achava que uma pessoa era pequena demais e que o mundo dos Mestres Gu era grande demais. Por isso criou o ==túnel sem espaço== (*spaceless tunnel*), um golpe imortal de transporte. O que interessa não é o golpe: é que **trechos dele ficaram para trás, espalhados pelas cinco regiões e pelos dois céus, e continuam funcionando trezentos mil anos depois**. Quem encontra um trecho e conhece o método correspondente **encurta drasticamente a própria viagem**.
+
+As consequências de mesa são imediatas e todas boas:
+
+- é uma **rede de atalhos** pré-existente no mapa, achável, aprendível e não fabricável;
+- quem sabe onde ficam as bocas tem vantagem estratégica permanente sobre quem não sabe;
+- e um túnel **pode ser bloqueado ou desabado** por alguém suficientemente forte, com estilhaços de marca de dao voando e rachaduras de espaço se abrindo em teia — o que faz de cada trecho um lugar tão perigoso quanto útil.
+
+A obra registra o espanto in-universe com isso, pela boca de quem atravessa um: *o método dele é impensável; sumiu há tanto tempo, e um golpe criado há trezentos mil anos ainda funciona.*
+
+**7. Marcos no terreno e portas para dentro.** Além dos túneis, ele deixou pontos fixos no mapa: uma **floresta de pedra** criada por ele pessoalmente, e uma **árvore de pedra roxa** que é a passagem de entrada para uma terra abençoada onde está guardada uma de suas heranças. `(ded.)` O padrão que se repete é este — o acesso ao legado dele é sempre um objeto discreto plantado na paisagem, não um monumento anunciado.
+
+**8. O rombo na fronteira do mundo, e o remendo.** `conhecimento: segredo` — o legado mais consequente.
 
 Desesperado por voltar ao próprio mundo natal, ele forçou deliberadamente a **ruptura da fronteira externa do mundo** no ponto mais fino, no fundo da caverna de nove camadas descrita em [[13 - Cosmologia#A fronteira do mundo]]. Pela brecha começou a jorrar algo capaz de destruir o mundo de cultivo Gu **inteiro**.
 

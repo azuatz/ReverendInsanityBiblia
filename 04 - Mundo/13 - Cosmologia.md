@@ -226,7 +226,11 @@ Uma ==Earth Trench== (trincheira terrestre) é uma fenda no solo de escala conti
 > excelente indício narrativo. Uma trincheira nova dentro de uma dimensão privada é a
 > assinatura de que alguém de escala impossível esteve ali.
 
-**No mundo grande.** As trincheiras do mundo real se abrem pelos terremotos da Grande Era, sem padrão previsível — nem os cultivadores mais fortes conseguem antecipá-las. E elas nascem carregadas: campos de recurso de alto grau, Gu Imortais selvagens, óleo negro, materiais raros. Quem souber **onde e quando** uma trincheira vai abrir chega antes até dos donos legítimos do território. É informação de valor estratégico absoluto.
+**No mundo grande, e muito antes da Grande Era.** Aqui é preciso separar duas coisas que se confundem com facilidade.
+
+**As cinco trincheiras antigas já existem.** A obra é explícita: **cada uma das cinco regiões tem a sua Earth Trench** — o chão rasgado em ravinas gigantescas, algumas se estendendo por milhões de li, algumas com dezenas de milhares de quilômetros de profundidade, algumas insondáveis. O texto as chama de "uma das maravilhas naturais mais magníficas do mundo dos Mestres Gu". Não são novidade nem acidente recente: são acidentes geográficos permanentes, e cada uma tem dono. A das Planícies do Norte é guardada de perto por uma organização que construiu a própria cidade principal bem na boca dela, exatamente para ocupar aquele ponto de recurso — e isso importa muito, porque o norte é a região **mais pobre** das cinco em recursos de cultivo e é lá dentro que está a grande área rica dela. O preço: plantas e feras desoladas poderosas, em grande número.
+
+**A Grande Era abre trincheiras novas.** Essas sim se rasgam pelos terremotos da unificação, sem padrão previsível — nem os cultivadores mais fortes conseguem antecipá-las. E nascem carregadas: campos de recurso de alto grau, Gu Imortais selvagens, óleo negro, materiais raros. Quem souber **onde e quando** uma trincheira vai abrir chega antes até dos donos legítimos do território. É informação de valor estratégico absoluto.
 
 Depois da Grande Era, as trincheiras deixam de ser acidentes e viram uma categoria geológica inteira — **as Dez Terras**: abismo, trincheira, túnel, caverna, prisão, terra de produção, terra voadora, terra de formação, terra de tesouro e terra de tumba. Todas podem servir de nó para construir veias artificiais. O mundo unificado ganha um andar subterrâneo inteiro de geografia nova.
 

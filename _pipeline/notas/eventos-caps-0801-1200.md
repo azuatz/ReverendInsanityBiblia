@@ -2,7 +2,7 @@
 
 > **Faixa:** caps. 801–1200 (Volume 4, caps. 801–1021; Volume 5, caps. 1022–1200)
 > **Data:** 2026-09-02
-> **Status:** em andamento
+> **Status:** completo
 
 ## Método
 
@@ -27,6 +27,9 @@ ambientação, mão de obra, tropa ou vítima.
 
 **Convenção de confiabilidade:** texto simples = a obra afirma; `(ded.)` = dedução segura;
 `*` = invenção/indução nossa sem base textual; `—` = a obra não informa.
+
+**Total:** 37 eventos catalogados — 15 únicos, 12 recorrentes/institucionais, 10 históricos
+citados — e 26 candidatos ordenados a nota própria.
 
 ## Eventos únicos
 
@@ -1469,3 +1472,88 @@ Uso na mesa: mostra que até no topo existe uma prisão, e que **remover uma pe�
 
 ## Candidatos a nota própria
 
+> Ordenados por **utilidade para pôr jogadores dentro do evento** — o critério da designer
+> ("como uma mesa joga o Incidente de Shibuya"): o evento precisa ter ambiente, regras próprias,
+> facções e prêmio, e precisa deixar espaço para a história ser dos jogadores. A faixa de rank
+> indicada é a de personagem que **cabe dentro** do evento, não a de quem o decide.
+
+1. **O estilhaçamento do Starry Sky grotto-heaven e a corrida pelos fragmentos** (caps. 908-916)
+   — o evento ideal da faixa: um mundo antigo se despedaça e, por regra explícita do mundo,
+   **nenhum Gu Immortal pode entrar nos cacos** — só discípulos mortais, com hora marcada, lista
+   de encomendas e um terço do lucro. *Rank 3 a 5.*
+2. **O "gambling contest" de Yi Tian Mountain** (caps. 959-971) — cem dias de guerra de cerco
+   travada exclusivamente por mortais dentro de uma zona onde imortais não pisam, enquanto
+   dezenas de imortais apostam de fora e os peões descobrem que são peças. *Rank 3 a 5.*
+3. **Hei Fan grotto-heaven e a Immortal Succession Mountain** (caps. 1114-1133) — um mundo
+   fechado com nove imortais ingênuos, uma montanha de dez provas cujo sino anuncia seu
+   progresso ao mundo inteiro, e uma prova final que é **uma eleição com prazo de três anos**.
+   Campanha inteira de intriga. *Rank 6 a 7.*
+4. **Chaos in Northern Plains** (caps. 1100-1110, 1169-1182) — uma super força cai e uma região
+   inteira se joga sobre seus territórios ao mesmo tempo; sandbox com dezenas de cenas
+   paralelas e uma tabela pronta de lugares a saquear. *Rank 6 (ou mortais, como vítimas).*
+5. **Refinement Path Convention** (caps. 828-859) — o maior evento institucional do mundo,
+   aberto a qualquer um, com trégua universal, rodadas, duelos com aposta e mercado cinza de
+   enunciados. Roda inteiro sem uma única luta. *Qualquer rank mortal.*
+6. **A armadilha de Yi Tian Mountain (fase imortal)** (caps. 967-971) — a elite imortal de uma
+   região inteira presa num selo enquanto tribulações caem sobre todos, com inimigos mortais
+   obrigados a cooperar. O "incidente" propriamente dito. *Rank 6 a 7.*
+7. **Campanha de invasão de Yu Lu blessed land** (caps. 888-922) — masmorra em quatro camadas
+   de battlefield killer moves, cada uma com uma regra distinta, atacada em levas com trinta
+   dias de intervalo; o recurso escasso é perícia, não força. *Rank 6.*
+8. **Calamidades e tribulações** (caps. 824-826, 1053-1057, 1007) — o desastre mais frequente
+   do mundo, com calendário fixo por rank, ondas de criaturas temáticas e regras de contenção;
+   cenário fechado com relógio. *Qualquer rank, como equipe contratada de um imortal.*
+9. **Defesa de Lang Ya blessed land** (caps. 872-887) — cofre sem dono assediado em ondas,
+   labirinto de névoa com doze núcleos, tropa de apoio inútil em combate e uma formação de
+   batalha antiga como trunfo; missão de mercenário do tipo "segure trinta minutos". *Rank 6 a 7
+   (ou mortais, como população do mundo interno).*
+10. **Blood Plain Martial Competition** (caps. 1190-1197) — torneio de campeões que substitui
+    uma guerra regional, com regras escritas, despojos legais e fama como motor. *Rank 6.*
+11. **Expedição ao Earth Trench** (caps. 927-938) — masmorra vertical infinita cuja
+    profundidade é o próprio dial de dificuldade, com escolta mais forte que o grupo e agenda
+    própria. *Rank 6 (mortais na faixa rasa).*
+12. **As dez grandes áreas ferozes** (caps. 781, 1085-1091, 1173-1176) — a resposta canônica
+    para "onde um grupo fraco vai buscar fortuna num mundo já repartido"; inclui Crazed Demon
+    Cave, com nove camadas e uma cidade de almas vingativas. *Rank 4 em diante, por camada.*
+13. **Queda de Sacred Feather City e o êxodo dos feathermen** (caps. 864-871) — cerco de três
+    dias a uma cidade voadora e uma fuga coletiva que faz um povo inteiro **chegar ao destino
+    classificado como calamidade**. Dois lados jogáveis. *Rank 4 a 6.*
+14. **Marés de bestas** (caps. 1034-1036 e outros) — o cerco de aldeia clássico, com defesa em
+    três camadas e uma pista embutida: **maré natural é de uma espécie só**. *Rank 1 a 5.*
+15. **Earth tide e a travessia das paredes regionais** (caps. 818-819) — a janela anual de
+    viagem entre regiões, com rotas mapeadas que valem fortunas e expiram. *Rank 6.*
+16. **Cerco de Luo Po valley e a herança de Thieving Heaven** (caps. 886-923, 952, 990-992) —
+    o campo de batalha esfriando: um vale arruinado, formações semiquebradas, saqueadores e um
+    segredo que só abre com o item certo. *Rank 6 a 7.*
+17. **Disputa pela herança de wisdom path em Tai Qiu e saque de Jade Pool** (caps. 781-806) —
+    rota mortal atravessando uma área feroz com vinte e tantos imortais esperando na saída, e
+    depois o saque aberto de uma sede de super força. *Rank 4 a 5.*
+18. **O espólio de um Gu Immortal morto** (caps. 812-815, 897, 1184) — gerador infinito de
+    aventura: o land spirit nasce da obsessão do morto e cobra o preço dela. *Qualquer rank.*
+19. **Disputa pelo Ascending Heaven Plain** (caps. 908, 985-986) — impasse entre três super
+    forças que vira janela para todos os pequenos. *Rank 6.*
+20. **Aberturas do Treasure Yellow Heaven** (caps. 1032-1033, 1104) — mercado onde toda
+    transação acende publicamente uma coluna de luz proporcional ao valor; campanha inteira de
+    comércio e intriga sem combate. *Qualquer rank imortal.*
+21. **A ascensão imortal na northern icy plain** (caps. 1053-1057, 1166-1169) — sítio de
+    peregrinação onde a ascensão dá orientação de um Venerável em vez da vontade do céu, e onde
+    mestres generosos cultivam discípulos como safra. *Rank 5 virando 6.*
+22. **A Aliança das Quatro Raças** (caps. 1145-1146) — jogar os povos de segunda classe de um
+    mundo que os despreza, com rito de fundação e hierarquia por poder militar. *Rank 5 a 7.*
+23. **Turbulent flow sea area** (caps. 1150-1159) — zona marítima de correntes feitas de
+    materiais de todo o mundo, com bolhas contendo mundos inteiros e uma rede social de
+    exploradores. *Rank 6.*
+24. **Sucessão do rei dos feathermen** (cap. 864) — torneio de arena curto e autocontido, com
+    endosso popular por reputação antes do combate; uma sessão inteira sem nenhum imortal.
+    *Rank 4 a 5.*
+25. **O refino público do fortune rivalling heaven Gu** (cap. 1145) — sete dias e sete noites
+    de luz subindo ao céu enquanto uma região inteira prende a respiração; serve para ensinar
+    escala e para abrir uma janela em que todos os poderosos estão distraídos. *Qualquer rank.*
+26. **O ritual da Infallible blessed land** (caps. 843-847) — nota de mestre: a explicação
+    secreta de por que o maior torneio do mundo é tão generoso. *Só mestre.*
+
+**Observação sobre os "Eventos históricos citados":** nenhum deles merece nota própria, mas
+todos merecem virar **caixas de contexto** dentro das notas dos eventos e lugares
+correspondentes — são o que explica por que o mundo atual tem a forma que tem (por que há um
+artefato enterrado sob uma montanha, por que uma planície inteira é sagrada para um path, por
+que as formações de batalha antigas são melhores e mais difíceis que a tecnologia atual).

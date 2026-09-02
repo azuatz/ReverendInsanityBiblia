@@ -884,13 +884,12 @@ air bubble sea, e usar isso como pretexto de apresentação.
 - **Natureza e escala:** "This alliance has existed since long ago… it appeared in the **Medieval
   Antiquity Era, three hundred thousand years ago**. Now, it is a super force which is spread
   throughout the five regions; its **main headquarters is in eastern sea**, with a branch in each
-  of the other four regions" (cap. 636/V4 l. 636 — cap. 653 aprox.). "Zombie Alliance's branches
+  of the other four regions" (**cap. 653**, V4 l. 636). "Zombie Alliance's branches
   were weaker than the respective region's super forces. **But the headquarters at eastern sea was
   a level stronger than the native super forces**."
 - **Estatura local:** "Eastern Sea Zombie Alliance was the main headquarters… it was a **colossal
   force, a level stronger than even super forces**, and could even be called an **overlord of the
-  Eastern Sea cultivation world**" (cap. 918, l. 45337). "it had **three Immortal Gu Houses**!"
-  (cap. 902, l. 27741).
+  Eastern Sea cultivation world**" (cap. 918, l. 45337). "it was a **ruler of the region**, it was a **senior among the super forces**. For instance, **it had three Immortal Gu Houses**!" (cap. 818, l. 27741).
 - **Território:** a **yellow spring sea area** (mar da fonte amarela) — água amarela por natureza;
   no fundo, corais apodrecidos cinza-esbranquiçados de cheiro intenso e algas pálidas "like nooses
   used to hang people"; peixes-zumbi, lulas-zumbi, medusas e tartarugas-zumbi brigando entre si; e
@@ -911,7 +910,7 @@ air bubble sea, e usar isso como pretexto de apresentação.
   offer part of your blessed land by providing **large amounts of rewards**."
 - **Recrutamento e casta interna:** recruta abertamente **imortais vivos**, mas "these living Gu
   Immortals had **lower statuses** than immortal zombies in most cases" e "**Living Gu Immortals
-  cannot become higher-ups of Zombie Alliance**" (caps. 902, 907). Entrar é fácil se um membro de
+  cannot become higher-ups of Zombie Alliance**" (caps. 902 e 907 — a formulação sobre status inferior está em cap. 902, V4 l. 27733, e a regra sobre altos escalões em cap. 907, l. 43050). Entrar é fácil se um membro de
   status apadrinha: a inspeção vira formalidade (cap. 907, l. 43048). O novato sai com **um token
   de identidade** e **Gu mortais de caminho da informação** para trocar mensagens com a Aliança
   (cap. 906, l. 43038).

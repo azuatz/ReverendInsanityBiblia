@@ -14,7 +14,7 @@ aliases:
   - Earth Trench
   - Os Nove Céus
 status: consolidado
-fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
+fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1155", "cap. 1301", "cap. 1400", "cap. 1408", "cap. 1531", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2001", "cap. 2140", "cap. 2145", "cap. 2170", "cap. 2277", "cap. 2278", "cap. 2192"]
 conhecimento: segredo
 ---
 
@@ -136,11 +136,46 @@ Uma nota estrutural elegante: **todo mundo privado de um imortal possui um aflue
 
 `conhecimento: especializado`
 
-A formulação in-universe é direta: **céu, terra e humanos, todos têm veias**. São três sistemas circulatórios do mundo:
+A formulação in-universe é direta e repetida: **céu, terra e humanos, todos têm veias** — o céu tem veias de céu, a terra tem veias de terra, os humanos têm veias humanas. E a lista não é fechada: a obra estende o conceito a "veia de fogo", "veia de água" e outras, o que revela que **"veia" é uma categoria genérica**, não um trio. Onde quer que uma grande força do mundo se concentre e circule, o mundo a organiza numa veia.
 
-- **Veias de terra** — uma por região. Eram elas que sustentavam as paredes regionais, porque cada veia dava à sua região uma energia ambiente de sabor próprio.
-- **Veias de céu** — ligadas aos dois céus remanescentes. Os mundos privados de mais alto nível foram instalados **sobre** veias de céu, o que os torna extraordinariamente ricos em tempos normais e os primeiros a sofrer quando essas veias se movem.
-- **Veias humanas** — ligadas à vontade coletiva da humanidade. Quando as veias humanas das cinco regiões se interligam, a vontade coletiva do mundo inteiro vira um reservatório único — e, portanto, um recurso tático explorável.
+Esta é, provavelmente, a chave técnica mais reaproveitável do domínio inteiro, porque explica de uma vez: por que as regiões estavam separadas, por que certos lugares produzem gênios, por que certas propriedades imortais são ricas, e por que a paisagem muda sozinha de tempos em tempos.
+
+### Veias de terra
+
+**São "a essência da terra"**, e correm bem abaixo do solo. Cinco coisas que fazem:
+
+1. **Sustentam as paredes regionais.** Cada região tem a sua, e cada uma dá àquela região uma energia ambiente de sabor próprio; a diferença entre duas vizinhas é a parede. Ver [[04 - As Cinco Regiões|As Cinco Regiões]].
+2. **Remodelam a superfície periodicamente.** Uma cratera do Deserto Ocidental é ligada diretamente à veia: **a cada cem anos o magma jorra da veia de terra**, enche a cratera inteira, transborda e altera o terreno em volta.
+3. **Acumulam o que a humanidade sente.** Ódio, raiva e rancor acumulados numa região **decantam nas veias de terra dela** — e podem gerar criaturas. A obra registra uma fera desolada imemorial "criada a partir de ódio, raiva e rancores sem fim, todas essas emoções negativas nas veias de terra do Continente Central". Pior: o texto avisa que ela **voltaria a se formar a partir de veias de terra novas**. Ver [[18 - O Selvagem, as Ruínas e as Zonas Proibidas#4.1 O ressentimento é uma substância]].
+4. **Servem de fundação para construções mágicas de escala continental**, e criaturas colossais podem se ligar fisicamente a elas para extrair nutrientes.
+5. **Elas rangem antes da Grande Era, e o rangido é o alarme do mundo.** O prenúncio da unificação é literalmente o tremor das veias de terra: elas se fundem, as paredes somem, as cinco regiões viram uma.
+
+> [!info] Por que a Fronteira Sul treme primeiro
+> Não é acaso, e a obra explica: **a Fronteira Sul tem a maior concentração de marcas de dao do caminho da terra das cinco regiões**, e por isso a veia de terra dela é a mais profunda de todas. Consequência: ela é a primeira a tremer, a mais devastada — montanhas desabando, rios entupidos, crateras soterradas — **e a mais recompensada**, porque uma veia mais rica expõe mais tesouro quando se abre. O Mar Oriental é o extremo oposto: o menos afetado e o que menos ganha.
+>
+> Guarde a regra: **quanto mais fundo o passado de cultivo de uma região, mais violenta a sua Grande Era e maior o seu prêmio.**
+
+### Veias de céu
+
+São **sem forma**, mas carregadas de marcas de dao do caminho do céu — e essas marcas **circulam e se transformam continuamente**, o que faz das veias de céu um sistema vivo em vez de um encanamento fixo.
+
+O que importa na prática são os **nós** — os pontos onde a veia se concentra:
+
+- **Um mundo privado instalado sobre um nó de veia de céu é nutrido por ela e produz mais recursos.** É por isso que as propriedades dos cultivadores mais poderosos do mundo são extraordinariamente ricas: não é só o dono que é forte, é o **endereço**.
+- **E o maior nó de veia de céu do mundo inteiro é o Sol.** A obra é literal: o Sol existe desde a era imemorial, tem poder vasto e sem limites, e é o **maior nó de veia de céu do mundo** — além de ser o maior nó de veia de luz e de veia de fogo dos dois céus. Isso costura a cosmologia com o céu ordinário de um jeito muito elegante: a mesma bola de luz que faz o dia dos camponeses é, tecnicamente, **a maior instalação energética do universo**. Ver [[#Sim, existe um sol — e os céus são filtros]].
+- **Nó tem contraindicação.** Quando as veias de céu começam a se fundir na Grande Era — o que acontece mais discretamente do que a fusão das veias de terra, a ponto de "ainda não ser muito aparente" —, os mundos privados assentados sobre nós começam a produzir um fruto anômalo que é tratado como calamidade. E a solução discutida é a mais reveladora possível: **mudar o mundo privado de lugar**, para longe do nó. Ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+- **Destruir um nó é um ato de guerra de escala máxima.** Um Venerável destruiu o Sol e outros nós do céu branco de propósito, acelerando o colapso daquele céu e a fusão dele com o outro.
+
+> [!note] Para o design
+> "O endereço vale mais que o dono" é uma das ideias mais jogáveis do cenário. Uma propriedade imortal medíocre sobre um nó de veia de céu rende mais que uma propriedade excelente em terreno morto — o que transforma **imóvel místico** numa classe de ativo disputada, com corretagem, fraude, prospecção e despejo. E o fato de um mundo privado poder ser **mudado de lugar** dá à mesa uma jogada que parece impossível e não é.
+
+### Veias humanas
+
+As mais estranhas e as mais fáceis de usar numa mesa. Elas se formam **onde os seres humanos se aglomeram continuamente**, e explicam uma coisa que qualquer jogador já observou em algum cenário sem receber explicação: **por que certos lugares produzem gênios em excesso**. A obra é direta — um lugar "produz talentos humanos por causa da veia humana principal do Continente Central".
+
+E há um detalhe que vale ouro para um mestre: a maior cidade mortal do mundo é um dos nós principais de veia humana da região, e a obra observa que, ao longo de eras de mudanças e reconstruções, **a cidade sempre acabou voltando a se assentar sobre o traçado da veia**. A cidade não fica onde está por decisão política. Ela é atraída.
+
+Por fim, o uso estratégico: quando as veias humanas das cinco regiões se interligam, a vontade coletiva do mundo inteiro vira um reservatório único — e, portanto, um recurso tático explorável.
 
 ## Marés de qi
 

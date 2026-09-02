@@ -47,7 +47,7 @@ Sobre o "mundo subterrâneo" (underground world) citado explicitamente no Contin
 Central: o termo aparece ligado ao Earth Abyss (ver tópico 5), uma imensa região
 subterrânea na parte oeste do Continente Central.
 
-- Cap. ~635 (Vol. 4, linha 12693): "she was not unfamiliar with Central Continent,
+- Cap. 728 (Vol. 4, linha 12693): "she was not unfamiliar with Central Continent,
   and knew that this Earth Abyss was located in the far west of Central Continent,
   and was an incomparably large underground world."
 - Mesmo trecho (linha 12695): "Earth Abyss was divided into tens of layers with every
@@ -173,7 +173,7 @@ nascente, como uma fonte de recurso renovável.
   sea. The spirit spring produced primeval qi—because the qi was too rich in here, it
   caused the pressure." — a nascente primeiro produz "primeval qi/essence"
   (energia), que se condensa/cristaliza em pedras.
-- Cap. ~1616 (Vol. 1, linha 25858): "Primeval stones were the crystallization of the
+- Cap. 163 (Vol. 1, linha 25858): "Primeval stones were the crystallization of the
   spirit spring" — confirma o mecanismo: a pedra é uma cristalização da energia da
   nascente, não um mineral extraído do solo.
 - Um clã inteiro depende disso como base econômica e territorial: Cap. 17 (Bai clan
@@ -200,7 +200,7 @@ Lotus (Gu de flor, rank 3 com rota de avanço até rank 6), que precisa consumir
 nascente espiritual natural inteira para ser refinado, e depois passa a produzir
 primeval stones sozinho, carregável dentro da abertura do Gu Master:
 
-- Cap. ~112 (Vol. 1, linha 25818): "The Heavenly Essence Treasure Lotus had a
+- Cap. 163 (Vol. 1, linha 25818): "The Heavenly Essence Treasure Lotus had a
   reputation as a portable spirit spring, because it could produce primeval stones."
 - Linha 30257: "Heavenly Essence Treasure Lotus was also called 'portable spirit
   spring' and its innate ability was to produce natural primeval essence. The primeval
@@ -406,7 +406,7 @@ uma facção regional diferente (no caso descrito, a Zombie Alliance do Northern
 
 - **Desmoronamento/colapso**: confirmado tanto no Earth Abyss (Cap. 728, citado acima
   — terremotos e colapsos regulares, mortes por pedras caindo e soterramento) quanto
-  em cavernas específicas: Cap. ~640 (Vol. 4, linha 12809): "Large amounts of stones
+  em cavernas específicas: Cap. 728 (Vol. 4, linha 12809): "Large amounts of stones
   fell down from above, even more dangerous were those sharp stalactites that could
   pierce through rank three defensive Gu if they struck." — mostra que estalactites
   desprendidas são uma ameaça física capaz de superar defesas mágicas de nível
@@ -574,7 +574,7 @@ a região mais rica em recursos naturais, com foco quase inteiramente em Gu Immo
 (o Vol. 5 tem 837 ocorrências do termo, o Vol. 6 tem 414 — é o cenário central de boa
 parte da segunda metade da obra).
 
-- Cap. ~1414 (Vol. 4, linha 27856): "Eastern Sea was the most abundant in resources.
+- Cap. 819 (Vol. 4, linha 27856): "Eastern Sea was the most abundant in resources.
   In the vast sea areas and deep seas, countless water creatures, sea beasts, minerals
   and precious stones were hidden."
 
@@ -657,3 +657,202 @@ tópico 13) do que como um espaço de navegação mortal cotidiana. O elemento m
 mais rico e reaproveitável para design de jogo é o sistema de undercurrents: rotas
 submarinas velozes, instáveis, mapeadas por item raro, usadas por caravanas de elite.
 
+## 10. Ilhas
+
+A obra não dá um número exato de ilhas do Eastern Sea, mas as descreve como
+numerosíssimas e organizadas em padrão territorial:
+
+- Cap. 1028 (Vol. 5, linha 1243): "The eastern area was a sea with countless islands,
+  like a huge chess board." — símile explícito de tabuleiro de xadrez, reforçando que
+  as ilhas funcionam como território geopolítico disputado por facções, não paisagem
+  decorativa.
+
+**Tamanho e variedade**: vão de ilhas minúsculas e pobres, com uma única vila de
+pescadores, a ilhas maiores com múltiplos assentamentos e recursos:
+- Cap. 894 (Vol. 4, linha 40809): "There were three fishing villages on the island,
+  the strongest cultivator was only rank three." — uma ilha média com três vilas.
+- Cap. 1653 (Vol. 5, linha 115161-115252): "a nameless island... The island was
+  surrounded by vast blue seawater, extending to the horizons... The island was small
+  but it contained a lot of cultivation resources." — mostra que tamanho físico não
+  determina valor: ilhas pequenas podem ser ricas.
+- Cap. 1654 (linha 115576): "the unnamed island was poor and had treacherous waters.
+  Firstly, the island was small, and secondly, there was Earth Trench black oil here.
+  Because of the black oil, the resources of other cultivation paths were suppressed,
+  nothing else could exist here." — uma ilha pode ser definida inteiramente por um
+  único recurso.
+
+**Quem mora nelas / vilas de pescadores (fishing village)**: majoritariamente mortais
+comuns, com poucos Gu Masters de baixo rank, vivendo de pesca e coleta de recursos
+locais (como o "black oil" — óleo negro extraído do mar, distinto e ao mesmo tempo
+associado ao mesmo fenômeno do Earth Trench, ver abaixo):
+- Cap. 1653 (linha 115431-115439): "this island that the Merit Obelisk transported him
+  to was very common and ordinary. There were few resources on the island, there was a
+  small fishing village with some people living there. There was a fishing village, a
+  spirit spring existed as well, of course. Gu Masters existed here too, but in such a
+  poor and desolate place, a rank four Gu Master was the utmost limit... it did not
+  have many people living in it, there were only five or six Gu Masters, the highest
+  cultivation was a rank three Gu Master." — confirma que MESMO ilhas remotas e pobres
+  têm sua própria nascente espiritual local (spirit spring), reforçando o padrão do
+  tópico 4 (toda comunidade tem uma).
+- Cap. 1654 (linha 115521): "People lived according to their environment, the Gu
+  Masters on the small island survived mainly by collecting black oil... he would
+  still enter the water and collect them each year." — economia local de ilha =
+  mergulho artesanal para coleta de recurso.
+- Vol. 6, linha 30379: "There were many fishing villages in Eastern Sea's islands." —
+  confirmado como padrão comum, não caso isolado.
+- Vilas de pescadores também aparecem em contexto de folclore in-universe: uma lenda
+  local (Vol. 5, linha 117560-117582) narra a origem mítica dos mermen defendendo uma
+  vila de pescadores de uma fera marinha através de súplica a um "Sea God" (Deus do
+  Mar) — mostra que a cultura popular do Eastern Sea tem sua própria mitologia sobre
+  monstros marinhos e um deus do mar associado a canto/música.
+
+**Como se viaja entre ilhas**: a obra não descreve infraestrutura mortal de travessia
+entre ilhas (nenhum "ferry inter-ilhas" ou frota de pesca regular é detalhada);
+mortais aparentemente ficam presos às suas ilhas — os únicos personagens vistos se
+deslocando entre ilhas são Gu Immortals ou Gu Masters de rank alto usando voo ou
+Immortal Gu Houses (ver tópico 12). `(ded.)` Isso sugere isolamento social real das
+comunidades de ilha: um mortal comum provavelmente nunca sai de sua ilha natal, o que
+é coerente com o padrão observado em terra (clãs presos à sua montanha/nascente,
+tópicos 1-4).
+
+## 11. Mergulho e o fundo do mar
+
+**Quem desce**: tanto mortais/Gu Masters de baixo rank (mergulho artesanal de
+subsistência para coleta de recursos) quanto Gu Immortals poderosos (exploração de
+tesouros, batalhas, refúgio):
+- Cap. 1652 (Vol. 5, linha 115388): "this seventh mission was to collect Earth Trench
+  black oil from the deep sea, it was something that only mortals would do." — frase
+  explícita e importante: coletar óleo negro no fundo do mar é trabalho de mortais,
+  não de Gu Immortals (que têm coisas "melhores" para fazer) — mergulho de
+  subsistência é atividade de classe baixa/mortal.
+- Cap. 1655 (linha 115769): "The deep sea had too much danger. On the surface, the sea
+  was calm, but under the sea, undercurrents surged, dangers lurked everywhere." —
+  contraste entre superfície calma e perigo abaixo, reforça o risco do mergulho.
+- Cap. 1656 (linha 115908): "The deep sea was complex, one could not shine light here
+  carelessly, or predators might be lured to oneself unknowingly." — regra prática de
+  mergulho perigoso: luz atrai predadores.
+
+**O que existe no fundo do mar**:
+- **Earth Trench submarino**: revelação notável — o fenômeno do Earth Trench (tópico
+  5) também existe DEBAIXO DO MAR, não só em terra firme. Cap. 1653 (linha 115495-
+  115499): "This Earth Trench under the water was very spectacular, the ordinary
+  island was at the fringe of this Earth Trench. From the information he got from the
+  old village head, the surrounding islands were also connected to the extensions of
+  this Earth Trench." / "Regardless of ordinary Earth Trenches or deep sea Earth
+  Trenches." — confirma que existem "deep sea Earth Trenches" como categoria
+  reconhecida, e que múltiplas ilhas vizinhas podem estar todas ligadas às extensões
+  de um mesmo Earth Trench submarino.
+- **Óleo negro (black oil / oil water)**: recurso central da economia de mergulho no
+  Eastern Sea — Cap. 797 (Vol. 4, linha 24150): "Oil water was naturally not regular
+  water, but a resource found in the depths of deep seas. It was a Gu refinement
+  material and was extremely common in Eastern Sea. In Northern Plains and Western
+  Desert, however, it was rather rare." `(ded.)` Isso sugere que o "black oil" do
+  Earth Trench terrestre do Northern Plains (tópico 5) e o "black oil"/"oil water" do
+  fundo do Eastern Sea são a mesma substância ou substâncias-irmãs associadas ao
+  fenômeno geológico do Earth Trench, apenas em dois ambientes (seco e submerso) — a
+  obra não afirma isso de forma explícita como identidade total, mas os dois usam o
+  mesmo nome ("black oil") e a mesma lógica de extração de dentro de um Earth Trench.
+- **Vulcões submarinos (underwater volcano)**: citado como parte de uma lenda
+  in-universe (Biography of Li Xiao Yao, Vol. 4, linha 41086) e como evento de
+  batalha real (Vol. 4, linha 41074: "The seabed shook, torrents rose. The
+  underwater volcano's top part was destroyed"). Um deles abriga um refúgio secreto
+  no seu topo interno.
+- **Corais decompostos e organismos do fundo**: descrição atmosférica de fundo do mar
+  degradado/perigoso — Vol. 4, linha 42969: "In the seabed lived grayish white
+  decomposed corals which gave off intense stenches that pervaded the surrounding
+  seawater. Strands of seaweed, drifting with the water flow, were deathly pale, like
+  nooses used to hang people."
+- **Plantas exclusivas de mar profundo**: "light shine fungi" (fungo brilhante), que só
+  sobrevive no escuro absoluto do mar profundo sob altíssima pressão de água: Vol. 5,
+  linha 84258: "this desolate plant was most suited to live in the completely dark
+  deep sea. There was immense water pressure at that depth as well."
+- **Feras de fundo do mar**: "diamond head turtle" vive no fundo do mar e nada
+  rapidamente (Vol. 5, linha 134690); "deepsea lightning eels", capturáveis só por Gu
+  Immortals dispostos a mergulhar em território controlado pela Eastern Sea Zombie
+  Alliance (Vol. 4, linha 4710).
+
+## 12. Quem navega e quem voa
+
+- **Mortais comuns dependem inteiramente de embarcação/mergulho manual** — não há
+  nenhuma cena de mortal comum voando; o deslocamento marítimo de mortais é sempre
+  físico: jangada (tópico 8, rio), mergulho a pulmão/artesanal (tópico 11), ou (por
+  dedução, já que a obra não mostra isso em detalhe) embarcações pesqueiras simples nas
+  vilas de pescadores das ilhas — a obra nunca descreve o barco de pesca em si com
+  detalhe técnico, apenas menciona a existência das vilas e da atividade de pesca.
+- **Gu Masters e Gu Immortals voam** ou usam Immortal Gu Houses (casas-fortaleza
+  móveis com formato de embarcação, ver tópico 9) para atravessar o mar livremente,
+  inclusive por cima da água: Vol. 6, linha 50138: "he felt that a huge sun had flown
+  above his head, across the sea area." Vol. 5, linha 115465: "Even though he could
+  see a small island in the horizon, no matter how he flew, the distance did not
+  shorten" — mostra que voo sobre o mar é padrão para Gu Immortals, mas ilusões e
+  formações espaciais podem enganar até quem voa.
+- Confirmação da assimetria mortal x imortal na travessia do mar em si: Vol. 5, linha
+  115491: "For Gu Masters, the sea was very deep, but for Gu Immortals, the water
+  surrounding the island was still very shallow." — frase que resume bem a hierarquia:
+  a mesma extensão de mar é um obstáculo profundo/perigoso para um Gu Master
+  (equivalente a um humano comum de nível médio de poder) e superficial/trivial para um
+  Gu Immortal.
+- `(ded.)` Como consequência lógica dos pontos acima: um mortal comum atravessa
+  distância marítima OU por embarcação de pesca simples entre pontos próximos (não
+  detalhado tecnicamente na obra) OU não atravessa de forma alguma, ficando restrito à
+  sua ilha/vila — a obra não mostra nenhum mortal comum fazendo travessia
+  transoceânica longa por conta própria; toda travessia de longa distância no Eastern
+  Sea que aparece na obra é feita por Gu Masters ou Gu Immortals com poderes ou
+  embarcações mágicas.
+
+## 13. Fauna marinha usada como transporte ou infraestrutura
+
+**Storey building water elephants** (elefantes-de-água-com-andares) — a fera mais
+detalhada da pesquisa como "infraestrutura viva":
+- Cap. 1228 (Vol. 5, linha 53406-53408): "Storey building water elephants were a
+  special type of beast in Eastern Sea, they had varying sizes, with white tusks and
+  blue skin. Water elephants with one storey buildings were like boats and had blue
+  jade exoskeleton on their backs resembling buildings. Two storey building water
+  elephants were larger, with two floors of blue jade exoskeleton on their backs...
+  six storey building water elephants had wide backs and were like huge boats, they
+  were desolate beasts. Seven storey building water elephants were ancient desolate
+  beasts, and eight storey building water elephants were immemorial desolate beasts,
+  they were extremely rare. Nine storey building water elephants did not exist." —
+  ou seja, é uma escala de poder/raridade codificada literalmente no número de
+  "andares" de exoesqueleto de jade que crescem nas costas do animal, e a criatura
+  funciona explicitamente como embarcação viva ("like boats", "like huge boats").
+  São negociadas como mercadoria de troca de altíssimo valor entre Gu Immortals (a
+  cena mostra uma troco de "desolate plant light shine fungi" por três delas).
+- Cap. 1377 (Vol. 5, linha 68990-69018): usadas também como criaturas de defesa
+  reproduzíveis/condensáveis por uma Immortal Gu House chamada "Bay Pavilion" — a casa
+  gera cópias mágicas do bicho como método defensivo, não o animal real.
+
+**Merman Imperial Court** (Corte Imperial dos Homens-Peixe) — não é bem "fauna usada
+como transporte", mas é a principal raça variante marinha e força geopolítica do
+Eastern Sea, mencionada 241 vezes no Vol. 5 e 91 no Vol. 6:
+- Vol. 6, linha 2170: "the merman race received the help of Paradise Earth Immortal
+  Venerable back then, that is why you could live like this until now. In the entire
+  five regions, only you are still a super force among the variant humans." — igual a
+  rockmen (tópico 2), mermen são "variant humans" (humanos variantes), mas
+  organizados em uma corte/nação reconhecida como "super força" — muito mais poderosos
+  politicamente do que os rockmen escravizados vistos em terra.
+- Território: Vol. 6, linha 3053: fica fisicamente encravado entre clãs humanos do
+  Eastern Sea ("Xia clan was situated at the eastern most area of Eastern Sea, towards
+  their west was the Merman Imperial Court").
+
+**Tubarões (shark)**: usados amplamente como fauna selvagem perigosa e território de
+uma entidade poderosa chamada "Shark Demon" — Cap. 892 (Vol. 4, linha 40533): "Everything inside
+the sea area, countless types of sharks, seaweed and aquatic plants, the rocks on the
+seabed, the huge amount of sea water, all of them were Shark Demon's possession." —
+Shark Demon controla uma área do mar inteira como domínio pessoal (parecido com um Gu
+Immortal territorial). Também há "seashell sharks" alimentados deliberadamente com
+óleo negro por Gu Masters de vila de pescadores como método de defesa/gestão de
+recursos (Vol. 5, linha 115833).
+
+**Baleias (whale)**: aparecem majoritariamente em nomes próprios de Immortal Gu House
+("Whale Fishing Boat", tópico 9) e comparações — não encontrei uma baleia real
+descrita como criatura viva de transporte com o mesmo detalhe do water elephant;
+"Whale Fishing Boat" parece ser uma embarcação mágica com formato/tema de baleia, não
+uma baleia literal domesticada. `(ded.)` Trato "Whale Fishing Boat" como um Immortal
+Gu House temático, não como confirmação de baleias reais sendo usadas como montaria —
+não encontrei descrição física da baleia em si na obra que confirme o contrário.
+
+---
+
+*Pesquisa encerrada aqui — 13 tópicos cobertos com evidência textual e capítulos
+citados. Ver seção final de observações gerais abaixo.*

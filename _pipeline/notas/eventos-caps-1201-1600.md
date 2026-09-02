@@ -47,14 +47,15 @@ pode reaproveitar como formatos de cenário:
 - **Onde:** parte de Central Continent, atravessa a **heavenly wind qi wall** (parede de qi que separa
   as cinco regiões do céu imemorial), cruza o **immemorial black heaven** e desce em Northern Plains,
   terminando na **Snowy Mountain blessed land** (cap. 1241, 1252).
-- **Gatilho / causa mecânica:** o rank 8 número um de Northern Plains (nome omitido de propósito: aqui ele é *o dono da montanha*) está
-  refinando abertamente o **Fortune Rivalling Heaven Gu** (Gu Imortal rank 8 de luck path, com
-  "poder quase-rank 9"), usando um rapaz de sorte extrema como material vivo (cap. 1234). O brilho
-  da formação de refino subiu ao céu por sete dias e sete noites e foi visto por toda a região —
-  ou seja, **o gatilho é público e visível**, qualquer um pode reagir a ele (cap. 1144). Duke Long,
-  de Heavenly Court, dá a ordem para reunir Gu Imortais de elite das **dez grandes seitas antigas**
-  de Central Continent e ir tomar o Gu (cap. 1234). Motivo estratégico: Heavenly Court controla
-  *fate* (destino = certeza), mas depois de Giant Sun Immortal Venerable existe *luck* (sorte =
+- **Gatilho / causa mecânica:** o rank 8 número um de Northern Plains — aqui tratado só por sua
+  função, *o dono da montanha* — está refinando abertamente o **Fortune Rivalling Heaven Gu**
+  (Gu Imortal rank 8 de luck path, com "poder quase-rank 9"), usando um rapaz de sorte extrema como
+  material vivo (cap. 1234). O brilho da formação de refino subiu ao céu por **sete dias e sete
+  noites** e foi visto por toda a região — ou seja, **o gatilho é público e visível**, qualquer um
+  pode reagir a ele (cap. 1145 — fora da faixa, registrado como antecedente). O regente de fato de
+  Heavenly Court dá então a ordem para reunir Gu Imortais de elite das **dez grandes seitas
+  antigas** de Central Continent e ir tomar o Gu (cap. 1234). Motivo estratégico: Heavenly Court
+  controla *fate* (destino = certeza), mas depois de Giant Sun Immortal Venerable existe *luck* (sorte =
   incerteza); sem dominar luck path, consertar o Fate Gu não devolve a supremacia (cap. 1234).
 - **Periodicidade:** único, mas o *formato* é reutilizável: sempre que um refino de Gu Imortal de
   rank alto vaza, vira corrida entre facções.

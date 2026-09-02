@@ -229,3 +229,179 @@ tem nenhum** (cap. 1982). O Leste não é fraco — é multipolar.
 - **Água oleosa / óleo negro:** havia toda uma profissão de "oil collecting Gu Master" no
   Leste, com método de coleta transmitido dentro de linhagem (**cap. 1653**, V5 l. 115519).
 
+### 2.7 A maré terrestre (earth tide) — o relógio político da região
+
+**cap. 818** (V4 l. 27831–27839) e **cap. 928** (l. 47285–47289):
+> "The force from the earth would move up, stirring the seawater, causing the earth tide. The
+> power of the earth tide was great, it could easily whip up giant tsunamis. **The earth tide
+> would collide on the regional walls, causing them to weaken.**"
+> "…every year during the earth tides, **many Gu Immortals from other regions would enter
+> Eastern Sea**."
+
+Detalhes operacionais (cap. 819, l. 27870–27886):
+- A muralha regional afina, mas na área afinada ficam "endless tidal forces… like countless
+  reefs and vortexes" — **atravessar exige um mapa de rota preciso**.
+- "if one is just the slightest bit careless and struck by the formless tidal forces,
+  fractured bones would be the least of their problems, it is very possible for them to **die
+  a violent death on the spot**."
+- **As rotas expiram:** "The routes are not fixed in place, after some earth tides, the
+  formless tidal forces would change greatly, and the old routes will lose their value."
+
+Ou seja: o Leste tem uma **porta que abre uma vez por ano**, e quem sabe atravessá-la tem um
+ativo perecível. É por isso que a região é a mais estrangeira das cinco.
+
+**Segredo institucional** (cap. 928, l. 47283–47293): a sede da Zombie Alliance no Leste tem
+uma formação de Gu que **fabrica uma maré terrestre artificial**, afinando um trecho da
+muralha por um curto período — capacidade que a obra não atribui a mais ninguém, e que
+economiza vidas de rank 7 e 8 numa saída de região.
+
+---
+
+## 3. Instituições da região (o que não é clã)
+
+### 3.1 Hai Shi blessed land — o mercado e a maior força de solitários
+
+Peça central e provavelmente a mais jogável da região. **cap. 673** (V4 l. 3578):
+> "Among the **five great trading markets in the world**, treasure yellow heaven is first and
+> **Hai Shi blessed land is second**. Hai Shi blessed land should have **missions** for saving
+> air bubble sea, you can then use this pretext to get in contact with the three clans."
+
+**cap. 683** (V4 l. 5266–5270), a caracterização institucional:
+> "Hai Shi blessed land was the **biggest lone cultivator force in eastern sea**. Gu
+> cultivators that joined Hai Shi blessed land were mostly lone cultivators, but this was
+> different from northern plains' Snowy Mountain blessed land. Snowy Mountain blessed land was
+> the base camp of demonic path cultivators, they were at odds with the righteous path forces.
+> But **Hai Shi blessed land mixed both demonic and righteous path members**, there were even
+> **more Gu Immortals here than in Snowy Mountain**, and there were **many different factions
+> which together controlled the largest market in eastern sea**. Precisely because of this,
+> Hai Shi blessed land became **the most popular spot for Gu Immortals to sell their loot**."
+
+Regra de admissão (cap. 683, l. 5264): "there are already Gu Immortals who have invited me to
+join Hai Shi blessed land. However, this matter can only be approved after **half of the
+elders in Hai Shi blessed land agree**." — governança por conselho de anciãos, com maioria
+simples. Não há líder único; a obra nunca nomeia um.
+
+O que se faz lá:
+- comprar e vender espólio, inclusive materiais imortais raros (underworld jellyfish,
+  deepsea lightning eels — "specialities of eastern sea", cap. 673);
+- pegar **missões pagas** (restaurar áreas de mar, cap. 819; salvar o air bubble sea, cap. 673);
+- ser recrutado: quem exibe um Gu Imortal útil (ali, os de cura temporal *Landscape as Before*
+  e *Man as Before*) é imediatamente cortejado (caps. 683, 750);
+- guardar um Gu Imortal rank 6 em depósito e trocá-lo por outro Gu Imortal (o *Rebuilding
+  Mount Dongshan*, rank 6 de caminho da terra, estava ali disponível para troca — **caps. 425,
+  545**, V3).
+
+> Isto é a mais próxima que a obra chega de uma **guilda de aventureiros**: mercado + quadro
+> de missões + conselho de anciãos + convivência forçada entre correto e demoníaco.
+
+### 3.2 As convenções privadas de troca
+
+**cap. 1154** (V5 l. 26656) — ver §2.6. Detalhe de acesso (mesma passagem): "Miao Ming Shen was
+a common guest in these private auctions. **With his approval**, Fang Yuan would be able to
+enter these events as well." — entra-se por **apadrinhamento**, não por dinheiro.
+
+### 3.3 A recepção de vinho de Zui Xian Weng
+
+**cap. 411** (V3 l. 909):
+> "Eastern Sea's rank seven Gu Immortal **Zui Xian Weng** has created a **sea of wine**,
+> concealing countless wines, and **holds a wine reception every year**."
+
+**cap. 1191** (V5 l. 33594): ele é o **137º herdeiro** da herança do *Wine Emperor*, um rank 8
+do caminho da comida cuja obra da vida foram os "três soberanos e cinco imperadores" — oito
+vinhos que, combinados, dariam o *liquor worm* Gu Imortal rank 8, capaz de converter essência
+imortal rank 8 em rank 9.
+**cap. 2104** (V6 l. 24196): "Zui Xian Weng had **many acquaintances, he had some sort of
+connection with most of the righteous path forces**" — um solitário que é nó diplomático.
+
+### 3.4 O círculo de Miao Ming Shen — o serviço que nenhum clã presta
+
+**cap. 1154** (V5 l. 26604–26620):
+- Miao Ming Shen, rank 7, **caminho do espaço**, tem um método para **expandir o espaço
+  interno da abertura imortal de terceiros**. Como o espaço interno é finito e limita quantos
+  recursos um imortal pode cultivar, "many Eastern Sea Gu Immortals, especially lone immortals,
+  sought his help".
+- Efeito político: "Miao Ming Shen had a huge network… **Even super forces refused to offend
+  him.** After all, they might need his help one day."
+- O círculo tem **quatro** membros: Miao Ming Shen (r7, o mais forte) e Gui Qi Ye (r7) como
+  núcleo, Immortal Hua Die e Feng Jiang (r6) como seguidores.
+- Projeto de longo prazo do grupo: vigiar a **turbulent flow sea area** em turnos, à procura de
+  um **afluente do Rio do Tempo**, e abordar todo imortal que se aproxime pedindo ajuda
+  (cap. 1154, l. 26670).
+
+### 3.5 A turbulent flow sea area — o dungeon público da região
+
+**cap. 1045** (V5 l. 4659–4667):
+> "The turbulent flow sea area was **like a maze**… According to rumors, [it] was a battlefield
+> formed after a **life and death battle between powerful Gu Immortal experts**. It was a bloody
+> battlefield where many Gu Immortal experts had fallen, **leaving behind many inheritances**.
+> Many Eastern Sea Gu Immortals as well as Gu Immortals of Central Continent, Northern Plains
+> and Southern Border would come… to search for fortuitous encounters."
+> "The turbulent flow sea area was **not dangerous**, but its special environment often caused
+> Gu Immortals to be **trapped and not be able to free themselves**" — sumiços de meses ou anos.
+
+**cap. 1150** (l. 25677): "The turbulent flow sea area's sky was covered in clouds and fog the
+entire time" — sem sol nem estrelas, sem orientação.
+**cap. 1103** (l. 15905): "it has a **collection of the world's currents** running through here,
+among them is a **tributary of the River of Time**. Thus, even though this is not a blessed
+land or grotto-heaven, it is a **rare place to store treasure in the five regions**."
+
+### 3.6 Ascending Heaven Plain — o recurso mais estratégico do Leste
+
+- É um **domínio recluso de céu e terra** (*secluded domain of heaven and earth*) registrado
+  em *As Lendas de Ren Zu*, saturado de **marcas do caminho do espaço** (cap. 986, l. 58785,
+  58829).
+- Por causa dessas marcas, **conecta-se aos nove céus imemoriais**: "**Even a mortal** could
+  enter the immemorial nine heavens through Ascending Heaven Plain" (cap. 986, l. 58831).
+  Normalmente é preciso furar a *heavenly wind qi wall*, façanha de imortal forte (cap. 751,
+  l. 16330).
+- Ficou **danificado** quando os filhos de Ren Zu destruíram vários céus imemoriais: as marcas
+  de espaço viraram "complex like interlinked spider webs, and they were **changing all the
+  time**"; "danger was lurking everywhere, it was full of **life threatening traps**"
+  (cap. 986, l. 58833–58837).
+- **A localização é segredo aberto** entre os imortais do Leste (cap. 899, l. 41776) — e já foi
+  vendida como informação verificada num leilão do Norte (caps. 751–752).
+- **Três super forças** o disputam há **cem anos**: clã Song, clã Cai e clã Ruo Lai (caps. 899,
+  985–988). "Song clan, Cai clan, and Ruo Lai clan were three super forces that treated
+  Ascending Heaven Plain as theirs" (cap. 986, l. 58929).
+- **A geografia exclui a Zombie Alliance**: "The geographical location of Ascending Heaven Plain
+  meant that Zombie Alliance could not intervene in it. There were many super forces in Eastern
+  Sea, but the ones who could influence this place only numbered to three" (cap. 985, l. 58766).
+  Mesmo um rank 8 forasteiro entende que interferir é ofender as três de uma vez (l. 58774).
+- **Retaliação conjunta:** quando solitários e demoníacos entraram em massa, "these lone
+  cultivators and demonic immortals were attacked by the **combined forces** of Song clan, Cai
+  clan, and Ruo Lai clan… **With the appearance of outsiders, the three clans collaborated
+  immediately**" (cap. 988, l. 59309).
+- **O prêmio:** a herança verdadeira de **Old Eccentric Tian Nan**, um dos **três** grão-mestres
+  supremos de refino de toda a história humana (com Old Immortal Kong Jue e Long Hair Ancestor
+  — caps. 598, 687, 844). Tian Nan tentou **refinar os céus imemoriais e as cinco regiões** para
+  transformá-los em abertura imortal externa própria, e morreu tentando (caps. 899, 2105).
+- Desfecho canônico da disputa: **o clã Song venceu e ficou com a herança** (cap. 2102,
+  l. 23779; cap. 1804: "Eastern Sea's several large forces divided Ascending Heaven Plain
+  between themselves").
+
+### 3.7 Yu Lu blessed land — a terra abençoada-masmorra da Zombie Alliance
+
+- Pertenceu a **Fairy Yu Lu**, a **segunda discípula** de Paradise Earth Immortal Venerable,
+  que cultivava **caminho da terra e da água** e era especialista em **defesa e cura**
+  (caps. 683, 746).
+- Está **no fundo do mar**, e sua **entrada estava destruída** — foi preciso um Gu Imortal de
+  cura temporal (*Landscape as Before*) para restaurá-la (caps. 683, 745).
+- É explorada **por rodadas encadeadas**: "there were many rounds in Yu Lu blessed land, each
+  round was interconnected with others and was very difficult to deal with" (cap. 818,
+  l. 27703).
+- **Monopólio:** "This Yu Lu blessed land was **firmly controlled by Eastern Sea Zombie
+  Alliance**, there were no other forces trying to compete for it, thus, they could explore it
+  **at their own pace and progress slowly**" (cap. 818, l. 27791).
+- **Modelo econômico:** a Aliança emite a exploração como **missão** com pontos de contribuição;
+  quem gasta uma Casa de Gu Imortal na tentativa **paga a perda em pontos** ao voltar
+  (cap. 818, l. 27797). Atacar não é força bruta, é "**balancing the gains and losses**"
+  (l. 27789).
+
+### 3.8 City Well — outro domínio recluso do Leste
+
+**caps. 1157–1158** (V5): *City Well* (Poço da Cidade), domínio recluso de céu e terra que
+aparece em *As Lendas de Ren Zu*, situado numa "bolha" com um mar e uma ilha dentro. Quem entra
+sem saber o que é fica preso no fundo do poço; **quem reconhece o lugar consegue sair** — como
+na lenda, o homem-mínimo saiu do poço no instante em que compreendeu a própria pequenez.
+Dentro dele há terras abençoadas de imortais solitários do Leste (cap. 1231, l. 41452).
+

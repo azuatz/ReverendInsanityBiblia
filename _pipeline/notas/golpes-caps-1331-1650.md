@@ -2,7 +2,7 @@
 tags:
   - pipeline/notas
   - golpes-assassinos
-status: em-andamento
+status: concluido
 fontes: ["caps. 1331-1650"]
 ---
 
@@ -37,6 +37,7 @@ quando rotula como "mortal killer move", `1–5 (mortal)`. Quando não rotula na
 | Soft Bone Music | 6–9 (imortal) | som (ded.) | — | Uma música que, ao atingir o alvo, amolece os ossos dele | Sozinha se dissipa antes de fazer efeito: precisa do golpe auxiliar Lingering Tune para se enrolar no alvo sem sumir; contra alvo poderoso demais o amolecimento não basta para detê-lo | 1429 |
 | Six Directional Maze | 6–9 (imortal) | terra (ded.) | — | Muros amarelos se erguem em todas as seis direções em volta do alvo (frente, atrás, laterais, acima e abaixo) | Os muros não têm poder ofensivo próprio; o golpe só se torna letal fundido com Descending Sand e Mud Piled Into a Wall | 1538 |
 | Shrink Time | — | tempo | — | Golpe auxiliar que encurta o tempo de ativação de outro golpe do caminho do tempo (usado para reduzir Time Cutting Edge a três respirações) | Só serve para golpes do próprio caminho do tempo: usar método de tempo para acelerar golpe de outro caminho faz o golpe falhar e provoca backlash | 1596 |
+| Penetrating Ice Blade | 6–9 (imortal) | gelo (ded.) | — | Uma lâmina de gelo carregada de energia de geada é arremessada contra o alvo | Escala mal contra alvos gigantes: contra uma fera imemorial a lâmina é como uma faquinha de fruta e não perfura a pele | 1429 |
 | Qi Luck Sensation | 6–9 (imortal), investigativo | sorte (ded.) | — | Permite sentir a localização de um alvo ao qual o usuário tenha previamente ligado sua sorte | Localiza só "até certo ponto" (direção aproximada); exige a ligação de sorte feita de antemão | 1530 |
 | Omnipresent Four Seas | — (chamado "o mais forte golpe do caminho do refino") | refino | — | Gasta água do mar em escala imensa para refinar Gu Imortais; usado em combate, força todos os inimigos à defensiva e impede que ataquem | Consumo visível: o nível do mar da terra abençoada cai enquanto o golpe dura; em combate só se sustenta por algumas dezenas de respirações; não distingue aliado de inimigo; para ser confinado a uma área precisa de uma formação imortal de refino correspondente; fora do refino de Gu rank 8 é caro demais para usar | 1580 |
 | Obtain Treasure Song | 6–9 (imortal) | som (ded.) | — | Canção morna e gentil, de aura pacífica, que acalma um Gu Imortal selvagem e permite refiná-lo diretamente | Ativado com força de rank oito na cena descrita | 1548 |

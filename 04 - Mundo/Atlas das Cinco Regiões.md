@@ -40,6 +40,16 @@ Cada região recebe sete blocos na mesma ordem — paisagem, clima e calendário
 >
 > **2. Alguns lugares circulam atribuídos à região errada.** Este atlas segue as correções verificadas no texto: *Longevity Heaven* fica nas **Planícies do Norte**, não no Continente Central; *Yi Tian Mountain*, *Jade Pot Mountain* e *Silent Hill* são da **Fronteira Sul**, não do Deserto Ocidental; *Sorrowful Wind Mountain Range* e *Hairy Foot Mountain* são do **Continente Central**.
 
+> [!info] Seis palavras que este atlas usa em toda página
+> Você não precisa ter lido nenhuma outra nota para usar as tabelas abaixo. O mínimo, na ordem em que aparece:
+>
+> - **[[Ranks e Avanço|Rank]]** — o degrau de poder de um cultivador, do 1 ao 9. Do rank 6 em diante ele é chamado de **imortal**. Quando este atlas diz "nem um rank 8 enfrenta", está dizendo "nem alguém a dois degraus do topo do mundo".
+> - **[[Dao Marks|Marcas de dao]]** (ou marcas de caminho) — o registro que o cultivo grava na realidade e nos corpos. São a matéria-prima do poder, e escorrem para o chão: onde muitas se acumulam, **o próprio terreno muda de comportamento**. É a explicação de metade dos lugares estranhos deste atlas.
+> - **[[Economia Imortal|Ponto de recurso]]** — um pedaço de território que **gera material de cultivo continuamente, sozinho, para sempre**. Não é um estoque que se gasta: é uma renda. É a unidade de riqueza deste mundo, e a razão de quase toda guerra.
+> - **[[Blessed Lands e Grotto-Heavens|Terra abençoada]]** (*blessed land*) — um mundo em miniatura, com céu, terra e fluxo de tempo próprios, que um cultivador imortal carrega **dentro de si** e onde mora. Tem alguns milhares de quilômetros quadrados e pode ser transportada.
+> - **[[Blessed Lands e Grotto-Heavens|Gruta-céu]]** (*grotto-heaven*) — a mesma coisa, um degrau acima: o estágio a que uma terra abençoada chega a partir do rank 8. Um continente inteiro dentro de uma pessoa.
+> - **[[Lugares Fora das Cinco Regiões|Domínio recluso de céu e terra]]** — um trecho do **mundo real** tão saturado das marcas de um único caminho de cultivo que passa a obedecer às leis daquele caminho em vez das leis normais. Não é propriedade de ninguém por natureza — mas alguns podem ser fisicamente arrancados do mapa e guardados dentro de uma abertura imortal, e é por isso que certos lugares importantes **não têm endereço fixo**.
+
 ## Quadro comparativo
 
 Cinco linhas para se orientar antes de descer ao detalhe.
@@ -78,7 +88,7 @@ O sul é **a região úmida do mundo**: em oposição direta aos ventos secos do
 O que o sul tem, em vez de estações, são **três relógios**:
 
 1. **A maré de bestas** (*beast tide*), o grande fenômeno cíclico da região: uma guerra periódica por recursos entre humanos e feras. A mais bem documentada é trienal e tem fases sazonais legíveis — no outono aparecem os sinais, no inverno os animais aleijados são expulsos da matilha, na primavera há acasalamento e uma trégua de fato, e no verão e outono seguintes vem o pico. É esse ciclo que define o urbanismo da região: no sul os humanos constroem **vilas fortificadas**, capazes de se defender de uma maré.
-2. **A calamidade de bestas** (*beast calamity*), a escala acima da maré: mais rara e muito maior. A obra registra "a maior calamidade de bestas dos últimos cem anos" atingindo uma cadeia de montanhas inteira, o que dá a ordem de grandeza — (ded.) é um evento de escala secular, não anual.
+2. **A calamidade de bestas** (*beast calamity*), a escala acima da maré: mais rara e muito maior. A obra registra "a maior calamidade de bestas dos últimos cem anos" atingindo uma cadeia de montanhas inteira, o que dá a ordem de grandeza — `(ded.)` é um evento de escala secular, não anual.
 3. **O ciclo dia/noite como calendário de perigo local**, que em algumas montanhas é a variável mais importante do dia. Uma delas é segura durante o dia e extremamente perigosa à noite; de longe, vê-se envolta numa cor púrpura escura, pacífica e enganosa.
 
 > [!note] Para o design
@@ -114,7 +124,7 @@ O que o sul tem, em vez de estações, são **três relógios**:
 | **Wu Mountain** | Montanha "um tanto famosa entre as cem mil", território de um senhor local de caminho do veneno | Modelo de "montanha de um único dono" |
 | **Fierce Gorge** | Desfiladeiro nomeado, com um covil de bando famoso | O único desfiladeiro nomeado do sul |
 | **Myriad Snake Mountain** | Montanha cujas cavernas servem a reclusões de estudo de décadas | Geografia a serviço do [[Ritmo de Cultivo e Reclusão|ritmo de reclusão]] |
-| **Cloud Bamboo Mountain Range** | Cadeia de montanhas nomeada | Bambu, (ded.) pelo nome |
+| **Cloud Bamboo Mountain Range** | Cadeia de montanhas nomeada | Bambu, `(ded.)` pelo nome |
 | **Ju Feng / Nan / Jade Pot / Xuan Ci / Sun Crown / Copper Seal / Zhao Ze Mountain** | Montanhas nomeadas sem descrição desenvolvida — uma tem fama de território sem lei, outra é ponto de recurso disputado | Nomes prontos para você preencher |
 | **Luchuan river** | Região fluvial nomeada | Marco hidrográfico secundário |
 | **Five Regional Mountain Range** | Cadeia de montanhas **artificial**, resíduo de uma pesquisa de nível Venerável, hoje um acidente geográfico permanente | Terreno que é ruína de experimento. Ver [[Visão Geral dos Veneráveis]] |
@@ -124,7 +134,7 @@ O que o sul tem, em vez de estações, são **três relógios**:
 | **Dang Hun Mountain** | **Domínio recluso de céu e terra** do caminho da alma — terreno saturado de marcas de um único caminho | Com o *Luo Po valley* do norte, forma "os dois tesouros do cultivo do caminho da alma". Pode ser **fisicamente erguida** e guardada dentro de uma abertura imortal |
 | **Bai Xiang grotto-heaven** | Gruta-céu da região | Associada a uma herança verdadeira |
 | **Xia Cha grotto-heaven** | Gruta-céu cujo recurso característico é um **poço de essência de ano** | Recurso de altíssimo valor, ligado à captura de *year beasts* (feras-ano) |
-| **Jian Wen blessed land** | Sede de um dos treze super clãs | (ded.) fica no sul, por ser sede de um clã do sul |
+| **Jian Wen blessed land** | Sede de um dos treze super clãs | `(ded.)` fica no sul, por ser sede de um clã do sul |
 
 > [!warning] Um endereço que não é fixo
 > A obra situa a *Hu Immortal blessed land* na Fronteira Sul em algumas passagens e a associa ao *Tian Ti Mountain*, no Continente Central, em outras. As duas coisas podem ser verdadeiras sem contradição, porque **terras abençoadas são objetos móveis** — podem ser transportadas e reassentadas. Trate a montanha de dentro dela (a Dang Hun Mountain) como um tesouro do caminho da alma que existe no mundo, não como um ponto fixo no mapa. Ver [[Blessed Lands e Grotto-Heavens]].
@@ -334,7 +344,12 @@ A flora do norte, ao contrário da do sul, é razoavelmente documentada:
 
 ### A paisagem
 
-O Continente Central é a região **cercada pelas outras quatro**: fica no meio do mundo, com mais de cinquenta milhões de quilômetros quadrados e a essência primeva mais densa do ar entre as cinco. Essa densidade é a primeira coisa a sentir ao chegar — não é uma paisagem, é uma qualidade do ar que faz todo mundo cultivar mais rápido do que cultivaria em qualquer outro lugar.
+O Continente Central é a região **cercada pelas outras quatro**: fica no meio do mundo e tem a essência primeva mais densa do ar entre as cinco. Essa densidade é a primeira coisa a sentir ao chegar — não é uma paisagem, é uma qualidade do ar que faz todo mundo cultivar mais rápido do que cultivaria em qualquer outro lugar.
+
+> [!warning] O tamanho do Continente Central não é utilizável
+> Esta é a única das cinco regiões cuja medida a obra dá de forma que **não fecha**. O texto fala em "mais de cinquenta milhões de quilômetros" — e nenhuma das duas leituras possíveis funciona: lido como área, faz do centro do mundo uma região **cem vezes menor** que as Planícies do Norte; lido como largura linear, dá mais de mil vezes a circunferência da Terra.
+>
+> **A decisão do projeto é tratar esse número como não confiável** e dimensionar o Continente Central pela mesma régua das outras regiões: **3 a 5 bilhões de km²**. Isso não contradiz nada do que a obra afirma — ela descreve o centro como a região **mais forte** e a mais densa em essência, nunca como a maior nem como a menor. O registro completo da divergência está em [[Tabelas de Referência Rápida]], seção 13.2, que é a fonte soberana dos números do vault.
 
 Fisicamente, é uma região de **colinas e cadeias de montanhas** com contrastes internos fortes. O sul do continente é descrito como "dezenas de milhares de colinas" das quais emerge, sozinha, uma montanha que fura as nuvens. Duas cadeias grandes são nomeadas, e imortais em viagem de baixa altitude percorrem "as cadeias de montanhas do Continente Central" como quem atravessa províncias. Os vales de montanha anônimos são o terreno mais comum de esconderijo e de sede de seita pequena — se você precisar de um lugar discreto no centro do mundo, é num vale que ele fica.
 
@@ -487,7 +502,7 @@ A anatomia interna de um oásis grande é sempre a mesma, e vale como planta bai
 
 Fora dos oásis, a areia esconde mais do que parece. Há **poços isolados** no meio do nada, guardados por feras. Há **cavernas subterrâneas** logo abaixo dos oásis, às vezes conectadas à lagoa central — e sub-regiões inteiras onde "havia muitas cavernas desse tipo" sob a superfície. Há **poços de areia movediça** (*quicksand pits*), que no texto funcionam também como portas: um poço de areia movediça vira um buraco soprando ar frio, marcando um caminho subterrâneo, e um redemoinho de areia pode ser o portal filtrado para um lugar oculto. E o "deserto" tem pelo menos duas texturas distintas: dunas de areia e **deserto pedregoso** — "relativamente plano, a vista se estende até o horizonte, o chão é um terreno rochoso rachado sem nenhuma vegetação crescendo".
 
-Existem exceções verdes e verticais: **pastagens raras** com água farta e capim viçoso, montanhas (raras o bastante para não definir a paisagem, `ded.`), **vulcões** e **crateras**, incluindo a maior cratera da região. E há duas anomalias de escala cosmológica embutidas no chão: um **fragmento de céu imemorial** caiu na região e, ao se dissipar, converteu a areia ao redor num deserto de minério, deixando o núcleo como uma **corrente de fragmentos de ouro** subterrânea — um rio metálico correndo sob o deserto; e existe um **clã de feathermen** (homens-pássaro) que vive há gerações dentro de outro fragmento de céu, dentro do Deserto Ocidental. Ver [[Cosmologia]].
+Existem exceções verdes e verticais: **pastagens raras** com água farta e capim viçoso, montanhas (raras o bastante para não definir a paisagem, `(ded.)`), **vulcões** e **crateras**, incluindo a maior cratera da região. E há duas anomalias de escala cosmológica embutidas no chão: um **fragmento de céu imemorial** caiu na região e, ao se dissipar, converteu a areia ao redor num deserto de minério, deixando o núcleo como uma **corrente de fragmentos de ouro** subterrânea — um rio metálico correndo sob o deserto; e existe um **clã de feathermen** (homens-pássaro) que vive há gerações dentro de outro fragmento de céu, dentro do Deserto Ocidental. Ver [[Cosmologia]].
 
 > [!question] O deserto não tem rios
 > `—` **A obra não nomeia nenhum rio no Deserto Ocidental** — o único curso de "água" da região é o rio metálico subterrâneo, e ele não é água. Também não há mapa de fronteiras, nem ruínas ou campos de batalha antigos nomeados além do deserto assombrado descrito adiante, nem qualquer academia ou instituição de ensino: a região não tem seitas. São quatro lacunas grandes, e todas confortáveis de preencher.
@@ -610,7 +625,7 @@ O Mar Oriental é a única das cinco regiões cuja matriz é **água em vez de t
 
 A chave para entender o Mar Oriental como **mapa** é uma unidade que não existe em lugar nenhum: a **sea area** (área de mar). Uma área de mar funciona exatamente como a pastagem do norte ou a montanha do sul: **é propriedade individual de um Gu Imortal ou de um clã, com dono nomeado**. Fala-se em "a área de mar particular de fulano", e uma única imortal pode possuir sete grandes ao mesmo tempo. Existe um **ranking público de qualidade** dessas áreas, e todo mundo no meio imortal sabe a própria posição nele — a área do exemplo mais detalhado da obra "só" ocupa o quadragésimo sexto lugar. No topo estão as chamadas **dez grandes áreas de mar**, descritas como espetáculos naturais. E a escala desmonta qualquer intuição: uma área de mar de posição quarenta e seis tem **mais de três milhões de quilômetros quadrados** — o tamanho do Mar da China Meridional. São unidades do tamanho de mares inteiros, não de baías.
 
-Cada área de mar tem **caráter próprio**: cor da água, fauna dominante, fenômeno característico, recurso que produz. É por isso que os imortais falam delas como se fossem países. E o mapa é vivo: áreas de mar **crescem, encolhem e engolem umas às outras** conforme o clima do mundo muda — num resfriamento global registrado na obra, uma área gelada quadruplicou de tamanho e estava prestes a engolir a vizinha `(ded. quanto ao mapa ser dinâmico)`. Uma área de mar pode até ser **construída de propósito**: alguém requisitou uma área da organização que a controlava e a "construiu" como criadouro de tubarões.
+Cada área de mar tem **caráter próprio**: cor da água, fauna dominante, fenômeno característico, recurso que produz. É por isso que os imortais falam delas como se fossem países. E o mapa é vivo: áreas de mar **crescem, encolhem e engolem umas às outras** conforme o clima do mundo muda — num resfriamento global registrado na obra, uma área gelada quadruplicou de tamanho e estava prestes a engolir a vizinha — que o mapa marítimo seja dinâmico é `(ded.)` nossa a partir desse caso. Uma área de mar pode até ser **construída de propósito**: alguém requisitou uma área da organização que a controlava e a "construiu" como criadouro de tubarões.
 
 Dentro dessa moldura, os ambientes documentados são muito variados:
 

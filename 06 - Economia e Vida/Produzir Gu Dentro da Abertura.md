@@ -28,6 +28,23 @@ que virem Gu sozinhos.
 > significa que a obra não informa. Apagar tudo que estiver marcado com `*` devolve este
 > documento a cem por cento canônico.
 
+> [!info] Cinco palavras que esta nota usa desde o título
+> Você não precisa de nenhuma outra nota para acompanhar esta. O mínimo:
+>
+> - **Gu** — o inseto-mágico que é a unidade de poder do mundo. Cada um faz uma coisa, come
+>   alguma coisa e morre se não for alimentado. Ver [[O que é um Gu]].
+> - **[[Abertura|Abertura]]** — o espaço interno que um cultivador abre dentro de si. Quando
+>   ele ascende a imortal, essa abertura vira um **mundo em miniatura**, com céu, terra e
+>   fluxo de tempo próprios: é literalmente onde ele mora e planta. É desse lugar que fala o
+>   título. Ver [[Blessed Lands e Grotto-Heavens|terra abençoada]].
+> - **[[Ranks e Avanço|Rank]]** — o degrau de poder, do 1 ao 9. Do 1 ao 5 é o mundo mortal;
+>   do 6 em diante, o imortal. Gu também têm rank, e o rank de um Gu diz o que ele consegue
+>   fazer. **Pico** é o mais alto dos quatro estágios internos de cada rank: um "rank 5 pico"
+>   é alguém no último degrau antes de tentar a ascensão.
+> - **[[Dao Marks|Marcas de dao]]** — o registro que o cultivo grava na realidade. Elas
+>   escorrem para o chão, e onde muitas se acumulam **o terreno muda de comportamento**. São o
+>   motor de tudo o que esta nota descreve.
+
 ## Por que esta nota existe
 
 Um Mestre Gu mortal tem menos de dez Gu ao mesmo tempo, e alimentá-los já é o maior
@@ -77,7 +94,7 @@ Esta é a escala canônica, e responde diretamente à pergunta de teto:
 | Grande | rank 6 estável, rank 7 ocasionalmente |
 | Gigante | rank 7 estável |
 | Super | rank 8 |
-| Máximo (domínios reclusos de céu e terra) | acima disso |
+| Pináculo | acima da escala — o próprio território **é** um domínio recluso de céu e terra, isto é, um pedaço de mundo que obedece às leis de um caminho de cultivo em vez das leis normais |
 
 Leia a primeira linha com atenção, porque ela é a resposta prática: **os três portes menores
 cobrem toda a faixa mortal, do rank 1 ao rank 5**. Um imortal com uma terra modesta produz,
@@ -85,10 +102,11 @@ sozinho e para sempre, Gu de todo o espectro que um Mestre Gu mortal jamais alca
 isso que o rank 5 pico de um clã inteiro negocia por aquilo que a abertura de um imortal
 solitário fabrica como rotina.
 
-A obra trata os três portes menores **como um bloco só**. A distribuição fina entre eles
-(minúsculo = 1 a 2, pequeno = 2 a 3, médio = 3 a 5) é reconstrução nossa para dar régua a
-campanhas mortais, registrada em [[Economia Imortal]] — o bloco 1 a 5 é canônico, a divisão
-interna não.
+A obra trata os três portes menores **como um bloco só** e nunca diz onde um termina e o
+outro começa. A distribuição fina entre eles — `*` minúsculo = rank 1 a 2, `*` pequeno =
+rank 2 a 3, `*` médio = rank 3 a 5 — é reconstrução nossa para dar régua a campanhas mortais,
+e a tabela completa dos sete portes está em [[Economia Imortal]]. **O bloco 1 a 5 é canônico;
+a divisão interna, não.**
 
 ## O acelerador: o peixe-bolha
 
@@ -128,9 +146,12 @@ parecido com um círculo profissional de criadores, com reputação, favores e s
 
 ## O tempo faz o resto
 
-A abertura corre **mais rápido que o mundo externo** — um dia lá fora são muitos dias lá
-dentro. A consequência econômica é direta: **cada ano do mundo externo rende várias colheitas
-internas**. O imortal que sai em viagem volta para um estoque que cresceu sozinho.
+A abertura corre **mais rápido que o mundo externo** — as proporções documentadas vão de
+cinco a quarenta e seis dias internos para cada dia lá fora, conforme o tamanho da terra
+(ver [[Tabelas de Referência Rápida]]). A consequência econômica é direta: `(ded.)` **cada ano
+do mundo externo rende várias colheitas internas**. A obra afirma a dilatação e afirma que a
+produção própria abastece o dono; a multiplicação das colheitas é conta nossa em cima disso.
+O imortal que sai em viagem volta para um estoque que cresceu sozinho.
 
 É isso que torna a produção própria superior à compra em tempos de paz. A obra é explícita:
 comprar é a opção **secundária**; o normal é a produção da própria terra abastecer o dono, e
@@ -172,8 +193,8 @@ do alcance de qualquer coisa que uma campanha normal vá possuir.
    disputadíssimo em tempo de guerra.
 6. **A técnica de criação é propriedade privada**, negociável, e a diferença que ela faz é da
    ordem de dezenas de por cento.
-7. **O tempo acelerado da abertura multiplica as colheitas** e é o que torna produzir melhor
-   que comprar.
+7. **O tempo acelerado da abertura multiplica as colheitas** `(ded.)` e é o que torna produzir
+   melhor que comprar.
 8. **Em paz se produz, em guerra se compra caro.** O ciclo econômico do mundo imortal segue
    essa alternância.
 9. **Gu imortais ficam de fora**: eles se refinam, não se criam.
@@ -208,3 +229,6 @@ do alcance de qualquer coisa que uma campanha normal vá possuir.
 - [[Mercados e Leilões]] — onde o excedente vira dinheiro e onde o insumo fica caro.
 - [[Blessed Lands e Grotto-Heavens]] — o que é a terra em que tudo isso acontece.
 - [[Dao Marks]] — por que o terreno saturado converte enxame em Gu.
+- [[Ranks e Avanço]] — a escala de rank e os quatro estágios de cada degrau.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números do vault, incluindo as
+  grades de terra abençoada e o fluxo de tempo interno.

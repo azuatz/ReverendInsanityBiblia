@@ -19,6 +19,24 @@ conhecimento: comum
 é uma ferramenta que os humanos inventaram para sobreviver juntos, e o universo em volta não
 premia ninguém por usá-la.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de algo
+> que a obra afirma — aqui, quase sempre um padrão que se repete em muitas cenas e que nós
+> enunciamos como regra. `*` é **invenção ou indução nossa**, sem base textual. `—` significa
+> que a obra não informa. `[segredo]` marca o que, dentro do mundo, pouquíssima gente sabe.
+> Apagar tudo que estiver marcado com `*` devolve este documento a cem por cento canônico.
+
+> [!info] Cinco palavras que esta nota usa desde a primeira página
+> A leitora não precisa ter lido as outras notas para acompanhar esta. O mínimo:
+> **Gu** é o inseto-mágico que é a unidade de poder do mundo — cada um faz uma coisa, come
+> alguma coisa e morre se não for alimentado (ver [[O que é um Gu]]). A **[[Abertura|abertura]]**
+> é o espaço interno que uma pessoa abre dentro de si para armazenar a energia que aciona os
+> Gu; quem tem uma é um **Mestre Gu**, quem não tem é um mortal comum. **[[Ranks e Avanço|Rank]]**
+> é o degrau de poder, do 1 ao 9, e do 6 em diante a pessoa é chamada de imortal. **Terra
+> abençoada** é o mundo em miniatura que um imortal carrega dentro de si e onde mora
+> (ver [[Blessed Lands e Grotto-Heavens]]). E **[[Pedras Primordiais|pedra primordial]]** é a
+> moeda — que, como se verá na seção 2, é a mesma substância que o combustível.
+
 ## Por que esta nota existe
 
 Todas as outras notas deste material explicam **regras**: como se cultiva, quanto custa um Gu,
@@ -34,15 +52,16 @@ e a diferença é o que separa uma mesa interessante de uma mesa desagradável.
 
 > [!warning] Esta nota não conta a história
 > Ela trata do **argumento** da obra — a tese que o mundo sustenta — e não do enredo. O
-> objetivo do protagonista aparece aqui porque ele é a premissa declarada no capítulo 2 e o
-> eixo do título, não porque seja um acontecimento. Nada do que se passa com ele está aqui.
+> objetivo do protagonista aparece aqui porque ele é a premissa declarada nas primeiras
+> páginas e o eixo do título, não porque seja um acontecimento. Nada do que se passa com ele
+> está aqui.
 
 ## 1. A tese: os fortes comem os fracos
 
 A regra é enunciada literalmente, dezenas de vezes, em todos os volumes, tanto pelo narrador
 quanto pelos personagens: **os fortes predam os fracos, e a sobrevivência é do mais apto**. É
-a primeira coisa que o texto afirma sobre o mundo, já no segundo capítulo, e ele nunca a
-desmente depois.
+a primeira coisa que o texto afirma sobre o mundo, logo nas páginas de abertura, e ele nunca
+a desmente depois.
 
 Três qualificações mudam completamente como isso se joga:
 
@@ -82,9 +101,11 @@ cenário. Onde há benefício, há conflito, porque o espaço é finito e todo m
 melhor.
 
 **Cultivar consome, sempre.** Este é o ponto que separa Reverend Insanity de cenários de
-magia em que o poder, uma vez adquirido, é seu. Aqui não existe patamar estável: os Gu comem
-e morrem se não forem alimentados, o refino queima materiais e falha, avançar de estágio
-exige insumo, a terra abençoada precisa ser mantida, e as provações cobram periodicamente.
+magia em que o poder, uma vez adquirido, é seu. Aqui não existe patamar estável: os
+[[Usar e Alimentar Gu|Gu comem e morrem se não forem alimentados]], o
+[[Refino de Gu|refino]] — a operação de fabricar um Gu novo — queima materiais e falha,
+avançar de estágio exige insumo, a terra abençoada precisa ser mantida, e as provações cobram
+periodicamente.
 A obra é seca a respeito — **um imortal não consegue cultivar sem recursos**, e sem eles
 **não se faz nada**. Um cultivador que para de gastar não fica parado: regride.
 
@@ -175,15 +196,22 @@ formulações mais claras, o "mau karma" que se abate sobre alguém é descrito,
 como "a vontade unificada de todas as pessoas" — ou seja, uma coalizão. O castigo existe; ele
 só tem endereço humano.
 
-## 5. Quem diz "os céus são cegos" é sempre quem perdeu
+## 5. Quem diz "os céus são cegos" é quem acabou de perder `(ded.)`
 
-Vale notar um padrão narrativo, porque ele é uma ferramenta de mestre pronta.
+Esta seção inteira é um **padrão** que nós identificamos lendo, e não uma regra que a obra
+enuncie. Ela é útil como ferramenta de mestre justamente por isso: é uma direção de atuação,
+não um fato do mundo.
 
-A frase "os céus são cegos" aparece muitas vezes — e sempre na boca de quem acabou de sofrer
-uma injustiça. "Que mundo é este, em que os maus vivem bem e os bons morrem?" é uma fala
-recorrente de aldeões, de idosos, de sobreviventes. **A obra nunca confirma essas falas com um
-evento que dê razão a quem as diz.** Elas ficam no ar, como o que são: a reação de quem
-esperava um mundo que não existe.
+O que é canônico: a frase "os céus são cegos" aparece muitas vezes, e as ocorrências que
+registramos estão todas na boca de quem acabou de sofrer uma injustiça. "Que mundo é este, em
+que os maus vivem bem e os bons morrem?" é fala recorrente de aldeões, de idosos, de
+sobreviventes.
+
+O que é dedução nossa: `(ded.)` **em nenhuma das cenas que levantamos a obra confirma essas
+falas com um evento que dê razão a quem as diz.** É uma negativa sobre um texto de milhares de
+capítulos, e portanto sobre o que lemos, não uma garantia. O que se pode afirmar com segurança
+é o positivo: a obra jamais apresenta uma instância cósmica que corrija injustiças, e isso ela
+declara diretamente (ver a seção 3).
 
 Isso dá ao mestre um registro de voz muito específico para os PNJs comuns. Eles não são
 cínicos. Eles acreditam em justiça cósmica, e é justamente por isso que sofrem quando ela não
@@ -193,12 +221,12 @@ aparece.
 
 O dado mais duro da obra sobre o assunto não é sobre punição, é sobre distribuição.
 
-A [[Aptidão|aptidão]] para o cultivo — o talento que decide se alguém pode ou não ter poder
-neste mundo — é distribuída **sem qualquer relação com mérito moral**. O texto encena isso
-diretamente: a personagem descrita como a pessoa mais bondosa que um servo velho já viu, que
-leva comida aos famintos todas as noites mesmo com mau tempo, é uma mortal sem abertura, que
-jamais poderá cultivar. O comentário que fecha a cena é "os céus são injustos, impediram uma
-pessoa dessas de cultivar".
+A [[Aptidão|aptidão]] para o cultivo — o talento inato que decide se alguém pode ou não ter
+poder neste mundo, medido uma vez aos quinze anos — é distribuída **sem qualquer relação com
+mérito moral**. O texto encena isso diretamente: a personagem descrita como a pessoa mais
+bondosa que um servo velho já viu, que leva comida aos famintos todas as noites mesmo com mau
+tempo, é uma mortal sem abertura, que jamais poderá cultivar. O comentário que fecha a cena é
+"os céus são injustos, impediram uma pessoa dessas de cultivar".
 
 E o mundo é ainda menos gentil que isso: a bondade não é apenas não recompensada, ela é
 **explorável**. A obra tem um capítulo cujo título é uma pergunta — "a bondade será
@@ -214,6 +242,14 @@ e previsibilidade é uma alavanca para quem quiser usá-la.
 > Mecanicamente, isso sugere não dar recompensa automática por atos altruístas — e dar, em
 > troca, **memória social**: gente que se lembra, que retribui por conta própria, que abre
 > uma porta anos depois. A recompensa vem de pessoas, nunca do mundo.
+>
+> E ela **vem**: a mesma personagem desta seção, muito depois de ser explorada por ser boa,
+> acaba recebendo uma herança de Mestre Gu Imortal precisamente por essa qualidade. Não é o
+> universo pagando — é alguém que reparou nela, esperou e decidiu. A leitura completa dessa
+> cena, pelo lado da bondade que funciona, está em
+> [[Tipos de Gente e Filosofias de Vida]], na posição "bondade prática". As duas notas dizem
+> a mesma coisa por lados opostos: **bondade ingênua é suicídio, bondade competente é cara e
+> às vezes é paga — por gente, tarde.**
 
 ## 7. A costura metafísica: o modo do céu contra o modo dos humanos
 
@@ -231,9 +267,11 @@ antipatia, e também nunca ajudou ninguém por pena.
 forte quer ficar mais forte, o rico mais rico, o belo mais belo, e quem conquistou longevidade
 quer vida eterna. A ganância humana não conhece limite.
 
-Junte as duas metades e o cenário inteiro se explica: **cultivar é desejar, desejar é
-acumular, e acumular é entrar em conflito direto com a lei de equilíbrio do universo.** É por
-isso que a tribulação é proporcional ao que a pessoa acumulou — quanto mais funda a base, mais
+Junte as duas metades e o cenário inteiro se explica: `(ded.)` **cultivar é desejar, desejar é
+acumular, e acumular é entrar em conflito direto com a lei de equilíbrio do universo.** A obra
+enuncia as duas metades separadamente; a síntese é nossa. É por
+isso que a tribulação — o desastre periódico que o mundo manda contra quem ficou poderoso
+demais — é proporcional ao que a pessoa acumulou — quanto mais funda a base, mais
 forte o desastre que vem cobrar. O desejo humano não é um pecado moral neste mundo. É uma
 **força física em oposição a outra força física**. Ver [[Vontade dos Céus]] e
 [[Tribulações e Calamidades]].
@@ -243,7 +281,8 @@ forte o desastre que vem cobrar. O desejo humano não é um pecado moral neste m
 A obra raramente faz declarações do tipo "todo Mestre Gu deseja X". Ela mostra o desejo de dois
 jeitos indiretos, e os dois são mais úteis que uma declaração.
 
-**Pela escala de ambição.** A melhor frase do assunto descreve um torneio regional: as forças
+**Pela escala de ambição.** `(ded.)` — a leitura é nossa; as três falas são da obra. Uma
+passagem descreve um torneio regional em que as forças
 pequenas queriam **sobreviver**, as médias queriam **avançar**, e as grandes queriam
 **defender o que já tinham**. Três verbos, três portes. A ambição de um grupo é função direta
 do tamanho dele — e isso é uma tabela de motivação de PNJ pronta.
@@ -357,12 +396,13 @@ repetindo o gesto fundador da espécie.
 primeiro homem ofereceu o próprio coração, e do gesto nasceu a esperança — a única coisa que
 as aflições temem. Mas a obra é precisa e dura no detalhe: **a luz da esperança era fraca
 demais para iluminar a escuridão, e não cobria sequer o corpo inteiro — apenas o peito.** A
-esperança não resolve nada. Ela só impede a desistência. Não conheço imagem melhor para o tom
-deste cenário.
+esperança não resolve nada. Ela só impede a desistência. `(ded.)` É a melhor régua de tom que
+o cenário oferece, e vale guardá-la assim: aqui a esperança nunca mostra o caminho, apenas
+impede que se pare de andar.
 
 ## As regras do mundo, enumeradas
 
-1. **Os fortes predam os fracos.** É a regra declarada do mundo, do capítulo 2 ao fim.
+1. **Os fortes predam os fracos.** É a regra declarada do mundo, da primeira página à última.
 2. **A regra é admirada por quem prospera nela**, e não apenas sofrida por quem perde.
 3. **A seleção brutal é o que produz especialistas.** Crueldade e competência estão ligadas.
 4. **Apelo emocional não altera a regra.** Compaixão, quando ocorre, é escolha pessoal.
@@ -374,7 +414,7 @@ deste cenário.
    agente é sempre uma coalizão humana.
 9. **A aptidão para o cultivo é distribuída sem relação com mérito.** A pessoa mais bondosa do
    mundo pode não poder cultivar.
-10. 🔒 **O modo do céu é equilibrar; o modo dos humanos é acumular.** Cultivar é, por
+10. `[segredo]` **O modo do céu é equilibrar; o modo dos humanos é acumular.** Cultivar é, por
     definição, opor-se à lei do universo — e a tribulação é a cobrança proporcional.
 11. **A ambição é função do porte:** pequenos querem sobreviver, médios querem avançar,
     grandes querem defender.
@@ -414,3 +454,7 @@ deste cenário.
 - [[Caminho Correto e Caminho Demoníaco]] — como a ausência de justiça cósmica se organiza em
   facções.
 - [[Aptidão]] — a distribuição de talento que ignora mérito.
+- [[Tipos de Gente e Filosofias de Vida]] — as onze respostas que as pessoas do mundo dão a
+  esta filosofia, e quem defende cada uma.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números do vault, para quando esta
+  nota mencionar uma escala em palavras.

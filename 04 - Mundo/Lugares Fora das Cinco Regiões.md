@@ -210,7 +210,9 @@ Quando os sete céus foram destruídos, seus pedaços **caíram e se espalharam*
 
 **Todos são ricos.** A obra é explícita: sejam os céus intactos, sejam os mundos fragmentados, eles têm recursos abundantes. São, na prática, os melhores pontos de coleta do mundo — e a única fonte restante de vários materiais.
 
-**A regra de entrada, que é o que os torna jogáveis.** Um mundo fragmentado tem **marcas de dao esparsas** — pouca densidade de realidade, digamos assim. Se quem entra carrega marcas demais no próprio corpo, é "como um tigre entrando na gaiola de um coelho": o mundo **estoura**, as marcas se destroem, sopram ventos de assimilação e todos os recursos morrem. O resultado é uma situação deliciosamente absurda: **os cultivadores mais fortes estão proibidos pela física de entrar**, e as grandes potências competem enviando o representante **mais fraco** que ainda dê conta do serviço.
+**A regra de entrada, que é o que os torna jogáveis.** Antes dela, uma palavra que esta nota usa o tempo todo: **[[Dao Marks|marcas de dao]]** são o registro que o cultivo grava na realidade e nos corpos — a matéria-prima do poder. Quem cultiva há séculos carrega milhares delas; um lugar pode estar saturado delas; e a densidade de marcas de um lugar e a de uma pessoa **têm de ser compatíveis**.
+
+É por isso que um mundo fragmentado tem uma porta com trava. Ele tem **marcas de dao esparsas** — pouca densidade de realidade, digamos assim. Se quem entra carrega marcas demais no próprio corpo, é "como um tigre entrando na gaiola de um coelho": o mundo **estoura**, as marcas se destroem, sopram ventos de assimilação e todos os recursos morrem. O resultado é uma situação deliciosamente absurda: **os cultivadores mais fortes estão proibidos pela física de entrar**, e as grandes potências competem enviando o representante **mais fraco** que ainda dê conta do serviço.
 
 **Os fragmentos nomeados e o que produzem:**
 
@@ -303,7 +305,7 @@ E um detalhe que fecha o quadro: a obra registra que existe "a pessoa mais habil
 
 Um **secluded domain of heaven and earth** (domínio recluso de céu e terra) é um trecho do mundo **saturado das marcas de dao dispersas de um único caminho de cultivo**. Marcas de dao são o registro que o cultivo grava na realidade e nos corpos — a matéria-prima do poder; ver [[Dao Marks]].
 
-O número que define a categoria: **o total de marcas de um domínio recluso costuma superar o de um Gu Imortal de rank supremo**. Traduzindo para o que isso significa na prática — e a obra faz a tradução —, para um cultivador imortal **um domínio recluso é o substituto de um Gu de rank 9**, capaz de "abalar uma era inteira e criar uma nova tendência no mundo imortal". Não é uma paisagem exótica. É um dos objetos mais poderosos que existem, e por acaso tem o formato de um lugar.
+O número que define a categoria: **o total de marcas de um domínio recluso costuma superar o de um Gu Imortal de rank 9**, o topo absoluto da escala. Traduzindo para o que isso significa na prática — e a obra faz a tradução —, para um cultivador imortal **um domínio recluso é o substituto de um Gu de rank 9**, capaz de "abalar uma era inteira e criar uma nova tendência no mundo imortal". Não é uma paisagem exótica. É um dos objetos mais poderosos que existem, e por acaso tem o formato de um lugar.
 
 Três regras estruturam a categoria inteira:
 
@@ -454,7 +456,7 @@ Um terreno que desliga a magia de quem entra e devolve a magia de quem ataca de 
 | **Dang Hun Mountain** (Montanha que Sacode a Alma) | Alma | Um dos "dois tesouros do cultivo da alma"; hoje **fora** da Porta da Vida e da Morte, em posse de cultivadores, sustentando um monopólio de mercado. Quanto mais perto do topo, mais forte o choque sobre a alma; almas fracas se dispersam no meio do caminho |
 | **Luo Po Valley** (Vale Luo Po) | Alma | O outro dos dois tesouros; também extraído e removido |
 | **Cheng Bai Mountain** | Regra | Uma montanha feita de incontáveis *failure Gu* empilhados — **cada pedra é um fracasso** que inflige males aleatórios a quem a toca — com **um único *success Gu* no topo**. Uma metáfora inteira construída como terreno escalável |
-| **City Well** (Poço da Cidade) | Múltiplos | Um poço no fundo do qual há uma cidade em miniatura: na lenda, a casa natal dos *minimen* (homens minúsculos). Resistiu a uma tentativa de extração — apenas estremeceu |
+| **City Well** (Poço-Cidade) | Múltiplos | Um poço no fundo do qual há uma cidade em miniatura: na lenda, a casa natal dos *minimen* (homens minúsculos). Resistiu a uma tentativa de extração — apenas estremeceu |
 | **Miniscule Mountain** (Montanha Minúscula) | Regra | Parte do City Well, registrada nas lendas, habitada por homens minúsculos; **amplifica golpes**. Hoje mantida por aliança com uma tribo humana, não como posse |
 | **Whisper Forest** (Floresta do Sussurro) | Informação | Apenas nomeada. Conteúdo: `—` |
 | **Care** | — | Apenas nomeado, como destino de quem procurava material para refinar um Gu. Conteúdo: `—` |
@@ -471,17 +473,17 @@ A geografia do Mar Oriental é assunto de outra nota; aqui ela entra porque é o
 
 `conhecimento: segredo`
 
-O registro de maior valor da categoria inteira: **domínios reclusos podem ser construídos**. Não são todos relíquias da criação do mundo; alguns são obra de engenharia, e a obra documenta três projetos em estágios diferentes.
+O registro de maior valor da categoria inteira: **domínios reclusos podem ser construídos**. Não são todos relíquias da criação do mundo; alguns são obra de engenharia, e a obra documenta **três projetos, em quatro peças** — porque o segundo deles só conta como domínio completo quando a montanha e o mar existem juntos.
 
-| Projeto | O que é | Estado |
-|---|---|---|
-| **Refinement Sea** (Mar do Refino) | Um espírito acumulou água de refino durante eras, apostando que ao atingir certo ponto ela **viraria** um domínio recluso do caminho do refino — que, uma vez formado, **se reabasteceria sozinho para sempre** | **Nunca concluído**, apesar de custo imenso. A versão incompleta já é um dos ativos mais valiosos do mundo — mas **se esgota com o uso**, porque a autossustentação era justamente o que faltou |
-| **Human Sea** (Mar Humano) | Projeto de séculos de uma grande organização para criar em segredo um domínio recluso do caminho humano. Aparece como uma névoa branca de onde emergem figuras e sombras humanas | Funcional, e **se reabastece matando gente suficiente** — o custo de manutenção é humano e explícito |
-| **Human Mountain** (Montanha Humana) | Imitação posterior, construída por outra organização a partir das lições do primeiro | Só o conjunto "montanha e mar" conta como domínio completo |
-| **Censure Peak** (Pico da Censura) | Concluído | E ainda assim classificado apenas como domínio **incompleto** — inferior em essência ao Mar do Refino inacabado |
+| Projeto | Peça | O que é | Estado |
+|---|---|---|---|
+| **1. Mar do Refino** | **Refinement Sea** (Mar do Refino) | Um espírito acumulou água de refino durante eras, apostando que ao atingir certo ponto ela **viraria** um domínio recluso do caminho do refino — que, uma vez formado, **se reabasteceria sozinho para sempre** | **Nunca concluído**, apesar de custo imenso. A versão incompleta já é um dos ativos mais valiosos do mundo — mas **se esgota com o uso**, porque a autossustentação era justamente o que faltou |
+| **2. Mar e Montanha Humanos** | **Human Sea** (Mar Humano) | Projeto de séculos de uma grande organização para criar em segredo um domínio recluso do caminho humano. Aparece como uma névoa branca de onde emergem figuras e sombras humanas | Funcional, e **se reabastece matando gente suficiente** — o custo de manutenção é humano e explícito |
+| **2. Mar e Montanha Humanos** | **Human Mountain** (Montanha Humana) | A segunda metade do mesmo projeto: imitação posterior, construída por outra organização a partir das lições do mar | Só o conjunto "montanha e mar" conta como domínio completo |
+| **3. Pico da Censura** | **Censure Peak** (Pico da Censura) | Projeto independente, levado até o fim | Concluído — e ainda assim classificado apenas como domínio **incompleto**, inferior em essência ao Mar do Refino inacabado |
 
 > [!warning] O que essa tabela realmente diz
-> Três projetos, e **nenhum deles deu certo por inteiro**: um nunca terminou, um só funciona à custa de matança contínua, um terceiro terminou e mesmo assim não alcançou a categoria. Fabricar um domínio recluso é, no cenário, a obra pública mais cara e mais fracassada que existe. Para a mesa, isso é ouro: é um projeto que **justifica gastos absurdos e crimes enormes** e que, ainda assim, provavelmente não vai funcionar.
+> Três projetos nas quatro linhas acima, e **nenhum deles deu certo por inteiro**: o primeiro nunca terminou, o segundo só funciona à custa de matança contínua, o terceiro terminou e mesmo assim não alcançou a categoria. Fabricar um domínio recluso é, no cenário, a obra pública mais cara e mais fracassada que existe. Para a mesa, isso é ouro: é um projeto que **justifica gastos absurdos e crimes enormes** e que, ainda assim, provavelmente não vai funcionar.
 
 ---
 
@@ -632,7 +634,7 @@ O mundo de cultivo Gu tem uma **fronteira física**: uma membrana externa que o 
 | **4ª a 6ª** | `—` **A obra nunca as descreve.** Ver a observação abaixo |
 | **7ª** | Grande; rochas, grama, solo e árvores **todos brilhando em cores vivas**. O solo é composto de materiais imortais de grau quase supremo — mas com **marcas de dao caóticas e inutilizáveis**. A formulação canônica é: "a 7ª camada **deriva marcas de dao**" |
 | **8ª** | Um **vazio onde mundos nascem e morrem**. "A 8ª camada **deriva mundos**" |
-| **9ª** | A **Crazed Demon Ninth Void Formation** — a formação do nono vazio, cujo núcleo é um Gu Imortal lendário de rank supremo chamado **Derivation** (Derivação). Escondida tão fundo que nem o poder máximo do mundo a decifra de imediato |
+| **9ª** | A **Crazed Demon Ninth Void Formation** — a formação do nono vazio, cujo núcleo é um Gu Imortal lendário de **rank 9** chamado **Derivation** (Derivação). Escondida tão fundo que nem o poder máximo do mundo a decifra de imediato |
 
 **Um fenômeno ambiental vale para a caverna inteira:** **sons demoníacos** que enlouquecem seres vivos, e materiais imortais que **viram lixo** porque suas marcas de dao se embaralham. É por isso que o material das seis primeiras camadas é intransacionável: a caverna produz riqueza e a estraga no mesmo movimento.
 
@@ -666,7 +668,7 @@ Além das bolhas pequenas e efêmeras, **figuras de nível supremo construíram 
 **Vistos por dentro**, a obra só dá um traço concreto, e é do Grande Mundo da Terra Amarela: no centro dele há um **grande monte, a "Sacred Tomb"** (Tumba Sagrada) de quem o criou. Os habitantes reagem coletivamente quando esse monte brilha — um mundo inteiro organizado em torno de um marco geográfico que também é um túmulo. Cada Grande Mundo guarda uma das heranças do seu criador.
 
 > [!question] Onde a obra fica muda: os outros dois Grandes Mundos
-> **Green Lotus** e **Savage Wilderness** têm nome, criador e existência confirmada — e **nenhuma descrição de paisagem**. `—` Nada foi preenchido. `*` As cores dos nomes (verde e vermelho) e o padrão do terceiro sugerem que cada um tenha um caráter próprio, mas isso é leitura nossa, não afirmação da obra.
+> **Green Lotus** (Lótus Verde) e **Savage Wilderness** (Selva Selvagem) têm nome, criador e existência confirmada — e **nenhuma descrição de paisagem**. `—` Nada foi preenchido. `*` Os próprios nomes sugerem um caráter para cada um — um mundo vegetal e aquático, um mundo de floresta bruta e fera —, e o terceiro, a Terra Amarela, confirma o padrão de que o nome descreve o bioma. Mas isso é leitura nossa, não afirmação da obra.
 
 > [!note] Para o design
 > Este é o achado mais espetacular do levantamento e merece ser dito devagar: **dentro de uma caverna, num vazio, existem três mundos habitados, com seus próprios cultivadores, que não sabem — ou talvez saibam — que são o experimento de alguém.** Uma campanha inteira pode se passar dentro de um deles, sob um monte que às vezes brilha, com o "céu" sendo a parede de uma bolha e o "fim do mundo" sendo literal, agendado e observável em outras bolhas próximas.

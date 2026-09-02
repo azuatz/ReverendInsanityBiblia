@@ -12,7 +12,7 @@ aliases:
   - Castas e Filosofias
 status: consolidado
 fontes: ["cap. 34", "cap. 64", "cap. 65", "cap. 71", "cap. 74", "cap. 103", "cap. 105", "cap. 120", "cap. 135", "cap. 144", "cap. 148", "cap. 163", "cap. 164", "cap. 173", "cap. 180", "cap. 195", "cap. 208", "cap. 234-235", "cap. 248", "cap. 375", "cap. 383", "cap. 385", "cap. 437", "cap. 439", "cap. 446", "cap. 451", "cap. 456", "cap. 464", "cap. 475", "cap. 495", "cap. 522", "cap. 524", "cap. 563", "cap. 567", "cap. 592", "cap. 596", "cap. 605", "cap. 608", "cap. 652", "cap. 816", "cap. 866", "cap. 893", "cap. 959", "cap. 1011", "cap. 1022", "cap. 1035", "cap. 1052", "cap. 1101", "cap. 1106", "cap. 1218", "cap. 1362", "cap. 1539", "cap. 1698", "cap. 1713", "cap. 1738", "cap. 1748", "cap. 1817", "cap. 1949", "cap. 1958", "cap. 1960-1964", "cap. 2096", "cap. 2121", "cap. 2124", "cap. 2181", "cap. 2183", "cap. 2223", "cap. 2324"]
-conhecimento: misto — a tipologia social e quase todas as filosofias são `comum` (qualquer personagem do mundo conhece essas posições e as ouve defendidas em praça pública); a seção sobre a rebelião contra o destino toca em material `segredo` e está marcada
+conhecimento: misto — a tipologia social e quase todas as filosofias são `comum` (qualquer personagem do mundo conhece essas posições e as ouve defendidas em praça pública); duas seções tocam em material `segredo` e estão marcadas no corpo: a rebelião contra o destino (posição 5) e o pano de fundo metafísico
 ---
 
 # Tipos de Gente e Filosofias de Vida
@@ -52,7 +52,7 @@ decidir com quem falam e quem podem matar:
 | Eixo | O que separa | Natureza do corte |
 |---|---|---|
 | **Mortal × Mestre Gu** | quem tem [[Abertura\|abertura]] e quem não tem | social — o corte mais forte do mundo |
-| **Grau de [[Aptidão\|aptidão]]** | C, B, A e as dez constituições extremas | biológico — decidido no nascimento |
+| **Grau de [[Aptidão\|aptidão]]** | D, C, B, A e as dez constituições extremas | biológico — decidido aos quinze anos |
 | **Filiação** | clã ou seita × cultivador solitário | político — decide quem paga suas contas |
 | **Rank** | do 1 ao 9 | poder puro — redefine tudo a cada degrau |
 
@@ -154,13 +154,33 @@ institucional deste mundo converte criminosos em mão de obra qualificada.
 
 ## O de aptidão baixa
 
-**O que define.** **Aptidão** (*aptitude*) é a qualidade inata da abertura: quanto de
-essência primordial ela armazena e com que velocidade a repõe. É medida em graus — **C**
-(comum), **B** (bom), **A** (excepcional) — e acima de tudo isso estão as **dez
-constituições extremas**. A melhor aptidão grau A armazena 99% de essência na abertura;
-qualquer constituição extrema armazena 100%. A aptidão não muda a força de um golpe: muda
-a **velocidade de cultivo**, e velocidade, ao longo de uma vida, é tudo. (Ver [[Aptidão]] e
-[[As Dez Constituições Extremas]].)
+**O que define.** **Aptidão** (*aptitude*) é a qualidade inata da abertura, medida uma única
+vez na vida, aos quinze anos. Ela responde a uma pergunta só: **que fração da abertura a
+pessoa consegue encher de essência primordial**. É um **teto**, não uma velocidade — o ponto
+onde a reserva para de subir, mesmo havendo espaço físico sobrando lá dentro. Cultivar a vida
+inteira não move esse número; um grau C de 44% morre com 44%.
+
+O mundo expressa isso em cinco faixas, e é a régua social de todo personagem:
+
+| Grau | Capacidade da abertura |
+|---|---|
+| (sem talento) | abaixo de 20% — **nunca se torna Mestre Gu** |
+| **D** | 20–39% |
+| **C** | 40–59% |
+| **B** | 60–79% |
+| **A** | 80–99% |
+| Constituição extrema | 100% |
+
+**O número que transforma esse teto em destino são os 55%.** Subir de rank não é acumular
+energia: é estilhaçar a parede da própria abertura atacando-a com essência **de uma só vez**,
+e a primeira ruptura — do rank 1 para o rank 2 — exige **55% da reserva num único golpe**.
+Some as duas coisas e a tabela acima vira uma sentença: um grau D, com teto de 39%, **nunca**
+rompe sozinho; um grau C só rompe se calhar de estar na estreita faixa de 55% a 59%.
+
+O teto também governa quantas vezes a pessoa age por dia, e a taxa de reposição acompanha o
+grau (um C repõe cerca de 4% da reserva por hora, um A cerca de 8%) — mas isso é consequência
+do teto, não a definição dele. (Ver [[Aptidão]], [[As Dez Constituições Extremas]] e, para os
+números, [[Tabelas de Referência Rápida]], a fonte soberana do vault.)
 
 **Que vida leva.** A obra dá a este tipo o discurso mais longo e mais amargo que tem sobre
 destino pessoal. Ele está na boca do fundador de uma linhagem demoníaca, falando ao irmão
@@ -172,12 +192,13 @@ planejou para mim era me deixar curvado sob outro, ser a sombra atrás dos outro
 não me conformo: com que direito ele me pôs embaixo e você em cima?"* — e daí,
 literalmente, *"eu só podia tomar, roubar; transformar em meu o que não era meu"*.
 
-**Destino típico — e é numérico.** Um cultivador de aptidão grau C com pouco mais de 40% de
-capacidade tem o avanço ao rank 3 descrito como "praticamente impossível". A obra registra
-o caso de referência: **mais de cem anos parado no rank 2**, sem conseguir romper, até
-obter por acaso um Gu elevador de aptidão. Esse é o destino normal do grau C — não morrer
-jovem, mas **estacionar** e ver a vida passar num rank que a própria obra chama de fundo da
-hierarquia.
+**Destino típico — e é numérico.** Um cultivador de grau C com pouco mais de 40% de
+capacidade está abaixo dos 55% da primeira ruptura: ele não sobe por esforço, sobe por
+sorte — precisa de um Gu que eleve o próprio talento, e esses são raros a ponto de um ancião
+de clã nunca ter visto um. A obra registra o caso de referência: **mais de cem anos parado
+no rank 2**, sem conseguir romper, até obter um por acaso. Para o grau C, o rank 3 é descrito
+como praticamente impossível. Esse é o destino normal da faixa — não morrer jovem, mas
+**estacionar** e ver a vida passar num rank que a própria obra chama de fundo da hierarquia.
 
 **Isso responde diretamente ao "velho preso num rank a vida inteira":** ele não é um tipo à
 parte, é o desfecho estatístico do tipo acima. É o Mestre Gu de rank 2 ou 3 com cem anos de
@@ -195,8 +216,8 @@ inteira **sem jamais possuir um único Gu Imortal** — a estagnação também e
 
 ## O gênio
 
-**O que define.** Aptidão grau B, A ou uma das dez constituições extremas, detectada em
-teste na infância.
+**O que define.** Aptidão grau B, A ou uma das dez constituições extremas — isto é, teto de
+60% para cima —, detectada na cerimônia dos quinze anos.
 
 **Que vida leva.** A partir do teste, tudo muda. Um grau B recebe instrução pessoal do
 líder do clã e passa a ser criado como **candidato à liderança**. De um grau A a obra diz
@@ -235,7 +256,7 @@ em quatro alturas diferentes:
 - e um rank 8 diz, sobre a mesa onde as decisões do mundo realmente se tomam: ranks 6 e 7
   "nem estão qualificados a participar — e quanto a nós, rank 8, somos meros peões".
 
-Acima de tudo isso, em toda a história humana, apenas cerca de **dez** figuras alcançaram o
+Acima de tudo isso, em toda a história humana, **exatamente dez** figuras alcançaram o
 nível de Venerável. (Ver [[Ranks e Avanço]] e [[Tornar-se Venerável]].)
 
 O lamento canônico que fecha o assunto vem de um ex-líder de clã do caminho correto:
@@ -323,7 +344,7 @@ destino típico para herdeiros, ele terá de ser inventado `*`.
 | Mortal sem abertura | morte sem registro; muralha de carne em emergência |
 | Servo | — não enunciado como distinto do mortal; posição de informação, não de destino |
 | Escravo | ser gasto e abandonado quando deixa de compensar |
-| Aptidão baixa (grau C) | estagnação: décadas ou mais de um século no mesmo rank baixo |
+| Aptidão baixa (graus D e C) | estagnação: décadas ou mais de um século no mesmo rank baixo, porque o teto fica abaixo dos 55% da primeira ruptura |
 | Gênio (B, A, constituição extrema) | investimento do clã — e alvo (ded.); talento não garante nada |
 | Membro de clã ou seita | vida protegida e obediente (ded.); a obra afirma o custo: perda de liberdade |
 | Cultivador solitário | dois extremos canônicos: rank 8 sem apoio nenhum, ou purga organizada |
@@ -360,7 +381,7 @@ articulados, e várias delas testadas em cena contra suas rivais.
 | 8 | Estabilidade **contra** extremidade | durar sem correr risco × arriscar porque não há alternativa | o caminho correto × o caminho demoníaco |
 | 9 | Ressentimento e tomada | o céu foi injusto, então eu roubo | os preteridos por aptidão |
 | 10 | Sobrevivencialismo puro | abandonar toda pauta moral | a cúpula institucional da era tardia |
-| 11 | Reforma institucional | mudar a estrutura, não as pessoas | Primordial Origin Immortal Venerable |
+| 11 | Reforma institucional | mudar a estrutura, não as pessoas | o Venerável da Origem Primordial |
 
 ## Família A — o que fazer diante da morte
 
@@ -408,8 +429,8 @@ Veneráveis viram cinzas no fim"*. E a formulação mais leve de todas: *"quem n
 imortalidade verdadeira não existe. Desde que a vida seja vivida de forma interessante,
 basta."*
 
-**O que a obra faz com ela.** Dá razão factual a ela. Nenhum Venerável — os cerca de dez
-seres mais poderosos da história — jamais alcançou a vida eterna. Esta é, empiricamente,
+**O que a obra faz com ela.** Dá razão factual a ela. Nenhum Venerável — os dez seres mais
+poderosos que a história do mundo produziu — jamais alcançou a vida eterna. Esta é, empiricamente,
 **a posição mais bem sustentada pelos fatos do mundo**, e é o contra-argumento mais limpo à
 posição nº 1.
 
@@ -518,6 +539,16 @@ ingênua é suicídio, bondade competente é a coisa mais difícil que existe**.
 > um personagem decente sem que a mesa vire uma comédia de martírios. A resposta canônica é
 > "bondade prática" — objetivos realistas, métodos variados, disposição de sujar as mãos
 > sem trocar de lado. Vale como conceito de personagem inteiro, e o cenário o recompensa.
+>
+> **Como isso se encaixa com [[A Filosofia do Mundo]].** Aquela nota trata a mesma
+> personagem pelo outro lado — mostra que a bondade constante torna alguém previsível, e que
+> previsibilidade é alavanca para quem quiser usá-la — e conclui que o mundo **não** dá bônus
+> automático por altruísmo. As duas leituras se somam em vez de se anular, e a regra que sai
+> delas é única: **a recompensa da bondade nunca vem do universo, vem de pessoas, e demora.**
+> Em termos de sistema: não crie um mecanismo que devolva vantagem imediata por ato
+> altruísta; crie memória social — gente que se lembra e retribui por conta própria, anos
+> depois. A herança recebida pela mortal bondosa é exatamente isso, e não um bônus cósmico:
+> um Mestre Gu Imortal reparou nela, esperou, e decidiu.
 
 ## Família C — o que fazer diante da escassez
 
@@ -604,8 +635,8 @@ retórica moral funciona.
 
 ### 11. Reforma institucional
 
-**Quem sustenta.** Primordial Origin Immortal Venerable, o primeiro rank 9 da história (ver
-[[Os Arquitetos da Ordem]]).
+**Quem sustenta.** O Venerável Imortal da Origem Primordial (*Primordial Origin Immortal
+Venerable*), o primeiro rank 9 da história (ver [[Os Arquitetos da Ordem]]).
 
 **O argumento.** É a única posição do conjunto que ataca a **organização social** em vez do
 comportamento individual: se a humanidade quer se erguer, precisa expandir a população e
@@ -673,6 +704,11 @@ o tom:
 
 ## O pano de fundo metafísico
 
+`conhecimento: segredo` — **atenção, esta seção é a única desta nota que não é conhecimento
+comum.** Tudo o mais aqui se discute em praça pública; isto não. A formulação abaixo é
+matéria de mestre, e apresentá-la a jogadores como algo que seus personagens sabem
+desequilibra a mesa. Ver [[Vontade dos Céus]].
+
 Se a designer quiser um único esquema que amarre as onze posições, ele existe, e está na
 boca de um Venerável demoníaco (ver [[Os Criadores de Caminhos]]):
 
@@ -684,6 +720,11 @@ Ou seja: **o desejo humano é uma força em oposição estrutural ao equilíbrio
 As onze filosofias acima são onze maneiras diferentes de lidar com esse fato — negá-lo,
 abraçá-lo, adiá-lo, organizá-lo ou reformá-lo. Nenhuma delas o resolve.
 
+A explicação completa desse esquema — o que ele implica para as tribulações, e por que
+cultivar é estruturalmente uma afronta ao equilíbrio cósmico — mora em
+[[A Filosofia do Mundo]], seção 7, que é a nota dona do assunto. Aqui ele aparece só como o
+fundo comum contra o qual as onze posições se recortam.
+
 ## Regras do mundo
 
 1. **A fronteira entre mortal e Mestre Gu é política, não biológica.** Há talento entre os
@@ -694,9 +735,11 @@ abraçá-lo, adiá-lo, organizá-lo ou reformá-lo. Nenhuma delas o resolve.
 3. **O status do mortal muda de região para região.** No Sul ele se ajoelha diante de
    qualquer Mestre Gu; no Norte, guerreiros mortais só se ajoelham diante do céu, dos
    ancestrais e dos próprios anciãos.
-4. **Aptidão define velocidade, e velocidade define teto.** Grau C com pouco mais de 40% de
-   capacidade tem o rank 3 como barreira quase intransponível; mais de um século parado no
-   rank 2 é o desfecho documentado.
+4. **Aptidão é teto, não velocidade — e o teto é 55%.** A aptidão fixa que fração da
+   abertura a pessoa consegue encher; romper do rank 1 para o rank 2 exige 55% de uma só vez.
+   Um grau D (20–39%) nunca rompe sozinho; um grau C (40–59%) só rompe na faixa de 55% a 59%,
+   e para ele o rank 3 é quase intransponível. Mais de um século parado no rank 2 é o
+   desfecho documentado.
 5. **Talento não é destino.** Grau A pode morrer como peão; ranks altos exigem também
    planejamento, oportunidade e experiência, e a obra afirma que céu e terra tratam todos os
    seres como peões.
@@ -722,11 +765,12 @@ abraçá-lo, adiá-lo, organizá-lo ou reformá-lo. Nenhuma delas o resolve.
 
 ## O que todo personagem sabe
 
-Praticamente tudo desta nota é conhecimento comum: qualquer habitante do mundo conhece a
-divisão entre mortais e Mestres Gu, sabe o próprio grau de aptidão, entende o que significa
-não ter clã, e já ouviu defenderem em praça pública a busca da vida eterna, a aceitação da
-morte, o sacrifício pela humanidade e a liberdade como bem supremo. Filosofia, aqui, não é
-disciplina de elite: é conversa de taberna com consequência de vida ou morte.
+Quase tudo desta nota é conhecimento comum — as duas exceções estão listadas na seção
+seguinte. Qualquer habitante do mundo conhece a divisão entre mortais e Mestres Gu, sabe o
+próprio grau de aptidão, entende o que significa não ter clã, e já ouviu defenderem em praça
+pública a busca da vida eterna, a aceitação da morte, o sacrifício pela humanidade e a
+liberdade como bem supremo. Filosofia, aqui, não é disciplina de elite: é conversa de taberna
+com consequência de vida ou morte.
 
 ## O que só o mestre sabe
 
@@ -738,6 +782,9 @@ disciplina de elite: é conversa de taberna com consequência de vida ou morte.
 - Que o deslize institucional para o sobrevivencialismo puro (posição nº 10) é uma tendência
   histórica, e não a opinião isolada de um velho, é leitura de longo prazo disponível ao
   mestre e a quase ninguém dentro do mundo (ded.).
+- **O pano de fundo metafísico** — a oposição entre o modo do céu (equilibrar) e o modo dos
+  humanos (acumular) — é conhecimento de pouquíssimas figuras do topo do mundo. Ver
+  [[A Filosofia do Mundo]] e [[Vontade dos Céus]].
 
 ## Relações
 
@@ -748,6 +795,10 @@ disciplina de elite: é conversa de taberna com consequência de vida ou morte.
   biológico que produz gênios e preteridos.
 - [[Abertura]] · [[Essência Primordial]] — o que separa mortal de Mestre Gu.
 - [[Ranks e Avanço]] · [[Longevidade]] — a escala de poder e o prazo de cada vida.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números do vault: os graus de
+  aptidão, o limiar de 55% e a contagem dos Veneráveis saem de lá.
+- [[A Filosofia do Mundo]] — o tom do mundo e a metafísica que serve de fundo às onze
+  posições.
 - [[Tribulações e Calamidades]] — a conta que o cultivador solitário paga sozinho.
 - [[Cultura das Cinco Regiões]] — onde o status do mortal e do escravo muda de forma.
 - [[Sociedade Fora das Cinco Regiões]] — o mercado de escravos variantes.

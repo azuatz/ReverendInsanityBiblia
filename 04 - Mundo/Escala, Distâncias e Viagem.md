@@ -38,6 +38,16 @@ Fronteira Sul, leva de duas a três semanas de caravana.
 > declarados. `*` é **indução nossa**, sem base textual. `—` significa que a obra não informa.
 > Apagar tudo marcado com `*` devolve este documento a cem por cento canônico.
 
+> [!info] Quatro palavras que esta nota usa sem avisar
+> Você não precisa de nenhuma outra nota para usar esta. O mínimo:
+> **[[Ranks e Avanço|Rank]]** é o degrau de poder de um cultivador, do 1 ao 9; do rank 6 em
+> diante ele é chamado de **imortal**, e é aí que a mobilidade muda de ordem de grandeza.
+> **[[Pedras Primordiais|Pedra primordial]]** é a moeda dos mortais, e todos os preços desta
+> nota estão nela. **[[Abertura|Abertura]]** é o espaço interno onde um Mestre Gu guarda a
+> própria energia e os próprios objetos — importa aqui porque o teleporte só leva o que
+> estiver guardado dentro dela. E **[[Essência Primordial|essência]]** é essa energia: gastá-la
+> é o que torna caro voar.
+
 ## Por que esta nota existe
 
 Uma mesa faz constantemente perguntas que nenhuma nota de mecânica responde: dá para ir e
@@ -86,7 +96,8 @@ região**.
 > O Continente Central é descrito como tendo "mais de cinquenta milhões de quilômetros de
 > largura", o que é ordens de magnitude menor que as outras duas regiões se lido como área, e
 > absurdo se lido como largura. Trate como número não confiável — a obra descreve o
-> Continente Central como a região **mais forte**, não necessariamente a maior. O Mar Oriental
+> Continente Central como a região **mais forte**, não necessariamente a maior. Na prática:
+> **dimensione o centro pela mesma régua das outras, 3 a 5 bilhões de km²**. O Mar Oriental
 > e o Deserto Ocidental `—` não recebem área nenhuma.
 
 > [!note] Para o design
@@ -121,17 +132,26 @@ um dia inteiro não cobre um por cento dela.
 
 ### A escala da propriedade imortal
 
-Aqui a obra é excepcionalmente precisa — é a única categoria com tabela formal declarada no
-texto:
+Uma **terra abençoada** (*blessed land*) é o mundo em miniatura — com céu, terra e fluxo de
+tempo próprios — que nasce dentro de um cultivador quando ele ascende a imortal, e onde ele
+passa a morar. Aqui a obra é excepcionalmente precisa: é a única categoria com tabela formal
+declarada no texto.
 
-| Grau da terra abençoada | Área | Rendimento anual |
+| Grade da terra abençoada | Área | Rendimento anual |
 |---|---|---|
-| Baixo | até 2.000 km² | 10+ contas de essência imortal |
-| Médio | 2.700 a 4.000 km² | 20+ contas |
-| Alto | 4.700 a 6.000 km² | 30+ contas |
-| Super | mais de 6.700 km² | 50+ contas |
+| Baixa | até 2.000 km² | 10+ contas de uva-verde |
+| Média | 2.700 a 4.000 km² | 20+ |
+| Alta | 4.700 a 6.000 km² | 30+ |
+| Super | mais de 6.700 km² | 50+ |
 
-O contraste é o que importa: uma terra abençoada de grau alto tem cerca de 5.000 km² — uns
+Duas leituras da coluna da direita. A **conta** é a pérola de energia que a terra produz
+sozinha, e é o combustível pessoal do imortal, não moeda: ela não se transfere. E a
+denominação importa — os números acima são de **uva-verde**, a conta de **rank 6**, porque a
+tabela descreve a terra **no momento em que nasce**. Uma conta de rank 7 vale cerca de cem
+vezes mais por unidade, e comparar as duas sem converter produz um erro de duas ordens de
+grandeza. Ver [[Tabelas de Referência Rápida]], seções 5 e 9.
+
+O contraste é o que importa: uma terra abençoada de grade alta tem cerca de 5.000 km² — uns
 70 por 70 quilômetros, **menor que um único vale da região onde está**. A propriedade privada
 de um imortal é minúscula perto do mundo. Ver [[Blessed Lands e Grotto-Heavens]].
 
@@ -180,7 +200,8 @@ a diferença de força.
 tática**, não como inconveniência.
 
 **Montaria comum.** Barata a ponto de ser irrelevante no orçamento: um cavalo de carga custa
-menos de uma pedra primordial, contra as centenas que custa um Gu de rank 1. Cada região tem a
+menos de uma [[Pedras Primordiais|pedra primordial]], contra as centenas que custa um Gu de
+rank 1. Cada região tem a
 sua — cavalos de bucho grande e lobos-corcunda no norte, gaivotas-da-areia no oeste, camelos
 nas caravanas do deserto. Detalhe canônico delicioso: o lobo-corcunda é **mais rápido e mais
 barato** do que acionar um Gu de corrida de rank 4. Nem sempre a magia vence o animal.
@@ -210,7 +231,7 @@ inteiros que funcionam como redes comerciais e sustentam a riqueza de forças in
 suas limitações são o melhor design de item do cenário: exige **memória vívida e compreensão
 clara do destino** — não se teleporta para onde nunca se esteve; leva **três respirações** para
 ativar, e essa é uma janela real em que um inimigo pode impedi-lo; **não transporta roupas**
-nem objetos externos, só o que estiver guardado na abertura; e **fica mais caro conforme o
+nem objetos externos, só o que estiver guardado na [[Abertura|abertura]]; e **fica mais caro conforme o
 próprio usuário fica mais poderoso**, a ponto de um Gu que servia num patamar deixar de dar
 conta do dono no patamar seguinte.
 
@@ -226,8 +247,8 @@ caminho, as caravanas **recrutam gente nas aldeias da rota para repor as baixas*
 de pessoal é parte planejada da operação, e as aldeias mortais do caminho são infraestrutura,
 não cenário.
 
-Alguns números de bolso: manter-se na estrada exige uma reserva de **pelo menos dez mil pedras
-primordiais** para o básico, reposta de tempos em tempos; entrar numa cidade-clã custa **dez
+Alguns números de bolso: manter-se na estrada exige uma reserva de **pelo menos dez mil
+[[Pedras Primordiais|pedras primordiais]]** para o básico, reposta de tempos em tempos; entrar numa cidade-clã custa **dez
 pedras por pessoa**; certas montanhas cobram pedágio ritualizado, com as caravanas disputando
 queda de braço contra quem controla o desfiladeiro.
 
@@ -279,10 +300,12 @@ mais forte o viajante, mais difícil a travessia.**
 
 | Quem atravessa | Custo |
 |---|---|
+| Ranks 1 a 3 | `—` a obra não cronometra |
 | Mestre Gu de rank 4 | cerca de **cinco minutos**, e foi "muito fácil" |
-| Imortais de rank 6 a 7, abrindo passagem | ~8 minutos na primeira barreira; **um dia e uma noite** de sofrimento na segunda |
-| Rank 8 | **incontáveis vezes** mais difícil que para um rank 6; travessias deixam rank 8 gravemente feridos |
+| Imortal de rank 6, primeira barreira | ~8 minutos abrindo passagem |
+| Imortal de rank 6 a 7, segunda barreira | **um dia e uma noite** de sofrimento |
 | Rank 7 | a travessia pode **matar** |
+| Rank 8 | **incontáveis vezes** mais difícil que para um rank 6; sai gravemente ferido. `—` sem número |
 | Rank 9 | as barreiras já não obstruem |
 
 A barreira ainda **se regenera enquanto se cava**, o que impede que a passagem seja aberta com
@@ -322,21 +345,27 @@ calma. Ver [[As Cinco Regiões]].
 
 As medidas mais úteis para calibrar uma mesa, num lugar só.
 
+> [!warning] Esta tabela é cópia de consulta, não é a fonte
+> Todos os valores abaixo vivem em
+> [[Tabelas de Referência Rápida#13. Escala, distância e viagem|Tabelas de Referência Rápida]],
+> que é a fonte soberana dos números do vault. Esta tabela existe só para caber numa tela.
+> **Se um valor daqui divergir de lá, vale o de lá** — e a linha daqui está errada.
+
 | # | Âncora | Valor |
 |---|---|---|
 | 1 | Unidade base | 1 li = 500 m |
 | 2 | Uma região | ~5 bilhões de km² (10× a Terra) |
 | 3 | Distância trivial entre vizinhos | 100 li = 50 km |
-| 4 | Terra abençoada de grau alto | ~5.000 km² (~70 × 70 km) |
+| 4 | Terra abençoada de grade alta | ~5.000 km² (~70 × 70 km) |
 | 5 | Caravana: atravessar uma montanha grande | 20+ dias |
 | 6 | Caravana: de uma montanha à vizinha | 15 a 20 dias |
 | 7 | Caravana passa por uma vila dada | 1 vez por ano |
 | 8 | Voo mortal (rank 3-4) através de uma terra enorme | 3 a 6 dias, pausas de 4 h |
-| 9 | Voo imortal, uma perna sem descanso | 50.000 a 100.000 li |
+| 9 | Voo imortal, uma perna sem descanso | 100.000 li (50.000 km) |
 | 10 | Montaria imortal | ~800 km/h `(ded.)` |
 | 11 | Atravessar uma região voando | 10 a 15 dias |
 | 12 | Barreira regional, rank 4 | ~5 minutos |
-| 13 | Barreira regional, rank 8 | dias, com ferimentos graves |
+| 13 | Barreira regional, rank 8 | incontáveis vezes mais difícil que para um rank 6; sai gravemente ferido `—` a obra não cronometra |
 | 14 | Ativação do teleporte pessoal | 3 respirações |
 | 15 | Montaria comum | menos de 1 pedra primordial |
 | 16 | Pedágio de cidade-clã | 10 pedras por pessoa |

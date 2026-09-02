@@ -11,7 +11,7 @@ aliases:
   - Escala do mundo
   - Transporte
 status: consolidado
-fontes: ["cap. 29", "cap. 39", "cap. 45", "cap. 46", "cap. 111", "cap. 150", "cap. 159", "cap. 161", "cap. 162", "cap. 168", "cap. 188", "cap. 200", "cap. 206", "cap. 211", "cap. 222", "cap. 225", "cap. 232", "cap. 233", "cap. 234", "cap. 235", "cap. 239-265", "cap. 275", "cap. 307", "cap. 334", "cap. 341", "cap. 358", "cap. 364", "cap. 405", "cap. 407", "cap. 416", "cap. 418", "cap. 420", "cap. 423-425", "cap. 427", "cap. 429", "cap. 430", "cap. 434", "cap. 436", "cap. 439", "cap. 441", "cap. 445", "cap. 450", "cap. 451", "cap. 453", "cap. 459-466", "cap. 470", "cap. 473", "cap. 482", "cap. 486", "cap. 504", "cap. 507", "cap. 525", "cap. 528", "cap. 543", "cap. 545", "cap. 548", "cap. 549", "cap. 553", "cap. 556", "cap. 582", "cap. 587", "cap. 593", "cap. 605", "cap. 609", "cap. 654", "cap. 658", "cap. 673", "cap. 677", "cap. 680", "cap. 688", "cap. 695", "cap. 702", "cap. 707", "cap. 710", "cap. 714", "cap. 718", "cap. 728", "cap. 730", "cap. 737", "cap. 739", "cap. 837", "cap. 892", "cap. 893", "cap. 894", "cap. 928-935", "cap. 939", "cap. 955", "cap. 960", "cap. 962", "cap. 967", "cap. 1032", "cap. 1035", "cap. 1042", "cap. 1060", "cap. 1086", "cap. 1156", "cap. 1174", "cap. 1211", "cap. 1260", "cap. 1289", "cap. 1307", "cap. 1513", "cap. 1567", "cap. 1589", "cap. 1594", "cap. 1617", "cap. 1766", "cap. 1769", "cap. 1916", "cap. 1967", "cap. 2039", "cap. 2059", "cap. 2108", "cap. 2127", "cap. 2140"]
+fontes: ["cap. 29", "cap. 39", "cap. 45", "cap. 46", "cap. 111", "cap. 150", "cap. 159", "cap. 161", "cap. 162", "cap. 168", "cap. 188", "cap. 200", "cap. 201", "cap. 206", "cap. 211", "cap. 222", "cap. 225", "cap. 232", "cap. 233", "cap. 234", "cap. 235", "cap. 239-265", "cap. 275", "cap. 307", "cap. 334", "cap. 341", "cap. 358", "cap. 364", "cap. 405", "cap. 407", "cap. 416", "cap. 418", "cap. 420", "cap. 423-425", "cap. 427", "cap. 429", "cap. 430", "cap. 434", "cap. 436", "cap. 439", "cap. 441", "cap. 445", "cap. 450", "cap. 451", "cap. 453", "cap. 459-466", "cap. 470", "cap. 473", "cap. 482", "cap. 486", "cap. 504", "cap. 507", "cap. 525", "cap. 528", "cap. 543", "cap. 545", "cap. 548", "cap. 549", "cap. 553", "cap. 556", "cap. 582", "cap. 587", "cap. 593", "cap. 605", "cap. 609", "cap. 654", "cap. 658", "cap. 673", "cap. 677", "cap. 680", "cap. 688", "cap. 695", "cap. 702", "cap. 707", "cap. 710", "cap. 714", "cap. 718", "cap. 728", "cap. 730", "cap. 737", "cap. 739", "cap. 837", "cap. 892", "cap. 893", "cap. 894", "cap. 928-935", "cap. 939", "cap. 955", "cap. 960", "cap. 962", "cap. 967", "cap. 1032", "cap. 1035", "cap. 1042", "cap. 1060", "cap. 1086", "cap. 1156", "cap. 1174", "cap. 1211", "cap. 1228", "cap. 1260", "cap. 1289", "cap. 1307", "cap. 1513", "cap. 1567", "cap. 1589", "cap. 1652", "cap. 1653", "cap. 1654", "cap. 1655", "cap. 1656", "cap. 1594", "cap. 1617", "cap. 1766", "cap. 1769", "cap. 1916", "cap. 1967", "cap. 2039", "cap. 2059", "cap. 2108", "cap. 2127", "cap. 2140"]
 conhecimento: comum
 ---
 
@@ -258,6 +258,87 @@ precisar de um preço, ele terá de ser inventado — sugestão calibrada pelos 
 `*` algumas dezenas de pedras primordiais por trecho de montanha, ou trabalho de escolta em
 troca.
 
+## Pela água
+
+A escada acima é toda terrestre e aérea. A água é um capítulo à parte, e a regra que a governa é
+mais dura do que qualquer outra desta nota.
+
+### O rio
+
+**A jangada é o transporte fluvial do mundo mortal**, e a obra descreve uma inteira: bambu
+cortado na hora, um mastro tosco no meio, uma vela branca puxada, cordas de cânhamo que se
+soltam e precisam ser reamarradas durante a viagem, mercadoria empilhada em volta do mastro para
+firmar o centro. Cinco dias de descida de rio. E o rio não é seguro: um cardume de peixes-espada
+selvagens fura a jangada por baixo até ela quase se desfazer, e a saída é usar a vela para
+encalhar numa praia antes de afundar.
+
+> [!warning] `—` Este mundo não tem ponte nem balsa
+> Uma varredura dedicada dos seis volumes não encontra **nenhuma travessia de rio por ponte de
+> madeira ou de pedra usada por população comum, e nenhum barqueiro de balsa** — a palavra
+> "balsa" no sentido de travessia paga simplesmente não aparece. As pontes que existem são
+> decorativas (uma ponte de pedra num jardim particular) ou **mágicas**: uma ponte de ouro que se
+> estende no ar sobre um abismo, uma ponte de arco-íris que se forma como escadaria, uma ponte de
+> jade que se projeta de um sol em miniatura — todas criadas por um cultivador na hora e desfeitas
+> depois.
+>
+> A leitura é dura e consistente com o resto do cenário: **atravessar um rio é uma dificuldade
+> real para quem não tem poder**, e para quem tem, é trivial e não deixa rastro. Se a sua campanha
+> quiser uma ponte antiga de pedra com um pedágio, ela é sua para inventar — e será um acréscimo
+> visível, não uma reconstituição.
+
+### O mar
+
+A frase que resume tudo é da própria obra: **"para os Mestres Gu, o mar era muito profundo; para
+os Gu Imortais, a água em volta da ilha ainda era muito rasa."**
+
+**O mortal fica onde nasceu.** Não há travessia transoceânica de mortal em toda a obra. As
+comunidades de ilha vivem de pesca e coleta, e a mesma lógica que prende um clã à sua montanha
+prende uma vila à sua ilha `(ded.)`. Mergulhar no mar profundo para colher óleo negro é
+descrito, com todas as letras, como **"algo que só mortais fariam"** — é trabalho braçal de
+subsistência, não aventura.
+
+**As duas regras do mergulho**, que a obra dá de graça e que funcionam como mecânica de mesa:
+
+1. **A superfície engana.** "Na superfície o mar estava calmo, mas debaixo dele as correntes
+   submarinas surgiam, o perigo espreitava por toda parte."
+2. **Luz atrai.** "O mar profundo era complexo, não se podia acender luz sem cuidado, ou
+   predadores poderiam ser atraídos até você sem que percebesse."
+
+**As correntes submarinas são a estrada expressa do Mar Oriental** — e este é o achado de
+transporte mais subaproveitado do cenário inteiro. Uma corrente é descrita como "um dragão ou
+píton sem forma" que **abre um túnel de água no fundo do mar**; quem entra nela é levado a uma
+velocidade que **supera os golpes imortais comuns de movimento**. Três consequências:
+
+- **Existem caravanas submarinas.** As correntes "formam uma rota natural para o transporte de
+  mercadorias", e algumas das maiores potências do Mar Oriental mantêm caravanas que descem ao
+  fundo com Gu apropriados, pegam a correnteza e percorrem **dez mil, ou até cem mil li** em pouco
+  tempo para negociar. É uma rede logística inteira invisível da superfície.
+- **Existe um tipo de mapa só para elas.** A obra o descreve como um mapa precioso que **não
+  registra as ilhas nem a superfície do mar** — só as correntes. É um item de valor extraordinário
+  e uma classe de bem em si.
+- **E ele estraga.** As correntes profundas "não têm caminhos fixos, estão sempre mudando e têm
+  comprimentos variados". Um mapa de correntes é um ativo **perecível** — exatamente como as
+  rotas de travessia da maré de terra descritas em [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]].
+
+> [!note] Para o design
+> Aqui está uma economia inteira embalada: uma rede de estradas rápidas que **ninguém vê**, que
+> **muda sozinha**, cujo mapa é caro, raro e vence com o tempo, e cujo acesso exige equipamento
+> específico. Cartógrafo submarino é uma profissão pronta; roubar um mapa de correntes é um golpe
+> pronto; e "a rota mudou desde a última vez" é uma reviravolta que não precisa de vilão.
+
+**Barco de gente grande.** Quem tem poder não usa casco: usa **casa**. As embarcações de nível
+imortal do mundo são *casas de Gu Imortal* em forma de navio, e a obra as classifica sem
+delicadeza — "todas elas podiam ser consideradas fortalezas de guerra". Servem para combater, para
+evacuar em massa e para duelo formal, não para comércio civil.
+
+**E existe barco vivo.** Uma espécie do Mar Oriental — o elefante-d'água — cresce com um
+exoesqueleto de jade azul nas costas que tem a forma de um prédio, e o **número de andares desse
+prédio é a escala de poder do bicho**: um andar já é do tamanho de um barco; seis andares tem as
+costas largas como um navio grande e já é fera desolada; sete, fera desolada antiga; oito, fera
+desolada imemorial, extremamente rara. **De nove andares não existe.** São negociados entre
+imortais como mercadoria de altíssimo valor. Ver
+[[17 - As Plantas e os Bichos Comuns|As Plantas e os Bichos Comuns]].
+
 ## A velocidade da informação
 
 Decide se o socorro chega. Existe uma família inteira de **Gu de carta**, escalonada por rank —
@@ -340,6 +421,12 @@ calma. Ver [[04 - As Cinco Regiões|As Cinco Regiões]].
     reconhecida.
 13. **Não passa carta entre regiões** sem um Gu Imortal do caminho da informação.
 14. **Atravessar uma barreira regional é mais fácil para os fracos e pode matar os fortes.**
+15. **Não existem pontes nem balsas para gente comum.** Rio se atravessa de jangada improvisada,
+    ou não se atravessa.
+16. **Nenhum mortal faz travessia marítima longa.** Vila de ilha é vila presa.
+17. **As correntes submarinas do Mar Oriental são estradas expressas**, mais rápidas que magia de
+    movimento comum, mapeadas por um item raro e caro que **perde a validade** porque as correntes
+    mudam de traçado.
 
 ## Tabela de âncoras
 

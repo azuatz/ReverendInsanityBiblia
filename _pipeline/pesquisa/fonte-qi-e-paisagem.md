@@ -425,4 +425,307 @@ cinco regiões faz esse qi historicamente compartimentado se misturar em "qi tid
 violentas e imprevisíveis, redesenhando as regras que vigoraram durante toda a história
 anterior do mundo.
 
+---
+
+## FRENTE B — A paisagem moldada pelo passado
+
+### 8. Que acidentes geográficos do mundo atual foram criados por acontecimentos antigos?
+
+- **A planície gelada do norte (northern icy plain)**, em Northern Plains, foi criada
+  inteiramente por um único Venerável (rank 9), sozinho: "the northern icy plain was
+  created by Reckless Savage Demon Venerable in the past singlehandedly. This is an icy
+  plain without any land." (cap. 1098, Volume 5). Ela carrega até hoje o "true meaning"
+  (significado verdadeiro/essência de comportamento de combate) desse Venerável, a ponto
+  de um Mestre Gu que ascende a imortal exatamente ali "evocar" esse legado e ganhar
+  vantagem em atributos de transformação ou força: "when a Gu Master underwent immortal
+  ascension in the northern icy plain, they would evoke Reckless Savage true meaning...
+  they could gain a huge boost in their transformation path or strength path attainment
+  levels." (cap. 1552, Volume 5). Além disso, essa planície tem heaven and earth qi mais
+  escasso que outros lugares (ver tópico 2) e é fisicamente instável: consumir qi de céu e
+  terra demais ali (por muitos Gu Immortals passando por tribulação ao mesmo tempo) faz
+  "os glaciares se estilhaçarem" e o lugar inteiro ficar instável (cap. 1098, Volume 5).
+- **A Cordilheira das Cinco Regiões (Five Regional Mountain Range)** foi artificialmente
+  criada por um "Restriction Expert" (especialista em restrições) chamado Tao Zhu, que
+  **replicou o efeito das paredes regionais reais** dentro dessa cadeia de montanhas: "this
+  Five Regional Mountain Range was created by Restriction Expert, who replicated the
+  regional walls. Once Gu Immortals enter, it would be like they were passing the regional
+  walls." (cap. 1042-1043, Volume 5) — ou seja, uma feição geográfica projetada
+  deliberadamente para imitar em miniatura a própria física de barreira regional do mundo.
+- **Uma cratera de "morte por almas" (slaughter soul crater)**, na Cordilheira Sorrowful
+  Wind, foi formada pela violência de uma luta entre imortais: "This slaughter soul crater
+  was created by the fight between immortals, before it calms down completely, we have a
+  lot of opportunities to get rich here." (cap. 2092, Volume 6) — mostrando que crateras
+  de batalha viram, depois, pontos de garimpo de recursos até "esfriarem" completamente.
+- **Uma cratera de "maré de sangue" (blood tide pit)** foi deliberadamente cavada por um
+  clone do Venerável Giant Sun conhecido como Blood Sea Ancestor, e não é uma formação
+  natural: "this blood tide pit was not naturally formed, it was created by Blood Sea
+  Ancestor on purpose?" (cap. 1339, Volume 5).
+- **Lagos podem ser criados como subproduto de manipulação de qi em pequena escala**: dentro
+  da própria terra abençoada de Fang Yuan, uma série de lagos nasceu do processo de reverter
+  o fluxo de água para apagar um incêndio — e, anos depois, esses lagos já sustentam um
+  pequeno ecossistema próprio (lobos-d'água, carpas, porcos-de-terra que vêm beber):
+  "These lakes were created by him drawing in the water in reverse to quench the fire...
+  Now, many water wolves were living around these lakes." (cap. 490, Volume 3). Isto é uma
+  escala pequena e pessoal (dentro de uma terra abençoada, não no mapa geral do mundo), mas
+  mostra o princípio geral de que manipulação de qi/água em grande volume deixa marcas
+  geográficas duradouras que passam a abrigar vida nova.
+- **A Emperor City** (Cidade Imperial) de Central Continent foi fundada pelo Venerável
+  Primordial Origin e, apesar de ter sido realocada e reconstruída fisicamente várias vezes
+  ao longo da história, sempre volta a se assentar sobre o rastro físico da "veia humana"
+  principal daquela região — ver citação completa no tópico 5 (cap. 1931, Volume 5).
+- Termos testados sem qualquer resultado relevante adicional além do já citado: "was formed
+  when" (1 ocorrência em Volume 5, 1 em Volume 6 — nenhuma delas descreve geografia; são
+  usos genéricos da frase em outro contexto), "collapsed into" (1 ocorrência em Volume 5,
+  sem relação com geografia).
+
+### 9. O que cada era deixou fisicamente no mapa
+
+A obra usa os nomes **Immemorial Antiquity, Remote Antiquity, Olden Antiquity** (não
+"Ancient Antiquity" — esse é o nome usado nas buscas do briefing, mas o termo real da
+tradução em inglês é "Olden Antiquity"), **Medieval Antiquity e Late Antiquity**, nesta
+ordem cronológica, antes da era atual: "The way of Gu originated from the Immemorial
+Antiquity era, and Ren Zu was the first Gu Master who used Gu worms. After that, there was
+the Remote Antiquity era, Olden Antiquity era, Medieval Antiquity era, followed by the Late
+Antiquity era." (cap. 522, Volume 3).
+
+- **Immemorial Antiquity (era imemorial) — a marca física mais radical de todas: céu e
+  terra eram fisicamente conectados.** "The sky of the Immemorial Antiquity Era was
+  connected to the ground. Heaven and earth were connected and whole, people could walk
+  towards the sky from the ground, or walk towards the ground from the sky." (cap. 722,
+  Volume 4). Nessa era, existiam **nove céus** (immemorial nine heavens) de cores diferentes
+  que se revezavam pairando sobre as cinco regiões em intervalos fixos: "the immemorial
+  nine heavens, white, red, orange, yellow, green, azure, blue, purple, black, would take
+  turns to loom over the five regions at set intervals." (cap. 722, Volume 4). Havia também
+  muito poucos humanos no mundo, que era dominado por "variant humans" (humanos variantes,
+  como os beastmen e rockmen): "During the Immemorial Antiquity Era and the Remote
+  Antiquity Era, variant humans were in control of most of the world... there were very few
+  humans in the world." (cap. 871, Volume 4).
+  - **O que restou fisicamente dessa era:** um evento catastrófico causado pelos "filhos de
+    Ren Zu" ("Ren Zu's children" — Ren Zu é o primeiro Mestre Gu da história) destruiu sete
+    dos nove céus, deixando só o céu branco e o céu negro (que hoje se revezam no lugar dos
+    nove): "seven of the nine heavens were destroyed by Ren Zu's children, right now, only
+    black and white heaven were left alternating in the sky." (cap. 740, Volume 4). Os
+    pedaços dos sete céus destruídos **caíram fisicamente dentro das cinco regiões** como
+    "fragment worlds" (mundos-fragmento) que sobrevivem até hoje como bolsões isolados de
+    recursos únicos — ex.: "wind knot grass" (relva de nó de vento) só existe em fragmentos
+    do extinto céu verde (cap. 912, Volume 4); "concealing heaven dust" (pó de ocultação
+    celestial) só existe em fragmentos do extinto céu amarelo (cap. 871, Volume 4). Esses
+    fragmentos foram se espalhando pelas cinco regiões ao longo de gerações: "During Star
+    Constellation Immortal Venerable's era, many fragment worlds of the immemorial nine
+    heavens fell into different areas of the five regions." (cap. 912, Volume 4). Um
+    grotto-heaven que consegue "engolir" um desses fragmentos ganha poder praticamente
+    ilimitado e passa a não sofrer mais tribulações — mas em troca perde a liberdade de se
+    mover fora da própria abertura para sempre (cap. 740, Volume 4).
+  - **Ascending Heaven Plain (Planície de Ascensão ao Céu)**, uma passagem em Eastern Sea
+    que antigamente permitia até a um mortal entrar nos nove céus imemoriais a pé, também
+    foi atingida por essa catástrofe e ficou permanentemente mais perigosa: "after the havoc
+    caused by Ren Zu's children, many of the immemorial heavens were destroyed, even
+    Ascending Heaven Plain was implicated. Ascending Heaven Plain was no longer as safe as
+    during the Immemorial Antiquity Era, the space path dao marks here were complex like
+    interlinked spider webs, and they were changing all the time." (cap. 986, Volume 4).
+- **Remote Antiquity:** além de continuar sendo a era de domínio dos "variant humans" (ver
+  acima), é a era de origem de grandes figuras cujo legado material ainda existe — ex.:
+  "Old Eccentric Tian Nan, a refinement path supreme grandmaster from the Remote Antiquity
+  Era" deixou uma "true inheritance" (herança verdadeira, um legado de conhecimento/recursos)
+  guardada dentro da própria Ascending Heaven Plain, ainda disputada por clãs no presente da
+  trama (cap. 899, Volume 4; ver também citação sobre Ascending Heaven Plain no tópico 12).
+- **Late Antiquity:** deixou pelo menos uma construção (Gu House, uma "casa" viva feita de
+  Gu) ainda em uso hoje: "this Gu House was created by the Late Antiquity Era's Three
+  Thatch Demon Immortal, it used up almost all of his wealth." (cap. 811, Volume 4) — um
+  imóvel funcional herdado ao longo de gerações de donos.
+- **(DEDUÇÃO)** — não encontrei, nas buscas feitas, uma descrição equivalente e explícita
+  do que sobrou fisicamente da era **Olden Antiquity** e **Medieval Antiquity**
+  especificamente (as buscas por esses dois nomes retornaram menções de personagens e
+  eventos históricos ligados a essas eras, mas nenhuma no formato "isto no mapa hoje é
+  herança física daquela era" equivalente às citações acima). Isso é lacuna de busca, não
+  afirmação de que a obra nada diz sobre isso.
+
+### 10. Mecanismo geral de formação de um "secluded domain of heaven and earth" (domínio recluso de céu e terra)
+
+- **Lista canônica dos domínios reclusos conhecidos**, citada de uma só vez a partir do
+  livro histórico da obra <<The Legends of Ren Zu>> (As Lendas de Ren Zu): "There were many
+  secluded domains of heaven and earth recorded in <<The Legends of Ren Zu>>. For time
+  path, there was the River of Time, for space path, there was space cave, also know as
+  space door. For qi path, there was Xi Land and Hu Land. For rule path, there was Reverse
+  Flow River, Cheng Bai Mountain, and Miniscule Mountain. For information path, there was
+  Qian Kun Crystal Wall, Whisper Forest... and for soul path, there was Dang Hun Mountain
+  and Luo Po Valley..." (cap. 2099, Volume 6). Ou seja: **cada domínio recluso está
+  associado a um "path" (caminho de cultivo) específico** — um domínio do caminho do tempo,
+  um do caminho do espaço, um do caminho da alma etc.
+- **Mecanismo de formação artificial, documentado com um exemplo concreto:** o clã Xia de
+  Eastern Sea passou anos tentando criar deliberadamente um "human path secluded domain"
+  (domínio recluso do caminho humano) chamado **Human Sea (Mar Humano)**, que é reabastecido
+  **matando humanos em massa**: "To replenish Human Sea, he only needed to kill enough
+  humans... Human Sea was the work of Xia clan for many years, they were attempting to
+  create a human path secluded domain in secret." (cap. 1983, Volume 6). Depois, o clã Chai
+  de Southern Border, tendo estudado o Human Sea, criou um segundo projeto irmão chamado
+  **Human Mountain (Montanha Humana)**: "Southern Border's Chai clan gained some key
+  comprehension from Human Sea, they started to create a similar artificial secluded domain
+  — Human Mountain." (cap. 1983, Volume 6). Segundo especialistas do caminho da sabedoria da
+  época, **se Human Sea e Human Mountain fossem fundidos, o resultado se tornaria um domínio
+  recluso de verdade** (ainda incompleto até lá): "Wisdom path Gu Immortals of that time had
+  deduced that if Human Sea and Human Mountain were fused together into one, they could form
+  an actual secluded domain of heaven and earth!" (cap. 1983, Volume 6). **(DEDUÇÃO por
+  analogia)** — o padrão sugerido por esse único caso documentado é: acumular, num mesmo
+  local, uma quantidade massiva de marcas de dao de um único caminho (aqui, morte humana em
+  massa = marcas do caminho humano) até ultrapassar um limiar que muda a natureza física do
+  lugar. A obra não generaliza essa regra para os outros seis domínios da lista acima —
+  apenas mostra este caso específico do caminho humano.
+- Fora desse experimento artificial, a maioria dos domínios reclusos citados na obra parece
+  já existir **desde os tempos imemoriais**, sem uma cena de "nascimento" narrada — eles são
+  tratados como partes antigas e originais do mundo, catalogadas em registros históricos
+  como <<The Legends of Ren Zu>> (cap. 2099, Volume 6), não como algo que os personagens
+  observam se formar diante deles (com a única exceção documentada sendo o par
+  Human Sea / Human Mountain).
+- Termo buscado sem resultado relevante adicional: "dao marks" combinado com "saturate" (0
+  ocorrências em nenhum volume).
+
+### 11. Como marcas de dao no terreno mudam o comportamento do lugar
+
+- **Clima (temperatura) — exemplo direto e mecânico:** dentro de uma blessed land, um
+  personagem redistribui deliberadamente as marcas de dao do caminho do fogo para debaixo
+  do solo (formando magma junto com marcas do caminho da terra), e o efeito imediato na
+  superfície é queda de temperatura e mudança no comportamento das nuvens: "Outside of the
+  islands, the temperature fell down rapidly because of the decrease in fire path dao
+  marks. The light clouds that were floating in the sky would no longer accumulate by
+  itself." (cap. 2312, Volume 6). Isso mostra, de forma inequívoca, que **a concentração de
+  marcas de dao de um caminho específico controla diretamente uma variável climática física
+  daquele lugar** — aqui não é dedução, é mecanismo mostrado em ação.
+- **Fauna e recursos — a quantidade de marcas de dao determina se um Gu Imortal consegue
+  "sobreviver" ali dentro:** ao invadir uma blessed land alheia, um Gu Immortal é
+  literalmente **suprimido em proporção à quantidade de marcas de dao daquele local**
+  comparada às marcas de dao gravadas no próprio corpo imortal do invasor: "when Gu
+  Immortals invade blessed land, the more dao marks in the blessed land, the more
+  suppression the Gu Immortal would feel. In contrast, the more dao marks on the Gu
+  Immortal's body, the less suppression they would experience." (cap. 821, Volume 4). O
+  oposto também é verdadeiro e perigoso: um imortal com dao marks demais para o local pode
+  literalmente destruir aquele domínio ao entrar nele: "these fragment worlds had sparse dao
+  marks, they were far fewer than the dao marks in his body. If Fang Yuan entered them, it
+  would be like a tiger entering a rabbit's cage, the only result would be that the fragment
+  world would burst, causing the fragment world's dao marks to be destroyed." (cap. 821,
+  Volume 4).
+- **Segurança/comportamento do terreno em si:** em Ascending Heaven Plain, o excesso de
+  marcas de dao do caminho do espaço (após a catástrofe da era imemorial, tópico 9) faz o
+  próprio espaço do lugar se comportar de forma instável e ativa: "the space path dao marks
+  here were complex like interlinked spider webs, and they were changing all the time...
+  full of life threatening traps. Even Gu Immortals would suffer terrifying damage from the
+  space path dao marks here if they were careless." (cap. 986, Volume 4) — ou seja, marcas
+  de dao descontroladas viram, na prática, armadilhas ambientais.
+- **Recursos que "nascem do zero":** marcas de dao acumuladas o suficiente numa immortal
+  aperture soberana fazem materiais nascerem onde antes não havia nada, subindo de grau
+  conforme mais marcas se acumulam: "Dao marks affected the entire sovereign immortal
+  aperture, allowing it to produce resources gradually from a blank state. It started with
+  mortal Gu materials, after dao marks accumulated, a qualitative change would occur,
+  becoming immortal level Gu materials." (cap. 2109, Volume 6).
+- **O Sol como caso-limite:** o Sol do mundo de Reverend Insanity é descrito como uma
+  "congregação" tangível (mas não sólida) de marcas de dao dos caminhos do céu, da luz e do
+  fogo, acumulada continuamente desde o início do mundo — funcionando, na prática, como uma
+  tribulação permanente: "The sun is a congregation of heaven path, light path, and fire
+  path dao marks, it is tangible but not solid. It can be seen as a tribulation that has
+  been ongoing for countless years, it had started accumulating since the start of the
+  world." (cap. 2277, Volume 6). Termos buscados sem resultado: "gravity" aparece nos
+  volumes 1, 4 e 5, mas sempre em descrições comuns de física de combate (algo "desafiando a
+  gravidade"), nunca como efeito de marcas de dao alterando a gravidade de um lugar
+  especificamente — não encontrei esse mecanismo na obra.
+
+### 12. Grandes construções antigas ainda de pé, e o que sobrou delas
+
+- **Heavenly pillars (pilares celestes)** não são "construções" no sentido de arquitetura
+  erguida por mãos — são, eles próprios, **materiais imortais de rank 9 do caminho do céu**
+  que sustentam fisicamente partes do céu: "This is a heavenly pillar. Each heavenly pillar
+  is a rank nine heaven path immortal material! Back then, Central Continent's Tian Ti
+  Mountain could connect to Heavenly Court because it had a heavenly pillar." (cap. 2267,
+  Volume 6) — ou seja, a existência de um pilar celeste é o que fisicamente ligava uma
+  montanha do Central Continent (Tian Ti Mountain — "tian ti" remete a algo como "escada
+  celestial/degraus do céu") ao próprio Heavenly Court (a Corte Celestial). Destruir pilares
+  celestes é um ato de guerra de nível cósmico: o Venerável Spectral Soul, para acelerar a
+  fusão dos dois céus (branco e negro) que restaram da era imemorial, destrói
+  deliberadamente vários pilares celestes, "heavenly chasms" (abismos celestiais) e o
+  próprio Sol: "he had destroyed the heavenly chasm, heavenly pillars, and the various white
+  heaven grotto-heavens... he even went as far as to destroy the sun, it was all to unify
+  the two heavens." (cap. 2333, Volume 6).
+- **Ascending Heaven Plain** (tópicos 9 e 11) segue de pé e funcional até o presente da
+  trama, mas degradada e perigosa — ainda é usada por clãs de Eastern Sea que competem pela
+  herança de "Old Eccentric Tian Nan" guardada lá dentro (Volume 4, arco em torno do cap.
+  751-985).
+- **Emperor City / Divine Emperor City**, em Central Continent, segue de pé desde a era do
+  Venerável Primordial Origin, tendo sido realocada e reconstruída várias vezes ao longo da
+  história mas sempre no rastro da "veia humana" principal da região — ver citação completa
+  no tópico 5 (cap. 1931, Volume 5); mais tarde ela é fisicamente fundida com outra
+  construção (Divine Bean Palace, do Venerável Genesis Lotus) para formar Divine Emperor
+  City (Volume 6).
+- **(DEDUÇÃO)** — não encontrei no texto uma construção descrita explicitamente como
+  "muralha" (wall) ancestral ainda de pé no sentido arquitetônico pedido pelo briefing
+  (fortificação defensiva antiga); as "paredes" mais relevantes da obra são as "regional
+  walls" (paredes regionais), mas essas são um fenômeno de campo de qi, não uma construção
+  física erguida — ver tópico 2 e 4.
+
+### 13. Espécies extintas ou quase extintas, e por quê
+
+- **Qi grand lion (leão grandioso do qi):** um dos poucos desolate beasts (bestas
+  desoladas, categoria de fera equivalente em força a um Gu Immortal) que domina correntes
+  de ar e voa; a obra afirma que **está quase extinto nas cinco regiões e só sobrevive em
+  números relevantes nos dois céus** (white heaven / black heaven): "This qi grand lion has
+  qi path dao marks on its body, once it matures, it can soar through the skies. But this
+  type of lion is very rare now, it is almost extinct in the five regions, it can only be
+  seen in white heaven and black heaven now." (cap. 1035, Volume 5). A obra não afirma
+  explicitamente a causa da quase-extinção nas cinco regiões — não há uma frase do tipo
+  "foram caçados até sumir" ou "o qi diminuiu e eles não puderam mais nascer"; é uma
+  correlação implícita entre "escassez nas cinco regiões" e "abundância nos dois céus" que
+  fica sem explicação causal expressa no texto (marco isso como lacuna, não dedução minha).
+- **Cloud beasts (bestas-nuvem):** mesmo padrão exato do qi grand lion — quase extintas nas
+  cinco regiões, mas ainda existem em grupos nos dois céus: "Cloud beasts were extremely
+  rare, not just in Southern Border, but also the other four regions. It was no exaggeration
+  to say that they were nearly 'extinct'." (cap. 1044, Volume 5); "Cloud beasts are nearly
+  extinct in Southern Border, even if they exist, they would only be a group of one or two
+  desolate level cloud beasts. Groups of ancient cloud beasts like this only exist in white
+  heaven and black heaven now." (cap. 1044, Volume 5). **(DEDUÇÃO)** — o padrão repetido de
+  "quase extinto nas cinco regiões, mas abundante nos dois céus" para pelo menos duas
+  espécies de desolate beast sugere que os dois céus preservam um ambiente mais antigo/rico
+  (mais próximo da era imemorial) do que as cinco regiões — mas a obra não afirma essa
+  ligação causal em nenhuma das passagens encontradas; é inferência minha a partir da
+  repetição do padrão, não uma frase textual.
+- **Azure wolves (lobos azuis):** descritos como ficando cada vez mais raros a caminho da
+  extinção em Northern Plains, mas aqui a causa apontada é apenas o desgaste natural do
+  tempo sobre grupos pequenos, não um evento específico: "Azure wolf groups were often
+  small, but they had great battle strength. But regardless of how strong a wolf group is,
+  they cannot withstand the trial of time, and the trials of mortality. Right now, in
+  northern plains' sky, barely any azure wolves could be seen. They were getting rarer,
+  going to be extinct soon." (cap. 549, Volume 3).
+- **Beastmen:** não encontrei uma afirmação textual direta de que os beastmen estejam
+  extintos ou quase extintos no presente da trama. O que a obra afirma é que eles **foram
+  uma das raças de "variant humans" (humanos variantes) mais fortes do mundo durante as eras
+  Immemorial e Remote Antiquity**: "During the Remote Antiquity Era, as well as the
+  Immemorial Antiquity Era, they were one of the strongest variant human races in the
+  world." (cap. 912, Volume 4). **(DEDUÇÃO)** — o fato de a frase ser formulada no passado
+  ("were one of the strongest... in the world", e não "are") sugere que seu poder relativo
+  diminuiu desde então, num padrão coerente com o dos rockmen, citados na mesma passagem
+  como reduzidos a grupos residuais em "super forces" tribais isoladas (cap. 871, Volume 4)
+  — mas isso é leitura minha do tom da frase, não uma declaração explícita de declínio ou
+  extinção dos beastmen. Termos buscados sem qualquer resultado: "beastmen" + "declin*" (0),
+  "beastmen" + "near extinct*"/"rare" (0).
+- Termo testado sem resultado em nenhum volume: "extinct" tem ocorrências em todos os 6
+  volumes (ver contagens na Frente B), mas a maioria se refere a linhagens/técnicas/clãs
+  extintos, não a espécies de fauna — as três espécies acima (qi grand lion, cloud beast,
+  azure wolf) foram as únicas encontradas com afirmação textual explícita de quase-extinção
+  biológica.
+
+---
+
+## Resumo final e observações de método
+
+- Toda citação acima veio de grep direto nos 6 arquivos-fonte, com o capítulo localizado
+  via `head -n <linha> | grep -oE "^## Chapter [0-9]+" | tail -1` a partir da linha exata da
+  citação.
+- Onde a busca não encontrou nada relevante, listei os termos testados explicitamente (nunca
+  apresentei ausência de resultado como conclusão de que "a obra não trata do assunto" sem
+  registrar a busca que sustenta essa afirmação).
+- Toda dedução minha (não afirmação textual direta) está marcada com **(DEDUÇÃO)** e
+  separada explicitamente da citação literal que a originou.
+- Lacunas remanescentes, para investigação futura se necessário: (a) ciclos sazonais/lunares
+  de cultivo fora do mecanismo de "bolsão de tempo acelerado" das terras abençoadas; (b) o
+  que sobrou fisicamente, de forma explícita, das eras Olden Antiquity e Medieval Antiquity
+  especificamente; (c) causa textual explícita da quase-extinção do qi grand lion e do cloud
+  beast nas cinco regiões; (d) situação atual (extinção ou não) dos beastmen.
+
 

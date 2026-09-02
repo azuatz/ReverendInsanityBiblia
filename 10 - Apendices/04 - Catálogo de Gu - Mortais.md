@@ -424,6 +424,8 @@ receitas exigem matar pessoas — é por isso, e não por moral abstrata, que o 
 é classificado como demoníaco. Ao ler, compare a coluna 🍖 com a de refino: é o par
 que define quem consegue de fato manter um destes Gu sem ser caçado.
 
+*Também pertence a este caminho, com a ficha completa em [[#Linhagem lunar]] porque nasceu de uma fusão daquela linhagem: o **Blood Moon Gu** (rank 3).*
+
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
 | Blood Essence Gu | — | Repõe o sangue do usuário: quem o carrega fica sempre vigoroso e recupera com facilidade até grandes perdas de sangue, o que eleva muito a sobrevivência em combate; pareado ao Roaming Zombie Gu, reduz os efeitos colaterais dele | sangue fresco de animais de abate * | — | Gu considerado precioso; é também material de fusão — junto com o Moonglow Gu produz o Blood Moon Gu | Peça obrigatória para sustentar qualquer transformação que sangre o dono, como o Roaming Zombie Gu | Não faz nada sozinho: é suporte (ded.) |
@@ -453,6 +455,8 @@ isso que ele aparece menos como arma de duelo e mais como instrumento de **contr
 político**. Repare no padrão: quase todo veneno da tabela vem com um antídoto
 exclusivo, e quem controla o antídoto controla a pessoa. A vantagem econômica é
 explícita: manter escravos por veneno é o método barato, e é por isso que é o padrão.
+
+*Também pertence a este caminho, com a ficha completa em [[#Linhagem lunar]]: o **Moon Poison Gu** (rank 3).*
 
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
@@ -791,6 +795,8 @@ empresta qualidades de árvore acaba produzindo uma árvore. Não existe transfo
 temporária de graça — existe transformação temporária **desde que o usuário saiba
 parar**.
 
+*Também conta como transformação, com a ficha completa em [[#Caminho da madeira e das plantas]]: o **Wood Charm Gu** (rank 3), que converte o usuário em espírito de árvore.*
+
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
 | Running Corpse Gu | 2 | Transforma um cadáver num zumbi capaz de **evoluir** por estágios de cor | Dieta não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem de uma a duas pedras primordiais por dia (ded.) | **Uso único** por cadáver | Produzido pelo Zombie Heart Gu | O produto não é um servo fixo: ele melhora com o tempo, do branco ao azul | Consumível, e depende de haver cadáveres frescos |
@@ -817,6 +823,8 @@ que não podem ser fabricados, só encontrados, e por isso são politicamente
 controlados. Repare também na coluna 🍖 da linha do Liquor Worm: um Gu que come vinho
 é barato de sustentar com vinho bom e ruinoso com vinho ruim, o que faz da qualidade
 do insumo uma decisão econômica real.
+
+*Também serve ao avanço de cultivo, com a ficha completa em [[#Caminho do sangue]]: o **Blood Skull Gu** (rank 4), que eleva a aptidão de forma permanente.*
 
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
@@ -1040,6 +1048,8 @@ quem encheu o corpo de ossos de ferro e tendões de aço descobre, tarde demais,
 ficou difícil de curar. A cura também tem uma escada clara de ressurreição, e cada
 degrau dela tem uma condição diferente sobre o estado do corpo.
 
+*Também curam, com a ficha completa em outras seções: o **Vitality Leaf** (rank 1) e o **Wood Charm Gu** em [[#Caminho da madeira e das plantas]], o **Therapy Light Gu** (rank 3) em [[#Caminho da luz]] e o **Guts Gu** em [[#Caminho da alma]].*
+
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
 | Living Steel Gu | 2 | Bloco preto rank 2 do tamanho de um punho, cheio de furos: acionado, flutua girando e solta fumaça de aço que cobre as feridas de outro Gu e regenera as partes perdidas em cerca de uma hora, encolhendo até sumir por completo | consome a si mesmo no processo | — | Sem receita registrada; a obra o classifica como Gu **de gasto**, que some por completo a cada tratamento — quem depende dele repõe o estoque continuamente, o que torna seu custo uma despesa recorrente e não uma compra única (ded.) | Reduz de meio ano para cerca de uma hora a recuperação de um Gu ferido — salva patrimônio que levaria uma temporada para se refazer | Sacrifica-se por inteiro a cada aplicação |
@@ -1067,6 +1077,8 @@ fala de dieta ou de custo de acionamento aqui. O que a substitui é uma **condi�
 posse**: vários deles não são refinados nem comprados, mas reconhecem o portador, ou
 se recusam a funcionar até que ele tenha vivido o suficiente. Onde há esse tipo de
 condição, ela está registrada na coluna de refino.
+
+*Também é um Gu conceitual do mito fundador, com a ficha completa em [[#Caminho do homem]]: o **Hope Gu**, que forma a abertura de todo Mestre Gu.*
 
 | Gu | Rank | Efeito | 🍖 Alimentação | ⚡ Uso | 🔨 Refino | ⬆️ Vantagem | ⬇️ Desvantagem |
 |---|---|---|---|---|---|---|---|
@@ -1116,8 +1128,8 @@ mês. Escolher a rota de fusão é escolher qual conta pagar pelo resto da vida.
 | Golden Moon Gu | 3 | Crescente dourado de mais de um metro, quase meia altura de um homem e com aura imponente: mantém os dez passos de alcance da lâmina lunar comum e sobe mais uma vez a força de ataque. | pétalas de orquídea-lua | A lâmina chega a quase o tamanho de um homem, mantendo o alcance de dez passos do moonblade comum | Fusão a partir do Moonglow | Mais forte que o Moonglow mantendo o mesmo alcance | Continua na dieta cara da linhagem |
 | Frost Moon Gu | 3 | A lâmina lunar fica branca e gélida, com elemento de gelo: quem é ferido por ela é invadido pelo frio e passa a se mover devagar; a obra não informa por quanto tempo dura a lentidão. | pétalas de orquídea-lua | A lâmina é branco-gélida e aplica lentidão por frio em quem atinge | Fusão a partir do Moonglow | Soma controle ao dano | Mesma dieta |
 | Illusory Moon Gu | 3 | Não serve para atacar: acionado, deixa o usuário criar um clone-sombra que atrai os golpes inimigos e confunde o adversário, e uma vez refinado serve de base para o Moonshadow Gu de rank 4. | pétalas de orquídea-lua | **Não é ofensivo**: só produz o clone-sombra, e todo o valor está em quem o usuário engana com ele | Fusão a partir do Moonglow; é a base do Moonshadow Gu | Distração, que é o que contorna a resistência de alma em disputas de controle | Mesma dieta, e não causa dano |
-| Blood Moon Gu | 3 | Lâmina sangrenta que causa sangramento contínuo | **sangue fresco de qualquer criatura** — liberta o dono da orquídea-lua, mas é socialmente denunciante (ded.) | Alguns dias por mês o Gu "sangra" e o poder cai a um terço | Fusão de Moonglow + Blood Essence | Resolve o gargalo logístico da linhagem inteira: a comida passa a estar em qualquer lugar | Uma janela mensal de fraqueza previsível, e a mudança para o caminho do sangue traz o peso social junto |
-| Moon Poison Gu | 3 | Lâmina que se dissolve em miasma roxo venenoso | pétalas de orquídea-lua, como o resto da linhagem lunar (ded.) | Age por inalação: o miasma invade as narinas e causa tosse e debilitação | Faz parte da linhagem lunar do clã | Contorna armadura e defesa de contato | — |
+| Blood Moon Gu | 3 | Lâmina lunar de cor sangrenta que, além do corte, causa **sangramento contínuo** na ferida. Pertence à linhagem lunar do clã, mas o texto também o classifica no caminho do sangue: é o ponto em que a árvore de fusões muda de caminho | **sangue fresco de qualquer criatura** — bem mais fácil de conseguir que pétalas de orquídea-lua, que murcham em dias, mas socialmente denunciante (ded.) | Alguns dias por mês o Gu "sangra" e o poder cai a um terço | Fusão de Moonglow Gu com Blood Essence Gu | Resolve o gargalo logístico da linhagem inteira — a comida passa a estar em qualquer lugar — e é o caso-modelo do catálogo para **trocar dieta por conveniência** | Uma janela mensal de fraqueza previsível, que um inimigo informado pode explorar, e a mudança para o caminho do sangue traz o peso social junto |
+| Moon Poison Gu | 3 | A lâmina lunar, em vez de cortar, se dissolve num miasma roxo venenoso que o alvo inala: o veneno invade as narinas e provoca tosse e **debilitação progressiva**. Pertence à linhagem lunar e ao caminho do veneno ao mesmo tempo | pétalas de orquídea-lua, como o resto da linhagem lunar (ded.) | Age por inalação, não por impacto: o miasma invade as narinas e a debilitação cresce enquanto o alvo continuar respirando ali | Fusão da linhagem lunar do clã; a obra não registra os materiais exatos | Contorna armadura e defesa de contato, porque não depende de acertar o corpo | A obra não informa quanto tempo a debilitação dura nem se há cura |
 | Moonshadow Gu | 4 | Implantado na abertura do alvo, suprime a essência utilizável dele | Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é grande (ded.) | Precisa ser implantado na abertura do alvo, e não disparado contra ele | Derivado do Illusory Moon Gu | Suprime sessenta por cento da essência de um rank 3, trinta de um rank 4 e quinze de um rank 5 — desarma sem ferir | O rendimento **cai conforme o alvo é mais forte**: contra quem importa, entrega menos |
 | Moon-invite Gu | — | Absorve as lâminas lunares dos aliados e as combina num golpe maior | pétalas de orquídea-lua, como o resto da linhagem lunar (ded.) | Depende de os aliados dispararem primeiro: o Gu não gera lâmina nenhuma por conta própria | Ferramenta de líder de clã | Transforma um grupo inteiro de usuários do mesmo Gu num único canhão | Exige que todos os aliados usem a mesma linhagem (ded.) |
 | Moonlight Treasure King Gu | 5 | Ponto final de uma das duas receitas de rank 5 do clã, alcançado por fusões sucessivas a partir de Jade Skin e Moonlight; a obra nunca descreve o que ele faz — dá só o nome, o rank e a rota de refino. | Dieta não informada; no rank 5 a refeição é rara — a cada um ou dois anos — e caríssima (ded.) | — | Chegado por múltiplas fusões a partir de Jade Skin e Moonlight; é uma das duas receitas de rank 5 que o clã possui | O produto final de gerações de pesquisa numa única linhagem | A cadeia de fusões consome uma quantidade enorme de Gu intermediários (ded.) |

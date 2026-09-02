@@ -1,6 +1,6 @@
 ---
 tipo: pesquisa-fonte
-status: em-andamento
+status: concluido
 ---
 
 # Pesquisa de fonte: subsolo e mar em Reverend Insanity
@@ -74,7 +74,7 @@ stalactites, rank 7, que produzem uma gota de "stone heart liquid" por ano, mate
   forest with musical trees, tea streams, and qi death birds singing." — descrição de
   um Blessed Land (terra abençoada) inteiro organizado ao redor de uma "stalactite
   cave" habitada por rockmen (ver tópico 2).
-- Vol. 6, linha 14079: "Among them were the coiling thread caves, stalactite caves,
+- Cap. 2050 (Vol. 6, linha 14079): "Among them were the coiling thread caves, stalactite caves,
   and the dark inkstone mines. These resource points were all underground, it was
   easier to preserve them. Furthermore, the rockmen lived in these places." — isso
   mostra que cavernas subterrâneas eram valorizadas estrategicamente por serem mais
@@ -116,12 +116,12 @@ alimento.
 - Cap. 412: Fang Yuan usa os rockmen como mão de obra de engenharia hidráulica —
   ordena que cavem um rio para desviar água e conter um incêndio, em troca de reduzir
   o tributo.
-- Vol. 5, linha 84798: outro Blessed Land descrito com "coiling thread caves and the
+- Cap. 1461 (Vol. 5, linha 84798): outro Blessed Land descrito com "coiling thread caves and the
   stalactite cave. In the forest and underground, a small number of rockmen were
   living here" — confirma que rockmen são associados de forma recorrente a cavernas
   específicas (stalactite caves) em diferentes territórios, não é único ao clã de
   Fang Yuan.
-- Vol. 6, linha 14079: rockmen também vivem em "dark inkstone mines" (minas de tinta
+- Cap. 2050 (Vol. 6, linha 14079): rockmen também vivem em "dark inkstone mines" (minas de tinta
   escura) — mais um tipo de sítio de mineração subterrâneo nomeado.
 
 Além dos rockmen, há pelo menos uma outra raça variante ligada a subsolo/mineração
@@ -130,7 +130,7 @@ actually occupying one spirit spring") — mas o texto não detalha se eggmen mi
 eles apenas ocupam uma nascente espiritual.
 
 Materiais minerais/de caverna nomeados na obra (lista de "immortal material" de earth
-path colhida em uma única enumeração no Vol. 6, linha 29709): "Worry soil, green pond
+path colhida em uma única enumeração no Cap. 2133, Vol. 6, linha 29709) inclui: "Worry soil, green pond
 rotten soil, diamond soil, great lake soil, concealing heaven dust, grand soil, region
 sand, impermanence rock, smoky warm jade, thousand year frost jade essence, dark
 inkstone, marrow sucking stone, regret water rock, round kun stone, hibiscus

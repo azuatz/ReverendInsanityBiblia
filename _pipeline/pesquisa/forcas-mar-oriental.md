@@ -209,9 +209,18 @@ clã**, mais os rank 8 zumbis da Zombie Alliance (a obra mostra a Aliança despa
 **três rank 8 imortais zumbis** de uma vez, cap. 927, l. 47096). O clã Xia, super força, **não
 tem nenhum** (cap. 1982). O Leste não é fraco — é multipolar.
 
-> Ressalva: a obra **não** afirma em lugar nenhum que o Mar Oriental tem o maior número de
-> rank 8 do mundo. Verificado com grep. O que ela afirma é que tem os melhores e mais
-> numerosos **imortais solitários** (cap. 1650) e os maiores recursos.
+**E a obra afirma o total explicitamente** — **cap. 1690** (V5 l. 121816):
+> "Among the five regions, **Eastern Sea was the richest in resources and thus had the highest
+> number of rank eight Gu Immortals.**"
+
+A causalidade que a obra dá é econômica: mais recursos → mais gente chega ao topo. Note o que
+isso implica: o Leste tem **mais rank 8 do que qualquer outra região** e mesmo assim **nenhum
+líder** — porque esses rank 8 estão espalhados entre clãs rivais, solitários, demoníacos e uma
+aliança de zumbis. É a definição de multipolaridade.
+
+**Porte relativo:** existe a noção de "**as dez maiores super forças do Mar Oriental**" — o clã
+Song está entre as dez (cap. 893, l. 40778) e a **Corte Imperial dos Homens-Peixe** também
+(cap. 892, l. 40605). A obra **nunca lista as dez**.
 
 ### 2.6 O comércio como estrutura de poder
 
@@ -404,4 +413,156 @@ aparece em *As Lendas de Ren Zu*, situado numa "bolha" com um mar e uma ilha den
 sem saber o que é fica preso no fundo do poço; **quem reconhece o lugar consegue sair** — como
 na lenda, o homem-mínimo saiu do poço no instante em que compreendeu a própria pequenez.
 Dentro dele há terras abençoadas de imortais solitários do Leste (cap. 1231, l. 41452).
+
+### 3.9 O Dragon Whale Paradise e o Merit Obelisk — o sistema de missões completo
+
+**Onde fica.** A **baleia-dragão azul** (*blue dragon whale*) é uma **besta desolada imemorial**
+que nada pelo Mar Oriental. Paradise Earth Immortal Venerable a subjugou, **despertou a abertura
+imortal dela** e deixou lá dentro a **herança verdadeira de Paradise Earth do Mar Oriental**
+(**cap. 1554**/V5 l. 53052–53064; **cap. 2059**, V6 l. 15811; **cap. 2073**, V6 l. 20821 — "Eastern
+Sea's Paradise Earth true inheritance is in the blue dragon whale").
+
+Traços da besta (cap. 1554, V5 l. 53056–53060):
+- **Inteligência não foi elevada** — ela só nada por instinto;
+- Paradise Earth deixou um **golpe imortal no corpo dela**, "thus, this blue dragon whale had
+  almost **no predators or dangers**";
+- "**mild in temperament and posed no danger**, but its defensive power rendered all of those
+  who wanted to harm it helpless";
+- **Achá-la é o problema:** "Years later, many Gu Immortals tried to find the blue dragon whale
+  but could not find anything" (cap. 1651). Miao Ming Shen tem um método próprio e já reuniu
+  **mais de dez imortais solitários do Leste** para procurá-la (cap. 1154, l. 26650).
+
+**A porta.** Quem entra não encontra a baleia: é levado **direto para dentro da abertura imortal
+dela**, depois de passar por uma **ilusão de morte** montada por Paradise Earth — o grupo inteiro
+"morre" contra uma fênix-trovão imemorial, acorda intacto e entende que era teste
+(cap. 1651). Leitura interna do teste: "this is Paradise Earth Immortal Venerable's **warning**,
+after experiencing death, we can give up many obsessions"; e também "a **test of our battle
+strength**" — os companheiros veem todos os trunfos uns dos outros.
+
+**O Merit Obelisk (Obelisco do Mérito).** Uma **Casa de Gu Imortal rank 8** com forma de obelisco
+de ouro, no centro da ilha inicial. Composição: "it mainly comprised **earth path and sound
+path**" (cap. 1652, l. 115316). Regras, todas canônicas:
+
+| Regra | Fonte |
+|---|---|
+| Para herdar a herança de Paradise Earth é preciso **aceitar missões do obelisco e acumular pontos de mérito**; quanto mais mérito, mais valioso o que se pode trocar | cap. 1651, l. 115227; cap. 1891, l. 161486 |
+| Quem recusa **fica preso na ilha inicial** e não pode ir a nenhum outro lugar do mundo interno | cap. 1651, l. 115227 |
+| **Prazo: 300 dias** (tempo interno). Vencido, todos são expulsos | cap. 1651, l. 115227; cap. 1892, l. 161807 |
+| Registrar-se = **pôr a palma no obelisco**; o processo lembra o *life tablet Gu* de um super clã, mas "**more restrictive in nature**" | cap. 1652, l. 115298–115308 |
+| **Placar público** com nome e pontuação de todos, atualizado em tempo real; a posição de cada um é impossível de esconder | caps. 1657, 1891, 1894 |
+| **É proibido lutar dentro do paraíso** — nem um rank 8 pode atacar: "even the rank eight Gu Immortal Shen Cong Sheng **was barred from fighting**" | cap. 1891, l. 161564 |
+| Missões vêm descritas em **uma linha só**, sem detalhe nenhum: não se sabe o porte do inimigo, a natureza do problema nem o método exigido | cap. 1891, l. 161566–161596 |
+| **O número de missões escala com o número de participantes** | cap. 1891, l. 161622 |
+| O obelisco **teleporta** o participante para o local da missão, e nem um rank 8 com marcas densas consegue resistir ao transporte | cap. 1891, l. 161628 |
+| Para voltar, basta **repetir "return" três vezes em pensamento** | cap. 1658, l. 116336 |
+
+**As restrições dentro de uma missão** (cap. 1891, l. 161672–161692, teste feito por um rank 8):
+- não se pode **sair da área** da missão;
+- **nenhuma comunicação**: nem com o *treasure yellow heaven*, nem com os próprios companheiros;
+- **não se pode atacar os moradores** — os golpes ofensivos falham e geram backlash;
+- pode-se **tirar** coisas da própria abertura imortal, mas **não guardar** nada colhido no
+  local;
+- os habitantes, ao contrário, "**gave the inhabitants a lot of freedom**". O restrito é o
+  imortal, não o mundo.
+- Entre os participantes registrados, **a comunicação também é bloqueada** na ilha inicial: eles
+  passam recados **deixando Gu mortais de caminho da informação na base do obelisco**
+  (cap. 1658, l. 116340).
+
+**As faixas de missão e a escada de títulos** (a mecânica mais jogável de toda a região):
+
+| Faixa | Recompensa por missão | Como se destrava |
+|---|---|---|
+| Pequena | **1 a 10** pontos | livre, desde o registro |
+| Média | **11 a 100** pontos | título "**boa pessoa**" (*good person*), 100 pontos |
+| Grande | ordem de **centenas a ~1000** pontos (uma rendeu **973**) | título "**pessoa realmente boa**" (*really good person*), **1.000** pontos |
+| — | permite **compartilhar missão** com outros imortais | título "**super boa pessoa**" (*super good person*), **500** pontos |
+
+Fontes: caps. 1892 (l. 161745), 1894 (l. 162149), 1895 (l. 162336–162338), 1899 (l. 163374),
+1900 (l. 163545, 163549, 163597), 1902 (l. 163933–163935).
+
+Observações de mesa que a obra explicita:
+- Missão pequena é fácil **mas custa muito tempo**; a média é muito mais eficiente por hora
+  (cap. 1895, l. 162362).
+- Comprar título **derruba o comprador para o último lugar do placar** — e o placar público
+  denuncia que ele comprou algo caro, o que vira **informação vendável** (caps. 1894, 1895).
+- **O título é o segredo comercial da masmorra:** os que descobriram a existência do título
+  "boa pessoa" o esconderam dos outros; o preço de contar foi um material imortal rank 7
+  exclusivo (o *constant wave sound* do clã Shen) (caps. 1895, 1899–1900).
+- **A pontuação premia a qualidade, não o resultado mínimo.** Numa missão de matar um monstro,
+  levar o cadáver embora **reduziu** os pontos, porque as marcas do dao daquele corpo, se
+  deixadas no lugar, elevariam a fundação do ambiente (cap. 1895, l. 162346). A régua do
+  obelisco é *o bem que ficou no mundo*.
+- Frase de Paradise Earth que resume o desenho: "Complete missions and accumulate merit points,
+  it is not simply about doing superficial good deeds, **it is better to teach a man to fish
+  than to fish for him**" (cap. 1894, l. 162221).
+- **Loja:** materiais imortais e Gu Imortais custam **mais de dez mil** pontos (cap. 1892,
+  l. 161715). Há também curiosidades como o *good deeds Gu*, um Gu **mortal rank 5** por **50
+  pontos** — o Gu mortal mais caro da loja, e cujo efeito **não é descrito** no obelisco
+  (cap. 1891, l. 161612).
+- Exemplos reais de missão (cap. 1891, l. 161566): ajudar os homens-peixe de South Coast City a
+  extrair lótus dourados do lago prateado; a ilha do peixe redondo está secando, é preciso abrir
+  poços; a tribo das três listras está sob peste e precisa de ervas medicinais; a tribo do
+  flautista está perdida na névoa e precisa ser guiada; a nascente espiritual do Monte Aurora
+  tem um problema urgente. Uma missão **grande** típica: conter correntes submarinas que
+  ameaçavam o mar inteiro, **reestruturar a ecologia** e restaurar uma cadeia de cinco ilhas
+  (cap. 1901). E a **missão definitiva**, que só aparece quando todas as outras somem:
+  "**Leave with the blue dragon whale and successfully return**" — isto é, tornar-se o novo dono
+  da baleia (cap. 1916, l. 166649; cap. 2059, V6 l. 15853).
+
+**A cerimônia do Deus do Mar (Sea God Ceremony).** A obra descreve a cerimônia em detalhe
+**dentro** do Dragon Whale Paradise, na *Merman Sacred City* dos homens-peixe (cap. 1669,
+l. 118082: "Inside the blue dragon whale grotto-heaven, the Merman Sacred City"). Verificado com
+grep: **todas** as ocorrências de "sea god" na obra estão nesse arco (caps. 1660–1674). Mecânica:
+
+- É a cerimônia **exclusiva dos homens-peixe**: "in this ceremony, **males and females would
+  gather and form new families**, they would also **elect the new Saintess**" (cap. 1662,
+  l. 117051).
+- **Religião própria:** "Mermen were different from humans, they had their **racial religion**,
+  they believed in the **Sea God**. Making an oath using the Sea God's name was a huge matter"
+  (cap. 1661, l. 116597). "Almost every merman's faith was in the Sea God."
+- **Etiqueta:** atirar uma **pérola** em alguém durante a cerimônia é **pedido de casamento**
+  (cap. 1663, l. 117071).
+- **Origem lendária** (cap. 1665): a sereia Ah Qing rezou ao Deus do Mar para salvar a aldeia de
+  pescadores de uma besta marinha; ele pediu **três canções**; ela cantou duas e não conseguiu a
+  terceira; **a irmã, Ah Ya, tomou-lhe o lugar** e cantou a terceira, e o mar se acalmou. Daí
+  duas regras vivas: a escolha da santa se faz por **provas de canto e afins**, e **uma irmã pode
+  tomar o lugar da outra** na disputa (cap. 1665, l. 117554).
+- Se **todas** as candidatas forem eliminadas, o posto de santa **fica vago** (cap. 1665,
+  l. 117596).
+- **O que a cerimônia realmente é** (cap. 1673, l. 118071): "almost every saintess candidate is
+  **backed by their own force**. Do you think this is simply a competition for the saintess
+  position? No, **this is a game, this is a way for the higher-ups to distribute resources for
+  the next few decades without internal conflict**. The force that has a saintess will get a
+  bigger share of the pie, those who don't will receive less."
+- A santa tem um **dever de ofício** declarado: purificar o *Demon Suppression Regret Crying
+  Sea* (cap. 1674, l. 119154).
+- Corrupção como pano de fundo estrutural: a facção maior da Corte Sagrada (a *Frost Tide
+  tribe*) lava dinheiro em casas de jogo, e o líder dela argumenta que **não pode ser removido**
+  porque sua queda quebraria a Corte inteira (cap. 1668, l. 118067).
+- Nas cinco regiões de fato, a instituição da **santa dos homens-peixe existe e tem autoridade**:
+  "Different from the merman tribe's saintess, [mushroomman] witches did not hold authority"
+  (cap. 2143, V6 l. 31700).
+
+### 3.10 Dragon Palace — a Casa de Gu Imortal perdida do Leste
+
+**cap. 1240** (V5 l. 43142), a descrição canônica:
+> "In the past, the **dragonmen** were extremely powerful with a large number of Gu Immortals,
+> they managed to create **Dragon Palace**. After the dragonmen went extinct, Immortal Gu House
+> Dragon Palace has been **secretly hidden in a certain area of Eastern Sea**… but **only someone
+> who has used the *humans alike dragons* Gu refinement method to become a dragonman Gu Immortal
+> can inherit it**."
+
+- É uma Casa de Gu Imortal **rank 8**, dourada, de pavilhões e terraços grandiosos (cap. 1684).
+- Está **cercada por um reino de sonho** (*dream realm*) móvel, que se regenera e a esconde; o
+  reino corroeu a Casa a ponto de ela **parar de funcionar** aparentemente — mas ela estava
+  intacta, e **um de seus núcleos é um Gu Imortal do caminho do sonho** (caps. 1684–1689).
+- Ela **age sozinha**: voou, fugiu, mergulhou (caps. 1689–1691).
+- Ela tem **generais escravizados**: os quatro rank 8 solitários/demoníacos do Leste (Granny
+  Rong, Yang Zi He, Shi Miao, Zhang Yin) são "**Dragon Palace Dragon Generals**" e a defendem por
+  obrigação (caps. 1688, 1725, 1923).
+- Rumores sobre ela circulam entre os imortais e **matam gente**: um forasteiro entrou numa área
+  de mar atrás desses rumores e morreu para os dragões marinhos de lá (cap. 1236, l. 42270).
+
+> Para uma mesa: é o tesouro-lenda do Leste. Existe, está no mar, é rank 8, tem guardiões
+> involuntários, e **a chave não é força e sim espécie** — só um homem-dragão a herda.
 

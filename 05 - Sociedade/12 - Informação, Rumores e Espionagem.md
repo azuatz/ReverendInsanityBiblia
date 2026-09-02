@@ -68,7 +68,7 @@ histórias narram folclore sobre justiça e heroísmo para o público. É onde o
 aprende quem são os heróis e o que é certo — o que faz dele um alvo natural para quem quiser
 plantar uma versão.
 
-**A casa de prazer é a bolsa de rumores.** Bordéis de várias andares, cujas cortesãs de topo
+**A casa de prazer é a bolsa de rumores.** Bordéis de vários andares, cujas cortesãs de topo
 são elas próprias Mestras Gu de rank baixo, aparecem repetidamente como o lugar onde
 informação muda de mão. `(ded.)` A obra não diz que são casas de espionagem, mas mostra
 sistematicamente as conversas decisivas acontecendo em torno delas.

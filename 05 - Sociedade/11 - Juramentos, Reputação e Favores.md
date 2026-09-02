@@ -90,7 +90,7 @@ Esse último detalhe é o que faz o instrumento ser mais interessante do que um 
 Gu testa sinceridade, não só palavras.** Você não consegue jurar de dedos cruzados. O que
 você consegue é jurar sinceramente um texto cuidadosamente incompleto.
 
-**Quem paga.** O custo é do casal de contratantes e costuma ser dividido; a recusa em usar um
+**Quem paga.** O custo é das partes e costuma ser dividido; a recusa em usar um
 juramento é lida como confissão de má-fé (*"como eu saberia que você não vai fugir se não
 usarmos o Gu?"*), e por isso a exigência do juramento é uma jogada de negociação em si.
 

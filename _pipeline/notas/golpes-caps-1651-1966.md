@@ -2,7 +2,7 @@
 tags:
   - pipeline/notas-brutas
   - golpes-assassinos
-status: em-andamento
+status: concluido
 fontes: ["caps. 1651-1966 (Volume 5 - Demon King's Domination)"]
 ---
 
@@ -19,6 +19,18 @@ Extração de fonte primária a partir de `Volume_5_-_Demon_Kings_Domination.txt
 4. **`—`** — a obra não informa (preferido a inventar).
 
 Níveis 1–5 = golpes mortais; 6–9 = golpes imortais.
+
+> **Como ler a coluna Nível.** A obra quase nunca dá o número exato. O que ela dá,
+> quase sempre, é a expressão *immortal killer move* (= faixa 6–9) mais o rank de quem
+> usa ou de quem aguenta o golpe. Por isso a maioria das linhas traz **`8 (ded.)`**:
+> lê-se "a obra afirma que é golpe imortal; o contexto é de rank oito, então o nível
+> mais provável é oito". O número simples, sem `(ded.)`, aparece só onde o texto o diz
+> com todas as letras (ex.: *heaven form* e *ghostly concealment* são declarados rank
+> nove; *fate vanquish* usa o fate Gu de rank nove; *mature bamboo chest* e *wisdom
+> grasp* são declarados rank sete). Apagar todos os `(ded.)` devolve o documento a cem
+> por cento canônico.
+
+**Total extraído: 187 golpes distintos.**
 
 ## Catálogo
 
@@ -83,11 +95,11 @@ Níveis 1–5 = golpes mortais; 6–9 = golpes imortais.
 | Call of the Ancient | 9 (ded.) | — (criado por Red Lotus Demon Venerable) | — | Metade de um par de golpes: convoca do Rio do Tempo Gu Imortais do passado intimamente ligados ao usuário, no estado em que estavam naquele momento, para lutarem por ele — não traz de fato a pessoa, mas a instancia a partir do rio | Perde força à medida que fate Gu se recupera; para desfazê-lo é preciso interromper quem o está ativando (acumular dano suficiente sobre o usuário/veículo interrompe a convocação) | 1717, 1719, 1723, 1930, 1962 |
 | Support of the Future | 9 (ded.) | — (criado por Red Lotus Demon Venerable) | — | A outra metade do par: convoca do Rio do Tempo Gu Imortais do futuro ligados ao usuário para virem lutar | Mesma fraqueza do par — basta interromper quem ativa o golpe | 1717, 1719, 1725 |
 | Destiny Song | 8 (ded.) | — (usa fate armor Immortal Gu no arsenal do usuário) | — | Canção que enfraquece continuamente o inimigo enquanto amplifica a força dos aliados, alternando entre forte e fraco; envolve o alvo o tempo todo e o efeito atravessa até defesas como *reverse flow protection seal* (embora enfraquecido) | Exige atenção do usuário: se ele precisar se defender de outros atacantes, a canção enfraquece na mesma proporção. Em sua forma final (após mil anos de modificações) o golpe ganha a capacidade de crescer sozinho, extraindo o poder do destino de cada Gu Imortal atingido | 1950, 1963, 1965 |
-| Myriad Ghost Sword Dragon | 8 (ded.) | soul + sword + enslavement + transformation (fusão) | fusão de ancient sword dragon transformation + myriad self + yama child + emperor yama + familiar face; Gu Imortal Myriad Self é indispensável | Golpe de fusão de vários caminhos: enorme poder ofensivo e muito difícil de dissipar | Cada uso consome **quatro mil marcas do dao de soul path** do corpo do usuário. Sem o Gu Imortal Myriad Self, exigiria Gu demais e tempo de ativação longo demais para servir em combate | 1728, 1739, 1758, 1791, 2065-cf. |
+| Myriad Ghost Sword Dragon | 8 (ded.) | soul + sword + transformation (fusão) | fusão dos golpes ancient sword dragon transformation + myriad self + yama child + emperor yama + familiar face; o Gu Imortal Myriad Self é indispensável | Golpe de fusão de vários caminhos: numa explosão saem incontáveis bestas-alma em forma de dragão negro, com garras, dentes, chifres e escamas prateadas, emitindo qi de espada sinistro o tempo todo — parte ataca os perseguidores, parte voa em desordem; enorme poder ofensivo e muito difícil de dissipar | **Consome permanentemente marcas do dao de soul path** do corpo do usuário: três utilizações da família do golpe somaram cerca de dez mil marcas. Sem o Gu Imortal Myriad Self exigiria Gu demais e tempo de ativação longo demais para servir em combate | 1728, 1739, 1740, 1758, 1791 |
 | Great Thief Ghost Hand | 8 (ded.) | soul + theft | — | Golpe composto de roubo: uma mão fantasma arranca Gu Imortais do inimigo | Depende de acertar — contra um alvo com defesa de sorte suficiente pode errar ou acertar sem conseguir roubar; obter um Gu específico por esse meio depende de sorte, não é confiável; ativá-lo abertamente denuncia a identidade do usuário | 1774, 1784, 1791, 1943 |
 | Jade Flow Pearl | 8 (ded.) | refinement + space | Gu Imortal rank 7 Fixed Immortal Travel (núcleo) + quase todos os Gu Imortais de space path do usuário + alguns Gu Imortais de refinement path + muitos Gu mortais suplementares | Teleporte de combate: move o usuário, forçando o inimigo a responder com um golpe assassino imortal em vez de simplesmente ativar um fixed space Gu | Depois de modificado, ativa mais rápido e vaza menos aura no destino — antes da modificação era chamativo | 1777, 1780, 1783, 1791 |
-| Myriad Dragon | 8 (ded.) | enslavement + transformation | — | Golpe-assinatura composto: faz rugir uma miríade de dragões em torno do usuário, servindo para combate de desgaste prolongado | É tão característico do usuário que sua presença serve de prova de identidade | 1739, 1753, 1770, 2065-cf. |
-| Emperor Yama | 8 (ded.) | soul | — | Transformação de soul path em que o usuário assume a forma de um imperador Yama | — | 1700, 1739 |
+| Myriad Dragon | 8 (ded.) | soul (ded.) | Gu Imortal Myriad Self (refiná-lo reduz muito o tempo de ativação do golpe) | Golpe-assinatura: uma miríade de dragões voa e ruge ao redor do usuário, cercando um Gu Imortal de rank oito como uma bola gigante feita de dragões; serve para atacar formações, destruir métodos defensivos, atrasar perseguidores e sustentar combate de desgaste prolongado | É tão característico do usuário que sua presença numa cena serve de prova de identidade contra ele | 1701, 1707, 1739, 1749, 1753, 1769, 1770, 1771 |
+| Emperor Yama | 8 (ded.) | soul | — | Transformação de soul path em que o usuário assume a forma de um imperador Yama; conta simultaneamente como método defensivo e como base para golpes defensivos de soul path, e entra como componente na fusão que forma *myriad ghost sword dragon* | Só uma transformação por vez — é preciso dispersar a transformação anterior para assumir esta | 1696, 1700, 1724, 1728, 1739 |
 | Self Cleansing | 8 (ded.) | refinement (ded.) | — (existe também na forma de formação: self cleansing formation) | Elimina as marcas do dao nocivas do corpo do usuário e apaga os rastros de marcas do dao deixados numa cena | — | 1680, 1732, 1908 |
 | Heaven Form | 9 | theft (originado de Thieving Heaven Demon Venerable) | — (assume a forma de um grou branco) | Golpe investigativo de rank nove: um grou branco obedece aos pensamentos do usuário e detecta tudo que existe no immemorial white heaven, inclusive grotto-heavens cuja entrada não foi aberta, reunindo informação das cenas internas delas; com essência imortal adicionada, o grou brilha e permite ao usuário **entrar** numa grotto-heaven sem invadi-la à força. Aceita ser modificado (ex.: fundir *shrink time* nele para invasão rápida) e serve de espaço interno onde outros golpes podem ser ativados | Alcance de detecção vastíssimo, muito além dos limites próprios do usuário; **não gasta nenhuma essência imortal** durante a detecção (a detecção é como habilidade inata do grou) — só o modo de entrada em grotto-heaven cobra um gasto alto de essência imortal, aceitável por ser um golpe de nível nove usado por um rank oito. Não é ofensivo nem defensivo. Exige longo tempo de refino para dominar | 1680, 1681, 1682, 1821, 1934 |
 | Future Self | 9 (era rank nove originalmente; enfraquecido pelo tempo) | time | — (deixado ativado por Red Lotus Demon Venerable, não em forma de informação) | Empresta ao alvo o corpo do seu próprio eu futuro: um Gu Master que no futuro passará a tribulação de ascensão pode tomar emprestada a força do seu eu Gu Imortal e ganhar temporariamente esse nível de cultivo — na prática eleva subordinados a força de rank sete de primeira linha | Após mais de um milhão de anos, o poder do golpe caiu muito, embora continue eficaz. Um rank oito não ganha nada com ele — só serve para elevar subordinados de rank inferior. O número de pessoas que pode receber o golpe é limitado. Acordos de escravidão que prendem o beneficiado podem se dissipar sob o poder do eu futuro dele | 1679, 1680, 1693, 1704 |
@@ -137,7 +149,6 @@ Níveis 1–5 = golpes mortais; 6–9 = golpes imortais.
 | Hair Armor | 1-5 (golpe mortal) | — | — | Armadura defensiva | Golpe mortal — descartado assim que o usuário passou de nível | 1700 |
 | Lion Fur Armor | 1-5 (golpe mortal) | — | — | Armadura defensiva | Golpe mortal — descartado assim que o usuário passou de nível | 1700 |
 | Divination Tortoise Transformation | 8 (ded.) | transformation | Gu Imortal Vajra Thought + o material da besta desolada antiga *divination tortoise* | Transforma o usuário numa tartaruga de adivinhação; conta como método defensivo | A besta usada é apenas uma besta desolada *antiga* — inútil numa batalha de rank oito; o material acabou reaproveitado para reforçar a defesa de uma Casa de Gu Imortal | 1700, 1795 |
-| Emperor Yama (defensivo/ofensivo) | 8 (ded.) | soul | — | Ver linha *Emperor Yama* acima; conta também na lista de métodos defensivos do usuário | — | 1700, 1739 |
 | Myriad Fusion Ghost Dragon Sword | 8 (ded.) | soul + sword + enslavement (ded.) | construído sobre *myriad ghost sword dragon* | Versão fundida e mais poderosa de *myriad ghost sword dragon*, com traço de enslavement path que mantém um fio de conexão com o golpe mesmo se ele for teleportado a mais de dez mil li de distância | Consome uma quantidade enorme de marcas do dao de soul path (as três utilizações citadas juntas somaram cerca de dez mil marcas); se falhar, devolve backlash pesado — perigoso sem uma defesa forte ativa | 1740 |
 | Wisdom Grasp | 7 | wisdom | — (deduzido tomando como referência *great thief ghost hand* e a herança verdadeira de steal life) | Onde *great thief ghost hand* rouba Gu Imortais, este rouba **vidas**, matando o inimigo instantaneamente; pode receber Gu de transformation path para se disfarçar de *great thief ghost hand* | É apenas rank sete: efeito muito ruim contra Gu Imortais de rank oito, serve contra alvos mais fracos | 1802, 1857 |
 | Sword Escape | 6→7 | sword | — | Método de fuga/movimento extremamente veloz | Não pode ser mantido por muito tempo; perseguidores de information path conseguem rastrear o usuário mesmo assim. Foi elevado de rank seis para rank sete pelo próprio dono | 1744 |
@@ -211,3 +222,176 @@ Níveis 1–5 = golpes mortais; 6–9 = golpes imortais.
 | Luck Plan Strategy | 8 (ded.) | luck | — | Especializado em elaborar táticas de batalha | Considerado dispensável por quem já tem métodos abundantes de wisdom path — praticado mais para entender as heranças verdadeiras do que por utilidade própria | 1781, 1782 |
 | One Step Back, Sea and Sky Expands | 8 (ded.) | refinement (imitação); o original *One Step Back* é rule path, e a versão *Sea and Sky Expands* é space path | — | Cadeia de três versões do mesmo golpe: o original, *one step back*, é de rule path e vem da herança de Limitless Demon Venerable; Thieving Heaven Demon Venerable o modificou extensamente e criou a versão de space path *sea and sky expands*; a terceira é uma imitação em refinement path, batizada com os dois nomes fundidos por o autor não considerá-la nem modificação nem melhoria | A versão de refinement path é declaradamente uma imitação, não um aprimoramento | 1766 |
 | Ancient Sword Dragon Transformation | 8 (ded.) | sword + transformation | — | Transformação em dragão-espada antigo; entra como componente na fusão que forma *myriad ghost sword dragon* | — | 1728 |
+| Fixed Immortal Travel (killer move) | 8 (ded.) | space | Gu Imortal Fixed Immortal Travel (núcleo) | Teleporte de longa distância: leva o usuário instantaneamente a locais previamente fixados (outras regiões, grotto-heavens) | Não funciona onde há arranjos que o barrem (uma paradise preparada contra ele); usá-lo com frequência demais permite ao inimigo deduzir o golpe e antecipar chegadas; é um dos dois métodos de movimento de que o usuário depende — se ele e o Omni-directional Travel forem bloqueados e ele for cercado, fica em apuros; a entrada barrada por Fixed Immortal Travel também impede reentrar num lugar do qual se saiu | 1662, 1680, 1699, 1729, 1777 |
+
+## Observações de mecânica
+
+Regras gerais sobre golpes assassinos que aparecem nesta faixa de capítulos. São tão
+valiosas quanto o catálogo, porque descrevem o *sistema*, e não uma magia isolada.
+
+### O que é um golpe assassino
+
+- Um golpe assassino é uma combinação nomeada de Gu ativada como técnica única. Golpes de
+  nível 1 a 5 são mortais (*mortal killer moves*) e de 6 a 9 são imortais
+  (*immortal killer moves*). Um golpe mortal é descartado assim que o usuário sobe de
+  patamar — *hair armor* e *lion fur armor* são citados exatamente como "golpes mortais,
+  eliminados há muito tempo" (cap. 1700).
+- **Formações de batalha antigas (ancient battle formations) e Casas de Gu Imortal são,
+  em essência, golpes assassinos imortais** (cap. 1943). A diferença é que formações
+  imortais e Casas de Gu Imortal têm golpes *fixos*, preparados de antemão, e por isso
+  seus métodos não variam; formações de batalha antigas, ao contrário, usam os métodos
+  que os próprios Gu Imortais possuem, e ainda os amplificam (cap. 1724).
+- Ninguém tinha conseguido **fundir uma formação de batalha antiga dentro de uma Casa de
+  Gu Imortal** antes do episódio do cap. 1943 — a fusão faz a Casa herdar a força da
+  formação e dá qualidade nova aos golpes dela (a convocação de bestas que só as atraía
+  passa a controlá-las).
+
+### O núcleo, o rank e a amplificação
+
+- Todo golpe tem um ou mais **Gu Imortais-núcleo**, e o rank do núcleo é o teto do golpe:
+  *light armor* com núcleo de rank sete rende defesa muito abaixo do necessário num
+  combate de rank oito; *karma divine tree* recriado com núcleo rank sete em vez dos Gu
+  originais sai como golpe de rank seis (cap. 1781, 1801).
+- Gu mortais em grande quantidade podem **substituir** um Gu Imortal que falta, ao preço
+  de o golpe consumir esses mortais a cada uso (*unravel dream*, cap. 1847).
+- **Marcas do dao amplificam golpes.** Uma transformação em besta imemorial converte todas
+  as marcas do dao do usuário para um mesmo caminho; sobre essa base, qualquer golpe ganha
+  força amplificada — até um golpe de rank sete passa a ameaçar rank oito (cap. 1945). Um
+  acúmulo enorme de marcas (um milhão vindas de uma grotto-heaven anexada; ou as geradas
+  por *triple qi retraction*) multiplica os golpes daquele caminho por centenas ou milhares
+  de vezes (caps. 1815, 1935, 1955).
+
+### Custos, falha e backlash
+
+- **Quanto mais forte o golpe, maior o backlash** (cap. 1696). E golpes imortais são
+  espadas de dois gumes: "quanto mais fortes, maior o backlash quando são quebrados"
+  (cap. 1703).
+- Um golpe que **falha na ativação** devolve backlash de intensidade variável ao usuário;
+  há muitos casos históricos de Gu Imortais que se feriram gravemente ou morreram assim —
+  inclusive **praticando** golpes fora de combate, que é justamente por isso uma atividade
+  perigosa e obrigatória (não se pode estrear um golpe às cegas numa batalha, cap. 1794).
+- A amplificação por marcas do dao também amplifica o backlash na mesma proporção
+  (cap. 1936).
+- Golpes com **tempo de ativação baixo** exigem poucos pensamentos para serem mantidos, e
+  se forem destruídos só a manifestação se desfaz — o backlash sobre o Gu Imortal é
+  marginal (*strength path giant hand*, cap. 1936). O oposto também vale: um golpe
+  modificado pode passar a exigir tantos pensamentos que impede o usuário de usar
+  qualquer outro método ofensivo ao mesmo tempo (cap. 1945).
+- Custos não são só essência imortal. Um golpe pode cobrar **marcas do dao** do corpo do
+  usuário (*myriad ghost sword dragon*: quatro mil marcas de soul path por uso),
+  **memória** (*time cutting edge* apaga as próprias lembranças a cada disparo até ser
+  esquecido de vez), **tempo de vida** (*heavenly dragon's last stand*), **sorte**
+  (*spring autumn success*), um **recurso finito** (Reverse Flow River, orchid vitality qi,
+  astral qi, os frutos da árvore de karma) ou **ferimentos deliberados no próprio corpo**
+  (*heavy injuries*).
+- Alguns golpes têm **número fixo de usos**: o Gu Imortal Steal Life foi deixado com
+  apenas três chances de uso pelo criador (cap. 1751).
+- Há golpes sem custo de essência imortal nenhum: *heaven form* não gasta nada na fase de
+  detecção, e *leading countless stars* gasta pouquíssimo porque tira sua energia dos
+  fragmentos de estrela (caps. 1682, 1938).
+
+### O processo de sensoriamento (e como atacá-lo)
+
+- **Todo golpe assassino tem um processo de sentir o alvo**, e muitos Gu Imortais que não
+  conseguem desmontar um golpe conseguem se defender atacando esse processo específico
+  (cap. 1717). *Lead soul into dream* precisa sentir a alma do inimigo; sem isso, não pode
+  ser usado. *Farewell friend wind* é temível justamente porque seu sensor é bizarro: só
+  detecta "amigos", verdadeiros ou falsos.
+
+### Aura, segredo e obsolescência
+
+- **A maioria dos golpes imortais libera aura ao ser ativada** (cap. 1726) — o que obriga
+  quem quer agir escondido a evitar os golpes mais poderosos, e permite usar a aura enorme
+  de um golpe para **esconder outro** sob ela (cap. 1943).
+- Um golpe perde valor quando o inimigo o conhece. Um golpe muito usado deixa o adversário
+  "acostumado a lidar com ele" (*summer fan*, cap. 1939); publicar abertamente as
+  profundidades e o método de quebrar um golpe (como foi feito com *yama battlefield* no
+  treasure yellow heaven) faz o golpe perder o valor em batalha e torna arriscado usá-lo
+  (cap. 1772); e um golpe usado com frequência demais acaba deduzido pelo inimigo
+  (cap. 1699). Manter um trunfo em segredo é, por si só, uma vantagem estratégica
+  (*star cast*, cap. 1758).
+- Trunfos raramente decidem uma batalha sozinhos: os mais úteis num combate real são os
+  golpes *padrão*, porque um trunfo lento ou condicional simplesmente não recebe a
+  oportunidade de ser ativado contra um inimigo atento (cap. 1945).
+
+### Colisão, empilhamento e campos de batalha
+
+- Golpes **colidem**: quando dois se chocam, ambos são consumidos e os usuários sofrem —
+  *qi current scissors* contra agulhas negras dissipou mais da metade dos dois lados; dois
+  golpes de time path colidindo fizeram os dois usuários cuspir sangue (caps. 1719, 1736).
+- Golpes podem ser **empilhados uns sobre os outros** por um mesmo lado, formando camadas
+  de sombras luminosas (cap. 1930), e um único inimigo pode ser afogado por golpes vindos
+  de todas as direções ao mesmo tempo (cap. 1743).
+- **Campos de batalha imortais (immortal battlefields)** são uma categoria própria de golpe:
+  prendem o inimigo para que ele não possa fugir — sem estar preso num campo desses, um
+  Gu Imortal derrotado quase sempre consegue simplesmente ir embora (cap. 1802). Costumam
+  exigir preparação prévia (*rumor cage* é notável exatamente por ativar rápido); podem
+  impor o ambiente de um caminho, enfraquecendo quem cultiva outro; e existem golpes
+  criados especificamente para **contrariar** campos de batalha (*reverse worm dragon*,
+  cap. 1835). Quem tem atainment alto no caminho do campo consegue deduzi-lo e quebrá-lo de
+  imediato — contra um caminho em que não tem atainment, precisa forçar a dedução
+  (cap. 1700).
+
+### As quatro técnicas de manipulação de golpes
+
+O texto enumera explicitamente (caps. 1736 e 1835) **quatro técnicas principais** de uso
+de golpes assassinos:
+
+1. **Consecutive move (golpe consecutivo)** — encadear dois ou mais golpes para liberar
+   poder maior; normalmente só a elite dos Gu Imortais consegue. Um golpe pode ser
+   construído explicitamente como o consecutivo de outro (*karma relocation* é o golpe
+   consecutivo de *karma divine tree*). Encadear golpes do **mesmo caminho** é o padrão;
+   com um **consecutive Gu** de rank oito é possível encadear golpes de caminhos
+   diferentes, o que é muito mais poderoso (cap. 1791).
+2. **Variation move (golpe-variação)** — usar um golpe como base e acrescentar atributos
+   novos para obter efeito diferente (*myriad self* é a base de *strength path giant hand*).
+   Note-se que a variação **não é uma transformação em tempo real**: ativar o golpe-base
+   não o converte na variação, são golpes distintos. Um mestre excepcional da técnica
+   consegue fazer o mesmo ataque mudar de natureza no meio do voo — de golpe ofensivo para
+   método de amplificação (cap. 1736).
+3. **Attached move (golpe anexado)** — citado na enumeração, sem descrição nesta faixa.
+4. **Split move (golpe dividido)** — o usuário desdobra um único golpe em vários efeitos
+   aparentemente menores e independentes, que o inimigo toma por movimentos triviais; quando
+   ele os ativa em conjunto, revelam-se partes do mesmo golpe e liberam poder aterrador
+   (cap. 1835).
+
+### Criar, modificar e recriar golpes
+
+- Criar um golpe leva anos: *farewell friend wind* saiu de quase dez anos de reclusão;
+  *reverse worm dragon* precisou de dez anos de prática. Criar um golpe composto novo
+  costuma exigir ter atingido *grandmaster* no caminho envolvido (*swordsman* só nasceu
+  depois de o autor virar grandmaster de human path, cap. 1821).
+- Modificar um golpe alheio exige atainment alto no caminho dele mais a luz da sabedoria;
+  um golpe de rank oito "não é fácil de modificar" e pode passar séculos intocado nas mãos
+  de um dono comum (cap. 1700).
+- Golpes podem ser **imitados**: criar um golpe que mimetize o efeito de um Gu Imortal que
+  não se possui é chamado de "a profundidade de usar Gu" — permite substituir um Gu
+  inalcançável (cap. 1755). Também se pode reproduzir um golpe de outro caminho como
+  imitação declarada, sem chamar de melhoria (*one step back, sea and sky expands*).
+- Um golpe pode ser transmitido de duas formas: **como informação** (o destinatário tem de
+  preparar e ativar ele mesmo) ou **já ativado e deixado pronto** por quem o criou — foi
+  assim que um golpe originalmente de rank nove sobreviveu mais de um milhão de anos, com
+  o poder muito reduzido mas ainda funcional (cap. 1679).
+- Os golpes de Thieving Heaven Demon Venerable (*ghostly concealment*, *divine concealment*,
+  *heaven form*) têm a propriedade rara de **existir indefinidamente sem se desfazer**
+  (cap. 1815). Mas um golpe que se apoie num golpe de rank nove **não herda o nível nove**:
+  *great thief ghost hand* usa *ghostly concealment* e mesmo assim não é um golpe de rank
+  nove genuíno, e por isso não tem efeito sobre o fate Gu (cap. 1745).
+- Golpes assassinos imortais são **mercadoria**: aparecem entre os itens trocáveis por
+  méritos, ao lado de materiais imortais, Gu Imortais, receitas de Gu Imortal e até Casas
+  de Gu Imortal (cap. 1662).
+
+### Sistema de combate × golpes avulsos
+
+A observação mais importante da faixa (caps. 1945-1946): um Gu Imortal experiente não
+julga o adversário pelos golpes isolados, e sim pelo **sistema de combate**. Um sistema
+maduro cobre ataque (curto, médio e longo alcance), defesa, movimento (curto e longo),
+cura, investigação e combate contra grupos, com os golpes se complementando, e leva
+"pelo menos algumas centenas de anos de acúmulo" para amadurecer. Um praticante pode ter
+dois ou mais sistemas que se complementem entre si (por exemplo, um cujos ataques são
+fortes de perto e outro cujos ataques são fortes de longe). Bastam **um trunfo por
+sistema**. A metáfora do texto: golpes poderosos avulsos são pérolas grandes soltas; um
+sistema de combate é um colar feito de pérolas pequenas — e o colar vale mais que as
+pérolas grandes. Um trunfo sem sistema de apoio ao redor (sem golpes auxiliares que
+reduzam o ataque recebido, que amplifiquem o trunfo, ou que reponham o recurso que ele
+consome) é um peixe saboroso servido cru: bom, mas desperdiçado.

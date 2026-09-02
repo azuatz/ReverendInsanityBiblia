@@ -20,6 +20,18 @@ status: pesquisa-em-andamento
   devolve o documento a cem por cento canônico.
 - **`—`** — a obra não informa e nada foi preenchido.
 
+## Estado do levantamento
+
+| | Deserto Ocidental | Continente Central |
+|---|---|---|
+| Locais nomeados reunidos | **~28** (7 oásis, 7 desertos/sub-regiões, 14 outros) | **~55** (6 montanhas, 8 águas, 4 cidades, ~20 pontos internos da Heavenly Court, ~17 outros marcos e territórios de seita) |
+| Bioma/paisagem | forte | forte |
+| Clima e fenômenos periódicos | **forte** (o melhor bloco da região) | **fraco** — silêncio da obra |
+| Zonas perigosas | forte | forte |
+| Fauna e flora | média-forte | **fraco-médio** — sem espécie-assinatura |
+| Recursos e economia | forte | forte |
+| Domínios reclusos / terras abençoadas | **fraco** em secluded domains (nenhum canônico), forte em blessed lands | forte em blessed lands e grotto-heavens; nenhum secluded domain nativo |
+
 ---
 
 # DESERTO OCIDENTAL (Western Desert)
@@ -376,7 +388,7 @@ oásis num mar de areia, com formações geológicas anômalas espalhadas.
 ### As grandes montanhas
 | Nome | O que é | Por que importa |
 |---|---|---|
-| **Tian Ti Mountain** | A **montanha nº 1 do Continente Central**, no **centro** da região; mais de 3.000 km de altura; chamada "terra das heranças" e "montanha dos sábios/santos" | Terra sagrada dos Mestres Gu; o **lugar mais próximo da Immortal Court**. Buscadores de imortalidade que fracassaram enterram-se ali e ali instalam suas heranças — a montanha esconde **incontáveis heranças**, incluindo blessed lands inteiras. Foi originalmente a **escadaria que ligava o mundo à Heavenly Court** (construída sobre um *heavenly pillar*, material imortal rank 9); mesmo destruída e abandonada há eras, atacá-la ainda equivale politicamente a atacar a Heavenly Court — por isso ninguém a ataca (caps. 338, 341, 407, 419) |
+| **Tian Ti Mountain** | A **montanha nº 1 do Continente Central**, no **centro** da região; ergue-se acima das nuvens e "chega a 3.000 km no total"; chamada "terra das heranças" e "montanha dos sábios/santos" | Terra sagrada dos Mestres Gu; o **lugar mais próximo da Immortal Court**. Buscadores de imortalidade que fracassaram enterram-se ali e ali instalam suas heranças — a montanha esconde **incontáveis heranças**, incluindo blessed lands inteiras. Foi originalmente a **escadaria que ligava o mundo à Heavenly Court** (construída sobre um *heavenly pillar*, material imortal rank 9); mesmo destruída e abandonada há eras, atacá-la ainda equivale politicamente a atacar a Heavenly Court — por isso ninguém a ataca (caps. 338, 341, 407, 419) |
 | **Fei He Mountain** (montanha das Grous) | No **sul** do continente, entre dezenas de milhares de colinas, ergue-se acima das nuvens e "perfura os céus"; sede da Immortal Crane Sect | Os **dez mil grous** da montanha são famosos em todo o Continente Central; abriga a *White Crane Information Tower*, uma Immortal Gu House de nove andares dedicada exclusivamente a information path (cap. 334) |
 | **True Yang mountain range** | Cadeia **muito perigosa**, cheia de feras ferozes e desolate beasts; produz *hibiscus stalactite* e *stone heart liquid* em suas cavernas | O melhor esconderijo do continente para imortais foragidos — nem as dez grandes seitas conseguem encontrar alguém lá dentro (caps. 846-849, 859, 862) |
 | **Xuanwu mountain range** | Cadeia de área enorme, ponto de recurso gigante da Spirit Affinity House | **Tesouro público de materiais imortais**; grande demais para ser bem defendido, o que a torna alvo clássico de saque (caps. 954, 1921) |
@@ -392,6 +404,8 @@ oásis num mar de areia, com formações geológicas anômalas espalhadas.
 | **Lotus Fairy Pond** | Lagoa dentro da Heavenly Court | Primeira etapa da rota direita (cap. 1710) |
 | **Red river beach** | "Praia" de rio que produz *blazing red stones* | Ponto de recurso saqueável da Spirit Affinity House (caps. 1702, 1921) |
 | **Scale light river** | Rio, ponto de recurso | Citado sem descrição (cap. 2325) |
+| **Dragon lake** | Lago com uma **ilha no centro**, onde fica a blessed land-sede do Myriad Dragon Dock | Sede de uma das dez grandes seitas ancestrais construída sobre uma ilha lacustre (cap. 2324) |
+| **Blue lake** (sem nome próprio) | Lago com uma pequena ilha, área de disputa de recursos entre discípulos de elite | Palco típico das competições formais entre seitas por um achado (cap. 909) |
 
 ### Cidades
 | Nome | O que é | Por que importa |
@@ -433,7 +447,7 @@ Demoníacos abriram três rotas** através dela, e essas rotas são citadas nomi
 | **Reincarnation Battlefield** | Área/killer move de campo de batalha **reconhecidamente a número um do mundo**, montada pessoalmente por Paradise Earth Immortal Venerable; ali um Gu Immortal pode "morrer" repetidas vezes sem perecer de verdade (só acumula ferimentos após muitas mortes) | Disputada há muitos anos pelas dez grandes seitas ancestrais como território permanente; manter posição ali consome Gu Immortals e recursos continuamente (caps. 697, 745) |
 | **Hidden Dragon Cave** | Um **Earth Trench** cuja localização a Heavenly Court apagou deliberadamente dos registros; abriga o *Evil Dragon* Di Zang Sheng, immemorial desolate beast nascido do ódio e rancor acumulados nas **earth veins do Continente Central** | O carcereiro mais importante do mundo: Di Zang Sheng **não pode ser morto em definitivo** (enquanto houver humanidade gerando emoção negativa ele se reforma a partir de novas earth veins), só suprimido por uma super formação imortal; guardá-lo é pena disciplinar da Corte (caps. 1069, 1301, 1701, 1707) |
 | **An Zu Earth Trench** | Trincheira terrestre controlada pela Demon Expelling Sect | "Muito famosa no Continente Central"; base territorial de uma super força (caps. 838, 931) |
-| **Broken Sword Valley** | Montanha partida ao meio por uma luz de espada disparada sob o Falling Heavenly River, com dao marks de sword path gravados no terreno | Local **autossustentável** que produz continuamente Gu selvagens de sword path |
+| **Broken Sword Valley** | Montanha partida ao meio por uma luz de espada disparada sob o Falling Heavenly River, com dao marks de sword path gravados no terreno | Local **autossustentável** que produz continuamente Gu selvagens de sword path; atrai multidões de Mestres Gu rank 3-4 em busca de *sword qi Gu*, apesar de a produção ser lenta (cap. 1059) |
 | **Imprisonment Valley** | Ponto de recurso da Spirit Affinity House; produz *southern thorns* | Alvo clássico de saque (caps. 1702, 1921, 2325) |
 | **Centipede valley** | Vale na região central do continente | Foi cortado ao meio por luzes de espada vindas da nascente do Falling Heavenly River (caps. 956-957) |
 | **Quiet Rain Valley**, **Mountain Tortoise Valley**, **hundred segment forest**, **earth qi rock forest**, **scale light river** | Cadeia de pontos de recurso das seitas ancestrais | Citados em sequência como alvos de saque; sem descrição individual (cap. 2325) |
@@ -462,6 +476,16 @@ Sect).
 - **Immortal Gu Houses associadas** que funcionam como marcos móveis: *Frost Dragon Manor*
   (Ancient Soul Sect), *Canary Pavilion* (Heavenly Lotus Sect), *White Crane Information
   Tower* (Immortal Crane Sect).
+- **Infraestrutura de transporte**: a Heavenly Court mantém uma **formação Gu de
+  teleporte** que liga sua sede diretamente às bases das seitas ancestrais — imortais da
+  Corte aparecem "num instante" na base do Combat Immortal Sect ou do Heavenly Lotus Sect
+  (caps. 962, 997). É o equivalente central-continental do *Ten Thousand Li Silk Corridor*
+  do Deserto Ocidental, com a diferença de ser **estatal e não comercial** (ded.).
+- **Formação de cálculo por matriz estelar (star array calculation formation)**: formação
+  gigante deixada por Star Constellation, funciona como uma "mini Heaven Overseeing Tower"
+  — coleta informação regional (geografia, clima, forças, localização e condição dos Gu
+  Immortals) e coordena os imortais do continente por dedução. Infraestrutura invisível
+  que cobre a região inteira.
 
 ## 4. Zonas perigosas
 

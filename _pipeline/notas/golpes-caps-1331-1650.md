@@ -174,3 +174,178 @@ quando rotula como "mortal killer move", `1–5 (mortal)`. Quando não rotula na
 | Pulling Mountain (golpe) | 6–9 (imortal) | — | pulling mountain (Gu Imortal rank 6) como núcleo | Move um domínio recluso do céu e da terra para dentro da abertura imortal do usuário — algo que o Gu Imortal sozinho não conseguia fazer | Como o Gu-núcleo é só rank seis, não move uma cadeia de montanhas inteira; exigiu muito tempo de trabalho sob a luz da sabedoria para ser criado | 1488, 1591 |
 | Blood Deity | 6–9 (imortal) | sangue (ded.) | — | — | Foi obtido convertendo uma receita de Gu Imortal diretamente num golpe assassino, coisa possível a quem tem attainment quase supremo em refino; serviu de base para deduzir Yama Child | 1564 |
 | Lightning Deity | 6–9 (imortal) | raio (ded.) | — | — | Seu criador precisou de alguns anos de cultivo isolado para deduzi-lo — e isso tendo a receita de Gu Imortal do Blood Deity como referência | 1617 |
+
+## Observações de mecânica
+
+Regras gerais sobre golpes assassinos que a obra enuncia neste intervalo. São
+observações de mecânica, não catálogo — alimentam a nota conceitual.
+
+### O que é e o que conta como golpe assassino
+
+- **Definição operacional**: um golpe assassino usa vários Gu ao mesmo tempo. Um Gu
+  isolado não é golpe. (cap. 1333)
+- **Formações Gu são um tipo de golpe assassino.** Cada formação Gu é um golpe
+  assassino diferente, e por isso o caminho da formação é o caminho com mais golpes
+  assassinos de todos. As diferenças de detalhe: formações duram muito mais tempo, e
+  depois de montadas consomem menos energia mental do que um golpe comum. (cap. 1333)
+- **Casas de Gu (mortais e imortais) também são, em essência, golpes assassinos
+  imortais**, feitas de incontáveis Gu e completas em ataque e defesa. Projetar uma
+  Casa de Gu nova é deduzir um golpe assassino novo, e por isso exige attainment
+  profundo no caminho da sabedoria. (cap. 1521)
+
+### Rank e classificação
+
+- Um golpe mortal vira imortal simplesmente trocando o núcleo por um Gu Imortal —
+  a obra afirma isso ao pé da letra sobre Iron Mask Equipment. (cap. 1533)
+- **O rank do golpe segue o rank do Gu Imortal-núcleo.** Um Gu Imortal rank oito no
+  núcleo dá um golpe rank oito, e é isso que separa dois Gu Imortais de acúmulo de
+  marcas de dao equivalente. (cap. 1389, 1562)
+- **Golpes rank sete, por mais refinados que sejam, quase não afetam existências
+  rank oito.** A diferença entre os dois ranks é grande demais para ser compensada
+  por sofisticação. (cap. 1429)
+- Marcas de dao acumuladas amplificam os golpes: um rank sete com acúmulo de marcas
+  equivalente a rank oito consegue levar seus golpes a quase-rank-oito sem possuir
+  nenhum Gu Imortal rank oito. (cap. 1571)
+
+### Criar um golpe novo
+
+- **Sem ajuda de métodos do caminho da sabedoria, um Gu Imortal leva em média cinco a
+  seis anos para deduzir e conceber um golpe assassino.** Escolher os Gu certos entre
+  miríades e escolher a combinação entre incontáveis possíveis já é difícil; um golpe
+  concebido ainda pode não ter valor prático ou ter efeito colateral severo demais para
+  ser usado; e depois de pronto ainda precisa ser testado e aprimorado. (cap. 1617)
+- Com a luz da sabedoria (wisdom Gu), o mesmo trabalho cai para dias ou minutos. (cap. 1465)
+- Com attainment quase supremo no caminho do refino, **qualquer receita de Gu Imortal
+  pode ser convertida em golpe assassino**. (cap. 1564)
+- **A grande ambição do caminho do refino é o inverso**: comprimir um golpe assassino
+  inteiro dentro de um único Gu. Um golpe mortal citado usa cinquenta Gu; a versão de
+  um golpe imortal condensada num único Gu Imortal perdeu só um pouco de efeito, mas
+  ganhou uma queda enorme no gasto de essência imortal e passou a ser ativada com um
+  único pensamento, sem tempo de preparo. (cap. 1561, 1570, 1571)
+
+### Golpe-combinação (combination move)
+
+- É uma **técnica com nome próprio**: não é empilhar um golpe sobre o outro, é fundir
+  dois golpes num terceiro, qualitativamente superior. Ancient Sword Dragon
+  Transformation + Myriad Self = Myriad Dragon. (cap. 1421, 1422)
+- Vale também para formações: duas formações imortais podem ser fundidas numa só pela
+  mesma técnica, o que exige attainment de grão-mestre em formação. (cap. 1422)
+- Combinações maiores existem: Fetus Earth Maze é a fusão de **três** golpes rank oito
+  (Descending Sand + Mud Piled Into a Wall + Six Directional Maze). (cap. 1538)
+- Um observador experiente reconhece um golpe-combinação pela assinatura: defesa forte,
+  tropas próprias e ataque forte no mesmo golpe. (cap. 1564)
+
+### Custo e sustentação
+
+- Todo golpe cobra **essência imortal** e **energia mental**. Golpes do caminho da
+  sabedoria são estruturalmente mais complexos e gastam muito mais energia mental que
+  os de outros caminhos. (cap. 1516)
+- Sustentar um golpe pesado pode consumir toda a energia mental disponível e impedir o
+  usuário de usar qualquer outro golpe ao mesmo tempo — foi o limite conhecido do
+  Reverse Flow Protection Seal. (cap. 1425)
+- **Quantos golpes se consegue manter ao mesmo tempo é um atributo pessoal, e é uma
+  fraqueza reconhecível**: um adversário calculava que o outro mal conseguia dois ou
+  três golpes simultâneos, e ficou chocado ao vê-lo sustentar muito mais depois de
+  evoluir. (cap. 1426)
+- O Gu-núcleo determina que recurso o golpe drena: com attitude Gu no núcleo, Familiar
+  Face gasta praticamente só energia mental, e quase nenhuma essência imortal. (cap. 1633)
+- Uso intensivo de golpes caros (mais formações imortais, mais batalhas) derruba as
+  reservas de essência imortal a níveis perigosos — é um recurso finito de campanha,
+  não só de combate. (cap. 1606)
+
+### Backlash e falha
+
+- **Roubar o Gu Imortal-núcleo no meio da ativação faz o golpe falhar na hora, e o
+  backlash fere gravemente o usuário.** É o mecanismo que torna o caminho do roubo
+  temível em combate. (cap. 1564, 1587, 1603)
+- Depender de um único golpe e tê-lo quebrado pode custar toda a força de combate ou a
+  própria vida. (cap. 1360)
+- **Quebrar um golpe de campo de batalha imortal causa backlash pesadíssimo — e quanto
+  mais forte o golpe, pior o backlash.** Isso o distingue de uma formação Gu: destruir
+  uma formação normalmente não fere gravemente o Gu Imortal. (cap. 1391)
+- Um golpe com janela de ativação (centenas de passos em três respirações) dá backlash
+  se a janela for perdida. (cap. 1596)
+- Golpes que exigem a alma fora do corpo (Split Soul) matam por colapso da alma se
+  falharem — quem tem base de alma fraca não pode nem tentar. (cap. 1471)
+
+### Campos de batalha imortais (immortal battlefield killer moves)
+
+- Isolam uma área do mundo exterior e a impregnam com as marcas de dao do caminho do
+  usuário. **Dentro, golpes do mesmo caminho são amplificados e golpes de outros
+  caminhos são resistidos pelas próprias marcas de dao do campo** — inclusive golpes do
+  próprio dono do campo. (cap. 1485, 1577)
+- Um campo do caminho do tempo pode alterar a taxa de tempo em relação ao exterior;
+  campos de outros caminhos não conseguem. (cap. 1577)
+- Um campo do caminho da sabedoria confere vantagem territorial: bloqueia deduções e
+  comunicação com o exterior e suprime os caminhos rivais presentes. (cap. 1485, 1486)
+- Alguns campos se alimentam da vontade de luta (battle will) das pessoas presentes, e
+  o usuário precisa que elas cooperem para o campo se sustentar. (cap. 1538)
+- **Velocidade de abertura importa**: abrir um campo em uma respiração já é mais rápido
+  que a maioria dos campos do mundo, e ainda assim é tempo suficiente para um adversário
+  atento escapar antes que ele feche. (cap. 1576)
+- Terreno já saturado de marcas de dao do caminho certo acelera a abertura do campo.
+  (cap. 1576)
+
+### Modificar, contrariar e esconder
+
+- Golpes são **modificáveis**: trocar núcleos e acrescentar Gu mortais muda alcance,
+  duração e a faixa de rank que o golpe afeta — o mesmo Directional Confusion Fog passou
+  por três versões com trade-offs diferentes. (cap. 1558)
+- Modificar é também a defesa contra quem já conhece o seu golpe: uma contramedida
+  deduzida contra a versão inicial não pega a versão modificada. (cap. 1538)
+- **Usar um golpe o expõe.** Depois de uma batalha, os golpes vistos passam a ser
+  contrariados ou pelo menos defendidos no encontro seguinte — por isso trunfos ficam
+  guardados mesmo quando seriam úteis. (cap. 1422)
+- Existe um método de dois passos documentado para desmontar o golpe alheio em pleno
+  combate: Purple Thought Perception Starlight aprende as profundezas do golpe do inimigo
+  a cada golpe recebido, e Brilliant Will Dissolution o desfaz depois. (cap. 1465)
+- Saber de antemão que um golpe existe já basta para neutralizá-lo: Submission Song foi
+  anulado por completo só porque o defensor havia sido avisado e guardou suas feras
+  dentro das aberturas imortais. (cap. 1545)
+- Um golpe de assinatura identifica seu autor pelo efeito deixado — o cadáver de vítima
+  de Wooden Statue Murder aponta direto para quem o usa. (cap. 1339)
+
+### Interações entre golpes
+
+- **Aceleração cruzada é proibida**: usar um método do caminho do tempo para acelerar um
+  golpe de outro caminho é "jogar óleo no fogo" — o efeito volta contra o usuário, o
+  golpe falha e há backlash. Métodos de tempo acelerando golpes de tempo, ao contrário,
+  se complementam. (cap. 1596)
+- **Alguns golpes empilham**: Floating Sinking Iron Sand pode ser empilhado e combinado
+  consigo mesmo e com outros golpes, ficando mais forte a cada rodada, e o usuário
+  retoma o controle dele mesmo depois de refletido de volta. (cap. 1536)
+- **Golpes refletidos**: um golpe defensivo de reflexão devolve o ataque ao atacante —
+  mas nada é devolvido se o inimigo só recebe golpes passivamente, sem atacar. (cap. 1426)
+- **Golpes podem ser armazenados em clones e detonados depois**: cada flowery wind
+  warrior carrega um golpe assassino inteiro, liberado quando o guerreiro se autodetona
+  sobre o alvo — e o controle dos guerreiros pode ser delegado a outros Gu Imortais.
+  (cap. 1523)
+- **Golpes podem ser fundidos dentro de outros golpes**: Life and Death Retrieval foi
+  embutido em Emperor Yama para dar aos yama children retorno instantâneo. (cap. 1564)
+- Golpes auxiliares existem como categoria: Lingering Tune só serve para prolongar outro
+  golpe sonoro, e Shrink Time só para encurtar a janela de ativação de outro golpe de
+  tempo. (cap. 1429, 1596)
+
+### O ambiente altera o golpe
+
+- Dentro do Rio do Tempo: transformação é fortemente suprimida (o gasto de essência
+  imortal sobe dezenas de vezes), Reverse Flow Protection Seal fica várias vezes mais
+  difícil de manter, Winter Coat é amplificado até se igualar a ele, e Luo Po Seal leva
+  mais tempo para ativar e sai mais fraco. (cap. 1633)
+- Um golpe de canção que se apoia em ressonar com o céu e a terra do lugar fica muito
+  mais fraco quando o lugar é o território do inimigo, carregado de animosidade contra o
+  cantor. (cap. 1545)
+- O caminho do refino tem **quatro golpes assassinos publicamente reconhecidos como os
+  mais fortes para processar materiais imortais**; um deles é Slumbering Lightning
+  Python. Material imortal rank oito exige a versão rank oito do golpe. (cap. 1562)
+
+### Sem Gu-núcleo não há golpe
+
+- Ter o conhecimento do golpe não basta: sem o Gu Imortal que serve de núcleo, um
+  arsenal inteiro de golpes é inútil. Self Cleansing ficou parado até o Self Love Immortal
+  Gu aparecer. (cap. 1407)
+- Em compensação, um golpe pode ser modificado para aceitar substitutos no lugar do
+  núcleo original — foi o que se fez com Ghost Official Garment. (cap. 1447, 1448)
+- E um Gu Imortal perdido pode ser substituído por um golpe assassino que reproduza seu
+  efeito: Eat Strength virou golpe depois que o Gu Imortal de mesmo nome foi destruído.
+  (cap. 1465)

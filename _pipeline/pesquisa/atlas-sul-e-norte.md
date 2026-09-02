@@ -267,6 +267,10 @@ norte — essa é uma assimetria real da obra, e vale registrar. O que ela tem:
   a uma **herança verdadeira** ligada a um Gu/objeto/local (caps. 1182, 1347).
 - **Jian Wen blessed land**: sede do clã **Xia** — um dos treze super clãs da Southern Border
   (ded. quanto à região: a sede de um super clã do sul fica no sul).
+- **Xia Cha grotto-heaven**: gruta-céu da Southern Border cujo ponto de recurso característico
+  é um **year essence pool** (poço de essência de ano) — recurso de valor comparável ao de um
+  grande negócio de peixe-dragão, e ligado à captura de *year beasts* (feras-ano) (caps. 1635,
+  1790).
 - **Escala agregada**: um único conjunto de aberturas imortais anexadas de Gu Immortals da
   Southern Border rendeu "mais de dez blessed lands e até uma grotto-heaven" (cap. 1635) —
   isso dá a ordem de grandeza da região: **dezenas de blessed lands, pelo menos uma
@@ -424,7 +428,6 @@ de desastre.
 | **Feng Bo cliff** | Penhasco nomeado; ponto de formação de teleporte | (cap. 1048) |
 | **Ku Mu mountain** | Montanha nomeada | (cap. 737) |
 | **Divine Needle Valley** | Vale que "não se formaria naturalmente"; no fundo repousa um ouriço branco gigantesco coberto de espinhos cheios de dao marks de sword path | Exemplo de acidente geográfico **criado por uma criatura** (cap. 1567) |
-| **Triple Sacred Mountain** | Montanha nomeada, tratada como "lar" por um povo | (cap. 1591) |
 | **Myriad Bean Garden** | "Jardim das Miríades de Feijões" — ponto nomeado | (cap. 1100) |
 
 ### Cidades
@@ -433,8 +436,12 @@ de desastre.
 |---|---|---|
 | **Inkman City** | Cidade dos **inkmen** (homens-de-tinta, humanos variantes); população acima de 800 mil, depois >1,2 milhão | Prova que o norte abriga **forças de humanos variantes** com cidade própria — mas com apenas um Gu Immortal inkman público (caps. 1766, e V5-V6) |
 | **Dark Flow Giant City** | "Cidade Gigante do Fluxo Escuro"; a escuridão fica mais densa quanto mais perto do centro; situada **sobre a entrada de uma Earth Trench** | Sede da Zombie Alliance do norte (caps. 739, 1227-1267) |
-| **Old Earth City** | Cidade nomeada, com um "velha árvore de madeira-terra" na entrada | (cap. 738) |
-| **Mountain Cliff City** | Cidade nomeada com senhor de cidade próprio | (cap. 1824) |
+| **Old Earth City** | Cidade nomeada, com uma "velha árvore de madeira-terra" na entrada | (cap. 738) |
+
+> Aviso de escopo: **Triple Sacred Mountain e Mountain Cliff City NÃO são geografia real do
+> Northern Plains** — a primeira é o centro da "Mini Northern Plains" dentro de uma abertura
+> imortal (cap. 1591) e a segunda foi transplantada para lá vinda de outro lugar (cap. 1824).
+> Não usar no atlas do mundo.
 
 ## 4. Zonas perigosas
 
@@ -474,6 +481,11 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
   *wind wolf myriad wolf king*, *turtleback myriad wolf king*, além dos **wolf emperors**
   (imperadores-lobo) "nativos do northern plains". Um *myriad wolf pack* guarda um recurso
   de nível imortal na pastagem (caps. 426-476, e V4-V5 passim).
+- **Azure wolves (lobos azuis)**: espécie do norte em **declínio documentado** — "no céu do
+  northern plains, quase nenhum lobo azul podia ser visto; estavam ficando cada vez mais raros,
+  prestes a se extinguir". Sobrevivem em grande número dentro da Imperial Court blessed land
+  (cap. 550). Segundo caso de espécie em extinção regional na obra, ao lado das cloud beasts
+  do sul.
 - **Coiling mountain goat king** (rei-cabra-da-montanha-espiralada): citado explicitamente
   como a **desolate beast representativa do Northern Plains**, ao lado do phoenix feather lava
   crocodile do sul (caps. 700, 781).
@@ -517,7 +529,7 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
   A economia mortal do norte é **pastoril**, não agrícola nem mineral.
 - **Grupos de lobos como capital**: um grupo de lobos é ativo econômico mensurável — "depois da
   minha compra, o tamanho do meu grupo de lobos já é de segunda categoria no plano mortal do
-  northern plains" (cap. ~1300s). Existe mercado de compra e venda de matilhas.
+  northern plains" (cap. 493). Existe mercado de compra e venda de matilhas.
 - **Blowpipe grass**: especialidade regional exportável (cap. 476).
 - **As dez áreas ferozes como fronteira de recursos**: depois que as super forças dividiram
   todo o resto da região, **o que restou de recurso não reclamado está nas áreas ferozes** —
@@ -527,8 +539,8 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
   Immortal Gu selvagens, black oil, materiais raros (caps. 931-935, 1531, 1734).
 - **Refinement path**: a região tem uma tradição forte de refino — entre os Gu Masters de
   refinement path publicamente conhecidos do norte, quatro são quasi-grão-mestres ou mais
-  (cap. V5). A blessed land nº 1 de refino da região oferece **maior chance de sucesso ao
-  refinar Gu dentro dela**.
+  (cap. 844). A blessed land nº 1 de refino da região oferece **maior chance de sucesso ao
+  refinar Gu dentro dela** (cap. 731).
 - **Poder de combate como "produto" regional**: a maior densidade de Gu Masters de combate do
   mundo, e Gu Immortals de bravura e força de combate notáveis, é o recurso humano
   característico da região (caps. 425, e V4).
@@ -546,27 +558,27 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
 - **Luck Suppression Heavenly Palace** (Palácio Celeste de Supressão da Sorte): estrutura
   ligada a Longevity Heaven que **influencia as porções de black heaven e white heaven
   situadas acima do Northern Plains** — isto é, o norte tem controle institucional sobre o
-  próprio "céu regional".
+  próprio "céu regional" (cap. 1294).
 - **Hei Fan grotto-heaven**: gruta-céu com montanhas, água e céu próprios; ligada a uma
   **herança verdadeira** por tabuleta de pedra e a um sistema de "imortais criminosos" que
-  recuperam a liberdade quando o primeiro herdeiro se torna Gu Immortal (caps. 1182, e V5).
+  recuperam a liberdade quando o primeiro herdeiro se torna Gu Immortal (caps. 1182, 1252).
 - **Feng Xian grotto-heaven**: gruta-céu nomeada do Northern Plains, com salão de entrada
-  próprio (V5).
+  próprio (caps. 743, 1546).
 
 ### Terras abençoadas (blessed lands)
 
-- **Imperial Court blessed land** (Terra Abençoada da Corte Imperial): a mais importante da
-  região. Nasceu de um Gu Immortal de space path esquecido, foi herdada por Giant Sun antes do
+- **Imperial Court blessed land** (Terra Abençoada da Corte Imperial): **a maior blessed land
+  do Northern Plains** (cap. 550) e a mais importante da região. Nasceu de um Gu Immortal de space path esquecido, foi herdada por Giant Sun antes do
   rank 9 e blindada por métodos de Venerável. É uma **"quasi grotto-heaven"** — tem ciclo de
   dia e noite próprio, o terreno **se restaura a cada ciclo**, e comporta cerca de **5 milhões
-  de pessoas**. Tem **teleporte aleatório na entrada** e **torres de Gu selvagens a cada 8 li**.
+  de pessoas** (cap. 587). Tem **teleporte aleatório na entrada** e **torres de Gu selvagens a cada 8 li**.
   **Dilatação temporal**: "um dia aqui no mundo externo equivale a mais de vinte dias dentro da
   Imperial Court blessed land". Sua **tribulação periódica é a fonte real da nevasca decenal**
   (caps. 528, 548-556, 612).
 - **Snowy Mountain blessed land**: ninho dos Gu Immortals demoníacos da região — dezenas
   deles, **um pico para cada um**. "Fortaleza sólida, fácil de defender e difícil de atacar";
   é o **ponto de reunião do caminho demoníaco do norte** e sua **nº 1 força demoníaca**
-  (caps. 537, 638).
+  (caps. 537, 638, 1252, 1262).
 - **Lang Ya blessed land**: a blessed land de **refinement path** da região — "refinar Gu aqui
   teria maior chance de sucesso". Antiga casa do "nº 1 imortal de refinement path" do mundo.
   Notavelmente, é **móvel**: pode ser **relocada** de lugar (chegou a se esconder dentro de uma
@@ -575,17 +587,19 @@ O norte tem uma categoria **formal e canônica** que o sul não tem:
 - **Jade Pool blessed land**: sede da tribo **Dong Fang**. Vocação **agrícola/de cultivo de
   recursos** — nela se plantavam recursos trazidos do Eastern Sea até darem fruto, para depois
   serem vendidos a Gu Immortals do Northern Plains. É o exemplo mais claro de blessed land
-  usada como **fazenda de recursos** (V4-V5).
+  usada como **fazenda de recursos** (cap. 796).
 - **Iron Eagle blessed land** (Terra Abençoada da Águia de Ferro): sede da tribo **Hei**;
   descrita como "ninho de águia". Forma, com Blood Plain e Tai Qiu, o "V irregular" do mapa
-  regional (caps. 1206, e V5).
+  regional (caps. 1206, 1252).
 - **Zi Du blessed land**: blessed land de **poison path**, coberta de ervas venenosas
   incontáveis e de grandes pântanos e brejos venenosos. **Seu veneno vaza para fora e criou a
   poison grassland** — caso raro de blessed land que altera o bioma do mundo externo ao redor
   (caps. 426-433).
 - **Star Form blessed land**: blessed land do norte com um sistema fluvial construído dentro
-  dela (V5).
-- **Tai Bai blessed land**: blessed land nomeada do Northern Plains (V5).
+  dela (cap. 902).
+- **Tai Bai blessed land**: blessed land nomeada do Northern Plains (caps. 1294, 1435).
+- **Han Dong blessed land**: blessed land de **rank 6** do Northern Plains — exemplo do porte
+  "comum" de blessed land da região, por contraste com as super forças (cap. 1184).
 
 ### Domínios reclusos de céu e terra (secluded domains) na região
 

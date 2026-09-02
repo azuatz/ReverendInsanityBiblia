@@ -30,7 +30,23 @@ O segundo é o do isolamento. As regiões não estão separadas por oceanos intr
 
 ## As paredes regionais
 
-Três das cinco paredes são nomeadas na obra: a *parede santa* do Continente Central, a *parede alcaçuz* das Planícies do Norte e a *parede de água azul* do Mar Oriental.
+**As cinco paredes têm nome, cor e caráter próprios** — a obra nomeia todas as cinco, e cada uma se comporta de um jeito diferente por dentro. Vale decorar a tabela, porque ela é a coisa mais fácil de usar numa descrição de mesa: um viajante sabe em que fronteira está pela **cor do horizonte**.
+
+| Região | Nome da parede | Como se vê de fora | Como é por dentro |
+|---|---|---|---|
+| Continente Central | **parede santa** (*saint regional wall*) | luz branca condensada em muro sólido, com clarões dourados de vigor e majestade | o corpo pesa, o pensamento fica lento e a dimensão interna do viajante começa a tremer |
+| Planícies do Norte | **parede alcaçuz** (*licorice regional wall*) | verde | névoa verde de visibilidade péssima, com capim crescendo desenfreado que se enrosca e se torce "como um mar de cobras ou de cabelo", fechando o caminho; e uma força informe e enorme que empurra o viajante de volta |
+| Fronteira Sul | **parede de miasma** (*miasma regional wall*) | roxo-escuro, quase preto — enche metade do horizonte quando se chega perto | `—` a obra não descreve o interior |
+| Deserto Ocidental | **parede de chama ardente** (*raging flame regional wall*) | vermelha | `—` |
+| Mar Oriental | **parede de água azul** (*blue water regional wall*) | azul-profundo | `—` |
+
+Três coisas dessa tabela mudam o desenho de um mapa:
+
+- **A parede é uma membrana que envolve a região inteira**, não um muro numa linha de fronteira. Ela cobre a região como uma casca.
+- **As paredes se tocam.** Quem sai do Continente Central atravessa a parede santa e cai **direto** dentro da parede alcaçuz do norte — não há terra de ninguém entre as duas. Na prática, **toda travessia entre regiões é a travessia de duas paredes seguidas**, e é por isso que a viagem inteira é descrita como um sofrimento contínuo em vez de um portão que se cruza.
+- **Nada vive lá dentro.** A parede não tem feras, guardas nem armadilhas: a parede é, ela própria, o obstáculo inteiro.
+
+**A parede tem espessura, e a espessura se mede em passos.** Um golpe de nível imortal abre um corredor de setenta e poucos passos dentro dela; um grupo de imortais avança revezando golpes, cada um abrindo mais algumas dezenas de passos, e um trecho fino de parede pode exigir mais de **três mil passos** de escavação. E ela **se regenera enquanto se cava** — um corredor recém-aberto já encolheu dois passos quando o último da fila entra. Existem **pontos fracos**, e localizá-los é trabalho de adivinhação: um especialista em dedução consegue calcular onde a parede é mais fina, e essa informação vale uma travessia inteira.
 
 ### O que se sabe sobre as paredes
 

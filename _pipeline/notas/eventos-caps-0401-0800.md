@@ -421,3 +421,139 @@ que é enredo e **não** pode migrar para a nota final.
   vontade que serve de guia. O **conteúdo** das supremas é a maior mina de spoiler da faixa.
 - **Lacunas:** quantas heranças restam hoje; qual a velocidade-limite; se há saída voluntária
   segura em qualquer momento.
+
+---
+
+## Eventos únicos (continuação)
+
+### Turtleback Wolf Group e Night Wolf Group — o cerco de bestas a uma tribo em migração — caps. 451-458
+
+- **Tipo:** maré de bestas dirigida (beast wave usada como arma política)
+- **Onde:** estepe aberta do Northern Plains, com um rio próximo; uma tribo de escala
+  média-pequena em coluna de migração.
+- **Gatilho / causa mecânica:** **não é fenômeno natural — é sabotagem.** Uma tribo maior
+  conduziu secretamente bandos de lobos contra a coluna da tribo menor que tentava escapar de
+  seu domínio, e ao mesmo tempo assassinou os **Gu Masters de reconhecimento** da vítima para
+  cegá-la antes da segunda onda (cap. 455). Escravizar bestas é um caminho de cultivo comum
+  (enslavement path), o que torna "empurrar uma horda contra alguém" uma jogada de guerra
+  normal e negável.
+- **Periodicidade:** único, mas o *formato* é rotina no Northern Plains — "encontrar ataques de
+  bestas era coisa normal nas planícies do norte; por isso, tanto Gu Masters quanto mortais
+  cultivavam uma mente forte" (cap. 451).
+- **Duração:** duas ondas separadas por três dias (cap. 455).
+- **Escala:** primeira onda **mais de 38 mil turtleback wolves** conduzidos por um
+  **turtleback myriad wolf king**; segunda onda, **dez mil night wolves** de madrugada, com
+  um myriad wolf king próprio (caps. 451, 455). Do lado defensor, uma tribo inteira: Gu
+  Masters de rank 1 a 4 e uma massa muito maior de **mortais**, que são "a pedra angular de
+  toda tribo — sem mortais, de onde viriam os futuros Gu Masters?" (cap. 451).
+- **Ambiente por dentro:** o solo treme sob dezenas de milhares de patas. A coluna para,
+  forma um **círculo**, e os Gu Masters de suporte **erguem com Gu, em minutos, muralhas de
+  terra, torres de arqueiro e várias camadas de defesa** (cap. 451). A hierarquia das bestas
+  é visível a olho nu: **hundred beast king → thousand beast king → myriad beast king →
+  beast emperor** (cap. 409); o myriad wolf king é dez vezes maior que um lobo comum, fica na
+  retaguarda **comandando**, divide o bando em cinco ou seis grupos que circulam o
+  acampamento procurando um furo na defesa, e um uivo seu põe todo o bando em fúria
+  (cap. 451-453).
+- **Regras especiais do local:**
+  - **A defesa é engenharia, não heroísmo.** A resposta canônica foi **cavar um canal e
+    desviar o rio**: turtleback wolves têm corpo pesado (um terço do peso é o casco) e **não
+    nadam — afundam e se afogam** (cap. 451). Contra bando de águias ou corujas a resposta
+    seria outra: **cavar um túnel** (cap. 451). Cada tipo de horda tem sua contramedida.
+  - **Reconhecimento é o recurso decisivo.** Batedores a 600 li de distância deram oito
+    minutos de aviso e permitiram a obra (cap. 451); na segunda onda, com os batedores mortos,
+    o bando foi visto a **cem li** e o acampamento foi massacrado (cap. 455).
+  - **De noite, o inimigo real é o pânico:** "a matança do bando causou muitas mortes, mas
+    ainda mais mortes vieram das pessoas se pisoteando" — e o pisoteio inviabilizou qualquer
+    contra-ataque organizado (cap. 455).
+  - **Wolf enslavement Gu** (Gu de escravização de lobos) é **descartável, um uso só**, e
+    normalmente o rei-de-bando correspondente carrega o Gu que o escraviza — matar reis rende
+    mais Gu de escravização (cap. 452). O custo real não é essência primeva, é **carga sobre a
+    alma** do escravizador (cap. 452). Alguns reis carregam Gu que **queimam a fumaça do
+    escravizador antes de ela pousar** (cap. 452).
+  - Um myriad beast king tem **inteligência muito acima da espécie** e escolhe alvos: mirou
+    deliberadamente o escravizador inimigo (cap. 452).
+  - **Escravizadores são alvo prioritário e por isso andam com guarda-costas dedicados**
+    (cap. 452).
+- **Prêmio / o que se ganha:** o bando derrotado vira patrimônio — reis de bando escravizados
+  e Gu de escravização recuperados dos cadáveres (cap. 452, 454).
+- **Fases:** aviso do batedor → escolha da contramedida de terreno → obra em pânico
+  cronometrada pela distância do bando (600 li → 500 → 300) → choque nas linhas → divisão do
+  bando e busca de furo → entrada do myriad king → segunda onda noturna contra um acampamento
+  já ferido e cego.
+- **Papel possível de um grupo pequeno:** exemplar para rank 2-4. Eles são a linha: cavam o
+  canal, seguram uma das três linhas de defesa, escoltam o escravizador, caçam os reis de
+  bando (um alvo por vez, com Gu descartáveis contados), e no assalto noturno tentam impedir o
+  esmagamento da massa de mortais. O inimigo humano que dirigiu a horda observa de um morro
+  próximo — descobri-lo é uma missão dentro da missão (cap. 451).
+- **Consequência para o mundo:** uma tribo média pode ser apagada ou reduzida a vassala em dois
+  dias; é assim que o mapa tribal do norte muda entre nevascas.
+- **Cuidado de spoiler:** o herói disfarçado, o cálculo cínico por trás do discurso heroico, e
+  o destino da tribo e de seus líderes. A **mecânica de cerco** é limpa.
+- **Lacunas:** quantos Gu Masters a tribo tinha; quanto tempo dura a construção das muralhas.
+
+### Siege of Lang Ya Blessed Land — quatro imortais atacando durante a calamidade — caps. 459-468
+
+- **Tipo:** cerco a uma terra abençoada, cronometrado pela calamidade dela
+- **Onde:** **Lang Ya blessed land**, escondida sob o **crescent lake** (lago crescente),
+  Northern Plains. Foi a residência do **Long Hair Ancestor**, "o primeiro imortal do caminho
+  de refino de todos os tempos", que refinou pelo menos **38 Immortal Gu** em vida e viveu
+  mais que dois Veneráveis (cap. 460). Foi outrora um **grotto-heaven** (caverna-céu, o grau
+  acima de blessed land) que decaiu (cap. 460).
+- **Gatilho / causa mecânica:** os atacantes **esperaram a calamidade terrena** da terra
+  abençoada. A regra explicitada aqui é central: **quanto melhor administrada e mais rica a
+  blessed land, mais forte a calamidade que o mundo manda contra ela** — terras abençoadas
+  sem dono e à beira do colapso sofrem calamidades "fracas como uma garoa" (cap. 460). Ou
+  seja: **a intensidade da calamidade é um medidor público do tesouro lá dentro**, e foi
+  exatamente assim que o bando estimou o prêmio.
+- **Periodicidade:** única (mas a tática é reproduzível toda década, a cada calamidade de
+  qualquer blessed land).
+- **Duração:** o tempo da calamidade — algumas horas de "rodadas" de desgaste (cap. 460).
+- **Escala:** **cinco Gu Immortals** (dois do caminho demoníaco, três do caminho justo, todos
+  rank 6, **nenhum deles possuindo um único Immortal Gu**) contra um **land spirit** de um
+  imortal rank 8 morto (cap. 459-460). A aliança é explicitamente de conveniência: justos e
+  demoníacos se desprezam mas cooperam pela receita de Immortal Gu (cap. 460).
+- **Ambiente por dentro / o que se vê de fora:** a calamidade "endless thunder and lightning
+  rain" (chuva infinita de trovão e relâmpago) **rasga o espaço acima do lago** e abre buraco
+  atrás de buraco na casca da blessed land (cap. 459-460). Cada buraco é uma porta.
+- **Regras especiais do local — a mecânica de cerco:**
+  - **Guerra de atrito por essência imortal.** O land spirit gasta essência imortal para
+    **fechar cada buraco**; os sitiantes jogam **uma pérola de essência imortal por vez** pelo
+    buraco, e ela explode lá dentro forçando o gasto. Vira um leilão de resistência: quem tem
+    mais estoque vence. Contaram-se **mais de 180 rodadas** antes de a terra abençoada ficar
+    seca (cap. 460).
+  - **Land spirits não produzem essência imortal.** Quando o Gu Immortal morre e vira land
+    spirit, o estoque deixado só diminui (cap. 460) — o que torna toda blessed land sem dono
+    vivo um **relógio de areia** que qualquer coalizão paciente pode virar.
+  - **Grau da essência importa:** existe hierarquia de qualidade (green grape < ... < white
+    litchi, deixada por um rank 8) e "cem pérolas de green grape não se comparam a uma de
+    white litchi" (cap. 460) — mas o estoque de milênios já foi diluído.
+  - Um Gu enviado pelo buraco durante a calamidade **é suprimido ou destruído pela própria
+    calamidade** (cap. 460): só a essência atravessa. Quer dizer: enquanto a calamidade rola,
+    **ninguém pode entrar de verdade** — só sangrar o alvo.
+  - Depois que a essência acaba, os buracos deixam de ser fechados e os sitiantes **entram a
+    pé**.
+- **Prêmio / o que se ganha:** o acervo de um grão-mestre de refino — grandes quantidades de
+  receitas de Gu, **incluindo receitas de Immortal Gu** (cap. 459-460).
+- **Fases:** vigilância e cálculo do calendário da calamidade → coalizão heterogênea montada
+  com subornos → observação da calamidade para estimar o prêmio → rodadas de atrito por
+  essência → esgotamento → entrada → briga interna pelo espólio.
+- **Papel possível de um grupo pequeno:** este é um cenário para NPCs poderosos, mas um grupo
+  mortal cabe em três posições: (a) **retaguarda dos sitiantes**, contratados para segurar o
+  perímetro do lago e impedir que a notícia vaze; (b) **dentro**, como visitantes presos pela
+  calamidade, tendo de escolher entre ajudar o land spirit ou vender a passagem; (c) **os que
+  chegam depois**, catando o que os imortais não levaram.
+- **Consequência para o mundo:** um acervo de receitas de Immortal Gu entra em circulação; e o
+  precedente ensina a todos que **a calamidade de uma blessed land é a janela de invasão dela**
+  — a mesma leitura aparece do outro lado, quando forças externas esperam a calamidade de outra
+  terra abençoada para invadir pelos buracos (cap. 408).
+- **Cuidado de spoiler:** quem entrou, quem sobreviveu, o que o land spirit realmente é e o que
+  ele negocia; o conteúdo específico levado. A **tática de cerco** é canônica e limpa.
+- **Lacunas:** quanto tempo a essência de uma blessed land bem administrada aguenta; se há
+  defesa contra o método além de ter estoque maior.
+
+> [!note] Para o design
+> Duas regras se encaixam num só motor de campanha: (1) toda blessed land sofre calamidade a
+> cada 10 anos e tribulação a cada 100; (2) a força da calamidade é proporcional à riqueza
+> guardada. Logo, **a calamidade é ao mesmo tempo o anúncio público do tesouro e a única
+> janela para roubá-lo**. Isso transforma o calendário de calamidades num mapa do tesouro do
+> mundo inteiro.

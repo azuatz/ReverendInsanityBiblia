@@ -37,7 +37,7 @@ O que os Gu deste path costumam fazer; recursos e custos característicos
 | Gu | Rank | Efeito resumido |
 |---|---|---|
 
-(⭐ = Gu Imortal. Catálogo completo em [[Catálogo de Gu]].)
+(⭐ = Gu Imortal. Catálogo completo em [[03 - Catálogo de Gu|Catálogo de Gu]].)
 
 ## Em combate e fora dele
 

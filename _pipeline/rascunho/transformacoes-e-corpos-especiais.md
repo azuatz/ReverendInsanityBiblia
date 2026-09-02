@@ -50,7 +50,7 @@ O corpo é um segundo eixo de progressão, paralelo ao cultivo: pode ser **modif
 
 
 
-**Em uma frase:** a ==zumbificação== é uma rota alternativa de existência em que um Mestre Gu, através de Gu específicos, troca o corpo vivo por um corpo de morto-vivo — ganhando resistência e uma forma de vida "eterna", ao preço de fraquezas fixas e de uma [[Abertura]] que morre junto.
+**Em uma frase:** a ==zumbificação== é uma rota alternativa de existência em que um Mestre Gu, através de Gu específicos, troca o corpo vivo por um corpo de morto-vivo — ganhando resistência e uma forma de vida "eterna", ao preço de fraquezas fixas e de uma [[02 - Abertura|Abertura]] que morre junto.
 
 ### Como funciona
 
@@ -91,8 +91,8 @@ A zumbificação aparece como escolha de quem esgotou as rotas normais: Mestres 
 ### Relações
 
 - [[Ranks e Estágios de Cultivo]] — progressão paralela.
-- [[Abertura]] — o órgão que a rota sacrifica.
-- [[Catálogo de Gu]] — linha completa de Gu de zumbi.
+- [[02 - Abertura|Abertura]] — o órgão que a rota sacrifica.
+- [[03 - Catálogo de Gu|Catálogo de Gu]] — linha completa de Gu de zumbi.
 - [[Facção Correta e Facção Demoníaca]] — zumbificação é vista como via demoníaca/desesperada.
 
 ---

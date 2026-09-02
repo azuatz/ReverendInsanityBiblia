@@ -48,7 +48,7 @@ a footnote. Uma designer com menos tempo não teria descoberto.
 
 > Esta seção é a **fonte única** do assunto no vault; as outras notas remetem para cá.
 
-**Nenhuma das quatro notas da pasta 07 linka `[[Tornar-se Venerável]]`.** Zero ocorrências
+**Nenhuma das quatro notas da pasta 07 linka `[[13 - Tornar-se Venerável|Tornar-se Venerável]]`.** Zero ocorrências
 (auditei todos os 36 wikilinks da pasta). Em vez de remeter, a `Visão Geral dos Veneráveis`
 mantém uma seção `## Dao Lord` própria, paralela — e as duas divergem no conteúdo:
 
@@ -111,8 +111,8 @@ sabedoria, roubo, sorte, e o espaço como especialidade. O vault tem nota própr
 `Wisdom Path`, `Space Path`, `Luck Path` (madeira e roubo não têm nota — isso está certo,
 não são lacunas da 07).
 
-A pasta linka **dois**: `[[Luck Path]]` e `[[Soul Path]]`. `[[Rule Path]]` e
-`[[Heaven Path]]` linkam para dentro da 07 e não recebem retorno.
+A pasta linka **dois**: `[[18 - Luck Path|Luck Path]]` e `[[10 - Soul Path|Soul Path]]`. `[[16 - Rule Path|Rule Path]]` e
+`[[17 - Heaven Path|Heaven Path]]` linkam para dentro da 07 e não recebem retorno.
 
 Para uma designer, esse é o clique mais previsível do material inteiro: leio "ele criou o
 caminho da regra", quero saber na mesma hora **o que o caminho da regra faz numa mesa**. A
@@ -126,13 +126,13 @@ sem definir e sem linkar:
 
 | Termo | Onde aparece primeiro | Nota que existe e não é linkada |
 |---|---|---|
-| **Gu** | l. 37, "Um Gu de rank 9 não é feito de…" | `[[O que é um Gu]]`, `[[Gu Imortais]]` |
-| **marcas de dao** | l. 37, sem glosa; só na l. 62 dá para inferir o que são | `[[Dao Marks]]` |
-| **rank** | l. 29, na frase de abertura | `[[Ranks e Avanço]]` |
-| **caminho / path** | l. 52–53, os dois termos misturados | `[[Visão Geral dos Paths]]` |
-| **mundo privado / dimensão privada / abertura** | l. 35, l. 61, l. 137 — três nomes para a mesma coisa | `[[Blessed Lands e Grotto-Heavens]]` |
-| **golpe** | l. 53, "Golpes lendários de Veneráveis" | `[[Killer Moves]]` (nunca linkada em toda a pasta) |
-| **via correta / via demoníaca** | l. 45, e é a 2ª coluna da tabela dos dez | `[[Caminho Correto e Caminho Demoníaco]]` |
+| **Gu** | l. 37, "Um Gu de rank 9 não é feito de…" | `[[02 - O que é um Gu|O que é um Gu]]`, `[[12 - Gu Imortais|Gu Imortais]]` |
+| **marcas de dao** | l. 37, sem glosa; só na l. 62 dá para inferir o que são | `[[12 - Dao Marks|Dao Marks]]` |
+| **rank** | l. 29, na frase de abertura | `[[05 - Ranks e Avanço|Ranks e Avanço]]` |
+| **caminho / path** | l. 52–53, os dois termos misturados | `[[01 - Visão Geral dos Paths|Visão Geral dos Paths]]` |
+| **mundo privado / dimensão privada / abertura** | l. 35, l. 61, l. 137 — três nomes para a mesma coisa | `[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]` |
+| **golpe** | l. 53, "Golpes lendários de Veneráveis" | `[[07 - Killer Moves|Killer Moves]]` (nunca linkada em toda a pasta) |
+| **via correta / via demoníaca** | l. 45, e é a 2ª coluna da tabela dos dez | `[[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]]` |
 | **Grande Dao** | l. 37 | — (nunca definido em lugar nenhum da pasta) |
 | **human path** | l. 52, em inglês, sem glosa | — |
 | **essência imortal de terceiro/quarto grau** | l. 61, l. 64 | o vault **nomeia** as quatro: uva-verde, tâmara-vermelha, lichia-branca, damasco-amarelo |
@@ -155,7 +155,7 @@ Causam erro de leitura ou retrabalho, mas não travam o design.
 
 A pasta 07 escreve "nível de realização" (`Visão Geral` l. 63; `Criadores` l. 116), "níveis
 de domínio" (`Visão Geral` l. 63; `Criadores` l. 33; `Arquitetos` l. 84). A palavra
-`attainment` **não aparece uma única vez na pasta**, e `[[Attainment]]` nunca é linkada.
+`attainment` **não aparece uma única vez na pasta**, e `[[06 - Attainment|Attainment]]` nunca é linkada.
 
 Efeito prático em mim: li a escada de nove degraus em `Attainment`/`Tabelas`, li o gargalo
 do rank 9 na 07, e **não reconheci que eram a mesma escada** até cruzar os arquivos.
@@ -175,7 +175,7 @@ Genesis Lotus (Medieval) aparece em #4, antes de dois da era Antiga; Limitless (
 aparece em #7, depois de Giant Sun (Medieval). As eras estão intercaladas.
 
 Agravante: a tabela **não tem coluna de era** e a nota-porta **não linka
-`[[Linha do Tempo e Eras]]`**. "Quando" é a segunda pergunta que faço depois de "quem", e a
+`[[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`**. "Quando" é a segunda pergunta que faço depois de "quem", e a
 pasta não responde nem aponta para quem responde.
 
 ### S3. Aliases duplicados — cada um dos dez nomes é alias de duas notas ao mesmo tempo
@@ -243,14 +243,14 @@ linha) e não é oferecido.
 
 | Termo | Onde | Nota existente, não linkada |
 |---|---|---|
-| reino de sonho (e "reino de sonho **profético**", categoria apresentada sem a base) | `Arquitetos` l. 108 | `[[Dream Path]]` |
-| Gu de longevidade — que é **um dos três componentes** do bloqueio celestial | `Arquitetos` l. 147 | `[[Longevidade]]` |
-| refino; unicidade dos Gu Imortais como regra ativa | `Romperam` l. 68 | `[[Refino de Gu]]`, `[[Gu Imortais]]` |
-| caminho do tempo | `Romperam` l. 113 | `[[Time Path]]` |
+| reino de sonho (e "reino de sonho **profético**", categoria apresentada sem a base) | `Arquitetos` l. 108 | `[[19 - Dream Path|Dream Path]]` |
+| Gu de longevidade — que é **um dos três componentes** do bloqueio celestial | `Arquitetos` l. 147 | `[[09 - Longevidade|Longevidade]]` |
+| refino; unicidade dos Gu Imortais como regra ativa | `Romperam` l. 68 | `[[05 - Refino de Gu|Refino de Gu]]`, `[[12 - Gu Imortais|Gu Imortais]]` |
+| caminho do tempo | `Romperam` l. 113 | `[[13 - Time Path|Time Path]]` |
 | "segredo celeste" | `Arquitetos`, ficha e item 2 de Paradise Earth | — nunca definido na pasta |
-| tribulações / desastres | `Criadores` l. 142; `Romperam` l. 62 | `[[Tribulações e Calamidades]]` (linkada só uma vez, em `Arquitetos`) |
-| **pedras de essência imortal** | `Arquitetos` l. 56 | confundível com `[[Pedras Primordiais]]`, que é outra moeda, de outro público — sem link eu misturei as duas na primeira leitura |
-| "construção mágica de rank 8/9" (3×) | `Criadores` l. 80; `Arquitetos` l. 88, l. 131 | o vault tem termo próprio: **Casa de Gu Imortal**, definido em `[[Killer Moves]]` e usado em toda a 05 |
+| tribulações / desastres | `Criadores` l. 142; `Romperam` l. 62 | `[[10 - Tribulações e Calamidades|Tribulações e Calamidades]]` (linkada só uma vez, em `Arquitetos`) |
+| **pedras de essência imortal** | `Arquitetos` l. 56 | confundível com `[[02 - Pedras Primordiais|Pedras Primordiais]]`, que é outra moeda, de outro público — sem link eu misturei as duas na primeira leitura |
+| "construção mágica de rank 8/9" (3×) | `Criadores` l. 80; `Arquitetos` l. 88, l. 131 | o vault tem termo próprio: **Casa de Gu Imortal**, definido em `[[07 - Killer Moves|Killer Moves]]` e usado em toda a 05 |
 
 ---
 
@@ -267,12 +267,12 @@ Polimento. Nenhum causa erro.
 - **"Céu da Longevidade"** aparece na tabela de cabeçalho de Giant Sun e nunca no corpo:
   nome próprio solto, sem nada atrás.
 - **"o trono que se disputa periodicamente"** (`Criadores`, Giant Sun item 3):
-  `[[Eventos e Instituições Jogáveis]]` fixa **decenal**. Dar o número custa uma palavra e
+  `[[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]]` fixa **decenal**. Dar o número custa uma palavra e
   me poupa uma consulta.
 - **Star Constellation, "19.000 anos"**: é o único número da pasta sem retaguarda na fonte
   soberana nem em `Tornar-se Venerável` (que registra só os extremos, 25.000 e ~3.000). Não
   é divergência — é o único dado que não consegui confirmar em lugar nenhum.
-- **Nenhuma nota linka `[[Glossário EN-PT]]`**, apesar de `Visão Geral` ter um callout
+- **Nenhuma nota linka `[[01 - Glossário EN-PT|Glossário EN-PT]]`**, apesar de `Visão Geral` ter um callout
   inteiro (`[!warning] Sobre os nomes`) dedicado a explicar por que os nomes ficam em inglês
   — que é literalmente o assunto da seção final do Glossário.
 - **"outro Gu de rank 9, associado ao amor"** (`Romperam` l. 103) nunca é nomeado nem
@@ -371,7 +371,7 @@ Aplicadas na ordem: bloqueadores primeiro, uma nota por vez.
 - **B1** — linha do Primordial Origin na tabela dos dez: `origin path` substituído por
   `— (a obra não informa)`, com nota abaixo da tabela explicando por que os **dois** traços
   existem e remetendo à footnote de `Os Arquitetos da Ordem`.
-- **B2** — seção `## Dao Lord` reescrita: passa a remeter a `[[Tornar-se Venerável]]` como
+- **B2** — seção `## Dao Lord` reescrita: passa a remeter a `[[13 - Tornar-se Venerável|Tornar-se Venerável]]` como
   fonte única, corrige "automaticamente no mundo inteiro" para a distinção
   capacidade global / realização territorial em curso, e acrescenta a perda do senhorio
   (saturação e perda de mente) com a consequência de design. Nova entrada em "Relações".
@@ -381,36 +381,36 @@ Aplicadas na ordem: bloqueadores primeiro, uma nota por vez.
   imortal, golpe, via correta/demoníaca, Grande Dao, caminho humano; as quatro essências
   passam a ser nomeadas.
 - **S1** — "nível de realização"/"níveis de domínio" → `attainment`, com link para
-  `[[Attainment]]`.
+  `[[06 - Attainment|Attainment]]`.
 - **S2** — tabela dos dez reordenada por era, com **coluna de era** nova e link para
-  `[[Linha do Tempo e Eras]]`.
+  `[[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`.
 - **S3** — `aliases` reduzidos aos que designam a própria nota; os dez nomes próprios saem
   daqui e ficam nas fichas.
 - **S6** — a afirmação de fechamento passa a registrar a divergência das onze, remetendo ao
   callout de `Tornar-se Venerável`.
 - **Menores** — `[[#Dao Lord]]` → wikilink pelo nome do arquivo; link para
-  `[[Glossário EN-PT]]` no callout sobre os nomes.
+  `[[01 - Glossário EN-PT|Glossário EN-PT]]` no callout sobre os nomes.
 
 ### `Os Criadores de Caminhos.md`
-- **B4** — links para `[[Strength Path]]`, `[[Transformation Path]]`, `[[Soul Path]]`,
-  `[[Rule Path]]`, `[[Luck Path]]` nas fichas correspondentes.
+- **B4** — links para `[[04 - Strength Path|Strength Path]]`, `[[05 - Transformation Path|Transformation Path]]`, `[[10 - Soul Path|Soul Path]]`,
+  `[[16 - Rule Path|Rule Path]]`, `[[18 - Luck Path|Luck Path]]` nas fichas correspondentes.
 - **B2 (consequência)** — a ficha de Giant Sun passa a dar o motivo mecânico do segredo
-  (saturação do caminho tira o senhorio), com link para `[[Tornar-se Venerável]]`.
+  (saturação do caminho tira o senhorio), com link para `[[13 - Tornar-se Venerável|Tornar-se Venerável]]`.
 - **S1** — vocabulário de attainment corrigido e linkado.
 - **S3** — aliases desduplicados.
 - **S5** — era de Spectral Soul nomeada (Antiguidade Tardia), mantendo o intervalo relativo.
 - **S7** — os três Veneráveis Demônios da Antiguidade Antiga passam a ser nomeados onde a
   fórmula aparece.
-- **S8** — `[[Killer Moves|Casa de Gu Imortal]]`, `[[Tribulações e Calamidades]]`,
-  `[[Blessed Lands e Grotto-Heavens]]` na primeira aparição de dimensão privada.
+- **S8** — `[[07 - Killer Moves|Casa de Gu Imortal]]`, `[[10 - Tribulações e Calamidades|Tribulações e Calamidades]]`,
+  `[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]` na primeira aparição de dimensão privada.
 - **Menores** — "Céu da Longevidade" explicado no corpo; ciclo do trono qualificado como
   decenal; glosa de "significado verdadeiro" antecipada.
 
 ### `Os Arquitetos da Ordem.md`
 - **B1** — footnote de Primordial Origin reforçada e referenciada a partir da nota-porta.
-- **B4/S8** — links para `[[Wisdom Path]]`, `[[Dream Path]]`, `[[Longevidade]]`,
-  `[[Killer Moves]]`, `[[Attainment]]`; "pedras de essência imortal" desambiguada contra
-  `[[Pedras Primordiais]]`; "segredo celeste" definido na primeira aparição.
+- **B4/S8** — links para `[[12 - Wisdom Path|Wisdom Path]]`, `[[19 - Dream Path|Dream Path]]`, `[[09 - Longevidade|Longevidade]]`,
+  `[[07 - Killer Moves|Killer Moves]]`, `[[06 - Attainment|Attainment]]`; "pedras de essência imortal" desambiguada contra
+  `[[02 - Pedras Primordiais|Pedras Primordiais]]`; "segredo celeste" definido na primeira aparição.
 - **S1** — vocabulário de attainment corrigido.
 - **S3** — aliases desduplicados.
 - **Menores** — frase de abertura desmembrada.
@@ -420,7 +420,7 @@ Aplicadas na ordem: bloqueadores primeiro, uma nota por vez.
   atribuída a Limitless (conforme `Cosmologia` e `Os Criadores de Caminhos`), e o que
   Thieving Heaven fez — romper e remendar — é enunciado com precisão.
 - **S5** — ficha de Red Lotus ganha linha **Era** (Antiguidade Tardia).
-- **B4/S8** — links para `[[Space Path]]`, `[[Time Path]]`, `[[Refino de Gu]]`,
-  `[[Gu Imortais]]`, `[[Tribulações e Calamidades]]`.
+- **B4/S8** — links para `[[11 - Space Path|Space Path]]`, `[[13 - Time Path|Time Path]]`, `[[05 - Refino de Gu|Refino de Gu]]`,
+  `[[12 - Gu Imortais|Gu Imortais]]`, `[[10 - Tribulações e Calamidades|Tribulações e Calamidades]]`.
 - **S3** — aliases desduplicados.
 - **Menores** — "A almas" → "As almas".

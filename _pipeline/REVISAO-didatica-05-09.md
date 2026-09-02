@@ -56,7 +56,7 @@ fazer: define "Mestre Gu", "mortal" e "rank" **antes** de usá-los.
 Tipo: jargão/inconsistência de nomenclatura.
 O título da nota diz "Tribunal Celestial". O corpo escreve sempre "Heavenly Court",
 "Corte Celestial" ou "a Corte". O `aliases` traz "Heavenly Court" e "Corte Celestial".
-E há um wikilink para uma nota **diferente** chamada `[[Tribunal Celestial]]`.
+E há um wikilink para uma nota **diferente** chamada `[[15 - Tribunal Celestial|Tribunal Celestial]]`.
 Como leiga, passei um bom tempo tentando decidir se "Tribunal Celestial" e "Corte
 Celestial" são duas instituições (um judiciário e um governo?) ou uma só.
 `Visão Geral da Sociedade` piora: usa exclusivamente "Heavenly Court (Corte Celestial)"
@@ -83,7 +83,7 @@ Nenhum dos dois termos é definido nesta nota nem linkado. Eu não sei o que é 
 abertura (um órgão? um espaço mágico? uma mochila?) nem o que é essência. E os dois são
 centrais — "inspecionar a abertura de um morto" é uma cena de jogo que eu escreveria
 errado.
-Sugestão: `[[Abertura|abertura interna]]` e `[[Essência Primeva|essência]]` na primeira
+Sugestão: `[[02 - Abertura|abertura interna]]` e `[[Essência Primeva|essência]]` na primeira
 ocorrência, mais uma aposição de meia linha ("a cavidade interna onde os Gu são
 guardados").
 
@@ -143,7 +143,7 @@ Tipo: jargão parcialmente explicado / pendência de cross-check.
 Nenhuma das duas notas diz o que a aptidão *faz* mecanicamente nem linka para onde isso
 está. A distribuição populacional (quantos % são A?) é decisiva para eu calibrar criação
 de personagem.
-Sugestão: link para `[[Aptidão]]` na primeira ocorrência em cada nota. (Verificado
+Sugestão: link para `[[03 - Aptidão|Aptidão]]` na primeira ocorrência em cada nota. (Verificado
 contra o apêndice mais adiante nesta revisão.)
 
 ### O que está bom nesta pasta
@@ -310,14 +310,14 @@ especialização. Levei um tempo até concluir que "campo de cultivo" e "Path" s
 coisa — e ainda não tenho certeza.
 Se forem a mesma coisa, isto é grave: o conceito mais central do sistema aparece com um
 nome alternativo, sem link, na nota que define a economia de alto nível.
-Sugestão: usar o mesmo termo do resto do vault e linkar `[[Visão Geral dos Paths]]` na
+Sugestão: usar o mesmo termo do resto do vault e linkar `[[01 - Visão Geral dos Paths|Visão Geral dos Paths]]` na
 primeira ocorrência. Se forem coisas diferentes, dizer a diferença em uma frase.
 
 **06-I — Jargão pesado não definido nem linkado** · `Economia Imortal.md`, `Como um Mestre Gu Ganha a Vida.md`, `Eventos e Instituições Jogáveis.md`
 Tipo: jargão não explicado.
 Lista do que usei sem entender:
 - **"veias de dao"** (`Economia Imortal`) — "dao" nunca aparece definido nesta pasta. Há
-  uma nota `[[Dao Marks]]` em `01 - Cultivo`, não linkada aqui.
+  uma nota `[[12 - Dao Marks|Dao Marks]]` em `01 - Cultivo`, não linkada aqui.
 - **"provações"** / **"calamidade"** (`Economia Imortal`, `Eventos e Instituições
   Jogáveis`) — usadas como se eu soubesse o que são. Existe `[[Tribulações e
   Calamidades]]`, nunca linkada.
@@ -326,7 +326,7 @@ Lista do que usei sem entender:
   achei.
 - **"gruta-céu"** (`Eventos e Instituições Jogáveis`) e **"Domínio recluso de céu e
   terra"** (`Economia Imortal`) — dois nomes, aparentemente para a mesma coisa, nenhum
-  explicado, nenhum linkado a `[[Blessed Lands e Grotto-Heavens]]`, que existe.
+  explicado, nenhum linkado a `[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]`, que existe.
 - **"abertura"** (`Eventos e Instituições Jogáveis`: "ele entra na **abertura** do
   candidato").
 - **"fichas de autoridade"** (`Como um Mestre Gu Ganha a Vida`) — definidas em `Visão
@@ -347,7 +347,7 @@ diferenciar um "minúsculo" de um "médio", que é justamente a faixa em que uma
 mortal aconteceria. Segundo, a última linha não responde "produz o quê": ela dá o nome de
 outra coisa, não um nível de produção, quebrando o contrato da coluna.
 Sugestão: uma linha por porte, e converter a linha "Pináculo" em produção ("rank 9 /
-não-precificável — ver [[Blessed Lands e Grotto-Heavens]]").
+não-precificável — ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]").
 
 **06-K — A tabela de renda não diz de que rank é quem ganha** · `Como um Mestre Gu Ganha a Vida.md`
 Tipo: falta de utilidade para design.
@@ -511,7 +511,7 @@ apêndice (lá os degraus são Quase Grão-Mestre, Grão-Mestre, Quase Grande Gr
 Grande Grão-Mestre, Quase Supremo, Supremo Grão-Mestre).
 "Quase-superior" é qual deles? Levei três leituras para entender que o caso está falando
 de attainment, e ainda não sei mapear o degrau.
-Sugestão: usar os nomes exatos da escala de `[[Attainment]]` e linkar.
+Sugestão: usar os nomes exatos da escala de `[[06 - Attainment|Attainment]]` e linkar.
 
 **08-D — Os casos replicáveis não têm preço** · `Estudos de Caso Mecânicos.md`
 Tipo: **falta de utilidade para design — sério.**

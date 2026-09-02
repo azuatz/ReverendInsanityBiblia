@@ -113,7 +113,7 @@ O Mestre "contempla" o próprio Mar Primevo em meditação diária, circulando e
 
 
 
-**Em uma frase:** a ==essência primeva (primeval essence)== é a energia pessoal do Mestre Gu — o "combustível" líquido que enche o Mar Primevo da sua [[Abertura]] e que ele gasta para ativar, refinar e alimentar Gu.
+**Em uma frase:** a ==essência primeva (primeval essence)== é a energia pessoal do Mestre Gu — o "combustível" líquido que enche o Mar Primevo da sua [[02 - Abertura|Abertura]] e que ele gasta para ativar, refinar e alimentar Gu.
 
 ### Como funciona
 
@@ -159,7 +159,7 @@ A qualidade importa tanto quanto a quantidade: um moonblade disparado com essên
 
 #### Refinar a própria essência
 
-Certos Gu (a linhagem do Liquor Worm) "destilam" a essência do dono para o estágio acima: 20% de essência inicial viram 5% de essência média — perde-se 75% do volume, ganha-se qualidade. A essência mais densa afunda, formando camadas visíveis no Mar Primevo. Esse é o método "limpo" de acelerar cultivo, sem contaminação. Ver a linhagem Liquor Worm no [[Catálogo de Gu]].
+Certos Gu (a linhagem do Liquor Worm) "destilam" a essência do dono para o estágio acima: 20% de essência inicial viram 5% de essência média — perde-se 75% do volume, ganha-se qualidade. A essência mais densa afunda, formando camadas visíveis no Mar Primevo. Esse é o método "limpo" de acelerar cultivo, sem contaminação. Ver a linhagem Liquor Worm no [[03 - Catálogo de Gu|Catálogo de Gu]].
 
 #### Transfusão de essência e contaminação
 
@@ -181,7 +181,7 @@ Um Mestre mais forte pode despejar essência no Mar Primevo de outro (tipicament
 
 ### Relações
 
-- [[Abertura]] — onde a essência vive.
+- [[02 - Abertura|Abertura]] — onde a essência vive.
 - [[Ranks e Estágios de Cultivo]] — determinam cor e potência.
 - [[Pedras Primevas]] — fonte externa de essência.
 - [[Graus de Aptidão]] — determinam capacidade e recuperação.
@@ -198,7 +198,7 @@ Um Mestre mais forte pode despejar essência no Mar Primevo de outro (tipicament
 
 
 
-**Em uma frase:** o ==grau de aptidão (aptitude grade)== é o talento inato de cultivo de uma pessoa, medido aos 15 anos na [[Cerimônia do Despertar]] e classificado de D (pior) a A (melhor) — ele fixa a capacidade máxima do Mar Primevo da [[Abertura]] e, com isso, o teto prático de progressão do Mestre Gu.
+**Em uma frase:** o ==grau de aptidão (aptitude grade)== é o talento inato de cultivo de uma pessoa, medido aos 15 anos na [[Cerimônia do Despertar]] e classificado de D (pior) a A (melhor) — ele fixa a capacidade máxima do Mar Primevo da [[02 - Abertura|Abertura]] e, com isso, o teto prático de progressão do Mestre Gu.
 
 ### Como funciona
 
@@ -221,7 +221,7 @@ O grau se traduz numa **porcentagem de capacidade de essência primeva** na aber
 | C | 40–59% | rank 2 (só na faixa 55–59%); rank 3 **quase nunca** (caps. 91, 105). 27 passos ≈ 44% |
 | B | 60–79% | rank 3, podendo 4 |
 | A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | **100%** | ver [[As Dez Constituições Extremas]] abaixo |
+| Constituição Extrema | **100%** | ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] abaixo |
 
 > [!warning] Correções aplicadas
 > A wiki e versões antigas deste rascunho diziam "D = abaixo de 40%" — errado; a faixa correta é 20–39%. A passagem que diz "20 a 30" descreve o D típico, não o limite da banda: as quatro faixas são regulares de vinte pontos e cobrem 20–99 sem vãos. E **não existe faixa abaixo de 20%**: o V1, ao descrever uma turma de jovens, separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu.
@@ -267,7 +267,7 @@ O grau define o investimento que o clã faz no jovem e vira heurística social: 
 ### Relações
 
 - [[Cerimônia do Despertar]] — onde o grau é medido.
-- [[Abertura]] / [[Essência Primeva]] — o que o grau limita.
+- [[02 - Abertura|Abertura]] / [[Essência Primeva]] — o que o grau limita.
 - [[Ranks e Estágios de Cultivo]] — o teto que o grau impõe e as brechas para furá-lo.
 - [[Mitologia de Ren Zu]] — origem lendária das Dez Constituições Extremas.
 
@@ -282,7 +282,7 @@ O grau define o investimento que o clã faz no jovem e vira heurística social: 
 
 
 
-**Em uma frase:** todo ==Mestre Gu (Gu Master)== — cultivador que possui uma [[Abertura]] — progride numa escada de **9 ranks**, cada um dividido em **4 estágios** (inicial, médio, superior, pico); subir de estágio é questão de tempo e recursos, mas subir de rank é romper uma barreira que fica brutalmente mais difícil a cada degrau.
+**Em uma frase:** todo ==Mestre Gu (Gu Master)== — cultivador que possui uma [[02 - Abertura|Abertura]] — progride numa escada de **9 ranks**, cada um dividido em **4 estágios** (inicial, médio, superior, pico); subir de estágio é questão de tempo e recursos, mas subir de rank é romper uma barreira que fica brutalmente mais difícil a cada degrau.
 
 ### Como funciona
 
@@ -337,7 +337,7 @@ Identificação pública: uniforme com cinto e placa numerada por rank (azul/bro
 
 ### Relações
 
-- [[Abertura]] — o órgão cuja parede define estágio e rank.
+- [[02 - Abertura|Abertura]] — o órgão cuja parede define estágio e rank.
 - [[Essência Primeva]] — cor e potência por rank/estágio.
 - [[Graus de Aptidão]] — o teto que cada personagem precisa furar.
 - [[Veneráveis]] — o topo da escada (Rank 9).
@@ -353,7 +353,7 @@ Identificação pública: uniforme com cinto e placa numerada por rank (azul/bro
 
 
 
-**Em uma frase:** a ==Awakening Ceremony (Cerimônia do Despertar)== é o ritual anual em que os jovens de 15 anos de um clã formam a [[Abertura]] e têm seu [[Graus de Aptidão|grau de aptidão]] medido publicamente — o momento que decide se serão Mestres Gu ou mortais para o resto da vida.
+**Em uma frase:** a ==Awakening Ceremony (Cerimônia do Despertar)== é o ritual anual em que os jovens de 15 anos de um clã formam a [[02 - Abertura|Abertura]] e têm seu [[Graus de Aptidão|grau de aptidão]] medido publicamente — o momento que decide se serão Mestres Gu ou mortais para o resto da vida.
 
 ### Como funciona
 
@@ -367,7 +367,7 @@ O evento é registrado por um Photo-audio Gu (Gu de gravação de imagem e som),
 
 - A cerimônia é considerada precisa e difícil de fraudar — mas um ancião com autoridade suficiente consegue adulterar o resultado divulgado (um grau C real anunciado como B). A fraude não se sustenta: a velocidade real de cultivo acaba expondo o talento verdadeiro.
 - Fora do sistema de clãs, existem vias raras de um mortal virar Mestre Gu: encontrar um Hope Gu selvagem por acidente, herdar uma herança de força, ou receber instrução pessoal de um membro de clã. Esses "Mestres sem clã" não são plenamente aceitos e tendem a ser empurrados para o caminho demoníaco (ver [[Facção Correta e Facção Demoníaca]]).
-- Só membros de sangue do clã passam pela cerimônia: cultivo é reservado à linhagem, nunca a servos mortais, por estabilidade política (ver [[Clãs]]).
+- Só membros de sangue do clã passam pela cerimônia: cultivo é reservado à linhagem, nunca a servos mortais, por estabilidade política (ver [[02 - Clãs|Clãs]]).
 
 ### Na vida de um Mestre Gu
 
@@ -381,10 +381,10 @@ A cerimônia é o maior evento social do ano do clã: define o investimento de r
 
 ### Relações
 
-- [[Abertura]] — o que a cerimônia cria.
+- [[02 - Abertura|Abertura]] — o que a cerimônia cria.
 - [[Graus de Aptidão]] — o que ela mede.
 - [[Mitologia de Ren Zu]] — origem lendária do Hope Gu.
-- [[Clãs]] — quem tem direito ao ritual.
+- [[02 - Clãs|Clãs]] — quem tem direito ao ritual.
 
 ---
 

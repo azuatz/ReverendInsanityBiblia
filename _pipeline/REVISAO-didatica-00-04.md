@@ -495,7 +495,7 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
   sobre a da nota") evita que eu distribua a nota inteira por engano.
 - **M12 · `Fusão de Gu.md` · tabela sem âncora.** "Engenharia reversa: mestre · deduzir
   receita nova: grão-mestre · criar série nova: quase-grande-grão-mestre" não linka para
-  `[[Attainment]]`, onde esses níveis são definidos. É a única tabela do material que usa a
+  `[[06 - Attainment|Attainment]]`, onde esses níveis são definidos. É a única tabela do material que usa a
   escala de attainment sem apontar para ela.
 - **M13 · `Usar e Alimentar Gu.md` · a melhor tabela da base merece um total.** A tabela de
   dietas é excelente, mas para orçar uma campanha eu preciso de **custo por mês em pedras
@@ -541,7 +541,7 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
 > Filosofia e identidade → Mecânicas típicas → Gu representativos (tabela) → Em combate e
 > fora dele → Sinergias e fraquezas → Para o design → Praticantes notáveis (sem enredo) →
 > Relações* — e os quatro abrem remetendo à nota-porta ("Para entender o que é um 'caminho',
-> veja [[Visão Geral dos Paths]]"), que é exatamente a cortesia didática que faltou em `01`.
+> veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]"), que é exatamente a cortesia didática que faltou em `01`.
 > Todos os quatro entregam um **arquétipo nomeado** no bloco de design. Esta é a pasta mais
 > bem construída das quatro, e os problemas abaixo são de *coerência entre pastas*, não de
 > forma. Presumo, pela amostra, que o mesmo valha para os treze caminhos que não li.

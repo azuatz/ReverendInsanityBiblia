@@ -100,13 +100,20 @@ def reescrever_links(mapa, arquivos, dry):
         orig = t
 
         def sub(m):
-            alvo = m.group(1).strip()
+            alvo = m.group(1).strip().rstrip("\\").strip()
             resto = m.group(2) or ""
             if alvo in mapa:
+                # o link nu ganha texto alternativo para a prosa não exibir o número
+                if not resto:
+                    resto = "|" + alvo
                 return "[[" + mapa[alvo] + resto + "]]"
             return m.group(0)
 
-        t = re.sub(r"\[\[([^\]|#\n]+)((?:[|#][^\]\n]*)?)\]\]", sub, t)
+        # Três armadilhas que custaram uma rodada de conserto e precisam continuar cobertas:
+        #   1. dentro de tabela o pipe vem escapado — [[Nota\|texto]];
+        #   2. o texto alternativo pode quebrar linha, daí o re.S e o [^\]] no lugar de [^\]\n];
+        #   3. o alvo pode trazer âncora de seção — [[Nota#Seção|texto]].
+        t = re.sub(r"\[\[([^\]|#\n]+?)\\?((?:[|#][^\]]*?)?)\]\]", sub, t, flags=re.S)
         if t != orig:
             n = sum(1 for _ in re.finditer(r"\[\[", orig))
             total += 1

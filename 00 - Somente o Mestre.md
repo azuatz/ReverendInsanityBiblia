@@ -24,13 +24,13 @@ descobri-las, na mesa, deve ser uma conquista, não um pressuposto.
 
 ## As verdades ocultas do universo
 
-- [[Vontade dos Céus]] — a distinção entre o Caminho Celestial (impessoal, que apenas
+- [[11 - Vontade dos Céus|Vontade dos Céus]] — a distinção entre o Caminho Celestial (impessoal, que apenas
   busca equilíbrio) e a Vontade dos Céus (estratégica, e ativamente hostil a certas
   pessoas). Entender isso muda tudo o que os personagens acham que sabem sobre azar,
   desastre e "destino".
-- [[Fate Gu]] — o que o destino é, mecanicamente; o fato de estar danificado; e quem
+- [[12 - Fate Gu|Fate Gu]] — o que o destino é, mecanicamente; o fato de estar danificado; e quem
   consegue escapar dele.
-- [[Cosmologia]] — a estrutura real do mundo, incluindo o que existe além da fronteira
+- [[13 - Cosmologia|Cosmologia]] — a estrutura real do mundo, incluindo o que existe além da fronteira
   dele e por onde essa fronteira já foi perfurada. **Atenção: esta nota é a exceção da
   lista.** Ela está classificada como segredo porque o trecho mais restrito dela manda na
   classificação, mas **metade do conteúdo é geografia que qualquer personagem usa** — os dois
@@ -38,10 +38,10 @@ descobri-las, na mesa, deve ser uma conquista, não um pressuposto.
   reúne essa geografia. Não a esconda inteira: a própria nota traz uma **tabela de corte** no
   topo, dizendo seção a seção o que liberar. As quatro primeiras seções formam o capítulo de
   geografia do manual do jogador.
-- [[Tornar-se Venerável]] — as quatro condições exatas para alcançar o topo absoluto,
+- [[13 - Tornar-se Venerável|Tornar-se Venerável]] — as quatro condições exatas para alcançar o topo absoluto,
   e o bloqueio que o próprio céu impõe.
-- [[Os Que Romperam as Leis]] — as figuras que quebraram as regras do mundo, e como.
-- [[Lugares Fora das Cinco Regiões]] — a geografia de tudo o que existe além do mundo
+- [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] — as figuras que quebraram as regras do mundo, e como.
+- [[14 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — a geografia de tudo o que existe além do mundo
   habitado: os nove céus e o que sobrou deles, o Rio do Tempo como território navegável, os
   domínios reclusos, as camadas da borda do mundo. A nota é escalonada em **três andares de
   segredo**, pensados para servir de escada de campanha: libere um andar por vez, conforme
@@ -51,9 +51,9 @@ descobri-las, na mesa, deve ser uma conquista, não um pressuposto.
 
 Existem, mas seu funcionamento profundo é conhecimento de pouquíssimos:
 
-- [[Heaven Path]] — declarado impossível de cultivar, e mesmo assim cultivado.
-- [[Luck Path]] — a mecânica real por trás da sorte, que a maioria trata como superstição.
-- [[Dream Path]] — o que os sonhos são de verdade neste mundo, e o que se pode tirar deles.
+- [[17 - Heaven Path|Heaven Path]] — declarado impossível de cultivar, e mesmo assim cultivado.
+- [[18 - Luck Path|Luck Path]] — a mecânica real por trás da sorte, que a maioria trata como superstição.
+- [[19 - Dream Path|Dream Path]] — o que os sonhos são de verdade neste mundo, e o que se pode tirar deles.
 
 ## Seções secretas dentro de notas liberadas
 
@@ -62,15 +62,15 @@ Se for distribuí-las, corte o que está indicado:
 
 | Nota | O que esconder |
 |---|---|
-| [[Cosmologia]] | os nove céus imemoriais, o Rio do Tempo e **sobretudo** a fronteira do mundo. Libere as quatro primeiras seções — ver a tabela de corte no topo da própria nota |
-| [[Tabelas de Referência Rápida]] | as quatro condições para virar Venerável |
-| [[Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
-| [[Glossário EN-PT]] | todos os termos marcados com 🔒 |
-| [[Tribunal Celestial e Grandes Forças]] | a seção final, sobre o que a instituição realmente faz |
-| [[A Filosofia do Mundo]] | o conflito entre a lei de equilíbrio do céu e o impulso humano de acumular — que é a explicação metafísica de por que cultivar atrai desastre — e a leitura da mitologia que explica o sentido do título |
-| [[Tipos de Gente e Filosofias de Vida]] | o pano de fundo metafísico que amarra as onze posições, no fim da nota |
-| [[Catálogo de Golpes - Imortais]] | **a nota inteira, na prática.** Que golpes imortais existem é sabido; o conteúdo do catálogo é arsenal, e neste mundo golpe conhecido é golpe deduzido. Libere item a item, conforme a mesa encontrar cada golpe |
-| [[Visão Geral do Cultivo]], [[Visão Geral dos Gu]], [[Visão Geral do Mundo]] e demais notas-porta | a seção "O que só o mestre sabe" no fim de cada uma |
+| [[13 - Cosmologia|Cosmologia]] | os nove céus imemoriais, o Rio do Tempo e **sobretudo** a fronteira do mundo. Libere as quatro primeiras seções — ver a tabela de corte no topo da própria nota |
+| [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] | as quatro condições para virar Venerável |
+| [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
+| [[01 - Glossário EN-PT|Glossário EN-PT]] | todos os termos marcados com 🔒 |
+| [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] | a seção final, sobre o que a instituição realmente faz |
+| [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] | o conflito entre a lei de equilíbrio do céu e o impulso humano de acumular — que é a explicação metafísica de por que cultivar atrai desastre — e a leitura da mitologia que explica o sentido do título |
+| [[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] | o pano de fundo metafísico que amarra as onze posições, no fim da nota |
+| [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] | **a nota inteira, na prática.** Que golpes imortais existem é sabido; o conteúdo do catálogo é arsenal, e neste mundo golpe conhecido é golpe deduzido. Libere item a item, conforme a mesa encontrar cada golpe |
+| [[01 - Visão Geral do Cultivo|Visão Geral do Cultivo]], [[01 - Visão Geral dos Gu|Visão Geral dos Gu]], [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] e demais notas-porta | a seção "O que só o mestre sabe" no fim de cada uma |
 
 > [!note] Para o design
 > A obra trata o conhecimento como recurso disputado: quem entende o sistema por dentro

@@ -6,7 +6,7 @@ aliases:
   - Southern Border
   - Forças da Fronteira Sul
 status: verificado-no-texto
-fontes: ["cap. 4", "cap. 7-8", "cap. 31", "cap. 40", "cap. 55-56", "cap. 65", "cap. 74", "cap. 112", "cap. 121", "cap. 123-124", "cap. 170-171", "cap. 183", "cap. 211", "cap. 228-231", "cap. 253", "cap. 258-274", "cap. 279", "cap. 281", "cap. 283", "cap. 285-286", "cap. 292", "cap. 302", "cap. 306-307", "cap. 311", "cap. 325", "cap. 329", "cap. 333", "cap. 354", "cap. 359", "cap. 375", "cap. 384-385", "cap. 388", "cap. 405", "cap. 407", "cap. 411", "cap. 554", "cap. 653", "cap. 962", "cap. 998-1000", "cap. 1035", "cap. 1037", "cap. 1072", "cap. 1093", "cap. 1194", "cap. 1212-1215", "cap. 1218-1220", "cap. 1223", "cap. 1226", "cap. 1231", "cap. 1304", "cap. 1306-1307", "cap. 1315", "cap. 1321-1322", "cap. 1327-1329", "cap. 1338-1340", "cap. 1343-1348", "cap. 1355", "cap. 1377-1378", "cap. 1383", "cap. 1386", "cap. 1452", "cap. 1532-1533", "cap. 1594", "cap. 1599", "cap. 1601-1604", "cap. 1607", "cap. 1610", "cap. 1620-1621", "cap. 1623", "cap. 1637-1638", "cap. 1642", "cap. 1706", "cap. 1709", "cap. 1786", "cap. 1897", "cap. 1983", "cap. 1997", "cap. 2067-2068", "cap. 2078-2079", "cap. 2096", "cap. 2098-2100", "cap. 2126", "cap. 2138-2139", "cap. 2219", "cap. 2263"]
+fontes: ["cap. 4", "cap. 7-8", "cap. 31", "cap. 40", "cap. 55-56", "cap. 65", "cap. 74", "cap. 112", "cap. 121", "cap. 123-124", "cap. 170-171", "cap. 183", "cap. 211", "cap. 228-231", "cap. 253", "cap. 258-274", "cap. 279", "cap. 281", "cap. 283", "cap. 285-286", "cap. 292", "cap. 302", "cap. 306-307", "cap. 311", "cap. 325", "cap. 329", "cap. 333", "cap. 354", "cap. 359", "cap. 375", "cap. 384-385", "cap. 388", "cap. 405", "cap. 407", "cap. 411", "cap. 424", "cap. 554", "cap. 653", "cap. 962", "cap. 998-1000", "cap. 1035", "cap. 1037", "cap. 1072", "cap. 1093", "cap. 1194", "cap. 1212-1215", "cap. 1218-1220", "cap. 1223", "cap. 1226", "cap. 1231", "cap. 1304", "cap. 1306-1307", "cap. 1315", "cap. 1321-1322", "cap. 1327-1329", "cap. 1338-1340", "cap. 1343-1348", "cap. 1355", "cap. 1377-1378", "cap. 1383", "cap. 1386", "cap. 1435", "cap. 1452", "cap. 1532-1533", "cap. 1594", "cap. 1599", "cap. 1601-1604", "cap. 1607", "cap. 1610", "cap. 1620-1621", "cap. 1623", "cap. 1637-1638", "cap. 1642", "cap. 1706", "cap. 1709", "cap. 1786", "cap. 1897", "cap. 1983", "cap. 1997", "cap. 2047", "cap. 2059", "cap. 2067-2068", "cap. 2083", "cap. 2087", "cap. 2078-2079", "cap. 2096", "cap. 2098-2100", "cap. 2108", "cap. 2126", "cap. 2138-2139", "cap. 2219", "cap. 2263"]
 conhecimento: comum
 ---
 
@@ -48,11 +48,20 @@ deles cresce, os outros dois se aliam contra ele. No extremo oposto, o clã núm
 região tem sua sede no canto sudoeste, cercada de água e sem vizinhos pelas costas — e a
 obra afirma explicitamente que **essa posição é uma das razões da sua ascensão**.
 
-Fora do bloco dos treze existem outros três mundos que a mesma região abriga: os
+Fora do bloco dos treze existem outros quatro mundos que a mesma região abriga: os
 **cultivadores solitários**, que não devem nada a ninguém e por isso não recebem nada; o
 **[[05 - Caminho Correto e Caminho Demoníaco|caminho demoníaco]]**, que aqui não é um exército
-mas um enxame de indivíduos e grupos pequenos; e os **clãs médios e pequenos**, centenas
-deles, que para os treze são apenas terreno.
+mas um enxame de indivíduos e grupos pequenos; os **clãs médios e pequenos**, centenas
+deles, que para os treze são apenas terreno; e as **raças humanas variantes**, que na Fronteira
+Sul são majoritariamente mercadoria — com uma exceção poderosa, o Paraíso dos Homens-Cogumelo.
+
+Vale registrar uma coisa que a obra afirma com todas as letras, porque contraria a impressão que
+a hegemonia do clã Wu dá: **a Fronteira Sul está na lista das regiões desunidas.** Comparando as
+cinco, a obra diz que só o Continente Central tem um líder unificado, "algo que nenhuma das
+outras quatro regiões tem", e que Mar do Leste, Deserto Ocidental, Fronteira Sul e Planícies do
+Norte "são todas controladas por super forças independentes e são desunidas" — o Norte só um
+pouco menos, porque ao menos tem uma instituição regional. A hegemonia do clã Wu é real e pesa
+todos os dias, mas ela **não é governo**.
 
 > [!note] Para o design
 > A Fronteira Sul é a região mais fácil de rodar como **campanha política de baixo nível**.
@@ -966,19 +975,20 @@ tantas vezes ao longo das gerações que ela já não os prende.
 
 | | |
 |---|---|
-| **Manda quem** | **Lu Wei Yin**, Gu Imortal de **rank 8**, reconhecido por todos como **o herdeiro de Paradise Earth Immortal Venerable** |
+| **Manda quem** | **Lu Wei Yin**, Gu Imortal de **rank 8**, reconhecido por todos como **o herdeiro de [[03 - Os Arquitetos da Ordem\|Paradise Earth Immortal Venerable]]** |
 | **Caminho de casa** | Terra e virtude, por herança do Venerável; os Gu Imortais homens-cogumelo do lugar são fortes no [[08 - Poison Path\|caminho do veneno]] |
 | **Por que esse caminho** | O Venerável deixou ali a sua **herança verdadeira da Virtude** — daí o segundo nome do lugar |
 | **Porte** | "Sua fundação é profunda e **não é em nada inferior às super forças**", na avaliação de um inimigo que estudava como atacá-lo |
 | **Alinhamento** | Caminho correto na prática — o líder participa das ações conjuntas do caminho correto da região — mas **estruturalmente à parte**, por não ser humano |
 | **Território** | Uma terra abençoada dos homens-cogumelo, com pontos de recurso gigantes e montanhas próprias |
 
-**Como cresceu.** Por caridade de um Venerável. Paradise Earth Immortal Venerable — o Venerável que
+**Como cresceu.** Por caridade de um Venerável. [[03 - Os Arquitetos da Ordem|Paradise Earth Immortal
+Venerable]] — o Venerável que
 passou a vida restaurando a paz do mundo e que amava e defendia as raças humanas variantes — **não
 queria ver os homens-cogumelo serem massacrados sem piedade**, e por isso ajudou aquela terra
-abençoada e a transformou num "paraíso". A palavra é técnica: o lugar ficou **livre de calamidades e
-tribulações**, os desastres periódicos que todo Mestre Gu do mundo tem de enfrentar para continuar
-existindo. É uma isenção que nenhum dos treze super clãs tem.
+abençoada e a transformou num "paraíso". A palavra é técnica: o lugar ficou **livre de
+[[10 - Tribulações e Calamidades|calamidades e tribulações]]**, os desastres periódicos que todo
+Mestre Gu do mundo tem de enfrentar para continuar existindo. É uma isenção que nenhum dos treze super clãs tem.
 
 **Do que vive.** Da população. "Só os incontáveis homens-cogumelo que vivem aqui já seriam algo único
 entre as cinco regiões e os dois céus — **este era o melhor recurso de homens-cogumelo do mundo, sem

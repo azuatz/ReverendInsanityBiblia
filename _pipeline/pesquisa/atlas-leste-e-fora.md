@@ -120,10 +120,18 @@ status: pesquisa-em-andamento
   de bolhas" — bolhas que contêm, cada uma, um mar e uma ilha próprios; e uma dessas
   bolhas pode ser **transportada de lugar** por um imortal suficientemente forte
   (caps. 1187, 1158).
+- **Ilhas flutuantes sobre o mar — fabricáveis**: existe um Gu da **Olden Antiquity Era**
+  chamado **pine island Gu** (Gu da ilha-pinheiro) que "pode criar uma ilha flutuante sobre
+  um mar; há uma árvore enorme no meio da ilha, e as raízes se estendem e seguram a terra
+  toda junta". É par do *small swamp Gu* (que altera terreno criando um pequeno pântano).
+  Os materiais para refiná-los estão **extintos**, e nem o maior mercado do mundo os vende
+  (cap. 671). Isto é: **ilhas flutuantes artificiais são tecnologia perdida**, não fenômeno
+  natural. `*` Nada impede que existam ilhas assim antigas ainda boiando por aí no Mar
+  Oriental — mas a obra não afirma isso.
 - **Ilhas flutuantes no céu**: existem no mundo (a Carefree Island é "uma ilha
   despreocupada flutuando no céu", cap. 1704), mas o texto a atribui a uma seita cujo
   território **não** se identifica como Mar Oriental — não trate como feição do Mar
-  Oriental sem confirmação. `—` para ilhas flutuantes especificamente no Mar Oriental.
+  Oriental sem confirmação. `—` para ilhas flutuantes no céu especificamente no Mar Oriental.
 - **Recifes e vórtices**: aparecem descritos como o perigo característico da faixa junto
   à muralha regional durante a maré de terra — "as forças de maré eram como incontáveis
   recifes e vórtices" (cap. 819). É uma comparação, mas confirma que recife e vórtice
@@ -521,6 +529,13 @@ longa o bastante para a região ser considerada despreparada militarmente (cap. 
   Oriental move preços no mundo inteiro.
 - **Aves de carga vivas**: o transporte aéreo por *flying blue whale* está ligado ao Mar
   Oriental e é vantagem competitiva de quem tem laços com a região (caps. 260, 353).
+- **Produto de exportação cotidiano**: os **blue sea cloud tea bricks** (tijolos de chá da
+  nuvem do mar azul) — chá prensado produzido **no Mar Oriental**, vendido nas outras
+  regiões por um clã que tem relação próxima com o Mar Oriental e o importa todo ano em
+  volume enorme "com grandes lucros". Serve para beber **e** para alimentar *tea Gu*, e é
+  barato: 5 pedras primevas o tijolo, ao alcance de um mortal (caps. 39, 1093). É o
+  exemplo perfeito de que o Mar Oriental exporta também para o **mundo mortal**, não só
+  para imortais.
 
 > [!note] Para o design
 > O Mar Oriental é a região que melhor sustenta uma campanha **econômica** em vez de
@@ -674,4 +689,849 @@ antes `[segredo]` e depois "segredo aberto" entre imortais do Mar Oriental (cap.
 
 ---
 
-(Parte B em construção — próximo bloco)
+# PARTE B — O MUNDO FORA DAS CINCO REGIÕES
+
+> Nota de escopo: a Parte B é onde mora quase todo o "conhecimento de mestre" do
+> cenário. Cada item traz o nível de conhecimento entre colchetes.
+
+## Mapa mental da Parte B (para a designer se orientar)
+
+Fora das cinco regiões existem, em camadas:
+
+1. **Acima**: a *heavenly wind qi wall* e, além dela, os **nove céus imemoriais** — dos
+   quais restam dois. Cada céu é do tamanho das cinco regiões somadas.
+2. **Ao lado / atravessando tudo**: os **domínios reclusos de céu e terra**, lugares do
+   mundo com leis próprias, quase todos registrados em "The Legends of Ren Zu" —
+   incluindo o **Rio do Tempo**, a **Porta da Vida e da Morte** e a **Caverna do Espaço**.
+3. **Abaixo**: um andar subterrâneo com dezenas a centenas de camadas (**Earth Abyss** e,
+   depois da Grande Era, as **Dez Terras**).
+4. **Dentro de bolsos**: os mundos pequenos — blessed lands, grotto-heavens, mundos
+   fragmentados dos sete céus caídos, e as **grandes potências que são elas próprias
+   lugares** (Tribunal Celestial, Longevity Heaven, treasure yellow heaven).
+5. **Na borda**: a **fronteira do mundo de cultivo Gu**, mais fina no fundo da
+   **Crazed Demon Cave** — e, atrás dela, "o que vem de fora do mundo".
+
+---
+
+## B1 — Os nove céus imemoriais
+
+### A estrutura
+
+- `[especializado]` **Os nove céus, na ordem canônica**: **white (branco), red (vermelho),
+  orange (laranja), yellow (amarelo), green (verde), azure (azul-celeste), blue (azul),
+  purple (roxo), black (preto)** (caps. 371, 389, 466). São **camadas de céu**, não
+  planetas: o céu da Immemorial Antiquity tinha nove níveis.
+- `[especializado]` **Escala**: "cada camada dos céus tem o tamanho coletivo das cinco
+  regiões" (cap. 1241); reafirmado no V6: "seja black heaven ou white heaven, cada um é
+  tão grande quanto as cinco regiões juntas" (cap. 1985). O "fora" é literalmente maior
+  que o mundo habitado.
+- `[especializado]` **Estado atual**: sete céus (red, orange, yellow, green, azure, blue,
+  purple) foram destruídos consecutivamente; restam **white heaven e black heaven**, que
+  hoje se **alternam como dia e noite** (caps. 389, 466, 740). A luz do sol perdeu a
+  "glória" da era imemorial e hoje só atravessa o white heaven (cap. 389).
+- `[especializado]` **Na Immemorial Antiquity**, os nove céus se **revezavam** sobre as
+  cinco regiões em intervalos fixos, e céu e terra eram contínuos — dava para **caminhar**
+  entre eles (cap. 722).
+- `[especializado]` **A fronteira dos céus é a *heavenly wind qi wall*** (muralha de qi de
+  vento celestial) — ver B4.
+
+### Black heaven (céu negro) — o que existe lá dentro
+
+`[especializado]` — explorado só por rank 7 fortes e rank 8 (cap. 1132).
+
+- **Aparência**: escuridão total, "um véu escuro cobrindo tudo em volta"; mas **não é
+  vazio** — há pontinhos de luz difusos ao longe, e **enormes quantidades de formas de
+  vida** (caps. 722, 1241).
+- **As nuvens negras (*black clouds*)**: o traço geográfico definidor. São comuníssimas; as
+  menores levam **vários minutos** para uma Immortal Gu House atravessar; as verdadeiramente
+  grandes são "como continentes flutuando no céu". São como **ilhas isoladas no mar**: têm
+  superfície e interior habitados, e nas profundezas delas vivem feras e plantas terríveis.
+  São **difíceis de perceber** — sem um método investigativo forte, voa-se para dentro de
+  uma sem saber (cap. 1241). Regra crucial: **as nuvens dos nove céus flutuam ao acaso, sem
+  padrão fixo, e nem a heaven's will interfere no movimento delas** — o que se encontra numa
+  travessia é pura sorte (cap. 1241).
+- **Fauna documentada**: *astral wind flying heavenly boars* (javalis celestes do vento
+  astral — cada um é uma **ancient desolate beast** com força de rank 7; raríssimos nas
+  cinco regiões, ali existem às centenas; atravessam a heavenly wind qi wall como peixe
+  na água, e seus materiais servem para refinar Gu de qi path que ajudam imortais a
+  atravessá-la); *dark venomous snakes* (cobras venenosas negras que voam em bando saindo
+  das nuvens, nível desolate, com rei ancient desolate — guardam rancor e não desistem de
+  uma presa; suas vísceras são o melhor material para Immortal Gu de cura);
+  *bear mosquitoes* (mosquitos do tamanho de ursos, cada um com força de desolate beast e
+  em número muito maior que as cobras) (cap. 1241). **Soul beasts** (feras de alma) em
+  hordas de centenas de milhares a milhões, abrindo caminho com "formigas do submundo"
+  (cap. 1968). **Walking meat trees** (árvores de carne ambulantes) — planta rara de
+  strength path (caps. 722, 1133). **Dream realms** (reinos de sonho) (cap. 722).
+- **Flora/recurso**: *star fragment grass* (grama de fragmento de estrela) crescendo sobre
+  uma nuvem negra, com incontáveis grupos de insetos vivendo em cima; é ali que se vê
+  luz de estrela (cap. 1241).
+- **Estrelas**: as estrelas do black heaven iluminam as cinco regiões, e sua luz é a fonte
+  de poder do *stargate Gu* — que por isso atravessa as muralhas regionais. Uma estrela do
+  black heaven pode ser **refinada** individualmente por um imortal (caps. 459, 462, 485,
+  988).
+- **Propriedade útil**: black heaven tem **ocultação natural** — esconde parcialmente
+  rastros de quem viaja por lá (cap. 1239).
+
+### White heaven (céu branco) — o que existe lá dentro
+
+`[especializado]`
+
+- **Função social**: é o palco convencionado das batalhas de rank 8 (rasga-se a heavenly
+  wind qi wall, sobe-se e luta-se lá em cima; os espectadores lá embaixo só veem o
+  clarão) (cap. 813). Sofre dano estrutural com isso: um golpe pode **rasgar um buraco no
+  céu**, e pelo buraco descem desolate beasts para as cinco regiões — alguém precisa
+  remendar (cap. 813).
+- **Recursos**: *true heaven silver* (prata do céu verdadeiro), material extremamente raro
+  até no maior mercado do mundo — 300 kg foi considerado uma expedição de sucesso
+  (cap. 755). Aurora lights (luzes de aurora) colhidas por imortais (cap. 2002).
+- **Fauna documentada**: *cloud phoenix* (fênix-nuvem) — não nasce com sangue de fênix; é
+  **uma nuvem antiga que não se desfez nem depois de dez mil anos no white heaven** e que,
+  depois de receber a aura ou o sangue de uma fênix, lentamente se torna um ser vivo
+  (cap. 936). *Remnant heavenly dog* (cão celestial remanescente), ancient desolate beast
+  que **só existe no white heaven** (cap. 935). *Sky chief beasts* (cap. 772). **Ancient
+  cloud beasts** — as bestas-nuvem originam-se dos nove céus e descem às cinco regiões
+  para procriar; voltar para casa exige atravessar a heavenly wind qi wall e sobreviver a
+  feras e fenômenos, e pouquíssimas conseguem (caps. 1044-1045). *Destiny light deer*
+  (cervos de luz do destino) — têm **nove cores correspondentes aos nove céus imemoriais**;
+  os brancos vêm do white heaven (cap. 1008). *Qi grand lions* (leões grandiosos de qi),
+  quase extintos nas cinco regiões, só vistos hoje nos dois céus (cap. 1035).
+  *Immemorial desolate beasts* em geral: hoje a maioria delas está nos dois céus (cap. 1116).
+
+### Os sete céus caídos: os *fragment worlds*
+
+`[especializado]`
+
+- **O que são**: quando os sete céus foram destruídos, seus pedaços **se espalharam e
+  caíram**, formando **mundos fragmentados** isolados, escondidos dentro das cinco regiões
+  (caps. 1028, 1115). São mundos pequenos e completos, com dao marks próprios.
+- **Todos são ricos**: "sejam os céus intactos, sejam os mundos fragmentados dos nove céus,
+  eles têm recursos abundantes" (cap. 751).
+- **Regra de entrada (mecânica importante)**: um fragment world tem **dao marks esparsos**;
+  se quem entra tem dao marks demais no corpo, é "como um tigre entrando na gaiola de um
+  coelho" — o mundo **estoura**, os dao marks se destroem, os ventos de assimilação sopram
+  e todos os recursos morrem. Por isso só cultivadores de certo nível podem explorá-los, e
+  os fortes demais estão **proibidos pela física** (caps. 776, 821, 1071).
+- **Fragmentos nomeados e o que produzem**:
+  - **Green heaven fragment** (céu verde) — lar da **Sacred Feather City**, o maior
+    assentamento de feathermen (homens-pássaro) que restou no mundo; isolado do exterior
+    por tanto tempo que os costumes e métodos de lá são da **Late Antiquity Era**, uma era
+    inteira atrasados (caps. 865, 870, 903).
+  - **Yellow heaven fragment** (céu amarelo) — única fonte de **concealing heaven dust**
+    (pó de ocultação do céu) do mundo; foi um fragmento grande de yellow heaven que, fundido
+    à abertura de um imortal, criou o **treasure yellow heaven** (caps. 740, 871, 1073).
+    Rumores dizem que o yellow heaven imemorial tinha **rios celestiais metálicos**; a
+    maioria se destruiu, mas ainda se vê passar uma "corrente de fragmentos de ouro"
+    (cap. 1155).
+  - **Purple heaven fragment** (céu roxo) — raríssimo de achar e extremamente perigoso;
+    desolate beasts e desolate plants são comuns lá dentro (cap. 776).
+  - **Azure heaven fragment** (céu celeste) — de um único fragmento grande um imortal tirou
+    mais de **400 heaven flying jades** (e saiu ferido) (cap. 753).
+  - **Red heaven fragment** (céu vermelho) — disputado como recurso estratégico de primeira
+    linha entre potências (cap. 1104).
+- **Uso institucional**: um grotto-heaven de rank 8 pode **absorver um fragment world dos
+  nove céus** — o poder celestial da abertura vira ilimitado, as calamidades e tribulações
+  enfraquecem muito ou somem, e ganha-se um poder místico imprevisível. Só grotto-heavens
+  de rank 8 conseguem (cap. 740). O preço está registrado em `mundo-e-cosmologia.md`: o
+  dono fica preso ao lugar e a abertura passa a ser visível à heaven's will.
+- **Material dos céus**: *heavenly crystals* (cristais celestiais), material imortal rank 8,
+  só podem ser produzidos em grotto-heavens ou nos nove céus imemoriais — e como restam só
+  dois céus, a fonte hoje são os fragment worlds espalhados (caps. 1115, 1147). *Rush
+  thunder stone* nasce da colisão de raios **entre dois céus**; com sete céus a menos, a
+  produção despencou (cap. 559).
+- **Matéria dos céus cai no mundo e vira terreno**: a teoria corrente sobre a origem da
+  **profound ice island** (ilha de gelo profundo) é que **o white heaven rachou e um bloco de
+  gelo caiu**; era imensamente maior, derreteu pela fricção com o ar durante a queda, e ao
+  cair no mar esfriou e formou a ilha. As bordas são lisas e brilhantes, **sem arestas, como
+  velas derretidas** — o que é apresentado como a evidência que sustenta a teoria. A ilha é
+  pobre em recursos, mas o gelo profundo quase não derrete e a energia de gelo que ela emite
+  faz dela o lugar perfeito para cultivadores de ice path e water path — que se juntaram ali
+  e fundaram uma seita (cap. 831). Fica na **costa leste do Continente Central** (região
+  tropical, quente o ano todo), **não no Mar Oriental**. Serve de precedente geral:
+  **pedaços de céu caem e viram geografia**, e uma ilha pode ser datada pela forma da borda.
+
+- `[segredo]` **O que se perdeu com os sete céus**: se os nove ainda existissem, o *heavenly
+  dew oasis* produziria "água de nove cores" (rank 8) em vez de água preto-e-branca, e dela
+  sairia anualmente uma gota de **nine heavenly star sweat**, material rank 9 e uma das
+  **três grandes águas de céu e terra** (junto com *myriad being creation water* e *rising
+  falling tide water*). **As três águas se perderam com os sete céus; as três grandes chamas
+  ainda existem** (cap. 1779).
+
+### Os grotto-heavens dos dois céus — uma civilização inteira fora do mundo
+
+`[segredo]` até a Grande Era; `[comum]` depois dela (caps. 1117, 1969-1975, 1990, 2020).
+
+- **O que são**: grotto-heavens (o estágio mais alto de mundo pequeno) instalados **dentro**
+  do white heaven e do black heaven, escondidos pela heavenly wind qi wall e, no black
+  heaven, pela escuridão natural. "Grotto-heavens ficam no céu; se não se abrirem, é difícil
+  detectá-los de fora" (cap. 1117).
+- **Quem mora lá**: uma sociedade paralela de Gu Immortals que **não pertence a nenhuma das
+  cinco regiões** e que se identifica como "os imortais do black heaven" / "do white heaven".
+  Muitos são **humanos variantes** — e nos dois céus os variantes são a **força dominante**:
+  no black heaven acima do Continente Central há 4 rank 8 variantes contra apenas 2 humanos;
+  no black heaven acima do Mar Oriental os variantes são ainda mais dominantes
+  (caps. 1969, 1975).
+- **Geografia política**: cada região das cinco tem "o seu" black heaven e "o seu" white
+  heaven acima — fala-se de "o black heaven do Continente Central", "o black heaven do Mar
+  Oriental" — e cada trecho tem seus próprios grotto-heavens e seus próprios rank 8, cujo
+  número total ninguém conhece (caps. 1970, 1975).
+- **Grotto-heavens nomeados dos dois céus**: **Soul Pacifying grotto-heaven** (humanos, black
+  heaven do Continente Central), **Shattered Bone grotto-heaven** (humanos, black heaven do
+  Mar Oriental), **Ice Crystal grotto-heaven** (snowmen), **Night Wolf grotto-heaven**,
+  **Great Wisdom grotto-heaven** (inkmen), **Profound Literature grotto-heaven** (caps. 1848,
+  1969-1975, 1979, 1990).
+- `[especializado]` **Por que são ricos**: os grotto-heavens dos dois céus foram construídos
+  **sobre as heaven veins** (veias do céu) — e por estarem na fonte, são os primeiros a
+  sofrer quando as heaven veins começam a se fundir (cap. 1990).
+- **Consequência da Grande Era**: as qi tides varrem também os dois céus; os grotto-heavens
+  **não conseguem mais se ocultar** e suas posições ficam expostas — o que força essa
+  sociedade escondida a entrar na política mundial pela primeira vez (cap. 1969). Ao mesmo
+  tempo, por estarem nos céus, esses imortais foram **os menos afetados** pelas qi tides e
+  puderam se mover enquanto os das cinco regiões estavam de cama (cap. 1969). Os "immemorial
+  two heavens" acima do Mar Oriental — território denso de grotto-heavens humanos e de
+  variantes — viram palco de guerra aberta assim que as paredes caem (cap. 2020).
+
+> [!note] Para o design
+> Os dois céus são a resposta pronta para "e se os jogadores quiserem sair do mapa?".
+> São maiores que o mundo conhecido, têm ecologia própria (nuvens-continente habitadas,
+> feras que atravessam a muralha como peixes), recursos que não existem embaixo, e uma
+> **sociedade inteira de exilados e de humanos variantes** com sua própria geopolítica —
+> que só descobre o mundo de baixo quando um cataclismo remove o teto.
+
+---
+
+## B2 — O Rio do Tempo como território físico
+
+`[segredo]` — a existência conceitual é `[especializado]` (todo imortal sabe que sua
+abertura puxa um afluente); **navegar o rio de corpo presente é conhecimento de
+pouquíssimos**.
+
+### O que é, fisicamente
+
+- **Definição in-universe**: "diz a lenda que há um rio neste mundo, chamado Rio do Tempo.
+  Tudo no mundo é como peixe no rio, e sob a correnteza os peixes só podem fluir para baixo.
+  Sem o Rio do Tempo o mundo estaria imóvel, seria um desenho. Só com este rio pode haver
+  mudança" (cap. 1430).
+- **É um domínio recluso de céu e terra**, amplamente conhecido e registrado em "The Legends
+  of Ren Zu" (cap. 1430). O domínio recluso **de time path** por excelência (cap. 2099).
+- **Aparência**: "o rio era enorme e largo — embora chamado de rio, era vasto como o mar".
+  Corre **num espaço de escuridão**. **A água é branco-pálida**, e incontáveis ondulações
+  colidem sem parar criando cores belíssimas (cap. 1430). Cada gota é um instante/imagem da
+  história; o rio é o fio que encadeia bilhões delas (caps. 383, 399).
+- **Sem paisagem de referência**: "depois de duas horas o rio continuava turbulento e a
+  escuridão em volta; a paisagem não tinha mudado, era quase como se ainda estivessem no
+  mesmo ponto onde começaram" (cap. 1430). Viajar nele é como viajar no mar aberto à noite.
+- **Tocar a água é perigoso** mesmo para quem entrou preparado: quem não é uma "year beast"
+  verdadeira faz bem em **voar acima do rio e não encostar** (cap. 1430).
+- **Afluentes (*tributaries*)**: o rio se ramifica em afluentes que **entram nos mundos
+  pequenos** — toda blessed land e todo grotto-heaven puxa um afluente proporcional ao seu
+  grau, e é esse afluente que faz o tempo existir lá dentro (caps. 609, 633, 690). Um
+  afluente é a **porta de entrada física** para o rio: entra-se por ele com uma formação
+  imortal apropriada (cap. 1430). Existem afluentes também **fora** de aberturas: um deles
+  passa pela *turbulent flow sea area* do Mar Oriental (cap. 1103).
+
+### O que vive lá
+
+- **Gu selvagens de time path aos montes**: "diz-se que o Rio do Tempo é lar de incontáveis
+  Gu worms de time path" (cap. 920). Vê-se *wild year Gu* se perseguindo e entrando na água;
+  enxames de Gu mortais de time path cercam um viajante grande "como uma nuvem negra", e são
+  fáceis de refinar por quem tem capacidade (cap. 1430).
+- **Year beasts** (feras do ano): "um tipo especial de fera feroz, **rara nas cinco regiões e
+  nos nove céus, mas comum no Rio do Tempo**". Existem nos três níveis — desolate, ancient
+  desolate e immemorial desolate. **Comem year Gu**: quanto mais alto o rank do year Gu, mais
+  year beasts ele atrai. Um Immortal Gu que produza year Gu sem parar atrai centenas ou
+  milhares de vezes mais. E como toda abertura imortal tem um afluente do rio, **as year
+  beasts entram na abertura pelo afluente**, direto do Rio do Tempo (cap. 1129). Espécies
+  vistas: *immemorial year monkey* (macaco do ano imemorial — vive no rio, com os olhos
+  submersos na água; os olhos são onde os dao marks de time path são mais densos) (cap. 1429).
+- **One finger flow shark**: immemorial desolate beast de time path com enorme quantidade de
+  dao marks de tempo — por isso **nada no Rio do Tempo com o corpo físico**. Normalmente se
+  esconde lá e não aparece. Carrega Immortal Gu de tempo. É raríssimo até dentro do rio
+  (caps. 920, 1431).
+- **Dark web spiders** (aranhas da teia escura): cada uma é uma **immemorial desolate beast**
+  e **tem território próprio dentro do rio**, onde nem outra immemorial desolate beast se
+  atreve a fazer bagunça. Corpo enorme, boca afiada, e um "ninho de cristal" — uma teia
+  gigantesca. **Quem é rank 7 ou menos e toca o fio fica em tempo congelado**, imóvel, e a
+  aranha se aproxima devagar para comer. Tem **cento e oitenta olhos compostos**. Move-se
+  lentamente (cap. 1431).
+
+### O que se encontra lá (geografia interna e perigos)
+
+- **Trechos de rio (*river segments*) com identidade própria** — o rio é mapeado por
+  segmentos, como um rio de verdade:
+  - **Sudden spring river segment** (trecho das fontes súbitas): jorros que irrompem sem
+    aviso da superfície. Quem é atingido recebe uma quantidade enorme de dao marks de tempo
+    gravados no corpo: ferimentos graves, morte, ou **perda de lifespan**. Força de
+    **rank 7 no mínimo, a maioria rank 8, e há registro de uma de rank 9**. A erupção parece
+    "uma cachoeira gigante fluindo para cima, em direção ao céu" e **desacelera tudo à
+    volta**, o que dificulta a fuga. O trecho é longo, e atravessá-lo depende tanto de força
+    quanto de sorte (caps. 1430-1431).
+  - **Blade river segment** (trecho das lâminas): um trecho permanentemente impregnado de
+    sword qi e blade light, resultado de uma batalha entre dois rank 8. Mais perigoso que as
+    fontes súbitas porque **não dá aviso**: killer moves antigos podem simplesmente aparecer
+    e atacar (cap. 1431). Prova de que **batalhas gravam o Rio do Tempo do mesmo jeito que
+    gravam o terreno**.
+  - **Territórios de dark web spider** e **áreas de one finger flow shark** funcionam como
+    trechos igualmente (cap. 1431).
+- **Stone lotus islands** (ilhas de lótus de pedra): **ilhas construídas artificialmente** por
+  um Venerável, situadas **no fundo do rio**, em pontos diferentes do Rio do Tempo. Cada uma
+  guarda uma das sete true inheritances que ele deixou. Uma stone lotus island é um objeto
+  com **fundação finita**: usar seu poder (por exemplo, manipular o trecho de rio ao redor)
+  **consome essa fundação**, e quando ela acaba a ilha se desfaz por completo. Uma delas
+  também podia **observar passado e presente** através do rio (caps. 830, 1433-1436).
+  Encontrá-las é o problema: mesmo quem entrou várias vezes no rio pode nunca ver nenhuma
+  (cap. 830).
+- **Correntes que vêm de outros lugares**: por reunir "as correntes do mundo inteiro", certos
+  pontos permitem ver coisas que já não existem — como uma **gold fragment current**
+  proveniente de um mundo fragmentado do yellow heaven imemorial (cap. 1155).
+- `[segredo]` **Uma entidade habita ou influencia o rio**: um "rosto fantasma" emerge dele e
+  cospe uma **lótus vermelha** cujo raio reverte o tempo localmente. Ver
+  `mundo-e-cosmologia.md` para o dossiê — aqui interessa só o dado geográfico: **o rio não é
+  só cenário, tem morador** (caps. 970, 1022).
+- **Quem sabe brigar lá dentro é uma categoria própria**: o texto registra que existe "a
+  pessoa mais habilidosa em lutar dentro do Rio do Tempo nos últimos dez mil anos" e que
+  perseguir alguém rio adentro exige recrutar especificamente imortais de time path
+  (caps. 1430, 1629). Lutar no Rio do Tempo é uma competência distinta de lutar no mundo.
+
+---
+
+## B3 — Os domínios reclusos de céu e terra em escala mundial
+
+`[especializado]` a categoria; a existência real de cada um varia de `[especializado]` a
+`[segredo]`.
+
+### A categoria, definida
+
+- **O que é**: um **domínio recluso de céu e terra** (*secluded domain of heaven and earth*)
+  é um trecho de mundo saturado dos dao marks dispersos de um caminho. **O total de dao marks
+  de um domínio recluso costuma superar o de um Immortal Gu rank 9** — por isso, para um Gu
+  Immortal, um domínio recluso **é o substituto de um Gu rank 9**, capaz de "abalar uma era
+  inteira e criar uma nova tendência no mundo imortal" (cap. 2099).
+- **Regra de origem**: quase todos estão **registrados em "The Legends of Ren Zu"** — o que é
+  a prova mais forte de que as lendas são fonte de regra e não folclore (caps. 1175, 2099).
+- **São transportáveis** (com dificuldade enorme): podem ser fisicamente arrancados do mundo
+  e guardados dentro de uma abertura imortal, servindo de reserva permanente de dao marks e
+  de amplificador de golpes (caps. 942, 986-990, 1158, 2136). Alguns resistem: o City Well
+  apenas estremece; o Reverse Flow River foi o único dos três obstáculos da porta que um
+  Venerável não conseguiu levar (caps. 1158, 1252).
+- **Valor econômico**: para uma super força, desenvolver um domínio recluso dá **lucro de
+  monopólio** num mercado inteiro — o exemplo citado é a Dang Hun Mountain (cap. 2099).
+- **Podem ser FABRICADOS** — ver "domínios artificiais" abaixo.
+
+### A lista canônica, por caminho (cap. 2099)
+
+| Caminho | Domínios reclusos |
+|---|---|
+| **Time** (tempo) | **River of Time** (Rio do Tempo) |
+| **Space** (espaço) | **Space Cave** / **Space Door** (Caverna do Espaço / Porta do Espaço) |
+| **Qi** | **Xi Land** e **Hu Land** |
+| **Rule** (regra) | **Reverse Flow River**, **Cheng Bai Mountain**, **Miniscule Mountain** |
+| **Information** (informação) | **Qian Kun Crystal Wall**, **Whisper Forest**, "..." (a lista é explicitamente incompleta) |
+| **Soul** (alma) | **Dang Hun Mountain**, **Luo Po Valley** |
+| **Múltiplos caminhos** | **City Well**, **Blue Sea of Life** (Mar Azul da Vida), **Ordinary Abyss** |
+
+Fora dessa lista, o texto também trata como domínios reclusos: **Ascending Heaven Plain**
+(space path, Mar Oriental — Parte A), a **Door of Life and Death** (soul path; a maior
+concentração de dao marks entre todos os domínios reclusos, cap. 2194), **Care** (cap. 1175),
+**Human Sea** e **Refinement Sea** (artificiais), **Primordial Domain** (cap. 2176) e o
+**Human Mountain** (artificial, imitação posterior do Human Sea).
+
+### Fichas dos que ficam fora das cinco regiões ou não têm lugar fixo
+
+**Space Cave / Space Door** (Caverna do Espaço / Porta do Espaço) — `[segredo]`
+
+- Terreno proibido **do mesmo nível do Rio do Tempo**, primeiro descrito em "The Legends of
+  Ren Zu" (cap. 434). Assim como o Rio do Tempo tem incontáveis Gu de time path, a Space Cave
+  tem **incontáveis Gu de space path**.
+- **Onde fica**: "conecta as cinco regiões, escondida num lugar que ninguém conhece"
+  (cap. 434). Localização: `—`
+- **A propriedade que a define**: **empurrando uma porta de dentro da Space Cave, chega-se a
+  qualquer lugar do mundo**. Essa porta é a **space door**, e ela é **onipresente**: pode
+  estar numa fresta estreita ou no céu aberto e sem fim. **Onde há espaço, há uma porta para
+  a Space Cave** (cap. 434).
+- **Acesso**: "do passado até hoje, pouquíssimos conseguiram encontrar a Space Cave, muito
+  menos entrar. **Em toda a história humana, apenas uma pessoa conseguiu entrar e sair**"
+  (cap. 434).
+- **Uso indireto**: certos Gu funcionam **atravessando** a Space Cave sem que ninguém entre —
+  um par de *moving perspective cup Gu* troca de posição **dentro** da caverna, e é assim que
+  transporta recursos entre dois pontos do mundo (cap. 434).
+
+**Xi Land e Hu Land** — `[especializado]` a lenda, `[segredo]` a existência real
+
+- Par complementar de domínios reclusos de **qi path**, "os domínios reclusos supremos do
+  caminho do qi", citados juntos em "The Legends of Ren Zu" (caps. 2004, 2098).
+- **Xi Land inspira qi; Hu Land expira qi** (nota de tradução do próprio texto: Xi = inalar,
+  Hu = exalar) (cap. 2098, nota).
+- **Efeito de Xi Land**: manifesta-se como uma **imagem/domínio pairando acima da cabeça** de
+  quem o possui, e **absorve todo killer move de qi path do mundo** — "como um buraco sem
+  fundo". Quem o carrega inteiro **anula qualquer cultivador de qi path**, a menos que o golpe
+  supere o limite do domínio (caps. 2003-2004, 2046).
+- **Efeito de Hu Land**: expele; combinado a métodos de propulsão, arremessa quem o usa a
+  velocidades incontroláveis — nem direção nem destino se controlam quando usado por um mero
+  resíduo de vontade (cap. 2098).
+- **Estado**: ambos aparecem **danificados/incompletos** e passíveis de **reparo** — Xi Land
+  foi "completamente consertado" desmantelando a *turbulent flow sea area* do Mar Oriental
+  como matéria-prima, o que lhe deu uma mudança **qualitativa** de força (cap. 2003).
+  Registro geográfico importante: **um domínio recluso pode ser reparado consumindo outro
+  lugar do mundo**.
+- **Hu Land** aparece guardado num lugar cheio de *crystal essence* de vários caminhos —
+  earth, water, lightning etc. (cap. 2076).
+
+**Ordinary Abyss** (Abismo do Comum) — `[comum]` como lenda, `[segredo]` como lugar
+
+- Domínio recluso de **múltiplos caminhos** (cap. 2099), central em "The Legends of Ren Zu".
+- **Forma**: um abismo profundo do qual **nenhum ser vivo jamais conseguiu voar para fora**;
+  quem cai fica numa **colina isolada** no fundo e morre de fome; do fundo, olhando para cima,
+  vê-se um pedaço de céu — a lenda compara explicitamente com o miniman olhando o céu do fundo
+  do **City Well** (caps. 287, 1276). No nível mais baixo há o **"ordinary marsh"** (pântano
+  do comum) (cap. 733). Tem **árvores** suficientes para se derrubar e construir escadas
+  (cap. 1276).
+- **Clima próprio**: sopram nele os **"ventos comuns"** (*ordinary winds*), que levantam "poeira
+  mortal"; quando a poeira assenta, ela **apaga as pegadas** de quem caminhou — e por isso quem
+  anda por lá se perde e repete o mesmo caminho sem saber. A contramedida registrada é deixar
+  pegadas **fundas** (cap. 807).
+- **Regra ontológica declarada**: "Este é o Ordinary Abyss. Todos os seres vivos entram aqui por
+  uma razão ou outra. Todos os seres vivos são comuns. Mas a esmagadora maioria fica presa nele
+  a vida inteira. Só uma pequena parte consegue sair pelo próprio esforço" (cap. 733). A saída
+  exige **abrir o próprio caminho**, não seguir a trilha de outro (cap. 807), e — na lição dos
+  minimen — usar as conquistas dos antecessores mas **construir a própria escada sozinho**
+  (cap. 1276). É o domínio recluso que é uma **metáfora funcionando como terreno**.
+
+**Blue Sea of Life** (Mar Azul da Vida) — `[especializado]` como lenda, `[segredo]` como lugar
+
+- Domínio recluso de **múltiplos caminhos** (cap. 2099).
+- **Onde**: "no centro do deserto dourado, a oeste" (cap. 591) — portanto ligado ao Deserto
+  Ocidental, mas descrito como um lugar próprio de escala mítica.
+- **Aparência**: um mar azul **absolutamente imóvel**, plano como espelho — "nem ventos fortes
+  causam a menor ondulação". Belo além do imaginável (cap. 591).
+- **O que é**: **a fonte de todos os seres vivos**; toda vida no mundo se origina dali. Nas
+  profundezas repousam **life Gu** em forma de gema, cada uma com o formato do ser em que vai
+  se transformar (cervo, humano...). Ao serem levadas para a praia, as gemas **viram o animal
+  correspondente**. Gemas em forma humana são raríssimas (cap. 591).
+- **Regra de perigo**: **quinze minutos** é o limite. Passar disso significa **ser assimilado
+  pelo mar** — a pessoa se converte de volta num life Gu (cap. 591).
+- `[segredo]` **A revelação ontológica** (cap. 2168): "as miríades de formas de vida do mundo
+  eram originalmente Gu worms **dentro do Blue Sea of Life**. Esses Gu foram levados à praia
+  pelas ondas do Mar Azul e viraram todos os tipos de seres vivos." O mar é literalmente a
+  origem da vida.
+- Também dele se tira a **blue sea water** como material de refino (cap. 1473).
+
+**Qian Kun Crystal Wall** e a **Book Mountain** — `[especializado]` a lenda, `[segredo]` o acesso
+
+- **O que é**: um domínio recluso de **information path**, que "existia desde a criação do
+  mundo". Uma parede/espelho cristalino **reto de cima a baixo, flutuando no vazio como um
+  espelho gigante que reflete tudo que acontece no mundo** (caps. 495, 2160).
+- **O que contém**: "reflete todos e tudo; contém todos os segredos do passado e do presente do
+  mundo" (cap. 2160).
+- **Por que quase ninguém entra**: quem entra "enfrenta uma barragem infinita de informação e,
+  depois de um tempo, **morre por sobrecarga de informação**". Formas de vida comuns "se perdem
+  depois de poucos passos, não resistem ao apelo do mundo material nem às incontáveis tentações
+  dentro dele" (cap. 2160).
+- **Como se caminha lá dentro**: pelo **texto de tinta** (*ink text*). Os **inkmen** (homens de
+  tinta) conseguem viver ali por causa do texto de tinta; ele forma **ladrilhos sob os pés** que
+  registram informação e sustentam o caminhante. Mas ladrilhos feitos de informação superficial
+  **se desgastam e somem** sob a barragem infinita — não aguentam jornadas longas. Só um caminho
+  construído com conhecimento verdadeiramente compreendido (**true meaning**) atravessa até o
+  fundo (caps. 2160-2161, 2176).
+- **Book Mountain** (Montanha dos Livros): fica dentro da Qian Kun Crystal Wall. Nela há uma
+  **cachoeira de tinta sobre a fonte da literatura** (*literature spring*) — os respingos dessa
+  água de literatura sobre a Book Mountain **criaram os primeiros caracteres escritos do mundo**,
+  e a tinta solidificada gerou os **inkmen** (caps. 495-497, 566). `[segredo]` A Book Mountain
+  estava originalmente na **9ª camada da Crazed Demon Cave**, e foi extraída de lá por uma
+  instituição de wisdom path (cap. 2162).
+- **Estado atual**: a Qian Kun Crystal Wall **está quebrada** desde tempos imemoriais, reduzida a
+  **lajes de pedra cinza-esbranquiçadas** espalhadas pelo mundo. A lenda diz que quem reunir todas
+  as lajes reconstrói a parede e pode entrar de novo na Book Mountain. Por isso as lajes são
+  colecionadas, negociadas e falsificadas — e uma raça inteira (os inkmen) as caça para
+  **desenterrar a própria herança racial** (caps. 495, 566, 1848, 1990, 2136).
+
+**Primordial Domain** (Domínio Primordial) — `[segredo]` de nível máximo
+
+- **Definição in-universe**: "a parte mais misteriosa da Qian Kun Crystal Wall... contém a
+  informação do mundo desde a criação, e também a informação do fim de todos os seres vivos.
+  É tanto o ponto de partida quanto o ponto final. Não tem nada, mas compreende tudo"
+  (cap. 2176).
+- **Onde está**: **originalmente dentro da Qian Kun Crystal Wall**; foi **retirado de lá por um
+  Venerável e colocado dentro da Crazed Demon Cave** — de modo que reconstruir a parede hoje
+  **não** basta para entrar nele (cap. 2136).
+- **Como se chega**: partindo da Book Mountain, caminhando enquanto se espalha o próprio
+  conhecimento acumulado como texto de tinta no chão — e só um caminho feito de **true meaning**
+  aguenta a travessia (cap. 2176). A estrada é feita da qualidade do entendimento de quem caminha.
+- **Efeito**: absorvê-lo concede grande impulso de attainment em **múltiplos caminhos ao mesmo
+  tempo** (cap. 2271).
+
+**Domínios reclusos artificiais** — `[segredo]`
+
+Registro de altíssimo valor: **domínios reclusos podem ser construídos**.
+
+- **Refinement Sea** (Mar do Refino): projeto de um espírito de terra que acumulou *refinement
+  water* durante eras esperando que, ao atingir certo ponto, ela **virasse** um domínio recluso
+  de refinement path — que, uma vez formado, **se reabastece sozinho para sempre**. Nunca foi
+  concluído apesar de custo imenso; a versão incompleta ainda assim é um dos ativos mais
+  valiosos do mundo, e se **esgota** com o uso (caps. 1758, 1767, 2136, 2267).
+- **Human Sea** (Mar Humano): projeto de séculos de um super clã do Mar Oriental para criar em
+  segredo um domínio recluso de **human path**. Aparece como uma névoa branca de onde emergem
+  figuras e sombras humanas. **Reabastece-se matando gente suficiente** (cap. 1983). Depois,
+  outro clã, tirando lições dele, começou a construir uma imitação: o **Human Mountain**
+  (Montanha Humana) — e só o conjunto "Human Mountain and Sea" conta como domínio recluso
+  completo (caps. 1983, 2296).
+- **Censure Peak** (Pico da Censura): concluído, mas ainda assim considerado apenas do nível de
+  um domínio recluso **incompleto** — inferior em essência à Refinement Sea (cap. 1848).
+
+---
+
+## B4 — Fronteiras e bordas do mundo
+
+### Acima: a *heavenly wind qi wall* (muralha de qi de vento celestial)
+
+`[especializado]`
+
+- **O que é**: "a **fronteira dos nove céus imemoriais**" (cap. 2021). Uma muralha de
+  **heavenly wind qi** (qi de vento celestial) envolvendo os nove céus por fora, entre eles e
+  as cinco regiões (cap. 751).
+- **Espessura**: **mais espessa que as muralhas regionais** — verificado por testemunho direto
+  (cap. 1239). Só imortais muito fortes a rasgam; um rank 8 pode simplesmente "voar ao céu e
+  rasgá-la" (cap. 813). Uma Immortal Gu House de ponta abre um túnel nela à força — e **o vento
+  volta e preenche a brecha rapidamente**, então a travessia leva dias mesmo assim (cap. 1239).
+- **Quem passa sem esforço**: bichos nativos dos nove céus. Para os *astral wind flying heavenly
+  boars* "a muralha de vento celestial é como a água para os peixes no mar" — e por isso
+  imortais os caçavam para refinar Gu de qi path que ajudassem na travessia (cap. 1241). Um
+  *immemorial desolate beast* de space path (águia) consegue **contorná-la** (cap. 1142).
+- **Exceção geográfica**: a **Ascending Heaven Plain** (Mar Oriental) atravessa a muralha por
+  natureza — até um mortal passa por ela (caps. 751, 986). É a única brecha permanente conhecida.
+- **A muralha sobrevive à Grande Era**: quando as paredes regionais entre as cinco regiões somem,
+  a heavenly wind qi wall **continua separando cada região do seu black/white heaven** (cap. 1990).
+  Depois disso, porém, as **qi tides a enfraquecem periodicamente**, abrindo buracos temporários
+  por onde imortais de rank mais baixo conseguem subir — e o buraco **se fecha sozinho**, o que
+  obriga o explorador a vigiá-lo o tempo todo para não ficar preso lá em cima (cap. 2002).
+- Um imortal de qi path pode **absorver a própria muralha** como recurso: dezenas de li de
+  heavenly wind qi wall foram sugadas para dentro de um redemoinho e consumidas, revelando por
+  baixo um domínio recluso de aspecto côncavo (cap. 2002).
+
+### Abaixo: o mundo subterrâneo
+
+`[comum]` a existência de cavernas; `[especializado]` a escala real.
+
+- **Earth Abyss** (Abismo da Terra) — o exemplar documentado (fica no extremo oeste do
+  Continente Central; a categoria, porém, é o que interessa aqui): "um mundo subterrâneo
+  incomparavelmente grande", dividido em **dezenas de camadas**, cada camada com **no mínimo
+  centenas de milhares de km²**. Contém todo tipo de caverna e túnel — algumas como labirintos,
+  algumas com **lagos subterrâneos gigantes**, outras com chão plano. É **cheio de vida**, com
+  uma ecologia própria claramente distinta da superfície, e o **earth qi é denso** lá embaixo
+  (cap. 728).
+- **Profundidade real**: uma das dez grandes seitas antigas ocupa o Earth Abyss há milhares de
+  anos e só explorou **completamente até a 18ª camada**; explorações breves até a 27ª; da 28ª à
+  36ª só imortais da seita circulam ocasionalmente. Uma exploração mundial posterior chegou a
+  **107 camadas** e ainda não tinha achado o fundo (caps. 728, 2046). O andar de baixo do mundo é
+  praticamente inexplorado.
+- **Fenômeno próprio — os desabamentos**: tremores internos causam **desabamentos gigantescos**
+  em que incontáveis formas de vida perecem. O resultado é entulho empilhado misturado ao rancor,
+  à energia de morte e ao sangue dos mortos — e disso **nascem espontaneamente** incontáveis
+  *blood beasts* e *bone beasts* de nível desolate, e até **Immortal Gu selvagens** de blood path
+  e earth path (cap. 1044). O subterrâneo **fabrica monstros e tesouros** por conta própria.
+- **Marés de bestas subterrâneas**: do Earth Abyss podem emergir marés de bestas sem fim que
+  atacam a superfície e desencadeiam, por efeito dominó, uma maré continental (cap. 728).
+- **As Dez Terras (*Ten Earths*)** — `[comum]` depois da Grande Era: com a fusão das earth veins
+  das cinco regiões, surgem terrenos subterrâneos inteiramente novos, classificados em dez tipos:
+  **Earth Abyss, Earth Trench, Earth Tunnel, Earth Cave, Earth Prison, Production Earth, Flying
+  Earth, Formation Earth, Treasure Earth e Tomb Earth** (caps. 2058, 2142). Todas podem servir de
+  **nó de veia** para construir dao veins artificiais.
+- **Earth Trenches** (fendas terrestres): canais de escoamento de earth qi, de milhões de li,
+  riquíssimos e inexplorados no fundo; contêm **black oil**, pontos de recurso de alto grau,
+  Immortal Gu selvagens, e zonas-armadilha (areia púrpura que dissolve tudo abaixo de certa
+  densidade de dao marks; zonas de gravidade alterada) (caps. 931-935, 1734). Existem nas cinco
+  regiões — o Mar Oriental é o que tem menos (cap. 1885). São o hábitat de organizações que
+  querem sumir do mapa (cap. 741).
+- **Immemorial desolate beasts hoje**: "a maioria está dentro do white heaven e do black heaven.
+  Fora isso, estão nas áreas proibidas ou catastróficas das cinco regiões, como as dez grandes
+  áreas ferozes das Planícies do Norte, ou lugares como Earth Trench e Earth Abyss" (cap. 1116).
+  Ou seja: **as feras máximas do mundo vivem acima do céu ou abaixo do chão**, não na superfície.
+
+### A borda: a fronteira do mundo de cultivo Gu
+
+`[segredo]` de nível máximo — **nem os Veneráveis vivos a conhecem por inteiro**.
+
+- **Existe uma fronteira física do mundo**, e ela tem **espessura variável**. O ponto mais fino
+  conhecido fica **no fundo da Crazed Demon Cave** (cap. 2171).
+- **A Crazed Demon Cave** (Caverna do Demônio Enlouquecido) — publicamente, uma das **dez grandes
+  áreas ferozes das Planícies do Norte**; na verdade, o "campo do Dao" deixado por um Venerável em
+  seus últimos anos, construído deliberadamente (caps. 1174, 1176). Tem **nove camadas**:
+  | Camada | O que é |
+  |---|---|
+  | 1ª | Vasta terra de solo amarelo; tem feras e plantas selvagens; vista do céu parece uma cratera (caps. 2154, 2170) |
+  | 2ª | Terra de rochas em brasa, escaldante; rochas empilhadas, das do tamanho de elefantes às do tamanho de seixos (caps. 1174, 2154) |
+  | 3ª | Névoa branca com feras ferozes e a "Fog City" (cap. 2170) |
+  | 4ª-6ª | Camadas intermediárias — descrição própria: `—` |
+  | 7ª | Grande; rochas, grama, solo e árvores **todos brilhando em cores vivas**; solo composto de materiais imortais quase-rank-9, mas com **dao marks caóticos e inutilizáveis** — "a 7ª camada **deriva dao marks**" (caps. 1864, 1866, 2154) |
+  | 8ª | Um **VOID (vazio) onde mundos nascem e morrem** — "a 8ª camada **deriva mundos**" (cap. 1866) |
+  | 9ª | A **Crazed Demon Ninth Void Formation**, cujo núcleo é o lendário Immortal Gu rank 9 *Derivation*; escondida tão fundo que nem um Venerável a decifra de imediato (caps. 1866, 2171) |
+  Fenômeno ambiental de toda a caverna: **sons demoníacos** que enlouquecem seres vivos, e materiais
+  imortais que **viram lixo** porque seus dao marks se embaralham (cap. 1993). Os materiais das seis
+  primeiras camadas são intransacionáveis por isso.
+- **A 8ª camada por dentro** (`[segredo]`): dentro do vazio surgem **bolhas** — pequenos mundos
+  completos, com céu, terra e seres vivos próprios — que crescem, se estabilizam e depois são
+  destruídos por um **void tear** (rasgo de vazio). Cada mundo destruído deixa **filamentos de
+  heaven path dao mark**; um vórtice absorve um (às vezes 3-4) filamentos, que colapsam e geram uma
+  bolha-mundo nova. **Cada ciclo tende a uma perda líquida** — o processo é entrópico (cap. 1859).
+  A camada também produz espontaneamente **"filhos da sorte"**: seres de aptidão extrema nascidos ali
+  (caps. 2156, 2165-2166, 2172).
+- **Os Grandes Mundos da 8ª camada** (`[segredo]`): além das bolhas pequenas, **Veneráveis
+  construíram mundos grandes ali dentro**, e eles ainda existem, habitados, com Gu Immortals
+  próprios: **Green Lotus Great World** (verde), **Yellow Earth Great World** (amarelo) e **Savage
+  Wilderness Great World** (vermelho). Vistos de fora, os três são as **maiores bolhas**, unidas no
+  centro, com incontáveis bolhas menores grudadas na superfície delas. O Yellow Earth Great World
+  tem, no centro, um **grande monte — o "Sacred Tomb"** (Tumba Sagrada) do Venerável que o criou, e
+  seus habitantes reagem coletivamente quando ele brilha (caps. 1866, 2086, 2155). Cada Grande Mundo
+  guarda uma das true inheritances do seu criador (cap. 2087).
+- **A revelação central** (`[segredo]` máximo, caps. 2170-2171): o ponto mais profundo da Crazed
+  Demon Cave **é a parte mais fina da fronteira do mundo de cultivo Gu**, e a Crazed Demon Ninth
+  Void Formation **perfura essa fronteira e traz para dentro "coisas de fora do mundo"** como
+  matéria-prima. É assim que se geram os Grandes Mundos e os mundos pequenos da 8ª camada. Em outras
+  palavras: **existe uma perfuração deliberada e permanente na membrana do mundo**, e os
+  *otherworldly demons* (transmigrados) são subproduto dessa infraestrutura, não anomalia inexplicável.
+- **A cicatriz**: a fronteira já foi **rompida uma vez**, e pela brecha começou a jorrar "a tribulação
+  mais terrível do mundo", ameaçando destruir o mundo inteiro. Quatro Veneráveis a remendaram, e o
+  remendo — feito à custa dos dao marks de *otherworldly space path* de um deles, transformados num
+  subespaço — **nunca foi completo** (caps. 2171, 2192).
+- **Restrição política decorrente** (cap. 2151): poder de nível Venerável **não pode agir plenamente**
+  dentro da caverna, sob pena de perturbar a derivação e acionar um método retaliatório deixado pelo
+  construtor. Os mais fortes do mundo são obrigados a agir por procuração no lugar mais importante
+  do mundo.
+- **Lacuna registrada**: se **existem outros pontos finos** na fronteira além do fundo da Crazed
+  Demon Cave — `—` (a obra nunca diz).
+
+### O "além" horizontal
+
+- **"A borda do mundo" (*edge of the world*)** aparece como expressão corrente e como limite
+  operacional: o *fixed immortal travel Gu* leva a **qualquer lugar, mesmo à borda do mundo**, desde
+  que se tenha uma impressão concreta do destino (cap. 378); e um método de rastreamento traz o alvo
+  de volta "mesmo que ele fuja para a borda do mundo" (caps. 398-399). O mundo tem borda, e ela é
+  alcançável em princípio.
+- **O que existe além dela**: `—`. A obra só afirma que **há matéria e entidades fora do mundo**, que
+  servem de matéria-prima para gerar mundos, e que de lá vêm os otherworldly demons (transmigrados,
+  às vezes com memórias de mundos com tecnologia — um deles operava "mecha" no mundo de origem)
+  (caps. 991, 2171). **Nenhuma descrição do lado de fora é dada.**
+
+---
+
+## B5 — Territórios de outras raças e de outras eras
+
+`[especializado]` — a chave para entender: **o mundo atual é uma camada fina sobre eras anteriores
+cujos vestígios continuam habitados**.
+
+### O princípio geral
+
+- Nas eras **Immemorial e Remote Antiquity**, os **humanos variantes dominavam o mundo**; a virada
+  humana foi liderada por dois Veneráveis (cap. 871). O que resta dos variantes hoje são **enclaves
+  geográficos**.
+- **Humanos variantes só formam assentamentos médios sob proteção de um Gu Immortal** (cap. 879) —
+  por isso seus territórios tendem a ser **mundos fechados**, não regiões abertas.
+- Os territórios variantes ficam preferencialmente **onde os humanos não vão**: dentro de mundos
+  fragmentados dos céus caídos, dentro dos dois céus imemoriais, dentro de domínios reclusos, ou no
+  fundo do mar.
+
+### Enclaves documentados
+
+| Território | Raça | O que é |
+|---|---|---|
+| **Sacred Feather City**, dentro de um **green heaven fragment world** | feathermen (homens-pássaro) | O maior assentamento de feathermen restante no mundo. Isolado do exterior por tanto tempo que seus costumes e métodos são da **Late Antiquity Era** — uma era inteira defasados. Recursos fartos, clã unido, nenhum inimigo externo forte: "um paraíso" que, segundo o texto, justamente por isso corroeu a mente de seus habitantes (caps. 865, 870, 903) |
+| **City Well** (domínio recluso) | minimen (homens minúsculos) | A cidade em miniatura no fundo do poço é, na lenda, a casa natal dos minimen (caps. 1158, 1276) |
+| **Miniscule Mountain** (domínio recluso, parte do City Well) | minimen | Registrada em "The Legends of Ren Zu"; hoje mantida em **aliança** com uma tribo humana, não como posse (caps. 801, 1159) |
+| **Qian Kun Crystal Wall / Book Mountain** | inkmen (homens de tinta) | Vivem dentro da parede de cristal graças ao texto de tinta; caçam as lajes cinza-esbranquiçadas para desenterrar a **herança racial** da própria raça (caps. 495, 1990, 2160) |
+| **Mermen sea area** (Mar Oriental) | mermen (homens-peixe) | Uma das **dez super forças do Mar Oriental** e uma das dez grandes áreas de mar (cap. 892) |
+| **Dragon Whale Paradise** | mermen + humanos | Paraíso compartilhado dentro de uma fera imemorial; regras do lugar impedem os fortes de dominar os fracos (Parte A, bloco 7) |
+| **Ice Crystal grotto-heaven** (black heaven) | snowmen (homens de neve) | Um dos grotto-heavens dos dois céus; seu monarca articula a política dos variantes dos céus (caps. 1979, 2069) |
+| **Great Wisdom grotto-heaven** (black heaven) | inkmen | Guarda mais de 50% dos fragmentos da Qian Kun Crystal Wall; precisa de mais 10% para desenterrar a herança racial (cap. 1990) |
+| **Night Wolf grotto-heaven** (black heaven) | — | Grotto-heaven dos céus com rixa histórica contra uma potência das Planícies do Norte (caps. 1969-1970) |
+| **Shattered Bone grotto-heaven** (black heaven do Mar Oriental) | humanos exilados | Enclave humano num setor dos céus dominado por variantes (cap. 1975) |
+| **Merman Imperial Court** | mermen | Corte não-humana que, depois da Grande Era, passa a fazer **fronteira direta** com super forças humanas (cap. 1996) |
+| **South Flower Island** | dragonmen (homens-dragão) | Ilha tomada e transformada em lar de uma raça variante criada artificialmente (fusão de refinement path e transformation path). Pertencia a uma das dez grandes seitas antigas do **Continente Central** (ded., a partir de caps. 923, 1840) — **não é do Mar Oriental** |
+
+### Vestígios de eras anteriores como terreno
+
+- **Beastmen** (homens-fera, antropófagos): exterminados na Olden Antiquity. Vestígio geográfico
+  documentado: o **Intestinal Gorge** (Garganta Intestinal), entrada norte de uma cadeia de montanhas,
+  **criado quando um perito beastman morreu e se fundiu às montanhas em volta** (caps. 912, 2039).
+  Um cadáver de outra era virou acidente geográfico.
+- **Estilo arquitetônico como datação**: o palácio da Ascending Heaven Plain tem "desenho esculpido
+  flutuante em verde e ouro, com a superfície entalhada com mar, céu e montanhas — o estilo da
+  **Remote Antiquity Era**" (cap. 985). O mundo é datável pela arquitetura.
+- **Qi Sea** (Mar Oriental): o ponto de recurso nº 1 de qi path da Remote Antiquity, hoje reduzido a
+  menos de 1/10.000 do tamanho porque o caminho decaiu (cap. 1881). Um bioma que é o **fóssil de uma
+  era de magia**.
+- **Rock dragons** eram bestas de guerra na era em que os variantes dominavam (cap. 871); os **rockmen**
+  têm mito de origem próprio ligado ao Love Gu (cap. 435).
+- `[especializado]` **Sinal de era nos recursos**: rush thunder stone (colisão de raios entre dois
+  céus) e as três grandes águas de céu e terra deixaram de ser produzidos porque **os céus que os
+  produziam não existem mais** (caps. 559, 1779). A escassez de certos materiais é registro
+  arqueológico.
+
+---
+
+## B6 — O Tribunal Celestial e outros lugares que não pertencem a nenhuma região
+
+### Heavenly Court (Tribunal Celestial) como lugar físico
+
+`[segredo]` — a existência da organização é `[especializado]`; a natureza física da sede é segredo.
+
+- **O que é fisicamente**: **um grotto-heaven coletivo**, formado pela **fusão das aberturas imortais
+  dos membros**. Três Veneráveis fundiram de fato a própria abertura a ela, mais as grotto-heavens
+  doadas por incontáveis membros ao longo de eras. Por isso "o tamanho do grotto-heaven da Heavenly
+  Court é inacreditável, e a quantidade de recursos e materiais imortais dentro dele é imensurável"
+  — **a Corte é autossuficiente e não precisa de nada das cinco regiões** (cap. 1070).
+- **Não sofre tribulações**: o grotto-heaven da Corte é livre de calamidades e tribulações,
+  aparentemente por ter **devorado grandes quantidades de fragmentos dos sete céus imemoriais
+  quebrados** (cap. 1070).
+- **Áreas internas nomeadas**:
+  - **Immortal graveyard** (cemitério dos imortais): a área onde Gu Immortals antiquíssimos **hibernam
+    por eras**. Ninguém sabe quantos estão lá — nem a própria liderança. O despertar de um deles
+    sacode fisicamente a sede inteira. Funciona como reserva estratégica: quando alguém morre, o
+    próximo acorda e assume a função (caps. 1228, 1715, 1760). Tem também a propriedade de **fazer
+    imortais reviverem** (cap. 2141).
+  - **Central Great Hall** (Grande Salão Central): a **área de controle dos palácios** da Corte;
+    destruí-lo derruba drasticamente a capacidade de mobilizar as instalações (cap. 1715).
+  - **Hidden Dragon Cave** (Caverna do Dragão Oculto): onde um Evil Dragon é suprimido; guardá-la por
+    vinte anos é pena disciplinar (cap. 1069).
+  - **Tesouro**: guarda fragmentos dos nove céus imemoriais em quantidade significativa (cap. 1073).
+- `[segredo]` **A Corte moveu partes de si para fora**: a **Door of Life and Death** e **parte do
+  immortal graveyard** foram relocadas para dentro da Crazed Demon Cave como plano B (cap. 2086). A
+  sede é, portanto, **desmontável e distribuível**.
+- **Onde fica**: `—`. O texto trata a Corte como associada ao Continente Central mas nunca dá
+  coordenadas; ela é um mundo pequeno, não um lugar da geografia comum (ded.).
+
+### Longevity Heaven (Céu da Longevidade)
+
+`[comum]` como nome — na cultura das Planícies do Norte, "Longevity Heaven" é invocado como se fosse
+o céu religioso ("ó Longevity Heaven, com a bênção dos nossos ancestrais..."), papel equivalente ao de
+uma divindade; `[especializado]` que é, na verdade, **a abertura imortal de um único Venerável**
+(caps. 426-427, 440, 447).
+
+- **O que é**: o **grotto-heaven de Giant Sun Immortal Venerable**, sua residência principal nos
+  últimos anos. Os Gu Immortals que vivem dentro são os descendentes de sangue mais próximo dele
+  (caps. 552-553, 1144).
+- **Terreno interno**: **"Four Desolations and Eight Extremities"** (Quatro Desolações e Oito
+  Extremidades) — uma geografia deliberadamente desenhada, comparada explicitamente pelo texto à
+  geografia de "nove céus e cinco regiões" de outra abertura soberana (cap. 1180). **Uma abertura
+  imortal de topo tem geografia própria com nomes próprios.**
+- **No coração das Quatro Desolações, no centro das Oito Extremidades**: uma Immortal Gu House
+  (**Calamity Luck Altar**, Altar da Calamidade e da Sorte) que **ressoa com Longevity Heaven inteiro**;
+  oito Gu Immortals a operam parados nos nove cantos dela. Foi deixada ali de propósito **para defender
+  Longevity Heaven**, convertendo calamidades e tribulações em boa sorte — inclusive convertendo uma
+  invasão em fortuna para o lugar (cap. 1180).
+- **Comparação de escala**: Longevity Heaven é "apenas" a abertura de **um** Venerável; o grotto-heaven
+  da Heavenly Court concentra as aberturas fundidas de **três** mais as doações históricas — e por isso
+  a assimetria de fundação é intransponível (cap. 1266). Ambos são classificados como **ultimate
+  forces**, categoria acima de "super força".
+
+### Treasure Yellow Heaven (Céu Amarelo do Tesouro)
+
+`[comum]` entre Gu Immortals — é o mercado onde todos negociam.
+
+- **O que é**: um **grotto-heaven** formado quando o dono, prevendo que não sobreviveria a uma
+  tribulação, **absorveu um mundo fragmentado do yellow heaven imemorial** à própria abertura. Ele
+  ficou preso lá dentro e perdeu a liberdade — mas nunca mais enfrentou tribulação (caps. 740, 1073).
+- **Aparência**: "um grotto-heaven muito peculiar — **vazio, sem montanhas, árvores ou rios, e sem
+  pássaros, feras, insetos ou peixes**. Só há tesouros dentro" (cap. 466). Reforçado: "o vasto espaço
+  ondulando com uma luz amarela cor de limão; **não há nem céu nem chão**, as únicas coisas ali são
+  todo tipo de tesouros e mercadorias" (cap. 666).
+- **Como se entra**: **não com o corpo** — envia-se o *divine sense* (senso divino) pelo canal aberto
+  por um *connecting heaven Gu* (caps. 666, 2276). É um lugar frequentado por consciências, não por
+  pessoas.
+- **Posição**: "assim como treasure yellow heaven, desde que foi colocado em sua posição **há trezentos
+  mil anos**, não se moveu" (cap. 1073). Um mortal que levanta a cabeça vê white heaven e black heaven;
+  um Gu Immortal que usa connecting heaven Gu **sente o treasure yellow heaven, como uma tocha na
+  escuridão** (cap. 1028) — ou seja, ele ocupa, na percepção imortal, o lugar de **um décimo céu**.
+- **Função**: o **maior mercado do mundo imortal**; entre os cinco grandes mercados do mundo é o 1º
+  (o 2º é a Hai Shi blessed land, no Mar Oriental) (cap. 673). Cobra taxa alta e é **completamente
+  aberto** — toda transação é vista por todos, o que o torna imprestável para negócios discretos e
+  perfeito para propaganda e humilhação pública (caps. 797, 1032-1033, 2255). Pode ser **fechado**
+  (com os bens de todos presos dentro) por decisão de quem o controla (caps. 1073, 1077-1081).
+- **Mercadorias características**: solos raros (cloud soil, rotten soil, salt soil) vendidos pelas
+  blessed lands que os produzem; materiais imortais rank 8; e — raramente — Immortal Gu, que **não se
+  compram, só se trocam** (caps. 469, 952, 2151).
+
+### Door of Life and Death (Porta da Vida e da Morte) e o Obsession Death Domain
+
+`[segredo]`
+
+- **O que é**: um **domínio recluso de céu e terra** que **existe desde a criação do mundo**; para lá
+  vão as almas de **todos** os seres vivos que morrem, Veneráveis inclusive (caps. 1010, 1373). Tem a
+  **maior quantidade de dao marks entre todos os domínios reclusos** (cap. 2194).
+- **Aparência interna**: "uma cena de vastidão escura" (cap. 2193). "Uma área extremamente ampla lá
+  dentro, **espelhando as cinco regiões do mundo principal**" (cap. 384) — isto é, é um mapa fantasma
+  do mundo dos vivos.
+- **Estrutura de caminhos** (o "path of destiny"): entra-se pela **road of death** (estrada da morte),
+  coberta de *suffering Gu*, e sai-se pela **road of life** (estrada da vida), que tem **três
+  obstáculos**: **Dang Hun Mountain**, **Luo Po Valley** e **Reverse Flow River**. No fundo fica o
+  **Obsession Death Domain** (Domínio da Obsessão e da Morte), onde reside o **Fairness Gu** e onde as
+  almas repousam bebendo do **Pacifying Soul Lake** / **Bewitching Lake** — a água que apazigua almas,
+  descrita pelas lendas como "o vinho da mais alta qualidade do mundo". O texto o chama de **"o lugar
+  mais tranquilo do mundo"**, livre de todas as preocupações do exterior (caps. 410-411, 672, 1010,
+  2192).
+- **Fauna**: **soul beasts** (feras de alma) em quantidade — quando a porta se abre, elas jorram de
+  dentro "como um gêiser" (cap. 1371). São a mesma categoria que vaga pelo black heaven.
+- **Estado atual** (`[segredo]`): **dois dos três obstáculos da estrada da vida foram removidos** —
+  Dang Hun Mountain e Luo Po Valley foram fisicamente arrancados e levados por cultivadores; o Reverse
+  Flow River também acabou nas mãos de alguém, e serve hoje de núcleo de uma super formação Gu
+  (caps. 1010, 1252). A porta em si foi **relocada** mais de uma vez e chegou a ser levada para dentro
+  da Crazed Demon Cave (caps. 1953, 2086).
+
+**Reverse Flow River** (Rio de Fluxo Reverso) — `[especializado]` como lenda, `[segredo]` como objeto
+
+- Domínio recluso de **rule path** (cap. 2099), originalmente o terceiro obstáculo da estrada da vida.
+- **Regra do lugar**: para atravessá-lo é preciso **avançar sem parar um único segundo**; parar é ser
+  devolvido pela correnteza — "a vida é um barco contra a corrente" (cap. 410).
+- **Propriedades mecânicas quando possuído**: (a) **dentro do rio, nenhum Gu pode ser ativado** — nem
+  por um rank 8; nem Ren Zu usou Gu enquanto o subia; (b) **de fora, qualquer ataque contra ele é
+  revertido e refletido de volta**; (c) o "upstream" é descrito como infinito; (d) tem uma quantidade
+  de dao marks tão grande que sustenta sozinho uma super formação que amplifica defensores e suprime
+  invasores (caps. 1250, 1252, 1270).
+- **Filtro de almas**: ainda funciona parcialmente como obstáculo — de dez almas divididas que tentaram
+  atravessar, sete passaram (cap. 1016).
+
+### Outros lugares fora das cinco regiões
+
+| Lugar | Natureza | Nota |
+|---|---|---|
+| **Dragon Whale Paradise** | grotto-heaven dentro de uma fera viva | Um mundo inteiro que **muda de posição** porque o contêiner nada (Parte A, bloco 7) |
+| **Dang Hun Mountain** e **Luo Po Valley** | domínios reclusos de soul path | "Os dois tesouros do cultivo de soul path"; hoje **fora** da Porta da Vida e da Morte, em posse de cultivadores; a Dang Hun Mountain sustenta um monopólio de mercado (guts Gu) (caps. 986-990, 2099) |
+| **Miniscule Mountain** | domínio recluso (rule path) | Registrada em "The Legends of Ren Zu"; parte do City Well; habitada por minimen; amplifica killer moves (caps. 942, 1159) |
+| **Cheng Bai Mountain** | domínio recluso (rule path) | Montanha de incontáveis *failure Gu* empilhados — cada pedra é um fracasso que inflige males aleatórios — com **um único *success Gu* no topo** (caps. 435, 546-547, 2099) |
+| **Whisper Forest** (Floresta do Sussurro) | domínio recluso (information path) | Apenas nomeado (cap. 2099). Conteúdo: `—` |
+| **Care** | domínio recluso | Apenas nomeado; um Venerável o procurou para refinar um Gu (cap. 1175). Conteúdo: `—` |
+| **Star Constellation's dream realm** e outros **dream realms** | mundos de sonho | Categoria de mundo próprio; muitos caíram sobre o Continente Central junto com os fragmentos de um grotto-heaven despedaçado (caps. 1119) |
+| **Grotto-heavens despedaçados** | mundos fragmentados novos | Quando um grotto-heaven se quebra, seus pedaços caem sobre uma região e viram **mundos fragmentados exploráveis**, com entrada aberta, feras e plantas desolate dentro; e valem uma corrida geral de todas as forças (caps. 713-718, 908-909) |
+| **Aberturas soberanas com geografia interna** | mundos pequenos privados | Uma abertura de topo pode conter um "Mini Eastern Sea", um "Mini Black Heaven", "mini nove céus e cinco regiões" — **cópias funcionais do mundo**, com ecologias que reproduzem o ambiente original bem o bastante para que uma planta do black heaven "se espreguice satisfeita" ao ser transplantada (caps. 1133, 1180, 2242). **Não são geografia do mundo** — mas são a prova de que a geografia do mundo pode ser copiada |
+
+> [!note] Para o design
+> A Parte B dá ao mestre três "andares" de segredo bem separados, e vale usá-los assim:
+> **(1)** o que qualquer aldeão sabe — há dois céus, eles se alternam como dia e noite, e o
+> Longevity Heaven é onde moram os ancestrais; **(2)** o que um ancião de clã sabe — os céus
+> eram nove, sete caíram, seus cacos estão espalhados pelo mundo e são explorados por
+> imortais; **(3)** o que quase ninguém sabe — que os céus são habitados por uma civilização
+> inteira, que o Rio do Tempo tem tubarões e trechos de rio nomeados, que o "céu" da religião
+> é a casa privada de um sujeito, e que o mundo tem uma membrana com um furo aberto de
+> propósito no fundo de uma caverna.
+
+---
+
+## Lacunas explícitas da Parte B
+
+- **As camadas 4ª, 5ª e 6ª da Crazed Demon Cave** nunca são descritas. `—`
+- **O que existe do lado de fora da fronteira do mundo**: a obra afirma que há matéria e
+  entidades, e que servem de matéria-prima; **nunca descreve**. `—`
+- **Se há outros pontos finos na fronteira do mundo** além do fundo da Crazed Demon Cave. `—`
+- **Localização da Space Cave**: explicitamente desconhecida no mundo. `—`
+- **Whisper Forest** e **Care**: nomeados, nunca descritos. `—`
+- **A lista de domínios reclusos é declaradamente incompleta** — o próprio texto usa
+  reticências em duas categorias (cap. 2099).
+- **Descrição interna do white heaven** é muito mais pobre que a do black heaven: sabe-se o que
+  vive lá e o que se colhe lá, mas não há uma passagem de "viagem pelo white heaven" equivalente
+  à do cap. 1241. Bloco fraco — não preenchido.
+- **Geografia interna dos Grandes Mundos da 8ª camada**: só o Yellow Earth Great World ganha um
+  traço concreto (o monte da Sacred Tomb no centro). Green Lotus e Savage Wilderness: `—`
+- **Localização física da Heavenly Court**: nunca dada em coordenadas. `—`
+- **Como se entra de fato na 9ª camada da Crazed Demon Cave** e o que exatamente é o Immortal Gu
+  rank 9 "Derivation": citados, nunca vistos. `—`
+- **Os sete céus caídos individualmente**: só se sabe a cor e, para alguns, um produto
+  característico. Nenhum tem descrição de paisagem própria. `—`
+

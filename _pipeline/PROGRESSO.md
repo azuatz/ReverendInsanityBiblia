@@ -251,3 +251,48 @@ exato de arquivo, nenhum quebrado, nenhum alias duplicado.
 
 **Aviso de processo:** agentes paralelos compartilham o scratchpad da sessão e um
 sobrescreveu o arquivo auxiliar de outro. Instruir sempre nomes de arquivo únicos por agente.
+
+### Sessão de 2026-09-01 — terceira leva (integração e qualidade)
+
+**Feito**
+
+- **Integração estrutural.** As 8 notas novas entraram nos mapas de pasta, nas ordens de
+  leitura e nos três arquivos `00 - ` (guia da designer, trilha do jogador, somente o
+  mestre). `A Filosofia do Mundo` virou a 6ª nota de fundação. O `Catálogo de Golpes -
+  Imortais` foi classificado como material de mestre — golpe conhecido é golpe deduzido.
+  **Zero notas órfãs** (o `Catálogo de Receitas` estava órfão desde sempre).
+- **Tabela soberana** ganhou a seção 13, de escala e viagem, com 78 linhas de dado.
+- **Correção de número:** terra abençoada de grau médio é 2.700–4.000 km², não 2.000
+  (verificado em duas passagens independentes). O erro era da nota temática nova.
+- **Catálogo de Gu mortais:** coluna de refino, 16 de 52 campos recuperados por evidência
+  econômica; 36 confirmados como silêncio real.
+- **Catálogo de Golpes imortais:** 88 efeitos reescritos com mecânica canônica; 31 golpes em
+  que a obra só grita o nome, declarado na própria célula; 4 células com `*`.
+- **`A Filosofia do Mundo`** ganhou a seção 2, sobre **recurso escasso como motor do mundo**
+  (a pedra primordial é moeda *e* combustível de cultivo; cultivar consome sempre; não
+  pertencer é ficar sem). Pedido do usuário.
+
+**Regra nova do projeto: notas numeradas**
+
+O Obsidian ordena a barra lateral alfabeticamente, o que punha "Avançar com Aptidão Baixa"
+antes de "Ranks e Avanço". Decisão do usuário: **numerar os arquivos** com a posição na ordem
+de leitura da pasta. `CLAUDE.md` já atualizado. O script `_pipeline/numerar-notas.py` está
+pronto e validado em modo seco: **94 renomeios, 104 arquivos com links a reescrever** (inclui
+`_pipeline/MODELOS/` e os relatórios de revisão, que também usam wikilinks).
+
+> **PENDENTE: rodar `python3 _pipeline/numerar-notas.py` e depois `auditar-links.py`.**
+> Não foi executado porque havia agentes editando catálogos da pasta 09 — renomear arquivo
+> sob edição perde trabalho. Ao retomar, confira `git status` limpo e execute.
+
+**Achado metodológico que vale para toda varredura futura**
+
+O texto-fonte grafa os nomes de Gu e de golpes **em minúsculas** ("brave fight Gu"), enquanto
+os catálogos usam capitalização. Busca sensível a maiúsculas retornava **zero ocorrências para
+22 de 52 alvos**. **Use sempre `grep -i`.**
+
+**Em andamento ao fim desta leva**
+
+- Enriquecimento dos efeitos do `Catálogo de Gu - Mortais` e do `- Imortais`.
+- `_entregas/CRUZAMENTO-REVERSO-RPG.md` — quantos Gu do catálogo do RPG faltam de fato no
+  nosso, e quantos daqueles nomes não correspondem a nada na obra.
+- `_pipeline/REVISAO-final-notas-novas.md` — revisão de leitora leiga das 6 notas novas.

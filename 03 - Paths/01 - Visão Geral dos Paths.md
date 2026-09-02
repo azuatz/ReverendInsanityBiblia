@@ -111,6 +111,105 @@ mudam tudo:
     formações a partir das marcas naturais do terreno, sem materiais. No do fogo,
     passa-se a armar armadilhas indetectáveis até por peritos do mesmo caminho.[^fogo]
 
+## Quantos caminhos existem, e quando cada um nasceu
+
+Esta seção existe porque a obra **enumera os caminhos por era de criação**, numa passagem em forma de
+aula, e essa cronologia é a espinha dorsal de todo o domínio.
+
+> [!warning] Não existe lista fechada de caminhos
+> A enumeração abaixo cobre os **caminhos principais**, e a própria obra encerra dizendo que
+> **omite os menores "por ora"**. Somando tudo o que a obra nomeia em algum ponto — principais,
+> menores, ramos, caminhos abortados —, chega-se a **cerca de cinquenta nomes**. O mundo tem mais
+> caminhos do que qualquer personagem consegue listar, e isso é canônico, não uma lacuna nossa.
+
+| Era | Caminhos criados nela | Criador, quando a obra nomeia |
+|---|---|---|
+| **Antiguidade Imemorial** (a era do Ancestral Humano) | [[11 - Space Path\|espaço]] e [[13 - Time Path\|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
+| **Antiguidade Remota** | [[20 - Qi Path\|qi]] e [[06 - Enslavement Path\|escravização]] · [[12 - Wisdom Path\|sabedoria]] e [[14 - Star Path\|estrela]] · [[21 - Formation Path\|formação]] · [[07 - Refinement Path\|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
+| **Antiguidade Passada** | [[16 - Rule Path\|regra]] · [[05 - Transformation Path\|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
+| **Antiguidade Medieval** | madeira · [[24 - Theft Path\|roubo]] · [[18 - Luck Path\|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[22 - Information Path\|informação]] · [[25 - Sound Path\|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
+| **Antiguidade Tardia e era atual** | osso · [[26 - Phantom Path\|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
+| **Ainda não criados** | [[19 - Dream Path\|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
+
+Três leituras que essa tabela permite:
+
+- **A antiguidade de um caminho não mede seu poder** — mede quanto tempo houve para acumular
+  herança, Gu Imortais e golpes. A maioria dos caminhos elementais é *tardia* e ainda assim é a mais
+  popular do mundo.
+- **Os caminhos continuam sendo criados até hoje.** A obra termina com dois caminhos novos nascendo
+  em cena. Este não é um sistema fechado.
+- **E fundar um caminho pode dar errado.** Um Venerável criou um caminho que *não conseguiu alcançar
+  a mudança qualitativa para se tornar um caminho totalmente novo*; outro tentou fundar o caminho da
+  matança, **falhou**, e criou o [[10 - Soul Path|caminho da alma]] como subproduto. Ver
+  [[29 - Os Demais Caminhos|Os Demais Caminhos]].
+
+### Caminhos principais e caminhos menores
+
+A obra faz essa distinção **formalmente**. Ao terminar a enumeração acima, o instrutor diz:
+
+> Naturalmente, o que mencionei são apenas os **caminhos principais** de Mestres Gu; **caminhos
+> menores** como o do encantamento, o da ilusão e outros ficam omitidos por ora.
+
+"Menor" significa **pouco praticado e pouco desenvolvido**, não pouco potente — o
+[[25 - Sound Path|caminho do som]] é chamado de menor e produziu grandes peritos de nível 8, e a
+profundidade suprema do [[26 - Phantom Path|caminho fantasma]], também menor, sustenta a maior
+organização do mundo. Ser menor tem inclusive uma **vantagem mecânica**: metade da penalidade
+territorial (ver a regra 9).
+
+### Caminhos brotam de outros caminhos
+
+A segunda estrutura canônica do domínio: caminhos amplos **geram ramos**.
+
+> Porque o caminho da regra era um conceito enorme, ele tinha muitos caminhos menores brotando dele.
+> (…) **O caminho da regra tinha muitos caminhos menores derivados dele; era, sem dúvida, o caminho
+> número um nesse quesito.** Os mais famosos eram o **caminho da restrição** e o **caminho
+> fantasma**.
+
+E o mesmo com a sabedoria, cujos três elementos são *pensamentos, vontades e emoções*: o terceiro
+elemento foi destacado e virou o **caminho da emoção**, do qual por sua vez derivou o **caminho do
+encantamento**.
+
+A árvore completa está em [[29 - Os Demais Caminhos#A árvore de derivação — de onde vêm os caminhos menores]].
+Guarde daqui apenas o **teste prático que ela oferece**, porque ele é o mais útil de todo o domínio:
+
+> [!important] O teste de "este caminho existe de verdade?"
+> **Um ramo que ainda não se separou por completo do caminho-mãe não tem marcas do Dao próprias — e
+> cultivá-lo eleva o domínio do caminho-mãe.** A obra é literal sobre o caminho da emoção: *não
+> existem marcas do Dao de encantamento e emoção neste mundo, **só marcas do caminho da sabedoria***.
+> E sobre o fantasma: *avançar no domínio do caminho fantasma é, na essência, ainda o significado
+> verdadeiro do caminho da regra*.
+>
+> Portanto: **a pergunta "este caminho tem marcas do Dao próprias?" separa uma escola de verdade de
+> um conjunto de técnicas.** É uma linha só, e resolve sozinha quantas escolas o seu mundo tem.
+
+### Significado verdadeiro: quem consegue deixar um
+
+Corrigindo a intuição errada (e uma versão anterior desta nota), a regra canônica é:
+
+> Não era fácil para um Gu Imortal deixar para trás um significado verdadeiro. Para deixá-lo, **o
+> caminho da sabedoria e o caminho da regra tinham a maior facilidade**. Quanto aos outros caminhos,
+> eles tinham de **alcançar certo nível de imitação desses caminhos** para deixar o seu significado
+> verdadeiro. Por exemplo, o significado verdadeiro de refino de um ancestral, ou o significado
+> verdadeiro de transformação de um Venerável Demônio.
+
+E a razão de fundo: *o significado verdadeiro envolve a **"verdade" do caminho da regra**, bem como a
+**vontade do caminho da sabedoria***. Os praticantes desses dois caminhos são também *mais hábeis em
+extrair o próprio significado verdadeiro*, e o da regra tem uma vantagem extra: *o Gu Imortal
+frequentemente consegue **criar o próprio** significado verdadeiro usando-o*.
+
+Os significados verdadeiros efetivamente registrados na obra: **força, transformação, refino, regra,
+formação, sorte, fantasma e humano**.
+
+E há **uma exceção absoluta e canônica**:
+
+> [!warning] Não existe significado verdadeiro do caminho do céu
+> *Ninguém consegue cultivar o caminho do céu... Nenhum Gu Imortal conseguia cultivar o caminho do
+> céu; portanto, **o significado verdadeiro do caminho do céu nunca existiu!*** Nem mesmo a maior
+> instituição do mundo *jamais viu nem ouviu falar dele*. Reinos de sonho daquele caminho apenas
+> mantêm uma **conexão** com esse significado ausente, e é preciso compreendê-la para subir de
+> domínio. Isso torna o [[17 - Heaven Path|caminho do céu]] o único caminho do mundo **sem atalho de
+> herança possível** — e explica por que a barreira de entrada dele é a mais alta que existe.
+
 ## Como nasce um caminho (a regra que reorganiza tudo)
 
 Esta é a revelação estrutural mais importante do domínio, e vale a pena dizê-la devagar,
@@ -179,6 +278,28 @@ Todo Venerável cultiva **dois** caminhos:
 A assimetria é deliberada e estratégica: garante um vetor de ataque que o rival não sabe
 neutralizar, porque não sabe que ele existe. Quem se prepara contra o caminho público está
 se preparando contra metade do inimigo.
+
+E a obra dá a **razão declarada** dessa arquitetura, pela boca de um dos Veneráveis:
+
+> **Com um caminho principal e um caminho de especialidade, nós Veneráveis conseguimos competir uns
+> com os outros em pé de igualdade.**
+
+Os pares que a obra nomeia:
+
+| Venerável | Caminho principal | Caminho de especialidade |
+|---|---|---|
+| A criadora da sabedoria | [[12 - Wisdom Path\|sabedoria]] | [[14 - Star Path\|estrela]] |
+| O criador da madeira | madeira | [[28 - Painting Path\|pintura]] |
+| O criador do roubo | [[24 - Theft Path\|roubo]] | [[11 - Space Path\|espaço]] |
+| O criador da sorte | [[18 - Luck Path\|sorte]] | [[03 - Blood Path\|sangue]] |
+| O arquiteto da ordem | terra | [[17 - Heaven Path\|céu]] |
+| O criador da transformação | [[05 - Transformation Path\|transformação]] | [[04 - Strength Path\|força]] |
+
+Repare em duas coisas. Primeiro, **a especialidade nem sempre é secreta na prática** — a obra
+registra um Venerável recitando os pares dos rivais em voz alta. O sigilo é um ideal que o tempo
+corrói. Segundo, **um dos dez tinha o [[17 - Heaven Path|caminho do céu]] como especialidade**, o que
+não contradiz a regra de que nenhum deles o cultivou *de verdade*: ele obteve e modificou um método
+daquele caminho, não construiu o caminho.
 
 Essa arquitetura vale como modelo mesmo abaixo do nível de Venerável: cultivadores fortes
 tendem a ter um caminho de vitrine e um caminho de emboscada.
@@ -296,7 +417,7 @@ dos aliados.
 
 ## Como ler as tabelas de Gu representativos
 
-Todas as dezessete notas de caminho trazem uma tabela de Gu representativos com uma coluna
+Todas as notas de caminho desta pasta trazem uma tabela de Gu representativos com uma coluna
 de **nível**. Esta é a legenda comum a todas elas — as notas individuais remetem a esta
 seção em vez de repeti-la.
 
@@ -319,23 +440,25 @@ seção em vez de repeti-la.
 
 ## Mapa desta pasta
 
-São **dezessete** caminhos com nota própria. Este mapa os agrupa por **função em jogo** —
-para que serve cada um numa mesa:
+São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que cobrem outros
+**vinte e cinco**. Este mapa agrupa por **função em jogo** — para que serve cada um numa mesa:
 
-**Caminhos de combate e corpo:** [[03 - Blood Path|Blood Path]] · [[04 - Strength Path|Strength Path]] · [[05 - Transformation Path|Transformation Path]] · [[09 - Sword Path|Sword Path]] · [[08 - Poison Path|Poison Path]]
+**Caminhos de combate e corpo:** [[03 - Blood Path|Blood Path]] · [[04 - Strength Path|Strength Path]] · [[05 - Transformation Path|Transformation Path]] · [[09 - Sword Path|Sword Path]] · [[08 - Poison Path|Poison Path]] · [[24 - Theft Path|Theft Path]]
 
-**Caminhos de mente e alma:** [[12 - Wisdom Path|Wisdom Path]] · [[10 - Soul Path|Soul Path]] · [[06 - Enslavement Path|Enslavement Path]] · [[19 - Dream Path|Dream Path]]
+**Caminhos de mente e alma:** [[12 - Wisdom Path|Wisdom Path]] · [[10 - Soul Path|Soul Path]] · [[06 - Enslavement Path|Enslavement Path]] · [[19 - Dream Path|Dream Path]] · [[25 - Sound Path|Sound Path]]
 
-**Caminhos fundamentais e abstratos:** [[13 - Time Path|Time Path]] · [[11 - Space Path|Space Path]] · [[16 - Rule Path|Rule Path]] · [[18 - Luck Path|Luck Path]] · [[17 - Heaven Path|Heaven Path]]
+**Caminhos fundamentais e abstratos:** [[13 - Time Path|Time Path]] · [[11 - Space Path|Space Path]] · [[16 - Rule Path|Rule Path]] · [[18 - Luck Path|Luck Path]] · [[17 - Heaven Path|Heaven Path]] · [[23 - Human Path|Human Path]] · [[26 - Phantom Path|Phantom Path]]
 
-**Caminhos de infraestrutura:** [[07 - Refinement Path|Refinement Path]] · [[15 - Food Path|Food Path]] · [[14 - Star Path|Star Path]]
+**Caminhos de infraestrutura:** [[07 - Refinement Path|Refinement Path]] · [[15 - Food Path|Food Path]] · [[14 - Star Path|Star Path]] · [[21 - Formation Path|Formation Path]] · [[22 - Information Path|Information Path]] · [[28 - Painting Path|Painting Path]]
 
-> [!note] Existe uma segunda partição dos mesmos dezessete
+**Caminhos históricos e coletivos:** [[20 - Qi Path|Qi Path]] (o caminho extinto) · [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] (doze caminhos naturais num só verbete cada) · [[29 - Os Demais Caminhos|Os Demais Caminhos]] (os menores, os ramos, o que fracassou e o que nunca nasceu)
+
+> [!note] Existe uma segunda partição dos mesmos caminhos
 > [[00 - Trilha do Jogador|Trilha do Jogador]] reparte esta lista por **camada de conhecimento** — o que
-> qualquer pessoa do mundo sabe que existe (nove caminhos), o que só um praticante instruído
-> conhece (cinco) e o que é segredo (três) — e é a partição que você usa para decidir o que
-> entra no manual do jogador. As duas listas cobrem os mesmos dezessete caminhos e não
-> competem: esta agrupa por **função**, aquela por **acesso**.
+> qualquer pessoa do mundo sabe que existe, o que só um praticante instruído
+> conhece e o que é segredo — e é a partição que você usa para decidir o que
+> entra no manual do jogador. As duas listas não competem: esta agrupa por **função**,
+> aquela por **acesso**.
 
 ## Relações
 
@@ -348,9 +471,12 @@ para que serve cada um numa mesa:
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**. Sempre que
   esta nota citar um número, é de lá que ele vem; em caso de divergência, aquela nota vence.
 
-[^fogo]: O **caminho do fogo** aparece na obra apenas de passagem, como exemplo, e nunca
-    ganha tratamento sistemático — por isso não está entre os dezessete caminhos mapeados
-    nesta pasta e não tem nota própria. O mesmo vale para os caminhos da água, do gelo, do
-    metal e outros elementais citados soltos: existem no mundo, mas o material disponível
-    não sustenta uma nota. Se precisar deles no jogo, trate-os como caminhos menores e
-    aplique as regras gerais desta nota.
+[^fogo]: Os caminhos do **fogo**, da **água**, do **gelo e da neve**, do **metal**, da **terra**, da
+    **madeira**, do **vento**, do **relâmpago**, da **luz**, das **trevas** e da **nuvem** são
+    **caminhos principais canônicos** — todos aparecem na enumeração por era, e vários têm criador,
+    pontos de recurso e grandes grão-mestres documentados. Individualmente, porém, nenhum deles tem
+    material para uma nota do tamanho das demais desta pasta, e a obra os trata como uma família:
+    cria-os em bloco, agrupa-os numa mesma categoria de refino e lhes dá a mesma fraqueza estrutural.
+    Por isso eles estão reunidos, com **um verbete próprio cada**, em
+    [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — que também explica por que **não existe
+    ciclo de cinco elementos** neste mundo.

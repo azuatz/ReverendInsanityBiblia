@@ -3,7 +3,7 @@ tags:
   - pesquisa
   - organizacao/clã
   - regiao/deserto-ocidental
-status: em-andamento
+status: concluido
 ---
 
 # Pesquisa bruta — Forças e organizações do Deserto Ocidental
@@ -1015,3 +1015,34 @@ Declarado, para a designer saber onde pode inventar sem contrariar nada:
 - **Nenhuma razão histórica declarada** para as especialidades de caminho de Tian, Dong,
   Gong e Lin — só o fato da especialidade. (Fang, Tang, Xiao e Shi têm a razão declarada:
   herança própria, achado de reino onírico, Casa de Gu herdada, e território mineral.)
+
+---
+
+## 6. Decisões tomadas na redação da nota final
+
+1. **Frontmatter — tag alterada.** O briefing pedia `organizacao/templo`. Como §0 refuta a
+   premissa dos templos no texto-fonte, a nota final usa **`organizacao/cla`**, que é o que
+   a obra sustenta. Aliases e demais campos foram mantidos como pedido.
+2. **Recorte temporal aplicado.** Ficaram **fora** da nota final, por serem evolução de
+   enredo e não estado presente: a ascensão do clã Tang à posição de força número um do Oeste
+   ("Era Tang", caps. 776 e 1437); a guerra da coalizão anti-Fang dos caps. 2245–2310; e a
+   aquisição do Palácio do Feijão Divino por qualquer casa. O Palácio permanece descrito como
+   **em disputa**, que é o estado com que uma campanha começa.
+3. **Ressalva de linha do tempo — a árvore dos mil desejos.** O episódio do ancestral rank 8
+   do clã Xi tomando a árvore (cap. 673) é memória de uma linha do tempo anterior narrada pelo
+   protagonista. No presente do cenário a árvore continua no deserto extremo, sem dono
+   (cap. 1972). A nota final descreve os dois fatos nessa ordem e com essa distinção, sem citar
+   linha do tempo alternativa (que é matéria de enredo).
+4. **Clã Qing e a cena histórica.** Os caps. 2035–2055 são **flashback** para a era anterior
+   (o antagonista da cena é o futuro Venerável ainda como imortal de rank 7). Portanto, no
+   presente do cenário o clã Qing está **extinto**, e o mecanismo da carta de desafio é
+   apresentado na nota final como costume regional documentado num episódio histórico — o que
+   ele é —, sem narrar o episódio.
+5. **Sun Cu não foi atribuído ao clã Sun.** Só coincidem no sobrenome; a obra não faz a
+   ligação. Fica registrado como imortal do Oeste.
+6. **Pendência de coordenação (não é minha):** a pasta `11 - Forcas e Organizacoes` ainda não
+   tem entrada em `_pipeline/numerar-notas.py`. Quando as fichas das cinco regiões estiverem
+   escritas, alguém precisa acrescentar a ordem de leitura dessa pasta ao script e rodá-lo,
+   seguido de `auditar-links.py`. Este arquivo já foi conferido: `auditar-links.py` acusa
+   **zero links quebrados** vindos da nota final (os dois quebrados que ele lista são
+   anteriores e pertencem a `24 - Theft Path.md` e `27 - Os Caminhos Elementais.md`).

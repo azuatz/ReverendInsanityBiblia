@@ -714,6 +714,18 @@ spots to join the Refinement Path Convention automatically.**" — **cap. 829**
 > With the accumulation over time, there was an abundance of human qi here, it was the greatest breeding ground of Gu Immortals.**" … "**Emperor City
 > produced many talented people, they were all geniuses with abundant luck.**" — **cap. 1727**
 
+> "**This was the largest mortal city in Central Continent, or rather, the entire five regions world. Here, rank three Gu
+> Masters were very commonly seen, but in Southern Border, rank three Gu Masters were normally authoritative elders in their
+> clans.**" — **cap. 1931**
+
+> "Fei He mountain had **tens of thousands of flying cranes**" e "Ironbeak flying crane, fire pellet crane, tailwind crane,
+> cloud mist crane, stellar light crane… **over ten thousand types of flying cranes** flew or rested in the pine trees." —
+> **cap. 334** (nota de precisão para a ficha da Seita da Grua Imortal)
+
+> "In the **southern part of central continent**, among tens of thousands of hills, there was a large mountain above the
+> clouds, piercing through the skies. **Fei He mountain!**" — **cap. 334** (a sede é no sul; os territórios que a seita teme
+> perder ficam **a noroeste**, cap. 697 — as duas coisas convivem)
+
 É uma **casa de Gu mortal**, não imortal, mas com dispositivos de caminho humano embutidos: "even though **Emperor City is a mortal Gu House, it contains
 human path methods**, at the crucial moment, immortal killer moves will protect us all" — **cap. 1717**. Sede da **final** da Convenção do Caminho de Refino
 (cap. 1707–1727), protegida por três linhas de casas de Gu imortais das seitas (cap. 1708).

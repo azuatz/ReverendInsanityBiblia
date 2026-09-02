@@ -1010,7 +1010,7 @@ Duas frases para levar para a mesa:
 
 ## Relações
 
-- [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o mapa dos dezessete caminhos e o que é um caminho.
+- [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o mapa completo dos caminhos, a cronologia de criação e o que é um caminho.
 - [[12 - Dao Marks|Dao Marks]] — **a nota dona das marcas**: o que fazem, quanto amplificam, por que o dano
   delas não regenera.
 - [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a nota dona do conflito: quais portas se fecham,

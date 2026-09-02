@@ -186,8 +186,8 @@ uma disciplina do currículo.
 
 | | |
 |---|---|
-| **Manda quem** | **Duke Long**, líder no presente do cenário, com força de combate **quase de rank 9**. Abaixo dele, **Fairy Zi Wei**, rank 8, que administra o continente inteiro no dia a dia; **Qin Ding Ling**, rank 8; e o **Senhor da Torre de Supervisão do Céu**, rank 8, guardião da casa de Gu de rank 9 da instituição |
-| **Caminho de casa** | nenhum, por desenho: reúne especialistas de todos os caminhos. Duke Long cultiva [[20 - Qi Path\|caminho do qi]] como principal e [[05 - Transformation Path\|caminho da transformação]] como secundário; Fairy Zi Wei, [[12 - Wisdom Path\|caminho da sabedoria]]; Qin Ding Ling, [[18 - Luck Path\|caminho da sorte]] |
+| **Manda quem** | **Duke Long**, líder no presente do cenário, com força de combate **quase de rank 9**. Abaixo dele, **Fairy Zi Wei**, rank 8, que já ocupou a liderança interina da instituição e responde pela supervisão do Continente Central; **Qin Ding Ling**, rank 8; e o **Senhor da Torre de Supervisão do Céu**, rank 8, guardião da casa de Gu de rank 9 da instituição |
+| **Caminho de casa** | nenhum, por desenho: reúne especialistas de todos os caminhos. Duke Long cultiva [[20 - Qi Path\|caminho do qi]] como principal e [[05 - Transformation Path\|caminho da transformação]] como secundário — foi fundindo refino e transformação que ele **criou do zero a raça variante dos homens-dragão**; Fairy Zi Wei, [[12 - Wisdom Path\|caminho da sabedoria]]; Qin Ding Ling, [[18 - Luck Path\|caminho da sorte]] |
 | **Por que esse caminho** | a instituição foi fundada pelo primeiro rank 9 da história, criador do caminho do qi e do [[06 - Enslavement Path\|caminho da escravização]], e herdada por vários Veneráveis seguintes; a especialidade dela é **governar**, não cultivar |
 | **Porte** | força suprema — a categoria máxima do mundo, com duas ou três entidades no total. Só admite rank 8, e nem todo rank 8 |
 | **Alinhamento** | caminho correto; é a própria definição institucional do caminho correto |
@@ -356,7 +356,7 @@ num canto do mundo, e um empregador rico que paga por cada uma.
 |---|---|
 | **Manda quem** | o **primeiro ancião supremo, rank 8**, no assento central do conselho; abaixo dele o segundo e o terceiro anciãos supremos, este último chamado **Lord Tiger Demon**. O **líder de seita** — o cargo mortal visível — é um rank 5, e não tem autoridade sobre os imortais |
 | **Caminho de casa** | [[06 - Enslavement Path\|caminho da escravização]] e a manipulação de grous; secundariamente água, veneno e fogo |
-| **Por que esse caminho** | a montanha-sede abriga **mais de dez mil grous de mais de dez mil tipos**, e a seita construiu séculos de técnica em cima dessa vantagem territorial |
+| **Por que esse caminho** | a montanha-sede abriga **dezenas de milhares de grous, de mais de dez mil variedades**, e a seita construiu séculos de técnica em cima dessa vantagem territorial |
 | **Porte** | vários imortais, com rank 6 e rank 7 no corpo de anciãos supremos e um rank 8 no topo. É reconhecidamente **a mais fraca das dez** |
 | **Alinhamento** | caminho correto, com a vocação histórica de **caçar cultivadores demoníacos** |
 | **Território** | Montanha Fei He, que flutua sobre um mar de nuvens com o mar batendo ao pé dela; mais domínios que se estendem até o noroeste do continente, fazendo fronteira com a Doca das Miríades de Dragões |

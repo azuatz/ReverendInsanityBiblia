@@ -157,8 +157,19 @@ contexto vivo se perde. Portanto:
   buscas transversais; tags vão no frontmatter, não soltas no texto.
 - `==destaque==` para o termo-chave que a nota define; footnotes `[^1]` para
   ressalvas de tradução ou divergência wiki × texto.
-- Nomes de arquivo = título natural da nota (ex.: `Refino de Gu.md`), sem numeração,
-  pois os wikilinks dependem do nome; a organização vem das pastas e tags.
+- **Nomes de arquivo = prefixo numérico de dois dígitos + título natural da nota**
+  (ex.: `05 - Refino de Gu.md`). O número é a **posição na ordem de leitura da pasta**, e a
+  nota-porta ("Visão Geral…") é sempre a `01`. O motivo: o Obsidian ordena a barra lateral
+  alfabeticamente, e sem prefixo a designer via "Avançar com Aptidão Baixa" antes de
+  "Ranks e Avanço" — ordem sem sentido para quem lê pela primeira vez. Com o prefixo, a
+  barra lateral **é** o currículo.
+- Como os wikilinks dependem do nome do arquivo, **renomear exige reescrever todos os
+  links**. Nunca faça isso à mão: use `_pipeline/numerar-notas.py`, que carrega a ordem de
+  leitura de cada pasta, renomeia com `git mv` (preservando histórico) e reescreve os links
+  em todo o vault, inclusive os que têm texto alternativo e âncora de seção. Ao acrescentar
+  uma nota nova, inclua-a na ordem dentro do script e rode-o de novo; ele aborta sozinho se
+  encontrar nota no disco que não esteja na ordem, ou vice-versa. Depois, sempre
+  `_pipeline/auditar-links.py` para conferir.
 
 ## Como retomar (para o usuário)
 

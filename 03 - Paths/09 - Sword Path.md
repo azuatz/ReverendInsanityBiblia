@@ -35,7 +35,7 @@ Os dois nascem do mesmo Gu-raiz e a obra chega a dizer que *o caminho da espada 
 de fora quando se menciona o caminho da lâmina*. A diferença é de escala: o da lâmina é chamado de
 **"um caminho extremamente pequeno", que não podia ser comparado a caminhos como o do metal, o do
 fogo ou o da terra** — enquanto o da espada é um caminho estabelecido, com fundador conhecido e
-heranças famosas. Ver [[29 - Os Demais Caminhos#Caminho da lâmina (*blade path*)|Os Demais Caminhos]].
+heranças famosas. Ver [[29 - Os Demais Caminhos#Caminho da lâmina (blade path)|Os Demais Caminhos]].
 
 > [!question] E há uma profecia que engoliria os dois
 > A obra registra o aparecimento de uma marca do Dao nova, interpretada como sinal de *um caminho

@@ -188,7 +188,7 @@ marcas que os outros não veem.
 
 ## Os doze verbetes
 
-### Fogo (*fire path*)
+### Fogo (fire path)
 
 **O que é.** A régua de dano bruto do mundo. A obra o posiciona por contraste: praticantes de
 gelo buscam defesa e aprisionamento; *só os do fogo e do relâmpago focam em força explosiva*. E
@@ -216,7 +216,7 @@ fundadores e diz apenas que "o refino e o fogo também foram criados neste perí
 
 ---
 
-### Água (*water path*)
+### Água (water path)
 
 **O que é.** Fluidez, mobilidade aquática, captura e suporte. Caracterizado por **grande poder
 ofensivo e combate um-contra-muitos**, e por domínio submarino.
@@ -243,7 +243,7 @@ poderosa e **previsível**: por ser mainstream, o mundo tem resposta pronta.
 
 ---
 
-### Gelo e neve (*ice and snow path*)
+### Gelo e neve (ice and snow path)
 
 > [!warning] São **um** caminho, não dois
 > A obra escreve "caminho do gelo e da neve" como unidade única — inclusive na enumeração
@@ -275,7 +275,7 @@ imortal**, descrito como *o menor preço para um golpe de nível cinco*.
 
 ---
 
-### Terra (*earth path*)
+### Terra (earth path)
 
 **O que é.** **Defesa, terreno e construção** — o caminho da guerra de posição. O título honorífico
 do perfil é "firme como uma montanha, um perito em defesa", e a aplicação de assinatura é moldar o
@@ -310,7 +310,7 @@ seria mobilidade e velocidade, mas isso é indução nossa.
 
 ---
 
-### Madeira (*wood path*)
+### Madeira (wood path)
 
 **Essência declarada — caso raro.** A obra a enuncia diretamente ao descrever o fundador: *ele
 era o Venerável com **a essência imortal mais abundante e a maior capacidade de recuperação**, o
@@ -341,7 +341,7 @@ pudesse agir.
 
 ---
 
-### Metal (*metal path*)
+### Metal (metal path)
 
 **O que é.** O mais **equilibrado** dos elementais (ded.): corta **e** blinda ao mesmo tempo. Do
 lado ofensivo: *seus ataques eram muito afiados e Mestres Gu comuns achariam difícil bloqueá-los,
@@ -371,7 +371,7 @@ de metade — e **dobra** contra ataques do caminho do metal especificamente.
 
 ---
 
-### Relâmpago (*lightning path*)
+### Relâmpago (lightning path)
 
 **O que é.** Força explosiva pura, agrupado com o fogo como o oposto do gelo.
 
@@ -408,7 +408,7 @@ exposto, antes de usar relâmpago para destruir o Gu*. Gelo revela, relâmpago m
 
 ---
 
-### Vento (*wind path*)
+### Vento (wind path)
 
 **O que é.** **Velocidade e mobilidade acima de tudo.** O marcador de identidade é inequívoco: o
 maior especialista vivo de uma região é *a pessoa publicamente reconhecida como a mais rápida do
@@ -444,7 +444,7 @@ vez de aguentá-lo.
 
 ---
 
-### Nuvem (*cloud path*)
+### Nuvem (cloud path)
 
 **O que é.** Movimento aéreo e defesa leve. O uso dominante é locomoção, e o Gu de nuvem é
 descrito como "um dos melhores Gu de movimento" que alguém tinha; mas também rende defesa
@@ -482,7 +482,7 @@ gerando "um fluxo interminável".
 
 ---
 
-### Luz (*light path*)
+### Luz (light path)
 
 **Essência declarada — caso raro:** *o caminho da luz foca em **velocidade e purificação**; o
 poder destrutivo não se compara ao do fogo*.
@@ -516,7 +516,7 @@ barreira.
 
 ---
 
-### Trevas (*dark path*)
+### Trevas (dark path)
 
 **Essência declarada — e é surpreendente:** um golpe *continha a essência do caminho das trevas e
 era usado para **anular métodos defensivos***. No trecho, agulhas negras teriam furado o alvo em

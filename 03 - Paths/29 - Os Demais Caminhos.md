@@ -94,7 +94,7 @@ escravização**, ou **regra e restrição**, ou **sabedoria e emoção**, aí s
 
 ## Os ramos formais
 
-### Caminho da restrição (*restriction path*)
+### Caminho da restrição (restriction path)
 
 **Ramo do [[16 - Rule Path|caminho da regra]]** — *um sub-ramo do caminho da regra; era um caminho
 pequeno que **ainda não se separara por completo***. Consequência canônica: alguém que cultivava
@@ -125,7 +125,7 @@ tornar alguém **sem fundação nenhuma na regra um grande grão-mestre instanta
 **Um limite ótimo de mesa:** um selo imposto por um imortal de nível 8 **se desgasta com o tempo** e
 cai sozinho. Prisões deste caminho têm prazo.
 
-### Caminho da emoção (*emotion path*)
+### Caminho da emoção (emotion path)
 
 **Ramo do [[12 - Wisdom Path|caminho da sabedoria]]**, e a explicação é elegante:
 
@@ -161,7 +161,7 @@ humano***. E um Gu Imortal do arrependimento pertence ao ramo da emoção, e por
 existia***, e por isso um Gu dele podia ser usado ali sem perigo. O caminho tem data de nascimento
 verificável pelos efeitos que **não** produziu.
 
-### Caminho do encantamento (*enchantment path*)
+### Caminho do encantamento (enchantment path)
 
 **Ramo do caminho da emoção** — *o Gu do cio, o Gu dos sentimentos ternos e o Gu da poesia emocional
 eram todos deste caminho. **O caminho do encantamento foi derivado dele***.
@@ -183,7 +183,7 @@ Ramo da regra, e o único dos ramos com material suficiente para nota própria �
 
 ## Os caminhos novos da era atual
 
-### Caminho do osso (*bone path*)
+### Caminho do osso (bone path)
 
 **Criado na era atual** — é o mais novo dos caminhos listados como **principais** na enumeração
 canônica, ao lado do fantasma e da restrição.
@@ -209,7 +209,7 @@ Brancos**; e um **Gu de bambu-osso** comprável no mercado comum.
 **gravar as marcas do Dao de um imortal do osso no próprio esqueleto** — *o método era muito
 especial, era bastante impensável*.
 
-### Caminho das pílulas (*pill path*)
+### Caminho das pílulas (pill path)
 
 **Criado na era atual** por uma criatura antiquíssima — um grou de jade verde imemorial, criado por
 uma seita e residente na maior instituição do mundo.
@@ -240,7 +240,7 @@ congelado, é direto.
 obteve **mais de mil receitas de Gu de pílula, cem delas de Gu Imortal**, e **mais de duzentos
 golpes, mais de cinquenta deles imortais**.
 
-### Caminho das armas (*weapon path*)
+### Caminho das armas (weapon path)
 
 **Criado muito recentemente** por um Gu Imortal de uma grande instituição — um humano puro-sangue. E
 a obra usa uma palavra dura: o caminho *foi criado **toscamente** por ele, recentemente*. É uma
@@ -269,7 +269,7 @@ Ou seja: um caminho novo se constrói **traduzindo** Gu de caminhos vizinhos par
 
 ## Os caminhos que a obra nomeia sem desenvolver
 
-### Caminho da lâmina (*blade path*)
+### Caminho da lâmina (blade path)
 
 O verbete mais rico entre os pequenos, e a obra o classifica sem rodeios: *o caminho da lâmina era
 **um caminho extremamente pequeno**; não podia ser comparado a caminhos como o do metal, o do fogo,
@@ -302,7 +302,7 @@ estou apenas no nível quase-grande-grão-mestre depois de centenas de anos**.* 
 um caminho de atalho brutal: um vinho formado do sangue de um perito misturado às marcas do lugar
 que, **ao terceiro gole, eleva a grande grão-mestre** — ao preço de dor extrema.
 
-### Caminho da lua (*moon path*)
+### Caminho da lua (moon path)
 
 Tem **marcas do Dao próprias** e **pontos de recurso**: um vale em forma de tigela que produz Gu de
 lua e é *um dos pontos de recurso mais importantes* de um clã, e uma montanha com marcas abundantes
@@ -317,7 +317,7 @@ Existe **herança completa** de um grande perito de uma era antiga que dá ao he
 combate completo e estável*. Praticantes de nível 6 aparecem como figuras comuns — é caminho de
 província, não de elite.
 
-### Caminho da sombra (*shadow path*)
+### Caminho da sombra (shadow path)
 
 Um verbete curto com uma passagem excelente, que é uma **profecia de fusão**:
 
@@ -338,7 +338,7 @@ indetectável.
 imortal de sombra. E há uma combinação registrada: um agente dedicado que cultivava **caminho humano
 com transformação e sombra ao lado**.
 
-### Caminho da ilusão (*illusion path*)
+### Caminho da ilusão (illusion path)
 
 Explicitamente classificado como **caminho menor** na enumeração canônica. O único dado concreto que
 a obra dá: existe uma **Casa de Gu Imortal chamada Jardim da Ilusão**, de uma seita, *construída sobre
@@ -349,7 +349,7 @@ declarada com o [[26 - Phantom Path|caminho fantasma]], que *se concentra em ilu
 entre o verdadeiro e o falso* — (ded.) o caminho fantasma é a versão desenvolvida do mesmo território
 conceitual.
 
-### Caminho do selo (*seal path*)
+### Caminho do selo (seal path)
 
 Uma única ocorrência em toda a obra: um golpe é descrito como *tanto do caminho do espaço quanto do
 caminho do selo*, e ele conseguiu **selar até um Gu mortal de nível 5**, impedindo seu uso.
@@ -358,7 +358,7 @@ caminho do selo*, e ele conseguiu **selar até um Gu mortal de nível 5**, imped
 
 ## Os dois casos especiais: o que fracassou e o que nunca nasceu
 
-### Caminho da matança (*killing path*) — o caminho que nunca foi criado
+### Caminho da matança (killing path) — o caminho que nunca foi criado
 
 Este é o melhor gancho de campanha desta nota, e é inteiramente canônico.
 

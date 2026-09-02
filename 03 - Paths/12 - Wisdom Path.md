@@ -69,7 +69,7 @@ O mesmo vale para os ramos do [[16 - Rule Path|caminho da regra]].
 
 Isso dá ao caminho da sabedoria uma **porta de entrada lateral e barata**: um cultivador sem talento
 para dedução pura pode entrar pela emoção, que é concreta e social, e chegar ao mesmo lugar. Ver
-[[29 - Os Demais Caminhos#Caminho da emoção (*emotion path*)|Os Demais Caminhos]].
+[[29 - Os Demais Caminhos#Caminho da emoção (emotion path)|Os Demais Caminhos]].
 
 Cada camada tem seus Gu próprios, e existe uma regra bonita de compatibilidade: **Gu de
 vontade devoram vontades do mesmo tipo**. Uma vontade hostil se alimenta de outras vontades

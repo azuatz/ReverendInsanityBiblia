@@ -688,3 +688,121 @@ categorias estão em [[07 - Killer Moves|Killer Moves]].
 > que dois", porque os bandos se interferem. Segunda: a fraqueza estrutural de um time é que,
 > **quando a cooperação quebra, cada membro vira o fardo do outro** — e interferência externa
 > deliberada na formação é uma tática reconhecida justamente por isso.
+
+## Emboscada, fuga e perseguição
+
+Estes três assuntos são o tema da nota irmã, [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]]. Aqui ficam apenas as
+três regras sem as quais o combate não faz sentido.
+
+**Emboscada não é trapaça: é metade do par.** A obra formula ataque e defesa como "frontal e
+emboscada, yin e yang, mole e duro — este é o caminho do rei". Existem Gu cuja única função é
+funcionar em ataque furtivo, sem uso frontal nenhum. E ocultar o próprio rank antes do primeiro
+golpe é a receita mais documentada para matar alguém acima do próprio patamar.
+
+**A tática do inimigo entrega a ficha dele.** Uma observação da obra que vale por um manual:
+*"como o rei-macaco escolheu a abordagem do ataque furtivo, isso revelou que a defesa era a
+fraqueza dele."* Quem se esconde, se esconde por um motivo — e o motivo é legível.
+
+**Derrotar, matar e capturar são três dificuldades diferentes.** A obra as escalona
+explicitamente: é fácil derrotar, é difícil matar, e é **mais difícil ainda capturar**. A razão
+é estrutural e vale sobretudo no patamar imortal: um imortal atravessa milhares de quilômetros
+com facilidade, de modo que **matá-lo exige primeiro prendê-lo** — na prática, um golpe de campo
+de batalha que feche a fuga. Todo mundo que chega longe carrega um trunfo de escapar, e a
+pergunta "e se ele simplesmente for embora?" é parte da avaliação antes de qualquer luta.
+
+## O custo: quantas trocas alguém aguenta
+
+Este é o número que fecha a nota, e ele é surpreendentemente pequeno.
+
+A referência canônica do mundo mortal: um Gu ofensivo básico de rank 1 custa **10% da reserva**
+por disparo, e para um cultivador de grau C isso dá **três a quatro disparos** antes de a
+reserva acabar. Um Gu de suporte custa **20%**. Um duelo de arena entre cultivadores de rank 2
+consumiu **70%** da reserva do vencedor. Uma emboscada bem-sucedida entre iguais custou
+**10%** — a diferença entre lutar e emboscar, medida em energia. Matar um javali selvagem em
+campo deixou a reserva de um rank 1 em **23%**. E ninguém experiente gasta os últimos **10%**:
+essa é a reserva de segurança, porque um cultivador de abertura vazia é presa.
+
+Some tudo e o retrato é este: **uma luta mortal tem quatro a seis ações significativas por
+lado**, e depois disso os dois lados estão desarmados e exaustos — não mortos. A tabela
+completa está em [[02 - Tabelas de Referência Rápida#14.2 Custo das ações|Tabelas de Referência Rápida]].
+
+Na contagem de trocas, o limite bate no mesmo lugar: **algumas dezenas de rodadas** e um Mestre
+Gu comum está ofegante; a obra registra combatentes de patamar altíssimo respirando com
+dificuldade depois de "poucas rodadas" e outros que, após dezenas, "não conseguiam fazer nada
+um ao outro".
+
+### O que acontece quando seca
+
+A regra é enunciada diretamente: **esgotada a essência, a força de combate cai abruptamente.**
+Na prática, quatro coisas acontecem, e as quatro estão documentadas:
+
+- **A pessoa vira um civil.** Sem essência não se aciona Gu nenhum, e o que sobra é o corpo. A
+  obra registra dois combatentes que, esgotados, "recorreram a lutar com as próprias mãos".
+- **Ela é capturada, não morta.** Derrotas em massa neste mundo são descritas como esgotamento
+  coletivo seguido de captura, e não como massacre.
+- **Recarregar no meio da luta é quase suicídio.** Absorver [[02 - Pedras Primordiais|pedras primordiais]] é possível e
+  rápido, mas exige dividir a atenção. A prática real é recarregar em **pausas táticas** — e há
+  um caso em que ter pedras no bolso foi o que decidiu a luta, porque um lado repunha e o
+  outro não.
+- **Rotinas de retirada existem.** "Minha essência está quase no fim, quem assume?" é uma fala
+  de muralha registrada na obra. Em grupo, o esgotamento é gerido como logística: quem seca,
+  sai.
+
+> [!note] Para o design
+> Quatro a seis ações por lado é **muito** mais curto que o padrão de um RPG. Vale resistir à
+> tentação de alongar: é justamente essa escassez que faz emboscada, terreno, informação e
+> preparação valerem mais que dano neste cenário. Se a luta durar vinte rodadas, todas as
+> outras regras deste documento deixam de importar.
+
+## O que a obra não diz
+
+Cinco lacunas honestas, porque é melhor declará-las do que preenchê-las em silêncio:
+
+- **Nenhuma escala de dano.** A obra nunca publica um valor de dano. Ela grada ferimentos por
+  **consequência** — leve, médio, grave, fatal — e nada mais. Quem for converter isto em
+  regras terá de inventar a escala numérica inteira. `—`
+- **Nenhuma conversão da respiração para segundos.** A unidade existe e é usada com precisão;
+  a equivalência, não. `—`
+- **Nenhuma regra formal de iniciativa.** A obra compara velocidade de ativação com velocidade
+  de reação caso a caso, e nunca publica um procedimento. O que ela dá é a **ordem de grandeza**
+  por caminho de cultivo. `—`
+- **Nenhum teto declarado de camadas de defesa.** Sabe-se que um imortal montou cem; não se
+  sabe qual é o limite, nem se existe. `—`
+- **Nenhum custo em essência para a esmagadora maioria dos Gu.** Os percentuais publicados são
+  quase todos de rank 1. Do rank 2 em diante, o cenário fica sem preços. `—`
+
+> [!note] Para o design
+> Se você preservar **cinco** coisas, o combate ainda vai parecer Reverend Insanity. Todo o
+> resto é detalhe.
+>
+> 1. **Duas moedas, não uma.** Energia e atenção. Um personagem pode estar cheio de energia e
+>    ainda assim não poder agir.
+> 2. **Recurso curto.** Quatro a seis ações significativas antes de secar, e secar significa
+>    virar civil — não morrer.
+> 3. **Efeitos rígidos, montagem criativa.** Cada Gu faz uma coisa só, e todo poder vem de
+>    combinar. A criatividade fica no arranjo, nunca no efeito.
+> 4. **Informação como recurso consumível.** Trunfo revelado é trunfo gasto; conhecer o
+>    arsenal do inimigo vale mais que um rank de diferença.
+> 5. **A janela de ativação.** Golpe grande precisa de tempo, tempo pode ser negado, e
+>    interromper tarde machuca mais que interromper cedo.
+>
+> E o que é **detalhe**, apesar de aparecer muito na obra: a lista específica de Gu, os nomes
+> dos caminhos, a aritmética exata dos alcances em passos, e a taxonomia completa dos tipos de
+> golpe. São textura, não motor.
+
+## Relações
+
+- [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]] — a nota irmã: o que acontece quando a luta corre mal, e o repertório de escapar.
+- [[07 - Killer Moves|Killer Moves]] — as combinações que são o teto de poder de qualquer indivíduo, a economia de ações e a escala de backlash.
+- [[08 - Formações de Gu|Formações de Gu]] — o combate que se constrói em vez de se carregar: territórios, casas de Gu e campos de batalha.
+- [[04 - Essência Primordial|Essência Primordial]] — a moeda da luta, com as taxas de reposição e a regra de contaminação.
+- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — pensamentos como recurso, o teto de multitarefa e a razão de o rank não melhorar o corpo.
+- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que o terreno pesa, e por que o corpo de um veterano recusa Gu inteiros.
+- [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — quantos Gu se carrega para uma luta, e quanto custa mantê-los.
+- [[14 - Guerra Organizada|Guerra Organizada]] — a mesma mecânica em escala de exército: esquadrões, bucha e orçamento de guerra.
+- [[06 - Attainment|Attainment]] — a erudição como eixo independente do rank, e o teto que ela impõe.
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números citados aqui.
+- [[02 - Punhos Contra uma Camada de Defesa|Punhos Contra uma Camada de Defesa]] — um combate real, destrinchado passo a passo.
+- [[03 - O Sapo de Rank 5 Que Ninguém Podia Tocar|O Sapo de Rank 5 Que Ninguém Podia Tocar]] — um encontro vencido inteiramente por informação e protocolo.
+
+[^1]: A obra usa "respiração" (*breath's time*) como unidade e nunca a converte em segundos. Uma equivalência plausível seria de três a quatro segundos, pelo ritmo respiratório humano — mas isso é indução nossa, marcada `*`, e não há nada no texto que a confirme.

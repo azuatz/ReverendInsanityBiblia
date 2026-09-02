@@ -533,3 +533,24 @@ Consolidado das dez notas novas — este é o **orçamento de liberdade** da des
   últimas são **afirmadas pela própria obra**, não inferidas de ausência.
 - **Auditoria de links:** `_pipeline/auditar-links.py` roda limpo para `03 - Paths/` — **zero links
   quebrados** partindo desta pasta, e zero links dependendo só de alias.
+
+---
+
+## Estado final e verificações
+
+- **Notas na pasta:** 19 → **29** (17 caminhos com nota própria → 25, mais 2 notas coletivas
+  cobrindo outros 25 caminhos e os falsos positivos).
+- **Cobertura:** de 17/51 caminhos (33%) para **51/51 (100%)** — cada caminho nomeado pela obra
+  tem, no mínimo, um verbete que diz honestamente quanto material existe sobre ele.
+- **Frontmatter:** YAML válido nas 29 notas, com `tags`, `aliases`, `status`, `fontes` e
+  `conhecimento` em todas.
+- **Citações inline:** `grep "cap. N"` no corpo das dez notas novas e das seis editadas retorna
+  **zero** — a rastreabilidade fica só no `fontes` do frontmatter, como manda a regra.
+- **Marcadores de invenção:** **zero `*`** em qualquer das dez notas novas. Apagar tudo marcado com
+  `*` devolveria a pasta a cem por cento canônica — porque não há nada a apagar.
+- **Links:** `_pipeline/auditar-links.py` → **zero links quebrados partindo de `03 - Paths/`** e zero
+  dependendo só de alias. Todas as âncoras de seção usadas (`[[Nota#Seção]]`) foram verificadas
+  contra os cabeçalhos reais dos arquivos de destino.
+- **Renumeração:** as notas novas usam os números 20–29 provisoriamente. A ordem de leitura correta
+  está proposta na seção "Notas novas criadas"; ao rodar `_pipeline/numerar-notas.py`, incluir as
+  dez novas na ordem de leitura da pasta `03 - Paths` antes de executar.

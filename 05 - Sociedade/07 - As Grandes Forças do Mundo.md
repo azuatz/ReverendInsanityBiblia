@@ -389,6 +389,59 @@ constitui, de fato, a política do norte.
 
 ---
 
+### A Seita de Lang Ya — a seita que um espírito da terra fundou
+
+- **Terra Abençoada de Lang Ya / Seita de Lang Ya** — o caso mais curioso do mundo e a
+  organização mais aproveitável de todas, e ela fica **aqui, nas Planícies do Norte**,
+  junto ao Lago Crescente — não no Continente Central, apesar de ser fácil confundir: o
+  espírito da terra que a fundou declarou que copiaria o Continente Central como modelo.
+  É **a primeira seita fundada por um espírito da terra**, a inteligência que habita e
+  administra uma terra abençoada, e é o principal contraponto institucional às dez grandes
+  seitas do centro.
+  - **O que domina: [[07 - Refinement Path|refino]], em escala industrial.** A terra abençoada é
+    especificamente propícia a refino. A infraestrutura tem salas classificadas por grau e
+    letra, **cada uma com vários quilômetros de diâmetro**, equipadas com caldeirões,
+    fornalhas e tanques, e mão de obra especializada da raça variante dos homens-peludos —
+    que ali vivem aos milhões, com agricultura, cidades e navegação próprias, distribuídos
+    por três continentes internos.
+  - **O acervo é o verdadeiro tesouro:** mais de **duzentas receitas de Gu Imortal**
+    trocáveis internamente por pontos de contribuição, incluindo oito receitas distintas
+    para um mesmo Gu de rank 5. Como refino é o serviço mais escasso do mundo, essa é
+    provavelmente a maior biblioteca de receitas *acessível* que existe — e "acessível" é a
+    palavra-chave: você entra, contribui e compra.
+  - **Três heranças verdadeiras**, e a origem de duas delas é uma aula de worldbuilding:
+    uma de **refino**, deixada pelo fundador; uma de **[[18 - Luck Path|caminho da sorte]]**,
+    paga por um Venerável em troca de um refino que **deu certo**; e uma de **caminho do
+    roubo**, paga por outro Venerável por um refino que **falhou** — e por isso vale menos,
+    já que parte do pagamento foi devolvida. Os honorários da oficina viraram patrimônio.
+  - **Monopólios materiais:** possui o **único exemplar do mundo** de um Gu Imortal de
+    escravização de feras, que dá controle instantâneo e total sobre uma besta desolada. E
+    dentro de seu território fica a montanha que detém o **monopólio de produção e comércio
+    dos Gu de coragem** — um dos melhores métodos de fortalecimento de alma existentes, que
+    consome almas como matéria-prima contínua.
+  - **Como se entra:** economia de pontos de contribuição com ranking público, trocáveis
+    por Gu Imortais do tesouro, por **empréstimo temporário** de Gu Imortais (proporcional
+    ao tempo), por acesso à biblioteca e por custeio de tentativas de refino. Um membro
+    externo — não pertencente à raça fundadora — recebe **metade dos pontos** por
+    contribuição equivalente, mais dez pontos mensais fixos sem missão nenhuma. A
+    discriminação está escrita no regulamento.
+  - **Cultura:** guerra anual induzida entre os três continentes internos como filtro de
+    elite, e o cargo de "ancião supremo externo" como instrumento de aliança. Usa
+    principalmente refino e [[05 - Transformation Path|caminho da transformação]].
+  - **Curiosidade estrutural:** a terra abençoada tem **dois** espíritos da terra, nascidos
+    da mesma obsessão fundadora — um agressivo e expansionista, outro pacifista. Quando um
+    morre, o outro assume automaticamente. A instituição tem duas personalidades e alterna
+    entre elas.
+
+> [!note] Para o design
+> A Seita de Lang Ya é o melhor patrono possível para um grupo com vocação técnica, e vale
+> entender por quê: ela converte **progressão em economia**. Pontos de contribuição
+> compram receitas, empréstimos de equipamento e tentativas de refino; o ranking é público;
+> e a discriminação contra externos está no regulamento, o que dá ao grupo uma desvantagem
+> concreta e negociável em vez de um preconceito difuso. É uma guilda de artesãos com
+> tabela de preços, e funciona numa mesa sem nenhuma adaptação.
+
+
 ## Deserto do Oeste — a região sem dono
 
 Um deserto quase sem vegetação, geograficamente isolado, com uma economia de caravanas
@@ -534,52 +587,6 @@ presa, as demais deliberadamente **não** a resgataram, porque a perda dela lhes
 
 ### Outras forças do Continente Central
 
-- **Terra Abençoada de Lang Ya / Seita de Lang Ya** — o caso mais curioso do mundo e a
-  organização mais aproveitável de todas: **a primeira seita fundada por um espírito da
-  terra**, a inteligência que habita e administra uma terra abençoada. Ela é o principal
-  contraponto institucional às dez grandes seitas.
-  - **O que domina: [[07 - Refinement Path|refino]], em escala industrial.** A terra abençoada é
-    especificamente propícia a refino. A infraestrutura tem salas classificadas por grau e
-    letra, **cada uma com vários quilômetros de diâmetro**, equipadas com caldeirões,
-    fornalhas e tanques, e mão de obra especializada da raça variante dos homens-peludos —
-    que ali vivem aos milhões, com agricultura, cidades e navegação próprias, distribuídos
-    por três continentes internos.
-  - **O acervo é o verdadeiro tesouro:** mais de **duzentas receitas de Gu Imortal**
-    trocáveis internamente por pontos de contribuição, incluindo oito receitas distintas
-    para um mesmo Gu de rank 5. Como refino é o serviço mais escasso do mundo, essa é
-    provavelmente a maior biblioteca de receitas *acessível* que existe — e "acessível" é a
-    palavra-chave: você entra, contribui e compra.
-  - **Três heranças verdadeiras**, e a origem de duas delas é uma aula de worldbuilding:
-    uma de **refino**, deixada pelo fundador; uma de **[[18 - Luck Path|caminho da sorte]]**,
-    paga por um Venerável em troca de um refino que **deu certo**; e uma de **caminho do
-    roubo**, paga por outro Venerável por um refino que **falhou** — e por isso vale menos,
-    já que parte do pagamento foi devolvida. Os honorários da oficina viraram patrimônio.
-  - **Monopólios materiais:** possui o **único exemplar do mundo** de um Gu Imortal de
-    escravização de feras, que dá controle instantâneo e total sobre uma besta desolada. E
-    dentro de seu território fica a montanha que detém o **monopólio de produção e comércio
-    dos Gu de coragem** — um dos melhores métodos de fortalecimento de alma existentes, que
-    consome almas como matéria-prima contínua.
-  - **Como se entra:** economia de pontos de contribuição com ranking público, trocáveis
-    por Gu Imortais do tesouro, por **empréstimo temporário** de Gu Imortais (proporcional
-    ao tempo), por acesso à biblioteca e por custeio de tentativas de refino. Um membro
-    externo — não pertencente à raça fundadora — recebe **metade dos pontos** por
-    contribuição equivalente, mais dez pontos mensais fixos sem missão nenhuma. A
-    discriminação está escrita no regulamento.
-  - **Cultura:** guerra anual induzida entre os três continentes internos como filtro de
-    elite, e o cargo de "ancião supremo externo" como instrumento de aliança. Usa
-    principalmente refino e [[05 - Transformation Path|caminho da transformação]].
-  - **Curiosidade estrutural:** a terra abençoada tem **dois** espíritos da terra, nascidos
-    da mesma obsessão fundadora — um agressivo e expansionista, outro pacifista. Quando um
-    morre, o outro assume automaticamente. A instituição tem duas personalidades e alterna
-    entre elas.
-
-> [!note] Para o design
-> A Seita de Lang Ya é o melhor patrono possível para um grupo com vocação técnica, e vale
-> entender por quê: ela converte **progressão em economia**. Pontos de contribuição
-> compram receitas, empréstimos de equipamento e tentativas de refino; o ranking é público;
-> e a discriminação contra externos está no regulamento, o que dá ao grupo uma desvantagem
-> concreta e negociável em vez de um preconceito difuso. É uma guilda de artesãos com
-> tabela de preços, e funciona numa mesa sem nenhuma adaptação.
 - **Convenção do Caminho de Refino** — não é uma organização, mas o evento centenário que
   estrutura a economia do refino no mundo inteiro. Ver
   [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
@@ -1051,7 +1058,7 @@ quem é preciso negociar, a quem é preciso servir, ou o que é preciso roubar.
 | **Seita do Combate Imortal** | Central | Combate puro | Admissão por torneio: 100 disputam, 10 entram |
 | **Mansão da Inveja Celestial** | Central | Um golpe refinado por gerações | O golpe assinatura, que exige duas operadoras simultâneas |
 | **Templo do Céu Negro** | Central | Não declarada | Doutrina de preservação: recua em vez de arriscar imortais |
-| **Seita de Lang Ya** | Central | Refino industrial; transformação | 200+ receitas de Gu Imortal trocáveis por contribuição; o único Gu Imortal de escravização de feras do mundo; o monopólio dos Gu de coragem |
+| **Seita de Lang Ya** | Norte | Refino industrial; transformação | 200+ receitas de Gu Imortal trocáveis por contribuição; o único Gu Imortal de escravização de feras do mundo; o monopólio dos Gu de coragem |
 | **Clã Wu** | Sul | Caminho da força | Uma das três heranças antigas de caminho da força do mundo |
 | **Clã Shang** | Sul | Comércio | O mercado livre da região; a arena que converte demoníacos em anciãos externos; a Porta do Tesouro Vivo |
 | **Clã Tie** | Sul | Justiça e captura | A Torre de Supressão de Demônios; a rede de Torres-Farol; o golpe de busca e travamento contra voadores |

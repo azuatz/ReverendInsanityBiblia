@@ -4,7 +4,7 @@ tags:
 aliases:
   - Sword Path
 status: consolidado
-fontes: ["cap. 538", "cap. 567", "cap. 956", "cap. 962", "cap. 995", "cap. 1008", "cap. 1055", "cap. 1056", "cap. 1059", "cap. 1065", "cap. 1471", "cap. 1482"]
+fontes: ["cap. 538", "cap. 567", "cap. 956", "cap. 962", "cap. 995", "cap. 1008", "cap. 1055", "cap. 1056", "cap. 1059", "cap. 1065", "cap. 1471", "cap. 1482", "cap. 1563", "cap. 1865"]
 conhecimento: comum
 ---
 
@@ -24,6 +24,30 @@ Isso importa. A maior parte dos grandes caminhos foi fundada por seres de nível
 recursos, seitas e milênios. O caminho da espada foi construído por um indivíduo que nunca
 chegou lá. É, num sentido bastante literal, o caminho do talento solitário — e a escola inteira
 carrega essa marca: é direta, agressiva, econômica em conceitos e brutal em execução.
+
+### Um irmão de sangue: o caminho da lâmina
+
+Vale registrar, porque é fácil confundir os dois e a obra os trata como parentes diretos:
+
+> **O Gu do Fio era a origem tanto do caminho da lâmina quanto do caminho da espada.**
+
+Os dois nascem do mesmo Gu-raiz e a obra chega a dizer que *o caminho da espada não podia ser deixado
+de fora quando se menciona o caminho da lâmina*. A diferença é de escala: o da lâmina é chamado de
+**"um caminho extremamente pequeno", que não podia ser comparado a caminhos como o do metal, o do
+fogo ou o da terra** — enquanto o da espada é um caminho estabelecido, com fundador conhecido e
+heranças famosas. Ver [[29 - Os Demais Caminhos#Caminho da lâmina (*blade path*)|Os Demais Caminhos]].
+
+> [!question] E há uma profecia que engoliria os dois
+> A obra registra o aparecimento de uma marca do Dao nova, interpretada como sinal de *um caminho
+> totalmente novo... bastante grandioso, que contém **lâminas, espadas, machados, alabardas e outras
+> armas**. Se alguém criar este caminho no futuro, ele **certamente englobará o caminho da espada e o
+> caminho da lâmina**. A força de combate desse caminho novo será muito forte, e ele também tem
+> claramente muitas profundidades do [[23 - Human Path|caminho humano]].*
+>
+> Isso é um **gancho de campanha de escala histórica**: existe um caminho maior esperando ser
+> fundado, e fundá-lo tornaria este caminho um capítulo dentro dele. `—` A obra não diz se o
+> **caminho das armas** efetivamente criado no fim da linha do tempo, e que ela chama de criação
+> "tosca", é a realização dessa profecia.
 
 ## Mecânicas típicas
 
@@ -207,3 +231,4 @@ secundário útil será permanentemente dependente dos outros.
 - [[12 - Wisdom Path|Wisdom Path]] — o alvo do contra dedicado que este caminho produziu.
 - [[04 - Gu Vital|Gu Vital]] — a categoria do Gu que mora na arma e sobrevive ao dono.
 - [[02 - O que é um Gu|O que é um Gu]] — a geração espontânea em terrenos marcados.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da lâmina, irmão de raiz deste, e a profecia do caminho das armas.

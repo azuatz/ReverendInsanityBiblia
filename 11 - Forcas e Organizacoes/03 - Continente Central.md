@@ -58,9 +58,10 @@ regiões, e o efeito colateral é cruel — como há mais imortais dividindo o m
 
 Para calibrar a escala: um cultivador de rank 3, que numa aldeia da Fronteira do Sul seria
 ancião com poder sobre vidas, é **gente comum na rua** na maior cidade do centro. E dentro
-de uma das dez grandes seitas, o grau mais baixo de [[03 - Aptidão|aptidão]] simplesmente não
-existe entre os discípulos: o comum é o segundo grau, e gente de primeiro grau é numerosa
-o bastante para não impressionar ninguém.
+de uma das dez grandes seitas **não há um único discípulo de [[03 - Aptidão|aptidão]] grau C**
+— numa escala em que A é o topo e D o piso. O comum ali é o grau B, e gente de grau A é
+numerosa o bastante para não impressionar ninguém. Um adolescente que seria a promessa de uma
+geração num clã de interior é apenas mediano numa das dez.
 
 ### 2. Instituições são lugares
 
@@ -148,10 +149,10 @@ ainda que por interesse próprio.
 ### 7. O caminho demoníaco quase não existe aqui — e isso tem explicação
 
 O Continente Central é a região mais dominada pelo [[05 - Caminho Correto e Caminho Demoníaco|caminho correto]]
-das cinco. Quando os muros regionais caíram e o mundo se moveu, a obra ordena as saídas
-assim: primeiro os imortais das outras quatro regiões, depois **os poucos imortais demoníacos
-e solitários do Continente Central**, e só então os imortais do caminho correto do centro.
-"Poucos" é a palavra do texto.
+das cinco, e a obra deixa isso explícito ao arrolar quem sai de casa quando o continente
+inteiro se põe em movimento: primeiro os imortais das outras quatro regiões, depois **os
+poucos imortais demoníacos e solitários do Continente Central**, e só então os imortais do
+caminho correto do centro. "Poucos" é a palavra do texto.
 
 Os demoníacos que existem no centro vêm quase todos de dentro das próprias dez: são
 **desertores**. O padrão se repete com precisão desconfortável — um discípulo brilhante
@@ -788,8 +789,11 @@ cumprir uma ordem e sobreviver, escolhe sobreviver.
 
 ## Forças do caminho correto fora das dez
 
-O bloco correto do Continente Central **não se resume às dez**. A obra é explícita: há várias outras
-super forças na região, e nomeia três.
+O bloco correto do Continente Central **não se resume às dez**. A obra é explícita ao dizer que há
+várias outras super forças na região, e cita três pelo nome: a Seita da Expulsão de Demônios, a Seita
+da Informação-Relâmpago e a Grande Seita da Espada Celestial. Abaixo delas vêm as casas de porte médio
+e pequeno — e é justamente essas que a obra mostra por dentro, o que as torna as mais aproveitáveis
+numa mesa.
 
 ### Seita da Expulsão de Demônios
 
@@ -911,23 +915,27 @@ crítico, disparam **golpes imortais de proteção**.
 É onde se disputa a **final** da Convenção do Caminho de Refino, protegida por três linhas
 concêntricas de Casas de Gu Imortal das seitas.
 
-### Cidade do Imperador Divino
+### Cidade do Imperador Divino — fora do recorte
 
-*Divine Emperor City* · cidade e Casa de Gu Imortal · centro do continente, em território do Tribunal Celestial
+*Divine Emperor City*
 
-A **terra sagrada do caminho humano**. É simultaneamente uma cidade habitada — com população mortal,
-Mestres Gu e até imortais de rank 6 morando dentro — e uma Casa de Gu Imortal criada por Genesis Lotus
-Immortal Venerable, guardada pela vontade dele. O que ela faz é o caminho humano levado ao extremo:
-**reúne a força de todos que estão dentro dela — imortal, Mestre Gu ou mortal comum — e a usa em
-conjunto**, e é capaz de **deslocar o ponto de convergência da veia humana** do continente.
-
-Dentro dela existem **mundos de pintura**: cada grande cena da história da cidade anterior virou uma
-pintura habitável, que absorve moradores e os devolve depois de um tempo. Circula pela cidade o rumor
-de que entrar numa delas é uma oportunidade de imortalidade, e Mestres Gu viajam até lá por causa
-disso. O cargo de **Senhor da Cidade do Imperador Divino** se conquista herdando, dentro desses mundos,
-a herança verdadeira do Venerável fundador.
-
-Atacá-la equivale a enfurecer o Tribunal Celestial e mobilizar o continente inteiro em resposta.
+> [!warning] Este nome pertence a um estado posterior do mundo
+> A **Cidade do Imperador Divino** circula em resumos e wikis como se fosse um lugar do
+> Continente Central desde sempre — e a nota [[05 - Atlas das Cinco Regiões|Atlas das Cinco
+> Regiões]] a registra assim. Não é: ela **só existe na última parte da obra**, e nasce da
+> fusão da Cidade Imperial com uma Casa de Gu Imortal trazida de outra região. **No presente
+> do cenário ela não existe**, e a terra sagrada do [[23 - Human Path|caminho humano]] da
+> região é a própria Cidade Imperial.
+>
+> Como o resultado é bonito e pode servir de destino para uma campanha longa, fica o registro
+> do que ela vem a ser: uma cidade habitada — com população mortal, Mestres Gu e até imortais
+> de rank 6 morando dentro — que é, ao mesmo tempo, a maior Casa de Gu Imortal do mundo. Ela
+> **reúne a força de todos que estão dentro dela, imortal, Mestre Gu ou mortal comum, e a usa
+> em conjunto**, e chega a deslocar o ponto de convergência da veia humana do continente.
+> Dentro dela existem **mundos de pintura**: cenas da história da cidade anterior transformadas
+> em lugares habitáveis, que absorvem moradores e os devolvem depois de um tempo. É guardada
+> pela vontade de um Venerável, e atacá-la equivale a enfurecer o Tribunal Celestial e
+> mobilizar o continente inteiro.
 
 ### A Montanha Tian Ti
 
@@ -1026,13 +1034,12 @@ no continente inteiro, entre gente que nunca refinou nada. Ver
 | **Templo do Céu Negro** | uma das dez | ocultação e defesa `(ded.)` | correto | rank 8 no topo; território pobre |
 | **Seita da Expulsão de Demônios** | super força fora das dez | `—` | correto | 3 imortais |
 | **Seita da Informação-Relâmpago** | super força fora das dez | informação | correto | fundador de rank 7 |
-| **Grande Seita da Espada Celestial** | seita grande, vassala | espada `(ded.)` | correto | 3 imortais |
+| **Grande Seita da Espada Celestial** | seita grande, vassala | `—` | correto | 3 imortais |
 | **Seita das Cinco Virtudes** | seita média, viveiro | `—` | correto | sem imortal próprio `(ded.)` |
-| **Seita da Geada Voadora** | seita média | gelo `(ded.)`, refino | correto | sem imortal próprio `(ded.)` |
+| **Seita da Geada Voadora** | seita média | gelo, pela ilha-base `(ded.)`; refino | correto | sem imortal próprio `(ded.)` |
 | **Academia da Vida Universal** | seita pequena | `—` | correto | nenhum imortal |
 | **Os Quatro Grandes Obscenos** | grupo demoníaco informal | `—` | demoníaco, tolerado | quatro de rank 4 |
 | **Cidade Imperial** | cidade mortal e Casa de Gu | caminho humano | neutro | a maior cidade mortal do mundo |
-| **Cidade do Imperador Divino** | cidade e Casa de Gu Imortal | caminho humano | correto (Tribunal Celestial) | Casa de Gu Imortal de topo |
 | **Montanha Tian Ti** | terra sagrada sem dono | — | neutro, intocável | — |
 | **Campo de Batalha da Reencarnação** | território de treino | — | disputado pelas dez | — |
 

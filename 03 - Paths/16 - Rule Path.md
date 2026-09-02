@@ -5,7 +5,7 @@ aliases:
   - Rule Path
   - Law path
 status: consolidado
-fontes: ["cap. 522", "cap. 533", "cap. 536", "cap. 757", "cap. 790", "cap. 801", "cap. 845", "cap. 861", "cap. 937", "cap. 984", "cap. 994", "cap. 1042", "cap. 1111", "cap. 1323", "cap. 1787", "cap. 2131"]
+fontes: ["cap. 522", "cap. 533", "cap. 536", "cap. 584", "cap. 757", "cap. 790", "cap. 801", "cap. 845", "cap. 861", "cap. 937", "cap. 984", "cap. 994", "cap. 1042", "cap. 1111", "cap. 1323", "cap. 1787", "cap. 1869", "cap. 2028", "cap. 2131"]
 conhecimento: especializado
 ---
 
@@ -83,17 +83,72 @@ mais alto.
 
 `conhecimento: segredo`
 
-Junto com o [[12 - Wisdom Path|Wisdom Path]], este é um dos **dois únicos caminhos capazes de deixar
-"significado verdadeiro" como herança** — as únicas exceções sendo os dez Veneráveis, que
-estão fora da lógica comum.
+Junto com o [[12 - Wisdom Path|Wisdom Path]], este é um dos **dois caminhos que deixam "significado
+verdadeiro" com muito mais facilidade que todos os outros**. A obra é precisa na formulação:
+*para deixar para trás um significado verdadeiro, o caminho da sabedoria e o caminho da regra
+tinham **a maior facilidade***.
 
 A explicação é conceitualmente satisfatória: gerar um significado verdadeiro exige dois
-componentes, e cada caminho fornece um. O caminho da regra porta a **verdade** de um conceito;
-o caminho da sabedoria porta a **vontade**.
+componentes, e cada caminho fornece um. *O significado verdadeiro envolve a **verdade** do caminho
+da regra, bem como a **vontade** do caminho da sabedoria.*
+
+E o caminho da regra tem duas vantagens adicionais que a sabedoria não tem sozinha: seus praticantes
+são *mais hábeis em **extrair** o próprio significado verdadeiro*, e — a mais forte — *o Gu Imortal
+frequentemente consegue **criar** o próprio significado verdadeiro* usando o caminho.
+
+> [!warning] "Maior facilidade" não é exclusividade — corrigimos um erro nosso aqui
+> Uma versão anterior desta nota afirmava que **só** a regra e a sabedoria conseguem deixar
+> significado verdadeiro, com os dez Veneráveis como única exceção. **Isso era erro nosso.** A obra
+> continua a frase citada acima assim: *quanto aos outros caminhos, eles tinham de **alcançar certo
+> nível de imitação desses caminhos** para deixar o seu significado verdadeiro para trás*.
+>
+> E dá contraexemplos nominais que não são Veneráveis: um **ancestral de nível 8** que não era um
+> dos dez deixou um significado verdadeiro do [[07 - Refinement Path|caminho do refino]]. A obra
+> também registra significados verdadeiros da formação, da sorte, do fantasma e do humano em reinos
+> de sonho comuns.
+>
+> A regra correta, então: **qualquer caminho pode deixar um significado verdadeiro, desde que seu
+> portador tenha alcançado um grau alto de imitação da regra e da sabedoria** — o que, na prática,
+> é raríssimo. A exceção absoluta é o [[17 - Heaven Path|caminho do céu]], cujo significado
+> verdadeiro **nunca existiu**, porque ninguém consegue cultivá-lo.
 
 Um significado verdadeiro concede erudição **diretamente**, sem desperdiçar a fundação prévia
-do herdeiro — há registro de um que elevou alguém de grão-mestre a grande grão-mestre de uma
-vez.
+do herdeiro — há registro de um que **tornou grande grão-mestre, na hora, alguém que não tinha
+fundação nenhuma no caminho da regra**, e de outro que elevou de grão-mestre a grande grão-mestre
+sem perder o acúmulo anterior.
+
+### Os caminhos que brotaram deste
+
+O caminho da regra não é só a "mãe" conceitual de todos: ele é, **literalmente e por afirmação da
+obra**, o campeão em gerar escolas novas.
+
+> Porque o caminho da regra era um conceito enorme, ele tinha muitos caminhos menores brotando dele
+> como resultado. (…) **O caminho da regra tinha muitos caminhos menores derivados dele; era, sem
+> dúvida, o caminho número um nesse quesito.** Os mais famosos eram o **caminho da restrição** e o
+> **[[26 - Phantom Path|caminho fantasma]]**.
+
+Os dois ramos nomeados:
+
+- **Caminho da restrição** — *um sub-ramo do caminho da regra; era um caminho pequeno que ainda não
+  se separara por completo*. Sua habilidade de assinatura é **cortar a conexão entre a energia
+  primeva e os Gu selvagens** — isto é, desligar o Gu do cultivador.
+- **[[26 - Phantom Path|Caminho fantasma]]** — *derivado do caminho da regra; concentra-se em
+  ilusões e fantasmas, entre o verdadeiro e o falso*; também *ainda não se separou por completo*.
+
+E a consequência mecânica é a mais importante desta seção, porque vale como **teste geral do
+sistema**: como esses ramos não se separaram, eles **não têm marcas do Dao próprias**, e por isso
+*avançar no domínio do caminho fantasma é, na essência, ainda o significado verdadeiro do caminho da
+regra*. A obra registra alguém que **cultivou restrição a vida inteira e deixou, ao morrer, um
+significado verdadeiro da regra**.
+
+> [!note] Para o design
+> Isto dá ao caminho da regra uma função que nenhum outro tem: ele é a **porta de trás** para o
+> sistema inteiro. Um jogador que ache a escola da regra abstrata demais pode entrar por um ramo
+> concreto — restrição, fantasma — e descobrir, cem sessões depois, que estava subindo na regra o
+> tempo todo. É progressão escondida, e ela é canônica.
+
+Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]] para a árvore completa de derivação, incluindo os
+ramos do [[12 - Wisdom Path|caminho da sabedoria]].
 
 ## Gu representativos
 
@@ -146,7 +201,8 @@ nível 8 em **regra** e em **refinamento** para ser tomada de vez.
 **Combina com:** literalmente qualquer caminho. É a definição da escola.
 
 Os pares mais notáveis:
-- **[[12 - Wisdom Path|Wisdom Path]]** — os dois caminhos que deixam significado verdadeiro.
+- **[[12 - Wisdom Path|Wisdom Path]]** — os dois caminhos que deixam significado verdadeiro com muito mais
+  facilidade que os demais, porque um porta a verdade e o outro porta a vontade.
 - **[[07 - Refinement Path|Refinement Path]]** — a dupla exigida para as conquistas territoriais de maior nível.
 - **[[04 - Strength Path|Strength Path]]** — a amplificação universal é a forma mais barata de multiplicar um
   efeito simples, e força é o efeito mais simples que existe.
@@ -201,7 +257,10 @@ Os pares mais notáveis:
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho, e a arquitetura de sub-ramos.
-- [[12 - Wisdom Path|Wisdom Path]] — o outro caminho que deixa significado verdadeiro.
+- [[12 - Wisdom Path|Wisdom Path]] — o outro caminho que deixa significado verdadeiro com facilidade, e a
+  origem do caminho da emoção.
+- [[26 - Phantom Path|Phantom Path]] — o ramo mais desenvolvido deste caminho, e o único com nota própria.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da restrição e a árvore completa de derivação.
 - [[07 - Refinement Path|Refinement Path]] — o par exigido nas conquistas territoriais de maior nível.
 - [[17 - Heaven Path|Heaven Path]] — o problema que o criador deste caminho resolveu.
 - [[07 - Killer Moves|Killer Moves]] — como Gu de regra reforçam golpes de qualquer outro caminho.

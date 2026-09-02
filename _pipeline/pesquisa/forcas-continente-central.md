@@ -3,7 +3,7 @@ tags:
   - pesquisa
   - organizacao/seita
   - regiao/continente-central
-status: em-andamento
+status: concluido
 ---
 
 # Pesquisa bruta — Forças e organizações do Continente Central
@@ -730,7 +730,22 @@ spots to join the Refinement Path Convention automatically.**" — **cap. 829**
 human path methods**, at the crucial moment, immortal killer moves will protect us all" — **cap. 1717**. Sede da **final** da Convenção do Caminho de Refino
 (cap. 1707–1727), protegida por três linhas de casas de Gu imortais das seitas (cap. 1708).
 
-### 5.2 Divine Emperor City
+### 5.2 Divine Emperor City — **fora do recorte temporal**
+
+**CORREÇÃO ao Atlas.** `04 - Mundo/05 - Atlas das Cinco Regiões.md` lista *Divine Emperor City* entre os lugares do Continente
+Central como se fosse status quo. **Não é.** O nome aparece pela **primeira vez no cap. 1981** (Volume 6) e o total de ocorrências
+em toda a obra é 204, todas em V6. A cidade é uma **construção tardia**:
+
+> "**Divine Emperor City was created by combining Divine Bean Palace and Emperor City.** Isn't it stationary at the largest
+> gathering point of Central Continent's human vein?" — **cap. 2063**
+> "This Immortal Gu House is known as **the largest Immortal Gu House, it is made from combining Divine Bean Palace and Emperor
+> City**. It has a huge significance to Heavenly Court, it is the gathering spot of the human vein, **it is the land-based Heavenly
+> Court**." — **cap. 1981**
+
+**Decisão:** na nota final entra só como advertência de recorte, com o conteúdo descritivo preservado mas explicitamente marcado
+como estado posterior do mundo. Nada do enredo que produz essa fusão entra.
+
+#### O que ela é, quando existe
 
 Terra sagrada do **caminho humano**, dentro do território do Tribunal Celestial. É simultaneamente cidade habitada — "**All kinds of people lived in Divine
 Emperor City, there were even rank six Gu Immortals**" (cap. 2064) — e Casa de Gu Imortal: "**This Immortal Gu House contains countless people, it is filled

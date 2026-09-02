@@ -8,7 +8,7 @@ aliases:
   - Caminho
   - Caminhos de cultivo
 status: consolidado
-fontes: ["cap. 275", "cap. 292", "cap. 315", "cap. 320", "cap. 383", "cap. 687", "cap. 810", "cap. 937", "cap. 1226", "cap. 1323", "cap. 1326", "cap. 1425", "cap. 1502", "cap. 1787", "cap. 2086", "cap. 2177", "cap. 2203", "cap. 2240"]
+fontes: ["cap. 275", "cap. 292", "cap. 315", "cap. 320", "cap. 383", "cap. 570", "cap. 599", "cap. 687", "cap. 810", "cap. 937", "cap. 1014", "cap. 1226", "cap. 1323", "cap. 1326", "cap. 1333", "cap. 1340", "cap. 1425", "cap. 1502", "cap. 1649", "cap. 1787", "cap. 1869", "cap. 2028", "cap. 2086", "cap. 2177", "cap. 2203", "cap. 2204", "cap. 2240", "cap. 2328"]
 conhecimento: comum
 ---
 
@@ -396,9 +396,20 @@ dos aliados.
   de qualquer clã que acredite poder comprar o topo: existe exatamente **um** degrau que
   nenhuma riqueza alcança, e é o que separa quem domina o caminho de quem o expande.
 - **Que o [[19 - Dream Path|caminho dos sonhos]] ainda não existe formalmente** na era atual —
-  há um caminho inteiro deitado no chão esperando um fundador.
+  há um caminho inteiro deitado no chão esperando um fundador. E que **o caminho da matança
+  também não existe, mas por outro motivo**: um Venerável Demônio *tentou* fundá-lo, **falhou**, e
+  criou o [[10 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
+  [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 - **Que o [[17 - Heaven Path|caminho do céu]] é cultivável**, com o limiar de entrada mais alto
-  de todos. Nenhum dos dez Veneráveis o cultivou de verdade.
+  de todos. Nenhum dos dez Veneráveis o cultivou de verdade — e **o significado verdadeiro dele
+  nunca existiu**, o que faz dele o único caminho do mundo sem atalho de herança possível.
+- **Que fundar um caminho pode dar errado, mesmo para um Venerável.** Existe o registro de um
+  caminho criado por um dos dez que *não conseguiu alcançar a mudança qualitativa* e nunca virou um
+  caminho de verdade. Isso desmonta a ideia de que poder absoluto garante criar uma escola nova.
+- **Que existem caminhos sem marcas do Dao próprias**, cujo cultivo eleva o domínio do
+  caminho-mãe em vez do próprio. Saber isso permite identificar quais escolas do mundo são reais e
+  quais ainda são apenas conjuntos de técnicas — e é conhecimento que a maioria dos praticantes
+  daqueles caminhos não tem sobre si mesma.
 
 > [!note] Para o design
 > Três ideias diretamente aproveitáveis:

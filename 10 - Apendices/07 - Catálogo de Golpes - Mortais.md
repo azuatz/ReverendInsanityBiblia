@@ -407,6 +407,24 @@ Ver [[18 - Luck Path|Luck Path]].
 |---|---|---|---|---|
 | Luck Inspection | 1 a 9 — **o golpe existe em todos os níveis**, e o rank do Gu-núcleo define o dele | o luck inspection Gu como núcleo; o rank desse Gu limita o golpe | Inspeciona a sorte de um alvo, lendo-a como qi colorido — por exemplo, um qi azul-arroxeado indicando uma possibilidade favorável | **Híbrido, e o caso mais literal da regra**[^hibridos]: a mesma combinação existe do rank 1 ao rank 9, conforme o núcleo disponível. Um núcleo rank 6 só permite inspecionar a sorte de alvos até rank 7. **O usuário não consegue inspecionar a própria sorte.** Alvos com marcas de dao numerosas demais só permitem um vislumbre, e o esforço faz o usuário sangrar dos olhos e ficar temporariamente cego |
 
+## Caminho do sonho (*dream path*)
+
+O caminho mais novo do mundo, e por isso o de repertório mais curto — na época em que a
+obra se passa ele mal começou a florescer, e os Gu Imortais que o pesquisam ainda têm
+pouco a mostrar. Mesmo assim, o único golpe mortal registrado dele é uma das peças mais
+importantes de todo este catálogo, porque **quebra a hierarquia de rank**.
+
+> [!warning] O golpe mortal que faz o que nenhum golpe imortal faz
+> A obra é explícita: dentro de um reino de sonho, os golpes assassinos dos caminhos
+> antigos — **mesmo os de nível nove, mesmo Casas de Gu Imortal de rank nove** — são
+> "pedras atiradas no mar", não conseguem fazer nada. E aí vem um golpe **mortal** do
+> caminho do sonho e desfaz o reino inteiro. Não é exceção de enredo: é a regra de que
+> **contra um fenômeno de um caminho, o que vale é o caminho, não o rank**.
+
+| Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
+|---|---|---|---|---|
+| Break Dream | 1-5 (a obra o chama de golpe mortal) | — | **Destrói um reino de sonho.** O reino primeiro congela no lugar; depois, com um estalo de espelho se partindo, desmorona inteiro e se espalha em cacos. É o único método registrado no patamar mortal capaz de agir sobre um reino de sonho, e a obra usa exatamente este ponto para dizer que golpes de rank nove e Casas de Gu Imortal de rank nove nada conseguem ali dentro | **Não se aprende de qualquer jeito**: a criadora treinou quase um dia inteiro seguido, sob supervisão de um mestre de rank 8, até conseguir acionar o golpe pela primeira vez — e ela é descrita como um talento extraordinário do caminho do sonho, aprendendo muito mais rápido que o esperado. Nada é informado sobre alcance, tamanho máximo do reino desfeito ou custo por uso (—) |
+
 ## Golpes sem caminho declarado
 
 Estes golpes a obra nomeia sem nunca dizer a que caminho pertencem. Alguns claramente
@@ -430,6 +448,7 @@ caminho por palpite seria inventar em silêncio, e por isso eles ficam aqui.
 | Rolling Blade Meat | 1-5 (ded.; herança demoníaca) | rolling meat Gu (tipo movimento) + blade aura Gu | O usuário se converte numa bola de carne que rola sobre o alvo cercada de aura de lâmina; **quanto mais a velocidade de rolagem aumenta, maior a força de impacto** | Precisa de um corpo enorme para amplificar a força. Como acumula poder com o tempo, pode ser anulado se o impulso for interrompido logo no início; e enquanto rola, ativar Gu demais ao mesmo tempo satura a mente do usuário e a devolução do contra-choque falha |
 | Inflated Balloon | 1-5 (ded.) | — | — (a obra cita o nome sem descrever o efeito) | — |
 | Crane Crossing Neck | 1-5 (ded.) | — | — (a obra cita o nome sem descrever o efeito) | — |
+| Turtle House | 5 (ded., sete praticantes de rank 5 auge somados) | "dez ou mais tipos de Gu" combinados e **solidificados** — a obra usa este golpe para definir o que é uma Casa de Gu | **Golpe defensivo cooperativo de sete usuários**, e o marco fundador de uma categoria inteira do mundo: a obra o registra como **a primeira Casa de Gu da história**. Sete irmãos sétuplos, todos de rank 5 auge e todos especialistas em defesa, somavam suas forças neste golpe; com ele **aguentaram três ataques de um Gu Imortal**, façanha que ficou na história com o nome de "pacto dos três golpes". A partir dele a obra enuncia a definição geral: **Casas de Gu são golpes assassinos formados pela combinação e solidificação de dez ou mais tipos de Gu diferentes** — o que faz de toda Casa de Gu, tecnicamente, um golpe assassino solidificado | **Exige os sete ao mesmo tempo**, e os sete nasceram juntos e passaram a vida inteira juntos — o custo de coordenação é uma vida inteira de convívio, não um treino de campanha. Três ataques de um Gu Imortal foi o que ele aguentou; a obra não diz o que aconteceria no quarto (—) |
 
 ## Golpes mortais que a obra descreve mas não batiza
 

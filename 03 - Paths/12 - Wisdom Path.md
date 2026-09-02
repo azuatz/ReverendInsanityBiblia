@@ -4,7 +4,7 @@ tags:
 aliases:
   - Wisdom Path
 status: consolidado
-fontes: ["cap. 461", "cap. 467", "cap. 490", "cap. 492", "cap. 505", "cap. 513", "cap. 570", "cap. 580", "cap. 598", "cap. 601", "cap. 637", "cap. 652", "cap. 657", "cap. 711", "cap. 735", "cap. 780", "cap. 788", "cap. 793", "cap. 802", "cap. 810", "cap. 817", "cap. 830", "cap. 846", "cap. 899", "cap. 952", "cap. 984", "cap. 986", "cap. 1029", "cap. 1073", "cap. 1299", "cap. 1447", "cap. 1608", "cap. 1787"]
+fontes: ["cap. 461", "cap. 467", "cap. 490", "cap. 492", "cap. 505", "cap. 513", "cap. 570", "cap. 580", "cap. 598", "cap. 601", "cap. 637", "cap. 652", "cap. 657", "cap. 711", "cap. 735", "cap. 780", "cap. 788", "cap. 793", "cap. 802", "cap. 810", "cap. 817", "cap. 830", "cap. 846", "cap. 899", "cap. 952", "cap. 984", "cap. 986", "cap. 1029", "cap. 1073", "cap. 1299", "cap. 1447", "cap. 1608", "cap. 1649", "cap. 1787", "cap. 2028"]
 conhecimento: especializado
 ---
 
@@ -44,8 +44,32 @@ caminhos:
   separada do corpo.
 - **Vontades entrelaçadas formam uma emoção.**
 
-Do último degrau brota o caminho do encantamento; e a manipulação de emoções é tratada como
-sub-ramo deste caminho, não como escola independente.
+A obra sintetiza essa taxonomia numa frase que vale guardar: ==**o caminho da sabedoria tinha três
+elementos: pensamentos, vontades e emoções**==. E o terceiro elemento tem uma história própria — ver
+a seção seguinte.
+
+### O ramo que brotou daqui: o caminho da emoção
+
+`conhecimento: especializado`
+
+Cultivadores posteriores destacaram o **terceiro elemento** da taxonomia acima e construíram sobre
+ele uma escola inteira: *o **caminho da emoção**, derivado do caminho da sabedoria, especializado em
+usar **charme e emoção para influenciar os outros***. Dele, por sua vez, derivou o **caminho do
+encantamento**.
+
+E aqui está o fato que faz desta seção uma das mais importantes da pasta:
+
+> **O caminho do encantamento e da emoção nunca deixou o caminho da sabedoria. Não existem marcas do
+> Dao de encantamento e emoção neste mundo — só marcas do caminho da sabedoria.** Assim, meu domínio
+> no caminho da sabedoria cresceu.
+
+Ou seja: **quem cultiva emoção está subindo domínio na sabedoria sem saber.** É a demonstração
+canônica de que um ramo que não se separou do caminho-mãe **não tem leis próprias** — só técnicas.
+O mesmo vale para os ramos do [[16 - Rule Path|caminho da regra]].
+
+Isso dá ao caminho da sabedoria uma **porta de entrada lateral e barata**: um cultivador sem talento
+para dedução pura pode entrar pela emoção, que é concreta e social, e chegar ao mesmo lugar. Ver
+[[29 - Os Demais Caminhos#Caminho da emoção (*emotion path*)|Os Demais Caminhos]].
 
 Cada camada tem seus Gu próprios, e existe uma regra bonita de compatibilidade: **Gu de
 vontade devoram vontades do mesmo tipo**. Uma vontade hostil se alimenta de outras vontades
@@ -75,10 +99,8 @@ As regras que a cercam são precisas:
 - **Depende de fundamento e de evidências.** Nenhuma quantidade de luz deduz algo sobre um
   caminho que o usuário não estuda.
 - **Sessões têm teto** de cerca de sete dias contínuos — depois disso, a mente "ferve".
-  Curiosamente, é a erudição no **caminho do fogo** que regula essa resistência — um dos
-  caminhos menores que a obra cita de passagem e nunca desenvolve, e que por isso não tem
-  nota própria nesta pasta. Ver a nota de rodapé sobre caminhos não cobertos em
-  [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
+  Curiosamente, é a erudição no **caminho do fogo** que regula essa resistência — um dos doze
+  caminhos naturais tratados em [[27 - Os Caminhos Elementais|Os Caminhos Elementais]].
 - **Forçar além do próprio limite causa lesão mental real.**
 - **Vincula-se a uma pessoa**, e o vínculo exige que **corpo e alma** do usuário reconhecido
   estejam presentes **juntos**. Uma alma habitando outro corpo não o aciona.
@@ -180,8 +202,15 @@ Duas limitações que salvam o caminho de ser onipotente:
 - **[[10 - Soul Path|Soul Path]]** e **[[06 - Enslavement Path|Enslavement Path]]** — "quase da mesma origem"; todos operam sobre
   a vida interior.
 - **[[19 - Dream Path|Dream Path]]** — o principal substituto de acesso a sonhos vem daqui.
-- **[[16 - Rule Path|Rule Path]]** — os dois únicos caminhos que deixam "significado verdadeiro" como
-  herança.
+- **[[16 - Rule Path|Rule Path]]** — os dois caminhos que deixam "significado verdadeiro" com muito mais
+  facilidade que os demais: um porta a **verdade** de um conceito, o outro porta a **vontade**. Não
+  são os únicos que conseguem, mas os outros precisam **imitar estes dois** em grau alto para
+  conseguir.
+- **[[22 - Information Path|Information Path]]** — o par canônico, e a obra chega a perguntar
+  retoricamente por que os dois são os mais compatíveis que existem: um **busca** a informação, o
+  outro a **deduz**.
+- **[[21 - Formation Path|Formation Path]]** — a dupla operacional: a sabedoria deduz e modifica a
+  carta da formação, a formação a monta.
 
 **Sofre contra:**
 - **Ausência de informação.** Sem evidências, não há dedução. Ocultação de alto nível é o
@@ -231,3 +260,6 @@ Duas limitações que salvam o caminho de ser onipotente:
 - [[10 - Soul Path|Soul Path]] — a origem compartilhada.
 - [[19 - Dream Path|Dream Path]] — o acesso a sonhos por via dedutiva.
 - [[12 - Gu Imortais|Gu Imortais]] — a brecha de sabedoria que permite refinar Gu roubados.
+- [[22 - Information Path|Information Path]] — o par canônico: um busca, o outro deduz.
+- [[21 - Formation Path|Formation Path]] — a dupla que deduz e monta formações.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — os caminhos da emoção e do encantamento, ramos deste.

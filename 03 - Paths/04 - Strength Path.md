@@ -101,6 +101,8 @@ Investir só na primeira camada é desperdício. E há um limite físico duro po
 | Força do Urso Voador ⭐ | 6 | Chance de explodir num fantasma de urso divino |
 | Força Própria ⭐ | 6 | Núcleo do golpe da Mão Gigante |
 | Puxar Montanha ⭐ | 6 | Erguer montanhas — o ramo atmosférico em forma condensada |
+| Puxar Água ⭐ | 6 | Manipular correntes de água — rios, riachos. Também do ramo atmosférico, e **um Gu de dois caminhos** (ver o quadro abaixo) |
+| Puxar Água | mortal | A versão mortal do anterior, "muito abaixo" dele em potência — e ainda assim indispensável |
 | Senhor da Terra | 5 | Absorve força ilimitada da terra, amplificando outros Gu de força |
 | Esforço Total | 3 → 4 | Um fantasma replica o movimento do usuário com força amplificada; custo zero |
 | Qi de Força | 3 | Solidifica todos os fantasmas de uma vez, para ataque independente |
@@ -115,6 +117,30 @@ Investir só na primeira camada é desperdício. E há um limite físico duro po
 > assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[12 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
+
+> [!example] O Gu que pertence a dois caminhos — e as duas regras que ele ensina
+> O **Puxar Água** existe nas duas versões, mortal e imortal, e a obra usa esse par para estabelecer
+> duas regras que valem para o sistema inteiro. Vale ler devagar, porque as duas são
+> contraintuitivas.
+>
+> **(1) Ter a versão imortal não dispensa a versão mortal.** *Gu Imortais são únicos.* Se um
+> cultivador precisar de dois golpes imortais que usem o **mesmo** Gu Imortal ao mesmo tempo, ele
+> não consegue — existe um exemplar só no mundo. Com a **versão mortal**, ele pode usar *um grande
+> número de Gu mortais para substituir temporariamente o Gu Imortal dentro do golpe*. A conclusão
+> canônica: *ainda que um Gu Imortal possua a versão imortal de um certo Gu, isso **não significa
+> que ele não precise também da versão mortal***. É por isso que imortais continuam consumindo Gu
+> mortais aos milhares.
+>
+> **(2) O domínio que destranca a receita é o do caminho *secundário*, não o do principal.** O
+> Puxar Água é um Gu **do caminho da força**, mas *também é ligado ao caminho da água*. E a
+> consequência é dura: *durante todo esse tempo, ainda que ele fosse um **grão-mestre do caminho da
+> força**, ele **não conseguia deduzir a receita** do Puxar Água mortal*. Só quando seu domínio no
+> **caminho da água** chegou a grão-mestre ele passou a **detalhar a receita instintivamente, sem
+> nem precisar deduzi-la**.
+>
+> Numa mesa: um item híbrido é destrancado pela escola **menos óbvia** das duas. Ser o maior perito
+> do mundo na escola principal de um item pode não bastar — e descobrir qual é a segunda escola
+> vira, ele mesmo, um problema de investigação.
 
 ## Em combate e fora dele
 
@@ -196,3 +222,5 @@ deste caminho não deixam nada aproveitável no campo, o que é uma desvantagem 
 - [[06 - Enslavement Path|Enslavement Path]] — o par que produziu o golpe moderno mais forte deste caminho.
 - [[16 - Rule Path|Rule Path]] — a fonte de amplificação universal.
 - [[07 - Killer Moves|Killer Moves]] — os golpes citados aqui.
+- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o caminho da água, segundo caminho do Puxar Água.
+- [[20 - Qi Path|Qi Path]] — o caminho que forneceu à força o ataque à distância que lhe falta, e que compartilha com ela o destino de caminho deixado para trás pelas eras.

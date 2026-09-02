@@ -5,7 +5,7 @@ aliases:
   - Heaven Path
   - Unrestrained heavenly mark
 status: consolidado
-fontes: ["cap. 2008", "cap. 2020", "cap. 2037", "cap. 2048", "cap. 2052", "cap. 2058", "cap. 2105", "cap. 2107", "cap. 2109", "cap. 2120", "cap. 2121", "cap. 2129", "cap. 2133", "cap. 2134", "cap. 2135", "cap. 2140", "cap. 2166"]
+fontes: ["cap. 2008", "cap. 2020", "cap. 2037", "cap. 2048", "cap. 2052", "cap. 2058", "cap. 2105", "cap. 2107", "cap. 2109", "cap. 2120", "cap. 2121", "cap. 2129", "cap. 2133", "cap. 2134", "cap. 2135", "cap. 2025", "cap. 2028", "cap. 2140", "cap. 2166", "cap. 2203"]
 conhecimento: segredo
 ---
 
@@ -245,8 +245,17 @@ essência imortal de nível 8 dentro de uma grande formação de refinamento.
 - **Incompatibilidade com estruturas externas.** Formações, casas de Gu e golpes totêmicos não
   recebem o bônus.
 - **Impossibilidade de herança.** **Não existe "significado verdadeiro" do caminho do céu**
-  para ninguém herdar. O atalho que serve ao [[16 - Rule Path|Rule Path]] e ao [[12 - Wisdom Path|Wisdom Path]] não existe
-  aqui. Só a via dura das marcas.
+  para ninguém herdar, e a obra explica exatamente por quê: *ninguém consegue cultivar o caminho do
+  céu... Nenhum Gu Imortal conseguia cultivá-lo; portanto, **o significado verdadeiro do caminho do
+  céu nunca existiu!*** Nem mesmo a maior instituição do mundo, com as fundações mais profundas que
+  existem, *jamais viu nem ouviu falar dele*. O atalho que serve ao [[16 - Rule Path|Rule Path]] e ao
+  [[12 - Wisdom Path|Wisdom Path]] — e que, com esforço, serve a quase todos os outros caminhos —
+  **não existe aqui**. Só a via dura das marcas.
+  Os reinos de sonho deste caminho não fogem à regra: eles apenas *mantêm uma **conexão** próxima
+  entre a pessoa e o significado verdadeiro do céu*, e é essa conexão que precisa ser compreendida
+  para subir de domínio. Pior: dentro deles, *a vontade do céu e o significado verdadeiro do caminho
+  do céu estavam **entrelaçados**, e por isso eram difíceis de separar* — estudar o caminho e ser
+  observado pelo adversário são, aqui, a mesma operação.
 
 > [!note] Para o design
 > **Arquétipo entregue: o desafiante do céu.** Não é um arquétipo de combate — é uma

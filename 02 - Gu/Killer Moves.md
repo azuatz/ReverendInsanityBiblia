@@ -256,6 +256,33 @@ A distinção que mais importa aqui: **golpe é o que se carrega, formação é 
 constrói.** As duas usam os mesmos ingredientes — vários Gu empilhando efeitos — e diferem
 em onde os Gu ficam e em quem os sustenta.
 
+### A tabela acima descreve formas de uma coisa só
+
+`conhecimento: especializado`
+
+Vale desfazer uma impressão que a tabela pode deixar, porque a obra é explícita a respeito e
+o esclarecimento é um dos mais úteis do sistema inteiro: **uma casa de Gu é um golpe
+assassino solidificado**. Não é uma categoria vizinha nem uma tecnologia paralela — é a
+mesma coisa em outro estado da matéria, e a obra afirma que os dois são **mutuamente
+conversíveis**: todo golpe assassino pode, em princípio, ser convertido em casa de Gu.
+
+A diferença entre os dois estados é o **escopo**, e só. Um golpe age sobre uma pessoa; a
+mesma montagem, solidificada numa estrutura, age sobre muitas ao mesmo tempo e continua
+agindo sem que ninguém a esteja executando naquele instante. É por isso que uma casa de Gu
+pode ter função de ataque territorial, de ocultação, de defesa ou de armazenamento: ela
+herda a função do golpe que a originou.
+
+> [!note] Para o design
+> Isto resolve, de graça, um problema que quase todo sistema de magia enfrenta: a relação
+> entre **magia lançada** e **magia construída**. Aqui elas não são duas subsistemas com
+> regras separadas — são um recurso único com dois estados, e converter de um para o outro é
+> uma jogada disponível ao personagem.
+>
+> A consequência de mesa é imediata e boa: um grupo que domina um golpe assassino possui,
+> por definição, a planta de uma fortificação. Transformar a técnica de combate favorita do
+> personagem no coração da base dele é progressão narrativa e mecânica ao mesmo tempo — e o
+> custo do projeto é o que impede que aconteça cedo demais.
+
 ## Como se criam
 
 `conhecimento: especializado`

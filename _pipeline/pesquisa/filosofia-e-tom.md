@@ -1154,3 +1154,298 @@ personagens tratados com dignidade, não como covardes.]*
 não como hipocrisia. É o espelho exato da posição do protagonista, e recebe o mesmo peso
 emocional.]*
 
+---
+
+## Bloco 9 — O caminho demoníaco, a fundo
+
+*Bloco rico. Ver também o Bloco 3, que trata do eixo correto × demoníaco em termos de
+hipocrisia; aqui o foco é o que o caminho demoníaco **é** por dentro.*
+
+### ⚠️ Primeiro: não são dois lados, são TRÊS
+
+> "The five rank eight Gu Immortals in Northern Plains were noble existences that earned much reverence from people. Among them, Old Ancestor Xue Hu was the number one person in the demonic path [...] Yao Huang was the first supreme elder of Yao tribe, he was a rank eight of the righteous path. **Heavenly Lord Bai Zu and Five Elements Grandmaster were lone cultivators, they were neither righteous nor demonic, they were in the neutral faction.**"
+> — cap. 749
+
+*[Correção estrutural importantíssima: `lone cultivators` / `lone immortals` (cultivadores
+solitários) são uma **terceira facção nomeada e neutra**. A obra os lista rotineiramente
+como uma categoria à parte: "righteous path, demonic path, even lone immortals" (caps.
+1101, 1102, 1107, 1116...). Uma nota final que apresente só um eixo binário estaria
+errada.]*
+
+### A definição, dita pelo autor
+
+*A obra tem uma nota de autor explícita sobre o que é o caminho demoníaco:*
+
+> "(Author's note: **What is demonic path? A kind of path, that has its own ideology and beliefs. Towards what a demonic path is, everyone has their unique understanding towards it**, but to me, the footless bird embodied a kind of demonic spirit. **Demonic path is cruel, not only to others, but more towards oneself. Thus, it is not well liked by the masses.**)"
+> — cap. 227, nota do autor
+
+*[A definição autoral: crueldade **inclusive consigo mesmo**. Não é "quem faz o mal" — é
+quem não poupa nada, nem a si, na perseguição do próprio caminho.]*
+
+### A definição operacional, dita pelo próprio protagonista
+
+> "Ba Gui, you are wrong. **Demonic path members have a tough life, they are forced to take extreme means**, if they did not fight for the greatest benefits at every given opportunity, and did not take risks, how could they cultivate, how could they compete with the righteous path? **Greed, selfishness, extremity, and risk-taking; these are all laws of survival of the demonic path.** As long as the benefits are enough, so what if we have to walk on a tightrope? One wrong step leads to game over, making the impossible possible, that is the excitement of the demonic path! **The life of a demonic path member is like wine, intense and alluring.**"
+> — cap. 383
+
+*[Note o argumento: os métodos extremos são apresentados como **consequência da falta de
+recursos**, não como maldade de origem. Sem clã, sem apoio, sem herança — o risco é o
+único capital.]*
+
+### O critério real de classificação: reputação vs. força
+
+> "**Being in the righteous path, their biggest concern was reputation. Those with bad reputation would have a limited achievement in the righteous path. Demonic path was different, no matter what the reputation was, its main value was strength!** Thus, within the demonic path, there was the plague-like Hao Ji Liu, as opposed to the life-savior Tai Bai Yun Sheng."
+> — cap. 585
+
+*[Esta é a melhor formulação do critério: **o caminho correto é uma economia de
+reputação; o caminho demoníaco é uma economia de força pura.** A frase final é
+gramaticalmente ambígua no inglês — pode significar que os dois extremos (o "praga" e o
+"salvador de vidas") coexistem dentro do caminho demoníaco, ou pode contrastar um de cada
+lado. Não afirmar nenhuma das duas leituras sem verificação adicional.]*
+
+> "The righteous path and demonic path was different, **the demonic path acted freely while the righteous path talked about rules**."
+> — cap. 1223
+
+### Organização: solitários por estrutura, não por temperamento
+
+> "**Demonic Gu Masters were mostly lone cultivators, receiving no support from anyone, even primeval stones and food have to be acquired by themselves. Many times, they eat one meal without the next, unable to fend for themselves, how could they feel safe?**"
+> — cap. 280
+
+> "Righteous path was superior to demonic path, they were more united, and more easy to unite, **while demonic path members were loners**."
+> — cap. 392
+
+> "But demonic path Gu Immortals were loners, **they usually only considered their own interests, they did not want to expend too much of their own resources**, it was not worth it."
+> — cap. 801
+
+> "Although he had joined Snowy Mountain, this was only a loose alliance, **demonic path Gu Immortals were usually selfish and only cared about self interest, they were not as united as the righteous path**."
+> — cap. 691
+
+> "Although he Mo Wu Tian had rank five cultivation, he was still young and this was the first time he was leading, **he could not subdue everyone**. Old demonic experts like Kong Ri Tian and Li Fei Le would not listen to him easily. **Only when they realize that cooperating had benefits, could he use that chance to take over easily!**"
+> — cap. 392
+
+*[O mecanismo de liderança demoníaca: só benefício imediato produz obediência. Nem
+hierarquia, nem lealdade, nem sangue.]*
+
+**Mas há organizações demoníacas de verdade.** A obra nomeia várias:
+
+> "There is also **the number one demonic path force Snowy Mountain**, they sent six Gu Immortals"
+> — cap. 635 *(Snowy Mountain blessed land, Northern Plains)*
+
+> "He was also the creator of a demonic path organization, **it was called Painted Faces**."
+> — cap. 2095
+
+> "In his previous life, when Fang Yuan created **the Blood Wing demonic sect**..."
+> — cap. 165
+
+*[Outras organizações relevantes citadas: Shadow Sect, Zombie Alliance, Yi Tian Village.
+Ou seja: o caminho demoníaco **pode** se organizar; simplesmente é mais caro e mais
+instável fazê-lo.]*
+
+### Como eles se comportam entre si
+
+> "This matter has been made a big deal and the whole San Cha mountain knows about it. **This is no longer a matter of personal hatred but it represents the battle between the righteous path and us demonic path!** Actually, everyone is waiting for you. Lord, if you act, those Tie clan Gu Masters won't be able to block you. **You are our demonic path's genius, our demonic path's flag!**"
+> — cap. 352
+
+*[Existe identidade coletiva e orgulho de facção — eles se veem como um "nós".]*
+
+> "'Young master Wu Tian rules!' '**Defeat these righteous hypocrites!**' Demonic Gu Masters were riled up as they shouted."
+> — cap. 393
+
+> "He had become astute with age and had visited a lot of places. He liked holding feasts and entertaining all kinds of people. Sometimes, he also gave pointers to some newcomers and imparted some of his experience. **In the demonic path, he had the reputation of guiding the younger generation.**"
+> — cap. 367
+
+*[Há mentoria e prestígio dentro do caminho demoníaco. Não é anarquia total.]*
+
+> "Kong Ri Tian was not just in the demonic path, **he had the same 'hobbies' as them, they could be considered the same kind of people**."
+> — cap. 2099
+
+### Demoníacos com código próprio, lealdade ou palavra cumprida — sim, existem
+
+> "The inheritor of this inheritance was Ding Hao. He later went on to become Second Zombie King's eldest disciple, and **although he was of demonic path, he was very loyal**. Later in the battle between Righteous and Demonic on Yi Tian mountain, **he took the place of Second Zombie King of his own choice and died in the battle**."
+> — cap. 255
+
+> "Because Bai Xiang of the Heaven Surveying Five Xiangs is a demonic path Gu Immortal, you need to be very careful when doing this. According to the information my Shadow Sect has gathered, **Bai Xiang was a man of his word**, and hated people who went against his wish, and was extremely tyrannical in the way he did things. **Only Gu Immortals whose battle strength met his expectations could talk and associate with him.**"
+> — cap. 1194
+
+> "Good, **this person is a man of his word, even with such a huge temptation like a rank eight Immortal Gu in front of him, he still stands by his words**, he can be said to be extremely conceited. But only like this can the two of us have a chance of survival."
+> — cap. 1507
+
+> "**I, Song Zi Xing, will always take revenge**, when Tu Su City's Gu Immortals took what was mine, I murdered the entire city and people inside. Back then, you ambushed me, it is already my greatest kindness that I am not torturing you before killing you."
+> — cap. 848
+
+> "But **this person clearly distinguishes kindness and hatred. Kindness is repaid, and revenge is taken for hatred.** His biography after he died explained this point."
+> — cap. 991
+
+> "Although this Gu Yue Fang Zheng is ruthless, **he keeps his word**. Two hundred thousand, he has repaid most of it already."
+> — cap. 293
+
+> "**There existed two-faced hypocrites in the righteous path, and demonic path likewise was not without true heroes!**"
+> — cap. 591
+
+*[E o próprio protagonista é elogiado por ter limites, mesmo por um adversário:]*
+
+> "He felt that **although this Chang Shan Yin was ruthless, he did not strike at his family, but still maintained his righteousness and standpoint, he had his limits and was a true man**."
+> — cap. 530
+
+### Mas o código do protagonista, especificamente, é falso
+
+> "But Fang Yuan would definitely not keep his word! **In his eyes, such a thing like integrity, was only a compromise made out of necessity, or a beautiful cover-up, like a convincing mask.**"
+> — cap. 260
+
+> "**Fang Yuan does not even want to let the mortals off, evidently, he is a demon even in the demonic path, he had no bottom line or principles.**"
+> — cap. 1536
+
+*[⚠️ Crucial: o caminho demoníaco **tem** um `bottom line` reconhecido pelos próprios
+demoníacos, e o protagonista é considerado um monstro **para os padrões deles**. Não usar
+Fang Yuan como retrato típico do caminho demoníaco.]*
+
+### O que a sociedade faz concretamente com um demoníaco descoberto
+
+**Nível mortal — o mandado de captura (`arrest warrant`):**
+
+> "'All members take note, there is a new arrest warrant, there is a new arrest warrant!' [...] '**New arrest warrant? From which clan? How much bounty**, retrieve it for me.' [...] 'Oh, an arrest warrant from Bai clan. **As long as information is accurate, they will give a thousand primeval stones? So much!**'"
+> — cap. 234
+
+> "There were many arrest warrants posted on the city walls. Some had already yellowed from age and was covered by other warrants, revealing only a corner of them; and some were completely new posted carelessly on the walls."
+> — cap. 259
+
+> "**These arrest warrants were nothing more than superficial show.**"
+> — cap. 259
+
+> "**Which demonic lord did not have tens of arrest warrants on them? Fang Yuan had over a hundred in his previous life!** So what if the arrest warrants pile up?"
+> — cap. 271
+
+> "**The most ironic thing was, after he established the blood wing demonic sect in his previous life, and dominated a region, many clans took the initiative to remove the arrest warrant for him.**"
+> — cap. 271
+
+*[A regra do sistema, em uma frase: **força suficiente compra a própria legitimidade**. O
+mandado não é justiça, é um preço de mercado que deixa de valer a pena cobrar. Excelente
+gancho de design.]*
+
+> "Moreover, many people in arrest warrants are extremely vicious and cruel characters, attracting people's attention."
+> — cap. 234
+
+> "Tie clan is furious and has publicly proclaimed you as their enemy, **their arrest warrant for you has already spread over the Southern Border**."
+> — cap. 365
+
+**Nível imortal — o `Demon Judgment Board` do Heavenly Court:**
+
+> "**Every ten years, Heavenly Court would issue the Demon Judgment Board**, and many blood path Gu Masters would be on it."
+> — cap. 700
+
+> "Demon Judgment Board was a rank eight Immortal Gu House with a long history. [...] Blood relation Immortal Gu was rank eight, after Heavenly Court captured it, they added it to Demon Judgment Board. **This caused every single blood path cultivator in the world to be detected by Demon Judgment Board as long as they were not rank nine.**"
+> — cap. 1886
+
+> "Heavenly Court relied on the information from Demon Judgment Board to execute their plans and exterminate the budding blood path trend in Central Continent. Furthermore, **they passed the news from Demon Judgment Board to the other four regions, allowing their righteous path forces to deal with blood path more effectively.**"
+> — cap. 1886
+
+> "Other than that, many of the people on the Demon Judgment Board had been captured, **blood path demonic immortals were killed, while some other demonic path or lone immortals had less severe crimes, they were taken away by the ten great ancient sects and turned into slave Gu Immortals**."
+> — cap. 1218
+
+*[Duas penas distintas e explícitas: morte para o caminho de sangue; **escravidão** (`slave
+Gu Immortals`) para crimes menores. A "justiça" do caminho correto converte criminosos em
+mão de obra.]*
+
+> "Any blood path Gu Immortal would be detected by Heavenly Court and be listed on the Demon Judgment Board. **Blood path was very harmful, even demonic cultivators did not like them, everyone wanted to exterminate them.**"
+> — cap. 1058
+
+> "**Blood path Gu Masters were hunted down like rats, not only did the righteous path issue warrants to arrest them, even demonic path members were wary of them.** Only during the five regions chaotic war, when law and order broke down, could blood path emerge and prosper at a time when nobody could afford to care about them."
+> — cap. 734
+
+*[Existe portanto uma **gradação interna do mal** reconhecida por todos: o `blood path`
+é odiado até pelos demoníacos. O sistema não é "correto contra demoníaco", é uma escala.]*
+
+**Nível regional — a supressão organizada:**
+
+> "**Central Continent's righteous path was very prosperous, and the demonic cultivators were fiercely suppressed, to the extent that their situation was the most miserable among the demonic cultivators in the entirety of the five regions.**"
+> — cap. 959
+
+> "The ten great ancient sects of Central Continent held the vast majority of resources and authority, **controlling and suppressing other forces or lone cultivators**."
+> — cap. 1052
+
+> "Southern Border's forces sent their mortal experts to attack Yi Tian Mountain and exterminate the demonic path in order to defend the righteous path. **In Southern Border, there had been no demonic path power that was so brazen to create a force.** Thus, the righteous path was trying to take them down."
+> — cap. 1035
+
+> "**If I want to create a force, even if it starts to look bright, I will get exterminated from all sides.**"
+> — cap. 231
+
+*[A regra estrutural: o caminho demoníaco pode existir disperso, mas **é atacado no
+momento em que se institucionaliza**. É por isso que eles são solitários.]*
+
+> "Once we know which lone cultivators are ganging up, we will collaborate with the other nine sects and engage in **a wide scale immortal slaughtering plan**!"
+> — cap. 705
+
+> "Don't think you can continue to be arrogant, once your identities are exposed, we, the ten great ancient sects, **will make sure all of you lone cultivators and demonic cultivators are done for**."
+> — cap. 706
+
+> "Members of the demonic faction deserves to be brought to justice. As a member of the righteous faction, Ge tribe should help out, **but right now, we do not have the ability to do so**."
+> — cap. 470
+
+*[Nota de tom: a repressão é uma questão de **capacidade**, não de dever. Quando não há
+força, ninguém age.]*
+
+### Demoníacos respeitados, tolerados, até protegidos pelo caminho correto — sim
+
+> "Shang clan's foundation was in trading [...] **Deals could be made with anyone, it was the biggest connector of the righteous path, demonic path, and lone cultivators.**"
+> — cap. 1072
+
+> "The other super forces' battle stages were meant for their clansmen, while **Shang clan's battle stage could also take in demonic cultivators and lone cultivators**."
+> — cap. 1072
+
+> "even experts from the demonic path and lone cultivators were here. The elites of Southern Border were all gathered for this, it was a grand event."
+> — cap. 1072 *(demoníacos como convidados de honra numa cerimônia de super força do caminho correto)*
+
+> "**Other than abiding by no fighting or killing, any Gu Master could join the Refinement Path Convention, be they righteous or demonic, there were no limitations that barred demonic path Gu Masters.** [...] Precisely because of such freedom, the Refinement Path Convention was such a popular event."
+> — cap. 831
+
+> "Over these last years, Xiao Shan let these demonic path Gu Masters go, or roped them in if he could [...] **Occasionally, he even aided some lone cultivators or demonic cultivators financially. Thus, although he was a righteous path clan leader, he had obtained the approval of many Gu Masters of the demonic path.**"
+> — cap. 964
+
+> "It was because of this that **all the Gu Immortals participating in the gambling contest, be it righteous path, demonic path or lone cultivators, whether they had enmity or resentment, they all subconsciously worked together to maintain this unrivaled gambling contest.**"
+> — cap. 964
+
+> "**Zombie Alliance was in the righteous path**, even though the members came from everywhere and a large portion were from the demonic path, once they entered Zombie Alliance, **they would have to act like proper members of the righteous path and follow the rules**."
+> — cap. 891
+
+> "even though you do not have the Huang Jin bloodline, as long as you protect both Ma Hong Yun and Zhao Lian Yun, and hand them to Longevity Heaven, **we can make an exception and allow you to become our external supreme elder**! [...] **You will be in Northern Plains' righteous path and not demonic path. Not only will you no longer be wanted by anyone, all the Huang Jin tribes will welcome you.**"
+> — cap. 1283
+
+*[A filiação é **transacionável**. Um imortal demoníaco procurado vira membro do caminho
+correto por acordo político, e os mandados desaparecem. Isso confirma o Bloco 3: a
+distinção é de contrato público, não de natureza.]*
+
+> "This demonic path Gu Immortal was thin, he smiled as he said that, he was only rank six, but he had no fear when facing Fang Yuan. **'Senior, please wait, this resource point has already been occupied by me.'**"
+> — cap. 800
+
+### A diferença de método: o que um demoníaco faz que um correto não faz
+
+> "Fang Yuan used souls to refine Gu, this was **an evil and cruel act that would be despised by the righteous path**."
+> — cap. 831
+
+> "But this was a blood path killer move, **even if righteous path Gu Immortals get it, they could not use it, unless they betrayed the righteous path and went into the demonic path**."
+> — cap. 849
+
+> "**even the ten great ancient sects had to research blood path in secret and did not dare to publicly announce it**"
+> — cap. 710
+
+*[Detalhe delicioso: o caminho correto **pesquisa** os métodos proibidos — em segredo. A
+proibição é sobre publicidade, não sobre prática.]*
+
+> "The righteous path paid attention to reputation and face, **even if they took something by force, they would need a proper reason. They all needed to stand on the side of righteousness.**"
+> — cap. 1382
+
+> "**Demonic Gu Masters are all like this, they like to take risks.** Sigh, young man, do not be so extreme. In this world, why do you think the righteous path is blooming and suppressing the demonic path? **It is because demonic path is too extreme, too greedy, and likes to place themselves in danger. The righteous path pursues stability, slow and steady, unmovable like the mountain.**"
+> — cap. 383
+
+> "**Thus, demonic path Gu Immortals and lone immortals were very wary of their calamities and tribulations, they often calculated the cost of fighting, it was okay to fight over resources, but if the immortal essence expenditure was too high, they would not proceed with a losing deal!**"
+> — cap. 1106
+
+*[Mecânica concreta e ótima para design: sem uma organização por trás, o imortal
+solitário paga sozinho pelas próprias tribulações. Por isso ele calcula cada luta como um
+negócio, enquanto o membro de super força pode se dar ao luxo de lutar por honra.]*
+
+> "Joining these forces means losing freedom. Especially to foreign Gu Immortals like us, the monitoring and restrictions are much more strict. **Otherwise, why would there be so many lone cultivators?**"
+> — cap. 893
+
+*[O outro lado da moeda: o preço da proteção institucional é a liberdade. A escolha
+correto/demoníaco/solitário é, mecanicamente, uma **troca entre segurança e autonomia**.]*
+

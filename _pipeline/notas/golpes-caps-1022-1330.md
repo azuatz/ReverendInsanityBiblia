@@ -2,7 +2,7 @@
 tags:
   - pipeline/notas-brutas
   - golpe-assassino
-status: em-andamento
+status: concluido
 fontes: ["Volume 5 — caps. 1022–1330"]
 ---
 
@@ -114,3 +114,192 @@ traz `mortal (1–5)` ou `imortal (6–9)`.
 | Vajra Shell | imortal (6–9) | — | vajra thought Immortal Gu rank 6 (núcleo) | Ofensivo; criado tomando *Myriad Star Fireflies* como referência e depois casado com *Divination Tortoise Transformation* — vira o par de ataque da defesa da tartaruga | Núcleo só rank 6, então o golpe sozinho "não é poderoso o bastante"; o autor o considerou insatisfatório e seguiu melhorando; usado muitas vezes, é passível de ser restringido ou anulado | 1305, 1306, 1310, 1312, 1314 |
 | Saw Light Wheel | imortal (6–9) | luz (light) | — | Roda de luz serrilhada; num único acerto destruiu mais de **seis mil pensamentos** do alvo | Exige muito tempo de preparo — e quanto mais longo o preparo, mais fácil é ser interrompido, o que traz refluxo pesado; só foi acionado com segurança graças à regra de duelo amistoso em vigor | 1310 |
 | Thirty-three Heavenly Lights | imortal (6–9) | luz (light) (ded.) | — | Trinta e três lampejos sucessivos de luz | **O usuário precisa ficar completamente imóvel**: se se mexer nem que seja um pouco, o golpe para na hora. O refluxo escala com o quanto se avançou: parar antes do 10º lampejo = ferimentos leves; entre o 10º e o 23º = médios; depois do 23º = graves; depois do 30º = possivelmente fatais. Uma vez começado, não pode ser interrompido à toa | 1311 |
+
+## Observações de mecânica
+
+Regras gerais sobre golpes assassinos que a obra enuncia ao longo destes capítulos.
+Mesma convenção de confiabilidade: texto simples = a obra afirma; `(ded.)` = leitura nossa.
+
+### Composição e nível
+
+- Um golpe imortal se monta com **Gu Imortal(is) como núcleo e Gu mortais como
+  suplementares** — a mesma estrutura de uma formação de Gu imortal (caps. 1131, 1329).
+- Basta que **um** dos Gu componentes seja Imortal para o golpe inteiro subir de mortal
+  a imortal (cap. 1197).
+- Um único Gu Imortal, casado com conjuntos diferentes de Gu mortais, produz golpes
+  diferentes que cobrem ataque, defesa, movimento e cura (cap. 1082).
+- Como cada Gu Imortal é **único no mundo**, um Imortal só consegue manter um golpe por
+  vez com aquele Gu: se usa o defensivo, fica sem o ofensivo (caps. 1061, 1082).
+- Ter a versão Imortal de um Gu não dispensa ter as versões mortais: um monte de Gu
+  mortais pode substituir temporariamente o Gu Imortal dentro de um segundo golpe que
+  também o exija (cap. 1248).
+- Gu Imortais de caminho alheio rendem pouco por conflito de marcas do dao; sua utilidade
+  quase única é servir de Gu suplementar num golpe imortal (caps. 1077, 1273).
+- Golpes mortais recebem amplificação **limitada** das marcas do dao, porque não têm Gu
+  Imortal dentro — não conseguem exceder o efeito de um Gu Imortal. Em toda a história
+  humana só um golpe mortal ficou publicamente conhecido por igualar um Gu Imortal
+  (cap. 1041).
+- Um Gu Imortal rank 8 como núcleo produz efeitos incríveis (cap. 1130).
+- Existem **golpes conjuntos**: Imortais que cultivam juntos por muito tempo criam golpes
+  imortais compartilhados (cap. 1184). Há golpes "duplos" (*Wind Thunder Roar*, cap. 1178),
+  golpes que exigem três ativadores (*Blood Light Spirit Suppression*, cap. 1119) e três
+  Imortais que juntam luz numa carruagem veloz (cap. 1184).
+
+### Ativação: pensamento, tempo e falha
+
+- Ativar cada Gu worm gasta ao menos **um "pensamento"** (*thought*) do Imortal; ativar um
+  golpe imortal inteiro gasta **milhares ou dezenas de milhares** de pensamentos (cap. 1139).
+- Por isso Imortais de caminho da sabedoria conseguem usar golpes mais numerosos e mais
+  complexos que os dos outros caminhos (cap. 1139).
+- Não é verdade que quanto mais golpes ativos, melhor: a energia mental é o teto real
+  (cap. 1139). Manter quatro golpes simultâneos já consome quase todo o foco de um
+  grão-mestre, e Imortais menos hábeis mal sustentam um (caps. 1139, 1258).
+- **Quanto mais curto e simples o processo de ativação, maior a chance de sucesso e mais
+  seguro o golpe** (cap. 1313). Preparo longo é fácil de interromper (cap. 1310).
+- **Falha na ativação causa refluxo** (*backlash*) — sangue pela boca no mínimo. E
+  **quanto mais forte o golpe, pior o refluxo da falha** (caps. 1080, 1260, 1311).
+  Casos extremos registrados: um grão-mestre do caminho do raio virou zumbi imortal por
+  causa do refluxo de um golpe (cap. 1294), e outro Imortal ganhou uma segunda
+  personalidade como refluxo de um golpe que tentou usar (cap. 1307).
+- Distração no meio da montagem **interrompe** o golpe e obriga a recomeçar do zero
+  (cap. 1047). Em combate intenso a taxa de falha dispara (caps. 1055, 1262).
+- Golpes de centenas de Gu (um caso citado tem **490 Gu worms**) exigem concentração
+  contínua enquanto o usuário ainda se defende — montá-los em pleno combate é lento
+  e frágil (cap. 1046).
+- Quebrar à força o golpe alheio faz o dono sofrer refluxo (caps. 1255, 1309).
+- Efeito colateral cruel: sob um golpe que apaga memórias, o alvo **não deve usar golpes
+  imortais** — esquecer um no meio da ativação equivale a falhar, com todo o refluxo
+  correspondente; o correto é se defender só com Gu Imortais (cap. 1266).
+- Golpes ativos podem ser dissipados à vontade pelo usuário (caps. 1040, 1081).
+
+### Aura e sigilo
+
+- Ativar um Gu Imortal vaza aura; ativar um **golpe** imortal vaza uma aura muito mais
+  complexa, que denuncia composição e caminho (cap. 1041).
+- Por isso, na regra do mundo dos Imortais, golpes imortais **raramente são usados em
+  público**: treina-se em segredo, escondem-se os Gu Imortais, e não se mostra a própria
+  abertura imortal — o ambiente interno revela as marcas do dao e os recursos revelam a
+  dieta dos Gu, e daí se deduz o arsenal (cap. 1126).
+- Existem golpes raros que **não vazam nenhuma aura** — *Dark Assassination*, *Formless
+  Strength* (caps. 1043, 1163, 1288).
+- A aura denuncia mesmo sob disfarce perfeito: repetir a ativação de um golpe permitiu a
+  uma Imortal localizar alguém coberto por um disfarce rank 8 (cap. 1141).
+- Testar um golpe em desenvolvimento também vaza aura e não pode ser escondido (cap. 1288).
+
+### Golpes de campo de batalha (*battlefield killer moves*)
+
+- São a resposta a um problema estrutural: Imortais viajam milhares de li, então é fácil
+  derrotar um e **muito difícil matá-lo** — a menos que se tenha um golpe de campo imortal
+  para prendê-lo (cap. 1042).
+- Levam tempo para montar. Diante do inimigo é preciso montá-los em segredo; a alternativa
+  é montar antes e atrair a presa para dentro (cap. 1042).
+- Dentro de um, o preso pode ficar **sem conexão com o treasure yellow heaven** e portanto
+  sem como pedir reforços (cap. 1140).
+- Golpes de campo **imortais não podem ser guardados dentro da abertura imortal**: suas
+  marcas do dao chocam com as da abertura e causam dano. Os de nível **mortal** podem
+  (cap. 1054).
+- Não é privilégio de rank alto: um Imortal rank 6 pode possuir um golpe de campo imortal
+  como trunfo, e isso é considerado atípico (cap. 1209).
+- Marcas do dao densas o bastante podem criar "quase um estado de golpe de campo de
+  batalha" num lugar — mas marcas do dao não têm poder ofensivo (cap. 1188).
+
+### Criação, dedução e evolução
+
+- **Conceitualizar um golpe imortal é, em essência, o mesmo que criar uma receita de Gu
+  Imortal** (cap. 1240).
+- O custo normal: alguns **anos** de tentativa e erro por golpe (cap. 1081). Um Imortal
+  levou vários anos para concluir *Lightning Deity* (caps. 1240, 1314); outro passou três
+  anos projetando um único golpe (cap. 1041).
+- Com nível de domínio suficiente, **deduzir deixa de ser dedução e vira instinto**: o
+  entendimento dos Gu e dos conceitos do caminho se torna automático, e o golpe pode ser
+  melhorado de imediato, poupando tempo e recursos enormes (caps. 1240, 1314).
+- Experimentar é caro e perigoso: a falha fere o Imortal, destrói Gu mortais que precisam
+  ser repostos e pode **danificar Gu Imortais** — e como Gu Imortais são fragmentos do
+  Grande Dao, o refluxo neles é muito mais severo (caps. 1288, 1314).
+- Um golpe criado **não pode ficar parado**: precisa ser modificado e avançado com o tempo,
+  senão o inimigo o decifra, restringe ou anula por completo (caps. 1061, 1312).
+  *Peerless Crescent Moon Slash* é o exemplo oposto: gerações de Imortais o aprimoraram, e
+  é por isso que ficou famoso (cap. 1061).
+- Ter o trunfo decifrado é fatal: um Imortal perdeu o duelo e quase a vida porque o clã
+  rival estudou e quebrou seu golpe assinatura (caps. 1303, 1309, 1312).
+- **Golpes incompletos** existem e circulam: valem como material de pesquisa, como receitas
+  remanescentes, mas não podem ser usados diretamente (caps. 1039, 1131). Mesmo grandes
+  peritos morrem deixando golpes inacabados (cap. 1240).
+- Um golpe pode ser **escondido dentro de outros**: um perito quebrou um golpe de sangue em
+  vários golpes de refino aparentemente estragados por "modificações fracassadas"; só
+  removendo os passos supérfluos e recombinando as peças o golpe verdadeiro reaparece
+  (cap. 1117).
+- **Caminho da transformação é a exceção à regra do custo**: qualquer transformação bem
+  feita já é um golpe em si; seus golpes são simples, não exigem planejamento e são
+  fáceis de deduzir — motivo pelo qual é o caminho secundário recomendado para elevar
+  força de combate rápido, ao lado do caminho do sangue (caps. 1064, 1081, 1197, 1300).
+- **Nível grão-mestre** (*grandmaster*) = usar os Gu do caminho principal para **imitar os
+  efeitos de outro caminho** — *Hundred Years Harmony* usa Gu de tempo para produzir efeito
+  de informação (caps. 1146, 1326).
+- **Nível grão-mestre supremo** (*great grandmaster*) = desmontar e recombinar qualquer
+  golpe à vontade, inclusive desmontar um golpe de campo para usá-lo onde golpes de campo
+  são proibidos (cap. 1269).
+- Golpes podem ser **fundidos** entre si (cap. 1236) e um golpe novo pode ser embutido
+  dentro de um golpe existente (cap. 1300).
+- Golpes podem ser adquiridos por **busca de alma** (*soul search*): junto vem o insight de
+  treino do dono morto, o que não eleva o nível de domínio de quem aprendeu, mas dá um
+  atalho enorme — basta pouco treino para usá-los com facilidade (cap. 1040).
+- Golpes são **mercadoria**: comprados, vendidos, emprestados junto com o Gu Imortal
+  núcleo, dados de presente e trocados por recursos entre Imortais (caps. 1054, 1123,
+  1183, 1313).
+- Golpes podem usar **forças externas** como componente estrutural — fragmentos de estrela,
+  um rio inteiro (cap. 1287).
+- Todo golpe é em princípio contrariável: assim como todo ser vivo tem predador, uma
+  combinação de Gu sempre pode ser contrariada por outra (caps. 1071, 1154). Mas criar o
+  contra-golpe costuma exigir enfrentar o golpe várias vezes, familiarizar-se com ele e
+  passar por um longo período de dedução (cap. 1258).
+- Gu diferentes podem produzir **golpes semelhantes**: guardar segredo de um golpe não
+  impede que outro Imortal chegue ao mesmo efeito por outro caminho (cap. 1114).
+- Verdadeiras heranças costumam transmitir **receitas e golpes, mas não os Gu Imortais** —
+  alimentá-los é difícil demais para que sobrevivam entre gerações (cap. 1104).
+
+### Uso em combate
+
+- Sequência típica de um duelo entre Imortais: primeiro sondagem com **golpes mortais**,
+  depois **Gu Imortais**, depois **golpes imortais** (caps. 1042, 1196).
+- **Golpes consecutivos**: encadear dois ou mais golpes imortais do mesmo caminho para
+  obter um efeito final mais forte que a soma (cap. 1263).
+- **Golpe fatiado** (*split move*): dividir um golpe imortal em várias partes e acioná-las
+  ao longo da luta, para que o alvo não perceba a ativação nem consiga interferir ou fugir
+  (cap. 1263).
+- Quando um golpe de outro caminho atinge um Imortal, as marcas do dao da vítima primeiro
+  reduzem o poder do ataque. Mas quem acumula marcas de **muitos** caminhos encara o golpe
+  com força total — e se as marcas coincidirem com o caminho do golpe, o dano pode até ser
+  **amplificado** (cap. 1161).
+- As próprias marcas do dao amplificam os golpes do caminho correspondente sem interferência
+  — por isso um Venerável que se transformava em lobo-relâmpago usava golpes de raio sem
+  penalidade, e em caranguejo-do-pântano usava golpes de terra (cap. 1041).
+- Cura: ferimentos causados por Gu Imortais e golpes imortais carregam marcas do dao e não
+  cedem a métodos mortais de cura; e mesmo ao usar um golpe imortal de cura é preciso
+  conferir se as marcas do dao não conflitam (caps. 1097, 1098).
+- Bestas podem usar golpes imortais: um cão-águia ancestral acionou por instinto, no limiar
+  da morte, o golpe imortal que lhe era mais familiar numa vida anterior (cap. 1137), e um
+  furão gigante iluminado por um Venerável aprendeu a usá-los (cap. 1280).
+
+### Restrições ambientais
+
+- Dentro de uma **muralha regional** (*regional wall*), usar Gu ou golpes imortais faz a
+  abertura imortal do usuário **tremer e sofrer perdas** antes mesmo de o golpe atingir o
+  inimigo — cinco usos, cinco tremores e prejuízo pesado. Numa muralha de miasma, os golpes
+  ainda por cima são enfraquecidos pelo miasma (caps. 1216, 1253, 1257, 1259).
+- Dentro do **Rio de Fluxo Reverso** (*Reverse Flow River*) Gu worms não podem ser usados —
+  logo nenhum golpe imortal, que depende de Gu Imortais e mortais, funciona lá (cap. 1271).
+- Certos lugares amplificam o golpe em dezenas ou centenas de vezes — mas o gasto de
+  essência imortal sobe na **mesma proporção** (caps. 1158, 1161).
+
+### Economia do treino
+
+- Praticar golpes custa dinheiro de verdade: os Gu mortais suplementares precisam ser
+  comprados, e cada ensaio de um golpe imortal queima essência imortal — e ninguém ensaia
+  uma vez só (cap. 1131).
+- Um arsenal projetado para iniciante segue critérios próprios: o Heavenly Court escolheu
+  para uma novata golpes **poderosos mas fáceis de controlar**, com poucos Gu worms, passos
+  de ativação simples e refluxo brando em caso de falha (caps. 1234, 1262).
+- Mesmo assim, um oponente que emenda métodos sem parar impede a ativação repetidas vezes:
+  contra um veterano, o problema da novata não é o poder do golpe, é conseguir terminá-lo
+  (caps. 1262, 1263).

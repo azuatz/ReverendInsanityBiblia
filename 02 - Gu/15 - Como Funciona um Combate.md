@@ -181,24 +181,57 @@ saem daí, e juntas formam um sistema de iniciativa pronto:
 
 ### Preparação, recarga e interrupção
 
-Três mecanismos completam o turno e são os mais aproveitáveis:
+Quatro mecanismos completam o turno, e são os mais aproveitáveis de toda a nota.
 
-**Recarga.** Gu têm tempo de recarga (*cooldown*), e a obra o mede em respirações. O caso
-documentado é de um lutador que administrava **três respirações de intervalo** entre dois Gu
-de movimento de modo a **sempre ter um disponível** — ou seja, a alternância de recargas é
-uma técnica consciente, não um detalhe de ficha.
+**A ordem mental é instantânea; a montagem não.** A obra é explícita: a velocidade com que uma
+pessoa emite um pensamento é a de um raio — "um piscar de olhos não alcança um por cento
+dela". Como Gu se acionam por pensamento, o **comando** não custa tempo. O que custa tempo é
+articular vários Gu numa sequência coreografada. É por isso que um Gu solto dispara na hora e
+um golpe combinado, não.
 
-**Preparação.** Golpes grandes exigem tempo e, muitas vezes, **imobilidade** — qualquer
-movimento interrompe. É a troca central do mundo entre golpe e formação, que a obra enuncia
-diretamente: uma [[08 - Formações de Gu|formação]] **não pode ser ativada instantaneamente** e é inflexível em batalha
-intensa, mas, uma vez ativada, costuma ser **mais rápida que um golpe imortal** e gastar menos
-recurso. Já um golpe imortal ativa **instantaneamente**. Montagem lenta contra execução
-rápida: escolha-se uma.
+**Todo golpe combinado precisa de tempo de preparo.** A obra enuncia isso como regra geral,
+sem exceção declarada, e dá números: há um golpe que só produz efeito **depois de dez
+respirações**. Duas consequências que a obra também afirma: **familiaridade não elimina o tempo
+de carga** — só reengenharia do próprio golpe elimina —, e alguns golpes são tão lentos que
+**deixam de ser usáveis em combate real** e só servem para trabalho de bastidor.
 
-**Interrupção.** Interromper um golpe em preparação causa dano a quem o preparava, e — este é
-o detalhe que inverte a intuição — **o dano escala com o quanto o golpe já avançou**.
+**Recarga.** Gu têm tempo de recarga (*cooldown*), medido em respirações. O caso documentado é
+de um lutador que administrava **três respirações de intervalo** entre dois Gu de movimento de
+modo a **sempre ter um disponível** — e o resultado registrado é que o adversário "não
+conseguiu sequer tocar na roupa dele". A alternância de recargas é uma técnica consciente, não
+um detalhe de ficha. Golpes com múltiplos disparos também recarregam entre um disparo e outro,
+e essa janela é uma fraqueza que um bom adversário identifica e usa.
+
+**Golpe pontual contra golpe sustentado.** A obra distingue formalmente os dois. Um golpe
+pontual é usado, dura um tempo e acaba; um golpe sustentado é **canalizado**, e quem canaliza
+paga três preços simultâneos: essência que escorre enquanto o efeito estiver ligado, atenção
+que não pode ir para outro lugar — a obra registra alguém que "estava mantendo os golpes e não
+teve tempo de desviar" — e, em alguns casos, **um custo que cresce a cada instante** (há um
+golpe de transformação que acumula traços animais no usuário quanto mais tempo fica ligado, e
+cujo desligamento devolve a velocidade perdida ao inimigo). Daí uma tática que a obra mostra
+sendo verbalizada em combate: **não vencer, só forçar o outro a sustentar**, e esperar.
+Canalizar também costuma **imobilizar**; aperfeiçoar o golpe é o que remove a imobilização.
+
+**Interrupção — a mecânica mais rica do combate.** Ela funciona em duas frentes.
+
+A primeira é o *backlash*: interromper um golpe em preparação fere quem o preparava, e — este
+é o detalhe que inverte a intuição — **o dano escala com o quanto o golpe já avançou**.
 Interromper cedo poupa o adversário; interromper tarde pode matá-lo. A escala completa, com os
 quatro patamares de gravidade, está em [[07 - Killer Moves#Backlash: o que acontece quando dá errado|Killer Moves]].
+
+A segunda é a *negação*, e é a que decide mais lutas: **ativar um golpe consome a atenção
+inteira de quem o ativa**, e por isso qualquer coisa que quebre a concentração naquele
+instante — mesmo por um piscar — faz o golpe falhar. A obra generaliza isso numa doutrina de
+combate: manter pressão contínua sobre o adversário **nega a ele a janela para ativar
+qualquer coisa**. Há registro de um exército inteiro cuja técnica mais famosa nunca chegou a
+ser usada, porque o outro lado tomou a iniciativa e nunca deu a folga necessária para montá-la.
+
+> [!note] Para o design
+> Estas quatro regras, juntas, já são um sistema de combate: **comando instantâneo, montagem
+> lenta, recarga contável, e uma janela de vulnerabilidade durante a ativação**. Elas produzem
+> o padrão que faz este cenário parecer ele mesmo: ninguém dispara o trunfo quando quer,
+> dispara quando **compra** o intervalo — com um aliado segurando, com um terreno, com uma
+> mentira. "Comprar tempo" é uma ação de mesa que este sistema recompensa sozinho.
 
 ## Alcance, posição e terreno
 
@@ -383,3 +416,122 @@ de patamar altíssimo. E então mostra as três maneiras de vencê-la:
 > sempre situacional — alguém está inexpugnável *naquela circunstância*, com *aquele* golpe,
 > contra *aqueles* atacantes. A máxima do mundo, dita com todas as letras, é a oposta: **"a
 > melhor defesa é o ataque."**
+
+## Como uma luta é decidida
+
+Esta é a seção que justifica a nota. Se houver uma única coisa a levar deste cenário para uma
+mesa, é a lista abaixo — porque neste mundo **rank não é força de combate**, e a obra tem
+palavra própria para a diferença.
+
+### "Força de combate" é uma medida separada do rank
+
+A obra usa o termo ==força de combate (battle strength)== o tempo todo, e sempre em comparação
+com um rank: uma fera tem "força de combate equivalente a um Mestre Gu de rank 5"; um
+cultivador de rank 4 no pico "possui força de combate comparável à de um rank 5"; um golpe
+específico faz alguém "superar Mestres Gu de rank 5 por um curto período". Ou seja: **rank é o
+que você é; força de combate é o que você consegue fazer hoje**, e as duas coisas se descolam.
+
+O que descola uma da outra são seis vias, e cada uma delas é uma alavanca de design.
+
+E a obra chega a **listar do que a força de combate é feita**. São cinco eixos, e o rank de
+cultivo não é nenhum deles — ele entra apenas indiretamente, como tamanho da reserva:
+
+1. os **atributos físicos** do corpo;
+2. a **proficiência em combate corporal**;
+3. a **essência primordial** guardada na abertura;
+4. a **experiência de batalha**;
+5. **cada Gu** que a pessoa carrega.
+
+A frase que fecha a lista é a tese desta nota inteira: *só reunindo todos esses elementos
+firmemente é que se exerce a maior força de combate possível.*
+
+
+### As seis vias de vitória
+
+**1. Superioridade de rank.** A mais direta e a menos interessante — e, ainda assim, a que
+mais decide. Quando a diferença é grande, a luta acaba num golpe: a obra registra um rank 4 no
+estágio superior que "não aguentou sequer um golpe". A próxima seção detalha o quanto vale
+cada degrau.
+
+**2. Arsenal.** A obra é explícita ao diagnosticar por que alguém perde estando no mesmo rank:
+falta de Gu fortes. Ela chega a **contar os bichos** — um lado com dois Gu de batalha contra
+adversários "com pelo menos três, e ainda com trunfos escondidos" — e a enunciar a regra em
+provérbio: *uma mulher não cozinha sem arroz*. **Experiência sem arsenal não vira vitória.** No
+sentido inverso, trocar Gu de rank 3 por Gu de rank 4 vale, sozinho, um a dois sub-estágios de
+vantagem — é a compra de poder mais eficiente do mundo mortal.
+
+Duas notas de precisão sobre arsenal, porque elas contrariam a intuição:
+
+- **O Gu certo vale mais que o Gu forte.** No rank 1, a lâmina de luar custa 10% da reserva por
+  disparo, e a obra conclui friamente que "o fator aterrorizante dela é maior que a letalidade":
+  para um rank 1, a habilidade realmente útil é **luta corporal**, porque é durável e confiável.
+  Custo por uso é uma estatística de combate de primeira ordem.
+- **Ficar sem resposta é uma condição de derrota.** A obra descreve combatentes que perdem "não
+  por serem fracos, mas porque só conseguiam receber ataques sem contra-atacar". E o inverso é
+  legível de fora: *"ela está usando a mesma habilidade de novo — ficou sem truques."*
+
+**3. Informação e preparação.** A via mais característica do cenário, e a que o texto mais
+gosta de explicar. Ela funciona de três maneiras:
+
+- **Ler a ficha do adversário antes de lutar.** A obra registra um raciocínio completo de
+  engenharia reversa que é, na prática, um procedimento de mesa: da ousadia do sujeito deduz-se
+  o rank mínimo; de onde ele consegue viver deduz-se o rank; do tempo que levou para subir
+  deduz-se o **grau de aptidão**; do grau de aptidão mais o rank estima-se a **reserva de
+  essência em porcentagem**; e de ter sobrevivido sob vigilância deduz-se que ele tem um Gu de
+  furtividade. Sem nenhum Gu investigativo — só com conhecimento de mundo.
+- **Contar os usos que restam.** O padrão narrativo do combate na obra é aritmético: *"pelas
+  estatísticas anteriores, ele consegue usar aquele golpe cinco vezes por luta em média"*;
+  *"minha defesa não é boa contra corpo a corpo e vai quebrar com mais um ou dois ataques"*. É
+  quando essa conta fecha em derrota que o personagem **muda de tática** — e a mudança de
+  tática é o clímax, não o golpe.
+- **Desinformar ativamente.** Expor uma fraqueza falsa de propósito, "dar ao inimigo um cabo
+  para segurar", é descrito como o modo de roubar a iniciativa quando se está em desvantagem.
+
+> [!warning] A economia do segredo
+> Neste mundo, **revelar é gastar**. A obra afirma que quanto mais alguém luta e vence, mais
+> trunfos revela e mais vulnerável fica; que trabalhar às claras expõe os trunfos e torna a
+> pessoa fácil de armadilhar, enquanto trabalhar em segredo impede que os outros avaliem sua
+> situação. Um Gu desconhecido é quase imbatível até o mundo aprender a respondê-lo — e um
+> caminho **novo** "não tem contramedida neste mundo", que é a vantagem estrutural de inventar.
+> Informação é um recurso **consumível**: gasta-se ao ser usado.
+
+**4. Terreno.** Já tratado acima como camada; aqui como via de vitória. A obra dá o caso puro:
+uma montanha "de perigo natural, fácil de defender, que nenhum número de atacantes consegue
+tomar à força", e que por isso sustentou um senhor regional inteiro. E dá o caso construído,
+que é melhor: uma tribo que ergueu **três muralhas de terra** e cavou **canais de água para
+partir a matilha em segmentos**, impedindo que ela cercasse os defensores. Terreno é
+fabricável. E, por ser um recurso, é atacável: destruir a vantagem de terreno do adversário é
+um lance de abertura legítimo.
+
+**5. Número.** Aqui a obra é mais precisa do que o gênero costuma ser, e vale isolar a regra:
+**número não mata; número esvazia.** A tática declarada para tomar uma posição fortificada é
+juntar cultivadores suficientes para criar vantagem numérica e então **competir pelo gasto de
+essência** até que a reserva do defensor acabe — só então se ataca de verdade. Criaturas
+descartáveis existem no mercado com essa função explícita: "servem para esgotar as reservas do
+inimigo pela vantagem numérica".
+
+**6. Desgaste de essência.** A via que a obra enuncia como lei: *Mestres Gu não são bons em
+batalhas prolongadas, e uma vez esgotada a essência primordial, a força de combate cai
+abruptamente.* Ela aparece já no primeiro torneio escolar do livro, com uma frase que é a
+melhor definição de combate deste mundo: como quase todos escolhem o mesmo Gu de ataque, a
+luta começa com os dois disparando lâminas, e **"quem gastar a essência primeiro, perde"**.
+
+Três refinamentos que tornam a sexta via jogável:
+
+- **Compare os custos por ação, não o dano.** O monólogo de cálculo mais limpo da obra é o de
+  alguém que percebe que perdeu porque gastou a própria essência enquanto o adversário
+  **comandava aves para lutar em seu lugar** — quem luta por procuração gasta menos e ganha o
+  jogo de atrito.
+- **Curar também custa.** Há registro de um ferido que, com a reserva baixa, "só pôde curar as
+  áreas importantes". Triagem de ferimentos é uma decisão de orçamento.
+- **A reposição também decide.** Uma taxa de recuperação excepcional permite curar os próprios
+  ferimentos *durante* a pausa e voltar inteiro. As taxas por grau de aptidão estão nas
+  [[02 - Tabelas de Referência Rápida#14.1 Reposição|Tabelas de Referência Rápida]].
+
+> [!example] Caso mecânico
+> A obra registra uma vitória sobre um adversário de rank superior explicada pelo próprio
+> vencedor, e ela não menciona força uma única vez. Os três fatores foram: **o inimigo o
+> subestimou** e o perseguiu; ele **usou o terreno especial** de uma cordilheira; e ele usou um
+> **golpe de disfarce** antes do golpe final. A moldura da passagem é ainda mais reveladora —
+> "batalhas são perigosas e aterrorizantes" —, ou seja, o mundo considera matar em combate um
+> método **pouco confiável** de obter alguma coisa.

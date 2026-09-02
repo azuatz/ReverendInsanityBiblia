@@ -14,7 +14,7 @@ conhecimento: comum
 
 # Mar Oriental
 
-**Em uma frase:** o Mar Oriental é ==a região mais rica do mundo e a única sem dono== — um
+**Em uma frase:** o Mar Oriental é ==a região mais rica do mundo e a mais sem dono== — um
 arquipélago onde o território é água, a água pertence a **pessoas** e não a organizações, e
 onde mais imortais de topo vivem do que em qualquer outro lugar, sem que nenhum deles mande
 em ninguém.
@@ -27,8 +27,9 @@ em ninguém.
 > - **`—`** — a obra não informa, e nada foi preenchido.
 >
 > **Apagar tudo que estiver marcado com `*` devolve este documento a cem por cento
-> canônico.** Nesta nota o `*` é raríssimo: o Mar Oriental é uma das regiões mais bem
-> documentadas da obra no andar imortal.
+> canônico.** Nesta nota **não há nenhum `*`**: o Mar Oriental é uma das regiões mais bem
+> documentadas da obra no andar imortal, e nada precisou ser inventado. O que falta está
+> declarado com `—`, e há bastante.
 
 > [!warning] Duas armadilhas de nome, antes de começar
 > A obra tem **dois clãs Xia** (um no Mar Oriental, outro na Fronteira Sul) e **dois clãs

@@ -6,6 +6,11 @@ Arquivos auditados: `10 - Apendices/07 - Catálogo de Golpes - Mortais.md` e
 Estado inicial: 90 golpes mortais em 22 caminhos, 580 imortais em 35 caminhos,
 677 nomes distintos somando os dois arquivos.
 
+Estado final: **92 golpes mortais em 23 caminhos** e **608 imortais em 37 seções**, com
+5 correções de composição ou caminho, 12 rótulos resolvidos ou enriquecidos, 8 fichas
+vagas reescritas com mecânica canônica e 2 categorias novas de golpe. Os rótulos que
+sobraram caíram de 31 declarados para **17 verificados um a um**.
+
 ## Método
 
 1. **Varredura de nomes.** Quatro famílias de expressão regular sobre os seis volumes,
@@ -36,7 +41,7 @@ Estado inicial: 90 golpes mortais em 22 caminhos, 580 imortais em 35 caminhos,
 
 ## Golpes acrescentados
 
-31 golpes novos: 28 no catálogo imortal, 3 no mortal.
+30 golpes novos: 28 no catálogo imortal, 2 no mortal.
 
 ### Catálogo imortal
 
@@ -76,7 +81,6 @@ Estado inicial: 90 golpes mortais em 22 caminhos, 580 imortais em 35 caminhos,
 | Golpe | Caminho | Capítulo(s) |
 |---|---|---|
 | Break Dream | sonho | 1611 |
-| Limitless Search and Lock | caminho não nomeado (cooperativo, 4 usuários) | 362 |
 | Turtle House | caminho não nomeado (cooperativo, 7 usuários) | 568, 1754 |
 
 Notas de peso sobre três deles:
@@ -134,7 +138,7 @@ e não explica:
 | Hidden Dragon Qi Explosion | 1 | Só o nome, num inventário de sistema de combate |
 | Heavenly Combat Cloak | 2 | As duas da mesma cena; papel defensivo confirmado, forma e duração ausentes |
 | Shattered Ice Armor | 1 | Caminho confirmado, efeito ausente |
-| Snow Avalanche | 1 | Caminho pelo nome; efeito ausente |
+| Snow Avalanche | 1 | Caminho pelo nome; efeito ausente. A salva foi disparada pelo grupo de Ice Crystal Immortal Monarch, e o comandante deles repreendeu os próprios subordinados por ela: golpes disparados juntos se anulam, metade se perdeu e só cerca de trinta por cento chegou ao inimigo |
 | Crashing Rock Slide | 1 | Idem |
 | Great Earth Collapse | 1 | Idem |
 | Heavy Soil Comeback | 1 | Contexto resolvido, efeito próprio ausente |
@@ -143,6 +147,7 @@ e não explica:
 | Heaven and Earth Blade | 2 | A ativação foi interrompida antes de qualquer efeito |
 | Three Winged Green Bird | 1 | Efeito próprio ausente; o modelo que ele imita, porém, está descrito |
 | Multi-layered Five Poisons | 1 | Novo no catálogo, e já entra como rótulo |
+| Golden Heavenly Saint | 2 | Novo no catálogo. A obra só informa que era a formação de batalha antiga número um do mundo |
 | Heartache Crying Blood | 2 | Já verificado em leva anterior; mantido |
 | Thunder Note Stream | 2 | Já verificado em leva anterior; mantido |
 
@@ -162,6 +167,8 @@ explícita para a designer preencher sem contradizer o cânone.
 | `falling star rod transformation` | Grafia curta de *Falling Star Rod Tree Transformation*, já catalogado |
 | `mountain suppression`, `one step back` | Já catalogados (o segundo sob o nome completo *One Step Back, Sea and Sky Expands*) |
 | `fixed luck` como Gu | O nome coincide com um título de capítulo; verificado que a obra o chama explicitamente de "immortal killer move, fixed luck" |
+| `limitless search and lock` | **Já estava catalogado**, sob o nome com que a obra o anuncia em cena: *Infinite Search and Lock*. "Limitless" é a grafia alternativa que aparece uma vez, e a ficha existente já a registra como sinônimo. O cruzamento automático não o pegou porque as duas palavras não se parecem |
+| `dark flow giant city` como golpe | Ver acima: é Casa de Gu Imortal. Vale, porém, um registro de mecânica que saiu da cena: aquela Casa **operava um golpe de campo de batalha próprio**, que despejava ondas sucessivas de bandos de feras desoladas sobre quem entrasse, até o estoque acabar |
 | ~200 capturas gramaticais | O regex captura o início da oração seguinte quando o nome do golpe não termina em pontuação forte ("was activated", "in essence", "otherwise", "but now"). Descartadas por filtro de palavras funcionais e conferência visual |
 
 ## Correções de caminho e de composição
@@ -194,6 +201,23 @@ aura de lâmina do outro para proteger um mesmo trecho do Rio do Tempo.
   de várias pessoas.
 - 🔗 **composto** não foi acrescentado a nenhum golpe novo: nenhum dos 31 recebeu da obra
   a declaração de dois caminhos principais.
+
+## Mecanismo acrescentado a entradas que eram vagas
+
+Terceira frente da auditoria: passar pelas fichas que traziam só um rótulo de função
+("cura", "movimento", "defensivo") e devolvê-las com o que um mestre precisa para rodar o
+golpe na mesa — o que faz, quanto, em quem, a que custo, com que limite.
+
+| Golpe | O que entrou | Onde estava |
+|---|---|---|
+| **Myriad Self — First Style — Giant Hand** | A aritmética exata: **cada mão consome a força de vinte mil fantasmas** e é canalizada por **um** braço do usuário, logo **uma mão por braço** — e o corpo de oito braços dele permite oito mãos. O teto de vinte mil não é de essência, é **de corpo**: mais que isso quebraria o braço antes de o ataque sair. A pegada tem força enorme e **dano baixo** (mil bestas agarradas, algumas dezenas mortas). E há uma imunidade: **quem vira intangível escapa da mão fechada** e volta intacto quando ela abre | cap. 782, 785, 786 |
+| **Steal Life** | A razão de existir do golpe: o **Gu Imortal sozinho não distingue aliado de inimigo**, e o golpe foi deduzido para mirar só o inimigo. É o caso mais claro do catálogo de golpe criado para dar **precisão de alvo**, não potência. Mais: o limite de três usos foi **tentado e não pôde ser removido** nem por um herdeiro de proficiência altíssima; e existe **imunidade canônica** — quem trocou tempo de vida por força de forma contínua não é afetado, porque nele nenhum método de tempo de vida funciona | cap. 1759, 1836, 1837 |
+| **Heavenly Dragon's Last Stand** | O outro lado da mesma cena: a maldição de bloquear todo método de tempo de vida vira **imunidade a golpes que roubam vida** — o golpe que mata rank 8 acertou em cheio e não fez nada | cap. 1837 |
+| **Blood Torrent** | Ativação passo a passo (centenas de Gu mortais em círculo, o Gu Imortal aquecendo no peito, a torrente de sangue subindo e carregando o usuário) e a explicação aritmética da lentidão em reta: **núcleo rank 6 contra núcleo rank 7, e acrescentar Gu mortais não fecha a diferença**. Mais a tática de alternar dois métodos de fuga de caminhos diferentes, que **só funciona para quem tem marcas de dao que não brigam entre si** | cap. 1061 |
+| **Blood Healing Lake** | O trio de golpes sobre o mesmo Gu Imortal foi montado de propósito para cobrir **ataque, cura e movimento**, e a obra enuncia ali mesmo a regra "um Gu Imortal, um golpe por vez": o dono considerou criar mais golpes de sangue e desistiu, porque nunca poderia usar dois ao mesmo tempo | cap. 1061 |
+| **Snow Avalanche**, **Crashing Rock Slide**, **Great Earth Collapse** | A salva de cinco golpes ganhou nome e lição: o comandante do grupo repreendeu os próprios subordinados porque **golpes simultâneos se anulam** — metade da força se perdeu, só trinta por cento chegou —, e mandou cada um escolher alvo individual. Regra de combate em grupo, não anedota | cap. 2157 |
+| **Thought Body Defense**, **Single Thought Myriad Flow Elimination** | Requisito canônico de uso: **só quem tem proficiência de grão-mestre no caminho da sabedoria está qualificado a modificá-los**, e mesmo assim é preciso treinar até a ativação sair certa | cap. 1463, 1465 |
+| **Heavenly Combat Cloak** | Confirmação de que **cumpriu a função**: derreteu sob o ataque e mesmo assim bloqueou. Defesa consumida por ataque bloqueado | cap. 2033 |
 
 ## Decisões tomadas
 

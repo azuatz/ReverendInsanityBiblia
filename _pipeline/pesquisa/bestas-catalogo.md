@@ -467,3 +467,35 @@ crescent lake, Fei Hou mountain, Bai Hu mountain.
 **Falsos positivos de regex:** "judgment boar", "merit boar", "mission boar", "chess
 boar", "resource boar", "exchange boar" — todos são **"board"** (quadro de méritos,
 quadro de missões, tabuleiro), cortados pela busca sem `\b` no final.
+
+## Negativas verificadas no texto-fonte (não em wiki)
+
+- **"moon blade bird" não existe na obra.** `grep -i "moon blade bird"` e
+  `grep -i "blade bird"` retornam **zero** nos seis volumes. O que existe é o golpe
+  *moon blade / moonblade* (rank 1) e a "moon blade wheel" (c677). O nome citado no
+  briefing como exemplo de grafia minúscula não corresponde a criatura da obra.
+- **"ghost beast" não existe** como termo: zero ocorrências. O que existe é
+  *ghost spirit fox* (c1242) e *phantom beast* (c785).
+- **"lamassu" e "molossus" aparecem uma única vez cada**, ambas dentro do mesmo
+  ditado em c168. A obra nunca as descreve.
+- **Não existe besta de rank 9**: a nota `10 - Apendices/02 - Tabelas de Referência
+  Rápida.md` registra como canônico que "o rank 9 não existe para feras nem para
+  plantas". O teto observado no texto é rank 8 (imperador de lobo celeste noturno,
+  c1242; morcego da ruína imemorial, c784).
+
+## Pendências para quem retomar
+
+- A nota nova `10 - Apendices/10 - Catálogo de Bestas e Reis Fera.md` **precisa ser
+  acrescentada à ordem de leitura dentro de `_pipeline/numerar-notas.py`**, senão o
+  script aborta ao encontrar nota no disco fora da ordem. O prefixo `10 - ` já é o
+  correto para a posição (a pasta ia até `09 - `), então nenhum wikilink precisa ser
+  reescrito — basta registrar o nome na lista da pasta `10 - Apendices`.
+- `_pipeline/auditar-links.py` roda limpo para esta nota: os dois links quebrados que
+  ele acusa (`08 - Calamidades e Tribulações` e `28 - Os Demais Caminhos`) são
+  anteriores e vêm de `03 - Paths/24 - Theft Path.md` e
+  `03 - Paths/27 - Os Caminhos Elementais.md`.
+- Veios ricos ainda **não** explorados a fundo, para uma segunda passada: fauna do
+  Mar Oriental (tubarões: *flow shark*, *seashell shark*, *spear shark*, *treasure
+  shark*, *golden shark*), fauna do Céu Negro e dos nove céus, e as espécies de
+  *cranes* do Continente Central (*immortal crane*, 634 ocorrências, quase todas
+  ligadas à Seita da Grulha Imortal e não à ave).

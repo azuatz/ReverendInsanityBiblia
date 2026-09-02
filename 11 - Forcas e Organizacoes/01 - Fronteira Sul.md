@@ -960,6 +960,65 @@ tantas vezes ao longo das gerações que ela já não os prende.
 > região. O mestre pode matar quantos quiser: a organização volta. É o antagonista ideal para uma campanha
 > longa.
 
+### Paraíso dos Homens-Cogumelo
+
+*Mushroomman Paradise* / *Virtue Paradise* · terra abençoada de uma raça humana variante · Fronteira Sul
+
+| | |
+|---|---|
+| **Manda quem** | **Lu Wei Yin**, Gu Imortal de **rank 8**, reconhecido por todos como **o herdeiro de Paradise Earth Immortal Venerable** |
+| **Caminho de casa** | Terra e virtude, por herança do Venerável; os Gu Imortais homens-cogumelo do lugar são fortes no [[08 - Poison Path\|caminho do veneno]] |
+| **Por que esse caminho** | O Venerável deixou ali a sua **herança verdadeira da Virtude** — daí o segundo nome do lugar |
+| **Porte** | "Sua fundação é profunda e **não é em nada inferior às super forças**", na avaliação de um inimigo que estudava como atacá-lo |
+| **Alinhamento** | Caminho correto na prática — o líder participa das ações conjuntas do caminho correto da região — mas **estruturalmente à parte**, por não ser humano |
+| **Território** | Uma terra abençoada dos homens-cogumelo, com pontos de recurso gigantes e montanhas próprias |
+
+**Como cresceu.** Por caridade de um Venerável. Paradise Earth Immortal Venerable — o Venerável que
+passou a vida restaurando a paz do mundo e que amava e defendia as raças humanas variantes — **não
+queria ver os homens-cogumelo serem massacrados sem piedade**, e por isso ajudou aquela terra
+abençoada e a transformou num "paraíso". A palavra é técnica: o lugar ficou **livre de calamidades e
+tribulações**, os desastres periódicos que todo Mestre Gu do mundo tem de enfrentar para continuar
+existindo. É uma isenção que nenhum dos treze super clãs tem.
+
+**Do que vive.** Da população. "Só os incontáveis homens-cogumelo que vivem aqui já seriam algo único
+entre as cinco regiões e os dois céus — **este era o melhor recurso de homens-cogumelo do mundo, sem
+concorrência.**" Some-se a isso pontos de recurso enormes dentro da terra abençoada.
+
+**Com quem se dá.** O líder colabora com o caminho correto da Fronteira Sul, participando de caçadas
+conjuntas ao lado de outros imortais de rank 8 da região. Mas a colaboração é frágil, e a obra diz
+por quê: **por ser o líder de uma força de humanos variantes, ele vive sob a pressão do caminho
+correto da Fronteira Sul**. E o lugar é rico o bastante para ser cobiçado — o clã número um da região
+já calculou abertamente as dificuldades de atacá-lo.
+
+**Por dentro.** Tem Gu Imortais próprios, da raça: o mais forte deles é conhecido por métodos
+extraordinários do caminho do veneno.
+
+**Assinatura.** Uma **formação de campo de batalha do caminho da terra**, originada da herança
+verdadeira do Venerável e **modificada por muitas gerações**, capaz de prender um adversário de nível
+absurdo — e que inclui bonecos de areia que enganam os sentidos do inimigo e atraem o fogo inimigo
+para longe do original. O lugar guarda ainda um **Gu de benevolência**, precioso a ponto de uma
+imortal do Tribunal Celestial ter ido até lá tomá-lo emprestado.
+
+> [!note] Para o design
+> Uma terra abençoada **imune a calamidades e tribulações**, habitada por uma raça não humana,
+> comandada pelo herdeiro do Venerável mais bondoso da história, e tolerada com desconfiança por
+> vizinhos que são todos clãs de sangue humano. É o refúgio, o santuário e a próxima presa — tudo ao
+> mesmo tempo. Para um grupo que precise de um lar que não seja um clã, não existe opção melhor no
+> mapa; e para um mestre que queira um dilema, basta um dos treze clãs decidir que chegou a hora.
+
+**O que um personagem faz com isso.** Buscar asilo, estudar a herança da Virtude, servir de
+intermediário entre o Paraíso e um clã humano, ou ser mandado para espioná-lo.
+
+**O que a obra não diz.** A localização exata dentro da região. `—` Quantos homens-cogumelo vivem
+ali. `—`
+
+> [!warning] Como os humanos variantes são tratados na Fronteira Sul
+> O Paraíso é a exceção, não a regra. A obra registra que, tanto na Fronteira Sul quanto no Continente
+> Central, **crianças de sete ou oito anos enganam homens-peludos e homens-de-pedra e os conduzem até
+> o mercado para vendê-los** — e os variantes continuam sem entender o que houve mesmo depois de
+> vendidos, contando o dinheiro para quem os vendeu. O clã Xia mantém um contingente industrial de
+> homens-pena escravizados. Numa mesa, essa é a linha divisória moral mais nítida da região.
+
 ### A Aliança dos Zumbis, filial da Fronteira Sul
 
 *Zombie Alliance* · aliança inter-regional
@@ -1153,6 +1212,7 @@ produz um talento de grau A, os vizinhos mandam assassinos para matá-lo antes q
 | **Clã Qiao** | Super clã, o mais fraco | Qiao Zhi Cai, rank 7 (madeira) | — `—` | Centro da região | Vassalo do clã Wu por casamento — e com um espião no 3º ancião supremo do suserano |
 | **Cinco clãs dos Xiang** | Cinco linhagens em decadência | Cada uma a sua | Qi, sangue e outros | Espalhados | Uma aposta de mil anos, uma gruta-céu que abre uma vez por milênio, e um "irmão" que pastoreia os outros quatro |
 | **Sete Fantasmas do Desfiladeiro Feroz** | Grupo demoníaco de sete imortais | Sem chefe declarado `—` | Herança de Spectral Soul Demon Venerable | Fierce Gorge | Vilões que se repõem sozinhos; inimigos hereditários do clã Wu |
+| **Paraíso dos Homens-Cogumelo** | Terra abençoada de raça variante, com porte de super força | Lu Wei Yin, rank 8, herdeiro de Paradise Earth | Terra e virtude; veneno entre os locais | Fronteira Sul, sem local declarado `—` | Livre de calamidades e tribulações; um lar possível que não é um clã; e a próxima presa dos clãs |
 | **Aliança dos Zumbis (filial sul)** | Filial de uma aliança inter-regional | — `—` | — | Sede regional exposta `—` | Aceita quase qualquer zumbi imortal; suprimida por todos; pesquisa como voltar a viver |
 | **Quatro Grandes Médicos** | Título, não organização | Ninguém — são independentes | Cura | Itinerantes | O sistema de saúde de alto nível; atendem os dois lados; um deles cura matando |
 | **Clã Fei** | Ex-grande, sumiu da lista | — `—` | — `—` | — `—` | Um buraco declarado no mapa político |

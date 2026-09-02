@@ -67,7 +67,9 @@ que nem feras nem plantas o alcançam.
 ### As colunas
 
 Cada tabela usa seis colunas: **Criatura**, **Onde vive**, **Como é**, **O que faz em
-combate**, **O que se tira dela** e **Perigo para um grupo**. O *rank* não é coluna
+combate**, **O que se tira dela** e **Perigo para um grupo** — que, nas tabelas de
+escala imortal, vira **Patamar**, porque ali o que interessa não é "dá para vencer?"
+(não dá) e sim em que degrau da escada a criatura está. O *rank* não é coluna
 porque é o **título da seção** — as criaturas estão agrupadas por patamar, e dentro de
 cada patamar, por região. Quando a obra descreve o instinto de uma criatura em
 detalhe, esse detalhe sai da tabela e ganha um parágrafo próprio logo abaixo, porque

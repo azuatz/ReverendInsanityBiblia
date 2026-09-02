@@ -770,7 +770,46 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   of your Wu clan**, this large formation cannot trap us! … they had **tackled the cardinal
   directional wind formation many times over the generations**" (l. 17352–17360).
 
-### 4.2 A Aliança dos Zumbis (Zombie Alliance), filial da Fronteira Sul
+### 4.2 Mushroomman Paradise / Virtue Paradise — a força dos humanos variantes
+
+Uma super força de fato que **não é um clã humano** e por isso não entra na lista dos treze.
+
+- **O que é** — **cap. 2083** (V6 l. 20081), pela boca do próprio líder: "**This Mushroomman
+  blessed land received Paradise Earth Immortal Venerable's help and turned into a paradise,
+  thereby being free from calamities and tribulations.** Paradise Earth Immortal Venerable
+  also left behind his **Virtue true inheritance** here, so this **Mushroomman Paradise's name
+  became Virtue Paradise.**"
+- **Por que existe** — **cap. 2047** (V6 l. 13690): "Paradise Earth Immortal Venerable… helped
+  and assisted many different forces. For example, the Merman Imperial Court in Eastern Sea…
+  **There was also Southern Border's Mushroomman Paradise, it was made because he did not want
+  to see the mushroommen get slaughtered mercilessly.**"
+- **Quem lidera** — **cap. 2047** (l. 13702): "their leader, Southern Border's Gu Immortal **Lu
+  Wei Yin**, was also called **Paradise Earth's inheritor**, nobody could refute it. Before the
+  fate war, **Fairy Zi Wei even went to the Mushroomman Paradise and borrowed benevolence
+  Gu**." Lu Wei Yin é **rank 8** (**cap. 1601**, V5 l. 107076: "they could not trap the rank
+  eight Gu Immortals Xia Cha and Lu Wei Yin") e atua junto com o caminho correto da Fronteira
+  Sul em ações conjuntas da região (**cap. 1599–1604**).
+- **Porte** — **cap. 2068** (V6 l. 17461), na avaliação de um inimigo: "**Mushroomman Paradise
+  obtained Paradise Earth Immortal Venerable's help, its foundation is deep and is not any
+  inferior to the super forces.**" E (l. 17461) o líder é "extremely shrewd, he has all kinds of
+  plans and unique methods, **he is definitely not an ordinary opponent**".
+- **Recurso único no mundo** — **cap. 2087** (V6 l. 20897): "just the countless mushroommen
+  living here were definitely something unique among the five regions and two heavens! **This
+  was the best mushroomman resource in the world, there was no contest!**"
+- **Gu Imortais homens-cogumelo próprios** — ex.: **Ke Xin Hong**, "the strongest Gu Immortal
+  among them, **his poison path methods were extraordinary**" (**cap. 2108**, V6 l. 24852).
+- **A tensão estrutural** — **cap. 2059** (V6 l. 15931): "By helping us this time, and also
+  **being the leader of a variant human force, he is going to face the pressure of Southern
+  Border's righteous path.**" Ou seja: é forte como um super clã, participa das ações regionais,
+  e ainda assim é permanentemente suspeito por não ser humano.
+- **Contexto do tratamento dos humanos variantes na região** — **cap. 424** (V3 l. 3204): "Even
+  a smart seven or eight year old child could deceive them. **Whether it was Southern Border or
+  Central Continent**, such things often happened — some kids would bump into **hairy men or
+  rockmen** at some place and deceive them all the way to the market. **The variant humans would
+  be ignorant even after being sold off, still counting the money for them.**" Some-se a isso os
+  homens-pena escravizados do clã Xia (§2.5).
+
+### 4.3 A Aliança dos Zumbis (Zombie Alliance), filial da Fronteira Sul
 
 - **cap. 653** (V4 l. 636–654): "an alliance of zombies. This alliance has existed since long
   ago, and reportedly it appeared in the **Medieval Antiquity Era, three hundred thousand years
@@ -788,7 +827,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
   Ding Tian **por preço alto, para servir de sede regional; o clã Wu recusou** (**cap. 2067**,
   V6 l. 17334). Depois disso a sede da filial sulista foi exposta (mesma linha).
 
-### 4.3 Solitários (lone immortals) — o terceiro bloco
+### 4.4 Solitários (lone immortals) — o terceiro bloco
 
 - Não são um clube, mas a obra trata "righteous path, demonic path e **lone cultivators**" como
   os três blocos padrão da região (**cap. 1072**, V5 l. 9846: numa cerimônia do clã Shang
@@ -804,7 +843,7 @@ E o equilíbrio triangular, **cap. 1348** (l. 63053–63057) / **cap. 2138** (V6
 - Os solitários e demoníacos são também os **sabotadores naturais** da rede de Torres-Farol
   (§3.1) e o mercado comprador do negócio de oportunidades imortais (§3.3).
 
-### 4.4 Rotten Mud Mountain — o ponto de encontro informal
+### 4.5 Rotten Mud Mountain — o ponto de encontro informal
 
 **cap. 2098** (V6 l. 22913–22933):
 - "**Rotten Mud Mountain was one of the famous mountains of Southern Border.** If it were in
@@ -1045,9 +1084,20 @@ left." Hoje toca lojas na cidade do clã Shang e é o melhor gerente de todos, m
 - **Quem nomeia o Investigador Divino** e se o título é um cargo formal ou uma alcunha popular.
   A obra o trata como pessoa, não como instituição. `—`
 - **Qualquer autoridade central da região** (tipo o Longevity Heaven do norte ou o Tribunal
-  Celestial do centro). Não existe: o que existe é hegemonia informal do clã Wu + as "regras do
-  caminho correto". Verificado por busca; nenhuma menção a corte, éditos ou insígnia regional
-  na Fronteira Sul.
+  Celestial do centro). Não existe, e a obra afirma isso frontalmente — **cap. 1435** (V5
+  l. 80604): "Central Continent's foundation is the deepest with the most amount of Gu Masters
+  and Gu Immortals. Furthermore, **they also have a unified leader — Heavenly Court! This is
+  something none of the other four regions have. Whether it be Eastern Sea, Western Desert,
+  Southern Border or Northern Plains, they are all controlled by independent super forces and
+  are disunited.** Northern Plains does have Longevity Heaven, so their situation will be
+  slightly better, but when compared to Central Continent's Heavenly Court, their influence in
+  the whole region is significantly lacking."
+  > **Divergência interna do vault a corrigir:** a nota `05 - Sociedade/07 - As Grandes Forças
+  > do Mundo.md` tem uma tabela que responde "**Sim**" à pergunta "existe um poder unificador?"
+  > para a Fronteira Sul. Pelo cap. 1435 isso está errado: o que existe é **hegemonia informal
+  > do clã Wu**, e a obra classifica a Fronteira Sul entre as regiões **desunidas**, ao lado do
+  > Mar do Leste e do Deserto Ocidental. Esse arquivo pertence a outro agente; a correção fica
+  > registrada aqui.
 
 ---
 

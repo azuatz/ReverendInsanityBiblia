@@ -32,7 +32,10 @@ Três propriedades definem a categoria:
 
 **2. Marcas de lei natas.** Um portador nasce com um acúmulo de [[12 - Dao Marks|marcas do Dao]] — as impressões que as leis do mundo deixam gravadas num corpo — que **supera o da maioria dos Gu Imortais de rank 6 em condições equivalentes**. Isso significa que ele carrega poder que não depende de nenhum Gu ativo e que não pode ser desarmado. É a explicação mecânica para o fenômeno mais chocante que a obra apresenta nessa área: um mortal, ainda no topo do reino mortal, capaz de suprimir e neutralizar poderes de nível imortal. O texto registra um caso extremo de um portador mortal no auge do rank 5 suprimindo **quatro Gu Imortais simultâneos** e ainda ativando um quinto — sem explicar o mecanismo detalhado.
 
-**3. Poder que quebra a convenção do próprio patamar.** Portadores rotineiramente esmagam oponentes do mesmo reino. Um portador prestes a estourar é descrito como "meio passo dentro do reino imortal", capaz de acuar um Gu Imortal recém-ascendido.
+**3. Poder que quebra a convenção do próprio patamar.** Portadores rotineiramente esmagam oponentes do mesmo reino. Um portador no auge do mundo mortal, já à beira da autodetonação, chegou a **suprimir e perseguir um Gu Imortal** — um feito que a escada normal de ranks declara impossível.
+
+> [!warning] Uma expressão que não existe na obra
+> Fontes secundárias e resumos de comunidade descrevem esses portadores como estando "a meio passo do reino imortal". **A obra nunca usa essa expressão** — nem "meio passo" nem "meio reino" aparecem em nenhum dos seis volumes. O vocabulário canônico de fração de patamar é outro: "pequeno reino" e "grande reino" para os degraus da escada (ver [[05 - Ranks e Avanço|Ranks e Avanço]]) e os prefixos "quase-" e "pseudo-" para quem chegou perto de um patamar sem alcançá-lo — como em "quase-supremo grão-mestre" e "pseudo-Venerável". Se você precisar dizer "quase imortal" na sua mesa, use o vocabulário da obra.
 
 ## Como surgem
 

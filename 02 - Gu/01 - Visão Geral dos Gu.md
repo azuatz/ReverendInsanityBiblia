@@ -6,7 +6,7 @@ aliases:
   - Gu
   - Gu Overview
 status: consolidado
-fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 23", "cap. 183", "cap. 210", "cap. 292", "cap. 314", "cap. 860", "cap. 1161", "cap. 1299", "cap. 1441", "cap. 2118"]
+fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 23", "cap. 129", "cap. 137", "cap. 183", "cap. 186", "cap. 210", "cap. 222", "cap. 292", "cap. 314", "cap. 421", "cap. 860", "cap. 969", "cap. 1038", "cap. 1161", "cap. 1299", "cap. 1441", "cap. 2118", "cap. 2327"]
 conhecimento: comum
 ---
 
@@ -72,11 +72,15 @@ notas desta pasta.
 5. **Usar gasta essência.** Todo acionamento consome a energia interna do Mestre
    ([[04 - Essência Primordial|Essência Primordial]]). Alguns Gu são consumíveis e se dissipam depois de um, dois ou
    três usos.
-6. **Existe um teto de quantos Gu se carrega** — não por regra arbitrária, mas por
-   economia: o custo de alimentar e acionar. O teto sobe com a carreira, de dois ou três
-   Gu no começo a cerca de sete num veterano do topo mortal; a tabela por perfil, que é a
-   referência do vault para este número, está em
-   [[03 - Usar e Alimentar Gu#O teto: quantos Gu se carrega]].
+6. **Existe um teto de quantos Gu se carrega, e ele tem duas causas independentes.** A
+   primeira é **econômica** — o custo de alimentar e acionar. A segunda é **física**: a
+   abertura tem capacidade finita, que cresce com o rank, e um Gu de nível muito acima do
+   dono pressiona as paredes dela a ponto de poder rompê-la. Os dois limites agem
+   separadamente, e é possível esbarrar no segundo com dinheiro sobrando. O padrão do
+   mundo é **três a cinco Gu** para um Mestre comum, sete já é caso notável; a tabela por
+   perfil, que é a referência do vault para este número, está em
+   [[03 - Usar e Alimentar Gu#O teto: quantos Gu se carrega]], e a mecânica da capacidade
+   em [[13 - Onde um Gu Mora|Onde um Gu Mora]].
 7. **O dono pode destruir os próprios Gu com um pensamento**, mais rápido que um piscar de
    olhos. Por isso saquear Gu de um inimigo derrotado é raríssimo: ele os mata antes de
    morrer. Só a morte instantânea e imperceptível deixa espólio.
@@ -97,7 +101,19 @@ notas desta pasta.
     falha misteriosamente no último passo. Essa regra é o gargalo do topo do sistema.
 13. **Killer move e casa de Gu são a mesma coisa em escalas diferentes**: vários Gu
     empilhando efeitos. Muda a complexidade, não a natureza.
-14. **A essência de tudo são as "marcas do Dao".** No fundo da metafísica do mundo, cada Gu
+14. **Um Gu acima do seu nível é um martelo grande demais.** A obra usa essa imagem duas
+    vezes: um bebê que tenta erguer um martelo pesado distende o músculo e esmaga o
+    próprio pé. Possuir um Gu de nível superior é possível e não é proibido; o que
+    acontece é que ele come mais, custa mais para acionar, obedece pior — e pode **ferir
+    quem o usa**, além de pressionar a abertura.
+15. **Refinar, usar e alimentar são três ofícios distintos**, com dificuldades próprias, e
+    cada Gu pode impor exigências especiais **em qualquer um dos três**: uma dieta
+    impossível, um requisito moral para ser dominado, uma condição pessoal para ser
+    acionado. Ver [[03 - Usar e Alimentar Gu#Os três ofícios: alimentar, usar, refinar]].
+16. **Comprar Gu é arriscado, e o mundo sabe disso.** Falsificar e adulterar Gu é descrito
+    pela obra como prática **comum** no mundo mortal; nem o maior mercado do mundo se
+    responsabiliza pelo que vende. Ver [[14 - Qualidade e Fraude|Qualidade e Fraude]].
+17. **A essência de tudo são as "marcas do Dao".** No fundo da metafísica do mundo, cada Gu
     carrega um pedacinho das leis naturais. Usar Gu é usar leis; fundir Gu é fundir leis.
     É por isso que o refino tem sorte envolvida: nas etapas finais, leis colidem de um jeito
     que ninguém controla.
@@ -117,6 +133,9 @@ nível baixo sabe tudo.
   comum jamais verá um Gu Imortal na vida.
 - **Que existem receitas**, que elas são propriedade de clãs, e que roubá-las é o crime
   econômico mais grave que existe.
+- **Que Gu falsificados e adulterados circulam nos mercados**, que ninguém garante nada, e
+  que a única forma segura de comprar é comprar o bicho cru e dominá-lo com as próprias
+  mãos — porque um Gu que você mesmo dominou com sucesso está, por definição, limpo.
 - **Que o dono destrói os próprios Gu ao morrer** — por isso matar por espólio quase nunca
   compensa, e por isso capturar vivo vale mais que matar.
 - **Que combinar Gu produz golpes especiais** ([[07 - Killer Moves|Killer Moves]]) e que os bons golpes são
@@ -183,6 +202,8 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 - [[12 - Gu Imortais|Gu Imortais]] — o topo do sistema e a regra de unicidade global.
 - [[07 - Killer Moves|Killer Moves]] — as combinações que multiplicam poder, e suas categorias.
 - [[04 - Gu Vital|Gu Vital]] — o Gu ligado à vida do Mestre.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — abertura, corpo e recipientes: onde os bichos ficam guardados, quantos cabem e o que acontece quando não cabem.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — o que faz um Gu ser melhor que outro do mesmo nível, e como o mundo engana quem compra.
 
 As notas acima explicam **como o sistema funciona**. Quando a pergunta virar "e o que existe,
 concretamente?", a resposta está nos apêndices: [[03 - Catálogo de Gu|Catálogo de Gu]] lista os bichos

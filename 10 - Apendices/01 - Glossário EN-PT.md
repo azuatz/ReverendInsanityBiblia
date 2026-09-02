@@ -46,7 +46,7 @@ Cada tabela tem três colunas:
 > Uma versão anterior desta nota chamava a coluna de "PT adotado" e afirmava ser "a
 > tradução que este projeto usa". Era erro nosso: a coluna nunca descreveu o uso do
 > vault, e a afirmação fazia o glossário contradizer tanto o corpo das notas quanto a
-> própria seção 9.
+> própria seção de avisos, no fim da nota.
 
 E duas marcações aparecem ao longo do documento:
 
@@ -85,9 +85,6 @@ termos que a comunidade e a obra usam sem tradução estável.
 |---|---|---|---|
 | rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[05 - Ranks e Avanço|Ranks e Avanço]] |
 | attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[06 - Attainment|Attainment]] |
-| primordiall essence | essência primordial | **essência primordial** | Escolha de coerência com "pedras primordiais"; as duas formas circulam na tradução. Ver [[04 - Essência Primordial|Essência Primordial]] |
-| primordiall stones | pedra primordial | **pedras primordiais** | Idem. Ver [[02 - Pedras Primordiais|Pedras Primordiais]] |
-| primordiall sea | mar primordial | **mar primordial** | Idem, mesma família de termos |
 | refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[05 - Refino de Gu|Refino de Gu]] |
 | killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[07 - Killer Moves|Killer Moves]] |
 | Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[15 - Tribunal Celestial|Tribunal Celestial]] |
@@ -98,13 +95,28 @@ termos que a comunidade e a obra usam sem tradução estável.
 > divergente é que deve ser corrigida. O mesmo princípio vale para números, com a
 > diferença de que ali a autoridade é outra nota: [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
 
-Um esclarecimento sobre a seção 9, no fim desta nota, para que ela não pareça
-contradizer a tabela acima. Aquela seção resolve uma pergunta **diferente**: quando a
-própria tradução brasileira usa duas formas para a mesma coisa, qual delas é a
-dominante **lá dentro**? Por isso ela conclui coisas como "a forma dominante na
-tradução é *essência primordial*" — o que é verdade, e é exatamente por isso que essa
-forma aparece na coluna do meio das tabelas. Não é uma decisão sobre o que o vault
-escreve; essa decisão está aqui.
+Um esclarecimento sobre a última seção desta nota, "Avisos sobre a tradução
+brasileira", para que ela não pareça contradizer a tabela acima. Aquela seção resolve
+uma pergunta **diferente**: quando a própria tradução brasileira usa duas formas para
+a mesma coisa, qual delas é a dominante **lá dentro**? Por isso ela conclui coisas
+como "a forma dominante na tradução é *essência primordial*" — o que é verdade, e é
+exatamente por isso que essa forma aparece na coluna do meio das tabelas. Não é uma
+decisão sobre o que o vault escreve; essa decisão está aqui. Onde o vault **concorda**
+com a tradução publicada — que é o caso da maioria esmagadora dos termos — o item não
+aparece na tabela acima, e não há nada a decidir.
+
+> [!warning] Cuidado com a palavra "primordial": em inglês ela é uma armadilha
+> Em português o vault escreve **essência primordial**, **mar primordial** e **pedras
+> primordiais**, acompanhando a tradução brasileira. Mas o termo inglês correspondente
+> **não** é *primordial*: é ==*primeval*== — *primeval essence*, *primeval sea*,
+> *primeval stones*. A obra nunca escreve "primordial essence".
+>
+> Isso importa por dois motivos práticos. Primeiro, se você pesquisar "primordial
+> essence" em qualquer fonte em inglês (wiki, fóruns, a própria obra), **não vai achar
+> nada** — a palavra a pesquisar é *primeval*. Segundo, *Primordial* de fato existe na
+> obra, mas designando **outra coisa**: é o nome do primeiro Venerável da história,
+> *Primordial Origin Immortal Venerable*, e do território *Primordial Domain*. Ou seja,
+> o falso amigo não leva a lugar nenhum: leva ao lugar errado.
 
 ---
 
@@ -120,9 +132,9 @@ do mundo conhece.
 | Gu Master | **Mestre Gu** | Qualquer pessoa capaz de cultivar, isto é, que possui uma abertura. O "praticante" genérico |
 | Gu Immortal | **Imortal** / **Mestre Gu Imortal** | Mestre Gu de rank 6 ou acima; outra categoria de existência, não apenas um nível mais alto |
 | aperture | **abertura** | Órgão espiritual invisível que serve de reservatório de energia e de "estojo" onde os Gu vivem |
-| primordiall sea | mar primordial → **o vault escreve "mar primordial"** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
-| primordiall essence | essência primordial → **o vault escreve "essência primordial"** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
-| primordiall stones | pedra primordial → **o vault escreve "pedras primordiais"** | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
+| primeval sea | **mar primordial** | O "mar" de energia dentro da abertura; medido em porcentagem de enchimento |
+| primeval essence | **essência primordial** | A energia pessoal do Mestre Gu; combustível de todo uso de Gu |
+| primeval stones | **pedra primordial** (o vault usa o plural "pedras primordiais") | Pedras que armazenam energia; ao mesmo tempo recurso de cultivo e moeda dos mortais |
 | Awakening Ceremony | *Awakening Ceremony*° (Cerimônia do Despertar) | Ritual aos 15 anos que forma a abertura e mede o talento; decide se a pessoa será cultivadora ou mortal comum |
 | aptitude grade (A/B/C/D) | **grau** (grau A, B, C, D) | Talento inato, expresso como a porcentagem da abertura que a pessoa consegue encher |
 | Ten Extreme Physiques | *Ten Extreme Physiques*° (Dez Constituições Extremas) | Camada secreta acima do grau A: dez constituições lendárias que armazenam 100% e cujos portadores morrem cedo |
@@ -140,6 +152,36 @@ do mundo conhece.
 | Venerable | **Venerável** | O rank 9; teto absoluto do sistema. Apenas dez existiram em toda a história |
 | Immortal Venerable | **Venerável Imortal** | Venerável do lado "correto" |
 | Demon Venerable | **Venerável Demônio** (ver aviso na seção final) | Venerável do lado demoníaco |
+| pseudo venerable | *pseudo venerable*° (pseudo-Venerável) | Força de combate equivalente à de um rank 9 **sem ser** rank 9; alcançada por meios excepcionais e temporários |
+
+### As dez constituições extremas, uma a uma
+
+A obra nomeia as ==Ten Extreme Physiques== como os **dez filhos de Ren Zu**, o Ancestral
+Humano: cada filho representa uma das dez aptidões máximas, e todos morreram jovens — o
+que, dentro da ficção, é a explicação de por que quem nasce com uma delas raramente
+chega ao rank 6. Os nomes ficam em inglês porque a tradução brasileira não os fixou; a
+coluna do meio é só a leitura literal, para você saber o que o nome quer dizer.
+
+**Atenção: a obra afirma que são dez e nomeia apenas sete.** Qualquer lista de dez nomes
+encontrada em fonte secundária contém invenção. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+
+| Termo (EN) | Leitura literal | Observação |
+|---|---|---|
+| Northern Dark Ice Soul | Alma de Gelo do Norte Sombrio | a mais detalhada das sete; tema de água e gelo, com recuperação de essência absurdamente rápida |
+| Great Strength True Martial | Grande Força Marcial Verdadeira | tema de força bruta; a maior velocidade de recuperação entre as dez |
+| Desolate Ancient Moon | Lua Antiga Desolada | tema lunar e de energia yin; a segunda filha do mito |
+| Verdant Great Sun | Grande Sol Verdejante | tema solar; o filho mais velho do mito |
+| Blazing Glory Lightning Brilliance | Glória Flamejante, Brilho do Relâmpago | tema de fogo e relâmpago |
+| Carefree Wisdom Heart | Coração de Sabedoria Despreocupado | tema de sabedoria e serenidade |
+| Myriad Gold Wondrous Essence | Miríade de Ouro, Essência Maravilhosa | tema de metal e ouro |
+| (as três restantes) | — | **nunca nomeadas em nenhum ponto da obra** |
+
+E duas que se parecem com constituições extremas e **não** são:
+
+| Termo (EN) | Leitura literal | Por que não conta |
+|---|---|---|
+| Pure Dream Reality Seeker | Buscador da Realidade do Sonho Puro | a **décima primeira** constituição extrema, e a única artificial: é fabricada, não nasce. Categoria própria |
+| Righteous Virtue | Virtude Justa | conquistada por acúmulo de boas ações; descrita como inferior apenas às dez, mas **sem os defeitos delas** |
 
 ---
 
@@ -174,6 +216,8 @@ instruído domina.
 | supreme grandmaster | **Supremo Grão-Mestre** | Topo da escala: exige **inovar** no caminho, não só compreendê-lo |
 | true meaning | *true meaning*° (verdadeiro significado) | Forma de herança que concede nível de domínio diretamente, sem processo gradual |
 | true inheritance | **verdadeira herança** | O corpo completo de conhecimento deixado por um Venerável |
+| self-harming move | *self-harming move*° (golpe autolesivo) | Categoria formal de golpe que **fere o próprio usuário e mata os Gu que o compõem** ao ser disparado; é escolha deliberada de projeto, não acidente |
+| refinement insignia | *refinement insignia*° (insígnia de refino) | A marca que o refinador deixa no Gu que produziu; é ela que permite **refazer** um Gu Imortal destruído |
 
 ---
 
@@ -234,7 +278,7 @@ jogador e informação de mestre, esta tabela inteira fica do lado do mestre.
 | origin core | *origin core*° (núcleo de origem) | A fundação estrutural de uma abertura imortal; define o rank real dela 🔒 |
 | immortal essence | **essência imortal** | O recurso que ativa Gu de rank 6+; a abertura o produz sozinha, em contas |
 | green grape / red date / white litchi / yellow apricot | *green grape / red date / white litchi / yellow apricot*° | As quatro denominações de essência imortal, correspondentes aos ranks 6, 7, 8 e 9 |
-| immortal essence stone | **pedra de essência imortal** / **cristal celestial** (ver aviso na seção final) | A moeda dos Imortais; vale mais de cem milhões de pedras primordiais |
+| immortal essence stone | **pedra de essência imortal** / **cristal celestial** (ver aviso na seção final) | A moeda dos Imortais; vale mais de cem milhões de pedras primordiais. **Só o Tribunal Celestial consegue produzi-las**, e é por isso que ele controla a economia do topo do mundo 🔒 |
 | earthly calamity | **calamidade terrena** | A provação mais leve; chega de dez em dez anos |
 | heavenly tribulation | **tribulação celestial** | A segunda classe de provação |
 | grand tribulation | *grand tribulation*° (grande tribulação) | A terceira classe; enfrentada por rank 7 e 8 |
@@ -249,6 +293,7 @@ jogador e informação de mestre, esta tabela inteira fica do lado do mestre.
 | Heavenly Dao blockade | *Heavenly Dao blockade*° (bloqueio do Caminho Celestial) | Os três mecanismos com que o Céu impede o surgimento de novos Veneráveis 🔒 |
 | Dao Lord | *Dao Lord*° (Senhor do Dao) | Venerável que reivindicou todas as marcas naturais do próprio caminho num território 🔒 |
 | Dao Guardian | *Dao Guardian*° (Guardião do Dao) | A figura que acompanha o crescimento de todo Venerável — podendo ser amigo **ou** inimigo |
+| Primordial Domain | *Primordial Domain*° (Domínio Primordial) | Território ligado ao primeiro Venerável da história; entrar nele é uma das condições para reivindicar o Dao de um caminho 🔒 |
 
 ---
 
@@ -288,6 +333,23 @@ mais instável, porque aparece pouco e em capítulos esparsos.
 | Chaos | *Chaos*° (Caos) | A substância além da fronteira do mundo; "a maior calamidade" 🔒 |
 | spirit spring | *spirit spring*° (nascente espiritual) | Fonte geológica que produz pedras primordiais; a base econômica de um clã |
 | Earth Trench | *Earth Trench*° (fenda terrestre) | Fendas colossais que atravessam as regiões; abrigam Gu Imortais selvagens |
+| fragment world | *fragment world*° (mundo-fragmento) | Pedaço de um dos sete céus destruídos que caiu nas cinco regiões e virou um pequeno mundo próprio; é onde se colhem materiais que não existem mais |
+| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | Território celestial de um dos Veneráveis; junto com o Tribunal Celestial, uma das duas organizações de categoria máxima 🔒 |
+| Earth Abyss | *Earth Abyss*° (Abismo da Terra) | Abismo subterrâneo de centenas de milhares de km², organizado em mais de cem camadas sobrepostas, cada uma mais funda com feras mais antigas |
+
+#### As cinco paredes regionais, por nome
+
+Cada região é fechada por uma ==parede regional== com nome, cor e efeito próprios. Os
+nomes aparecem em inglês na obra e a tradução brasileira não os fixou; a forma em
+português abaixo é a que o vault escreve.
+
+| Termo (EN) | O vault escreve | Região que fecha |
+|---|---|---|
+| saint regional wall | **parede santa** | Continente Central |
+| licorice regional wall | **parede alcaçuz** | Planícies do Norte |
+| miasma regional wall | **parede de miasma** | Fronteira Sul |
+| raging flame regional wall | **parede de chama ardente** | Deserto Ocidental |
+| blue water regional wall | **parede de água azul** | Mar Oriental |
 
 ---
 
@@ -319,6 +381,10 @@ vale.
 | treasure light | *treasure light*° (luz do tesouro) | O padrão de precificação desse mercado: o valor de um item é a altura do seu feixe de luz |
 | Divine Investigator | *Divine Investigator*° (Investigador Divino) | Juiz-detetive itinerante de alto rank |
 | necessity law | *necessity law*° (lei da necessidade) | Regra jurídica: sacrificar outrem para sobreviver não é crime |
+| ultimate force | *ultimate force*° (força suprema) | A categoria **acima** da super força: organização de alcance mundial e não regional. A obra reconhece apenas duas 🔒 |
+| ten great ancient sects | *ten great ancient sects*° (as dez grandes seitas ancestrais) | O bloco de dez seitas que governa o Continente Central sob o Tribunal Celestial |
+| slave Gu Immortal | *slave Gu Immortal*° (Imortal escravizado) | Imortal capturado e submetido; é também a pena aplicada a demoníacos de crime médio pelas dez grandes seitas |
+| fairy (título) | *fairy*° ("fada") | Título institucional de uma discípula de elite de certas seitas, numerado por geração |
 
 ---
 
@@ -346,6 +412,7 @@ de Imortal, e formas de existência que ficam entre a vida e a morte.
 | heavenly zombie | *heavenly zombie*° (zumbi celestial) | Estado meio-morto; corpo que continua funcionando com a alma alterada |
 | will (residual) | *will*° (vontade) | Fragmento de vontade deixado por um morto dentro de uma criação sua; se desgasta ao pensar |
 | split soul | *split soul*° (alma dividida) | Fragmento de alma que age como um Imortal independente 🔒 |
+| mutated beast | *mutated beast*° (fera mutante) | Fera alterada cuja força adulta iguala a de um rei-fera de miríade; é o trunfo típico de um especialista em escravização |
 
 ---
 
@@ -361,10 +428,97 @@ Guarde principalmente o **li**: quase toda distância do mundo é dada nele.
 | catty / jin | *catty / jin*° | ~600 gramas |
 | jun | *jun*° | 30 jin, ~15 kg (unidade de **força**, não de peso de objeto) |
 | liang | *liang*° | Unidade de peso menor (o "tael"); usada para metais e preços |
+| zhang | *zhang*° | Unidade de comprimento média, usada para alturas e vãos. `*` ~3,3 m pela unidade chinesa tradicional — **a obra nunca a converte** |
+| chi | *chi*° | Um décimo de um *zhang*. `*` ~33 cm pela unidade chinesa tradicional — **a obra nunca a converte** |
+| breath (unidade de tempo) | *breath*° (respiração) | A unidade **tática** do mundo: golpes, ativações e defesas são medidos em respirações ("meia respiração", "três respirações"). **A obra nunca diz quantos segundos é uma respiração** — trate como um batimento de cena, `*` da ordem de um segundo |
+
+> [!warning] O *jun* mede força, não peso de objeto
+> É a confusão mais fácil de fazer nesta tabela. *Jin* (o "catty") pesa coisas; ==*jun*==
+> mede a **força de um cultivador do caminho da força**, e a obra dá a escada dele em
+> [[02 - Tabelas de Referência Rápida#15. Força do caminho da força, em jun|Tabelas de Referência Rápida]].
 
 ---
 
-## 9. Avisos sobre a tradução brasileira
+## 9. Os dez Veneráveis, por nome
+
+Os ==Veneráveis== são os dez cultivadores de rank 9 que existiram em toda a história do
+mundo. Você vai encontrar os nomes deles o tempo todo, porque quase toda instituição,
+caminho de cultivo e lugar importante foi criado por um deles.
+
+**Os nomes ficam em inglês no vault inteiro**, porque a tradução brasileira não os verteu
+de forma consistente — e inventar uma forma própria só criaria um nome que não existe em
+lugar nenhum. A coluna do meio é a leitura literal do nome, para orientação; a última diz
+por que aquela pessoa importa estruturalmente. Nada aqui é enredo: são fatos de fundação
+do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]].
+
+| Termo (EN) | Leitura literal | Por que o nome aparece |
+|---|---|---|
+| Primordial Origin Immortal Venerable | "Venerável Imortal Origem Primordial" | O primeiro rank 9 da história; fundou o sistema de seitas e o [[15 - Tribunal Celestial|Tribunal Celestial]] |
+| Star Constellation Immortal Venerable | "Venerável Imortal Constelação Estelar" | Criou o caminho da sabedoria; a única mulher entre os dez |
+| Reckless Savage Demon Venerable | "Venerável Demônio Selvagem Impetuoso" | Criou os caminhos da força e da transformação |
+| Thieving Heaven Demon Venerable | "Venerável Demônio Roubador do Céu" | Criou o caminho do roubo; o mais rico da história |
+| Limitless Demon Venerable | "Venerável Demônio Ilimitado" | Criou o caminho da regra; escavou a caverna que perfurou a fronteira do mundo |
+| Giant Sun Immortal Venerable | "Venerável Imortal Sol Gigante" | Criou o caminho da sorte em segredo; fundou o trono decenal das Planícies do Norte |
+| Genesis Lotus Immortal Venerable | "Venerável Imortal Lótus da Gênese" | Criou o caminho da madeira |
+| Spectral Soul Demon Venerable | "Venerável Demônio Alma Espectral" | Criou o caminho da alma |
+| Paradise Earth Immortal Venerable | "Venerável Imortal Terra Paradisíaca" | Conteve o caminho da alma; deixou a melhor herança de combate da história |
+| Red Lotus Demon Venerable | "Venerável Demônio Lótus Vermelho" | Feriu o [[12 - Fate Gu|Fate Gu]]; teve a vida mais curta dos dez |
+
+> [!warning] "Immortal" e "Demon" no título não medem força nem crueldade
+> Os dois títulos designam **a mesma patente**, o rank 9. A palavra que muda indica só
+> por qual via a pessoa chegou lá: a ortodoxa ou a demoníaca. Ver o item 11.6, mais
+> abaixo, e [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+
+---
+
+## 10. Organizações nomeadas
+
+Esta seção existe para uma finalidade só: você encontra um nome próprio em inglês numa
+nota e quer saber **o que aquilo é** sem ter de abrir a nota inteira. As descrições são
+de uma linha; quem explica de verdade é [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
+
+Um esclarecimento de categoria, porque a obra usa três degraus e eles não são sinônimos:
+uma **super força** (*super force*) tem Imortais e território imortal próprio, e domina uma
+região; uma **força suprema** (*ultimate force*) é a categoria acima, de alcance mundial, e
+a obra reconhece apenas duas; tudo abaixo disso é clã, tribo ou seita comum.
+
+### As dez grandes seitas ancestrais (Continente Central)
+
+| Termo (EN) | O vault escreve | Especialidade |
+|---|---|---|
+| Spirit Affinity House | Casa da Afinidade Espiritual | caminho da água; a única das dez cujo censo a obra publica |
+| Immortal Crane Sect | Seita da Grua Imortal | caça a demoníacos e caminho da escravização |
+| Myriad Dragon Dock | Doca das Miríades de Dragões | caminho do raio e fogo/refino; atualmente a mais forte |
+| Heavenly Lotus Sect | Seita do Lótus Celestial | cura e recuperação; cinco Casas de Gu Imortal |
+| Combat Immortal Sect | Seita do Combate Imortal | combate puro |
+| Ancient Soul Sect | Seita da Alma Antiga | a mais antiga das dez; caminho da sabedoria |
+| Heaven's Envy Manor | Mansão da Inveja Celestial | um golpe assinatura refinado ao longo de gerações |
+| Spirit Butterfly Valley | Vale da Borboleta Espiritual | caminho do tempo |
+| Wind Cloud Manor | Mansão do Vento e da Nuvem | vento e nuvem; duas Casas de Gu Imortal que se fundem numa |
+| Black Heaven Temple | Templo do Céu Negro | especialidade não declarada |
+
+### Outras organizações que aparecem pelo nome
+
+| Termo (EN) | O vault escreve | O que é |
+|---|---|---|
+| Heavenly Court | **Tribunal Celestial** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino. Uma das duas *ultimate forces* 🔒 |
+| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | Território celestial de um Venerável; a outra *ultimate force* 🔒 |
+| Lang Ya Sect | *Lang Ya Sect*° (Seita de Lang Ya) | A seita do refino, governada por um espírito da terra |
+| Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta de fragmentos de alma de um Venerável 🔒 |
+| Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
+| Demon Expelling Sect | Seita da Expulsão de Demônios | Seita do Continente Central citada fora do bloco das dez |
+| Imperial Court | *Imperial Court*° (Corte Imperial) | O trono decenal das Planícies do Norte e a terra-refúgio associada |
+| Demon Judgment Board | *Demon Judgment Board*° | O ranking público mundial dos cultivadores mais procurados |
+| Treasure Yellow Heaven | **Paraíso do Tesouro Dourado** (ver aviso na seção final) | O mercado universal e anônimo dos Imortais das cinco regiões |
+
+> [!question] A obra não publica o tamanho das dez seitas
+> Exceto por uma única delas, a obra **nunca diz quantos Imortais cada grande seita tem**,
+> e o fundador de seis das dez nunca é nomeado. Se a sua mesa precisar desses números,
+> eles terão de ser inventados — e a invenção não contradiz nada, porque não há cânone ali.
+
+---
+
+## 11. Avisos sobre a tradução brasileira
 
 Esta seção existe porque a tradução brasileira publicada **não é internamente
 consistente**. Isso não é um defeito da nossa pesquisa: são capítulos traduzidos em
@@ -374,7 +528,7 @@ tradução em português, é isto que vai te confundir.
 
 São nove casos. Os três primeiros são os que mais atrapalham.
 
-### 9.1. "Nível" × "Rank" — a escada de 1 a 9
+### 11.1. "Nível" × "Rank" — a escada de 1 a 9
 
 O mesmo sistema de nove degraus é chamado de **"nível"** em alguns capítulos e de
 **"Rank"** (mantido em inglês, "Rank 1", "Rank 2") em outros. Como "nível" também é
@@ -385,7 +539,7 @@ sobreposição é real e atrapalha de verdade.
 > para as quatro subdivisões internas. Se for produzir material de jogo, fixe uma
 > escolha e mantenha-a — a obra não vai ajudar.
 
-### 9.2. "Mestre Gu" × "Mestre" — duas coisas diferentes
+### 11.2. "Mestre Gu" × "Mestre" — duas coisas diferentes
 
 **"Mestre Gu"** é o praticante (qualquer pessoa com uma abertura). **"Mestre"**
 sozinho é o primeiro nível de domínio de um caminho, na escala que sobe até Supremo
@@ -396,7 +550,7 @@ caminho da sabedoria" pode ser um Imortal de rank 8. Em inglês a colisão não 
 > **Recomendação:** nunca escreva "Mestre" sozinho. Escreva "Mestre Gu" ou "Mestre
 > do caminho X", sempre por extenso.
 
-### 9.3. "Pedra de essência imortal" × "cristal celestial"
+### 11.3. "Pedra de essência imortal" × "cristal celestial"
 
 A moeda dos Imortais aparece com **dois nomes diferentes** na tradução brasileira, em
 capítulos diferentes: "pedra de essência imortal" (a forma mais literal) e "cristal
@@ -408,25 +562,31 @@ recursos distintos.
 > antes de fechar arte ou interface. É o único ponto do glossário onde a dúvida é
 > sobre o mundo, não sobre a tradução.
 
-### 9.4. "Essência primordial" × "essência primitiva"
+### 11.4. "Essência primordial" × "essência primitiva"
 
-O mesmo conceito (*primordiall essence*) aparece com as duas formas **dentro da tradução
+O mesmo conceito (*primeval essence*) aparece com as duas formas **dentro da tradução
 brasileira**. Entre as duas, a dominante lá é **"essência primordial"**, que é a mais
 frequente e a que aparece nos capítulos mais didáticos — é por isso que ela figura na
 coluna do meio das tabelas acima.
 
-> **O que o vault escreve é outra coisa: "essência primordial".** A decisão é nossa e
-> está registrada em "Onde o vault diverge da tradução", no topo desta nota, junto com
-> o motivo. As duas afirmações convivem sem contradição: "primordial" é o que a
-> tradução publicada mais usa, "primordial" é o que este projeto escreve.
+> **O vault segue a forma dominante e escreve "essência primordial".** Aqui não há
+> divergência a registrar: a tradução publicada e este projeto usam a mesma palavra.
+> "Essência primitiva" existe e é a mesma coisa — se você a encontrar num capítulo em
+> português, não é outro recurso.
+>
+> Uma versão anterior desta nota listava este termo na tabela "Onde o vault diverge da
+> tradução" e afirmava que o vault escrevia "outra coisa" — enquanto escrevia a mesma
+> palavra nas duas colunas. Era erro nosso, e foi removido. O termo em inglês também
+> estava errado ali: é *primeval essence*, não "primordial essence".
 
-### 9.5. "Mar primordial" × "mar primitivo"
+### 11.5. "Mar primordial" × "mar primitivo"
 
-Exatamente a mesma oscilação, aplicada ao *primordiall sea*. A forma dominante na
-tradução é **"mar primordial"**, por coerência com o item anterior — e, também por
-coerência com o item anterior, **o vault escreve "mar primordial"**.
+Exatamente a mesma oscilação, aplicada ao *primeval sea*. A forma dominante na
+tradução é **"mar primordial"**, e o vault escreve o mesmo — de novo, sem divergência.
+Vale o mesmo aviso do item anterior sobre o inglês: o termo é *primeval sea*, nunca
+"primordial sea".
 
-### 9.6. "Venerável Demônio" × "Demônio Venerável"
+### 11.6. "Venerável Demônio" × "Demônio Venerável"
 
 A ordem das palavras se inverte entre trechos. É um deslize pontual e não altera o
 sentido, mas atrapalha buscas. A ordem dominante é **"Venerável Demônio"**, coerente
@@ -441,12 +601,12 @@ por qual via a pessoa chegou lá — a correta ou a demoníaca. Não é medida d
 de crueldade. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] e
 [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
-### 9.7. "Paraíso do Tesouro Dourado" × "tesouro do paraíso dourado"
+### 11.7. "Paraíso do Tesouro Dourado" × "tesouro do paraíso dourado"
 
 Mais uma inversão de ordem, agora no nome do mercado dos Imortais. **Adotamos
 "Paraíso do Tesouro Dourado"**, a forma majoritária.
 
-### 9.8. "Espírito da terra" × "espírito celestial"
+### 11.8. "Espírito da terra" × "espírito celestial"
 
 Este **não é um erro** — é uma distinção real do mundo que se perde facilmente. O
 mesmo tipo de entidade muda de nome conforme o território: é **espírito da terra**
@@ -454,7 +614,7 @@ numa terra abençoada e **espírito celestial** numa gruta-céu. Em inglês, *la
 spirit* × *heavenly spirit*. Se você encontrar os dois termos e achar que são a mesma
 coisa, você está certo — e a diferença de nome é informação sobre o rank do dono.
 
-### 9.9. "Marcas Dao" × "marcas do caminho [X]"
+### 11.9. "Marcas Dao" × "marcas do caminho [X]"
 
 As duas formas convivem no mesmo capítulo. **"Marcas do caminho da água"** é mais
 comum no corpo do texto; **"marcas Dao"** aparece quando se fala do conceito em

@@ -6,7 +6,7 @@ aliases:
   - Fusion
   - Reverse fusion
 status: consolidado
-fontes: ["cap. 98", "cap. 99", "cap. 100", "cap. 105", "cap. 106", "cap. 113", "cap. 121", "cap. 156", "cap. 157", "cap. 212", "cap. 262", "cap. 288", "cap. 308", "cap. 309", "cap. 320", "cap. 326", "cap. 345", "cap. 477", "cap. 487", "cap. 496", "cap. 711", "cap. 736", "cap. 852", "cap. 863", "cap. 1444", "cap. 1474"]
+fontes: ["cap. 98", "cap. 99", "cap. 100", "cap. 105", "cap. 106", "cap. 113", "cap. 121", "cap. 156", "cap. 157", "cap. 212", "cap. 262", "cap. 288", "cap. 308", "cap. 309", "cap. 320", "cap. 326", "cap. 345", "cap. 477", "cap. 487", "cap. 496", "cap. 671", "cap. 711", "cap. 736", "cap. 750", "cap. 852", "cap. 860", "cap. 863", "cap. 1131", "cap. 1159", "cap. 1444", "cap. 1474", "cap. 1501", "cap. 2080", "cap. 2267"]
 conhecimento: comum
 ---
 
@@ -193,6 +193,56 @@ enquanto houver materiais. Receitas exclusivas valem ordens de magnitude mais qu
 exemplares existentes somados. É por isso que o crime econômico mais grave do mundo não é
 roubar um Gu: é copiar uma receita.
 
+### De onde vêm as receitas
+
+Se a receita é o tesouro, a pergunta seguinte é obrigatória: **quem inventa uma?** A obra
+responde em quatro camadas, e a primeira é a mais bonita.
+
+**1. A dieta é a pista.** Este é o princípio declarado da profissão, e ele conecta os três
+ofícios de [[03 - Usar e Alimentar Gu#Os três ofícios: alimentar, usar, refinar|alimentar,
+usar e refinar]] numa coisa só. Alimentar um Gu é conhecer a ligação entre um material e um
+bicho — *por que* aquele Gu come exatamente aquilo? Quem passa a vida criando Gu acumula
+essa correspondência e, olhando para um bicho e para o que ele come, **descobre receitas**.
+A comida de um Gu é, literalmente, uma lista parcial dos materiais de que ele é feito. Um
+criador atento é um pesquisador sem saber.
+
+**2. Humanos comuns são a fábrica de receitas do mundo.** Contra a intuição, a maior parte
+das receitas não sai da dedução de um imortal genial. Sai da massa: humanos puros têm a
+maior inteligência entre as raças e se reproduzem depressa, e o resultado é que **grandes
+quantidades de receitas e de golpes são criadas sem que nenhum imortal precise deduzir
+nada**. É por isso que os imortais precisam dos mortais e não apenas os toleram — a
+população é o laboratório. No nível imortal a obra repete o princípio quase como slogan:
+receitas de Gu Imortal *precisam* ser criadas por humanos.
+
+**3. Receitas melhoram com o tempo — e outras morrem.** Uma receita não é um texto fixo. Ela
+é revisada por gerações, e uma boa revisão troca materiais raros por materiais comuns e
+corta etapas. Há registro de um conjunto histórico completo, do nível 1 ao 5, **já
+melhorado a ponto de todos os materiais serem encontráveis em qualquer lugar** — vendido em
+leilão por vinte e duas pedras de essência imortal.
+
+O movimento contrário também existe e é mais comum: receitas antigas cujos materiais
+**foram extintos** simplesmente deixam de poder ser executadas. Elas continuam no acervo,
+legíveis e inúteis. E a perda pode ser de escala: um caminho inteiro de cultivo é descrito
+como tendo "pouco futuro" porque **muitas de suas receitas se perderam** — o acervo é o
+caminho, e um caminho empobrece quando seu acervo encolhe.
+
+**4. Mais receitas fazem o caminho inteiro prosperar.** O ciclo é virtuoso e explícito:
+quanto mais receitas de um caminho existem, mais materiais daquele caminho passam a ser
+cultivados; quanto mais materiais são cultivados, mais barato fica produzir; e o caminho
+inteiro floresce. Um caminho não é um conjunto de poderes — é uma **cadeia produtiva**.
+
+> [!note] Para o design
+> Aqui há duas alavancas prontas.
+> **A dieta como pista de crafting.** Se o alimento de um item revela seus componentes,
+> então observar, alimentar e cuidar de uma criatura vira uma forma de **pesquisa**, e o
+> jogador que presta atenção é recompensado com uma receita em vez de com um número. É
+> engenharia reversa feita com paciência em vez de perícia.
+> **Receitas com prazo de validade.** Uma receita cujo material foi extinto é um tesouro
+> que não funciona — e reencontrar ou substituir aquele material é uma campanha inteira.
+> Isso dá ao mestre uma forma de entregar um item lendário sem entregar o poder junto.
+
+### Como circulam, e o que pode dar errado
+
 Como as receitas são guardadas, na prática:
 
 - **Em Gu-arquivo**, em salas secretas de clã, codificadas por cor conforme o nível: verde
@@ -231,9 +281,40 @@ mestres reunidos não somam um grão-mestre.
 Uma inovação bem-sucedida pode reduzir um refino de cinco estágios para dois, cortando pela
 metade tempo e material **sem alterar a taxa de sucesso** — ganho puro.
 
-E existe uma defesa comercial elegante contra engenharia reversa: fabricar os produtos de
-nível mortal **de cima para baixo**, a partir do próprio Gu Imortal. Assim **não existe
-receita mortal separada para ninguém deduzir**. O produto circula; o método não existe.
+E existem **duas** defesas comerciais elegantes contra engenharia reversa.
+
+A primeira: fabricar os produtos de nível mortal **de cima para baixo**, a partir do próprio
+Gu Imortal. Assim **não existe receita mortal separada para ninguém deduzir**. O produto
+circula; o método não existe.
+
+A segunda é mais suja e mais usada — **adulterar o próprio produto**. Um fabricante altera
+de propósito o Gu que vende, de modo que ele funcione normalmente mas não possa ter a
+receita revertida: um exemplar assim exige, no mínimo, um grão-mestre do refino para ser
+decifrado, e há registro de um caso em que nem um espírito de terra conseguiu, a partir de
+**um** exemplar de nível 3.
+
+E aqui aparece a contramedida, que é a melhor peça de economia da nota: **quantidade vence
+ofuscação**. O mesmo espírito de terra que declarou a reversão impossível com um exemplar
+mudou de resposta na hora em que o comprador revelou ter **cinco mil** deles. Com amostras
+suficientes, o ruído introduzido pelo fabricante deixa de esconder o sinal. Copiar um
+produto protegido não é uma questão de talento: é uma questão de **quantos você conseguiu
+comprar**.
+
+Ver [[14 - Qualidade e Fraude|Qualidade e Fraude]] para as outras faces da adulteração — a
+que sabota, a que instala uma vontade estranha dentro do produto e a que simplesmente
+engana o comprador.
+
+### A receita adulterada como arma de negociação
+
+Uma consequência prática que decide como o poder se comporta no mundo: quem detém uma
+receita e é **coagido** a entregá-la pode entregar uma versão incompleta ou alterada, e o
+comprador só descobre depois de queimar os materiais. Isso inverte a relação de força de um
+jeito que a obra registra explicitamente: os anciãos de um clã que cobiçavam a receita de um
+jovem concluíram que **pressioná-lo seria burrice** — se ele morresse, a receita se perdia;
+se ficasse ressentido, entregaria uma receita envenenada. A conclusão foi cortejá-lo: presentes,
+convites, propostas de casamento.
+
+O dono de uma receita, portanto, não é um alvo. É um **partido**.
 
 > [!example] Caso mecânico
 > A cadeia de fusão de uma linhagem de Gu de refino de essência está documentada até o nível
@@ -270,3 +351,4 @@ receita mortal separada para ninguém deduzir**. O produto circula; o método n�
 - [[12 - Gu Imortais|Gu Imortais]] — por que a regra de unicidade restringe fusões no topo.
 - [[03 - Catálogo de Gu|Catálogo de Gu]] — as árvores de evolução documentadas.
 - [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas em si: materiais, passos, donos e as cadeias que ligam um Gu ao seguinte.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — a adulteração pelo outro lado: quando é você que está comprando.

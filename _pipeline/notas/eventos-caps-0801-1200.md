@@ -280,6 +280,384 @@ ambientação, mão de obra, tropa ou vítima.
 - **Lacunas:** a obra não diz quantas investidas ao todo a campanha levou desde o começo, nem
   quanto exatamente custou; não descreve a camada 3 (eight doors labyrinth) por dentro.
 
+### Disputa pela herança de wisdom path em Tai Qiu e saque de Jade Pool blessed land — caps. 781-806 (a parte dentro da faixa: 801-806)
+
+- **Tipo:** abertura de herança (inheritance ground) + corrida de abutres + saque de uma
+  blessed land de super força.
+- **Onde:** Northern Plains. A herança fica no fundo de **Tai Qiu**, uma das **dez grandes
+  áreas ferozes** (ten great fierce areas) da região; a segunda metade do evento se desloca
+  para **Jade Pool blessed land**, sede da tribo do dono da herança.
+- **Gatilho / causa mecânica:** um Gu Immortal rank 7 de wisdom path, prevendo o fim da
+  própria vida, montou dentro de Tai Qiu um **inheritance ground** e uma rota mortal
+  planejada para que **candidatos mortais de seu próprio clã** a percorressem — a herança
+  fazia parte do plano de renascimento por possessão dele, não de caridade. Ele fechou
+  acordos com as super forças do path reto para que não interferissem, mas **não previu a
+  cobiça dos imortais do próprio clã**, nem a dos imortais demoníacos.
+- **A regra especial do local (excelente para mesa):** em Tai Qiu vivem desolate beasts e
+  ancient desolate beasts em massa, e **a aura de um Gu Immortal vaza e provoca as feras** —
+  imortais não ousam entrar fundo, nem os rank 8. **Gu Masters mortais têm aura fraca e não
+  atraem as feras grandes**: seguindo a rota planejada, só encontram grupos de bestas
+  comuns. Resultado: uma masmorra em que **só personagens fracos podem entrar**, com um anel
+  de imortais poderosos parados na periferia, impotentes, observando e esperando a saída
+  (caps. 781, 1085).
+- **Escala:** grupos mortais entram em times de mais de dez pessoas e saem com três; três
+  dias adentro já custaram mais de dez ondas de bestas. Do lado de fora, os métodos
+  investigativos dos presentes contaram **19, 20 e 26 Gu Immortals escondidos** na periferia
+  (cada personagem enxerga um número diferente conforme sua perícia — detalhe delicioso para
+  mesa). Maioria de path demoníaco, com imortais do próprio clã do doador infiltrados.
+- **Ambiente por dentro:** floresta primitiva formada por **grama gigante** — um talo de
+  grama equivale a uma árvore centenária. Palco de batalha improvisado com o **cadáver de um
+  immemorial ruin bat**, cuja aura de nível imemorial afugentava as demais feras e por isso
+  permitia que imortais lutassem ali sem provocar maré de bestas (cap. 1085, retrospecto).
+- **Fases:** (1) candidatos mortais atravessam Tai Qiu pela rota; (2) imortais se acumulam
+  na periferia e começam a brigar entre si; (3) a herança se revela **não estar** onde
+  todos pensavam ("Tai Qiu não é um terreno de herança" — o título do cap. 781 é o próprio
+  aviso); (4) a briga migra para a blessed land da tribo, que é **arrombada** (um buraco
+  ligando ao exterior) enquanto o dono está preso lutando longe; (5) saque aberto: recursos
+  livres para quem pegar, e um imortal de enslavement path capturando os Gu Masters mortais
+  da tribo em massa; (6) o dono retorna e a horda demoníaca, até então dividida, **se une
+  espontaneamente** porque o saque só continua se ele morrer.
+- **Prêmio:** a herança de wisdom path descrita como "a número um de Northern Plains"; e,
+  na segunda fase, os recursos inteiros de uma blessed land de super força, abertos a
+  qualquer um que chegue.
+- **Papel possível de um grupo pequeno:** os jogadores como o time mortal contratado ou
+  aparentado que percorre a rota — combate de rank 3-5 contra bandos de bestas, com o
+  agravante de saber que, ao sair, dezenas de imortais estarão esperando. Ou como Gu Masters
+  da tribo saqueada, tentando salvar gente enquanto imortais brigam no céu.
+- **Consequência para o mundo:** uma super força regional perde a blessed land e o único
+  imortal de peso; a herança de wisdom path entra em circulação; o equilíbrio político da
+  região se desloca.
+- **Cuidado de spoiler:** ficam de fora quem levou a herança, o truque de possessão do
+  doador, quem morreu e o papel dos personagens nomeados.
+- **Lacunas:** a obra não descreve a rota planejada em detalhe nem as provas internas do
+  inheritance ground.
+
+### Chaos in Northern Plains — queda de uma super força e corrida por seus territórios — caps. 1100-1110, 1163, 1169-1172, 1181-1182
+
+- **Tipo:** colapso político de uma super força + rapina generalizada de territórios + cerco à
+  sede. É o evento "mapa aberto" da faixa: dezenas de cenas simultâneas espalhadas por uma
+  região inteira.
+- **Onde:** Northern Plains inteira, com foco em **Iron Eagle blessed land** (sede da **Hei
+  tribe**) e em seus territórios espalhados.
+- **Gatilho / causa mecânica:** a Hei tribe é **responsabilizada publicamente** pela destruição
+  de um Immortal Gu House lendário (Eighty-Eight True Yang Building) e não tem nenhum Gu
+  Immortal rank 8 para dissuadir represálias. Regra do mundo explicitada no texto: **um rank 8
+  é o que garante a existência de uma super força** — com um, a tribo pagaria uma multa pesada
+  e sobreviveria; sem um, ela é presa. Ao mesmo tempo, a **Hei Fan true inheritance** (herança
+  de um rank 8 morto da própria tribo) volta a ser acessível, o que faz a tribo **recolher
+  todos os seus Gu Immortals para a sede** — deixando o resto do seu território **sem
+  guarnição** (caps. 1101, 1103).
+- **Escala e forças (como tipos):** todas as camadas do mundo imortal aparecem ao mesmo tempo.
+  - *Super forças de sangue Huang Jin* (a nobreza da região) mobilizam times de 2 a 5 imortais
+    cada, com uma delas trazendo a própria **Immortal Gu House** para o cerco e tentando se
+    proclamar líder da aliança — proposta que ninguém aceita, porque nenhuma tribo Huang Jin
+    se submete a outra.
+  - *Imortais demoníacos e solitários* se juntam sob um rank 7 que tem um método específico
+    para arrombar a sede, e **atacam primeiro**; os do path reto ficam de fora, esperando o
+    colapso para entrar pelas brechas sem gastar recursos — divisão de trabalho involuntária
+    e cínica entre facções.
+  - *Imortais de baixo escalão* (rank 6 pobres, avós levando netos recém-ascendidos) escolhem
+    territórios periféricos, calculando explicitamente quais são "seguros o bastante": os
+    próximos à sede e os vizinhos de outras super forças são intocáveis; sobra a periferia.
+  - Um **rank 8 solitário** aproveita para fundar sua própria tribo com os despojos.
+- **Regra especial do local:** **Iron Eagle blessed land é uma "public blessed land"** — uma
+  abertura imortal *montada* como base coletiva de uma organização, e por isso **não tem as
+  defesas naturais de uma blessed land pessoal**. Fica num único ponto minúsculo e, com a
+  entrada fechada, é invisível de fora; só killer moves que enxergam através de blessed lands
+  (aqui, "purple jade eyes") revelam o que há dentro. É arrombável, e depois de arrombada
+  fica "cheia de brechas": qualquer um entra (cap. 1105).
+- **Ambiente por dentro (os territórios como cenários prontos):**
+  - **Campo de trigo dourado**: terra estéril mineralizada demais para plantas comuns, onde a
+    tribo plantou "golden wheat" — um trigo que na verdade é **metal essence**, material
+    mortal rank 5, colhido a cada dois anos, **500 mil quilos por colheita**, vendido em
+    volume. O campo é tão grande que não se vê a borda voando.
+  - **Gushing Spring Forest**: floresta de pilares d'água formados por gêiseres subterrâneos,
+    cheia de Gu mortais de water path e earth path.
+  - **Become Dragon Mound**: elevação riquíssima em dao marks de transformation path, produtora
+    histórica de "dragon Gu" (golden dragon, water dragon, earth dragon, dragon claw, dragon
+    breath, dragon pearl).
+  - Uma planície comum escondendo um **fragmento do immemorial red heaven**.
+- **Fases:** (1) a acusação pública e o recolhimento das tropas; (2) semanas de rapina nos
+  territórios periféricos, com brigas de dez imortais por um bosque; (3) cerco à sede, path
+  demoníaco arrombando e path reto esperando; (4) queda; (5) redistribuição — um recém-chegado
+  rank 8 absorve a tribo derrotada mas **precisa ceder a maior parte dos despojos** às outras
+  super forças para ser aceito, porque é de fora do sangue Huang Jin; (6) anos depois, a
+  autoridade suprema da região emite o **Longevity Edict** — um Immortal Gu de information path
+  que viaja sozinho de tribo em tribo transmitindo a ordem e recolhendo a resposta de cada
+  supreme elder — mobilizando *todas* as tribos Huang Jin contra o novo entrante (cap. 1181).
+- **Papel possível de um grupo pequeno:** exemplar. A obra mostra explicitamente imortais
+  fracos fazendo **análise de risco de saque**: que território ninguém forte quer, quando ir,
+  como sair. Um grupo de rank 6 pobres pode rodar a campanha inteira sem nunca ver o cerco
+  principal — só a corrida pelos restos, com encontros aleatórios contra outros grupos de
+  igual para igual. Para mortais: os Gu Masters e camponeses da tribo caída, cujas fazendas,
+  minas e florestas viram campo de batalha.
+- **Consequência para o mundo:** uma super força milenar desaparece do mapa; uma nova nasce do
+  nada; o equilíbrio da região se reorganiza e gera, anos depois, uma guerra de coalizão.
+- **Cuidado de spoiler:** ficam de fora os nomes dos vencedores, quem herdou o quê, e a
+  identidade do verdadeiro culpado pela destruição que desencadeou tudo.
+- **Lacunas:** a obra não dá o número total de territórios da tribo nem quanto tempo durou a
+  fase de rapina.
+
+### Hei Fan grotto-heaven e a Immortal Succession Mountain — caps. 1114-1133, 1177-1182
+
+- **Tipo:** abertura de herança (true inheritance) + mundo-prisão fechado + disputa armada
+  posterior pelo território conquistado.
+- **Onde:** **Hei Fan grotto-heaven**, um grotto-heaven (grau acima de blessed land) sem
+  localização física acessível — flutua fora do mundo de Northern Plains e só se entra
+  rasgando o espaço num ponto exato. O único meio mostrado é uma besta capaz de atravessar
+  espaço para dentro de grotto-heavens (um **upper extreme heavenly eagle**, filhote de
+  immemorial desolate beast que, adulto, terá força de rank 8) (cap. 1119).
+- **Gatilho / causa mecânica:** Hei Fan foi um Gu Immortal rank 8 de time path que levou sua
+  tribo ao auge. Antes de morrer, deixou o próprio grotto-heaven como **true inheritance** —
+  *o prêmio é o mundo inteiro*: quem herda vira o dono do grotto-heaven. Nenhum descendente
+  conseguiu herdá-lo em séculos.
+- **Ambiente por dentro:** um mundo completo e vasto, com céu permanentemente **azul** (um
+  fragmento do immemorial azure heaven fundido nele), floresta antiga de **musical trees**
+  (folhas multicoloridas, aves canoras), **qi death birds**, **tea streams** (riachos verdes
+  fumegantes com folhas que parecem chá), montanhas veneradas pelos locais, e recursos
+  acumulados por gerações — porque o lugar **não tem ligação com o mercado imortal
+  (treasure yellow heaven)**: muita quantidade, pouca variedade.
+- **Quem mora lá dentro:** descendentes de **imortais criminosos** exilados pelo fundador, mais
+  uma população mortal local. No momento do evento havia **nove Gu Immortals** — dois rank 7 e
+  sete rank 6 — divididos em um clã de sangue (quatro), um trio de irmãos jurados e dois
+  solitários. Traço decisivo para a mesa: **isolados há gerações, são ingênuos** — péssimos em
+  confronto verbal, sem malícia política, com métodos de combate desatualizados, e **nem sabem
+  que o mercado imortal existe**.
+- **Regras especiais do local (a jaula):**
+  - Os moradores **não conseguem sair**; o texto os descreve dizendo "para romper esta gaiola".
+  - **Immortal Succession Mountain**: uma montanha solitária, artificialmente talhada em **dez
+    níveis**, cercada de florestas ricas. Cada nível guarda uma herança (uma delas, no primeiro
+    patamar, é de luck path). Subir a montanha é uma prova; a cada nível vencido, o **sino do
+    heavenly spirit toca uma vez, e o som se espalha pelo mundo inteiro** — todos os moradores
+    ouvem e sabem exatamente até onde o candidato chegou. **Dez toques** significa que apareceu
+    alguém qualificado para a herança principal (caps. 1119, 1121).
+  - **Heavenly spirit** (espírito celestial — o equivalente, num grotto-heaven, do land spirit
+    de uma blessed land): aqui um **sino de bronze** que se pendura num gancho do pavilhão. É
+    **sem mente própria** (mindless), mas executa fielmente as instruções deixadas pelo
+    fundador. A informação do lugar está gravada num **tablete de pedra** do tamanho de um
+    elefante; perguntas ao sino fazem **novas linhas aparecerem** no tablete.
+  - **A coleira**: todo Gu Immortal nascido lá dentro enfrenta calamidades e tribulações
+    normalmente. Quando não consegue passar de uma, recorre ao heavenly spirit, que usa um
+    Immortal Gu da primeira herança para **adiar a tribulação** dele. A partir daí, aquele
+    imortal está sob controle do espírito, porque **o adiamento pode ser removido a qualquer
+    momento — e aí ele morre**. Como o grotto-heaven não tem variedade de recursos, cedo ou
+    tarde *todos* falham numa tribulação e caem na armadilha. É assim que um morto governa um
+    mundo há séculos (cap. 1121).
+- **A prova final (o coração jogável):** o tablete revela que, além de subir a montanha, o
+  candidato precisa **obter o voto de metade dos Gu Immortals do grotto-heaven, dentro de três
+  anos** contados no tempo interno do lugar. O fundador projetou isso para escolher um
+  **líder**, não um lutador: a prova é de política e persuasão, e obriga o herdeiro a acolher
+  os exilados em vez de exterminá-los (cap. 1122). Para uma mesa, é uma campanha inteira de
+  intriga com nove PNJs bem definidos e um relógio de três anos.
+- **Prêmio:** a propriedade de um grotto-heaven inteiro, mais o conjunto de tesouros do
+  fundador ("as quatro maravilhas de Hei Fan", caps. 1128-1129) e o método de **desacelerar o
+  tempo dentro de uma abertura imortal** — o que, no sistema do mundo, significa **espaçar as
+  calamidades e tribulações** de quem o usa. Era esse método que sustentava a antiga era de
+  ouro da tribo: o rank 8 desacelerava a abertura dos subordinados, e por isso a tribo tinha
+  mais imortais sobreviventes que qualquer outra.
+- **Fase posterior — Contest Over Hei Fan Grotto-heaven (caps. 1177-1182):** com o dono novo
+  instalado, o grotto-heaven vira alvo. Um **rank 8** de fora ataca **enviando ondas de
+  desolate beasts para dentro** em vez de entrar pessoalmente; o defensor contrata mercenários
+  imortais para guardar setores. Detalhe mecânico rico: **os recursos transplantados precisam
+  de tempo para "pegar"** — plantas imortais recém-instaladas precisam absorver earth qi antes
+  de poderem ser movidas de novo, e arrancá-las cedo as destrói. Ou seja, o defensor **não pode
+  simplesmente fugir com o saque**; tem de segurar o terreno por um prazo. O conflito termina
+  **por acordo político**, não militar: uma ameaça maior aparece para os dois lados e o
+  inimigo vira aliado.
+- **Papel possível de um grupo pequeno:** (a) os jogadores como o grupo que entra e precisa
+  conquistar votos — cada um dos nove imortais locais é um problema social distinto; (b) os
+  jogadores como os *próprios* moradores, gente presa num mundo pequeno descobrindo que a
+  reverência ao ancestral é uma coleira; (c) na fase posterior, mercenários defendendo setores
+  contra ondas de bestas enquanto uma plantação criticamente valiosa amadurece.
+- **Consequência para o mundo:** um grotto-heaven de rank 8 muda de dono e passa a ser
+  desenvolvido; o método de desaceleração de tempo entra em circulação.
+- **Cuidado de spoiler:** ficam de fora quem herdou, como os votos foram obtidos, as mortes
+  entre os imortais locais e a identidade real do herdeiro.
+- **Lacunas:** a obra não descreve o conteúdo dos dez níveis da montanha um a um, nem a
+  população mortal interna em números, nem o que aconteceu com os moradores depois.
+
+### Queda de Sacred Feather City e o êxodo dos feathermen — caps. 864-871, 977-978
+
+- **Tipo:** cerco e destruição de uma cidade de humanos-variantes + êxodo de um povo inteiro,
+  que chega ao destino **na forma de uma calamidade**.
+- **Onde:** **Sacred Feather City**, "a cidade no céu" — uma cidade inteira que é ao mesmo tempo
+  um **Immortal Gu House**, flutuando dentro de um **mundo-fragmento do immemorial green
+  heaven** (céu levemente esverdeado, vento perpétuo nas quatro estações), isolado do mundo
+  exterior e tratado pelos moradores como paraíso.
+- **Gatilho / causa mecânica:** um grupo de Gu Immortals **humanos** cerca a cidade para tomar
+  o Immortal Gu House e escravizar a população. O comandante do cerco **imobiliza a cidade
+  primeiro** e depois ataca sem pressa — e, quando percebe que os defensores vão fugir,
+  **manda deliberadamente não interromper**: ele quer o edifício vazio, não a matança.
+- **Duração e escala:** bombardeio contínuo por **três dias e duas noites**, com killer moves
+  mortais em massa e alguns imortais. Mais da metade das tropas da cidade morre. A cidade tinha
+  **três Gu Immortals** (um rank 7, dois rank 6); um morre no cerco. População na casa das
+  **dezenas de milhares**.
+- **Regra especial: o desespero como recurso.** O escape é o immortal killer move **Heavenly
+  Wish** (desejo celestial): toda a população se reúne na arena e **grita desejos em coro** —
+  "que meu povo sobreviva", "que meu povo tenha liberdade", "que meu povo tenha um lugar no
+  mundo" — e a cidade inteira se acende em luz branca que cresce de alguns metros a dezenas de
+  metros até teleportar todos para longe. É um golpe de **fuga em massa**, não de combate, e
+  custa a cidade em si.
+- **A consequência mais interessante para uma mesa:** o destino do teleporte **não é
+  escolhido**. O povo inteiro reaparece dentro da blessed land de um Gu Immortal qualquer — e
+  o sistema do mundo os classifica como uma **earthly calamity** daquela abertura imortal. Ou
+  seja: *uma calamidade que cai sobre uma blessed land pode ser um povo refugiado desesperado,
+  armado e liderado por dois Gu Immortals*. Do lado de dentro, os refugiados avaliam
+  imediatamente matar o dono e tomar o mundinho para si — "é pior que o fragmento do green
+  heaven, mas dá para o nosso povo viver".
+- **Prêmio / o que se ganha:** para os sitiantes, um Immortal Gu House inteiro sem gastar quase
+  nada; para os defensores, a sobrevivência do povo e nada mais; para o dono da blessed land
+  onde eles caem, um problema e uma oportunidade (mais tarde, os feathermen viram população
+  submetida dentro de uma abertura imortal, caps. 977-978).
+- **Papel possível de um grupo pequeno:** os jogadores como feathermen mortais da cidade —
+  defender muralhas por três dias sabendo que a derrota significa escravidão, evacuar civis,
+  decidir se apoiam o desejo coletivo. Ou, do outro lado, como o pequeno grupo que de repente
+  encontra dezenas de milhares de refugiados armados materializados no próprio quintal.
+- **Consequência para o mundo:** um povo variante perde seu último território independente; um
+  Immortal Gu House muda de mãos; reforça-se a regra social de que **o mundo é dos humanos e
+  os variant humans não têm onde viver**.
+- **Cuidado de spoiler:** ficam de fora quem eram os sitiantes, o destino dos dois Gu Immortals
+  feathermen e o que acontece com o povo depois.
+- **Lacunas:** a obra não diz quantos feathermen sobreviveram, nem por que o teleporte escolhe
+  aquele destino específico.
+
+### Cerco de Luo Po valley e a herança de Thieving Heaven — caps. 886, 898, 922-923, 952-953, 990-992
+
+- **Tipo:** cerco de fortaleza entre grandes forças de duas regiões + abertura de herança de
+  Venerável escondida dentro do próprio campo de batalha.
+- **Onde:** **Luo Po valley**, em Northern Plains. É um **"secluded domain of heaven and earth"**
+  (domínio isolado de céu e terra) — categoria rara de lugar, não uma blessed land: um vale
+  onde sopra o ano inteiro uma **névoa de desnorteamento** (bewilderment fog) e o **Luo Po
+  wind**, e onde vivem em massa os **white lotus giant silkworm Gu**. Servia de **base e
+  fortaleza** de uma organização secreta que atravessa duas regiões.
+- **Gatilho / causa mecânica:** as **dez grandes seitas antigas de Central Continent** montam
+  uma expedição a outra região para investigar a destruição de um Immortal Gu House lendário e
+  cercam o vale. O lado de dentro tem **vantagem territorial** (as formações e o próprio
+  domínio); o lado de fora tem números e determinação e **não recua**.
+- **Duração:** o cerco vira a **"hundred days battle"** (batalha dos cem dias) — cem dias
+  exatos, e o nome entra para o vocabulário do mundo. Metade dos defensores morre; do lado
+  atacante, o desgaste de immortal essence é descrito como enorme e vários ficam
+  "falidos".
+- **Ambiente por dentro / regras especiais:**
+  - O vale acumula, ao longo do cerco, **formações de Gu de ambos os lados sobrepostas** —
+    primeiro as do defensor, depois as do atacante que invadiu e destruiu as anteriores. O
+    resultado é um terreno **entulhado de armadilhas antigas meio quebradas**: quem entrar
+    depois precisa **contornar umas e desmontar outras** (o texto conta: "contornou quatro
+    formações e desmontou três").
+  - Efeito ambiental: tanta formação sobreposta **matou o clima natural do domínio** — a névoa
+    perpétua e o Luo Po wind simplesmente **desapareceram**. Excelente detalhe de mundo: uma
+    guerra de imortais altera permanentemente um fenômeno natural.
+  - Os white lotus giant silkworm Gu, recurso famoso do lugar, foram **quase exterminados**
+    pela batalha e o resto foi varrido pelos vencedores.
+- **O prêmio escondido:** dentro do vale, sem nenhuma pista externa detectável mesmo por
+  métodos de investigação de grandmaster, existe a entrada para o **espaço da true inheritance
+  do Thieving Heaven Demon Venerable**. A entrada **só abre com um Gu específico** (o
+  "open door Gu"), e a dica de onde usá-lo chegou por um canal místico independente. A
+  entrada aparece como um portal de luz que **encolhe progressivamente** depois de aberta —
+  relógio embutido. O espaço interno é descrito como vastíssimo.
+- **Fases:** (1) cerco e cem dias de batalha; (2) queda e ocupação pelos vencedores, que
+  deixam um único vigia contratado à força; (3) janela de oportunidade — os ocupantes são de
+  outra região e **não podem ficar muito tempo**; (4) terceiros entram para saquear o campo de
+  batalha, disputando os despojos e a herança; (5) o domínio inteiro acaba sendo **arrancado do
+  chão e levado embora** por um killer move que move montanhas.
+- **Papel possível de um grupo pequeno:** o cenário clássico do "campo de batalha esfriando":
+  os jogadores entram depois do fim da guerra, num vale arruinado, cheio de formações
+  semiquebradas, cadáveres, Gu selvagens e outros saqueadores — com um vigia solitário e mal
+  pago no portão, e um segredo enterrado que só abre com o item certo.
+- **Consequência para o mundo:** uma organização secreta perde a base; um domínio natural raro
+  é destruído como ecossistema; uma herança de Venerável entra em circulação.
+- **Cuidado de spoiler:** ficam de fora quem sitiou, quem morreu (inclusive uma morte muito
+  importante), quem herdou o legado do Venerável e o que a organização guardava lá.
+- **Lacunas:** a obra não descreve as provas internas do espaço da herança nem o número total
+  de combatentes dos dois lados.
+
+### Blood Plain Martial Competition — caps. 1190-1197
+
+- **Tipo:** torneio de campeões usado como substituto formal de uma guerra regional.
+- **Onde:** **Blood Plain**, uma planície de Northern Plains escolhida como terreno neutro, a
+  meio caminho entre os dois blocos.
+- **Gatilho / causa mecânica:** a autoridade suprema da região emite o **Longevity Edict** e
+  convoca **todas as onze tribos de sangue Huang Jin** contra um bloco novo formado por uma
+  tribo recém-fundada e uma seita demoníaca. Os dois líderes rank 8 se encontram, concluem que
+  uma guerra frontal não resolveria nada e **combinam um "martial competition"**: em vez de
+  lutarem eles próprios, mandam **os juniores** lutar e deixam o atrito subir devagar. É guerra
+  por procuração formalizada por acordo entre os dois maiores poderes.
+- **Formato (o que uma mesa precisa):**
+  - Série de **duelos individuais, um de cada lado por vez, até a morte ou rendição**, sob os
+    olhos de todos os presentes.
+  - Cada lado escolhe internamente quem sobe a cada rodada; do lado da coalizão maior, uma
+    figura preside e **autoriza** quem vai — com política interna pesada, porque cada tribo
+    quer glória para os seus e nenhuma quer gastar seus melhores.
+  - **Vitórias consecutivas contam**: um campeão que vence três vezes seguidas domina a rodada.
+  - O placar não é por número bruto de vitórias, mas pelo **peso do que se derrubou**: matar um
+    rank 7 vale mais que vencer três rank 6.
+  - **Os despojos do morto pertencem ao vencedor** — corpo, Gu, abertura imortal —, e isso está
+    **escrito no acordo da competição**; o lado perdedor não pode impedir.
+  - Fora do acordo, cada bloco tem **planos de resgate**: um patrono pode romper as regras para
+    salvar o próprio junior, ao custo da reputação.
+- **Escala:** onze super forças de um lado, com pelo menos **três Immortal Gu Houses** (salões
+  voadores) pairando simultaneamente sobre a planície — cena descrita como rara no mundo
+  imortal da região. Do outro lado, uma coalizão menor que compensa **recrutando mercenários,
+  solitários e demoníacos** — e a notícia da competição se espalha até as outras regiões,
+  atraindo forasteiros que vêm construir reputação.
+- **Prêmio:** para os indivíduos, **fama** — o motor declarado: juniores desconhecidos entram
+  justamente para ter o nome espalhado pelo mundo — e os despojos dos derrotados, incluindo
+  aberturas imortais inteiras (um degrau de avanço de rank). Para os blocos, vantagem
+  psicológica e política antes da guerra de verdade.
+- **Papel possível de um grupo pequeno:** perfeito para personagens ambiciosos de rank 6: são
+  exatamente "juniores sem nome" que a mesa acompanha subindo à arena. Também rende papéis não
+  combatentes: apostadores, agentes recrutando mercenários, espiões medindo a força alheia.
+- **Consequência para o mundo:** define quem tem a moral mais alta antes da guerra e cria (ou
+  destrói) reputações de uma geração inteira.
+- **Cuidado de spoiler:** ficam de fora quem venceu cada duelo, quem morreu e como a guerra
+  maior terminou.
+- **Lacunas:** a obra não diz quantas rodadas ao todo, nem se havia limite de rank para os
+  participantes, nem quanto tempo o torneio durou.
+
+### Expedição ao Earth Trench — caps. 927-938
+
+- **Tipo:** expedição de exploração em zona proibida; caça a materiais imortais e Gu selvagens.
+- **Onde:** o **Earth Trench** (a Trincheira da Terra) de Northern Plains. Regra geral do
+  mundo: **cada uma das cinco regiões tem o seu Earth Trench** — fendas gigantescas no solo,
+  algumas com milhões de li de extensão, dezenas de milhares de quilômetros de profundidade,
+  algumas **imensuráveis**; contam entre as maiores maravilhas naturais conhecidas.
+- **Regras especiais / ambiente:** o interior alarga vertiginosamente conforme se desce —
+  poucos minutos de voo e a fenda já comporta "setenta ou oitenta cidades gigantes". Paredes
+  lisas e nuas, com plantas em forma de agulha esparsas como grãos de gergelim; escuridão
+  permanente pontuada de brilhos; **óleo negro escorregadio** cobrindo o fundo (que certas
+  bestas usam para se mover como peixe na água). **Quanto mais fundo, mais feras, plantas
+  misteriosas e Gu selvagens** — e mais fortes: desolate beasts em bandos, ancient desolate
+  beasts nada raros, e nas profundidades, immemorial desolate beasts.
+- **Quem controla:** apenas **super forças** conseguem ocupar um Earth Trench como ponto de
+  recurso, e mesmo assim só a faixa mais rasa — no caso descrito, **cerca de 160 km** a partir
+  da superfície, apesar de séculos de esforço. Cidades inteiras são construídas na boca da
+  fenda só para explorá-la, e a entrada é vigiada permanentemente por pelo menos um rank 7.
+- **Por que se desce mesmo assim:** é um dos poucos pontos de recurso realmente ricos numa
+  região pobre. Ali dentro há **materiais imortais** que não existem em outro lugar (o
+  "star night mucus" só pode ser colhido acompanhando uma besta específica que só vive no
+  fundo, e processado **na hora**, em janela curtíssima), **Gu selvagens**, um **"mar de restos
+  de materiais imortais"** e **formações de Gu antigas gigantescas** — uma delas exigiria
+  "vários meses" para ser desvendada, e só espiar por uma fresta já consumiu tudo que um
+  grandmaster de wisdom path conseguia fazer.
+- **Como se monta uma expedição (útil como modelo de missão):** negociação política com quem
+  controla a entrada; escolta designada (no caso: **cinco imortais zumbis — dois rank 7 e três
+  rank 6**); dias de preparação em que os membros **pegam Immortal Gu emprestados** da
+  organização para a missão; guias locais que conhecem o terreno; e um objetivo declarado que
+  serve de pretexto para um objetivo real.
+- **Perigo característico:** as feras fortes têm **território e rotina** — o ponto alto do
+  bloco é um grupo trabalhando numa formação enquanto a besta dona do ninho está fora, com
+  contagem regressiva até a volta dela; ao voltar, ela **fareja auras residuais** deixadas
+  pelo trabalho investigativo e patrulha desconfiada até as auras se dissiparem.
+- **Papel possível de um grupo pequeno:** modelo de masmorra vertical. O grupo desce por
+  camadas de perigo crescente, com um teto natural de profundidade dado pela própria força; o
+  prêmio é proporcional à profundidade; a escolta é mais forte que os jogadores e tem agenda
+  própria.
+- **Consequência para o mundo:** local, não estrutural — o Earth Trench é permanente e nunca
+  é conquistado.
+- **Cuidado de spoiler:** ficam de fora o objetivo real da expedição, o que foi encontrado na
+  formação antiga e a revelação sobre uma abertura imortal específica.
+- **Lacunas:** a obra nunca descreve o fundo do Earth Trench — ninguém jamais chegou lá.
+
 ## Eventos recorrentes e institucionais
 
 ## Eventos históricos citados

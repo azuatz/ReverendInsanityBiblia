@@ -124,11 +124,16 @@ a essência alheia **entra em conflito com a nativa e impregna as paredes da abe
 sufocando o potencial futuro do receptor. Existe um Gu específico de purificação capaz
 de limpar essa contaminação — obtê-lo é, ele mesmo, um objetivo de campanha.
 
-- **Preço:** dano permanente ao potencial, salvo purificação posterior.
+- **Preço:** dano permanente ao potencial, salvo purificação posterior. A purificação tem
+  uma versão caseira e parcial, que qualquer personagem executa sozinho, e uma versão
+  definitiva que é objeto de campanha — ambas em [[15 - Perder Cultivo|Perder Cultivo]].
 - **Nuance:** a perda depende do vínculo entre doador e receptor. Há um Gu de
   transferência cuja taxa de aproveitamento varia conforme o grau de parentesco — de
   fratricida a sangue do mesmo sangue, com aproveitamento crescente e sem perda alguma
   no vínculo mais próximo. Ou seja: **de quem você recebe importa mecanicamente.**
+- **A leitura correta do mecanismo:** o mundo não o classifica como doação, e sim como
+  **cultivo em par** — os dois lados avançam, e é possível construir uma carreira inteira
+  em dupla. Ver [[14 - O Corpo e a Mente do Mestre Gu#Cultivar acompanhado|Cultivar acompanhado]].
 
 ### Pedras primordiais como combustível externo
 
@@ -252,7 +257,10 @@ Nem toda saída do mundo mortal passa pela ascensão comum:
 
 - **Zumbificação.** Existe uma escada inteira de transformação em morto-vivo, com ganho
   de longevidade e poder e perda progressiva de humanidade. É rota real, praticada por
-  organizações inteiras, e não um beco sem saída — mas cobra o que se imagina.
+  organizações inteiras, e não um beco sem saída — mas cobra o que se imagina, e cobra
+  no lugar mais caro possível: a abertura **morre**, para de produzir energia sozinha e
+  deixa de ganhar dao marks, congelando o cultivo no patamar em que a pessoa morreu. Ver
+  [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
 - **Possessão.** Um imortal morto tomando outro corpo, herdando a vida dele.
 - **Ser convertido por terceiros.** Organizações poderosas fabricam imortais para os
   próprios fins, o que resolve o problema técnico e cria outro, de servidão.

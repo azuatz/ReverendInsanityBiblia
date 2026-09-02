@@ -8,7 +8,7 @@ aliases:
   - Single refinement
   - Reverse refinement
 status: consolidado
-fontes: ["cap. 10", "cap. 17", "cap. 18", "cap. 20", "cap. 21", "cap. 42", "cap. 138", "cap. 162", "cap. 183", "cap. 212", "cap. 265", "cap. 278", "cap. 286", "cap. 304", "cap. 320", "cap. 326", "cap. 430", "cap. 507", "cap. 516", "cap. 593", "cap. 843", "cap. 860", "cap. 950", "cap. 1065", "cap. 1299", "cap. 1374", "cap. 1441", "cap. 1529", "cap. 1569", "cap. 1608", "cap. 1790", "cap. 1858", "cap. 2077", "cap. 2131", "cap. 2154"]
+fontes: ["cap. 10", "cap. 17", "cap. 18", "cap. 20", "cap. 21", "cap. 42", "cap. 57", "cap. 129", "cap. 138", "cap. 162", "cap. 183", "cap. 186", "cap. 212", "cap. 265", "cap. 278", "cap. 286", "cap. 304", "cap. 320", "cap. 326", "cap. 421", "cap. 430", "cap. 507", "cap. 516", "cap. 593", "cap. 843", "cap. 860", "cap. 950", "cap. 1065", "cap. 1293", "cap. 1299", "cap. 1374", "cap. 1441", "cap. 1529", "cap. 1569", "cap. 1608", "cap. 1790", "cap. 1858", "cap. 2077", "cap. 2131", "cap. 2154"]
 conhecimento: comum
 ---
 
@@ -78,6 +78,7 @@ A dificuldade não depende só do nível do bicho. Depende de **que vontade** mo
 | Origem do Gu | Dificuldade | Observação |
 |---|---|---|
 | Selvagem comum | proporcional ao instinto de sobrevivência | difícil, nunca perigoso |
+| Com requisito moral ou pessoal não cumprido | **impossível, e destrutivo** | o refino falha e **o Gu morre na hora** — ver [[03 - Usar e Alimentar Gu#Cada Gu pode ter uma exigência especial — em qualquer um dos três eixos]] |
 | Extraído de fóssil | trivial | nasce fraco e quase sem consciência |
 | Deixado por Mestre morto | **muito** acima do nível aparente | retém a vontade tenaz do antigo dono |
 | Deixado por Mestre morto que odiava você | ainda pior, especificamente para você | a resistência é personalizada |
@@ -114,9 +115,17 @@ protegido iniciante. Em campo, expor a aura faz um Gu selvagem se render na hora
 
 Em escala, isso é devastador: a aura latente de um Gu de nível 6 refina **centenas** de Gu
 de nível 1 e dezenas de nível 2 em minutos. O limite deixa de ser a velocidade e passa a ser
-a capacidade da abertura de quem recebe. Um caso extremo registrado leva a técnica além:
-usada com força suficiente, ela permite refinar — isto é, roubar — um Gu **já vinculado a
-outra pessoa viva**, no nível mortal.
+a capacidade da abertura de quem recebe (ver [[13 - Onde um Gu Mora|Onde um Gu Mora]]). Um
+caso extremo registrado leva a técnica além: usada com força suficiente, ela permite
+refinar — isto é, roubar — um Gu **já vinculado a outra pessoa viva**, no nível mortal.
+
+**Mas a técnica tem um teto, e ele é abrupto.** A obra mede o alcance da aura de um Gu de
+nível 6 assim: ela é esmagadora contra Gu de **níveis 1 a 4**; contra Gu de **nível 5** o
+efeito já é *menor*; e contra outro Gu de **nível 6 não há intimidação nenhuma**. A
+comparação que o texto faz é sociológica: alguém muito superior desperta reverência,
+alguém apenas um pouco melhor desperta rivalidade. A consequência prática é que o atalho
+funciona esplendidamente para armar recrutas em massa e **não serve para nada** no
+patamar em que a pessoa que empresta a aura efetivamente joga.
 
 ### O que a subjugação custa
 

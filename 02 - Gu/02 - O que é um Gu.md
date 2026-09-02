@@ -6,7 +6,7 @@ aliases:
   - Wild Gu
   - Gu selvagem
 status: consolidado
-fontes: ["cap. 2", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108"]
+fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 129", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1038", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108"]
 conhecimento: comum
 ---
 
@@ -36,12 +36,42 @@ controlar (ver [[12 - Gu Imortais|Gu Imortais]]).
 ### Escala de 1 a 9
 
 Gu têm **nível (rank) de 1 a 9**, na mesma escala dos Mestres Gu. A doutrina prática é usar
-Gu do próprio nível: um Gu abaixo do seu rende pouco, e um Gu acima do seu simplesmente não
-é manejável — falta essência para acioná-lo e falta capacidade para contê-lo.
+Gu do próprio nível: um Gu abaixo do seu rende pouco, e um Gu acima do seu cobra caro
+demais.
 
 Os níveis 1 a 5 formam o mundo mortal, onde vive a esmagadora maioria dos cultivadores. Do
 nível 6 em diante, tudo muda de categoria: são os [[12 - Gu Imortais|Gu Imortais]], únicos no mundo,
 tratados em nota própria.
+
+#### O martelo grande demais: o que acontece com um Gu acima do seu nível
+
+Vale gastar um parágrafo nisto, porque a intuição de quem vem de outros sistemas é que um
+item poderoso demais "simplesmente não funciona", e não é isso que a obra descreve. **Não
+há proibição.** Um Mestre de nível 2 pode perfeitamente possuir um Gu de nível 3 ou 4 — só
+que quase ninguém faz, e a obra enumera exatamente por quê. São quatro custos que se
+somam:
+
+1. **A comida fica cara.** A dieta escala com o nível do bicho, não com o bolso do dono.
+   Muitos Mestres de nível baixo simplesmente não conseguem sustentar um Gu de nível alto,
+   e o Gu morre de fome nas mãos deles.
+2. **O acionamento fica caro.** Um Gu de nível superior consome mais
+   [[04 - Essência Primordial|Essência Primordial]] por uso do que a abertura do dono
+   comporta com folga. Uma luta que duraria minutos acaba em duas ou três ativações.
+3. **O controle piora.** O Gu fica "mais difícil de usar" — não obedece com a mesma
+   precisão, e o resultado sai pior do que a ficha promete.
+4. **O usuário se machuca.** Esta é a parte que costuma escapar. A imagem que a obra usa,
+   duas vezes e nas mesmas palavras, é a de **um bebê tentando erguer um martelo grande**:
+   se ele insistir, distende um músculo com o peso e **esmaga o próprio pé**. Usar um Gu
+   acima do seu nível pode ferir quem o usa, e não apenas falhar.
+
+A isso soma-se um quinto efeito, que não é de uso e sim de posse: o Gu de nível muito
+superior **pressiona a abertura por dentro** e pode rompê-la. Esse é assunto de
+[[13 - Onde um Gu Mora|Onde um Gu Mora]].
+
+O caso simétrico — o Gu **abaixo** do seu nível — não fere ninguém: apenas rende pouco e
+ocupa um lugar que valeria mais para outra coisa. Nos patamares altos, Gu de nível baixo
+deixam de ser equipamento e passam a ser **insumo**, consumidos às centenas ou aos
+milhares por um único golpe de fabricação.
 
 ### Gu são seres vivos — e isso é o ponto
 
@@ -164,6 +194,10 @@ nenhum. A imensa maioria dos insetos do mundo é apenas inseto.
   nível: penetração fura blindagem de mesmo nível; ataques de alma ignoram defesa física.
 - **Um Gu depende de quem o usa.** Princípio declarado do mundo, e não é retórica: o mesmo
   bicho nas mãos de um veterano e de um novato produz resultados de categorias diferentes.
+- **Qualidade varia dentro de um mesmo nível.** Dois Gu de nível 3 não são
+  intercambiáveis: um pode ser considerado "de primeira linha" e o outro medíocre. Os
+  critérios que o mundo usa e como se avalia um bicho antes de comprá-lo estão em
+  [[14 - Qualidade e Fraude|Qualidade e Fraude]].
 - **Variantes contam como bichos distintos.** Dois Gu da mesma família com "sabor"
   ligeiramente diferente — uma formiga de fogo e uma de água, por exemplo — são
   considerados Gu **diferentes** e podem coexistir no mundo. Isso importa muito no nível
@@ -200,12 +234,13 @@ A doutrina de sobrevivência para quem viaja sozinho manda cobrir **seis funçõ
 defesa, cura, armazenamento, reconhecimento e movimento. Cada lacuna nessa lista é um ponto
 fraco potencialmente fatal — um cultivador poderosíssimo sem Gu de movimento morre cercado.
 
-Confronte as duas coisas e sai a estrutura social do mundo inteira: um Mestre no **início da
-carreira carrega dois ou três Gu** contra seis funções obrigatórias, e a matemática não
-fecha nem de longe. É por isso que Mestres Gu operam em **grupos** — e por que o grupo é uma
-necessidade dos fracos que se afrouxa conforme se sobe: um veterano de nível 5, com até sete
-slots, cobre as seis funções sozinho. A estrutura social do mundo é uma consequência direta
-do custo de ração dos bichos.
+Confronte as duas coisas e sai a estrutura social do mundo inteira: **um Mestre Gu comum
+carrega três a cinco Gu** contra seis funções obrigatórias, e no início da carreira são
+dois ou três. A matemática não fecha nem de longe. É por isso que Mestres Gu operam em
+**grupos** — e por que o grupo é uma necessidade que só se afrouxa para quem enriquece:
+quem consegue sustentar sete bichos cobre as seis funções sozinho, e a obra trata esse
+número como exceção digna de nota. A estrutura social do mundo é uma consequência direta do
+custo de ração dos bichos.
 
 Gu também são ferramentas civis, e essa é a parte do mundo que raramente aparece nos
 resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, lojas que são
@@ -240,5 +275,7 @@ resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, loja
 - [[06 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem para níveis mais altos.
 - [[04 - Gu Vital|Gu Vital]] — o Gu ligado à própria vida do Mestre.
 - [[12 - Gu Imortais|Gu Imortais]] — o que muda a partir do nível 6.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — onde o bicho fica guardado e quantos cabem.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — como se distingue um bom Gu de um ruim, e um verdadeiro de um falso.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como Gu se agrupam em famílias temáticas.
 - [[04 - Essência Primordial|Essência Primordial]] — a energia que aciona todos eles.

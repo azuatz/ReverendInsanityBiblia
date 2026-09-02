@@ -22,6 +22,12 @@ O vocabulário do mundo distingue as duas escadas com precisão, e vale adotá-l
 - **Pequeno reino** = avançar de **estágio** dentro do rank. Os quatro estágios são **inicial, médio, superior e pico**. Depende de esforço, tempo e itens de aceleração. A cada estágio, a [[04 - Essência Primordial|essência]] dobra de densidade e a parede da abertura muda de material (luz → água → pedra → cristal).
 - **Grande reino** = avançar de **rank**. Depende fundamentalmente de [[03 - Aptidão|aptidão]]. A cada rank, a essência muda de cor e multiplica a potência por dez.
 
+A obra separa os dois com uma frase que vale guardar inteira, porque ela é a chave de
+calibragem de tempo de qualquer campanha: **romper um grande reino exige capacidade e
+talento; romper um pequeno reino é mero acúmulo de tempo** — com tempo suficiente, a
+abertura continua sendo nutrida e o cultivo continua subindo sozinho. Ou seja: **estágio
+é garantido, rank não é.** Estágios sobem entre as sessões; ranks merecem cena.
+
 Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 9 há outra categoria de existência, tratada em [[11 - Ascensão Imortal|Ascensão Imortal]] e [[13 - Tornar-se Venerável|Tornar-se Venerável]]. Os próprios Gu são classificados na mesma escala de nove ranks, e a regra que amarra as duas é simples: **um Mestre Gu só aciona Gu de rank igual ou inferior ao seu**.
 
 A diferença de força entre estágios do mesmo rank já é grande, e cresce nos estágios finais. Cruzar um rank inteiro em combate é feito extraordinário; mesmo um lutador excepcional, com os melhores Gu e a melhor execução, vence no máximo **um estágio acima do seu**.
@@ -182,7 +188,9 @@ Identificação pública se faz por uniforme com cinto e placa numerada por rank
 
 - **Usar um Gu acima do próprio rank destrói a abertura** — morte ou transformação irreversível —, salvo as exceções de combustível alternativo acima.
 - **Gu muito abaixo do rank rendem pouco.** O mundo compara: um homem forte com um graveto. Acima, o problema é oposto: uma criança com um machado pesado.
-- **Diferença de rank também é aura.** A presença de um rank 5 faz feras fugirem por instinto. Como regra aproximada de combate, bloquear o ataque pleno de um Gu de rank N exige cerca de dois Gu de rank N-1 atuando juntos.
+- **Diferença de rank também é aura.** A essência vaza para fora como presença perceptível, e o efeito sobre uma fera poderosa é graduado: um rank 3 a deixa **alerta**, um rank 4 a **pressiona**, um rank 5 a faz **fugir para salvar a vida**. Como regra aproximada de combate, bloquear o ataque pleno de um Gu de rank N exige cerca de dois Gu de rank N-1 atuando juntos. A aura é também a prova pública de rank — e pode ser contida por Gu próprios ou pelo autosselamento do cultivo, o que é a base de todo disfarce sério.
+- **A escada desce.** Ferimento, velhice, contaminação e conflito entre efeitos artificiais fazem o cultivo **cair**, em estágios ou em ranks inteiros — há caso documentado de queda de rank 3 para rank 1 inicial numa única cena. Parte volta com anos de reclusão; parte não volta. Ver [[15 - Perder Cultivo|Perder Cultivo]].
+- **Rank não fortalece o corpo.** Sem acionar nenhum Gu, um Mestre Gu de qualquer rank é fisicamente uma pessoa comum: come, dorme, adoece e envelhece. O que o rank aumenta é energia e acesso, nunca musculatura. Ver [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]].
 - **Rank não é a única variável.** O que a obra chama de "força de combate" depende do conjunto de Gu, da experiência, do [[06 - Attainment|attainment]] e da compatibilidade entre eles. Um rank 3 bem montado derrota um rank 3 mal montado sem que nenhuma regra seja violada.
 - **Cruzar para outra região suprime a força em exatamente um rank.** A pessoa se readapta em anos; os Gu trazidos não se readaptam nunca.
 - **Rank 2 é o ponto ideal de equipagem em massa.** Rank 1 é fraco demais para valer produção em escala; rank 3 é caro e escasso; rank 2 é forte e barato o bastante para armar um exército. É a razão econômica pela qual os exércitos deste mundo têm a composição que têm.
@@ -203,3 +211,6 @@ O trade-off é explícito e permanente: quem aloca a energia no ataque fica com 
 - [[03 - Aptidão|Aptidão]] — o teto que cada personagem precisa furar.
 - [[11 - Ascensão Imortal|Ascensão Imortal]] — o que existe depois do rank 5.
 - [[06 - Attainment|Attainment]] — por que dois cultivadores do mesmo rank não são iguais.
+- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o rank muda na pessoa (menos do que parece).
+- [[15 - Perder Cultivo|Perder Cultivo]] — a mesma escada percorrida para baixo.
+- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — como a escada funciona para quem não é humano.

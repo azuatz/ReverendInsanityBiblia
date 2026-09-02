@@ -14,7 +14,7 @@ aliases:
   - Earth Trench
   - Os Nove Céus
 status: consolidado
-fontes: ["cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1990", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
+fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1990", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
 conhecimento: segredo
 ---
 
@@ -54,6 +54,43 @@ Acima das cinco regiões há dois céus, e eles não são metáforas nem camadas
 - **O Céu Negro** é escuridão total, e está cheio de vida: árvores de carne que caminham, reinos de sonho errantes, criaturas que nunca viram o sol. É explorável, mas na prática só por cultivadores de rank 8.
 
 Os dois se alternam sobre as cinco regiões, e essa alternância **é** o dia e a noite do mundo.
+
+### Sim, existe um sol — e os céus são filtros
+
+Este ponto costuma ser lido errado, e ler errado estraga a imagem do cenário, então vale gastar
+um parágrafo nele.
+
+**O mundo tem um sol e uma lua comuns.** O sol nasce a leste, sobe até o ponto mais alto do céu,
+queima ao meio-dia, incendeia as nuvens ao se pôr atrás das montanhas. A lua aparece à noite,
+tem fases, some antes do amanhecer deixando "algumas estrelas retardatárias". Nada disso é
+metáfora: é a paisagem ordinária de qualquer manhã do mundo, e um personagem que nunca ouviu
+falar de céus imemoriais vive num céu igual ao nosso.
+
+**A alternância dos dois céus e o nascer do sol são a mesma coisa vista de dois andares
+diferentes.** A costura está numa frase do próprio texto sobre a luz da era imemorial: naquele
+tempo, a luz do sol atravessava os **nove** céus e chegava embaixo com toda a sua glória; hoje,
+enfraquecida ao extremo, ela **só consegue atravessar o céu branco**. Ou seja:
+
+- **Dia** = o céu branco está por cima, e a luz do sol passa por ele.
+- **Noite** = o céu negro está por cima, e a mesma luz do mesmo sol **não passa**.
+
+O sol nunca se apaga; o filtro é que muda. E é por isso que o céu negro é descrito como
+escuridão total e cheio de criaturas "que nunca viram o sol": ele não é a ausência de luz, é a
+**tampa** que a barra.
+
+> [!note] Para o design
+> Esta é uma das imagens mais baratas e mais eficazes do cenário para entregar a uma mesa. Um
+> personagem que sobe alto o bastante não encontra "o espaço": encontra um **chão** — o assoalho
+> do céu que está de plantão naquele momento. E a mesma pergunta infantil ("o que tem em cima
+> das nuvens?") tem, aqui, uma resposta com terreno, ecologia, dono e recursos.
+
+**A meteorologia dos céus também é economia.** Quando os nove céus existiam, os trovões deles
+se chocavam entre si e a essência desses choques condensava uma pedra usada em refino. Com sete
+céus derrubados, os trovões do céu branco e do céu negro quase nunca se encontram, e a produção
+dessa pedra **despencou** — o estoque que circula hoje é praticamente o que sobrou da era
+imemorial. Uma catástrofe cosmológica de milhões de anos atrás continua se manifestando como
+escassez num mercado. Guarde o padrão: neste mundo, **quase toda escassez tem uma causa
+cosmológica**.
 
 **A muralha de vento celestial.** Entre a terra e os céus existe uma muralha de energia que só imortais muito fortes conseguem rasgar. Ela é a razão pela qual os céus não são turismo. Há uma exceção geográfica famosa no Mar Oriental, onde a entrada é direta e aberta até a mortais — ver [[04 - As Cinco Regiões#Mar Oriental]]. Notavelmente, essa muralha **sobrevive** ao desaparecimento das paredes regionais: mesmo num mundo unificado, terra e céu continuam separados.
 

@@ -148,6 +148,20 @@ e 59%, só a estreita faixa 55–59% consegue romper para o rank 2. Um cultivado
 44% pode ficar **mais de cem anos** travado até conseguir um Gu que eleve sua
 aptidão.
 
+> [!example] O que a expressão "sem situações especiais" está segurando
+> O enunciado canônico do 55% traz essa ressalva, e ela faz trabalho pesado. A obra
+> registra uma ruptura de **rank 2 para rank 3 gasta com apenas 38%** da reserva —
+> muito abaixo até do primeiro degrau. O truque foi engolir um Gu consumível de rank 3
+> que **converte toda a essência da abertura numa essência especial**, mais agressiva
+> contra a parede; a mesma essência é inútil para qualquer outra coisa e precisa ser
+> expelida logo depois, sob pena de contaminar a abertura e **derrubar a aptidão** de
+> forma permanente.
+>
+> Duas lições para a mesa. Primeira: a porcentagem exigida não mede volume de energia,
+> mede **poder de impacto** — mude a qualidade do impacto e o número muda junto.
+> Segunda: todo atalho desses cobra em aptidão, isto é, cobra no teto de carreira. É a
+> economia central de [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]].
+
 ---
 
 ## 3. Os dois eixos da essência primordial
@@ -238,6 +252,22 @@ precisas para igualar o valor de UMA conta de lichia-branca (rank 8)?**
 | green grape (uva-verde) | 6 | **10.000** |
 | red date (tâmara-vermelha) | 7 | **100** |
 | white litchi (lichia-branca) | 8 | **1** (é a própria referência) |
+| yellow apricot (damasco-amarelo) | 9 | **0,01** — uma só vale cem lichias-brancas |
+
+E a mesma escala vista pela moeda, que é a forma mais fácil de usar em mesa, porque
+tudo vira um número inteiro. A âncora é literal na obra: **uma pedra de essência
+imortal equivale a uma conta de uva-verde**.
+
+| Denominação | Rank | Vale, em pedras de essência imortal | Origem |
+|---|---|---|---|
+| green grape | 6 | **1** | **canônico** |
+| red date | 7 | **100** | **canônico** |
+| white litchi | 8 | **10.000** | **canônico** |
+| yellow apricot | 9 | **1.000.000** | **canônico** |
+
+O fator é **×100 por rank**, constante e verificado em três passagens independentes,
+por dois caminhos diferentes: a fusão direta ("cem contas de uva-verde se fundem numa
+de tâmara-vermelha") e a equivalência em moeda.
 
 Ou seja, a conta de rank mais alto é a **mais valiosa**, e são precisas dez mil
 contas de uva-verde para igualar uma única de lichia-branca. Se você encontrar em
@@ -250,11 +280,28 @@ uva-verde valem **menos** que uma de lichia-branca — o que é coerente com a r
 acima. A proporção exata entre denominações consecutivas é `inferido` a partir do
 multiplicador de 100× por rank; o multiplicador em si é texto.
 
-Há uma âncora com a moeda dos Imortais, a **pedra de essência imortal**:
+Há uma âncora com a moeda dos mortais, e ela é o número mais vertiginoso desta nota:
 
-- **100 pedras de essência imortal = 1 conta de red date** (para um rank 7).
-- 1 pedra de essência imortal vale **mais de 100 milhões** de [[02 - Pedras Primordiais|Pedras Primordiais]] —
-  a moeda dos mortais.
+- 1 pedra de essência imortal vale **mais de 100 milhões** de [[02 - Pedras Primordiais|Pedras Primordiais]].
+- **Só o [[15 - Tribunal Celestial|Tribunal Celestial]] consegue produzir pedras de essência imortal**, e
+  ele controla deliberadamente o quanto solta no mundo. Isso não é curiosidade: é a
+  alavanca política mais forte que existe, porque a moeda do topo tem um emissor único.
+
+> [!warning] Riqueza mortal não compra nada no reino imortal
+> Os dois sistemas monetários **não convertem na prática**, apesar da razão acima. A obra
+> mostra uma Imortal com "bilhões de pedras primordiais e nenhuma pedra de essência
+> imortal" simplesmente **incapaz de comprar** o que precisava, porque ninguém no mercado
+> de cima aceita a moeda de baixo. A taxa existe como comparação de valor; não existe como
+> câmbio. Para o design, é a fronteira mais limpa entre os dois patamares do cenário: um
+> rei mortal riquíssimo não tem poder de compra nenhum sobre um Imortal falido.
+
+> [!warning] Uma sobretaxa que não é câmbio, e que se confunde com câmbio
+> Usar essência de rank **abaixo** do Gu que se quer acionar funciona, mas custa
+> **cerca de 30% a mais** de gasto. Isso é uma **penalidade de uso**, e não o preço da
+> fusão — a fusão em si é 100 para 1, limpa. Um material antigo deste projeto trazia
+> "130 contas de uva-verde por uma de tâmara", que era essa penalidade somada à
+> conversão; a obra nunca escreve esse número. O certo é: **converta a 100:1, e cobre
+> 30% de sobretaxa de quem quiser acionar um Gu de rank 7 com essência de rank 6.**
 
 > [!warning] O número de produção abaixo é um recorde, não uma média
 > Existe na obra uma medida de produção citada com frequência: o núcleo de uma
@@ -311,12 +358,21 @@ A forma padrão de ganhá-los é **sobreviver a provações**. O mundo agenda es
 provações sozinho, em quatro classes de dificuldade crescente, e cada classe rende
 uma quantidade fixa (são valores médios: provações mais ferozes rendem mais).
 
-| Provação | Dao marks concedidos |
-|---|---|
-| Calamidade terrena (*earthly calamity*) | **250** |
-| Tribulação celestial (*heavenly tribulation*) | **750** |
-| Grande tribulação (*grand tribulation*) | **7.250** |
-| Tribulação miríade (*myriad tribulation*) | **86.750** |
+| Provação | Dao marks concedidos | Origem |
+|---|---|---|
+| Calamidade terrena (*earthly calamity*) | **250** | **canônico** |
+| Tribulação celestial (*heavenly tribulation*) | **750** | **canônico** |
+| Grande tribulação (*grand tribulation*) | **7.250** | **canônico** |
+| Tribulação miríade (*myriad tribulation*) | **86.750** (a obra também arredonda para "cerca de 80.000") | **canônico**, nas duas formas |
+
+> [!warning] "Média" é literal: o mesmo tipo de provação rende valores diferentes
+> Os quatro números são explicitamente **médias**. A obra mostra uma tribulação
+> celestial rendendo **1.000** marcas em vez de 750 porque "a vontade do céu elevou a
+> potência ao limite", e mostra uma calamidade terrena rendendo **nove mil** marcas de
+> um caminho — mil vezes a média — quando a calamidade calhou de ser catastroficamente
+> forte. A regra por trás é a de sempre neste mundo: **quanto mais perigosa a provação,
+> maior o pagamento**. Não trate a tabela como preço fixo; trate-a como valor esperado
+> de uma rolagem cuja variância o próprio céu escolhe.
 
 Repare no salto: uma tribulação miríade rende mais de **dez vezes** uma grande
 tribulação. É essa curva — e não o número do rank — que explica por que um rank 8
@@ -334,24 +390,48 @@ econômica.
 Esta tabela é o "nível médio esperado" de um Gu Imortal em cada rank, contando
 apenas o **caminho principal** dele e excluindo prodígios e Veneráveis:
 
-| Rank | Faixa de dao marks |
-|---|---|
-| 6 | 0 – 9.000 |
-| 7 | 9.000 – 30.000 |
-| 8 | 30.000 – 300.000 |
-| 9 (Venerável) | ≥ 300.000 no caminho principal |
+| Rank | Faixa de dao marks | Origem |
+|---|---|---|
+| 6 | **0 – 9.000** | **canônico** — enunciado como faixa média |
+| 7 | **10.000 – 30.000** | **canônico** |
+| 8 | **100.000 – 300.000** | **canônico** |
+| 9 (Venerável) | **≥ 300.000** no caminho principal | **canônico** — mas ver o aviso |
 
-> [!example] De onde saem exatamente essas faixas
-> Não são estimativas: são o calendário de provações multiplicado pelo rendimento de
-> cada uma (as duas tabelas anteriores desta nota). Confira somando:
+> [!warning] Correção: o piso do rank 8 é 100.000, e há um vão real entre os ranks
+> Estas quatro faixas são **texto**, não conta nossa: a obra as enuncia de uma vez só,
+> em bloco, e uma segunda passagem independente reconfirma a faixa do rank 7.
 >
-> - **Rank 6** — 27 calamidades × 250 + 3 tribulações × 750 = **9.000**
-> - **Rank 7** — 24 × 250 + 3 × 750 + 3 grandes × 7.250 = **30.000**
-> - **Rank 8** — 24 × 750 + 3 × 7.250 + 3 miríades × 86.750 = **300.000**
+> Uma versão anterior desta nota trazia "9.000 – 30.000" para o rank 7 e "30.000 –
+> 300.000" para o rank 8, e explicava que os números vinham de multiplicar o calendário
+> de provações pelo rendimento de cada uma. A conta é elegante e reproduz bem o **teto**
+> de cada rank, mas ela **contradiz o texto no piso do rank 8** — e o texto vence.
+> Registre-se também que a versão anterior descartava o valor 100.000 como "erro nosso":
+> era o valor certo, e foi restaurado.
 >
-> O acumulado ao fim do rank 8 coincide com os 300.000 exigidos como condição formal do
-> rank 9. Uma versão anterior desta tabela trazia "100.000" como piso do rank 8; era erro
-> nosso, sem base no texto, e foi corrigido.
+> O efeito colateral é interessante e vale para o design: entre o **teto do rank 7**
+> (30.000) e o **piso do rank 8** (100.000) existe um vão de setenta mil marcas que
+> nenhuma provação de rank 7 preenche. Ou seja, **passar de rank 7 a rank 8 não é
+> continuar acumulando: é dar um salto**, e é por isso que a obra descreve a distância
+> entre esses dois ranks como incomparavelmente maior que a distância entre o 6 e o 7.
+
+> [!example] A conta de provações, e até onde ela funciona
+> Vale guardá-la mesmo assim, porque é a única maneira de estimar quanto rende um
+> ano de calendário. Multiplicando a cadência da seção 8 pelo rendimento da tabela
+> acima, e assumindo que a provação mais alta **substitui** a mais baixa:
+>
+> - **Rank 6** — 27 calamidades × 250 + 3 celestiais × 750 = **9.000** `inferido`
+> - **Rank 7** — 24 × 250 + 3 × 750 + 3 grandes × 7.250 = **30.000** `inferido`
+> - **Rank 8** — 24 × 750 + 3 × 7.250 + 3 miríades × 86.750 = **300.000** `inferido`
+>
+> Os três resultados batem com o **teto** canônico de cada rank, o que é forte demais
+> para ser coincidência — a conta descreve alguma coisa real. Mas ela **não** produz o
+> piso do rank 8, e a própria premissa da substituição tem um contraexemplo no texto:
+> uma passagem diz que um rank 6 enfrenta "**trinta** calamidades terrenas e três
+> tribulações celestiais" em trezentos anos, ou seja, trinta e três provações, sem
+> substituição nenhuma. Com trinta, a conta daria 9.750 em vez de 9.000.
+>
+> **Use as faixas canônicas da tabela; trate a conta como estimativa de rendimento
+> anual, não como definição.**
 
 ---
 
@@ -437,12 +517,29 @@ Duas coisas precisam ficar claras antes de ler a tabela:
    contagens da quarta coluna fecharem, e ela vale para os três ranks — veja o
    exemplo logo abaixo da tabela.
 
-| Rank | Essência produzida | Ciclo de provações (tempo interno) | Total ao completar o rank (≈300 anos) | Critério de avanço |
+| Rank | Essência produzida | Ciclo de provações (tempo interno) | Total ao completar o rank (≈300 anos) `inferido` | Critério de avanço |
 |---|---|---|---|---|
 | 6 | green grape | calamidade terrena a cada 10 anos; tribulação celestial a cada 100 | 27 calamidades + 3 celestiais | 3 tribulações celestiais → rank 7 |
 | 7 | red date | calamidade terrena /10 anos; celestial /50; **grande tribulação** /100 | 24 calamidades + 3 celestiais + 3 grandes | 3 grandes tribulações → rank 8 |
 | 8 | white litchi | **sem calamidade terrena**; celestial /10; grande /50; **tribulação miríade** /100 | **24 celestiais + 3 grandes + 3 miríades** | 3 tribulações miríades → rank 9 |
 | 9 | yellow apricot | grande tribulação /10 anos; miríade /50; **desastre caótico** /100 | não se aplica — não há rank seguinte a completar | teto absoluto: não existe rank 10 de cultivador |
+
+> [!warning] A quarta coluna é reconstrução nossa, e a obra a contradiz uma vez
+> As três primeiras colunas são texto: a obra enuncia a cadência dos ranks 6, 7 e 8 num
+> bloco contínuo, e o critério de avanço junto. A **quarta** coluna é conta nossa, feita
+> assumindo que a provação mais alta substitui a mais baixa quando as duas caem no mesmo
+> ano.
+>
+> Duas passagens puxam para lados opostos. A favor da substituição: a obra afirma que um
+> Imortal recém-ascendido enfrenta **exatamente nove** calamidades terrenas antes da
+> primeira tribulação celestial — o que só fecha se a do ano 100 tiver virado celestial.
+> Contra: outra passagem diz que um rank 6 passa por "**trinta** calamidades terrenas e
+> três tribulações celestiais" em trezentos anos, isto é, trinta e três provações, sem
+> substituição nenhuma.
+>
+> A obra não resolve. **Adotamos a substituição** porque ela é a única leitura que faz as
+> três linhas baterem com as faixas de dao marks da seção 6 — mas a alternativa está
+> registrada, e para uma mesa a diferença é de 10% de rendimento, não de estrutura.
 
 > [!example] Como as contagens da quarta coluna são calculadas
 > Tome o rank 8, cujo ciclo é celestial a cada 10 anos, grande a cada 50 e miríade
@@ -474,6 +571,18 @@ Detalhes que valem para qualquer uso em mesa:
 
 - Um Gu Imortal recém-ascendido enfrenta exatamente **9 calamidades terrenas antes
   da primeira tribulação celestial**.
+- **O calendário pertence à terra abençoada, não à pessoa.** É a abertura imortal que
+  atrai a provação, e ela continua atraindo mesmo depois de o dono morrer: uma terra
+  abençoada abandonada vai sendo devorada pelas próprias calamidades até se desfazer.
+  Um espírito da terra prolonga esse prazo; sem ele, a terra é "um barco enorme que
+  afunda", e qualquer um pode entrar e saquear.
+- **Quanto maior a fortuna, mais forte a provação.** A escala não é fixa por rank: uma
+  terra abençoada excepcionalmente rica atrai provações desproporcionais, a ponto de a
+  nevasca decenal que castiga uma região inteira do mundo ser, na verdade, a calamidade
+  de uma única terra abençoada transbordando para fora.
+- **A "idade" de um Imortal se conta em tribulações, não em anos.** No mundo, dizer que
+  alguém é "um perito de duas tribulações celestiais" é a forma corrente de informar o
+  patamar dele dentro do rank 6 — o equivalente funcional de um nível.
 - **A força de cada grande tribulação sucessiva cresce de "dezenas a centenas de
   vezes".** É a explicação mecânica de por que o rank 8 é raro.
 - Sobreviver às três tribulações miríades **é** a definição de Venerável. Ao longo de
@@ -515,18 +624,33 @@ contas com as de tâmara-vermelha da seção 5: a de tâmara vale cem vezes mais
 unidade, e comparar os dois números sem converter produz um erro de duas ordens de
 grandeza.
 
-| Grade | Área | Produção (contas de uva-verde/ano) | Traço distintivo |
-|---|---|---|---|
-| Baixa | até 2.000 km² | 10+ | recursos escassos |
-| Média | 2.700 – 4.000 km² | 20+ | recursos abundantes |
-| Alta | 4.700 – 6.000 km² | 30+ | sobra qi para promover um Gu mortal a Gu Imortal já na ascensão |
-| **Super** | acima de 6.700 km² | 50+ | nasce de ascensão com constituição extrema; vem com 2 ou mais Gu Imortais de bônus |
+| Grade | Área | Produção (contas de uva-verde/ano) | Afluente do Rio do Tempo | Traço distintivo |
+|---|---|---|---|---|
+| Baixa | até **2.000 km²** | 10+ | pequeno | recursos escassos |
+| Média | **2.700 – 4.000 km²** | 20+ | um pouco maior | recursos abundantes |
+| Alta | **4.700 – 6.000 km²** | 30+ | grande | sobra qi para promover um Gu mortal a Gu Imortal já na ascensão |
+| **Super** | **6.700 – 13.000 km²** | 50+ | gigantesco | nasce de ascensão com constituição extrema; vem com 2 ou mais Gu Imortais de bônus |
 
-Duas ressalvas de leitura. As faixas de área têm **vãos** (nada é dito sobre 2.000 a
-2.700 km², nem sobre 4.000 a 4.700): são valores citados avulsos na obra, não uma
-escala fechada, e você pode preencher os vãos como quiser. E o "+" das produções é
-literal — são pisos, não médias; uma terra abençoada cresce ao longo da vida do
-Imortal, então esses números descrevem o ponto de partida dele, não o de chegada.
+Quatro ressalvas de leitura, e a segunda é a que mais gente erra.
+
+**As faixas têm vãos.** Nada é dito sobre 2.000 a 2.700 km², nem sobre 4.000 a 4.700,
+nem sobre 6.000 a 6.700. São valores citados avulsos, não uma escala fechada; preencha
+os vãos como quiser. O mesmo maneirismo aparece na tabela de aptidão da seção 1, que
+também deixa um buraco entre 30% e 40% — é jeito do autor, não erro de leitura.
+
+**A grade super tem teto: 13.000 km².** Não é uma categoria aberta. Uma abertura imortal
+maior que isso existe na obra, mas já não é uma terra abençoada comum.
+
+**Estes números são o tamanho de nascimento, e a obra diz isso literalmente.** Há uma
+nota do autor, entre parênteses, logo depois da tabela original: as medidas se referem ao
+tamanho **inicial, no momento da ascensão**. Uma terra abençoada depois cresce (por
+provações, por anexação, por boa administração) e encolhe (por dano em combate, por
+amputação voluntária). Por isso um exemplo concreto pode aparecer fora da faixa da grade
+dele sem que haja contradição: a grade descreve o berço, não a idade adulta.
+
+**Alta e super são exceções.** A obra afirma que **a maioria dos rank 6 tem terra
+abençoada de grade baixa ou média**. Se você for gerar um Imortal aleatório para uma
+mesa, o resultado provável é uma propriedade pequena e pobre, não um latifúndio.
 
 O **fluxo de tempo** interno é sempre mais rápido que o do mundo externo e cresce
 junto com a área até estabilizar. Proporções documentadas vão de 1:5 a 1:38 — isto é,
@@ -792,7 +916,7 @@ concretos que a seção 9 não traz.
 | Baixa | até **2.000 km²** | **canônico** |
 | Média | **2.700 a 4.000 km²** | **canônico** |
 | Alta | **4.700 a 6.000 km²** | **canônico** |
-| Super | acima de **6.700 km²** | **canônico** |
+| Super | **6.700 a 13.000 km²** | **canônico** — o teto de 13.000 é explícito |
 | Exemplo documentado de grade alta | 4.700 km², fluxo de tempo 1:33 | **canônico** |
 | Exemplo documentado de grade super | 8.000 km², fluxo de tempo 1:46, 55 contas de uva-verde/ano | **canônico** |
 | Uma terra de grade alta, em lado de quadrado | ~5.000 km² ≈ 70 × 70 km | `(ded.)` — raiz quadrada da área |

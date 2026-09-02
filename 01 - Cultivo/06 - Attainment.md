@@ -29,9 +29,11 @@ E há a demonstração mais limpa de todas: no mundo mortal, o refino de Gu é u
 
 ## A escala completa
 
-A escala tem **nove degraus**, nesta ordem. Esta nota é a **fonte única** da
-escala no vault: onde qualquer outra nota citar um nível de attainment, é para
-esta tabela que ela deve remeter, em vez de reproduzir a lista.
+A escala tem **nove degraus**, nesta ordem — e ela não é reconstrução nossa: a obra a
+enuncia por extenso, de uma vez só, na ordem exata reproduzida abaixo, e define o
+conceito na mesma passagem ("o nível representa a compreensão do Grande Dao"). Esta nota
+é a **fonte única** da escala no vault: onde qualquer outra nota citar um nível de
+attainment, é para esta tabela que ela deve remeter, em vez de reproduzir a lista.
 
 A terceira coluna é uma **âncora**: a coisa concreta do material que só acontece
 naquele degrau, ou a raridade dele no mundo. Serve para responder "onde está o
@@ -133,7 +135,8 @@ A regra do mundo enunciada no mesmo trecho: "o homem é o espírito de todos os 
 - [[11 - Ascensão Imortal|Ascensão Imortal]] — grão-mestre como uma das duas fontes de human qi abundante.
 - [[13 - Tornar-se Venerável|Tornar-se Venerável]] — supremo grão-mestre como a terceira das quatro condições.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — por que dois cultivadores do mesmo rank não valem o mesmo.
-- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a escala de oito degraus em formato de consulta, ao lado dos demais números do sistema.
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a mesma escala de nove degraus em formato de consulta, ao lado dos demais números do sistema.
+- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — por que trocar de corpo derruba a velocidade de compreensão.
 - [[05 - Refino de Gu|Refino de Gu]] — o lugar onde o attainment vira taxa de sucesso mensurável.
 
 [^1]: Atenção a uma colisão de vocabulário em português: o nível de attainment chamado "Mestre" (mestre do caminho da sabedoria, por exemplo) não tem nenhuma relação com "Mestre Gu", que é como se chama qualquer cultivador. São conceitos diferentes que dividem a mesma palavra. A tradução brasileira usa "Grão-Mestre", "grande grão-mestre" e "Supremo Grão-Mestre" para os níveis seguintes.

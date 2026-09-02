@@ -14,7 +14,7 @@ aliases:
   - Regional Walls
   - Paredes Regionais
 status: consolidado
-fontes: ["cap. 29", "cap. 39", "cap. 334", "cap. 341", "cap. 421", "cap. 425", "cap. 426", "cap. 430", "cap. 440", "cap. 477", "cap. 489", "cap. 522", "cap. 545", "cap. 621", "cap. 673", "cap. 710", "cap. 812", "cap. 819", "cap. 928", "cap. 965", "cap. 1043", "cap. 1408", "cap. 1931", "cap. 1966", "cap. 2161", "cap. 2175"]
+fontes: ["cap. 29", "cap. 39", "cap. 334", "cap. 341", "cap. 421", "cap. 425", "cap. 426", "cap. 430", "cap. 440", "cap. 477", "cap. 489", "cap. 522", "cap. 545", "cap. 621", "cap. 673", "cap. 710", "cap. 812", "cap. 819", "cap. 928", "cap. 965", "cap. 1043", "cap. 1044", "cap. 1045", "cap. 1211", "cap. 1258", "cap. 1408", "cap. 1931", "cap. 1966", "cap. 2161", "cap. 2175"]
 conhecimento: comum
 ---
 

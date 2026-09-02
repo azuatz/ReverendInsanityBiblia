@@ -7,7 +7,7 @@ aliases:
   - Alimentação de Gu
   - Expendable Gu
 status: consolidado
-fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 156", "cap. 183", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1600", "cap. 1681", "cap. 2292"]
+fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292"]
 conhecimento: comum
 ---
 
@@ -19,6 +19,57 @@ arbitrária, que limita quantos Gu um Mestre consegue carregar.
 
 Há um dito popular no mundo que resume a coisa melhor que qualquer manual: **criar um Gu é
 como sustentar uma amante**.
+
+## Os três ofícios: alimentar, usar, refinar
+
+Antes de qualquer número, vale fixar a arquitetura, porque o mundo a enuncia como doutrina
+e o resto desta pasta se organiza em cima dela.
+
+> Um Mestre Gu **refina** Gu, **usa** Gu e, ao mesmo tempo, precisa **criar** Gu.
+
+São três ofícios diferentes, com dificuldades de naturezas diferentes, e ninguém é bom nos
+três por acidente:
+
+| Ofício | O que é | Onde a dificuldade mora |
+|---|---|---|
+| **Refinar** | dominar o bicho e torná-lo seu | o risco de contra-ataque — o Gu pode revidar contra a mente de quem o domina |
+| **Usar** | acionar o Gu na hora certa, do jeito certo | **prática**; o mesmo bicho rende categorias diferentes em mãos diferentes |
+| **Criar** (alimentar) | manter o bicho vivo | **conhecimento**: cada espécie come uma coisa, e as dietas são estranhíssimas — terra, luz de estrela, lágrimas, o ar dos nove céus |
+
+A obra é explícita ao dizer qual dos três é o mais profundo: **criar**. Refinar é
+arriscado, usar exige treino, mas o saber de alimentação é "ainda mais extenso e
+profundo", porque é uma zoologia inteira em vez de uma técnica.
+
+### Cada Gu pode ter uma exigência especial — em qualquer um dos três eixos
+
+Esta é a parte que transforma a arquitetura acima numa mecânica de jogo. **Casos especiais
+existem nos três ofícios**, e são categoria formal, não curiosidade:
+
+- **No alimentar** — a espécie só come uma coisa, e às vezes essa coisa não é um material.
+  Ver a tabela de dietas mais abaixo.
+- **No refinar** — o Gu impõe requisitos ao candidato a dono. Um Gu do caminho da sorte só
+  se deixa dominar por quem tem, de fato, coração de sacrifício. Outro só aceita quem
+  nunca mentiu na vida — e, se um mentiroso tentar, o refino não apenas falha: **o Gu
+  morre na hora**.
+- **No usar** — a condição recai sobre o estado da pessoa no momento do acionamento. Um Gu
+  de justiça exige que quem o aciona tenha, naquele momento, coração justo. Uma formação
+  imortal registrada só funciona nas mãos de uma raça específica e mata qualquer outro que
+  entre nela.
+
+Há ainda condições que não são morais, mas **posicionais**: certos Gu, uma vez consagrados
+[[04 - Gu Vital|Gu Vitais]], ficam presos no centro da abertura e **não podem mais ser
+retirados nem manifestados** — funcionam como fundação e nunca como arma.
+
+O exemplo que exibe os três eixos ao mesmo tempo é um Gu de nível 4 que detecta mentiras:
+ele **come** honestidade, só pode ser **refinado** por alguém que jamais mentiu, e só
+**funciona** enquanto o portador não mente. Três travas empilhadas no mesmo bicho, e é
+por isso que ele é raríssimo apesar de não ser especialmente forte.
+
+> [!note] Para o design
+> Requisitos de uso são a forma mais barata de amarrar mecânica a personagem. Um poder que
+> só funciona se o personagem nunca mentiu não precisa de nenhuma regra de moral: a regra
+> **é** o item. E, como a sanção documentada é a morte do próprio Gu, mentir custa
+> patrimônio, não pontos de reputação.
 
 ## O custo de acionar: essência
 
@@ -134,7 +185,11 @@ além do limite mata o próprio Gu**.
 
 ## O teto: quantos Gu se carrega
 
-Não existe um limite mágico. Existe um limite **econômico**, e ele é apertado.
+Há **dois** tetos, e eles são independentes. O primeiro é econômico — o assunto desta
+seção. O segundo é físico: a abertura tem capacidade finita e um Gu de nível muito
+superior chega a ameaçar rompê-la, de modo que é perfeitamente possível ter dinheiro
+sobrando e ainda assim não conseguir levar mais um bicho. Esse segundo teto está em
+[[13 - Onde um Gu Mora|Onde um Gu Mora]]; aqui trata-se do primeiro.
 
 > [!warning] Esta é a tabela de referência do vault para "quantos Gu"
 > O número de Gu que um Mestre sustenta aparece citado em várias notas, e por muito tempo
@@ -142,22 +197,42 @@ Não existe um limite mágico. Existe um limite **econômico**, e ele é apertad
 > tabela é a fonte;** as outras notas remetem a ela em vez de repetir um número. Se você
 > encontrar outro valor solto por aí, é resíduo antigo — vale este.
 
+**O número que a obra enuncia diretamente é este:** um Mestre Gu comum tem **três a cinco
+Gu**. A frase é dita de forma genérica, sem amarrar a nenhum nível, e o narrador a usa
+justamente para explicar que quem foge dela é exceção — o exemplo citado de exceção
+carrega **sete**, e ainda estava no começo da carreira. Ou seja: três a cinco é o normal
+de quase todo mundo, a vida inteira; sete é o que faz um adversário competente parar e
+reavaliar.
+
 | Perfil | Quantidade típica de Gu | Custo mensal aproximado em [[02 - Pedras Primordiais\|pedras primordiais]] |
 |---|---|---|
-| Mestre comum de nível baixo (níveis 1–2) | **2 a 3** | cerca de **60 a 180** |
+| Primeiros meses de carreira (nível 1) | **2 a 3** | cerca de **30 a 60** |
+| **Mestre comum, qualquer patamar mortal** | **3 a 5** — o número canônico | de dezenas a centenas, conforme o nível dos bichos |
 | Mestre de nível 4 a 5 | **4 a 5** | ordens de grandeza acima — a refeição rareia, mas cada uma custa uma fortuna |
-| Veterano de nível 5, bem estabelecido | **até cerca de 7** | inviável sem território produtivo próprio |
+| Caso excepcional (riqueza, sorte ou renda própria) | **7 ou mais** | inviável sem território produtivo próprio; o narrador trata como anomalia |
 
-A coluna de custo sai de uma única âncora da obra: **um Gu comum de nível 2 custa cerca de
-uma a duas pedras primordiais por dia** para manter. Três Gu desses, trinta dias, dá a faixa
-acima. Para os níveis 4 e 5 a obra não fornece número equivalente — o que ela fornece é a
-regra da curva ("nível maior, refeição mais rara e mais cara") e a constatação de que
-comprar ração no mercado deixa de ser sustentável. **O que aparece como faixa é da obra; a
-multiplicação por trinta é nossa.**
+A coluna de custo sai de duas âncoras da obra. A primeira: **um Gu comum de nível 2 custa
+cerca de uma a duas pedras primordiais por dia** para manter. A segunda é uma conta
+completa, feita dentro da própria obra por um cultivador de nível 1 com dois Gu:
 
-O que impõe o teto é a soma de dois custos: **alimentar** todos os dias e **acionar** todos
-em combate. Um cultivador que não consegue pagar a ração de sete Gu não pode carregar sete
-Gu, por mais talentoso que seja.
+- Gu de luar: quatro pétalas por dia; dez pétalas custam uma pedra → **0,4 pedra/dia**.
+- Verme do licor: um jarro de vinho bom custa duas pedras e dura quatro dias →
+  **0,5 pedra/dia**.
+- Total: **quase uma pedra primordial por dia para dois Gu de nível 1**.
+
+**O que aparece como faixa e como conta é da obra; a multiplicação por trinta é nossa.**
+
+> [!example] A comparação que dá a escala real
+> A obra põe o número ao lado do custo de vida do mundo comum, e o contraste é a coisa
+> mais eloquente do sistema inteiro: **as despesas mensais de uma família mortal de três
+> pessoas somam uma pedra primordial**. Um Mestre Gu iniciante, com dois bichos, gasta
+> **por dia** o que uma família inteira gasta **por mês** — trinta vezes mais, e isso
+> antes de comprar qualquer Gu novo, pagar qualquer refino ou acionar coisa alguma. Não é
+> uma profissão cara: é uma profissão de outra classe econômica.
+
+O que impõe o teto econômico é a soma de dois custos: **alimentar** todos os dias e
+**acionar** todos em combate. Um cultivador que não consegue pagar a ração de sete Gu não
+pode carregar sete Gu, por mais talentoso que seja.
 
 ### A conta que obriga a formar grupo
 
@@ -170,14 +245,15 @@ armazenamento, reconhecimento e movimento. Confronte com a tabela acima:
 
 | Faixa de campanha | Slots por personagem | Grupo mínimo para cobrir as 6 funções |
 |---|---|---|
-| Início de carreira (níveis 1–2) | 2 a 3 | **2 a 3 pessoas** |
-| Meio de carreira (níveis 4–5) | 4 a 5 | **2 pessoas** — mas com folga para especializar |
-| Veterano de nível 5 | até 7 | **1 pessoa** já se vira sozinha, e é exatamente por isso que veteranos agem sozinhos |
+| Primeiros meses (nível 1) | 2 a 3 | **2 a 3 pessoas** |
+| Mestre comum (o caso normal, ranks 2–5) | 3 a 5 | **2 pessoas** — e a segunda cobre as lacunas da primeira |
+| Caso excepcional, com sete ou mais | 7 | **1 pessoa** já se vira sozinha, e é exatamente por isso que quem consegue chegar lá age sozinho |
 
 Repare no que a tabela diz sobre o tom do jogo: a interdependência é **máxima no começo** e
-se dissolve conforme os personagens sobem. Um grupo de iniciantes é obrigado a ser um grupo;
-um veterano é um lobo solitário viável. Se a mesa quiser manter a coesão do grupo em níveis
-altos, o motivo terá de ser político, não logístico.
+se dissolve conforme os personagens enriquecem. Um grupo de iniciantes é obrigado a ser um
+grupo; o lobo solitário viável não é o mais forte, é o **mais rico** — porque o teto é de
+sustento, não de talento. Se a mesa quiser manter a coesão do grupo em níveis altos, o
+motivo terá de ser político, não logístico.
 
 > [!example] Caso mecânico
 > O depósito de Gu de uma academia de clã consome mais de mil pedras primordiais **por dia**
@@ -237,3 +313,5 @@ Para um Gu Imortal, alimentação deixa de ser despesa e vira **projeto de engen
 - [[12 - Gu Imortais|Gu Imortais]] — a alimentação como gargalo do topo do sistema.
 - [[15 - Food Path|Food Path]] — o caminho dedicado a resolver este problema.
 - [[04 - Essência Primordial|Essência Primordial]] — a energia gasta em cada acionamento.
+- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — o segundo teto, o físico: quanto cabe na abertura.
+- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — por que um Gu de consumo baixo vale mais que um Gu potente.

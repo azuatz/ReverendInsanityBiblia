@@ -20,7 +20,7 @@ Um ser humano comum vive no máximo cerca de **cem anos**. A morte é tratada ex
 
 Não existe tabela de expectativa de vida por rank, e isso não é lacuna de pesquisa: é a regra. **Ascender não estende a vida.** A obra diz isso duas vezes, com todas as letras, inclusive para Gu Immortals. O que acontece na prática é que imortais de rank alto acumulam anos por *métodos*, não por rank — e a diferença entre as duas coisas é o assunto inteiro desta nota.
 
-O que se observa no mundo é o declínio: cultivadores decaem com a idade e com os ferimentos acumulados, e organizações reconvocam veteranos em declínio para batalhas como forma honrosa de descarte. Um rank 5 idoso pode estar moribundo de velhice e ainda ser absolutamente letal.
+O que se observa no mundo é o declínio, e ele é literal e mensurável: **a velhice derruba o rank**. O caso mais claro que a obra registra é o de um veterano que chegou ao nível 3 no auge, caiu ao pico do nível 2 por ferimentos acumulados e depois caiu **mais um estágio só pela idade**. Organizações reconvocam veteranos em declínio para batalhas como forma honrosa de descarte. Ainda assim, um rank 5 idoso pode estar moribundo de velhice e continuar absolutamente letal. A mecânica completa da queda está em [[15 - Perder Cultivo|Perder Cultivo]].
 
 **Expectativa de vida por rank, na prática:**
 
@@ -171,3 +171,5 @@ Mas atenção ao que o texto **não** diz: ele nunca declara a vida eterna impos
 - [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o outro relógio que corre contra o personagem.
 - [[13 - Tornar-se Venerável|Tornar-se Venerável]] — onde o tempo de vida vira trava formal do topo do mundo.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — a escada de poder, que corre em paralelo e não se cruza com esta.
+- [[15 - Perder Cultivo|Perder Cultivo]] — o declínio por velhice medido em ranks e estágios.
+- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o que a abertura morta do morto-vivo faz com o cultivo.

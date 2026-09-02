@@ -192,3 +192,24 @@ escrever `09 - Apendices/`, o `00 - LEIA-ME`, e o passe de verificação.
 - `09 - Apendices/Catálogo de Gu - Mortais.md`: coluna ⬇️ Desvantagem anotada com a
   incompatibilidade em 22 Gu (7 canônicos, 15 deduzidos). Nenhuma outra coluna tocada.
 - Wikilinks de volta acrescentados em `01 - Cultivo/Dao Marks.md` e no catálogo.
+
+### Sessão de 2026-09-01 (continuação)
+
+- **Revisão de leitora leiga da pasta `07 - Veneraveis e Legados/`** — última lacuna de
+  processo do projeto. Relatório em `_pipeline/REVISAO-didatica-07.md`, correções
+  aplicadas nas 4 notas da pasta.
+- **Nova nota `06 - Economia e Vida/Produzir Gu Dentro da Abertura.md`** — a fazenda de Gu
+  do imortal. Fecha uma lacuna real: o vault descrevia pontos de recurso como jazidas de
+  material, mas nunca o ciclo de produção. Canônico: enxame comum solto num ponto de
+  recurso vira Gu com o tempo; os três portes menores cobrem rank 1 a 5; o peixe-bolha
+  acelera a conversão (30% de sobrevivência das ovas, décadas até autossuficiência,
+  preço ×10 e ×100 em guerra); técnica de criação é ativo negociável (+30%); produção
+  própria é primária, compra é secundária. Fontes: cap. 466, 476, 491, 551, 668, 809,
+  1291, 1590, 2109, 2257. Ligações de volta em `Viver Dentro da Abertura Imortal`,
+  `Economia Imortal` e `O que é um Gu`.
+- **Em andamento:** dossiê `_pipeline/pesquisa/filosofia-e-tom.md` (11 blocos: tese do
+  mundo, ausência de karma, instituições justas que buscam poder, objetivo comum das
+  pessoas, o objetivo do protagonista, ética do protagonista, natureza humana, vozes
+  discordantes, caminho demoníaco a fundo, tipologia de gente, filosofias em disputa).
+  Dele sairão duas notas novas: a filosofia do mundo e os tipos de gente e filosofias de
+  vida, mais um enriquecimento de `Caminho Correto e Caminho Demoníaco`.

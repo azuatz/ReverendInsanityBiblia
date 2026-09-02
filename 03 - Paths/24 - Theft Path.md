@@ -5,7 +5,7 @@ aliases:
   - Theft Path
   - Caminho do roubo
 status: consolidado
-fontes: ["cap. 91", "cap. 629-631", "cap. 946", "cap. 949", "cap. 954", "cap. 992", "cap. 1020", "cap. 1051", "cap. 1065", "cap. 1244", "cap. 1252", "cap. 1323", "cap. 1365", "cap. 1374", "cap. 1423", "cap. 1437", "cap. 1439", "cap. 1448", "cap. 1451", "cap. 1471", "cap. 1482", "cap. 1490-1495", "cap. 1500-1512", "cap. 1524", "cap. 1525", "cap. 1528", "cap. 1529", "cap. 1558", "cap. 1560", "cap. 1565", "cap. 1568", "cap. 1572", "cap. 1577", "cap. 1578", "cap. 1581", "cap. 1582", "cap. 1588", "cap. 1592", "cap. 1605", "cap. 1638", "cap. 1639", "cap. 1659", "cap. 1682", "cap. 1701", "cap. 1751", "cap. 1761", "cap. 1779-1782", "cap. 1857", "cap. 1865", "cap. 1943", "cap. 1971", "cap. 2065", "cap. 2106", "cap. 2119", "cap. 2130", "cap. 2131", "cap. 2133", "cap. 2155", "cap. 2169", "cap. 2185", "cap. 2200", "cap. 2201", "cap. 2203", "cap. 2215", "cap. 2228", "cap. 2240", "cap. 2282"]
+fontes: ["cap. 91", "cap. 629-631", "cap. 946", "cap. 949", "cap. 954", "cap. 992", "cap. 1020", "cap. 1051", "cap. 1065", "cap. 1244", "cap. 1252", "cap. 1323", "cap. 1365", "cap. 1374", "cap. 1423", "cap. 1437", "cap. 1439", "cap. 1448", "cap. 1451", "cap. 1471", "cap. 1482", "cap. 1490-1495", "cap. 1500-1512", "cap. 1524", "cap. 1525", "cap. 1528", "cap. 1529", "cap. 1558", "cap. 1560", "cap. 1565", "cap. 1568", "cap. 1572", "cap. 1577", "cap. 1578", "cap. 1581", "cap. 1582", "cap. 1588", "cap. 1592", "cap. 1605", "cap. 1638", "cap. 1639", "cap. 1659", "cap. 1682", "cap. 1701", "cap. 1751", "cap. 1761", "cap. 1779-1780", "cap. 1779-1782", "cap. 1857", "cap. 1865", "cap. 1943", "cap. 1971", "cap. 2065", "cap. 2106", "cap. 2119", "cap. 2130", "cap. 2131", "cap. 2133", "cap. 2155", "cap. 2169", "cap. 2185", "cap. 2200", "cap. 2201", "cap. 2203", "cap. 2215", "cap. 2228", "cap. 2240", "cap. 2282"]
 conhecimento: especializado
 ---
 
@@ -159,6 +159,131 @@ Esta é a seção mais útil da nota, porque o caminho parece imbatível e não 
   desviada.* Ataques físicos a atravessam "como a imagem da lua na água". A **janela** é o instante
   em que a mão fecha o punho sobre o Gu capturado.
 - **Mestres do voo escapam** das mãos sem forma com relativa facilidade.
+
+## A camada escondida
+
+O caminho do roubo aparenta ser um caminho de utilidade: tirar coisas de quem tem. O que está por
+baixo é uma teoria completa sobre o que o mundo é — e uma reviravolta final que inverte o caminho
+inteiro.
+
+### 1. A cadeia que leva do bolso alheio ao tecido do mundo
+
+O raciocínio de fundação está registrado passo a passo, e vale segui-lo devagar porque ele é o motivo
+de o caminho existir:
+
+> Ladrões querem Gu. **E qual é a essência de um Gu?** Os Gu são a **essência do céu e da terra**.
+> Portanto, **roubar Gu equivale a roubar fragmentos de marcas do Dao**. Foi por isso que o golpe
+> Roubar o Dao foi criado.
+
+Repare no movimento: o caminho **não** começou querendo roubar o universo. Ele começou querendo
+roubar objetos, perguntou de que os objetos são feitos, e desceu até o substrato. O golpe fundador é
+o resultado dessa descida — e é também o momento em que o caminho deixa de ser uma técnica e vira
+uma escola. Ver [[12 - Dao Marks|Dao Marks]] para o que são essas marcas.
+
+O mesmo raciocínio explica por que o caminho consegue roubar **tempo de vida**: a longevidade de uma
+pessoa *é simplesmente um tipo de marca do Dao no corpo dela*. Não existe um "Gu de roubar vida" que
+funcione por magia própria — existe um Gu que identifica e arranca aquele tipo específico de marca.
+Uma vez entendida a cadeia, ela se estende a qualquer coisa: percepção, propriedades do terreno,
+fenômenos naturais.
+
+### 2. Roubar o Dao também é um par de óculos
+
+Um efeito colateral do golpe fundador que quase passa despercebido e é excelente numa mesa: ao ser
+ativado, ele **torna visíveis** as marcas do Dao naturais de um lugar. O que aparece é uma paisagem
+inteira que ninguém enxergava — *linhas longas e curtas entrelaçadas formando alguma figura
+misteriosa; algumas como teias, outras como novelos de linha, acumulando-se numa montanha*.
+
+Ou seja: o golpe que rouba o mundo é, ao mesmo tempo, **o instrumento que mostra do que o mundo é
+feito**. Um praticante do caminho do roubo é a única pessoa que **vê** o inventário antes de decidir
+o que levar.
+
+### 3. A profundidade suprema é dar, não tomar
+
+Esta é a virada que muda o caminho de lugar, e ela está nas palavras finais do fundador.
+
+O Gu Imortal de roubar vida, usado normalmente, **tira** tempo de vida de um alvo. Existe um golpe
+construído sobre ele que transfere esse tempo para o próprio usuário. Mas o fundador deixou registrado
+um terceiro uso:
+
+> Usar o Gu de Roubar Vida **ao contrário** entrega o tempo de vida **do usuário** ao alvo. Isso
+> parece tolice, mas tem sua própria profundidade. **Essa é também a essência mais profunda desta
+> herança verdadeira.**
+
+E ele **selou** essa capacidade: quem herdar o Gu só consegue remover o arranjo dele — e obter com
+isso a informação de outra herança verdadeira correspondente — se compreender o mistério. O custo do
+erro é preciso e cruel: quem tentar usá-lo ao contrário **sem compreendê-lo estará apenas cortando o
+próprio tempo de vida**, sem efeito nenhum. O patamar de domínio estimado para entender: **quase-supremo
+grão-mestre** — mais alto que o de qualquer praticante vivo registrado.
+
+==A escola do tomar tem, no seu ponto mais fundo, um ato de doação que ninguém entendeu ainda.== Se
+você procurava a "camada escondida" deste caminho, é esta: o maior ladrão da história trancou seu
+segredo final atrás de um gesto de generosidade, e deixou registrado que era ali que estava tudo.
+
+> [!question] O que a obra deliberadamente não explica
+> Por que doar tempo de vida é a essência do caminho do roubo, a obra **nunca diz**. Ela mostra a
+> instrução, mostra o selo, mostra o preço de errar — e para. É a maior lacuna intencional da nota,
+> e provavelmente o melhor prêmio de campanha que ela oferece.
+
+### 4. O que o roubo cobra de quem rouba
+
+O caminho parece o mais barato do mundo — pegar em vez de fabricar. A obra mostra que ele é, na
+verdade, um dos que mais cobram, e as cobranças são de cinco tipos distintos.
+
+| O que cobra | Como aparece |
+|---|---|
+| **Consome os próprios reagentes** | O golpe fundador queima **material imortal do caminho** como catalisador; ao fim, esses materiais ficam entupidos de marcas desordenadas de todos os caminhos e **perdem todo o valor**. Roubar gasta um insumo raro e o converte em lixo |
+| **Destrói a fonte para sempre** | Um acionamento **aleija um ponto de recurso natural sem nenhuma possibilidade de recuperação**. Isso não é apenas dano ao inimigo: é o caminho **esterilizando o mundo** de onde ele próprio vive. Cada uso é uma mina fechada |
+| **Custo operacional altíssimo** | Mesmo em quem tem a Casa de Gu Imortal do caminho, o golpe representa uma **carga enorme** sobre a estrutura e um gasto pesado de essência imortal — a ponto de o uso extensivo ser impossível e o golpe virar **carta na manga**, não rotina |
+| **Assinatura** | Cada roubo entrega uma amostra do método; exposição convida contra-ataque e dedução da identidade |
+| **Conflito interno de marcas** | Roubo e [[10 - Soul Path|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
+
+E há a cobrança mais elegante de todas, que já está registrada acima nesta nota e pertence
+conceitualmente a esta seção: o golpe de ocultação que torna o portador **invisível para a vontade
+do céu** também o torna **inelegível para tribulações** — e portanto **incapaz de acumular marcas do
+Dao e de continuar evoluindo**. O caminho que se especializou em obter coisas produziu, no seu ponto
+mais alto, um item que **impede permanentemente de obter mais**.
+
+### 5. Aquilo que se rouba e que não parece roubo
+
+O manifesto do fundador é normalmente lido como provocação. Ele é, mecanicamente, uma **lista de
+alvos**. O caminho do roubo enxerga como roubo — e portanto como algo que ele pode operar,
+identificar e desmontar — pelo menos seis coisas:
+
+1. **Gu e Gu Imortais** — o alvo óbvio.
+2. **Marcas do Dao** — isto é, propriedades do mundo natural. *Qualquer marca do Dao do mundo podia
+   ser roubada por ele.*
+3. **Tempo de vida**, por ser um tipo de marca.
+4. **Percepção** — a obra registra o roubo da capacidade de perceber de um adversário.
+5. **A vontade dentro de um Gu Imortal** — prometida por um golpe lendário que roubaria a vontade e
+   **refinaria o Gu na hora**. Mecânica: `—` a obra não informa.
+6. **Ganhos de cultivo alheios, por via institucional** — contribuições obrigatórias a um clã, a
+   entrega de aberturas imortais a uma organização, heranças verdadeiras deixadas para mortais,
+   honra, emoções, cultura. *Criar uma organização e fazer regras, inventar honra ou usar emoções e
+   cultura — tudo isso são métodos do caminho do roubo.*
+
+O item 6 é o que faz deste caminho algo diferente dos outros: ele é **também uma lente de análise
+social**. Um praticante competente olha para uma instituição e enxerga o fluxo — quem entrega, quem
+recebe, sob qual justificativa. Isso é poder de investigação e de chantagem, não de combate.
+
+E no topo da lista, o item 7, que fecha o círculo: **o próprio mundo**. A assimilação — o vento que
+apaga uma abertura imortal destruída e reabsorve suas marcas — é declarada como **o método mais
+poderoso do caminho**. Nesse enquadramento, o mundo rouba a vida de todos, rouba os ganhos de
+gerações de gênios, e chega a **roubar pessoas de outros mundos** para dentro deste. Quem cultiva o
+caminho está imitando o único ladrão que nunca é pego.
+
+### 6. Progressão por nível: o único caminho com uma régua explícita
+
+O caminho do roubo tem a escala mais legível do vault, e ela está embutida no golpe de assinatura:
+a **mão sem forma** tem de **um a nove dedos**, *respectivamente capazes de agarrar Gu de nível um a
+nível nove*. O número de dedos **é** o teto de captura.
+
+Isso significa três coisas de uma vez, e todas jogáveis:
+
+- o poder do praticante é **visível de longe** para quem souber contar dedos;
+- roubar **acima** do próprio patamar exige empilhar golpes (o caso registrado: um golpe de nível 7
+  só levou um Gu Imortal de nível 8 com um segundo golpe somado);
+- e não há truque de escala — nenhuma quantidade de esperteza faz uma mão de cinco dedos pegar um Gu
+  de nível seis.
 
 ## Gu representativos
 
@@ -366,4 +491,5 @@ Vale enumerar, porque a resposta é econômica e não moral:
 - [[10 - Tribulações e Calamidades|Calamidades e Tribulações]] — por que ficar invisível para o céu trava o cultivo.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — a assimilação, "o roubo que o mundo pratica".
 - [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] — o fundador, como figura histórica.
+- [[12 - Dao Marks|Dao Marks]] — o que exatamente este caminho arranca quando rouba "o Dao".
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

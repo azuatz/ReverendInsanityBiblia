@@ -6,7 +6,7 @@ aliases:
   - Caminho humano
   - Rule of humanity
 status: consolidado
-fontes: ["cap. 600", "cap. 606-609", "cap. 1002", "cap. 1015", "cap. 1031", "cap. 1176", "cap. 1180", "cap. 1347", "cap. 1367", "cap. 1489", "cap. 1631", "cap. 1654", "cap. 1685", "cap. 1699-1707", "cap. 1715", "cap. 1717", "cap. 1724-1732", "cap. 1741", "cap. 1744", "cap. 1770", "cap. 1773-1777", "cap. 1796-1798", "cap. 1810", "cap. 1819-1821", "cap. 1827", "cap. 1849", "cap. 1852", "cap. 1865", "cap. 1899", "cap. 1907-1916", "cap. 1920", "cap. 1921", "cap. 1931-1948", "cap. 1957", "cap. 1961", "cap. 1964", "cap. 1972-1993", "cap. 1997", "cap. 2012", "cap. 2013", "cap. 2018", "cap. 2037", "cap. 2042", "cap. 2045", "cap. 2051", "cap. 2063-2066", "cap. 2081-2087", "cap. 2108", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2136-2142", "cap. 2163", "cap. 2175", "cap. 2177", "cap. 2181", "cap. 2184", "cap. 2221", "cap. 2232", "cap. 2262-2267", "cap. 2274-2275", "cap. 2284-2295", "cap. 2299-2306", "cap. 2312", "cap. 2328", "cap. 2332"]
+fontes: ["cap. 600", "cap. 606-609", "cap. 1002", "cap. 1015", "cap. 1031", "cap. 1176", "cap. 1180", "cap. 1347", "cap. 1367", "cap. 1489", "cap. 1631", "cap. 1654", "cap. 1685", "cap. 1699-1707", "cap. 1715", "cap. 1717", "cap. 1724-1732", "cap. 1741", "cap. 1744", "cap. 1770", "cap. 1773-1777", "cap. 1796-1798", "cap. 1810", "cap. 1819-1821", "cap. 1827", "cap. 1849", "cap. 1852", "cap. 1865", "cap. 1899", "cap. 1907-1916", "cap. 1920", "cap. 1921", "cap. 1931-1948", "cap. 1957", "cap. 1961", "cap. 1964", "cap. 1974", "cap. 1993", "cap. 1972-1993", "cap. 1997", "cap. 2012", "cap. 2013", "cap. 2018", "cap. 2032", "cap. 2037", "cap. 2042", "cap. 2045", "cap. 2051", "cap. 2063-2066", "cap. 2081-2087", "cap. 2108", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2136-2142", "cap. 2163", "cap. 2175", "cap. 2177", "cap. 2181", "cap. 2184", "cap. 2221", "cap. 2232", "cap. 2262-2267", "cap. 2274-2275", "cap. 2284-2295", "cap. 2299-2306", "cap. 2312", "cap. 2328", "cap. 2332"]
 conhecimento: segredo
 ---
 
@@ -610,4 +610,7 @@ nele.** Para todos os outros, um grande especialista de caminho humano é invis�
 - [[22 - Information Path|Information Path]] — o parceiro de rastreio populacional.
 - [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o livro que é a herança verdadeira deste caminho.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — o qi humano e a mecânica da ascensão.
+- [[11 - Vontade dos Céus|Vontade dos Céus]] — o que exatamente este caminho combate, e a diferença entre Dao Celeste e vontade do céu.
+- [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — por que uma abertura imortal precisa de gente para não desmoronar.
+- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os corpos raros que são, tecnicamente, profundidades deste caminho.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

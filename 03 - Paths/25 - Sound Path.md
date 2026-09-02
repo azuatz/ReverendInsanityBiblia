@@ -142,6 +142,108 @@ informação, não acidente.
 | **Roubar o Gu-núcleo durante a ativação** | Vulnerabilidade genérica de golpes assassinos, mas exposta aqui: *o meu golpe não **falharia** na ativação, causando-me contragolpe e ferimentos graves?* Ver [[24 - Theft Path\|Theft Path]] |
 | **Velocidade pura** | Uma Casa de Gu Imortal rápida demais anula o golpe de separação e obriga o praticante a lutar de longe |
 
+## A camada escondida
+
+O caminho do som se apresenta como um caminho menor de área e controle. O que ele esconde é uma
+**rota alternativa de poder** que não passa por adquirir itens melhores — e, no fim dessa rota, o
+acesso a uma força que não pertence a caminho nenhum.
+
+### 1. A rota alternativa: virar mais forte sem subir de nível
+
+Todo o resto do sistema funciona assim: você sobe de nível, e o nível destranca Gu Imortais
+melhores. O caminho do som mostra a outra estrada, e a obra a quantifica com precisão incomum.
+
+O maior praticante da era passa quase toda a obra como imortal de **nível 7** e luta de igual para
+igual com imortais de **nível 8**. A explicação não é um item lendário:
+
+> Ele conseguia lutar contra nível oito porque tinha **um acúmulo profundo de marcas do Dao de som,
+> equivalente ao de um nível oito**. Mesmo **sem nenhum Gu Imortal de som de nível oito** com ele,
+> seus golpes chegavam a **quase-nível oito** por causa da **amplificação das suas marcas**.
+
+Duas consequências que valem ouro para um sistema:
+
+- **A ficha do personagem não explica a força dele.** Alguém que examine o inventário desse imortal
+  não encontra nada de nível 8. A força está no corpo, não na bolsa — e é por isso que ele é
+  descrito como tendo "fundação profunda", termo que no mundo da obra significa exatamente isto.
+- **Não dá para roubar essa força.** Um praticante do [[24 - Theft Path|caminho do roubo]] que lhe
+  arranque todos os Gu Imortais não leva o acúmulo junto. É a forma de poder mais difícil de
+  transferir que a obra descreve.
+
+E há a ligação que fecha o raciocínio, e que esta nota registra como dedução: o caminho do som é
+justamente **o que menos sofre conflito de marcas** (20–30% de penalidade onde outros sofrem
+50–60%). (ded.) É plausível que seja por isso que um praticante de som consiga empilhar marcas do
+próprio caminho até um patamar extremo **sem paralisar o resto do arsenal**, coisa que em caminhos
+comuns seria autodestrutiva. A obra afirma as duas pontas separadamente e não as costura; a costura
+é nossa.
+
+> [!note] Para o design
+> "Acumulação em vez de aquisição" é uma segunda trilha de progressão completa, e ela resolve um
+> problema clássico: o personagem que não conseguiu o item raro. Aqui, séculos de prática valem por
+> um artefato — e a vantagem é que **ninguém pode te tirar isso**.
+
+### 2. O fim dessa rota: chamar os ventos da assimilação
+
+E aqui está o que o caminho do som esconde de verdade.
+
+Os **ventos da assimilação** são a força que sopra quando uma abertura imortal é destruída: eles
+dissolvem tudo o que havia lá dentro e devolvem as marcas do Dao ao mundo. Outro caminho inteiro —
+o [[24 - Theft Path|do roubo]] — chama isso de "o maior roubo que existe" e diz que **o mundo** é
+quem o pratica. Ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+
+O maior praticante do caminho do som **compôs uma canção que os invoca**. A obra marca o feito como
+inédito: ==ele foi o primeiro Gu Imortal da história capaz de convocar os ventos da assimilação==.
+
+O golpe é tratado como um objeto de outra categoria, e cada detalhe registrado é uma regra de mesa:
+
+- **É uma versão simplificada** de um fenômeno de transformação de ordem superior — isto é, o autor
+  não reproduziu a coisa inteira, e sabe disso.
+- **É a única das canções que não pode ser corporificada** num guerreiro-canção. Todas as outras
+  podem virar clones; esta não. O caminho tem um limite interno que ela não atravessa.
+- **O cantor precisa sair de perto.** Uma vez usada, ele tem de abandonar o centro: quando os ventos
+  se espalham e enchem o espaço, **ele morre junto**. Não existe modo seguro.
+- **Vale por incontáveis canções comuns** — o próprio autor a compara ao efeito de um número enorme
+  de execuções da canção que arranca Gu.
+- **Ela obrigou o mundo a estudá-la.** Um golpe criado por um imortal de **nível 7** levou imortais
+  de **nível 8** a pesquisarem, coletivamente, como expor sua fraqueza e detê-lo.
+- **E foi neutralizada pela exposição, não pela força.** Depois de vista, o autor passa a se recusar
+  a usá-la contra alvos preparados — e a versão que ele possui em determinado momento **não é a
+  versão completa** que ele viria a ter depois.
+
+O que isso ensina sobre a estrutura do mundo é maior que o caminho do som: **um caminho "menor",
+levado ao extremo por uma pessoa só, alcança um fenômeno que o mundo executa sozinho.** Nenhuma
+outra escola pequena da pasta chega perto disso.
+
+### 3. A tese: nove canções para descrever o mundo — e o caminho gêmeo que fracassou
+
+A aspiração declarada do compositor não é ficar forte. É **descrever tudo**: nove canções para
+expressar a si mesmo, todos os seres vivos, e o céu e a terra. Isso soa poético até a gente
+descobrir que a obra trata essa ambição como **um programa de fundação de caminho** — e que existe
+um caso paralelo com desfecho oposto.
+
+Um dos dez Veneráveis tentou exatamente a mesma coisa com outro vocabulário: **usar o yin e o yang
+para descrever todos os seres do mundo**. A obra faz a comparação de forma explícita, dizendo que
+essa ambição *era a mesma que a do compositor de usar o caminho do som para expressar toda a vida
+deste mundo*. E o resultado dele está registrado: ele reconheceu que sua própria formulação era
+**rasa demais** e **desistiu**; o caminho do yin-yang nunca conseguiu a mudança qualitativa e ficou
+em pequenos ganhos heterodoxos. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
+
+Ou seja: ==compor as nove canções não é colecionar golpes. É a tentativa de dar ao caminho do som a
+fundação completa que faz um caminho existir de verdade== — e a obra mostra, pelo contraexemplo de
+um Venerável, que essa tentativa **pode fracassar**, e que o motivo do fracasso é conceitual, não de
+poder. O compositor do som chegou à sétima e, depois, à nona. Nunca vemos as nove reunidas.
+
+### 4. O que o caminho cobra de quem o cultiva
+
+- **Ele exclui o [[13 - Time Path|caminho do tempo]] de vez.** Não é penalidade: *estando cheio de
+  marcas do caminho do som, ele **não conseguia coexistir** com as marcas do caminho do tempo*. Quem
+  seguiu a rota de acumulação de som fechou aquela porta para sempre.
+- **O acúmulo é imóvel.** Ele mora no corpo, leva séculos e não pode ser comprado, emprestado nem
+  acelerado. A rota alternativa é mais lenta que a rota dos itens.
+- **Dois lugares no mundo o desligam**, e quem for arrastado até lá não tem recurso.
+- **O corpo continua frágil.** A obra registra um imortal de nível 7 do caminho com *métodos
+  defensivos insuficientes*, obrigado a apenas evadir. Acumular marcas de som não fabrica couraça.
+- **E o golpe máximo mata o autor** se ele ficar no centro dele.
+
 ## As nove canções
 
 O projeto de vida do maior praticante da era: nove canções para expressar a si mesmo, todos os seres

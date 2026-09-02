@@ -14,11 +14,14 @@ conhecimento: comum
 ferem sem cura, que exigem antídoto periódico, e que fazem do envenenador o dono da vida da
 vítima. Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
-> [!warning] Material escasso
-> Este caminho é citado com frequência e detalhado com parcimônia. A obra confirma sua
-> existência formal, seu nome e vários Gu de nível mortal, mas apresenta **apenas um Gu Imortal
-> declaradamente dele**. Boa parte do que segue vem do nível mortal e de aparições laterais.
-> Esta nota é deliberadamente curta e honesta sobre o que não se sabe.
+> [!warning] O que a obra dá e o que ela não dá
+> A obra apresenta **um único Gu Imortal declaradamente deste caminho**, não nomeia um fundador
+> e nunca formula em palavras a filosofia da escola. Nada disso, porém, significa que o caminho
+> seja raso: ele é descrito por **efeito** com muita generosidade — venenos de terreno, venenos
+> que curam, venenos que viram tropa, corpos permanentemente arruinados e regiões inteiras do
+> mapa que existem porque um envenenador morou perto. É a seção
+> [[08 - Poison Path#A camada escondida|A camada escondida]] que reúne essa parte, e ela é a
+> mais importante da nota.
 
 ## Filosofia e identidade
 
@@ -305,6 +308,21 @@ Duas escalas paralelas correm por fora do nível de cultivo e importam tanto qua
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[12 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
+### Golpes de assinatura, e como funcionam
+
+Um Gu é o verme; um **golpe** é a receita que combina vários deles num efeito. Estes são os do
+caminho do veneno que a obra descreve com mecanismo, não só com nome:
+
+| Golpe | Faixa | Como funciona, e o que custa |
+|---|---|---|
+| **Sopro Venenoso** | imortal | Converte **a respiração do usuário** em gás venenoso: cada expiração solta veneno. A obra é franca sobre a potência — *o golpe tem pouca força* —, e explícita sobre a virtude: **sustentabilidade**. Passado tempo suficiente, todo o entorno do usuário está coberto de uma camada de veneno que envenena continuamente pessoas e coisas. É uma arma de cerco, não de duelo |
+| **Ferroada de Abelha Assassina** | imortal | Chuva de **milhares de agulhas** envenenadas, como uma tempestade. Qualquer criatura de baixo nível atingida morre no ato, com a carne se desintegrando. É o golpe de limpeza de tropa do caminho |
+| **Cuspe Venenoso** | imortal | Cospe veneno concentrado. O limite é o próprio usuário: **três acionamentos** com um corpo imortal de zumbi, e o resíduo do quarto mataria a alma dele. Não pode ser encadeado |
+| **Golpe de gás sem aura** | mortal | Gás **incolor, inodoro e sem aura nenhuma** no acionamento — invisível para métodos de detecção. Derruba inconscientes Mestres Gu de nível 3 para baixo. Fraco e excelente ao mesmo tempo, pela furtividade |
+| **Revoada de gansos venenosos** | imortal | Lança fluido venenoso que, no ar, **se transforma em gansos** que voam em formação; a variação faz o veneno vazar por onde o grasnado alcança. Método pessoal de um imortal específico — um bom lembrete de que golpes são autorais, e que ver o seu golpe na mão de outra pessoa é um evento |
+| **Golpe de cura de praga** | imortal | Feito sob medida contra **uma doença específica**, depois de estudá-la; elimina a praga de dentro do corpo do doente. O caminho cura pesquisando, não improvisando |
+
+
 ## Em combate e fora dele
 
 **Em combate**, o caminho é de atrito. Ele não vence trocas diretas: vence a **segunda** luta,
@@ -334,6 +352,12 @@ que ninguém esteja de guarda.
   simultaneamente estrutural e venenosa.
 
 **Sofre contra:**
+- **Alvos que já resistem a veneno por natureza.** A obra registra os dois lados disso: um
+  corpo imortal de zumbi é *extremamente resistente a veneno*, e certas feras imemoriais também
+  o são — contra elas, gastar essência com veneno é descrito como desperdício puro. Antes de
+  envenenar, vale perguntar do que o alvo é feito.
+- **Métodos de força.** Existem técnicas do [[04 - Strength Path|caminho da força]] que **defendem
+  contra veneno**; quem as tem trata o caminho inteiro como um inconveniente menor.
 - **Cura de nível superior.** A vantagem do "incurável" é **relativa ao nível** do veneno. Um
   curandeiro suficientemente forte anula o caminho inteiro.
 - **Alvos sem metabolismo.** Zumbis, construtos, espíritos de terra, transformações completas
@@ -382,4 +406,8 @@ que ninguém esteja de guarda.
 - [[07 - Refinement Path|Refinement Path]] — a formação de refino da qual o veneno é componente.
 - [[03 - Blood Path|Blood Path]] — o vizinho no espectro do tabu.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o Gu que resolve uso e alimentação de uma vez.
+- [[12 - Dao Marks|Dao Marks]] — as mil marcas que dobram o efeito, e as marcas de veneno que transformam um território.
+- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — a terra abençoada que transborda veneno para o mundo.
+- [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — o corpo que aguenta o próprio veneno.
+- [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]] — o que a cura alcança e o que ela não alcança mais.
 - [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o caminho da luz, cuja especialidade declarada é a purificação e que produz a linhagem de golpes que subjuga todo tipo de veneno.

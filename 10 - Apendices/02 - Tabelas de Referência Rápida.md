@@ -661,10 +661,18 @@ dele sem que haja contradição: a grade descreve o berço, não a idade adulta.
 abençoada de grade baixa ou média**. Se você for gerar um Imortal aleatório para uma
 mesa, o resultado provável é uma propriedade pequena e pobre, não um latifúndio.
 
-O **fluxo de tempo** interno é sempre mais rápido que o do mundo externo e cresce
-junto com a área até estabilizar. Proporções documentadas vão de 1:5 a 1:38 — isto é,
-até trinta e oito dias internos para cada dia lá fora. O fluxo é variável, não fixo:
-conectar a terra ao mundo externo para absorver qi **desacelera** a dilatação.
+O **fluxo de tempo** interno é sempre mais rápido que o do mundo externo e cresce junto
+com a área até estabilizar. As proporções documentadas na obra vão de **1:5 a 1:46** —
+isto é, até quarenta e seis dias internos para cada dia lá fora. Alguns pontos de
+calibração, todos canônicos: uma terra de grade alta cujo dono cultiva o caminho do
+tempo roda a **1:33**; uma terra antiquíssima e enorme, a **1:36**; e duas terras de
+grade super, a **1:38** e a **1:46** — esta última descrita no texto como "o padrão de
+uma terra abençoada de grade super, nada fora do normal".
+
+O fluxo é variável, não fixo: conectar a terra ao mundo externo para absorver qi
+**desacelera** a dilatação, e existe um golpe imortal capaz de alterá-lo de propósito.
+Essa variabilidade é o que torna o calendário de provações da seção 8 administrável —
+acelerar o tempo interno é progredir mais rápido **e** ser cobrado mais cedo.
 
 A partir do rank 8, a abertura imortal muda de nome e de categoria: passa a ser uma
 ==gruta-céu (grotto-heaven)==. Entre uma coisa e outra existe o degrau informal da
@@ -927,37 +935,26 @@ concretos que a seção 9 não traz.
 | Alta | **4.700 a 6.000 km²** | **canônico** |
 | Super | **6.700 a 13.000 km²** | **canônico** — o teto de 13.000 é explícito |
 | Exemplo documentado de grade alta | 4.700 km², fluxo de tempo 1:33 | **canônico** |
-| Exemplo documentado de grade super | 8.000 km², fluxo de tempo 1:46, 55 contas de uva-verde/ano | **canônico** |
+| Exemplo documentado de grade super | 8.000 km², fluxo de tempo 1:46, 55 contas de uva-verde/ano | **canônico** — e descrito como "o padrão", não como exceção |
+| Exemplo documentado de grade super, outro | mais de 6.700 km², fluxo 1:38 | **canônico** |
+| Exemplo documentado de grade média no teto | 4.000 km², fluxo 1:5 | **canônico** |
 | Uma terra de grade alta, em lado de quadrado | ~5.000 km² ≈ 70 × 70 km | `(ded.)` — raiz quadrada da área |
 
 O contraste é a informação, e ela é contraintuitiva: **a propriedade privada de um
 Imortal é minúscula perto do mundo**. Uma terra abençoada de grade alta cabe dentro de
 um único vale da região onde o dono mora. Ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
-> [!warning] Divergência interna do vault, ainda não decidida: o piso da grade média
-> A nota [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] traz a grade média como **"2.000 a 4.000 km²"**,
-> enquanto a seção 9 deste apêndice e a tabela acima trazem **"2.700 a 4.000 km²"**.
-> A diferença de setecentos quilômetros quadrados é pequena em si, mas muda uma leitura
-> estrutural: com 2.700, existe um **vão** entre o teto da grade baixa (2.000) e o piso
-> da média, e a escala das grades **não é contínua**; com 2.000, ela seria contínua.
+> [!note] Duas divergências que existiam aqui e foram resolvidas
+> Versões anteriores desta seção registravam dois conflitos internos do vault. Os dois
+> estão fechados e ficam anotados para quem tiver lido a versão antiga:
 >
-> A conferência no texto-fonte favorece o **2.700**: a passagem que enuncia a escala
-> completa diz "de dois mil e setecentos a quatro mil quilômetros quadrados", e uma
-> segunda passagem, anterior e independente, diz "de dois e dois terços a quatro mil"
-> — ou seja, cerca de 2.667. As duas apontam para o mesmo piso, e nenhuma passagem
-> localizada diz 2.000. O vão entre as grades, portanto, parece ser real, e a própria
-> seção 9 já o descrevia como tal.
->
-> **A divergência fica registrada, não resolvida por esta nota.** Pela regra do
-> projeto, é o número deste apêndice que vale enquanto isso — mas a correção da nota
-> temática é uma decisão que cabe a quem mantém o vault, não a esta seção.
-
-> [!warning] O teto do fluxo de tempo pode estar defasado na seção 9
-> A seção 9 dá as proporções documentadas de fluxo de tempo interno como indo de
-> **1:5 a 1:38**. O exemplo de grade super citado na tabela acima roda a **1:46**, e é
-> descrito no texto como "o padrão de uma terra abençoada de grade super, nada fora do
-> normal". Se esse dado for aceito, o teto da faixa da seção 9 sobe de 38 para 46.
-> Registrado aqui para conferência; a seção 9 não foi alterada.
+> - **O piso da grade média era dado ora como 2.000, ora como 2.700 km².** A conferência
+>   no texto-fonte favorece **2.700**, e a nota temática [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] já
+>   traz esse valor. Não há mais divergência, e o vão entre a grade baixa (teto 2.000) e a
+>   média (piso 2.700) é real.
+> - **O teto do fluxo de tempo estava defasado em 1:38.** Está corrigido para **1:46** na
+>   seção 9, com base numa passagem que descreve esse valor como o padrão de uma terra de
+>   grade super.
 
 ### 13.4 Régua de calibração: a escala das coisas
 

@@ -57,8 +57,47 @@
 
 ### 2. A densidade de qi varia por lugar? Por altitude, estação, hora do dia?
 
-*(pendente — ver seção "terras abençoadas" no tópico 7 para variação por local; estação/hora
-ainda não pesquisado)*
+- **Por região, sim — de forma estrutural.** A obra afirma que o qi de céu e terra das
+  cinco grandes regiões do mundo (Southern Border, Northern Plains, Central Continent,
+  Western Desert, Eastern Sea) é **diferente entre si**, e essa diferença é justamente o
+  motivo de existirem "regional walls" (paredes regionais) que dividem essas regiões:
+  "The heaven and earth qi of the five regions vary. Thus, when Gu Immortals go to
+  different regions, absorbing the heaven and earth qi there would cause problems in
+  their immortal aperture. This is also why Gu Immortals often have to return to their
+  region to undergo tribulations. The difference in heaven and earth qi also caused the
+  regional walls to form." (cap. 1968, Volume 6). Ou seja: **um Gu Immortal de uma região
+  não consegue simplesmente absorver o qi de céu e terra de outra região sem sofrer
+  instabilidade na própria abertura** — o que é uma barreira mecânica real de mundo, não
+  apenas narrativa.
+- **Dentro de uma mesma região, também varia por local específico** — ver "terras
+  abençoadas" (blessed lands) no tópico 7: um dado território pode concentrar mais heaven,
+  earth e human qi fundidos, e isso define diretamente o "grau" (grade) daquele local
+  (pequeno/médio/alto) e a quantidade de recursos que ele produz (cap. 609, Volume 3).
+  Da mesma forma, "earth veins" e "heaven veins" (tópico 5) têm "nós" (nodes) — pontos de
+  concentração muito maior que a média — e um lugar construído sobre um nó de veia do céu
+  é "nutrido" e produz mais recursos do que um lugar qualquer (cap. 2001, Volume 6). E ao
+  menos um caso mostra qi **estruturalmente mais escasso** numa região inteira: a planície
+  gelada do norte (northern icy plain, criada pelo Venerável Reckless Savage) é descrita
+  como tendo menos heaven and earth qi do que outros lugares: "This is an icy plain
+  without any land. The heaven and earth qi here is less abundant than in other places."
+  (cap. 1098, Volume 5).
+- **Por altitude:** não encontrei uma afirmação direta do tipo "o qi é mais denso em
+  altitude maior/menor". O que a obra tem, relacionado a altitude, é uma barreira física
+  chamada "heavenly wind qi wall" (parede de qi de vento celestial) que separa o mundo
+  mortal do "immemorial nine heavens" (os nove céus imemoriais) e que exige poder de voo
+  ou de combate para atravessar: "My battle strength is enough to break through the
+  heavenly wind qi wall, but I cannot fly." (Volume 4). Isso é mais uma barreira dimensional
+  entre "mundo" e "céu" do que uma variação contínua de densidade por metro de altitude.
+- **Por estação do ano ou hora do dia:** termos buscados sem qualquer resultado relevante
+  de mecânica de mundo: "solstice" (0), "equinox" (0). "season" aparece nos 6 volumes mas,
+  nas ocorrências verificadas, sempre em uso comum de "estação do ano" (ex.: descrição de
+  clima, comida, roupas) e não como regra de cultivo. "auspicious" aparece 37 vezes no
+  Volume 5, mas majoritariamente como o nome de uma habilidade recorrente de Fang Yuan
+  ("spontaneous auspicious cloud", uma nuvem killer move) e não como um horário/dia
+  favorável de cultivo. Não encontrei um mecanismo textual de "hora do dia" ou "fase da
+  lua" que acelere ou retarde cultivo — mas dado o volume de texto (~28 MB), não posso
+  descartar que exista uma menção pontual que os termos testados não capturaram; isso
+  fica registrado como lacuna de busca, não como negativa definitiva da obra.
 
 ### 3. O qi do mundo aumentou ou diminuiu ao longo das eras?
 

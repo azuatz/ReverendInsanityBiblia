@@ -146,3 +146,193 @@ Yu Tian, Meng Qiu, Cao Fu, Tian Chuan e a região central da Corte Imperial.
 - **Cisão de linhagem**: cap. 470 — Liu Wen Wu, terceiro jovem senhor da tribo Liu, "brought his
   supporters from his tribe and separated from Liu tribe, **trying to create his own tribe from
   scratch**".
+
+---
+
+## 2. A Corte Imperial (Imperial Court / Wang Ting) e o Torneio
+
+O agente que me passou a pista perguntava pelas **regras, periodicidade e prêmio** do
+"Northern Plains Imperial Court Contest". Tudo isso **existe e está descrito**, concentrado nos
+capítulos **440, 473, 478, 489, 495, 501–503, 507, 514–525, 528, 533, 535–539, 544–563, 567, 593**.
+
+### 2.1 Periodicidade e gatilho
+
+- **A cada dez anos**, uma nevasca engole a região inteira — **cap. 440**: "Every ten years in
+  northern plains, there would be a great blizzard that engulfs the entire northern plains."
+- **cap. 489**: "Northern Plains had a very cruel environment with there being a great blizzard
+  every ten years; the snowy disaster engulfing the entire northern plains. The blizzard would cut
+  through everything like knives. Many inheritances set up in the wild would be destroyed."
+- **cap. 552**: "This Imperial Court blessed land opened **once every ten years**."
+- **cap. 556**: "Once the ten year blizzard outside subsides, Imperial Court blessed land would
+  close, and they would need to leave."
+- Ou seja: o torneio é **um relógio climático**. A assembleia de heróis começa quando a nevasca se
+  aproxima (cap. 489) e o vencedor entra na terra abençoada exatamente durante a nevasca.
+
+### 2.2 O prêmio
+
+Três camadas de prêmio, todas confirmadas:
+
+1. **Sobrevivência.** Só quem entra escapa da nevasca decenal — **cap. 440**: "you can hide in Wang
+   Ting blessed land when the great blizzard comes"; **cap. 536**: "Only the victor could stay in
+   the Imperial Court. Meanwhile, the loser would have to pay reparations and face the ten year
+   blizzard."
+2. **A terra abençoada em si.** A maior do Norte (**cap. 549**), com dia e noite próprios
+   (cap. 549), enormes rebanhos de bestas (lobos azure são espécie *comum* ali), e capacidade para
+   **cinco milhões de pessoas** (**cap. 546**). É um cofre de heranças: **cap. 489** — "setting up
+   inheritances in Imperial Court blessed land had gradually turned into a tradition of northern
+   plains", e **cap. 550**: "a cradle which had nurtured many northern plains' Gu Immortals in the
+   Imperial Court contests before".
+3. **O Edifício do Verdadeiro Yang Oitenta e Oito** (Eighty-Eight True Yang Building), o topo do
+   prêmio.
+
+### 2.3 O Edifício do Verdadeiro Yang Oitenta e Oito
+
+- **É uma Casa de Gu Imortal de rank 8** — **cap. 556**: "Eighty-Eight True Yang Building was an
+  Immortal Gu house that **Long Hair Ancestor** had refined back in the day, it was as high as rank
+  eight." Passou depois às mãos do Venerável Sol Gigante (Giant Sun), que a instalou ali.
+- **Só aparece durante a nevasca** — cap. 553: "Only when the ten year blizzard strike would the
+  Eighty-Eight True Yang Building show up."
+- **É montado a partir de pequenas torres espalhadas pela terra abençoada** — cap. 556: "The
+  Imperial Court blessed land had a small tower at every eight li interval. Actually, all of them
+  were a part of the Eighty-Eight True Yang Building."
+- **Formato de dungeon por andares e rodadas**: cap. 557 — "every round in True Yang Building would
+  be split into low, middle, and high grade"; cap. 556 — "even in the Eighty-Eight True Yang
+  Building, the final round of every floor might not have an Immortal Gu reward". Ou seja: os
+  prêmios das rodadas incluem **Gu Imortais**.
+- **Refina Gu instantaneamente** dentro do prédio (cap. 558) e tem sala do tesouro com paredes de
+  cristal em que os itens só saem por **troca** de valor equivalente (cap. 559: "Because exchange
+  was needed to obtain treasures, the total treasure amount in the crystal walls was always the
+  same. **Every item here was recorded by all the super forces**").
+- **Porta de sangue**: cap. 570 — "Even though Huang Jin tribesmen were Giant Sun Immortal
+  Venerable's descendants, they were not guaranteed entry into Eighty-Eight True Yang Building. If
+  their ancestors had diluted the bloodline too much by marrying outsiders, they would not reach
+  the requirement and would not be able to enter." Estrangeiros entram por **fichas de convidado**
+  (guest tokens, cap. 562).
+- **Golpe padrão para "passar de fase"**: cap. 594 — "This is a refinement path killer move that
+  **all super tribes have** — Grey Meltdown. It can be used to rapidly pass rounds in Eighty-Eight
+  True Yang Building."
+
+### 2.4 Por que os imortais não entram
+
+- **cap. 528**: "Imperial Court blessed land was the work of Giant Sun Immortal Venerable, and
+  **unless one reached rank nine, no Gu Immortals could enter inside!**"
+- Por isso o torneio é literalmente "um jogo manipulado por Gu Imortais" jogado por mortais
+  (cap. 533). Os imortais operam por **peças**: emprestam Gu Imortais aos seus campeões (cap. 514,
+  564: um Gu Imortal de caminho do fogo emprestado por um ancião supremo ao líder tribal), ou
+  cultivam em segredo por décadas um mortal-semente (cap. 524, 543).
+
+### 2.5 O ciclo completo, etapa por etapa
+
+1. **Assembleia de heróis** (heroes assembly), simultânea em cada sub-região do Norte quando a
+   nevasca se aproxima — cap. 489: "For this struggle, the heroes assembly came into existence and
+   slowly took form till it became a firm tradition of northern plains people. As the great
+   blizzard approached, all the famous regions of northern plains would hold a heroes assembly at
+   the same time." É onde tribos escolhem lado, campeões se exibem e alianças se formam
+   (cap. 489: "only by winning the heroes assembly, can we attract more experts and make many
+   tribes attach to us. This is the first step of the great battle of Northern Plains").
+   Pequenas tribos chegam primeiro; as grandes, na segunda metade (cap. 485).
+2. **Aliança selada por juramento**, com hierarquia interna e desconfiança — cap. 502: "Hei tribe
+   (…) had already gone through the vow with their allies. As a tribe who joined later, Zhao tribe
+   would unavoidably be bullied"; cap. 507: "the alliance was newly formed, all the different tribes
+   were contesting against each other secretly".
+3. **Campanha militar**: exércitos de centenas de milhares (cap. 525: "Each of the seven armies had
+   at least over a hundred thousand troops"), carta de guerra formal entre exércitos (cap. 531),
+   linhas de defesa construídas a cada mil li de avanço (cap. 525), duelos de campeões antes da
+   batalha geral (cap. 509).
+4. **Placar de méritos de batalha** (battle merit board) — a economia interna. Ver 2.6.
+5. **Reparação de guerra** paga pelo derrotado. Ver 2.7.
+6. **Entrada na terra abençoada** durante a nevasca; a chave física de abertura fica com o líder
+   vencedor (cap. 547: "The item to open the Imperial Court blessed land was on Hei Lou Lan"). O
+   portão é descrito como uma escada de gelo e um portão vermelho (cap. 547).
+7. **Fechamento** quando a nevasca passa (cap. 556).
+
+### 2.6 A economia de méritos de batalha
+
+- **Placar público, gigante e auditado.** cap. 516: "The complete battle merit list was erected in
+  the fifteen large tents and was as large as defense walls, with large numbers of swimword Gu used
+  on them" — e os números mudam em tempo real.
+- **Auditoria por gravação.** cap. 516: "In every large battle, every tribe would use large numbers
+  of Gu worms to record the whole process of the battle. Besides the purpose of calculating the
+  battle merits, it was more importantly for assimilating experience, gathering intel, probing the
+  enemy's real details (…) With all these details and images of every corner, the battle merits
+  would be calculated again and again to verify the correct statistic."
+- **Câmbio: 1 mérito ≈ 10 pedras primordiais.** cap. 517: "Rank three self-reliance Gu could reach
+  a price of forty-five thousand primeval stones which corresponded to forty-five hundred battle
+  merits."
+- **Escala de um placar real** (uma batalha da campanha, cap. 516): o primeiro colocado passa de
+  cem mil méritos; o segundo, oitenta mil; do 10º em diante cai para nove mil; do 20º, sete a oito
+  mil; a lista dos melhores tinha 106 nomes, a maioria com cerca de três mil.
+- **Serviços comprados com mérito**: contratar um Mestre Gu de refino para refinar por você
+  (cap. 517), e **empréstimo** para figuras de prestígio ("you can borrow five hundred thousand",
+  cap. 517).
+- **Curandeiros lucram no pós-guerra** (cap. 516) — o mérito não é só de quem mata.
+- **Embezzlement é preocupação real** (cap. 516: "checking whether their battle merits had not been
+  embezzled").
+- **Rank 3 é a força vital do torneio** — cap. 493: "in the northern plains contest for the Imperial
+  Court, rank three Gu Masters are the absolute vital force."
+
+### 2.7 A reparação de guerra — e por que ela existe
+
+Esta é a engrenagem mais elegante da instituição, e a obra explica o desenho em voz alta.
+
+- **cap. 522**: "because of the harsh living environment, the concept of trading was not very
+  popular with people, **all the large forces liked to do their own research and treasured their
+  findings, keeping it from others**. Back then, one of the invincible venerables, Giant Sun, felt
+  this and set up this huge arena. **Because of the battle reparations, the Huang Jin family could
+  pass on their learning throughout the ages**, grasping the overlord position of Northern Plains
+  throughout history without declining."
+- **cap. 539**: "through war reparations, technology and skills were exchanged, which further
+  deepened the foundation of the Huang Jin family."
+- **A reparação inclui receitas e golpes secretos**: cap. 536 — o golpe conjunto "three heads six
+  arms" da tribo Liu virou item de reparação e foi parar no balcão de méritos de batalha.
+- **A reparação pode incluir uma tribo vassala inteira**: cap. 535 — a tribo Chang foi entregue como
+  parte do acordo entre Liu e Hei.
+- **Efeito no vencedor**: cap. 519 — "he had earned a fortune! (…) his military strength would surge
+  by at least fifty percent"; cap. 522 — "Ever since they received Dong Fang tribe's reparations,
+  the resources that could be exchanged for using battle merits had increased by more than ten
+  times."
+- **Piso humanitário**: prisioneiros de valor são capturados vivos e resgatados, não mortos
+  (cap. 535), e linhagem Huang Jin não é exterminada (cap. 544).
+
+### 2.8 O que a instituição faz com a região (leitura da própria obra)
+
+- cap. 515: "The struggle for the Imperial Court by itself was an arrangement set by Giant Sun
+  Immortal Venerable; **one of the objectives was to preserve his bloodline while weakening the
+  other tribes!**"
+- cap. 539: "a field of purging at every stage with Huang Jin tribes swallowing other tribes and
+  strengthening themselves (…) the survival of the fittest rule which forced Gu Masters to exert
+  their strength at the edge of life and death and become experts. **For Huang Jin tribes, this was
+  filtering out the Gu Immortal seeds.**"
+- cap. 522: "After countless Imperial Court battles, Northern Plains became the publicly acclaimed
+  strongest region out of the five in terms of fighting strength."
+- **A nevasca como bomba de sucção de riqueza** — cap. 558: "First was the Imperial Court contest,
+  to weaken other tribes. Next, he used the ten year blizzard to send all sorts of treasures and
+  materials from northern plains into Eighty-Eight True Yang Building"; cap. 593: as pequenas torres
+  cobrem a terra abençoada "in accordance to each region of northern plains", absorvem Gu selvagens
+  o tempo todo e afundam no chão a cada dez anos, "resonating with the blizzard in the outside
+  world to achieve a miraculous power"; cap. 561: "The Imperial Court contest was to spread the
+  element of man. The ten year blizzard was a cruel and vicious element of heaven. The small towers
+  sinking into the ground were borrowing the blessed land's element of earth."
+- **Nível de conhecimento**: o torneio e a nevasca são `[comum]`; que o desenho serve para
+  preservar a linhagem do Venerável e drenar a riqueza da região é `[segredo]` (dito por Fang Yuan
+  em monólogo interno e pelo próprio conhecimento de altíssimo nível, cap. 515, 558, 561).
+
+### 2.9 A Competição Marcial de Batalha de Sangue (blood battle martial competition)
+
+Segunda instituição de guerra ritualizada do Norte, esta **entre Gu Imortais** e não entre mortais.
+
+- **cap. 1190** (capítulo intitulado "Blood Plain Martial Competition"): dois rank 8 combinam data e
+  local — "Then in that case, let's decide a date for a martial competition." / "Blood Plain is a
+  good choice of location". Serve como **saída diplomática**: adia uma guerra aberta que nenhum lado
+  quer ("let these juniors fight first, and rile them up") e dá a um dos lados **um álibi formal**
+  perante a autoridade suserana (cap. 1193: "Yao Huang was friends with Heavenly Lord Bai Zu, so he
+  came up with the blood battle martial competition **as an explanation to Longevity Heaven**").
+- **As regras são negociadas durante o evento**: cap. 1197 — depois de um incidente, "both sides had
+  thus conveniently added a rule in the blood battle martial competition regarding the exchange of
+  corpses and soul captives".
+- **Serve de vitrine de carreira** para imortais jovens (cap. 1193, 1194: "he also wanted to spread
+  and establish his name through the blood battle martial competition").
+- **E de armadilha**: tribos aliadas guardam força de propósito para que os rivais se desgastem
+  (cap. 1193: "we can't stand out in this blood battle martial competition. Yao tribe, Guan tribe
+  and Liu tribe are the ones nearer to (…) If we put too much effort, they will just watch from the
+  sidelines and reap the benefits").

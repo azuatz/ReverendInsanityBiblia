@@ -117,3 +117,115 @@ A obra nomeia **três** das dez. As outras sete nunca são listadas.
 Ou seja: a rota comercial do Leste é uma **rede de correntes submarinas encadeadas**, e o
 mapa dessas correntes é ativo estratégico de quem o tem.
 
+---
+
+## 2. A moldura da região: riqueza, desunião, água
+
+### 2.1 A região mais rica das cinco — afirmações repetidas
+
+- **cap. 819** (V4 l. 27856): "And Eastern Sea was the most abundant in resources. In the
+  vast sea areas and deep seas, countless water creatures, sea beasts, minerals and precious
+  stones were hidden."
+- **cap. 1295** (V5 l. 53146): "Eastern Sea was the most abundant in resources out of the
+  five regions, **even Central Continent could not match it**."
+- **cap. 1408** (V5 l. 75612): "Eastern Sea has always had the most resources among the five
+  regions. Because of this, **Gu Immortals from the other regions took risks to go there and
+  explore it**."
+- **cap. 1984** (V6 l. 2968): "Eastern Sea was the richest of the five regions, as an Eastern
+  Sea super force, Xia clan had ownership of many resource points, their inventory was
+  filled." E logo depois (l. 2976): "**This is merely the foundation of one Eastern Sea super
+  force, it is already so much.**"
+- Contraponto: **cap. 1408** (l. 75614) "But Eastern Sea had the **least** gains from the
+  earth vein tremors" — a riqueza do Leste é de superfície e de mar, não de veia terrestre.
+
+### 2.2 Rica e desunida — a fórmula política da região
+
+**cap. 1837** (V5 l. 151447), a frase-resumo:
+> "In the five regions, **Eastern Sea had the most abundant resources but the Gu Immortals
+> were not united**, their battle strength varied greatly among each other."
+
+**cap. 1435** (V5 l. 80604), no comparativo das cinco regiões:
+> "Whether it be Eastern Sea, Western Desert, Southern Border or Northern Plains, they are
+> all controlled by independent super forces and are **disunited**. Northern Plains does have
+> Longevity Heaven, so their situation will be slightly better, but when compared to Central
+> Continent's Heavenly Court, their influence in the whole region is significantly lacking."
+
+Ou seja: o Leste **não tem líder regional nenhum** — nem uma Corte Celestial, nem um
+Longevity Heaven, nem um clã hegemônico como o Wu no sul. E, ao contrário do Deserto
+Ocidental (14 clãs) e da Fronteira Sul (13 clãs), a obra **nunca dá uma lista fechada** das
+super forças do Leste.
+
+**cap. 1909** (V5 l. 165476), a consequência que os próprios locais enxergam:
+> "Although Shen clan is in Eastern Sea, it is by no means a paradise. **Eastern Sea has the
+> most resources and wealth that lure people's greed**, even when the five regional walls
+> exist, there is a steady stream of Gu Immortals coming here, what do you think will happen
+> in the future?"
+
+E **cap. 1046** (V5 l. 4878), sobre a coordenação local: "These Eastern Sea Gu Immortals were
+not united, earlier, they only worked together to capture the blood path demonic immortal."
+— a cooperação existe, mas é **ad hoc, por caso**.
+
+### 2.3 A região do caminho da água
+
+**cap. 1799** (V5 l. 143768): "Among the five regions, Southern Border had the most wood path
+Gu Immortals, while **Eastern Sea had the most water path Gu Immortals**."
+**cap. 1297** (V5 l. 53430): "In fact, Eastern Sea had mostly water path Gu Immortals."
+**cap. 1394** (V5 l. 72594): no Deserto Ocidental "water path was very rare, forming a clear
+contrast to Eastern Sea".
+
+Isso é a razão histórica embutida na geografia: o caminho de casa da região inteira é o
+**caminho da água**, e as especializações dos clãs se diferenciam a partir daí (luz, som,
+nuvem, espaço, sabedoria).
+
+### 2.4 O paraíso dos cultivadores solitários
+
+**cap. 1650** (V5 l. 114912), afirmação canônica e direta:
+> "In Eastern Sea, there was the **highest number of lone immortals** who are **superior to
+> those of other regions**, because Eastern Sea was the most affluent in resources."
+
+**cap. 965** (V4): a região é a **mais receptiva a estrangeiros** das cinco.
+**cap. 1047** (V5 l. 5013): num incidente típico, quem persegue um forasteiro é um bando de
+**imortais solitários** — não uma força organizada.
+
+Isto define o tom do Leste para uma mesa: o poder aqui não é só de clã. Um imortal sem
+sobrenome pode possuir uma área de mar, ter clientela, e ser tratado com deferência por
+enviado de super força (caso You Chan, cap. 1472).
+
+### 2.5 Quem é rank 8 no Mar Oriental (censo canônico)
+
+**cap. 1725** (V5 l. 128391) lista os rank 8 do Leste reunidos numa mesma cena:
+> "…there were the other rank eight Gu Immortals of Eastern Sea — **Qing Yue An, Hua Cai Yun,
+> Shen Cong Sheng, Zhang Yin, Granny Rong, Shi Miao, and Yang Zi He**" — mais **Song Qi Yuan**,
+> que é o sujeito da frase anterior.
+
+Alinhamento (cap. 1725, l. 128449; cap. 1688, l. 121430):
+- **Caminho correto, líderes de clã:** Song Qi Yuan (clã Song), Qing Yue An (clã Qing Yue),
+  Hua Cai Yun (clã Hua), Shen Cong Sheng (clã Shen).
+- **Solitários e demoníacos:** Zhang Yin, Granny Rong, Shi Miao, Yang Zi He — "you are all
+  **lone and demonic immortals** of Eastern Sea's Gu Immortal world" (cap. 1688).
+
+Isto é o equilíbrio político real da região: **quatro rank 8 de clã contra quatro rank 8 sem
+clã**, mais os rank 8 zumbis da Zombie Alliance (a obra mostra a Aliança despachando
+**três rank 8 imortais zumbis** de uma vez, cap. 927, l. 47096). O clã Xia, super força, **não
+tem nenhum** (cap. 1982). O Leste não é fraco — é multipolar.
+
+> Ressalva: a obra **não** afirma em lugar nenhum que o Mar Oriental tem o maior número de
+> rank 8 do mundo. Verificado com grep. O que ela afirma é que tem os melhores e mais
+> numerosos **imortais solitários** (cap. 1650) e os maiores recursos.
+
+### 2.6 O comércio como estrutura de poder
+
+- **Convenções privadas de troca** — **cap. 1154** (V5 l. 26656): "Eastern Sea Gu Immortals
+  often held **meet-ups to exchange resources** between each other. These resources were very
+  precious, they had great value, **lifespan Gu were used for transactions**. In comparison,
+  treasure yellow heaven was an open market, it was not a private auction location."
+  Ou seja: o Leste sustenta um circuito **fechado e privado** de troca imortal, em paralelo ao
+  mercado público mundial, e a moeda de topo ali é **tempo de vida**.
+- **Caravanas submarinas** de super forças (cap. 892, l. 40913) — ver §1.5.
+- **Exportação nomeada:** os *blue sea cloud tea bricks* (tijolos de chá de nuvem do mar azul)
+  são produzidos no Leste e importados em massa pelo clã Yi da Fronteira Sul, que os revende
+  com grande lucro — a relação estreita entre Yi e Leste é a base da relevância daquele clã
+  (**cap. 1093**, V5 l. 13857).
+- **Água oleosa / óleo negro:** havia toda uma profissão de "oil collecting Gu Master" no
+  Leste, com método de coleta transmitido dentro de linhagem (**cap. 1653**, V5 l. 115519).
+

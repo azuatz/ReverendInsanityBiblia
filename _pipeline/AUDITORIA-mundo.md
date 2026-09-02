@@ -51,6 +51,24 @@ interior** de cada parede, que a obra descreve com riqueza (cap. 710).
 
 ### 🟠 SÉRIAS
 
+**L10 — A nota de Cosmologia tratava a maré de qi como desastre periódico e antigo.**
+`severidade: alta` — **erro conceitual, corrigido.**
+A nota dizia, no bloco "Para o design": "como é periódico, dá ritmo de campanha: o mundo inteiro
+sabe que a próxima maré vem". Duas coisas erradas nisso. Primeira: **a expressão "qi tide" não
+aparece uma única vez nos Volumes 1 a 5** — ela nasce no Volume 6, no exato momento em que as
+cinco regiões se fundem e as paredes caem (caps. 1968, 1970). Numa campanha ambientada **antes**
+da Grande Era o fenômeno não existe e ninguém ouviu falar dele. Segunda: a obra afirma
+explicitamente o contrário de periodicidade — "é impossível calcular quanto tempo este fenômeno de
+maré de qi vai durar, ou se vai ficar mais forte ou mais fraco; não conseguimos nem prever uma
+tendência" (cap. 1968). O erro faria a designer construir um calendário de campanha em cima de um
+fenômeno que a obra descreve como imprevisível por natureza.
+
+**L11 — Faltava o efeito mecânico da maré de qi sobre cultivadores, que é assimétrico e jogável.**
+`severidade: média` — **corrigido.** A maré força **todo Gu Imortal das cinco regiões** a parar e
+se recuperar, e **quanto mais forte a fundação da dimensão interna, mais tempo de recuperação** —
+enquanto quem vem dos dois céus e a instituição suserana não sofrem o efeito (cap. 1968). É uma
+janela em que os fortes do mundo de baixo ficam imobilizados e os de fora ficam livres.
+
 **L9 — O Atlas afirmava que a Fronteira Sul não tem estações do ano.** `severidade: média` —
 **corrigido.** A obra descreve estação chuvosa e inverno na região e mostra os dois produzindo
 materiais de refino diferentes no mesmo lugar (cap. 2098). O silêncio real é mais estreito: não há
@@ -97,6 +115,18 @@ Abyss — "a forbidden area in the great dao" (caps. 196, 384, 401).
   nunca se chocam, e a pedra de refino que nascia desse choque praticamente deixou de ser produzida
   — uma catástrofe de milhões de anos atrás que ainda se manifesta como escassez de mercado.
 - `fontes` atualizado com caps. 21, 34, 73, 559, 1028.
+
+### `13 - Cosmologia.md` (segunda rodada)
+- **Corrigido L10**: acrescentado um `[!warning]` dizendo que **antes da Grande Era não existe maré
+  de qi nenhuma**, e que depois que ela começa ninguém consegue prever periodicidade, duração nem
+  tendência. O bloco "Para o design" foi reescrito para usar a maré como acaso permanente em vez de
+  calendário, e a tabela de corte da nota agora avisa que a linha só vale para campanhas
+  ambientadas depois da Grande Era.
+- **Acrescentado L11**: o bloco "O que a maré faz com quem cultiva", com a assimetria completa
+  (morte de vida, dano em núcleo de alma, tremor forçando recuperação, penalidade invertida por
+  fundação, e a imunidade de quem não é das cinco regiões) e a leitura de design de que, pela
+  primeira vez, ser pequeno é vantagem.
+- `fontes` atualizado com caps. 1970, 1972, 1992.
 
 ### `01 - Visão Geral do Mundo.md`
 - **Corrigido o risco de leitura de L2**: a linha "existem dois céus que se alternam como dia e

@@ -1187,3 +1187,187 @@ mundo, quinhentos anos adiante, em guerra aberta e generalizada. `[segredo]`
 Mencionada de passagem como a ocasião em que o **Fate Gu chegou a 50% de recuperação**. O evento em
 si é anterior à faixa (está no Volume 4) — registrado aqui só como ponte para quem varrer aquele
 trecho.
+
+---
+
+## Regras transversais úteis para rodar qualquer batalha grande desta faixa
+
+Achados espalhados que não pertencem a um evento só, mas que um mestre precisa ter na mão antes de
+rodar qualquer cerco, guerra ou assalto da faixa.
+
+1. **Os quatro tipos de "estrutura de combate" e o que acontece quando cada um quebra:**
+   - **Gu formation / super Gu formation** — estática, montada no terreno, feita de Gu mortais e
+     Gu Imortais. Quando é destruída, o operador sofre backlash **leve**, porque a formação funciona
+     pelos Gu e pelo ambiente, não pelo corpo dele (cap. 1350).
+   - **Ancient battle formation** (ex.: um gigante prateado pilotado por vários imortais) — **móvel**,
+     assume o path de quem a pilota. Quando é destruída, o backlash é **severo**, sobretudo no
+     controlador principal (caps. 1350, 1581).
+   - **Immortal Gu House** — móvel, "a essência do formation path", sem fraqueza óbvia, capaz de
+     arrasar um campo de batalha; sua potência **sobe conforme se despeja essência imortal** nela, a
+     ponto de resistir a rank 8. Cada casa tem uma habilidade única e algumas são **incompletas**
+     (uma delas perdeu a capacidade de se mover) (caps. 1350, 1391).
+   - **Immortal battlefield killer move** (um "domínio" de batalha criado na hora) — quando se
+     desfaz, o backlash é **normalmente pesado e severo, e quanto mais forte o golpe, pior o
+     backlash** (cap. 1391).
+2. **Uma super Gu formation pode ser desmontada de três jeitos diferentes**, e a escolha é a
+  decisão tática da mesa: (a) quebrar um **Gu Imortal-pilar** e derrubar a cadeia de camadas;
+  (b) destruir **o terreno** em que ela está enraizada; (c) usar uma **porta dos fundos** deixada por
+  quem a construiu (caps. 1267, 1270, 1351).
+3. **Reparo em campo é possível e é uma cena:** substituir um pilar exige um Gu Imortal do mesmo
+   path e o mais parecido possível com o destruído, uma dedução feita sob fogo, e deixa o formation
+   master **indefeso** durante o processo (cap. 1351).
+4. **Moral é mecânica declarada:** "o estado mental afeta a força de combate" — por isso comandantes
+   escondem más notícias dos próprios aliados, e por isso a chegada de uma fera lendária faz o moral
+   de dezenas de imortais "cair ao fundo do poço" antes do primeiro golpe (caps. 1350, 1351).
+5. **Mercenários exigem garantia sobre a alma.** Um exército de imortais solitários e demoníacos só
+   luta se souber que sua alma não vai virar prisioneira do inimigo; formalizar **troca de cadáveres
+   e de almas capturadas** é o que mantém a força de pé (cap. 1197).
+6. **Ambientes que suprimem:** parede regional (50-60% de força, golpes ferem o usuário), Reverse
+   Flow River (nenhum Gu funciona, nenhuma abertura abre), black heaven (casas imortais lentas e
+   apagadas), miasma (golpes enfraquecidos). Sempre pergunte **onde** a batalha acontece antes de
+   perguntar quem é mais forte.
+7. **Rank 8 é o teto prático da mobilidade:** dao marks de rank 8 são densos demais para teleporte.
+   Um rank 8 se move voando pelos céus imemoriais. Quem quebrar essa regra tem vantagem estratégica
+   absoluta — e é por isso que quem a tem esconde (cap. 1573).
+8. **Rastreio e contra-rastreio:** clãs marcam seus imortais com life tablet Gu / soul lantern Gu /
+   blood rope Gu (morte e posição instantâneas); paredes regionais atrapalham dedução; uma defesa de
+   information path de **rank 6** bem posicionada pode barrar um dos maiores deduzidores de uma
+   região inteira — "não importa quão largo é o rio, depois dessa represa a água fica rasa"
+   (caps. 1213, 1335, 1472).
+
+---
+
+## Candidatos a nota própria
+
+Ordenados por prioridade para a pasta `08 - Eventos e Cenarios/`. "Faixa de rank" = os personagens
+que cabem *dentro* do evento como protagonistas, não os que decidem seu desfecho.
+
+1. **Os terremotos das veias da terra de Southern Border** — caps. 1406-1408, 1467-1468, 1531.
+   *Faixa de rank: mortal (Gu Master rank 1-5) até Gu Imortal rank 7.*
+   **Por quê:** é o único evento da faixa que atinge com força total **todas as camadas de poder do
+   mundo ao mesmo tempo** e com efeitos opostos — apocalipse para os mortais, corrida do ouro para
+   os imortais. Traz de brinde uma trégua política entre rivais, geografia nova para explorar, e um
+   segredo de mestre (é o primeiro passo da Grande Era). Roda com um grupo mortal, com um grupo
+   rank 6, ou com os dois na mesma campanha.
+
+2. **A prova do Reverse Flow River** — caps. 1272-1290.
+   *Faixa de rank: Gu Imortal rank 6 a 8 (e é o único lugar onde essa diferença quase não importa).*
+   **Por quê:** a regra única mais forte da obra — **nenhum Gu funciona, nenhuma abertura abre** —
+   transforma uma disputa entre titãs numa briga de mãos nuas em que rank 6 segura rank 8. É um
+   cenário fechado, curto, com condição de vitória clara e um segredo cosmológico no fim.
+
+3. **O cerco permanente ao giant dream realm de Yi Tian Mountain** — caps. 1211-1226, 1322-1348.
+   *Faixa de rank: Gu Imortal rank 6 a 7.*
+   **Por quê:** é a melhor **base de campanha** da faixa: treze facções rivais convivendo dentro de
+   uma cidade-formação, corrupção tolerada porque cada um coleta provas contra o outro, um tesouro
+   central deliberadamente inacessível, e um mercado negro de acesso com fila de espera. Dá dez
+   sessões sem um único combate obrigatório.
+
+4. **A Batalha do Domínio de Sonho** — caps. 1350-1375.
+   *Faixa de rank: Gu Imortal rank 6 a 7.*
+   **Por quê:** o cerco modelo. Quatro camadas de formação abandonáveis em sequência, reparo de
+   pilar sob fogo, treze comandos separados sem general único, e uma intervenção externa que muda as
+   regras no meio. É onde as "regras transversais de batalha" acima ganham corpo. Complementa o item 3
+   (mesma geografia, outro modo).
+
+5. **O Blood Plain Martial Competition** — caps. 1190 (montagem) a 1235.
+   *Faixa de rank: Gu Imortal rank 6 a 7 como campeões; rank 4-5 como público e apoio.*
+   **Por quê:** torneio com a virada perfeita — **o resultado macro já foi combinado** por dois rank 8
+   que nunca vão pisar no palco, e o torneio serve para queimar mercenários excedentes. Regras
+   negociadas durante o próprio evento (troca de cadáveres e almas). Cenário de arena que não é burro.
+
+6. **A campanha de Heavenly Court contra Lang Ya blessed land** — caps. 1540-1550, 1570-1582.
+   *Faixa de rank: Gu Imortal rank 6 a 7 como defensores nativos.*
+   **Por quê:** cerco a um lugar **cuja localização é o segredo defendido**, com a fase de
+   contra-espionagem antes do ataque valendo tanto quanto a batalha; e a defesa de terra arrasada
+   que gasta a poupança de séculos e **fere os próprios aliados**. Traz o dado mais explosivo da
+   faixa (o teleporte de rank 8 e a aliança das quatro regiões que ele provocaria).
+
+7. **A expedição por black heaven** — caps. 1241-1248.
+   *Faixa de rank: Gu Imortal rank 6 a 7 como passageiros; rank 8 como capitães.*
+   **Por quê:** viagem como cenário. Um ambiente hostil com fauna catalogada (javalis voadores,
+   cobras rancorosas, mosquitos-urso, lanternas negras que cegam para sempre), oásis de recurso com
+   relógio, decisões de rota, e a regra linda de que **as nuvens flutuam sem padrão e nem heaven's
+   will interfere** — então a travessia é literalmente uma prova de sorte.
+
+8. **O Moon Festival** — caps. 1316-1320.
+   *Faixa de rank: qualquer — inclusive mortais.*
+   **Por quê:** o contrapeso social da pasta. Três provas (chá, poesia, abrir pedras), regras de
+   etiqueta com consequência política real, uma lenda de origem contada dentro do próprio evento, e
+   uma versão mortal do mesmo festival. Sessão inteira sem iniciativa.
+
+9. **A expedição ao River of Time e a herança de Red Lotus** — caps. 1427-1435.
+   *Faixa de rank: Gu Imortal rank 6 a 8, com montaria/aliado poderoso.*
+   **Por quê:** masmorra linear com trechos de regra distinta (fontes súbitas, aranhas, tubarões,
+   trecho das lâminas), gestão de essência como recurso escasso, perseguidores parados na entrada
+   contando o tempo, e um prêmio de nível Venerável. É a "dungeon crawl" da obra.
+
+10. **A guerra de preços do year Gu em treasure yellow heaven** — caps. 1449-1456.
+    *Faixa de rank: Gu Imortal rank 6 a 7 como produtores; qualquer um como comprador.*
+    **Por quê:** prova que o mundo tem economia real — anonimato estrutural, reputação como ativo,
+    estoque como munição, compradores em greve tática, e um acordo tácito de preço sendo quebrado.
+    Uma campanha comercial inteira sem combate.
+
+11. **A caçada continental (fugir de, ou caçar para, uma grande potência)** — caps. 1335, 1380-1386,
+    1540-1554, 1580.
+    *Faixa de rank: Gu Imortal rank 6 a 7.*
+    **Por quê:** é o formato mais reutilizável de todos, e reúne num só lugar as regras de rastreio,
+    dedução, disfarce e fuga em grupo (incluindo uma formação de teleporte que **só funciona com
+    vários imortais coordenados** — a fuga é uma habilidade de mesa, não de personagem).
+
+12. **O Cerco de Snowy Mountain e a fate reversing sacrificial refinement formation** — caps. 1249-1290.
+    *Faixa de rank: Gu Imortal rank 6 a 7.*
+    **Por quê:** a formação com a melhor regra de mesa da faixa — **o rank 8 é proibido de descer
+    para esmagar você**, cada pico é um duelo com o defensor amplificado, e morrer ali **alimenta o
+    inimigo**. Emenda diretamente no item 2.
+
+13. **A disputa pelo Divine Bean Palace e o green ghost desert** — caps. 1411-1412, 1507-1518.
+    *Faixa de rank: Gu Imortal rank 6 a 7.*
+    **Por quê:** a exploração clássica da faixa — deserto amaldiçoado com origem histórica, entrada
+    por poço de areia movediça, escadaria de 9.999 degraus onde não se pode voar, e um guardião que
+    é um **senhor com servos e política interna**, não um monstro.
+
+14. **A chegada da Grande Era** — caps. 1241-1242, 1301, ecos por toda a faixa.
+    *Faixa de rank: —; é pano de fundo de campanha.*
+    **Por quê:** não é um cenário, é **o relógio**. Merece nota própria como "estado do mundo" para
+    a designer poder datar tudo o mais e explicar por que todas as facções estão se movendo agora.
+    Deve ser escrita explicitamente como conhecimento de mestre.
+
+15. **O comunicado de Heavenly Court** — cap. 1438.
+    *Faixa de rank: —; evento de fundo.*
+    **Por quê:** modelo de "evento de informação": como uma notícia sem batalha muda a política de
+    cinco regiões, e como notícia se sustenta neste mundo (cadeia de provas encadeadas, não decreto).
+    Nota curta, provavelmente um trecho dentro da nota da Grande Era.
+
+### Candidatos secundários (cabem melhor como seções de notas de outras pastas)
+
+- **As paredes regionais** (caps. 1211, 1216-1217) — pertence à pasta de geografia, mas as regras de
+  emboscada dentro delas merecem um bloco `> [!note] Para o design` na nota de eventos.
+- **O "spar" e as disputas de ponto de recurso por linhagem** (caps. 1306-1312) — pertencem à pasta
+  de sociedade/política; são instituições, não eventos.
+- **A ascensão a Gu Imortal** (cap. 1439) — pertence à pasta de cultivo; entra em eventos só como
+  gancho de "cenário de defesa".
+- **A cerimônia mestre-discípulo** (cap. 1442) e **o noivado político com uma tribo de humanos
+  variantes** (cap. 1472) — pertencem à pasta de sociedade; boas fontes de cena, mas curtos demais
+  para nota própria.
+- **A convenção de troca de Eastern Sea** (caps. 1295-1300) — cabe como seção dentro de uma nota de
+  economia/comércio, ao lado de treasure yellow heaven e da guerra de preços.
+
+---
+
+## Lacunas e pendências desta varredura
+
+- A obra dá **15 picos** para Snowy Mountain blessed land no cap. 1252 e **12** no cap. 1267;
+  divergência registrada, não resolvida.
+- O **Blood Plain Martial Competition** começa no cap. 1190, fora desta faixa; quem varrer 801-1200
+  deve completar a montagem do evento.
+- A **convenção de refinement path de Central Continent** (grande evento institucional) fica no
+  Volume 4; aqui só aparece citada (cap. 1335).
+- A **guerra dos três continentes** dentro de Lang Ya blessed land (uma guerra encenada entre humanos
+  variantes mortais, usada pelo espírito da terra como método de seleção de talentos) é mencionada
+  duas vezes na faixa (caps. 1439 e um eco tardio) mas **nunca descrita**; a montagem dela deve estar
+  no Volume 4.
+- As outras quatro regiões **não** aparecem passando pelos terremotos das veias da terra dentro desta
+  faixa — quem varrer 1601-1966 deve verificar se isso acontece depois.
+- Nomes e caráter das paredes regionais de **Central Continent** e **Western Desert** não aparecem
+  aqui.

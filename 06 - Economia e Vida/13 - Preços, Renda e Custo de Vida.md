@@ -221,8 +221,8 @@ ocasiões, nem dinheiro os compra".
 
 | Serviço | Preço |
 |---|---|
-| **Refinar** um Gu de rank 1, custo em pedras queimadas no processo | ~7 pedras para um talento medíocre; cerca de o dobro para um Gu difícil |
-| Fundir dois Gu, por tentativa, com ou sem sucesso | centenas de pedras |
+| **Refinar** um Gu de rank 1 comum, em pedras queimadas no processo | ~7 pedras para quem tem talento medíocre — e pelo menos uma dúzia a mais para um Gu de vontade forte |
+| **Fundir** Gu de rank baixo: a operação inteira, incluindo as tentativas fracassadas | mais de 400 pedras num caso documentado — a fusão consome pedras **falhando ou acertando** |
 | Guardar um Gu na pensão da cidade-mercado | 80 por mês, por Gu de rank 1 |
 | Dissecação de pedra de aposta | grátis nos graus alto e super; paga nos graus baixo e médio |
 | Refino sob encomenda de um Gu raro | ~200.000 |

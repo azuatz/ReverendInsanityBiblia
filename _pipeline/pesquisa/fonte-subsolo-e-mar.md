@@ -485,3 +485,84 @@ especificamente desse conceito.
 
 ---
 
+## 8. Rios nomeados, lagos, cachoeiras, pântanos; travessia de rio, pontes, balsas, jangadas
+
+**Rios nomeados** — dois rios de destaque, com escala e importância bem diferentes:
+- **Yellow Dragon River** (Rio Dragão Amarelo): rio mortal, comum, navegável por
+  jangada. Cap. 200 (Vol. 2), título do capítulo: "The raft overturns along the Yellow
+  Dragon River". Descrição: "The Yellow Dragon river flowed rapidly and unceasingly.
+  Many creatures lived in the river—fishes, turtles, snakes, clams and other life
+  forms." Tem tributários que passam pela montanha natal de Fang Yuan: "Many
+  tributaries of Yellow Dragon river flowed through Qing Mao mountain." O rio é violento
+  e perigoso mesmo para mortais experientes: "Yellow Dragon river was not safe at all,
+  who knew how many dangers were hidden within this raging river."
+- **Falling Heavenly River** (Rio Celestial Caído): rio de escala mítica/geográfica
+  gigantesca, não é um simples rio de superfície — é a marca física deixada por uma
+  tribulação celestial (calamidade que um Gu Immortal enfrenta ao tentar avançar de
+  rank). Cap. 955 (Vol. 4): "Falling Heavenly River, a giant river that fell from the
+  heavens." / "In front of her was an enormous waterfall that fell from an endless
+  height. A boundless expanse of water heavily crashed at the riverbed." Há debate
+  interno dos personagens sobre sua origem: "there were two opinions about this. One
+  was that Falling Heavenly River itself was a form of calamity or tribulation, while
+  the second said that when Bo Qing had resisted his tribulation, his sword light was
+  so sharp that it instantly pierced through white heaven to black heaven" — ou seja,
+  é possivelmente uma cicatriz cósmica deixada por uma espada capaz de atravessar as
+  camadas do céu. É citado alhures (Vol. 4, linha 60323) como habitat, junto com Earth
+  Trench/Abyss, de "ten thousand li earthworms" (feras gigantes).
+
+**Lagos**: aparecem em grande quantidade como nomes descritivos genéricos (ice lake,
+jade lake, moon lake, crescent lake etc.), a maioria em contextos decorativos de
+jardins de Gu Immortals ou como cenário pontual, sem que a obra construa geografia
+fixa e recorrente ao redor deles como faz com o Earth Abyss ou o Falling Heavenly
+River. `(ded.)` Portanto trato lagos como elemento de cenário recorrente mas não
+como geografia fixa e nomeada de forma consistente — não há um "Lago X" citado em
+múltiplos capítulos separados como marco geográfico estável, ao contrário dos rios
+acima.
+
+**Cachoeiras (waterfall)**: usadas como elemento cênico recorrente (46-45 ocorrências
+espalhadas pelos volumes), a mais notável sendo a cachoeira colossal na nascente do
+Falling Heavenly River (citada acima). Não encontrei cachoeiras nomeadas
+individualmente como marco geográfico central de enredo além dessa.
+
+**Pântanos/brejos (swamp/marsh)**: a maior parte das ocorrências de "swamp" na obra se
+refere a "Swamp Gu" (um Gu de combate que transforma o chão em lama) e não a geografia
+de pântano — não encontrei descrição de uma região de pântano nomeada como bioma
+principal de nenhum arco. Termos testados: "swamp", "marsh", "bog", "wetland" — sem
+achado de um pântano geográfico nomeado e recorrente nos 6 volumes (a maioria dos
+acertos de "swamp" é o Gu de combate).
+
+**Travessia de rio / pontes / balsas / jangadas**:
+- **Jangada (raft)**: meio de transporte fluvial mortal mais detalhado da obra. No
+  Cap. 200 (Vol. 2), Fang Yuan e Bai Ning Bing fogem de Qing Mao Mountain construindo
+  uma jangada de bambu ("cut off some Qing Mao bamboos to make this raft") com mastro
+  improvisado e vela remendada ("a simple and crude mast in the middle with a shabby
+  white sail"), amarrada com cordas de cânhamo que se deterioram e precisam ser
+  reamarradas durante a viagem. A jangada é atacada por um cardume de "Shuttle
+  Swordfishes" (peixes-espada selvagens) que quase a destroem, forçando os
+  protagonistas a usar a vela para alcançar a margem antes que afunde — episódio
+  extenso de perigo fluvial mortal (Cap. 200-201).
+- Jangadas aparecem depois só em comparações metafóricas de escala ("like a small raft
+  in a stormy sea") para descrever até Gu Immortals de rank 7 sendo dominados por
+  marés/tempestades gigantescas — ver tópico 9.
+- **Pontes (bridge)**: a esmagadora maioria das ocorrências de "bridge" no texto é a
+  expressão "nose bridge" (ponte do nariz, descrição facial) ou pontes metafóricas
+  ("reputation is a bridge") e pontes mágicas/miríficas feitas por Gu Immortals (uma
+  "golden bridge" que se estende no ar para atravessar um abismo, Vol. 3 linha 17590;
+  uma "rainbow bridge" formada por escadaria mística, Vol. 3 linha 32711; uma "jade
+  bridge" que se projeta de um mini-sol, Vol. 4 linha 6963). Há uma única "stone
+  bridge" (Vol. 4, linha 35713) mas é decorativa, num jardim particular sobre um lago
+  artificial, não infraestrutura de travessia de rio para mortais.
+  - Termos testados sem achar pontes de infraestrutura mortal comum: "wooden bridge",
+    "stone bridge" (só a decorativa citada), "rope bridge", "river bridge" — nenhum
+    resultado de ponte cotidiana usada por população mortal comum para atravessar rios.
+- **Balsas/ferry**: termo testado ("ferry", "ferryman") sem NENHUM resultado nos 6
+  volumes — a obra não descreve travessia por balsa/barqueiro em nenhum momento.
+
+`(ded.)` Conclusão do tópico 8: a obra não constrói infraestrutura civil cotidiana de
+travessia fluvial (pontes de pedra/madeira para vilarejos, balsas de barqueiro) —
+quando river-crossing aparece, é sempre em contexto de fuga/perigo (jangada
+improvisada) ou como manifestação mágica de um Gu Immortal (pontes de luz/jade que
+aparecem e desaparecem). Isso é consistente com o foco da obra em Gu Masters e
+Immortals, que voam ou usam formações de transporte em vez de infraestrutura mortal
+comum — ver tópico 12 para a discussão completa de quem depende de barco/travessia.
+

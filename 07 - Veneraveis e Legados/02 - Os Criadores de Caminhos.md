@@ -53,7 +53,27 @@ E há um detalhe que torna essa invenção diferente de qualquer outra: quando o
 
 **3. Um significado verdadeiro impresso na geografia.** O ==significado verdadeiro== (*true meaning*) é a compreensão essencial de um caminho — o salto de attainment que **não se transmite por manual**, só se colhe direto da fonte. O dos caminhos da força e da transformação está **fisicamente impresso no local do feito final dele**, um campo de batalha de gelo absoluto. Não é um livro nem uma herança guardada: é um lugar do mapa onde a compreensão de um Venerável ficou gravada no terreno e ainda pode ser colhida por quem chegar lá e for capaz de suportá-la.
 
-**4. Um extermínio.** Junto com os outros dois Veneráveis Demônios de sua era, exterminou uma raça humana variante antropófaga. É o exemplo canônico de que Veneráveis não apenas criam: **removem populações inteiras do mundo de forma permanente**, e a demografia atual do cenário é o que sobrou dessas decisões.
+E a colheita tem regras precisas, que fazem dela a melhor "recompensa de lugar" do cenário:
+
+- **Só se colhe numa ocasião.** O significado verdadeiro se manifesta quando um cultivador de força ou de transformação passa ali pela [[11 - Ascensão Imortal|provação de ascensão imortal]] — o momento único em que se vira imortal. Nessa hora, a calamidade que desce **toma a forma** do significado verdadeiro; destruí-la é recebê-lo.
+- **Uma vez por pessoa, normalmente.** A obra afirma que cultivadores desses dois caminhos só recebem a infusão **uma vez**, durante a própria ascensão — e registra que existe método capaz de replicar artificialmente a ocasião, o que é tratado como descoberta extraordinária e cobiçada.
+- **Quanto pior a provação, maior a colheita.** A quantidade de significado verdadeiro cresce com a violência da provação — o que cria um incentivo perverso e delicioso: **piorar de propósito a própria ascensão**.
+- **É perigoso.** Significado verdadeiro em excesso **destrói a consciência** de quem o recebe. Absorver muito exige base de sabedoria e defesa preparada.
+- **É roubável.** E aqui está o achado sujo: um mestre pode **cultivar discípulos justamente para estar presente na ascensão deles** e absorver o significado verdadeiro que a provação deles atrai. Há mais de um caso registrado, e um deles é declarado em voz alta pelo próprio patrocinador.
+
+O efeito líquido, para uma mesa: um pedaço do mapa é ao mesmo tempo um professor póstumo, um atalho de progressão que valeria séculos de estudo, um risco de enlouquecer e uma armadilha social. E o terreno se **desgasta**: imortais comentam que provações demais ali consomem a energia de céu e terra do lugar e um dia as geleiras vão se partir.
+
+**4. Três cofres dentro da casa do inimigo.** `conhecimento: segredo` — este é o legado mais improvável dos dez, e é uma piada perfeita do cenário.
+
+Numa invasão histórica ao [[15 - Tribunal Celestial|Tribunal Celestial]], ele atravessou a sede da maior instituição do mundo de ponta a ponta e foi detido por uma torre de rank 8 — uma [[07 - Killer Moves|Casa de Gu Imortal]] muito mais fraca que ele — que disparou sete agulhas e o obrigou a **descartar três peles ensanguentadas** para escapar (o método de fuga do item 2). A torre nunca se recuperou do encontro.
+
+E as três peles **continuam lá**, costuradas no ar acima da torre, um milhão de anos depois. Elas não são um troféu: são **três heranças verdadeiras**, cada uma destrancada por uma chave própria — os Gu Imortais **Attitude**, **Mutation** e **Adaptation**. A instituição que o expulsou guarda, no próprio pátio, sem conseguir removê-lo, o presente que ele deixou para o herdeiro certo.
+
+Ele deixou também pelo menos uma Casa de Gu Imortal própria, que já salvou um herdeiro de uma provação de altíssimo nível.
+
+**5. A técnica que o resume.** Vale registrar como ele construiu o próprio corpo, porque é a receita do caminho da transformação: ele **comia feras desoladas imemoriais e formava totens dessas feras no próprio corpo**, acumulando marcas de dao de cada uma, até poder assumir qualquer forma à vontade. Transformação, nesta disciplina, não é ilusão nem magia de forma — é biblioteca acumulada.
+
+**6. Um extermínio.** Junto com os outros dois Veneráveis Demônios de sua era, exterminou uma raça humana variante antropófaga. É o exemplo canônico de que Veneráveis não apenas criam: **removem populações inteiras do mundo de forma permanente**, e a demografia atual do cenário é o que sobrou dessas decisões.
 
 > [!note] Para o design
 > Um significado verdadeiro impresso num lugar do mapa é um tesouro de campanha muito melhor do que um item mágico: não pode ser roubado, não pode ser vendido, não pode ser levado embora. Só pode ser **visitado e compreendido** — e quem chega precisa estar à altura. Isso converte progressão de personagem em geografia, e transforma uma jornada longa numa recompensa em si.

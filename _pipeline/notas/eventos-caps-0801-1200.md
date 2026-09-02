@@ -1321,6 +1321,49 @@ ambientação, mão de obra, tropa ou vítima.
 - **Lacunas:** a obra não diz se existem sítios equivalentes para outros paths, embora o padrão
   (dao marks de Venerável impregnando uma região) sugira que sim (ded.).
 
+### O espólio de um Gu Immortal morto: a corrida pelas blessed lands órfãs — caps. 812-815, 851-852, 897, 1184
+
+- **Tipo:** evento recorrente e previsível — sempre que um Gu Immortal morre, abre-se uma
+  corrida. É o "inventário" do mundo imortal, e um dos melhores geradores de aventura da obra.
+- **A mecânica (regra do mundo, cap. 897):** o cadáver de um Gu Immortal tem **dois usos**:
+  1. **Colocá-lo no chão**, e a abertura imortal dele **se desdobra num blessed land
+     independente** naquele lugar. Fazer isso perturba visivelmente o qi de céu e terra ao
+     redor — e **atrai desolate beasts** para o local.
+  2. **Guardá-lo dentro da própria abertura imortal**, para absorver os **dao marks** dele. (Um
+     imortal zumbi não pode fazer isso: sua abertura é terra morta, e o cadáver não daria dao
+     marks nenhum — apenas destruiria a terra e faria o corpo do zumbi explodir. Isso já foi
+     testado repetidamente, sem um único caso de sucesso.)
+- **O land spirit e a condição de posse (o coração do gancho):** a blessed land órfã tem um
+  **land spirit** formado a partir da **maior obsessão do morto**, e é ele que dita a
+  **condição de propriedade** — o preço para aceitar um novo dono. **Quem matou o dono não tem
+  nenhuma prioridade**: a condição não tem relação com o assassino, e sim com o desejo do
+  falecido. Exemplos registrados:
+  - Um imortal de wood path obcecado por riqueza deixou um land spirit em forma de **árvore
+    plantada no centro, sem capacidade de se mover**, que exigiu **cem mil pedras de essência
+    imortal**, grandes quantidades de materiais imortais de rank 7 e 8, **e sangue fresco de um
+    Venerável rank 9 de wood path** — condição avaliada como "mais difícil que ascender ao céu",
+    exigindo duzentos ou trezentos anos de sorte, no mínimo.
+  - Outra blessed land teve condição tão acessível que trocou de dono por simples negociação
+    (caps. 851-852).
+  - Um imortal morto numa área feroz deixou o land spirit **condicionado a aceitar apenas dois
+    nomes específicos** — os dois amigos com quem ele cultivou a vida inteira (cap. 1184).
+  - Uma blessed land recusada pelo land spirit pode ser **tomada à força**, destruindo o
+    espírito — opção sempre disponível, sempre destrutiva.
+- **A corrida em torno do corpo:** matar um imortal é só o começo. O texto mostra facções
+  inteiras convergindo sobre a região onde um ou dois imortais acabaram de morrer, com
+  **emboscadas montadas sobre emboscadas** — um grupo escondido esperando outro grupo que veio
+  saquear, e ambos sem saber do terceiro. Detalhe organizacional útil: em algumas super forças,
+  as posições internas (os "picos" de uma montanha, por exemplo) são **numeradas e disputáveis**
+  — as três primeiras são inamovíveis, mas da quarta para baixo os donos **competem entre si
+  por posição**, e por isso trabalham juntos conspirando uns contra os outros ao mesmo tempo.
+- **Papel possível de um grupo pequeno:** um grupo fraco não mata um imortal — mas pode chegar
+  primeiro no cadáver, pode ser contratado para carregá-lo, pode negociar com um land spirit
+  órfão, ou pode passar uma campanha inteira **juntando os itens de uma condição de posse
+  absurda** deixada por um morto ganancioso. É um "gancho de tesouro" com prazo indeterminado e
+  concorrência garantida.
+- **Lacunas:** a obra não explica o que acontece com uma abertura imortal cujo dono morre sem
+  que ninguém recolha o corpo.
+
 ## Eventos históricos citados
 
 > Eventos aqui não acontecem na faixa: são **citados de segunda mão** (memória, registro

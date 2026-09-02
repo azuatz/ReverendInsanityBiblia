@@ -77,6 +77,7 @@ E elas **não deveriam existir**: a lei do equilíbrio nunca as produziria espon
 |---|---|
 | **Via** | correta (Immortal Venerable) — a **única mulher** entre os dez |
 | **Era** | Antiguidade Remota, há cerca de **3 milhões de anos** |
+| **Relação com o anterior** | foi **discípula de Primordial Origin**, e recebeu dele, no leito de morte, a tarefa que definiria sua vida |
 | **Expectativa de vida** | 19.000 anos, a **segunda maior dos dez** |
 | **Caminho principal** | **[[12 - Wisdom Path\|wisdom path]]** (caminho da sabedoria) — ela o criou |
 | **Especialidade** | dedução de altíssimo alcance temporal |
@@ -96,9 +97,13 @@ O caminho da sabedoria não é onisciência: é **dedução precisa a partir de 
 
 **4. O credo do Tribunal.** Formulou a doutrina oficial da maior instituição do mundo — *seguir a vontade do céu e defender a justiça em nome do céu* — e o critério de valores que ainda filtra quem entra, três milhões de anos depois.
 
-**5. A trava no céu.** `conhecimento: segredo` — este é o legado mais consequente de qualquer um dos dez, e reorganiza toda a cosmologia do cenário.
+**5. A torre que foi um dote.** É a peça que amarra os dois primeiros Veneráveis um ao outro, e vale pelo que revela do mundo. Segundo os costumes daquela era, o mestre preparava o dote da discípula quando ela ia se casar — e o que Primordial Origin preparou para ela foi uma **torre bordada**, na origem um objeto mortal, de valor sobretudo simbólico. Depois de se tornar Venerável, ela a converteu numa [[07 - Killer Moves|Casa de Gu Imortal]] de rank 8 de poderes extraordinários, cujo golpe de assinatura são sete agulhas de bordado.
 
-Ao fim da própria vida, ela **assimilou-se ao Dao**: sacrificou-se de modo que a própria vontade individual passasse a participar das operações da lei do céu, influenciando-a de dentro. Três consequências permanentes:
+Essa torre é a razão pela qual **Reckless Savage** teve de descartar três peles para atravessar o Tribunal Celestial, e ficou danificada além de reparo naquele encontro. Ela segue de pé na sede da instituição, inútil como arma, com as três peles do invasor costuradas no ar acima dela — ver [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]]. **Um presente de casamento virou a defesa da capital do mundo, e depois virou o cofre de um inimigo.**
+
+**6. A trava no céu.** `conhecimento: segredo` — este é o legado mais consequente de qualquer um dos dez, e reorganiza toda a cosmologia do cenário.
+
+E ele começa como uma **herança de tarefa**: o problema que ela resolveu assim não era dela. Foi Primordial Origin quem identificou a ameaça, não conseguiu resolvê-la em vida e, no leito de morte, **entregou a responsabilidade à discípula**. Ela levou a própria existência inteira pensando nisso e só encontrou a saída quando a própria expectativa de vida estava no fim. Ao fim da própria vida, ela **assimilou-se ao Dao**: sacrificou-se de modo que a própria vontade individual passasse a participar das operações da lei do céu, influenciando-a de dentro. Três consequências permanentes:
 
 - **A Vontade do Céu tem forma e viés humanos** porque uma pessoa se fundiu voluntariamente a ela. O que parecia um antagonista cósmico impessoal tem, literalmente, uma opinião dentro.
 - **A hierarquia presumida se inverte.** O Tribunal Celestial não comanda o céu; é **subordinado** a ele. A influência que a instituição exerce existe apenas porque uma de suas fundadoras se dissolveu dentro do mecanismo.
@@ -106,11 +111,11 @@ Ao fim da própria vida, ela **assimilou-se ao Dao**: sacrificou-se de modo que 
 
 E a trava é **frágil**: sua capacidade de suprimir a lei pura depende de reforços vivos. Quando muitos membros da instituição morrem, ela enfraquece e a lei original volta a se fazer sentir. Ver [[11 - Vontade dos Céus#A ponte entre lei e vontade]].
 
-**6. A produção da moeda, continuada.** Depois da morte da prisioneira que produzia as pedras de essência imortal, foi ela — já assimilada à lei — quem alterou a Vontade do Céu diretamente e a fundiu ao núcleo do Tribunal, mantendo a produção. Só consegue sustentar a denominação mais baixa: é o limite do controle dela sobre o céu. **A moeda do mundo é produzida por uma vontade morta enxertada na lei da natureza.**
+**7. A produção da moeda, continuada.** Depois da morte da prisioneira que produzia as pedras de essência imortal, foi ela — já assimilada à lei — quem alterou a Vontade do Céu diretamente e a fundiu ao núcleo do Tribunal, mantendo a produção. Só consegue sustentar a denominação mais baixa: é o limite do controle dela sobre o céu. **A moeda do mundo é produzida por uma vontade morta enxertada na lei da natureza.**
 
-**7. A partida de xadrez.** `conhecimento: segredo` — há um milhão de anos, ameaçada de destruição por **Limitless**, o Venerável Demônio que criou o caminho da regra, ela o forçou a aceitar **uma partida de xadrez** no lugar do ataque. O tabuleiro está secretamente ligado ao lugar mais importante do mundo — a caverna de nove camadas que o próprio Limitless escavou —, e os pensamentos colidindo durante o jogo **geram marcas de dao do [[17 - Heaven Path|caminho do céu]]**. A guerra entre os dois maiores intelectos da história é, ela própria, um motor cosmológico em funcionamento. Ver [[02 - Os Criadores de Caminhos|a ficha de Limitless]] e [[13 - Cosmologia#A fronteira do mundo]].
+**8. A partida de xadrez.** `conhecimento: segredo` — há um milhão de anos, ameaçada de destruição por **Limitless**, o Venerável Demônio que criou o caminho da regra, ela o forçou a aceitar **uma partida de xadrez** no lugar do ataque. O tabuleiro está secretamente ligado ao lugar mais importante do mundo — a caverna de nove camadas que o próprio Limitless escavou —, e os pensamentos colidindo durante o jogo **geram marcas de dao do [[17 - Heaven Path|caminho do céu]]**. A guerra entre os dois maiores intelectos da história é, ela própria, um motor cosmológico em funcionamento. Ver [[02 - Os Criadores de Caminhos|a ficha de Limitless]] e [[13 - Cosmologia#A fronteira do mundo]].
 
-**8. Heranças que continuam ensinando.** Deixou um **reino de sonho** profético. Um ==reino de sonho== (*dream realm*) é um espaço onírico habitável que se atravessa para ganhar [[06 - Attainment|attainment]] — perigoso, de ganho potencialmente ilimitado, e uma das quatro rotas documentadas para subir o próprio nível de compreensão; ver [[19 - Dream Path|Dream Path]]. O dela é de uma categoria rara, que entrega **previsões verdadeiras**, e deixou também reinos de sonho que elevam violentamente o attainment de quem os atravessa.
+**9. Heranças que continuam ensinando.** Deixou um **reino de sonho** profético. Um ==reino de sonho== (*dream realm*) é um espaço onírico habitável que se atravessa para ganhar [[06 - Attainment|attainment]] — perigoso, de ganho potencialmente ilimitado, e uma das quatro rotas documentadas para subir o próprio nível de compreensão; ver [[19 - Dream Path|Dream Path]]. O dela é de uma categoria rara, que entrega **previsões verdadeiras**, e deixou também reinos de sonho que elevam violentamente o attainment de quem os atravessa.
 
 Deixou ainda um esquema arquitetado que **depende de um demônio de outro mundo futuro** — um ser cuja alma veio de fora deste mundo, a única categoria imune ao destino (ver [[12 - Fate Gu#Demônios de outro mundo]]) —, porque apenas um ser vindo de fora poderia destruir o destino por completo. Ela deduziu isso e planejou em torno disso, sabendo que não estaria viva para ver.
 

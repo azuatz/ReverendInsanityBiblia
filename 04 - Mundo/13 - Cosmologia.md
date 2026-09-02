@@ -14,7 +14,7 @@ aliases:
   - Earth Trench
   - Os Nove Céus
 status: consolidado
-fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1990", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
+fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1400", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2145", "cap. 2170", "cap. 2192"]
 conhecimento: segredo
 ---
 
@@ -34,7 +34,7 @@ conhecimento: segredo
 > |---|---|---|
 > | Os dois céus | `comum` na existência, `especializado` no conteúdo | **Sim.** Que existem dois céus que se alternam como dia e noite é folclore corrente. O detalhe do que há lá em cima é para cultivadores instruídos. |
 > | A muralha de vento celestial | `comum` | **Sim.** Todo mundo sabe que não se sobe ao céu a pé, e a exceção do Mar Oriental é conhecimento de mapa. |
-> | Marés de qi | `comum` no efeito, `especializado` na causa | **Sim, com corte.** O desastre periódico é público. Que ele é a parede regional descongelada, não. |
+> | Marés de qi | `comum` no efeito, `especializado` na causa | **Sim, com corte** — e só se a campanha for ambientada depois da Grande Era, porque antes dela o fenômeno não existe. O desastre é público; que ele é a parede regional descongelada, não. |
 > | As Earth Trenches | `especializado` | **Sim, para personagens instruídos.** Corte o mecanismo do mundo privado (o parágrafo do milhão de marcas). |
 > | As veias do mundo | `especializado` | **Talvez.** É a explicação técnica por trás de várias coisas que o jogador observa; libere como recompensa de estudo. |
 > | Os nove céus imemoriais | `segredo` | **Não**, exceto o folclore de que "houve mais céus antigamente". |
@@ -152,6 +152,37 @@ Esta é a regra unificadora mais bonita do domínio, e vale enunciá-la com clar
 
 Não são dois fenômenos. São o mesmo fenômeno — a diferença de energia ambiente entre regiões — em dois estados. Enquanto as veias de terra estavam separadas, a diferença era constante e formava uma barreira estável. Quando as veias se fundem, a diferença começa a se resolver, e o processo de resolução é violento: ondas do tipo tsunami que varrem o mundo inteiro, incluindo os dois céus, matando o que estiver no caminho e sacudindo mundos privados.
 
+> [!warning] Antes da Grande Era não existe maré de qi nenhuma
+> Este é o ponto que decide onde a sua campanha pode ser ambientada, e é fácil errar. A maré de
+> qi **não é um desastre cíclico ancestral**: ela nasce no exato momento em que as cinco regiões
+> se fundem e as cinco paredes desaparecem — a primeira maré acontece logo depois disso. Num
+> cenário ambientado **antes** da Grande Era, o fenômeno simplesmente não existe, e ninguém
+> jamais ouviu falar dele.
+>
+> E, depois que começa, **ninguém consegue prever nada sobre ele**. A obra é explícita: é
+> impossível calcular quanto tempo o fenômeno vai durar, se vai ficar mais forte ou mais fraco —
+> "não conseguimos nem prever uma tendência". As marés "surgem de vez em quando" e continuam
+> irrompendo por muito tempo sem estabilizar. Trate-as como **imprevisíveis por regra**, não
+> como um calendário.
+
+**O que a maré faz com quem cultiva.** Aqui está o detalhe mecânico mais útil, e ele é
+assimétrico de um jeito que rende conflito sozinho:
+
+- Onde a maré passa, **a vida morre**.
+- Criaturas de alma que sobrevivem ficam com o núcleo danificado mesmo assim.
+- Todo Gu Imortal **das cinco regiões** sente a própria dimensão interna tremer quando os dois qi
+  colidem, e é **forçado a parar e se recuperar**. E a penalidade é invertida: **quanto mais forte
+  a fundação da dimensão, mais tempo de recuperação ele precisa.**
+- Quem **não** é das cinco regiões — os que vivem nos dois céus, e a instituição suserana — não
+  sofre esse efeito.
+
+> [!note] Para o design
+> Essa assimetria é um presente de estrutura: uma maré de qi **desarma temporariamente todos os
+> imortais poderosos do mundo de baixo, e justamente os mais poderosos por mais tempo**, sem tocar
+> em quem vem de cima. É uma janela em que o forte fica parado e o de fora fica livre — a
+> definição de uma crise política. E note o que isso faz com um grupo de jogadores fracos: pela
+> primeira vez, ser pequeno é vantagem.
+
 > [!info] Este é o degrau mais alto de uma escada de três
 > A parede regional é explicada em três níveis de profundidade, e **cada nível pertence a uma
 > camada de conhecimento diferente**. A escada completa, com o que cada tipo de personagem
@@ -164,7 +195,7 @@ Não são dois fenômenos. São o mesmo fenômeno — a diferença de energia am
 Efeitos de superfície documentados: as marés **expõem simultaneamente heranças antigas em todas as regiões**, fazem recursos de cultivo brotarem por toda parte e rasgam o solo — uma fazenda de milhares de acres partida ao meio por uma trincheira que a dona não conseguiu reparar.
 
 > [!note] Para o design
-> A maré de qi é o melhor gerador de aventura do cenário inteiro, porque faz três coisas ao mesmo tempo: **mata** (é um desastre), **revela** (abre heranças antigas simultaneamente em todo o mundo) e **enriquece** (espalha recursos). Um único fenômeno que é ameaça, gancho e recompensa. E como é periódico, dá ritmo de campanha: o mundo inteiro sabe que a próxima maré vem, e todo mundo está se posicionando para o que ela vai desenterrar.
+> A maré de qi é o melhor gerador de aventura do cenário inteiro, porque faz três coisas ao mesmo tempo: **mata** (é um desastre), **revela** (abre heranças antigas simultaneamente em todo o mundo) e **enriquece** (espalha recursos). Um único fenômeno que é ameaça, gancho e recompensa. Mas use-o como **acaso**, não como calendário: como ninguém consegue prever quando a próxima vem, o mundo inteiro vive num estado de prontidão permanente e mal-humorada — expedições montadas e desmontadas, alianças que existem só para o caso de, e uma corrida que começa sem aviso. É um relógio quebrado, e é isso que o torna assustador.
 
 ## As Earth Trenches
 

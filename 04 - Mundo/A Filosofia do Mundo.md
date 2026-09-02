@@ -9,7 +9,7 @@ aliases:
   - Lei da selva
   - Ausência de karma
 status: consolidado
-fontes: ["cap. 2", "cap. 5", "cap. 33", "cap. 38", "cap. 68", "cap. 119", "cap. 126", "cap. 131", "cap. 143", "cap. 145", "cap. 158", "cap. 170", "cap. 208", "cap. 227", "cap. 234", "cap. 235", "cap. 236", "cap. 243", "cap. 289", "cap. 293", "cap. 315", "cap. 328", "cap. 375", "cap. 385", "cap. 389", "cap. 392", "cap. 436", "cap. 464", "cap. 475", "cap. 489", "cap. 495", "cap. 519", "cap. 539", "cap. 553", "cap. 579", "cap. 585", "cap. 599", "cap. 650", "cap. 762", "cap. 767", "cap. 824", "cap. 866", "cap. 867", "cap. 921", "cap. 945", "cap. 964", "cap. 1020", "cap. 1022", "cap. 1074", "cap. 1075", "cap. 1108", "cap. 1128", "cap. 1138", "cap. 1362", "cap. 1409", "cap. 1482", "cap. 1588", "cap. 1700", "cap. 1747", "cap. 1817", "cap. 1820", "cap. 1954", "cap. 1960", "cap. 2036", "cap. 2041", "cap. 2096"]
+fontes: ["cap. 2", "cap. 5", "cap. 33", "cap. 38", "cap. 68", "cap. 119", "cap. 126", "cap. 131", "cap. 143", "cap. 145", "cap. 158", "cap. 170", "cap. 208", "cap. 227", "cap. 234", "cap. 235", "cap. 236", "cap. 243", "cap. 289", "cap. 293", "cap. 315", "cap. 328", "cap. 375", "cap. 385", "cap. 389", "cap. 392", "cap. 436", "cap. 464", "cap. 475", "cap. 489", "cap. 495", "cap. 519", "cap. 539", "cap. 553", "cap. 579", "cap. 585", "cap. 599", "cap. 650", "cap. 762", "cap. 767", "cap. 824", "cap. 866", "cap. 867", "cap. 921", "cap. 945", "cap. 964", "cap. 1020", "cap. 1022", "cap. 1074", "cap. 1075", "cap. 1108", "cap. 1128", "cap. 1138", "cap. 1362", "cap. 1409", "cap. 1482", "cap. 1588", "cap. 1700", "cap. 1747", "cap. 1817", "cap. 1820", "cap. 1954", "cap. 1960", "cap. 2036", "cap. 2041", "cap. 2096", "cap. 8", "cap. 64", "cap. 78", "cap. 108", "cap. 1170", "cap. 2217"]
 conhecimento: comum
 ---
 
@@ -69,7 +69,56 @@ escolha pessoal daquela pessoa — nunca uma obrigação que o mundo imponha.
 > Feito o aviso, o cenário fica surpreendentemente **justo em termos de jogo** — porque
 > ninguém é punido por ser esperto, e nenhuma solução criativa é vetada por ser "desonrada".
 
-## 2. Não há justiça no céu e na terra — mas há justiça humana
+## 2. O motor de tudo: recurso escasso
+
+Se a seção anterior descreve **o que** o mundo é, esta descreve **por que** ele é assim. E a
+resposta não é a maldade das pessoas: é aritmética.
+
+A obra enuncia o silogismo numa frase só, logo nos primeiros capítulos, sobre um jovem
+qualquer de um clã qualquer: *ele precisa cultivar, portanto precisa de recursos; mas os
+recursos do clã são limitados, então, se quiser mais, terá de disputá-los.* É esse
+encadeamento — e não uma tese sobre a natureza humana — que produz toda a violência do
+cenário. Onde há benefício, há conflito, porque o espaço é finito e todo mundo quer viver
+melhor.
+
+**Cultivar consome, sempre.** Este é o ponto que separa Reverend Insanity de cenários de
+magia em que o poder, uma vez adquirido, é seu. Aqui não existe patamar estável: os Gu comem
+e morrem se não forem alimentados, o refino queima materiais e falha, avançar de estágio
+exige insumo, a terra abençoada precisa ser mantida, e as provações cobram periodicamente.
+A obra é seca a respeito — **um imortal não consegue cultivar sem recursos**, e sem eles
+**não se faz nada**. Um cultivador que para de gastar não fica parado: regride.
+
+**Não pertencer é ficar sem.** A consequência social vem em seguida, e explica a estrutura
+inteira do mundo: quem está fora do sistema não tem acesso aos recursos do clã, e sem
+recursos o cultivo simplesmente **para**. É por isso que a divisão do mundo em facções é, no
+fundo, uma divisão sobre **modos de obter recurso** — pertencer, tomar ou negociar — e não
+sobre bem e mal. Ver [[Caminho Correto e Caminho Demoníaco]].
+
+**A moeda é literalmente combustível.** Aqui está o detalhe que amarra economia e metafísica
+neste mundo, e que não tem equivalente na maioria dos cenários: a ==pedra primordial== é ao
+mesmo tempo a moeda que mede o valor de todas as mercadorias **e** matéria condensada da
+essência do mundo, que pode ser consumida pelo próprio cultivador para acelerar o cultivo.
+Dinheiro e poder não são coisas trocáveis uma pela outra — são **a mesma substância**. Gastar
+é literalmente queimar potencial de crescimento, e guardar é literalmente deixar de crescer.
+
+Some as quatro afirmações e o cenário se fecha sobre si mesmo: o poder exige consumo
+contínuo, o consumo exige recurso, o recurso é finito e o acesso a ele é mediado por
+instituições. **Ambição, neste mundo, não é vício de caráter — é a única forma de não
+regredir.** Ver [[Pedras Primordiais]], [[Economia Imortal]] e
+[[Como um Mestre Gu Ganha a Vida]].
+
+> [!note] Para o design
+> Esta é a razão pela qual o cenário funciona bem como RPG **sem precisar de vilões**. O
+> conflito não depende de alguém querer o mal: depende de duas partes precisarem do mesmo
+> ponto de recurso finito, e ambas terem razão em precisar dele.
+>
+> A mecânica que sai daí, e que vale como espinha dorsal do sistema: **manutenção contínua**.
+> Se o personagem paga um custo recorrente só para não regredir — alimentar os Gu, manter a
+> terra, repor o que a provação levou —, então a pergunta "por que meu personagem sairia de
+> casa?" se responde sozinha em toda sessão, e a ganância dos PNJs deixa de precisar de
+> justificativa psicológica.
+
+## 3. Não há justiça no céu e na terra — mas há justiça humana
 
 Este é o ponto onde quase toda leitura apressada da obra erra, e ele é o coração da nota.
 
@@ -111,7 +160,7 @@ deixar a armadura virar corrente.
 > **volta a conseguir usá-lo depois de ouvir o argumento**. Compreender que a justiça é
 > invenção humana o tornou mais capaz de sustentá-la, não menos.
 
-## 3. Karma existe — mas não é justiça
+## 4. Karma existe — mas não é justiça
 
 Um cuidado de vocabulário que evita erro de design.
 
@@ -126,7 +175,7 @@ formulações mais claras, o "mau karma" que se abate sobre alguém é descrito,
 como "a vontade unificada de todas as pessoas" — ou seja, uma coalizão. O castigo existe; ele
 só tem endereço humano.
 
-## 4. Quem diz "os céus são cegos" é sempre quem perdeu
+## 5. Quem diz "os céus são cegos" é sempre quem perdeu
 
 Vale notar um padrão narrativo, porque ele é uma ferramenta de mestre pronta.
 
@@ -140,7 +189,7 @@ Isso dá ao mestre um registro de voz muito específico para os PNJs comuns. Ele
 cínicos. Eles acreditam em justiça cósmica, e é justamente por isso que sofrem quando ela não
 aparece.
 
-## 5. A virtude não compra nem talento
+## 6. A virtude não compra nem talento
 
 O dado mais duro da obra sobre o assunto não é sobre punição, é sobre distribuição.
 
@@ -166,7 +215,7 @@ e previsibilidade é uma alavanca para quem quiser usá-la.
 > troca, **memória social**: gente que se lembra, que retribui por conta própria, que abre
 > uma porta anos depois. A recompensa vem de pessoas, nunca do mundo.
 
-## 6. A costura metafísica: o modo do céu contra o modo dos humanos
+## 7. A costura metafísica: o modo do céu contra o modo dos humanos
 
 `conhecimento: segredo`
 
@@ -189,7 +238,7 @@ forte o desastre que vem cobrar. O desejo humano não é um pecado moral neste m
 **força física em oposição a outra força física**. Ver [[Vontade dos Céus]] e
 [[Tribulações e Calamidades]].
 
-## 7. O que todo mundo quer
+## 8. O que todo mundo quer
 
 A obra raramente faz declarações do tipo "todo Mestre Gu deseja X". Ela mostra o desejo de dois
 jeitos indiretos, e os dois são mais úteis que uma declaração.
@@ -210,7 +259,7 @@ técnicas proibidas para ganhar força imediata. Quanto mais alto o rank, mais a
 e mais a pessoa passa a tesourar o próprio tempo, tentando de tudo para estendê-lo. O jovem
 vende barato o que o velho compra caro — e os dois são a mesma pessoa, décadas depois.
 
-## 8. A pergunta que a obra faz de si mesma
+## 9. A pergunta que a obra faz de si mesma
 
 Um personagem formula em voz alta a objeção que qualquer leitor faria, e a obra não a
 responde com desdém:
@@ -223,7 +272,7 @@ verdadeiro sentido da vida?*
 Deixar a pergunta em aberto, e em boa fé, é o que impede o cenário de ser plano. A busca por
 poder aqui não é ganância burra: é uma aposta consciente, feita por gente que conhece o preço.
 
-## 9. Vida eterna: o objetivo, e o sentido do título
+## 10. Vida eterna: o objetivo, e o sentido do título
 
 `conhecimento: comum` — que a vida eterna é o sonho supremo é sabido por todos; que ninguém
 jamais a alcançou, também.
@@ -287,7 +336,7 @@ ontológico como se fosse um dever moral.
 > que o universo vai cobrar proporcionalmente, e essa cobrança é o motor mecânico da
 > progressão. Tema e sistema apontam para o mesmo lugar, o que é raro.
 
-## 10. A natureza humana, segundo a mitologia do próprio mundo
+## 11. A natureza humana, segundo a mitologia do próprio mundo
 
 A antropologia deste mundo não é opinião de personagem: está no texto sagrado que todos
 conhecem. Vale isolar três teses dele, porque são a base de tudo o que veio acima. O ciclo
@@ -357,7 +406,7 @@ deste cenário.
 ## Relações
 
 - [[Visão Geral do Mundo]] — a estrutura física e cosmológica em que esta filosofia opera.
-- [[Vontade dos Céus]] — a lei de nivelamento, que é o lado mecânico da seção 6.
+- [[Vontade dos Céus]] — a lei de nivelamento, que é o lado mecânico da seção 7.
 - [[Lendas de Ren Zu]] — o texto sagrado de onde sai a antropologia do mundo.
 - [[Tribulações e Calamidades]] — como a cobrança do universo se manifesta em jogo.
 - [[Longevidade]] — o bem supremo, e a economia que gira em torno dele.

@@ -244,3 +244,17 @@ Registradas pelo orquestrador a partir dos relatórios dos sintetizadores de dom
   mortal ×2 por sub-realm / ×3 por rank (o ×3 não se sustentou: o texto dá ×10 entre
   ranks); a suposta regra inicial de avanço de rank por ecossistema de blessed land;
   e as quatro proposições sobre Heaven's Will da seção 4.1 daquela pesquisa.
+
+### Pendências abertas em 2026-09-01 (catálogo de golpes)
+
+Um passe de enriquecimento sinalizou três colunas de **caminho** possivelmente erradas no
+`Catálogo de Golpes - Imortais`. Fui ao texto conferir as três:
+
+- **Everlasting Sorrow** — confirmado: a obra diz que é golpe composto de **tempo e
+  sabedoria** e que só quem cultiva os dois consegue usá-lo. A coluna dizia "emoção".
+  **Corrigido.**
+- **Heartache Crying Blood** e **Thunder Note Stream** — **não verificáveis**. As passagens
+  localizadas apenas nomeiam os golpes, sem atribuir caminho. Não troquei um palpite por
+  outro: os valores atuais ("sangue + emoção" e "raio + som") ficam como estão, e a correção
+  proposta ("sangue + sabedoria" e "refino + raio + qi") fica registrada aqui como hipótese
+  a confirmar por quem encontrar a passagem certa.

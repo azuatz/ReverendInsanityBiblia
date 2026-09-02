@@ -133,7 +133,15 @@ def main():
         print(f"   ... mais {len(ren)-6}")
 
     mapa = {a: b for _, a, b in ren}
-    arquivos = sorted(glob.glob("0*/*.md") + glob.glob("*.md"))
+    # Reescreve links nas notas E nos bastidores: os modelos de `_pipeline/MODELOS/` e os
+    # relatórios de revisão também usam wikilinks, e ficariam quebrados dentro do Obsidian
+    # se só as pastas numeradas fossem tratadas.
+    arquivos = sorted(
+        glob.glob("0*/*.md")
+        + glob.glob("*.md")
+        + glob.glob("_pipeline/**/*.md", recursive=True)
+        + glob.glob("_entregas/**/*.md", recursive=True)
+    )
     n = reescrever_links(mapa, arquivos, dry)
     print(f"arquivos com wikilinks a reescrever: {n}")
 

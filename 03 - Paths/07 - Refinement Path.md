@@ -250,3 +250,6 @@ exércitos, e que o acesso a elas é moeda de negociação.
 - [[12 - Wisdom Path|Wisdom Path]] — o parceiro obrigatório para inovar.
 - [[18 - Luck Path|Luck Path]] — o parceiro que eleva a taxa de sucesso.
 - [[12 - Gu Imortais|Gu Imortais]] — a regra de unicidade, o gargalo final da profissão.
+- [[21 - Formation Path|Formation Path]] — o caminho que disputa parte do mesmo terreno, e cujas formações de refino são um subgênero inteiro.
+- [[26 - Phantom Path|Phantom Path]] — o melhor recipiente sem forma do mundo, monopólio técnico num estágio crítico do refino.
+- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o caminho do fogo, par estrutural deste: refinar exige fogo.

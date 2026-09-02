@@ -196,3 +196,4 @@ que ninguém esteja de guarda.
 - [[07 - Refinement Path|Refinement Path]] — a formação de refino da qual o veneno é componente.
 - [[03 - Blood Path|Blood Path]] — o vizinho no espectro do tabu.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o Gu que resolve uso e alimentação de uma vez.
+- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o caminho da luz, cuja especialidade declarada é a purificação e que produz a linhagem de golpes que subjuga todo tipo de veneno.

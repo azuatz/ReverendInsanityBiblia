@@ -192,3 +192,4 @@ verdadeiramente perigoso para um cenário:
 - [[10 - Soul Path|Soul Path]] — a outra metade do corpo humano como recurso.
 - [[07 - Refinement Path|Refinement Path]] — o estilo de refino pelo próprio sangue.
 - [[12 - Gu Imortais|Gu Imortais]] — os Gu de topo listados acima.
+- [[28 - Painting Path|Painting Path]] — comprender a essência da pintura permitiu a um praticante reescrever um golpe de sangue e torná-lo letal contra imortais de nível 8.

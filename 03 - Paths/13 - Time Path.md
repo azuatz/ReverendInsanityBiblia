@@ -206,3 +206,5 @@ seguir este caminho.
 - [[07 - Refinement Path|Refinement Path]] — a parceria estrutural.
 - [[18 - Luck Path|Luck Path]] — o caminho que compra probabilidade com tempo.
 - [[12 - Gu Imortais|Gu Imortais]] — a regra de unicidade e o re-refino de Gu destruídos.
+- [[25 - Sound Path|Sound Path]] — a incompatibilidade mais dura registrada: dentro do Rio do Tempo, golpes sonoros caem a menos de 10% do poder, e um praticante puro de som não consegue escapar de lá.
+- [[22 - Information Path|Information Path]] — os acordos com prazo, feitos com um Gu de ano deste caminho como núcleo.

@@ -201,3 +201,4 @@ exatamente o que permite converter território em autonomia.
 - [[06 - Enslavement Path|Enslavement Path]] — o caminho mais dependente de logística alimentar.
 - [[17 - Heaven Path|Heaven Path]] — a via de aquisição de marcas que passa pela comida.
 - [[07 - Killer Moves|Killer Moves]] — os golpes totêmicos, adquiridos por ingestão.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, proposto por um Venerável Demônio como o **superconjunto** deste ("comer é matar"), e que ele tentou fundar usando métodos do caminho da comida.

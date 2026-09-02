@@ -213,6 +213,44 @@ luta entre Mestres Gu comuns acontece num espaço do tamanho de um pátio, não 
 | Deslocamento dentro de uma arena | **mais de cem metros** em poucos segundos | com Gu de movimento de rank 3 |
 | Alcance de um golpe de campo de batalha imortal | **milhares de quilômetros** | outra categoria; ver [[08 - Formações de Gu|Formações de Gu]] |
 
+Vale acrescentar as réguas de percepção, porque elas definem quem vê primeiro: um Gu de visão
+comum enxerga **cinquenta passos** à frente — e menos de trinta na fumaça —, enquanto um Gu de
+audição implantado ouve a **duzentos ou trezentos passos**. Reconhecimento vence visão neste
+mundo, e é por isso que toda equipe leva um investigador.
+
+### A distância de batalha
+
+Esta é a mecânica de posicionamento mais explícita de toda a obra, e ela é curiosamente
+precisa. A arma ofensiva mais comum do rank 1 — a lâmina de luar — tem alcance de **dez
+metros**, e a obra a classifica formalmente como **média distância**, não longa. Daí nasce uma
+regra ensinada em sala de aula:
+
+> Numa disputa entre estudantes, os dois se posicionam a **dez metros**. Mais longe que isso e
+> a lâmina se dissipa antes de chegar. Mais perto, e **eles não conseguem reagir a tempo**.
+
+Ou seja: cada combatente tem uma **faixa ótima**, delimitada por cima pelo alcance da arma e
+por baixo pelo próprio tempo de reação. Um estudante excepcional encolhe a faixa dele para
+**seis metros**, o que significa que ele consegue desviar de uma lâmina disparada de mais perto
+que os colegas — e a jogada do adversário passa a ser chegar a **cinco**. A luta inteira vira
+uma disputa por quem impõe a própria faixa ao outro.
+
+**Cada golpe tem faixa própria**, e não só cada pessoa. Dois golpes do mesmo Gu podem ter
+alcances diferentes; os golpes combinados nascem especializados em perto ou em longe, e a obra
+descreve pares de adversários cujos golpes são "exatamente opostos" nesse eixo.
+
+**Quem não cobre as duas faixas perde.** Esta é a formulação mais direta que a obra oferece
+sobre o que decide um combate mortal: *perto e longe são o eixo da luta contra um lutador de
+força — na verdade, são o fator decisivo do combate*. O [[04 - Strength Path|caminho da força]] é o exemplo
+canônico do problema: ele quase não tem alcance, "uma fraqueza comum e facilmente explorada",
+e o antídoto descrito é manter distância e não deixá-lo fechar. E o antídoto do antídoto
+também está lá — um ataque de longe comum **não interrompe** um avanço corpo a corpo; só um
+golpe pesado interrompe.
+
+O plano de três fases que a obra registra contra um inimigo corpo a corpo superior é o resumo
+de tudo isto: **primeiro** desgastá-lo à distância; **segundo** mandar alguém descartável para
+prendê-lo em corpo a corpo; **terceiro** voltar à distância antes que ele recupere o fôlego.
+
+
 ### Corpo a corpo contra distância
 
 A obra trata isso como uma escolha de escola, não como uma preferência. Três regras:

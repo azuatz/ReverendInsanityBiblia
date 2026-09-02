@@ -197,3 +197,5 @@ territorial, escolta. E, no seu uso mais sombrio, controle de populações human
 - [[12 - Wisdom Path|Wisdom Path]] — a outra metade da origem.
 - [[04 - Strength Path|Strength Path]] — a fusão que gerou o golpe moderno mais forte.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — a economia de sustentar um arsenal vivo.
+- [[21 - Formation Path|Formation Path]] — o outro caminho "um contra muitos" do sistema; a obra os cita sempre juntos.
+- [[25 - Sound Path|Sound Path]] — a canção que converte feras inteiras para o lado do cantor é composta de som, escravização, sabedoria e alma.

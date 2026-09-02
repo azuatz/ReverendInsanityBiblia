@@ -194,3 +194,5 @@ mecânica de adaptação tática que poucos caminhos oferecem.
 - [[07 - Refinement Path|Refinement Path]] — a fronteira onde se refinam seres humanos.
 - [[15 - Food Path|Food Path]] — a via alternativa de adquirir marcas do Dao.
 - [[07 - Killer Moves|Killer Moves]] — a garantia estrutural de golpe deste caminho, e os totens.
+- [[20 - Qi Path|Qi Path]] — o par de alcance: transformação domina a curta e média distância, o qi domina a longa. O caso canônico de cultivo duplo une exatamente os dois.
+- [[21 - Formation Path|Formation Path]] — a essência da transformação (*projetar incontáveis caminhos*) é enunciada em contraste direto com a das formações (*conter incontáveis caminhos*).

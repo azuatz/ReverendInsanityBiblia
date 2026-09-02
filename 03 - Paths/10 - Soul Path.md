@@ -221,3 +221,5 @@ Três limites importantes o impedem de ser dominante:
 - [[12 - Wisdom Path|Wisdom Path]] — a origem compartilhada e a taxonomia da vida interior.
 - [[03 - Blood Path|Blood Path]] — a outra metade do corpo humano como recurso.
 - [[07 - Killer Moves|Killer Moves]] — o conflito de camada entre golpes de caminhos diferentes.
+- [[24 - Theft Path|Theft Path]] — o caminho que é ao mesmo tempo parceiro (num golpe composto) e inimigo (conflito de marcas no mesmo corpo).
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, que o fundador deste queria criar e não conseguiu; este caminho é o subproduto daquele fracasso.

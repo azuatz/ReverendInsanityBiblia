@@ -185,3 +185,4 @@ uma inversão elegante da curva usual, em que golpes de área são mais fracos p
 - [[07 - Refinement Path|Refinement Path]] — o principal consumidor de dedução.
 - [[11 - Space Path|Space Path]] — as âncoras de rastreamento como pré-requisito de captura.
 - [[07 - Killer Moves|Killer Moves]] — os golpes montados sobre pensamentos.
+- [[22 - Information Path|Information Path]] — o outro fornecedor de matéria-prima da dedução: um busca a informação, este produz o combustível para processá-la.

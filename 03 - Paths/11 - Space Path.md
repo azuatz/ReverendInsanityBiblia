@@ -198,3 +198,5 @@ alcança.
 - [[04 - Strength Path|Strength Path]] — o conflito de marcas mais documentado do sistema.
 - [[07 - Refinement Path|Refinement Path]] — o uso do espaço como material de refino de alto nível.
 - [[07 - Killer Moves|Killer Moves]] — os golpes de captura e as habilidades inatas por marcas de espaço.
+- [[24 - Theft Path|Theft Path]] — a defesa canônica contra o roubo é um golpe de domínio espacial; e o espaço era o caminho de especialidade do fundador do roubo.
+- [[26 - Phantom Path|Phantom Path]] — o parceiro em ocultação de formações e o terceiro melhor recipiente sem forma.

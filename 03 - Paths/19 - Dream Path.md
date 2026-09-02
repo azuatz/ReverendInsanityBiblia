@@ -226,3 +226,5 @@ mantém-se um véu permanente que destrói automaticamente novas invasões.
 - [[10 - Soul Path|Soul Path]] — o material sobre o qual os sonhos operam.
 - [[07 - Killer Moves|Killer Moves]] — os golpes de sonho e seus limites.
 - [[12 - Gu Imortais|Gu Imortais]] — por que casas de Gu não resistem a reinos de sonho.
+- [[26 - Phantom Path|Phantom Path]] — este é o **único caminho declaradamente capaz de ferir algo em forma fantasma**.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, o outro caminho que existe de fato e não de direito, mas cujo fundador **tentou e falhou**.

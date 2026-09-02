@@ -205,3 +205,5 @@ A defesa mais famosa do caminho é **informe e incapturável** até por uma casa
 - [[13 - Time Path|Time Path]] — a fonte de tempo de vida usada como moeda.
 - [[12 - Gu Imortais|Gu Imortais]] — a regra de unicidade, confirmada especificamente aqui.
 - [[17 - Heaven Path|Heaven Path]] — o caminho que trata de destino e calamidade em escala maior.
+- [[23 - Human Path|Human Path]] — a "criança da humanidade": a segunda fonte de sorte inata dos Veneráveis, que vem da adoração do caminho humano e não do favor do céu.
+- [[24 - Theft Path|Theft Path]] — a combinação que a obra chama de "muito poderosa quando unida", e o caminho ao qual este é superior no auxílio ao refino.

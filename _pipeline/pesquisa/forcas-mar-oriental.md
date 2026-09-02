@@ -3,7 +3,7 @@ tags:
   - pesquisa
   - organizacao/clã
   - regiao/mar-oriental
-status: em-andamento
+status: concluido
 ---
 
 # Pesquisa bruta — Forças e organizações do Mar Oriental (Eastern Sea)
@@ -183,7 +183,14 @@ nuvem, espaço, sabedoria).
 > "In Eastern Sea, there was the **highest number of lone immortals** who are **superior to
 > those of other regions**, because Eastern Sea was the most affluent in resources."
 
-**cap. 965** (V4): a região é a **mais receptiva a estrangeiros** das cinco.
+**cap. 965** (V4 l. 54894): "Right now, in the five regions, **Southern Border was the least
+welcoming to outsiders. Eastern Sea was the most open, followed by Central Continent.**"
+**Ressalva canônica — cap. 1017** (V4 l. 65038): "The **xenophobia** of the five regions' Gu
+Immortals was quite strong. **Even in the most open Eastern Sea, foreign Gu Immortals did not
+have an easy time, they were often ostracized and bullied** by Eastern Sea Gu Immortals."
+Como um forasteiro fura isso na prática (cap. 819, l. 27940): "Tai Bai Yun Sheng had a benign
+nature, and **also possessed two time path Immortal Gu**, thus he was **greatly welcomed** in
+Eastern Sea" — a porta de entrada é **oferecer uma capacidade que ninguém local tem**.
 **cap. 1047** (V5 l. 5013): num incidente típico, quem persegue um forasteiro é um bando de
 **imortais solitários** — não uma força organizada.
 
@@ -235,8 +242,27 @@ Song está entre as dez (cap. 893, l. 40778) e a **Corte Imperial dos Homens-Pei
   são produzidos no Leste e importados em massa pelo clã Yi da Fronteira Sul, que os revende
   com grande lucro — a relação estreita entre Yi e Leste é a base da relevância daquele clã
   (**cap. 1093**, V5 l. 13857).
-- **Água oleosa / óleo negro:** havia toda uma profissão de "oil collecting Gu Master" no
-  Leste, com método de coleta transmitido dentro de linhagem (**cap. 1653**, V5 l. 115519).
+- **Água oleosa (*oil water*)** — **cap. 797** (V4 l. 24150–24170), dossiê completo:
+  "a resource found in the **depths of deep seas**. It was a **Gu refinement material** and was
+  **extremely common in Eastern Sea**. In Northern Plains and Western Desert, however, it was
+  rather rare." Por que quase não chega ao mercado mundial: em pequena quantidade "the profits
+  were too low and the **fee of treasure yellow heaven was too high**, making the loss more than
+  the gains"; em grande quantidade a frequência é baixíssima "because the oil water Eastern Sea
+  produced was **basically used by their own cultivators**".
+  **A casta que a extrai:** "a small, **specially designated group of Gu Masters** who went to
+  the depths of seas to extract oil water. **Gu worm recipes that were handed down from
+  generation to generation** were arranged in a set to draw and extract this oil water. These
+  people made a living from this… **They did not have high battle strength, but their social
+  status were high and they were welcomed by all the forces of Eastern Sea.**" São **Mestres Gu
+  mortais**, não imortais.
+  **Renovável:** uma poça funda que se conecte ao subsolo e puxe qi da terra pode ser
+  regenerada indefinidamente — "Once in a while, they will put in **clear water** and with the
+  continuous mixing of earth qi and oil water, the oil water in the pool would gradually restore
+  to its original concentration."
+  **Gancho social canônico:** um velho extrator, com apenas uma neta, quis casá-la com um
+  forasteiro competente **com a condição de que ele adotasse o sobrenome da família**
+  (cap. 797, l. 24168; e cap. 1653, V5 l. 115519 — "In the five hundred years of his previous
+  life, Fang Yuan had once been an **oil collecting Gu Master** in Eastern Sea").
 
 ### 2.7 A maré terrestre (earth tide) — o relógio político da região
 

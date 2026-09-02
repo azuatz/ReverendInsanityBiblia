@@ -8,7 +8,7 @@ aliases:
   - Grau de aptidão
   - Graus de Aptidão
 status: consolidado
-fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 159", "cap. 198", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299"]
+fontes: ["cap. 4", "cap. 7-8", "cap. 10", "cap. 19", "cap. 26", "cap. 31", "cap. 40", "cap. 50", "cap. 55", "cap. 90-92", "cap. 105", "cap. 109", "cap. 111-112", "cap. 124", "cap. 144", "cap. 148", "cap. 151-153", "cap. 159", "cap. 198", "cap. 254", "cap. 263", "cap. 274", "cap. 301", "cap. 305", "cap. 326", "cap. 448", "cap. 468", "cap. 475", "cap. 589", "cap. 1155", "cap. 1160", "cap. 1258", "cap. 1491-1492", "cap. 1500", "cap. 1542", "cap. 1646", "cap. 1967-2007", "cap. 2131-2171", "cap. 2138-2139", "cap. 2252", "cap. 2295", "cap. 2298-2299", "cap. 180-181", "cap. 1491", "cap. 1976"]
 conhecimento: comum
 ---
 
@@ -18,7 +18,7 @@ conhecimento: comum
 
 ## Como funciona
 
-Na [[02 - Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. **O número de passos que ele consegue dar determina seu grau**, e o grau é imediatamente convertido numa **porcentagem de capacidade da abertura** — é a porcentagem que faz o trabalho mecânico.
+Na [[02 - Abertura|Cerimônia do Despertar]], o jovem atravessa um mar de flores caminhando contra uma pressão invisível. **O número de passos que ele consegue dar determina seu grau**, e o grau é imediatamente convertido numa **porcentagem de capacidade da abertura** — é a porcentagem que faz o trabalho mecânico. A cerimônia inteira, contada como cena — o que se vê, o que se sente e quanto tempo leva —, está mais abaixo, em [[03 - Aptidão#A cerimônia como cena|A cerimônia como cena]].
 
 Uma tabela só, com as duas medidas lado a lado:
 
@@ -139,6 +139,116 @@ resolva de novo, e com recursos maiores, o mesmo problema.
 
 Acima do grau A existe uma camada à parte, que armazena **100%** de essência contra os 99% do melhor grau A: as [[08 - As Dez Constituições Extremas|Dez Constituições Extremas]]. Não são um sexto grau da escala, e sim uma categoria com regras próprias de crescimento, de preço e de ascensão — inclusive a possibilidade de uma aptidão grau A de 99% **evoluir espontaneamente** para uma delas ao longo do cultivo. Tudo isso está na nota dedicada.
 
+## A cerimônia como cena
+
+Tudo o que está acima é a regra. Isto aqui é **a cena**, porque a designer vai precisar
+narrá-la: é o momento em que a ficha do personagem é rolada, e a obra o descreve com detalhe
+sensorial suficiente para ser encenado sem invenção nenhuma.
+
+### O lugar
+
+O clã reúne os jovens de quinze anos na praça do pavilhão do clã, ao amanhecer. Do pavilhão
+descem por uma escada de pedra até uma **caverna subterrânea**. É bonita: as estalactites
+cintilam com as cores do arco-íris e jogam luz de néon nos rostos. Caminha-se várias centenas
+de passos; a caverna vai escurecendo e começa a se ouvir água. Depois de uma curva, as cores
+somem por completo e aparece um **rio subterrâneo de uns nove metros de largura**, que na
+escuridão emite uma luz azul fraca — a obra o compara a um rio de estrelas.
+
+A água é cristalina: dá para ver os peixes, as plantas aquáticas e a areia do fundo. É rasa,
+dá pelos joelhos de um adolescente, e é **gelada** — os candidatos atravessam de meia e roupa,
+e o frio entra até o osso.
+
+Na outra margem começa o **mar de flores**: as orquídeas-lua do clã, de pétalas azuis e rosa
+em forma de lua crescente, hastes lisas como jade e miolo que brilha como pérola. No escuro, o
+canteiro parece um tapete verde-azulado salpicado de pérolas. Não é cenário: essas flores são
+a lavoura do clã, alimento de vários Gu.
+
+### O procedimento
+
+O ancião da academia chama os nomes um a um, de uma lista, e dá a instrução inteira numa
+frase: **atravesse o rio e caminhe o mais longe que conseguir**. Todo mundo já sabe, de casa,
+que quanto mais longe melhor.
+
+O candidato atravessa a água e pisa no mar de flores. **A partir do primeiro passo em terra,
+ele sente uma pressão** — uma parede invisível na frente do corpo, que não é mágica dirigida a
+ele: vem da nascente espiritual escondida no fundo do canteiro, que produz uma densidade de
+energia alta demais para um mortal.
+
+E então acontece o ciclo que se repete até o fim:
+
+1. Das flores sob os pés sobem **pontinhos de luz**. Envolvem o corpo inteiro e entram nele.
+2. São os ==Hope Gu (Gu da Esperança)==, criaturas de luz ligadas ao mito fundador do mundo.
+   Empurrados pela pressão externa, eles descem e **se juntam num só ponto do abdome — três
+   polegadas abaixo do umbigo, entre os dois rins** —, formando uma bola de luz.
+3. A pressão afrouxa. O jovem dá mais um passo.
+4. A parede endurece de novo, no ponto exato em que estava.
+
+Repete-se enquanto houver Hope Gu entrando. A bola de luz vai ficando mais brilhante a cada
+passo. Quando ela chega ao próprio limite, **estoura**.
+
+### O que a plateia vê — e o que ela não vê
+
+Vê o corpo do jovem **banhado na luz branca e pura dos Hope Gu**, que sobe e desce conforme
+ele avança. É essa luz que entrega o resultado antes do anúncio: veterano nenhum precisa
+esperar a contagem, porque uma luz fraca é lida na hora como "menos Hope Gu do que se
+esperava". Um grau A é um jovem literalmente envolto em brilho, caminhando, com a caverna
+inteira em silêncio.
+
+**Não vê o desfecho.** A explosão da bola de luz acontece só dentro do corpo, e a obra é
+explícita: pessoas de fora não a percebem. Do lado de cá, o que se vê é um adolescente que
+para de andar, fica parado um instante e volta.
+
+### O que a pessoa sente
+
+No estouro: um estalo que só ela ouve; os pelos do corpo se arrepiam; os poros se fecham; a
+mente estica até um limite tenso. Logo em seguida a mente apaga, o corpo amolece como se
+caísse dentro de uma nuvem, o coração relaxa, os pelos baixam, os poros reabrem — e ela está
+encharcada de suor. **Parece durar muito e dura pouquíssimo.** Ao voltar a si, ela vira a
+atenção para dentro e encontra a [[02 - Abertura|abertura]] formada do nada.
+
+Quem falha sente a mesma coisa até certo ponto e depois nada: a parede simplesmente para de
+amolecer. Três passos, quatro passos, e acabou. Não há dor, não há estouro, não há abertura.
+
+### Quanto tempo leva
+
+Pouquíssimo. Mais de cem jovens são medidos numa única manhã, e a obra registra que **metade
+deles já havia atravessado o canteiro depois de uma hora** — ou seja, cerca de um minuto por
+pessoa, contando a travessia do rio, a caminhada e o registro. Esse "cerca de um minuto" é
+conta nossa a partir dos números da obra, não um dado dela.
+
+### O registro, logo em seguida
+
+Aprovado o candidato, o ancião o chama de volta, **põe a mão no ombro dele, fecha os olhos e
+se concentra** por alguns segundos. Depois retira a mão e anota o resultado no papel: nome,
+grau e uma medida interna do Mar Primordial. É a mesma inspeção de abertura que, entre adultos,
+é o maior tabu social do mundo — com um menor de idade e diante do clã, é rotina de cartório.
+
+O selo definitivo vem **sete dias depois**: só quando o Mar Primordial "coagula" é que os
+jovens são formalmente Mestres Gu de rank 1. Antes disso têm abertura, mas não têm essência.
+
+### As proporções
+
+Numa população comum, **cerca de cinco em cada dez jovens têm algum talento**. Num clã cujo
+fundador foi um cultivador poderoso, o sangue puxa para cima e a taxa chega a seis em dez — o
+que faz da linhagem, literalmente, um ativo.
+
+### Como se frauda, fisicamente
+
+A fraude documentada não mexe no ritual: mexe no corpo do candidato. **Passa-se alguma coisa
+na pele do jovem para atrair mais Hope Gu.** Funciona, e os sinais são sutis o bastante para
+passar na penumbra da caverna: movimentos rígidos e uma cor de pele um pouco fora do normal.
+Um observador atento à luz fraca percebe; a plateia comemorando, não. A obra não nomeia a
+substância — se você precisar de uma na mesa, é campo livre.
+
+> [!note] Para o design
+> A cerimônia dá, de graça, uma rolagem de atributo com **três canais de informação
+> desencontrados**, e é disso que sai o drama: a *luz* (que todos veem, em tempo real, e que
+> vaza o resultado antes da conta), a *contagem de passos* (que só o ancião anuncia, e que ele
+> pode mentir) e a *inspeção por toque* (que só o ancião faz, e cujo número ele registra num
+> papel que ninguém mais lê). Três medidas do mesmo talento, com três donos diferentes. Uma
+> mesa que use isso literalmente já tem intriga de sessão zero sem escrever uma linha de
+> enredo: basta rolar em segredo e narrar a luz.
+
 ## A aptidão muda — em três direções
 
 O grau é apresentado ao jogador como fixo. Ele não é. E a forma como ele muda é um dos arcos mais interessantes do sistema inteiro.
@@ -158,7 +268,17 @@ O grau define quanto o clã investe num jovem, e vira heurística social imediat
 
 Força real, porém, não é só aptidão. Rankings informais de jovens promissores medem *desempenho*, e um grau C com recursos, experiência e bons Gu pode liderá-los. A aptidão é o teto; o que a pessoa faz com o espaço abaixo do teto é outra história — e no reino imortal a aptidão deixa de importar completamente, cedendo lugar a [[12 - Dao Marks|dao marks]] e [[06 - Attainment|attainment]].
 
-Duas notas de mundo tardio, úteis para ambientação: existe um Gu investigativo que torna a aptidão **visível** como um "qi de talento" pairando sobre a cabeça da pessoa — o número secreto vira algo que um observador treinado lê à distância. E existe um golpe que amplifica calamidades **priorizando os alvos de maior talento**, confirmado em combate mirando repetidamente os prodígios e ignorando os medianos ao lado. O ditado popular de que grande talento atrai grande desgraça é, mecanicamente, verdade.
+**Aptidão alta tem sinais visíveis fora da cerimônia?** Tem dois, e a obra trata os dois com
+cuidados diferentes. O primeiro é indireto e cotidiano: jovens de Mar Primordial de melhor
+qualidade **exibem características acima da média** — inteligência, percepção, memória, força,
+agilidade. A obra faz questão de acrescentar a ressalva, pela boca dos próprios anciãos: isso
+*não prova* talento alto, e o clã já se enganou apostando num prodígio aparente que saiu grau
+C. É correlação, não medida. O segundo é tardio e explícito: existe um Gu investigativo de rank
+5 que torna o talento **visível** como um "qi de talento" pairando sobre a cabeça das pessoas —
+quem o usa passa a enxergar colunas de qi de cores diferentes, umas mais altas que as outras,
+cada uma com um formato próprio, sobre a cabeça de cada pessoa da sala. Fora esses dois casos,
+**a obra não descreve nenhuma aura, marca ou traço físico que denuncie aptidão**: um grau A e um
+grau D andando na rua são indistinguíveis. E existe um golpe que amplifica calamidades **priorizando os alvos de maior talento**, confirmado em combate mirando repetidamente os prodígios e ignorando os medianos ao lado. O ditado popular de que grande talento atrai grande desgraça é, mecanicamente, verdade.
 
 > [!example] Caso mecânico
 > Preso dentro de um escudo de rank 5 durante o caos de um confronto, um Mestre Gu rank 3 de grau C usou um Gu demoníaco roubado para converter cada morte ao seu redor em aptidão permanente, saltando de 43% para mais de 90% em poucas horas. É a exceção que confirma a regra: a aptidão é alterável — pelos métodos mais caros e sombrios que o mundo possui.

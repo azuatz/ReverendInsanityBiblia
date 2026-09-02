@@ -53,7 +53,7 @@ história da obra.
 > | **Dao marks** | fragmentos de lei do universo gravados no corpo de um imortal; o atributo de progressão do reino imortal | [[12 - Dao Marks|Dao Marks]] |
 > | **Attainment** | o domínio *teórico* de um caminho — o quanto você entende, e não quanta energia você tem; eixo independente do rank | [[06 - Attainment|Attainment]] |
 >
-> Uma sexta, **fundação**, é definida em [[29 - Anexação de Aberturas|Anexação de Aberturas]], onde ela é decisiva.
+> Uma sexta, **fundação**, é definida em [[34 - Anexação de Aberturas|Anexação de Aberturas]], onde ela é decisiva.
 
 ## Regras do mundo
 
@@ -73,7 +73,7 @@ E duas regras de leitura que a pasta acrescenta:
 
 5. **Quase nada compra certeza.** Preparação, dinheiro e talento compram **probabilidade**.
    Os pouquíssimos itens do mundo que garantem um resultado são tratados como lendários, e
-   mesmo eles têm cláusulas — ver [[24 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]].
+   mesmo eles têm cláusulas — ver [[28 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]].
 6. **Todo atalho cobra numa estatística que não volta.** Aptidão, alma, teto de carreira,
    cronômetro de progressão. Quando um caso parece bom demais, a conta está na seção do preço.
 

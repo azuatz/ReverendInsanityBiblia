@@ -94,7 +94,7 @@ disfarce de rank existiu unicamente para produzir esse único golpe.
 
 ## Relações
 
-- [[09 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — a mesma mecânica na escala de rank baixo, onde ela é um único passo.
+- [[10 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — a mesma mecânica na escala de rank baixo, onde ela é um único passo.
 - [[12 - Gu Imortais|Gu Imortais]] — por que estes artefatos resistem a mudar de dono.
 - [[24 - Theft Path|Theft Path]] — o caminho de cultivo especializado em fazer exatamente isto.
-- [[29 - Anexação de Aberturas|Anexação de Aberturas]] — o procedimento completo de espólio de um imortal, do qual o roubo é o primeiro passo.
+- [[34 - Anexação de Aberturas|Anexação de Aberturas]] — o procedimento completo de espólio de um imortal, do qual o roubo é o primeiro passo.

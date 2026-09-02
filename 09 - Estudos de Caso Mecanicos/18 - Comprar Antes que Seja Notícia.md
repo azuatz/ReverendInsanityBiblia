@@ -94,5 +94,5 @@ dois compradores compararem notas.
 
 - [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a informação circula, e quem a vende.
 - [[07 - Heranças e Provações|Heranças e Provações]] — por que uma abertura de herança é um evento econômico e não só uma aventura.
-- [[14 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma vantagem informacional aplicada dentro do pregão.
-- [[20 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — quando a informação vale mais como ameaça do que como mercadoria.
+- [[16 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma vantagem informacional aplicada dentro do pregão.
+- [[23 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — quando a informação vale mais como ameaça do que como mercadoria.

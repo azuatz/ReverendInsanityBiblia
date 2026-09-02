@@ -95,6 +95,6 @@ operacional.
 ## Relações
 
 - [[10 - Soul Path|Soul Path]] — o caminho de cultivo que fornece as duas metades deste par.
-- [[33 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]] — o principal consumidor da fundação de alma que este ciclo produz.
+- [[39 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]] — o principal consumidor da fundação de alma que este ciclo produz.
 - [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — o que se faz com o que sai de um interrogatório.
-- [[25 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a outra fábrica do vault, e o mesmo gargalo de mão de obra.
+- [[29 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a outra fábrica do vault, e o mesmo gargalo de mão de obra.

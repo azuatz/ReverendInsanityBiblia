@@ -94,6 +94,6 @@ em quase-certeza. Nada aqui exigiu poder — exigiu perguntar.
 ## Relações
 
 - [[07 - Heranças e Provações|Heranças e Provações]] — como funcionam as heranças do mundo, e quem as guarda.
-- [[27 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — o que acontece quando se tenta conseguir o mesmo à força.
+- [[32 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — o que acontece quando se tenta conseguir o mesmo à força.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é o território que o espírito administra.
-- [[28 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] — o que uma única chance bem gasta pode virar nas mãos certas.
+- [[33 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] — o que uma única chance bem gasta pode virar nas mãos certas.

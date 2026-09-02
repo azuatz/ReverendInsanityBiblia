@@ -92,5 +92,5 @@ atravessaria aquela defesa". A regra, portanto, não é "força bruta vence defe
 
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — por que uma defesa ligada drena essência continuamente.
 - [[06 - Fusão de Gu|Fusão de Gu]] — como a versão superior desta defesa foi obtida, e a que preço.
-- [[04 - O Catalisador Fora da Receita|O Catalisador Fora da Receita]] — a fusão que dobrou a capacidade citada aqui.
+- [[05 - O Catalisador Fora da Receita|O Catalisador Fora da Receita]] — a fusão que dobrou a capacidade citada aqui.
 - [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o corpo de um Mestre Gu tem que o de um mortal não tem.

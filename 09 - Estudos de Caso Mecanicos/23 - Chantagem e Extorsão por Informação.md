@@ -96,6 +96,6 @@ matá-lo?", é "o que acontece conosco se ele estiver dizendo a verdade?".
 ## Relações
 
 - [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como segredos circulam, e quanto valem.
-- [[16 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] — a mesma informação vendida em vez de usada como ameaça.
-- [[18 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] — o juramento que garantiu o pagamento, e por que ele não é à prova de nada.
+- [[18 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] — a mesma informação vendida em vez de usada como ameaça.
+- [[21 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] — o juramento que garantiu o pagamento, e por que ele não é à prova de nada.
 - [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a ausência de instituição que torna tudo isso viável.

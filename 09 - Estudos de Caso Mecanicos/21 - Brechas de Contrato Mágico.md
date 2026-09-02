@@ -114,4 +114,4 @@ nada — ele confere.
 - [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — como se sela um juramento, quanto custa e quem oferece o serviço.
 - [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — os contratos que sustentam a economia, e como são garantidos.
 - [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — por que não existe tribunal para interpretar um contrato.
-- [[10 - A Barreira Que Deixa Sair e Não Deixa Entrar|A Barreira Que Deixa Sair e Não Deixa Entrar]] — o mesmo legalismo, aplicado a um efeito físico em vez de a palavras.
+- [[11 - A Barreira Que Deixa Sair e Não Deixa Entrar|A Barreira Que Deixa Sair e Não Deixa Entrar]] — o mesmo legalismo, aplicado a um efeito físico em vez de a palavras.

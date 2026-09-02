@@ -95,4 +95,4 @@ escoa.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a moeda e a nascente que a produz.
 - [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — de onde vêm os insumos raros do mundo.
 - [[02 - Clãs|Clãs]] — por que a nascente é a fundação política de um assentamento, e não só a econômica.
-- [[25 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a alternativa industrial: em vez de colher rápido, produzir sempre.
+- [[29 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a alternativa industrial: em vez de colher rápido, produzir sempre.

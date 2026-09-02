@@ -105,5 +105,5 @@ seguinte. E quem tenta, paga com uma estatística permanente.
 
 - [[07 - Killer Moves|Killer Moves]] — o que é um golpe, como se monta e o que custa mantê-lo.
 - [[08 - Formações de Gu|Formações de Gu]] — o degrau seguinte: converter um golpe caro em estrutura barata e compartilhável.
-- [[24 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — o outro lugar do sistema onde nenhum preparo compra certeza.
+- [[28 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — o outro lugar do sistema onde nenhum preparo compra certeza.
 - [[06 - Attainment|Attainment]] — o eixo que reduz o tempo de desenvolvimento de anos para dias.

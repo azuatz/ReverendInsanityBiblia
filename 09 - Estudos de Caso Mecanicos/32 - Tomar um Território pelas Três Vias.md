@@ -104,6 +104,6 @@ Três motivos que se somam:
 ## Relações
 
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é um território de cultivo e por que ele vale tanto.
-- [[26 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]] — o que se ganha quando o reconhecimento é obtido de forma legítima.
-- [[21 - Infiltrar-se numa Organização|Infiltrar-se numa Organização]] — a mesma técnica de disfarce, usada contra pessoas em vez de contra um guardião.
-- [[29 - Anexação de Aberturas|Anexação de Aberturas]] — o que se faz com o território depois de tomá-lo.
+- [[31 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]] — o que se ganha quando o reconhecimento é obtido de forma legítima.
+- [[24 - Infiltrar-se numa Organização|Infiltrar-se numa Organização]] — a mesma técnica de disfarce, usada contra pessoas em vez de contra um guardião.
+- [[34 - Anexação de Aberturas|Anexação de Aberturas]] — o que se faz com o território depois de tomá-lo.

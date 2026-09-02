@@ -104,4 +104,4 @@ categoria do adversário.
 - [[07 - Killer Moves|Killer Moves]] — o degrau 1, em detalhe.
 - [[08 - Formações de Gu|Formações de Gu]] — o degrau 3, em detalhe.
 - [[21 - Formation Path|Formation Path]] — o caminho de cultivo que fornece as ferramentas de conversão.
-- [[23 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o que custa construir um golpe antes de poder promovê-lo.
+- [[26 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o que custa construir um golpe antes de poder promovê-lo.

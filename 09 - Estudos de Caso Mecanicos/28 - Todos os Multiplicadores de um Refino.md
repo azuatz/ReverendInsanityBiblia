@@ -107,5 +107,5 @@ processo que não pode ser interrompido, num lugar que talvez não seja seguro.
 
 - [[05 - Refino de Gu|Refino de Gu]] — a mecânica geral, e como ela muda na escala imortal.
 - [[12 - Gu Imortais|Gu Imortais]] — o que torna estes vermes diferentes de todos os outros.
-- [[22 - Uma Receita Lendária Cumprida com Substitutos|Uma Receita Lendária Cumprida com Substitutos]] — o outro item da obra que compra certeza, e por que ele é diferente desta marca.
+- [[25 - Uma Receita Lendária Cumprida com Substitutos|Uma Receita Lendária Cumprida com Substitutos]] — o outro item da obra que compra certeza, e por que ele é diferente desta marca.
 - [[11 - Economia Imortal|Economia Imortal]] — a ordem de grandeza dos recursos que um refino desses consome.

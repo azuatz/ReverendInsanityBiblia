@@ -103,4 +103,4 @@ que veio te matar até que ela possa ser processada.
 - [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o que são as calamidades e por que elas vêm.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o território que serve de campo, de cofre e de armadilha.
 - [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — por que o corpo de uma besta desolada vale tanto.
-- [[32 - Fazenda de Tribulações|Fazenda de Tribulações]] — a versão industrial de lucrar com desastres alheios.
+- [[38 - Fazenda de Tribulações|Fazenda de Tribulações]] — a versão industrial de lucrar com desastres alheios.

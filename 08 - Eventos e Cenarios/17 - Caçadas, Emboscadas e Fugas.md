@@ -323,9 +323,9 @@ todos ocupados olhando para outro lugar.
 - [[12 - Wisdom Path|Wisdom Path]] — a dedução, que é a arma decisiva dos dois lados.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o que acontece com o território que o
   caçado deixou para trás.
-- [[08 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — um estudo de caso mecânico do problema
+- [[09 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — um estudo de caso mecânico do problema
   de localizar um alvo.
-- [[11 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — a emboscada vista pelo
+- [[13 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — a emboscada vista pelo
   lado de dentro, com números.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

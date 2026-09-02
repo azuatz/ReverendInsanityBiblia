@@ -85,4 +85,4 @@ espaço de manobra dos aliados.
 
 - [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como se consegue o insumo que este caso gasta.
 - [[14 - Guerra Organizada|Guerra Organizada]] — a mesma lógica na escala de exércitos.
-- [[12 - Guerra de Custos|Guerra de Custos]] — a outra forma de vencer sem ser mais forte: comparar orçamentos em vez de dano.
+- [[14 - Guerra de Custos|Guerra de Custos]] — a outra forma de vencer sem ser mais forte: comparar orçamentos em vez de dano.

@@ -116,4 +116,4 @@ sonho desses, em período de exploração intensa, de "cemitério de cultivadore
 - [[19 - Dream Path|Dream Path]] — o caminho de cultivo que produz e explora esses lugares.
 - [[10 - Soul Path|Soul Path]] — de onde vem a fundação de alma que serve de munição aqui.
 - [[06 - Attainment|Attainment]] — a recompensa que esses lugares pagam.
-- [[23 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o outro caso da pasta em que iterar barato é a diferença entre progredir e se machucar.
+- [[26 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] — o outro caso da pasta em que iterar barato é a diferença entre progredir e se machucar.

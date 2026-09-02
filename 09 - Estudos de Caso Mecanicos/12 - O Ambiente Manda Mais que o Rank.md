@@ -99,4 +99,4 @@ redistribuição favorece quem sabia disso antes de entrar.
 - [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os territórios que impõem regras próprias, e quem os administra.
 - [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — o que são as muralhas entre regiões e por que atravessá-las é difícil.
 - [[10 - Espólio de Gu|Espólio de Gu]] — a regra normal de autodestruição que este ambiente suspende.
-- [[12 - Guerra de Custos|Guerra de Custos]] — a outra forma de vencer alterando a métrica em vez do dano.
+- [[14 - Guerra de Custos|Guerra de Custos]] — a outra forma de vencer alterando a métrica em vez do dano.

@@ -102,4 +102,4 @@ roteiro.
 - [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o que são as provas, quando chegam e o que acontece se falharem.
 - [[11 - Ascensão Imortal|Ascensão Imortal]] — o processo do qual a prova faz parte.
 - [[06 - Attainment|Attainment]] — o atributo que este caso permite comprar de atalho.
-- [[32 - Fazenda de Tribulações|Fazenda de Tribulações]] — o que acontece quando alguém decide colher a prova **dos outros**.
+- [[38 - Fazenda de Tribulações|Fazenda de Tribulações]] — o que acontece quando alguém decide colher a prova **dos outros**.

@@ -108,5 +108,5 @@ troca, pelo vendedor. Descobrir quem é essa pessoa e o que ela quer é a jogada
 
 - [[05 - Mercados e Leilões|Mercados e Leilões]] — os formatos, as casas e a etiqueta do mundo.
 - [[11 - Economia Imortal|Economia Imortal]] — por que na escala imortal o dinheiro deixa de bastar.
-- [[16 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] — o outro jeito de ganhar dinheiro com informação.
-- [[19 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] — o que se faz com a reputação que uma vitória pública cria.
+- [[18 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] — o outro jeito de ganhar dinheiro com informação.
+- [[22 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] — o que se faz com a reputação que uma vitória pública cria.

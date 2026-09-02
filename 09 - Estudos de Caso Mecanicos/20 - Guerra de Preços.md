@@ -84,5 +84,5 @@ que quase ninguém no mundo possui.
 
 - [[11 - Economia Imortal|Economia Imortal]] — como funciona o dinheiro na escala em que este caso acontece.
 - [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — as faixas de preço que tornam esses números compreensíveis.
-- [[12 - Guerra de Custos|Guerra de Custos]] — o mesmo raciocínio aplicado a um campo de batalha.
-- [[25 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a outra forma de baixar custo: dividir o processo em etapas.
+- [[14 - Guerra de Custos|Guerra de Custos]] — o mesmo raciocínio aplicado a um campo de batalha.
+- [[29 - A Linha de Produção de Gu|A Linha de Produção de Gu]] — a outra forma de baixar custo: dividir o processo em etapas.

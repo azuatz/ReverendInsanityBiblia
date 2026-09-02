@@ -94,4 +94,4 @@ levar o objeto e não pode levar o estado.
 - [[05 - Refino de Gu|Refino de Gu]] — a operação normal, e por que estes casos são a exceção mais elegante dela.
 - [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — as outras condições que decidem se um Gu aceita você.
 - [[18 - Luck Path|Luck Path]] — o caminho a que pertence o Gu do caso A.
-- [[05 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — o outro caso em que o rótulo do Gu não decide nada.
+- [[06 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — o outro caso em que o rótulo do Gu não decide nada.

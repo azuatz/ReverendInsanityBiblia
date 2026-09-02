@@ -86,5 +86,5 @@ operação cair**.
 ## Relações
 
 - [[10 - Espólio de Gu|Espólio de Gu]] — o que acontece com os Gu de um Mestre Gu morto, e por que muitos se autodestroem.
-- [[30 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a mesma mecânica na escala imortal, onde ela vira uma operação de quatro etapas.
+- [[35 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a mesma mecânica na escala imortal, onde ela vira uma operação de quatro etapas.
 - [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o que se faz com um Gu roubado depois.

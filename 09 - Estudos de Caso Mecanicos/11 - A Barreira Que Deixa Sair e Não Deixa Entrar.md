@@ -100,4 +100,4 @@ fisicamente** entre os dois — foi a barreira acima que a cortou.
 
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — a regra geral de que um efeito acionado tem enunciado próprio.
 - [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — por que uma abertura de zumbi não regenera, e o que mais isso implica.
-- [[18 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] — o mesmo princípio aplicado a palavras em vez de paredes.
+- [[21 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] — o mesmo princípio aplicado a palavras em vez de paredes.

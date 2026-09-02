@@ -373,7 +373,7 @@ por um morto ganancioso. É um gancho de tesouro com prazo indeterminado e conco
   ciclo que produz forças mortas em série, a cada dez anos.
 - [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] — o que
   acontece **antes** desta nota, quando a força ainda está se defendendo.
-- [[09 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — o estudo de caso mecânico
+- [[10 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — o estudo de caso mecânico
   do espólio, com números.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

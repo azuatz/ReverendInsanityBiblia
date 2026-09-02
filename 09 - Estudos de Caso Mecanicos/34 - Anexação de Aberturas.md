@@ -122,5 +122,5 @@ saqueado, para não atrasar o próprio avanço de rank.
 
 - [[06 - Attainment|Attainment]] — o eixo que decide o que se pode anexar, e como se sobe nele.
 - [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — o que é, na prática, o território que se anexa.
-- [[27 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — como se chega à posse do território antes de anexá-lo.
-- [[31 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] — o outro orçamento que compete com este.
+- [[32 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — como se chega à posse do território antes de anexá-lo.
+- [[37 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] — o outro orçamento que compete com este.

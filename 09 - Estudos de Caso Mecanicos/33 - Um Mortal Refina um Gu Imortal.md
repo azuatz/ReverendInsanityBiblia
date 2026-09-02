@@ -81,6 +81,6 @@ universo — e como toda verificação, tem um momento em que o resultado muda.
 ## Relações
 
 - [[12 - Gu Imortais|Gu Imortais]] — o que são, quantos existem e por que a unicidade importa tanto.
-- [[26 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]] — o outro lado do mesmo contrato com um guardião.
-- [[24 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — o que um refino imortal normalmente custa e exige.
-- [[30 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a outra forma de conseguir um deles sem poder para tanto.
+- [[31 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]] — o outro lado do mesmo contrato com um guardião.
+- [[28 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — o que um refino imortal normalmente custa e exige.
+- [[35 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a outra forma de conseguir um deles sem poder para tanto.

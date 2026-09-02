@@ -96,6 +96,6 @@ assistência em provação, e mais dependência. **A fazenda é replantável.**
 ## Relações
 
 - [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o que é uma provação e por que ela existe.
-- [[31 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] — o mesmo mecanismo, explorado pelo próprio provado.
+- [[37 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] — o mesmo mecanismo, explorado pelo próprio provado.
 - [[24 - Theft Path|Theft Path]] — o caminho que fornece o golpe de roubo usado no passo 3.
 - [[12 - Dao Marks|Dao Marks]] — o que exatamente está sendo colhido.

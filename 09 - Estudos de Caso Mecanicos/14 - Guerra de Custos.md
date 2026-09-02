@@ -102,4 +102,4 @@ comida, Gu e avanço de rank.
 - [[04 - Essência Primordial|Essência Primordial]] — o recurso que este caso queima, e por que ele é também dinheiro.
 - [[06 - Enslavement Path|Enslavement Path]] — o caminho cuja vantagem inteira é esta assimetria.
 - [[14 - Guerra Organizada|Guerra Organizada]] — como exércitos deste mundo são montados e sustentados.
-- [[17 - Guerra de Preços|Guerra de Preços]] — o mesmo raciocínio de custo marginal, aplicado a um mercado em vez de a uma batalha.
+- [[20 - Guerra de Preços|Guerra de Preços]] — o mesmo raciocínio de custo marginal, aplicado a um mercado em vez de a uma batalha.

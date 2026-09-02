@@ -58,7 +58,7 @@ furtivos** com o Gu de defesa. Não para os dois.
 
 **O espólio:** o Gu de furtividade do rei morto, refinado ali mesmo em segundos sob a aura
 de um Gu de rank muito superior (a técnica descrita em
-[[05 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]]).
+[[06 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]]).
 
 ## Por que funcionou
 
@@ -100,6 +100,6 @@ Quatro regras do mundo se encaixaram, e nenhuma delas é um poder:
 ## Relações
 
 - [[04 - Gu Vital|Gu Vital]] — por que ele avisa do perigo, e o que mais ele faz.
-- [[05 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — a técnica que permitiu refinar o espólio na hora.
+- [[06 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — a técnica que permitiu refinar o espólio na hora.
 - [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que é um rei-fera e como as matilhas se organizam.
 - [[10 - Espólio de Gu|Espólio de Gu]] — as regras gerais de quem fica com o quê depois de uma morte.

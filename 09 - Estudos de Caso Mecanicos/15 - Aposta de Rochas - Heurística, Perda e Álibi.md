@@ -92,4 +92,4 @@ plausível; (3) os registros de lance e de compra são confidenciais por políti
 - [[09 - Aposta de Rochas|Aposta de Rochas]] — a instituição em detalhe, com preços e etiqueta.
 - [[05 - Mercados e Leilões|Mercados e Leilões]] — os outros lugares onde um Gu troca de mãos.
 - [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — por que uma origem limpa vale tanto quanto o item.
-- [[14 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — o mercado vizinho, jogado com informação em vez de sorte.
+- [[16 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — o mercado vizinho, jogado com informação em vez de sorte.

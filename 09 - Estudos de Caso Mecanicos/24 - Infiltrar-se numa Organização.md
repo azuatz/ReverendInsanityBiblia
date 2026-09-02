@@ -105,4 +105,4 @@ que se espera — um estranho hostil —, não contra um aliado útil que chegou
 - [[14 - Qualidade e Fraude|Qualidade e Fraude]] — o lado comercial da mesma corrida entre falsificar e conferir.
 - [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como se colhem os hábitos que o disfarce não cobre.
 - [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem são as organizações que valem a pena infiltrar, e o que elas guardam.
-- [[27 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — a mesma técnica de disfarce usada contra um guardião em vez de contra pessoas.
+- [[32 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] — a mesma técnica de disfarce usada contra um guardião em vez de contra pessoas.

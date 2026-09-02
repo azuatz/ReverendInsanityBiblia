@@ -108,5 +108,5 @@ consequências, e todo mundo consegue calcular isso de antemão.
 
 - [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o sistema social completo de que este caso é um exemplo.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — por que não há instituição que substitua a reputação.
-- [[14 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma praça pública, usada para outro fim.
-- [[20 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — o lado sujo do mesmo mercado de percepções.
+- [[16 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma praça pública, usada para outro fim.
+- [[23 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — o lado sujo do mesmo mercado de percepções.

@@ -11,7 +11,7 @@ aliases:
   - Battle strength
   - Força de combate
 status: consolidado
-fontes: []
+fontes: ["cap. 24", "cap. 30", "cap. 34", "cap. 63", "cap. 75", "cap. 76", "cap. 82", "cap. 83", "cap. 84", "cap. 93", "cap. 100", "cap. 107", "cap. 114", "cap. 116", "cap. 126", "cap. 130", "cap. 136", "cap. 150", "cap. 164", "cap. 168", "cap. 169", "cap. 204", "cap. 207", "cap. 209", "cap. 250", "cap. 266", "cap. 278", "cap. 280", "cap. 281", "cap. 288", "cap. 290", "cap. 291", "cap. 292", "cap. 298", "cap. 299", "cap. 300", "cap. 307", "cap. 313", "cap. 315", "cap. 316", "cap. 318", "cap. 319", "cap. 320", "cap. 341", "cap. 345", "cap. 346", "cap. 348", "cap. 349", "cap. 352", "cap. 359", "cap. 360", "cap. 361", "cap. 364", "cap. 379", "cap. 392", "cap. 395", "cap. 407", "cap. 427", "cap. 428", "cap. 431", "cap. 452", "cap. 455", "cap. 460", "cap. 471", "cap. 479", "cap. 480", "cap. 483", "cap. 513", "cap. 515", "cap. 525", "cap. 527", "cap. 531", "cap. 537", "cap. 542", "cap. 583", "cap. 585", "cap. 608", "cap. 611", "cap. 622", "cap. 623", "cap. 634", "cap. 640", "cap. 642", "cap. 648", "cap. 668", "cap. 669", "cap. 671", "cap. 680", "cap. 694", "cap. 702", "cap. 703", "cap. 717", "cap. 726", "cap. 753", "cap. 801", "cap. 854", "cap. 856", "cap. 864", "cap. 873", "cap. 883", "cap. 885", "cap. 898", "cap. 905", "cap. 923", "cap. 943", "cap. 967", "cap. 971", "cap. 984", "cap. 1013", "cap. 1016", "cap. 1018", "cap. 1042", "cap. 1046", "cap. 1054", "cap. 1055", "cap. 1083", "cap. 1089", "cap. 1127", "cap. 1141", "cap. 1184", "cap. 1209", "cap. 1216", "cap. 1231", "cap. 1234", "cap. 1235", "cap. 1250", "cap. 1253", "cap. 1257", "cap. 1260", "cap. 1274", "cap. 1309", "cap. 1311", "cap. 1329", "cap. 1331", "cap. 1346", "cap. 1347", "cap. 1350", "cap. 1353", "cap. 1364", "cap. 1368", "cap. 1400", "cap. 1402", "cap. 1408", "cap. 1482", "cap. 1500", "cap. 1541", "cap. 1545", "cap. 1557", "cap. 1561", "cap. 1570", "cap. 1573", "cap. 1578", "cap. 1582", "cap. 1596", "cap. 1622", "cap. 1700", "cap. 1709", "cap. 1722", "cap. 1758", "cap. 1774", "cap. 1800", "cap. 1802", "cap. 1807", "cap. 1874", "cap. 1907", "cap. 1922", "cap. 1925", "cap. 1933", "cap. 1942", "cap. 1944", "cap. 1950", "cap. 1975", "cap. 1988", "cap. 2012", "cap. 2016", "cap. 2018", "cap. 2050", "cap. 2052", "cap. 2061", "cap. 2081", "cap. 2129", "cap. 2145", "cap. 2164", "cap. 2172", "cap. 2181", "cap. 2186", "cap. 2187", "cap. 2204", "cap. 2208", "cap. 2284", "cap. 2305", "cap. 2321", "cap. 2329"]
 conhecimento: comum
 ---
 
@@ -37,7 +37,7 @@ menos por ação e ainda tinha reserva quando o adversário secou.
 > energia numa tabela — e nenhuma que montasse a cena. O mapa, em ordem:
 >
 > 1. **As três premissas** que tornam este combate diferente de qualquer outro.
-> 2. **O relógio** — quanto dura uma luta, das três respirações aos nove dias.
+> 2. **O relógio** — quanto dura uma luta, de meia respiração a nove dias.
 > 3. **O turno** — o que uma pessoa consegue fazer de cada vez, e quem age primeiro.
 > 4. **Alcance, posição e terreno.**
 > 5. **Defesa**, que aqui se conta em camadas e não em pontos.
@@ -728,6 +728,15 @@ explícita:
 | Um rank 8 | **vários** rank 8 coordenados — e a obra diz que provavelmente venceriam |
 | Uma criatura poderosa, com ilusões descartáveis | cerca de **dez para um**, com baixas |
 
+E a obra dá a escada mais precisa de todas, com o mérito explicitamente creditado à
+**coordenação**, não ao número: contra um imortal, **um** adversário é irrelevante, **três**
+resistem um pouco, **seis** conseguem segurá-lo, e **nove** o pressionam de verdade.
+
+> [!warning] Número não substitui qualidade
+> A obra fecha essa porta com uma frase quase grosseira, dita a respeito de erudição: *muitos
+> mestres do refino somariam um grão-mestre? Besteira!* Quantidade compra tempo e gasta a
+> reserva alheia; ela **não** produz uma capacidade que ninguém no grupo possui.
+
 **Quando o número não vence** — que é o caso mais comum — a formulação é seca: *a diferença de
 força de combate era grande demais, e eles não podiam reivindicar a vitória apenas com
 vantagem numérica*. Há registro de tropas de elite de rank 2 lideradas por rank 3 que "jamais
@@ -741,6 +750,11 @@ irrelevância. A regra prática que sai daí:
 > **Número decide dentro do mesmo patamar. Contra um patamar acima, número é combustível —
 > pessoas convertidas em gasto de essência alheia.**
 
+Para calibrar o que "um patamar acima" significa, a obra oferece uma única medida numérica de
+distância entre patamares humanos: uma diferença de cerca de um rank e meio é descrita como
+**mais de cem vezes mais forte**. Fora disso, ela **não publica nenhuma tabela do tipo "um rank
+5 vale N rank 4"** para humanos — a régua numérica existe só para feras e construções. `—`
+
 Três detalhes que temperam isso:
 
 - **Cerco tem número mínimo.** A obra registra quatro pessoas que "mal davam para formar um
@@ -751,6 +765,27 @@ Três detalhes que temperam isso:
   inimigo *matável*, e não apenas derrotável.
 - **Duelos sequenciais são um presente ao veterano.** A obra o diz com todas as letras: se
   viessem todos juntos, dariam trabalho; vindo um a um, foi mais tranquilo que da primeira vez.
+
+### O degrau imortal
+
+A passagem do mundo mortal para o imortal não é mais um degrau na mesma escada: é a **remoção
+do recurso limitante**. A obra diz isso com todas as letras, e é a frase mais importante desta
+seção:
+
+> Uma única conta de essência imortal equivale a uma quantidade **quase ilimitada** de essência
+> primordial. Ele não precisava mais se preocupar com o gasto de energia — **esta era a maior
+> diferença entre mortal e imortal.**
+
+Releia a seção "O custo" desta nota com isso em mente: **tudo o que decide um combate mortal é
+o orçamento**, e o imortal simplesmente sai do orçamento. Por isso a fronteira é qualitativa e
+não quantitativa, e por isso a obra afirma que **por mais Gu mortais que alguém tenha, eles não
+igualam um único Gu Imortal**.
+
+Duas consequências práticas para uma mesa. Primeira: um encontro entre mortais e um imortal não
+é um combate difícil, é um **problema de outro tipo** — resolve-se com terreno, informação,
+fuga ou política, nunca com dano. Segunda: no patamar imortal o atrito volta, só que medido em
+outra moeda e em outra escala de tempo, e é por isso que as batalhas de imortais duram dias em
+vez de minutos.
 
 ## Lutar em grupo
 
@@ -784,6 +819,25 @@ preparo e a interrupção os anula, **o grupo é o que compra a janela**.
 **Disparar golpes que exigem várias pessoas.** Há golpes que simplesmente não ativam com menos
 de três usuários, e golpes cooperativos em que dezenas de anciãos disparam juntos. As
 categorias estão em [[07 - Killer Moves|Killer Moves]].
+
+### Duas maneiras de somar imortais
+
+`conhecimento: especializado`
+
+No topo, "lutar em grupo" se bifurca em duas tecnologias com filosofias opostas, e o contraste
+é o quadro mais útil do domínio:
+
+| | Formação de batalha ancestral | Casa de Gu Imortal |
+|---|---|---|
+| O que os membros são | **atores** — cada um continua disparando os próprios golpes | **combustível** — a estrutura integra o poder do grupo em um só efeito |
+| Talento individual | soma e é **amplificado** | fica **desligado** |
+| Capacidades | as do grupo, variadas | **fixas**, as da estrutura |
+| Membro fraco | **subtrai** do conjunto | apenas contribui menos energia |
+
+Uma formação ancestral de quatro cultivadores de rank 7 é descrita enfrentando um rank 8. E a
+condição para que imortais consigam lutar em time é exigente: **mesmo caminho, marcas do Dao
+que não conflitem, e convivência prévia**. Times imortais não se improvisam — as duas primeiras
+condições são de anos, e a terceira é de décadas. As estruturas estão em [[08 - Formações de Gu|Formações de Gu]].
 
 > [!warning] Cooperação não é automática
 > Duas ressalvas que a obra faz questão de registrar. Primeira: certos caminhos **se atrapalham

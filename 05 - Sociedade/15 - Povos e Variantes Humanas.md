@@ -149,9 +149,9 @@ A sucessão do trono é por **torneio de arena**: quando o rei morre, os candida
 
 ### Minimen (*minimen*)
 
-Povo minúsculo, que voa e trabalha em enxame como abelhas. Nascem com **marcas do Dao do caminho da madeira**: onde eles moram, a vegetação cresce depressa e as flores abrem o ano inteiro. Guardam heranças agrícolas passadas por muitas gerações e são **a melhor raça do mundo em cultivo de plantas** — uma imortal do caminho da madeira relata que um campo de erva imortal de nível 7 que definhava havia anos voltou a viver e se expandiu em seis meses depois que os minimen se mudaram para lá.
+Povo minúsculo — **do tamanho de um dedo**, com asas finas e transparentes nas costas —, que voa e trabalha em enxame como abelhas e se alimenta de néctar de flores e seiva de plantas. Nascem com **marcas do Dao do caminho da madeira**: onde eles moram, a vegetação cresce depressa e as flores abrem o ano inteiro. Guardam heranças agrícolas passadas por muitas gerações e são **a melhor raça do mundo em cultivo de plantas** — uma imortal do caminho da madeira relata que um campo de erva imortal de nível 7 que definhava havia anos voltou a viver e se expandiu em seis meses depois que os minimen se mudaram para lá.
 
-Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imortais próprios, inclusive um do raríssimo caminho da regra. Não são teimosos como os homens-pena — desconfiam de um dono novo, negociam e acabam cooperando —, mas também têm entre eles quem morra por lealdade.
+Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imortais próprios, inclusive um do raríssimo caminho da regra. A conquista deles é o episódio mais frio do capítulo: eles se recusaram a cooperar com a nova dona, desconfiaram, resistiram — e ela **matou quarenta por cento da população** antes que a tribo se submetesse. Depois disso, houve quem cooperasse e houve quem continuasse leal ao que restava. É o retrato exato de como um povo variante troca de mãos.
 
 ### Homens-peixe (*mermen*)
 
@@ -186,7 +186,7 @@ Vale ainda o dado de escala: quando a raça estava no auge, materiais imortais q
 
 O único povo desta lista que **não nasceu: foi fabricado**.
 
-Um imortal do Tribunal Celestial criou o método que converte um ser humano em homem-dragão, fundindo os caminhos do refino e da transformação. Os homens-dragão da primeira geração eram todos humanos convertidos. O procedimento, o custo e a taxa de fracasso estão em [[18 - Modificar o Próprio Corpo#Trocar de espécie: refinar a si mesmo como material|Modificar o Próprio Corpo]]; o que interessa aqui é o que a raça significa socialmente.
+**Duke Long**, o líder do [[15 - Tribunal Celestial|Tribunal Celestial]] no presente do cenário, criou o método que converte um ser humano em homem-dragão, fundindo os caminhos do refino e da transformação. Os homens-dragão da primeira geração eram todos humanos convertidos. Ver [[03 - Continente Central|Continente Central]]. O procedimento, o custo e a taxa de fracasso estão em [[18 - Modificar o Próprio Corpo#Trocar de espécie: refinar a si mesmo como material|Modificar o Próprio Corpo]]; o que interessa aqui é o que a raça significa socialmente.
 
 - Nascem com **marcas do Dao do caminho da escravização**.
 - O método é, ao mesmo tempo, **o segundo melhor jeito de estender a vida que existe** no mundo. E aí está o problema: itens de longevidade são raríssimos, e o desejo de viver é de todos. O próprio criador formulou o risco com clareza brutal — a raça, sendo feita de humanos convertidos, é *"uma sanguessuga presa à humanidade, que se fortalece sugando o sangue dos humanos"*; a população dela só cresceria, e a humana só encolheria.
@@ -230,7 +230,7 @@ Um povo variante neste mundo ocupa uma de quatro posições, e conhecê-las é o
 
 1. **Mercadoria.** A posição padrão. Comprados e vendidos em lote, com cotação por espécie e por qualidade de criação, e usados como infraestrutura dentro dos domínios pessoais de imortais.
 2. **Súdito protegido.** Uma população que tem um Gu Imortal próprio ou o patrocínio de um humano poderoso, e sobrevive pagando tributo, escondendo a própria força e engolindo humilhação. É a posição da cidade dos homens-de-tinta.
-3. **Aliado.** Relação de posse trocada por acordo. A obra registra pelo menos um povo que estabeleceu com humanos uma aliança em vez de servidão, e casamentos interétnicos como instrumento diplomático real.
+3. **Aliado.** Relação de posse trocada por acordo entre pares. A obra registra mercados em que humanos e homens-peixe convivem **com status igual**, e um **noivado** entre um cultivador humano e uma mulher homem-de-neve negociado com meses de sondagem mútua, com a tribo dela passando a apoiá-lo publicamente. Casamento interétnico é instrumento diplomático real — exceto onde a biologia o impede: homens-de-pedra, sendo só machos, não podem ter filhos com nenhuma outra raça.
 4. **Potência.** Raro, mas existe: superforça reconhecida, com religião, corte e política externa próprias — ou uma aliança de várias raças com força suficiente para o Tribunal Celestial precisar mobilizar-se contra ela.
 
 E há um quinto estado que atravessa os outros quatro: **a aliança entre raças variantes**. Nas Planícies do Norte, quatro povos — homens-peludos, homens-de-neve, homens-de-pedra e homens-de-tinta — formaram em segredo uma aliança de defesa mútua, apoiada em uma fera de nível 8. A lógica que a sustenta é enunciada em voz alta: *"somos todos variantes; num mundo em que os humanos dominam, variantes são amigos, não inimigos"*. Numa era tardia, essa lógica se expande para uma aliança de escala mundial liderada por um homem-dragão — que os adversários humanos acusam, com razão, de proteger variantes sacrificando humanos.
@@ -240,7 +240,7 @@ E há um quinto estado que atravessa os outros quatro: **a aliança entre raças
 
 ## O padrinho
 
-Vale isolar um fato porque ele é raro e ótimo para uma mesa: **um dos dez Veneráveis foi, deliberadamente, o protetor dos povos variantes**. Ele ajudou a corte dos homens-peixe porque não queria vê-los oprimidos; criou o paraíso dos homens-cogumelo porque não queria vê-los massacrados; e deixou heranças verdadeiras espalhadas nesses lugares, o que hoje lhes garante legitimidade e aliados. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]].
+Vale isolar um fato porque ele é raro e ótimo para uma mesa: **um dos dez Veneráveis foi, deliberadamente, o protetor dos povos variantes**. Foi **Paradise Earth Immortal Venerable**. Ele ajudou a corte dos homens-peixe porque não queria vê-los oprimidos; criou o paraíso dos homens-cogumelo porque não queria vê-los massacrados; e deixou heranças verdadeiras espalhadas nesses lugares, o que hoje lhes garante legitimidade e aliados — o líder da força que administra o paraíso dos homens-cogumelo é reconhecido no mundo inteiro como herdeiro dele, e ninguém contesta. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]].
 
 Isso significa que a proteção de variantes tem, no cenário, **uma linhagem legítima e prestigiosa** — não é apenas boa vontade individual. Um personagem que a defenda está do lado de uma tradição, não contra o mundo inteiro.
 

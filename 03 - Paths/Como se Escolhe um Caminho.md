@@ -271,6 +271,253 @@ transfere as dao marks daquele caminho para o corpo físico**, que passa a ser e
 material imortal daquele caminho. É segredo de alto nível e não é uma opção de carreira
 comum, mas registra que a arquitetura tem juntas móveis para quem tem poder de sobra.
 
-<!-- SECOES: de onde vem as marcas / dirigir aquisicao / para o design / relacoes -->
+## De onde vêm as marcas de cada caminho
+
+Esta é a seção central da nota, e é a que o resto do material não responde bem. [[Dao Marks]]
+explica **o que as marcas fazem** — amplificam permanentemente tudo o que a pessoa faz naquela
+linha, sem aumentar o custo de energia. O que falta explicar é **de onde vêm as de cada
+caminho**, porque é isso que decide a ficha de um imortal.
+
+Antes das vias, a moldura que organiza todas elas. A obra é explícita sobre isto: o perfil de
+dao marks de um imortal é listado **por caminho, em ordem decrescente, com a origem de cada
+bloco**. Não é um número único: é um **vetor**. Alguém tem, digamos, dezesseis mil marcas de
+um caminho vindas de calamidades num certo bioma, alguns milhares de outro caminho vindas de
+corpos de imortais absorvidos, algumas centenas de um terceiro vindas de ritos de aliança, e
+um bloco menor vindo de uma herança.
+
+> **É esse vetor — não o rank — que decide o que a pessoa consegue fazer bem.**
+
+E cada bloco do vetor tem uma procedência diferente. Vamos a elas.
+
+### 1. Sobreviver a calamidades e tribulações — a via principal
+
+É de longe a maior fonte, e a única que produz volume. Toda abertura imortal atrai
+periodicamente desastres, e quem sobrevive fica com as marcas. Os rendimentos médios são
+conhecidos:
+
+| Provação | Dao marks ganhos |
+|---|---|
+| Calamidade terrena | ≈ 250 |
+| Tribulação celestial | ≈ 750 |
+| Grande tribulação | ≈ 7.250 |
+| Tribulação miríade | ≈ 86.750 |
+
+O calendário completo está em [[Tribulações e Calamidades]] e os números fechados em
+[[Tabelas de Referência Rápida]]. Aqui interessa a pergunta que quase nunca é feita:
+**as marcas ganhas numa tribulação são de qual caminho?**
+
+A resposta é o mecanismo mais elegante e mais contraintuitivo do sistema inteiro, e é
+`conhecimento: segredo` — pouquíssimos no mundo o entendem.
+
+**Toda calamidade e toda tribulação, seja qual for o tema aparente** — relâmpago, dragões,
+tambores de trovão, neve, sal branco voando — **é fundamentalmente feita de marcas do
+[[Heaven Path|caminho do céu]] que se transformam temporariamente em marcas de outro caminho
+para poder se manifestar.** A ordem cósmica busca equilíbrio entre déficit e excedente de
+marcas; uma abertura imortal é uma concentração que rompe esse equilíbrio local; e quanto mais
+marcas alguém acumula, mais marcas do caminho do céu são atraídas para cima dele. **A curva de
+dificuldade das provações é literalmente o tamanho do seu desequilíbrio.**
+
+E aqui está a consequência que responde à pergunta: **passar por uma tribulação nunca dá
+marcas do caminho do céu.** As marcas que a provação gastou se **convertem em marcas de outros
+caminhos** e se fundem à abertura de quem sobreviveu.
+
+> **Ou seja: as tribulações são o mecanismo indireto pelo qual um cultivador ganha marcas de
+> caminhos que ele nem cultiva.**
+
+Um cultivador do caminho da força que sobrevive a uma calamidade de tema aquático não ganha
+marcas de força: ganha marcas de água. Ele não pediu por elas, não as usa, e elas estão lá
+para sempre.
+
+#### Quem escolhe o caminho da provação
+
+Duas forças, nesta ordem:
+
+- **O ambiente restringe o cardápio.** Numa região dominada por marcas de dois caminhos, a
+  calamidade será de um desses dois. É por isso que perfis de marcas são descritos como
+  "calamidades de um bioma": **o lugar onde você vive suas provações determina a paleta de
+  marcas que você acumula ao longo de séculos.**
+- **A vontade dos céus escolhe dentro do cardápio — e escolhe contra você.** Esta é a parte
+  cruel: a escolha é deliberada, e a obra registra que ela pode escolher justamente o caminho
+  que o alvo **não tem recursos nem atenção para aproveitar**, desperdiçando o ganho de
+  propósito. Ela também ajusta a intensidade das provações seguintes conforme o desempenho na
+  anterior, aprende contramedidas contra golpes específicos entre uma e outra, e manipula o
+  momento além da força. Ver [[Vontade dos Céus]].
+
+> [!warning] O que isso significa para "montar build"
+> A maior fonte de poder do sistema é **adversarial**. Não é um baú que você abre: é uma
+> inteligência que decide o que te dar, sabe o que você queria, e tem motivo para te dar outra
+> coisa. Qualquer plano de construção de personagem neste mundo tem que conviver com isso.
+
+### 2. Consumir carne e materiais ligados a uma lei
+
+A via **sob medida**, e a única em que o cultivador escolhe o caminho diretamente.
+
+Existem Gu Imortais cuja função é digerir carne, vegetação e materiais que carreguem a lei de
+um caminho, convertendo-os em marcas daquele caminho no corpo de quem come. **A marca obtida é
+sempre a do caminho do material consumido** — não há intermediação, não há vontade dos céus
+decidindo. Você come força, você ganha força.
+
+O preço é a escala. Cada uso rende cerca de **um milésimo** do que rende uma calamidade. É
+seguro, é acumulável, é dirigível — e é lento a ponto de não substituir a via principal. Serve
+para **ajustar o vetor**, não para construí-lo.
+
+Duas notas de precisão:
+
+- **Materiais também se medem em dao marks**, e a densidade de marcas de um material determina
+  o rank dele. Material de um caminho só serve para Gu daquele caminho, por mais alto que seja
+  o rank.
+- **Nem todo material encaixa igual.** Gu que concedem força bestial têm encaixe ruim no corpo
+  humano: dois ou três Gu Imortais desses rendem menos que uma única calamidade terrena.
+
+#### O caso de exceção: recursos raros de altíssimo nível
+
+Existe um degrau acima que quebra a proporção. Uma **única xícara** de um chá feito de
+materiais imortais, bebida com a técnica correta, rende cerca de **mil dao marks** — mais que
+uma tribulação celestial e uma calamidade terrena somadas, sem nenhum risco de morte.
+
+Isso é jogável e importante: **quando um recurso desses existe, arriscar a vida numa tribulação
+deixa de ser destino e vira decisão econômica.** Existe uma economia paralela de aquisição de
+marcas para quem pode pagar por ela.
+
+### 3. Permanecer em território saturado
+
+Aqui é preciso ser honesto sobre o tamanho da evidência, porque a intuição puxa para uma
+resposta que a obra não dá.
+
+**O que a obra afirma:** territórios acumulam marcas — o chão onde dois poderosos lutaram fica
+marcado, aberturas imortais são literalmente feitas de marcas, e um ambiente saturado **penaliza
+ativamente** quem cultiva um caminho conflitante (perda de metade da potência ou mais). Isso
+está firme e está em [[Conflito de Marcas e Compatibilidade]].
+
+**O que a obra não afirma:** que ficar parado num território saturado transfira, sozinho e por
+osmose, marcas daquele caminho para o corpo do visitante. O ambiente funciona como **modificador
+de desempenho**, e não há descrição de absorção passiva pela simples permanência. `—` A obra
+não decide isso.
+
+**O que a obra afirma no lugar disso, e que é melhor:** o ambiente age sobre o corpo
+**indiretamente, através das provações**. Como a região determina de quais caminhos serão as
+calamidades, morar num lugar por séculos molda o vetor de marcas de quem mora ali — via
+desastres, não via osmose. É o mesmo efeito, com um mecanismo diferente, e o mecanismo importa
+porque é onde estão as alavancas.
+
+Existe inclusive um método institucional construído exatamente sobre isso, descrito adiante em
+"Dá para dirigir a aquisição?".
+
+### 4. Matar e absorver
+
+A rota de elite, e a que rende mais de uma vez só.
+
+**Anexar a abertura imortal de outro** — engolir o mundo pessoal de um imortal derrotado — é a
+operação mais lucrativa do reino imortal. Ela rende **milhões de marcas de uma vez**, contra as
+86.750 da maior tribulação existente. Também transfere os recursos e o ecossistema intactos e,
+o benefício decisivo, **credita ao anexador as calamidades que aquela terra já sofreu**: pular
+provações inteiras.
+
+Mas há uma regra de compatibilidade que decide o caminho do que se ganha, e ela é severa:
+
+> **Só as marcas do MESMO caminho do anexador são absorvidas por completo. As de outros
+> caminhos são majoritariamente expulsas e perdidas.**
+
+Há conflito entre as marcas do "dono da casa" e as do "convidado", e o dono ganha. Isso
+significa que anexar não diversifica o vetor — **concentra-o**. Quem engole aberturas engorda o
+caminho que já tinha.
+
+Duas travas adicionais:
+
+- **Só se anexa uma terra cujo caminho corresponda ao domínio que se tem.** Quem é grão-mestre
+  em cinco caminhos só pode caçar aberturas desses cinco. Domínio insuficiente impede a
+  anexação **mesmo depois de matar o dono** — a terra fica servindo apenas de pouso.
+- **Anexar rende menos marcas e menos fundação do que passar pelas provações pessoalmente**,
+  mas eleva o poder de combate muito mais rápido. É um trade-off estratégico explícito: método
+  natural dá fundação grande e devagar; anexação dá poder rápido e fundação rasa.
+
+**E matar, sozinho, quase não rende.** Ao se autodetonar, as marcas de um imortal voltam para a
+**própria abertura dele**, não para o matador. Por isso imortais mortos não são fáceis de
+saquear: o vencedor só acessa aquele acúmulo se conseguir se tornar dono do mundo pequeno que
+restou. `[segredo]` Existiu um método histórico, hoje perdido, de capturar as marcas de um
+inimigo morto e gravá-las no esqueleto dele como material imortal — chegando a reconciliar
+marcas de caminhos conflitantes no mesmo objeto.
+
+> [!warning] Uma exceção que muda tudo para quem a tem
+> Existe um tipo de corpo excepcional cuja propriedade é absorver **cem por cento das marcas de
+> todos os caminhos**, sem o conflito que expulsa as estranhas. Quem o possui anexa qualquer
+> coisa e fica com tudo. É o topo absoluto do sistema e não é uma opção de personagem — é o que
+> um antagonista de campanha inteira tem.
+
+### 5. Nascer com elas
+
+Nem todo mundo começa em zero.
+
+- **Constituições extremas** conferem marcas natas em volume que supera a maioria dos imortais
+  de nível 6 em condição equivalente. É o que explica como um mortal excepcional consegue, em
+  situações extremas, suprimir poderes imortais. As dez estão em
+  [[As Dez Constituições Extremas]].
+- **Certas variantes humanas nascem com marcas nativas** do elemento a que pertencem.
+
+O caminho, nesses casos, é decidido pelo nascimento e não é negociável — o que é a versão mais
+literal possível da tese desta nota.
+
+### 6. Heranças e legados — e a distinção que quase todo mundo erra
+
+Aqui mora a confusão mais comum do material, e vale separar com cuidado, porque são **duas
+moedas diferentes**:
+
+| | O que é | O que a herança faz |
+|---|---|---|
+| **Dao marks** | quantidade de lei gravada no corpo — a barra de **potência** | herança normalmente **não** transfere |
+| **Attainment** | quanto se **entende** do caminho — a barra de **erudição** | herança transfere, com teto |
+
+**Legados e heranças transmitem sobretudo compreensão, não marcas.** Uma "verdade" deixada por
+um Venerável concede attainment diretamente; explorar o reino de sonho de um mestre morto é o
+único método conhecido de adquirir a compreensão de outra pessoa. Nada disso é uma injeção de
+dao marks. Ver [[Attainment]] e [[Heranças e Provações]].
+
+Dois casos concretos que ilustram a distinção:
+
+- **Infusão de verdade.** Todo Venerável imprimiu a verdade dos caminhos que dominou no tecido
+  do mundo, no local do seu feito final. Quem enfrenta uma tribulação **naquele lugar** vê a
+  calamidade se manifestar como encarnações vivas dessa verdade — e destruí-las injeta
+  fragmentos da compreensão do Venerável na mente de quem cultiva o caminho correspondente.
+  Saltos equivalentes a décadas ou séculos de estudo. Mas o que se ganha é **attainment**, e o
+  ganho é dirigido pelo **caminho daquele Venerável**, não pelo seu.
+- **Herança como bloco de marcas.** Ainda assim, "heranças" aparecem listadas como origem de um
+  bloco do vetor de marcas de um imortal. `(ded.)` A leitura coerente é que uma herança pode
+  incluir recursos, materiais e aberturas que rendem marcas — e não que o conhecimento herdado
+  se converta em marcas. A obra não detalha o mecanismo.
+
+### 7. Conversão entre caminhos
+
+Marcas podem ser **convertidas de um caminho para outro** por golpes especializados, e o
+[[Transformation Path|caminho da transformação]] é o **conversor universal** do sistema — é
+exatamente isso que lhe dá o menor limiar de refino de todos os caminhos.
+
+Os casos documentados mostram o padrão: transformar-se numa criatura de um caminho converte as
+marcas de transformação em marcas **daquele** caminho, somando-se às que já existiam. Assim se
+converte transformação em tempo (para operar dentro do Rio do Tempo), em espada, em sabedoria.
+
+**O caminho de destino é escolhido pelo golpe usado**, e portanto esta é, junto com o consumo,
+a segunda via realmente dirigível. Custo e limite: `—` a obra não quantifica a taxa de conversão
+nem informa se há perda no processo.
+
+### 8. As vias menores que a obra registra
+
+Vale listar, porque cada uma é um gancho de campanha pronto:
+
+- **Ritos de aliança.** Um pacto entre imortais é gravado como marca no corpo. Aparece
+  explicitamente como origem de um bloco no vetor de marcas de alguém. Enquanto a aliança não
+  for prejudicial ao portador, a autolimpeza natural do corpo não a remove; se ele trair, a
+  marca de punição dispara instantaneamente.
+- **Prolongar a própria vida.** Estender a longevidade com Gu de dia, mês e ano **grava marcas
+  do caminho do tempo no corpo** — e o acúmulo eventualmente **impede o uso futuro** de Gu de
+  longevidade genuínos. Uma via de aquisição que se sabota sozinha. Ver [[Longevidade]].
+- **Desfazer uma segunda abertura imortal.** `[segredo]` Colapsar uma segunda abertura já
+  elevada transfere as marcas daquele caminho para o corpo físico, que passa a ser ele mesmo um
+  material imortal daquele rank e caminho.
+- **Desselar materiais de altíssimo nível.** `[segredo]` O único método documentado de acumular
+  marcas do caminho do céu em volume rende, de quebra, marcas de **vários caminhos ao mesmo
+  tempo** — cada um correspondendo ao Venerável que investiu naquela camada. O custo é medido
+  em essência imortal do nível mais alto que existe.
+
+<!-- SECOES: dirigir aquisicao / para o design / relacoes -->
 
 ## Relações

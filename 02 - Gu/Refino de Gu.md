@@ -141,6 +141,12 @@ em **décadas a séculos**, e cada tentativa consome um conjunto completo de mat
 imortais — um único conjunto de nível 6 já consome quase toda a riqueza líquida de um
 imortal médio.
 
+Esta metade da nota explica **como o processo funciona**. As receitas que a obra chega a
+descrever de fato — os materiais de cada uma, os passos que ela detalha, o que existe só
+como boato e o que foi perdido — estão levantadas uma a uma em [[Catálogo de Receitas]],
+que é a nota para abrir quando você precisar de uma fabricação concreta em vez da regra
+geral.
+
 ## Por que existe falha aleatória
 
 `conhecimento: segredo`
@@ -406,6 +412,7 @@ historicamente baixíssimas da profissão se explicam sozinhas.
 
 ## Relações
 
+- [[Catálogo de Receitas]] — o levantamento das receitas concretas: quais Gu a obra ensina a fabricar, com que materiais, quais linhagens de receita pertencem a quem, e o que se sabe do refino reverso e das receitas perdidas.
 - [[O que é um Gu]] — a vontade interna que o refino sobrescreve.
 - [[Usar e Alimentar Gu]] — a dependência que o refino cria.
 - [[Fusão de Gu]] — o processo irmão, que cria Gu novos em vez de dominar existentes.

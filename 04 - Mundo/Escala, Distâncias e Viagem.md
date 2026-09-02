@@ -21,6 +21,17 @@ conhecimento: comum
 única região é dez vezes a superfície da Terra, e ir de uma montanha à montanha vizinha, na
 Fronteira Sul, leva de duas a três semanas de caravana.
 
+> [!info] Os números de consulta moram no apêndice
+> Esta nota **explica** a escala do mundo: o que cada medida significa, por que a
+> distância organiza a civilização e o que muda de um patamar de mobilidade para o
+> outro. Os **números de consulta rápida** — a unidade e suas conversões, o tamanho de
+> uma região, as áreas de terra abençoada, os tempos de caravana, a régua de
+> mobilidade, a travessia de barreira por rank e os custos de transporte — estão
+> reunidos na seção de escala e distância de
+> [[Tabelas de Referência Rápida#13. Escala, distância e viagem|Tabelas de Referência Rápida]],
+> que é a fonte soberana dos números do vault. **Se algum valor daqui divergir de lá,
+> vale o de lá.**
+
 > [!info] Os quatro estados de confiabilidade
 > Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** — aqui, quase
 > sempre uma conversão de unidade ou uma velocidade calculada a partir de distância e tempo
@@ -116,7 +127,7 @@ texto:
 | Grau da terra abençoada | Área | Rendimento anual |
 |---|---|---|
 | Baixo | até 2.000 km² | 10+ contas de essência imortal |
-| Médio | 2.000 a 4.000 km² | 20+ contas |
+| Médio | 2.700 a 4.000 km² | 20+ contas |
 | Alto | 4.700 a 6.000 km² | 30+ contas |
 | Super | mais de 6.700 km² | 50+ contas |
 
@@ -337,9 +348,12 @@ As medidas mais úteis para calibrar uma mesa, num lugar só.
 ## Relações
 
 - [[As Cinco Regiões]] — as barreiras, a penalidade de rank e a geografia política.
+- [[Atlas das Cinco Regiões]] — os lugares concretos que essas distâncias separam: é lá que se descobre o que há na outra ponta da viagem, e que terreno o grupo vai atravessar no meio.
+- [[Lugares Fora das Cinco Regiões]] — os destinos que ficam fora do mapa habitado, onde a maior parte das réguas desta nota deixa de valer.
 - [[Visão Geral do Mundo]] — a escala no contexto das três camadas do mundo.
 - [[Cultura das Cinco Regiões]] — como cada região organiza a vida dentro dessas distâncias.
 - [[Blessed Lands e Grotto-Heavens]] — os graus de terra e suas áreas.
 - [[Viver Dentro da Abertura Imortal]] — o fluxo de tempo interno, que distorce prazos.
 - [[Mercados e Leilões]] e [[Como um Mestre Gu Ganha a Vida]] — a economia que a caravana move.
 - [[Bestas Gu e Reis Fera]] — o que torna a estrada perigosa.
+- [[Tabelas de Referência Rápida]] — a fonte soberana dos números do vault. A seção de escala e distância traz, em forma de consulta, tudo o que esta nota explica em prosa: unidade, tamanho das regiões, áreas de terra abençoada, tempos de caravana, mobilidade por patamar, travessia de barreira e custos.

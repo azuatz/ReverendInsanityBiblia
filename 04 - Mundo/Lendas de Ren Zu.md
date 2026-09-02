@@ -41,6 +41,8 @@ Some-se a isso:
 
 Abaixo, os episódios cujo conteúdo mecânico é aproveitável diretamente. Estão organizados pelo que **estabelecem no mundo**, não pela ordem em que são contados.
 
+Vale um aviso de leitura antes de entrar neles. As lendas fixam mecânica, mas fixam também **antropologia**: que o ser humano nasceu como o animal fraco da criação, que todo poder é comprado com tempo de vida e que a esperança ilumina o peito de quem a carrega mas nunca o caminho à frente. Esses três pontos são o alicerce do tom do cenário e estão desdobrados em [[A Filosofia do Mundo]] — vale tê-los na cabeça enquanto se lê o resto.
+
 ### A esperança e o coração
 
 Ren Zu entregou o próprio coração à Esperança. Duas coisas permanentes saem daí: os insetos usados na cerimônia que revela a aptidão de uma criança para o cultivo descendem desse mito, e as feras primordials associadas à aflição temem a luz da esperança. E como Ren Zu ficou sem coração, ele não conseguiu vestir uma máscara que capturou depois — porque "para quem tem coração, a atitude é uma máscara".

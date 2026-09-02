@@ -24,7 +24,10 @@ sobrenatural fixo: um faz a pele endurecer, outro dispara uma lâmina de luz, ou
 armazena uma lembrança. Quem consegue abrigar esses bichos dentro de si e alimentá-los
 com a própria energia interna é um Mestre Gu. Quem não consegue é um **mortal**. Essa
 linha divide a sociedade em duas castas com direitos radicalmente diferentes, e tudo o
-que segue é consequência disso.
+que segue é consequência disso. Ela não é a única divisão que importa: dentro de cada
+casta há posições muito distintas — servo, escravo, cultivador de aptidão baixa, gênio,
+herdeiro, solitário —, cada uma com um destino provável diferente, e todas catalogadas em
+[[Tipos de Gente e Filosofias de Vida]].
 
 Mestres Gu são classificados em nove **ranks**. Do rank 1 ao 5 são mortais poderosos, com
 vida longa mas finita. Do rank 6 em diante são **Mestres Gu Imortais** (*Gu Immortals*),
@@ -163,10 +166,15 @@ Vale ler as notas desta pasta nesta ordem:
 3. [[Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que classifica todo
    personagem do mundo, e a matriz "talento × virtude" que os dois lados usam para
    avaliar gente.
-4. [[Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
-5. [[Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
+4. [[Tipos de Gente e Filosofias de Vida]] — desce das instituições para as pessoas: o
+   catálogo de posições sociais que um personagem pode ocupar (mortal sem abertura, servo,
+   escravo, cultivador de aptidão baixa, gênio, membro de organização, solitário, herdeiro),
+   com o destino provável de cada uma, e as filosofias de vida que estão em disputa no
+   mundo — o material mais direto para criar personagem e para dar convicção a um NPC.
+5. [[Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
+6. [[Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
    está escondido atrás delas.
-6. [[Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
+7. [[Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
    das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
    pertencem a região nenhuma e os domínios fechados.
 

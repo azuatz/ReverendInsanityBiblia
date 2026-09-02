@@ -5,13 +5,16 @@ tags:
   - cultivo/mortal
   - cultivo/imortal
   - gu/refino
+  - mundo/escala
+  - mundo/geografia
 aliases:
   - Quick Reference Tables
   - Tabelas Numéricas
   - Números do Sistema
+  - Tabela de Escala e Distância
 status: verificado-no-texto
-fontes: ["cap. 7", "cap. 10", "cap. 26", "cap. 29", "cap. 90-91", "cap. 105", "cap. 121", "cap. 212", "cap. 273", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 460", "cap. 516", "cap. 608", "cap. 633", "cap. 690", "cap. 740", "cap. 826", "cap. 860", "cap. 939", "cap. 1007", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1398", "cap. 1459", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1569", "cap. 1703", "cap. 1756-1758", "cap. 1842", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2118", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2295", "_pipeline/pesquisa/CORRECAO-limiares-aptidao.md"]
-conhecimento: misto — as tabelas de aptidão, ranks e cores são conhecimento comum no mundo; dao marks, tribulações, essências imortais e attainment são conhecimento especializado; as quatro condições para virar Venerável são segredo de altíssimo nível
+fontes: ["cap. 7", "cap. 10", "cap. 26", "cap. 29", "cap. 90-91", "cap. 105", "cap. 121", "cap. 212", "cap. 273", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 460", "cap. 516", "cap. 608", "cap. 633", "cap. 690", "cap. 740", "cap. 826", "cap. 860", "cap. 939", "cap. 1007", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1398", "cap. 1459", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1569", "cap. 1703", "cap. 1756-1758", "cap. 1842", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2118", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2295", "cap. 29", "cap. 161", "cap. 168", "cap. 334", "cap. 609", "cap. 690", "cap. 737", "cap. 865", "cap. 1035", "cap. 1060", "cap. 2090", "_pipeline/pesquisa/CORRECAO-limiares-aptidao.md"]
+conhecimento: misto — as tabelas de aptidão, ranks e cores são conhecimento comum no mundo; a escala, as distâncias, os tempos de viagem e os custos de transporte da seção 13 são conhecimento comum; dao marks, tribulações, essências imortais e attainment são conhecimento especializado; as quatro condições para virar Venerável são segredo de altíssimo nível
 ---
 
 # Tabelas de Referência Rápida
@@ -694,9 +697,314 @@ Três regras que explicam a curva:
 
 ---
 
+## 13. Escala, distância e viagem
+
+As tabelas anteriores medem o cultivador. Esta mede o **mundo em que ele anda**: quanto
+vale a unidade de distância, quão grande é uma região, quanto tempo custa atravessá-la
+a pé, voando ou por teleporte, e quanto se paga por isso. É a régua que responde às
+perguntas mais frequentes de uma mesa — dá para ir e voltar hoje? o socorro chega a
+tempo? quanto custa a passagem? — e que a explicação em prosa está em
+[[Escala, Distâncias e Viagem]].
+
+Uma observação de vocabulário antes de começar. A nota temática marca a origem de cada
+número com `(ded.)` para dedução segura e `*` para invenção nossa; este apêndice usa a
+palavra `inferido` para a mesma ideia. **`(ded.)` e `inferido` são o mesmo estado de
+confiabilidade**, escritos de dois jeitos, e nesta seção você verá os dois lado a lado
+porque as tabelas abaixo vieram de lá. `—` continua significando "a obra não diz".
+
+### 13.1 A unidade base: o li
+
+O mundo mede distância em ==li==, a unidade chinesa clássica, e não em quilômetros. Três
+notas de tradução no próprio texto-fonte fixam o valor e são coerentes entre si:
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **1 li** | **500 metros (meio quilômetro)** | **canônico** — fixado por nota de tradução no texto |
+| 100 li | 50 km | `(ded.)` — aritmética sobre a linha acima |
+| 1.000 li | 500 km | `(ded.)` |
+| 10.000 li | 5.000 km | `(ded.)` |
+| 100.000 li | 50.000 km | `(ded.)` |
+
+> [!warning] Toda conversão para quilômetros nesta seção é conta nossa
+> **A obra mede em li.** Onde os personagens aparecem falando em quilômetros ou em
+> quilômetros quadrados, isso é escolha do tradutor, não vocabulário do mundo — um
+> personagem diria "li". Por isso **cada valor métrico desta seção que tenha sido
+> obtido a partir de um número em li está marcado `(ded.)`**: ele é aritmética nossa
+> em cima da equivalência de 500 metros, e não uma medida que a obra enuncie.
+>
+> A recíproca também vale e é a exceção importante: as áreas em **km²** das terras
+> abençoadas (13.3) e as áreas de região (13.2) aparecem no texto **já em unidades
+> métricas**, e essas são canônicas como estão. Não confunda os dois casos.
+
+### 13.2 O tamanho de uma região
+
+Este é o número que mais muda o desenho de uma campanha, e a obra o dá duas vezes, por
+caminhos independentes que batem entre si. As cinco regiões não são países: cada uma é
+um mundo inteiro em escala planetária.
+
+| Escala | Medida | Origem |
+|---|---|---|
+| Planícies do Norte | **5 bilhões de km², dez vezes a superfície da Terra** | **canônico** |
+| Fronteira Sul | **sete a oito vezes toda a superfície da Terra** | **canônico** |
+| Fronteira Sul, convertida em km² | 3,6 a 4,1 bilhões de km² | `(ded.)` — a superfície da Terra são 510 milhões de km² |
+| Régua prática por região | **3 a 5 bilhões de km²** | `(ded.)` — média utilizável das duas linhas canônicas |
+| Continente Central | "mais de cinquenta milhões de quilômetros de largura" | **canônico, porém não fecha** — ver o aviso abaixo |
+| Mar Oriental | — | a obra não dá área |
+| Deserto Ocidental | — | a obra não dá área |
+| O mundo | as cinco regiões somadas | **canônico** — não há total declarado |
+| Fração de uma região que alguma potência já mapeou | — | **canônico**: nenhuma potência regional jamais mapeou a própria região inteira |
+
+> [!warning] Divergência registrada: a medida do Continente Central não fecha
+> O Continente Central é a única das cinco regiões cujo número **não conversa com os
+> das outras em ordem de grandeza**. O texto o descreve como tendo "mais de cinquenta
+> milhões de quilômetros de largura" — e nenhuma das duas leituras possíveis funciona:
+>
+> - **Lido como área** (cinquenta milhões de km²), é **cem vezes menor** que os cinco
+>   bilhões de km² das Planícies do Norte, o que faria da região central um apêndice
+>   diminuto do mundo.
+> - **Lido como largura** (cinquenta milhões de quilômetros lineares), é absurdo: são
+>   mais de mil vezes a circunferência da Terra.
+>
+> A divergência tem duas origens plausíveis e nenhuma verificável: uma confusão entre
+> "quilômetros" e "quilômetros quadrados" na tradução, ou uma escala que o autor ainda
+> não tinha fixado no início da obra — a passagem do Continente Central é muito mais
+> antiga que a das Planícies do Norte. Não temos como decidir com o texto na mão.
+>
+> **A decisão do projeto é tratar o número do Continente Central como não confiável** e
+> calibrá-lo pelas outras regiões, isto é, na mesma faixa de bilhões de km². Isso não
+> contradiz nada do que a obra afirma sobre ele: o Continente Central é descrito como a
+> região **mais forte** e a mais densa em essência primeva, nunca como a maior.
+>
+> Atenção a um efeito colateral desta divergência: [[Atlas das Cinco Regiões]] cita o
+> mesmo dado na forma "mais de cinquenta milhões de quilômetros **quadrados**", que é a
+> primeira das duas leituras acima. Nenhuma das duas é confiável.
+
+### 13.3 Terra abençoada: área por grade
+
+Esta tabela já existe neste apêndice, na **seção 9**, e não é repetida aqui: a seção 9
+continua sendo a autoridade sobre as grades de terra abençoada, inclusive sobre a
+produção anual em contas de uva-verde. O que segue são apenas as **medidas de área**,
+reunidas aqui para quem chega a esta seção pela pergunta de escala, mais dois exemplos
+concretos que a seção 9 não traz.
+
+| Grade | Área | Origem |
+|---|---|---|
+| Baixa | até **2.000 km²** | **canônico** |
+| Média | **2.700 a 4.000 km²** | **canônico** |
+| Alta | **4.700 a 6.000 km²** | **canônico** |
+| Super | acima de **6.700 km²** | **canônico** |
+| Exemplo documentado de grade alta | 4.700 km², fluxo de tempo 1:33 | **canônico** |
+| Exemplo documentado de grade super | 8.000 km², fluxo de tempo 1:46, 55 contas de uva-verde/ano | **canônico** |
+| Uma terra de grade alta, em lado de quadrado | ~5.000 km² ≈ 70 × 70 km | `(ded.)` — raiz quadrada da área |
+
+O contraste é a informação, e ela é contraintuitiva: **a propriedade privada de um
+Imortal é minúscula perto do mundo**. Uma terra abençoada de grade alta cabe dentro de
+um único vale da região onde o dono mora. Ver [[Blessed Lands e Grotto-Heavens]].
+
+> [!warning] Divergência interna do vault, ainda não decidida: o piso da grade média
+> A nota [[Escala, Distâncias e Viagem]] traz a grade média como **"2.000 a 4.000 km²"**,
+> enquanto a seção 9 deste apêndice e a tabela acima trazem **"2.700 a 4.000 km²"**.
+> A diferença de setecentos quilômetros quadrados é pequena em si, mas muda uma leitura
+> estrutural: com 2.700, existe um **vão** entre o teto da grade baixa (2.000) e o piso
+> da média, e a escala das grades **não é contínua**; com 2.000, ela seria contínua.
+>
+> A conferência no texto-fonte favorece o **2.700**: a passagem que enuncia a escala
+> completa diz "de dois mil e setecentos a quatro mil quilômetros quadrados", e uma
+> segunda passagem, anterior e independente, diz "de dois e dois terços a quatro mil"
+> — ou seja, cerca de 2.667. As duas apontam para o mesmo piso, e nenhuma passagem
+> localizada diz 2.000. O vão entre as grades, portanto, parece ser real, e a própria
+> seção 9 já o descrevia como tal.
+>
+> **A divergência fica registrada, não resolvida por esta nota.** Pela regra do
+> projeto, é o número deste apêndice que vale enquanto isso — mas a correção da nota
+> temática é uma decisão que cabe a quem mantém o vault, não a esta seção.
+
+> [!warning] O teto do fluxo de tempo pode estar defasado na seção 9
+> A seção 9 dá as proporções documentadas de fluxo de tempo interno como indo de
+> **1:5 a 1:38**. O exemplo de grade super citado na tabela acima roda a **1:46**, e é
+> descrito no texto como "o padrão de uma terra abençoada de grade super, nada fora do
+> normal". Se esse dado for aceito, o teto da faixa da seção 9 sobe de 38 para 46.
+> Registrado aqui para conferência; a seção 9 não foi alterada.
+
+### 13.4 Régua de calibração: a escala das coisas
+
+Uma tabela para dar noção de tamanho, do pequeno ao gigante. Todos os valores em li são
+canônicos; **todas as conversões em km são `(ded.)`**, pela regra de 13.1.
+
+| Coisa | Medida na obra | Em km `(ded.)` |
+|---|---|---|
+| Alcance de um Gu investigativo imortal comum | raio de 5 li | 2,5 km |
+| Torres de uma formação imperial | uma a cada 8 li | 4 km |
+| Salão subterrâneo de refino | 10 li de diâmetro | 5 km |
+| Floresta-armadilha fechada | raio de 100 li | 50 km |
+| **Distância cotidiana entre acampamentos vizinhos** | **~100 li** | **50 km** |
+| Muralha de uma cidade-clã de estepe | 200+ li de perímetro | ~100 km |
+| Varredura de cavalaria de reconhecimento | raio de 600 li | 300 km |
+| Alarme de maré de bestas | dado a 3.000 li | 1.500 km |
+| Uma cordilheira grande | centenas de milhares de li | 50.000+ km |
+| Fenda continental | milhões de li de extensão | 500.000+ km |
+| Terceiro maior rio da Fronteira Sul | — (dado já em km) | mais de 8.000 km |
+| A montanha número um do mundo | — (dado já em km) | mais de 3.000 km de altura |
+
+Duas leituras que a tabela não entrega sozinha. Primeira: **cem li — cinquenta
+quilômetros — é a distância que o mundo trata como trivial** entre vizinhos, e é a
+melhor unidade de bolso para o mestre. Segunda: percorrer uma cidade-clã grande de
+carruagem por um dia inteiro não cobre um por cento dela.
+
+### 13.5 Tempo de viagem por terra: a caravana
+
+A obra é generosa em distâncias e avara em relógios — ela diz o tamanho das coisas o
+tempo todo e quase nunca cronometra o trajeto. A exceção é uma caravana mercante
+atravessando a Fronteira Sul de leste a oeste, e é dela que sai **praticamente toda a
+régua de tempo terrestre da obra**. Os números abaixo, portanto, descrevem terreno de
+floresta e montanha; estepe aberta e deserto seriam mais rápidos, mas a obra não os
+cronometra.
+
+| Deslocamento | Tempo | Origem |
+|---|---|---|
+| Atravessar **uma** montanha grande | **mais de 20 dias** | **canônico** |
+| **De uma montanha à montanha vizinha** | **15 a 20 dias** | **canônico** |
+| Atravessar uma região montanhosa com emboscadas em série | 10 a 15 dias | **canônico** |
+| Rota comercial completa, de uma cidade-clã a outra | muitos meses | `(ded.)` — soma dos trechos acima |
+| Parada de venda numa vila da rota | cerca de 8 dias | **canônico** |
+| Frequência com que a caravana passa por uma vila dada | **1 vez por ano** (às vezes 1 a cada 6 meses) | **canônico** |
+| Atraso considerado normal na chegada | 3 dias | **canônico** |
+| Ritmo de marcha | viaja o dia inteiro, acampa toda noite | **canônico** |
+| Velocidade média em li/dia | — | a obra nunca dá distância e tempo do mesmo trecho |
+
+Repare na última linha: **não é possível derivar uma velocidade de caravana em li por
+dia**, porque a obra nunca fornece a distância e o tempo do mesmo trecho. Os tempos
+acima são medidos em "montanhas", não em quilômetros, e é assim que devem ser usados.
+
+### 13.6 Régua de mobilidade por patamar
+
+O salto de mobilidade entre patamares é a diferença mais brutal deste mundo — maior até
+que a diferença de força bruta. Esta tabela é a que mais serve para decidir se uma cena
+acontece.
+
+| Patamar | Alcance por unidade de tempo | Origem |
+|---|---|---|
+| **A pé** (mortal ou Mestre Gu sem Gu de movimento) | "extremamente devagar"; tratado como **vulnerabilidade tática**, não inconveniência | **canônico**, sem número |
+| **Montaria comum** (cavalo, lobo-corcunda, camelo, gaivota-da-areia) | — | a obra não dá velocidade; dá o preço (13.8) |
+| Montaria comum comparada a Gu de corrida | um lobo-corcunda é **mais rápido e mais barato** que acionar um Gu de corrida de rank 4 | **canônico** |
+| **Voo mortal** (Gu de asas, rank 3–4) | atravessa uma terra abençoada enorme em **3 a 6 dias**, com pausas de ~4 h entre pernas | **canônico** |
+| **Voo imortal / montaria imortal** | **dezenas de milhares de li em meio dia** | **canônico** |
+| Voo imortal, convertido em velocidade | ~800 km/h | `(ded.)` — 20.000 li ÷ 12 h |
+| Voo imortal, uma perna sem descanso | **100.000 li (50.000 km)** | **canônico** |
+| Voo imortal: atravessar uma região inteira | **10 a 15 dias** | **canônico** |
+| Unidade de referência corrente entre imortais | "uma rota de três dias" | **canônico** |
+| **Teleporte pessoal** (Gu Imortal) | instantâneo, mas com **3 respirações** de ativação | **canônico** |
+
+Custo de aprendizado do voo mortal — é ele, e não o preço do Gu, que faz do voo a linha
+divisória social do mundo mortal:
+
+| Marco | Tempo | Origem |
+|---|---|---|
+| Só para **conseguir voar**, com Gu de asas de rank 4 | **2 a 3 anos** de treino | **canônico** |
+| Para **combater voando** | **pelo menos 5 anos** | **canônico** |
+
+Quatro limitações do teleporte pessoal, que são o melhor design de item do cenário e
+não têm número associado: exige **memória vívida e compreensão clara do destino** —
+não se teleporta para onde nunca se esteve; a janela de três respirações é real e um
+inimigo pode interrompê-la; **não transporta roupas** nem objetos externos, só o que
+estiver guardado na abertura; e **fica mais caro conforme o próprio usuário fica mais
+poderoso**, a ponto de um Gu que servia num patamar deixar de dar conta do dono no
+patamar seguinte.
+
+### 13.7 Travessia de barreira regional, por rank
+
+As cinco regiões são separadas por barreiras nomeadas, e a regra é o inverso da
+intuição: **quanto mais forte o viajante, mais difícil a travessia**. A barreira ainda
+**se regenera enquanto se cava**, o que impede abrir passagem com calma.
+
+| Quem atravessa | Custo da travessia | Origem |
+|---|---|---|
+| Mestre Gu de rank 4 | **cerca de 5 minutos**, e descrito como "muito fácil" | **canônico** |
+| Imortal de rank 6, primeira barreira | ~8 minutos abrindo passagem | **canônico** |
+| Imortal de rank 6 a 7, segunda barreira | **um dia e uma noite** de sofrimento | **canônico** |
+| Rank 7 | a travessia **pode matar** | **canônico**, sem número |
+| Rank 8 | **incontáveis vezes** mais difícil que para um rank 6; sai gravemente ferido | **canônico**, sem número |
+| Rank 9 | as barreiras **já não obstruem** | **canônico** |
+| Ranks 1 a 3 | — | a obra não cronometra |
+
+Ver [[As Cinco Regiões]].
+
+### 13.8 Custos de transporte e de viagem
+
+Todos os valores abaixo estão em [[Pedras Primordiais]], a moeda dos mortais.
+
+| Item | Custo | Origem |
+|---|---|---|
+| **Montaria comum** (cavalo de carga) | **menos de 1 pedra primordial** | **canônico** |
+| Comparação: um Gu de rank 1 | centenas de pedras | **canônico** |
+| **Entrada em cidade-clã** | **10 pedras por pessoa** | **canônico** |
+| **Reserva mínima para viver na estrada** | **10.000 pedras**, reposta de tempos em tempos | **canônico** |
+| **Túnel fixo entre dois pontos** (par de Gu) | **200.000 pedras por ano** de manutenção | **canônico** |
+| Túnel fixo: efeito da distância no custo | **nenhum** — o custo depende só de quanto se põe dentro, não de quão longe vai | **canônico** |
+| Túnel fixo de rank 5 entre regiões | atravessa a barreira, mas **só transporta objetos, não pessoas** | **canônico** |
+| Pedágio de desfiladeiro | existe e é ritualizado (disputa de queda de braço) | **canônico**, sem valor |
+| **Passagem de caravana** | — | **a obra nunca precifica.** Ver abaixo |
+
+> [!warning] Não existe preço de passagem de caravana na obra
+> A obra **não dá** o preço de uma passagem, e o silêncio não é lacuna: ela mostra um
+> modelo alternativo de acesso, em que ninguém compra passagem. Entra-se numa caravana
+> **como pessoal contratado** — escolta, carregador, Mestre Gu de combate — ou **como
+> mercador com carga própria**. Como sempre morrem muitos mortais na estrada, as
+> caravanas **recrutam gente nas aldeias da rota para repor as baixas**, e a reposição
+> é parte planejada da operação.
+>
+> Se a sua mesa precisar de um número, ele terá de ser inventado. A sugestão calibrada
+> pelos valores da tabela acima é `*` **algumas dezenas de pedras primordiais por
+> trecho de montanha**, ou trabalho de escolta em troca — e o asterisco é para lembrar
+> que essa é invenção nossa, sem uma linha de texto por trás.
+
+### 13.9 Alcance de comunicação e de sinal
+
+Decide se o socorro chega. A comunicação a distância é uma família inteira de **Gu de
+carta**, escalonada por rank; a mensagem não é lida em papel, entra-se com a
+consciência no Gu.
+
+| Meio | Alcance | Origem |
+|---|---|---|
+| Gu de carta de curta distância | rank 3 | **canônico** — a obra dá o rank, não o alcance |
+| Gu de carta de longo alcance | rank 5 | **canônico** — idem |
+| Alcance em li de qualquer Gu de carta | — | a obra nunca o numera |
+| **Entre regiões** | **não passa carta** sem um Gu Imortal do caminho da informação | **canônico** |
+| Uivo de fera usado como sinal | **1.000 li** (500 km) `(ded.)` para a conversão | **canônico** em li |
+| Explosão de luz de nível imortal | **10.000 li** (5.000 km) `(ded.)` para a conversão | **canônico** em li |
+| Comunicação dos mortais | mensageiro humano e caravana; **nenhum acesso a Gu de carta** | **canônico** |
+
+Quatro limites que valem mais que o alcance, porque são o que se joga: **Gu de carta
+podem ser interceptados e bloqueados**, e fazer isso é manobra militar reconhecida — há
+o caso de uma tribo que teve toda a correspondência obstruída e ficou sem saber que
+seria atacada; por isso, em campo de batalha, **manda-se o mensageiro em pessoa**;
+certos lugares inutilizam Gu de carta por construção; e, dentro de um lugar com fluxo de
+tempo diferente, **o aviso chega cronologicamente distorcido**.
+
+> [!note] Para o design
+> Três números desta seção fazem quase todo o trabalho numa mesa, e vale escrevê-los na
+> primeira página do manual:
+>
+> - **100 li (50 km)** é o "perto" do mundo — o loop de uma sessão inteira cabe dentro
+>   de uma montanha e suas vilas.
+> - **15 a 20 dias** é a distância entre duas montanhas vizinhas no patamar mortal. Ou
+>   seja: **não existe ir e voltar entre clãs na mesma sessão**, e uma ameaça anunciada
+>   com um mês de antecedência é jogável enquanto uma com três dias só é jogável para
+>   quem voa.
+> - **10 a 15 dias** é a região inteira para quem voa como imortal — duas ordens de
+>   grandeza de diferença, na mesma tabela.
+>
+> E a régua de escopo da campanha vem de 13.2 e 13.7 juntas: nenhuma campanha cobre uma
+> região, e o mundo é **mais permeável para os fracos do que para os fortes**, porque a
+> barreira regional pune o rank alto. Personagens de nível médio circulam entre regiões
+> com relativa facilidade; os monstros que os caçam, não.
+
+---
+
 ## Notas relacionadas
 
 - [[Aptidão|Graus de Aptidão]] · [[Abertura]] · [[Essência Primordial]] · [[Ranks e Avanço|Ranks e Estágios de Cultivo]]
 - [[Dao Marks]] · [[Attainment]] · [[Tribulações e Calamidades|Calamidades e Tribulações]]
 - [[Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[Essência Primordial|Essência Imortal]] · [[Visão Geral dos Veneráveis|Veneráveis]]
 - [[Refino de Gu]] · [[Glossário EN-PT]] · [[Catálogo de Gu]]
+- [[Escala, Distâncias e Viagem]] · [[As Cinco Regiões]] · [[Atlas das Cinco Regiões]] · [[Visão Geral do Mundo]]

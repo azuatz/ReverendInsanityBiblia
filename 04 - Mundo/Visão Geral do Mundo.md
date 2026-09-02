@@ -22,11 +22,11 @@ Imagine um mundo onde a magia não vem de feitiços nem de deuses, mas de **inse
 
 O mundo desses Mestres Gu tem três camadas que a designer precisa ter na cabeça desde o começo:
 
-1. **A camada geográfica.** Cinco regiões continentais — Continente Central, Planícies do Norte, Deserto Ocidental, Mar Oriental e Fronteira Sul —, separadas por barreiras invisíveis que enfraquecem quem as atravessa. Ver [[As Cinco Regiões]].
+1. **A camada geográfica.** Cinco regiões continentais — Continente Central, Planícies do Norte, Deserto Ocidental, Mar Oriental e Fronteira Sul —, separadas por barreiras invisíveis que enfraquecem quem as atravessa. Ver [[As Cinco Regiões]]. Quando a pergunta deixar de ser "como o mundo é dividido?" e virar "como é *estar* num destes lugares?", o terreno, o clima, os lugares com nome e os bichos de cada região estão reunidos em [[Atlas das Cinco Regiões]].
 
-   Vale parar na escala, porque ela é a coisa mais fácil de subestimar e a que mais muda o desenho de uma campanha. A obra dá o número: **a Fronteira Sul sozinha é sete a oito vezes maior que a superfície inteira da Terra** — e ela é a região *pequena*. Sobre o conjunto, o texto é ainda mais direto: um planeta Terra não se compara sequer a uma das cinco regiões. A consequência prática é que **nenhuma potência do mundo jamais mapeou a própria região**, o interior é permanentemente desconhecido, e qualquer coisa pode estar escondida a alguns dias de viagem de onde os personagens vivem sem que ninguém saiba.
-2. **A camada cosmológica.** Acima das cinco regiões existem **dois céus** habitáveis, restos de nove que existiam na aurora do mundo. Abaixo e ao redor de tudo corre o **Rio do Tempo**, que é literalmente a história do mundo em forma de correnteza navegável. Ver [[Cosmologia]].
-3. **A camada da lei.** O "céu" deste mundo não é uma divindade. É um princípio administrativo impessoal que tira dos que têm demais e devolve aos que têm de menos. Um cultivador poderoso não é abençoado: é um **desequilíbrio a ser corrigido**, e o mundo manda desastres proporcionais ao tamanho dele. Ver [[Vontade dos Céus]].
+   Vale parar na escala, porque ela é a coisa mais fácil de subestimar e a que mais muda o desenho de uma campanha. A obra dá o número: **a Fronteira Sul sozinha é sete a oito vezes maior que a superfície inteira da Terra** — e ela é a região *pequena*. Sobre o conjunto, o texto é ainda mais direto: um planeta Terra não se compara sequer a uma das cinco regiões. A consequência prática é que **nenhuma potência do mundo jamais mapeou a própria região**, o interior é permanentemente desconhecido, e qualquer coisa pode estar escondida a alguns dias de viagem de onde os personagens vivem sem que ninguém saiba. Traduzir essa imensidão em prazos, custos e meios de transporte concretos — quantos dias de caravana, a partir de que rank alguém voa, quando o correio chega — é o assunto de [[Escala, Distâncias e Viagem]].
+2. **A camada cosmológica.** Acima das cinco regiões existem **dois céus** habitáveis, restos de nove que existiam na aurora do mundo. Abaixo e ao redor de tudo corre o **Rio do Tempo**, que é literalmente a história do mundo em forma de correnteza navegável. Ver [[Cosmologia]]. Essa arquitetura não é só pano de fundo: cada andar dela tem lugares habitados, com nome e dono, e é possível ir até eles — o inventário desses destinos está em [[Lugares Fora das Cinco Regiões]].
+3. **A camada da lei.** O "céu" deste mundo não é uma divindade. É um princípio administrativo impessoal que tira dos que têm demais e devolve aos que têm de menos. Um cultivador poderoso não é abençoado: é um **desequilíbrio a ser corrigido**, e o mundo manda desastres proporcionais ao tamanho dele. Ver [[Vontade dos Céus]]. E como esse princípio equilibra sem julgar, o mundo fica sem instância que premie a virtude ou puna a crueldade: é dessa ausência, e do que os habitantes fazem com ela, que trata [[A Filosofia do Mundo]].
 
 A consequência dramática dessa terceira camada é o motor do cenário inteiro: **o poder atrai punição automática**. Ninguém sobe sem pagar em catástrofes, e os poucos que chegaram ao topo em toda a história — os dez Veneráveis, ver [[Visão Geral dos Veneráveis]] — deixaram o mundo permanentemente diferente ao passar.
 
@@ -81,8 +81,12 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 
 | Nota | O que cobre | Nível |
 |---|---|---|
+| [[A Filosofia do Mundo]] | **O tom**: a lei da selva como tese declarada, a ausência de justiça cósmica, o karma que não é justiça, o que as pessoas deste mundo querem da vida | comum |
 | [[As Cinco Regiões]] | Geografia, cultura e política de cada região; as barreiras regionais | comum |
+| [[Atlas das Cinco Regiões]] | **O mapa físico**: terreno, clima, lugares com nome, fauna, flora e o que se extrai do chão de cada região — a nota de consulta na hora de descrever um lugar | comum |
+| [[Escala, Distâncias e Viagem]] | O tamanho do mundo em números: a unidade de distância, quanto tempo leva ir de um lugar a outro, os meios de transporte de cada rank, o custo e o risco da estrada | comum |
 | [[Cosmologia]] | Os dois céus, os nove céus imemoriais, o Rio do Tempo, as Earth Trenches, a fronteira do mundo | especializado / segredo |
+| [[Lugares Fora das Cinco Regiões]] | O que existe fora do mapa oficial, tratado como endereços visitáveis: o interior dos dois céus, os mundos fragmentados, os trechos do Rio do Tempo, os domínios reclusos de céu e terra, o andar subterrâneo | especializado / segredo |
 | [[Vontade dos Céus]] | A lei impessoal × a vontade estratégica; quando o céu age e como se defender dele | segredo |
 | [[Fate Gu]] | O objeto que impõe destino; seu estado danificado; quem escapa dele | segredo |
 | [[Tribunal Celestial]] | A instituição suprema: formação, ingresso, exclusões, arsenal e projeto de longo prazo | especializado / segredo |
@@ -92,7 +96,15 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 | [[Viver Dentro da Abertura Imortal]] | Como é a vida *por dentro* de um mundo privado: moradores, economia doméstica, rotina | especializado |
 | [[As Duas Eras de um Mestre Gu]] | **Ambientação e escala**: o mundo mortal e o mundo imortal como dois cenários distintos; o patamar de poder das organizações; onde os imortais moram e o que fazem | misto |
 
-**Sugestão de ordem de leitura desta pasta.** Comece por [[As Duas Eras de um Mestre Gu]], que dá a escala e o tom de tudo o mais — é a nota que responde "como é este mundo no dia a dia?". Siga por [[As Cinco Regiões]] (o chão onde tudo acontece) e [[Bestas Gu e Reis Fera]] (o que se encontra nele, e de onde vem o dinheiro) — as duas são `comum` e bastam para jogar. [[Lendas de Ren Zu]] vem em seguida, porque é a lente com que os próprios personagens interpretam o mundo. Só então suba para as notas de imortal ([[Blessed Lands e Grotto-Heavens]] e [[Viver Dentro da Abertura Imortal]]) e, por último, para as três de segredo ([[Vontade dos Céus]], [[Fate Gu]], [[Cosmologia]]) mais [[Tribunal Celestial]].
+**Sugestão de ordem de leitura desta pasta.** A pasta cresceu e passou a ter quatro movimentos distintos; vale lê-la nessa ordem, porque cada um deles pressupõe o anterior.
+
+**1. O tom, antes das regras.** Comece por [[A Filosofia do Mundo]]. Ela não descreve nenhuma mecânica: descreve o que este mundo recompensa e o que ele ignora — e a mesma mecânica vira heroísmo ou tragédia dependendo dessa resposta. Ler as regras sem ela é o erro mais fácil de cometer aqui. Em seguida, [[As Duas Eras de um Mestre Gu]], que responde "como é este mundo no dia a dia?" e dá a escala de poder de tudo o mais.
+
+**2. O chão onde tudo acontece.** [[As Cinco Regiões]] explica *por que* o mundo é dividido em cinco caixas isoladas e o que cada uma é politicamente; [[Atlas das Cinco Regiões]] entra logo depois com o mapa físico, para quando você precisar dizer como é estar num lugar concreto; e [[Escala, Distâncias e Viagem]] dá a régua — quanto tempo, quanto dinheiro e quanto risco custa atravessar qualquer distância deste mapa. Feche o movimento com [[Bestas Gu e Reis Fera]], que é o que se encontra na estrada e de onde vem boa parte do dinheiro. As quatro são `comum` e, juntas, já bastam para rodar uma campanha inteira.
+
+**3. Como os personagens interpretam tudo isso.** [[Lendas de Ren Zu]] é a mitologia que os próprios habitantes do mundo usam como manual técnico — a lente deles, não a sua.
+
+**4. A camada de cima e os segredos.** Suba então para as notas de imortal ([[Blessed Lands e Grotto-Heavens]] e [[Viver Dentro da Abertura Imortal]]) e, por último, para as de segredo: [[Vontade dos Céus]], [[Fate Gu]], [[Cosmologia]] — com [[Lugares Fora das Cinco Regiões]] logo na sequência da cosmologia, porque transforma aquela estrutura abstrata em endereços que um grupo pode visitar — e [[Tribunal Celestial]].
 
 > [!info] Nomes dos Veneráveis aparecem em inglês
 > Ao longo desta pasta, as dez figuras históricas de rank 9 são citadas pelo nome em inglês

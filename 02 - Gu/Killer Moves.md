@@ -34,6 +34,12 @@ partes** — e é o teto de poder de qualquer indivíduo neste mundo.
 > Dois assuntos vizinhos moram em notas próprias: as **formações** estão em
 > [[Formações de Gu]], e os **golpes totêmicos** — a única forma de poder deste mundo que
 > não usa Gu — aparecem aqui em resumo, como uma das famílias.
+>
+> **Esta nota explica o sistema; ela não lista os golpes.** Os exemplos concretos que a obra
+> descreve — nome, caminho, componentes, efeito e custo, um a um — estão em dois apêndices
+> separados pelo patamar de poder: [[Catálogo de Golpes - Mortais]] para os golpes de ranks
+> 1 a 5 e [[Catálogo de Golpes - Imortais]] para os de ranks 6 a 9. Vale abrir o primeiro
+> assim que terminar a seção "As categorias", para ver as famílias com nome e cara.
 
 ## O que são
 
@@ -553,6 +559,8 @@ embalagens.
 
 ## Relações
 
+- [[Catálogo de Golpes - Mortais]] — os golpes de ranks 1 a 5 levantados da obra e agrupados por caminho de cultivo, com o que cada um faz e o que custa. É a nota para consultar quando você precisar de um golpe pronto para pôr na mão de um personagem.
+- [[Catálogo de Golpes - Imortais]] — o mesmo levantamento para os ranks 6 a 9, mais as três categorias que só existem lá em cima: golpes de campo de batalha, golpes ancorados num domínio recluso e golpes compostos.
 - [[O que é um Gu]] — a regra de um poder por bicho, que torna combinar obrigatório.
 - [[Gu Imortais]] — os núcleos dos golpes de topo, e por que são únicos.
 - [[Refino de Gu]] — a máxima "todo golpe é uma receita incompleta" e a arte de condensar.

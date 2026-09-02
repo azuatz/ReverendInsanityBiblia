@@ -155,9 +155,13 @@ Ordem sugerida de leitura desta pasta:
    utilizável em mesa.
 3. [[Mercados e Leilões]] — onde tudo isso se compra e se vende.
 4. [[Economia Imortal]] — a segunda economia, para campanhas de alto nível.
-5. [[Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
+5. [[Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
+   compra a maior parte dos Gu que gasta, ele os **cultiva** dentro do próprio mundo
+   privado. É a nota que explica por que a camada de cima é mais uma questão de fazenda e
+   de paciência do que de dinheiro.
+6. [[Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
    com estrutura de aventura.
-6. [[Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
+7. [[Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
    maioria das pessoas.
 
 ## Relações

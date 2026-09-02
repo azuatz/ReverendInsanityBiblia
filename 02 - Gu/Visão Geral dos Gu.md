@@ -184,6 +184,13 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 - [[Killer Moves]] — as combinações que multiplicam poder, e suas categorias.
 - [[Gu Vital]] — o Gu ligado à vida do Mestre.
 
+As notas acima explicam **como o sistema funciona**. Quando a pergunta virar "e o que existe,
+concretamente?", a resposta está nos apêndices: [[Catálogo de Gu]] lista os bichos
+documentados, [[Catálogo de Receitas]] reúne o que a obra conta sobre como cada um é
+fabricado e as cadeias de evolução que ligam um ao seguinte, e os golpes prontos estão
+separados por patamar em [[Catálogo de Golpes - Mortais]] (ranks 1 a 5) e
+[[Catálogo de Golpes - Imortais]] (ranks 6 a 9).
+
 ## Relações
 
 - [[Visão Geral dos Paths]] — como os Gu se organizam em famílias temáticas de cultivo.

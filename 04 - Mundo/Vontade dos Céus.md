@@ -39,6 +39,8 @@ O caminho dos homens é acumular onde já há excesso e tirar de quem já tem po
 
 **Corolário importante:** desastre e sorte não são castigo e recompensa. São a mesma ferramenta apontada em direções opostas. Um personagem azarado não foi punido; ele estava com excedente. Um personagem sortudo não foi abençoado; ele estava em déficit.
 
+É desse corolário que sai a característica mais marcante do cenário: como a única força de escala cósmica aqui contabiliza quantidades e não méritos, **não existe instância nenhuma no universo encarregada de premiar quem age bem**. A moral não desaparece por isso — ela apenas deixa de ser lei da natureza e passa a ser invenção humana, com todas as consequências que isso traz para o tom de uma mesa. Essa leitura, e o que os habitantes do mundo fazem com ela, estão em [[A Filosofia do Mundo]].
+
 ## Como o céu age
 
 `conhecimento: segredo`

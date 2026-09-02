@@ -204,6 +204,12 @@ Como as receitas são guardadas, na prática:
   a receita permanentemente na mente de quem a usou. Conhecimento que não pode ser roubado
   de um cofre, porque não está num cofre.
 
+O conteúdo desses cofres, na medida em que a obra o revela, está reunido em
+[[Catálogo de Receitas]]: as receitas nomeadas, as linhagens que pertencem a um clã
+específico, as cadeias de evolução que dizem em que um Gu pode ser transformado e a lista
+das receitas que existem apenas como rumor. É de lá que se tira o tesouro concreto quando
+uma campanha precisar de um.
+
 ### Inovação de receita
 
 `conhecimento: especializado`
@@ -263,3 +269,4 @@ receita mortal separada para ninguém deduzir**. O produto circula; o método n�
 - [[Gu Vital]] — o único componente que sobrevive a uma fusão fracassada.
 - [[Gu Imortais]] — por que a regra de unicidade restringe fusões no topo.
 - [[Catálogo de Gu]] — as árvores de evolução documentadas.
+- [[Catálogo de Receitas]] — as receitas em si: materiais, passos, donos e as cadeias que ligam um Gu ao seguinte.

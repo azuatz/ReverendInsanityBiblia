@@ -35,6 +35,11 @@ mundo particular que não aparece em mapa nenhum, sob leis que ele escreve sozin
 >
 > A instituição chamada Tribunal Celestial está em [[Tribunal Celestial]] e sua política em
 > [[Tribunal Celestial e Grandes Forças]]. Aqui trata-se apenas de **como se vive lá dentro**.
+>
+> E a **geografia** deste andar do mundo — o interior dos dois céus, os mundos-fragmento, os
+> trechos do Rio do Tempo, os domínios reclusos de céu e terra, o abismo subterrâneo — está
+> em [[Lugares Fora das Cinco Regiões]], que lista os lugares um a um. **Aquela nota diz onde
+> ficam esses endereços; esta diz quem mora neles.**
 
 > [!warning] Convenção de confiabilidade desta nota
 > - **Texto simples** = a obra afirma.

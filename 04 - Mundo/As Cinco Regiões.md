@@ -73,6 +73,8 @@ frase.
 
 ## As cinco regiões
 
+Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cada região — quem manda, o que ela produz, com que humor as pessoas de lá encaram o mundo. O nível físico fica em [[Atlas das Cinco Regiões]], que percorre região por região o terreno, o clima, os lugares que têm nome, os bichos que se encontram e o que se extrai do chão. Use este aqui para decidir *onde* ambientar; use o atlas na hora de descrever.
+
 ### Continente Central
 
 **Geografia e caráter.** A maior e mais rica das cinco. A energia ambiente é a mais densa do mundo, o que significa que um cultivador nascido ali avança mais rápido e mais longe do que um nascido em qualquer outro lugar, com o mesmo esforço. É o centro civilizacional: onde estão as bibliotecas, as academias de refino e a maior cidade mortal do mundo.
@@ -187,6 +189,9 @@ descreve o **mundo dividido** — se você adotar o mundo unificado, substitua a
 
 ## Relações
 
+- [[Atlas das Cinco Regiões]] — o mesmo mapa em nível de chão: paisagem, clima, lugares com nome, fauna e recursos de cada uma das cinco.
+- [[Lugares Fora das Cinco Regiões]] — o resto do mundo. "Cinco regiões" é o mapa habitado, não o mapa completo: acima, abaixo e por dentro dele há territórios maiores que as próprias regiões, e vários deles não obedecem à penalidade de rank descrita aqui.
+- [[Escala, Distâncias e Viagem]] — quanto tempo e quanto dinheiro custa cruzar uma dessas regiões, e como se atravessa uma parede na prática.
 - [[Cosmologia]] — os dois céus por cima das cinco regiões, as veias de céu, terra e humanos, e as marés de qi.
 - [[Blessed Lands e Grotto-Heavens]] — os mundos privados que os imortais carregam, independentes da geografia regional.
 - [[Tribunal Celestial]] — a instituição do Continente Central cujo alcance é limitado justamente pelas paredes regionais.

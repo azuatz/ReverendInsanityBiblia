@@ -91,7 +91,7 @@ O Rio do Tempo é, ao mesmo tempo, a estrutura metafísica do tempo e um **lugar
 - **A inércia histórica.** Grandes eventos que nasceram de conflitos acumulados **se repetem por gatilhos alternativos**. Você pode impedir a faísca; não impede o incêndio. Esta é, de longe, a regra mais útil da nota para uma mesa: dá ao mestre licença para preservar a estrutura de uma campanha mesmo quando os jogadores desmontam o plano.
 - **A distância do salto escala com o poder.** Quanto mais forte o viajante no momento da autodestruição, mais longe ele chega; um viajante fraco demais corre o risco de se perder no rio, o que é morte permanente. Uma tentativa fracassada e resgatada de fora produz um salto curtíssimo e incontrolado — ordens de magnitude menor que o esperado.
 
-**O rio como território.** O Rio do Tempo é formalmente um *domínio recluso de céu e terra*: uma região do mundo saturada com as marcas de dao de uma única disciplina. Nele vivem e se reproduzem incontáveis Gu do caminho do tempo, e certas feras antiquíssimas nadam fisicamente nele. Heranças foram escondidas lá dentro. É o tipo de lugar que, num RPG, funciona como uma masmorra que só três pessoas no mundo conseguem visitar.
+**O rio como território.** O Rio do Tempo é formalmente um *domínio recluso de céu e terra*: uma região do mundo saturada com as marcas de dao de uma única disciplina. Nele vivem e se reproduzem incontáveis Gu do caminho do tempo, e certas feras antiquíssimas nadam fisicamente nele. Heranças foram escondidas lá dentro. É o tipo de lugar que, num RPG, funciona como uma masmorra que só três pessoas no mundo conseguem visitar. E ele não é o único da espécie: existe uma lista fechada desses domínios, um por caminho de cultivo, e a descrição de cada um — inclusive dos trechos navegáveis do próprio rio — está em [[Lugares Fora das Cinco Regiões]].
 
 Uma nota estrutural elegante: **todo mundo privado de um imortal possui um afluente do Rio do Tempo**. É isso que permite ao tempo correr dentro de um mundo pequeno, e é manipulando esse afluente que se altera a velocidade do tempo lá dentro. Ver [[Blessed Lands e Grotto-Heavens]].
 
@@ -186,6 +186,7 @@ Isso explica, retroativamente, um dos fenômenos mais desconcertantes do cenári
 
 ## Relações
 
+- [[Lugares Fora das Cinco Regiões]] — esta nota explica a **arquitetura**; aquela lista os **endereços** que cabem dentro dela, com quem mora em cada um e como se chega lá. Leia as duas em sequência.
 - [[Vontade dos Céus]] — a lei e a agência que operam dentro desta cosmologia.
 - [[Fate Gu]] — o objeto de rank supremo que impõe destino, e que só quem vem de fora do mundo consegue ferir.
 - [[Blessed Lands e Grotto-Heavens]] — os mundos privados, que reproduzem em miniatura toda a estrutura descrita aqui.

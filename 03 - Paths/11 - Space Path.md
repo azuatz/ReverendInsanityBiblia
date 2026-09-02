@@ -4,7 +4,7 @@ tags:
 aliases:
   - Space Path
 status: consolidado
-fontes: ["cap. 383", "cap. 397", "cap. 398", "cap. 399", "cap. 757", "cap. 1027", "cap. 1089", "cap. 2118"]
+fontes: ["cap. 383", "cap. 397", "cap. 398", "cap. 399", "cap. 667", "cap. 673", "cap. 699", "cap. 700", "cap. 701", "cap. 702", "cap. 710", "cap. 757", "cap. 784", "cap. 785", "cap. 787", "cap. 788", "cap. 789", "cap. 792", "cap. 809", "cap. 821", "cap. 924", "cap. 986", "cap. 1027", "cap. 1028", "cap. 1058", "cap. 1089", "cap. 1585", "cap. 1662", "cap. 1909", "cap. 1939", "cap. 2118"]
 conhecimento: comum
 ---
 
@@ -100,6 +100,186 @@ A arquitetura documentada de uma rede de teleporte é interessante como modelo: 
 **principal** dentro do território seguro, e formações **secundárias** espalhadas pelo mundo
 externo, com o elo dependendo de um Gu Imortal específico que funciona como **chave**. Perder
 a chave desliga a rede inteira.
+
+## A camada escondida
+
+Espaço parece ser o caminho do teleporte. Teleporte é a parte visível — e é, na verdade, a
+menos importante. Debaixo dela existe um conjunto de funções que a descrição básica não sugere:
+**guardar**, **dobrar**, **prender**, **fabricar lugar** e **atravessar a maior barreira
+geográfica do mundo**. Vamos por partes.
+
+> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
+> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
+> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
+
+### 1. Espaço é o que faz a abertura imortal ser grande
+
+`conhecimento: especializado`
+
+Este é o fato mais importante e o menos óbvio do caminho, e ele afeta **todo cultivador
+imortal do mundo**, cultive espaço ou não.
+
+Todo imortal carrega dentro de si uma [[09 - Blessed Lands e Grotto-Heavens|abertura imortal]] — um
+mundo de bolso onde ele mora, cria bichos, planta recursos e guarda tudo. E o tamanho desse
+mundo não é arbitrário:
+
+> **Quanto maior a abertura, mais marcas do Dao do espaço ela tem** — e é justamente por ter
+> mais marcas de espaço que ela é maior, produz mais e comporta mais.
+
+A obra fecha o círculo com um detalhe encantador: numa abertura com **poucas** marcas do Dao do
+espaço, a área é pequena **e o espírito da terra não consegue teleportar** lá dentro. Numa com
+muitas, ele teleporta à vontade. As leis do mundinho de bolso são literalmente feitas de marcas.
+
+E isso cria o gargalo econômico que a obra descreve como universal: cultivadores imortais
+**vivem sem espaço suficiente**. Os grupos de bestas crescem demais e precisam ser vendidos, os
+humanos variantes se reproduzem demais, as plantações renderiam mais se pudessem se espalhar —
+e tudo isso esbarra no mesmo teto. Por isso existe um Gu Imortal cuja função é **aumentar o
+número de marcas do Dao do espaço dentro da abertura**, e por isso o texto o classifica com
+precisão: é *cobertura de bolo*, uma melhoria marginal sobre um tamanho que foi determinado por
+outra coisa.
+
+> [!note] Para o design
+> Aqui está uma economia de campanha inteira numa regra: **o inventário do grupo é um lugar, o
+> lugar tem tamanho, e o tamanho é uma estatística que se pode aumentar.** Todo excedente vira
+> uma decisão — vender, abater ou investir em mais espaço. É a maneira mais elegante de fazer
+> riqueza pesar sem contar moedas.
+
+Um corolário que vale como gancho: existe uma besta cuja **bolsa estomacal é meia abertura
+imortal**, com marcas de espaço e de água e um pequeno mundo dentro. Um imortal que a obtenha
+pode **fundi-la à própria abertura** e ganhar tamanho. A espécie foi caçada quase até o fim por
+causa disso. **Espaço é um recurso que se colhe de bichos.**
+
+### 2. Espaço acumulado fabrica lugares — e bichos
+
+`conhecimento: segredo`
+
+Se marcas do Dao do espaço se acumulam num ponto, esse ponto deixa de se comportar como espaço
+comum. A obra dá três demonstrações, e elas escalam.
+
+**Primeira: espaço acumulado vira arquitetura.** O cadáver de uma fera desolada imemorial do
+caminho do espaço, coberta de incontáveis marcas do Dao do espaço, **construiu sozinho** ao seu
+redor uma paisagem de salões ilusórios: qualquer um que entrasse no alcance era **arrastado para
+dentro dos salões**, e só um imortal de nível 8 conseguia resistir a essa tração. Sobre o
+esqueleto dela, marcas do Dao do espaço extremamente densas se entrelaçavam e **conjuravam um
+pequeno espaço** com um salão em ruínas dentro. Ninguém construiu nada; as marcas fizeram.
+
+**Segunda: espaço acumulado dobra distância.** Um estrategista pegou esse mesmo cadáver e
+**deslocou a maior parte das marcas do Dao do espaço para um salão específico**. O resultado:
+duas pessoas separadas por *algumas dezenas de passos* estavam, na verdade, a uma distância
+gigantesca uma da outra. A distância aparente e a distância real deixaram de coincidir — e isso
+levou **décadas** de trabalho para ser montado.
+
+**Terceira: espaço acumulado gera criaturas.** Este é o achado mais elegante, e é o paralelo
+exato do que acontece no [[04 - Strength Path|caminho da força]]: lugares com **muitas** marcas
+do Dao do espaço produzem **feras fantasma**, que normalmente são raras. Um exército inteiro
+delas apareceu num lugar assim. Uma fera fantasma de nível 6, só por conseguir virar fantasma,
+incomoda um imortal de nível 7.
+
+Ou seja: **o espaço acumulado tem uma fauna própria**, e ela emerge sozinha onde as marcas se
+concentram. Ver [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
+[[26 - Phantom Path|Phantom Path]].
+
+Vale registrar a contramedida, porque ela é o exemplo canônico do conflito entre estes dois
+caminhos: seis mãos gigantes do caminho da força **esmagaram as marcas do Dao do espaço
+incrustadas no ar**, e o arranjo de décadas desmoronou de uma vez. Força quebra espaço. E não
+só a força: tribulações celestiais também **limpam** marcas de espaço de uma região — as que
+cobriam aquele cadáver foram quase todas varridas por raios.
+
+### 3. Atravessar as paredes regionais: o que o caminho realmente compra
+
+`conhecimento: comum`
+
+O mundo é dividido em cinco regiões, e entre elas há **paredes regionais** — membranas de luz
+sólida que ligam céu e chão e isolam cada região das outras. Elas são a maior barreira
+geográfica do mundo, e a obra é precisa sobre como funcionam:
+
+- **Quanto mais alto o nível do cultivador, mais difícil atravessar.** A parede empurra os
+  fortes com mais força que os fracos.
+- Um imortal preso do lado errado tem um problema adicional e permanente: de tempos em tempos
+  ele precisa **abrir a própria abertura na região onde se tornou imortal**, para recolher o qi
+  de céu e terra que estabiliza a terra abençoada. Estar fora dela não é só inconveniente — é
+  degradação lenta.
+
+Atravessar sem métodos de espaço é uma operação militar, e a obra descreve uma inteira:
+
+1. Uma equipe de imortais **procurou cerca de mil pontos** até achar três lugares onde a parede
+   estava mais fina, e escolheu o mais estável dos três.
+2. Um golpe imortal de dois usuários abriu uma passagem de **setenta e seis passos** de
+   profundidade.
+3. Ao entrarem, **o corpo pesou, o pensamento ficou lento e a abertura imortal de cada um
+   começou a tremer**.
+4. Enquanto caminhavam, **a parede já estava se fechando**: os setenta e seis passos viraram
+   setenta e quatro no tempo de andar por eles.
+5. Cada imortal do grupo teve de gastar, na sua vez, um Gu Imortal ou um golpe imortal para
+   abrir mais sessenta a setenta passos. Quanto mais fundo, maior a pressão, e uma **força
+   gigantesca puxava todos para trás**, como se o mundo não quisesse deixá-los sair.
+6. O pensamento desacelerava tanto que ativar golpes ficava extremamente difícil — inclusive
+   para o especialista em dedução do grupo.
+
+Agora compare: **um único Gu Imortal de teleporte fixo ignora tudo isso.** A obra diz
+literalmente que quem o tem *pode ignorar as paredes regionais* e resolver o problema da
+abertura com facilidade.
+
+É aqui que o valor do caminho fica visível. O que o caminho do espaço compra não é
+conveniência de deslocamento: é **isenção da regra mais cara da geografia do mundo**. Um
+imortal com teleporte fixo joga num mapa de cinco regiões; todos os outros jogam numa só.
+
+> [!note] Para o design
+> Guarde a cena da travessia: **uma barreira que se regenera enquanto você a atravessa**, que
+> fica mais pesada quanto mais fundo você vai, e que cobra um recurso caro de cada membro do
+> grupo por vez. É uma sequência de aventura completa, com relógio, custo distribuído e risco de
+> ficar preso no meio.
+
+### 4. Marcas de espaço de outro mundo
+
+`conhecimento: segredo`
+
+Um detalhe cosmológico que só aparece uma vez, e que vale muito como material de mestre.
+
+Um dos Veneráveis do mundo **não era nativo dele**. A teoria que a obra registra é que, quando
+esse ser se tornou imortal do caminho do espaço, produziu um **tipo especial de marca do Dao do
+espaço**: marcas *originadas de outro mundo*, estranhas às cinco regiões e aos nove céus.
+
+A consequência prática: as heranças que ele deixou estão guardadas em espaços que **parecem
+comuns mas já transcenderam o mundo dos Gu** — não estão dentro das cinco regiões nem dos nove
+céus. Um Venerável de nível 9 tentou tomar uma dessas heranças e **voltou de mãos vazias**,
+tendo saído prejudicado, sem conseguir fazer nada a respeito.
+
+Detalhe operacional que fecha a ideia: quem **não** conhece a herança fica preso lá dentro
+tentando investigar; quem conhece o procedimento correto simplesmente **não se mexe**, e é
+expelido em quinze minutos. É um cofre que se abre com etiqueta, não com força.
+
+> [!note] Para o design
+> **Um lugar que não está no mapa porque não está no mundo** é o esconderijo perfeito: não pode
+> ser invadido nem pelo ser mais forte do cenário, e a chave não é poder, é conhecimento do
+> protocolo. Guarde para o segredo que precisa sobreviver a qualquer grupo.
+
+### O que procuramos e não encontramos
+
+- **`—` A obra não enuncia um "significado verdadeiro do caminho do espaço"**, nem uma tese
+  filosófica da escola. Procuramos as duas formulações no texto e nenhuma aparece — coerente
+  com o caminho não ter fundador: ninguém o escreveu, ele apenas é.
+- **`—` Não há fundador nomeado.** Procuramos as fórmulas que a obra usa para creditar criadores
+  de caminhos; nenhuma aponta para o espaço.
+- **`—` Fora a deformação corporal do Gu de teleporte mortal, a obra não descreve nenhuma outra
+  alteração permanente no corpo de quem cultiva espaço.**
+
+## Progressão por rank
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Níveis 1–4** | Troca de posição e perfurações curtas. A troca de posição merece destaque: é barata, é de nível baixo, e é uma das ferramentas de assassinato e de fuga mais eficazes do mundo mortal, porque **converte a vantagem de posição do inimigo em desvantagem instantânea** |
+| **Nível 5** | Teleporte corporal de verdade — e a primeira conta a pagar, a **deformação física cumulativa**. Aqui também entram os portais fixos em pares e o espaço isolado de duelo, que arranca dois combatentes do mundo até a questão se resolver |
+| **Nível 6** | Teleporte global a destino escolhido, **atravessando paredes regionais**. É o degrau que muda a escala do jogo do personagem: ele passa a operar em cinco regiões |
+| **Nível 7** | Movimentação imortal de assinatura e **supressão dedicada**: um Gu cuja única função é congelar o poder do caminho do espaço numa área ampla. O caminho produz o próprio contra |
+| **Nível 8** | `—` A obra não descreve um Gu de espaço declaradamente de nível 8 com efeito próprio. O que ela mostra nessa faixa são **usos**: reformatar paisagens com marcas de espaço, e dobrar distância dentro de um recinto |
+| **Nível 9** | A camada cosmológica: marcas de espaço capazes de deixar um recinto **fora das cinco regiões e dos nove céus** |
+
+Como o caminho não tem fundador nem herança canônica única, seu [[06 - Attainment|domínio]] é
+adquirido do jeito comum — e a obra registra o efeito de faltar domínio nele com clareza: um
+cultivador com **domínio baixo em espaço** não conseguiu deduzir nada de útil sobre uma
+adversária que cultivava espaço, **mesmo tendo domínio altíssimo em dedução**. Sem base no
+caminho certo, a dedução não acontece.
 
 ## Gu representativos
 

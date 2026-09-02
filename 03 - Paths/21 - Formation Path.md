@@ -6,7 +6,7 @@ aliases:
   - Caminho das formações
   - Gu formation
 status: consolidado
-fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 818", "cap. 837", "cap. 871-874", "cap. 878", "cap. 882-885", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 979", "cap. 1004-1008", "cap. 1020", "cap. 1089", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316"]
+fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 818", "cap. 837", "cap. 871-874", "cap. 878", "cap. 882-885", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 979", "cap. 1004-1008", "cap. 1020", "cap. 1089", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316", "cap. 771", "cap. 818", "cap. 848", "cap. 872", "cap. 884", "cap. 905", "cap. 942", "cap. 943", "cap. 971", "cap. 980", "cap. 1003", "cap. 1030", "cap. 1038", "cap. 1067", "cap. 1069", "cap. 1070", "cap. 1090", "cap. 1119", "cap. 1333"]
 conhecimento: comum
 ---
 
@@ -105,6 +105,107 @@ estrutural:
 
 Ao contrário do [[20 - Qi Path|caminho do qi]], **o caminho das formações nunca entra em
 declínio**. Ele é perenemente raro e perenemente valioso, do começo ao fim da linha do tempo.
+
+## A camada escondida
+
+O caminho das formações é o único da pasta cuja camada escondida é uma **ausência**. Procuramos
+o fenômeno que emerge do acúmulo de marcas do Dao — o equivalente aos fantasmas de besta do
+[[04 - Strength Path|caminho da força]] — e ele não existe. O que existe no lugar é melhor, e
+explica o caminho inteiro.
+
+### A ausência: não existem marcas do Dao de formação
+
+> [!warning] Verificado por busca direta no texto-fonte
+> A expressão "marcas do Dao do caminho das formações" **não aparece uma única vez na obra
+> inteira**. Zero ocorrências nos seis volumes. Isso não é falha de pesquisa: é a arquitetura.
+
+Compare com os vizinhos. A obra fala à exaustão de marcas de transformação, de qi, de sorte,
+de informação, de alma, de espada, de tempo, de neve; mede aberturas contando quantas marcas de
+cada caminho elas têm; descreve terrenos definidos pelas marcas que os saturam. De formação,
+nunca. E as consequências são todas verificáveis no texto:
+
+- **O caminho das formações não acumula marca própria: ele opera sobre a marca dos outros.** Um
+  grão-mestre monta formações imortais usando as marcas dentro de **materiais imortais**, que se
+  consomem; um grande grão-mestre monta usando as **marcas naturais do próprio terreno**, sem
+  gastar material nem Gu Imortal.
+- **Por isso a tabela de Gu do caminho é curta** e feita de contêineres, não de efeitos.
+- **E por isso ele não tem domínio recluso de céu e terra próprio.** A lista canônica desses
+  domínios cobre tempo, espaço, qi, regra, informação e alma. Formação não aparece — e agora
+  sabe-se por quê: não há substância de formação para saturar um lugar. (ded.)
+- **E por isso não há "promoção mística" de formação.** Em outros caminhos, acumular marcas o
+  bastante dá uma faculdade inata que funciona sem Gu nenhum: o refino sente minúcias, o fogo
+  fareja Gu de fogo, a sabedoria deduz sem instrumento, a sorte enxerga a própria sorte. O
+  caminho das formações **não tem essa entrada na lista** — `—`, e coerente com o resto. (ded.)
+
+O que sobra é a definição mais limpa possível do que este caminho é: ==uma gramática, não um
+vocabulário==. Ele não tem palavras próprias; ele tem a regra de como as palavras dos outros se
+combinam num lugar.
+
+### Os três construtos que todo mundo confunde
+
+Esta é a distinção que a obra faz e que quase nenhum resumo reproduz. São **três coisas
+diferentes**, e só a primeira pertence exclusivamente ao caminho das formações.
+
+| | **Formação Gu** | **Formação de batalha antiga** | **Golpe de campo de batalha** |
+|---|---|---|---|
+| **O que é** | Um arranjo de muitos Gu montado sobre um lugar. É um golpe assassino do caminho das formações | Uma formação em que **várias pessoas viram uma só**: almas somadas, essência imortal intercambiável, pensamento comunicado livremente | Um golpe que **cria um ambiente** amplificando certos Gu e restringindo os demais |
+| **De quem é** | Do caminho das formações | Do caminho das formações — é seu antigo pináculo | **De qualquer caminho.** Há campos de sangue, de alma, de rocha, de informação, de qi |
+| **Núcleo** | Núcleos de formação — construções físicas espalhadas pelo terreno. Destruí-los derruba tudo | **As pessoas.** Cada uma continua usando os próprios golpes lá dentro | Os Gu Imortais do golpe: no nível imortal, **no mínimo três**, conectados entre si |
+| **O que custa montar** | Materiais imortais (grão-mestre) ou nada além do terreno (grande grão-mestre); **erro de montagem fere ou destrói os Gu, e no caso grave o próprio Mestre** | **Treino conjunto prévio e homogeneidade**: funciona melhor se todos forem do mesmo caminho, e os membros fracos travam os fortes — "dois punhos lutando com três dedos". Algumas exigem todos a menos de três metros | Essência imortal e Gu Imortais dedicados. Alguns custam a posse: para escapar do próprio campo, houve quem **abandonasse os Gu Imortais** que o sustentavam |
+| **O que custa quebrar** | Domínio de formação, ou dedução do [[12 - Wisdom Path\|caminho da sabedoria]]. A força bruta funciona, mas **fere o atacante e queima uma fortuna em essência imortal** | Dano à formação **reflete nos participantes**: quando ela é danificada, os ferimentos aparecem neles | Dedução. Sem um especialista em sabedoria no grupo, o preço é tempo: há registro de imortais derretendo **mais de trinta contas de essência imortal em uma hora** sem sair do lugar |
+| **O que custa ao lugar** | Menos — a formação se apoia nas marcas que já existem ali | **Pouco**: a obra afirma que as marcas de uma formação de batalha antiga são **muito menos danosas** ao território do que as de um golpe de campo de batalha | **Muito.** Golpes de campo replicam temporariamente incontáveis marcas do Dao, e essas marcas **danificam o lugar** — a ponto de um guardião de território se recusar a usar um em casa |
+| **Flexibilidade** | Fixa. A esmagadora maioria não pode ser movida depois de montada | **Alta**: muda de forma conforme o golpe usado por quem está dentro | Média: fecha o cenário e costuma **bloquear pedidos de reforço** por Gu de informação |
+
+Três consequências que valem ouro numa mesa:
+
+1. **Golpe de campo de batalha tem outro nome: "quase-terra-abençoada".** Ele replica
+   temporariamente marcas do Dao suficientes para criar um ambiente próprio. Dentro dele, Gu
+   mortais voltam a funcionar — o que favorece o invasor, não o dono.
+2. **A formação de batalha antiga é o oposto exato da Casa de Gu Imortal.** A Casa tem métodos
+   **fixos** desde que foi criada e **não exige nada dos tripulantes** — nem caminho, nem nível
+   de cultivo. A formação de batalha antiga não exige quase nenhum requisito de nível, mas
+   **exige entrosamento**, e em troca muda de capacidade conforme quem está dentro. Uma é uma
+   máquina; a outra é um time.
+3. **E a obra registra o veredicto honesto sobre a tecnologia mais nova:** as formações de
+   batalha antigas "foram consideradas ultrapassadas depois do surgimento de incontáveis Casas,
+   mas os fatos mostram que ainda têm muitas vantagens". Quatro imortais de nível 7 dentro de
+   uma delas lutam como um nível 8.
+
+### O andar de cima: a super formação Gu
+
+Existe um patamar acima da formação comum que a obra chama simplesmente de **super formação
+Gu**, e o exemplar mais bem descrito é assustador de tão completo. Uma única formação:
+
+- **esconde quem está dentro da vontade do céu**;
+- **impede a dedução** de imortais do caminho da sabedoria — e, quando um grande perito insiste,
+  ela ativa sozinha uma **defesa automática** e passa a "trabalhar demais", rachando sob a
+  pressão até o dono investir atenção e essência imortal nela, o que multiplica por mais de dez
+  a força dela;
+- tem **ofensa e defesa** próprias;
+- **auxilia refinos de Gu**;
+- **impede o uso de Gu de comunicação** para alcançar o mercado imortal de fora;
+- e se **alimenta das almas** das feras que mata, ficando mais forte a cada ataque que sofre.
+
+Ela também é a ferramenta canônica para **remover marcas do Dao alheias** de um corpo — foi com
+uma super formação que se apagaram as marcas de um juramento do
+[[22 - Information Path|caminho da informação]] gravadas em corpo e alma. Repare no detalhe que
+transforma isso numa regra do mundo: a formação usada para isso **era do caminho da luz**, não
+do da informação. Formação suficiente compra o efeito de qualquer caminho.
+
+### O que o caminho vira no topo
+
+- **Ele deixa de comprar tijolos e passa a ser dono da pedreira.** O grão-mestre gasta uma
+  fortuna em materiais imortais toda vez que monta; o grande grão-mestre usa as marcas do
+  terreno e, em lugares de marcas abundantes, **Gu mortais bastam para erguer uma formação
+  imortal**. Subir esse degrau **troca a moeda** do caminho.
+- **Ele passa a imitar os outros caminhos.** Domínio profundo o bastante permite imitar efeitos
+  alheios usando Gu do próprio caminho — há um grande grão-mestre solitário que imita os cinco
+  caminhos elementais sozinho.
+- **Ele monta formação dentro da formação do inimigo.**
+- **E ele constrói mundos.** Formação e Casa de Gu Imortal são um **contínuo**: uma formação
+  suficientemente boa fica "a um passo" de virar uma Casa — que é simultaneamente golpe
+  assassino imortal e formação imortal **móvel**, sem fraqueza clara, e cujo refino exige no
+  mínimo nível 8 de cultivo. Ver [[08 - Formações de Gu|Formações de Gu]].
 
 ## Mecânicas típicas
 
@@ -313,6 +414,49 @@ o que anuncia ao mundo que alguém virou grão-mestre.**
 > chegar ao mesmo degrau. É a demonstração mais crua do valor dos sonhos de mestres mortos —
 > e da injustiça estrutural que eles introduzem no mundo.
 
+## Progressão por rank
+
+Este é o caminho onde a escada de **rank de cultivo** importa menos que em qualquer outro, e a
+obra diz por quê: o que decide aqui é o **degrau de domínio**, detalhado na seção anterior. Um
+imortal de nível 8 especializado em formação pode não satisfazer um requisito que um imortal de
+nível mais baixo, com sabedoria forte, satisfaz. Ainda assim, há marcos claros por faixa.
+
+| Faixa | O que o caminho entrega |
+|---|---|
+| **Mortal (ranks 1–5)** | Formações Gu mortais, montadas com Gu mortais. Elas funcionam de verdade: dentro de um golpe de campo de batalha, **Gu mortais voltam a operar**, e em terreno de marcas abundantes um grande grão-mestre ergue uma formação **imortal** usando só Gu mortais. Um Mestre Gu de nível 3 com talento pode superar cultivadores de nível 5 na criação de formações — este é um caminho onde a cabeça vence o nível |
+| **Rank 6** | A faixa das ferramentas: a placa de formação, que **monta sozinha** uma formação e **dispensa domínio nenhum** do usuário. Limite declarado: usar uma placa de nível 6 para montar formação de nível 7 **falha com frequência** |
+| **Rank 7** | A faixa das formações imortais completas e das Casas de Gu Imortal operadas em grupo. Quatro imortais de nível 7 dentro de uma formação de batalha antiga de terceira colocação histórica lutam **como um nível 8** |
+| **Rank 8** | O piso para **refinar** uma Casa de Gu Imortal: exige no mínimo nível 8 de cultivo. O nível da Casa acompanha o maior Gu Imortal dentro dela |
+| **Rank 9** | A obra mostra uma Venerável criando uma formação de nível 9 — e registra que, **por não ser uma Venerável de formação**, ela teve de gastar um número imenso de pensamentos para isso, apesar de ser "mais formidável que a maioria dos experts de nível 8 em formação". Especialização ainda importa no topo |
+
+**A métrica que o caminho realmente usa é outra: camadas.** Uma formação de **doze camadas**
+fez de seu autor o número um reconhecido de uma região inteira; uma de **trinta camadas**
+indica grande grão-mestre, talvez grão-mestre supremo. Contar camadas é como o mundo lê a
+qualidade de um projetista.
+
+### Gu e golpes de assinatura, com o mecanismo
+
+O caminho não tem Gu temáticos ("Gu que ergue muralha" não existe). Os Gu dele são
+**ferramentas de meta-nível**, e o mecanismo de cada uma é o que interessa:
+
+- **Placa de formação** — monta sozinha uma formação com qualquer tipo de Gu; o usuário só
+  fornece essência imortal. Guarda **uma** formação por vez, e regravar apaga a anterior. E há
+  a trava que preserva o valor dos especialistas: **observar a placa trabalhando não ensina o
+  caminho** — muitos detalhes ficam ocultos.
+- **Bandeira de formação** — guarda uma formação **já montada** dentro de si, permite
+  teleportar com ela e remontá-la noutro lugar. É a resposta direta à fraqueza-mestra do
+  caminho, que é a imobilidade.
+- **Carta de formação** — consumível que registra a informação de uma formação; mesmo efeito da
+  placa, com margem de erro **muito menor**.
+- **Espírito de formação** — gera um espírito senciente que administra a formação, conversa,
+  escolhe herdeiro e chega a **remontá-la sozinho** depois de ela se despedaçar.
+- **A porta dos fundos** — não é um Gu, é uma prática. Um grande grão-mestre deixa
+  *backdoors* secretas numa formação encomendada por terceiros, contando com a ignorância do
+  cliente: quem não entende de formações **não consegue auditar a formação que comprou**.
+- **A formação-prova** — heranças guardadas atrás de formações que selecionam herdeiro. A mais
+  bonita premiava tanto quem tivesse domínio profundo quanto quem, com domínio baixo,
+  **soubesse a hora de recuar**: "o único caminho para a frente é para trás".
+
 ## A cultura acadêmica do caminho
 
 Vale uma seção própria, porque nenhum outro caminho tem isto: **o caminho das formações tem uma
@@ -398,6 +542,13 @@ formação do mundo.
   mais inclusivos".
 - Se o caminho das formações tem um **domínio recluso de céu e terra** próprio. A lista canônica
   desses domínios cobre tempo, espaço, qi, regra, informação e alma — formação não aparece.
+- **Nada sobre marcas do Dao de formação.** Verificado por busca direta: a expressão não ocorre
+  nenhuma vez na obra. Ver [[21 - Formation Path#A ausência: não existem marcas do Dao de formação|A camada escondida]].
+- **O que o acúmulo de marcas destrancaria neste caminho.** A obra lista a "promoção mística"
+  por acúmulo de marcas para refino, fogo, sabedoria e sorte; formação não está na lista.
+- Por que as formações de batalha antigas eram consideradas "o pináculo" e ainda assim
+  perderam para as Casas de Gu Imortal, dado que a própria obra diz que elas continuam tendo
+  muitas vantagens.
 
 ## Relações
 

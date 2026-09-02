@@ -5,7 +5,7 @@ tags:
 aliases:
   - Economy Overview
 status: consolidado
-fontes: ["cap. 8", "cap. 43", "cap. 64", "cap. 132", "cap. 241", "cap. 243", "cap. 262", "cap. 278", "cap. 294-296", "cap. 324", "cap. 466", "cap. 666-668", "cap. 712", "cap. 729", "cap. 1155", "cap. 1291", "cap. 1450-1456", "cap. 1608", "cap. 1681", "cap. 1791", "cap. 2228", "cap. 2251", "cap. 2257", "cap. 2289"]
+fontes: ["cap. 8", "cap. 10", "cap. 11", "cap. 23", "cap. 29", "cap. 34", "cap. 43", "cap. 64", "cap. 126", "cap. 132", "cap. 241", "cap. 243", "cap. 262", "cap. 278", "cap. 294-296", "cap. 324", "cap. 466", "cap. 666-668", "cap. 712", "cap. 729", "cap. 1155", "cap. 1291", "cap. 1450-1456", "cap. 1608", "cap. 1681", "cap. 1791", "cap. 2228", "cap. 2251", "cap. 2257", "cap. 2289"]
 conhecimento: misto — tudo até "O que todo personagem sabe" é `comum` (material de manual do jogador); a seção "O que só o mestre sabe" é `segredo` e não deve ser impressa para jogadores
 ---
 
@@ -14,6 +14,47 @@ conhecimento: misto — tudo até "O que todo personagem sabe" é `comum` (mater
 **Em uma frase:** neste mundo o dinheiro é literalmente combustível mágico — a moeda que
 se usa para comprar pão é a mesma substância que se queima para cultivar —, e é essa
 coincidência que faz de toda crise econômica uma crise de poder e vice-versa.
+
+## A coisa, antes das regras
+
+Antes de qualquer sistema, é preciso saber o que é o objeto — porque tudo o mais decorre
+dele.
+
+**Pegue uma pedra primordial na mão.** É um ovo de pedra: do tamanho exato de um ovo de
+pato, elipsoide, cinza translúcida, e todas elas têm o mesmo volume. Cabe pinçada entre dois
+dedos; numa palma aberta cabem três ou quatro; uma bolsa de dinheiro cheia até a boca leva
+cerca de cem. Elas são pesadas — o texto diz literalmente que são "um estorvo de carregar".
+
+**Agora gaste-a das duas maneiras possíveis.**
+
+*Como dinheiro:* você a põe no balcão de uma taberna. O taberneiro varre as pedras para a
+palma, balança a mão para cima e para baixo sentindo o peso — é assim que se confere se a
+moeda é boa —, e serve o vinho.
+
+*Como combustível:* você senta de pernas cruzadas, fecha o punho em volta dela e fecha os
+olhos. A energia atravessa da pedra para dentro do seu corpo, e a sua reserva interna sobe a
+olho nu. Quando termina, você abre a mão e espalha no chão **um punhado de pó branco** —
+todo o resto foi para dentro de você. Se ficou horas assim, as pernas estão dormentes.
+
+É o **mesmo objeto** nas duas cenas. Não há taxa de câmbio, não há conversão, não há duas
+economias: a moeda deste mundo é, sem metáfora nenhuma, o combustível mágico do mundo.
+Dentro da obra, a comparação feita é com o padrão-ouro — com a diferença de que o ouro não
+se gasta ao ser usado, e a pedra sim.
+
+**O que isso significa num dia comum:**
+
+- Pagar a hospedaria de hoje é **abrir mão do cultivo de hoje**. Nenhum personagem deste
+  mundo consegue separar orçamento doméstico de progressão pessoal, porque não são duas
+  coisas.
+- A pedra **encolhe conforme é usada** e vira pó no fim. Não existe carteira cheia
+  disfarçando pobreza: o saldo de uma pessoa é legível no tamanho das pedras dela.
+- E, decisivo para qualquer sistema de combate: **não dá para recarregar lutando**. Absorver
+  uma pedra ocupa a mente. Um Mestre Gu comum simplesmente não consegue fazer as duas coisas
+  ao mesmo tempo. Dinheiro só vira poder quando o personagem está sentado, imóvel e
+  vulnerável, por horas.
+
+A descrição física completa — peso, troco, transporte, verificação, o gesto de consumo —
+está em [[02 - Pedras Primordiais#A pedra na mão|Pedras Primordiais]].
 
 ## Resumo
 
@@ -63,64 +104,75 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
    precisa cultivar, as pedras somem de circulação e as organizações emitem moedas
    substitutas (pontos de mérito) — com inflação e depressão pós-crise exatamente como se
    esperaria de papel-moeda de guerra.
-2. **Sem nascente espiritual não há organização.** A informação de que a nascente de um
+2. **Gastar a moeda como combustível exige estar parado e concentrado.** Absorver uma pedra
+   ocupa parte da mente; um Mestre Gu comum não consegue fazer isso enquanto luta, e quem
+   consegue perde controle sobre os próprios Gu enquanto o faz. Converter riqueza em poder é
+   sempre uma cena de reclusão, nunca uma ação de combate.
+3. **Dinheiro tem peso e volume.** Cerca de cem pedras enchem uma bolsa; dez mil pedras são
+   uma carroça. Por isso o Gu de armazenamento não é conveniência, é infraestrutura
+   financeira — e por isso assaltar uma fortuna é fisicamente possível.
+4. **Não existe moeda menor que a pedra primordial.** O troco se resolve com pedras
+   parcialmente drenadas (que são menores e mais leves), com devolução do excedente, e
+   sobretudo com **conta em aberto**: o cliente paga a mais, o comerciante anota, e quando o
+   crédito acumulado chega a uma pedra inteira ele abate da conta.
+5. **Sem nascente espiritual não há organização.** A informação de que a nascente de um
    clã está secando é segredo de Estado e já valeu extorsões milionárias.
-3. **Preço escala por rank em ordens de grandeza.** Um Gu comum de rank 1 custa umas
+6. **Preço escala por rank em ordens de grandeza.** Um Gu comum de rank 1 custa umas
    centenas de pedras; rank 3 fica na casa dos milhares a dezenas de milhares; rank 4 nas
    dezenas a centenas de milhares; rank 5 chega ao milhão. Gu de rank 6 em diante
    simplesmente não aparecem à venda. Um Gu raro de rank baixo pode custar como um Gu
    comum de rank alto.
-4. **Receita vale mais que exemplar.** Saber *como* produzir um Gu vale ordens de
+7. **Receita vale mais que exemplar.** Saber *como* produzir um Gu vale ordens de
    magnitude mais que possuir um pronto — o recorde histórico de leilão de uma
    cidade-mercado inteira foi uma receita, não um item.
-5. **Acesso é moeda dupla.** Para itens raros, zonas internas e serviços de elite não
+8. **Acesso é moeda dupla.** Para itens raros, zonas internas e serviços de elite não
    basta dinheiro: é preciso autorização política, materializada em fichas de autoridade
    que o dinheiro não compra.
-6. **Comércio honesto tem teto de lucro; crime não tem.** A escada é enunciada dentro da
+9. **Comércio honesto tem teto de lucro; crime não tem.** A escada é enunciada dentro da
    obra, em quatro degraus: comércio legítimo feito com maestria multiplica o capital por
    **sete ou oito vezes**, e isso é declarado como o teto do mundo, não de uma pessoa;
    métodos ilegais passam de dez vezes; fraude aberta chega a dezenas de vezes; e o
    assalto "não precisa nem de capital". A economia empurra ativamente para a
    criminalidade — e é essa pressão, não uma inclinação moral, que sustenta o caminho
    demoníaco como categoria social permanente.
-7. **Informação é mercadoria de primeira classe.** Segredos, mapas de herança, dossiês de
+10. **Informação é mercadoria de primeira classe.** Segredos, mapas de herança, dossiês de
    lutadores e boatos se vendem — e, como não se gastam ao serem vendidos, podem ser
    vendidos duas vezes, inclusive a facções rivais.
-8. **Notícias movem preços na hora.** Quando os requisitos de uma herança famosa são
+11. **Notícias movem preços na hora.** Quando os requisitos de uma herança famosa são
    anunciados, os itens exigidos triplicam de preço em dias. Especulação e uso de
    informação privilegiada existem, funcionam e ninguém os proíbe.
-9. **Todo Gu precisa ser alimentado, sempre.** Possuir muitos Gu não é luxo, é despesa
+12. **Todo Gu precisa ser alimentado, sempre.** Possuir muitos Gu não é luxo, é despesa
    fixa e problema logístico. Um cultivador rico gasta boa parte da renda comprando comida
    para os próprios bichos, e Gu abandonados morrem de fome.
-10. **Subir de rank empobrece.** Na economia imortal, cada rank divide o poder de compra
+13. **Subir de rank empobrece.** Na economia imortal, cada rank divide o poder de compra
     do dinheiro por cem. Um cultivador que enriqueceu num rank acorda pobre no rank
     seguinte — motivo pelo qual os mais poderosos preferem escambo a dinheiro.
-11. **O gargalo é artefato, não capital.** Gu Imortais não podem ser comprados com moeda:
+14. **O gargalo é artefato, não capital.** Gu Imortais não podem ser comprados com moeda:
     só trocados por outros Gu Imortais, ou emprestados. Nem toda a riqueza do mundo cria
     um artefato que já existe nas mãos de outra pessoa, porque cada um deles é único.
-12. **Sistemas de pontos fechados compram o que o mercado não vende.** Pontos de
+15. **Sistemas de pontos fechados compram o que o mercado não vende.** Pontos de
     contribuição de seita e pontos de mérito não são conversíveis em dinheiro nem
     transferíveis para fora — e é justamente por isso que compram as coisas realmente
     escassas: acesso ao tesouro, empréstimo de artefatos, conhecimento restrito, cura,
     ressurreição.
-13. **Todo produto tem uma origem física e atacável.** Gu são cozinhados a partir de
+16. **Todo produto tem uma origem física e atacável.** Gu são cozinhados a partir de
     bichos, plantas, minérios, solo, água e gente, segundo receitas que listam ingredientes
     um a um. Existe uma cadeia produtiva completa por trás de cada item à venda, e ela pode
     ser comprada, monopolizada ou queimada. Destruir a fonte de um material é mais eficaz
     do que roubar o produto acabado.
-14. **Um Gu pertence à região onde foi refinado, não à região de onde veio o material.**
+17. **Um Gu pertence à região onde foi refinado, não à região de onde veio o material.**
     Como cada região do mundo suprime o poder de quem não é nativo dela, compensa importar
     matéria-prima através de meio mundo e não compensa quase nada importar produto
     acabado. É a regra que organiza toda a logística do cenário.
-15. **A tributação é por portão, não por renda.** Não existe imposto sobre o que alguém
+18. **A tributação é por portão, não por renda.** Não existe imposto sobre o que alguém
     ganha; existem pedágios para entrar numa cidade, atravessar uma estrada, usar uma
     praça de comércio ou participar de um evento. E o clã não cobra dinheiro dos próprios
     membros: cobra **uma missão por mês**, porque já é dono das fontes de renda deles.
-16. **Promessa entre iguais armados não vale em papel.** O contrato deste mundo é um Gu
+19. **Promessa entre iguais armados não vale em papel.** O contrato deste mundo é um Gu
     consumível que bebe o sangue dos dois contratantes e denuncia a má-fé na hora da
     assinatura — e existe uma corrida armamentista permanente entre os Gu que criam
     vínculos e os que os quebram.
-17. **Crédito existe em todos os patamares, e a garantia define o instrumento**: reputação
+20. **Crédito existe em todos os patamares, e a garantia define o instrumento**: reputação
     de vizinhança, cargo, arma penhorada, imóvel hipotecado ou tempo de vida em servidão.
 
 ## O que todo personagem sabe

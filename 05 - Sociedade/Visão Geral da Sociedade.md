@@ -166,6 +166,9 @@ Vale ler as notas desta pasta nesta ordem:
 4. [[Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
 5. [[Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
    está escondido atrás delas.
+6. [[Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
+   das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
+   pertencem a região nenhuma e os domínios fechados.
 
 E, do lado material, a pasta vizinha responde a pergunta que esta deixa em aberto —
 [[Visão Geral da Economia]] explica com que dinheiro tudo isso funciona.

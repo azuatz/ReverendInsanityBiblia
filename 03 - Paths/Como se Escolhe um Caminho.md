@@ -333,7 +333,23 @@ um bloco menor vindo de uma herança.
 
 > **É esse vetor — não o rank — que decide o que a pessoa consegue fazer bem.**
 
-E cada bloco do vetor tem uma procedência diferente. Vamos a elas.
+E aqui vai o fato que arruína de uma vez a intuição de "ficha de personagem". A obra mostra um
+imortal fazendo o inventário das próprias marcas e chegando a esta conclusão sobre si mesmo:
+
+> **Os caminhos em que ele tinha mais de dez mil marcas eram quase todos diferentes dos seus
+> métodos principais e dos cinco caminhos em que ele mais entendia.**
+
+Ou seja: a maior parte da potência dele estava em caminhos que ele **não sabia usar**. Cada um
+daqueles blocos veio de um cadáver que ele absorveu, de um pacto que assinou, de uma calamidade
+que não pediu. Guarde essa imagem, porque ela é o retrato honesto do que este sistema produz.
+
+E ela tem uma consequência econômica que fecha a nota inteira, dita adiante em "O que não dá
+para fazer": para chegar ao topo absoluto, a exigência é de **trezentas mil marcas no caminho
+principal** — não trezentas mil no total. Acumular esse volume espalhado por doze caminhos não
+serve de nada. É por isso que a pergunta "**de qual caminho** são?" é a pergunta economicamente
+decisiva do sistema, e não "quantas?".
+
+Cada bloco do vetor tem uma procedência diferente. Vamos a elas.
 
 ### 1. Sobreviver a calamidades e tribulações — a via principal
 
@@ -701,9 +717,22 @@ Direção total, volume desprezível:
   Totalmente dirigível, e cerca de um milésimo do rendimento de uma calamidade por uso.
 - **O que converter.** Golpes de conversão transformam marcas de um caminho em outro, e o
   destino é escolhido pelo golpe. Dirigível, limitado pelo estoque de origem.
-- **Que Gu usar.** A ressonância de caminho aprofunda a compreensão a cada uso de um Gu Imortal
-  do próprio caminho — isso é **attainment**, não marcas, mas conta na construção do
-  personagem.
+- **Quem matar.** Como as marcas absorvidas de um morto são do caminho *dele*, **escolher a
+  vítima é escolher o caminho**. A obra registra esse cálculo sendo feito explicitamente: quem
+  precisa de marcas de um caminho específico vai caçar criaturas ou imortais daquele caminho.
+  Determinístico, e limitado apenas por quem você consegue matar.
+- **Que Gu manter.** Existem Gu Imortais cuja função é justamente gerar marcas de um caminho —
+  de força, de espada, de escravização, de espaço. Cada um fixa o caminho pelo próprio tipo, e
+  eles rendem devagar e sem risco.
+- **Que Gu usar no dia a dia.** A ressonância de caminho aprofunda a compreensão a cada uso de
+  um Gu Imortal do próprio caminho — isso é **attainment**, não marcas, mas conta na construção
+  do personagem. E o uso rotineiro de Gu comuns grava marcas do caminho deles no corpo.
+
+> [!warning] Cuidado com uma armadilha de leitura
+> Nem toda marca concedida por um Gu é permanente. Existe pelo menos um Gu Imortal que cobre o
+> corpo com uma camada **temporária** de marcas de um caminho — e a função dele não é fundação,
+> é **disfarce**: passar-se por praticante de um caminho que não é o seu. Marca temporária serve
+> para enganar; só a permanente constrói.
 
 ### Faixa 2 — o que se controla cuidando da própria abertura e escolhendo onde
 
@@ -727,7 +756,19 @@ foi atacado**. Empobrecer-se para sofrer menos empobrece o ganho junto.
 
 - **A região define parte da paleta.** Como as calamidades saem também dos caminhos dominantes
   do lugar, escolher onde passar séculos de provações é escolher, com margem, de quais caminhos
-  serão as marcas acumuladas.
+  serão as marcas acumuladas. A obra mostra esse planejamento sendo feito em escala de séculos:
+  uma seita manteve deliberadamente sua terra ancorada perto de um lago rico em marcas de dois
+  caminhos, justamente para provocar sempre provações daqueles dois e engordar aquele estoque.
+
+> [!example] O caso que mostra o limite exato desta alavanca
+> Um imortal escolheu de propósito um território específico porque queria uma calamidade do
+> caminho da terra, para engrossar suas marcas de terra. O território era dominado por dois
+> caminhos: o da terra e o da escuridão — então a calamidade **tinha** de ser de um dos dois. A
+> vontade dos céus escolheu o outro. Ele saiu da provação com nove mil marcas de um caminho de
+> que quase não tinha fundação, e zero do que tinha ido buscar.
+>
+> Esta é a mecânica inteira em uma cena: **você monta o menu, o adversário faz o pedido.** É
+> exatamente o grau certo de controle para uma mesa — o planejamento importa e não decide.
 - **Passar a provação no local do feito final de um Venerável** faz a calamidade se manifestar
   como encarnações da verdade daquele caminho, entregando saltos enormes de compreensão. Ver a
   via 6 acima.
@@ -771,6 +812,49 @@ manifestar):
   tribulação. Contra uma provação diretamente pilotada pela vontade dos céus, que muda de forma
   a cada contramedida eficaz, esta é a única defesa conhecida.
 
+### E as marcas que você não quer?
+
+Metade da pergunta "dá para dirigir?" é sobre o que entra sem convite. A obra responde a essa
+metade com bastante detalhe, e a resposta é: **entra muita coisa, e sai pouca.**
+
+**De onde vêm as indesejadas:**
+
+- **Da provação que veio do caminho errado.** Já tratado: é a fonte de volume.
+- **De ferimentos.** Um golpe carregado de marcas de outro caminho **deposita essas marcas na
+  ferida**. É por isso que curar antes de limpar não funciona.
+- **De rastreadores plantados por inimigos.** Marcas hostis podem ser instaladas para seguir
+  alguém — e as documentadas **regeneram**: uma limpeza remove uma fração, e em meio dia elas
+  voltam por inteiro.
+- **De sabotagem de refino.** Acrescentar um traço de marca de um caminho a cada material
+  usado num refino é imperceptível peça a peça e **arruína o processo** no acúmulo.
+- **De pactos.** A marca de punição de uma aliança é, por desenho, uma marca que você carrega
+  contra a sua própria liberdade.
+- **Do uso normal do sistema.** O caso mais elegante: prolongar a própria vida com Gu de dia,
+  mês e ano grava marcas do caminho do tempo, e o acúmulo **impede o uso futuro** de Gu de
+  longevidade genuínos. A ferramenta se estraga de tanto ser usada.
+
+**O que dá para remover, e o quanto:**
+
+Existe um golpe de autolimpeza que remove marcas prejudiciais ao portador — e ele traz a
+limitação mais jogável de todo o material:
+
+> **A escolha do que limpar não é do usuário.** O golpe decide o que é "prejudicial". Uma marca
+> de aliança que não prejudica o portador **não é removida**, por mais que ele queira sair do
+> pacto.
+
+Além dele, o inventário de remoção documentado é curto: Gu de limpeza obrigatórios do caminho da
+transformação, Gu Imortais de cura para marcas em ferimentos, contra-formações específicas para
+marcas de vigilância, e métodos brutais — descartar a própria carne junto com as marcas, o que
+leva embora também as marcas boas que estavam ali.
+
+E há marcas que **nenhum método remove**. A obra registra tentativas repetidas e fracassadas,
+inclusive um caso em que usar métodos de refino para removê-las **as fortalece** em vez de
+apagá-las.
+
+**E marcas se gastam.** Certos golpes consomem marcas permanentemente a cada uso, e uma vez
+gastas não voltam sozinhas — só por novas provações. Um membro perdido regenera "em branco",
+sem as marcas que tinha.
+
 ### O que não dá para fazer
 
 Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
@@ -790,6 +874,13 @@ Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
   ganhou. Nos ranks mais altos, sobreviver não garante progredir — a fundação pode regredir. É
   citado como razão indireta de só terem existido dez cultivadores de nível 9 em toda a
   história.
+- **Não dá para somar caminhos para chegar ao topo.** `[segredo]` Uma das quatro condições
+  formais para se tornar Venerável é ter **pelo menos trezentas mil marcas no caminho
+  principal**. Não é um total: é um total **em um caminho só**. Um imortal com um milhão de
+  marcas bem distribuídas por doze caminhos está mais longe do topo do que um com trezentas mil
+  concentradas. As quatro condições estão em
+  [[Tabelas de Referência Rápida#11. As quatro condições para virar Venerável]] e em
+  [[Tornar-se Venerável]].
 
 ### Resposta curta
 

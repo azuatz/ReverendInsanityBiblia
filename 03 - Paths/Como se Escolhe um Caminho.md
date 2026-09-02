@@ -34,7 +34,8 @@ vier de outros sistemas de RPG vai errar as duas por instinto:
 1. **"Em que momento eu escolho minha classe?"** — Resposta curta: você não escolhe. Você
    descobre qual era, tarde demais para trocar.
 2. **"De onde vêm os pontos que definem minha especialidade?"** — Resposta curta: das
-   catástrofes que quase te mataram, e **não é você quem decide de qual caminho elas são**.
+   catástrofes que quase te mataram. E o caminho delas é decidido em boa parte pelo que você já
+   é — com a palavra final ficando com **alguém que não está do seu lado**.
 
 O resto da nota é o desenvolvimento dessas duas frases.
 

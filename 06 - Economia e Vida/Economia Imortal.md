@@ -468,6 +468,8 @@ destruiu o próprio mercado.**
 - [[Visão Geral da Economia]] — o quadro geral e a ponte com a economia mortal.
 - [[Pedras Primordiais]] — a moeda que esta substitui a partir do rank 6.
 - [[Mercados e Leilões]] — as regras de mercado do lado mortal e o leilão de artefatos.
+- [[Produzir Gu Dentro da Abertura]] — o lado da produção: como um ponto de recurso
+  converte enxames comuns em Gu, e por que comprar é a opção secundária.
 - [[Tribunal Celestial e Grandes Forças]] — quem emite a moeda e como usa isso politicamente.
 - [[Estudos de Caso Mecânicos]] — a guerra de preços passo a passo, e o caso da **fazenda
   de provações**: um imortal que transforma as provações alheias (as descritas acima) em

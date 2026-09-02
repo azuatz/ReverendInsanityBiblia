@@ -99,7 +99,10 @@ contrário. Essa afinidade decide o que se planta com sucesso e o que a terra re
 
 - **Veias de dao e pontos de recurso** — a riqueza territorial é graduada, do mínimo ao
   máximo, e a grade determina **até que patamar de Gu aquele ponto consegue produzir**.
-  Pontos pequenos sustentam Gu mortais; os grandes sustentam material imortal.
+  Os três portes menores cobrem toda a faixa mortal, do nível 1 ao 5; os grandes sustentam
+  material imortal. Um ponto de recurso não é só uma jazida: qualquer enxame de insetos
+  comuns solto dentro dele **vira Gu com o tempo**. É assim que o imortal fabrica os
+  milhares de Gu mortais que gasta — ver [[Produzir Gu Dentro da Abertura]].
 - **Nascentes espirituais**, que produzem continuamente a moeda mortal.
 - **Fauna e flora** próprias, que servem de alimento para Gu e de matéria-prima de refino.
 - **Habitantes** — muitas terras têm população mortal vivendo dentro, às vezes aos
@@ -190,4 +193,6 @@ cenário.
 - [[Blessed Lands e Grotto-Heavens]] — grades, espíritos da terra, conquista e anexação.
 - [[Economia Imortal]] — a moeda, os preços e o mercado onde o excedente é vendido.
 - [[Gu Imortais]] — o que mora lá dentro e precisa ser alimentado.
+- [[Produzir Gu Dentro da Abertura]] — a fazenda de Gu: como a terra fabrica os milhares de
+  Gu mortais que o dono queima.
 - [[Tribulações e Calamidades]] — o que periodicamente tenta destruir tudo isso.

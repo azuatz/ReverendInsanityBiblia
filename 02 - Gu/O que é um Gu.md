@@ -129,7 +129,9 @@ sem ser rico:
   como Gu.
 - **Criação de espécie-base.** Gu refinados **não se reproduzem**, mas a criatura crua da
   qual eles derivam se reproduz normalmente. Criar a espécie-base em cativeiro é o caminho
-  barato para produzir os próprios Gu — é agricultura, não alquimia.
+  barato para produzir os próprios Gu — é agricultura, não alquimia. Levada à escala
+  imortal, essa agricultura vira a principal fonte de Gu do mundo: ver
+  [[Produzir Gu Dentro da Abertura]].
 - **Fósseis.** Um Gu que passou fome extrema pode se auto-selar numa casca de rocha e
   hibernar por séculos, virando algo indistinguível de uma pedra. Escavá-los e apostar no
   conteúdo é uma indústria inteira. Gu extraídos assim nascem fraquíssimos e quase sem

@@ -305,6 +305,17 @@ caminho certo, a dedução não acontece.
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[12 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
+### Golpes de assinatura, e como funcionam
+
+| Golpe | Faixa | Como funciona, e o que custa |
+|---|---|---|
+| **Intrusão forçada** | imortal | Montado sobre o Gu que expande espaço: **rasga a barreira de uma abertura imortal alheia** — o espaço se quebra com som de vidro e revela o terreno lá dentro. É a arrombadeira canônica do mundo, e a razão pela qual toda terra abençoada precisa de defesa. Custa mais de dez contas de essência imortal por acionamento |
+| **Fechamento forçado** | imortal | O mesmo Gu na direção oposta: **fecha a brecha aberta** atrás de quem entrou, isolando o interior de espectadores e de reforços |
+| **Golpes de captura com selagem** | imortal | Prendem e imobilizam alvos de até nível 5 — **desde que o alvo tenha sido previamente marcado** com um Gu-âncora. Não se prende um estranho |
+| **Espaço de batalha** | 5 (selvagem) | Puxa usuário e alvo para um **espaço isolado**, do qual nenhum dos dois sai antes de a questão se resolver |
+| **Dobra de distância por marcas** | efeito de terreno | Concentrar marcas do Dao do espaço num ponto faz a **distância real deixar de coincidir com a aparente**: dezenas de passos viram uma distância gigantesca. Leva décadas para montar e é desfeito por golpes de força ou por tribulação |
+
+
 ## Em combate e fora dele
 
 **Em combate**, o caminho do espaço é o caminho do **desengajamento**. Ele escolhe se a luta
@@ -332,6 +343,9 @@ alcança.
 - **Caminhos de selagem** — a combinação clássica de captura.
 
 **Sofre contra:**
+- **Golpes de força e tribulações, que apagam as marcas.** Marcas do Dao do espaço incrustadas
+  no ar podem ser **esmagadas** por golpes de força bruta, e são **varridas** por raios de
+  tribulação celestial. Um arranjo espacial de décadas some numa tarde.
 - **Marcas de força.** Um dos conflitos mais documentados do sistema: marcas do
   [[04 - Strength Path|caminho da força]] no corpo **interferem** com Gu de espaço. Cultivadores
   fisicamente carregados são lentos, e não por peso — por incompatibilidade de leis.
@@ -379,4 +393,8 @@ alcança.
 - [[07 - Refinement Path|Refinement Path]] — o uso do espaço como material de refino de alto nível.
 - [[07 - Killer Moves|Killer Moves]] — os golpes de captura e as habilidades inatas por marcas de espaço.
 - [[24 - Theft Path|Theft Path]] — a defesa canônica contra o roubo é um golpe de domínio espacial; e o espaço era o caminho de especialidade do fundador do roubo.
+- [[12 - Dao Marks|Dao Marks]] — as marcas que dão tamanho à abertura, dobram distância e geram feras fantasma.
+- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o mundo de bolso cujo tamanho este caminho determina.
+- [[04 - As Cinco Regiões|As Cinco Regiões]] e [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — as paredes regionais e o que custa atravessá-las sem este caminho.
+- [[14 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — os recintos que marcas de espaço de outro mundo puseram fora do mundo.
 - [[26 - Phantom Path|Phantom Path]] — o parceiro em ocultação de formações e o terceiro melhor recipiente sem forma.

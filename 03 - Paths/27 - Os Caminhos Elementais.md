@@ -22,7 +22,7 @@ aliases:
   - Dark Path
   - Cloud Path
 status: consolidado
-fontes: ["cap. 275", "cap. 299", "cap. 313", "cap. 336", "cap. 339", "cap. 347", "cap. 355", "cap. 375", "cap. 389", "cap. 392", "cap. 409", "cap. 418", "cap. 425", "cap. 447", "cap. 465", "cap. 470", "cap. 472", "cap. 482", "cap. 510", "cap. 524", "cap. 528", "cap. 534", "cap. 537", "cap. 545", "cap. 548", "cap. 560", "cap. 563-565", "cap. 583", "cap. 587", "cap. 593", "cap. 595", "cap. 618", "cap. 630", "cap. 633", "cap. 637", "cap. 638", "cap. 668", "cap. 677", "cap. 678", "cap. 690", "cap. 692", "cap. 703", "cap. 706", "cap. 712-726", "cap. 730", "cap. 734", "cap. 736", "cap. 738", "cap. 741", "cap. 743", "cap. 746-753", "cap. 757", "cap. 761", "cap. 762", "cap. 763", "cap. 765", "cap. 769", "cap. 773", "cap. 776", "cap. 782", "cap. 785", "cap. 787", "cap. 799", "cap. 802", "cap. 812", "cap. 818", "cap. 821", "cap. 826", "cap. 829", "cap. 831", "cap. 833", "cap. 838", "cap. 839", "cap. 847-849", "cap. 853", "cap. 865-871", "cap. 874", "cap. 880", "cap. 891", "cap. 894-897", "cap. 925", "cap. 926", "cap. 928", "cap. 929", "cap. 936", "cap. 937", "cap. 940", "cap. 942", "cap. 946", "cap. 952", "cap. 953", "cap. 955", "cap. 960", "cap. 975", "cap. 979", "cap. 986", "cap. 1017", "cap. 1030", "cap. 1034", "cap. 1038", "cap. 1040", "cap. 1044", "cap. 1051", "cap. 1064-1068", "cap. 1081", "cap. 1083", "cap. 1089-1091", "cap. 1097", "cap. 1103-1108", "cap. 1135", "cap. 1141", "cap. 1146-1155", "cap. 1161-1170", "cap. 1179-1195", "cap. 1209", "cap. 1211", "cap. 1218", "cap. 1226", "cap. 1231", "cap. 1237", "cap. 1240", "cap. 1246-1248", "cap. 1259", "cap. 1261", "cap. 1267-1273", "cap. 1277", "cap. 1287-1296", "cap. 1302", "cap. 1323-1328", "cap. 1337-1346", "cap. 1391", "cap. 1392", "cap. 1394", "cap. 1436", "cap. 1441", "cap. 1458", "cap. 1468", "cap. 1502", "cap. 1516", "cap. 1522", "cap. 1537", "cap. 1553", "cap. 1585", "cap. 1586", "cap. 1590", "cap. 1706", "cap. 1718", "cap. 1721", "cap. 1736", "cap. 1759", "cap. 1760", "cap. 1787", "cap. 1806", "cap. 1856", "cap. 1861", "cap. 1896-1899", "cap. 1995", "cap. 1998", "cap. 2023", "cap. 2058", "cap. 2072", "cap. 2073", "cap. 2081", "cap. 2103", "cap. 2140", "cap. 2154", "cap. 2172", "cap. 2180", "cap. 2258", "cap. 2287", "cap. 2312", "cap. 2331"]
+fontes: ["cap. 275", "cap. 299", "cap. 313", "cap. 336", "cap. 339", "cap. 347", "cap. 355", "cap. 375", "cap. 389", "cap. 392", "cap. 409", "cap. 418", "cap. 425", "cap. 447", "cap. 465", "cap. 470", "cap. 472", "cap. 482", "cap. 510", "cap. 524", "cap. 528", "cap. 534", "cap. 537", "cap. 545", "cap. 548", "cap. 560", "cap. 563-565", "cap. 583", "cap. 587", "cap. 593", "cap. 595", "cap. 618", "cap. 630", "cap. 633", "cap. 637", "cap. 638", "cap. 668", "cap. 677", "cap. 678", "cap. 690", "cap. 692", "cap. 703", "cap. 706", "cap. 712-726", "cap. 730", "cap. 734", "cap. 736", "cap. 738", "cap. 741", "cap. 743", "cap. 746-753", "cap. 757", "cap. 761", "cap. 762", "cap. 763", "cap. 765", "cap. 769", "cap. 773", "cap. 776", "cap. 782", "cap. 785", "cap. 787", "cap. 799", "cap. 802", "cap. 812", "cap. 818", "cap. 821", "cap. 826", "cap. 829", "cap. 831", "cap. 833", "cap. 838", "cap. 839", "cap. 847-849", "cap. 853", "cap. 865-871", "cap. 874", "cap. 880", "cap. 891", "cap. 894-897", "cap. 925", "cap. 926", "cap. 928", "cap. 929", "cap. 936", "cap. 937", "cap. 940", "cap. 942", "cap. 946", "cap. 952", "cap. 953", "cap. 955", "cap. 960", "cap. 975", "cap. 979", "cap. 986", "cap. 1017", "cap. 1030", "cap. 1034", "cap. 1038", "cap. 1040", "cap. 1044", "cap. 1051", "cap. 1064-1068", "cap. 1081", "cap. 1083", "cap. 1089-1091", "cap. 1097", "cap. 1103-1108", "cap. 1135", "cap. 1141", "cap. 1146-1155", "cap. 1161-1170", "cap. 1179-1195", "cap. 1209", "cap. 1211", "cap. 1218", "cap. 1226", "cap. 1231", "cap. 1237", "cap. 1240", "cap. 1246-1248", "cap. 1259", "cap. 1261", "cap. 1267-1273", "cap. 1277", "cap. 1287-1296", "cap. 1302", "cap. 1323-1328", "cap. 1337-1346", "cap. 1391", "cap. 1392", "cap. 1394", "cap. 1436", "cap. 1441", "cap. 1458", "cap. 1468", "cap. 1502", "cap. 1516", "cap. 1522", "cap. 1537", "cap. 1553", "cap. 1585", "cap. 1586", "cap. 1590", "cap. 1706", "cap. 1718", "cap. 1721", "cap. 1736", "cap. 1759", "cap. 1760", "cap. 1787", "cap. 1806", "cap. 1856", "cap. 1861", "cap. 1896-1899", "cap. 1995", "cap. 1998", "cap. 2023", "cap. 2058", "cap. 2072", "cap. 2073", "cap. 2081", "cap. 2103", "cap. 2140", "cap. 2154", "cap. 2172", "cap. 2180", "cap. 2258", "cap. 2284", "cap. 2286", "cap. 2287", "cap. 2312", "cap. 2331"]
 conhecimento: comum
 ---
 
@@ -145,6 +145,137 @@ métodos da água. Nada disso é ciclo — é ferramenta.
 > o campo ganha, e a mesma dupla de elementos pode se inverter na batalha seguinte porque
 > mudou o lugar. Se ainda assim quiser um par clássico, use os dois que a obra realmente
 > autoriza: **fogo × madeira** e **fogo × água**.
+
+## A camada escondida
+
+A camada escondida dos caminhos elementais é **coletiva**: ela não está em nenhum dos doze
+separadamente, está no que acontece quando as marcas do Dao deles se acumulam num lugar. Esta é a
+seção mais importante da nota para quem for desenhar um sistema, porque é aqui que os elementais
+deixam de ser "dano com um tema" e viram **a camada física do mundo**.
+
+### 1. A passagem que resolve a contenção elemental de uma vez
+
+A seção anterior afirmou que a supressão entre elementos é por densidade e é recíproca. Vale ver a
+passagem que sustenta isso, porque ela é uma cena de engenharia, não uma teoria:
+
+Uma calamidade de fogo despeja uma quantidade enorme de marcas de fogo num território. O
+responsável pelo lugar precisa lidar com elas. O que ele faz não é "usar água contra fogo": ele
+**reúne a maior parte das marcas de fogo nas profundezas das raízes das ilhas**, onde as marcas de
+terra são mais densas. Resultado literal:
+
+> As marcas do caminho do fogo foram **restringidas pelas marcas do caminho da terra, ainda mais
+> densas**, formando **magma** dentro das ilhas.
+
+E, fora dali, *a temperatura caiu rapidamente por causa da diminuição das marcas de fogo*.
+
+Três lições saem daí de uma vez:
+
+1. **Quem restringe é quem é mais denso**, não quem é "o elemento certo". Se as marcas de fogo
+   fossem as mais densas, o resultado se inverteria — e a obra mostra o outro lado disso quando
+   marcas de fogo no corpo de alguém enfraquecem os Gu de terra dele.
+2. **O produto da contenção não é anulação, é uma terceira coisa.** Fogo contido por terra não some:
+   vira **magma**, que é um recurso — geotérmico, aproveitável, com usos próprios.
+3. **Densidade de marca é temperatura, clima e paisagem.** Menos marcas de fogo, mais frio. É
+   literal.
+
+### 2. Marcas do Dao são terraformação — e isso é uma profissão
+
+O mesmo episódio mostra que a densidade de marcas pode ser **administrada de propósito**, e é aqui
+que os caminhos elementais revelam sua função real no mundo:
+
+- **Concentrar** marcas de um caminho num ponto muda o que aquele ponto é (fogo concentrado no
+  subsolo = magma = energia geotérmica).
+- **Diluir** marcas de um caminho muda o clima da região inteira.
+- E existe uma receita explícita para um projeto maior: com **uma grande quantidade de marcas de
+  luz**, seria possível **reunir as marcas de fogo num sol artificial**. O plano só não saiu porque
+  aquele território tinha pouquíssimas marcas de luz — e é por isso que ele *sempre fora mal
+  iluminado*.
+
+==A quantidade de marcas de cada caminho num território **é** o clima, a luz e o relevo daquele
+território.== Não é uma metáfora e não é bônus de combate: é a física do lugar. Ver
+[[12 - Dao Marks|Dao Marks]] e
+[[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+
+### 3. O limiar: densidade suficiente **fabrica Gu sozinha**
+
+Este é o achado mais forte da seção, e ele é uma regra do mundo que a obra enuncia em vários
+lugares.
+
+Quando as marcas de um caminho se acumulam num lugar além de um certo ponto, o lugar **passa a
+produzir Gu daquele caminho espontaneamente**, sem que ninguém refine nada. Os casos registrados:
+
+| Lugar | O que a densidade produz |
+|---|---|
+| Um campo grande de capim-tubo | Gera espontaneamente Gu de **som** e de **madeira** |
+| Uma planície saturada de marcas de lâmina | Forma **incontáveis Gu do Fio naturalmente** — e as marcas são tão densas que **cortam a pele** de quem anda ali |
+| Uma montanha de almas restaurada | Só voltou a produzir seu Gu característico quando as marcas de alma **atingiram uma mudança qualitativa**; a 30–40% de restauração ainda **não produzia** |
+| Um campo de sepultamento de ossos | Produz Gu de osso — e no campo **original** até o solo em volta tinha marcas, coisa que uma reconstrução em outro lugar não conseguiu igualar |
+| Uma abertura imortal bem administrada | No quinto nível de desenvolvimento, ela **produz Gu Imortais naturalmente** |
+
+E a obra generaliza a regra numa definição que vale guardar:
+
+> **O que é um domínio recluso do céu e da terra?** É meramente uma **aglomeração de marcas do Dao
+> de um caminho específico** formando um certo efeito especial.
+
+Repare no que isso implica: ==um "lugar mágico" neste mundo não é um lugar abençoado. É um lugar
+onde as marcas de um caminho ficaram densas o suficiente para cruzar um limiar.== E como os
+caminhos elementais são justamente os que saturam terreno com mais facilidade — chuva, erosão,
+vulcões, florestas, tempestades trabalhando de graça, sem ninguém precisar cultivar —, eles são a
+principal fonte de riqueza territorial do mundo. Ver
+[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+
+O corolário econômico já aparece na tabela de domínio acima e ganha aqui sua explicação: um grande
+grão-mestre **usa as marcas naturais do ambiente diretamente**, dispensando o Gu Imortal
+correspondente; e um grande grão-mestre de [[21 - Formation Path|formações]] consegue, *num lugar
+com marcas naturais abundantes, montar uma formação de nível imortal usando apenas Gu mortais*.
+Terreno saturado é literalmente **desconto**.
+
+### 4. De onde vem a capacidade de imitar outros caminhos
+
+Esta é a descoberta mais bonita da nota, e ela resolve uma pergunta que o resto da pasta deixa em
+aberto: por que um grão-mestre consegue produzir, com os Gu do próprio caminho, os efeitos de outro?
+
+A resposta que a obra dá é que **a natureza já faz isso o tempo todo, sem marca nenhuma do caminho
+imitado**. A observação registrada é de alguém administrando um território:
+
+- Chuva de fogo cai no lago → sobem vapores → formam-se **nuvens** espessas. E aquele lugar **não
+  tem marca alguma do caminho da nuvem**.
+- As ilhas viram vulcões → as erupções **disparam correntes de qi** e produzem **explosões
+  ruidosas**. E aquele lugar **não tem marca alguma do caminho do qi nem do caminho do som**.
+
+A conclusão, textual: ==**esta é provavelmente a origem da capacidade de imitar outros caminhos.**==
+Quando um cultivador leva um caminho a certo nível, ele consegue imitar o poder de outros caminhos
+e alcançar um **equilíbrio abrangente** — porque os fenômenos já se produzem uns aos outros no
+mundo, e dominar um fundo o bastante é reencontrar os outros a partir dele.
+
+Os exemplos que a obra dá para ilustrar a regra atravessam a pasta inteira:
+
+- um golpe do **caminho da madeira** que imita o poder do [[13 - Time Path|caminho do tempo]];
+- um golpe do caminho do **gelo e neve** que carrega poder do
+  [[05 - Transformation Path|caminho da transformação]];
+- um golpe do caminho da **terra** com efeito do [[22 - Information Path|caminho da informação]].
+
+> [!note] Para o design
+> Esta é, disparada, a melhor justificativa de "multiclasse sem multiclassar" que o cenário oferece.
+> A escola não empresta os efeitos de outra por convenção de sistema: ela os **reencontra**, porque
+> o mundo físico já encadeia fogo em vapor, vapor em nuvem, erupção em som. Se você quiser que
+> especialistas de alto nível cubram terrenos que não são os deles, a licença narrativa está pronta
+> — e ela é uma licença que **um leigo entende na primeira frase**.
+
+### 5. E onde luz e trevas voltam a se encontrar
+
+A seção acima desfaz a oposição entre luz e trevas — elas não se contêm. Mas a obra guarda a outra
+metade da história, e ela está num caminho minúsculo: o **caminho da sombra**.
+
+> Embora o caminho da sombra fosse apenas um pequeno ramo do caminho das trevas, ele tinha **mais
+> potencial**. Na verdade, ele não era só um ramo das trevas: era **também parte do caminho da luz**.
+> **Como poderia haver sombra sem luz?** Precisamente por isso, se o caminho da sombra se
+> desenvolver no futuro, ele pode **fundir o caminho da luz e o caminho das trevas** num caminho
+> enorme e muito mais poderoso.
+
+Luz e trevas não são inimigas: são **duas metades de um caminho maior que ainda não foi montado**, e
+a costura entre elas já existe e tem nome. É o único caso da obra em que um caminho pequeno é
+apontado como o **futuro** de dois grandes. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 
 ## Cronologia: quando cada um nasceu
 

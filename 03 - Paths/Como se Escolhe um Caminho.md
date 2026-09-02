@@ -8,8 +8,8 @@ aliases:
   - Path selection
   - Como se escolhe um path
   - Aquisição de dao marks
-status: consolidado
-fontes: []
+status: verificado-no-texto
+fontes: ["cap. 61", "cap. 62", "cap. 202", "cap. 214", "cap. 233", "cap. 266", "cap. 275", "cap. 288", "cap. 292", "cap. 293", "cap. 307", "cap. 313", "cap. 493", "cap. 494", "cap. 519", "cap. 546", "cap. 606-610", "cap. 627-633", "cap. 683-687", "cap. 703", "cap. 748", "cap. 758-759", "cap. 761", "cap. 778", "cap. 810", "cap. 819-821", "cap. 823-826", "cap. 852", "cap. 937", "cap. 939", "cap. 949", "cap. 1017", "cap. 1033", "cap. 1064", "cap. 1112", "cap. 1146", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1165", "cap. 1184-1187", "cap. 1204-1206", "cap. 1210", "cap. 1302-1303", "cap. 1310", "cap. 1367", "cap. 1389", "cap. 1394", "cap. 1398", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1469-1470", "cap. 1481", "cap. 1487", "cap. 1489", "cap. 1703", "cap. 1787", "cap. 2042", "cap. 2045", "cap. 2048", "cap. 2071", "cap. 2085", "cap. 2237"]
 conhecimento: especializado
 ---
 
@@ -317,36 +317,68 @@ marcas; uma abertura imortal é uma concentração que rompe esse equilíbrio lo
 marcas alguém acumula, mais marcas do caminho do céu são atraídas para cima dele. **A curva de
 dificuldade das provações é literalmente o tamanho do seu desequilíbrio.**
 
-E aqui está a consequência que responde à pergunta: **passar por uma tribulação nunca dá
-marcas do caminho do céu.** As marcas que a provação gastou se **convertem em marcas de outros
-caminhos** e se fundem à abertura de quem sobreviveu.
+Ninguém no mundo consegue cultivar o caminho do céu diretamente, e **passar por uma tribulação
+nunca dá marcas do caminho do céu**. As marcas que a provação gastou se **convertem em marcas
+de outros caminhos** e se fundem à abertura de quem sobreviveu.
 
-> **Ou seja: as tribulações são o mecanismo indireto pelo qual um cultivador ganha marcas de
-> caminhos que ele nem cultiva.**
+#### Quem decide em quais caminhos elas se convertem
 
-Um cultivador do caminho da força que sobrevive a uma calamidade de tema aquático não ganha
-marcas de força: ganha marcas de água. Ele não pediu por elas, não as usa, e elas estão lá
-para sempre.
+Aqui está a engrenagem, e ela é a informação mais importante desta nota inteira. A obra
+descreve a sequência completa de uma provação:
 
-#### Quem escolhe o caminho da provação
+1. As marcas do caminho do céu **chegam**.
+2. Elas se transformam em marcas de outros caminhos **conforme o estado da abertura imortal do
+   próprio cultivador**.
+3. As marcas transformadas gastam qi de céu e terra e **viram a calamidade** — o relâmpago, o
+   dragão, a nevasca que o cultivador enfrenta.
+4. Quem sobrevive fica com elas.
 
-Duas forças, nesta ordem:
+Leia o passo 2 de novo, porque ele inverte a intuição:
+
+> **A provação é montada a partir do que você já é. O caminho dominante da sua abertura
+> determina o caminho da maior parte das marcas que a tribulação vai lhe deixar.**
+
+O exemplo que a obra dá é direto: um imortal cuja terra abençoada era dominada por marcas do
+caminho da terra recebeu uma grande tribulação cujas marcas eram, em sua maioria, do caminho da
+terra. A tribulação é um espelho.
+
+Daí a formulação exata do rendimento, e ela é mais precisa do que costuma se dizer: **as marcas
+novas de uma provação incluem marcas do caminho principal do cultivador e também algumas de
+outros caminhos.** Não é "tudo do seu caminho" nem "tudo aleatório": é maioria sua, com resíduo
+alheio.
+
+Três consequências que caem direto disso:
+
+- **O sistema é autorreforçante.** Quem já é do caminho da força ganha, sobretudo, mais marcas
+  de força. É a razão mecânica de os imortais ficarem **cada vez mais puros** com o tempo, em
+  vez de mais diversificados. Especialização não é só escolha: é juros compostos.
+- **Todo imortal antigo carrega entulho.** O resíduo de outros caminhos entra e fica. Ninguém
+  chega ao nível 8 com um vetor limpo.
+- **A abertura é a alavanca.** Como o passo 2 lê o estado da abertura, **mexer na abertura é a
+  única forma estrutural de mexer na composição das marcas que se vai ganhar**. É exatamente
+  sobre isso que os métodos institucionais descritos adiante operam.
+
+#### As outras duas forças sobre a mesa
+
+O estado da abertura é o fator dominante, mas não é o único:
 
 - **O ambiente restringe o cardápio.** Numa região dominada por marcas de dois caminhos, a
-  calamidade será de um desses dois. É por isso que perfis de marcas são descritos como
-  "calamidades de um bioma": **o lugar onde você vive suas provações determina a paleta de
-  marcas que você acumula ao longo de séculos.**
-- **A vontade dos céus escolhe dentro do cardápio — e escolhe contra você.** Esta é a parte
-  cruel: a escolha é deliberada, e a obra registra que ela pode escolher justamente o caminho
-  que o alvo **não tem recursos nem atenção para aproveitar**, desperdiçando o ganho de
-  propósito. Ela também ajusta a intensidade das provações seguintes conforme o desempenho na
-  anterior, aprende contramedidas contra golpes específicos entre uma e outra, e manipula o
-  momento além da força. Ver [[Vontade dos Céus]].
+  calamidade será de um desses dois. É por isso que perfis de marcas de imortais são descritos
+  como contendo blocos de "calamidades de um bioma": **o lugar onde você vive suas provações
+  também molda a paleta que você acumula ao longo de séculos.**
+- **A vontade dos céus escolhe deliberadamente — e pode escolher contra você.** A obra registra
+  que ela é capaz de escolher justamente um caminho que o alvo **não tem recursos nem atenção
+  para aproveitar**, desperdiçando o ganho de propósito. Ela também ajusta a intensidade das
+  provações seguintes conforme o desempenho na anterior, aprende contramedidas contra golpes
+  específicos entre uma provação e a seguinte, e manipula o momento além da força. Ver
+  [[Vontade dos Céus]].
 
 > [!warning] O que isso significa para "montar build"
-> A maior fonte de poder do sistema é **adversarial**. Não é um baú que você abre: é uma
-> inteligência que decide o que te dar, sabe o que você queria, e tem motivo para te dar outra
-> coisa. Qualquer plano de construção de personagem neste mundo tem que conviver com isso.
+> A maior fonte de poder do sistema **não é um baú que você abre**. É um processo que lê o seu
+> personagem, devolve mais do que ele já era, contamina o resultado com um pouco de outra
+> coisa, e é supervisionado por uma inteligência que sabe o que você queria e tem motivo para
+> te dar outra coisa. Qualquer plano de construção de personagem neste mundo tem que conviver
+> com as três camadas.
 
 ### 2. Consumir carne e materiais ligados a uma lei
 
@@ -538,21 +570,29 @@ Direção total, volume desprezível:
   do próprio caminho — isso é **attainment**, não marcas, mas conta na construção do
   personagem.
 
-### Faixa 2 — o que se controla escolhendo onde e quando
+### Faixa 2 — o que se controla cuidando da própria abertura e escolhendo onde
 
-Aqui está a alavanca real do imortal comum, e ela é geográfica.
+Aqui está a alavanca real do imortal comum, e ela tem duas metades: uma interna e uma
+geográfica.
 
-**Escolher o local da provação é uma decisão estratégica formal do mundo**, tratada como tal
-pelos personagens. E ela mexe em várias coisas ao mesmo tempo:
+**A metade interna é a mais poderosa, e quase ninguém a enuncia.** Como a provação se converte
+em marcas *conforme o estado da abertura imortal*, **cuidar da composição da própria abertura é
+dirigir a aquisição na fonte**. Um imortal que mantém a abertura pura num caminho recebe
+provações que o reforçam naquele caminho; um que a deixa misturada recebe um resultado
+misturado. A construção de personagem, neste mundo, é literalmente jardinagem.
 
-- **A região define a paleta.** Como as calamidades saem dos caminhos dominantes do lugar,
-  escolher onde passar séculos de provações é escolher, com margem, de quais caminhos serão as
-  marcas acumuladas. É a forma mais acessível de dirigir o vetor.
-- **O conteúdo da própria abertura muda o tema.** Esvaziar a terra antes de uma provação atrai
-  uma calamidade mais fraca — mas **pode mudar o tema dela** e arruinar a compatibilidade dos
-  recursos que se guardou. Manter os recursos costuma pagar melhor no longo prazo, porque a
-  provação mira o maior trunfo do alvo e sobreviver rende marcas que reforçam exatamente o que
-  foi atacado.
+Um caso concreto e contraintuitivo da mesma regra: **esvaziar a terra antes de uma provação
+atrai uma calamidade mais fraca — mas pode mudar o tema dela** e arruinar a compatibilidade dos
+recursos que se guardou. Manter os recursos costuma pagar melhor no longo prazo, porque a
+provação mira o maior trunfo do alvo e sobreviver rende marcas que **reforçam exatamente o que
+foi atacado**. Empobrecer-se para sofrer menos empobrece o ganho junto.
+
+**A metade geográfica** é a que os personagens tratam como decisão estratégica formal:
+**escolher o local da provação**. Ela mexe em várias coisas ao mesmo tempo:
+
+- **A região define parte da paleta.** Como as calamidades saem também dos caminhos dominantes
+  do lugar, escolher onde passar séculos de provações é escolher, com margem, de quais caminhos
+  serão as marcas acumuladas.
 - **Passar a provação no local do feito final de um Venerável** faz a calamidade se manifestar
   como encarnações da verdade daquele caminho, entregando saltos enormes de compreensão. Ver a
   via 6 acima.
@@ -581,8 +621,9 @@ manifestar):
 
 - **Uma formação que conecta a abertura ao mundo externo** e assim influencia **quais**
   calamidades ocorrem, "temperando" a abertura com marcas dos caminhos dominantes na região
-  externa correspondente. É seleção de caminho por engenharia, e pertence a uma seita
-  específica.
+  externa correspondente. Note que ela ataca exatamente o passo 2 do mecanismo: se a conversão
+  lê o estado da abertura, mudar artificialmente o que a abertura "parece ser" muda o que a
+  provação entrega. É seleção de caminho por engenharia, e pertence a uma seita específica.
 - **Um método que limita a transformação** das marcas do caminho do céu, forçando **toda**
   tribulação a se manifestar como calamidade de feras do [[Transformation Path|caminho da
   transformação]]. Isto é literalmente travar o gerador de marcas num único caminho — o mais
@@ -617,11 +658,18 @@ Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
 
 ### Resposta curta
 
-**Montar build existe, mas é um exercício de estatística e geografia, não de escolha.** Você
-não seleciona marcas num menu; você escolhe **onde viver, o que comer, o que engolir e quando
-arriscar** — e depois administra o que chegou. A parte dirigível é lenta e barata; a parte
-volumosa é adversarial e cara de influenciar. Um imortal antigo é, literalmente, o registro
-sedimentado dos lugares em que ele sobreviveu.
+**Montar build existe, mas é jardinagem, não seleção.** Você não escolhe marcas num menu; você
+cuida da composição da própria abertura, escolhe **onde viver, o que comer, o que engolir e
+quando arriscar** — e o sistema devolve, engrossado, aquilo que você já era, com um resíduo que
+você não pediu. A parte precisamente dirigível é lenta e barata; a parte volumosa é
+autorreforçante, adversarial e cara de influenciar.
+
+Duas frases para levar para a mesa:
+
+> **Você não escolhe seu caminho. Você o rega.**
+>
+> E um imortal antigo é o registro sedimentado do que ele já era, dos lugares em que sobreviveu
+> e do que engoliu pelo caminho.
 
 > [!note] Para o design
 > **Especialização emergente e retroativa.** Este é o ponto que muda a estrutura de um jogo
@@ -659,6 +707,39 @@ sedimentado dos lugares em que ele sobreviveu.
 > caras e legítimas — segunda abertura, conversão, um segundo caminho secreto — que dão ao
 > jogador algo para **perseguir** em vez de algo para lamentar.
 
-<!-- SECOES: para o design / relacoes -->
+## Resumo em sete regras
+
+1. **Não existe escolha de caminho no mundo mortal.** Existe tendência, formada por recursos,
+   herança de clã, aptidão e oportunidade.
+2. **A única decisão vinculante do mundo mortal é o Gu Vital**, e ela é tomada na
+   adolescência, quase sempre pelo clã, sem que ninguém entenda o que está escolhendo.
+3. **As portas começam a fechar muito antes da imortalidade**, pelo acúmulo de marcas e por
+   modificações corporais irreversíveis — em silêncio, sem aviso e sem devolução.
+4. **O Gu Vital inserido na ascensão determina o caminho do imortal resultante.** É o instante
+   em que a preferência vira anatomia: corpo, abertura e ressonância passam todos a ser
+   daquele caminho.
+5. **A maior fonte de marcas é um espelho, e é supervisionada.** Provações são feitas de marcas
+   do caminho do céu que se convertem em marcas de outros caminhos **conforme o estado da sua
+   própria abertura** — por isso a maioria do ganho é do seu caminho principal, com resíduo de
+   outros. Por cima disso, o ambiente restringe o cardápio e a vontade dos céus escolhe dentro
+   dele, com liberdade para escolher o que menos te serve.
+6. **As vias dirigíveis existem e são pequenas:** comer materiais de um caminho e converter
+   marcas de um caminho em outro. As vias volumosas — provações e anexação — são
+   semi-dirigíveis, por geografia e por métodos institucionais caros.
+7. **Mudar de caminho depois da ascensão não acontece.** O que acontece é **acrescentar** um
+   segundo caminho — que é, não por acaso, exatamente o que todo Venerável faz.
 
 ## Relações
+
+- [[Visão Geral dos Paths]] — o mapa dos dezessete caminhos e o que é um caminho.
+- [[Dao Marks]] — **a nota dona das marcas**: o que fazem, quanto amplificam, por que o dano
+  delas não regenera.
+- [[Conflito de Marcas e Compatibilidade]] — a nota dona do conflito: quais portas se fecham,
+  item a item, e o tamanho real da evidência.
+- [[Gu Vital]] — a nota dona da única escolha vinculante do mundo mortal.
+- [[Ascensão Imortal]] — o processo de três passos em detalhe, e o que preparar antes.
+- [[Tribulações e Calamidades]] — o calendário de provações e o rendimento de cada classe.
+- [[Vontade dos Céus]] — quem decide o caminho de cada provação, e como ela decide.
+- [[Attainment]] — a outra barra: compreensão, que se herda; marcas, que não.
+- [[Aptidão]] — o teto de carreira medido aos quinze anos.
+- [[Tabelas de Referência Rápida]] — **fonte soberana dos números** citados aqui.

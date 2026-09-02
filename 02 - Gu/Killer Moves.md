@@ -8,7 +8,7 @@ aliases:
   - Battlefield killer move
   - Totem killer move
 status: consolidado
-fontes: ["cap. 314", "cap. 353", "cap. 391", "cap. 480", "cap. 506", "cap. 511", "cap. 513", "cap. 523", "cap. 534", "cap. 536", "cap. 541", "cap. 546", "cap. 568", "cap. 573", "cap. 723", "cap. 732", "cap. 853", "cap. 872", "cap. 889", "cap. 942", "cap. 956", "cap. 1287", "cap. 1311", "cap. 1341", "cap. 1350", "cap. 1353", "cap. 1370", "cap. 1391", "cap. 1521", "cap. 1560", "cap. 1795", "cap. 2107", "cap. 2112", "cap. 2118", "cap. 2213"]
+fontes: ["cap. 314", "cap. 353", "cap. 391", "cap. 480", "cap. 506", "cap. 511", "cap. 513", "cap. 523", "cap. 534", "cap. 536", "cap. 541", "cap. 546", "cap. 568", "cap. 573", "cap. 723", "cap. 732", "cap. 853", "cap. 872", "cap. 889", "cap. 942", "cap. 956", "cap. 1287", "cap. 1311", "cap. 1341", "cap. 1350", "cap. 1353", "cap. 1370", "cap. 1391", "cap. 1521", "cap. 1560", "cap. 1795", "cap. 2107", "cap. 2112", "cap. 2118", "cap. 2213", "cap. 2051", "cap. 2065"]
 conhecimento: comum
 ---
 
@@ -114,6 +114,57 @@ Três consequências que essa regra explica de uma vez:
 > elegante é que investir em *coreografia* (criar golpes maiores) e investir em *atenção*
 > (conseguir sustentar mais coisas separadas) são dois eixos de progressão distintos — e o
 > primeiro é muito mais barato, o que explica por que o mundo inteiro fabrica golpes.
+
+### O segundo custo: pensamentos
+
+`conhecimento: especializado`
+
+Um golpe cobra **duas moedas diferentes**, e é fácil enxergar só a primeira. A conhecida é a
+[[Essência Primordial|essência]], que alimenta os Gu. A segunda é o **pensamento**, a
+unidade mental que o [[Wisdom Path|caminho da sabedoria]] trata como recurso contável — e
+que é gasta para acionar cada Gu do golpe.
+
+A regra vale para qualquer golpe comum: acioná-lo consome pensamentos, e quem está usando os
+próprios pensamentos em outra coisa **não consegue disparar golpe nenhum** enquanto isso. Nos
+patamares altos essa é a trava real de quantos golpes uma pessoa sustenta ao mesmo tempo,
+mais do que a energia — energia se recupera, atenção não se divide.
+
+Duas consequências importam:
+
+- **Golpes do caminho da sabedoria são multiplicadores de ação.** Existem golpes cuja função
+  é justamente **expandir a quantidade de pensamentos disponíveis**, e o efeito é ficar apto
+  a usar outros golpes que antes não cabiam. É um caminho que compra turnos.
+- **Golpes totêmicos fogem dessa conta**, e é isso que os torna atraentes apesar de serem
+  menos flexíveis. Como o totem é um padrão gravado no corpo, e não um conjunto de Gu a
+  acionar um por um, ele **consome pouquíssimo pensamento** e se apoia quase só em essência.
+  A obra chega a dizer que até um tolo consegue controlá-los.
+
+> [!note] Para o design
+> A economia dos totens é o melhor gancho desta seção, porque cada vantagem tem contrapartida
+> clara: ativação rápida e quase sem custo mental, montagem simples, **manutenção baratíssima
+> — não precisam ser alimentados**, já que existem no corpo do usuário, e seus insumos são
+> materiais de Gu, muito mais fáceis de achar do que Gu vivos. Em troca, são fixos: o que
+> está gravado está gravado, e quando um totem é danificado ele precisa ser reparado com o
+> ingrediente certo.
+>
+> Isso dá duas classes de personagem naturalmente distintas: o versátil, que carrega Gu vivos,
+> paga alimentação constante e troca de arsenal entre aventuras; e o totêmico, que decidiu
+> cedo, não gasta quase nada para manter e não pode mudar de ideia. É uma escolha de
+> construção de personagem que se sustenta sozinha, sem regra artificial nenhuma.
+
+### Golpes compostos
+
+`conhecimento: especializado`
+
+Existe uma classe superior: os **golpes compostos**, que usam dois ou mais caminhos como
+componentes principais em vez de um só — um golpe de sabedoria e espada ao mesmo tempo, por
+exemplo. São raros porque exigem domínio real de mais de um caminho.
+
+O que os torna notáveis é o mecanismo do ganho. Quando os caminhos envolvidos são compatíveis
+entre si, **o atrito interno do golpe diminui** e a potência sobe várias vezes em relação ao
+que os mesmos componentes dariam separados. É a mesma lógica de compatibilidade tratada em
+[[Conflito de Marcas e Compatibilidade]], aplicada à montagem de um golpe: combinar caminhos
+que se dão bem não soma, multiplica.
 
 ## As categorias
 

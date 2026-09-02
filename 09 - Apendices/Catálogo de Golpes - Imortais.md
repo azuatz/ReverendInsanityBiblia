@@ -20,6 +20,25 @@ Gu**, ativados juntos numa sequência ensaiada, cujos efeitos se somam e produze
 que nenhum dos Gu faria sozinho. A mecânica completa está em [[Killer Moves]]; aqui
 estão os exemplares nomeados.
 
+> [!info] Os quatro estados de confiabilidade
+> Cada campo deste catálogo está num de quatro estados, e a diferença entre eles importa
+> mais que o conteúdo:
+>
+> - **Texto simples** — a obra afirma. É canônico e você pode construir em cima.
+> - **`(ded.)`** — a obra não diz com essas palavras, mas o efeito descrito, o nome do golpe
+>   ou uma regra geral do caminho tornam a conclusão segura. É **leitura nossa**, não texto.
+> - **`*`** — **invenção nossa**, sem base textual. São raríssimas aqui: quatro células no
+>   catálogo inteiro.
+> - **`—`** — a obra não informa e nada foi preenchido.
+>
+> **Apagar tudo que estiver marcado com `*` devolve este documento a cem por cento
+> canônico.**
+>
+> Um aviso que vale para a leitura inteira: **31 golpes deste catálogo a obra apenas
+> nomeia**, num grito em cena de combate, sem nunca descrever o que fazem. Nesses casos a
+> célula diz isso com todas as letras em vez de inventar — e isso é permissão explícita para
+> você preencher como quiser, sem contradizer o cânone.
+
 ## O que muda no patamar imortal
 
 Para quem já leu [[Catálogo de Golpes - Mortais]], a diferença não é só de escala.

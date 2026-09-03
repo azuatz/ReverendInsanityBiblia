@@ -6,7 +6,7 @@
 > citações inline dos exemplos abaixo ao aplicar o modelo. (Rascunhos internos de
 > `_pipeline/rascunho/` podem e devem citar capítulos inline.)
 
-Uso: notas em `09 - Estudos de Caso Mecânicos/` (ex.: `Refino de Gu Imortal em rank
+Uso: notas em `10 - Estudos de Caso Mecânicos/` (ex.: `Refino de Gu Imortal em rank
 3.md`). O caso existe para provar/ilustrar regras — nunca para contar história.
 
 ```markdown

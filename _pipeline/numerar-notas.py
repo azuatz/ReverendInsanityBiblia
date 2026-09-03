@@ -63,7 +63,7 @@ ORDEM = {
         "Povos e Variantes Humanas", "As Grandes Forças do Mundo",
         "Tribunal Celestial e Grandes Forças", "Sociedade Fora das Cinco Regiões",
     ],
-    "06 - Economia e Vida": [
+    "07 - Economia e Vida": [
         "Visão Geral da Economia", "Pedras Primordiais",
         "Preços, Renda e Custo de Vida", "Como um Mestre Gu Ganha a Vida",
         "Materiais e Cadeia Produtiva", "Mercados e Leilões",
@@ -73,11 +73,11 @@ ORDEM = {
         "Convenção do Caminho de Refino", "Economia Imortal",
         "Produzir Gu Dentro da Abertura",
     ],
-    "07 - Veneraveis e Legados": [
+    "08 - Veneraveis e Legados": [
         "Visão Geral dos Veneráveis", "Os Criadores de Caminhos",
         "Os Arquitetos da Ordem", "Os Que Romperam as Leis",
     ],
-    "08 - Eventos e Cenarios": [
+    "09 - Eventos e Cenarios": [
         "Visão Geral dos Eventos", "A Maré de Lobos de Qing Mao Shan",
         "Marés de Bestas", "Desastres Locais e Problemas Crônicos",
         "Feiras, Caravanas e Festivais", "Assembleias, Alianças e Quadros de Mérito",
@@ -97,7 +97,7 @@ ORDEM = {
         "A Caverna do Demônio Enlouquecido", "A Morte do Sol e o Céu Espectral",
         "O Mundo em Véspera de Guerra", "Eventos Históricos de Fundo",
     ],
-    "09 - Estudos de Caso Mecanicos": [
+    "10 - Estudos de Caso Mecanicos": [
         "Estudos de Caso Mecânicos",
         "Punhos Contra uma Camada de Defesa",
         "O Sapo de Rank 5 Que Ninguém Podia Tocar",
@@ -148,14 +148,14 @@ ORDEM = {
         "Fazenda de Tribulações",
         "Explorar um Reino de Sonho",
     ],
-    "10 - Apendices": [
+    "11 - Apendices": [
         "Glossário EN-PT", "Tabelas de Referência Rápida", "Catálogo de Gu",
         "Catálogo de Gu - Mortais", "Catálogo de Gu - Imortais",
         "Catálogo de Receitas", "Catálogo de Golpes - Mortais",
         "Catálogo de Golpes - Imortais", "Catálogo de Bestas e Reis Fera",
         "Linha do Tempo e Eras",
     ],
-    "11 - Forcas e Organizacoes": [
+    "06 - Forcas e Organizacoes": [
         "Visão Geral das Forças e Organizações", "Fronteira Sul",
         "Planícies do Norte", "Continente Central", "Deserto Ocidental",
         "Mar Oriental",

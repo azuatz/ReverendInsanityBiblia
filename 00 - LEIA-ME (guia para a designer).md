@@ -104,10 +104,10 @@ geografia concreta de cada região, com os lugares, os bichos e as zonas que a p
 | `03 - Paths` | Uma nota por caminho de especialização — **dezessete** ao todo —, cada uma no mesmo gabarito e fechando com o arquétipo de personagem que aquele caminho entrega. Comece pela [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]. |
 | `04 - Mundo` | Geografia, fauna, cosmologia, as leis do céu, as instituições que governam o mundo, e os mundos privados que os imortais carregam dentro de si. Inclui o **atlas** região a região, a **régua de escala e viagem** (distâncias, tempos, transporte) e a **filosofia** que dá o tom do cenário. |
 | `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região, os tipos de gente que o mundo reconhece e as filosofias de vida em disputa. |
-| `06 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
-| `07 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
-| `09 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
-| `10 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
+| `07 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
+| `08 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
+| `10 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
+| `11 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
 
 Cada pasta tem uma nota "Visão Geral" que serve de porta de entrada, com um resumo, as
 **regras do mundo** daquele domínio em lista numerada, e a separação entre o que todo

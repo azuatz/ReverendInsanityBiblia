@@ -75,8 +75,8 @@ ReverendInsanityExpert/
 ├── 05 - Sociedade/        (clãs, seitas, righteous/demonic, alianças, cultura por região)
 ├── 06 - Economia e Vida/  (primeval stones, profissões, mercados, cotidiano, eventos jogáveis)
 ├── 07 - Veneráveis e Legados/ (os 10, seus paths, o que mudaram no mundo — sem enredo)
-├── 09 - Estudos de Caso Mecânicos/ (dezenas de casos citados por capítulo)
-├── 10 - Apêndices/        (glossário EN/PT, catálogo de Gu, tabelas de referência rápida)
+├── 10 - Estudos de Caso Mecânicos/ (dezenas de casos citados por capítulo)
+├── 11 - Apêndices/        (glossário EN/PT, catálogo de Gu, tabelas de referência rápida)
 └── _pipeline/             (plano, progresso, notas brutas dos leitores)
 ```
 

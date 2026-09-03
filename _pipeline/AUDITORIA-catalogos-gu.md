@@ -139,6 +139,38 @@ contamina tudo que se construir em cima. As duas linhas foram separadas de verda
   Imortal), a história do refino por sacrifício humano e a política de venda limitada a
   uma dúzia de exemplares por comprador.
 
+#### Duas duplicatas que o casamento por nome exato não pegava
+
+A conferência anterior comparou **nomes exatos**, e por isso deixou passar dois casos em
+que o mesmo Gu aparecia com grafias diferentes:
+
+- **Dragon Scale (rank 7) e Dragon Scales Gu** eram a **mesma ficha, duas vezes, dentro do
+  catálogo imortal** — singular contra plural, com e sem o sufixo "Gu". As duas foram
+  fundidas numa linha só: ficou o rank 7 e a dieta ("escamas de feras dracônicas `*`") que
+  só a linha curta tinha, mais a frase que só ela trazia — que este é **uma das quatro
+  peças**, com chifre, garra e olho de dragão, que compõem os golpes de transformação em
+  dragão —, tudo somado ao mecanismo detalhado que só a linha longa trazia.
+- **Pulling Water**, **Star Thought** e **Vajra Thought** estavam no catálogo imortal sem o
+  sufixo "Gu" e, por isso, **não eram reconhecidos como pares** dos Gu de mesmo nome no
+  catálogo mortal — apesar de o Pulling Water Gu ser justamente o par mortal/imortal que a
+  obra explica em detalhe, e que serve de caso-modelo para a regra inteira. Os três nomes
+  foram normalizados e os três pares fecharam.
+
+Ao fim, os pares mortal × imortal passaram de 22 para **27** e todos são recíprocos, com
+rank e link nos dois sentidos — verificável por script, comparando nomes **normalizados**
+(sem o sufixo, sem a estrela, sem maiúsculas), que é a comparação que devia ter sido feita
+desde o início.
+
+#### Um defeito de sintaxe que atingia os dois catálogos
+
+Os wikilinks dentro de célula de tabela precisam do pipe escapado. Os dois catálogos
+usavam `\\\|` (três barras) onde o resto do vault inteiro usa `\|` (uma) — 53 ocorrências,
+e **só nestes dois arquivos**. Três barras fazem o Obsidian renderizar uma barra invisível
+sobrando dentro do texto do link. Todas as 53 foram normalizadas para a convenção do vault.
+A conferência estrutural das tabelas (contagem de colunas por linha, respeitando o escape)
+passou a devolver zero linhas fora do padrão nos dois arquivos, e o auditor de links do
+projeto devolve zero links quebrados.
+
 Outras três linhas tinham célula idêntica nos dois arquivos (Dragon Scales, Expend
 Strength e Territory Gu). Nesses casos a duplicação **não** era erro: cada célula rotula
 explicitamente qual trecho é da versão mortal e qual é da imortal, e o conteúdo é
@@ -321,6 +353,206 @@ linha e os capítulos de referência.
 | Exploding Egg Gu | 1 | Outros caminhos com poucos Gu | 323, 324, 346, 376 |
 
 ### No catálogo imortal
+
+#### Segunda leva — o caminho da sorte
+
+Os cinco relatórios `_pipeline/PROFUNDIDADE-paths-*.md` chegaram depois da primeira leva,
+cada um com uma seção listando Gu que talvez faltassem. A colheita do caminho da sorte
+rendeu **sete Gu Imortais novos**, todos verificados no texto:
+
+| Gu | Rank | O que a obra dá |
+|---|---|---|
+| Conceal Luck Gu | 6 | esconde a própria sorte; defende contra inspeção de rank 6; besouro de casca branca de meia palma |
+| Good Luck Gu | — | armazena a boa sorte **sem dono** que o céu e a terra dissipam — cata o residual, não rouba de ninguém |
+| Peach Blossom Luck Gu | — | sorte **amorosa**. Da obra vem só o nome e o preço alto; o efeito é dedução a partir da descrição canônica e detalhada da *sorte* de flor de pessegueiro, e está marcado como dedução na célula |
+| Leave Luck Gu | — | gasta depressa a sorte de alguém. A obra dá uma frase e nada mais, e a célula diz isso |
+| Seal Luck Gu | — | sela a sorte. Idem: uma frase |
+| Transfer Luck Gu | — | transfere sorte. Idem — e a célula explica a diferença para o Connect Luck Gu, que **liga** duas sortes em mão dupla em vez de mover de A para B |
+| Luck Deduction Gu | — | híbrido de sorte e sabedoria: **consome a própria sorte** para deduzir perigos e oportunidades futuros. Adivinhação paga em sorte |
+
+Os quatro últimos vieram do mesmo leilão, e a obra dá dali um detalhe de mercado que vale
+mais que o efeito: os vendedores exigiam pagamento em Gu Imortal de **caminho
+convencional** (metal, madeira, água, fogo, terra), o que barrou da disputa quem era
+especialista em caminho exótico — sem uma peça mainstream na mão, o imortal não podia nem
+dar lance.
+
+**Um erro de efeito foi corrigido, e era grave.** O **Fortune Rivalling Heaven** — o Gu de
+rank 8 do topo da herança da "sorte de todos os seres vivos" — tinha ficha genérica. O
+texto descreve o efeito com todas as letras, pela boca de uma autoridade máxima do Tribunal
+Celeste: ele **absorve continuamente a sorte de todas as formas de vida ao redor** e a
+concentra numa pessoa só. A ficha reescrita traz também o que faltava e que muda a mesa:
+tem poder de quase rank 9; quem age contra o portador vê a **própria sorte piorar** (é o
+teste canônico para descobrir quem o carrega sem conseguir enxergá-lo); um Gu de inspeção
+mortal não o detecta; ele enfraquece calamidades e tribulações; grava marcas do Dao **no
+próprio corpo** do portador, o que o torna praticamente inseparável dele; e o efeito
+**se dissipa por completo quando o portador morre**.
+
+**Três Casas de Gu Imortais ganharam mecanismo no lugar do rótulo**: Cooking Luck Pot,
+Calamity Luck Altar e Luck Suppression Heavenly Palace — as três estavam descritas numa
+linha cada. Do Cooking Luck Pot saiu, de quebra, uma **regra do mundo** que não estava em
+lugar nenhum do vault: *o rank de uma Casa é ditado pelos seus Gu-núcleo*, não pelo Gu mais
+forte que ela contém — a Casa nasceu rank 6 porque o núcleo era rank 6, mesmo abrigando Gu
+de rank 7, e subiu a rank 8 quando o núcleo subiu.
+
+Um alvo foi **reclassificado**: o "Luck Jade" não existe. A grafia canônica é *lucky jade*,
+e a obra o descreve como **material imortal de rank 8**, não como Gu — por isso não entrou
+em catálogo de Gu nenhum.
+
+#### Segunda leva — as Casas do caminho do tempo e o caminho das estrelas
+
+A esquadra de Casas de Gu Imortal que navega o Rio do Tempo estava representada por
+**três linhas de uma frase** e faltavam quatro membros. A colheita fechou a esquadra
+inteira, com rank confirmado para cada uma:
+
+| Casa | Rank | O que ela é |
+|---|---|---|
+| Golden Age Platform | 7 | a única **fixa**: não navega. Construída dentro de uma terra abençoada, vira uma lua que nasce e se põe no céu dela |
+| Present and Past Pavilion | 7 | vigilância: examina passado e presente |
+| Eternal Yacht | 7 | velocidade e transporte; a mais rápida, e de defesa fraca |
+| Three Autumn Yellow Crane Platform | 7 | patrulha e apoio de linha |
+| Shark Flow Lever | 7 | tração animal — sete tubarões desolados puxando uma alavanca gigante. É o **único** estilo de construção assim na obra: combina feras desoladas com Gu Imortais na mesma estrutura |
+| Moment Stage | 8 | a casa **pesada**, feita para segurar a linha de frente |
+| Myriad Year Flying Warship | 8 | a completa: rápida, resistente e armada |
+
+Vale registrar a ressalva metodológica, porque ela vale para toda pesquisa futura de
+Casas: **a obra nunca dá ficha técnica dessas construções**, com a única exceção da
+Golden Age Platform. O que existe é uma enumeração em série, num capítulo, como projeto
+da corte celestial — e depois cenas de batalha esparsas, de onde saíram aparência,
+Gu-núcleo, um ou outro golpe e comparações relativas de velocidade e defesa. Um único
+parágrafo de saque revela os **Gu Imortais-núcleo** de quase todas, e é o achado mais
+útil do conjunto: Permanence no Eternal Yacht; Instant e That Time no Moment Stage;
+Early, Mid e Late Autumn no Yellow Crane; Years Flow Like Water, Precaution e Fight no
+Myriad Year Flying Warship. **A obra nunca informa a capacidade em número de imortais**
+de nenhuma delas.
+
+No **caminho das estrelas** entraram quatro Gu mortais, e dois deles são o exemplo mais
+limpo do que a política de preenchimento deste projeto significa na prática:
+
+- **Star Shield Gu** e **Bane Star Gu** existem — e a obra dá **só o nome**, numa única
+  linha, como ingredientes de um golpe mortal comum. Sem rank, efeito, dieta ou refino.
+  As duas linhas dizem exatamente isso, com `—` nas colunas, em vez de inventar. A cena
+  de onde saem é ela própria informativa: é um golpe anunciado numa vitrine, e o anúncio
+  omite tudo — que é como um comprador do mundo enxerga a maior parte do mercado.
+- **Brilliance of Two Stars Gu** (rank 2) e **Three Stars in the Sky Gu** (rank 3) fecham
+  os degraus que faltavam da escada de amplificação estelar, cujos extremos já estavam
+  catalogados. A obra descreve a série **sempre em bloco**, nunca degrau a degrau, então
+  a gradação por rank ficou marcada como dedução. A função canônica é amplificar
+  — a obra especifica: **ofensivamente** — Gu do caminho das estrelas, com taxa de
+  sucesso de refino muito maior que a do amplificador genérico e materiais
+  extremamente comuns, a ponto de a obra afirmar que, se circulassem livremente,
+  mudariam a posição relativa de todos os caminhos do mundo.
+
+Entraram ainda dois Gu Imortais de fora desses caminhos: o **Cook Gu** (rank 7, comida),
+que está **travado no rank 7** porque não existe material imortal de rank 8 do caminho da
+comida — e a obra usa esse travamento para enunciar uma regra do mundo, o ciclo entre a
+prosperidade de um caminho e a existência de materiais dele; e o **Heaven Qi Gu**
+(rank 8, qi), um dos três "Gu dos três qi" e núcleo insubstituível do golpe de retração
+tripla de qi, que é o Gu que a obra liga explicitamente ao caminho do céu.
+
+Cinco alvos foram **reclassificados como material ou espécie, e não entraram em catálogo
+de Gu**: Star Night Mucus (material imortal rank 6), Black Oil (material imortal de
+comida, que grava marcas do Dao em quem toca e digere lentamente o coletor), Qi Harvest
+Fruit (consumível — e a grafia do enunciado estava invertida: a obra escreve *qi harvest
+fruit*), Truthful Floating Ice (material do caminho do céu: cada bloco é *uma verdade*
+boiando no Rio do Tempo) e o **Dragonfish**, que é o falso positivo mais instrutivo da
+leva — não é Gu, é uma **espécie artificial criada pelo criador do caminho da comida**
+para servir de comida universal de Gu, e é a fera desolada mais fraca do mundo.
+
+#### Segunda leva — o caminho da regra
+
+O caminho da regra tinha dezesseis fichas, e faltavam sete Gu que a obra nomeia. Todos
+entraram, e o resultado dividiu-se limpo em dois grupos que vale distinguir, porque é a
+distinção que a designer precisa fazer:
+
+**Com mecanismo de verdade** — *Region* + *Limit* (o par de núcleos do golpe supremo do
+caminho, com os custos opostos explicitados: a formação fixa exige veia de terra e meio
+ano de montagem; a versão portátil de qi de luz gasta uma quantidade colossal de qi da
+terra por uso, e o praticante começa conseguindo emitir só uma cor por vez), *No* +
+*Care* (o par de rank 7 que anula o contragolpe de quebrar um pacto: acionados ao mesmo
+tempo — luz negra vazia e luz vermelha quente —, fundidos por um terceiro numa formação,
+gerando um pilar espiralado que cobre o corpo sem fresta, e protegendo só enquanto os
+dois estiverem ativos) e *Disintegrate*.
+
+**Só o nome e o contexto**, e as células dizem isso com todas as letras — *Departure*
+(rank 8, uma ocorrência, componente de um golpe composto), *Main* (uma ocorrência; o que
+a obra descreve é a regra de sorte principal contra sorte subordinada que o golpe
+explora) e *Ripe* (uma ocorrência, com a grafia exata "rule path ripe Immortal Gu";
+"ripen" e "ripening" dão zero — núcleo de super formação que acelera a proficiência em
+golpes imortais já treinados).
+
+**Duas fichas antigas foram substituídas por mecanismo.** A linha *Cause / Effect*
+descrevia os dois como "núcleo estrutural" e dizia que a obra não descrevia o mecanismo —
+mas descreve, e em detalhe. Foi **desdobrada em duas fichas**, com o golpe de karma
+inteiro: uma árvore de fumaça verde que usa **destino como solo e sorte como água**, e
+que dá frutos de bom e de mau efeito; o fruto de mau efeito assume a forma do alvo e o
+subjuga sem retaliação possível; e a contabilidade de custo é explícita — golpe fraco
+custa zero frutos, golpe forte custa um, um Gu Imortal de rank 7 custa um, e quando os
+frutos acabam a árvore se desfaz. O *Permanence Gu*, que só dizia "serve de núcleo de
+Casas de tempo", ganhou a ficha própria.
+
+> [!warning] Uma divergência interna da obra ficou registrada na ficha
+> Um capítulo chama Cause e Effect de "os dois Gu Imortais do caminho da regra"; dois
+> capítulos posteriores dizem "Gu de regra *Cause* e Gu do **caminho da madeira**
+> *Effect*". A obra se contradiz, e a ficha diz isso em vez de escolher em silêncio.
+
+Da mesma leva saíram duas coisas que valem mais que qualquer linha isolada. A primeira é
+uma **regra do mundo** que não estava em lugar nenhum do vault: contra-atacar o caminho
+da regra com o próprio caminho da regra é o método mais eficaz, e nesse duelo **o rank
+decide** — um *Small* de rank 7 anula um *Disintegrate* de rank 6. A segunda é a ficha
+de alimentação mais completa que apareceu em qualquer caminho: o *Addition Gu*, casulo
+negro como ferro, come **água de fio de pérola**, um material de rank 8 do *caminho da
+água* — o que obriga seu dono, um imortal de regra, a construir um ponto de recurso de
+água dentro da própria abertura. Fica submerso oito dias comendo, e a refeição seguinte
+é oitenta anos depois. É o retrato do que "alimentar um Gu Imortal" significa como
+projeto de infraestrutura, e não como despesa.
+
+Entrou também no catálogo mortal o **Primeval Break Gu**, que corta a ligação entre a
+energia primeva do ar e um Gu selvagem — com um ajuste de classificação: a obra o coloca
+no **caminho da restrição**, um sub-ramo do caminho da regra que ainda não se separou
+dele.
+
+#### Segunda leva — força, alma, profissões e armas
+
+Dezenove Gu novos, dos quais vale destacar o que muda contas de mesa:
+
+- A **escala de "jun"** do caminho da força foi reconstruída inteira, e é a melhor régua
+  numérica de força do catálogo: um jin (rank 1, +1 jin, 220 pedras) → dez jin (rank 2,
+  690) → um jun, que são 30 jin (rank 3, 4.550) → dez jun, 300 jin (rank 4, 36.000) →
+  cem jun, 3.000 jin (rank 5) → **Strength of a Thousand Jun**, Gu Imortal de rank 6,
+  30.000 jin. Todos são descartáveis e **empilháveis sem limite de espécie**.
+- O **Black and White Boar Gu** é, na verdade, **dois Gu irmãos** que empilham — branco
+  mais preto dão a força de dois javalis. O ganho é **permanente**, sobrevive à morte do
+  Gu e **é transferível a outra pessoa**; e a dieta é brutal: um porco adulto inteiro a
+  cada cinco dias. Rank 1 declarado, e "rank 1 raro", a 600 pedras.
+- O **Edge Gu** é o Gu-raiz comum ao caminho da lâmina **e** ao da espada, consta da
+  lenda do Ancestral da Humanidade e é **gerado espontaneamente** por terreno saturado de
+  marcas do Dao. A versão imortal, rank 7, come extrato de aço branco.
+- A **série das profissões** ganhou fichas próprias para Doctor, Constable, Commander,
+  Farmer, Dancer e Talented Girl. O Constable é o único da série com **infraestrutura
+  própria**: os Police Gate Gu, de rank 1 a 6, ficam mutuamente conectados e
+  teletransportam os beleguins criados de um portão a outro.
+
+Três correções de nomenclatura, todas verificadas com busca direta:
+
+| O que se procurava | O que a obra tem |
+|---|---|
+| "Impregnate Gu" | **não existe**; o nome canônico é **Become Pregnant Gu** |
+| "Dancer Gu" | `grep -i "dancer gu"` devolve **zero**. O Gu existe na lista dos Gu de rank 6 do caminho do homem, mas a única cena parecida — três dançarinas que enfraquecem inimigos com mangas longas — **não nomeia o Gu**, e a ficha marca essa ligação como leitura nossa `*` |
+| "Reincarnation Gu" | existe, com **uma única ocorrência**, numa lista. Não confundir com o "Reincarnation Battlefield", que é golpe de campo de batalha de outro Venerável e responde por todas as outras ocorrências da palavra |
+
+Confirmou-se de passagem que o **Sky Strength Gu está extinto** — é o único da série
+elemental de força nessa condição.
+
+**Quatro linhas duplicadas nasceram desta leva e foram fundidas na hora** (Golden Aurora,
+Become Pregnant, Reincarnation e Heaven Qi): a pesquisa devolveu ficha rica para Gu que
+já tinham linha curta em outra seção. Em cada caso ficou a ficha rica, absorvendo o que
+só a linha antiga tinha — o refino do Golden Aurora ("correnteza de fragmentos de ouro"),
+a aparência do Heaven Qi (libélula verde de oito pares de asas), a nota do Templo da
+Gravidez e a ressalva de que o nome "Reencarnação" promete mais do que o cânone entrega.
+O Golden Aurora ainda mudou de casa: estava no caminho da luz e foi para o **caminho do
+metal**, que é o que a obra lhe atribui.
+
+
 
 | Gu | Rank | Seção que recebeu | Capítulos |
 |---|---|---|---|

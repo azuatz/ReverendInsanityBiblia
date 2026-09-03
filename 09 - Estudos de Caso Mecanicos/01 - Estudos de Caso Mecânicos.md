@@ -6,7 +6,7 @@ aliases:
   - Mechanical Case Studies
   - Casos mecânicos
 status: consolidado
-fontes: ["cap. 19", "cap. 40-43", "cap. 84-85", "cap. 90-92", "cap. 98-100", "cap. 110-113", "cap. 115-120", "cap. 128-129", "cap. 143", "cap. 148-159", "cap. 163", "cap. 182-183", "cap. 192-198", "cap. 278", "cap. 290-291", "cap. 294-296", "cap. 304-311", "cap. 324-325", "cap. 359-364", "cap. 404-405", "cap. 416-418", "cap. 461-465", "cap. 485-487", "cap. 515-542", "cap. 567-568", "cap. 683-687", "cap. 707", "cap. 808", "cap. 859-862", "cap. 912-916", "cap. 926", "cap. 946", "cap. 994-995", "cap. 1060", "cap. 1184-1187", "cap. 1206", "cap. 1261", "cap. 1283-1289", "cap. 1394", "cap. 1406-1410", "cap. 1450-1456", "cap. 1490-1512", "cap. 1528-1529", "cap. 1688-1690", "cap. 1790-1791", "cap. 2133-2134", "cap. 2159", "cap. 2172"]
+fontes: ["cap. 19", "cap. 40-43", "cap. 84-85", "cap. 90-92", "cap. 98-100", "cap. 110-113", "cap. 115-120", "cap. 128-129", "cap. 143", "cap. 148-159", "cap. 163", "cap. 182-183", "cap. 192-198", "cap. 278", "cap. 290-291", "cap. 294-296", "cap. 304-311", "cap. 324-325", "cap. 359-364", "cap. 404-405", "cap. 416-418", "cap. 461-465", "cap. 485-487", "cap. 515-542", "cap. 567-568", "cap. 683-687", "cap. 707", "cap. 808", "cap. 859-862", "cap. 912-916", "cap. 926", "cap. 946", "cap. 994-995", "cap. 1060", "cap. 1184-1187", "cap. 1206", "cap. 1261", "cap. 1283-1289", "cap. 1394", "cap. 1406-1410", "cap. 1450-1456", "cap. 1490-1512", "cap. 1528-1529", "cap. 1688-1690", "cap. 1790-1791", "cap. 2133-2134", "cap. 2159", "cap. 2172", "cap. 186-189", "cap. 197-199", "cap. 204", "cap. 298-301", "cap. 312-316", "cap. 325-326", "cap. 437", "cap. 451-453", "cap. 479-484", "cap. 899", "cap. 979", "cap. 986-987", "cap. 1071", "cap. 1100", "cap. 1156", "cap. 1161-1162", "cap. 1211", "cap. 1287", "cap. 1433"]
 conhecimento: misto — os casos de rank baixo e de mercado são `comum`; os de escala imortal e os marcados no índice são `segredo`
 ---
 
@@ -76,6 +76,14 @@ E duas regras de leitura que a pasta acrescenta:
    mesmo eles têm cláusulas — ver [[28 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]].
 6. **Todo atalho cobra numa estatística que não volta.** Aptidão, alma, teto de carreira,
    cronômetro de progressão. Quando um caso parece bom demais, a conta está na seção do preço.
+7. **Quando dois efeitos disputam a mesma coisa, vence o de rank mais alto** — nunca o que foi
+   aplicado primeiro. É a regra que impede que qualquer ganho seja definitivo, e a que permite
+   desfazer o que parecia irreversível.
+8. **Ninguém mede a força de ninguém; todos a inferem por sinais.** Espécie, escolta, insígnia,
+   maturidade, companhia. Como a leitura é indireta, ela é manipulável dos dois lados da mesa.
+9. **Atenção é um recurso à parte da energia, e é o mais escasso de todos.** Manter o que já
+   está funcionando é grátis; mudar qualquer coisa custa. Quase todo mundo desanda acima de três
+   tarefas simultâneas.
 
 ## O índice comentado
 
@@ -96,6 +104,10 @@ mundo.
 | [[08 - O Atalho Demoníaco de Rank\|O Atalho Demoníaco de Rank]] | Um rank inteiro comprado com dois pontos permanentes de aptidão. A curva moral do caminho demoníaco em números. |
 | [[09 - Caçar o Que Não se Vê\|Caçar o Que Não se Vê]] | Tudo o que a invisibilidade não esconde — e como vencer por assimetria de recuperação. |
 | [[10 - Roubar o Gu de um Moribundo\|Roubar o Gu de um Moribundo]] | O custo de roubar um Gu cai conforme a vítima piora; e por que a ferramenta barata só rouba coisas baratas. |
+| [[40 - Fugir de um Enxame e Sair Montado\|Fugir de um Enxame e Sair Montado]] | Uma fuga é administração de orçamento: enxames têm um nó que se corta, lixo vira isca, e uma besta adormecida vira montaria. |
+| [[41 - Comprar um Estágio de Cultivo com Todo o Futuro\|Comprar um Estágio de Cultivo com Todo o Futuro]] | O atalho mais caro do sistema — e o único caso em que a obra mostra um atalho sendo desfeito, derrubando dois ranks. |
+| [[42 - Comprar Aptidão com Cem Vidas\|Comprar Aptidão com Cem Vidas]] | A estatística "fixa" do sistema tem preço: sangue da própria linhagem, com rendimento decrescente. De 43% a 90% em seis horas. |
+| [[43 - O Refém que Cura os Dois Lados\|O Refém que Cura os Dois Lados]] | Curar alguém com metade de um par e guardar a outra metade cria um contrato sem papel — que se renova sozinho. |
 
 ### Combate e estrutura
 
@@ -105,6 +117,9 @@ mundo.
 | [[12 - O Ambiente Manda Mais que o Rank\|O Ambiente Manda Mais que o Rank]] | Lugares que desligam categorias inteiras de ferramentas — e as isenções individuais que produzem massacres. |
 | [[13 - Emboscada de Um Contra Sete\|Emboscada de Um Contra Sete]] | Como se quebra um grupo especializado: pelo detector e pela confiança, não pelo mais forte. |
 | [[14 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo de arena e numa guerra de exércitos. |
+| [[44 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor que Devolve o Golpe]] | Atenção é um recurso separado da energia, e o teto dele é três. Manter é grátis; mudar é que custa caro. |
+| [[45 - Perder de Propósito e Cobrar Caro\|Perder de Propósito e Cobrar Caro]] | Uma **derrota**: quem vai perder ainda escolhe entre tentar vencer e encarecer a vitória do outro. |
+| [[47 - Um Trunfo que Nunca Foi Testado\|Um Trunfo que Nunca Foi Testado]] | Ninguém mede força, todo mundo a infere — e um blefe bem montado compra dois patamares de aparência. |
 
 ### Dinheiro, mercado e informação
 
@@ -116,6 +131,7 @@ mundo.
 | [[18 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, e vale zero quando todos a têm. |
 | [[19 - A Conta de uma Calamidade\|A Conta de uma Calamidade]] | A planilha completa de um desastre: 666 km² perdidos, quarenta anos de atraso — e um cadáver que paga tudo. |
 | [[20 - Guerra de Preços\|Guerra de Preços]] | Por que possuir um artefato lendário é o mesmo que possuir um setor inteiro da economia. |
+| [[46 - Dar de Graça o que Vai Vazar\|Dar de Graça o que Vai Vazar]] | Todo segredo tem prazo de validade. O que vai vazar em três dias se dá de graça; cobra-se o que não vaza sozinho. |
 
 ### Palavra, reputação e organizações
 
@@ -153,6 +169,8 @@ rank baixo não sabe nada disto, e a maior parte serve ao mestre.
 | [[37 - Escolher o Terreno da Própria Tribulação\|Escolher o Terreno da Própria Tribulação]] | A prova é montada com o material do terreno — e o céu aprende com quem já o explorou. |
 | [[38 - Fazenda de Tribulações\|Fazenda de Tribulações]] | Uma exploração em que as duas partes ganham de verdade, e mesmo assim uma delas é safra. |
 | [[39 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor: um explorador com hipóteses contra trinta e seis falhas. |
+| [[48 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda a Cada Teste]] | Um **fracasso**: há defesas que lucram com cada tentativa de arrombá-las, e só a segunda medição revela isso. |
+| [[49 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | Outro **fracasso**: a lista fechada do que bloqueia uma dedução — e por que acertar demais denuncia um patrono oculto. |
 
 ## O que todo personagem sabe
 
@@ -162,7 +180,14 @@ pesquisá-los; que receitas têm versões melhores; que andar com um mentor de r
 facilita refinos; que aptidão baixa se compensa com dinheiro e tempo nos primeiros ranks;
 que alguns Gu substituem um órgão do corpo, cobrando dor e sigilo em troca de desempenho acima do rank; que certos lugares do mundo desligam o uso de Gu para todos que estão dentro deles; que a aposta de rochas quase sempre dá prejuízo e serve de álibi; que leilões se ganham lendo
 as pessoas; que a palavra empenhada em juramento é executada ao pé da letra; e que reputação
-é o que substitui a polícia inexistente.
+é o que substitui a polícia inexistente. Acrescente ainda: que manter vários Gu ligados ao mesmo
+tempo consome **atenção**, e que quase ninguém sustenta mais de três coisas de uma vez sem
+errar; que bandos de bestas têm um animal que os coordena, e que matá-lo dispersa o bando; que
+um perdedor pode gastar a última gota destruindo o equipamento do vencedor, e que isso é
+considerado uma jogada legítima; que a força de alguém é sempre **inferida** por sinais visíveis,
+nunca medida — e que sinais, portanto, podem ser fabricados; e que informação tem prazo de
+validade, de modo que a notícia que vai vazar sozinha vale mais como favor do que como
+mercadoria.
 
 ## O que só o mestre sabe
 
@@ -171,7 +196,14 @@ Isto muda a leitura do cenário e não deve ser distribuído: que os artefatos �
 destruído; que os espíritos guardiões avaliam **conduta acumulada** e não podem mentir; que
 a fundação vence o rank na disputa por territórios; que a provação de um cultivador é
 matéria-prima colhível por terceiros, e que existe quem fabrique provações em série para
-colhê-las; que possuir ao mesmo tempo um dano e a cura daquele dano torna infinito um recurso que deveria ser finito — inclusive a resistência de um prisioneiro a interrogatório; e que a vontade celeste **se adapta** a quem já a explorou.
+colhê-las; que possuir ao mesmo tempo um dano e a cura daquele dano torna infinito um recurso que deveria ser finito — inclusive a resistência de um prisioneiro a interrogatório; e que a vontade celeste **se adapta** a quem já a explorou. Junte a isto quatro
+segredos que as notas novas trazem: que a **aptidão não é fixa** e pode ser comprada com sangue
+da própria linhagem, o que significa que um clã inteiro pode ter sido plantado como safra; que,
+quando dois efeitos disputam a mesma estatística, vence sempre o de **rank mais alto**,
+independentemente da ordem — de modo que nenhum ganho comprado com um Gu de rank baixo é
+realmente permanente; que existem defesas que **lucram** com cada tentativa de arrombá-las, e
+que insistir nelas as fortalece; e que a adivinhação tem uma lista **fechada** de bloqueios,
+sendo o mais forte deles simplesmente estar dentro de um mundo pequeno.
 
 ## Índice rápido: exceção × regra
 
@@ -217,6 +249,16 @@ colhê-las; que possuir ao mesmo tempo um dano e a cura daquele dano torna infin
 | Terreno da tribulação | **Regra** para quem escolhe onde ascender |
 | Fazenda de provações | Princípio é regra; escala é exceção |
 | Reino de sonho | Método é regra; a escala imortal é exceção de fundação |
+| Fuga por gerenciamento de recursos | **Regra** — o que é raro é o repertório, não o poder |
+| Liquidar o potencial da abertura | **Regra** do sistema; o item é que é raro e de uso único |
+| Comprar aptidão com sangue de linhagem | **Regra**, com pré-requisito de séculos — é um projeto, não uma técnica |
+| Refém mútuo por Gu pareado | **Regra** quanto ao princípio; exceção quanto à oportunidade |
+| Sobrecarregar o defensor por multitarefa | **Regra estrutural** — o teto de atenção vale para todo Mestre Gu |
+| Perder de propósito e cobrar caro | **Regra**, e das mais replicáveis; a oportunidade é que foi excepcional |
+| Vender informação perecível | **Regra corrente e legal** do mercado de informação |
+| Blefe de patamar por aparência | **Regra geral** — sinais de poder são leituras, e leituras se fabricam |
+| Armadilha que se autoalimenta | Método é **regra**; a construção é exceção de altíssimo nível |
+| Falha de adivinhação | **Regra do sistema** — a lista de bloqueios é fechada e o teto é por rank |
 
 ## Relações
 

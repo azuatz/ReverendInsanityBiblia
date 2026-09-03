@@ -252,3 +252,220 @@ Registrado aqui para que ninguém preencha essas lacunas em silêncio numa próx
   desdobrada" à entrada `"09 - Estudos de Caso Mecanicos"` de `_pipeline/numerar-notas.py`,
   que hoje ainda registra uma única nota. A numeração em disco já está correta; o script só
   abortará por divergência enquanto a lista dele não for atualizada.
+
+---
+
+# Segunda passagem (sessão de fechamento)
+
+> **Estado: concluído.** A pasta foi de **39 para 49 notas** (1 porta + 48 casos).
+> Auditoria de links: **0 quebrados, 0 dependentes de alias**, em 216 notas e 4.506 links.
+
+## 1. Conserto dos links quebrados
+
+**Situação encontrada: já consertado.** O relatório de estado (`ESTADO`, commit `c3bba2e`)
+registrava 31 links quebrados como o único problema aberto, mas **o próprio commit `c3bba2e`
+continha o conserto** — a mensagem dele descreve apenas o registro do problema, e por isso o
+handoff da sessão seguinte partiu de uma premissa desatualizada. Verificado de duas formas
+independentes antes de qualquer outra coisa:
+
+1. `python3 _pipeline/auditar-links.py` → 0 quebrados;
+2. extração de **todos os 93 destinos** de wikilink que partem da pasta `09` e conferência de
+   cada um contra o disco, a partir da raiz do vault → todos resolvem.
+
+**Natureza do problema, reconstruída do diff `c3bba2e^..c3bba2e`** (registrada aqui porque o
+mesmo erro pode voltar a qualquer renumeração futura):
+
+- **28 destinos distintos** errados, em **55 ocorrências** de wikilink;
+- **causa única**: a nota-porta e as seções "Relações" foram escritas contra uma numeração
+  anterior, e depois a numeração em disco foi deslocada sem reescrever os links. Todos os alvos
+  ficaram **um a cinco números atrás** do arquivo real (`04 - O Catalisador…` → `05 - O
+  Catalisador…`; `29 - Anexação…` → `34 - Anexação…`);
+- **os títulos nunca mudaram** — só o prefixo numérico —, o que é exatamente o que torna o
+  conserto automatizável: casa-se pelo título e reescreve-se o número;
+- o conserto abrangeu, além das 39 notas da pasta, **4 notas de outras pastas** que apontavam
+  para dentro dela (`02 - Gu/15`, `03 - Paths/07`, `03 - Paths/29`, `08 - Eventos e
+  Cenarios/17`, `08 - Eventos e Cenarios/18`).
+
+**Lição para o orquestrador:** renumerar a pasta `09` à mão é caro e frágil porque **9 notas
+desta pasta recebem links de fora dela**. Toda renumeração deve passar por
+`_pipeline/numerar-notas.py`, que reescreve os links do vault inteiro, e ser conferida com
+`_pipeline/auditar-links.py`.
+
+## 2. Verificação do desdobramento anterior
+
+Conferido contra o histórico do git (`git show 904c1ca` — a última versão da nota única de 823
+linhas):
+
+- os **9 casos** do original (e todas as suas variantes internas) estão presentes nas notas
+  atuais. O mapeamento é o da tabela "Como a pasta foi desdobrada", acima, e foi conferido
+  linha a linha;
+- a única subseção que corria risco de se perder — "A linha de montagem", que estava **dentro**
+  do caso 6 do original — foi preservada em `34 - Anexação de Aberturas`, com os cinco passos e
+  o custo do cronômetro de provação;
+- os "quatro meta-padrões" do original viraram as regras do mundo 1–4 da nota-porta;
+- as **48** notas de caso passam na conferência mecânica de conformidade ao modelo: todas têm a
+  linha "A regra que este caso ilustra", o callout "É exceção ou regra?", o callout "Para o
+  design", uma "Regra proposta", o cabeçalho dos quatro estados de confiabilidade, e **nenhuma
+  citação `(cap. NN)` no corpo**.
+
+## 3. Casos acrescentados nesta passagem (10)
+
+Prioridade declarada: **rank baixo** (onde a campanha começa) e **fracassos** (que ensinam os
+limites da regra). Todos verificados diretamente no texto-fonte, com quatro leitores em
+paralelo; o rascunho `_pipeline/rascunho/estudos-de-caso.md` serviu de pauta, não de fonte — e
+**quatro das dez entradas do rascunho estavam erradas** (ver seção 5).
+
+| Nota | Rank | O que acrescenta ao vault |
+|---|---|---|
+| Fugir de um Enxame e Sair Montado | 3 | Fuga como orçamento. Enxame sem comandante engaja com **um terço** dos efetivos; bandos têm um macho-nó cuja morte dispersa tudo; Gu condenado vira isca (rendeu >50% da essência); besta de rank 5 **hibernando** é refinável por um rank 3. |
+| Comprar um Estágio de Cultivo com Todo o Futuro | 3 | O atalho mais caro do sistema, e **o único caso em que a obra desfaz um atalho**: um Gu de rank 4 sobrescreveu o de rank 3 e derrubou o cultivo de rank 3 a rank 1. |
+| Comprar Aptidão com Cem Vidas | 1–3 | A aptidão **não é fixa**: 43% → 53% → 63% → >90% em seis horas, com rendimento decrescente, cem parentes de sangue por carga. Traz a escala canônica de graus (C/B/A). |
+| O Refém que Cura os Dois Lados | 1 vs 3 | Efeitos pareados como alavanca social. Cura que **rebaixa** a aptidão em 10 pontos para desligar uma condição; a metade retida é refinada de antemão, o que torna o roubo inútil. |
+| Sobrecarregar o Defensor que Devolve o Golpe | 3 | **Atenção como recurso.** Teto canônico de **3** tarefas (5 é o máximo do mundo); manter é grátis, **mudar** custa; contragolpe de **80/20**; a cura só opera quando o ataque para. |
+| Perder de Propósito e Cobrar Caro | 3 vs 4 | **Derrota.** Gastar a última essência no patrimônio do vencedor (3 Gu destruídos) em vez de na vitória. Corrige um erro comum: a perda pesa pela **raridade**, não pela destruição. |
+| Dar de Graça o que Vai Vazar | mortal | Informação **perecível**: dá-se o que vaza em dias, cobra-se o que não vaza (400.000 pedras). Pagamento em adiantamento + complemento pós-verificação; procedência forjada em três camadas. |
+| Um Trunfo que Nunca Foi Testado | 4 | Blefe de patamar. Hierarquia dos reis-fera (rank 2/3/4/5 de Gu selvagem residente); maturidade forçada dá o corpo mas **não** o equipamento; dissuadiu um rank 4 de pico sem um golpe. |
+| A Armadilha que Engorda a Cada Teste | imortal | **Fracasso.** Defesa que **lucra** com cada tentativa (+2.000 marcas por teste). A lição é de método: medir antes **e depois**. Traz a curva canônica de dao marks (100 = +10%, 1.000 = ×2, 16.000 = ×16, sem custo extra). |
+| Quando a Adivinhação Falha | imortal | **Fracasso.** A lista **fechada** de seis bloqueios de dedução, mais o envenenamento por dado faltante; e o uso reverso — fingir falhar, porque acertar acima do próprio rank denuncia um patrono oculto. |
+
+Efeito na distribuição da pasta: os casos de rank 1–4 passam de 9 para **15**, e os casos que
+terminam em fracasso ou derrota passam de 2 para **5**. Os dois desequilíbrios apontados na
+seção "O problema de partida" ficam corrigidos.
+
+## 4. Regras do mundo acrescentadas à nota-porta
+
+A porta ganhou três regras gerais, todas extraídas dos casos novos e todas transversais ao
+vault:
+
+7. **Conflito de efeitos resolve-se pelo rank mais alto, nunca pela ordem de aplicação.** É a
+   regra que impede que qualquer ganho comprado com um Gu de rank baixo seja definitivo.
+8. **Ninguém mede força; todos a inferem por sinais** — e sinais são fabricáveis.
+9. **Atenção é recurso separado da energia**, com teto de três; manter é grátis, mudar custa.
+
+## 5. Correções feitas ao rascunho interno nesta passagem
+
+O rascunho é pauta, não fonte — e nesta leva ele errou em quatro pontos, todos corrigidos
+contra o texto:
+
+- **Fuga (caps. 186-189):** o rascunho diz "perseguidor de rank 5". Falso — o perseguidor é um
+  **enxame de ~100 bestas de rank 3**; os dois cultivadores de rank 5 presentes estão ocupados
+  um com o outro, e um deles até **dizima o enxame** por engano. A **ordem dos cinco passos**
+  também estava trocada, e o rascunho omite que a montaria conquistada está **corrompida e
+  semi-incontrolável**.
+- **Contragolpe (caps. 299-301):** o rascunho atribui o colapso a "dano acumulado retornando".
+  Falso em três camadas — o Gu **nunca é nomeado** nem tem rank informado; os "3+ Gu" são
+  **hipótese não confirmada** de quem atacava; e o que detona é a força de **um único golpe em
+  processamento** quando a concentração falha. O gatilho decisivo foi **provocar o defensor a
+  atacar**, não variar ângulos. E não foi fatal: houve rendição.
+- **Venda dupla (cap. 325):** o rascunho diz que a informação da terra abençoada foi vendida por
+  400.000. Falso — ela foi **dada de graça**, deliberadamente, porque vazaria em dias; os
+  400.000 pagaram um **segundo pacote**, sobre o interior da herança. A segunda venda é
+  **oferecida mas não narrada nem precificada**, e a obra **não comenta** o risco de os
+  compradores compararem versões. A informação era **verdadeira**; só a procedência era falsa.
+- **Falso rei-fera:** o blefe acontece no **cap. 483**, não no 479 (que estabelece a mecânica).
+  O déficit é de **dois degraus** (rei-de-cem em vez de rei-de-miríade), e a causa é **dupla**:
+  crescimento acelerado *e* proximidade constante do dono, que impede a colonização por Gu
+  selvagens.
+
+## 6. O que a obra realmente não diz (acréscimos)
+
+9. **O tempo de recrescimento da aptidão** depois de ela ser rebaixada por cura. A obra afirma
+   que ela volta "conforme você cultivar", e nunca dá prazo nem taxa.
+10. **O nome e o rank do Gu de contragolpe** dos caps. 299-301. O possuidor mantinha nomes e
+    quantidade em segredo, e o narrador nunca os revela.
+11. **O preço em pedras dos Gu destruídos** no caso da derrota calculada, e quanta essência
+    restava à perdedora antes do golpe final.
+12. **O valor do complemento** pago depois da verificação em campo, no caso da venda de
+    informação.
+13. **Um limite numérico de alcance para deduções.** A obra fala em região e em muralhas
+    regionais, e nunca em distância. Também **não** lista o caminho da sorte entre os bloqueios
+    de adivinhação.
+14. **O tempo exato de derretimento de uma alma** na armadilha absorvente, e o número absoluto
+    de dao marks de força do corpo usado no teste (só a comparação é dada).
+
+## 7. Ordem de leitura final — para transcrever em `_pipeline/numerar-notas.py`
+
+Esta lista **substitui** a da seção "Como a pasta foi desdobrada". As dez notas novas estão
+gravadas em disco com os números **40 a 49** (fim da pasta), porque renumerar à mão exigiria
+editar arquivos de outras pastas — trabalho do script, não deste agente. Rodar
+`numerar-notas.py` com a lista abaixo põe a barra lateral no currículo correto e reescreve
+todos os links do vault sozinho.
+
+```python
+"09 - Estudos de Caso Mecanicos": [
+    "Estudos de Caso Mecânicos",
+    # rank baixo — onde a campanha começa
+    "Punhos Contra uma Camada de Defesa",
+    "O Sapo de Rank 5 Que Ninguém Podia Tocar",
+    "Um Gu Implantado no Corpo",
+    "O Catalisador Fora da Receita",
+    "Um Gu Acima do Próprio Rank",
+    "Romper o Rank 2 por Teimosia e Pedras",
+    "O Atalho Demoníaco de Rank",
+    "Comprar um Estágio de Cultivo com Todo o Futuro",
+    "Comprar Aptidão com Cem Vidas",
+    "Caçar o Que Não se Vê",
+    "Roubar o Gu de um Moribundo",
+    "Fugir de um Enxame e Sair Montado",
+    "O Refém que Cura os Dois Lados",
+    # combate e estrutura
+    "A Barreira Que Deixa Sair e Não Deixa Entrar",
+    "O Ambiente Manda Mais que o Rank",
+    "Sobrecarregar o Defensor que Devolve o Golpe",
+    "Emboscada de Um Contra Sete",
+    "Perder de Propósito e Cobrar Caro",
+    "Guerra de Custos",
+    "Um Trunfo que Nunca Foi Testado",
+    # dinheiro, mercado e informação
+    "Aposta de Rochas - Heurística, Perda e Álibi",
+    "Ganhar um Leilão Sem Ser o Maior Lance",
+    "Colher a Flor Antes do Prazo",
+    "Comprar Antes que Seja Notícia",
+    "Dar de Graça o que Vai Vazar",
+    "A Conta de uma Calamidade",
+    "Guerra de Preços",
+    # palavra, reputação e organizações
+    "Brechas de Contrato Mágico",
+    "Reputação Comprada em Prestações",
+    "Chantagem e Extorsão por Informação",
+    "Infiltrar-se numa Organização",
+    # criar, refinar e produzir
+    "Uma Receita Lendária Cumprida com Substitutos",
+    "Um Golpe Mal Testado Usado Além do Limite",
+    "Do Golpe à Formação",
+    "Todos os Multiplicadores de um Refino",
+    "A Linha de Produção de Gu",
+    "O Gu Que Escolhe o Portador",
+    # heranças, territórios e escala imortal [segredo]
+    "As Três Chances de um Espírito Guardião",
+    "Tomar um Território pelas Três Vias",
+    "Um Mortal Refina um Gu Imortal",
+    "Anexação de Aberturas",
+    "Roubo de um Gu Imortal de Rank Superior",
+    "A Armadilha que Engorda a Cada Teste",
+    "Quando a Adivinhação Falha",
+    "Curar o Dano para Repetir o Dano",
+    "Escolher o Terreno da Própria Tribulação",
+    "Fazenda de Tribulações",
+    "Explorar um Reino de Sonho",
+],
+```
+
+**Racional das inserções:** os dois casos de compra de cultivo e de aptidão entram logo depois
+dos dois atalhos de rank já existentes, porque formam com eles uma **família única** — a
+economia dos atalhos, com o preço sempre numa estatística que não volta. A fuga e o refém
+fecham o bloco de rank baixo por serem os dois casos de sobrevivência do Volume 1. O blefe
+encerra o bloco de combate e serve de ponte para o bloco de informação. Os dois fracassos
+imortais entram no meio do bloco 6, **antes** dos casos de tribulação, porque ensinam a ler um
+resultado negativo — leitura que os casos seguintes pressupõem.
+
+## 8. Verificação final desta passagem
+
+- `python3 _pipeline/auditar-links.py` → **216 notas, 4.506 links exatos, 0 dependentes de
+  alias, 0 quebrados.**
+- **49 notas** na pasta; as 48 de caso passam na conferência mecânica de conformidade ao
+  modelo, e nenhuma tem citação de capítulo no corpo.
+- A nota-porta foi atualizada: as 10 notas novas entraram nas tabelas temáticas e na tabela
+  "exceção × regra" (agora com **50** entradas — algumas notas cobrem mais de um veredito), as seções "O que todo personagem sabe" e "O que
+  só o mestre sabe" ganharam os fatos novos, e o `fontes` do frontmatter recebeu os capítulos
+  desta leva.

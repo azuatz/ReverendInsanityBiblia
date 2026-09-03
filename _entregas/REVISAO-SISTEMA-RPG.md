@@ -4,18 +4,30 @@
 > `/home/azuatz/Documentos/REVEREND INSANITY/`. Este revisor **não editou nada** no
 > sistema — só leu.
 >
-> **Status: EM ESCRITA INCREMENTAL.** Blocos são gravados assim que fecham.
+> **Status: FECHADA.** Dez achados numerados, mais as duas seções finais
+> ("o que eu não recomendo acrescentar" e "dúvidas legítimas de escopo").
+> Escrita em duas sessões; a primeira produziu o método, o panorama e o achado 1.
 
 ## Como esta revisão foi feita
 
 **Três acervos, três papéis.**
 
 1. **O sistema** — `/home/azuatz/Documentos/REVEREND INSANITY/` (842 arquivos, 39 MB).
-   Objeto da revisão. Lido: `CLAUDE.md`, `00 — Portal/` inteiro, `01 — Fundação/`
-   inteiro, `02 — Caminho do Cultivo/` inteiro, `03 — Gu/` (estrutura + notas de
-   regra), `04`, `05`, `06`, e varreduras por termo em todos os 842 arquivos.
+   Objeto da revisão. Lido: `CLAUDE.md`, `00 — Portal/`, `01 — Fundação/`,
+   `02 — Caminho do Cultivo/`, `03 — Gu/`, `04`, `05`, `06`, `07 — Terras e Facções/`,
+   `08 — Crônicas/`, `11 — Sementes/`, e varreduras por termo em todos os 842 arquivos.
+   As pastas `03`–`06` foram cobertas em duas passadas: um mapa de lacunas transversais
+   feito antes (`_entregas/MAPA-SISTEMA-RPG-lacunas.md`, oito lacunas) e a releitura
+   dirigida dos arquivos que ele apontou. **Seis daquelas oito lacunas viraram achado
+   numerado** (1 e 8 → achado 3 e achado 8; 2 e 7 → achado 8; 3 e 4 → achados 2 e 7);
+   as duas restantes (5, Golpe Matador Coletivo; 6, Grimório nos ranks 7-9) estão
+   tratadas na seção final de dúvidas de escopo, com o motivo de eu não as promover.
 2. **A Bíblia de Sistema** — `/home/azuatz/Documentos/ReverendInsanityExpert/`
-   (140+ notas escritas a partir da leitura integral da obra). Base de comparação.
+   (206 notas escritas a partir da leitura integral da obra). Base de comparação.
+   O material mais novo dela — as seções "A camada escondida" das notas de Caminho,
+   `08 - Eventos e Cenarios/`, `11 - Forcas e Organizacoes/`, e as notas de combate,
+   ferimento e perda de cultivo — foi cruzado com o sistema nesta segunda passada, e é
+   a origem dos achados 4 a 10.
 3. **A obra** — `~/Documentos/Reverend-Insanity-fonte/texto/*.txt`, 6 volumes.
    **Autoridade máxima e desempate.** Toda citação de capítulo abaixo foi verificada
    por `grep -i` no texto-fonte, e o número do capítulo foi resolvido com
@@ -425,6 +437,23 @@ O espólio que não serve para nada tem exatamente **um** destino no mundo, e é
   rank 8 **e as vontades dos comandantes anteriores**. Uma Casa antiga é, mecanicamente, um
   time de mortos.
 
+**E a regra que faltava para construir uma** (o mapa de lacunas registra que o sistema tem
+manutenção diária e nenhuma regra de aquisição ou de refino). A obra dá o portão em uma frase,
+cap. 559: *"he was only a mortal Gu Master, **one had to be at least a rank eight Gu Immortal to
+refine the Immortal Gu house**"* — a Casa em questão era de rank 8. A regra generaliza sozinha e
+é a mais barata possível:
+
+> **Refinar uma Casa de rank N exige ser Imortal de rank N.** Não há atalho de grupo: seis rank 6
+> não refinam uma Casa de rank 8. É por isso que quase toda Casa em circulação é **herdada,
+> tomada ou encontrada**, e não construída — e é por isso que o Gu de Permanência de uma Casa
+> famosa costuma ter o nome de quem a fez gravado na história.
+
+Isso também explica a diferença entre **refinar** uma Casa e **pilotá-la**: o `🔷 Formações de Gu`
+já permite que a tripulação seja de rank menor que a Casa (com o rank operante caindo), e isso
+está certo — o portão de rank vale para quem a **faz**, não para quem a usa. Cap. 2062 mostra o
+extremo: um operador de cultivo baixo tirando força plena de uma Casa que carrega essência de
+rank 8 dentro.
+
 **Dois reparos de coerência interna, de uma linha cada** (levantados no mapa de lacunas):
 
 1. `🔷 Formações de Gu.md` diz "**Uma Casa-Gu por campanha.** Não é sugestão: é a regra",
@@ -555,7 +584,7 @@ indevidamente.
 > valendo, porque a **negativa absoluta** é o que o cap. 281 desmente — não a ideia de
 > ressonância, que está certa. Trate isto como um ajuste de fraseado com consequência de compra,
 > não como uma refutação da regra inteira.
-### 5. O cardápio de travas: quinze respostas canônicas para "e por que os poderosos não resolvem isso?"
+### 5. O cardápio de travas: a resposta canônica para "e por que os poderosos não resolvem isso?"
 
 - **Categoria:** buraco que atrapalha jogar
 - **Tamanho do trabalho:** pequeno — uma lista numerada dentro de uma nota que já existe
@@ -694,15 +723,22 @@ but he had not completely healed."* Uma aplicação = **um degrau para baixo**.
 Caminhos, tem `⚔️ Combate` sabendo o Caminho de cada golpe, e tem `☯️ Marcas de Dao` com atrito
 entre Caminhos conflitantes. Isto encaixa sem peça nova:
 
+> [!info] A afinidade é entre **Caminhos de Gu**, não entre personagens
+> Isto importa porque `🌏 O Mundo em 10 Minutos` estabelece que, na fase mortal, o Caminho de um
+> personagem *"é só uma tendência (…) ele não escolhe formalmente e não trava nada"*. A regra
+> abaixo respeita isso: o que se compara é o **Caminho do Gu de cura** contra o **Caminho do golpe
+> que causou o ferimento** — dois dados que a ficha do Gu e a do inimigo já publicam. O eixo
+> "marcas do próprio ferido" só entra no rank 6+, onde o sistema já conta Marcas.
+
 | Situação | Efeito sobre `M d8` |
 |---|---|
-| Curandeiro e ferido do **mesmo Caminho** | cura cheia |
-| Caminhos **compatíveis / neutros** | cura cheia |
-| Caminhos **conflitantes** (a mesma lista que `☯️ Marcas de Dao` já usa para o atrito) | **metade** |
-| Ferimento causado por golpe de **rank superior ao Gu de cura** | é preciso **primeiro** uma ação de "lavar as marcas" — ou a cura não faz efeito |
-| Ferimento causado por **golpe imortal**, curado com Gu mortal | **não cura**, ponto. Precisa de um Gu Imortal de cura |
-| Curandeiro do **Caminho Humano** | coringa: cura qualquer um sem penalidade — é a exceção que a obra nomeia |
-| Curandeiro do **Caminho do Sangue** | o curandeiro por excelência do cenário |
+| Gu de cura e golpe que feriu, de Caminhos **compatíveis ou neutros** | cura cheia |
+| Gu de cura e golpe que feriu, de Caminhos **conflitantes** (a mesma lista que `☯️ Marcas de Dao` já usa para o atrito) | **metade** — ou uma ação prévia de "lavar as marcas" devolve a cura cheia |
+| Ferimento causado por **golpe imortal**, curado com **Gu mortal** | **não cura**, ponto. Precisa de um Gu Imortal de cura |
+| Ferimento causado por **fera desolada** | conta como Caminho conflitante por padrão — feras gravam marcas na ferida |
+| Gu de cura do **Caminho Humano** | coringa: cura sem penalidade contra qualquer Caminho — é a exceção que a obra nomeia |
+| Gu de cura do **Caminho do Sangue** | o curandeiro por excelência do cenário |
+| **Rank 6+, ferido com muitas Marcas num Caminho** | cura de qualquer outro Caminho cai pela metade **nele**, some a penalidade acima. É a regra "quanto mais forte, pior cura" |
 
 **Por que essa lista é curta de propósito.** Não estou propondo uma matriz de afinidade nova: a
 lista de Caminhos conflitantes **já existe** no sistema, dentro de `☯️ Marcas de Dao`. A regra
@@ -712,8 +748,10 @@ subsistema fica de pé.
 **A linha que resolve o medo declarado do sistema.** *"Ferimento causado por golpe imortal não é
 curado por Gu mortal"* é, sozinha, o freio que `🎬 Como Criar Suas Sessões` pediu — e ele é
 **canônico, diegético e escalonado**: a cura continua resolvendo tudo o que ela deve resolver
-(cap. 718 registra um exército cujos feridos caíram 80% em oito dias com curandeiros trabalhando,
-*"contanto que os ferimentos não fossem dos problemáticos"*), e para de resolver exatamente o que
+(cap. 516 registra um exército cujos feridos caíram **oitenta por cento em oito dias**, *"a
+maioria recuperando a capacidade de lutar"*, com a ressalva decisiva: *"as long as the Gu Masters
+were not inflicted with **troublesome injuries**, they could be healed"* — e naquele mesmo mundo
+um membro decepado volta a crescer), e para de resolver exatamente o que
 não deveria.
 
 **Um detalhe barato que o Catálogo pode absorver.** O Gu de cura de rank 1 do cenário — a folha
@@ -840,3 +878,383 @@ entregou, e porque o Ato 3 do `🗺️ Arco da Campanha` depende dela: sem núme
 fechado no ato imortal" é uma afirmação que o mestre precisa sustentar no grito. Com a tabela, a
 travessia vira uma das melhores cenas do ato — uma em que **o membro mais fraco do grupo é o
 herói**, o que quase nenhum sistema consegue produzir.
+
+---
+
+### 8. Há **treze Casas de Gu Imortal canônicas** escondidas dentro do índice corrompido — o sistema já as tem e não sabe
+
+- **Categoria:** buraco que atrapalha jogar *(disfarçado de bug de conversão — e o achado de melhor razão trabalho/retorno da lista)*
+- **Tamanho do trabalho:** pequeno — recortar dezessete linhas de uma tabela e colá-las noutra
+
+**O que está no sistema hoje.** `03 — Gu/📇 Índice de Gu do Romance — Consulta.md`, na "Camada B —
+200 Gu", tem uma **tabela de Casas de Gu Imortal fundida por engano dentro da tabela de Gu**,
+junto com a linha de cabeçalho dela. O resultado é visível a olho nu:
+
+```
+| Calamity Luck Altar | 8 | sorte |
+| Casa | Rank | Caminho |          ← cabeçalho da outra tabela virou "um Gu chamado Casa"
+| Chamber Pot | 7 | trevas |
+| Cook | 7 | comida |
+```
+
+A coluna "Efeito" desses registros não contém efeito nenhum: contém o **Caminho**, porque a tabela
+de origem tinha as colunas `Casa · Rank · Caminho`. Elas são fáceis de encontrar em bloco: são as
+únicas linhas da tabela cuja terceira coluna é uma palavra só e essa palavra é o nome de um
+Caminho (`sorte`, `trevas`, `comida`, `tempo`, `sabedoria`, `roubo`, `luz`). São **dezesseis linhas de Casa mais a linha de
+cabeçalho** (linhas 53, 55, 57, 60, 61, 65, 81, 87, 109, 144, 149, 161, 175, 204, 216, 217 e 230
+do arquivo), e há ainda pelo menos duas células **cortadas no meio da frase**: *"Converte marcas de lei de qualquer caminho em
+marcas de"* (Adaptation Gu) e *"…ataques de pens"* (Battle Thought Gu).
+
+**Por que isso é mais do que um erro de digitação.** Três das dezesseis já estão no
+`📖 Catálogo de Gu` (Calamity Luck Altar, Dark Prison, Graceful Chaotic Duel Stage). **As outras
+treze não estão em lugar nenhum do sistema** — e o Catálogo afirma, na linha de fecho da seção,
+*"Total: 12 Casas de Gu Imortal (nenhuma inventada — todas aparecem no romance)"*. São treze Casas
+canônicas a mais que o sistema já levantou, escreveu num arquivo seu, e perdeu na conversão:
+
+| Casa | Rank | Caminho | Ocorrências no texto-fonte |
+|---|---|---|---|
+| Chamber Pot | 7 | trevas | verificada |
+| Cook | 7 | comida | verificada |
+| Cooking Luck Pot | 7 → 8 | sorte | 117 |
+| Eat Fragrance | 6 | comida | verificada |
+| Eternal Yacht | 8 | tempo | 78 |
+| Luck Suppression Heavenly Palace | 8 | sorte | 88 |
+| Medicine Fragrance | 8 | comida | verificada |
+| Myriad Age Building | 7 | tempo | 25 |
+| Present and Past Pavilion | 7 | tempo | 111 |
+| Star Constellation Chessboard | 8 → 9 | sabedoria | 135 |
+| Thieves Den | pico | roubo | 30 |
+| Thought Expelling Pavilion | 7 | sabedoria | 9 |
+| Winding Light Platform | 7 | luz | 29 |
+
+*(A coluna da direita é a contagem bruta de ocorrências do nome nos seis volumes, feita com
+`grep -ric`. Nenhuma delas é uma menção isolada: todas são estruturas recorrentes do romance.)*
+
+**O que isso resolve, além da higiene.** O mapa de lacunas registra que o Catálogo lista 12 Casas
+enquanto `🔷 Formações de Gu` afirma "uma Casa-Gu por campanha, é regra". Com treze Casas a mais,
+a leitura correta fica óbvia e a contradição some sozinha: **o mundo tem dezenas de Casas; a mesa
+tem uma.** E dá ao mestre um repertório de Casas **inimigas** — hoje ele só tem as doze que o
+grupo poderia querer.
+
+Repare, ainda, no que a lista revela do próprio mundo: há **três Casas do caminho da comida**
+(Cook, Eat Fragrance, Medicine Fragrance), **quatro do tempo** e **três da sorte**. É uma
+distribuição que diz muito sobre quais Caminhos constroem estruturas neste cenário — informação
+de cenário que não custa nada porque já está paga.
+
+**Mais dois reparos de higiene, da mesma família e igualmente baratos:**
+
+1. **`03 — Gu/🍖 Sustento e Alimento.md` fala de Gu Imortal faminto e não diz o que acontece.**
+   A nota manda o leitor para `🌾 Ecologia e Economia da Terra Abençoada`, que tem a seção
+   "Penalidade por Fome" com os degraus e a regra — excelente, aliás — de que **realimentar cura
+   um degrau por ciclo, nunca mais de um** *(que é, de quebra, exatamente a mecânica de cura da
+   obra: ver achado 6)*. Falta só **repetir os quatro degraus na nota de sustento**, porque é
+   nela que o mestre vai olhar no meio da sessão. Duas dessas notas se conhecem; o mestre em
+   cima da hora não.
+2. **As duas células truncadas do índice** precisam ser recompletadas ou marcadas com `—`.
+   Uma entrada de consulta cortada no meio é pior do que uma entrada vazia: ela parece
+   informação.
+
+**Onde isso mora na nossa Bíblia:** `10 - Apendices/05 - Catálogo de Gu - Imortais.md` e
+`02 - Gu/08 - Formações de Gu.md` — que trazem as Casas com efeito, e podem preencher a coluna
+"Efeito" das treze linhas se o executor quiser promovê-las a fichas.
+
+**Onde entraria no sistema:** recortar as dezessete linhas (as dezesseis Casas e o cabeçalho) de
+`📇 Índice de Gu do Romance — Consulta.md` e colá-las como **tabela própria** no mesmo arquivo
+(ou no `📖 Catálogo de Gu`, seção "Casas de Gu Imortal", como lista de nomes sem ficha — que é o
+que a Camada B é). Ajustar o total declarado de 12 para 25.
+
+**Por que recomendo.** Porque é conteúdo canônico que o sistema **já pagou o custo de levantar** e
+está perdendo por um erro de tabela — e porque um índice de consulta com cabeçalho vazando é a
+coisa que mais rápido faz um mestre desconfiar de um vault inteiro. É meia hora de trabalho.
+
+---
+
+### 9. A "promoção mística": acúmulo de Marcas concede faculdade inata — e o sistema diz que isso **nunca** acontece
+
+- **Categoria:** profundidade que vale a pena *(com um "nunca" a corrigir)*
+- **Tamanho do trabalho:** pequeno — uma linha de regra e quatro exemplos canônicos
+
+**O que está no sistema hoje.** `02 — Caminho do Cultivo/☯️ Marcas de Dao.md` separa os dois eixos
+com muita clareza, e a separação é boa:
+
+> ```
+> Marcas sobem sozinhas, com o tempo e o risco.
+> Domínio só sobe quando o personagem entende alguma coisa.
+> ```
+> (…) sobe **em salto**, quando a mesa reconhece um feito real de compreensão (…) **Nunca por
+> acúmulo.**
+
+**O que a obra diz.** Cap. 1119 registra, como saber corrente entre imortais, exatamente a coisa
+que o sistema nega:
+
+> *"I heard that **with a certain number of luck path dao marks, the Gu Immortal will have a
+> mystical promotion**."*
+>
+> *"That's right, **for refinement path Gu Immortals, their Gu refinement abilities would rise
+> sharply, when refining Gu, they would be able to sense minute details. For fire path Gu
+> Immortals, they would have a certain sense towards fire path Immortal Gu and desolate beasts.
+> For wisdom path Gu Immortals, even without using any Gu, their own deduction abilities would be
+> very strong. As for luck path Gu Immortals, they would have some sensation towards their own
+> luck or the luck around them.**"*
+
+Quatro Caminhos, quatro faculdades, e o padrão é o mesmo nos quatro: **um sentido passivo, sempre
+ligado, que funciona sem Gu e sem custo**. Não é poder de combate — é percepção.
+
+**Onde o sistema já acertou, e vale dizer.** A **Simulação de Marca** do nível Mestre (*"você
+replica o efeito de um Gu do seu Caminho sem ter o Gu"*) e o **Improviso cruzado** do
+Grão-Mestre são a versão ativa e balanceada desta mesma ideia canônica — inclusive a frase de
+fecho da nota, *"a partir de Mestre, o personagem para de depender do que carrega"*, é
+praticamente a tradução de *"even without using any Gu"*. Se essas regras estiverem marcadas como
+✍️ autorais, **elas merecem 📕**.
+
+**O que falta, e é o que recomendo:** a versão **passiva e por contagem**. Uma linha:
+
+> **Sentido do Caminho.** Ao cruzar o topo da faixa de Marcas do seu rank num Caminho, o Imortal
+> ganha um sentido inato daquele Caminho — permanente, sem custo de essência, sem rolagem, sem
+> Gu. Não causa dano e não substitui um Gu: ele **percebe**. Refino sente detalhes minúsculos ao
+> refinar; Fogo sente Gu Imortais e feras de fogo por perto; Sabedoria deduz sem Gu de dedução;
+> Sorte sente a própria sorte e a alheia. Para um Caminho não listado, o mestre escolhe o sentido
+> equivalente `*`.
+
+**Por que recomendo, apesar de ser pequeno.** Porque hoje o sistema tem um Imortal "denso" — o de
+contagem alta e Domínio baixo — que é **puramente defensivo**: ele só ganha Vitalidade. É a
+categoria de personagem que o próprio vault chama de "o veterano que ninguém consegue matar", e
+ela não tem nada para *fazer*. O sentido do Caminho dá a ela uma competência fora de combate que
+custa zero de balanceamento e que os jogadores vão usar toda sessão — e transforma "acumulei
+Marcas sem entender nada" de um beco sem saída num tipo de personagem.
+
+E, junto, **conserta um "nunca"**: o sistema pode continuar dizendo *"Domínio nunca sobe por
+acúmulo"* — é uma boa regra —, desde que pare de dizer que **nada** sobe por acúmulo. Sobe: o
+sentido.
+
+**Onde isso mora na nossa Bíblia:** `01 - Cultivo/12 - Dao Marks.md`, e as seções "A camada
+escondida" de `03 - Paths/` (o caminho do qi, o da sorte e o da formação discutem a promoção
+mística cada um do seu ângulo — o da formação notavelmente por **não** ter uma).
+
+**Onde entraria no sistema:** `02 — Caminho do Cultivo/☯️ Marcas de Dao.md`, junto da tabela de
+Densidade Imortal — porque é o mesmo eixo (contagem) e o mesmo público (o Imortal denso).
+
+---
+
+### 10. A escada também desce: idade, atalhos empilhados e aptidão que cai
+
+- **Categoria:** profundidade que vale a pena
+- **Tamanho do trabalho:** pequeno — três linhas, cada uma numa nota diferente que já existe
+
+**O que está no sistema hoje.** O sistema **já tem** as duas pontas: `❤️ Recursos e Dano` tem a
+**Destruição da Abertura** (o caso terminal, com Aptidão a 0%), e o `📖 Catálogo de Gu` cobra
+*"um estágio de cultivo permanente"* de quem é ressuscitado pelo Gu do Ressurgir dos Mortos. O que
+não existe é o **meio da escada**: nada no sistema faz um personagem descer sem ser destruído.
+
+**O que a obra dá — três vetores, todos verificados, todos baratos de escrever.**
+
+**1. A idade derruba o rank.** Cap. 145, sobre um veterano:
+
+> *"At his peak period, he had reached Rank three. However, **because of injuries, his cultivation
+> dropped down to Rank two peak stage** and now **due to his old age, his cultivation had further
+> dropped down to Rank two upper stage**."*
+
+Duas quedas, duas causas diferentes, na mesma ficha. A carreira de um cultivador é **um arco, não
+uma reta**: sobe, estaciona e desce antes de acabar. Isso conversa direto com `⏳ Longevidade`, que
+é a melhor nota do vault e que hoje trata a idade **só** como um relógio de morte. Uma linha na
+tabela dela — *a partir de certo ponto da vida, o personagem começa a perder estágios* — devolve
+ao ancião de clã a forma canônica dele: alguém que **já foi** mais forte, e que sabe disso.
+
+**2. Atalhos empilhados brigam entre si.** Cap. 198, e este é o caso mais espetacular do gênero:
+
+> *"Fang Yuan had used the **Stone Aperture Gu** to squeeze out all his potential, causing his
+> cultivation to rise to Rank three peak stage. But this **Blood Skull Gu** injected the quality
+> blood stream into him, raising the aperture's potential and raising his aptitude."*
+
+Resultado: a aptidão saiu de **43% para mais de 90%**, e o cultivo caiu de **rank 3 para rank 1**.
+O texto até faz a pergunta que o leitor faria — *"First gen Gu Yue evidently retained his
+cultivation level as his aptitude rose, so why (…) when it came to Fang Yuan?"* — e a resposta é
+a regra: **quem forçou a abertura com um método artificial perde tudo o que aquele método
+sustentava quando um método de rank maior age sobre a mesma abertura.** Quem chegou lá
+naturalmente não perde nada.
+
+Isso é **exatamente o freio que a tabela de onze desvios de `⏳ Longevidade` já quer ter**. Hoje
+ela cobra `+2` de CD por método heaven-defying acumulado, que é um custo abstrato; a obra oferece
+um custo diegético e muito mais assustador: **o atalho novo apaga o atalho velho, e o personagem
+desaba junto**. O sistema pode manter o `+2` e acrescentar a consequência.
+
+**3. Aptidão desce, e não só na destruição da Abertura.** `🌟 Aptidão e Abertura` tem uma seção
+"Aptidão não é 100% fixa" com **três formas de subir** e nenhuma de descer. A obra tem as duas
+direções, e a mais elegante é um preço de milagre — cap. 199, sobre um Gu de cura de rank 4 que
+ressuscita:
+
+> *"It is a Rank four healing Gu and has the effect of bringing the dead to life. It has a weak
+> point though, and that is — **the Gu Master's aptitude will be lowered by 10% once it is
+> used**."*
+
+E há a via lenta: **essência alheia deixada dentro da abertura impregna a parede e derruba a
+aptidão** quanto mais tempo ficar — que é, aliás, a outra face do achado 1 (essência de outro não
+é só inútil: é tóxica).
+
+> [!note] Uma sugestão de troca, não de acréscimo
+> O Gu do Ressurgir dos Mortos, no Catálogo do sistema, cobra hoje *"um estágio de cultivo
+> permanente"*. A obra cobra **10% de aptidão, para sempre**, pelo Gu equivalente. Trocar um pelo
+> outro **não acrescenta regra nenhuma** e é estritamente melhor: estágio se recupera jogando,
+> aptidão não se recupera nunca — e a aptidão é o número que o mundo inteiro deste cenário
+> enxerga e julga. É a diferença entre "atrasei" e "sou outra pessoa agora".
+
+**Onde isso mora na nossa Bíblia:** `01 - Cultivo/15 - Perder Cultivo.md` — as cinco formas de
+perder cultivo, o que volta e o que não volta, e a seção "Perder de propósito".
+
+**Onde entraria no sistema:** uma linha em `⏳ Longevidade` (idade), um callout de aviso em
+`⏳ Longevidade` na tabela dos desvios (atalhos empilhados), e três bullets em
+`🌟 Aptidão e Abertura` (aptidão descendo). **Nenhuma nota nova.**
+
+**Por que recomendo — com a ressalva de que este é o achado mais fácil de recusar.** O sistema é
+construído sobre uma catraca que sobe, e isso é uma escolha de design defensável para uma mesa
+que quer jogar. O que eu recomendo **não** é abrir a porta de o personagem do jogador decair: é
+dar ao **mestre** o vocabulário canônico para NPCs — o ancião que já foi rank 3, o gênio que
+trocou poder por potencial, o velho mestre que enfraquece a cada ano. Se o executor adotar só
+isso e não mexer nas regras dos PJs, o achado já valeu.
+
+---
+
+## O que existe na obra e eu NÃO recomendo acrescentar
+
+Esta seção é parte do produto. Cada item abaixo é material canônico, real, verificado — e cada um
+foi **recusado por mim**, com o motivo escrito, para que o agente executor não gaste uma sessão
+reabrindo a discussão. Se ele discordar de alguma, que discorde com o argumento na mão.
+
+**1. As fichas de clãs, seitas, tribos e cidades das cinco regiões.**
+A Bíblia tem seis notas com o inventário político das cinco regiões, nome por nome. O sistema
+**recusa deliberadamente** ter cenário: `🌍 Terras e Facções` diz, em callout, *"Nada nesta pasta
+é obrigatório (…) o cenário é seu pra inventar"*, e `🛠️ Como Criar Sua Lore` ensina a construir o
+próprio em quatro passos. Importar cinco regiões de facções nomeadas **contradiria a arquitetura
+do vault** e acrescentaria mais volume do que qualquer outro item desta revisão inteira. O que
+vale importar dali já está no achado 5 (as travas), que é ferramenta e não cenário.
+
+**2. Os vinte e nove cenários jogáveis da Bíblia.**
+Mesma razão, mais uma: eles são **acontecimentos do romance**, e o sistema tem uma política
+explícita de spoiler (*"Não use — é enredo: eventos específicos da trama, mesmo disfarçados de
+lenda antiga"*). Extraí deles a única camada que atravessa a política — as travas — e ela cabe em
+uma seção.
+
+**3. As vinte e oito trilhas de cultivo que faltam.**
+A obra nomeia cerca de cinquenta e um Caminhos; o sistema joga com vinte e três. **A curadoria
+está certa** e é o tipo de decisão que um sistema de mesa precisa tomar. Vinte e oito Caminhos a
+mais seriam vinte e oito dados, vinte e oito vias de avanço e vinte e oito seções de Catálogo —
+pelo ganho de poder dizer que a lista está completa.
+
+**4. Marcas de Dao no patamar mortal.**
+Isto é canônico e eu tropecei nele no achado 4: o fantasma de fera **é** uma marca de dao no corpo
+de um cultivador de rank 2, e removê-lo barateia o custo de Gu de outro Caminho (cap. 291). Ou
+seja, no romance a economia de marcas existe desde o começo. **Mesmo assim, não importe.** O
+sistema fez a escolha oposta de propósito — marcas começam no rank 6 — e ela sustenta duas coisas
+boas: a fase mortal é leve de rastrear, e a virada para imortal ganha um subsistema inteiro só
+dela. Um contador de marcas mortais duplicaria o que os Níveis de Potência já fazem e cobraria
+rastreamento de todo jogador desde a sessão 1.
+
+**5. As proporções canônicas de "quantos fracos derrubam um forte".**
+A obra publica números: três rank 3 para um rei-fera; dois rank 4 no pico para um rank 5; contra
+um imortal, um é irrelevante, três resistem, seis seguram e nove pressionam. São ótimos de ler e
+**péssimos de importar**, porque o sistema já responde a essa pergunta com 3.000+ iterações de
+simulação por cenário e uma tabela de composição de cena medida. Números de prosa não devem
+brigar com números medidos. *(A frase que vale copiar, se alguma: **"número decide dentro do mesmo
+patamar; contra um patamar acima, número é combustível"** — mas ela já está implícita no molde de
+Horda.)*
+
+**6. O bestiário de oitenta e sete criaturas.**
+O `⚔️ Ameaças Genéricas por Rank` tem seis moldes que escalam por `M` até o rank 9 e uma receita
+de variação ("troque o Caminho da especial"). Um bestiário nomeado é sabor, e sabor é exatamente
+o que o mestre inventa mais rápido do que consulta. **Exceção:** se em algum momento o executor
+quiser exemplos prontos, o lugar barato é a linha de "como variar sem refazer a ficha", com cinco
+nomes, não uma nota nova.
+
+**7. A medicina mortal sem Gu, e a perda de sangue como condição própria.**
+A obra tem salão de medicina como departamento de clã, triagem (estancar, desinfetar, imobilizar,
+enfaixar), kits que acabam no meio da campanha, e **perda de sangue progredindo sozinha** —
+lentidão, saída de combate, inconsciência, morte — independente da gravidade do ferimento. É
+excelente ficção e é **mais uma condição para rastrear numa mesa que já rastreia Vitalidade, Alma,
+Essência, Ferimento, Exposição e alimentação de Gu**. O orçamento de rastreamento do sistema está
+cheio. Vale como descrição do mestre, não como regra.
+
+**8. A "promoção mística" escrita Caminho por Caminho.**
+A obra nomeia quatro (refino, fogo, sabedoria, sorte). Escrever as outras dezenove seria inventar
+dezenove faculdades e marcá-las `*`. O achado 9 propõe deliberadamente **a regra geral com os
+quatro exemplos canônicos** e "o mestre escolhe o equivalente" para o resto. Não expanda.
+
+**9. As paredes regionais como cinco fichas separadas.**
+No achado 7 recomendo a **tabela de efeito**, que é regra, e menciono que a Bíblia tem nome, cor e
+interior de cada uma das cinco. Isso é uma tabela de cinco linhas para descrição — **não** cinco
+seções. A parede é um obstáculo, não um lugar.
+
+**10. O repertório canônico de fuga e contra-rastreamento.**
+A Bíblia tem páginas sobre como se foge, como se rastreia e como se anula um rastreio neste mundo.
+O sistema tem `🏃 Fuga e Perseguição` fechado, com teste, custo e procedimento, medido em
+simulação. Não mexa: o que a obra acrescentaria é repertório de Gu, e repertório de Gu é assunto
+do Catálogo, que já é o maior arquivo do vault.
+
+---
+
+## Dúvidas legítimas de escopo
+
+Casos em que mais de uma decisão é defensável. Descrevo as opções e digo qual eu tomaria — mas a
+decisão é do autor do sistema, não minha.
+
+**1. A cura por afinidade de Caminho (achado 6) mexe com a matemática medida?**
+Sim, potencialmente. Metade da cura muda a curva de atrito, e a curva de atrito foi calibrada em
+simulação.
+- *Opção A — adotar só a linha imortal:* "ferimento causado por golpe imortal não é curado por Gu
+  mortal". **Impacto zero na matemática mortal**, porque nenhum combate mortal contém golpes
+  imortais. Ganho: a fronteira mortal/imortal passa a doer.
+- *Opção B — a tabela inteira, incluindo a metade por conflito de Caminho.* Ganho maior, custo de
+  remedição.
+- **Recomendo A agora e B depois de medir.** A é grátis e já entrega a maior parte do valor.
+
+**2. Aptidão que desce (achado 10) vale para os personagens dos jogadores?**
+- *Opção A — só NPCs.* O mestre ganha vocabulário (o ancião decaído, o gênio que trocou poder por
+  potencial) e nenhum jogador perde ficha por causa do calendário.
+- *Opção B — vale para todos*, como na obra.
+- **Recomendo A como padrão e B como regra opcional declarada na sessão zero.** A obra é impiedosa
+  porque é um romance sobre uma pessoa só; uma mesa tem quatro, e uma delas vai ser a azarada.
+
+**3. A Casa de Gu Imortal queimando essência saqueada (achado 3) quebra a economia?**
+Pode. Se cada imortal derrotado render um estoque de contas que a Casa converte em combustível, o
+grupo que caça imortais nunca mais fica sem gasolina — e o achado 1 existe justamente para que
+combustível seja escasso.
+- *Opção A — sem teto*, como na obra.
+- *Opção B — teto por cena*: a Casa queima essência de terceiros até um limite por cena, e o
+  excedente fica guardado. **Recomendo B**, porque preserva o achado 1 (roubar essência continua
+  sendo desarmamento, e não abastecimento) e mantém o ganho de design (o espólio inútil passa a ter
+  destino).
+
+**4. O rank 1 e a Supressão Regional (achado 2).**
+- *Opção A — manter a linha autoral "Gu de rank 1 não funcionam" e apontar o refino no destino como
+  a saída canônica.* A pendência fecha sem mudar a regra.
+- *Opção B — apagar a linha do rank 1 e deixar só a queda canônica de um rank.* Mais limpo, mas um
+  Gu de rank 1 a "rank 0" precisa de um valor definido de `M`, que hoje não existe.
+- **Recomendo A**, porque não exige tocar em nenhuma fórmula.
+
+**5. A economia de prisioneiros — o único assunto que fiquei em dúvida se deveria ter virado
+achado numerado.**
+A obra é explícita em que **prisioneiro vale mais que cadáver**: memória se rouba, escravo se usa,
+resgate se cobra, mandado se resgata — e um morto não dá nada disso. O sistema tem
+`⛓️ Espólio de Gu Imortal` (excelente) e `🕵️ Preparação e Informação`, mas o incentivo de mesa
+hoje aponta para matar.
+- *Opção A — um parágrafo em `⛓️ Espólio`:* "o que um prisioneiro rende que um cadáver não rende",
+  com quatro linhas. Custo mínimo, e muda o comportamento da mesa na primeira vez que é lido.
+- *Opção B — deixar de fora*, porque é assunto de mestre e não de regra.
+- **Recomendo A.** Não virou achado numerado porque não consegui demonstrar que a ausência trava
+  alguém na mesa — mas é o item que eu promoveria primeiro se sobrasse orçamento.
+
+**6. Duas pendências do sistema que eu não consigo ajudar a fechar, e que continuam abertas.**
+Registro para que não pareçam esquecidas:
+- **O Golpe Matador Coletivo** está com custo e benefício marcados como **PROVISÓRIOS** por um bug
+  de motor de simulação, com remedição pendente. Isso é medição interna: eu não tenho os dados da
+  simulação e não deveria opinar. **Continua sendo, na minha leitura, a pendência mais urgente do
+  vault** — mais do que qualquer achado meu, porque é um número em uso que se sabe errado.
+- **O Grimório de Ameaças** tem exemplos prontos só até o rank 6. Eu **não** recomendo escrever
+  fichas de rank 7 a 9 (ver a seção anterior, item 6), mas recomendo **declarar isso por escrito**
+  na nota: "dos ranks 7 a 9 o sistema oferece a matriz de diferencial de domínio e o molde por `M`,
+  e não oferece exemplos, porque nesse patamar o confronto é resolvido por trava, terreno e
+  política — ver o cardápio de travas". Uma frase transforma uma lacuna aparente numa decisão
+  declarada, que é o padrão que este vault já aplica em toda parte.
+
+---
+
+*Fim da revisão.*

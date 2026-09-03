@@ -5015,3 +5015,1296 @@ descrito como uma **diferença sutil já existente em qualquer união de sortes*
 os Gu criam do nada — os dois Gu apenas **formalizam e fixam** um desequilíbrio que a natureza já
 produz sozinha. É a única "maldição" do caminho da sorte enunciada como **cargo formal**: alguém
 tem de ser o secundário para que outro seja o principal.
+
+### Caminho da força
+
+#### Alteração do mundo
+
+**⭐ Pulling Mountain** — **ergue uma montanha inteira**. Além da força bruta, ele faz algo que
+nenhum outro método alcança: **rompe a ligação da montanha com o qi de terra sem danificar o
+corpo dela** — e, quando a montanha é reposta no chão, **a ligação se refaz sozinha**.
+*Alimentação:* rocha bruta, em cargas grandes `*`. *Desvantagem:* **consome essência imortal
+continuamente enquanto está ativo**, na ordem de **três contas por um trecho curto de uso** — é
+um dos poucos Gu do catálogo com custo por tempo medido. *Como se obtém:* estava **no topo de um
+lote de leilão** de Gu de força bestial. *Interações:* pertence ao ramo "céu e terra" do caminho
+da força, que **toma a força emprestada da natureza** em vez do corpo — o mesmo ramo do
+**Pulling Water** e do **Overturn River**.
+
+**⭐ Overturn River** — Gu de força do ramo "céu e terra", que **vira o curso de rios**. A obra o
+cita **uma única vez, dentro de um lote de troca, e não descreve o mecanismo**. *Alimentação:*
+lodo e água de leito de rio `*`.
+
+#### Defesa
+
+**⭐ Cauldron Strength** — Gu **defensivo**, o que é raridade num caminho quase todo ofensivo.
+Ativado, **ergue em volta do usuário um caldeirão feito de força pura, sem forma fixa**, que o
+protege. A obra **não informa o que essa defesa aguenta**. *Alimentação:* metal fundido e carne
+`*`. *Interações:* por ser **defesa amorfa**, não há ângulo que a contorne `(ded.)`.
+
+#### Cultivo e progressão
+
+**⭐ Iron Crown Eagle Strength Gu** — do mesmo ramo dos **fantasmas de força de fera** a que
+pertence o Flying Bear Strength. **Grava no corpo do usuário parte das marcas de lei de força da
+águia-de-coroa-de-ferro**; quando essas marcas entram em ressonância com ele, ele passa a
+**exercer a força da própria águia e a invocar o fantasma de força dela**. Serve também de **Gu
+de cultivo**: mantê-lo em uso **acumula marcas de força que aumentam o poder de todos os outros
+Gu de força do dono**. *Alimentação:* carne de ave de rapina imortal `*`. *Desvantagem:* o limite
+é **anatômico**, e a obra o declara: **marcas de fera não assentam bem num corpo humano** —
+saem esparsas e rendem pouco —, de modo que o Gu **só compensa para quem já tenha adaptado o
+corpo à criatura**. *Interações:* é o **único da linha construído sobre um animal voador** —
+todos os demais fantasmas de força de fera vêm de bichos de chão —, e num usuário que já voe o
+efeito chega a **rivalizar com um golpe imortal de deslocamento**.
+
+### Caminho da regra
+
+#### Suporte e infraestrutura
+
+**⭐ Cause Gu** — rank não declarado; `(ded.)` **alto**, porque é núcleo de um golpe que a obra
+chama de rank 9 na versão original, e ao ser substituído por um Gu de rank 7 mais Gu mortais o
+golpe **cai para rank 6**.
+
+- **O que faz:** **a obra afirma que ele é o Gu-núcleo dos dois golpes de karma de um Venerável,
+  e nunca descreve o seu efeito isolado** — o que ela descreve em detalhe é o que os golpes
+  fazem. Karma, no vocabulário da obra, é a **cadeia causa→efeito**, e o par Cause + Effect
+  encarna literalmente os dois lados dela. O golpe principal é a **árvore divina do karma**:
+  fumaça verde brota acima da cabeça do usuário e vira uma árvore que usa o **destino como solo
+  para criar raiz** e a **sorte como água para nutrir as folhas**, e que permite **ignorar toda a
+  perturbação e confusão do mundo para encontrar a causa-raiz e o efeito de qualquer assunto**. A
+  árvore **reage sozinha**: quando o usuário comete uma causa pequena que vai gerar um efeito
+  grande e desastroso, a fumaça verde **irrompe como aviso**. Nos galhos amadurecem **frutos de
+  karma** — de bom efeito e de mau efeito. Um fruto de mau efeito grande amadurece coberto de
+  fumaça escura que vai **lentamente assumindo a aparência do alvo**; quando a fumaça para de se
+  mover e a forma se completa, **o alvo fica completamente subjugado, sem qualquer possibilidade
+  de reação**. Em combate a árvore é sobretudo **defesa e sustentação** — bloqueia ataques
+  perfeitamente, afasta ilusões e labirintos numa certa área ao redor, e é praticamente
+  inesgotável —, mas também serve para ataque, deslocamento e cura. Há um segundo golpe
+  encadeado, **realocação de karma**: a árvore balança como se soprada por vento forte e
+  **teleporta para locais aleatórios tudo que está ao redor do usuário** — Gu Imortais, plantas,
+  feras e até golpes inimigos em pleno voo —, nunca o próprio usuário.
+- **Como é:** — a obra não descreve o verme; descreve a árvore que o golpe materializa.
+- **Alimentação:** — a obra não informa.
+- **Desvantagem:** o custo da realocação é contado em frutos: **golpes fracos teleportados não
+  gastam fruto; um golpe forte gasta um fruto; cada Gu Imortal de rank 7 teleportado gasta um
+  fruto** — e **quando os frutos acabam, a árvore se desfaz no vento**. Se algo for teleportado
+  para além da distância que o usuário consegue controlar, ele **sofre contragolpe e pode ficar
+  gravemente ferido**. E há um teto de patamar: na versão de rank 9 completa a árvore produziria
+  frutos **conforme a vontade do dono**, que poderia colher um fruto bom e **deduzir a causa de
+  trás para frente**, resolvendo um problema atacando sua raiz — **um usuário de rank 8 não
+  alcança isso**.
+- **Como se obtém:** é núcleo de uma herança verdadeira de Venerável.
+- **Evolução:** — a obra não registra subida de rank.
+- **Interações:** **substituição documentada**, e é o melhor exemplo do catálogo de como um golpe
+  degrada quando se troca o núcleo: sem Cause e Effect, o golpe pode ser remontado com um Gu
+  Imortal de madeira de rank 7 no núcleo mais Gu Imortais de rank 6 de madeira e uma quantidade
+  enorme de Gu mortais — e o resultado tem **passos muito mais complexos, demora muito mais para
+  acionar, não serve para combate real e cai para poder de rank 6**. Com proficiência maior no
+  caminho da madeira e um Gu-núcleo mais adequado que bambu maduro (a obra faz a piada de que
+  **bambu é gramínea, não árvore**, e por isso é núcleo ruim para uma árvore), o mesmo golpe sobe
+  a rank 7 e passa a servir em batalha.
+
+> [!warning] Divergência interna da obra sobre o caminho do par
+> Um capítulo chama Cause e Effect de "os dois Gu Imortais **do caminho da regra**"; dois
+> capítulos posteriores dizem "o Gu Imortal de núcleo do caminho da regra 'Cause' e o Gu Imortal
+> de núcleo **do caminho da madeira** 'Effect'". A formulação posterior é repetida duas vezes e é
+> a mais provável. Curiosidade de tradução que explica a árvore: **em chinês, "efeito" e "fruto"
+> são o mesmo caractere** — daí a árvore de karma dar frutos.
+
+**⭐ Effect Gu** — **a obra cita o nome e o papel, e nunca descreve o efeito isolado.** É o
+segundo Gu-núcleo dos dois golpes de karma descritos acima, e forma par com o Cause: **Cause é a
+causa, Effect é o efeito/fruto**. Atenção ao caminho: dois capítulos o classificam explicitamente
+como Gu Imortal do **caminho da madeira**, e não da regra — é o par de caminho misto que faz a
+árvore do karma ser um golpe de madeira com estrutura de regra. `(ded.)` O Effect é o que
+**materializa os frutos** da árvore: sem ele, o usuário consegue fazer a árvore aparecer e
+frutificar de forma pobre — **dois ou três frutos raquíticos numa árvore fina e de poucos
+galhos** —, enquanto o dono original a exibia frondosa e inesgotável. *Interações:* incluído
+aqui por ser **inseparável do Cause Gu**; a obra sempre os cita juntos.
+
+**⭐ Main Gu** — **a obra cita o nome e o papel exato que ele cumpre dentro de um golpe, e nunca
+descreve o efeito isolado.** Ele é um dos dois Gu Imortais que formam o **núcleo original do
+golpe imortal "sorte fixa"**, do caminho da sorte — o outro é o **Stubborn Gu**. O problema que
+esse golpe resolve é uma regra do caminho da sorte que a obra explica em detalhe: quando duas
+pessoas têm relação próxima ou estão do mesmo lado, **as sortes delas se unem** e passam a subir
+e cair juntas; mas essa união **não é simétrica** — dentro do par, **quem tem a sorte maior colhe
+mais benefício e sofre menos infortúnio, e quem tem a sorte menor sofre mais e ainda transfere
+ganhos ao outro**. O golpe fixa a própria sorte do usuário e **cria essa diferença
+deliberadamente**, colocando-o na posição de sorte principal **sem precisar dos Gu Imortais
+específicos do caminho da sorte** (Main Luck e Sub Luck). `(ded.)` O Main Gu contribui exatamente
+o conceito de **"ser o principal"** — designar, entre dois ou mais elementos ligados, qual é o
+dominante e qual é o subordinado —, o que é coerente com o resto do caminho da regra, cujos Gu
+encarnam conceitos abstratos aplicáveis a qualquer outro caminho. `*` Numa mesa, trate-o como o
+Gu que **declara hierarquia entre alvos vinculados**. *Desvantagem:* sobre o golpe que o contém,
+a obra afirma que o efeito **não é visível fisicamente** — nem o próprio usuário confirma o
+resultado ao acioná-lo. *Interações:* o caso é um exemplo raro e útil de **substituição de
+Gu-núcleo**: o usuário não tinha nem o Main Gu nem o Stubborn Gu, e refez o golpe trocando os
+dois pelo **Precaution Gu** e pelo Gu de regra **Big**. A troca funcionou **parcialmente**: o
+golpe roda, mas passa a ter **chance de falhar na ativação mesmo quando o usuário não erra
+nada**, porque quem o modificou **não tinha proficiência de grão-mestre** no caminho da sorte, e
+sem atendimento maior **não há como consertar**.
+
+**⭐ Ripe Gu** — rank não declarado; `(ded.)` pelo menos rank 6 por ser Gu Imortal, e
+provavelmente 7 ou mais, já que o Gu suplementar da mesma formação é rank 7. **O Ripe Gu aparece
+uma única vez, e a obra descreve o efeito da formação que ele sustenta, nunca o efeito do Gu em
+si.** Ele é o **núcleo de uma super formação de Gu** instalada numa caverna de plantação, dentro
+de uma terra abençoada convertida em paraíso — um lugar que **não sofre calamidades nem
+tribulações** e onde um dos Veneráveis cultivou antes de ascender. Efeito da formação, nas
+palavras do dono do lugar: quando um Gu Imortal **treina seus golpes imortais** dentro dela, "a
+eficácia sobe acentuadamente e você se torna mais proficiente neles" — é uma **instalação de
+treino que acelera a proficiência em golpes já conhecidos**. `(ded.)` O Gu se chama
+"Maduro/Amadurecer" porque o que ele faz é **levar algo do estado cru ao estado maduro**: no
+caso, um golpe treinado mas ainda desajeitado até o domínio pleno. `*` Numa mesa, é a instalação
+que **converte tempo de treino em nível de perícia a uma taxa muito acima do normal**.
+*Desvantagem:* — a obra não informa custo; `(ded.)` como núcleo de formação permanente, o custo é
+de **manutenção da formação** e não de acionamento por uso. *Interações:* o **Dew** (rank 7)
+completa a formação e faz a **velocidade de recuperação de essência imortal ficar muito alta** lá
+dentro, o que sustenta sessões longas de treino. *Nota de grafia:* a forma canônica no texto é
+"rule path ripe Immortal Gu" — busca por "ripen Gu" ou "ripening Gu" não retorna nada nos seis
+volumes.
+
+#### Alteração do mundo
+
+**⭐ Big ("Da")** — **aumenta o tamanho físico do usuário — e só isso.** A obra é explícita: ele
+**não acrescenta força nenhuma**, de modo que contra um adversário realmente forte **crescer
+apenas oferece um alvo maior**. Fora do combate, serve de **núcleo alternativo em golpes que
+precisam de escala**. *Alimentação:* essência imortal, em porções enormes `*`. *Interações:* é o
+gêmeo oposto do **Small**; um Gu Imortal de uma raça diminuta o usava para **inchar até o tamanho
+de um humano**, e ele foi usado como substituto do Main Gu na remontagem do golpe "sorte fixa".
+
+**⭐ Become Real** — **dá realidade ao que não a tem.** Ativado, **vira um clarão prateado que
+sobe ao céu**; como núcleo de um golpe — com **centenas de milhares de Gu mortais de rank 5** em
+volta — **converteu em criatura real e permanente um ser nascido dentro de um reino de sonho**,
+ou seja, feito do nada. *Alimentação:* essência imortal. *Interações:* serve de **âncora física
+para golpes e rituais que precisam de um ponto fixo no mundo**, e é a resposta canônica ao
+problema de que tudo que vem de um sonho se desfaz ao acordar.
+
+**⭐ Normal Gu** — **devolve o alvo à condição normal.** Na prática, isso o torna a **contramedida
+genérica contra qualquer alteração de estado** — transformações, ampliações, encolhimentos
+`(ded.)`. A obra menciona o Gu de passagem e **não informa alcance nem o que ele não consegue
+desfazer**. *Alimentação:* essência imortal comum, sem nada de especial `*`.
+
+### Caminho do céu
+
+#### Apenas nomeados
+
+**⭐ Heaven's Rage** 🔒 — Gu do caminho do céu da mesma família do Heaven's Envy. A obra **não
+descreve o efeito** e registra apenas a regra que vale para a família inteira: **nem um Venerável
+de rank 9 consegue ativá-los** — poder de cultivo não abre esses Gu. *Alimentação:* qi de céu,
+colhido em tempestades `*`.
+
+**⭐ Heaven's Sorrow** 🔒 — outro Gu da mesma família, sob a mesma regra: **inativável até por um
+Venerável de rank 9**. A obra **não descreve o efeito**. *Alimentação:* qi de céu, colhido em
+chuvas longas `*`.
+
+#### Cura e restauração
+
+**⭐ Heavenly Birth Gu** 🔒 — **ressuscita o próprio usuário**. Ao reviver, **converte o caminho
+principal dele** — quem volta, volta praticante do caminho do céu. Fora isso, é capaz de **curar
+Gu Imortais feridos**, coisa que quase nada no mundo faz. *Alimentação:* tempo de vida do dono,
+drenado aos poucos `*`. *Desvantagem:* a conversão de caminho é irreversível na prática: **ele
+volta sendo outra coisa**. *Interações:* a capacidade de curar Gu Imortais é o que o torna
+estratégico — num mundo em que cada Gu Imortal é único, **um Gu ferido é uma perda quase
+irrecuperável**, e este é um dos pouquíssimos remédios.
+
+### Caminho do homem
+
+#### Defesa e cultivo
+
+**⭐ Injury Mark Gu** — **núcleo de uma herança verdadeira inteira**, criada por um único Gu
+Imortal ao longo de um confinamento de séculos.
+
+- **O que faz:** **todo ataque que causa dano ao portador é convertido nas marcas de ferimento
+  correspondentes** — em vez de ferir, o golpe inimigo **vira munição acumulada no corpo**. E
+  aqui está o fecho do sistema: **quanto mais marcas de ferimento o portador tem, mais potente
+  fica o golpe imortal "ferimentos mútuos"**, que é o método ofensivo principal dessa herança e
+  que **cobre o alvo de marcas de ferimento até forçá-lo a recuar**. O portador transforma o dano
+  que recebe em dano que devolve, num circuito fechado.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** sangue e carne das próprias feridas do dono `*`
+- **Desvantagem:** é o **Gu vital** do dono, o que implica que perdê-lo causaria **contragolpe
+  grave** `(ded.)`.
+- **Como se obtém:** a genealogia do método é instrutiva para o design, e a obra a dá inteira:
+  partiu de um Gu Imortal de **cura de ferimentos** como fundação; sobre ele o criador
+  desenvolveu uma **família inteira de golpes graduados por gravidade** (salvar dos mortos,
+  ferimentos leves, graves, fatais, sensoriais, sete ferimentos laboriosos); dessa família ele
+  criou o golpe **"incontáveis marcas de ferimento"**; e **do golpe ele deduziu a receita do Gu
+  Imortal**, refinou-o e **substituiu por ele o próprio Gu vital**.
+- **Evolução:** — a obra não registra subida de rank.
+- **Interações:** é o exemplo mais claro da obra da **cadeia completa de criação** — Gu Imortal
+  existente → família de golpes → golpe-síntese → receita deduzida a partir do golpe → Gu Imortal
+  novo → novo Gu vital → **novo sub-caminho**. Um Gu Imortal que ouviu a exposição comentou que
+  aquilo tinha fôlego para **gerar um sub-caminho inteiramente novo dentro do caminho humano**.
+  Um mestre que queira mostrar à mesa **como um caminho nasce** tem aqui o roteiro inteiro. A raiz
+  é o **Heal Injury** (rank 8).
+
+#### Deslocamento e fuga
+
+**⭐ Doting Mother Gu** e **⭐ Traveling Son Gu** (par) — "mãe coruja" e "filho viajante", metade
+fixa e metade ativa do mesmo par.
+
+- **O que fazem:** o **Doting Mother** fica com uma pessoa em um local — no texto, com um parente
+  idoso do portador, dentro da terra abençoada dele — e funciona como **âncora de retorno**; a
+  obra **não descreve nenhum efeito ativo dele além de ser o destino do par**. O **Traveling Son**
+  é a metade ativa: ao ser acionado, **"envia embora" o portador** — ele tem a sensação de entrar
+  num longo rio, fica grogue e atordoado, e **alguns minutos depois recobra os sentidos já dentro
+  do local onde está o Doting Mother**. É, na prática, um **teletransporte de retorno de
+  emergência que não usa o caminho do espaço**.
+- **Como são:** — a obra não descreve nenhum dos dois.
+- **Alimentação:** — a obra não informa.
+- **Desvantagem:** a travessia deixa o usuário **grogue e atordoado por alguns minutos** — chegar
+  vivo não é chegar pronto para lutar.
+- **Como se obtém:** — a obra não registra a procedência. Foi usado para escapar de um espaço que
+  estava desabando, **depois que o Gu de fuga habitual do portador havia sido roubado**.
+- **Evolução:** — a obra não registra.
+- **Interações:** a peculiaridade que faz o par valer ouro é geográfica e vale como regra de
+  mundo: ele funciona **até dentro do mar de fluxo turbulento**, onde as marcas do dao são
+  caóticas e Gu Imortais do caminho do espaço são perigosos de usar. O motivo é datado — **o mar
+  de fluxo turbulento se formou antes de o caminho das emoções existir**, então **não há marcas do
+  dao caóticas de emoção ali**, e o par funciona sem risco. Para a mesa: quando o teleporte comum
+  falha, é este par que ainda anda.
+
+#### Produção e economia
+
+**⭐ Wealth Gu** — o Wealth Gu **lendário**, descrito em *As Lendas de Ren Zu* e refinado pelo
+próprio Ren Zu a partir de **água do mar azul, das mãos de Ren Zu e dos Gu da Preocupação, da
+Dificuldade, da Tristeza, da Sabedoria e da Estupidez**. Efeito deduzido a partir da receita:
+**transforma-se em qualquer coisa deste mundo** — ouro, prata, bronze, material imortal de rank
+6, até material imortal de rank 9 — com uma exceção categórica e absoluta: **não pode se
+transformar em nenhum ser vivo**, o que inclui animais, plantas, humanos, humanos variantes e Gu.
+Isso o torna, na prática, **o Gu que dispensa a coleta de materiais**: quem o tem **não precisa
+caçar o insumo raro de uma receita, porque o Gu vira o insumo**. *Alimentação:* materiais imortais
+variados, um pouco de cada `*`. *Desvantagem:* a receita é **irreproduzível** — os detalhes da
+lenda são simbólicos e não literais, e os materiais estão extintos (o mar azul não existe mais).
+Um Gu Imortal passou a vida tentando refiná-la, **falhou mais de cem vezes** e só conseguiu, por
+dedução própria, uma **receita mortal de substituto**. *Interações:* aparece como **material
+suplementar em receitas de Gu Imortal** — e, quando falta, um exemplar mortal pode substituí-lo,
+ao custo de o substituto **só render material de rank 5**. A **versão mortal**, de rank 5, tem
+ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+#### Cultivo e progressão
+
+**⭐ Accumulate Virtue Gu** — **refina-se sozinho dentro do corpo de quem pratica bondade**: não
+há receita nem fornalha — **cada boa ação acumula, e quanto maior o acúmulo, mais alto o rank do
+Gu que se forma**. É **consumível**: um único golpe pode gastar o estoque inteiro. Entre seus
+usos, o mais valioso é **converter a constituição física do dono numa constituição virtuosa**,
+inferior só às dez constituições extremas e **sem nenhum dos defeitos delas**. *Alimentação:*
+**atos de bondade**. *Evolução:* aqui o refino **não é um evento, é o comportamento do usuário**
+— é o único Gu do catálogo cujo processo de fabricação é **uma vida inteira de conduta**.
+*Interações:* a **versão mortal**, sem rank declarado, tem ficha em
+[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+#### Apenas nomeado
+
+**⭐ Wine Drinker Gu** — existe na obra **apenas como receita**, guardada dentro de uma herança
+criada em conjunto por dois imortais. O que a obra afirma sobre o efeito é **por comparação**: ele
+é o **equivalente imortal da série de Gu de profissão** — os Gu mortais chamados hero Gu, scholar
+Gu, craftsman Gu e farmer Gu (herói, erudito, artesão, agricultor) —, "igual a eles, exceto que
+não é de nível mortal, é um Gu Imortal". **A obra não descreve o efeito concreto.** Em
+compensação, é explícita sobre o **valor estratégico**, e isso é o mais aproveitável: a maior
+autoridade do caminho reto avaliou que, naquela herança, **a receita do Wine Drinker vale mais do
+que o golpe imortal de nível supremo que vinha junto**, porque a receita é **"o símbolo da
+prosperidade do caminho humano"** e definiria o caminho em que a maior potência do mundo
+concentraria seus esforços dali em diante. Transformar a série mortal de profissões em série
+imortal é tratado como **um salto civilizacional, não como um Gu a mais**. *Alimentação:* vinho, e
+em quantidade `*`. *Nota:* a designer pode inventar o efeito livremente desde que ele seja a
+versão imortal de "ser um bebedor de vinho" da mesma forma que o hero Gu é a versão mortal de
+"ser um herói".
+
+### Caminho dos sonhos
+
+#### Deslocamento e fuga
+
+**⭐ Dream Travel** — um dos **quatro grandes Gu de movimento do mundo**: permite **entrar no
+sonho de outra pessoa** e, daí, **deslocar-se instantaneamente para dentro de qualquer reino de
+sonho**. *Alimentação:* sonhos de gente adormecida `*`. *Desvantagem:* ao contrário do Dream
+Wings, **cobra essência imortal como qualquer Gu comum** — o que aqui é vantagem, não defeito.
+*Interações:* é **exploração segura**, o que é raro num caminho cujos materiais só existem dentro
+do próprio risco.
+
+#### Alteração do mundo
+
+**⭐ Create Dream Gu** — **cria matéria e estrutura do nada dentro de um reino de sonho**. Casos
+concretos registrados: fazer brotar **incontáveis espigões de rocha firme a partir do nada**, e
+criar espigões de terra, trincheiras e cavernas com que se matou uma besta de quatro braços que,
+de outro modo, teria de ser esperada até morrer de fome; **construir um túnel complicado ao longo
+de uma rota** para armar uma emboscada — e o resultado foi que **os dois guardas que passaram por
+ali se perderam do caminho**; e, num uso de engenharia e não de combate, **reunir quase todas as
+marcas de lei do caminho do fogo de uma região nas profundezas das raízes de grandes ilhas**,
+operação que exigiu passar por **uns dez procedimentos** encadeados. *Alimentação:* essência
+imortal e retalhos de sonho alheio `*`. *Desvantagem:* — a obra não dá custo; o uso registrado
+mais elaborado exigiu cerca de dez procedimentos sucessivos, o que sugere que **operações grandes
+são lentas e por etapas** `(ded.)`. *Interações:* é a ferramenta que transforma o reino de sonho
+de **lugar a ser explorado** em **lugar a ser construído** — quem o tem **não sofre o cenário do
+sonho, edita-o**. Existe um golpe imortal homônimo construído sobre ele.
+
+### Caminho do roubo
+
+#### Ataque
+
+**⭐ Sneak Attack Gu** — na **versão mortal de rank 2**, que a obra detalha, o efeito é brutalmente
+simples: ativado, **o alvo desmaia** — subir no palco, acionar o Gu, vencer. Na escala imortal, é
+o **núcleo de um golpe de campo de neblina que rouba Gu Imortais e desacelera o pensamento de
+quem está dentro** — as duas coisas ao mesmo tempo. *Alimentação:* névoa condensada e essência
+imortal `*`. *Interações:* a **versão mortal** (ranks 2 e 5) tem ficha em
+[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]; a de rank 5 solta **centenas** de
+fantasmas simultâneos onde a de rank 2 solta um.
+
+#### Suporte e infraestrutura
+
+**⭐ Open Door / Close Door** (par) — chaves do **caminho do espaço** para entrar num espaço de
+herança selado por um Venerável. O **Open Door** "permite que os predestinados entrem" no vale
+selado — sem ele, métodos normais simplesmente não funcionam. O **Close Door** faz o inverso e
+serve à discrição: **fecha a passagem depois da entrada**, para impedir que ela seja exposta e que
+outros entrem atrás. *Alimentação:* essência imortal, dividida entre os dois `*`. *Como se
+obtém:* são **refináveis por um Mestre de Gu mortal** com materiais do caminho do espaço, e as
+pistas para a receita são **deliberadamente abundantes** — ver Interações. *Desvantagem:* duas
+condições de falha registradas, e são o mais útil para o jogo. **Primeira:** se o lugar **já foi
+tomado por outros** e está coberto de formações de Gu, transformado em fortaleza, os dois Gu **não
+produzem resposta nenhuma** ao serem usados — a fechadura foi trocada. **Segunda, e mais
+importante: a chave não basta.** Para o espaço em questão, o que realmente valia era **a condição
+de ser um demônio de outro mundo**, e por isso o Venerável que o selou **espalhou as pistas dos
+dois Gu por toda parte, de propósito**, deixando-as fáceis demais de obter — quem entra com a
+chave certa e **sem a condição certa** encontra, do lado de dentro, **tornados de vento de
+assimilação que só um demônio de outro mundo dissipa ao toque**. *Interações:* são o exemplo
+canônico da obra de que **acesso e permissão são coisas diferentes** — um Venerável desenhou a
+fechadura para que **muita gente conseguisse abri-la e quase ninguém pudesse atravessar**.
+
+### Caminho do qi
+
+#### Deslocamento e fuga
+
+**⭐ Qi Escape Gu** — movimento de altíssimo nível: **em velocidade de voo em linha reta é o Gu
+mais rápido do mundo, sem nenhum páreo**. *Alimentação:* qi disperso do ambiente, continuamente
+`*`. *Evolução:* é uma das **três exceções do catálogo** — um Gu Imortal com nome novo nascido de
+outro: foi obtido por **refino reverso do lendário Reputation Gu**. *Interações:* chegou a ocupar
+o **quarto lugar na Lista dos Dez Gu Místicos**, posição que perdeu quando outro Gu subiu — a
+reputação de um exemplar, neste mundo, é histórica e pública, e **muda**.
+
+### Caminho da informação
+
+#### Investigação
+
+**⭐ Mutual Sense** — **liga duas pessoas e permite que sintam a situação uma da outra**: quem
+está do outro lado "vê" onde o parceiro está, o que o cerca e em que estado ele se encontra.
+Ativado, **lança um pilar de luz cinzenta e fumacenta que envolve o alvo**. *Alimentação:*
+essência imortal das duas partes ligadas `*`. *Desvantagem e peculiaridade:* a percepção é
+**assimétrica** — **um lado enxerga muito mais que o outro** —, o que faz dele **tanto linha de
+socorro quanto armadilha de rastreamento**, conforme quem instalou em quem.
+
+**⭐ Yes or No** 🔒 — **extrai do céu e da terra a resposta a qualquer pergunta** — mas a resposta
+**só sai pela boca do portador** e **só pode ser "sim" ou "não"**. *Alimentação:* tempo de vida.
+*Desvantagem:* a ficha mais assustadora do catálogo inteiro. Cada resposta custa **cinquenta anos
+de vida**, e o valor é **fixo, não proporcional**: **quem tem menos que isso morre no instante em
+que responde** — e já matou. É o exemplo mais limpo do sistema de um custo que precisa ser
+**calculado antes, e não sentido depois**. *Como se obtém:* o Gu **nasce dentro do corpo de um
+escolhido**, não é refinado numa oficina.
+
+#### Suporte e infraestrutura
+
+**⭐ Longevity Edict** — Gu de **função política pura**. Fisicamente **parece um token dourado**,
+mas o que ele é, em essência, é um **portador de ordens**. Funcionamento: o emissor **grava sua
+informação no Gu e o solta**; ele então **rasga o céu e viaja sozinho** até a próxima tribo. Quem
+o recebe **ajoelha-se para recebê-lo, sente uma sensação e compreende a informação contida nele**
+— **não precisa ser lido, é entendido**. Assim ele **percorre uma tribo depois da outra**, passando
+de mão em mão pelas grandes tribos de uma região até acabar na de um destinatário final, e ao
+longo do caminho **cada portador pode deixar sua própria informação gravada nele antes de soltá-lo
+de novo**, de modo que **o edito acumula respostas enquanto circula**. *Alimentação:* essência
+imortal deixada por cada tribo que visita `*`. *Desvantagem:* a autoridade dele é restrita **por
+sangue e por força**. Por sangue: ele **comanda apenas quem é de uma linhagem específica** — um
+imortal de fora dela declarou abertamente "o edito controla essa linhagem, mas eu não sou um
+deles" e simplesmente o ignorou. Por força: um líder tribal **atirou o edito sobre a mesa com
+desdém**, explicando que, **enquanto os Gu Imortais de rank 8 da potência emissora não aparecerem
+em pessoa, o edito sozinho não mobiliza ninguém**. *Interações:* é **transferível na hora** —
+quando alguém de prestígio superior está presente, o portador atual **entrega o edito** e o
+comando passa junto, sem cerimônia; e é **vulnerável ao abuso**: houve quem o carregasse
+pessoalmente até um aliado só para **usar falsamente aquela autoridade** e arrancar dele um favor
+que o edito não pedia. Para a mesa, é a peça que mostra **como uma potência hegemônica governa à
+distância sem exército**.
+
+#### Ataque
+
+**⭐ Sword Tongue Gu** — **Gu vital que se aloja na língua**: um estalo dela **dispara luz de
+espada carmesim**. É um ataque que sai de onde ninguém posiciona defesa. A obra **não informa
+alcance nem dano**. *Alimentação:* limalha de aço de lâminas gastas `*`.
+
+### Caminhos elementais e menores
+
+#### Alteração do mundo — caminho da terra
+
+**⭐ Turn Sand Gu** — **transmuta entre areia e rocha**. O uso que a obra descreve é o
+**construtivo**: transformar areia solta em rocha firme, **dando chão a quem quer construir no
+deserto** — o que tornou seu dono querido em toda a região. A aplicação inversa, **desfazer rocha
+em areia fina e derrubar fortificações sem atacá-las**, é leitura nossa `(ded.)`. *Alimentação:*
+parte da areia que ele mesmo produz `*`.
+
+#### Defesa — caminho do gelo
+
+**⭐ Melt Ice** — **derrete até o gelo mais firme que existe**. Um único exemplar **segurou
+sozinho trinta e três investidas de um campo de batalha inteiro de gelo**, enfraquecendo muito o
+poder dele e **devolvendo mobilidade a quem estava preso**. *Alimentação:* água de degelo `*`.
+*Interações:* é a **contramedida dedicada contra o próprio caminho do gelo**, e portanto o contra
+natural do **Ice Heart**.
+
+#### Ataque — caminho da luz
+
+**⭐ Extreme Light Gu** — **emite a "luz da glória" imemorial, que atravessa tudo, inclusive terras
+abençoadas**. *Alimentação:* luz solar direta, em exposição longa `*`. *Desvantagem:* **três usos
+por mês** — passar disso e **o Gu se autodestrói**. E **não tem ataque próprio**: é o núcleo de
+três golpes lendários, e **nada sozinho**. *Interações:* existe também uma **versão mortal**, de
+rank 5, com ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], onde é o segundo
+estágio do maior golpe de luz conhecido.
+
+**⭐ Sight Light Gu** — **dispara um raio pelos olhos que fica mais forte quanto maior a distância
+até o alvo** — o inverso da regra de praticamente todo ataque do mundo, e a razão de existir o
+golpe de tiro à distância construído em cima dele. A obra **não informa dano nem alcance máximo**.
+*Alimentação:* luz solar e olhos de aves de rapina `*`.
+
+#### Produção e economia — caminho das estrelas
+
+**⭐ Starlight Gu** — não é uma arma, é uma **fábrica**: com ele, os **Gu mortais de luz estelar
+deixam de precisar ser comprados**, e a **produção de Gu mortais de pensamento-estrela cresce
+enormemente** — em escala e em velocidade. *Como é:* aparência **cristalina**. *Alimentação:*
+**corpos de homens-de-pedra**. *Desvantagem:* o preço tem duas partes: a **receita do Gu mortal
+produzido precisa ser modificada para aceitá-lo**, o que exige domínio de refino; e **cada
+ativação consome essência imortal**, de modo que produzir em série **só compensa para quem tenha
+renda de essência que aguente o ritmo** — é uma linha de produção, e linhas de produção consomem
+enquanto rodam. *Interações:* junto com o **Star Mark** e o **Star Shoot**, forma o trio que serve
+de núcleo, em rodízio, aos golpes do caminho das estrelas.
+
+**⭐ Star Shoot Gu** — versão imortal do Gu mortal de rank 3 de mesmo nome. Serve de **núcleo do
+golpe de chuva de estrelas e o eleva à classe imortal**, com efeito **dezenas de vezes maior** que
+o da versão mortal — que, sem ele, dependia de **queimar centenas de Gu mortais por ativação**.
+Fora do combate é uma **linha de produção**: com ele se **refinam em série os Gu mortais star
+shoot**, e ele **aumenta a colheita da grama de fragmento estelar** que os alimenta. *Como é:*
+aparência de **broto de feijão**. *Alimentação:* grandes quantidades de **alga estelar escura**,
+que cresce em abundância num lago específico. *Interações:* quem o tem **deixa de comprar o Gu
+mortal correspondente e passa a fabricá-lo** — e a **versão do golpe que circula no mercado é uma
+edição simplificada, cortada de propósito** por quem detém o exemplar imortal. A **versão mortal**
+(rank 3) tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+#### Alteração do mundo — caminho da madeira
+
+**⭐ Wood Sprout** — **faz brotar e crescer vegetação**. Como peça suplementar de golpes de
+crescimento, **tinge de verde uma extensão grande de solo em pouco tempo** e serve para **adaptar
+plantas cultivadas a ambientes onde elas não nasceriam**. **Não é peça de combate.**
+*Alimentação:* seiva e brotos novos `*`. *Interações:* é o suplemento do golpe "spring sprout",
+cujo núcleo é o **Spring Gu** de rank 8 — juntos, construíram um ecossistema e uma cadeia
+alimentar do zero.
+
+#### Deslocamento e fuga — caminho da nuvem
+
+**⭐ Rising Azure Cloud Gu** — Gu de deslocamento do caminho da nuvem, e o **único do catálogo
+especializado no eixo vertical**: sua vantagem é **subir e descer**, não atravessar distâncias.
+*Alimentação:* vapor de nuvem colhido em altitude `*`. *Desvantagem:* em viagem horizontal comum
+ele é **mais lento que as alternativas** — inclusive que o **Worldly Wave Trace**, que faz o
+serviço oposto. É a peça de quem precisa ganhar ou perder altitude depressa; **para cobrir
+terreno, é a escolha errada**. *Como se obtém:* foi avaliado como o **menos valioso de um lote de
+Gu Imortais** e acabou **entregue como garantia de um negócio**. *Interações:* é o lembrete
+canônico de que **um Gu Imortal único no mundo pode, ainda assim, valer pouco** — o valor vem do
+encaixe com os golpes de quem o carrega, não do fato de ser imortal.
+
+#### Apenas nomeado
+
+**⭐ Wooden Chicken Gu** — **a obra só cita o nome, sem descrever o efeito.** O que ela afirma é o
+entorno: era um Gu Imortal **cobiçadíssimo**, procurado havia muito tempo, e disputado entre dois
+imortais — na briga, "o Gu Imortal escapou das amarras" e sumiu. Reapareceu como **recompensa da
+rodada final do trigésimo nono andar de uma herança verdadeira**, e sua conquista foi o objetivo
+central de toda uma campanha de anos. A obra declara que **quem o obtivesse se tornaria
+imediatamente um perito entre os Gu Imortais** — indicação de poder alto, sem detalhar a mecânica.
+Depois de obtido, foi **arrancado do portador pelas "mãos sem forma"** junto com o False Emotion
+Fake Will Gu, quando a herança começou a ruir; a regra citada é que **quando as mãos sem forma
+esgotam sua energia ao viajar pelo espaço, os Gu capturados são libertados** — ou seja, ele está
+em algum lugar do mundo, solto.
+
+### Gu de utilidade e de estrutura de abertura
+
+#### Suporte e infraestrutura
+
+**⭐ Formation Spirit** — rank não declarado; `(ded.)` **rank 7**, porque os outros dois Gu
+Imortais da mesma herança são rank 7 e a obra chama o espírito gerado de "meio Gu Imortal" à parte
+deles.
+
+- **O que faz:** é um **Gu Imortal consumível de uso único**: ao ser acionado, **o Gu desaparece
+  para sempre** e, no lugar dele, **nasce um espírito de formação** — uma inteligência feita à
+  imagem dos espíritos de terra e dos espíritos celestiais, para **ajudar o Gu Imortal a manipular
+  a formação**. O que o espírito faz, na prática: **(a) opera a formação melhor que o dono** — a
+  obra afirma que a habilidade dele de manipular formações era **superior à de um grão-mestre do
+  caminho das formações**; **(b) remenda a formação** como um espírito de terra remenda uma terra
+  abençoada esburacada — quando a formação em que morava desabou sem ninguém no controle, ele
+  **salvou uma parte dela e a manteve funcionando** como formação menor e incompleta por muito
+  tempo; **(c) improvisa substituição de núcleo**: com o Gu Imortal-núcleo retirado, ele **enfiou
+  uma multidão de Gu mortais da mesma espécie no lugar** e segurou a formação em pé por cerca de
+  **catorze horas**; **(d) fala** — chama o dono de "Mestre", explica a situação, dá conselhos
+  táticos e faz pedidos.
+- **Como é:** o Gu, — a obra não descreve; o espírito tem forma visível e **fica mais ilusório e
+  menos sólido** conforme a formação sofre, chegando a ficar **quase transparente**.
+- **Alimentação:** — a obra não informa.
+- **Desvantagem:** **uso único** — o custo de acionamento é o próprio Gu, que se consome inteiro,
+  e querer outro exige **refinar um Gu novo do zero**. E o espírito **sofre com o que a formação
+  sofre**: sob bombardeio pesado ele **grita de dor**, e a obra é explícita — **se a formação for
+  destruída, ele é destruído junto**.
+- **Como se obtém:** foi **criação original de um único Gu Imortal do caminho das formações**, que
+  **copiou deliberadamente a receita dos espíritos de terra e celestiais**.
+- **Evolução:** — a obra não registra. O espírito pode ser **transferido de uma formação para
+  outra** quando a formação antiga é fundida na nova.
+- **Interações:** duas peculiaridades definem o personagem que ele cria, e as duas são material de
+  mesa. **Primeira:** como espírito de terra e espírito celestial, ele **não tem alma, mas é
+  senciente, negocia e faz transações** — e **não consegue mentir**, além de ser **ingênuo**. Isso
+  o torna um administrador estruturalmente honesto e, ao mesmo tempo, **uma vulnerabilidade**: a
+  obra mostra uma Gu Imortal **enganando um espírito de formação com lorotas** para tomar posse de
+  uma herança inteira, coisa que teria sido impossível se ali houvesse apenas um monte de Gu
+  mudos. **Segunda:** o mesmo criador, sabendo da limitação de o espírito ficar preso a uma
+  formação só, **criou o Formation Flag Gu para acompanhá-lo**. Na contabilidade de espólio, ele
+  vale **"meio Gu Imortal"**.
+
+#### Cultivo e progressão
+
+**⭐ Practice Gu** — rank não declarado; um Venerável se refere a ele como "este Gu Imortal", então
+é **ao menos rank 6** `(ded.)`; a formação em que ele trabalha é de rank 9.
+
+- **O que faz:** é o Gu do **"exercitar / passar por vivências"**. A obra o apresenta primeiro no
+  **mito fundador**: no centro do gelo flutuante da verdade não estava o Gu do eu, e sim três Gu —
+  o Gu das regras, o Gu dos regulamentos e o **Gu do exercício** —, e os três **fabricam o gelo
+  flutuante da verdade** juntos, porque "toda vivência é regida pelas regras e pelos regulamentos
+  do céu e da terra". O mecanismo que o mito descreve: quem quer achar algo que não consegue mais
+  reconhecer **passa por vivências junto com o Gu do exercício**, e **cada vivência faz o Gu da
+  habilidade ficar mais forte e a bola de gelo flutuante crescer** — a bola começa do tamanho de
+  uma bola, ganha uma **membrana de luz**, depois uma **membrana de água**, depois uma **membrana
+  de pedra**, e enfim uma **membrana de cristal**, quando atinge o tamanho máximo. No presente da
+  obra, ele tem **dois usos concretos**. **(a) Escultor de núcleo de formação:** dentro de uma
+  formação de rank 9 que deduz o método da vida eterna, **três Gu Imortais acionam o Gu sem parar,
+  em revezamento, para esculpir uma peça de gelo flutuante da verdade** — e a obra é explícita em
+  que **tem de haver alguém acionando continuamente**, sem interrupção, até a dedução fechar; o
+  mesmo acionamento pode ser **invertido para destruir** a peça que se está esculpindo. **(b)
+  Aplicado a uma pessoa:** a luz do Gu **envolve o corpo inteiro do alvo**, e o que se viu foi o
+  corpo dele **inchar de tamanho normal a gigante de três metros**, enquanto **a aura dele era
+  completamente ocultada, ficando indistinguível da de um mortal comum** — a ponto de os golpes
+  investigativos de **vários Veneráveis reunidos não conseguirem enxergá-lo**, embora todos
+  percebessem que ele tinha ficado poderoso de um modo insondável.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** — a obra não informa.
+- **Desvantagem:** o custo é pago **por quem aciona, não por quem recebe**: ao acioná-lo sobre
+  outra pessoa, o operador **foi ficando cada vez mais fraco, a aura despencou até o fundo do
+  poço, e ele foi obrigado a parar** — não por escolha. No uso de escultura o preço é outro: os
+  três operadores **subiram na peça de gelo flutuante e não conseguem mais descer**, salvo se a
+  dedução terminar ou a formação for destruída; eles descrevem o trabalho como algo em que
+  **apostam a própria vida**.
+- **Como se obtém:** foi **guardado por um Venerável durante mais de um milhão de anos**,
+  preparado desde o começo para ser acionado por **uma pessoa específica** no instante exato.
+- **Evolução:** — a obra não registra.
+- **Interações:** peculiaridade estrutural 🔒 — a obra amarra este Gu à tese de que **um Venerável
+  só consegue dar o passo além do patamar de Venerável com a ajuda do próprio Guardião do Dao**.
+  Foi o passo com que um Venerável tentou **romper o próprio patamar e alcançar a vida eterna**.
+  Note também a diferença entre as duas escalas: no mito ele é um dos três Gu que **fabricam o
+  material do próprio tempo**; no presente, é operado por imortais comuns como **ferramenta de
+  oficina**. A moral que a obra enuncia no mito vale como bloco de mesa: **quanto mais forte fica
+  a habilidade, mais a pessoa descobre o quanto é pequena e insignificante** — e reconhecer a si
+  mesmo é a coisa mais importante e mais difícil do mundo para um humano.
+
+---
+
+## Casas de Gu Imortal
+
+Uma ==Immortal Gu House== **não é um Gu**. É uma **fortaleza viva** — um golpe imortal
+solidificado em estrutura, feito de dezenas ou centenas de Gu combinados, que se pilota, se
+habita e se leva ao campo de batalha. Toda organização de peso do mundo tem pelo menos uma, e
+possuir uma é o que separa uma facção de um bando.
+
+A designer precisa de três imagens antes da lista.
+
+**Primeira: como é, fisicamente.** Uma Casa parece o que o nome dela diz. Há palácios altos como
+montanhas, torres de sete andares com cortinas ao vento, navios que cavalgam ondas, um tabuleiro
+de xadrez com peças que brilham como estrelas, uma roda de fogo, uma plataforma de oito lados
+sobre a qual o operador fica de pé à vista de todos, e — literalmente — **um penico do tamanho de
+um bolso**. Por dentro, os tijolos e as telhas **são Gu**: quando uma Casa racha ao interceptar um
+golpe, tijolos e telhas **voltam a ser cadáveres de Gu mortais**.
+
+**Segunda: o núcleo, e por que ele é o alvo de toda batalha entre Casas.** Uma Casa tem **Gu
+suplementares** e um **Gu Imortal-núcleo**, e a diferença entre eles é absoluta: os suplementares
+podem ser destruídos e substituídos — a Casa só enfraquece —, mas **o Gu-núcleo não pode ser
+ferido, sob pena de a construção inteira falhar**. É por isso que numa batalha entre Casas o
+objetivo real nunca é o casco: é o núcleo. E é por isso que, quando uma Casa é destruída, **o
+núcleo costuma sobreviver ferido** — pode ser resgatado e reusado, o que faz de todo destroço um
+objetivo de cena. A obra dá o exemplo com nome próprio: o Gu Imortal **Permanence**, do caminho da
+regra, foi retirado de outra instalação para servir de núcleo do **Eternal Yacht**, e a
+diferença entre ele e o resto da embarcação foi enunciada exatamente nesses termos.
+
+**Terceira: elas são caras de um jeito que não se compara a nada.** Um Gu Imortal gastou **todos**
+os seus Gu Imortais para erguer uma única fortaleza de rank 8. Construir uma Casa não é uma
+despesa: é **a conversão do patrimônio inteiro num só objeto** — que pode ser destruído numa
+tarde.
+
+### As dez regras que valem para todas elas
+
+São canônicas, e conhecê-las responde à maioria das perguntas que uma mesa faz, sem precisar
+reler a tabela a cada dúvida.
+
+1. **O que uma Casa faz não vem de um Gu, vem do arranjo.** Ocultar, defender, armazenar,
+   saquear — a função nasce da combinação que os Mestres Gu montam entre as peças.
+2. **A escala é maior do que parece.** Uma Casa de rank 7 pode conter **mais de três mil Gu**. E
+   o rank dela é ditado pelo **Gu Imortal de maior rank embutido**: um Gu Imortal de rank 8 no
+   núcleo faz a Casa inteira ser rank 8.
+3. **A potência é proporcional à essência gasta.** A mesma Casa opera num raio de poucos metros
+   com essência comum e de **quinze a vinte metros** com essência de rank 9 — e um imortal de rank
+   baixo demais **não consegue sustentar** uma Casa de rank superior, ainda que conheça a
+   estrutura inteira.
+4. **Núcleo e suplemento não são a mesma coisa.** Ver acima: perder Gu comuns e mesmo Gu Imortais
+   suplementares só enfraquece; perder o núcleo inutiliza.
+5. **Construir uma Casa pode fracassar.** Uma potência perdeu a construção **no passo final** e
+   teve de recomeçar do zero.
+6. **A fraqueza genérica de toda Casa é a previsibilidade**: "os métodos de uma Casa são fixos e
+   difíceis de mudar". Depois que o inimigo mapeia os golpes dela, a ameaça **cai um patamar
+   inteiro**. É a razão mecânica pela qual reconhecimento vale tanto quanto força.
+7. **O rank da Casa não é teto de desempenho.** Várias Casas de rank 7 são descritas com força de
+   combate de rank 8.
+8. **Uma Casa pode hospedar vontades residuais** de imortais mortos, que hibernam lá dentro e
+   **acordam quando alguém entra**.
+9. **Uma Casa pode ter espírito próprio**, como uma terra abençoada tem espírito da terra. Esse
+   espírito **escolhe o próprio mestre**, pode **se esconder de quem "refinou" a Casa** — fazendo
+   o conquistador acreditar que a dominou — e **teleporta o escolhido** para dentro dela.
+10. **Refinar uma Casa alheia é sobretudo compreendê-la, e ela resiste.** Uma delas desfazia dois
+    terços do progresso da véspera todo dia; outras mudam de estrutura a cada camada vencida; e
+    algumas exigem domínio específico de um caminho para se abrir. Fundir uma Casa na própria
+    abertura imortal, por sua vez, **transforma a abertura inteira no interior dela** e infla o
+    espaço com as marcas do Dao dos Gu — e **tirar Gu de lá encolhe o mundo de volta**.
+
+> [!note] Para o design
+> Dois gargalos limitam todas elas, e os dois são ganchos de campanha melhores que qualquer
+> estatística: **alimentar os Gu internos** — uma Casa abandonada morre de fome, e por isso Casas
+> perdidas são achadas cheias de Gu mortos — e o **consumo gigantesco de essência**. Sem essência,
+> uma Casa opera com **menos de um por cento** da força. A frota mais bem equipada do mundo é
+> inútil sem renda.
+
+### Rank 9 — as três que quase não existem
+
+Casas de rank 9 exigem um Gu Imortal de rank 9 embutido, e a obra diz que existiram
+**pouquíssimas em toda a história humana**.
+
+**Four Elements Square Regret Blood Refinement Pool** 🔒 · *refinamento* — **refina Gu Imortais de
+rank 8 em série**, e é a maior conquista da história do caminho do refino. É a síntese que funde
+quatro tecnologias distintas, entre elas a piscina que **refaz um Gu Imortal destruído** a partir
+da insígnia do refino original, com 50 a 60% de sucesso. Com ela, produção em série de Gu de rank
+8 se torna possível — **mais de cinquenta refinados**, algo descrito como além da imaginação de
+qualquer imortal. Os tetos que permanecem: **nem ela refina rank 9 ou 10, e a unicidade continua
+valendo**.
+
+**Heaven Overseeing Tower** 🔒 · *investigação* — **vasculha o mundo em busca de fugitivos do
+destino**. Peculiaridade decisiva: **não pode ser reconstruída** — destruída uma vez, aquela
+capacidade some do mundo.
+
+**Crazed Demon Formation** 🔒 · *regra e céu* — construída de **"gelo flutuante de verdade"**, o
+material que o Practice Gu ajuda a esculpir. É a **nêmesis de todas as formações**.
+
+### Rank 8 — as fortalezas de potência
+
+**Refinement Cauldron** · *refinamento* — obra do mesmo mestre refinador que criou a Eighty-Eight
+True Yang Building, com ajuda de um grande mestre da sabedoria, e considerada sua obra-prima. Seu
+núcleo é o **Forceful Refinement**, que **refina os Gu Imortais alheios à revelia dos donos**: o
+efeito **não mata — corta o vínculo entre o Gu Imortal e a abertura do dono**, e o Gu passa a
+pertencer a quem opera a Casa; um imortal assim esvaziado é **capturado vivo**, sem como reagir.
+Dentro da área vale ainda uma segunda regra: os Gu Imortais presos **só conseguem usar Gu Imortais
+e golpes imortais** — o arsenal mortal deles fica inerte. É **operada em conjunto**: mais de dez
+imortais podem estar embutidos nela como peças vivas, e **quanto mais operadores, mais forte e
+mais rápido ela refina**. É **imóvel**, e para contornar isso a facção dona a **fundiu no próprio
+mundo da abertura imortal** da sua terra abençoada, de modo que a abertura inteira virou o interior
+do caldeirão e **todo ser vivo lá dentro está permanentemente dentro do alcance de refino** —
+efeito colateral: as marcas do dao dos Gu **inflam o espaço e geram recursos**, a ponto de a terra
+abençoada ficar maior que muitas grutas-céu, e **cada Gu Imortal arrancado dela apaga marcas e
+encolhe fisicamente o mundo**, derrubando pedaços de território. *Fraquezas exploradas na
+prática:* **exige tempo de exposição** (o contra-jogo padrão é impedir o operador de ficar parado
+o bastante), **é imóvel**, e por ser operada por muitos é vulnerável a **traidores infiltrados
+entre os operadores**. *Histórico:* sozinha, repeliu **sete ondas de invasores**. Uma potência
+reconstruiu **uma imitação dela só a partir de registros antigos**, mas a cópia não funciona
+direito **por lhe faltar justamente o Gu-núcleo**.
+
+**Eighty-Eight True Yang Building** · *múltiplo* — especializada em **saquear os Gu de outros**;
+suga recursos de uma região inteira. É a herança verdadeira em que o **Wooden Chicken Gu**
+reapareceu como prêmio do trigésimo nono andar.
+
+**Heavenly Pool** · *cura e recuperação* — criada por um dos dez Veneráveis, o mais especializado
+do mundo em cura, e usada como sede por uma das dez seitas antigas. Por fora é apenas um tanque de
+área pequena, **uma das menores Casas do mundo**; por dentro é o oposto: a superfície é coberta de
+lótus verdes, e **dentro de cada lótus há uma terra abençoada ou uma gruta-céu inteira**. Ela
+**guarda aberturas imortais como um cofre guarda joias**, e esse é seu uso principal — de modo que
+**destruir tudo o que a seita tem fora dela não a fere**: o patrimônio real está nos lótus. A
+defesa é a herança do Venerável levada ao exagero: **se não for despedaçada num único golpe, ela
+recupera qualquer dano severo em pouco tempo** — atacá-la aos poucos é inútil, só um golpe capaz
+de quebrá-la de uma vez funciona. Não é estática: **voa e persegue** inimigos em fuga. A obra
+**não informa** quantos operadores exige, quanto consome, o alcance de suas armas nem quantos
+lótus cabem nela.
+
+**Divine Bean Palace** · *madeira, com Gu do caminho da pintura* — palácio de tijolo verde e telha
+dourada, **alto como uma montanha**, exalando cheiro de mato; criação de um dos dez Veneráveis,
+que há trezentos mil anos o largou de propósito num poço de aldeia mortal e o deixou rolar séculos
+pelo mundo até parar nas mãos de um clã. **Comporta-se como criatura viva mesmo sem ninguém no
+comando**: tem vitalidade inesgotável, repara-se sozinho e **expulsa ativamente quem tenta
+refiná-lo** — a cada dia de progresso de infiltração ele **desfaz de dois terços a três quartos do
+avanço da véspera**, e ainda **muda de estrutura interna a cada camada vencida**, invalidando o que
+já foi deduzido. Sobre o usurpador que mexe nele sem ser dono legítimo, acende **uma luz
+verde-jade que o suprime continuamente** — supressão que atrapalha, mas **não é absoluta**. Para
+tomá-lo de verdade não basta força: exige **atendimento do caminho da madeira** e um golpe de
+carma/sorte que **refaça o vínculo de posse**. Como arma bruta, **investe como um meteoro**, mais
+rápido que o voo de um imortal de rank 6, ignorando névoas e golpes de engano; **suas quinas
+cortam**, e num choque frontal **partiu ao meio uma fera de alma imemorial** (ficando lascado e
+visivelmente mais lento depois — colisões o desgastam). Seu trunfo real, porém, é **agrícola**: o
+palácio guarda **sementes de feijão de jade** — amarelas (tropa básica), verdes (atiram flechas),
+vermelhas (autodetonam), pretas (defesa máxima), mais as raras ervilhas azuis (refletem golpes) e
+favas brancas de geada (curam os outros soldados). Elas são plantadas **dentro de um mural do
+salão principal** — a terra pintada é real, por causa dos Gu do caminho da pintura — e, regadas
+com material imortal de água e aceleradas com material imortal de madeira, **brotam em um dia e
+uma noite** e saem do mural como **soldados-feijão divinos**, cada um com força de **fera desolada
+no mínimo**. *Limite decisivo:* **não é golpe instantâneo** — formar um exército útil exige tempo
+longo e consumo contínuo de materiais, então **quem toma o palácio no meio de uma guerra não pode
+contar com ele**; em compensação, o solo do mural fica mais fértil a cada plantio e com o tempo
+**vira ele próprio material imortal**.
+
+**Dragon Palace** · *escravização, com núcleo do caminho do sonho* — palácio de luz
+dourada-alaranjada, ricamente ornado, **construído pela raça dos homens-dragão** no auge dela e
+escondido no fundo do mar depois que essa raça foi exterminada. É a **maior Casa de escravização
+da história**: escravizou de uma vez **quatro Gu Imortais de rank 8**, e **os escravizados
+continuam agindo normalmente aos olhos de todos**, inclusive lutando "voluntariamente" pela Casa,
+sem que ninguém em volta perceba a coleira. Traço que a torna quase impossível de roubar: **só um
+homem-dragão pode controlá-la**, limite embutido no projeto que **não tem como ser contornado** a
+não ser desmontando a Casa inteira — o caminho para se qualificar é um método de refino que
+transforma humano em homem-dragão. Ela tem, além disso, **um espírito próprio**: uma consciência
+infantil que **escolhe sozinha seu mestre**, pode **se esconder de quem refinou a Casa** e
+**teleporta o escolhido** para o interior mais profundo no instante em que decide adotá-lo. Seu
+núcleo é o **Dream Token**, que **emana um reino de sonho gigantesco em volta da Casa**, em
+movimento rápido e constante, que a esconde, atiça curiosos e abre brechas ocasionais como isca —
+e enquanto esse reino está sobre ela **a Casa fica com o funcionamento parado**. Para atravessá-lo
+é preciso um método específico do caminho do sonho; ele **se regenera mais rápido do que é
+consumido** se o método usado for de rank baixo. *Fim:* foi **destruída em batalha, e apenas o Gu
+Imortal-núcleo foi resgatado**, ferido — prova de que o núcleo sobrevive à morte da estrutura.
+
+**Star Constellation Chessboard** · *sabedoria* · rank 8 → 9 com o Gu de rank 9 do caminho da
+sabedoria — tabuleiro de xadrez com peças que brilham como estrelas, **criado pessoalmente por uma
+das dez Veneráveis**, que o fez depois de prever — imitando o caminho do tempo com métodos de
+sabedoria — que sete irmãos criariam a primeira Casa de Gu Imortal da história. É a **número um do
+mundo em dedução do caminho da sabedoria**, e essa é sua função principal, não o combate: um
+imortal de rank 8 já talentoso que a possua passa a figurar **entre os três maiores especialistas
+em sabedoria do mundo inteiro**. Na prática ela **amplifica golpes de investigação** — permite
+ficar numa região e **observar com nitidez um campo de batalha em outra**, deduzir a localização
+exata de um alvo que se esconde com selos, e destruir por força bruta a vontade residual de um
+antigo expert. Como formação em larga escala, projeta o poder nas **estrelas do céu**, que servem
+de trampolim, e assim **teleporta grupos** — com três ressalvas duras: precisa da formação montada,
+precisa das estrelas, e precisa da força de **outro imortal específico**; **só com o tabuleiro o
+teleporte em massa é ineficiente demais e ainda derruba muito a capacidade de dedução do
+operador**, e enquanto ela sustenta esse efeito **fica presa na base e não pode ir a campo**. Em
+batalha campal, os imortais aliados viram literalmente **peças no tabuleiro** e podem ser
+transferidos instantaneamente para qualquer ponto do campo. Ela pode **sugar a essência imortal de
+quem a segura e se ativar sozinha**. *Fraqueza estrutural:* é um método de **cálculo delicado e
+complicadíssimo** — **poder caótico ou irrestrito injetado nela interfere e pode desmoronar a
+formação inteira de uma vez**, e foi assim que ela caiu; danificada, perdeu brilho e **encolheu
+para um quinto do tamanho original**.
+
+**Calamity Luck Altar** · *sorte* — altar de **nove cantos**, uma das três Casas de rank 8 que um
+dos dez Veneráveis possuiu em vida. Operação: **oito Gu Imortais se postam no centro dos nove
+cantos** e concentram-se para conduzi-la — é Casa de operação coletiva, e enquanto esses oito
+prendem alguém lá dentro **não podem desviar a atenção para mais nada**. Princípio: calamidade e
+sorte são a mesma matéria — **incerteza** — e o altar **inverte uma na outra**, transformando
+desgraça em fortuna e fortuna em desgraça, e interligando as duas num ciclo que não para. O golpe
+mais valioso dela faz o lado defensivo disso: **converte calamidades e tribulações de todo tipo em
+algo inofensivo para a abertura imortal e, mais que isso, em alimento que a nutre** — é por causa
+dele que uma gruta-céu de rank 9 atravessou **todas** as suas tribulações e ainda **cresceu com
+elas**. Daí sai a fraqueza declarada no próprio texto: com o altar montado, **tribulação celeste e
+calamidade terrestre deixam de ser ameaça — só sobra a calamidade humana**, isto é, outras pessoas
+atacando. O mesmo mecanismo tem lado ofensivo: apontado contra uma abertura alheia, **transforma a
+fortuna acumulada do alvo em calamidade proporcional** — quanto mais rica a abertura, maior a
+tribulação. Como fortaleza, serve de aríete e **prende dentro de si um Gu Imortal de rank 8** sem
+que ele consiga sair. *Vulnerabilidade registrada:* contra uma Casa de luz que irradiava calor
+extremo, **a superfície começou a derreter e os Gu mortais dentro foram carbonizados** antes mesmo
+da aproximação. Seu golpe mais forte é uma **estrada de luz dourada** que "cria à força uma rota de
+sobrevivência numa situação sem saída" — mas ela **pode ser sacudida e desestabilizada** no
+momento da ativação, **treme sob bombardeio pesado**, e contra certos obstáculos simplesmente não
+funciona.
+
+**Luck Suppression Heavenly Palace** · *sorte* — terceira das Casas de rank 8 do mesmo Venerável,
+criada a partir da herança verdadeira da **"sorte do céu e da terra"** — a doutrina de que tudo tem
+sorte própria (uma pessoa, uma fera, um fio de capim, uma pedra, um rio) e de que o céu e a terra
+inteiros também têm a sua, que pode ser **pesquisada, usada e alterada**. Ele a escondeu dentro de
+um dos dois **céus imemoriais** e a deixou lá **trezentos mil anos** suprimindo aquela área. O
+efeito não é um golpe: é **acúmulo**. Parada no mesmo ponto por eras, ela **vai depositando marcas
+do dao do caminho da sorte** naquele pedaço de céu e passa a **participar das operações do céu e da
+terra**, até o trecho sobre uma região inteira virar **território manipulável do dono** — quem
+tentar cruzar por ali está andando dentro da casa do inimigo. Efeito concreto e verificado: dentro
+do céu imemorial há fenômenos naturais cuja **rota nem a vontade do céu consegue mudar** — e a Casa
+consegue: **desvia a tempestade para cima do invasor**. *Limite duro:* ela é **absolutamente imóvel
+na prática** — **movê-la um fio de cabelo que seja destrói os trezentos mil anos de trabalho**.
+Outros limites: **fica oculta, mas pode ser forçada a se revelar**; e **não localiza pessoas**. E
+as marcas acumuladas são **frágeis a mudanças ambientais grandes**: quando os dois céus imemoriais
+começaram a se fundir, defendê-las **teria destruído a Casa inteira**.
+
+**Divine Emperor City** · *pintura e homem (madeira na origem)* · rank 8, "meia rank 9" na prática
+— **não foi construída: nasceu da fusão do Divine Bean Palace com uma cidade mortal inteira**,
+feita pela vontade residual do Venerável que criara o palácio. É a **maior Casa de Gu Imortal da
+história**, de longe — uma Casa comum ao lado dela parece um brinquedo. Dentro vivem **centenas de
+milhares de pessoas** — mortais, Mestres Gu e até imortais de rank 6 — e a Casa **soma a força de
+todos os que estão dentro e a usa em conjunto**: é uma Casa do caminho do homem cheia de gente, e é
+isso que a torna forte. Instala-se sobre o **maior ponto de convergência da veia humana** de uma
+região e **consegue arrastar esse ponto consigo quando se move**. Por muito tempo todos a julgaram
+fixa; ela é móvel, e quando marcha se cobre de uma **luz verde profunda** que tapa o céu e esconde
+o deslocamento até dos próprios moradores. *Ataque característico:* a Casa **emite vozes humanas em
+coro**, a luz verde ferve e forma um **redemoinho** que sopra um **vento verde espiralado**; o alvo
+é travado e **absorvido para dentro da Casa**, onde fica preso vivo — funcionou contra um
+pseudo-Venerável e contra uma fera de alma imemorial, **sem que a Casa desse sinal de perturbação**
+com os dois presos dentro. Os mundos de pintura internos servem de **campo de cultivo e de teste de
+sucessão**. *Disputa por dentro:* os soldados-feijão do palácio original **são da mesma origem que
+a cidade**, então quem os comanda pode invadir mundo de pintura por mundo de pintura, e **quanto
+mais mundos ocupar, mais controle ganha** — a ponto de suprimir a vontade do Venerável e tornar-se
+dono. Mas dentro de um mundo de pintura vale a regra dele: **a diferença entre imortal e mortal
+fica mínima**, e os soldados chegam em números desiguais, de modo que **mortais organizados
+conseguem massacrá-los**.
+
+**Moment Stage** · *tempo* — a Casa **pesada** de uma esquadra, feita para segurar a linha de
+frente: um anel de escadas de pedra dá voltas por fora, subindo em espiral até um pavilhão de
+telhas vermelhas no alto. Bloqueia frontalmente uma Casa de rank 8 inimiga e aguenta o choque; com
+um grande especialista do caminho do tempo instalado dentro, **não fica atrás de uma Casa de rank
+8 rival**. Nem por isso é indestrutível: um choque forte a deixou coberta de rachaduras, com
+incontáveis Gu mortais mortos e muitos Gu Imortais feridos, exigindo reparo em plena batalha. Seus
+Gu-núcleo são **Instant** (Instante) e **That Time** (Aquele Tempo), ambos do caminho do tempo —
+**tirados de outra construção da própria corte celestial** para montá-la, o que a obra apresenta
+como custo alto e decisão pesada.
+
+**Myriad Year Flying Warship** · *tempo, com Gu auxiliares do caminho da regra* — navio estreito
+como um bote pequeno, coberto de **luz prateada ofuscante**, com aparência de coisa afiada e dura.
+**Foi construída do zero por um único Gu Imortal**, num esforço de dedução ininterrupto que deixou
+o construtor à beira do desmaio — e **já saiu rank 8 de primeira**, o que a obra trata como feito
+notável. O que a eleva a rank 8 é o núcleo, o **Years Flow Like Water** — peça de **logística**,
+feita para desenvolver aberturas e produzir Year Gu, **sem nenhum poder ofensivo próprio**; quem a
+montou aproveitou que já não precisava daquele Gu para alimentar o próprio rebanho e o transformou
+em espinha dorsal de uma Casa. Os dois auxiliares principais são de rank 7: um **Precaution Gu**,
+que **é o núcleo da defesa** do navio, e o **Fight Gu**, do caminho da regra. *Especialidade
+declarada:* **velocidade e defesa**. Ele **acelera a cada onda que o atinge** em vez de ser
+freado, e seu golpe característico **altera o fluxo da água do Rio do Tempo em volta** para se
+impulsionar. Chegou a **ficar parado deixando o inimigo bater**, com todos os golpes de um grupo
+inteiro de imortais sem efeito; **estilhaçou uma Casa de rank 7 só com o impacto do choque**; e
+matou dois Gu Imortais de rank 8. É **operável por uma pessoa só**, mas comporta passageiros, e a
+facção usava isso para **treinar imortais de rank 7 até poderem participar de batalhas de rank 8**.
+*Fraquezas, todas concretas:* **(1)** é **forte por fora e fraca por dentro** — uma fera solta lá
+dentro pode destruir a Casa inteira, e foi exatamente assim que uma fera do Rio do Tempo entrou e
+**roubou o Gu-núcleo** (só não deu certo porque havia uma isca falsa preparada); **(2)** a mordida
+de uma fera imemorial **esmagou as laterais do casco**; **(3)** a **lacuna de projeto**: o
+construtor cobriu quase todos os caminhos, mas era fraco no **caminho do homem**, e um inimigo que
+tivesse **uma única marca do dao do caminho do homem no corpo do dono** conseguia atacar por essa
+conexão **contornando a Casa inteira**.
+
+**Embroidered Tower** — dispara **sete agulhas de bordado condensadas de luz que costuram o alvo ao
+chão** — é o ataque mais forte desta Casa. **Um Venerável atingido por ele só se soltou abandonando
+três pedaços da própria pele**, que seguem pregados no ar acima da torre.
+
+**Demon Judgment Board** · *sangue* — Casa antiquíssima de uma super-potência, que a obra chama de
+"criação de nível máximo". Ao incorporarem nela o **Blood Relation Gu**, ela passou a **detectar
+todo cultivador do caminho do sangue do mundo que não seja de rank 9** — um radar continental
+permanente contra um caminho inteiro. É o exemplo mais claro do catálogo do que **incorporar um
+único Gu novo faz por uma Casa já pronta**.
+
+**Thieves Den** · *roubo* — registrada na herança verdadeira de um dos Veneráveis demoníacos e
+criada por ele mesmo — a obra a chama de **criação de nível máximo, que não pode ser modificada e
+não tem margem de melhora**: quem a possui só pode **repará-la e repor Gu faltantes, nunca
+aprimorá-la**. Golpe único, chamado **"roubar o dao"**: ela usa material imortal do caminho do
+roubo como catalisador, consome instantaneamente as marcas de roubo contidas nesse material e, em
+troca, **arranca as marcas do dao do mundo externo ao redor** — arrasando um terreno de suas marcas
+e recolhendo-as para dentro de si. O que faz esse roubo valer ouro é o passo seguinte: quando
+marcas **iguais** se juntam em quantidade dentro da Casa, elas podem ser **transformadas em
+material imortal do caminho correspondente** — inclusive material de **rank 9**, colhido de um
+lugar cuja terra tenha marcas de rank 9, em volume suficiente para tentar refinar um Gu Imortal de
+rank 9. É, em resumo, **uma mina de recursos ambulante**. *Limite central, e o motivo de ela ter
+sido considerada quase inútil por muito tempo:* **ela rouba as marcas mas não tem método próprio
+para usá-las** — sem a técnica de convertê-las, o saque fica parado dentro dela sem serventia.
+*Custos e barreiras:* **gasta essência imortal em quantidade pesada**; e **repará-la exige
+atendimento de grande grão-mestre do caminho do roubo** — um clã inteiro, famoso justamente por
+construir Casas, passou gerações sem conseguir consertá-la.
+
+**Peaceful Soil Heavy Mountain Fortress** · *terra* — fortaleza construída a partir de um **projeto
+completo obtido dentro de um reino de sonho**, somado a um lote grande de Gu Imortais de terra. O
+dado que interessa à mesa é o preço: **um Gu Imortal gastou todos os seus Gu Imortais para
+erguê-la**.
+
+**Unbreakable Golden Fortress** — fortaleza de rank 8 que a obra cita como **uma de sete** que um
+único Gu Imortal construiu de uma vez, o que **fixa o teto do que uma potência individual consegue
+montar**. Efeito próprio: — a obra não descreve.
+
+### Rank 7 — a classe de trabalho
+
+**Water Pavilion** · *água* — pavilhão feito de **não menos que três mil Gu**, todos interligados
+e em ressonância — número que a obra dá explicitamente e que serve de escala para o que é montar
+uma Casa deste porte. O núcleo é o **Water Harmony Gu**, acompanhado de dois auxiliares (um de rank
+6 do caminho do movimento e um da sabedoria). Suas três funções declaradas são **ocultação, defesa
+e armazenamento**. Escondida, vira quase uma ilusão: **some dentro da água, viaja com a
+correnteza**, esconde-se dentro de névoa voando pelo céu, e pode **enfiar-se num canto de um
+iceberg** ficando indetectável. *Controle de acesso:* **sem a insígnia de entrada, o pavilhão
+repele até um Gu Imortal de rank 8** — quem não tem o passe precisa antes **virar água** só para
+conseguir entrar. *Vulnerabilidade correspondente:* uma Casa **sem dono** pode ser refinada por
+qualquer um que a encontre e a estude, **inclusive por alguém que ainda seja mortal**, porque
+refinar uma Casa é sobretudo compreendê-la; e mesmo **dez por cento de controle** já bastam para
+barrar um intruso por um tempo e avisar o refinador à distância. Foi usada como **incubadora**: uma
+imortal a plantou num vale sem nome só para dar a um Gu Imortal em estágio inicial um bom lugar
+para amadurecer, e deixou **um fragmento da própria vontade hibernando dentro dela**, que acordou
+quando alguém entrou.
+
+**Graceful Chaotic Duel Stage** · *tempo, com Gu do caminho da comida* — **criação original de um
+único Gu Imortal de rank 7** — e com ela esse rank 7 **venceu um rank 8**, feito extraordinário;
+quando o perdedor virou zumbi imortal de corpo praticamente indestrutível, o vencedor **abandonou a
+própria Casa em cima dele** para mantê-lo prensado no fundo da terra. *Método característico:*
+**selar o ataque do inimigo e devolvê-lo contra ele**, usando os mistérios do caminho do tempo.
+*Limite explícito e decisivo:* o que ela consegue selar são ataques **de vento, água, terra e
+fogo** — matéria e elemento; **feras e seres vivos não**, e quem manda bichos contra ela passa
+direto. **Escala com dinheiro, literalmente**: em operação normal é um halo de luz vermelha de
+**poucos metros**; abastecida com essência imortal de rank 9 vinda de um Venerável, a luz inchou
+para **quinze ou vinte metros**, e aí ela **não enfraquecia com o uso prolongado, ficava mais
+forte**. O contrário também vale: um imortal que conhecia a composição dela inteira **não conseguia
+usá-la** porque com a própria essência, de rank inferior, não dava para sustentar uma Casa de Gu
+Imortal. *Peculiaridade rara:* os Gu que a compõem estavam **"cheios e em excelente estado"**
+porque ela carrega mistérios do caminho da comida — **ela resolve sozinha o problema de alimentar
+os próprios Gu**, o gargalo que arruína Casas abandonadas. *Fim:* foi **estilhaçada em combate**, e
+os Gu sobreviventes foram recolhidos e reaproveitados pelos imortais presentes.
+
+**Present and Past Pavilion** · *tempo puro* — pavilhão **sem paredes nos quatro lados**, de
+construção simples, que **navega sobre as ondas do Rio do Tempo** e vive permanentemente dentro
+dele, como **sentinela fixa** de sua facção. Função principal: **investigação**. Ela "inspeciona o
+passado e o presente" e permite a quem está dentro **assistir à vida de pessoas do passado e do
+presente**; e, plantada no Rio, **detecta automaticamente qualquer um que entre nele**. *Dois
+limites concretos:* tem **raio de detecção finito** — um alvo veloz o bastante sai do alcance —, e
+pode ser **cegada** por um golpe montado sobre o **Time Concealment**, contra o qual ela não
+enxerga nada. *Operação:* exige **quatro Gu Imortais especialistas em tempo agindo em coordenação
+estreita**. *Combate:* manda o próprio Rio do Tempo **levantar ondas**, ergue muralhas de água e
+tsunamis de dezenas de metros, dispara **um pilar de luz** quase sólido e solta uma **névoa verde**
+que lhe dá controle da área. Seu golpe mais forte é um **redemoinho de dentes de serra** que corta
+um Gu Imortal comum em pedaços num piscar de olhos — tão violento que **os próprios quatro
+operadores não aguentariam três respirações dentro dele**. *Fraquezas:* **não é especializada em
+defesa** — foi destruída sozinha por um único imortal —, e as **feras imemoriais do ano**
+atravessam suas ondas sem serem freadas. Quando ela é destruída, os operadores ficam **sem nenhuma
+capacidade de revide** e morrem em seguida.
+
+**Eternal Yacht** · *tempo, com núcleo do caminho da regra* — navio de **vários andares**, alto,
+que corre com o vento e **cavalga as ondas do Rio do Tempo**; é bem maior que uma Casa de rank 8 do
+mesmo caminho e serve de plataforma para **um Gu Imortal de rank 8 no comando e vários de rank 7 no
+convés**. Seu núcleo é o **Permanence Gu**, que precisou ser **retirado de outra instalação da
+facção** para ser instalado nela — e vale registrar que **a construção dela falhou na primeira
+tentativa e teve de ser refeita do zero**. *Papel:* junto com uma Casa-sentinela investigadora,
+formar uma **barreira no Rio do Tempo** — a sentinela detecta quem entra, o iate persegue e
+intercepta. É a **mais rápida da própria frota**, mas **mais lenta que uma Casa de rank 8** e,
+sendo grande, **não consegue desviar**. *Duas fraquezas graves e explícitas:* é a **de defesa mais
+fraca da frota** — um golpe de corte temporal fino como papel a atravessa sem esforço —; e **não
+detecta nada**, de modo que não pode caçar sem a sentinela ao lado. Foi destruída em combate e seu
+núcleo levado como espólio.
+
+**Cooking Luck Pot** · *sorte* · rank 6 → 7 — caldeirão com dragões em relevo, **criação máxima da
+herança verdadeira da "sorte própria"** deixada por um dos dez Veneráveis. Montado com um punhado
+de Gu Imortais de sorte — **Time Luck, Luck Inspection, Dog Shit Luck, Qi Luck, Connect Luck**,
+entre outros —, e a obra faz questão de dizer que **as habilidades desses Gu são só as funções
+básicas do caldeirão**, não o que ele faz de verdade. *Uso:* o dono injeta essência, o caldeirão
+vira luz dourada, **sobe e paira acima da cabeça dele, sumindo da vista alheia**; com um golpe, o
+dono passa a **enxergar a sorte** como forma visível, e a sorte escoa continuamente para dentro até
+enchê-lo. Então vem a função-título: ele **esquenta até a sorte ferver e a "cozinha", convertendo
+qualquer forma de sorte na forma que o dono quiser** — uma sorte de caixão negro denso, que anuncia
+perigo mortal iminente, pode ser fervida e sair de lá como **sorte nova em folha**. *Limite de
+rank, que é a regra dura:* **um caldeirão de rank N governa por inteiro a sorte de gente de rank N
+e apenas "influencia" a de rank N+1** — no rank 6 ele mal conseguia mexer na sorte do próprio dono,
+que era rank 8, e só depois de **desmontado e remontado com Gu Imortais de rank 7** passou a afetar
+rank 8. Olhar para uma sorte grande demais tem preço na hora: o dono **enxerga só parcialmente**, e
+se insistir **sofre contragolpe enquanto o próprio caldeirão racha** — e a fenda **vaza sorte,
+cresce sozinha se não for consertada na hora** e chega a ser dano severo. *Escopo:* age dentro da
+**sorte própria** — inclui os clones do dono, por serem a mesma entidade —, **não é ferramenta para
+mexer na sorte de todos os seres vivos**. Pode ser **desmontado a qualquer momento** para recuperar
+seus Gu Imortais e remontado depois num rank maior — o que faz dele a Casa mais "modular" do
+catálogo.
+
+**Golden Age Platform** · *tempo* — a única **fixa** do seu grupo: não navega. Uma vez construída
+dentro de uma terra abençoada, **vira uma lua brilhante que flutua no céu daquele espaço** e nasce
+e se põe sem parar, operando sozinha. Serve de **curral**: armazena grande quantidade de feras-ano
+e **as coloca em sono profundo**, derrubando drasticamente o consumo de comida delas. Em troca,
+**extrai a força das próprias feras-ano para se manter** — o dono **não gasta essência imortal
+nenhuma** com ela. *Limites:* construí-la **consome muitos Gu Imortais do caminho do tempo**, que
+ficam presos ali e não podem ser usados na luta; por ser fixa, **não ajuda em nada num combate no
+Rio do Tempo**; **não é boa em ataque**; **se extrair força demais, mata as feras-ano e destrói as
+marcas do dao de tempo delas**, tornando os cadáveres inúteis; e feras-ano acordadas depois do sono
+profundo **comem muito mais que o normal**.
+
+**Three Autumn Yellow Crane Platform** · *tempo* — Casa de **patrulha e apoio de linha**, elegante
+e imponente: telhado alaranjado que lembra **grous de asas abertas**, irradiando três camadas de
+luz de outono. Atua ao lado da Shark Flow Lever segurando e cercando o inimigo enquanto a Casa da
+frente aguenta o choque. Seus núcleos são **Early Autumn, Mid Autumn e Late Autumn** (Começo, Meio
+e Fim de Outono), os três do caminho do tempo — e, depois de saqueados dela, esses três Gu foram
+usados para **puxar um afluente do Rio do Tempo para dentro de um lago artificial de essência-ano**:
+servem para **canalizar o próprio Rio do Tempo**.
+
+**Shark Flow Lever** · *tempo* — Casa de **tração animal**, com estilo de construção único: é uma
+**alavanca gigante branca como jade, puxada por sete tubarões enormes** de dentes afiados que nadam
+à frente. Combina **feras desoladas com Gu Imortais** na sua construção — combinação que a obra
+destaca como rara e inspiradora, tanto que, estudando os destroços, um imortal deduziu quase todo o
+conteúdo dela. É rápida na interceptação. Foi a única de sua frota destruída **sem sobrar nenhum Gu
+Imortal aproveitável**.
+
+**Myriad Age Building** · *tempo* — torre-sede de um clã, **criada por uma Gu Imortal de pico do
+rank 8 que viveu dez mil anos** e cultivava tempo e sabedoria ao mesmo tempo. Apesar de ser rank 7,
+**bate de igual para igual com rank 8**, e seu papel tático principal é ser o **pilar que segura a
+formação de um exército**: enquanto ela está de pé, imortais de rank 7 aliados lutam ordenados em
+torno dela; assim que ela cai, eles viram **"uma turba desordenada"** e o exército debanda. Serve
+também de **amplificador pessoal** da criadora. *Defesa em dois níveis:* os golpes defensivos
+comuns dela **não seguram** o ataque de palma de um rank 8 forte — a torre começa a **desmoronar
+rapidamente** —; aí ela é obrigada a acionar o **método defensivo mais forte**, que **suga
+rapidamente o tempo de vida do atacante**. E é daí que vem a peculiaridade mecânica mais jogável
+dela: **uma vez ligado, esse método não pode ser desligado antes de pelo menos duas horas** — então
+o atacante esperto **força a torre a acioná-lo e vai embora na hora**, e os **próprios Gu Imortais
+aliados têm de se afastar da torre** enquanto ele dura, o que desmancha justamente a formação que a
+torre existe para segurar. **A maior defesa dela é também um bloqueio de duas horas contra o
+próprio time.**
+
+**Thought Expelling Pavilion** · *sabedoria* — **presenteada a um clã por um Venerável** e feita
+para casar com um operador que também cultive sabedoria. Golpe único, de **alvo único e à
+distância**, disparado contra um Gu Imortal inimigo específico: **os pensamentos do alvo voam para
+fora da mente dele e ficam girando em volta do próprio corpo**. O efeito em cadeia é o que importa
+em mesa: sem os pensamentos no lugar, **os Gu dentro da abertura imortal do alvo entram em caos
+imediato**, o golpe que ele estava acionando **falha**, e ele leva o **contragolpe** do golpe
+fracassado — sangue pela boca e ferimentos graves na hora. Como o efeito é **anunciado por um
+movimento visível da Casa**, ela vale tanto por **ameaça quanto por dano**: um operador astuto
+**finge mirar um inimigo, faz o alvo gastar suas defesas, e desvia o tiro para outro** — e imortais
+cautelosos fogem do campo só de ver a Casa se mexer. *Não é fortaleza:* um grupo de imortais **a
+destruiu** em combate.
+
+**Winding Light Platform** · *luz* · rank 7 com força de combate de rank 8 — plataforma alta,
+branco-acinzentada, de **oito lados e oito cantos**, sobre a qual o operador fica **de pé, à
+vista**. *Ataque:* dispara **feixes de luz que se curvam no ar** — a primeira salva já sai a
+**alguns quilômetros de distância** com quatro feixes que dobram e atacam de direções diferentes ao
+mesmo tempo; a seguinte varre o campo com **dezenas de feixes**, e a luz **atravessa a terra**,
+alcançando uma Casa inimiga escondida no subsolo. O método de assinatura é a **curvatura**: feixes
+já disparados em linha reta **mudam de direção no meio do voo** e voltam a atacar, e um grande
+número deles **forma uma teia que envolve o alvo por todos os lados** — o que anula um inimigo cuja
+única defesa é a velocidade de esquiva. Seu método mais forte é um **raio de luz amarela** que, em
+**dez respirações**, destrói por completo uma Casa de Gu Imortal inimiga **sem deixar sair vivo
+nenhum dos Gu Imortais lá dentro**. *Defesa:* os feixes se **enrolam em torno da própria plataforma
+e se conectam num anel** que **redireciona** uma Casa que se lance contra ela; com esse anel ela
+segurou, sendo rank 7, todos os ataques de um Gu Imortal de rank 8. *Fraqueza exposta em combate:*
+um atacante cujos golpes carregavam **um poder estranho que não quebrava a defesa mas atravessava
+para dentro** conseguiu **danificar gravemente os Gu que a compõem** — e, com os Gu feridos, **os
+feixes perderam a fonte de energia e se dissiparam sozinhos** no meio da execução do golpe mais
+forte.
+
+**Chamber Pot** · *trevas* — Casa **do tamanho de um bolso**, literalmente um penico, e por isso
+mesmo uma anomalia: ela **não carrega gente como as Casas normais** e, se for usada para sair
+investindo e trombando como as outras, **sofre dano enorme**. Não é fortaleza nem veículo: **é só
+arma**. *Método:* apontada de longe para um alvo, **solta um bolo de luz negra que absorve à força
+um Gu Imortal** para dentro dela. Aí vem a parte medonha: **se o imortal absorvido não conseguir
+escapar e ficar preso lá dentro por uma noite, ele se dissolve numa poça de mijo e fezes**. Ela não
+fere: **digere, com prazo**. *Uso tático correto, dito no texto:* ela só brilha **contra um Gu
+Imortal que tenha saído da proteção da própria Casa** — enquanto o alvo está abrigado, ela não tem o
+que fazer. *Fragilidade:* **um único soco de um imortal forte a destruiu** por completo, deixando o
+dono à beira da morte junto.
+
+**Fallen Flower Hall** · *madeira* — Casa florida que, ao pousar, **faz chover pétalas e converte o
+terreno em volta num mar de flores**. Serve de **salão de recepção e de aríete ao mesmo tempo** —
+pode se lançar contra o inimigo em vez de desviar — e **regenera os próprios danos, absorvendo e
+redirecionando os ataques que recebe**.
+
+**Chicken Dog Coop · Inquiry Dock** · rank 7 (topo) — duas Casas de um clã famoso justamente por
+**construir Casas**. Juntas com uma terceira formam um **golpe de campo de batalha combinado**, o
+"labirinto de flor de pêssego" — **Casas que se encaixam umas nas outras** é um recurso que a obra
+mostra só aqui. A **Inquiry Dock** tem método próprio para **comunicar com o mundo externo e
+teleportar um Gu Imortal do tesouro da sede para dentro dela** em plena batalha, o que resolve o
+problema de ficar sem a peça certa no meio da luta.
+
+**Red River Wheel** · *fogo* — roda de fogo de rank 7 que **resiste a ataque de rank 8**. Ataca por
+**colisão, cercada de chamas** — é uma Casa-aríete: não tem método sutil, tem **massa e fogo**.
+
+**Smoke Wave Building** — emite **fumaça negra densa** que torna a defesa quase impossível para
+quem estiver dentro dela. É Casa de **negação de área: não mata, cega**.
+
+**Earth Shuttle** · *terra* — Casa **rápida como meteoro e ágil no subsolo**, de defesa ruim, usada
+como **projétil**. A contramedida canônica é simples e vale como regra: **desviá-la por colisão
+lateral**, porque velocidade alta em linha reta é fácil de empurrar para fora do rumo.
+
+**Year End Gatehouse** · *tempo* — a obra dá o nome, o rank e o caminho, e **não descreve o
+efeito**.
+
+**Wind Sweeping Building** — torre de **sete andares com cortinas ao vento**. A obra descreve a
+aparência e **nada do funcionamento**.
+
+### Rank 6
+
+**Dark Prison** · *trevas* — **pérola negra** que funciona como **estábulo de feras**: mantém presa
+dentro dela uma **fera desolada ancestral com força de combate de rank 7**, solta sob comando do
+portador. Serve também de **cela** — inclusive para **impedir que um prisioneiro se autodetone**. É
+a menor e mais barata porta de entrada do mundo das Casas.
+
+### Sem rank declarado
+
+**Regret Pool** · *tempo e refinamento* · rank não declarado; seu Gu-núcleo é de rank 8, então ela
+é **ao menos rank 8** `(ded.)` — uma das **três grandes piscinas lendárias** da história das cinco
+regiões. Seus dois núcleos são um **afluente do Rio do Tempo**, sobre o qual ela é construída, e o
+**Regret Gu**. *Mecanismo exato:* **todo Gu Imortal refinado com sucesso dentro dela deixa ali uma
+insígnia**; se depois esse Gu for destruído em qualquer lugar do mundo, a piscina pode ser acionada
+e, usando a força do afluente somada à insígnia guardada, **refina o mesmo Gu Imortal outra vez,
+com taxa de sucesso de cinquenta a sessenta por cento** — muito acima de refinar um Gu de rank 8 do
+zero. Na prática, uma facção que refine tudo dentro dela ganha um **seguro contra perda de Gu
+Imortais**. *Fraquezas explícitas:* **ataque e defesa péssimos** — não serve para lutar, é oficina,
+não fortaleza; e **depois de instalada não pode ser movida**, porque depende do afluente em que foi
+fincada. *Limite duro:* o único jeito de deixar uma insígnia é **ter refinado o Gu dentro dela** —
+quem refinou um Gu Imortal antes de a piscina existir **não tem insígnia e perde o Gu para
+sempre**. Imitações existem e são inferiores: uma formação de refino construída copiando-a reproduz
+**algumas** de suas funções mas **só dura um dia**.
+
+**Turtle House** — **a primeira Casa de Gu Imortal da história**, criada por **sete irmãos**. A obra
+registra o fato histórico e o desdobramento: a existência dela foi **prevista por uma Venerável**,
+que construiu a própria Casa (a Star Constellation Chessboard) em resposta. Efeito, composição e
+destino: — a obra não informa. O valor desta entrada é **cronológico, não mecânico**.
+
+**Sun Palace** · *luz* — estrutura de uma super-potência com **vários Gu Imortais de luz de rank 8
+como núcleos**. **Controla a iluminação da sede inteira.** O perfil é peculiar e jogável: **defesa
+muito fraca**, mas **o calor que emite impede qualquer Casa inimiga de se aproximar** — é uma peça
+que **se defende pela área, não pela casca**. Foi ela que fez a superfície do Calamity Luck Altar
+começar a derreter antes mesmo da aproximação.
+
+**Canary Pavilion · Yue Yang Palace** — as outras duas Casas da seita que detém a Heavenly Pool. A
+obra as **nomeia como parte do acervo da facção e não descreve efeito de nenhuma das duas** —
+servem para dimensionar o patrimônio de uma potência: **três Casas, não uma**.
+
+**Sacred Feather City** — cidade-Casa comandada por um Gu Imortal de rank 7. O que a obra registra é
+**o fim dela**: foi **estilhaçada em combate**, junto com a Graceful Chaotic Duel Stage. Serve de
+lembrete de que **Casa não é invulnerável** — é equipamento pesado, e equipamento pesado se perde.
+
+**Fragrant Treasure Horse Chariot** — Casa de viagem de um Gu Imortal solitário de rank 8. A obra a
+mostra **apenas em deslocamento** e não descreve efeito de combate. É a prova de que uma Casa também
+pode ser simplesmente **a carruagem em que alguém mora**.
+
+---
+
+## Os Gu Imortais que a obra só nomeia
+
+Esta seção existe porque **a ausência de informação também é informação**, e num catálogo é a
+mais fácil de esconder. Um Gu que aparece uma vez, nomeado e nada mais, é um espaço em branco
+**autorizado**: a mesa pode inventar ali sem contradizer uma linha do cânone. Um Gu cujo efeito a
+obra descreve em detalhe é o contrário — inventar sobre ele é contradizer.
+
+As fichas acima já dizem, uma a uma, o que a obra cala. O que esta seção faz é **juntar tudo num
+lugar só**, para que a designer possa ver de relance onde estão as portas abertas.
+
+### Nomeados sem nenhum efeito descrito
+
+Destes, a obra dá o nome, quase sempre o rank e o caminho, às vezes a aparência, a procedência e a
+importância política — e **nunca o que fazem**.
+
+| Gu | Rank | Caminho | O que a obra dá em lugar do efeito |
+|---|---|---|---|
+| ⭐ Kindness Thought | 6 | sabedoria | apenas o nome, citado numa negociação |
+| ⭐ Blood Qi Gu | 6 | sangue | uma das nove heranças verdadeiras; recuperada após a morte do detentor |
+| ⭐ Blood Deity Gu | 6 | sangue | sétimo dos Dez Grandes Gu Demoníacos; receita destruída pela metade |
+| ⭐ Blood Shadow Gu | — | sangue | uma cena com sombras de sangue e ferocidade multiplicada `(ded.)` |
+| ⭐ Blood Battle Gu | — | sangue | a original foi destruída e uma cópia refinada do zero |
+| ⭐ Blood Sweat Gu | — | sangue | só o requisito: quem não sua jamais poderá usá-lo. Sumiu do mundo |
+| ⭐ Blood Handprint Gu | — | sangue | só a existência do exemplar imortal; o efeito descrito é o da versão mortal |
+| ⭐ Responsive Luck | 8 | sorte | receita saída do manuscrito de um Venerável; peça-chave de golpes novos |
+| ⭐ Main Luck | — | sorte | só o papel teórico de "sorte principal"; nunca aparece em cena |
+| ⭐ Sub Luck | — | sorte | só o papel teórico de "sorte secundária"; nunca aparece em cena |
+| ⭐ Capture Wind Gu | 7 | espaço | o primeiro Gu Imortal registrado numa transação pública |
+| ⭐ Space Travel | 7 | espaço | capacidade de deslocamento notável; capturado de um pégaso imemorial |
+| ⭐ Overturn River | — | força | citado uma vez, dentro de um lote de troca |
+| ⭐ Master-Servant Gu | 7 | escravização | a aparência, o custo do refino (33 falhas) e o preço de venda |
+| ⭐ Soul Shaking Flag | — | alma | a mão direita da alma armada, dentro do conjunto da veste |
+| ⭐ Soul Shackle | — | alma | a mão esquerda da alma armada, no mesmo conjunto |
+| ⭐ Heaven's Rage | — | céu | a regra da família: nem um Venerável de rank 9 consegue ativá-los |
+| ⭐ Heaven's Sorrow | — | céu | a mesma regra |
+| ⭐ Wine Drinker Gu | — | homem | a categoria (versão imortal dos Gu de profissão) e a importância política |
+| ⭐ Dancer Gu | 6 | homem | só o nome, numa lista de clones |
+| ⭐ Talented Girl Gu | 6 | homem | só o nome, na mesma lista |
+| ⭐ Departure Gu | 8 | regra | o papel dentro de um golpe composto de quase-rank 9 |
+| ⭐ Main Gu | — | regra | o papel dentro do golpe "sorte fixa" |
+| ⭐ Effect Gu | — | madeira (ou regra) | o papel dentro dos dois golpes de karma |
+| ⭐ Cause Gu | — | regra | o que os golpes de karma fazem, em detalhe |
+| ⭐ Ripe Gu | — | regra | o que a formação de treino que ele sustenta faz |
+| ⭐ Permanence Gu | — (`ded.` 7-8) | regra | a função estrutural de núcleo, e o campo auto-regenerativo |
+| ⭐ Limit Gu | 7 | regra | o papel de par obrigatório do Region Gu |
+| ⭐ Addition Gu | 8 | regra | só a dieta — oito dias de comida por oitenta anos |
+| ⭐ Suppression Gu | 8 | regra | o papel de núcleo das formações que represam o Rio do Tempo |
+| ⭐ Yellow Sand | 6 | terra | o papel de peça de formação defensiva |
+| ⭐ Bone Spike Gu | 6 | osso | a classificação como Gu de ataque de osso |
+| ⭐ Autumn Gu | 7 | tempo | a aparência e o papel de núcleo do golpe investigativo de outono |
+| ⭐ Winter Gu | 7 | tempo | a aparência e o papel de núcleo do golpe defensivo de inverno |
+| ⭐ Fan Wind Gu | 7 → 8 | vento | o trajeto como mercadoria: comprado, entregue, elevado de rank |
+| ⭐ Eight-faced Prestige Wind Gu | 8 | vento | o valor: o Gu mais cobiçado de um clã inteiro |
+| ⭐ Wooden Chicken Gu | — | — | que quem o obtivesse viraria perito entre os Gu Imortais |
+| ⭐ Kill | 8 → 9 | — | a origem (nasceu do céu como reação a um massacre) e a dieta |
+| ⭐ Space Escape Gu | — | espaço | vinte e um anos de refino e nenhum efeito: o maior fracasso da história |
+
+### Nomeados com uma única frase de efeito
+
+Estes têm efeito declarado, mas em **uma frase e nada mais** — sem número, alcance, duração ou
+custo. Para a mesa, a diferença em relação ao grupo anterior é que aqui **a direção está dada** e
+só falta a régua.
+
+| Gu | Rank | A frase inteira que a obra dá |
+|---|---|---|
+| ⭐ Day Gu | 6 | armazena dias; substitui montanhas de Day Gu mortais nos golpes de tempo |
+| ⭐ Month Gu | — | armazena meses; mesmo papel do Day Gu, na escala mensal |
+| ⭐ Time Needle | 7 | dispara agulhas finíssimas contra os inimigos |
+| ⭐ Summer Gu | 8 | força floração fora de época — traz o verão a uma região |
+| ⭐ Reminiscence | 6 | aguça a lembrança: recupera com nitidez memórias próprias |
+| ⭐ Soul Search Gu | 7 | vasculha a alma e extrai parte das memórias (os limites descritos são os da versão mortal) |
+| ⭐ Leave Luck Gu | — | gasta rapidamente a sorte de alguém |
+| ⭐ Seal Luck Gu | — | sela a sorte |
+| ⭐ Transfer Luck Gu | — | transfere sorte |
+| ⭐ Peach Blossom Luck Gu | — | vendido caro num leilão; o efeito se deduz do *tipo* de sorte que dá nome a ele |
+| ⭐ Turn Sand Gu | — | transmuta entre areia e rocha |
+| ⭐ Sight Light Gu | — | raio pelos olhos que fica mais forte quanto maior a distância |
+| ⭐ Sword Tongue Gu | — | um estalo da língua dispara luz de espada carmesim |
+| ⭐ Normal Gu | — | devolve o alvo à condição normal |
+| ⭐ Cook | 7 | fornece o "cozinhar" da Casa Cooking Luck Pot `(ded.)` |
+| ⭐ Eat Fragrance | 6 | ajuda o Gu Imortal a comer qi de fragrância — a obra chama isso de "habilidade inútil" |
+| ⭐ Medicine Fragrance | 8 | voa pelo cômodo e enche a casa de fragrância medicinal |
+| ⭐ Liquor Worm Gu | 8 | converte essência imortal de rank 8 em essência imortal de rank 9 |
+| ⭐ Dew | 7 | dentro da formação, a recuperação de essência imortal fica muito alta |
+| ⭐ Wood Sprout | — | faz brotar e crescer vegetação |
+| ⭐ Expand Space | — | rasga passagem na parede de espaço de uma terra abençoada |
+| ⭐ Weak Chicken Gu | 8 | concede força, mas só com o método de compatibilidade certo |
+
+### E oito Casas nomeadas sem efeito
+
+**Year End Gatehouse**, **Wind Sweeping Building**, **Unbreakable Golden Fortress**, **Turtle
+House**, **Canary Pavilion**, **Yue Yang Palace**, **Sacred Feather City** e **Fragrant Treasure
+Horse Chariot**. De cada uma a obra registra a existência e, em alguns casos, o fim — e nada do
+funcionamento. Ver [[#Casas de Gu Imortal|a seção das Casas]].
+
+### Três nomes que não sobrevivem à verificação
+
+Estes **não entraram nas seções acima**, e a designer precisa saber por quê. Eles circulam em
+fontes secundárias e em versões anteriores do próprio catálogo, e **a busca direta no texto-fonte
+não os confirma**.
+
+- **⭐ Summary Gu** — **não localizado no texto-fonte.** Buscas por "summary Gu", "summary immortal
+  Gu", "gist", "outline Gu", "general idea Gu", "conclusion Gu" e "summarize Gu" **não retornam
+  nenhum Gu com esse nome** nos seis volumes; a obra usa "summary/summarize" apenas em prosa comum.
+  Se a designer quiser um Gu de "deduzir o resumo geral de uma informação complexa", **o espaço
+  está livre** — nada no cânone contradiz, e nada o confirma.
+- **⭐ One / Three ("Number Gu")** — **não localizados.** Não existe nos seis volumes nenhum Gu
+  Imortal chamado "One" ou "Three", nem qualquer menção a uma série numérica de Gu. O que a obra
+  realmente tem, e que quase certamente originou a ficha, é a **família de Gu Imortais do caminho
+  das regras com nomes de uma palavra abstrata** — esta sim aparentemente aberta e potencialmente
+  infinita. Os nomeados no texto são **Small**, **Big**, **Main**, **Disintegrate**, **No**,
+  **Care**, **Pass**, **Fight**, **Become Real** e **Death Sentence Awaits**. A designer pode
+  inventar novos Gu de regras à vontade: o cânone estabelece o **molde** — nome de conceito
+  abstrato, efeito que é a aplicação literal desse conceito, latência de dez respirações quando
+  usado nu — **sem fechar a lista**.
+- **⭐ Instant / That Time** — os nomes existem, mas **como Gu-núcleo da Casa Moment Stage**, não
+  como um par de Gu avulsos. Uma varredura completa dos seis volumes não achou ocorrência de
+  "instant Gu" ou "that time Gu" fora desse contexto. O que a obra de fato descreve em detalhe é a
+  **Casa** de rank 8 do caminho do tempo cujo método-assinatura é ir de um lugar a outro "no tempo
+  de um instante" — e o texto faz questão de dizer que **isto não é teletransporte espacial**, e
+  sim **comprimir o próprio tempo do trajeto num instante**; se a distância for maior, gasta vários
+  instantes seguidos em vez de um só. É o caso mais explícito da obra de **deslocamento por
+  compressão temporal, não espacial** — um "teletransporte" que o caminho do espaço não consegue
+  detectar nem bloquear como teletransporte. A ficha da Casa está em
+  [[#Casas de Gu Imortal|a seção das Casas]].
+
+### Duas entradas que não são Gu individuais
+
+- **⭐ Wild Immortal Gu** — **não é um Gu: é uma categoria.** Designa qualquer Gu Imortal **nunca
+  refinado**, achado em feras ou em fendas terrestres. A dieta varia com o exemplar. Sua
+  importância é conceitual e enorme: **prova que Gu Imortais nascem sozinhos no mundo, sem ninguém
+  os fabricar** — e, como Gu selvagens **não têm a trava de autodestruição** do dono anterior,
+  refiná-los é difícil mas **jamais perigoso**. Isso inverte todo o cálculo entre roubar e caçar, e
+  faz de terrenos que geram Gu selvagens **a única fonte de Gu Imortal adquirível sem refino nem
+  consentimento**. Vários Gu deste catálogo são selvagens: Ice Soul, Blood Relation, Soul Beast
+  Token, Earth Vein, Ice Heart, Heart Blood, Lightning, Fire e Light.
+- **Fixed Luck** — **não é um Gu: é um golpe imortal**, pertencente à herança verdadeira "sorte de
+  todos os seres vivos". Seu efeito é **tornar a própria sorte firme e difícil de influenciar**, e
+  seus dois Gu-núcleo originais são o **Stubborn Gu** e o **Main Gu** — esses sim, Gu. A teoria por
+  trás dele é a regra de mundo mais útil do caminho da sorte, e está na ficha do
+  [[#Rank não declarado pela obra|Main Gu]].

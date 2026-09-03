@@ -1966,6 +1966,44 @@ rank 4 sem descrever passagem de uma para outra (é faixa de rank, não árvore)
 E é o contra-contra do gelo: por **resistir ao congelamento**, ele não pode ser neutralizado
 pela resposta óbvia do caminho adversário.
 
+### Burning Firefly Gu (Gu do Vaga-Lume Ardente) — ranks 3 a 5
+
+**O que faz.** A obra **não descreve o efeito de combate**; classifica-o como "um tipo de Gu
+do caminho do fogo, de qualidade bastante alta". O efeito documentado é **ambiental**, e é
+mais interessante que um ataque: acumulados em grande número, os burning firefly Gu
+**criam um ambiente de caminho do fogo** — e é dentro desse ambiente que se criam muitos
+outros Gu de fogo. Funcionam, portanto, como **fonte de marcas de dao de fogo num
+território**.
+
+**Como é.** Um vaga-lume. Nasce naturalmente num deserto de rochas estranhas e quase sem
+plantas, tomado por um inseto chamado vaga-lume ardente; o número de insetos ali é
+interminável, e entre eles há uma quantidade enorme de burning firefly Gu.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Teto de rank 5** — o local jamais produziu um exemplar de rank 6. E
+depende de um bioma específico, o que torna a fonte um ponto fixo, cobiçado e defendido
+militarmente: o deserto é ponto de recurso de porte médio de um clã imortal, cercado por uma
+formação imortal e guardado por um Gu Imortal de rank 6.
+
+**Como se obtém.** **Não é refinado — é colhido.** Nasce sozinho e em quantidade
+praticamente inesgotável, com piso de rank 3: é raro um Gu selvagem cuja pior versão já seja
+de rank 3.
+
+**Evolução.** Não citada pela obra — os ranks 3 a 5 coexistem no mesmo criadouro, e a obra
+não descreve fusão entre eles. É **faixa de rank**, não árvore.
+
+**Interações.** É **infraestrutura**, não item: ele transforma o território num criadouro de
+Gu de fogo, o que o liga diretamente à regra de que **terreno saturado por marcas de um
+caminho favorece quem cultiva aquele caminho e corta a potência de quem chega com marcas
+conflitantes**. Quem quer produzir Gu de fogo em série precisa primeiro de um chão de fogo, e
+é isto que faz o chão.
+
+> [!warning] Divergência de caminho com o catálogo plano
+> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] o lista sob o caminho da luz,
+> provavelmente pelo nome. A obra o classifica com todas as letras como **Gu do caminho do
+> fogo**, e é sob o fogo que ele aparece aqui.
+
 ## Cura
 
 ### Accumulating Ash Gu (Gu do Acúmulo de Cinzas)
@@ -2531,6 +2569,110 @@ conceito em outra escala, não evolução por fusão.
 usá-lo antes de outros métodos de interrogatório queima a fonte. E, como todo ataque de
 alma, disputa contra a força da alma do alvo — quem refinou a própria alma com os Gu da
 seção seguinte resiste melhor.
+
+## Suporte
+
+Os três Gu abaixo aparecem numa mesma cena e formam, junto de outros três, a **receita
+completa de um golpe fatal** — coisa rara na obra, e a razão de eles merecerem fichas
+próprias. O golpe se chama **Alma Combinada dos Três Corações**, e a lista de componentes,
+com rank e função de cada um, é dada linha a linha pelo texto:
+
+| Gu | Rank | Função declarada |
+|---|---|---|
+| djinn heart Gu | 3 | fortalecer o espírito |
+| heart sound Gu | 2 | fortalecer a voz do coração |
+| harmony Gu | 2 | harmonizar coração e voz |
+| flying soul Gu | 3 | a alma pode deixar o corpo |
+| soul chain Gu | 3 | as almas podem ser interligadas |
+| soul combination Gu | 4 | três almas podem ser ligadas e fundidas numa só |
+
+O resultado: as almas de **três Mestres Gu** saem dos corpos e se fundem numa entidade
+completa no ar. A pressão resultante foi medida em **mil e quatrocentas almas de homem** —
+mais do que qualquer um dos três tinha sozinho — e se espalhou por um raio de **duzentos
+li**. Detalhe precioso de percepção: **só Mestres Gu com pelo menos quinhentas almas de
+homem sentiam a pressão**; abaixo disso, ninguém percebia nada. E enquanto as almas ficam
+fundidas, **os três agem em sincronia perfeita** — falam ao mesmo tempo, movem-se ao mesmo
+tempo.
+
+Ver [[08 - Killer Moves|Killer Moves]].
+
+### Djinn Heart Gu (Gu do Coração de Gênio) — ranks 3 e 4
+
+**O que faz.** **Fortalece o espírito** do usuário — a energia mental com que um Mestre Gu
+controla os próprios Gu. No rank 3 é isso, e é peça de um golpe combinado. No rank 4 ele
+aparece dentro de um trio — *djinn heart*, *djinn body* e *djinn mind Gu*, os três ativados
+ao mesmo tempo — que produz o golpe fatal chamado **Transformação em Gênio**: "corpo,
+coração e mente combinados; essência, qi e espírito fundidos". O corpo do usuário **incha
+para três vezes o tamanho**, envolto numa aura branca como a descida de uma divindade, e
+tanto a **força física quanto a energia mental triplicam**.
+
+**Como é.** — (o efeito de rank 4 é uma aura branca em torno de um corpo triplicado).
+
+**Dieta.** Dieta não informada; nessa faixa o intervalo vai de cerca de um mês a alguns
+meses (ded.).
+
+**Desvantagem.** No rank 4, **só rende com os três Gu do trio em conjunto**, o que exige um
+orçamento que quase ninguém tem. Como todo golpe combinado, tem contragolpe próprio — e a
+obra registra que aquele golpe fatal específico **tem uma falha** que um adversário atento
+pode explorar para vencer a luta.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra. A obra registra o mesmo nome nos ranks 3 e 4 com o mesmo
+efeito em escalas diferentes — é **faixa de rank**, não árvore.
+
+> [!warning] Divergência de rank com o catálogo plano
+> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o trio
+> "Djinn Heart / Body / Mind Gu" apenas como rank 4, que é o rank da cena do golpe fatal.
+> Mas o texto declara, noutra cena, **"rank três, djinn heart Gu, para fortalecer o
+> espírito"**. Os dois exemplares existem; a ficha aqui cobre a faixa inteira.
+
+**Interações.** Como todo Gu que fortalece a energia mental, ele **alarga o teto de
+multitarefa** do usuário — e a multitarefa é o recurso escasso do sistema inteiro, porque
+controlar vários Gu ao mesmo tempo divide a mente e fere a alma. Serve, portanto, tanto ao
+golpe de alma combinada quanto a qualquer conjunto que exija ativações simultâneas.
+
+### Flying Soul Gu (Gu da Alma Voadora)
+
+**O que faz.** **Permite que a alma deixe o corpo.** É a peça que tira o Mestre Gu de dentro
+de si — sem ela, os Gu de ligação de alma não têm o que ligar.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** — (a obra não informa duração, alcance nem o que acontece ao corpo deixado
+para trás; presumivelmente ele fica inerte e indefeso, ded.).
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É pré-requisito do golpe da alma combinada: primeiro as almas saem (flying
+soul), depois se interligam (soul chain), e só então se fundem (soul combination, rank 4). A
+ordem é a receita.
+
+### Soul Chain Gu (Gu da Corrente de Almas)
+
+**O que faz.** **Interliga almas** — permite que as almas de mais de um Mestre Gu se
+conectem umas às outras.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** — (a obra não informa quantas almas, a que distância, nem por quanto
+tempo).
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra. O passo seguinte da função existe e tem nome próprio —
+o *soul combination Gu* de rank 4, que **funde** três almas numa só —, mas a obra não afirma
+que um venha do outro.
+
+**Interações.** Ligar não é fundir: a obra separa as duas operações em dois Gu de ranks
+diferentes, e essa distinção é o miolo do golpe. Interligar almas também é o que permite a
+sincronia perfeita entre os participantes.
 
 ## Refino da alma
 
@@ -3973,6 +4115,42 @@ se você souber de qual material ela é feita.
 
 # Caminho do vento
 
+## Ataque
+
+### Tornado Gu (Gu do Tornado)
+
+**O que faz.** Acionado, **cria imediatamente um redemoinho que cobre o usuário e, em poucos
+segundos, cresce até virar um tornado**. Na cena documentada ele subiu como "um jovem dragão
+azul erguendo-se no ar", de um azul-escuro. Sozinho é vento; o valor dele está em **servir de
+recipiente para outros efeitos**.
+
+**Como é.** Um tornado azul-escuro em torno do usuário.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Custa uma linha de atenção mental enquanto estiver ativo.** A cena que o
+mostra é uma cena de multitarefa: a usuária controlava **quatro Gu ao mesmo tempo** — ice
+edge, ice crystal, swirl e tornado — e depois **cinco**, ao acrescentar o frost breath. A
+obra apresenta isso como talento excepcional de um físico extremo, e não como coisa que um
+Mestre Gu comum consiga fazer.
+
+**Como se obtém.** Arrematado em **leilão**, depois de três lances. Um exemplar menor da
+mesma família, o *small tornado Gu*, era o **Gu-núcleo** de um ancião de clã — o que dá a
+medida do valor da linha.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça central de um golpe fatal completo, e a montagem merece ser lida
+como receita: o **Swirl Gu** (um Gu de movimento que aumenta a velocidade de giro do
+usuário) põe o corpo a rodar; o **Tornado Gu** converte esse giro num tornado; o **Ice Edge
+Gu** enche o tornado de lâminas; e o **Frost Breath Gu**, soprado continuamente de dentro,
+transforma o tornado em tornado gélido. O resultado é o **iceblade storm**, que ataca e
+defende ao mesmo tempo — duas serpentes de fogo de rank 4 investiram contra ele e saíram com
+cabeça e a maior parte do corpo decepadas. Repare no encadeamento de dependências: o frost
+breath só pôde ser soprado **sem intervalos** porque a usuária estava transformada pelo Ice
+Crystal Gu; com o corpo mortal, ela teria de soprar em intervalos para não congelar a
+própria boca e a própria língua.
+
 ## Controle
 
 ### Wind Snare Gu (Gu do Laço de Vento)
@@ -4423,6 +4601,8 @@ ar**.
 Gu de rank 3 que a obra descreve razoavelmente bem mas não filia a nenhuma das seções
 acima.
 
+## Utilidade
+
 ### Treasure Light Gu (Gu da Luz do Tesouro) — ranks 1 a 3 e acima
 
 **O que faz.** **Avalia o valor de um item**: quanto maior o valor, **mais brilhante a luz**
@@ -4449,6 +4629,8 @@ Gu apostados por cada lutador e, com isso, **estima a força dele antes da luta*
 que torna transparente um mercado inteiro — e, para a mesa, a resposta ao problema de "como
 alguém sabe quanto vale isto?". Ver [[13 - Qualidade e Fraude|Qualidade e Fraude]] e
 [[06 - Mercados e Leilões|Mercados e Leilões]].
+
+## Ataque
 
 ### Frenzy Needle Bee Gu (Gu da Abelha de Agulha Frenética)
 
@@ -4493,3 +4675,547 @@ manga de um Mestre Gu de caravana comercial.
 
 **Interações.** — (a obra cala; a leitura segura é que ele é a peça de emergência de quem
 não tem poder de fogo, ded.).
+
+---
+
+# Os Gu de rank 3 que a obra só nomeia
+
+**Esta lista é informação, não lacuna.** Ela existe porque a diferença entre "a obra diz
+outra coisa" e "a obra não diz nada" é a diferença entre contradizer o cânone e preencher
+um espaço vazio. Todo Gu abaixo está **declarado como de rank 3 pela obra**, e sobre todos
+eles a obra **cala** no ponto que mais interessa a uma mesa: o efeito. Invente à vontade
+aqui — nenhuma invenção sua vai bater de frente com uma frase do texto, porque não há frase.
+
+Cada linha diz **o que a obra dá** e **o que falta**, para você saber exatamente onde
+começa o seu trabalho.
+
+| Gu | O que a obra dá | O que falta |
+|---|---|---|
+| **Three Stars in the Sky Gu** | O nome, o rank e a posição numa escada de "estrelas" que vai do rank 2 (*Brilliance of Two Stars*) ao rank 4 (*Four Stars Cube*). | **Tudo o mais.** Nenhum efeito, nenhuma cena de uso, nenhuma receita, nenhuma dieta. |
+| **Flying Sword Letter Gu** | O nome, o rank e a categoria (Gu de carta, do mesmo patamar do grou de papel relâmpago). | Velocidade, alcance e qualquer particularidade que o distinga do grou. |
+| **Vagrant Warrior Gu** | O nome, o rank e que ele **produz um guerreiro errante** com golpes e métodos de cultivo próprios; que é o par barato do *Hero Gu*. | O que o guerreiro faz: força, armas, limites, quantos, por quanto tempo. |
+| **Sky Granary Gu** | O nome, o rank, que é de **armazenamento**, que é exclusivo do Mar Oriental e que é o material-base do Blue Sky Gu de rank 4. | Capacidade, aparência, alcance, custo — a obra o cita apenas como degrau de uma fusão. |
+| **Muted Mouth Gu** | O nome, o rank, o caminho (som) e o papel dele como **material** da receita do Keep Silent Gu de rank 5. | O efeito. Que ele silencie alguma coisa é dedução a partir do nome. |
+| **Detonation Gu** | O nome, o rank, que é **raro**, e um resultado — destruiu um zumbi de cabelos verdes. | O mecanismo: como detona, o quê, a que distância, quantas vezes. |
+| **Hairy Zombie Gu** (= *Fur Zombie Gu*) | O nome, o rank, a posição exata na escada dos zumbis e a **função da escada inteira** (prolongar a vida de quem não tem dinheiro para um Gu de longevidade). | **O efeito específico deste degrau.** A obra descreve a série e não descreve o degrau. |
+| **Golden Back Wolf Skin Gu** | O nome, o rank, que é defensivo de pele, e que avança para o Azure Wolf Skin Gu de rank 4 — com o dado precioso de que o refino registrado **só deu certo na terceira tentativa**. | O efeito no rank 3: quanto protege, por quanto tempo, a que custo. |
+| **Earth Wall Gu** | O nome, o rank, e a função de **padrão de comparação**: muitos *earth mound Gu* de rank 2 ativados juntos formam "uma barreira como a de um earth wall Gu de rank três". | Altura, espessura, duração, custo — tudo o que faria dele um item e não uma régua. |
+| **Burning Firefly Gu** | O nome, a faixa (ranks 3 a 5), o caminho (fogo), o bioma de origem e o efeito **ambiental**: acumulados, criam um ambiente de caminho do fogo. | **O efeito de combate.** A obra diz que é "de qualidade bastante alta" e não diz o que ele faz na mão de alguém. |
+| **Golden Silkworm Gu** | O nome, o rank, que tem "aguda força de ataque", a receita pelo material insubstituível (grama Jinzan, quatro anos de crescimento) e o **efeito estratégico** — armou um clã inteiro e mudou o equilíbrio militar de uma montanha. | **A mecânica do ataque.** Sabe-se o que ele fez a uma guerra e não o que ele faz a uma pessoa. |
+| **Thunder Roar Gu** | O nome, a faixa (ranks 2 a 3, ded.), o hospedeiro selvagem e a **natureza do dano**: mata por vibração sonora, em contraste declarado com o Soundwave Gu, que empurra. | Alcance, dano, e se existe defesa possível. |
+| **Muffled Thunder Potato Gu** | O nome, o rank, a família (minas enterradas), o uso em massa e o degrau seguinte (*Thunderclap Potato Gu*, rank 4). | A força da explosão, o raio, o gatilho, a receita. |
+| **Human Medicine Gu** | O nome, o rank, o efeito (**aumenta o tempo de vida**, uso único) e o processo de produção em detalhe cruel — uma criança humana como material principal, cultivada por anos. | **As "enormes desvantagens"**, que a obra menciona e não descreve. Quantos anos ele dá também não é dito. |
+| **A família dos Gu de refino de alma** — *Divine Soul, Dream Soul, Moon Soul, General Soul, Grudge Soul, Poem Soul, Ice Soul, Horse Soul, Heroic Soul, Qi Spirit, Body Spirit, Cloud Spirit, Wind Spirit, Tiger Spirit* | Os catorze nomes, o rank 3, o preço de referência (7.700 pedras), o **mecanismo da classe** (consomem-se para condensar a alma e imprimir nela um tema que reforça os Gu daquele tema) e a regra de que **não existe Gu de rank 4 para refinar alma** — a escada é de quantidade. | **O efeito individual de cada um.** A obra os arrola numa lista e diz apenas que "todos tinham seu uso próprio". Quatorze espaços em branco autorizados, com tema já dado pelo nome. E ela não explica por que quatro deles se chamam *spirit* e os outros *soul*. |
+
+> [!note] Para o design
+> Repare no padrão: a obra quase sempre entrega **o lugar do Gu no sistema** — rank,
+> caminho, família, preço, quem o vende, o que ele vira depois — e cala sobre **o número**.
+> Isso é ótimo notícia para quem desenha, porque o encaixe é a parte difícil de inventar e
+> o número é a parte fácil. Um Gu desta lista já vem com economia, geografia e concorrentes
+> definidos; falta só decidir quanto ele faz.
+
+---
+
+# Séries e faixas de rank que passam pelo rank 3
+
+Estes não ganharam ficha própria acima porque **o rank 3 é apenas um degrau de intensidade
+dentro deles**, e não um Gu de natureza diferente. A obra tem um termo para essa figura —
+*series Gu* — e a usa, em toda a extensão do texto, para exatamente **três** famílias: o
+**Relic Gu**, o **bone flesh unity Gu** e o **bronze skin Gu**. Nas demais, o que muda entre
+os ranks é a **magnitude** (a fumaça é mais espessa, o raio é maior, os bonecos são mais
+armados), não a natureza do efeito.
+
+Daí a regra que este catálogo seguiu, e que vale a pena enunciar porque decide quando
+partir uma família em duas fichas:
+
+> **Duas fichas quando o efeito muda de natureza** — temporário vira permanente, acionável
+> vira consumido. **Uma ficha com faixa de rank declarada quando só muda a magnitude.**
+
+O único caso do rank 3 que exigiu ficha separada é o **bronze skin Gu**, e a obra é
+explícita sobre por quê: o de rank 2 dá defesa por um período limitado, e o de rank 3
+**consome o próprio corpo do usuário** e a concede permanentemente. Mecânica de outro
+gênero, mesmo nome.
+
+| Série | Faixa | O que o degrau de rank 3 tem de diferente |
+|---|---|---|
+| Single Aperture Charcoal → Five Orifices Fire Pagoda | 1–5 | O rank 3 é o **Three Orifices Fire Hut Gu**. É a única linhagem da obra com os cinco degraus nomeados, os cinco ranks dados e a regra de que **cada degrau é o material principal do seguinte** — e um refinador de patamar alto consegue **cortar etapas** e refinar o rank 5 direto dos materiais brutos. |
+| Grass Puppet Gu | 1–4 | Tem ficha própria acima: é no rank 3 que os bonecos ganham **lâmina de bambu e escudo** e passam a matar um Mestre Gu de rank 1. |
+| Ghost Fire → Ghost Flame → Ghost Blaze | 2–4 | Tem ficha própria acima (Ghost Flame Gu): duas a três bolas de fogo-fantasma por disparo. |
+| Lurking Soul Coat Gu | 1–5 | — (a obra declara a faixa e não descreve a diferença entre degraus). |
+| Dog Guts Gu | 1–5 | Tem ficha própria acima: no rank 3 é o **Dog Guts Above Mountain Gu**, que anula o medo diante de um rei de mil feras. |
+| Wolf Enslavement Gu | 1–5 | Tem ficha própria acima: fumaça "muito mais espessa" que a de rank 2. Cada rank tem receitas próprias, e há mais de uma por rank. |
+| Slavery Gu | 1–5 (e 6 imortal) | **O rank do Gu define o rank máximo do alvo que ele consegue prender** — um de rank 3 prende até um rank 3. |
+| Heart Engraved Gu | 1–5 | Um coração branco a mais na carapaça por rank; no rank 3, três corações. |
+| Malicious Thought Gu | 1–5 | — |
+| Memory Thought Gu | 1–5 | — |
+| Star Thought Gu | 1–5 (e 6 imortal) | — |
+| Contact Heart Gu | 1–5 | — |
+| Inch of Time | 1–5 | — |
+| Zither Gu | 1–5 | — |
+| Gruel Mud Gu | 1–5 (e 6 imortal) | O mortal é banal e nasce sozinho; o imortal vira o efeito do avesso e apodrece montanhas por dentro. |
+| Second Aperture Gu | 1–6 | Caso deliberado e único: era **originalmente um Gu Imortal**, e um cultivador **o modificou para virar uma série de rank 1 a 6**. O de rank 3 dá ao portador cultivo de rank 3 na segunda abertura. Prova canônica de que um Gu Imortal pode ser **rebaixado por projeto** numa escada mortal — e a receita consome, entre outros, um jade bone Gu e um ice muscle Gu. |
+| Luck Inspection Gu | 1–5 | — |
+| Pill Refiner Gu | 1–5 | — |
+| Police Gate Gu | 1–6 | — |
+| Multiple Pregnancy Gu | 1–5 | — |
+| Beast Enslavement Gu (família) | 1–5 | Tem ficha própria acima. Quase todos **consumíveis**; o preço dispara ao chegar ao rank 4, porque ali já se controla um rei-de-miríade-de-bestas. |
+| Fuel Oil Gu | 3–4 | Tem ficha própria acima. |
+| Battle Thought Gu | 3–4 | Tem ficha própria acima. |
+| Territory Gu | 3–4 (e 7 imortal) | Tem ficha própria acima. O que muda entre os ranks é só o **raio**. |
+| Letter Gu | 3–5 | Tem ficha própria acima (junto do grou de papel). As versões altas **rasgam o espaço**. |
+| Wolf Soul Gu | 3–5 | Tem ficha na família de refino de alma acima. |
+| Burning Firefly Gu | 3–5 | Tem ficha própria acima. |
+| Treasure Light Gu | 1–5 (e 8 imortal) | Tem ficha própria acima. Ranks 1 a 3 estão "por toda parte"; 4 e 5 ficam com grandes forças. |
+| Fish / Tiger / Deer / Bull Enslavement Gu | 1–3 e 2–3 | Têm ficha na família de escravização acima. |
+| Thunder Roar Gu · Soundwave Gu · Wind Snare Gu · Illusionary Moon Gu | 2–3 | Têm ficha própria acima. |
+
+---
+
+# Tabela-resumo — uma linha por Gu
+
+Para consulta rápida na mesa. A coluna **Evolução** traz o Gu de rank 4 correspondente
+quando a obra o nomeia, e diz **"não citada"** quando ela cala — que é o caso da maioria.
+Onde a coluna diz "série", o Gu não evolui: ele coexiste com os irmãos de outros ranks.
+
+## Caminho da força
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| All-out Effort Gu | Suporte | Invoca um fantasma de fera com cem por cento de sucesso, sob comando, ligando e desligando à vontade; um por vez, e nenhum acima do próprio rank. | Ele mesmo, no rank 4 (nome não muda) |
+| Strength Qi Gu | Suporte | Solidifica os fantasmas de fera para atacarem sozinhos à distância, a cinco por cento da reserva por fantasma. | Não citada (converte-se com o atmosphere Gu de rank 4 nos dois sentidos) |
+| Store Strength Gu | Suporte | Acumula força e a libera golpe a golpe, mas exige imobilidade total durante a carga. | **Habitual Strength Gu (r4)**, sem a imobilidade |
+| Jun Strength Gu | Suporte | Soma permanentemente um jun (trinta jin) de força; empilhável até o teto do corpo; 4.550 pedras. | Série (não evolui) |
+| Galloping Horse Strength Gu | Suporte | Enraíza um fantasma de cavalo em dois a três meses de dor; +30% de velocidade em investida. | Não citada |
+| Green Bull Labor Gu | Suporte | Enraíza um fantasma de touro; mesma instalação lenta e dolorosa. | Não citada |
+| Black Python Coiling Strength Gu | Suporte | Enraíza um fantasma de píton que **enrosca e prende** ataques em vez de bater. | Não citada |
+| Self-reliance Gu | Cura | Cura o próprio usuário em proporção à força física dele; 45.000 pedras. | Não citada |
+| Chainsaw Golden Centipede | Ataque | Centopeia de um metro com serras giratórias; enrola-se no alvo e drena a essência de quem se defende. | **Chainsaw Killer Centipede (r4)** ou **Flying Vajra Centipede (r3–5)** |
+
+## Reforço corporal e defesa
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Bronze Skin Gu (r3) | Defesa permanente | Consome o próprio corpo e dá pele de bronze **para sempre**, uso único — ao contrário do de rank 2, que é temporário. | **Ancient Bronze Skin Gu (r4)** |
+| Iron Bone Gu | Defesa permanente | Derrete-se em ferro líquido sobre o esqueleto; **levanta o teto de força que o corpo suporta**; desmaiar durante o processo perde tudo. | **Essence Iron Bone Gu (r4)** — e é do r4 que se obtém o r3 por refino reverso |
+| Jade Bone Gu | Defesa permanente | Ossos duros **e flexíveis**; mesmo aumento de teto; muitos morreram da dor. | Não citada (é material do Second Aperture Gu) |
+| Ice Muscles Gu | Defesa permanente | Carne convertida em gelo: defesa suprema, estanca sangramento, corta a transpiração, imuniza ao próprio frio. | Não citada (é material do Second Aperture Gu) |
+| Steel Tendon Gu | Defesa permanente | Meio ano de ativações converte os tendões em aço e **eleva o teto de fantasmas de fera**. | **Golden Steel Tendon Gu** (rank 4, ded.) |
+| Golden Back Wolf Skin Gu | Defesa permanente | Pelagem de lobo que reforça o corpo; efeito de rank 3 não descrito. | **Azure Wolf Skin Gu (r4)** — refino que só deu certo na terceira tentativa |
+| Steel Mane Gu | Defesa permanente | Cabelo duro como aço: **ataque e defesa na mesma peça**. | Não citada no r4; a linha reaparece no *indestructible steel mane Gu* (r5) |
+| Heavenly Mugwort Gu | Defesa permanente | Corpo duro como jade branco **mais mitigação declarada contra moonblade**. | Não citada |
+| Sky Canopy Gu | Defesa ativa | Armadura de luz de corpo inteiro; ótima contra dano difuso, **não amortece impacto** e cede a perfuração. | Não citada |
+| Canopy Gu | Defesa ativa | Armadura de luz que repele líquidos e enfraquece a cada impacto forte. | Não citada |
+| Golden Shield Gu | Defesa ativa | Armadura de luz dourada; a única peça de luz que a obra diz **combinar bem com o caminho da força**. | **Golden Bell Shield Gu (r4)** |
+| Steel Shirt Gu | Defesa ativa | Corpo brilhando em luz negra atravessa uma tempestade de lâminas — mas uma estocada precisa passa. | Não citada |
+| Thunder Shield Gu | Defesa ativa | Escudo semicircular de raio azul; durou menos de um segundo contra um raio de rank 4. | Não citada |
+| Flying Bone Shield Gu | Defesa ativa | Três escudos de osso circulam sozinhos e **bloqueiam sem gastar a ação** do usuário. | Não citada |
+| Ribcage Shield Gu | Defesa ativa | Duas fileiras extras de costelas, permanentes e sem custo; cobrem só a frente. | Não citada |
+| Bone Spike Gu | Ataque | Espinhos ósseos ferem quem encosta — e ferem o dono na proporção de oitocentos para mil. | Não citada (há versão imortal r6) |
+| Arm Bone Wings Gu | Movimento | Asas de osso nos antebraços que aumentam sobretudo a **velocidade de ataque**. | Não citada |
+
+## Caminho da luz
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Broadsword Light Gu | Ataque | Dois espadões de luz nas mãos; um dos dois ataques mais fortes de todo o rank 3. | Não citada |
+| Sword Shadow Gu | Ataque | Lâmina de sombra; o outro dos dois mais fortes do rank; avaliado em 32.000 pedras. | Não citada (a ligação com o *Multiple Sword Shadow Gu* é dedução, não texto) |
+| Rainbow Light Gu | Movimento | Vira um facho de luz e cruza cinquenta metros num piscar — o deslocamento mais rápido do rank. | Não citada |
+| Therapy Light Gu | Cura | Luz que reflete de um alvo para os aliados próximos; fecha ferimentos leves, metade dos graves. | Não citada |
+| Light Fences Gu | Utilidade | Cercas de luz que **se conectam entre si**: treze delas prenderam um efeito muito acima do rank. | Não citada |
+
+## Caminhos do gelo e da água
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Ice Edge Gu | Ataque | Lâmina de gelo **regenerativa** que se refaz ao toque da mão; base do golpe da tempestade de lâminas. | Não citada (é o r3 que sai do Iceblade Gu de r2) |
+| Snowball Gu | Ataque | Torrente de bolas de neve; cinco ou seis disparos já esvaziam a reserva. | Não citada |
+| Ice Explosion Gu | Ataque | Detona gelo já existente; potência sem teto fixo, mas **não cria gelo nenhum**. | Não citada |
+| Frost Breath Gu | Ataque | Sopro gélido que queima de frio e **deixa o alvo lento**, por apenas cinco por cento da reserva. | Não citada |
+| Blue Bird Ice Coffin Gu | Ataque | Pássaro de gelo **teleguiado** que sela o alvo num bloco de gelo; esvazia a abertura num uso. | Não citada |
+| Spiral Water Arrow Gu | Ataque | Flecha d'água perfurante disparada do dedo; matou três lobos numa salva. | Não citada |
+| Three Claw Water Dragon Gu | Ataque | Dragão d'água que varre a área e **enriquece o ar de vapor**; o maior sorvedouro de essência do conjunto. | Não citada |
+| Ice Crystal Gu | Defesa/transformação | Corpo inteiro em cristal de gelo: ataque e defesa fundidos; 28.000 pedras e fácil de repor. | Não citada |
+| Frost Demon Gu | Defesa/transformação | Vira demônio da geada; o ataque de gelo mais forte do rank, e o excesso congela as próprias articulações. | Não citada |
+| Snow Fairy Gu | Defesa/transformação | Vira fada da neve; a aparência resultante **revela o gênero real** de quem a usa. | Não citada |
+| Water Prison Gu | Controle | Bola d'água que prende sem matar e **absorve força bruta** sem romper. | Não citada |
+| Fog Sparrow Gu | Percepção | Pardais de névoa com alcance enorme; falham em névoa densa, que é onde fariam falta. | Não citada |
+| Water Trace Gu | Movimento | Velocidade quase de rank 4; deixa **pegadas molhadas** fáceis de rastrear. | **Wave Trace Gu (r4)**, e daí a duas rotas de r5 |
+| Spring Rain Gu | Cura | Chuva que cura todo mundo na área; desperdício grosseiro em grupo pequeno. | Não citada |
+
+## Caminho do fogo
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Fire Pellet Gu | Ataque | Pelotas de fogo do dedo que também **reanimam** construções de fogo aliadas. | Não citada (é material do ghost fire Gu de r2) |
+| Fiery Claw Gu | Ataque | Garra de chama de três dedos, dirigível, com alcance de poucos metros. | Não citada |
+| Lava Explosion Gu | Ataque | Bola de lava cuspida pela boca que abre cratera e estilhaça rocha. | Não citada |
+| Flame Stomach Gu | Defesa | Blindagem térmica que protege **quem usa fogo do próprio fogo**; quebra em corpo a corpo. | Não citada |
+| Self-ignition Gu | Defesa | Chamas permanentes no portador **queimam o que se aproxima antes de pousar** — anula fumaça e pó. | Não citada |
+| Flame Heart Gu | Suporte | Vulcão em miniatura alojado no coração que **fortalece todos os Gu de fogo** do dono. | Não citada |
+| Fuel Oil Gu | Suporte | Cascata de óleo que submerge o campo e resiste ao congelamento; sozinho não fere. | Série (ranks 3–4) |
+| Burning Firefly Gu | Suporte | Acumulados, **criam um ambiente de caminho do fogo** onde se criam outros Gu de fogo. | Série (ranks 3–5) |
+| Accumulating Ash Gu | Cura | Regeneração contínua em combate, alimentada por **cinzas** — o combate produz a própria comida. | Não citada |
+| Fire Eye Gu | Percepção | Olhos de fogo enxergam através de névoa; **quando falha, o usuário fica cego**. | **Fire Pupil Gu (r4)**, com o sight blow Gu e materiais |
+
+## Caminho da madeira e das plantas
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Wood Charm Gu | Suporte | Vira espírito de árvore e **absorve essência do ar sem dividir a atenção**; o corpo vira madeira aos poucos. | **Hundred-years Wood Charm Gu (r4)**, com um Lifespan Gu de cem anos |
+| Grass Puppet Gu | Ataque | No rank 3, bonecos de grama com lâmina de bambu e escudo, capazes de matar um rank 1. | Série (ranks 1–4) |
+| Iron Thorn Thistle Gu | Defesa | Veste de vinhas e espinhos de aço que **fere passivamente** quem ataca de mãos nuas. | Não citada |
+| Three Star Cave | Utilidade | Semente que vira **casa de três andares** de dezoito metros, com mobília sob demanda e galhos que atacam invasores. | Não citada |
+| Charred Thunder Potato Mother Gu | Utilidade | **Fábrica portátil de minas**: converte essência em campo minado em poucas respirações. | Não citada |
+| Muffled Thunder Potato Gu | Utilidade | A mina de rank 3 da mesma família, usada em massa e em camadas de rank. | **Thunderclap Potato Gu (r4)** |
+| Cactus Pointer | Utilidade | Floresce um papel com uma palavra-pista; **reorganiza o que o dono já sabe** e morre no uso. | Não citada |
+
+## Caminho do sangue
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Bladewing Blood Bat Gu | Ataque | Bando de centenas de morcegos com asas cortantes; **domina-se a colônia inteira pelo macho**. | Não citada |
+
+## Caminho do veneno
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Poison Scorpion Gu | Utilidade | **Só sabe defecar** — e as fezes são um Gu de rank 2 cujo veneno exige desintoxicação a cada sete dias **por aquele exemplar**. A coleira de escravo padrão do mundo. | Não citada |
+| Tiger Poison Gu | Ataque | Veneno que dissolve a vítima e depois **reabsorve o veneno para crescer**; inútil contra alvos infantis. | Não citada |
+| Big Strength Defecate Gu | Cura | Diarreia terapêutica três vezes mais forte que a versão de rank 2 — e **menos popular que ela**, porque come muito mais. | Não citada |
+
+## Caminho da alma
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Sight Blow Gu | Ataque | Golpe de alma pelo olhar até **trezentos passos**; dano pequeno, mas serve de "contato" para o Location Swap Gu de rank 4. | Não citada (é componente do Fire Pupil Gu de r4) |
+| Ghost Cry Gu | Ataque | Lamento que faz a alma tremer; em coro, derruba formações inteiras. Só se obtém capturando-o dentro de girassóis-cara-de-fantasma. | Não citada |
+| Ghost Flame Gu | Ataque | Duas a três bolas de fogo-fantasma azul e gélido, que **queimam a alma e não o corpo**. | **Ghost Blaze Gu (r4)** |
+| Soul Search Gu | Utilidade | Lê memórias desordenadas ferindo a alma do alvo — e embaralha a do interrogador com o uso. | Não citada (há versão imortal r7) |
+| Djinn Heart Gu | Suporte | **Fortalece o espírito**, e portanto o teto de multitarefa; no rank 4 integra o trio da Transformação em Gênio. | Série (ranks 3–4) |
+| Flying Soul Gu | Suporte | **A alma pode deixar o corpo** — o primeiro passo do golpe da alma combinada. | Não citada |
+| Soul Chain Gu | Suporte | **Interliga almas**; o passo seguinte, fundi-las, é outro Gu (rank 4). | Não citada |
+| A família de refino de alma (14 nomes) | Refino | Consomem-se para condensar a alma e imprimir nela um tema que **reforça todos os Gu daquele tema**; 7.700 pedras cada. | **Não existe rank 4** — a escada é de quantidade |
+
+## Caminho da escravização
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Beast Enslavement Gu (Tiger/Deer/Bull/Fish) | Suporte | Implantado na fera, comanda-a só pela vontade — e **custa mais manipulação quanto mais a ordem contraria o instinto** do bicho. | Série; o preço dispara no rank 4 |
+| Wolf Enslavement Gu | Suporte | Fumaça azul a duzentos passos que toma o lobo e traz a matilha junto; some após o uso. | Série (ranks 1–5, receitas próprias por rank) |
+| Dog Guts Above Mountain Gu | Suporte | Faz cães resistirem ao medo diante de um **rei de mil feras**. | **Dog Guts Above Sea Gu (r4)** |
+
+## Caminho da sabedoria
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Flash of Inspiration Gu | Suporte | Clarão que **fecha a receita** que estava a um passo do fim, e acelera a reação; 29.000 pedras e selo de autorização. | Não citada |
+| Careful Gu | Suporte | Resolve as **etapas críticas** de um refino — e o refino dele próprio é longo e cheio de passos. | Não citada |
+| Battle Thought Gu | Suporte | Ativado pelos comandantes sobre a tropa: torna soldados destemidos e **blinda-os contra ataque de pensamento**. | Série (ranks 3–4) |
+
+## Caminho do tempo
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Day Gu | Utilidade | Concha que guarda **três dias de tempo**, gastáveis para acelerar um refino ou somar à própria vida. | Não citada (há Month Gu e Year Gu na mesma família, e versão imortal r6) |
+
+## Caminhos do espaço e do movimento
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Vertical Crash Gu | Movimento | Investida reta de cinquenta passos que arremessa o alvo vinte; recarga de cinco respirações. | **Charging Crash Gu (r4)**, fundido com o Horizontal Charge |
+| Horizontal Charge Gu | Movimento | Investida lateral de cinquenta passos, com recarga **defasada** da do irmão — juntos, sempre há uma pronta. | **Charging Crash Gu (r4)** |
+| Blitz Gu | Movimento | Arranco explosivo que tira o usuário da fila e alcança quem já ia à frente. | Não citada |
+| Position Swap Gu | Movimento | Troca de lugar com qualquer alvo; o custo **cresce com a força do alvo**, e **falha num corpo com marcas de força**. | Não citada |
+| Thunderwings Gu | Movimento | Asas de trovão para voo veloz e curto, com consumo mais rápido que a velocidade. | Não citada |
+| Eagle Wings Gu | Movimento | Voo manobrável — e **mais manobrável que o de rank 4**, que ganha só em velocidade e distância. | **Eagle Rise Gu (r4)**, com duas falhas antes do sucesso |
+| Blue Farm Slug Gu | Logística | Lesma maior que um elefante que engole a carga e incha até cinco vezes; morre de frio. | Não citada |
+
+## Caminho da informação e da investigação
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Lightning Eye Gu | Percepção | Enxerga através de **qualquer furtividade** — mas só a cinquenta passos, e trinta sob fumaça. | Não citada |
+| Photo-audio Gu | Percepção | Grava imagem e som e projeta em loop; **come luz e som do ambiente** e dura séculos. | Não citada (é o r3 que sai do Digital Shade Gu de r2) |
+| Lightning Symbol Paper Crane Gu | Comunicação | Grou que entrega na velocidade do relâmpago e **volta sozinho** quando a passagem se fecha. | Série dos Letter Gu (r3–5) |
+| Flying Sword Letter Gu | Comunicação | Gu de carta em forma de espada; a obra dá o nome e o rank e nada mais. | Não citada |
+
+## Furtividade e disfarce
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Breath Concealment Gu | Utilidade | Folha na orelha que apaga a aura e o cultivo — **esconde o estado, não a ação**, e cai ao invocar um fantasma de fera. | Não citada |
+| Aura Restraint Gu | Utilidade | Disfarça um **rei de mil feras** como bicho comum do bando. | Não citada |
+| Blue Face Gu | Utilidade | Muda o rosto de um homem; não muda a aura nem o cultivo. | Não citada |
+
+## Caminhos do som e do raio
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Thunderclap Gu | Ataque | Bola de trovão do tamanho de uma mó que explode em área a longa distância. | Não citada |
+| Thunder Roar Gu | Ataque | Onda sonora que **mata por vibração** e ignora armadura e evasão. | Série (ranks 2–3) |
+| Soundwave Gu | Ataque | Onda sonora que **empurra** em todas as direções; o dano vem do impacto contra o cenário. | Série (ranks 2–3) |
+| Yin Cloud Gu + Yang Cloud Gu | Controle | Nuvem branca no teto, negra no chão, gaiola de raios no meio; carrega a **lei da destruição** e é o método barato de **apagar fantasmas de fera**. | Não citada |
+| Muted Mouth Gu | Controle | Efeito não descrito; vale como **material** para refinar o Keep Silent Gu de rank 5, por refino reverso. | Não citada |
+
+## Caminho da terra
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Earth Wall Gu | Defesa | Muro de pedra instantâneo; serve de **régua** do rank para fortificação. | Não citada |
+| Territory Gu | Utilidade | Plantado fundo no solo, estabelece **domínio sobre o território** até o limite do rank; item de facção, nunca de indivíduo. | Série (ranks 3–4 mortais, 7 imortal) |
+
+## Caminho da transformação
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Hairy Zombie Gu | Utilidade | Terceiro degrau da escada dos zumbis: o usuário **vira** um zumbi para prolongar a vida sem pagar por longevidade. | **Hopping Zombie Gu (r4)** |
+| Zombie Heart Gu | Utilidade | Coração de bronze com sete buracos que **produz sem parar** Running Corpse Gu de rank 2; come zumbis. | Não citada |
+
+## Caminho do refino e do avanço de cultivo
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Seven Fragrances Liquor Worm | Refino | Purifica a essência de prata branca um estágio acima; receita fechada (dois Four Flavors + sete especiarias). | **Nine Eyes Liquor Worm (r4)**, com nove olhos de nove reis-de-cem-bestas |
+| Relic Gu — prata branca | Refino | Uso único: **eleva o cultivo em um estágio menor**, só num praticante de rank 3; 50.000 pedras. | Série natural; **não se refina nem se fabrica** |
+| Bone Flesh Unity Gu | Refino | Par de Gu que permite **cultivar em dupla** e transferir essência com segurança; a qualidade depende do afeto entre os dois refinadores, em cinco faixas. | Não citada |
+| Stone Aperture Gu | Refino | Petrifica a abertura: leva ao auge do rank **na hora**, e fecha o avanço de rank e a regeneração de essência **para sempre**. | Não citada (reversível só pelo Blood Skull Gu de r4) |
+| Man-beast Life Burial Gu | Refino | Engolido, leva do rank 2 ao rank 3 num ato; corrói **dois por cento da aptidão** e o refino é um assassinato ritual. | Não citada |
+| Human Medicine Gu | Refino | Uso único que **aumenta o tempo de vida**; refinado a partir de uma criança humana ao longo de anos. | Não citada |
+
+## Caminho das estrelas
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Starlight Firefly Gu | Suporte | A única fonte portátil de **luz estelar verdadeira**; quinhentos sustentam um portão estelar por pouco tempo, e **não se reproduzem**. | Não citada |
+| Star Shoot Gu | Suporte | **Munição** de golpes estelares, gasta aos quinhentos por acionamento; adulterado de propósito para impedir engenharia reversa. | Não citada (há versão imortal) |
+| Three Stars in the Sky Gu | Suporte | Nome e rank; a obra não descreve o efeito. | Não citada |
+
+## Caminho do homem
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Vagrant Warrior Gu | Suporte | Produz um guerreiro errante com golpes próprios; a obra não diz o que ele faz. | Não citada |
+
+## Caminho do metal
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Hand Blade Gu | Ataque | Bordas das palmas viram lâminas; **Gu-núcleo** de um conjunto corpo a corpo, e pode ser tomado pelo vencedor de um duelo. | Não citada |
+| Iron Hand Gu | Ataque | Mãos de ferro; sozinho só endurece — **serve de base** ao hand blade, e a ordem de ativação importa. | Não citada |
+| Golden Silkworm Gu | Ataque | Ataque agudo barato o bastante para **armar um clã inteiro**; depende de uma grama de quatro anos de crescimento. | Não citada |
+| Gold Eating Flying Ant Gu | Ataque | Enxame que **devora metal** e desfaz contenções metálicas; vendido em lotes de mais de cem. | Não citada |
+
+## Caminho do vento
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Tornado Gu | Ataque | Redemoinho que cresce em tornado em segundos; é o **recipiente** do golpe da tempestade de lâminas de gelo. | Não citada |
+| Wind Snare Gu | Controle | Brisa verde que enrola os membros do alvo; **abre uma janela** para o grupo atacar, e não decide nada sozinha. | Série (ranks 2–3) |
+
+## Contratos e juramentos
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Poison Vow Gu | Utilidade | Contrato executável: violar o juramento é virar uma poça de sangue. Vincula **pela letra**, e é anulável pelo *eating one's words Gu* sem a outra parte saber. | Não citada |
+
+## Armazenamento e logística
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Primeval Elder Gu | Utilidade | Cofre de até **um milhão de pedras** com a cara do ancião de medidor; 6.600 pedras. | Não citada |
+| Tusita Flower | Utilidade | Tatuagem na língua que, cuspida, **atrai sozinha os objetos ao redor**; guarda trinta mil pedras, metade utilizável com outros bens. | Não citada |
+| Airsac Gu | Utilidade | Guarda **outro Gu** no estômago translúcido; foi inventado para exportar um Gu que se dissipava fora da montanha natal. | Não citada |
+| Large Lizard House Gu | Utilidade | Residência ambulante de dois andares; a casa de quem comanda uma tribo em marcha. | Não citada (é o r3 que sai do Lizard House Gu de r2) |
+| Gold Cup Gu e Silver Cup Gu | Utilidade | Recipientes de fluidos, refináveis às centenas; valem sobretudo como **insumo industrial**. | **Gold and Silver Cup Gu (r4)**, e daí ao **Moving Perspective Cup Gu (r5)** |
+| Sky Granary Gu | Utilidade | Armazenamento exclusivo do Mar Oriental; a obra só o cita como degrau. | **Blue Sky Gu (r4)**, fusão de taxa de sucesso baixa |
+
+## Cura e vida
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Flesh-bone Gu | Cura | Reconstrói carne quase instantaneamente e é reutilizável — a **vinte por cento da reserva por uso**. | Não citada |
+| Endless Vitality Gu | Cura | Cura contínua quase de graça; **o melhor Gu de cura para quem tem aptidão baixa**. | Não citada |
+
+## Linhagem lunar
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Golden Moon Gu | Ataque | Crescente dourado de mais de um metro: mais poder, mesmo alcance de dez passos. | Não citada |
+| Frost Moon Gu | Ataque | Lâmina lunar gélida que **deixa o ferido lento**. | Não citada |
+| Blood Moon Gu | Ataque | Lâmina sangrenta com sangramento contínuo; **troca pétalas perecíveis por sangue** e sofre uma janela mensal de fraqueza. | Não citada |
+| Illusory Moon Gu | Suporte | Não ataca: cria um **clone-sombra** que atrai golpes e confunde. | **Moonshadow Gu (r4)**, que suprime 60% da essência de um rank 3 |
+| Moon Poison Gu | Ataque por veneno | A lâmina vira **miasma roxo inalável** com debilitação progressiva; contorna armadura. | Não citada |
+
+## Outros caminhos e famílias avulsas
+
+| Gu | Categoria | Em uma linha | Evolução |
+|---|---|---|---|
+| Treasure Light Gu | Utilidade | **Avalia o valor de um item** pelo brilho; ranks 1 a 3 estão por toda parte. | Série (1–5 mortal, 8 imortal) |
+| Frenzy Needle Bee Gu | Ataque | Agulhas com **capacidade de perfurar todas as coisas** — atravessaram a armadura do Sky Canopy Gu. | Não citada |
+| Detonation Gu | Ataque | Explosão rara e potente; destruiu um zumbi de cabelos verdes. A obra não descreve o mecanismo. | Não citada |
+
+---
+
+## Notas de montagem
+
+Esta seção é de bastidor: ela diz o tamanho do que foi catalogado, o tamanho do silêncio da
+obra e o que precisou ser deduzido. Quem só quer usar o catálogo pode parar aqui.
+
+### Quanto tem
+
+- **136 fichas**, cobrindo **156 Gu nomeados** de rank 3 — a diferença vem de quatro fichas
+  que descrevem famílias inteiras de uma vez, porque a obra as apresenta como bloco: a
+  família de **refino de alma** (dezesseis nomes), a família dos **Beast Enslavement Gu**
+  (quatro), o par **Gold Cup / Silver Cup** e o par **Yin Cloud / Yang Cloud**.
+- **Vinte e sete caminhos e famílias** e **onze categorias funcionais** (Ataque, Defesa,
+  Movimento, Percepção, Suporte, Cura, Utilidade, Refino, Controle, Logística e
+  Comunicação). Nenhuma categoria foi criada para forçar simetria: cada uma existe onde o
+  caminho de fato tem peças daquele tipo, e por isso a maioria dos caminhos tem duas ou
+  três, não onze.
+- **Dezesseis Gu de rank 3 não tinham ficha no catálogo plano** e foram acrescentados por
+  verificação direta no texto-fonte: *bronze skin Gu (rank 3)*, *fire eye Gu*, *water trace
+  Gu*, *tornado Gu*, *flying soul Gu*, *soul chain Gu*, *self-ignition Gu*, *human medicine
+  Gu*, *muted mouth Gu*, *treasure light Gu*, *detonation Gu*, *earth wall Gu*, *frenzy
+  needle bee Gu*, *gold eating flying ant Gu*, *muffled thunder potato Gu*, *dog guts above
+  mountain Gu* e *golden back wolf skin Gu*. Vários deles aparecem no catálogo plano apenas
+  **dentro da ficha de outro Gu**, como coadjuvantes de uma cena — o que explica por que
+  passaram despercebidos numa varredura por linha de tabela.
+
+### Quanto a obra cala sobre evolução
+
+- **110 dos 137 campos de Evolução dizem "não citada pela obra"** — cerca de **quatro em
+  cada cinco**. Apenas **27** trazem um Gu de rank 4 nomeado, e desses **menos de dez**
+  trazem a receita fechada (o segundo componente da fusão).
+- Isso **não é uma lacuna deste documento**: é o padrão do texto. A obra costuma dar o
+  Gu-base ("evolui do Moonglow") e calar sobre o resto, e há uma proporção medida de cerca
+  de **um Gu com evolução citada para cada seis sem nenhuma** em toda a faixa mortal. Toda
+  linha que diz "não citada" é um convite explícito à designer: qualquer rota que ela
+  desenhe a partir dali é invenção legítima e não contradiz nada.
+- As rotas **fechadas** de rank 3 → rank 4, com receita completa e verificada, são poucas o
+  bastante para caberem numa lista: *Vertical Crash + Horizontal Charge → Charging Crash*;
+  *Fire Eye + Sight Blow + materiais → Fire Pupil*; *dois Seven Fragrances + nove olhos de
+  reis-de-cem-bestas → Nine Eyes Liquor Worm*; *Wood Charm + Lifespan Gu de cem anos →
+  hundred-years Wood Charm*; *Gold Cup + Silver Cup, sete dias e seis noites → Gold and
+  Silver Cup Gu*. As demais dão só o nome do destino.
+
+### Correções feitas em relação ao catálogo plano
+
+Todas verificadas no texto-fonte antes de serem aplicadas.
+
+1. **Iceblade Gu é rank 2 e Ice Edge Gu é rank 3.** O catálogo plano registra o Iceblade
+   como rank 3 e o Ice Edge como faixa "2-3", invertendo os dois. A obra é explícita nos
+   dois sentidos, e chega a usar o Iceblade num caso didático justamente por ele ser um Gu
+   de rank 2 empunhado por uma praticante de rank 3 — aparentemente foi daí que veio o
+   erro: **tomou-se o rank da usuária pelo rank do Gu**. A ficha de rank 3 aqui é a do Ice
+   Edge Gu, com a divergência registrada em callout no corpo do texto.
+2. **O all-out effort Gu não escolhe o fantasma "por sorte".** O catálogo plano diz que
+   "num exemplar de rank 3 a escolha é por sorte". O texto diz o contrário: o Gu invoca o
+   fantasma **sob a vontade do usuário**, com cem por cento de sucesso, e as cenas mostram
+   o dono nomeando qual fantasma quer. O que só sai "por sorte" são os fantasmas de feras
+   de **rank 4**, que um all-out effort de rank 3 **não consegue invocar à vontade** —
+   esses continuam aparecendo pela via espontânea, como apareceriam sem o Gu. A ficha foi
+   reescrita com a distinção.
+3. **O djinn heart Gu existe no rank 3.** O catálogo plano registra o trio "Djinn Heart /
+   Body / Mind" apenas como rank 4, que é o rank da cena do golpe fatal. Noutra cena a obra
+   declara, palavra por palavra, "rank três, djinn heart Gu, para fortalecer o espírito".
+   Pela regra de faixa de rank, ele ganhou **ficha única cobrindo os ranks 3 e 4**, com a
+   divergência declarada.
+4. **O burning firefly Gu é do caminho do fogo, não da luz.** O catálogo plano o coloca sob
+   a luz, provavelmente pelo nome; a obra o classifica com todas as letras como Gu do
+   caminho do fogo. Foi realocado, com a divergência registrada.
+5. **A direção do refino reverso do essence iron bone Gu.** O texto afirma que o *essence
+   iron bone Gu* é o rank 4 e que **é dele que se obtém o iron bone Gu** por refino
+   reverso. O catálogo plano acerta; quem inverte é o `06 - Catálogo de Receitas`. A ficha
+   do Iron Bone Gu registra a direção correta em destaque, e deixa explícito que **a rota
+   ascendente — como se sobe do rank 3 para o rank 4 — a obra nunca descreve**.
+6. **Quatro pares de linhas do catálogo plano são o mesmo Gu**, com duas grafias, e foram
+   fundidos numa ficha só: *Ice Muscle Gu* = *Ice Muscles Gu*; *Broadsword of Light Gu* =
+   *Broadsword Light Gu*; *Fur Zombie Gu* = *Hairy Zombie Gu*; *Illusory Moon Gu* =
+   *Illusionary Moon Gu*. Some-se a esses o *copper skin Gu*, que é o **bronze skin Gu** de
+   rank 3 sob outra tradução — a obra lista os dois nomes no mesmo lote de rank 3 ao lado do
+   iron bone e do steel tendon.
+7. **O Emperor Yama não é um Gu**, e portanto não aparece aqui nem deveria aparecer em
+   catálogo de Gu nenhum: é um **golpe imortal de rank 8**, cujos "quatro componentes
+   principais" são dois golpes e dois Gu Imortais. Registrado por completude, já que a
+   confusão está num dos catálogos do vault.
+8. **Duas ligações que o vault trata como fato são dedução.** A obra menciona o *Sword
+   Shadow Gu* e o *Multiple Sword Shadow Gu* e **nunca afirma** que um evolua do outro; e,
+   na linha do rastro d'água, ela nomeia dois Gu de rank 5 e depois um de rank 6 **sem
+   afirmar que as duas rotas convirjam**. As duas fichas dizem isso na cara.
+
+### A regra da pele de bronze, e por que só ela foi partida em duas fichas
+
+O *bronze skin Gu* é o único Gu deste rank que ganhou **ficha separada da versão de rank
+inferior**, e a razão é uma regra que vale para o catálogo inteiro: **duas fichas quando o
+efeito muda de natureza, uma ficha com faixa de rank quando só muda a magnitude**. No rank
+2 ele dá defesa por tempo limitado, acionável e paga em essência; no rank 3 ele **consome o
+próprio corpo** e concede a defesa permanentemente, de uma vez. São mecânicas de gêneros
+diferentes sob o mesmo nome.
+
+Procurei ativamente outros casos assim e **não encontrei nenhum no rank 3**. A obra usa o
+termo *series Gu* exatamente **três vezes** em toda a extensão do texto — para o **Relic
+Gu**, para o **bone flesh unity Gu** e para o **bronze skin Gu** —, e nas demais famílias
+que atravessam o rank 3 o que muda entre os degraus é sempre magnitude: a fumaça do wolf
+enslavement fica "muito mais espessa", o raio do territory Gu cresce, os bonecos do grass
+puppet ganham armas melhores, o rank do slavery Gu define o rank máximo do alvo. Todas essas
+ficaram com **ficha única e faixa de rank declarada**, listadas na seção de séries.
+
+### O que foi deduzido, e como está marcado
+
+Cerca de duzentas marcações `(ded.)` aparecem no documento, e elas se concentram em quatro
+famílias de dedução — vale conhecê-las para poder descartá-las em bloco, se preferir:
+
+1. **Ritmo de alimentação.** "Dieta não informada; no rank 3 come cerca de uma vez por mês"
+   aparece dezenas de vezes. O **ritmo** é canônico (é a escala de frequência por rank, que
+   é regra do mundo); o **cardápio** é silêncio, e ficou em branco de propósito.
+2. **Conflito de marcas aplicado por regra geral.** Onde uma ficha diz que um Gu de luz, de
+   espaço, de vento ou de água "sofre interferência das marcas de força", isso é a regra
+   que a obra enuncia sendo aplicada àquele item — **não** uma cena que ela tenha mostrado.
+   As cenas existem para o *rainbow light Gu*, o *position swap Gu*, o *chasing wind Gu* e o
+   *worldly wave trace Gu*, e só para eles.
+3. **Rank deduzido.** Alguns Gu chegaram com rank marcado `(ded.)` — *Steel Shirt*, *Spiral
+   Water Arrow*, *Spring Rain*, *Three Claw Water Dragon*, *Position Swap*, *Blitz*, *Black
+   Python Coiling Strength*, e a família de refino de alma. A dedução é sempre a mesma e é
+   segura: a obra os arrola numa lista cujo rank ela declara, ou os põe num conjunto de um
+   praticante cujo rank ela declara.
+4. **Um rank inferido de vizinhança.** O *Golden Steel Tendon Gu* nunca tem rank declarado,
+   mas aparece sempre no mesmo lote do *ancient bronze skin Gu* e do *essence iron bone Gu*,
+   ambos rank 4, como a versão superior do trio de rank 3. Está marcado `(ded.)`.
+
+### O que foi inventado
+
+**Sete pontos**, todos marcados com `*` e todos descartáveis sem perda: o valor tático
+específico do fantasma de píton negra; a hipótese de que o thunder shield Gu, por carregar a
+lei do raio, alcance coisas que ataques comuns não tocam; o cardápio provável do therapy
+light Gu; a observação de que o self-ignition Gu atrapalha aliados que precisem encostar no
+portador; e os temas presumidos do *ice soul Gu* e do *heroic soul Gu*. Nenhum deles
+sustenta qualquer outra afirmação do documento.
+
+### O achado que virou bloco de design
+
+O melhor material novo do rank saiu de uma varredura por nomes de Gu com rank declarado no
+texto-fonte, e não do catálogo plano: uma **receita completa de golpe fatal, com rank e
+função de cada componente listados linha a linha** — a *Alma Combinada dos Três Corações*,
+que funde as almas de três Mestres Gu numa entidade de mil e quatrocentas almas de homem.
+Três dos seis componentes são Gu de rank 3 que não existiam em nenhum catálogo do vault
+(*djinn heart*, *flying soul*, *soul chain*), e a listagem por função — fortalecer o
+espírito, tirar a alma do corpo, interligar, fundir — é praticamente uma ficha de poder de
+RPG saída pronta do texto. É também o registro mais concreto que a obra dá de **cooperação
+mecânica entre personagens**: um efeito que nenhum dos três alcançaria sozinho, com um
+limiar de percepção declarado (só quem tem quinhentas almas de homem sente a pressão) e um
+raio declarado (duzentos li).
+
+## Notas relacionadas
+
+- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano de rank 1 a
+  5, para procurar um nome sem saber o rank.
+- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as versões imortais dos Gu
+  que aparecem aqui em duas escalas.
+- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas propriamente ditas.
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a
+  regra de que o campo "Interações" inteiro depende.
+- [[16 - Dao Marks|Dao Marks]] — a teoria das marcas.
+- [[07 - Fusão de Gu|Fusão de Gu]] e [[06 - Refino de Gu|Refino de Gu]] — o procedimento que
+  quase toda linha de "Evolução" instancia.
+- [[08 - Killer Moves|Killer Moves]] — os golpes combinados em que estes Gu entram.
+- [[05 - Ranks e Avanço|Ranks e Avanço]] — o que significa ser rank 3.

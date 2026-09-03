@@ -55,7 +55,7 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 3. **Só existiram dez.** Nove homens e uma mulher — não há restrição de gênero.
 4. **Todos eram humanos puros.** Nunca houve um Venerável entre os humanos variantes (raças humanoides como os homens-peludos ou os homens-pena), e o rank 9 simplesmente não existe para feras e plantas.
 5. **Nenhum era onipotente — e todos cultivaram exatamente dois caminhos.** Esta é a regra estrutural mais útil da pasta, e ela é enunciada de forma explícita na obra: cada Venerável tem **um caminho principal** e **um caminho de especialidade**, e nada além disso. O principal é o que o levou ao rank 9 e o que ele **divulga**: vira disciplina pública, ensinada e herdada pelo mundo inteiro. A especialidade é **mantida em segredo**, lacrada, e serve para uma coisa só — **competir com os outros Veneráveis**. O raciocínio é de duelista: se todos conhecem o seu caminho principal, todos sabem se defender dele; o que ninguém viu é a sua carta na mesa.
-   Fora desses dois campos, um Venerável pode ser apenas competente. Um Venerável especialista em tempo tinha domínio de alma comparável ao de um rank 8 qualquer, e vários precisaram de ajuda de terceiros para refinar os próprios Gu.
+   Fora desses dois campos, um Venerável pode ser apenas competente, e a obra dá o caso com nome e medida: **Spectral Soul**, o criador do caminho da alma, tinha métodos do **caminho do tempo** no nível de um imortal de rank 8 qualquer daquela disciplina — e era esmagadoramente inferior a **Red Lotus**, o especialista de tempo, que por sua vez ficava boquiaberto diante do domínio de alma do primeiro. Vários deles também precisaram de ajuda de terceiros para refinar os próprios Gu: o cofre de 88 andares de **Giant Sun** foi refinado pelo Long Hair Ancestor, um mortal-e-depois-imortal do caminho do refino, e não por ele.
    > [!note] Para o design
    > Isto resolve, de graça, um problema clássico de cenário: *por que a magia mais poderosa do mundo não está toda publicada?* Porque metade dela nunca foi. Cada uma das grandes disciplinas do mundo tem uma disciplina-irmã secreta ao lado, criada pela mesma pessoa e escondida de propósito — e encontrar uma dessas metades escondidas é um objetivo de campanha inteiro. O caminho da pintura e o caminho da sorte são os dois exemplos que a obra desenvolve.
 6. **Todos foram limitados pela expectativa de vida.** Ser invencível não é ser eterno. Há registro histórico de Veneráveis caçando desesperadamente meios de estender a própria vida — e o custo disso recai sobre o mundo, porque os Gu que concedem anos não se fabricam, só nascem, e cada Venerável que passa esgota o suprimento da própria era. Os números: o mais longevo dos dez passou dos **25 mil anos**, o segundo chegou a cerca de **19 mil**, **a maioria viveu por volta de 7 mil** e o mais curto viveu cerca de **3 mil**. Para comparação, um imortal de rank 7 ou 8 excepcional chega a alguns milhares. Todos os dez morreram. Os números completos estão em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], a fonte soberana deles.
@@ -108,10 +108,14 @@ E aqui está a distinção que muda tudo, e que é fácil de perder: **a capacid
 a uma mesa: **por saturação do caminho**. Se muitos rank 8 de topo do mesmo caminho
 acumularem avanços coletivos até que a disciplina, no mundo, ultrapasse um limiar
 qualitativo, o Venerável deixa de ser "equivalente ao caminho" e é **expulso** do supremo
-grão-mestre, perdendo junto o senhorio. A segunda é a perda da própria mente: há registro
-de um Venerável que sobreviveu à morte sem sanidade e por isso não conta como Dao Lord
-verdadeiro. Existe um lugar no mundo, quase inacessível, capaz de restituir o attainment
-supremo a quem o perdeu.
+grão-mestre, perdendo junto o senhorio. A segunda é a perda da própria mente: **Spectral Soul**
+sobreviveu à própria morte, mas sem sanidade, e por isso não contava como Dao Lord
+verdadeiro. E existe um lugar capaz de devolver o attainment supremo a quem o perdeu: o
+==Domínio Primordial== (*Primordial Domain*), na **nona camada da Caverna do Demônio
+Enlouquecido** — o fundo do megadungeon descrito em [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]]. Quem entra
+nele recupera o supremo grão-mestre do próprio caminho, passa a usar a energia primordial
+do mundo em benefício próprio e volta a ser um Dao Lord completo. É o único endereço
+conhecido para isso, e fica atrás de nove camadas.
 
 > [!note] Para o design
 > A perda por saturação é a peça mais aproveitável do conceito, e por duas razões. Primeiro,

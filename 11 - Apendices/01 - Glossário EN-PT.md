@@ -9,7 +9,7 @@ aliases:
   - Dicionário de Termos
   - EN-PT Glossary
 status: consolidado
-fontes: ["_pipeline/pesquisa/glossario-pt-centralnovel.md", "_pipeline/rascunho/glossario.md", "cap. 1", "cap. 7", "cap. 17", "cap. 19", "cap. 90", "cap. 135", "cap. 178", "cap. 181", "cap. 187", "cap. 292", "cap. 346", "cap. 383", "cap. 466", "cap. 492", "cap. 500", "cap. 522", "cap. 538", "cap. 552", "cap. 598", "cap. 610", "cap. 704", "cap. 740", "cap. 821", "cap. 912", "cap. 1015", "cap. 1025-1027", "cap. 1092", "cap. 1119-1121", "cap. 1147-1148", "cap. 1218", "cap. 1301", "cap. 1489", "cap. 1760", "cap. 1965", "cap. 1966", "cap. 2049", "cap. 2085", "cap. 2086", "cap. 2131", "cap. 2172", "cap. 2254", "cap. 2257"]
+fontes: ["_pipeline/pesquisa/glossario-pt-centralnovel.md", "_pipeline/rascunho/glossario.md", "cap. 1", "cap. 7", "cap. 17", "cap. 19", "cap. 90", "cap. 135", "cap. 178", "cap. 181", "cap. 187", "cap. 292", "cap. 346", "cap. 383", "cap. 466", "cap. 492", "cap. 500", "cap. 522", "cap. 538", "cap. 552", "cap. 598", "cap. 610", "cap. 704", "cap. 740", "cap. 821", "cap. 912", "cap. 1015", "cap. 1025-1027", "cap. 1092", "cap. 1119-1121", "cap. 1147-1148", "cap. 1218", "cap. 1301", "cap. 1489", "cap. 1760", "cap. 1965", "cap. 1966", "cap. 2047", "cap. 2049", "cap. 2073", "cap. 2085", "cap. 2086", "cap. 2131", "cap. 2172", "cap. 2254", "cap. 2257"]
 conhecimento: misto — a maior parte do vocabulário é de conhecimento comum ou especializado no mundo; os itens marcados com 🔒 são segredo de altíssimo nível, conhecidos por pouquíssimos personagens
 ---
 
@@ -334,7 +334,7 @@ mais instável, porque aparece pouco e em capítulos esparsos.
 | spirit spring | *spirit spring*° (nascente espiritual) | Fonte geológica que produz pedras primordiais; a base econômica de um clã |
 | Earth Trench | *Earth Trench*° (fenda terrestre) | Fendas colossais que atravessam as regiões; abrigam Gu Imortais selvagens |
 | fragment world | *fragment world*° (mundo-fragmento) | Pedaço de um dos sete céus destruídos que caiu nas cinco regiões e virou um pequeno mundo próprio; é onde se colhem materiais que não existem mais |
-| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | Território celestial de um dos Veneráveis; junto com o Tribunal Celestial, uma das duas organizações de categoria máxima 🔒 |
+| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | A **abertura imortal do Giant Sun Immortal Venerable**, que ele deixou como base ao morrer; hoje é a gruta-céu de rank 9 que suserana as Planícies do Norte, habitada pelos descendentes de sangue dele. Junto com o Tribunal Celestial, uma das duas organizações de categoria máxima 🔒 |
 | Earth Abyss | *Earth Abyss*° (Abismo da Terra) | Abismo subterrâneo de centenas de milhares de km², organizado em mais de cem camadas sobrepostas, cada uma mais funda com feras mais antigas |
 
 #### As cinco paredes regionais, por nome
@@ -369,8 +369,8 @@ vale.
 | supreme elder | *supreme elder*° (ancião supremo) | O Imortal que garante a existência de uma organização |
 | external supreme elder | *external supreme elder*° | Imortal de **fora** contratado para esse papel — aliança política com risco de legitimidade |
 | super tribe / super force | *super force*° (super força) | Organização que possui Imortais **e** território imortal próprio; as únicas que atravessam eras |
-| Heavenly Court | Corte Celestial → **o vault escreve "Tribunal Celestial"** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino 🔒 |
-| Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta de fragmentos de alma de um Venerável 🔒 |
+| Heavenly Court | Corte Celestial → **o vault escreve "Tribunal Celestial"** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino; construída a duras penas por três Veneráveis — Primordial Origin, Star Constellation e Genesis Lotus 🔒 |
+| Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta operada pelas **almas fragmentadas do Spectral Soul Demon Venerable**, o criador do caminho da alma, que se dividiu em muitos fragmentos e passou dezenas de milhares de anos acumulando influência através dela; usa a Aliança dos Zumbis como fachada 🔒 |
 | Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
 | Lang Ya Sect | *Lang Ya Sect*° | A seita do refino, governada por um espírito da terra |
 | Imperial Court | *Imperial Court*° (Corte Imperial) | O trono decenal das Planícies do Norte e a terra-refúgio associada |
@@ -502,9 +502,9 @@ a obra reconhece apenas duas; tudo abaixo disso é clã, tribo ou seita comum.
 | Termo (EN) | O vault escreve | O que é |
 |---|---|---|
 | Heavenly Court | **Tribunal Celestial** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino. Uma das duas *ultimate forces* 🔒 |
-| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | Território celestial de um Venerável; a outra *ultimate force* 🔒 |
+| Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | A abertura imortal do **Giant Sun Immortal Venerable**, deixada como base após a morte dele e hoje suserana das Planícies do Norte; a outra *ultimate force* 🔒 |
 | Lang Ya Sect | *Lang Ya Sect*° (Seita de Lang Ya) | A seita do refino, governada por um espírito da terra |
-| Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta de fragmentos de alma de um Venerável 🔒 |
+| Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta operada pelas **almas fragmentadas do Spectral Soul Demon Venerable**, o criador do caminho da alma, que se dividiu em muitos fragmentos e passou dezenas de milhares de anos acumulando influência através dela; usa a Aliança dos Zumbis como fachada 🔒 |
 | Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
 | Demon Expelling Sect | Seita da Expulsão de Demônios | Seita do Continente Central citada fora do bloco das dez |
 | Imperial Court | *Imperial Court*° (Corte Imperial) | O trono decenal das Planícies do Norte e a terra-refúgio associada |

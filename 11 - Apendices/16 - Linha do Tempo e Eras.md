@@ -11,7 +11,7 @@ aliases:
   - Grande Era
   - Great Era
 status: consolidado
-fontes: ["cap. 383", "cap. 389", "cap. 490", "cap. 518", "cap. 522", "cap. 552", "cap. 558", "cap. 580", "cap. 597-601", "cap. 704", "cap. 722", "cap. 740", "cap. 871", "cap. 879", "cap. 912", "cap. 915", "cap. 921", "cap. 1007", "cap. 1078", "cap. 1191", "cap. 1235", "cap. 1301", "cap. 1408", "cap. 1435", "cap. 1440", "cap. 1866", "cap. 1933", "cap. 1955", "cap. 1966-1969", "cap. 1990", "cap. 2008", "cap. 2049", "cap. 2085", "cap. 2108-2109", "cap. 2121", "cap. 2131", "cap. 2145", "cap. 2170-2172", "cap. 2254", "cap. 135", "cap. 181", "cap. 464", "cap. 522", "cap. 552", "cap. 568", "cap. 598", "cap. 653", "cap. 695", "cap. 704", "cap. 730", "cap. 740", "cap. 871", "cap. 912", "cap. 1005", "cap. 1051", "cap. 1070", "cap. 1073", "cap. 1128", "cap. 1191", "cap. 1249", "cap. 1337", "cap. 1551"]
+fontes: ["cap. 383", "cap. 389", "cap. 490", "cap. 518", "cap. 522", "cap. 552", "cap. 558", "cap. 580", "cap. 597-601", "cap. 704", "cap. 722", "cap. 740", "cap. 871", "cap. 879", "cap. 912", "cap. 915", "cap. 921", "cap. 1007", "cap. 1078", "cap. 1191", "cap. 1235", "cap. 1301", "cap. 1408", "cap. 1435", "cap. 1440", "cap. 1866", "cap. 1933", "cap. 1955", "cap. 1966-1969", "cap. 1990", "cap. 2008", "cap. 2049", "cap. 2085", "cap. 2108-2109", "cap. 2121", "cap. 2131", "cap. 2145", "cap. 2170-2172", "cap. 2254", "cap. 135", "cap. 181", "cap. 464", "cap. 522", "cap. 552", "cap. 568", "cap. 598", "cap. 653", "cap. 695", "cap. 704", "cap. 730", "cap. 740", "cap. 871", "cap. 912", "cap. 1005", "cap. 1051", "cap. 1070", "cap. 1073", "cap. 1128", "cap. 1191", "cap. 1249", "cap. 1337", "cap. 1551", "cap. 461", "cap. 878", "cap. 1226", "cap. 553"]
 conhecimento: misto — a divisão em eras e os nomes dos Veneráveis são conhecimento especializado (qualquer praticante instruído sabe); a mecânica profunda da Grande Era e a origem da fronteira do mundo são segredo de altíssimo nível
 ---
 
@@ -48,9 +48,9 @@ marco.
 | Era | Distância do presente | Âncora |
 |---|---|---|
 | Antiguidade Imemorial | **—** | a obra **nunca a data**. É o horizonte da memória: "imemorial" é literal |
-| Antiguidade Remota | **~3 milhões de anos** | a criação do caminho da sabedoria e a fundação da instituição de topo do mundo são datadas assim, e as duas são desta era |
+| Antiguidade Remota | **~3 milhões de anos** | a criação do caminho da sabedoria e a fundação do Heavenly Court (Tribunal Celestial) são datadas assim, e as duas são desta era |
 | Antiguidade Antiga | **~1 milhão de anos** | uma fera imemorial "existe desde um milhão de anos atrás, na Antiguidade Antiga" |
-| Antiguidade Medieval | **~300 mil anos** | datada assim seis vezes ou mais, sempre pelos mesmos marcos: os Veneráveis da era, a fundação do mercado universal, a chegada da aliança dos zumbis |
+| Antiguidade Medieval | **~300 mil anos** | datada assim seis vezes ou mais, sempre pelos mesmos marcos: os Veneráveis da era, a fundação do Treasure Yellow Heaven, a chegada da Zombie Alliance |
 | Antiguidade Tardia | **~100 mil anos** | "cem mil anos atrás, durante a Antiguidade Tardia, o caminho da alma floresceu" |
 | Era atual | o presente | — |
 
@@ -133,18 +133,22 @@ jovens, e é essa a explicação, dentro da ficção, de por que portadores de c
 extrema quase nunca amadurecem. Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 
 **Como a era termina.** O Ancestral Humano sobreviveu aos dez filhos e estava para morrer
-de velhice. Antes disso, reuniu os corpos dos dez, e ofereceu a eles e a si mesmo a um Gu
-específico, deixando que os devorasse. O estômago do Gu arrebentou — e do rompimento
-**espalhou-se vida** pelo mundo. É o mito de origem da abundância de formas vivas do
-mundo atual, e o fecho do livro fundador.
+de velhice. Antes disso, reuniu os corpos dos dez filhos e ofereceu a eles e a si mesmo ao
+==Derivation Gu== (Gu da derivação), deixando que os devorasse. Grande quantidade de reinos
+oníricos (*dream realms*) entrou junto, atraída pelo cheiro. O **estômago do Derivation Gu
+arrebentou** — e do rompimento saiu incontável **luz de vida**, que caiu sobre as terras e
+criou a primeira leva de mortais. É o mito de origem da abundância de formas vivas do mundo
+atual e, ao mesmo tempo, a explicação canônica de por que existem reinos oníricos espalhados
+pelo mundo; e é o fecho do [[12 - Lendas de Ren Zu|livro fundador]].
 
 **Herança estrutural que chega até hoje:** os materiais dos sete céus destruídos, que
 se tornaram os ingredientes impossíveis das receitas mais cobiçadas; os **mundos-fragmento**
 — pedaços dos céus destruídos que caíram sobre as cinco regiões e viraram pequenos
 mundos próprios, ainda visitáveis, e o único lugar onde se colhem materiais que já não
 existem; as feras "imemoriais", o degrau máximo da escala de bestas, com força
-equivalente a um cultivador de rank 8; e a primeira herança verdadeira da história, em
-formato de livro.
+equivalente a um cultivador de rank 8; e as [[12 - Lendas de Ren Zu|**Lendas de Ren Zu**]]
+(*The Legends of Ren Zu*), a primeira herança verdadeira da história — e a única em formato
+de livro, informação pura, cujo ganho depende da afinidade pessoal de quem lê.
 
 ---
 
@@ -158,11 +162,11 @@ uma campanha no momento em que o mundo moderno começa a existir, é aqui.
 | O primeiro rank 9 da história | O teto do sistema deixa de ser teórico |
 | O **caminho da sabedoria** | Surge o eixo do pensamento, da dedução e da manipulação de vontades |
 | O **sistema de seitas** | Organização por **mérito**, ao lado da organização por sangue |
-| A instituição de topo do mundo | Nasce o poder central que administra o destino e caça transgressores |
+| O [[19 - Tribunal Celestial\|Heavenly Court]] (Tribunal Celestial) | Nasce o poder central que administra o destino e caça transgressores |
 | A ascensão dos humanos puros | Os variantes deixam de dominar; a hierarquia se inverte |
 
 **Veneráveis desta era:** o **Primordial Origin Immortal Venerable**, primeiro rank 9
-de toda a história, fundador do sistema de seitas e da instituição de topo; e a **Star
+de toda a história, fundador do sistema de seitas e do [[19 - Tribunal Celestial|Heavenly Court]]; e a **Star
 Constellation Immortal Venerable**, criadora do caminho da sabedoria — a única mulher
 entre os dez, e o segundo maior tempo de vida registrado.
 
@@ -186,7 +190,7 @@ personagens pode explorar hoje entrou no mapa neste período.
 > |---|---|---|
 > | Antiguidade Remota | Old Eccentric Tian Nan | tentou refinar o céu e morreu na tentativa |
 > | Antiguidade Antiga | Old Immortal Kong Jue | a pesquisa mais profunda já feita sobre aberturas imortais; escreveu o tratado que ainda hoje é a referência do assunto |
-> | Antiguidade Medieval | Long Hair Ancestor | refinou dezenas de Gu Imortais e construiu a maior estrutura saqueadora do mundo |
+> | Antiguidade Medieval | Long Hair Ancestor | refinou dezenas de Gu Imortais e construiu o **Refinement Cauldron** (Caldeirão de Refino), a Casa de Gu Imortal de rank 8 que **refina à força os Gu Imortais de quem estiver preso na área** |
 >
 > Nenhum dos três foi Venerável, e nenhum Venerável foi um deles. É o registro mais
 > limpo de que **attainment e rank são eixos independentes**.
@@ -218,9 +222,14 @@ quando o mundo se torna perigoso da forma como é hoje.
   item: foi um **tratado sobre como uma abertura imortal funciona**, que continua sendo
   a referência do assunto trezentos mil anos depois. Quando um personagem seu quiser
   entender a própria terra abençoada, é este livro que ele vai procurar.
-- **As feras imemoriais mais antigas do mundo aparecem aqui.** Duas delas são nomeadas
-  como "os pesadelos" de três eras seguidas — Antiga, Medieval e Tardia. Uma fera desse
-  patamar não é um encontro: é um evento histórico que atravessa milênios.
+- **As feras imemoriais mais antigas do mundo aparecem aqui.** Duas delas têm nome próprio e
+  a obra as chama de "os pesadelos" de três eras seguidas — Antiga, Medieval e Tardia:
+  **Zuo Ye Hui** e **You Tian Guang**. São feras desoladas imemoriais — o degrau de força
+  equivalente a um cultivador de rank 8 — com uma anomalia que a obra registra sem explicar:
+  **as duas têm forma humana**, ao contrário das demais. Foram caçadas na Antiguidade Tardia
+  pelo Paradise Earth Immortal Venerable, que gastou muito tempo e esforço só para localizar
+  o esconderijo delas. Uma fera desse patamar não é um encontro: é um evento histórico que
+  atravessa milênios.
 
 **Veneráveis desta era:** três, e todos pela via demoníaca — é a única era com um
 bloco assim.
@@ -230,9 +239,10 @@ bloco assim.
 - O **Thieving Heaven Demon Venerable**, criador do caminho do roubo e o mais rico da
   história; a atuação dele atravessa a fronteira desta era para a seguinte.
 - O **Limitless Demon Venerable**, criador do **caminho da regra**. Ele pertence a
-  esta era, mas a obra dele que mais marcou o mundo — a caverna de nove camadas que
-  perfurou a fronteira externa — foi escavada nos últimos anos de sua vida e por isso
-  aparece datada na era seguinte.
+  esta era, mas a obra dele que mais marcou o mundo — a **Crazed Demon Cave** (a Caverna do
+  Demônio Enlouquecido), a caverna de nove camadas que perfurou a fronteira externa — foi
+  escavada nos últimos anos de sua vida e por isso aparece datada na era seguinte. Ver
+  [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
 
 Foram esses três, agindo juntos, que **exterminaram uma raça humana variante
 antropófaga** — o exemplo canônico de que um Venerável não apenas cria: remove
@@ -253,20 +263,28 @@ próxima de um desastre irreversível. Situa-se por volta de **trezentos mil ano
   uma função do céu.
 - **O caminho da madeira** e a linhagem de Gu que produz essência imortal
   continuamente — a base de boa parte da economia de topo.
-- **O caminho da água**, fundado por uma mulher que também construiu uma das grandes
-  instituições do Continente Central.
-- **O maior refinador da história**, um praticante de raça variante que viveu três
-  eras de Veneráveis, refinou dezenas de Gu Imortais e construiu a maior estrutura
-  saqueadora do mundo. Ele nunca foi aceito na instituição de topo, e o motivo é uma
-  regra do mundo, não um acaso: **a instituição exclui categoricamente humanos
-  variantes**.
-- **O mercado universal dos Imortais**, uma gruta-céu vazia convertida em praça de
-  comércio anônima entre as cinco regiões. Ele foi **fixado num ponto do mundo há
+- **O caminho da água**, formalizado por **Shui Ni**, fundadora da **Spirit Affinity House**
+  (Casa da Afinidade Espiritual), uma das grandes instituições do Continente Central. Gu de
+  água selvagens existiam desde a Antiguidade Imemorial e havia até quem criasse Gu de água
+  novos; o que ela fez foi **fechar o caminho como caminho** — considerar todos os aspectos e
+  fundá-lo formalmente.
+- **O Long Hair Ancestor**, o maior refinador da história — um praticante de raça variante
+  que viveu três eras de Veneráveis, refinou dezenas de Gu Imortais e construiu o
+  **Refinement Cauldron**, a Casa de Gu Imortal de rank 8 que se funde à terra abençoada e
+  **refina à força os Gu Imortais de qualquer intruso preso na área**, capturando o dono
+  junto. Ele nunca foi aceito no [[19 - Tribunal Celestial|Heavenly Court]], e o motivo é uma
+  regra do mundo, não um acaso: **a instituição exclui categoricamente humanos variantes**.
+- **O ==Treasure Yellow Heaven==**, o mercado número um dos Gu Imortais das cinco regiões.
+  A origem é concreta: um Gu Imortal de rank 8 chamado **Daoist Countless Treasures** (Taoísta
+  dos Incontáveis Tesouros) obteve por acaso um **fragmento do céu amarelo imemorial** — um dos
+  sete céus destruídos — e o **fundiu à própria gruta-céu**, criando com isso a praça de
+  comércio anônima que atende as cinco regiões. Ele foi **fixado num ponto do mundo há
   trezentos mil anos e nunca mais se moveu** — e onde exatamente fica é um dos maiores
   mistérios em aberto do cenário: gerações de Imortais do caminho da sabedoria tentaram
-  deduzir a localização e nenhuma conseguiu.
-- **A aliança mundial dos zumbis imortais**, hoje uma super força espalhada pelas cinco
-  regiões, com sede numa delas e filial em cada uma das outras quatro.
+  deduzir a localização e nenhuma conseguiu, e nem os Veneráveis conseguiram.
+- **A ==Zombie Alliance==** (Aliança dos Zumbis), a aliança mundial dos zumbis imortais —
+  hoje uma super força espalhada pelas cinco regiões, com sede numa delas e uma filial em cada
+  uma das outras quatro.
 - **Seitas e clãs empatam.** No Continente Central, as duas formas de organização se
   enfrentam de igual para igual durante toda a era — o único período em que isso acontece.
 
@@ -278,8 +296,12 @@ nunca foi completamente feito. `[segredo]`
 
 **Veneráveis desta era:** dois começam aqui e dois transbordam da era anterior.
 
-- O **Giant Sun Immortal Venerable**, criador secreto do caminho da sorte, fundador
-  de uma linhagem regional inteira e do trono decenal das Planícies do Norte.
+- O **Giant Sun Immortal Venerable**, criador secreto do caminho da sorte, fundador de uma
+  linhagem regional inteira e do **Imperial Court** (a Corte Imperial) das Planícies do Norte —
+  o torneio decenal que decide quem manda na região; ver
+  [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]]. Ele
+  também encomendou ao Long Hair Ancestor o **Eighty-Eight True Yang Building**, a Casa de Gu
+  Imortal de rank 8 onde deixou oitenta e oito heranças para os vencedores do torneio.
 - O **Genesis Lotus Immortal Venerable**, criador do caminho da madeira.
 - O **Thieving Heaven Demon Venerable** e o **Limitless Demon Venerable**, ambos da
   Antiguidade Antiga, cuja atuação atravessa a fronteira entre as duas eras — o
@@ -319,10 +341,18 @@ era atual apresenta como natural foi decidido aqui.
 Antiguidade Antiga.
 
 - O **Spectral Soul Demon Venerable**, criador do caminho da alma.
-- O **Paradise Earth Immortal Venerable**, que conteve o caminho da alma, criou as
-  duas ferramentas opostas de **ler e de ocultar o segredo celeste**, e deixou a
-  herança de combate mais bem montada da história — uma herança que funciona como
-  instituição, distribuindo missões e pagando por elas.
+- O **Paradise Earth Immortal Venerable**, que conteve o caminho da alma e caçou as duas
+  feras imemoriais de forma humana da era anterior. Ele criou o **heavenly secret Immortal Gu**
+  (Gu Imortal do segredo celeste), de rank 8: com ele, um Mestre Gu **não precisa fazer os
+  pensamentos colidirem nem deduzir** — basta agarrar o fio do segredo celeste e a resposta vem
+  direto. O Gu **desapareceu junto com ele** e nunca mais foi visto. A ferramenta oposta, a de
+  ocultar o segredo celeste, também é atribuída a ele, mas a obra não lhe dá nome `—`. Ele
+  deixou ainda o **Paraíso da Baleia-Dragão** com seu quadro de missões — a herança de combate
+  mais bem montada da história, que funciona como instituição: distribui tarefas e paga por
+  elas, em vez de ser um cofre que se esvazia quando alguém o abre — e o **Campo de Batalha da
+  Reencarnação** (*Reincarnation Battlefield*), no Continente Central, um golpe de campo de
+  batalha transformado em arena permanente, construído para que os imortais da região
+  brigassem sem se matar.
 - O **Red Lotus Demon Venerable**, que teve o menor tempo de vida dos dez — cerca de
   três mil anos, contra os vinte e cinco mil do mais longevo — e que feriu o
   [[16 - Fate Gu|Fate Gu]], quebrando as correntes do destino. É a única lei fundamental do mundo
@@ -347,7 +377,7 @@ tratada como uma anomalia à espera de correção, não como o estado normal das
 | As cinco regiões | Separadas por barreiras que suprimem quem as cruza em exatamente um rank |
 | Nove céus | Restam dois: o Céu Branco e o Céu Negro |
 | Caminho do céu | Declarado impossível de cultivar; ninguém na história o cultivou formalmente |
-| Destino | Administrado centralmente pela instituição de topo, através de um Gu de rank 9 danificado e em reparo |
+| Destino | Administrado centralmente pelo [[19 - Tribunal Celestial\|Heavenly Court]], através do [[16 - Fate Gu\|Fate Gu]] — um Gu de rank 9 danificado e em reparo |
 
 **A regra mais importante da era atual:** o teto prático de poder é o **rank 8**, e ele
 é raríssimo. Numa região inteira existem apenas algumas centenas de Imortais, a maioria
@@ -483,9 +513,9 @@ Para consulta rápida: em que era ambientar, e o que existe lá.
 | Era | Quando | Marca estrutural | O que nasce | Veneráveis | Quantos |
 |---|---|---|---|---|---|
 | **Antiguidade Imemorial** | — (não datada) | Nove céus revezando-se; céu e terra contínuos; variantes dominam | O cultivo por Gu; o mito fundador | — | 0 |
-| **Antiguidade Remota** | ~3 milhões de anos | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; a instituição de topo | Primordial Origin; Star Constellation | 2 |
+| **Antiguidade Remota** | ~3 milhões de anos | Virada humana; nascem as instituições | Caminho da sabedoria; sistema de seitas; o [[19 - Tribunal Celestial\|Heavenly Court]] | Primordial Origin; Star Constellation | 2 |
 | **Antiguidade Antiga** | ~1 milhão de anos | Três Veneráveis demoníacos; extinções; clãs superam seitas | Caminhos da força, transformação, roubo e regra; a primeira Casa de Gu Imortal | Reckless Savage; Thieving Heaven; Limitless | 3 |
-| **Antiguidade Medieval** | ~300 mil anos | A fronteira do mundo é perfurada pela obra de Limitless | Caminhos da sorte, da madeira e da água; o mercado universal; a aliança dos zumbis | Giant Sun; Genesis Lotus | 2 |
+| **Antiguidade Medieval** | ~300 mil anos | A fronteira do mundo é perfurada pela Crazed Demon Cave, escavada por Limitless | Caminhos da sorte, da madeira e da água; o Treasure Yellow Heaven; a Zombie Alliance | Giant Sun; Genesis Lotus | 2 |
 | **Antiguidade Tardia** | ~100 mil anos | A Porta da Vida e da Morte enfraquece; surgem zumbis; as seitas vencem os clãs | Caminho da alma; as ferramentas de ler e ocultar o segredo celeste | Spectral Soul; Paradise Earth; Red Lotus | 3 |
 | **Era atual** | dura há ~100 mil anos | Nenhum Venerável vivo; teto prático no rank 8 | — | Nenhum | 0 |
 | **A Grande Era** | durante a obra | As cinco regiões viram uma; o destino é distribuído | Marés de qi; as Dez Terras; o caminho do céu cultivável | Um novo, previsto pela profecia | — |

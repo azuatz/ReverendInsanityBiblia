@@ -9,7 +9,7 @@ aliases:
   - Como se escolhe um path
   - Aquisição de dao marks
 status: verificado-no-texto
-fontes: ["cap. 5", "cap. 7", "cap. 8", "cap. 17", "cap. 61-62", "cap. 106", "cap. 148", "cap. 230", "cap. 275", "cap. 288", "cap. 292", "cap. 313", "cap. 380", "cap. 412", "cap. 493-494", "cap. 517-519", "cap. 546", "cap. 581", "cap. 606-610", "cap. 627-633", "cap. 683-687", "cap. 703", "cap. 710-711", "cap. 715", "cap. 717-719", "cap. 752", "cap. 758-759", "cap. 761", "cap. 778", "cap. 784", "cap. 810", "cap. 819-821", "cap. 823-826", "cap. 836", "cap. 852", "cap. 860", "cap. 865-866", "cap. 871", "cap. 877", "cap. 884", "cap. 937-939", "cap. 949", "cap. 1027", "cap. 1031", "cap. 1033", "cap. 1043", "cap. 1051", "cap. 1053", "cap. 1064", "cap. 1067", "cap. 1080", "cap. 1089", "cap. 1099", "cap. 1119", "cap. 1148", "cap. 1161", "cap. 1165", "cap. 1184-1187", "cap. 1204", "cap. 1216", "cap. 1258-1259", "cap. 1272", "cap. 1300", "cap. 1302", "cap. 1333", "cap. 1367", "cap. 1398", "cap. 1400", "cap. 1407-1408", "cap. 1425", "cap. 1431", "cap. 1444", "cap. 1459", "cap. 1467", "cap. 1470", "cap. 1473", "cap. 1481", "cap. 1487", "cap. 1562", "cap. 1571", "cap. 1581", "cap. 1586", "cap. 1599", "cap. 1628", "cap. 1644", "cap. 1646", "cap. 1677", "cap. 1686", "cap. 1690", "cap. 1703", "cap. 1787", "cap. 1804", "cap. 1821", "cap. 1993", "cap. 2023", "cap. 2042", "cap. 2071", "cap. 2078", "cap. 2083", "cap. 2085-2086", "cap. 2112", "cap. 2119", "cap. 2121", "cap. 2133-2135", "cap. 2152", "cap. 2197", "cap. 2237", "cap. 2262", "cap. 2284"]
+fontes: ["cap. 5", "cap. 7", "cap. 8", "cap. 17", "cap. 61-62", "cap. 106", "cap. 148", "cap. 230", "cap. 275", "cap. 288", "cap. 292", "cap. 313", "cap. 380", "cap. 412", "cap. 493-494", "cap. 517-519", "cap. 546", "cap. 581", "cap. 606-610", "cap. 627-633", "cap. 683-687", "cap. 703", "cap. 710-711", "cap. 715", "cap. 717-719", "cap. 752", "cap. 758-759", "cap. 761", "cap. 778", "cap. 784", "cap. 810", "cap. 819-821", "cap. 823-826", "cap. 836", "cap. 852", "cap. 860", "cap. 865-866", "cap. 871", "cap. 877", "cap. 884", "cap. 937-939", "cap. 949", "cap. 992", "cap. 1027", "cap. 1031", "cap. 1033", "cap. 1043", "cap. 1051", "cap. 1053", "cap. 1064", "cap. 1067", "cap. 1080", "cap. 1089", "cap. 1099", "cap. 1119", "cap. 1148", "cap. 1161", "cap. 1165", "cap. 1184-1187", "cap. 1204", "cap. 1216", "cap. 1258-1259", "cap. 1272", "cap. 1300", "cap. 1302", "cap. 1333", "cap. 1367", "cap. 1398", "cap. 1400", "cap. 1407-1408", "cap. 1425", "cap. 1431", "cap. 1444", "cap. 1459", "cap. 1467", "cap. 1470", "cap. 1473", "cap. 1481", "cap. 1487", "cap. 1562", "cap. 1571", "cap. 1581", "cap. 1586", "cap. 1599", "cap. 1628", "cap. 1644", "cap. 1646", "cap. 1677", "cap. 1686", "cap. 1690", "cap. 1703", "cap. 1787", "cap. 1804", "cap. 1821", "cap. 1993", "cap. 2023", "cap. 2042", "cap. 2071", "cap. 2078", "cap. 2083", "cap. 2085-2086", "cap. 2112", "cap. 2119", "cap. 2121", "cap. 2133-2135", "cap. 2152", "cap. 2197", "cap. 2237", "cap. 2262", "cap. 2284"]
 conhecimento: especializado
 ---
 
@@ -693,10 +693,10 @@ Quatro limites que a obra estabelece, e que juntos explicam por que isso não é
   interferindo no resultado de um refino.
 
 Existe também a **operação inversa**, e ela é o método mais poderoso de direção de marcas que a
-obra documenta abaixo do nível de Venerável: um golpe supremo do caminho da transformação capaz
-de converter **marcas de todos os outros caminhos em marcas de transformação** — e que alcança
-inclusive as marcas do caminho do céu, forçando qualquer tribulação a se manifestar como
-calamidade de feras. O limite declarado é de escala: contra quantidades altas demais de marcas,
+obra documenta abaixo do nível de Venerável: a **Assimilação e Transformação das Miríades de
+Seres**, golpe supremo do caminho da transformação capaz de converter **marcas de todos os outros
+caminhos em marcas de transformação** — e que alcança inclusive as marcas do caminho do céu,
+forçando qualquer tribulação a se manifestar como calamidade de feras. O limite declarado é de escala: contra quantidades altas demais de marcas,
 simplesmente não é executável.
 
 `—` A obra não quantifica a taxa de conversão nem informa se há perda de volume no processo.
@@ -758,10 +758,12 @@ Direção total, volume desprezível:
   do personagem. E o uso rotineiro de Gu comuns grava marcas do caminho deles no corpo.
 
 > [!warning] Cuidado com uma armadilha de leitura
-> Nem toda marca concedida por um Gu é permanente. Existe pelo menos um Gu Imortal que cobre o
-> corpo com uma camada **temporária** de marcas de um caminho — e a função dele não é fundação,
-> é **disfarce**: passar-se por praticante de um caminho que não é o seu. Marca temporária serve
-> para enganar; só a permanente constrói.
+> Nem toda marca concedida por um Gu é permanente. O **Star Mark Gu** (Gu Imortal de rank 6 do
+> [[19 - Star Path|caminho das estrelas]]) cobre o corpo do usuário com **seiscentas marcas do
+> caminho das estrelas de uma vez**, temporariamente — e ele serve a duas coisas: emprestar
+> potência a métodos de estrela e, sobretudo, **disfarce**, porque um praticante de outro caminho
+> coberto por essa camada passa por praticante de estrelas aos olhos de quem o examinar. Marca
+> temporária serve para enganar; só a permanente constrói.
 
 ### Faixa 2 — o que se controla cuidando da própria abertura e escolhendo onde
 
@@ -785,9 +787,12 @@ foi atacado**. Empobrecer-se para sofrer menos empobrece o ganho junto.
 
 - **A região define parte da paleta.** Como as calamidades saem também dos caminhos dominantes
   do lugar, escolher onde passar séculos de provações é escolher, com margem, de quais caminhos
-  serão as marcas acumuladas. A obra mostra esse planejamento sendo feito em escala de séculos:
-  uma seita manteve deliberadamente sua terra ancorada perto de um lago rico em marcas de dois
-  caminhos, justamente para provocar sempre provações daqueles dois e engordar aquele estoque.
+  serão as marcas acumuladas. A obra mostra esse planejamento sendo feito em escala de séculos: a
+  **Terra Abençoada de Lang Ya** ficou ancorada por muito tempo junto ao **Lago da Lua Crescente**
+  (*Crescent Lake*), cujo entorno é rico em marcas dos caminhos da **água** e do **refino**,
+  justamente para provocar sempre provações desses dois e engordar aquele estoque. O resultado é
+  visível na geografia interna dela: há cento e oitenta mil anos a Lang Ya não tinha mar nenhum e
+  hoje é um oceano com três continentes, tudo efeito do volume de marcas de água acumulado.
 
 > [!example] O caso que mostra o limite exato desta alavanca
 > Um imortal escolheu de propósito um território específico porque queria uma calamidade do
@@ -812,15 +817,18 @@ Quatro alavancas de rendimento, não de caminho:
 - **Uma abertura de vida-e-morte** corta pela metade o poder de todas as provações futuras **sem
   reduzir em nada as marcas obtidas**. É o item mais puramente vantajoso do domínio: metade do
   risco pelo mesmo ganho.
-- Existe um Gu que permite **absorver o qi da provação para enfraquecê-la, ou liberá-lo para
-  fortalecê-la** — um dial de dificuldade acionável na hora, para quem quer mais marcas ou
-  quer sobreviver.
+- O **Big Family Qi** (Gu Imortal de rank 7 do [[05 - Qi Path|caminho do qi]]) permite **absorver o
+  qi da provação para enfraquecê-la, ou liberar de volta o qi estocado para fortalecê-la** — um
+  dial de dificuldade acionável na hora, para quem quer mais marcas ou quer sobreviver. O qi
+  sugado fica guardado e vira munição para depois.
 - **Fortuna alta eleva as calamidades ao máximo que o mundo permite** — o que maximiza o ganho
   de marcas, ao custo do risco máximo. Uma tribulação maximizada rendeu mil marcas de caminho
   único, com o dobro de amplificação para futuros Gu Imortais daquele caminho.
-- Existe um Gu do [[23 - Luck Path|caminho da sorte]] que **dobra as marcas ganhas** numa provação,
-  em troca de aumentar em trinta a quarenta por cento o poder dela. É a aposta explícita do
-  sistema.
+- O **Blessing in Disguise** ("mal que vem para bem"), Gu Imortal de rank 7 do
+  [[23 - Luck Path|caminho da sorte]], **dobra as marcas ganhas** numa provação, em troca de
+  aumentar de trinta a quarenta por cento o poder dela. Ele precisa ser acionado **antes** de a
+  provação começar e não pode ser desligado no meio: uma vez apostado, aposta-se até o fim. É a
+  aposta explícita do sistema.
 
 ### Faixa 3 — o que só instituições e potências controlam
 
@@ -830,19 +838,30 @@ Existem métodos construídos exatamente para **forçar a mão da vontade dos c�
 atacam a mesma raiz mecânica (as marcas do caminho do céu que se transformam para se
 manifestar):
 
-- **Uma formação que conecta a abertura ao mundo externo** e assim influencia **quais**
-  calamidades ocorrem, "temperando" a abertura com marcas dos caminhos dominantes na região
-  externa correspondente. Note que ela ataca exatamente o passo 2 do mecanismo: se a conversão
-  lê o estado da abertura, mudar artificialmente o que a abertura "parece ser" muda o que a
-  provação entrega. É seleção de caminho por engenharia, e pertence a uma seita específica.
-- **Um método que limita a transformação** das marcas do caminho do céu, forçando **toda**
-  tribulação a se manifestar como calamidade de feras do [[06 - Transformation Path|caminho da
-  transformação]]. Isto é literalmente travar o gerador de marcas num único caminho — o mais
-  perto de "escolher a build" que o sistema chega. Pertence a um domínio específico.
+- **O golpe imortal "tribulação imortal temperando a abertura"** (*immortal tribulation tempering
+  aperture*), do [[08 - Refinement Path|caminho do refino]]: ele usa vários Gu Imortais e **mais de
+  cem mil Gu mortais** para tratar a própria terra abençoada como alvo de refino, **conectando a
+  abertura imortal ao mundo externo** e assim condicionando **quais** calamidades ocorrem —
+  "temperando" a abertura com marcas dos caminhos dominantes na região externa correspondente.
+  Note que ele ataca exatamente o passo 2 do mecanismo: se a conversão lê o estado da abertura,
+  mudar artificialmente o que a abertura "parece ser" muda o que a provação entrega. É seleção de
+  caminho por engenharia, pertence à **Terra Abençoada de Lang Ya**, e **não é garantido** — a
+  própria Lang Ya, apesar do golpe, recebeu ao longo da história tribulações de fogo e de
+  relâmpago que não queria.
+- **A Assimilação e Transformação das Miríades de Seres** (*myriad beings assimilation
+  transformation*), golpe imortal que é uma das duas profundidades supremas do
+  [[06 - Transformation Path|caminho da transformação]]. Ele **limita a transformação** das marcas
+  do caminho do céu, forçando **toda** tribulação a se manifestar como calamidade de feras. Isto é
+  literalmente travar o gerador de marcas num único caminho — o mais perto de "escolher a build"
+  que o sistema chega. É o método exclusivo do Imortal da Calamidade das Feras (*Beast Calamity
+  Immortal*) e está instalado na caverna-céu dele, que por causa disso acumulou mais de cem mil
+  marcas de transformação.
 - **Golpes do [[23 - Luck Path|caminho da sorte]] que interferem na criação da tribulação**,
   enfraquecendo-a por mudança favorável.
-- **Dedução do conteúdo exato da próxima provação.** Duas escolas fazem isso por rotas
-  diferentes; uma delas custa cerca de cem anos de longevidade por dedução. O ganho não é
+- **Dedução do conteúdo exato da próxima provação.** Duas escolas fazem isso por rotas diferentes:
+  o [[16 - Wisdom Path|caminho da sabedoria]], por adivinhação, e o **Gu do Segredo Celeste**
+  (*heavenly secret Gu*), que lê diretamente o segredo do céu e **cobra cerca de cem anos de
+  longevidade por dedução**. O ganho não é
   reduzir o dano — é **remover a imprevisibilidade**, descrita como o maior perigo de qualquer
   tribulação. Contra uma provação diretamente pilotada pela vontade dos céus, que muda de forma
   a cada contramedida eficaz, esta é a única defesa conhecida.

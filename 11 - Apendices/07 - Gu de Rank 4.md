@@ -201,11 +201,14 @@ existem **duas linhagens paralelas** de Gu de força, e elas competem no mercado
   corpo a força de uma criatura específica e um **fantasma de fera** — a silhueta do
   javali, do urso, do touro — que aparece atrás do usuário quando ele libera potência.
   Dão mais força por Gu, mas dependem de materiais da era antiga, hoje raríssimos.
-- A **linhagem moderna**, da série *jin/jun*, criada por um dos Veneráveis do caminho da
-  força e espalhada há uns trezentos anos: são Gu numéricos e sem graça que somam uma
-  quantidade fixa de força, feitos de materiais baratos, com alta taxa de sucesso no
-  refino. Dão menos força por Gu — e **venceram**, tornando-se o ramo principal do caminho
-  da força nas Planícies do Norte.
+- A **linhagem moderna**, da série *jin/jun*, e aqui a obra nomeia o inventor — não foi um
+  Venerável: foi **Chu Du, o "Imortal da Dominação"**, um Gu Imortal de **rank 7** das
+  [[03 - Planícies do Norte|Planícies do Norte]] que ascendeu há trezentos anos e cuja receita se
+  espalhou depressa. São Gu numéricos e sem graça, que somam uma **quantidade fixa de força**
+  medida nas unidades de peso do mundo (o *jin* e o *jun*, que vale trinta jin), feitos de
+  materiais baratos e com alta taxa de sucesso no refino. Dão menos força por Gu — e **venceram**,
+  tornando-se o ramo principal do caminho da força no Norte. O mesmo Chu Du refinou o topo da
+  própria linhagem, o Gu Imortal de rank 6 `Strength of a Thousand Jun`.
 
 Guarde a lição, porque ela é a coisa mais reaproveitável desta seção: neste mundo, a
 tecnologia que domina não é a mais potente, é a que tem **cadeia de suprimento**.
@@ -3506,9 +3509,12 @@ nascentes; e daí para o rank 6 imortal, com **onze**. A escada de custo é arit
 o que faz dela o melhor exemplo do catálogo de uma progressão **planejável e impagável ao mesmo
 tempo**.
 
-**Interações.** A linhagem inteira não foi encontrada: **foi criada** por um dos Veneráveis há
-milênios, e o exemplar de rank 6 era o Gu vital dele — o Venerável mais rico da história em
-essência imortal. Ver [[19 - Tornar-se Venerável|Tornar-se Venerável]].
+**Interações.** A linhagem inteira não foi encontrada: **foi criada** pelo
+[[02 - Os Criadores de Caminhos#Genesis Lotus Immortal Venerable|Genesis Lotus Immortal
+Venerable]], o criador do caminho da madeira, há milênios; o exemplar de rank 6 era o Gu-núcleo
+dele, e é a razão de ele ser **o Venerável com a maior reserva de essência imortal da história** —
+enquanto os inimigos esgotavam a própria essência no meio da luta, ele nunca precisou se preocupar
+com isso. Ver [[19 - Tornar-se Venerável|Tornar-se Venerável]].
 
 ### Second Aperture Gu (Gu da Segunda Abertura) — degrau de rank 4 da série
 

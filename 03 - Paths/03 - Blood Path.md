@@ -6,7 +6,7 @@ aliases:
   - Caminho do sangue
   - Bloodline path
 status: consolidado
-fontes: ["cap. 156", "cap. 157", "cap. 158", "cap. 165", "cap. 182", "cap. 183", "cap. 198", "cap. 274", "cap. 407", "cap. 463", "cap. 464", "cap. 469", "cap. 687", "cap. 706", "cap. 710", "cap. 775", "cap. 826", "cap. 848", "cap. 849", "cap. 850", "cap. 861", "cap. 863", "cap. 961", "cap. 970", "cap. 1044", "cap. 1058", "cap. 1061", "cap. 1062", "cap. 2212", "cap. 2221"]
+fontes: ["cap. 156", "cap. 157", "cap. 158", "cap. 165", "cap. 182", "cap. 183", "cap. 198", "cap. 274", "cap. 407", "cap. 463", "cap. 464", "cap. 469", "cap. 687", "cap. 706", "cap. 710", "cap. 775", "cap. 826", "cap. 848", "cap. 849", "cap. 850", "cap. 861", "cap. 863", "cap. 961", "cap. 970", "cap. 1044", "cap. 1058", "cap. 1061", "cap. 1062", "cap. 2203", "cap. 2204", "cap. 2212", "cap. 2221", "cap. 2262"]
 conhecimento: comum
 ---
 
@@ -206,8 +206,9 @@ linhagem contra ele é uma proeza de alto nível.
 
 ### As nove verdadeiras heranças do Mar de Sangue
 
-A obra nomeia o conjunto completo deixado pelo maior criador do caminho, e ele funciona como
-mapa da escola inteira, do barato ao lendário:
+A obra nomeia o conjunto completo deixado pelo **Ancestral do Mar de Sangue** (*Blood Sea
+Ancestor*) — um Mestre Gu demoníaco de rank 7, não um Venerável, e mesmo assim o maior nome
+prático da escola —, e ele funciona como mapa do caminho inteiro, do barato ao lendário:
 
 Gu do **crânio de sangue**, da **marca de mão sangrenta**, do **qi de sangue**, do **suor de
 sangue**, do **sangue menstrual**, da **sombra de sangue**, da **batalha de sangue**; a **fera
@@ -411,8 +412,10 @@ verdadeiramente perigoso para um cenário:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Ancestral do Mar de Sangue** — figura lendária e histórica, de rank 7, o grande criador
-  deste caminho. Passou a vida tentando resolver a limitação estrutural mais irritante do
+- **O Ancestral do Mar de Sangue** — figura lendária e histórica, de rank 7, **o criador deste
+  caminho**, e o único fundador de caminho que não era um Venerável: por isso mesmo o caminho do
+  sangue foi o mais fácil de suprimir de todos. Passou a vida tentando resolver a limitação
+  estrutural mais irritante do
   sistema Gu — o fato de que um Gu refinado perde a capacidade de se alimentar sozinho. Chegou
   perto: sua última criação **se multiplica bebendo sangue e se sustenta da própria guerra**,
   sem precisar de essência do dono. O caminho correto o cercou e o matou justamente por medo de
@@ -421,11 +424,22 @@ verdadeiramente perigoso para um cenário:
   de multiplicar. O resultado é o traço mais assustador do caminho: **ele não pode ser
   erradicado**. Cada herança é uma faísca, e muitos praticantes do caminho correto viraram de
   lado ao achar uma.
-- **O Venerável Imortal Sol Gigante** — rank 9, o único Venerável que cultivou o caminho do
-  sangue. Queria fazer dele seu caminho principal e da sorte a especialidade; como o sangue
-  nunca vingou como escola, a lista canônica o registra ao contrário. Deixou descendência
-  espalhada pelas cinco regiões, e a cura absoluta como carta na manga contra outros
-  Veneráveis.
+- **Giant Sun Immortal Venerable** (Venerável Imortal Sol Gigante) — rank 9, o único Venerável
+  que cultivou o caminho do sangue. Queria fazer dele seu caminho principal e da sorte a
+  especialidade; como o sangue nunca vingou como escola, a lista canônica o registra ao
+  contrário. Deixou descendência espalhada pelas cinco regiões, e a cura absoluta como carta na
+  manga contra outros Veneráveis.
+
+> [!warning] Os dois nomes acima são a mesma operação
+> A obra fecha o círculo de forma explícita: **o Ancestral do Mar de Sangue era um clone de
+> Giant Sun**, ativado depois da morte dele justamente porque, em vida, ainda não havia fundação
+> suficiente no mundo para o caminho do sangue existir. O plano declarado era tornar o sangue
+> **o caminho mais comum do mundo** — daí o clone ter espalhado centenas de milhares de terrenos
+> de herança pelas cinco regiões, para que outras pessoas aperfeiçoassem e popularizassem o
+> caminho por ele. O plano falhou: o caminho correto o caçou, o Tribunal Celestial pesquisou o
+> caminho para combatê-lo, e o sangue nunca deixou de ser tabu. Mas a semeadura funcionou tão
+> bem que **erradicar o caminho se tornou impossível**. Ver
+> [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].
 - Existem praticantes de rank 7 contemporâneos entre os mais fortes do mundo demoníaco, e a
   obra os apresenta como *extremamente poderosos em combate*.
 

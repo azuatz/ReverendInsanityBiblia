@@ -119,5 +119,5 @@ nem meu orçamento".
 
 - [[09 - Os Dois Atalhos que se Anularam|Os Dois Atalhos que se Anularam]] — o Gu de uso único queimado no passo 1, e a conta que ele deixou.
 - [[10 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — o mesmo repertório de rank baixo, do lado do caçador.
-- [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] — o procedimento geral do mundo para perseguições, e a tabela de funções de uma força-tarefa: quem coordena, quem detecta e quem carrega a contramedida.
+- [[16 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] — o procedimento geral do mundo para perseguições, e a tabela de funções de uma força-tarefa: quem coordena, quem detecta e quem carrega a contramedida.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — como bandos de bestas se organizam e o que os coordena.

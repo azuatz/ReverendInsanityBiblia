@@ -73,5 +73,5 @@ morte não resiste a nada. O ladrão não venceu ninguém: ele **esperou o custo
 ## Relações
 
 - [[14 - Espólio de Gu|Espólio de Gu]] — o que acontece com os Gu de um Mestre Gu morto, e por que muitos se autodestroem.
-- [[41 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a mesma mecânica na escala imortal, onde ela vira uma operação de quatro etapas.
+- [[34 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — a mesma mecânica na escala imortal, onde ela vira uma operação de quatro etapas.
 - [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o que se faz com um Gu roubado depois.

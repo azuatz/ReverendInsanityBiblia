@@ -242,7 +242,7 @@ bloco assim.
   esta era, mas a obra dele que mais marcou o mundo — a **Crazed Demon Cave** (a Caverna do
   Demônio Enlouquecido), a caverna de nove camadas que perfurou a fronteira externa — foi
   escavada nos últimos anos de sua vida e por isso aparece datada na era seguinte. Ver
-  [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
+  [[25 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
 
 Foram esses três, agindo juntos, que **exterminaram uma raça humana variante
 antropófaga** — o exemplo canônico de que um Venerável não apenas cria: remove
@@ -299,7 +299,7 @@ nunca foi completamente feito. `[segredo]`
 - O **Giant Sun Immortal Venerable**, criador secreto do caminho da sorte, fundador de uma
   linhagem regional inteira e do **Imperial Court** (a Corte Imperial) das Planícies do Norte —
   o torneio decenal que decide quem manda na região; ver
-  [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]]. Ele
+  [[13 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]]. Ele
   também encomendou ao Long Hair Ancestor o **Eighty-Eight True Yang Building**, a Casa de Gu
   Imortal de rank 8 onde deixou oitenta e oito heranças para os vencedores do torneio.
 - O **Genesis Lotus Immortal Venerable**, criador do caminho da madeira.

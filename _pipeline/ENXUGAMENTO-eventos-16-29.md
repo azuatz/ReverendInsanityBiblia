@@ -58,8 +58,8 @@ está em jogo" repetia "Desfechos possíveis"; os dois viraram um.
 
 **Regra geral do mundo que pertence a outra nota, trocada por wikilink.** Em `18`, o parágrafo sobre
 posições internas numeradas e disputáveis das super forças → `[[13 - As Grandes Forças do Mundo]]`. Em
-`18`, o segredo enterrado do vale → `[[08 - Aberturas de Herança]]`. Em `24`, a descrição completa das
-Dez Terras (cinco descritas, cinco só nomeadas) → `[[12 - As Terras Ferozes e o Subsolo do Mundo]]`,
+`18`, o segredo enterrado do vale → `[[07 - Aberturas de Herança|08 - Aberturas de Herança]]`. Em `24`, a descrição completa das
+Dez Terras (cinco descritas, cinco só nomeadas) → `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]`,
 mantidas na nota só as quatro que rendem cenário imediato. Em `19`, a seção "A porta dos fundos: o
 espírito da terra e a condição de posse" duplicava, quase palavra por palavra, o fecho de `18`: virou um
 bullet com ponteiro. Em `21`, o bloco do desastre caótico foi reduzido a um parágrafo, com o

@@ -94,6 +94,6 @@ habilidade e descarta a outra**. Aqui ficou a defesa e perdeu-se o reforço de f
 
 - [[07 - Fusão de Gu|Fusão de Gu]] — a mecânica completa, incluindo a regra de que a fusão preserva só uma habilidade.
 - [[06 - Refino de Gu|Refino de Gu]] — a operação vizinha, e por que as duas compartilham a lógica de taxa de sucesso.
-- [[35 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — a pilha completa de multiplicadores, na escala imortal.
+- [[29 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] — a pilha completa de multiplicadores, na escala imortal.
 - [[02 - Punhos Contra uma Camada de Defesa|Punhos Contra uma Camada de Defesa]] — o duelo em que a versão fraca desta defesa foi quebrada a soco.
 - [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra.

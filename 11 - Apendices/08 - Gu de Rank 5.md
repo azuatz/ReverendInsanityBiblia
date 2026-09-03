@@ -983,7 +983,7 @@ que a chamou. **Quem ela não escolher não a tem, e não há como forçar.**
 
 **Interações.** Montaria voadora e controle de campo num Gu só, e **vem de graça para quem ela
 aprovar** — o que a torna, para uma mesa, menos um item e mais um personagem. Ver
-[[37 - O Gu Que Escolhe o Portador|O Gu Que Escolhe o Portador]].
+[[31 - O Gu Que Escolhe o Portador|O Gu Que Escolhe o Portador]].
 
 ---
 
@@ -4166,7 +4166,7 @@ mortal e produzível em massa, ele permitiria que **os Mestres Gu comuns de um c
 entrassem em seus reinos de sonho e colhessem materiais**, dando à região uma vantagem inicial numa
 grande era — "este Gu era capaz de elevar a dominância estratégica de uma região inteira; sua
 importância ia muito além do comum". Ver [[26 - Dream Path|Dream Path]] e
-[[46 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]].
+[[39 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]].
 
 ---
 

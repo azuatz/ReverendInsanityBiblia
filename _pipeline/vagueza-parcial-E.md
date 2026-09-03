@@ -107,7 +107,7 @@ todos esses itens em outras pastas (`04 - Mundo/19 - Tribunal Celestial.md`,
 
 - **Estava:** sem nome, embora o vault a nomeie em cinco outras notas.
 - **Ficou:** **Crazed Demon Cave** (a Caverna do Demônio Enlouquecido), com wikilink para
-  `[[26 - A Caverna do Demônio Enlouquecido]]`.
+  `[[25 - A Caverna do Demônio Enlouquecido|26 - A Caverna do Demônio Enlouquecido]]`.
 
 ### 10. L256 — "o caminho da água, fundado por uma mulher"
 
@@ -123,7 +123,7 @@ todos esses itens em outras pastas (`04 - Mundo/19 - Tribunal Celestial.md`,
 
 - **Estava:** perífrase para uma instituição que o vault tem em nota própria.
 - **Ficou:** **Imperial Court** (Corte Imperial), com wikilink para
-  `[[14 - O Ciclo Decenal das Planícies do Norte]]`, mais as oitenta e oito heranças do
+  `[[13 - O Ciclo Decenal das Planícies do Norte|14 - O Ciclo Decenal das Planícies do Norte]]`, mais as oitenta e oito heranças do
   Eighty-Eight True Yang Building.
 
 ### 12. L322 — Paradise Earth: "as duas ferramentas opostas" e "a herança de combate"

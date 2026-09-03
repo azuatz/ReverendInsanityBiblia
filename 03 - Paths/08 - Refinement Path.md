@@ -136,7 +136,7 @@ a receita inteira. Salas insonorizadas; um Gu Imortal acionado no centro saturan
 com o material-base. Riscos ao operário: explosões, loucura, morte.
 
 É a resposta do mundo à pergunta "como produzir Gu em quantidade sem revelar o segredo" — e é
-compartimentação, não confiança. Ver [[36 - A Linha de Produção de Gu|A Linha de Produção de Gu]].
+compartimentação, não confiança. Ver [[30 - A Linha de Produção de Gu|A Linha de Produção de Gu]].
 
 ## A camada escondida
 

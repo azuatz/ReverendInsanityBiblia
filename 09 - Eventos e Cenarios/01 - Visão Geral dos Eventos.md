@@ -40,7 +40,7 @@ acontecimento só entra se passar por **pelo menos uma** destas três portas:
 entupiu o rio de uma vila e a maré de lobos que caiu sobre uma montanha específica são a história
 *dele*, não o mundo: na sua mesa, aquela montanha pode nunca existir. Isso não faz o material ser
 jogado fora — ele vira **exemplo trabalhado dentro da nota de categoria**, que é onde a maré de
-lobos está hoje, dentro de [[03 - Marés de Bestas|Marés de Bestas]]. Já as feiras, as caravanas e os
+lobos está hoje, dentro de [[02 - Marés de Bestas|Marés de Bestas]]. Já as feiras, as caravanas e os
 festivais entram sem discussão: existem em todo lugar, e os jogadores vão topar com um.
 
 **Escala não é o critério.** Um cenário pequeno com regras próprias e um relógio vale mais do que um
@@ -70,14 +70,14 @@ para consultar quando a mesa pedir aquele formato — não leitura obrigatória.
 
 | # | Comece por | Por que esta |
 |---|---|---|
-| 1 | [[03 - Marés de Bestas\|Marés de Bestas]] | **A vila.** O cenário de entrada do mundo, e o desastre padrão que o mestre monta em qualquer lugar trocando a espécie. Termina com um exemplo trabalhado de uma maré de um ano inteiro — rank 1 a 3, uma montanha, três clãs, guerra defensiva de inverno com economia de méritos e política de aliança. Nenhuma nota ensina o cotidiano deste mundo melhor do que esta |
-| 2 | [[05 - Feiras, Caravanas e Festivais\|Feiras, Caravanas e Festivais]] | **A sessão sem combate.** Mostra que o cenário roda sem iniciativa e sem dano, e ensina a economia e a etiqueta que todas as outras notas pressupõem. É o contraponto barato, e a mesa vai voltar a ele |
-| 3 | [[09 - A Herança dos Três Reis\|A Herança dos Três Reis]] | **A masmorra.** A instituição mais característica do mundo — a herança — na sua versão mais extrema: lá dentro todo mundo entra igual, e há uma corrida do ouro rodando por fora. Se quiser uma masmorra mais simples de arbitrar, troque por [[15 - O Edifício dos Oitenta e Oito Andares\|O Edifício dos Oitenta e Oito Andares]] |
-| 4 | [[14 - O Ciclo Decenal das Planícies do Norte\|O Ciclo Decenal das Planícies do Norte]] | **O ciclo regional.** Um relógio de dez anos que organiza a política de uma região inteira, com fase social, fase militar e fase de exploração. É o modelo de como transformar um calendário em campanha |
-| 5 | [[16 - A Montanha Yi Tian\|A Montanha Yi Tian]] | **A guerra.** Cem dias de cerco onde nenhum poderoso pode pisar no campo e cada personagem tem um patrono invisível que lucra com o quanto ele luta. A melhor demonstração do que uma trava canônica faz por uma mesa |
-| 6 | [[17 - Caçadas, Emboscadas e Fugas\|Caçadas, Emboscadas e Fugas]] | **O formato transversal.** Alguém procurando alguém, jogável dos dois lados, em qualquer escala — e com a única trava do cardápio que trabalha a favor de quem é fraco. É a nota que a designer mais vai reaproveitar |
-| 7 | [[18 - Quando uma Força Morre\|Quando uma Força Morre]] | **O sandbox.** O único tipo de cenário deste mundo sem porteiro: a mesa não derruba a potência, chega depois e disputa os restos com gente do mesmo tamanho. Funciona em qualquer faixa de rank |
-| 8 | [[24 - A Grande Era e as Marés de Qi\|A Grande Era e as Marés de Qi]] | **A escala de mundo.** O chão se rasga, tesouros de um milhão de anos vêm à tona, e os poderosos ficam fora de combate por tempo proporcional ao próprio poder. É o único cenário que roda com a mesa inteira em ranks diferentes ao mesmo tempo |
+| 1 | [[02 - Marés de Bestas|Marés de Bestas]] | **A vila.** O cenário de entrada do mundo, e o desastre padrão que o mestre monta em qualquer lugar trocando a espécie. Termina com um exemplo trabalhado de uma maré de um ano inteiro — rank 1 a 3, uma montanha, três clãs, guerra defensiva de inverno com economia de méritos e política de aliança. Nenhuma nota ensina o cotidiano deste mundo melhor do que esta |
+| 2 | [[04 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] | **A sessão sem combate.** Mostra que o cenário roda sem iniciativa e sem dano, e ensina a economia e a etiqueta que todas as outras notas pressupõem. É o contraponto barato, e a mesa vai voltar a ele |
+| 3 | [[08 - A Herança dos Três Reis|A Herança dos Três Reis]] | **A masmorra.** A instituição mais característica do mundo — a herança — na sua versão mais extrema: lá dentro todo mundo entra igual, e há uma corrida do ouro rodando por fora. Se quiser uma masmorra mais simples de arbitrar, troque por [[14 - O Edifício dos Oitenta e Oito Andares|O Edifício dos Oitenta e Oito Andares]] |
+| 4 | [[13 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] | **O ciclo regional.** Um relógio de dez anos que organiza a política de uma região inteira, com fase social, fase militar e fase de exploração. É o modelo de como transformar um calendário em campanha |
+| 5 | [[15 - A Montanha Yi Tian|A Montanha Yi Tian]] | **A guerra.** Cem dias de cerco onde nenhum poderoso pode pisar no campo e cada personagem tem um patrono invisível que lucra com o quanto ele luta. A melhor demonstração do que uma trava canônica faz por uma mesa |
+| 6 | [[16 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] | **O formato transversal.** Alguém procurando alguém, jogável dos dois lados, em qualquer escala — e com a única trava do cardápio que trabalha a favor de quem é fraco. É a nota que a designer mais vai reaproveitar |
+| 7 | [[17 - Quando uma Força Morre|Quando uma Força Morre]] | **O sandbox.** O único tipo de cenário deste mundo sem porteiro: a mesa não derruba a potência, chega depois e disputa os restos com gente do mesmo tamanho. Funciona em qualquer faixa de rank |
+| 8 | [[23 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] | **A escala de mundo.** O chão se rasga, tesouros de um milhão de anos vêm à tona, e os poderosos ficam fora de combate por tempo proporcional ao próprio poder. É o único cenário que roda com a mesa inteira em ranks diferentes ao mesmo tempo |
 
 ## Tabela de escolha rápida
 
@@ -86,33 +86,33 @@ tabela serve para varrer, não para ler em sequência.
 
 | Cenário | Tipo | Ranks | Dura | A trava que usa | Que sessão entrega |
 |---|---|---|---|---|---|
-| [[03 - Marés de Bestas\|Marés de Bestas]] | calamidade natural | 1-5 | de uma noite a mais de um ano | ser fraco é a credencial: a aura de um imortal provoca as feras, a de um mortal não | Cerco com contramedida de engenharia, cronômetro de distância e uma pista investigativa — e, no fim da nota, uma campanha de defesa de vila montada de ponta a ponta |
-| [[04 - Desastres Locais e Problemas Crônicos\|Desastres Locais e Problemas Crônicos]] | problema local | 1-3 | de uma expedição a um século | não há ninguém mais forte por perto | Quatro sessões fechadas: engenharia sem violência, evacuação, travessia, fuga |
-| [[05 - Feiras, Caravanas e Festivais\|Feiras, Caravanas e Festivais]] | social e econômico | 1-4 | de uma noite a meses | contratual: os poderosos estão na sala e **não podem usar a força que têm** | Sessão social e econômica, sem iniciativa nem dano |
-| [[06 - Assembleias, Alianças e Quadros de Mérito\|Assembleias, Alianças e Quadros de Mérito]] | diplomacia | 1-5 | dias a meses | os poderosos estão na sala de cima, e o palco existe para medir o que os seus valem | Diplomacia com placar: cada vitória vira concessão na mesa lá em cima |
-| [[07 - Torneios, Arenas e Duelos\|Torneios, Arenas e Duelos]] | torneio | 1-7 | de uma tarde a meses | os poderosos **criaram o torneio para não terem de lutar** | Arena com regras curtas e consequências longas; batalha campal de fichas |
-| [[08 - Aberturas de Herança\|Aberturas de Herança]] | corrida por janela | 2-5 | de uma tarde a meses | a herança suprime quem entra, ou fica onde a aura de um imortal atrai as feras | Corrida por uma janela curta, com rivais acampados e prêmio incomensurável |
-| [[09 - A Herança dos Três Reis\|A Herança dos Três Reis]] | masmorra + corrida | 2-4 | meio ano | supressão radical: **um único Gu de rank 1 por pessoa**, e nada mais | Masmorra de mecânica invertida, mais uma corrida do ouro rodando por fora |
-| [[10 - A Subida da Montanha Dang Hun\|A Subida da Montanha Dang Hun]] | provação | 3-5 | meses, mais um ano interno | a vontade da falecida **sela todos os Gu**, inclusive os de movimento | Prova de resistência sem combate, sem Gu e sem morte, contra um relógio acelerado |
-| [[11 - Os Cacos do Céu Estrelado\|Os Cacos do Céu Estrelado]] | expedição | 3-5 | janela limitada `—` | o gigante quebra a casa: um imortal entrando destrói o fragmento e o tesouro | Expedição com turno marcado num mundo desabando onde nenhum adulto pode entrar |
-| [[12 - As Terras Ferozes e o Subsolo do Mundo\|As Terras Ferozes e o Subsolo do Mundo]] | exploração | 3-7 | dias a mais de dez anos | ser fraco é a credencial de entrada | Exploração com dificuldade regulada pela profundidade |
-| [[13 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito\|O Paraíso da Baleia-Dragão e o Obelisco de Mérito]] | quadro de missões | escalável | **300 dias** internos | dentro do paraíso **ninguém consegue atacar ninguém** | Quadro de missões com placar público, títulos como chaves e prazo fechado |
-| [[14 - O Ciclo Decenal das Planícies do Norte\|O Ciclo Decenal das Planícies do Norte]] | ciclo regional | 2-5 | a década inteira | **Gu Imortais estão fisicamente proibidos de entrar** | Relógio de campanha com fase social, fase militar e fase de exploração |
-| [[15 - O Edifício dos Oitenta e Oito Andares\|O Edifício dos Oitenta e Oito Andares]] | masmorra por rodadas | 2-5 | o ciclo do torneio | a mesma proibição de entrada — e o dono do prédio **quer multidão** | Masmorra por rodadas com aprovação em três graus e economia de talismãs |
-| [[16 - A Montanha Yi Tian\|A Montanha Yi Tian]] | guerra por procuração; depois, condomínio | 3-5 e 6-7 | **100 dias**; depois, anos | a zona destrói quem é grande demais: a abertura imortal morre em cinquenta passos | Cerco onde os fortes não pisam; depois, cidade-guarnição de treze facções |
-| [[17 - Caçadas, Emboscadas e Fugas\|Caçadas, Emboscadas e Fugas]] | perseguição | 3-7 | de uma noite a décadas | a fronteira pune os grandes: quanto mais forte, pior a travessia | Perseguição jogável dos dois lados, com composição de força-tarefa por funções |
-| [[18 - Quando uma Força Morre\|Quando uma Força Morre]] | rescaldo e saque | 1-7 | semanas a anos | os poderosos estão ocupados na sede, e **não há general para expulsar catadores** | Sandbox de rapina e rescaldo, com encontros entre iguais e sem chefe final |
-| [[19 - Cercos e Invasões de Terras Abençoadas\|Cercos e Invasões de Terras Abençoadas]] | cerco | 5-7 | de horas a anos, em ondas | violência bruta destrói o prêmio; a doutrina é **desvendar, não arrombar** | Defesa por atrito: segurar, tampar buracos, evacuar, caçar o vazamento |
-| [[20 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso\|O Cerco da Montanha Nevada e o Rio de Fluxo Reverso]] | cerco + provação | 6-7 | dias; depois, o que a vontade aguentar | a formação prende cada um no seu andar; depois, **nenhum Gu funciona** | Sessão dupla em que o rank alto é proibido de descer e depois deixa de valer |
-| [[21 - Calamidades e Tribulações como Cenário\|Calamidades e Tribulações como Cenário]] | desastre em ambiente fechado | 3-7 | de um dia a meses internos | o poderoso é o alvo, não o socorro: a provação é calibrada por quem a sofre | Cenário fechado com ondas escalonadas e ordem de salvar gente e abandonar bens |
-| [[22 - Leilões, Cúpulas e Guerras de Mercado\|Leilões, Cúpulas e Guerras de Mercado]] | social e econômico | 4-8 | dias | a trégua obrigatória: ninguém quebra a paz da casa | Sessão social pura, ou uma campanha comercial inteira sem um golpe |
-| [[23 - A Cerimônia das Miríades de Tribos e a Estrada da Vida\|A Cerimônia das Miríades de Tribos e a Estrada da Vida]] | torneio + masmorra | 1-8 | semanas | só totens no torneio; na estrada, **custo proporcional à fundação de cada um** | Torneio com regras escritas e uma masmorra final onde rank não dá vantagem |
-| [[24 - A Grande Era e as Marés de Qi\|A Grande Era e as Marés de Qi]] | mudança de era | 1-8 | décadas; depois, indefinido | a maré recolhe os imortais, e **quanto mais forte, mais tempo fora de combate** | Apocalipse e corrida do ouro na mesma sessão; os poderosos ficam fora do tabuleiro |
-| [[25 - A Guerra do Destino\|A Guerra do Destino]] | guerra multi-regional | 3-8 | semanas a meses | a trégua do torneio mortal, e quatro frentes que ocupam todos os poderosos | Mapa de campanha com quatro frentes paralelas e um comboio como relógio |
-| [[26 - A Caverna do Demônio Enlouquecido\|A Caverna do Demônio Enlouquecido]] | masmorra em camadas | 3-8 | permanente; a fase decisiva, meio mês | o lugar **enlouquece até um rank 8**, e a profundidade depende de attainment, não de rank | Masmorra de nove camadas com três facções dentro e emoção como dano |
-| [[27 - A Morte do Sol e o Céu Espectral\|A Morte do Sol e o Céu Espectral]] | mudança de era | 1-8 | meses a anos; o regime, permanente | o prêmio queima quem não for rank 8 do caminho certo — e por isso o mercado em volta fica livre | Desastre natural com tesouro dentro, e depois um mundo com regras novas |
-| [[28 - O Mundo em Véspera de Guerra\|O Mundo em Véspera de Guerra]] | **estado do mundo**, não cenário | qualquer | indefinida | os grandes se vigiam entre si e agem por procuradores | Ambientação, não sessão: drama de consequência em que todo mundo escolhe padrinho |
-| [[29 - Eventos Históricos de Fundo\|Eventos Históricos de Fundo]] | **consulta**, não cenário | — | — | — | Nenhuma: é a nota que responde "por que isto está aqui?" |
+| [[02 - Marés de Bestas|Marés de Bestas]] | calamidade natural | 1-5 | de uma noite a mais de um ano | ser fraco é a credencial: a aura de um imortal provoca as feras, a de um mortal não | Cerco com contramedida de engenharia, cronômetro de distância e uma pista investigativa — e, no fim da nota, uma campanha de defesa de vila montada de ponta a ponta |
+| [[03 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] | problema local | 1-3 | de uma expedição a um século | não há ninguém mais forte por perto | Quatro sessões fechadas: engenharia sem violência, evacuação, travessia, fuga |
+| [[04 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] | social e econômico | 1-4 | de uma noite a meses | contratual: os poderosos estão na sala e **não podem usar a força que têm** | Sessão social e econômica, sem iniciativa nem dano |
+| [[05 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] | diplomacia | 1-5 | dias a meses | os poderosos estão na sala de cima, e o palco existe para medir o que os seus valem | Diplomacia com placar: cada vitória vira concessão na mesa lá em cima |
+| [[06 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] | torneio | 1-7 | de uma tarde a meses | os poderosos **criaram o torneio para não terem de lutar** | Arena com regras curtas e consequências longas; batalha campal de fichas |
+| [[07 - Aberturas de Herança|Aberturas de Herança]] | corrida por janela | 2-5 | de uma tarde a meses | a herança suprime quem entra, ou fica onde a aura de um imortal atrai as feras | Corrida por uma janela curta, com rivais acampados e prêmio incomensurável |
+| [[08 - A Herança dos Três Reis|A Herança dos Três Reis]] | masmorra + corrida | 2-4 | meio ano | supressão radical: **um único Gu de rank 1 por pessoa**, e nada mais | Masmorra de mecânica invertida, mais uma corrida do ouro rodando por fora |
+| [[09 - A Subida da Montanha Dang Hun|A Subida da Montanha Dang Hun]] | provação | 3-5 | meses, mais um ano interno | a vontade da falecida **sela todos os Gu**, inclusive os de movimento | Prova de resistência sem combate, sem Gu e sem morte, contra um relógio acelerado |
+| [[10 - Os Cacos do Céu Estrelado|Os Cacos do Céu Estrelado]] | expedição | 3-5 | janela limitada `—` | o gigante quebra a casa: um imortal entrando destrói o fragmento e o tesouro | Expedição com turno marcado num mundo desabando onde nenhum adulto pode entrar |
+| [[11 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] | exploração | 3-7 | dias a mais de dez anos | ser fraco é a credencial de entrada | Exploração com dificuldade regulada pela profundidade |
+| [[12 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|O Paraíso da Baleia-Dragão e o Obelisco de Mérito]] | quadro de missões | escalável | **300 dias** internos | dentro do paraíso **ninguém consegue atacar ninguém** | Quadro de missões com placar público, títulos como chaves e prazo fechado |
+| [[13 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] | ciclo regional | 2-5 | a década inteira | **Gu Imortais estão fisicamente proibidos de entrar** | Relógio de campanha com fase social, fase militar e fase de exploração |
+| [[14 - O Edifício dos Oitenta e Oito Andares|O Edifício dos Oitenta e Oito Andares]] | masmorra por rodadas | 2-5 | o ciclo do torneio | a mesma proibição de entrada — e o dono do prédio **quer multidão** | Masmorra por rodadas com aprovação em três graus e economia de talismãs |
+| [[15 - A Montanha Yi Tian|A Montanha Yi Tian]] | guerra por procuração; depois, condomínio | 3-5 e 6-7 | **100 dias**; depois, anos | a zona destrói quem é grande demais: a abertura imortal morre em cinquenta passos | Cerco onde os fortes não pisam; depois, cidade-guarnição de treze facções |
+| [[16 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] | perseguição | 3-7 | de uma noite a décadas | a fronteira pune os grandes: quanto mais forte, pior a travessia | Perseguição jogável dos dois lados, com composição de força-tarefa por funções |
+| [[17 - Quando uma Força Morre|Quando uma Força Morre]] | rescaldo e saque | 1-7 | semanas a anos | os poderosos estão ocupados na sede, e **não há general para expulsar catadores** | Sandbox de rapina e rescaldo, com encontros entre iguais e sem chefe final |
+| [[18 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] | cerco | 5-7 | de horas a anos, em ondas | violência bruta destrói o prêmio; a doutrina é **desvendar, não arrombar** | Defesa por atrito: segurar, tampar buracos, evacuar, caçar o vazamento |
+| [[19 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|O Cerco da Montanha Nevada e o Rio de Fluxo Reverso]] | cerco + provação | 6-7 | dias; depois, o que a vontade aguentar | a formação prende cada um no seu andar; depois, **nenhum Gu funciona** | Sessão dupla em que o rank alto é proibido de descer e depois deixa de valer |
+| [[20 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] | desastre em ambiente fechado | 3-7 | de um dia a meses internos | o poderoso é o alvo, não o socorro: a provação é calibrada por quem a sofre | Cenário fechado com ondas escalonadas e ordem de salvar gente e abandonar bens |
+| [[21 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]] | social e econômico | 4-8 | dias | a trégua obrigatória: ninguém quebra a paz da casa | Sessão social pura, ou uma campanha comercial inteira sem um golpe |
+| [[22 - A Cerimônia das Miríades de Tribos e a Estrada da Vida|A Cerimônia das Miríades de Tribos e a Estrada da Vida]] | torneio + masmorra | 1-8 | semanas | só totens no torneio; na estrada, **custo proporcional à fundação de cada um** | Torneio com regras escritas e uma masmorra final onde rank não dá vantagem |
+| [[23 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] | mudança de era | 1-8 | décadas; depois, indefinido | a maré recolhe os imortais, e **quanto mais forte, mais tempo fora de combate** | Apocalipse e corrida do ouro na mesma sessão; os poderosos ficam fora do tabuleiro |
+| [[24 - A Guerra do Destino|A Guerra do Destino]] | guerra multi-regional | 3-8 | semanas a meses | a trégua do torneio mortal, e quatro frentes que ocupam todos os poderosos | Mapa de campanha com quatro frentes paralelas e um comboio como relógio |
+| [[25 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] | masmorra em camadas | 3-8 | permanente; a fase decisiva, meio mês | o lugar **enlouquece até um rank 8**, e a profundidade depende de attainment, não de rank | Masmorra de nove camadas com três facções dentro e emoção como dano |
+| [[26 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]] | mudança de era | 1-8 | meses a anos; o regime, permanente | o prêmio queima quem não for rank 8 do caminho certo — e por isso o mercado em volta fica livre | Desastre natural com tesouro dentro, e depois um mundo com regras novas |
+| [[27 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] | **estado do mundo**, não cenário | qualquer | indefinida | os grandes se vigiam entre si e agem por procuradores | Ambientação, não sessão: drama de consequência em que todo mundo escolhe padrinho |
+| [[28 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] | **consulta**, não cenário | — | — | — | Nenhuma: é a nota que responde "por que isto está aqui?" |
 
 ## As travas
 
@@ -123,77 +123,77 @@ obra usa, e todas podem ser copiadas para qualquer cenário novo.
 1. **A zona que destrói quem é grande demais.** Uma construção enterrada vaza uma zona proibida a
    imortais: quanto mais fundo um Gu Imortal entra, mais fraco fica, até a abertura dele ser destruída
    em cinquenta ou sessenta passos. Resultado: uma guerra de cem dias travada **só por mortais de rank
-   3 a 5**, com dezenas de imortais parados a dez mil li apostando de fora. → [[16 - A Montanha Yi Tian|16]]
+   3 a 5**, com dezenas de imortais parados a dez mil li apostando de fora. → [[15 - A Montanha Yi Tian|16]]
 2. **Ser fraco é a credencial de entrada.** Nas grandes zonas selvagens, a aura de um Gu Imortal
    provoca as feras mais perigosas do mundo e desencadeia uma maré que denuncia quem a causou; a de um
    mortal, não. Os poderosos literalmente não conseguem entrar, mandam mortais na frente e esperam do
-   lado de fora. → [[12 - As Terras Ferozes e o Subsolo do Mundo|12]], [[03 - Marés de Bestas|03]]
+   lado de fora. → [[11 - As Terras Ferozes e o Subsolo do Mundo|12]], [[02 - Marés de Bestas|03]]
 3. **O gigante quebra a casa.** Um Gu Imortal é feito de marcas do Dao; um mundo-fragmento tem marcas
    esparsas e está desmoronando. Entrar é um gigante entrando numa casinha: a casa cai e o tesouro se
    destrói junto. **Só discípulos mortais entram**, com hora marcada e lista de encomendas, enquanto os
-   poderosos observam pelas rachaduras. → [[11 - Os Cacos do Céu Estrelado|11]]
+   poderosos observam pelas rachaduras. → [[10 - Os Cacos do Céu Estrelado|11]]
 4. **A supressão dentro da herança.** Heranças remodelam o interior para nivelar quem entra: uma admite
    **um único Gu de rank 1 e nada mais**, e a única forma de crescer é vencer rodadas; outra sela todos
    os Gu, inclusive os de movimento, e obriga a subir com o corpo. →
-   [[09 - A Herança dos Três Reis|09]], [[10 - A Subida da Montanha Dang Hun|10]]
+   [[08 - A Herança dos Três Reis|09]], [[09 - A Subida da Montanha Dang Hun|10]]
 5. **A formação que prende cada um no seu andar.** Uma super formação teleporta o invasor à força para
    o pico compatível com o rank dele, e o senhor de cada pico não pode sair do seu — **inclusive o mais
    forte de todos, proibido de descer para esmagar quem é fraco**. →
-   [[20 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|20]]
+   [[19 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|20]]
 6. **O lugar onde nada funciona.** Num certo domínio, nenhum Gu funciona e nenhuma abertura abre: os Gu
    ficam como fósseis, um cadáver do topo da escala é peso morto, e a briga vira corpo a corpo. Lá, um
    rank 6 segura um rank 8 — e a obra mostra isso acontecendo. →
-   [[20 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|20]]
+   [[19 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|20]]
 7. **A proibição institucional.** Um dos maiores terrenos de herança do mundo **proíbe imortais de
    entrar**, e é exatamente por isso que suas heranças sobreviveram intactas por milênios. →
-   [[14 - O Ciclo Decenal das Planícies do Norte|14]], [[15 - O Edifício dos Oitenta e Oito Andares|15]]
+   [[13 - O Ciclo Decenal das Planícies do Norte|14]], [[14 - O Edifício dos Oitenta e Oito Andares|15]]
 8. **O espírito da terra que se autodestrói.** Um Gu Imortal não toma uma terra abençoada à força
    porque o espírito dela pode se matar levando o mundo inteiro junto — e o agressor sai ferido e sem
    nada. Por isso as grandes seitas mandam discípulos jovens em vez de irem elas mesmas. →
-   [[19 - Cercos e Invasões de Terras Abençoadas|19]]
+   [[18 - Cercos e Invasões de Terras Abençoadas|19]]
 9. **O contrato entre os poderosos.** Quando os fortes não podem entrar, eles apostam: cada imortal
    aposta bens, e a aposta define **de que rank pode ser o seu peão e quando ele entra**. Trapaça custa
    confisco total, e todos cooperam espontaneamente, porque quebrar as regras é declarar guerra a todos
-   os outros. → [[16 - A Montanha Yi Tian|16]]
+   os outros. → [[15 - A Montanha Yi Tian|16]]
 10. **A trégua obrigatória.** No maior torneio de artesãos do mundo, a única regra absoluta é não lutar
     e não matar: criminosos procurados se inscrevem abertamente sem risco de prisão, mortais e imortais
     competem nas mesmas provas, e imortais escondem o próprio rank porque **perder para um mortal
-    acontece de verdade**. → [[22 - Leilões, Cúpulas e Guerras de Mercado|22]],
-    [[13 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|13]], [[25 - A Guerra do Destino|25]]
+    acontece de verdade**. → [[21 - Leilões, Cúpulas e Guerras de Mercado|22]],
+    [[12 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|13]], [[24 - A Guerra do Destino|25]]
 11. **O custo proporcional.** Existe uma estrada em que cada passo consome força, vontade e essência
     **proporcionalmente à fundação de quem anda**. A dificuldade é rigorosamente a mesma para todos, e
     por isso Gu Masters frequentemente ultrapassam Gu Imortais. →
-    [[23 - A Cerimônia das Miríades de Tribos e a Estrada da Vida|23]]
+    [[22 - A Cerimônia das Miríades de Tribos e a Estrada da Vida|23]]
 12. **O ambiente que nivela.** Dentro de certos mundos fechados a diferença entre imortal e mortal é
     mínima: um grupo organizado de Gu Masters pode derrotar um Gu Imortal, e a prova mede organização e
-    criatividade, não força bruta. → [[28 - O Mundo em Véspera de Guerra|28]]
+    criatividade, não força bruta. → [[27 - O Mundo em Véspera de Guerra|28]]
 13. **A janela em que os fortes estão dormindo.** Quando o mundo passa por uma maré de energia, toda
     abertura imortal fica instável e o dono é forçado a se recolher — e **quanto mais forte a fundação,
     mais tempo leva a recuperação**. O mundo pertence literalmente aos fracos enquanto dura. →
-    [[24 - A Grande Era e as Marés de Qi|24]]
+    [[23 - A Grande Era e as Marés de Qi|24]]
 14. **A fronteira que pune os grandes.** Atravessar uma parede regional deixa um imortal com metade da
     força e o fere se ele usar um golpe — e quanto mais alto o cultivo, pior a travessia. Perseguidores
-    poderosos simplesmente não seguem alguém através do mundo. → [[17 - Caçadas, Emboscadas e Fugas|17]]
+    poderosos simplesmente não seguem alguém através do mundo. → [[16 - Caçadas, Emboscadas e Fugas|17]]
 15. **A ocupação dos poderosos.** A trava mais banal de todas, e a que serve para qualquer sessão: os
     fortes estão ocupados. Três potências empatadas numa disputa, uma região inteira olhando para um
     refino que dura sete dias, uma guerra em quatro frentes — enquanto isso, ninguém está olhando para o
-    seu grupo. → [[18 - Quando uma Força Morre|18]], [[28 - O Mundo em Véspera de Guerra|28]]
+    seu grupo. → [[17 - Quando uma Força Morre|18]], [[27 - O Mundo em Véspera de Guerra|28]]
 16. **O poderoso é o alvo, não o socorro.** Numa provação, o desastre é calibrado pelo poder de quem o
     sofre: o dono da casa é a pessoa mais forte do lugar **e está inteiramente ocupado em não morrer**,
     de modo que todo o resto do trabalho cai sobre a equipe mortal que ele contratou. Aumentar a força
     do grupo **não** resolve nada aqui, porque o adversário não é uma criatura: é uma conta. →
-    [[21 - Calamidades e Tribulações como Cenário|21]]
+    [[20 - Calamidades e Tribulações como Cenário|21]]
 17. **O lugar que enlouquece quem entra.** Uma zona cujo som ambiente embaralha as marcas do Dao e
     **enlouquece até um Gu Imortal de rank 8**. A profundidade que alguém alcança depende do
     *attainment* — do domínio teórico do caminho —, não do rank, e três eremitas que moram ali há
     séculos não ousam passar da sexta das nove camadas. Ali, força não compra profundidade. →
-    [[26 - A Caverna do Demônio Enlouquecido|26]]
+    [[25 - A Caverna do Demônio Enlouquecido|26]]
 18. **O prêmio que os fracos não podem tocar — e por isso não disputam.** O material que chove do céu
     numa certa catástrofe queima qualquer um que não seja grande especialista de rank 8 do caminho
     certo. O efeito é contraintuitivo e ótimo: como a posse está fora de alcance, os poderosos disputam
     a posse entre si e **deixam livre tudo o que está em volta dela** — localizar, escoltar, proteger e
     vender a informação. Os fracos não competem pelo prêmio; competem pelo mercado que ele cria. →
-    [[27 - A Morte do Sol e o Céu Espectral|27]]
+    [[26 - A Morte do Sol e o Céu Espectral|27]]
 
 > [!note] Para o design
 > Trate a lista acima como um **cardápio**, não como curiosidades. Se você inventar um acontecimento
@@ -278,10 +278,10 @@ do mundo é generoso e aberto a qualquer um (ver
 [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]]). Que **o mundo tem um antes e
 um depois** — existe uma mudança estrutural prevista e nomeada em que as fronteiras entre regiões se
 dissolvem e uma guerra generalizada passa a ser considerada inevitável por todos (ver
-[[24 - A Grande Era e as Marés de Qi|24]] e [[28 - O Mundo em Véspera de Guerra|28]]). E que **existe um
+[[23 - A Grande Era e as Marés de Qi|24]] e [[27 - O Mundo em Véspera de Guerra|28]]). E que **existe um
 degrau de catástrofe acima de tudo o que os personagens conhecem**, vindo de fora da fronteira do mundo,
 e que um rombo nessa fronteira cresce sozinho e pode destruir o mundo inteiro (ver
-[[26 - A Caverna do Demônio Enlouquecido|26]]).
+[[25 - A Caverna do Demônio Enlouquecido|26]]).
 
 > [!note] Para o design — como usar um evento como espinha de campanha
 > `*` Escolha um evento com **relógio declarado** — um ciclo de três anos, uma nevasca daqui a dez, uma
@@ -311,19 +311,19 @@ e que um rombo nessa fronteira cresce sozinho e pode destruir o mundo inteiro (v
 - [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos privados que sofrem
   calamidade, são sitiados e viram herança.
 - [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — a teoria por trás do desastre agendado;
-  [[21 - Calamidades e Tribulações como Cenário|a nota desta pasta]] descreve como é estar dentro de um.
+  [[20 - Calamidades e Tribulações como Cenário|a nota desta pasta]] descreve como é estar dentro de um.
 - [[12 - Heranças e Provações|Heranças e Provações]] — a instituição da herança;
-  [[08 - Aberturas de Herança|Aberturas de Herança]] descreve a abertura como cenário.
+  [[07 - Aberturas de Herança|Aberturas de Herança]] descreve a abertura como cenário.
 - [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário das
   instituições que produzem evento por funcionamento normal.
 - [[10 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado, abastecido e
   gasto; esta pasta descreve as guerras concretas.
 - [[06 - Mercados e Leilões|Mercados e Leilões]] — a economia por trás de
-  [[22 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]].
+  [[21 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]].
 - [[04 - As Cinco Regiões|As Cinco Regiões]] e
   [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] — a
   geografia e as zonas de perigo onde a maioria destes eventos ocorre.
 - [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a cronologia;
-  [[29 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] dá as causas.
+  [[28 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] dá as causas.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do
   sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

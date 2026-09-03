@@ -99,7 +99,7 @@ Mas o sistema tem uma trava, e ela é a coisa mais importante desta nota:
 > **O que nenhuma herança faz é entregar o nono degrau: nenhum verdadeiro
 > significado documentado concede supremo grão-mestre** — porque supremo
 > grão-mestre exige **inovação própria**, e inovação, por definição, não se herda.
-> Um legado só contém o que o antecessor já criou. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar com nome e endereço: o ==Domínio Primordial (Primordial Domain)==, um dos domínios reclusos do céu e da terra, citado no mito fundador do mundo em termos vagos o bastante para cada leitor entender uma coisa. Quem entra nele tem **um** caminho elevado diretamente a supremo grão-mestre. Ele fica na **camada mais profunda, a nona, da [[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]** — não por acaso: um Venerável o retirou de onde estava originalmente e o instalou ali, usando-o junto com um Gu Imortal de rank 9 para derivar mundos novos e marcas de lei inéditas. É, por isso, o gargalo geográfico de toda corrida pelo topo.
+> Um legado só contém o que o antecessor já criou. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar com nome e endereço: o ==Domínio Primordial (Primordial Domain)==, um dos domínios reclusos do céu e da terra, citado no mito fundador do mundo em termos vagos o bastante para cada leitor entender uma coisa. Quem entra nele tem **um** caminho elevado diretamente a supremo grão-mestre. Ele fica na **camada mais profunda, a nona, da [[25 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]** — não por acaso: um Venerável o retirou de onde estava originalmente e o instalou ali, usando-o junto com um Gu Imortal de rank 9 para derivar mundos novos e marcas de lei inéditas. É, por isso, o gargalo geográfico de toda corrida pelo topo.
 
 **Onde exatamente fica o teto, então?** A obra dá duas medidas que precisam ser
 lidas juntas. Como *regra enunciada*, ela diz que reinos de sonho e heranças
@@ -132,7 +132,7 @@ A regra do mundo enunciada no mesmo trecho: "o homem é o espírito de todos os 
 
 - [[16 - Dao Marks|Dao Marks]] — o outro eixo do reino imortal; poder contra compreensão.
 - [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — onde o attainment vira requisito de entrada para anexar aberturas.
-- [[40 - Anexação de Aberturas|Anexação de Aberturas]] — o caso completo, com a tabela de qual degrau destranca qual classe de território.
+- [[33 - Anexação de Aberturas|Anexação de Aberturas]] — o caso completo, com a tabela de qual degrau destranca qual classe de território.
 - [[14 - Ascensão Imortal|Ascensão Imortal]] — grão-mestre como uma das duas fontes de human qi abundante.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — supremo grão-mestre como a terceira das quatro condições.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — por que dois cultivadores do mesmo rank não valem o mesmo.

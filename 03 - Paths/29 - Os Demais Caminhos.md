@@ -321,7 +321,7 @@ poucos e ele passou a **cair em estados demoníacos de loucura**, chegando a ata
 aliados sem controle. Ele sabia que o método não era o ideal e insistiu mesmo assim, escondendo-o de
 todos. É o registro mais claro da obra de que **um golpe mal terminado não falha: ele funciona, e
 cobra na cabeça de quem o usa**. Ver
-[[33 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
+[[27 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
 
 **E o melhor estudo de caso de gargalo de domínio da obra inteira:** *os supremos anciãos da tribo
 todos me elogiavam como um gênio de lâmina raro de se ver uma vez a cada mil anos, mas **eu ainda
@@ -459,7 +459,7 @@ nascimento:
 | **Reencarnação** | — a obra não descreve |
 
 E há a **extensão de vida yin-yang**, guardada dentro do
-[[15 - O Edifício dos Oitenta e Oito Andares|Edifício dos Oitenta e Oito Yang Verdadeiros]] — a Casa
+[[14 - O Edifício dos Oitenta e Oito Andares|Edifício dos Oitenta e Oito Yang Verdadeiros]] — a Casa
 de Gu Imortal de rank 8 do próprio Giant Sun, que é o cofre-masmorra das Planícies do Norte. O
 método exige **um imortal homem e
 uma imortal mulher cooperando, usando a cópula para estender a longevidade de um dos dois**. A
@@ -515,7 +515,7 @@ próprias". Não significa: o caminho fantasma tem as suas.
 
 Este é o achado mais estranho e mais aproveitável da nota.
 
-Esse lugar tem nome: a ==[[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]==
+Esse lugar tem nome: a ==[[25 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]==
 (*Crazed Demon Cave*), a escavação subterrânea que o **Limitless Demon Venerable** deixou no
 Continente Central. Lá dentro, marcas do Dao de todos os caminhos estão misturadas em caos
 permanente — e, ali, **marcas do Dao inteiramente novas se formam sozinhas**.

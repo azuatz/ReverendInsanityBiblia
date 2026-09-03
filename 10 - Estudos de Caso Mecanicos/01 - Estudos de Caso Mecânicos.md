@@ -54,23 +54,23 @@ combate, economia e vida social. Se você ler só esta lista, terá o esqueleto 
 | [[06 - Um Gu Acima do Próprio Rank\|Um Gu Acima do Próprio Rank]] | O sistema arbitra vontades, não rótulos. E a técnica mais cotidiana do mundo: a aura de um mentor transforma um refino de dias num de segundos, de graça. |
 | [[07 - Romper o Rank 2 por Teimosia e Pedras\|Romper o Rank 2 por Teimosia e Pedras]] | O caso que define a economia do cenário: aptidão baixa não fecha a porta, põe pedágio nela — e o pedágio encarece a cada rank. |
 | [[09 - Os Dois Atalhos que se Anularam\|Os Dois Atalhos que se Anularam]] | Os dois atalhos mais caros do sistema, e a regra que governa o vault inteiro: quando dois efeitos disputam a mesma coisa, vence o de rank mais alto, nunca o aplicado primeiro. |
-| [[16 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor]] | Atenção é um recurso separado da energia, e o teto é três. Manter é grátis; mudar é que custa caro. É a trava que impede empilhar defesas. |
-| [[19 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo e numa guerra de exércitos — e a razão de existir de um caminho de cultivo inteiro. |
-| [[35 - Todos os Multiplicadores de um Refino\|Todos os Multiplicadores de um Refino]] | A pilha completa do que aumenta e do que sabota uma taxa de sucesso, com um sucesso caríssimo e três fracassos lado a lado. Nenhum preparo compra certeza. |
-| [[24 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, tem prazo de validade e vale zero quando todos a têm. É a economia inteira do mundo em quatro jogadas. |
-| [[28 - Brechas de Contrato Mágico\|Brechas de Contrato Mágico]] | Quatro brechas reais. Todo sistema de garantia deste mundo confere palavras e não entende nada — vale para juramentos, selos e proteções. |
-| [[29 - Reputação Comprada em Prestações\|Reputação Comprada em Prestações]] | Não existe polícia neste mundo; existe reputação, e ela tem preço de tabela. É o que substitui a lei em qualquer negociação da mesa. |
+| [[15 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor]] | Atenção é um recurso separado da energia, e o teto é três. Manter é grátis; mudar é que custa caro. É a trava que impede empilhar defesas. |
+| [[16 - Guerra de Custos|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo e numa guerra de exércitos — e a razão de existir de um caminho de cultivo inteiro. |
+| [[29 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] | A pilha completa do que aumenta e do que sabota uma taxa de sucesso, com um sucesso caríssimo e três fracassos lado a lado. Nenhum preparo compra certeza. |
+| [[20 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, tem prazo de validade e vale zero quando todos a têm. É a economia inteira do mundo em quatro jogadas. |
+| [[23 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] | Quatro brechas reais. Todo sistema de garantia deste mundo confere palavras e não entende nada — vale para juramentos, selos e proteções. |
+| [[24 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] | Não existe polícia neste mundo; existe reputação, e ela tem preço de tabela. É o que substitui a lei em qualquer negociação da mesa. |
 
 > [!warning] Aviso de calibragem — leia antes de extrair uma curva de dificuldade
 > **Quase todos estes casos terminam em sucesso.** Cinco terminam em fracasso limpo —
 > [[09 - Os Dois Atalhos que se Anularam\|Os Dois Atalhos que se Anularam]],
-> [[14 - A Barreira Que Deixa Sair e Não Deixa Entrar\|A Barreira Que Deixa Sair]],
-> [[33 - Um Golpe Mal Testado Usado Além do Limite\|Um Golpe Mal Testado]],
-> [[42 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda]] e
-> [[43 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] — e são, justamente por isso, os
+> [[13 - A Barreira Que Deixa Sair e Não Deixa Entrar|A Barreira Que Deixa Sair]],
+> [[27 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado]],
+> [[35 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda]] e
+> [[36 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] — e são, justamente por isso, os
 > mais didáticos do conjunto. Dois outros trazem fracasso e sucesso lado a lado, com a mesma pessoa
-> e a mesma competência: [[35 - Todos os Multiplicadores de um Refino\|Todos os Multiplicadores de
-> um Refino]] e [[46 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]]. Leia esses sete
+> e a mesma competência: [[29 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de
+> um Refino]] e [[39 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]]. Leia esses sete
 > antes de calibrar dificuldade, para não construir um sistema em que o plano esperto sempre
 > funciona.
 
@@ -94,40 +94,40 @@ da nota correspondente.
 | [[10 - Caçar o Que Não se Vê\|Caçar o Que Não se Vê]] | Invisibilidade não esconde rastros | baixo | Regra — não exige item nenhum |
 | [[11 - Roubar o Gu de um Moribundo\|Roubar o Gu de um Moribundo]] | O roubo barateia conforme a vítima piora | baixo | Regra, limitada pelo rank da ferramenta |
 | [[12 - Fugir de um Enxame e Sair Montado\|Fugir de um Enxame e Sair Montado]] | Fuga é orçamento; enxame tem um nó | baixo | Regra — o raro é o repertório, não o poder |
-| [[14 - A Barreira Que Deixa Sair e Não Deixa Entrar\|A Barreira Que Deixa Sair]] | Proteção de mão única aprisiona o dono | médio | Regra universal |
-| [[15 - O Ambiente Manda Mais que o Rank\|O Ambiente Manda Mais que o Rank]] | O terreno desliga categorias inteiras | médio/imortal | Regra ambiental, com isenções individuais |
-| [[16 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor]] | Atenção é recurso; o teto é três | baixo | Regra estrutural, para todo Mestre Gu |
-| [[19 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano | médio | Regra estrutural — define um caminho inteiro |
-| [[21 - Aposta de Rochas - Heurística, Perda e Álibi\|Aposta de Rochas]] | Nove em dez pedras são vazias | baixo | Regra — instituição estável; o álibi é o produto real |
-| [[22 - Ganhar um Leilão Sem Ser o Maior Lance\|Ganhar um Leilão]] | Vence quem lê melhor a mesa | qualquer | Regra, nos três formatos de leilão |
-| [[23 - Colher a Flor Antes do Prazo\|Colher a Flor Antes do Prazo]] | Colher antes do prazo mata a fonte | médio | Regra — pagamento à vista, fonte destruída |
-| [[24 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | Informação antecipa preço, não se gasta e vence o prazo | qualquer | Regra corrente e legal |
-| [[26 - A Conta de uma Calamidade\|A Conta de uma Calamidade]] | Um desastre é uma planilha, e alguém a fecha | médio | Regra — o balanço tem sempre este formato |
-| [[27 - Guerra de Preços\|Guerra de Preços]] | Quem tem a fonte tem o setor | imortal | Regra de mercado; possuir a fonte é que é exceção |
-| [[28 - Brechas de Contrato Mágico\|Brechas de Contrato Mágico]] | O contrato lê palavras, não intenção | qualquer | Regra absoluta e universal |
-| [[29 - Reputação Comprada em Prestações\|Reputação Comprada em Prestações]] | Reputação se compra, e em prestações | qualquer | Regra estruturante — com preço de tabela |
-| [[31 - Infiltrar-se numa Organização\|Infiltrar-se numa Organização]] | Identidade tem vários canais de verificação | médio/imortal | Regra dos dois lados da mesa |
-| [[32 - Uma Receita Lendária Cumprida com Substitutos\|Receita Lendária com Substitutos]] | Receita antiga pede atributo, não objeto | médio | Regra no princípio; exceção nos materiais |
-| [[33 - Um Golpe Mal Testado Usado Além do Limite\|Um Golpe Mal Testado]] | Cada peça de um golpe impõe uma condição | médio | Regra dura — é a trava de equilíbrio dos golpes |
-| [[34 - Do Golpe à Formação\|Do Golpe à Formação]] | Efeito caro e momentâneo vira estado barato | imortal | Regra geral de engenharia de efeitos |
-| [[35 - Todos os Multiplicadores de um Refino\|Todos os Multiplicadores de um Refino]] | Nenhum preparo compra certeza | imortal | Regra — exceto um item, e mesmo ele tem cláusulas |
-| [[36 - A Linha de Produção de Gu\|A Linha de Produção de Gu]] | Fatiar a receita protege o segredo | qualquer | Regra — exige capital, mão de obra e receita exclusiva |
-| [[37 - O Gu Que Escolhe o Portador\|O Gu Que Escolhe o Portador]] | A trava lê o estado interno, não a moral | médio | Regra no princípio; exceção quanto ao lugar |
-| [[38 - O Espírito Guardião de um Território\|O Espírito Guardião de um Território]] | Reconhecimento é uma trava separada da força | médio | Regra dura nas duas metades — enganar é barato; invadir e depois pedir **não funciona** |
-| [[40 - Anexação de Aberturas\|Anexação de Aberturas]] | Fundação vence rank | imortal | Regra do sistema; a fundação é que foi excepcional |
-| [[41 - Roubo de um Gu Imortal de Rank Superior\|Roubo de um Gu Imortal]] | O relógio é mais difícil que o roubo | imortal | Estrutura é regra; o alvo é que foi exceção |
-| [[42 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda]] | Há defesas que lucram com cada teste | imortal | Método é regra; a construção é exceção de altíssimo nível |
-| [[43 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | A lista de bloqueios da adivinhação é fechada | imortal | Regra do sistema — e o teto é por rank |
-| [[44 - Curar o Dano para Repetir o Dano\|Curar o Dano para Repetir o Dano]] | Dano mais cura tornam o finito infinito | médio/imortal | Regra econômica; a escala industrial é exceção |
-| [[45 - A Tribulação Como Matéria-Prima\|A Tribulação Como Matéria-Prima]] | A prova é montada com o terreno — e é colhível por terceiros | imortal | Regra nas duas metades; a escala industrial é exceção |
-| [[46 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor | imortal | Método é regra; a escala imortal é exceção |
+| [[13 - A Barreira Que Deixa Sair e Não Deixa Entrar|A Barreira Que Deixa Sair]] | Proteção de mão única aprisiona o dono | médio | Regra universal |
+| [[14 - O Ambiente Manda Mais que o Rank|O Ambiente Manda Mais que o Rank]] | O terreno desliga categorias inteiras | médio/imortal | Regra ambiental, com isenções individuais |
+| [[15 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor]] | Atenção é recurso; o teto é três | baixo | Regra estrutural, para todo Mestre Gu |
+| [[16 - Guerra de Custos|Guerra de Custos]] | Compare custo por ação, não dano | médio | Regra estrutural — define um caminho inteiro |
+| [[17 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas]] | Nove em dez pedras são vazias | baixo | Regra — instituição estável; o álibi é o produto real |
+| [[18 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão]] | Vence quem lê melhor a mesa | qualquer | Regra, nos três formatos de leilão |
+| [[19 - Colher a Flor Antes do Prazo|Colher a Flor Antes do Prazo]] | Colher antes do prazo mata a fonte | médio | Regra — pagamento à vista, fonte destruída |
+| [[20 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] | Informação antecipa preço, não se gasta e vence o prazo | qualquer | Regra corrente e legal |
+| [[21 - A Conta de uma Calamidade|A Conta de uma Calamidade]] | Um desastre é uma planilha, e alguém a fecha | médio | Regra — o balanço tem sempre este formato |
+| [[22 - Guerra de Preços|Guerra de Preços]] | Quem tem a fonte tem o setor | imortal | Regra de mercado; possuir a fonte é que é exceção |
+| [[23 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] | O contrato lê palavras, não intenção | qualquer | Regra absoluta e universal |
+| [[24 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] | Reputação se compra, e em prestações | qualquer | Regra estruturante — com preço de tabela |
+| [[25 - Infiltrar-se numa Organização|Infiltrar-se numa Organização]] | Identidade tem vários canais de verificação | médio/imortal | Regra dos dois lados da mesa |
+| [[26 - Uma Receita Lendária Cumprida com Substitutos|Receita Lendária com Substitutos]] | Receita antiga pede atributo, não objeto | médio | Regra no princípio; exceção nos materiais |
+| [[27 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado]] | Cada peça de um golpe impõe uma condição | médio | Regra dura — é a trava de equilíbrio dos golpes |
+| [[28 - Do Golpe à Formação|Do Golpe à Formação]] | Efeito caro e momentâneo vira estado barato | imortal | Regra geral de engenharia de efeitos |
+| [[29 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] | Nenhum preparo compra certeza | imortal | Regra — exceto um item, e mesmo ele tem cláusulas |
+| [[30 - A Linha de Produção de Gu|A Linha de Produção de Gu]] | Fatiar a receita protege o segredo | qualquer | Regra — exige capital, mão de obra e receita exclusiva |
+| [[31 - O Gu Que Escolhe o Portador|O Gu Que Escolhe o Portador]] | A trava lê o estado interno, não a moral | médio | Regra no princípio; exceção quanto ao lugar |
+| [[32 - O Espírito Guardião de um Território|O Espírito Guardião de um Território]] | Reconhecimento é uma trava separada da força | médio | Regra dura nas duas metades — enganar é barato; invadir e depois pedir **não funciona** |
+| [[33 - Anexação de Aberturas|Anexação de Aberturas]] | Fundação vence rank | imortal | Regra do sistema; a fundação é que foi excepcional |
+| [[34 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal]] | O relógio é mais difícil que o roubo | imortal | Estrutura é regra; o alvo é que foi exceção |
+| [[35 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda]] | Há defesas que lucram com cada teste | imortal | Método é regra; a construção é exceção de altíssimo nível |
+| [[36 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] | A lista de bloqueios da adivinhação é fechada | imortal | Regra do sistema — e o teto é por rank |
+| [[37 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] | Dano mais cura tornam o finito infinito | médio/imortal | Regra econômica; a escala industrial é exceção |
+| [[38 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] | A prova é montada com o terreno — e é colhível por terceiros | imortal | Regra nas duas metades; a escala industrial é exceção |
+| [[39 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor | imortal | Método é regra; a escala imortal é exceção |
 
 > [!note] Os buracos na numeração são de propósito
 > Os prefixos dos arquivos pulam alguns números. É o rastro de uma limpeza: os casos que ensinavam
 > só uma curiosidade sobre um objeto único, ou só uma esperteza de personagem, foram removidos, e a
 > mecânica aproveitável de cada um mudou de endereço — a supressão de uma constituição extrema por
 > um par de Gu está em [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]]; a
-> doutrina de força-tarefa, em [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]]; o
+> doutrina de força-tarefa, em [[16 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]]; o
 > blefe de patamar de uma fera, em [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]; a vaga que
 > reabre quando um artefato único é destruído, em [[16 - Gu Imortais|Gu Imortais]]; e o rastro
 > periférico de um encobrimento, em
@@ -242,7 +242,7 @@ Cinco termos destravam a pasta inteira, se você está lendo do zero:
 | **Dao marks** | fragmentos de lei do universo gravados no corpo de um imortal; o atributo de progressão do reino imortal | [[16 - Dao Marks\|Dao Marks]] |
 | **Attainment** | o domínio *teórico* de um caminho — quanto você entende, não quanta energia tem; eixo independente do rank | [[08 - Attainment\|Attainment]] |
 
-Uma sexta, **fundação**, é definida em [[40 - Anexação de Aberturas|Anexação de Aberturas]], onde
+Uma sexta, **fundação**, é definida em [[33 - Anexação de Aberturas|Anexação de Aberturas]], onde
 ela é decisiva.
 
 ## Relações

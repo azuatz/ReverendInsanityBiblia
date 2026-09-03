@@ -133,7 +133,7 @@ Nenhuma nota alheia foi editada além do link.
 
 | Arquivo | Antes | Depois |
 |---|---|---|
-| `00 - Trilha do Jogador.md` | `[[02 - A Maré de Lobos…]] · [[03 - Marés de Bestas]] · …` | link removido da lista; `Marés de Bestas` passa a abrir a linha |
+| `00 - Trilha do Jogador.md` | `[[02 - A Maré de Lobos…]] · [[02 - Marés de Bestas|03 - Marés de Bestas]] · …` | link removido da lista; `Marés de Bestas` passa a abrir a linha |
 | `09/01 - Visão Geral dos Eventos.md` | linha 1 de "Leia estes primeiro" | trocada por `Marés de Bestas`, com a menção ao exemplo trabalhado |
 | `09/01 - Visão Geral dos Eventos.md` | linha própria na tabela de escolha rápida | removida; a linha de `Marés de Bestas` ganhou a menção à campanha de vila |
 | `09/03 - Marés de Bestas.md` | dois ponteiros "o exemplar completo está em `02`" | passaram a apontar para a seção interna nova |

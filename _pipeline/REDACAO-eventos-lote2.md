@@ -203,53 +203,53 @@ Estas são as remissões que **outras** notas do vault deveriam passar a ter. N�
 porque estão fora dos meus arquivos.
 
 **Na pasta `06 - Economia e Vida`:**
-- `07 - Heranças e Provações` → deveria apontar para `[[08 - Aberturas de Herança]]` como "a
+- `07 - Heranças e Provações` → deveria apontar para `[[07 - Aberturas de Herança|08 - Aberturas de Herança]]` como "a
   abertura vista de dentro", e para as três heranças com nota própria (`09`, `10`, `13`).
 - `05 - Mercados e Leilões` → deveria mencionar que uma abertura de herança grande produz um
-  mercado inteiro em semanas, com remissão a `[[09 - A Herança dos Três Reis]]` (os Gu de
+  mercado inteiro em semanas, com remissão a `[[08 - A Herança dos Três Reis|09 - A Herança dos Três Reis]]` (os Gu de
   entrada triplicando de preço, informação sobre o interior a centenas de milhares de pedras).
-- `08 - Eventos e Instituições Jogáveis` → deveria remeter a `[[08 - Aberturas de Herança]]`.
+- `08 - Eventos e Instituições Jogáveis` → deveria remeter a `[[07 - Aberturas de Herança|08 - Aberturas de Herança]]`.
 
 **Na pasta `04 - Mundo`:**
 - `09 - Blessed Lands e Grotto-Heavens` → deveria apontar para
-  `[[11 - Os Cacos do Céu Estrelado]]` no ponto em que trata do destino de uma abertura órfã, e
-  para `[[12 - As Terras Ferozes e o Subsolo do Mundo]]` na parte da abertura órfã como sítio de
+  `[[10 - Os Cacos do Céu Estrelado|11 - Os Cacos do Céu Estrelado]]` no ponto em que trata do destino de uma abertura órfã, e
+  para `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]` na parte da abertura órfã como sítio de
   exploração.
 - `18 - O Selvagem, as Ruínas e as Zonas Proibidas` e `19 - O Subsolo` → ambas deveriam apontar
-  para `[[12 - As Terras Ferozes e o Subsolo do Mundo]]`, que é a versão jogável do assunto.
+  para `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]`, que é a versão jogável do assunto.
 - `08 - Lendas de Ren Zu` → deveria mencionar que a montanha Dang Hun das lendas **existe de
   verdade** dentro de uma terra abençoada, com remissão a
-  `[[10 - A Subida da Montanha Dang Hun]]`.
+  `[[09 - A Subida da Montanha Dang Hun|10 - A Subida da Montanha Dang Hun]]`.
 
 **Na pasta `03 - Paths`:**
-- `19 - Dream Path` → deveria remeter a `[[12 - As Terras Ferozes e o Subsolo do Mundo]]` e a
-  `[[11 - Os Cacos do Céu Estrelado]]` como os dois lugares onde reinos de sonho aparecem como
+- `19 - Dream Path` → deveria remeter a `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]` e a
+  `[[10 - Os Cacos do Céu Estrelado|11 - Os Cacos do Céu Estrelado]]` como os dois lugares onde reinos de sonho aparecem como
   cenário.
 - `12 - Wisdom Path` → a tartaruga da essência oculta como auxiliar de dedução, e a herança de
-  sabedoria escondida na cabeça de um herdeiro, ambas em `[[08 - Aberturas de Herança]]` e
-  `[[11 - Os Cacos do Céu Estrelado]]`.
-- `06 - Enslavement Path` → `[[09 - A Herança dos Três Reis]]` é o melhor estudo de caso de
+  sabedoria escondida na cabeça de um herdeiro, ambas em `[[07 - Aberturas de Herança|08 - Aberturas de Herança]]` e
+  `[[10 - Os Cacos do Céu Estrelado|11 - Os Cacos do Céu Estrelado]]`.
+- `06 - Enslavement Path` → `[[08 - A Herança dos Três Reis|09 - A Herança dos Três Reis]]` é o melhor estudo de caso de
   escravização da obra, incluindo a escada de Gu de coragem (rank 2 → 3 → 4 → 5) e a falha ao
   dominar um rei-fera por causa dos Gu naturais dele.
 
 **Na pasta `01 - Cultivo`:**
 - `12 - Dao Marks` → deveria registrar que **ser feito de marcas do dao impede fisicamente um
-  imortal de entrar num mundo frágil**, com remissão a `[[11 - Os Cacos do Céu Estrelado]]`.
+  imortal de entrar num mundo frágil**, com remissão a `[[10 - Os Cacos do Céu Estrelado|11 - Os Cacos do Céu Estrelado]]`.
 
 **Na pasta `10 - Apendices`:**
 - `02 - Tabelas de Referência Rápida`, seção 16 (Fundação de alma) → poderia registrar o caso
   canônico de que a fundação de alma de um rank 5 idoso supera a de jovens gênios da mesma
-  geração, com remissão a `[[10 - A Subida da Montanha Dang Hun]]`.
+  geração, com remissão a `[[09 - A Subida da Montanha Dang Hun|10 - A Subida da Montanha Dang Hun]]`.
 - `10 - Catálogo de Bestas e Reis Fera` → o peixe-dragão desolado (a besta desolada de menor
   força de combate; carne como comida universal de Gu), a tartaruga da essência oculta e a erva
-  do submundo, todos de `[[11 - Os Cacos do Céu Estrelado]]`; e o caracol cuja secreção só se
-  colhe em janela de respirações, de `[[12 - As Terras Ferozes e o Subsolo do Mundo]]`.
+  do submundo, todos de `[[10 - Os Cacos do Céu Estrelado|11 - Os Cacos do Céu Estrelado]]`; e o caracol cuja secreção só se
+  colhe em janela de respirações, de `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]`.
 
 **Dentro da própria pasta `08`:**
 - `21 - Calamidades e Tribulações como Cenário` → é a nota que detém o calendário de calamidades,
-  o espírito da terra e o vento da assimilação; `[[09 - A Herança dos Três Reis]]` depende dela
+  o espírito da terra e o vento da assimilação; `[[08 - A Herança dos Três Reis|09 - A Herança dos Três Reis]]` depende dela
   e já remete.
-- `26 - A Caverna do Demônio Enlouquecido` → `[[12 - As Terras Ferozes e o Subsolo do Mundo]]`
+- `26 - A Caverna do Demônio Enlouquecido` → `[[11 - As Terras Ferozes e o Subsolo do Mundo|12 - As Terras Ferozes e o Subsolo do Mundo]]`
   a descreve por fora como área feroz de nove camadas e remete; a nota 26 deveria remeter de
   volta.
 - `24 - A Grande Era e as Marés de Qi` → é a causa das Dez Terras e da exposição de terras

@@ -83,13 +83,13 @@ patamar **imortal** é material de mestre. Estas são as notas individuais de n�
   os dois casos que provam que **a aptidão não é fixa** e que existe preço para comprá-la. É a
   descoberta que mais desestabiliza a mesa, porque reabre o futuro de um personagem que se
   achava limitado — e mostra o custo humano de fazê-lo.
-- [[40 - Anexação de Aberturas|Anexação de Aberturas]] ·
-  [[41 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — o que se pode fazer contra a escada de
+- [[33 - Anexação de Aberturas|Anexação de Aberturas]] ·
+  [[34 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — o que se pode fazer contra a escada de
   poder, e por que quase ninguém consegue.
-- [[42 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[43 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·
-  [[44 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] — os limites da previsão e da preparação: o que
+- [[35 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[36 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·
+  [[37 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] — os limites da previsão e da preparação: o que
   acontece quando o lado que planeja melhor ainda assim perde.
-- [[45 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] — o desastre celestial
+- [[38 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] — o desastre celestial
   convertido em infraestrutura, dos dois lados: escolher o terreno da própria prova e colher a prova
   alheia. Saber que dá para **plantar** tribulação é saber que o céu tem uma brecha administrável.
 
@@ -106,16 +106,16 @@ verdadeira de alguns deles é material de mestre**. Guarde para si:
   palco — inclusive torneios cujo objetivo declarado é queimar o excedente de mercenários.
 - **Que o mundo tem um antes e um depois**: uma mudança estrutural prevista e nomeada em que
   as fronteiras entre regiões se dissolvem e a guerra geral passa a ser considerada
-  inevitável. Ver [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] e
-  [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]].
+  inevitável. Ver [[23 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] e
+  [[27 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]].
 - **Que existe um degrau de catástrofe acima de tudo o que os personagens conhecem**: o
   ==desastre caótico==, que não é gerado pelo caminho do céu e sim pelo **Caos que existe fora
   da fronteira do mundo**. Ele apaga o que toca, persegue conexão e — ao contrário de
   calamidades e tribulações — **não pode ser adiado nem driblado por método nenhum**. Um
   Venerável o enfrenta a cada cem anos. É a informação mais
   pesada da pasta, e ela reaparece — sempre no bloco final — em
-  [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] e
-  [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
+  [[20 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] e
+  [[25 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
 
 ## Seções secretas dentro de notas liberadas
 

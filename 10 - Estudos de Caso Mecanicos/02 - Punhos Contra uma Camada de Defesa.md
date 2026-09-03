@@ -79,5 +79,5 @@ capacidade você conhece e consegue exceder".
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — por que uma defesa ligada drena essência continuamente.
 - [[07 - Fusão de Gu|Fusão de Gu]] — como a versão superior desta defesa foi obtida, e a que preço.
 - [[05 - O Catalisador Fora da Receita|O Catalisador Fora da Receita]] — a fusão que dobrou a capacidade citada aqui.
-- [[16 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor que Devolve o Golpe]] — o outro jeito de vencer uma defesa: esgotar a atenção em vez da capacidade.
+- [[15 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor que Devolve o Golpe]] — o outro jeito de vencer uma defesa: esgotar a atenção em vez da capacidade.
 - [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o corpo de um Mestre Gu tem que o de um mortal não tem.

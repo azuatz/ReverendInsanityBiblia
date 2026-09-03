@@ -133,20 +133,20 @@ Os grandes acontecimentos escritos como situação jogável. Estes são os que q
 morador do mundo sabe que existem — e a maioria deles é o que a mesa vai jogar.
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — os cinco motores que produzem evento grande, e as **travas**
   que mantêm os poderosos fora
-- Escala de vila e de clã: [[03 - Marés de Bestas|Marés de Bestas]] ·
-  [[04 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] · [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] ·
-  [[06 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] · [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]]
-- Heranças e lugares fechados: [[08 - Aberturas de Herança|Aberturas de Herança]] · [[09 - A Herança dos Três Reis|A Herança dos Três Reis]] ·
-  [[10 - A Subida da Montanha Dang Hun|A Subida da Montanha Dang Hun]] · [[11 - Os Cacos do Céu Estrelado|Os Cacos do Céu Estrelado]] ·
-  [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] ·
-  [[13 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|O Paraíso da Baleia-Dragão e o Obelisco de Mérito]] ·
-  [[15 - O Edifício dos Oitenta e Oito Andares|O Edifício dos Oitenta e Oito Andares]]
-- Ciclos e guerras regionais: [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] · [[16 - A Montanha Yi Tian|A Montanha Yi Tian]] ·
-  [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] · [[18 - Quando uma Força Morre|Quando uma Força Morre]] ·
-  [[22 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]]
-- Pano de fundo que todo mundo comenta: [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] ·
-  [[25 - A Guerra do Destino|A Guerra do Destino]] · [[27 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]] ·
-  [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] · [[29 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] —
+- Escala de vila e de clã: [[02 - Marés de Bestas|Marés de Bestas]] ·
+  [[03 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] · [[04 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] ·
+  [[05 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] · [[06 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]]
+- Heranças e lugares fechados: [[07 - Aberturas de Herança|Aberturas de Herança]] · [[08 - A Herança dos Três Reis|A Herança dos Três Reis]] ·
+  [[09 - A Subida da Montanha Dang Hun|A Subida da Montanha Dang Hun]] · [[10 - Os Cacos do Céu Estrelado|Os Cacos do Céu Estrelado]] ·
+  [[11 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] ·
+  [[12 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|O Paraíso da Baleia-Dragão e o Obelisco de Mérito]] ·
+  [[14 - O Edifício dos Oitenta e Oito Andares|O Edifício dos Oitenta e Oito Andares]]
+- Ciclos e guerras regionais: [[13 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] · [[15 - A Montanha Yi Tian|A Montanha Yi Tian]] ·
+  [[16 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] · [[17 - Quando uma Força Morre|Quando uma Força Morre]] ·
+  [[21 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]]
+- Pano de fundo que todo mundo comenta: [[23 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] ·
+  [[24 - A Guerra do Destino|A Guerra do Destino]] · [[26 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]] ·
+  [[27 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] · [[28 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] —
   **com ressalva**: as três primeiras têm um bloco final de mestre; ver a tabela de cortes abaixo
 
 **Referência**
@@ -210,11 +210,11 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] · [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] · [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]]
 
 **Eventos de escala imortal**
-- [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] ·
-  [[20 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|O Cerco da Montanha Nevada e o Rio de Fluxo Reverso]] ·
-  [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] ·
-  [[23 - A Cerimônia das Miríades de Tribos e a Estrada da Vida|A Cerimônia das Miríades de Tribos e a Estrada da Vida]] ·
-  [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] — as duas últimas **com ressalva**
+- [[18 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] ·
+  [[19 - O Cerco da Montanha Nevada e o Rio de Fluxo Reverso|O Cerco da Montanha Nevada e o Rio de Fluxo Reverso]] ·
+  [[20 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] ·
+  [[22 - A Cerimônia das Miríades de Tribos e a Estrada da Vida|A Cerimônia das Miríades de Tribos e a Estrada da Vida]] ·
+  [[25 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] — as duas últimas **com ressalva**
 
 **Referência avançada**
 - [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — o índice comentado dos trinta e oito casos, com o nível de
@@ -261,9 +261,9 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 > - **As notas-porta de cada pasta** ([[01 - Visão Geral das Forças e Organizações|Forças e Organizações]],
 >   [[01 - Visão Geral dos Eventos|Eventos]], [[01 - Visão Geral da Economia|Economia]] e as demais) —
 >   a seção final "O que só o mestre sabe".
-> - **Quatro notas de eventos** — [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]],
->   [[25 - A Guerra do Destino|A Guerra do Destino]], [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] e
->   [[27 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]]: o cenário é jogável e liberado, mas o bloco final
+> - **Quatro notas de eventos** — [[20 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]],
+>   [[24 - A Guerra do Destino|A Guerra do Destino]], [[25 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] e
+>   [[26 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]]: o cenário é jogável e liberado, mas o bloco final
 >   revela a causa verdadeira, e em três delas essa causa é a mesma — o **Caos** que existe
 >   fora da fronteira do mundo, de onde vem o desastre caótico.
 > - [[18 - Modificar o Próprio Corpo|Modificar o Próprio Corpo]] — o arsenal de reforço é comum; a troca de espécie, a

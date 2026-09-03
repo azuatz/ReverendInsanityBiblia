@@ -209,9 +209,12 @@ Os detalhes econômicos dessas manobras estão em [[15 - Economia Imortal|Econom
 Os mecanismos institucionais que a autoridade máxima do mundo emprega, e que uma mesa pode
 usar como estrutura de campanha:
 
-- **Uma lista oficial de procurados**, atualizada em ciclos de décadas, catalogando os
-  cultivadores considerados nocivos. Certos caminhos de cultivo são presença permanente
-  nela.
+- **Uma lista oficial de procurados** — a ==Placa de Julgamento dos Demônios== —, atualizada
+  em ciclos de décadas, catalogando os cultivadores considerados nocivos. Certos caminhos de
+  cultivo são presença permanente nela, e por um motivo mecânico: a Placa não é um pergaminho,
+  é uma máquina viva que **detecta sozinha** os praticantes de um caminho específico em
+  qualquer lugar do mundo. Como ela funciona, o que custa entrar na lista e quem a opera está
+  em [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
 - **A proibição formal do extermínio sistemático** de seitas menores e cultivadores
   solitários pelas grandes seitas — uma proposta nesse sentido foi rejeitada com ameaça de
   punição a quem insistisse. O Tribunal protege ativamente os pequenos, ainda que por
@@ -223,7 +226,8 @@ usar como estrutura de campanha:
   torna um recurso administrado, não uma solução permanente.
 - **Escravidão formal de imortais.** Infratores capturados em operações conjuntas viram
   cultivadores escravizados das seitas ancestrais. É uma categoria social confirmada, não
-  uma metáfora.
+  uma metáfora — e uma pena com regras próprias, incluindo revenda e limpeza de memória, em
+  [[07 - Lei, Crime e Castigo#O imortal escravo|Lei, Crime e Castigo]].
 - **Monopólio monetário**, tratado adiante.
 
 ## O que só o mestre sabe
@@ -242,7 +246,8 @@ até aos membros das próprias instituições envolvidas.
 - **A exclusão categórica de humanos variantes.** Por mais talentoso que seja um cultivador
   de raça variante, o Tribunal não o admite. Não é preconceito individual; é regra estrutural
   — e é a fratura que empurra essas raças para os blocos rivais. Uma instituição cujo credo
-  é defender a justiça em nome do céu é, simultaneamente, etnicamente fechada.
+  é defender a justiça em nome do céu é, simultaneamente, etnicamente fechada. Quem são esses
+  povos está em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 - **O Tribunal não é monolítico.** Ainda que as dez grandes seitas sejam formalmente
   subsidiárias, muitos membros permanecem alinhados à seita de origem, e descendentes da
   mesma casa viram aliados políticos naturais lá dentro. É um condomínio de facções
@@ -304,4 +309,6 @@ explicação mecânica: as almas haviam sido fabricadas.
 - [[03 - Seitas e Academias|Seitas e Academias]] — as dez grandes seitas vistas por dentro.
 - [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como o poder se distribui geograficamente.
 - [[15 - Economia Imortal|Economia Imortal]] — o dinheiro com que essa política é feita.
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a Placa de Julgamento dos Demônios e a escravidão de imortais, os dois instrumentos formais desta nota vistos por dentro.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — os povos que o Tribunal exclui por nascença, e o bloco político que essa exclusão criou.
 - [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — as manobras políticas e de refino descritas passo a passo.

@@ -46,8 +46,12 @@ exatamente nas páginas que aquela pessoa consegue ler.
 
 **Os ganhos medidos numa única sessão de prova**, para quem participou da destruição:
 
-- domínio de transformação subiu ao grau de **Mestre**;
-- domínio de voo subiu de **Mestre** para **Quase Grão-Mestre**;
+- domínio do [[06 - Transformation Path|caminho da transformação]] subiu ao grau de **Mestre**;
+- domínio de **voo** subiu de **Mestre** para **Quase Grão-Mestre** — voo não é um caminho de
+  cultivo como os outros, e sim uma **técnica transversal** que quase todo imortal pratica e em
+  que se acumula [[08 - Attainment|attainment]] próprio: a obra registra que oito ou nove em cada
+  dez imortais são pelo menos Mestres de voo, o que faz dele a perícia mais difundida do reino
+  imortal;
 - um progresso que, pelo caminho normal, tomaria "anos e até dezenas de anos".
 
 **O preço:** enfrentar uma prova associada a um dos grandes desastres do mundo — porque a

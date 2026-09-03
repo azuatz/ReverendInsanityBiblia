@@ -33,7 +33,7 @@ mundo particular que todo Gu Imortal carrega consigo: quando um cultivador ascen
 imortalidade, a "abertura" que ele tinha dentro do corpo se rompe e vira um mundo em
 miniatura, com céu, chão, clima, plantas e às vezes populações inteiras morando lá dentro.
 É ao mesmo tempo a casa, o cofre, a fazenda e a fábrica do dono. O grau acima dela chama-se
-==caverna-céu== (*grotto-heaven*), maior e mais rica. A teoria completa está em
+==gruta-céu== (*grotto-heaven*), maior e mais rica. A teoria completa está em
 [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e o cotidiano de quem
 mora dentro de uma, em [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
@@ -100,10 +100,10 @@ Junte as duas coisas e você tem a regra mais explorável do mundo imortal:
 > buracos.
 
 Há uma jogada defensiva canônica que sai direto dessa regra e que muita gente não pensaria
-sozinha: **rebaixar de propósito o próprio mundo**. Uma caverna-céu de altíssimo grau foi
+sozinha: **rebaixar de propósito o próprio mundo**. Uma gruta-céu de altíssimo grau foi
 deliberadamente rebaixada à categoria de terra abençoada pelo seu próprio espírito guardião,
 porque terras de grau menor enfrentam calamidades e provações muito mais fracas. Mesmo
-rebaixada, o espaço interno dela continuou maior que o de muitas cavernas-céu. Empobrecer no
+rebaixada, o espaço interno dela continuou maior que o de muitas grutas-céus. Empobrecer no
 papel é uma estratégia de sobrevivência.
 
 ## Como se ataca: o procedimento em quatro passos
@@ -137,7 +137,7 @@ um vínculo humano. Os métodos que a obra mostra:
 
 Com a posição em mãos, quebra-se o espaço — a obra descreve literalmente como **vidro
 estilhaçando**, revelando o terreno de dentro. Não é gratuito: uma abertura registrada custou
-**mais de dez pérolas de essência imortal num único instante**, e exigiu um Gu Imortal
+**mais de dez pedras de essência imortal num único instante**, e exigiu um Gu Imortal
 emprestado cuja função é expandir o espaço de uma terra abençoada. Essência imortal é o
 combustível do cultivador imortal e a moeda real dessa faixa de poder; a economia dela está
 em [[15 - Economia Imortal|Economia Imortal]].
@@ -149,7 +149,7 @@ nada: o próprio desastre rasga o céu do alvo e abre buraco atrás de buraco.
 
 Esta é a parte que faz o cerco parecer um leilão. Cada buraco aberto no céu da terra
 abençoada precisa ser **fechado**, e fechá-lo custa essência imortal ao defensor. Os sitiantes
-jogam **uma pérola de essência imortal por vez** pelo buraco; ela explode lá dentro e força
+jogam **uma pedra de essência imortal por vez** pelo buraco; ela explode lá dentro e força
 o gasto. Depois repetem. E repetem. Numa das encenações a contagem passou de **cento e oitenta
 rodadas** antes de o defensor secar.
 

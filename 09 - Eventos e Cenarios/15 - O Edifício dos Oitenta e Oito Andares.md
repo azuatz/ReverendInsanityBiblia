@@ -44,6 +44,23 @@ dez anos, e só quem venceu a guerra daquele ciclo está lá dentro.
 > | **Quem pode entrar** | quem tem o sangue da linhagem fundadora, ou quem tem um talismã de convidado |
 > | **Tamanho** | **88 andares**, **100 rodadas por andar** |
 
+## A trava que vale aqui
+
+Duas, empilhadas, e a segunda é a que ninguém pensaria em inventar.
+
+**A proibição institucional** (trava 7 do cardápio da
+[[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]]): o prédio está **dentro** da
+Corte Imperial, e nenhum Gu Imortal abaixo de rank 9 consegue entrar na Corte Imperial. A
+fortaleza mais rica do Norte é fisicamente inacessível a todos os poderosos da região, e é por
+isso que ela ainda tem mais da metade das heranças intactas depois de milênios: **a casca que a
+protege não é uma muralha, é uma regra de porta**.
+
+**E o dono quer multidão.** Esta é a inversão, e é o oposto exato do que se espera. O talismã
+que dá o comando do prédio **avança um gume a cada andar completado**, de modo que o poderoso
+que controla o edifício lucra com cada rodada limpa por gente pequena. O incentivo dele é
+**abrir a porta para o maior número possível de desconhecidos** — e é por isso que um grupo
+pobre consegue entrar num lugar assim. Ver a regra 8, mais abaixo.
+
 ## Por que acontece
 
 O edifício é uma **fortaleza imortal** (*Immortal Gu House*: um movimento assassino solidificado

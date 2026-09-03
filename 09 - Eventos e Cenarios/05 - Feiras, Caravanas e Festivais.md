@@ -218,14 +218,18 @@ que fora.
 **O pedágio é a peneira social**, e a escada inteira vale ter na mesa, porque o degrau mais barato e
 o mais caro diferem em **seiscentas vezes**:
 
+Atenção à ordem: os anéis internos são **numerados de dentro para fora**, então o quinto é o
+mais barato e o primeiro é o núcleo. A tabela abaixo vai do mais barato ao mais caro, ou seja,
+**de fora para dentro**:
+
 | Onde se entra | Preço por pessoa |
 |---|---|
 | Cidade pequena de fronteira | **1 pedra** |
-| Portão externo de uma grande cidade-clã | **10 pedras** |
-| Primeiro anel interno pago | **100 pedras** |
-| Quarto anel interno | **200 pedras** |
-| Terceiro anel interno | **600 pedras** |
-| Segundo anel interno e além | **dinheiro não entra** — só com ficha de autoridade do clã |
+| Portão externo de uma grande cidade-clã (cidade externa) | **10 pedras** |
+| Primeiro anel interno pago — a **quinta** cidade interna, a de classe baixa `(ded.)` | **100 pedras** |
+| **Quarto** anel interno, a classe média | **200 pedras** |
+| **Terceiro** anel interno, a alta classe | **600 pedras** |
+| **Segundo** anel interno e além (a cidade do clã e o núcleo político) | **dinheiro não entra** — só com ficha de autoridade do clã |
 
 Duas leituras que a tabela sozinha não dá. Primeiro: **a partir de certo ponto o dinheiro deixa de
 funcionar** — os anéis mais internos exigem uma ficha emitida pelo clã dono, e nenhuma quantia

@@ -221,10 +221,9 @@ Socialmente, a abertura é o que se esconde. A cor da essência vaza como aura e
 ## Relações
 
 - [[04 - Essência Primordial|Essência Primordial]] — o conteúdo do Mar Primordial.
-- [[03 - Aptidão|Aptidão]] — o que fixa a capacidade máxima da abertura.
+- [[03 - Aptidão|Aptidão]] — o grau que a cerimônia mede: o que fixa a capacidade máxima da abertura, e o teto de carreira que ele impõe.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — avanço é transformar ou quebrar as paredes.
 - [[14 - Ascensão Imortal|Ascensão Imortal]] — o momento em que a abertura é destruída de propósito.
-- [[03 - Aptidão|Aptidão]] — o grau que a cerimônia mede, e o teto que ele impõe.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a recarga externa.
 - [[07 - Perder Cultivo|Perder Cultivo]] — o que acontece quando este órgão é ferido, contaminado ou envelhece.
 - [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — quem vive sem abertura, e quem vive com uma abertura morta.

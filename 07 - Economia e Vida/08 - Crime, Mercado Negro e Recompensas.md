@@ -182,9 +182,11 @@ a obra a trata com um respeito quase técnico.
 **Chantagem** funciona porque informação existencial supera superioridade numérica. O caso
 canônico: um forasteiro cercado por membros hostis de um clã inverte a situação apenas
 **anunciando que sabe** o segredo que destruiria o clã. Os cercadores viram reféns da
-informação. O acerto foi de três milhões de pedras — a maior quantia isolada do mundo
-mortal em toda a obra —, com metade paga em vinte e quatro horas, o que obrigou a vítima a
-recorrer a agiotas e a penhorar os próprios Gu. Ver
+informação. O acerto foi de **três milhões de pedras primordiais** — uma das maiores
+quantias do mundo mortal em toda a obra —, com uma **entrada de quinhentas mil exigida em
+vinte e quatro horas** como prova de que o chantagista falava sério; o restante saiu em
+parcelas ao longo de meses. Foi essa entrada, e não o total, que obrigou a vítima a
+recorrer a agiotas e a penhorar os próprios Gu no mesmo dia. Ver
 [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]].
 
 **Extorsão de conveniência** é o degrau abaixo e é rotineira: cobrar por um resgate que já
@@ -193,7 +195,9 @@ ofensa fabricada. Um cultivador extorquiu setecentas pedras e um Gu de rank 4 co
 por ter salvado a vida de sete pessoas que não haviam contratado ninguém.
 
 **Sequestro e resgate** aparecem nos dois patamares. No mortal, uma exigência documentada
-foi de dez milhões de pedras mais um Gu de rank alto. No imortal, o resgate de um
+foi de **dez milhões de pedras primordiais mais um Gu de rank alto** — mais do que o triplo
+da chantagem acima, e a maior cifra isolada do mundo mortal que a obra registra. No
+imortal, o resgate de um
 cultivador de rank 8 capturado custou um milhão de pedras de essência imortal — e o
 resgate do **cadáver** de outro custou um milhão e duzentos mil, mais caro que o vivo,
 porque quem pagou precisava do corpo para uma ressurreição.

@@ -1,0 +1,394 @@
+---
+tags:
+  - apendice
+  - gu/catalogo
+  - gu/rank-1
+  - gu/mortal
+  - ficha-de-personagem
+aliases:
+  - Gu de Rank 1
+  - Rank One Gu
+  - Catálogo por rank — Rank 1
+status: consolidado
+fontes: ["cap. 8", "cap. 14", "cap. 17", "cap. 32", "cap. 44", "cap. 45", "cap. 47", "cap. 62", "cap. 64", "cap. 70", "cap. 71", "cap. 76", "cap. 77", "cap. 98", "cap. 104", "cap. 105", "cap. 106", "cap. 107", "cap. 109", "cap. 111", "cap. 121", "cap. 123", "cap. 124", "cap. 126", "cap. 127", "cap. 129", "cap. 150", "cap. 155", "cap. 156", "cap. 157", "cap. 162", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 278", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 316", "cap. 320", "cap. 326", "cap. 343", "cap. 353", "cap. 354", "cap. 355", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 452", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 544", "cap. 548", "cap. 560", "cap. 570", "cap. 652", "cap. 734", "cap. 758", "cap. 829", "cap. 831", "cap. 853", "cap. 854", "cap. 855", "cap. 1097", "cap. 1288", "cap. 1323", "cap. 1444", "cap. 1494", "cap. 1852", "cap. 2072", "cap. 2108", "_pipeline/ARVORES-DE-EVOLUCAO.md"]
+conhecimento: comum — quase tudo nesta nota é o cotidiano de qualquer Mestre Gu iniciante e pode ser dado aos jogadores sem reserva; os poucos pontos de conhecimento especializado (receitas fechadas, o funcionamento do Second Aperture Gu, a origem do Moonlight Gu) estão sinalizados na própria ficha
+---
+
+# Gu de Rank 1
+
+**Em uma frase:** ==o rank 1 é o único patamar do sistema em que praticamente todo Mestre Gu do mundo passa==, e é onde uma campanha começa — um punhado de bichos baratos, cada um com um único truque, sustentados com dificuldade por alguém que ainda não tem dinheiro nem corpo para mais do que isso.
+
+Esta nota é o primeiro dos catálogos organizados **por rank**. A hierarquia dela foi montada para ser lida como a ficha de um personagem: **rank → caminho → função → Gu**. Se você quiser montar um praticante iniciante do caminho da lua especializado em ataque, você desce por `Rank 1 → Linhagem lunar → Ataque` e encontra o Moonlight Gu com tudo que a obra diz sobre ele, inclusive em que ele se transforma quando o personagem chegar ao rank 2.
+
+O [[04 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] continua sendo o inventário completo, com todos os ranks misturados numa tabela por caminho. Esta nota é a **fatia jogável** dele: só o rank 1, com cada Gu aberto em ficha, com evolução e com interações.
+
+---
+
+## Antes das fichas: o que é ser rank 1
+
+### O que caracteriza um Gu de rank 1
+
+Um **Gu** é uma criatura viva — verme, inseto, flor, pedra viva, sapo — dentro da qual há um fragmento de lei do universo. Usá-lo é acionar aquele fragmento. Um Gu faz **uma coisa só**, e a obra usa exatamente um Gu de rank 1 como exemplo dessa regra: o Water Arrow Gu atira flechas de água, e nada mais. Todo poder complexo neste mundo vem de **combinar** Gu, nunca de um Gu fazer muitas coisas.
+
+O rank vai de 1 a 5 no patamar mortal (e de 6 a 9 no imortal). Rank 1 é a base, e três coisas o definem:
+
+1. **Um Mestre Gu de rank 1 só usa Gu de rank 1.** Ele até consegue acionar um Gu de rank superior, mas o preço é brutal e o custo de alimentação de um Gu grande está fora do alcance dele. Por isso o primeiro Gu de qualquer novato é, salvo situação especial, um Gu de rank 1.
+2. **O Gu não decide a luta — o corpo decide.** A obra é direta: praticantes de rank 1 dependem sobretudo da própria habilidade física de combate, e o valor de um Gu numa briga de rank 1 está mais no **poder de intimidação** do que na potência. Um rank 1 que sabe lutar vence um rank 1 que só sabe apertar o gatilho.
+3. **O efeito é pequeno, mas o **preço** é proporcionalmente enorme.** Um único disparo de Sandpit Gu consome cinco por cento de toda a essência de um rank 1; o Green Silk Gu consome trinta por cento de uma vez; o Brute Force Longhorn Beetle Gu consome vinte por cento na fase inicial do rank. Não existe "gastar à vontade" no rank 1.
+
+### O que um Gu de rank 1 custa
+
+Em [[02 - Pedras Primordiais|pedras primordiais]] — a moeda-energia do mundo —, a faixa do rank 1 é larga e vale decorar, porque ela dá o orçamento de qualquer grupo iniciante:
+
+| Referência | Valor |
+|---|---|
+| Uma família mortal de três pessoas gasta, no mês | no máximo **1** pedra primordial |
+| Vitality Leaf (folha de cura, uso único) | **50** pedras (preço de clã: 55; de mercado: 50 a 80) |
+| Jin Strength Gu (+1 jin de força permanente) | cerca de **220** pedras |
+| Um Gu de rank 1 comum de prateleira | cerca de **250** pedras |
+| Vine Information Gu (inscrição na arena do clã Shang) | **500** pedras de taxa |
+| Black Boar Gu e White Boar Gu | cerca de **600** pedras cada |
+| Relic Gu de cobre-verde, vendido em lote | cerca de **2.000** pedras |
+| Golden Qi Gu, gritado num pregão de caravana | **50** pedras |
+| Boneco de treino Scarecrow Gu, montado | menos de **1,5** pedra |
+
+Além do preço de compra existe o **preço de refino**: transformar um Gu selvagem ou comprado num Gu seu custa essência primordial, e quem tem pouca aptidão precisa queimar pedras primordiais para compensar. Um praticante de aptidão média gasta de **cinco a oito** pedras para refinar um Moonlight Gu, e de **onze a dezesseis** para refinar um Liquor Worm — o Liquor Worm custa mais porque a **vontade** dele resiste mais. Quanto mais teimosa a criatura, mais caro dobrá-la.
+
+### Quantos Gu um iniciante carrega
+
+A obra dá o número com todas as letras: **um Mestre Gu comum só consegue alimentar de quatro a cinco Gu do mesmo rank**. Seis já é apertado; sete estoura o orçamento de essência de um rank 1 comum. O gargalo não é um "número de espaços": é **comida somada a custo de ativação**.
+
+E a obra tira dessa conta a consequência social imediata, que é o achado mais aproveitável desta nota inteira:
+
+> [!note] Para o design — a composição canônica de um grupo
+> Como ninguém consegue carregar todas as funções sozinho, **Mestres Gu não andam sozinhos**: formam grupos de cinco, ou de três no mínimo. E a obra nomeia os cinco papéis:
+>
+> 1. **detecção** — quem enxerga o que os outros não enxergam;
+> 2. **avanço/deslocamento** — quem move o grupo;
+> 3. **ataque** — quem fere;
+> 4. **tratamento** — quem cura;
+> 5. **contenção** — quem segura o inimigo.
+>
+> Isto é uma "party" de RPG saída direto do texto, e ela não é convenção de gênero: é **consequência matemática** do teto de alimentação. Se você aumentar o teto de Gu por personagem, você destrói o motivo pelo qual grupos existem neste mundo.
+
+### Como ler uma ficha
+
+Cada Gu abaixo traz os mesmos campos, sempre nesta ordem:
+
+- **O que faz** — o mecanismo: o que acontece exatamente, quanto, por quanto tempo, em quem, com que limite.
+- **Como é** — aparência e tamanho, quando a obra der. Vale a pena ler estes campos: um Gu é um **bicho**, não um ícone, e a mesa ganha muito quando o jogador sabe que o Moonlight Gu é um pedaço de quartzo azul translúcido do tamanho de um pingente.
+- **Dieta** — o que a criatura come e com que frequência. Todo Gu come continuamente; um Gu com fome perde o brilho e, faminto por tempo demais, **regride de rank ou morre**.
+- **Desvantagem** — o preço. Todo Gu mortal tem um, e quase sempre ele mora dentro do uso, da dieta ou do refino, não numa categoria à parte.
+- **Como se obtém** — refino, captura, compra, herança, colheita; com preço quando houver.
+- **Evolução** — em que Gu de rank 2 ele pode se transformar, com a receita quando a obra der. **Onde a obra não registra rota nenhuma, o campo diz isso com todas as letras** — e isso é informação, não lacuna: é o sinal verde para você inventar a rota sem contradizer o cânone.
+- **Interações** — com que marcas de dao ele entra em conflito, de que Gu ele depende, com que Gu ele combina, e **a que tipo de personagem ele fecha a porta**.
+
+### Como ler o preenchimento (os quatro estados)
+
+Cada informação desta nota está num de quatro estados, e a diferença entre eles importa mais que o conteúdo:
+
+1. **Texto normal** — a obra afirma. É canônico e você pode construir em cima.
+2. **Texto seguido de `(ded.)`** — a obra não diz com essas palavras, mas o efeito descrito, o rank declarado ou uma regra geral do mundo tornam a conclusão segura. É **leitura nossa**, fundamentada; descarte à vontade se atrapalhar.
+3. **Texto seguido de `*`** — **invenção nossa, sem nenhuma base textual**. A obra é muda ali e preenchemos assim mesmo para a mesa ter o que usar.
+4. **`—`** — não há base nenhuma e nada foi preenchido. Nunca significa "nenhum", "barato" ou "irrelevante": significa **silêncio da obra**.
+
+> [!important] Apagar tudo marcado com `*` devolve este documento a cem por cento canônico
+> Nenhuma informação marcada com `*` sustenta outra informação desta nota, e nenhuma conclusão sobre o mundo depende dela. Os asteriscos existem só para que a coluna não fique vazia na hora de jogar.
+
+---
+
+## Interações: a regra que vale para todas as fichas
+
+O campo **Interações** de cada Gu só faz sentido depois desta seção. Leia-a uma vez e o resto da nota se lê sozinho. A explicação completa está em [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]; aqui fica o suficiente para usar as fichas.
+
+**A premissa.** Todo Gu contém um fragmento de lei do Grande Dao. Usar um Gu é acionar aquele pedaço de lei; refinar um Gu é fundir leis. O resíduo que uma lei deixa ao se fixar num corpo chama-se **marca de dao** (*dao mark*). Um Mestre Gu experiente não carrega apenas um inventário: ele carrega um **campo de leis gravado no próprio corpo**, e cada Gu novo entra nesse campo.
+
+**A regra, inteira, em uma frase:** ==leis semelhantes ressoam e se amplificam; leis opostas interferem — e a mais forte sobrescreve a mais fraca.==
+
+Disso saem quatro coisas que aparecem repetidamente nas fichas abaixo:
+
+**1. Ressonância.** Um Gu do **mesmo** caminho das marcas que o personagem já acumulou rende **acima** do nominal, e cada uso ainda aprofunda a compreensão dele naquele caminho. É por isso que a prática recomendada do mundo é montar um conjunto **homogêneo**: um Gu-núcleo mais Gu de suporte do mesmo caminho. Isso traz quatro vantagens somadas — dieta parecida (mais fácil de estocar), sinergia de uso, sinergia de refino (fundir Gu semelhantes custa e falha menos) e ausência de conflito interno.
+
+**2. Conflito.** Os pares que a obra **nomeia** são estes, e só estes:
+
+| Marca instalada no corpo | Gu prejudicado | O que acontece |
+|---|---|---|
+| **força** | **luz** | Não é desconto: é falha. O gasto de essência sobe drasticamente **ou** a transformação em luz falha e o Gu de luz **é destruído**. Perde-se o patrimônio, não só o turno. |
+| **força** | **espaço** | A mesma passagem nomeia os dois: se a marca de força for forte demais, os dois Gu **falham ao ser usados**. |
+| **força** | **vento e movimento** | Aqui é enfraquecimento, não falha: os fantasmas de fera perturbam o Gu de vento e o efeito **enfraquece**. Foi o bastante para um comprador desistir de um Gu excelente. |
+| **força** | **água** | O único conflito com número: cerca de **sessenta a setenta por cento** do poder normal. |
+| **restrição** | **palavra** (e vice-versa) | O par de leis opostas dos contratos e juramentos. O mais forte sobrescreve o mais fraco. |
+| **qualquer lei já instalada** | **cura** | Sem choque direto, a cura só funciona **muito mais devagar**. Com choque, ela **fere em vez de curar**. |
+
+> [!warning] Qualquer par além destes seis é invenção
+> A obra generaliza o **mecanismo** e nunca fornece a tabela. Repare que cinco dos seis pares envolvem o caminho da força — isso é artefato de foco narrativo, não afirmação de que a força seja especialmente conflituosa. Fogo × água, luz × trevas, o que for: se você precisar, **invente e marque como invenção**.
+>
+> E há um segundo silêncio, igualmente importante: **a obra nunca diz onde fica o limiar**. Ela diz "se a marca de força for **forte demais**" e não quantifica. Não se sabe se um único Gu de força já compromete um Gu de luz ou se é preciso o corpo inteiro convertido. Onde as fichas abaixo dizem que um Gu "fecha uma porta", trate como **tendência canônica sem número**, não como regra binária.
+
+**3. Nem todo conjunto é um conjunto.** A obra registra explicitamente um praticante carregando cinco Gu — Spring Autumn Cicada, Liquor Worm, Moonlight Gu, Little Light Gu e White Boar Gu — e comenta que aqueles Gu **não combinavam entre si e eram incompatíveis**. Não é que eles se destruíssem: é que não formavam um todo. Um inventário de rank 1 pode estar perfeitamente cheio e mesmo assim não resolver nenhum problema.
+
+**4. Rank não é tudo.** O contra mais espetacular do rank 1 é canônico: o Flash Blink Gu, descartável e de rank 1, anula por completo um Gu de furtividade de rank 2 e o deixa **três horas fora de operação**. A obra tira disso a lição de mundo: "na natureza tudo se contrapõe, um contra o outro".
+
+---
+
+## Linhagem lunar — o caminho da lua do clã Gu Yue
+
+A linhagem mais documentada da obra inteira, e por isso a melhor porta de entrada. Não é um "caminho" no vocabulário formal do mundo: é o patrimônio de **um clã específico**, o clã Gu Yue, que cultiva o Moonlight Gu por método secreto e não o vende a ninguém. Vale como modelo de tudo o que vem depois porque é o único caso em que a obra mostra **um mesmo Gu-raiz abrindo quatro rotas diferentes de rank 2** e diz em voz alta qual é o critério da escolha: ampliar **poder**, ou **alcance**, ou **trajetória**, ou **função**.
+
+### Ataque
+
+#### Moonlight Gu
+
+- **O que faz.** Dispara uma lâmina de luar em forma de crescente — a *moonblade*. O Gu se move para o centro da palma direita, a marca de crescente azul começa a emitir luz azul-água ao receber essência primordial, e um corte vertical com a mão lança a lâmina. A lâmina tem o tamanho de uma mão aberta, é azul-pálida, e voa em **linha reta**. O alcance efetivo é de **dez metros**, e a obra dá a demonstração com números: a lâmina atravessou dez metros e decepou o pescoço de um boneco de palha de trinta centímetros de espessura, com o corte tão plano quanto o de uma foice afiadíssima; depois de cortar, ficou visivelmente mais fraca, voou mais seis metros e se dissipou no ar. **Não é um Gu de acertar fácil:** novatos recém-refinados produziram lâminas que se dissipavam na hora, que voavam dois ou três metros e estouravam em luz azul, ou que subiam direto para o céu. Depois de cinco minutos de prática, **produzir** a lâmina ficou fácil; **acertar** continuou sendo sorte. Precisão aqui é perícia treinada, não função do Gu.
+- **Como é.** Cristalino, em forma de lua crescente, parecendo um pedaço de quartzo azul. Leve como uma folha de papel, do tamanho de um pingente de jade comum, e **translúcido** — dá para ver as linhas da própria palma através dele. Depois de refinado, ele mora na palma direita do usuário como uma **tatuagem de crescente azul**.
+- **Dieta.** Pétalas de orquídea-lua: duas refeições por dia, duas pétalas cada. Dez pétalas equivalem a uma pedra primordial — mas as pétalas **murcham em poucos dias** e não se estocam, o que amarra o dono a uma fonte local.
+- **Desvantagem.** Alcance curto, trajetória retilínea e previsível, mira que depende inteiramente de treino, e a lâmina enfraquece assim que corta alguma coisa. Some-se a dieta perecível.
+- **Como se obtém.** Não é um Gu natural: é uma **raça cultivada por método secreto do clã Gu Yue**, que não existe em nenhum outro lugar do mundo e é o símbolo do clã. É oferecido aos jovens na cerimônia de despertar como [[05 - Gu Vital|Gu vital]]. Num grupo de cem adolescentes, cinquenta e sete tinham aptidão e trinta e cinco escolheram o Moonlight Gu; os demais, de aptidão mais baixa, desistiram por não conseguirem refiná-lo. Refinar custa de cinco a oito pedras primordiais para aptidão média. Um ancião de rank 3 pode usar a aura do próprio Gu superior para **suprimir a vontade** do Moonlight Gu e assim ajudar um jovem de aptidão fraca a vencê-lo.
+- **Evolução.** A mais rica da obra. Quatro rotas de rank 2 nomeadas, e a obra diz na mesma frase que existem **muitas outras** que ela não nomeia:
+  - **Moonglow Gu** (rank 2) — Moonlight **+ dois Little Light Gu**. Rota do **poder**: triplica a força da lâmina, alcance inalterado. Note o detalhe contraintuitivo e canônico: um Little Light aceso ao lado dobra a lâmina, dois acesos também só dobram — mas **fundidos**, os dois triplicam.
+  - **Moon Scar Gu** (rank 2 `(ded.)`; grafado também *Moonscar* e *Scar Rock*) — Moonlight **+ Stone Scar Gu**. Rota do **alcance**: poder inalterado, alcance dobra de dez para vinte metros. Ponto fraco declarado na própria receita: o ataque é fraco. **Catalisadores canônicos:** acrescentar rocha de jade ao refino **ou** refinar numa noite de luar abundante e sob exposição a ele — qualquer um dos dois eleva a chance de sucesso.
+  - **Moonwhirl Gu** (rank 2 `(ded.)`) — Moonlight **+ Whirlwind Gu**. Rota da **trajetória**: a lâmina passa de azul a verde e deixa de voar reto, passando a curvar. A obra a chama de "rota comum".
+  - **Moon Raiment Gu** (rank 2; grafado também *Moonveil*) — Moonlight **+ Jade Skin Gu**. Rota da **função**: deixa de ser ataque e vira **defesa em área**, ligeiramente inferior à do White Jade Gu, mas capaz de **proteger terceiros** — o que a torna superior em combate de grupo. Rota **rara**, com teto declarado em rank 5.
+  - Mais adiante: Moonglow leva a Golden Moon, Frost Moon, Illusory Moon e Blood Moon (rank 3); Moon Raiment é a raiz do Moonlight Treasure King Gu (rank 5), uma das duas receitas de rank 5 que o clã possui.
+- **Interações.** É o Gu-núcleo em torno do qual todo o resto do conjunto se organiza — o Little Light existe para ele, e as quatro rotas de rank 2 são quatro maneiras de resolver uma fraqueza dele. Sinergia canônica registrada: usado com controle fino, o mesmo efeito serve de **ferramenta** e não só de arma (abrir pedras de aposta com a palma, cortar um crânio em círculo). Conflito: a obra não classifica o Moonlight num caminho formal, então **nenhum par de conflito nomeado se aplica a ele diretamente**; o que ela registra é o caso concreto de um praticante carregando Moonlight, Little Light, Liquor Worm e White Boar Gu ao mesmo tempo e o texto dizendo que aqueles Gu **não combinavam entre si**. A leitura segura `(ded.)` é que empilhar força de fera num personagem de lâmina lunar não o quebra, mas também não o ajuda — e, pela regra geral, marcas de força atrapalham leis de luz.
+
+> [!note] Para o design
+> O Moonlight Gu é o melhor exemplo do sistema inteiro numa peça só: **um efeito, um número, uma fraqueza, quatro maneiras de resolver a fraqueza — e cada solução fecha as outras três**, porque a fusão consome os componentes. É o desenho de árvore de talentos mais limpo da obra, e vem com o critério de escolha explícito: poder, alcance, trajetória ou função.
+
+### Suporte
+
+#### Little Light Gu
+
+- **O que faz.** Aceso junto do Moonlight, funde a própria luz branco-leitosa à luz da lâmina e **dobra o tamanho da moonblade e também o alcance dela**. Dois Little Light acesos ao mesmo tempo **não somam**: o reforço continua sendo de cem por cento. Sozinho, serve apenas de fonte de luz.
+- **Como é.** Minúsculo, em forma de estrela de cinco pontas, branco-leitoso, do tamanho de meia unha. Refinado, mora na mesma palma direita do Moonlight, como uma tatuagem de estrela de cinco pontas, e brilha com um fulgor leitoso quando ativado.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Não faz nada sozinho `(ded.)`, e uma segunda cópia é dinheiro jogado fora enquanto os dois estiverem apenas acesos.
+- **Como se obtém.** Par comum do Moonlight e item de prateleira da sala de estoque de uma academia de clã — havia cinco exemplares numa única sala. Refino rotineiro de rank 1 `(ded.)`.
+- **Evolução.** **Dois** exemplares são consumidos, junto com o Moonlight, na fusão que produz o **Moonglow Gu** (rank 2). Fora essa, nenhuma outra rota é citada pela obra.
+- **Interações.** Depende inteiramente do Moonlight Gu: é um multiplicador, não uma arma. A escolha dele diz algo sobre o personagem — a obra registra um líder de clã lendo a escolha do Little Light como sinal de personalidade "extrema, ativa e invasiva", porque é a opção que aposta tudo em bater mais forte.
+
+### Material de fusão
+
+Dois Gu de rank 1 cujo valor inteiro está em serem **ingredientes** de uma rota lunar. A obra os nomeia numa vitrine de mercado, ao lado do Jade Skin Gu, e comenta que todos eram "compatíveis com o Moonlight Gu e podiam se fundir em Gu de rank superior".
+
+#### Stone Scar Gu
+
+*(grafado também **Scar Stone Gu** e **Scar Rock Gu** — é o mesmo Gu.)*
+
+- **O que faz.** — **A obra nunca descreve o efeito próprio dele.** Ela o registra apenas como o segundo componente da fusão que produz o Moon Scar Gu, e como mercadoria de vitrine.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** Efeito não descrito: fora da rota lunar, ninguém sabe para que ele serve.
+- **Como se obtém.** Comprado. Aparece nos balcões de uma caravana grande que visita um clã do caminho da lua, exposto justamente porque o comerciante sabe que aquele clã precisa dele.
+- **Evolução.** **Moon Scar Gu** (rank 2 `(ded.)`), fundido com o Moonlight Gu. Catalisadores: rocha de jade acrescentada ao refino, ou refinar sob luar abundante.
+- **Interações.** Só existe, no cânone, em relação ao Moonlight Gu. Rank 1 `(ded.)`, porque funde com um rank 1 para gerar um rank 2.
+
+#### Whirlwind Gu
+
+- **O que faz.** — A obra não descreve o efeito isolado. Registra dois usos: é o segundo componente do Moonwhirl Gu, e entra num golpe combinado de gelo criado por uma praticante — o "vendaval de lâminas de gelo", montado com um revolving Gu, o Whirlwind Gu e um ice blade Gu, formando um tornado gelado. Disso se deduz que ele produz **rotação/vento em torno de alguma coisa** `(ded.)`.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** Efeito próprio não descrito.
+- **Como se obtém.** Comprado na mesma vitrine de caravana do Stone Scar Gu.
+- **Evolução.** **Moonwhirl Gu** (rank 2 `(ded.)`), fundido com o Moonlight Gu — a lâmina fica verde e passa a curvar.
+- **Interações.** É o exemplo mais claro de um Gu de rank 1 que serve a **dois caminhos diferentes** conforme o parceiro: com o Moonlight vira trajetória curva; com Gu de gelo vira tornado. Vale como modelo do padrão "Gu neutro que assume a natureza do parceiro", que a obra enuncia explicitamente para o golden needle Gu de rank 2.
+
+---
+
+## Caminho da força
+
+O caminho mais direto do sistema e o mais popular entre iniciantes — ver [[04 - Strength Path|Strength Path]]. A moeda de conta são o *jin* (cerca de 600 g de força) e o *jun* (30 jin). O padrão do rank 1 é claro: **os Gu de força temporária são baratos e imediatos; os de força permanente são caros, lentos e dolorosos — e valem muito mais**, porque o ganho fica no corpo mesmo depois de o Gu morrer.
+
+> [!warning] Este caminho cobra um imposto que nenhum outro cobra
+> Marcas de força são as únicas do sistema que a obra mostra **atrapalhando quatro famílias inteiras de Gu**: luz, espaço, vento/movimento e água. Um personagem que empilha força de fera está, ao mesmo tempo, se fechando para lâminas de luz, teleporte, velocidade e manipulação de água. Isso não é um detalhe de ficha: **é uma decisão de construção de personagem tomada no rank 1 e irreversível na prática**, porque a força permanente não sai do corpo — livrar-se de um fantasma de fera já instalado exige dezenove dias ou mais de trabalho com Gu auxiliares.
+
+### Reforço corporal permanente
+
+#### Black Boar Gu
+
+- **O que faz.** Soma força física **permanente e cumulativa** ao corpo. O ganho entra pouco a pouco, ao longo de dias de uso repetido, e **persiste depois que o Gu morre**. Junto com o White Boar Gu, é o Gu de força mais procurado do rank 1.
+- **Como é.** Um verme negro — e este detalhe é economicamente decisivo, porque ele é **fisicamente idêntico ao Smelly Fart Fat Worm**, que não serve para nada.
+- **Dieta.** Carne `(ded.)`, pela família a que pertence.
+- **Desvantagem.** O ganho vem devagar; empilha com o White Boar, mas então é preciso sustentar os dois; e é o **alvo preferido dos falsificadores** do mundo inteiro.
+- **Como se obtém.** Comprado pronto por cerca de **600 pedras primordiais**. É raro: sempre que um aparece no mercado, é arrematado na hora. Aqui mora o caso canônico de fraude da obra — vendedores desonestos passam um Smelly Fart Fat Worm por Black Boar e cobram cerca de **250** pedras; o comprador **só descobre na hora de refinar**, e a vítima registrada não teve reparação nenhuma do vendedor. Regra de bolso do mundo: preço muito abaixo de 600 é sinal de falsificação. Ver [[13 - Qualidade e Fraude|Qualidade e Fraude]].
+- **Evolução.** **Black Mane Gu** (rank 2) — Black Boar **+ Green Silk Gu**, ambos rank 1. Faz o pelo de **todos** os poros crescer e formar uma juba-armadura. Adiante, o Black Mane leva ao **Steel Mane Gu** (rank 3), com pelos duros como aço, ofensivo **e** defensivo — e a obra declara o Steel Mane como "**a melhor rota de avanço do Black Boar Gu**", sem nomear o segundo componente.
+- **Interações.** Instala marcas de força permanentes: pela regra geral, **fecha a porta** (ou encarece muito) para Gu de luz, de espaço, de vento e de água, e torna qualquer cura mais lenta. Do outro lado da mesma moeda, tudo do caminho da força que o personagem usar depois **ressoa** com essas marcas e rende acima do nominal. Empilha explicitamente com o White Boar Gu — dois javalis distintos somam; dois exemplares do mesmo javali não.
+
+#### White Boar Gu
+
+- **O que faz.** Muda a constituição do corpo e soma força permanente que continua no praticante mesmo depois que o Gu morre. O ganho vem pouco a pouco e **para na força de um javali adulto** — há teto.
+- **Como é.** —
+- **Dieta.** **Carne de porco**, e o apetite é enorme: cerca de **um porco adulto a cada cinco dias**. Num mundo sem criação em larga escala, em que uma família mortal abate um porco por ano, isso é um problema logístico real — o dono típico acaba tendo de caçar javalis selvagens ele mesmo, tanto pelo custo em pedras quanto para não chamar atenção comprando carne demais.
+- **Desvantagem.** Teto baixo; duas cópias não somam; e a dieta de carne é, isoladamente, **o maior custo fixo de um Mestre Gu iniciante**. Some-se a dor: o uso é limitado a **quinze minutos por dia** e, além disso, a sensação passa de dormência a dor cortante — insistir mata.
+- **Como se obtém.** Comprado pronto, cerca de **600 pedras primordiais**, e raro no mercado como o Black Boar.
+- **Evolução.** **White Jade Gu** (rank 2) — White Boar **+ Jade Skin Gu**. A obra diz que o White Boar é "**mais compatível**" com o Jade Skin do que com qualquer outro Gu. Atenção ao que acontece na fusão, porque é o exemplo didático canônico de uma regra do mundo: **a fusão herda uma habilidade só**, e aqui a força é **descartada** — o White Jade Gu é defesa pura. A dieta também muda: passa a exigir mais jade, em intervalos maiores. **Catalisador fora da receita oficial:** uma presa de rei-javali eleva a chance de sucesso em cerca de **vinte pontos percentuais**; era conhecimento prático de séculos antes de entrar na receita escrita. Adiante, o White Jade leva ao **Heavenly Mugwort Gu** (rank 3, corpo duro como jade branco mais mitigação específica contra moonblades) e ao **Sky Canopy Gu** (rank 3, com o aqua defense Gu).
+- **Interações.** Mesmo imposto do Black Boar: marcas de força permanentes, com tudo o que isso fecha. Sinergia canônica notável: **quanto mais força física o corpo acumula, melhor cura o self-reliance Gu** (rank 3, caminho da força) — a única sinergia que a obra descreve como proporcional. Um personagem que empilha javalis no rank 1 está construindo, sem saber, um curandeiro de si mesmo no rank 3.
+
+> [!example] Black and White Boar Gu — o par, e por que ele é considerado raro
+> A obra às vezes trata os dois como um item só, "o Black and White Boar Gu", e o motivo é mecânico: **os efeitos dos dois se empilham**. Quem usa o branco e depois o preto fica com a força de dois javalis; quem usa dois brancos não ganha nada com o segundo. E há um detalhe que muda o valor de tudo: **o Gu não é consumido no processo**, então, depois de usado, ele pode ser **passado adiante para outra pessoa usar** — o que lhe dá um valor coletivo enorme dentro de um clã. É por isso que a obra o coloca acima do Liquor Worm em valor: o Gu do licor só refina essência, e quando a essência acaba num combate longo o Mestre Gu fica pior que um mortal; a força do javali continua lá.
+>
+> O contrapeso: a força permanente **consome uma das vagas do teto corporal**. Um Mestre Gu que já tem dois javalis e um crocodilo pode se ferir ao acrescentar mais força sem antes reforçar ossos e tendões.
+
+#### Jin Strength Gu
+
+- **O que faz.** Soma **permanentemente um jin** (cerca de 600 g) de força ao corpo, e é **empilhável com outras cópias** até o limite físico do corpo. É o degrau mais baixo do ramo da "força humana", em oposição ao ramo dos Gu de força de fera.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Progresso miúdo: escalar exige dezenas de aplicações `(ded.)`. E, como todo Gu da escala, ele se **despedaça ao ser usado** — é consumível, não equipamento.
+- **Como se obtém.** Comprado por cerca de **220 pedras primordiais**. Receita moderna, criada por um Gu Imortal de rank 7; é **mais barata e mais fácil de refinar** que os antigos Gu de força de fera, e foi isso que popularizou a série inteira nas Planícies do Norte.
+- **Evolução.** **Não citada pela obra — e aqui a negativa é forte, não é lacuna.** O Jin Strength Gu pertence a uma **série**, não a uma árvore: strength of ten jin Gu (rank 2, +10 jin), jun strength Gu (rank 3, +1 jun = 30 jin), strength of ten jun Gu (rank 4). Cada degrau tem **receita e preço próprios, e se compra separado**; nenhum se funde no outro. Confundir série com árvore é o erro mais comum ao ler estes catálogos.
+- **Interações.** Instala marcas de força como qualquer outro Gu do caminho, com o mesmo imposto sobre luz, espaço, vento e água. Diferença prática em relação aos Gu de fera: por serem "força humana" pura, **não geram fantasma de fera** — e fantasmas de fera são exatamente o que encarece o position swap Gu (espaço) e o que perturba o chasing wind Gu (vento). Um personagem que sobe pela escala jin/jun paga o imposto de força de forma mais discreta `(ded.)`.
+
+### Suporte — força temporária
+
+#### Flower Boar Gu
+
+- **O que faz.** Concede temporariamente a força de um javali por **dez respirações**. O número comparativo é o que importa: é o dobro da duração do Brute Force Longhorn Beetle Gu pelo **mesmo** gasto de essência e, por dar menos força, deixa sequelas menores. É o Gu mais comum e mais barato do mercado.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Dez respirações dão para um golpe, não para uma luta `(ded.)`.
+- **Como se obtém.** Item de prateleira da sala de estoque de uma academia de clã, refinado pelo próprio aluno `(ded.)`. Também é encontrado no corpo de **reis-javalis selvagens**, junto com o Pink Boar Gu — o que faz de uma caçada uma forma legítima de obtê-lo.
+- **Evolução.** Não citada pela obra.
+- **Interações.** A melhor relação custo-benefício entre os Gu de força de rank 1: é o que um grupo inteiro pode se dar ao luxo de carregar. Como todo Gu de força, deixa marcas — mas por ser temporário e leve, o efeito acumulado sobre luz, espaço, vento e água é menor que o dos Gu permanentes `(ded.)`.
+
+#### Brute Force Longhorn Beetle Gu
+
+- **O que faz.** Concede temporariamente a força de um **touro** por **cinco respirações**. É o pico de força mais alto disponível no rank 1.
+- **Como é.** Besouro de chifre longo `(ded., pelo nome)`.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Caríssimo de acionar: **dez por cento** de toda a essência de um rank 1 de estágio médio, e **vinte por cento** de um rank 1 de estágio inicial. Pior: em quem tem corpo fraco, o uso repetido **lesiona e rasga os músculos**. É um Gu que fere o próprio dono.
+- **Como se obtém.** Item de prateleira da sala de estoque de academia, escolhido pronto pelos alunos; refino rotineiro de rank 1 `(ded.)`.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Faz par natural com um Gu de defesa ou de cura, porque o preço dele é dano ao próprio usuário `(ded.)`. É o exemplo canônico de que, no rank 1, **o custo de essência é o verdadeiro limitador**: com vinte por cento por disparo, um novato tem cinco acionamentos antes de ficar seco.
+
+#### Yellow Camel Longhorn Beetle Gu
+
+- **O que faz.** Concede **resistência física**: reduz muito o gasto de estamina do usuário por **quinze minutos**, e faz isso **sem nenhuma sequela** — o que é raridade neste rank.
+- **Como é.** Besouro de chifre longo, da mesma família do Brute Force `(ded.)`.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Dá aguento, não potência: sozinho não decide um confronto `(ded.)`. E o preço está no bolso — tem valor de mercado alto para o rank, comparável ao do Moonlight Gu, atrás só do Jade Skin e do Liquor Worm.
+- **Como se obtém.** Comprado pronto `(ded.)`.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É o Gu de **campanha**, não de combate: quinze minutos de fôlego resolvem uma perseguição, uma fuga ou uma marcha forçada. Combina com qualquer construção, porque não impõe condição nenhuma.
+
+### Utilidade
+
+#### Pink Boar Gu
+
+- **O que faz.** Tem uma única função: injetada a essência primordial, **altera a constituição do usuário e o faz engordar**, tornando gordo até o mais magro dos corpos. Sem uso em combate, e quase nunca escolhido.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Não tem valor de cultivo nenhum: é a peça inútil da família dos javalis.
+- **Como se obtém.** Da mesma série comum de javali, sem raridade nem preço registrados: refino rotineiro de rank 1 `(ded.)`. Também aparece no corpo de reis-javalis selvagens.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Nenhuma registrada. Vale como prova de que o sistema **não** é uma escada de poder: existe um Gu canônico cujo efeito inteiro é engordar alguém, e ele ocupa um lugar na mesma família dos Gu mais cobiçados do rank.
+
+> [!note] Para o design
+> O Pink Boar Gu é ouro para uma mesa. Ele é a resposta pronta à pergunta "por que alguém teria isso?" — disfarce, infiltração, cumprir uma exigência estética, sobreviver a um inverno. Um sistema em que todo item é útil em combate perde exatamente esse tipo de cena.
+
+---
+
+## Defesa e reforço corporal — sem caminho declarado
+
+Defesa não é um caminho único neste mundo: ela se espalha por vários (metal, madeira, água, osso). Nos primeiros volumes da obra, o **vocabulário formal de caminhos ainda não existia**, e estes Gu nunca receberam um. Aqui eles estão agrupados pela família funcional que o próprio texto lhes atribui — **nenhum caminho foi atribuído por palpite**.
+
+A família mais importante do grupo é a dos **Gu de pele** (*Skin Gu*): Beast Skin, Rock Skin, Bronze Skin, Iron Skin, Stone Skin e Jade Skin. A obra diz que são **parecidos em aparência e em efeito**, e que o que os diferencia é o **valor de mercado** e as **linhas de evolução**. Todos custam essência primordial enquanto estão acesos.
+
+### Defesa
+
+#### Beast Skin Gu
+
+- **O que faz.** Endurece a pele para elevar a defesa. A obra **não informa** quanta defesa dá, por quanto tempo nem a que custo — só que é o mais barato de acionar da família.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Defesa mínima: perde valor assim que o dono sobe de rank `(ded.)`.
+- **Como se obtém.** É **o mais comum e mais barato da família da pele**, mais barato até que o Rock Skin. Também é encontrado no corpo de **reis-javalis selvagens**, junto com o Spike Fur worm — caçar um rei-javali é uma forma canônica de conseguir um.
+- **Evolução.** **A obra afirma que ele tem mais linhas evolutivas e se funde com mais variedades de Gu do que qualquer irmão da família — e não nomeia nenhuma delas.** Este é o maior espaço em branco **autorizado** do catálogo mortal inteiro: se você precisa inventar uma árvore defensiva, invente a partir daqui, porque a obra já afirmou que ela existe e escolheu não descrevê-la.
+- **Interações.** Porta de entrada barata para fusões defensivas. Como qualquer reforço corporal, instala marcas de dao que **retardam a cura** — a obra registra que dez horas de cura contínua não fecharam um corte num tendão convertido em aço.
+
+#### Rock Skin Gu
+
+- **O que faz.** Ativado com essência primordial, faz a pele exposta mudar de amarelada para cinza-esbranquiçada e, ao mesmo tempo, **os membros incharem como balões até formarem braços de rocha grossos e enormes**. A camada resultante é tão dura que nem as garras de um Mestre Gu enlouquecido em transformação conseguem penetrá-la. O preço é a **inércia**: os braços de pedra ficam pesados e lentos demais, e um adversário ágil os esquiva com facilidade.
+- **Como é.** Ativação descrita em cena: a essência jorra como fumaça e a pele acinzenta; a versão de rank 1 cobre **membros**, não o corpo inteiro.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Peso e lentidão que anulam a capacidade de acertar um alvo rápido. E a família Rock Skin é de valor mediano: as linhas do Beast Skin são mais numerosas e mais versáteis.
+- **Como se obtém.** Comprado no mercado — mais caro que o Beast Skin, muito mais barato que o Jade Skin. Aparece na sala de Gu de uma academia de clã de porte médio, e é **oferecido em tributo por rockmen**, um povo variante que o encontra enquanto cava no subsolo. Preço exato: —
+- **Evolução.** **Não citada pela obra.** O catálogo plano associa o **Monolith Gu** (rank 2, que cobre o corpo inteiro de pele de rocha) como degrau seguinte, mas a verificação no texto mostra que a obra apenas **lista os dois lado a lado** numa mesma coleção e descreve o efeito de cada um: ela **nunca afirma avanço** de um para o outro. Dedução plausível; não é texto.
+- **Interações.** Sinergia canônica e explícita: com o **jade wind wheel Gu** (rank 2, do caminho do vento), que faz um par de ciclones cor de jade girar em torno dos braços de rocha como braçadeiras e **devolve a velocidade perdida**. É correção de fraqueza em estado puro, e o exemplo mais limpo da regra de que "Gu podem ser usados juntos para aumentar a habilidade **ou para cobrir a fraqueza**".
+
+#### Jade Skin Gu
+
+- **O que faz.** Cobre a pele com uma camada de **luz jade esverdeada** — acionável só num membro — que segura socos e lâminas de luar. Drena essência continuamente, e drena **mais quanto mais forte for o golpe recebido**. Aguenta até **dezesseis atacantes simultâneos**.
+- **Como é.** Camada de luz verde-jade sobre a pele.
+- **Dieta.** **Pedra de jade: dois liang a cada dez dias.** A fonte de jade é um problema logístico à parte, resolvível com pérolas de macaco-de-pedra-olho-de-jade.
+- **Desvantagem.** Quebra sob força bruta suficiente, e a dieta mineral exige uma fonte estável. É **o mais raro da família da pele**, com valor de mercado que rivaliza com o do Liquor Worm — um clã de porte médio pode não ter nenhum em estoque.
+- **Como se obtém.** Comprado, quando aparece.
+- **Evolução.** Duas rotas nomeadas, ambas de rank 2, e ambas dependem de um segundo Gu de rank 1:
+  - **White Jade Gu** (rank 2) — Jade Skin **+ White Boar Gu**. Defesa pura; a força do javali é descartada na fusão. Catalisador: presa de rei-javali, cerca de +20 pontos percentuais de chance.
+  - **Moon Raiment Gu** (rank 2) — Jade Skin **+ Moonlight Gu**. Defesa em área que protege terceiros. Rota rara, com teto em rank 5.
+  - É também a raiz declarada do **Moonlight Treasure King Gu** (rank 5), por múltiplas fusões sucessivas que a obra não nomeia.
+- **Interações.** É o Gu de rank 1 com **mais rotas de rank 2 nomeadas depois do próprio Moonlight**, e as duas rotas divergem radicalmente: uma vira armadura pessoal, a outra vira guarda-chuva de grupo. Para um grupo de cinco, essa segunda rota vale muito mais do que o número de defesa sugere.
+
+#### Iron Skin Gu, Bronze Skin Gu e Stone Skin Gu
+
+- **O que faz.** Mesma família do Beast Skin, com aparência e efeito próximos. Acionados, dão **brilho à pele** — amarelo no bronze, cinza-pedra no stone, negro-ferro no iron — e elevam muito a resistência e a defesa do corpo. São a escolha padrão de quem luta corpo a corpo.
+- **Como é.** O corpo brilha na cor do metal enquanto o Gu está aceso.
+- **Dieta.** Não informada; no rank 1 comem de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Mesmo teto baixo da família `(ded.)`, e o custo de essência corre enquanto o Gu está aceso.
+- **Como se obtém.** Escolha corriqueira, disponível na sala de estoque de qualquer clã.
+- **Evolução.** **Só o Bronze Skin Gu tem rota citada, e ela é de um tipo especial.** A obra o chama de "*series Gu* do rank um ao rank três": **o nome não muda**, mas o efeito sim, e muda de gênero:
+  - **rank 1 e 2** — defesa **temporária**, por período limitado, reativável, paga em essência a cada uso;
+  - **rank 3** — **consome o próprio corpo do usuário** e concede a defesa **permanentemente**; uso único;
+  - **rank 4** — aí o nome muda: **Ancient Bronze Skin Gu**, que remodela pele e carne em "bronze antigo", com defesa muito superior. Leva mais de um mês de uso contínuo, e há uma otimização conhecida de pouquíssima gente: aplicá-lo com o corpo **submerso em líquido de bronze** acelera o processo em **trinta por cento**.
+  - Para o **Iron Skin Gu** e o **Stone Skin Gu**, a obra não cita evolução nenhuma.
+- **Interações.** Intercambiáveis entre si: quem não achar um acha outro. Reforço corporal permanente (no rank 3 em diante) é justamente o caso em que a obra afirma que **a cura passa a funcionar mal ou a ferir** — um personagem que endureceu o corpo precisa repensar quem cuida dele.
+
+#### Green Silk Gu
+
+- **O que faz.** Ativado, faz o **cabelo do usuário crescer furiosamente**: uma pessoa comum tem pelo menos cem mil fios, e cada um dos cem mil chega a **cinco ou seis metros** de comprimento; os fios se entrelaçam e cobrem o corpo do Mestre Gu **e também a montaria em que ele estiver**, formando uma capa de cabelo impenetrável que a chuva não atravessa.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Custa **trinta por cento** da essência de cobre-verde (rank 1) para ativar, e é gasto **de uma vez só** — não é consumo contínuo. Trinta por cento por acionamento é uma fatia enorme do orçamento de um novato. E a proteção é de rank 1: adequada contra chuva e ataques leves, mas a obra **nunca a mostra parando um golpe de Mestre Gu**. Duração da capa depois de formada: —
+- **Como se obtém.** Gu comum de **caravana**: os comboios o usam rotineiramente para proteger carga e montaria da chuva. Refino rotineiro de rank 1 `(ded.)`.
+- **Evolução.** **Black Mane Gu** (rank 2) — Green Silk **+ Black Boar Gu**. É uma fusão cara para um rank 2, porque o Black Boar vale mais que um Liquor Worm. Adiante: **Steel Mane Gu** (rank 3), ofensivo e defensivo.
+- **Interações.** Contraste canônico útil: ao contrário do one-stretch golden light worm, que **drena essência enquanto o escudo estiver de pé** e obriga um grupo a se revezar quando a essência acaba, o Green Silk cobra tudo de uma vez e depois não cobra mais. São dois modelos econômicos diferentes de defesa, e a escolha entre eles é uma escolha de ritmo de combate. Como usa o cabelo do dono, entra na mesma família de restrição do Black Hair Gu e do Steel Hair Gu: **cortar o cabelo desativa o Gu** `(ded.)`.
+
+#### Fire Cloak Gu
+
+*(pertence ao caminho do fogo `(ded.)`, pelo tema e pelo efeito; a obra não declara o caminho.)*
+
+- **O que faz.** Acionado, veste o usuário com um **manto de fogo**. É peça **defensiva**, e queima levemente quem encosta. O segundo efeito é o interessante: o manto **esconde o que o usuário está fazendo por baixo dele** — usá-lo junto de um Gu de cura permite tratar-se em público sem ninguém ver.
+- **Como é.** Uma **borboleta de padrões vermelhos** com aura morna.
+- **Dieta.** Carvão em brasa e cinzas quentes `*`.
+- **Desvantagem.** A queimadura é fraca demais para valer como ataque, e o manto não substitui uma armadura de verdade `(ded.)`.
+- **Como se obtém.** É um dos **três Gu oferecidos a iniciantes como opção de partida**, ao lado do Water Arrow Gu e do Spirit Saliva Gu.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Faz par explícito com o **Spirit Saliva Gu**: o manto cobre, a saliva cura, e o adversário não percebe que o alvo está se recuperando. Dois Gu de rank 1 formando um truque que muda o cálculo de uma luta inteira — e ambos saem da mesma bandeja de escolha inicial.
+
+### Ataque
+
+#### Bone Spear Gu
+
+- **O que faz.** Disparado, vira uma **lança de osso**. Alcance e dano: —
+- **Como é.** Verme branco do tamanho de um dedo, redondo numa ponta e afiado na outra, como uma lança em miniatura.
+- **Dieta.** **Leite.** Os exemplares são criados e guardados dentro de um **caldeirão de leite**, e uma coleção grande exige uma fonte contínua dele.
+- **Desvantagem.** A dieta é o preço real: manter centenas deles exige uma nascente de leite própria, e sem ela o dono simplesmente não sustenta o estoque.
+- **Como se obtém.** Colhido às centenas do caldeirão de leite da **herança do Osso Branco**, onde o refino é imediato. Fora dali, não há registro de compra. É o Gu-base dessa herança e a assinatura dos Mestres de um clã inteiro — ocupa, ali, a mesma posição que o Moonlight Gu ocupa no clã Gu Yue.
+- **Evolução.** **Spiral Bone Spear Gu** (rank 2 `(ded.)`) — "a evolução do Bone Spear Gu", com poder de ataque e força de penetração maiores. Come o mesmo leite e fica na mesma tina. A obra não dá o rank de nenhum dos dois; numa cena, uma personagem lamenta não haver ali "nenhum Gu de rank três", o que os coloca em rank 1 e 2 `(ded.)`.
+- **Interações.** É o único Gu de rank 1 do catálogo que se acumula **às centenas** — um único praticante refinou mais de duzentos de uma vez. Isso o torna a base natural de golpes combinados de saturação `(ded.)`, e faz do **acesso ao leite** um objetivo de campanha inteiramente jogável.
+
+### Material de fusão
+
+#### Fish Scale Gu
+
+- **O que faz.** — A obra o trata como **material de fusão**, não como Gu de uso, e não descreve efeito próprio.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** Efeito próprio não descrito.
+- **Como se obtém.** Produzido pelo clã Bai; um clã vizinho tem alguns, em menor número. Valor de mercado **só um pouco abaixo do Jade Skin Gu**, o que o torna caro para um material. Em época de controle de recursos — uma maré de lobos, por exemplo — some do mercado.
+- **Evolução.** Duas rotas nomeadas, e o par delas é o caso didático mais limpo da obra sobre **conhecimento de receita como vantagem estratégica**:
+  - **Scale Armor Gu** (rank 2) — boa defesa. Receita de **conhecimento corrente**: qualquer Mestre Gu razoavelmente instruído da época sabe indicá-la a quem não tem Gu defensivo.
+  - **Stealth Scales Gu** (rank 2) — Fish Scale **+ Stealth Rock Gu**. Furtividade. E a obra registra a datação: essa combinação **só seria descoberta publicamente cerca de duzentos anos depois**. Quem a conhece antes tem uma vantagem que nenhum dinheiro compra.
+- **Interações.** Rank 1 `(ded.)`, por fundir com um rank 1 para gerar um rank 2. O caso dele é o argumento pronto para uma campanha de intriga: **o mesmo material vale coisas diferentes conforme quem o segura sabe o que fazer com ele**.
+
+---

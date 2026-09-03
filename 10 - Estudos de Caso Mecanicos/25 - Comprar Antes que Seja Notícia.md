@@ -54,7 +54,7 @@ não pode ser confiscado, roubado sem violência, nem alagado.
 **A situação:** uma informação estratégica não confirmada — a localização provável de um
 território de cultivo valioso.
 
-**A jogada:** vendê-la a uma potência local por **quatrocentas mil pedras primordiais** e,
+**A jogada:** vendê-la a uma potência local por **quatrocentas mil [[02 - Pedras Primordiais|pedras primordiais]]** e,
 em seguida, vender uma versão dela à potência rival, protegendo-se com uma **fonte falsa**
 ("estava nas anotações de fulano") para que a origem não converja para o vendedor.
 

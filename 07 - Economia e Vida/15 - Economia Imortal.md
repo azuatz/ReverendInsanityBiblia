@@ -18,6 +18,14 @@ conhecimento: especializado
 com moeda própria, praça própria e uma tabela de câmbio tão brutal que ==subir de rank
 empobrece a pessoa==.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de
+> algo que a obra afirma. `*` é **invenção ou indução nossa**, sem base textual. `—`
+> significa que a obra não informa e nada foi preenchido. Onde aparecer o rótulo
+> `inferido · conferido pelo autor`, trate-o como um `*` que já passou por revisão: é
+> reconstrução deste vault, não citação. **Apagar tudo que estiver marcado com `*` devolve
+> este documento a cem por cento canônico.**
+
 ## A moeda
 
 A moeda da camada imortal é a **pedra de essência imortal** (*immortal essence stone*), e
@@ -66,16 +74,25 @@ conta de lichia branca, por dez mil.
 
 Cada rank de cultivo divide por cem o poder de compra do dinheiro.
 
-> [!warning] Converter para cima custa mais do que a proporção nominal
-> Os 100:1 acima são a razão de **valor**. Produzir de fato uma unidade de essência de
-> rank superior a partir da inferior consome **mais** do que cem unidades — a obra dá o
-> caso de uma conta de tâmara vermelha exigindo pelo menos cento e trinta contas de uva
-> verde. Há perda no processo, e ela não é desprezível.
+> [!warning] A fusão é limpa; a sobretaxa está no **uso**, não na conversão
+> Este é o ponto em que quase todo material sobre o assunto erra, inclusive uma versão
+> anterior desta nota. São duas regras diferentes e é preciso separá-las:
 >
-> Para o design, essa diferença entre "quanto vale" e "quanto custa fabricar" é um
-> atrito econômico útil: desestimula a conversão como estratégia trivial de
-> enriquecimento e faz com que subir de patamar exija mudar de *fonte* de renda, não
-> apenas acumular mais da moeda antiga.
+> - **Fundir é 100 para 1, sem perda.** Cem contas de uva verde se fundem em uma de tâmara
+>   vermelha. A obra afirma isso literalmente, e não menciona nenhum desperdício no
+>   processo.
+> - **Usar essência de rank abaixo do Gu custa cerca de 30% a mais.** Se você aciona um Gu
+>   de rank 7 queimando essência de uva verde (rank 6) em vez de tâmara vermelha (rank 7),
+>   gasta cerca de trinta por cento de energia a mais para obter o mesmo efeito — é por
+>   isso que o texto diz que "o efeito de uma conta de tâmara exigiria pelo menos cento e
+>   trinta contas de uva verde". Esses **130 são a penalidade de uso**, não o preço da
+>   fusão. Somar as duas coisas e concluir que a conversão custa 130 é o erro clássico.
+>
+> Regra prática para a mesa: **converta a 100:1** e **cobre 30% de sobretaxa** de quem
+> insistir em acionar um Gu com essência de rank inferior. É justamente essa sobretaxa que
+> faz valer a pena parar e fundir antes de uma batalha longa.
+>
+> Onde este vault e o apêndice divergirem, [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] vence.
 
 A consequência é dramática e vale enunciar com todas as letras: **um cultivador que
 enriqueceu como rank 6 acorda pobre como rank 7**. Um rank 8 que pague qualquer coisa em
@@ -99,13 +116,13 @@ jeito mais antigo que existe.
 > metade do preço.
 
 Para calibrar a escala: uma pedra de essência imortal vale mais de cem milhões de pedras
-primordials. Um cultivador imortal pode ter bilhões de pedras primordiais guardadas e **zero**
+primordiais. Um cultivador imortal pode ter bilhões de pedras primordiais guardadas e **zero**
 pedras de essência imortal — e não conseguir comprar sequer os recursos básicos do próprio
 cultivo.
 
 ### Riqueza típica por rank
 
-| Rank | Reserva típica (em pedras de essência imortal) |
+| Rank do cultivador | Reserva típica de patrimônio, em pedras de essência imortal |
 |---|---|
 | 6 | Algumas centenas |
 | 7 | Milhares a mais de 10.000 |
@@ -330,7 +347,7 @@ importa — **de que rank é o material que sai dali**:
 | Grande | rank 6 estável, rank 7 ocasional | o primeiro porte que interessa a um imortal |
 | Gigante | rank 7 estável | ativo de super força |
 | Super | rank 8 | ativo estratégico; poucos existem |
-| **Pináculo** | **acima da escala — não precificável** | não produz "material de rank tal": o próprio território **é** um domínio recluso de céu e terra, uma realidade autocontida. Ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] |
+| **Pináculo** | **acima da escala — não precificável** | não produz "material de rank tal": o próprio território **é** um domínio recluso de céu e terra, uma realidade autocontida. Ver [[13 - Blessed Lands e Grotto-Heavens\|Blessed Lands e Grotto-Heavens]] |
 
 Os três portes de baixo estão marcados `inferido · conferido pelo autor` porque a obra os trata como um bloco
 único ("nível rank 1 a 5") e nunca diz onde um termina e o outro começa. A repartição acima

@@ -73,8 +73,9 @@ Isso não é humilhação decorativa: é a estrutura de emprego do mundo. Ver
 [[05 - Tipos de Gente e Filosofias de Vida#O de aptidão baixa|Tipos de Gente e Filosofias de Vida]].
 
 **E a logística é combate por outros meios.** Numa mobilização de tribo, são os Mestres Gu de
-apoio e logística que **erguem as linhas de defesa** — três linhas construídas a trezentos li
-do inimigo —, e assim que terminam recuam e **queimam pedras primordiais para recuperar a
+apoio e logística que **erguem as linhas de defesa** — três linhas construídas a trezentos
+==li== do inimigo, o li sendo a unidade de distância deste mundo, que vale meio quilômetro;
+trezentos li são portanto cerca de cento e cinquenta quilômetros —, e assim que terminam recuam e **queimam pedras primordiais para recuperar a
 própria essência**, sem relaxar um instante, porque quando a frente não aguentar eles vão
 entrar como reforço. Não há retaguarda segura; há retaguarda ocupada.
 
@@ -191,7 +192,9 @@ bucha, os verdes atiram flechas, os vermelhos se autodetonam e os pretos são a 
 **o auge da batalha de atrito**: comanda-se um exército e afoga-se o inimigo em número. Os
 números são sérios — mestres estabelecidos operam grupos de quatrocentos mil feras, e o
 recordista histórico citado passava de seiscentos e cinquenta mil. O gargalo não é o combate: é
-**alimentar** e movimentar tudo isso, e a solução dos que têm terra abençoada é guardar o
+**alimentar** e movimentar tudo isso, e a solução dos que têm
+[[13 - Blessed Lands e Grotto-Heavens|terra abençoada]] — o mundo de bolso privado que um
+cultivador imortal possui e onde cabe um rebanho inteiro — é guardar o
 rebanho dentro dela. Sem esse recurso, a única saída do escravizador comum é **gastar as feras
 em batalha antes que elas comam a despensa**.
 
@@ -278,3 +281,4 @@ expectativa.
 - [[09 - Formações de Gu|Formações de Gu]] · [[08 - Killer Moves|Killer Moves]] — a fortificação e a artilharia do cenário.
 - [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o quadro de mérito como sistema de missões numa mesa.
 - [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — a região onde se guerreia o ano inteiro, e as que não guerreiam.
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto vale um li, quanto se marcha por dia e que tamanho tem de fato um campo de batalha destes.

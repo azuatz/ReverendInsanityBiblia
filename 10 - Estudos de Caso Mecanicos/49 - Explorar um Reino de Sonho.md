@@ -69,11 +69,21 @@ sonho — e sobreviver é o requisito mínimo para explorar qualquer coisa.
 Num reino de sonho deixado por um dos maiores cultivadores da história, a exploração vira
 **operação por estágios**, e o consumo é medido:
 
+A unidade é a ==man soul==, e ela é comparativa: uma man soul é a alma de uma pessoa comum, de
+modo que "dez milhões de man soul" quer dizer uma alma dez milhões de vezes maior que a de um
+transeunte qualquer. Cem milhões é o **teto humano** da escala, ponto em que a alma deixa de ser
+fantasmagórica e passa a interferir na matéria. Para calibrar o custo: **mil** man soul custam
+cerca de vinte anos de cultivo dedicado do caminho da alma.
+
 | Estágio | Fundação de alma ao entrar | Ao sair |
 |---|---|---|
-| 1º | 10 milhões | ~9 milhões, e a corrosão derrubou pela metade |
+| 1º | 10 milhões | a corrosão levou **cerca de metade** — saiu com pouco mais de 5 milhões |
 | 2º | 90 milhões | pouco mais de 1 milhão |
-| 3º | 200 milhões | um único golpe de um guarda cortou 50 milhões de uma vez |
+| 3º | 200 milhões | um único golpe de um guarda cortou **50 milhões** de uma vez |
+
+Repare no que a coluna da direita diz: **entra-se com uma alma e sai-se com um caco dela**. O
+segundo estágio consumiu 98% da fundação de entrada. Um reino de sonho não é uma biblioteca
+perigosa — é um moedor que cobra em anos de cultivo por cada degrau de compreensão.
 
 **A recompensa:** um degrau inteiro de domínio teórico **por estágio**, subindo até o limite
 do que aquele mundo conhece.

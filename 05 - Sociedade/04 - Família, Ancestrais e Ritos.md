@@ -328,7 +328,7 @@ da região. Os detalhes que a obra dá são deliciosamente administrativos:
 - o tributo é **decenal**, e as tribos sabem de cor quanto falta para a próxima cobrança;
 - é pago em materiais e sobretudo em **Gu**, que são a parte valiosa;
 - os líderes tribais vão **ajoelhados**, levam as oferendas subindo até o templo, e chamam a
-  pessoa de "esteemado senhor imortal";
+  pessoa de "estimado senhor imortal";
 - e **pedem redução**, alegando safra ruim, enchente ao norte, incêndio a leste, dificuldade
   crescente de obter os itens — exatamente como se pede desconto de tributo a um senhor.
 

@@ -29,7 +29,7 @@ precisa circular sem ser tratado como ameaça.
 **O método:**
 
 1. Aceitar publicamente uma dívida grande por um favor recebido — no caso, **duzentas mil
-   pedras primordiais**, valor que ele próprio elevou (o credor havia pedido cem mil, e ele
+   [[02 - Pedras Primordiais|pedras primordiais]]**, valor que ele próprio elevou (o credor havia pedido cem mil, e ele
    ofereceu o dobro "para ficar tranquilo").
 2. Declarar em praça pública que não tem o valor todo agora, e pagar **na frente de todo
    mundo, em parcelas**, a cada nova vitória de arena — despejando montanhas de pedras no
@@ -42,7 +42,7 @@ vale.
 
 **O retorno, nas palavras do próprio texto:** *"reputação é uma ponte, que permite às
 pessoas atravessar o abismo; reputação é um salvo-conduto, mais importante e precioso que
-o [token de trânsito da região]"*. E a comparação de preços que fecha a conta: **duzentas
+o salvo-conduto oficial que a região emite"*. E a comparação de preços que fecha a conta: **duzentas
 mil pedras não bastariam sequer para comprar aquele salvo-conduto** — e compraram a
 reputação, que abre mais portas. O texto chama isso, sem ironia, de "o melhor negócio do
 mundo".
@@ -53,13 +53,18 @@ exatamente como se pretendia — como **dissuasão**.
 
 ## Variante — a derrota calculada que empobrece o vencedor
 
-**A situação:** um combatente prestes a perder por esgotamento de energia.
+**A situação:** uma cultivadora prestes a perder por esgotamento de energia. É o mesmo episódio
+detalhado em [[19 - Perder de Propósito e Cobrar Caro|Perder de Propósito e Cobrar Caro]], visto
+aqui pelo ângulo da reputação.
 
 **O método:** gastar o que resta **não em tentar vencer**, mas em destruir os Gu de trunfo
 do adversário antes de se render — no caso, três dos artefatos de combate do vencedor.
 
-**O resultado:** ele perdeu a luta e um Gu próprio; o vencedor ganhou a luta e perdeu
-patrimônio que levaria anos para repor. E o derrotado saiu com reputação **aumentada**.
+**O resultado:** ela perdeu a luta e um Gu próprio; o vencedor ganhou a luta e perdeu
+patrimônio que levaria anos para repor. `(ded.)` E a derrotada saiu com a reputação **aumentada**
+— este último ponto é leitura nossa, não afirmação da obra: decorre de a plateia ter visto uma
+perdedora impor um prejuízo que o vencedor não conseguiu evitar, que é exatamente o que esta nota
+identifica como a moeda da reputação.
 
 **A regra por trás:** num mundo em que o poder de uma pessoa é o inventário dela, **dano
 patrimonial vale mais que dano de placar**.

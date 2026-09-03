@@ -80,8 +80,7 @@ Daí saem as consequências que fazem a categoria funcionar como cenário:
 - **O relógio começa a correr no momento da abertura.** Ou a janela fecha, ou a terra morre,
   ou o herdeiro absorve mais um pouco a cada hora que passa.
 
-Uma herança também pode abrir **por acidente**: uma [[24 - A Grande Era e as Marés de Qi|maré
-de qi]] varre o mundo e desenterra uma terra abençoada escondida; um terremoto rasga o chão;
+Uma herança também pode abrir **por acidente**: uma [[24 - A Grande Era e as Marés de Qi|maré de qi]] varre o mundo e desenterra uma terra abençoada escondida; um terremoto rasga o chão;
 uma guerra derruba a proteção. Nesses casos não há filtro nenhum — só a corrida.
 
 ## Como é por dentro

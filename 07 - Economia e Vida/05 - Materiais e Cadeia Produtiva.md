@@ -257,10 +257,13 @@ ela marca a passagem de uma economia de consumo para uma economia de propriedade
 
 ## Quanto custa um lote
 
-Preços de material que a obra registra, para calibrar. Os do mundo mortal estão em
-[[03 - Preços, Renda e Custo de Vida|pedras primordiais]]; os do patamar imortal, em pedras de essência imortal.
+Preços de material que a obra registra, para calibrar. **Cada linha diz a sua unidade**: os
+do mundo mortal estão em [[02 - Pedras Primordiais|pedras primordiais]]; os do patamar
+imortal, em pedras de essência imortal (a moeda descrita em [[15 - Economia Imortal|Economia Imortal]]).
+Nunca some as duas colunas — uma pedra de essência imortal vale mais de cem milhões de
+pedras primordiais.
 
-| Material | Preço |
+| Material | Preço (a unidade vem dita em cada linha) |
 |---|---|
 | Pétala de orquídea-da-lua | 1 pedra por dez unidades |
 | Erva da intimidade | 2 pedras por meio quilo |

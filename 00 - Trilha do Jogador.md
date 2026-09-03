@@ -65,7 +65,7 @@ Conhecimento de senso comum: um camponês sabe disso, ainda que superficialmente
   [[07 - Enslavement Path|Enslavement Path]], [[08 - Refinement Path|Refinement Path]], [[09 - Formation Path|Formation Path]], [[10 - Poison Path|Poison Path]],
   [[11 - Sword Path|Sword Path]], [[12 - Soul Path|Soul Path]], [[13 - Sound Path|Sound Path]], [[14 - Space Path|Space Path]],
   [[17 - Information Path|Information Path]]
-- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — os doze caminhos da natureza física (fogo, água, terra,
+- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — os onze caminhos da natureza física (fogo, água, terra,
   madeira, metal, relâmpago, vento, gelo, luz, trevas, nuvem). São o grosso do mundo de
   cultivo: o que quase todo Mestre Gu que a mesa encontrar vai praticar
 

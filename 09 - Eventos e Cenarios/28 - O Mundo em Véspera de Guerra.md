@@ -40,8 +40,15 @@ usado como escudo.
 
 > [!note] Por que esta nota é diferente das outras da pasta
 > As outras notas descrevem acontecimentos. Esta descreve **um clima**. E ela tem uma
-> propriedade que nenhuma outra tem: **spoiler zero**, porque o que a define é justamente
-> aquilo que a obra não mostra.
+> propriedade que nenhuma outra tem: **o acontecimento central dela nunca é encenado**, então
+> não há capítulo a estragar.
+>
+> Uma ressalva honesta, porém, porque ela muda a quem esta nota pode ser entregue: o *estado*
+> descrito aqui é o do **fim da obra**. Saber que três das cinco regiões acabam submetidas, e
+> que a regra de três milhões de anos segundo a qual só existe um rank 9 por vez foi quebrada,
+> é saber para onde o mundo caminha — mesmo sem saber por quem nem como. Nada aqui nomeia
+> vencedor, morte ou traição, e nenhuma nota desta pasta conta a história; mas se a sua mesa
+> tem alguém que pretende ler a obra, **esta é a nota a entregar por último**.
 >
 > A "guerra caótica das cinco regiões" é citada **mais de cento e cinquenta vezes** ao longo
 > da obra — como referência de mercado, como precedente militar, como cálculo político, como
@@ -53,8 +60,8 @@ usado como escudo.
 
 Três coisas aconteceram, e nenhuma delas pode ser desfeita.
 
-**As paredes caíram.** As cinco regiões eram cinco ilhas separadas por barreiras que puniam
-quem as atravessasse. Elas se dissolveram (ver
+**As paredes caíram.** As cinco regiões eram cinco ilhas separadas por **paredes regionais** que
+puniam quem as atravessasse. Elas se dissolveram (ver
 [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]]), e o mundo virou um
 continente só. A conclusão que todo mundo tira em voz alta é sempre a mesma: *as cinco
 regiões são uma agora, a guerra caótica das cinco regiões não pode ser evitada.*
@@ -102,7 +109,12 @@ antes de verem qualquer potência de topo.
    sempre foram decididas por indivíduos, com as fortalezas voadoras em papel de suporte.
 4. **Os grandes evitam confronto direto entre si e agem por procuradores.** "Aos olhos dos
    veneráveis, somos como formigas." Isso significa que **quase todo conflito visível na
-   mesa é terceirizado**, e que descobrir quem está pagando é uma aventura por si só.
+   mesa é terceirizado**, e que descobrir quem está pagando é uma aventura por si só. Esta é a
+   trava que sustenta o período inteiro — a **trava 15** do cardápio da
+   [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *a ocupação dos
+   poderosos*, na sua forma permanente: as três potências de topo se vigiam umas às outras o
+   tempo todo e nenhuma pode gastar atenção com gente pequena. **Um grupo de rank médio não é
+   protegido, é irrelevante — e irrelevância, aqui, é a mesma coisa que liberdade de ação.**
 5. **Nasce um comportamento novo de sobrevivência: procurar rota de fuga com o inimigo do
    próprio protetor.** Tribos que temem virar bucha de canhão do seu padrinho buscam contato
    secreto com o padrinho rival. É traição preventiva, e é generalizada.

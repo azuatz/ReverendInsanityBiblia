@@ -45,6 +45,21 @@ a emoção que cada pedaço despeja no peito de quem pisa nele==.
 > integralmente, quem desceu, quem morreu, quem levou o quê e como a expedição terminou.
 > Nenhuma figura de rank 9 aparece por nome.
 
+> [!warning] A trava canônica deste cenário
+> Duas, e a segunda é a que faz a caverna valer a nota. A primeira é a **trava 2** do cardápio
+> da [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]] — *ser fraco é a
+> credencial de entrada* —, que vale para toda área feroz: a aura de um Gu Imortal provoca as
+> feras e desencadeia uma maré que denuncia a posição de quem a causou, e por isso as grandes
+> forças ficam na borda e mandam mortais na frente.
+>
+> A segunda é a **trava 17**, e é própria daqui: **o lugar enlouquece quem entra**. Os sons
+> demoníacos varrem a caverna em intervalos regulares e viram lunático **até um Gu Imortal de
+> rank 8**. E, o que mais importa para uma mesa, a profundidade que alguém alcança é função
+> direta do **attainment** — o domínio *teórico* do caminho —, e não do rank de cultivo. Ou
+> seja: **ali dentro, força não compra profundidade**, e um personagem de rank baixo com
+> compreensão profunda de um caminho vai mais fundo que um rank 8 assombrado. É a régua trocada,
+> e é canônica.
+
 ## Por que existe
 
 Vista de fora, é uma das **dez grandes áreas ferozes** das Planícies do Norte: uma zona

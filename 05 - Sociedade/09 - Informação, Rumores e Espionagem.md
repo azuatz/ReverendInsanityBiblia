@@ -97,9 +97,9 @@ ele é a espinha dorsal de toda organização grande. Não produz dano; produz *
 | Gu de informação genérico | 1 | Um recado avulso; refinado em minutos, comprado a esmo, jogado de mão em mão |
 | Gu janela do leste | 4 | Uma joaninha de carapaça quadrada como caixilho de janela, feita para **armazenar** informação importante |
 | Gu de tarefas institucional | 5 | Distribui missões e guarda segredo com qualidade excepcional; é o método de comunicação interna da maior organização do mundo |
-| Pássaro Verde Portador de Cartas | Imortal | Carta que **atravessa as paredes entre regiões** — a única forma de correspondência inter-regional |
-| Sentido Mútuo | 6 | Sentir remotamente um lugar e o que há nele |
-| Penhor da Montanha · Juramento do Mar · Promessa | 6 | Selar acordos (ver [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]) |
+| Sentido Mútuo | 6 (imortal) | Sentir remotamente um lugar e o que há nele |
+| Penhor da Montanha · Juramento do Mar · Promessa | 6 (imortal) | Selar acordos (ver [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]) |
+| Pássaro Verde Portador de Cartas | imortal, rank não declarado | Carta que **atravessa as paredes entre regiões** — a única forma de correspondência inter-regional |
 
 Dois detalhes com muito uso de mesa:
 
@@ -170,8 +170,8 @@ A obra trata boato como operação, com objetivo, alvo e efeito esperado. Os uso
   abriga.
 - **Fabricar pressão coletiva.** Nove grandes seitas declaram apoio a uma décima e produzem
   deliberadamente "uma enorme pressão de opinião pública" sobre o alvo.
-- **Flushar um alvo escondido.** Espalhar a notícia da morte de alguém que se procura, para
-  que ela reaja — ou para confundir quem a caça.
+- **Fazer um alvo escondido se mexer.** Espalhar a notícia da morte de alguém que se procura,
+  para que ela reaja e se denuncie — ou para confundir quem a caça.
 - **Desinformação estratégica no topo.** Uma potência espalha que um inimigo está prestes a
   avançar de rank, para provocar uma reação equivocada.
 - **Autodifamação.** Sujar a própria reputação de propósito para desviar suspeita, listada na

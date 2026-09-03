@@ -65,6 +65,17 @@ assimétrica.
 > você precisa de um território rico e desguarnecido, a resposta canônica é: **o rank 8 dele
 > morreu, saiu ou nunca existiu**. Não é preciso inventar mais nada.
 
+> [!warning] A trava canônica deste cenário
+> Aqui a trava não impede os poderosos de entrar — ela os **ocupa em outro lugar**. É a trava
+> 15 do cardápio da nota-porta, *a ocupação dos poderosos*, na forma mais crua possível: quando
+> uma potência cai, todos os imortais grandes da região convergem para a **sede** (o prêmio
+> grosso) ou para o **território vizinho do próprio quintal**. Sobra a periferia, e a periferia
+> é exatamente do tamanho de um grupo pequeno. Some-se a trava 11, *o impasse entre gigantes*:
+> ninguém aceita se submeter a ninguém no rescaldo, não há general, e por isso não há ninguém
+> encarregado de expulsar os catadores. **Este é o único tipo de cenário deste mundo sem
+> porteiro** — e é por isso que a mesa não disputa contra um chefe, mas contra outros grupos
+> exatamente do tamanho dela. Ver [[01 - Visão Geral dos Eventos#As travas|As travas]].
+
 ---
 
 # Escala 1 — um clã morre
@@ -337,6 +348,30 @@ por um morto ganancioso. É um gancho de tesouro com prazo indeterminado e conco
 > um vingativo pede a cabeça de alguém. `*` E lembre que o espírito **não produz nada** — ele
 > só gasta —, então há um relógio silencioso correndo em toda propriedade órfã, e um grupo
 > paciente pode simplesmente esperar o preço cair.
+
+## Desfechos possíveis
+
+O leque, para a mesa escolher — vale nas três escalas, e todos saem das regras acima.
+
+- **O grupo sai carregado e ninguém percebeu.** O desfecho bom e o mais comum quando a análise
+  de risco foi bem feita: pegou-se um território que ninguém forte queria, num momento em que
+  ninguém estava olhando, e saiu-se antes de aparecer alguém maior.
+- **O grupo é o segundo a chegar.** Outro grupo do mesmo tamanho já está lá. Não há autoridade
+  para arbitrar, e as opções são as três de sempre: dividir, esperar ou emboscar — sabendo que
+  a terceira cria um inimigo que também vai voltar.
+- **O grupo compra o que não pode carregar.** Colheu o material e descobriu que não tem onde
+  guardar, quem processe ou a quem vender sem denunciar a origem. Vende barato para quem tem, e
+  enriquece outra pessoa com o próprio trabalho.
+- **O espólio vem com a dívida.** Herdar o território é herdar as dívidas, os juramentos
+  pendentes e a desconfiança dos vizinhos — que dura gerações e não pode ser paga.
+- **A herança é grande demais para o herdeiro.** O grupo consegue a condição de posse de uma
+  terra abençoada órfã e descobre que agora **é** o alvo: um cofre com dono fraco anuncia-se
+  sozinho, e a próxima onda já está se formando.
+- **A conta chega de cima.** Anos depois, um edito da autoridade regional mobiliza as forças
+  tradicionais contra quem enriqueceu no rescaldo. Ganhar o território não foi ganhar o lugar.
+- **Nada acontece.** O grupo chega tarde, encontra um vale já limpo, um vigia mal pago no
+  portão e nenhuma pista — e o desfecho é ter atravessado a temporada sem morrer. Neste tipo
+  de cenário isso conta como vitória.
 
 ## O que a obra não diz
 

@@ -157,10 +157,13 @@ e por isso valem como regras do domínio inteiro. As marcadas com 🔒 são segr
 10. **Toda potência mantém espiões plantados nas rivais, por décadas, com vida dupla
     completa** — casamento, filhos, carreira. Um NPC leal há trinta anos pode ser um ativo
     dormente. Ver [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]].
-11. **A única organização que atravessa fronteiras regionais é a Aliança dos Zumbis.** Sede no
-    Mar Oriental e filiais na Fronteira Sul, nas Planícies do Norte e no Deserto Ocidental —
-    a obra não mostra filial no Continente Central. Todas as outras forças do mundo são
-    estritamente regionais, porque a muralha regional enfraquece quem a atravessa e torna
+11. **A única organização que atravessa fronteiras regionais é a Aliança dos Zumbis.** A obra é
+    literal: sede no Mar Oriental e **uma filial em cada uma das outras quatro regiões** —
+    Fronteira Sul, Planícies do Norte, Deserto Ocidental e Continente Central. A filial do
+    centro existe e é nomeada, embora seja a mais irrelevante das quatro. Só a sede é mais
+    forte que as super forças da região onde está; as filiais são todas mais fracas que as
+    super forças locais e vivem suprimidas por elas. Todas as outras forças do mundo são
+    estritamente regionais, porque a parede regional enfraquece quem a atravessa e torna
     impossível administrar à distância. Ver [[17 - Zumbis e Corpos Transformados\|Zumbis e Corpos Transformados]].
 12. 🔒 **A diferença entre o que uma força detém de fato e o que ela deixa o mundo acreditar é
     a matéria-prima de campanha desta pasta.** Várias organizações têm natureza real distinta
@@ -278,7 +281,32 @@ nenhum parentesco entre as casas:
 | **Clã Xiao** | Deserto Ocidental — logística e comércio, das mais ricas da região | Fronteira Sul — decaído de super força; corre o rumor de que as duas casas têm mesma origem, separadas há mil anos |
 | **Clã Huang** | Deserto Ocidental — senhorio de oásis | Fronteira Sul — homônimo, sem relação |
 | **"Chi"** | Fronteira Sul — o super clã Chi, número um da região em caminho da formação | Fronteira Sul — os descendentes de Chi Xiang, irrelevantes por escolha própria. `(ded.)` homonímia: a obra nunca liga os dois |
-| **Yao** e **Gong** | Fronteira Sul e Deserto Ocidental, como **clãs** | Planícies do Norte, como **tribos** de nome igual |
+
+**A homonímia é muito mais ampla do que a tabela acima, e é o erro que mais custa numa mesa
+que viaja.** As Planícies do Norte reaproveitam como **nome de tribo** vários sobrenomes que o
+sul e o oeste usam como **nome de clã**, e o Mar Oriental repete outros tantos. Os pares que
+as notas desta pasta registram:
+
+| Sobrenome | Aparece como… | E também como… |
+|---|---|---|
+| **Yao** | super clã da Fronteira Sul, com rank 8 | super tribo das Planícies do Norte, com rank 8 |
+| **Gong** | super clã do Deserto Ocidental | super tribo das Planícies do Norte |
+| **Qiao** | super clã da Fronteira Sul (o vassalo do clã Wu) | tribo vassala das Planícies do Norte, sem imortal |
+| **Chai** | super clã da Fronteira Sul (o do caminho humano) | tribo menor das Planícies do Norte |
+| **Yang** | super clã da Fronteira Sul (caminho da alma) | tribo menor das Planícies do Norte |
+| **Fei** | força decaída da Fronteira Sul | tribo menor das Planícies do Norte |
+| **Tang** | clã menor da Fronteira Sul · super clã do Deserto Ocidental · super força do Mar Oriental | tribo menor das Planícies do Norte |
+| **Song** | clã menor da Fronteira Sul · super força do Mar Oriental (a de dezoito imortais) | tribo menor das Planícies do Norte |
+| **Su** | super força do Mar Oriental | tribo menor das Planícies do Norte |
+| **Lin** | super clã do Deserto Ocidental (caminho do osso) | clã menor da Fronteira Sul |
+| **Shen** | super força do Mar Oriental (caminho do som) | clã menor da Fronteira Sul |
+| **Ba** | super clã da Fronteira Sul, o eterno segundo | clã pequeno do Mar Oriental, co-dono de uma área de mar |
+| **Ni** | uma das cinco linhagens dos Xiang, na Fronteira Sul | clã pequeno do Mar Oriental |
+
+`(ded.)` **Nenhum desses pares tem parentesco declarado**, e a obra nunca liga dois deles. A
+diferença de porte costuma ser brutal — o Song do Mar Oriental é a casa com mais Gu Imortais
+de toda a obra, e o Song da Fronteira Sul é um nome numa lista. Quando um PdM disser "clã
+Tang", pergunte de qual região ele está falando antes de qualquer outra coisa.
 
 **Três "cortes imperiais" que não são a mesma coisa.** A **Corte Imperial** é uma terra
 abençoada das **Planícies do Norte**, que abre uma vez a cada dez anos para o vencedor de um

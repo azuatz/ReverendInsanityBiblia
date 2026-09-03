@@ -16,6 +16,12 @@ conhecimento: comum
 verme, planta ou pequeno animal — que concentra em si **um único poder mágico**, e toda a
 magia deste mundo consiste em capturar, dominar, alimentar e acionar esses bichos.
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca uma **dedução nossa** a partir de
+> algo que a obra afirma. `*` marca **invenção nossa**, sem base textual. `—` significa que a
+> obra não informa e nada foi preenchido. **Apagar tudo marcado com `*` devolve o documento a
+> cem por cento canônico.**
+
 ## Como um Gu é, fisicamente
 
 Esta seção existe porque nenhuma regra do sistema faz sentido antes dela. Um Gu é um **bicho

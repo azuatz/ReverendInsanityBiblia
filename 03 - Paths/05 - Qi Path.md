@@ -49,10 +49,12 @@ ele.
 Esta é a parte importante, e ela é a razão pela qual o caminho do qi deveria estar no manual
 do mestre de qualquer campanha.
 
-**A ascensão.** O caminho do qi foi criado por **Primordial Origin Immortal Venerable** na
-Antiguidade Remota — junto com o [[07 - Enslavement Path|caminho da escravização]], também
-dele. Naquela era existiam só quatro ou cinco caminhos no mundo inteiro, e o do qi era o mais
-forte de todos. A cena de fundação que a obra registra é ótima: o futuro Venerável cultivava
+**A ascensão.** O caminho do qi foi criado por **Primordial Origin Immortal Venerable**[^nomes]
+na Antiguidade Remota — junto com o [[07 - Enslavement Path|caminho da escravização]], também
+dele (com uma ressalva: ver
+[[07 - Enslavement Path|Enslavement Path]], que registra uma segunda certidão de nascimento
+para aquele caminho). Naquela era existiam só quatro ou cinco caminhos no mundo inteiro, e o
+do qi era o mais forte de todos. A cena de fundação que a obra registra é ótima: o futuro Venerável cultivava
 dentro de um pico saturado de marcas de qi que literalmente **respirava, como um humano
 respira**, e usava esse fôlego da montanha para inspirar tipos diferentes de qi e compreender
 o caminho. Aquele pico hoje está extinto.
@@ -82,9 +84,10 @@ visto exatamente **três** cultivadores de qi em toda a sua vida.
 ## A camada escondida
 
 O caminho do qi parece o mais transparente da pasta: sopro, correntes, ar. Por baixo dele
-existem quatro coisas que nenhuma descrição de efeito entrega — uma razão política para ele ter
-sido criado, um parentesco secreto com outro caminho, um gatilho conhecido para a
-ressurreição dele e uma regra de material que vale para o mundo inteiro mas só fica visível aqui.
+existem **seis** coisas que nenhuma descrição de efeito entrega — uma razão política para ele
+ter sido criado, um parentesco secreto com outro caminho, um gatilho conhecido para a
+ressurreição dele, uma regra de material que vale para o mundo inteiro mas só fica visível
+aqui, o que o acúmulo de marcas destranca, e onde mora o teto do domínio.
 
 ### Por que ele foi criado: era a arma de uma raça, não uma disciplina
 
@@ -222,21 +225,12 @@ de todo o céu e a terra. Chegar até ele é outra história. Ver
 
 ### Material no lugar de Gu — o traço que nenhum outro caminho tem
 
-Este é o achado mecânico mais aproveitável do caminho inteiro.
-
-**Um praticante do caminho do qi consegue usar materiais imortais de qi no lugar dos próprios
-Gu para disparar golpes assassinos.** E, mais forte ainda: isso funciona **por mais baixo que
-seja o domínio dele no caminho**.
-
-A obra explica por quê, e a explicação vale como regra geral do mundo: os materiais do
-caminho do qi são **os mais móveis e mais simples de manipular** que existem. Materiais de
-água já são um pouco menos úteis; marcas de terra e de rocha são muito mais difíceis de usar.
-Ou seja, o traço existe em todos os caminhos e é **mais evidente** no do qi.
-
-O efeito prático é uma inversão econômica: o caminho do qi troca **arsenal por consumível**.
-Quem tem dinheiro compra poder bruto, sem precisar de Gu Imortais nem de erudição. O caso
-extremo que a obra registra é o de um imortal ressuscitado sem nenhum Gu Imortal cujos golpes
-**ainda funcionavam**, porque queimavam material.
+Este é o achado mecânico mais aproveitável do caminho inteiro, e a regra que o sustenta está
+descrita acima, em *A camada escondida*. O que interessa aqui é o efeito prático, que é uma
+**inversão econômica**: o caminho do qi troca **arsenal por consumível**. Quem tem dinheiro
+compra poder bruto, sem precisar de Gu Imortais nem de erudição. O caso extremo que a obra
+registra é o de um imortal ressuscitado sem nenhum Gu Imortal cujos golpes **ainda
+funcionavam**, porque queimavam material.
 
 ### Amplificação por marcas do Dao — a escala mais alta documentada
 
@@ -249,13 +243,8 @@ O caminho do qi é onde a obra dá os números mais explícitos de amplificaçã
 Um milhão de marcas é descrito como "o nível de algo que só um nível 9 poderia possuir".
 Confira sempre os números contra
 [[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks]], que é a fonte soberana.
-
-Um efeito colateral notável: com um milhão de marcas de qi, **a própria abertura imortal muda
-de natureza** — correntes de qi surgem por toda parte, ela passa a produzir qi do céu e da
-terra sozinha e deixa de precisar se abrir para o exterior por um tempo. Primeiro acumula-se
-qi de nível mortal; depois esse acúmulo passa a gerar materiais imortais; depois esses
-materiais estabilizam e criam conexão com o ambiente. É a receita, passo a passo, de como um
-**ponto de recurso** nasce dentro de alguém.
+O que esse mesmo milhão de marcas faz com a **abertura** do praticante está em *A camada
+escondida*, acima — e é ainda mais valioso que a amplificação.
 
 ### Campo de batalha de qi
 
@@ -290,15 +279,15 @@ anti-caminho":
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Heaven Qi / Earth Qi / Human Qi ⭐ | 8 (três Gu) | Os três núcleos insubstituíveis do golpe supremo do caminho; tesouros exclusivos de uma única organização |
-| Big Qi ⭐ | 8 | Núcleo do golpe "mar de qi ilimitado" |
-| Big Family Qi ⭐ | 7 | Armazena todo tipo de qi, **inclusive o das tribulações**; a obra o usa como prova de que nível maior nem sempre é mais útil |
-| Small Family Qi | 5 → ⭐ 7 | Absorve e estoca qi do céu e da terra; espalhado pelo chão, **manipula a tribulação e a calamidade de uma ascensão**, suprimindo-as ou atraindo-as. Evolui para o anterior |
-| Atmosphere Gu | 4 | Gu natural nascido do vento. Dá ou **remove um costume inteiro** de uma tribo, clã ou bando de feras. Quase inútil contra um indivíduo; devastador contra um grupo. Ninguém jamais deduziu sua receita |
-| Strength Qi Gu | 3 | Cria "qi de força" sem forma: dá ao praticante do caminho da força o ataque à distância que lhe falta. Refinado a partir do Atmosphere Gu por refino reverso |
-| Hard Qi Gu | — | Bola de ar **sem forma** em volta do corpo inteiro: o usuário parece indefeso e fica duro como rocha |
-| Vitality Gu | 3 | Corrente morna que percorre os órgãos e sustenta a força vital; funciona sozinha depois de ativada, sem controle consciente |
-| Sword Qi Gu | — | Gu do [[11 - Sword Path|caminho da espada]] cujo qi carrega marcas **densas dos dois caminhos** — por isso passa despercebido dentro das correntes de um praticante de qi e o fere especificamente |
+| Qi do Céu / Qi da Terra / Qi Humano ⭐ | 8 (três Gu) | Os três núcleos insubstituíveis do golpe supremo do caminho; tesouros exclusivos de uma única organização |
+| Grande Qi ⭐ | 8 | Núcleo do golpe "mar de qi ilimitado" |
+| Qi da Grande Família ⭐ | 7 | Armazena todo tipo de qi, **inclusive o das tribulações**; a obra o usa como prova de que nível maior nem sempre é mais útil |
+| Qi da Pequena Família | 5 → ⭐ 7 | Absorve e estoca qi do céu e da terra; espalhado pelo chão, **manipula a tribulação e a calamidade de uma ascensão**, suprimindo-as ou atraindo-as. Evolui para o anterior |
+| Gu da Atmosfera | 4 | Gu natural nascido do vento. Dá ou **remove um costume inteiro** de uma tribo, clã ou bando de feras. Quase inútil contra um indivíduo; devastador contra um grupo. Ninguém jamais deduziu sua receita |
+| Qi de Força | 3 | Cria "qi de força" sem forma: dá ao praticante do [[04 - Strength Path\|caminho da força]] o ataque à distância que lhe falta. Refinado a partir do Gu da Atmosfera por refino reverso |
+| Qi Duro | — | Bola de ar **sem forma** em volta do corpo inteiro: o usuário parece indefeso e fica duro como rocha |
+| Vitalidade | 3 | Corrente morna que percorre os órgãos e sustenta a força vital; funciona sozinha depois de ativada, sem controle consciente |
+| Qi de Espada | — | Gu do [[11 - Sword Path\|caminho da espada]] cujo qi carrega marcas **densas dos dois caminhos** — por isso passa despercebido dentro das correntes de um praticante de qi e o fere especificamente |
 
 > [!info] Como ler a coluna "Nível"
 > **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
@@ -501,3 +490,11 @@ Esta seção existe porque o caminho do qi é, no vault inteiro, o melhor estudo
 - [[12 - Soul Path|Soul Path]] — o caminho com que o do qi mantém hostilidade documentada.
 - [[02 - Como se Escolhe um Caminho|Como se Escolhe um Caminho]] — de onde vêm as marcas e quanto custa trocar de caminho.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.
+
+[^nomes]: **Por que os nomes dos Veneráveis ficam em inglês.** A tradução brasileira de
+    referência só verteu de forma consistente alguns dos dez nomes, e este material não inventa
+    nomenclatura própria. Por isso os Veneráveis aparecem sempre pelo nome em inglês, que
+    funciona como identificador estável em toda a base; a forma em português entra apenas quando
+    existe tradução publicada confirmada. As biografias estruturais estão em
+    [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] e
+    [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].

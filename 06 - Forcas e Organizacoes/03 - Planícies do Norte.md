@@ -38,7 +38,7 @@ região inteira, e faz isso do mesmo jeito que as dez seitas antigas controlam o
 Central: por ocupação total do topo.
 
 Acima das tribos há um suserano, e ele é literalmente **a casa de um morto**: o
-[[13 - Blessed Lands e Grotto-Heavens|grotto-heaven]] de rank 9 do Venerável fundador, chamado
+[[13 - Blessed Lands e Grotto-Heavens|gruta-céu]] de rank 9 do Venerável fundador, chamado
 **Céu da Longevidade**, habitado hoje pelos descendentes de sangue mais próximo dele. O Céu da
 Longevidade governa por decreto à distância, com uma insígnia que circula de tribo em tribo —
 e, como se verá na ficha, essa autoridade tem um limite honesto que todo mundo conhece.
@@ -282,16 +282,16 @@ desgastem primeiro.
 
 ### Céu da Longevidade
 
-*Longevity Heaven* · grotto-heaven de rank 9, suserano regional · a abertura imortal do Venerável fundador
+*Longevity Heaven* · gruta-céu de rank 9, suserano regional · a abertura imortal do Venerável fundador
 
 | | |
 |---|---|
 | **Manda quem** | Um colegiado: as **Oito Extremidades** (oito Gu Imortais ativos, um deles chamado **Extremidade do Céu**) e as **Quatro Desolações** (imortais adormecidos). Ranks individuais: `—`, mas o lugar tem rank 8 entre os seus |
 | **Caminho de casa** | **[[23 - Luck Path|Caminho da sorte]]**, por herança direta do fundador |
 | **Por que esse caminho** | O Venerável Sol Gigante foi o grande mestre de caminho da sorte da história, e deixou aqui a terceira e mais profunda de suas três heranças verdadeiras: a da **sorte do céu e da terra**, criada nos últimos anos da vida dele |
-| **Porte** | Doze Gu Imortais nomeados na estrutura (oito ativos, quatro dormindo) `(ded.)`. É um grotto-heaven de rank 9 |
+| **Porte** | Doze Gu Imortais nomeados na estrutura (oito ativos, quatro dormindo) `(ded.)`. É um gruta-céu de rank 9 |
 | **Alinhamento** | Caminho correto, e a autoridade dele |
-| **Território** | O interior do próprio grotto-heaven, cuja geografia se chama **Quatro Desolações e Oito Extremidades**. No centro fica o **Altar da Calamidade e da Sorte**, uma Casa de Gu Imortal de rank 8 |
+| **Território** | O interior da própria gruta-céu, cuja geografia se chama **Quatro Desolações e Oito Extremidades**. No centro fica o **Altar da Calamidade e da Sorte**, uma Casa de Gu Imortal de rank 8 |
 
 **Como cresceu.** Não cresceu: foi deixado pronto. É a residência pessoal do Venerável, e quem
 mora dentro são os descendentes com a **ligação de sangue mais próxima** dele. É a nobreza da
@@ -306,7 +306,7 @@ mestre-e-discípulo que tente crescer no Norte, por ideologia declarada.
 deixado ali de propósito pelo fundador como defesa, e o que ele faz é **inverter calamidade e
 sorte**: transforma tribulações, calamidades e até invasões em boa sorte para o lugar. Um
 invasor vira "calamidade humana", e a calamidade humana vira alimento. É graças a isso que o Céu
-da Longevidade é um grotto-heaven de rank 9 **sem nunca ter absorvido fragmento dos nove céus
+da Longevidade é um gruta-céu de rank 9 **sem nunca ter absorvido fragmento dos nove céus
 imemoriais** — ele simplesmente digere as próprias provações.
 
 **Assinatura.** O **Édito da Longevidade** (*Longevity Edict*): uma insígnia dourada que, por
@@ -418,8 +418,17 @@ famosas em todo o Norte; e o golpe **vórtice escuro** (*dark vortex*).
 negro. Ou, se for demoníaco, aceitar a lavagem de reputação que a tribo oferece — e descobrir o
 preço.
 
-**O que a obra não diz.** O número exato de Gu Imortais. `—` O que aconteceu com a gruta-céu que
-Hei Fan deixou (a própria tribo procura há gerações e nunca achou).
+**O tesouro que a própria casa não acha.** Hei Fan deixou para trás uma **gruta-céu inteira**,
+com a herança verdadeira dele dentro, e ela é o maior ativo perdido do Norte. A localização é
+"o maior segredo da tribo": **só o líder e os três anciãos supremos seguintes a conhecem**, e
+o resto dos Gu Imortais da casa passa gerações procurando sem nenhum resultado. É um segredo
+guardado de dentro para dentro — a tribo Hei não perdeu a gruta-céu, ela a esconde dos
+próprios membros. `[segredo]` Ela **não fica vaga para sempre**: numa fase posterior da obra
+alguém de fora chega até ela, e quem termina instalado lá dentro é a Chu Sect — ver a ficha
+dela, mais abaixo.
+
+**O que a obra não diz.** O número exato de Gu Imortais. `—` Como se entra na gruta-céu de Hei
+Fan sem a chave que os anciãos supremos guardam. `—`
 
 ---
 
@@ -575,7 +584,7 @@ sério demais. Ou ser o recado que alguém manda ao ancião externo ausente.
 | **Por que esse caminho** | Por herança de um único homem: **Santo da Espada Nian Er**, Gu Imortal de **rank 8** da tribo, prodígio que **começou no caminho da luz e migrou para o da espada com sucesso** — feito raríssimo. Foi ele quem levou a tribo à linha de frente do caminho correto do Norte, e ao morrer deixou a **herança verdadeira do Santo da Espada** |
 | **Porte** | Super força; número de imortais `—` |
 | **Alinhamento** | Caminho correto — e a exceção agressiva dele |
-| **Território** | **Nenhum, fora das aberturas.** Os membros da tribo vivem dentro de terras abençoadas e grotto-heavens |
+| **Território** | **Nenhum, fora das aberturas.** Os membros da tribo vivem dentro de terras abençoadas e grutas-céus |
 
 **Como cresceu.** Pela espada e por uma decisão estrutural que nenhuma outra tribo Huang Jin
 tomou: **abrir mão do mundo exterior**. A obra explica a consequência com precisão — como a
@@ -620,13 +629,13 @@ inimigos de graça.
 | **Território** | **Terra Abençoada Yin-Yang**, reconhecida pelos pares como a de **paisagem mais bela** entre as sedes das super tribos do Norte |
 
 **Como cresceu.** `—` na origem. No presente, a tribo se distingue por uma coisa que nenhuma outra
-super tribo do Norte tem: **relações com o Mar do Leste**. Quando alguém pergunta qual super força
+super tribo do Norte tem: **relações com o Mar Oriental**. Quando alguém pergunta qual super força
 do Norte tem ligação com aquela região, a resposta é esta. Seus representantes aparecem em leilões
-imortais sentados ao lado de um rank 8 do Mar do Leste, trabalhando juntos.
+imortais sentados ao lado de um rank 8 do Mar Oriental, trabalhando juntos.
 
 **Do que vive.** Refino de neve e comércio inter-regional `(ded.)`.
 
-**Com quem se dá.** Mar do Leste. Dentro do Norte, participa do bloco correto sem liderá-lo.
+**Com quem se dá.** Mar Oriental. Dentro do Norte, participa do bloco correto sem liderá-lo.
 
 **Por dentro.** A fraqueza é pública e a tribo não finge o contrário: **"a Casa de Gu Imortal da
 minha tribo Murong está faltando um Gu Imortal central, todo mundo nas Planícies do Norte sabe
@@ -852,10 +861,10 @@ potência do Norte sem contradizer nada do cânone. `*`
 |---|---|
 | **Manda quem** | **Heavenly Lord Bai Zu**, **rank 8**, fundador |
 | **Caminho de casa** | **[[07 - Enslavement Path|Caminho da escravização]]**, o do fundador |
-| **Por que esse caminho** | Porque a tribo **é** o fundador: todos os seus Gu Imortais foram **criados dentro do grotto-heaven dele**, e são seus descendentes de sangue |
+| **Por que esse caminho** | Porque a tribo **é** o fundador: todos os seus Gu Imortais foram **criados dentro da gruta-céu dele**, e são seus descendentes de sangue |
 | **Porte** | Poucos Gu Imortais, mas todos formidáveis. Base material herdada de outra super força absorvida |
 | **Alinhamento** | Caminho correto — por concessão, não por origem |
-| **Território** | Territórios adquiridos; os imortais raramente circulam pelo Norte, vivendo dentro do grotto-heaven do fundador |
+| **Território** | Territórios adquiridos; os imortais raramente circulam pelo Norte, vivendo dentro da gruta-céu do fundador |
 
 **Como cresceu.** Este é o caso que quebra a regra da região, e por isso vale entender direito.
 Heavenly Lord Bai Zu era **cultivador solitário**, sem tribo e sem linhagem. Como rank 8, decidiu
@@ -1013,7 +1022,7 @@ filial. `—`
 
 ### Chu Sect
 
-*Chu Sect* · **seita** (não tribo) · gruta-céu Hei Fan
+*Chu Sect* · **seita** (não tribo) · sem sede coletiva no presente do cenário
 
 | | |
 |---|---|
@@ -1022,7 +1031,7 @@ filial. `—`
 | **Por que esse caminho** | Porque a seita nasceu como efeito colateral: Chu Du precisava do **verdadeiro significado do caminho da força** deixado por um Venerável e, para elevar seu próprio attainment, passou décadas nutrindo Mestres Gu mortais até torná-los imortais de caminho da força. Acumulou tantos que "os tratou como discípulos e casualmente criou uma seita, chamando-a de Chu Sect" |
 | **Porte** | Vários Gu Imortais de caminho da força, todos com **poucos Gu Imortais** e por isso de força de combate baixa |
 | **Alinhamento** | **Caminho demoníaco** |
-| **Território** | A gruta-céu **Hei Fan** |
+| **Território** | No presente do cenário, a **terra abençoada pessoal de Chu Du** `(ded.)` — a seita não tem sede coletiva própria. `[segredo]` Numa fase posterior da obra ele recebe de terceiros a **gruta-céu Hei Fan** (ver a ficha da tribo Hei) e passa a operar de lá; se a sua campanha se passa antes disso, a Chu Sect é uma seita **sem endereço** |
 
 **Como cresceu.** Por acidente e por reputação pessoal. Chu Du é, segundo a obra, "a figura de
 autoridade do caminho da força não só nas Planícies do Norte, mas nas cinco regiões". A façanha que
@@ -1243,10 +1252,15 @@ força de combate. Zumbis imortais não entram na lista dos "cinco rank 8 do Nor
 **Os quatro grandes refinadores do Norte.** A obra fecha essa lista também, e ela cruza as fichas
 acima: **Yao Huang** (tribo Yao, quase grande-grão-mestre), **Murong Xue Xiang** (tribo Murong,
 neve), **Lady Wan Shou** (segunda líder da Montanha Nevada, refina para o caminho demoníaco) e
-**Lady Miao Li** (cultivadora solitária, especialista em Gu de **escravização**). Para calibrar: a
-escala de attainment vai de comum, mestre, grão-mestre, grande-grão-mestre a supremo
-grão-mestre — e **na história inteira do mundo só três pessoas chegaram ao topo**. Ter quatro
-quase-grande-grão-mestres numa região é muito. Ver
+**Lady Miao Li** (cultivadora solitária, especialista em Gu de **escravização**). Para calibrar:
+o attainment — o domínio *teórico* de um caminho, que é um eixo separado do rank de cultivo —
+sobe por **nove degraus nomeados**, alternando os cheios com os "quase": comum → quase mestre →
+**mestre** → quase grão-mestre → **grão-mestre** → quase grande grão-mestre → **grande
+grão-mestre** → quase supremo → **supremo grão-mestre**. Os degraus "quase" são reais e têm nome
+próprio, não são arredondamento — por isso "quase grande grão-mestre" é um patamar, e não um
+elogio vago. **Na história inteira do mundo só três pessoas chegaram ao topo da escala.** Ter
+quatro quase-grandes-grão-mestres numa região só é muito. A escada completa está em
+[[02 - Tabelas de Referência Rápida#10. Níveis de attainment|Tabelas de Referência Rápida]]. Ver
 [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] e [[08 - Attainment|Attainment]].
 
 ---
@@ -1283,15 +1297,15 @@ partir desta perda."
 
 | Força | O que é | Manda quem | Caminho de casa | Onde fica | Por que importa numa mesa |
 |---|---|---|---|---|---|
-| **Céu da Longevidade** | Grotto-heaven rank 9, suserano regional | Oito Extremidades + Quatro Desolações | Sorte | Fora do mundo, dentro da abertura do Venerável | O Édito da Longevidade; o Altar que converte calamidade em sorte; autoridade sem coerção |
+| **Céu da Longevidade** | Gruta-céu de rank 9, suserano regional | Oito Extremidades + Quatro Desolações | Sorte | Fora do mundo, dentro da abertura do Venerável | O Édito da Longevidade; o Altar que converte calamidade em sorte; autoridade sem coerção |
 | **Corte Imperial** | Terra abençoada + torneio decenal | Ninguém: é o prêmio | — | Região central do Norte | O motor da região: nevasca, torneio, méritos de batalha, reparação de guerra, herança de rank 8 |
 | **Tribo Yao** | Super tribo Huang Jin | Yao Huang, rank 8 | Refino / cura | `—` | O maior refinador do caminho correto; morrendo de velhice; padrinho dos forasteiros |
-| **Tribo Hei** | Super tribo Huang Jin | Colégio de 4+ anciãos supremos; Hei Cheng, rank 7 | Tempo | Terra Abençoada da Águia de Ferro, Yu Tian | Mais imortais que a média, porque um rank 8 desacelerou o tempo dentro deles; estandarte negro |
+| **Tribo Hei** | Super tribo Huang Jin | Colégio de 4+ anciãos supremos; Hei Cheng, rank 7 | Tempo | Terra Abençoada da Águia de Ferro, Yu Tian | Mais imortais que a média, porque um rank 8 desacelerou o tempo dentro deles; o estandarte negro; e uma gruta-céu perdida que só quatro pessoas da casa sabem achar |
 | **Tribo Liu** | Super tribo Huang Jin | 1º ancião supremo, rank 7 | Osso e luz | Yu Tian | As duas únicas linhas de produção de osso e luz do Norte — e ela publica os endereços |
 | **Tribo Dong Fang** | Super tribo Huang Jin | Dong Fang Chang Fan, o nº 1 de sabedoria do Norte | Sabedoria | Terra Abençoada da Piscina de Jade, Cao Fu | Vende dedução e cobra em segurança; a Cabana de Sapé; a Montanha Minúscula dos minimen |
 | **Tribo Gong** | Super tribo Huang Jin | Gong Er, rank 7; ancião externo rank 8 | `—` | `—` | Quer liderar o caminho correto e ninguém aceita; o Salão da Aurora Dourada; o rank 8 que não obedece |
 | **Tribo Nian Er** | Super tribo Huang Jin sem território | `—`; Nian Er Fu, rank 7 | Espada | **Nenhum** — vivem dentro de aberturas | Não tem o que perder, e por isso é a única tribo correta que ofende demoníacos de propósito |
-| **Tribo Murong** | Super tribo Huang Jin | Murong Jin Xiao, rank 7 | Refino de neve | Terra Abençoada Yin-Yang | A ponte com o Mar do Leste; e uma Casa de Gu Imortal com um buraco declarado |
+| **Tribo Murong** | Super tribo Huang Jin | Murong Jin Xiao, rank 7 | Refino de neve | Terra Abençoada Yin-Yang | A ponte com o Mar Oriental; e uma Casa de Gu Imortal com um buraco declarado |
 | **Tribo Chanyu** | Super tribo Huang Jin | Chanyu Tong Zu, o de cultivo mais alto do bloco correto | Golpes imortais conjuntos | `—` | O porta-voz do caminho correto; a Lâmina Alada abre o que ninguém abre |
 | **Tribo Yuan** | Super tribo Huang Jin | Yuan Rang Zun, rank 7 | Marcial | Terra Abençoada Zhen Wu | Carpas do verdadeiro marcial como moeda; e o calote mais famoso do Norte |
 | **Tribo Ye Lui** | Super tribo Huang Jin | Ye Lui Lai, ancião supremo | Fogo | `—` | Oitenta anos sem vencer o torneio; paga acima do mercado por um campeão |
@@ -1301,7 +1315,7 @@ partir desta perda."
 | **Tribo Bai Zu** | Super força **sem** sangue Huang Jin | Heavenly Lord Bai Zu, rank 8 | Escravização | Grotto-heaven do fundador | O precedente que quebra o monopólio de sangue; a única porta correta para forasteiros |
 | **Montanha Nevada** | Terra abençoada, a nº 1 demoníaca | Old Ancestor Xue Hu, rank 8 | Refino e neve | Terra abençoada emendada, em picos | Dezenas de imortais que não se ajudam; picos por nomeação; refino sob encomenda |
 | **Aliança dos Zumbis (norte)** | Filial de organização das cinco regiões | Demoníaca do Céu Flamejante, rank 8 (ausente); três vice-senhores | Reversão da condição de zumbi | Cidade de 7 andares sobre a Fenda Terrestre | Missões pagas por pontos; óleo negro; a porta que só abre para zumbi legítimo |
-| **Chu Sect** | Seita pública | Chu Du, rank 7 | Força | Gruta-céu Hei Fan | A rachadura ideológica do Norte com endereço; aceita qualquer um; pode ser dissolvida |
+| **Chu Sect** | Seita pública | Chu Du, rank 7 | Força | Sem sede coletiva `(ded.)` | A rachadura ideológica do Norte com nome e chefe; aceita qualquer um, sem linhagem; pode ser dissolvida pelo próprio fundador |
 | **Lang Ya** | Seita secreta de homens peludos | O espírito da terra | Refino / receitas | Perto do Loose Tail Ridge | Rica em receitas de Gu Imortal, pobre em músculo, sob cerco — o melhor patrão do Norte |
 | **Caverna do Demônio Enlouquecido** | Área feroz habitada | Três Excêntricos, reclusos há séculos | Marcas do dao | Uma das dez áreas ferozes | Masmorra sem espólio vendável, que enlouquece até rank 8; patronos que pagam em conhecimento |
 | **Planície de Gelo** | Território, não organização | Ninguém | — | Extremo norte | Ascender ali como força ou transformação infunde o verdadeiro significado de um Venerável |

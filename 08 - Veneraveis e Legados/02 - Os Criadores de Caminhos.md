@@ -11,7 +11,7 @@ aliases:
   - Limitless Demon Venerable
   - Giant Sun Immortal Venerable
 status: consolidado
-fontes: ["cap. 163", "cap. 422", "cap. 427", "cap. 443", "cap. 508", "cap. 515", "cap. 519", "cap. 522", "cap. 524-525", "cap. 528", "cap. 529", "cap. 536", "cap. 545", "cap. 546", "cap. 558", "cap. 568", "cap. 597", "cap. 599", "cap. 686", "cap. 912", "cap. 937", "cap. 994", "cap. 1000", "cap. 1009", "cap. 1010", "cap. 1042", "cap. 1111", "cap. 1173", "cap. 1175", "cap. 1176", "cap. 1180", "cap. 1187", "cap. 1190", "cap. 1191", "cap. 1226", "cap. 1234", "cap. 1235", "cap. 1238", "cap. 1242-1243", "cap. 1266", "cap. 1323", "cap. 1760", "cap. 1859", "cap. 1866", "cap. 2131", "cap. 2151", "cap. 2160", "cap. 2170"]
+fontes: ["cap. 163", "cap. 422", "cap. 427", "cap. 443", "cap. 508", "cap. 515", "cap. 519", "cap. 522", "cap. 524-525", "cap. 528", "cap. 529", "cap. 536", "cap. 545", "cap. 546", "cap. 558", "cap. 568", "cap. 597", "cap. 599", "cap. 686", "cap. 912", "cap. 937", "cap. 994", "cap. 1000", "cap. 1009", "cap. 1010", "cap. 1042", "cap. 1111", "cap. 1173", "cap. 1175", "cap. 1176", "cap. 1180", "cap. 1187", "cap. 1190", "cap. 1191", "cap. 1226", "cap. 1234", "cap. 1235", "cap. 1238", "cap. 1242-1243", "cap. 1266", "cap. 1323", "cap. 1760", "cap. 1782", "cap. 1859", "cap. 1866", "cap. 2086", "cap. 2131", "cap. 2151", "cap. 2160", "cap. 2170", "cap. 2197", "cap. 2203", "cap. 2204", "cap. 2218", "cap. 2240"]
 conhecimento: especializado
 ---
 
@@ -22,6 +22,11 @@ conhecimento: especializado
 Esta nota cobre **Reckless Savage**, **Genesis Lotus**, **Spectral Soul**, **Limitless** e **Giant Sun**, cinco dos dez Veneráveis listados em [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]]. Os outros cinco estão em [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] e [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]]; a lista completa dos dez, com caminho e legado de cada um, está na tabela da nota-porta.
 
 O Giant Sun é o caso atípico do grupo, e vale saber disso antes de chegar nele: ele criou um caminho como os outros quatro, mas **escondeu a criação do mundo inteiro** em vez de ensiná-la — e por isso o legado visível dele é político, não técnico.
+
+> [!info] Cada um destes cinco criou **dois** caminhos, não um
+> A obra estabelece que todo Venerável cultiva exatamente duas disciplinas: um **caminho principal**, que ele divulga e que vira patrimônio do mundo, e uma **especialidade**, que ele guarda em segredo para poder competir com os outros Veneráveis — a regra completa está no item 5 de "Regras do mundo" em [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]]. Nos cinco desta nota, as duas metades saíram da mesma cabeça: a força **e** a transformação, a madeira **e** a pintura, a alma **e** a comida, a sorte **e** o sangue. Só Limitless tem a segunda metade não declarada.
+>
+> Para a leitura, isso significa que **cada ficha aqui tem dois legados técnicos**: a disciplina que o mundo herdou e a disciplina que o mundo não soube que existia. A segunda costuma ser a mais interessante numa mesa, justamente porque ninguém sabe se defender dela.
 
 ## O que significa "criar um caminho"
 
@@ -43,15 +48,15 @@ E há um detalhe que torna essa invenção diferente de qualquer outra: quando o
 | **Via** | demoníaca |
 | **Era** | Antiguidade Antiga — um dos **três** Veneráveis Demônios daquela era, ao lado de **Thieving Heaven** e **Limitless** |
 | **Caminho principal** | **[[04 - Strength Path\|strength path]]** (caminho da força) |
-| **Caminho de especialidade** | **[[06 - Transformation Path|transformation path]]** (caminho da transformação) — criou os dois |
+| **Caminho de especialidade** | **[[06 - Transformation Path\|transformation path]]** (caminho da transformação) — criou os dois[^1] |
 
 ### O que ele deixou no mundo
 
-**1. Dois caminhos de uma vez.** É o progenitor tanto do [[04 - Strength Path|caminho da força]] quanto do [[06 - Transformation Path|caminho da transformação]] — o único dos dez creditado pela fundação de duas disciplinas. Toda tradição marcial do mundo, todo cultivador que amplifica o próprio corpo e todo praticante que assume a forma de uma fera descende tecnicamente dele.
+**1. Dois caminhos de uma vez — e os dois em praça pública.** É o progenitor tanto do [[04 - Strength Path|caminho da força]] quanto do [[06 - Transformation Path|caminho da transformação]]. Fundar duas disciplinas não é raro entre os dez; raro é o que ele fez com elas. A regra geral é que o Venerável divulgue o caminho principal e **tranque a especialidade**, e é por isso que os caminhos da pintura e da sorte passaram a história inteira como lendas. Ele divulgou os dois. O resultado é que toda tradição marcial do mundo, todo cultivador que amplifica o próprio corpo e todo praticante que assume a forma de uma fera descende tecnicamente dele — e o caminho da transformação, em particular, **prosperou sem interrupção desde então**: cada geração substituiu as ideias antigas por novas, e ele segue vivo e forte hoje. É o oposto do que aconteceu com a especialidade secreta de Genesis Lotus, que se conservou intacta justamente por nunca ter tido uma segunda geração.
 
 **2. O corpo como campo de batalha.** As técnicas que ele estabeleceu incluem transformar-se em incontáveis feras diferentes e reconstituir-se **a partir de uma única gota de sangue** — o que, na prática, fixa no cenário o padrão de "inimigo que não fica morto" e a mecânica de descartar peles como fuga. O caso canônico está no item 4: para atravessar uma construção defensiva que o barrou, ele **abandonou três peles ensanguentadas** e seguiu em frente.
 
-**3. Um significado verdadeiro impresso na geografia.** O ==significado verdadeiro== (*true meaning*) é a compreensão essencial de um caminho — o salto de attainment que **não se transmite por manual**, só se colhe direto da fonte. O dos caminhos da força e da transformação está **fisicamente impresso no local do feito final dele**, um campo de batalha de gelo absoluto. Não é um livro nem uma herança guardada: é um lugar do mapa onde a compreensão de um Venerável ficou gravada no terreno e ainda pode ser colhida por quem chegar lá e for capaz de suportá-la.
+**3. Um significado verdadeiro impresso na geografia — num terreno que ele próprio fabricou.** O ==significado verdadeiro== (*true meaning*) é a compreensão essencial de um caminho — o salto de attainment que **não se transmite por manual**, só se colhe direto da fonte. O dos caminhos da força e da transformação está **fisicamente impresso numa planície de gelo do norte do mundo**, e vale saber que a planície **é obra dele**: ele se transformou numa fênix de gelo e condensou o gelo profundo que formou aquele terreno — o próprio ato de criar o lugar era um golpe do caminho da transformação. Não é um livro nem uma herança guardada: é um pedaço do mapa que ele construiu e assinou, e a assinatura ainda pode ser colhida por quem chegar lá e for capaz de suportá-la.
 
 E a colheita tem regras precisas, que fazem dela a melhor "recompensa de lugar" do cenário:
 
@@ -86,8 +91,9 @@ Ele deixou também pelo menos uma Casa de Gu Imortal própria, que já salvou um
 |---|---|
 | **Via** | correta |
 | **Era** | Antiguidade Medieval — a era em que mais disciplinas nasceram de uma vez |
-| **Caminho principal** | **wood path** (caminho da madeira) — ele o criou |
-| **Especialidade** | **cura e recuperação** — entre os dez, é o especialista reconhecido do tema |
+| **Caminho principal** | **[[27 - Os Caminhos Elementais#Madeira (wood path)\|wood path]]** (caminho da madeira) — ele o criou |
+| **Caminho de especialidade** | **[[28 - Painting Path\|painting path]]** (caminho da pintura) — criou este também, e nunca o ensinou a ninguém |
+| **O que fazia melhor que todos** | **cura e recuperação** — entre os dez, é o especialista reconhecido do tema |
 | **Legado institucional** | a Seita do Lótus Celestial, uma das dez grandes seitas ancestrais |
 
 ### O que ele deixou no mundo
@@ -114,13 +120,11 @@ O traço que a distingue das outras nove é diretamente derivado do fundador: el
 
 **8. Um dos três que entraram.** É um dos apenas **três Veneráveis da história** que fundiram de fato a própria abertura imortal ao [[19 - Tribunal Celestial|Tribunal Celestial]]. Parte da riqueza intransponível da instituição é, literalmente, o mundo pessoal dele.
 
-> [!question] O caminho da pintura
-> Corre entre imortais de altíssimo nível a suspeita de que ele teria criado, além do caminho
-> da madeira, um **caminho da pintura** — cuja virtude declarada seria acomodar perfeitamente a
-> operação de Gu Imortais e golpes de outras disciplinas, resolvendo o problema do conflito
-> entre [[16 - Dao Marks|marcas de dao]]. A obra apresenta isso **como rumor examinado por
-> personagens, nunca como fato afirmado pelo narrador**. Fica registrado como pergunta em
-> aberto, não como legado.
+**9. O segundo caminho, o que ele nunca ensinou: a pintura.** Todo Venerável cultivava dois caminhos — um principal, que divulgava, e uma especialidade, que trancava. A especialidade dele foi o ==[[28 - Painting Path|caminho da pintura]]==, e ele a guardou tão bem que imortais de rank 8 chegam a encontrar métodos de pintura sem fazer ideia de que a escola existe.
+
+A virtude que a torna extraordinária é técnica e vale explicar, porque resolve o problema mais irritante do sistema de magia deste mundo. Normalmente, as [[16 - Dao Marks|marcas de dao]] de disciplinas diferentes **brigam entre si** dentro de um mesmo corpo: quanto mais você se aprofunda numa escola, pior você fica em todas as outras, e é por isso que quase ninguém cultiva duas coisas a sério. O caminho da pintura **acomoda** a operação de Gu Imortais e golpes de qualquer outra disciplina, sem esse atrito.
+
+E há um efeito colateral que só existe por causa do segredo: como ninguém nunca o praticou além do criador, **o caminho da pintura é o único do mundo que jamais decaiu** — ele continua hoje exatamente no auge em que ele o deixou. Todas as outras disciplinas oscilam com as modas, as perdas de herança e as gerações fracas; esta ficou congelada no pico porque nunca teve segunda geração.
 
 > [!note] Para o design
 > Genesis Lotus é o Venerável que a designer deve usar quando precisar de **logística e serviços** em vez de armas. O legado dele produz quatro ganchos prontos: um hospital que também é um cofre (e portanto um alvo), um recurso portátil que rompe a dependência entre poder e território, uma economia de cura entre imortais — que implica preço, fila, favor e dívida —, e uma **disputa de herança entre uma instituição e um território**, que é a briga mais civilizada e mais insolúvel que uma campanha pode ter.
@@ -133,7 +137,8 @@ O traço que a distingue das outras nove é diretamente derivado do fundador: el
 |---|---|
 | **Via** | demoníaca |
 | **Era** | Antiguidade Tardia — surgiu cerca de **200.000 anos** depois da morte de Giant Sun |
-| **Caminho principal** | **[[12 - Soul Path|soul path]]** (caminho da alma) — ele o criou |
+| **Caminho principal** | **[[12 - Soul Path\|soul path]]** (caminho da alma) — ele o criou |
+| **Caminho de especialidade** | **[[20 - Food Path\|food path]]** (caminho da comida) — mantido em segredo absoluto enquanto ele viveu |
 | **Traço distintivo** | a **natureza mais assassina** dos dez |
 
 ### O que ele deixou no mundo
@@ -152,7 +157,11 @@ O que isso permite, mecanicamente, é que um único indivíduo seja simultaneame
 
 **6. A obra final.** `conhecimento: segredo` — um Gu de rank 9 que **fabrica artificialmente um corpo com o status de demônio de outro mundo**. Ou seja: uma máquina para produzir a única categoria de ser imune ao [[16 - Fate Gu|Fate Gu]] e capaz de feri-lo. É a tentativa mais direta que alguém já fez de manufaturar a exceção às leis do mundo.
 
-**7. Um mundo transformado em matadouro.** Registre-se, porque é dado de cenário e não julgamento: as cinco regiões inteiras foram convertidas num campo de matança durante o auge dele. Populações, culturas e linhagens desapareceram.
+**7. Uma espécie inteira, fabricada.** Ele criou as ==feras-de-alma== (*soul beasts*) — e o método é a demonstração mais clara do que significa "rivalizar com a natureza" neste mundo. Ele pegou golpes do caminho da alma, **converteu-os em marcas de dao** e gravou essas marcas nos bichos, de modo que o que era uma técnica aprendida virasse uma **habilidade inata** da criatura. Ou seja: transformou magia em biologia. As feras-de-alma continuam existindo, e existe golpe capaz de produzi-las sem fim a partir das almas dos vivos.
+
+**8. Um segundo caminho que só se difundiu depois que ele caiu.** A especialidade escondida dele era o [[20 - Food Path|caminho da comida]] — a disciplina que extrai poder e marcas de dao do que se come e se bebe. Enquanto ele operava, ela era secreta a ponto de quase nunca ser vista; e a consequência de longo prazo é uma piada estrutural do cenário: **foram os inimigos dele que difundiram a disciplina no mundo**. Depois de sofrerem na mão dela, passaram a pesquisá-la a sério, e várias heranças acabaram circulando nos mercados imortais e sendo compradas por muita gente. Hoje o caminho da comida se espalha entre os cultivadores porque alguém teve de aprendê-lo para sobreviver a ele.
+
+**9. Um mundo transformado em matadouro.** Registre-se, porque é dado de cenário e não julgamento: as cinco regiões inteiras foram convertidas num campo de matança durante o auge dele. Populações, culturas e linhagens desapareceram.
 
 > [!note] Para o design
 > As almas divididas são a melhor ferramenta de campanha desta nota. Um antagonista que é literalmente **várias pessoas ao mesmo tempo, em várias regiões, sem que os fragmentos saibam uns dos outros**, permite ao mestre construir uma conspiração honesta: cada pista é verdadeira, cada informante é sincero, e mesmo assim ninguém consegue montar o quadro — porque o quadro é que todos são a mesma pessoa. E o final é limpo: derrotar um fragmento não derrota nada.
@@ -165,7 +174,7 @@ O que isso permite, mecanicamente, é que um único indivíduo seja simultaneame
 |---|---|
 | **Via** | demoníaca |
 | **Era** | Antiguidade Antiga — um dos **três** Veneráveis Demônios daquela era, ao lado de **Reckless Savage** e **Thieving Heaven**; a Caverna, obra do fim de sua vida, já data da Antiguidade Medieval |
-| **Caminho principal** | **[[21 - Rule Path|rule path]]** (caminho da regra) — ele o criou |
+| **Caminho principal** | **[[21 - Rule Path\|rule path]]** (caminho da regra) — ele o criou |
 | **Legado geográfico** | a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo |
 
 ### O que ele deixou no mundo
@@ -184,6 +193,7 @@ O que a estrutura faz, camada a camada, importa:
 
 - Camadas superiores: rocha em brasa, névoa com feras ferozes, e mais adiante um solo inteiramente composto de materiais imortais de qualidade quase suprema, com marcas de dao caóticas e inutilizáveis.
 - **A oitava camada é um vazio onde mundos nascem e morrem.** Bolhas coloridas surgem ali — pequenos mundos completos, com céu, terra e seres vivos próprios — crescem, se estabilizam e são destruídas, deixando filamentos de marcas de dao do caminho do céu. O ciclo se repete, com perda líquida a cada volta. É onde se acumulou mais de um milhão de anos de derivação das marcas do céu, e o próprio local produz ocasionalmente **seres de aptidão extrema**, nascidos da camada, sem lealdade a facção nenhuma.
+- **E a oitava camada não é só dele.** Este é o fato que costuma passar despercebido e que muda a leitura da caverna inteira: **todos os outros Veneráveis participaram da obra de alguma forma**, e vários deixaram ali dentro o próprio ==campo de Dao== — uma região saturada das marcas de dao de um único caminho, que funciona como a "oficina" pessoal daquele cultivador. Genesis Lotus construiu ali o seu Grande Mundo do Lótus Verde; Reckless Savage, o Grande Mundo do Ermo Selvagem; Paradise Earth, o Grande Mundo da Terra Amarela. A caverna do inimigo é, ao mesmo tempo, o condomínio onde os maiores rivais da história mantiveram cada um a sua propriedade. Para uma mesa, isso significa que um único lugar do mapa contém pedaços de vários legados diferentes, cada um com seu dono, sua trava e seus herdeiros interessados.
 - **A nona camada perfura a fronteira do mundo.** Ver [[17 - Cosmologia#A fronteira do mundo]]. A formação dele fura deliberadamente o ponto mais fino da membrana externa do mundo e **puxa matéria de fora para dentro como matéria-prima**. É a explicação estrutural dos demônios de outro mundo: eles não são anomalia — são subproduto da obra dele.
 
 **4. Uma restrição política permanente.** `conhecimento: segredo` — poder de combate de nível Venerável **não pode agir diretamente** dentro da caverna: um golpe de escala plena perturbaria a derivação e acionaria um método retaliatório que ele deixou. O resultado é que **os seres mais fortes do mundo são obrigados a agir por procuração no lugar mais importante do mundo**.
@@ -203,8 +213,9 @@ O que a estrutura faz, camada a camada, importa:
 |---|---|
 | **Via** | correta — mas começou pela via demoníaca e mudou de lado |
 | **Era** | Antiguidade Medieval |
-| **Caminho principal** | **[[23 - Luck Path|luck path]]** (caminho da sorte) — ele o criou, e o manteve em segredo |
-| **Legado geográfico** | o **Céu da Longevidade**, a abertura imortal dele; e a ordem política das Planícies do Norte, uma das regiões descritas em [[04 - As Cinco Regiões|As Cinco Regiões]] |
+| **Caminho principal** | **[[23 - Luck Path\|luck path]]** (caminho da sorte) — ele o criou, e o manteve em segredo |
+| **Caminho de especialidade** | **[[03 - Blood Path\|blood path]]** (caminho do sangue) — criou este também, **depois de morto**, e queria que fosse o contrário: sangue como principal, sorte como especialidade |
+| **Legado geográfico** | o **Céu da Longevidade**, a abertura imortal dele; e a ordem política das Planícies do Norte, uma das regiões descritas em [[04 - As Cinco Regiões\|As Cinco Regiões]] |
 
 ### O que ele deixou no mundo
 
@@ -257,6 +268,21 @@ Ele refinou, com a ajuda do maior refinador da história, uma [[08 - Killer Move
 
 **8. Uma herança cultural que o cenário ainda carrega.** Vale registrar sem eufemismo, porque é decisão de ambientação e não detalhe: a inferioridade formal da mulher nas Planícies do Norte é herança cultural dele, enunciada em máximas atribuídas à sua autoridade. Não há precedente de líder mulher na região, e a única reforma igualitária tentada por um unificador histórico terminou em assassinato e cinco anos de guerra civil.
 
+**9. O segundo caminho — criado depois da própria morte.** `conhecimento: segredo` — este é o item mais estranho de toda a pasta, e o que melhor mostra a escala de tempo em que um Venerável pensa.
+
+O plano original dele era ter o [[03 - Blood Path|caminho do sangue]] como caminho principal e a sorte como especialidade — exatamente o inverso do que a história registra. Não deu tempo: quando ele estava vivo, o mundo ainda não tinha fundamento acumulado o bastante para sustentar uma disciplina inteira do sangue. Então ele deixou preparado um **clone** que, séculos depois da morte dele, foi ao mundo criar e **espalhar de propósito** o caminho do sangue, contando com a pesquisa de estranhos para amadurecê-lo no lugar dele.
+
+Vale entender por que isso não é excentricidade: quanto mais gente cultiva um caminho, mais **fundamento** aquele caminho tem no mundo, e mais forte fica quem o domina no topo. Ele estava, literalmente, terceirizando a pesquisa e desenvolvimento da própria especialidade para a humanidade inteira, com séculos de antecedência.
+
+E aqui está o que a mesa pode tocar, porque é o estado atual do mundo:
+
+- **O plano foi parcialmente derrotado.** Os herdeiros institucionais do outro lado perceberam o que estava acontecendo, caçaram o clone e construíram um instrumento dedicado a **suprimir** a disciplina.
+- **Por isso o caminho do sangue nunca virou corrente.** Ele existe, funciona e é temível — e é tratado como o tabu mais absoluto do mundo, pesquisado só a portas fechadas pelas grandes potências, nunca ensinado em praça pública. Ver [[03 - Blood Path|Blood Path]].
+- **A escola inteira é herança espalhada.** O que sobrou dela no mundo não são academias, são **terrenos de herança** semeados aos milhares, com dois ou três Gu baratos cada um, fáceis de multiplicar. É a razão de o caminho ser impossível de erradicar: qualquer miserável que tropece num deles vira um problema regional.
+
+> [!note] Para o design
+> Um vilão que planta uma escola de magia proibida **para que outras pessoas a desenvolvam por ele** enquanto está morto é um motor de campanha inteiro, e ele não exige nenhum segredo cósmico para funcionar. A mesa encontra: um caminho odiado por todo mundo, fácil de começar e difícil de largar; uma instituição que caça quem o pratica; e, no fundo, a descoberta de que a "praga" é um projeto de pesquisa alheio, e de que cada praticante perseguido é um voluntário involuntário.
+
 > [!note] Para o design
 > Giant Sun é o Venerável que rende o tipo de aventura mais difícil de escrever do zero: **a conspiração que já venceu**. Tudo que ele construiu continua operando sem ele, e ninguém sabe que foi desenhado — os participantes acham que estão disputando um trono, quando estão executando o programa de um morto.
 >
@@ -269,13 +295,13 @@ Ele refinou, com a ajuda do maior refinador da história, uma [[08 - Killer Move
 Aqui em **ordem de era**, que é a ordem útil para situar quem veio antes de quem — as
 fichas acima estão agrupadas por afinidade de legado, não cronologicamente.
 
-| Venerável | Era | Caminho criado | O que ficou fisicamente no mundo | Consequência permanente |
+| Venerável | Era | Caminhos criados (público · secreto) | O que ficou fisicamente no mundo | Consequência permanente |
 |---|---|---|---|---|
-| Reckless Savage | Antiga | [[04 - Strength Path\|força]] + [[06 - Transformation Path|transformação]] | Um campo de batalha com o significado verdadeiro impresso | Toda tradição marcial e de metamorfose do mundo; uma raça a menos |
-| Limitless | Antiga | [[21 - Rule Path|regra]] | A Caverna do Demônio Enlouquecido, de nove camadas | Existe um furo permanente na fronteira do mundo |
-| Giant Sun | Medieval | [[23 - Luck Path|sorte]] (mantido em segredo) | O Céu da Longevidade; o Edifício dos Oitenta e Oito Yang Verdadeiros; o altar de calamidade-em-sorte; o palácio que rege a sorte de uma região | A ordem política das Planícies do Norte roda sozinha há eras; a nevasca que empobrece a região é a colheita dele; e o governo do mundo controla só a certeza, nunca a incerteza |
-| Genesis Lotus | Medieval | madeira | Uma das dez grandes seitas; a maior frota de Casas de Gu Imortal do mundo; um depósito-hospital de aberturas imortais; a linhagem de nascentes portáteis | Poder deixa de depender de território fixo; e o Continente Central tem um polo de cura que todos precisam usar |
-| Spectral Soul | Tardia | [[12 - Soul Path|alma]] | Duas terras sagradas classificadas; almas divididas ainda ativas | Um indivíduo pode ser muitas pessoas por eras |
+| Reckless Savage | Antiga | [[04 - Strength Path\|força]] · [[06 - Transformation Path\|transformação]] — divulgou os dois | Uma planície de gelo que ele mesmo fabricou, com o significado verdadeiro impresso no terreno; três peles-herança costuradas no ar dentro da sede do maior inimigo | Toda tradição marcial e de metamorfose do mundo descende dele; uma raça humana variante a menos |
+| Limitless | Antiga | [[21 - Rule Path\|regra]] · — | A Caverna do Demônio Enlouquecido, de nove camadas, com os campos de Dao de vários outros Veneráveis dentro | Existe um furo permanente na fronteira do mundo, e é por ele que entram os demônios de outro mundo |
+| Giant Sun | Medieval | [[23 - Luck Path\|sorte]] · [[03 - Blood Path\|sangue]] — escondeu a sorte em vida e semeou o sangue depois de morto | O Céu da Longevidade; o Edifício dos Oitenta e Oito Yang Verdadeiros; o altar de calamidade-em-sorte; o palácio que rege a sorte de uma região; milhares de terrenos de herança do sangue | A ordem política das Planícies do Norte roda sozinha há eras; a nevasca que empobrece a região é a colheita dele; o governo do mundo controla só a certeza, nunca a incerteza; e existe um caminho proibido que ninguém consegue erradicar |
+| Genesis Lotus | Medieval | [[27 - Os Caminhos Elementais#Madeira (wood path)\|madeira]] · [[28 - Painting Path\|pintura]] | Uma das dez grandes seitas; a maior frota de Casas de Gu Imortal do mundo; um depósito-hospital de aberturas imortais; a linhagem de nascentes portáteis | Poder deixa de depender de território fixo; o Continente Central tem um polo de cura que todos precisam usar; e existe uma disciplina intacta no auge que quase ninguém sabe que existe |
+| Spectral Soul | Tardia | [[12 - Soul Path\|alma]] · [[20 - Food Path\|comida]] | Duas terras sagradas classificadas; as feras-de-alma, espécie criada por ele; almas divididas ainda ativas | Um indivíduo pode ser muitas pessoas por eras; e o caminho da comida se difundiu no mundo porque os inimigos dele tiveram de estudá-lo |
 
 ## Relações
 
@@ -283,7 +309,8 @@ fichas acima estão agrupadas por afinidade de legado, não cronologicamente.
 - [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] — os Veneráveis cujo legado é institucional.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — a fonte única sobre o Dao Lord: como se ganha o senhorio de um caminho, e como se perde.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o mapa das disciplinas de cultivo; cinco delas nasceram aqui.
-- [[04 - Strength Path|Strength Path]] · [[06 - Transformation Path|Transformation Path]] · [[12 - Soul Path|Soul Path]] · [[21 - Rule Path|Rule Path]] · [[23 - Luck Path|Luck Path]] — as disciplinas fundadas pelos cinco desta nota, em detalhe de mesa. (O caminho da madeira, de Genesis Lotus, ainda não tem nota própria.)
+- [[04 - Strength Path|Strength Path]] · [[06 - Transformation Path|Transformation Path]] · [[12 - Soul Path|Soul Path]] · [[21 - Rule Path|Rule Path]] · [[23 - Luck Path|Luck Path]] · [[27 - Os Caminhos Elementais#Madeira (wood path)|Madeira]] — os cinco caminhos **principais** fundados pelos cinco desta nota, em detalhe de mesa. O caminho da madeira não tem nota própria porque é um dos elementais, e todos eles moram na mesma nota.
+- [[06 - Transformation Path|Transformation Path]] · [[28 - Painting Path|Painting Path]] · [[20 - Food Path|Food Path]] · [[03 - Blood Path|Blood Path]] — as **especialidades**, a metade escondida do legado de cada um.
 - [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes cinco viveu.
 - [[08 - Attainment|Attainment]] — o supremo grão-mestre, degrau sem o qual não se funda caminho nenhum.
 - [[17 - Cosmologia|Cosmologia]] — a fronteira do mundo, perfurada pela obra de Limitless.
@@ -293,3 +320,5 @@ fichas acima estão agrupadas por afinidade de legado, não cronologicamente.
 - [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o ciclo do trono das Planícies do Norte visto como evento jogável; aqui está a intenção por trás dele.
 - [[16 - Fate Gu|Fate Gu]] — o instrumento que governa a certeza, e que a criação secreta de Giant Sun deixou incompleto.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números citados nesta nota.
+
+[^1]: A obra é ambígua sobre **qual dos dois** era o principal. Uma passagem o chama, com todas as letras, de "Venerável do caminho da força, fundador do caminho da força e também do da transformação"; uma passagem muito posterior, ao enumerar os caminhos de cada Venerável na ordem *principal, depois especialidade*, lista os dele na ordem inversa — transformação primeiro. O vault adota força como principal, por ser a atribuição explícita, e registra aqui a divergência. Nada de estrutural muda: os dois caminhos são dele, e o significado verdadeiro que ele deixou no mundo serve às duas disciplinas ao mesmo tempo.

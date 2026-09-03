@@ -48,8 +48,13 @@ Esta nota trata das três coisas que preenchem esse vazio, em ordem de força:
    ausente é uma permissão.
 3. **Todo Gu de juramento tem uma âncora, e destruir a âncora dissolve o juramento.** Não
    existe promessa realmente inquebrável — existe promessa cuja quebra é cara demais.
-4. **Quebrar um juramento não te mata na hora: te contra-ataca.** O rompimento produz um
-   refluxo violento, que um cultivador forte pode absorver e sobreviver.
+4. **Quebrar um juramento cobra na hora, e o quanto depende do instrumento.** O juramento
+   venenoso do mundo mortal não fulmina: produz um **refluxo** — sangue jorrando pelos sete
+   orifícios do rosto — que se agrava enquanto a violação continuar, e que mata se a pessoa
+   insistir. Um cultivador decidido atravessa esse refluxo e sobrevive; há desertores de
+   batalha que fogem sangrando de propósito, aceitando o preço. Os juramentos imortais são
+   mais duros e alguns são **fulminantes**: um segredo jurado diante do Gu do Juramento do
+   Mar reduz a pó quem o revelar, sem gradação e sem chance.
 5. **Reputação é um ativo com preço em pedras**, e é cotada em voz alta em negociação como
    qualquer mercadoria.
 6. **O conselho popular sobre reputação é assimétrico:** quando fraco, esconda o nome; quando
@@ -89,6 +94,21 @@ salvo-conduto de nível intermediário.
 Esse último detalhe é o que faz o instrumento ser mais interessante do que um contrato: **o
 Gu testa sinceridade, não só palavras.** Você não consegue jurar de dedos cruzados. O que
 você consegue é jurar sinceramente um texto cuidadosamente incompleto.
+
+**E se quebrar?** Esta é a pergunta que a mesa vai fazer primeiro, e a obra responde. O Gu
+deixa no corpo de cada jurado uma **marca de restrição** invisível. No momento em que a
+pessoa viola a letra do que jurou, a marca reage: sangue jorra pelos sete orifícios do
+rosto — olhos, ouvidos, narinas, boca — e continua jorrando enquanto a violação durar. Não é
+morte instantânea: é um sangramento que escala. Quem decide pagar o preço atravessa e vive; a
+obra mostra desertores fugindo de um campo de batalha sangrando pelo rosto, e o narrador é
+explícito em que eles escolheram correr o risco. Quem insiste até o fim, morre — e há registro
+de alguém que **deixou o juramento matá-la de propósito** para depois se ressuscitar e sair
+livre, porque sem hospedeiro o juramento perde a força.
+
+A consequência de mesa é limpa: **um juramento venenoso não é uma corrente, é um preço.**
+Ele não impede ninguém de trair — ele torna a traição cara e visível, o que é bem mais
+interessante numa cena, porque o traidor chega ao próximo encontro com o rosto sujo de
+sangue e todo mundo entende o que aconteceu.
 
 **Quem paga.** O custo é das partes e costuma ser dividido; a recusa em usar um
 juramento é lida como confissão de má-fé (*"como eu saberia que você não vai fugir se não

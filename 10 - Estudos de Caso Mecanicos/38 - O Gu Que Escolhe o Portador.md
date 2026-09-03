@@ -25,7 +25,7 @@ brecha.
 
 ## Caso A — o Gu que exige um coração disposto ao sacrifício
 
-**A situação:** um Gu Imortal cuja função é **atrair calamidades e provações sobre o próprio
+**A situação:** um [[16 - Gu Imortais|Gu Imortal]] cuja função é **atrair calamidades e provações sobre o próprio
 portador** — ou seja, oferecer-se em sacrifício. A trava correspondente exige um "coração de
 autossacrifício" genuíno.
 

@@ -19,6 +19,14 @@ conhecimento: comum
 um Gu vivo adormecido dentro — compram-se às cegas, abrem-se com técnica, e na esmagadora
 maioria das vezes não há nada.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de
+> algo que a obra afirma. `*` é **invenção ou indução nossa**, sem base textual. `—`
+> significa que a obra não informa e nada foi preenchido. Onde aparecer o rótulo
+> `inferido · conferido pelo autor`, trate-o como um `*` que já passou por revisão: é
+> reconstrução deste vault, não citação. **Apagar tudo que estiver marcado com `*` devolve
+> este documento a cem por cento canônico.**
+
 ## De onde vêm as pedras
 
 Um Gu ferido ou faminto raramente morre de imediato: existe uma pequena chance de que ele
@@ -103,11 +111,9 @@ profissionais treinarem o olho.
 
 Esta é a metade que faltava. Custo, perícia e probabilidade não bastam para usar a aposta
 de rochas em mesa: é preciso saber **o que se ganha**. A obra descreve o prêmio em prosa —
-"um Gu vivo", "um Gu de rank alto" — e nunca publica uma tabela. A que segue é uma
-reconstrução deste vault, montada a partir de três coisas que o texto **de fato** afirma:
-que o grau da pedra mede quantos sinais ela exibe, que mais sinais significam maior chance
-**e maior rank potencial** do conteúdo, e que os preços de Gu por rank são os de
-[[02 - Pedras Primordiais|Pedras Primordiais]].
+"um Gu vivo", "um Gu de rank alto" — e **nunca publica uma tabela**. Este vault também não
+vai publicar uma, e o aviso a seguir explica por quê e dá os quatro fatos com que você
+monta a sua.
 
 > [!warning] Aqui o vault deliberadamente não dá números
 > Uma versão anterior desta nota trazia uma tabela com chance de acerto, rank típico do
@@ -127,7 +133,7 @@ que o grau da pedra mede quantos sinais ela exibe, que mais sinais significam ma
 > Com esses quatro fatos você monta a sua própria tabela, calibrada para a sua mesa, sem
 > risco de contradizer o cânone — porque não há cânone numérico aqui.
 
-Três leituras que a tabela sozinha não dá:
+Três leituras que os quatro fatos acima permitem, e que valem mais que a tabela ausente:
 
 - **A conta fecha negativa de propósito, e é assim na obra.** Somando tudo, quem aposta
   sistematicamente perde. Isso não é um defeito da reconstrução: é o que o texto afirma em
@@ -138,16 +144,25 @@ Três leituras que a tabela sozinha não dá:
   personagem sem clã, sem receita e sem refinador, um Gu de rank 3 comprado por mil pedras
   numa aposta não vale dez mil: vale o que valeria uma porta que estava fechada. É por isso
   que a aposta de rochas é a loteria dos deserdados.
-- **O grau alto é o ponto ótimo.** Repare que ele empata *e* tem dissecação gratuita. Um
-  personagem que consiga bancar o grau alto está jogando o melhor jogo da mesa; quem só
-  alcança o baixo e o médio está pagando os prêmios dele.
+- **O grau alto é o degrau mais eficiente para quem consegue pagá-lo.** É o primeiro em que
+  a casa oferece a **dissecação de graça** — ou seja, o único em que o jogador não corre o
+  risco de destruir o próprio prêmio ao abrir. `(ded.)` a obra dá a política de gratuidade e
+  a letalidade da abertura malfeita; a conclusão de que isso torna o grau alto o melhor
+  ponto de entrada é leitura deste vault. Quem só alcança o baixo e o médio paga a
+  dissecação **e** assume o risco.
 
 > [!note] Para o design — como rodar isso em mesa
-> Duas rolagens, nesta ordem, e o minijogo está pronto:
+> Duas rolagens, nesta ordem, e o minijogo está pronto. **Você vai precisar arbitrar as
+> chances**: como explicado acima, este vault não publica uma tabela de probabilidade por
+> grau, porque a obra não tem uma. O que segue é o procedimento; os números são seus.
 >
-> 1. **Compra.** O jogador escolhe o grau (o custo é a aposta). A perícia de leitura de
->    sinais move a chance da coluna 3 para cima ou para baixo — sem perícia, use a taxa da
->    população (~2%, qualquer grau); com perícia de especialista, a taxa da tabela.
+> 1. **Compra.** O jogador escolhe o grau — o custo da tabela de graus **é** a aposta. Sem
+>    perícia de leitura de sinais, use a taxa da população: `*` algo em torno de **2%** de
+>    sair um Gu **vivo** (uma em dez pedras tem conteúdo, e a maioria desse conteúdo está
+>    morta). Com perícia de especialista, a obra dá o único número que existe: **duas em
+>    dez** — mas lembre-se de que essa taxa se aplica às pedras que o especialista
+>    *selecionou*, não a qualquer pedra do balcão. Suba a chance conforme o grau, já que
+>    graus mais altos são definidos por exibir mais sinais.
 > 2. **Abertura.** Se houver algo vivo, uma segunda rolagem decide se sobreviveu à
 >    extração. Método errado ou mão pesada mata o prêmio já ganho. Pagar um dissecador
 >    profissional dispensa esta rolagem — e é grátis nos graus alto e super, que é onde o

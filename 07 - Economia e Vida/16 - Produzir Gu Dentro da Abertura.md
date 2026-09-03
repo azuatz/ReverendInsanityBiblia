@@ -47,8 +47,8 @@ que virem Gu sozinhos.
 
 ## Por que esta nota existe
 
-Um Mestre Gu mortal tem menos de dez Gu ao mesmo tempo, e alimentá-los já é o maior
-problema financeiro da vida dele. Um imortal consegue **dezenas de milhares de Gu mortais
+Um Mestre Gu mortal carrega de três a cinco Gu ao mesmo tempo — sete já é considerado
+excepcional —, e alimentá-los já é o maior problema financeiro da vida dele. Um imortal consegue **dezenas de milhares de Gu mortais
 sem dificuldade** — só os Gu imortais continuam difíceis. Essa diferença de quatro ordens de
 grandeza não vem de riqueza: vem de o imortal ter parado de comprar e começado a **plantar**.
 

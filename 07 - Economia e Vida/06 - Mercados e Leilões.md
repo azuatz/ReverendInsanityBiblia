@@ -18,6 +18,14 @@ conhecimento: comum
 uma vez por ano, a cidade-mercado com portões vigiados, o leilão, e a aposta de pedra — e
 em cada uma delas ==o acesso importa mais que o dinheiro==.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de
+> algo que a obra afirma. `*` é **invenção ou indução nossa**, sem base textual. `—`
+> significa que a obra não informa e nada foi preenchido. Onde aparecer o rótulo
+> `inferido · conferido pelo autor`, trate-o como um `*` que já passou por revisão: é
+> reconstrução deste vault, não citação. **Apagar tudo que estiver marcado com `*` devolve
+> este documento a cem por cento canônico.**
+
 ## Como é comprar, fisicamente
 
 Antes das camadas e das regras, a cena. Esta seção existe para que a designer consiga
@@ -312,7 +320,8 @@ capturadas vivas.
 - **Empréstimos informais milionários na palavra**, entre aliados, para cobrir um lance.
 - **Uso de informação privilegiada.** Saber de antemão quais itens triviais serão exigidos
   como chave de uma herança permite comprá-los baratos e revendê-los no pico da
-  especulação — há um caso de valorização de três vezes em cerca de dez dias.
+  especulação — há um caso documentado de um capital **triplicado em vinte dias** por essa
+  via, detalhado em [[03 - Preços, Renda e Custo de Vida#Renda de patrimônio|Preços, Renda e Custo de Vida]].
 
 > [!warning] O ego é um recurso do oponente
 > A regra generalizável dos leilões deste mundo: em disputa pública, **o orgulho do
@@ -355,8 +364,9 @@ disponíveis ou não funcionam através da casca, ou matariam o ocupante.
 - entre as restantes, a maioria guarda um Gu já morto;
 - um especialista com séculos de prática acerta algo em torno de duas em dez.
 
-**As cinco categorias de preço:** sucata (dezenas de pedras primordiais), baixo (~100), médio
-(~1.000), alto (~10.000) e super (centenas de milhares).
+**As cinco categorias de preço, em pedras primordiais:** sucata (a partir de ~10), baixo
+(~100), médio (~1.000), alto (~10.000) e super (centenas de milhares). A escada completa,
+com o que cada grau significa, está em [[09 - Aposta de Rochas|Aposta de Rochas]].
 
 **Como se melhora as chances:** heurísticas de tamanho relativo — o fóssil costuma ser
 cerca de 30% maior que o Gu dentro dele —, textura, formato e padrão mineral. Certos

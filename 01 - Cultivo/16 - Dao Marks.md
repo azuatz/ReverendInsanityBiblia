@@ -15,6 +15,12 @@ conhecimento: especializado
 
 **Em uma frase:** ==dao marks (marcas do Dao)== são fragmentos das leis do universo gravados de forma permanente no corpo, na alma e no mundo pessoal de um cultivador — e são eles, não o rank, que decidem o que alguém consegue fazer bem no reino imortal.[^1]
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca uma **dedução nossa** a partir de
+> algo que a obra afirma. `*` marca **invenção nossa**, sem base textual. `—` significa que a
+> obra não informa e nada foi preenchido. **Apagar tudo marcado com `*` devolve o documento a
+> cem por cento canônico.**
+
 ## Como funciona
 
 Comece pela base metafísica, porque ela explica o sistema inteiro de magia deste mundo. **Todo Gu contém um fragmento de lei do universo.** Usar um Gu é usar uma lei; refinar um Gu é fundir e formar leis. A diferença entre o mundo mortal e o imortal, nesses termos, é de grau e depois de natureza: Gu mortais contêm meros **traços** de lei, enquanto Gu imortais **são** fragmentos das leis — uma diferença qualitativa, não de tamanho.

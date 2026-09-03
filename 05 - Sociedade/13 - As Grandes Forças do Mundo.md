@@ -1205,3 +1205,8 @@ contradizer nada:
 - [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que atravessa todas elas.
 - [[12 - Heranças e Provações|Heranças e Provações]] — o gatilho de conflito número um entre grandes forças.
 - [[15 - Economia Imortal|Economia Imortal]] — o dinheiro e os mercados com que essa política é feita.
+- [[10 - Guerra Organizada|Guerra Organizada]] — o que acontece depois que a política desta nota falha: formação, tropa, mérito e o que a batalha consome.
+- [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — as agências de inteligência que várias destas forças mantêm, e a espionagem de longo prazo entre elas.
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o instrumento mágico sem o qual nenhuma das alianças listadas aqui seria possível.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — os povos não-humanos por trás das forças variantes deste catálogo.
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a Torre de Supressão de Demônios e os investigadores itinerantes, vistos como instituição de justiça.

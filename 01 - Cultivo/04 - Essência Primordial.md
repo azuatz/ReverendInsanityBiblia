@@ -6,7 +6,6 @@ aliases:
   - Essência Primeva
   - Primeval Essence
   - Essência primordial
-  - Essência Imortal
 status: consolidado
 fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap. 50", "cap. 81", "cap. 90-91", "cap. 135", "cap. 140", "cap. 147", "cap. 152", "cap. 159", "cap. 167", "cap. 173", "cap. 178-181", "cap. 193-199", "cap. 212", "cap. 214", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 273", "cap. 278", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 449", "cap. 454", "cap. 504", "cap. 1500", "cap. 1973", "cap. 2295-2334", "cap. 6", "cap. 22", "cap. 29", "cap. 96", "cap. 100", "cap. 106", "cap. 122", "cap. 362", "cap. 410", "cap. 437"]
 conhecimento: comum

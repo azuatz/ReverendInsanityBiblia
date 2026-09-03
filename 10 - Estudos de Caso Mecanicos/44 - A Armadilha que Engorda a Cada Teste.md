@@ -31,7 +31,7 @@ O caso só existe porque o operador possuía um instrumento de **medição**. Va
 ele é raro no mundo e explica por que quase ninguém descobriria o que ele descobriu.
 
 Trata-se de um Gu Imortal de rank 6 do caminho da informação, cuja função a obra descreve como
-*muito específica: ele pode ajudar um Imortal Gu a ver claramente que tipos de
+*muito específica: ele pode ajudar um Imortal a ver claramente que tipos de
 [[16 - Dao Marks|dao marks]] o alvo tem, e também a quantidade deles*. Ou seja: um **contador de
 marcas**.
 
@@ -41,14 +41,15 @@ Os limites dele são tão importantes quanto a função:
   do Grande Dao, e não dao marks;
 - **não localiza** as marcas dentro do alvo, nem as influencia — só conta;
 - sobre materiais imortais, o **conflito entre marcas de tipos diferentes** encarece muito o
-  gasto de essência imortal; ler algo puramente do próprio caminho é barato.
+  gasto de [[15 - Essência Imortal|essência imortal]]; ler algo puramente do próprio caminho é barato.
 
 > [!warning] A escala de dao marks, que dá sentido a todos os números desta nota
 > A obra publica a curva no mesmo trecho, e ela é a chave de leitura do reino imortal:
 > **cem** marcas aumentam o efeito de um Gu Imortal em **dez por cento**; **mil** marcas
-> **dobram** o efeito; **dezesseis mil** marcas resultam em **dezesseis vezes** o efeito. E o
+> **dobram** o efeito; **dezesseis mil** marcas resultam em **dezessete vezes** o efeito — a
+> fórmula que liga os três pontos é `efeito final = efeito base × (1 + marcas ÷ 1.000)`. E o
 > detalhe que muda tudo: **o custo de ativação não sobe junto**. Mesmo com dezessete vezes mais
-> poder, o gasto de essência imortal era igual ao de outro Imortal Gu qualquer. Dao marks são
+> poder, o gasto de essência imortal era igual ao de qualquer outro Gu Imortal. Dao marks são
 > multiplicador puro, sem contrapartida de consumo.
 
 ## A situação
@@ -69,7 +70,7 @@ corpo — **mais** do que os dao marks originais de caminho da força que o corp
    regiões — tudo acontecia dentro do próprio território do operador, e o que permitia conduzir
    as duas coisas ao mesmo tempo era simplesmente **multitarefa mental**. O intermediário existe
    para não pôr a **alma** dele lá dentro.
-3. **Gastar um recurso que já estava perdido.** A alma-teste foi a de um Imortal Gu **cativo** —
+3. **Gastar um recurso que já estava perdido.** A alma-teste foi a de um Imortal **cativo** —
    o operador mantinha um estoque delas. A obra **não informa** qual alma foi consumida. `—`
 4. **Observar o resultado.** A alma derreteu por completo, e depressa: *ela não durou nem um
    curto período de tempo*; *a alma que ele enfiou no corpo derreteu completamente, não sobrou
@@ -89,11 +90,11 @@ com todas as letras: *ela não apenas impediu a alma que entrou de sair, como de
 depois disso, fortaleceu a si mesma, para repor o que gastou e ficar mais forte*.
 
 Isso invalida diretamente o plano óbvio, que o texto registra e descarta na mesma frase: *o
-método mais simples e mais bruto seria usar almas de Imortais Gu e enfiá-las continuamente no
+método mais simples e mais bruto seria usar almas de Imortais e enfiá-las continuamente no
 corpo, para que a armadilha enfraquecesse depois de várias ativações e acabasse por desmoronar.
 Mas a armadilha dele não era normal!*
 
-A conclusão operacional é a lição: *nesse caso, minha ação de enviar almas de Imortais Gu para
+A conclusão operacional é a lição: *nesse caso, minha ação de enviar almas de Imortais para
 sondá-la fica restrita. A menos que eu tenha um método capaz de mirar de verdade os dao marks de
 caminho da alma nesse corpo. Do contrário, eu só estaria tornando esta armadilha mais poderosa!*
 
@@ -116,7 +117,7 @@ caminho da alma nesse corpo. Do contrário, eu só estaria tornando esta armadil
 > lição transferível, e ela não exige nada de imortal — vale para um grupo de rank 1 cutucando uma
 > porta selada. Já a armadilha em si é uma construção de altíssimo nível: exige um especialista de
 > caminho da alma com acesso prolongado ao alvo. E o instrumento de medição é raro o bastante para
-> que a maioria dos Imortais Gu do mundo, no lugar do operador, jamais descobrisse o problema.
+> que a maioria dos Imortais do mundo, no lugar do operador, jamais descobrisse o problema.
 
 > [!note] Para o design
 > Duas coisas jogáveis aqui, e as duas valem mais que a cena.

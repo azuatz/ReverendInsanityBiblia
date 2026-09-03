@@ -23,6 +23,12 @@ fontes: ["cap. 62", "cap. 112", "cap. 126", "cap. 205", "cap. 222", "cap. 225", 
 
 **Em uma frase:** neste mundo o corpo é ==equipamento==, não moldura — pode ser reforçado, enxertado, trocado de espécie, trocado de rosto, fabricado do zero ou ocupado por outra alma —, e cada uma dessas operações é permanente, dolorosa e fecha portas que não reabrem.
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca uma **dedução nossa** a partir de
+> algo que a obra afirma. `*` marca **invenção nossa**, sem base textual. `—` significa que a
+> obra não informa e nada foi preenchido. **Apagar tudo marcado com `*` devolve o documento a
+> cem por cento canônico.**
+
 > [!warning] Convenção de confiabilidade desta nota
 > Texto simples = **a obra afirma**. **(ded.)** = dedução segura a partir do que a obra
 > afirma. **`*`** = invenção ou indução nossa, **sem base textual**. **`—`** = a obra não

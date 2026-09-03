@@ -96,7 +96,7 @@ Na primeira era do mundo havia **nove céus**, empilhados como camadas: **white*
 
 O dado de escala é o que muda tudo, e a obra o repete: **cada camada de céu tem o tamanho das cinco regiões somadas**. O "fora" não é uma orla do mundo habitado. É maior que ele — e sempre foi.
 
-Sete céus foram destruídos, um depois do outro. Restaram **white heaven** e **black heaven**, e a alternância dos dois sobre o mundo **é** o dia e a noite. (Por que caíram, e o que se perdeu junto com eles, está em [[17 - Cosmologia#Os nove céus imemoriais]].)
+Sete céus foram destruídos, um depois do outro. Restaram **white heaven** e **black heaven**, e a alternância dos dois sobre o mundo **é** o dia e a noite — mas cuidado com essa frase, porque ela engana: **os dois céus não substituem o sol.** O mundo tem sol, lua, estrelas e quatro estações como o nosso; os céus são **filtros por cima do sol**, e a luz de hoje, já muito enfraquecida, atravessa o céu branco (dia) e não atravessa o negro (noite). Ver [[17 - Cosmologia#Sim, existe um sol — e os céus são filtros]] e [[07 - O Relógio do Mundo|O Relógio do Mundo]]. (Por que os sete caíram, e o que se perdeu junto com eles, está em [[17 - Cosmologia#Os nove céus imemoriais]].)
 
 ### 1.2 Black heaven — o céu negro por dentro
 

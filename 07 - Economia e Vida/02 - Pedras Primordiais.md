@@ -63,12 +63,14 @@ que, ao contrário do ouro, ela se **gasta**.
 Esta é a seção que responde "mas como é a coisa, fisicamente?". Tudo aqui vem de cenas
 descritas na obra, exceto o que estiver marcado.
 
-> [!info] Convenção de confiabilidade desta seção
+> [!info] Os quatro estados de confiabilidade — valem para a nota inteira, daqui em diante
 > Texto sem marca = **a obra afirma**. `(ded.)` = **dedução nossa** a partir de algo que a
-> obra afirma. `*` = **invenção nossa**, sem base no texto. Onde a obra simplesmente não
-> informa, está escrito que ela não informa — e isso é um convite: ali a designer pode
-> desenhar como quiser. **Apagar tudo marcado com `*` devolve esta seção a cem por cento
-> canônico.**
+> obra afirma. `*` = **invenção nossa**, sem base no texto. `—` = a obra não informa e nada
+> foi preenchido; onde for esse o caso, está escrito que ela não informa — e isso é um
+> convite: ali a designer pode desenhar como quiser. O rótulo
+> `inferido · conferido pelo autor`, que aparece mais adiante, é um `*` já revisado:
+> reconstrução deste vault, nunca citação. **Apagar tudo marcado com `*` devolve o
+> documento a cem por cento canônico.**
 
 ### Tamanho, forma e cor
 
@@ -467,7 +469,7 @@ estão em pedras primordiais**, sem exceção:
 | Chá comum, numa casa de chá | 5 pedras |
 | Ingresso de arena, como espectador | 20 |
 | Hospedagem em bairro nobre | 30 a 100 por dia |
-| Folha medicinal cultivada (unidade) | 55 a 80 (o topo da faixa é inflação de crise) |
+| Folha medicinal cultivada (por unidade) | 50 em tempo normal; 55 a 80 conforme a crise se aproxima, e mais de 100 no auge dela — a curva completa está em [[03 - Preços, Renda e Custo de Vida#Inflação: a curva que a obra desenha\|Preços, Renda e Custo de Vida]] |
 | Inscrição em arena profissional | 500 |
 | Gravação comprometedora (chantagem) | 2.000 |
 | Gu de rank 3 de boa qualidade | 28.000 a 45.000 |

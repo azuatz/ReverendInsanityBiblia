@@ -10,7 +10,7 @@ aliases:
   - Demon Venerable
   - Os Dez Veneráveis
 status: consolidado
-fontes: ["cap. 187", "cap. 383", "cap. 518", "cap. 552", "cap. 601", "cap. 813", "cap. 1007", "cap. 1297", "cap. 1435", "cap. 1442", "cap. 2071", "cap. 2085", "cap. 2086", "cap. 2111"]
+fontes: ["cap. 187", "cap. 383", "cap. 518", "cap. 552", "cap. 601", "cap. 686", "cap. 813", "cap. 1007", "cap. 1297", "cap. 1323", "cap. 1406", "cap. 1435", "cap. 1442", "cap. 1649", "cap. 1782", "cap. 2071", "cap. 2085", "cap. 2086", "cap. 2109", "cap. 2111", "cap. 2197", "cap. 2203", "cap. 2204", "cap. 2240"]
 conhecimento: especializado
 ---
 
@@ -54,12 +54,15 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 2. **Nunca existiram dois Veneráveis vivos ao mesmo tempo.** A formulação in-universe é "dois reis não coexistem". Quando dois deles se enfrentam, é sempre um contra os métodos deixados para trás pelo outro, através de eras.
 3. **Só existiram dez.** Nove homens e uma mulher — não há restrição de gênero.
 4. **Todos eram humanos puros.** Nunca houve um Venerável entre os humanos variantes (raças humanoides como os homens-peludos ou os homens-pena), e o rank 9 simplesmente não existe para feras e plantas.
-5. **Nenhum era onipotente.** Cada Venerável tem **uma** especialidade em que supera todos os outros; nos demais campos pode ser meramente competente. Um Venerável especialista em tempo tinha domínio de alma comparável ao de um rank 8 qualquer. Vários precisaram de ajuda de terceiros para refinar seus próprios Gu.
-6. **Todos foram limitados pela expectativa de vida.** Ser invencível não é ser eterno. Há registro histórico de Veneráveis caçando desesperadamente meios de estender a própria vida. Todos os dez morreram.
+5. **Nenhum era onipotente — e todos cultivaram exatamente dois caminhos.** Esta é a regra estrutural mais útil da pasta, e ela é enunciada de forma explícita na obra: cada Venerável tem **um caminho principal** e **um caminho de especialidade**, e nada além disso. O principal é o que o levou ao rank 9 e o que ele **divulga**: vira disciplina pública, ensinada e herdada pelo mundo inteiro. A especialidade é **mantida em segredo**, lacrada, e serve para uma coisa só — **competir com os outros Veneráveis**. O raciocínio é de duelista: se todos conhecem o seu caminho principal, todos sabem se defender dele; o que ninguém viu é a sua carta na mesa.
+   Fora desses dois campos, um Venerável pode ser apenas competente. Um Venerável especialista em tempo tinha domínio de alma comparável ao de um rank 8 qualquer, e vários precisaram de ajuda de terceiros para refinar os próprios Gu.
+   > [!note] Para o design
+   > Isto resolve, de graça, um problema clássico de cenário: *por que a magia mais poderosa do mundo não está toda publicada?* Porque metade dela nunca foi. Cada uma das grandes disciplinas do mundo tem uma disciplina-irmã secreta ao lado, criada pela mesma pessoa e escondida de propósito — e encontrar uma dessas metades escondidas é um objetivo de campanha inteiro. O caminho da pintura e o caminho da sorte são os dois exemplos que a obra desenvolve.
+6. **Todos foram limitados pela expectativa de vida.** Ser invencível não é ser eterno. Há registro histórico de Veneráveis caçando desesperadamente meios de estender a própria vida — e o custo disso recai sobre o mundo, porque os Gu que concedem anos não se fabricam, só nascem, e cada Venerável que passa esgota o suprimento da própria era. Os números: o mais longevo dos dez passou dos **25 mil anos**, o segundo chegou a cerca de **19 mil**, **a maioria viveu por volta de 7 mil** e o mais curto viveu cerca de **3 mil**. Para comparação, um imortal de rank 7 ou 8 excepcional chega a alguns milhares. Todos os dez morreram. Os números completos estão em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], a fonte soberana deles.
 7. **Todos tiveram um "Dao Guardian"** (Guardião do Dao) num momento crucial de seu crescimento — uma figura decisiva que podia ser tanto um amigo quanto um inimigo. É uma instituição informal, mas universal: não há Venerável sem um.
    E há um caso ainda mais forte que o padrão: os **dois primeiros da lista foram mestre e discípula**, e o segundo legado mais consequente da história — a captura da lei do céu — começou como uma **tarefa herdada** que o mestre não conseguiu concluir em vida e passou a ela no leito de morte. Ver [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]].
 8. **Todos criaram [[08 - Killer Moves|golpes]] de alto nível no caminho humano** — *human path*, a disciplina que trata do que os seres humanos são e fazem — a partir da compreensão das [[12 - Lendas de Ren Zu|Lendas de Ren Zu]]. Sem exceção, os dez leram a mitologia fundadora do mundo como manual técnico. Um ==[[08 - Killer Moves|golpe]]== (*killer move*) é a combinação coreografada de vários Gu num efeito único: é a unidade de "magia lançada" deste sistema.
-9. **O legado sobrevive ao portador.** Golpes lendários de Veneráveis mortos aparecem sozinhos dentro de desastres naturais séculos depois; suas vontades residuais continuam operando dentro de suas criações; e o **caminho** (*path*) que fundaram carrega a assinatura deles para sempre (ver [[01 - Visão Geral dos Veneráveis#Dao Lord|a seção Dao Lord, abaixo]]). Um ==[[01 - Visão Geral dos Paths|caminho]]== é uma disciplina de cultivo inteira — força, madeira, alma, sorte —, e a escolha do caminho principal é a decisão mais definidora de um personagem neste cenário.
+9. **O legado sobrevive ao portador — e isso é uma lei, não uma metáfora.** A obra enuncia a regra sem exceção: quando um rank 9 morre, **o golpe principal dele fica impresso no céu e na terra e passa a reaparecer sozinho, na forma de tribulação e de calamidade**, contra cultivadores que nunca ouviram falar dele. Some-se a isso que as vontades residuais deles continuam operando dentro de suas criações, e que o **caminho** (*path*) que fundaram carrega a assinatura deles para sempre (ver [[01 - Visão Geral dos Veneráveis#Dao Lord|a seção Dao Lord, abaixo]]). Um ==[[01 - Visão Geral dos Paths|caminho]]== é uma disciplina de cultivo inteira — força, madeira, alma, sorte —, e a escolha do caminho principal é a decisão mais definidora de um personagem neste cenário.
 
 ## Como se chega ao rank 9
 
@@ -74,7 +77,7 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 São **quatro condições cumulativas**:
 
 1. **O núcleo da abertura imortal do candidato precisa produzir essência imortal de rank 8.** A energia que uma [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] gera tem quatro denominações crescentes, uma por rank — **uva-verde** no 6, **tâmara-vermelha** no 7, **lichia-branca** no 8, **damasco-amarelo** no 9 —, e cada degrau vale cerca de cem vezes o anterior. O candidato precisa já estar produzindo lichia-branca antes de tentar a quarta condição. É pré-requisito, não resultado.
-2. **Pelo menos 300 mil marcas de dao no caminho principal.** Para escala: um rank 6 tem até 9 mil; um rank 7, entre 9 e 30 mil; um rank 8, entre **30 e 300 mil** — ou seja, a condição 2 é exatamente *fechar o rank 8 inteiro*. Sobre a amplificação que essas marcas dão, a obra fixa quatro pontos: **100 marcas → 1,1×; 1.000 → 2×; 10.000 → 10×; 50.000 → 50×**, aplicados sobre o efeito declarado do Gu. Para interpolar entre eles o vault usa `efeito × (1 + marcas ÷ 1.000)` **(ded.)** — reconstrução nossa, que reproduz os dois primeiros pontos exatamente e os dois últimos com o arredondamento que a própria obra faz. A curva é **linear**: dobrar as marcas praticamente dobra o efeito, sem retornos crescentes. Os números completos estão em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], que é a fonte soberana deles neste vault.
+2. **Pelo menos 300 mil marcas de dao no caminho principal.** Para escala: um rank 6 tem até 9 mil; um rank 7, entre 10 e 30 mil; um rank 8, entre **100 e 300 mil** — ou seja, a condição 2 é chegar ao **teto do rank 8**, não à média dele. Sobre a amplificação que essas marcas dão, a obra deixa oito pontos avulsos espalhados pelo texto — **100 marcas → 1,1×; 1.000 → 2×; 10.000 → 10×; 50.000 → 50×**, e assim por diante —, sempre aplicados sobre o efeito declarado do Gu. Para interpolar entre eles o vault usa `efeito × (1 + marcas ÷ 1.000)`, que é **reconstrução nossa, não fórmula da obra**: ela reproduz os pontos baixos exatamente e os altos com o arredondamento que a própria obra faz. A curva é **linear**: dobrar as marcas praticamente dobra o efeito, sem retornos crescentes. Os números completos estão em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], que é a fonte soberana deles neste vault — em caso de divergência com esta nota, vale a de lá.
 3. **[[08 - Attainment|Attainment]] de "Supremo Grão-Mestre" no caminho principal — e este é o gargalo real.** ==Attainment== é o eixo de progressão que mede **o quanto você entende** de um caminho, separado do rank, que mede quanta força você tem. São nove degraus nomeados, de *comum* a *supremo grão-mestre*. O degrau imediatamente anterior — *quase supremo* — está perto e não serve: supremo grão-mestre exige não apenas compreender toda a profundidade da disciplina, mas **inovar** dentro dela, elevando o teto da disciplina em si. Não é erudição; é autoria. E é por isso que nenhuma herança do mundo entrega esse degrau: inovação, por definição, não se herda.
 4. **Romper o bloqueio do Caminho Celestial.** A [[15 - Vontade dos Céus|lei do mundo]] suprime ativamente o crescimento de poder individual. Quebrar essa supressão é a última porta. Quem a atravessa passa a produzir a essência imortal de rank 9, o damasco-amarelo.
 
@@ -146,18 +149,24 @@ instituições; *Demon Venerable* (Venerável Demônio) é quem chegou pela via 
 sem respeitar esses limites. Os dois são igualmente invencíveis, e a distinção não
 diz nada sobre quem era cruel — vários "imortais" foram piores que vários "demônios".
 
-| # | Venerável | Era | Via | Caminho principal | Legado em uma linha | Onde ler |
+A coluna "Caminho" traz **duas** informações, porque todo Venerável cultivou exatamente
+dois caminhos: o **principal**, público e ensinado ao mundo, e a **especialidade**, mantida
+em segredo. A regra por trás disso está logo acima, no item 5 de "Regras do mundo". Repare
+que *cultivar* um caminho e *ter criado* aquele caminho são coisas diferentes: a última
+coluna de legado diz quem criou o quê.
+
+| # | Venerável | Era | Via | Caminho principal · especialidade | Legado em uma linha | Onde ler |
 |---|---|---|---|---|---|---|
-| 1 | Primordial Origin Immortal Venerable | Remota | correta | — (a obra não informa) | O primeiro rank 9 da história; fundou o sistema de seitas e o [[19 - Tribunal Celestial|Tribunal Celestial]] | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
-| 2 | Star Constellation Immortal Venerable | Remota | correta | wisdom path (caminho da sabedoria) | **Discípula do nº 1.** Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
-| 3 | Reckless Savage Demon Venerable | Antiga | demoníaca | strength path (caminho da força) | Criou os caminhos da força e da transformação; exterminou uma raça | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
-| 4 | Thieving Heaven Demon Venerable | Antiga | demoníaca | theft path (caminho do roubo) | Criou o caminho do roubo; deixou a rede de atalhos que o mundo ainda usa para viajar; o mais rico da história; rompeu a fronteira do mundo e a remendou mal | [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] |
-| 5 | Limitless Demon Venerable | Antiga | demoníaca | rule path (caminho da regra) | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
-| 6 | Giant Sun Immortal Venerable | Medieval | correta (ex-demoníaca) | luck path (caminho da sorte) | Criou o caminho da sorte e o manteve em segredo; fundou a ordem política das Planícies do Norte e o cofre de 88 andares que a saqueia | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
-| 7 | Genesis Lotus Immortal Venerable | Medieval | correta | wood path (caminho da madeira) | Criou o caminho da madeira, a infraestrutura de cura e armazenamento do mundo imortal e uma das dez grandes seitas | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
-| 8 | Spectral Soul Demon Venerable | Tardia | demoníaca | soul path (caminho da alma) | Criou o caminho da alma; a existência mais destrutiva dos dez | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
-| 9 | Paradise Earth Immortal Venerable | Tardia | correta | — (não criou caminho próprio) | Deixou a melhor herança de combate da história, as ferramentas de ler e ocultar o segredo celeste, e uma instituição de missões que ainda funciona | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
-| 10 | Red Lotus Demon Venerable | Tardia | demoníaca | — (a obra não informa) | Feriu o [[16 - Fate Gu|Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida; teve a vida mais curta dos dez | [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] |
+| 1 | Primordial Origin Immortal Venerable | Remota | correta | [[05 - Qi Path\|qi]] (energia) · — | O primeiro rank 9 da história; **criou os caminhos do qi e da [[07 - Enslavement Path\|escravização]]**, o sistema de seitas e o [[19 - Tribunal Celestial\|Tribunal Celestial]] | [[03 - Os Arquitetos da Ordem#Primordial Origin Immortal Venerable\|ficha completa →]] |
+| 2 | Star Constellation Immortal Venerable | Remota | correta | [[16 - Wisdom Path\|sabedoria]] · [[19 - Star Path\|estrelas]] | **Discípula do nº 1.** Criou os caminhos da sabedoria e das estrelas; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu | [[03 - Os Arquitetos da Ordem#Star Constellation Immortal Venerable\|ficha completa →]] |
+| 3 | Reckless Savage Demon Venerable | Antiga | demoníaca | [[04 - Strength Path\|força]] · [[06 - Transformation Path\|transformação]] | Criou os caminhos da força e da transformação; congelou uma planície inteira e gravou nela a própria compreensão; exterminou uma raça | [[02 - Os Criadores de Caminhos#Reckless Savage Demon Venerable\|ficha completa →]] |
+| 4 | Thieving Heaven Demon Venerable | Antiga | demoníaca | [[15 - Theft Path\|roubo]] · [[14 - Space Path\|espaço]] | Criou o caminho do roubo; deixou a rede de atalhos que o mundo ainda usa para viajar; o mais rico da história; rompeu a fronteira do mundo e a remendou mal | [[04 - Os Que Romperam as Leis#Thieving Heaven Demon Venerable\|ficha completa →]] |
+| 5 | Limitless Demon Venerable | Antiga | demoníaca | [[21 - Rule Path\|regra]] · — | Criou o caminho da regra; escavou a Caverna do Demônio Enlouquecido, o lugar mais importante do mundo | [[02 - Os Criadores de Caminhos#Limitless Demon Venerable\|ficha completa →]] |
+| 6 | Giant Sun Immortal Venerable | Medieval | correta (ex-demoníaca) | [[23 - Luck Path\|sorte]] · [[03 - Blood Path\|sangue]] | Criou o caminho da sorte e o manteve em segredo; **fez um clone criar o caminho do sangue depois de morto**; fundou a ordem política das Planícies do Norte e o cofre de 88 andares que a saqueia | [[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable\|ficha completa →]] |
+| 7 | Genesis Lotus Immortal Venerable | Medieval | correta | [[27 - Os Caminhos Elementais#Madeira (wood path)\|madeira]] · [[28 - Painting Path\|pintura]] | Criou o caminho da madeira **e o caminho secreto da pintura**, a infraestrutura de cura e armazenamento do mundo imortal e uma das dez grandes seitas | [[02 - Os Criadores de Caminhos#Genesis Lotus Immortal Venerable\|ficha completa →]] |
+| 8 | Spectral Soul Demon Venerable | Tardia | demoníaca | [[12 - Soul Path\|alma]] · [[20 - Food Path\|comida]] | Criou o caminho da alma **e a espécie das feras-de-alma**; a existência mais destrutiva dos dez | [[02 - Os Criadores de Caminhos#Spectral Soul Demon Venerable\|ficha completa →]] |
+| 9 | Paradise Earth Immortal Venerable | Tardia | correta | [[27 - Os Caminhos Elementais#Terra (earth path)\|terra]] · [[25 - Heaven Path\|céu]] | **Não fundou caminho nenhum — consertou o que os outros quebraram.** Deixou a melhor herança de combate da história, as ferramentas de ler e de ocultar o segredo celeste, a arena que substitui a guerra no Continente Central e uma instituição de missões que ainda emprega gente | [[03 - Os Arquitetos da Ordem#Paradise Earth Immortal Venerable\|ficha completa →]] |
+| 10 | Red Lotus Demon Venerable | Tardia | demoníaca | [[18 - Time Path\|tempo]] · — | Feriu o [[16 - Fate Gu\|Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida, e a rachadura que tornou o caminho da sorte possível; teve a vida mais curta dos dez | [[04 - Os Que Romperam as Leis#Red Lotus Demon Venerable\|ficha completa →]] |
 
 As eras da coluna 3 são abreviações de "Antiguidade Remota", "Antiguidade Antiga",
 "Antiguidade Medieval" e "Antiguidade Tardia". Na **era atual**, que é onde uma campanha
@@ -171,16 +180,18 @@ aviso em [[19 - Tornar-se Venerável|Tornar-se Venerável]]. Não altera nada de
 de perder de vista são o **Giant Sun** e o **Paradise Earth**, justamente porque não dão
 nome a nenhuma das três notas temáticas.
 
-**Sobre os três traços em "Caminho principal".** São lacunas honestas, não falhas de
-pesquisa, e cada uma é de um tipo diferente:
+**Sobre os três traços na coluna do caminho.** São lacunas honestas, não falhas de pesquisa:
+a obra nomeia o caminho **principal** dos dez, um por um, mas só nomeia a **especialidade**
+de sete deles. De **Primordial Origin**, **Limitless** e **Red Lotus** o segundo caminho
+nunca é declarado — o que é coerente com a própria regra, já que a especialidade é
+justamente a metade que cada Venerável escondia do mundo. Nada foi inferido para preencher
+esses três espaços.
 
-- **Paradise Earth** de fato **não fundou** caminho nenhum — o legado dele é de outra
-  natureza. O traço aqui é uma informação, não uma ausência.
-- **Red Lotus**: a obra **nunca declara** qual era o caminho principal dele.
-- **Primordial Origin**: idem. O nome sugere associação com um "caminho da origem", mas
-  **isso não é afirmado no texto** e o vault recusa a inferência; ver a nota de rodapé em
-  [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]]. Não existe nota de caminho da origem neste vault, e não
-  deveria existir sem base textual.
+**E dois dos dez não fundaram caminho nenhum**: Paradise Earth e Red Lotus cultivaram
+caminhos que já existiam. No caso de Paradise Earth isso é a chave do personagem — o legado
+dele é consertar, não fundar. No de Red Lotus é quase acidental: ele foi o maior praticante
+do caminho do tempo que já existiu, sem que a obra credite a criação da disciplina a
+ninguém.
 
 > [!warning] Sobre os nomes
 > Os nomes dos Veneráveis aparecem aqui em inglês porque a tradução brasileira de referência da obra só verteu alguns deles de forma consistente (por exemplo, *Venerável Imortal Constelação Estelar* e *Venerável Demônio Alma Espectral*). Para não inventar nomenclatura, cada nota traz o nome em inglês como título e registra a forma em português nos `aliases` quando ela existe confirmada. O critério completo, com a tabela EN→PT de todos os termos do sistema, está em [[01 - Glossário EN-PT|Glossário EN-PT]].

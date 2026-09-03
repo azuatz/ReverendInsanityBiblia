@@ -24,9 +24,22 @@ que você já teve. Este é o caso em que a obra abre a planilha inteira.
 
 ## A situação
 
-Uma calamidade na forma de uma **besta desolada** — a categoria de criatura mais perigosa do
-mundo natural — invadindo um território de cultivo administrado por um cultivador e seu
-espírito guardião.
+Uma calamidade na forma de uma ==besta desolada (desolate beast)== — a categoria de criatura
+mais perigosa do mundo natural, com força de combate equivalente à de um cultivador **imortal
+de rank 6**, e cujo corpo coberto de marcas de lei a torna quase imune a golpes de mortais —
+invadindo uma [[13 - Blessed Lands e Grotto-Heavens|terra abençoada]], que é o mundo pessoal em
+miniatura de um cultivador imortal.
+
+Duas coisas nessa frase são o que tornam o caso valioso, e a nota anterior deste vault as
+esconderia se não fossem ditas:
+
+- **Quem administrava o lugar era um Mestre Gu mortal de rank 4, de estágio superior** — não
+  um imortal. Ele matou uma criatura que é problema até para imortais. É por isso que este
+  caso interessa a uma mesa de personagens jogadores: a escala é imortal, mas o operador não é.
+- **O ==espírito guardião== é o administrador automático da terra abençoada** — uma inteligência
+  formada pelo próprio território, que cuida do lugar, contabiliza os recursos e presta contas ao
+  dono. É ele que assina o relatório de perdas abaixo. Ver
+  [[39 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]].
 
 ## As perdas, item por item
 
@@ -36,7 +49,7 @@ vault:
 | Item | Perda |
 |---|---|
 | Território | **666 km²** de terra destruídos |
-| Energia imortal | restaram **68 contas** de reserva |
+| Energia imortal | restaram **68 contas de uva-verde** de reserva — *uva-verde* é a denominação de [[15 - Essência Imortal\|essência imortal]] produzida por uma abertura de rank 6, e a mais baixa das quatro |
 | Exército de feras | de **4.700.000** raposas para **310.000** |
 | Gu | cerca de **700.000** perdidos |
 | Desenvolvimento | o território retrocedeu o equivalente a **cerca de quarenta anos** |
@@ -55,7 +68,7 @@ O dono discordou da leitura, e a obra dá razão a ele:
   infraestrutura do território.
 
 E o alívio registrado, que também é uma regra: *"ainda bem que esta besta desolada não tinha
-um Gu Imortal — se tivesse, talvez não estivéssemos aqui."* A presença ou ausência de um
+um [[16 - Gu Imortais|Gu Imortal]] — se tivesse, talvez não estivéssemos aqui."* A presença ou ausência de um
 artefato imortal na criatura é o que separa uma calamidade lucrativa de um massacre.
 
 ## As táticas que tornaram a colheita possível
@@ -65,8 +78,12 @@ artefato imortal na criatura é o que separa uma calamidade lucrativa de um mass
 - **Cortar o território** para aprisionar a ameaça secundária num setor, aceitando perder
   aquele setor para não perder o resto.
 
-Ou seja: parte das perdas contabilizadas acima **foi decidida**, não sofrida. Sacrificar
-666 km² foi uma escolha de contenção.
+Ou seja: parte das perdas contabilizadas acima **foi decidida**, não sofrida. O corte era feito
+em fatias de cerca de **meio quilômetro quadrado** por vez, para encurralar a ameaça secundária
+num setor descartável.
+
+Cuidado com a leitura fácil, porém: os **666 km² são a perda total**, não a parcela sacrificada
+de propósito. A maior parte foi destruída pela criatura; o que foi decidido foram as fatias.
 
 ## Por que isso importa
 

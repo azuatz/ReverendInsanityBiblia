@@ -300,7 +300,9 @@ O evento gera negócios próprios ao redor:
   e a obra é explícita ao dizer que foi esse treino, e não talento, que formou seu patamar
   técnico.
 - **Estoque de materiais.** Para disputar uma boa colocação é preciso levar grande volume de
-  material próprio, na ordem de centenas de unidades da moeda de patamar imortal. Não é um
+  material próprio — na ordem de **centenas de pedras de essência imortal**, a moeda do
+  patamar imortal descrita em [[15 - Economia Imortal|Economia Imortal]]. Compare com a
+  inscrição de cem pedras primordiais: entrar é barato, competir para valer não é. Não é um
   torneio a que se chega de mãos vazias.
 - **Cotas internas de seita.** As vagas automáticas são disputadas dentro de cada seita por
   competições de refino próprias — um mini-torneio antes do torneio.

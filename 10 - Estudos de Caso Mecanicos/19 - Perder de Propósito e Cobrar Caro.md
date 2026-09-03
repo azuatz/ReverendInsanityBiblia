@@ -44,7 +44,7 @@ O arsenal do favorito, que é o que interessa: **quatro** Gu de garra flamejante
    fingimento dela*.
 2. **Provocar o inimigo a comprometer tudo.** Diante da aparente vantagem, ele **acionou as
    quatro garras de uma vez** e fundiu as duas serpentes num único dragão de fogo. O custo de
-   comprometer o arsenal é registrado: *a essência primordial dele sofreu um golpe severo, o
+   comprometer o arsenal é registrado: *a [[04 - Essência Primordial|essência primordial]] dele sofreu um golpe severo, o
    mar primordial dentro da abertura flutuou rapidamente enquanto o nível do mar dourado caía
    abruptamente*. Antes disso, ele já gastara **vinte por cento** da reserva só para devolver
    as serpentes ao tamanho e à potência de pico.
@@ -95,7 +95,7 @@ mais cara que a derrota.
 > **oportunidade**: o favorito havia acabado de concentrar todo o arsenal num alvo só. Sem essa
 > concentração, a última gota de essência não teria alcançado três Gu de uma vez.
 >
-> A obra também **não informa** o preço em pedras primordiais de nenhum dos Gu destruídos, nem
+> A obra também **não informa** o preço em [[02 - Pedras Primordiais|pedras primordiais]] de nenhum dos Gu destruídos, nem
 > quanta essência restava à perdedora antes do golpe final. `—`
 
 > [!note] Para o design

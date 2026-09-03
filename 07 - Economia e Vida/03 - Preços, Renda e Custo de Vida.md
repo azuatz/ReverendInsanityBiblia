@@ -171,7 +171,7 @@ de rank 1 — ou seja, atravessar um portão custa mais que uma arma.
 
 A tabela geral do mundo mortal, em preço de varejo:
 
-| Rank do Gu | Faixa de preço |
+| Rank do Gu | Faixa de preço (em pedras primordiais) |
 |---|---|
 | 1 | ~500 pedras |
 | 2 | 500 a 1.000 |
@@ -184,7 +184,7 @@ E agora a tabela que vale mais que a de cima, porque mostra a escada **dentro de
 mesma linha de produto** — o mesmo efeito, quatro ranks seguidos, todos anunciados no
 mesmo balcão:
 
-| Gu de força bruta | Rank | Efeito | Preço |
+| Gu de força bruta | Rank | Efeito | Preço (em pedras primordiais) |
 |---|---|---|---|
 | Força de um *jin* | 1 | +1 unidade de força | 220 |
 | Força de dez *jin* | 2 | +10 unidades | 690 |
@@ -197,7 +197,7 @@ mais limpa da regra de que **é o custo de produção, e não o rank, que precif
 
 Alguns preços avulsos, úteis como âncoras porque a obra os nomeia em cena:
 
-| Gu | Rank | Preço |
+| Gu | Rank | Preço (em pedras primordiais) |
 |---|---|---|
 | Sapo de pele de lama | 2 | 500 |
 | Javali negro / javali branco (raro: aumenta a força de forma permanente) | 1 | 600 no mercado — e 2.000 numa venda negociada |
@@ -213,13 +213,22 @@ Alguns preços avulsos, úteis como âncoras porque a obra os nomeia em cena:
 | Sopro de geada, em leilão | 3 | 38.000 |
 | Autossuficiência (raro) | 3 | 45.000 |
 | Exército de árvores-relva ("absoluto") | 4 | 250.000 — preço de um rank 5 comum |
-| Força amarga, em leilão de ego | 4 | 810.000 |
+| Força amarga, arrematado numa disputa de orgulho em leilão | 4 | 810.000 — ver o aviso abaixo |
 | Erudito (topo de qualidade) | 5 | 600.000 |
+
+> [!warning] As oitocentas e dez mil pedras não são um preço de mercado
+> Aquela linha está muito acima da faixa de um Gu de rank 4 (dez mil a cem mil), e o
+> motivo não é raridade: é que o item foi arrematado no meio de uma **guerra de lances
+> movida por orgulho**. Dois rivais se alternaram cobrindo um ao outro até que um deles
+> pagou mais de oito vezes o teto normal do rank por um Gu que nem sabia usar. É o preço
+> de uma humilhação pública, não o preço de uma mercadoria — a tática está descrita em
+> [[06 - Mercados e Leilões#Leilões|Mercados e Leilões]]. Ao calibrar uma planilha, use a
+> faixa do rank e trate os 810.000 como o teto absoluto de uma cena de leilão hostil.
 
 E a família dos **Gu de relíquia** — consumíveis que sobem um estágio dentro do rank —,
 que é a linha de aceleração de cultivo mais cara do mundo mortal:
 
-| Cor | Rank correspondente | Preço |
+| Cor | Rank correspondente | Preço (em pedras primordiais) |
 |---|---|---|
 | Cobre verde | 1 | 2.000 |
 | Aço vermelho | 2 | 8.000 |
@@ -232,7 +241,7 @@ ocasiões, nem dinheiro os compra".
 
 ### Serviços
 
-| Serviço | Preço |
+| Serviço | Preço (em pedras primordiais) |
 |---|---|
 | **Refinar** um Gu de rank 1 comum, em pedras queimadas no processo | ~7 pedras para quem tem talento medíocre — e pelo menos uma dúzia a mais para um Gu de vontade forte |
 | **Fundir** Gu de rank baixo: a operação inteira, incluindo as tentativas fracassadas | mais de 400 pedras num caso documentado — a fusão consome pedras **falhando ou acertando** |
@@ -249,7 +258,7 @@ ocasiões, nem dinheiro os compra".
 Informação é a mercadoria mais barata de produzir e a mais cara de precificar, porque
 **não se gasta ao ser vendida**. Os preços que a obra dá vão de trocados a fortunas:
 
-| O que se vende | Preço |
+| O que se vende | Preço (em pedras primordiais) |
 |---|---|
 | Boletim com a previsão de um analista sobre um torneio | 10 |
 | Gu de imagem-sombra (o suporte físico de uma gravação) | a partir de 50 |
@@ -264,7 +273,7 @@ consequência.
 
 ### Materiais e insumos
 
-| Material | Preço |
+| Material | Preço (em pedras primordiais) |
 |---|---|
 | Pétala de orquídea-da-lua | 1 pedra por dez pétalas |
 | Erva da intimidade | 2 por meio quilo |
@@ -282,7 +291,7 @@ onde fica o teto disso, e [[05 - Materiais e Cadeia Produtiva|Materiais e Cadeia
 
 ### Multas, indenizações e o preço de uma pessoa
 
-| Situação | Valor |
+| Situação | Valor (em pedras primordiais) |
 |---|---|
 | Usar um Gu proibido dentro da academia, primeira ofensa | 30 |
 | Ferir um cidadão comum sob jurisdição de um clã | 49 |
@@ -311,7 +320,7 @@ tem volume**. Uma pedra primordial tem o tamanho de um ovo de pato, e dez mil de
 carga para vários carregadores. Por isso a capacidade do Gu de armazenamento é, na
 prática, o limite de quanto um personagem consegue movimentar:
 
-| Recipiente | Capacidade |
+| Recipiente | Capacidade (em pedras primordiais) |
 |---|---|
 | Gu de armazenamento comum, rank 3 | 30.000 pedras |
 | Gu de armazenamento especializado em dinheiro, rank 3 | **1.000.000 de pedras** — e custa 6.600 em leilão |
@@ -329,7 +338,7 @@ cenário de fantasia.
 Esta é a tabela de onde sai a recompensa de uma sessão. As colunas da direita são o que a
 torna utilizável: **quem** consegue aquilo e **quanto tempo** custa.
 
-| Fonte de renda | Faixa típica | Rank típico | Tempo |
+| Fonte de renda | Faixa típica (em pedras primordiais) | Rank típico de quem executa | Tempo gasto |
 |---|---|---|---|
 | Subsídio de estudante de academia | 3 por semana | pré-rank 1 | passivo |
 | Prêmio por refinar o primeiro Gu da turma | 20 | pré-rank 1 | por conquista |
@@ -369,9 +378,9 @@ nunca declara o rank de quem os ganhou. As atribuições são leitura deste vaul
 Esta é a metade que a maioria das campanhas esquece, e é a que decide se um personagem
 sai da roda-viva. As quatro fontes documentadas:
 
-| Ativo | O que rende |
+| Ativo | O que rende (em pedras primordiais) |
 |---|---|
-| **Nascente espiritual pequena** | **mais de cem milhões de pedras** ao longo dos cinquenta a sessenta anos de vida útil — em torno de um milhão e meio por ano `(ded.)` para a divisão. As médias passam de um século; as grandes duram séculos. |
+| **Nascente espiritual pequena** | **mais de cem milhões de pedras** ao longo dos cinquenta a sessenta anos de vida útil — o que dá algo entre **um milhão e setecentas mil e dois milhões de pedras por ano** `(ded.)`, que é só a divisão de um número da obra pelo outro. As médias passam de um século; as grandes duram séculos. |
 | **Nascente portátil** (um Gu de rank 3 que condensa uma nascente inteira) | **50 pedras por dia**, para sempre, sem consumir nada |
 | **Taverna de vila, mais três prédios de aluguel, terra e oito servos** | o pacote inteiro se paga com **dois ou três anos** de operação |
 | **Uma planta de cura excepcional, colhida diariamente** | ~400 pedras de lucro líquido por dia, com custo de produção quase nulo |
@@ -408,7 +417,7 @@ produto ao longo de uma crise**, preço a preço. O produto é a folha de vitali
 consumível de cura de rank 1, e a crise é uma maré de bestas anunciada com um ano de
 antecedência:
 
-| Momento | Preço por folha |
+| Momento | Preço por folha (em pedras primordiais) |
 |---|---|
 | Antes de qualquer notícia | 50 |
 | Preço oficial do clã, tabelado | 55 |
@@ -434,7 +443,7 @@ antes comprou a cinquenta o que os outros comprariam a cem.
 Aqui está o que a obra dá, e é menos do que se gostaria — mas é mais do que a maioria dos
 resumos admite.
 
-| Patamar | Custo declarado | Origem |
+| Patamar | Custo declarado (em pedras primordiais) | Origem |
 |---|---|---|
 | Família mortal de três pessoas | 1 pedra por mês | canônico |
 | Mestre Gu de rank 1 a 2 | 3 a 5 pedras por dia — cerca de **1.500 por ano** | canônico, com a anualização `(ded.)` |

@@ -116,10 +116,6 @@ Este é o caminho com mais mecânica de bastidor de todo o mundo, e a razão é 
 uma **segunda barra de progressão** que corre por fora do nível de cultivo. Entender essa barra
 é entender o caminho, e ela guarda uma parede que quase ninguém vê chegar.
 
-> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
-> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
-> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
-
 ### 1. A parede das cem almas — e por que ela existe
 
 `conhecimento: especializado`
@@ -332,7 +328,6 @@ nível podem estar em ligas completamente diferentes aqui.
 | **Vestimenta espectral** | imortal | Uma vez ativada, dura **para sempre** sem gastar essência: alimenta-se e cresce a partir da fundação de alma continuamente. Sua força **sobe e desce junto com a fundação atual** do usuário, e só é interrompida se atacada diretamente |
 | **Golpe de expansão de sorte** | imortal | Amplia enormemente a sorte do usuário ao custo de consumo **permanente** de fundação de alma. Não pode ser reusado pela mesma pessoa para efeito cumulativo — um praticante o usou uma vez e zerou quase toda a sua fundação |
 | **Vasculhar alma** | mortal e imortal | Extrai memórias e fatos. Leituras repetidas **aprofundam o resultado e danificam a alma lida**; combinada com cura entre sessões, produz interrogatório efetivamente infinito. O interrogador acumula uma fadiga própria que os métodos comuns de cura **não** resolvem |
-
 
 ## Em combate e fora dele
 

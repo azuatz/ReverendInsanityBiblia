@@ -49,7 +49,7 @@ unidades** por lote do produto final. Também está registrado o gargalo: **sess
 das salas estavam vazias** por falta de mão de obra, e o operador calculava que, com
 trabalhadores suficientes, a produção **dobraria**.
 
-**A ampliação de escala:** um Gu Imortal acionado no centro da instalação satura o ambiente
+**A ampliação de escala:** um [[16 - Gu Imortais|Gu Imortal]] acionado no centro da instalação satura o ambiente
 com o insumo básico da receita, alimentando a linha inteira de forma contínua.
 
 ## O limite: nem toda receita pode ser dividida

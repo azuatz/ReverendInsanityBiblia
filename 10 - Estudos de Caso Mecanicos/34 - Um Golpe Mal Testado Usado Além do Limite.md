@@ -33,6 +33,21 @@ inclusive um Gu de amplificação de rank 5. Os efeitos, medidos no texto:
 - e, enquanto o usuário estiver **tocando o chão**, a força **continua crescendo sem
   limite**.
 
+O ==jun== é a unidade em que este mundo mede a força de um cultivador — não o peso de um
+objeto, que tem unidade própria. Um jun vale trinta *jin*, ou seja `(ded.)` cerca de **quinze
+quilos** de força. Para calibrar: quem acaba de entrar no caminho da força começa com **30
+jun**; **70 jun** é considerado "apenas passável" para um cultivador de rank 4; e a faixa do
+rank 5, o topo do mundo mortal, é de **100 jun ou mais**. Oitocentos jun é, portanto, oito
+vezes o piso do patamar mais alto que um mortal alcança. A escada completa está em
+[[02 - Tabelas de Referência Rápida#15. Força do caminho da força, em jun|Tabelas de Referência Rápida]].
+
+> [!warning] Este 800 não contradiz o 500 da tabela de referência
+> As Tabelas de Referência Rápida registram **500 jun** como pico documentado "com
+> amplificador de rank 5 acoplado". São montagens diferentes, e as duas são canônicas: os 500
+> saem de um Gu de esforço total somado ao amplificador de rank 5; os 800 saem deste golpe de
+> catorze Gu, que é outra coisa. Não escolha entre os números — eles medem configurações
+> distintas do mesmo cultivador.
+
 É um golpe excelente. O problema está na última linha.
 
 ## O que deu errado
@@ -43,8 +58,18 @@ usuário passou quase todo o tempo **voando** — e usou o golpe **além do temp
 porque ele nunca havia sido testado até o limite.
 
 **O resultado:** hemorragia interna grave e a **fundação de alma reduzida à metade** — de
-mil para quinhentas unidades da medida usada no mundo. Um dano que levaria muito tempo e
-muitos recursos para repor.
+**mil para quinhentas *man soul***. Um dano que levaria muito tempo e muitos recursos para
+repor.
+
+A ==fundação de alma== é o segundo eixo numérico de progressão deste mundo, paralelo ao rank e
+ao attainment: ela mede **o tamanho da alma** do cultivador, e a unidade é comparativa — uma
+*man soul* é a alma de uma pessoa comum, de modo que "mil man soul" quer dizer uma alma mil
+vezes maior que a de um transeunte qualquer. Alma grande sustenta mais tarefas mentais
+simultâneas, resiste a ataques que miram a alma e é pré-requisito de várias técnicas. Mil man
+soul custa cerca de **vinte anos** de cultivo dedicado do caminho da alma — o que dá a medida
+do estrago: o golpe cobrou uma década de progresso numa única ativação. A escada inteira está
+em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] e o eixo em
+[[12 - Soul Path|Soul Path]].
 
 A conclusão registrada pelo próprio operador é a lição inteira: *"os experimentos anteriores
 só arranharam a superfície. Agora que o usei ao extremo, indo além do limite teorizado, o

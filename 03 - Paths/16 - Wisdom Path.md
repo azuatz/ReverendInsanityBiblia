@@ -141,10 +141,6 @@ em tempo de vida. Isso é verdade. O que a descrição não conta é que este ca
 e que a moeda dele não é só a longevidade. Ele também cobra da mente, do corpo e da própria
 fundação de poder.
 
-> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
-> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
-> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
-
 ### 1. O estatuto especial: a chave da transferência de erudição
 
 `conhecimento: segredo`

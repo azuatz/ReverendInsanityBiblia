@@ -30,6 +30,17 @@ em ninguém.
 > canônico.** Nesta nota **não há nenhum `*`**: o Mar Oriental é uma das regiões mais bem
 > documentadas da obra no andar imortal, e nada precisou ser inventado. O que falta está
 > declarado com `—`, e há bastante.
+>
+> **O gabarito da ficha** é o mesmo das outras quatro notas regionais, na mesma ordem: quem
+> manda, o caminho de cultivo em que a casa é especialista, por que é especialista nisso,
+> porte, alinhamento, território, história, economia, relações, tensões internas, assinatura e
+> o gancho de mesa.
+>
+> **Recorte temporal:** cada ficha descreve a força **como ela está no presente do cenário** —
+> o estado de coisas com que uma campanha começa. Líderes e ranks entram porque são o status
+> quo do mundo, não porque sejam trama. Uma única estrutura desta nota **não existe** no
+> presente do cenário — a aliança unificada do Leste, no fim do documento —, e a ficha dela
+> avisa isso em voz alta.
 
 > [!warning] Duas armadilhas de nome, antes de começar
 > A obra tem **dois clãs Xia** (um no Mar Oriental, outro na Fronteira Sul) e **dois clãs
@@ -55,7 +66,7 @@ Isso muda tudo — quem possui o quê, como se viaja, como se comercia e por que
 
 ### 1. A unidade de território é a **área de mar**, e ela pertence a uma pessoa
 
-A obra dá a comparação pronta: assim como nas [[11 - Cultura das Cinco Regiões|Planícies do Norte]] as pastagens férteis são
+A obra dá a comparação pronta: assim como nas [[03 - Planícies do Norte|Planícies do Norte]] as pastagens férteis são
 divididas **entre pessoas**, no Mar Oriental as áreas de mar ricas em recursos também são
 repartidas entre indivíduos. Uma "área de mar" (*sea area*) é um recorte do oceano com nome
 próprio, e possuí-la significa possuir literalmente tudo o que está dentro: os cardumes, as
@@ -64,7 +75,7 @@ centro da área**, e a administra como quem administra uma fazenda — há probl
 o tempo todo, e existem imortais que ganham a vida sendo contratados para **restaurar áreas de
 mar** dos outros.
 
-Isso inverte a lógica do resto do mundo. Na [[11 - Cultura das Cinco Regiões|Fronteira Sul]] o território é do clã e o
+Isso inverte a lógica do resto do mundo. Na [[02 - Fronteira Sul|Fronteira Sul]] o território é do clã e o
 indivíduo é usufrutuário; aqui o indivíduo é proprietário e a organização é, no fundo, uma
 associação de proprietários. A consequência é dura: **a posse é garantida pela própria força**.
 A obra mostra um imortal cuja área de mar particular foi tomada à força por uma invasora mais
@@ -109,11 +120,11 @@ que as rivais sem gastar nada a mais.
 
 ### 4. A porta da região abre **uma vez por ano**: a maré terrestre
 
-Cada uma das cinco regiões é fechada por uma **muralha regional** — uma barreira que fere
+Cada uma das cinco regiões é fechada por uma **parede regional** — uma barreira que fere
 gravemente quem tenta atravessá-la, e que é a razão de o mundo ser cinco mundos. O Mar
 Oriental tem um fenômeno que nenhuma outra região tem: a **maré terrestre** (*earth tide*). A
 força da terra sobe do fundo das fossas oceânicas, agita o mar inteiro, levanta tsunamis
-gigantescos — e **bate na muralha regional, deixando-a fina**.
+gigantescos — e **bate na parede regional, deixando-a fina**.
 
 Todo ano, durante a maré, imortais das outras quatro regiões entram no Mar Oriental. Mas o
 trecho afinado não é uma porta aberta: está cheio de forças de maré invisíveis, "como
@@ -183,7 +194,7 @@ não tem **nenhum** rank 8. É esse empate que mantém o Leste em paz e, ao mesm
 
 ### 8. O dinheiro: dois mercados, um público e um por convite
 
-- **O mercado aberto** é a Hai Shi blessed land, descrita abaixo como força: o **segundo maior
+- **O mercado aberto** é a Terra Abençoada Hai Shi, descrita abaixo como força: o **segundo maior
   mercado do mundo inteiro**, atrás apenas do mercado imortal universal.
 - **O mercado fechado** são as **convenções privadas de troca**: encontros que os imortais do
   Leste realizam entre si para trocar recursos raros, e onde a moeda de topo é **tempo de
@@ -234,7 +245,7 @@ material de uma linhagem inteira que **não precisa saber lutar**.
 | **Por que esse caminho** | a aliança existe há **trezentos mil anos**, desde a Antiguidade Medieval, para que imortais que trocaram a vida por longevidade infinita pesquisem juntos o caminho de volta |
 | **Porte** | maior que qualquer super força do Leste — "um nível acima"; possui **três Casas de Gu Imortal**; a sede mundial da organização, com filiais nas outras quatro regiões, todas mais fracas que esta |
 | **Alinhamento** | **neutro**, e tratado como potência de fato, não como facção. Não é caminho demoníaco: negocia com clãs corretos, media disputas e é ouvida |
-| **Território** | o mar da fonte amarela inteiro, mais áreas ricas em enguias-relâmpago de mar profundo; a terra abençoada pública **Reino Imorredouro**; e o monopólio sobre a terra abençoada Yu Lu |
+| **Território** | o mar da fonte amarela inteiro, mais áreas ricas em enguias-relâmpago de mar profundo; a terra abençoada pública **Reino Imorredouro**; e o monopólio sobre a Terra Abençoada Yu Lu |
 
 **Como cresceu.** É uma instituição, não uma dinastia. Todo imortal que se torna zumbi — o
 recurso extremo de quem ficou sem [[12 - Longevidade|longevidade]] — perde algo terrível junto: sua
@@ -277,7 +288,7 @@ pássaros cantando e flores perfumadas, e só no centro aparece uma **cordilheir
 ossos** com dezenas de palácios.
 
 **Assinatura.** Uma formação de Gu, na sede, capaz de **fabricar uma maré terrestre
-artificial** — afinando de propósito um trecho da muralha regional por um curto período. É
+artificial** — afinando de propósito um trecho da parede regional por um curto período. É
 capacidade que a obra não atribui a mais ninguém no mundo, e ela existe por um motivo
 prático: atravessar a muralha custa vidas. Numa saída sem esse recurso, três rank 8 saíram
 gravemente feridos e quatro rank 7 morreram no caminho.
@@ -292,7 +303,7 @@ rank 8, e a estrutura formal de decisão.
 
 ---
 
-### Hai Shi blessed land — o mercado e a maior força de solitários
+### A Terra Abençoada Hai Shi — o mercado e a maior força de solitários
 
 *Hai Shi blessed land* · terra abençoada pública / associação de cultivadores solitários ·
 localização não especificada
@@ -307,7 +318,7 @@ localização não especificada
 | **Território** | uma terra abençoada pública, e o **maior mercado do Mar Oriental** |
 
 **Como cresceu.** A obra a coloca numa lista curta e muito citável: entre os **cinco grandes
-mercados do mundo**, o mercado imortal universal é o primeiro e **a Hai Shi blessed land é o
+mercados do mundo**, o mercado imortal universal é o primeiro e **a Terra Abençoada Hai Shi é o
 segundo**. Ela cresceu por uma decisão de política, não de força: ao contrário da grande base
 de solitários do Norte, que é campo demoníaco declarado e vive em pé de guerra com o caminho
 correto, a Hai Shi **mistura os dois lados**. Por causa disso — e a obra diz "precisamente por
@@ -545,7 +556,7 @@ história.
 | **Território** | `—`; mas é uma das forças mais próximas da sede da Aliança dos Zumbis |
 
 **Como cresceu.** Vendendo o que ninguém mais alcança. Os **céus imemoriais** são camadas
-acima do mundo, separadas dele por uma barreira de vento celestial que só um imortal forte
+acima do mundo, separadas dele por uma parede de vento celestial que só um imortal forte
 consegue furar (ver [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]]). Sete dos nove foram destruídos numa
 catástrofe antiga; sobraram dois. O clã Hua é a casa que sabe subir e voltar, e é isso que a
 sustenta.
@@ -862,7 +873,7 @@ imortal dispara**. Um acidente local mexe no mercado mundial — e quem sabia di
 lucrou.
 
 E há a lição de etiqueta, dada como conselho a um forasteiro que queria se aproximar deles:
-**não procure os três clãs diretamente**. Vá antes à Hai Shi blessed land, pegue lá a **missão
+**não procure os três clãs diretamente**. Vá antes à Terra Abençoada Hai Shi, pegue lá a **missão
 pública de salvar o mar das bolhas de ar**, e use isso como carta de apresentação. Chega-se às
 forças do Leste **por dentro do mercado**, não pela porta da frente.
 
@@ -931,7 +942,7 @@ as pessoas sem sobrenome **são** metade do mapa político.
 ## Lugares que não são forças, mas mandam mais que muita força
 
 No Mar Oriental, quatro pedaços de geografia têm mais peso político que a maioria dos clãs.
-São eles que explicam por que alguém atravessaria a muralha regional para vir até aqui.
+São eles que explicam por que alguém atravessaria a parede regional para vir até aqui.
 
 ### A Planície da Ascensão ao Céu
 
@@ -943,7 +954,7 @@ mundo.
 incontável. Por causa dessas marcas, a Planície **se conecta aos nove céus imemoriais** — e
 esta é a frase que a torna única no mundo: **"mesmo um mortal pode entrar nos céus imemoriais
 passando pela Planície da Ascensão ao Céu"**. Em qualquer outro lugar é preciso furar uma
-barreira de vento celestial que só imortais fortes atravessam.
+parede de vento celestial que só imortais fortes atravessam.
 
 O problema é que a Planície **foi danificada** quando os filhos de Ren Zu destruíram parte dos
 céus. As marcas de espaço viraram uma teia emaranhada que **muda a cada instante**; o terreno
@@ -1094,7 +1105,7 @@ gente muito mais poderosa: por ali passa **uma coleção das correntes do mundo*
 um **afluente do Rio do Tempo** — o que faz dela, embora não seja terra abençoada nem gruta-céu,
 "um lugar raro para guardar tesouro nas cinco regiões".
 
-### A terra abençoada Yu Lu — a masmorra privada da Aliança dos Zumbis
+### A Terra Abençoada Yu Lu — a masmorra privada da Aliança dos Zumbis
 
 *Yu Lu blessed land* — pertenceu à **Fada Yu Lu**, **segunda discípula** de Paradise Earth, que
 cultivava caminho da terra e da água e era especialista em **defesa e cura**. Está **no fundo do
@@ -1173,10 +1184,13 @@ E as duas doenças, igualmente úteis para uma mesa:
 
 ## Tabela-resumo
 
-| Força | Manda quem | Caminho de casa | Alinhamento | O que a torna única |
+A última coluna é a que a nota-porta manda ler: **pare na primeira linha que provocar uma
+pergunta**, e essa é a força antagonista (ou patrona) da sua campanha.
+
+| Força | Manda quem | Caminho de casa | Alinhamento | Por que importa numa mesa |
 |---|---|---|---|---|
 | **Aliança dos Zumbis (sede)** | altos escalões zumbis, vários rank 8; sem nome | a condição de zumbi imortal | neutro | um nível acima das super forças; funde pedaços de abertura doados no **Reino Imorredouro**; fabrica **maré terrestre artificial** |
-| **Hai Shi blessed land** | conselho de anciãos (metade dos votos admite) | nenhum | misto por desenho | **segundo maior mercado do mundo**; quadro de missões público; correto e demoníaco no mesmo salão |
+| **Terra Abençoada Hai Shi** | conselho de anciãos (metade dos votos admite) | nenhum | misto por desenho | **segundo maior mercado do mundo**; quadro de missões público; correto e demoníaco no mesmo salão |
 | **Clã Song** | Song Qi Yuan, **rank 8** | luz e água (+ sabedoria, + refino) | correto | **18 imortais**, o maior contingente da obra; venceu 100 anos de disputa pela herança de um dos três maiores refinadores da história; um dedutor **fundido ao terreno** |
 | **Clã Shen** | Shen Cong Sheng, **rank 8** | **som** | correto | sede numa **árvore viva que acalma o mar**; o **chá dos seis sons**; captura rank 8 **vivo** |
 | **Clã Tang** | primeiro ancião supremo, sem nome | `—` (há som na casa) | correto | comparado às **dez grandes seitas ancestrais** do Continente Central — e é o mais desconhecido |
@@ -1206,7 +1220,7 @@ foram conferidas no texto-fonte.
    Qing Yue tem líder e herdeiro nomeados mas **nenhuma especialidade**.
 4. **O clã Tang nunca tem o primeiro ancião supremo nomeado**, apesar de ser a força mais bem
    cotada da região.
-5. **A Hai Shi blessed land não tem líder nomeado** — só "os anciãos", e a regra de metade dos
+5. **A Terra Abençoada Hai Shi não tem líder nomeado** — só "os anciãos", e a regra de metade dos
    votos.
 6. **Não há número total de imortais da região**, nem contagem exata de rank 8 — só a afirmação
    de que é a região com mais rank 8 do mundo, e oito deles nomeados.

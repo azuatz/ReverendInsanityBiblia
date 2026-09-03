@@ -21,9 +21,18 @@ conhecimento: comum
 > - **`—`** — a obra não informa, e nada foi preenchido.
 >
 > **Apagar tudo o que estiver marcado com `*` devolve este documento a cem por cento
-> canônico.** As fichas descrevem cada força **como ela está no presente do cenário** —
-> o estado de coisas com que uma campanha começa. O que a história da webnovel faz com
-> essas casas depois fica de fora.
+> canônico.**
+>
+> **O gabarito da ficha** é o mesmo das outras quatro notas regionais, na mesma ordem: quem
+> manda, o caminho de cultivo em que a casa é especialista, por que é especialista nisso,
+> porte, alinhamento, território, história, economia, relações, tensões internas, assinatura e
+> o gancho de mesa. Onde um campo aparece como `—`, a obra não informa — e isso é espaço livre
+> declarado.
+>
+> **Recorte temporal:** as fichas descrevem cada força **como ela está no presente do
+> cenário** — o estado de coisas com que uma campanha começa. Líderes e ranks entram porque
+> são o status quo do mundo, não porque sejam trama. O que a história do romance faz com essas
+> casas depois fica de fora.
 
 > [!warning] Um mito a desfazer antes de começar
 > É comum imaginar o deserto de uma obra oriental como a região dos templos, dos monges e
@@ -32,7 +41,7 @@ conhecimento: comum
 > região religiosa nenhuma. O único "Templo" que é organização na obra é uma seita do
 > Continente Central, do outro lado do mundo.
 >
-> O que o Deserto Ocidental tem é o mesmo tijolo da [[02 - Clãs|Fronteira Sul]]: o **clã**.
+> O que o Deserto Ocidental tem é o mesmo tijolo da [[02 - Fronteira Sul|Fronteira Sul]]: o **[[02 - Clãs|clã]]**.
 > Sobrenome é cidadania, e quem manda é quem nasceu na linhagem certa. A diferença entre as
 > duas regiões não está na forma da instituição — está no **terreno**, e é o terreno que
 > muda tudo, como você verá a seguir.
@@ -811,9 +820,11 @@ coletivo** a baixar a cabeça e virar escrava.
 
 *Western Desert Zombie Alliance* · filial regional de uma organização das cinco regiões
 
-A Aliança dos Zumbis é uma cooperativa de pesquisa de zumbis imortais com sede no Mar do Leste
-e filiais nas cinco regiões — o vault a trata em
-[[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]]. O que é próprio do oeste:
+A Aliança dos Zumbis é uma cooperativa de pesquisa de zumbis imortais, **formalmente neutra**,
+com sede no Mar Oriental e **uma filial em cada uma das outras quatro regiões** — o vault a
+trata em [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]], e a filial mais bem
+documentada é a do norte, na ficha de
+[[03 - Planícies do Norte|Planícies do Norte]]. O que é próprio do oeste:
 
 - **Território:** o **deserto do fantasma feroz**, maior produtor de **madeira fosforescente**,
   material imortal de rank 6, acumulada pela filial "por incontáveis anos".
@@ -959,7 +970,10 @@ E dois casos de cultivador solitário que valem como modelo de carreira:
 
 ## Tabela-resumo
 
-| Força | O que domina | Liderança | Alinhamento | Ativo de assinatura |
+A última coluna é a que a nota-porta manda ler: **pare na primeira linha que provocar uma
+pergunta**, e essa é a força antagonista (ou patrona) da sua campanha.
+
+| Força | O que domina | Liderança | Alinhamento | Por que importa numa mesa |
 |---|---|---|---|---|
 | **Clã Fang** | Projeto e construção de Casas de Gu | Fang Gong, **rank 8** | Correto | Três Casas de Gu rank 7 e o labirinto de flor de pessegueiro; o Covil dos Ladrões, quebrado |
 | **Clã Xiao** | Logística e comércio; das mais ricas | Rank 8 | Correto (com comércio de almas) | O Corredor de Seda dos Dez Mil Li; o token mais valioso da região |
@@ -978,7 +992,7 @@ E dois casos de cultivador solitário que valem como modelo de carreira:
 | **Clã Huang** | Senhorio de oásis (escalão superior) | Casa mortal | `—` | Séculos no oásis Sha Jing |
 | **Clã Lan** | Criação de gaivotas-de-areia | Líder de clã idoso, sem imortal | **Neutro por doutrina** | A técnica secreta de fertilidade das montarias da região |
 | **Cidade Sagrada da Pena** | Um povo alado inteiro | Rei por torneio + três anciãos supremos | Neutro, isolado | Ela mesma é uma Casa de Gu Imortal; o golpe desejo celeste |
-| **Filial da Aliança dos Zumbis** | Madeira fosforescente | `—` | Demoníaco `(ded.)` | A Cidade Cadáver móvel, escondida sob o deserto |
+| **Filial da Aliança dos Zumbis** | Madeira fosforescente | `—` | **Neutro** — a Aliança é aberta a corretos e demoníacos, e suprimida por ambos | A Cidade Cadáver móvel, escondida sob o deserto |
 | **Deserto do fantasma verde** | *Sem dono* | — | — | A maior concentração de feras da alma do mundo |
 | **Herança do clã Qing** | *Sem dono* | — | — | O patrimônio de uma super força inteira, com condição de vendeta |
 | **Palácio do Feijão Divino** | *Sem dono* | — | — | Casa de Gu Imortal de rank 8 feita por um Venerável |

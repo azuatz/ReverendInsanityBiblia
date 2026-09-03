@@ -114,11 +114,6 @@ acumula** — no corpo de quem toma, no corpo de quem lança, no chão em que a 
 aconteceu — e a soma dessas acumulações produz cinco fenômenos que a descrição básica não
 deixa adivinhar.
 
-> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que
-> a obra afirma; `(ded.)` é dedução segura a partir do que ela afirma; `*` é indução nossa
-> sem base textual; `—` é lacuna declarada da fonte. Apagar tudo marcado com `*` devolve o
-> documento a cem por cento canônico.
-
 ### 1. O território do envenenador vira veneno
 
 `conhecimento: especializado`
@@ -326,7 +321,6 @@ caminho do veneno que a obra descreve com mecanismo, não só com nome:
 | **Golpe de gás sem aura** | mortal | Gás **incolor, inodoro e sem aura nenhuma** no acionamento — invisível para métodos de detecção. Derruba inconscientes Mestres Gu de nível 3 para baixo. Fraco e excelente ao mesmo tempo, pela furtividade |
 | **Revoada de gansos venenosos** | imortal | Lança fluido venenoso que, no ar, **se transforma em gansos** que voam em formação; a variação faz o veneno vazar por onde o grasnado alcança. Método pessoal de um imortal específico — um bom lembrete de que golpes são autorais, e que ver o seu golpe na mão de outra pessoa é um evento |
 | **Golpe de cura de praga** | imortal | Feito sob medida contra **uma doença específica**, depois de estudá-la; elimina a praga de dentro do corpo do doente. O caminho cura pesquisando, não improvisando |
-
 
 ## Em combate e fora dele
 

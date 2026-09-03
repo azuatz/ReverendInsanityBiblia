@@ -33,7 +33,7 @@ externa da compra do próprio Gu de limpeza. O Gu apaga a evidência no corpo; e
 o registro comercial de que alguém o comprou, quando e por quê.
 
 **O retorno:** a posse do segredo transformou o chantageado em aliado forçado, e rendeu
-empréstimos concretos — na ordem de **três mil pedras primordiais mais Gu emprestados** —
+empréstimos concretos — na ordem de **três mil [[02 - Pedras Primordiais|pedras primordiais]] mais Gu emprestados** —
 de alguém muito mais poderoso que o chantagista.
 
 **A regra por trás:** em qualquer encobrimento, existe um **rastro periférico** — quem

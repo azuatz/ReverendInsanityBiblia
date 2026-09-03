@@ -37,8 +37,8 @@ diferentes.
 > | | |
 > |---|---|
 > | **Tipo** | perseguição, emboscada e evasão — jogável dos dois lados |
-> | **Onde** | em qualquer lugar; os melhores locais de emboscada são as **barreiras regionais** entre as cinco regiões |
-> | **Quando** | desencadeado por gatilho; a emboscada de barreira tem uma **janela anual** |
+> | **Onde** | em qualquer lugar; os melhores locais de emboscada são as **paredes regionais** entre as cinco regiões |
+> | **Quando** | desencadeado por gatilho; a emboscada de parede regional tem uma **janela anual** |
 > | **Duração** | de uma noite a **décadas** — uma caçada continental é uma campanha, não uma cena |
 > | **Escala de poder** | rank 3 a 7 |
 > | **Quem participa** | forças-tarefa montadas por função, não por poder bruto |
@@ -81,9 +81,9 @@ Este é o núcleo técnico da nota. São cinco métodos, e cada um tem o seu con
    que ninguém consiga aprender a burlar todos. Testar sangue, alma e corpo de um membro
    suspeito é procedimento normal, e não ofensa.
 
-## O que atrapalha: as barreiras regionais
+## O que atrapalha: as paredes regionais
 
-As cinco regiões são separadas por **barreiras regionais** — muralhas colossais de qi, cada uma
+As cinco regiões são separadas por **paredes regionais** — muralhas colossais de qi, cada uma
 com caráter próprio: a das [[03 - Planícies do Norte|Planícies do Norte]] é uma névoa verde onde
 a grama cresce e se retorce sem parar, "como um mar de cobras ou de cabelos"; a da
 [[02 - Fronteira Sul|Fronteira Sul]] é de miasma; a do Mar Oriental é de água azul. Atravessar
@@ -91,35 +91,41 @@ uma leva **de dias a dezenas de dias**.
 
 Elas são o grande fator geográfico de qualquer perseguição, por sete motivos:
 
-1. **Um Gu Imortal dentro de uma barreira exibe apenas cerca de cinquenta a sessenta por cento
+1. **Um Gu Imortal dentro de uma parede exibe apenas cerca de cinquenta a sessenta por cento
    da sua força.**
 2. **Usar um golpe imortal lá dentro faz a própria abertura tremer e fere o usuário antes de
    ferir o inimigo.** Golpes viram último recurso, o que nivela violentamente os combatentes.
-3. Dentro da barreira de miasma especificamente, **todos os golpes imortais são enfraquecidos**
+3. Dentro da parede de miasma especificamente, **todos os golpes imortais são enfraquecidos**
    pelo miasma, por cima da regra anterior.
 4. **Não há diferença entre caminhos para atravessar** — mas há para lutar lá dentro:
    [[06 - Transformation Path|caminho da transformação]] leva vantagem, porque pode virar algo
-   que a barreira não restringe.
-5. **Só criaturas nativas dos céus imemoriais se movem livremente** nas cinco barreiras. Uma
-   fera dessas dentro de uma barreira tem vantagem esmagadora sobre qualquer Gu Imortal.
+   que a parede não restringe.
+5. **Só criaturas nativas dos céus imemoriais se movem livremente** nas cinco paredes. Uma
+   fera dessas dentro de uma parede tem vantagem esmagadora sobre qualquer Gu Imortal.
 6. **Atravessar muda a aura da pessoa** para a da região de destino, sozinho, sem nenhum golpe:
    é **disfarce automático e gratuito**.
-7. **Barreiras obstruem a dedução.** Atravessar uma fronteira regional é a defesa básica contra
+7. **As paredes obstruem a dedução.** Atravessar uma fronteira regional é a defesa básica contra
    ser deduzido; a obra diz que a dedução fica "muito difícil". E estar do outro lado de **duas**
-   barreiras torna o risco de ser localizado **extremamente baixo**.
+   paredes torna o risco de ser localizado **extremamente baixo**.
 
-> [!warning] A barreira é o melhor lugar do mundo para uma emboscada
+> [!warning] A trava canônica deste cenário — e o melhor lugar do mundo para uma emboscada
+> Esta é a **trava 14** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *a fronteira que pune os
+> grandes*, e é a única da lista que trabalha **a favor de quem foge**.
+>
 > Junte tudo: o alvo está a cinquenta ou sessenta por cento da força, é punido se usar golpes,
 > está isolado, está longe de qualquer socorro, e **é obrigado a passar por ali**. Não existe
 > terreno melhor neste cenário, e a obra dedica um capítulo inteiro exatamente a isso.
 >
-> E a inversão: **quanto mais forte o viajante, mais difícil a travessia**. Perseguidores
-> poderosos simplesmente não seguem alguém através do mundo — a fronteira os cobra mais caro do
-> que cobra do fugitivo. Ver os tempos exatos por rank em
+> E a inversão, que é o que torna o formato jogável em nível médio: **quanto mais forte o
+> viajante, mais difícil a travessia**. Perseguidores poderosos simplesmente não seguem alguém
+> através do mundo — a fronteira os cobra mais caro do que cobra do fugitivo, e um rank 8 sai
+> gravemente ferido de uma travessia que um rank 4 faz em cinco minutos. Um grupo de rank médio
+> é, literalmente, **mais móvel** do que os monstros que o caçam. Ver os tempos exatos por rank em
 > [[02 - Tabelas de Referência Rápida#13.7 Travessia de barreira regional, por rank|Tabelas de Referência Rápida]].
 
 **A janela anual.** Há um fenômeno que muda esse cálculo uma vez por ano: uma **maré da terra**
-sobe do fundo do mar no Mar Oriental, agita a água e **enfraquece e afina a barreira** daquela
+sobe do fundo do mar no Mar Oriental, agita a água e **enfraquece e afina a parede** daquela
 região. É a janela em que imortais de três outras regiões entram no Mar Oriental — e alguns
 saem. Mesmo enfraquecida, a passagem é letal: a área fica cheia de **forças de maré sem forma**,
 recifes e vórtices invisíveis, e ser atingido por uma pode matar na hora.
@@ -218,7 +224,7 @@ associa procurados a duas pessoas de aparência comum trabalhando como carregado
 ## Como é por dentro
 
 Uma caçada, do lado de quem foge, é uma sequência de decisões logísticas tomadas com informação
-ruim: qual barreira cruzar, quem no grupo sabe operar a formação de fuga, qual identidade
+ruim: qual parede cruzar, quem no grupo sabe operar a formação de fuga, qual identidade
 queimar agora e qual guardar, o que vender e para quem. O combate é o fracasso do plano, não o
 plano.
 
@@ -232,6 +238,28 @@ livre para o inimigo entrar**. "Se eu fosse vocês, teria deixado um companheiro
 assim os de dentro e os de fora se apoiariam." ==Emboscar alguém e saquear a casa dele são, na
 prática, o mesmo movimento.== Toda caçada é também um assalto a uma casa vazia em algum outro
 lugar do mapa.
+
+## O relógio do evento
+
+Uma caçada não tem calendário: tem **fases**, e elas se repetem igual numa perseguição de aldeia
+e numa operação continental. O que muda entre as escalas é a duração de cada linha, não a ordem.
+`(ded.)` A sequência abaixo é a síntese dos casos concretos que a obra encena.
+
+| Fase | O que acontece | A decisão que a mesa toma |
+|---|---|---|
+| **1. O gatilho** | Alguém emite um mandado, uma coalizão se reúne, ou uma potência declara que certas pessoas não podem mais ser deixadas vivas | De que lado entrar — e por quanto |
+| **2. A montagem** | A força-tarefa é composta **por função**, não por poder; um observador externo é destacado; um infiltrado de outra potência entra sem convite | Quem no grupo faz o quê; e, do lado caçado, o que já dá para descobrir sobre a composição |
+| **3. A localização** | Dedução, tabuleta de vida, prisioneiro interrogado por anos, verificação de identidade. O alvo ainda não sabe que foi achado | Queimar uma identidade agora ou guardá-la; comprar o silêncio de quem sabe |
+| **4. A corrida até a fronteira** | O caçado vai para a parede regional, que é o único lugar onde a vantagem se inverte; o caçador tenta chegar antes | Que parede cruzar, e com que mapa de rota — que é caro e **vence** |
+| **5. A emboscada** | Dentro da parede: metade da força, golpes proibidos na prática, ninguém para socorrer os dois lados | Gastar o trunfo aqui ou aguentar no corpo a corpo |
+| **6. A casa vazia** | Enquanto isso, o território de quem está fora dele fica desguarnecido e é saqueado por terceiros | Perseguir ou voltar — e essa é a escolha que decide a campanha |
+| **7. O rescaldo** | Ou o alvo é capturado vivo e vira a fonte que destrava a próxima campanha, ou some atrás de duas paredes e a caçada **migra** de região | Cobrar o que foi prometido; ou recomeçar num mapa novo |
+
+> [!note] Para o design
+> A fase 6 é a que quase toda mesa esquece de jogar, e é a mais rentável. **Emboscar alguém e
+> saquear a casa dele são, na prática, o mesmo movimento** — então rode as duas metades em
+> paralelo e deixe o grupo escolher em qual delas estar. Quem persegue ganha o alvo; quem fica
+> ganha o inventário.
 
 ## O que está em jogo
 
@@ -255,7 +283,7 @@ acontecimento grande.
 divididos entre a política dos aliados e o medo do alvo. Também podem ser o **portador da
 contramedida** — o membro sem o qual a operação falha, e que todo mundo sabe disso.
 
-**Como caçados, qualquer faixa.** A mesa inteira vira logística e escolha: que barreira cruzar,
+**Como caçados, qualquer faixa.** A mesa inteira vira logística e escolha: que parede cruzar,
 que identidade queimar, quem sabe operar a formação, o que vender. E o momento em que o grupo
 descobre a **composição** da força que vem atrás transforma a campanha: de repente há um alvo
 prioritário e um plano possível.
@@ -269,13 +297,13 @@ todos ocupados olhando para outro lugar.
 
 - **O alvo é capturado vivo** — e vira a fonte que destrava a próxima campanha, porque
   prisioneiros falam ao longo de anos.
-- **O alvo atravessa duas barreiras** e some do radar. A caçada não termina: ela **migra**, e
+- **O alvo atravessa duas paredes** e some do radar. A caçada não termina: ela **migra**, e
   cada migração exporta o conflito para uma região nova.
 - **A força-tarefa fracassa e volta maior**, com doutrina nova — dois rank 8, um deles
   disfarçado.
 - **O infiltrado é descoberto**, e a operação se dissolve em política antes de encontrar o
   alvo.
-- **A emboscada acontece na barreira** e ninguém usa golpes, porque usar dói mais em quem usa: o
+- **A emboscada acontece dentro da parede** e ninguém usa golpes, porque usar dói mais em quem usa: o
   combate vira corpo a corpo prolongado entre gente que deveria ser capaz de arrasar montanhas.
 - **O alvo se rende e entrega a abertura**, e a mesa vive o rescaldo — porque, pelas regras, ele
   agora é colega dos que o caçavam.
@@ -303,15 +331,15 @@ todos ocupados olhando para outro lugar.
   quanto tempo de treino conjunto ela exige.
 - **A duração exata da janela anual** da maré da terra, e se as outras quatro regiões têm
   fenômeno equivalente. A obra descreve apenas o do Mar Oriental.
-- **O nome e o caráter das barreiras do Continente Central e do Deserto Ocidental** não aparecem
+- **O nome e o caráter das paredes do Continente Central e do Deserto Ocidental** não aparecem
   nas passagens que descrevem as travessias; ver o glossário para os nomes registrados em outros
   trechos.
-- **A espessura e a extensão exatas** de uma barreira regional.
+- **A espessura e a extensão exatas** de uma parede regional.
 - **Como se cancela um mandado de captura**, e se existe prescrição.
 
 ## Relações
 
-- [[04 - As Cinco Regiões|As Cinco Regiões]] — a geografia das barreiras e por que elas existem.
+- [[04 - As Cinco Regiões|As Cinco Regiões]] — a geografia das paredes regionais e por que elas existem.
 - [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto tempo se leva para
   ir de um lugar a outro, que é metade de qualquer perseguição.
 - [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia

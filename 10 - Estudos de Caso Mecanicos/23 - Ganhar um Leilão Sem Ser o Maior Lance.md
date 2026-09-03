@@ -26,8 +26,15 @@ formam um pequeno manual de negociação jogável.
 
 **Como funciona:** o comprador escreve um preço num papel, assina e deposita numa fenda.
 Os lances são sigilosos; a casa não revela nem o valor vencedor nem quem venceu. Cada
-item tem um preço de referência afixado — no caso registrado, três mil pedras primordiais
-por um item que elevava instantaneamente o cultivo de um rank 2.
+item tem um preço de referência afixado — no caso registrado, três mil [[02 - Pedras Primordiais|pedras primordiais]]
+por um Gu-relíquia que eleva um cultivador de rank 2 em **um estágio** (um dos quatro degraus
+internos de um rank, não o rank inteiro; ver [[05 - Ranks e Avanço|Ranks e Avanço]]).
+
+**Atenção ao que os três mil são e ao que não são:** é o **preço de partida** afixado pela casa,
+não o preço de venda. Na mesma cena, a expectativa declarada no salão era de **cinco a oito mil**,
+e é a faixa alta dessa expectativa que as Tabelas de Referência Rápida registram como preço de
+mercado do item. Quem guardar só o número 3.000 vai subestimar em duas a três vezes o custo real
+de comprar progresso num leilão.
 
 **O método:** em vez de lançar alto para garantir, o comprador **estima a faixa exata do
 lance do concorrente** — pela motivação declarada dele, pelo apreço que ele demonstra pelo

@@ -32,8 +32,9 @@ mundo se torna, nas palavras do texto, **extremamente frágil**. A regra é tão
 até os Gu de ressurreição param de funcionar: alguém morto ali **não pode reviver enquanto o
 lugar existir**.
 
-**A exceção:** quem tiver o patrocínio do **espírito guardião** — o administrador do local —
-pode usar seus Gu normalmente ali dentro.
+**A exceção:** quem tiver o patrocínio do ==espírito guardião== — a inteligência que o próprio
+lugar formou para administrá-lo, e que decide quem entra e quem tem privilégios — pode usar seus
+Gu normalmente ali dentro. Ver [[39 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]].
 
 **O resultado prático:** um cultivador de **rank 4** com esse patrocínio matou cultivadores
 de **rank 5 no auge** "como gado". Ele não ficou mais forte; **todos os outros ficaram
@@ -46,7 +47,8 @@ padrão do derrotado, isso converte cada assassinato num espólio garantido.
 ## Ambiente B — a muralha entre regiões
 
 **A regra do lugar:** dentro das muralhas que separam as grandes regiões do mundo, um
-cultivador imortal consegue exibir apenas **cinquenta a sessenta por cento** da própria
+cultivador [[16 - Gu Imortais|imortal]] — rank 6 ou acima, o patamar em que a abertura vira um
+mundo próprio — consegue exibir apenas **cinquenta a sessenta por cento** da própria
 força. E há uma penalidade específica e brutal: ao acionar um golpe, **a abertura pessoal do
 usuário treme e ele se fere antes mesmo de atingir o inimigo**.
 
@@ -54,12 +56,16 @@ usuário treme e ele se fere antes mesmo de atingir o inimigo**.
 fera**, com o corpo físico apenas, escapa dela por completo — e tem uma fonte sustentável de
 força de combate ali dentro.
 
-**A exceção absoluta:** criaturas nativas dos céus antigos se movem lá dentro sem sentir
-resistência nenhuma. Um cultivador que veja algo circular por uma muralha regional com
-fluidez sabe imediatamente que não está diante de um habitante das cinco regiões.
+**A exceção absoluta:** criaturas nativas dos ==céus antigos== — camadas do mundo que ficam
+**fora** das cinco regiões onde toda a história acontece, e cujos habitantes não obedecem às
+regras locais (ver [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]]) — se
+movem lá dentro sem sentir resistência nenhuma. Um cultivador que veja algo circular por uma
+muralha regional com fluidez sabe imediatamente que não está diante de um habitante das cinco
+regiões.
 
 **A jogada registrada:** alguém imune à penalidade atacou dentro de uma muralha regional três
-adversários de caminho de transformação — que responderam corretamente virando feras físicas.
+adversários do [[06 - Transformation Path|caminho da transformação]] — a especialidade que
+converte o próprio corpo em outra coisa — que responderam corretamente virando feras físicas.
 Como o atacante não sofria a penalidade, eles o confundiram com uma fera selvagem e adotaram
 a postura errada (defensiva e passiva, "não irritar o bicho"), quando o correto seria fugir.
 E, numa versão maior da mesma jogada, ele forçou cinco adversários a gastarem energia

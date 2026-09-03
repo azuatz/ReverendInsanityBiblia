@@ -250,7 +250,7 @@ poder sobre a identidade de quem as carrega.
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Mudar Forma ⭐ | 6 (já foi 9) | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela |
+| Mudar Forma ⭐ | 6 | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela. Foi destruído e refeito dezenas de vezes na história e quase sempre **volta em nível 6**; já houve um exemplar de nível 9, destruído junto com o dono, e desde então o mundo recomeça do 6. Ver [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] |
 | Adaptação ⭐ | 8 | Converte marcas de qualquer caminho em marcas de transformação |
 | Mutação ⭐ | 8 | Muta partes do corpo do alvo em plantas ou animais |
 | Eterno ⭐ | — | Fixa uma transformação permanentemente |

@@ -28,8 +28,11 @@ E este caso traz o desfecho raro em que a obra mostra o atalho sendo *desfeito*.
 
 ## A situação
 
-Um cultivador de [[05 - Ranks e Avanço|rank 3]] em estágio inicial carrega, à força, um Gu
-de rank 6 muito acima do seu controle. A pressão desse Gu está rachando as paredes da
+Um cultivador de [[05 - Ranks e Avanço|rank 3]] em estágio inicial carrega, à força, um
+[[16 - Gu Imortais|Gu Imortal]] — rank 6, isto é, do outro lado da fronteira entre o mundo
+mortal e o imortal — muito acima do seu controle. Isso, por si só, já é uma anomalia: a regra
+geral é que **uma abertura mortal não guarda nenhum Gu Imortal**, e a que guarda um não guarda
+um segundo. A pressão desse Gu está rachando as paredes da
 própria abertura — se elas cederem, ele morre. Ele tem, pilhado de um rival, um Gu de rank 3
 de uso único cuja função é exatamente engrossar aquelas paredes.
 

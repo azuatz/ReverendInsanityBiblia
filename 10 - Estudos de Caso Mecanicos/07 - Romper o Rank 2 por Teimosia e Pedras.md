@@ -27,7 +27,7 @@ via, que troca potência por tempo== — e mostra, com igual clareza, onde essa 
 ## A situação
 
 Um cultivador de grau C — teto de reserva em **44%**, contra os 55% exigidos. Pela regra
-padrão, ele simplesmente não pode romper. Tem, em compensação, pedras primordiais, um
+padrão, ele simplesmente não pode romper. Tem, em compensação, [[02 - Pedras Primordiais|pedras primordiais]], um
 esconderijo e ninguém à sua procura.
 
 ## O método, passo a passo
@@ -81,15 +81,18 @@ ele entregou, somando quatro dias, muito mais que isso, em parcelas.
 > então vale reconstruí-lo.
 >
 > `*` (estimativa nossa, com a conta à vista): a reserva foi drenada de 44% a 13% e
-> recarregada continuamente por quatro dias. Um Mestre Gu iniciante gasta de três a cinco
-> pedras **por dia** só para viver; aqui a queima é de ordem muito superior, porque a
-> recarga precisa acompanhar a drenagem em tempo real por quase cem horas seguidas. A
-> estimativa deste vault é de **algumas centenas a cerca de mil pedras primordiais** para a
-> ruptura 1 → 2 por esta via.
+> recarregada continuamente por quatro dias. Um Mestre Gu iniciante queima de três a cinco
+> pedras **por dia** para se manter em operação — comida dos seus Gu, cultivo diário e vida
+> pessoal somados; aqui a queima é de ordem muito superior, porque a recarga precisa
+> acompanhar a drenagem em tempo real por quase cem horas seguidas. A estimativa deste vault
+> é de **algumas centenas a cerca de mil pedras primordiais** para a ruptura 1 → 2 por esta
+> via.
 >
-> Para dimensionar em mesa: é de duas a dez vezes o preço de um Gu de rank 1, e o
-> equivalente a meses de renda de um Mestre Gu iniciante. Ou seja, é **um objetivo de
-> arco**, não uma compra.
+> Para dimensionar em mesa: um Gu comum de rank 1 custa cerca de **500 pedras**, então a
+> ruptura custa da ordem de **uma a duas vezes** o preço de um Gu novo — e o equivalente a
+> **meses inteiros** do custo de vida de um Mestre Gu iniciante, que gira em torno de 1.500
+> pedras por ano. Ou seja, não é uma compra de rotina: é **um objetivo de arco** para quem
+> não tem patrono.
 
 > [!note] Para o design
 > Este caso resolve o problema mais difícil de qualquer sistema com "talento fixo": como

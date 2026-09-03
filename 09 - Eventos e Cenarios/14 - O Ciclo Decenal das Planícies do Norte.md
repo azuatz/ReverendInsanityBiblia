@@ -144,9 +144,14 @@ de estrelas no céu da Corte Imperial**, de modo que quem depende de
     dentro da região nova, o que é caro. Consequência prática: um exército expedicionário luta
     abaixo do próprio peso, e um mercenário estrangeiro vale menos do que parece na ficha.
 11. **Gu Imortais estão proibidos de entrar na Corte Imperial.** Esta é a trava que faz o ciclo
-    inteiro ser jogável por personagens mortais, e é dita com todas as letras. É também a razão
-    pela qual as heranças de lá sobreviveram intactas por milênios: os poderosos nunca puderam
-    entrar para saqueá-las.
+    inteiro ser jogável por personagens mortais, e é dita com todas as letras: é a **trava 7** do
+    cardápio da [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *a proibição
+    institucional*, e a proibição é física — abaixo de rank 9, nenhum Gu Imortal consegue entrar,
+    ponto. É também a razão pela qual as heranças de lá sobreviveram intactas por milênios: os
+    poderosos nunca puderam entrar para saqueá-las. Eles jogam por peões — emprestando um Gu
+    Imortal ao campeão da própria tribo, ou cultivando em segredo um mortal promissor por
+    décadas —, e é isso que faz um grupo de rank 3 a 5 no Norte ser a moeda com que os imortais
+    apostam.
 12. **A proibição tem uma brecha conhecida, e todo Gu Imortal a enxerga.** A Corte Imperial é
     uma terra abençoada **sem dono**, administrada por um [[13 - Blessed Lands e Grotto-Heavens|espírito da terra]].
     Enquanto o Venerável era vivo, o espírito obedecia a ele. Depois que ele morreu, a regra

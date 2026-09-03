@@ -129,10 +129,14 @@ num mundo próprio, e você volta dizendo mentalmente "voltar", três vezes.
 6. **Os títulos são as chaves da progressão, e é aqui que o sistema fica genial.** Não é o mérito
    que destrava as faixas de missão — é comprar o **título** certo na lista de recompensas:
 
-   - **"boa pessoa"** → destrava missões médias;
+   - **"boa pessoa"** → custa **cem pontos**, destrava missões médias;
    - **"pessoa realmente boa"** → custa **mil pontos**, destrava missões grandes;
    - **"pessoa super boa"** → custa **quinhentos pontos**, permite **compartilhar missões** com
      outros participantes.
+
+   Repare que o terceiro título é **mais barato que o segundo**: os preços não formam uma
+   escada, porque o que eles compram é diferente — os dois primeiros destravam faixas de
+   missão, o terceiro destrava cooperação. Isso é canônico, e não erro de leitura.
 
    E a consequência que a obra faz questão de explicitar: **a série é dedutível**. Quem descobre
    que existe o primeiro título deduz sozinho que existem os outros. Por isso o primeiro título é
@@ -278,8 +282,8 @@ por informação, blefe, sabotagem indireta, aliança e a ameaça do dia trezent
   bastante para se errar a compra, e alguns preços avulsos. O resto é lacuna — e é uma lacuna
   confortável, porque a designer pode preenchê-la inteira.
 - **Quantas sub-áreas existem** dentro do paraíso.
-- **O preço do primeiro título**, "boa pessoa". Sabe-se o dos outros dois.
-- **Se existem títulos acima de "pessoa super boa"**, e o que eles fariam.
+- **Se existem títulos acima de "pessoa super boa"**, e o que eles fariam. Os três preços
+  conhecidos estão acima; qualquer quarto degrau é invenção da designer.
 - **O que a missão definitiva realmente exige.** O enunciado é vago de propósito.
 - **Quantos grupos já entraram ao longo das eras**, e o que aconteceu com eles. Sabe-se apenas que
   entraram, saíram, e o obelisco segue sem dono.

@@ -6,7 +6,7 @@ tags:
 aliases:
   - Brechas de juramento vinculante
   - Poison vow explorado pela letra
-status: consolidado
+status: verificado-no-texto
 fontes: ["cap. 278", "cap. 296", "cap. 310", "cap. 311", "cap. 312", "cap. 396", "cap. 397", "cap. 814", "cap. 866", "cap. 867", "cap. 868"]
 conhecimento: especializado
 ---

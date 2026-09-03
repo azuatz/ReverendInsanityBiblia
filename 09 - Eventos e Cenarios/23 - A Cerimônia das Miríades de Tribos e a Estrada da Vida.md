@@ -38,7 +38,7 @@ lendo só esta nota.
 > | | |
 > |---|---|
 > | **Tipo** | assembleia tribal + torneio de desafios + corrida de herança |
-> | **Onde** | uma caverna-céu isolada; a cerimônia é sempre no mesmo lugar, uma extensão de terra amarela sem graça nenhuma |
+> | **Onde** | uma gruta-céu isolada; a cerimônia é sempre no mesmo lugar, uma extensão de terra amarela sem graça nenhuma |
 > | **Quando** | **uma vez a cada dez mil anos**. Existe também uma versão menor, entre mil tribos; esta é a que envolve o mundo inteiro |
 > | **Duração** | semanas — "dias se passavam e a situação das miríades de tribos mudava rapidamente todo dia" |
 > | **Escala de poder** | todas as tribos do mundo local, das que só têm cultivadores mortais às super tribos com rank 8 |
@@ -48,7 +48,7 @@ lendo só esta nota.
 
 Antes do evento, o lugar — porque metade do valor desta nota está nele.
 
-O cenário é uma ==caverna-céu== (*grotto-heaven*): o mundo particular de um cultivador de topo,
+O cenário é uma ==gruta-céu== (*grotto-heaven*): o mundo particular de um cultivador de topo,
 o grau acima de uma terra abençoada. Ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 Esta em particular foi a abertura de um Venerável antigo — um dos dez maiores cultivadores da
 história — e foi deixada dentro do corpo de uma criatura, o que impregnou o lugar inteiro de
@@ -281,7 +281,7 @@ população que já esperava a sua chegada porque isso sempre acontece quando a 
 Vale um bloco curto de comparação, porque a designer pode querer inventar o seu próprio.
 
 A obra tem outro mundo fechado, muito diferente deste, e a comparação mostra o que esses lugares
-têm em comum. Trata-se de uma caverna-céu que flutua fora do mundo comum, sem localização física
+têm em comum. Trata-se de uma gruta-céu que flutua fora do mundo comum, sem localização física
 acessível, deixada por um cultivador de rank 8 como herança, e povoada pelos descendentes de
 imortais criminosos que ele exilou. Três traços dela valem como padrão da categoria:
 
@@ -290,7 +290,7 @@ verbal, sem malícia política, com métodos de combate desatualizados — e nem
 mercado imortal no mundo lá fora. O texto trata isso como uma condenação econômica: sem acesso ao
 mercado, uma comunidade acumula quantidade mas não variedade, e o conhecimento estagna.
 
-**O sino que anuncia.** O equivalente, numa caverna-céu, do espírito da terra de uma terra
+**O sino que anuncia.** O equivalente, numa gruta-céu, do espírito da terra de uma terra
 abençoada é um **espírito celestial** — ali, um sino de bronze, sem mente própria, que executa
 fielmente as instruções deixadas pelo fundador. A herança principal é uma montanha talhada em dez
 níveis, e **a cada nível vencido o sino toca uma vez e o som se espalha pelo mundo inteiro**: todos
@@ -324,14 +324,14 @@ exilados em vez de exterminá-los.
 - **Quantos Predicamentos existem na estrada**, ou se o número é fixo.
 - **O que acontece com quem é engolido por um Predicamento e não consegue rasgar a saída** além de
   morrer lá dentro.
-- **A população total do mundo fechado**, e o que aconteceu com os moradores da caverna-céu
+- **A população total do mundo fechado**, e o que aconteceu com os moradores da gruta-céu
   comparada depois que ela mudou de dono.
 
 ## Relações
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta; a trava 11
   do cardápio de travas é exatamente o custo proporcional desta estrada.
-- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma caverna-céu
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma gruta-céu
   e por que um mundo desses pode ter uma civilização inteira dentro.
 - [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — os totens e as vias de cultivo que não
   passam pelos Gu.

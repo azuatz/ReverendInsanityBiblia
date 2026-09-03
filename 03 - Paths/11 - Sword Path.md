@@ -126,16 +126,12 @@ uma. Tudo que a seção anterior descreve é o primeiro caso: você aciona um Gu
 a lâmina corta. O que a obra guarda para os níveis altos é o segundo — e ele muda de natureza,
 não de escala.
 
-> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
-> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
-> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
-
 ### 1. A tese filosófica: "eu decido meu destino, não o céu"
 
 `conhecimento: comum`
 
-Este é o único dos cinco caminhos desta nota cuja filosofia a obra enuncia em voz alta, e ela
-explica o caminho inteiro.
+O caminho da espada é um dos pouquíssimos da pasta cuja filosofia a obra enuncia em voz alta,
+com todas as letras — e ela explica o caminho inteiro.
 
 O golpe mais famoso da escola nasceu de um momento específico: seu criador **sentiu a
 majestade do céu e da terra e a dificuldade de ascender** — isto é, percebeu o tamanho da

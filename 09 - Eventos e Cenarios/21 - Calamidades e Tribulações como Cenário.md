@@ -36,7 +36,7 @@ que dá para fazer, e por que este é um dos cenários fechados mais bem constru
 Duas definições rápidas, para quem chega agora. Todo Gu Imortal carrega dentro de si uma
 ==abertura imortal==: um mundo em miniatura com céu, chão, clima e às vezes populações inteiras
 morando lá. Quando ela é grande e fértil, chama-se ==terra abençoada== (*blessed land*); quando é
-maior ainda, ==caverna-céu== (*grotto-heaven*). Ver
+maior ainda, ==gruta-céu== (*grotto-heaven*). Ver
 [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
 [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
@@ -49,6 +49,21 @@ maior ainda, ==caverna-céu== (*grotto-heaven*). Ver
 > | **Duração** | de menos de um dia a meses de tempo interno, em ondas sucessivas |
 > | **Escala de poder** | o dono é rank 6 a 9; a equipe que ele contrata pode ser rank 3 a 7; a população interna é de qualquer rank |
 > | **Quem pode entrar** | quem o dono deixar entrar — e, uma vez lá dentro, quem não conseguir sair antes da data |
+
+> [!warning] A trava canônica deste cenário
+> É a **trava 16** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], e ela é a mais elegante da
+> pasta porque não proíbe nada: **o poderoso é o alvo, não o socorro**. A provação é calibrada
+> pelo poder de quem a sofre — quanto mais marcas do Dao alguém acumulou, maior a coisa que vem
+> atrás dele —, de modo que o dono da terra é ao mesmo tempo a pessoa mais forte do lugar e a
+> única que está inteiramente ocupada em não morrer. Todo o resto do trabalho sobra para a
+> equipe que ele contratou: tapar os buracos no céu antes que virem porta, evacuar a população,
+> tocar bestas descartáveis contra as ondas, remover solo contaminado dentro do prazo, caçar os
+> núcleos escondidos dos monstros e **decidir que região amputar**.
+>
+> A consequência para a mesa é uma inversão útil: **pôr um personagem mais forte no grupo não
+> torna o cenário mais fácil**, porque o adversário não é uma criatura com pontos de vida — é
+> uma conta que cresce junto com o patrimônio de quem a paga.
 
 ## Por que acontece
 
@@ -163,8 +178,8 @@ O céu, ao redor, racha "como espelho quebrado", e a paisagem se enche de crater
    crescem até virar **passagem para o mundo exterior** — e então qualquer estranho entra a pé.
    A calamidade não é só um desastre: é uma **brecha de segurança**.
 4. **O estoque de essência é finito e não reponível quando o dono está morto.** Um caso concreto:
-   uma terra abençoada tinha setenta e oito pérolas de essência imortal deixadas pelo criador
-   falecido; **cada teleporte** usado para reposicionar o monstro custou **uma pérola inteira**, e
+   uma terra abençoada tinha setenta e oito pedras de essência imortal deixadas pelo criador
+   falecido; **cada teleporte** usado para reposicionar o monstro custou **uma pedra inteira**, e
    treze foram queimadas antes de o método ser abandonado por caro demais.
 5. **Golpes de campo de batalha de nível imortal não podem ser usados lá dentro** — nem pelo
    defensor. Eles gravam marcas do Dao temporárias que colidem com as marcas que **formam** o
@@ -175,9 +190,10 @@ O céu, ao redor, racha "como espelho quebrado", e a paisagem se enche de crater
    terreno permanentemente degradado. E ==a calamidade seguinte ataca primeiro exatamente ali==,
    por ser o ponto fraco. O dano deste cenário é cumulativo entre sessões.
 7. **A amputação é uma opção.** O espírito da terra pode **cortar uma região inteira** do mundo e
-   selá-la, com o que estiver dentro. Custa como cortar a própria perna: uma terra abençoada
-   registrada perdeu **seiscentos e sessenta e seis quilômetros quadrados de quatro mil** e
-   **quarenta anos de desenvolvimento** numa única calamidade. E o pedaço amputado, com o monstro
+   selá-la, com o que estiver dentro. Custa como cortar a própria perna. Numa calamidade
+   registrada, uma terra abençoada de **quatro mil quilômetros quadrados** amputou **seiscentos
+   e sessenta e seis deles** — um sexto do próprio corpo — e, junto, **quarenta anos de
+   desenvolvimento**. E o pedaço amputado, com o monstro
    dentro, vira problema do mundo de fora.
 8. **Os poderes do espírito da terra variam de lugar para lugar.** Uns teleportam, outros chamam
    chuva e vento, outros manipulam o fluxo do tempo. Não existe kit padrão de defesa.

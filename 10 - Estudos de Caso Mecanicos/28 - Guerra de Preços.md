@@ -17,7 +17,7 @@ conhecimento: especializado
 dedução nossa a partir do que a obra afirma; `*` = invenção nossa; `—` = a obra não
 informa. Apagar tudo marcado com `*` devolve a nota a cem por cento canônico.
 
-**A regra que este caso ilustra:** possuir um Gu Imortal de rank alto **que produza um Gu
+**A regra que este caso ilustra:** possuir um [[16 - Gu Imortais|Gu Imortal]] de rank alto **que produza um Gu
 comum de rank baixo** cria uma ==vantagem de custo estrutural== que nenhum produtor
 tradicional consegue igualar. É o caso mais claro da obra sobre por que, na escala
 imortal, o poder militar e o poder econômico são a mesma coisa.
@@ -30,7 +30,7 @@ estabelecidos dividem o mercado. A qualidade do produto é essencialmente idênt
 todos, "então a competição depende apenas do custo".
 
 Um quarto participante entra. Ele possui um **Gu Imortal de rank 8** cuja função é produzir
-esses Gu comuns em massa. O custo de produção dele é apenas a essência imortal gasta para
+esses Gu comuns em massa. O custo de produção dele é apenas a [[15 - Essência Imortal|essência imortal]] gasta para
 acionar o artefato.
 
 ## Os números
@@ -38,8 +38,17 @@ acionar o artefato.
 | | Três vendedores tradicionais | O entrante |
 |---|---|---|
 | Custo por unidade | 10 (índice do próprio texto) | **3 ou 4** |
-| Capital mobilizado | — | **1.730.000** pedras primordiais, tomadas emprestadas de várias fontes e convertidas em essência imortal |
-| Resultado | vendem no prejuízo e não conseguem escoar | **12 milhões** de pedras de lucro líquido |
+| Capital mobilizado | — | **1.730.000 pedras de essência imortal**, tomadas emprestadas de várias fontes e convertidas em essência de tâmara-vermelha, a denominação de rank 7 |
+| Resultado | vendem no prejuízo e não conseguem escoar | **12 milhões** de pedras de essência imortal de lucro **bruto**; **10 milhões** líquidos, depois de quitados os empréstimos |
+
+> [!warning] A moeda aqui é a dos imortais, não a dos mortais
+> Os números da tabela estão em ==pedras de essência imortal==, e não nas
+> [[02 - Pedras Primordiais|pedras primordiais]] que circulam no mundo mortal. As duas não são
+> a mesma coisa nem em espécie nem em ordem de grandeza: uma pedra de essência imortal vale
+> mais de **cem milhões** de pedras primordiais. É por isso que a fortuna de um clã mortal
+> inteiro não compra nada num mercado imortal, e por isso que este caso, apesar de ser um
+> problema de comércio banal, só acontece nesse patamar. A escala completa de conversão está
+> em [[02 - Tabelas de Referência Rápida#5. Escala de valor das essências imortais|Tabelas de Referência Rápida]].
 
 **O efeito posterior no mercado:** os compradores estocaram em excesso durante a promoção,
 e o mercado ficou **saturado por quatro ou cinco anos**, com preços deprimidos para toda a

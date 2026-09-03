@@ -49,7 +49,7 @@ Isso o coloca ao lado do [[24 - Human Path|caminho humano]] como um dos dois cam
 **não pagam o pedágio do conflito de marcas** — e por isso os dois são, no fundo, caminhos de
 **suporte de altíssimo nível**.
 
-O corolário prático é canônico e devastador: comprender a essência do caminho da pintura permite
+O corolário prático é canônico e devastador: compreender a essência do caminho da pintura permite
 **desferir golpes de outro caminho no estilo da pintura**, amplificando-os. O caso registrado: um
 praticante de sangue, depois de tocar a essência da pintura, modificou um golpe de sangue que passou
 a **congelar o sangue de imortais de nível 8 e matá-los**.

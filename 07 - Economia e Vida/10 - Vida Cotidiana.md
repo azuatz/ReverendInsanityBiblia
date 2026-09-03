@@ -17,6 +17,14 @@ conhecimento: comum
 ==vive numa vila murada, come mal, morre cedo e cede passagem na rua a qualquer um que
 carregue uma placa de rank==, e é sobre esse chão que toda a fantasia se apoia.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de
+> algo que a obra afirma. `*` é **invenção ou indução nossa**, sem base textual. `—`
+> significa que a obra não informa e nada foi preenchido. Onde aparecer o rótulo
+> `inferido · conferido pelo autor`, trate-o como um `*` que já passou por revisão: é
+> reconstrução deste vault, não citação. **Apagar tudo que estiver marcado com `*` devolve
+> este documento a cem por cento canônico.**
+
 ## As duas humanidades
 
 A divisão social mais profunda do cenário não é entre clãs, regiões ou facções: é entre
@@ -24,8 +32,9 @@ quem consegue abrigar Gu e quem não consegue.
 
 **Mortais** são a imensa maioria. Vivem de agricultura, caça, artesanato e serviço
 doméstico, envelhecem no ritmo humano normal, e não têm direitos que um Mestre Gu precise
-respeitar. **Mestres Gu** são uma minoria minúscula, com vida mais longa, poder físico
-desproporcional e uma conta de despesas que os mantém permanentemente ocupados.
+respeitar. **Mestres Gu** são uma minoria minúscula, com poder físico desproporcional e uma conta de
+despesas que os mantém permanentemente ocupados — mas **não com vida mais longa**: o
+cultivo não acrescenta um único ano a ninguém, como a seção seguinte explica.
 
 A assimetria é explícita e quantificada dentro do mundo. Matar vários servos mortais custa
 uma multa de algumas dezenas de pedras primordiais. Ofender um Mestre Gu pode custar a família
@@ -45,15 +54,29 @@ cultivador. Onde a etiqueta muda, muda o que o mestre pode fazer com uma cena de
 
 ## Expectativa de vida
 
-Cultivar prolonga a vida, e cada rank estende o teto. Um mortal comum vive uma vida humana
-normal; um Mestre Gu de rank baixo já vive consideravelmente mais; e a partir do rank 6, ao
-ascender, o cultivador **deixa de envelhecer** — passa a operar com um orçamento de tempo de
-vida que pode ser gasto, comprado, emprestado e perdido, mas não corre mais sozinho contra
-ele.
+Aqui está a coisa mais contraintuitiva do cenário para quem vem de qualquer outra fantasia,
+e vale ler devagar porque muda o cálculo de uma campanha inteira: **cultivar não prolonga a
+vida.** Subir de rank não dá um ano a mais a ninguém. A obra afirma isso diretamente, mais
+de uma vez, e a regra vale inclusive para quem ascende ao patamar imortal — tornar-se
+imortal melhora a *qualidade* da vida do cultivador, não a *quantidade* dela.
 
-Isso produz um efeito social forte: numa vila, o ancião do clã pode ter visto nascerem os
-avós de todo mundo. Autoridade e memória se concentram nas mesmas pessoas por gerações, e a
-mobilidade social é lenta porque **os cargos não vagam**.
+O teto humano é de **cerca de cem anos**, com ou sem cultivo. Um Mestre Gu de rank 5 e um
+camponês que nunca despertou morrem, em princípio, na mesma idade.
+
+Quem vive muito, portanto, **comprou** os anos. O método legítimo é um tipo específico de
+Gu que concede tempo de vida — existem exemplares de quinze, cem, trezentos, quinhentos e
+mil anos, e cada um concede exatamente o que o nome diz. Eles não se fabricam: nascem
+sozinhos, em lugares raríssimos, e por isso são moeda forte até entre imortais. Existem
+também atalhos sombrios que compram tempo com efeitos colaterais, e um preço em anos
+cobrado por certos poderes de adivinhação. Os números completos estão em
+[[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], e a mecânica em
+[[12 - Longevidade|Longevidade]].
+
+Isso produz um efeito social forte, e ele é o oposto do que se imaginaria: **o ancião de
+uma vila é velho de verdade**, e está perto de morrer como qualquer mortal. Autoridade e
+memória se concentram nas mesmas pessoas por décadas, não por séculos — e quando um clã
+tem alguém que atravessou gerações, é porque aquele alguém encontrou ou comprou um Gu de
+tempo de vida, o que é um fato político por si só.
 
 A demografia do envelhecimento tem uma solução institucional cínica: convocar aposentados
 para as crises funciona, na prática, como descarte honroso de quem já não produz.
@@ -310,8 +333,8 @@ espetacularmente desigual.
   marca: há registro de um que só atende os ricos e bonitos, um que anda disfarçado de
   mendigo, e um que cobra pela cura o preço de uma vida a ser tirada pelo próprio paciente.
 - **Preços proibitivos.** Tratar um dano permanente com um especialista de rank alto custa
-  na casa das centenas de milhares de pedras primordiais — uma fortuna absolutamente fora do
-  alcance de qualquer mortal.
+  da ordem de **cem mil pedras primordiais** — uma fortuna absolutamente fora do alcance de
+  qualquer mortal, e mais de oito mil vezes o que uma família mortal consome num mês.
 - **Existe cura de alma, e ela é comercializável.** Certos Gu restauram dano de alma com
   eficácia desproporcional, o que os torna insumo econômico de primeira linha nos níveis
   altos.

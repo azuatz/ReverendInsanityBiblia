@@ -28,17 +28,30 @@ como uma ==regra ativa, verificada pelo mundo em tempo real== — e mostra que e
 Um cultivador ainda não-imortal, com acesso a um território de cultivo cujo espírito
 guardião estava obrigado por contrato a servi-lo.
 
+> [!warning] Quem refina, exatamente
+> O título é abreviação, e convém desfazê-la antes do método. **Quem executa o refino é o
+> espírito guardião** — a inteligência que administra o território e que, sob contrato, refina a
+> pedido. O que o mortal faz, e que é a jogada de verdade, é **capturar a vaga**: como cada Gu
+> Imortal é exemplar único no mundo, destruir o exemplar existente abre uma janela em que um
+> segundo pode passar a existir, e é essa janela que ele toma para si com o ritual do passo 2.
+> Ou seja, o feito não é técnico, é de **cronometragem** — e é por isso que ele é replicável por
+> um personagem sem poder imortal nenhum.
+
 ## O método, passo a passo
 
 1. **Entregar ao espírito guardião um artefato semiacabado**, para que ele conclua o refino
    — sabendo que a etapa final consumiria, como material, **o único exemplar existente no
    mundo** de um segundo artefato.
-2. **Enquanto esse consumo acontecia**, executar em si mesmo um ritual mítico de geração,
-   sincronizado para capturar a vaga no exato momento em que ela reabrisse.
+2. **Enquanto esse consumo acontecia**, executar em si mesmo o ==ritual mítico de geração== —
+   a receita, herdada do mito fundador do mundo, que faz nascer aquele Gu específico dentro do
+   corpo de quem a executa —, sincronizado para capturar a vaga no exato momento em que ela
+   reabrisse.
 3. **Manter a lucidez durante o ritual** com dois Gu auxiliares de clareza mental — porque o
-   ritual exige beber quantidades absurdas de bebida suprema, e a embriaguez o invalidaria.
-4. **Ajustar em tempo real:** foram necessárias **oito doses** em vez das quatro clássicas da
-   receita, porque a instância que estava sendo consumida interferia no processo.
+   ritual exige beber quantidades absurdas de uma ==bebida suprema==, um licor de refino de
+   altíssimo valor que é o insumo consumível central da receita, e a embriaguez o invalidaria.
+4. **Ajustar em tempo real:** a receita canônica pede **quatro doses** dessa bebida; aqui foram
+   necessárias **oito**, porque a instância que estava sendo consumida interferia no processo. É
+   a evidência de que a receita é um ponto de partida, não uma lei.
 
 **Recursos gastos:** o artefato semiacabado, oito bebidas supremas, dois Gu de clareza, o
 contrato com o espírito guardião — e uma janela de tempo medida em respirações.

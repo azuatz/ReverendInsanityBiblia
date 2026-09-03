@@ -53,7 +53,7 @@ o meu, é melhor você admitir a derrota*.
 2. **Aceitar o dano de volta e comprar tempo com cura.** O atacante possuía um Gu de cura de
    rank 3 que só funciona no próprio usuário, e cujo efeito é **proporcional à força física**
    de quem o usa — quanto mais forte o corpo, melhor a cura. Ele custou **quarenta e cinco mil
-   pedras primordiais**, preço de item raro.
+   [[02 - Pedras Primordiais|pedras primordiais]]**, preço de item raro.
 3. **Descobrir o ciclo real da cura.** Este é o detalhe mecânico mais valioso da luta: o
    contragolpe **cessa quando o ataque cessa**. Enquanto o atacante batia, os órgãos internos
    dele se feriam mais rápido do que o Gu curava; quando ele **parava de atacar**, a força

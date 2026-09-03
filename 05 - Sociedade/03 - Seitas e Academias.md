@@ -252,4 +252,6 @@ Duas variações valem registro porque ampliam o que "seita" pode significar:
 - [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde cada modelo domina, e onde é proibido.
 - [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — as dez grandes seitas e quem está acima delas.
 - [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — missões e pontos de contribuição pelo lado da renda.
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o regimento de seita por dentro: as penas em escala, o cultivo aleijado e por que um expulso volta.
+- [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — o salão de tabuletas que mesmo uma seita mantém, e o que os Gu guardados nele dizem sobre cada membro.
 - [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — as provas, exames e competições como aventuras.

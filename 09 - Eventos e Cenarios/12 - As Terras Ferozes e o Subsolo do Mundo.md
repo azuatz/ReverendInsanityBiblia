@@ -129,8 +129,7 @@ na terceira, produzida por bambu-nuvem em larga escala e abrigando uma cidade fo
 vingativas de imortais mortos. As camadas seguintes pioram. **Três eremitas moram ali há
 séculos e não ousam entrar nas três últimas camadas.**
 
-Ela tem nota própria — [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio
-Enlouquecido]] — porque o que ela realmente é não é assunto de exploração comum.
+Ela tem nota própria — [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] — porque o que ela realmente é não é assunto de exploração comum.
 
 ### O mar de correntes
 
@@ -140,8 +139,7 @@ superfície parece calma; por baixo, correntes caóticas; e nuvens permanentes i
 orientação por sol ou estrelas.
 
 As correntes são feitas, cada uma, de um material vindo de um lugar diferente do mundo: água do
-rio dos mortos; água de mil ilusões, que só se atravessa com o [[16 - Wisdom Path|caminho da
-sabedoria]]; uma corrente de **magma** vinda de uma cratera que entra em erupção a cada cem
+rio dos mortos; água de mil ilusões, que só se atravessa com o [[16 - Wisdom Path|caminho da sabedoria]]; uma corrente de **magma** vinda de uma cratera que entra em erupção a cada cem
 anos; água de almas negras carregada de marcas de alma e de trevas; uma corrente de fragmentos
 de ouro que sobrou de um rio celestial; e uma corrente de água-relâmpago.
 
@@ -207,7 +205,10 @@ Terra e Terra-Túmulo.** Podem ser criadas artificialmente — mas mesmo um cult
 posse da herança de terra de um Venerável, só conseguia produzir **cinco das dez**; as outras
 cinco estavam além da capacidade dele.
 
-Das dez, quatro são descritas:
+Das dez, **cinco a obra descreve**: a Trincheira da Terra já apareceu com seção própria acima,
+e as outras quatro vêm na tabela abaixo. As **cinco restantes** — Túnel, Caverna, Prisão,
+Produção e Formação da Terra — existem só como nome na lista, e são espaço livre para a
+designer.
 
 | Terra | O que é | O que rende numa mesa |
 |---|---|---|
@@ -272,8 +273,7 @@ ele tem sempre estas fases:
 ## O que está em jogo
 
 - **Materiais imortais que não existem em nenhum outro lugar.** É a razão declarada de se descer.
-- **Gu selvagens** — Gu que se formaram sozinhos, sem refinador. Ver [[04 - Onde um Gu Mora|Onde
-  um Gu Mora]].
+- **Gu selvagens** — Gu que se formaram sozinhos, sem refinador. Ver [[04 - Onde um Gu Mora|Onde um Gu Mora]].
 - **Mares de restos de materiais imortais** e **formações de Gu antigas gigantescas** — uma delas
   exigiria "vários meses" para ser desvendada, e só espiar por uma fresta já consumiu tudo o que
   um grão-mestre da sabedoria conseguia fazer.
@@ -335,8 +335,8 @@ rival lá dentro e um reino de sonho no fundo funcionam igual com rank 2 ou rank
 - **Quais são as dez áreas ferozes de cada região.** A obra nomeia algumas e nunca fecha a lista.
 - **O fundo de uma trincheira da terra.** Ninguém jamais chegou lá — nem os donos, com séculos de
   esforço. É a lacuna mais bonita do cenário: existe um lugar que este mundo inteiro não conhece.
-- **Seis das Dez Terras** aparecem apenas na lista e nunca são descritas: Túnel, Caverna, Prisão,
-  Produção e Formação da Terra. `*` Estão livres para a designer.
+- **Cinco das Dez Terras** aparecem apenas na lista e nunca são descritas: Túnel, Caverna,
+  Prisão, Produção e Formação da Terra. `*` Estão livres para a designer.
 - **Quantas bolhas existem no mar de correntes**, e o que há dentro da maioria delas.
 - **As condições para uma abertura imortal órfã aceitar um novo dono.** A obra diz explicitamente
   que o personagem que estava lá **não sabia**.

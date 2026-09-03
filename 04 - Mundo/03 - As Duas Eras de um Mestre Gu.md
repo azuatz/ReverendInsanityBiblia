@@ -174,7 +174,7 @@ calibrar:
 | Custo de vida diário de um Mestre Gu (cultivo, comida de Gu, despesas) | 3 a 5 pedras |
 | Salário semanal de um ancião rank 3 | 100 pedras |
 | Reserva mínima para um itinerante solo sobreviver | ~10.000 pedras |
-| Um Gu comum, por rank | r1 ≈ 500 · r3 ≈ 1.000–10.000 · r4 ≈ 10.000–100.000 · r5 ≈ 100.000–1.000.000 |
+| Um Gu comum, por rank | r1 ≈ 500 · r2 ≈ 500–1.000 · r3 ≈ 1.000–10.000 · r4 ≈ 10.000–100.000 · r5 ≈ 100.000–1.000.000 · r6+ nunca foi vendido |
 
 Duas leituras estruturais saem daí. Primeira: **um Mestre Gu é rico perante mortais e
 pobre perante o próprio cultivo** — a vida dele é permanentemente tensionada por dinheiro,

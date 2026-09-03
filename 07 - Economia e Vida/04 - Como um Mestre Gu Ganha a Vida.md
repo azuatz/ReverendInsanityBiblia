@@ -17,6 +17,14 @@ conhecimento: comum
 — o poder vem com uma conta de despesas fixas que não para de crescer, e a pergunta
 "como pago o mês?" é o motor silencioso de quase toda decisão de um personagem.
 
+> [!info] Os quatro estados de confiabilidade
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de
+> algo que a obra afirma. `*` é **invenção ou indução nossa**, sem base textual. `—`
+> significa que a obra não informa e nada foi preenchido. Onde aparecer o rótulo
+> `inferido · conferido pelo autor`, trate-o como um `*` que já passou por revisão: é
+> reconstrução deste vault, não citação. **Apagar tudo que estiver marcado com `*` devolve
+> este documento a cem por cento canônico.**
+
 ## Por que isso importa tanto
 
 Um Mestre Gu não é um herói que aventura por vocação. Ele **precisa** de renda contínua
@@ -336,11 +344,11 @@ rank 3 e suicídio para um rank 1.
 | Fonte de renda | Faixa típica (pedras primordiais) | Rank típico de quem executa | Tempo gasto |
 |---|---|---|---|
 | Subsídio de estudante de academia | 3 por semana | pré-rank 1 (aluno de 15 anos) | passivo |
-| Missão simples de coleta | 2 a 6 | rank 1 | dias |
+| Missão simples de coleta | 2 a 6 **no total**, divididos entre os cinco do grupo | rank 1 | dias |
 | Aluguel de imóvel (mensal, como locador) | 8 a 25 | qualquer; exige capital prévio | passivo |
 | Cargo de monitor de turma | 10 por semana (vice: 5) | pré-rank 1 | passivo, com dever |
 | Prêmio por marco na academia | 20 a 30 | pré-rank 1 | por conquista |
-| Venda de consumível cultivado (por unidade) | ver [[02 - Pedras Primordiais|Pedras Primordiais]] | rank 1–2, ou mortal a serviço de um clã | semanas de cultivo |
+| Venda de consumível cultivado (por unidade) | 50 a 100, conforme a crise — ver [[03 - Preços, Renda e Custo de Vida#Inflação: a curva que a obra desenha\|Preços, Renda e Custo de Vida]] | rank 1–2, ou mortal a serviço de um clã | semanas de cultivo |
 | Salário de ancião de clã | 100 por semana (300 em crise) | **rank 3** — é o cargo | passivo, vitalício |
 | Recompensa por afugentar um invasor de rank alto | 500 | rank 3–4, ou um grupo de cinco coordenado | um confronto |
 | Mandado de captura (informação / morte) | 1.000 / 5.000 a 8.000 | rank 2–3 para informação; rank 4 para execução | semanas a meses de caçada |

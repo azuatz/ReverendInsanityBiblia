@@ -132,10 +132,12 @@ em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 16. **A guerra consome energia, não vidas.** A tática dominante do mundo é gastar a reserva
     interna do inimigo com tropa descartável; e essa tropa quase nunca é humana. Ver
     [[10 - Guerra Organizada|Guerra Organizada]].
-17. **A supremacia humana é recente e foi conquistada.** Os povos humanoides não-humanos já
-    governaram o mundo inteiro; perderam uma guerra e hoje são, na média, mercadoria legal.
-    A hierarquia entre espécies é, portanto, um resultado histórico e não a ordem natural
-    das coisas. Ver [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
+17. **A supremacia humana foi conquistada, não é a ordem natural.** Os povos humanoides
+    não-humanos já governaram o mundo inteiro; perderam uma guerra e hoje são, na média,
+    mercadoria legal. `[especializado]` — que **todos** existem e são comprados e vendidos é
+    conhecimento de rua; que **eles já mandavam no mundo** é coisa de ancião de clã, e a maior
+    parte das pessoas nunca pensou nisso.
+    Ver [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 
 ## O que todo personagem sabe
 

@@ -88,9 +88,11 @@ Esta é a trajetória mais incomum da pasta, porque o caminho humano é ao mesmo
 antigo e o mais novo** do mundo.
 
 **A origem.** O Ancestral Humano — a figura mítica que criou a humanidade — é a origem do
-caminho: *ele criou a humanidade, é um método incomparável do caminho humano*. Os **dez físicos
-extremos**, os corpos especiais mais raros do mundo, foram criados por ele e "são todos
-profundidades do caminho humano". Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
+caminho: *ele criou a humanidade, é um método incomparável do caminho humano*. As **dez
+constituições extremas** (que a obra também chama de "dez físicos extremos"), os corpos
+especiais mais raros do mundo, foram criadas por ele e "são todas profundidades do caminho
+humano". Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] e
+[[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 
 **A herança verdadeira é um livro.** As lendas do Ancestral Humano são a herança verdadeira do
 caminho — e **a primeira herança verdadeira da história do mundo**. Mas é apenas um livro, isto
@@ -513,7 +515,17 @@ mais o caminho humano se desenvolve, maior sua vantagem sobre os outros.**
 | **Grão-mestre** | Criar golpes **híbridos** de caminho humano com outro; montar formações imortais do caminho; deduzir métodos de refino com profundidade humana. Ainda insuficiente para resolver os golpes dos Veneráveis ou criar receitas imortais de nível 6 |
 | **Grande grão-mestre** | Criar um Gu Imortal de nível 9 do caminho |
 | **Quase-supremo grão-mestre** | Criar um Gu Imortal **de nível 8** próprio e uma **herança verdadeira** inteira, com potencial de gerar um sub-ramo novo do caminho; **rastrear, localizar e decifrar de trás para frente** os golpes deixados pelos Veneráveis onde outros imortais não sentiam nem os traços; e **premonição sobre pessoas** — identificar quem tem chance de virar imortal |
-| Pseudo-Venerável | Requisito mínimo para **curar os ferimentos de um Venerável** |
+
+> [!warning] Uma linha desta tabela não é um degrau de domínio
+> A obra registra que **curar os ferimentos de um Venerável** exigia, como requisito mínimo, um
+> **pseudo-Venerável do caminho humano** — e a instituição mais rica do mundo não tinha nenhum.
+> Guarde o requisito, mas não o confunda com a escada acima: "pseudo-Venerável" não é um degrau
+> de domínio, é um **patamar de poder**, e mais precisamente um rótulo de fracasso — designa
+> quem tentou a última prova do rank 9 e não sobreviveu a ela. Ver
+> [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]. O que a frase quer dizer, portanto, é
+> que curar um Venerável está fora do alcance de qualquer imortal comum, por mais erudito que
+> seja: é preciso ser, ao mesmo tempo, do caminho certo **e** de um patamar de poder quase
+> inexistente no mundo.
 
 Um detalhe fino e útil: **só quem tem domínio neste caminho consegue estimar o domínio alheio
 nele.** Para todos os outros, um grande especialista de caminho humano é invisível.

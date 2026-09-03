@@ -58,7 +58,9 @@ está em [[02 - Pedras Primordiais#A pedra na mão|Pedras Primordiais]].
 
 ## Resumo
 
-A moeda universal do mundo mortal é a **pedra primordial** (*primeval stone*), uma pedra do
+A moeda universal do mundo mortal é a **pedra primordial** (*primeval stone*; algumas
+traduções em português dizem **"pedra primeva"** — é a mesma coisa, e o mesmo vale para o
+par *essência primordial / essência primeva*), uma pedra do
 tamanho de um ovo de pato que serve para duas coisas ao mesmo tempo: pagar contas e
 alimentar o próprio cultivo. Um Mestre Gu que gasta suas pedras numa hospedaria está
 gastando o mesmo recurso com que ficaria mais forte. Esse duplo papel ancora todo o
@@ -117,9 +119,9 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
    crédito acumulado chega a uma pedra inteira ele abate da conta.
 5. **Sem nascente espiritual não há organização.** A informação de que a nascente de um
    clã está secando é segredo de Estado e já valeu extorsões milionárias.
-6. **Preço escala por rank em ordens de grandeza.** Um Gu comum de rank 1 custa umas
-   centenas de pedras; rank 3 fica na casa dos milhares a dezenas de milhares; rank 4 nas
-   dezenas a centenas de milhares; rank 5 chega ao milhão. Gu de rank 6 em diante
+6. **Preço escala por rank em ordens de grandeza.** Um Gu comum de rank 1 custa cerca de
+   quinhentas pedras; rank 2, de quinhentas a mil; rank 3, de mil a dez mil; rank 4, de
+   dez mil a cem mil; rank 5 vai de cem mil ao milhão. Gu de rank 6 em diante
    simplesmente não aparecem à venda. Um Gu raro de rank baixo pode custar como um Gu
    comum de rank alto.
 7. **Receita vale mais que exemplar.** Saber *como* produzir um Gu vale ordens de
@@ -239,7 +241,8 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 
 ## Como as peças se encaixam
 
-Ordem sugerida de leitura desta pasta:
+Ordem sugerida de leitura desta pasta. São quinze notas depois desta, e a lista abaixo as
+cobre todas — se você ler na ordem, cada uma já terá definido os termos que a seguinte usa:
 
 1. [[02 - Pedras Primordiais|Pedras Primordiais]] — a unidade básica de valor e de poder.
 2. [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — a planilha: o que custa cada coisa, quanto rende cada
@@ -253,15 +256,24 @@ Ordem sugerida de leitura desta pasta:
    valer, e o que sempre alguém tira no caminho.
 7. [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o degrau seguinte da mesma economia, com margens
    de lucro publicadas.
-8. [[15 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
-9. [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
-   compra a maior parte dos Gu que gasta, ele os **cultiva** dentro do próprio mundo
-   privado. É a nota que explica por que a camada de cima é mais uma questão de fazenda e
-   de paciência do que de dinheiro.
-10. [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
+8. [[09 - Aposta de Rochas|Aposta de Rochas]] — o jogo de azar do mundo: comprar pedras fechadas na esperança
+   de encontrar um Gu vivo dentro. É um minijogo quase pronto, e também a lavagem de
+   dinheiro do cenário.
+9. [[10 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
+   maioria das pessoas.
+10. [[11 - Ritmo de Cultivo e Reclusão|Ritmo de Cultivo e Reclusão]] — quanto tempo o mundo avança entre uma sessão e outra,
+    e o que custa se trancar para cultivar.
+11. [[12 - Heranças e Provações|Heranças e Provações]] — as masmorras que os mortos deixam, e a principal rota de
+    ascensão de quem não tem berço.
+12. [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
     com estrutura de aventura.
-11. [[10 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
-    maioria das pessoas.
+13. [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — o maior desses eventos, em detalhe: um torneio de
+    artesanato centenário, com trégua universal e um prêmio que não se compra.
+14. [[15 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
+15. [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
+    compra a maior parte dos Gu que gasta, ele os **cultiva** dentro do próprio mundo
+    privado. É a nota que explica por que a camada de cima é mais uma questão de fazenda e
+    de paciência do que de dinheiro.
 
 ## Relações
 

@@ -32,10 +32,16 @@ todas as lutas anteriores dele: quem avança para bater no dono acaba de frente 
 
 **O contra-método:** parar de perseguir o dono e **bater no tanque**, continuamente.
 
+> [!question] O que a obra não quantifica neste caso
+> O mecanismo é descrito com clareza, mas **a obra não publica um único número** para o Caso A:
+> nem o custo de essência de cada ataque, nem o custo de cada troca de posição, nem quantas
+> trocas a luta durou. Não procure esses valores em outra nota — eles não existem. O caso vale
+> como **teorema de custo**, e o Caso B, mais abaixo, é o que traz a aritmética.
+
 **Por que isso drena o outro lado:**
 
-- os ataques do caminho da força usados aqui são baratos para quem os desfere — é um caminho
-  estruturalmente barato;
+- os ataques do [[04 - Strength Path|caminho da força]] usados aqui são baratos para quem os
+  desfere — é um caminho estruturalmente barato;
 - cada vez que o tanque entra em perigo, o dono precisa **gastar para curá-lo**;
 - cada vez que o atacante se aproxima, o dono precisa **gastar a troca de posição** para
   não ser esmagado junto;
@@ -60,7 +66,7 @@ oitenta mil lobos morreram num período curto** — e é esse o ponto, não um l
 
 **Por que funciona:** lobos são **munição reponível**; a essência dos defensores não é.
 Cada lobo morto custa ao atacante um recurso que se reproduz sozinho na natureza, e custa
-ao defensor uma fração de uma reserva que só se repõe com pedras primordiais. Quando a
+ao defensor uma fração de uma reserva que só se repõe com [[02 - Pedras Primordiais|pedras primordiais]]. Quando a
 linha ficou seca, veio o golpe decisivo — que teria falhado contra a mesma linha no início.
 
 **Variante do mesmo princípio:** a matilha também serve de **amortecedor** contra defesas

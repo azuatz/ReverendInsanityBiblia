@@ -29,7 +29,7 @@ Um cultivador de rank 1, sozinho, encurralado no centro do território de um rei
 macacos de pedra que possui um Gu de furtividade. Ele **não tem** Gu de detecção nem
 ataque em área. Sua reserva de energia está em **11%** — o suficiente, pelas contas dele,
 para exatamente **dois disparos do seu Gu de ataque**, ou para absorver **dois ataques
-furtivos** com o Gu de defesa. Não para os dois.
+furtivos** com o Gu de defesa. Não para os dois.[^disparos]
 
 ## O método, passo a passo
 
@@ -49,7 +49,7 @@ furtivos** com o Gu de defesa. Não para os dois.
 5. **Seguir o sangue.** O ferido volta a ficar invisível — e continua sangrando. O rastro
    de sangue é a única coisa que o Gu de furtividade não cobre, e ele revela a retirada.
 6. **Vencer pela assimetria de recuperação.** Empate aparente: os dois se retiram feridos.
-   Mas o caçador **recarrega a energia com pedras primordiais** e volta ao pico em pouco
+   Mas o caçador **recarrega a energia com [[02 - Pedras Primordiais|pedras primordiais]]** e volta ao pico em pouco
    tempo; a fera precisa cicatrizar sozinha e só enfraquece. O texto é explícito: parecia
    empate, mas ele já havia vencido.
 7. **Chegar antes da sucessão.** Quando ele retorna, o rei já morreu e um novo rei ocupa o
@@ -103,3 +103,5 @@ Quatro regras do mundo se encaixaram, e nenhuma delas é um poder:
 - [[06 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — a técnica que permitiu refinar o espólio na hora.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que é um rei-fera e como as matilhas se organizam.
 - [[14 - Espólio de Gu|Espólio de Gu]] — as regras gerais de quem fica com o quê depois de uma morte.
+
+[^disparos]: A obra se contradiz aqui, e vale registrar em vez de esconder. Nesta cena ela diz que 11% da reserva dão dois disparos; em pelo menos três outras passagens ela fixa o custo do disparo desse mesmo Gu em **10% da reserva por uso**, o que daria um disparo só. As Tabelas de Referência Rápida do vault mantêm os 10% como valor de sistema, porque é o número repetido; leia os "dois disparos" desta cena como licença do autor, e não como uma segunda tabela de custos.

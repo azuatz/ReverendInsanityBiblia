@@ -136,8 +136,10 @@ servo é o destino do patrão: quando um clã cai, seus mortais são espólio.
 
 **O que define.** Diferente do servo: o escravo é propriedade, e existe mercado formal para
 ele. Três origens documentadas — Mestres Gu derrotados em campanha de guerra (prática
-sistemática do Norte, onde as tribos guerreiam o ano inteiro), humanos variantes comprados
-e vendidos em mercado em **todas as regiões**, e condenados judiciais (ver adiante).
+sistemática do Norte, onde as tribos guerreiam o ano inteiro),
+[[12 - Povos e Variantes Humanas|humanos variantes]] — os povos humanoides não-humanos deste
+mundo — comprados e vendidos em mercado em **todas as regiões**, e condenados judiciais
+(ver adiante).
 
 **Que vida leva.** Status baixíssimo. Mal vestidos, magros, pálidos; usados sem
 contemplação; e, "quando necessário", tratados como bucha de canhão e abandonados. Há
@@ -821,6 +823,7 @@ com consequência de vida ou morte.
 - [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — a conta que o cultivador solitário paga sozinho.
 - [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde o status do mortal e do escravo muda de forma.
 - [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — o mercado de escravos variantes.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — quem são esses povos, o talento inato de cada um e as quatro posições sociais que podem ocupar.
 - [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — a origem mitológica da filosofia da liberdade.
 - [[19 - Tribunal Celestial|Tribunal Celestial]] · [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a instituição do
   sacrifício pela humanidade.

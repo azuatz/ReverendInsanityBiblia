@@ -181,7 +181,9 @@ E a experiência de estar dentro de uma muda de natureza. A imagem que o texto u
 arrastado como **"uma tábua flutuando em água revolta"**: não há linha de defesa, não há muro, não
 há vitória. Sobreviver é ler a corrente e se mover com ela.
 
-Isso produz uma das travas canônicas mais úteis do cenário: nessas áreas, **a aura de um Gu Imortal
+Isso produz uma das travas canônicas mais úteis do cenário — a **trava 2** do cardápio da
+[[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *ser fraco é a credencial de
+entrada*: nessas áreas, **a aura de um Gu Imortal
 provoca as feras e desencadeia uma maré que denuncia a posição de quem a causou; a de um mortal,
 não**. Ser fraco é a credencial de entrada. Os poderosos literalmente não conseguem entrar, mandam
 mortais na frente e esperam do lado de fora.

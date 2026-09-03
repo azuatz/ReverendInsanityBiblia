@@ -32,6 +32,19 @@ caminhar seis casas sobre um deles se tornaria discípula pessoal dele, sem perg
 família ou origem. Deu certo. Nas eras seguintes as seitas superaram os clãs, e no presente
 do cenário **quase não existem clãs no Continente Central**.
 
+## Como ler esta nota
+
+Cada organização segue a mesma ficha das outras quatro notas regionais, na mesma ordem: quem
+manda, o caminho de cultivo em que é especialista, por que é especialista nisso, porte,
+alinhamento, território, história, economia, relações, tensões internas, assinatura e o gancho
+de mesa. Onde um campo aparece como `—`, a obra não informa — e isso é espaço livre declarado.
+
+**Recorte temporal:** cada ficha descreve a força **como ela está no presente do cenário** — o
+estado de coisas com que uma campanha começa. O que a história do romance faz com essas
+organizações depois fica fora. Líderes e ranks entram porque são o status quo do mundo, não
+porque sejam trama. Onde uma instituição **ainda não existe** no presente do cenário, a ficha
+diz isso em voz alta (é o caso da Cidade do Imperador Divino, mais abaixo).
+
 > [!warning] Como ler os marcadores desta nota
 > Quatro estados de confiabilidade, usados em toda a nota:
 > **texto simples** = a obra afirma; **`(ded.)`** = dedução segura a partir do que a obra
@@ -56,7 +69,7 @@ regiões, e o efeito colateral é cruel — como há mais imortais dividindo o m
 [[16 - Gu Imortais|Gu Imortais]], o Continente Central é, em taxa de posse por cabeça, o
 **último** dos cinco. Abundância de gente, escassez relativa de coisas.
 
-Para calibrar a escala: um cultivador de rank 3, que numa aldeia da Fronteira do Sul seria
+Para calibrar a escala: um cultivador de rank 3, que numa aldeia da Fronteira Sul seria
 ancião com poder sobre vidas, é **gente comum na rua** na maior cidade do centro. E dentro
 de uma das dez grandes seitas **não há um único discípulo de [[03 - Aptidão|aptidão]] grau C**
 — numa escala em que A é o topo e D o piso. O comum ali é o grau B, e gente de grau A é
@@ -169,8 +182,7 @@ discípulos das seitas, que são mandados atrás deles como treino. O mal públi
 uma disciplina do currículo.
 
 > [!warning] O que as próprias seitas corretas escondem
-> `segredo` — **até as dez grandes seitas ancestrais pesquisam o [[03 - Blood Path|caminho do
-> sangue]] em segredo**, e não ousam anunciá-lo publicamente, porque o caminho do sangue é
+> `segredo` — **até as dez grandes seitas ancestrais pesquisam o [[03 - Blood Path|caminho do sangue]] em segredo**, e não ousam anunciá-lo publicamente, porque o caminho do sangue é
 > classificado como demoníaco desde sempre e o Tribunal Celestial cataloga seus praticantes
 > numa lista oficial de procurados. Há registro de uma das dez oferecendo um Gu Imortal de
 > caminho do sangue a um discípulo próprio e justificando com a fórmula: *"se você usa uma
@@ -595,7 +607,7 @@ seita **decidiu que não compensa** investir na exploração. A maior proprietá
 dona de um lugar que não conhece.
 
 Guarda também uma **tesouraria histórica** que é um museu: nela está um vinho refinado há trezentos mil
-anos por um mestre do Mar do Leste e perdido para um ancestral da casa numa disputa de refino de oitenta
+anos por um mestre do Mar Oriental e perdido para um ancestral da casa numa disputa de refino de oitenta
 e um dias durante uma Convenção do Refino — o vencedor levava a criação do perdedor.
 
 **Assinatura.** A Casa de Gu Imortal **Mansão do Dragão de Gelo** (*Frost Dragon Manor*): um jardim de
@@ -817,8 +829,7 @@ projetada no ar** para os espectadores. Alinhamento: caminho correto, como o nom
 
 **Super força fundada por uma única pessoa, do zero, em pouco mais de um século** — e o caso mais
 instrutivo da região. O fundador era imortal de caminho do raio de uma das dez; quebrou as regras da
-casa, **teve o cultivo destruído e foi expulso**. Recomeçou pelo [[17 - Information Path|caminho da
-informação]], voltou a rank 7 e construiu uma seita que hoje é **de primeira linha em informação no
+casa, **teve o cultivo destruído e foi expulso**. Recomeçou pelo [[17 - Information Path|caminho da informação]], voltou a rank 7 e construiu uma seita que hoje é **de primeira linha em informação no
 Continente Central — a ponto de as próprias dez grandes seitas comprarem informação dela**.
 
 O negócio é visível em cena: vendedores uniformizados circulam nos grandes eventos vendendo dossiês
@@ -887,7 +898,7 @@ instituição.
 
 ### Citadas só pelo nome
 
-- **Seita da Agulha do Escorpião** (*Scorpion Needle Sect*) — fica **perto do Deserto do Oeste**, e é
+- **Seita da Agulha do Escorpião** (*Scorpion Needle Sect*) — fica **perto do Deserto Ocidental**, e é
   por ela que muitos Mestres Gu ocidentais entram na Convenção do Refino. Posto de fronteira.
 - **Seita da Unificação** (*Unification Sect*) — ponto de inscrição da Convenção. **Só o nome.**
 - A seita fundada por um ancião supremo da Mansão do Vento e da Nuvem, também sede de rodada da
@@ -906,8 +917,7 @@ construída com um número imenso de Gu mortais. Foi a **primeira Cidade Imperia
 decisão do mesmo Venerável que criou o sistema de seitas, e sua história remonta à ascensão da
 humanidade. **Já mudou de lugar mais de uma dezena de vezes**, sempre acompanhando a veia humana.
 
-O que ela faz não é comercial, é demográfico: a cidade tem **dispositivos de [[24 - Human Path|caminho
-humano]] embutidos que atraem e criam gerações de gente talentosa**. Com a acumulação dos séculos,
+O que ela faz não é comercial, é demográfico: a cidade tem **dispositivos de [[24 - Human Path|caminho humano]] embutidos que atraem e criam gerações de gente talentosa**. Com a acumulação dos séculos,
 o "qi humano" ali é abundante, e a obra a chama de **o maior berço de Gu Imortais do mundo**. Mestres
 Gu de rank 3 são gente comum na rua. Embora seja uma casa mortal, contém arranjos que, no momento
 crítico, disparam **golpes imortais de proteção**.
@@ -921,8 +931,7 @@ concêntricas de Casas de Gu Imortal das seitas.
 
 > [!warning] Este nome pertence a um estado posterior do mundo
 > A **Cidade do Imperador Divino** circula em resumos e wikis como se fosse um lugar do
-> Continente Central desde sempre — e a nota [[05 - Atlas das Cinco Regiões|Atlas das Cinco
-> Regiões]] a registra assim. Não é: ela **só existe na última parte da obra**, e nasce da
+> Continente Central desde sempre — e a nota [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] a registra assim. Não é: ela **só existe na última parte da obra**, e nasce da
 > fusão da Cidade Imperial com uma Casa de Gu Imortal trazida de outra região. **No presente
 > do cenário ela não existe**, e a terra sagrada do [[24 - Human Path|caminho humano]] da
 > região é a própria Cidade Imperial.
@@ -1000,7 +1009,7 @@ no continente inteiro, entre gente que nunca refinou nada. Ver
 
 > [!warning] Não existe "corte imperial" do Continente Central
 > A **Corte Imperial** (*Imperial Court*) que aparece na obra é uma terra abençoada das **Planícies do
-> Norte**, e a **Corte Imperial dos Homens-Peixe** é do **Mar do Leste**. No Continente Central, quem
+> Norte**, e a **Corte Imperial dos Homens-Peixe** é do **Mar Oriental**. No Continente Central, quem
 > faz papel de corte é o **Tribunal Celestial**; dentro da sede dele existe um salão chamado *Immortal
 > Emperor Court*, que é um cômodo, não uma instituição. E a **Cidade Imperial** é uma cidade mortal, não
 > uma sede de governo — nenhum imperador mora nela.
@@ -1019,29 +1028,32 @@ no continente inteiro, entre gente que nunca refinou nada. Ver
 
 ## Tabela-resumo
 
-| Força | Tipo | Caminho de casa | Alinhamento | Porte |
-|---|---|---|---|---|
-| **Tribunal Celestial** | corte imortal suserana | todos; liderança de qi, sabedoria e sorte | correto | força suprema — só rank 8 |
-| **Casa da Afinidade Espiritual** | uma das dez | água, sabedoria, som, tempo | correto (converte demoníacos) | 15 imortais, 2 de rank 8 |
-| **Seita da Grua Imortal** | uma das dez | escravização e grous | correto (caça demoníacos) | rank 8 no topo; a mais fraca das dez |
-| **Seita do Lótus Celestial** | uma das dez | madeira, karma, Casas de Gu Imortal | correto | rank 8 no topo; 5 Casas de Gu Imortal |
-| **Doca das Miríades de Dragões** | uma das dez | raio, fogo, refino | correto | vários rank 7; em ascensão |
-| **Seita do Combate Imortal** | uma das dez | combate, terra, transformação | correto | 3+ rank 7 mobilizáveis |
-| **Seita da Alma Antiga** | uma das dez | sabedoria, transformação, refino | correto | 3 rank 7 destacáveis; a mais antiga |
-| **Mansão do Vento e da Nuvem** | uma das dez | vento, nuvem, raio, formações | correto | rank 8 formado em casa |
-| **Mansão da Inveja Celestial** | uma das dez | um golpe de assinatura; sabedoria e cura | correto | rank 8 no topo |
-| **Vale da Borboleta Espiritual** | uma das dez | informação e tempo | correto | rank 8 no topo; 4 rank 7 |
-| **Templo do Céu Negro** | uma das dez | ocultação e defesa `(ded.)` | correto | rank 8 no topo; território pobre |
-| **Seita da Expulsão de Demônios** | super força fora das dez | `—` | correto | 3 imortais |
-| **Seita da Informação-Relâmpago** | super força fora das dez | informação | correto | fundador de rank 7 |
-| **Grande Seita da Espada Celestial** | seita grande, vassala | `—` | correto | 3 imortais |
-| **Seita das Cinco Virtudes** | seita média, viveiro | `—` | correto | sem imortal próprio `(ded.)` |
-| **Seita da Geada Voadora** | seita média | gelo, pela ilha-base `(ded.)`; refino | correto | sem imortal próprio `(ded.)` |
-| **Academia da Vida Universal** | seita pequena | `—` | correto | nenhum imortal |
-| **Os Quatro Grandes Obscenos** | grupo demoníaco informal | `—` | demoníaco, tolerado | quatro de rank 4 |
-| **Cidade Imperial** | cidade mortal e Casa de Gu | caminho humano | neutro | a maior cidade mortal do mundo |
-| **Montanha Tian Ti** | terra sagrada sem dono | — | neutro, intocável | — |
-| **Campo de Batalha da Reencarnação** | território de treino | — | disputado pelas dez | — |
+A última coluna é a que a nota-porta manda ler: **pare na primeira linha que provocar uma
+pergunta**, e essa é a força antagonista (ou patrona) da sua campanha.
+
+| Força | Tipo | Caminho de casa | Alinhamento | Porte | Por que importa numa mesa |
+|---|---|---|---|---|---|
+| **Tribunal Celestial** | corte imortal suserana | todos; liderança de qi, sabedoria e sorte | correto | força suprema — só rank 8 | Está fora do alcance de qualquer mesa — e é a razão pela qual as dez não se devoram e as seitas pequenas existem. Um grupo pequeno deve a vida a uma proibição escrita por gente que nunca vai encontrar |
+| **Casa da Afinidade Espiritual** | uma das dez | água, sabedoria, som, tempo | correto (converte demoníacos) | 15 imortais, 2 de rank 8 | O melhor guarda-chuva político contra uma das dez, e a única porta de reabilitação para um personagem demoníaco. As missões de recuperar as peças do Pavilhão da Água são uma campanha inteira |
+| **Seita da Grua Imortal** | uma das dez | escravização e grous | correto (caça demoníacos) | rank 8 no topo; a mais fraca das dez | A porta de entrada mais natural do centro: por ser a mais fraca, é a que mais precisa de gente e a que mais aceita arranjos irregulares. É também a casa descrita por dentro em maior detalhe |
+| **Seita do Lótus Celestial** | uma das dez | madeira, karma, Casas de Gu Imortal | correto | rank 8 no topo; 5 Casas de Gu Imortal | A casa a procurar quando o problema é logística. E a seita-viveiro dá a um grupo pobre um caminho de promoção **escrito** até uma das dez |
+| **Doca das Miríades de Dragões** | uma das dez | raio, fogo, refino | correto | vários rank 7; em ascensão | Vende passagem: quem precisa atravessar o centro depressa compra o uso das formações dela. Compra talento primeiro e pergunta depois |
+| **Seita do Combate Imortal** | uma das dez | combate, terra, transformação | correto | 3+ rank 7 mobilizáveis | A mais fácil de entrar sem contatos e a mais difícil de sobreviver dentro. A prova dos cem candidatos é uma sessão pronta |
+| **Seita da Alma Antiga** | uma das dez | sabedoria, transformação, refino | correto | 3 rank 7 destacáveis; a mais antiga | O melhor patrão de expedição do cenário: tem um mundo subterrâneo embaixo de si que ela mesma decidiu não explorar, com camadas numeradas como andares de masmorra |
+| **Mansão do Vento e da Nuvem** | uma das dez | vento, nuvem, raio, formações | correto | rank 8 formado em casa | O festival anual do rio da Panela é a melhor sessão de abertura do centro; e a tesouraria é o alvo de roubo mais bem justificado, porque já deu certo uma vez |
+| **Mansão da Inveja Celestial** | uma das dez | um golpe de assinatura; sabedoria e cura | correto | rank 8 no topo | Contrata caçadores todo ano para um ponto de recurso que ela não controla — e o golpe que dá nome à casa cai se duas pessoas forem separadas |
+| **Vale da Borboleta Espiritual** | uma das dez | informação e tempo | correto | rank 8 no topo; 4 rank 7 | É a quem se compra ou se rouba uma resposta. Um grupo perseguido por uma das dez descobre, mais cedo ou mais tarde, que o Vale já sabia |
+| **Templo do Céu Negro** | uma das dez | ocultação e defesa `(ded.)` | correto | rank 8 no topo; território pobre | A das dez que mais aceita gente, porque é pobre e não pode recusar. E o antagonista mais realista do bloco: não um vilão, uma instituição sem dinheiro que escolhe sobreviver |
+| **Seita da Expulsão de Demônios** | super força fora das dez | `—` | correto | 3 imortais | Prova de que o clube das dez é fechado por história, não por força: uma potência regional que administra um pedaço do continente sem pertencer a ele |
+| **Seita da Informação-Relâmpago** | super força fora das dez | informação | correto | fundador de rank 7 | A resposta canônica a *dá para construir algo aqui?* — em cem anos, sozinho, depois de perder tudo, e num caminho que não era o seu. Compra e vende dossiês em praça pública |
+| **Grande Seita da Espada Celestial** | seita grande, vassala | `—` | correto | 3 imortais | O caso-modelo da vassalagem, com o contrato vencendo: emancipar-se depende de três imortais, e comprar um deles resolve. É uma sessão de política inteira |
+| **Seita das Cinco Virtudes** | seita média, viveiro | `—` | correto | sem imortal próprio `(ded.)` | Um viveiro com pipeline formal de promoção até uma das dez — a entrada por baixo para um grupo sem contatos |
+| **Seita da Geada Voadora** | seita média | gelo, pela ilha-base `(ded.)`; refino | correto | sem imortal próprio `(ded.)` | A melhor ilustração do que hierarquia significa aqui: viu um forasteiro queimar uma alma dentro da própria sede e não pôde fazer nada |
+| **Academia da Vida Universal** | seita pequena | `—` | correto | nenhum imortal | A régua do andar de baixo: uma seita minúscula que vive de uma colocação obtida há cem anos e das três vagas que ela garante |
+| **Os Quatro Grandes Obscenos** | grupo demoníaco informal | `—` | demoníaco, tolerado | quatro de rank 4 | Estão vivos porque as dez deixam: servem de prova prática para os discípulos. O mal público da região é uma disciplina do currículo |
+| **Cidade Imperial** | cidade mortal e Casa de Gu | caminho humano | neutro | a maior cidade mortal do mundo | O maior berço de Gu Imortais do mundo, onde um rank 3 é gente comum na rua — o lugar certo para um personagem de interior descobrir que não é ninguém |
+| **Montanha Tian Ti** | terra sagrada sem dono | — | neutro, intocável | — | Competição anual por heranças em território onde é proibido matar, fechada a quem não é das dez. A barreira de admissão já é o objetivo da campanha |
+| **Campo de Batalha da Reencarnação** | território de treino | — | disputado pelas dez | — | A academia militar do mundo imortal: morre-se ali sem morrer, e manter posição consome imortais sem parar |
 
 ---
 

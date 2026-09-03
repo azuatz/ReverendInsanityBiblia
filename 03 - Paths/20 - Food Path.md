@@ -60,27 +60,17 @@ este caminho funciona — as peças isoladas são medíocres, o conjunto é deci
 
 `conhecimento: segredo`
 
-A revelação que eleva o caminho de utilidade a via de poder:
-
-**Golpes de comida aplicados sobre si mesmo concedem marcas do Dao ao serem consumidos.** Chás
-e vinhos preparados como "receitas incompletas" e depois completadas tornam-se, ao serem
-bebidos, uma forma de ganhar marcas do Dao permanentes.
-
-É uma via **lenta e segura**, alternativa à anexação de territórios — que é a via rápida e
-perigosa. O rendimento cai muito para cultivadores que já carregam marcas conflitantes, o que
-faz dela uma opção especialmente boa para quem está começando ou para quem se manteve
-"limpo".
+A revelação que eleva o caminho de utilidade a via de poder, em uma frase: **golpes e
+preparações de comida aplicados sobre si mesmo concedem marcas do Dao ao serem consumidos** —
+uma via lenta, segura e inteiramente dirigível, alternativa à anexação de territórios, que é a
+via rápida e perigosa. O mecanismo completo, com os números e os limites, está em
+[[20 - Food Path#1. Comer é o caminho lateral para ganhar marcas do Dao — e para gastá-las|A camada escondida]].
 
 Isso conecta o caminho diretamente aos **golpes totêmicos** descritos em [[08 - Killer Moves|Killer Moves]]:
 totens são padrões de marcas gravados no corpo **pela ingestão de materiais**, e o
 procedimento de aquisição de um totem pessoal é explicitamente **culinário** — uma preparação
 feita com ingredientes de altíssimo nível e técnicas de cozinha do caminho do refinamento
 revela quais nutrientes aquele corpo absorve melhor.
-
-Existe também uma rota mais exótica: um golpe de roubo captura as marcas caóticas de uma
-tribulação em curso e as fixa num material; **um golpe de comida depois consome esse material**,
-convertendo-o em marcas do [[25 - Heaven Path|caminho do céu]]. Comer é a etapa final de duas
-das cinco vias conhecidas de adquirir marcas do caminho mais difícil do mundo.
 
 ### Refino de essência por ingestão
 
@@ -95,10 +85,11 @@ vinhos supremos, **converte essência de nível 8 em essência de nível 9**.
 
 O caminho tem um uso ofensivo específico e devastador: existem golpes de comida que
 **atravessam a proteção estrutural de uma casa de Gu Imortal** — matam os Gu dentro dela **e**
-desintegram as reservas de essência dos cultivadores abrigados.
-
-Como quase nenhuma região desenvolveu defesa contra este caminho, é um vetor de ataque que
-funciona contra fortificações que resistem a tudo o mais.
+desintegram as reservas de essência dos cultivadores abrigados. Como quase nenhuma região
+desenvolveu defesa contra este caminho, é um vetor de ataque que funciona contra fortificações
+que resistem a tudo o mais. O repertório ofensivo completo, incluindo o degrau seguinte — a
+besta que **devora os golpes de amplificação** já ativados pelo inimigo —, está em
+[[20 - Food Path#4. O que ele faz com o arsenal alheio|A camada escondida]].
 
 ## A camada escondida
 
@@ -318,8 +309,9 @@ exatamente o que permite converter território em autonomia.
 - **Raridade de conhecimento.** O segredo que torna o caminho valioso também torna difícil
   entrar nele: as heranças verdadeiras são pouquíssimas e ninguém as vende de bom grado.
 - **O fundador não era humano.** A obra aponta isso como a causa histórica de o caminho nunca
-  ter se espalhado: ele nasceu com um imortal beastman, e a humanidade nunca o adotou. A
-  raridade não é acidente, é herança de origem.
+  ter se espalhado: ele nasceu com um imortal de uma **raça variante** — gente de linhagem
+  bestial, não humana pura —, e a humanidade nunca o adotou. A raridade não é acidente, é
+  herança de origem. Ver [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 - **Ganhar marcas comendo é lento.** Algumas dezenas de marcas por temporada, contra dezenas de
   milhares de uma provação. A própria obra chama isso de compensação parcial.
 - **Manter o insumo é caro.** Comprar comida rica em marcas no mercado sangra a economia de

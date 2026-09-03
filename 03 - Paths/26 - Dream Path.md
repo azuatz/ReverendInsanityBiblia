@@ -252,12 +252,9 @@ desvendar sonho, e a dissipação da vontade do céu aplicada a um reino inteiro
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[16 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
-O Gu de **desvendar sonho** merece nota porque suas limitações são bem documentadas: ele
-entrega uma resposta **precisa e correta** para o problema da fase **atual** — mas pode ser
-**parcial** (só os três primeiros passos de um processo), exigindo reativação e outro Gu comum
-para os seguintes. Em reinos de sonho de sobrevivência, o efeito é muito mais fraco: cura um
-pouco de ferimento em vez de dar respostas. E em reinos "realistas", com trechos narrativos
-fixos, é quase inútil.
+O Gu de **desvendar sonho** merece nota porque é o único do caminho cujas limitações a obra
+documenta em detalhe — elas estão na tabela de golpes de assinatura, mais abaixo, e valem a
+leitura antes de qualquer plano que dependa dele.
 
 ## Progressão por rank
 
@@ -315,11 +312,9 @@ Assumir forma fantasma não resolve: os Gu da borda continuam sendo devorados.
 - **Profecia real.** Existe uma categoria rara de reinos de sonho **proféticos**, que entregam
   profecias verdadeiras.
 
-E existe um método de altíssimo nível para **limpar a vontade do céu** de um reino inteiro:
-exige contato físico próximo — mãos a centímetros de distância, **nunca tocando**, porque
-tocar prenderia a alma do operador lá dentro. Em dez minutos cobre cerca de um décimo de um
-reino do tamanho de uma montanha; **três dias e noites contínuos** eliminam tudo. Depois,
-mantém-se um véu permanente que destrói automaticamente novas invasões.
+- **Faxina cosmológica.** Existe um método de altíssimo nível para **limpar a vontade do céu**
+  de um reino de sonho inteiro — descrito na tabela de golpes, acima. É a única operação do
+  cenário que retira a vontade do céu de um lugar em vez de apenas escondê-lo dela.
 
 ## Sinergias e fraquezas
 

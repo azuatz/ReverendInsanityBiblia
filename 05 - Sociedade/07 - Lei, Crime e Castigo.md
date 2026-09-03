@@ -82,8 +82,11 @@ uma jurisdição, e todos eles apoiados na mesma sanção final — a força de 
 
 ## Camada 1 — a lei de clã
 
-Esta camada já está descrita em [[02 - Clãs#Justiça interna|Clãs]]; aqui interessa completar
-o que aquela nota não cobre: **como um regimento de clã é escrito e usado**.
+Esta camada já está descrita em [[02 - Clãs#Justiça interna|Clãs]], do ponto de vista de quem
+vive dentro de um clã. Aqui ela reaparece porque esta é a nota de consulta da lei: alguns
+princípios essenciais estão repetidos de propósito, para que a escada de penas do fim da nota
+faça sentido sozinha, e o resto é o que aquela nota não cobre — **como um regimento de clã é
+escrito e usado**.
 
 **O regimento é escrito e citável.** Personagens invocam "as regras do clã" para justificar
 recusas e para forçar decisões — por exemplo, a regra de que um Mestre Gu só pode estar em
@@ -191,8 +194,9 @@ se acumulam em camadas, novos por cima de velhos amarelados, meio cobertos.
 
 **Por que não funciona.**
 
-- **Distância.** Um mandado emitido a milhares de li de distância é lido como notícia de
-  outro mundo. O leitor típico conclui, sem pensar, que aquilo não vai acontecer com ele.
+- **Distância.** Um mandado emitido a milhares de ==li== de distância — o li é a unidade de
+  distância deste mundo e vale meio quilômetro, de modo que "mil li" são quinhentos
+  quilômetros — é lido como notícia de outro mundo. O leitor típico conclui, sem pensar, que aquilo não vai acontecer com ele.
 - **Ruído.** Há mandados demais. Quem passa pelo portão da cidade não olha nenhum.
 - **Viés de espetáculo.** As pessoas esperam que um procurado seja um monstro célebre; dois
   cultivadores jovens de rank baixo não "parecem" procurados, e por isso passam.
@@ -299,7 +303,7 @@ Três detalhes que a obra registra e que uma mesa pode usar direto:
 - Que não existe lei do mundo — existe o regimento do lugar onde você está.
 - Que a punição de clã é comprada em pedras, e que o preço depende de quem é a vítima.
 - Que usar Gu numa briga interna é a linha que não se cruza dentro de uma organização.
-- Que existem investigadores itinerantes com autoridade sobre clãs, e que é péssimo ideia
+- Que existem investigadores itinerantes com autoridade sobre clãs, e que é péssima ideia
   mentir para um.
 - Que mandados de captura existem, que estão colados nas muralhas, e que quase ninguém olha.
 - Que render-se a uma força correta provavelmente significa escravidão, não morte — a menos
@@ -328,4 +332,5 @@ Três detalhes que a obra registra e que uma mesa pode usar direto:
 - [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — o dono da única lista mundial.
 - [[03 - Blood Path|Blood Path]] — o único crime com detecção automática e pena de morte.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a moeda em que as multas são cobradas; a fonte dos valores.
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto vale um li, e por que a distância é o que faz um mandado de captura não funcionar.
 - [[15 - Sociedade Fora das Cinco Regiões#Existe lei nesses lugares?|Sociedade Fora das Cinco Regiões]] — o que acontece nos espaços que não são território de ninguém.

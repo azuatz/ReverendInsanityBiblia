@@ -20,8 +20,16 @@ informa. Apagar tudo marcado com `*` devolve a nota a cem por cento canônico.
 **A regra que este caso ilustra:** as receitas de [[07 - Fusão de Gu|fusão]] não são
 sagradas nem completas — são ==tecnologia em evolução==, e um ingrediente extra
 descoberto por alguém pode elevar a taxa de sucesso de forma medível. Este é o caso que dá
-o número: **vinte pontos percentuais de taxa de sucesso** por um único material que a
+o número: **vinte pontos percentuais de taxa de sucesso** `(ded.)` por um único material que a
 receita oficial, com mais de mil anos de circulação, não mencionava.
+
+`(ded.)` **Por que "pontos percentuais" e não "vinte por cento".** A obra escreve "aumentando a
+taxa de sucesso em 20%", e a frase é ambígua em qualquer idioma: pode significar somar vinte
+pontos (de 40% para 60%) ou aumentar em um quinto o valor anterior (de 40% para 48%). Este
+material adota a **leitura por pontos**, porque é assim que a obra fala de taxa de refino em
+todas as outras passagens, e porque é a leitura que torna o ingrediente valioso o bastante para
+justificar o resto do caso. Se a sua mesa preferir a leitura relativa, o caso continua fazendo
+sentido — só fica menos dramático.
 
 ## A situação
 
@@ -50,7 +58,7 @@ garantia**. O que se compra é uma taxa menor de falha, nunca certeza.
 
 ## O método, passo a passo
 
-1. Alimentar a esfera de luz de fusão com pedras primordiais, uma a uma, até ela crescer
+1. Alimentar a esfera de luz de fusão com [[02 - Pedras Primordiais|pedras primordiais]], uma a uma, até ela crescer
    do tamanho de uma bacia ao de uma mó — a energia bruta que sustenta o processo.
 2. No ponto certo, lançar dentro dela a **presa de um rei-fera javali** — material que a
    receita conhecida não pede e que ninguém naquela época associava a esta fusão.

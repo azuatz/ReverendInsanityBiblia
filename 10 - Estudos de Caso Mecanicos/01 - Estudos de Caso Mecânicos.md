@@ -28,6 +28,28 @@ Os casos servem a três usos de mesa: **virar aventura pronta**, **virar regra o
 aparecem aqui apenas como "um cultivador de rank X" — o que interessa é a mecânica, nunca a
 história da obra.
 
+### Como usar esta pasta
+
+Ela não foi feita para ser lida de ponta a ponta. Três caminhos, conforme o que você precisa:
+
+- **Se você está começando a desenhar o sistema:** leia os treze casos de **rank baixo** logo
+  abaixo, na ordem em que estão. Eles usam recursos de rank 1 a 3, cabem numa primeira campanha,
+  e juntos ensinam o funcionamento cotidiano do mundo melhor que qualquer nota de regra. Os casos
+  de escala imortal (a partir do 39) só fazem sentido depois.
+- **Se você já tem uma regra na mesa e quer testá-la:** vá direto ao **Índice rápido: exceção ×
+  regra**, no fim desta nota. Ele responde numa linha se cada precedente é replicável por
+  qualquer personagem ou se dependeu de circunstância irrepetível — que é a pergunta que decide
+  se aquilo vira mecânica ou vira cenário.
+- **Se você quer material de sessão:** cada nota termina com um `> [!example] Regra proposta`,
+  em itálico, escrito para ser copiado direto para o seu documento de regras, e um
+  `> [!note] Para o design` dizendo o que aquele precedente destrava em jogo.
+
+Uma advertência de calibragem que vale antes de tudo: **quase todos estes casos terminam em
+sucesso**. Seis deles terminam em fracasso limpo — 09, 15, 19, 34, 44 e 45 — e são,
+justamente por isso, os mais didáticos do conjunto. Se você for extrair uma curva de
+dificuldade daqui, leia esses seis primeiro, para não construir um sistema em que o plano
+esperto sempre funciona.
+
 > [!note] Duas convenções que valem para a pasta inteira
 > - **`> [!example] Regra proposta`** — quase toda nota termina com uma regra de mesa
 >   escrita em duas ou três frases, em itálico. Ela é **nossa**, não da obra: é a tradução do
@@ -69,7 +91,7 @@ design para o sistema inteiro:
 4. **Recursos têm dupla função.** Um ataque inimigo pode ser matéria-prima; um refém pode ser
    escudo; uma derrota pública pode ser investimento em reputação.
 
-E duas regras de leitura que a pasta acrescenta:
+E **cinco** regras de leitura que a pasta acrescenta:
 
 5. **Quase nada compra certeza.** Preparação, dinheiro e talento compram **probabilidade**.
    Os pouquíssimos itens do mundo que garantem um resultado são tratados como lendários, e
@@ -102,11 +124,11 @@ mundo.
 | [[06 - Um Gu Acima do Próprio Rank\|Um Gu Acima do Próprio Rank]] | O sistema arbitra vontades, não rótulos — e a aura de um mentor torna um refino de dias em um de segundos. |
 | [[07 - Romper o Rank 2 por Teimosia e Pedras\|Romper o Rank 2 por Teimosia e Pedras]] | Aptidão baixa não fecha a porta: põe pedágio nela. O caso mais importante da pasta para a economia do cenário. |
 | [[08 - O Atalho Demoníaco de Rank\|O Atalho Demoníaco de Rank]] | Um rank inteiro comprado com dois pontos permanentes de aptidão. A curva moral do caminho demoníaco em números. |
+| [[09 - Comprar um Estágio de Cultivo com Todo o Futuro\|Comprar um Estágio de Cultivo com Todo o Futuro]] | O atalho mais caro do sistema — e o único caso em que a obra mostra um atalho sendo desfeito, derrubando dois ranks. |
+| [[10 - Comprar Aptidão com Cem Vidas\|Comprar Aptidão com Cem Vidas]] | A estatística "fixa" do sistema tem preço: sangue da própria linhagem, com rendimento decrescente. De 43% a 90% em seis horas. |
 | [[11 - Caçar o Que Não se Vê\|Caçar o Que Não se Vê]] | Tudo o que a invisibilidade não esconde — e como vencer por assimetria de recuperação. |
 | [[12 - Roubar o Gu de um Moribundo\|Roubar o Gu de um Moribundo]] | O custo de roubar um Gu cai conforme a vítima piora; e por que a ferramenta barata só rouba coisas baratas. |
 | [[13 - Fugir de um Enxame e Sair Montado\|Fugir de um Enxame e Sair Montado]] | Uma fuga é administração de orçamento: enxames têm um nó que se corta, lixo vira isca, e uma besta adormecida vira montaria. |
-| [[09 - Comprar um Estágio de Cultivo com Todo o Futuro\|Comprar um Estágio de Cultivo com Todo o Futuro]] | O atalho mais caro do sistema — e o único caso em que a obra mostra um atalho sendo desfeito, derrubando dois ranks. |
-| [[10 - Comprar Aptidão com Cem Vidas\|Comprar Aptidão com Cem Vidas]] | A estatística "fixa" do sistema tem preço: sangue da própria linhagem, com rendimento decrescente. De 43% a 90% em seis horas. |
 | [[14 - O Refém que Cura os Dois Lados\|O Refém que Cura os Dois Lados]] | Curar alguém com metade de um par e guardar a outra metade cria um contrato sem papel — que se renova sozinho. |
 
 ### Combate e estrutura
@@ -115,10 +137,10 @@ mundo.
 |---|---|
 | [[15 - A Barreira Que Deixa Sair e Não Deixa Entrar\|A Barreira Que Deixa Sair e Não Deixa Entrar]] | Toda proteção de mão única é arma em potencial contra o próprio dono. E todo dreno "simétrico" é assimétrico. |
 | [[16 - O Ambiente Manda Mais que o Rank\|O Ambiente Manda Mais que o Rank]] | Lugares que desligam categorias inteiras de ferramentas — e as isenções individuais que produzem massacres. |
-| [[18 - Emboscada de Um Contra Sete\|Emboscada de Um Contra Sete]] | Como se quebra um grupo especializado: pelo detector e pela confiança, não pelo mais forte. |
-| [[20 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo de arena e numa guerra de exércitos. |
 | [[17 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor que Devolve o Golpe]] | Atenção é um recurso separado da energia, e o teto dele é três. Manter é grátis; mudar é que custa caro. |
+| [[18 - Emboscada de Um Contra Sete\|Emboscada de Um Contra Sete]] | Como se quebra um grupo especializado: pelo detector e pela confiança, não pelo mais forte. |
 | [[19 - Perder de Propósito e Cobrar Caro\|Perder de Propósito e Cobrar Caro]] | Uma **derrota**: quem vai perder ainda escolhe entre tentar vencer e encarecer a vitória do outro. |
+| [[20 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo de arena e numa guerra de exércitos. |
 | [[21 - Um Trunfo que Nunca Foi Testado\|Um Trunfo que Nunca Foi Testado]] | Ninguém mede força, todo mundo a infere — e um blefe bem montado compra dois patamares de aparência. |
 
 ### Dinheiro, mercado e informação
@@ -129,9 +151,9 @@ mundo.
 | [[23 - Ganhar um Leilão Sem Ser o Maior Lance\|Ganhar um Leilão Sem Ser o Maior Lance]] | Três formatos de leilão, e em todos vence quem lê melhor as outras pessoas. |
 | [[24 - Colher a Flor Antes do Prazo\|Colher a Flor Antes do Prazo]] | Um tesouro que cresce, um pagamento que tem de ser à vista, e uma comunidade que morre junto. |
 | [[25 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, e vale zero quando todos a têm. |
+| [[26 - Dar de Graça o que Vai Vazar\|Dar de Graça o que Vai Vazar]] | Todo segredo tem prazo de validade. O que vai vazar em três dias se dá de graça; cobra-se o que não vaza sozinho. |
 | [[27 - A Conta de uma Calamidade\|A Conta de uma Calamidade]] | A planilha completa de um desastre: 666 km² perdidos, quarenta anos de atraso — e um cadáver que paga tudo. |
 | [[28 - Guerra de Preços\|Guerra de Preços]] | Por que possuir um artefato lendário é o mesmo que possuir um setor inteiro da economia. |
-| [[26 - Dar de Graça o que Vai Vazar\|Dar de Graça o que Vai Vazar]] | Todo segredo tem prazo de validade. O que vai vazar em três dias se dá de graça; cobra-se o que não vaza sozinho. |
 
 ### Palavra, reputação e organizações
 
@@ -165,12 +187,12 @@ rank baixo não sabe nada disto, e a maior parte serve ao mestre.
 | [[41 - Um Mortal Refina um Gu Imortal\|Um Mortal Refina um Gu Imortal]] | A unicidade dos artefatos é uma verificação em tempo real, e pode ser cronometrada. |
 | [[42 - Anexação de Aberturas\|Anexação de Aberturas]] | Fundação vence rank. Crescer para os lados adia crescer para cima. |
 | [[43 - Roubo de um Gu Imortal de Rank Superior\|Roubo de um Gu Imortal de Rank Superior]] | O roubo é o elo fácil da corrente; o relógio de três dias é o difícil. |
+| [[44 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda a Cada Teste]] | Um **fracasso**: há defesas que lucram com cada tentativa de arrombá-las, e só a segunda medição revela isso. |
+| [[45 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | Outro **fracasso**: a lista fechada do que bloqueia uma dedução — e por que acertar demais denuncia um patrono oculto. |
 | [[46 - Curar o Dano para Repetir o Dano\|Curar o Dano para Repetir o Dano]] | Ter o dano e a cura do dano converte um recurso finito em infinito — e o único freio é a fadiga do operador. |
 | [[47 - Escolher o Terreno da Própria Tribulação\|Escolher o Terreno da Própria Tribulação]] | A prova é montada com o material do terreno — e o céu aprende com quem já o explorou. |
 | [[48 - Fazenda de Tribulações\|Fazenda de Tribulações]] | Uma exploração em que as duas partes ganham de verdade, e mesmo assim uma delas é safra. |
 | [[49 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor: um explorador com hipóteses contra trinta e seis falhas. |
-| [[44 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda a Cada Teste]] | Um **fracasso**: há defesas que lucram com cada tentativa de arrombá-las, e só a segunda medição revela isso. |
-| [[45 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | Outro **fracasso**: a lista fechada do que bloqueia uma dedução — e por que acertar demais denuncia um patrono oculto. |
 
 ## O que todo personagem sabe
 
@@ -196,8 +218,7 @@ Isto muda a leitura do cenário e não deve ser distribuído: que os artefatos �
 destruído; que os espíritos guardiões avaliam **conduta acumulada** e não podem mentir; que
 a fundação vence o rank na disputa por territórios; que a provação de um cultivador é
 matéria-prima colhível por terceiros, e que existe quem fabrique provações em série para
-colhê-las; que possuir ao mesmo tempo um dano e a cura daquele dano torna infinito um recurso que deveria ser finito — inclusive a resistência de um prisioneiro a interrogatório; e que a vontade celeste **se adapta** a quem já a explorou. Junte a isto quatro
-segredos que as notas novas trazem: que a **aptidão não é fixa** e pode ser comprada com sangue
+colhê-las; que possuir ao mesmo tempo um dano e a cura daquele dano torna infinito um recurso que deveria ser finito — inclusive a resistência de um prisioneiro a interrogatório; e que a vontade celeste **se adapta** a quem já a explorou. Acrescente a isto mais quatro segredos: que a **aptidão não é fixa** e pode ser comprada com sangue
 da própria linhagem, o que significa que um clã inteiro pode ter sido plantado como safra; que,
 quando dois efeitos disputam a mesma estatística, vence sempre o de **rank mais alto**,
 independentemente da ordem — de modo que nenhum ganho comprado com um Gu de rank baixo é
@@ -207,58 +228,60 @@ sendo o mais forte deles simplesmente estar dentro de um mundo pequeno.
 
 ## Índice rápido: exceção × regra
 
-| Caso | Veredito |
+Se você só precisa saber **o que dá para replicar numa mesa**, esta tabela responde sem abrir
+nota nenhuma. O veredito completo, com as condições de cada um, está no callout
+`> [!warning] É exceção ou regra?` da nota correspondente. A ordem é a mesma da barra lateral.
+
+| Nota | Veredito |
 |---|---|
-| Punhos contra uma camada de defesa | **Regra** — depende de conhecer a capacidade da defesa |
-| O sapo de rank 5 | **Regra** — protocolos de instinto são pesquisáveis |
-| Gu implantado no corpo | **Regra** — categoria conhecida de uso, com preço corporal fixo |
-| Catalisador fora da receita | **Regra** — receitas são versões |
-| Gu acima do próprio rank (aura emprestada) | **Regra corrente e cotidiana**; a versão passiva é exceção rara |
-| Avanço forçado por disciplina e pedras | **Regra**, mas só na ruptura 1 → 2 e a preço proibitivo — troca potência por tempo e dinheiro, **nunca talento por dinheiro** |
-| Avanço forçado por ritual demoníaco | **Regra** — materiais comuns, custo permanente |
-| Caçar o que não se vê | **Regra** — não exige item nenhum |
-| Roubar o Gu de um moribundo | **Regra**, limitada pelo rank da ferramenta |
-| Barreira de mão única | **Regra universal** — toda assimetria é arma |
-| O ambiente manda mais que o rank | **Regra ambiental universal**, com isenções individuais nomeadas |
-| Emboscada de um contra sete | **Regra tática**, dependente de informação prévia |
-| Guerra de custos | **Regra estrutural** — define um caminho inteiro |
-| Aposta de rochas | **Regra** — instituição estável; o álibi é o produto real |
-| Leilões | **Regra**, nos três formatos |
-| Colher a flor antes do prazo | **Regra** — recurso vivo, pagamento à vista, fonte destruída |
-| Comprar antes que seja notícia | **Regra corrente e legal** |
-| A conta de uma calamidade | **Regra** — o balanço é sempre deste formato; o artefato da criatura decide o sinal |
-| Guerra de preços | **Regra** de mercado; excepcional é possuir a fonte |
-| Brechas de contrato | **Regra absoluta e universal** |
-| Reputação em prestações | **Regra estruturante** — com preço de tabela |
-| Chantagem e extorsão | **Regra corrente**, e simétrica contra os jogadores |
-| Infiltração | **Regra dos dois lados da mesa** |
-| Receita lendária com substitutos | **Regra** quanto ao princípio; exceção quanto à coincidência |
-| Golpe mal testado | **Regra dura** — é a trava de equilíbrio do sistema de golpes |
-| Do golpe à formação | **Regra geral de engenharia de efeitos** |
-| Multiplicadores de refino | **Regra** — nenhum preparo compra certeza, exceto um item com cláusulas |
-| Linha de produção | **Regra** — replicável com capital, mão de obra e receita exclusiva |
-| Gu que escolhe o portador | **Regra** quanto ao princípio; exceção quanto ao lugar |
-| As três chances do espírito guardião | **Regra** — depende só de informação |
-| Território — enganar | **Regra** — barata e confiável |
-| Território — suprimir | **Regra** — cara, deixa rastro |
-| Território — invadir e pedir | **Não funciona** — trava independente |
-| Refino de Gu Imortal por um não-imortal | Exceção extrema; princípio replicável |
-| Anexação de aberturas | **Regra** do sistema; fundação excepcional. O limiar real é o attainment |
-| Roubo de artefato de rank superior | Estrutura é regra; alvo foi exceção |
-| Curar o dano para repetir o dano | **Regra econômica**; a escala industrial é exceção |
-| Terreno da tribulação | **Regra** para quem escolhe onde ascender |
-| Fazenda de provações | Princípio é regra; escala é exceção |
-| Reino de sonho | Método é regra; a escala imortal é exceção de fundação |
-| Fuga por gerenciamento de recursos | **Regra** — o que é raro é o repertório, não o poder |
-| Liquidar o potencial da abertura | **Regra** do sistema; o item é que é raro e de uso único |
-| Comprar aptidão com sangue de linhagem | **Regra**, com pré-requisito de séculos — é um projeto, não uma técnica |
-| Refém mútuo por Gu pareado | **Regra** quanto ao princípio; exceção quanto à oportunidade |
-| Sobrecarregar o defensor por multitarefa | **Regra estrutural** — o teto de atenção vale para todo Mestre Gu |
-| Perder de propósito e cobrar caro | **Regra**, e das mais replicáveis; a oportunidade é que foi excepcional |
-| Vender informação perecível | **Regra corrente e legal** do mercado de informação |
-| Blefe de patamar por aparência | **Regra geral** — sinais de poder são leituras, e leituras se fabricam |
-| Armadilha que se autoalimenta | Método é **regra**; a construção é exceção de altíssimo nível |
-| Falha de adivinhação | **Regra do sistema** — a lista de bloqueios é fechada e o teto é por rank |
+| [[02 - Punhos Contra uma Camada de Defesa\|Punhos Contra uma Camada de Defesa]] | **Regra** — depende de conhecer a capacidade da defesa |
+| [[03 - O Sapo de Rank 5 Que Ninguém Podia Tocar\|O Sapo de Rank 5 Que Ninguém Podia Tocar]] | **Regra** — protocolos de instinto são pesquisáveis |
+| [[04 - Um Gu Implantado no Corpo\|Um Gu Implantado no Corpo]] | **Regra** — categoria conhecida de uso, com preço corporal fixo |
+| [[05 - O Catalisador Fora da Receita\|O Catalisador Fora da Receita]] | **Regra** — receitas são versões, não verdades |
+| [[06 - Um Gu Acima do Próprio Rank\|Um Gu Acima do Próprio Rank]] | **Regra corrente e cotidiana**; a versão passiva é exceção rara |
+| [[07 - Romper o Rank 2 por Teimosia e Pedras\|Romper o Rank 2 por Teimosia e Pedras]] | **Regra**, mas só na ruptura 1 → 2 e a preço proibitivo — troca potência por tempo e dinheiro, **nunca talento por dinheiro** |
+| [[08 - O Atalho Demoníaco de Rank\|O Atalho Demoníaco de Rank]] | **Regra** — materiais comuns, custo permanente em aptidão |
+| [[09 - Comprar um Estágio de Cultivo com Todo o Futuro\|Comprar um Estágio de Cultivo com Todo o Futuro]] | **Regra** do sistema; o item é que é raro e de uso único |
+| [[10 - Comprar Aptidão com Cem Vidas\|Comprar Aptidão com Cem Vidas]] | **Regra**, com pré-requisito de séculos — é um projeto de linhagem, não uma técnica |
+| [[11 - Caçar o Que Não se Vê\|Caçar o Que Não se Vê]] | **Regra** — não exige item nenhum |
+| [[12 - Roubar o Gu de um Moribundo\|Roubar o Gu de um Moribundo]] | **Regra**, limitada pelo rank da ferramenta |
+| [[13 - Fugir de um Enxame e Sair Montado\|Fugir de um Enxame e Sair Montado]] | **Regra** — o que é raro é o repertório, não o poder |
+| [[14 - O Refém que Cura os Dois Lados\|O Refém que Cura os Dois Lados]] | **Regra** quanto ao princípio; exceção quanto à oportunidade |
+| [[15 - A Barreira Que Deixa Sair e Não Deixa Entrar\|A Barreira Que Deixa Sair e Não Deixa Entrar]] | **Regra universal** — toda assimetria é arma contra o próprio dono |
+| [[16 - O Ambiente Manda Mais que o Rank\|O Ambiente Manda Mais que o Rank]] | **Regra ambiental universal**, com isenções individuais nomeadas |
+| [[17 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor que Devolve o Golpe]] | **Regra estrutural** — o teto de atenção vale para todo Mestre Gu |
+| [[18 - Emboscada de Um Contra Sete\|Emboscada de Um Contra Sete]] | **Regra tática**, dependente de informação prévia — e sem números na obra |
+| [[19 - Perder de Propósito e Cobrar Caro\|Perder de Propósito e Cobrar Caro]] | **Regra**, e das mais replicáveis; a oportunidade é que foi excepcional |
+| [[20 - Guerra de Custos\|Guerra de Custos]] | **Regra estrutural** — define um caminho inteiro |
+| [[21 - Um Trunfo que Nunca Foi Testado\|Um Trunfo que Nunca Foi Testado]] | **Regra geral** — sinais de poder são leituras, e leituras se fabricam |
+| [[22 - Aposta de Rochas - Heurística, Perda e Álibi\|Aposta de Rochas - Heurística, Perda e Álibi]] | **Regra** — instituição estável; o álibi é o produto real |
+| [[23 - Ganhar um Leilão Sem Ser o Maior Lance\|Ganhar um Leilão Sem Ser o Maior Lance]] | **Regra**, nos três formatos de leilão |
+| [[24 - Colher a Flor Antes do Prazo\|Colher a Flor Antes do Prazo]] | **Regra** — recurso vivo, pagamento à vista, fonte destruída |
+| [[25 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | **Regra corrente e legal** |
+| [[26 - Dar de Graça o que Vai Vazar\|Dar de Graça o que Vai Vazar]] | **Regra corrente e legal** do mercado de informação |
+| [[27 - A Conta de uma Calamidade\|A Conta de uma Calamidade]] | **Regra** — o balanço é sempre deste formato; o artefato da criatura decide o sinal |
+| [[28 - Guerra de Preços\|Guerra de Preços]] | **Regra** de mercado; excepcional é possuir a fonte de produção |
+| [[29 - Brechas de Contrato Mágico\|Brechas de Contrato Mágico]] | **Regra absoluta e universal** |
+| [[30 - Reputação Comprada em Prestações\|Reputação Comprada em Prestações]] | **Regra estruturante** — e com preço de tabela |
+| [[31 - Chantagem e Extorsão por Informação\|Chantagem e Extorsão por Informação]] | **Regra corrente**, e simétrica contra os jogadores |
+| [[32 - Infiltrar-se numa Organização\|Infiltrar-se numa Organização]] | **Regra dos dois lados da mesa** |
+| [[33 - Uma Receita Lendária Cumprida com Substitutos\|Uma Receita Lendária Cumprida com Substitutos]] | **Regra** quanto ao princípio; exceção quanto à coincidência de materiais |
+| [[34 - Um Golpe Mal Testado Usado Além do Limite\|Um Golpe Mal Testado Usado Além do Limite]] | **Regra dura** — é a trava de equilíbrio do sistema de golpes |
+| [[35 - Do Golpe à Formação\|Do Golpe à Formação]] | **Regra geral** de engenharia de efeitos |
+| [[36 - Todos os Multiplicadores de um Refino\|Todos os Multiplicadores de um Refino]] | **Regra** — nenhum preparo compra certeza, exceto um item com cláusulas |
+| [[37 - A Linha de Produção de Gu\|A Linha de Produção de Gu]] | **Regra** — replicável com capital, mão de obra e receita exclusiva |
+| [[38 - O Gu Que Escolhe o Portador\|O Gu Que Escolhe o Portador]] | **Regra** quanto ao princípio; exceção quanto ao lugar |
+| [[39 - As Três Chances de um Espírito Guardião\|As Três Chances de um Espírito Guardião]] | **Regra** — depende só de informação |
+| [[40 - Tomar um Território pelas Três Vias\|Tomar um Território pelas Três Vias]] | Três vereditos numa nota: **enganar** é regra barata e confiável; **suprimir** é regra cara e deixa rastro; **invadir e pedir** simplesmente **não funciona** |
+| [[41 - Um Mortal Refina um Gu Imortal\|Um Mortal Refina um Gu Imortal]] | **Exceção** extrema quanto ao operador; princípio replicável |
+| [[42 - Anexação de Aberturas\|Anexação de Aberturas]] | **Regra** do sistema; fundação excepcional. O limiar real é o attainment |
+| [[43 - Roubo de um Gu Imortal de Rank Superior\|Roubo de um Gu Imortal de Rank Superior]] | Estrutura é **regra**; o alvo é que foi exceção |
+| [[44 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda a Cada Teste]] | Método é **regra**; a construção é exceção de altíssimo nível |
+| [[45 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | **Regra do sistema** — a lista de bloqueios é fechada e o teto é por rank |
+| [[46 - Curar o Dano para Repetir o Dano\|Curar o Dano para Repetir o Dano]] | **Regra econômica**; a escala industrial é exceção |
+| [[47 - Escolher o Terreno da Própria Tribulação\|Escolher o Terreno da Própria Tribulação]] | **Regra** para quem escolhe onde ascender |
+| [[48 - Fazenda de Tribulações\|Fazenda de Tribulações]] | Princípio é **regra**; a escala é exceção |
+| [[49 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]] | Método é **regra**; a escala imortal é exceção de fundação |
 
 ## Relações
 

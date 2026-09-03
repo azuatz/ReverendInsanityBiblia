@@ -113,10 +113,6 @@ menos importante. Debaixo dela existe um conjunto de funções que a descrição
 **guardar**, **dobrar**, **prender**, **fabricar lugar** e **atravessar a maior barreira
 geográfica do mundo**. Vamos por partes.
 
-> **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que a
-> obra afirma; `(ded.)` é dedução segura; `*` é indução nossa sem base textual; `—` é lacuna
-> declarada da fonte. Apagar tudo marcado com `*` devolve o documento a cem por cento canônico.
-
 ### 1. Espaço é o que faz a abertura imortal ser grande
 
 `conhecimento: especializado`
@@ -319,7 +315,6 @@ caminho certo, a dedução não acontece.
 | **Golpes de captura com selagem** | imortal | Prendem e imobilizam alvos de até nível 5 — **desde que o alvo tenha sido previamente marcado** com um Gu-âncora. Não se prende um estranho |
 | **Espaço de batalha** | 5 (selvagem) | Puxa usuário e alvo para um **espaço isolado**, do qual nenhum dos dois sai antes de a questão se resolver |
 | **Dobra de distância por marcas** | efeito de terreno | Concentrar marcas do Dao do espaço num ponto faz a **distância real deixar de coincidir com a aparente**: dezenas de passos viram uma distância gigantesca. Leva décadas para montar e é desfeito por golpes de força ou por tribulação |
-
 
 ## Em combate e fora dele
 

@@ -260,7 +260,7 @@ Vale registrar o eco, porque ele calibra a escala do mundo: alguns anos depois d
 de catástrofes ter liquidado três clãs centenários de uma mesma montanha, moradores de outra
 região citam o episódio como fato consumado e banal — *clãs novos sobem e clãs velhos são
 eliminados.* **Uma catástrofe que apaga três clãs centenários é notícia de mesa de bar a
-algumas centenas de quilômetros de distância.**
+algumas centenas de li de distância** — pouco mais de cem quilômetros `(ded.)`.
 
 ## Por que aquela vila fica exatamente ali?
 

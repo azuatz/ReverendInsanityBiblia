@@ -31,7 +31,7 @@ vazamento; aqui se **vende** antes dele.
 Um cultivador de rank baixo sabe, por meios que não pode explicar, duas coisas de valor muito
 diferente sobre um sítio de herança que várias potências estão de olho:
 
-- **Pedaço A** — que aquele sítio é, na verdade, a terra abençoada de um imortal de rank 6.
+- **Pedaço A** — que aquele sítio é, na verdade, a [[13 - Blessed Lands e Grotto-Heavens|terra abençoada]] de um imortal de rank 6: o mundo pessoal em miniatura que a abertura de um cultivador vira quando ele ascende, com céu, terra e recursos próprios. É o tipo de informação por que se mata.
   Uma bomba. E também uma informação que, segundo o cálculo dele, *em poucos dias as pessoas
   vão começar a entender por conta própria*.
 - **Pedaço B** — detalhes operacionais do **interior** da herança: o que há lá dentro, e o que
@@ -72,7 +72,7 @@ A resposta do comprador é uma pequena aula de precificação sob incerteza, e v
 raciocínio: para informação sobre a herança de um imortal de rank 6, quatrocentos mil é *pouco
 demais* — **mas** a confiabilidade da informação ainda não foi confirmada. Portanto: *vou lhe
 passar quatrocentos mil primeiro. Depois de um tempo, quando for avaliada, não se preocupe,
-com seu irmão Wei aqui, você não sairá perdendo.*
+com o intermediário do clã aqui, você não sairá perdendo.*
 
 Ou seja: **adiantamento agora, complemento depois da verificação em campo.** Dias mais tarde o
 complemento foi de fato pago — *a informação que ele forneceu ajudou muito as equipes do clã, e

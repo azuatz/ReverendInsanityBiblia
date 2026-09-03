@@ -80,10 +80,10 @@ sua, usando o sangue de linhagem como veículo. Isso explica as três caracterí
 método de uma vez só:
 
 - **Por que precisa ser da linhagem** — o veículo é o parentesco de sangue; sem ele, não há
-  compatibilidade. (ded.)
+  compatibilidade. `(ded.)`
 - **Por que rende cada vez menos** — quanto mais alta a sua aptidão já está, menos um
   descendente comum tem a acrescentar. A curva é decrescente porque o doador é sempre da
-  mesma qualidade e o receptor sobe. (ded.)
+  mesma qualidade e o receptor sobe. `(ded.)`
 - **Por que exige cem pessoas por carga** — o Gu tem capacidade fixa de armazenamento, e um
   único corpo não move o ponteiro. A obra dá o número; ela não explica a razão. `—`
 

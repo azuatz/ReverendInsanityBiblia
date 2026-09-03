@@ -193,7 +193,7 @@ O que muda em relação ao mundo normal, em forma de lista — é isto que vira 
     travar batalha suficientemente intensa dentro dela, gera uma maré nova e local. Isto é,
     o próprio conflito pode produzir a catástrofe que interrompe o conflito.
 12. **A parede de vento celestial afina junto.** As marés abrem buracos temporários na
-    barreira que separa o mundo dos céus acima dele, o que permite a um Gu Imortal fraco
+    parede que separa o mundo dos céus acima dele, o que permite a um Gu Imortal fraco
     subir e coletar materiais lá em cima — desde que **vigie o buraco sem parar** para
     voltar antes de ele fechar. É um cenário fechado com cronômetro embutido.
 
@@ -226,31 +226,35 @@ mortais — a vida. A obra é clara ao dizer que forças mortais inteiras foram 
 
 **Para o mundo, depois.** A fusão das veias produz **dez terrenos subterrâneos novos**,
 coletivamente chamados de **as Dez Terras**, que passam a funcionar como âncoras da rede
-subterrânea do mundo: *Earth Abyss*, *Earth Trench*, *Earth Tunnel*, *Earth Cave*, *Earth
-Prison*, *Production Earth*, *Flying Earth*, *Formation Earth*, *Treasure Earth* e *Tomb
-Earth*. Nem todas são descritas — quatro só aparecem como nome. As que a obra descreve
-valem por si:
+subterrânea do mundo: **Abismo da Terra** (*Earth Abyss*), **Trincheira da Terra** (*Earth
+Trench*), **Túnel da Terra** (*Earth Tunnel*), **Caverna da Terra** (*Earth Cave*), **Prisão da
+Terra** (*Earth Prison*), **Terra de Produção** (*Production Earth*), **Terra Voadora**
+(*Flying Earth*), **Terra de Formação** (*Formation Earth*), **Tesouraria da Terra**
+(*Treasure Earth*) e **Terra-Túmulo** (*Tomb Earth*). A obra descreve **cinco** — a
+Trincheira da Terra é a mesma fenda terrestre da fase um deste evento, e as outras quatro vêm
+abaixo; as **cinco restantes** existem só como nome. A lista inteira, com o mesmo recorte,
+está em [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]].
 
-- **Earth Abyss** — abismo subterrâneo gigantesco, de centenas de milhares de quilômetros
+- **Abismo da Terra** — abismo subterrâneo gigantesco, de centenas de milhares de quilômetros
   quadrados, organizado **em camadas superpostas**: já se conheciam **107 camadas** sem que
   ninguém soubesse quantas mais havia. Quanto mais fundo, mais bestas desoladas imemoriais.
   Cavernas, túneis labirínticos, lagos subterrâneos gigantes. É um megadungeon pronto.
-- **Flying Earth** — uma ilha pequena, presa a uma veia da terra por pilares de rocha.
+- **Terra Voadora** — uma ilha pequena, presa a uma veia da terra por pilares de rocha.
   Destruídos os pilares, a ilha se solta e **viaja com o fluxo da veia em velocidade
   extrema** — mas **sem controle de direção**: segue o trajeto, que atravessa o mundo por
   baixo. Existe um método para dirigi-la e pará-la, e ele é raríssimo.
-- **Treasure Earth** (também chamada *Earth Treasury*) — uma câmara esférica subterrânea
+- **Tesouraria da Terra** (*Treasure Earth*, também *Earth Treasury*) — uma câmara esférica subterrânea
   riquíssima em materiais imortais raros e **extintos**, de vários caminhos ao mesmo tempo,
   formada sem nenhuma intervenção humana. Cada uma tem veias de sangue da terra convergindo
   para um núcleo, e **em cada núcleo há um material imortal de rank 9 do caminho da sorte**.
   Não é refúgio: quem está lá dentro continua dentro de uma veia da terra, com o fluxo
   violento de qi de terra ao redor.
-- **Tomb Earth** — a mais misteriosa das dez, e nem quem escreveu o tratado sobre as Dez
+- **Terra-Túmulo** — a mais misteriosa das dez, e nem quem escreveu o tratado sobre as Dez
   Terras entendeu como ela se forma. A regra central: **Gu Imortais podem reviver ali** —
   e revivem junto com os Gu Imortais que tinham em vida. Cada uma tem lápides que parecem
   extrair do rio do tempo a informação inteira da vida do morto, e **quanto mais famoso o
   morto, mais detalhada a lápide** — o que aparentemente ajuda mais na revivificação.
-  Pedaços de Tomb Earth colhidos podem ser usados para construir um cemitério imortal
+  Pedaços de terra-túmulo colhidos podem ser usados para construir um cemitério imortal
   artificial, onde experts históricos ficam adormecidos e são despertados em emergência.
 
 Duas regras de subsolo valem para tudo isto: onde as **marcas de terra são muito densas,
@@ -377,8 +381,8 @@ mesa é este:
   convite explícito à designer para decidir.
 - **O que acontece com as terras abençoadas e os domínios reclusos** no momento em que as
   regiões se unem.
-- **Quatro das Dez Terras** — *Earth Prison*, *Earth Cave*, *Production Earth* e *Formation
-  Earth* — só aparecem como nome, sem uma linha de descrição.
+- **Cinco das Dez Terras** — Túnel, Caverna, Prisão, Produção e Formação da Terra — só
+  aparecem como nome, sem uma linha de descrição.
 - **Quantos humanos, quantas vilas, quantas organizações se perderam.** A obra fala em
   "incontáveis" e não quantifica.
 

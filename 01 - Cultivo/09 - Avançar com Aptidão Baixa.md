@@ -153,8 +153,9 @@ A obra documenta receitas que **forçam um rank inteiro de avanço** por sacrif�
 ritual. O caso mais detalhado exige devorar ritualmente uma vítima específica por meio
 de um animal escravizado, e entrega o salto de rank imediatamente.
 
-- **Preço:** perda **permanente** de aptidão — cerca de dois pontos percentuais, que não
-  voltam nem com purificação. Você troca teto futuro por poder agora.
+- **Preço:** perda **permanente** de aptidão — **um a dois pontos percentuais** (a obra dá os
+  dois números em passagens diferentes; as [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]]
+  adotam um), que não voltam nem com purificação. Você troca teto futuro por poder agora.
 - **Leitura de design:** é o arquétipo perfeito de escolha faustiana jogável. O
   personagem fica mais forte hoje e menor amanhã, e a conta chega em décadas.
 
@@ -172,8 +173,6 @@ custo**, usando efeitos que a reserva do personagem não sustentaria.
 Quem nasce com uma [[10 - As Dez Constituições Extremas|constituição extrema]] tem 100% de
 capacidade e ignora o problema inteiro — mas herda outro, geralmente fatal. Não é rota
 de contorno: é uma categoria à parte, e quase sempre uma tragédia.
-
----
 
 ---
 
@@ -284,7 +283,7 @@ Nem toda saída do mundo mortal passa pela ascensão comum:
 | Subir estágios antes | ruptura viável | anos | escolha entre pressa e segurança |
 | Essência emprestada | ruptura imediata | contamina o potencial futuro | favor que vira dívida |
 | Pedras primordiais | velocidade | dinheiro | motor econômico da campanha |
-| Ritual de avanço forçado | um rank inteiro | −2 pontos de aptidão, permanente | pacto faustiano |
+| Ritual de avanço forçado | um rank inteiro | −1 a −2 pontos de aptidão, permanente | pacto faustiano |
 | Trocar combustível | efeitos acima do rank | recurso mais caro que energia | build alternativa |
 
 > [!warning] O que nenhum método faz

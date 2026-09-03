@@ -65,6 +65,20 @@ Some-se a isso a raridade: a obra diz que aquele grande leilão seria provavelme
 oportunidade de troca de Gu Imortais em larga escala pelos duzentos anos seguintes**. As trocas
 só ficam frequentes em tempo de guerra generalizada.
 
+> [!warning] A trava canônica destes cenários
+> É a **trava 10** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *a trégua obrigatória*, na
+> versão comercial: dentro de um leilão, de uma convenção fechada ou de um banquete anual,
+> **ninguém quebra a paz da casa**. A obra mostra o caso extremo — um cultivador demoníaco
+> aparece num banquete e vende abertamente um Gu proibido, à vista de inimigos declarados, e
+> **não é atacado**, porque o evento é do anfitrião. No mercado permanente a trava é ainda mais
+> forte e é técnica: ninguém tem rosto ali, e nem a maior instituição do mundo consegue impedir
+> um fugitivo procurado de negociar em praça pública.
+>
+> É isso que permite a um grupo pequeno estar na mesma sala que as pessoas mais poderosas do
+> mundo — e é isso que o mestre deve dizer à mesa antes da primeira cena, para que os jogadores
+> saibam que a arma ali é a conversa.
+
 ## A regra de ouro de toda a economia de topo
 
 Antes de qualquer coisa, a regra que organiza tudo:
@@ -204,7 +218,7 @@ Os detalhes de mesa são excelentes:
 
 ## Formato 4 — o mercado permanente
 
-O maior mercado do mundo imortal não fica em lugar nenhum: é uma caverna-céu **vazia**, sem
+O maior mercado do mundo imortal não fica em lugar nenhum: é uma gruta-céu **vazia**, sem
 montanhas, árvores nem rios, sem aves, feras, insetos ou peixes — só tesouros dentro. Chama-se, na
 tradução, ==tesouro celestial amarelo==.
 

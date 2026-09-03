@@ -38,17 +38,17 @@ solicitado a localizar a mesma pessoa. Duas vezes ele falha: *não consegui dedu
 1. **Enunciar as hipóteses possíveis, em voz alta.** Na primeira vez: *há duas razões possíveis
    para eu não conseguir deduzir. A primeira é que a outra parte não está nesta região. A
    segunda é que ela tem técnicas de caminho da sabedoria capazes de ocultá-la das minhas
-   deduções — ou talvez consiga encontrar outros Imortais Gu de caminho da sabedoria para
+   deduções — ou talvez consiga encontrar outros Imortais de caminho da sabedoria para
    ajudá-la a evadir.* Os presentes descartaram as duas como *forçadas demais*.
 2. **Errar, e a obra mostra por quê.** Naquele momento, o alvo estava **fora da região** *e*
    dentro de uma terra abençoada — e a segunda causa, a terra abençoada, **não estava na lista
    dele**. Ele acertou uma das duas pernas por acaso, e a hipótese que faltava era justamente a
    decisiva.
 3. **Corrigir a própria lista, anos depois.** Na segunda vez, ele acrescenta o item que faltava:
-   *toda abertura imortal é um mundo pequeno, isolada do mundo exterior. Eu tenho apenas rank 7,
+   *toda [[02 - Abertura|abertura imortal]] é um mundo pequeno, isolada do mundo exterior. Eu tenho apenas rank 7,
    não é estranho que eu não consiga deduzir.* Desta vez ambas as pernas estavam certas.
 4. **Recusar-se a deduzir por etiqueta.** Antes de tentar, ele registra uma regra social do
-   ofício: *vai contra os costumes e as boas maneiras de nós, Imortais Gu do caminho da
+   ofício: *vai contra os costumes e as boas maneiras de nós, Imortais do caminho da
    sabedoria, fazer deduções sobre um especialista assim de forma abrupta. Se eu for descuidado,
    podemos atrair a animosidade da outra parte e criar um forte inimigo de caminho da sabedoria
    para o nosso clã.* Adivinhar alguém é, socialmente, algo entre invadir uma casa e declarar
@@ -93,7 +93,7 @@ cultivador de rank 6 que, num único diálogo, encenou as duas coisas:
 
 - **um sucesso falso** — ele já sabia a resposta por outra via, e a apresentou como dedução,
   *fingindo estar se esforçando*, com o corpo coberto de luz estelar. O interlocutor comprou:
-  *o nível de attainment dele em caminho da sabedoria não é baixo!*
+  *o nível de [[08 - Attainment|attainment]] dele em caminho da sabedoria não é baixo!*
 - **uma falha falsa** — testado logo em seguida com uma pergunta cuja resposta ele também sabia,
   ele *fingiu deduzir, agiu como se tivesse encontrado dificuldade e, por fim, admitiu o
   fracasso*.

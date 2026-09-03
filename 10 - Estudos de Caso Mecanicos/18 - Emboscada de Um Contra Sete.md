@@ -30,6 +30,18 @@ um investigador (detecção e reconhecimento), um líder, um combatente de linha
 curandeiro, um defensor e apoios. O atacante tem informação privilegiada sobre eles — que é
 o recurso que a obra trata como decisivo — e um trunfo que ainda não revelou.
 
+> [!question] Este caso não tem números, e isso é informação
+> Ao contrário de quase todos os outros desta pasta, a obra narra esta emboscada **sem
+> quantificar nada**: não declara o rank do atacante nem o dos sete, não dá o custo de essência
+> de nenhuma ação, não conta as trocas de golpe e nunca nomeia o "trunfo" guardado. As duas
+> únicas grandezas firmes são **um contra sete** e a **composição de papéis** do esquadrão.
+>
+> Trate-o, portanto, como **padrão tático** e não como orçamento: ele ensina a sequência de
+> decisões de quem ataca um grupo especializado, e a designer é livre para atribuir ranks e
+> custos, porque não há cânone a contradizer. Para a mesma lição com aritmética à vista, veja
+> [[20 - Guerra de Custos|Guerra de Custos]] e
+> [[17 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor que Devolve o Golpe]].
+
 ## O método, passo a passo
 
 1. **Desestabilizar antes de bater.** Ele abre revelando em voz alta um segredo interno

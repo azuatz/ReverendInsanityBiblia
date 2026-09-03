@@ -93,9 +93,13 @@ dentro, e a obra dá quatro regras completas para arbitrá-lo.
    do fogo. Não é sucata: é a coisa mais valiosa que a maioria dos personagens vai ver na
    vida.
 2. **Para manuseá-lo é preciso ser, no mínimo, um grande especialista de rank 8 do caminho
-   do fogo.** Qualquer outra pessoa que toque queima. É por isso que o cenário funciona em
-   rank baixo: **os personagens fracos não competem pela posse, competem pela localização,
-   pela escolta e pela venda.**
+   do fogo.** Qualquer outra pessoa que toque queima. Esta é **a trava canônica do cenário** — a
+   **trava 18** do cardápio da
+   [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *o prêmio que os fracos
+   não podem tocar*: como a posse está fora de alcance, os poderosos disputam a posse entre si e
+   deixam livre tudo o que está em volta dela. **Os personagens fracos não competem pela posse,
+   competem pela localização, pela escolta e pela venda** — e não há ninguém acima deles nesse
+   mercado.
 3. **A chuva cai preferencialmente onde já há marcas compatíveis.** Ela é muito mais intensa
    no Deserto Ocidental, que tem mais marcas do caminho do fogo, e muito mais rara no Mar
    Oriental, que tem mais marcas do caminho da água. Isto é um mapa de distribuição pronto:

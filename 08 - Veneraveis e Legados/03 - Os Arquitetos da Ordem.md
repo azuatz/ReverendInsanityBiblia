@@ -9,7 +9,7 @@ aliases:
   - Venerável Imortal Constelação Estelar
   - Paradise Earth Immortal Venerable
 status: consolidado
-fontes: ["cap. 467", "cap. 490", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 704", "cap. 780", "cap. 788", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 1010", "cap. 1015", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1367", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2062", "cap. 2085", "cap. 2296", "cap. 2328", "cap. 657", "cap. 996", "cap. 1017", "cap. 1338", "cap. 1462", "cap. 1468-1469", "cap. 1475-1476", "cap. 2229-2231"]
+fontes: ["cap. 467", "cap. 490", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 657", "cap. 686", "cap. 704", "cap. 780", "cap. 788", "cap. 818", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 996", "cap. 1010", "cap. 1015", "cap. 1017", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1323", "cap. 1338", "cap. 1367", "cap. 1462", "cap. 1468-1469", "cap. 1475-1476", "cap. 1649", "cap. 1693", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2001", "cap. 2055", "cap. 2059", "cap. 2062", "cap. 2085", "cap. 2086", "cap. 2109", "cap. 2197", "cap. 2203", "cap. 2204", "cap. 2229-2231", "cap. 2296", "cap. 2328"]
 conhecimento: especializado
 ---
 
@@ -19,13 +19,16 @@ conhecimento: especializado
 
 Cada um fez uma coisa, e vale separá-las antes de entrar nos nomes:
 
-- **Primordial Origin** inventou as instituições e a moeda.
+- **Primordial Origin** inventou as instituições, a moeda e os dois primeiros caminhos de cultivo da história.
 - **Star Constellation** inventou a inteligência como disciplina, e depois prendeu a lei do céu numa trava política que dura até hoje.
-- **Paradise Earth** montou, dentro dessa ordem já pronta, as ferramentas de informação e a instituição de missões que ainda emprega herdeiros.
+- **Paradise Earth** montou, dentro dessa ordem já pronta, as ferramentas de informação, a arena que substitui a guerra e a instituição de missões que ainda emprega herdeiros.
 
 Os três são da via correta e estão entre os dez listados em [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]], onde está a tabela completa com os outros sete, em ordem de era. Aqui interessa apenas o que restou deles no mundo.
 
-Os dois primeiros são da **Antiguidade Remota** e **fundaram** a ordem; Paradise Earth é da **Antiguidade Tardia** e trabalhou dentro dela, consertando o que outros Veneráveis haviam quebrado. É por isso que ele aparece nesta nota e não entre os criadores de caminhos: ele é o único dos dez que nunca fundou uma disciplina.
+Os dois primeiros são da **Antiguidade Remota** e **fundaram** a ordem; Paradise Earth é da **Antiguidade Tardia** e trabalhou dentro dela, consertando o que outros Veneráveis haviam quebrado. É por isso que ele aparece nesta nota e não entre os criadores de caminhos: ele nunca fundou uma disciplina — e, dos dez, só ele e Red Lotus estão nessa condição.
+
+> [!warning] Este agrupamento é temático, não exaustivo
+> Os dois primeiros **também** criaram caminhos de cultivo: Primordial Origin fundou o do qi e o da escravização, Star Constellation o da sabedoria e o das estrelas. Eles estão aqui, e não na nota dos criadores de caminhos, porque o que sobrou deles no mundo é acima de tudo **institucional**. Se o que você procura é quem inventou qual disciplina, a tabela completa está na nota-porta.
 
 > [!warning] Legado, não biografia
 > Estas notas registram deliberadamente **o que cada Venerável deixou funcionando no mundo** — invenções, instituições, transformações permanentes. A vida pessoal deles é enredo da obra e fica de fora.
@@ -38,33 +41,40 @@ Os dois primeiros são da **Antiguidade Remota** e **fundaram** a ordem; Paradis
 |---|---|
 | **Via** | correta (Immortal Venerable) |
 | **Era** | Antiguidade Remota — o **primeiro rank 9 da história** |
-| **Expectativa de vida** | 25.000 anos, a **maior dos dez** |
-| **Caminho principal** | **—** não nomeado explicitamente nas fontes[^1] |
-| **Origem da sorte inata** | favor da própria [[15 - Vontade dos Céus|Vontade do Céu]], que o ergueu para reequilibrar um mundo então dominado por humanos variantes |
+| **Expectativa de vida** | mais de 25.000 anos, a **maior dos dez** |
+| **Caminho principal** | **[[05 - Qi Path\|qi path]]** (caminho do qi) — ele o criou |
+| **Especialidade** | **—** não nomeada nas fontes[^1] |
+| **Origem da sorte inata** | favor da própria [[15 - Vontade dos Céus\|Vontade do Céu]], que o ergueu para reequilibrar um mundo então dominado por humanos variantes |
 
 ### O que ele deixou no mundo
 
-**1. O sistema de seitas.** Antes dele, o mundo se organizava por clãs de sangue: seu lugar era o sobrenome com que você nascia. Ele fundou a estrutura de **seitas** — organizações que recrutam por mérito e afinidade, não por parentesco — e a implantou no Continente Central.
+**1. Os dois primeiros caminhos de cultivo da história.** Antes de qualquer instituição, veio isto: ele criou o ==[[05 - Qi Path|caminho do qi]]== — a disciplina que manipula a energia bruta que preenche o mundo, e que foi por muito tempo **a mais forte que existia** — e o ==[[07 - Enslavement Path|caminho da escravização]]==, a disciplina de submeter feras e usá-las como tropa.
+
+Vale dimensionar a época para entender o tamanho do feito. Na era dele **existiam quatro ou cinco caminhos no mundo inteiro**; hoje há pelo menos vinte considerados correntes. Ele não estava acrescentando disciplinas a um catálogo — estava dobrando o catálogo.
+
+E há uma ironia estrutural que a mesa pode usar: o caminho do qi, que já foi o mais poderoso do mundo, é hoje **um caminho em declínio**, ultrapassado pelas disciplinas que nasceram depois. A maior instituição do mundo guarda a herança dele como isca de recrutamento justamente porque quase ninguém mais consegue chegar longe nessa escola sozinho. Nem o legado de um Venerável é imune ao tempo: o que envelhece não é o método, é o resto do mundo em volta dele.
+
+**2. O sistema de seitas.** Antes dele, o mundo se organizava por clãs de sangue: seu lugar era o sobrenome com que você nascia. Ele fundou a estrutura de **seitas** — organizações que recrutam por mérito e afinidade, não por parentesco — e a implantou no Continente Central.
 
 O efeito é permanente e visível no mapa até hoje: o Continente Central é a **única das cinco regiões dominada por seitas**; as outras quatro seguem no sistema de clãs. A diferença cultural mais profunda entre as regiões do mundo é obra de uma reforma administrativa de um único indivíduo. Ver [[04 - As Cinco Regiões#Continente Central]].
 
-**2. O [[19 - Tribunal Celestial|Tribunal Celestial]].** Fundou a maior e mais antiga organização do mundo, há três milhões de anos, e ela nunca deixou de ser a número um.
+**3. O [[19 - Tribunal Celestial|Tribunal Celestial]].** Fundou a maior e mais antiga organização do mundo, há três milhões de anos, e ela nunca deixou de ser a número um.
 
-**3. O método que torna o Tribunal possível.** Esta é a peça técnica mais importante do legado dele, e vale entender com calma. Ele inventou o procedimento pelo qual um cultivador imortal **funde a própria [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] — o mundo de bolso que é, ao mesmo tempo, sua casa, sua renda e sua base material — a uma abertura coletiva**, recebendo em troca uma versão-fantasma menor para uso externo.
+**4. O método que torna o Tribunal possível.** Esta é a peça técnica mais importante do legado dele, e vale entender com calma. Ele inventou o procedimento pelo qual um cultivador imortal **funde a própria [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] — o mundo de bolso que é, ao mesmo tempo, sua casa, sua renda e sua base material — a uma abertura coletiva**, recebendo em troca uma versão-fantasma menor para uso externo.
 
 E criou, com o último fôlego, um [[08 - Killer Moves|golpe]] do caminho humano — um *killer move*, a combinação coreografada de vários Gu que é a unidade de "magia lançada" deste sistema — que converte uma abertura doada numa "cama livre de [[13 - Tribulações e Calamidades|calamidades e tribulações]]", estendendo enormemente a vida de quem a ocupa. O texto o classifica como **o método número um de extensão de vida da história**, atrás apenas dos [[12 - Longevidade|Gu de longevidade]] propriamente ditos.
 
 Some as duas coisas e você tem a explicação mecânica de por que a instituição mais poderosa do mundo consegue cobrar de seus membros um preço tão absurdo quanto a própria base material: em troca, ela oferece o segundo melhor método de sobreviver ao tempo que já foi inventado. O cemitério de imortais adormecidos no coração do Tribunal existe por causa desse golpe.
 
-**4. A moeda do mundo.** `conhecimento: segredo` — as **pedras de essência imortal** são o dinheiro universal dos cultivadores imortais. Não confundir com as [[02 - Pedras Primordiais|pedras primordiais]], que são a moeda dos mortais: uma única pedra de essência imortal vale mais de cem milhões delas, e as duas circulam em mundos econômicos separados.
+**5. A moeda do mundo.** `conhecimento: segredo` — as **pedras de essência imortal** são o dinheiro universal dos cultivadores imortais. Não confundir com as [[02 - Pedras Primordiais|pedras primordiais]], que são a moeda dos mortais: uma única pedra de essência imortal vale mais de cem milhões delas, e as duas circulam em mundos econômicos separados.
 
 E elas **não deveriam existir**: a lei do equilíbrio nunca as produziria espontaneamente. Foi ele quem resolveu o impasse, capturando a pessoa cuja abertura imortal as produzia, anunciando publicamente que a havia matado, e mantendo-a em cativeiro como fonte. Distribuiu ao mundo apenas a denominação mais baixa, guardando as superiores em segredo. Ver [[15 - Vontade dos Céus#Casos de resistência da lei]] e [[15 - Economia Imortal|Economia Imortal]].
 
-**5. A virada demográfica do mundo.** Nas eras Imemorial e Remota, quem dominava o mundo eram os **humanos variantes** — raças humanoides aparentadas, várias delas com dons inatos superiores. Ele e Star Constellation lideraram a inversão que colocou os humanos comuns no topo. A supressão dos variantes, a exclusão categórica deles do Tribunal e toda a fratura racial do cenário descendem dessa virada.
+**6. A virada demográfica do mundo.** Nas eras Imemorial e Remota, quem dominava o mundo eram os **humanos variantes** — raças humanoides aparentadas, várias delas com dons inatos superiores. Ele e Star Constellation lideraram a inversão que colocou os humanos comuns no topo. A supressão dos variantes, a exclusão categórica deles do Tribunal e toda a fratura racial do cenário descendem dessa virada.
 
-**6. A doutrina.** Formulou a tese que organiza o entendimento do mundo sobre a própria magia: *o homem é o espírito de todos os seres; os [[02 - O que é um Gu|Gu]] são a essência do céu e da terra*. Daí decorre a compreensão madura de que cultivar, usar e [[06 - Refino de Gu|refinar]] Gu é cultivar, usar e refinar o Dao — e a distinção qualitativa entre Gu mortais, que contêm meros traços de lei, e [[16 - Gu Imortais|Gu Imortais]], que **são** fragmentos da Grande Dao, o conjunto das leis que fazem o mundo funcionar.
+**7. A doutrina.** Formulou a tese que organiza o entendimento do mundo sobre a própria magia: *o homem é o espírito de todos os seres; os [[02 - O que é um Gu|Gu]] são a essência do céu e da terra*. Daí decorre a compreensão madura de que cultivar, usar e [[06 - Refino de Gu|refinar]] Gu é cultivar, usar e refinar o Dao — e a distinção qualitativa entre Gu mortais, que contêm meros traços de lei, e [[16 - Gu Imortais|Gu Imortais]], que **são** fragmentos da Grande Dao, o conjunto das leis que fazem o mundo funcionar.
 
-**7. Arranjos ainda operantes.** Dentro do Tribunal Celestial permanecem instalados arranjos criados por ele que funcionam, na prática, como uma **receita para produzir um corpo e uma alma novos**. E ele deixou pelo menos um golpe pessoal registrado, que drena as três energias fundamentais de um cultivador imortal e rompe a abertura imortal dele por dentro.
+**8. Arranjos ainda operantes.** Dentro do Tribunal Celestial permanecem instalados arranjos criados por ele que funcionam, na prática, como uma **receita para produzir um corpo e uma alma novos**. E ele deixou pelo menos um golpe pessoal registrado, que drena as três energias fundamentais de um cultivador imortal e rompe a abertura imortal dele por dentro.
 
 > [!note] Para o design
 > Primordial Origin é o arquétipo do **fundador cujas invenções viraram infraestrutura invisível**. Ninguém no mundo pensa "eu pertenço a uma seita por causa dele" ou "esta moeda existe por causa dele" — as coisas simplesmente são assim. Para uma campanha, isso permite um tipo de revelação muito satisfatório: os jogadores descobrem que uma instituição banal do cotidiano foi projetada, com intenção específica, por alguém que morreu há milhões de anos. E como a moeda do mundo é um segredo sujo, "descobrir de onde vem o dinheiro" é um arco de investigação com consequências econômicas globais.
@@ -79,13 +89,16 @@ E elas **não deveriam existir**: a lei do equilíbrio nunca as produziria espon
 | **Era** | Antiguidade Remota, há cerca de **3 milhões de anos** |
 | **Relação com o anterior** | foi **discípula de Primordial Origin**, e recebeu dele, no leito de morte, a tarefa que definiria sua vida |
 | **Expectativa de vida** | 19.000 anos, a **segunda maior dos dez** |
-| **Caminho principal** | **[[16 - Wisdom Path|wisdom path]]** (caminho da sabedoria) — ela o criou |
-| **Especialidade** | dedução de altíssimo alcance temporal |
+| **Caminho principal** | **[[16 - Wisdom Path\|wisdom path]]** (caminho da sabedoria) — ela o criou |
+| **Especialidade** | **[[19 - Star Path\|star path]]** (caminho das estrelas) — ela o criou também |
+| **O que fazia melhor que todos** | dedução de altíssimo alcance temporal |
 | **Origem da sorte inata** | **—** não declarada nas fontes |
 
 ### O que ela deixou no mundo
 
-**1. O [[16 - Wisdom Path|caminho da sabedoria]].** Ela **criou uma disciplina de cultivo inteira que antes não existia**. Antes dela, ninguém no mundo sistematizara a inteligência como caminho de poder.
+**1. O [[16 - Wisdom Path|caminho da sabedoria]] — e o [[19 - Star Path|caminho das estrelas]] junto com ele.** Ela **criou duas disciplinas de cultivo inteiras que antes não existiam**. Antes dela, ninguém no mundo sistematizara a inteligência como caminho de poder.
+
+E as duas formam um par funcional, não uma coincidência: o caminho das estrelas fabrica ==pensamentos-estrela==, que valem por três ou quatro pensamentos comuns em trabalho dedutivo. Ou seja, ela inventou a máquina de pensar **e** a usina que a abastece — e é por isso que, até hoje, quem cultiva sabedoria costuma cultivar estrelas junto. Ela é a exceção interessante à regra de que a especialidade de um Venerável fica trancada a sete chaves: as duas metades dela se difundiram, e a instituição que ela ajudou a construir opera as duas.
 
 É preciso entender o que "criar um [[01 - Visão Geral dos Paths|caminho]]" significa neste mundo: os [[02 - O que é um Gu|Gu]] selvagens daquele tema já existiam havia eras, espalhados pela natureza. O que o fundador faz é **sistematizá-los** — descobrir as relações, escrever as receitas, definir os degraus de [[08 - Attainment|attainment]], transformar fenômenos dispersos numa disciplina ensinável. Depois disso, o caminho existe para todo mundo, para sempre. É o tipo de invenção que não se desfaz.
 
@@ -130,13 +143,17 @@ Deixou ainda um esquema arquitetado que **depende de um demônio de outro mundo 
 |---|---|
 | **Via** | correta |
 | **Era** | Antiguidade Tardia — veio depois do criador do caminho da alma, e boa parte do seu trabalho foi conter o estrago dele |
-| **Caminho principal** | — nenhum. É o único dos dez que **não fundou uma disciplina** |
-| **Legado institucional** | o Paraíso da Baleia-Dragão e seu quadro de missões |
+| **Caminho principal** | **[[27 - Os Caminhos Elementais#Terra (earth path)\|earth path]]** (caminho da terra) — que ele **não** criou: é um dos caminhos elementais, anteriores a todos os Veneráveis |
+| **Especialidade** | **[[25 - Heaven Path\|heaven path]]** (caminho do céu) |
+| **O que fazia melhor que todos** | **golpes de campo de batalha** — ver o item 2 |
+| **Legado institucional** | o Paraíso da Baleia-Dragão e seu quadro de missões; o Campo de Batalha da Reencarnação, no Continente Central |
 | **Legado técnico** | as duas ferramentas opostas de ler e de ocultar o **segredo celeste** — isto é, o que o céu e a terra "sabem" sobre o que vai acontecer: o conteúdo do futuro determinado, que se pode consultar ou blindar |
 
 ### Por que ele está nesta nota
 
 Paradise Earth é o Venerável mais fácil de perder de vista, e por um motivo estrutural: ele não dá nome a um caminho, então não aparece quando se pergunta "quem inventou o quê". O legado dele é de outra natureza — ele **consertou e organizou** em vez de fundar, e por isso pertence aos arquitetos da ordem, ao lado dos dois que construíram as instituições.
+
+Com uma diferença que vale registrar, porque muda o personagem: **ele nunca entrou no [[19 - Tribunal Celestial|Tribunal Celestial]]**, e a razão declarada é ideológica. Em vez de se somar à instituição que já governava o mundo, saiu construindo **"paraísos" espalhados pelas cinco regiões**, tentando erguer a utopia que tinha em mente. Ele é, portanto, o arquiteto que trabalhou *ao lado* da ordem estabelecida, não dentro dela — o que faz dele o mais fácil dos três de usar como patrono de personagens que também não querem se filiar a ninguém.
 
 ### O que ele deixou no mundo
 
@@ -144,7 +161,16 @@ Paradise Earth é o Venerável mais fácil de perder de vista, e por um motivo e
 
 A diferença em relação a qualquer outro legado desta pasta é que este **não se esgota quando alguém o encontra**. Uma herança comum é um evento: você chega, pega, acabou. Esta é um empregador.
 
-**2. As duas metades da guerra pela informação.** `conhecimento: especializado` — criou, sozinho, os dois lados de uma disputa que ainda estrutura o alto nível do mundo.
+**2. O golpe que vira um lugar — e a arena que substitui a guerra.** Esta é a assinatura técnica dele, e é a mais imediatamente jogável de toda a pasta. A obra registra que Paradise Earth era, entre todos, **o mais habilidoso em ==golpes de campo de batalha==** (*battlefield killer moves*).
+
+Vale explicar o que é isso, porque não é um ataque. Um [[08 - Killer Moves|golpe]] comum acerta alguém; um golpe de campo de batalha **cria o terreno em que a luta acontece** e impõe as regras dele a todos os presentes — quem entra passa a jogar segundo as leis daquele espaço. É a diferença entre lançar uma bola de fogo e transformar a sala num vulcão.
+
+E o uso que ele deu a essa ferramenta define o personagem inteiro. Ele montou, no Continente Central, o ==Campo de Batalha da Reencarnação== (*Reincarnation Battlefield*) **porque não queria ver imortais do Continente Central derramando sangue uns dos outros**: em vez de proibir a briga, deu a ela um lugar onde acontecer sem matar ninguém. Gerações de herdeiros continuaram modificando a estrutura, e ela segue em uso.
+
+> [!note] Para o design
+> Uma instituição que **converte conflito letal em conflito ritualizado** é um dos objetos mais úteis que um cenário pode ter, porque resolve o problema de manter facções em atrito permanente sem que elas se destruam. É também um gancho pronto: o duelo oficial tem plateia, tem apostas, tem regras que alguém pode burlar — e a pergunta "e se alguém encontrar um jeito de matar de verdade lá dentro?" já é uma aventura.
+
+**3. As duas metades da guerra pela informação.** `conhecimento: especializado` — criou, sozinho, os dois lados de uma disputa que ainda estrutura o alto nível do mundo.
 
 De um lado, o Gu que **pergunta diretamente ao céu e à terra** e obtém resposta. Sobre ele foi construída a técnica que permite deduzir com antecedência o **conteúdo** de uma provação futura — saber exatamente o que vem antes de enfrentá-lo. O preço é brutal e mantém a coisa rara: cada consulta desse tipo custa cerca de **cem anos da própria expectativa de vida**.
 
@@ -152,16 +178,21 @@ Do outro lado, o método que **impede que deduzam você**. Ele cobre o portador 
 
 A elegância disso é que as duas ferramentas foram feitas pela mesma pessoa e se anulam mutuamente. O mundo herdou um empate técnico permanente entre prever e esconder.
 
-**3. A supressão pacífica do caminho da alma.** Depois de o [[12 - Soul Path|caminho da alma]] ter sido criado e levado ao extremo por **Spectral Soul** — a ponto de metade dos cultivadores do mundo o praticarem e de existir um comércio aberto de almas —, foi Paradise Earth quem o reduziu, e o fez **sem massacre**. O efeito durou: a venda de almas hoje é rara e clandestina até nos mercados mais permissivos do mundo imortal. É o registro mais claro de que o legado de um Venerável pode ser **desfazer** o de outro.
+**4. A supressão pacífica do caminho da alma.** Depois de o [[12 - Soul Path|caminho da alma]] ter sido criado e levado ao extremo por **Spectral Soul** — a ponto de metade dos cultivadores do mundo o praticarem e de existir um comércio aberto de almas —, foi Paradise Earth quem o reduziu, e o fez **sem massacre**. O efeito durou: a venda de almas hoje é rara e clandestina até nos mercados mais permissivos do mundo imortal. É o registro mais claro de que o legado de um Venerável pode ser **desfazer** o de outro.
 
-**4. O conceito de "paraíso".** Converteu ao menos uma [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] num tipo de lugar que antes não existia: um mundo interno **livre de calamidades e tribulações**. Como toda abertura imortal normalmente paga o preço periódico das provações — o relógio descrito em [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] —, um espaço isento é uma anomalia de altíssimo valor, e ele o acoplou à maior produção conhecida de um recurso raro de cultivo.
-
-**5. Um esgotamento.** Como os outros Veneráveis, varreu o mundo atrás dos [[12 - Longevidade|Gu de longevidade]], que estendem a vida, e **exauriu o suprimento da própria era**. Isso não é anedota: o suprimento desses Gu é finito, só o céu e a terra os produzem — ninguém consegue fabricá-los —, e cada Venerável que passa deixa o mundo empobrecido daquele recurso por um bom tempo depois de morrer.
+E o método merece atenção, porque é engenharia, não decreto. Ele **estudou a fundo a disciplina secreta do adversário** — a especialidade escondida de Spectral Soul era o [[20 - Food Path|caminho da comida]] — e construiu golpes desenhados sob medida para anular exatamente aqueles do outro. Passou a vida remendando o estrago de alguém que já estava morto, e a ferramenta que usou foi pesquisa dirigida contra a metade que o inimigo achava que ninguém conhecia.
 
 > [!note] Para o design
-> Paradise Earth é o Venerável mais imediatamente utilizável dos dez, e o motivo é o item 1. Um legado que **emprega** os personagens em vez de premiá-los uma única vez resolve o problema mais chato de uma campanha longa: de onde vêm as missões, e por que este grupo específico as aceita. O quadro de missões com moeda própria dá ao mestre um botão de progressão que ele controla sem precisar de um NPC patrão presente em cena.
+> Aqui está um modelo de antagonismo que quase nenhum cenário oferece: **a contramedida como legado**. Um item, um golpe ou um lugar deixado por alguém que existe *para* neutralizar o que outra pessoa deixou. Numa mesa, isso transforma a arqueologia em xadrez: descobrir um poder antigo é sempre também a pergunta "quem já sabia disso, e o que essa pessoa deixou preparado contra ele?".
+
+**5. O conceito de "paraíso".** Converteu ao menos uma [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] num tipo de lugar que antes não existia: um mundo interno **livre de calamidades e tribulações**. Como toda abertura imortal normalmente paga o preço periódico das provações — o relógio descrito em [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] —, um espaço isento é uma anomalia de altíssimo valor, e ele o acoplou à maior produção conhecida de um recurso raro de cultivo.
+
+**6. Um esgotamento.** Como os outros Veneráveis, varreu o mundo atrás dos [[12 - Longevidade|Gu de longevidade]], que estendem a vida, e **exauriu o suprimento da própria era**. Isso não é anedota: o suprimento desses Gu é finito, só o céu e a terra os produzem — ninguém consegue fabricá-los —, e cada Venerável que passa deixa o mundo empobrecido daquele recurso por um bom tempo depois de morrer.
+
+> [!note] Para o design
+> Paradise Earth é o Venerável mais imediatamente utilizável dos dez, e o motivo são os itens 1 e 2. Um legado que **emprega** os personagens em vez de premiá-los uma única vez resolve o problema mais chato de uma campanha longa: de onde vêm as missões, e por que este grupo específico as aceita. O quadro de missões com moeda própria dá ao mestre um botão de progressão que ele controla sem precisar de um NPC patrão presente em cena.
 >
-> O item 2 rende a mesa mais tensa possível no alto nível: os dois lados sabem que o outro pode prever, os dois sabem que o outro pode se ocultar, e o custo de olhar o futuro é pago em **tempo de vida** — a única moeda que não se recupera. Uma campanha em que cada informação decisiva custa um pedaço do personagem se escreve sozinha.
+> O item 3 rende a mesa mais tensa possível no alto nível: os dois lados sabem que o outro pode prever, os dois sabem que o outro pode se ocultar, e o custo de olhar o futuro é pago em **tempo de vida** — a única moeda que não se recupera. Uma campanha em que cada informação decisiva custa um pedaço do personagem se escreve sozinha.
 
 ---
 
@@ -185,7 +216,10 @@ Vale enunciar o que os dois primeiros construíram **juntos**, porque é o esque
 
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — a nota-porta desta pasta, com a tabela dos dez em ordem de era.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — a fonte única sobre as quatro condições do rank 9 e sobre o Dao Lord.
-- [[16 - Wisdom Path|Wisdom Path]] — a disciplina que Star Constellation criou, em detalhe de mesa.
+- [[05 - Qi Path|Qi Path]] · [[07 - Enslavement Path|Enslavement Path]] — as duas disciplinas que Primordial Origin criou, em detalhe de mesa.
+- [[16 - Wisdom Path|Wisdom Path]] · [[19 - Star Path|Star Path]] — as duas que Star Constellation criou, e por que andam sempre juntas.
+- [[27 - Os Caminhos Elementais#Terra (earth path)|Terra (earth path)]] · [[25 - Heaven Path|Heaven Path]] — os dois caminhos de Paradise Earth, que ele cultivou sem ter criado nenhum.
+- [[20 - Food Path|Food Path]] — a especialidade secreta de Spectral Soul, que Paradise Earth estudou para poder anulá-la.
 - [[12 - Heranças e Provações|Heranças e Provações]] — o que é uma herança e como se abre; a de Paradise Earth é o caso extremo.
 - [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a Antiguidade Remota destes dois, e a Tardia de Paradise Earth.
 - [[08 - Attainment|Attainment]] · [[16 - Dao Marks|Dao Marks]] — os dois eixos de progressão que o texto acima pressupõe.
@@ -203,4 +237,4 @@ Vale enunciar o que os dois primeiros construíram **juntos**, porque é o esque
 - [[12 - Soul Path|Soul Path]] — a disciplina que Paradise Earth suprimiu sem massacre.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números citados nesta nota.
 
-[^1]: As fontes descrevem em detalhe o que Primordial Origin criou, mas **nunca nomeiam sua disciplina de cultivo principal**. Registrado como lacuna (`—`) em vez de inferido: o nome "Primordial Origin" sugere associação com um *origin path* (caminho da origem), mas isso **não é afirmado no texto**, não existe nota de caminho da origem neste vault, e o vault recusa nomear um caminho a partir de um nome próprio. A tabela dos dez em [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] traz o mesmo traço, pelo mesmo motivo.
+[^1]: A obra nomeia o caminho **principal** dele sem ambiguidade — foi pelo caminho do qi que ele se tornou Venerável, e é a herança de qi dele que a maior instituição do mundo guarda até hoje. Já a **especialidade**, o segundo caminho que todo Venerável cultivava e mantinha em segredo, nunca é declarada no caso dele. Fica como lacuna (`—`) em vez de inferida. Vale registrar, para quem for pesquisar por conta própria, que o nome "Primordial Origin" **não** indica um "caminho da origem": esse caminho não existe no sistema, e o vault recusa nomear disciplinas a partir de nomes próprios.

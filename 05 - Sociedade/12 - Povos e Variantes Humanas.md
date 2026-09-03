@@ -46,6 +46,32 @@ fontes: ["cap. 356-358", "cap. 389", "cap. 391", "cap. 401", "cap. 409", "cap. 4
 > canônico.** Nesta nota **não há um único item marcado com `*`**: cada povo listado,
 > cada traço e cada instituição vêm do texto.
 
+## Regras do mundo
+
+As cinco notas irmãs desta pasta abrem com as regras do seu domínio; aqui vão as deste, em
+resumo, para quem só precisa do essencial. Cada uma é desenvolvida adiante.
+
+1. **Variante não é monstro: é povo.** Têm língua, cidade, rei, casamento, luto e política,
+   falam com humanos sem intérprete e cultivam Gu exatamente como um humano cultiva.
+2. **Cada povo nasce com [[16 - Dao Marks|marcas do Dao]] de um caminho.** Uma marca do Dao é
+   um resíduo permanente de uma regra do mundo impresso num corpo ou num lugar: onde elas se
+   acumulam, aquele tipo de magia fica mais forte e mais barato, de graça e o tempo todo. Um
+   humano leva séculos para acumulá-las; estes povos já nascem com as suas. É uma vantagem que
+   opera sem gastar nada e sem poder ser desligada — e é ela que define o talento e a economia
+   de cada raça.
+3. **O talento inato é também a corrente.** Cada povo é escravizado justamente por aquilo em
+   que é o melhor do mundo.
+4. **O teto da espécie é o rank 8.** Nunca houve um Venerável variante, e a obra trata isso
+   como defeito de origem, não como falta de oportunidade.
+5. **Vender e comprar variantes é legal, tabelado e normal.** Não é o crime de um vilão: é a
+   economia corrente, com cotação por espécie e por qualidade de criação.
+6. **A porta do topo é fechada por nascença.** O Tribunal Celestial não admite variantes, por
+   mais fortes que sejam — e é essa exclusão que empurra esses povos para os blocos rivais.
+7. **A hierarquia atual é resultado de uma guerra, não a ordem natural.** Os variantes já
+   governaram o mundo inteiro, e eles sabem disso.
+
+---
+
 ## O que é um humano variante
 
 O termo que a obra usa é ==variant human== (*humano variante*), e ele designa uma coisa bastante específica: **povos humanoides que descendem de uma linhagem paralela à humana**, fora da árvore genealógica que o mito fundador descreve para a humanidade comum. Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
@@ -99,7 +125,7 @@ O povo mais bem documentado da obra, e o mais estranho.
 
 **Escala política.** O sistema social deles é frouxo e **suporta no máximo cerca de cem mil indivíduos por grupo**; acima disso, disputas políticas partem a população em grupos novos, cada um migrando para uma fonte própria. É um teto demográfico embutido na cultura, e ótimo material de mesa.
 
-**No mundo.** Mão de obra de escavação cobiçadíssima — procura alta, oferta baixa. Individualmente perdem para Mestres Gu humanos do mesmo patamar e compensam lutando em formação. Existe um **Tribunal Imperial dos Homens-de-Pedra**, guardado dia e noite por vários Gu Imortais de rank 8 da raça, e ele chegou a abrigar um Gu de rank 9 — prova de que os homens-de-pedra são uma potência, não só uma população.
+**No mundo.** Mão de obra de escavação cobiçadíssima — procura alta, oferta baixa. Individualmente perdem para Mestres Gu humanos do mesmo patamar e compensam lutando em formação. Existe um **Tribunal Imperial dos Homens-de-Pedra**, guardado dia e noite por vários Gu Imortais de rank 8 da raça, e ele chegou a abrigar um Gu de rank 9 — prova de que os homens-de-pedra são uma potência, não só uma população. Cuidado com a palavra, porém: *super força* é uma classificação formal do mundo, e a obra reserva o título de **única super força variante do mundo** à corte dos homens-peixe. O Tribunal Imperial dos Homens-de-Pedra é uma instituição temível, guarda um Gu de rank 9 e não é uma super força — ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] para a escada de porte.
 
 ### Homens-de-neve (*snowmen*)
 
@@ -164,7 +190,7 @@ Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imort
 **Posição no mundo — e a exceção mais importante desta nota.** Existe uma corte dos homens-peixe no Mar Oriental que a obra classifica como **superforça** — a mesma categoria das grandes potências humanas. Ela tem fundações profundas, anciãos, investigadores próprios, escândalos internos e política externa: mantém alianças de longo prazo, abriga fugitivos de outras raças e foi procurada por todos os lados quando se formou uma grande aliança variante. Em mercados do Mar Oriental, humanos e homens-peixe convivem **com status igual**.
 
 > [!warning] Corrija a generalização antes de usá-la
-> É comum resumir o cenário dizendo que "toda facção variante acaba subjugada". A tendência histórica é essa, e ela é forte. Mas a corte dos homens-peixe é uma **superforça reconhecida**, tratada com cuidado até por quem despreza variantes; o Tribunal Imperial dos Homens-de-Pedra guarda Gu de rank 9 com vários imortais de rank 8; e existiu uma aliança variante de escala mundial contra a qual o Tribunal Celestial precisou mobilizar-se. Use "subalternos na média, com potências reais nas bordas" — é o que a obra sustenta.
+> É comum resumir o cenário dizendo que "toda facção variante acaba subjugada". A tendência histórica é essa, e ela é forte. Mas a corte dos homens-peixe é uma **superforça reconhecida**, tratada com cuidado até por quem despreza variantes; o Tribunal Imperial dos Homens-de-Pedra guarda um Gu de rank 9 com vários imortais de rank 8; e existiu uma aliança variante de escala mundial contra a qual o Tribunal Celestial precisou mobilizar-se. Use "subalternos na média, com potências reais nas bordas" — é o que a obra sustenta.
 
 ### Homens-cogumelo (*mushroommen*)
 
@@ -203,7 +229,7 @@ Cinco regras valem para todos os povos acima, e elas são o que a designer preci
 
 **1. Todos cultivam, e cultivam como humanos.** Abertura, ranks, Gu, ascensão. Existem Gu Imortais variantes com Gu Imortais próprios, território próprio e herança própria. A mecânica de cultivo deles está em [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] e não se repete aqui.
 
-**2. Cada povo nasce com marcas do Dao de um caminho.** É a vantagem de partida mais concreta do cenário, e ela opera **sem nenhum Gu ativo**:
+**2. Cada povo nasce com [[16 - Dao Marks|marcas do Dao]] de um caminho.** É a vantagem de partida mais concreta do cenário, e ela opera **sem nenhum Gu ativo** — a marca não é um poder que se aciona, é um viés permanente do corpo a favor de um caminho, que torna tudo daquele caminho mais forte e mais barato para quem a carrega:
 
 | Povo | Marcas natas | Talento correspondente |
 |---|---|---|
@@ -314,4 +340,6 @@ O que muda, na prática, para quem sentar à mesa com um personagem de um destes
 - [[16 - Fate Gu|Fate Gu]] — o instrumento por onde a decisão passou, e cuja quebra a torna reversível.
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — os que os subjugaram, e o que os protegeu.
 - [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — os variantes como degrau formal de desenvolvimento de um domínio pessoal.
+- [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — a nota-porta da pasta, onde este povo entra no mapa geral da sociedade.
+- [[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — a condição de escravo, que é a posição padrão da maioria destes povos.
 - [[01 - Glossário EN-PT|Glossário EN-PT]] — os nomes originais de cada povo.

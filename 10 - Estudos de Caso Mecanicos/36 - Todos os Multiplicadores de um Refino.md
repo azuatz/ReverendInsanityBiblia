@@ -33,7 +33,7 @@ Os fatores empilhados, todos ao mesmo tempo:
 2. **Técnica pessoal de processamento**, própria do refinador, para tratar um material que
    seria inutilizável de outro modo.
 3. **Sacrifícios em massa** como insumo do processo.
-4. **Pedras de essência imortal** despejadas no processo como combustível.
+4. **Pedras de [[15 - Essência Imortal|essência imortal]]** despejadas no processo como combustível.
 5. **Um local seguro e preparado de antemão** — um território pessoal em que se pode
    confiar que ninguém vai interromper.
 

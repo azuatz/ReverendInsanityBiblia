@@ -31,8 +31,10 @@ orçamento, visto do lado de quem está perdendo.
 Um cultivador de [[05 - Ranks e Avanço|rank 3]] em estágio inicial, sozinho, em terreno
 desconhecido, perseguido por um enxame de cerca de **cem** bestas Gu voadoras de rank 3 —
 morcegos de asa-lâmina, enviados por um inimigo de rank 5 que nunca aparece em pessoa. Ele
-carrega um Gu de rank 6 fora do seu alcance de controle, cuja pressão interna está rachando
-as paredes da própria [[02 - Abertura|abertura]]; um Gu de movimento contaminado e prestes a
+carrega um [[16 - Gu Imortais|Gu Imortal]] (rank 6, já do lado imortal da escada) fora do seu
+alcance de controle — situação que a regra geral do mundo declara impossível, porque uma
+abertura mortal não comporta Gu Imortais —, e cuja pressão interna está rachando as paredes da
+própria [[02 - Abertura|abertura]]; um Gu de movimento contaminado e prestes a
 se desfazer; e uma reserva de [[04 - Essência Primordial|essência primordial]] que se esgota
 mais rápido do que se recupera.
 

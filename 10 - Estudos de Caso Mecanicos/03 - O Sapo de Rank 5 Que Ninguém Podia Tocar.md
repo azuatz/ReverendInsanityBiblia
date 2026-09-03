@@ -67,7 +67,7 @@ elimina de saída todo o arsenal de um Mestre Gu.
    o animal por cerca de trezentos metros, até ele acordar sozinho, beber o rio, devolver
    o que não come e ir embora nadando.
 
-**O pagamento:** quinhentas pedras primordiais e uma promoção a líder de equipe — uma
+**O pagamento:** quinhentas [[02 - Pedras Primordiais|pedras primordiais]] e uma promoção a líder de equipe — uma
 recompensa excepcional, aberta como exceção às regras internas. E um espólio não previsto:
 o animal, ao sugar o rio, expôs o leito seco e revelou conchas raras que o executor
 precisava havia meses para um refino próprio.

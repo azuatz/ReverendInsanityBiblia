@@ -66,7 +66,7 @@ está nesta pasta é filho de um deles:
    e abre a única janela de viagem; o maior torneio de artesãos do mundo acontece uma vez a
    cada cem anos, de modo que a maioria das pessoas participa uma única vez na vida.
 2. **A conta que a riqueza paga.** Todo mundo privado — as terras abençoadas e as
-   cavernas-céu de [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] —
+   grutas-céus de [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] —
    sofre uma calamidade a cada dez anos e uma tribulação a cada cem. E a força dela é
    **proporcional à riqueza guardada lá dentro**: uma terra bem administrada atrai um
    desastre terrível, uma terra falida sofre uma garoa. Isso tem uma consequência que
@@ -221,7 +221,7 @@ copiadas para qualquer cenário novo que ela inventar.
     **quanto mais forte a fundação, mais tempo leva a recuperação**. O mundo pertence
     literalmente aos fracos enquanto dura. Ver
     [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]].
-14. **A fronteira que pune os grandes.** Atravessar uma barreira regional deixa um imortal
+14. **A fronteira que pune os grandes.** Atravessar uma parede regional deixa um imortal
     com metade da força e o fere se ele usar um golpe — e quanto mais alto o cultivo, pior
     a travessia. Perseguidores poderosos simplesmente não seguem alguém através do mundo.
     Ver [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]].
@@ -229,6 +229,28 @@ copiadas para qualquer cenário novo que ela inventar.
     sessão: os fortes estão ocupados. Três potências empatadas numa disputa, uma região
     inteira olhando para um refino que dura sete dias e sete noites, uma guerra em quatro
     frentes — enquanto isso, ninguém está olhando para o seu grupo.
+16. **O poderoso é o alvo, não o socorro.** Numa provação, o desastre é calibrado pelo poder de
+    quem o sofre: quanto mais um imortal acumulou, maior a coisa que vem atrás dele. O dono da
+    casa é a pessoa mais forte do lugar **e está inteiramente ocupado em não morrer** — de modo
+    que todo o resto do trabalho (tapar buracos no céu, evacuar a população, tocar bestas
+    descartáveis contra as ondas, escolher que região amputar) cai sobre a equipe mortal que ele
+    contratou. Aumentar a força do grupo **não** resolve nada aqui, porque o adversário não é
+    uma criatura: é uma conta. Ver
+    [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]].
+17. **O lugar que enlouquece quem entra.** Existe uma zona cujo som ambiente embaralha as marcas
+    do Dao de qualquer ser vivo e **enlouquece até um Gu Imortal de rank 8**, que vira um
+    lunático lá dentro. A profundidade que alguém alcança depende do *attainment* — do domínio
+    teórico do caminho —, não do rank, e três eremitas que moram ali há séculos não ousam passar
+    da sexta das nove camadas. É a trava que troca o eixo da dificuldade: ali, força não compra
+    profundidade. Ver [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].
+18. **O prêmio que os fracos não podem tocar — e por isso não disputam.** Às vezes o tesouro do
+    evento exige um patamar altíssimo só para ser **manuseado**: o material que chove do céu numa
+    certa catástrofe queima qualquer um que não seja grande especialista de rank 8 do caminho
+    certo. O efeito é contraintuitivo e ótimo: como a posse está fora de alcance, os poderosos
+    disputam entre si a posse e **deixam livre tudo o que está em volta dela** — localizar,
+    escoltar, proteger de quem chega, e vender a informação. Os fracos não competem pelo prêmio;
+    competem pelo mercado que o prêmio cria. Ver
+    [[27 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]].
 
 > [!note] Para o design
 > Trate a lista acima como um **cardápio de travas**, não como uma lista de curiosidades. Se

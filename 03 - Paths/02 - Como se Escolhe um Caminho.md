@@ -814,7 +814,6 @@ Quatro alavancas de rendimento, não de caminho:
 - Existe um Gu que permite **absorver o qi da provação para enfraquecê-la, ou liberá-lo para
   fortalecê-la** — um dial de dificuldade acionável na hora, para quem quer mais marcas ou
   quer sobreviver.
-
 - **Fortuna alta eleva as calamidades ao máximo que o mundo permite** — o que maximiza o ganho
   de marcas, ao custo do risco máximo. Uma tribulação maximizada rendeu mil marcas de caminho
   único, com o dobro de amplificação para futuros Gu Imortais daquele caminho.

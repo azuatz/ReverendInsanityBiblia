@@ -112,9 +112,13 @@ Se tempo não resolve tudo, dinheiro resolve parte. Três alavancas aparecem na 
 Absorvê-las repõe o Mar Primordial muito mais rápido que a recuperação natural — mas **nunca
 acima do teto fixado pela aptidão**. Elas aceleram o preenchimento; não elevam o limite.
 
-**Relic Gu.** Consumíveis, um para cada rank, que elevam um estágio *dentro* do rank
-correspondente. São o item de aceleração por excelência, e são caros: os de rank 2 custam na
-faixa de 3.000 a 8.000 pedras primordiais; os de rank 3, de 30.000 a 50.000. Três limites
+**Gu de relíquia** (*relic Gu*). Consumíveis, um para cada rank, que elevam um estágio
+*dentro* do rank correspondente. São o item de aceleração por excelência, e são caros: o de
+rank 1 sai por **2.000 pedras primordiais**, o de rank 2 por **8.000**, o de rank 3 por
+**50.000** e o de rank 4 por cerca de **300.000** — a tabela completa está em
+[[03 - Preços, Renda e Custo de Vida#Gu, por rank|Preços, Renda e Custo de Vida]]. Repare no
+absurdo que isso produz: um consumível de rank 2 custa mais que um Gu **permanente** de rank
+3 comum. Três limites
 importam: eles **nunca** cruzam a barreira de rank; **sem aptidão suficiente não fazem
 absolutamente nada**, por mais que se consuma; e há um custo oculto reconhecido no mundo —
 depender deles dificulta os grandes reinos futuros, e ganhar patamar sem experiência

@@ -68,6 +68,15 @@ Revivendo subordinados mortos como **mortais completos**, sem manter o rank dele
 reabre três mecânicas de uma vez: uma nova ascensão para colher, uma nova rodada de
 assistência em provação, e mais dependência. **A fazenda é replantável.**
 
+Duas ressalvas de leitura, porque a frase acima é um resumo e não um mecanismo. **A obra não
+descreve o método de ressurreição empregado nem o seu custo** — sabe-se que o patrono os revive
+e que eles voltam sem o cultivo que tinham, e nada além disso; o repertório de métodos conhecidos
+de trazer alguém de volta está em
+[[17 - Zumbis e Corpos Transformados#Voltar atrás: os métodos de revivificação|Zumbis e Corpos Transformados]].
+E o detalhe que fecha o ciclo: voltar **sem o rank** é o que torna a fazenda replantável, porque
+é a ascensão — a passagem do rank 5 ao 6 — que produz a colheita. Um subordinado revivido já
+imortal não renderia nada.
+
 > [!warning] É exceção ou regra?
 > **Regra quanto ao princípio** — a provação alheia é colhível por um terceiro
 > suficientemente forte, e o rendimento escala com a dificuldade. **Exceção quanto à

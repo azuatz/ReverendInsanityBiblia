@@ -161,7 +161,9 @@ do tempo produzem cinco efeitos que nenhuma descrição de Gu antecipa:
 - **Amplificam de forma brutal e mensurável.** Um cultivador com setenta e três mil marcas de
   tempo amplificava todo golpe de tempo **setenta e quatro vezes**; com cento e vinte mil,
   **cento e vinte vezes**. Golpes medianos de rank 7 e 8 viravam, só por isso, ameaças de topo.
-  Trezentas mil marcas num caminho é o patamar descrito como "nível de pseudo-Venerável".
+  Trezentas mil marcas num caminho é o patamar de quem chegou às portas do rank 9 — é uma das
+  quatro condições formais para virar Venerável. Ver
+  [[02 - Tabelas de Referência Rápida#11. As quatro condições para virar Venerável|Tabelas de Referência Rápida]].
 - **Fecham a porta da longevidade legítima.** Estender a vida com Gu de dia, mês e ano grava
   marcas do tempo — e, **quando essas marcas se acumulam, a pessoa não consegue mais usar Gu de
   tempo de vida**. O atalho gasta a estrada. Ver [[12 - Longevidade|Longevidade]].

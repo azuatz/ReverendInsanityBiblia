@@ -569,7 +569,9 @@ personagem descobrir qualquer uma dessas duas coisas já é um arco.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — a estrutura geral em que essa divisão opera.
 - [[02 - Clãs|Clãs]] e [[03 - Seitas e Academias|Seitas e Academias]] — as instituições que definem o "dentro".
 - [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como a divisão muda de forma conforme a região.
-- [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — quem administra a lista de procurados do mundo.
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a única lista de procurados que vale no mundo inteiro, o mandado de captura regional e o que acontece com um demoníaco capturado.
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — por que um lado que não confia em ninguém depende ainda mais de juramentos mágicos que o outro.
+- [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a instituição que administra essa lista.
 - [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — por que o crime é economicamente racional aqui.
 - [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — os métodos demoníacos descritos passo a passo.
 - [[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — quem vira demoníaco, quem vira neutro, e as

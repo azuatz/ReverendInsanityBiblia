@@ -58,7 +58,7 @@ Sul são majoritariamente mercadoria — com uma exceção poderosa, o Paraíso 
 Vale registrar uma coisa que a obra afirma com todas as letras, porque contraria a impressão que
 a hegemonia do clã Wu dá: **a Fronteira Sul está na lista das regiões desunidas.** Comparando as
 cinco, a obra diz que só o Continente Central tem um líder unificado, "algo que nenhuma das
-outras quatro regiões tem", e que Mar do Leste, Deserto Ocidental, Fronteira Sul e Planícies do
+outras quatro regiões tem", e que Mar Oriental, Deserto Ocidental, Fronteira Sul e Planícies do
 Norte "são todas controladas por super forças independentes e são desunidas" — o Norte só um
 pouco menos, porque ao menos tem uma instituição regional. A hegemonia do clã Wu é real e pesa
 todos os dias, mas ela **não é governo**.
@@ -95,7 +95,10 @@ porque sejam trama.
 ## Os treze super clãs do caminho correto
 
 A obra fecha a lista, nominalmente: **Wu, Ba, Shang, Tie, Hou, Luo, Qiao, Chai, Xia, Yi,
-Chi, Yang e Yao**. São treze famílias, cada uma com pelo menos um Gu Imortal de rank 7 de
+Chi, Yang e Yao**. Se você encontrar mais adiante o **clã Fei** citado ao lado de Wu, Tie e
+Shang, não é engano nem contradição: ele aparece em contagens **antigas** da região e **não está
+nesta lista madura**, sem que a obra explique o que houve. A ficha dele está em
+[[#Forças menores e decaídas que a obra nomeia|Forças menores e decaídas]]. São treze famílias, cada uma com pelo menos um Gu Imortal de rank 7 de
 força de combate máxima, e cada imortal desses carrega em média **três Gu Imortais**. Essa é
 a régua: quando a nota disser "super clã", pense em pelo menos uma dezena de Gu Imortais
 `(ded.)`, uma ou mais Casas de Gu Imortal e um território do tamanho de um país.
@@ -349,10 +352,10 @@ entrar pelos treze salões.
 
 ### Clã Xia
 
-*Xia clan* · clã · sede em Jian Wen blessed land, a leste do grande redemoinho
+*Xia clan* · clã · sede em terra abençoada Jian Wen, a leste do grande redemoinho
 
 > [!warning] Dois clãs Xia
-> Existe também um **clã Xia no Mar do Leste**, homônimo e sem parentesco declarado com este.
+> Existe também um **clã Xia no Mar Oriental**, homônimo e sem parentesco declarado com este.
 > Tudo nesta ficha é do clã Xia da **Fronteira Sul**.
 
 | | |
@@ -362,7 +365,7 @@ entrar pelos treze salões.
 | **Por que esse caminho** | Concentração deliberada e anômala: Gu Imortais do caminho da sabedoria são raríssimos no mundo, e **o clã Xia tem cinco**, alguns deles fortes. Entre todos os imortais de sabedoria da Fronteira Sul, o clã Xia é a força dominante, com uma proporção enorme deles. Isso faz do clã "especial na Fronteira Sul, e mesmo entre as cinco regiões" |
 | **Porte** | Super clã com rank 8 no topo e um contingente notável de imortais; mantém escravos em número industrial |
 | **Alinhamento** | Caminho correto. Reputação de conspirador: "o clã Xia tem muitos imortais do caminho da sabedoria, **eles são bons em tramar**" |
-| **Território** | Jian Wen blessed land e o setor a leste do grande redemoinho onde os rios vermelho e jade se cruzam — o ponto de maior densidade de energia primordial da região |
+| **Território** | terra abençoada Jian Wen e o setor a leste do grande redemoinho onde os rios vermelho e jade se cruzam — o ponto de maior densidade de energia primordial da região |
 
 **Como cresceu.** Acumulando a mercadoria mais escassa da política imortal: **dedução**. Num
 mundo onde um imortal de sabedoria consegue prever o movimento do inimigo antes que ele o
@@ -508,29 +511,29 @@ fundação do clã Wu sem se expor.
 
 ### Clã Yi
 
-*Yi clan* · clã · sede em Lin Chi Mountain, canto nordeste — o ponto mais próximo do Mar do Leste
+*Yi clan* · clã · sede em Lin Chi Mountain, canto nordeste — o ponto mais próximo do Mar Oriental
 
 | | |
 |---|---|
 | **Manda quem** | Um primeiro ancião supremo (a obra não lhe dá nome nem rank `—`); no nível mortal, anciãos como **Yi Bu Hui** representam o clã em leilões |
 | **Caminho de casa** | **[[27 - Os Caminhos Elementais\|Água]]** — "nosso clã Yi é o mais habilidoso no caminho da água" |
-| **Por que esse caminho** | `(ded.)` A vocação marítima: é o clã da região com laços mais estreitos com o Mar do Leste, e o caminho da água é o caminho de casa daquela região |
+| **Por que esse caminho** | `(ded.)` A vocação marítima: é o clã da região com laços mais estreitos com o Mar Oriental, e o caminho da água é o caminho de casa daquela região |
 | **Porte** | Super clã; "um dos senhores da Fronteira Sul, **com status quase igual ao do clã Shang**" |
 | **Alinhamento** | Caminho correto |
 | **Território** | Lin Chi Mountain, canto nordeste da região |
 
-**Como cresceu.** Sendo a porta. O clã Yi tem "todo tipo de conexão estreita com o Mar do Leste", e
+**Como cresceu.** Sendo a porta. O clã Yi tem "todo tipo de conexão estreita com o Mar Oriental", e
 transformou isso em duas coisas que ninguém mais tem: **transporte aéreo** e **importação**.
 
 **Do que vive.** De importar o que a Fronteira Sul não produz. O exemplo canônico são os **tijolos de
-chá da nuvem do mar azul**, produzidos no Mar do Leste: todos os anos o clã Yi importa um número
+chá da nuvem do mar azul**, produzidos no Mar Oriental: todos os anos o clã Yi importa um número
 enorme deles e revende com grande lucro. E de transporte: **em toda a Fronteira Sul, só o clã Yi tem
 baleias azuis voadoras**. Quando a caravana de baleias aparece no céu sobre a cidade do clã Shang, a
 multidão aponta e comenta — e o mercado inteiro se mexe, porque todos sabem que **os preços vão
 oscilar**.
 
 **Com quem se dá.** Rivalidade comercial ácida com o clã Fei: os dois "não têm boa relação, competem
-soltando faíscas", inclusive disputando lances um contra o outro em leilão. Com o Mar do Leste,
+soltando faíscas", inclusive disputando lances um contra o outro em leilão. Com o Mar Oriental,
 relação de sócio.
 
 **Por dentro.** — `—`
@@ -550,7 +553,7 @@ tempo em vez de matá-lo de uma vez.
 > recorrente que não seja o clã Shang, é este.
 
 **O que um personagem faz com isso.** Comprar passagem na caravana de baleias, contrabandear coisa do
-Mar do Leste, ser perseguido pelo Pavilhão da Baía.
+Mar Oriental, ser perseguido pelo Pavilhão da Baía.
 
 **O que a obra não diz.** Nome e rank do primeiro ancião supremo. `—`
 
@@ -604,7 +607,7 @@ fraqueza alheia — ou ser a fraqueza.
 | **Por que esse caminho** | O fundador, **Chai Fu**, criou um golpe assassino do caminho humano e fundou o clã em cima dele |
 | **Porte** | Super clã sem rank 8; em compensação, **a maior população mortal da região** e um fluxo constante de gênios |
 | **Alinhamento** | Caminho correto — com uma prática que a designer vai querer olhar duas vezes |
-| **Território** | A Cordilheira da Fumaça Humana e um território **pequeno e pobre em recursos**, encostado nas muralhas regionais |
+| **Território** | A Cordilheira da Fumaça Humana e um território **pequeno e pobre em recursos**, encostado nas paredes regionais |
 
 **Como cresceu.** Com a mecânica mais perturbadora da região. Chai Fu, buscando um método de
 prolongar a vida, acabou criando outra coisa: o golpe **talento humano congregado** (*congregated
@@ -675,7 +678,7 @@ Atrito público e recente com o clã Xia, que caiu numa emboscada do clã Yao e 
 tenha pago caro.
 
 **Por dentro.** O clã tem uma política de pesquisa e a impõe: seu primeiro ancião supremo proibiu
-frontalmente um pesquisador da sua órbita de investigar **os segredos das muralhas regionais**. Clãs
+frontalmente um pesquisador da sua órbita de investigar **os segredos das paredes regionais**. Clãs
 da Fronteira Sul censuram linhas de pesquisa que ameacem a ordem em que reinam.
 
 **Assinatura.** — `—`
@@ -906,10 +909,10 @@ Passados os milênios, as cinco linhagens chegaram em estados absurdamente difer
 
 | Linhagem | O que cultiva | Estado |
 |---|---|---|
-| **Qi** | [[05 - Qi Path|Caminho do qi]] | O mais próspero, com vários anciãos imortais; base na **Qi Sea grotto-heaven** |
+| **Qi** | [[05 - Qi Path|Caminho do qi]] | O mais próspero, com vários anciãos imortais; base na **gruta-céu Qi Sea** |
 | **Ni** | — | Várias aldeias espalhadas pela Fronteira Sul, **mas nenhum Gu Imortal**; sede histórica na Rotten Mud Mountain |
 | **Xue** | [[03 - Blood Path\|Caminho do sangue]], por descendência direta | **Quase exterminado** |
-| **Bai** | — | **A última linhagem de sangue morreu recentemente.** Resta a **Bai Xiang grotto-heaven** |
+| **Bai** | — | **A última linhagem de sangue morreu recentemente.** Resta a **gruta-céu Bai Xiang** |
 | **Chi** | — | Vivem dentro da própria abertura imortal "**como gado**": sem nenhum impulso de melhorar, preguiçosos, só querendo comer |
 
 > [!warning] Não confundir os dois "Chi"
@@ -982,8 +985,7 @@ tantas vezes ao longo das gerações que ela já não os prende.
 | **Alinhamento** | Caminho correto na prática — o líder participa das ações conjuntas do caminho correto da região — mas **estruturalmente à parte**, por não ser humano |
 | **Território** | Uma terra abençoada dos homens-cogumelo, com pontos de recurso gigantes e montanhas próprias |
 
-**Como cresceu.** Por caridade de um Venerável. [[03 - Os Arquitetos da Ordem|Paradise Earth Immortal
-Venerable]] — o Venerável que
+**Como cresceu.** Por caridade de um Venerável. [[03 - Os Arquitetos da Ordem|Paradise Earth Immortal Venerable]] — o Venerável que
 passou a vida restaurando a paz do mundo e que amava e defendia as raças humanas variantes — **não
 queria ver os homens-cogumelo serem massacrados sem piedade**, e por isso ajudou aquela terra
 abençoada e a transformou num "paraíso". A palavra é técnica: o lugar ficou **livre de
@@ -1034,7 +1036,7 @@ ali. `—`
 *Zombie Alliance* · aliança inter-regional
 
 Uma organização que existe desde a **Era da Antiguidade Medieval, há trezentos mil anos**. Hoje é uma super
-força espalhada pelas cinco regiões, com **sede no Mar do Leste e uma filial em cada uma das outras
+força espalhada pelas cinco regiões, com **sede no Mar Oriental e uma filial em cada uma das outras
 quatro** — inclusive na Fronteira Sul.
 
 Quase todos os membros são zumbis, e a cúpula é feita de **zumbis imortais**: Gu Imortais que chegaram ao
@@ -1043,7 +1045,7 @@ morta — não produz mais essência imortal nem absorve qi do céu e da terra, 
 desmorona —, e por isso a força de combate deles costuma ficar abaixo da de um Gu Imortal normal. Ver
 [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]].
 
-**As filiais são mais fracas que as super forças da região onde ficam** (só a sede do Mar do Leste é
+**As filiais são mais fracas que as super forças da região onde ficam** (só a sede do Mar Oriental é
 superior às super forças locais). A Aliança é **suprimida por todas as super forças**, opera com muita
 dificuldade, tem estrutura frouxa e pouca força vinculante — e, por isso mesmo, **está sempre ávida por
 novos membros**. Entrar é fácil: basta provar que se é um zumbi imortal, coisa que a Aliança sabe verificar
@@ -1078,7 +1080,7 @@ Feng**, rank 5, o homem que entrava e saía da Torre de Supressão de Demônios 
 ### Rotten Mud Mountain — o ponto de encontro informal
 
 Não é uma organização, é um endereço, e um endereço que toda mesa vai querer usar. "A Montanha da Lama Podre
-era **uma das montanhas famosas da Fronteira Sul**. Se ficasse no Deserto Ocidental, no Mar do Leste ou nas
+era **uma das montanhas famosas da Fronteira Sul**. Se ficasse no Deserto Ocidental, no Mar Oriental ou nas
 Planícies do Norte, seria mais famosa; mas a Fronteira Sul tem montanhas demais — **tem o maior número de
 montanhas famosas das cinco regiões** —, e por isso a Montanha da Lama Podre acabou passando despercebida."
 
@@ -1181,7 +1183,7 @@ produz um talento de grau A, os vizinhos mandam assassinos para matá-lo antes q
 - **Clã Fei** — Na contagem mais antiga da região, o clã Wu suprimia "os clãs Tie, Shang e **Fei**", e a
   obra chega a dizer que uma aliança capaz de resistir à cobiça do mundo inteiro precisaria reunir "pelo
   menos Wu, **Fei**, Tie e Shang". É conhecido por um vinho de qualidade altíssima, o **Zhuang Si Fei**,
-  citado no mesmo fôlego que o mar de vinho de um imortal do Mar do Leste e o vinho da longa vida da corte
+  citado no mesmo fôlego que o mar de vinho de um imortal do Mar Oriental e o vinho da longa vida da corte
   imperial do norte. Tem anciãos com peso em leilões e rivalidade comercial com o clã Yi. **Mas não está na
   lista madura dos treze super clãs, e a obra não explica o que aconteceu.** `—`
 - **Clã Xiao da Fronteira Sul** — **Já foi uma super força.** Corre o rumor de que tem a mesma origem do clã
@@ -1210,10 +1212,10 @@ produz um talento de grau A, os vizinhos mandam assassinos para matá-lo antes q
 | **Clã Wu** | Super clã, o nº 1 | 1º ancião supremo rank 8 (vento); líder mortal Imperatriz Wu Ji, rank 5 | Vento (imortais), força (mortais) | Wu Yi Mountain, extremo sudoeste | Hegemon informal; a única herança do caminho da força alcançável; a coleira da tabuleta de vida |
 | **Clã Shang** | Super clã mercantil | Shang Wu Jie, rank 8 (neutralidade); líder mortal Shang Yan Fei, rank 5 | Sangue (líder) + comércio | Shang Liang Mountain | A cidade onde todo mundo negocia; nove fichas; arena que converte demoníacos; Porta do Tesouro Vivo |
 | **Clã Tie** | Super clã policial | Sem nome declarado `—` | Caça ao caminho demoníaco | Wan Cheng Mountain | Torre de Supressão de Demônios; Investigador Divino contratável; Torre-Farol |
-| **Clã Xia** | Super clã de dedução | Xia Cha, rank 8 (tempo) | Sabedoria e luz | Jian Wen blessed land, leste do redemoinho | Cinco imortais de sabedoria num clã só; escravos homens-pena |
+| **Clã Xia** | Super clã de dedução | Xia Cha, rank 8 (tempo) | Sabedoria e luz | terra abençoada Jian Wen, leste do redemoinho | Cinco imortais de sabedoria num clã só; escravos homens-pena |
 | **Clã Chi** | Super clã de engenharia | Chi Qu You, rank 8 (formação) | Formação | Myriad Snake Mountain, extremo oeste | Defesa impenetrável; neutralidade como política; o herdeiro genial e distraído |
 | **Clã Ba** | Super clã, o eterno segundo | 1º ancião supremo rank 8 | — `—` (Ba De: madeira) | Sul do grande redemoinho | Quer o trono e não ousa saltar primeiro; Ba De, o nº 1 abaixo do rank 8 |
-| **Clã Yi** | Super clã logístico | — `—` | Água | Lin Chi Mountain, canto nordeste | Baleias azuis voadoras; importação do Mar do Leste; Pavilhão da Baía, casa de perseguição |
+| **Clã Yi** | Super clã logístico | — `—` | Água | Lin Chi Mountain, canto nordeste | Baleias azuis voadoras; importação do Mar Oriental; Pavilhão da Baía, casa de perseguição |
 | **Clã Yang** | Super clã oportunista | — `—` | Alma | Ghost Hand Mountain, nascente do rio amarelo | Ataca sempre que um vizinho fica fraco; o "cérebro" do clã cultiva sabedoria e informação |
 | **Clã Chai** | Super clã sem rank 8 | Chai Gan, rank 7 | Caminho humano | Human Smoke Mountain, norte do redemoinho | Drena a aptidão de forasteiros para criar gênios; a população não pode sair da montanha |
 | **Clã Yao** | Super clã opaco | 1º ancião supremo rank 8, sem nome `—` | — `—` | — `—` | Rixa de mil anos com o clã Wu; usa anciãos supremos externos; censura pesquisa |

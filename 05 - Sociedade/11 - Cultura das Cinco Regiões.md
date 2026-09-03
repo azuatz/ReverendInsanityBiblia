@@ -290,5 +290,9 @@ universais numa mesa:
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — as regras que valem em todas as regiões.
 - [[02 - Clãs|Clãs]] — o modelo do sul, em detalhe.
 - [[03 - Seitas e Academias|Seitas e Academias]] — o modelo do centro, em detalhe.
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — as organizações concretas por trás dos rótulos de trabalho desta nota, com nome próprio e ficha.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — os povos não-humanos que habitam essas mesmas cinco regiões.
+- [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — os costumes de casamento, funeral e festa em que essas diferenças regionais aparecem em detalhe.
+- [[10 - Guerra Organizada|Guerra Organizada]] — a guerra ritualizada do Norte vista por dentro: formação, mérito e logística.
 - [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada que paira sobre as cinco.
 - [[10 - Vida Cotidiana|Vida Cotidiana]] — como se viaja, se come e se vive dentro dessas fronteiras.

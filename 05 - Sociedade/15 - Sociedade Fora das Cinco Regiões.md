@@ -766,4 +766,6 @@ Registrado de propósito, porque saber onde o cânone termina vale mais que pree
 - [[15 - Economia Imortal|Economia Imortal]] — o dinheiro que circula por todas estas camadas, e o mercado visto
   pelo lado comercial.
 - [[12 - Heranças e Provações|Heranças e Provações]] — o que se faz com uma terra órfã depois de encontrá-la.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — quem são os povos vendidos nesses mercados e postos a viver dentro desses domínios.
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — as camadas de justiça das cinco regiões, das quais estes espaços estão fora.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — a nota-porta desta pasta.

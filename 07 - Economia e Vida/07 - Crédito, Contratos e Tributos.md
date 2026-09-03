@@ -228,7 +228,7 @@ constelação de cobranças, cada uma amarrada a um serviço ou a um território
 
 | Cobrança | Quanto | Quem cobra |
 |---|---|---|
-| **Pedágio de entrada de cidade**, por pessoa e por anel | 1 a 600 pedras — ver [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] | o clã dono da cidade |
+| **Pedágio de entrada de cidade**, por pessoa e por anel | 1 a 600 pedras — ver [[03 - Preços, Renda e Custo de Vida\|Preços, Renda e Custo de Vida]] | o clã dono da cidade |
 | **Pedágio de estrada** | uma parte da carga, se a caravana perder a disputa ritual | quem domina o trecho |
 | **Taxa de corretagem do mercado imortal** | escala com o valor do lote — quanto mais caro o item, maior a taxa | a praça de comércio |
 | **Taxa de inscrição de evento** | 100 pedras na convenção centenária de refino; 500 na arena profissional | os organizadores |

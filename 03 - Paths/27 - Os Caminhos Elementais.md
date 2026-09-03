@@ -695,7 +695,8 @@ Imortal de trevas*. (ded.) Domínio governa **criação**; posse e uso básico, 
 
 ### Luz × Trevas: a oposição que não existe
 
-Vale uma seção porque a intuição de RPG diz que sim, e a obra diz que não.
+*(Esta não é um décimo segundo verbete: é a comparação entre os dois anteriores, e ela está
+aqui porque a intuição de RPG diz que eles se opõem e a obra diz que não.)*
 
 A **única** passagem que opõe os dois descreve um evento global de escala de Venerável: um
 Venerável passou a arder permanentemente, tornou-se a maior fonte de luz do seu domínio, e *o

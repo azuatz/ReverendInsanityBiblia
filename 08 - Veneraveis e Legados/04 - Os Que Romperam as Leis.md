@@ -9,7 +9,7 @@ aliases:
   - Formless Hand
   - Divine Concealment
 status: consolidado
-fontes: ["cap. 383", "cap. 434", "cap. 461", "cap. 464", "cap. 485", "cap. 486", "cap. 517", "cap. 546", "cap. 601", "cap. 629", "cap. 631", "cap. 634", "cap. 722", "cap. 780", "cap. 830", "cap. 949", "cap. 991", "cap. 992", "cap. 1004", "cap. 1015", "cap. 1017", "cap. 1019", "cap. 1191", "cap. 1234", "cap. 1435", "cap. 1760", "cap. 1866", "cap. 1964", "cap. 1966", "cap. 2085", "cap. 2170", "cap. 2171", "cap. 2192"]
+fontes: ["cap. 383", "cap. 434", "cap. 461", "cap. 464", "cap. 485", "cap. 486", "cap. 517", "cap. 546", "cap. 601", "cap. 629", "cap. 631", "cap. 634", "cap. 722", "cap. 780", "cap. 830", "cap. 949", "cap. 991", "cap. 992", "cap. 1004", "cap. 1015", "cap. 1017", "cap. 1019", "cap. 1093", "cap. 1191", "cap. 1234", "cap. 1406", "cap. 1435", "cap. 1760", "cap. 1782", "cap. 1866", "cap. 1964", "cap. 1966", "cap. 2085", "cap. 2170", "cap. 2171", "cap. 2192", "cap. 2204"]
 conhecimento: segredo
 ---
 
@@ -29,9 +29,9 @@ Esta nota cobre **Thieving Heaven** (Antiguidade Antiga) e **Red Lotus** (Antigu
 | | |
 |---|---|
 | **Via** | demoníaca |
-| **Era** | Antiguidade Antiga — um dos **três** Veneráveis Demônios daquela era, ao lado de **Reckless Savage** e **Limitless** (ambos em [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]]); sua atuação atravessa para a Antiguidade Medieval |
-| **Caminho principal** | **theft path** (caminho do roubo) — ele o criou |
-| **Caminho de especialidade** | **[[14 - Space Path|space path]]** (caminho do espaço) |
+| **Era** | Antiguidade Antiga — um dos **três** Veneráveis Demônios daquela era, ao lado de **Reckless Savage** e **Limitless** (ambos em [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]]); sua atuação atravessa para a Antiguidade Medieval |
+| **Caminho principal** | **[[15 - Theft Path\|theft path]]** (caminho do roubo) — ele o criou |
+| **Caminho de especialidade** | **[[14 - Space Path\|space path]]** (caminho do espaço) |
 | **Traço distintivo** | o **mais rico da história**; e um **demônio de outro mundo** |
 
 ### A condição que define o legado
@@ -48,7 +48,7 @@ Este último ponto tem valor de design enorme, e vale registrar em separado: **e
 
 ### O que ele deixou no mundo
 
-**1. O caminho do roubo.** Sistematizou a disciplina de tirar de outros aquilo que, pelas regras do mundo, não deveria poder ser tirado. Importa entender por que isso é radical: neste cenário, roubar um [[16 - Gu Imortais|Gu Imortal]] à força é **quase impossível**, porque o dono simplesmente o destrói com um pensamento no instante em que percebe a perda. O caminho do roubo é a exceção estrutural a essa regra. (O caminho do roubo ainda não tem nota própria neste vault; o que existe dele está aqui.)
+**1. O caminho do roubo.** Sistematizou a disciplina de tirar de outros aquilo que, pelas regras do mundo, não deveria poder ser tirado. Importa entender por que isso é radical: neste cenário, roubar um [[16 - Gu Imortais|Gu Imortal]] à força é **quase impossível**, porque o dono simplesmente o destrói com um pensamento no instante em que percebe a perda. O caminho do roubo é a exceção estrutural a essa regra. A disciplina inteira, com mecânicas de mesa, está em [[15 - Theft Path|Theft Path]]; aqui interessa o que sobrou dela no mundo.
 
 **2. A Mão Sem Forma.** O [[08 - Killer Moves|golpe]] lendário dele — um *killer move*, a combinação coreografada de vários Gu que é a unidade de magia lançada deste sistema —, e um dos objetos mais elegantes do cenário. Uma mão que rouba Gu, com regras precisas:
 
@@ -116,7 +116,8 @@ Quatro Veneráveis repararam o mundo. E foi ele quem selou a brecha, **extraindo
 | **Via** | demoníaca |
 | **Era** | Antiguidade Tardia — o **último** dos dez |
 | **Expectativa de vida** | ~3.000 anos, a **menor dos dez** |
-| **Caminho principal** | **—** não nomeado explicitamente nas fontes[^1] |
+| **Caminho principal** | **[[18 - Time Path\|time path]]** (caminho do tempo) — que ele **não** criou: a obra não credita a criação dessa disciplina a ninguém. Ele foi o **auge absoluto** dela, sem rival na história[^1] |
+| **Especialidade** | **—** não nomeada nas fontes |
 | **Origem da sorte inata** | **adoração do caminho humano** — devoção coletiva de multidões |
 
 ### O que ele deixou no mundo
@@ -128,6 +129,9 @@ Quatro Veneráveis repararam o mundo. E foi ele quem selou a brecha, **extraindo
 - **Zumbis existem.** As almas que deveriam ser reivindicadas na morte não são, e ficam. O mundo convive com isso como se fosse um fenômeno natural — não é necromancia, é erro de contabilidade do destino.
 - **Existem seres que escapam do julgamento do destino** — uma categoria formal de existência que o mundo não consegue prever nem controlar.
 - **A maior instituição do mundo perdeu a plenitude do seu poder** e gastou mais de um milhão de anos, e uma fortuna incalculável, tentando consertar a peça. Ver [[19 - Tribunal Celestial#O papel no mundo]].
+- **E nasceu uma escola de magia inteira que antes era impossível.** Esta é a consequência mais elegante das três, e é fácil não ver a ligação. O [[23 - Luck Path|caminho da sorte]] opera sobre a **incerteza**; o [[16 - Fate Gu|Fate Gu]] intacto administrava a **certeza**, e enquanto ele estava íntegro não sobrava incerteza suficiente no mundo para sustentar uma disciplina. A obra é explícita: **antes de Red Lotus não existia caminho da sorte**. Foi a rachadura no destino que liberou a matéria-prima — e o Venerável seguinte, o [[02 - Os Criadores de Caminhos|Giant Sun]], subiu ao rank 9 justamente porque essa força recém-solta explodiu no mundo.
+
+  Para uma mesa, isso é a demonstração mais limpa de como este cenário funciona: **quebrar uma lei da natureza não produz só ruína, produz um campo novo**. Um Venerável rachou o determinismo do mundo; a fresta que ele abriu virou a especialidade de outra pessoa, uma era depois.
 
 **2. A prova de que não é preciso vir de fora.** `conhecimento: segredo` — a regra geral do cenário é que **só um demônio de outro mundo consegue ferir o Fate Gu**. Red Lotus **não era um**. Ele conseguiu por outra via: tinha o reconhecimento de outro Gu de rank 9, associado ao **amor**.
 
@@ -165,7 +169,9 @@ Vale enunciar, porque é o eixo da nota:
 - [[17 - Cosmologia#A fronteira do mundo]] — o rombo que Thieving Heaven abriu e remendou.
 - [[15 - Vontade dos Céus|Vontade dos Céus]] — a ocultação absoluta, a única imunidade real ao céu, é obra de Thieving Heaven.
 - [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] — Limitless, cuja obra é a caverna onde a fronteira foi rompida, e a quem se deve a porta por onde entram os demônios de outro mundo.
-- [[14 - Space Path|Space Path]] · [[18 - Time Path|Time Path]] — a especialidade de Thieving Heaven, e a disciplina sem a qual não se alcança a herança de Red Lotus.
+- [[15 - Theft Path|Theft Path]] — a disciplina que Thieving Heaven criou, em detalhe de mesa.
+- [[14 - Space Path|Space Path]] · [[18 - Time Path|Time Path]] — a especialidade de Thieving Heaven, e o caminho principal de Red Lotus, sem o qual não se alcança a herança dele.
+- [[23 - Luck Path|Luck Path]] — a disciplina que só passou a ser possível depois que Red Lotus rachou o destino.
 - [[06 - Refino de Gu|Refino de Gu]] · [[16 - Gu Imortais|Gu Imortais]] — o que são as "três oportunidades de refino" e por que valem tanto.
 - [[12 - Heranças e Provações|Heranças e Provações]] — como funcionam as heranças que estes dois deixaram trancadas.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — as quatro condições do rank 9, e a sorte inata que os dez tiveram.
@@ -174,4 +180,4 @@ Vale enunciar, porque é o eixo da nota:
 - [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes dois viveu.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números do sistema.
 
-[^1]: As fontes creditam a Thieving Heaven a criação do caminho do roubo e a Red Lotus nenhuma fundação de caminho; a disciplina principal de Red Lotus não é nomeada. Registrado como lacuna em vez de inferido a partir do nome ou dos métodos.
+[^1]: Duas coisas diferentes, que é fácil confundir. **Qual disciplina ele cultivava** a obra diz sem rodeios, e repete: o caminho do tempo, do qual ele foi o pico absoluto — os golpes dele, o Gu que carregava como vital e a herança que deixou são todos de tempo, e a maior instituição do mundo ficou fraca em especialistas de tempo por causa dele. **Quem criou aquela disciplina** é que a obra nunca diz: ao contrário de quase todas as outras, o caminho do tempo não tem fundador nomeado, e o vault registra isso como lacuna em vez de atribuí-la a ele por proximidade. Já a **especialidade** — o segundo caminho, secreto, que todo Venerável cultivava — nunca é declarada no caso dele.

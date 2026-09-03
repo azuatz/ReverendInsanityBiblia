@@ -6,7 +6,7 @@ tags:
 aliases:
   - Fundação vence rank
   - Anexação de immortal apertures
-status: consolidado
+status: verificado-no-texto
 fontes: ["cap. 1184", "cap. 1185", "cap. 1206", "cap. 1236", "cap. 1261", "cap. 1394", "cap. 1790", "cap. 1791"]
 conhecimento: segredo
 ---
@@ -51,21 +51,33 @@ eficiência total e nenhuma adaptação necessária — e o ganho de fundação 
 anexador imediatamente de rank 6 para rank 7**, pulando as provações que normalmente separam
 os dois.
 
+`(ded.)` **O attainment do operador não é declarado, mas deduz-se do resultado:** como o
+alvo era um território de rank 7, ele tinha necessariamente **Grão-Mestre** no caminho
+dominante daquele território — é o piso da tabela da seção seguinte, e sem ele a anexação
+teria falhado mesmo com o dono morto.
+
 ## O verdadeiro limiar é o attainment, não o rank
 
 *Attainment* é o eixo de **domínio teórico** de um caminho de cultivo — o quanto a pessoa
 *entende* daquilo, em oposição a quanta energia ela tem — e ele é completamente independente
-do rank. Os degraus que interessam aqui são **Mestre**, **Quase Grão-Mestre** e
-**Grão-Mestre**:
+do rank. A escada completa dos nove degraus está em [[08 - Attainment|Attainment]]; o que
+importa aqui é o piso exigido por cada classe de território, e ele é canônico:
 
-| Attainment do anexador | O que ele consegue anexar |
+| Attainment do anexador, **no caminho dominante do alvo** | O que ele consegue anexar |
 |---|---|
-| **Mestre** | territórios de rank 6 — e **só** eles |
-| **Quase Grão-Mestre** | a maioria dos territórios de rank 6, com folga |
-| Abaixo de Grão-Mestre | **não** basta para um território de rank 7 |
+| **Mestre** | terra abençoada de **rank 6** |
+| **Grão-Mestre** | terra abençoada de **rank 7** |
+| **Grande Grão-Mestre** | gruta-céu de **rank 8** |
+
+Duas leituras que a tabela sozinha não dá. Primeira: o piso é por **caminho**, não por pessoa
+— quem é Grão-Mestre em cinco caminhos só pode caçar territórios desses cinco, o que converte
+a lista de perícias do personagem numa lista de presas possíveis. Segunda: os degraus "quase-"
+existem e ficam entre os da tabela; um **Quase Grão-Mestre** dá conta de terras de rank 6 com
+folga e ainda assim **não alcança** uma de rank 7 — só o Grão-Mestre pleno alcança.
 
 Numa mesma expedição, de três territórios capturados, **um ficou de fora por attainment
-insuficiente** e teve de ser abandonado como propriedade solta.
+insuficiente** e teve de ser abandonado como propriedade solta: mesmo com o dono morto e o
+território sob controle físico, sem o degrau certo a anexação simplesmente não acontece.
 
 > [!warning] Cuidado com a palavra "Mestre"
 > Ela nomeia duas coisas diferentes em português. **Mestre Gu** é o nome genérico de
@@ -88,13 +100,32 @@ passos, aplicado a cada imortal capturado:
 5. **Fundir o nódulo** na região apropriada do território próprio, administrando o caos
    ecológico inicial da fusão com subordinados posicionados de antemão.
 
-## O custo escondido que vale uma regra de mesa
+## O que a anexação faz com o calendário de provações
 
-Anexar um território novo **reseta o cronômetro da próxima provação** do anexador. Por isso
-o operador do caso **adiava deliberadamente** a anexação de um território já inteiramente
-saqueado, para não atrasar o próprio avanço de rank.
+Este é o ganho decisivo, e também o mais fácil de ler errado, porque são **duas coisas** que
+acontecem juntas e puxam em direções opostas.
 
-**Espólio e cronograma de progressão são dois orçamentos distintos que competem entre si.**
+**Primeira: pulam-se provações.** A obra é literal — quem anexa um território **salta de uma a
+cinco** [[13 - Tribulações e Calamidades|calamidades ou tribulações]], que são os desastres que
+o céu agenda periodicamente contra todo imortal e que, sobrevividos, são a forma padrão de
+ganhar [[16 - Dao Marks|dao marks]]. Anexar é comprar esse progresso já pago pelo dono anterior,
+sem correr o risco.
+
+**Segunda: o cronômetro da próxima provação é zerado.** Reiniciar a contagem dá **mais tempo até
+o próximo desastre** — é folga, e é o que permite planejar com calma quando enfrentar o quê.
+
+`(ded.)` **Por que isso não é lucro puro.** A obra afirma as duas coisas e não as pesa uma
+contra a outra; a leitura deste material é que elas competem. O critério de **avanço de rank**
+no reino imortal é justamente *sobreviver* a um número fixo de tribulações — três celestiais
+para ir do rank 6 ao 7, três grandes para ir do 7 ao 8. Provação pulada é dao mark ganho e
+tribulação **não contada**; cronômetro zerado é uma tribulação que demora mais a chegar. Quem
+anexa sem parar cresce muito para os lados e sobe devagar: existe registro de um imortal com
+mais de um milhão de dao marks que **nunca enfrentou uma única tribulação miríade na vida**,
+porque pulou todas.
+
+**Espólio e cronograma de progressão são dois orçamentos distintos que competem entre si**, e
+essa é a razão pela qual um anexador experiente escolhe *quando* anexar em vez de anexar tudo
+o que captura.
 
 > [!warning] É exceção ou regra?
 > **Regra do sistema, exceção quanto ao operador.** Os cinco passos são o procedimento
@@ -105,9 +136,10 @@ saqueado, para não atrasar o próprio avanço de rank.
 > [!note] Para o design
 > Esta é a mecânica de progressão mais interessante do fim de campanha: **crescer para os
 > lados em vez de para cima**, com um limitador elegante embutido. Cada território anexado
-> aumenta o poder do personagem e **adia** o próximo nível dele. O jogador passa a escolher
-> entre largura e altura, e a escolha é dele, visível na ficha, sem que o mestre precise
-> negar nada.
+> aumenta o poder do personagem, entrega de graça de uma a cinco provações que ele não vai
+> precisar enfrentar — e, justamente por isso, **adia** o próximo nível dele, porque é
+> enfrentando provações que se sobe de rank. O jogador passa a escolher entre largura e
+> altura, e a escolha é dele, visível na ficha, sem que o mestre precise negar nada.
 
 > [!example] Regra proposta — anexação de territórios
 > *Anexar o território pessoal de um imortal morto exige três coisas: a posse física do
@@ -115,8 +147,8 @@ saqueado, para não atrasar o próprio avanço de rank.
 > território de rank 6; Grão-Mestre para um de rank 7), e uma **fundação** maior que a do
 > território-alvo — comparação que ignora completamente o rank de cada parte. Bem-sucedida,
 > a anexação soma a fundação do alvo à sua, o que pode promover o anexador de rank
-> imediatamente, pulando as provações intermediárias. Cada anexação **zera o cronômetro da
-> próxima provação** do anexador.*
+> imediatamente, pulando as provações intermediárias. Cada anexação faz o anexador **saltar de
+> uma a cinco provações** e **zera o cronômetro** da próxima.*
 
 ## Relações
 

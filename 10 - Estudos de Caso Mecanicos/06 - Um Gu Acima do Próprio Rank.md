@@ -6,7 +6,7 @@ tags:
 aliases:
   - Refino sob aura emprestada
   - Uso de Gu acima do próprio rank
-status: consolidado
+status: verificado-no-texto
 fontes: ["cap. 19", "cap. 20", "cap. 21", "cap. 116", "cap. 138", "cap. 143", "cap. 162", "cap. 167"]
 conhecimento: comum
 ---
@@ -47,7 +47,7 @@ o refino que levaria dias é concluído em segundos, com gasto de energia quase 
 sucesso praticamente garantido.
 
 **O custo:** nenhum recurso consumível. O Gu emprestado não é gasto, não se cansa e não
-sofre nada; não se queimam pedras primordiais; não se perde nada. O que se paga é
+sofre nada; não se queimam [[02 - Pedras Primordiais|pedras primordiais]]; não se perde nada. O que se paga é
 **social** — alguém de rank alto precisa querer estar ao seu lado enquanto você trabalha.
 
 > [!warning] Quanto ela economiza, em ordem de grandeza

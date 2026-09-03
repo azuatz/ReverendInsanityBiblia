@@ -24,19 +24,24 @@ prazo== — ou seja, aventuras que já vêm montadas.
 > do mundo.
 >
 > **Sobre o prêmio, seja avisada de antemão:** só uma minoria dos eventos vem com valor
-> quantificado, porque só neles a obra publica um número. São seis, e vale saber quais são
-> antes de planejar uma sessão em cima de um número que não existe:
+> quantificado, porque só neles a obra publica um número. São **quatro**, e vale saber
+> quais são antes de planejar uma sessão em cima de um número que não existe:
 >
-> | Eventos **com** prêmio quantificado | Eventos **sem** prêmio quantificado |
+> | Evento | O número que a obra dá |
 > |---|---|
-> | arena; trono decenal; convenção do caminho de refino; subjugação de matilhas; torneio entre organizações; provas de sucessão | caçadas; reinos de sonho; provas de herança institucionalizadas; feiras e festivais; e os demais |
+> | **Arena profissional** | inscrição de 500 pedras primordiais; renda de milhares de pedras por luta; carreira de elite acumulando ~1.000.000 em ano e meio |
+> | **Disputa decenal pelo trono** | moeda de guerra própria: de alguns milhares de pontos na cauda do ranking a mais de cem mil para o primeiro colocado de uma grande batalha |
+> | **Subjugação de matilhas** | 500 pedras primordiais mais um Gu de rank 3 pelo papel de isca |
+> | **Prova de sucessão comercial** | 100.000 pedras primordiais de capital inicial e três meses de prazo |
 >
-> Nos eventos da coluna da direita a obra diz apenas "prêmios crescentes", "benefícios
-> territoriais", "recursos escalonando em valor" — e este vault **não inventa** um número
-> para preencher a lacuna. Quando você precisar de um, a régua para arbitrar está em
-> [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], que reúne num lugar só o que as coisas custam e o que
-> cada atividade rende por rank e por tempo gasto. Um prêmio calibrado é o que a tabela de
-> renda daquela nota paga em algumas semanas de trabalho do rank correspondente.
+> Em **todos os demais** — inclusive a convenção de refino e os torneios entre organizações,
+> que dão números só para a *inscrição* — a obra descreve o prêmio apenas em palavras:
+> "prêmios crescentes", "benefícios territoriais", "recursos escalonando em valor". Este
+> vault **não inventa** um número para preencher a lacuna. Quando você precisar de um, a
+> régua para arbitrar está em [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], que reúne num lugar só o que as
+> coisas custam e o que cada atividade rende por rank e por tempo gasto. Um prêmio
+> calibrado é o que a tabela de renda daquela nota paga em algumas semanas de trabalho do
+> rank correspondente.
 
 ## Heranças: o grande evento social do mundo
 
@@ -110,8 +115,8 @@ ser mais lucrativo e infinitamente mais seguro que explorá-la.
 - **Salões de ascensão** — em pelo menos um grande clã, treze arenas internas pelas quais se
   sobe na hierarquia por mérito de combate.
 - **Provas de sucessão comercial** — num clã mercantil, o teste de admissão ao cargo de
-  jovem mestre é puramente econômico: recebe-se um capital inicial e três meses para
-  multiplicá-lo. Os recordes históricos são conhecidos e comentados como recordes
+  jovem mestre é puramente econômico: cada candidato recebe **cem mil pedras primordiais**
+  de capital inicial e **três meses** para multiplicá-lo. Os recordes históricos são conhecidos e comentados como recordes
   esportivos, e a fraude contábil é punida mesmo em filhos do líder.
 
 ### Torneios entre organizações
@@ -156,8 +161,9 @@ ancião externo do clã anfitrião — uma porta institucional de reabilitação
 - **Marés de feras** — eventos de defesa de muralha em escala, com rotação de tropas,
   aposentados convocados e economia de guerra improvisada. É o cerco clássico com um
   calendário previsível.
-- **Subjugação de matilhas** — armadilhas de desfiladeiro, iscas humanas remuneradas (com
-  recompensas documentadas na casa das centenas de pedras mais um Gu de rank alto).
+- **Subjugação de matilhas** — armadilhas de desfiladeiro e iscas humanas remuneradas: o
+  pagamento documentado por servir de isca é de **500 pedras primordiais mais um Gu de
+  rank 3**, por uma única operação.
 - **Expedições sazonais** contra ameaças recorrentes, organizadas anualmente por
   instituições regionais.
 - **Defesa de território contra calamidade** — ==calamidade== é a mais branda das quatro
@@ -200,8 +206,8 @@ Certas heranças viraram **instituições permanentes**, com calendário e buroc
 O maior evento técnico do mundo, realizado a cada cem anos. É o melhor exemplo de "evento
 de campanha" do cenário:
 
-- **Inscrição barata e acessível** — cem pedras primordiais, em centenas de sedes espalhadas
-  pelo mundo.
+- **Inscrição barata e acessível** — cem pedras primordiais, pagas uma única vez, em
+  centenas de sedes espalhadas pelo mundo.
 - **Quatro tarefas de entrada**, seguidas de rodadas eliminatórias no sistema "os três
   primeiros a completar avançam".
 - **A partir de certa rodada**, apenas um vencedor por sede, e duelos individuais — com um

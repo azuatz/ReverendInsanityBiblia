@@ -44,6 +44,20 @@ recusa a parar.
 > — quem venceu, quem morreu, quem traiu quem e como a obra resolve o conflito. Uma
 > designer pode montar esta guerra na mesa dela e chegar a qualquer desfecho.
 
+> [!warning] A trava canônica deste cenário
+> É a **trava 10** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], *a trégua obrigatória*, e
+> aqui ela vira resistência política. Por baixo da guerra roda o maior torneio de artesãos do
+> mundo, que é **de e para Mestres Gu mortais** e cuja regra absoluta é a paz: criminosos
+> procurados se inscrevem abertamente, imortais competem disfarçados, e ninguém pode ser preso
+> nem morto dentro do evento. Enquanto o torneio estiver de pé, existe uma camada inteira do
+> conflito onde só personagens mortais atuam — e **manter o torneio de pé é, literalmente, a
+> forma de resistir**, dita nessas palavras por um competidor comum.
+>
+> Some-se a trava 15, *a ocupação dos poderosos*: as frentes correm em paralelo e o defensor não
+> tem gente para todas, de modo que cada Gu Imortal está sempre no lugar errado. É por isso que
+> a maior parte do que este cenário oferece a uma mesa está na faixa de rank 3 a 5.
+
 ## Por que acontece
 
 Duas coisas precisam ser verdade ao mesmo tempo para esta guerra ser possível, e uma delas

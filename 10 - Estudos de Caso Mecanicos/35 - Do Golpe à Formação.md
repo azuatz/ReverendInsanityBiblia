@@ -73,8 +73,9 @@ Os três ganhos, e eles são o motivo de o degrau existir:
 
 ## O teto
 
-A obra registra o limite honestamente: contra marcas deixadas por uma existência de nível
-supremo, **nem a versão contínua resolve sozinha**. A escada baixa o custo; ela não muda a
+A obra registra o limite honestamente: contra marcas deixadas por um
+[[01 - Visão Geral dos Veneráveis|Venerável]] — o rank 9, teto absoluto do sistema, do qual
+existiram dez em toda a história do mundo —, **nem a versão contínua resolve sozinha**. A escada baixa o custo; ela não muda a
 categoria do adversário.
 
 > [!warning] É exceção ou regra?

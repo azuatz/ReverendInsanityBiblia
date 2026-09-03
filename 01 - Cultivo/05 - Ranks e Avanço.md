@@ -30,7 +30,9 @@ abertura continua sendo nutrida e o cultivo continua subindo sozinho. Ou seja: *
 
 Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 9 há outra categoria de existência, tratada em [[14 - Ascensão Imortal|Ascensão Imortal]] e [[19 - Tornar-se Venerável|Tornar-se Venerável]]. Os próprios Gu são classificados na mesma escala de nove ranks, e a regra que amarra as duas é simples: **um Mestre Gu só aciona Gu de rank igual ou inferior ao seu**.
 
-A diferença de força entre estágios do mesmo rank já é grande, e cresce nos estágios finais. Cruzar um rank inteiro em combate é feito extraordinário; mesmo um lutador excepcional, com os melhores Gu e a melhor execução, vence no máximo **um estágio acima do seu**.
+A diferença de força entre estágios do mesmo rank já é grande, e cresce nos estágios finais. Cruzar um rank inteiro em combate é feito extraordinário; mesmo um lutador excepcional, com os melhores Gu e a melhor execução, vence com regularidade no máximo **um estágio acima do seu**.
+
+"Extraordinário" não quer dizer impossível, e a obra chega a numerar o azar: um cultivador de rank 3 **excepcional** tem cerca de **30% de chance** contra um rank 4 de estágio inicial — e o texto comenta que, dado o abismo entre dois grandes reinos, trinta por cento já é notável. Com **um único Gu novo adequado**, a mesma chance **dobra para 60%**. Guarde os dois números juntos, porque eles são a curva de tensão de uma campanha inteira: trinta por cento é o preço de encarar alguém um degrau acima com o que se tem; sessenta é o preço de ter feito o trabalho de casa antes.
 
 ### O que muda a cada estágio, exatamente
 

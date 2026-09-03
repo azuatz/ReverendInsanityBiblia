@@ -48,7 +48,7 @@ buscar refúgio nele.*
 
 ## A situação
 
-Um cultivador de rank baixo, especialista em escravizar bestas, precisa retirar uma tribo
+Um cultivador de **rank 4**, especialista em escravizar bestas, precisa retirar uma tribo
 inteira sob a emboscada de uma dúzia de especialistas comandados por um general de **rank 4 de
 pico** — cuja especialidade declarada é exatamente **decapitar o comando inimigo**: *ele
 frequentemente entrava sozinho nas formações inimigas, atacando e desorganizando as formações

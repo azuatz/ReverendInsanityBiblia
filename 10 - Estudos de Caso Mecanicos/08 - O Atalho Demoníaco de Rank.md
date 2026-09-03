@@ -38,7 +38,7 @@ Cerca de dez ingredientes, dos quais dois são os centrais:
 2. O refino começa **imediatamente, antes da digestão**: um Gu de queima interna e vários
    Gu incendiários trabalham até formar uma coluna de fogo.
 3. Um Gu venenoso de rank 2 é arremessado dentro do fogo.
-4. Cerca de **mil pedras primordiais** são consumidas pela esfera de luz resultante.
+4. Cerca de **mil [[02 - Pedras Primordiais|pedras primordiais]]** são consumidas pela esfera de luz resultante.
 
 **O produto:** um Gu descartável de rank 3, de uso único.
 

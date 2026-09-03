@@ -34,7 +34,7 @@ Alguém quer colhê-lo agora.
 
 ## O método
 
-**A operação:** despejar pedras primordiais dentro da nascente, alimentando o Gu-planta
+**A operação:** despejar [[02 - Pedras Primordiais|pedras primordiais]] dentro da nascente, alimentando o Gu-planta
 com anos de crescimento comprimidos em minutos, até ele amadurecer e poder ser extraído
 com a mão.
 
@@ -54,8 +54,12 @@ a refração da luz para acertar o alcance no escuro.
 
 ## O preço verdadeiro
 
-Extraído o Gu, **a nascente morre**. Não enfraquece: acaba. A base econômica do
-assentamento inteiro deixa de existir, e é isso, não as cinquenta mil pedras, que torna a
+Extraído o Gu, **a nascente morre**. Não enfraquece: acaba. E aqui está a conta que fecha o
+caso, porque sem ela o preço parece alto e na verdade era irrisório: uma nascente espiritual
+**pequena** rende, ao longo de seus cinquenta a sessenta anos de vida útil, **pelo menos cem
+milhões de pedras primordiais**. Ou seja, cinquenta mil pedras foram pagas para destruir um
+ativo que produziria **duas mil vezes** esse valor — e o comprador sabia disso. A base econômica
+do assentamento inteiro deixa de existir, e é isso, não as cinquenta mil pedras, que torna a
 operação um ato político irreversível.
 
 **O achado colateral:** a nascente seca revelou que havia uma estrutura selada por baixo

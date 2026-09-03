@@ -237,22 +237,11 @@ atacante e queima uma fortuna em essência imortal.
 ### As quatro ferramentas do caminho
 
 A obra não dá um catálogo de Gu temáticos de formação (não existe "Gu que ergue muralha"). Ela
-dá **ferramentas de meta-nível**, e isso não é lacuna: é o desenho do caminho (ded.), já que o
-conteúdo temático sempre vem emprestado.
-
-- **Gu placa-de-formação** — monta sozinha uma formação usando todo tipo de Gu. O usuário só
-  fornece essência imortal e **não precisa de domínio nenhum no caminho**. É a prótese que
-  permite a uma organização sem especialistas ter formações mesmo assim. Limites: guarda **uma**
-  formação por vez, e regravar apaga a anterior; usar uma placa de nível 6 para montar formação
-  de nível 7 falha com frequência; e observar a placa trabalhando **não ensina** o caminho —
-  muitos detalhes ficam ocultos.
-- **Gu bandeira-de-formação** — guarda uma formação **já montada** dentro de si, permite
-  teleportar com ela e remontá-la em outro lugar. É a resposta direta à imobilidade.
-- **Gu carta-de-formação** — consumível que registra a informação de uma formação; mesmo efeito
-  da placa, com margem de erro muito menor.
-- **Gu espírito-de-formação** — gera um **espírito senciente da formação**, análogo aos
-  espíritos que habitam terras abençoadas e cavernas-céu. Ele administra a formação, conversa,
-  escolhe herdeiro e chega a **remontá-la sozinho** depois de ela se despedaçar.
+dá **ferramentas de meta-nível** — placa, bandeira, carta e espírito de formação —, e isso não é
+lacuna: é o desenho do caminho (ded.), já que o conteúdo temático sempre vem emprestado. O que
+cada uma faz, com os limites de cada uma, está em
+[[09 - Formation Path#Gu e golpes de assinatura, com o mecanismo|Gu e golpes de assinatura]],
+mais abaixo nesta nota.
 
 ### Os dois produtos de pico
 

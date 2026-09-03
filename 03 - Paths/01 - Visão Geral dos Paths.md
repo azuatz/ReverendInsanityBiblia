@@ -110,6 +110,15 @@ mudam tudo:
     caminho**, não um bônus genérico. No caminho das formações, passa-se a construir
     formações a partir das marcas naturais do terreno, sem materiais. No do fogo,
     passa-se a armar armadilhas indetectáveis até por peritos do mesmo caminho.[^fogo]
+14. **Não existe ciclo de cinco elementos neste mundo.** Esta regra está aqui porque é o erro
+    que um designer comete por hábito de gênero: nada de "metal corta madeira, madeira fura
+    terra, terra represa água". Varredura direta no texto-fonte não encontra nenhum enunciado
+    desse ciclo. O que existe no lugar é a regra 9 — **densidade de marcas do Dao**, que é
+    **recíproca e não direcional**: marcas de fogo no corpo de alguém enfraquecem os Gu de
+    terra dele, *e* marcas de terra mais densas no terreno restringem o fogo. Vence quem
+    saturou, seja qual for o elemento. A obra autoriza exatamente **dois** pares clássicos, e
+    só dois: **fogo subjuga madeira** e **água e fogo se opõem**. Ver
+    [[27 - Os Caminhos Elementais|Os Caminhos Elementais]].
 
 ## Quantos caminhos existem, e quando cada um nasceu
 
@@ -479,7 +488,7 @@ cada um numa mesa:
 - [[08 - Killer Moves|Killer Moves]] — como Gu de um caminho se combinam em golpes.
 - [[06 - Refino de Gu|Refino de Gu]] — o processo que dá nome ao caminho do refinamento.
 - [[05 - Ranks e Avanço|Ranks e Estágios de Cultivo]] — a barra de poder, paralela à barra de domínio.
-- [[08 - Attainment|Attainment]] — a barra de domínio em detalhe: os oito degraus e como se sobe cada um.
+- [[08 - Attainment|Attainment]] — a barra de domínio em detalhe: os nove degraus e como se sobe cada um.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — a nota dona do conceito de Dao Lord e do topo da escada.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**. Sempre que
   esta nota citar um número, é de lá que ele vem; em caso de divergência, aquela nota vence.

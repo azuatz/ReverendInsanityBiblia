@@ -35,10 +35,12 @@ portanto, não sabem neutralizar.
 
 ## A camada escondida
 
-Tudo o que vem abaixo é material de **mestre**. A superfície do caminho da sorte é "ele dá
-bônus e tira azar"; por baixo dela existe uma doutrina completa, com três andares, uma tese
-sobre como o universo funciona e um conflito declarado com a força que governa o mundo. Um
-jogador pode cultivar o caminho a vida inteira sem tocar em nada disto.
+**Esta seção é material de mestre, e ela vem antes das mecânicas por um motivo:** sem ela, o
+resto da nota parece uma lista de bônus. A superfície do caminho da sorte é "ele dá bônus e
+tira azar"; por baixo dela existe uma doutrina completa, com três andares, uma tese sobre como
+o universo funciona e um conflito declarado com a força que governa o mundo. Um jogador pode
+cultivar o caminho a vida inteira sem tocar em nada do que está aqui — as seções seguintes,
+sobre como a sorte se enxerga e se manipula, essas sim são o que um praticante aprende.
 
 ### O caminho tem três andares — e o mundo só conhece o primeiro
 

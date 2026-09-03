@@ -157,7 +157,7 @@ disposto a gastar. Um adolescente, um Gu barato, e nenhuma consciência de que a
 decidir o que ele é daqui a duzentos anos.
 
 Trocar de Gu Vital depois exige destruir o antigo, com backlash que vai de ferimento grave a
-morte. A nota dona do assunto é [[04 - Gu Vital|Gu Vital]]; guarde daqui apenas que **o Vital é o único
+morte. A nota dona do assunto é [[05 - Gu Vital|Gu Vital]]; guarde daqui apenas que **o Vital é o único
 compromisso realmente vinculante que se assume no mundo mortal**, e que ele é assumido cedo
 demais para ser informado.
 
@@ -169,13 +169,13 @@ ele — e de forma irreversível.
 Todo Gu carrega um fragmento de lei do universo. Usar Gu é usar leis; e certas coisas deixam
 essas leis **gravadas de forma permanente** no corpo, na alma e na abertura de quem as fez.
 Esses resíduos são as ==dao marks (marcas do Dao)==, e elas amplificam permanentemente tudo o
-que a pessoa faz naquela linha de conhecimento. A teoria completa está em [[12 - Dao Marks|Dao Marks]].
+que a pessoa faz naquela linha de conhecimento. A teoria completa está em [[16 - Dao Marks|Dao Marks]].
 
 O ponto desta seção é a outra metade da regra: **marcas de caminhos diferentes se repelem**.
 Um corpo saturado da lei da força vai ter os Gu de luz e de espaço prejudicados — e não com
 um desconto percentual, mas com **falha de ativação**, às vezes destruindo o Gu no processo.
 A nota dona dessa mecânica, com os casos que a obra nomeia e os limites da evidência, é
-[[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]], e ela deve ser lida antes de qualquer decisão de
+[[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]], e ela deve ser lida antes de qualquer decisão de
 build.
 
 Três acumuladores silenciosos operam durante toda a vida mortal:
@@ -333,7 +333,7 @@ registra que a arquitetura tem juntas móveis para quem tem poder de sobra.
 
 ## De onde vêm as marcas de cada caminho
 
-Esta é a seção central da nota, e é a que o resto do material não responde bem. [[12 - Dao Marks|Dao Marks]]
+Esta é a seção central da nota, e é a que o resto do material não responde bem. [[16 - Dao Marks|Dao Marks]]
 explica **o que as marcas fazem** — amplificam permanentemente tudo o que a pessoa faz naquela
 linha, sem aumentar o custo de energia. O que falta explicar é **de onde vêm as de cada
 caminho**, porque é isso que decide a ficha de um imortal.
@@ -378,7 +378,7 @@ conhecidos:
 | Grande tribulação | ≈ 7.250 |
 | Tribulação miríade | ≈ 86.750 |
 
-O calendário completo está em [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] e os números fechados em
+O calendário completo está em [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] e os números fechados em
 [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]]. Aqui interessa a pergunta que quase nunca é feita:
 **as marcas ganhas numa tribulação são de qual caminho?**
 
@@ -387,7 +387,7 @@ A resposta é o mecanismo mais elegante e mais contraintuitivo do sistema inteir
 
 **Toda calamidade e toda tribulação, seja qual for o tema aparente** — relâmpago, dragões,
 tambores de trovão, neve, sal branco voando — **é fundamentalmente feita de marcas do
-[[17 - Heaven Path|caminho do céu]] que se transformam temporariamente em marcas de outro caminho
+[[25 - Heaven Path|caminho do céu]] que se transformam temporariamente em marcas de outro caminho
 para poder se manifestar.** A ordem cósmica busca equilíbrio entre déficit e excedente de
 marcas; uma abertura imortal é uma concentração que rompe esse equilíbrio local; e quanto mais
 marcas alguém acumula, mais marcas do caminho do céu são atraídas para cima dele. **A curva de
@@ -447,7 +447,7 @@ O estado da abertura é o fator dominante, mas não é o único:
   para aproveitar**, desperdiçando o ganho de propósito. Ela também ajusta a intensidade das
   provações seguintes conforme o desempenho na anterior, aprende contramedidas contra golpes
   específicos entre uma provação e a seguinte, e manipula o momento além da força. Ver
-  [[11 - Vontade dos Céus|Vontade dos Céus]].
+  [[15 - Vontade dos Céus|Vontade dos Céus]].
 
 > [!warning] O que isso significa para "montar build"
 > A maior fonte de poder do sistema **não é um baú que você abre**. É um processo que lê o seu
@@ -495,7 +495,7 @@ resposta que a obra não dá.
 **O que a obra afirma:** territórios acumulam marcas — o chão onde dois poderosos lutaram fica
 marcado, aberturas imortais são literalmente feitas de marcas, e um ambiente saturado **penaliza
 ativamente** quem cultiva um caminho conflitante (perda de metade da potência ou mais). Isso
-está firme e está em [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+está firme e está em [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 
 **O que a obra afirma na direção contrária, e é o que ela realmente descreve:** são os **seres
 que marcam o lugar**, não o contrário. Uma criatura antiga que permanece muito tempo num
@@ -625,12 +625,12 @@ Nem todo mundo começa em zero.
 - **Constituições extremas** conferem marcas natas em volume que supera a maioria dos imortais
   de nível 6 em condição equivalente. É o que explica como um mortal excepcional consegue, em
   situações extremas, suprimir poderes imortais. As dez estão em
-  [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+  [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 - **Certas raças e variantes humanas nascem com marcas nativas** do caminho a que pertencem —
   um homem-rocha, por exemplo, já nasce com marcas do caminho da terra, o que torna o cultivo
   de terra extremamente vantajoso para ele desde o primeiro dia.
 - **Bestas e plantas também nascem marcadas**, e é isso que define de que se alimentam e onde
-  conseguem viver. Ver [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]].
+  conseguem viver. Ver [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]].
 
 O caminho, nesses casos, é decidido pelo nascimento e não é negociável — o que é a versão mais
 literal possível da tese desta nota.
@@ -648,7 +648,7 @@ moedas diferentes**:
 **Legados e heranças transmitem sobretudo compreensão, não marcas.** Uma "verdade" deixada por
 um Venerável concede attainment diretamente; explorar o reino de sonho de um mestre morto é o
 único método conhecido de adquirir a compreensão de outra pessoa. Nada disso é uma injeção de
-dao marks. Ver [[06 - Attainment|Attainment]] e [[07 - Heranças e Provações|Heranças e Provações]].
+dao marks. Ver [[08 - Attainment|Attainment]] e [[12 - Heranças e Provações|Heranças e Provações]].
 
 Dois casos concretos que ilustram a distinção:
 
@@ -659,7 +659,7 @@ Dois casos concretos que ilustram a distinção:
   Saltos equivalentes a décadas ou séculos de estudo. Mas o que se ganha é **attainment**, e o
   ganho é dirigido pelo **caminho daquele Venerável**, não pelo seu.
 - **A exceção que a obra nomeia.** Existe **uma** herança documentada que entrega dao marks de
-  verdade, e não apenas compreensão: uma montanha de legado do [[18 - Luck Path|caminho da sorte]]
+  verdade, e não apenas compreensão: uma montanha de legado do [[23 - Luck Path|caminho da sorte]]
   cujo primeiro herdeiro saiu dela com um volume de marcas de sorte comparável ao de um imortal
   de nível 7 — sem ter nível 7. As marcas são **do caminho da herança**. Isso confirma que a
   categoria existe; `—` a obra não diz se essa montanha é caso único ou exemplar de uma classe.
@@ -667,7 +667,7 @@ Dois casos concretos que ilustram a distinção:
 ### 7. Conversão entre caminhos
 
 Marcas podem ser **convertidas de um caminho para outro**, e o
-[[05 - Transformation Path|caminho da transformação]] é o **conversor universal** do sistema — é
+[[06 - Transformation Path|caminho da transformação]] é o **conversor universal** do sistema — é
 exatamente isso que lhe dá o menor limiar de refino de todos os caminhos. Mas o mecanismo é mais
 estreito e mais caro do que parece, e vale desmontá-lo.
 
@@ -715,7 +715,7 @@ Vale listar, porque cada uma é um gancho de campanha pronto:
   dispara instantaneamente.
 - **Prolongar a própria vida.** Estender a longevidade com Gu de dia, mês e ano **grava marcas
   do caminho do tempo no corpo** — e o acúmulo eventualmente **impede o uso futuro** de Gu de
-  longevidade genuínos. Uma via de aquisição que se sabota sozinha. Ver [[09 - Longevidade|Longevidade]].
+  longevidade genuínos. Uma via de aquisição que se sabota sozinha. Ver [[12 - Longevidade|Longevidade]].
 - **Cultivar a alma.** Existe um eixo inteiro paralelo que é fácil esquecer: **a alma também é
   um portador de marcas**, e não apenas de marcas do caminho da alma — o caminho do tempo, por
   exemplo, também as grava ali. Lugares e recursos dedicados a fortalecer a alma estão, em
@@ -818,7 +818,7 @@ Quatro alavancas de rendimento, não de caminho:
 - **Fortuna alta eleva as calamidades ao máximo que o mundo permite** — o que maximiza o ganho
   de marcas, ao custo do risco máximo. Uma tribulação maximizada rendeu mil marcas de caminho
   único, com o dobro de amplificação para futuros Gu Imortais daquele caminho.
-- Existe um Gu do [[18 - Luck Path|caminho da sorte]] que **dobra as marcas ganhas** numa provação,
+- Existe um Gu do [[23 - Luck Path|caminho da sorte]] que **dobra as marcas ganhas** numa provação,
   em troca de aumentar em trinta a quarenta por cento o poder dela. É a aposta explícita do
   sistema.
 
@@ -836,10 +836,10 @@ manifestar):
   lê o estado da abertura, mudar artificialmente o que a abertura "parece ser" muda o que a
   provação entrega. É seleção de caminho por engenharia, e pertence a uma seita específica.
 - **Um método que limita a transformação** das marcas do caminho do céu, forçando **toda**
-  tribulação a se manifestar como calamidade de feras do [[05 - Transformation Path|caminho da
+  tribulação a se manifestar como calamidade de feras do [[06 - Transformation Path|caminho da
   transformação]]. Isto é literalmente travar o gerador de marcas num único caminho — o mais
   perto de "escolher a build" que o sistema chega. Pertence a um domínio específico.
-- **Golpes do [[18 - Luck Path|caminho da sorte]] que interferem na criação da tribulação**,
+- **Golpes do [[23 - Luck Path|caminho da sorte]] que interferem na criação da tribulação**,
   enfraquecendo-a por mudança favorável.
 - **Dedução do conteúdo exato da próxima provação.** Duas escolas fazem isso por rotas
   diferentes; uma delas custa cerca de cem anos de longevidade por dedução. O ganho não é
@@ -854,7 +854,7 @@ manifestar):
   **sentir e refinar as marcas naturais daquele caminho no mundo inteiro**, transformando o
   mundo em campo de batalha próprio. É a única via de controle verdadeiramente total, está fora
   do alcance de qualquer personagem jogável, e é o que a obra chama de segredo da
-  invencibilidade dos Veneráveis. Ver [[13 - Tornar-se Venerável|Tornar-se Venerável]].
+  invencibilidade dos Veneráveis. Ver [[19 - Tornar-se Venerável|Tornar-se Venerável]].
 
 ### E as marcas que você não quer?
 
@@ -924,7 +924,7 @@ Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
   marcas bem distribuídas por doze caminhos está mais longe do topo do que um com trezentas mil
   concentradas. As quatro condições estão em
   [[02 - Tabelas de Referência Rápida#11. As quatro condições para virar Venerável]] e em
-  [[13 - Tornar-se Venerável|Tornar-se Venerável]].
+  [[19 - Tornar-se Venerável|Tornar-se Venerável]].
 
 ### Resposta curta
 
@@ -1011,14 +1011,14 @@ Duas frases para levar para a mesa:
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o mapa completo dos caminhos, a cronologia de criação e o que é um caminho.
-- [[12 - Dao Marks|Dao Marks]] — **a nota dona das marcas**: o que fazem, quanto amplificam, por que o dano
+- [[16 - Dao Marks|Dao Marks]] — **a nota dona das marcas**: o que fazem, quanto amplificam, por que o dano
   delas não regenera.
-- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a nota dona do conflito: quais portas se fecham,
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a nota dona do conflito: quais portas se fecham,
   item a item, e o tamanho real da evidência.
-- [[04 - Gu Vital|Gu Vital]] — a nota dona da única escolha vinculante do mundo mortal.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o processo de três passos em detalhe, e o que preparar antes.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o calendário de provações e o rendimento de cada classe.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — quem decide o caminho de cada provação, e como ela decide.
-- [[06 - Attainment|Attainment]] — a outra barra: compreensão, que se herda; marcas, que não.
+- [[05 - Gu Vital|Gu Vital]] — a nota dona da única escolha vinculante do mundo mortal.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o processo de três passos em detalhe, e o que preparar antes.
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — o calendário de provações e o rendimento de cada classe.
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — quem decide o caminho de cada provação, e como ela decide.
+- [[08 - Attainment|Attainment]] — a outra barra: compreensão, que se herda; marcas, que não.
 - [[03 - Aptidão|Aptidão]] — o teto de carreira medido aos quinze anos.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **fonte soberana dos números** citados aqui.

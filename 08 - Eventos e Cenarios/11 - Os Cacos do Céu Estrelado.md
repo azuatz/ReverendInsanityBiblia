@@ -29,7 +29,7 @@ caco só de pisar dentro, e o tesouro se desfaz junto.
 > | | |
 > |---|---|
 > | **Tipo** | cataclismo cosmológico seguido de corrida mundial por despojos, com turnos de entrada negociados |
-> | **Onde** | os fragmentos caem espalhados pelo mundo; o maior deles, num vale sem nome do [[03 - Continente Central\|Continente Central]] |
+> | **Onde** | os fragmentos caem espalhados pelo mundo; o maior deles, num vale sem nome do [[04 - Continente Central|Continente Central]] |
 > | **Quando** | evento único, sem aviso. O mundo inteiro descobre ao mesmo tempo |
 > | **Duração** | os fragmentos **só existem por um período limitado** antes de se desfazerem. — A obra não diz quanto |
 > | **Escala de poder** | as equipes que entram são de rank 4 e rank 5; quem espera do lado de fora é rank 6, 7 e 8 |
@@ -44,7 +44,7 @@ A explicação canônica tem três passos, e é bom entender os três porque ele
 
 1. Um mundo-fragmento tem **marcas do dao esparsas**. Marcas do dao são os sulcos que o uso
    repetido de um caminho deixa gravados na realidade — a matéria de que a estrutura de um
-   mundo é feita. Ver [[12 - Dao Marks|Dao Marks]]. O caco está rasgado e quebrado, "como uma
+   mundo é feita. Ver [[16 - Dao Marks|Dao Marks]]. O caco está rasgado e quebrado, "como uma
    casa prestes a desabar".
 2. Um Gu Imortal **é feito de marcas do dao**. Um imortal não *tem* marcas: ele *é* um acúmulo
    delas, e quanto mais alto o cultivo, mais denso é esse acúmulo.
@@ -66,7 +66,7 @@ conversa. Os poderosos não só não podem entrar: eles também não deixam ning
 
 O Céu Estrelado era uma **gruta-céu** — a abertura imortal de um cultivador de rank 8 ou 9, um
 grau acima de uma terra abençoada comum; ver
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]. Era antiquíssima,
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]. Era antiquíssima,
 ligada a uma das figuras fundadoras do mundo, e tinha uma peculiaridade estrutural: **sete
 áreas isoladas umas das outras**, efeito de marcas do dao de espaço muito estranhas. Dentro
 havia salões estelares, bestas desoladas e bestas desoladas antigas.
@@ -166,8 +166,8 @@ que a designer pode usar como ancoradouro de missão.
 | Presa | O que é | Por que vale |
 |---|---|---|
 | **Peixe-dragão desolado** | a besta desolada de **menor força de combate que existe**; vive em cardume junto de peixes comuns. Segundo se conta, nem é uma espécie natural — teria sido criada artificialmente pelo caminho da comida | a carne dele é a **comida universal de Gu**: alimenta quase qualquer Gu mortal quando falta a comida específica, e substitui parte da dieta de um Gu Imortal. Só serve a carne de nível desolado |
-| **Tartaruga da essência oculta** | besta desolada rara do [[12 - Wisdom Path\|caminho da sabedoria]]. Quando amadurece, **para de se mover para sempre**: cria musgo, petrifica e vira uma falsa colina. Só se desloca ao sentir perigo enorme, e só para de novo quando acha um lugar que a satisfaça | esconde a própria aura, tem defesa altíssima e **nenhuma agressividade**. Imortais da sabedoria a usam para ajudar em deduções difíceis. **Capturá-la viva vale muito mais que matá-la** |
-| **Erva do submundo** | planta enraizada, inofensiva se ninguém chegar perto; carrega tantas marcas do [[10 - Soul Path\|caminho da alma]] que, com o tempo, converte a região em volta num criadouro de Gu de alma | é capaz de **modificar o ecossistema inteiro** de uma terra abençoada. Quem planta uma no próprio mundo muda a economia dele para sempre |
+| **Tartaruga da essência oculta** | besta desolada rara do [[16 - Wisdom Path|caminho da sabedoria]]. Quando amadurece, **para de se mover para sempre**: cria musgo, petrifica e vira uma falsa colina. Só se desloca ao sentir perigo enorme, e só para de novo quando acha um lugar que a satisfaça | esconde a própria aura, tem defesa altíssima e **nenhuma agressividade**. Imortais da sabedoria a usam para ajudar em deduções difíceis. **Capturá-la viva vale muito mais que matá-la** |
+| **Erva do submundo** | planta enraizada, inofensiva se ninguém chegar perto; carrega tantas marcas do [[12 - Soul Path|caminho da alma]] que, com o tempo, converte a região em volta num criadouro de Gu de alma | é capaz de **modificar o ecossistema inteiro** de uma terra abençoada. Quem planta uma no próprio mundo muda a economia dele para sempre |
 
 Fora da lista: partes de bestas desoladas que valem pedras de essência imortal no mercado,
 materiais de refino raríssimos, e Gu e golpes perdidos.
@@ -248,14 +248,14 @@ fora — é o melhor uso possível deste evento numa campanha com mesa grande.
 - [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] — a
   gruta-céu do Céu Estrelado **inteira**, antes do estilhaçamento, é descrita ali como o modelo
   de masmorra clássica da obra.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma gruta-céu,
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma gruta-céu,
   o que acontece quando ela fica órfã, e por que ela acaba caindo.
-- [[12 - Dao Marks|Dao Marks]] — a regra que sustenta a trava inteira deste evento.
-- [[19 - Dream Path|Dream Path]] — os reinos de sonho, o que eles comem e como se sai de um.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que é uma besta desolada e onde ela
+- [[16 - Dao Marks|Dao Marks]] — a regra que sustenta a trava inteira deste evento.
+- [[26 - Dream Path|Dream Path]] — os reinos de sonho, o que eles comem e como se sai de um.
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que é uma besta desolada e onde ela
   fica na escala.
 - [[03 - Seitas e Academias|Seitas e Academias]] e
-  [[03 - Continente Central|Continente Central]] — quem são as dez grandes seitas antigas que
+  [[04 - Continente Central|Continente Central]] — quem são as dez grandes seitas antigas que
   negociam os turnos.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

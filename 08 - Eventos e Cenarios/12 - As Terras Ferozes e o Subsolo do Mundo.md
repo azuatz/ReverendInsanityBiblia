@@ -140,7 +140,7 @@ superfície parece calma; por baixo, correntes caóticas; e nuvens permanentes i
 orientação por sol ou estrelas.
 
 As correntes são feitas, cada uma, de um material vindo de um lugar diferente do mundo: água do
-rio dos mortos; água de mil ilusões, que só se atravessa com o [[12 - Wisdom Path|caminho da
+rio dos mortos; água de mil ilusões, que só se atravessa com o [[16 - Wisdom Path|caminho da
 sabedoria]]; uma corrente de **magma** vinda de uma cratera que entra em erupção a cada cem
 anos; água de almas negras carregada de marcas de alma e de trevas; uma corrente de fragmentos
 de ouro que sobrou de um rio celestial; e uma corrente de água-relâmpago.
@@ -235,7 +235,7 @@ Das dez, quatro são descritas:
    respirações para o selamento final. Errar a contagem é perder tudo.
 6. **Guia e mapa são o recurso mais caro.** Mais caro que arma, mais caro que cura. Quem conhece
    o terreno cobra o que quiser, e mapas de rota **estragam** — ver
-   [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]].
+   [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]].
 7. **A escolta é mais forte que os jogadores e tem agenda própria.** É o padrão da obra: uma
    expedição registrada levou cinco imortais de escolta — dois de rank 7 e três de rank 6 — para
    proteger um único explorador, e cada um deles tinha ordens de alguém que não estava ali.
@@ -272,7 +272,7 @@ ele tem sempre estas fases:
 ## O que está em jogo
 
 - **Materiais imortais que não existem em nenhum outro lugar.** É a razão declarada de se descer.
-- **Gu selvagens** — Gu que se formaram sozinhos, sem refinador. Ver [[13 - Onde um Gu Mora|Onde
+- **Gu selvagens** — Gu que se formaram sozinhos, sem refinador. Ver [[04 - Onde um Gu Mora|Onde
   um Gu Mora]].
 - **Mares de restos de materiais imortais** e **formações de Gu antigas gigantescas** — uma delas
   exigiria "vários meses" para ser desvendada, e só espiar por uma fresta já consumiu tudo o que
@@ -351,14 +351,14 @@ rival lá dentro e um reino de sonho no fundo funcionam igual com rank 2 ou rank
 - [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] — a área feroz que
   não é uma área feroz.
 - [[03 - Marés de Bestas|Marés de Bestas]] — o que acontece quando alguém faz barulho lá dentro.
-- [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] e
-  [[19 - O Subsolo|O Subsolo]] — a geografia por trás desta nota.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma abertura
+- [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] e
+  [[06 - O Subsolo|O Subsolo]] — a geografia por trás desta nota.
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma abertura
   imortal e o que acontece com ela quando o dono morre.
-- [[19 - Dream Path|Dream Path]] — os reinos de sonho encontrados no fundo das aberturas órfãs.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a escala de feras: desoladas, antigas,
+- [[26 - Dream Path|Dream Path]] — os reinos de sonho encontrados no fundo das aberturas órfãs.
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a escala de feras: desoladas, antigas,
   imemoriais.
-- [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto custa e quanto demora
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto custa e quanto demora
   chegar a uma dessas zonas, e por que mapas estragam.
 - [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] — o acontecimento que
   fundiu as veias subterrâneas e produziu as Dez Terras.

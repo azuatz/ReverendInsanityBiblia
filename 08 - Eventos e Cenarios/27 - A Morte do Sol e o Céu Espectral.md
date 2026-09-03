@@ -260,7 +260,7 @@ concentra. É exatamente por isso que pertencer a uma organização grande vale 
 exatamente por isso que **um grupo de personagens tem o que fazer numa ascensão alheia**.
 
 Toda a tensão desse cenário é de rank 5 para baixo, com Gu Imortais só na periferia segurando
-calamidades. Ver [[11 - Ascensão Imortal|Ascensão Imortal]] para o procedimento completo.
+calamidades. Ver [[14 - Ascensão Imortal|Ascensão Imortal]] para o procedimento completo.
 
 ### O fenômeno inédito: os reinos de sonho que caçam
 
@@ -376,20 +376,20 @@ ambiente hostil visitável e ainda inteiramente inexplorado.
 ## Relações
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — as regras gerais desta pasta.
-- [[13 - Cosmologia|Cosmologia]] — os nove céus imemoriais, os dois que sobraram e a rede
+- [[17 - Cosmologia|Cosmologia]] — os nove céus imemoriais, os dois que sobraram e a rede
   celestial de que o Sol era o maior nó.
 - [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] — o processo que
   começou a dissipar a parede entre os dois céus.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos privados
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos privados
   que sofrem a crise, e a mecânica que o reino de sonho ensina por dentro.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o procedimento completo por trás da janela de
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o procedimento completo por trás da janela de
   ascensão.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — as calamidades que o
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — as calamidades que o
   sonhador enfrenta como dono de um mundo, e a teoria por trás delas.
-- [[19 - Dream Path|Dream Path]] — o caminho que estes reinos de sonho fazem amadurecer.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — a vontade que estabiliza no fim do processo.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
-  [[10 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as feras
+- [[26 - Dream Path|Dream Path]] — o caminho que estes reinos de sonho fazem amadurecer.
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — a vontade que estabiliza no fim do processo.
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
+  [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as feras
   deslocadas e suas dietas.
 - [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] — o estado político do
   cenário que convive com este estado ambiental.

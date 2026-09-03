@@ -37,7 +37,7 @@ dez anos, e só quem venceu a guerra daquele ciclo está lá dentro.
 > | | |
 > |---|---|
 > | **Tipo** | masmorra institucional por rodadas — uma fortaleza viva que se remonta sozinha |
-> | **Onde** | condensa-se **no ar, acima do palácio sagrado**, no centro da Corte Imperial, nas [[02 - Planícies do Norte\|Planícies do Norte]] |
+> | **Onde** | condensa-se **no ar, acima do palácio sagrado**, no centro da Corte Imperial, nas [[03 - Planícies do Norte|Planícies do Norte]] |
 > | **Quando** | cíclico: **a cada dez anos**, junto com a abertura da Corte Imperial |
 > | **Duração** | o ciclo inteiro do torneio; os andares continuam se formando enquanto ele roda |
 > | **Escala de poder** | rank 2 a 5; **nenhum Gu Imortal entra** — a proibição da Corte Imperial vale aqui |
@@ -211,7 +211,7 @@ jogável do lugar, porque permite ao jogador avaliar o prêmio antes de decidir 
    levar o prêmio é um resultado possível.
 5. **Usar Gu é permitido** dentro do domínio.
 6. **Há um truque canônico de sondagem:** criar uma *vontade* com Gu de
-   [[12 - Wisdom Path|caminho da sabedoria]], montá-la num verme de alma grande e mandá-la tocar
+   [[16 - Wisdom Path|caminho da sabedoria]], montá-la num verme de alma grande e mandá-la tocar
    a herança no seu lugar. Assim se **lê o conteúdo sem disparar o teste**. Funciona nas
    heranças comuns; falha nas superiores.
 7. **Heranças podem ser cascas vazias.** Uma delas foi encontrada sem o Gu Imortal e sem os três
@@ -309,12 +309,12 @@ Os três conflitos que o cenário gera sozinho, e que valem para qualquer faixa:
   relógio que abre este prédio, e a guerra que decide quem entra.
 - [[08 - Aberturas de Herança|Aberturas de Herança]] — a categoria geral de que o domínio das
   verdadeiras heranças é o exemplar mais extremo.
-- [[07 - Heranças e Provações|Heranças e Provações]] — como funciona uma herança neste mundo, e
+- [[12 - Heranças e Provações|Heranças e Provações]] — como funciona uma herança neste mundo, e
   o que um testador pode programar.
-- [[05 - Refino de Gu|Refino de Gu]] — o processo que o prédio executa sozinho, e sem o qual o
+- [[06 - Refino de Gu|Refino de Gu]] — o processo que o prédio executa sozinho, e sem o qual o
   mecanismo dele não faz sentido.
-- [[12 - Gu Imortais|Gu Imortais]] — o que está de fato em jogo nas rodadas altas.
-- [[06 - Enslavement Path|Enslavement Path]] — o caminho por trás da rodada dos leões e dos
+- [[16 - Gu Imortais|Gu Imortais]] — o que está de fato em jogo nas rodadas altas.
+- [[07 - Enslavement Path|Enslavement Path]] — o caminho por trás da rodada dos leões e dos
   peixes, e um lembrete de que as provas testam método, não força.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

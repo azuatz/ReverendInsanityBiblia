@@ -133,7 +133,7 @@ aposta. E o número que a mesa precisa ouvir antes de gastar: **numa casa pequen
 pedras são maciças, sem Gu nenhum; e mesmo quando há Gu, quase sempre está morto**. Quem tira um Gu
 vivo raro *"ou vira uma pessoa de sucesso, ou é assassinado e roubado"*. Detalhes em
 [[09 - Aposta de Rochas|Aposta de Rochas]] e
-[[15 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
+[[22 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
 
 **A casa da árvore.** A loja de alto padrão, e ela tem **três andares**: o primeiro vende Gu de
 rank 1, o segundo de rank 2, o terceiro de rank 3 — quanto mais alto, menos peças e mais caro. Não
@@ -202,7 +202,7 @@ dupla de rank 1 e rank 3. O ponto fraco é geográfico e psicológico: quem rece
 milhares de li de distância se sente a uma distância segura e não presta atenção, e ninguém associa
 procurados a duas pessoas de aparência comum trabalhando como carregadores. **Mandados funcionam mal
 contra quem é anônimo e se move.** Ver
-[[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]].
+[[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]].
 
 ---
 
@@ -441,15 +441,15 @@ Caçador de recompensa com um maço de cartazes na mão. Ou o alvo de um deles, 
   competições que acontecem dentro dos festivais.
 - [[04 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] — a rota
   infestada que a caravana atravessa e o leilão de liquidação de um clã morto.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — a economia por trás de tudo isto.
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — a economia por trás de tudo isto.
 - [[09 - Aposta de Rochas|Aposta de Rochas]] — a mecânica da aposta em fósseis, em detalhe.
-- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o que as coisas custam e o que
+- [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o que as coisas custam e o que
   cada atividade rende.
-- [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — os mandados de
+- [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — os mandados de
   captura que viajam com as caravanas.
-- [[04 - Vida Cotidiana|Vida Cotidiana]] e
-  [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — o pano de fundo social de tudo isto.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário institucional
+- [[10 - Vida Cotidiana|Vida Cotidiana]] e
+  [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — o pano de fundo social de tudo isto.
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário institucional
   do mundo visto do lado da economia.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do
   sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

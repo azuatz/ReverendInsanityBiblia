@@ -79,7 +79,7 @@ Regras comuns aos quatro cenários, e que a mesa deve conhecer antes de entrar e
 6. **O boato é parte do desastre.** Em três dos quatro casos, o conselho de anciãos teme a
    notícia tanto quanto o fato — porque um rival informado pode **piorar o problema de
    propósito**. Segurar a informação é uma missão em si. Ver
-   [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]].
+   [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]].
 
 > [!warning] A trava canônica destes cenários
 > A mesma dos outros da faixa mortal, e a mais simples de todas: **não há ninguém mais forte por
@@ -368,11 +368,11 @@ O leque para a mesa, em qualquer dos quatro:
   Caso A destrinchado como estudo mecânico.
 - [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — os zumbis, o veneno
   cadavérico e a abertura morta dos zumbis voadores.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
-  [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] —
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
+  [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] —
   o que é um terreno proibido e por que eles estão em toda parte.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — como um leilão funciona por dentro.
-- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — para calibrar o custo de
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — como um leilão funciona por dentro.
+- [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — para calibrar o custo de
   cura, de escolta e de travessia.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números
   do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

@@ -76,12 +76,12 @@ mudam tudo:
    em descobrir do caminho algo **que ainda não existia no mundo**, e nenhum legado contém o
    que o predecessor não criou. Inovação, por definição, não se herda. Talento é requisito;
    dez mil anos de estudo sem ele não bastam. Os degraus e essa regra estão em
-   [[06 - Attainment|Attainment]] e em [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]].
+   [[08 - Attainment|Attainment]] e em [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]].
 9. **Conflito e ressonância entre caminhos são quantificados.** Em um território saturado
    de marcas hostis, um caminho comum perde 50–60% de potência; um caminho "menor" perde
    apenas 20–39% — a vantagem estrutural de ser pequeno. Dentro do **Rio do Tempo** (a
    corrente do tempo que atravessa o mundo por baixo da realidade cotidiana, descrita em
-   [[13 - Cosmologia#O Rio do Tempo]]), todo caminho que não seja o do tempo cai a menos de 10%. Dentro de um
+   [[17 - Cosmologia#O Rio do Tempo]]), todo caminho que não seja o do tempo cai a menos de 10%. Dentro de um
    campo de batalha criado por um golpe inimigo, o caminho do criador suprime os demais —
    inclusive os outros caminhos do próprio criador. Os números desta regra e os de
    ressonância estão consolidados em
@@ -93,14 +93,14 @@ mudam tudo:
     caminho imitado; (b) o efeito imitado é quase inútil contra um praticante nativo daquele
     caminho. E para *desfazer* um efeito imitado é preciso atacar o caminho que realmente o
     produziu por baixo, não o caminho aparente.
-11. **O [[16 - Rule Path|caminho da regra]] é a "mãe" de todos** — o mais universal, feito dos
+11. **O [[21 - Rule Path|caminho da regra]] é a "mãe" de todos** — o mais universal, feito dos
     conceitos abstratos (grande/pequeno, alto/baixo, verdadeiro/falso, os números). Outros
     caminhos brotam dele como sub-ramos. Aqui "mãe" significa **generalidade conceitual**,
     não antiguidade: o caminho da regra tem criador datado e é muito posterior aos
     primordiais da regra 3. Ele é a mãe no sentido em que a aritmética é a "mãe" da
     engenharia — mais abstrata e aplicável a tudo, não mais velha.
 12. **Dois caminhos deixam "significado verdadeiro" com muito mais facilidade que os outros** — o
-    [[16 - Rule Path|da regra]] e o [[12 - Wisdom Path|da sabedoria]] —, porque *todo significado
+    [[21 - Rule Path|da regra]] e o [[16 - Wisdom Path|da sabedoria]] —, porque *todo significado
     verdadeiro envolve a **verdade** do caminho da regra e a **vontade** do caminho da sabedoria*.
     **Mas eles não são os únicos:** os demais caminhos conseguem deixar o seu **desde que alcancem
     certo nível de imitação desses dois**. A obra dá exemplos nominais — significado verdadeiro do
@@ -124,12 +124,12 @@ aula, e essa cronologia é a espinha dorsal de todo o domínio.
 
 | Era | Caminhos criados nela | Criador, quando a obra nomeia |
 |---|---|---|
-| **Antiguidade Imemorial** (a era do Ancestral Humano) | [[11 - Space Path\|espaço]] e [[13 - Time Path\|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
-| **Antiguidade Remota** | [[20 - Qi Path\|qi]] e [[06 - Enslavement Path\|escravização]] · [[12 - Wisdom Path\|sabedoria]] e [[14 - Star Path\|estrela]] · [[21 - Formation Path\|formação]] · [[07 - Refinement Path\|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
-| **Antiguidade Passada** | [[16 - Rule Path\|regra]] · [[05 - Transformation Path\|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
-| **Antiguidade Medieval** | madeira · [[24 - Theft Path\|roubo]] · [[18 - Luck Path\|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[22 - Information Path\|informação]] · [[25 - Sound Path\|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
-| **Antiguidade Tardia e era atual** | osso · [[26 - Phantom Path\|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
-| **Ainda não criados** | [[19 - Dream Path\|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
+| **Antiguidade Imemorial** (a era do Ancestral Humano) | [[14 - Space Path|espaço]] e [[18 - Time Path|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
+| **Antiguidade Remota** | [[05 - Qi Path|qi]] e [[07 - Enslavement Path|escravização]] · [[16 - Wisdom Path|sabedoria]] e [[19 - Star Path|estrela]] · [[09 - Formation Path|formação]] · [[08 - Refinement Path|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
+| **Antiguidade Passada** | [[21 - Rule Path|regra]] · [[06 - Transformation Path|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
+| **Antiguidade Medieval** | madeira · [[15 - Theft Path|roubo]] · [[23 - Luck Path|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[17 - Information Path|informação]] · [[13 - Sound Path|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
+| **Antiguidade Tardia e era atual** | osso · [[22 - Phantom Path|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
+| **Ainda não criados** | [[26 - Dream Path|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
 
 Três leituras que essa tabela permite:
 
@@ -140,7 +140,7 @@ Três leituras que essa tabela permite:
   em cena. Este não é um sistema fechado.
 - **E fundar um caminho pode dar errado.** Um Venerável criou um caminho que *não conseguiu alcançar
   a mudança qualitativa para se tornar um caminho totalmente novo*; outro tentou fundar o caminho da
-  matança, **falhou**, e criou o [[10 - Soul Path|caminho da alma]] como subproduto. Ver
+  matança, **falhou**, e criou o [[12 - Soul Path|caminho da alma]] como subproduto. Ver
   [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 
 ### Caminhos principais e caminhos menores
@@ -151,8 +151,8 @@ A obra faz essa distinção **formalmente**. Ao terminar a enumeração acima, o
 > menores** como o do encantamento, o da ilusão e outros ficam omitidos por ora.
 
 "Menor" significa **pouco praticado e pouco desenvolvido**, não pouco potente — o
-[[25 - Sound Path|caminho do som]] é chamado de menor e produziu grandes peritos de nível 8, e a
-profundidade suprema do [[26 - Phantom Path|caminho fantasma]], também menor, sustenta a maior
+[[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes peritos de nível 8, e a
+profundidade suprema do [[22 - Phantom Path|caminho fantasma]], também menor, sustenta a maior
 organização do mundo. Ser menor tem inclusive uma **vantagem mecânica**: metade da penalidade
 territorial (ver a regra 9).
 
@@ -207,7 +207,7 @@ E há **uma exceção absoluta e canônica**:
 > céu; portanto, **o significado verdadeiro do caminho do céu nunca existiu!*** Nem mesmo a maior
 > instituição do mundo *jamais viu nem ouviu falar dele*. Reinos de sonho daquele caminho apenas
 > mantêm uma **conexão** com esse significado ausente, e é preciso compreendê-la para subir de
-> domínio. Isso torna o [[17 - Heaven Path|caminho do céu]] o único caminho do mundo **sem atalho de
+> domínio. Isso torna o [[25 - Heaven Path|caminho do céu]] o único caminho do mundo **sem atalho de
 > herança possível** — e explica por que a barreira de entrada dele é a mais alta que existe.
 
 ## Como nasce um caminho (a regra que reorganiza tudo)
@@ -227,7 +227,7 @@ Portanto:
 > construído em cima deles.**
 
 O corolário é jogável e forte: **um caminho pode existir "de fato" e não existir "de
-direito"**. Na era atual da obra, o [[19 - Dream Path|caminho dos sonhos]] ainda não foi criado
+direito"**. Na era atual da obra, o [[26 - Dream Path|caminho dos sonhos]] ainda não foi criado
 por ninguém — os fenômenos existem, os recursos existem, e é exatamente por isso que quase
 ninguém consegue explorá-los. O material está no chão esperando alguém escrever o manual.
 
@@ -244,7 +244,7 @@ Dois títulos que se confundem facilmente e não são a mesma coisa:
 As duas coisas são independentes: quem criou um caminho não é automaticamente seu Dao Lord,
 e alguém pode se tornar Dao Lord de um caminho que não criou.
 
-**A nota dona deste assunto é [[13 - Tornar-se Venerável|Tornar-se Venerável]]**, e é lá que estão o escopo exato do
+**A nota dona deste assunto é [[19 - Tornar-se Venerável|Tornar-se Venerável]]**, e é lá que estão o escopo exato do
 poder, o que exatamente o destranca e como ele se perde. Consulte-a antes de escrever
 qualquer regra: o que segue aqui é só o que um estudioso de caminhos precisa saber.
 
@@ -254,7 +254,7 @@ qualquer regra: o que segue aqui é só o que um estudioso de caminhos precisa s
 > por caminho de cada vez. Existe também uma formulação mais restrita, ligada a "possuir uma
 > porção de céu e terra", que sugeriria vários senhores territoriais por caminho. As duas
 > aparecem no texto; adotamos a mundial como padrão, por ser a dominante e a que
-> [[13 - Tornar-se Venerável|Tornar-se Venerável]] e [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] usam. Se você preferir a versão
+> [[19 - Tornar-se Venerável|Tornar-se Venerável]] e [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] usam. Se você preferir a versão
 > territorial para ter mais de um antagonista de topo por caminho, é uma escolha legítima —
 > só precisa ser feita uma vez, e não caminho a caminho.
 >
@@ -288,16 +288,16 @@ Os pares que a obra nomeia:
 
 | Venerável | Caminho principal | Caminho de especialidade |
 |---|---|---|
-| A criadora da sabedoria | [[12 - Wisdom Path\|sabedoria]] | [[14 - Star Path\|estrela]] |
+| A criadora da sabedoria | [[16 - Wisdom Path|sabedoria]] | [[19 - Star Path|estrela]] |
 | O criador da madeira | madeira | [[28 - Painting Path\|pintura]] |
-| O criador do roubo | [[24 - Theft Path\|roubo]] | [[11 - Space Path\|espaço]] |
-| O criador da sorte | [[18 - Luck Path\|sorte]] | [[03 - Blood Path\|sangue]] |
-| O arquiteto da ordem | terra | [[17 - Heaven Path\|céu]] |
-| O criador da transformação | [[05 - Transformation Path\|transformação]] | [[04 - Strength Path\|força]] |
+| O criador do roubo | [[15 - Theft Path|roubo]] | [[14 - Space Path|espaço]] |
+| O criador da sorte | [[23 - Luck Path|sorte]] | [[03 - Blood Path\|sangue]] |
+| O arquiteto da ordem | terra | [[25 - Heaven Path|céu]] |
+| O criador da transformação | [[06 - Transformation Path|transformação]] | [[04 - Strength Path\|força]] |
 
 Repare em duas coisas. Primeiro, **a especialidade nem sempre é secreta na prática** — a obra
 registra um Venerável recitando os pares dos rivais em voz alta. O sigilo é um ideal que o tempo
-corrói. Segundo, **um dos dez tinha o [[17 - Heaven Path|caminho do céu]] como especialidade**, o que
+corrói. Segundo, **um dos dez tinha o [[25 - Heaven Path|caminho do céu]] como especialidade**, o que
 não contradiz a regra de que nenhum deles o cultivou *de verdade*: ele obteve e modificou um método
 daquele caminho, não construiu o caminho.
 
@@ -316,7 +316,7 @@ porque separa **potência** de **competência**.
   completamente comum no refinamento.
 
 A escala tem **oito degraus**, e a lista completa, com o que cada degrau destranca, mora em
-[[06 - Attainment|Attainment]] — que é a nota dona do assunto. Os números fechados estão em
+[[08 - Attainment|Attainment]] — que é a nota dona do assunto. Os números fechados estão em
 [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]]. Para orientar a leitura desta
 pasta, basta guardar a forma da escada:
 
@@ -356,10 +356,10 @@ dos personagens fortes faz:
 - **Um caminho principal** define o conjunto de Gu, o estilo de combate e a economia
   pessoal. É onde estão os Gu caros e os golpes de assinatura.
 - **Um ou mais caminhos secundários** cobrem lacunas. Os secundários mais valiosos são os
-  **transversais**, que servem a qualquer caminho: o [[07 - Refinement Path|do refinamento]]
-  (fabricar os próprios Gu em vez de comprá-los), o [[12 - Wisdom Path|da sabedoria]] (deduzir
-  receitas e prever inimigos), o [[16 - Rule Path|da regra]] (amplificar qualquer efeito) e o
-  [[15 - Food Path|da comida]] (alimentar o próprio arsenal).
+  **transversais**, que servem a qualquer caminho: o [[08 - Refinement Path|do refinamento]]
+  (fabricar os próprios Gu em vez de comprá-los), o [[16 - Wisdom Path|da sabedoria]] (deduzir
+  receitas e prever inimigos), o [[21 - Rule Path|da regra]] (amplificar qualquer efeito) e o
+  [[20 - Food Path|da comida]] (alimentar o próprio arsenal).
 
 Os caminhos "de vitrine" — força, transformação, espada — dão combate. Os caminhos de
 infraestrutura — refinamento, sabedoria, comida, formações — dão **autonomia**. Um
@@ -395,12 +395,12 @@ dos aliados.
   por mais rica, produz um supremo grão-mestre sem talento genuíno. Isso desmonta a premissa
   de qualquer clã que acredite poder comprar o topo: existe exatamente **um** degrau que
   nenhuma riqueza alcança, e é o que separa quem domina o caminho de quem o expande.
-- **Que o [[19 - Dream Path|caminho dos sonhos]] ainda não existe formalmente** na era atual —
+- **Que o [[26 - Dream Path|caminho dos sonhos]] ainda não existe formalmente** na era atual —
   há um caminho inteiro deitado no chão esperando um fundador. E que **o caminho da matança
   também não existe, mas por outro motivo**: um Venerável Demônio *tentou* fundá-lo, **falhou**, e
-  criou o [[10 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
+  criou o [[12 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
   [[29 - Os Demais Caminhos|Os Demais Caminhos]].
-- **Que o [[17 - Heaven Path|caminho do céu]] é cultivável**, com o limiar de entrada mais alto
+- **Que o [[25 - Heaven Path|caminho do céu]] é cultivável**, com o limiar de entrada mais alto
   de todos. Nenhum dos dez Veneráveis o cultivou de verdade — e **o significado verdadeiro dele
   nunca existiu**, o que faz dele o único caminho do mundo sem atalho de herança possível.
 - **Que fundar um caminho pode dar errado, mesmo para um Venerável.** Existe o registro de um
@@ -434,14 +434,14 @@ seção em vez de repeti-la.
 
 | Notação | Significa |
 |---|---|
-| **⭐** | Gu Imortal: existe **um único exemplar no mundo inteiro**, e ele não é fabricável em série. Ver [[12 - Gu Imortais|Gu Imortais]]. |
+| **⭐** | Gu Imortal: existe **um único exemplar no mundo inteiro**, e ele não é fabricável em série. Ver [[16 - Gu Imortais|Gu Imortais]]. |
 | **1 a 5** | Gu mortal. O número é o nível do Gu, e ele trava quem pode acioná-lo: usar um Gu acima do próprio rank danifica ou destrói a abertura. |
 | **6 a 8** | Gu Imortal. Só um Mestre Gu Imortal (rank 6 ou acima) aciona. |
 | **9** | Nível dos Veneráveis. Fora do alcance de qualquer personagem jogável. |
 | **`—`** | **A obra não informa o nível daquele Gu.** Não é zero, não é "irrelevante" e não foi esquecido: é lacuna real da fonte. Trate como espaço em branco que você pode preencher. |
 | **⭐ com `—`** | Caso comum e só *parcialmente* vazio: como todo Gu Imortal fica entre os níveis 6 e 8, a linha está **limitada a essa faixa** mesmo sem número. A obra nomeia o Gu e descreve o efeito, mas nunca diz o nível exato. |
 | **`efêmero`** | O Gu **não persiste**: existe por um instante e se desfaz. Nível não se aplica, porque o Gu não é um bem que alguém guarde ou acione duas vezes. |
-| **X → Y** | O Gu **evolui**: existe primeiro na forma de nível X e pode ser promovido à forma de nível Y, que **consome** a inferior. Não são duas versões coexistindo — [[12 - Gu Imortais|Gu Imortais]] estabelece que duas versões do mesmo Gu Imortal **não podem existir ao mesmo tempo no mundo**. A seta é uma linha do tempo, não uma faixa. |
+| **X → Y** | O Gu **evolui**: existe primeiro na forma de nível X e pode ser promovido à forma de nível Y, que **consome** a inferior. Não são duas versões coexistindo — [[16 - Gu Imortais|Gu Imortais]] estabelece que duas versões do mesmo Gu Imortal **não podem existir ao mesmo tempo no mundo**. A seta é uma linha do tempo, não uma faixa. |
 | **X (máximo)** | O Gu chega até o nível X e **para ali**: um teto de evolução declarado pela obra, não uma lacuna. |
 
 > [!note] Para o design
@@ -454,15 +454,15 @@ seção em vez de repeti-la.
 São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que cobrem outros
 **vinte e cinco**. Este mapa agrupa por **função em jogo** — para que serve cada um numa mesa:
 
-**Caminhos de combate e corpo:** [[03 - Blood Path|Blood Path]] · [[04 - Strength Path|Strength Path]] · [[05 - Transformation Path|Transformation Path]] · [[09 - Sword Path|Sword Path]] · [[08 - Poison Path|Poison Path]] · [[24 - Theft Path|Theft Path]]
+**Caminhos de combate e corpo:** [[03 - Blood Path|Blood Path]] · [[04 - Strength Path|Strength Path]] · [[06 - Transformation Path|Transformation Path]] · [[11 - Sword Path|Sword Path]] · [[10 - Poison Path|Poison Path]] · [[15 - Theft Path|Theft Path]]
 
-**Caminhos de mente e alma:** [[12 - Wisdom Path|Wisdom Path]] · [[10 - Soul Path|Soul Path]] · [[06 - Enslavement Path|Enslavement Path]] · [[19 - Dream Path|Dream Path]] · [[25 - Sound Path|Sound Path]]
+**Caminhos de mente e alma:** [[16 - Wisdom Path|Wisdom Path]] · [[12 - Soul Path|Soul Path]] · [[07 - Enslavement Path|Enslavement Path]] · [[26 - Dream Path|Dream Path]] · [[13 - Sound Path|Sound Path]]
 
-**Caminhos fundamentais e abstratos:** [[13 - Time Path|Time Path]] · [[11 - Space Path|Space Path]] · [[16 - Rule Path|Rule Path]] · [[18 - Luck Path|Luck Path]] · [[17 - Heaven Path|Heaven Path]] · [[23 - Human Path|Human Path]] · [[26 - Phantom Path|Phantom Path]]
+**Caminhos fundamentais e abstratos:** [[18 - Time Path|Time Path]] · [[14 - Space Path|Space Path]] · [[21 - Rule Path|Rule Path]] · [[23 - Luck Path|Luck Path]] · [[25 - Heaven Path|Heaven Path]] · [[24 - Human Path|Human Path]] · [[22 - Phantom Path|Phantom Path]]
 
-**Caminhos de infraestrutura:** [[07 - Refinement Path|Refinement Path]] · [[15 - Food Path|Food Path]] · [[14 - Star Path|Star Path]] · [[21 - Formation Path|Formation Path]] · [[22 - Information Path|Information Path]] · [[28 - Painting Path|Painting Path]]
+**Caminhos de infraestrutura:** [[08 - Refinement Path|Refinement Path]] · [[20 - Food Path|Food Path]] · [[19 - Star Path|Star Path]] · [[09 - Formation Path|Formation Path]] · [[17 - Information Path|Information Path]] · [[28 - Painting Path|Painting Path]]
 
-**Caminhos históricos e coletivos:** [[20 - Qi Path|Qi Path]] (o caminho extinto) · [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] (doze caminhos naturais num só verbete cada) · [[29 - Os Demais Caminhos|Os Demais Caminhos]] (os menores, os ramos, o que fracassou e o que nunca nasceu)
+**Caminhos históricos e coletivos:** [[05 - Qi Path|Qi Path]] (o caminho extinto) · [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] (doze caminhos naturais num só verbete cada) · [[29 - Os Demais Caminhos|Os Demais Caminhos]] (os menores, os ramos, o que fracassou e o que nunca nasceu)
 
 > [!note] Existe uma segunda partição dos mesmos caminhos
 > [[00 - Trilha do Jogador|Trilha do Jogador]] reparte esta lista por **camada de conhecimento** — o que
@@ -474,11 +474,11 @@ São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que
 ## Relações
 
 - [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] — a base de tudo: o que é um Gu e como funciona.
-- [[07 - Killer Moves|Killer Moves]] — como Gu de um caminho se combinam em golpes.
-- [[05 - Refino de Gu|Refino de Gu]] — o processo que dá nome ao caminho do refinamento.
+- [[08 - Killer Moves|Killer Moves]] — como Gu de um caminho se combinam em golpes.
+- [[06 - Refino de Gu|Refino de Gu]] — o processo que dá nome ao caminho do refinamento.
 - [[05 - Ranks e Avanço|Ranks e Estágios de Cultivo]] — a barra de poder, paralela à barra de domínio.
-- [[06 - Attainment|Attainment]] — a barra de domínio em detalhe: os oito degraus e como se sobe cada um.
-- [[13 - Tornar-se Venerável|Tornar-se Venerável]] — a nota dona do conceito de Dao Lord e do topo da escada.
+- [[08 - Attainment|Attainment]] — a barra de domínio em detalhe: os oito degraus e como se sobe cada um.
+- [[19 - Tornar-se Venerável|Tornar-se Venerável]] — a nota dona do conceito de Dao Lord e do topo da escada.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**. Sempre que
   esta nota citar um número, é de lá que ele vem; em caso de divergência, aquela nota vence.
 

@@ -163,7 +163,7 @@ Para entender o que um Gu é antes de consultar as listas, comece por
 ## Notas relacionadas
 
 - [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as duas listas.
-- [[02 - O que é um Gu|O que é um Gu]] · [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] · [[05 - Refino de Gu|Refino de Gu]] — o que um Gu é,
+- [[02 - O que é um Gu|O que é um Gu]] · [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] · [[06 - Refino de Gu|Refino de Gu]] — o que um Gu é,
   como se obtém e como se mantém.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — a referência correta para "quais caminhos existem",
   que as seções do catálogo **não** substituem.

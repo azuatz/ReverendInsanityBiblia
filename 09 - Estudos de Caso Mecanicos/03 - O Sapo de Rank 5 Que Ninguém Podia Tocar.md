@@ -17,7 +17,7 @@ conhecimento: comum
 dedução nossa a partir do que a obra afirma; `*` = invenção nossa; `—` = a obra não
 informa. Apagar tudo marcado com `*` devolve a nota a cem por cento canônico.
 
-**A regra que este caso ilustra:** uma [[07 - Bestas Gu e Reis Fera|besta Gu]] selvagem
+**A regra que este caso ilustra:** uma [[10 - Bestas Gu e Reis Fera|besta Gu]] selvagem
 não é uma ficha de combate — é um ==protocolo de instinto==, com gatilhos declarados. Quem
 conhece os gatilhos resolve um problema de rank 5 sem lutar, e o faz com recursos de rank
 1. Este é o caso que melhor mostra por que "informação" é o recurso mais valioso do
@@ -111,6 +111,6 @@ lê o que percebe.
 
 ## Relações
 
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que são essas criaturas e como o mundo lida com elas.
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — o que são essas criaturas e como o mundo lida com elas.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — a regra de que um Gu guardado na abertura não vaza aura.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o valor de quinhentas pedras no orçamento de um iniciante.
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o valor de quinhentas pedras no orçamento de um iniciante.

@@ -36,7 +36,7 @@ campanha inteira da obra.
 > | | |
 > |---|---|
 > | **Tipo** | calamidade climática que dispara uma cadeia de assembleia, guerra e torneio |
-> | **Onde** | as [[02 - Planícies do Norte\|Planícies do Norte]] inteiras — estepe aberta, sem montanhas e sem abrigo natural |
+> | **Onde** | as [[03 - Planícies do Norte|Planícies do Norte]] inteiras — estepe aberta, sem montanhas e sem abrigo natural |
 > | **Quando** | cíclico: **a cada dez anos**, com data conhecida de todos |
 > | **Duração** | a nevasca dura **meses**; o ciclo completo de preparação ocupa a década inteira |
 > | **Escala de poder** | rank 2 a 5; centenas de milhares de combatentes; **Gu Imortais ficam de fora da fase final** |
@@ -45,7 +45,7 @@ campanha inteira da obra.
 ## Por que acontece
 
 As Planícies do Norte são uma estepe. A obra faz a comparação explícita: na
-[[01 - Fronteira Sul|Fronteira Sul]], onde há montanhas, os humanos constroem vilas
+[[02 - Fronteira Sul|Fronteira Sul]], onde há montanhas, os humanos constroem vilas
 fortificadas e se defendem atrás de muros; nas Planícies do Norte não há montanhas, e as tribos
 "têm de sofrer o batismo do vento e da neve". Não existe geografia para se esconder atrás.
 
@@ -57,7 +57,7 @@ Isso significa que a região tem um problema que se repete com pontualidade de c
 **nenhuma tribo resolve sozinha**. A resposta que a região construiu ao longo de milênios é uma
 sequência de instituições encaixadas umas nas outras, todas com o mesmo prazo: uma assembleia
 para escolher quem lidera, uma guerra para decidir entre os líderes, e um torneio cujo prêmio é
-o direito de entrar no único lugar seguro que existe — uma [[09 - Blessed Lands e Grotto-Heavens|terra abençoada]]
+o direito de entrar no único lugar seguro que existe — uma [[13 - Blessed Lands e Grotto-Heavens|terra abençoada]]
 chamada **Corte Imperial** (*Imperial Court*, também *Wang Ting*), que abre uma vez a cada dez
 anos.
 
@@ -83,7 +83,7 @@ temporada de caça de verdade — o pior momento do ano é quando os melhores bi
 
 A nevasca também **destrói qualquer herança deixada ao ar livre**. Nas outras regiões um
 cultivador pode esconder seu legado numa gruta e esperar séculos; aqui, não. É por isso que
-praticamente todas as [[07 - Heranças e Provações|heranças]] do norte estão guardadas dentro da
+praticamente todas as [[12 - Heranças e Provações|heranças]] do norte estão guardadas dentro da
 Corte Imperial — a nevasca varreu todo o resto.
 
 **A assembleia dos heróis** (*heroes assembly*) é um acampamento-feira montado em campo aberto,
@@ -104,7 +104,7 @@ fica o **palácio sagrado**, uma das quatro câmaras de repouso que o Venerável
 (as outras três ficam nas outras regiões). Há pequenas torres espalhadas **a cada oito li** por
 todo o terreno. E há uma peculiaridade que quebra métodos inteiros de cultivo: **não existe luz
 de estrelas no céu da Corte Imperial**, de modo que quem depende de
-[[14 - Star Path|caminho das estrelas]] fica sem chão ali dentro.
+[[19 - Star Path|caminho das estrelas]] fica sem chão ali dentro.
 
 ## As regras especiais que valem aqui
 
@@ -130,7 +130,7 @@ de estrelas no céu da Corte Imperial**, de modo que quem depende de
 7. **Alianças são seladas com Gu de juramento venenoso** (*poison vow Gu*), o que produz
    confiança real entre inimigos históricos: quem quebra o juramento é envenenado pelo próprio
    Gu. E é justamente por isso que Gu capazes de **anular juramentos** são artigos de valor
-   extremo. Ver [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+   extremo. Ver [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
 8. **Antes da carga vem o desafio de campeões.** Um lado manda um campeão à frente da formação e
    desafia um campeão nomeado do outro. A obra lista as **quatro funções** do costume, e vale a
    pena ler as quatro: eleva a moral do vencedor; **revela a força real do adversário** para o
@@ -148,7 +148,7 @@ de estrelas no céu da Corte Imperial**, de modo que quem depende de
     pela qual as heranças de lá sobreviveram intactas por milênios: os poderosos nunca puderam
     entrar para saqueá-las.
 12. **A proibição tem uma brecha conhecida, e todo Gu Imortal a enxerga.** A Corte Imperial é
-    uma terra abençoada **sem dono**, administrada por um [[09 - Blessed Lands e Grotto-Heavens|espírito da terra]].
+    uma terra abençoada **sem dono**, administrada por um [[13 - Blessed Lands e Grotto-Heavens|espírito da terra]].
     Enquanto o Venerável era vivo, o espírito obedecia a ele. Depois que ele morreu, a regra
     passou a ser a regra geral de qualquer terra abençoada órfã: **quem satisfizer a condição do
     espírito da terra vira o novo dono** — e quem controla a Corte Imperial controla tudo o que
@@ -356,12 +356,12 @@ declaradas na obra:
   dentro da Corte Imperial.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o que acontece com as tribos que
   perdem este ciclo, e o que acontece com a própria Corte Imperial quando ela troca de mãos.
-- [[14 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
+- [[10 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
   abastecido e gasto.
-- [[02 - Planícies do Norte|Planícies do Norte]] — as forças, tribos e geografia da região.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
+- [[03 - Planícies do Norte|Planícies do Norte]] — as forças, tribos e geografia da região.
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada, e a regra do espírito da terra que abre a brecha na proibição.
-- [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — os Gu de juramento
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — os Gu de juramento
   venenoso que seguram as alianças.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

@@ -221,7 +221,7 @@ O grau se traduz numa **porcentagem de capacidade de essência primeva** na aber
 | C | 40–59% | rank 2 (só na faixa 55–59%); rank 3 **quase nunca** (caps. 91, 105). 27 passos ≈ 44% |
 | B | 60–79% | rank 3, podendo 4 |
 | A | 80–99% | topo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | **100%** | ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] abaixo |
+| Constituição Extrema | **100%** | ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] abaixo |
 
 > [!warning] Correções aplicadas
 > A wiki e versões antigas deste rascunho diziam "D = abaixo de 40%" — errado; a faixa correta é 20–39%. A passagem que diz "20 a 30" descreve o D típico, não o limite da banda: as quatro faixas são regulares de vinte pontos e cobrem 20–99 sem vãos. E **não existe faixa abaixo de 20%**: o V1, ao descrever uma turma de jovens, separa os que são grau D dos que "não têm talento algum" — abaixo do D não há escala inferior, a pessoa simplesmente não é Mestre Gu.

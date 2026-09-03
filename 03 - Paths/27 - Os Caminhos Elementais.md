@@ -103,7 +103,7 @@ avisos, antes de qualquer coisa:
 9. **Os elementais são a matéria-prima do caminho das formações.** Uma formação usa Gu de
    metal, madeira, fogo, água e assim por diante — e é justamente por isso que o caminho das
    formações é o mais complexo de todos. (ded.) Elementais são tijolos; formação é arquitetura.
-   Ver [[21 - Formation Path|Formation Path]].
+   Ver [[09 - Formation Path|Formation Path]].
 
 ## O que a obra diz sobre contenção entre elementos
 
@@ -193,8 +193,8 @@ que os caminhos elementais revelam sua função real no mundo:
 
 ==A quantidade de marcas de cada caminho num território **é** o clima, a luz e o relevo daquele
 território.== Não é uma metáfora e não é bônus de combate: é a física do lugar. Ver
-[[12 - Dao Marks|Dao Marks]] e
-[[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+[[16 - Dao Marks|Dao Marks]] e
+[[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
 ### 3. O limiar: densidade suficiente **fabrica Gu sozinha**
 
@@ -222,11 +222,11 @@ onde as marcas de um caminho ficaram densas o suficiente para cruzar um limiar.=
 caminhos elementais são justamente os que saturam terreno com mais facilidade — chuva, erosão,
 vulcões, florestas, tempestades trabalhando de graça, sem ninguém precisar cultivar —, eles são a
 principal fonte de riqueza territorial do mundo. Ver
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
 O corolário econômico já aparece na tabela de domínio acima e ganha aqui sua explicação: um grande
 grão-mestre **usa as marcas naturais do ambiente diretamente**, dispensando o Gu Imortal
-correspondente; e um grande grão-mestre de [[21 - Formation Path|formações]] consegue, *num lugar
+correspondente; e um grande grão-mestre de [[09 - Formation Path|formações]] consegue, *num lugar
 com marcas naturais abundantes, montar uma formação de nível imortal usando apenas Gu mortais*.
 Terreno saturado é literalmente **desconto**.
 
@@ -250,10 +250,10 @@ mundo, e dominar um fundo o bastante é reencontrar os outros a partir dele.
 
 Os exemplos que a obra dá para ilustrar a regra atravessam a pasta inteira:
 
-- um golpe do **caminho da madeira** que imita o poder do [[13 - Time Path|caminho do tempo]];
+- um golpe do **caminho da madeira** que imita o poder do [[18 - Time Path|caminho do tempo]];
 - um golpe do caminho do **gelo e neve** que carrega poder do
-  [[05 - Transformation Path|caminho da transformação]];
-- um golpe do caminho da **terra** com efeito do [[22 - Information Path|caminho da informação]].
+  [[06 - Transformation Path|caminho da transformação]];
+- um golpe do caminho da **terra** com efeito do [[17 - Information Path|caminho da informação]].
 
 > [!note] Para o design
 > Esta é, disparada, a melhor justificativa de "multiclasse sem multiclassar" que o cenário oferece.
@@ -294,7 +294,7 @@ acumular herança, Gu Imortais e golpes.
 
 ## O que cada degrau de domínio destranca
 
-A escala geral está em [[06 - Attainment|Attainment]]. O que segue é o que a obra mostra
+A escala geral está em [[08 - Attainment|Attainment]]. O que segue é o que a obra mostra
 acontecendo especificamente nesta família — e é a tabela mais prática da nota:
 
 | Degrau | Destranca |
@@ -674,12 +674,12 @@ núcleos mais várias centenas de Gu mortais, apenas para **prolongar muito a du
 sensação opressiva*.
 
 **Fraqueza específica e nomeada:** *sendo um imortal do caminho das trevas, ele era **muito
-suprimido dentro do Rio do Tempo***. Ver [[13 - Cosmologia#O Rio do Tempo]].
+suprimido dentro do Rio do Tempo***. Ver [[17 - Cosmologia#O Rio do Tempo]].
 
 > [!warning] "Caminho das trevas" não é "caminho demoníaco"
 > São eixos completamente diferentes, e confundi-los é o erro mais fácil desta pasta.
 > **Demoníaco × justo** é a divisão **moral e política** do mundo — sobre a qual veja
-> [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]]. **Trevas** é um caminho
+> [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]]. **Trevas** é um caminho
 > elemental como fogo ou água. Praticantes de trevas aparecem como membros respeitáveis de
 > super forças e não carregam estigma declarado. A obra também usa "caminho das trevas" em
 > sentido metafórico ("enveredou por um caminho sombrio") que não é o caminho de cultivo.
@@ -796,8 +796,8 @@ Duas exceções canônicas ao custo de cultivar vários elementos:
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho, e a cronologia de criação de todos eles.
 - [[02 - Como se Escolhe um Caminho|Como se Escolhe um Caminho]] — de onde vêm as marcas do Dao e como o caminho de um imortal é determinado.
-- [[21 - Formation Path|Formation Path]] — o consumidor universal dos caminhos elementais.
-- [[07 - Refinement Path|Refinement Path]] — o par estrutural do fogo; refinar exige fogo.
-- [[06 - Attainment|Attainment]] — a escala de domínio, cujos degraus esta nota mostra em ação.
+- [[09 - Formation Path|Formation Path]] — o consumidor universal dos caminhos elementais.
+- [[08 - Refinement Path|Refinement Path]] — o par estrutural do fogo; refinar exige fogo.
+- [[08 - Attainment|Attainment]] — a escala de domínio, cujos degraus esta nota mostra em ação.
 - [[29 - Os Demais Caminhos|Os Demais Caminhos]] — os caminhos menores e os ramos derivados.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

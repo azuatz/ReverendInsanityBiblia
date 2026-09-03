@@ -70,7 +70,7 @@ primeira vez, um caminho.
 > [!warning] O que só o mestre sabe `[segredo]`
 > O projeto é o conserto do ==Gu do Destino== — o Gu de rank 9 que sustenta a ordem do
 > destino no mundo, danificado há cerca de um milhão de anos e desde então em reparo
-> lento. Ver [[12 - Fate Gu|Fate Gu]] e [[15 - Tribunal Celestial|Tribunal Celestial]].
+> lento. Ver [[16 - Fate Gu|Fate Gu]] e [[19 - Tribunal Celestial|Tribunal Celestial]].
 > Para os jogadores, e para a maioria esmagadora dos personagens do mundo, o que existe é
 > o boato: *aqueles lá do centro estão prestes a terminar alguma coisa, e quando
 > terminarem ninguém mais manda em nada.*
@@ -202,7 +202,7 @@ Gu do caminho do tempo para arbitrar quem terminou primeiro por milésimos de se
 > Ou seja: a instituição mais respeitada do mundo mantém o torneio mais generoso do mundo
 > porque **lucra com o fracasso alheio**. Um grupo de jogadores que descubra isso tem uma
 > sessão inteira só na decisão do que fazer com a informação. Ver
-> [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
+> [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
 
 ## O relógio do evento
 
@@ -326,15 +326,15 @@ decidir a hora de parar.
 - [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] — o processo que
   afinou as paredes regionais e tornou esta guerra fisicamente possível, e a fenda que
   engole a cidade.
-- [[14 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
+- [[10 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
   abastecido e gasto; esta nota descreve uma guerra concreta.
-- [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — a instituição do
+- [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — a instituição do
   torneio de artesãos, com suas regras e seu segredo.
-- [[15 - Tribunal Celestial|Tribunal Celestial]] e [[12 - Fate Gu|Fate Gu]] — a instituição
+- [[19 - Tribunal Celestial|Tribunal Celestial]] e [[16 - Fate Gu|Fate Gu]] — a instituição
   defensora e o projeto que ela quer concluir. `[segredo]`
 - [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] — a geografia das quatro frentes,
   incluindo a maior cidade mortal do mundo.
-- [[03 - Continente Central|Continente Central]] — as seitas que guarnecem a região e as
+- [[04 - Continente Central|Continente Central]] — as seitas que guarnecem a região e as
   casas de Gu que pairam sobre a cidade.
 - [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] — a travessia de paredes
   regionais e o que ela custa a quem é forte.

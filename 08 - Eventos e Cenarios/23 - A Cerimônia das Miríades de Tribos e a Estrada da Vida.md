@@ -49,7 +49,7 @@ lendo só esta nota.
 Antes do evento, o lugar — porque metade do valor desta nota está nele.
 
 O cenário é uma ==caverna-céu== (*grotto-heaven*): o mundo particular de um cultivador de topo,
-o grau acima de uma terra abençoada. Ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+o grau acima de uma terra abençoada. Ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 Esta em particular foi a abertura de um Venerável antigo — um dos dez maiores cultivadores da
 história — e foi deixada dentro do corpo de uma criatura, o que impregnou o lugar inteiro de
 marcas do **caminho da comida**. Lá dentro vivem incontáveis tribos que coexistem com as feras.
@@ -234,7 +234,7 @@ inteiras e, às vezes, a vida do adversário.
 **Na estrada:** a curva de prêmio já descrita, terminando em Gu Imortais de rank 8 e em materiais
 imemoriais. Os prêmios não são genéricos: a estrada é a herança do fundador do mundo, e alguns
 dos Gu que aparecem nela são peças **nomeadas no mito fundador** do mundo — e o mito, neste
-cenário, é um documento técnico, não uma fábula. Ver [[08 - Lendas de Ren Zu|Lendas de Ren Zu]].
+cenário, é um documento técnico, não uma fábula. Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 O que a obra diz sobre isso vale ser lembrado: os Gu mencionados no mito são todos de primeiríssima
 linha, com força aterrorizante ou capacidades incríveis, e é razoável esperar que estejam **perto
 do fim da estrada**.
@@ -331,15 +331,15 @@ exilados em vez de exterminá-los.
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta; a trava 11
   do cardápio de travas é exatamente o custo proporcional desta estrada.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma caverna-céu
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma caverna-céu
   e por que um mundo desses pode ter uma civilização inteira dentro.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — os totens e as vias de cultivo que não
+- [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — os totens e as vias de cultivo que não
   passam pelos Gu.
-- [[15 - Food Path|Food Path]] — o caminho que satura este mundo e explica por que ali se cultiva
+- [[20 - Food Path|Food Path]] — o caminho que satura este mundo e explica por que ali se cultiva
   comendo.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito fundador, que neste cenário funciona como
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito fundador, que neste cenário funciona como
   catálogo técnico: a subida e a descida da estrada, e os Gu que aparecem nela, estão lá.
-- [[07 - Heranças e Provações|Heranças e Provações]] e [[08 - Aberturas de Herança|Aberturas de Herança]]
+- [[12 - Heranças e Provações|Heranças e Provações]] e [[08 - Aberturas de Herança|Aberturas de Herança]]
   — a instituição da herança, de que a estrada é um caso extremo.
 - [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] — os outros formatos de torneio do
   mundo, para comparar regras.

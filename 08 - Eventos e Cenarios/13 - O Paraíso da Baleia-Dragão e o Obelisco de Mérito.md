@@ -30,7 +30,7 @@ o placar é público e as missões premiam consertar o mundo em vez de matar o q
 > | | |
 > |---|---|
 > | **Tipo** | herança de Venerável em forma de **sistema de missões** com placar público |
-> | **Onde** | dentro da abertura imortal de uma baleia-dragão azul, no [[05 - Mar Oriental\|Mar Oriental]]: um paraíso com ilhas, mares e sub-áreas isoladas umas das outras |
+> | **Onde** | dentro da abertura imortal de uma baleia-dragão azul, no [[06 - Mar Oriental|Mar Oriental]]: um paraíso com ilhas, mares e sub-áreas isoladas umas das outras |
 > | **Quando** | aberto a quem a encontrar. Várias expedições ao longo das eras — e o obelisco **continua sem dono** |
 > | **Duração** | **trezentos dias**, contados no tempo interno. Depois disso todos são expulsos automaticamente |
 > | **Escala de poder** | na obra, Gu Imortais de rank 6 a 8. O sistema é indiferente ao rank |
@@ -294,14 +294,14 @@ por informação, blefe, sabotagem indireta, aliança e a ameaça do dia trezent
   quadros de mérito comuns do mundo, dos quais este é a versão de luxo.
 - [[10 - A Subida da Montanha Dang Hun|A Subida da Montanha Dang Hun]] — a outra herança da obra em
   que não se pode matar ninguém, e o contraste: lá o prêmio é único, aqui é comprável.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é a abertura
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é a abertura
   imortal dentro da qual este mundo existe.
 - [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] — as arenas onde se morre sem
   morrer, mesmo princípio da prova de entrada daqui.
-- [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o que sustenta os
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o que sustenta os
   acordos feitos onde ninguém pode bater em ninguém.
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — quem foram os fundadores do
   mundo, e por que um deles deixaria uma herança assim.
-- [[05 - Mar Oriental|Mar Oriental]] — a região onde a baleia nada.
+- [[06 - Mar Oriental|Mar Oriental]] — a região onde a baleia nada.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números
   do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

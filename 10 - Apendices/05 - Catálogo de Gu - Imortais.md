@@ -818,5 +818,5 @@ tabela inteira a cada dúvida:
 
 - [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu de rank 1 a 5
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — escala das essências imortais, taxas de refino, dao marks
-- [[01 - Visão Geral dos Veneráveis|Veneráveis]] · [[12 - Dao Marks|Dao Marks]] · [[09 - Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[05 - Refino de Gu|Refino de Gu]]
+- [[01 - Visão Geral dos Veneráveis|Veneráveis]] · [[16 - Dao Marks|Dao Marks]] · [[13 - Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[06 - Refino de Gu|Refino de Gu]]
 - [[01 - Glossário EN-PT|Glossário EN-PT]] — o vocabulário usado aqui

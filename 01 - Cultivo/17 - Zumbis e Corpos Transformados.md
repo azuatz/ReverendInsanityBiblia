@@ -33,24 +33,24 @@ conhecimento: comum
 
 Vale começar desfazendo a expectativa. Neste mundo, "zumbi" não é uma criatura que alguém encontra numa masmorra — ou melhor, é *também* isso, mas o que importa mecanicamente é outra coisa: **zumbificar-se é uma decisão de carreira**, tomada por Mestres Gu e por imortais em pleno domínio das próprias faculdades, com preço tabelado e teto conhecido.
 
-A razão para alguém tomar essa decisão é sempre a mesma, e ela vem de [[09 - Longevidade|Longevidade]]: tempo de vida é um recurso separado do poder, que ninguém consegue fabricar. Quando os anos acabam e o item que os repõe não aparece, restam duas opções — morrer, ou parar de estar vivo sem morrer. A zumbificação é a segunda.
+A razão para alguém tomar essa decisão é sempre a mesma, e ela vem de [[12 - Longevidade|Longevidade]]: tempo de vida é um recurso separado do poder, que ninguém consegue fabricar. Quando os anos acabam e o item que os repõe não aparece, restam duas opções — morrer, ou parar de estar vivo sem morrer. A zumbificação é a segunda.
 
 O mundo não a considera legítima. A obra é explícita: existe **um único** método de estender a vida pela raiz reconhecido pelas leis do céu e da terra, e ele não é este. Zumbificação é gambiarra — e, como toda gambiarra deste cenário, funciona de fato e cobra no lugar mais caro possível.
 
 ## O que exatamente é um zumbi
 
-A definição técnica está numa frase da obra e explica tudo o que vem depois: **o corpo está morto, mas a alma continua nele.** A pessoa é "meio-morta" — só seria verdadeiramente morta se a alma fosse absorvida pela porta que recolhe os mortos deste mundo (ver [[14 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]]).
+A definição técnica está numa frase da obra e explica tudo o que vem depois: **o corpo está morto, mas a alma continua nele.** A pessoa é "meio-morta" — só seria verdadeiramente morta se a alma fosse absorvida pela porta que recolhe os mortos deste mundo (ver [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]]).
 
 E é justamente aí que mora a explicação cosmológica de por que existem zumbis:
 
 > [!warning] Conhecimento de mestre
-> **Zumbis não existiam sempre.** Eles passaram a existir quando um dos [[01 - Visão Geral dos Veneráveis|Veneráveis]] feriu deliberadamente o Gu que administra o destino do mundo. Desde então a porta da vida e da morte enfraqueceu e deixou de recolher todas as almas — e uma alma que fica presa a um corpo morto é, por definição, um zumbi. O mesmo dano é o que permitiu o surgimento das feras de alma. Ver [[12 - Fate Gu|Fate Gu]].
+> **Zumbis não existiam sempre.** Eles passaram a existir quando um dos [[01 - Visão Geral dos Veneráveis|Veneráveis]] feriu deliberadamente o Gu que administra o destino do mundo. Desde então a porta da vida e da morte enfraqueceu e deixou de recolher todas as almas — e uma alma que fica presa a um corpo morto é, por definição, um zumbi. O mesmo dano é o que permitiu o surgimento das feras de alma. Ver [[16 - Fate Gu|Fate Gu]].
 >
-> A consequência política é a parte deliciosa: como o zumbi é alguém que **escapou do destino**, ele é literalmente uma anomalia no sistema de contabilidade do céu. O [[15 - Tribunal Celestial|Tribunal Celestial]] se opõe à zumbificação e não consegue impedi-la — "não conseguiram resistir aos desejos dos homens" —, e **matar um zumbi imortal acelera diretamente o conserto do Gu do destino**. Isso transforma uma caçada num serviço público cósmico, e dá ao mestre uma facção inteira com motivo declarado para exterminar personagens que só queriam continuar existindo.
+> A consequência política é a parte deliciosa: como o zumbi é alguém que **escapou do destino**, ele é literalmente uma anomalia no sistema de contabilidade do céu. O [[19 - Tribunal Celestial|Tribunal Celestial]] se opõe à zumbificação e não consegue impedi-la — "não conseguiram resistir aos desejos dos homens" —, e **matar um zumbi imortal acelera diretamente o conserto do Gu do destino**. Isso transforma uma caçada num serviço público cósmico, e dá ao mestre uma facção inteira com motivo declarado para exterminar personagens que só queriam continuar existindo.
 
 ## A escada de Gu: como alguém se torna zumbi de propósito
 
-Existe uma linhagem completa de Gu para isso, difundida pelas cinco regiões, e ela espelha a escada de ranks mortal degrau por degrau. É a rota **voluntária**, e pertence ao [[05 - Transformation Path|caminho da transformação]].
+Existe uma linhagem completa de Gu para isso, difundida pelas cinco regiões, e ela espelha a escada de ranks mortal degrau por degrau. É a rota **voluntária**, e pertence ao [[06 - Transformation Path|caminho da transformação]].
 
 | Rank do Gu | Nome | O que acrescenta |
 |---|---|---|
@@ -94,7 +94,7 @@ Uma linhagem específica de Gu produz zumbis a partir de cadáveres — um Gu-co
 | Cabelo verde | comparável a um rei-fera de mil, à noite | — | exige um **cadáver de nível 4 que tenha usado Gu de força em vida**, mais um a dois anos de sangue fresco |
 | Cabelo azul | o topo documentado | — | — |
 
-A escala de reis-fera usada como referência está em [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]. Para calibrar o quanto o degrau azul é raro, basta o dado social: um teste de herança que exigia um exército de zumbis aceitava **um único** cabelo-azul no lugar de contingentes inteiros dos outros três.
+A escala de reis-fera usada como referência está em [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]. Para calibrar o quanto o degrau azul é raro, basta o dado social: um teste de herança que exigia um exército de zumbis aceitava **um único** cabelo-azul no lugar de contingentes inteiros dos outros três.
 
 Duas regras de manejo que valem para qualquer mesa com hordas:
 
@@ -107,7 +107,7 @@ Esta é a categoria que muda o mundo, e ela merece tratamento próprio porque **
 
 Um Gu Imortal que chega ao fim do tempo de vida sem conseguir um item de longevidade tem, na prática, uma saída: virar ==zumbi imortal==. O texto é direto sobre a demografia — a maioria esmagadora dos zumbis imortais do mundo é composta de imortais que simplesmente ficaram sem anos e não tiveram escolha. Há também casos raros de conversão **voluntária** em busca de ganho de força, e existem rotas equivalentes reservadas a especialidades específicas (quem cultiva o caminho da madeira pode virar *homem-árvore* em vez de zumbi; quem cultiva força ou fogo, não).
 
-A prática é comum o bastante para sustentar uma organização mundial inteira dedicada a ela, com sede própria e pesquisa acumulada de gerações sobre a própria condição — ver [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
+A prática é comum o bastante para sustentar uma organização mundial inteira dedicada a ela, com sede própria e pesquisa acumulada de gerações sobre a própria condição — ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
 
 ### A abertura morta
 
@@ -117,7 +117,7 @@ Tudo o que define um zumbi imortal decorre de um único fato: **a abertura dele 
 
 - **Deixa de produzir energia.** A abertura viva de um imortal gera essência imortal sozinha, para sempre; a morta não gera nada. O zumbi repõe energia **exclusivamente** convertendo pedras de essência imortal compradas — ou seja, ele troca uma renda vitalícia por uma conta de despesas. Numa guerra de atrito longa contra um vivo, ele perde por aritmética.
 - **Deixa de crescer.** A terra dentro da abertura morta **se desintegra em intervalos fixos**, pedaço por pedaço. Existe um material de refino comum — um óleo negro — que espalhado ali dentro **retarda** a desintegração; ele é banal no mercado e desesperadamente importante para um zumbi. E os recursos guardados numa abertura morta se deterioram com o tempo, porque a energia da morte age sobre eles.
-- **Deixa de avançar o cultivo.** Este é o preço central, e ele é definitivo. Sem calamidades e tribulações não há [[12 - Dao Marks|dao marks]]; sem dao marks não há progressão no reino imortal. Um zumbi imortal fica congelado no patamar em que morreu, para sempre. A obra registra o caso de um que, depois de tudo o que conquistou, tinha "cultivo real no fundo do nível 6, sem uma única tribulação vencida".
+- **Deixa de avançar o cultivo.** Este é o preço central, e ele é definitivo. Sem calamidades e tribulações não há [[16 - Dao Marks|dao marks]]; sem dao marks não há progressão no reino imortal. Um zumbi imortal fica congelado no patamar em que morreu, para sempre. A obra registra o caso de um que, depois de tudo o que conquistou, tinha "cultivo real no fundo do nível 6, sem uma única tribulação vencida".
 
 **E o que ela ganha em troca — porque a lista não é só de perdas:**
 
@@ -136,8 +136,8 @@ Um catálogo de propriedades que vale como ficha pronta de adversário:
 - **Regenera membros em seis a oito horas** — e a regeneração não é só carne: as dao marks daquele membro precisam ser **repostas junto**, o que faz dela um gasto e não um truque grátis.
 - **O sangue vira verde-jade e gelado.** Detalhe de investigação: isso quebra qualquer rastreamento por parentesco de sangue.
 - **A força de combate cai.** A obra afirma diretamente que a maioria dos zumbis imortais luta **abaixo de um Gu Imortal comum**. O único caso em que ela quantifica a queda é o de uma fera: uma criatura que valia nível 8 em vida ficou no pico do nível 7 depois de morta — ou seja, **um patamar a menos**. Tratar isso como a régua geral dos zumbis imortais é dedução, não texto. **(ded.)**
-- **Pensa devagar.** É o custo mais sutil e o mais jogável, e vem da mecânica de pensamentos explicada em [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]]: como a produção de pensamentos depende de corpo *e* alma, um corpo morto gera poucos e devagar. Há uma tribulação documentada que derrotou um zumbi imortal **explorando exatamente a lentidão de raciocínio dele**. Daí o hábito dos zumbis fortes de dormir décadas: dormindo quase não se consomem pensamentos, e acumula-se um estoque para gastar de uma vez numa batalha.
-- **A alma definha sem o corpo alimentá-la.** Um corpo morto não nutre a alma que carrega: ela enfraquece e se irrita com facilidade, e precisa de tratamento externo contínuo. Em compensação — e é um dos paradoxos mais úteis do sistema — o corpo morto **comporta uma alma maior** do que um corpo vivo comportaria. Ver [[10 - Soul Path|Soul Path]].
+- **Pensa devagar.** É o custo mais sutil e o mais jogável, e vem da mecânica de pensamentos explicada em [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]]: como a produção de pensamentos depende de corpo *e* alma, um corpo morto gera poucos e devagar. Há uma tribulação documentada que derrotou um zumbi imortal **explorando exatamente a lentidão de raciocínio dele**. Daí o hábito dos zumbis fortes de dormir décadas: dormindo quase não se consomem pensamentos, e acumula-se um estoque para gastar de uma vez numa batalha.
+- **A alma definha sem o corpo alimentá-la.** Um corpo morto não nutre a alma que carrega: ela enfraquece e se irrita com facilidade, e precisa de tratamento externo contínuo. Em compensação — e é um dos paradoxos mais úteis do sistema — o corpo morto **comporta uma alma maior** do que um corpo vivo comportaria. Ver [[12 - Soul Path|Soul Path]].
 - **A alma ainda pode ser destruída.** Meio-morto não é invulnerável: dor extrema acumulada **racha a alma**, e uma alma estilhaçada é morte de verdade, sem volta. Desmaios repetidos são o sinal de alerta.
 
 > [!example] Caso mecânico
@@ -151,7 +151,7 @@ Não é um beco sem saída — mas nenhuma das saídas é limpa. A obra document
 |---|---|---|
 | **Possessão** | a alma abandona o corpo morto e toma um corpo novo, vivo | exige contato prolongado prévio com o corpo-alvo, e cultivo superior ao dele se for um imortal; a abertura passa a ser a **do corpo tomado**, não a antiga; atrai uma tribulação de retaliação proporcional à "ofensa ao céu" |
 | **Núcleos de origem de parentes** | drenar e fundir os núcleos de origem das aberturas de **vários imortais do mesmo sangue** para montar uma abertura nova | arruína permanentemente cada doador; exige linhagem compatível — contornável **gerando um parente novo** de propósito; purificação incompleta deixa vontades rancorosas dentro do material |
-| **Reascensão com constituição extrema** | um zumbi portador de uma das [[08 - As Dez Constituições Extremas|Dez Constituições Extremas]] passa por uma **nova** tribulação de ascensão, que purifica o corpo | a tribulação equivale a uma grande tribulação de nível 7 — mais de doze vezes a de uma ascensão já excepcional. É desafiar o destino duas vezes |
+| **Reascensão com constituição extrema** | um zumbi portador de uma das [[10 - As Dez Constituições Extremas|Dez Constituições Extremas]] passa por uma **nova** tribulação de ascensão, que purifica o corpo | a tribulação equivale a uma grande tribulação de nível 7 — mais de doze vezes a de uma ascensão já excepcional. É desafiar o destino duas vezes |
 | **Fogo do Nirvana** | um golpe imortal do caminho do fogo que alterna o portador **reversivelmente** entre zumbi e vivo, quantas vezes quiser | consome dao marks de fogo do usuário a cada uso; agrava dano de caminho do tempo; quem não cultiva fogo precisa **de outra pessoa** para acioná-lo — ou adaptar a receita para o próprio caminho, o que já foi feito |
 | **Abertura de vida-e-morte** | usa a abertura morta como núcleo e funde vida e morte numa coisa só durante a revivificação | **uso único** por abertura; depois de vivo, certos Gu passam a consumir tempo de vida depressa. Ver o bônus abaixo — é o motivo pelo qual esta linha existe |
 | **"Ressurreição dos Mortos"** | um Gu imortal de nível 8 hipotético, da lei da vida e da morte | **não existe**: é linha de pesquisa. Exigiria dez ou mais corpos de zumbis imortais como material, e 30% de confiança já seria considerado altíssimo |
@@ -165,7 +165,7 @@ A **abertura de vida-e-morte** não é apenas uma cura. Quem revive por esse cam
 
 Leia de novo, porque a implicação é enorme: é o único mecanismo do mundo que corta o risco pela metade **sem** cortar a recompensa. E ele sugere um roteiro de carreira que a obra chega a enunciar como método: **zumbificar-se de propósito primeiro, para obter a abertura morta, e reviver em seguida para fundi-la** — usando a pior coisa que pode acontecer a um imortal como matéria-prima da melhor vantagem estrutural que existe.
 
-Dois detalhes fecham a mecânica. O material usado na revivificação **define a qualidade final** da abertura resultante: corpos de zumbis do mesmo caminho a elevam de grau, e um corpo de zumbi que tivesse uma constituição extrema daquele caminho produz uma abertura de grau supremo **e faz o revivido herdar a constituição**. E é exatamente por aí que passa o único caminho teórico já apontado para um portador de constituição extrema chegar ao topo do mundo: as constituições matam seus donos porque atraem provações aceleradas, e a redução de cinquenta por cento neutraliza precisamente esse defeito. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+Dois detalhes fecham a mecânica. O material usado na revivificação **define a qualidade final** da abertura resultante: corpos de zumbis do mesmo caminho a elevam de grau, e um corpo de zumbi que tivesse uma constituição extrema daquele caminho produz uma abertura de grau supremo **e faz o revivido herdar a constituição**. E é exatamente por aí que passa o único caminho teórico já apontado para um portador de constituição extrema chegar ao topo do mundo: as constituições matam seus donos porque atraem provações aceleradas, e a redução de cinquenta por cento neutraliza precisamente esse defeito. Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 
 > [!note] Para o design
 > Este é o melhor gancho de campanha de alto nível que o cenário oferece, e ele cabe numa frase: **a maldição é o ingrediente**. Um personagem que morre de velhice, vira morto-vivo, passa décadas congelado e então descobre que aquela condição era o material bruto de uma vantagem que nenhum vivo pode ter — isso é um arco inteiro com começo, meio e fim, e a mesa não precisa de nenhum vilão para movê-lo.
@@ -190,15 +190,15 @@ O retrato mais extremo do fim dessa estrada é o de um dos seres mais poderosos 
 
 A zumbificação é a rota mais completa, mas não é a única forma de trocar de corpo neste mundo. As demais compartilham a mesma lógica — ganho imediato, marca permanente — e cada uma tem tratamento próprio em outro lugar do material.
 
-**Modificação corporal permanente.** Ossos de ferro ou de jade, tendões de aço, pele de bronze, músculos de gelo, costelas externas: um arsenal inteiro de Gu que reforçam o corpo de forma definitiva. Custam essência de alta qualidade e tempo contínuo de uso, os processos são dolorosos a ponto de matar quem tiver vontade fraca, e deixam dias de fraqueza depois. O histórico corporal altera o resultado dos Gu seguintes — asas ósseas nascem pretas e metálicas num esqueleto já enferrujado de reforços. E, sobretudo, **cada camada deixa dao marks que conflitam com outras leis**: quem enche o corpo de força descobre que Gu de cura, de luz e de espaço passam a falhar nele. Ver [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+**Modificação corporal permanente.** Ossos de ferro ou de jade, tendões de aço, pele de bronze, músculos de gelo, costelas externas: um arsenal inteiro de Gu que reforçam o corpo de forma definitiva. Custam essência de alta qualidade e tempo contínuo de uso, os processos são dolorosos a ponto de matar quem tiver vontade fraca, e deixam dias de fraqueza depois. O histórico corporal altera o resultado dos Gu seguintes — asas ósseas nascem pretas e metálicas num esqueleto já enferrujado de reforços. E, sobretudo, **cada camada deixa dao marks que conflitam com outras leis**: quem enche o corpo de força descobre que Gu de cura, de luz e de espaço passam a falhar nele. Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 
-**Transformação em outra forma.** Assumir a forma de uma fera não é ilusão: é **corpo físico real**, com a força, a resistência e as limitações daquele corpo. Em contrapartida, métodos de cura desenhados para corpo humano deixam de funcionar durante a transformação, e permanecer transformado tempo demais **custa a mente** — há registro de um imortal que perdeu a sanidade preso na forma de uma fera. É assunto de [[05 - Transformation Path|Transformation Path]].
+**Transformação em outra forma.** Assumir a forma de uma fera não é ilusão: é **corpo físico real**, com a força, a resistência e as limitações daquele corpo. Em contrapartida, métodos de cura desenhados para corpo humano deixam de funcionar durante a transformação, e permanecer transformado tempo demais **custa a mente** — há registro de um imortal que perdeu a sanidade preso na forma de uma fera. É assunto de [[06 - Transformation Path|Transformation Path]].
 
 **Troca de identidade física.** Existe uma tecnologia que fabrica uma "pele humana" sob medida a partir do cadáver do alvo e replica pele, pelos, cor dos olhos, formato ósseo, digitais e cicatrizes — permanente até nova aplicação. Engana Mestres Gu comuns; **não** engana a vontade de um imortal com Gu de registro. A filosofia demoníaca que a acompanha resume o domínio: "o corpo é só um saco de carne".
 
 **Possessão e troca de almas.** A alma toma um corpo alheio. Além do que a tabela de revivificação já registra, vale a mecânica que decide o resultado quando duas almas dividem um corpo: vence a força relativa das **vontades**, não o cultivo. Só a alma possuidora e a vontade nativa do corpo se regeneram — vontades importadas de fora são finitas e acabam. E culpa e retórica causam dano mecânico real nessa disputa.
 
-**Constituições fabricadas.** Existe uma constituição extrema **artificial**, produzida em série convertendo pedaços de um reino onírico em casulos de luz que eclodem já contendo um corpo humano pronto. O tempo de vida desses corpos é **inversamente proporcional ao rank** que alcançam — corpos de nível mortal duram dois ou três anos, corpos de rank alto duram muito menos —, e a versão "de atalho" do processo **prende para sempre** a alma inserida, destruindo-a quando o corpo chega ao fim. Nem o criador da técnica original jamais arriscou colocar a própria alma principal num deles. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+**Constituições fabricadas.** Existe uma constituição extrema **artificial**, produzida em série convertendo pedaços de um reino onírico em casulos de luz que eclodem já contendo um corpo humano pronto. O tempo de vida desses corpos é **inversamente proporcional ao rank** que alcançam — corpos de nível mortal duram dois ou três anos, corpos de rank alto duram muito menos —, e a versão "de atalho" do processo **prende para sempre** a alma inserida, destruindo-a quando o corpo chega ao fim. Nem o criador da técnica original jamais arriscou colocar a própria alma principal num deles. Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 
 ## O que todo personagem sabe
 
@@ -207,7 +207,7 @@ Conhecimento de rua, incluindo entre mortais sem talento:
 - Que zumbis existem, que são mortos que andam, e que são fracos a **fogo, raio e luz** e enfraquecem à luz do dia — a informação que salva a vida de um caçador.
 - Que zumbis resistem melhor a água, vento e veneno, e que golpes de impacto rendem pouco contra eles.
 - Que existem Gu que transformam a própria pessoa em zumbi, e que são difundidos por todas as cinco regiões.
-- Que a transformação é uma escolha de gente sem saída — velhos, doentes, cultivadores de talento baixo — e que ela é olhada com desprezo. Zumbificar-se empurra alguém para o lado demoníaco do mundo aos olhos de todos; ver [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+- Que a transformação é uma escolha de gente sem saída — velhos, doentes, cultivadores de talento baixo — e que ela é olhada com desprezo. Zumbificar-se empurra alguém para o lado demoníaco do mundo aos olhos de todos; ver [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 - Que o único jeito legítimo de ganhar anos de vida é o item de longevidade, e que tudo o mais é gambiarra.
 
 ## O que um ancião de clã sabe
@@ -231,14 +231,14 @@ Conhecimento de especialista, que circula entre Mestres Gu instruídos e imortai
 
 ## Relações
 
-- [[09 - Longevidade|Longevidade]] — o problema que a zumbificação existe para resolver.
-- [[15 - Perder Cultivo|Perder Cultivo]] — a abertura morta como caso extremo de cultivo travado.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — as outras formas de cultivar sem um corpo humano vivo.
-- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — a mecânica de pensamentos que explica a lentidão do morto-vivo.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o que o zumbi deixa de enfrentar, e o que deixa de ganhar com isso.
-- [[12 - Dao Marks|Dao Marks]] — a moeda de progressão que a abertura morta não recebe mais.
-- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — a herança por canibalização e o caminho teórico até o topo.
-- [[12 - Fate Gu|Fate Gu]] — a causa cosmológica de os zumbis existirem.
-- [[05 - Transformation Path|Transformation Path]] — o caminho a que a linhagem pertence.
-- [[10 - Soul Path|Soul Path]] — a alma que sobrevive ao corpo, e o que a sustenta.
-- [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — a organização mundial dos zumbis imortais.
+- [[12 - Longevidade|Longevidade]] — o problema que a zumbificação existe para resolver.
+- [[07 - Perder Cultivo|Perder Cultivo]] — a abertura morta como caso extremo de cultivo travado.
+- [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — as outras formas de cultivar sem um corpo humano vivo.
+- [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — a mecânica de pensamentos que explica a lentidão do morto-vivo.
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — o que o zumbi deixa de enfrentar, e o que deixa de ganhar com isso.
+- [[16 - Dao Marks|Dao Marks]] — a moeda de progressão que a abertura morta não recebe mais.
+- [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — a herança por canibalização e o caminho teórico até o topo.
+- [[16 - Fate Gu|Fate Gu]] — a causa cosmológica de os zumbis existirem.
+- [[06 - Transformation Path|Transformation Path]] — o caminho a que a linhagem pertence.
+- [[12 - Soul Path|Soul Path]] — a alma que sobrevive ao corpo, e o que a sustenta.
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — a organização mundial dos zumbis imortais.

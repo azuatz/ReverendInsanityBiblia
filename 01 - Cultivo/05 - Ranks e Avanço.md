@@ -28,7 +28,7 @@ talento; romper um pequeno reino é mero acúmulo de tempo** — com tempo sufic
 abertura continua sendo nutrida e o cultivo continua subindo sozinho. Ou seja: **estágio
 é garantido, rank não é.** Estágios sobem entre as sessões; ranks merecem cena.
 
-Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 9 há outra categoria de existência, tratada em [[11 - Ascensão Imortal|Ascensão Imortal]] e [[13 - Tornar-se Venerável|Tornar-se Venerável]]. Os próprios Gu são classificados na mesma escala de nove ranks, e a regra que amarra as duas é simples: **um Mestre Gu só aciona Gu de rank igual ou inferior ao seu**.
+Os ranks 1 a 5 formam o mundo mortal, e são o assunto desta nota. Do rank 6 ao 9 há outra categoria de existência, tratada em [[14 - Ascensão Imortal|Ascensão Imortal]] e [[19 - Tornar-se Venerável|Tornar-se Venerável]]. Os próprios Gu são classificados na mesma escala de nove ranks, e a regra que amarra as duas é simples: **um Mestre Gu só aciona Gu de rank igual ou inferior ao seu**.
 
 A diferença de força entre estágios do mesmo rank já é grande, e cresce nos estágios finais. Cruzar um rank inteiro em combate é feito extraordinário; mesmo um lutador excepcional, com os melhores Gu e a melhor execução, vence no máximo **um estágio acima do seu**.
 
@@ -68,7 +68,7 @@ Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primor
 > vida. É por isso que a reclusão para romper um rank é cercada de segredo, e é por isso
 > que ela é uma cena, e não um intervalo entre sessões.
 >
-> A exceção é a [[11 - Ascensão Imortal|ascensão imortal]], onde a falha **é** letal — e é
+> A exceção é a [[14 - Ascensão Imortal|ascensão imortal]], onde a falha **é** letal — e é
 > justamente por isso que ela pertence a outra categoria.
 
 > [!warning] O único limiar canônico é o 55% — e ele não é medido em volume bruto
@@ -139,8 +139,8 @@ furos.
 |---|---|---|---|
 | 1 | **Trocar o combustível** | um Gu de nível 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de nível 1 | dano corporal potencialmente letal com o uso repetido |
 | 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia — um deles só ativa se o usuário acreditar sinceramente estar do lado certo | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
-| 3 | **Vínculo de [[04 - Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
-| 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[05 - Refino de Gu|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
+| 3 | **Vínculo de [[05 - Gu Vital|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
+| 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[06 - Refino de Gu|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
 | 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de nível 6 que se camuflou de uma inspeção de nível 4 dentro da abertura de um Mestre de nível 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
 
 Some a isso um sexto caso, o mais concreto de todos: existe registro de um Mestre Gu de
@@ -218,9 +218,9 @@ Identificação pública se faz por uniforme com cinto e placa numerada por rank
 - **Usar um Gu acima do próprio rank destrói a abertura** — morte ou transformação irreversível —, salvo as exceções de combustível alternativo acima.
 - **Gu muito abaixo do rank rendem pouco.** O mundo compara: um homem forte com um graveto. Acima, o problema é oposto: uma criança com um machado pesado.
 - **Diferença de rank também é aura.** A essência vaza para fora como presença perceptível, e o efeito sobre uma fera poderosa é graduado: um rank 3 a deixa **alerta**, um rank 4 a **pressiona**, um rank 5 a faz **fugir para salvar a vida**. Como regra aproximada de combate, bloquear o ataque pleno de um Gu de rank N exige cerca de dois Gu de rank N-1 atuando juntos. A aura é também a prova pública de rank — e pode ser contida por Gu próprios ou pelo autosselamento do cultivo, o que é a base de todo disfarce sério.
-- **A escada desce.** Ferimento, velhice, contaminação e conflito entre efeitos artificiais fazem o cultivo **cair**, em estágios ou em ranks inteiros — há caso documentado de queda de rank 3 para rank 1 inicial numa única cena. Parte volta com anos de reclusão; parte não volta. Ver [[15 - Perder Cultivo|Perder Cultivo]].
-- **Rank não fortalece o corpo.** Sem acionar nenhum Gu, um Mestre Gu de qualquer rank é fisicamente uma pessoa comum: come, dorme, adoece e envelhece. O que o rank aumenta é energia e acesso, nunca musculatura. Ver [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]].
-- **Rank não é a única variável.** O que a obra chama de "força de combate" depende do conjunto de Gu, da experiência, do [[06 - Attainment|attainment]] e da compatibilidade entre eles. Um rank 3 bem montado derrota um rank 3 mal montado sem que nenhuma regra seja violada.
+- **A escada desce.** Ferimento, velhice, contaminação e conflito entre efeitos artificiais fazem o cultivo **cair**, em estágios ou em ranks inteiros — há caso documentado de queda de rank 3 para rank 1 inicial numa única cena. Parte volta com anos de reclusão; parte não volta. Ver [[07 - Perder Cultivo|Perder Cultivo]].
+- **Rank não fortalece o corpo.** Sem acionar nenhum Gu, um Mestre Gu de qualquer rank é fisicamente uma pessoa comum: come, dorme, adoece e envelhece. O que o rank aumenta é energia e acesso, nunca musculatura. Ver [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]].
+- **Rank não é a única variável.** O que a obra chama de "força de combate" depende do conjunto de Gu, da experiência, do [[08 - Attainment|attainment]] e da compatibilidade entre eles. Um rank 3 bem montado derrota um rank 3 mal montado sem que nenhuma regra seja violada.
 - **Cruzar para outra região suprime a força em exatamente um rank.** A pessoa se readapta em anos; os Gu trazidos não se readaptam nunca.
 - **Rank 2 é o ponto ideal de equipagem em massa.** Rank 1 é fraco demais para valer produção em escala; rank 3 é caro e escasso; rank 2 é forte e barato o bastante para armar um exército. É a razão econômica pela qual os exércitos deste mundo têm a composição que têm.
 
@@ -238,8 +238,8 @@ O trade-off é explícito e permanente: quem aloca a energia no ataque fica com 
 - [[02 - Abertura|Abertura]] — o órgão cuja parede define estágio e rank.
 - [[04 - Essência Primordial|Essência Primordial]] — cor e potência por rank e estágio.
 - [[03 - Aptidão|Aptidão]] — o teto que cada personagem precisa furar.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o que existe depois do rank 5.
-- [[06 - Attainment|Attainment]] — por que dois cultivadores do mesmo rank não são iguais.
-- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o rank muda na pessoa (menos do que parece).
-- [[15 - Perder Cultivo|Perder Cultivo]] — a mesma escada percorrida para baixo.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — como a escada funciona para quem não é humano.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o que existe depois do rank 5.
+- [[08 - Attainment|Attainment]] — por que dois cultivadores do mesmo rank não são iguais.
+- [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o rank muda na pessoa (menos do que parece).
+- [[07 - Perder Cultivo|Perder Cultivo]] — a mesma escada percorrida para baixo.
+- [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — como a escada funciona para quem não é humano.

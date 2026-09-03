@@ -71,18 +71,18 @@ material de refino, e uma fortuna terrena em ouro compraria muito pouco.
 
 Sobre essa base existe uma cadeia de mercados: varejo local, caravanas itinerantes,
 cidades-mercado, leilões em camadas e um mercado de **receitas** de Gu que vale mais que
-os próprios Gu — tudo em [[05 - Mercados e Leilões|Mercados e Leilões]]. E existe uma segunda economia inteira,
+os próprios Gu — tudo em [[06 - Mercados e Leilões|Mercados e Leilões]]. E existe uma segunda economia inteira,
 paralela e quase invisível para os mortais, a dos Mestres Gu Imortais, com moeda própria,
-praça própria e uma tabela de câmbio brutal, tratada em [[11 - Economia Imortal|Economia Imortal]].
+praça própria e uma tabela de câmbio brutal, tratada em [[15 - Economia Imortal|Economia Imortal]].
 
 Por baixo dos mercados corre uma **cadeia produtiva** completa — gente caçando, plantando,
 cavando e sendo vendida para que exista matéria-prima —, descrita em
-[[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]]. Amarrando tudo, há uma camada de instituições que quase
+[[05 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]]. Amarrando tudo, há uma camada de instituições que quase
 nenhum cenário de fantasia detalha e esta obra detalha bem: **crédito, penhor, contratos
-mágicos, corretagem e pedágios**, em [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]]. E, fazendo fronteira com
+mágicos, corretagem e pedágios**, em [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]]. E, fazendo fronteira com
 tudo isso, uma economia criminal com margens de lucro publicamente conhecidas, em
-[[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]]. Os números de todas elas moram em
-[[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
+[[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]]. Os números de todas elas moram em
+[[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
 
 O ponto que mais surpreende quem chega de outros cenários de fantasia é este: **dinheiro
 não é o gargalo do mundo**. Recursos, materiais e comida de Gu se compram. O que não se
@@ -183,10 +183,10 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
   família inteira. Um viajante solitário precisa de uns dez mil de reserva para não
   depender de ninguém. E a conta **piora** com o rank: um cultivador de rank 3 vivendo numa
   cidade-mercado queima mais de quatrocentas mil pedras por ano. Os números estão em
-  [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
+  [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
 - **De onde vem dinheiro.** Missões da organização, caça, salário de cargo, prêmios de
   competição, comércio, aluguel de imóveis, espólio de batalha. O cardápio completo está
-  em [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
+  em [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
 - **Que existe uma saída da roda-viva, e ela é comprar uma fonte de renda** — um negócio,
   uma plantação, uma nascente. Um negócio de vila se paga em dois ou três anos.
 - **Quanto custa entrar em qualquer lugar.** Cidades cobram pedágio por pessoa, escalonado
@@ -195,9 +195,9 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
   de pedras e some depois de um uso.
 - **Como se compra e se vende**: caravanas, lojas locais, lances fechados por escrito nos
   vilarejos, leilões em cidades grandes, e a aposta de pedra — comprar fósseis lacrados
-  na esperança de encontrar um Gu dentro. Ver [[05 - Mercados e Leilões|Mercados e Leilões]].
+  na esperança de encontrar um Gu dentro. Ver [[06 - Mercados e Leilões|Mercados e Leilões]].
 - **Que os preços mudam com a política.** Uma guerra, uma
-  [[07 - Bestas Gu e Reis Fera|maré de bestas]] — a migração em cascata de feras que
+  [[10 - Bestas Gu e Reis Fera|maré de bestas]] — a migração em cascata de feras que
   periodicamente arrasa as terras cultivadas de uma região — ou o anúncio de uma herança
   reorganizam o mercado de uma região inteira em semanas.
 - **Que o ouro não vale quase nada** e que a única riqueza que importa é a que se converte
@@ -211,7 +211,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 > recortando o vault para montar um livro do jogador, o corte é aqui.
 
 - **Quem emite a moeda dos imortais.** As pedras de essência imortal, moeda universal da
-  camada superior do mundo, têm uma **fonte única** — o [[15 - Tribunal Celestial|Tribunal Celestial]] —, que
+  camada superior do mundo, têm uma **fonte única** — o [[19 - Tribunal Celestial|Tribunal Celestial]] —, que
   restringe deliberadamente a distribuição desde uma guerra antiga, usando a política
   monetária como instrumento de controle sobre o mundo inteiro. Poucos sabem disso; menos
   ainda podem reclamar.
@@ -221,7 +221,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
   7** — ou seja, dez mil de rank 6. Quanto mais alto o rank, **mais** vale cada conta;
   quem sobe de patamar precisa de cem vezes mais dinheiro para comprar a mesma coisa, e
   por isso empobrece ao subir. A tabela, a leitura inversa (quantas contas de cada tipo se
-  equivalem) e um exemplo fechado estão em [[11 - Economia Imortal|Economia Imortal]]; os números do sistema, em
+  equivalem) e um exemplo fechado estão em [[15 - Economia Imortal|Economia Imortal]]; os números do sistema, em
   [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
 - **Quão pouco artefato existe de fato.** Que a maioria dos cultivadores de rank 8 — o
   segundo patamar mais alto que existe — não possui nenhum Gu Imortal do próprio rank é um
@@ -231,7 +231,7 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
   precedente documentado de guerra de preços travada entre imortais, com capital tomado
   emprestado de seis credores e venda abaixo do custo dos concorrentes até a rendição
   deles — e com o vencedor destruindo o próprio mercado por anos. Está em
-  [[11 - Economia Imortal|Economia Imortal]].
+  [[15 - Economia Imortal|Economia Imortal]].
 - **Que dá para plantar armadilhas econômicas de longo prazo**: comprar antes de um
   anúncio, vender um ponto de recurso que pertence ao inimigo mas está sob sua posse
   física, inflar o lance de um rival por orgulho. A economia é um campo de batalha tão
@@ -242,25 +242,25 @@ determina a velocidade do seu progresso; ela quase nunca determina o seu teto.
 Ordem sugerida de leitura desta pasta:
 
 1. [[02 - Pedras Primordiais|Pedras Primordiais]] — a unidade básica de valor e de poder.
-2. [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — a planilha: o que custa cada coisa, quanto rende cada
+2. [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — a planilha: o que custa cada coisa, quanto rende cada
    atividade e quanto se queima por ano. É a nota que você vai abrir no meio de uma sessão.
-3. [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cardápio de ocupações; a nota mais diretamente
+3. [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cardápio de ocupações; a nota mais diretamente
    utilizável em mesa.
-4. [[14 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — de onde saem as coisas: quem extrai, quem trabalha,
+4. [[05 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — de onde saem as coisas: quem extrai, quem trabalha,
    quem compra. É o chão de fábrica do mundo.
-5. [[05 - Mercados e Leilões|Mercados e Leilões]] — onde tudo isso se compra e se vende.
-6. [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — dinheiro que não se tem, promessas que precisam
+5. [[06 - Mercados e Leilões|Mercados e Leilões]] — onde tudo isso se compra e se vende.
+6. [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — dinheiro que não se tem, promessas que precisam
    valer, e o que sempre alguém tira no caminho.
-7. [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o degrau seguinte da mesma economia, com margens
+7. [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — o degrau seguinte da mesma economia, com margens
    de lucro publicadas.
-8. [[11 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
-9. [[12 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
+8. [[15 - Economia Imortal|Economia Imortal]] — a segunda economia, para campanhas de alto nível.
+9. [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — o outro lado dessa segunda economia: o imortal não
    compra a maior parte dos Gu que gasta, ele os **cultiva** dentro do próprio mundo
    privado. É a nota que explica por que a camada de cima é mais uma questão de fazenda e
    de paciência do que de dinheiro.
-10. [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
+10. [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os eventos que essa economia produz e que já vêm
     com estrutura de aventura.
-11. [[04 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
+11. [[10 - Vida Cotidiana|Vida Cotidiana]] — o chão do mundo: como vivem os mortais, que são a esmagadora
     maioria das pessoas.
 
 ## Relações
@@ -268,4 +268,4 @@ Ordem sugerida de leitura desta pasta:
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — quem tem direito a esses recursos, e por quê.
 - [[02 - Clãs|Clãs]] — a organização econômica básica do mundo mortal: um clã é uma nascente
   espiritual com uma família em volta.
-- [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — quem controla a moeda no topo.
+- [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — quem controla a moeda no topo.

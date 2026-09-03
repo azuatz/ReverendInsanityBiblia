@@ -183,8 +183,8 @@ estruturalmente importante no cenário.
 
 Normalmente, obter um Gu exige uma de duas coisas: comprá-lo pronto (caro, e os bons não
 estão à venda) ou refiná-lo a partir de uma **receita** — e receitas valem mais que os Gu
-que produzem, sendo o bem mais protegido da economia. Ver [[05 - Refino de Gu|Refino de Gu]] e
-[[05 - Mercados e Leilões|Mercados e Leilões]].
+que produzem, sendo o bem mais protegido da economia. Ver [[06 - Refino de Gu|Refino de Gu]] e
+[[06 - Mercados e Leilões|Mercados e Leilões]].
 
 A pedra de aposta fura essa barreira. Ela entrega um Gu **pronto**, sem receita, sem
 material e sem permissão de ninguém. E há um bônus técnico: o Gu que sai de um fóssil nasce
@@ -274,11 +274,11 @@ universal, não regional.
 
 ## Relações
 
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — as outras camadas do comércio de Gu, e por que a receita é o
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — as outras camadas do comércio de Gu, e por que a receita é o
   bem mais caro de todos.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a moeda com que se aposta.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — por que quase ninguém pode se dar ao luxo de perder
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — por que quase ninguém pode se dar ao luxo de perder
   oitenta por cento do que gasta.
-- [[05 - Refino de Gu|Refino de Gu]] — a rota normal de obtenção de Gu, que a aposta de rochas contorna.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário de eventos em que a aposta de rochas
+- [[06 - Refino de Gu|Refino de Gu]] — a rota normal de obtenção de Gu, que a aposta de rochas contorna.
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário de eventos em que a aposta de rochas
   se encaixa.

@@ -59,7 +59,7 @@ entre os dois, e ele está descrito com regras.
 
 Este é o núcleo técnico da nota. São cinco métodos, e cada um tem o seu contra-veneno.
 
-1. **Dedução.** Um Gu Master de [[12 - Wisdom Path|caminho da sabedoria]] **deduz** a
+1. **Dedução.** Um Gu Master de [[16 - Wisdom Path|caminho da sabedoria]] **deduz** a
    localização de alguém a partir de fragmentos de informação. Quanto melhor o deduzidor e
    melhor o instrumento, **menor o fragmento necessário**. É o método mais poderoso do mundo e
    o mais assustador de se estar do outro lado, porque não exige testemunha nem rastro físico:
@@ -84,9 +84,9 @@ Este é o núcleo técnico da nota. São cinco métodos, e cada um tem o seu con
 ## O que atrapalha: as barreiras regionais
 
 As cinco regiões são separadas por **barreiras regionais** — muralhas colossais de qi, cada uma
-com caráter próprio: a das [[02 - Planícies do Norte|Planícies do Norte]] é uma névoa verde onde
+com caráter próprio: a das [[03 - Planícies do Norte|Planícies do Norte]] é uma névoa verde onde
 a grama cresce e se retorce sem parar, "como um mar de cobras ou de cabelos"; a da
-[[01 - Fronteira Sul|Fronteira Sul]] é de miasma; a do Mar Oriental é de água azul. Atravessar
+[[02 - Fronteira Sul|Fronteira Sul]] é de miasma; a do Mar Oriental é de água azul. Atravessar
 uma leva **de dias a dezenas de dias**.
 
 Elas são o grande fator geográfico de qualquer perseguição, por sete motivos:
@@ -98,7 +98,7 @@ Elas são o grande fator geográfico de qualquer perseguição, por sete motivos
 3. Dentro da barreira de miasma especificamente, **todos os golpes imortais são enfraquecidos**
    pelo miasma, por cima da regra anterior.
 4. **Não há diferença entre caminhos para atravessar** — mas há para lutar lá dentro:
-   [[05 - Transformation Path|caminho da transformação]] leva vantagem, porque pode virar algo
+   [[06 - Transformation Path|caminho da transformação]] leva vantagem, porque pode virar algo
    que a barreira não restringe.
 5. **Só criaturas nativas dos céus imemoriais se movem livremente** nas cinco barreiras. Uma
    fera dessas dentro de uma barreira tem vantagem esmagadora sobre qualquer Gu Imortal.
@@ -312,20 +312,20 @@ todos ocupados olhando para outro lugar.
 ## Relações
 
 - [[04 - As Cinco Regiões|As Cinco Regiões]] — a geografia das barreiras e por que elas existem.
-- [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto tempo se leva para
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto tempo se leva para
   ir de um lugar a outro, que é metade de qualquer perseguição.
-- [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia
+- [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia
   viaja, e por que um disfarce se desgasta.
-- [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a justiça privada de que o mandado de
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — a justiça privada de que o mandado de
   captura é o instrumento.
-- [[15 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — os preços, a
+- [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — os preços, a
   fila de compradores e onde um fugitivo vende o que tem.
-- [[12 - Wisdom Path|Wisdom Path]] — a dedução, que é a arma decisiva dos dois lados.
+- [[16 - Wisdom Path|Wisdom Path]] — a dedução, que é a arma decisiva dos dois lados.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o que acontece com o território que o
   caçado deixou para trás.
-- [[09 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — um estudo de caso mecânico do problema
+- [[11 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — um estudo de caso mecânico do problema
   de localizar um alvo.
-- [[13 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — a emboscada vista pelo
+- [[18 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — a emboscada vista pelo
   lado de dentro, com números.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

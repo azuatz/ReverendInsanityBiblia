@@ -65,7 +65,7 @@ montanha inteira. Um clã pequeno ou médio tem no máximo um ou dois rank 4, e
 frequentemente concentra tudo num único herdeiro — o oposto dos clãs grandes, que
 cultivam vários herdeiros em competição. Acima deles há super clãs milenares, potências
 regionais com influência sobre a região inteira, e acima de *tudo* isso existe a camada
-dos [[08 - Tribunal Celestial e Grandes Forças|Mestres Gu Imortais]], que nem sequer entram
+dos [[14 - Tribunal Celestial e Grandes Forças|Mestres Gu Imortais]], que nem sequer entram
 nessa contagem mortal.
 
 ### Ser ancião
@@ -75,8 +75,8 @@ nessa contagem mortal.
 > mortal, dezenas deles por casa. Num clã, o degrau é o **rank 3**; numa seita, o cargo de
 > mesmo nome fica um degrau acima, no **rank 4** — o título é o mesmo, a régua muda com a
 > instituição. ==Ancião supremo== é outra coisa, e você vai encontrar o
-> termo em [[03 - Seitas e Academias|Seitas e Academias]] e [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]]: é o título dos
-> **[[08 - Tribunal Celestial e Grandes Forças|Mestres Gu Imortais]] (rank 6 ou acima)** que
+> termo em [[03 - Seitas e Academias|Seitas e Academias]] e [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]]: é o título dos
+> **[[14 - Tribunal Celestial e Grandes Forças|Mestres Gu Imortais]] (rank 6 ou acima)** que
 > sustentam uma seita ou uma grande força por trás dos bastidores. Um clã mortal tem
 > anciãos e não tem nenhum ancião supremo; uma super força tem os dois. O qualificador
 > "supremo" é o que marca a diferença — quando ele não está lá, é o cargo mortal.
@@ -139,7 +139,7 @@ não perder autoridade sobre eles.
 > Esta seção trata do casamento como **instrumento político do clã**. O funcionamento
 > familiar em si — quantos cônjuges cada cargo pode ter, o que é um filho ilegítimo e o que
 > muda quando ele é reconhecido, como funciona a adoção, o que é o salão ancestral e por que
-> ele é o cartório do mundo — está em [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+> ele é o cartório do mundo — está em [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 
 - **O cultivo é exclusivo da linhagem.** Mortais servos nunca são autorizados a cultivar
   — não por incapacidade, mas por estabilidade política. A única porta de entrada real
@@ -168,7 +168,7 @@ princípio operante é a **compensação financeira**.
 > O que segue é a justiça **dentro** de um clã. As outras camadas — os regimentos de seita,
 > os juízes itinerantes, a cadeia do clã, os mandados de captura, a pena de escravidão para
 > imortais capturados e a única lista de procurados válida no mundo inteiro — estão em
-> [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]], junto com a tabela completa de penas.
+> [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]], junto com a tabela completa de penas.
 
 - **A vida de servos e mortais praticamente não tem valor legal.** Matar vários servos de
   um clã custa uma multa de algumas dezenas de pedras. Já ofender um Mestre Gu pode custar
@@ -275,7 +275,7 @@ personalidade. O que o jovem escolhe quando já sabe escolher revela quem ele é
 **Aos dezesseis — a formatura e a vida adulta.** O jovem se forma, é considerado adulto,
 passa a morar sozinho, é alocado num grupo de cinco, requisita formalmente sua herança
 familiar e entra no ciclo de missões mensais descrito em
-[[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]]. A partir daí, a carreira é medida por avaliações
+[[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]]. A partir daí, a carreira é medida por avaliações
 periódicas, e a única promoção que realmente conta é subir de rank.
 
 ## Competições internas
@@ -328,9 +328,9 @@ tentativas de refino por sacrifício humano num único caso.
 
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — as regras gerais de que os clãs são um caso particular.
 - [[03 - Seitas e Academias|Seitas e Academias]] — o modelo rival, que recruta por talento em vez de sangue.
-- [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde os clãs dominam e onde não dominam.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — o que acontece com quem não tem clã.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o sistema de missões e avaliações visto pelo lado
+- [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde os clãs dominam e onde não dominam.
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — o que acontece com quem não tem clã.
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o sistema de missões e avaliações visto pelo lado
   do dinheiro.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios, provas de herança e caçadas que os
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios, provas de herança e caçadas que os
   clãs produzem.

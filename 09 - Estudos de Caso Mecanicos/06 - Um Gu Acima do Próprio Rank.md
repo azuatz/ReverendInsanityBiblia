@@ -28,7 +28,7 @@ mais útil para uma mesa.
 **A situação:** um cultivador de rank 1 obtém um Gu de rank muito superior que havia sido
 reduzido a um estado quase moribundo.
 
-**O que acontece:** ele consegue alojá-lo como [[04 - Gu Vital|Gu Vital]] e operá-lo, com
+**O que acontece:** ele consegue alojá-lo como [[05 - Gu Vital|Gu Vital]] e operá-lo, com
 potência reduzida. Um exemplar íntegro do mesmo Gu teria destruído a
 [[02 - Abertura|abertura]] dele.
 
@@ -64,7 +64,7 @@ fingindo não estar fazendo nada** — o que a transforma também em ferramenta 
 
 ## Por que funcionou
 
-Porque o refino, na sua essência, é uma disputa de vontade — ver [[05 - Refino de Gu|Refino de Gu]].
+Porque o refino, na sua essência, é uma disputa de vontade — ver [[06 - Refino de Gu|Refino de Gu]].
 Uma aura muito superior não vence a disputa: ela **cancela o adversário antes da disputa
 começar**. É o mesmo princípio das duas versões: o que decide qualquer interação do sistema
 é o estado real das duas partes no momento, nunca o rótulo.
@@ -94,7 +94,7 @@ começar**. É o mesmo princípio das duas versões: o que decide qualquer inter
 
 ## Relações
 
-- [[05 - Refino de Gu|Refino de Gu]] — a operação que este caso encurta, e por que ela é uma disputa de vontades.
-- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — as outras regras que decidem se um Gu cabe em você.
-- [[04 - Gu Vital|Gu Vital]] — o que torna a versão passiva tão perigosa e tão tentadora.
+- [[06 - Refino de Gu|Refino de Gu]] — a operação que este caso encurta, e por que ela é uma disputa de vontades.
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — as outras regras que decidem se um Gu cabe em você.
+- [[05 - Gu Vital|Gu Vital]] — o que torna a versão passiva tão perigosa e tão tentadora.
 - [[03 - Seitas e Academias|Seitas e Academias]] — por que o primeiro ano de academia para até o aluno refinar o seu.

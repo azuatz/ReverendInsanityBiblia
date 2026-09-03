@@ -36,17 +36,17 @@ comum de quem chega à obra pela primeira vez.
 **Subjugar um exemplar que já existe.** Gu nascem sozinhos na natureza, em lugares
 onde a energia do mundo se acumula do jeito certo. Quem encontra um desses precisa
 sobrepor a própria vontade à do bicho, num processo de desgaste descrito em
-[[05 - Refino de Gu|Refino de Gu]]. Não há receita envolvida: há uma caçada e uma queda de braço.
+[[06 - Refino de Gu|Refino de Gu]]. Não há receita envolvida: há uma caçada e uma queda de braço.
 
 **Fundir Gu para criar outro.** Dois ou mais Gu já domados são combinados num
 processo que a obra compara a comprimir a evolução natural de uma espécie num único
 instante. O resultado é um Gu de rank mais alto, que herda **uma** das habilidades
-dos componentes e perde as demais. As regras estão em [[06 - Fusão de Gu|Fusão de Gu]]. É aqui que a
+dos componentes e perde as demais. As regras estão em [[07 - Fusão de Gu|Fusão de Gu]]. É aqui que a
 palavra "receita" começa a pesar: nem toda combinação funciona, e saber quais
 funcionam é conhecimento raro.
 
 **Fabricar a partir de materiais.** Nos patamares altos — e sobretudo para os
-[[12 - Gu Imortais|Gu Imortais]] — o processo deixa de ser "junte dois bichos" e vira algo mais
+[[16 - Gu Imortais|Gu Imortais]] — o processo deixa de ser "junte dois bichos" e vira algo mais
 parecido com alquimia industrial: dezenas de materiais, dezenas de etapas, semanas
 ou séculos de trabalho, e uma taxa de sucesso que pode ser de um em dez mil.
 
@@ -81,7 +81,7 @@ Três fatos combinados fazem da receita o ativo mais valioso do mundo depois do
 próprio Gu.
 
 **Descobrir uma receita nova é quase impossível.** Deduzir uma receita inédita exige
-o patamar de *grandmaster* no caminho correspondente — ver [[06 - Attainment|Attainment]] —, e
+o patamar de *grandmaster* no caminho correspondente — ver [[08 - Attainment|Attainment]] —, e
 inventar uma linhagem inteira a partir de uma herança exige mais que isso. Fazer
 engenharia reversa de um Gu pronto para descobrir como ele foi feito exige o mesmo
 nível, e a competência não se soma: dez especialistas medianos juntos não substituem
@@ -105,7 +105,7 @@ possível e acontece com frequência.
 O resultado é uma economia inteira construída em cima de segredos de fabricação:
 receitas herdadas em legados, receitas roubadas, receitas vendidas por fortunas em
 leilão, receitas perdidas quando o único portador morre antes de escrever. Ver
-[[05 - Mercados e Leilões|Mercados e Leilões]] e [[07 - Heranças e Provações|Heranças e Provações]].
+[[06 - Mercados e Leilões|Mercados e Leilões]] e [[12 - Heranças e Provações|Heranças e Provações]].
 
 > [!note] Para o design
 > A receita é o item de recompensa mais elegante que este mundo oferece: é leve,
@@ -165,7 +165,7 @@ Os Gu de rank 1 a 5 são o repertório do dia a dia — ver [[04 - Catálogo de 
 para o que cada um faz. Aqui interessa só como cada um é produzido.
 
 Quase toda receita mortal é uma **fusão**. O procedimento geral é sempre o mesmo e
-está descrito em [[06 - Fusão de Gu|Fusão de Gu]]: os Gu componentes saem da abertura do praticante,
+está descrito em [[07 - Fusão de Gu|Fusão de Gu]]: os Gu componentes saem da abertura do praticante,
 colidem por comando mental, formam uma esfera de luz, e o praticante alimenta essa
 esfera com [[02 - Pedras Primordiais|Pedras Primordiais]] até ela se dissipar e revelar o Gu novo. Por isso,
 quando uma entrada abaixo diz apenas "fusão de A com B", ela já é quase acionável: o
@@ -290,7 +290,7 @@ está sempre atrasada em relação ao que os melhores praticantes já sabem.
 
 Esta seção reúne as receitas que exigem matar gente. Elas são canônicas e a obra as
 descreve sem eufemismo; a distinção entre caminho correto e caminho demoníaco está em
-[[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]], e não é uma distinção de poder, e sim de
+[[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]], e não é uma distinção de poder, e sim de
 disposição para pagar certos preços.
 
 | Gu resultante | Rank | O que se sabe | Completude |
@@ -356,7 +356,7 @@ Uma categoria que é fácil esquecer e que estrutura o sistema inteiro: alguns G
   "produzir" algo a partir dele é decompô-lo por refino reverso, o que destrói o
   original.
 - **Gu selvagens de rank alto** em geral entram no mundo por captura, não por
-  produção. Ver [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e [[09 - Aposta de Rochas|Aposta de Rochas]].
+  produção. Ver [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e [[09 - Aposta de Rochas|Aposta de Rochas]].
 
 E há um caso ainda mais estranho no topo da escala: um Gu lendário de rank 9 que **não
 pode ser refinado de forma alguma** — não porque seja difícil, mas porque refiná-lo o
@@ -384,7 +384,7 @@ fabrique**:
   terreno; um rio cuja colheita anual de frutos vem com Gu dentro; e um vale que, a
   cada duas décadas mais ou menos, produz um Gu Imortal selvagem do caminho da luz.
   Isso faz do **território** uma forma de meio de produção — ver
-  [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+  [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 - E há a janela mais curiosa de todas: uma lagarta comum em plena **metamorfose** pode
   virar um Gu selvagem no exato instante da transformação, capturável ali e em mais
   nenhum outro momento.
@@ -396,14 +396,14 @@ desse caminho.
 
 Isso cria três economias paralelas que não se substituem: uma de **fabricação** (quem
 tem receita e capital), uma de **coleta** (quem explora território selvagem) e uma de
-**espólio** (quem toma dos outros — ver [[10 - Espólio de Gu|Espólio de Gu]]).
+**espólio** (quem toma dos outros — ver [[14 - Espólio de Gu|Espólio de Gu]]).
 
 ---
 
 # Receitas de Gu Imortais
 
 Do rank 6 para cima o assunto muda de natureza, e vale entender por quê antes de
-olhar as receitas. O contexto completo está em [[12 - Gu Imortais|Gu Imortais]].
+olhar as receitas. O contexto completo está em [[16 - Gu Imortais|Gu Imortais]].
 
 ## Por que uma receita imortal é outro animal
 
@@ -415,7 +415,7 @@ espetacular — um mestre reconhecido chega a quatro em dez no rank 6 —, mas s
 especialista leva mais de dois séculos de prática.
 
 **A falha não é erro: é física.** A obra dá uma explicação para isso, e ela é elegante.
-Refinar é combinar fragmentos de lei do mundo — ver [[12 - Dao Marks|Dao Marks]]. O refinador
+Refinar é combinar fragmentos de lei do mundo — ver [[16 - Dao Marks|Dao Marks]]. O refinador
 controla apenas a primeira metade do processo, direcionando os fragmentos; na segunda
 metade, as leis interagem entre si de um jeito que ninguém governa, e o resultado
 depende de sorte. Fragmentos pequenos, de rank baixo, têm poucas características e se
@@ -448,7 +448,7 @@ economicamente inviável até para grandes potências.
 ## Os estilos e técnicas de refino
 
 Não há um único método. A obra formaliza dois estilos concorrentes e várias técnicas
-especializadas — o quadro completo do ofício está em [[07 - Refinement Path|Refinement Path]].
+especializadas — o quadro completo do ofício está em [[08 - Refinement Path|Refinement Path]].
 
 - **Estilo do isolamento humano.** O refinador trabalha sozinho, sem assistência
   ambiental. Taxa de sucesso mais baixa, mas seguro.
@@ -493,7 +493,7 @@ especializadas — o quadro completo do ofício está em [[07 - Refinement Path|
 | **Pill Refiner Gu** | 1-5 | Produto de uma fusão entre o caminho humano e o caminho das pílulas, gerado em série por uma formação de derivação. Julgado o achado mais valioso entre todas as receitas humanas derivadas. | **Fragmento** — só a origem conceitual |
 | **Extreme Past** | 8 | Fusão de Looking Back com Vivid Recollection. | **Parcial** — só os componentes |
 | **Emperor Yama** | 8 | Fusão de quatro Gu nomeados: Ghostly Concealment, Ghost Official Garment, Soul Beast Token e Myriad Self. | **Parcial** — só os componentes |
-| **Myriad Self** | 7 | Condensa num único Gu um golpe mortal que antes exigia preparo longo — caso exemplar da máxima do [[07 - Refinement Path\|Refinement Path]] de que um golpe inteiro pode ser comprimido num Gu só. Fusão de [[04 - Strength Path\|Strength Path]] com [[06 - Enslavement Path\|Enslavement Path]], resolvendo um problema teórico em aberto havia eras. | **Parcial** — os caminhos de origem, sem os materiais |
+| **Myriad Self** | 7 | Condensa num único Gu um golpe mortal que antes exigia preparo longo — caso exemplar da máxima do [[08 - Refinement Path|Refinement Path]] de que um golpe inteiro pode ser comprimido num Gu só. Fusão de [[04 - Strength Path\|Strength Path]] com [[07 - Enslavement Path|Enslavement Path]], resolvendo um problema teórico em aberto havia eras. | **Parcial** — os caminhos de origem, sem os materiais |
 | **Landscape As Before** | 6 | Formou-se por **fusão espontânea** de River As Before com Mountain As Before no momento da ascensão do usuário — ninguém a executou deliberadamente. | **Fragmento** — só a origem acidental |
 | **Liquor Worm** (versão imortal) | — | Exige **oito licores lendários** nomeados como materiais. É o eco perfeito da receita mortal de rank 2 da mesma linhagem, que pedia quatro licores: a estrutura da receita se conserva subindo de patamar, e apenas dobra de escala. | **Parcial** — só os materiais |
 | **Heavenly Web Gu** | 9 | Refinado numa estrutura dedicada, com **duas falhas antes do sucesso**. Cada falha consumiu materiais imortais do caminho do céu e rebaixou o nível da própria estrutura de refino — um custo que se acumula contra o refinador a cada tentativa. | **Parcial** — só a contabilidade das tentativas |
@@ -507,7 +507,7 @@ chega a **quantificar** o quanto falta em algumas delas, o que é um presente ra
 
 | Receita | Estado | O que se sabe |
 |---|---|---|
-| **Before Immortal Gu** | **57% completa** — número dado pela obra | Par conceitual do After Immortal Gu, de [[13 - Time Path\|Time Path]]. Seu autor morreu sem terminá-la. |
+| **Before Immortal Gu** | **57% completa** — número dado pela obra | Par conceitual do After Immortal Gu, de [[18 - Time Path|Time Path]]. Seu autor morreu sem terminá-la. |
 | **Blood Revenge** | **menos de 10% completa** | Receita de Gu Imortal deixada inacabada por seu criador. |
 | **Blood Deity Gu** | **mais de 50% destruída** | A receita foi despedaçada numa disputa entre dez grandes seitas; o que sobrou é um documento mutilado. Curiosamente, a obra também registra que a receita foi **completada em outro momento** com dedução assistida e domínio de grande mestre no [[03 - Blood Path\|Blood Path]] — o que mostra que "incompleta" é um estado, não uma sentença. |
 | **Blood Sweat Gu** | **desaparecida** | Levada por alguém e nunca mais reapareceu. É o estado mais comum de uma receita perdida: não destruída, apenas em posse desconhecida. |
@@ -546,7 +546,7 @@ aproveitar a marca alheia é **contratar o portador** para refinar em seu nome. 
 transforma um punhado de indivíduos em recursos estratégicos ambulantes.
 
 As marcas são distribuídas aos seis primeiros colocados de um evento periódico — uma
-marca cada. Ver [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
+marca cada. Ver [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
 
 Existe também um mecanismo de segunda chance: uma estrutura lendária capaz de
 **re-refinar automaticamente um Gu Imortal já destruído**, desde que se preserve uma
@@ -595,7 +595,7 @@ seja impossível.
 | **Furtividade** | Stealth Rock (1) → Stealth Scales (2) | Componentes conhecidos. |
 | **Rastro de água** | Water Trace (3) → Wave Trace (4) → Wandering Wave Trace *ou* River Wave Trace (5) → Worldly Wave Trace (6) | A cadeia estruturalmente mais interessante da obra: ela **bifurca no rank 5 e volta a convergir no rank 6**. Duas rotas distintas levam ao mesmo Gu Imortal. É a única cadeia documentada passo a passo que faz isso. |
 | **Força humana (jin e jun)** | Jin Strength (1) → Strength of Ten Jin (2) → Jun Strength (3) → Strength of Ten Jun (4) → Strength of a Thousand Jun (6) | Cadeia batizada segundo duas unidades de peso do mundo, subindo por múltiplos de dez. Atravessa a fronteira mortal-imortal e é atribuída a um criador nomeado. Nenhum componente é informado em nenhum degrau. |
-| **Encanto de madeira** | Wood Charm (3) → Hundred-Years Wood Charm (4) → Thousand-Years Wood Charm (5) | Rara entre as cadeias mortais por ter os componentes de **todos** os degraus conhecidos, e eles são de uma simplicidade quase algébrica: soma-se ao Gu do degrau anterior um Gu de longevidade da magnitude correspondente — cem anos para chegar ao rank 4, mil anos para chegar ao rank 5. Ver [[09 - Longevidade\|Longevidade]]. |
+| **Encanto de madeira** | Wood Charm (3) → Hundred-Years Wood Charm (4) → Thousand-Years Wood Charm (5) | Rara entre as cadeias mortais por ter os componentes de **todos** os degraus conhecidos, e eles são de uma simplicidade quase algébrica: soma-se ao Gu do degrau anterior um Gu de longevidade da magnitude correspondente — cem anos para chegar ao rank 4, mil anos para chegar ao rank 5. Ver [[12 - Longevidade|Longevidade]]. |
 | **Lança de osso** | Bone Spear (1) → Spiral Bone Spear (2) | Linhagem exclusiva de uma herança específica. |
 | **Sangue** | Blood Guillotine (5) → Blood Deity (6) | Uma das poucas cadeias documentadas que atravessa a fronteira mortal-imortal. |
 | **Escravização de lobos** | Wolf Enslavement Gu (1 a 5) | Não é evolução, e sim uma **série**: cada rank tem suas próprias receitas, e há mais de uma por rank. As de rank 1 a 3 se compram no mercado comum; da 4 para cima são monopólio de grandes tribos. |
@@ -611,7 +611,7 @@ como linhagens.
 usuário evolui para uma versão imortal de três Gu no núcleo, que copia aparência e
 marcas de lei, e daí para uma versão de cerca de vinte Gu, cujo núcleo é um Gu de rank
 8, e que age sobre a **mente** do observador em vez dos olhos — a vítima sente
-familiaridade mesmo sabendo que está sendo enganada. Ver [[07 - Killer Moves|Killer Moves]].
+familiaridade mesmo sabendo que está sendo enganada. Ver [[08 - Killer Moves|Killer Moves]].
 
 **A corrida armamentista dos contratos.** O Gu de voto venenoso é a ferramenta padrão
 de garantia entre praticantes desconfiados. Contra ele surge um Gu que anula o voto
@@ -654,7 +654,7 @@ Outros formatos registrados:
 
 No patamar imortal, as receitas mais valiosas vêm empacotadas como **heranças
 verdadeiras**: conjuntos completos deixados por um mestre morto, com Gu, receitas,
-golpes e teoria. Ver [[07 - Heranças e Provações|Heranças e Provações]].
+golpes e teoria. Ver [[12 - Heranças e Provações|Heranças e Provações]].
 
 Vale registrar um detalhe de arquitetura que é puro material de campanha: pelo menos um
 grande legado histórico foi deliberadamente organizado **em pares**. São dez heranças
@@ -723,7 +723,7 @@ receitas, ao lado da zona de refino terceirizado.
   de golpes à venda costumam ocultar quantidades e sequência até o pagamento.
 
 **Na economia imortal**, o preço é medido em feixes de luz de tesouro e pago em
-essência imortal ou em escambo — ver [[11 - Economia Imortal|Economia Imortal]]. Receitas fracas e
+essência imortal ou em escambo — ver [[15 - Economia Imortal|Economia Imortal]]. Receitas fracas e
 fragmentárias são mercadoria corrente ali; lotes de receitas melhores puxam ofertas
 enormes.
 
@@ -767,7 +767,7 @@ gasta por outra pessoa.
 ## Como uma receita nova nasce
 
 Descobrir receita é uma habilidade graduada, e a obra dá os degraus com clareza — o
-sistema completo de patamares está em [[06 - Attainment|Attainment]].
+sistema completo de patamares está em [[08 - Attainment|Attainment]].
 
 - Fazer **engenharia reversa** de um Gu mortal existente exige o patamar de *mestre*.
 - Criar uma **receita nova** exige *grande mestre*.
@@ -809,8 +809,8 @@ Este é o mecanismo mais importante desta nota inteira, porque explica **por que
 mundo está cheio de receitas pela metade**.
 
 No momento em que um praticante ascende e se torna imortal, ele recebe o direito de
-fazer **uma única pergunta** à vontade que rege o mundo — ver [[11 - Ascensão Imortal|Ascensão Imortal]] e
-[[11 - Vontade dos Céus|Vontade dos Céus]]. É uma chance por vida, e a arte está em calibrar a pergunta.
+fazer **uma única pergunta** à vontade que rege o mundo — ver [[14 - Ascensão Imortal|Ascensão Imortal]] e
+[[15 - Vontade dos Céus|Vontade dos Céus]]. É uma chance por vida, e a arte está em calibrar a pergunta.
 
 - Perguntar algo **fácil** desperdiça a oportunidade: vem uma resposta completa sobre
   algo que não valia a pergunta.
@@ -839,7 +839,7 @@ resto por dedução própria.
 
 ### Todo golpe mortal é uma receita incompleta
 
-Uma máxima do [[07 - Refinement Path|Refinement Path]] que reorganiza o catálogo inteiro: qualquer golpe
+Uma máxima do [[08 - Refinement Path|Refinement Path]] que reorganiza o catálogo inteiro: qualquer golpe
 mortal — mortal ou imortal — pode ser encarado como a **receita inacabada de um Gu**.
 Um golpe é um arranjo de vários Gu que produz um efeito; condensá-lo num único Gu
 worm é o trabalho que falta.
@@ -951,7 +951,7 @@ Nunca nada de bom, e a escala do estrago tem gradação.
   inferior tem de ser consumida como material principal.
 
 Por isso refinadores profissionais **espaçam as tentativas em cerca de um mês**. E por
-isso o [[04 - Gu Vital|Gu Vital]] tem uma imunidade que vale ouro: ele sobrevive intacto a qualquer
+isso o [[05 - Gu Vital|Gu Vital]] tem uma imunidade que vale ouro: ele sobrevive intacto a qualquer
 recuo de falha de refino — no pior caso fica quase morto, e se recupera.
 
 Uma nota de consolo estrutural: **cada falha rende experiência que melhora a tentativa
@@ -994,7 +994,7 @@ Também se pode **terceirizar**. Refino por procuração é profissão estabelec
 zona própria em cidades-mercado, e "criador de receitas" é um ofício reconhecido ao
 lado de médico e dissecador de pedras. A escala do serviço impressiona: um único Gu de
 rank 5 pode consumir mais de uma década de trabalho, mesmo nas mãos de uma lenda. Ver
-[[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
+[[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
 
 ## Por que ter a receita ainda não basta
 
@@ -1028,13 +1028,13 @@ Gu Imortal de rank 6; a maioria dos de rank 7 passa a vida atrás de um; e é
 
 ## Relações
 
-- [[05 - Refino de Gu|Refino de Gu]] — o processo de subjugar um Gu e vinculá-lo a si. Pré-requisito de
+- [[06 - Refino de Gu|Refino de Gu]] — o processo de subjugar um Gu e vinculá-lo a si. Pré-requisito de
   qualquer fusão.
-- [[06 - Fusão de Gu|Fusão de Gu]] — o procedimento geral que quase toda receita mortal instancia.
-- [[07 - Refinement Path|Refinement Path]] — o caminho de cultivo especializado em fabricação.
+- [[07 - Fusão de Gu|Fusão de Gu]] — o procedimento geral que quase toda receita mortal instancia.
+- [[08 - Refinement Path|Refinement Path]] — o caminho de cultivo especializado em fabricação.
 - [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o que cada Gu faz.
-- [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — o evento que distribui as marcas de sucesso.
-- [[07 - Heranças e Provações|Heranças e Provações]] — o formato em que as melhores receitas circulam.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — onde as receitas são compradas e vendidas.
-- [[09 - A Morte dos Gu|A Morte dos Gu]] — o que se perde quando um refino falha.
+- [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — o evento que distribui as marcas de sucesso.
+- [[12 - Heranças e Provações|Heranças e Provações]] — o formato em que as melhores receitas circulam.
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — onde as receitas são compradas e vendidas.
+- [[12 - A Morte dos Gu|A Morte dos Gu]] — o que se perde quando um refino falha.
 - [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — refinos documentados passo a passo.

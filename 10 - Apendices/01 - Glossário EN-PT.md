@@ -84,10 +84,10 @@ termos que a comunidade e a obra usam sem tradução estável.
 | Termo (EN) | A tradução brasileira escreve | **O vault escreve** | Por quê |
 |---|---|---|---|
 | rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[05 - Ranks e Avanço|Ranks e Avanço]] |
-| attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[06 - Attainment|Attainment]] |
-| refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[05 - Refino de Gu|Refino de Gu]] |
-| killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[07 - Killer Moves|Killer Moves]] |
-| Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[15 - Tribunal Celestial|Tribunal Celestial]] |
+| attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[08 - Attainment|Attainment]] |
+| refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[06 - Refino de Gu|Refino de Gu]] |
+| killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[08 - Killer Moves|Killer Moves]] |
+| Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[19 - Tribunal Celestial|Tribunal Celestial]] |
 
 > [!warning] Se encontrar as duas formas no vault, prevalece a coluna da direita
 > Notas escritas em momentos diferentes podem ainda trazer a forma antiga em alguma
@@ -163,7 +163,7 @@ chega ao rank 6. Os nomes ficam em inglês porque a tradução brasileira não o
 coluna do meio é só a leitura literal, para você saber o que o nome quer dizer.
 
 **Atenção: a obra afirma que são dez e nomeia apenas sete.** Qualquer lista de dez nomes
-encontrada em fonte secundária contém invenção. Ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
+encontrada em fonte secundária contém invenção. Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 
 | Termo (EN) | Leitura literal | Observação |
 |---|---|---|
@@ -453,7 +453,7 @@ do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão G
 
 | Termo (EN) | Leitura literal | Por que o nome aparece |
 |---|---|---|
-| Primordial Origin Immortal Venerable | "Venerável Imortal Origem Primordial" | O primeiro rank 9 da história; fundou o sistema de seitas e o [[15 - Tribunal Celestial|Tribunal Celestial]] |
+| Primordial Origin Immortal Venerable | "Venerável Imortal Origem Primordial" | O primeiro rank 9 da história; fundou o sistema de seitas e o [[19 - Tribunal Celestial|Tribunal Celestial]] |
 | Star Constellation Immortal Venerable | "Venerável Imortal Constelação Estelar" | Criou o caminho da sabedoria; a única mulher entre os dez |
 | Reckless Savage Demon Venerable | "Venerável Demônio Selvagem Impetuoso" | Criou os caminhos da força e da transformação |
 | Thieving Heaven Demon Venerable | "Venerável Demônio Roubador do Céu" | Criou o caminho do roubo; o mais rico da história |
@@ -462,12 +462,12 @@ do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão G
 | Genesis Lotus Immortal Venerable | "Venerável Imortal Lótus da Gênese" | Criou o caminho da madeira |
 | Spectral Soul Demon Venerable | "Venerável Demônio Alma Espectral" | Criou o caminho da alma |
 | Paradise Earth Immortal Venerable | "Venerável Imortal Terra Paradisíaca" | Conteve o caminho da alma; deixou a melhor herança de combate da história |
-| Red Lotus Demon Venerable | "Venerável Demônio Lótus Vermelho" | Feriu o [[12 - Fate Gu|Fate Gu]]; teve a vida mais curta dos dez |
+| Red Lotus Demon Venerable | "Venerável Demônio Lótus Vermelho" | Feriu o [[16 - Fate Gu|Fate Gu]]; teve a vida mais curta dos dez |
 
 > [!warning] "Immortal" e "Demon" no título não medem força nem crueldade
 > Os dois títulos designam **a mesma patente**, o rank 9. A palavra que muda indica só
 > por qual via a pessoa chegou lá: a ortodoxa ou a demoníaca. Ver o item 11.6, mais
-> abaixo, e [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+> abaixo, e [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
 ---
 
@@ -475,7 +475,7 @@ do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão G
 
 Esta seção existe para uma finalidade só: você encontra um nome próprio em inglês numa
 nota e quer saber **o que aquilo é** sem ter de abrir a nota inteira. As descrições são
-de uma linha; quem explica de verdade é [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
+de uma linha; quem explica de verdade é [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
 
 Um esclarecimento de categoria, porque a obra usa três degraus e eles não são sinônimos:
 uma **super força** (*super force*) tem Imortais e território imortal próprio, e domina uma
@@ -599,7 +599,7 @@ ficam nos `aliases` das notas. Segundo, e mais importante: *Immortal Venerable* 
 *Demon Venerable* **são a mesma patente**, o rank 9, e a palavra que muda indica só
 por qual via a pessoa chegou lá — a correta ou a demoníaca. Não é medida de força nem
 de crueldade. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] e
-[[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+[[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
 ### 11.7. "Paraíso do Tesouro Dourado" × "tesouro do paraíso dourado"
 
@@ -636,4 +636,4 @@ publicada, o inglês foi mantido e marcado com **°**.
 
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — os números por trás destes termos
 - [[03 - Catálogo de Gu|Catálogo de Gu]] — a lista de Gu individuais, por caminho
-- [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a estrutura histórica do mundo
+- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a estrutura histórica do mundo

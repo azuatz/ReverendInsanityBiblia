@@ -64,7 +64,7 @@ Feito isso, **estas seis notas dão a fundação**, nesta ordem:
    recurso consumível deste mundo.
 3. [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como a especialização funciona, e por que ela define
    tanto a identidade quanto o arquétipo de um personagem.
-4. [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cotidiano econômico, que é onde a maior parte
+4. [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cotidiano econômico, que é onde a maior parte
    de uma campanha realmente acontece.
 5. [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e
    demoníaco.
@@ -75,11 +75,11 @@ Feito isso, **estas seis notas dão a fundação**, nesta ordem:
    a resposta que a obra dá.
 
 Depois disso, [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] mostra as regras em ação, com casos reais da obra
-descritos mecanicamente, e [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] cobre o que um grupo de personagens
+descritos mecanicamente, e [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] cobre o que um grupo de personagens
 iniciantes de fato encontra e caça no dia a dia.
 
 Duas notas resolvem perguntas que aparecem cedo em qualquer mesa e não cabem nas fundações:
-[[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] responde "quanto tempo leva chegar lá?" — a régua física do
+[[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] responde "quanto tempo leva chegar lá?" — a régua física do
 mundo, sem a qual tudo fica convenientemente perto —, e [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] dá a
 geografia concreta de cada região, com os lugares, os bichos e as zonas que a população evita.
 
@@ -139,7 +139,7 @@ personagem sabe e o que só o mestre deveria saber.
 
 Nem toda nota mista usa 🔒: várias separam o segredo por **seção** (uma seção final "O que só
 o mestre sabe") ou por uma **tabela de corte** no topo, dizendo linha a linha o que liberar —
-é o caso de [[13 - Cosmologia|Cosmologia]]. [[00 - Somente o Mestre|Somente o Mestre]] concentra a lista de todas as notas que
+é o caso de [[17 - Cosmologia|Cosmologia]]. [[00 - Somente o Mestre|Somente o Mestre]] concentra a lista de todas as notas que
 precisam de corte.
 
 ## Confiabilidade: o que é canônico e o que é reconstrução

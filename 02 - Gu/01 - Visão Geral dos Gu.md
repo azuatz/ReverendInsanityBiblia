@@ -29,20 +29,20 @@ Um poder por bicho, sem exceção, do mais fraco ao mais absurdo.
 
 Quem usa Gu se chama **Mestre Gu** (*Gu Master*). Ser um Mestre Gu não é saber magia — é
 ser um **criador de animais perigosos**: você captura ou compra os bichos, **domina** cada
-um deles num processo chamado [[05 - Refino de Gu|refino]], **alimenta** cada um com a dieta
+um deles num processo chamado [[06 - Refino de Gu|refino]], **alimenta** cada um com a dieta
 específica que ele exige, e **gasta a própria energia interna** toda vez que aciona um.
 Um Gu esquecido morre de fome. Um Gu mal dominado se rebela. Um Gu caro te deixa pobre.
 
 Sobre essa base simples o mundo empilha camadas cada vez mais sofisticadas:
 
-- **Fusão** — juntar Gu para criar Gu mais fortes ([[06 - Fusão de Gu|Fusão de Gu]]).
+- **Fusão** — juntar Gu para criar Gu mais fortes ([[07 - Fusão de Gu|Fusão de Gu]]).
 - **Killer moves** — combinações coreografadas de vários Gu que produzem um efeito muito
-  maior que a soma das partes ([[07 - Killer Moves|Killer Moves]]).
+  maior que a soma das partes ([[08 - Killer Moves|Killer Moves]]).
 - **Gu Imortais** — a categoria superior (níveis 6 a 8), da qual existe **um único exemplar
   no mundo inteiro** para cada tipo. Duas ressalvas que impedem essa regra de travar o
   sistema, e que valem já aqui: a unicidade vale **só do nível 6 para cima** — Gu mortais se
   produzem aos milhares —, e **variantes contam como Gu distintos**, de modo que dois bichos
-  parecidos com nomes diferentes coexistem sem violar nada ([[12 - Gu Imortais|Gu Imortais]]).
+  parecidos com nomes diferentes coexistem sem violar nada ([[16 - Gu Imortais|Gu Imortais]]).
 - **Receitas** — o conhecimento de como fabricar um Gu, que vale muito mais que o Gu.
 
 O resultado, para uma designer, é um sistema mágico que se comporta como uma **economia de
@@ -64,7 +64,7 @@ notas desta pasta.
    essência como veículo — leva horas, custa algumas pedras, e todo Mestre faz. *Fabricar
    por receita* é produzir um Gu novo a partir de materiais — leva anos a séculos, consome
    um conjunto inteiro por tentativa e quase sempre falha. O mundo usa a mesma palavra para
-   as duas; [[05 - Refino de Gu|Refino de Gu]] as separa em duas metades. Um Gu não subjugado não obedece e
+   as duas; [[06 - Refino de Gu|Refino de Gu]] as separa em duas metades. Um Gu não subjugado não obedece e
    não pode ser guardado no corpo.
 4. **Refinar custa a autonomia do Gu.** Na natureza, um Gu se alimenta sozinho da energia
    do ambiente. Depois de refinado, ele perde isso para sempre e passa a depender
@@ -80,7 +80,7 @@ notas desta pasta.
    mundo é **três a cinco Gu** para um Mestre comum, sete já é caso notável; a tabela por
    perfil, que é a referência do vault para este número, está em
    [[03 - Usar e Alimentar Gu#O teto: quantos Gu se carrega]], e a mecânica da capacidade
-   em [[13 - Onde um Gu Mora|Onde um Gu Mora]].
+   em [[04 - Onde um Gu Mora|Onde um Gu Mora]].
 7. **O dono pode destruir os próprios Gu com um pensamento**, mais rápido que um piscar de
    olhos. Por isso saquear Gu de um inimigo derrotado é raríssimo: ele os mata antes de
    morrer. Só a morte instantânea e imperceptível deixa espólio.
@@ -96,7 +96,7 @@ notas desta pasta.
     de um mês para não acumular dano.
 11. **Um mesmo Gu pode ter dezenas de receitas diferentes.** Não existe "a" receita: existem
     caminhos alternativos, com materiais e riscos distintos, para chegar ao mesmo bicho.
-12. **A partir de certo patamar, cada Gu é único no mundo.** Os [[12 - Gu Imortais|Gu Imortais]] existem em
+12. **A partir de certo patamar, cada Gu é único no mundo.** Os [[16 - Gu Imortais|Gu Imortais]] existem em
     um exemplar só. Se alguém já refinou aquele Gu, ninguém mais consegue — e a tentativa
     falha misteriosamente no último passo. Essa regra é o gargalo do topo do sistema.
 13. **Killer move e casa de Gu são a mesma coisa em escalas diferentes**: vários Gu
@@ -112,7 +112,7 @@ notas desta pasta.
     acionado. Ver [[03 - Usar e Alimentar Gu#Os três ofícios: alimentar, usar, refinar]].
 16. **Comprar Gu é arriscado, e o mundo sabe disso.** Falsificar e adulterar Gu é descrito
     pela obra como prática **comum** no mundo mortal; nem o maior mercado do mundo se
-    responsabiliza pelo que vende. Ver [[14 - Qualidade e Fraude|Qualidade e Fraude]].
+    responsabiliza pelo que vende. Ver [[13 - Qualidade e Fraude|Qualidade e Fraude]].
 17. **A essência de tudo são as "marcas do Dao".** No fundo da metafísica do mundo, cada Gu
     carrega um pedacinho das leis naturais. Usar Gu é usar leis; fundir Gu é fundir leis.
     É por isso que o refino tem sorte envolvida: nas etapas finais, leis colidem de um jeito
@@ -138,9 +138,9 @@ nível baixo sabe tudo.
   mãos — porque um Gu que você mesmo dominou com sucesso está, por definição, limpo.
 - **Que o dono destrói os próprios Gu ao morrer** — por isso matar por espólio quase nunca
   compensa, e por isso capturar vivo vale mais que matar.
-- **Que combinar Gu produz golpes especiais** ([[07 - Killer Moves|Killer Moves]]) e que os bons golpes são
+- **Que combinar Gu produz golpes especiais** ([[08 - Killer Moves|Killer Moves]]) e que os bons golpes são
   segredo de família.
-- **Que o primeiro Gu que você subjuga vira seu [[04 - Gu Vital|Gu Vital]]**, ligado à sua própria vida —
+- **Que o primeiro Gu que você subjuga vira seu [[05 - Gu Vital|Gu Vital]]**, ligado à sua própria vida —
   e que perdê-lo é uma catástrofe pessoal. A consagração é automática e imediata, no
   instante em que o primeiro refino se completa; o critério formal, um pouco mais preciso
   que isso, está na nota própria.
@@ -163,7 +163,7 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
   fim tem menos de 1% de chance, e a curva desce uma ordem de grandeza por nível daí em
   diante. Especialistas lendários fogem dela, mas o normal são **cinquenta a sessenta
   tentativas por sucesso**. A tabela completa, com as três operações lado a lado, está em
-  [[05 - Refino de Gu#As taxas de sucesso, lado a lado]], e a de consulta rápida em
+  [[06 - Refino de Gu#As taxas de sucesso, lado a lado]], e a de consulta rápida em
   [[02 - Tabelas de Referência Rápida#12. Taxas de sucesso de refino]] — que é a fonte única em
   caso de divergência.
 - **A trava de autodestruição dos Gu Imortais**: a vontade injetada durante o refino
@@ -197,13 +197,13 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 
 - [[02 - O que é um Gu|O que é um Gu]] — a natureza da criatura, selvagens contra refinados, a vontade interna.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o custo diário: essência, dietas, fome, o teto de quantos se carrega.
-- [[05 - Refino de Gu|Refino de Gu]] — como um Gu vira "seu": a guerra de desgaste, o contra-ataque, os riscos.
-- [[06 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem: receitas, taxas de falha, escalonamento de poder.
-- [[12 - Gu Imortais|Gu Imortais]] — o topo do sistema e a regra de unicidade global.
-- [[07 - Killer Moves|Killer Moves]] — as combinações que multiplicam poder, e suas categorias.
-- [[04 - Gu Vital|Gu Vital]] — o Gu ligado à vida do Mestre.
-- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — abertura, corpo e recipientes: onde os bichos ficam guardados, quantos cabem e o que acontece quando não cabem.
-- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — o que faz um Gu ser melhor que outro do mesmo nível, e como o mundo engana quem compra.
+- [[06 - Refino de Gu|Refino de Gu]] — como um Gu vira "seu": a guerra de desgaste, o contra-ataque, os riscos.
+- [[07 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem: receitas, taxas de falha, escalonamento de poder.
+- [[16 - Gu Imortais|Gu Imortais]] — o topo do sistema e a regra de unicidade global.
+- [[08 - Killer Moves|Killer Moves]] — as combinações que multiplicam poder, e suas categorias.
+- [[05 - Gu Vital|Gu Vital]] — o Gu ligado à vida do Mestre.
+- [[04 - Onde um Gu Mora|Onde um Gu Mora]] — abertura, corpo e recipientes: onde os bichos ficam guardados, quantos cabem e o que acontece quando não cabem.
+- [[13 - Qualidade e Fraude|Qualidade e Fraude]] — o que faz um Gu ser melhor que outro do mesmo nível, e como o mundo engana quem compra.
 
 As notas acima explicam **como o sistema funciona**. Quando a pergunta virar "e o que existe,
 concretamente?", a resposta está nos apêndices: [[03 - Catálogo de Gu|Catálogo de Gu]] lista os bichos

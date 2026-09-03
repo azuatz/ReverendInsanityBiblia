@@ -34,8 +34,8 @@ imortalidade, a "abertura" que ele tinha dentro do corpo se rompe e vira um mund
 miniatura, com céu, chão, clima, plantas e às vezes populações inteiras morando lá dentro.
 É ao mesmo tempo a casa, o cofre, a fazenda e a fábrica do dono. O grau acima dela chama-se
 ==caverna-céu== (*grotto-heaven*), maior e mais rica. A teoria completa está em
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e o cotidiano de quem
-mora dentro de uma, em [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e o cotidiano de quem
+mora dentro de uma, em [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
 Esta nota trata do que acontece quando alguém decide tomar uma dessas à força. É a guerra
 padrão do mundo imortal, e a obra a encena tantas vezes que dá para extrair um procedimento
@@ -140,7 +140,7 @@ estilhaçando**, revelando o terreno de dentro. Não é gratuito: uma abertura r
 **mais de dez pérolas de essência imortal num único instante**, e exigiu um Gu Imortal
 emprestado cuja função é expandir o espaço de uma terra abençoada. Essência imortal é o
 combustível do cultivador imortal e a moeda real dessa faixa de poder; a economia dela está
-em [[11 - Economia Imortal|Economia Imortal]].
+em [[15 - Economia Imortal|Economia Imortal]].
 
 Se, em vez disso, o atacante estiver usando a janela da calamidade, ele não precisa abrir
 nada: o próprio desastre rasga o céu do alvo e abre buraco atrás de buraco.
@@ -261,8 +261,8 @@ E aqui está o gancho: **se o pretexto cair, todas entram juntas para dividir o 
 razão declarada não é moral, é administrativa — "se as dez grandes seitas quebram as práticas
 estabelecidas, ainda conseguiremos comandar os que estão do nosso lado?". A regra existe porque
 sem ela ninguém obedeceria a ninguém. Ver
-[[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] e
-[[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+[[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] e
+[[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
 
 > [!note] Para o design
 > Isto dá uma condição de vitória alternativa que não passa por combate: **destruir a
@@ -375,7 +375,7 @@ pessoalmente por ela.
 
 **Para o atacante:** o conteúdo de um cofre que pode ter séculos de acumulação. Os prêmios
 registrados incluem grandes quantidades de receitas de Gu (inclusive receitas de Gu Imortais, o
-gargalo permanente deste mundo — ver [[05 - Refino de Gu|Refino de Gu]]), casas imortais
+gargalo permanente deste mundo — ver [[06 - Refino de Gu|Refino de Gu]]), casas imortais
 inteiras, terrenos produtores de recurso monopolizado, **três heranças completas de figuras
 lendárias diferentes**, mais de trezentas mil marcas do Dao de um único caminho e grande volume
 de materiais imortais. Detalhe economicamente saboroso de um dos alvos: era **rica em
@@ -484,7 +484,7 @@ opção está sempre disponível e é sempre destrutiva.
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta, com o
   cardápio de travas canônicas que explicam por que os poderosos não resolvem tudo sozinhos.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada, como nasce e como se administra.
 - [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] — a
   janela que este cerco explora, vista de dentro.
@@ -492,13 +492,13 @@ opção está sempre disponível e é sempre destrutiva.
   — o cerco mais elaborado da obra, com uma super formação que muda todas as regras.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o rescaldo: o que acontece com o
   território, o acervo e a gente de uma potência derrubada.
-- [[08 - Formações de Gu|Formações de Gu]] e [[21 - Formation Path|Formation Path]] — as
+- [[09 - Formações de Gu|Formações de Gu]] e [[09 - Formation Path|Formation Path]] — as
   camadas de defesa desta nota são, quase todas, formações.
-- [[11 - Economia Imortal|Economia Imortal]] — essência imortal, pedras de essência e a
+- [[15 - Economia Imortal|Economia Imortal]] — essência imortal, pedras de essência e a
   contabilidade que decide um cerco por atrito.
-- [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — o passo um do
+- [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — o passo um do
   procedimento é uma operação de inteligência de séculos.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — por que o
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — por que o
   pretexto público existe e o que acontece quando ele cai.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

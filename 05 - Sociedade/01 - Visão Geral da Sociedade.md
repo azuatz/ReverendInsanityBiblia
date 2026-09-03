@@ -27,7 +27,7 @@ linha divide a sociedade em duas castas com direitos radicalmente diferentes, e 
 que segue é consequência disso. Ela não é a única divisão que importa: dentro de cada
 casta há posições muito distintas — servo, escravo, cultivador de aptidão baixa, gênio,
 herdeiro, solitário —, cada uma com um destino provável diferente, e todas catalogadas em
-[[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]].
+[[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]].
 
 Mestres Gu são classificados em nove **ranks**. Do rank 1 ao 5 são mortais poderosos, com
 vida longa mas finita. Do rank 6 em diante são **Mestres Gu Imortais** (*Gu Immortals*),
@@ -37,28 +37,28 @@ duas versões: a versão mortal (ranks 1–5), visível e cotidiana, e a versão
 (ranks 6–9), secreta e muito mais decisiva.
 
 A sociedade mortal se organiza em **quatro modelos regionais** distintos, tratados em
-[[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]]: [[02 - Clãs|clãs de sangue]] na Fronteira Sul, tribos nômades
+[[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]]: [[02 - Clãs|clãs de sangue]] na Fronteira Sul, tribos nômades
 nas Planícies do Norte, [[03 - Seitas e Academias|seitas de discipulado]] no Continente
 Central, cidades mercantis no Deserto Ocidental e territórios marítimos de posse
 individual no Mar Oriental. Sobre todos eles paira uma divisão ideológica que atravessa
 o mundo inteiro: o **caminho correto** e o **caminho demoníaco**, que não são "bem" e
 "mal" — são duas apostas diferentes sobre como se deve conseguir recursos, explicadas
-em [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+em [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
 No topo de tudo, e conhecido do mundo apenas como um nome reverenciado, está o
 ==Tribunal Celestial== (em inglês, *Heavenly Court*; a tradução brasileira da obra também
 usa "Corte Celestial" — é a mesma e única instituição, não duas), a organização mais antiga
-e poderosa que existe, detalhada em [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]]. Boa parte do
+e poderosa que existe, detalhada em [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]]. Boa parte do
 que ele realmente é não é sabido por ninguém fora dele.
 
 Atravessando todos esses modelos, existem quatro sistemas que valem em qualquer um deles e
-que esta pasta trata em notas próprias: **como se pune** ([[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]]),
-**como se obriga alguém a cumprir a palavra** ([[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]),
-**como a notícia e o segredo circulam** ([[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]]) e
-**como se faz guerra de fato** ([[14 - Guerra Organizada|Guerra Organizada]]). E, embaixo de
+que esta pasta trata em notas próprias: **como se pune** ([[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]]),
+**como se obriga alguém a cumprir a palavra** ([[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]),
+**como a notícia e o segredo circulam** ([[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]]) e
+**como se faz guerra de fato** ([[10 - Guerra Organizada|Guerra Organizada]]). E, embaixo de
 tudo, a vida doméstica que produz as pessoas dessas instituições — nascimento, casamento,
 adoção, herança, funeral, festa e culto aos ancestrais — está em
-[[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+[[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 
 > [!note] Para o design
 > Esta é a estrutura mais reaproveitável do cenário: **toda organização é uma máquina de
@@ -115,16 +115,16 @@ adoção, herança, funeral, festa e culto aos ancestrais — está em
     excepcionais do que com exércitos.
 13. **Não existe lei do mundo, só regimentos privados.** Quem pertence a uma organização é
     julgado por ela; quem não pertence não é julgado — é cobrado, expulso ou caçado. Ver
-    [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+    [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
 14. **A palavra é executada por magia ou por vergonha.** Um acordo só obriga se for selado por
     um Gu de juramento; fora disso, o que segura alguém é a reputação e a dívida de favor.
-    Ver [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+    Ver [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
 15. **Pertencer é estar registrado.** Filiação a um clã ou seita se materializa em dois Gu
     vivos guardados no salão ancestral, que dizem se você está vivo e onde você está. Ver
-    [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+    [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 16. **A guerra consome energia, não vidas.** A tática dominante do mundo é gastar a reserva
     interna do inimigo com tropa descartável; e essa tropa quase nunca é humana. Ver
-    [[14 - Guerra Organizada|Guerra Organizada]].
+    [[10 - Guerra Organizada|Guerra Organizada]].
 
 ## O que todo personagem sabe
 
@@ -177,7 +177,7 @@ adoção, herança, funeral, festa e culto aos ancestrais — está em
 - **Que uma instituição mundial inteira, de propósito genuinamente útil, regras
   rigorosas e tabus sagrados, pode ter sido construída do zero para ser colhida um dia
   por quem a fundou em segredo.** É o padrão narrativo mais poderoso desta pasta, e está
-  detalhado em [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
+  detalhado em [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
 - **Que grandes potências mantêm espiões plantados umas nas outras por oito, dez, mil
   anos**, com identidades completas — casamento, filhos, carreira — e ativação tardia.
   Um NPC leal há décadas pode ser um ativo dormente.
@@ -185,13 +185,13 @@ adoção, herança, funeral, festa e culto aos ancestrais — está em
   atualizados há eras**, o que já permitiu a um infiltrado operar mil anos lá dentro.
 - **Que existe uma máquina, no topo do mundo, que detecta sozinha todo praticante de um
   determinado caminho de cultivo, em qualquer lugar** — e que ela é operada por alguém que
-  pratica exatamente esse caminho. Ver [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+  pratica exatamente esse caminho. Ver [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
 - **Que todo juramento tem uma saída**, e que os juramentos mais fortes do mundo estão
   ancorados em acidentes geográficos que podem ser destruídos. Ver
-  [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+  [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
 - **Que os Gu-tabuleta do salão ancestral permitem deduzir a localização exata de um membro
   e até feri-lo à distância** — e que são Gu mortais, portanto adulteráveis por quem souber.
-  Ver [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
+  Ver [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 
 ## Como as peças se encaixam
 
@@ -201,33 +201,33 @@ Vale ler as notas desta pasta nesta ordem:
    compete, é avaliado e punido dentro de uma família-Estado.
 2. [[03 - Seitas e Academias|Seitas e Academias]] — o modelo alternativo, por mérito, e como se ensina alguém a
    cultivar.
-3. [[13 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — o lado doméstico dessas instituições: como se nasce,
+3. [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — o lado doméstico dessas instituições: como se nasce,
    se casa, se adota, se registra e se morre neste mundo, mais o calendário de festas e o
    que faz as vezes de religião.
-4. [[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — desce das instituições para as pessoas: o
+4. [[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — desce das instituições para as pessoas: o
    catálogo de posições sociais que um personagem pode ocupar (mortal sem abertura, servo,
    escravo, cultivador de aptidão baixa, gênio, membro de organização, solitário, herdeiro),
    com o destino provável de cada uma, e as filosofias de vida que estão em disputa no
    mundo — o material mais direto para criar personagem e para dar convicção a um NPC.
-5. [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que classifica todo
+5. [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a divisão ideológica que classifica todo
    personagem do mundo, e a matriz "talento × virtude" que os dois lados usam para
    avaliar gente.
-6. [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o que acontece com quem infringe: os regimentos de clã e de
+6. [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o que acontece com quem infringe: os regimentos de clã e de
    seita, os juízes itinerantes, os mandados de captura e a única lista de procurados que
    vale no mundo inteiro.
-7. [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — as três moedas invisíveis que substituem o
+7. [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — as três moedas invisíveis que substituem o
    contrato executável num mundo sem tribunal.
-8. [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia viaja, quanto custa, e como se
+8. [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a notícia viaja, quanto custa, e como se
    planta um boato ou um espião.
-9. [[14 - Guerra Organizada|Guerra Organizada]] — o que acontece depois que a política falha: quem vai ao campo,
+9. [[10 - Guerra Organizada|Guerra Organizada]] — o que acontece depois que a política falha: quem vai ao campo,
    em que formação, e o que a batalha realmente consome.
-10. [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
-11. [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — o catálogo, região por região, das organizações
+10. [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
+11. [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — o catálogo, região por região, das organizações
     que de fato mandam, com ficha de cada uma. É a nota de consulta da pasta, não a de leitura
     corrida.
-12. [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
+12. [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
     está escondido atrás delas.
-13. [[09 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
+13. [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
     das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
     pertencem a região nenhuma e os domínios fechados.
 
@@ -238,7 +238,7 @@ E, do lado material, a pasta vizinha responde a pergunta que esta deixa em abert
 
 - [[01 - Visão Geral da Economia|Visão Geral da Economia]] — a sociedade organiza a distribuição; a economia mede o
   que está sendo distribuído.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — a tradução do lugar social de um personagem em
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — a tradução do lugar social de um personagem em
   renda concreta.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios, provas e caçadas que essas
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios, provas e caçadas que essas
   instituições produzem, prontos para virar sessão.

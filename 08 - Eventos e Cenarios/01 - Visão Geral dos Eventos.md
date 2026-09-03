@@ -66,7 +66,7 @@ está nesta pasta é filho de um deles:
    e abre a única janela de viagem; o maior torneio de artesãos do mundo acontece uma vez a
    cada cem anos, de modo que a maioria das pessoas participa uma única vez na vida.
 2. **A conta que a riqueza paga.** Todo mundo privado — as terras abençoadas e as
-   cavernas-céu de [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] —
+   cavernas-céu de [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] —
    sofre uma calamidade a cada dez anos e uma tribulação a cada cem. E a força dela é
    **proporcional à riqueza guardada lá dentro**: uma terra bem administrada atrai um
    desastre terrível, uma terra falida sofre uma garoa. Isso tem uma consequência que
@@ -76,7 +76,7 @@ está nesta pasta é filho de um deles:
    parado: abre em janelas periódicas, encolhe, enfraquece, e a supressão que protege o
    lugar vai cedendo em degraus enquanto ele morre. O prêmio cresce exatamente na mesma
    curva em que o perigo cresce. Ver [[08 - Aberturas de Herança|Aberturas de Herança]] e,
-   para a instituição por trás, [[07 - Heranças e Provações|Heranças e Provações]].
+   para a instituição por trás, [[12 - Heranças e Provações|Heranças e Provações]].
 4. **Política entre forças.** Uma guerra aqui quase nunca começa por raiva. Começa porque
    uma organização precisa de um **pretexto público** antes de precisar de força; porque
    dois poderes que não podem se destruir inventam um torneio para gastar a briga em
@@ -281,7 +281,7 @@ sem estudo especial.
   gente que nunca vai pisar no palco. A descoberta disso é, por si só, uma sessão.
 - **Que a maior instituição do mundo lucra com os fracassos alheios** e que é por isso que o
   maior torneio do mundo é generoso e aberto a qualquer um. Ver
-  [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
+  [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
 - **Que o mundo tem um antes e um depois.** Existe uma mudança estrutural prevista e
   nomeada em que as fronteiras entre regiões se dissolvem, o mundo vira um só e uma guerra
   generalizada passa a ser considerada inevitável por todos. Ela pode ser usada como pano de
@@ -363,27 +363,27 @@ as regras do mundo — usáveis como pano de fundo em qualquer altura, mas escri
 
 - [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] — o tabuleiro onde tudo isto acontece,
   e a lei de nivelamento que produz metade dos eventos desta pasta.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — a lei impessoal que manda desastre contra
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — a lei impessoal que manda desastre contra
   quem acumula demais, e a vontade estratégica que escolhe alvos.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis-fera
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis-fera
   que uma maré de bestas põe em campo.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos
   privados que sofrem calamidade, são sitiados e viram herança.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — a teoria por trás do
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — a teoria por trás do
   desastre agendado; [[21 - Calamidades e Tribulações como Cenário|a nota desta pasta]]
   descreve como é estar dentro de um.
-- [[07 - Heranças e Provações|Heranças e Provações]] — a instituição da herança;
+- [[12 - Heranças e Provações|Heranças e Provações]] — a instituição da herança;
   [[08 - Aberturas de Herança|Aberturas de Herança]] descreve a abertura como cenário.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — o calendário
   das instituições que produzem evento por funcionamento normal.
-- [[14 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
+- [[10 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado,
   abastecido e gasto; esta pasta descreve as guerras concretas.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — a economia por trás de
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — a economia por trás de
   [[22 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]].
 - [[04 - As Cinco Regiões|As Cinco Regiões]] e
-  [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]]
+  [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]]
   — a geografia e as zonas de perigo onde a maioria destes eventos ocorre.
-- [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a cronologia;
+- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a cronologia;
   [[29 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] dá as causas.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

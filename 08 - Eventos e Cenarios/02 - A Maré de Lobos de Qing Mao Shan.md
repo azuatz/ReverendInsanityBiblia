@@ -32,7 +32,7 @@ inimigos a assinar uma aliança de guerra e mata mais da metade da população d
 > | | |
 > |---|---|
 > | **Tipo** | calamidade natural cíclica que vira guerra de extermínio e cerco |
-> | **Onde** | Qing Mao Shan (Montanha Qing Mao), na [[01 - Fronteira Sul\|Fronteira Sul]] — uma montanha florestada com três vilas-clã e dezenas de aldeias mortais no sopé |
+> | **Onde** | Qing Mao Shan (Montanha Qing Mao), na [[02 - Fronteira Sul|Fronteira Sul]] — uma montanha florestada com três vilas-clã e dezenas de aldeias mortais no sopé |
 > | **Quando** | cíclico: uma maré grande **a cada três anos**; a intensidade varia, e esta é a maior registrada na história local |
 > | **Duração** | **mais de um ano**, do primeiro sinal ao rescaldo |
 > | **Escala de poder** | dezenas de milhares de lobos contra três clãs inteiros; rank 1 e 2 são a tropa, rank 3 são os anciãos, rank 4 são os chefes de clã |
@@ -123,7 +123,7 @@ galinha", diz o texto. Ver [[04 - Essência Primordial|Essência Primordial]].
 6. **Todo Gu retirado de um cadáver deve ser entregue ao clã.** Usar em segredo um Gu
    tirado de um morto é tratado como assassinato. Entregue, o Gu é convertido em pontos de
    mérito. Esta regra existe porque, numa guerra, o espólio é o maior incentivo que existe
-   para matar o próprio aliado — ver [[10 - Espólio de Gu|Espólio de Gu]].
+   para matar o próprio aliado — ver [[14 - Espólio de Gu|Espólio de Gu]].
 7. **A zona de autoridade do rei-fera.** Ao redor de um rei-fera não há outras bestas: a
    aura dele faz os bichos menores desviarem a rota. Só outro rei-fera ou uma maré mais
    forte ignora isso. Na prática, o entorno de um rei-fera é uma **clareira segura** dentro
@@ -194,7 +194,7 @@ regra do mundo é enunciada assim: *cinco tigres, um lamassu; três cães, um mo
 **dez lobos, um lycan***. Na prática: lobos comuns → lobos de elite → **lobo de coroa
 trovejante** (um rei) → bandos frenéticos com um **rei de mil bestas** → finalmente um
 **lycan-relâmpago**, um **rei de miríade de bestas**. Ver
-[[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]].
+[[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]].
 
 **Fase 7 — O estrategista.** O lycan é o degrau que muda o jogo, e ele muda porque **pensa**.
 A obra diz que sua inteligência não é inferior à humana e que ele é o estrategista da
@@ -343,11 +343,11 @@ Este é o leque estrutural, para a mesa escolher — não o que a obra registrou
   que acontece no rescaldo, quando a negociação de compensações fracassa.
 - [[04 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] — o
   acidente ambiental que, se der errado, **antecipa** uma maré de lobos.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
-  [[10 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — a hierarquia de
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
+  [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — a hierarquia de
   reis-fera e as espécies em campo.
 - [[02 - Clãs|Clãs]] — como uma vila-clã é governada, e o que são os salões de assuntos internos
   e externos.
-- [[14 - Guerra Organizada|Guerra Organizada]] — a doutrina militar deste mundo.
+- [[10 - Guerra Organizada|Guerra Organizada]] — a doutrina militar deste mundo.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

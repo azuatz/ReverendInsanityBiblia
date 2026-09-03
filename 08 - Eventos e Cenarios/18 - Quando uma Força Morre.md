@@ -356,15 +356,15 @@ por um morto ganancioso. É um gancho de tesouro com prazo indeterminado e conco
 
 ## Relações
 
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada, e o que é um espírito da terra.
-- [[10 - Espólio de Gu|Espólio de Gu]] — o que se pode e o que não se pode tirar de um morto, e
+- [[14 - Espólio de Gu|Espólio de Gu]] — o que se pode e o que não se pode tirar de um morto, e
   por quê.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — como funciona o leilão que liquida um acervo
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — como funciona o leilão que liquida um acervo
   de clã.
 - [[22 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]] — a
   versão imortal do mesmo evento.
-- [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem são as potências que
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem são as potências que
   caem, e a física política que as sustenta.
 - [[17 - Caçadas, Emboscadas e Fugas|Caçadas, Emboscadas e Fugas]] — como se chega a um
   território desguarnecido, e por que emboscar alguém e saquear a casa dele são o mesmo
@@ -373,7 +373,7 @@ por um morto ganancioso. É um gancho de tesouro com prazo indeterminado e conco
   ciclo que produz forças mortas em série, a cada dez anos.
 - [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] — o que
   acontece **antes** desta nota, quando a força ainda está se defendendo.
-- [[10 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — o estudo de caso mecânico
+- [[12 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] — o estudo de caso mecânico
   do espólio, com números.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

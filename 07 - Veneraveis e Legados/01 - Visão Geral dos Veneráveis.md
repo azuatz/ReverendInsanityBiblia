@@ -29,20 +29,20 @@ Antes de tudo, três palavras que esta nota vai usar o tempo todo:
 - Um ==[[02 - O que é um Gu|Gu]]== é a unidade de magia deste mundo — uma criatura-inseto que
   se refina e se aciona para produzir um efeito. Todo poder aqui passa por Gu.
 - Um ==[[05 - Ranks e Avanço|rank]]== é o degrau de força, de 1 a 9. É a escada principal.
-- Uma ==[[12 - Dao Marks|marca de dao]]== é o atributo que faz um Gu Imortal render mais:
+- Uma ==[[16 - Dao Marks|marca de dao]]== é o atributo que faz um Gu Imortal render mais:
   gravam-se no corpo do cultivador ao longo da vida e multiplicam o efeito de tudo o que
   ele faz naquele mesmo tema. O equivalente mais próximo, numa mesa, são pontos de
   experiência que também funcionam como bônus de dano.
 
-Neste mundo, o poder de um cultivador vai de rank 1 a rank 9. Ranks 1 a 5 são o mundo mortal: gente que vive uma vida humana e morre. A partir do rank 6 começa a imortalidade — não no sentido de não morrer, mas de viver séculos ou milênios e habitar uma ==[[09 - Blessed Lands e Grotto-Heavens|abertura imortal]]==: um mundo de bolso próprio, que é ao mesmo tempo a casa, a fonte de renda e a base material do dono. Rank 8 é a camada política do mundo: cada gesto de um rank 8 remodela uma região inteira. E acima disso há o rank 9.
+Neste mundo, o poder de um cultivador vai de rank 1 a rank 9. Ranks 1 a 5 são o mundo mortal: gente que vive uma vida humana e morre. A partir do rank 6 começa a imortalidade — não no sentido de não morrer, mas de viver séculos ou milênios e habitar uma ==[[13 - Blessed Lands e Grotto-Heavens|abertura imortal]]==: um mundo de bolso próprio, que é ao mesmo tempo a casa, a fonte de renda e a base material do dono. Rank 8 é a camada política do mundo: cada gesto de um rank 8 remodela uma região inteira. E acima disso há o rank 9.
 
 > [!info] Um aviso de vocabulário
 > A abertura imortal aparece na obra sob vários nomes — *terra abençoada* (rank 6–7),
 > *gruta-céu* (rank 8), e neste vault também "mundo privado" ou "dimensão privada" quando
 > se fala dela em geral. **São a mesma coisa em graus diferentes.** A nota que fecha o
-> assunto é [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+> assunto é [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
-O rank 9 não é "o rank 8 mais forte". É uma **categoria diferente de existência**. Um [[12 - Gu Imortais|Gu Imortal]] comum é feito de marcas de dao acumuladas; um Gu de rank 9 é feito de fragmentos da **Grande Dao** — o conjunto das leis que fazem o mundo funcionar, das quais cada caminho de cultivo é um recorte. Um rank 8 nunca venceu um rank 9 em toda a história registrada — não existe uma única exceção. O texto usa a imagem de pisar numa formiga.
+O rank 9 não é "o rank 8 mais forte". É uma **categoria diferente de existência**. Um [[16 - Gu Imortais|Gu Imortal]] comum é feito de marcas de dao acumuladas; um Gu de rank 9 é feito de fragmentos da **Grande Dao** — o conjunto das leis que fazem o mundo funcionar, das quais cada caminho de cultivo é um recorte. Um rank 8 nunca venceu um rank 9 em toda a história registrada — não existe uma única exceção. O texto usa a imagem de pisar numa formiga.
 
 Chegar lá é tão difícil que a estatística é a seguinte: em milhões de anos de história, com bilhões de cultivadores, **dez pessoas**. Nunca duas ao mesmo tempo. E nenhuma delas era outra coisa senão um ser humano comum de nascimento — nem feras, nem plantas, nem humanos variantes jamais produziram um rank 9.
 
@@ -50,7 +50,7 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 
 ## Regras do mundo
 
-1. **Venerável = rank 9.** Quem chega lá pela via ortodoxa recebe o título de *Immortal Venerable* (Venerável Imortal); quem chega pela via demoníaca, *Demon Venerable* (Venerável Demônio). É rótulo de método e reputação, não de força — os dois são igualmente invencíveis. A oposição entre as duas vias é uma divisão de método, não de moral, e está detalhada em [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+1. **Venerável = rank 9.** Quem chega lá pela via ortodoxa recebe o título de *Immortal Venerable* (Venerável Imortal); quem chega pela via demoníaca, *Demon Venerable* (Venerável Demônio). É rótulo de método e reputação, não de força — os dois são igualmente invencíveis. A oposição entre as duas vias é uma divisão de método, não de moral, e está detalhada em [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 2. **Nunca existiram dois Veneráveis vivos ao mesmo tempo.** A formulação in-universe é "dois reis não coexistem". Quando dois deles se enfrentam, é sempre um contra os métodos deixados para trás pelo outro, através de eras.
 3. **Só existiram dez.** Nove homens e uma mulher — não há restrição de gênero.
 4. **Todos eram humanos puros.** Nunca houve um Venerável entre os humanos variantes (raças humanoides como os homens-peludos ou os homens-pena), e o rank 9 simplesmente não existe para feras e plantas.
@@ -58,7 +58,7 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 6. **Todos foram limitados pela expectativa de vida.** Ser invencível não é ser eterno. Há registro histórico de Veneráveis caçando desesperadamente meios de estender a própria vida. Todos os dez morreram.
 7. **Todos tiveram um "Dao Guardian"** (Guardião do Dao) num momento crucial de seu crescimento — uma figura decisiva que podia ser tanto um amigo quanto um inimigo. É uma instituição informal, mas universal: não há Venerável sem um.
    E há um caso ainda mais forte que o padrão: os **dois primeiros da lista foram mestre e discípula**, e o segundo legado mais consequente da história — a captura da lei do céu — começou como uma **tarefa herdada** que o mestre não conseguiu concluir em vida e passou a ela no leito de morte. Ver [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]].
-8. **Todos criaram [[07 - Killer Moves|golpes]] de alto nível no caminho humano** — *human path*, a disciplina que trata do que os seres humanos são e fazem — a partir da compreensão das [[08 - Lendas de Ren Zu|Lendas de Ren Zu]]. Sem exceção, os dez leram a mitologia fundadora do mundo como manual técnico. Um ==[[07 - Killer Moves|golpe]]== (*killer move*) é a combinação coreografada de vários Gu num efeito único: é a unidade de "magia lançada" deste sistema.
+8. **Todos criaram [[08 - Killer Moves|golpes]] de alto nível no caminho humano** — *human path*, a disciplina que trata do que os seres humanos são e fazem — a partir da compreensão das [[12 - Lendas de Ren Zu|Lendas de Ren Zu]]. Sem exceção, os dez leram a mitologia fundadora do mundo como manual técnico. Um ==[[08 - Killer Moves|golpe]]== (*killer move*) é a combinação coreografada de vários Gu num efeito único: é a unidade de "magia lançada" deste sistema.
 9. **O legado sobrevive ao portador.** Golpes lendários de Veneráveis mortos aparecem sozinhos dentro de desastres naturais séculos depois; suas vontades residuais continuam operando dentro de suas criações; e o **caminho** (*path*) que fundaram carrega a assinatura deles para sempre (ver [[01 - Visão Geral dos Veneráveis#Dao Lord|a seção Dao Lord, abaixo]]). Um ==[[01 - Visão Geral dos Paths|caminho]]== é uma disciplina de cultivo inteira — força, madeira, alma, sorte —, e a escolha do caminho principal é a decisão mais definidora de um personagem neste cenário.
 
 ## Como se chega ao rank 9
@@ -68,15 +68,15 @@ O que interessa para o design não é a biografia dessas dez pessoas. É que **c
 > [!info] Esta é a versão resumida
 > A nota que trata a fundo do assunto — as quatro condições, o bloqueio celestial, o
 > patamar de "pseudo-Venerável" e o perfil estrutural dos dez — é
-> [[13 - Tornar-se Venerável|Tornar-se Venerável]], na pasta de Cultivo. O resumo abaixo existe para que esta pasta
+> [[19 - Tornar-se Venerável|Tornar-se Venerável]], na pasta de Cultivo. O resumo abaixo existe para que esta pasta
 > se leia sozinha; em caso de divergência, vale a outra.
 
 São **quatro condições cumulativas**:
 
-1. **O núcleo da abertura imortal do candidato precisa produzir essência imortal de rank 8.** A energia que uma [[09 - Blessed Lands e Grotto-Heavens|abertura imortal]] gera tem quatro denominações crescentes, uma por rank — **uva-verde** no 6, **tâmara-vermelha** no 7, **lichia-branca** no 8, **damasco-amarelo** no 9 —, e cada degrau vale cerca de cem vezes o anterior. O candidato precisa já estar produzindo lichia-branca antes de tentar a quarta condição. É pré-requisito, não resultado.
+1. **O núcleo da abertura imortal do candidato precisa produzir essência imortal de rank 8.** A energia que uma [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] gera tem quatro denominações crescentes, uma por rank — **uva-verde** no 6, **tâmara-vermelha** no 7, **lichia-branca** no 8, **damasco-amarelo** no 9 —, e cada degrau vale cerca de cem vezes o anterior. O candidato precisa já estar produzindo lichia-branca antes de tentar a quarta condição. É pré-requisito, não resultado.
 2. **Pelo menos 300 mil marcas de dao no caminho principal.** Para escala: um rank 6 tem até 9 mil; um rank 7, entre 9 e 30 mil; um rank 8, entre **30 e 300 mil** — ou seja, a condição 2 é exatamente *fechar o rank 8 inteiro*. Sobre a amplificação que essas marcas dão, a obra fixa quatro pontos: **100 marcas → 1,1×; 1.000 → 2×; 10.000 → 10×; 50.000 → 50×**, aplicados sobre o efeito declarado do Gu. Para interpolar entre eles o vault usa `efeito × (1 + marcas ÷ 1.000)` **(ded.)** — reconstrução nossa, que reproduz os dois primeiros pontos exatamente e os dois últimos com o arredondamento que a própria obra faz. A curva é **linear**: dobrar as marcas praticamente dobra o efeito, sem retornos crescentes. Os números completos estão em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], que é a fonte soberana deles neste vault.
-3. **[[06 - Attainment|Attainment]] de "Supremo Grão-Mestre" no caminho principal — e este é o gargalo real.** ==Attainment== é o eixo de progressão que mede **o quanto você entende** de um caminho, separado do rank, que mede quanta força você tem. São nove degraus nomeados, de *comum* a *supremo grão-mestre*. O degrau imediatamente anterior — *quase supremo* — está perto e não serve: supremo grão-mestre exige não apenas compreender toda a profundidade da disciplina, mas **inovar** dentro dela, elevando o teto da disciplina em si. Não é erudição; é autoria. E é por isso que nenhuma herança do mundo entrega esse degrau: inovação, por definição, não se herda.
-4. **Romper o bloqueio do Caminho Celestial.** A [[11 - Vontade dos Céus|lei do mundo]] suprime ativamente o crescimento de poder individual. Quebrar essa supressão é a última porta. Quem a atravessa passa a produzir a essência imortal de rank 9, o damasco-amarelo.
+3. **[[08 - Attainment|Attainment]] de "Supremo Grão-Mestre" no caminho principal — e este é o gargalo real.** ==Attainment== é o eixo de progressão que mede **o quanto você entende** de um caminho, separado do rank, que mede quanta força você tem. São nove degraus nomeados, de *comum* a *supremo grão-mestre*. O degrau imediatamente anterior — *quase supremo* — está perto e não serve: supremo grão-mestre exige não apenas compreender toda a profundidade da disciplina, mas **inovar** dentro dela, elevando o teto da disciplina em si. Não é erudição; é autoria. E é por isso que nenhuma herança do mundo entrega esse degrau: inovação, por definição, não se herda.
+4. **Romper o bloqueio do Caminho Celestial.** A [[15 - Vontade dos Céus|lei do mundo]] suprime ativamente o crescimento de poder individual. Quebrar essa supressão é a última porta. Quem a atravessa passa a produzir a essência imortal de rank 9, o damasco-amarelo.
 
 > [!note] Para o design
 > Uma regra derivada é ouro puro para campanha: **quanto mais espalhado o conhecimento entre os cultivadores em geral, mais diluído fica o esforço de supressão da lei sobre qualquer indivíduo**. Democratizar o poder enfraquece o guarda-costas do equilíbrio. Isso transforma "publicar segredos de cultivo" numa jogada estratégica de longuíssimo prazo, e dá a facções inteiras um motivo mecânico — não ideológico — para alfabetizar o mundo. É um objetivo de campanha que não se resolve com uma espada.
@@ -87,7 +87,7 @@ São **quatro condições cumulativas**:
 
 `conhecimento: segredo`
 
-> [!warning] A fonte única deste assunto é [[13 - Tornar-se Venerável|Tornar-se Venerável]]
+> [!warning] A fonte única deste assunto é [[19 - Tornar-se Venerável|Tornar-se Venerável]]
 > O Dao Lord é descrito lá em detalhe — como se obtém, qual é o alcance real, e como se
 > perde. O que segue é o resumo necessário para ler esta pasta. Se algum dia divergirem,
 > vale a outra nota.
@@ -135,7 +135,7 @@ Vale registrar um terceiro estado, o mais raro: **uma era em que os métodos dei
 
 Esta é a **lista completa e consultável** dos dez, para não ser preciso abrir as três
 notas temáticas só para saber quem são. Estão em **ordem de era**, da mais antiga para a
-mais recente; as eras em si estão descritas em [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]]. A coluna
+mais recente; as eras em si estão descritas em [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]. A coluna
 "Onde ler" diz em qual nota desta pasta está a ficha de cada um — as fichas são
 agrupadas por **tipo de legado**, e não uma por Venerável, porque é o legado que
 interessa ao design, não a biografia.
@@ -148,7 +148,7 @@ diz nada sobre quem era cruel — vários "imortais" foram piores que vários "d
 
 | # | Venerável | Era | Via | Caminho principal | Legado em uma linha | Onde ler |
 |---|---|---|---|---|---|---|
-| 1 | Primordial Origin Immortal Venerable | Remota | correta | — (a obra não informa) | O primeiro rank 9 da história; fundou o sistema de seitas e o [[15 - Tribunal Celestial|Tribunal Celestial]] | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
+| 1 | Primordial Origin Immortal Venerable | Remota | correta | — (a obra não informa) | O primeiro rank 9 da história; fundou o sistema de seitas e o [[19 - Tribunal Celestial|Tribunal Celestial]] | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
 | 2 | Star Constellation Immortal Venerable | Remota | correta | wisdom path (caminho da sabedoria) | **Discípula do nº 1.** Criou o caminho da sabedoria; construiu a Torre que Observa o Céu; fundiu a própria vontade à lei do céu | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
 | 3 | Reckless Savage Demon Venerable | Antiga | demoníaca | strength path (caminho da força) | Criou os caminhos da força e da transformação; exterminou uma raça | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
 | 4 | Thieving Heaven Demon Venerable | Antiga | demoníaca | theft path (caminho do roubo) | Criou o caminho do roubo; deixou a rede de atalhos que o mundo ainda usa para viajar; o mais rico da história; rompeu a fronteira do mundo e a remendou mal | [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] |
@@ -157,7 +157,7 @@ diz nada sobre quem era cruel — vários "imortais" foram piores que vários "d
 | 7 | Genesis Lotus Immortal Venerable | Medieval | correta | wood path (caminho da madeira) | Criou o caminho da madeira, a infraestrutura de cura e armazenamento do mundo imortal e uma das dez grandes seitas | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
 | 8 | Spectral Soul Demon Venerable | Tardia | demoníaca | soul path (caminho da alma) | Criou o caminho da alma; a existência mais destrutiva dos dez | [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] |
 | 9 | Paradise Earth Immortal Venerable | Tardia | correta | — (não criou caminho próprio) | Deixou a melhor herança de combate da história, as ferramentas de ler e ocultar o segredo celeste, e uma instituição de missões que ainda funciona | [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] |
-| 10 | Red Lotus Demon Venerable | Tardia | demoníaca | — (a obra não informa) | Feriu o [[12 - Fate Gu|Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida; teve a vida mais curta dos dez | [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] |
+| 10 | Red Lotus Demon Venerable | Tardia | demoníaca | — (a obra não informa) | Feriu o [[16 - Fate Gu|Fate Gu]] e quebrou as correntes do destino — a única lei fundamental já rompida; teve a vida mais curta dos dez | [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] |
 
 As eras da coluna 3 são abreviações de "Antiguidade Remota", "Antiguidade Antiga",
 "Antiguidade Medieval" e "Antiguidade Tardia". Na **era atual**, que é onde uma campanha
@@ -167,7 +167,7 @@ heranças, vontades residuais e golpes gravados no mundo.
 **Total: 10**, e é essa a contagem que o vault adota, porque é a que a obra sustenta em
 praticamente todo o texto. Registre-se, por transparência, que **uma passagem tardia fala em
 onze** — provavelmente contando alguém posterior ou um pseudo-Venerável revivificado; ver o
-aviso em [[13 - Tornar-se Venerável|Tornar-se Venerável]]. Não altera nada de estrutural. Os dois nomes mais fáceis
+aviso em [[19 - Tornar-se Venerável|Tornar-se Venerável]]. Não altera nada de estrutural. Os dois nomes mais fáceis
 de perder de vista são o **Giant Sun** e o **Paradise Earth**, justamente porque não dão
 nome a nenhuma das três notas temáticas.
 
@@ -187,13 +187,13 @@ pesquisa, e cada uma é de um tipo diferente:
 
 ## Relações
 
-- [[13 - Tornar-se Venerável|Tornar-se Venerável]] — **a fonte única** sobre as quatro condições, o bloqueio celestial e o Dao Lord. Esta nota resume; aquela decide.
+- [[19 - Tornar-se Venerável|Tornar-se Venerável]] — **a fonte única** sobre as quatro condições, o bloqueio celestial e o Dao Lord. Esta nota resume; aquela decide.
 - [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] — o cenário que estes dez remodelaram.
-- [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — as eras da coluna 3 da tabela dos dez, e o que nasceu em cada uma.
-- [[15 - Tribunal Celestial|Tribunal Celestial]] — a instituição fundada por Veneráveis e habitada pelas aberturas de três deles.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — a lei que todo Venerável precisou romper para chegar onde chegou.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — a mitologia que os dez, sem exceção, leram como documento técnico.
-- [[06 - Attainment|Attainment]] — a escada de compreensão cujo último degrau é o gargalo real do rank 9.
-- [[12 - Dao Marks|Dao Marks]] — o atributo de progressão, e a substância do poder de um Dao Lord.
+- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — as eras da coluna 3 da tabela dos dez, e o que nasceu em cada uma.
+- [[19 - Tribunal Celestial|Tribunal Celestial]] — a instituição fundada por Veneráveis e habitada pelas aberturas de três deles.
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — a lei que todo Venerável precisou romper para chegar onde chegou.
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — a mitologia que os dez, sem exceção, leram como documento técnico.
+- [[08 - Attainment|Attainment]] — a escada de compreensão cujo último degrau é o gargalo real do rank 9.
+- [[16 - Dao Marks|Dao Marks]] — o atributo de progressão, e a substância do poder de um Dao Lord.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — as disciplinas de cultivo, várias delas fundadas por estes dez.
 - [[01 - Glossário EN-PT|Glossário EN-PT]] — o critério de nomenclatura, e os termos do sistema em inglês e português.

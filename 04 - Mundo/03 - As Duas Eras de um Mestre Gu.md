@@ -142,7 +142,7 @@ comprável.
 ### O relógio: quanto tempo as coisas levam
 
 O mortal comum vive **cerca de cem anos**, e o cultivo não estende isso por si só — só o
-raríssimo Gu de longevidade estende vida "pela raiz" (ver [[09 - Longevidade|Longevidade]]).
+raríssimo Gu de longevidade estende vida "pela raiz" (ver [[12 - Longevidade|Longevidade]]).
 
 Dentro dessa vida única, o ritmo esperado de progresso é lento e depende do talento:
 
@@ -350,7 +350,7 @@ não intencional — gera repercussão política duradoura.
 
 A passagem do rank 5 para o rank 6 não é um avanço: é uma **mudança de categoria de
 existência**. A obra é literal — a diferença é "céu e terra". O processo em si está em
-[[11 - Ascensão Imortal|Ascensão Imortal]]; o que interessa aqui é o cenário do outro lado.
+[[14 - Ascensão Imortal|Ascensão Imortal]]; o que interessa aqui é o cenário do outro lado.
 
 Primeiro, a raridade. **De dez mil Mestres Gu de rank 5, nem um completa a ascensão.**
 Entre dez milhões de Mestres Gu, talvez nenhum. Quem chega lá não entrou num clube: saiu
@@ -377,7 +377,7 @@ fluxo temporal também **antecipa as calamidades** — mais produção significa
 imortal tem um **núcleo de origem** dentro da própria terra que produz essência imortal
 periodicamente, como uma fonte. Ele deixa de ter saldo e passa a ter **renda** — mas a
 renda depende da saúde e da qualidade do território, e o território pode adoecer, ser
-atacado e ser tomado. Ver [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+atacado e ser tomado. Ver [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
 **A economia: moeda nova, e o dinheiro encolhe conforme você sobe.** A moeda imortal é a
 *pedra de essência imortal*, e a escala de conversão é brutal: uma pedra compra uma conta
@@ -385,7 +385,7 @@ de essência de rank 6; **cem pedras** compram uma conta de rank 7; **dez mil pe
 compram uma de rank 8; cerca de **um milhão** compram uma de rank 9. Ou seja, **cada rank
 divide o poder de compra do seu dinheiro por cem**. Um rank 7 que enriqueceu como rank 6
 acorda pobre. Por isso todo imortal maduro migra de dinheiro para escambo e ativos
-produtivos. Detalhes em [[11 - Economia Imortal|Economia Imortal]].
+produtivos. Detalhes em [[15 - Economia Imortal|Economia Imortal]].
 
 Riqueza típica, para calibrar: um rank 6 acumula **algumas centenas** de pedras de essência
 imortal; um rank 7, milhares a dez mil e pouco; um rank 8, dezenas de milhares (e os
@@ -406,7 +406,7 @@ população mortal vivendo lá dentro, às vezes aos milhões. Uma abertura exce
 desenvolvida chegou a **335 mil quilômetros quadrados**. O imortal deixa de carregar seus
 recursos e passa a **cultivá-los** — e herda todos os problemas de quem administra um
 território: manutenção, orçamento, colheita, pragas e desastres. Ver
-[[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] e [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+[[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] e [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
 **O tempo de vida: mais anos, e ainda assim um relógio.** Ascender **não estende a vida por
 si só** — longevidade é um recurso separado do rank. Imortais vivem muito, mas morrem: o
@@ -453,7 +453,7 @@ um gancho de campanha:
    próprio mundo antes de reaparecer.
 3. **As provações nunca param.** Toda abertura imortal atrai calamidades e tribulações
    proporcionais à fortuna acumulada — a cada dez anos, a cada cinquenta, a cada cem — e
-   elas atingem o território, não só a pessoa. Ver [[10 - Tribulações e Calamidades|Tribulações e Calamidades]].
+   elas atingem o território, não só a pessoa. Ver [[13 - Tribulações e Calamidades|Tribulações e Calamidades]].
 
 Some as três e o resultado é o retrato: **algumas centenas de indivíduos por região,
 espalhados, reclusos, ricos em terra e pobres em artefatos, que passam a maior parte do
@@ -500,7 +500,7 @@ Entrar significa **fundir a própria abertura ao conjunto** e receber em troca u
 menor e portátil para uso externo. O que se ganha: imunidade a calamidades e tribulações,
 o direito de dormir sem consumir tempo de vida, e trânsito livre entre as regiões. O que se
 perde: a própria base material — um membro que saia é um imortal sem terra. Ver
-[[15 - Tribunal Celestial|Tribunal Celestial]].
+[[19 - Tribunal Celestial|Tribunal Celestial]].
 
 ### O que ocupa o tempo deles
 
@@ -532,7 +532,7 @@ terra, defender contra calamidades e evitar que um rival induza uma artificialme
 
 **Cultivo fechado.** Décadas de reclusão são a norma, não a exceção — especialmente logo
 após ascender, quando a pessoa não tem quase nada e precisa reconstruir tudo. Ver
-[[06 - Ritmo de Cultivo e Reclusão|Ritmo de Cultivo e Reclusão]].
+[[11 - Ritmo de Cultivo e Reclusão|Ritmo de Cultivo e Reclusão]].
 
 **Política entre pares.** Leilões de Gu Imortais (onde o vendedor escolhe a oferta, não o
 maior lance, porque o mercado é de vendedor); convenções centenárias de refino; competições
@@ -693,14 +693,14 @@ o fazer.**
 ## Relações
 
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — a escada completa, a demografia de cada rank e as travas de aptidão.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o rito de passagem entre as duas eras, passo a passo.
-- [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — o dia a dia concreto de ser dono de um mundo.
-- [[11 - Economia Imortal|Economia Imortal]] — a moeda, os preços, o crédito e a escassez estrutural de artefatos.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o rito de passagem entre as duas eras, passo a passo.
+- [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — o dia a dia concreto de ser dono de um mundo.
+- [[15 - Economia Imortal|Economia Imortal]] — a moeda, os preços, o crédito e a escassez estrutural de artefatos.
 - [[02 - Clãs|Clãs]] e [[03 - Seitas e Academias|Seitas e Academias]] — a estrutura interna das organizações mortais.
-- [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem são, nominalmente, as potências de cada região.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as terras, seus espíritos e as vias de conquista.
-- [[15 - Tribunal Celestial|Tribunal Celestial]] — a organização que concentra o topo da era imortal.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — o calendário de ameaças que o mundo agenda sozinho.
-- [[09 - Longevidade|Longevidade]] — por que o tempo continua sendo o recurso mais caro dos dois lados.
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem são, nominalmente, as potências de cada região.
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as terras, seus espíritos e as vias de conquista.
+- [[19 - Tribunal Celestial|Tribunal Celestial]] — a organização que concentra o topo da era imortal.
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — o calendário de ameaças que o mundo agenda sozinho.
+- [[12 - Longevidade|Longevidade]] — por que o tempo continua sendo o recurso mais caro dos dois lados.
 - [[04 - As Cinco Regiões|As Cinco Regiões]] — a geografia que define o horizonte de um mortal.
-- [[04 - Vida Cotidiana|Vida Cotidiana]] — como se come, mora e trabalha no chão do mundo.
+- [[10 - Vida Cotidiana|Vida Cotidiana]] — como se come, mora e trabalha no chão do mundo.

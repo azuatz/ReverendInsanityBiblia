@@ -132,7 +132,7 @@ lances de uma luta — e não é contemplativo: é o gesto de conferir o própri
   [[02 - Pedras Primordiais|pedra primordial]], o nível sobe "numa velocidade visível a olho
   nu" — e, ao bater no teto imposto pela [[03 - Aptidão|aptidão]], **para de repente**, com
   espaço de sobra acima.
-- Acima do mar existe um **céu vazio** dentro da esfera. É onde os [[13 - Onde um Gu Mora|Gu
+- Acima do mar existe um **céu vazio** dentro da esfera. É onde os [[04 - Onde um Gu Mora|Gu
   guardados]] pairam. Gu de água ficam boiando na superfície do mar; um Gu chamado para uso
   sobe do mar até o meio da esfera e sai dali para o corpo.
 - Em combate ou em cultivo, o mar **se agita sozinho**: ondas se levantam sem vento e se
@@ -191,9 +191,9 @@ Para subir de **rank**, porém, o processo se inverte: em vez de fortalecer a pa
 
 ## Regras e limites
 
-- **Dano à abertura é catastrófico e frequentemente permanente.** Ferir a abertura reduz o cultivo e pode reduzir a própria [[03 - Aptidão|aptidão]]; destruí-la por completo mata o Mestre Gu na hora. Uma técnica proibida usada em desespero pode rachar as paredes de forma permanente e **rebaixar o cultivador de grau A para grau B** — isto é, derrubá-lo um degrau inteiro na escala de talento, que vai de D (pior) a A (melhor) e está explicada em [[03 - Aptidão|Aptidão]]. A queda de rank causada por ferimento, por velhice e por conflito entre efeitos artificiais é assunto de [[15 - Perder Cultivo|Perder Cultivo]] — e é uma parte grande do sistema, não uma nota de rodapé.
+- **Dano à abertura é catastrófico e frequentemente permanente.** Ferir a abertura reduz o cultivo e pode reduzir a própria [[03 - Aptidão|aptidão]]; destruí-la por completo mata o Mestre Gu na hora. Uma técnica proibida usada em desespero pode rachar as paredes de forma permanente e **rebaixar o cultivador de grau A para grau B** — isto é, derrubá-lo um degrau inteiro na escala de talento, que vai de D (pior) a A (melhor) e está explicada em [[03 - Aptidão|Aptidão]]. A queda de rank causada por ferimento, por velhice e por conflito entre efeitos artificiais é assunto de [[07 - Perder Cultivo|Perder Cultivo]] — e é uma parte grande do sistema, não uma nota de rodapé.
 - **A energia de outra pessoa contamina.** Não existem duas essências primordiais idênticas — elas são tão pessoais quanto uma impressão digital. Essência alheia injetada na abertura conflita com a nativa e, acumulada, impregna as paredes de forma permanente, sufocando o desenvolvimento futuro do talento. Essência contaminada tem ainda dois efeitos imediatos: **injetada num Gu, mata o Gu**, e deixada na abertura, corrói a parede e derruba a [[03 - Aptidão|aptidão]] proporcionalmente ao tempo que fica lá.
-- **A limpeza tem duas versões, e uma delas é gratuita.** A definitiva é um Gu de limpeza raríssimo, que lava as paredes por completo — e que também serve, na prática, para **apagar a evidência** de dopagem antes de uma avaliação pública. A caseira está ao alcance de qualquer Mestre Gu: **expulsar do corpo toda a própria essência e reformá-la do zero** a partir de [[02 - Pedras Primordiais|pedras primordiais]]. Cada rodada corta a impureza aproximadamente pela metade, até sobrar um **traço residual que nenhuma repetição adicional remove**. O procedimento completo e o que volta ou não volta estão em [[15 - Perder Cultivo|Perder Cultivo]].
+- **A limpeza tem duas versões, e uma delas é gratuita.** A definitiva é um Gu de limpeza raríssimo, que lava as paredes por completo — e que também serve, na prática, para **apagar a evidência** de dopagem antes de uma avaliação pública. A caseira está ao alcance de qualquer Mestre Gu: **expulsar do corpo toda a própria essência e reformá-la do zero** a partir de [[02 - Pedras Primordiais|pedras primordiais]]. Cada rodada corta a impureza aproximadamente pela metade, até sobrar um **traço residual que nenhuma repetição adicional remove**. O procedimento completo e o que volta ou não volta estão em [[07 - Perder Cultivo|Perder Cultivo]].
 - **Inspeção de abertura é o maior tabu social entre Mestres Gu.** Por toque, um Mestre Gu consegue "escanear" a abertura de outro e ver a cor e a quantidade da essência (o que revela rank e estágio exatos) e os Gu guardados ali. Fazer isso sem consentimento é ofensa gravíssima. Um Gu de rank muito superior ao do inspetor consegue se ocultar da leitura: um inspetor rank 4 não detecta um Gu rank 6.
 - **Existe uma "segunda caverna secreta"** onde é possível manter Gu fora da abertura principal, justamente para escapar de inspeções. É um recurso conhecido, não um segredo absoluto, mas o mecanismo nunca é detalhado.
 - **A abertura só acomoda confortavelmente Gu de rank compatível.** Um Gu de rank muito superior em plena força faria a abertura explodir. Um Gu poderoso guardado ali enquanto se recupera volta a crescer com o tempo e pode acabar ferindo ou matando o portador por sobrecarga — causa comum de morte entre Mestres Gu ambiciosos.
@@ -202,7 +202,7 @@ Para subir de **rank**, porém, o processo se inverte: em vez de fortalecer a pa
 - **Uma segunda abertura é possível — e rara.** Existe um método (de nível imortal) que concede uma segunda abertura, nascida no centro do peito, começando no rank 1 e progredindo de forma independente. Ela dobra a capacidade de energia e a velocidade de recuperação, aceita um segundo conjunto de Gu e, principalmente, funciona como **seguro de vida na ascensão**: quem tem duas aberturas pode estilhaçar só uma e sobreviver à falha. Como a essência das duas é a mesma assinatura pessoal, transferi-la entre elas é seguro — e serve de atalho, empurrando a energia da abertura forte contra a parede da fraca para forçar uma ruptura.
 
 > [!warning] Uma exceção deliberada, e o que ela revela
-> Rachaduras estruturais na abertura são um defeito — mas podem ser **deixadas de propósito por terceiros**, porque tornam mais fácil estilhaçar a abertura no momento da [[11 - Ascensão Imortal|ascensão imortal]]. É a primeira vez que a obra mostra alguém sacrificando aptidão como investimento consciente. A leitura correta: no fim da carreira mortal, a abertura deixa de ser um cofre a preservar e passa a ser um obstáculo a demolir.
+> Rachaduras estruturais na abertura são um defeito — mas podem ser **deixadas de propósito por terceiros**, porque tornam mais fácil estilhaçar a abertura no momento da [[14 - Ascensão Imortal|ascensão imortal]]. É a primeira vez que a obra mostra alguém sacrificando aptidão como investimento consciente. A leitura correta: no fim da carreira mortal, a abertura deixa de ser um cofre a preservar e passa a ser um obstáculo a demolir.
 
 ## Na vida de um Mestre Gu
 
@@ -223,10 +223,10 @@ Socialmente, a abertura é o que se esconde. A cor da essência vaza como aura e
 - [[04 - Essência Primordial|Essência Primordial]] — o conteúdo do Mar Primordial.
 - [[03 - Aptidão|Aptidão]] — o que fixa a capacidade máxima da abertura.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — avanço é transformar ou quebrar as paredes.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o momento em que a abertura é destruída de propósito.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o momento em que a abertura é destruída de propósito.
 - [[03 - Aptidão|Aptidão]] — o grau que a cerimônia mede, e o teto que ele impõe.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a recarga externa.
-- [[15 - Perder Cultivo|Perder Cultivo]] — o que acontece quando este órgão é ferido, contaminado ou envelhece.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — quem vive sem abertura, e quem vive com uma abertura morta.
+- [[07 - Perder Cultivo|Perder Cultivo]] — o que acontece quando este órgão é ferido, contaminado ou envelhece.
+- [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — quem vive sem abertura, e quem vive com uma abertura morta.
 
 [^1]: A abertura também aparece na obra sob nomes populares e poéticos ("Palácio Púrpuro", "Lago Chinês"), que são sinônimos do mesmo órgão. A tradução brasileira consagrada é "abertura"; "mar primordial" e "mar primitivo" circulam como variantes para o Mar Primordial, sem diferença de significado.

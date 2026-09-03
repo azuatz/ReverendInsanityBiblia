@@ -90,7 +90,7 @@ fora do lugar.
 
 Isso importa porque a maré fabricada é uma jogada de guerra reconhecida e **negável**.
 Escravizar bestas é um caminho de cultivo comum (ver
-[[06 - Enslavement Path|Enslavement Path]]), o que torna "empurrar uma horda contra alguém"
+[[07 - Enslavement Path|Enslavement Path]]), o que torna "empurrar uma horda contra alguém"
 uma manobra militar normal. A obra documenta três usos: **como arma** — uma tribo conduziu
 secretamente bandos de lobos contra a coluna de migração de uma tribo menor, e ao mesmo tempo
 assassinou os batedores da vítima para cegá-la antes da segunda onda; **como cobertura** — uma
@@ -146,7 +146,7 @@ organizado.
    elite; um **salão de medicina** com equipe mobilizada; e uma **formação de transporte** conferida
    com antecedência, para **evacuar os jovens** se a muralha cair. Em paralelo, batedores de elite
    saem para procurar a *causa* enquanto a defesa se arma. Ver
-   [[08 - Formações de Gu|Formações de Gu]].
+   [[09 - Formações de Gu|Formações de Gu]].
 5. **Uma vila não pode crescer além do que consegue defender.** Regra de urbanismo do mundo, e ela
    é explicada com história: uma vila-clã se expandiu várias vezes ao longo dos séculos e foi
    **devastada por marés de bestas em todas elas**; o tamanho atual é o máximo defensável e ficou
@@ -290,16 +290,16 @@ maré, o que é uma campanha inteira do lado de lá.
 
 - [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] — o exemplar completo,
   com calendário, aliança e placar.
-- [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis: rei de cem
+- [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis: rei de cem
   bestas, rei de mil bestas, rei de miríade de bestas, imperador-fera.
-- [[10 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as espécies nomeadas.
-- [[06 - Enslavement Path|Enslavement Path]] — o caminho de cultivo que transforma uma maré em arma.
+- [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as espécies nomeadas.
+- [[07 - Enslavement Path|Enslavement Path]] — o caminho de cultivo que transforma uma maré em arma.
 - [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] — onde a
   maré deixa de ser um inimigo e vira clima.
-- [[08 - Formações de Gu|Formações de Gu]] — as formações de defesa, de ataque e de evacuação.
-- [[14 - Guerra Organizada|Guerra Organizada]] — a doutrina militar que organiza acampamentos em
+- [[09 - Formações de Gu|Formações de Gu]] — as formações de defesa, de ataque e de evacuação.
+- [[10 - Guerra Organizada|Guerra Organizada]] — a doutrina militar que organiza acampamentos em
   cadeia, cornetas de emergência e recuo ordenado.
-- [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] —
+- [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] —
   a geografia de onde as bestas vêm.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números
   do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

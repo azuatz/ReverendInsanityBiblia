@@ -27,7 +27,7 @@ públicos==, e o mundo inteiro fica sabendo.
 
 Esta é a nota de **categoria**. Ela descreve os formatos recorrentes de abertura de
 herança e como é estar dentro de um deles. A instituição por trás — o que é uma herança,
-quem as monta e por quê — está em [[07 - Heranças e Provações|Heranças e Provações]]. As
+quem as monta e por quê — está em [[12 - Heranças e Provações|Heranças e Provações]]. As
 três heranças grandes o bastante para terem nota própria são
 [[09 - A Herança dos Três Reis|A Herança dos Três Reis]],
 [[10 - A Subida da Montanha Dang Hun|A Subida da Montanha Dang Hun]] e
@@ -284,7 +284,7 @@ mandam peões, e a sessão é a espera.
 
 ## Relações
 
-- [[07 - Heranças e Provações|Heranças e Provações]] — a instituição: o que é uma herança, por
+- [[12 - Heranças e Provações|Heranças e Provações]] — a instituição: o que é uma herança, por
   que se monta uma, como o mundo lida com elas. Esta nota é a abertura como cenário.
 - [[09 - A Herança dos Três Reis|A Herança dos Três Reis]] — o exemplar completo da categoria,
   com a economia externa e a masmorra interna descritas em detalhe.
@@ -294,11 +294,11 @@ mandam peões, e a sessão é a espera.
   muitas heranças ficam, e por que só os fracos chegam até elas.
 - [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] — o
   calendário que mata as terras abençoadas e transforma cofre em herança.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é o mundo
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é o mundo
   privado dentro do qual quase toda herança grande está guardada.
-- [[10 - Espólio de Gu|Espólio de Gu]] — o que se pode e o que não se pode tirar do corpo de
+- [[14 - Espólio de Gu|Espólio de Gu]] — o que se pode e o que não se pode tirar do corpo de
   quem não saiu.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — a economia que se monta em volta do
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — a economia que se monta em volta do
   acampamento.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

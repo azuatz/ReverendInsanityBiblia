@@ -63,7 +63,7 @@ Duas convenções valem para o documento inteiro:
 > [!warning] Duas palavras que se parecem e não são a mesma coisa
 > **"Mestre Gu"** é o nome genérico do cultivador deste mundo — qualquer pessoa que
 > tenha uma [[02 - Abertura|Abertura]]. **"Mestre"** (sem o "Gu") é também o nome do primeiro
-> nível de domínio de um caminho, na escala de [[06 - Attainment|Attainment]]. São conceitos
+> nível de domínio de um caminho, na escala de [[08 - Attainment|Attainment]]. São conceitos
 > diferentes que dividem a mesma palavra em português. Neste apêndice, sempre que
 > aparecer "Mestre" sozinho numa tabela de domínio, é o nível de attainment.
 
@@ -94,7 +94,7 @@ inferidos da seção 2, esta coluna muda junto.
 | C | **40–59%** | **canônico** | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
 | B | **60–79%** | **canônico** | rank 3, eventualmente rank 4 |
 | A | **80–99%** | **canônico** | topo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | **100%** | **canônico** | ver [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] |
+| Constituição Extrema | **100%** | **canônico** | ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] |
 
 > [!warning] O grau D só passa do rank 1 se a aptidão dele for elevada
 > Um grau D que **de fato** chegue ao rank 2 existe na obra, mas nunca como grau D:
@@ -175,7 +175,7 @@ aptidão.
 > Duas lições para a mesa. Primeira: a porcentagem exigida não mede volume de energia,
 > mede **poder de impacto** — mude a qualidade do impacto e o número muda junto.
 > Segunda: todo atalho desses cobra em aptidão, isto é, cobra no teto de carreira. É a
-> economia central de [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]].
+> economia central de [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]].
 
 ---
 
@@ -257,7 +257,7 @@ nunca combustível.
 São **três** as exceções canônicas, e todas nascem da mesma lógica de que a vontade original
 continua valendo:
 
-1. o [[09 - Blessed Lands e Grotto-Heavens|espírito da terra]] formado a partir do próprio
+1. o [[13 - Blessed Lands e Grotto-Heavens|espírito da terra]] formado a partir do próprio
    Imortal morto, que gasta a essência que ele deixou;
 2. a **vontade remanescente** do morto, pelo mesmo motivo;
 3. as **Casas de Gu Imortal**, que absorvem essência de qualquer um — a obra trata isso como
@@ -311,7 +311,7 @@ multiplicador de 100× por rank; o multiplicador em si é texto.
 Há uma âncora com a moeda dos mortais, e ela é o número mais vertiginoso desta nota:
 
 - 1 pedra de essência imortal vale **mais de 100 milhões** de [[02 - Pedras Primordiais|Pedras Primordiais]].
-- **Só o [[15 - Tribunal Celestial|Tribunal Celestial]] consegue produzir pedras de essência imortal**, e
+- **Só o [[19 - Tribunal Celestial|Tribunal Celestial]] consegue produzir pedras de essência imortal**, e
   ele controla deliberadamente o quanto solta no mundo. Isso não é curiosidade: é a
   alavanca política mais forte que existe, porque a moeda do topo tem um emissor único.
 
@@ -360,7 +360,7 @@ Há uma âncora com a moeda dos mortais, e ela é o número mais vertiginoso des
 > - A **pedra de essência imortal** é a moeda corrente dos Imortais: circula,
 >   compra, paga serviços, rende juros e é penhorável. É com ela que funcionam a
 >   praça de comércio, os empréstimos e os contratos descritos em
->   [[11 - Economia Imortal|Economia Imortal]].
+>   [[15 - Economia Imortal|Economia Imortal]].
 > - As **contas de essência** (uva-verde, tâmara, lichia) **não são moeda**: são o
 >   combustível pessoal do Imortal, produzido pela abertura dele e utilizável
 >   apenas por ele. Essas, sim, são intransferíveis.
@@ -773,7 +773,7 @@ Traços comuns confirmados dos dez Veneráveis, úteis como perfil estrutural:
 - **Nenhum era onipotente**: houve Veneráveis que precisaram de ajuda de terceiros
   para refinar os próprios Gu.
 - **Todos tiveram sorte inata imensa**, vinda de uma de duas fontes: o favor da
-  [[11 - Vontade dos Céus|vontade do céu]] ou a devoção coletiva de multidões.
+  [[15 - Vontade dos Céus|vontade do céu]] ou a devoção coletiva de multidões.
 - **Todos tiveram um "Guardião do Dao"** num momento crucial do próprio crescimento —
   que podia ser um amigo **ou** um inimigo.
 - **Todos foram limitados pelo tempo de vida.** Nem Veneráveis são imortais de fato:
@@ -865,7 +865,7 @@ vale a unidade de distância, quão grande é uma região, quanto tempo custa at
 a pé, voando ou por teleporte, e quanto se paga por isso. É a régua que responde às
 perguntas mais frequentes de uma mesa — dá para ir e voltar hoje? o socorro chega a
 tempo? quanto custa a passagem? — e que a explicação em prosa está em
-[[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]].
+[[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]].
 
 Uma observação de vocabulário antes de começar. A nota temática marca a origem de cada
 número com `(ded.)` para dedução segura e `*` para invenção nossa; este apêndice usa a
@@ -962,14 +962,14 @@ concretos que a seção 9 não traz.
 
 O contraste é a informação, e ela é contraintuitiva: **a propriedade privada de um
 Imortal é minúscula perto do mundo**. Uma terra abençoada de grade alta cabe dentro de
-um único vale da região onde o dono mora. Ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
+um único vale da região onde o dono mora. Ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
 > [!note] Duas divergências que existiam aqui e foram resolvidas
 > Versões anteriores desta seção registravam dois conflitos internos do vault. Os dois
 > estão fechados e ficam anotados para quem tiver lido a versão antiga:
 >
 > - **O piso da grade média era dado ora como 2.000, ora como 2.700 km².** A conferência
->   no texto-fonte favorece **2.700**, e a nota temática [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] já
+>   no texto-fonte favorece **2.700**, e a nota temática [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] já
 >   traz esse valor. Não há mais divergência, e o vão entre a grade baixa (teto 2.000) e a
 >   média (piso 2.700) é real.
 > - **O teto do fluxo de tempo estava defasado em 1:38.** Está corrigido para **1:46** na
@@ -1645,9 +1645,9 @@ seções anteriores mediram a energia. Esta mede o estojo.
 ## Notas relacionadas
 
 - [[03 - Aptidão|Graus de Aptidão]] · [[02 - Abertura|Abertura]] · [[04 - Essência Primordial|Essência Primordial]] · [[05 - Ranks e Avanço|Ranks e Estágios de Cultivo]]
-- [[12 - Dao Marks|Dao Marks]] · [[06 - Attainment|Attainment]] · [[10 - Tribulações e Calamidades|Calamidades e Tribulações]]
-- [[09 - Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[04 - Essência Primordial|Essência Imortal]] · [[01 - Visão Geral dos Veneráveis|Veneráveis]]
-- [[05 - Refino de Gu|Refino de Gu]] · [[01 - Glossário EN-PT|Glossário EN-PT]] · [[03 - Catálogo de Gu|Catálogo de Gu]]
-- [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] · [[04 - As Cinco Regiões|As Cinco Regiões]] · [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] · [[01 - Visão Geral do Mundo|Visão Geral do Mundo]]
-- [[09 - Longevidade|Longevidade]] · [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[04 - Strength Path|Strength Path]] · [[10 - Soul Path|Soul Path]]
-- [[01 - Visão Geral da Economia|Visão Geral da Economia]] · [[05 - Mercados e Leilões|Mercados e Leilões]] · [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]]
+- [[16 - Dao Marks|Dao Marks]] · [[08 - Attainment|Attainment]] · [[13 - Tribulações e Calamidades|Calamidades e Tribulações]]
+- [[13 - Blessed Lands e Grotto-Heavens|Terra Abençoada]] · [[04 - Essência Primordial|Essência Imortal]] · [[01 - Visão Geral dos Veneráveis|Veneráveis]]
+- [[06 - Refino de Gu|Refino de Gu]] · [[01 - Glossário EN-PT|Glossário EN-PT]] · [[03 - Catálogo de Gu|Catálogo de Gu]]
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] · [[04 - As Cinco Regiões|As Cinco Regiões]] · [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] · [[01 - Visão Geral do Mundo|Visão Geral do Mundo]]
+- [[12 - Longevidade|Longevidade]] · [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[04 - Strength Path|Strength Path]] · [[12 - Soul Path|Soul Path]]
+- [[01 - Visão Geral da Economia|Visão Geral da Economia]] · [[06 - Mercados e Leilões|Mercados e Leilões]] · [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]

@@ -57,7 +57,7 @@ existem nos três ofícios**, e são categoria formal, não curiosidade:
   funciona nas mãos de uma **raça** específica e mata qualquer outro que entre nela.
 
 Há ainda condições **posicionais**: um Gu de nível 6 ou mais, uma vez consagrado
-[[04 - Gu Vital|Gu Vital]], fica preso no centro da abertura e **não pode mais ser retirado
+[[05 - Gu Vital|Gu Vital]], fica preso no centro da abertura e **não pode mais ser retirado
 nem manifestado** — funciona como fundação e nunca como arma.
 
 O exemplo que exibe os três eixos ao mesmo tempo é um Gu de nível 4 que detecta mentiras:
@@ -85,7 +85,7 @@ cinco dedos bem afastados, e vira a palma para os alunos verem. "Primeiro, você
 para mobilizar o Gu, levando-o até o centro da palma." E a marca em forma de lua crescente que
 representa o Gu **desce pelo braço dele e chega à palma**. Não há gesto, não há palavra, não há
 toque: o bicho anda por dentro do corpo do dono, obedecendo a um pensamento. (Onde ele mora
-enquanto isso é assunto de [[13 - Onde um Gu Mora|Onde um Gu Mora]].)
+enquanto isso é assunto de [[04 - Onde um Gu Mora|Onde um Gu Mora]].)
 
 **Etapa 2 — empurrar essência para dentro do Gu. Também só com a mente.** "Depois, vocês
 mobilizam a essência primordial da abertura e a despejam dentro do Gu." Um **fio de essência
@@ -140,8 +140,8 @@ flowchart LR
 ### Quanto tempo leva, e o que se gasta além de essência
 
 **Acionar é instantâneo.** A obra usa sempre a mesma palavra — *na hora*, *num piscar* — e, o que
-vale mais, ela **enuncia o contraste**: as [[08 - Formações de Gu|formações de Gu]] são
-consideradas inferiores aos [[07 - Killer Moves|golpes combinados]] justamente porque **não podem
+vale mais, ela **enuncia o contraste**: as [[09 - Formações de Gu|formações de Gu]] são
+consideradas inferiores aos [[08 - Killer Moves|golpes combinados]] justamente porque **não podem
 ser acionadas instantaneamente** — levam muito tempo para montar e não servem numa troca rápida.
 Se o texto precisa dizer que a formação é a exceção lenta, é porque o acionamento normal de um Gu
 não custa tempo nenhum.
@@ -187,7 +187,7 @@ com três diferenças importantes:
    comum: há Gu que cobram em **tempo de vida**, em **energia mental**, na **fundação da
    alma** do usuário, ou até nas próprias marcas do Dao gravadas no bicho — este último
    caso causando um rebaixamento **permanente** de nível a cada tantos usos. Ver
-   [[12 - Gu Imortais|Gu Imortais]].
+   [[16 - Gu Imortais|Gu Imortais]].
 
 ### Gu reutilizáveis e Gu consumíveis
 
@@ -295,7 +295,7 @@ Três desfechos, em ordem de gravidade:
    do nível que já teve** — é assim que aparecem Gu aparentemente fracos, mas com uma
    teimosia interna desproporcional, extremamente difíceis de refinar.
 2. **Fome extrema → morte.** O desfecho mais comum. Um Gu morto é perda total; se for o
-   [[04 - Gu Vital|Gu Vital]] do Mestre, é catástrofe pessoal.
+   [[05 - Gu Vital|Gu Vital]] do Mestre, é catástrofe pessoal.
 3. **Fome extrema → auto-selamento (raro).** Em vez de morrer, alguns Gu hibernam dentro de
    uma casca de rocha ou de um casulo, ficando indistinguíveis de uma pedra ou de um bolo de
    fibra. Sobrevivem séculos assim, e são indetectáveis pela maioria dos métodos. É a base
@@ -309,7 +309,7 @@ Alguns Gu não comem diretamente. Um deles produz, uma vez por mês, formigas co
 consomem os materiais e depois o alimentam — o que cria uma vulnerabilidade elegante:
 **matar formigas demais mata o Gu de fome mesmo com fartura ao redor**.
 
-No nível imortal há um caminho inteiro dedicado ao problema — o [[15 - Food Path|Food Path]] —, com Gu que
+No nível imortal há um caminho inteiro dedicado ao problema — o [[20 - Food Path|Food Path]] —, com Gu que
 substituem parte da alimentação de outros Gu. Um deles cobre até 40% da necessidade de um Gu
 Imortal de nível 6, cerca de 6% por uso, e precisa se recuperar entre acionamentos: **usá-lo
 além do limite mata o próprio Gu**.
@@ -320,7 +320,7 @@ Há **dois** tetos, e eles são independentes. O primeiro é econômico — o as
 seção. O segundo é físico: a abertura tem capacidade finita e um Gu de nível muito
 superior chega a ameaçar rompê-la, de modo que é perfeitamente possível ter dinheiro
 sobrando e ainda assim não conseguir levar mais um bicho. Esse segundo teto está em
-[[13 - Onde um Gu Mora|Onde um Gu Mora]]; aqui trata-se do primeiro.
+[[04 - Onde um Gu Mora|Onde um Gu Mora]]; aqui trata-se do primeiro.
 
 > [!warning] Esta é a tabela de referência do vault para "quantos Gu"
 > O número de Gu que um Mestre sustenta aparece citado em várias notas, e por muito tempo
@@ -439,10 +439,10 @@ Para um Gu Imortal, alimentação deixa de ser despesa e vira **projeto de engen
 ## Relações
 
 - [[02 - O que é um Gu|O que é um Gu]] — a natureza da criatura que come.
-- [[05 - Refino de Gu|Refino de Gu]] — o processo que cria a dependência alimentar.
-- [[06 - Fusão de Gu|Fusão de Gu]] — como a dieta muda quando o Gu evolui.
-- [[12 - Gu Imortais|Gu Imortais]] — a alimentação como gargalo do topo do sistema.
-- [[15 - Food Path|Food Path]] — o caminho dedicado a resolver este problema.
+- [[06 - Refino de Gu|Refino de Gu]] — o processo que cria a dependência alimentar.
+- [[07 - Fusão de Gu|Fusão de Gu]] — como a dieta muda quando o Gu evolui.
+- [[16 - Gu Imortais|Gu Imortais]] — a alimentação como gargalo do topo do sistema.
+- [[20 - Food Path|Food Path]] — o caminho dedicado a resolver este problema.
 - [[04 - Essência Primordial|Essência Primordial]] — a energia gasta em cada acionamento.
-- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — o segundo teto, o físico: quanto cabe na abertura.
-- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — por que um Gu de consumo baixo vale mais que um Gu potente.
+- [[04 - Onde um Gu Mora|Onde um Gu Mora]] — o segundo teto, o físico: quanto cabe na abertura.
+- [[13 - Qualidade e Fraude|Qualidade e Fraude]] — por que um Gu de consumo baixo vale mais que um Gu potente.

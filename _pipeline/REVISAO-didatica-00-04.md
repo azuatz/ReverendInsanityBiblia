@@ -495,7 +495,7 @@ retrabalho), **Menores** (polimento). No fim, o veredito.
   sobre a da nota") evita que eu distribua a nota inteira por engano.
 - **M12 · `Fusão de Gu.md` · tabela sem âncora.** "Engenharia reversa: mestre · deduzir
   receita nova: grão-mestre · criar série nova: quase-grande-grão-mestre" não linka para
-  `[[06 - Attainment|Attainment]]`, onde esses níveis são definidos. É a única tabela do material que usa a
+  `[[08 - Attainment|Attainment]]`, onde esses níveis são definidos. É a única tabela do material que usa a
   escala de attainment sem apontar para ela.
 - **M13 · `Usar e Alimentar Gu.md` · a melhor tabela da base merece um total.** A tabela de
   dietas é excelente, mas para orçar uma campanha eu preciso de **custo por mês em pedras

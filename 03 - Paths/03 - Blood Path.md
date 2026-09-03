@@ -33,7 +33,7 @@ queimar almas**. A comparação só funciona para quem conhece o outro termo del
 explicitá-lo: consumir ou destruir a alma de uma pessoa é, neste mundo, uma agressão de
 categoria diferente de matá-la — a alma é substância manipulável, e destruí-la apaga a pessoa
 de forma definitiva, sem sobra e sem retorno. É a prática que deu ao
-[[10 - Soul Path|caminho da alma]] a pior reputação da sua história, ao ponto de um cultivador de
+[[12 - Soul Path|caminho da alma]] a pior reputação da sua história, ao ponto de um cultivador de
 nível 9 tê-lo suprimido e de o comércio de almas ter sido empurrado para a clandestinidade.
 Dizer que o caminho do sangue é *pior* que isso é, portanto, colocá-lo acima da referência
 que o mundo já usava para o horror.
@@ -45,7 +45,7 @@ definição.
 > [!warning] Inferência nossa
 > A frase "pior que queimar almas" é da obra. O **enquadramento** acima — tratar a destruição
 > de almas como a referência contra a qual este mundo mede atrocidades — é reconstrução
-> nossa, feita a partir do que [[10 - Soul Path|Soul Path]] documenta sobre a supressão histórica do
+> nossa, feita a partir do que [[12 - Soul Path|Soul Path]] documenta sobre a supressão histórica do
 > caminho da alma e sobre o comércio de almas. A obra não enuncia essa escala moral de forma
 > fechada.
 
@@ -87,7 +87,7 @@ significa que um personagem de sangue **precisa** de aliados que cuidem do dinhe
   caminho da informação** para rastreamento e monitoramento de território. Onde há sangue, há
   olhos.
 - **Imitação de dedução.** Existe um método que **imita a dedução** do
-  [[12 - Wisdom Path|caminho da sabedoria]] através do sangue — premonição obtida por meios
+  [[16 - Wisdom Path|caminho da sabedoria]] através do sangue — premonição obtida por meios
   hematológicos em vez de intelectuais.
 
 ## A camada escondida
@@ -98,7 +98,7 @@ domina o caminho aprende a ler esse registro, a copiá-lo e a gastá-lo.
 
 ### As marcas do Dao de sangue são um estoque — e um escudo
 
-Como todo caminho, o do sangue grava [[12 - Dao Marks|marcas do Dao]] no corpo de quem o
+Como todo caminho, o do sangue grava [[16 - Dao Marks|marcas do Dao]] no corpo de quem o
 cultiva. A diferença é o que essas marcas fazem quando o dono precisa delas.
 
 **Elas defendem sozinhas.** Há um episódio explícito: um imortal de nível 7 do caminho do
@@ -173,7 +173,7 @@ praticantes de sangue são tão difíceis de matar de verdade.
 `conhecimento: especializado`
 
 Marcas do Dao de sangue acumuladas numa **terra abençoada** (a abertura-mundo de um imortal,
-ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]) **remodelam a
+ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]) **remodelam a
 ecologia do lugar**. O registro é detalhado e vale como modelo:
 
 - Carpas comuns de um lago **sofrem mutação** e viram carpas de jade de sangue.
@@ -227,7 +227,7 @@ ao longo de gerações.
 > Chegar a grão-mestre no caminho do sangue tomou **duzentos a trezentos anos** de acumulação
 > profunda ao praticante mais bem documentado da obra, e ele só o alcançou na última fase de
 > uma vida de quinhentos anos. Serve de régua para qualquer campanha que queira medir o preço
-> temporal de uma especialidade. Ver [[06 - Attainment|Attainment]].
+> temporal de uma especialidade. Ver [[08 - Attainment|Attainment]].
 
 ## Gu representativos
 
@@ -254,7 +254,7 @@ ao longo de gerações.
 > **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
 > assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
-> ver também [[12 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
+> ver também [[16 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
 > [!warning] O Crânio de Sangue é o caso que fura a trava de rank
 > A regra geral do mundo é dura: acionar um Gu acima do próprio rank arrebenta a abertura de
@@ -297,7 +297,7 @@ sustenta um repertório inteiro.
 - **Separação do Corpo do Demônio de Sangue** — descrito na camada escondida. Foi apresentado
   ao mundo uma única vez e **chocou um continente inteiro**.
 - **Manto de Conquistador Manchado de Sangue** — golpe híbrido de sangue com
-  [[05 - Transformation Path|transformação]], que exigiu erudição de grão-mestre nos **dois**
+  [[06 - Transformation Path|transformação]], que exigiu erudição de grão-mestre nos **dois**
   caminhos ao mesmo tempo. Quem os tinha o construiu em menos de meio mês; um imortal comum
   não conseguiria.
 
@@ -350,21 +350,21 @@ verdadeiramente perigoso para um cenário:
 ## Sinergias e conflitos
 
 **Combina com:**
-- **[[05 - Transformation Path|Transformation Path]]** — a linhagem de zumbis e cadáveres é vizinha natural; sangue e
+- **[[06 - Transformation Path|Transformation Path]]** — a linhagem de zumbis e cadáveres é vizinha natural; sangue e
   transformação partilham o mesmo material, e há golpes híbridos que exigem grão-mestre nos dois.
-- **[[07 - Refinement Path|Refinement Path]]** — o estilo de refino pelo próprio corpo é uma técnica reconhecida
+- **[[08 - Refinement Path|Refinement Path]]** — o estilo de refino pelo próprio corpo é uma técnica reconhecida
   do repertório do refinamento, e o Gu que **protege e restaura materiais num refino falho** é
   um Gu de sangue. É a ponte mais lucrativa que o caminho tem.
-- **[[10 - Soul Path|Soul Path]]** — corpo e alma são as duas metades do mesmo problema; muitos rituais
+- **[[12 - Soul Path|Soul Path]]** — corpo e alma são as duas metades do mesmo problema; muitos rituais
   demoníacos usam os dois.
-- **[[06 - Enslavement Path|Enslavement Path]]** — vínculos de sangue são um dos meios mais antigos de controle.
-- **[[18 - Luck Path|Luck Path]]** — o par escolhido pelo único Venerável documentado do caminho: sangue como
+- **[[07 - Enslavement Path|Enslavement Path]]** — vínculos de sangue são um dos meios mais antigos de controle.
+- **[[23 - Luck Path|Luck Path]]** — o par escolhido pelo único Venerável documentado do caminho: sangue como
   principal, sorte como especialidade.
-- **[[12 - Wisdom Path|Wisdom Path]]** — necessário para completar receitas fragmentárias; sem ele, os melhores
+- **[[16 - Wisdom Path|Wisdom Path]]** — necessário para completar receitas fragmentárias; sem ele, os melhores
   Gu do caminho permanecem lendas.
 
 **Atrita com:**
-- **[[09 - Sword Path|Sword Path]]** e outros caminhos "não relacionados" — combinar caminhos sem parentesco
+- **[[11 - Sword Path|Sword Path]]** e outros caminhos "não relacionados" — combinar caminhos sem parentesco
   **enfraquece os dois**, salvo quando a erudição em ambos é alta. A obra usa exatamente esse
   par como exemplo da armadilha.
 - **Qualquer alvo sem sangue** — não é conflito de marcas, é ausência de superfície de ataque.
@@ -423,10 +423,10 @@ verdadeiramente perigoso para um cenário:
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho.
-- [[05 - Transformation Path|Transformation Path]] — o vizinho mais próximo em material e em tabu.
-- [[10 - Soul Path|Soul Path]] — a outra metade do corpo humano como recurso.
-- [[07 - Refinement Path|Refinement Path]] — o estilo de refino pelo próprio sangue e o Gu que salva refinos falhos.
-- [[12 - Dao Marks|Dao Marks]] — as marcas que blindam e que se gastam.
-- [[12 - Gu Imortais|Gu Imortais]] — os Gu de topo listados acima.
-- [[16 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]] — por que a cura deste caminho é excepcional.
+- [[06 - Transformation Path|Transformation Path]] — o vizinho mais próximo em material e em tabu.
+- [[12 - Soul Path|Soul Path]] — a outra metade do corpo humano como recurso.
+- [[08 - Refinement Path|Refinement Path]] — o estilo de refino pelo próprio sangue e o Gu que salva refinos falhos.
+- [[16 - Dao Marks|Dao Marks]] — as marcas que blindam e que se gastam.
+- [[16 - Gu Imortais|Gu Imortais]] — os Gu de topo listados acima.
+- [[11 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]] — por que a cura deste caminho é excepcional.
 - [[28 - Painting Path|Painting Path]] — compreender a essência da pintura permitiu a um praticante reescrever um golpe de sangue e torná-lo letal contra imortais de nível 8.

@@ -43,7 +43,7 @@ E, ainda assim, é o caminho de um dos seres mais poderosos que já existiram.
 ### A tese do caminho, contada pelo mito de origem do mundo
 
 Vale conhecer, porque ela **explica a mecânica** — e porque é o mito fundador que qualquer
-personagem do mundo já ouviu na infância. Nas [[08 - Lendas de Ren Zu|Lendas de Ren Zu]], o
+personagem do mundo já ouviu na infância. Nas [[12 - Lendas de Ren Zu|Lendas de Ren Zu]], o
 primeiro homem tinha em mãos os Gu primordiais que davam ao ser humano cada uma de suas
 faculdades. O Gu da Força o abandonou com desprezo — *"você é um fracasso, não é digno de me
 possuir"* — e foi embora. Mas o **Gu do Eu**, que morava no coração do homem, saltou e
@@ -130,7 +130,7 @@ para abrir a torneira desse barril.
 
 Cada Gu de força de fera que um cultivador usa deixa nele uma **marca do Dao de força** — um
 fragmento da lei natural "força física", um traço do Grande Dao gravado no corpo. Ver
-[[12 - Dao Marks|Dao Marks]].
+[[16 - Dao Marks|Dao Marks]].
 
 Essas marcas **não ficam inertes**. Quando a força de um Gu de fera se aloja no corpo, ela
 *se organiza na forma de um fantasma de fera e se esconde ali dentro*. O fantasma é
@@ -197,7 +197,7 @@ consegue** fazer um fantasma sair de um soco, por mais que soque.
 >   enquanto apenas amplificam os golpes do usuário.
 > - **Ele é frágil como núcleo.** Sendo o centro do conjunto, se ele morre num refino, o
 >   conjunto inteiro desaba *como um corpo sem alma*. A recomendação de qualquer veterano é
->   torná-lo o [[04 - Gu Vital|Gu Vital]] antes de tentar elevá-lo de nível.
+>   torná-lo o [[05 - Gu Vital|Gu Vital]] antes de tentar elevá-lo de nível.
 
 **Como sair de um fantasma por vez para vários.** A obra registra a progressão exata, e ela é
 uma bela mecânica de escalada dentro da mesma luta. Se o Gu do Esforço Total é *um cano de
@@ -257,7 +257,7 @@ que ameaçam alvos que os originais não ameaçavam.
   vento, e os fantasmas de força **perturbam o efeito dele**, enfraquecendo-o. É por isso que
   um cultivador de força carregado de marcas costuma ser lento: os métodos de movimentação que
   o mundo vende são de vento, de luz e de espaço, e o corpo dele os rejeita. Ver
-  [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+  [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 - **E o corpo não serve a dois senhores.** Modificar músculos e tendões para a força **estraga
   a afinidade do corpo com a escravização**, e vice-versa. Quem cultiva os dois vive escolhendo
   qual dos dois sacrificar.
@@ -288,7 +288,7 @@ cultivador**, multiplicado:
   mesmo uma das dez constituições extremas do mundo **não aguenta** o uso, e o gigante se
   dissipa com o usuário arfando.
 - **O golpe supremo é força fundida com escravização.** O ==Eu Miríade (myriad self)== tem
-  como núcleo um Gu Imortal do [[10 - Soul Path|caminho da alma]], e é isso que o torna
+  como núcleo um Gu Imortal do [[12 - Soul Path|caminho da alma]], e é isso que o torna
   especial: os fantasmas de força que ele gera **carregam um fio da alma do usuário**, e por
   isso são manipulados *livremente, como extensões do próprio corpo*, ágeis e flexíveis — não
   como servos, mas como membros. O efeito documentado é uma diferença de categoria: sem o
@@ -305,18 +305,18 @@ cultivador**, multiplicado:
 
 Há um segredo geográfico que muda a economia inteira do caminho. Uma planície gelada das
 Planícies do Norte foi criada por um Venerável de nível 9 que era, ao mesmo tempo, o
-progenitor do caminho da força e do [[05 - Transformation Path|caminho da transformação]] — ele
+progenitor do caminho da força e do [[06 - Transformation Path|caminho da transformação]] — ele
 se transformou numa fênix de gelo e soprou o gelo profundo que formou a planície. Ao fazê-lo,
 **imprimiu no lugar o *verdadeiro sentido* (true meaning) dos dois caminhos**.
 
 A consequência: quando um cultivador de **força** ou de **transformação** faz sua
-[[11 - Ascensão Imortal|ascensão imortal]] ali, a calamidade que vem enfrentá-lo não é uma
+[[14 - Ascensão Imortal|ascensão imortal]] ali, a calamidade que vem enfrentá-lo não é uma
 calamidade comum — ela é o verdadeiro sentido do Venerável tomando forma de monstro (macacos
 divinos de gelo, pégasos antigos). Quem **destrói essas formas** recebe o sentido verdadeiro
 **dentro do próprio corpo**, e seu *attainment* nos dois caminhos **sobe de golpe**. O
 cultivador, nesse momento, **não interage com a vontade do céu**: ele se mistura com o legado
-do Venerável. Ver [[06 - Attainment|Attainment]] e
-[[10 - Tribulações e Calamidades|Tribulações e Calamidades]].
+do Venerável. Ver [[08 - Attainment|Attainment]] e
+[[13 - Tribulações e Calamidades|Tribulações e Calamidades]].
 
 Normalmente isso acontece **uma única vez na vida**, na ascensão. É o maior atalho de
 *attainment* documentado na obra para qualquer caminho, e é a razão de o caminho da força
@@ -368,7 +368,7 @@ O que muda, faixa por faixa. Onde a obra não dá o número, a linha está marca
 > **X (máximo)** = teto de evolução declarado pela obra. Um **⭐ com `—`** está mesmo
 > assim limitado à faixa 6–8, porque todo Gu Imortal cabe nela.
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
-> ver também [[12 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
+> ver também [[16 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
 > [!example] O Gu que pertence a dois caminhos — e as duas regras que ele ensina
 > O **Puxar Água** existe nas duas versões, mortal e imortal, e a obra usa esse par para estabelecer
@@ -401,7 +401,7 @@ sozinha não monta um conjunto completo, porque *os Gu de força só cobrem ataq
 investigação e assistência há pouquíssima coisa*.
 
 - **Rei da Terra de Quatro Braços → Rei do Vento de Quatro Braços.** A primeira tentativa
-  documentada de fundir força com [[06 - Enslavement Path|escravização]]. O usuário aciona mais
+  documentada de fundir força com [[07 - Enslavement Path|escravização]]. O usuário aciona mais
   de dez Gu de uma vez e **dois braços de bronze crescem do corpo dele**. A primeira versão era
   crua e cheia de falhas; a segunda, refinada, sustentou um cultivador de rank 5 no topo do
   mundo mortal. O núcleo improvisado eram dois Gu (Soberano do Vento e Força do Tirano) fazendo
@@ -448,7 +448,7 @@ pouco, mas não sustenta uma carreira.
 
 **Espólio nulo:** um golpe de força esmaga o inimigo **junto com os Gu dele**. Praticantes
 deste caminho não deixam nada aproveitável no campo, o que é uma desvantagem econômica real.
-Ver [[10 - Espólio de Gu|Espólio de Gu]].
+Ver [[14 - Espólio de Gu|Espólio de Gu]].
 
 ## Limites e fraquezas
 
@@ -480,12 +480,12 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 ## Sinergias e conflitos
 
 **Combina com:**
-- **[[05 - Transformation Path|Transformation Path]]** — historicamente ligados; o mesmo ser lendário fundou os dois, e os dois dividem o mesmo presente na planície gelada.
-- **[[06 - Enslavement Path|Enslavement Path]]** — a combinação que gerou todos os grandes golpes modernos do caminho. **Com um conflito real embutido**: as modificações corporais que servem à força **não servem** à escravização, e vice-versa. A obra chama isso de "o problema não resolvido" de quem cultiva os dois, e contrasta com pares que não têm esse atrito (alma com escravização, alma com sabedoria).
-- **[[10 - Soul Path|Soul Path]]** — a alma é o que transforma fantasmas em membros obedientes, no golpe mais forte do caminho.
-- **[[16 - Rule Path|Rule Path]]** — Gu de amplificação universais funcionam perfeitamente sobre força, e são a forma mais barata de multiplicar um efeito simples. Foi um amplificador de nível 5 que produziu o pico de 500 *jun* documentado.
+- **[[06 - Transformation Path|Transformation Path]]** — historicamente ligados; o mesmo ser lendário fundou os dois, e os dois dividem o mesmo presente na planície gelada.
+- **[[07 - Enslavement Path|Enslavement Path]]** — a combinação que gerou todos os grandes golpes modernos do caminho. **Com um conflito real embutido**: as modificações corporais que servem à força **não servem** à escravização, e vice-versa. A obra chama isso de "o problema não resolvido" de quem cultiva os dois, e contrasta com pares que não têm esse atrito (alma com escravização, alma com sabedoria).
+- **[[12 - Soul Path|Soul Path]]** — a alma é o que transforma fantasmas em membros obedientes, no golpe mais forte do caminho.
+- **[[21 - Rule Path|Rule Path]]** — Gu de amplificação universais funcionam perfeitamente sobre força, e são a forma mais barata de multiplicar um efeito simples. Foi um amplificador de nível 5 que produziu o pico de 500 *jun* documentado.
 - **[[27 - Os Caminhos Elementais|Os caminhos elementais]]** — o ramo atmosférico **é** essa fronteira: emprestar a força do vento, da água, do fogo e da terra é força, mas a receita se destranca pelo elemento.
-- **[[07 - Refinement Path|Refinement Path]]** — o caminho da força figura entre os melhores "vasos informes" para refino de altíssimo nível.
+- **[[08 - Refinement Path|Refinement Path]]** — o caminho da força figura entre os melhores "vasos informes" para refino de altíssimo nível.
 
 **Atrita com:**
 - **Vento, luz e espaço** — conflito de marcas direto, e a razão da lentidão crônica.
@@ -527,7 +527,7 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 ## Praticantes notáveis (sem enredo)
 
 - **O Venerável Demoníaco Selvagem Imprudente** — figura de nível 9, progenitor tanto deste
-  caminho quanto do [[05 - Transformation Path|Transformation Path]]. Comeu feras imemoriais e
+  caminho quanto do [[06 - Transformation Path|Transformation Path]]. Comeu feras imemoriais e
   gravou totens no corpo, escapando das limitações que definem o caminho para todos os outros.
   Deixou o verdadeiro sentido dos dois caminhos impresso numa planície gelada do norte.
 - **Chu Du**, o "Imortal da Dominação", de nível 7 — criador do sistema moderno de unidades de
@@ -548,13 +548,13 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho.
-- [[05 - Transformation Path|Transformation Path]] — o caminho irmão, com o mesmo progenitor e o mesmo presente na planície gelada.
-- [[06 - Enslavement Path|Enslavement Path]] — o par que produziu todos os golpes modernos deste caminho, e o par com quem ele briga por espaço no próprio corpo.
-- [[10 - Soul Path|Soul Path]] — a alma que transforma fantasmas em membros.
-- [[16 - Rule Path|Rule Path]] — a fonte de amplificação universal.
-- [[12 - Dao Marks|Dao Marks]] — o que são as marcas que viram fantasmas.
-- [[07 - Killer Moves|Killer Moves]] — os golpes citados aqui.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito do Gu do Eu mordendo o Gu da Força.
+- [[06 - Transformation Path|Transformation Path]] — o caminho irmão, com o mesmo progenitor e o mesmo presente na planície gelada.
+- [[07 - Enslavement Path|Enslavement Path]] — o par que produziu todos os golpes modernos deste caminho, e o par com quem ele briga por espaço no próprio corpo.
+- [[12 - Soul Path|Soul Path]] — a alma que transforma fantasmas em membros.
+- [[21 - Rule Path|Rule Path]] — a fonte de amplificação universal.
+- [[16 - Dao Marks|Dao Marks]] — o que são as marcas que viram fantasmas.
+- [[08 - Killer Moves|Killer Moves]] — os golpes citados aqui.
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito do Gu do Eu mordendo o Gu da Força.
 - [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o ramo atmosférico e o segundo caminho do Puxar Água.
-- [[20 - Qi Path|Qi Path]] — o caminho que forneceu à força o ataque à distância que lhe falta, e que compartilha com ela o destino de caminho deixado para trás pelas eras.
+- [[05 - Qi Path|Qi Path]] — o caminho que forneceu à força o ataque à distância que lhe falta, e que compartilha com ela o destino de caminho deixado para trás pelas eras.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a escala em *jun* e a amplificação por marcas do Dao.

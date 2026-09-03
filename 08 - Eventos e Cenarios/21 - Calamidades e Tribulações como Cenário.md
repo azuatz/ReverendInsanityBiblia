@@ -28,7 +28,7 @@ buracos e escolhendo o que abandonar, enquanto o patrono perde dinheiro a cada e
 
 Esta nota é o **lado de dentro** do assunto. A teoria — o que é uma calamidade, a escada
 completa de provações, o calendário por rank, quantas marcas do Dao cada uma paga — está em
-[[10 - Tribulações e Calamidades|Tribulações e Calamidades]], e os números estão nas
+[[13 - Tribulações e Calamidades|Tribulações e Calamidades]], e os números estão nas
 [[02 - Tabelas de Referência Rápida#8. Cadência de calamidades e tribulações|Tabelas de Referência Rápida]].
 Aqui interessa outra coisa: como é estar lá dentro quando acontece, o que se vê, o que mata, o
 que dá para fazer, e por que este é um dos cenários fechados mais bem construídos da obra.
@@ -37,8 +37,8 @@ Duas definições rápidas, para quem chega agora. Todo Gu Imortal carrega dentr
 ==abertura imortal==: um mundo em miniatura com céu, chão, clima e às vezes populações inteiras
 morando lá. Quando ela é grande e fértil, chama-se ==terra abençoada== (*blessed land*); quando é
 maior ainda, ==caverna-céu== (*grotto-heaven*). Ver
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
-[[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
+[[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
 > [!abstract] Ficha rápida
 > | | |
@@ -58,7 +58,7 @@ que têm excesso e repõe aos que têm falta, com ênfase no equilíbrio**.
 
 Ora, um Gu Imortal é, por definição, um excesso: ele carrega um mundo inteiro dentro de si,
 recheado de marcas do Dao — as gravações permanentes que o cultivo deixa no corpo e no mundo
-interno de quem cultiva (ver [[12 - Dao Marks|Dao Marks]]). Essa concentração desequilibra o
+interno de quem cultiva (ver [[16 - Dao Marks|Dao Marks]]). Essa concentração desequilibra o
 ambiente ao redor. A resposta do céu é mandar uma provação.
 
 E aqui está o mecanismo unificado, que a obra só revela no fim e que vale como chave para todo o
@@ -210,7 +210,7 @@ da data, para atrair uma provação mais fraca. Preço: você está entregando o
 outra pessoa e confiando que ela devolve.
 
 **Elevar a própria sorte.** Métodos do caminho da sorte tornam a provação mais branda. Ver
-[[18 - Luck Path|Luck Path]].
+[[23 - Luck Path|Luck Path]].
 
 **Desacelerar o tempo interno.** Métodos do caminho do tempo espaçam as provações — e **derrubam
 a produção de recursos na mesma proporção**. É trocar crescimento por segurança, explicitamente,
@@ -246,7 +246,7 @@ sofre desastre — e quem sabe disso sabe uma coisa que quase ninguém sabe.
 
 Há um caso especial que merece seção própria porque é o cenário de defesa mais pronto da obra: a
 provação que cai sobre alguém no momento em que essa pessoa **deixa de ser mortal e vira
-imortal**. A mecânica completa do procedimento está em [[11 - Ascensão Imortal|Ascensão Imortal]];
+imortal**. A mecânica completa do procedimento está em [[14 - Ascensão Imortal|Ascensão Imortal]];
 aqui interessa como se defende alguém durante ela.
 
 **O que acontece, na ordem.** O candidato golpeia por dentro as paredes da própria abertura até
@@ -435,20 +435,20 @@ Gu Imortais comuns **não sabem que isso existe**. É conhecimento exclusivo de 
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta e o cardápio
   de travas canônicas.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — **a teoria**: o que é cada classe
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — **a teoria**: o que é cada classe
   de provação, o calendário completo e o lugar disto no sistema de cultivo. Esta nota é o lado de
   dentro daquela.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — o procedimento de virar imortal, do qual a
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — o procedimento de virar imortal, do qual a
   tribulação de ascensão é o obstáculo.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
-  [[10 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — o lugar onde tudo
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e
+  [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] — o lugar onde tudo
   isto acontece, e quem mora nele.
 - [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] — a
   janela que a calamidade abre para quem está de fora.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — a lei impessoal que manda o desastre, e a vontade
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — a lei impessoal que manda o desastre, e a vontade
   estratégica que escolhe alvos.
-- [[12 - Dao Marks|Dao Marks]] — o que se ganha ao sobreviver, e por que ganhar demais é perigoso.
-- [[13 - Time Path|Time Path]] e [[18 - Luck Path|Luck Path]] — os dois caminhos que vendem
+- [[16 - Dao Marks|Dao Marks]] — o que se ganha ao sobreviver, e por que ganhar demais é perigoso.
+- [[18 - Time Path|Time Path]] e [[23 - Luck Path|Luck Path]] — os dois caminhos que vendem
   contramedidas.
 - [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] — o que
   acontece quando uma calamidade grande demais transborda para o mundo comum.

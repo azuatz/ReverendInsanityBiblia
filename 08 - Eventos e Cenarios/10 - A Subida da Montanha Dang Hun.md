@@ -30,7 +30,7 @@ cinco vezes mais rápido e só o primeiro a chegar ao topo leva alguma coisa==.
 > | | |
 > |---|---|
 > | **Tipo** | herança íntegra de Gu Imortal, com **um único herdeiro possível**, precedida de um torneio entre seitas |
-> | **Onde** | a montanha Tian Ti — "a Escada Celeste" —, no [[03 - Continente Central\|Continente Central]] |
+> | **Onde** | a montanha Tian Ti — "a Escada Celeste" —, no [[04 - Continente Central|Continente Central]] |
 > | **Quando** | evento único: uma herança íntegra só é herdada uma vez |
 > | **Duração** | o torneio dura **meses**; a subida, **pelo menos um ano** de tempo interno, o que dá cerca de dois meses e meio lá fora `(ded.)` |
 > | **Escala de poder** | os discípulos de elite das dez grandes seitas; dez Gu Imortais assistindo de fora, um por seita |
@@ -56,7 +56,7 @@ mandam adolescentes fazer o serviço.
 ## Por que acontece
 
 Uma **terra abençoada** — o mundo privado em miniatura de um Gu Imortal, explicado em
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — ficou órfã quando sua
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — ficou órfã quando sua
 dona morreu. Ela é **íntegra**: nada foi saqueado, e ela continua funcionando.
 
 A diferença entre esta e as outras heranças da pasta é que aqui a herança **é uma pessoa**. O
@@ -96,7 +96,7 @@ silhuetas humanas subindo, tão pequenas quanto formigas — as pessoas que entr
 você.
 
 **A montanha.** Ela é a Dang Hun das lendas de Ren Zu — as histórias fundadoras que todo mundo
-neste mundo conhece de criança, e que estão em [[08 - Lendas de Ren Zu|Lendas de Ren Zu]]. Todo
+neste mundo conhece de criança, e que estão em [[12 - Lendas de Ren Zu|Lendas de Ren Zu]]. Todo
 ser vivo que entra no raio dela **sofre um choque na alma**, e o choque cresce quanto mais
 perto do topo. Almas fracas simplesmente se dispersam na metade da subida.
 
@@ -267,16 +267,16 @@ de decisões de patrocínio, e ela roda em paralelo com a subida.
   correto, com supressão total e sem morte.
 - [[09 - A Herança dos Três Reis|A Herança dos Três Reis]] — o contraste direto: herança do
   caminho demoníaco, com morte, saque e cem rodadas.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada, o que é um espírito da terra e por que ele é o prêmio.
 - [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] — a mecânica da primeira metade
   do evento.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — de onde vem a montanha Dang Hun e por que todo
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — de onde vem a montanha Dang Hun e por que todo
   personagem do mundo reconhece o nome.
 - [[03 - Seitas e Academias|Seitas e Academias]] e
-  [[03 - Continente Central|Continente Central]] — quem são as dez grandes seitas e como elas se
+  [[04 - Continente Central|Continente Central]] — quem são as dez grandes seitas e como elas se
   relacionam.
-- [[12 - Gu Imortais|Gu Imortais]] — por que um Gu Imortal é um patrimônio contável, usável um
+- [[16 - Gu Imortais|Gu Imortais]] — por que um Gu Imortal é um patrimônio contável, usável um
   número finito de vezes.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**, inclusive a fundação de alma e o fluxo de tempo das terras abençoadas.

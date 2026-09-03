@@ -17,7 +17,7 @@ ranks: "3 a 5 na primeira era; 6 a 7 na segunda"
 
 # A Montanha Yi Tian
 
-**Em uma frase:** uma montanha da [[01 - Fronteira Sul|Fronteira Sul]] que, em duas eras
+**Em uma frase:** uma montanha da [[02 - Fronteira Sul|Fronteira Sul]] que, em duas eras
 diferentes, produziu os dois melhores cenários de mesa da obra — primeiro ==uma guerra de cem
 dias em que nenhum poderoso pode pisar no campo e os combatentes são peças de aposta==, depois
 ==uma cidade-guarnição fechada em que treze facções rivais convivem em volta de um tesouro que
@@ -35,7 +35,7 @@ cenário completo, e esta nota as trata como tal.
 > [!abstract] Ficha rápida — o lugar
 > | | |
 > |---|---|
-> | **Onde** | uma montanha isolada na [[01 - Fronteira Sul\|Fronteira Sul]], sem picos vizinhos, com um rio longo passando ao lado |
+> | **Onde** | uma montanha isolada na [[02 - Fronteira Sul|Fronteira Sul]], sem picos vizinhos, com um rio longo passando ao lado |
 > | **O nome** | não tinha nome; os ocupantes a rebatizaram **Yi Tian** — "montanha da lealdade" |
 > | **O que há embaixo** | uma fortaleza imortal enterrada, que prende algo que não pôde ser morto |
 > | **Era um** | zona proibida a imortais + cerco de cem dias travado só por mortais — **rank 3 a 5** |
@@ -140,7 +140,7 @@ imortais estão parados, olhando, sem poder fazer nada além de apostar mais.
 
 **Os peões são preparados.** Um peão recebe do patrono: um Gu Imortal implantado, essência
 imortal de reserva, lotes de vontade de batalha para começar, e ajustes no corpo feitos por uma
-técnica simples de [[12 - Wisdom Path|caminho da sabedoria]] para servir de vaso de conversão.
+técnica simples de [[16 - Wisdom Path|caminho da sabedoria]] para servir de vaso de conversão.
 Ele entra melhor equipado do que qualquer rank 5 normal do mundo — e completamente sozinho.
 
 ## As regras especiais que valem aqui
@@ -268,7 +268,7 @@ fizeram algo raro neste mundo: **cercaram juntas**.
 
 Uma **super formação de Gu**, construída conjuntamente pelas **treze super forças do caminho
 correto** da região e projetada por um grande mestre de
-[[21 - Formation Path|caminho das formações]]: "formações dentro de formações, sobrepostas em
+[[09 - Formation Path|caminho das formações]]: "formações dentro de formações, sobrepostas em
 camadas". São **quatro camadas concêntricas**. Só a segunda camada contém **trezentos mil Gu**,
 dos quais apenas **quatro são Gu Imortais** — e esses quatro são os pilares: quebrar um pilar
 impede a ativação da camada seguinte, em cascata.
@@ -418,21 +418,21 @@ Este é o cenário de **rank 6 a 7** desta pasta, e ele é uma base de operaçõ
 
 ## Relações
 
-- [[19 - Dream Path|Dream Path]] — o caminho de cultivo que faz de um domínio de sonho um
+- [[26 - Dream Path|Dream Path]] — o caminho de cultivo que faz de um domínio de sonho um
   tesouro, e sem o qual ele é uma pedra bonita.
-- [[21 - Formation Path|Formation Path]] — a engenharia das quatro camadas, dos pilares e do
+- [[09 - Formation Path|Formation Path]] — a engenharia das quatro camadas, dos pilares e do
   reparo sob fogo.
-- [[08 - Formações de Gu|Formações de Gu]] — a diferença entre formação de Gu e formação de
+- [[09 - Formações de Gu|Formações de Gu]] — a diferença entre formação de Gu e formação de
   batalha antiga, que aqui vira decisão tática.
-- [[12 - Gu Imortais|Gu Imortais]] — por que plantar um deles numa formação equivale a comprar
+- [[16 - Gu Imortais|Gu Imortais]] — por que plantar um deles numa formação equivale a comprar
   ações de um condomínio.
-- [[14 - Guerra Organizada|Guerra Organizada]] — cerco, moral e comando fragmentado como
+- [[10 - Guerra Organizada|Guerra Organizada]] — cerco, moral e comando fragmentado como
   doutrina geral.
 - [[06 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] —
   o contrato de apostas é um primo próximo dos pactos descritos ali.
 - [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] — o
   formato geral de "cofre assediado", do qual a segunda era é a variante terrestre.
-- [[01 - Fronteira Sul|Fronteira Sul]] — as treze super forças que dividem esta cidade e a
+- [[02 - Fronteira Sul|Fronteira Sul]] — as treze super forças que dividem esta cidade e a
   política regional que as move.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

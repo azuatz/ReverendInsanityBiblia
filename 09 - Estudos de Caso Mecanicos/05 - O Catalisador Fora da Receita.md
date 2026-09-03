@@ -17,7 +17,7 @@ conhecimento: especializado
 dedução nossa a partir do que a obra afirma; `*` = invenção nossa; `—` = a obra não
 informa. Apagar tudo marcado com `*` devolve a nota a cem por cento canônico.
 
-**A regra que este caso ilustra:** as receitas de [[06 - Fusão de Gu|fusão]] não são
+**A regra que este caso ilustra:** as receitas de [[07 - Fusão de Gu|fusão]] não são
 sagradas nem completas — são ==tecnologia em evolução==, e um ingrediente extra
 descoberto por alguém pode elevar a taxa de sucesso de forma medível. Este é o caso que dá
 o número: **vinte pontos percentuais de taxa de sucesso** por um único material que a
@@ -98,7 +98,7 @@ força. Fundir não é somar: é escolher.
 
 ## Relações
 
-- [[06 - Fusão de Gu|Fusão de Gu]] — a mecânica completa, incluindo a regra de que a fusão preserva só uma habilidade.
-- [[05 - Refino de Gu|Refino de Gu]] — a operação vizinha, e por que as duas compartilham a lógica de taxa de sucesso.
+- [[07 - Fusão de Gu|Fusão de Gu]] — a mecânica completa, incluindo a regra de que a fusão preserva só uma habilidade.
+- [[06 - Refino de Gu|Refino de Gu]] — a operação vizinha, e por que as duas compartilham a lógica de taxa de sucesso.
 - [[02 - Punhos Contra uma Camada de Defesa|Punhos Contra uma Camada de Defesa]] — o duelo em que a versão fraca desta defesa foi quebrada a soco.
 - [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra.

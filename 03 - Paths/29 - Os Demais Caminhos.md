@@ -51,8 +51,8 @@ era de criação, o instrutor termina assim:
 > menores** como o do encantamento, o da ilusão e outros ficam omitidos por ora.
 
 Portanto o mundo reconhece formalmente **duas categorias**. E os caminhos menores não são
-necessariamente fracos — o [[25 - Sound Path|caminho do som]] é chamado de menor e produziu grandes
-peritos de nível 8; o [[26 - Phantom Path|caminho fantasma]] é chamado de menor e sua profundidade
+necessariamente fracos — o [[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes
+peritos de nível 8; o [[22 - Phantom Path|caminho fantasma]] é chamado de menor e sua profundidade
 suprema sustenta a maior organização do mundo. "Menor" significa **pouco praticado e pouco
 desenvolvido**, não pouco potente.
 
@@ -65,7 +65,7 @@ Esta é a segunda estrutura canônica do domínio, e ela reorganiza tudo:
 > dúvida, o caminho número um nesse quesito. Os mais famosos eram o caminho da restrição e o caminho
 > fantasma.**
 
-E o mesmo padrão aparece no [[12 - Wisdom Path|caminho da sabedoria]]:
+E o mesmo padrão aparece no [[16 - Wisdom Path|caminho da sabedoria]]:
 
 > Era como o **caminho da emoção derivado do caminho da sabedoria**, um caminho especializado em usar
 > charme e emoção para influenciar os outros.
@@ -96,7 +96,7 @@ escravização**, ou **regra e restrição**, ou **sabedoria e emoção**, aí s
 
 ### Caminho da restrição (restriction path)
 
-**Ramo do [[16 - Rule Path|caminho da regra]]** — *um sub-ramo do caminho da regra; era um caminho
+**Ramo do [[21 - Rule Path|caminho da regra]]** — *um sub-ramo do caminho da regra; era um caminho
 pequeno que **ainda não se separara por completo***. Consequência canônica: alguém que cultivava
 restrição a vida inteira deixou, ao morrer, um significado verdadeiro **do caminho da regra**.
 
@@ -112,7 +112,7 @@ Gu simplesmente para de funcionar.
 
 Existe também um papel tático raro: quando um grupo de imortais se vê preso dentro de um golpe de
 espaço de batalha, o diagnóstico é *não temos como conter aquele Gu; **não temos métodos do caminho
-da restrição nem do caminho do qi***. Restrição e [[20 - Qi Path|qi]] são os dois caminhos que a obra
+da restrição nem do caminho do qi***. Restrição e [[05 - Qi Path|qi]] são os dois caminhos que a obra
 aponta como capazes de conter um espaço de batalha.
 
 **Raridade declarada:** *o caminho da restrição era também um caminho raro; havia pouquíssimos
@@ -127,7 +127,7 @@ cai sozinho. Prisões deste caminho têm prazo.
 
 ### Caminho da emoção (emotion path)
 
-**Ramo do [[12 - Wisdom Path|caminho da sabedoria]]**, e a explicação é elegante:
+**Ramo do [[16 - Wisdom Path|caminho da sabedoria]]**, e a explicação é elegante:
 
 > **O caminho da sabedoria tinha três elementos: pensamentos, vontades e emoções.**
 
@@ -151,7 +151,7 @@ estabelece.
 julgamento influenciando suas emoções!*
 
 **Contra sonhos:** suprimir as próprias emoções defende contra reinos de sonho, ao custo do próprio
-núcleo; e emoção genuína e intensa **resiste à manipulação**. Ver [[19 - Dream Path|Dream Path]].
+núcleo; e emoção genuína e intensa **resiste à manipulação**. Ver [[26 - Dream Path|Dream Path]].
 
 **Gu:** existe um par famoso de Gu Imortais do caminho — o do filho que viaja e o da mãe zelosa. Mas
 a obra os reclassifica: *eram tidos como Gu do caminho da emoção, mas **na essência eram do caminho
@@ -179,7 +179,7 @@ Como o caminho da emoção do qual descende, **não tem marcas do Dao próprias*
 ### Caminho fantasma
 
 Ramo da regra, e o único dos ramos com material suficiente para nota própria — ver
-[[26 - Phantom Path|Phantom Path]].
+[[22 - Phantom Path|Phantom Path]].
 
 ## Os caminhos novos da era atual
 
@@ -205,7 +205,7 @@ uma região inteira do mundo**.
 Batalha** (mortal de nível 5) que, arranjada em conjunto, forma o golpe da **Carruagem de Ossos
 Brancos**; e um **Gu de bambu-osso** comprável no mercado comum.
 
-**Um método notável:** um imortal do [[22 - Information Path|caminho da informação]] conseguiu
+**Um método notável:** um imortal do [[17 - Information Path|caminho da informação]] conseguiu
 **gravar as marcas do Dao de um imortal do osso no próprio esqueleto** — *o método era muito
 especial, era bastante impensável*.
 
@@ -222,7 +222,7 @@ de uma batalha.
 **Tem marcas do Dao próprias** — o que o separa do caminho da emoção. A obra registra alguém
 identificando, com surpresa, *a rumorada marca do Dao do caminho das pílulas*.
 
-**E ele é, junto com o [[19 - Dream Path|caminho dos sonhos]], um dos poucos caminhos capazes de
+**E ele é, junto com o [[26 - Dream Path|caminho dos sonhos]], um dos poucos caminhos capazes de
 ameaçar alguém através de grandes tribulações e miríades de tribulações.**
 
 **A doutrina de desenvolvimento de um caminho novo**, dita pelo próprio criador, é a peça mais
@@ -268,7 +268,7 @@ uma forma **forçada** dessa imitação.== Ver
 > bastante grandioso, que na verdade contém **lâminas, espadas, machados, alabardas e outras
 > armas**. Se alguém criar este caminho no futuro, ele **certamente englobará o caminho da espada e
 > o caminho da lâmina**. A força de combate desse caminho novo será muito forte, e ele também tem
-> claramente muitas profundidades do [[23 - Human Path|caminho humano]].*
+> claramente muitas profundidades do [[24 - Human Path|caminho humano]].*
 >
 > `—` A obra **não diz** se o caminho das armas efetivamente criado é a realização dessa profecia ou
 > uma tentativa menor e paralela. Como o texto chama a criação de "tosca", (ded.) a leitura mais
@@ -285,7 +285,7 @@ o da terra e assim por diante.*
 
 **Compartilha a raiz com a espada:** *o **Gu do Fio** era a origem tanto do caminho da lâmina quanto
 do caminho da espada* — e *o caminho da espada não podia ser deixado de fora quando se menciona o
-caminho da lâmina*. Ver [[09 - Sword Path|Sword Path]].
+caminho da lâmina*. Ver [[11 - Sword Path|Sword Path]].
 
 **Um ponto de recurso canônico e memorável:** uma **planície do sabre de outono**, tão saturada de
 marcas de lâmina que **forma Gu do Fio naturalmente** — e cujas marcas são tão densas que **ferem a
@@ -311,7 +311,7 @@ poucos e ele passou a **cair em estados demoníacos de loucura**, chegando a ata
 aliados sem controle. Ele sabia que o método não era o ideal e insistiu mesmo assim, escondendo-o de
 todos. É o registro mais claro da obra de que **um golpe mal terminado não falha: ele funciona, e
 cobra na cabeça de quem o usa**. Ver
-[[26 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
+[[34 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
 
 **E o melhor estudo de caso de gargalo de domínio da obra inteira:** *os supremos anciãos da tribo
 todos me elogiavam como um gênio de lâmina raro de se ver uma vez a cada mil anos, mas **eu ainda
@@ -362,7 +362,7 @@ a obra dá: existe uma **Casa de Gu Imortal chamada Jardim da Ilusão**, de uma 
 a fundação do caminho da ilusão* e criada há mais de trezentos anos por um imortal.
 
 `—` **A obra não descreve mecânica, Gu nem golpes do caminho da ilusão.** Note a sobreposição
-declarada com o [[26 - Phantom Path|caminho fantasma]], que *se concentra em ilusões e fantasmas,
+declarada com o [[22 - Phantom Path|caminho fantasma]], que *se concentra em ilusões e fantasmas,
 entre o verdadeiro e o falso* — (ded.) o caminho fantasma é a versão desenvolvida do mesmo território
 conceitual.
 
@@ -380,8 +380,8 @@ caminho do selo*, e ele conseguiu **selar até um Gu mortal de nível 5**, imped
 Este é o melhor gancho de campanha desta nota, e é inteiramente canônico.
 
 Um Venerável Demônio **queria criar o caminho da matança**. Para isso, usou métodos do
-[[15 - Food Path|caminho da comida]] para **devorar um espírito celeste imemorial** e fundi-lo a si
-mesmo. **Falhou** — e foi forçado a criar o [[10 - Soul Path|caminho da alma]] em lugar dele. Ainda
+[[20 - Food Path|caminho da comida]] para **devorar um espírito celeste imemorial** e fundi-lo a si
+mesmo. **Falhou** — e foi forçado a criar o [[12 - Soul Path|caminho da alma]] em lugar dele. Ainda
 assim, mesmo falhando, *ele apreendeu muitas profundidades que lhe permitiram criar o caminho da
 alma*.
 
@@ -407,7 +407,7 @@ pressionando para nascer.
 > **Um caminho abortado é diferente de um caminho não descoberto.** Os fenômenos existem, o
 > Gu-núcleo existe, um dos seres mais poderosos da história tentou sistematizá-lo e **fracassou** —
 > e o subproduto do fracasso foi uma das grandes escolas do mundo. É o par perfeito do
-> [[19 - Dream Path|caminho dos sonhos]], que também espera um fundador, mas sem a história de
+> [[26 - Dream Path|caminho dos sonhos]], que também espera um fundador, mas sem a história de
 > tentativa e derrota. Numa mesa: alguém já tentou, e o que sobrou daquela tentativa está solto no
 > mundo.
 
@@ -425,7 +425,7 @@ Humano, e o chamou de caminho do yin-yang. O veredito canônico é seco:
 
 **Por que fracassou — e a resposta é conceitual, não de poder.** A ambição declarada era **usar o
 yin e o yang para descrever todos os seres do mundo**. A obra compara essa ambição, explicitamente,
-à do maior praticante do [[25 - Sound Path|caminho do som]], que queria *usar o som para expressar
+à do maior praticante do [[13 - Sound Path|caminho do som]], que queria *usar o som para expressar
 toda a vida deste mundo* — e o contraste é o ponto: o segundo chegou a nove canções, o primeiro
 desistiu. O motivo é registrado sem piedade: conforme sua força e seu conhecimento cresciam, ele
 **reconheceu que sua própria formulação de yin-yang era muito rasa** e abandonou o projeto.
@@ -462,7 +462,7 @@ inteira** e enganam qualquer um.
 
 | Expressão | O que realmente é |
 |---|---|
-| **"Caminho justo" (*righteous path*)** | **Uma posição moral e política, não um caminho de cultivo.** É o "lado justo" — os clãs e seitas ortodoxos, as forças aliadas do lado justo, as heranças do lado justo. Um imortal do lado justo pode cultivar **qualquer** caminho. Ver [[07 - As Grandes Forças do Mundo\|As Grandes Forças do Mundo]] |
+| **"Caminho justo" (*righteous path*)** | **Uma posição moral e política, não um caminho de cultivo.** É o "lado justo" — os clãs e seitas ortodoxos, as forças aliadas do lado justo, as heranças do lado justo. Um imortal do lado justo pode cultivar **qualquer** caminho. Ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] |
 | **"Caminho demoníaco" (*demonic path*)** | O oposto moral do anterior. A obra o usa para descrever ética e reputação — *heranças do lado justo geralmente não eram perigosas; **o lado demoníaco** era o das armadilhas viciosas e das tramas*. É julgamento de caráter, não tema de leis |
 | **"Caminho do submundo"** | Nome próprio de **um Gu** — uma borboleta rastreadora de um clã, que emite fragrância de alma e é implantada em outros Gu para seguir o rastro. Não existe caminho do submundo |
 | **"Caminho dourado"** | Uma **estrada dourada** literal, aberta como via de fuga por uma organização |
@@ -484,7 +484,7 @@ próprias?* e *ele tem significado verdadeiro próprio?*
 
 | Estado | Marcas do Dao próprias | Significado verdadeiro próprio | Exemplo canônico |
 |---|---|---|---|
-| **Conjunto de técnicas** | **Não** — *não existem marcas de encantamento e emoção neste mundo, só marcas do caminho da sabedoria* | Não | Caminho da **emoção** e do **encantamento**. Cultivá-los eleva o domínio no [[12 - Wisdom Path\|caminho da sabedoria]] |
+| **Conjunto de técnicas** | **Não** — *não existem marcas de encantamento e emoção neste mundo, só marcas do caminho da sabedoria* | Não | Caminho da **emoção** e do **encantamento**. Cultivá-los eleva o domínio no [[16 - Wisdom Path|caminho da sabedoria]] |
 | **Ramo com corpo próprio** | **Sim** — existem lugares saturados de marcas fantasmas, e peritos procuram "marcas de fantasma, de espaço ou de roubo" ao periciar um campo de batalha | **Não** — *avançar no domínio do caminho fantasma é, na essência, ainda o significado verdadeiro do caminho da regra* | Caminho **fantasma** |
 | **Caminho pleno** | Sim | Sim | Os caminhos principais |
 
@@ -508,7 +508,7 @@ lê-las encontrou, no mesmo lugar:
   machados e alabardas, "sentiu" martelos e lanças, "ouviu" dardos e flechas — e sobre a qual
   concluiu que *representa um caminho totalmente novo, bastante grandioso, que certamente
   englobaria o caminho da espada e o caminho da lâmina*, e que *tem claramente muitas profundidades
-  do [[23 - Human Path|caminho humano]]*.
+  do [[24 - Human Path|caminho humano]]*.
 
 O que isso estabelece é enorme: ==um caminho **existe como fenômeno antes de existir como escola**.==
 Criar um caminho não é inventar nada — é **encontrar uma marca que o mundo já produziu e organizá-la
@@ -639,10 +639,10 @@ esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que 
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho, e a cronologia canônica de criação.
-- [[16 - Rule Path|Rule Path]] — o caminho-mãe da restrição e do fantasma, e o campeão em gerar ramos.
-- [[12 - Wisdom Path|Wisdom Path]] — o caminho-mãe da emoção e, por tabela, do encantamento.
-- [[26 - Phantom Path|Phantom Path]] — o ramo da regra que virou nota própria.
-- [[09 - Sword Path|Sword Path]] — o irmão de raiz do caminho da lâmina.
-- [[10 - Soul Path|Soul Path]] e [[15 - Food Path|Food Path]] — os dois caminhos envolvidos na história do caminho da matança.
+- [[21 - Rule Path|Rule Path]] — o caminho-mãe da restrição e do fantasma, e o campeão em gerar ramos.
+- [[16 - Wisdom Path|Wisdom Path]] — o caminho-mãe da emoção e, por tabela, do encantamento.
+- [[22 - Phantom Path|Phantom Path]] — o ramo da regra que virou nota própria.
+- [[11 - Sword Path|Sword Path]] — o irmão de raiz do caminho da lâmina.
+- [[12 - Soul Path|Soul Path]] e [[20 - Food Path|Food Path]] — os dois caminhos envolvidos na história do caminho da matança.
 - [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — os doze caminhos naturais, tratados em conjunto.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

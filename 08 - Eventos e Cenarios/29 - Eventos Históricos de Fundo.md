@@ -305,8 +305,8 @@ seis em dez, gerações depois.
 >   mais fortes — e existem **duas formas conhecidas de sair dela**: estar dentro de um mundo
 >   privado, ou usar métodos do caminho da sabedoria para se ocultar.
 >
-> Ver [[12 - Fate Gu|Fate Gu]], [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]]
-> e [[15 - Tribunal Celestial|Tribunal Celestial]].
+> Ver [[16 - Fate Gu|Fate Gu]], [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]]
+> e [[19 - Tribunal Celestial|Tribunal Celestial]].
 
 ## Por que uma técnica pode simplesmente não existir mais?
 
@@ -530,7 +530,7 @@ dez que chegaram ao topo.
 
 Isso calibra o teto do sistema e dá o tom trágico dele: o degrau final não é uma questão de
 mérito acumulado. É uma prova que quase todo mundo que tenta não passa. Ver
-[[13 - Tornar-se Venerável|Tornar-se Venerável]].
+[[19 - Tornar-se Venerável|Tornar-se Venerável]].
 
 ## Por que uma região inteira organizou sua política em torno de um torneio?
 
@@ -579,29 +579,29 @@ criaturas do mito são encontráveis, e obedecem às regras que o mito descreve.
 > `*` A jogada de mesa é evidente e nunca falha: dê a lenda na primeira sessão, como cor. Dê o
 > lugar na décima.
 >
-> Ver [[08 - Lendas de Ren Zu|Lendas de Ren Zu]].
+> Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 
 ## Relações
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta.
-- [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — **a cronologia**; esta nota dá as
+- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — **a cronologia**; esta nota dá as
   causas, aquela dá as datas. As duas se leem juntas.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o corpo de mitos que funciona como documentação.
-- [[07 - Heranças e Provações|Heranças e Provações]] — a instituição da herança, cuja
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o corpo de mitos que funciona como documentação.
+- [[12 - Heranças e Provações|Heranças e Provações]] — a instituição da herança, cuja
   ubiquidade esta nota explica.
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]],
   [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]],
   [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] e
   [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] — as figuras que aqui aparecem
   apenas como função.
-- [[12 - Fate Gu|Fate Gu]] e [[15 - Tribunal Celestial|Tribunal Celestial]] — o dano histórico
+- [[16 - Fate Gu|Fate Gu]] e [[19 - Tribunal Celestial|Tribunal Celestial]] — o dano histórico
   que produziu os imortais-zumbi e as feras de alma. `[segredo]`
-- [[13 - Cosmologia|Cosmologia]] — os céus antigos e os destroços que eles deixaram.
+- [[17 - Cosmologia|Cosmologia]] — os céus antigos e os destroços que eles deixaram.
 - [[02 - Clãs|Clãs]] e [[03 - Seitas e Academias|Seitas e Academias]] — as duas formas de
   organização, e o decreto que separou uma região das outras quatro.
-- [[08 - Formações de Gu|Formações de Gu]] — as formações de batalha antigas e por que elas
+- [[09 - Formações de Gu|Formações de Gu]] — as formações de batalha antigas e por que elas
   são melhores e mais difíceis.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as aberturas sem
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as aberturas sem
   dono que degradam, e os espíritos da terra que governam como estados.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o rescaldo, que é o cenário jogável
   de metade destes episódios.

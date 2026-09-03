@@ -45,7 +45,7 @@ Traduzindo o que isso significa dentro do sistema: todo o resto do mundo é gove
 que **marcas de caminhos diferentes se atrapalham** — e o caminho da pintura é uma exceção
 estrutural a essa regra. Ele **hospeda** métodos alheios sem conflito.
 
-Isso o coloca ao lado do [[23 - Human Path|caminho humano]] como um dos dois caminhos do sistema que
+Isso o coloca ao lado do [[24 - Human Path|caminho humano]] como um dos dois caminhos do sistema que
 **não pagam o pedágio do conflito de marcas** — e por isso os dois são, no fundo, caminhos de
 **suporte de altíssimo nível**.
 
@@ -79,7 +79,7 @@ Todos os caminhos do mundo sobem, dominam e decaem — o do qi morreu, o da for�
 pintura **não decaiu**, porque nunca se difundiu, e portanto o que existe dele hoje é exatamente o
 que o criador deixou: *o caminho da pintura atual continuava no estado de pico daquela época*.
 
-É o argumento contrário perfeito ao [[20 - Qi Path|caminho do qi]]. Um caminho morreu por ter sido
+É o argumento contrário perfeito ao [[05 - Qi Path|caminho do qi]]. Um caminho morreu por ter sido
 popular demais e ficar sem insumos; o outro se preservou intacto por nunca ter tido praticante
 nenhum.
 
@@ -106,7 +106,7 @@ mural **não é ilusória**; este é um método impressionante*. Ele:
   consegui descobri-lo?*, diz alguém que **não tinha compreensão nenhuma do caminho**;
 - e serve de **motor de pesquisa**: o mundo-pintura mais importante do cenário foi criado para
   reproduzir as cenas do mundo mortal do último milhão de anos e, a partir delas, **derivar as
-  fundações do [[23 - Human Path|caminho humano]]** — ver aquela nota.
+  fundações do [[24 - Human Path|caminho humano]]** — ver aquela nota.
 
 O golpe que sustenta esse mundo é de **nível 9** e é descrito como *um golpe assassino do **caminho
 humano** com **efeito de caminho da pintura**, que formava pinturas das vidas das pessoas*. Repare na
@@ -141,7 +141,7 @@ Um imortal preparado chegou a **juntar alguns Gu mortais de pintura** por precau
 
 Isso é a demonstração mais limpa que a obra oferece de uma regra geral do mundo: **um caminho novo,
 ou secreto, não tem contramedida — e essa é a sua maior vantagem**. Ver
-[[23 - Human Path|Human Path]], onde a mesma regra é enunciada.
+[[24 - Human Path|Human Path]], onde a mesma regra é enunciada.
 
 ### Um uso deliberadamente estratégico
 
@@ -173,7 +173,7 @@ Leia de novo o que a marca faz: diante de marcas de outros caminhos, ela **não 
 destruída, e se assenta por cima**. Isso é, em escala microscópica, exatamente a propriedade que a
 obra atribui ao caminho — a de **acomodar perfeitamente as operações de Gu Imortais e golpes de
 qualquer outro caminho**. O caminho da pintura é o único cuja marca do Dao **reveste** em vez de
-**disputar**. Ver [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+**disputar**. Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 
 > [!info] Isto resolve uma lacuna que esta nota registrava
 > Até aqui, a nota dizia não saber se existem marcas de pintura em estado natural no mundo. **Existem.**
@@ -218,7 +218,7 @@ que valem como regras:
    entre as criaturas e os habitantes daquele mundo é diagnosticada como *um método para enfraquecer
    esse inimigo e aumentar a supressão sobre ele*. Quem vive dentro do quadro está, sem saber,
    operando a fechadura.
-3. **Mundos-pintura são o melhor lugar do mundo para desenvolver o [[23 - Human Path|caminho
+3. **Mundos-pintura são o melhor lugar do mundo para desenvolver o [[24 - Human Path|caminho
    humano]]** — declarado assim, e coerente com o fato de a fundação daquele caminho ter sido
    derivada dentro de um deles.
 
@@ -304,13 +304,13 @@ inteira construída com **domínio de pintura mais domínio de madeira** que con
 caminho humano**.
 
 E há um par natural: o caminho da pintura anda junto do
-[[23 - Human Path|caminho humano]] em quase toda aparição — os dois são as escolas do "não-conflito",
+[[24 - Human Path|caminho humano]] em quase toda aparição — os dois são as escolas do "não-conflito",
 e o mundo-pintura é o berço declarado da fundação do caminho humano.
 
 **Sofre contra:** `—` **A obra não registra nenhuma fraqueza do caminho da pintura.** E isso é
 significativo: como quase ninguém o cultiva, quase ninguém o testou. O que existe é uma limitação
 por omissão — a mesma cidade construída com pintura e madeira era *bastante deficiente em termos do
-[[18 - Luck Path|caminho da sorte]]*, mas por razão histórica (o caminho da sorte só foi criado
+[[23 - Luck Path|caminho da sorte]]*, mas por razão histórica (o caminho da sorte só foi criado
 depois), não por antagonismo.
 
 ## O domínio
@@ -350,7 +350,7 @@ O que cada degrau destranca: `—` a obra não informa.
 > praticamente inacessível.
 >
 > **O caminho que não decaiu por nunca ter sido difundido** é a inversão exata da lógica de
-> obsolescência do [[20 - Qi Path|caminho do qi]], e os dois lado a lado ensinam a mesma lição por
+> obsolescência do [[05 - Qi Path|caminho do qi]], e os dois lado a lado ensinam a mesma lição por
 > lados opostos: **difundir uma escola a mantém viva e a condena a envelhecer; guardá-la a preserva
 > intacta e a esteriliza.** Um mestre que precise justificar por que um segredo foi guardado por um
 > milhão de anos tem aqui o argumento pronto.
@@ -373,11 +373,11 @@ O que cada degrau destranca: `—` a obra não informa.
 ## Relações
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho, e a arquitetura "principal + especialidade".
-- [[23 - Human Path|Human Path]] — o outro caminho sem conflito de marcas, e a escola que nasceu dentro de um mundo-pintura.
-- [[20 - Qi Path|Qi Path]] — o contraexemplo perfeito: o caminho que se difundiu e morreu.
+- [[24 - Human Path|Human Path]] — o outro caminho sem conflito de marcas, e a escola que nasceu dentro de um mundo-pintura.
+- [[05 - Qi Path|Qi Path]] — o contraexemplo perfeito: o caminho que se difundiu e morreu.
 - [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — o caminho da madeira, principal do mesmo criador.
 - [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]] — o criador, como figura histórica.
 - [[02 - Como se Escolhe um Caminho|Como se Escolhe um Caminho]] — o custo de trocar o Gu vital para um caminho novo.
-- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a regra geral que este caminho é a exceção.
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a regra geral que este caminho é a exceção.
 - [[03 - Blood Path|Blood Path]] — o caso registrado de um golpe de outro caminho amplificado pelo estilo da pintura.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

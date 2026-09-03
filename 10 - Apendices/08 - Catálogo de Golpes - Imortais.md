@@ -17,7 +17,7 @@ conhecimento: especializado a segredo — que golpes imortais existem é conheci
 Este é o catálogo dos ==golpes assassinos de nível 6 a 9== — os *immortal killer
 moves*, o teto de poder deste mundo. Um golpe assassino é uma **combinação nomeada de
 Gu**, ativados juntos numa sequência ensaiada, cujos efeitos se somam e produzem algo
-que nenhum dos Gu faria sozinho. A mecânica completa está em [[07 - Killer Moves|Killer Moves]]; aqui
+que nenhum dos Gu faria sozinho. A mecânica completa está em [[08 - Killer Moves|Killer Moves]]; aqui
 estão os exemplares nomeados.
 
 > [!info] Os quatro estados de confiabilidade
@@ -214,7 +214,7 @@ O mais caro dos caminhos, e o único cujos golpes de campo de batalha conseguem 
 a taxa de passagem do tempo em relação ao exterior — campos de outros caminhos não
 conseguem. Vale notar a regra de aceleração cruzada: usar um método de tempo para
 acelerar um golpe de **outro** caminho faz o golpe falhar e devolve backlash; acelerar
-um golpe do próprio caminho do tempo, ao contrário, funciona. Veja [[13 - Time Path|Time Path]].
+um golpe do próprio caminho do tempo, ao contrário, funciona. Veja [[18 - Time Path|Time Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ um golpe do próprio caminho do tempo, ao contrário, funciona. Veja [[13 - Time
 
 Caminho de golpes rápidos, de alcance longo e de pouca margem defensiva. Repare em
 quantos deles se apoiam num mesmo Gu Imortal — *Flying Sword* e *Sword Escape* são o
-exemplo canônico do princípio "um Gu Imortal, muitos golpes". Veja [[09 - Sword Path|Sword Path]].
+exemplo canônico do princípio "um Gu Imortal, muitos golpes". Veja [[11 - Sword Path|Sword Path]].
 
 > [!warning] Espada e lâmina são dois caminhos diferentes
 > A obra separa o **caminho da espada** (*sword path*) do **caminho da lâmina**
@@ -308,7 +308,7 @@ exemplo canônico do princípio "um Gu Imortal, muitos golpes". Veja [[09 - Swor
 O caminho com o maior número de golpes de campo de batalha do catálogo, e o único cujo
 repertório inclui roubar, hospedar, dividir e detonar almas. Boa parte dos golpes
 abaixo cobra **fundação de alma** em vez de essência imortal — e essa é uma moeda que
-não se recupera depressa. Veja [[10 - Soul Path|Soul Path]].
+não se recupera depressa. Veja [[12 - Soul Path|Soul Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -402,7 +402,7 @@ Veja [[03 - Blood Path|Blood Path]].
 
 O caminho que transforma criaturas em tropa. Seus golpes imortais têm um padrão
 peculiar: vários deles **invertem a hierarquia normal**, usando o inferior para
-dominar o superior. Veja [[06 - Enslavement Path|Enslavement Path]].
+dominar o superior. Veja [[07 - Enslavement Path|Enslavement Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -419,7 +419,7 @@ O caminho cujos golpes são estruturalmente os mais complexos do mundo — e por
 que mais gastam energia mental. A contrapartida é decisiva: como cada Gu ativado custa
 pensamentos e a sabedoria é justamente o caminho que os produz, **praticantes de
 sabedoria sustentam golpes mais numerosos e mais complexos que os de qualquer outro
-caminho**. Veja [[12 - Wisdom Path|Wisdom Path]].
+caminho**. Veja [[16 - Wisdom Path|Wisdom Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -456,7 +456,7 @@ O caminho mais assimétrico do catálogo: seus golpes **não matam**, e mesmo as
 figuram entre os mais temidos, porque adormecer alguém no meio de uma batalha decide a
 batalha. É também o exemplo canônico da substituição de um Gu Imortal ausente por uma
 massa de Gu mortais — vários golpes de sonho têm núcleo de **outro caminho**, com os
-Gu mortais de sonho fazendo o trabalho. Veja [[19 - Dream Path|Dream Path]].
+Gu mortais de sonho fazendo o trabalho. Veja [[26 - Dream Path|Dream Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -480,7 +480,7 @@ O caminho de golpes que **não atacam ninguém**. Boa parte do repertório abaix
 alvo um objeto, uma formação, uma abertura imortal ou o próprio corpo do usuário — e
 mesmo assim são golpes assassinos no sentido técnico. A obra registra que golpes de
 refino são **mais raros que os de qualquer outro caminho**, e que conseguir ativar um
-com sucesso já é notável. Veja [[07 - Refinement Path|Refinement Path]].
+com sucesso já é notável. Veja [[08 - Refinement Path|Refinement Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -518,7 +518,7 @@ caminhos secundários recomendados para quem quer subir força de combate depres
 
 O preço vem depois: uma transformação **converte todas as marcas de dao do usuário para
 o caminho da forma assumida**, amplificando qualquer golpe usado sobre aquela base — e
-só se pode manter **uma transformação por vez**. Veja [[05 - Transformation Path|Transformation Path]].
+só se pode manter **uma transformação por vez**. Veja [[06 - Transformation Path|Transformation Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -568,7 +568,7 @@ só se pode manter **uma transformação por vez**. Veja [[05 - Transformation P
 O caminho do deslocamento e da violação de fronteiras. Vale reter uma assimetria: os
 melhores golpes de movimento do mundo **não atravessam terras abençoadas nem
 grutas-céu** — a barreira de uma abertura imortal continua sendo a coisa mais difícil
-de furar. Veja [[11 - Space Path|Space Path]].
+de furar. Veja [[14 - Space Path|Space Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -590,7 +590,7 @@ de furar. Veja [[11 - Space Path|Space Path]].
 
 Caminho de longo alcance, de investigação e de ilusão. Repare que três Gu Imortais de
 estrela se revezam como núcleo de quatro golpes diferentes — o retrato mais limpo do
-princípio "um Gu Imortal, muitos golpes" no catálogo inteiro. Veja [[14 - Star Path|Star Path]].
+princípio "um Gu Imortal, muitos golpes" no catálogo inteiro. Veja [[19 - Star Path|Star Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -614,7 +614,7 @@ princípio "um Gu Imortal, muitos golpes" no catálogo inteiro. Veja [[14 - Star
 O caminho que não ataca nem defende, e mesmo assim decide combates: ele mexe na chance
 de tudo dar certo. Note o padrão econômico dos golpes de sorte — quase todos
 **transferem** sorte em vez de criá-la, e a maioria empobrece a fonte de onde tira.
-Veja [[18 - Luck Path|Luck Path]].
+Veja [[23 - Luck Path|Luck Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -644,7 +644,7 @@ Veja [[18 - Luck Path|Luck Path]].
 
 Poucos golpes, todos pesados. É o caminho das séries escalonadas por rank — o retrato
 mais didático do princípio de que o mesmo golpe existe em versões de rank 6, 7 e 8,
-cada uma reservada a quem tem o Gu-núcleo correspondente. Veja [[16 - Rule Path|Rule Path]].
+cada uma reservada a quem tem o Gu-núcleo correspondente. Veja [[21 - Rule Path|Rule Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -685,7 +685,7 @@ funcionam para sempre e não custam nada.
 O caminho mais raro do catálogo — e o que reorganiza todos os outros. Suas marcas de
 dao são o que reduz o atrito interno dos golpes compostos, e é por isso que a seção
 inteira gira em torno de **manipular a vontade do céu**: ocultar-se dela, substituí-la,
-lê-la, refiná-la. Veja [[17 - Heaven Path|Heaven Path]].
+lê-la, refiná-la. Veja [[25 - Heaven Path|Heaven Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -778,7 +778,7 @@ baratos de sustentar e vulneráveis a manipulação por terceiros.
 
 O caminho mais dissimulado do mundo, e a obra é explícita sobre por quê: **existem
 pouquíssimas defesas contra ele** — nem uma fortaleza de defesa suprema protege. Seus
-golpes raramente matam sozinhos; eles inclinam a balança. Veja [[15 - Food Path|Food Path]].
+golpes raramente matam sozinhos; eles inclinam a balança. Veja [[20 - Food Path|Food Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -1276,7 +1276,7 @@ Esta parte vale tanto quanto o catálogo, e talvez mais: as tabelas listam magia
 isoladas, e o que vem abaixo descreve o **sistema**. São as regras que a obra enuncia
 diretamente sobre como golpes imortais se compõem, se sustentam, se encadeiam, se
 quebram e envelhecem. As regras válidas para os dois patamares estão em
-[[07 - Killer Moves|Killer Moves]]; aqui ficam as que só existem de 6 a 9.
+[[08 - Killer Moves|Killer Moves]]; aqui ficam as que só existem de 6 a 9.
 
 ## 1. O custo em pensamentos — o teto real de todo Gu Imortal
 

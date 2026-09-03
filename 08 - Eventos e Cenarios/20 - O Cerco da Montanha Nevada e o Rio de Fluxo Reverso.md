@@ -59,7 +59,7 @@ está apenas seguro — ele está lucrando com o cerco.
 Para entender o alvo, vale ter em mente o que é uma ==terra abençoada== (*blessed land*): o
 mundo particular que todo Gu Imortal carrega dentro de si, com céu, chão e clima próprios,
 funcionando como casa, cofre e fazenda ao mesmo tempo. Ver
-[[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e, para o procedimento
+[[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] e, para o procedimento
 geral de assalto, [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]].
 
 E vale conhecer a peça que dá nome à segunda metade. O ==Rio de Fluxo Reverso== não é um rio
@@ -67,7 +67,7 @@ comum: é um ==domínio recluso do céu e da terra== — uma região autônoma c
 existe fora do mapa normal e pode ser possuída como se fosse um objeto. Segundo *As Lendas de
 Ren Zu*, o mito fundador deste mundo, ele é um dos **três obstáculos dentro da porta da vida e
 da morte**; o protagonista do mito venceu os outros dois e **falhou neste**. Ver
-[[08 - Lendas de Ren Zu|Lendas de Ren Zu]].
+[[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 
 ---
 
@@ -217,7 +217,7 @@ magia está desligado**.
    chutes e mordidas "como mortais brutos", perdendo o ar e tentando emergir para respirar.
 5. **As marcas do Dao continuam valendo** — e é essa exceção que salva o cenário de virar um
    nivelamento bobo. Marca do Dao é a mudança permanente que o cultivo grava no corpo do
-   cultivador (ver [[12 - Dao Marks|Dao Marks]]): quem acumulou marcas de força tem literalmente
+   cultivador (ver [[16 - Dao Marks|Dao Marks]]): quem acumulou marcas de força tem literalmente
    a força de um javali gravada na carne e continua tendo dentro do rio. Um rank 8 é
    fisicamente mais forte e mais resistente que um rank 6, e cura pior — as marcas dele entram
    em conflito e ferimentos demoram a fechar. Ele só deixou de ser **decisivo**.
@@ -334,16 +334,16 @@ para três coisas que uma mesa raramente consegue:
 - [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]] — o
   procedimento geral de assalto a um mundo privado, do qual este cerco é a versão mais
   elaborada.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada e o que é um domínio recluso do céu e da terra.
-- [[08 - Formações de Gu|Formações de Gu]] e [[21 - Formation Path|Formation Path]] — como uma
+- [[09 - Formações de Gu|Formações de Gu]] e [[09 - Formation Path|Formation Path]] — como uma
   super formação é montada, e por que encomendá-la a terceiros é perigoso.
-- [[12 - Dao Marks|Dao Marks]] — a única coisa que continua funcionando dentro do rio.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito fundador em que o rio aparece como um dos
+- [[16 - Dao Marks|Dao Marks]] — a única coisa que continua funcionando dentro do rio.
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o mito fundador em que o rio aparece como um dos
   três obstáculos, e a falha registrada nele.
 - [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — o único ser que conquistou o
   rio, e o que isso significou.
-- [[15 - Como Funciona um Combate|Como Funciona um Combate]] — para saber o que exatamente foi
+- [[10 - Como Funciona um Combate|Como Funciona um Combate]] — para saber o que exatamente foi
   desligado, vale ver como um combate normal funciona.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

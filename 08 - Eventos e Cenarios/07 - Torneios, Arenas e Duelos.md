@@ -442,7 +442,7 @@ confusão.
   não por calendário.
 - **Os valores pagos por vitória** na arena urbana. Sabemos que o pagamento cresce com o tamanho da
   plateia; a tabela não é publicada. Para arbitrar, use
-  [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
+  [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]].
 
 ## Relações
 
@@ -452,15 +452,15 @@ confusão.
   produz a competição da escala 1.
 - [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] — a cidade-clã onde fica a arena
   permanente, com os pedágios por anel.
-- [[15 - Como Funciona um Combate|Como Funciona um Combate]] — o que acontece dentro de um duelo.
-- [[07 - Killer Moves|Killer Moves]] e [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]
+- [[10 - Como Funciona um Combate|Como Funciona um Combate]] — o que acontece dentro de um duelo.
+- [[08 - Killer Moves|Killer Moves]] e [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]
   — por que a variedade de caminhos vence a força bruta no nível alto.
-- [[10 - Espólio de Gu|Espólio de Gu]] — a regra de que o vencedor leva um Gu do perdedor.
-- [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — reputação como recurso, e o
+- [[14 - Espólio de Gu|Espólio de Gu]] — a regra de que o vencedor leva um Gu do perdedor.
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — reputação como recurso, e o
   custo de recusar um desafio.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — por que a arena é a
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — por que a arena é a
   porta de reabilitação de um demoníaco.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios vistos do lado
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os torneios vistos do lado
   institucional e econômico.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do
   sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

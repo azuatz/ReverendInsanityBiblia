@@ -189,7 +189,7 @@ enlouquecimento ou morte causados pela própria ruptura: **não existe.** Este m
 o "desvio de energia" clássico do gênero. Se a essência acaba antes de a parede ceder, a
 parede **cicatriza** e o esforço se perde — o cultivador descansa e tenta de novo (caps. 90,
 92). O perigo real da ruptura é a **vulnerabilidade**: dias de concentração absoluta num
-lugar fechado, sem poder reagir. A falha letal existe só na [[11 - Ascensão Imortal|ascensão imortal]], e é por
+lugar fechado, sem poder reagir. A falha letal existe só na [[14 - Ascensão Imortal|ascensão imortal]], e é por
 isso que ela pertence a outra categoria. O silêncio da obra aqui é informação, e agora está
 registrado como tal na nota 05.
 
@@ -306,10 +306,10 @@ Ordem de leitura completa resultante da pasta:
 14. Ascensão Imortal · 15. Dao Marks · 16. Tornar-se Venerável
 
 > Observação para o orquestrador: os wikilinks que apontam para as notas novas usam os
-> nomes de arquivo **atuais** (`[[14 - O Corpo e a Mente do Mestre Gu|…]]`,
-> `[[15 - Perder Cultivo|…]]`, `[[16 - Cultivo Fora do Humano|…]]`). `numerar-notas.py`
+> nomes de arquivo **atuais** (`[[06 - O Corpo e a Mente do Mestre Gu|…]]`,
+> `[[07 - Perder Cultivo|…]]`, `[[11 - Cultivo Fora do Humano|…]]`). `numerar-notas.py`
 > reescreve todos eles, inclusive os que têm texto alternativo e âncora de seção — há um
-> link com âncora (`[[14 - O Corpo e a Mente do Mestre Gu#Cultivar acompanhado|…]]`) em
+> link com âncora (`[[06 - O Corpo e a Mente do Mestre Gu#Cultivar acompanhado|…]]`) em
 > duas notas, e ele foi escrito no formato que o script trata. `auditar-links.py` já foi
 > rodado: **nenhum dos links criados por esta auditoria está quebrado** (os quatro links
 > quebrados que o script reporta pertencem a `02 - Gu`, `03 - Paths` e `06 - Economia e

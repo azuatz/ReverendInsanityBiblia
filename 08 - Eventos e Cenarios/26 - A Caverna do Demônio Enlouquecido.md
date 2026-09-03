@@ -155,7 +155,7 @@ que alguém consegue percorrer mede exatamente o quanto essa pessoa aguenta sent
 
 **Quem leva vantagem.** O caminho da sabedoria tem três eixos — pensamento, vontade e
 emoção — e lidar com emoções, inclusive usá-las como arma, é o que ele faz melhor. Um
-cultivador de [[12 - Wisdom Path|wisdom path]] avança nesta formação onde outros travam.
+cultivador de [[16 - Wisdom Path|wisdom path]] avança nesta formação onde outros travam.
 Também há registro de que os pedaços de gelo podem ser **ativamente controlados** por quem
 aprender o método, o que acelera o processo coletivamente.
 
@@ -294,17 +294,17 @@ deixar que o mais fraco chegue mais longe.
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — as regras gerais desta pasta.
 - [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] —
   as dez grandes áreas ferozes, das quais esta é a única falsa.
-- [[18 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]]
+- [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]]
   — a categoria de lugar a que a caverna finge pertencer.
-- [[13 - Cosmologia|Cosmologia]] — a fronteira do mundo e o que existe além dela. `[segredo]`
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — a escada de provações, e o
+- [[17 - Cosmologia|Cosmologia]] — a fronteira do mundo e o que existe além dela. `[segredo]`
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — a escada de provações, e o
   desastre caótico como seu degrau mais alto.
-- [[12 - Wisdom Path|Wisdom Path]] — o caminho que domina emoção, e por isso o único com
+- [[16 - Wisdom Path|Wisdom Path]] — o caminho que domina emoção, e por isso o único com
   vantagem declarada na nona camada.
 - [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]] e
   [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] — as figuras históricas que
   construíram e usaram este lugar, tratadas como estrutura e não como personagens.
-- [[02 - Planícies do Norte|Planícies do Norte]] — a região onde a caverna fica e as forças
+- [[03 - Planícies do Norte|Planícies do Norte]] — a região onde a caverna fica e as forças
   que vivem ao redor dela.
 - [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] — o pano de fundo
   cosmológico do período em que a grande expedição acontece.

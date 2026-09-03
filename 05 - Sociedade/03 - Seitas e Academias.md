@@ -54,7 +54,7 @@ jogo se inverte: ali o rank vira **pré-requisito duro**, e nenhuma prova substi
 | Discípulo de legado | — | Exame a cada quinze anos |
 | Ancião de seita | **rank 4** | O rank é a condição; alcançá-lo é a promoção |
 | Líder de seita | **rank 5 ou acima** | O rank é a condição, mais escolha do conselho |
-| Anciãos supremos | **rank 6 ou acima** | Ascender a [[11 - Ascensão Imortal\|Mestre Gu Imortal]]. Ficam em reclusão |
+| Anciãos supremos | **rank 6 ou acima** | Ascender a [[14 - Ascensão Imortal|Mestre Gu Imortal]]. Ficam em reclusão |
 
 Os `—` da coluna do meio são a convenção do vault para "**a obra não diz**", e aqui isso é
 uma lacuna real: o texto nunca fixa um rank mínimo para cada degrau de discípulo. O que
@@ -215,7 +215,7 @@ Como uma seita ou um clã encontra gente nova, na ordem da mais comum à mais ex
 - **Arena.** Em pelo menos uma grande cidade-mercado, dominar a arena local rende ao
   vencedor o cargo de ancião externo do clã anfitrião — inclusive a cultivadores de
   origem demoníaca. É uma porta de reabilitação institucional, tratada em
-  [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+  [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 - **Anciãos externos e patrocínio.** Imortais patrocinam talentos promissores de qualquer
   facção, esperando que um dia ascendam e se tornem "anciãos supremos externos" da
   organização. É expansão de poder entre gerações, sem sangue e sem contrato formal.
@@ -249,7 +249,7 @@ Duas variações valem registro porque ampliam o que "seita" pode significar:
 
 - [[02 - Clãs|Clãs]] — o modelo rival, por sangue.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — as regras gerais que valem para os dois modelos.
-- [[06 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde cada modelo domina, e onde é proibido.
-- [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — as dez grandes seitas e quem está acima delas.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — missões e pontos de contribuição pelo lado da renda.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — as provas, exames e competições como aventuras.
+- [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — onde cada modelo domina, e onde é proibido.
+- [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — as dez grandes seitas e quem está acima delas.
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — missões e pontos de contribuição pelo lado da renda.
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — as provas, exames e competições como aventuras.

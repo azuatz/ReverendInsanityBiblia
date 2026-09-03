@@ -21,7 +21,7 @@ são a lista de itens deste sistema, os golpes são a **lista de magias**.
 
 Os golpes de patamar imortal, que exigem ao menos um Gu Imortal, estão em
 [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]]. A mecânica completa — como um golpe nasce, como se
-paga, como se quebra — está em [[07 - Killer Moves|Killer Moves]]. Os Gu individuais que aparecem nas
+paga, como se quebra — está em [[08 - Killer Moves|Killer Moves]]. Os Gu individuais que aparecem nas
 receitas abaixo estão em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ## O que é um golpe assassino
@@ -192,7 +192,7 @@ cauda, só as garras — é o uso comum e não conta. Por isso golpes deste cami
 exigem dedução: reúna o conjunto de Gu da criatura e o golpe existe. A dificuldade migra
 inteira para o **colecionismo** (quanto mais forte a forma, mais raros os Gu) e para o
 **treino** (operar um corpo com outra quantidade de membros se aprende como se aprende a
-voar). Ver [[05 - Transformation Path|Transformation Path]].
+voar). Ver [[06 - Transformation Path|Transformation Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -242,7 +242,7 @@ batalha com aliados por perto.
 Este caminho tem a particularidade de ter deixado no texto uma **tabela de preços**:
 vários dos seus golpes aparecem sendo negociados numa mesma cena de mercado, com valores
 em pedras de essência imortal. É a melhor amostra que a obra dá do que custa um golpe
-mortal, e por isso os valores foram preservados na coluna de custo. Ver [[14 - Star Path|Star Path]].
+mortal, e por isso os valores foram preservados na coluna de custo. Ver [[19 - Star Path|Star Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -310,7 +310,7 @@ um efeito imortal.
 
 ## Caminho do veneno (*poison path*)
 
-Ver [[08 - Poison Path|Poison Path]].
+Ver [[10 - Poison Path|Poison Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ Ver [[08 - Poison Path|Poison Path]].
 
 ## Caminho da alma (*soul path*)
 
-Ver [[10 - Soul Path|Soul Path]].
+Ver [[12 - Soul Path|Soul Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -331,7 +331,7 @@ Ver [[10 - Soul Path|Soul Path]].
 
 Este caminho comanda feras. O traço que separa seus golpes dos demais é o **insumo**:
 vários deles não gastam apenas essência primordial, gastam **o próprio bando do usuário**.
-Ver [[06 - Enslavement Path|Enslavement Path]].
+Ver [[07 - Enslavement Path|Enslavement Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -352,7 +352,7 @@ Ver [[06 - Enslavement Path|Enslavement Path]].
 
 ## Caminho da sabedoria (*wisdom path*)
 
-Ver [[12 - Wisdom Path|Wisdom Path]].
+Ver [[16 - Wisdom Path|Wisdom Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -368,7 +368,7 @@ importante para desenho de jogo: aqui existem **golpes assassinos não-combativo
 alvo não é uma pessoa, é um processo ou uma estrutura — moer materiais, acelerar uma
 forja, abrir uma brecha numa construção imortal. Um golpe de refino não mata ninguém e
 mesmo assim é um golpe assassino no sentido pleno do termo, com receita, ativação,
-custo e contragolpe. Ver [[07 - Refinement Path|Refinement Path]] e [[05 - Refino de Gu|Refino de Gu]].
+custo e contragolpe. Ver [[08 - Refinement Path|Refinement Path]] e [[06 - Refino de Gu|Refino de Gu]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -384,7 +384,7 @@ custo e contragolpe. Ver [[07 - Refinement Path|Refinement Path]] e [[05 - Refin
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
 | Thirty-Eight Sealing Arts | 1-5 (ded.; criado por um Venerável, mas executável em grupo por praticantes comuns depois de refinarem os Gu e serem instruídos) | Gu comuns, "na maioria ordinários e fáceis de reunir" (não nomeados); toca também o caminho do qi | Os usuários expiram raios de **qi de luz roxa** que contaminam os golpes usados pelo alvo e **selam, um a um, os Gu que os produziram**: escudos viram Gu inertes que caem no chão, lâminas de vento são seladas na origem. O qi roxo segue a trilha do ataque **de volta até a fonte**, dentro da abertura do alvo. Historicamente, selar Gu defensivo é fácil e selar Gu ofensivo é difícil — este golpe lida com os dois igualmente bem | **Não consegue selar Gu Imortais.** Em Gu mortais, quanto mais alto o rank do Gu, mais curto o selo — mas o selo é completo enquanto dura. **Contramedida decisiva e simples:** se o alvo **parar de ativar qualquer Gu**, o qi roxo não tem trilha para seguir e o golpe não tem efeito nenhum |
-| Infinite Search and Lock (tb. *Limitless Search and Lock*) | 5 (ded., combinação de quatro praticantes em torno do rank 5) | rank five search and lock Gu, ativada em conjunto pelos quatro usuários; depende de uma lock Gu / fixed star Gu previamente **plantada no alvo**. Combina selamento e caminho do espaço ([[11 - Space Path\|Space Path]]) | Os quatro usuários se posicionam nos quatro pontos cardeais em torno do alvo, ajoelhados, palma direita à frente, e estendem correntes de aço negro das palmas; as correntes se estendem do vácuo e capturam o alvo **onde quer que ele esteja**, além de selar seus Gu e sua essência primordial — até um Gu de teleporte rank 5 fica selado | Exige quatro usuários agindo juntos e uma demanda enorme de essência primordial: praticantes que treinaram o golpe por anos morreram por não conseguirem sustentá-lo. **Sem a fixed star Gu plantada no alvo, o golpe é "uma galinha sem cabeça", nenhuma ameaça** — e plantá-la exige infiltração prévia e treino do portador. O alvo capturado ainda pode autodetonar os próprios Gu |
+| Infinite Search and Lock (tb. *Limitless Search and Lock*) | 5 (ded., combinação de quatro praticantes em torno do rank 5) | rank five search and lock Gu, ativada em conjunto pelos quatro usuários; depende de uma lock Gu / fixed star Gu previamente **plantada no alvo**. Combina selamento e caminho do espaço ([[14 - Space Path|Space Path]]) | Os quatro usuários se posicionam nos quatro pontos cardeais em torno do alvo, ajoelhados, palma direita à frente, e estendem correntes de aço negro das palmas; as correntes se estendem do vácuo e capturam o alvo **onde quer que ele esteja**, além de selar seus Gu e sua essência primordial — até um Gu de teleporte rank 5 fica selado | Exige quatro usuários agindo juntos e uma demanda enorme de essência primordial: praticantes que treinaram o golpe por anos morreram por não conseguirem sustentá-lo. **Sem a fixed star Gu plantada no alvo, o golpe é "uma galinha sem cabeça", nenhuma ameaça** — e plantá-la exige infiltração prévia e treino do portador. O alvo capturado ainda pode autodetonar os próprios Gu |
 
 ## Caminho do osso (*bone path*)
 
@@ -401,7 +401,7 @@ custo e contragolpe. Ver [[07 - Refinement Path|Refinement Path]] e [[05 - Refin
 
 ## Caminho da sorte (*luck path*)
 
-Ver [[18 - Luck Path|Luck Path]].
+Ver [[23 - Luck Path|Luck Path]].
 
 | Golpe | Nível | Gu que o compõem | O que faz | Custo, risco ou limite |
 |---|---|---|---|---|
@@ -491,7 +491,7 @@ por nomes, mas o mecanismo de cada um é aproveitável tal como está:
 
 O que segue vale **especificamente para golpes de rank 1 a 5**. As regras gerais do
 sistema — como um golpe se cria, como ele falha, o que é um campo de batalha — estão em
-[[07 - Killer Moves|Killer Moves]].
+[[08 - Killer Moves|Killer Moves]].
 
 ### O teto do patamar mortal
 

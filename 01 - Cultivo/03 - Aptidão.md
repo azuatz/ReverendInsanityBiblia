@@ -137,7 +137,7 @@ resolva de novo, e com recursos maiores, o mesmo problema.
 
 ### O degrau acima do grau A
 
-Acima do grau A existe uma camada à parte, que armazena **100%** de essência contra os 99% do melhor grau A: as [[08 - As Dez Constituições Extremas|Dez Constituições Extremas]]. Não são um sexto grau da escala, e sim uma categoria com regras próprias de crescimento, de preço e de ascensão — inclusive a possibilidade de uma aptidão grau A de 99% **evoluir espontaneamente** para uma delas ao longo do cultivo. Tudo isso está na nota dedicada.
+Acima do grau A existe uma camada à parte, que armazena **100%** de essência contra os 99% do melhor grau A: as [[10 - As Dez Constituições Extremas|Dez Constituições Extremas]]. Não são um sexto grau da escala, e sim uma categoria com regras próprias de crescimento, de preço e de ascensão — inclusive a possibilidade de uma aptidão grau A de 99% **evoluir espontaneamente** para uma delas ao longo do cultivo. Tudo isso está na nota dedicada.
 
 ## A cerimônia como cena
 
@@ -255,7 +255,7 @@ O grau é apresentado ao jogador como fixo. Ele não é. E a forma como ele muda
 
 **Sobe.** Existem itens que elevam o talento permanentemente: os genéricos "Gu de elevar talento", raros a ponto de um ancião rank 3 nunca ter visto um; itens de herança capazes de levar um grau C a B; consumíveis mortais encontrados em ambientes específicos, cujo ganho o texto nunca quantifica. E existe a via demoníaca: um Gu que **absorve o sangue das vítimas mortas pelo usuário e converte em aptidão permanente**, com rendimento decrescente, rendendo mais quando o sangue é de parentes próximos ou de gente talentosa. Casos documentados levam alguém de 43% a mais de 90% em poucas horas de matança.
 
-**Cai.** Dano à abertura reduz o grau — uma técnica proibida rebaixou um grau A a grau B de forma permanente. Resíduo de rituais mal conduzidos custa pontos percentuais mesmo quando limpo depressa.[^2] Essência alheia acumulada sufoca o talento, e quanto mais tempo ela fica na abertura, mais pontos de aptidão consome. A queda de aptidão anda de mãos dadas com a queda de **rank**, que é assunto de [[15 - Perder Cultivo|Perder Cultivo]] — e as duas nem sempre andam juntas: há um caso documentado em que a aptidão saltou de pouco mais de 40% para mais de 90% **na mesma cena** em que o cultivo despencou de rank 3 para rank 1. E existe um item que reduz deliberadamente a aptidão do alvo em 10% por uso — usado, entre outras coisas, para rebaixar uma constituição extrema perigosa abaixo do limiar autodestrutivo.
+**Cai.** Dano à abertura reduz o grau — uma técnica proibida rebaixou um grau A a grau B de forma permanente. Resíduo de rituais mal conduzidos custa pontos percentuais mesmo quando limpo depressa.[^2] Essência alheia acumulada sufoca o talento, e quanto mais tempo ela fica na abertura, mais pontos de aptidão consome. A queda de aptidão anda de mãos dadas com a queda de **rank**, que é assunto de [[07 - Perder Cultivo|Perder Cultivo]] — e as duas nem sempre andam juntas: há um caso documentado em que a aptidão saltou de pouco mais de 40% para mais de 90% **na mesma cena** em que o cultivo despencou de rank 3 para rank 1. E existe um item que reduz deliberadamente a aptidão do alvo em 10% por uso — usado, entre outras coisas, para rebaixar uma constituição extrema perigosa abaixo do limiar autodestrutivo.
 
 **É transferida.** Esta é a parte que muda a escala do problema. Existe uma técnica que **concentra a aptidão de muitas pessoas num grupo pequeno**: um clã inteiro sustenta sua elite nutrindo forasteiros mortais de talento medíocre e colhendo deles a aptidão coletiva, numa instalação construída para isso. Aptidão vira, literalmente, uma safra. No fim da obra há ainda: uma versão do método sanguinário que eleva alguém a grau A extraindo apenas *parte* do sangue de seus parentes, sem precisar matá-los; uma formação apresentada publicamente como milagre religioso, que na verdade é sacrifício em massa para elevar **clãs inteiros ao grau A**, aplicada a pelo menos cinco clãs, com acesso vendido internamente por pontos de contribuição; e um Gu capaz de **despertar à força a abertura de quem nasceu sem talento nenhum** — a primeira rota conhecida para furar o piso dos 20%.
 
@@ -266,7 +266,7 @@ O grau é apresentado ao jogador como fixo. Ele não é. E a forma como ele muda
 
 O grau define quanto o clã investe num jovem, e vira heurística social imediata: idade em que começou mais rank atual permite estimar o talento de um desconhecido com boa precisão. Fraudar o resultado da cerimônia é possível para um ancião com autoridade suficiente — anunciar um grau C como B, por exemplo —, mas a fraude não se sustenta, porque a velocidade real de cultivo denuncia o talento verdadeiro em poucos anos.
 
-Força real, porém, não é só aptidão. Rankings informais de jovens promissores medem *desempenho*, e um grau C com recursos, experiência e bons Gu pode liderá-los. A aptidão é o teto; o que a pessoa faz com o espaço abaixo do teto é outra história — e no reino imortal a aptidão deixa de importar completamente, cedendo lugar a [[12 - Dao Marks|dao marks]] e [[06 - Attainment|attainment]].
+Força real, porém, não é só aptidão. Rankings informais de jovens promissores medem *desempenho*, e um grau C com recursos, experiência e bons Gu pode liderá-los. A aptidão é o teto; o que a pessoa faz com o espaço abaixo do teto é outra história — e no reino imortal a aptidão deixa de importar completamente, cedendo lugar a [[16 - Dao Marks|dao marks]] e [[08 - Attainment|attainment]].
 
 **Aptidão alta tem sinais visíveis fora da cerimônia?** Tem dois, e a obra trata os dois com
 cuidados diferentes. O primeiro é indireto e cotidiano: jovens de Mar Primordial de melhor
@@ -305,8 +305,8 @@ Uma última nota de mundo tardio, útil para ambientação: existe um golpe que 
 - [[02 - Abertura|Abertura]] — o que o grau dimensiona.
 - [[04 - Essência Primordial|Essência Primordial]] — o que cabe dentro desse teto.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — a trava que o grau impõe e as brechas para furá-la.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — onde a aptidão para de importar.
-- [[15 - Perder Cultivo|Perder Cultivo]] — como o grau e o rank caem, e o que volta.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — onde a aptidão para de importar.
+- [[07 - Perder Cultivo|Perder Cultivo]] — como o grau e o rank caem, e o que volta.
 
 [^2]: A obra diverge de si mesma quanto ao tamanho exato desse resíduo no caso mais documentado: uma passagem diz que a aptidão caiu dois pontos percentuais (de 44% para 42%) e outra, mais tarde, diz que caiu um (de 44% para 43%). Adotamos "cerca de dois pontos" porque é a formulação da passagem que descreve o efeito como regra; a diferença não muda nada de estrutural.
 

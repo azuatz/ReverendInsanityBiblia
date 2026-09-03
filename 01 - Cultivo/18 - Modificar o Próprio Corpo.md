@@ -40,7 +40,7 @@ Antes de qualquer catálogo, vale fixar a frase que a obra usa e que resume a ca
 
 É a chave. A [[02 - Abertura|abertura]] — o órgão interno que armazena energia de cultivo — pode, em casos raros, ser duplicada. O **corpo é sempre um só**, e cada modificação gasta espaço nele. Reforçar os ossos para carregar mais força é abrir mão do reforço que serviria ao caminho da escravização; virar de pedra é deixar de ser de carne. O corpo não é uma ficha com casas vazias esperando itens: é um **orçamento único, gasto uma vez**.
 
-Some a isso a regra geral do sistema — toda modificação permanente grava no corpo uma camada da lei correspondente, e leis gravadas brigam com leis estranhas — e você tem o mecanismo completo. A parte "leis brigam entre si" tem nota própria e não se repete aqui: veja [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]. Esta nota trata do **repertório**: o que exatamente se pode fazer com um corpo, como se faz, quanto custa e o que se perde.
+Some a isso a regra geral do sistema — toda modificação permanente grava no corpo uma camada da lei correspondente, e leis gravadas brigam com leis estranhas — e você tem o mecanismo completo. A parte "leis brigam entre si" tem nota própria e não se repete aqui: veja [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]. Esta nota trata do **repertório**: o que exatamente se pode fazer com um corpo, como se faz, quanto custa e o que se perde.
 
 ## As duas naturezas: o efeito que passa e a marca que fica
 
@@ -86,7 +86,7 @@ Este é o catálogo de reforço estrutural. Todos são **permanentes**, todos de
 | **Pele de cobre**, **músculos de gelo** | variantes temáticas do mesmo princípio | — |
 | **Costelas externas**, **escudo de costelas**, **asas ósseas no antebraço** | apêndices ósseos novos, crescidos de propósito | as asas de antebraço aumentam pouco a velocidade de deslocamento e **muito** a velocidade de ataque |
 | **Pele de lobo de jade-tartaruga** (nível 5) | defesa que responde sozinha ao ser atingida, **sem gastar energia** | o refino consome um **rei-fera vivo** da espécie correspondente |
-| **Gu de osso da impermanência** (nível 4) | amplia a capacidade do corpo de **conter uma alma poderosa** | é reforço de recipiente, não de músculo — ver [[10 - Soul Path|Soul Path]] |
+| **Gu de osso da impermanência** (nível 4) | amplia a capacidade do corpo de **conter uma alma poderosa** | é reforço de recipiente, não de músculo — ver [[12 - Soul Path|Soul Path]] |
 | **Gu de modificação corporal** | adequa o corpo à alma e à força que ele já carrega | a peça genérica da categoria |
 
 Quatro regras governam a lista inteira:
@@ -101,7 +101,7 @@ Quatro regras governam a lista inteira:
 
 ### Fantasmas de fera: o órgão que se vê
 
-Merece parágrafo próprio porque é a mecânica mais visual do domínio. Os ==fantasmas de fera== — a silhueta translúcida de um javali, um urso, um crocodilo que aparece atrás de um lutador quando ele libera a potência inteira — **não são efeito cênico**. A obra os define em uma frase: *"fantasmas de fera são fragmentos de lei escondidos no corpo de uma pessoa"*. São as [[12 - Dao Marks|marcas do Dao]] de força do usuário, normalmente invisíveis, tornadas visíveis.
+Merece parágrafo próprio porque é a mecânica mais visual do domínio. Os ==fantasmas de fera== — a silhueta translúcida de um javali, um urso, um crocodilo que aparece atrás de um lutador quando ele libera a potência inteira — **não são efeito cênico**. A obra os define em uma frase: *"fantasmas de fera são fragmentos de lei escondidos no corpo de uma pessoa"*. São as [[16 - Dao Marks|marcas do Dao]] de força do usuário, normalmente invisíveis, tornadas visíveis.
 
 E, porque são marcas de lei instaladas no corpo, eles **ocupam vaga**. Um Gu de nível 3 invoca um fantasma por vez; ao chegar ao nível 4 abrem-se fantasmas melhores, e ter dois fantasmas de javali passa a ser desperdício. Remover um exige a lei da destruição — o método comum e barato é um par de Gu de nuvem yin e yang que gera relâmpago dentro de uma sala fechada e desintegra o fantasma lentamente — e leva, sozinho, **pelo menos dezenove dias**.
 
@@ -115,15 +115,15 @@ O que ele não devolve são os anos. Por dedução nossa, quem se limpa volta a 
 
 Aqui a categoria muda de patamar. Existe um método que não reforça o corpo humano: **substitui a espécie dele**.
 
-O método se chama ==humans alike dragons== ("homens à semelhança dos dragões"), foi criado por um imortal do Tribunal Celestial, e o que ele faz é fundir [[07 - Refinement Path|refino]] e [[05 - Transformation Path|transformação]] para converter um ser humano num *dragonman* (homem-dragão) — uma raça inteira que **não existia na natureza** e nasceu desse procedimento. Ver [[15 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
+O método se chama ==humans alike dragons== ("homens à semelhança dos dragões"), foi criado por um imortal do Tribunal Celestial, e o que ele faz é fundir [[08 - Refinement Path|refino]] e [[06 - Transformation Path|transformação]] para converter um ser humano num *dragonman* (homem-dragão) — uma raça inteira que **não existia na natureza** e nasceu desse procedimento. Ver [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 
 O mecanismo é o detalhe que importa:
 
 - **O material de refino é o próprio cultivador.** Não se refina um item e se veste: refina-se a pessoa. Corpo, alma e as marcas do Dao dentro dela são todos derretidos e separados no processo.
 - **A chance de sucesso varia de pessoa para pessoa**, e é baixa. Como cada cultivador tem uma composição diferente de marcas de caminho, cada um é um "material imortal" diferente — e alguns simplesmente não servem. A obra registra que certas constituições de nascença **aumentam** a chance e outras a reduzem quase a zero.
 - **Fracassar é morrer.** Nos casos em que a obra mostra o método aplicado em lote, parte dos candidatos "teve azar e perdeu a vida".
-- **O que se compra é tempo de vida.** Este é o ponto que torna o método politicamente explosivo: a conversão em homem-dragão é descrita como **o segundo melhor método de estender a vida que existe**, atrás apenas do item de longevidade legítimo (ver [[09 - Longevidade|Longevidade]]). Como itens de longevidade são raríssimos e o desejo de viver é universal, um método replicável de trocar de espécie por anos de vida é uma bomba demográfica — e o próprio criador acabou por exterminar a raça que fundou, precisamente por isso.
-- **O que se perde é compreensão.** Trocar de corpo não é neutro. Um cultivador que converteu o próprio corpo para outra raça viu o [[06 - Attainment|attainment]] futuro nas suas antigas especialidades **despencar**, restando-lhe sobretudo o que já havia compreendido antes. Ver [[16 - Cultivo Fora do Humano#Almas em corpos trocados|Cultivo Fora do Humano]].
+- **O que se compra é tempo de vida.** Este é o ponto que torna o método politicamente explosivo: a conversão em homem-dragão é descrita como **o segundo melhor método de estender a vida que existe**, atrás apenas do item de longevidade legítimo (ver [[12 - Longevidade|Longevidade]]). Como itens de longevidade são raríssimos e o desejo de viver é universal, um método replicável de trocar de espécie por anos de vida é uma bomba demográfica — e o próprio criador acabou por exterminar a raça que fundou, precisamente por isso.
+- **O que se perde é compreensão.** Trocar de corpo não é neutro. Um cultivador que converteu o próprio corpo para outra raça viu o [[08 - Attainment|attainment]] futuro nas suas antigas especialidades **despencar**, restando-lhe sobretudo o que já havia compreendido antes. Ver [[11 - Cultivo Fora do Humano#Almas em corpos trocados|Cultivo Fora do Humano]].
 - **Há efeitos colaterais de identidade.** O caso documentado deixou o convertido com o sexo trocado em relação ao de nascença, e as duas soluções oferecidas foram um paliativo (cultivar transformação em paralelo) e uma solução de raiz (localizar e refinar um Gu específico que reverteria o sexo permanentemente). Nenhuma das duas é barata.
 
 ## Trocar de rosto: a pele humana
@@ -151,7 +151,7 @@ Reforçar, converter e disfarçar operam sobre um corpo que já existe. A camada
 
 ### Fabricar uma constituição
 
-Nascer com uma das dez constituições supremas é um sorteio genético que a obra trata como quase sempre trágico; o assunto tem nota própria em [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] e não se repete aqui. O que interessa a esta nota é a diferença entre **nascer** com uma e **produzir** uma:
+Nascer com uma das dez constituições supremas é um sorteio genético que a obra trata como quase sempre trágico; o assunto tem nota própria em [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] e não se repete aqui. O que interessa a esta nota é a diferença entre **nascer** com uma e **produzir** uma:
 
 - Uma constituição de nascença é **um corpo humano** com talento levado ao máximo. Ela vem com a vida da pessoa inteira dentro, e com a sentença de morte correspondente.
 - Uma constituição fabricada é **um corpo descartável produzido em série**, convertendo pedaços de um reino onírico em casulos de luz que eclodem já contendo um corpo humano adulto e nu. Não há infância, não há biografia, não há pessoa: há um invólucro pronto que alguém ocupa.
@@ -228,7 +228,7 @@ A obra tem um cardápio inteiro de métodos de revivificação, e ele se divide 
 
 > **Um Venerável não ressuscita por acaso. Ele constrói, em vida — às vezes eras antes —, um arranjo de revivificação; e o mecanismo escolhido determina o estado em que ele volta.** Nenhum dos arranjos conhecidos é intercambiável com outro, e **nenhum devolve poder pleno automaticamente**: o revivido volta com fundação rasa e precisa reconstruir.
 
-Duas condições de contexto explicam por que o assunto só se torna prático numa era tardia do mundo. A primeira: os arranjos ficam adormecidos enquanto o Gu que administra o destino está íntegro — foi a destruição dele que os liberou (ver [[12 - Fate Gu|Fate Gu]]). A segunda é social, e é ótima para uma mesa: quando Veneráveis revividos e pseudo-Veneráveis deixam de ser raros, **o status de nível 8 vira mercadoria comprável** e perde prestígio.
+Duas condições de contexto explicam por que o assunto só se torna prático numa era tardia do mundo. A primeira: os arranjos ficam adormecidos enquanto o Gu que administra o destino está íntegro — foi a destruição dele que os liberou (ver [[16 - Fate Gu|Fate Gu]]). A segunda é social, e é ótima para uma mesa: quando Veneráveis revividos e pseudo-Veneráveis deixam de ser raros, **o status de nível 8 vira mercadoria comprável** e perde prestígio.
 
 Os quatro arranjos que a obra descreve:
 
@@ -254,7 +254,7 @@ Os quatro arranjos que a obra descreve:
 
 Tudo nesta nota cobra na mesma moeda, e vale reunir a conta num lugar só:
 
-- **Marcas que fecham portas.** Toda modificação permanente grava lei no corpo, e lei gravada estraga Gu de leis vizinhas — cura mais lenta, Gu de luz e de espaço que falham, Gu de vento enfraquecido. Ver [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+- **Marcas que fecham portas.** Toda modificação permanente grava lei no corpo, e lei gravada estraga Gu de leis vizinhas — cura mais lenta, Gu de luz e de espaço que falham, Gu de vento enfraquecido. Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
 - **Dor real e mortalidade real.** Reforçar o corpo mata quem tem vontade fraca; converter de espécie mata parte dos candidatos; trocar de rosto exige esfolar-se em vida.
 - **A própria vida.** Vários atalhos corporais a cobram diretamente. A obra encena um deles em campo: um ancião de nível 3 no auge aciona um Gu que **infla o corpo até virar um gigante de pedra e eleva o cultivo dele ao patamar de nível 4** — e, no instante em que o aciona, todos ao redor entendem que ele já entregou a própria vida. Não há duração declarada; o que a obra declara é o desfecho. `—` Um segundo Gu, de nível 5, entrega uma quantidade enorme de energia instantaneamente e tem como sequela a **queda do estágio de cultivo** do usuário; a obra não diz de quantos estágios nem se a queda é permanente. `—`
 - **Aptidão e compreensão.** Trocar de corpo derruba o attainment nas antigas especialidades; certos tratamentos corporais rebaixam deliberadamente a aptidão como terapia.
@@ -297,17 +297,17 @@ Tudo nesta nota cobra na mesma moeda, e vale reunir a conta num lugar só:
 
 ## Relações
 
-- [[14 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o corpo antes de qualquer modificação: o que ele é, o que produz e como cansa.
-- [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que cada camada instalada fecha uma porta.
+- [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o corpo antes de qualquer modificação: o que ele é, o que produz e como cansa.
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que cada camada instalada fecha uma porta.
 - [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — a rota corporal mais completa do cenário, e a tabela de revivificação de mortos-vivos.
-- [[08 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os corpos com que se nasce, e a constituição artificial que os imita.
-- [[16 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o que muda no cultivo quando o corpo deixa de ser humano.
-- [[15 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — as raças que existem, inclusive a que foi fabricada.
-- [[05 - Transformation Path|Transformation Path]] — o caminho a que pertencem a troca de forma e a linhagem dos zumbis.
+- [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] — os corpos com que se nasce, e a constituição artificial que os imita.
+- [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] — o que muda no cultivo quando o corpo deixa de ser humano.
+- [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — as raças que existem, inclusive a que foi fabricada.
+- [[06 - Transformation Path|Transformation Path]] — o caminho a que pertencem a troca de forma e a linhagem dos zumbis.
 - [[04 - Strength Path|Strength Path]] — o caminho que mais depende de modificação corporal permanente.
-- [[10 - Soul Path|Soul Path]] — a alma que ocupa os corpos desta nota, e o que a sustenta.
-- [[09 - Longevidade|Longevidade]] — o problema que a possessão e a troca de espécie existem para resolver.
-- [[12 - Dao Marks|Dao Marks]] — as marcas que toda modificação grava.
-- [[13 - Tornar-se Venerável|Tornar-se Venerável]] — o patamar dos que montam arranjos de revivificação.
-- [[12 - Fate Gu|Fate Gu]] — a trava cuja destruição liberou os arranjos adormecidos.
-- [[05 - Refino de Gu|Refino de Gu]] — o procedimento que, aqui, é aplicado a pessoas.
+- [[12 - Soul Path|Soul Path]] — a alma que ocupa os corpos desta nota, e o que a sustenta.
+- [[12 - Longevidade|Longevidade]] — o problema que a possessão e a troca de espécie existem para resolver.
+- [[16 - Dao Marks|Dao Marks]] — as marcas que toda modificação grava.
+- [[19 - Tornar-se Venerável|Tornar-se Venerável]] — o patamar dos que montam arranjos de revivificação.
+- [[16 - Fate Gu|Fate Gu]] — a trava cuja destruição liberou os arranjos adormecidos.
+- [[06 - Refino de Gu|Refino de Gu]] — o procedimento que, aqui, é aplicado a pessoas.

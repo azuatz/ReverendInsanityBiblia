@@ -110,7 +110,7 @@ ele entregou, somando quatro dias, muito mais que isso, em parcelas.
 ## Relações
 
 - [[03 - Aptidão|Aptidão]] — o que é o teto que este caso contorna, e o que ele não contorna.
-- [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — o panorama de todas as saídas para aptidão baixa.
+- [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — o panorama de todas as saídas para aptidão baixa.
 - [[08 - O Atalho Demoníaco de Rank|O Atalho Demoníaco de Rank]] — a outra saída, que cobra a conta na própria aptidão.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — o método padrão que este caso substitui.
 - [[02 - Pedras Primordiais|Pedras Primordiais]] — a moeda que paga a conta.

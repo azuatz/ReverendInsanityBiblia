@@ -130,7 +130,7 @@ notas que se citam mutuamente.
 
 > **Achado colateral, para quem mantém o vault:** o aviso da soberana §13.3 ("Divergência
 > interna do vault, ainda não decidida: o piso da grade média") diz que
-> [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] traz a grade média como "2.000 a 4.000 km²". **Não traz
+> [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] traz a grade média como "2.000 a 4.000 km²". **Não traz
 > mais** — a nota já diz 2.700 a 4.000, batendo com a soberana. O aviso está obsoleto e
 > pode ser retirado da §13.3. Não mexi: a tabela soberana está fora do meu escopo.
 
@@ -145,7 +145,7 @@ supõe um vocabulário que a leitora ainda não tem.
 ### S5 — *Produzir Gu*: o motor da nota é "marcas de dao", que a nota nunca explica
 
 A frase-resumo já diz "terreno saturado de marcas de dao", a regra nº 2 repete, e a
-definição não chega nunca — `[[12 - Dao Marks|Dao Marks]]` só aparece na última linha das Relações. Mesmo
+definição não chega nunca — `[[16 - Dao Marks|Dao Marks]]` só aparece na última linha das Relações. Mesmo
 problema com **"abertura"**, que está no título da nota; com "terra abençoada"; e com "rank
 5 pico", onde "pico" é um estágio do sistema de cultivo que a leitora não conhece.
 
@@ -164,7 +164,7 @@ há nada marcado para apagar.
 ### S7 — *Produzir Gu* e *Economia Imortal* dão dois nomes ao mesmo porte
 
 A nota chama o topo da escala de **"Máximo (domínios reclusos de céu e terra)"** e manda a
-leitora conferir a tabela completa em `[[11 - Economia Imortal|Economia Imortal]]` — onde o mesmo degrau se chama
+leitora conferir a tabela completa em `[[15 - Economia Imortal|Economia Imortal]]` — onde o mesmo degrau se chama
 **"Pináculo"**. Quem seguir a remissão não encontra a linha que veio buscar.
 
 ### S8 — *Lugares Fora*: "três projetos", tabela com quatro linhas
@@ -366,7 +366,7 @@ Aplicadas nesta ordem, uma nota por vez, gravando a cada uma.
   **terra abençoada**, com wikilinks, antes da primeira frase que os usa.
 - Marcados com `*` a divisão fina dos três portes menores e com `(ded.)` a consequência
   econômica do tempo acelerado; o bloco dos quatro estados agora tem o que apagar.
-- O porte do topo passou a se chamar **Pináculo**, como em `[[11 - Economia Imortal|Economia Imortal]]`.
+- O porte do topo passou a se chamar **Pináculo**, como em `[[15 - Economia Imortal|Economia Imortal]]`.
 - "rank 5 pico" ganhou a explicação do que é um estágio de pico.
 
 ### `04 - Mundo/Lugares Fora das Cinco Regiões.md` (S8, S9, menores)

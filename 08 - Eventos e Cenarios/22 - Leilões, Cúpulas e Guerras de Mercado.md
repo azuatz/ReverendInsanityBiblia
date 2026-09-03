@@ -27,8 +27,8 @@ inteira — sem que ninguém saque uma arma.
 > por cento canônico.
 
 Esta nota dá **a cena**. A economia por trás dela — moedas, preços, cadeias produtivas, quem
-ganha o quê — está em [[05 - Mercados e Leilões|Mercados e Leilões]] e
-[[11 - Economia Imortal|Economia Imortal]]. Aqui interessa como é estar dentro de um desses
+ganha o quê — está em [[06 - Mercados e Leilões|Mercados e Leilões]] e
+[[15 - Economia Imortal|Economia Imortal]]. Aqui interessa como é estar dentro de um desses
 lugares, que regras valem lá, e o que um grupo de jogadores faz num salão em que ele é a pessoa
 menos poderosa presente.
 
@@ -116,7 +116,7 @@ compravam um cadáver de fera desolada, e um conjunto completo de receitas morta
 Medieval fechou em setenta.
 
 **A escala de riqueza** que dá sentido a esses preços está em
-[[11 - Economia Imortal#Riqueza típica por rank|Economia Imortal]] — algumas centenas de pedras
+[[15 - Economia Imortal#Riqueza típica por rank|Economia Imortal]] — algumas centenas de pedras
 para um rank 6, milhares a mais de dez mil para um rank 7, dezenas de milhares para um rank 8 e
 centenas de milhares para os veteranos.
 
@@ -338,7 +338,7 @@ porque **refino de Gu é o gargalo permanente do mundo**: mesmo depois de três 
 civilização, a maioria dos Gu Imortais **não consegue refinar um Gu Imortal de forma confiável nem
 com fartura de materiais**. O dado que fecha a conta: a maioria dos rank 6 não possui sequer um Gu
 Imortal de rank 6, e a maioria dos rank 7 passa a vida tentando conseguir um de rank 7 — e isso
-vale até para os Veneráveis. Ver [[05 - Refino de Gu|Refino de Gu]].
+vale até para os Veneráveis. Ver [[06 - Refino de Gu|Refino de Gu]].
 
 Uma facção passa então a oferecer **serviço aberto e pago de refino**: Gu mortal sem limite de
 quantidade, Gu Imortal até rank 8, a preço fixado, **sem distinção entre aliados e inimigos
@@ -403,20 +403,20 @@ melhor: num mercado onde ninguém tem rosto, descobrir **quem** vendeu **o quê*
 ## Relações
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — **a economia**; esta nota dá a cena.
-- [[11 - Economia Imortal|Economia Imortal]] — essência imortal, pedras de essência e a riqueza
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — **a economia**; esta nota dá a cena.
+- [[15 - Economia Imortal|Economia Imortal]] — essência imortal, pedras de essência e a riqueza
   típica de cada rank, que é o que dá sentido aos preços daqui.
 - [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] — a versão mortal e de rank
   baixo do mesmo tipo de sessão.
 - [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] — os duelos públicos com aposta
   depositada, que usam este mercado como cartório.
-- [[12 - Gu Imortais|Gu Imortais]] e [[11 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]
+- [[16 - Gu Imortais|Gu Imortais]] e [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]
   — por que um Gu Imortal alheio vale tão pouco para quem não é do caminho certo, e por que isso
   cria o mercado de trocas.
-- [[05 - Refino de Gu|Refino de Gu]] — o gargalo que o mercado aberto de refino ataca.
-- [[12 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — o mercado é a maior
+- [[06 - Refino de Gu|Refino de Gu]] — o gargalo que o mercado aberto de refino ataca.
+- [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — o mercado é a maior
   fonte de informação livre do mundo, e o melhor esconderijo dele.
-- [[16 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — empréstimos, cauções e o
+- [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]] — empréstimos, cauções e o
   contrato escrito antes do evento.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números
   do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

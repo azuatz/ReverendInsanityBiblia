@@ -134,7 +134,7 @@ rank e uso. Um Mestre Gu que os refine tem de pegá-los na mão.
 
 **A obra não descreve nenhum Gu mordendo, picando ou ferindo fisicamente o próprio dono.** O
 perigo de manejar um Gu não é o bicho atacar a mão: é o **contra-ataque de vontade** durante o
-[[05 - Refino de Gu|refino]], que atinge a mente e não a carne. Feras selvagens picam; Gu, não.
+[[06 - Refino de Gu|refino]], que atinge a mente e não a carne. Feras selvagens picam; Gu, não.
 Se a mesa quiser um Gu que morda, está inventando — o que é permitido, desde que declarado.
 
 Uma varredura do texto inteiro atrás do verbo "morder" aplicado a um Gu devolve **um único tipo
@@ -180,11 +180,11 @@ guarda objetos não anda.
 Isso vale do bicho mais banal ao mais lendário. Não existe "Gu supremo que faz tudo" — o
 poder no topo do mundo é construído **combinando** bichos, nunca encontrando um bicho
 melhor. Essa restrição é o motor de toda a complexidade do sistema: sem ela, não haveria
-fusão, nem conjuntos, nem [[07 - Killer Moves|golpes combinados]].
+fusão, nem conjuntos, nem [[08 - Killer Moves|golpes combinados]].
 
 Há **uma exceção declarada em toda a obra**, e ela é tratada como anomalia cósmica: o Gu do
 Amor, de nível 9, que tem efeitos ilimitados — e que, em compensação, ninguém consegue
-controlar (ver [[12 - Gu Imortais|Gu Imortais]]).
+controlar (ver [[16 - Gu Imortais|Gu Imortais]]).
 
 ### Escala de 1 a 9
 
@@ -193,7 +193,7 @@ Gu do próprio nível: um Gu abaixo do seu rende pouco, e um Gu acima do seu cob
 demais.
 
 Os níveis 1 a 5 formam o mundo mortal, onde vive a esmagadora maioria dos cultivadores. Do
-nível 6 em diante, tudo muda de categoria: são os [[12 - Gu Imortais|Gu Imortais]], únicos no mundo,
+nível 6 em diante, tudo muda de categoria: são os [[16 - Gu Imortais|Gu Imortais]], únicos no mundo,
 tratados em nota própria.
 
 #### O martelo grande demais: o que acontece com um Gu acima do seu nível
@@ -219,7 +219,7 @@ somam:
 
 A isso soma-se um quinto efeito, que não é de uso e sim de posse: o Gu de nível muito
 superior **pressiona a abertura por dentro** e pode rompê-la. Esse é assunto de
-[[13 - Onde um Gu Mora|Onde um Gu Mora]].
+[[04 - Onde um Gu Mora|Onde um Gu Mora]].
 
 O caso simétrico — o Gu **abaixo** do seu nível — não fere ninguém: apenas rende pouco e
 ocupa um lugar que valeria mais para outra coisa. Nos patamares altos, Gu de nível baixo
@@ -231,7 +231,7 @@ milhares por um único golpe de fabricação.
 Não são varinhas nem pergaminhos. São bichos, com tudo que isso implica:
 
 - **Têm vontade própria.** Um Gu selvagem resiste a ser dominado. É essa vontade que o
-  [[05 - Refino de Gu|refino]] existe para sobrescrever.
+  [[06 - Refino de Gu|refino]] existe para sobrescrever.
 - **Comem.** Cada espécie tem uma dieta específica, e o dono paga por ela todo mês. Ver
   [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]].
 - **Morrem.** De fome, de ferimento, de acidente de fabricação, de velhice de uso.
@@ -269,7 +269,7 @@ que essa resistência é personalizada — um Gu cujo dono odiava seu assassino 
 especificamente mais difícil de refinar **para aquele assassino**.
 
 E, no nível imortal, essa mesma vontade deixa de ser uma resistência e vira uma **trava de
-autodestruição**: ver [[12 - Gu Imortais|Gu Imortais]].
+autodestruição**: ver [[16 - Gu Imortais|Gu Imortais]].
 
 ### Selvagens contra refinados
 
@@ -314,13 +314,13 @@ sem ser rico:
   qual eles derivam se reproduz normalmente. Criar a espécie-base em cativeiro é o caminho
   barato para produzir os próprios Gu — é agricultura, não alquimia. Levada à escala
   imortal, essa agricultura vira a principal fonte de Gu do mundo: ver
-  [[12 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]].
+  [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]].
 - **Fósseis.** Um Gu que passou fome extrema pode se auto-selar numa casca de rocha e
   hibernar por séculos, virando algo indistinguível de uma pedra. Escavá-los e apostar no
   conteúdo é uma indústria inteira. Gu extraídos assim nascem fraquíssimos e quase sem
   consciência — refino trivial.
-- **Fusão e refino** — os métodos artificiais, tratados em [[06 - Fusão de Gu|Fusão de Gu]] e
-  [[05 - Refino de Gu|Refino de Gu]].
+- **Fusão e refino** — os métodos artificiais, tratados em [[07 - Fusão de Gu|Fusão de Gu]] e
+  [[06 - Refino de Gu|Refino de Gu]].
 
 ### Nem todo bicho é um Gu
 
@@ -350,7 +350,7 @@ nenhum. A imensa maioria dos insetos do mundo é apenas inseto.
 - **Qualidade varia dentro de um mesmo nível.** Dois Gu de nível 3 não são
   intercambiáveis: um pode ser considerado "de primeira linha" e o outro medíocre. Os
   critérios que o mundo usa e como se avalia um bicho antes de comprá-lo estão em
-  [[14 - Qualidade e Fraude|Qualidade e Fraude]].
+  [[13 - Qualidade e Fraude|Qualidade e Fraude]].
 - **Variantes contam como bichos distintos.** Dois Gu da mesma família com "sabor"
   ligeiramente diferente — uma formiga de fogo e uma de água, por exemplo — são
   considerados Gu **diferentes** e podem coexistir no mundo. Isso importa muito no nível
@@ -423,12 +423,12 @@ resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, loja
 
 ## Relações
 
-- [[05 - Refino de Gu|Refino de Gu]] — como um Gu selvagem vira "seu".
+- [[06 - Refino de Gu|Refino de Gu]] — como um Gu selvagem vira "seu".
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o custo de mantê-lo vivo.
-- [[06 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem para níveis mais altos.
-- [[04 - Gu Vital|Gu Vital]] — o Gu ligado à própria vida do Mestre.
-- [[12 - Gu Imortais|Gu Imortais]] — o que muda a partir do nível 6.
-- [[13 - Onde um Gu Mora|Onde um Gu Mora]] — onde o bicho fica guardado e quantos cabem.
-- [[14 - Qualidade e Fraude|Qualidade e Fraude]] — como se distingue um bom Gu de um ruim, e um verdadeiro de um falso.
+- [[07 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem para níveis mais altos.
+- [[05 - Gu Vital|Gu Vital]] — o Gu ligado à própria vida do Mestre.
+- [[16 - Gu Imortais|Gu Imortais]] — o que muda a partir do nível 6.
+- [[04 - Onde um Gu Mora|Onde um Gu Mora]] — onde o bicho fica guardado e quantos cabem.
+- [[13 - Qualidade e Fraude|Qualidade e Fraude]] — como se distingue um bom Gu de um ruim, e um verdadeiro de um falso.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como Gu se agrupam em famílias temáticas.
 - [[04 - Essência Primordial|Essência Primordial]] — a energia que aciona todos eles.

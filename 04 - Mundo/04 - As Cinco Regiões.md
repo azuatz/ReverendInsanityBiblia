@@ -68,7 +68,7 @@ podem saber na primeira sessão, e o que precisa ser descoberto.
 |---|---|---|
 | **1. O efeito** | Atravessar a parede enfraquece: você chega valendo um rank a menos, e seus Gu ficam assim para sempre. | `comum` — todo mundo. É senso comum de viajante, como saber que existe alfândega. |
 | **2. A causa** | Cada região tem uma **veia de terra** própria, cada veia produz uma energia de sabor distinto, e a parede é a faixa de turbulência onde duas energias vizinhas se encontram. | `especializado` — anciãos de clã, estudiosos, imortais. Explica por que a "nacionalidade" de um Gu é onde ele foi refinado. |
-| **3. A identidade** | Parede e **maré de qi** são o *mesmo fenômeno em dois estados*: a parede é a maré congelada; a maré é a parede derretendo. | `segredo` — pouquíssimos. Ver [[13 - Cosmologia#Marés de qi]]. |
+| **3. A identidade** | Parede e **maré de qi** são o *mesmo fenômeno em dois estados*: a parede é a maré congelada; a maré é a parede derretendo. | `segredo` — pouquíssimos. Ver [[17 - Cosmologia#Marés de qi]]. |
 
 O degrau 3 é o que dá o arrepio, e vale explicitá-lo: um cultivador do degrau 2 entende
 perfeitamente por que a parede existe e ainda assim **não faz ideia de que a catástrofe
@@ -91,7 +91,7 @@ frase.
 - **A "nacionalidade" de um Gu é o lugar onde ele foi refinado**, não a origem dos materiais nem do refinador. Um Gu refinado localmente com materiais importados nasce reconhecido pela região e não sofre supressão nenhuma. Por isso o procedimento padrão de qualquer infiltrado é **trocar todo o seu arsenal por equipamento local** ao chegar: melhora o desempenho e serve de disfarce ao mesmo tempo.
 - **A dificuldade de atravessar cresce brutalmente com o rank.** Um cultivador de rank 4 leva alguns minutos; a travessia mata cultivadores de rank 7; para um rank 8 a dificuldade é descrita como incontáveis vezes pior. O mundo é permeável para os fracos e quase sólido para os fortes.
 - **A parede se regenera atrás do viajante** e tem polaridade: a parede do destino *atrai* nativos que estão voltando para casa, enquanto a parede de origem *rejeita* quem está saindo. Voltar é sempre mais fácil que partir.
-- **O que a parede restringe são cultivadores, não objetos.** Um Gu Imortal desacompanhado atravessa livremente. E há uma exceção unificadora importante: **nada que esteja vinculado aos nove céus imemoriais é restringido** — os dois céus remanescentes cobrem as cinco regiões por cima, e quem viaja por eles não toca a parede. É por isso que certas construções e criaturas ligadas aos céus circulam pelo mundo como se as fronteiras não existissem. Ver [[13 - Cosmologia|Cosmologia]].
+- **O que a parede restringe são cultivadores, não objetos.** Um Gu Imortal desacompanhado atravessa livremente. E há uma exceção unificadora importante: **nada que esteja vinculado aos nove céus imemoriais é restringido** — os dois céus remanescentes cobrem as cinco regiões por cima, e quem viaja por eles não toca a parede. É por isso que certas construções e criaturas ligadas aos céus circulam pelo mundo como se as fronteiras não existissem. Ver [[17 - Cosmologia|Cosmologia]].
 - **Existem atalhos.** Um método imortal de teletransporte fixo ignora inteiramente o problema. E no Mar Oriental existe uma *maré de terra* anual que afina temporariamente a parede — as rotas mapeadas durante a maré são mercadoria cara e com prazo de validade, porque as forças de maré mudam.
 
 > [!note] Para o design
@@ -105,7 +105,7 @@ Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cad
 
 **Geografia e caráter.** A maior e mais rica das cinco. A energia ambiente é a mais densa do mundo, o que significa que um cultivador nascido ali avança mais rápido e mais longe do que um nascido em qualquer outro lugar, com o mesmo esforço. É o centro civilizacional: onde estão as bibliotecas, as academias de refino e a maior cidade mortal do mundo.
 
-**Cultura e política.** É a **única das cinco regiões dominada por seitas** em vez de clãs de sangue. Isso muda tudo: nas outras quatro regiões, o seu lugar no mundo é decidido pelo sobrenome com que você nasceu; no Continente Central, ele é decidido por qual instituição te aceitou. Dez grandes seitas ancestrais controlam a maior parte dos recursos da região, e todas as dez descendem de uma única origem comum — o [[15 - Tribunal Celestial|Tribunal Celestial]], que as suserana de longe.
+**Cultura e política.** É a **única das cinco regiões dominada por seitas** em vez de clãs de sangue. Isso muda tudo: nas outras quatro regiões, o seu lugar no mundo é decidido pelo sobrenome com que você nasceu; no Continente Central, ele é decidido por qual instituição te aceitou. Dez grandes seitas ancestrais controlam a maior parte dos recursos da região, e todas as dez descendem de uma única origem comum — o [[19 - Tribunal Celestial|Tribunal Celestial]], que as suserana de longe.
 
 **Marcos.** A montanha número um do mundo, com mais de três mil quilômetros de altura, coberta de túmulos e heranças de buscadores de imortalidade e visitada anualmente por levas de herdeiros. Uma terra sagrada dedicada aos mestres refinadores. E um rio celeste que corre pelo alto, cuja correnteza diurna resiste até aos cultivadores mais fortes.
 
@@ -120,7 +120,7 @@ Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cad
 **Cultura e política.** Tribos nômades organizadas por linhagem, com gestão descentralizada e caótica — o que torna a região fácil de infiltrar e difícil de conquistar. Tem a **maior densidade de Mestres Gu de combate do mundo**, forjados por guerra endêmica, e é a segunda região mais forte: a única capaz de resistir a uma invasão do Continente Central e revidar. Curiosamente, é também a região com **menos** imortais de rank 8 e a menor mortalidade entre imortais — muita gente forte na base, pouca no topo.
 
 > [!warning] O que a região não sabe sobre o próprio clima
-> `conhecimento: segredo` — A nevasca decenal não é meteorologia. É o desastre periódico que atingiria um mundo privado de escala colossal, deliberadamente **desviado para o mundo externo** por um artefato do caminho da sorte. Pior: a nevasca funciona como mecanismo de saque, destruindo nascentes e recolhendo Gu de toda a região, que depois reaparecem como recompensas dentro de uma construção pertencente a uma única linhagem. Uma região inteira é sistematicamente ordenhada por um desastre natural que não é natural. Ver [[11 - Vontade dos Céus|Vontade dos Céus]].
+> `conhecimento: segredo` — A nevasca decenal não é meteorologia. É o desastre periódico que atingiria um mundo privado de escala colossal, deliberadamente **desviado para o mundo externo** por um artefato do caminho da sorte. Pior: a nevasca funciona como mecanismo de saque, destruindo nascentes e recolhendo Gu de toda a região, que depois reaparecem como recompensas dentro de uma construção pertencente a uma única linhagem. Uma região inteira é sistematicamente ordenhada por um desastre natural que não é natural. Ver [[15 - Vontade dos Céus|Vontade dos Céus]].
 
 ### Deserto Ocidental
 
@@ -179,7 +179,7 @@ Consumada a Grande Era, o mundo muda de estado:
 - **As paredes desaparecem por completo** e o trânsito de pessoas entre as antigas regiões fica livre de qualquer barreira.
 - **Ninguém é mais nativo de lugar nenhum.** Antes, o nativo de uma região era imune à restrição da própria região. Com a energia das cinco se misturando, a energia combinada não é idêntica a nenhuma das cinco antigas — e por isso **nenhum cultivador, de nenhuma origem, escapa mais da restrição**. Um mundo sem fronteiras em que todos são estrangeiros.
 - **As auras regionais somem.** Não se identifica mais a origem de um desconhecido pela aura.
-- **Chegam as marés de qi.** A diferença de energia entre regiões, antes congelada nas paredes, descongela e vira ondas violentas que varrem o mundo inteiro. Ver [[13 - Cosmologia#Marés de qi]].
+- **Chegam as marés de qi.** A diferença de energia entre regiões, antes congelada nas paredes, descongela e vira ondas violentas que varrem o mundo inteiro. Ver [[17 - Cosmologia#Marés de qi]].
 - **As veias subterrâneas se movem**, e toda formação mágica antiga ancorada na posição *original* de uma veia perde sustentação e se rompe. Toda a infraestrutura mágica herdada do mundo antigo passa a ter data de validade.
 - **Uma parede sobrevive**: a muralha de energia que separa a terra dos dois céus continua de pé.
 
@@ -216,9 +216,9 @@ descreve o **mundo dividido** — se você adotar o mundo unificado, substitua a
 ## Relações
 
 - [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] — o mesmo mapa em nível de chão: paisagem, clima, lugares com nome, fauna e recursos de cada uma das cinco.
-- [[14 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — o resto do mundo. "Cinco regiões" é o mapa habitado, não o mapa completo: acima, abaixo e por dentro dele há territórios maiores que as próprias regiões, e vários deles não obedecem à penalidade de rank descrita aqui.
-- [[06 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto tempo e quanto dinheiro custa cruzar uma dessas regiões, e como se atravessa uma parede na prática.
-- [[13 - Cosmologia|Cosmologia]] — os dois céus por cima das cinco regiões, as veias de céu, terra e humanos, e as marés de qi.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos privados que os imortais carregam, independentes da geografia regional.
-- [[15 - Tribunal Celestial|Tribunal Celestial]] — a instituição do Continente Central cujo alcance é limitado justamente pelas paredes regionais.
+- [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — o resto do mundo. "Cinco regiões" é o mapa habitado, não o mapa completo: acima, abaixo e por dentro dele há territórios maiores que as próprias regiões, e vários deles não obedecem à penalidade de rank descrita aqui.
+- [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — quanto tempo e quanto dinheiro custa cruzar uma dessas regiões, e como se atravessa uma parede na prática.
+- [[17 - Cosmologia|Cosmologia]] — os dois céus por cima das cinco regiões, as veias de céu, terra e humanos, e as marés de qi.
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — os mundos privados que os imortais carregam, independentes da geografia regional.
+- [[19 - Tribunal Celestial|Tribunal Celestial]] — a instituição do Continente Central cujo alcance é limitado justamente pelas paredes regionais.
 - [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] — a nota-porta desta pasta.

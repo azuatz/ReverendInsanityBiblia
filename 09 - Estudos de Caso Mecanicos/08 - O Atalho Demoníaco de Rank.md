@@ -18,7 +18,7 @@ dedução nossa a partir do que a obra afirma; `*` = invenção nossa; `—` = a
 informa. Apagar tudo marcado com `*` devolve a nota a cem por cento canônico.
 
 **A regra que este caso ilustra:** existem rituais do
-[[05 - Caminho Correto e Caminho Demoníaco|caminho demoníaco]] que forçam a travessia de um
+[[06 - Caminho Correto e Caminho Demoníaco|caminho demoníaco]] que forçam a travessia de um
 rank inteiro **sem que o cultivador tenha aptidão para isso** — ao preço de um dano
 permanente. Este é o gancho de progressão mais bem desenhado do cenário: ==um atalho que
 funciona, que quase qualquer um pode pagar, e que cobra uma estatística que não volta==.
@@ -107,6 +107,6 @@ de **2 pontos percentuais**, **irrecuperável**.
 ## Relações
 
 - [[07 - Romper o Rank 2 por Teimosia e Pedras|Romper o Rank 2 por Teimosia e Pedras]] — a via legal, que troca potência por tempo em vez de por aptidão.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — o que exatamente separa os dois campos, e por que este método está de um lado só.
-- [[07 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — todas as saídas conhecidas, lado a lado.
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — o que exatamente separa os dois campos, e por que este método está de um lado só.
+- [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — todas as saídas conhecidas, lado a lado.
 - [[03 - Aptidão|Aptidão]] — a estatística que este ritual gasta.

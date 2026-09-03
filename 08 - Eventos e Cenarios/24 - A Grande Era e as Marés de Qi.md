@@ -389,13 +389,13 @@ mesa é este:
 - [[04 - As Cinco Regiões|As Cinco Regiões]] e
   [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] — a geografia que este evento
   desmancha, e as paredes regionais nomeadas uma a uma.
-- [[19 - O Subsolo|O Subsolo]] — as veias da terra e o mundo de baixo, onde nascem as Dez
+- [[06 - O Subsolo|O Subsolo]] — as veias da terra e o mundo de baixo, onde nascem as Dez
   Terras.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as aberturas
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as aberturas
   imortais que as marés desestabilizam e as grutas-céus que o fruto da colheita mata.
-- [[20 - Qi Path|Qi Path]] — o caminho que a nova era favorece, e o único que sabe remover
+- [[05 - Qi Path|Qi Path]] — o caminho que a nova era favorece, e o único que sabe remover
   um fruto.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — a escada de provações
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — a escada de provações
   contra a qual o rendimento do fruto se mede.
 - [[25 - A Guerra do Destino|A Guerra do Destino]] — a guerra que só se tornou fisicamente
   possível porque as paredes estavam afinando.
@@ -403,7 +403,7 @@ mesa é este:
   camada de mudança ambiental, que vem depois desta.
 - [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] — o estado do cenário
   quando tudo isto já aconteceu.
-- [[09 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — onde a Grande Era se encaixa na
+- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — onde a Grande Era se encaixa na
   cronologia do mundo.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**; em caso de divergência com qualquer número citado aqui, aquela nota

@@ -75,11 +75,11 @@ As regras de um pacto de guerra, tal como assinadas no cânone. Uma mesa pode us
 4. **Todo Gu retirado de um cadáver deve ser entregue.** Usar em segredo um Gu tirado de um morto é
    **tratado como assassinato**. Entregue, ele é convertido em pontos de mérito. A regra existe
    porque o espólio é o maior incentivo que há para matar o próprio aliado — ver
-   [[10 - Espólio de Gu|Espólio de Gu]].
+   [[14 - Espólio de Gu|Espólio de Gu]].
 5. **O juramento pode ser mágico.** Em escalas maiores, a aliança é selada com **Gu de Juramento
    Venenoso**, o que dá confiança real entre inimigos históricos — e é justamente por isso que
    existe um mercado para os Gu raríssimos que **anulam juramentos**. Ver
-   [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
+   [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].
 6. **Demonstração de força é moeda, não vaidade.** A obra faz a analogia direta: *"na Terra há
    exercícios militares para exibir força; neste mundo há **contendas de Gu** para exibir a força de
    uma facção e conquistar benefícios maiores."* Um feito notável de um membro — ter afugentado uma
@@ -94,7 +94,7 @@ As regras de um pacto de guerra, tal como assinadas no cânone. Uma mesa pode us
    não tem nada a oferecer.
 9. **Quanto maior a força que você traz, maior a sua voz.** Não é metáfora: quem chega com um bando
    de bestas escravizadas tem literalmente mais autoridade na mesa. Ver
-   [[06 - Enslavement Path|Enslavement Path]].
+   [[07 - Enslavement Path|Enslavement Path]].
 10. **Reféns e casamentos são fichas legítimas.** Numa assembleia tribal, oferecer um parente como
     refém ou selar um casamento é uma jogada normal de negociação, feita à mesa e por escrito.
 
@@ -396,17 +396,17 @@ completa.
   fracassa e o palco decide.
 - [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] — o calendário
   regional em que a assembleia dos heróis é apenas a primeira fase.
-- [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o juramento venenoso, e
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o juramento venenoso, e
   como se quebra um.
-- [[14 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado, abastecido e
+- [[10 - Guerra Organizada|Guerra Organizada]] — como um exército deste mundo é montado, abastecido e
   gasto.
-- [[10 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o direito interno de um clã, que o pacto de
+- [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]] — o direito interno de um clã, que o pacto de
   aliança suspende e substitui.
-- [[02 - Clãs|Clãs]] e [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem senta à
+- [[02 - Clãs|Clãs]] e [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — quem senta à
   mesa.
-- [[09 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — os povos variantes da
+- [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — os povos variantes da
   escala 4 e a desigualdade que os une.
-- [[08 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os sistemas de mérito
+- [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]] — os sistemas de mérito
   vistos do lado econômico.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do
   sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota vence.

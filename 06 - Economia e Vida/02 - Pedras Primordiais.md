@@ -380,7 +380,7 @@ mesmo pelo valor cheio.
 > com essas três categorias**. Os dois valores em negrito acima são do texto; a moldura que
 > os organiza é deste vault. Se a sua mesa precisa de uma tabela de consequências, esta
 > funciona e é coerente com tudo o mais; só não a apresente como regra citável da obra.
-> Ver também [[02 - Clãs|Clãs]] e [[04 - Vida Cotidiana|Vida Cotidiana]].
+> Ver também [[02 - Clãs|Clãs]] e [[10 - Vida Cotidiana|Vida Cotidiana]].
 
 ## Preço de Gu por rank
 
@@ -420,7 +420,7 @@ Três observações que valem mais que a tabela:
 
 E acima de tudo isso: **receita vale mais que exemplar**. Saber produzir um Gu vale ordens
 de magnitude mais que possuir um pronto — o recorde histórico de leilão de uma
-cidade-mercado inteira foi uma receita, não um item. Ver [[05 - Mercados e Leilões|Mercados e Leilões]].
+cidade-mercado inteira foi uma receita, não um item. Ver [[06 - Mercados e Leilões|Mercados e Leilões]].
 
 ## Preços de referência para uma mesa
 
@@ -428,11 +428,11 @@ cidade-mercado inteira foi uma receita, não um item. Ver [[05 - Mercados e Leil
 > Esta nota guarda as **âncoras** — a dúzia de números que calibram todo o resto. O
 > **catálogo completo**, com mais de cem preços organizados por categoria, as tabelas de
 > renda, a curva de inflação de um insumo durante uma crise e o custo de vida por
-> patamar, está em [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — é lá que você vai quando precisar
+> patamar, está em [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — é lá que você vai quando precisar
 > montar uma planilha, e as duas notas não se contradizem porque a de lá foi montada a
 > partir desta.
 >
-> Onde qualquer nota da pasta divergir de [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], **a de lá vence**, por
+> Onde qualquer nota da pasta divergir de [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], **a de lá vence**, por
 > ser a mais completa e a mais recentemente conferida contra o texto. Para os números do
 > sistema de cultivo (aptidão, ranks, dao marks, refino), a soberana é outra:
 > [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
@@ -525,7 +525,7 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
   primordiais.
 - **Acima do rank 6, esta moeda deixa de importar.** Um cultivador imortal pode ter bilhões
   de pedras primordiais e ainda assim não comprar nada de que precise, porque a camada imortal
-  usa outra moeda inteiramente. Ver [[11 - Economia Imortal|Economia Imortal]].
+  usa outra moeda inteiramente. Ver [[15 - Economia Imortal|Economia Imortal]].
 
 > [!example] Caso mecânico
 > Um clã descobre que sua nascente espiritual está secando e mantém o fato em segredo
@@ -551,20 +551,20 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 > Traduzido para uma mesa: **o dinheiro deste mundo tem opinião**, e todo mundo o injeta na
 > própria cabeça várias vezes por semana. É o gancho de horror cósmico mais barato e mais
 > devastador do cenário — e não exige nenhuma regra nova, só que o mestre saiba disso e os
-> jogadores não. Ver [[11 - Vontade dos Céus|Vontade dos Céus]].
+> jogadores não. Ver [[15 - Vontade dos Céus|Vontade dos Céus]].
 
 ## Relações
 
 - [[01 - Visão Geral da Economia|Visão Geral da Economia]] — o quadro geral em que esta moeda opera.
-- [[13 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o catálogo completo de preços, a renda e o custo de vida.
-- [[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — como se conseguem essas pedras.
-- [[05 - Mercados e Leilões|Mercados e Leilões]] — onde elas mudam de mãos.
-- [[11 - Economia Imortal|Economia Imortal]] — a moeda que substitui esta a partir do rank 6.
+- [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — o catálogo completo de preços, a renda e o custo de vida.
+- [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — como se conseguem essas pedras.
+- [[06 - Mercados e Leilões|Mercados e Leilões]] — onde elas mudam de mãos.
+- [[15 - Economia Imortal|Economia Imortal]] — a moeda que substitui esta a partir do rank 6.
 - [[02 - Clãs|Clãs]] — a nascente espiritual como base territorial de toda organização.
-- [[04 - Vida Cotidiana|Vida Cotidiana]] — o que essas quantias significam para quem não cultiva.
+- [[10 - Vida Cotidiana|Vida Cotidiana]] — o que essas quantias significam para quem não cultiva.
 - [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] — por que uma moeda que também é combustível de cultivo faz do
   recurso escasso o motor de todos os conflitos do cenário.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — o que vem de carona dentro de cada pedra absorvida (leitura de
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — o que vem de carona dentro de cada pedra absorvida (leitura de
   mestre).
 
 [^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para

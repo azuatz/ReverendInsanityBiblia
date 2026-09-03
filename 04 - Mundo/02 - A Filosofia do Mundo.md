@@ -34,7 +34,7 @@ premia ninguém por usá-la.
 > Gu; quem tem uma é um **Mestre Gu**, quem não tem é um mortal comum. **[[05 - Ranks e Avanço|Rank]]**
 > é o degrau de poder, do 1 ao 9, e do 6 em diante a pessoa é chamada de imortal. **Terra
 > abençoada** é o mundo em miniatura que um imortal carrega dentro de si e onde mora
-> (ver [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]). E **[[02 - Pedras Primordiais|pedra primordial]]** é a
+> (ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]]). E **[[02 - Pedras Primordiais|pedra primordial]]** é a
 > moeda — que, como se verá na seção 2, é a mesma substância que o combustível.
 
 ## Por que esta nota existe
@@ -103,7 +103,7 @@ melhor.
 **Cultivar consome, sempre.** Este é o ponto que separa Reverend Insanity de cenários de
 magia em que o poder, uma vez adquirido, é seu. Aqui não existe patamar estável: os
 [[03 - Usar e Alimentar Gu|Gu comem e morrem se não forem alimentados]], o
-[[05 - Refino de Gu|refino]] — a operação de fabricar um Gu novo — queima materiais e falha,
+[[06 - Refino de Gu|refino]] — a operação de fabricar um Gu novo — queima materiais e falha,
 avançar de estágio exige insumo, a terra abençoada precisa ser mantida, e as provações cobram
 periodicamente.
 A obra é seca a respeito — **um imortal não consegue cultivar sem recursos**, e sem eles
@@ -113,7 +113,7 @@ A obra é seca a respeito — **um imortal não consegue cultivar sem recursos**
 inteira do mundo: quem está fora do sistema não tem acesso aos recursos do clã, e sem
 recursos o cultivo simplesmente **para**. É por isso que a divisão do mundo em facções é, no
 fundo, uma divisão sobre **modos de obter recurso** — pertencer, tomar ou negociar — e não
-sobre bem e mal. Ver [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
+sobre bem e mal. Ver [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
 **A moeda é literalmente combustível.** Aqui está o detalhe que amarra economia e metafísica
 neste mundo, e que não tem equivalente na maioria dos cenários: a ==pedra primordial== é ao
@@ -125,8 +125,8 @@ Dinheiro e poder não são coisas trocáveis uma pela outra — são **a mesma s
 Some as quatro afirmações e o cenário se fecha sobre si mesmo: o poder exige consumo
 contínuo, o consumo exige recurso, o recurso é finito e o acesso a ele é mediado por
 instituições. **Ambição, neste mundo, não é vício de caráter — é a única forma de não
-regredir.** Ver [[02 - Pedras Primordiais|Pedras Primordiais]], [[11 - Economia Imortal|Economia Imortal]] e
-[[03 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
+regredir.** Ver [[02 - Pedras Primordiais|Pedras Primordiais]], [[15 - Economia Imortal|Economia Imortal]] e
+[[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]].
 
 > [!note] Para o design
 > Esta é a razão pela qual o cenário funciona bem como RPG **sem precisar de vilões**. O
@@ -247,7 +247,7 @@ e previsibilidade é uma alavanca para quem quiser usá-la.
 > acaba recebendo uma herança de Mestre Gu Imortal precisamente por essa qualidade. Não é o
 > universo pagando — é alguém que reparou nela, esperou e decidiu. A leitura completa dessa
 > cena, pelo lado da bondade que funciona, está em
-> [[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]], na posição "bondade prática". As duas notas dizem
+> [[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]], na posição "bondade prática". As duas notas dizem
 > a mesma coisa por lados opostos: **bondade ingênua é suicídio, bondade competente é cara e
 > às vezes é paga — por gente, tarde.**
 
@@ -273,8 +273,8 @@ enuncia as duas metades separadamente; a síntese é nossa. É por
 isso que a tribulação — o desastre periódico que o mundo manda contra quem ficou poderoso
 demais — é proporcional ao que a pessoa acumulou — quanto mais funda a base, mais
 forte o desastre que vem cobrar. O desejo humano não é um pecado moral neste mundo. É uma
-**força física em oposição a outra força física**. Ver [[11 - Vontade dos Céus|Vontade dos Céus]] e
-[[10 - Tribulações e Calamidades|Tribulações e Calamidades]].
+**força física em oposição a outra força física**. Ver [[15 - Vontade dos Céus|Vontade dos Céus]] e
+[[13 - Tribulações e Calamidades|Tribulações e Calamidades]].
 
 ## 8. O que todo mundo quer
 
@@ -290,7 +290,7 @@ do tamanho dele — e isso é uma tabela de motivação de PNJ pronta.
 **Pela economia.** O que é caro revela o que se quer. E o bem mais caro deste mundo não é
 poder: é **tempo de vida**. Os Gu que concedem longevidade são a moeda forte absoluta entre
 imortais, acima da moeda oficial; em transações de alto nível, dinheiro simplesmente não
-compra, e só se aceita tempo. Não existe imortal que não os queira. Ver [[09 - Longevidade|Longevidade]].
+compra, e só se aceita tempo. Não existe imortal que não os queira. Ver [[12 - Longevidade|Longevidade]].
 
 Há aqui uma inversão que vale ouro para o desenho de progressão: **o valor da vida aumenta com
 o poder.** Mestres Gu mortais, que não sabem o quanto o tempo vale, queimam anos de vida em
@@ -345,7 +345,7 @@ ninguém.
 
 `conhecimento: segredo` — a mitologia é pública, mas esta leitura dela não é.
 
-A cena que dá nome à obra está dentro das [[08 - Lendas de Ren Zu|Lendas de Ren Zu]], o ciclo
+A cena que dá nome à obra está dentro das [[12 - Lendas de Ren Zu|Lendas de Ren Zu]], o ciclo
 mitológico que toda criança do mundo ouve. Nela, o primeiro humano pergunta a três grupos de
 animais por que eles buscam a liberdade, e cada grupo lhe responde a mesma coisa: *você é
 humano; deve se conformar à sua natureza e não se entregar a fantasias*. Os peixes acrescentam
@@ -379,7 +379,7 @@ ontológico como se fosse um dever moral.
 
 A antropologia deste mundo não é opinião de personagem: está no texto sagrado que todos
 conhecem. Vale isolar três teses dele, porque são a base de tudo o que veio acima. O ciclo
-completo está em [[08 - Lendas de Ren Zu|Lendas de Ren Zu]].
+completo está em [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 
 **O humano é o animal fraco.** O primeiro homem não tinha corpo duro como rocha nem presas e
 garras de fera. Estava no fundo da cadeia alimentar e mal sobrevivia. Não há nada de nobre na
@@ -446,15 +446,15 @@ impede que se pare de andar.
 ## Relações
 
 - [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] — a estrutura física e cosmológica em que esta filosofia opera.
-- [[11 - Vontade dos Céus|Vontade dos Céus]] — a lei de nivelamento, que é o lado mecânico da seção 7.
-- [[08 - Lendas de Ren Zu|Lendas de Ren Zu]] — o texto sagrado de onde sai a antropologia do mundo.
-- [[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — como a cobrança do universo se manifesta em jogo.
-- [[09 - Longevidade|Longevidade]] — o bem supremo, e a economia que gira em torno dele.
-- [[11 - Ascensão Imortal|Ascensão Imortal]] — a aposta que a seção 8 discute.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — como a ausência de justiça cósmica se organiza em
+- [[15 - Vontade dos Céus|Vontade dos Céus]] — a lei de nivelamento, que é o lado mecânico da seção 7.
+- [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o texto sagrado de onde sai a antropologia do mundo.
+- [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — como a cobrança do universo se manifesta em jogo.
+- [[12 - Longevidade|Longevidade]] — o bem supremo, e a economia que gira em torno dele.
+- [[14 - Ascensão Imortal|Ascensão Imortal]] — a aposta que a seção 8 discute.
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — como a ausência de justiça cósmica se organiza em
   facções.
 - [[03 - Aptidão|Aptidão]] — a distribuição de talento que ignora mérito.
-- [[04 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — as onze respostas que as pessoas do mundo dão a
+- [[05 - Tipos de Gente e Filosofias de Vida|Tipos de Gente e Filosofias de Vida]] — as onze respostas que as pessoas do mundo dão a
   esta filosofia, e quem defende cada uma.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números do vault, para quando esta
   nota mencionar uma escala em palavras.

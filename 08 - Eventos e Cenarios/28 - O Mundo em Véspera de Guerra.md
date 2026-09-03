@@ -130,8 +130,8 @@ oferece a coisa que o dinheiro normalmente não compra.
 O modelo comercial vem completo: taxa de adesão, desconto de vinte por cento para membros,
 promoções de emergência quando um desastre despeja material no mercado, e cotas usadas como
 alavanca para pressionar clãs a aderirem inteiros. Ver
-[[11 - Economia Imortal|Economia Imortal]] e
-[[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
+[[15 - Economia Imortal|Economia Imortal]] e
+[[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
 
 ## A pilhagem como desastre
 
@@ -372,19 +372,19 @@ Como o estado não se resolve na obra, o leque é inteiramente da designer:
   ambiental que convive com este estado político.
 - [[25 - A Guerra do Destino|A Guerra do Destino]] — a guerra que de fato acontece, e que
   precede este período.
-- [[07 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] e
-  [[08 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — as
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] e
+  [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — as
   organizações que este realinhamento reorganiza.
-- [[05 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a
+- [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] — a
   distinção que aqui perde o sentido prático e vira moeda.
-- [[11 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o que substitui
+- [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o que substitui
   o juramento quando as alianças viram contrato.
-- [[23 - Human Path|Human Path]] — o caminho que faz os mundos-pintura funcionarem como
+- [[24 - Human Path|Human Path]] — o caminho que faz os mundos-pintura funcionarem como
   sociedade, com profissões e sindicatos.
-- [[11 - Economia Imortal|Economia Imortal]] e
-  [[10 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — a economia por
+- [[15 - Economia Imortal|Economia Imortal]] e
+  [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — a economia por
   trás do mercado aberto de refino.
-- [[14 - Guerra Organizada|Guerra Organizada]] — como se monta um exército neste mundo, para
+- [[10 - Guerra Organizada|Guerra Organizada]] — como se monta um exército neste mundo, para
   a guerra que talvez venha.
 - [[29 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] — os precedentes que os
   personagens deste período citam quando calculam o que fazer.

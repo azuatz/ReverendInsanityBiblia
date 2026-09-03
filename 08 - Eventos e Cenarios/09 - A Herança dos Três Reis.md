@@ -29,7 +29,7 @@ você tem e ficar com um único inseto de rank 1==.
 > | | |
 > |---|---|
 > | **Tipo** | abertura de herança tripla dentro de uma terra abençoada moribunda; vira corrida do ouro e depois guerra aberta |
-> | **Onde** | a montanha San Cha, na [[01 - Fronteira Sul\|Fronteira Sul]], entre os territórios de dois clãs que a disputavam havia cem anos |
+> | **Onde** | a montanha San Cha, na [[02 - Fronteira Sul|Fronteira Sul]], entre os territórios de dois clãs que a disputavam havia cem anos |
 > | **Quando** | evento único; a maior coisa a acontecer na região em cinquenta ou sessenta anos |
 > | **Duração** | meses de disputa aberta; na contagem que a obra registra, **meio ano** até alguém chegar ao fim, com incontáveis mortes |
 > | **Escala de poder** | massa de rank 3 e 4; rank 4 pico é o teto normal; rank 5 aparece na fase final |
@@ -52,7 +52,7 @@ termina como uma guerra entre potências.
 ## Por que acontece
 
 Uma **terra abençoada** — o mundo privado em miniatura que todo Gu Imortal carrega, explicado
-em [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — foi deixada por um
+em [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — foi deixada por um
 imortal antiquíssimo. Três Gu Masters de rank 5, os "três reis", herdaram-na muito depois e a
 **remodelaram como terreno de herança**: cada um dos três reformou um pedaço para filtrar um
 sucessor à sua própria imagem.
@@ -69,7 +69,7 @@ não havia dono.
 E há a causa de fundo, que é a mais importante para o mestre, porque é ela que dá o relógio:
 **a terra abençoada está morrendo**. Toda terra abençoada enfrenta uma calamidade a cada dez
 anos e uma tribulação a cada cem — o calendário está em
-[[10 - Tribulações e Calamidades|Tribulações e Calamidades]] — e o que prolonga a vida de uma
+[[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — e o que prolonga a vida de uma
 delas é o **espírito da terra**, a consciência do lugar. Esta não tem espírito. A obra dá a
 imagem exata: **uma terra abençoada sem espírito é um barco enorme afundando** — qualquer um
 entra e saqueia, e quanto mais se saqueia, maiores os buracos e mais rápido ele afunda. Restam
@@ -223,8 +223,8 @@ Concretamente, pelo que se sabe dos três:
 
 | Rei | Chave de entrada | O que ele era | O que deixou |
 |---|---|---|---|
-| **Rei do cão** | Gu de escravização de cães, rank 1 | mestre do [[06 - Enslavement Path\|caminho da escravização]] | ao menos **três** Gu de escravização de rank 5 — com eles se domina um rei-fera de miríade e se comanda um exército |
-| **Rei do grou** | Gu de grou de papel, rank 2 | mestra do [[07 - Refinement Path\|refino]] | um conjunto próprio de Gu de **informação**, criados por ela a partir de um Gu vulgar de rank 2 |
+| **Rei do cão** | Gu de escravização de cães, rank 1 | mestre do [[07 - Enslavement Path|caminho da escravização]] | ao menos **três** Gu de escravização de rank 5 — com eles se domina um rei-fera de miríade e se comanda um exército |
+| **Rei do grou** | Gu de grou de papel, rank 2 | mestra do [[08 - Refinement Path|refino]] | um conjunto próprio de Gu de **informação**, criados por ela a partir de um Gu vulgar de rank 2 |
 | **Rei do ovo** | Gu de ovo explosivo, rank 1 | explosão pura | — a obra não detalha |
 
 E, por baixo dos três, o prêmio que ninguém esperava: o lugar **é uma terra abençoada de Gu
@@ -309,13 +309,13 @@ mudam o desfecho do evento.
 - [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] — o
   calendário de calamidades, o espírito da terra e o vento da assimilação, que são o relógio
   deste evento.
-- [[09 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é a terra
+- [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é a terra
   abençoada que está morrendo aqui.
-- [[06 - Enslavement Path|Caminho da Escravização]] e
-  [[07 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a mecânica de dominar animais e a
+- [[07 - Enslavement Path|Caminho da Escravização]] e
+  [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a mecânica de dominar animais e a
   hierarquia de reis-fera que a masmorra usa como escada de dificuldade.
-- [[10 - Espólio de Gu|Espólio de Gu]] — o que se ganha ao entrar na abertura de quem caiu.
-- [[01 - Fronteira Sul|Fronteira Sul]] — a região onde isto acontece e os clãs que se enfrentam
+- [[14 - Espólio de Gu|Espólio de Gu]] — o que se ganha ao entrar na abertura de quem caiu.
+- [[02 - Fronteira Sul|Fronteira Sul]] — a região onde isto acontece e os clãs que se enfrentam
   na montanha.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

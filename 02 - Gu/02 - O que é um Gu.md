@@ -6,7 +6,7 @@ aliases:
   - Wild Gu
   - Gu selvagem
 status: consolidado
-fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 129", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1038", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108", "cap. 40", "cap. 44", "cap. 46", "cap. 57", "cap. 62", "cap. 63", "cap. 109", "cap. 113", "cap. 156", "cap. 165", "cap. 177", "cap. 268", "cap. 278", "cap. 297", "cap. 312", "cap. 315", "cap. 358", "cap. 400", "cap. 443", "cap. 448", "cap. 496", "cap. 505", "cap. 616", "cap. 689", "cap. 722", "cap. 751", "cap. 994-995", "cap. 1051", "cap. 1092", "cap. 1186", "cap. 1323", "cap. 1346", "cap. 1504", "cap. 1565", "cap. 1791", "cap. 1795", "cap. 1852"]
+fontes: ["cap. 2", "cap. 8", "cap. 10", "cap. 17", "cap. 40", "cap. 42", "cap. 105", "cap. 116", "cap. 129", "cap. 162", "cap. 183", "cap. 189", "cap. 239", "cap. 292", "cap. 933", "cap. 1034", "cap. 1038", "cap. 1059", "cap. 1161", "cap. 1230", "cap. 1284", "cap. 1299", "cap. 1529", "cap. 2108", "cap. 40", "cap. 44", "cap. 46", "cap. 57", "cap. 62", "cap. 63", "cap. 109", "cap. 113", "cap. 156", "cap. 165", "cap. 177", "cap. 268", "cap. 278", "cap. 297", "cap. 312", "cap. 315", "cap. 358", "cap. 400", "cap. 443", "cap. 448", "cap. 496", "cap. 505", "cap. 598", "cap. 616", "cap. 689", "cap. 845", "cap. 722", "cap. 751", "cap. 994-995", "cap. 1051", "cap. 1092", "cap. 1186", "cap. 1323", "cap. 1346", "cap. 1504", "cap. 1565", "cap. 1791", "cap. 1795", "cap. 1852"]
 conhecimento: comum
 ---
 
@@ -45,10 +45,18 @@ exemplos canônicos:
 
 Duas conclusões importam mais que a lista.
 
-**Primeira: um Gu de rank 1 cabe na palma, e dá para segurar dez numa mão fechada.** O Gu de
+**Primeira: um Gu de rank 1 cabe na palma, e um punhado deles cabe nas duas mãos.** O Gu de
 luar típico ocupa um pedaço da palma, pesa **o equivalente a uma folha de papel**, é
 semitransparente a ponto de o dono ver as linhas da própria mão através dele, e vai **no bolso**
 como uma moeda quando ainda não foi refinado. Um verme do licor pesa **meio ovo de galinha**.
+
+Quanto à pergunta prática — *dá para pegar dez de uma mãozada?* —, o dado canônico mais próximo
+é uma cena em que um cultivador está com **oito Gu ao mesmo tempo nas mãos**, manuseando-os
+como quem separa peças miúdas sobre uma mesa. A obra nunca conta quantos cabem numa única mão
+fechada; que **uns dez caibam nas duas mãos em concha é dedução segura (ded.)** a partir do peso
+de papel e do tamanho de pingente. O que a obra deixa claro, e é o que importa, é que o arsenal
+inteiro de um personagem é do tamanho de um punhado de bugigangas — e que os bichos são frágeis
+o bastante para que fechar a mão com força seja a maneira mais banal de destruí-los.
 
 **Segunda, e é a que mais surpreende: tamanho não escala com rank.** Gu Imortais de rank 6, 7 e
 8 são do tamanho de um dedo, de um punho, de meia palma — exatamente a mesma faixa dos Gu de
@@ -128,6 +136,14 @@ rank e uso. Um Mestre Gu que os refine tem de pegá-los na mão.
 perigo de manejar um Gu não é o bicho atacar a mão: é o **contra-ataque de vontade** durante o
 [[05 - Refino de Gu|refino]], que atinge a mente e não a carne. Feras selvagens picam; Gu, não.
 Se a mesa quiser um Gu que morda, está inventando — o que é permitido, desde que declarado.
+
+Uma varredura do texto inteiro atrás do verbo "morder" aplicado a um Gu devolve **um único tipo
+de ocorrência, e ela é mitológica**: nas fábulas de fundação do mundo — as histórias do primeiro
+homem e dos Gu primordiais, contadas como lenda dentro da própria obra — um Gu "dá uma mordida"
+em outro Gu para roubar-lhe a propriedade. É alegoria sobre a origem da força, do amor e da
+sabedoria, não zoologia. Na camada onde os personagens vivem, **nenhum Gu morde nada**: um Gu
+que segura, prende, corta ou devora faz isso como **efeito acionado**, não como bicho atacando
+por conta própria.
 
 ### Quando ele dorme ou passa fome, muda de aparência
 

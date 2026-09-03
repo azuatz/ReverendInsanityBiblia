@@ -7,7 +7,7 @@ aliases:
   - Alimentação de Gu
   - Expendable Gu
 status: consolidado
-fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292", "cap. 8", "cap. 10", "cap. 20", "cap. 22", "cap. 44", "cap. 156", "cap. 162", "cap. 297", "cap. 563", "cap. 1791"]
+fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292", "cap. 8", "cap. 10", "cap. 20", "cap. 22", "cap. 44", "cap. 156", "cap. 162", "cap. 297", "cap. 563", "cap. 575", "cap. 854", "cap. 923", "cap. 1791"]
 conhecimento: comum
 ---
 
@@ -136,6 +136,42 @@ flowchart LR
 
 > O diagrama acima é **leitura nossa** da cena de aula descrita pela obra; a obra não apresenta
 > nenhum fluxograma de acionamento.
+
+### Quanto tempo leva, e o que se gasta além de essência
+
+**Acionar é instantâneo.** A obra usa sempre a mesma palavra — *na hora*, *num piscar* — e, o que
+vale mais, ela **enuncia o contraste**: as [[08 - Formações de Gu|formações de Gu]] são
+consideradas inferiores aos [[07 - Killer Moves|golpes combinados]] justamente porque **não podem
+ser acionadas instantaneamente** — levam muito tempo para montar e não servem numa troca rápida.
+Se o texto precisa dizer que a formação é a exceção lenta, é porque o acionamento normal de um Gu
+não custa tempo nenhum.
+
+**O que ele custa é atenção — e essa é a moeda escondida do sistema de combate.** No instante em
+que alguém aciona um golpe combinado, **a atenção inteira dele vai para os Gu que compõem o
+golpe**. A obra registra isso ao explicar por que uma cultivadora correu risco ao encadear dois
+golpes seguidos: um Mestre Gu comum, obrigado a desviar a atenção naquele momento, **perderia o
+controle do que estava fazendo** e estragaria o trabalho. Dividir a atenção entre duas tarefas
+mágicas não é gratuito: é perícia. Existe quem consiga — a obra descreve um cultivador
+**"dividindo a mente em três"** para conduzir um Gu, mobilizar a essência e injetá-la num
+terceiro Gu ao mesmo tempo —, e o fato de a cena ser digna de nota já diz que não é o padrão.
+
+Três consequências práticas caem daí, e as três aparecem na obra:
+
+- **Recarregar essência no meio da luta é quase suicídio**, porque exige atenção que está sendo
+  usada para não morrer (ver [[04 - Essência Primordial|Essência Primordial]]).
+- **Controlar muitos Gu de uma vez é caro sem ser lento.** Um Mestre Gu soltou mais de oitocentos
+  Gu da abertura numa sequência, e o único custo registrado foi a atenção necessária para
+  dirigi-los.
+- **Interromper a atenção de um inimigo é um ataque.** Não é preciso furar a defesa dele: basta
+  obrigá-lo a olhar para outro lado no momento errado.
+
+> [!note] Para o design
+> Isto resolve, de graça, a pergunta "acionar um Gu gasta a ação do turno?". A resposta fiel à
+> obra é **não** — o custo não é tempo, é **foco**. Um sistema que traduza isso dá algo mais
+> interessante que uma economia de ações: cada personagem tem um número pequeno de "linhas de
+> atenção" (uma, normalmente; duas ou três para quem treinou), e tudo que exige concentração —
+> um golpe combinado, um refino em andamento, recarregar, manter uma ilusão — ocupa uma. Aí
+> distrair vira ataque, e "dividir a mente" vira uma das melhorias mais cobiçadas da ficha.
 
 ## O custo de acionar: essência
 

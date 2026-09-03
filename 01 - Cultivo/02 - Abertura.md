@@ -8,7 +8,7 @@ aliases:
   - Mar Primordial
   - Cerimônia do Despertar
 status: consolidado
-fontes: ["cap. 5-7", "cap. 10", "cap. 17", "cap. 19", "cap. 22", "cap. 26", "cap. 35", "cap. 43", "cap. 50", "cap. 80", "cap. 92", "cap. 96", "cap. 111", "cap. 141", "cap. 145", "cap. 152-153", "cap. 167", "cap. 179", "cap. 187-188", "cap. 212", "cap. 230", "cap. 273", "cap. 312", "cap. 331", "cap. 490", "cap. 493-494", "cap. 504", "cap. 598", "cap. 1646", "cap. 1796", "cap. 180-181", "cap. 33", "cap. 52", "cap. 86", "cap. 106", "cap. 437"]
+fontes: ["cap. 5-7", "cap. 10", "cap. 17", "cap. 19", "cap. 22", "cap. 26", "cap. 35", "cap. 43", "cap. 50", "cap. 80", "cap. 90", "cap. 92", "cap. 96", "cap. 111", "cap. 141", "cap. 145", "cap. 152-153", "cap. 167", "cap. 179", "cap. 187-188", "cap. 212", "cap. 230", "cap. 273", "cap. 312", "cap. 331", "cap. 490", "cap. 493-494", "cap. 504", "cap. 598", "cap. 1646", "cap. 1796", "cap. 180-181", "cap. 33", "cap. 52", "cap. 86", "cap. 106", "cap. 437"]
 conhecimento: comum
 ---
 
@@ -185,7 +185,9 @@ A membrana que sustenta a abertura não é sempre a mesma. Ela **muda de materia
 
 Avançar de estágio não é apenas acumular energia parada: é **nutrir a parede**, arremessando grandes volumes de essência contra ela repetidamente até que sua natureza se transforme — luz vira água, água vira pedra, pedra vira cristal. Cada material é mais sólido e mais condensado que o anterior.
 
-Para subir de **rank**, porém, o processo se inverte: em vez de fortalecer a parede, o Mestre Gu precisa **destruí-la**. A membrana de cristal do estágio de pico é atacada com essência contínua até rachar e colapsar "como um iceberg"; os cacos se dissolvem no fundo do Mar Primordial, e uma nova membrana de luz — fina outra vez, agora correspondente ao rank seguinte — se forma no lugar. A primeira gota de essência da nova cor emerge do fundo do mar nesse instante. A parede se **autorregenera** enquanto está sendo atacada: parar por cerca de quinze minutos já apaga o progresso, o que transforma a ruptura de rank num esforço contínuo de dias. Os detalhes desse processo estão em [[05 - Ranks e Avanço|Ranks e Avanço]].
+Para subir de **rank**, porém, o processo se inverte: em vez de fortalecer a parede, o Mestre Gu precisa **destruí-la**. A membrana de cristal do estágio de pico é atacada com essência contínua até rachar e colapsar "como um iceberg"; os cacos se dissolvem no fundo do Mar Primordial, e uma nova membrana de luz — fina outra vez, agora correspondente ao rank seguinte — se forma no lugar.
+
+**E isso tem imagem e tem som.** Vale registrar como cena, porque é o momento mais dramático da vida interior de um Mestre Gu e a obra o descreve passo a passo. Primeiro aparecem as rachaduras: linhas que se cruzam sobre o cristal branco translúcido, umas superficiais, outras fundas e nítidas, até se juntarem numa única placa quebrada. Se o cultivador para de bater, **as rachaduras se fecham sozinhas e o cristal sara** — por isso a ruptura exige impacto explosivo, não paciência. Quando a parede finalmente cede, ela **estoura com um estrondo alto**, e o estrondo é ouvido de dentro, pelo dono. Os estilhaços caem no Mar Primordial, **levantam ondas e marolas ao bater na água**, e então viram pontinhos brancos que se apagam no ar. No lugar deles surge uma esfera de luz novinha. A primeira gota de essência da nova cor emerge do fundo do mar nesse instante. A parede se **autorregenera** enquanto está sendo atacada: parar por cerca de quinze minutos já apaga o progresso, o que transforma a ruptura de rank num esforço contínuo de dias. Os detalhes desse processo estão em [[05 - Ranks e Avanço|Ranks e Avanço]].
 
 ## Regras e limites
 

@@ -8,7 +8,7 @@ aliases:
   - Essência primordial
   - Essência Imortal
 status: consolidado
-fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap. 50", "cap. 81", "cap. 90-91", "cap. 135", "cap. 140", "cap. 147", "cap. 152", "cap. 159", "cap. 173", "cap. 178-181", "cap. 193-199", "cap. 212", "cap. 214", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 273", "cap. 278", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 449", "cap. 454", "cap. 504", "cap. 1500", "cap. 1973", "cap. 2295-2334", "cap. 6", "cap. 22", "cap. 29", "cap. 96", "cap. 100", "cap. 106", "cap. 122", "cap. 362", "cap. 410", "cap. 437"]
+fontes: ["cap. 4-7", "cap. 10", "cap. 12", "cap. 26", "cap. 29", "cap. 34", "cap. 50", "cap. 81", "cap. 90-91", "cap. 135", "cap. 140", "cap. 147", "cap. 152", "cap. 159", "cap. 167", "cap. 173", "cap. 178-181", "cap. 193-199", "cap. 212", "cap. 214", "cap. 226", "cap. 230-231", "cap. 245", "cap. 250-251", "cap. 273", "cap. 278", "cap. 312", "cap. 331", "cap. 344", "cap. 379", "cap. 449", "cap. 454", "cap. 504", "cap. 1500", "cap. 1973", "cap. 2295-2334", "cap. 6", "cap. 22", "cap. 29", "cap. 96", "cap. 100", "cap. 106", "cap. 122", "cap. 362", "cap. 410", "cap. 437"]
 conhecimento: comum
 ---
 
@@ -54,9 +54,19 @@ prova cultivo em público sem violar o tabu de inspeção. O que ele *não* vê 
 sobrou: isso não vaza.
 
 **Tem cheiro? Temperatura? Som?** — a obra não informa. Não há uma única passagem em que
-alguém cheire, sinta calor ou frio ou ouça a essência primordial. (Vários **Gu** têm cheiro
-próprio, mas isso é do bicho, não da energia.) Se a mesa quiser dar à essência um cheiro ou uma
-temperatura, está inventando — o que é permitido, desde que declarado.
+alguém cheire, sinta calor ou frio ou ouça a essência primordial em seu estado normal. (Vários
+**Gu** têm cheiro próprio, mas isso é do bicho, não da energia.) Se a mesa quiser dar à essência
+um cheiro ou uma temperatura de fábrica, está inventando — o que é permitido, desde que
+declarado.
+
+**Mas ela pode ser tingida e perfumada, e a obra mostra isso uma vez.** Um Gu acionado desce
+pela garganta do próprio dono, entra na abertura como um jorro de água preta e vermelha e, ao
+tocar o mar, **converte a essência inteira de uma vez**: ela vira de um preto-avermelhado
+sinistro e fica **cheia de cheiro de sangue**. Ou seja: a essência não tem cheiro *próprio*, mas
+é matéria, e matéria aceita ser contaminada — o que é exatamente coerente com a regra de que
+essência alheia impregna as paredes. Para a mesa, isso autoriza descrever qualquer alteração
+mágica da reserva como uma mudança **visível e olfativa** do líquido, e não como um número
+mudando de valor.
 
 ### Quando ela acaba
 
@@ -90,8 +100,18 @@ rank 1 e cuja recuperação simplesmente empata com o gasto, tornando-o praticam
 **pega a pedra na mão, fecha os olhos** e extrai. Por dentro, o nível do mar sobe "numa
 velocidade visível a olho nu" — e para de repente ao bater no teto da aptidão, com espaço
 sobrando. Encher do quase-zero até o teto de 44%, num rank 1 com pedras à mão, leva **cerca de
-meia hora**. É rápido o bastante para ser feito numa pausa tática, e a obra mostra grupos
-fazendo exatamente isso: um faz vigilância enquanto os outros três recarregam sentados. Fazer
+meia hora** — número que a obra dá duas vezes, nas mesmas palavras. É rápido o bastante para ser
+feito numa pausa tática, e a obra mostra grupos fazendo exatamente isso: um faz vigilância
+enquanto os outros três recarregam sentados.
+
+**E o tempo piora com o rank, não melhora.** A obra enuncia a regra em voz de narrador: no rank
+1 e no rank 2 a recarga por pedra era "bem perceptível", mas do rank 3 em diante, como a
+qualidade da essência subiu muito, são precisas **mais pedras e mais tempo** para o mesmo
+serviço. O único cronômetro que ela dá nesse patamar é de um retoque parcial no meio de uma
+batalha, que levou **oito ou nove minutos** para devolver a reserva ao teto. Os dois números não
+se contradizem — um é o tanque cheio de um rank 1, o outro é um remendo de rank 3 —, mas juntos
+dão a ordem de grandeza que uma mesa precisa: **recarregar é assunto de dezenas de minutos, não
+de segundos, e nunca dá para fazer no meio de uma troca de golpes.** Fazer
 isso *durante* a luta é possível e quase suicida, porque divide a atenção. Com anos de prática
 a extração vira instinto e deixa de exigir concentração.
 

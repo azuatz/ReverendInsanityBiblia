@@ -108,6 +108,44 @@ versão mortal (a própria célula dizia "o exemplar descrito é de rank 5") e *
 Strength Gu → rank 4** (o texto lista "rank four bitter strength, expend strength Gu and
 charging crash Gu").
 
+#### Segunda leva — a reciprocidade estava só num sentido
+
+A leva anterior registrou que as pontas faltantes tinham sido corrigidas. A conferência
+programática desta leva mostrou que **a correção pegou quase só o lado mortal**: dos 22
+pares, o catálogo mortal declarava a contraparte em 15 linhas e o imortal em 6. Quem
+lesse a ficha imortal do Day Gu, do Slavery Gu ou do Justice Gu não tinha como saber que
+existe uma versão mortal, nem chegar até ela.
+
+Duas coisas foram distinguidas aqui, e a distinção importa: várias fichas imortais
+**mencionavam** a versão mortal em prosa ("na versão mortal de rank 5, que a obra
+detalha…") mas **nenhuma delas linkava**. Menção em prosa não resolve o problema de mesa
+— a designer precisa do salto. Todas as 16 pontas faltantes ganharam a frase com o rank
+da outra versão e o wikilink para o outro catálogo. Hoje os 22 pares são recíprocos, e
+isso é verificável por script.
+
+**Um erro de rank foi encontrado no processo, e é o achado mais sério desta leva.** O
+Wealth Gu tinha, nos dois catálogos, **a mesma célula copiada** — e no catálogo de
+imortais ela vinha etiquetada como **rank 5**, que é o rank da versão *mortal*. Um Gu de
+rank 5 listado no catálogo dos Gu únicos do mundo é exatamente o tipo de erro que
+contamina tudo que se construir em cima. As duas linhas foram separadas de verdade:
+
+- **no catálogo imortal**, rank corrigido para `—` (a obra não dá rank ao exemplar
+  lendário; diz apenas que é Gu Imortal), e a ficha passou a tratar só do Wealth Gu do
+  mito fundador — a receita de Ren Zu, o efeito de virar qualquer coisa menos ser vivo,
+  e a razão pela qual isso o torna o Gu que dispensa a coleta de materiais;
+- **no catálogo mortal**, rank 5, e a ficha passou a tratar só do consumível de uso
+  único que vira qualquer material de rank 5 — com os dois usos concretos (dinheiro
+  líquido no patamar mortal e substituto do exemplar imortal dentro de receitas de Gu
+  Imortal), a história do refino por sacrifício humano e a política de venda limitada a
+  uma dúzia de exemplares por comprador.
+
+Outras três linhas tinham célula idêntica nos dois arquivos (Dragon Scales, Expend
+Strength e Territory Gu). Nesses casos a duplicação **não** era erro: cada célula rotula
+explicitamente qual trecho é da versão mortal e qual é da imortal, e o conteúdo é
+verdadeiro dos dois lados. Foram mantidas como estavam, ganhando apenas o wikilink
+recíproco — apagar metade de cada uma deixaria a designer sem o contraste, que é
+justamente o que a comparação mortal × imortal ensina.
+
 ---
 
 ## Gu acrescentados

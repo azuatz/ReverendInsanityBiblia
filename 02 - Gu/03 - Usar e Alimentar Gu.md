@@ -56,11 +56,11 @@ existem nos três ofícios**, e são categoria formal, não curiosidade:
   tenha coração justo. E as condições não são só morais: uma formação imortal registrada só
   funciona nas mãos de uma **raça** específica e mata qualquer outro que entre nela.
 
-Há ainda condições **posicionais**: um Gu de nível 6 ou mais, uma vez consagrado
+Há ainda condições **posicionais**: um Gu de rank 6 ou mais, uma vez consagrado
 [[05 - Gu Vital|Gu Vital]], fica preso no centro da abertura e **não pode mais ser retirado
 nem manifestado** — funciona como fundação e nunca como arma.
 
-O exemplo que exibe os três eixos ao mesmo tempo é um Gu de nível 4 que detecta mentiras:
+O exemplo que exibe os três eixos ao mesmo tempo é um Gu de rank 4 que detecta mentiras:
 ele **come** honestidade, só pode ser **refinado** por quem jamais mentiu, e só pode ser
 **usado** por quem jamais mentiu. Três travas empilhadas no mesmo bicho — e é por isso que
 ele é raríssimo apesar de não ser especialmente forte. Repare que a exigência é sobre a
@@ -197,7 +197,7 @@ O mundo distingue formalmente duas classes:
   estes se **desgastam** com o tempo: um Gu não-consumível acionado milhares de vezes ao
   longo de séculos vai perdendo qualidade.
 - **Gu consumíveis** (*expendable*) — dissipam-se após um, dois ou três usos. É uma
-  categoria formal, não uma exceção, e ela existe até no nível 6 e acima. São, na prática,
+  categoria formal, não uma exceção, e ela existe até no rank 6 e acima. São, na prática,
   a munição do sistema: baratos por unidade, caros em volume, e a razão pela qual campanhas
   militares esvaziam tesouros.
 
@@ -275,7 +275,7 @@ ao próprio dono.
 ### As regras gerais da alimentação
 
 - **Nível maior = refeição mais cara, intervalo mais longo.** É a curva-mestra. Um Gu de
-  nível 1 ou 2 come a cada poucos dias; um de nível 4, a cada poucos meses; um de nível 5,
+  rank 1 ou 2 come a cada poucos dias; um de rank 4, a cada poucos meses; um de rank 5,
   **a cada um ou dois anos** — mas essa refeição bienal custa uma fortuna.
 - **A fusão muda a dieta.** Ao subir de nível, um Gu passa a comer mais por vez e menos
   vezes. Escolher a rota de fusão certa pode **libertar o dono de um insumo raro** — há
@@ -311,7 +311,7 @@ consomem os materiais e depois o alimentam — o que cria uma vulnerabilidade el
 
 No nível imortal há um caminho inteiro dedicado ao problema — o [[20 - Food Path|Food Path]] —, com Gu que
 substituem parte da alimentação de outros Gu. Um deles cobre até 40% da necessidade de um Gu
-Imortal de nível 6, cerca de 6% por uso, e precisa se recuperar entre acionamentos: **usá-lo
+Imortal de rank 6, cerca de 6% por uso, e precisa se recuperar entre acionamentos: **usá-lo
 além do limite mata o próprio Gu**.
 
 ## O teto: quantos Gu se carrega
@@ -337,19 +337,19 @@ reavaliar.
 
 | Perfil | Quantidade típica de Gu | Custo mensal aproximado em [[02 - Pedras Primordiais\|pedras primordiais]] |
 |---|---|---|
-| Primeiros meses de carreira (nível 1) | **2 a 3** | cerca de **30 a 60** |
+| Primeiros meses de carreira (rank 1) | **2 a 3** | cerca de **30 a 60** |
 | **Mestre comum, qualquer patamar mortal** | **3 a 5** — o número canônico | de dezenas a centenas, conforme o nível dos bichos |
-| Mestre de nível 4 a 5 | **4 a 5** | ordens de grandeza acima — a refeição rareia, mas cada uma custa uma fortuna |
+| Mestre de rank 4 a 5 | **4 a 5** | ordens de grandeza acima — a refeição rareia, mas cada uma custa uma fortuna |
 | Caso excepcional (riqueza, sorte ou renda própria) | **7 ou mais** | inviável sem território produtivo próprio; o narrador trata como anomalia |
 
-A coluna de custo sai de duas âncoras da obra. A primeira: **um Gu comum de nível 2 custa
+A coluna de custo sai de duas âncoras da obra. A primeira: **um Gu comum de rank 2 custa
 cerca de uma a duas pedras primordiais por dia** para manter. A segunda é uma conta
-completa, feita dentro da própria obra por um cultivador de nível 1 com dois Gu:
+completa, feita dentro da própria obra por um cultivador de rank 1 com dois Gu:
 
 - Gu de luar: quatro pétalas por dia; dez pétalas custam uma pedra → **0,4 pedra/dia**.
 - Verme do licor: um jarro de vinho bom custa duas pedras e dura quatro dias →
   **0,5 pedra/dia**.
-- Total: **quase uma pedra primordial por dia para dois Gu de nível 1**.
+- Total: **quase uma pedra primordial por dia para dois Gu de rank 1**.
 
 **O que aparece como faixa e como conta é da obra; a multiplicação por trinta é nossa.**
 
@@ -376,7 +376,7 @@ armazenamento, reconhecimento e movimento. Confronte com a tabela acima:
 
 | Faixa de campanha | Slots por personagem | Grupo mínimo para cobrir as 6 funções |
 |---|---|---|
-| Primeiros meses (nível 1) | 2 a 3 | **2 a 3 pessoas** |
+| Primeiros meses (rank 1) | 2 a 3 | **2 a 3 pessoas** |
 | Mestre comum (o caso normal, ranks 2–5) | 3 a 5 | **2 pessoas** — e a segunda cobre as lacunas da primeira |
 | Caso excepcional, com sete ou mais | 7 | **1 pessoa** já se vira sozinha, e é exatamente por isso que quem consegue chegar lá age sozinho |
 
@@ -389,7 +389,7 @@ motivo terá de ser político, não logístico.
 > [!example] Caso mecânico
 > O depósito de Gu de uma academia de clã consome mais de mil pedras primordiais **por dia**
 > apenas em alimentação do estoque. A moeda-base do mundo mortal é a pedra primordial, e um Gu
-> comum de nível 2 custa cerca de uma a duas pedras por dia para manter. Alimentar um
+> comum de rank 2 custa cerca de uma a duas pedras por dia para manter. Alimentar um
 > arsenal é, portanto, um item de orçamento institucional comparável ao soldo de um
 > exército — e explica por que clãs cobram pesado dos membros e por que perder um pomar
 > específico pode paralisar toda a linhagem de Gu de assinatura de um clã.
@@ -398,18 +398,17 @@ motivo terá de ser político, não logístico.
 
 Para um Gu Imortal, alimentação deixa de ser despesa e vira **projeto de engenharia**:
 
-- Alimentar um Gu de nível 8 é descrito como "um projeto enorme". Um único deles chegou a
+- Alimentar um Gu de rank 8 é descrito como "um projeto enorme". Um único deles chegou a
   exigir a construção de **um pântano inteiro** só para sustentá-lo.
-- **Comprar comida no mercado é insustentável.** Manter um Gu Imortal de nível 7 comprando
+- **Comprar comida no mercado é insustentável.** Manter um Gu Imortal de rank 7 comprando
   ração é caro demais a longo prazo. O modelo viável é possuir um **ponto de recurso
   próprio** — uma terra que produza o insumo continuamente. É esta a base econômica de toda
   a expansão territorial dos imortais.
 - **Gu Imortais que hibernam** costumam ser cedidos ao tesouro coletivo do clã — em parte
   por eficiência, em parte porque **alguém precisa alimentá-los enquanto o dono dorme**. Por
   isso veteranos recém-acordados são poderosíssimos e, ao mesmo tempo, mal equipados.
-- **O nível 9 inverte a curva.** Quanto mais alto o nível, mais rara a refeição — a
-  dificuldade deixa de ser frequência e passa a ser **raridade do alimento**. Um Gu de nível
-  9 registrado come um campo inteiro de um material lendário, o que obriga o dono a cultivar
+- **O rank 9 inverte a curva.** Quanto mais alto o nível, mais rara a refeição — a
+  dificuldade deixa de ser frequência e passa a ser **raridade do alimento**. Um Gu de rank 9 registrado come um campo inteiro de um material lendário, o que obriga o dono a cultivar
   uma "fazenda" de longo prazo dentro do próprio território para a próxima refeição.
 - **O alimento não guarda relação necessária com o tema.** Um Gu do caminho da sorte se
   alimenta de fezes de seis espécies específicas de cão selvagem. A dieta é uma

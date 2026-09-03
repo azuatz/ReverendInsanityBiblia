@@ -139,7 +139,7 @@ rodeios, ainda que não feche o pentágono:
 
 Fora esses dois, a "contenção elemental" que aparece é sempre **local e explicada**: um
 praticante de gelo suprime criaturas de lava; um físico corporal específico contém o fogo; um
-Gu barato de nível 5 é eficaz contra vento e água; um sapo refinado de propósito contra os
+Gu barato de rank 5 é eficaz contra vento e água; um sapo refinado de propósito contra os
 métodos da água. Nada disso é ciclo — é ferramenta.
 
 > [!note] Para o design
@@ -302,7 +302,7 @@ acontecendo especificamente nesta família — e é a tabela mais prática da no
 
 | Degrau | Destranca |
 |---|---|
-| Mestre | **Não basta** para anexar uma terra abençoada de nível 7 do próprio caminho |
+| Mestre | **Não basta** para anexar uma terra abençoada de rank 7 do próprio caminho |
 | **Grão-mestre** | Anexar terras abençoadas do caminho; **saber de cor** as receitas dos Gu mortais do caminho, sem precisar deduzi-las; **criar golpes imortais** próprios; e **imitar outros caminhos** através do seu |
 | Quase-grande-grão-mestre | Ser proficiente em *compreender outros caminhos através do principal* |
 | **Grande grão-mestre** | Anexar cavernas-céu do caminho; projetar golpes imortais **combinados**; e — a regra mais bonita — **usar as marcas naturais do ambiente diretamente, dispensando o Gu Imortal correspondente** |
@@ -361,7 +361,7 @@ regra 1 acima). O fundador de uma casa de cultivo célebre finalizou o caminho n
 Medieval, depois de eras em que Gu selvagens de água já existiam aos milhares.
 
 **A série progressiva.** A água tem o exemplo mais limpo de **linha evolutiva de Gu** que a obra
-oferece — nível 3 → 4 → 5 → 6 imortal, todos variações do mesmo tema de "rastro de água" e
+oferece — rank 3 → 4 → 5 → 6 imortal, todos variações do mesmo tema de "rastro de água" e
 velocidade. E o Gu Imortal do topo tem uma propriedade elegante: usado por um imortal de água,
 **gastando a mesma essência, alcança mais velocidade**; usado por um imortal de outro caminho,
 fica mais lento que o normal.
@@ -369,7 +369,7 @@ fica mais lento que o normal.
 **Utilidade típica:** um golpe de captura excepcional; e um Gu que grava marcas de água **nos
 próprios pés** do usuário para que ele corra livremente sobre a superfície da água.
 
-**Contramedidas baratas existem** — um Gu defensivo comum de nível 5 já é eficaz contra vento e
+**Contramedidas baratas existem** — um Gu defensivo comum de rank 5 já é eficaz contra vento e
 água, e há criaturas refinadas de propósito para conter métodos aquáticos. (ded.) A água é
 poderosa e **previsível**: por ser mainstream, o mundo tem resposta pronta.
 
@@ -404,8 +404,8 @@ tropical, quente o ano inteiro, *era difícil para Mestres Gu do gelo sustentar 
 isso praticantes de gelo e de água migram para as ilhas frias. Este é o único caminho da obra
 cujo mapa-múndi determina onde ele pode existir.
 
-**Âncora de preço útil:** um golpe de gelo de nível 5 vendido por **meia pedra de essência
-imortal**, descrito como *o menor preço para um golpe de nível cinco*.
+**Âncora de preço útil:** um golpe de gelo de rank 5 vendido por **meia pedra de essência
+imortal**, descrito como *o menor preço para um golpe de rank cinco*.
 
 ---
 
@@ -422,7 +422,7 @@ correspondente, que devolve a muralha à planície rasa e torna **todas as linha
 inúteis**.
 
 **Infraestrutura civil.** Um dos raros casos em que a obra mostra um Gu Imortal usado como obra
-pública: um Gu de nível 6 que **transforma areia em rocha**, permitindo construir no deserto — e
+pública: um Gu de rank 6 que **transforma areia em rocha**, permitindo construir no deserto — e
 rendendo ao dono popularidade e gratidão genuínas.
 
 **A função econômica escondida.** Marcas de terra determinam **as montanhas e a fertilidade do
@@ -454,7 +454,7 @@ Portanto: **madeira = abundância de recurso + cura**. É o caminho da vitalidad
 não do dano.
 
 **Criador nomeado e inequívoco:** um dos primeiros três Veneráveis da história, que era ele mesmo
-um Venerável de nível 9 do caminho da madeira, e que continuou criando golpes de madeira **depois**
+um Venerável de rank 9 do caminho da madeira, e que continuou criando golpes de madeira **depois**
 de já ser Venerável. Ver [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].
 
 **A função "limpadora".** Marcas de madeira curaram um alvo e, no processo, **eliminaram as
@@ -498,7 +498,7 @@ cultivar **os cinco elementos juntos** — mas o título dele se refere ao conju
 que dá para ver a luz delas a olho nu* — ideal para refinar um Gu Imortal de metal e **inútil para
 qualquer outro caminho**.
 
-**Contramedida canônica:** uma pele de leão dourado de nível 5 que aumenta a defesa geral em cerca
+**Contramedida canônica:** uma pele de leão dourado de rank 5 que aumenta a defesa geral em cerca
 de metade — e **dobra** contra ataques do caminho do metal especificamente.
 
 **Contenção:** `—` a obra não informa nenhuma. Busquei diretamente e não há.
@@ -520,7 +520,7 @@ domínio no relâmpago **e** no sangue ao mesmo tempo. O praticante tinha o prim
 segundo — e por isso levou anos e os recursos de uma seita inteira para concluir. É a melhor
 ilustração da obra de **multiclasse como gargalo real**.
 
-O que ele produz: **entidades autônomas com força de combate de nível 6, fabricáveis em lote**. O
+O que ele produz: **entidades autônomas com força de combate de rank 6, fabricáveis em lote**. O
 comentário canônico: *tendo força de combate de Gu Imortais e não temendo a morte, podiam ser
 produzidas em lotes — isso era aterrorizante*. Ele acumulou oito.
 
@@ -546,8 +546,8 @@ exposto, antes de usar relâmpago para destruir o Gu*. Gelo revela, relâmpago m
 
 **O que é.** **Velocidade e mobilidade acima de tudo.** O marcador de identidade é inequívoco: o
 maior especialista vivo de uma região é *a pessoa publicamente reconhecida como a mais rápida do
-mundo imortal do Território do Norte*, que já **escapou de vários imortais de nível 8** sendo ele
-próprio apenas nível 7. (ded.) O vento compra sobrevivência com velocidade, não com defesa.
+mundo imortal do Território do Norte*, que já **escapou de vários imortais de rank 8** sendo ele
+próprio apenas rank 7. (ded.) O vento compra sobrevivência com velocidade, não com defesa.
 
 **A mecânica distintiva: é o caminho que melhor imita os outros.** A obra mostra isso
 repetidamente, e só com o vento: um praticante cujo domínio no som era apenas comum, mas cujo
@@ -661,7 +661,7 @@ Ou seja: ==a essência das trevas é penetração de armadura==, não "maldade" 
 defesa.
 
 A segunda função, igualmente central, é **ocultação** — e é aqui que está o Gu mais interessante
-do domínio. Um Gu Imortal de nível 6 que:
+do domínio. Um Gu Imortal de rank 6 que:
 
 - **esconde inspirações e dificulta que outros façam deduções** — isto é, uma contramedida
   anti-sabedoria e anti-adivinhação;
@@ -741,7 +741,7 @@ Duas exceções canônicas ao custo de cultivar vários elementos:
   abertura de alguém do **seu próprio** caminho permite pular uma tribulação celeste e muitas
   calamidades terrestres de uma vez.
 - **Ponto de recurso é a unidade econômica do domínio.** Nuvens que aumentam a produção de Gu de
-  nuvem; fazendas de pinheiros e salgueiros de neve que rendem cerca de **trezentos Gu de nível 5
+  nuvem; fazendas de pinheiros e salgueiros de neve que rendem cerca de **trezentos Gu de rank 5
   por ano**, com o excedente vendido por duas a três pedras de essência imortal; um cânion que
   produz metal e nuvem ao mesmo tempo; uma floresta de gêiseres que produz água e terra.
 - **Materiais imortais são específicos por caminho** a ponto de serem inúteis fora dele.
@@ -752,7 +752,7 @@ Duas exceções canônicas ao custo de cultivar vários elementos:
 
 > [!note] Para o design
 > **Arquétipo entregue: o especialista de província.** Estes são os caminhos do mundo real do
-> cenário — o ferreiro de nível 5 que endurece a pele, a curandeira que neutraliza venenos, o
+> cenário — o ferreiro de rank 5 que endurece a pele, a curandeira que neutraliza venenos, o
 > engenheiro que ergue a muralha do clã em dez dias. Não são a elite; são a **infraestrutura**. Um
 > grupo inteiro de personagens elementais é perfeitamente jogável e completamente diferente de um
 > grupo de sabedoria e tempo.

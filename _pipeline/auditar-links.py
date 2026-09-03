@@ -55,7 +55,36 @@ def main():
     print("links quebrados: %d" % len(quebrado))
     for k, v in sorted(quebrado.items()):
         print("   X %s  <- %s" % (k, ", ".join(sorted(v))[:70]))
-    return 1 if quebrado or so_alias else 0
+
+    # Âncoras de seção: [[Nota#Seção]] só funciona se aquele título existir na nota
+    # de destino. O link fica "correto" para a checagem acima e mesmo assim leva a
+    # lugar nenhum — foi o furo mais perigoso encontrado na revisão de 2026-09-02,
+    # porque uma renumeração ou um ajuste de vocabulário renomeia títulos em massa.
+    titulos = {}
+    for b, p2 in fname.items():
+        hs = set()
+        for l in io.open(p2, encoding="utf-8"):
+            if l.startswith("#"):
+                hs.add(l.lstrip("#").strip().lower())
+        titulos[b] = hs
+
+    anc_ok = 0
+    anc_ruim = {}
+    for p2 in files:
+        t2 = limpar_codigo(io.open(p2, encoding="utf-8").read())
+        for alvo, sec in re.findall(r"\[\[([^\]|#\n]+)#([^\]|\n]+)", t2):
+            alvo = alvo.strip().rstrip("\\").strip()
+            sec = sec.strip().rstrip("\\").strip().lower()
+            if alvo in titulos and sec in titulos[alvo]:
+                anc_ok += 1
+            else:
+                anc_ruim.setdefault("%s#%s" % (alvo, sec), set()).add(os.path.basename(p2))
+    print("ancoras de secao que resolvem: %d  (ok)" % anc_ok)
+    print("ancoras quebradas: %d" % len(anc_ruim))
+    for k, v in sorted(anc_ruim.items()):
+        print("   A %s  <- %s" % (k, ", ".join(sorted(v))[:70]))
+
+    return 1 if quebrado or so_alias or anc_ruim else 0
 
 if __name__ == "__main__":
     sys.exit(main())

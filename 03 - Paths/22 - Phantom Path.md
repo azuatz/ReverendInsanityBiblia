@@ -58,7 +58,7 @@ inteira:
 > O caminho fantasma se concentra **nas formas fantasma e sólida**. No estágio inicial, **do nível
 > um ao cinco, o fantasma é a fundação**: usa-se a forma fantasma para evitar ataques. Por isso,
 > Mestres Gu do caminho fantasma frequentemente **carecem de poder ofensivo, mas têm ampla capacidade
-> defensiva**. Mas **do nível seis para cima**, os imortais do caminho fantasma têm **tanto ofensa
+> defensiva**. Mas **do rank seis para cima**, os imortais do caminho fantasma têm **tanto ofensa
 > quanto defesa**: ao alternarem entre forma fantasma e sólida **à vontade**, podem entrar no modo
 > fantasma defensivo, **anulando todas as formas de ataque**, e também transformar fantasma em
 > sólido, **atacando as pessoas quando elas menos esperam**.
@@ -144,7 +144,7 @@ roubo). Ver [[09 - Formation Path|Formation Path]].
 Este é o patrimônio mais valioso do caminho, e ele está nas mãos de quem não o cultiva.
 
 **A profundidade suprema** do caminho fantasma é a **abertura fantasma**, e ela é detida pela maior
-instituição do mundo. Como funciona: todo imortal de nível 8 que entra naquela organização **entrega
+instituição do mundo. Como funciona: todo imortal de rank 8 que entra naquela organização **entrega
 sua abertura imortal**, que é fundida ao território dela; ao sair, recebe em troca uma **abertura
 fantasma** para guardar essência imortal e Gu.
 
@@ -152,7 +152,7 @@ fantasma** para guardar essência imortal e Gu.
 
 - **Não atrai calamidades nem tribulações.** Quem carrega uma abertura fantasma pode circular pelo
   mundo sem o risco que normalmente acompanha um imortal.
-- **Guarda Gu Imortal de qualquer nível** — inclusive um de nível 9 — **sem estourar**.
+- **Guarda Gu Imortal de qualquer nível** — inclusive um de rank 9 — **sem estourar**.
 - **Torna possível um falso imortal funcional**: alguém sem abertura verdadeira passa a ter essência
   imortal própria e a conseguir refinar e usar Gu Imortais.
 - Em situações de contragolpe pesado, ter apenas Gu e essência lá dentro **reduz muito a perda**.
@@ -437,7 +437,7 @@ acabem se soltando.
 - **A caverna-céu dos nove fantasmas** — um território cujos imortais cultivam majoritariamente o
   caminho, e que **inteiro** pode assumir forma fantasma, ficando imune a calamidades e tribulações. O
   caso mais extremo do caminho aplicado a uma estrutura.
-- **O talento excepcional** — imortal de nível 7, supremo ancião de uma grande seita, tratado como
+- **O talento excepcional** — imortal de rank 7, supremo ancião de uma grande seita, tratado como
   *um talento excepcional* entre os pouquíssimos imortais do caminho. É dele o feito incomum de
   **virar outros em fantasmas e ainda conseguir afetá-los** — e é nele que a obra demonstra o limite,
   quando o estado semi-invulnerável não bastou contra uma explosão.

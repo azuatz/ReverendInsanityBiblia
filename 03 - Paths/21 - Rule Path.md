@@ -52,12 +52,12 @@ até em **feras selvagens** que nunca cultivaram nada — a categoria "vida" e a
 ### Amplificação universal
 
 O uso mais comum e mais acessível: Gu que **multiplicam o efeito de outro Gu**, qualquer que
-seja o caminho dele. Um Gu de amplificação de nível 5 multiplica por cinco. Quanto maior o
+seja o caminho dele. Um Gu de amplificação de rank 5 multiplica por cinco. Quanto maior o
 nível, maior o consumo.
 
 Esse é o motivo pelo qual até cultivadores que não seguem o caminho da regra carregam um Gu
 dele: é a forma mais barata do mundo de transformar um efeito simples em um efeito grande. O
-limite de empilhamento nunca é estabelecido — dois Gu de nível 5 multiplicariam por dez? A
+limite de empilhamento nunca é estabelecido — dois Gu de rank 5 multiplicariam por dez? A
 obra não responde.
 
 ### Regras diretas sobre conceitos
@@ -107,7 +107,7 @@ frequentemente consegue **criar** o próprio significado verdadeiro* usando o ca
 > continua a frase citada acima assim: *quanto aos outros caminhos, eles tinham de **alcançar certo
 > nível de imitação desses caminhos** para deixar o seu significado verdadeiro para trás*.
 >
-> E dá contraexemplos nominais que não são Veneráveis: um **ancestral de nível 8** que não era um
+> E dá contraexemplos nominais que não são Veneráveis: um **ancestral de rank 8** que não era um
 > dos dez deixou um significado verdadeiro do [[08 - Refinement Path|caminho do refino]]. A obra
 > também registra significados verdadeiros da formação, da sorte, do fantasma e do humano em reinos
 > de sonho comuns.
@@ -305,14 +305,14 @@ como raro — mais um sinal de que a raridade dele é de praticantes, não de re
 |---|---|---|
 | Sentença de Morte Aguarda ⭐ | 7 | Fixa o momento exato da morte de um alvo |
 | Pequeno ⭐ | 7 | Campo que encolhe e enfraquece qualquer ataque recebido |
-| Precaução ⭐ | 7 | Defesa de topo do nível 7; só ativa na décima primeira respiração |
+| Precaução ⭐ | 7 | Defesa de topo do rank 7; só ativa na décima primeira respiração |
 | Luta ⭐ | 7 | Núcleo de golpes de espírito de combate e de escravização pós-vitória |
 | Passagem ⭐ | 7 | Estende e facilita um golpe de assinatura de outro caminho |
 | Tornar-se Real ⭐ | — | Trilha prateada persistente; âncora de golpes e rituais |
 | Maduro ⭐ | — | Núcleo de uma super formação de cultivo acelerado |
 | Grande ⭐ | — | Aumenta o tamanho físico do usuário — não a força |
 | Desintegrar | 5–7 | Desintegra quase qualquer elemento místico |
-| Amplificar Efeito | 2–5 | Multiplica o efeito de outro Gu (nível 5 = 5×) |
+| Amplificar Efeito | 2–5 | Multiplica o efeito de outro Gu (rank 5 = 5×) |
 
 > [!info] Como ler a coluna "Nível"
 > **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
@@ -343,7 +343,7 @@ contra todos.
 **Fora de combate**, é infraestrutura conceitual: amplificação de qualquer processo, âncoras
 para rituais, formações de cultivo acelerado. E, no topo, é um dos dois requisitos para
 conquistar certos territórios lendários — há uma terra que exigiria simultaneamente domínio de
-nível 8 em **regra** e em **refinamento** para ser tomada de vez.
+rank 8 em **regra** e em **refinamento** para ser tomada de vez.
 
 ## Sinergias e fraquezas
 
@@ -414,7 +414,7 @@ Os pares mais notáveis:
 
 ## Praticantes notáveis (sem enredo)
 
-- **[[02 - Os Criadores de Caminhos|Limitless Demon Venerable]]** — nível 9, criador do caminho
+- **[[02 - Os Criadores de Caminhos|Limitless Demon Venerable]]** — rank 9, criador do caminho
   da regra. (Os nomes dos dez Veneráveis ficam em inglês em toda a base, porque a tradução
   brasileira de referência não verteu todos e este material não inventa nomenclatura própria.)
   É também a figura que resolveu, há mais de dois milhões de anos, o problema de refinar marcas

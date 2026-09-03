@@ -122,7 +122,7 @@ Este é o fenômeno mais bonito do caminho, e ele é uma consequência direta de
 acumular em vez de se dissipar.
 
 Um Mestre Gu Imortal vive dentro da própria [[13 - Blessed Lands e Grotto-Heavens|terra abençoada]] — um
-mundo de bolso que ele cultiva como uma fazenda. Uma imortal de nível 7 do caminho do veneno,
+mundo de bolso que ele cultiva como uma fazenda. Uma imortal de rank 7 do caminho do veneno,
 conhecida como a Senhora Escorpião Venenoso, encheu a dela de ervas venenosas, pântanos
 venenosos, bestas venenosas e Gu venenosos. O resultado não foi um jardim perigoso: foi uma
 **saturação que a própria terra abençoada não consegue mais conter**.
@@ -151,7 +151,7 @@ quando uma abertura ganha marcas do Dao do veneno, **pragas e doenças passam a 
 de época** lá dentro, se espalhando ampla e rapidamente em vez de seguir o ciclo sazonal. Ver
 [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] e [[16 - Dao Marks|Dao Marks]].
 
-E o efeito também acontece em campo aberto, num único combate. Um Gu de veneno de nível 5 e de
+E o efeito também acontece em campo aberto, num único combate. Um Gu de veneno de rank 5 e de
 origem imemorial, praticamente extinto no mundo, **tingiu de verde-jade a terra e o céu de uma
 área inteira** quando foi acionado. Seu dono morreu ali — e a região continuou letal depois,
 com o cadáver no meio, verde, intocável até para um imortal. Um golpe de veneno pode deixar
@@ -188,7 +188,7 @@ assimetria: não é o corpo que morre primeiro; é a alma. Ver
 A nota já disse que existem venenos que a cura de nível inferior não alcança. O que a obra
 mostra, e que é bem mais duro, é o que acontece **quando o tratamento chega tarde**.
 
-Um Mestre Gu de nível 4 foi atingido pelo veneno do Gu de Céu de Jade e procurou um dos maiores
+Um Mestre Gu de rank 4 foi atingido pelo veneno do Gu de Céu de Jade e procurou um dos maiores
 médicos da região. O diagnóstico: o veneno **já tinha penetrado na medula óssea**. O médico
 conseguiu preservar a vida dele e o nível de cultivo dele — e **nada mais**. O homem tinha
 ombros largos e corpo perfeito; ficou magro como um graveto, de pele amarelo-pálida, com
@@ -240,7 +240,7 @@ Dois usos que ampliam muito o vocabulário do caminho:
   Veneno, aqui, não é área nem projétil: é um bando com iniciativa própria.
 - **Veneno sem aura.** Há um golpe que solta um gás **incolor, inodoro e sem nenhuma aura
   durante o acionamento** — não dispara os detectores mágicos que todo cultivador carrega. Ele
-  só derruba Mestres Gu de nível 3 para baixo, e mesmo assim é elogiado no texto como *muito
+  só derruba Mestres Gu de rank 3 para baixo, e mesmo assim é elogiado no texto como *muito
   valioso em situações reais*: o veneno é o único caminho em que um golpe fraco continua sendo
   bom, porque a virtude dele é não ser percebido.
 
@@ -266,11 +266,11 @@ onde não dá, está marcado.
 
 | Faixa | O que o caminho entrega |
 |---|---|
-| **Níveis 1–2** | Venenos de contato e de ferida. O topo da faixa é um veneno de nível 2 que abre feridas que **a cura de nível 3 não fecha** — a primeira aparição da regra "incurável relativo ao nível". Também aqui: muralhas com flores venenosas, defesa passiva de aldeia |
-| **Nível 3** | O patamar do **controle social**. Veneno individualizado por vítima, com antídoto próprio que precisa ser readministrado a cada sete dias. É explicitamente descrito como *o método mais comum de controlar escravos*, escolhido porque o método superior custa caro demais |
+| **Níveis 1–2** | Venenos de contato e de ferida. O topo da faixa é um veneno de rank 2 que abre feridas que **a cura de rank 3 não fecha** — a primeira aparição da regra "incurável relativo ao nível". Também aqui: muralhas com flores venenosas, defesa passiva de aldeia |
+| **Rank 3** | O patamar do **controle social**. Veneno individualizado por vítima, com antídoto próprio que precisa ser readministrado a cada sete dias. É explicitamente descrito como *o método mais comum de controlar escravos*, escolhido porque o método superior custa caro demais |
 | **Níveis 4–5** | Veneno de **área e de terreno**. No topo da faixa mortal está um Gu imemorial, hoje praticamente extinto, capaz de tingir terra e céu de uma região e de matar em horas; um único portador ganhou reputação continental com ele. É também a faixa em que o veneno começa a **sobreviver ao dono** |
 | **Níveis 6–8 (imortal)** | Veneno como **sistema**: sopro contínuo que satura o ambiente com o tempo, chuvas de agulhas envenenadas, cuspe que mata alma, tropas de veneno animadas. E o Gu que funde uso e alimentação. É também onde aparecem os custos que ferem o próprio usuário |
-| **Nível 9** | `—` A obra não registra nenhum Gu de veneno de nível 9, nem um Venerável do caminho |
+| **Rank 9** | `—` A obra não registra nenhum Gu de veneno de rank 9, nem um Venerável do caminho |
 
 Duas escalas paralelas correm por fora do nível de cultivo e importam tanto quanto ele:
 
@@ -291,7 +291,7 @@ Duas escalas paralelas correm por fora do nível de cultivo e importam tanto qua
 |---|---|---|
 | Coração de Mulher ⭐ | 6 | Funde refino e nutrição; o veneno cresce com o que consome |
 | Céu de Jade | 5 | Veneno imemorial; mata em horas convertendo o corpo em luz |
-| Separação de Amor e Vida | 2 | O número um dos venenos de nível 2; feridas que a cura de nível 3 não fecha |
+| Separação de Amor e Vida | 2 | O número um dos venenos de rank 2; feridas que a cura de rank 3 não fecha |
 | Veneno de Portão Único | — | Morte em sete dias sem o antídoto-contraparte; escraviza pela dependência |
 | Escorpião Venenoso | 3 | Veneno único por indivíduo; exige antídoto a cada sete dias |
 | Veneno da Lua | 3 | Lâmina lunar que se converte em miasma roxo, letal por inalação |
@@ -318,7 +318,7 @@ caminho do veneno que a obra descreve com mecanismo, não só com nome:
 | **Sopro Venenoso** | imortal | Converte **a respiração do usuário** em gás venenoso: cada expiração solta veneno. A obra é franca sobre a potência — *o golpe tem pouca força* —, e explícita sobre a virtude: **sustentabilidade**. Passado tempo suficiente, todo o entorno do usuário está coberto de uma camada de veneno que envenena continuamente pessoas e coisas. É uma arma de cerco, não de duelo |
 | **Ferroada de Abelha Assassina** | imortal | Chuva de **milhares de agulhas** envenenadas, como uma tempestade. Qualquer criatura de baixo nível atingida morre no ato, com a carne se desintegrando. É o golpe de limpeza de tropa do caminho |
 | **Cuspe Venenoso** | imortal | Cospe veneno concentrado. O limite é o próprio usuário: **três acionamentos** com um corpo imortal de zumbi, e o resíduo do quarto mataria a alma dele. Não pode ser encadeado |
-| **Golpe de gás sem aura** | mortal | Gás **incolor, inodoro e sem aura nenhuma** no acionamento — invisível para métodos de detecção. Derruba inconscientes Mestres Gu de nível 3 para baixo. Fraco e excelente ao mesmo tempo, pela furtividade |
+| **Golpe de gás sem aura** | mortal | Gás **incolor, inodoro e sem aura nenhuma** no acionamento — invisível para métodos de detecção. Derruba inconscientes Mestres Gu de rank 3 para baixo. Fraco e excelente ao mesmo tempo, pela furtividade |
 | **Revoada de gansos venenosos** | imortal | Lança fluido venenoso que, no ar, **se transforma em gansos** que voam em formação; a variação faz o veneno vazar por onde o grasnado alcança. Método pessoal de um imortal específico — um bom lembrete de que golpes são autorais, e que ver o seu golpe na mão de outra pessoa é um evento |
 | **Golpe de cura de praga** | imortal | Feito sob medida contra **uma doença específica**, depois de estudá-la; elimina a praga de dentro do corpo do doente. O caminho cura pesquisando, não improvisando |
 

@@ -139,14 +139,14 @@ furos.
 
 | # | A exceção | Por que funciona | O que ela custa |
 |---|---|---|---|
-| 1 | **Trocar o combustível** | um Gu de nível 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de nível 1 | dano corporal potencialmente letal com o uso repetido |
+| 1 | **Trocar o combustível** | um Gu de rank 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de rank 1 | dano corporal potencialmente letal com o uso repetido |
 | 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia — um deles só ativa se o usuário acreditar sinceramente estar do lado certo | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
-| 3 | **Vínculo de [[05 - Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
+| 3 | **Vínculo de [[05 - Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de rank 6 carregado por um cultivador de rank 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
 | 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[06 - Refino de Gu\|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
-| 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de nível 6 que se camuflou de uma inspeção de nível 4 dentro da abertura de um Mestre de nível 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
+| 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de rank 6 que se camuflou de uma inspeção de rank 4 dentro da abertura de um Mestre de rank 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
 
 Some a isso um sexto caso, o mais concreto de todos: existe registro de um Mestre Gu de
-**nível 3** que acionou o **Crânio de Sangue**, um Gu de **nível 4** do
+**rank 3** que acionou o **Crânio de Sangue**, um Gu de **rank 4** do
 [[03 - Blood Path|caminho do sangue]], para converter mortes ao redor em aptidão permanente (ver
 [[03 - Aptidão|Aptidão]] para o caso e [[03 - Blood Path|Blood Path]] para o Gu). Ele pertence à mesma família da exceção
 1 — Gu demoníacos tipicamente cobram em vidas, sangue ou corpo, não em essência do usuário —,

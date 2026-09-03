@@ -31,7 +31,7 @@ movimento — mais uma sétima que é só dele: **escravizar fantasmas**.
 
 Historicamente, teve um auge assustador: em determinado momento, **cinco em cada dez Mestres
 Gu** o cultivavam. Os massacres praticados por seus adeptos criaram um comércio de almas que
-existiu abertamente. Depois, uma figura de nível 9 o suprimiu **por meios pacíficos** — e hoje
+existiu abertamente. Depois, uma figura de rank 9 o suprimiu **por meios pacíficos** — e hoje
 a venda de almas é rara e clandestina até no maior mercado do mundo.
 
 ## Mecânicas típicas
@@ -62,7 +62,7 @@ tema**, e eles são **empilháveis**.
 É uma progressão de personagem lenta e cumulativa: você não só fica mais forte, você fica
 mais forte **numa direção**, e essa direção fica gravada na sua alma.
 
-Os limites: um Gu de nível 4 só leva a fundação até certo patamar; um de nível 5 exige a alma
+Os limites: um Gu de rank 4 só leva a fundação até certo patamar; um de rank 5 exige a alma
 **intacta** de um imperador de feras, com cerca de 50% de sucesso.
 
 ### Almas divididas
@@ -88,7 +88,7 @@ a primeira tentativa falhou, com dor intensa e ferimento à alma.
 
 O uso mais perturbador, e o melhor gancho de campanha do caminho inteiro: a identidade real
 de uma pessoa pode ser **apagada e substituída** — de forma **indetectável até por um
-cultivador de nível 9**. O portador **não sabe** que foi modificado.
+cultivador de rank 9**. O portador **não sabe** que foi modificado.
 
 Restaurar exige um fragmento da alma original preservado, mais uma formação num local
 específico. Ou seja: é reversível, mas apenas se alguém guardou a prova.
@@ -227,7 +227,7 @@ A nota afirma, corretamente, que **vasculhar uma alma nunca transfere erudição
 memórias e fatos, mas a compreensão pessoal do Dao é intransferível. Essa regra vale. Mas a
 obra registra uma exceção, e ela é importante o bastante para não ficar de fora.
 
-Um Mestre Gu de nível 4 do [[07 - Enslavement Path|caminho da escravização]] recebeu, no meio de uma
+Um Mestre Gu de rank 4 do [[07 - Enslavement Path|caminho da escravização]] recebeu, no meio de uma
 batalha, a alma de um ancião da própria tribo, que se sacrificou e a entregou a ele. Usando um
 Gu de terceiro, ele **absorveu o poder daquela alma** — e com isso *ganhou, naquele curto
 período, o domínio de um mestre da escravização*.
@@ -256,7 +256,7 @@ alma: a fundação de alma é **moeda universal de tarefas mentais**.
   bestas, a qualidade dos Gu de escravização, e **a fundação da alma**. Com alma de cem homens,
   reis-fera que resistiam ferozmente à submissão cedem sem competição real.
 - No **refino**, uma alma forte e uma vontade firme permitem subjugar Gu acima do próprio
-  alcance normal — há registro de um Gu de nível 5 subjugado em quinze minutos por alguém que
+  alcance normal — há registro de um Gu de rank 5 subjugado em quinze minutos por alguém que
   não tinha Gu adequado, só fundação.
 - Em **golpes que fabricam duplos** de outros caminhos, cada duplo carrega um traço da alma do
   usuário — e por isso o golpe **consome fundação de alma**, não essência.
@@ -281,12 +281,12 @@ alma é tempo — e é por isso que os lugares que a aceleram são tesouros naci
 | Faixa | O que o caminho entrega |
 |---|---|
 | **Níveis 1–3** | A cadeia ofensiva básica — fogo fantasma e suas evoluções — e os primeiros Gu de fortalecimento. Nesta faixa o caminho já entrega o que o torna popular: **atacar o que a armadura não protege** |
-| **Nível 4** | O patamar em que a fundação de alma começa a valer como recurso próprio. Um Gu de fortalecimento de nível 4 leva a fundação só até certo ponto |
-| **Nível 5** | Fantasmas em massa que destroem almas sem tocar corpos, explosões invisíveis de alma. O Gu de fortalecimento desta faixa exige a **alma intacta de um imperador de feras** e tem cerca de **50% de sucesso** |
-| **Nível 6** | Limpeza e refino de alma; remoção de armadilhas de alma implantadas por outros |
-| **Nível 7** | Troca completa de almas entre corpos, extração de informação, uivo que sacode almas à distância. É a faixa dos usos que reescrevem identidade |
-| **Nível 8** | Escravização de feras de alma, inclusive imemoriais |
-| **Nível 9** | O fundador. A alma **passa de fantasma a sólida** e interfere com a matéria; a fundação ultrapassa a casa das centenas de milhões |
+| **Rank 4** | O patamar em que a fundação de alma começa a valer como recurso próprio. Um Gu de fortalecimento de rank 4 leva a fundação só até certo ponto |
+| **Rank 5** | Fantasmas em massa que destroem almas sem tocar corpos, explosões invisíveis de alma. O Gu de fortalecimento desta faixa exige a **alma intacta de um imperador de feras** e tem cerca de **50% de sucesso** |
+| **Rank 6** | Limpeza e refino de alma; remoção de armadilhas de alma implantadas por outros |
+| **Rank 7** | Troca completa de almas entre corpos, extração de informação, uivo que sacode almas à distância. É a faixa dos usos que reescrevem identidade |
+| **Rank 8** | Escravização de feras de alma, inclusive imemoriais |
+| **Rank 9** | O fundador. A alma **passa de fantasma a sólida** e interfere com a matéria; a fundação ultrapassa a casa das centenas de milhões |
 
 Repare que a progressão de **nível** e a de **fundação de alma** são independentes: um Mestre Gu
 mortal pode ter alma de cem homens, e um imortal pode ter fundação medíocre se cultivou outro
@@ -341,8 +341,8 @@ Três limites importantes o impedem de ser dominante:
 2. **É ineficaz contra almas somadas em formação** — grupos coordenados resistem onde
    indivíduos cedem.
 3. **A resistência escala com a erudição antiga em caminho da alma, mesmo em fragmento.** O
-   resto de alma de uma figura lendária resiste parcialmente a uma casa de Gu de nível 8, onde
-   um resto comum não resistiria nem a uma de nível 6.
+   resto de alma de uma figura lendária resiste parcialmente a uma casa de Gu de rank 8, onde
+   um resto comum não resistiria nem a uma de rank 6.
 
 **Fora de combate**, é o caminho do **interrogatório e da identidade**:
 
@@ -380,7 +380,7 @@ Três limites importantes o impedem de ser dominante:
 - **Formações coletivas de alma.** Grupos resistem.
 - **Conflito de camada.** Dois golpes de caminhos diferentes aplicados à **mesma camada** — no
   caso, a alma — competem por posição, e o que fica por baixo é **rebaixado um nível**. Um Gu
-  que deveria ser nível 7 saiu nível 6 por estar sob outro efeito. A penalidade é superável com
+  que deveria ser rank 7 saiu rank 6 por estar sob outro efeito. A penalidade é superável com
   fundação suficiente, mas o teto dela nunca é definido.
 - **O estigma.** Menos absoluto que o do caminho do sangue, mas real: o comércio de almas foi
   suprimido e hoje é clandestino.
@@ -410,11 +410,11 @@ Três limites importantes o impedem de ser dominante:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco da Alma Espectral** — nível 9, criador formal do caminho e a figura
+- **O Venerável Demoníaco da Alma Espectral** — rank 9, criador formal do caminho e a figura
   com mais mortes em toda a história registrada. Gu de alma já existiam desde a era imemorial,
   mas o **caminho** é obra dele. Sua imagem, com três cabeças e mil braços, ainda é objeto de
   culto entre mortais de uma região inteira.
-- **O Venerável que o suprimiu** — figura de nível 9 que reduziu o caminho da alma por meios
+- **O Venerável que o suprimiu** — figura de rank 9 que reduziu o caminho da alma por meios
   pacíficos, não por guerra. É um dos poucos casos na obra em que um caminho declina por
   política em vez de por esgotamento de recursos.
 

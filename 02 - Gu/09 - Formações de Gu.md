@@ -128,7 +128,7 @@ Além de defender, formações fazem coisas que nenhum golpe faz bem:
   attainment de grande grão-mestre; um grão-mestre comum consegue apenas "ver por cima", não
   reconstruir o feito.
 - **Distorcer a percepção de tempo.** Uma formação que misturava cinco caminhos diferentes fazia
-  os presos **subestimarem o tempo decorrido** — nem cultivadores de nível 8 perceberam quantos
+  os presos **subestimarem o tempo decorrido** — nem cultivadores de rank 8 perceberam quantos
   dias haviam passado até saírem.
 - **Localizar e punir à distância por vínculo ritual.** Um clã mantinha, no salão ancestral,
   Gu-tabuleta ligados a cada membro; uma formação usava esses Gu como entrada para **deduzir a
@@ -145,7 +145,7 @@ Além de defender, formações fazem coisas que nenhum golpe faz bem:
   primitivo, por falta de demanda.
 - **Alterar a geografia mágica.** Uma organização construiu uma formação capaz de gerar uma
   "maré de terra" artificial, puxando força do fundo do mar para **afinar temporariamente um
-  trecho da muralha regional** e reduzir as perdas de quem precisava atravessá-la.
+  trecho da parede regional** e reduzir as perdas de quem precisava atravessá-la.
 
 ### O espírito da formação
 
@@ -167,7 +167,7 @@ Três Gu resolvem, cada um à sua maneira, o problema de montar e mover formaç�
   imortal. Atua como um regente central coordenando dezenas ou centenas de Gu. Cuidado: reaproveitar
   uma prancheta já em uso exige apagar o conteúdo antigo e regravar, e sem um método para copiar
   os dados antes isso causa **perda permanente** da capacidade de montar a formação anterior. Usar
-  uma prancheta de nível 6 para uma formação de nível 7 tem alta chance de falha.
+  uma prancheta de rank 6 para uma formação de rank 7 tem alta chance de falha.
 - **Gu-estandarte (Formation Flag Gu).** Guarda uma formação **já montada** dentro do campo de
   visão e permite teletransportar-se com ela, remontando-a em outro lugar. É a solução para o
   problema de que formações são, por natureza, imóveis.
@@ -193,7 +193,7 @@ Isolar e cortar a saída é literalmente o desenho da categoria.
 cultivadores imortais nunca terá um. A escala vai de um "quase-campo-de-batalha" (até mil *li*,
 mais forte que um golpe comum mas ainda não um campo pleno) até o **campo de batalha imortal**,
 que cobre milhares de *li*, combina três golpes ou três Casas de Gu Imortais num efeito
-unificado, e consegue prender até um cultivador de nível 8.
+unificado, e consegue prender até um cultivador de rank 8.
 
 Campos de batalha imortais costumam ter **estágios progressivos**. Um caso documentado tem três:
 primeiro o terreno é transformado, depois vem uma onda ofensiva, e por fim são invocados
@@ -239,7 +239,7 @@ cinco regiões.
 
 - **Exigem prática extensa.** Uma formação famosa, historicamente classificada em terceiro lugar
   entre todas as formações ancestrais e capaz de formar um gigante com poder equivalente ao de
-  um cultivador de nível 8, **colapsou no primeiro uso real** e matou por backlash o operador
+  um cultivador de rank 8, **colapsou no primeiro uso real** e matou por backlash o operador
   principal.
 - **Rompê-la à força fere gravemente ou mata os formadores.**
 - **Versões incompletas cobram um preço estrutural.** Uma formação de teleporte cujo Gu Imortal
@@ -247,7 +247,7 @@ cinco regiões.
   dos participantes a cada ativação** — não apenas essência. Exige movimento sincronizado de
   todos, e tentativas malsucedidas causam backlash e ferimentos em todo o grupo, com intensidade
   variável por indivíduo.
-- **Recarga não é instantânea**, e há proibições de uso: usá-las dentro das muralhas regionais é
+- **Recarga não é instantânea**, e há proibições de uso: usá-las dentro das paredes regionais é
   vedado, porque formações de grupo amplificam o backlash.
 
 ## Casas de Gu Imortais: as estruturas tripuladas
@@ -298,7 +298,7 @@ sabedoria.
   zero, e qualquer erro causa backlash tanto no cultivador quanto na própria Casa. Por isso super
   clãs **nunca as emprestam**, nem a membros de confiança.
 - **O Gu núcleo é insubstituível.** Gu suplementares se repõem; se o **núcleo** é destruído, a
-  Casa não pode ser reconstruída. Há registro de uma Casa de nível 9 permanentemente perdida
+  Casa não pode ser reconstruída. Há registro de uma Casa de rank 9 permanentemente perdida
   assim.
 - **Nenhuma Casa resiste a um reino de sonho.** Confirmado em dois níveis diferentes: uma Casa
   que caia dentro de um reino de sonho é corroída, e transformar a estrutura em fantasma não
@@ -318,17 +318,17 @@ E há uma opção final: existe método para **detonar de propósito a própria 
 Uma categoria à parte, cuja função não é combater e sim **fabricar**. Ver
 [[06 - Refino de Gu|Refino de Gu]] e [[08 - Refinement Path|Refinement Path]].
 
-O fato econômico central é este: **refinar um Gu Imortal de nível 8 fora de uma grande
+O fato econômico central é este: **refinar um Gu Imortal de rank 8 fora de uma grande
 instalação de refino custa pelo menos dez vezes mais materiais imortais**. A instalação não é um
 luxo — é a diferença entre um projeto viável e a ruína. A obra dá o contraste: um cultivador de
-nível 8 esgotou todas as reservas e espremeu os subordinados para reunir material para **um
+rank 8 esgotou todas as reservas e espremeu os subordinados para reunir material para **um
 único** Gu Imortal, ao custo do colapso da própria terra abençoada.
 
 Modalidades documentadas:
 
 - **Formações de retrocesso temporal.** Certas formações de refino recuam o tempo no curto prazo,
   permitindo desfazer erros. Uma organização mantém mais de dez delas, cada uma com sua
-  desvantagem própria — consumo imenso de essência, número limitado de usos, teto de nível 6.
+  desvantagem própria — consumo imenso de essência, número limitado de usos, teto de rank 6.
 - **A Piscina do Arrependimento.** A maior delas, e uma das três piscinas lendárias do mundo:
   refaz automaticamente um Gu Imortal **já destruído**, usando um afluente do Rio do Tempo, desde
   que exista uma insígnia preservada de um refino anterior bem-sucedido. Taxa entre cinquenta e
@@ -343,9 +343,9 @@ Modalidades documentadas:
 - **A síntese histórica.** No fim da obra aparece uma instalação que funde quatro tecnologias
   distintas de refino e incorpora dezenas de técnicas nomeadas ao longo da história. Ela reduz
   drasticamente o custo, eleva a taxa de sucesso e permite **produção em série de Gu Imortais de
-  nível 8** — algo que a própria narrativa descreve como além da imaginação de qualquer
+  rank 8** — algo que a própria narrativa descreve como além da imaginação de qualquer
   cultivador, já que o normal é lutar a vida inteira por um único sucesso no próprio teto.
-  Tetos que permanecem: nem ela refina Gu de nível 9, e certos Gu de nível 8 ficam de fora por
+  Tetos que permanecem: nem ela refina Gu de rank 9, e certos Gu de rank 8 ficam de fora por
   falta de material. O gargalo final continua sendo a regra de unicidade — não podem existir
   duplicatas de um Gu Imortal no mundo.
 

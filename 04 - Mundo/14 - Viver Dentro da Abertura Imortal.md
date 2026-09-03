@@ -103,7 +103,7 @@ contrário. Essa afinidade decide o que se planta com sucesso e o que a terra re
 
 - **Veias de dao e pontos de recurso** — a riqueza territorial é graduada, do mínimo ao
   máximo, e a grade determina **até que patamar de Gu aquele ponto consegue produzir**.
-  Os três portes menores cobrem toda a faixa mortal, do nível 1 ao 5; os grandes sustentam
+  Os três portes menores cobrem toda a faixa mortal, do rank 1 ao 5; os grandes sustentam
   material imortal. Um ponto de recurso não é só uma jazida: qualquer enxame de insetos
   comuns solto dentro dele **vira Gu com o tempo**. É assim que o imortal fabrica os
   milhares de Gu mortais que gasta — ver [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]].

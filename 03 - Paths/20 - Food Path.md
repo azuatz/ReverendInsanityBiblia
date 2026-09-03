@@ -27,11 +27,11 @@ valiosos do mundo, por uma razão simples: **todo Gu come**.
 
 Como explicado em [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]], alimentar Gu Imortais é o gargalo estrutural do
 cultivador forte. Um imortal com muitos Gu vive o problema recorrente de sustentá-los, e
-alimentar um único Gu de nível 8 é descrito como "um projeto enorme" — houve caso em que
+alimentar um único Gu de rank 8 é descrito como "um projeto enorme" — houve caso em que
 exigiu construir **um pântano inteiro**.
 
 Por isso as **verdadeiras heranças do caminho da comida estão entre os bens mais cobiçados do
-mundo**: há registro de vários cultivadores de nível 8 tentando comprar uma única delas ao
+mundo**: há registro de vários cultivadores de rank 8 tentando comprar uma única delas ao
 mesmo tempo. Quem detém uma tem poder de negociação sobre gente muito mais forte que ele.
 
 O caminho também é objeto de **segredo absoluto**: o conhecimento sobre alimentação de Gu, de
@@ -48,8 +48,8 @@ regional generalizado.
 
 O uso mais direto: Gu que reduzem a necessidade alimentar de outros Gu.
 
-Um deles substitui até **40% da alimentação** de um Gu Imortal de nível 6 — cerca de 6% por
-uso —, com efeito mais fraco em nível 7. Precisa se recuperar entre acionamentos (as folhas
+Um deles substitui até **40% da alimentação** de um Gu Imortal de rank 6 — cerca de 6% por
+uso —, com efeito mais fraco em rank 7. Precisa se recuperar entre acionamentos (as folhas
 têm de voltar a ficar verdes), e **usá-lo além do limite mata o próprio Gu**.
 
 Outro, sozinho, é literalmente descrito como **inútil**: permite comer *qi* de fragrância para
@@ -78,8 +78,8 @@ A linhagem mais antiga e mais popular do caminho: uma família de Gu que **refin
 próprio Mestre** um pequeno estágio acima, alimentando-se de vinho.
 
 É a espinha dorsal do avanço de cultivo de milhões de Mestres Gu comuns, e a cadeia evolutiva
-vai do nível 1 ao nível 4. No topo imortal, existe uma versão de nível 8 que, com os oito
-vinhos supremos, **converte essência de nível 8 em essência de nível 9**.
+vai do rank 1 ao rank 4. No topo imortal, existe uma versão de rank 8 que, com os oito
+vinhos supremos, **converte essência de rank 8 em essência de rank 9**.
 
 ### Ataque por alimentação
 
@@ -247,9 +247,9 @@ nunca ter estudado nenhum deles do zero. ==Comer é a única forma documentada d
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Verme do Licor Imortal ⭐ | 8 | Com os oito vinhos supremos, converte essência de nível 8 em nível 9 |
+| Verme do Licor Imortal ⭐ | 8 | Com os oito vinhos supremos, converte essência de rank 8 em rank 9 |
 | Fragrância Medicinal ⭐ | 8 | Preenche o ambiente com fragrância curativa; cura todos os presentes |
-| Petisco ⭐ | 6 | Substitui até 40% da alimentação de um Gu Imortal de nível 6 |
+| Petisco ⭐ | 6 | Substitui até 40% da alimentação de um Gu Imortal de rank 6 |
 | Comer Fragrância ⭐ | 6 | Permite saciar fome consumindo *qi* de fragrância |
 | Caixa de Gourmet | 5 / ⭐ | Preserva pratos prontos; alimenta um exército num único gesto |
 | Verme do Licor (cadeia) | 1–4 | Refina a essência do usuário um pequeno estágio acima |
@@ -283,7 +283,7 @@ armazenada) em vez do corpo. Contra um inimigo entrincheirado, é a resposta.
 - **Ganhar marcas do Dao** pela via lenta e segura.
 
 O caminho também estabelece um princípio econômico geral que vale registrar: **comprar comida
-no mercado é insustentável a longo prazo**. Manter um Gu Imortal de nível 7 por compra é caro
+no mercado é insustentável a longo prazo**. Manter um Gu Imortal de rank 7 por compra é caro
 demais; o modelo viável é possuir um **ponto de recurso próprio**. O caminho da comida é
 exatamente o que permite converter território em autonomia.
 
@@ -353,12 +353,12 @@ exatamente o que permite converter território em autonomia.
 
 ## Praticantes notáveis (sem enredo)
 
-- **Paradise Earth Immortal Venerable** — figura de nível 9 associada à completude dos
+- **Paradise Earth Immortal Venerable** — figura de rank 9 associada à completude dos
   métodos de comida deste caminho, e uma das poucas a converter esse conhecimento em ganho de
   marcas do Dao em escala.
 - Como referência de escassez: as verdadeiras heranças do caminho são tão poucas que a
   aparição de **uma** delas num mercado atrai propostas simultâneas de vários cultivadores de
-  nível 8.
+  rank 8.
 
 ## Relações
 

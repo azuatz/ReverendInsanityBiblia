@@ -6,7 +6,7 @@ tags:
 aliases:
   - Eastern Sea
   - Forças do Mar Oriental
-  - Mar do Leste
+  - Mar Oriental
 status: verificado-no-texto
 fontes: ["cap. 260", "cap. 334", "cap. 353", "cap. 411", "cap. 425", "cap. 491", "cap. 545", "cap. 598", "cap. 653", "cap. 673", "cap. 679", "cap. 683", "cap. 687", "cap. 745-746", "cap. 750-753", "cap. 818-820", "cap. 844", "cap. 892-899", "cap. 903", "cap. 906-908", "cap. 918-921", "cap. 927-928", "cap. 965", "cap. 980", "cap. 985-988", "cap. 1045-1048", "cap. 1093", "cap. 1103", "cap. 1149-1158", "cap. 1191", "cap. 1236", "cap. 1240", "cap. 1295-1298", "cap. 1394", "cap. 1408", "cap. 1435-1437", "cap. 1472", "cap. 1485-1488", "cap. 1610", "cap. 1648-1674", "cap. 1680-1695", "cap. 1700-1707", "cap. 1716", "cap. 1725", "cap. 1799", "cap. 1803-1804", "cap. 1837-1839", "cap. 1846", "cap. 1850", "cap. 1868", "cap. 1881-1885", "cap. 1888-1902", "cap. 1909-1916", "cap. 1923", "cap. 1979-1991", "cap. 2047", "cap. 2059", "cap. 2069", "cap. 2074", "cap. 2087", "cap. 2102-2105", "cap. 2110", "cap. 2136-2137", "cap. 2143", "cap. 2194", "cap. 2217", "cap. 2238-2239", "cap. 2255"]
 conhecimento: comum

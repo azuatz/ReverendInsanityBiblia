@@ -19,7 +19,7 @@ visível, mensurável, transferível e roubável. Para entender o que é um "cam
 
 Este é o caminho mais **secreto** de todos os que existem de fato.
 
-Ele foi inventado e mantido em segredo por um único ser de nível 9, que passou a existência
+Ele foi inventado e mantido em segredo por um único ser de rank 9, que passou a existência
 lucrando com ele — roubando a sorte alheia e transferindo o azar. Publicamente, o caminho da
 sorte era apenas uma **lenda nunca confirmada**. A maior parte do mundo, incluindo
 cultivadores de altíssimo nível, não sabe que ele é real.
@@ -123,15 +123,15 @@ Ela ensina a alterar **tamanho, forma e cor** da própria sorte: quem quer roman
 de flor de pessegueiro; quem quer recursos fabrica sorte de riqueza; quem está com o caixão
 preto em cima tenta convertê-lo em outra coisa antes que ele se cumpra.
 
-O ápice dessa herança é uma **casa de Gu Imortal de nível 6** cuja função principal é
+O ápice dessa herança é uma **casa de Gu Imortal de rank 6** cuja função principal é
 literalmente **cozinhar sorte**: a sorte entra no caldeirão, ferve, dois dragões na borda
 bebem e cospem, e sai transformada no tipo que o dono encomendou. Ela carrega dentro de si
 vários Gu Imortais de sorte de uma vez, e as habilidades deles são apenas as **funções
 básicas** do conjunto.
 
-E ela traz embutida a regra número 2 do caminho, virada em número: uma casa de nível 6 **mal
-consegue afetar** a sorte de um dono de nível 8, mas muda a sorte de um mortal ou de um
-nível 7 **imediatamente**. Sorte só se manipula para baixo na escala de força.
+E ela traz embutida a regra número 2 do caminho, virada em número: uma casa de rank 6 **mal
+consegue afetar** a sorte de um dono de rank 8, mas muda a sorte de um mortal ou de um
+rank 7 **imediatamente**. Sorte só se manipula para baixo na escala de força.
 
 ### Sorte é matéria do mundo, não propriedade das pessoas
 
@@ -149,7 +149,7 @@ Três fatos que, juntos, transformam a sorte de estatística de personagem em **
    uma região é, ao mesmo tempo, plantar uma torre de vigia no quintal do inimigo e enfraquecê-lo.
    Quando o dono morre, as marcas **voltam ao controle do céu**.
 
-Existe até um material imortal de nível 8 do caminho — uma jade que brilha por conta própria e
+Existe até um material imortal de rank 8 do caminho — uma jade que brilha por conta própria e
 concentra uma densidade enorme de marcas de sorte.
 
 ### O que o acúmulo de marcas destranca
@@ -166,8 +166,8 @@ mesmo sem nenhum Gu; e o da **sorte** ganha **sensibilidade à própria sorte e 
 redor** — um radar interno que não gasta nada e não pode ser confiscado.
 
 A obra **não dá o número** de marcas necessário — `—`. Mas dá um caso: alguém que era apenas
-o primeiro herdeiro de uma herança de sorte, **sem sequer ter cultivo de nível 7**, tinha
-marcas de sorte "não inferiores às de um imortal de sorte de nível 7", e era isso que
+o primeiro herdeiro de uma herança de sorte, **sem sequer ter cultivo de rank 7**, tinha
+marcas de sorte "não inferiores às de um imortal de sorte de rank 7", e era isso que
 justificava a expectativa da promoção. Marcas contam; nível de cultivo, não. Ver
 [[16 - Dao Marks|Dao Marks]].
 
@@ -229,8 +229,7 @@ algumas centenas de metros e se fundem numa única formação. Uma vila pode ser
 distância.
 
 Regra de limite: **inspecionar a sorte de alguém de nível igual ou superior exige um Gu de
-nível maior**. Um investigador de nível 5 não enxerga a influência de um Gu de sorte de nível
-8 — e nem sabe que não está enxergando.
+nível maior**. Um investigador de rank 5 não enxerga a influência de um Gu de sorte de rank 8 — e nem sabe que não está enxergando.
 
 ### As leis da sorte
 
@@ -296,17 +295,17 @@ das habilidades do outro. Sorte é, literalmente, redução de variância compar
 | Sorte do Tempo ⭐ | — | Gu duplo de sorte e tempo: compra aumento de sorte gastando essência imortal e **tempo de vida** |
 | Sorte de Qi ⭐ | — | Gu duplo de sorte e qi, um dos que a casa de cozinhar sorte carrega |
 | Inspeção de Sorte | 5 / ⭐ 6 | Torna a sorte visível como aura; detecta identidade sob disfarce. É a **fundação** de todo o resto: sem medir, não há como operar |
-| Coração Favorecido | 9 (material) | **Não é um Gu, é um material**: fica no núcleo de todo Tesouro da Terra e é o que permitiria refinar sorte na escala de nível 9 |
+| Coração Favorecido | 9 (material) | **Não é um Gu, é um material**: fica no núcleo de todo Tesouro da Terra e é o que permitiria refinar sorte na escala de rank 9 |
 | Jade da Sorte | 8 (material) | Material imortal do caminho; brilha sozinho e concentra uma densidade enorme de marcas de sorte |
 
-**Casas de Gu Imortal do caminho.** O fundador teve **três casas de nível 8** ao longo da vida,
+**Casas de Gu Imortal do caminho.** O fundador teve **três casas de rank 8** ao longo da vida,
 e duas delas são de sorte; a primeira da lista abaixo não é dele, é a **criação de ápice da
 herança da sorte de si** — montada por quem a estudou depois:
 
 | Casa | Nível | O que faz |
 |---|---|---|
-| Caldeirão de Cozinhar Sorte | 6 | Converte **qualquer forma de sorte na forma que o dono quiser**. Carrega vários Gu Imortais de sorte, cujos efeitos são só as funções básicas dela. Uma casa de nível 6 mal afeta um dono de nível 8, mas muda um mortal na hora |
-| Altar da Calamidade e da Sorte | 8 | **Inverte calamidade e sorte**, transformando uma na outra e interligando as duas em ciclo contínuo. É por causa dele que um território de nível 9 atravessa as próprias calamidades e tribulações sem absorver fragmento nenhum dos céus imemoriais. Operado por oito imortais posicionados em nove cantos |
+| Caldeirão de Cozinhar Sorte | 6 | Converte **qualquer forma de sorte na forma que o dono quiser**. Carrega vários Gu Imortais de sorte, cujos efeitos são só as funções básicas dela. Uma casa de rank 6 mal afeta um dono de rank 8, mas muda um mortal na hora |
+| Altar da Calamidade e da Sorte | 8 | **Inverte calamidade e sorte**, transformando uma na outra e interligando as duas em ciclo contínuo. É por causa dele que um território de rank 9 atravessa as próprias calamidades e tribulações sem absorver fragmento nenhum dos céus imemoriais. Operado por oito imortais posicionados em nove cantos |
 | Palácio Celeste da Supressão da Sorte | 8 | Arruma as **marcas de sorte de uma região inteira** e participa das operações do céu e da terra e da sorte dos seres vivos dali. Ficou trezentos mil anos suprimindo uma área. Interfere até onde a vontade do céu não interfere |
 
 **Golpes de assinatura.** O caminho tem poucos golpes nomeados na obra — o peso está nos Gu.
@@ -341,17 +340,17 @@ segue é a escada **reconstruída a partir dos Gu e efeitos que aparecem em cada
 | **Rank 6 (primeiro degrau imortal)** | Manipulação de si e de vínculos: esconder a própria sorte, elevá-la, conectá-la à de outros, rompê-la, selá-la, transferi-la, gastá-la depressa. É a faixa da **sorte de si** e da entrada na **sorte de todos os seres** |
 | **Rank 7** | Manipulação de calamidade: desviar desastres de um território, convocar a calamidade alheia para si, converter infortúnio em benefício, reverter má sorte em boa. A faixa onde o caminho deixa de mexer em pessoas e passa a mexer em **eventos** |
 | **Rank 8** | O topo declarado: um Gu que **absorve continuamente a sorte de todos os seres vivos ao redor do portador**, concentrando-a nele. É o ápice da sorte de todos os seres, e é descrito como "metade do acúmulo de vida" do fundador |
-| **Rank 9** | `—` **A obra não descreve nenhum Gu Imortal de nível 9 do caminho da sorte.** O que ela dá é o **material**: existe um material de nível 9 do caminho, encontrado no núcleo de todo Tesouro da Terra, e é ele que permitiria refinar sorte nessa escala |
-| **Casas de Gu Imortal** | O caminho tem pelo menos três, todas do fundador: uma de nível 6 que **cozinha e converte sorte**, e duas de nível 8 — uma que **inverte calamidade e sorte** (a defesa de um território de nível 9, que sobrevive às próprias tribulações graças a ela) e outra que **arruma as marcas de sorte de uma região inteira**, participando das operações do céu e da terra e do funcionamento da sorte de todos os vivos daquela área |
+| **Rank 9** | `—` **A obra não descreve nenhum Gu Imortal de rank 9 do caminho da sorte.** O que ela dá é o **material**: existe um material de rank 9 do caminho, encontrado no núcleo de todo Tesouro da Terra, e é ele que permitiria refinar sorte nessa escala |
+| **Casas de Gu Imortal** | O caminho tem pelo menos três, todas do fundador: uma de rank 6 que **cozinha e converte sorte**, e duas de rank 8 — uma que **inverte calamidade e sorte** (a defesa de um território de rank 9, que sobrevive às próprias tribulações graças a ela) e outra que **arruma as marcas de sorte de uma região inteira**, participando das operações do céu e da terra e do funcionamento da sorte de todos os vivos daquela área |
 
 Duas observações que valem mais que a tabela:
 
 - **A escada de cultivo e a escada de domínio andam separadas aqui.** Existe registro de um
-  praticante que não tinha nível 7 de cultivo e mesmo assim carregava marcas de sorte
-  equivalentes às de um imortal de nível 7, por ser o **primeiro herdeiro** de uma herança do
+  praticante que não tinha rank 7 de cultivo e mesmo assim carregava marcas de sorte
+  equivalentes às de um imortal de rank 7, por ser o **primeiro herdeiro** de uma herança do
   caminho. Neste caminho, herdar vale mais que subir. (ded.)
 - **O caminho é acessível na base e murado no topo.** Faltam materiais imortais de sorte de
-  nível 8 no mundo: há Gu deste caminho que ninguém consegue refinar por falta de matéria-prima.
+  rank 8 no mundo: há Gu deste caminho que ninguém consegue refinar por falta de matéria-prima.
 
 ## Em combate e fora dele
 
@@ -359,8 +358,7 @@ Duas observações que valem mais que a tabela:
 falhar, a arma quebrar. Há registro de **três tentativas de assassinato bloqueadas por
 eventos completamente não relacionados** — o alvo nunca soube que foi atacado.
 
-A defesa mais famosa do caminho é **informe e incapturável** até por uma casa de Gu de nível
-8. Não há o que dissipar; não há o que atacar.
+A defesa mais famosa do caminho é **informe e incapturável** até por uma casa de Gu de rank 8. Não há o que dissipar; não há o que atacar.
 
 **Fora de combate**, é onde o caminho brilha:
 
@@ -400,7 +398,7 @@ A defesa mais famosa do caminho é **informe e incapturável** até por uma casa
   simplesmente não é afetado.
 - **Descontrole.** Elevar a sorte geral muda circunstâncias de modo imprevisível e pode
   arruinar um plano meticuloso. O caminho é péssimo para quem precisa de precisão.
-- **A própria unicidade.** Faltam materiais imortais de sorte de nível 8 no mundo — há Gu
+- **A própria unicidade.** Faltam materiais imortais de sorte de rank 8 no mundo — há Gu
   deste caminho que ninguém consegue refinar por falta de matéria-prima.
 - **A regra de unicidade.** Confirmada especificamente aqui: um refinador com processo
   correto falha repetidamente se alguém já refinou o exemplar. Ver [[16 - Gu Imortais|Gu Imortais]].
@@ -452,7 +450,7 @@ A defesa mais famosa do caminho é **informe e incapturável** até por uma casa
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Imortal Sol Gigante** — nível 9, inventor do caminho e responsável por
+- **O Venerável Imortal Sol Gigante** — rank 9, inventor do caminho e responsável por
   mantê-lo em segredo. Sua estrutura mais famosa é sustentada por um Gu de sorte que desvia
   calamidades de toda uma região, ao custo de despejá-las em outra.
 - O caminho é tão fechado que boa parte do conhecimento sobre ele existe apenas como

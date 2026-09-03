@@ -416,7 +416,7 @@ importantes de todo este catálogo, porque **quebra a hierarquia de rank**.
 
 > [!warning] O golpe mortal que faz o que nenhum golpe imortal faz
 > A obra é explícita: dentro de um reino de sonho, os golpes assassinos dos caminhos
-> antigos — **mesmo os de nível nove, mesmo Casas de Gu Imortal de rank nove** — são
+> antigos — **mesmo os de rank nove, mesmo Casas de Gu Imortal de rank nove** — são
 > "pedras atiradas no mar", não conseguem fazer nada. E aí vem um golpe **mortal** do
 > caminho do sonho e desfaz o reino inteiro. Não é exceção de enredo: é a regra de que
 > **contra um fenômeno de um caminho, o que vale é o caminho, não o rank**.
@@ -667,7 +667,7 @@ Guardar a lista é mais útil que decorar golpe por golpe:
     esses mortais a cada uso.
 
 [^chariot]: **Divergência sobre o *White Bone Chariot*.** Uma leitura da obra registra o
-    golpe como sendo de nível 6, pela razão de ter sido montado por um praticante de rank 6
+    golpe como sendo de rank 6, pela razão de ter sido montado por um praticante de rank 6
     justamente para suprir a falta de um Gu daquele rank, e de alcançar poder comparável ao
     de um. A leitura mais madura, e a adotada aqui, é a de que ele é **mortal**: o texto o
     chama explicitamente de golpe mortal, afirma que ele é o único golpe mortal da história

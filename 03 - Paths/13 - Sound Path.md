@@ -60,12 +60,12 @@ Confira os números em
 
 O caso mecânico central do caminho, e um dos mais úteis do vault:
 
-O maior praticante da era passa a maior parte da obra como imortal de **nível 7** — e é descrito
-como *um praticante de som de nível sete que conseguia batalhar contra nível oito*. O motivo não é
-ter um Gu Imortal de nível 8. É que a **quantidade de marcas do Dao de som no corpo dele igualava
-a de um nível 8**:
+O maior praticante da era passa a maior parte da obra como imortal de **rank 7** — e é descrito
+como *um praticante de som de rank sete que conseguia batalhar contra rank oito*. O motivo não é
+ter um Gu Imortal de rank 8. É que a **quantidade de marcas do Dao de som no corpo dele igualava
+a de um rank 8**:
 
-> Mesmo **sem nenhum Gu Imortal de som de nível oito** com ele, seus golpes chegavam a quase-nível
+> Mesmo **sem nenhum Gu Imortal de som de rank oito** com ele, seus golpes chegavam a quase-nível
 > oito por causa da **amplificação das suas marcas do Dao**.
 
 (ded.) E as duas coisas provavelmente se conectam: como o caminho do som sofre pouco conflito de
@@ -86,7 +86,7 @@ como destino.
 
 **Status social:** o caminho é textualmente chamado de **"caminho menor"** e **"não mainstream"**.
 Nos leilões, os cinco elementais são muito mais procurados. Mas o teto não é baixo: o caminho já
-produziu **grandes peritos de nível 8 em mais de uma região do mundo**.
+produziu **grandes peritos de rank 8 em mais de uma região do mundo**.
 
 ## Mecânicas típicas
 
@@ -134,7 +134,7 @@ informação, não acidente.
 |---|---|
 | **Dois territórios famosos** — um deserto anti-som e uma colina do silêncio | Regiões onde *as marcas de som eram extremamente suprimidas e **todos os golpes do caminho ficavam muito enfraquecidos***. Valem contra qualquer praticante, inclusive aliados |
 | **Um golpe imortal feito sob medida** | Uma organização criou um golpe explicitamente para conter o caminho do som. Peritos de topo têm defesa contra ele |
-| **A versão melhorada dele** | "Muitas vezes mais forte" que a anterior; contra ela, mesmo um nível 8 do caminho ficou *sem opções* |
+| **A versão melhorada dele** | "Muitas vezes mais forte" que a anterior; contra ela, mesmo um rank 8 do caminho ficou *sem opções* |
 | **O Rio do Tempo** | Onde a densidade de marcas de tempo é máxima, os golpes sonoros caem para **menos de dez por cento** do poder original. Um praticante puro de som **não tem como escapar de lá** |
 | **[[27 - Os Caminhos Elementais\|Vento]] com domínio de imitação** | Um praticante de vento capaz de imitar outros caminhos conseguia *usar métodos de vento para enfraquecer os efeitos* do golpe sonoro — mesmo tendo domínio **comum** no caminho do som |
 | **[[16 - Wisdom Path\|Sabedoria]] imitando som** | Usada para *limpar os arredores* do efeito sonoro |
@@ -153,17 +153,17 @@ acesso a uma força que não pertence a caminho nenhum.
 Todo o resto do sistema funciona assim: você sobe de nível, e o nível destranca Gu Imortais
 melhores. O caminho do som mostra a outra estrada, e a obra a quantifica com precisão incomum.
 
-O maior praticante da era passa quase toda a obra como imortal de **nível 7** e luta de igual para
-igual com imortais de **nível 8**. A explicação não é um item lendário:
+O maior praticante da era passa quase toda a obra como imortal de **rank 7** e luta de igual para
+igual com imortais de **rank 8**. A explicação não é um item lendário:
 
-> Ele conseguia lutar contra nível oito porque tinha **um acúmulo profundo de marcas do Dao de som,
-> equivalente ao de um nível oito**. Mesmo **sem nenhum Gu Imortal de som de nível oito** com ele,
-> seus golpes chegavam a **quase-nível oito** por causa da **amplificação das suas marcas**.
+> Ele conseguia lutar contra rank oito porque tinha **um acúmulo profundo de marcas do Dao de som,
+> equivalente ao de um rank oito**. Mesmo **sem nenhum Gu Imortal de som de rank oito** com ele,
+> seus golpes chegavam a **quase-rank oito** por causa da **amplificação das suas marcas**.
 
 Duas consequências que valem ouro para um sistema:
 
 - **A ficha do personagem não explica a força dele.** Alguém que examine o inventário desse imortal
-  não encontra nada de nível 8. A força está no corpo, não na bolsa — e é por isso que ele é
+  não encontra nada de rank 8. A força está no corpo, não na bolsa — e é por isso que ele é
   descrito como tendo "fundação profunda", termo que no mundo da obra significa exatamente isto.
 - **Não dá para roubar essa força.** Um praticante do [[15 - Theft Path|caminho do roubo]] que lhe
   arranque todos os Gu Imortais não leva o acúmulo junto. É a forma de poder mais difícil de
@@ -203,8 +203,8 @@ O golpe é tratado como um objeto de outra categoria, e cada detalhe registrado 
   se espalham e enchem o espaço, **ele morre junto**. Não existe modo seguro.
 - **Vale por incontáveis canções comuns** — o próprio autor a compara ao efeito de um número enorme
   de execuções da canção que arranca Gu.
-- **Ela obrigou o mundo a estudá-la.** Um golpe criado por um imortal de **nível 7** levou imortais
-  de **nível 8** a pesquisarem, coletivamente, como expor sua fraqueza e detê-lo.
+- **Ela obrigou o mundo a estudá-la.** Um golpe criado por um imortal de **rank 7** levou imortais
+  de **rank 8** a pesquisarem, coletivamente, como expor sua fraqueza e detê-lo.
 - **E foi neutralizada pela exposição, não pela força.** Depois de vista, o autor passa a se recusar
   a usá-la contra alvos preparados — e a versão que ele possui em determinado momento **não é a
   versão completa** que ele viria a ter depois.
@@ -240,7 +240,7 @@ poder. O compositor do som chegou à sétima e, depois, à nona. Nunca vemos as 
 - **O acúmulo é imóvel.** Ele mora no corpo, leva séculos e não pode ser comprado, emprestado nem
   acelerado. A rota alternativa é mais lenta que a rota dos itens.
 - **Dois lugares no mundo o desligam**, e quem for arrastado até lá não tem recurso.
-- **O corpo continua frágil.** A obra registra um imortal de nível 7 do caminho com *métodos
+- **O corpo continua frágil.** A obra registra um imortal de rank 7 do caminho com *métodos
   defensivos insuficientes*, obrigado a apenas evadir. Acumular marcas de som não fabrica couraça.
 - **E o golpe máximo mata o autor** se ele ficar no centro dele.
 
@@ -288,12 +288,12 @@ Descrição do que a obra detalha, canção por canção:
 - **Canção da Separação** — *não tinha nenhum poder ofensivo*: ela **remove e separa os Gu** do
   alvo. Os Gu removidos podem ser recolocados pelo dono, o que a torna uma janela e não uma
   derrota. Foi usada à distância contra um alvo rápido demais para ser enfrentado de perto.
-- **Canção do Destino** — a **nona**, de nível 8, com um Gu Imortal do
+- **Canção do Destino** — a **nona**, de rank 8, com um Gu Imortal do
   [[23 - Luck Path|caminho da sorte]] como núcleo. O objetivo declarado: *retratar esse brilho;
   ela descreverá **a certeza e a incerteza do céu e da terra, bem como os caminhos de toda vida***.
   O efeito observado é duplo e bonito: **enfraquece e desanima um lado enquanto revigora, liberta e
   cura o outro**. Usada ainda incompleta, salvou de morte certa alguém já quase destruído — e
-  **feriu gravemente o próprio cantor**. Dois limites declarados: um Gu Imortal de nível 8 **não
+  **feriu gravemente o próprio cantor**. Dois limites declarados: um Gu Imortal de rank 8 **não
   aguenta** a canção completa, e *o destino dos **Veneráveis** não pode ser descrito de forma tão
   simples*.
 - **Vento da Assimilação** — a extrema, tratada em detalhe na seção
@@ -327,12 +327,12 @@ A oitava canção: `—` a obra **não a nomeia nem a descreve**.
 - **Mão Prodigiosa do Som Profundo** — a assinatura de outra herança. A usuária **cria braços
   adicionais** — de dois passa a oito, os seis novos translúcidos e rosados — e ataca com ondas
   sonoras "como uma tempestade". Propriedade notável: **pode ser elevado junto com o Gu-núcleo até
-  chegar ao nível 8**, mesmo com a usuária ainda no nível 7.
+  chegar ao rank 8**, mesmo com a usuária ainda no rank 7.
 - **O Silêncio Supera o Som** — golpe nomeado. Mecânica: `—` a obra não informa.
 - **Um golpe de sono** — mantém uma fera desolada imemorial em sono profundo mesmo com grande
   comoção em volta. A obra observa que quem o usa **não é do caminho da escravização** e **não
   subjugou a fera** — apenas a mantém dormindo. É o caminho do som como **controle sem domínio**.
-- **Uma ilusão sonora de morte** — um golpe de nível 8 fez alvos serem "claramente mortos,
+- **Uma ilusão sonora de morte** — um golpe de rank 8 fez alvos serem "claramente mortos,
   decapitados", e eles apenas ficaram inconscientes e ilesos: era ilusão. *A ilusão começara há
   muito tempo; dentro dela, **quem morre não morre de verdade**.*
 
@@ -349,7 +349,7 @@ defender dela facilmente, e é morte certa*.
 | Gongo Celeste ⭐ | 6 | Negociado em leilão imortal; foi trocado por um Gu Imortal de transformação. Efeito — a obra não informa |
 | Músico ⭐ | — | Gu Imortal cuja **receita** se obtém ressoando com uma herança do caminho dentro de uma formação. É o Gu-base do "clone músico" |
 | Manter Silêncio | 5 | Refiná-lo foi a oitava prova de uma competição de refino, e exige **refino reverso** de outros três Gu para gerar os materiais. Efeito — a obra não informa |
-| Cítara / Flauta | mortais | Instrumentos, "como pérolas de jade branco". Uma cítara emprestada bastou para um não-especialista compor uma canção que impressionou um perito de nível 8 |
+| Cítara / Flauta | mortais | Instrumentos, "como pérolas de jade branco". Uma cítara emprestada bastou para um não-especialista compor uma canção que impressionou um perito de rank 8 |
 
 > [!info] Como ler a coluna "Nível"
 > **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não
@@ -370,9 +370,9 @@ O caminho tem nichos econômicos próprios e reconhecíveis, e todos seguem o me
   economia do caminho, e é canônico.
 - **Moluscos-música** — conchas comuns que contêm marcas de som. O ciclo de vida é curioso: crescem
   até virarem feras desoladas gigantes e, ao atingirem o estágio antigo, **encolhem de novo**. Uma
-  concha morta pequena é **material imortal de nível 7** — mas o que se vende de valor é **a música
+  concha morta pequena é **material imortal de rank 7** — mas o que se vende de valor é **a música
   guardada dentro dela**.
-- **Som de onda constante** — som guardado numa concha, material imortal de nível 7, **monopólio de
+- **Som de onda constante** — som guardado numa concha, material imortal de rank 7, **monopólio de
   um clã**: ele *produz sons por **anos sem nunca parar***.
 - **Capim-tubo** — capim em forma de tubo que soa ao vento. Material de refino comum, e um campo
   grande dele **gera espontaneamente Gu de som e de madeira**.
@@ -387,10 +387,9 @@ caminho são requisito de rituais públicos.
 ## Em combate e fora dele
 
 **Em combate**, o caminho é de área, quase indefensável no modo informe, e frágil no corpo do
-praticante. A obra registra um imortal de nível 7 do caminho com *métodos defensivos insuficientes*,
+praticante. A obra registra um imortal de rank 7 do caminho com *métodos defensivos insuficientes*,
 incapaz de bloquear um ataque e obrigado apenas a evadir. Isso não significa que o caminho seja
-fraco por nível: há praticantes de nível 7 do caminho com força equivalente à de qualquer outro nível
-7. Significa que o **perfil** dele é ofensivo e de controle, não de resistência.
+fraco por nível: há praticantes de rank 7 do caminho com força equivalente à de qualquer outro rank 7. Significa que o **perfil** dele é ofensivo e de controle, não de resistência.
 
 **Fora de combate**, ele é controle sem escravização (manter uma fera adormecida sem dominá-la),
 ilusão de larga escala, engenharia civil, e um dos poucos caminhos com **cultura pública própria** —
@@ -437,23 +436,23 @@ a granularidade que dá a outros caminhos. O que ela informa:
 - **Domínio comum em som ainda permite mitigar o caminho por outro caminho**, se o outro tiver
   domínio de imitação.
 - **Domínio alto significa compor canções próprias** — e criar uma canção original é o critério pelo
-  qual um perito de nível 8 avalia o domínio alheio: *conseguir criar uma canção assim significa que
+  qual um perito de rank 8 avalia o domínio alheio: *conseguir criar uma canção assim significa que
   seu domínio no caminho do som está **acima do comum***.
 
 ## Praticantes notáveis (sem enredo)
 
 - **O compositor das nove canções** — o maior praticante da era, pilar de uma das grandes seitas
-  antigas. É o caso mecânico central do caminho: **nível 7 com força de combate de nível 8, por
+  antigas. É o caso mecânico central do caminho: **rank 7 com força de combate de rank 8, por
   acúmulo de marcas do Dao e não por Gu Imortais de nível alto**. Autor das nove canções, e o
   **primeiro Gu Imortal da história capaz de convocar os ventos da assimilação** — feito que a obra
-  trata como inédito e que colocou imortais de nível 8 a pesquisarem contramedidas contra um golpe
-  criado por um nível 7.
-- **A portadora da herança do som profundo** — imortal de nível 7 cujo golpe de assinatura **escala
-  junto com o Gu-núcleo até o nível 8**, mesmo com ela permanecendo no nível 7.
-- **O supremo ancião de um clã do mar** — imortal de nível 8, praticante "puro" do caminho. O clã
+  trata como inédito e que colocou imortais de rank 8 a pesquisarem contramedidas contra um golpe
+  criado por um rank 7.
+- **A portadora da herança do som profundo** — imortal de rank 7 cujo golpe de assinatura **escala
+  junto com o Gu-núcleo até o rank 8**, mesmo com ela permanecendo no rank 7.
+- **O supremo ancião de um clã do mar** — imortal de rank 8, praticante "puro" do caminho. O clã
   dele detém o **monopólio mundial** de um material imortal sonoro. É dele a ilusão em que "quem
   morre não morre de verdade", e é ele quem usa o caminho para **cavar poços** perto de aldeias.
-- **A dama adormecida** — imortal solitária de nível 7 que *não tinha força de combate notável*, mas
+- **A dama adormecida** — imortal solitária de rank 7 que *não tinha força de combate notável*, mas
   controlava uma fera desolada imemorial mantendo-a permanentemente adormecida. O modelo de
   praticante **não-combatente** do caminho.
 - **O que migrou** — um imortal que começou majorando som e mudou para o

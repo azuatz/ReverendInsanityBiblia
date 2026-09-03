@@ -62,7 +62,7 @@ Este é o miolo aproveitável do caso. A obra nomeia seis bloqueios distintos:
 
 | Bloqueio | Como funciona | Força |
 |---|---|---|
-| **Estar fora da região** | o alcance de um dedutor está atrelado ao rank e à fusão dele com o mundo local | duas muralhas regionais de distância deixam a capacidade de dedução "mínima" |
+| **Estar fora da região** | o alcance de um dedutor está atrelado ao rank e à fusão dele com o mundo local | duas paredes regionais de distância deixam a capacidade de dedução "mínima" |
 | **Mundo pequeno** — abertura imortal, terra abençoada | *uma vez dentro, ele estaria em outro mundo* | o mais forte: descrito como eficaz **até contra rank 8** |
 | **Golpe de ocultação feito de marcas embaralhadas** | uma névoa *cheia de fragmentos minúsculos de dao marks de dois caminhos; por causa dessa mistura confusa, consigo bloquear deduções de fora* | proporcional aos Gu que o compõem: com dois Gu Imortais de rank 6 no núcleo, segura um dedutor de rank 7 *por um tempo antes de desmoronar* |
 | **Casa de Gu Imortal de rank 8** | *métodos defensivos não servem só contra ataques; eles também defendem contra as deduções dos outros* | muito alta |
@@ -76,7 +76,7 @@ resposta errada com toda a confiança.
 
 > [!warning] Três precisões que evitam erros de leitura
 > **O alcance não é um número.** A obra **nunca** dá distância, raio ou critério quantitativo
-> para o alcance de uma dedução. `—` Ela fala em termos de região e de muralhas regionais, e faz
+> para o alcance de uma dedução. `—` Ela fala em termos de região e de paredes regionais, e faz
 > o próprio dedutor descrever seu alcance como *um domínio minúsculo* que cresce a cada avanço de
 > rank.
 >

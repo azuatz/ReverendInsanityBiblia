@@ -189,7 +189,7 @@ melhor. Essa restrição é o motor de toda a complexidade do sistema: sem ela, 
 fusão, nem conjuntos, nem [[08 - Killer Moves|golpes combinados]].
 
 Há **uma exceção declarada em toda a obra**, e ela é tratada como anomalia cósmica: o Gu do
-Amor, de nível 9, que tem efeitos ilimitados — e que, em compensação, ninguém consegue
+Amor, de rank 9, que tem efeitos ilimitados — e que, em compensação, ninguém consegue
 controlar (ver [[16 - Gu Imortais|Gu Imortais]]).
 
 ### Escala de 1 a 9
@@ -199,14 +199,14 @@ Gu do próprio nível: um Gu abaixo do seu rende pouco, e um Gu acima do seu cob
 demais.
 
 Os níveis 1 a 5 formam o mundo mortal, onde vive a esmagadora maioria dos cultivadores. Do
-nível 6 em diante, tudo muda de categoria: são os [[16 - Gu Imortais|Gu Imortais]], únicos no mundo,
+rank 6 em diante, tudo muda de categoria: são os [[16 - Gu Imortais|Gu Imortais]], únicos no mundo,
 tratados em nota própria.
 
 #### O martelo grande demais: o que acontece com um Gu acima do seu nível
 
 Vale gastar um parágrafo nisto, porque a intuição de quem vem de outros sistemas é que um
 item poderoso demais "simplesmente não funciona", e não é isso que a obra descreve. **Não
-há proibição.** Um Mestre de nível 2 pode perfeitamente possuir um Gu de nível 3 ou 4 — só
+há proibição.** Um Mestre de rank 2 pode perfeitamente possuir um Gu de rank 3 ou 4 — só
 que quase ninguém faz, e a obra enumera exatamente por quê. São quatro custos que se
 somam:
 
@@ -242,11 +242,11 @@ Não são varinhas nem pergaminhos. São bichos, com tudo que isso implica:
   [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]].
 - **Morrem.** De fome, de ferimento, de acidente de fabricação, de velhice de uso.
 - **Podem regredir.** Um Gu mal alimentado por muito tempo **cai de nível** — há registro de
-  um Gu de nível 5 que decaiu até o nível 1 ao longo de cerca de trezentos anos de abandono,
+  um Gu de rank 5 que decaiu até o rank 1 ao longo de cerca de trezentos anos de abandono,
   mantendo, porém, a vontade teimosa que tinha no auge.
 - **São fisicamente frágeis.** A maioria se parte com um aperto. Alguns são duros como jade;
   os de corpo mole, tipo água-viva, resistem melhor a impacto. Há um dito no mundo dos
-  imortais: *até um bebê consegue matar um Gu de nível 9*, se conseguir pôr as mãos nele.
+  imortais: *até um bebê consegue matar um Gu de rank 9*, se conseguir pôr as mãos nele.
   Por isso guardá-los fora do corpo é considerado imprudência grave.
 
 ### A vontade interna: o programa dentro do bicho
@@ -336,7 +336,7 @@ nenhum. A imensa maioria dos insetos do mundo é apenas inseto.
 
 ## Regras e limites
 
-- **Um Gu, um poder** — sem exceção conhecida além do Gu do Amor, de nível 9.
+- **Um Gu, um poder** — sem exceção conhecida além do Gu do Amor, de rank 9.
 - **O dono destrói o próprio Gu com um pensamento**, mais rápido que 1% de um piscar. Isso
   é decisivo para a economia do mundo: espólio de combate é raro, e capturar um inimigo
   vivo vale muito mais que matá-lo.
@@ -353,7 +353,7 @@ nenhum. A imensa maioria dos insetos do mundo é apenas inseto.
   nível: penetração fura blindagem de mesmo nível; ataques de alma ignoram defesa física.
 - **Um Gu depende de quem o usa.** Princípio declarado do mundo, e não é retórica: o mesmo
   bicho nas mãos de um veterano e de um novato produz resultados de categorias diferentes.
-- **Qualidade varia dentro de um mesmo nível.** Dois Gu de nível 3 não são
+- **Qualidade varia dentro de um mesmo nível.** Dois Gu de rank 3 não são
   intercambiáveis: um pode ser considerado "de primeira linha" e o outro medíocre. Os
   critérios que o mundo usa e como se avalia um bicho antes de comprá-lo estão em
   [[13 - Qualidade e Fraude|Qualidade e Fraude]].
@@ -378,7 +378,7 @@ E há uma fronteira ontológica nítida no topo:
 - **Gu comuns (níveis 1–5)** contêm *marcas do Dao*.
 - **Gu Imortais (níveis 6–8)** contêm *fragmentos do próprio Grande Dao* — categoria
   diferente, não apenas quantidade maior.
-- **Gu de nível 9** não são feitos de marcas do Dao **de forma alguma**. Consequência
+- **Gu de rank 9** não são feitos de marcas do Dao **de forma alguma**. Consequência
   prática: são imunes a qualquer método que opere sobre marcas do Dao, e podem agir por
   conta própria, fora do controle consciente do dono.
 
@@ -433,7 +433,7 @@ resumos: mobília viva, gravadores de imagem e som, dispensadores de vinho, loja
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o custo de mantê-lo vivo.
 - [[07 - Fusão de Gu|Fusão de Gu]] — como Gu evoluem para níveis mais altos.
 - [[05 - Gu Vital|Gu Vital]] — o Gu ligado à própria vida do Mestre.
-- [[16 - Gu Imortais|Gu Imortais]] — o que muda a partir do nível 6.
+- [[16 - Gu Imortais|Gu Imortais]] — o que muda a partir do rank 6.
 - [[04 - Onde um Gu Mora|Onde um Gu Mora]] — onde o bicho fica guardado e quantos cabem.
 - [[13 - Qualidade e Fraude|Qualidade e Fraude]] — como se distingue um bom Gu de um ruim, e um verdadeiro de um falso.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como Gu se agrupam em famílias temáticas.

@@ -93,9 +93,9 @@ da forma. Não é uma perda de agência — é uma troca de plataforma física.
 
 A série clássica de zumbificação pertence formalmente a este caminho:
 
-zumbi errante (nível 2) → zumbi peludo (3) → zumbi saltador (4) → **zumbi voador** (5).
+zumbi errante (rank 2) → zumbi peludo (3) → zumbi saltador (4) → **zumbi voador** (5).
 
-No nível 5 existem os "cinco grandes" tipos — asura, demônio celestial, espectro de sangue,
+No rank 5 existem os "cinco grandes" tipos — asura, demônio celestial, espectro de sangue,
 pesadelo e peste — mais um sexto tipo raro. É a rota de transformação mais permanente e mais
 temida do caminho: o uso prolongado do primeiro Gu da série **zumbifica de verdade**. Ver
 [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]].
@@ -250,7 +250,7 @@ poder sobre a identidade de quem as carrega.
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Mudar Forma ⭐ | 6 | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela. Foi destruído e refeito dezenas de vezes na história e quase sempre **volta em nível 6**; já houve um exemplar de nível 9, destruído junto com o dono, e desde então o mundo recomeça do 6. Ver [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] |
+| Mudar Forma ⭐ | 6 | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela. Foi destruído e refeito dezenas de vezes na história e quase sempre **volta em rank 6**; já houve um exemplar de rank 9, destruído junto com o dono, e desde então o mundo recomeça do 6. Ver [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] |
 | Adaptação ⭐ | 8 | Converte marcas de qualquer caminho em marcas de transformação |
 | Mutação ⭐ | 8 | Muta partes do corpo do alvo em plantas ou animais |
 | Eterno ⭐ | — | Fixa uma transformação permanentemente |
@@ -309,7 +309,7 @@ tempo de limpeza entre as formas.
   digitais, cicatrizes, cor dos olhos — a partir da pele do cadáver do alvo. Engana Mestres Gu
   comuns; não engana um imortal com Gu de registro.
 - No topo, o disfarce não engana os olhos e sim a **mente do observador**. Enganou cultivadores
-  de nível 8.
+  de rank 8.
 - E há uma lição de ofício que vale para toda a categoria: **o que trai um disfarce perfeito
   são inconsistências comportamentais**, nunca falhas visuais. Voar rápido demais para a
   identidade que você finge ter é o que denuncia.
@@ -395,7 +395,7 @@ tempo de limpeza entre as formas.
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco Selvagem Imprudente**, de nível 9 — progenitor do caminho, e também
+- **O Venerável Demoníaco Selvagem Imprudente**, de rank 9 — progenitor do caminho, e também
   do [[04 - Strength Path|Strength Path]]. Superou o limite de marcas simultâneas devorando feras imemoriais e
   carregando totens no corpo. Transformou-se numa fênix de gelo para criar uma planície gelada
   inteira no norte, e **imprimiu ali o verdadeiro sentido dos dois caminhos**: desde então,

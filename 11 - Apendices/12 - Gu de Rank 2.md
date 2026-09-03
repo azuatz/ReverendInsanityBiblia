@@ -1329,7 +1329,7 @@ mesmas tarefas.
 
 > [!note] Para o design
 > Este par é o argumento mais forte da obra contra a escada linear de poder. Um
-> consumível de nível 1 desliga uma capacidade de nível 2 por três horas. Se a sua mesa
+> consumível de rank 1 desliga uma capacidade de rank 2 por três horas. Se a sua mesa
 > quiser que o dinheiro dos jogadores continue importando depois do primeiro ato, é este
 > tipo de relação — barata, específica, decisiva — que sustenta isso.
 
@@ -1541,4 +1541,471 @@ arquivamento — o kit completo de um batedor.
   nos cinquenta anos seguintes a isso, durante uma grande guerra. Antes disso, a
   humanidade simplesmente não se preocupava em guardar a própria aura, o que faz dele uma
   vantagem quase desleal para quem o tenha cedo demais.
+
+---
+
+# Caminhos do som e do raio
+
+Os três Gu desta seção são todos **Gu selvagens de fera**, e a obra os usa para ensinar
+uma distinção fina: dentro do som há duas escolas, a que **vibra para matar** e a que
+**empurra**. Um observador experiente distingue as duas na hora, pelo efeito.
+
+## Ataque
+
+### Plasma Gu
+
+- **O que faz.** Cospe uma **massa de plasma azul pegajosa** que cobre área ampla e **não
+  se dissipa**: carboniza grama e pedra, **paralisa por corrente** quem for atingido e
+  mantém o terreno interditado por um tempo. Recarrega em **cinco respirações**.
+- **Como é.** Massa de plasma azul.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Contra quem **não usa metal**, o efeito é bem menor (ded.).
+- **Como se obtém.** **Não se refina**: cresce naturalmente no corpo de um rei-fera de cem
+  bestas, e quem escraviza a fera leva o Gu junto (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** É o **contra específico de armaduras metálicas**, e paralisa vários
+  alvos de uma vez — a peça de um arsenal de rank 2 que resolve o problema "o inimigo é
+  um bloco de aço". Sendo terreno interditado e não projétil, combina com qualquer coisa
+  que force o inimigo a atravessar uma linha (ded.).
+
+### Thunder Roar Gu
+
+*Rank 2 a 3 (ded.).*
+
+- **O que faz.** Ataque **por onda sonora** que mata pela **vibração** do som. É um ataque
+  de área e **não precisa de linha de visão limpa nem de acerto físico** (ded.).
+- **Como é.** — (na fera, o veículo é o rugido).
+- **Dieta.** —
+- **Desvantagem.** A obra **não descreve alcance, dano nem defesa possível** — a mesa
+  preenche do zero.
+- **Como se obtém.** Aparece como Gu selvagem hospedado em **lobos-relâmpago-frenéticos**,
+  na mesma faixa de rank dos demais Gu selvagens da comitiva de um rei-fera-de-mil.
+  Capturável da fera hospedeira (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** Dano que **ignora armadura e evasão**: a vibração atravessa. Seu par de
+  contraste é o `Soundwave Gu`, e a obra os apresenta lado a lado justamente para ensinar
+  a divisão da escola.
+
+### Soundwave Gu
+
+*Rank 2 a 3 (ded.).*
+
+- **O que faz.** Converte um grito ou rugido numa **força de empurrão invisível** que se
+  espalha em todas as direções a partir do emissor. Não corta e não queima: **arremessa**.
+  O efeito registrado é concreto — dois Mestres Gu foram lançados em direções opostas por
+  uma única emissão; um bateu contra um prédio de bambu e ficou imóvel, a outra foi jogada
+  para fora dos portões da aldeia e ficou atordoada ao tentar levantar.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** **Não fere por si** — o dano vem do impacto contra o cenário. Em campo
+  aberto, é quase inofensivo.
+- **Como se obtém.** Gu selvagem em lobos-relâmpago-frenéticos; capturável da fera
+  hospedeira (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** É **controle de área puro**: tira todo mundo do lugar de uma vez, sem
+  precisar mirar. Isso o torna a peça que abre janelas para aliados, e a peça que
+  interage com o **cenário** mais do que com outros Gu — num corredor ou num telhado ele
+  mata, num campo aberto ele só incomoda.
+
+---
+
+# Caminho da terra
+
+## Ataque
+
+### Charred Thunder Potato Gu
+
+- **O que faz.** **Mina terrestre viva.** Enterrado, **explode sozinho quando qualquer
+  criatura pisa nele**. O dano **cresce com a profundidade** em que foi plantado, e várias
+  minas juntas detonam em **reação em cadeia** — um campo delas derruba até um rei-fera de
+  cem bestas depois de várias detonações. É gasto no uso.
+- **Como é.** Gu-grama, plantado como tubérculo.
+- **Dieta.** **Fertilidade do solo.**
+- **Desvantagem.** **Estática**: só serve onde foi plantada (ded.), e cada exemplar é
+  consumido na explosão.
+- **Como se obtém.** Sai em série de um **Gu-mãe** — o `Charred Thunder Potato Mother Gu`,
+  de rank 3.
+- **Evolução.** Não citada pela obra. O que ela dá é a **família lateral**: existem
+  variantes `charred`, `muffled` e `thunderclap`, que são irmãs e não degraus.
+- **Interações.** A relação estrutural é com o **Gu-mãe de rank 3**, que as produz: quem
+  tem a mãe tem munição infinita, quem tem só as minas tem estoque. E a interação com o
+  **terreno** é o mecanismo inteiro — este é um Gu que só existe em conjunto com
+  planejamento prévio e conhecimento de por onde o inimigo vai passar.
+
+## Defesa
+
+### Earth Mound Gu
+
+- **O que faz.** Ativado ao grito de "muro de terra, erga-se!", faz as **pedras do chão
+  subirem rapidamente** e formarem uma elevação ou muro.
+- **Como é.** Muro de pedra e terra erguido do solo.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Individualmente ergue apenas um **montículo modesto**, e depende de
+  haver pedra ou solo no terreno (ded.).
+- **Como se obtém.** —
+- **Evolução.** Não citada pela obra. Existe um `Earth Wall Gu` de rank 3 com efeito
+  equivalente ao de vários deste somados — mas a obra **não afirma** que um evolui do
+  outro, e tratá-los como degraus seria dedução.
+- **Interações.** Esta é a ficha mais importante da nota para entender o que o rank 2
+  significa no mundo, porque a mecânica é **explícita e somável entre usuários**: um
+  grupo de Mestres Gu de rank 2 ativando seus Earth Mound Gu **simultaneamente** na
+  entrada de uma ravina estreita ergueu uma barreira **equivalente à de um `Earth Wall
+  Gu` de rank 3**. Vários Gu de rank 2 coordenados substituem um Gu de rank superior.
+
+> [!note] Para o design
+> Este é o gancho de design mais direto do catálogo inteiro: uma tropa treinada de nível
+> baixo compra o efeito de um especialista de nível alto, pagando com **coordenação** em
+> vez de com poder. Se a sua mesa quiser que organizações importem tanto quanto
+> indivíduos, esta é a regra que faz isso acontecer sozinha.
+
+---
+
+# Caminho da transformação
+
+Os dois Gu de rank 2 desta escola são a porta de entrada da **linha dos zumbis**, que a
+obra descreve como a escada mais difundida do mundo — espalhada pelas cinco regiões e
+patrimônio local de ninguém. O motivo de ela existir é econômico e desesperado: Mestres
+Gu com pouco tempo de vida e sem dinheiro para um Gu de longevidade viram zumbis **para
+prolongar a vida**. Ver [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]].
+
+## Utilidade
+
+### Running Corpse Gu
+
+- **O que faz.** Transforma um **cadáver** num zumbi que obedece ao usuário — e que, ao
+  contrário de um corpo animado comum, **evolui por estágios marcados por cor**, do branco
+  ao azul, cada estágio tornando-o mais forte e mais difícil de derrubar. O rank 2 basta
+  para criar um servo permanente que não come, não cansa e não recua.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** **Uso único por cadáver**, e depende de haver cadáveres frescos.
+- **Como se obtém.** Produzido pelo `Zombie Heart Gu`, de rank 3.
+- **Evolução.** Não citada pela obra — este Gu **produz** zumbis, não se transforma em
+  outro Gu.
+- **Interações.** A relação estrutural é com o Gu de rank 3 que o fabrica, exatamente como
+  no caso das minas de trovão: o Gu superior é a fábrica, o de rank 2 é a munição. E o
+  produto não é um servo fixo — ele **melhora com o tempo** sozinho, o que faz dele um
+  investimento que rende sem manutenção.
+
+## Suporte
+
+### Roaming Zombie Gu
+
+- **O que faz.** Concede ao próprio usuário **qualidades de zumbi**: resistência,
+  regeneração e ausência de dor. Três vantagens de sobrevivência num único Gu de rank 2.
+- **Como é.** —
+- **Dieta.** **Sangue**, depois da transformação.
+- **Desvantagem.** A pior desta nota inteira: **o uso prolongado zumbifica de verdade**.
+  O custo está no uso e é a **perda definitiva da humanidade**. Além disso, obriga a
+  sustentar um segundo Gu.
+- **Como se obtém.** Exige um **Gu de sangue como par obrigatório** para sustentar o
+  usuário.
+- **Evolução.** **`Hairy Zombie Gu` (também traduzido `Fur Zombie`), rank 3** — e daí
+  `Hopping Zombie Gu` (rank 4, também traduzido `Jumping`) e `Flying Zombie Gu` (rank 5).
+  **Nenhum componente é informado em nenhum degrau da escada.** Do rank 5 a linha abre na
+  bifurcação mais larga registrada numa cadeia mortal: os **cinco grandes zumbis
+  voadores** — `asura zombie`, `heavenly demon zombie`, `blood wight`, `nightmare zombie`
+  e `plague zombie`. A obra chama o Blood Wight de "uma grande rota de avanço de rank 5 do
+  Roaming Zombie Gu", o que confirma que a escada é lida de ponta a ponta como uma rota
+  só.
+- **Interações.** Tem uma sinergia canônica e explícita, e ela é o exemplo mais limpo do
+  sistema de um Gu que **cancela a sequela de outro**: pareado com um `Blood Essence Gu`,
+  os efeitos colaterais são muito reduzidos, permitindo ser zumbi por mais tempo sem
+  preocupação com contragolpe. Um Gu de reposição de sangue anulando o preço de um Gu de
+  transformação.
+
+---
+
+# Caminho do refinamento e do avanço de cultivo
+
+Dois Gu, e eles não fazem nada em combate: fazem o cultivador **subir**. É a categoria
+mais valiosa e menos espetacular do sistema.
+
+## Refino
+
+### Four Flavors Liquor Worm
+
+- **O que faz.** **Purifica a essência primordial** do usuário: leva a essência de aço
+  vermelho um pequeno estágio acima, o que na prática **dobra quantos golpes caros o
+  usuário aguenta**. Refina passivamente, como o `Liquor Worm` de rank 1, mas um estágio
+  acima (ded.).
+- **Como é.** —
+- **Dieta.** Vinhos variados e essência.
+- **Desvantagem.** O refino é **multi-etapa e caro para o rank**.
+- **Como se obtém.** **Fusão de dois `Liquor Worms` com os quatro vinhos — doce, azedo,
+  amargo e picante —, em etapas.** O procedimento é em quatro passos: os dois vermes num
+  pote com um dos licores, cerca de cem pedras primordiais jogadas até a esfera de fusão
+  encolher ao tamanho de um punho; troca-se o licor e repete-se. Total: **cerca de 400
+  pedras primordiais**.
+- **Evolução.** **`Seven Fragrances Liquor Worm`, rank 3** — mesma estrutura: **dois** do
+  degrau abaixo mais **sete especiarias**, com o número de insumos batendo com o nome. Daí
+  sai o **`Nine Eyes Liquor Worm`, rank 4**, com dois Seven Fragrances mais **nove globos
+  oculares de nove reis-de-cem-bestas de espécies diferentes** — insumo que deixa de ser
+  comprável e vira nove caçadas, com custo registrado de quase duzentas mil pedras. E aí
+  a linha para: **a versão de rank 5 não existe**, porque o grão-mestre de receitas que a
+  pesquisava foi morto por inimigos ainda jovem e a pesquisa parou.
+- **Interações.** Esta é a rota **boa** de uma bifurcação em que a obra declara qual é a
+  ruim, e por isso ela ensina muito. Do mesmo `Liquor Worm` de rank 1 sai também a rota
+  **mais difundida e mais prática do mundo** — `White Chrysalis` (rank 2) → `Mist
+  Perspiring Butterfly` (rank 3) —, e ela é péssima: o White Chrysalis **não tem
+  habilidade nenhuma** e só come, e a capacidade de refinar essência se perde já no
+  primeiro passo. Existe ainda uma terceira rota, do clã Gu Yue, que passa pelo `Moon
+  Harbinger Gu` de rank 2 e **reconverge** no Seven Fragrances — a **única reconvergência
+  de rota explicitamente afirmada em toda a obra**. A vantagem declarada desta ficha é
+  exatamente essa: ela **preserva a habilidade de refino ao subir de rank**, que a rota
+  popular perde.
+
+### Relic Gu (aço vermelho)
+
+- **O que faz.** **Uso único, e só funciona em praticante de rank 2.** Acionado com um
+  jorro de essência, ergue-se e emite **raios vermelhos quentes e ofuscantes** que enchem
+  a abertura inteira — tão intensos que os outros Gu guardados ali são **empurrados para o
+  fundo do mar primordial**. A luz substitui a essência do usuário e é despejada na
+  **parede da abertura**, que engrossa a olhos vistos e se condensa de membrana de luz em
+  **membrana de água**. O resultado é um salto imediato de estágio **com fundação extra**:
+  a parede fica mais grossa que o normal para o estágio alcançado.
+- **Como é.** —
+- **Dieta.** Não se alimenta: é consumível, gasto no próprio uso (ded.).
+- **Desvantagem.** Uso único, travado ao rank 2, e caríssimo em relação ao próprio rank.
+  O processo leva cerca de **quinze minutos**, durante os quais a abertura fica tomada de
+  luz e os demais Gu ficam desalojados — uma janela de vulnerabilidade real (ded.).
+- **Como se obtém.** **Não pode ser refinado**: só formação natural. Preço de mercado
+  citado: **8.000 pedras primordiais**, mais do que Gu comuns de rank 3. Num leilão de
+  caravana abriu em 3.000.
+- **Evolução.** **Não citada pela obra — e aqui o silêncio é uma afirmação.** O Relic Gu é
+  um *series Gu* **natural**: cobre-verde (rank 1), aço-vermelho (rank 2), prata-branca
+  (rank 3), ouro-amarelo (rank 4). Cada rank só funciona num praticante daquele mesmo
+  rank, e **a versão superior nunca se transforma na inferior**. Não se refinam, não se
+  fabricam, não se fundem. É série pura, sem árvore nenhuma.
+- **Interações.** Interage com todo o resto do arsenal do usuário de forma **negativa e
+  temporária**: durante os quinze minutos, os outros Gu da abertura são empurrados para o
+  fundo e ficam indisponíveis. A obra é explícita em que ele rende mais do que comprar Gu
+  de exploração ou de movimento com o mesmo dinheiro, e em que convém usá-lo o mais cedo
+  possível — porque o benefício é fundação, e fundação rende juros.
+
+---
+
+# Caminho das estrelas
+
+O caminho das estrelas é o exemplo mais claro de um caminho **de nicho**, e as duas
+fichas abaixo mostram por quê: uma satura o campo com volume e a outra amplifica só
+Gu estelares. Ver [[19 - Star Path|Star Path]].
+
+## Ataque
+
+### Star Arrow Gu
+
+- **O que faz.** Dispara **flechas feitas de luz estelar**, que voam muito rápido cortando
+  o ar. As flechas têm "força extraordinária": cravam-se no corpo do alvo e abrem **muitos
+  ferimentos, mas não profundos**. A característica que o define é o **número** — um
+  morcego demônio estelar bateu as asas uma vez e disparou **mais de dez mil flechas de
+  uma só vez**, num ataque em área que veio "como uma tempestade".
+- **Como é.** Flechas de luz estelar.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Dano individual **raso**, e completamente **anulável por golpes mortais
+  defensivos**: um golpe do caminho da terra — uma fina camada de fumaça e poeira
+  amarelo-esbranquiçada sobre o corpo — fez todas as flechas se dissiparem no instante do
+  contato, e o alvo sequer se deu ao trabalho de desviar, comentando com desdém "meras
+  star arrow Gu rank dois, só que em número um pouco alto". É também destrutível em
+  combate.
+- **Como se obtém.** Pode ser encontrado dentro de **pedras estelares**, que são apostadas
+  e cortadas em casas de jogo de dissecação de pedras. Reconhece-se o Gu pelo formato do
+  fóssil dentro da pedra: para este, o fóssil é **alongado, com ponta afiada numa
+  extremidade e a outra se abrindo** — o `Star Dart Gu` de rank 1 dá fóssil em forma de
+  dardo, e o `Shooting Star Gu` dá fóssil redondo com cauda. Quanto mais "estrelas
+  brilhantes" marcadas na pedra, maior a chance de haver Gu dentro e maior o rank
+  possível. Pedras estelares devem ser dissecadas com **magnetismo**, e vêm em cinco graus
+  de qualidade, custando de poucas a mais de cem mil pedras primordiais.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Uma limitação de interação que vale registrar por ser incomum: quando
+  aparece como **Gu selvagem no corpo de uma fera sem inteligência**, ele **não pode ser
+  combinado em golpes mortais** nem usado em grande quantidade de forma coordenada. Ou
+  seja, o mesmo Gu vale muito mais na mão de uma pessoa do que no corpo de um monstro — a
+  diferença é a capacidade de combinar. Do lado positivo, é o alvo natural do `Brilliance
+  of Two Stars Gu`, abaixo.
+
+## Suporte
+
+### Brilliance of Two Stars Gu
+
+- **O que faz.** **Amplifica o efeito de outros Gu do caminho das estrelas** — a obra
+  especifica o efeito ofensivo. É o segundo degrau de uma escada de cinco: amplifica num
+  grau maior que o degrau de rank 1 e menor que o de rank 3 (ded.).
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** **Só serve para Gu do caminho das estrelas.** É amplificação "não
+  convencional", de caminho único, e é degrau intermediário — para efeito maior é preciso
+  subir na série (ded.).
+- **Como se obtém.** Receita **inventada de raiz** por um Mestre Gu de rank 5 do norte,
+  junto com os outros quatro degraus da escada. Materiais de refino **extremamente
+  comuns**, e taxa de sucesso muito maior que a do amplificador convencional.
+- **Evolução.** É série de cinco degraus, um por rank, e a obra não descreve fusão entre
+  eles — cada um foi criado como receita própria pelo mesmo inventor.
+- **Interações.** Existe para competir com o `Amplify Effect Gu` do caminho da regra, que
+  serve para **qualquer** caminho e é caro e falha muito. A troca é explícita: você abre
+  mão da universalidade e ganha **preço baixo e confiabilidade**. Num arsenal estelar de
+  rank 2, o par natural é este Gu mais o `Star Arrow Gu` — volume amplificado.
+
+---
+
+# Caminho do roubo
+
+## Ataque
+
+### Sneak Attack Gu
+
+- **O que faz.** Solta um **fantasma de bebê azul, velocíssimo**, que **atravessa defesas
+  físicas e ataca de dentro do alvo**. É o caso canônico de "Gu de primeira linha": poder
+  ofensivo alto **e** consumo tão baixo que até um Mestre de rank 1 consegue acioná-lo —
+  ele gasta apenas **dez por cento de essência de cobre verde**, a mais barata que existe.
+- **Como é.** Fantasma de bebê, azul.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Depende de o alvo ter **corpo físico** para ser atravessado (ded.).
+- **Como se obtém.** Nasceu de um **refino de rank 1 fracassado**: os materiais — cadáver
+  de bebê anômalo, `Sandpit Gu`, `Chimney Smoke Gu`, `Clear Water Gu` e sangue da ponta da
+  língua do refinador — deram um Gu de rank 2 inédito em vez do pretendido. Por muito
+  tempo houve um **único exemplar no mundo**, e o que os clãs cobiçavam era a **receita**,
+  não o Gu — só ela permitiria produzi-lo em série.
+- **Evolução.** Não citada pela obra. Existe uma **versão imortal** deste Gu, sem rank
+  declarado, com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu -
+  Imortais]] — mas isso não é evolução: é o mesmo conceito instanciado em duas escalas.
+- **Interações.** É o Gu que a obra usa para explicar **por que o rank 2 é o calibre de
+  produção em massa de um clã**: poder alto, consumo mínimo, e portanto capaz de armar
+  todo mundo ao mesmo tempo. Ignora armadura por completo, o que significa que ele
+  **contorna toda a seção de defesa desta nota** — e continua valendo a pena muitos ranks
+  depois de o dono ter passado do rank 2.
+
+## Utilidade
+
+### Plunder Gu
+
+- **O que faz.** **Rouba à força um Gu de dentro do corpo de um inimigo vivo.** A ativação
+  é uma disputa física declarada, e a obra a descreve passo a passo: o operador se ajoelha
+  ou baixa o centro de gravidade, segura o próprio pulso direito com a mão esquerda e
+  aponta a mão direita em garra na direção do alvo; ao gritar, **toda a essência primordial
+  do corpo jorra para o Gu** e uma força de agarrar **invisível** explode dele. A mão
+  fechada no ar transmite a sensação ilusória de ter agarrado um Gu — mas o Gu agarrado se
+  debate e resiste, com força suficiente para puxar o operador para a frente mesmo com o
+  centro de gravidade baixo. Quanto mais essência se despeja, maior a força de sucção: é
+  um **cabo de guerra**, e quem tiver mais reserva ganha.
+- **Como é.** Besouro preto com um **par de pinças de ferro na cabeça**, que reside na
+  **palma direita** do usuário.
+- **Dieta.** Comida difícil de encontrar — é um dos Gu mais caros de sustentar de um
+  arsenal: a reserva estocada para ele durava só cinco meses, contra um ano de comida para
+  outro Gu.
+- **Desvantagem.** A pior relação risco-retorno desta nota. Taxa de sucesso declarada como
+  **muito baixa**. **Imobiliza o operador** durante toda a ativação, e o alvo percebe que
+  algo está errado e reage — no caso registrado, a fera entrou em fúria e atacou —, de
+  modo que ele precisa de aliados escudando-o. Consome **toda** a essência disponível. E há
+  sequela explícita: se o roubo **falha**, o operador sofre contragolpe — vomitou sangue na
+  hora e ficou no pior estado de saúde possível. A obra chama isso de "a falha do Plunder
+  Gu". Sendo rank 2, o Gu simplesmente **não tem capacidade** de arrancar um Gu de rank 3,
+  por mais que o usuário queira.
+- **Como se obtém.** —. Circula como despojo: pode ser extraído do cadáver de quem o
+  portava.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É a **única forma descrita** de tirar o Gu de dentro de uma fera-rei ou
+  de um inimigo vivo — e é justamente o Gu do corpo dela que a torna perigosa, de modo que
+  roubá-lo desarma o monstro e enriquece o operador de uma vez. Como imobiliza e consome
+  tudo, ele **exige** um grupo: é o exemplo mais claro do catálogo de um Gu que não é
+  jogável sozinho.
+
+---
+
+# Caminho do vento
+
+## Utilidade
+
+### Eating Wind Gu
+
+- **O que faz.** Permite ao Mestre Gu **comer vento** e encher o estômago com ele — ou
+  seja, **resolve o problema da alimentação humana sem comida**. A obra o descreve como
+  "apenas rank dois, mas de grande utilidade".
+- **Como é.** —
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Rank baixo e **nenhum poder de combate**; depende de haver vento; e a
+  obra não indica que ele substitua tudo que a comida oferece além de encher o estômago.
+- **Como se obtém.** A obra não dá receita. A origem é institucional: o clã Ju, no topo da
+  montanha Ju Feng, é especializado em Gu do tipo vento, e este é uma de suas
+  especialidades. É vendido **em lote** — trinta e oito exemplares foram agrupados num
+  único conjunto e leiloados juntos, com lances subindo até quarenta e quatro mil pedras
+  primordiais.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Não interage com outros Gu: interage com a **campanha**. Elimina a
+  dependência de suprimentos alimentares, o que torna viáveis viagens longas, cercos e
+  reclusões prolongadas — e é barato o bastante para ser distribuído a um grupo inteiro,
+  como o lote de trinta e oito mostra.
+
+### Cool Wind Gu
+
+*Rank 1 a 2 (ded.).*
+
+- **O que faz.** Vive **em bando** dentro de fendas e poços naturais, e o bando inteiro
+  sopra para fora um **ar frio e agradável** — uma brisa fresca contínua, que sai do
+  buraco junto com os Gu voando. O sopro tem **força física**: as bordas da abertura
+  empurram para longe quem tenta se aproximar, e um humano fraco e faminto simplesmente
+  não consegue chegar perto o bastante para interagir com eles.
+- **Como é.** **Aparência de peixe alado.**
+- **Dieta.** —
+- **Desvantagem.** Corpo **frágil a ponto de morrer no aperto de uma mão** — o primeiro
+  exemplar apanhado foi esmagado até a morte só pelo aperto empolgado de quem o pegou. E
+  são **muito rápidos**: num Mestre Gu de baixa força, ignoram completamente as tentativas
+  de subjugação.
+- **Como se obtém.** A obra registra a única via prática de captura de um exemplar
+  selvagem, e ela é memorável: **esperar um acidente**. Um deles se feriu ao colidir com os
+  companheiros, caiu no chão fora da corrente de ar frio e pôde ser agarrado à mão.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É recurso **ambiental** antes de ser Gu: uma fonte de frio contínua e
+  passiva, útil como conforto e como marcador de lugar antes mesmo de qualquer uso em
+  combate.
+
+## Suporte
+
+### Wind Snare Gu
+
+*Rank 2 a 3 (ded.).*
+
+- **O que faz.** Gu de **contenção**. Ativado, o usuário expele **pelas narinas uma brisa
+  verde** que voa até o alvo e se **enrola nos membros dele** — no caso registrado, nas
+  garras de um lobo-coroa-de-trovão, uma fera de rank alto. Não fere: **prende e atrasa**.
+- **Como é.** Brisa verde.
+- **Dieta.** —
+- **Desvantagem.** Segura **por um instante, não por uma cena**: sozinho não decide nada.
+- **Como se obtém.** —. Essência primordial (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** A obra o mostra apenas em **combinação sincronizada**, e é assim que ele
+  deve ser lido: um elder acionou o Wind Snare nas garras da fera enquanto outro acionou um
+  `Swamp Gu` para transformar o chão sob ela em lama, e os dois efeitos **somados**
+  desaceleraram o alvo por um instante — instante que os demais usaram para atacar em
+  conjunto. É uma peça de **abertura de janela** num esquema de grupo, apresentada no
+  contexto de uma tática de último recurso. Funciona contra alvos muito acima do rank de
+  quem o usa, e **soma-se** a outros efeitos de contenção em vez de competir com eles.
+
+## Movimento
+
+### Jade Wind Wheel Gu
+
+- **O que faz.** Faz **um par de ciclones cor de jade girar em torno dos braços do usuário
+  como braçadeiras**, acelerando os golpes. É a versão de braços do `Clear Wind Wheel Gu`
+  de rank 1, que gera um ciclone sob cada pé e acelera o **deslocamento** — este acelera o
+  **soco**.
+- **Como é.** Dois ciclones verdes de jade girando em volta dos braços.
+- **Dieta.** —
+- **Desvantagem.** —
+- **Como se obtém.** É um **Gu de abelha** (*bee Gu*). A obra não dá receita nem preço.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Existe, na prática, para **corrigir a fraqueza de outro Gu**, e a obra
+  mostra a correção em cena: o `Rock Skin Gu` infla os braços em braços de rocha e o preço
+  é a inércia — um adversário ágil os esquiva com facilidade; acrescentado o Jade Wind
+  Wheel, os ciclones **devolvem a velocidade perdida** e o golpe passa a acertar. É a
+  ilustração mais limpa do catálogo da regra geral de que Gu podem ser usados juntos para
+  aumentar a habilidade **ou cobrir a fraqueza**. Do lado da linhagem, a obra afirma que o
+  Jade Wind Wheel é "**uma das** possíveis rotas de avanço" do Clear Wind Wheel — deixando
+  explícito que há outras e não as nomeando.
 

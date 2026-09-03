@@ -25,7 +25,7 @@ decaiu, porque jamais se difundiu==. Para entender o que é um "caminho", veja
 
 > [!warning] Nota de conhecimento restrito
 > A existência deste caminho é praticamente desconhecida no mundo. A obra registra imortais de
-> nível 8 encontrando métodos de pintura pela primeira vez e ficando **sem qualquer resposta**,
+> rank 8 encontrando métodos de pintura pela primeira vez e ficando **sem qualquer resposta**,
 > porque nunca souberam que a escola existia. Para um personagem comum, o caminho da pintura não
 > está no mapa mental do que existe.
 
@@ -52,7 +52,7 @@ Isso o coloca ao lado do [[24 - Human Path|caminho humano]] como um dos dois cam
 O corolário prático é canônico e devastador: compreender a essência do caminho da pintura permite
 **desferir golpes de outro caminho no estilo da pintura**, amplificando-os. O caso registrado: um
 praticante de sangue, depois de tocar a essência da pintura, modificou um golpe de sangue que passou
-a **congelar o sangue de imortais de nível 8 e matá-los**.
+a **congelar o sangue de imortais de rank 8 e matá-los**.
 
 ## História: o caminho que nunca vazou
 
@@ -108,7 +108,7 @@ mural **não é ilusória**; este é um método impressionante*. Ele:
   reproduzir as cenas do mundo mortal do último milhão de anos e, a partir delas, **derivar as
   fundações do [[24 - Human Path|caminho humano]]** — ver aquela nota.
 
-O golpe que sustenta esse mundo é de **nível 9** e é descrito como *um golpe assassino do **caminho
+O golpe que sustenta esse mundo é de **rank 9** e é descrito como *um golpe assassino do **caminho
 humano** com **efeito de caminho da pintura**, que formava pinturas das vidas das pessoas*. Repare na
 construção: o caminho da pintura aparece como **modificador** de um golpe de outro caminho — que é
 exatamente o que sua propriedade central prevê.
@@ -213,8 +213,7 @@ que valem como regras:
    literal: *a diferença entre imortal e mortal não é grande neste mundo-pintura*. É o único
    ambiente do cenário que **achata a hierarquia de poder** — e isso o torna, ao mesmo tempo, a
    melhor prisão para um forte e o melhor campo de treino para um fraco.
-2. **Um mundo-pintura pode conter um prisioneiro nas suas profundezas** — inclusive alguém de nível
-   8 — e os **acontecimentos internos do mundo funcionam como máquina de contenção**: uma guerra
+2. **Um mundo-pintura pode conter um prisioneiro nas suas profundezas** — inclusive alguém de rank 8 — e os **acontecimentos internos do mundo funcionam como máquina de contenção**: uma guerra
    entre as criaturas e os habitantes daquele mundo é diagnosticada como *um método para enfraquecer
    esse inimigo e aumentar a supressão sobre ele*. Quem vive dentro do quadro está, sem saber,
    operando a fechadura.
@@ -235,11 +234,11 @@ Os dois casos registrados são de praticantes que **não são do caminho da pint
 
 - um praticante de [[03 - Blood Path|sangue]] que, depois de tocar a essência da pintura numa
   formação de derivação, **modificou um golpe de sangue que já tinha** — e a potência dele
-  disparou a ponto de congelar o sangue de imortais de nível 8;
+  disparou a ponto de congelar o sangue de imortais de rank 8;
 - e o mesmo praticante, depois, sendo instruído a **continuar aprendendo pintura em vez de caminho
   humano**, por ter sido identificado como tendo talento nela.
 
-Some isso ao golpe de nível 9 já citado nesta nota — *um golpe do caminho humano **com efeito do
+Some isso ao golpe de rank 9 já citado nesta nota — *um golpe do caminho humano **com efeito do
 caminho da pintura*** — e o padrão fica evidente: ==a pintura quase nunca aparece como o golpe. Ela
 aparece como o **adjetivo** de golpes de outra escola.== Numa ficha de personagem, ela não é a lista
 de poderes: é um modificador que se aplica à lista inteira.
@@ -319,7 +318,7 @@ A obra registra, sem detalhar degraus:
 
 - **domínio profundo** num Venerável, suficiente para **salvar alguém** por meios de pintura;
 - **domínio de pico** no criador, no momento em que ele construiu a grande estrutura do caminho;
-- e o oposto — imortais de nível 8 com domínio **completamente em branco** no caminho, indefesos
+- e o oposto — imortais de rank 8 com domínio **completamente em branco** no caminho, indefesos
   contra ele.
 
 O que cada degrau destranca: `—` a obra não informa.

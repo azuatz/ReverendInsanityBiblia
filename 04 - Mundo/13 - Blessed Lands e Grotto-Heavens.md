@@ -291,7 +291,7 @@ Os custos são quatro, e cada um deles é uma tragédia pequena:
 
 Existe um consenso histórico sobre a ordem ótima de desenvolver uma dimensão privada. Pular etapas é possível, mas desperdiça fundação e eficiência. Para a designer, isto funciona como uma **árvore de progressão de base** pronta:
 
-1. Estabelecer recursos **mortais** em escala imortal: milhões de Gu mortais de uma vez, materiais, feras e plantas comuns. (Para comparação: um Mestre Gu mortal comum sustenta **2 a 3** Gu, e um veterano de nível 5 bem estabelecido chega a cerca de 7 — a tabela por perfil está em [[03 - Usar e Alimentar Gu#O teto: quantos Gu se carrega]], que é a referência canônica desse número. O contraste é a questão: uma dimensão privada opera na casa dos milhões.)
+1. Estabelecer recursos **mortais** em escala imortal: milhões de Gu mortais de uma vez, materiais, feras e plantas comuns. (Para comparação: um Mestre Gu mortal comum sustenta **2 a 3** Gu, e um veterano de rank 5 bem estabelecido chega a cerca de 7 — a tabela por perfil está em [[03 - Usar e Alimentar Gu#O teto: quantos Gu se carrega]], que é a referência canônica desse número. O contraste é a questão: uma dimensão privada opera na casa dos milhões.)
 2. Produzir recursos de **nível imortal** suficientes para alimentar os próprios Gu Imortais sem depender de compras.
 3. Criar feras e plantas imortais **integradas ao ecossistema** — não basta a criatura estar presente; ela precisa formar cadeia alimentar real com o resto.
 4. Usar o **excedente** para comerciar e lucrar.
@@ -304,7 +304,7 @@ Os níveis não são estritamente sequenciais na prática: é perfeitamente poss
 Uma regra econômica associada, e cínica: **comprar escravos para trabalho forçado é deficitário no longo prazo** — a mortalidade supera a reprodução e exige reposição constante e cara. Só populações que crescem organicamente compensam. E populações **nascidas** dentro da dimensão geram lealdade extrema e, no caso de humanos, produzem espontaneamente receitas, Gu e técnicas novas sem que o dono precise deduzi-las.
 
 > [!note] Para o design
-> Os sete níveis são a espinha dorsal de um jogo de **construção de base** embutido no sistema de progressão pessoal. O que torna isso incomum é que a base não é um acessório do personagem — ela **é** o personagem: sua produção de energia, sua reserva de poder, sua capacidade de sobreviver ao próximo desastre e o lugar onde ele mora. E o nível 6 é a virada temática do domínio: o momento em que o cultivador deixa de ser um sujeito com uma casa e passa a ser um **deus menor com uma população**, com tudo o que isso implica de responsabilidade e de horror.
+> Os sete níveis são a espinha dorsal de um jogo de **construção de base** embutido no sistema de progressão pessoal. O que torna isso incomum é que a base não é um acessório do personagem — ela **é** o personagem: sua produção de energia, sua reserva de poder, sua capacidade de sobreviver ao próximo desastre e o lugar onde ele mora. E o rank 6 é a virada temática do domínio: o momento em que o cultivador deixa de ser um sujeito com uma casa e passa a ser um **deus menor com uma população**, com tudo o que isso implica de responsabilidade e de horror.
 
 ## Relações
 

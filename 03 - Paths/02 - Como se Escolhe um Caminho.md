@@ -50,7 +50,7 @@ não existe formulário, não existe declaração, não existe instituição que
 O que existe é um adolescente e um bicho.
 
 Daí em diante, e por todo o mundo mortal, um Mestre Gu **usa ao mesmo tempo Gu de vários
-caminhos diferentes**. O inventário típico de um cultivador de nível 1 a 4 é uma miscelânea:
+caminhos diferentes**. O inventário típico de um cultivador de rank 1 a 4 é uma miscelânea:
 um Gu de ataque de um caminho, um de movimento de outro, um de cura de um terceiro, um de
 armazenamento de um quarto. Isso não é desleixo nem falta de plano — é a consequência
 direta de como Gu entram na vida de alguém.
@@ -84,13 +84,13 @@ permitiram:
 > "é" de um caminho: ele **está ficando** de um caminho, e pode não perceber isso enquanto
 > acontece.
 
-### O que realmente acontece no nível 3
+### O que realmente acontece no rank 3
 
-Existe um momento em que a coisa começa a se organizar, e o mundo o reconhece: o **nível 3**
+Existe um momento em que a coisa começa a se organizar, e o mundo o reconhece: o **rank 3**
 é a fase de definição de carreira. Mas vale ser preciso sobre o que se define ali, porque é
 mais estreito do que costuma se dizer.
 
-O que a obra descreve no nível 3 são duas coisas:
+O que a obra descreve no rank 3 são duas coisas:
 
 - **Escolher uma especialização funcional** entre seis direções — ataque, defesa, cura,
   armazenamento, movimento e investigação — mais alguns nichos profissionais, como refinar
@@ -102,15 +102,14 @@ O que a obra descreve no nível 3 são duas coisas:
   (sinergia de uso) e se fundem melhor quando refinados juntos (sinergia de refino).
 
 Vale reparar em como o próprio mundo dá esse conselho, porque é revelador. A orientação que um
-veterano passa a um jovem é "no nível 3 você tem que **determinar a direção que quer seguir** e
+veterano passa a um jovem é "no rank 3 você tem que **determinar a direção que quer seguir** e
 montar um conjunto de Gu naquela linha" — e os exemplos que ele dá em seguida são todos
 **funções**, não caminhos: se você quer ser um Mestre de suporte, seus Gu serão principalmente
 de armazenamento; se quer ser investigador, o núcleo será de investigação; se quer futuro no
 refino, trabalhe receitas; se gosta de tramar, colecione Gu de apoio ao pensamento. Ninguém diz
 "escolha entre o caminho do sangue e o caminho da espada".
 
-É **essa** montagem de conjunto coeso que faz o mundo dizer que se "escolhe um caminho no nível
-3". A formulação é útil e amplamente verdadeira — a obra registra que, ao chegar ao nível 3, os
+É **essa** montagem de conjunto coeso que faz o mundo dizer que se "escolhe um caminho no rank 3". A formulação é útil e amplamente verdadeira — a obra registra que, ao chegar ao rank 3, os
 Mestres Gu já começaram a se classificar em categorias e a virar especialistas de um domínio —
 mas é uma **descrição de prática, não uma regra formal do universo**. Ninguém assina nada. O
 cultivador começa a comprar coisas que combinam com o que já tem, e um observador de fora passa
@@ -124,7 +123,7 @@ mortal oferece — e ainda assim é sobre completar o que você já tem, não so
 você vai ser.
 
 > [!warning] Uma nuance que vale guardar
-> Um Mestre Gu de nível 3 que montou um conjunto do caminho da força **continua carregando
+> Um Mestre Gu de rank 3 que montou um conjunto do caminho da força **continua carregando
 > Gu de outros caminhos** para tarefas que o conjunto não cobre. Especialização, no mundo
 > mortal, significa "tenho um núcleo coerente", não "só tenho isto". A pureza total é um
 > fenômeno do reino imortal, e você vai ver adiante por que ela só faz sentido lá.
@@ -205,8 +204,8 @@ botão de recomeçar, é uma amputação.
 
 ## A ascensão: o instante em que a preferência vira natureza
 
-Passar do nível 5 para o nível 6 é a fronteira mais dura do sistema — de dez mil Mestres Gu
-de nível 5, nem um a completa. O processo tem três passos, e o terceiro é o que interessa
+Passar do rank 5 para o rank 6 é a fronteira mais dura do sistema — de dez mil Mestres Gu
+de rank 5, nem um a completa. O processo tem três passos, e o terceiro é o que interessa
 aqui.
 
 1. **Estilhaçar a abertura mortal**, atacando por dentro a parede que a fecha.
@@ -429,7 +428,7 @@ Três consequências que caem direto disso:
   de força. É a razão mecânica de os imortais ficarem **cada vez mais puros** com o tempo, em
   vez de mais diversificados. Especialização não é só escolha: é juros compostos.
 - **Todo imortal antigo carrega entulho.** O resíduo de outros caminhos entra e fica. Ninguém
-  chega ao nível 8 com um vetor limpo.
+  chega ao rank 8 com um vetor limpo.
 - **A abertura é a alavanca.** Como o passo 2 lê o estado da abertura, **mexer na abertura é a
   única forma estrutural de mexer na composição das marcas que se vai ganhar**. É exatamente
   sobre isso que os métodos institucionais descritos adiante operam.
@@ -623,7 +622,7 @@ Duas ressalvas finais:
 Nem todo mundo começa em zero.
 
 - **Constituições extremas** conferem marcas natas em volume que supera a maioria dos imortais
-  de nível 6 em condição equivalente. É o que explica como um mortal excepcional consegue, em
+  de rank 6 em condição equivalente. É o que explica como um mortal excepcional consegue, em
   situações extremas, suprimir poderes imortais. As dez estão em
   [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]].
 - **Certas raças e variantes humanas nascem com marcas nativas** do caminho a que pertencem —
@@ -661,7 +660,7 @@ Dois casos concretos que ilustram a distinção:
 - **A exceção que a obra nomeia.** Existe **uma** herança documentada que entrega dao marks de
   verdade, e não apenas compreensão: uma montanha de legado do [[23 - Luck Path|caminho da sorte]]
   cujo primeiro herdeiro saiu dela com um volume de marcas de sorte comparável ao de um imortal
-  de nível 7 — sem ter nível 7. As marcas são **do caminho da herança**. Isso confirma que a
+  de rank 7 — sem ter rank 7. As marcas são **do caminho da herança**. Isso confirma que a
   categoria existe; `—` a obra não diz se essa montanha é caso único ou exemplar de uma classe.
 
 ### 7. Conversão entre caminhos
@@ -912,10 +911,10 @@ Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
   gratuito do sistema.**
 - **Não dá para acumular sem atrair.** Quanto mais marcas você tem, mais desequilíbrio você é,
   e mais forte vem a próxima provação. A curva de dificuldade é o seu próprio sucesso.
-- **Não dá para contar com ganho líquido no topo.** `[segredo]` Um cultivador de nível 8 que
+- **Não dá para contar com ganho líquido no topo.** `[segredo]` Um cultivador de rank 8 que
   sobreviveu à primeira tribulação miríade contabilizou ter **perdido** mais marcas do que
   ganhou. Nos ranks mais altos, sobreviver não garante progredir — a fundação pode regredir. É
-  citado como razão indireta de só terem existido dez cultivadores de nível 9 em toda a
+  citado como razão indireta de só terem existido dez cultivadores de rank 9 em toda a
   história.
 - **Não dá para somar caminhos para chegar ao topo.** `[segredo]` Uma das quatro condições
   formais para se tornar Venerável é ter **pelo menos trezentas mil marcas no caminho

@@ -11,16 +11,16 @@ conhecimento: especializado
 
 # Gu Imortais
 
-**Em uma frase:** a partir do nível 6, um Gu deixa de ser um item raro e passa a ser um
+**Em uma frase:** a partir do rank 6, um Gu deixa de ser um item raro e passa a ser um
 ==objeto único no mundo inteiro== — existe **um exemplar de cada, e apenas um** —, o que
 transforma todo o topo do sistema numa disputa por artefatos irrepetíveis em vez de uma
 corrida de fabricação.
 
-## O que muda no nível 6
+## O que muda no rank 6
 
 A fronteira entre os níveis 5 e 6 não é quantitativa. É de categoria.
 
-| | Gu comuns (1–5) | Gu Imortais (6–8) | Gu de nível 9 |
+| | Gu comuns (1–5) | Gu Imortais (6–8) | Gu de rank 9 |
 |---|---|---|---|
 | **Do que são feitos** | marcas do Dao | **fragmentos do Grande Dao** | nem uma coisa nem outra |
 | **Quantos existem** | quantos se produzir | **um por espécie, no mundo** | um, e são lendas |
@@ -31,12 +31,12 @@ Três consequências importantes decorrem disso:
 
 - **Um Gu Imortal não funciona bem contra outro Gu Imortal.** Como cada um é um fragmento do
   Grande Dao do próprio caminho, o efeito de um sobre outro normalmente **falha**, salvo
-  dominância de nível: um de nível 7 sobre um de nível 6 tem alguma chance; nível 7 contra
-  nível 7 falha sempre. Isso empurra os combates de topo para golpes combinados e para
+  dominância de nível: um de rank 7 sobre um de rank 6 tem alguma chance; rank 7 contra
+  rank 7 falha sempre. Isso empurra os combates de topo para golpes combinados e para
   ataques ao corpo do dono, não aos Gu.
-- **Gu de nível 9 podem agir por conta própria.** Não sendo feitos de marcas do Dao, escapam
+- **Gu de rank 9 podem agir por conta própria.** Não sendo feitos de marcas do Dao, escapam
   a qualquer mecanismo que opere sobre elas — inclusive, às vezes, ao controle do dono.
-- **Mantidos despertos fora do corpo**, Gu de nível 6 e acima entram em ressonância com as
+- **Mantidos despertos fora do corpo**, Gu de rank 6 e acima entram em ressonância com as
   leis naturais e provocam fenômenos anômalos que denunciam sua presença a quilômetros de
   distância. Guardá-los mal é anunciar que você os tem.
 
@@ -67,8 +67,7 @@ terminal inexplicável significa que aquele Gu já existe em algum lugar, nas m�
 
 ### Extensões da regra
 
-- **Vale para upgrades de nível.** Não podem coexistir uma versão de nível 6 e uma de nível
-  7 do mesmo Gu. A versão superior só pode ser produzida **consumindo a inferior como
+- **Vale para upgrades de nível.** Não podem coexistir uma versão de rank 6 e uma de rank 7 do mesmo Gu. A versão superior só pode ser produzida **consumindo a inferior como
   material principal** — sob risco de destruí-la.
 - **Vale para produção automática.** Um Gu que fabrica outros Gu só produz uma versão
   imortal se ainda não existir uma no mundo.
@@ -163,7 +162,7 @@ está em [[06 - Refino de Gu#As taxas de sucesso, lado a lado]], e a de consulta
 [[02 - Tabelas de Referência Rápida#12. Taxas de sucesso de refino]].
 
 **2. O custo por tentativa.** Cada tentativa consome um conjunto completo de materiais
-imortais. Um único conjunto para nível 6 já consome quase toda a riqueza líquida de um
+imortais. Um único conjunto para rank 6 já consome quase toda a riqueza líquida de um
 imortal médio — e é preciso preparar vários. Refinar fora de uma grande instalação
 especializada custa **pelo menos dez vezes mais** materiais.
 
@@ -193,13 +192,13 @@ Duas coisas rompem esse regime, e ambas são material de campanha:
   permanentemente os Gu Imortais que perde em combate, o que é uma vantagem estratégica
   difícil de exagerar.
 
-  Com ela, produção **em série** de Gu de nível 8 se torna possível —
+  Com ela, produção **em série** de Gu de rank 8 se torna possível —
   mais de cinquenta refinados, algo descrito como além da imaginação de qualquer imortal. Os
   tetos que permanecem: nem ela refina níveis 9 ou 10, e a **unicidade continua valendo**.
 - **Gu selvagens que sobem de nível sozinhos.** Um Gu Imortal nascido espontaneamente num
   ponto de recurso **continua subindo de nível** se o dono injetar recursos **no ambiente ao
   redor** em vez de refinar o bicho. Quanto maior a escala do ambiente, mais alto o nível
-  alcançável — é a via concreta para ultrapassar o nível 8. A regra crítica: **refinar o Gu
+  alcançável — é a via concreta para ultrapassar o rank 8. A regra crítica: **refinar o Gu
   interrompe o processo permanentemente**. É a natureza que está refinando; se você
   interferir, ela para e não recomeça.
 
@@ -209,15 +208,15 @@ Duas coisas rompem esse regime, e ambas são material de campanha:
   selvagem a cada vinte anos. Um abismo onde desabamentos massivos misturam destroços,
   energia de morte e sangue gera feras e Gu Imortais de sangue e de terra.
 - **Feras muito antigas.** Um Gu comum dentro de uma fera velha o bastante pode se tornar um
-  Gu Imortal selvagem. Existem feras com poder equivalente a nível 8 portando Gu Imortais
+  Gu Imortal selvagem. Existem feras com poder equivalente a rank 8 portando Gu Imortais
   selvagens de ocultação.
 - **Aberturas bem geridas.** Um território imortal bem administrado pode formar
   espontaneamente um Gu Imortal selvagem novo — mas em territórios habitados o dono os
   coleta na hora, então não há Gu "soltos" ali.
 - **Nascimento espontâneo por devoração.** Criaturas comuns que devoram recursos suficientes
   num ambiente arrasado podem virar Gu Imortais — mas o resultado é **imprevisível**, não se
-  escolhe qual Gu nasce, e a eficiência é péssima: dois de nível 6 obtidos assim custaram o
-  equivalente a mais de dez de nível 7 pelos métodos normais.
+  escolhe qual Gu nasce, e a eficiência é péssima: dois de rank 6 obtidos assim custaram o
+  equivalente a mais de dez de rank 7 pelos métodos normais.
 
 Quando um Gu Imortal se forma naturalmente, o mundo **avisa**: um pilar de luz vermelha tinge
 o céu por centenas de quilômetros. É conhecimento público, e é a largada de uma corrida.
@@ -233,14 +232,14 @@ Aqui a alimentação deixa de ser despesa e vira o **gargalo estrutural do imort
 
 - Imortais com muitos Gu Imortais vivem o problema recorrente de alimentá-los. Por isso as
   heranças do [[20 - Food Path|caminho da comida]] estão entre os bens mais cobiçados do mundo —
-  há registro de vários imortais de nível 8 tentando comprar uma única herança dessas.
+  há registro de vários imortais de rank 8 tentando comprar uma única herança dessas.
 - A gestão de um território imortal trata **autossuficiência alimentar como primeiro
-  critério**, por ordem de nível: alimenta-se primeiro o nível 8, depois o 7, depois o 6.
-- **Alimentar um Gu de nível 8 é um projeto de engenharia.** Um único deles exigiu a
+  critério**, por ordem de nível: alimenta-se primeiro o rank 8, depois o 7, depois o 6.
+- **Alimentar um Gu de rank 8 é um projeto de engenharia.** Um único deles exigiu a
   construção de um pântano inteiro. Comprar comida no mercado é insustentável a longo prazo:
   o modelo viável é possuir um **ponto de recurso próprio**.
-- **O nível 9 inverte a curva.** Quanto mais alto, menos frequente a refeição — a
-  dificuldade passa a ser a **raridade do alimento**, não a frequência. Um Gu de nível 9
+- **O rank 9 inverte a curva.** Quanto mais alto, menos frequente a refeição — a
+  dificuldade passa a ser a **raridade do alimento**, não a frequência. Um Gu de rank 9
   registrado come um campo extenso de um material lendário, o que obriga o dono a cultivar
   uma fazenda de longo prazo para a próxima refeição.
 - **Hibernação corta o custo pela metade** — e é por isso que imortais que hibernam cedem
@@ -263,9 +262,9 @@ Mesmo o maior mercado do mundo raramente vê um Gu Imortal sendo negociado. O qu
 **conhecimento**, não artefato.
 
 Existe, porém, um modelo de troca elegante que contorna a regra: em vez de trocar Gu por Gu,
-oferece-se o **serviço de elevar até o nível 8** um Gu que o outro clã já possui, em troca de
+oferece-se o **serviço de elevar até o rank 8** um Gu que o outro clã já possui, em troca de
 território. A justificativa comercial é simétrica: montanhas famosas são pontos de recurso
-contínuos, e alimentar um Gu de nível 8 também consome recursos continuamente. Serviço por
+contínuos, e alimentar um Gu de rank 8 também consome recursos continuamente. Serviço por
 renda perpétua.
 
 ## O caso extremo: o Gu do Amor
@@ -273,7 +272,7 @@ renda perpétua.
 `conhecimento: segredo`
 
 Vale registrar, porque quebra praticamente toda regra desta nota e é o melhor exemplo de como
-a obra trata o nível 9.
+a obra trata o rank 9.
 
 - **Não pode ser refinado por ninguém** — nem por um dos seres mais poderosos da história,
   que tentou por três anos ininterruptos e fracassou.
@@ -292,8 +291,8 @@ a obra trata o nível 9.
 - **Não age preventivamente.** A portadora quase morreu numa batalha com ele à disposição.
   Ter o Gu do Amor não é ter um seguro.
 
-> [!warning] Mesmo o nível 9 se desgasta
-> Um Gu de nível 9 usado num golpe de escala mundial pode não poder ser reutilizado em
+> [!warning] Mesmo o rank 9 se desgasta
+> Um Gu de rank 9 usado num golpe de escala mundial pode não poder ser reutilizado em
 > seguida — o próprio Gu "ainda carrega feridas" do uso anterior e precisa se recuperar.
 > Poder absoluto não significa disponibilidade absoluta.
 

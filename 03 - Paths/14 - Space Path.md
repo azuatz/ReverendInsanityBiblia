@@ -54,7 +54,7 @@ estiver embriagado.
 ### O custo corporal cumulativo
 
 O caminho tem um dos custos mais visualmente perturbadores do sistema. Um Gu de teleporte de
-nível 5 cobra em **deformação física progressiva**: tendões emaranhados, sangue circulando
+rank 5 cobra em **deformação física progressiva**: tendões emaranhados, sangue circulando
 invertido, o corpo se retorcendo um pouco mais a cada uso.
 
 Não é dano — é **acúmulo**. O praticante que usa demais fica permanentemente disforme. É a
@@ -80,9 +80,9 @@ de sair**.
 
 - Existe um Gu Imortal que **congela o poder do próprio caminho do espaço** numa área ampla —
   a defesa dedicada contra fuga por teleporte.
-- Um Gu selvagem de nível 5 puxa usuário e alvo para um **espaço isolado de luta**, do qual
+- Um Gu selvagem de rank 5 puxa usuário e alvo para um **espaço isolado de luta**, do qual
   nenhum dos dois sai antes de resolver a questão.
-- Golpes combinados de espaço somados a selagem prendem e imobilizam alvos de até nível 5,
+- Golpes combinados de espaço somados a selagem prendem e imobilizam alvos de até rank 5,
   desde que o alvo tenha sido **previamente marcado** com um Gu-âncora.
 
 Essa última regra é importante e frequentemente esquecida: os grandes golpes de captura do
@@ -160,7 +160,7 @@ comum. A obra dá três demonstrações, e elas escalam.
 **Primeira: espaço acumulado vira arquitetura.** O cadáver de uma fera desolada imemorial do
 caminho do espaço, coberta de incontáveis marcas do Dao do espaço, **construiu sozinho** ao seu
 redor uma paisagem de salões ilusórios: qualquer um que entrasse no alcance era **arrastado para
-dentro dos salões**, e só um imortal de nível 8 conseguia resistir a essa tração. Sobre o
+dentro dos salões**, e só um imortal de rank 8 conseguia resistir a essa tração. Sobre o
 esqueleto dela, marcas do Dao do espaço extremamente densas se entrelaçavam e **conjuravam um
 pequeno espaço** com um salão em ruínas dentro. Ninguém construiu nada; as marcas fizeram.
 
@@ -173,8 +173,8 @@ levou **décadas** de trabalho para ser montado.
 **Terceira: espaço acumulado gera criaturas.** Este é o achado mais elegante, e é o paralelo
 exato do que acontece no [[04 - Strength Path|caminho da força]]: lugares com **muitas** marcas
 do Dao do espaço produzem **feras fantasma**, que normalmente são raras. Um exército inteiro
-delas apareceu num lugar assim. Uma fera fantasma de nível 6, só por conseguir virar fantasma,
-incomoda um imortal de nível 7.
+delas apareceu num lugar assim. Uma fera fantasma de rank 6, só por conseguir virar fantasma,
+incomoda um imortal de rank 7.
 
 Ou seja: **o espaço acumulado tem uma fauna própria**, e ela emerge sozinha onde as marcas se
 concentram. Ver [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
@@ -243,7 +243,7 @@ espaço**: marcas *originadas de outro mundo*, estranhas às cinco regiões e ao
 
 A consequência prática: as heranças que ele deixou estão guardadas em espaços que **parecem
 comuns mas já transcenderam o mundo dos Gu** — não estão dentro das cinco regiões nem dos nove
-céus. Um Venerável de nível 9 tentou tomar uma dessas heranças e **voltou de mãos vazias**,
+céus. Um Venerável de rank 9 tentou tomar uma dessas heranças e **voltou de mãos vazias**,
 tendo saído prejudicado, sem conseguir fazer nada a respeito.
 
 Detalhe operacional que fecha a ideia: quem **não** conhece a herança fica preso lá dentro
@@ -270,11 +270,11 @@ expelido em quinze minutos. É um cofre que se abre com etiqueta, não com forç
 | Faixa | O que o caminho entrega |
 |---|---|
 | **Níveis 1–4** | Troca de posição e perfurações curtas. A troca de posição merece destaque: é barata, é de nível baixo, e é uma das ferramentas de assassinato e de fuga mais eficazes do mundo mortal, porque **converte a vantagem de posição do inimigo em desvantagem instantânea** |
-| **Nível 5** | Teleporte corporal de verdade — e a primeira conta a pagar, a **deformação física cumulativa**. Aqui também entram os portais fixos em pares e o espaço isolado de duelo, que arranca dois combatentes do mundo até a questão se resolver |
-| **Nível 6** | Teleporte global a destino escolhido, **atravessando paredes regionais**. É o degrau que muda a escala do jogo do personagem: ele passa a operar em cinco regiões |
-| **Nível 7** | Movimentação imortal de assinatura e **supressão dedicada**: um Gu cuja única função é congelar o poder do caminho do espaço numa área ampla. O caminho produz o próprio contra |
-| **Nível 8** | `—` A obra não descreve um Gu de espaço declaradamente de nível 8 com efeito próprio. O que ela mostra nessa faixa são **usos**: reformatar paisagens com marcas de espaço, e dobrar distância dentro de um recinto |
-| **Nível 9** | A camada cosmológica: marcas de espaço capazes de deixar um recinto **fora das cinco regiões e dos nove céus** |
+| **Rank 5** | Teleporte corporal de verdade — e a primeira conta a pagar, a **deformação física cumulativa**. Aqui também entram os portais fixos em pares e o espaço isolado de duelo, que arranca dois combatentes do mundo até a questão se resolver |
+| **Rank 6** | Teleporte global a destino escolhido, **atravessando paredes regionais**. É o degrau que muda a escala do jogo do personagem: ele passa a operar em cinco regiões |
+| **Rank 7** | Movimentação imortal de assinatura e **supressão dedicada**: um Gu cuja única função é congelar o poder do caminho do espaço numa área ampla. O caminho produz o próprio contra |
+| **Rank 8** | `—` A obra não descreve um Gu de espaço declaradamente de rank 8 com efeito próprio. O que ela mostra nessa faixa são **usos**: reformatar paisagens com marcas de espaço, e dobrar distância dentro de um recinto |
+| **Rank 9** | A camada cosmológica: marcas de espaço capazes de deixar um recinto **fora das cinco regiões e dos nove céus** |
 
 Como o caminho não tem fundador nem herança canônica única, seu [[08 - Attainment|domínio]] é
 adquirido do jeito comum — e a obra registra o efeito de faltar domínio nele com clareza: um
@@ -312,7 +312,7 @@ caminho certo, a dedução não acontece.
 |---|---|---|
 | **Intrusão forçada** | imortal | Montado sobre o Gu que expande espaço: **rasga a barreira de uma abertura imortal alheia** — o espaço se quebra com som de vidro e revela o terreno lá dentro. É a arrombadeira canônica do mundo, e a razão pela qual toda terra abençoada precisa de defesa. Custa mais de dez contas de essência imortal por acionamento |
 | **Fechamento forçado** | imortal | O mesmo Gu na direção oposta: **fecha a brecha aberta** atrás de quem entrou, isolando o interior de espectadores e de reforços |
-| **Golpes de captura com selagem** | imortal | Prendem e imobilizam alvos de até nível 5 — **desde que o alvo tenha sido previamente marcado** com um Gu-âncora. Não se prende um estranho |
+| **Golpes de captura com selagem** | imortal | Prendem e imobilizam alvos de até rank 5 — **desde que o alvo tenha sido previamente marcado** com um Gu-âncora. Não se prende um estranho |
 | **Espaço de batalha** | 5 (selvagem) | Puxa usuário e alvo para um **espaço isolado**, do qual nenhum dos dois sai antes de a questão se resolver |
 | **Dobra de distância por marcas** | efeito de terreno | Concentrar marcas do Dao do espaço num ponto faz a **distância real deixar de coincidir com a aparente**: dezenas de passos viram uma distância gigantesca. Leva décadas para montar e é desfeito por golpes de força ou por tribulação |
 

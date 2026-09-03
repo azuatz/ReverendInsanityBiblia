@@ -110,7 +110,7 @@ socialmente muito diferentes:
 > longo prazo** — a mortalidade supera a reprodução e obriga a reposição constante e cara.
 > Só populações que crescem organicamente compensam. Isso não impede ninguém de comprar
 > escravos; apenas explica por que os donos mais competentes preferem **criar** gente a
-> comprá-la, e por que o nível 6 do desenvolvimento de uma abertura é literalmente "criar
+> comprá-la, e por que o rank 6 do desenvolvimento de uma abertura é literalmente "criar
 > humanos e humanos variantes" (ver [[13 - Blessed Lands e Grotto-Heavens#Os sete níveis de desenvolvimento]]).
 
 ### O que essas pessoas sabem sobre a própria situação

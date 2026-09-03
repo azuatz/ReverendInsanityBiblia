@@ -80,7 +80,7 @@ diferentes se atrapalham — e este caminho está fora dela. Consequências:
 
 - ele **amplifica aliados de qualquer caminho** sem penalidade;
 - e suas marcas são **difíceis de dissipar**: para resolvê-las é preciso usar métodos do próprio
-  caminho humano de **nível 8 ou acima**.
+  caminho humano de **rank 8 ou acima**.
 
 ## História: o caminho que passou milênios sem chão
 
@@ -152,7 +152,7 @@ Detalhe delicioso de mesa: os métodos de caminho humano que os Veneráveis deix
 precisam de **um imortal vivo do caminho humano como "chave"** para serem ativados. A pessoa que
 detém essa autoridade não precisa ser forte — precisa ser **do caminho certo**.
 
-O custo recai sobre ela: o operador registrado era apenas de nível 7, e por isso *cada tentativa
+O custo recai sobre ela: o operador registrado era apenas de rank 7, e por isso *cada tentativa
 era excruciante além do seu limite*. (ded.) Ativar um golpe muito acima do próprio nível cobra o
 preço no corpo do ativador.
 
@@ -351,9 +351,9 @@ tinham sido possíveis. Ela substitui, em meio dia, o que normalmente levaria ge
 O que ela produz é sempre **híbrido**, e a lista é instrutiva porque mostra o caminho humano
 funcionando como solvente universal: caminho humano cruzado com o das pílulas gera um Gu de
 **refinador de pílulas** (ranks 1–5, capaz de produzir refinadores em massa); com o
-[[27 - Os Caminhos Elementais|metal]], um Gu de **ferreiro** de nível 6; com o
+[[27 - Os Caminhos Elementais|metal]], um Gu de **ferreiro** de rank 6; com o
 [[13 - Sound Path|som]], o Gu do **músico**; com a sombra, o Gu do **fantoche de sombra**; e há uma
-família de **Gu de portão policial** de nível 1 a 6, mutuamente conectados, que permitem aos
+família de **Gu de portão policial** de rank 1 a 6, mutuamente conectados, que permitem aos
 guardas criados por outro Gu **viajar instantaneamente de um portão a outro**.
 
 **E o limite é o mais interessante:** a formação não se esgota — **as pessoas é que se esgotam**.
@@ -428,10 +428,10 @@ impressionante da pasta. Todos operam sobre populações inteiras:
   tempo**.
 - **A Visão de Todos** — mortais, Mestres Gu e imortais de um continente inteiro **compartilham
   a visão**. Basta alguém ver um traço do alvo para o operador saber onde ele está.
-- **Heróis Entre o Povo** (nível 9) — **amplifica os próprios imortais aliados**, com pelo menos
+- **Heróis Entre o Povo** (rank 9) — **amplifica os próprios imortais aliados**, com pelo menos
   o **triplo** da força de combate, e atinge incontáveis imortais de uma vez; amplifica também
   formações e outros golpes. Tem um teto revelado: não amplificou alguém cuja força já
-  ultrapassava o patamar do nível 8. E o modo canônico de derrotá-lo é elegante: em vez de
+  ultrapassava o patamar do rank 8. E o modo canônico de derrotá-lo é elegante: em vez de
   quebrá-lo, o adversário **expandiu o efeito para todo mundo, inclusive os inimigos** — o que
   "não era diferente de quebrá-lo".
 - **Lares Destruídos e Família Morta** — o melhor golpe do mundo contra Casas de Gu Imortal.
@@ -496,7 +496,7 @@ impressionante da pasta. Todos operam sobre populações inteiras:
   fraco no ermo — o que o ancora geograficamente como nenhum outro.
 - **A juventude do caminho.** Gu Imortais selvagens de caminho humano **são muito raros**; os
   pioneiros podem precisar de Gu que **o próprio mundo ainda não possui**; e criar uma receita
-  imortal de nível 6 aqui é descrito como *fazer algo que não existe no mundo, empurrar o mundo
+  imortal de rank 6 aqui é descrito como *fazer algo que não existe no mundo, empurrar o mundo
   além do seu limite atual*. Um imortal recém-ascendido pode passar muito tempo **sem nenhum Gu
   Imortal do próprio caminho**.
 - **A vontade do céu se recusa a colaborar.** A obra registra falhas em massa nas ascensões dos
@@ -512,9 +512,9 @@ mais o caminho humano se desenvolve, maior sua vantagem sobre os outros.**
 | Degrau | O que a obra mostra sendo destrancado |
 |---|---|
 | **Mestre** | Reconhecer retroativamente que Gu e golpes que já se possuía eram deste caminho; ler o livro fundador **com nível de compreensão adequado**. Insuficiente para lidar com os métodos deixados pelos Veneráveis |
-| **Grão-mestre** | Criar golpes **híbridos** de caminho humano com outro; montar formações imortais do caminho; deduzir métodos de refino com profundidade humana. Ainda insuficiente para resolver os golpes dos Veneráveis ou criar receitas imortais de nível 6 |
-| **Grande grão-mestre** | Criar um Gu Imortal de nível 9 do caminho |
-| **Quase-supremo grão-mestre** | Criar um Gu Imortal **de nível 8** próprio e uma **herança verdadeira** inteira, com potencial de gerar um sub-ramo novo do caminho; **rastrear, localizar e decifrar de trás para frente** os golpes deixados pelos Veneráveis onde outros imortais não sentiam nem os traços; e **premonição sobre pessoas** — identificar quem tem chance de virar imortal |
+| **Grão-mestre** | Criar golpes **híbridos** de caminho humano com outro; montar formações imortais do caminho; deduzir métodos de refino com profundidade humana. Ainda insuficiente para resolver os golpes dos Veneráveis ou criar receitas imortais de rank 6 |
+| **Grande grão-mestre** | Criar um Gu Imortal de rank 9 do caminho |
+| **Quase-supremo grão-mestre** | Criar um Gu Imortal **de rank 8** próprio e uma **herança verdadeira** inteira, com potencial de gerar um sub-ramo novo do caminho; **rastrear, localizar e decifrar de trás para frente** os golpes deixados pelos Veneráveis onde outros imortais não sentiam nem os traços; e **premonição sobre pessoas** — identificar quem tem chance de virar imortal |
 
 > [!warning] Uma linha desta tabela não é um degrau de domínio
 > A obra registra que **curar os ferimentos de um Venerável** exigia, como requisito mínimo, um
@@ -589,14 +589,14 @@ nele.** Para todos os outros, um grande especialista de caminho humano é invis�
 - **O Ancestral Humano** — a figura fundacional; criou a humanidade e os dez físicos extremos, e
   suas lendas são a herança verdadeira do caminho. Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 - **O primeiro Venerável** — criou o primeiro conjunto documentado de golpes do caminho e, com um
-  Gu de nível 9, instituiu o **domínio da humanidade**, que *deu aos humanos a esperança de
+  Gu de rank 9, instituiu o **domínio da humanidade**, que *deu aos humanos a esperança de
   liberdade e a coragem de se revoltar*.
 - **O pilar fundacional** — o Venerável que construiu o mundo-pintura e derivou as fundações do
   caminho a partir de um milhão de anos de vida mortal observada.
-- **O especialista vivo de topo** — imortal de nível 8 e quase-supremo grão-mestre, o maior
-  perito das cinco regiões. Criou um Gu Imortal de nível 8 próprio, uma herança verdadeira
+- **O especialista vivo de topo** — imortal de rank 8 e quase-supremo grão-mestre, o maior
+  perito das cinco regiões. Criou um Gu Imortal de rank 8 próprio, uma herança verdadeira
   inteira, e formulou a taxonomia dos três tipos de Gu deste caminho.
-- **A chave** — um imortal de nível 7 que detém a autoridade para ativar os métodos guardados
+- **A chave** — um imortal de rank 7 que detém a autoridade para ativar os métodos guardados
   pelos Veneráveis, e que paga em dor cada ativação.
 - **As dez crianças do caminho humano** — dez Mestres Gu selecionados das grandes seitas antigas,
   escolhidos por terem **qi humano abundante** e treinados dentro de mundos-pintura para se

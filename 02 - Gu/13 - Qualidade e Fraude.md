@@ -30,7 +30,7 @@ dizem que é?== — e o mundo tem uma indústria inteira dedicada a fazê-lo err
 ## Por que esta nota existe
 
 Todo o resto desta pasta trata o nível (rank) como se fosse a medida de um Gu. Não é. Dois
-Gu de nível 3 podem ser peças de categorias completamente diferentes, e um deles pode nem
+Gu de rank 3 podem ser peças de categorias completamente diferentes, e um deles pode nem
 ser um Gu. Esta nota reúne as duas coisas que o número esconde.
 
 ---
@@ -42,7 +42,7 @@ ser um Gu. Esta nota reúne as duas coisas que o número esconde.
 Isto é o primeiro contraste com quase todo sistema de RPG, e vale fixá-lo antes de
 qualquer outra coisa. **Não existe, no mundo da obra, um Gu "+1" e um Gu "+2" da mesma
 espécie.** Exemplares produzidos em série de uma mesma espécie são praticamente idênticos:
-diante de uma prateleira inteira de Gu de luar de nível 1, um comprador experiente
+diante de uma prateleira inteira de Gu de luar de rank 1, um comprador experiente
 constata que "há muito pouca diferença entre eles" e simplesmente pega um qualquer.
 
 O que varia é **qual espécie** você está comprando — e é aí que as diferenças são
@@ -54,11 +54,11 @@ A obra enuncia o critério de "primeira linha" com todas as letras, e ele é lim
 
 > **Um Gu de primeira linha é o que entrega muito poder cobrando pouca essência.**
 
-O caso canônico é um Gu de nível 2 que um clã inteiro decide adotar. A justificativa do
+O caso canônico é um Gu de rank 2 que um clã inteiro decide adotar. A justificativa do
 líder tem exatamente duas metades:
 
 1. **Potência.** "Vocês já viram o poder ofensivo notável dele."
-2. **Consumo baixo.** "**Ele pode ser acionado por um Mestre de nível 1**, o que significa
+2. **Consumo baixo.** "**Ele pode ser acionado por um Mestre de rank 1**, o que significa
    que o consumo de essência primordial dele é pequeno."
 
 Repare no teste prático embutido na segunda metade, porque ele é a coisa mais útil desta
@@ -67,7 +67,7 @@ conseguir acioná-lo.** Não é uma estatística abstrata; é uma demonstração
 consegue fazer na frente de testemunhas.
 
 E o eixo do consumo tem escala própria dentro de cada nível. A obra chega a classificar um
-Gu assim: *"entre os Gu de nível 3, este consumo já é de faixa média-alta"* — dito como
+Gu assim: *"entre os Gu de rank 3, este consumo já é de faixa média-alta"* — dito como
 **defeito**, ao lado das outras fraquezas do bicho. Consumo alto não é neutro: é uma
 desvantagem catalogada, do mesmo jeito que um ponto fraco tático.
 
@@ -75,8 +75,8 @@ desvantagem catalogada, do mesmo jeito que um ponto fraco tático.
 
 **Procedência.** Gu que saem de heranças antigas são explicitamente descritos como "de alta
 qualidade, com **diferenças profundas em relação aos Gu comuns**" — apesar de serem, no
-papel, Gu mortais do mesmo nível que os de mercado. Um Gu de nível 4 de linhagem
-prestigiada e um Gu de nível 4 de balcão não são a mesma compra.
+papel, Gu mortais do mesmo nível que os de mercado. Um Gu de rank 4 de linhagem
+prestigiada e um Gu de rank 4 de balcão não são a mesma compra.
 
 **Estado do exemplar.** Aqui sim o indivíduo importa, e sempre para pior:
 
@@ -104,13 +104,13 @@ refino começar.
 Um dado de doutrina que raramente aparece e que decide como um clã se arma. Ao avaliar se
 adotaria um Gu para equipar todos os seus Mestres, uma liderança de clã raciocina assim:
 
-- **nível 1** — fraco demais; não faz diferença adotar em escala;
-- **nível 3** — valioso e difícil de produzir em massa, e há poucos Mestres de nível 3 para
+- **rank 1** — fraco demais; não faz diferença adotar em escala;
+- **rank 3** — valioso e difícil de produzir em massa, e há poucos Mestres de rank 3 para
   usá-lo;
-- **nível 2** — o ponto certo: **produzível em massa e utilizável por quase toda a tropa**.
+- **rank 2** — o ponto certo: **produzível em massa e utilizável por quase toda a tropa**.
 
-O nível 2 é o calibre padrão de um exército de Gu. É por isso que uma receita de nível 2
-boa vale uma guerra, e uma de nível 5 vale prestígio.
+O rank 2 é o calibre padrão de um exército de Gu. É por isso que uma receita de rank 2
+boa vale uma guerra, e uma de rank 5 vale prestígio.
 
 > [!note] Para o design
 > A dupla "potência × consumo" é um sistema de qualidade inteiro em duas colunas, e ela é
@@ -137,7 +137,7 @@ nenhum**.
 - No varejo de clã, a fraude se resolve na base do grito e da ameaça. Um comprador
   descobre que foi enganado, arma um escândalo público na porta da loja — e o vendedor
   simplesmente nega, exige prova que não existe, e encerra a discussão lembrando que **tem
-  um irmão de nível 4**. O comprador engole.
+  um irmão de rank 4**. O comprador engole.
 - No **maior mercado do mundo entre imortais**, o regime está escrito: o mercado cobra uma
   taxa fixa de serviço, testa a "capacidade de discernimento" do comprador, e se ele levar
   mercadoria falsificada **só lhe resta culpar a própria má sorte** — a casa não se
@@ -176,7 +176,7 @@ você.
 Daí sai a doutrina de compra de qualquer cultivador prudente, e ela inverte o que se
 esperaria: **comprar o bicho cru e dominá-lo você mesmo é mais seguro do que comprar um Gu
 pronto**, mesmo custando mais trabalho. Um comprador rico documentado se recusa a receber
-Gu de nível 5 já prontos justamente para não correr o risco, e prefere refiná-los pessoalmente
+Gu de rank 5 já prontos justamente para não correr o risco, e prefere refiná-los pessoalmente
 — e, quando encomenda Gu a um subordinado, a instrução literal é: compre e **inspecione
 para confirmar que não foram adulterados**.
 
@@ -217,7 +217,7 @@ Imortal**.
 
 A mesma técnica, usada pelo fabricante para se defender de piratas. Um Gu deliberadamente
 adulterado **funciona normalmente e não pode ter a receita revertida**: um único exemplar
-de nível 3 assim exigiria, no mínimo, um grão-mestre do caminho do refino, e há registro de
+de rank 3 assim exigiria, no mínimo, um grão-mestre do caminho do refino, e há registro de
 um espírito de terra especializado declarando a tarefa impossível a partir de uma amostra
 só.
 
@@ -237,7 +237,7 @@ algum tempo, eles se denunciam e **se autodetonam**, e o comprador sofre perda t
 
 Três detalhes importam:
 
-- Quem os fabricou era um **mestre do caminho do refino**, de nível 5, e a fabricação foi
+- Quem os fabricou era um **mestre do caminho do refino**, de rank 5, e a fabricação foi
   encomendada com "benefícios enormes";
 - o objetivo **não era lucro**, era política: destruir a credibilidade do mercado e, com
   ela, a legitimidade da líder do clã. Compradores lesados se juntaram e foram tumultuar a
@@ -281,7 +281,7 @@ envenenada, **coagi-lo é irracional**. Um clã que cobiçava a receita de um jo
 que pressioná-lo era o pior caminho possível e optou por presentes, convites e propostas de
 casamento. A capacidade de mentir sobre a mercadoria é, aqui, uma forma de poder do fraco.
 
-Há ainda a fraude por **omissão contratual**: vender um Gu de nível 1 de uma série
+Há ainda a fraude por **omissão contratual**: vender um Gu de rank 1 de uma série
 escondendo do comprador que cada um dos estágios seguintes terá de ser comprado à parte —
 o modelo do "aparelho e a lâmina", com custo de produção quase nulo e lucro de centenas de
 vezes.

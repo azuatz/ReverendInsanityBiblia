@@ -18,7 +18,7 @@ mais alto — a técnica central da fabricação neste mundo, e nunca uma opera�
 Uma palavra sobre vocabulário, porque três verbos circulam e é fácil se perder: **subjugar**
 é domar um bicho que já existe; **fabricar por receita** é produzir um bicho novo do começo
 ao fim; e **fundir** — o assunto desta nota — é o **passo** de que a fabricação é feita.
-Fabricar um Gu de nível 5 é executar uma sequência de fusões e preparos. Os três verbos
+Fabricar um Gu de rank 5 é executar uma sequência de fusões e preparos. Os três verbos
 estão desembaraçados no alto de [[06 - Refino de Gu|Refino de Gu]].
 
 A obra descreve o que acontece de forma memorável: a fusão **condensa num instante um
@@ -46,12 +46,12 @@ de economia de ações está em
 ### 2. Receita
 
 **Nem todo par funde.** É preciso uma combinação específica, às vezes com catalisadores. As
-receitas de nível 5 e acima são raras e guardadas como segredo de clã ou de ancião.
+receitas de rank 5 e acima são raras e guardadas como segredo de clã ou de ancião.
 
 Duas observações que mudam a economia do mundo:
 
 - **Um mesmo "tipo" de Gu pode ter dezenas de receitas alternativas** que não são idênticas.
-  Um único acervo de clã continha **oito receitas diferentes** para o mesmo Gu de nível 5.
+  Um único acervo de clã continha **oito receitas diferentes** para o mesmo Gu de rank 5.
   Não existe "a" receita — existem caminhos com materiais, prazos e riscos distintos.
 - **Receitas antigas vêm em linguagem poética**, com ambiguidade deliberada. Decifrá-las é
   uma perícia à parte.
@@ -72,7 +72,7 @@ Existem variantes multi-etapa mais elaboradas. Uma fusão documentada exigia mer
 componentes num pote com cada um de quatro vinhos diferentes — doce, picante, azedo e amargo
 —, gastando cerca de cem pedras por vinho até a esfera encolher ao tamanho de um punho,
 trocando o vinho e repetindo. Total: mais de quatrocentas pedras primordiais para um Gu de
-nível 2.
+rank 2.
 
 Catalisadores fora da receita padrão podem elevar a taxa. Uma presa de uma fera específica
 adicionava **20 pontos percentuais** a uma fusão — descoberta que só entraria na receita
@@ -90,7 +90,7 @@ receitas "oficiais" são sempre incompletas, e a vantagem competitiva mora nas m
 > [!warning] Estes números medem **um passo**, não a produção inteira
 > É a confusão mais fácil de cometer neste material, e ela muda tudo em duas ordens de
 > grandeza. Os valores acima são a chance de **uma fusão** dar certo. Fabricar um Gu de
-> nível 5 do começo ao fim é uma **cadeia** de fusões e preparos, e a chance de a cadeia
+> rank 5 do começo ao fim é uma **cadeia** de fusões e preparos, e a chance de a cadeia
 > inteira chegar ao fim é muito menor: fica **abaixo de 1 em 1.000**.
 >
 > Ou seja: os "10%" desta tabela e o "0,1%" que aparece em [[06 - Refino de Gu|Refino de Gu]] não se
@@ -139,7 +139,7 @@ Quando a combinação funciona, o resultado **multiplica**. Um Gu de luar fundid
 de luz menor produziu um Gu com **três vezes** o dano — não a soma dos três. O escalonamento
 é não-linear, e é isso que torna a fusão valer o risco apesar das taxas terríveis.
 
-O mesmo se aplica no sentido inverso: fundir Gu de nível 3 pode gerar um Gu de nível 4 com
+O mesmo se aplica no sentido inverso: fundir Gu de rank 3 pode gerar um Gu de rank 4 com
 **o dobro do alcance e metade do tempo de recarga**, ao custo de essência maior por
 acionamento. Melhoria em vários eixos ao mesmo tempo, com um contrapeso.
 
@@ -174,7 +174,7 @@ Ver [[06 - Refino de Gu|Refino de Gu]] para o refino reverso, que é a técnica 
 ## Evoluir em vez de fundir
 
 Nem toda subida de nível exige juntar bichos. Um Gu existente pode ser **elevado de nível
-por refino adicional** — há registro de um Gu que subiu do nível 2 ao nível 5 assim, em vez
+por refino adicional** — há registro de um Gu que subiu do rank 2 ao rank 5 assim, em vez
 de ser refeito do zero.
 
 No nível imortal isso vira uma restrição dura por causa da regra de unicidade: como **não
@@ -216,7 +216,7 @@ receitas de Gu Imortal *precisam* ser criadas por humanos.
 
 **3. Receitas melhoram com o tempo — e outras morrem.** Uma receita não é um texto fixo. Ela
 é revisada por gerações, e uma boa revisão troca materiais raros por materiais comuns e
-corta etapas. Há registro de um conjunto histórico completo, do nível 1 ao 5, **já
+corta etapas. Há registro de um conjunto histórico completo, do rank 1 ao 5, **já
 melhorado a ponto de todos os materiais serem encontráveis em qualquer lugar** — vendido em
 leilão por vinte e duas pedras de essência imortal.
 
@@ -246,7 +246,7 @@ inteiro floresce. Um caminho não é um conjunto de poderes — é uma **cadeia 
 Como as receitas são guardadas, na prática:
 
 - **Em Gu-arquivo**, em salas secretas de clã, codificadas por cor conforme o nível: verde
-  para nível 1, vermelho-preto para 2, branco para 3, laranja para 4, roxo para 5. Cada
+  para rank 1, vermelho-preto para 2, branco para 3, laranja para 4, roxo para 5. Cada
   entrada traz o passo a passo mais a experiência acumulada de gerações. O acesso exige
   autorização formal **e** o "reconhecimento da vontade" pelo próprio Gu-arquivo — e é
   limitado a cerca de quinze minutos por dia, sob vigilância.
@@ -291,7 +291,7 @@ A segunda é mais suja e mais usada — **adulterar o próprio produto**. Um fab
 de propósito o Gu que vende, de modo que ele funcione normalmente mas não possa ter a
 receita revertida: um exemplar assim exige, no mínimo, um grão-mestre do refino para ser
 decifrado, e há registro de um caso em que nem um espírito de terra conseguiu, a partir de
-**um** exemplar de nível 3.
+**um** exemplar de rank 3.
 
 E aqui aparece a contramedida, que é a melhor peça de economia da nota: **quantidade vence
 ofuscação**. O mesmo espírito de terra que declarou a reversão impossível com um exemplar
@@ -318,7 +318,7 @@ O dono de uma receita, portanto, não é um alvo. É um **partido**.
 
 > [!example] Caso mecânico
 > A cadeia de fusão de uma linhagem de Gu de refino de essência está documentada até o nível
-> 4. O nível 5 **não existe** — e não porque seja impossível: o pesquisador que trabalhava
+> 4. O rank 5 **não existe** — e não porque seja impossível: o pesquisador que trabalhava
 > nele morreu antes de terminar. A árvore evolutiva do mundo tem buracos que são acidentes
 > biográficos, não limites naturais. Para uma campanha, cada buraco desses é um projeto
 > esperando um jogador.

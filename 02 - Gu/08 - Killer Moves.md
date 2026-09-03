@@ -197,8 +197,8 @@ categoria mais interessante mecanicamente, porque cria interdependência forçad
 - No nível imortal, golpes que exigem **três Gu Imortais simultâneos**.
 
 **Duplas permanentes.** Parcerias longas geram golpes conjuntos exclusivos. Uma dupla de
-nível 7 no pico combina uma esfera de vento comprimido com um plasma de raio, fundindo os
-dois num pilar que rivaliza com golpes de nível 8. O custo: **os dois usuários ficam
+rank 7 no pico combina uma esfera de vento comprimido com um plasma de raio, fundindo os
+dois num pilar que rivaliza com golpes de rank 8. O custo: **os dois usuários ficam
 debilitados por um período** depois, o que exige ambiente seguro para usar.
 
 ### Por natureza do efeito
@@ -225,7 +225,7 @@ convencionais, capaz de abrigar vários campos em camadas.
 **gestão de território**: um golpe cujo núcleo é um Gu Imortal do tempo, apoiado por dezenas
 de milhares de Gu suplementares, cuja única função é **aumentar a taxa de produção de
 recursos** dentro do próprio território por um período. Zero capacidade ofensiva; dois a três
-dias de preparação mesmo para um nível 8.
+dias de preparação mesmo para um rank 8.
 
 ### Por relação com os Gu
 
@@ -286,7 +286,7 @@ Modos de uso: **dormente sobre a pele** como tatuagem, ativável com um pensamen
 distância e voltando; ou, em nível avançado, **fusão corporal** — o usuário "entra" no totem
 em pleno ar, o totem encolhe e vira uma camada de armadura.
 
-O custo em combate calibra bem a escala: liberar centenas de totens de nível 8
+O custo em combate calibra bem a escala: liberar centenas de totens de rank 8
 simultaneamente custa cerca de **30% da reserva de essência imortal por uso** — três disparos
 no máximo.
 
@@ -361,7 +361,7 @@ recursos. Isso significa que um cultivador recém-saído de uma sessão de cria�
 **debilitado**, o que torna a atividade competitiva com o próprio estado de prontidão para
 combate.
 
-**Criar e dominar são etapas separadas.** Um golpe de nível 7 usado pela primeira vez pode
+**Criar e dominar são etapas separadas.** Um golpe de rank 7 usado pela primeira vez pode
 falhar mesmo após simulação prévia — há registro de duas falhas antes do primeiro acerto.
 Cada etapa tem sua própria curva de fracasso.
 
@@ -528,7 +528,7 @@ Diferem apenas na forma:
 embalagens.
 
 > [!example] Caso mecânico
-> Um golpe defensivo de nível 7 produzia seu efeito na **décima primeira** respiração, não na
+> Um golpe defensivo de rank 7 produzia seu efeito na **décima primeira** respiração, não na
 > décima como a descrição sugeria. A discrepância de **uma única unidade de tempo** colapsava
 > a fusão e gerava backlash severo — mitigado apenas porque o usuário estava, naquele
 > momento, na forma de uma fera de corpo resistente; em forma humana o dano teria

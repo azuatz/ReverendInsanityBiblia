@@ -34,7 +34,7 @@ explicitá-lo: consumir ou destruir a alma de uma pessoa é, neste mundo, uma ag
 categoria diferente de matá-la — a alma é substância manipulável, e destruí-la apaga a pessoa
 de forma definitiva, sem sobra e sem retorno. É a prática que deu ao
 [[12 - Soul Path|caminho da alma]] a pior reputação da sua história, ao ponto de um cultivador de
-nível 9 tê-lo suprimido e de o comércio de almas ter sido empurrado para a clandestinidade.
+rank 9 tê-lo suprimido e de o comércio de almas ter sido empurrado para a clandestinidade.
 Dizer que o caminho do sangue é *pior* que isso é, portanto, colocá-lo acima da referência
 que o mundo já usava para o horror.
 
@@ -101,7 +101,7 @@ domina o caminho aprende a ler esse registro, a copiá-lo e a gastá-lo.
 Como todo caminho, o do sangue grava [[16 - Dao Marks|marcas do Dao]] no corpo de quem o
 cultiva. A diferença é o que essas marcas fazem quando o dono precisa delas.
 
-**Elas defendem sozinhas.** Há um episódio explícito: um imortal de nível 7 do caminho do
+**Elas defendem sozinhas.** Há um episódio explícito: um imortal de rank 7 do caminho do
 sangue foi apanhado no centro de uma explosão que arremessou todos os outros imortais
 presentes, e saiu **completamente ileso** — *as marcas do Dao de sangue no corpo dele
 brilhavam intensamente, protegendo-o*. Ninguém precisou acionar defesa nenhuma: o acúmulo de
@@ -201,7 +201,7 @@ O insight de fundo do caminho, aquele que um grão-mestre aciona antes de racioc
 **reconhecimento de linhagem**: diante de um enigma, o especialista em sangue pensa primeiro
 em quem é parente de quem. Não é um truque secundário — é a forma como o caminho enxerga o
 mundo, e é o que dá a ele suas capacidades de investigação, de disfarce e de contra-disfarce.
-Existe um Gu Imortal de nível 7 dedicado só a isso (*Linhagem*), e disfarçar a própria
+Existe um Gu Imortal de rank 7 dedicado só a isso (*Linhagem*), e disfarçar a própria
 linhagem contra ele é uma proeza de alto nível.
 
 ### As nove verdadeiras heranças do Mar de Sangue
@@ -211,7 +211,7 @@ mapa da escola inteira, do barato ao lendário:
 
 Gu do **crânio de sangue**, da **marca de mão sangrenta**, do **qi de sangue**, do **suor de
 sangue**, do **sangue menstrual**, da **sombra de sangue**, da **batalha de sangue**; a **fera
-desolada antiga morcego-dragão de sangue violento**; e, no topo, o Gu Imortal de nível 6
+desolada antiga morcego-dragão de sangue violento**; e, no topo, o Gu Imortal de rank 6
 **Deidade de Sangue**.
 
 Quem encontra uma dessas heranças vira potência regional — e alvo. Só duas foram encontradas
@@ -226,7 +226,7 @@ ao longo de gerações.
 | **Rank 4** | O patamar dos atalhos imperdoáveis. O **Crânio de Sangue** eleva a **aptidão** do usuário de forma permanente às custas de vítimas; o **Frenesi de Sangue** devolve autossuficiência energética a outros Gu, corrompendo-os. É aqui que o praticante deixa de ser pobre-coitado e vira problema regional. |
 | **Rank 5** | Golpes que matam em área e destroem povoados: a mão gigante que desfaz o atingido numa poça, a guilhotina que se multiplica bebendo sangue-origem. Rastreamento de parentesco à distância. Um rank 5 de sangue é um desastre humanitário ambulante. |
 | **Rank 6 (imortal)** | Entra a camada escondida inteira: marcas do Dao que protegem sozinhas, separação do corpo, golpes construídos sobre um núcleo imortal (movimento, cura, ataque), e a Deidade de Sangue, sétima entre os Dez Grandes Gu Demoníacos. |
-| **Rank 7** | Os praticantes mais temidos do mundo demoníaco em combate direto. Um único imortal de nível 7 de sangue sobrevive ileso ao centro de uma explosão que joga longe todos os demais, e escapa de uma armadilha continental descartando quase todo o próprio corpo. |
+| **Rank 7** | Os praticantes mais temidos do mundo demoníaco em combate direto. Um único imortal de rank 7 de sangue sobrevive ileso ao centro de uma explosão que joga longe todos os demais, e escapa de uma armadilha continental descartando quase todo o próprio corpo. |
 | **Rank 8** | `—` a obra não descreve um praticante de sangue nesta faixa isoladamente. |
 | **Rank 9 (Venerável)** | Cura absoluta: reviver curando qualquer ferimento, por pior que seja. O caminho do sangue no topo não é ofensivo — é **irremovível**. |
 
@@ -267,7 +267,7 @@ ao longo de gerações.
 > A regra geral do mundo é dura: acionar um Gu acima do próprio rank arrebenta a abertura de
 > quem tenta — morte ou dano irreversível. Ver [[05 - Ranks e Avanço|Ranks e Avanço]]. Mas o caso mais citado
 > deste Gu, registrado em [[03 - Aptidão|Aptidão]], é justamente o de um **Mestre Gu de rank 3** operando
-> um Gu de **nível 4** para converter mortes em aptidão permanente.
+> um Gu de **rank 4** para converter mortes em aptidão permanente.
 >
 > Isso não é um erro do material: é uma exceção real, e ela importa para o design. O caso
 > tem duas particularidades que provavelmente a explicam — o Gu era **demoníaco e roubado**,
@@ -285,7 +285,7 @@ ao longo de gerações.
 ## Golpes de assinatura
 
 Um detalhe estrutural revelador: os três golpes imortais mais documentados do caminho foram
-construídos **sobre o mesmo núcleo**, um único Gu Imortal de nível 6, combinado com golpes
+construídos **sobre o mesmo núcleo**, um único Gu Imortal de rank 6, combinado com golpes
 mortais acumulados ao longo de séculos. O caminho é modular dessa forma — um bom núcleo
 sustenta um repertório inteiro.
 
@@ -411,7 +411,7 @@ verdadeiramente perigoso para um cenário:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Ancestral do Mar de Sangue** — figura lendária e histórica, de nível 7, o grande criador
+- **O Ancestral do Mar de Sangue** — figura lendária e histórica, de rank 7, o grande criador
   deste caminho. Passou a vida tentando resolver a limitação estrutural mais irritante do
   sistema Gu — o fato de que um Gu refinado perde a capacidade de se alimentar sozinho. Chegou
   perto: sua última criação **se multiplica bebendo sangue e se sustenta da própria guerra**,
@@ -426,7 +426,7 @@ verdadeiramente perigoso para um cenário:
   nunca vingou como escola, a lista canônica o registra ao contrário. Deixou descendência
   espalhada pelas cinco regiões, e a cura absoluta como carta na manga contra outros
   Veneráveis.
-- Existem praticantes de nível 7 contemporâneos entre os mais fortes do mundo demoníaco, e a
+- Existem praticantes de rank 7 contemporâneos entre os mais fortes do mundo demoníaco, e a
   obra os apresenta como *extremamente poderosos em combate*.
 
 ## Relações
@@ -438,4 +438,4 @@ verdadeiramente perigoso para um cenário:
 - [[16 - Dao Marks|Dao Marks]] — as marcas que blindam e que se gastam.
 - [[16 - Gu Imortais|Gu Imortais]] — os Gu de topo listados acima.
 - [[11 - Ferimento, Cura e Fuga|Ferimento, Cura e Fuga]] — por que a cura deste caminho é excepcional.
-- [[28 - Painting Path|Painting Path]] — compreender a essência da pintura permitiu a um praticante reescrever um golpe de sangue e torná-lo letal contra imortais de nível 8.
+- [[28 - Painting Path|Painting Path]] — compreender a essência da pintura permitiu a um praticante reescrever um golpe de sangue e torná-lo letal contra imortais de rank 8.

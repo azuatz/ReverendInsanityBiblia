@@ -252,7 +252,7 @@ Duas outras regras táticas na mesma linha:
 | **Rank 5** | **Imperador de feras.** O comandante mortal completo: mil man soul, tática fina, e capacidade de derrubar cultivadores de rank superior por atrito. Também a faixa em que a fragilidade pessoal começa a matar — todos sabem onde ele está. |
 | **Rank 6 (imortal)** | O salto de categoria: existe Gu de escravização capaz de subjugar **um Gu Imortal**, e o fardo permanente de 20% da capacidade mental por escravo inteligente entra em cena. |
 | **Rank 7** | **Qualquer fera, inclusive as imemoriais.** Nada mais no mundo animal está fora de alcance. |
-| **Rank 8** | Escravizar **feras de alma** (ao custo de consumir a própria fundação de alma) e **cultivadores de nível 8** — até quatro de uma vez, por meio de uma casa de Gu dedicada. |
+| **Rank 8** | Escravizar **feras de alma** (ao custo de consumir a própria fundação de alma) e **cultivadores de rank 8** — até quatro de uma vez, por meio de uma casa de Gu dedicada. |
 | **Rank 9** | `—` **A obra não mostra nenhum Venerável usando a escravização como caminho principal**, nem descreve um repertório de rank 9 do caminho. O Venerável a quem a enumeração histórica credita a criação dele é conhecido no mundo pelo [[05 - Qi Path\|caminho do qi]], não por este. |
 
 > [!note] Quão raro é ser mestre
@@ -266,7 +266,7 @@ Duas outras regras táticas na mesma linha:
 |---|---|---|
 | Escravização de Feras ⭐ | 7 | Subjuga qualquer fera, inclusive as imemoriais |
 | Selo de Fera de Alma ⭐ | 8 | Escraviza feras de alma; consome a fundação de alma do usuário |
-| Selo do Sonho ⭐ | 8 | Núcleo de uma casa de Gu; escraviza até quatro cultivadores de nível 8 |
+| Selo do Sonho ⭐ | 8 | Núcleo de uma casa de Gu; escraviza até quatro cultivadores de rank 8 |
 | Escravidão | 1–5 / 6 ⭐ | Controle total do implantado; a versão imortal pega até um imortal |
 | Escravo Imortal ⭐ | 6 | Acrescenta marcas do Dao de escravização ao usuário |
 | Escravização de Grou | 5 | Controla um rei de dez mil feras; exércitos de dezenas de milhares |

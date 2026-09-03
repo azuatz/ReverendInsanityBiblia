@@ -59,8 +59,7 @@ Gu do Destino**.
 
 Os Gu deste caminho quebram a expectativa fundamental de que um Gu poderoso é um Gu útil.
 
-**Os Gu do caminho do céu normalmente não podem ser acionados nem por um Venerável de nível
-9.** São uma categoria praticamente inutilizável por qualquer cultivador, por mais forte que
+**Os Gu do caminho do céu normalmente não podem ser acionados nem por um Venerável de rank 9.** São uma categoria praticamente inutilizável por qualquer cultivador, por mais forte que
 seja.
 
 Há exatamente **uma exceção nativa**, e ela é maravilhosamente perversa: **um mortal comum
@@ -73,7 +72,7 @@ jovem a velho, até morrer.
 É a inversão completa da lógica do sistema. O poder mais alto do mundo está acessível a quem
 não tem poder nenhum, ao preço de tudo o que essa pessoa tem.
 
-O **Gu do Destino**, de nível 9, é confirmado como um Gu deste caminho — o que explica
+O **Gu do Destino**, de rank 9, é confirmado como um Gu deste caminho — o que explica
 retroativamente por que ninguém na história jamais o "usou" como um Gu comum.
 
 ## Mecânicas típicas
@@ -130,7 +129,7 @@ Aqui está o motivo pelo qual ninguém cultiva este caminho.
 
 **Refinar marcas do céu enfurece a vontade do céu.** As marcas restantes se reúnem e disparam
 contra o cultivador um desastre de severidade comparável à da **tribulação miríade** — a
-categoria mais alta do calendário de provações. Só cultivadores de nível 8 a enfrentam e
+categoria mais alta do calendário de provações. Só cultivadores de rank 8 a enfrentam e
 sobrevivem.
 
 O caso registrado: **três marcas refinadas** dispararam uma floresta de raios destruidores que
@@ -403,9 +402,9 @@ A linhagem do problema, em três atos, atravessa milhões de anos:
 
 **Nenhum dos dez Veneráveis cultivou o caminho do céu por completo.** No máximo dois deles
 dominaram o golpe de entrada sem aprofundar. E o marco final da obra registra o **primeiro Gu
-Imortal do caminho do céu totalmente refinado na história** — um Gu de inveja de nível 7,
+Imortal do caminho do céu totalmente refinado na história** — um Gu de inveja de rank 7,
 obtido acumulando marcas irrestritas acima de um limiar e alimentando o Gu continuamente com
-essência imortal de nível 8 dentro de uma grande formação de refinamento.
+essência imortal de rank 8 dentro de uma grande formação de refinamento.
 
 ## Sinergias e fraquezas
 

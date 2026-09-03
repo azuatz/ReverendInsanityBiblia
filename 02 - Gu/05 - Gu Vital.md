@@ -90,7 +90,7 @@ do dono.
 ### Progressão como qualquer outro Gu
 
 O Gu Vital não é um item fixo: pode ser **elevado de nível por refino**, como qualquer outro.
-Há registro de um que subiu do nível 4 para o 5 por dedução de uma receita nova. Tentar
+Há registro de um que subiu do rank 4 para o 5 por dedução de uma receita nova. Tentar
 elevá-lo a Gu Imortal, por outro lado, pode falhar — sem destruir o Gu-base, felizmente.
 
 ## Os riscos
@@ -115,7 +115,7 @@ ferimentos graves até a morte. Não é uma reconstrução de personagem que se 
 Um Gu consumível **jamais** deve ser tornado Vital. Esgotá-lo — o que é a função dele — causa
 backlash severo. É o tipo de erro que um novato comete uma vez.
 
-### O caso do Gu Vital de nível 6 ou mais
+### O caso do Gu Vital de rank 6 ou mais
 
 Quando o Gu Vital é um Gu Imortal, ele fica **permanentemente estacionado no centro da
 abertura** e **não pode mais ser retirado nem manifestado para uso externo**. Isso combina de
@@ -161,7 +161,7 @@ como possibilidade: um Gu cuja casa é um objeto herdável quebra a regra de que
 Mestre destrói o arsenal.
 
 > [!example] Caso mecânico
-> Um cultivador de nível 1 carregava, como Gu Vital, um Gu de nível 6 gravemente debilitado —
+> Um cultivador de rank 1 carregava, como Gu Vital, um Gu de rank 6 gravemente debilitado —
 > um bicho que, no auge, estivera muito acima de qualquer coisa que ele pudesse manejar. A
 > combinação funciona porque o Gu Vital é definido pela **profundidade do vínculo**, não pelo
 > equilíbrio de níveis. O custo é que o Gu, à medida que se recupera, ameaça sobrecarregar a

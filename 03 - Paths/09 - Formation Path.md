@@ -168,8 +168,8 @@ Três consequências que valem ouro numa mesa:
    máquina; a outra é um time.
 3. **E a obra registra o veredicto honesto sobre a tecnologia mais nova:** as formações de
    batalha antigas "foram consideradas ultrapassadas depois do surgimento de incontáveis Casas,
-   mas os fatos mostram que ainda têm muitas vantagens". Quatro imortais de nível 7 dentro de
-   uma delas lutam como um nível 8.
+   mas os fatos mostram que ainda têm muitas vantagens". Quatro imortais de rank 7 dentro de
+   uma delas lutam como um rank 8.
 
 ### O andar de cima: a super formação Gu
 
@@ -205,7 +205,7 @@ do da informação. Formação suficiente compra o efeito de qualquer caminho.
 - **E ele constrói mundos.** Formação e Casa de Gu Imortal são um **contínuo**: uma formação
   suficientemente boa fica "a um passo" de virar uma Casa — que é simultaneamente golpe
   assassino imortal e formação imortal **móvel**, sem fraqueza clara, e cujo refino exige no
-  mínimo nível 8 de cultivo. Ver [[09 - Formações de Gu|Formações de Gu]].
+  mínimo rank 8 de cultivo. Ver [[09 - Formações de Gu|Formações de Gu]].
 
 ## Mecânicas típicas
 
@@ -261,14 +261,14 @@ comunicamo-nos livremente por pensamento e todos sentem instantaneamente*. As re
 
 Existe um **ranking histórico** delas, com a primeira, a segunda (um gigante prateado que muda
 de forma conforme o golpe usado) e a terceira (um gigante verde que, operado por quatro
-imortais de nível 7, luta como um nível 8) nomeadas pela obra.
+imortais de rank 7, luta como um rank 8) nomeadas pela obra.
 
 **Casa de Gu Imortal — a materialização máxima do caminho.** É simultaneamente golpe assassino
 imortal **e** formação imortal móvel. Os fatos declarados:
 
 - "qualquer Casa é um construto unificado envolvendo defesa, ataque, movimento, cura e
   investigação"; **uma Casa não tem fraqueza clara**;
-- refinar uma exige **no mínimo nível 8 de cultivo**;
+- refinar uma exige **no mínimo rank 8 de cultivo**;
 - o nível da Casa acompanha o maior Gu Imortal dentro dela;
 - ao contrário da formação de batalha, **não exige nada dos tripulantes** — nem caminho nem
   nível de cultivo;
@@ -286,7 +286,7 @@ mais exigente que a obra registra pede **quatro coisas ao mesmo tempo**: os Gu I
 caminho temático, domínio de **sabedoria** para deduzir e modificar a carta da formação,
 domínio de **formação** para montar, e domínio do **caminho temático** porque a formação é dele.
 O comentário do próprio personagem: "qualquer outro imortal especializado em formação, mesmo
-com nível 8 de cultivo, não satisfaria meus requisitos".
+com rank 8 de cultivo, não satisfaria meus requisitos".
 
 ## Gu representativos
 
@@ -325,7 +325,7 @@ morreram em combate cheios de mágoa".
 
 Três agravantes documentados:
 
-- **operar a formação consome o operador** — um imortal de nível 7 apanhou de um nível 6 porque
+- **operar a formação consome o operador** — um imortal de rank 7 apanhou de um rank 6 porque
   estava inteiramente concentrado na formação e não conseguia se defender;
 - **combate corpo a corpo é fraqueza** do perfil típico;
 - **a formação descoberta é a formação contornada** — o inimigo simplesmente dá a volta.
@@ -415,16 +415,16 @@ o que anuncia ao mundo que alguém virou grão-mestre.**
 
 Este é o caminho onde a escada de **rank de cultivo** importa menos que em qualquer outro, e a
 obra diz por quê: o que decide aqui é o **degrau de domínio**, detalhado na seção anterior. Um
-imortal de nível 8 especializado em formação pode não satisfazer um requisito que um imortal de
+imortal de rank 8 especializado em formação pode não satisfazer um requisito que um imortal de
 nível mais baixo, com sabedoria forte, satisfaz. Ainda assim, há marcos claros por faixa.
 
 | Faixa | O que o caminho entrega |
 |---|---|
-| **Mortal (ranks 1–5)** | Formações Gu mortais, montadas com Gu mortais. Elas funcionam de verdade: dentro de um golpe de campo de batalha, **Gu mortais voltam a operar**, e em terreno de marcas abundantes um grande grão-mestre ergue uma formação **imortal** usando só Gu mortais. Um Mestre Gu de nível 3 com talento pode superar cultivadores de nível 5 na criação de formações — este é um caminho onde a cabeça vence o nível |
-| **Rank 6** | A faixa das ferramentas: a placa de formação, que **monta sozinha** uma formação e **dispensa domínio nenhum** do usuário. Limite declarado: usar uma placa de nível 6 para montar formação de nível 7 **falha com frequência** |
-| **Rank 7** | A faixa das formações imortais completas e das Casas de Gu Imortal operadas em grupo. Quatro imortais de nível 7 dentro de uma formação de batalha antiga de terceira colocação histórica lutam **como um nível 8** |
-| **Rank 8** | O piso para **refinar** uma Casa de Gu Imortal: exige no mínimo nível 8 de cultivo. O nível da Casa acompanha o maior Gu Imortal dentro dela |
-| **Rank 9** | A obra mostra uma Venerável criando uma formação de nível 9 — e registra que, **por não ser uma Venerável de formação**, ela teve de gastar um número imenso de pensamentos para isso, apesar de ser "mais formidável que a maioria dos experts de nível 8 em formação". Especialização ainda importa no topo |
+| **Mortal (ranks 1–5)** | Formações Gu mortais, montadas com Gu mortais. Elas funcionam de verdade: dentro de um golpe de campo de batalha, **Gu mortais voltam a operar**, e em terreno de marcas abundantes um grande grão-mestre ergue uma formação **imortal** usando só Gu mortais. Um Mestre Gu de rank 3 com talento pode superar cultivadores de rank 5 na criação de formações — este é um caminho onde a cabeça vence o nível |
+| **Rank 6** | A faixa das ferramentas: a placa de formação, que **monta sozinha** uma formação e **dispensa domínio nenhum** do usuário. Limite declarado: usar uma placa de rank 6 para montar formação de rank 7 **falha com frequência** |
+| **Rank 7** | A faixa das formações imortais completas e das Casas de Gu Imortal operadas em grupo. Quatro imortais de rank 7 dentro de uma formação de batalha antiga de terceira colocação histórica lutam **como um rank 8** |
+| **Rank 8** | O piso para **refinar** uma Casa de Gu Imortal: exige no mínimo rank 8 de cultivo. O nível da Casa acompanha o maior Gu Imortal dentro dela |
+| **Rank 9** | A obra mostra uma Venerável criando uma formação de rank 9 — e registra que, **por não ser uma Venerável de formação**, ela teve de gastar um número imenso de pensamentos para isso, apesar de ser "mais formidável que a maioria dos experts de rank 8 em formação". Especialização ainda importa no topo |
 
 **A métrica que o caminho realmente usa é outra: camadas.** Uma formação de **doze camadas**
 fez de seu autor o número um reconhecido de uma região inteira; uma de **trinta camadas**
@@ -465,8 +465,8 @@ reputação. Existem "gênios" reconhecidos, títulos regionais ("o número um d
 formação") e disputas de prestígio.
 
 O retrato canônico do especialista é quase cômico e completamente utilizável numa mesa: um
-homem descoberto ainda menino por talento, que com nível 3 de cultivo já superava cultivadores
-de nível 5 na criação de formações; que recusou fama, fortuna e casamento para voltar à caverna
+homem descoberto ainda menino por talento, que com rank 3 de cultivo já superava cultivadores
+de rank 5 na criação de formações; que recusou fama, fortuna e casamento para voltar à caverna
 e pesquisar; que se enclausura por mais de uma década seguida; que **esquece de comer** quando
 está pensando num problema e pararia no meio da rua — a ponto de o clã ter de cuidar dele para
 que não morra de inanição; e que chorou ao perceber que cem anos de vida são curtos demais para
@@ -513,7 +513,7 @@ formação do mundo.
   original. Compensa a especialização sendo fraco em informação e sabedoria.
 - **O clã das Casas de Gu Imortal** — a outra escola do caminho, especializada em formações
   **móveis**, e o clã com o maior número de imortais de formação do mundo.
-- **O grande grão-mestre solitário dos cinco elementos** — um imortal de nível 8 sem clã que
+- **O grande grão-mestre solitário dos cinco elementos** — um imortal de rank 8 sem clã que
   cultiva formação e **imita os cinco caminhos elementais**. É a encarnação literal da regra de
   que grão-mestres imitam outros caminhos.
 - **A grande grão-mestra histórica** — famosa por formações que usam as marcas do céu e da terra
@@ -523,9 +523,9 @@ formação do mundo.
   premiava tanto quem tivesse domínio profundo quanto quem, tendo domínio baixo, **soubesse a
   hora de recuar**: "o único caminho para a frente é para trás".
 - **A criadora de caminhos que não era do caminho** — uma Venerável descrita como "mais
-  formidável que a maioria dos experts de nível 8 em formação", mas que, **por não ser uma
+  formidável que a maioria dos experts de rank 8 em formação", mas que, **por não ser uma
   Venerável de formação**, teve de gastar um número imenso de pensamentos para criar uma
-  formação de nível 9. É a prova canônica de que especialização importa mesmo no topo.
+  formação de rank 9. É a prova canônica de que especialização importa mesmo no topo.
 
 ## O que a obra não diz
 

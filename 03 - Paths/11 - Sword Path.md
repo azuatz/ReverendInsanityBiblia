@@ -22,10 +22,10 @@ Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão G
 ## Filosofia e identidade
 
 Este caminho tem uma história de origem distinta de quase todos os outros, e ela define sua
-identidade: foi **criado sozinho** por uma única pessoa — um cultivador de nível 8 no pico,
+identidade: foi **criado sozinho** por uma única pessoa — um cultivador de rank 8 no pico,
 quase-Venerável, que não foi Venerável.
 
-Isso importa. A maior parte dos grandes caminhos foi fundada por seres de nível 9, com
+Isso importa. A maior parte dos grandes caminhos foi fundada por seres de rank 9, com
 recursos, seitas e milênios. O caminho da espada foi construído por um indivíduo que nunca
 chegou lá. É, num sentido bastante literal, o caminho do talento solitário — e a escola inteira
 carrega essa marca: é direta, agressiva, econômica em conceitos e brutal em execução.
@@ -82,8 +82,8 @@ O caminho tem um dos custos mais interessantes do sistema inteiro.
 
 Existe um golpe que **queima permanentemente marcas do Dao de dentro do próprio Gu Imortal
 núcleo** a cada acionamento — um mini refino reverso involuntário. A perda por uso é mínima,
-mas num certo limiar ela causa uma **mudança qualitativa de nível**: um Gu de nível 6 pode
-regredir a Gu comum; um de nível 7 pode cair para nível 6.
+mas num certo limiar ela causa uma **mudança qualitativa de nível**: um Gu de rank 6 pode
+regredir a Gu comum; um de rank 7 pode cair para rank 6.
 
 É a primeira confirmação, no sistema, de **rebaixamento permanente de nível por uso em
 combate** — distinto do refino reverso deliberado de bancada. E é exatamente por isso que o
@@ -249,7 +249,7 @@ Um segundo golpe da mesma herança, chamado **uma espada, uma vida**, é descrit
 aterrorizante, extremamente rápido e *praticamente impossível de defender*. O que ele fez, no
 registro que a obra dá, é o ponto:
 
-Ele **destruiu por completo a alma** de uma imortal de nível 7 — deixando o corpo e a abertura
+Ele **destruiu por completo a alma** de uma imortal de rank 7 — deixando o corpo e a abertura
 imortal dela intactos o suficiente para serem negociados depois. Não é dano físico transbordando
 para a alma: é um corte que escolhe a alma como camada.
 
@@ -292,7 +292,7 @@ marcas e domínio.** Faltar qualquer um deles trava o caminho de um jeito difere
   "corpo de espada", não há membro que vire lâmina em definitivo, não há deformação por uso
   como acontece no caminho do espaço. A conversão total de marcas descrita acima é uma **forma
   temporária**, não um estado permanente.
-- **`—` Não há Venerável do caminho da espada.** O fundador parou no nível 8 de auge, e a obra
+- **`—` Não há Venerável do caminho da espada.** O fundador parou no rank 8 de auge, e a obra
   faz questão de dizer que ele era um cultivador solitário de origem humilde.
 
 ## Progressão por rank
@@ -301,10 +301,10 @@ marcas e domínio.** Faltar qualquer um deles trava o caminho de um jeito difere
 |---|---|
 | **Nível comum a 3** | Qi de espada disparado pelos dedos, lâminas de projétil. A porta de entrada mais legível do mundo: aponte e corte |
 | **Níveis 4–5** | Gu de suporte que mudam a natureza do arsenal — a bainha que **atrai outros Gu de espada a morar nela**, e as primeiras alternâncias de forma |
-| **Nível 6** | A faixa do "ignora defesa de mesmo nível" — e o **teto declarado** do Gu que faz isso. É também onde entra a categoria rara do Gu que **mora na arma** e sobrevive à morte do dono |
-| **Nível 7** | O coração do caminho: espada voadora, fuga de espada, alternância lâmina-água, as sobrancelhas-slot. É aqui que o espadachim vira um problema de resolução urgente |
-| **Nível 8** | Escala de paisagem. Cortes que rasgam o mar e deixam marcas que **bloqueiam outros caminhos no terreno**; o Gu feito para contrariar a sabedoria; a forma de dragão-espada que converte toda a fundação |
-| **Nível 9** | `—` A obra não registra Gu de espada de nível 9. O caminho **não tem Venerável** |
+| **Rank 6** | A faixa do "ignora defesa de mesmo nível" — e o **teto declarado** do Gu que faz isso. É também onde entra a categoria rara do Gu que **mora na arma** e sobrevive à morte do dono |
+| **Rank 7** | O coração do caminho: espada voadora, fuga de espada, alternância lâmina-água, as sobrancelhas-slot. É aqui que o espadachim vira um problema de resolução urgente |
+| **Rank 8** | Escala de paisagem. Cortes que rasgam o mar e deixam marcas que **bloqueiam outros caminhos no terreno**; o Gu feito para contrariar a sabedoria; a forma de dragão-espada que converte toda a fundação |
+| **Rank 9** | `—` A obra não registra Gu de espada de rank 9. O caminho **não tem Venerável** |
 
 ### Domínio e herança
 
@@ -313,7 +313,7 @@ O caminho tem duas escadas de acesso, e as duas são ilustrativas do mundo intei
 - **A herança do fundador** perdeu-se quando ele falhou na ascensão; um golpe lendário dela
   reapareceu séculos depois, nas mãos de alguém de outra região e de outro caminho. Heranças
   vazam.
-- **A segunda grande herança** do caminho, deixada por um imortal de nível 8 de outra linhagem,
+- **A segunda grande herança** do caminho, deixada por um imortal de rank 8 de outra linhagem,
   é dividida em **três porções**, tem um teste *extremamente difícil e mortal*, e é raro haver
   herdeiros de verdade. Quem completa a **primeira** porção recebe um título público —
   *Filho da Espada* — e o mundo inteiro fica sabendo. Passaram-se **trezentos anos** entre um
@@ -340,7 +340,7 @@ caminho da luz e trocou para o da espada com sucesso**. Trocar de caminho não �
 
 | Golpe | Faixa | Como funciona, e o que custa |
 |---|---|---|
-| **A espada do coração nos cinco dedos** | imortal | O usuário baixa a cabeça, fecha os olhos e ergue o punho: **cada dedo que se estende dispara uma luz de espada**, e cada uma delas basta para levar um imortal de nível 8 à beira da morte. Nem sempre a sequência se completa — há registro de só três dos cinco dedos conseguirem se estender antes de o golpe ser interrompido. É o golpe-tese do caminho, e explicitamente um gesto de desafio ao céu |
+| **A espada do coração nos cinco dedos** | imortal | O usuário baixa a cabeça, fecha os olhos e ergue o punho: **cada dedo que se estende dispara uma luz de espada**, e cada uma delas basta para levar um imortal de rank 8 à beira da morte. Nem sempre a sequência se completa — há registro de só três dos cinco dedos conseguirem se estender antes de o golpe ser interrompido. É o golpe-tese do caminho, e explicitamente um gesto de desafio ao céu |
 | **Clareza do coração de espada** | imortal | Não fere ninguém: **restringe o caminho da sabedoria e métodos afins**, anulando sedução de alma, manipulação de mente e influência de vontade. Pouquíssimos herdeiros na história conseguiram usá-lo |
 | **Uma espada, uma vida** | imortal | Extremamente rápido e praticamente indefensável; **destrói por completo a alma do alvo** sem destruir o corpo. O executor sai gravemente ferido |
 | **Marcas de espada mirando a morte** | imortal | Grava permanentemente as marcas do Dao do próprio Gu Imortal no alvo; depois que a espada se afasta, essas marcas **procuram sozinhas o ponto fraco** dele. O custo é o Gu: cada uso é um refino reverso involuntário, e num certo limiar o Gu **cai de nível de vez** |
@@ -417,7 +417,7 @@ secundário útil será permanentemente dependente dos outros.
   é uma limitação enorme num mundo de emboscadas.
 - **Falta de utilidade fora de combate.** O caminho não fabrica, não investiga, não sustenta,
   não cura.
-- **Teto de nível.** O Gu que ignora defesas de mesmo nível tem **teto no nível 6**, o que
+- **Teto de nível.** O Gu que ignora defesas de mesmo nível tem **teto no rank 6**, o que
   limita seu uso no topo do mundo.
 
 > [!note] Para o design
@@ -445,13 +445,13 @@ secundário útil será permanentemente dependente dos outros.
 
 ## Praticantes notáveis (sem enredo)
 
-- **Sword Saint Nian Er** — imortal de nível 8 de outra linhagem, que **cultivava o caminho da
+- **Sword Saint Nian Er** — imortal de rank 8 de outra linhagem, que **cultivava o caminho da
   luz e migrou para o da espada com sucesso**. Deixou a segunda grande herança do caminho, em
   três porções, com um teste descrito como extremamente difícil e mortal; quem completa a
   primeira porção ganha o título público de **Filho da Espada**, e a obra registra um intervalo
   de trezentos anos entre um e o seguinte.
-- **Bo Qing**, o Imortal (e Demônio) da Espada — nível 8 no pico, quase-Venerável, **criador
-  solitário do caminho**. É a figura que o define. Criou também o Gu de nível 8 destinado a
+- **Bo Qing**, o Imortal (e Demônio) da Espada — rank 8 no pico, quase-Venerável, **criador
+  solitário do caminho**. É a figura que o define. Criou também o Gu de rank 8 destinado a
   contrariar o caminho da sabedoria, e um dos vales que produzem Gu selvagens de espada leva a
   marca de um golpe seu.
 

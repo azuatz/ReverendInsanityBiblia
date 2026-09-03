@@ -117,7 +117,7 @@ E o custo é elegante e severo: no fim do processo, os materiais ficam cheios de
 desordenadas de todos os caminhos misturadas e **perdem todo o valor**. A Casa de Gu Imortal do
 caminho, em seu estado original, *tinha a capacidade de roubar as marcas do mundo exterior, mas
 não tinha o método de usá-las* — o problema só foi resolvido juntando marcas idênticas para
-produzir **materiais imortais puros do caminho correspondente**, inclusive de nível 9.
+produzir **materiais imortais puros do caminho correspondente**, inclusive de rank 9.
 
 O uso mais devastador: um único acionamento **destrói um ponto de recurso natural** e o *aleija
 sem nenhuma possibilidade de recuperação*.
@@ -127,11 +127,11 @@ sem nenhuma possibilidade de recuperação*.
 Esta é a seção mais útil da nota, porque o caminho parece imbatível e não é.
 
 - **O nível é teto absoluto.** A mão sem forma tem de um a nove dedos, *respectivamente capazes de
-  agarrar Gu de nível um a nível nove*. Uma mão de cinco dedos rouba até o nível 5 e nada acima.
+  agarrar Gu de rank um a rank nove*. Uma mão de cinco dedos rouba até o rank 5 e nada acima.
 - **O Gu vital pode ser roubado.** *Eles conseguem agarrar até o Gu vital sem problema algum.*
 - **Roubar alto é dificílimo por si só.** *Mesmo que houvesse Mestres Gu do caminho do roubo,
-  roubar um Gu de nível cinco era demais!* Um golpe de nível 7 só conseguiu levar um Gu Imortal de
-  nível 8 com o apoio de um segundo golpe somado a ele.
+  roubar um Gu de rank cinco era demais!* Um golpe de rank 7 só conseguiu levar um Gu Imortal de
+  rank 8 com o apoio de um segundo golpe somado a ele.
 - **O golpe interno não escolhe o alvo.** A mão fantasma *não conseguia escolher seu alvo* — pega
   um Gu Imortal qualquer do inventário do inimigo. **O roubo é probabilístico.**
 - **Roubar não é possuir.** O golpe **não tem propriedade de selamento**: o Gu roubado continua
@@ -274,16 +274,16 @@ caminho está imitando o único ladrão que nunca é pego.
 ### 6. Progressão por nível: o único caminho com uma régua explícita
 
 O caminho do roubo tem a escala mais legível do vault, e ela está embutida no golpe de assinatura:
-a **mão sem forma** tem de **um a nove dedos**, *respectivamente capazes de agarrar Gu de nível um a
-nível nove*. O número de dedos **é** o teto de captura.
+a **mão sem forma** tem de **um a nove dedos**, *respectivamente capazes de agarrar Gu de rank um a
+rank nove*. O número de dedos **é** o teto de captura.
 
 Isso significa três coisas de uma vez, e todas jogáveis:
 
 - o poder do praticante é **visível de longe** para quem souber contar dedos;
-- roubar **acima** do próprio patamar exige empilhar golpes (o caso registrado: um golpe de nível 7
-  só levou um Gu Imortal de nível 8 com um segundo golpe somado);
+- roubar **acima** do próprio patamar exige empilhar golpes (o caso registrado: um golpe de rank 7
+  só levou um Gu Imortal de rank 8 com um segundo golpe somado);
 - e não há truque de escala — nenhuma quantidade de esperteza faz uma mão de cinco dedos pegar um Gu
-  de nível seis.
+  de rank seis.
 
 ## Gu representativos
 
@@ -304,7 +304,7 @@ Isso significa três coisas de uma vez, e todas jogáveis:
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[16 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
-**A Casa de Gu Imortal do caminho** é de nível 8 e sua função é disparar o golpe de roubo de
+**A Casa de Gu Imortal do caminho** é de rank 8 e sua função é disparar o golpe de roubo de
 marcas. Ela é um estudo de caso inteiro sobre posse × competência: foi encontrada danificada e
 incompleta por um clã que, **por gerações, tentou repará-la e não conseguiu — porque ninguém lá
 tinha domínio no caminho do roubo**. Além disso, ela *já era uma criação de nível de pico e **não
@@ -324,17 +324,17 @@ Os golpes nomeados:
   nove dedos conforme o nível que conseguem capturar. Alterna entre **fantasma e sólido**, e por
   isso não teme ondas sonoras. *O mundo inteiro ficou impotente quando ele usou a mão sem forma
   para roubar incontáveis Gu.*
-- **Mão Fantasma do Grande Ladrão** — golpe composto de **alma + roubo**, de nível 7. Uma mão negra
+- **Mão Fantasma do Grande Ladrão** — golpe composto de **alma + roubo**, de rank 7. Uma mão negra
   que entra no corpo ou na abertura imortal do alvo e arranca um Gu Imortal.
-- **Ocultação Divina** — nível 9, defensivo, e o golpe mais estranho da obra. Impede que
+- **Ocultação Divina** — rank 9, defensivo, e o golpe mais estranho da obra. Impede que
   **pensamentos, vontades e emoções** deduzam o estado ou a origem do portador. Como quase toda
   sondagem do [[16 - Wisdom Path|caminho da sabedoria]] passa por esses três vetores, o portador
-  fica praticamente imune à dedução — só um praticante de nível 9 teria chance.
-- **Ocultação Fantasmagórica** — nível 9, o par do anterior. **Impede a detecção por fantasmas e
+  fica praticamente imune à dedução — só um praticante de rank 9 teria chance.
+- **Ocultação Fantasmagórica** — rank 9, o par do anterior. **Impede a detecção por fantasmas e
   almas**: feras-alma não o percebem de forma alguma. Foi o que permitiu ao fundador atravessar um
   domínio de almas incontáveis sem ser barrado. O limite é preciso: **só engana almas** — não afeta
   feras comuns nem os objetos que acompanham o portador.
-- **Forma do Céu** — nível 9, e a história por trás dele é ótima. O fundador capturou nos céus
+- **Forma do Céu** — rank 9, e a história por trás dele é ótima. O fundador capturou nos céus
   imemoriais um **espírito celeste natural**, cheio de vontade do céu e impossível de refinar pela
   vontade humana, e o **condensou à força num golpe**. Nunca chegou a usá-lo: *precisa de um longo
   período de tempo e de gerações de vontades para ser purificado* antes de ficar utilizável. É
@@ -345,7 +345,7 @@ Os golpes nomeados:
   Imortais e refiná-los instantaneamente***. A mecânica — `—` a obra não informa.
 
 > [!warning] O preço mais alto do sistema inteiro
-> Os dois golpes de ocultação de nível 9 são **permanentemente ativos e não gastam essência
+> Os dois golpes de ocultação de rank 9 são **permanentemente ativos e não gastam essência
 > imortal nenhuma**. A obra explica por quê: *isso era a capacidade de um supremo grão-mestre do
 > caminho do roubo. **Só supremos grão-mestres conseguem superar, até certo ponto, os limites e as
 > restrições deste mundo.***
@@ -359,15 +359,15 @@ Os golpes nomeados:
 > mais**. A obra registra alguém que ascendeu à imortalidade **sem sofrer tribulação nenhuma**,
 > algo inédito na história — e cujo cultivo travou para sempre em troca.
 >
-> O único conserto proposto é **desfazer o próprio golpe** — quebrar um golpe de nível 9, o que é
+> O único conserto proposto é **desfazer o próprio golpe** — quebrar um golpe de rank 9, o que é
 > dificílimo e desperdiça um tesouro. Ver [[13 - Tribulações e Calamidades|Calamidades e Tribulações]].
 
 **Fora de combate**, o caminho tem dois usos surpreendentes:
 
 - **Extração de recursos.** A obra registra um especialista que era *o imortal mais hábil do mundo
   em coletar* um recurso específico e difícil — roubo aplicado à mineração, não ao combate.
-- **Fuga.** Um imortal de nível 7 usou "métodos peculiares do caminho do roubo" para **escapar de
-  dois imortais de nível 8** de uma superpotência.
+- **Fuga.** Um imortal de rank 7 usou "métodos peculiares do caminho do roubo" para **escapar de
+  dois imortais de rank 8** de uma superpotência.
 
 ## Sinergias e fraquezas
 
@@ -383,8 +383,8 @@ Os golpes nomeados:
 **Sofre contra:**
 - **[[12 - Soul Path|Soul Path]] — sim, o mesmo.** As marcas dos dois **entram em conflito no mesmo
   corpo**: um praticante relata ter *sempre mantido equilíbrio entre os dois, mas o conflito
-  chegara ao limite*; e a ocultação fantasmagórica **rebaixou** um golpe de alma de nível 8 ao
-  patamar de nível 6. A solução proposta foi **fundir os dois golpes num só**. É o caso mais claro
+  chegara ao limite*; e a ocultação fantasmagórica **rebaixou** um golpe de alma de rank 8 ao
+  patamar de rank 6. A solução proposta foi **fundir os dois golpes num só**. É o caso mais claro
   da obra de dois caminhos que são ao mesmo tempo aliados e inimigos.
 - **[[23 - Luck Path|Luck Path]], no refino.** Roubo é **inferior à sorte** como auxílio ao refino
   de Gu — não substitui os caminhos de produção.
@@ -400,7 +400,7 @@ Os golpes nomeados:
 |---|---|
 | Grão-mestre | Alcançado ao passar o **primeiro estágio** do reino de sonho do fundador. O que destranca — `—` a obra não detalha |
 | Quase-grande-grão-mestre | "A um passo" do seguinte |
-| **Grande grão-mestre** | *Um nível em que **as profundidades do caminho estavam sendo escavadas**: ele compreenderia as profundidades do caminho do roubo que existem no mundo, e **quase não haveria nada sobre o caminho que ele não conseguisse compreender**.* Concretamente: deduzir receitas do caminho fica **instantâneo**; criar golpes imortais fica "muito fácil"; passa a conseguir **usar** os golpes de ocultação de nível 9; e passa a poder **reparar** a Casa de Gu Imortal do caminho, coisa que um clã inteiro não conseguiu por gerações. Ainda insuficiente para **modificar** aqueles golpes |
+| **Grande grão-mestre** | *Um nível em que **as profundidades do caminho estavam sendo escavadas**: ele compreenderia as profundidades do caminho do roubo que existem no mundo, e **quase não haveria nada sobre o caminho que ele não conseguisse compreender**.* Concretamente: deduzir receitas do caminho fica **instantâneo**; criar golpes imortais fica "muito fácil"; passa a conseguir **usar** os golpes de ocultação de rank 9; e passa a poder **reparar** a Casa de Gu Imortal do caminho, coisa que um clã inteiro não conseguiu por gerações. Ainda insuficiente para **modificar** aqueles golpes |
 | Supremo grão-mestre | *Só supremos grão-mestres conseguem **superar os limites e restrições deste mundo** até certo ponto* — é o degrau que explica golpes permanentemente ativos e sem custo |
 
 > [!example] O reino de sonho que ensina o caminho — e onde ele para
@@ -421,7 +421,7 @@ Vale enumerar, porque a resposta é econômica e não moral:
 
 1. **Fora do fundador, ninguém obteve resultado relevante** — a obra afirma isso duas vezes.
 2. **Os Gu e as heranças são escassos.** Mesmo um grande grão-mestre do caminho reclamava: *me
-   faltam Gu Imortais de roubo, e só tenho um Gu Imortal de nível 7 para sustentar meus golpes*.
+   faltam Gu Imortais de roubo, e só tenho um Gu Imortal de rank 7 para sustentar meus golpes*.
 3. **Usar o caminho abertamente atrai identificação e retaliação.**
 4. **Roubar exige superar o nível do alvo**, e roubar alto é dificílimo.
 5. **Ele não substitui os caminhos de produção** — é inferior à sorte no refino, e não gera recurso

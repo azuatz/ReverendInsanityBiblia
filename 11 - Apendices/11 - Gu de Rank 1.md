@@ -728,3 +728,188 @@ Três Gu consumíveis que fazem a mesma coisa — gerar **pensamentos**, a moeda
 - **Interações.** É o insumo ideal para **captura e escravização**, porque anula o alvo **sem feri-lo**. E é abundante e barato onde nasce — um Gu Imortal recolhe centenas de milhares de uma vez. Para a mesa, é o exemplo canônico de que **um ponto de recurso geográfico** pode ser mais valioso que qualquer Gu individual, e de que ele pode ser **transplantado**.
 
 ---
+
+## Caminho do tempo
+
+### Refino
+
+#### Inch of Time
+
+- **O que faz.** **Acelera o tempo de um processo externo.** A restrição estrutural é dita duas vezes pela obra e é a chave da ficha: **não pode ser usado em seres humanos, nem no próprio usuário** — só em outros alvos. A aplicação central é o refino de Gu: se um Gu exige três dias e três noites para ser refinado, aplicando o inch of time ele atinge rapidamente o estado que exigiria esses três dias e três noites, e o Mestre Gu gasta apenas alguns instantes.
+- **Como é.** —
+- **Dieta.** **Não se alimenta**: é consumível, gasto ao pagar o pedágio `(ded.)`.
+- **Desvantagem.** **Inutilizável em pessoas e em si mesmo**, e de consumo altíssimo por uso — quem depende dele precisa montar produção em massa em ninhos de pedra.
+- **Como se obtém.** O conjunto de receitas é da Era da Antiguidade Média e foi leiloado como lote de rank 1 a 5, **já melhorado por um Gu Imortal** — e o valor está exatamente na melhoria: os materiais da versão original eram escassos, caríssimos ou extintos, e na versão melhorada **todos são comuns e fáceis de obter**. Preço de saída no leilão: 22 pedras de essência imortal; arrematado por 70, valor considerado "no teto" pelos presentes — justificado porque um imortal que também cultive o caminho do refino recupera o investimento com o tempo poupado.
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5).
+- **Interações.** Há um caso negativo canônico que vale mais que o positivo: tentou-se usar o inch of time **no lugar do próprio tempo de vida** para pagar o custo de um golpe imortal, e **falhou**. Os dois Gu podem, sim, ser usados juntos — mas o inch of time é **consumido intensivamente demais** para isso valer a pena. Ou seja: no cânone, ele **pode em teoria e quebra na prática** substituir tempo de vida. É a demonstração mais limpa de que, neste sistema, **viabilidade econômica é uma regra tão dura quanto viabilidade mágica**.
+
+---
+
+## Caminhos do espaço e do movimento
+
+### Movimento
+
+#### Dragonpill Cricket Gu
+
+*(grafado também **Scarlet Pill Cricket Gu**.)*
+
+- **O que faz.** Gu de **esquiva**. Ativado por **puro pensamento**, faz brotar um brilho laranja-avermelhado das duas pernas do usuário, que então salta com leveza e cobre uma distância instantânea. As duas distâncias que a obra registra são **três metros** (salto lateral de emergência, para sair da rota de um javali selvagem em carga) e **dez metros** (recuo em arena, refazendo de uma vez a distância que o adversário tinha fechado). O uso tático explicitado: enquanto o usuário puder recuar dez metros por ativação, um oponente que dependa das próprias pernas **não o alcança**, mesmo numa arena pequena.
+- **Como é.** O Gu vem do **dragonpill cricket**, inseto de montanha que só sai à noite, canta sob o luar, emite luz vermelha fraca e brilha como ágata vermelha; recolhe-se ao subsolo para pôr ovos quando chega o verão.
+- **Dieta.** —
+- **Desvantagem.** **Cada ativação queima uma quantidade fixa de essência primordial**, e essa é a fraqueza declarada: o Gu transforma a luta numa **guerra de atrito que o usuário perde**. A obra põe o desmonte da estratégia na boca do adversário, em voz alta: "cada vez que você usa o dragonpill cricket Gu gasta essência; você só tem essência de cobre-verde de rank 1 no auge, e eu já estou em essência de aço-vermelho de rank 2, três vezes a sua resistência; no fim você fica sem essência e perde". Não dá velocidade sustentada, só saltos.
+- **Como se obtém.** Faz parte do estoque comum de um clã de aldeia, ofertado a jovens Mestres Gu recém-despertados como opção de primeiro Gu.
+- **Evolução.** Não citada pela obra.
+- **Interações.** A obra registra uma **leitura de personalidade** canônica e útil de mesa: um líder de clã interpreta a escolha desse Gu como sinal de que o jovem "não gosta de ataques frontais, é engenhoso, bom em táticas — e essa é também a fraqueza do seu caráter". Marcas de força **enfraquecem** Gu de movimento, então este Gu e uma construção de javalis se atrapalham `(ded., pelo par força × vento/movimento)`.
+
+> [!note] Para o design
+> Este Gu carrega, sozinho, a melhor lição de combate do sistema: a luta foi decidida **por uma conta de aritmética**, antes do primeiro golpe. Comparar o **custo por ação dos dois lados** — e não o dano — é como este mundo pensa combate. A mesma lógica aparece no rank 4, com o position swap Gu, cujo custo cresce com a força do alvo, a ponto de um usuário remover os próprios fantasmas de fera só para baratear o Gu.
+
+---
+
+## Caminho do vento
+
+### Movimento
+
+#### Clear Wind Wheel Gu
+
+- **O que faz.** Ativado, cria **um ciclone verde-claro sob cada um dos pés** do Mestre Gu e aumenta sua velocidade de movimento.
+- **Como é.** Dois ciclones verde-claros sob os pés.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Bônus de rank 1: insignificante sozinho num combate de nível alto.
+- **Como se obtém.** —
+- **Evolução.** **Jade Wind Wheel Gu** (rank 2) — e a obra é cuidadosa: diz que ele é "**uma das** possíveis rotas de avanço", deixando explícito que existem outras que ela **não nomeia**. O Jade Wind Wheel forma um par de ciclones **verde-jade em torno dos braços**, como braçadeiras, e aumenta a velocidade dos **socos** em vez da de deslocamento.
+- **Interações.** Duas, e ambas valiosas. Primeira: o Jade Wind Wheel de rank 2 é o **contra canônico da inércia do Rock Skin Gu** — os ciclones nos braços de rocha devolvem a velocidade perdida. Segunda: esses dois Gu mortais, de rank 1 e 2, foram tomados como **base para criar um golpe combinado de movimento** de altíssimo nível, em que os ciclones sob os pés giram continuamente como rodas e vão acelerando com o tempo. Um Gu de rank 1 com bônus desprezível pode ser a fundação de um golpe de elite — ver [[08 - Killer Moves|Killer Moves]].
+
+### Utilidade
+
+#### Cool Wind Gu
+
+- **O que faz.** Vive **em bando** dentro de fendas e poços naturais, e o bando inteiro sopra para fora um **ar frio e agradável** — uma brisa fresca e contínua, que sai do buraco junto com os Gu voando. O sopro tem **força física**: as bordas da abertura empurram para longe quem tenta se aproximar, e um humano fraco e faminto simplesmente não consegue chegar perto o bastante para interagir com eles.
+- **Como é.** **Peixes alados.** São **muito rápidos** e, diante de um Mestre Gu de baixa força, ignoram completamente as tentativas de subjugação.
+- **Dieta.** —
+- **Desvantagem.** **Corpo frágil a ponto de morrer no aperto de uma mão** — o primeiro exemplar capturado na obra foi esmagado até a morte só pelo aperto empolgado de quem o pegou. E a velocidade torna a captura selvagem quase impossível pela força.
+- **Como se obtém.** A obra registra **a única via prática de captura de um exemplar selvagem: esperar um acidente.** Um deles se feriu ao colidir com os companheiros, caiu no chão fora da corrente de ar frio, e pôde ser agarrado à mão.
+- **Evolução.** Não citada pela obra. É uma faixa de rank do mesmo Gu (1 a 2 `(ded.)`).
+- **Interações.** Nenhuma mecânica registrada. O valor dele é ambiental e narrativo: é uma **fonte de frio passiva e permanente** num lugar fixo do mapa, e a cena de captura é um roteiro de aventura completo — o recurso está ali, visível, e a força bruta não o alcança.
+
+---
+
+## Caminho da informação e da investigação
+
+Quatro Gu de rank 1 que, juntos, mostram como um mundo sem imprensa nem correio resolve comunicação, identidade e pedido de socorro. Ver [[17 - Information Path|Information Path]].
+
+### Comunicação e registro
+
+#### Signal Gu
+
+- **O que faz.** **Sinalizador de emergência.** Lançado da mão, sobe até o alto e explode, virando uma chama de arco-íris — fogos de artifício brilhantes — **visível num raio de cinquenta quilômetros**. Não transmite mensagem nenhuma: comunica apenas "estamos aqui e precisamos de reforço".
+- **Como é.** Esfera dourada e redonda com um par de asas emplumadas coloridas.
+- **Dieta.** **Não se alimenta**: consome-se no uso único `(ded.)`.
+- **Desvantagem.** Três, e a obra mostra as três em cena. **O sinal é visível para todo mundo, inclusive para o inimigo, e denuncia a posição** — num caso, o Signal Gu de um grupo cercado atraiu tantos Mestres Gu vizinhos que arruinou a emboscada de quem os havia atraído para lá. **Não carrega conteúdo**, só o pedido. E **se ninguém em alcance estiver livre, não faz nada** — a obra mostra um grupo disparando o sinal enquanto o grupo mais próximo já estava, ele próprio, cercado.
+- **Como se obtém.** Item descartável de estoque de clã, distribuído a grupos em campo; refino rotineiro de rank 1 `(ded.)`.
+- **Evolução.** Não citada pela obra.
+- **Interações.** O uso doutrinário é explícito nas táticas de clã contra a maré de lobos: **contra uma matilha comum, defende-se pelo terreno e vence-se de frente; contra a matilha superior, a ordem é recuar primeiro, disparar o Signal Gu depois e esperar reagrupamento** — são necessários **pelo menos três grupos cooperando** para ter boa chance. Também serve de convocação formal em disputas entre clãs aliados, acionado para chamar testemunhas a um confronto.
+
+#### Paper Crane Gu
+
+- **O que faz.** **Grou de papel que voa velocíssimo levando uma carta** a um destinatário determinado, mesmo por caminho oculto. Ativado **sem destino**, paira à frente do usuário batendo asas para **conduzi-lo pelo trajeto**.
+- **Como é.** Grou de papel; existe em várias cores.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** —
+- **Como se obtém.** Comprado no mercado comum. Como o Dog Enslavement Gu, **triplicou de preço** quando se soube que a versão de rank 2 era chave de entrada de uma herança.
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 2); a versão de rank 2 chega a servir de **chave de entrada de uma herança**.
+- **Interações.** Faz duas coisas que normalmente exigiriam dois Gu — entrega mensagem **e** serve de guia por terreno desconhecido —, o que é raro num sistema em que um Gu faz uma coisa só. Para a mesa: é o correio **e** a bússola de uma campanha de viagem.
+
+#### Swimword Gu
+
+- **O que faz.** Instalados **às dezenas num estandarte**, formam com o próprio corpo os caracteres exibidos e **os reescrevem ao vivo** sob o comando de um Mestre Gu de rank 1 de apoio. Os símbolos até se **animam** como figuras que andam e empurram umas às outras — a obra registra a plateia rindo e aplaudindo a brincadeira do operador.
+- **Como é.** Vermes que se dispõem em forma de caracteres sobre um pano.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** —
+- **Como se obtém.** Item institucional de clã: é o que faz funcionar os **quadros de mérito de batalha**, atualizados ao vivo. Um quadro grande usa mais de uma dúzia deles; os murais completos, erguidos em tendas de campanha e do tamanho de muralhas, usam grandes quantidades.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Nenhuma de combate. O valor é de cenário e de sistema social: é o **placar público** de um clã em guerra, e um Mestre Gu de rank 1 vive de operá-lo. Ver [[13 - Eventos e Instituições Jogáveis|Eventos e Instituições Jogáveis]].
+
+#### Vine Information Gu
+
+- **O que faz.** **Carteira de identidade e ficha corrida de arena**, emitida por um clã comerciante. Guarda dentro de si as informações do titular e, sobretudo, seu **placar de vitórias e derrotas**.
+- **Como é.** Uma videira longa com muitas folhas grandes verde-jade.
+- **Dieta.** O titular alimenta o Gu por sua conta; tipo de alimento: —
+- **Desvantagem.** **Não pertence ao portador.** O regime de propriedade é o ponto mecanicamente interessante: o Gu **não é vendido, é alugado**, mediante inscrição e taxa de **500 pedras primordiais**; o inscrito é responsável por alimentá-lo, **mas não pode alterar a informação lá dentro** — só o clã emissor pode, e o mestre de cerimônias edita o registro pessoalmente ao fim de cada luta. O registro é tão confiável quanto o clã que o guarda.
+- **Como se obtém.** Inscrição na arena, 500 pedras primordiais.
+- **Evolução.** Não citada pela obra.
+- **Interações.** O regulamento amarrado a ele é detalhado e vira regra de mesa pronta: **um desafio emitido por dia**; **uma vez por mês** cada pessoa pode desafiar alguém que **não tem direito de recusar**; é preciso lutar **ao menos uma vez a cada dez dias**, sob pena de perder uma vitória do registro; **cinco derrotas** acumuladas revogam a inscrição. Quando um lutador morre na arena, o vencedor fica com tudo o que ele tinha **exceto** o vine information Gu, que a organização retoma. A obra reconhece que **forjar um Gu de rank 1 desses não seria difícil** — o que garante a integridade do sistema é a **cópia de segurança** mantida pelo clã e o fato de todas as lutas acontecerem sob os olhos do público.
+
+---
+
+## Furtividade e disfarce — sem caminho declarado
+
+### Furtividade
+
+#### Stealth Rock Gu
+
+*(a obra também grafa **Stealth Stone Gu**.)*
+
+- **O que faz.** **Torna o corpo invisível** — mas **não as roupas nem o equipamento**. Vestido, o usuário vira um uniforme andando. E **não apaga rastros de sangue** de um ferimento, o que denuncia quem está machucado.
+- **Como é.** Gu natural com forma de **pedra cinza comum**.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** As duas acima, e elas são graves: **sozinho é quase inútil na prática**.
+- **Como se obtém.** Gu natural; o exemplar registrado veio de um **rei dos macacos-de-pedra**.
+- **Evolução.** **Stealth Scales Gu** (rank 2) — Stealth Rock **+ Fish Scale Gu**. E a datação canônica importa: essa receita **só seria descoberta publicamente cerca de duzentos anos depois** da cena em que aparece. Conhecê-la antes do tempo é vantagem estratégica pura.
+- **Interações.** É o exemplo canônico de um Gu cuja ficha promete mais do que entrega, e cuja solução está numa fusão, não num truque. Combina naturalmente com o Quiet Steps Gu e o Smell Lock Gu — invisibilidade, silêncio e ausência de odor —, mas aí bate no teto de alimentação: **três Gu de furtividade já são a metade do inventário de um rank 1**.
+
+#### Quiet Steps Gu
+
+- **O que faz.** **Abafa o ruído dos passos** de quem o carrega. A obra o apresenta em par com o **Smell Lock Gu**, que cobre o odor corporal, e dá o efeito combinado com precisão: com os dois ativos, um caçador chega **em silêncio absoluto a dez passos** de um porco-do-monte selvagem sem ser percebido.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** O custo verdadeiro **não é a essência: é a vaga**.
+- **Como se obtém.** —
+- **Evolução.** Não citada pela obra. Faixa de rank: rank 1 `(ded.)`.
+- **Interações.** Esta é a ficha em que a obra enuncia o **teto de inventário do sistema**, e por isso ela vale mais como regra do que como Gu. O praticante da cena **decidiu não obter os dois Gu**, porque tê-los elevaria seu conjunto a **sete Gu** e o gasto de essência passaria a ser grande demais para sustentar — e a obra completa: **um Mestre Gu comum só consegue alimentar de quatro a cinco Gu**. O Quiet Steps é o exemplo canônico do **Gu útil que se deixa de fora por causa do orçamento**, e é dessa mesma cena que sai a regra de que Mestres Gu andam em grupos de cinco (ou três, no mínimo).
+
+---
+
+## Caminho do som
+
+### Suporte
+
+#### Zither Gu
+
+- **O que faz.** **A obra descreve pouco do mecanismo direto.** É um Gu-instrumento musical que **voa em torno do usuário e toca música de cítara**. O que ela mostra em detalhe é o papel dele como **peça de golpe combinado**: um Mestre Gu do caminho do som, tocando flauta enquanto **três** "five string zither Gu" saíam do corpo dele, converteu a música conjunta num golpe combinado **do caminho da escravização** chamado "Formação Como Água", que fez **dezenas de milhares de grous voadores** manobrarem em formação fluida e ordenada, cercando os inimigos. Ou seja: a música do zither Gu é o **veículo de comando** de um enxame escravizado.
+- **Como é.** Pérola de jade branco que voa em torno do usuário.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** —
+- **Como se obtém.** **Refinável na hora**: a obra mostra alguém pegando um zither Gu de rank 3 **emprestado** e refinando-o ali mesmo, em público, em minutos, com a cooperação do dono original acelerando o trabalho. Materiais e preço: —
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5).
+- **Interações.** Duas notáveis. Primeira: **vários podem ser usados simultaneamente** — três de uma vez, junto com uma flauta. Segunda: combina com o **flute Gu** para tocar peças que carregam significado e efeito próprios. E há um uso social: acompanhar uma canção inédita com ele em público foi lido pela plateia como sinal de **alto domínio** (*attainment*) do caminho do som. Ver [[13 - Sound Path|Sound Path]] e [[08 - Attainment|Attainment]].
+
+---
+
+## Caminho da terra
+
+### Controle
+
+#### Sandpit Gu
+
+- **O que faz.** Abre **na hora uma cova de areia** no ponto escolhido, desequilibrando quem corre ou salta ali.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Um único uso custa cerca de **cinco por cento** de toda a essência primordial de um praticante de rank 1 — e precisa de solo adequado `(ded.)`: em rocha ou piso duro, não há areia para abrir.
+- **Como se obtém.** Gu comum, transmitido de Mestre para Mestre junto com o golpe que o usa.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Entra num **golpe combinado** canônico de três Gu, com o **Chimney Smoke Gu** e o **Clear Water Gu**: oito passos, e o resultado é uma baforada de fumaça branca que **cega o alvo com cinza**. É um dos poucos golpes combinados da obra construído inteiramente com peças baratas, e por isso o melhor modelo de golpe para personagens iniciantes — ver [[08 - Killer Moves|Killer Moves]].
+
+### Utilidade
+
+#### Gruel Mud Gu
+
+- **O que faz.** Age sobre **lama**: amolece, molda e derrama terreno como mingau. O uso corriqueiro é **construção** — Mestres Gu erguem cidades com ele. **Só funciona onde há lama**: em rocha seca não faz nada.
+- **Como é.** —
+- **Dieta.** Lama, que é ao mesmo tempo o meio de trabalho dele `*`.
+- **Desvantagem.** Trabalha volume de terreno, não alvos: é **ferramenta de obra**, e a obra nunca o mostra como arma no patamar mortal. Quem o leva para uma luta está levando uma pá.
+- **Como se obtém.** **Não se refina: nasce sozinho**, e é comuníssimo nos ranks 1 e 2, ainda popular nos ranks 3 e 4.
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5), mais uma versão **imortal** de rank 6 que pega o mesmo efeito e o vira do avesso, apodrecendo montanhas por dentro.
+- **Interações.** O fato mais aproveitável dele está no topo da faixa, e ilumina a economia inteira do sistema: como Gu de rank 5 são raríssimos, **o Gruel Mud é o Gu de rank 5 mais fácil de conseguir do mundo**, e muitos Mestres de rank 5 sem peça melhor carregam um só para não ficar sem nada no rank. Um Gu de obra civil que vira item de prestígio por escassez de alternativas.
+
+---

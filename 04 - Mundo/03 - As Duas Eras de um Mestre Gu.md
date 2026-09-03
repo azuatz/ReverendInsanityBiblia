@@ -288,7 +288,7 @@ Números concretos, para calibrar:
 | Critério formal de "super tribo" nas Planícies do Norte | **1 ou mais**, além de uma terra abençoada própria |
 | Uma seita pequena tentando se emancipar do vassalato | 3 — e perdeu um deles para o suserano |
 | Uma das dez grandes seitas do Continente Central | **15**, dos quais 2 são anciãos supremos rank 8 |
-| Um super clã do Mar do Leste | **18** |
+| Um super clã do Mar Oriental | **18** |
 | Um clã do Deserto do Oeste em guerra | 6 imortais nomeados, com anciãos supremos numerados |
 | Uma **região inteira** | **várias centenas** de Imortais, no total |
 | Rank 8 publicamente conhecidos numa região inteira | **cinco** |

@@ -60,10 +60,10 @@ força de combate ali dentro.
 **fora** das cinco regiões onde toda a história acontece, e cujos habitantes não obedecem às
 regras locais (ver [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]]) — se
 movem lá dentro sem sentir resistência nenhuma. Um cultivador que veja algo circular por uma
-muralha regional com fluidez sabe imediatamente que não está diante de um habitante das cinco
+parede regional com fluidez sabe imediatamente que não está diante de um habitante das cinco
 regiões.
 
-**A jogada registrada:** alguém imune à penalidade atacou dentro de uma muralha regional três
+**A jogada registrada:** alguém imune à penalidade atacou dentro de uma parede regional três
 adversários do [[06 - Transformation Path|caminho da transformação]] — a especialidade que
 converte o próprio corpo em outra coisa — que responderam corretamente virando feras físicas.
 Como o atacante não sofria a penalidade, eles o confundiram com uma fera selvagem e adotaram

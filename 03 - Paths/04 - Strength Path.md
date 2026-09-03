@@ -175,7 +175,7 @@ consegue** fazer um fantasma sair de um soco, por mais que soque.
 É contra esse gargalo que existe o Gu mais importante da escola:
 
 > [!example] O Gu do Esforço Total — o caso-modelo do caminho
-> O ==Gu do Esforço Total (all-out effort Gu)== é um **Gu antigo quase extinto**, de nível 3,
+> O ==Gu do Esforço Total (all-out effort Gu)== é um **Gu antigo quase extinto**, de rank 3,
 > com o formato de um besouro-rinoceronte. O que ele faz cabe numa frase: **invoca o fantasma
 > de fera com cem por cento de taxa de sucesso**, e o fantasma **se move segundo a vontade do
 > usuário**. Ele não é um Gu de ataque — é um Gu de **suporte** —, e ainda assim ocupa a
@@ -190,8 +190,8 @@ consegue** fazer um fantasma sair de um soco, por mais que soque.
 >   do usuário é que aquele segundo javali *é desperdício, seria melhor ter outra fera, que
 >   reforçaria outro aspecto do ataque*. **Montar arsenal de força é montar um bestiário
 >   variado, não empilhar cópias.**
-> - **O nível do Gu limita o nível do fantasma.** Em nível 3, ele só aciona fantasmas de nível
->   3. Refinado a nível 4, destranca fantasmas mais fortes — e é aí que a força de dois javalis
+> - **O nível do Gu limita o nível do fantasma.** Em rank 3, ele só aciona fantasmas de nível
+>   3. Refinado a rank 4, destranca fantasmas mais fortes — e é aí que a força de dois javalis
 >   se torna redundante de vez.
 > - **O custo de essência é baixíssimo**, e os fantasmas em si **não consomem essência nenhuma**
 >   enquanto apenas amplificam os golpes do usuário.
@@ -237,7 +237,7 @@ mutantes**, e a diferença é brutal. As equivalências que a obra registra:
 
 | Comparação | Resultado |
 |---|---|
-| 2 fantasmas comuns × 1 dragão-elefante (nível 4, com traço de linhagem de dragão) | os dois comuns **suprimem** o dragão-elefante |
+| 2 fantasmas comuns × 1 dragão-elefante (rank 4, com traço de linhagem de dragão) | os dois comuns **suprimem** o dragão-elefante |
 | 3 dragões-elefantes × 5 fantasmas comuns | os três **suprimem** os cinco |
 | 9 dragões-elefantes × 8 fantasmas comuns | os nove **esmagam** os oito |
 | 1 fantasma de *Biao* × fantasmas comuns | o Biao **suprime três ou quatro** deles |
@@ -269,13 +269,13 @@ que ameaçam alvos que os originais não ameaçavam.
 Em nível imortal, o caminho deixa de ser sobre bichos e passa a ser sobre **o próprio
 cultivador**, multiplicado:
 
-- **Comer força para engordar as marcas.** Existe um Gu Imortal de nível 6, o ==Comer Força
+- **Comer força para engordar as marcas.** Existe um Gu Imortal de rank 6, o ==Comer Força
   (Eat Strength)==, cuja única função é **gastar essência imortal para aumentar as marcas do
   Dao de força do usuário**. Como marcas amplificam diretamente o efeito de todo Gu Imortal do
   mesmo caminho — mil marcas dobram a potência, segundo
   [[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks|a tabela de amplificação]]
   —, isso transforma riqueza em poder permanente de forma direta e sem intermediários. Existe
-  também a versão em golpe: um golpe imortal de nível 6 que consome **materiais imortais de
+  também a versão em golpe: um golpe imortal de rank 6 que consome **materiais imortais de
   força** para o mesmo fim, com rendimento melhor por sessão, porém mais caro e menos prático.
   Este é o motor de progressão que o caminho não tem em nível mortal.
 - **O fantasma deixa de ser bicho e passa a ser você.** O golpe ==Fantasma da Própria Força
@@ -292,8 +292,8 @@ cultivador**, multiplicado:
   especial: os fantasmas de força que ele gera **carregam um fio da alma do usuário**, e por
   isso são manipulados *livremente, como extensões do próprio corpo*, ágeis e flexíveis — não
   como servos, mas como membros. O efeito documentado é uma diferença de categoria: sem o
-  golpe, o usuário luta **abaixo** de um imortal de nível 6 comum; com ele, luta como um imortal
-  de nível 6 **de primeira linha**. O custo também é de categoria: ele **gasta a fundação de
+  golpe, o usuário luta **abaixo** de um imortal de rank 6 comum; com ele, luta como um imortal
+  de rank 6 **de primeira linha**. O custo também é de categoria: ele **gasta a fundação de
   alma** do usuário, e o rescaldo é a alma exaurida e o corpo pesado e enferrujado por dias.
 - **A força ganha defesa, enfim.** Existe um Gu Imortal defensivo de força, o ==Caldeirão de
   Força (cauldron strength)==, que ergue um caldeirão de força ao redor do usuário. A obra o
@@ -304,7 +304,7 @@ cultivador**, multiplicado:
 `conhecimento: segredo`
 
 Há um segredo geográfico que muda a economia inteira do caminho. Uma planície gelada das
-Planícies do Norte foi criada por um Venerável de nível 9 que era, ao mesmo tempo, o
+Planícies do Norte foi criada por um Venerável de rank 9 que era, ao mesmo tempo, o
 progenitor do caminho da força e do [[06 - Transformation Path|caminho da transformação]] — ele
 se transformou numa fênix de gelo e soprou o gelo profundo que formou a planície. Ao fazê-lo,
 **imprimiu no lugar o *verdadeiro sentido* (true meaning) dos dois caminhos**.
@@ -331,7 +331,7 @@ O que muda, faixa por faixa. Onde a obra não dá o número, a linha está marca
 | **Rank 1–2** | Força medida em *jin*: meio quilo, cinco quilos. Serve para trabalho pesado e para brigas de vila. Os Gu de fera baratos (lobo, cavalo) já gravam a primeira marca permanente, e o cultivador começa a "colecionar bichos" sem saber. |
 | **Rank 3** | O patamar em que o caminho vira uma escola de verdade. Entra o *jun* (30 *jin* por Gu), entra o **Gu do Esforço Total** e, com ele, o primeiro fantasma sob controle. Entram os Gu de cura por força e o reforço corporal (tendão de aço, osso de ferro). Um rank 3 bem montado bate acima do rank e **atravessa uma faixa**, matando cultivadores de estágio médio do rank acima. |
 | **Rank 4** | Fantasmas de nível superior; força de dez *jun* por Gu; **70 jun** é o piso do "apenas passável". Aparecem os multiplicadores — Força Amarga, Qi de Força — e, com eles, o modo "vários fantasmas ao mesmo tempo" e o ataque à distância. É a faixa em que o caminho deixa de ser só corpo a corpo. |
-| **Rank 5** | **100 jun ou mais.** O corpo já foi refinado (pele, ossos, tendões) para conter o que se acumulou, e é a segunda camada que decide quem chega aqui. Com um amplificador de nível 5 acoplado, há registro de **500 jun** disparados — com a ressalva de que o corpo se desfaz antes do alvo. Golpes combinados de força com escravização começam a valer mais que a força pura. |
+| **Rank 5** | **100 jun ou mais.** O corpo já foi refinado (pele, ossos, tendões) para conter o que se acumulou, e é a segunda camada que decide quem chega aqui. Com um amplificador de rank 5 acoplado, há registro de **500 jun** disparados — com a ressalva de que o corpo se desfaz antes do alvo. Golpes combinados de força com escravização começam a valer mais que a força pura. |
 | **Rank 6 (imortal)** | Um único Gu Imortal concede **1.000 jun**. Surgem as categorias que não existiam: **defesa** (Caldeirão de Força), **acúmulo dirigido de marcas** (Comer Força) e os **fantasmas de si mesmo**. A vantagem clássica do imortal — essência ilimitada — vale **quase nada** aqui, porque o caminho já era o que menos gastava essência. |
 | **Rank 7–8** | Fantasmas gigantes aos dezesseis, capazes de matar um imortal; golpes híbridos com alma e escravização; e o acúmulo de marcas do Dao como projeto de vida, já que cada mil marcas dobra tudo. `—` a obra não detalha um teto próprio do caminho nessas faixas. |
 | **Rank 9 (Venerável)** | O progenitor do caminho encerra a escada: devorou feras imemoriais, gravou **totens** no corpo, e com isso escapou de todas as limitações descritas acima. Ver [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]]. |
@@ -483,7 +483,7 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 - **[[06 - Transformation Path|Transformation Path]]** — historicamente ligados; o mesmo ser lendário fundou os dois, e os dois dividem o mesmo presente na planície gelada.
 - **[[07 - Enslavement Path|Enslavement Path]]** — a combinação que gerou todos os grandes golpes modernos do caminho. **Com um conflito real embutido**: as modificações corporais que servem à força **não servem** à escravização, e vice-versa. A obra chama isso de "o problema não resolvido" de quem cultiva os dois, e contrasta com pares que não têm esse atrito (alma com escravização, alma com sabedoria).
 - **[[12 - Soul Path|Soul Path]]** — a alma é o que transforma fantasmas em membros obedientes, no golpe mais forte do caminho.
-- **[[21 - Rule Path|Rule Path]]** — Gu de amplificação universais funcionam perfeitamente sobre força, e são a forma mais barata de multiplicar um efeito simples. Foi um amplificador de nível 5 que produziu o pico de 500 *jun* documentado.
+- **[[21 - Rule Path|Rule Path]]** — Gu de amplificação universais funcionam perfeitamente sobre força, e são a forma mais barata de multiplicar um efeito simples. Foi um amplificador de rank 5 que produziu o pico de 500 *jun* documentado.
 - **[[27 - Os Caminhos Elementais|Os caminhos elementais]]** — o ramo atmosférico **é** essa fronteira: emprestar a força do vento, da água, do fogo e da terra é força, mas a receita se destranca pelo elemento.
 - **[[08 - Refinement Path|Refinement Path]]** — o caminho da força figura entre os melhores "vasos informes" para refino de altíssimo nível.
 
@@ -526,12 +526,12 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco Selvagem Imprudente** — figura de nível 9, progenitor tanto deste
+- **O Venerável Demoníaco Selvagem Imprudente** — figura de rank 9, progenitor tanto deste
   caminho quanto do [[06 - Transformation Path|Transformation Path]]. Comeu feras imemoriais e
   gravou totens no corpo, escapando das limitações que definem o caminho para todos os outros.
   Deixou o verdadeiro sentido dos dois caminhos impresso numa planície gelada do norte.
-- **Chu Du**, o "Imortal da Dominação", de nível 7 — criador do sistema moderno de unidades de
-  força, inventor dos Gu de *jin* e de *jun* e refinador do Gu Imortal de nível 6 que concede
+- **Chu Du**, o "Imortal da Dominação", de rank 7 — criador do sistema moderno de unidades de
+  força, inventor dos Gu de *jin* e de *jun* e refinador do Gu Imortal de rank 6 que concede
   mil *jun*. Tornou-se imortal há trezentos anos, espalhou sua receita, e com isso **sozinho
   virou a situação de um caminho moribundo**: hoje praticamente todo Mestre Gu das Planícies do
   Norte tem uma base de caminho da força porque usou os Gu dele. Sua morte é lembrada no mundo

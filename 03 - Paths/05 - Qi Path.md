@@ -98,15 +98,15 @@ cinco regiões, e o status dos humanos era **baixíssimo**: a maioria era escrav
 vendida à vontade; até Mestres Gu Imortais humanos eram escravos de humanos variantes, e os
 que viviam livres podiam ser cercados e capturados a qualquer dia.
 
-O fundador do caminho do qi era humano e imortal de nível 7 — e, mesmo assim, **não conseguia
+O fundador do caminho do qi era humano e imortal de rank 7 — e, mesmo assim, **não conseguia
 igualar a força de combate de muitos imortais variantes**. A frase dele, registrada
 literalmente, é a certidão de nascimento do caminho:
 
-> *Eu queria muito resistir a eles, mas mesmo tendo virado imortal de nível 7 não consigo
+> *Eu queria muito resistir a eles, mas mesmo tendo virado imortal de rank 7 não consigo
 > igualar a força de combate de muitos imortais humanos variantes. Foi por isso que eu vinha
 > cultivando sem parar e querendo **criar um caminho que pertencesse só a nós, humanos**.*
 
-Ele só decidiu criá-lo de fato depois de segurar nas mãos o Gu de nível 9 do destino, levado
+Ele só decidiu criá-lo de fato depois de segurar nas mãos o Gu de rank 9 do destino, levado
 até ele por um Mestre Gu mortal, e de ver nele o futuro: as raças variantes em declínio, a
 humanidade tomando o lugar delas. Ver [[16 - Fate Gu|Fate Gu]] e [[24 - Human Path|Human Path]].
 
@@ -237,10 +237,10 @@ funcionavam**, porque queimavam material.
 O caminho do qi é onde a obra dá os números mais explícitos de amplificação por marcas:
 
 - **um milhão** de marcas de qi multiplicam a potência de um golpe por **mil vezes**;
-- um golpe de nível 7 assim amplificado atinge o **pico do nível 8**;
-- e existe teto: um milhão de marcas **não** rompe para o nível 9.
+- um golpe de rank 7 assim amplificado atinge o **pico do rank 8**;
+- e existe teto: um milhão de marcas **não** rompe para o rank 9.
 
-Um milhão de marcas é descrito como "o nível de algo que só um nível 9 poderia possuir".
+Um milhão de marcas é descrito como "o nível de algo que só um rank 9 poderia possuir".
 Confira sempre os números contra
 [[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks]], que é a fonte soberana.
 O que esse mesmo milhão de marcas faz com a **abertura** do praticante está em *A camada
@@ -298,7 +298,7 @@ anti-caminho":
 > Legenda completa em [[01 - Visão Geral dos Paths#Como ler as tabelas de Gu representativos]];
 > ver também [[16 - Gu Imortais|Gu Imortais]] e [[03 - Catálogo de Gu|Catálogo de Gu]].
 
-> [!question] Não existe Gu Imortal de nível 9 conhecido no caminho do qi
+> [!question] Não existe Gu Imortal de rank 9 conhecido no caminho do qi
 > A obra afirma isso perto do fim, em tom de lamento — e deixa a porta aberta ao especular
 > que talvez exista um guardado no tesouro pessoal do fundador do caminho. É lacuna
 > declarada, e portanto espaço livre para o seu jogo.
@@ -311,12 +311,12 @@ a escada mostra exatamente por quê: ela é larga embaixo e some no topo.
 | Faixa | O que o caminho entrega |
 |---|---|
 | **Ranks 1–2** | Utilidades corporais: uma corrente morna que percorre os órgãos e sustenta a força vital, funcionando sozinha depois de ativada; e a bola de ar **sem forma** em volta do corpo que deixa o usuário duro como rocha parecendo indefeso |
-| **Rank 3** | O degrau da autossuficiência: **um praticante de nível 3 refina sozinho um Gu de qi a partir de outro Gu de qi**, sem oficina nem mestre. É aqui que fica claro que o gargalo do caminho nunca foi dificuldade — foi estoque. Também é a faixa do qi que dá **ataque à distância ao caminho da força** |
+| **Rank 3** | O degrau da autossuficiência: **um praticante de rank 3 refina sozinho um Gu de qi a partir de outro Gu de qi**, sem oficina nem mestre. É aqui que fica claro que o gargalo do caminho nunca foi dificuldade — foi estoque. Também é a faixa do qi que dá **ataque à distância ao caminho da força** |
 | **Rank 4** | O primeiro efeito de escala social: um Gu natural nascido do vento que **dá ou remove um costume inteiro** de uma tribo, clã ou bando de feras. Quase inútil contra uma pessoa; devastador contra um grupo — e ninguém jamais deduziu a receita dele |
 | **Rank 5** | Absorção e estoque: um Gu que armazena qi do céu e da terra e, espalhado pelo chão, **manipula a tribulação de uma ascensão**, suprimindo-a ou atraindo-a. Evolui depois para a forma imortal |
-| **Ranks 6–7** | A faixa dos golpes completos: muralhas de qi, explosões, tesouras de correntes, movimento em forma de dragão. E o armazenamento maduro — um Gu de nível 7 que estoca **todo tipo de qi, inclusive o das tribulações**, e que a obra usa como prova de que nível maior nem sempre é mais útil |
-| **Rank 8** | O topo real do caminho hoje: os três Gu insubstituíveis do qi do céu, do qi da terra e do qi humano, núcleos do golpe supremo; e o Gu do "mar de qi ilimitado". Um golpe de nível 7 amplificado por um milhão de marcas alcança o **pico do nível 8** — mas **não** rompe para o 9 |
-| **Rank 9** | `—` **Não existe Gu Imortal de nível 9 conhecido do caminho do qi.** A obra afirma isso em tom de lamento e especula que talvez exista um guardado no tesouro pessoal do fundador. É lacuna declarada |
+| **Ranks 6–7** | A faixa dos golpes completos: muralhas de qi, explosões, tesouras de correntes, movimento em forma de dragão. E o armazenamento maduro — um Gu de rank 7 que estoca **todo tipo de qi, inclusive o das tribulações**, e que a obra usa como prova de que nível maior nem sempre é mais útil |
+| **Rank 8** | O topo real do caminho hoje: os três Gu insubstituíveis do qi do céu, do qi da terra e do qi humano, núcleos do golpe supremo; e o Gu do "mar de qi ilimitado". Um golpe de rank 7 amplificado por um milhão de marcas alcança o **pico do rank 8** — mas **não** rompe para o 9 |
+| **Rank 9** | `—` **Não existe Gu Imortal de rank 9 conhecido do caminho do qi.** A obra afirma isso em tom de lamento e especula que talvez exista um guardado no tesouro pessoal do fundador. É lacuna declarada |
 
 Três observações que a tabela não cabe:
 
@@ -421,7 +421,7 @@ Esta seção existe porque o caminho do qi é, no vault inteiro, o melhor estudo
   de caminhos impopulares, como o da força e o do qi".
 - **As receitas antigas, ao contrário, são caríssimas** — justamente por serem as únicas
   cópias sobreviventes.
-- **O gargalo real não é dificuldade: é inventário.** Um praticante de nível 3 refina sozinho
+- **O gargalo real não é dificuldade: é inventário.** Um praticante de rank 3 refina sozinho
   um Gu de qi a partir de outro. O caminho é **acessível na base e impossível no topo**: o que
   falta não é talento, é estoque.
 - **O estoque global cabe numa compra.** Um único imortal rico varreu o mercado inteiro do
@@ -466,11 +466,11 @@ Esta seção existe porque o caminho do qi é, no vault inteiro, o melhor estudo
   instituição do mundo. Tem o entendimento mais profundo de qi que já existiu, e sua herança
   verdadeira é a mais valiosa do mundo neste caminho. Ver
   [[19 - Tornar-se Venerável|Tornar-se Venerável]].
-- **O especialista dos noventa e nove monstros** — um imortal de nível 8 da Antiguidade Passada
+- **O especialista dos noventa e nove monstros** — um imortal de rank 8 da Antiguidade Passada
   que percorreu o mundo procurando fontes de qi demoníaco e refinou **noventa e nove monstros**
   compatíveis com os próprios golpes, formando um exército pessoal. Na era dele, quase ninguém
   podia rivalizar.
-- **Um dos cinco exploradores dos céus** — cinco imortais de nível 8 que exploravam juntos os
+- **Um dos cinco exploradores dos céus** — cinco imortais de rank 8 que exploravam juntos os
   céus imemoriais, cada um de um caminho diferente (qi, gelo, sangue, terra e comida). O do qi
   acumulou mais de **um milhão** de marcas do Dao em vida, e o clã que descende dele cultiva o
   caminho até hoje.

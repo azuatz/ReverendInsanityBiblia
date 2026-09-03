@@ -109,7 +109,7 @@ cultural, mas por estrutura. Ver [[04 - As Cinco Regiões|As Cinco Regiões]] pa
 | **Planícies do Norte** | Tribos (linhagem de sangue); a seita é forma *hostilizada*, não proibida | **Em parte** — o Céu da Longevidade, via uma insígnia de autoridade, dá ao norte a segunda melhor coesão do mundo, mas não é liderança única |
 | **Fronteira do Sul** | Clãs (laços de sangue) | **Não** — existe um clã nº 1, mas a obra classifica a região entre as desunidas, controladas por super forças independentes |
 | **Deserto do Oeste** | Clãs | **Não** — e a obra aponta isso como a fraqueza estrutural da região |
-| **Mar do Leste** | Clãs, sobre territórios marítimos possuídos individualmente | **Não** — a região mais rica e a mais sem dono |
+| **Mar Oriental** | Clãs, sobre territórios marítimos possuídos individualmente | **Não** — a região mais rica e a mais sem dono |
 
 Essa última coluna é a que mais importa numa mesa. Onde existe um poder unificador, o
 conflito é canalizado por regras e a política fica previsível; onde não existe, as super
@@ -120,7 +120,7 @@ dominante e que é exatamente isso que trava qualquer cooperação de larga esca
 > [!warning] Só uma região do mundo tem liderança única
 > A obra é literal a respeito: o Continente Central tem a fundação mais profunda, o maior
 > número de Mestres Gu e de Gu Imortais **e um líder unificado — algo que nenhuma das
-> outras quatro regiões possui**. Mar do Leste, Deserto do Oeste, Fronteira do Sul e
+> outras quatro regiões possui**. Mar Oriental, Deserto do Oeste, Fronteira do Sul e
 > Planícies do Norte são todas controladas por super forças independentes e são
 > **desunidas**; o norte fica um pouco melhor que os outros três por causa do Céu da
 > Longevidade, e só. Ter um clã nº 1 na Fronteira do Sul **não** é o mesmo que ter um
@@ -211,7 +211,7 @@ detalhada da obra, e por isso a que oferece mais material pronto.
 - **O que domina:** **mobilidade**. Mantém a caravana de baleias azuis voadoras — um meio de
   transporte aéreo que nem o clã Shang possui — e uma Casa de Gu Imortal de estilo marítimo
   especializada em perseguição e deslocamento de longa distância. É o clã com relação mais
-  estreita com o Mar do Leste, e o **único ponto da Fronteira do Sul com acesso a um Gu
+  estreita com o Mar Oriental, e o **único ponto da Fronteira do Sul com acesso a um Gu
   natural específico do mar** necessário para avançar a linha regional de Gu de
   armazenamento. Quem precisa atravessar a região depressa, ou subir essa linha de Gu,
   negocia com o clã Yi.
@@ -648,7 +648,7 @@ presa, as demais deliberadamente **não** a resgataram, porque a perda dela lhes
 
 ---
 
-## Mar do Leste — a região mais rica e a mais sem dono
+## Mar Oriental — a região mais rica e a mais sem dono
 
 Um arquipélago. É a região **mais rica em recursos** das cinco — criaturas aquáticas, bestas
 marinhas, minérios e pedras preciosas — e a **mais receptiva a estrangeiros**. Também é a
@@ -667,7 +667,7 @@ Isso muda a natureza da política local. Onde no sul o território pertence ao c
 indivíduo é usufrutuário, aqui o indivíduo é proprietário e a organização é uma associação
 de proprietários. É o cenário mais próximo de um mercado livre que a obra oferece.
 
-Um dado que contradiz a fama de irrelevância política da região: **o Mar do Leste tem o
+Um dado que contradiz a fama de irrelevância política da região: **o Mar Oriental tem o
 maior número de Mestres Gu Imortais de rank 8 do mundo**. Ele não é fraco — é desunido. E
 mantém um serviço que praticamente desapareceu nas outras quatro: as **convenções de troca**
 de Gu Imortais, que só sobrevivem aqui por a região ser rica o bastante para sustentá-las.
@@ -682,7 +682,7 @@ penalidade se a transação não fechar.
   pesada. **O que domina:** caminho da luz e caminho da água como base, mais
   um pilar de caminho da sabedoria — seu maior dedutor **fundiu voluntariamente a metade
   inferior do próprio corpo ao terreno** de um estreito marítimo, trocando mobilidade por
-  precisão: enquanto estiver dentro do Mar do Leste, deduz localizações com exatidão. O clã
+  precisão: enquanto estiver dentro do Mar Oriental, deduz localizações com exatidão. O clã
   detém ainda uma **herança verdadeira de refino** deixada por um dos três grão-mestres
   supremos de refino de toda a história — conquistada em um projeto de cem anos, vencendo
   os clãs Cai e Ruo Lai pela posse de uma planície específica.
@@ -700,11 +700,11 @@ penalidade se a transação não fechar.
 - **Clã Hua** — super força do caminho correto, com um rank 8 no topo. **O que domina: o
   caminho da nuvem**, e a exploração dos dois céus imemoriais. É a fonte de
   bens que o resto do mundo vê uma vez por milênio.
-- **Clã Tang (Mar do Leste)** — a obra o descreve como **equivalente às dez grandes seitas
+- **Clã Tang (Mar Oriental)** — a obra o descreve como **equivalente às dez grandes seitas
   ancestrais do Continente Central**, o maior elogio de poder dado a um clã da região.
   Especialidade e número de imortais: **não constam**. Atenção: é uma organização
   **distinta** do clã Tang do Deserto do Oeste.
-- **Clã Xia (Mar do Leste)** — super força de **caminho da água** no extremo leste, com a
+- **Clã Xia (Mar Oriental)** — super força de **caminho da água** no extremo leste, com a
   fundação **mais fraca** entre as super forças da região. `segredo`: mantém um projeto
   secreto de longo prazo para criar um domínio recluso **artificial** de caminho humano,
   alimentado processando populações humanas inteiras. Atenção: distinto do clã Xia da
@@ -728,12 +728,12 @@ penalidade se a transação não fechar.
   tipo na obra, e a única grande força que **recruta abertamente imortais vivos**, em status
   inferior (que não podem ocupar altos escalões). Capacidade de infraestrutura exclusiva:
   uma formação que gera uma **maré terrestre artificial**, afinando temporariamente um
-  trecho da muralha regional para que membros de alto rank saiam com perdas muito menores.
+  trecho da parede regional para que membros de alto rank saiam com perdas muito menores.
   Sobre a natureza real desta organização, ver a seção de segredos.
 
 ### Alianças e serviços que não são clãs
 
-- **A aliança do caminho correto do Mar do Leste** — formada tardiamente como resposta a
+- **A aliança do caminho correto do Mar Oriental** — formada tardiamente como resposta a
   uma ameaça externa, e notável pela arquitetura: três pilares declarados. (1) Um
   **tesouro comum** de recursos, receitas e golpes; (2) um **quadro de contribuição e um
   quadro de missões públicos**; (3) uma regra de proteção mútua contra traidores. Também
@@ -754,7 +754,7 @@ penalidade se a transação não fechar.
 
 ### Recursos que só existem aqui
 
-Esta é a razão pela qual o Mar do Leste importa mesmo para uma campanha ambientada longe
+Esta é a razão pela qual o Mar Oriental importa mesmo para uma campanha ambientada longe
 dele:
 
 - **A Planície da Ascensão ao Céu** — o recurso mais importante da região, e talvez do
@@ -786,10 +786,10 @@ dele:
 - **Uma linha própria de Gu de armazenamento** — a região produz um Gu de armazenamento de
   rank 4 exclusivo, de grande capacidade e uso fácil, obtido por fusão a partir de um rank 3
   com taxa de sucesso baixa (raro mesmo aqui). Para avançá-lo a rank 5 é preciso fundi-lo
-  com um Gu natural encontrado **somente numa ilha específica** do Mar do Leste. Isso faz
+  com um Gu natural encontrado **somente numa ilha específica** do Mar Oriental. Isso faz
   do arquipélago o gargalo mundial de armazenamento — e explica por que um clã da Fronteira
   do Sul construiu toda a sua relevância sendo a ponte para cá.
-- **Os dois céus imemoriais** acima do Mar do Leste — território denso de grutas-céu humanas
+- **Os dois céus imemoriais** acima do Mar Oriental — território denso de grutas-céu humanas
   e de raças variantes, que vira palco de guerra aberta assim que as barreiras entre
   regiões caem.
 
@@ -894,7 +894,7 @@ haviam sido fabricadas. Ver [[04 - Os Que Romperam as Leis|Os Que Romperam as Le
 Este é o caso mais reaproveitável do cenário, e vale entender por inteiro.
 
 Publicamente, uma cooperativa científica de zumbis imortais, existente desde a Antiguidade
-Medieval, com sede no Mar do Leste — a filial mais forte, numa terra abençoada pública
+Medieval, com sede no Mar Oriental — a filial mais forte, numa terra abençoada pública
 montada com pedaços de terras abençoadas doadas — e filiais nas outras quatro regiões. A do
 norte fica numa cidade gigante sobre uma fenda terrestre; a do oeste, numa cidade-cadáver
 movida para debaixo de um deserto de translocação e protegida por formação defensiva.
@@ -1128,7 +1128,7 @@ quem é preciso negociar, a quem é preciso servir, ou o que é preciso roubar.
 | **Clã Shen** | Leste | Diplomacia ritual | 7 grandes áreas de mar; o ritual de chá de seis xícaras |
 | **Clã Hua** | Leste | Caminho da nuvem | Exploração dos dois céus imemoriais e os bens que só de lá vêm |
 | **Corte Imperial dos Homens-Peixe** | Leste | Matriarcado; casamentos de aliança | A única super força de raça variante do mundo |
-| **Aliança dos Zumbis** | Leste (sede) | Pesquisa sobre a condição de zumbi imortal | Conhecimento mundial sobre zumbificação; postos de coleta leiloados; a maré terrestre artificial que afina a muralha regional |
+| **Aliança dos Zumbis** | Leste (sede) | Pesquisa sobre a condição de zumbi imortal | Conhecimento mundial sobre zumbificação; postos de coleta leiloados; a maré terrestre artificial que afina a parede regional |
 | **Planície da Ascensão ao Céu** | Leste | *Disputada por três clãs* | O único ponto do mundo por onde qualquer um, até um mortal, entra nos céus imemoriais sem enfrentar a barreira |
 | **Seita das Sombras** | Todas | Caminho da alma | Re-refino de Gu Imortais destruídos; aberturas fantasma; modificação de alma indetectável |
 | **Deserto do Fantasma Verde** | Oeste | *Sem dono* | A maior concentração de bestas de alma do mundo |
@@ -1173,9 +1173,9 @@ contradizer nada:
   é publicada de forma estável.
 - **A especialidade da maioria das super tribos do norte** e de vários dos treze super clãs
   do sul. A obra registra existência, porte e pertencimento, sem declarar em que cada uma é
-  boa. O mesmo vale para vários clãs do Mar do Leste, dos quais dois não têm nem
+  boa. O mesmo vale para vários clãs do Mar Oriental, dos quais dois não têm nem
   especialidade nem contagem de imortais.
-- **Cinco das dez grandes áreas de mar** do Mar do Leste nunca são nomeadas.
+- **Cinco das dez grandes áreas de mar** do Mar Oriental nunca são nomeadas.
 - **A Seita da Expulsão de Demônios** é tratada como potência do Continente Central mas não
   figura na enumeração das dez — a obra não explica a discrepância.
 - **A relação exata entre a Corte Imperial do norte e o Tribunal Celestial**, que

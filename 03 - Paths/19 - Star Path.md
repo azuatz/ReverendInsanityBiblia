@@ -25,7 +25,7 @@ parceiro inseparável do [[16 - Wisdom Path|caminho da sabedoria]]. Para entende
 O caminho das estrelas tem duas caras, e é a segunda que importa.
 
 A primeira é convencional: projéteis de luz estelar, amplificação, visão a distância. É
-competente e barato, e existem séries inteiras de Gu de nível 1 a 5 dedicadas a isso.
+competente e barato, e existem séries inteiras de Gu de rank 1 a 5 dedicadas a isso.
 
 A segunda é o que o torna estratégico: **os pensamentos-estrela**. Como explicado em
 [[16 - Wisdom Path|Wisdom Path]], pensamentos não são intercambiáveis — cada subtipo serve melhor a uma tarefa.
@@ -55,7 +55,7 @@ Isso significa que a produção de pensamentos é literalmente uma **linha de mo
 intelectual**: você acumula estoque, e depois gasta esse estoque em projetos de dedução. É a
 mecânica mais próxima de "economia industrial da mente" que a obra oferece.
 
-O Gu comum de nível 5 correspondente converte perguntas em pensamentos-estrela manipuláveis,
+O Gu comum de rank 5 correspondente converte perguntas em pensamentos-estrela manipuláveis,
 gastando essência e energia da alma. Usado ofensivamente em massa, custa **anos de tempo de
 vida**.
 
@@ -73,7 +73,7 @@ Estoque de pensamento não é reserva estratégica — é consumível de expedie
 
 ### Amplificação própria
 
-O caminho tem uma série de amplificação **própria**, do nível 1 ao 5, que sobe em degraus
+O caminho tem uma série de amplificação **própria**, do rank 1 ao 5, que sobe em degraus
 nomeados até um efeito máximo. A vantagem dela sobre a amplificação universal do
 [[21 - Rule Path|caminho da regra]] é econômica: é **mais barata e mais confiável** — desde que
 aplicada a Gu do próprio caminho das estrelas.
@@ -91,7 +91,7 @@ O caminho fornece algumas das melhores ferramentas de vigilância que existem:
 - Uma casa de Gu que é simultaneamente o instrumento número um do caminho da sabedoria e um
   sistema de rastreamento **excepcionalmente robusto**: uma marcação feita com o poder dela
   pode ser **detectada mas não removida**, nem por golpes montados a partir de heranças de
-  nível 8. Escapar dela exige um local com formação especializada anti-dedução.
+  rank 8. Escapar dela exige um local com formação especializada anti-dedução.
 - Visão pelas estrelas do céu escuro — um dos Gu místicos mais notáveis do mundo, com um limite
   característico: apenas oito observações por noite.
 
@@ -169,7 +169,7 @@ Aqui está a fraqueza que ninguém antecipa ao escolher a escola.
 
 Acumular marcas de estrela e de sabedoria em quantidade **inutiliza os métodos de cura de todos
 os outros caminhos** sobre o próprio corpo. A obra registra o caso extremo: uma cultivadora de
-sabedoria e estrelas de nível 9 ferida **não podia ser curada por nenhum método**, porque as
+sabedoria e estrelas de rank 9 ferida **não podia ser curada por nenhum método**, porque as
 marcas dela conflitavam com todos — a única exceção era o caminho humano, e não havia ninguém
 com domínio suficiente nele para tratá-la.
 
@@ -193,7 +193,7 @@ capacidade de socorrê-lo.
 | **Ranks 1–3** | Produção em massa: dardos, flechas, fogo estelar, meteoros, rio estelar. E o vaga-lume estelar, de rank 3, que é ao mesmo tempo o mensageiro padrão do mundo imortal e a fonte de luz estelar portátil. `(ded.)` A entrada é a mais barata de qualquer caminho de projétil: os materiais são comuns e a criação é agrícola. |
 | **Ranks 4–5** | O mensageiro rápido de rank 4 (o que dá a resposta mais veloz do mercado, mas brilha no ar e é fácil de interceptar) e o Gu de pensamento-estrela de rank 5, que converte perguntas em pensamentos manipuláveis. A série própria de amplificação, de 1 a 5, fecha aqui. |
 | **Rank 6** | A faixa do praticante completo: o Gu místico de visão pelas estrelas, o de marcação temporária, o de disparo e a produção contínua de luz estelar. Com três Gu Imortais só, um cultivador montou **quatro golpes imortais** distintos revezando os mesmos núcleos — o caminho tem uma economia de Gu excepcionalmente eficiente. |
-| **Rank 7** | `(ded.)` Escala. Golpes de campo, clones de luz estelar assumindo várias posições ao mesmo tempo, e rastreamento de longo prazo que nem heranças de nível 8 conseguem remover. |
+| **Rank 7** | `(ded.)` Escala. Golpes de campo, clones de luz estelar assumindo várias posições ao mesmo tempo, e rastreamento de longo prazo que nem heranças de rank 8 conseguem remover. |
 | **Rank 8** | Formações estelares de área, bestas estelares criadas e mantidas como exército, e sistemas de vigilância que cobrem um continente. |
 | **Rank 9** | Tecer marcas de estrela diretamente no ar em dezenas de respirações, construir formações de cálculo estelar do tamanho de um campo de batalha, e usar estrelas + sabedoria para **imitar o caminho do espaço**. A obra registra que, com um Gu Imortal de rank 9 do caminho, esse sistema de combate teria um salto explosivo — e que a praticante suprema **não tinha um**. |
 
@@ -318,7 +318,7 @@ uma inversão elegante da curva usual, em que golpes de área são mais fracos p
   caminho — a casa de Gu que leva seu nome é ao mesmo tempo o instrumento supremo da sabedoria
   e a estrutura de rastreamento estelar mais robusta do mundo. É o melhor exemplo de como os
   dois caminhos se confundem no topo.
-- Um poeta imortal desenvolveu a série de amplificação estelar de nível 1 a 5, que é o produto
+- Um poeta imortal desenvolveu a série de amplificação estelar de rank 1 a 5, que é o produto
   mais difundido do caminho no mercado comum.
 
 ## Relações

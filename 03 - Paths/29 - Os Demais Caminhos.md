@@ -52,7 +52,7 @@ era de criação, o instrutor termina assim:
 
 Portanto o mundo reconhece formalmente **duas categorias**. E os caminhos menores não são
 necessariamente fracos — o [[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes
-peritos de nível 8; o [[22 - Phantom Path|caminho fantasma]] é chamado de menor e sua profundidade
+peritos de rank 8; o [[22 - Phantom Path|caminho fantasma]] é chamado de menor e sua profundidade
 suprema sustenta a maior organização do mundo. "Menor" significa **pouco praticado e pouco
 desenvolvido**, não pouco potente.
 
@@ -118,11 +118,11 @@ aponta como capazes de conter um espaço de batalha.
 **Raridade declarada:** *o caminho da restrição era também um caminho raro; havia pouquíssimos
 Mestres Gu dele.*
 
-**Escala de feito:** um imortal de nível 8 do caminho **construiu uma cadeia de montanhas
+**Escala de feito:** um imortal de rank 8 do caminho **construiu uma cadeia de montanhas
 artificial** que atravessa regiões inteiras. E o significado verdadeiro que ele deixou é capaz de
 tornar alguém **sem fundação nenhuma na regra um grande grão-mestre instantaneamente**.
 
-**Um limite ótimo de mesa:** um selo imposto por um imortal de nível 8 **se desgasta com o tempo** e
+**Um limite ótimo de mesa:** um selo imposto por um imortal de rank 8 **se desgasta com o tempo** e
 cai sozinho. Prisões deste caminho têm prazo.
 
 ### Caminho da emoção (emotion path)
@@ -188,21 +188,21 @@ Ramo da regra, e o único dos ramos com material suficiente para nota própria �
 **Criado na era atual** — é o mais novo dos caminhos listados como **principais** na enumeração
 canônica, ao lado do fantasma e da restrição.
 
-E, ao contrário do que "caminho novo" sugere, ele **não é fraco**: um imortal de nível 8 que
+E, ao contrário do que "caminho novo" sugere, ele **não é fraco**: um imortal de rank 8 que
 cultivava osso como caminho principal foi considerado, enquanto vivo, **a maior força de combate de
 uma região inteira do mundo**.
 
 **Materiais e pontos de recurso** — este é o ponto forte do caminho:
 
-- uma **espinha celestial** é material imortal de **nível 9** do caminho;
+- uma **espinha celestial** é material imortal de **rank 9** do caminho;
 - um esqueleto saturado de marcas de osso é material imortal de quase-nível-8;
 - existem **pontos de recurso que geram Gu de osso** — uma montanha de esqueletos guardada por um
-  imortal de nível 7, e um campo de sepultamento de ossos que um clã transformou em base de produção;
+  imortal de rank 7, e um campo de sepultamento de ossos que um clã transformou em base de produção;
 - e um detalhe canônico ótimo: no campo de ossos **original**, *até o solo em volta tinha marcas de
   osso*. Reconstruí-lo em outro lugar é possível, mas *as marcas não se equiparam às do original*.
 
-**Gu nomeados:** uma **Espinha de Osso** (Gu Imortal de nível 6, ofensivo); uma **Roda de Osso de
-Batalha** (mortal de nível 5) que, arranjada em conjunto, forma o golpe da **Carruagem de Ossos
+**Gu nomeados:** uma **Espinha de Osso** (Gu Imortal de rank 6, ofensivo); uma **Roda de Osso de
+Batalha** (mortal de rank 5) que, arranjada em conjunto, forma o golpe da **Carruagem de Ossos
 Brancos**; e um **Gu de bambu-osso** comprável no mercado comum.
 
 **Um método notável:** um imortal do [[17 - Information Path|caminho da informação]] conseguiu
@@ -289,7 +289,7 @@ caminho da lâmina*. Ver [[11 - Sword Path|Sword Path]].
 
 **Um ponto de recurso canônico e memorável:** uma **planície do sabre de outono**, tão saturada de
 marcas de lâmina que **forma Gu do Fio naturalmente** — e cujas marcas são tão densas que **ferem a
-pele de quem pousa ali**. Um imortal de nível 7 passou anos andando descalço por ela tentando subir
+pele de quem pousa ali**. Um imortal de rank 7 passou anos andando descalço por ela tentando subir
 de domínio.
 
 **Fantasmas de lâmina:** um quase-grande-grão-mestre gera, a partir das marcas naturais do lugar, um
@@ -301,7 +301,7 @@ de um golpe imortal de campo de batalha**, só pela densidade de marcas acumulad
 continuamente qi de lâmina, invadindo os órgãos*. Uma ferida que não sangra e continua cortando por
 dentro.
 
-**Gu:** o **Gu do Fio** (mortal, a raiz do caminho) e uma **Asa de Lâmina** (Gu Imortal de nível 7,
+**Gu:** o **Gu do Fio** (mortal, a raiz do caminho) e uma **Asa de Lâmina** (Gu Imortal de rank 7,
 com aparência de borboleta branca do tamanho de um punho).
 
 **O custo escondido do caminho, e ele é sombrio.** A técnica que um praticante inventou para forçar
@@ -331,7 +331,7 @@ lua crescente, fazendo-a **crescer***. É a única mecânica do sistema em que *
 seu fracasso** e fica mais forte por causa dele.
 
 Existe **herança completa** de um grande perito de uma era antiga que dá ao herdeiro *um sistema de
-combate completo e estável*. Praticantes de nível 6 aparecem como figuras comuns — é caminho de
+combate completo e estável*. Praticantes de rank 6 aparecem como figuras comuns — é caminho de
 província, não de elite.
 
 ### Caminho da sombra (shadow path)
@@ -369,7 +369,7 @@ conceitual.
 ### Caminho do selo (seal path)
 
 Uma única ocorrência em toda a obra: um golpe é descrito como *tanto do caminho do espaço quanto do
-caminho do selo*, e ele conseguiu **selar até um Gu mortal de nível 5**, impedindo seu uso.
+caminho do selo*, e ele conseguiu **selar até um Gu mortal de rank 5**, impedindo seu uso.
 
 `—` A obra não diz mais nada. É um caminho **apenas nomeado**.
 
@@ -437,7 +437,7 @@ nascimento:
 
 | Gu | O que faz |
 |---|---|
-| **Gravidez Múltipla** | O **nível é o número de filhos**: nível 1 gera um, nível 2 gêmeos, nível 3 trigêmeos, nível 4 quadrigêmeos, nível 5 quíntuplos |
+| **Gravidez Múltipla** | O **nível é o número de filhos**: rank 1 gera um, rank 2 gêmeos, rank 3 trigêmeos, rank 4 quadrigêmeos, rank 5 quíntuplos |
 | **Engravidar** | Induz a gravidez |
 | **Gravidez Segura** | Protege a gestação |
 | **Aborto** | O oposto |

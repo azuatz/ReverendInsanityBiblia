@@ -26,7 +26,7 @@ sistematizou as receitas, escreveu a teoria, organizou o corpo de golpes. É por
 praticamente ninguém consegue explorar os sonhos que estão surgindo por todo o mundo.
 
 O caminho é descrito como **"além desta era"**: seu golpe mais poderoso — um sono
-inquebrável que ignora **todas** as defesas, inclusive as de uma casa de Gu de nível 9 — não
+inquebrável que ignora **todas** as defesas, inclusive as de uma casa de Gu de rank 9 — não
 tem contramedida conhecida além de possuir erudição e recursos do próprio caminho dos sonhos.
 É um poder para o qual o mundo ainda não tem resposta, porque o mundo ainda não estudou o
 assunto.
@@ -60,7 +60,7 @@ E então vem a frase que define o caminho inteiro:
 > com sucesso o reino de sonho dela.==
 
 Não há segunda via. Nem vasculhar almas serve — a obra faz questão de registrar o caso de um
-poder de nível 9 que roubava memórias e experiências de cultivo alheias e que, **mesmo assim,
+poder de rank 9 que roubava memórias e experiências de cultivo alheias e que, **mesmo assim,
 não conseguia elevar seu domínio diretamente como os reinos de sonho fazem**; ele precisou de
 eras de acúmulo para chegar onde chegou. Memória não é compreensão.
 
@@ -120,7 +120,7 @@ marcas de sonho faz com a carne:
 - O corpo **dura dezoito horas** e depois **detona, virando um reino de sonho**. Um corpo
   saturado de marcas de sonho é um reino de sonho em estado comprimido.
 - Enquanto dura, ele **potencializa os golpes de sonho** do usuário a ponto de afetar um
-  imortal de nível 8.
+  imortal de rank 8.
 
 Ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] e [[16 - Dao Marks|Dao Marks]].
 
@@ -136,9 +136,9 @@ sonho" é a condição da era imatura do caminho, não uma lei eterna. (ded.)
   os reinos de sonho e usar o acúmulo de todos os que já sonharam vira "um rei entre reis
   imortais, um Venerável acima dos Veneráveis". A profecia que circula pelas cinco regiões diz
   que essa figura ainda vai nascer — e é por causa dela que **quase todas as superforças e
-  potências de nível 8 do mundo passaram a pesquisar o caminho ao mesmo tempo**.
-- **Antes dela, o teto do mundo é nível 8.** A obra registra isso literalmente: até o
-  surgimento dessa figura, nível 8 era o pico da força de combate do mundo imortal.
+  potências de rank 8 do mundo passaram a pesquisar o caminho ao mesmo tempo**.
+- **Antes dela, o teto do mundo é rank 8.** A obra registra isso literalmente: até o
+  surgimento dessa figura, rank 8 era o pico da força de combate do mundo imortal.
 - **E o preço político.** Como os sonhos afloram nas cinco regiões ao mesmo tempo e viram o
   prêmio de uma guerra mundial, o efeito colateral do caminho em escala é que as superforças
   **param de olhar para o mundo real**. Um caminho de exploração pessoal produz, em escala
@@ -168,8 +168,7 @@ problema psicológico, não apenas mágico.
 Estas são as regras mais concretas e mais jogáveis do caminho:
 
 - **Entrar exige um Gu ou golpe do caminho dos sonhos** — ou o substituto principal, um golpe
-  de sonho construído sobre um núcleo do [[16 - Wisdom Path|caminho da sabedoria]]. Um Gu de nível
-  5 permite até a **mortais** entrarem, dormindo.
+  de sonho construído sobre um núcleo do [[16 - Wisdom Path|caminho da sabedoria]]. Um Gu de rank 5 permite até a **mortais** entrarem, dormindo.
 - **O intruso assume o papel de um personagem já existente no sonho** — e o **nível real dele
   é irrelevante**. Um cultivador poderoso pode acordar como um camponês.
 - **"Morrer" no sonho fere a ALMA.** O dano é cumulativo até estilhaçar — o que significa morte
@@ -234,7 +233,7 @@ O caminho é imaturo, e isso aparece no catálogo: há poucos Gu individuais e m
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Selo do Sonho ⭐ | 8 | Núcleo de uma casa de Gu; escraviza até quatro cultivadores de nível 8 |
+| Selo do Sonho ⭐ | 8 | Núcleo de uma casa de Gu; escraviza até quatro cultivadores de rank 8 |
 | Asas do Sonho ⭐ | 6 | Só existe dentro de sonhos; consome espírito, não essência |
 | Viagem de Sonho ⭐ | 6 | Exploração segura de reinos de sonho |
 | Desvendar Sonho | comum | Entrega a resposta do desafio da fase atual de um reino |
@@ -264,12 +263,12 @@ brutal entre dois patamares.
 
 | Faixa | O que o caminho entrega |
 |---|---|
-| **Ranks 1–3 (mortal)** | O que sessenta anos de pesquisa de um clã grande produziram: **pouco mais de uma dúzia** de Gu de sonho, todos de nível 3 ou abaixo, e **mais da metade deles de utilidade extremamente limitada** — só quatro ou cinco realmente serviam para explorar sonhos. Esses Gu **não têm forma física**: existem só na mente |
+| **Ranks 1–3 (mortal)** | O que sessenta anos de pesquisa de um clã grande produziram: **pouco mais de uma dúzia** de Gu de sonho, todos de rank 3 ou abaixo, e **mais da metade deles de utilidade extremamente limitada** — só quatro ou cinco realmente serviam para explorar sonhos. Esses Gu **não têm forma física**: existem só na mente |
 | **Rank 5** | O degrau que abre a porta para gente comum: um travesseiro que permite a **mortais** entrarem em reinos de sonho dormindo |
 | **Faixa mortal em geral** | Serve para explorar reinos que **já afloraram** no mundo físico. E só. Enquanto os sonhos não afloram em massa, Gu mortais são quase inúteis — é por isso que as superforças não exploram sonhos em massa desde já |
 | **Rank 6 (primeiro degrau imortal)** | O salto real. Só Gu Imortais de sonho permitem explorar reinos **que ainda não afloraram**, e só Gu Imortais de sonho **têm corpo físico** — abaixo disso o caminho é literalmente imaterial. São tão raros que "dá para contar nas mãos" |
-| **Rank 8** | O que a obra mostra no alto: um selo de sonho usado como núcleo de casa de Gu Imortal, capaz de **escravizar até quatro cultivadores de nível 8**. E o golpe que induz sono inquebrável já corrói uma estrutura de nível 9 |
-| **Rank 9** | `—` A obra **não descreve** nenhum Gu de sonho de nível 9 na era atual. O que ela promete é a figura futura que dominaria o assunto inteiro |
+| **Rank 8** | O que a obra mostra no alto: um selo de sonho usado como núcleo de casa de Gu Imortal, capaz de **escravizar até quatro cultivadores de rank 8**. E o golpe que induz sono inquebrável já corrói uma estrutura de rank 9 |
+| **Rank 9** | `—` A obra **não descreve** nenhum Gu de sonho de rank 9 na era atual. O que ela promete é a figura futura que dominaria o assunto inteiro |
 
 > [!warning] O substituto que muda o jogo
 > Existe uma **rota alternativa** e ela é o segredo prático mais valioso do caminho: monta-se
@@ -284,7 +283,7 @@ brutal entre dois patamares.
 ### Golpes de assinatura, com o mecanismo
 
 - **Conduzir a alma ao sonho** — o sono inquebrável. Ignora **todas** as defesas conhecidas,
-  inclusive as de uma casa de Gu de nível 9, e não tem contramedida além de possuir erudição e
+  inclusive as de uma casa de Gu de rank 9, e não tem contramedida além de possuir erudição e
   recursos do próprio caminho. Assumir forma fantasma não salva: os Gu da borda continuam
   sendo devorados. É, na era atual, o golpe mais impune do mundo.
 - **Desvendar sonho** — resolve a fase atual de um reino. Entrega uma resposta **precisa e
@@ -303,7 +302,7 @@ brutal entre dois patamares.
 **Em combate**, o caminho é praticamente imbatível na era atual, e isso é dito com todas as
 letras. O golpe que induz sono inquebrável ignora todas as defesas conhecidas. Nenhuma casa de
 Gu resiste a ficar presa num reino de sonho sem erudição do caminho — confirmado em dois
-níveis distintos, incluindo uma estrutura de nível 9 que foi **corroída** ao cair num sonho.
+níveis distintos, incluindo uma estrutura de rank 9 que foi **corroída** ao cair num sonho.
 Assumir forma fantasma não resolve: os Gu da borda continuam sendo devorados.
 
 **Fora de combate**, o caminho é a chave de duas coisas raríssimas:

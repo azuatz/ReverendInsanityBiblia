@@ -116,7 +116,7 @@ E agora o achado:
 > redor*. O conflito entre os dois caminhos **foi resolvido**.
 
 A obra é explícita sobre a dificuldade: *é muito difícil conseguir isso; mesmo Gu Imortais de
-nível 8 teriam problemas com isso*. E registra que a herança de informação de onde aquilo veio
+rank 8 teriam problemas com isso*. E registra que a herança de informação de onde aquilo veio
 tinha **muitos métodos que miram as marcas do Dao** diretamente.
 
 O que isso significa, dito sem rodeios: **o caminho da informação é o único que consegue
@@ -179,13 +179,13 @@ a faculdade inata que passa a funcionar sem Gu nenhum — nomeia refino, fogo, s
 **Informação não está nela.**
 
 O que a obra dá no lugar é um efeito equivalente por outra via, e ele é forte: **um imortal de
-nível 8 do caminho chegou ao topo sem clã e sem recursos porque possuía uma montanha flutuante
+rank 8 do caminho chegou ao topo sem clã e sem recursos porque possuía uma montanha flutuante
 feita pelo homem, saturada de marcas de informação, "equivalente a meio domínio recluso de céu e
 terra"**. Neste caminho, o acúmulo que importa não fica no corpo — fica no **terreno**. (ded.)
 
 ### O que o caminho vira no topo
 
-- **Ele para de coletar e passa a fabricar.** Um grande perito de nível 8 não só reúne pistas na
+- **Ele para de coletar e passa a fabricar.** Um grande perito de rank 8 não só reúne pistas na
   escala de um campo de batalha inteiro: ele **forja provas falsas convincentes** e **limpa a
   cena** de todos os traços perceptíveis. No topo, o caminho da informação decide qual é a
   versão dos fatos.
@@ -208,7 +208,7 @@ terra"**. Neste caminho, o acúmulo que importa não fica no corpo — fica no *
 
 - **A essência ou o significado verdadeiro do caminho** nunca é enunciado. Só há a
   caracterização funcional: acordos e coleta de inteligência.
-- **Nenhum golpe de nível 9 do caminho é descrito**, nem golpe criado por um Venerável —
+- **Nenhum golpe de rank 9 do caminho é descrito**, nem golpe criado por um Venerável —
   ao contrário do [[24 - Human Path|caminho humano]], em que todos os Veneráveis têm um.
 - **Nenhum criador.** O caminho apenas "emerge" na Antiguidade Medieval, junto com outros sete.
 
@@ -360,7 +360,7 @@ A outra metade do caminho.
   imortais — trocar Gu de informação é o gesto formal de abrir um canal.
 - **Blindagem e negação existem, e são caras.** Golpes de campo de batalha normalmente **impedem
   pedir reforço** por Gu de informação; uma formação específica isola golpes imortais do caminho de
-  níveis 6 e 7; certos domínios simplesmente **desligam** os métodos de imortais de nível 7,
+  níveis 6 e 7; certos domínios simplesmente **desligam** os métodos de imortais de rank 7,
   embora Gu mortais de carta ainda funcionem lá dentro; e tempestades de marcas de estrela
   interrompem a comunicação. Mas nada disso é absoluto: existem técnicas imortais capazes de
   transmitir **de dentro de uma formação**.
@@ -496,7 +496,7 @@ conexões**. As consequências documentadas:
   *porque a aliança criada com ele não podia ser quebrada, essa era a chave para ganhar a confiança
   de imortais do lado demoníaco*, que desconfiam ainda mais uns dos outros.
 - Usos comerciais concretos registrados: viabilizar um leilão de escala inédita firmando acordo com
-  cinco potências de nível 8; permitir a um perseguido **eliminar a inimizade dos rivais** e reunir
+  cinco potências de rank 8; permitir a um perseguido **eliminar a inimizade dos rivais** e reunir
   aliados; selar irmandade jurada; garantir transações e **dissipar suspeitas**; permitir que dois
   territórios se conectassem por um par de Gu.
 
@@ -522,7 +522,7 @@ no mundo dos mortais, sem via de ascensão à imortalidade** — e um topo estra
 | **Rank 6 (primeiro degrau imortal)** | Os juramentos **reutilizáveis** e ancorados no mundo: o que jura por uma montanha e o que jura de frente para o mar. E o Gu que faz as duas partes **sentirem a situação uma da outra**. É a faixa que sustenta um modelo de negócio inteiro |
 | **Rank 7** | A faixa dos efeitos anômalos: o Gu de informação **com efeito de escravização**, cujo poder varia conforme a **reputação do dono**; e o selo que **sela outro Gu Imortal** dentro de uma membrana rochosa ao preço de ficar selado junto |
 | **Rank 8** | O grande perito: reunir pistas na escala de um campo de batalha inteiro, conversas secretas imunes a terceiros, **forjar provas falsas convincentes**, comandar golpes de campo de batalha e operar Casas de Gu Imortal do caminho |
-| **Rank 9** | `—` **A obra não descreve nenhum Gu nem golpe de nível 9 do caminho da informação**, e nenhum Venerável deixou um golpe dele. É lacuna canônica declarada |
+| **Rank 9** | `—` **A obra não descreve nenhum Gu nem golpe de rank 9 do caminho da informação**, e nenhum Venerável deixou um golpe dele. É lacuna canônica declarada |
 
 Duas notas de manejo que a tabela não cabe:
 
@@ -543,11 +543,11 @@ Duas notas de manejo que a tabela não cabe:
 | **Grão-mestre** | Passa a imitar efeitos de outros caminhos; exigido (junto com grão-mestria em escravização) para usar o Gu da Restrição de Reputação contra alvos de grande porte |
 | **Quase-grande-grão-mestre** | **Contornar** as restrições de um acordo sofrendo apenas ferimentos leves. Ainda precisa de **anos** para quebrar um acordo bem redigido |
 | **Grande grão-mestre** | O patamar de "quem consegue quebrar acordos" — ainda com prazo de anos |
-| **Grande perito (nível 8)** | Reunir pistas na escala de um campo de batalha inteiro; **conversas secretas imunes a terceiros**; **forjar provas falsas convincentes**; comandar golpes de campo de batalha |
+| **Grande perito (rank 8)** | Reunir pistas na escala de um campo de batalha inteiro; **conversas secretas imunes a terceiros**; **forjar provas falsas convincentes**; comandar golpes de campo de batalha |
 
 ## Praticantes notáveis (sem enredo)
 
-- **A imortal do aluguel de juramentos** — imortal de nível 7, quase-grande-grão-mestra do caminho.
+- **A imortal do aluguel de juramentos** — imortal de rank 7, quase-grande-grão-mestra do caminho.
   O caso mais instrutivo do vault inteiro sobre **como um caminho fraco em combate se torna
   poderoso**: ela era cultivadora de madeira e terra, e **virou imortal do caminho da informação ao
   obter o Gu da Promessa da Montanha e torná-lo seu Gu núcleo** — sem fundação sólida no caminho, e
@@ -555,11 +555,11 @@ Duas notas de manejo que a tabela não cabe:
   usava técnicas de madeira. E demonstra a dupla face do caminho: *não só era hábil em fazer
   acordos, **também era capaz de quebrá-los*** — violou um acordo e continuou viva, porque havia
   preparado antes um golpe de tempo que adiava o contragolpe.
-- **O comandante dos rumores** — imortal de nível 8, grande perito do caminho. Sua força de combate
-  bruta é "de camada superior de nível 8", mas **com a vantagem do caminho ela cresce
+- **O comandante dos rumores** — imortal de rank 8, grande perito do caminho. Sua força de combate
+  bruta é "de camada superior de rank 8", mas **com a vantagem do caminho ela cresce
   continuamente**. É dele o conjunto da gaiola de rumores.
 - **A solitária do pico artificial** — mulher lendária, grande perita já morta há muito.
-  Cultivadora **sem clã e sem recursos**: a razão de ter chegado ao nível 8 foi possuir uma
+  Cultivadora **sem clã e sem recursos**: a razão de ter chegado ao rank 8 foi possuir uma
   **montanha flutuante feita pelo homem**, saturada de marcas do caminho, "equivalente a **meio
   domínio recluso de céu e terra**". É o exemplo canônico de que **um território de marcas pode
   substituir recursos e linhagem**.
@@ -583,14 +583,14 @@ Duas notas de manejo que a tabela não cabe:
   é citado **uma única vez, sem nenhuma descrição** — `—`.
 - **Uma montanha-domínio de livros**, também um domínio recluso do caminho, usada para **coletar a
   informação de dois campos de batalha ao mesmo tempo**.
-- **Uma caverna-céu literária** — a abertura imortal de um imortal de nível 8 do caminho,
+- **Uma caverna-céu literária** — a abertura imortal de um imortal de rank 8 do caminho,
   transformada em mundo habitado. Como o ambiente é feito de marcas de informação, ele **produz
   naturalmente recursos do caminho**, e por isso *os Mestres Gu e imortais de lá cultivavam
   principalmente o caminho da informação*. Ali, **cada vez que alguém escreve uma grande peça
   literária, é recompensado pelo próprio mundo**; quase todos possuem métodos para observar o "qi
   literário" e o "qi de talento" alheios; e o monitoramento é rigoroso a ponto de detectar qualquer
   invasão com antecedência.
-- **Casas de Gu Imortal do caminho** — uma de nível 8 que contém **placas com nomes** formando uma
+- **Casas de Gu Imortal do caminho** — uma de rank 8 que contém **placas com nomes** formando uma
   rede de informação espalhada pelas cinco regiões, e que tem **defesas fracas**; uma especializada
   em reunir informação; e uma **torre de informação** com Gu mortais em cada andar, projetada
   deliberadamente para **não** armazenar o acervo em si mesma — de modo que destruí-la não apague
@@ -603,7 +603,7 @@ Duas notas de manejo que a tabela não cabe:
   há nenhuma passagem que os enuncie. Só existe a caracterização funcional ("acordos", "coleta de
   inteligência").
 - O nível de vários Gu importantes do caminho, inclusive os três contra-Gu mortais.
-- **Não há golpe de nível 9 deste caminho descrito**, nem golpe do caminho criado por um Venerável
+- **Não há golpe de rank 9 deste caminho descrito**, nem golpe do caminho criado por um Venerável
   — ao contrário do [[24 - Human Path|caminho humano]], em que todos os Veneráveis têm um.
 - O segundo domínio recluso do caminho, citado uma vez e nunca descrito.
 - Se o Gu do voto venenoso é formalmente deste caminho. A obra sempre o descreve **por comparação**

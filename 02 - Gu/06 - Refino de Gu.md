@@ -63,7 +63,7 @@ Duas propriedades definem a experiência:
 - **Não há como pausar.** Se o Mestre interrompe antes de completar, o Gu expele a essência
   injetada e **reverte todo o progresso** em algumas horas. Um refino comum leva horas
   contínuas de concentração.
-- **O custo é medido em pedras primordiais.** Refinar um Gu banal de nível 1 consome entre
+- **O custo é medido em pedras primordiais.** Refinar um Gu banal de rank 1 consome entre
   cinco e dezesseis pedras, dependendo do bicho. Dois fatores determinam o custo: a
   **aptidão do Mestre** (quanto mais rápido ele regenera essência, mais barato sai) e a
   **força de vontade do Gu**.
@@ -110,18 +110,18 @@ de nível baixo: **liberar um traço da aura de um Gu de nível muito superior**
 
 A vontade do Gu-alvo paralisa — a obra usa a imagem do rato diante do gato — e o refino que
 levaria horas se resolve em segundos ou minutos, quase sem gasto. Anciãos de clã emprestam
-rotineiramente a aura de um Gu de nível 3 para facilitar o refino do [[05 - Gu Vital|Gu Vital]] de um
+rotineiramente a aura de um Gu de rank 3 para facilitar o refino do [[05 - Gu Vital|Gu Vital]] de um
 protegido iniciante. Em campo, expor a aura faz um Gu selvagem se render na hora.
 
-Em escala, isso é devastador: a aura latente de um Gu de nível 6 refina **centenas** de Gu
-de nível 1 e dezenas de nível 2 em minutos. O limite deixa de ser a velocidade e passa a ser
+Em escala, isso é devastador: a aura latente de um Gu de rank 6 refina **centenas** de Gu
+de rank 1 e dezenas de rank 2 em minutos. O limite deixa de ser a velocidade e passa a ser
 a capacidade da abertura de quem recebe (ver [[04 - Onde um Gu Mora|Onde um Gu Mora]]). Um
 caso extremo registrado leva a técnica além: usada com força suficiente, ela permite
 refinar — isto é, roubar — um Gu **já vinculado a outra pessoa viva**, no nível mortal.
 
 **Mas a técnica tem um teto, e ele é abrupto.** A obra mede o alcance da aura de um Gu de
-nível 6 assim: ela é esmagadora contra Gu de **níveis 1 a 4**; contra Gu de **nível 5** o
-efeito já é *menor*; e contra outro Gu de **nível 6 não há intimidação nenhuma**. A
+rank 6 assim: ela é esmagadora contra Gu de **níveis 1 a 4**; contra Gu de **rank 5** o
+efeito já é *menor*; e contra outro Gu de **rank 6 não há intimidação nenhuma**. A
 comparação que o texto faz é sociológica: alguém muito superior desperta reverência,
 alguém apenas um pouco melhor desperta rivalidade. A consequência prática é que o atalho
 funciona esplendidamente para armar recrutas em massa e **não serve para nada** no
@@ -130,12 +130,12 @@ patamar em que a pessoa que empresta a aura efetivamente joga.
 ### O que a subjugação custa
 
 Subjugar é a operação barata do sistema, e é bom fixar a ordem de grandeza: um Gu banal de
-nível 1 custa **cinco a dezesseis pedras primordiais** e algumas horas. Não há receita, não há
+rank 1 custa **cinco a dezesseis pedras primordiais** e algumas horas. Não há receita, não há
 material, não há conjunto a perder. O que existe é o risco de contra-ataque e a
 impossibilidade de pausar.
 
 A dificuldade sobe com o nível do bicho e, principalmente, com a **vontade** que mora nele
-(ver a tabela acima). Do nível 4 em diante, subjugar já é serviço de profissional. E para
+(ver a tabela acima). Do rank 4 em diante, subjugar já é serviço de profissional. E para
 Gu Imortais a subjugação simplesmente **não funciona pela força**, se o Gu já pertence a
 outra pessoa: ver [[16 - Gu Imortais|Gu Imortais]].
 
@@ -144,10 +144,10 @@ outra pessoa: ver [[16 - Gu Imortais|Gu Imortais]].
 # B. Fabricação por receita — produzir um Gu que ainda não existe
 
 Aqui muda tudo. Não há bicho para vencer: há uma receita, uma pilha de materiais e uma
-sequência de etapas que pode ter **mais de dez mil passos**. Um único Gu de nível 5 pode
+sequência de etapas que pode ter **mais de dez mil passos**. Um único Gu de rank 5 pode
 levar **onze anos** para ser produzido, mesmo por uma lenda viva; no nível imortal, fala-se
 em **décadas a séculos**, e cada tentativa consome um conjunto completo de materiais
-imortais — um único conjunto de nível 6 já consome quase toda a riqueza líquida de um
+imortais — um único conjunto de rank 6 já consome quase toda a riqueza líquida de um
 imortal médio.
 
 Esta metade da nota explica **como o processo funciona**. As receitas que a obra chega a
@@ -201,14 +201,14 @@ subjugar é uma tarde, fundir é **um passo** de uma receita, fabricar é a rece
 | 7 (Imortal) | idem | a obra não numera a fusão isolada | **cerca de 0,1%** comum · **5%** para especialista |
 | 8 (Imortal) | idem | a obra não numera a fusão isolada | **cerca de 0,01%** |
 
-> [!warning] Por que o nível 5 mortal *parece* mais difícil que o nível 6 imortal
-> Comparando os números crus, produzir um Gu mortal de nível 5 (abaixo de 1 em 1.000, ou
-> 0,1%) sairia **dez vezes mais difícil** que produzir um Gu Imortal de nível 6 (cerca de
-> 1%) — o que contradiz tudo o que o resto do material diz sobre o nível 6 ser uma mudança
+> [!warning] Por que o rank 5 mortal *parece* mais difícil que o rank 6 imortal
+> Comparando os números crus, produzir um Gu mortal de rank 5 (abaixo de 1 em 1.000, ou
+> 0,1%) sairia **dez vezes mais difícil** que produzir um Gu Imortal de rank 6 (cerca de
+> 1%) — o que contradiz tudo o que o resto do material diz sobre o rank 6 ser uma mudança
 > de categoria.
 >
 > A contradição é aparente, e desaparece quando se compara o que é comparável: o **1%** do
-> nível 6 é a chance de **uma fusão** dar certo; o **0,1%** do nível 5 é a chance de a
+> rank 6 é a chance de **uma fusão** dar certo; o **0,1%** do rank 5 é a chance de a
 > **cadeia inteira** de fusões e preparos chegar ao fim. Um passo contra uma linha de
 > produção. A coluna do meio e a da direita nunca devem ser comparadas entre si.
 >
@@ -219,7 +219,7 @@ Duas âncoras de mercado que valem mais que as porcentagens na hora de orçar: a
 prática mais citada é de **cinquenta a sessenta tentativas por sucesso**, e o teto absoluto
 documentado — receita própria, domínio quase-supremo em refino, apoio institucional e sorte
 reforçada — é de **50%**. É por isso que apenas quem possui território produtivo e capital
-monta um conjunto completo de Gu de nível 5, e por que produzir um Gu Imortal não é ação de
+monta um conjunto completo de Gu de rank 5, e por que produzir um Gu Imortal não é ação de
 personagem: é projeto de facção.
 
 Esta tabela é a versão explicada; a versão de consulta, ao lado dos demais números do
@@ -244,9 +244,9 @@ mês**, para não acumular dano de alma. É um limite de ritmo, não de talento.
 
 Existem garantias compráveis, todas caras:
 
-- Um Gu consumível de nível 5, hoje extinto, que **garantia** o sucesso do refino em
+- Um Gu consumível de rank 5, hoje extinto, que **garantia** o sucesso do refino em
   andamento.
-- Um Gu de nível 4 que **protege o Gu núcleo** mesmo em caso de falha.
+- Um Gu de rank 4 que **protege o Gu núcleo** mesmo em caso de falha.
 - Gu que elevam a taxa de sucesso, mais caros que os Gu que produzem.
 - Refinar em terra sagrada — existe uma região inteira dedicada aos mestres do refino.
 - E, no nível imortal, as **marcas do sucesso** — o item mais valioso da profissão, que
@@ -279,7 +279,7 @@ retira **30** à força para os próprios fins e deixa **6** para os melhores co
 furam a regra de unicidade — se aquele Gu Imortal já existe no mundo, a tentativa falha
 mesmo assim, no último passo.
 
-**Alcance e economia.** Uma marca cobre até o nível 6; níveis 7 e 8 exigem mais de uma. São
+**Alcance e economia.** Uma marca cobre até o rank 6; níveis 7 e 8 exigem mais de uma. São
 **consumidas no uso**, e são **intransferíveis e incomercializáveis** — nem a maior
 autoridade do mundo consegue extrair uma à força de alguém, e já tentou muitas vezes. A
 única forma de se beneficiar da marca de outra pessoa é **contratar essa pessoa** para
@@ -299,8 +299,8 @@ coisa**.
 
 Aplicações documentadas:
 
-- **Obter um Gu raro decompondo um Gu comum.** Um Gu de nível 4 de um caminho pode ser
-  revertido num Gu de nível 3 do mesmo caminho, se as leis forem compatíveis. Uma receita
+- **Obter um Gu raro decompondo um Gu comum.** Um Gu de rank 4 de um caminho pode ser
+  revertido num Gu de rank 3 do mesmo caminho, se as leis forem compatíveis. Uma receita
   registrada, com mais de vinte ingredientes e trinta passos, tem taxa acima de 80% — muito
   melhor que qualquer refino direto.
 - **Resultados que variam conforme o Gu usado para reverter.** Um devolve duas unidades do
@@ -308,7 +308,7 @@ Aplicações documentadas:
   outro devolve um resultado **aleatório**.
 - **Digerir Gu hostis implantados no próprio corpo**, liberando componentes e às vezes
   revelando segredos do criador.
-- **Recuperar a força de um Gu Imortal consumível já gasto** — funciona até o nível 8, e o
+- **Recuperar a força de um Gu Imortal consumível já gasto** — funciona até o rank 8, e o
   material principal pode ser o próprio alvo que o Gu afetou.
 - **Extrair a vontade do céu** de um Gu selado, na forma mais avançada da técnica.
 
@@ -376,7 +376,7 @@ historicamente baixíssimas da profissão se explicam sozinhas.
 ## Na vida de um Mestre Gu
 
 - **Refinar por procuração é profissão estabelecida**, com bairros inteiros dedicados a ela
-  nas cidades grandes. Um único Gu de nível 5 pode levar **onze anos** para ser refinado,
+  nas cidades grandes. Um único Gu de rank 5 pode levar **onze anos** para ser refinado,
   mesmo por uma lenda viva.
 - **Multitarefa é a medida do talento.** Refinar dois Gu simultaneamente já destaca alguém;
   três é raro; quatro é o teto excepcional. Atenção: este limite é de **tarefas
@@ -393,8 +393,8 @@ historicamente baixíssimas da profissão se explicam sozinhas.
   mesmo acima do próprio nível.
 
 > [!example] Caso mecânico
-> Um Gu de nível 5 gravemente danificado foi subjugado em quinze minutos por um cultivador
-> de nível 4 que estava, ele próprio, sob supressão. O que tornou isso possível não foi
+> Um Gu de rank 5 gravemente danificado foi subjugado em quinze minutos por um cultivador
+> de rank 4 que estava, ele próprio, sob supressão. O que tornou isso possível não foi
 > poder bruto: foi a combinação de **alvo debilitado** com **fundação de alma
 > desproporcional**. É a demonstração de que, no refino, o recurso decisivo é a solidez da
 > alma, não o nível.

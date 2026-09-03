@@ -68,12 +68,12 @@ Existe uma linhagem completa de Gu para isso, difundida pelas cinco regiões, e 
 O primeiro degrau é o que a mesa mais vai usar, e ele funciona como um *buff* com juros. Ativado, dá resistência a impacto, regeneração acelerada e resistência a água, vento e veneno; enquanto durar, o usuário luta como um cadáver que não sente dor. Mas **cada uso consome o sangue do usuário**, e o uso prolongado converte a transformação em permanente. O jeito correto de operar o Gu é pareá-lo com um Gu de reposição de sangue, que contém o efeito colateral — exemplo perfeito da regra geral do sistema, de que todo Gu poderoso precisa de um Gu acompanhante para segurar o próprio custo.
 
 > [!warning] Os estágios do meio não são descritos
-> A obra nomeia os quatro degraus da escada, mas **só detalha o primeiro e o último**. O que exatamente os Gu de nível 3 e 4 acrescentam nunca é dito — é lacuna real do texto, não omissão desta nota. Se você precisar preencher na mesa, preencha sem medo de contradizer o cânone.
+> A obra nomeia os quatro degraus da escada, mas **só detalha o primeiro e o último**. O que exatamente os Gu de rank 3 e 4 acrescentam nunca é dito — é lacuna real do texto, não omissão desta nota. Se você precisar preencher na mesa, preencha sem medo de contradizer o cânone.
 
-No topo da escada, o nível 5 se abre em **cinco variantes paralelas**, os Cinco Grandes Zumbis Voadores: *asura*, *demônio celestial*, *espectro de sangue* (**blood wight**), *pesadelo* e *praga*. São cinco especializações distintas, e a obra detalha o *asura*: defesa e capacidade de recuperação **multiplicadas várias vezes**, dor quase abolida — o portador é cortado por uma lâmina, não sente nada, e o que escorre da ferida é sangue verde — e um golpe próprio, a *Transformação Asura*, que faz brotar do corpo **seis braços grossos como se fundidos em bronze**. Existe ainda um **sexto** Gu voador, raríssimo e fora da lista clássica, o *zumbi chefe da terra*.
+No topo da escada, o rank 5 se abre em **cinco variantes paralelas**, os Cinco Grandes Zumbis Voadores: *asura*, *demônio celestial*, *espectro de sangue* (**blood wight**), *pesadelo* e *praga*. São cinco especializações distintas, e a obra detalha o *asura*: defesa e capacidade de recuperação **multiplicadas várias vezes**, dor quase abolida — o portador é cortado por uma lâmina, não sente nada, e o que escorre da ferida é sangue verde — e um golpe próprio, a *Transformação Asura*, que faz brotar do corpo **seis braços grossos como se fundidos em bronze**. Existe ainda um **sexto** Gu voador, raríssimo e fora da lista clássica, o *zumbi chefe da terra*.
 
 > [!note] Para o design
-> Cinco variantes de topo numa mesma linha de progressão é um presente para quem monta classes: a rota é uma só até o nível 4, e no nível 5 o jogador escolhe **qual tipo de morto-vivo quer ser**. E o degrau de entrada — um Gu barato de nível 2 que dá resistência temporária e cobra sangue — é um dos melhores itens introdutórios do cenário: acessível, poderoso, e com um contador escondido correndo desde o primeiro uso.
+> Cinco variantes de topo numa mesma linha de progressão é um presente para quem monta classes: a rota é uma só até o rank 4, e no rank 5 o jogador escolhe **qual tipo de morto-vivo quer ser**. E o degrau de entrada — um Gu barato de rank 2 que dá resistência temporária e cobra sangue — é um dos melhores itens introdutórios do cenário: acessível, poderoso, e com um contador escondido correndo desde o primeiro uso.
 
 ### O marcador visível do ponto sem volta
 
@@ -91,13 +91,13 @@ Duas regras práticas que acompanham:
 
 Ao lado da rota voluntária existe a ecologia dos zumbis **fabricados e selvagens**, que é o que os personagens de nível baixo encontram no mundo. É outro assunto mecânico: aqui os zumbis são criaturas, não carreiras.
 
-Uma linhagem específica de Gu produz zumbis a partir de cadáveres — um Gu-coração de nível 3, frio e duro como bronze, que gera consumíveis de nível 2 aplicáveis a corpos mortos. O que distingue essa criação de qualquer outra: **os zumbis assim produzidos evoluem**, enquanto as criaturas geradas por Gu-mãe comuns não evoluem. A evolução é por dieta — anos bebendo sangue — e se lê **na cor do cabelo**:
+Uma linhagem específica de Gu produz zumbis a partir de cadáveres — um Gu-coração de rank 3, frio e duro como bronze, que gera consumíveis de rank 2 aplicáveis a corpos mortos. O que distingue essa criação de qualquer outra: **os zumbis assim produzidos evoluem**, enquanto as criaturas geradas por Gu-mãe comuns não evoluem. A evolução é por dieta — anos bebendo sangue — e se lê **na cor do cabelo**:
 
 | Estágio | Força aproximada | Relação com o sol | Como evolui |
 |---|---|---|---|
 | Cabelo branco | mais fraco que uma fera comum; ataca em padrão fixo e fácil de desviar | sofre dano e fica imóvel de dia | anos bebendo sangue |
 | Cabelo preto | comparável a um rei-fera de cem | ainda sofre dano, mas não o teme | anos bebendo sangue |
-| Cabelo verde | comparável a um rei-fera de mil, à noite | — | exige um **cadáver de nível 4 que tenha usado Gu de força em vida**, mais um a dois anos de sangue fresco |
+| Cabelo verde | comparável a um rei-fera de mil, à noite | — | exige um **cadáver de rank 4 que tenha usado Gu de força em vida**, mais um a dois anos de sangue fresco |
 | Cabelo azul | o topo documentado | — | — |
 
 A escala de reis-fera usada como referência está em [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]]. Para calibrar o quanto o degrau azul é raro, basta o dado social: um teste de herança que exigia um exército de zumbis aceitava **um único** cabelo-azul no lugar de contingentes inteiros dos outros três.
@@ -123,7 +123,7 @@ Tudo o que define um zumbi imortal decorre de um único fato: **a abertura dele 
 
 - **Deixa de produzir energia.** A abertura viva de um imortal gera essência imortal sozinha, para sempre; a morta não gera nada. O zumbi repõe energia **exclusivamente** convertendo pedras de essência imortal compradas — ou seja, ele troca uma renda vitalícia por uma conta de despesas. Numa guerra de atrito longa contra um vivo, ele perde por aritmética.
 - **Deixa de crescer.** A terra dentro da abertura morta **se desintegra em intervalos fixos**, pedaço por pedaço. Existe um material de refino comum — um óleo negro — que espalhado ali dentro **retarda** a desintegração; ele é banal no mercado e desesperadamente importante para um zumbi. E os recursos guardados numa abertura morta se deterioram com o tempo, porque a energia da morte age sobre eles.
-- **Deixa de avançar o cultivo.** Este é o preço central, e ele é definitivo. Sem calamidades e tribulações não há [[16 - Dao Marks|dao marks]]; sem dao marks não há progressão no reino imortal. Um zumbi imortal fica congelado no patamar em que morreu, para sempre. A obra registra o caso de um que, depois de tudo o que conquistou, tinha "cultivo real no fundo do nível 6, sem uma única tribulação vencida".
+- **Deixa de avançar o cultivo.** Este é o preço central, e ele é definitivo. Sem calamidades e tribulações não há [[16 - Dao Marks|dao marks]]; sem dao marks não há progressão no reino imortal. Um zumbi imortal fica congelado no patamar em que morreu, para sempre. A obra registra o caso de um que, depois de tudo o que conquistou, tinha "cultivo real no fundo do rank 6, sem uma única tribulação vencida".
 
 **E o que ela ganha em troca — porque a lista não é só de perdas:**
 
@@ -141,13 +141,13 @@ Um catálogo de propriedades que vale como ficha pronta de adversário:
 - **A cabeça é o ponto fraco terminal.** Não o coração: o crânio.
 - **Regenera membros em seis a oito horas** — e a regeneração não é só carne: as dao marks daquele membro precisam ser **repostas junto**, o que faz dela um gasto e não um truque grátis.
 - **O sangue vira verde-jade e gelado.** Detalhe de investigação: isso quebra qualquer rastreamento por parentesco de sangue.
-- **A força de combate cai.** A obra afirma diretamente que a maioria dos zumbis imortais luta **abaixo de um Gu Imortal comum**. O único caso em que ela quantifica a queda é o de uma fera: uma criatura que valia nível 8 em vida ficou no pico do nível 7 depois de morta — ou seja, **um patamar a menos**. Tratar isso como a régua geral dos zumbis imortais é dedução, não texto. **(ded.)**
+- **A força de combate cai.** A obra afirma diretamente que a maioria dos zumbis imortais luta **abaixo de um Gu Imortal comum**. O único caso em que ela quantifica a queda é o de uma fera: uma criatura que valia rank 8 em vida ficou no pico do rank 7 depois de morta — ou seja, **um patamar a menos**. Tratar isso como a régua geral dos zumbis imortais é dedução, não texto. **(ded.)**
 - **Pensa devagar.** É o custo mais sutil e o mais jogável, e vem da mecânica de pensamentos explicada em [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]]: como a produção de pensamentos depende de corpo *e* alma, um corpo morto gera poucos e devagar. Há uma tribulação documentada que derrotou um zumbi imortal **explorando exatamente a lentidão de raciocínio dele**. Daí o hábito dos zumbis fortes de dormir décadas: dormindo quase não se consomem pensamentos, e acumula-se um estoque para gastar de uma vez numa batalha.
 - **A alma definha sem o corpo alimentá-la.** Um corpo morto não nutre a alma que carrega: ela enfraquece e se irrita com facilidade, e precisa de tratamento externo contínuo. Em compensação — e é um dos paradoxos mais úteis do sistema — o corpo morto **comporta uma alma maior** do que um corpo vivo comportaria. Ver [[12 - Soul Path|Soul Path]].
 - **A alma ainda pode ser destruída.** Meio-morto não é invulnerável: dor extrema acumulada **racha a alma**, e uma alma estilhaçada é morte de verdade, sem volta. Desmaios repetidos são o sinal de alerta.
 
 > [!example] Caso mecânico
-> Um zumbi de nível 5 e um oponente vivo, moribundo de velhice, travaram um duelo por dreno mútuo de essência — um mecanismo que suga energia dos dois lados ao mesmo tempo. O zumbi perdeu, e perdeu por aritmética: a abertura morta dele não regenerava nada, enquanto a do adversário, por mais velho que fosse o dono, continuava produzindo. A rota zumbi decidiu a luta antes de a luta começar. É a demonstração mais limpa de que, neste sistema, **estrutura vence força**.
+> Um zumbi de rank 5 e um oponente vivo, moribundo de velhice, travaram um duelo por dreno mútuo de essência — um mecanismo que suga energia dos dois lados ao mesmo tempo. O zumbi perdeu, e perdeu por aritmética: a abertura morta dele não regenerava nada, enquanto a do adversário, por mais velho que fosse o dono, continuava produzindo. A rota zumbi decidiu a luta antes de a luta começar. É a demonstração mais limpa de que, neste sistema, **estrutura vence força**.
 
 ## Voltar atrás: os métodos de revivificação
 
@@ -157,11 +157,11 @@ Não é um beco sem saída — mas nenhuma das saídas é limpa. A obra document
 |---|---|---|
 | **Possessão** | a alma abandona o corpo morto e toma um corpo novo, vivo | exige contato prolongado prévio com o corpo-alvo, e cultivo superior ao dele se for um imortal; a abertura passa a ser a **do corpo tomado**, não a antiga; atrai uma tribulação de retaliação proporcional à "ofensa ao céu" |
 | **Núcleos de origem de parentes** | drenar e fundir os núcleos de origem das aberturas de **vários imortais do mesmo sangue** para montar uma abertura nova | arruína permanentemente cada doador; exige linhagem compatível — contornável **gerando um parente novo** de propósito; purificação incompleta deixa vontades rancorosas dentro do material |
-| **Reascensão com constituição extrema** | um zumbi portador de uma das [[10 - As Dez Constituições Extremas\|Dez Constituições Extremas]] passa por uma **nova** tribulação de ascensão, que purifica o corpo | a tribulação equivale a uma grande tribulação de nível 7 — mais de doze vezes a de uma ascensão já excepcional. É desafiar o destino duas vezes |
+| **Reascensão com constituição extrema** | um zumbi portador de uma das [[10 - As Dez Constituições Extremas\|Dez Constituições Extremas]] passa por uma **nova** tribulação de ascensão, que purifica o corpo | a tribulação equivale a uma grande tribulação de rank 7 — mais de doze vezes a de uma ascensão já excepcional. É desafiar o destino duas vezes |
 | **Fogo do Nirvana** | um golpe imortal do caminho do fogo que alterna o portador **reversivelmente** entre zumbi e vivo, quantas vezes quiser | consome dao marks de fogo do usuário a cada uso; agrava dano de caminho do tempo; quem não cultiva fogo precisa **de outra pessoa** para acioná-lo — ou adaptar a receita para o próprio caminho, o que já foi feito |
 | **Abertura de vida-e-morte** | usa a abertura morta como núcleo e funde vida e morte numa coisa só durante a revivificação | **uso único** por abertura; depois de vivo, certos Gu passam a consumir tempo de vida depressa. Ver o bônus abaixo — é o motivo pelo qual esta linha existe |
-| **"Ressurreição dos Mortos"** | um Gu imortal de nível 8 hipotético, da lei da vida e da morte | **não existe**: é linha de pesquisa. Exigiria dez ou mais corpos de zumbis imortais como material, e 30% de confiança já seria considerado altíssimo |
-| **"Homem Como Antes"** | golpe do caminho do tempo, de nível 6: ressuscita um **morto recente** a partir de uma parte preservada do corpo | custo alto de energia, e é remendo pontual — **não** reverte um estado de zumbi antigo nem confere imunidade a nada |
+| **"Ressurreição dos Mortos"** | um Gu imortal de rank 8 hipotético, da lei da vida e da morte | **não existe**: é linha de pesquisa. Exigiria dez ou mais corpos de zumbis imortais como material, e 30% de confiança já seria considerado altíssimo |
+| **"Homem Como Antes"** | golpe do caminho do tempo, de rank 6: ressuscita um **morto recente** a partir de uma parte preservada do corpo | custo alto de energia, e é remendo pontual — **não** reverte um estado de zumbi antigo nem confere imunidade a nada |
 
 ### A jogada que transforma a maldição em método
 
@@ -177,7 +177,7 @@ Dois detalhes fecham a mecânica. O material usado na revivificação **define a
 > Este é o melhor gancho de campanha de alto nível que o cenário oferece, e ele cabe numa frase: **a maldição é o ingrediente**. Um personagem que morre de velhice, vira morto-vivo, passa décadas congelado e então descobre que aquela condição era o material bruto de uma vantagem que nenhum vivo pode ter — isso é um arco inteiro com começo, meio e fim, e a mesa não precisa de nenhum vilão para movê-lo.
 
 > [!warning] Corpo de zumbi é matéria-prima cobiçada
-> Quando um zumbi imortal morre de vez, a abertura dele se dissipa e **os dao marks se concentram no corpo**. O cadáver vira material imortal de primeira linha — há registro de um corpo de zumbi cujos dao marks se fundiram à carne e o tornaram, literalmente, um material imortal de nível 6. Consequência direta: zumbis imortais são **caçados por peças**, e existiu uma organização que reunia zumbis imortais portadores de constituições extremas como pilares de uma formação ritual gigantesca, cada nó contribuindo com o poder da própria constituição. Ser um zumbi poderoso é ser um depósito ambulante de matéria-prima rara.
+> Quando um zumbi imortal morre de vez, a abertura dele se dissipa e **os dao marks se concentram no corpo**. O cadáver vira material imortal de primeira linha — há registro de um corpo de zumbi cujos dao marks se fundiram à carne e o tornaram, literalmente, um material imortal de rank 6. Consequência direta: zumbis imortais são **caçados por peças**, e existiu uma organização que reunia zumbis imortais portadores de constituições extremas como pilares de uma formação ritual gigantesca, cada nó contribuindo com o poder da própria constituição. Ser um zumbi poderoso é ser um depósito ambulante de matéria-prima rara.
 
 ## O preço final
 

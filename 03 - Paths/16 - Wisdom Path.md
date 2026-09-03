@@ -94,7 +94,7 @@ imagem que a obra usa é a de um sabre usado para cortar legumes.
 
 ### A luz da sabedoria
 
-O ápice do caminho é um Gu de nível 9 que emite a **luz da sabedoria** — um campo que
+O ápice do caminho é um Gu de rank 9 que emite a **luz da sabedoria** — um campo que
 **acelera a colisão de pensamentos** e, com isso, a dedução. Quem está dentro da luz fica
 extraordinariamente inteligente, mas apenas dentro do alcance dela.
 
@@ -127,7 +127,7 @@ Este é o traço mais característico, e a obra é generosa com números:
 | Gu do Segredo Celestial (deduz sem evidências) | cerca de 80% de falha; cada falha consome **10 a 70 anos de vida** |
 | Uma profecia de grande alcance | **50 anos de vida** |
 | Gu de pensamento-estrela em uso ofensivo massivo | anos de vida |
-| O Gu de nível 9 da sabedoria | sabedoria infinita, sempre ao preço de vida |
+| O Gu de rank 9 da sabedoria | sabedoria infinita, sempre ao preço de vida |
 | Um Gu que responde "sim ou não" | **50 anos por resposta**, custo **fixo** — se você tem menos que isso, **morre na hora** |
 
 O último é o exemplo mais brutal de design do sistema inteiro: um custo fixo que não se
@@ -319,7 +319,7 @@ pressupõem um corpo. Ver [[18 - Modificar o Próprio Corpo|Modificar o Próprio
 - **`—` A obra não diz se as rachaduras da mente algum dia se fecham.** O que ela registra é
   que, terminada a convalescença, elas continuavam lá e a velocidade de pensamento continuava
   reduzida — o que sugere sequela permanente (ded.), mas não é afirmado.
-- **`—` Não há Gu do caminho da sabedoria de nível 9 além do próprio Gu da Sabedoria**, e a obra
+- **`—` Não há Gu do caminho da sabedoria de rank 9 além do próprio Gu da Sabedoria**, e a obra
   não descreve o que seria um segundo.
 
 ## Progressão por rank
@@ -327,11 +327,11 @@ pressupõem um corpo. Ver [[18 - Modificar o Próprio Corpo|Modificar o Próprio
 | Faixa | O que o caminho entrega |
 |---|---|
 | **Níveis 1–4** | Gu de pensamento e de memória. Nesta faixa a sabedoria é um **auxílio de trabalho**: lembrar melhor, organizar melhor, tramar melhor. Nada que ganhe um combate |
-| **Nível 5** | O combustível: Gu que **convertem perguntas em pensamentos manipuláveis**. É o degrau em que a dedução deixa de ser talento e vira operação com recurso contável — e há uma conta canônica de conversão: **uma conta de essência imortal produz cem mil pensamentos** com o Gu Imortal correspondente |
-| **Nível 6** | Aplicações: interceptação de ataques físicos com dezenas de milhares de "pensamentos" materializados, e dedução de rastros de heranças |
-| **Nível 7** | Adivinhação de verdade — pergunta direta a céu e terra, resposta sem evidências — e a defesa contra dedução alheia. É também aqui que aparece o custo mais brutal: **cerca de 80% de falha, e cada falha consome de 10 a 70 anos de vida** |
-| **Nível 8** | A casa de Gu que multiplica a capacidade dedutiva, e o Gu de espada feito para **cortar este caminho**. O mundo considera a sabedoria perigosa o bastante para lhe dedicar um contra sob medida |
-| **Nível 9** | A **luz da sabedoria**: um campo que acelera a colisão de pensamentos. Dentro dele, deduzir é questão de semanas onde fora dele seriam anos — e cada minuto custa longevidade |
+| **Rank 5** | O combustível: Gu que **convertem perguntas em pensamentos manipuláveis**. É o degrau em que a dedução deixa de ser talento e vira operação com recurso contável — e há uma conta canônica de conversão: **uma conta de essência imortal produz cem mil pensamentos** com o Gu Imortal correspondente |
+| **Rank 6** | Aplicações: interceptação de ataques físicos com dezenas de milhares de "pensamentos" materializados, e dedução de rastros de heranças |
+| **Rank 7** | Adivinhação de verdade — pergunta direta a céu e terra, resposta sem evidências — e a defesa contra dedução alheia. É também aqui que aparece o custo mais brutal: **cerca de 80% de falha, e cada falha consome de 10 a 70 anos de vida** |
+| **Rank 8** | A casa de Gu que multiplica a capacidade dedutiva, e o Gu de espada feito para **cortar este caminho**. O mundo considera a sabedoria perigosa o bastante para lhe dedicar um contra sob medida |
+| **Rank 9** | A **luz da sabedoria**: um campo que acelera a colisão de pensamentos. Dentro dele, deduzir é questão de semanas onde fora dele seriam anos — e cada minuto custa longevidade |
 
 ### Domínio e as duas portas de entrada
 
@@ -383,8 +383,8 @@ cultivar o caminho do gênio. Ele pode ser o sedutor, ou o astrólogo.
 > | Quem alcança | um Gu Imortal de rank 7 ou 8 | ninguém abaixo de Venerável |
 >
 > Os números famosos — os 80% de falha e os 10 a 70 anos — são do **Segredo Celestial**, que
-> é um Gu de nível 7 → 8. [[12 - Longevidade|Longevidade]] atribui essa mesma estatística a "um Gu de
-> adivinhação de nível 9"; é a troca dos dois. Para efeito de jogo, vale o desta tabela: o
+> é um Gu de rank 7 → 8. [[12 - Longevidade|Longevidade]] atribui essa mesma estatística a "um Gu de
+> adivinhação de rank 9"; é a troca dos dois. Para efeito de jogo, vale o desta tabela: o
 > efeito de adivinhação mais importante do mundo está ao alcance de um **rank 7**, não
 > apenas de um Venerável — o que muda completamente quem, na mesa, pode fazer a pergunta.
 
@@ -397,7 +397,7 @@ cultivar o caminho do gênio. Ele pode ser o sedutor, ou o astrólogo.
 - **Deduzir receitas novas**, o que faz do caminho o parceiro obrigatório de qualquer
   refinador sério.
 - **Executar contramedidas postumamente.** Há registro de três contramedidas deixadas por uma
-  única mente que barraram três adversários de nível 9 ao longo de trezentos anos.
+  única mente que barraram três adversários de rank 9 ao longo de trezentos anos.
 - **Vontades de mestres mortos continuam deduzindo e agindo** por décadas a milênios, em
   proporção à força original. Uma das mais fortes registradas opera há mais de um milhão de
   anos.
@@ -447,7 +447,7 @@ Duas limitações que salvam o caminho de ser onipotente:
   contra direto.
 - **A própria reserva de vida.** Cada resposta encurta a existência. É o único caminho que
   se autoconsome.
-- **Um contra dedicado.** Existe um Gu Imortal de nível 8 criado especificamente para
+- **Um contra dedicado.** Existe um Gu Imortal de rank 8 criado especificamente para
   **contrariar** o caminho da sabedoria — o que confirma que o mundo o considera perigoso o
   bastante para valer uma resposta sob medida.
 - **Fadiga não curável.** Quem vasculha almas repetidamente sofre uma exaustão própria que os
@@ -475,7 +475,7 @@ Duas limitações que salvam o caminho de ser onipotente:
 
 ## Praticantes notáveis (sem enredo)
 
-- **A Venerável Imortal Constelação Estelar** — nível 9, criadora do caminho há cerca de três
+- **A Venerável Imortal Constelação Estelar** — rank 9, criadora do caminho há cerca de três
   milhões de anos, e a segunda a reinar na Corte Celestial. Diz-se que ela "empunhou o próprio
   Gu da Sabedoria". Sua vontade residual continua ativa até hoje, e as contramedidas que ela
   deixou operaram por séculos após sua morte.

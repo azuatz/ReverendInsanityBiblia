@@ -276,7 +276,7 @@ mudam o desfecho do evento.
 > copiar diretamente: **a herança nivela o poder na porta e devolve o poder em degraus**.
 >
 > `*` Três usos práticos:
-> 1. **Como campanha de nível 1 a 5 em miniatura.** As cem rodadas são uma escada de progressão
+> 1. **Como campanha de rank 1 a 5 em miniatura.** As cem rodadas são uma escada de progressão
 >    completa dentro de um único cenário, com curva de eliminação já escrita: rodada 10, 30, 50,
 >    70, 90. Você pode rodar a campanha inteira sem que os personagens saiam de lá dentro.
 > 2. **Como remédio para mesas de poder desigual.** Se um jogador está muito à frente dos

@@ -56,8 +56,8 @@ arrancado por um ladrão comum, não é visto por ninguém.
 
 Isso não é conforto, é necessidade. **Gu são fisicamente frágeis em qualquer nível.** A
 obra volta a essa frase mais de uma vez, e sempre com a mesma ênfase: basta apertar de leve
-para esmagar um Gu de nível 6, e um Gu Imortal pode ser destruído pelos dedos de uma
-criança. Não há exceção no topo — a fragilidade vale para o nível 9. O cofre não protege um
+para esmagar um Gu de rank 6, e um Gu Imortal pode ser destruído pelos dedos de uma
+criança. Não há exceção no topo — a fragilidade vale para o rank 9. O cofre não protege um
 tesouro delicado por precaução: protege porque, fora dele, o tesouro morre por acidente.
 
 Feras selvagens, que não têm abertura, pagam exatamente esse preço: os Gu que vivem nelas
@@ -156,7 +156,7 @@ Alimentar esse acervo custa mais de mil pedras primordiais por dia.
 Um Gu não refinado comprado numa loja vai simplesmente **no bolso** de quem o comprou.
 
 No nível imortal o recipiente reaparece, agora como embalagem de transação: há registro de
-um Gu Imortal de nível 6 sendo **entregue dentro de uma caixa de madeira**, aberta na frente
+um Gu Imortal de rank 6 sendo **entregue dentro de uma caixa de madeira**, aberta na frente
 do comprador.
 
 ### Uma quarta morada, rara: o objeto
@@ -174,10 +174,10 @@ outras notas do vault chegaram a dizer — é que o único limite de arsenal é 
 
 > **A abertura tem capacidade finita, e ela cresce com o nível de cultivo.**
 
-O caso que separa os dois limites de forma limpa é o de um cultivador de nível 1 que
-encontra um tanque cheio de Gu de nível 3 abandonados. Perguntado se conseguiria alimentar
+O caso que separa os dois limites de forma limpa é o de um cultivador de rank 1 que
+encontra um tanque cheio de Gu de rank 3 abandonados. Perguntado se conseguiria alimentar
 tantos, ele responde que **não** — e leva assim mesmo, para negar o espólio ao inimigo. E
-mesmo assim sobra: *considerados os limites de sua abertura de nível 1*, uma grande
+mesmo assim sobra: *considerados os limites de sua abertura de rank 1*, uma grande
 quantidade teve de ser deixada para trás e destruída. O dinheiro não foi o que o impediu. O
 espaço foi.
 
@@ -188,14 +188,14 @@ O limite não é só de contagem. É de **peso**, e o peso é medido em poder.
 Um Gu de nível muito acima do dono **pressiona a abertura por dentro**, continuamente, só
 por estar lá. Os registros são inequívocos:
 
-- um Gu de nível 6 em recuperação, alojado na abertura de um cultivador mortal, ameaçava
+- um Gu de rank 6 em recuperação, alojado na abertura de um cultivador mortal, ameaçava
   **rompê-la** conforme recuperava força; a solução de emergência foi **selá-lo**, e o selo
   comprado durava quatro anos;
 - a mesma ameaça desaparece de vez no dia em que o dono ascende: um imortal já não corre o
   risco de ter a abertura estourada por aquele mesmo Gu;
-- uma abertura de nível 4 é descrita como **incapaz de conter** a pressão daquele Gu em
+- uma abertura de rank 4 é descrita como **incapaz de conter** a pressão daquele Gu em
   estado pleno;
-- no patamar imortal, Gu e materiais de nível 8 carregam marcas do Dao demais e são
+- no patamar imortal, Gu e materiais de rank 8 carregam marcas do Dao demais e são
   "um fardo enorme" para a abertura: **aberturas vivas podem estourar**, e as mortas se
   despedaçam ainda mais depressa;
 - e, quando a abertura já abriga um Gu Imortal, o teto vira absoluto: ela ainda comporta
@@ -204,7 +204,7 @@ por estar lá. Os registros são inequívocos:
 Há uma exceção conhecida, e ela é artificial: um tipo especial de abertura fabricada, que
 não pode ser cultivada nem desenvolvida como as normais e precisa ser reabastecida
 periodicamente, mas em compensação **guarda um Gu Imortal de qualquer nível sem risco de
-estourar** — inclusive um de nível 9. Poder de armazenamento comprado ao preço de não
+estourar** — inclusive um de rank 9. Poder de armazenamento comprado ao preço de não
 poder crescer.
 
 | Fator | Efeito sobre quanto cabe | Confiabilidade |
@@ -248,7 +248,7 @@ Duas regras de segurança operacional fecham o assunto, e as duas são material 
 ressonância com as leis naturais e produz fenômenos anômalos perceptíveis a quilômetros. A
 obra registra o cálculo de um personagem que decidiu **não** fugir com um Gu Imortal na mão
 exatamente por isso: correr com ele exposto significaria ser caçado imediatamente por dois
-cultivadores de nível 5, mais de dez de nível 4 e incontáveis de níveis 2 e 3. Carregar o
+cultivadores de rank 5, mais de dez de rank 4 e incontáveis de níveis 2 e 3. Carregar o
 prêmio é anunciar o prêmio.
 
 **Esconder um Gu dentro de uma pedra é técnica de espionagem reconhecida.** Como Gu famintos
@@ -261,7 +261,7 @@ duração usando exatamente isso — e indo além, encomendando a um falsificado
 ## Alguns Gu não podem ser movidos
 
 Vale registrar como limite duro de construção de personagem: **nem tudo que está na abertura
-pode sair dela**. Quando um Gu de nível 6 ou mais é consagrado [[05 - Gu Vital|Gu Vital]],
+pode sair dela**. Quando um Gu de rank 6 ou mais é consagrado [[05 - Gu Vital|Gu Vital]],
 ele fica **permanentemente estacionado no centro da abertura** e não pode mais ser retirado
 nem manifestado para uso externo. O dono possui um artefato extraordinário que **não
 consegue empunhar**: ele funciona como fundação, nunca como arma.

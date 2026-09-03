@@ -74,7 +74,7 @@ Existe uma exceção, e ela é estreitíssima. Métodos do [[16 - Wisdom Path|ca
 instantânea**, e **a menor falha já destrói o Gu**.
 
 No fim da obra essa brecha ganha forma industrial: uma **formação de refino de sabedoria**,
-montada em torno da luz da sabedoria emitida por um Gu de nível 9 mais dois Gu Imortais
+montada em torno da luz da sabedoria emitida por um Gu de rank 9 mais dois Gu Imortais
 auxiliares. O efeito é refinar Gu Imortais roubados **rapidamente**, em vez de destruí-los. Dois
 detalhes finos aparecem no registro:
 
@@ -102,7 +102,7 @@ O pior caso é falhar em apagar a vontade selvagem. Você não perde o bicho.
 
 Isso reposiciona todo o valor econômico da natureza. Terrenos saturados de dao marks geram Gu
 selvagens espontaneamente, e **existem Gu Imortais selvagens** — há registro de uma fera-líder
-de nível 8 portando um deles. Um terreno assim é, portanto, a **única fonte de Gu Imortais
+de rank 8 portando um deles. Um terreno assim é, portanto, a **única fonte de Gu Imortais
 adquirível sem refino próprio e sem o consentimento de ninguém**. É por isso que esses lugares
 são disputados como territórios, e não como itens.
 
@@ -165,11 +165,11 @@ isso permitiu saquear um Gu de veneno raríssimo e a abertura inteira do morto.
 
 Quando um Mestre Gu morre, a abertura dele **começa a encolher**. Existe uma classe de Gu capaz
 de **sugar a abertura inteira** — com os Gu ainda dentro — antes que ela se dissipe. Os Gu de
-nível 1 a 5 recolhidos assim passam a pertencer ao matador depois que ele os refinar.
+rank 1 a 5 recolhidos assim passam a pertencer ao matador depois que ele os refinar.
 
-Mas há um teto duro: **Gu de nível 6 ou mais não são pegos assim**. Eles são resgatados
+Mas há um teto duro: **Gu de rank 6 ou mais não são pegos assim**. Eles são resgatados
 automaticamente por proteções especiais — existe, por exemplo, um Gu Imortal de clã cuja função
-é **teleportar os Gu de nível 5 do dono para longe no instante da morte dele**. A obra registra o
+é **teleportar os Gu de rank 5 do dono para longe no instante da morte dele**. A obra registra o
 princípio geral por trás disso: nenhuma terra abençoada consegue restringir um Gu Imortal.
 
 Existe ainda uma ferramenta dedicada ao roubo direto, o **Gu-pilhagem**: um besouro que arranca à
@@ -179,7 +179,7 @@ difícil o mundo torna essa operação:
 - precisa ser **canalizado continuamente**, e o usuário fica **imóvel** durante a ativação;
 - a taxa de sucesso é **baixa**;
 - **falhar causa backlash físico severo** no ladrão;
-- respeita hierarquia de nível — um exemplar de nível 2 não consegue arrancar Gu de nível 3;
+- respeita hierarquia de nível — um exemplar de rank 2 não consegue arrancar Gu de rank 3;
 - e o Gu roubado **herda o rancor**: se o antigo dono odiava quem o matou, o Gu fica
   especificamente **mais difícil de refinar para esse assassino**.
 
@@ -201,14 +201,14 @@ A partir daí, entregar bens em troca da vida é comportamento normal e negociá
   uma **saída honrosa** — uma narrativa pública que lhe permita ceder sem perder a reputação.
   Numa sociedade de honra, o roteiro de resgate da imagem é parte da coerção.
 - Um Gu de aura própria pode **forçar a rendição sem combate**, enfraquecendo a vontade de lutar
-  de quem estiver na área. O documentado bastou para fazer um Mestre de nível 4 desistir.
+  de quem estiver na área. O documentado bastou para fazer um Mestre de rank 4 desistir.
 
 Sobre feras, a lógica é diferente e mais generosa. Feras não têm abertura: os Gu delas ficam
 soltos no corpo, o que os torna localizáveis e **capturáveis**. Matar uma fera-líder libera os Gu
 que viviam nela, e liberar um traço da aura de um Gu de nível muito superior faz o selvagem **se
 render instantaneamente**, permitindo refiná-lo em segundos e quase sem gasto. É uma prática
-legítima, conhecida e ensinada — anciãos emprestam a aura de um Gu de nível 3 para facilitar o
-primeiro refino de um protegido de nível 1.
+legítima, conhecida e ensinada — anciãos emprestam a aura de um Gu de rank 3 para facilitar o
+primeiro refino de um protegido de rank 1.
 
 ## As vias legítimas de obter Gu alheio
 
@@ -237,8 +237,8 @@ Gu podem ser emprestados. A vontade do dono original continua residindo no Gu, e
 acesso quando quiser**; o tomador usa com eficiência menor. Socialmente, emprestar é raro e
 visto como risco extremo.
 
-No nível imortal, porém, é prática negocial estabelecida. Um cultivador de nível 8 emprestou a um
-aliado um Gu Imortal de nível 7 junto com o golpe matador correspondente. Dentro de um clã,
+No nível imortal, porém, é prática negocial estabelecida. Um cultivador de rank 8 emprestou a um
+aliado um Gu Imortal de rank 7 junto com o golpe matador correspondente. Dentro de um clã,
 membros com relação de sangue próxima podem pedir Gu Imortais emprestados do tesouro
 diretamente, com desconto por bom desempenho político — o que difere de uma seita, onde tudo
 passa por pontos de contribuição. Nem todo Gu do tesouro está disponível: alguns ficam reservados
@@ -264,9 +264,9 @@ começo da obra — a **receita vale mais que o Gu**, porque permite produção 
 exemplar é um item só.
 
 Existem contornos criativos. Em vez de trocar Gu por Gu, um cultivador ofereceu o **serviço de
-refinar até o nível 8** um Gu que o outro clã já possuía, em troca de território. A justificativa
+refinar até o rank 8** um Gu que o outro clã já possuía, em troca de território. A justificativa
 comercial é simétrica e elegante: montanhas famosas são pontos de recurso contínuos, mas
-alimentar um Gu Imortal de nível 8 também consome recursos continuamente.
+alimentar um Gu Imortal de rank 8 também consome recursos continuamente.
 
 ### Confisco negociado
 
@@ -317,7 +317,7 @@ por completo** outro que ele capturou. Vale como modelo mecânico do teto absolu
    feras, fauna descontrolada.
 
 Repare no que essa lista exige: um golpe de roubo raro e modificado, uma formação que depende de
-um Gu de nível 9, um golpe de alma, e uma abertura capaz de absorver outra. Este é o procedimento
+um Gu de rank 9, um golpe de alma, e uma abertura capaz de absorver outra. Este é o procedimento
 que existe **para provar que a regra normal é a que vale**. Ninguém faz isso por acaso.
 
 ## Por que essa regra sustenta a economia inteira

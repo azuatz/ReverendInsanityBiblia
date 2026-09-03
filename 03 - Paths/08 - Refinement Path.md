@@ -164,7 +164,7 @@ Três consequências, e todas são material de campanha:
    plantas crescerem. Uma raça é um pacote de marcas do Dao. Ver
    [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 3. **E o maior refinador de todos os tempos era um deles.** O supremo grão-mestre mais recente
-   da história era um homem-peludo, e chegou apenas ao **nível 8** de cultivo. Pesquisadores
+   da história era um homem-peludo, e chegou apenas ao **rank 8** de cultivo. Pesquisadores
    posteriores conjecturam que **ser uma variante humana foi o que o limitou**: se fosse humano,
    talvez tivesse alcançado o rank 9. O melhor artesão que o mundo já teve estava preso num
    corpo que o mundo desprezava.
@@ -304,7 +304,7 @@ preservada de um refino anterior bem-sucedido. A insígnia é consumida a cada u
 
 E há a **síntese histórica do caminho**, que funde quatro tecnologias distintas — a lagoa, o
 caldeirão que refina à força, uma formação ancestral e um domínio artificial de refinamento.
-Com ela, produção **em série** de Gu Imortais de nível 8 se torna possível, o que é descrito
+Com ela, produção **em série** de Gu Imortais de rank 8 se torna possível, o que é descrito
 como além da imaginação de qualquer cultivador. Os tetos que permanecem: nem ela refina níveis
 9 ou 10, e a **regra de unicidade continua valendo**.
 
@@ -339,7 +339,7 @@ exércitos, e que o acesso a elas é moeda de negociação.
 
 ## Limites e fraquezas
 
-- **A própria taxa de sucesso.** Menos de 1% no nível 6 para um refinador comum; cinquenta a
+- **A própria taxa de sucesso.** Menos de 1% no rank 6 para um refinador comum; cinquenta a
   sessenta tentativas por sucesso. É a profissão mais frustrante do mundo. Ver
   [[02 - Tabelas de Referência Rápida#12. Taxas de sucesso de refino|as taxas completas]].
 - **O acaso irredutível.** Nas etapas cruciais, as leis interagem sozinhas. Nenhuma perícia
@@ -426,10 +426,10 @@ exércitos, e que o acesso a elas é moeda de negociação.
   mundo inteiro** como território externo e falhou por não conseguir refinar marcas do Dao do
   céu (ver [[25 - Heaven Path|Heaven Path]]). O segundo tem a pesquisa mais profunda já feita
   sobre **aberturas mortais e imortais**, insuperada até hoje. O terceiro, um homem-peludo de
-  nível 8, construiu as duas maiores casas de Gu do mundo — e deixou como legado a técnica de
+  rank 8, construiu as duas maiores casas de Gu do mundo — e deixou como legado a técnica de
   refino ao ar livre que ficou insuperada por eras.
 - **Os quatro especialistas de uma região** — a obra usa uma região inteira para mostrar a
-  escassez: os quatro maiores refinadores conhecidos ali são um imortal de nível 8 cuja erudição
+  escassez: os quatro maiores refinadores conhecidos ali são um imortal de rank 8 cuja erudição
   talvez ultrapasse grão-mestre, uma imortal que já refinou um Gu Imortal com sucesso, uma
   segunda-em-comando de seita que refina para o mundo demoníaco, e uma cultivadora solitária.
   Quatro nomes para um continente.

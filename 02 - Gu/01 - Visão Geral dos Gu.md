@@ -40,7 +40,7 @@ Sobre essa base simples o mundo empilha camadas cada vez mais sofisticadas:
   maior que a soma das partes ([[08 - Killer Moves|Killer Moves]]).
 - **Gu Imortais** — a categoria superior (níveis 6 a 8), da qual existe **um único exemplar
   no mundo inteiro** para cada tipo. Duas ressalvas que impedem essa regra de travar o
-  sistema, e que valem já aqui: a unicidade vale **só do nível 6 para cima** — Gu mortais se
+  sistema, e que valem já aqui: a unicidade vale **só do rank 6 para cima** — Gu mortais se
   produzem aos milhares —, e **variantes contam como Gu distintos**, de modo que dois bichos
   parecidos com nomes diferentes coexistem sem violar nada ([[16 - Gu Imortais|Gu Imortais]]).
 - **Receitas** — o conhecimento de como fabricar um Gu, que vale muito mais que o Gu.
@@ -153,13 +153,13 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 
 - **A metafísica real**: que Gu comuns contêm *marcas do Dao* (fragmentos de leis
   naturais) e que Gu Imortais contêm **fragmentos do próprio Grande Dao** — categorias
-  ontologicamente diferentes, não apenas "mais forte". Gu de nível 9 não são nem feitos de
+  ontologicamente diferentes, não apenas "mais forte". Gu de rank 9 não são nem feitos de
   marcas do Dao, e por isso são imunes a qualquer método que opere sobre elas, além de
   poderem agir por conta própria, contra a vontade do dono.
 - **Por que o refino tem sorte envolvida**: o refinador controla apenas a primeira metade
   do processo. Na metade final, as leis interagem sozinhas. A analogia interna da obra é a
   de uma tacada de golfe — você controla o golpe, não o rolamento da bola.
-- **Os números reais de sucesso no topo**: fabricar um Gu Imortal de nível 6 do começo ao
+- **Os números reais de sucesso no topo**: fabricar um Gu Imortal de rank 6 do começo ao
   fim tem menos de 1% de chance, e a curva desce uma ordem de grandeza por nível daí em
   diante. Especialistas lendários fogem dela, mas o normal são **cinquenta a sessenta
   tentativas por sucesso**. A tabela completa, com as três operações lado a lado, está em

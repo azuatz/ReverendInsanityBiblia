@@ -111,7 +111,7 @@ sobrenatural além dos Gu selvagens que os mais fortes carregam.
 | **Macaco-de-saia-de-capim** (*grass skirt monkey*) | cavernas e matas da Fronteira Sul | pequeno, membros macios, **sem garras** | praticamente nenhum: não fere um humano treinado | **comida** — a obra registra que são deliciosos grelhados | nenhum; é caça, não ameaça |
 | **Cobra, guaxinim, coelho cinza e afins** | por toda parte | — | — | carne, peles | nenhum |
 
-**O macaco-de-pedra é o melhor encontro de nível 1 do cenário**, e vale a pena entender
+**O macaco-de-pedra é o melhor encontro de rank 1 do cenário**, e vale a pena entender
 por quê. Ele morre de um jeito peculiar: o corpo **vira estátua de pedra**, racha, e
 explode em cascalho, deixando só os dois olhos de jade no chão. A territorialidade
 dele é **por pilar**: chegar perto de um pilar dispara o ataque de todos os macacos

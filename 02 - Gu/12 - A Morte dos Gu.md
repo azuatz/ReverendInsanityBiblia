@@ -31,7 +31,7 @@ sobrevivem melhor a impactos do que corpos rígidos, o que faz da anatomia do bi
 tático real.
 
 Isso vale em todos os níveis, sem exceção de altura. Existe no mundo uma frase feita que resume
-a coisa: **até um bebê consegue matar um Gu Imortal de nível 9**, se o pegar desprotegido. Por
+a coisa: **até um bebê consegue matar um Gu Imortal de rank 9**, se o pegar desprotegido. Por
 isso guardar um Gu valioso fora da [[02 - Abertura|Abertura]] — como uma tatuagem na pele, por exemplo — é
 considerado inseguro por qualquer cultivador experiente. A abertura não é só um bolso: é o
 cofre-forte que impede que a coisa mais cara que você tem seja esmagada por acidente.
@@ -49,9 +49,9 @@ não é alimentado **morre de fome**, e essa é a causa de morte mais banal e ma
 mundo. Não é um evento dramático: é uma conta que deixou de ser paga.
 
 Antes da morte, porém, há um estágio intermediário importante: a **desnutrição prolongada faz o
-Gu regredir de nível**. Há um caso documentado de um Gu que caiu do nível 5 para o nível 1 ao
+Gu regredir de nível**. Há um caso documentado de um Gu que caiu do rank 5 para o rank 1 ao
 longo de cerca de trezentos anos de subalimentação — e que manteve, apesar disso, a força de
-vontade correspondente ao nível 5 original. Isso produz o pior dos mundos para quem tentar
+vontade correspondente ao rank 5 original. Isso produz o pior dos mundos para quem tentar
 refiná-lo depois: um bicho fraco com uma vontade forte.
 
 Há também uma saída rara. Em fome extrema, a maioria dos Gu simplesmente morre, mas alguns
@@ -85,7 +85,7 @@ Ver [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] para os custos e os interva
 
 Aqui há três categorias distintas, e confundi-las é caro.
 
-**Gu consumíveis (expendable).** É uma categoria formal do mundo, que existe até no nível 6:
+**Gu consumíveis (expendable).** É uma categoria formal do mundo, que existe até no rank 6:
 Gu que se dissipam depois de um, dois ou três usos. Não é um defeito — é o que eles são. O
 preço deles já embute isso.
 
@@ -131,7 +131,7 @@ danificam permanentemente os Gu envolvidos, acumulando rachaduras até que morra
 No **refino**, o padrão é o mesmo com apostas maiores. Falhar destrói os Gu-material investidos
 — há registro de quatro Gu de força perdidos em tentativas sucessivas de um único Gu-alvo. E,
 no nível imortal, **falhar num aumento de nível pode destruir o Gu-base inteiro**: um Gu de
-nível 7 que se tentava elevar a 8 foi perdido assim, e com ele todo o acúmulo que ele
+rank 7 que se tentava elevar a 8 foi perdido assim, e com ele todo o acúmulo que ele
 representava.
 
 ### 5. Backlash de golpe matador
@@ -152,8 +152,8 @@ dos Gu que os formam. Se esses Gu morrem durante o uso, o usuário sofre o golpe
 **Sobrecarga que rebaixa o Gu núcleo.** No nível imortal há um caso especialmente cruel: um
 golpe que, a cada uso, **queima permanentemente as dao marks de dentro do próprio Gu Imortal
 que lhe serve de núcleo**. A perda por uso é mínima, mas cumulativa — e ao cruzar um limiar
-provoca uma **mudança qualitativa de nível**: um Gu de nível 6 pode regredir a Gu mortal comum,
-um de nível 7 pode cair para 6. É por isso que esse golpe, apesar de eficaz, é historicamente
+provoca uma **mudança qualitativa de nível**: um Gu de rank 6 pode regredir a Gu mortal comum,
+um de rank 7 pode cair para 6. É por isso que esse golpe, apesar de eficaz, é historicamente
 impopular: ele devora a própria arma.
 
 Ver [[16 - Dao Marks|Dao Marks]] para o que são essas marcas e por que perdê-las rebaixa o Gu.
@@ -229,18 +229,18 @@ Gu ferido, que a absorve e se recupera aos poucos. Cada unidade de combustível 
 cinco minutos e precisa ser reposta continuamente.
 
 O que torna esse número relevante é a proporção: **mais de trinta unidades foram consumidas para
-fechar uma única rachadura profunda de um Gu de nível 5**, e o reparo completo teria exigido
+fechar uma única rachadura profunda de um Gu de rank 5**, e o reparo completo teria exigido
 muito mais material do que havia disponível. Reparar um Gu caro é uma operação logística, não um
 feitiço.
 
-Outra rota é o consumível dedicado: existe um Gu de nível 2 que se autoconsome inteiro,
+Outra rota é o consumível dedicado: existe um Gu de rank 2 que se autoconsome inteiro,
 irradiando um vapor de aço que acelera a regeneração de um Gu companheiro ferido — reduzindo o
 tempo de cicatrização de cerca de **meio ano** para aproximadamente **uma hora**, mais algumas
 semanas de cicatrizes residuais. O tamanho desse salto é a medida de quanto vale um Gu de
 reparo.
 
 > [!warning] Reparar não é o mesmo que poder usar
-> Reparo físico e capacidade de ativação são requisitos **independentes**. Um Gu de nível 5
+> Reparo físico e capacidade de ativação são requisitos **independentes**. Um Gu de rank 5
 > perfeitamente remendado continua inútil nas mãos de quem não tem essência do nível certo para
 > ativá-lo. Consertar o bicho não resolve o problema de ser fraco demais para ele.
 
@@ -297,12 +297,12 @@ alma. Vale a pena ver os números lado a lado.
 
 | O que se perde | Quanto custou | Observação |
 |---|---|---|
-| Um Gu de nível 1 comum | 5 a 16 pedras primordiais só de refino | mais o custo de aquisição e a alimentação até ali |
-| Uma fusão de nível 2 | centenas de pedras em uma única receita | e a taxa de sucesso já não é garantida |
-| Uma fusão de nível 4-5 | menos de 10% de sucesso por tentativa | o custo real é o das tentativas fracassadas |
-| Uma fusão de nível 6 | cerca de 1% de sucesso | o Gu que morre aqui levava anos de preparo |
-| Um Gu de nível 5 refinado do zero | abaixo de 1 sucesso em 1.000 tentativas | um refinador lendário levou onze anos em um único caso |
-| Um Gu Imortal de nível 6 | 50 a 60 tentativas por sucesso, e cada conjunto de materiais consome quase toda a riqueza líquida de um imortal médio | perder um destes é perder décadas |
+| Um Gu de rank 1 comum | 5 a 16 pedras primordiais só de refino | mais o custo de aquisição e a alimentação até ali |
+| Uma fusão de rank 2 | centenas de pedras em uma única receita | e a taxa de sucesso já não é garantida |
+| Uma fusão de rank 4-5 | menos de 10% de sucesso por tentativa | o custo real é o das tentativas fracassadas |
+| Uma fusão de rank 6 | cerca de 1% de sucesso | o Gu que morre aqui levava anos de preparo |
+| Um Gu de rank 5 refinado do zero | abaixo de 1 sucesso em 1.000 tentativas | um refinador lendário levou onze anos em um único caso |
+| Um Gu Imortal de rank 6 | 50 a 60 tentativas por sucesso, e cada conjunto de materiais consome quase toda a riqueza líquida de um imortal médio | perder um destes é perder décadas |
 
 Some a isso o **custo de manutenção**: a sala de estoque de Gu de uma única academia de clã
 gastava mais de mil pedras primordiais por dia só para alimentar o acervo. E o custo em saúde: cada
@@ -318,10 +318,10 @@ incinerada.
 Ver [[15 - Economia Imortal|Economia Imortal]] e [[02 - Pedras Primordiais|Pedras Primordiais]] para as escalas de valor.
 
 > [!example] Caso mecânico
-> Um cultivador precisava transportar Gu de nível 5 através de um par de Gu de transporte que,
-> fora de sua região nativa, estava suprimido para nível 4 efetivo. A solução foi empilhar oito
+> Um cultivador precisava transportar Gu de rank 5 através de um par de Gu de transporte que,
+> fora de sua região nativa, estava suprimido para rank 4 efetivo. A solução foi empilhar oito
 > Gu amplificadores nas duas peças do par, sincronizadamente, para restaurar temporariamente a
-> capacidade de nível 5. O custo foi assumido de antemão: cada ativação amplificada acumulava
+> capacidade de rank 5. O custo foi assumido de antemão: cada ativação amplificada acumulava
 > rachaduras nas peças, tornando-as descartáveis após pouquíssimos usos adicionais. Ele trocou,
 > conscientemente, a durabilidade permanente do equipamento por uma janela temporária de
 > capacidade acima do normal.

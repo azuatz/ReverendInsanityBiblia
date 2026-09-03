@@ -63,7 +63,7 @@ ainda um Gu de ano imortal no mundo, por causa da regra de unicidade (ver [[16 -
 O uso mais conhecido no mundo mortal: **acelerar o próprio tempo subjetivo** para cultivar ou
 refinar mais rápido. É um serviço comercial comum.
 
-O preço é brutal e honesto. Um Gu de nível 5 e uso único acelera o tempo pessoal em três
+O preço é brutal e honesto. Um Gu de rank 5 e uso único acelera o tempo pessoal em três
 vezes — e **reduz o tempo de vida restante a um terço**. Você não ganha tempo: você o gasta
 mais depressa. Existem também Gu que garantem sucesso imediato num refino pagando
 integralmente em tempo de vida.
@@ -77,7 +77,7 @@ O uso mais poderoso e mais restrito: **voltar atrás**.
 Certas formações do [[08 - Refinement Path|caminho do refinamento]] retrocedem o tempo em curto
 prazo, permitindo desfazer erros durante um refino. Uma única organização possui **mais de
 dez** dessas formações, cada uma com sua desvantagem própria: consumo imenso de essência,
-número limitado de usos, teto de nível 6.
+número limitado de usos, teto de rank 6.
 
 A maior delas é uma das **Três Lagoas Lendárias** do mundo, e o mecanismo dela é
 extraordinário: ela **re-refina automaticamente um Gu Imortal já destruído**, usando um
@@ -91,13 +91,13 @@ bem-sucedido.
   pretendido, e as tentativas de produzir Gu do próprio caminho do tempo falharam — o Gu
   original parece condicionar o caminho do resultado.
 
-É a peça que permite **recuperar em poucos dias** um Gu Imortal de nível 8 perdido em
+É a peça que permite **recuperar em poucos dias** um Gu Imortal de rank 8 perdido em
 combate. Numa campanha, é a diferença entre uma derrota permanente e um contratempo.
 
 ### Distorção de percepção
 
 Um uso lateral e muito jogável: formações que incluem um componente de tempo fazem os presos
-**subestimarem o tempo decorrido**. Há registro de cultivadores de nível 8 que não perceberam
+**subestimarem o tempo decorrido**. Há registro de cultivadores de rank 8 que não perceberam
 quantos dias haviam passado até saírem.
 
 ## A camada escondida

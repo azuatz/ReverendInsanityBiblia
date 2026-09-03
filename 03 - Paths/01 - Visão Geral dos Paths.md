@@ -48,7 +48,7 @@ mudam tudo:
 
 1. **Todo caminho é um agrupamento de leis compatíveis.** Sinergia dentro do caminho,
    interferência entre caminhos. É a regra da qual todas as outras derivam.
-2. **No nível 3 escolhe-se uma direção funcional, não um caminho.** O conselho que os
+2. **No rank 3 escolhe-se uma direção funcional, não um caminho.** O conselho que os
    clãs dão é montar um conjunto com uma função clara — apoio, investigação, refino,
    combate — e os personagens da obra rejeitam esse conselho sem penalidade alguma. É
    prática social, não regra do mundo. **A escolha formal e definitiva de caminho só
@@ -160,7 +160,7 @@ A obra faz essa distinção **formalmente**. Ao terminar a enumeração acima, o
 > menores** como o do encantamento, o da ilusão e outros ficam omitidos por ora.
 
 "Menor" significa **pouco praticado e pouco desenvolvido**, não pouco potente — o
-[[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes peritos de nível 8, e a
+[[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes peritos de rank 8, e a
 profundidade suprema do [[22 - Phantom Path|caminho fantasma]], também menor, sustenta a maior
 organização do mundo. Ser menor tem inclusive uma **vantagem mecânica**: metade da penalidade
 territorial (ver a regra 9).
@@ -246,7 +246,7 @@ Dois títulos que se confundem facilmente e não são a mesma coisa:
 
 - **Criador do caminho** — quem sistematizou aquele caminho, uma única vez na história. É
   um fato histórico, imutável, e não confere poder por si.
-- **Dao Lord (Senhor do Dao)** — um Venerável (o topo absoluto do poder, nível 9) que
+- **Dao Lord (Senhor do Dao)** — um Venerável (o topo absoluto do poder, rank 9) que
   alcançou o grau supremo de domínio no próprio caminho principal e, por isso, passa a
   **sentir e refinar automaticamente as marcas daquele caminho**, manipulando-as à vontade.
 
@@ -341,7 +341,7 @@ escada que ela se refere.
 > Uma versão anterior desta nota trazia a escala em **oito** degraus, omitindo o
 > "quase-mestre" entre comum e mestre. Era erro nosso, e ele deslocava em um a posição de
 > todos os degraus seguintes — o que desalinhava os pré-requisitos enunciados por nome no
-> material ("exige grão-mestre", "mestre para anexar uma terra de nível 6"). A obra nomeia
+> material ("exige grão-mestre", "mestre para anexar uma terra de rank 6"). A obra nomeia
 > o degrau: um cultivador é descrito como *"nem sequer um quase-mestre"*, e há registro de
 > gente que sobe de comum a quase-mestre num único reino de sonho. A escala de nove degraus
 > acima é a correta, e é a mesma de
@@ -379,7 +379,7 @@ dos aliados.
 ## O que todo personagem sabe
 
 - **O que é um caminho** e qual é o seu. É identidade social básica, como profissão.
-- **Que no nível 3 se monta um conjunto com uma função** — e que o mundo trata isso como escolher um caminho, embora a definição real só venha muito depois.
+- **Que no rank 3 se monta um conjunto com uma função** — e que o mundo trata isso como escolher um caminho, embora a definição real só venha muito depois.
 - **Quais caminhos são comuns e quais são prestigiados.** Força é o caminho dos pobres;
   caminhos raros dão status. Sabe-se disso do mesmo jeito que se sabe que médico ganha mais
   que pedreiro.

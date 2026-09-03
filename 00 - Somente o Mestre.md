@@ -83,13 +83,13 @@ patamar **imortal** é material de mestre. Estas são as notas individuais de n�
   os dois casos que provam que **a aptidão não é fixa** e que existe preço para comprá-la. É a
   descoberta que mais desestabiliza a mesa, porque reabre o futuro de um personagem que se
   achava limitado — e mostra o custo humano de fazê-lo.
-- [[41 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] · [[42 - Anexação de Aberturas|Anexação de Aberturas]] ·
-  [[43 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — o que se pode fazer contra a escada de
+- [[39 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] · [[40 - Anexação de Aberturas|Anexação de Aberturas]] ·
+  [[41 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — o que se pode fazer contra a escada de
   poder, e por que quase ninguém consegue.
-- [[44 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[45 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·
-  [[46 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] — os limites da previsão e da preparação: o que
+- [[42 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[43 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·
+  [[44 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] — os limites da previsão e da preparação: o que
   acontece quando o lado que planeja melhor ainda assim perde.
-- [[47 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] — o desastre celestial
+- [[45 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] — o desastre celestial
   convertido em infraestrutura, dos dois lados: escolher o terreno da própria prova e colher a prova
   alheia. Saber que dá para **plantar** tribulação é saber que o céu tem uma brecha administrável.
 

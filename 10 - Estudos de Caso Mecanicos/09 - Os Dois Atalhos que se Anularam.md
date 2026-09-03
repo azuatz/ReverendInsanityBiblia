@@ -168,8 +168,8 @@ por um estágio, ou **cem vidas por carga** por dez pontos de talento.
 
 - [[08 - O Atalho Demoníaco de Rank|O Atalho Demoníaco de Rank]] — o terceiro atalho, que cobra a conta em aptidão permanente.
 - [[07 - Romper o Rank 2 por Teimosia e Pedras|Romper o Rank 2 por Teimosia e Pedras]] — a via legal e lenta de forçar um avanço.
-- [[13 - Fugir de um Enxame e Sair Montado|Fugir de um Enxame e Sair Montado]] — a fuga em que o primeiro Gu foi queimado, e o que ele comprou na prática.
-- [[14 - O Refém que Cura os Dois Lados|O Refém que Cura os Dois Lados]] — a negociação que só foi possível porque o cultivo havia desmoronado.
+- [[12 - Fugir de um Enxame e Sair Montado|Fugir de um Enxame e Sair Montado]] — a fuga em que o primeiro Gu foi queimado, e o que ele comprou na prática.
+- [[13 - O Refém que Cura os Dois Lados|O Refém que Cura os Dois Lados]] — a negociação que só foi possível porque o cultivo havia desmoronado.
 - [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] — o panorama de todas as saídas para quem tem talento insuficiente.
 - [[06 - Um Gu Acima do Próprio Rank|Um Gu Acima do Próprio Rank]] — a mesma lição de que o sistema arbitra por força relativa, não por rótulo.
 - [[02 - Abertura|Abertura]] — o que são paredes, potencial e membrana, e por que engrossá-las importa.

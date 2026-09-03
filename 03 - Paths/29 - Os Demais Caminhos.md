@@ -311,7 +311,7 @@ poucos e ele passou a **cair em estados demoníacos de loucura**, chegando a ata
 aliados sem controle. Ele sabia que o método não era o ideal e insistiu mesmo assim, escondendo-o de
 todos. É o registro mais claro da obra de que **um golpe mal terminado não falha: ele funciona, e
 cobra na cabeça de quem o usa**. Ver
-[[34 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
+[[33 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]].
 
 **E o melhor estudo de caso de gargalo de domínio da obra inteira:** *os supremos anciãos da tribo
 todos me elogiavam como um gênio de lâmina raro de se ver uma vez a cada mil anos, mas **eu ainda

@@ -225,7 +225,7 @@ extensão de uma parede regional; e como se cancela um mandado de captura, se é
   de que o mandado é instrumento, e onde um fugitivo vende o que tem.
 - [[16 - Wisdom Path|Wisdom Path]] — a dedução, arma decisiva dos dois lados.
 - [[18 - Quando uma Força Morre|Quando uma Força Morre]] — o território que o caçado deixou para trás.
-- [[11 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] e
-  [[18 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — os estudos de caso mecânicos.
+- [[10 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] e
+  [[17 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] — os estudos de caso mecânicos.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números
   do sistema**; em caso de divergência, aquela nota vence.

@@ -293,7 +293,7 @@ mostra apenas emboscada sobre emboscada. `(ded.)`
 
 - [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o que é uma terra
   abençoada e o que é um espírito da terra.
-- [[14 - Espólio de Gu|Espólio de Gu]] e [[12 - Roubar o Gu de um Moribundo|Roubar o Gu de um
+- [[14 - Espólio de Gu|Espólio de Gu]] e [[11 - Roubar o Gu de um Moribundo|Roubar o Gu de um
   Moribundo]] — o que se pode tirar de um morto e por quê, e o estudo de caso com números.
 - [[06 - Mercados e Leilões|Mercados e Leilões]] e
   [[22 - Leilões, Cúpulas e Guerras de Mercado|Leilões, Cúpulas e Guerras de Mercado]] — o leilão

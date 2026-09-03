@@ -132,7 +132,7 @@ A regra do mundo enunciada no mesmo trecho: "o homem é o espírito de todos os 
 
 - [[16 - Dao Marks|Dao Marks]] — o outro eixo do reino imortal; poder contra compreensão.
 - [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] — onde o attainment vira requisito de entrada para anexar aberturas.
-- [[42 - Anexação de Aberturas|Anexação de Aberturas]] — o caso completo, com a tabela de qual degrau destranca qual classe de território.
+- [[40 - Anexação de Aberturas|Anexação de Aberturas]] — o caso completo, com a tabela de qual degrau destranca qual classe de território.
 - [[14 - Ascensão Imortal|Ascensão Imortal]] — grão-mestre como uma das duas fontes de human qi abundante.
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — supremo grão-mestre como a terceira das quatro condições.
 - [[05 - Ranks e Avanço|Ranks e Avanço]] — por que dois cultivadores do mesmo rank não valem o mesmo.

@@ -106,7 +106,7 @@ Gu** ao serem usados — sobram palpite, experiência e sorte. O número a ouvir
 quase sempre está morto**. Quem tira um Gu vivo raro *"ou vira uma pessoa de sucesso, ou é
 assassinado e roubado"*. Detalhes em
 [[09 - Aposta de Rochas|Aposta de Rochas]] e
-[[22 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
+[[21 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]].
 
 **A casa da árvore.** A loja de alto padrão, com **três andares**: o primeiro vende Gu de rank 1,
 o segundo de rank 2, o terceiro de rank 3 — quanto mais alto, menos peças e mais caro. Funciona

@@ -84,5 +84,5 @@ estado real das duas partes no momento, nunca o rótulo.
 - [[06 - Refino de Gu|Refino de Gu]] — a operação que este caso encurta, e por que ela é uma disputa de vontades.
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — as outras regras que decidem se um Gu cabe em você.
 - [[05 - Gu Vital|Gu Vital]] — o que torna a versão passiva tão perigosa e tão tentadora.
-- [[13 - Fugir de um Enxame e Sair Montado|Fugir de um Enxame e Sair Montado]] — a mesma regra de estado aplicada a uma besta de rank 5 em hibernação.
+- [[12 - Fugir de um Enxame e Sair Montado|Fugir de um Enxame e Sair Montado]] — a mesma regra de estado aplicada a uma besta de rank 5 em hibernação.
 - [[03 - Seitas e Academias|Seitas e Academias]] — por que o primeiro ano de academia para até o aluno refinar o seu.

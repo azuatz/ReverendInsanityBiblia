@@ -81,7 +81,7 @@ texto alternativo:
   lugar onde "fundação" é definida.
 - `45` — o parágrafo de abertura que definia *abertura imortal* → `[[02 - Abertura]]`.
 - `32` — a definição de *reino de sonho* e de *espírito guardião* → `[[49 - Explorar um
-  Reino de Sonho]]` e `[[39 - O Espírito Guardião de um Território]]`.
+  Reino de Sonho]]` e `[[38 - O Espírito Guardião de um Território|39 - O Espírito Guardião de um Território]]`.
 - `27` — a definição de *espírito guardião* → wikilink para a nota 39.
 - `49` — a definição longa de *man soul* encolheu para o mínimo que a tabela exige.
 

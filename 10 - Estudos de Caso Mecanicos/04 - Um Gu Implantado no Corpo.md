@@ -81,4 +81,4 @@ no meio de uma luta.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — onde um Gu normalmente mora, e o que ele custa para funcionar.
 - [[04 - Onde um Gu Mora|Onde um Gu Mora]] — as posições possíveis para um Gu no corpo e na abertura.
 - [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que o corpo aguenta e o que ele não aguenta.
-- [[11 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — outro caso de rank baixo em que a informação vale mais que a arma.
+- [[10 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] — outro caso de rank baixo em que a informação vale mais que a arma.

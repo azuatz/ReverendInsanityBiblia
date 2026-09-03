@@ -105,6 +105,27 @@ depois, espertezas que um jogador faria em qualquer RPG.
 Quando um material reprova, **resgate antes de apagar**: leve a mecânica reaproveitável para a
 nota de categoria correspondente, como exemplo trabalhado, e só então remova o resto.
 
+## Nomear é obrigação, não risco (regra do usuário)
+
+A política de spoiler **proíbe contar o enredo, não explicar o sistema**. Quem nunca leu a obra
+não é spoilado por mecânica, ainda mais numa nota que já não cita personagem — então **nomeie**:
+o Gu, o golpe, o lugar, a instituição, o caminho, o material, o Venerável. E explique o
+mecanismo por inteiro.
+
+Continua fora só o que é enredo: arcos, reviravoltas, mortes, planos e destino de personagens
+nomeados.
+
+Três corolários, aprendidos numa varredura que achou 535 casos do problema:
+
+- **Se a nota escreve "a obra nomeia X", ela tem de dar o nome.** Aludir sem dizer é o pior dos
+  dois mundos: não informa e ainda desperta a curiosidade que a política queria evitar.
+- **Nunca invente rótulo para substituir nome real.** Trocar uma organização da obra por algo
+  como "[Clã Número Um]" cria vocabulário que não existe no mundo — é invenção não marcada, que
+  o projeto proíbe. Se por algum motivo o nome não puder entrar, reescreva a frase sem ele.
+- **Ao despersonalizar um exemplo, use descrição funcional**, nunca uma muleta fixa repetida:
+  "um praticante de rank 3 no auge do caminho da força" informa; "o cultivador da cena",
+  repetido cento e dezessete vezes no mesmo arquivo, não informa nada.
+
 ## Regras de escrita
 
 - Documentos finais em **português brasileiro**; termos técnicos consagrados em inglês

@@ -34,7 +34,7 @@ O rank vai de 1 a 5 no patamar mortal (e de 6 a 9 no imortal). Rank 1 é a base,
 
 1. **Um Mestre Gu de rank 1 só usa Gu de rank 1.** Ele até consegue acionar um Gu de rank superior, mas o preço é brutal e o custo de alimentação de um Gu grande está fora do alcance dele. Por isso o primeiro Gu de qualquer novato é, salvo situação especial, um Gu de rank 1.
 2. **O Gu não decide a luta — o corpo decide.** A obra é direta: praticantes de rank 1 dependem sobretudo da própria habilidade física de combate, e o valor de um Gu numa briga de rank 1 está mais no **poder de intimidação** do que na potência. Um rank 1 que sabe lutar vence um rank 1 que só sabe apertar o gatilho.
-3. **O efeito é pequeno, mas o **preço** é proporcionalmente enorme.** Um único disparo de Sandpit Gu consome cinco por cento de toda a essência de um rank 1; o Green Silk Gu consome trinta por cento de uma vez; o Brute Force Longhorn Beetle Gu consome vinte por cento na fase inicial do rank. Não existe "gastar à vontade" no rank 1.
+3. **O efeito é pequeno, mas o preço é proporcionalmente enorme.** Um único disparo de Sandpit Gu consome cinco por cento de toda a essência de um rank 1; o Green Silk Gu consome trinta por cento de uma vez; o Brute Force Longhorn Beetle Gu consome vinte por cento na fase inicial do rank. Não existe "gastar à vontade" no rank 1.
 
 ### O que um Gu de rank 1 custa
 
@@ -697,7 +697,7 @@ Três Gu consumíveis que fazem a mesma coisa — gerar **pensamentos**, a moeda
 
 #### Malicious Thought Gu
 
-- **O que faz.** Injetada essência primordial, **pensamentos maliciosos brotam um após o outro** na mente do usuário, com a forma visível de bolhas eriçadas de espinhos; as bolhas se enganchem umas nas outras e colidem, destruindo-se ou fundindo-se em pensamentos maiores, até se esgotarem. A especialidade é **tramar**: quando usados para conspirar contra outrem, **um pensamento malicioso vale dezenas** de pensamentos alegres, estelares ou vazios. Para dedução pura, porém, é apenas mediano.
+- **O que faz.** Injetada essência primordial, **pensamentos maliciosos brotam um após o outro** na mente do usuário, com a forma visível de bolhas eriçadas de espinhos; as bolhas se engancham umas nas outras e colidem, destruindo-se ou fundindo-se em pensamentos maiores, até se esgotarem. A especialidade é **tramar**: quando usados para conspirar contra outrem, **um pensamento malicioso vale dezenas** de pensamentos alegres, estelares ou vazios. Para dedução pura, porém, é apenas mediano.
 - **Como é.** Corpo **enorme, do tamanho de uma bacia de lavar roupa**, com aparência de aranha cujas **oito patas são agulhas de ponta afiadíssima**, e corpo coberto de pelos longos e duros.
 - **Dieta.** **Não se alimenta**: consumível, gasto na própria dedução `(ded.)`.
 - **Desvantagem.** **Fisicamente perigoso de manusear**: carne e sangue comuns **sangram só de tocá-lo** — na obra, quem o manipula tem corpo de zumbi imortal. Mediano para dedução. E a produção nunca acompanha o consumo.
@@ -913,3 +913,412 @@ Quatro Gu de rank 1 que, juntos, mostram como um mundo sem imprensa nem correio 
 - **Interações.** O fato mais aproveitável dele está no topo da faixa, e ilumina a economia inteira do sistema: como Gu de rank 5 são raríssimos, **o Gruel Mud é o Gu de rank 5 mais fácil de conseguir do mundo**, e muitos Mestres de rank 5 sem peça melhor carregam um só para não ficar sem nada no rank. Um Gu de obra civil que vira item de prestígio por escassez de alternativas.
 
 ---
+
+## Caminho do refino e do avanço de cultivo
+
+A família mais importante do rank 1 para quem quer **subir de rank**, e a que melhor explica por que este mundo é economicamente cruel. Ver [[05 - Ranks e Avanço|Ranks e Avanço]] e [[08 - Refinement Path|Refinement Path]].
+
+### Refino
+
+#### Liquor Worm
+
+- **O que faz.** Exala um **aroma de vinho** que, inalado, é absorvido pelo mar primordial da abertura e **condensa essência de cobre-verde um pequeno estágio acima** da do usuário. Melhora a **qualidade** da essência; **não** faz ninguém avançar de estágio. O aroma refina passivamente, sem exigir ação do usuário.
+- **Como é.** Parecido com um **bicho-da-seda**; voa, e ao voar se enrola numa bola, muito rápido.
+- **Dieta.** **Vinho de bambu verde**: um jarro (duas pedras primordiais) dura quatro dias. E há uma armadilha econômica: **vinho ruim exige doses muito maiores**, então economizar no insumo sai caro.
+- **Desvantagem.** **A conversão é ruinosa.** Gastar vinte por cento da abertura em essência de estágio inicial devolve só **cinco por cento** de essência de estágio médio — três quartos se perdem no caminho. Converter uma abertura inteira consome perto de **cento e oitenta por cento** do próprio mar primordial, o que só se paga queimando pedras primordiais em série. E o Gu fica **inútil para quem passa do rank 2**.
+- **Como se obtém.** É um dos Gu de rank 1 mais disputados do mercado: aparece e é comprado na hora, a um preço abaixo das 600 pedras do Black Boar. **Refinar** um custa de **11 a 16** pedras primordiais para aptidão média — mais que o dobro do Moonlight Gu, porque a **vontade** dele resiste mais.
+- **Evolução.** A segunda linhagem mais documentada da obra, e a única em que ela **compara rotas explicitamente e declara uma delas ruim**. Três rotas saem do mesmo Gu de rank 1:
+  - **Four Flavors Liquor Worm** (rank 2) — **dois Liquor Worms + quatro vinhos** (doce, azedo, amargo e picante), cada um com bebida específica. Procedimento em quatro etapas: os dois vermes num pote com um dos licores, cerca de 100 pedras primordiais jogadas até a esfera de fusão encolher ao tamanho de um punho; troca-se o licor e repete-se. **Total: cerca de 400 pedras.** Refina essência de aço-vermelho. Adiante: Seven Fragrances (rank 3), Nine Eyes (rank 4) — e **não existe versão de rank 5**, porque o pesquisador que a desenvolvia foi morto ainda jovem.
+  - **White Chrysalis** (rank 2) → **Mist Perspiring Butterfly** (rank 3) — a rota **mais difundida e mais prática do mundo**, e ainda assim a ruim: o White Chrysalis **não tem habilidade nenhuma** e só come; a habilidade de refinar essência **se perde já no primeiro passo**.
+  - **Moon Harbinger Gu** (rank 2) — receita do clã Gu Yue, que depois **reconverge** no Seven Fragrances de rank 3, preservando o refino de essência. É a **única reconvergência de rota explicitamente afirmada em toda a obra**.
+  - No topo da linhagem existe ainda uma versão **imortal de rank 8**, o mesmo bicho na forma final, que converte essência imortal de rank 8 em rank 9.
+- **Interações.** É o Gu que define o **teto econômico** de um personagem iniciante: ele transforma dinheiro (vinho e pedras) em qualidade de essência, e o câmbio é péssimo. Note a comparação canônica com os Gu de javali, que a obra faz de propósito: o Liquor Worm **só refina essência, e quando a essência acaba num combate longo o Mestre Gu fica pior que um mortal** — a força do javali continua lá. Escolher entre um e outro é escolher entre **crescer** e **aguentar**.
+
+> [!warning] Uma divergência interna da obra, que vale registrar
+> Um capítulo afirma sem rodeios que **não existe Liquor Worm de rank 5**. Outro diz que o Liquor Worm encontrado no início da história **era originalmente rank 5**, por ser o Gu vital de um mestre de rank 5, e que **caiu a rank 1 por décadas de fome**. A leitura que concilia os dois — e é **dedução nossa**, a obra não a enuncia — é que a linhagem não tem **receita** de rank 5, mas um **Gu vital sobe de rank junto com o dono** sem precisar de receita nenhuma. Guarde a divergência; ela também é a prova canônica de que **um Gu regride de rank por fome**.
+
+#### Relic Gu (cobre-verde)
+
+- **O que faz.** Consumível de uso único que **injeta fundação direto na parede da abertura** de um praticante **de rank 1**, elevando-o **um estágio menor na hora** (de médio para superior, por exemplo). Aplicados em sequência, engrossam a membrana da abertura em degraus visíveis: **luz → água → pedra → cristal**. **Não faz nada em quem não é rank 1.**
+- **Como é.** —
+- **Dieta.** **Não se alimenta**: consumível, gasto no próprio uso `(ded.)`.
+- **Desvantagem.** Uso único; travado ao rank 1; **não vence a barreira entre ranks** (ele sobe estágios dentro do rank, nunca o rank em si); e a oferta não se pode aumentar, porque ninguém os fabrica.
+- **Como se obtém.** **Não pode ser refinado por ninguém — nem pela maior potência do mundo.** Forma-se sozinho, e forma-se **mais onde há mais gente**: são Gu do caminho do homem, e a **densidade humana** é o que os produz. Vendido em lote no mercado mortal por cerca de **2.000 pedras primordiais**, e distribuído como recompensa de missão de seita.
+- **Evolução.** Não citada, e aqui a negativa é categórica: o Relic Gu é uma **série pura, sem árvore** — cobre-verde (rank 1), aço-vermelho (2), prata-branca (3), ouro-amarelo (4). Cada rank só funciona num praticante **daquele rank**, e a versão superior **nunca se transforma na inferior**. Não se refinam nem se fabricam.
+- **Interações.** É a única forma de **comprar tempo puro** no rank 1: poupa meses ou anos de acúmulo de essência. Para a mesa, é o item que responde "o que um personagem faz com dinheiro sobrando?" — e a resposta é honesta, porque **o dinheiro compra progresso dentro do rank e nunca o salto entre ranks**.
+
+#### Second Aperture Gu (série)
+
+- **O que faz.** Cria no corpo do usuário uma **segunda abertura**, do rank correspondente ao rank do Gu usado. O uso é notavelmente simples e **não exige rank nenhum**: não consome essência primordial nem imortal — basta **pingar o próprio sangue** sobre o Gu e alimentá-lo até ele ficar cheio; então ele se **autodetona** e o efeito acontece, criando uma abertura minúscula no corpo.
+- **Como é.** O exemplar de rank 1 parece um **besouro de pontas afiadas e meio gordo**, do tamanho do punho de um rapaz, com aspecto de **jade azul**, macio e frio ao toque, e um **olho dourado nas costas rechonchudas** — olho que pisca com relâmpagos e parece ter mente própria.
+- **Dieta.** Sangue do usuário na ativação; não é alimentação de manutenção, porque o Gu se autodetona.
+- **Desvantagem.** **A trava é o coração da ficha, e o vendedor da obra a omitiu de propósito:** o Second Aperture Gu de rank 1 dá cultivo de rank 1, e **a abertura resultante não avança além disso**. É preciso o de rank 2 para chegar ao rank 2, e assim por diante até o rank 6 — que finalmente entrega uma abertura imortal de verdade. Um imortal despojado da sua abertura precisaria comprar **seis** Gu da série, um de cada rank, e ser extorquido seis vezes.
+- **Como se obtém.** Comprado, a preço de desespero: vendidos **por centenas ou milhares de vezes o custo de produção**. E o custo de produção é o ponto sombrio: a versão mortal **não** precisa de materiais imortais — precisa de **aberturas humanas**, isto é, de aberturas de Mestres Gu, obtidas **capturando Mestres Gu comuns**, o que a obra descreve como "fácil e barato".
+- **Evolução.** Não é árvore: é uma **série de rank 1 a 6**, e um caso deliberado e único. Era **originalmente um Gu Imortal**, e alguém **o modificou para virar uma escada mortal**. A receita original vem de uma herança antiga, é a de um Gu Imortal de rank 6, tem perto de **dez mil palavras** e cerca de **mil passos**: o começo envolve centenas de tipos de material, o meio consome grandes quantidades de Gu de rank 4 e 5, e o passo final exige **outro Gu Imortal de rank 6**. Converter isso na série mortal exigiu domínio de quase-grão-mestre supremo do caminho do refino somado a grão-mestre do caminho humano, com auxílio da luz da sabedoria.
+- **Interações.** Entre um degrau e outro da série, **os Relic Gu servem para subir os pequenos estágios dentro do rank atual** — as duas fichas se encaixam. E as duas essências (a original e a da segunda abertura) **podem ser usadas mutuamente**, porque pertencem à mesma pessoa.
+
+> [!warning] Conhecimento especializado, não comum
+> A existência e o funcionamento exato do Second Aperture Gu não são conhecimento de rua. Ele circula entre desesperados e é vendido por quem lucra com o desespero, e o **custo humano da produção** é segredo de quem produz. Trate-o como informação de mestre até que a mesa a descubra.
+
+---
+
+## Caminho da sorte
+
+### Percepção
+
+#### Luck Inspection Gu
+
+- **O que faz.** **Torna visível a sorte**, que não tem forma: cada pessoa ganha uma aura de cor e brilho próprios, e **quanto mais intensa, maior a chance daquela pessoa de um dia virar imortal**. Mostra fios ou pilares de sorte, de cor e espessura variáveis, e pode ser voltado para o próprio usuário.
+- **Como é.** —
+- **Dieta.** Não informada; a escala vai de poucos em poucos dias no rank 1 a um ou dois anos no rank 5 `(ded.)`.
+- **Desvantagem.** **Não enxerga sorte de rank superior ao próprio.** Contra alguém acima, o Gu mostra **vazio** — e o usuário não sabe distinguir vazio de ausência. Usá-lo repetidamente contra uma sorte muito intensa **fere o próprio Gu** e dói nos olhos de quem olha; num ambiente de tribulação, há risco de contragolpe.
+- **Como se obtém.** Família mortal completa, de rank 1 a 5.
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5), mais uma versão **imortal** de rank 6.
+- **Interações.** Lê um atributo que **nenhum outro Gu revela** e que decide o destino de campanhas inteiras. A falha dele é uma das melhores ferramentas de mestre do catálogo: um Gu de rank 1 apontado para uma figura poderosa devolve **exatamente o mesmo resultado** que apontado para uma pedra. Ver [[23 - Luck Path|Luck Path]].
+
+---
+
+## Caminho das estrelas
+
+### Ataque
+
+#### Star Dart Gu
+
+- **O que faz.** É o Gu mais comum da linha e serve de **munição em massa**: golpes combinados o consomem **aos milhares** de uma vez. A obra não informa dano, alcance nem tamanho do projétil.
+- **Como é.** —
+- **Dieta.** **Suco de bambu-flecha** (*arrow bamboo*), que escorre sozinho dos bambus num bambuzal quente e úmido. Criadouro de primeira é aquele em que o suco forma uma **névoa azul densa**, e para isso o bambuzal precisa ser **regado com água de poço lunar comprada de fora**.
+- **Desvantagem.** Munição descartável: gasta-se por disparo `(ded.)`. E venda a granel é mercado de guerra de preços — a linha inteira vale pouco por unidade.
+- **Como se obtém.** **Produzido em massa**, e o método é encantador: **qualquer inseto comum** posto a dormir dentro de uma rocha de caverna estelar — pedra crivada de furos — passa **quarenta e nove dias** ali, e parte deles sai transformada em Star Dart Gu. É por isso que existe aos milhares e se vende a granel.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É a resposta canônica para "de onde vem munição infinita neste sistema". E o processo de produção é um cenário inteiro: uma caverna, insetos comuns, quarenta e nove dias e uma taxa de conversão. Ver [[19 - Star Path|Star Path]] e [[05 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]].
+
+### Suporte
+
+#### A Bit of Star Gu
+
+- **O que faz.** Gu de **amplificação dedicada** ao caminho das estrelas: mira especificamente Gu do caminho das estrelas e **eleva os efeitos deles em grau enorme**, funcionando como um amplificador não convencional — inclusive amplificando o **ataque** dos Gu estelares. É o degrau mais baixo de uma série completa criada por um único Mestre Gu: rank 1 *a bit of star Gu*, rank 2 *brilliance of two stars Gu*, rank 3 *three stars in the sky Gu*, rank 4 *four stars cube Gu*, rank 5 *five stars aligned Gu*.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** **Serve apenas ao caminho das estrelas** — inútil para qualquer outro.
+- **Como se obtém.** Receita inteiramente nova, encontrada como parte de uma herança. **Materiais extremamente comuns e taxa de sucesso de refino muito maior** que a do amplify effect Gu convencional, que é caro e falha muito. Modificar a série para amplificar também ataque, defesa, movimento e cura do caminho das estrelas exigiria domínio de nível quase-grande-grão-mestre — a obra mede a dificuldade assim.
+- **Evolução.** Não citada como fusão: é uma **série** de rank 1 a 5, com nome próprio em cada degrau, e a obra não afirma que um se transforma no outro.
+- **Interações.** A consequência que a própria obra tira desta ficha é de **escala civilizacional**, e é o melhor gancho de campanha do catálogo inteiro: **se essas receitas se espalhassem, o caminho das estrelas ganharia enorme popularidade, e isso alteraria o equilíbrio entre todos os caminhos de Mestre Gu do mundo.** Um Gu de rank 1 que é, literalmente, uma arma geopolítica.
+
+---
+
+## Caminho do homem
+
+O caminho que trata **profissões e papéis humanos** como leis do universo. Ver [[24 - Human Path|Human Path]].
+
+### Utilidade
+
+#### Pill Refiner Gu
+
+- **O que faz.** Ativado, **vira um refinador de pílulas**: um humano que cultiva o caminho do homem com refino e pílula ao lado, e que produz em massa os **Gu de pílula**, quase todos consumíveis potentes.
+- **Como é.** —
+- **Dieta.** Não informada; a escala vai de poucos em poucos dias no rank 1 a um ou dois anos no rank 5 `(ded.)`.
+- **Desvantagem.** —
+- **Como se obtém.** Fusão de caminho do homem com caminho da pílula. Foi julgado **o achado de maior valor** entre todas as receitas humanas derivadas de uma leva de pesquisa.
+- **Evolução.** Não citada como fusão. Série de rank 1 a 5, **sem versão imortal**.
+- **Interações.** É um Gu que produz **trabalhadores**, não efeitos — o que o torna infraestrutura econômica e não equipamento. Um personagem com um destes tem uma fábrica, não uma arma.
+
+#### Police Gate Gu
+
+- **O que faz.** Série completa do rank 1 ao 6 — de *one police gate Gu* a *six police gate Gu* — cujos **portões ficam mutuamente conectados**. Combinada ao **Constable Gu**, faz os "guardas" criados irem **de um portão a outro instantaneamente**.
+- **Como é.** —
+- **Dieta.** Pedras primordiais depositadas em cada portão, no ritmo do rank `*`.
+- **Desvantagem.** Só funciona **entre portões já instalados**: exige infraestrutura prévia. Um portão sozinho não leva a lugar nenhum.
+- **Como se obtém.** Precisa do **Constable Gu** para completar o sistema.
+- **Evolução.** Não citada como fusão: série de rank 1 a 6.
+- **Interações.** Depende estruturalmente do Constable Gu — é meia peça. Para uma campanha, é uma **rede de teleporte institucional**: barata na base, cara na cobertura, e vulnerável exatamente onde os portões estão.
+
+### Gu de cabelo (efeito não descrito)
+
+Dois Gu que a obra cita **juntos**, como o exemplo canônico de uma categoria inteira: **Gu com pré-requisito corporal**. Eles "precisam de cabelo comprido para mostrar suas habilidades" — o comprimento do cabelo do dono é **condição de funcionamento**, não detalhe estético.
+
+A regra de manutenção pendurada nessa família é o que a torna útil numa mesa: **cortar o cabelo é instantâneo; deixá-lo crescer não é.** Quem precisa mudar de aparência corta e **perde o acesso ao Gu na hora**, e para recuperar o comprimento em pouco tempo é obrigado a recorrer a **outros Gu específicos** de crescimento capilar.
+
+#### Black Hair Gu
+
+- **O que faz.** — **A obra não descreve o efeito.** Pelo nome `(ded.)`, opera no escuro: o texto associa cabelo longo e negro à aparência de um espectro em movimento na escuridão.
+- **Como é.** — Manifesta-se através do cabelo do próprio usuário.
+- **Dieta.** —
+- **Desvantagem.** Refém do cabelo: **o disfarce e o Gu são mutuamente exclusivos**. Efeito não descrito.
+- **Como se obtém.** —
+- **Evolução.** Não citada pela obra. Faixa de rank: 1 a 2 `(ded.)`.
+- **Interações.** Arma sempre presente e sem peso, que não precisa ser sacada nem escondida — o corpo do usuário já a carrega. Entra em conflito direto com **qualquer necessidade de disfarce**, o que é uma incompatibilidade de **história**, não de marcas de dao, e por isso especialmente boa numa mesa.
+
+#### Steel Hair Gu
+
+- **O que faz.** — **A obra não descreve o efeito.** Pelo nome `(ded.)`, endurece os fios até a rigidez do aço, transformando a cabeleira em arma ou em defesa; a obra **não confirma** essa leitura.
+- **Como é.** — Manifesta-se através do cabelo do usuário.
+- **Dieta.** —
+- **Desvantagem.** A mesma da família, e a obra não descreve o mecanismo — o miolo inteiro fica para a mesa inventar.
+- **Como se obtém.** —
+- **Evolução.** Não citada pela obra. Faixa de rank: 1 a 2 `(ded.)`.
+- **Interações.** Arma ou armadura **embutida no corpo**, indetectável numa revista e impossível de desarmar. Vale notar o parentesco funcional com o **Green Silk Gu**, que também usa cabelo — mas o Green Silk **faz o cabelo crescer**, o que sugere `(ded.)` que ele pode servir de solução para o pré-requisito desta família.
+
+---
+
+## Caminho da formação
+
+### Suporte
+
+#### Formation Heart Gu
+
+- **O que faz.** É o **núcleo universal** em torno do qual os demais Gu de uma formação se organizam. A obra mostra o procedimento em cena: refina-se o Formation Heart Gu primeiro, e depois se escolhem outros Gu de rank 1 — de terra, de água, do que houver — para dispor **ao redor dele**. Ativado, os Gu escolhidos se banham numa luz amarela e passam a **girar em torno do Formation Heart**, subindo e descendo, até a formação se fechar.
+- **Como é.** Tem **carapaça que se abre**, revelando asas finas por baixo, e **voa alegremente em volta do novo dono** assim que é refinado.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** **Não faz nada sozinho** `(ded.)`: ele é a moldura, não o quadro.
+- **Como se obtém.** É o Gu mais básico do caminho da formação: quem monta qualquer formação começa por ele. Aparece emprestado por mestres a aprendizes, junto com um punhado de outros Gu de rank 1 para o aluno experimentar.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Interage, por definição, com **tudo**: aceita Gu de qualquer caminho ao redor de si. É a peça que transforma um inventário disperso numa **máquina**, e é exatamente por isso que ela é o primeiro Gu que um mestre de formações entrega a um aluno. Ver [[09 - Formações de Gu|Formações de Gu]] e [[09 - Formation Path|Formation Path]].
+
+---
+
+## Caminho do metal
+
+### Ataque
+
+#### Sabre Gu
+
+- **O que faz.** **Arma materializada.** O detalhe que o distingue é **onde ele mora**: o Gu deixa uma **marca de sabre gravada na palma da mão** do usuário, e é nessa marca que a essência primordial é despejada. Juntam-se as palmas, verte-se a essência na marca, e **um sabre completamente novo se forma instantaneamente**, pronto para ser empunhado com a mão direita. A lâmina é extremamente afiada — corta um risco de luz fria no ar e parte um lobo-do-vento ao meio de um golpe só. Sendo materializada a cada acionamento, é **sempre uma lâmina nova e intacta**, independentemente do que a anterior sofreu.
+- **Como é.** Uma marca de sabre gravada na palma; o sabre em si se forma do nada.
+- **Dieta.** —
+- **Desvantagem.** **Caro por invocação** para o efeito que entrega — a obra registra um jovem líder de tribo acionando-o espremendo "o último traço de essência primordial da abertura", no mesmo fôlego em que os companheiros gritavam que a essência de todos estava acabando. E o efeito é modesto: mata um inimigo por vez, o que num cerco de milhares é irrelevante. A marca na palma **identifica o portador**.
+- **Como se obtém.** — Deixa marca permanente na palma da mão `(ded.: a marca é o próprio Gu manifestado)`.
+- **Evolução.** Não citada pela obra. Faixa de rank: 1 a 2 `(ded.)`.
+- **Interações.** Arma **impossível de desarmar ou confiscar**, que não ocupa as mãos até ser necessária — o que resolve, sozinho, todo problema de "onde o personagem guarda a espada". Funciona também como **símbolo tribal**: a tribo da cena se identifica pelos sabres, e erguer a lâmina materializada é o gesto de convocação para a batalha.
+
+### Efeito não descrito
+
+#### Golden Qi Gu
+
+- **O que faz.** — **A obra dá o nome e o preço, e nada mais.**
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** Efeito inteiramente não descrito.
+- **Como se obtém.** Vendido **a viva-voz** num mercado temporário de caravana por **cinquenta pedras primordiais** — grito de vendedor ambulante, no mesmo pregão que seda fina e licores.
+- **Evolução.** Não citada pela obra. Faixa de rank: 1 a 2 `(ded.)`.
+- **Interações.** O dado útil aqui é o **preço**: cinquenta pedras é valor de item comum e acessível, no mesmo patamar do que um caçador de aldeia consegue juntar. Isso o situa na base da pirâmide econômica e confirma que é **mercadoria de prateleira, não peça de cofre** — um dos poucos Gu de que a obra dá o preço de balcão exato. Pelo nome `(ded.)`, pertence ao caminho do qi na variante dourada/metálica; ver [[05 - Qi Path|Qi Path]].
+
+---
+
+## Caminho yin-yang
+
+### Utilidade
+
+#### Multiple Pregnancy Gu
+
+- **O que faz.** Determina **quantos filhos uma gravidez produz**, e a escala é ditada diretamente pelo rank: rank 1 produz **um** filho, rank 2 gêmeos, rank 3 trigêmeos, rank 4 quadrigêmeos, rank 5 quíntuplos.
+- **Como é.** —
+- **Dieta.** Não informada; cada degrau come no ritmo do próprio rank `(ded.)`.
+- **Desvantagem.** O rank do Gu **fixa o número**: não há como ajustar caso a caso `(ded.)`. E o de rank 1 não faz nada que a natureza já não faça.
+- **Como se obtém.** Fruto de uma pesquisa que o próprio criador acabou julgando rasa demais para virar um caminho novo — o yin-yang ficou como um punhado de resultados úteis combináveis com outros caminhos, e este é um deles. É um dos **três Gu que a obra aponta como o núcleo do caminho yin-yang** tal como um Venerável o concebeu.
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5).
+- **Interações.** Nenhuma de combate. O valor é **demográfico**: é a peça que transforma reprodução em planejamento, e portanto uma ferramenta de clã e não de aventureiro. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
+
+---
+
+## Cura e vida — sem caminho declarado
+
+### Cura
+
+#### Healing Grass Gu
+
+- **O que faz.** Cura. A obra registra o rank, o comércio e o nome — mas **não diz quanto cura nem em quanto tempo**.
+- **Como é.** Gu-erva.
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** Cura de rank 1: presume-se que resolva ferimento leve e nada além `(ded.)`.
+- **Como se obtém.** Produzido em quantidade e vendido em **loja de clã**. Há um detalhe econômico canônico e útil: um Mestre Gu com estoque **prefere repassá-lo em bloco a um lojista** a vendê-lo unidade por unidade, porque o trabalho de varejo não compensa. É assim que a assistência de um clã inteiro se sustenta.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Vale a regra geral e ela é dura: **marcas de dao já instaladas no corpo atrasam ou impedem a cura**. Sem choque direto, a cura funciona muito mais devagar — dez horas de acionamento contínuo não fecharam um corte num tendão convertido em aço. Com choque, **fere em vez de curar**. Um personagem que empilhou reforço corporal precisa saber que comprou, junto, uma penalidade permanente de recuperação.
+
+#### Spirit Saliva Gu
+
+- **O que faz.** **Cura Mestres Gu.** O traço que o torna especial não é a potência: é o **sigilo**. Usado escondido, **não dá para perceber de fora que alguém está se curando**.
+- **Como é.** Um **sapo cinzento parecido com uma pedra**.
+- **Dieta.** Água de nascente e insetos `*`.
+- **Desvantagem.** A obra **não informa quanto ele cura** — trate como cura leve até descobrir o contrário `(ded.)`.
+- **Como se obtém.** É um dos **três Gu oferecidos a iniciantes como opção de partida**, ao lado do Water Arrow Gu e do Fire Cloak Gu.
+- **Evolução.** Não citada pela obra.
+- **Interações.** Sinergia canônica e barata: **combinado a um Gu que cubra o corpo** — um manto de fogo, por exemplo —, o usuário se trata no meio de uma multidão sem que ninguém saiba. E os dois Gu dessa combinação saem da **mesma bandeja de escolha inicial**, o que faz dela a primeira decisão tática interessante que um personagem novo pode tomar: quem parece estar perdendo continua inteiro, e o adversário não ajusta o plano.
+
+### Reparo
+
+#### Bone Bamboo Gu
+
+- **O que faz.** É um Gu de **cura que não trata gente**. A obra o usa como caso didático de uma família inteira de Gu curativos cujo paciente **não é o corpo humano**: assim como o *wolf smoke Gu* só trata ferimentos de lobos e o *pig iron Gu* só trata a centopeia-dourada-serra-elétrica, o Bone Bamboo trata **objetos e Gu danificados**.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** **Não cura pessoas.** E, por ser barato e de rank 1, é o **alvo perfeito de açambarcamento**: a obra registra um elder de tribo comprando **todo o estoque de Bone Bamboo Gu do mercado de uma região inteira**, de modo que nenhuma loja tinha exemplar para vender — enquanto o ghost fire Gu de rank 2, o outro ingrediente necessário, continuava abundante.
+- **Como se obtém.** Mercadoria de loja comum e barata.
+- **Evolução.** Não citada pela obra.
+- **Interações.** **Não repara sozinho:** precisa ser acionado **junto com o ghost fire Gu** (rank 2). O uso canônico é consertar a **roda de osso branco**, um Gu de batalha de **rank 5**, devolvendo-a ao funcionamento depois de ela ter chegado à beira da destruição. Ou seja: um Gu de **rank 1** é peça obrigatória para reparar equipamento de rank 5, o que faz dele um item de manutenção desproporcionalmente estratégico — e um gancho econômico pronto, porque quem comprar o estoque da região **trava a manutenção de todo mundo**.
+
+---
+
+## Sem caminho declarado — outros
+
+### Ataque
+
+#### Exploding Egg Gu
+
+- **O que faz.** — **A obra nunca descreve o mecanismo: cita só o nome e o uso.** Pelo nome e pelo emprego, é um Gu de explosão `(ded.)`. O que ela afirma é o **efeito por consequência**: numa provação, o objetivo era **usar um único exploding egg Gu para exterminar uma aldeia inteira** de eggmen vermelhos — humanos variantes do tamanho de bebês, de pele rosada, com um ovo vermelho no meio do peito, que moram em casas de rocha vulcânica. Logo, **um único exemplar de rank 1 basta para aniquilar uma aldeia desses seres** `(ded.)` — embora não baste para reverter uma situação em que o próprio usuário já está gravemente ferido.
+- **Como é.** —
+- **Dieta.** Não informada; no rank 1 come de poucos em poucos dias `(ded.)`.
+- **Desvantagem.** A obra não descreve limitação nenhuma. O único limite mostrado é o da própria provação — um por rodada — e o fato de não salvar quem já está à beira da morte.
+- **Como se obtém.** Vendido normalmente no mercado mortal e **comprável em massa**. Receita: —
+- **Evolução.** Não citada pela obra.
+- **Interações.** É uma das **três chaves de entrada da herança dos Três Reis**, na Fronteira Sul: o pilar amarelo exige ter refinado um **dog enslavement Gu** de rank 1; o azul, um **paper crane Gu** de rank 2; e o vermelho, **pelo menos um exploding egg Gu de rank 1**. Dentro da herança, o Mestre Gu **só pode usar esses Gu de rank 1** — todos os outros ficam bloqueados. E a obra registra em torno disso um caso mecânico explícito de **especulação com informação privilegiada**: alguém investiu quatrocentas mil pedras primordiais comprando em lote os três Gu **antes** de a notícia da herança se espalhar; quando a notícia saiu, **o preço triplicou**.
+
+> [!note] Para o design
+> A herança dos Três Reis é o melhor modelo de masmorra deste mundo: **a chave de entrada é um Gu barato de rank 1, e lá dentro só o Gu da chave funciona**. Isso transforma uma provação de alto nível num desafio de perícia e de preparo, não de poder, e resolve de uma vez o problema de nivelar um grupo. Copie a estrutura inteira.
+
+---
+
+## Onde a obra cala — e onde você pode inventar
+
+Esta lista é **informação, não lacuna**. Ela é a autorização explícita para inventar: se um Gu está aqui, a obra o **nomeia** e não descreve o que ele faz, ou descreve sem número nenhum. Preencher esses buracos não contradiz o cânone — e é onde uma mesa ganha mais.
+
+**Gu de rank 1 que a obra só nomeia, sem descrever o efeito:**
+
+| Gu | O que a obra dá | O que falta inteiro |
+|---|---|---|
+| **Stone Scar Gu** | o nome, e que funde com o Moonlight | efeito, aparência, dieta, preço |
+| **Whirlwind Gu** | o nome, e dois usos como componente | efeito isolado, aparência, dieta, preço |
+| **Fish Scale Gu** | o nome, o valor de mercado, duas rotas de fusão | efeito, aparência, dieta |
+| **Single Aperture Charcoal Gu** (e os quatro degraus acima dele) | os cinco nomes, os cinco ranks, a cadeia inteira de refino | **o efeito de todos os cinco** |
+| **Smelly Fart Fat Worm** | aparência e hábitat | efeito, alvo, alcance, duração |
+| **Black Hair Gu** | a família, o pré-requisito de cabelo comprido | o efeito |
+| **Steel Hair Gu** | a família, o pré-requisito de cabelo comprido | o efeito |
+| **Golden Qi Gu** | o nome e o preço de balcão (50 pedras primordiais) | tudo o mais |
+| **Exploding Egg Gu** | o uso como chave de herança e um efeito por consequência | o mecanismo |
+
+**Gu descritos, mas sem nenhum número:** Beast Skin Gu, Iron Skin Gu, Stone Skin Gu, Rock Skin Gu (duração e custo), Bone Spear Gu (alcance e dano), Healing Grass Gu (quanto cura), Spirit Saliva Gu (quanto cura), Star Dart Gu (dano, alcance, tamanho), Zither Gu (mecanismo direto), Swimword Gu (custo), Small Soul Gu (custo, alcance, duração no rank 1), Slavery Gu e Lurking Soul Coat Gu (detalhes do rank 1), Pill Refiner Gu e Police Gate Gu (custo de uso).
+
+**E os dois silêncios estruturais que valem para o sistema inteiro:**
+
+- **A obra nunca dá taxa de sucesso numérica de uma fusão mortal.** Dá qualitativos ("baixa", "muito baixa") e dá o efeito de catalisadores em pontos percentuais (a presa de rei-javali, +20), mas nunca a taxa de base. Se o seu sistema precisar de um número, ele é seu.
+- **A obra nunca informa o limiar de conflito entre marcas.** Ela diz "se a marca de força for **forte demais**" e não diz quanto é forte demais.
+
+---
+
+## Tabela-resumo — os 75 Gu de rank 1, em uma linha cada
+
+Ordenada por caminho, na mesma ordem das seções acima. A coluna **Evolução** traz só os destinos de rank 2 nomeados pela obra; *série* significa que o mesmo Gu existe em vários ranks sem fusão; *não citada* significa exatamente isso.
+
+| Gu | Caminho | Função | Em uma linha | Evolução |
+|---|---|---|---|---|
+| Moonlight Gu | linhagem lunar | ataque | lâmina de luar, 10 m, linha reta, mira difícil | Moonglow · Moon Scar · Moonwhirl · Moon Raiment |
+| Little Light Gu | linhagem lunar | suporte | dobra tamanho e alcance da lâmina lunar; dois não somam | Moonglow (2 unidades) |
+| Stone Scar Gu | linhagem lunar | material | efeito não descrito; ingrediente da rota do alcance | Moon Scar (com Moonlight) |
+| Whirlwind Gu | linhagem lunar | material | efeito não descrito; ingrediente da rota da trajetória | Moonwhirl (com Moonlight) |
+| Black Boar Gu | força | reforço permanente | força permanente cumulativa; o Gu mais falsificado do mundo | Black Mane (com Green Silk) |
+| White Boar Gu | força | reforço permanente | força permanente até o teto de um javali; come um porco a cada 5 dias | White Jade (com Jade Skin) |
+| Jin Strength Gu | força | reforço permanente | +1 jin permanente, empilhável; ~220 pedras | série jin/jun (não é árvore) |
+| Flower Boar Gu | força | suporte | força de javali por 10 respirações; o mais barato do mercado | não citada |
+| Brute Force Longhorn Beetle Gu | força | suporte | força de touro por 5 respirações; 10-20% da essência e lesão muscular | não citada |
+| Yellow Camel Longhorn Beetle Gu | força | suporte | 15 minutos de fôlego sem nenhuma sequela | não citada |
+| Pink Boar Gu | força | utilidade | engorda o usuário; nenhum valor de cultivo | não citada |
+| Beast Skin Gu | — (defesa) | defesa | o mais barato da família da pele; sem números | afirmadas e **não nomeadas** |
+| Rock Skin Gu | — (defesa) | defesa | braços de rocha impenetráveis, lentos demais para acertar | não citada |
+| Jade Skin Gu | — (defesa) | defesa | luz jade num membro; aguenta 16 atacantes; come jade | White Jade · Moon Raiment |
+| Iron / Bronze / Stone Skin Gu | — (defesa) | defesa | pele metálica, defesa alta enquanto acesa | só o bronze: r3 (permanente) → Ancient Bronze (r4) |
+| Green Silk Gu | — (defesa) | defesa | capa de cabelo impenetrável; 30% da essência de uma vez | Black Mane (com Black Boar) |
+| Fire Cloak Gu | fogo `(ded.)` | defesa | manto de fogo que protege **e** esconde o que se faz por baixo | não citada |
+| Bone Spear Gu | — (osso) | ataque | lança de osso; acumulável às centenas; come leite | Spiral Bone Spear |
+| Fish Scale Gu | — (defesa) | material | efeito não descrito; caro para um material | Scale Armor · Stealth Scales |
+| Flash Blink Gu | luz | controle | explode em luz inevitável; anula furtividade de sombra por 3 h | não citada |
+| Water Arrow Gu | água | ataque | flechas de água; fraco, e a obra diz isso | não citada |
+| Water Light Gu | água | utilidade | ilumina um cômodo para sempre; o Gu mais fácil de refinar do mundo | não citada |
+| Kerosene Gu | fogo | ataque | descartável; intensifica fogo já aceso dentro do alvo | não citada |
+| Single Aperture Charcoal Gu | fogo | refino | efeito não descrito; base da escada de artesanato mais completa da obra | Double Orifice Stove Gu |
+| Grass Puppet Gu | madeira | invocação | bonecos de grama sustentados pela essência do dono | série (r1-4) + versão imortal r6 |
+| Vitality Leaf | madeira | cura | cura instantânea; 1 h de imunidade a novas folhas; ~50 pedras | planta-mãe tem avanço **não nomeado** |
+| Wine Sack Flower Gu | madeira | utilidade | secreta néctar-vinho; come só essência; fibra vira corda | não citada |
+| Rice Pouch Grass Gu | madeira | utilidade | produz arroz superior; come só essência | Defecate Gu (com Smelly Fart) |
+| Scarecrow Gu | madeira | utilidade | boneco de treino que se conserta sozinho; <1,5 pedra | não citada |
+| Smelly Fart Gu | veneno | material | só fede; um dos materiais de refino mais versáteis do mercado | Defecate Gu (com Rice Bag Grass) |
+| Smelly Fart Fat Worm | veneno | material | efeito não descrito; idêntico ao Black Boar, e é a fraude do mercado | não citada |
+| Small Soul Gu | alma | percepção | veículo obrigatório para mandar uma vontade explorar longe | afirmadas e **não nomeadas** |
+| Lurking Soul Coat Gu | alma | furtividade | encobre as flutuações de alma de quem comanda feras à distância | série (r1-5) |
+| Dog Enslavement Gu | escravização | controle | escraviza um cão pela alma; o Gu morre com o cão | série (r1-5) |
+| Wolf Enslavement Gu | escravização | controle | fumaça a 200 passos; dominado o lobo, vem a matilha; uso único | série (r1-5) |
+| Fish Enslavement Gu | escravização | controle | escraviza cardumes; um por vez, com risco de contragolpe na alma | série (r1-3) |
+| Slavery Gu | escravização | controle | controle total de uma pessoa; o rank fixa o rank máximo do alvo | série (r1-5) + imortal r6 |
+| Dog Guts Gu | escravização | suporte | dobra ou triplica a coragem dos cães num raio | série (r1-5) |
+| Bookworm Gu | sabedoria | armazenamento | memória perfeita e permanente por um traço de essência; raríssimo | não citada (há receitas r2 e r3 criadas depois) |
+| Heart Engraved Gu | sabedoria | armazenamento | entrega informação direto na mente de outra pessoa; uso único | série (r1-5, um coração por rank) |
+| Star Thought Gu | sabedoria | combustível | o melhor pensamento para dedução (3-4×) e o único que vira arma mental | série (r1-5) + imortal r6 |
+| Malicious Thought Gu | sabedoria | combustível | pensamento de conspiração; vale dezenas dos outros para tramar | série (r1-5) |
+| Memory Thought Gu | sabedoria | combustível | única forma de recuperar memórias vagas com nitidez | série (r1-5) |
+| Contact Heart Gu | sabedoria | controle | põe o alvo em estupor sem feri-lo; Gu selvagem, colhido num rio | série (r1-5) |
+| Inch of Time | tempo | refino | acelera processos externos; **não** funciona em pessoas nem no dono | série (r1-5) |
+| Dragonpill Cricket Gu | espaço/movimento | movimento | salto instantâneo de 3 a 10 m; guerra de atrito que o dono perde | não citada |
+| Clear Wind Wheel Gu | vento | movimento | ciclones sob os pés; base de golpes combinados de elite | Jade Wind Wheel (uma das rotas) |
+| Cool Wind Gu | vento | utilidade | bando de peixes alados que sopra ar frio; frágil e rápido demais | não citada |
+| Signal Gu | informação | comunicação | fogo de artifício visível a 50 km; não carrega mensagem | não citada |
+| Paper Crane Gu | informação | comunicação | leva carta a destinatário certo **e** guia pelo caminho | série (r1-2) |
+| Swimword Gu | informação | comunicação | dezenas formam caracteres reescritos ao vivo num estandarte | não citada |
+| Vine Information Gu | informação | registro | identidade e ficha de arena; alugado, não vendido; 500 pedras | não citada |
+| Stealth Rock Gu | — (furtividade) | furtividade | invisibilidade do corpo, mas não das roupas nem do sangue | Stealth Scales (com Fish Scale) |
+| Quiet Steps Gu | — (furtividade) | furtividade | abafa os passos; o exemplo canônico do teto de 4 a 5 Gu | não citada |
+| Zither Gu | som | suporte | cítara voadora; veículo de comando de enxames escravizados | série (r1-5) |
+| Sandpit Gu | terra | controle | cova de areia instantânea; 5% da essência por uso | não citada |
+| Gruel Mud Gu | terra | utilidade | amolece e molda lama; ergue cidades; nasce sozinho | série (r1-5) + imortal r6 |
+| Liquor Worm | refino/cultivo | refino | refina a essência um estágio acima; conversão ruinosa; ~11-16 para refinar | Four Flavors · White Chrysalis · Moon Harbinger |
+| Relic Gu (cobre-verde) | refino/cultivo | refino | sobe um estágio menor na hora; ninguém consegue fabricá-lo | série pura (r1-4), sem árvore |
+| Second Aperture Gu | refino/cultivo | refino | cria uma segunda abertura travada no rank do Gu usado | série (r1-6), convertida de um Gu Imortal |
+| Luck Inspection Gu | sorte | percepção | torna a sorte visível; cego para sorte de rank superior | série (r1-5) + imortal r6 |
+| Star Dart Gu | estrelas | ataque | munição em massa; insetos comuns viram Gu em 49 dias | não citada |
+| A Bit of Star Gu | estrelas | suporte | amplifica muito Gu do caminho das estrelas; materiais comuníssimos | série (r1-5) |
+| Pill Refiner Gu | homem | utilidade | vira um refinador de pílulas humano que produz Gu de pílula em massa | série (r1-5) |
+| Police Gate Gu | homem | utilidade | rede de portões interligados; precisa do Constable Gu | série (r1-6) |
+| Black Hair Gu | homem | ataque `(ded.)` | efeito não descrito; exige cabelo comprido | não citada |
+| Steel Hair Gu | homem | ataque `(ded.)` | efeito não descrito; exige cabelo comprido | não citada |
+| Formation Heart Gu | formação | suporte | núcleo em torno do qual qualquer formação se organiza | não citada |
+| Sabre Gu | metal | ataque | marca na palma que materializa um sabre novo a cada uso; caro | não citada |
+| Golden Qi Gu | metal | — | efeito não descrito; 50 pedras primordiais no pregão de caravana | não citada |
+| Multiple Pregnancy Gu | yin-yang | utilidade | o rank define quantos filhos a gravidez produz | série (r1-5) |
+| Healing Grass Gu | — (cura) | cura | cura; a obra não diz quanto nem em quanto tempo | não citada |
+| Spirit Saliva Gu | — (cura) | cura | cura **invisível**: ninguém percebe de fora | não citada |
+| Bone Bamboo Gu | — (cura) | reparo | conserta objetos e Gu, não pessoas; precisa do ghost fire Gu | não citada |
+| Exploding Egg Gu | — | ataque | mecanismo não descrito; um só arrasa uma aldeia de eggmen | não citada |
+
+---
+
+## Notas de montagem
+
+**O que foi catalogado.** **Setenta e cinco fichas**, cobrindo **setenta e sete nomes de Gu** — a ficha de `Iron / Bronze / Stone Skin Gu` cobre três nomes de uma vez, porque a obra os declara "parecidos em aparência e em efeito" e só diferencia o bronze. As fichas saíram do [[04 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] (73 linhas de rank 1 ou de faixa iniciando no rank 1) mais **três Gu que não constavam dele**: o **Stone Scar Gu**, o **Whirlwind Gu** e o **Fish Scale Gu**, todos rank 1 `(ded.)` por fundirem com um rank 1 para gerar um rank 2, e todos indispensáveis porque são os ingredientes que faltavam nas rotas lunar e de furtividade.
+
+**Evolução.** Distribuição das setenta e cinco fichas:
+
+| Situação | Quantas |
+|---|---|
+| **Rota de evolução nomeada** (funde e vira um Gu de nome diferente) | 17 |
+| **Evolução afirmada, mas não nomeada** — a obra diz que existe e não a descreve | 3 (Beast Skin, Small Soul, Vitality Leaf) |
+| **Série ou faixa de rank** — o mesmo Gu em vários ranks, sem fusão nenhuma | 29 |
+| **Nenhuma evolução citada pela obra** | 26 |
+
+A proporção confirma a regra geral: **o silêncio é o padrão, não a exceção**. Fora da linhagem lunar e da do Liquor Worm, a obra quase nunca fecha uma receita — o padrão dela é dar o Gu-base e calar sobre o segundo componente.
+
+**O que precisei deduzir, e por quê.**
+
+- **Rank de cinco Gu.** Stone Scar, Whirlwind e Fish Scale receberam rank 1 `(ded.)` por fundirem com Gu de rank 1 para produzir Gu de rank 2. Quiet Steps recebeu rank 1 `(ded.)` por compor o inventário de um praticante de rank 1. Cool Wind, Black Hair, Steel Hair, Golden Qi e Sabre estão registrados no catálogo plano como faixa "1 a 2 `(ded.)`" e foram mantidos assim.
+- **Categoria funcional.** As categorias (`Ataque`, `Defesa`, `Movimento`, `Percepção`, `Suporte`, `Cura`, `Utilidade`, `Refino`) **não existem na obra**: são organização nossa, para que a hierarquia sirva de ficha de personagem. Onde nenhuma delas coube, criei categoria nova em vez de forçar simetria — daí `Controle`, `Furtividade`, `Invocação`, `Material de fusão`, `Material de refino`, `Combustível de dedução`, `Armazenamento de informação`, `Comunicação e registro`, `Reforço corporal permanente`, `Reparo` e `Efeito não descrito`. **Nenhum caminho recebeu todas as categorias**, e vários têm uma só: o caminho da luz, no rank 1, tem exatamente um Gu.
+- **Caminho.** Só atribuí caminho onde a obra atribui. Os Gu de pele, o Bone Spear, o Stealth Rock, o Quiet Steps, os três Gu de cura e o Exploding Egg estão em seções marcadas como **"sem caminho declarado"**, porque nos primeiros volumes o vocabulário formal de caminhos ainda não existia e a obra nunca voltou para classificá-los. A única atribuição por dedução é a do **Fire Cloak Gu** ao caminho do fogo, e ela está marcada na própria ficha.
+- **Interações.** O campo é canônico onde cita um dos **seis pares nomeados** (força × luz, força × espaço, força × vento, força × água, restrição × palavra, cura × qualquer lei instalada) ou uma sinergia registrada em cena. Onde ele diz que um Gu "fecha uma porta", trate como **tendência canônica sem número**: a obra afirma o mecanismo e nunca dá o limiar.
+
+**Correções já verificadas que esta nota respeita.** O `Emperor Yama` **não é um Gu**, é golpe imortal de rank 8, e por isso não aparece em catálogo de Gu nenhum. O refino reverso do `essence iron bone Gu` corre de rank 4 **para** o iron bone Gu, e não o contrário — a direção está invertida no [[06 - Catálogo de Receitas|Catálogo de Receitas]]. E o `Monolith Gu` **não** é evolução declarada do Rock Skin Gu: a obra apenas lista os dois lado a lado, e a ficha do Rock Skin registra isso.
+
+## Notas relacionadas
+
+- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o inventário completo, todos os ranks, tabela por caminho
+- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão, vistas do lado do refinador
+- [[02 - O que é um Gu|O que é um Gu]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[05 - Gu Vital|Gu Vital]]
+- [[06 - Refino de Gu|Refino de Gu]] · [[07 - Fusão de Gu|Fusão de Gu]] · [[13 - Qualidade e Fraude|Qualidade e Fraude]]
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] · [[16 - Dao Marks|Dao Marks]]
+- [[05 - Ranks e Avanço|Ranks e Avanço]] · [[04 - Essência Primordial|Essência Primordial]] · [[03 - Aptidão|Aptidão]]
+- [[08 - Killer Moves|Killer Moves]] · [[09 - Formações de Gu|Formações de Gu]] · [[10 - Como Funciona um Combate|Como Funciona um Combate]]
+- [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] · [[02 - Pedras Primordiais|Pedras Primordiais]]

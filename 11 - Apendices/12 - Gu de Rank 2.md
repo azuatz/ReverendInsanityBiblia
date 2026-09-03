@@ -2009,3 +2009,771 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
   Jade Wind Wheel é "**uma das** possíveis rotas de avanço" do Clear Wind Wheel — deixando
   explícito que há outras e não as nomeando.
 
+---
+
+# Caminho do metal
+
+## Ataque
+
+### Sabre Gu
+
+*Rank 1 a 2 (ded.).*
+
+- **O que faz.** **Materializa uma arma.** O Gu deixa uma **marca de sabre gravada na
+  palma da mão** do usuário, e é nessa marca que a essência primordial é despejada. Juntam-
+  se as palmas, verte-se a essência na marca e **um sabre completamente novo se forma
+  instantaneamente**, pronto para ser empunhado. A lâmina é descrita como extremamente
+  afiada: corta um risco de luz fria no ar e parte um lobo-do-vento ao meio de um golpe só.
+  Sendo materializada a cada acionamento, é sempre uma lâmina **nova e intacta**,
+  independentemente do que a anterior sofreu.
+- **Como é.** Marca de sabre na palma quando desligado; sabre completo quando aceso.
+- **Dieta.** —
+- **Desvantagem.** **Caro por invocação** para o efeito que entrega. A obra registra o
+  custo por meio do caso: um jovem líder de tribo o acionou espremendo "o último traço de
+  essência primordial da abertura", enquanto os companheiros gritavam que a essência de
+  todos estava acabando. E o efeito é modesto — mata um inimigo por vez, o que num cerco
+  de milhares é irrelevante. A marca na palma **identifica o portador**.
+- **Como se obtém.** —. Deixa marca permanente na palma da mão (ded.: a marca é o próprio
+  Gu manifestado).
+- **Evolução.** Não citada pela obra.
+- **Interações.** Funciona também como **símbolo tribal**: a tribo em questão se
+  identifica pelos sabres, e erguer a lâmina materializada é o gesto de convocação para a
+  batalha. Do ponto de vista de conjunto, é uma arma **impossível de desarmar ou
+  confiscar** e que não ocupa as mãos até ser necessária — o que o torna a peça óbvia de
+  quem precisa parecer desarmado.
+
+### Golden Needle Gu
+
+- **O que faz.** Sozinho, quase nada — e é justamente esse o ponto. Dispara-se **uma
+  grande nuvem de agulhas douradas** de uma vez, e a obra é explícita em que "o Golden
+  Needle Gu por si só não era nada de extraordinário". O que ele faz é **assumir a
+  natureza do parceiro** com que for combinado.
+- **Como é.** Agulhas douradas finas, do comprimento de um dedo indicador.
+- **Dieta.** —
+- **Desvantagem.** Inútil sozinho (ded.), e exige que o usuário domine as combinações —
+  a praticante da cena levou **sete a oito dias** para ficar proficiente em quatro
+  combinações.
+- **Como se obtém.** **Não é um Gu natural**: foi criado pelos Mestres Gu do clã Tie. Cada
+  exemplar é rank 2, e eles são usados **às centenas de uma vez**.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É a **matriz de combinação mais limpa de toda a obra**, e ela merece ser
+  lida inteira, porque é o melhor modelo de design que o sistema oferece:
+  - **+ `Poison Liquid Gu`** → vira agulha venenosa;
+  - **+ `Stiff Gu`** → deixa os inimigos incapazes de dar um passo;
+  - **+ `Chaotic Mind Gu`** → causa caos entre os inimigos, que deixam de distinguir
+    aliados de inimigos;
+  - **+ `Vitality Gu`** → tem propriedades de **cura**.
+
+  Num só episódio, a mesma praticante usou as quatro: as agulhas mataram por veneno,
+  paralisaram, viraram os macacos uns contra os outros e depois, disparadas de novo,
+  **transformaram-se em bolas de luz dourada que percorreram as feridas e devolveram a
+  mobilidade aos sobreviventes**. Um Gu neutro que é quatro Gu conforme o parceiro.
+
+> [!note] Para o design
+> Se a mesa precisar de **um** exemplo de item para justificar um sistema de combinação,
+> é este. Ele resolve o problema de o jogador ter muitos itens e usar sempre o mesmo:
+> aqui o item é constante e a **escolha do parceiro** é a decisão tática, o que multiplica
+> profundidade sem multiplicar inventário.
+
+## Utilidade
+
+### Golden Qi Gu
+
+*Rank 1 a 2 (ded.).*
+
+- **O que faz.** **A obra dá o nome e o preço, e nada mais.** Efeito, dieta, custo de uso
+  e receita não são informados. Pelo nome (ded.), pertence ao caminho do qi na variante
+  dourada ou metálica.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** Efeito inteiramente não descrito.
+- **Como se obtém.** Vendido a viva-voz num mercado temporário de caravana por **cinquenta
+  pedras primevas** — grito de vendedor ambulante, no mesmo pregão que seda fina e
+  licores. O dado útil é o preço: cinquenta pedras é valor de item **comum e acessível**,
+  no mesmo patamar do que um caçador de aldeia consegue juntar, o que situa o Gu na base
+  da pirâmide econômica e confirma que é mercadoria de prateleira, não peça de cofre.
+- **Evolução.** Não citada pela obra.
+- **Interações.** —
+
+---
+
+# Caminho do homem
+
+## Ataque
+
+### Black Hair Gu
+
+*Rank 1 a 2 (ded.).*
+
+- **O que faz.** **A obra não descreve o efeito deste Gu.** O que ela descreve é a família
+  e o pré-requisito, e isso já é bastante: ele usa o **cabelo do próprio Mestre Gu** como
+  meio de manifestação, e o **comprimento do cabelo é condição de funcionamento**, não um
+  detalhe estético. Pelo nome (ded.), opera no escuro — o texto associa cabelo longo e
+  negro à aparência de espectro em movimento na escuridão.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** A regra de manutenção que a obra pendura nesta família é o que a torna
+  útil numa mesa: **cortar o cabelo é instantâneo, deixá-lo crescer não é**. Quem precisa
+  mudar de aparência corta e **perde o acesso ao Gu na hora**, e para recuperar o
+  comprimento em pouco tempo é obrigado a recorrer a **outros Gu específicos** de
+  crescimento capilar.
+- **Como se obtém.** —. Essência primordial (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** É o exemplo canônico de uma categoria inteira: os **Gu com pré-requisito
+  corporal**. A obra o cita ao lado do `Steel Hair Gu` para nomear a categoria. A interação
+  decisiva é negativa e é com **disfarce**: o Gu e a mudança de aparência por corte de
+  cabelo são mutuamente exclusivos, e restaurar o comprimento exige gastar outro Gu.
+
+### Steel Hair Gu
+
+*Rank 1 a 2 (ded.).*
+
+- **O que faz.** Mesma família e mesmo pré-requisito: usa o **cabelo do usuário** como
+  meio e **exige cabelo comprido** para poder manifestar sua habilidade. Pelo nome (ded.),
+  endurece os fios até a rigidez do aço, transformando a cabeleira em arma ou em defesa —
+  **a obra não descreve o efeito e não confirma essa leitura.**
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** A mesma economia da família: cortar o cabelo **desativa o Gu**, e
+  devolver o comprimento em pouco tempo obriga a usar Gu específicos de crescimento
+  capilar. É um Gu em conflito direto com qualquer necessidade de disfarce.
+- **Como se obtém.** —. Essência primordial (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** Arma ou armadura **embutida no corpo**, indetectável numa revista e
+  impossível de desarmar — a vantagem estrutural da família. Contra, a mesma
+  incompatibilidade com disfarce.
+
+## Refino
+
+### Accumulate Virtue Gu
+
+*A obra registra um exemplar de rank 2; o Gu sobe de rank sozinho.*
+
+- **O que faz.** **Refina-se sozinho conforme o dono pratica bondade.** Não há
+  acionamento: o Gu cresce à medida que o dono se comporta (ded.). O caso registrado é
+  direto — um cultivador curou uma velha senhora e, ao terminar, encontrou um Accumulate
+  Virtue Gu de rank 2 na própria abertura.
+- **Como é.** —
+- **Dieta.** **Atos de bondade.**
+- **Desvantagem.** **Não há como acelerar**: o progresso depende de uma vida inteira de
+  conduta.
+- **Como se obtém.** **Não há receita**: o refino é o comportamento do usuário ao longo da
+  vida.
+- **Evolução.** Não citada pela obra como fusão. Existe uma **versão imortal** deste Gu,
+  sem rank declarado, com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu
+  - Imortais]] — o que é o mesmo conceito em duas escalas, não uma rota de avanço.
+- **Interações.** É o único Gu de todo o catálogo cujo custo é **moral e não econômico**:
+  o rank cresce sem gasto de material nenhum. Isso o coloca em relação direta com o resto
+  da economia do sistema — enquanto todo Gu compete por pedras primordiais e por comida,
+  este compete por **escolhas de comportamento**, o que é a mecânica mais imediatamente
+  jogável desta nota inteira.
+
+---
+
+# Caminho da luz
+
+## Utilidade
+
+### Light Sphere Gu
+
+- **O que faz.** Disparado **para o céu**, ilumina uma área ampla no escuro. O uso
+  registrado é militar e é exatamente esse: uma matilha de lobos noturnos chegou a um
+  acampamento à noite e, sob a iluminação da esfera de luz, **a matilha inteira ficou
+  visível de uma vez** — número, formação e posição do rei-fera. É um sinalizador de
+  reconhecimento, não uma arma.
+- **Como é.** Esfera de luz suspensa no ar.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Revela para os dois lados (ded.), e a obra não informa duração, altura,
+  raio de iluminação nem custo de essência.
+- **Como se obtém.** —
+- **Evolução.** Não citada pela obra.
+- **Interações.** Duas, e as duas são fortes. A primeira é de campanha: iluminar é o que
+  transforma uma emboscada noturna num combate normal, e a obra o mostra sendo acionado
+  como **primeira ordem** dada quando o inimigo chega no escuro. A segunda é de conflito
+  de marcas: sendo um Gu de **luz**, ele é exatamente a categoria que a obra afirma
+  **falhar** — não render menos, falhar e às vezes se destruir — num corpo com marcas de
+  força fortes demais. Um lutador de força que empilhou javalis e ursos não deve carregar
+  este Gu.
+
+---
+
+# Caminho da regra
+
+## Suporte
+
+### Amplify Effect Gu
+
+*Existe em todos os ranks; o rank 2 é a versão comum, e a obra o registra como o grosso do
+estoque de uma tribo.*
+
+- **O que faz.** **Suplementa outro Gu, amplificando o efeito dele.** O grau de
+  amplificação depende do rank do Amplify Effect Gu: quanto maior o rank, maior o efeito —
+  a obra dá o topo da escala, e o **rank 5 multiplica a eficácia do Gu escolhido por
+  cinco**. A escala do rank 2 não é dada; por proporção, seria da ordem de dobrar (ded.).
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** O gasto de essência primordial do usuário fica **relativamente mais
+  alto**. E o preço de mercado sobe muito rápido com o rank: numa tribo inteira havia **um
+  só** exemplar de rank 5, um de rank 4, três de rank 3, e todo o resto era rank 2.
+- **Como se obtém.** É popularíssimo e circula como estoque de tribo e de clã. Preço: —.
+- **Evolução.** Não citada pela obra. Cada rank é um exemplar próprio, e a obra não
+  descreve fusão de um no outro.
+- **Interações.** É o **Gu de suporte universal do sistema**, e a característica que o
+  define é essa universalidade: pertence ao caminho da regra e **pode ser usado em
+  qualquer caminho** — Mestres Gu de fogo o usam, de água o usam, de escravização e de
+  força o usam. Isso o põe em concorrência direta com amplificadores de caminho único como
+  o `Brilliance of Two Stars Gu`, e a obra explicita a troca: o convencional serve para
+  tudo mas é **caro e falha muito**; o de caminho único é barato e confiável e só serve
+  para um caminho.
+
+---
+
+# Armazenamento e logística
+
+Quatro Gu, e eles resolvem quatro problemas distintos que a mesa costuma ignorar e o
+mundo da obra não ignora nunca: carregar coisas, esconder coisas, morar em algum lugar e
+**manter um Gu vivo sem alimentá-lo**.
+
+## Utilidade
+
+### Large Belly Frog
+
+- **O que faz.** A barriga guarda **um espaço à parte**. Recebendo essência, o Gu **vomita
+  um item por vez**, já no tamanho normal, com um **coaxo alto a cada um**. Cospe também
+  uma rede de aço cortante.
+- **Como é.** Rã de **dorso dourado**.
+- **Dieta.** Essência primordial.
+- **Desvantagem.** Espaço limitado, **não guarda Gu nem venenos**, e **coaxa alto ao
+  vomitar** — denuncia o dono na hora errada.
+- **Como se obtém.** Gu logístico corriqueiro de grupo em campo (ded.).
+- **Evolução.** Não citada pela obra.
+- **Interações.** A limitação de **não guardar Gu** é o que o separa dos Gu de
+  armazenamento sérios e é o que obriga um grupo a ter também um `Flowerbud Gu` ou
+  equivalente. Capacidade de carga alta para o rank, e o item sai no tamanho normal — não
+  precisa de tempo para se expandir.
+
+### Flowerbud Gu
+
+- **O que faz.** O dono **enxerga o conteúdo com a mente** e o solta injetando essência.
+  Guarda **volume doméstico**: sacas de arroz, pedras primordiais. E **denuncia na hora**
+  se outra pessoa a refinar — refinada por outro, o vínculo com o antigo dono se rompe, e
+  ele **percebe**.
+- **Como é.** Flor de cristal **azul-clara**.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Só protege o que ficou fora da luta (ded.).
+- **Como se obtém.** Refinada por um dono de cada vez.
+- **Evolução.** Não citada pela obra.
+- **Interações.** A prática padrão do mundo é o que faz dela interessante: guarda-se nela o
+  bem mais valioso e **deixa-se a flor longe do combate**. É segurança por **separação**,
+  não por resistência — uma peça de cofre e não de mochila. É o par natural do `Large Belly
+  Frog`, que é a mochila.
+
+### Lizard House Gu
+
+- **O que faz.** É ao mesmo tempo **casa e transporte**: tem um **corredor por dentro do
+  corpo**, com quartos dos dois lados. Anda como um elefante, com locomoção lenta e
+  constante, adequada a marcha de tribo e não a fuga; quem viaja dentro balança junto. O
+  interior serve para dormir, meditar e receber visita.
+- **Como é.** Lagarto-Gu **do tamanho de um ônibus**, de quatro patas.
+- **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
+  de uma a duas pedras primordiais por dia (ded.).
+- **Desvantagem.** Andar por dentro de uma tribo inteira o torna óbvio: a janela de um pode
+  ser arrombada por um intruso, e o do chefe é identificável pela bandeira que carrega.
+- **Como se obtém.** **Bem de tribo, contado às unidades de milhar**: as tribos nômades das
+  Planícies do Norte os usam **aos milhares** para mover recursos, e uma tribo saqueada
+  rendeu milhares deles junto com centenas de lobos de carga e cavalos de estômago grande.
+  O do chefe carrega o estandarte que marca a tenda principal.
+- **Evolução.** **`Large Lizard House Gu`, rank 3.** A obra é literal: "o Large Lizard
+  House Gu era rank três, avançado a partir do Lizard House Gu de rank dois". O segundo
+  componente não é informado.
+- **Interações.** É a peça que mostra como o rank 2 **escala por multiplicação e não por
+  rank**: uma tribo não precisa de um Gu melhor, precisa de mil iguais. Resolve moradia e
+  transporte de carga com uma peça só.
+
+### Earth Treasury Flower Gu
+
+- **O que faz.** **Gu de conservação, não de combate**, e ele resolve um problema
+  estrutural do mundo: Gu worms **morrem se não forem alimentados**, e só alguns conseguem
+  se selar sozinhos. Sua única função é **conter um Gu no coração da flor, imerso num
+  néctar dourado**, o que imita até certo ponto o estado de selamento e faz o Gu
+  **hibernar**. Para retirar, abre-se a última camada com o dedo, o líquido dourado escorre
+  com textura de óleo de soja, o coração amolece e as pétalas se dividem, liberando o Gu
+  adormecido.
+- **Como é.** Plantada no solo, é um **botão de flor cor de ouro escuro enterrado a duas
+  polegadas de profundidade, do tamanho de um moinho de pedra**, emitindo uma luz dourada
+  fraca através da terra. A estrutura é como a de um lótus cruzado com uma couve: **de
+  cinquenta a sessenta pétalas externas** grandes, grossas e escorregadias, tão apertadas
+  quanto camadas de seda; depois delas, pétalas menores, finas e lisas como folhas de
+  papel, cada vez mais transparentes; e no fundo, uma última camada de pétalas translúcidas
+  formando **uma bola do tamanho de um punho** com o Gu flutuando dentro.
+- **Dieta.** **Energia da terra** — basta estar plantada no chão com energia da terra
+  suficiente, sem nenhum outro custo.
+- **Desvantagem.** **Uso único e imóvel**: plantou, ficou ali. Cada pétala arrancada se
+  dispersa depressa no ar como floco de neve derretendo — não dá para reaproveitá-las nem
+  refazer o caminho. Guarda **apenas um Gu por flor**. E quem abre **não sabe o que vai
+  achar**: vista de fora, a sombra do Gu guardado é borrada.
+- **Como se obtém.** Gu de armazenamento "extremamente comum". O refino é um teste de mão:
+  exige **trançar cem talos e fios em até trinta respirações** — passado o tempo, o próprio
+  fogo do refino queima o material.
+- **Evolução.** A obra afirma a rota e não nomeia os degraus: "o Earth Treasury Flower Gu
+  era só um Gu de rank dois, e **só depois de avançar repetidas vezes** poderia se tornar
+  o **`Earth Treasury Flower King`, de rank 5**". Ou seja, as pontas são canônicas e o meio
+  é silêncio. Ela serve também de **material** no primeiro passo de outras receitas.
+- **Interações.** É o Gu que **guarda outros Gu**, o que faz dele infraestrutura e não
+  equipamento. A obra o mostra guardando com sucesso um Gu deixado por um mestre morto
+  havia muito tempo, para um herdeiro futuro — o que sugere prazos de séculos (ded.). Foi
+  também de dentro de uma delas que se colheu o `Earth Communication Ear Grass` desta mesma
+  nota.
+
+---
+
+# Cura e vida
+
+## Cura
+
+### Living Steel Gu
+
+- **O que faz.** Curioso e específico: **não cura pessoas, cura Gu**. Acionado, flutua
+  girando e solta **fumaça de aço** que cobre as feridas de outro Gu e **regenera as partes
+  perdidas em cerca de uma hora**, enquanto ele próprio encolhe até sumir por completo.
+- **Como é.** Bloco preto do **tamanho de um punho, cheio de furos**.
+- **Dieta.** **Consome a si mesmo** no processo.
+- **Desvantagem.** **Sacrifica-se por inteiro a cada aplicação.** É Gu **de gasto**, e quem
+  depende dele repõe o estoque continuamente — o custo é uma despesa recorrente, não uma
+  compra única (ded.).
+- **Como se obtém.** Sem receita registrada.
+- **Evolução.** Não citada pela obra.
+- **Interações.** É a resposta a uma regra do sistema que costuma passar despercebida: **um
+  Gu ferido perde o brilho e tem chance de sucesso de fusão muito menor até se recuperar**,
+  e a recuperação natural leva **meio ano**. Este Gu reduz esse meio ano a cerca de uma
+  hora. Ou seja, ele não interage com combate — interage com **patrimônio** e com a
+  **agenda de refino** de quem vive de fundir Gu.
+
+---
+
+# Linhagem lunar
+
+A linhagem lunar não é um caminho: é a **árvore de refino de um clã**, a mais documentada
+de toda a obra, e é o melhor exemplo existente de como uma família de Gu se ramifica. Ela
+merece uma seção própria porque **o rank 2 é onde ela abre**.
+
+O Gu-raiz é o `Moonlight Gu`, de rank 1, que dispara uma lâmina de luz lunar
+("*moonblade*") a dez metros. Dele saem **quatro rotas de rank 2**, e a obra diz em voz
+alta qual é o critério da escolha: ampliar **poder** OU **alcance** OU **trajetória** OU
+**função**. Escolher uma queima as outras, porque a fusão consome os componentes.
+
+> [!example] As quatro rotas, lado a lado
+> | Rota | Fusão | O que muda |
+> |---|---|---|
+> | **Moonglow Gu** | Moonlight + **dois** Little Light Gu | Poder ×3, alcance igual (10 m) |
+> | **Moon Scar Gu** | Moonlight + Stone Scar Gu | Alcance ×2 (10 m → 20 m), poder igual |
+> | **Moonwhirl Gu** | Moonlight + Whirlwind Gu | Trajetória vira curva; lâmina fica verde; poder igual |
+> | **Moon Raiment** | Moonlight + Jade Skin Gu | Deixa de atacar: vira **defesa de área** |
+>
+> Repare que só uma das quatro aumenta dano. Este é o argumento de design mais forte da
+> obra: numa árvore bem desenhada, a maioria dos galhos troca de **função**, não de
+> número.
+
+Duas notas de linhagem valem para todas as fichas abaixo. Primeira: **a dieta é o preço**.
+As três rotas clássicas de rank 3 consomem grandes quantidades de **pétalas de
+orquídea-lua**, insumo que murcha em poucos dias e não se armazena, o que torna essas
+rotas inviáveis para quem viaja. Segunda: **um Gu popular é mais fácil de refinar porque
+muita gente já o refinou** — as receitas clássicas carregam quase **cem mil palavras de
+experiência de refino acumulada**, contra os poucos milhares das rotas raras. Um Gu raro é
+arriscado não por ser mais forte, mas por ninguém ter escrito como fazê-lo.
+
+## Ataque
+
+### Moonglow Gu
+
+- **O que faz.** **Triplica a força da lâmina lunar**, mantendo os dez metros de alcance
+  do Gu-base. Cada disparo custa **dez por cento da essência**, o que limita quantas
+  lâminas saem seguidas — e o número escala com o estágio dentro do rank 2: **quatro, oito
+  ou dezesseis**.
+- **Como é.** Crescente translúcido **azul-água**, do **dobro do tamanho** do Moonlight Gu.
+- **Dieta.** Pétalas de orquídea-lua.
+- **Desvantagem.** Consome **três Gu para produzir um**, e continua preso à dieta de
+  orquídea-lua, que é cara e perecível.
+- **Como se obtém.** **Fusão de um `Moonlight Gu` com dois `Little Light Gu`.** O detalhe
+  numérico é canônico e é bonito: o efeito **não é aditivo** — um Little Light dobra o
+  poder da lâmina, dois também dobram, mas o **Gu fundido resultante triplica**.
+- **Evolução.** **Quatro rotas de rank 3, e a obra nomeia todas.** `Golden Moon Gu`
+  (mantém os dez passos de alcance e aumenta o poder de novo; crescente dourado de quase
+  meia altura humana); `Frost Moon Gu` (lâmina branca e gélida — o ferido é invadido pelo
+  frio e passa a se mover devagar); `Illusory Moon Gu` (não ataca: cria um clone de sombra
+  para atrair ataques e confundir); e `Blood Moon Gu` (fusão com um `Blood Essence Gu`,
+  sangramento contínuo). O **segundo componente das três primeiras não é informado**. Há
+  ainda um `Moon Poison Gu` de rank 3 que a obra cita uma única vez, pelo nome e pelo rank,
+  sem rota nem materiais — e cuja origem no Moonglow é dedução.
+- **Interações.** A rota do `Blood Moon Gu` foi escolhida, na cena em que a obra a
+  descreve, **por logística e não por poder**: ela troca a dieta de pétalas de orquídea-lua
+  por **sangue**, disponível em qualquer floresta. O preço é alguns dias por mês em que o
+  Gu "sangra" e perde força. É o exemplo mais claro do sistema de que **a conta de comida
+  decide builds**.
+
+### Moon Scar Gu
+
+*Rank 2 (ded.) — a obra situa a rota, não numera o Gu.*
+
+- **O que faz.** A rota do **alcance**: o poder de ataque permanece **inalterado** e o
+  alcance **dobra**, indo dos dez metros originais para **vinte**.
+- **Como é.** —
+- **Dieta.** Pétalas de orquídea-lua, como o resto da linhagem (ded.).
+- **Desvantagem.** Declarada pela obra: o ataque é "*subpar*", abaixo da média. Contra
+  alvos blindados continua tão fraco quanto o Moonlight original.
+- **Como se obtém.** **Fusão de `Moonlight Gu` + `Stone Scar Gu`.** Dois catalisadores
+  canônicos, e qualquer um dos dois eleva a chance de sucesso: acrescentar **rocha de jade**
+  ao refino, **ou** refinar **numa noite de luar abundante e sob exposição a ele**.
+- **Evolução.** **A obra afirma que o galho existe e não nomeia nada dentro dele:**
+  **várias receitas de rank 3 do clã exigem o Moon Scar ou o Moonwhirl como Gu de
+  partida**, e nenhuma delas é nomeada. É um ramo inteiro conhecido de existência e
+  desconhecido de conteúdo — encaixe canônico aberto para a mesa preencher.
+- **Interações.** Também é grafado `Scar Rock Gu` e `Moonscar Gu` — o mesmo Gu. A troca que
+  ele representa é a mais didática da árvore: **dano por alcance**, sem custo adicional
+  descrito. Vinte metros num rank 2 é distância de duelo decidido antes do contato.
+
+### Moonwhirl Gu
+
+*Rank 2 (ded.).*
+
+- **O que faz.** A rota da **trajetória**: um emblema crescente **verde** na palma dispara
+  uma lâmina lunar **verde em vez de azul**, que voa **em arco e não em linha reta**,
+  dificultando ao inimigo prever onde ela vai chegar. **A força de ataque em si não muda.**
+- **Como é.** Emblema crescente verde na palma; lâmina verde.
+- **Dieta.** Pétalas de orquídea-lua, como o resto da linhagem (ded.).
+- **Desvantagem.** —
+- **Como se obtém.** **Fusão de `Moonlight Gu` + `Whirlwind Gu`.** A obra a chama de "rota
+  comum".
+- **Evolução.** Mesma situação do Moon Scar: **várias receitas de rank 3 do clã exigem-no
+  como Gu de partida, e nenhuma é nomeada.**
+- **Interações.** A trajetória curva **contorna coberturas e escudos frontais** (ded.), o
+  que a torna a resposta natural às defesas de ponto desta mesma nota — o `Carapace Gu`,
+  que só cobre as costas, ou qualquer escudo que o defensor precise apontar.
+
+## Defesa
+
+### Moon Raiment
+
+*Também grafado `Moonveil Gu` — é o mesmo Gu.*[^moonveil]
+
+- **O que faz.** A rota da **função**: deixa de atacar e vira defesa. Uma **névoa
+  azul-lunar** jorra do corpo do usuário e o envolve como uma fita flutuante, **estendendo-
+  se também aos aliados em volta**. Absorve o impacto como algodão e barra até a lâmina
+  lunar simples, com defesa **pouco menor que a do `White Jade Gu`**.
+- **Como é.** Névoa de luz azul-lunar envolvendo o corpo e os arredores.
+- **Dieta.** Pétalas de orquídea-lua, como o resto da linhagem (ded.).
+- **Desvantagem.** **A fusão descarta a lâmina**: quem escolhe esta rota abre mão do ataque
+  por completo. E a defesa tem teto conhecido — sob ataque sustentado de um bando de
+  grous voadores, um deles rompeu a barreira e acertou a testa do portador.
+- **Como se obtém.** **Fusão de `Moonlight Gu` + `Jade Skin Gu`.** É uma rota **rara**,
+  com teto declarado em rank 5.
+- **Evolução.** **`Moonlight Treasure King Gu`, rank 5** — e este é um caso peculiar: a
+  obra dá **as duas pontas e nenhum degrau do meio**. Ela afirma que a rota parte de Jade
+  Skin + Moonlight e atravessa **múltiplas fusões sucessivas** até chegar lá, e não nomeia
+  nenhuma delas. É uma das **duas** receitas de rank 5 que o clã possui. E vale a ressalva
+  canônica: **ter a receita de rank 5 não significa poder produzir o Gu de rank 5** — é
+  condição necessária, não suficiente.
+- **Interações.** **Cobre o usuário e os aliados próximos de uma vez**, coisa rara numa
+  defesa de rank 2, e é isso que a torna superior ao White Jade em combate de grupo apesar
+  de ser ligeiramente mais fraca em números. A obra registra também um uso registrado como
+  **carta na manga** de duelo: a posse dele foi considerada suficiente para dar vantagem
+  decisiva a um praticante de rank 2, e um terceiro avisou o adversário antes da luta que
+  ele "não teria muita vantagem" por causa disso.
+
+[^moonveil]: O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] traz `Moonveil
+Gu` como ficha separada, marcada como "a obra só dá o nome". A verificação no texto-fonte
+mostra que se trata de **variação de tradução do mesmo Gu**: as duas grafias aparecem em
+capítulos vizinhos, referem-se ao mesmo exemplar, refinado pelo mesmo personagem, no mesmo
+duelo, e a obra descreve o efeito do Moon Raiment por extenso. As duas fichas foram
+fundidas nesta nota, e o que era "lacuna" no Moonveil está preenchido pelo texto do Moon
+Raiment.
+
+## Utilidade
+
+### Illusionary Moon Gu
+
+*Rank 2 a 3 (ded.).*
+
+- **O que faz.** **A obra dá o nome e o lugar do Gu no sistema, mas não descreve o
+  efeito.** Pelo nome e pela família (ded.), é o membro **ilusório** de um trio, contra o
+  dourado (ataque) e o gélido (frio).
+- **Como é.** —
+- **Dieta.** **Pétalas de orquídea-lua** — a dieta canônica compartilhada pelos três
+  clássicos lunares. A obra marca essa dieta como cara e incômoda: as pétalas **murcham em
+  poucos dias** e não se armazenam, obrigando o dono a reabastecimento constante.
+- **Desvantagem.** A dieta é o preço: pétalas perecíveis, sem estoque possível, com custo
+  recorrente que nunca cessa. Foi justamente para fugir dessa conta que um praticante
+  preferiu a rota do `Blood Moon Gu`, que come sangue.
+- **Como se obtém.** Receita **clássica**, com quase **cem mil palavras de experiência de
+  refino acumulada** disponível — das mais seguras de tentar em toda a linhagem lunar.
+- **Evolução.** Não citada pela obra.
+- **Interações.** O que ele ensina não é combate, é **economia de conhecimento**. Ele é um
+  dos **três clássicos da linhagem lunar**, ao lado do `Golden Moon Gu` e do `Frost Moon
+  Gu`, e "clássico" aqui é um conceito mecânico e não um elogio: as receitas desses três
+  acumulam quase cem mil palavras de experiência registrada, contra os poucos milhares do
+  `Blood Moon Gu`. São caminhos trilhados por gerações, com o procedimento documentado até
+  o detalhe, e por isso muito mais seguros de tentar. **Um Gu popular é mais fácil de
+  refinar porque muita gente já o refinou.**
+
+## Refino
+
+### Moon Harbinger Gu
+
+- **O que faz.** **A obra não descreve o efeito deste Gu: descreve a função dele na cadeia
+  de refino**, e é isso que o torna interessante. Ele é o **degrau intermediário** de uma
+  escada de elevação de cultivo em três etapas que um clã guardava como receita própria:
+  parte-se do `Liquor Worm` (rank 1), refina-se para o Moon Harbinger Gu (rank 2), e daí
+  para o `Seven Fragrances Liquor Worm` (rank 3) — este último com a capacidade de
+  **refinar essência primordial**, isto é, de melhorar diretamente o cultivo do dono, que
+  é o que faz a cadeia inteira valer o investimento.
+- **Como é.** —
+- **Dieta.** —
+- **Desvantagem.** **Não tem valor por si: é passagem.** E a receita **não está no
+  mercado**, o que obriga a negociar com quem a detém.
+- **Como se obtém.** Etapa 2 de 3 numa cadeia de receita fechada, de posse de um clã.
+- **Evolução.** **`Seven Fragrances Liquor Worm`, rank 3.**
+- **Interações.** Esta ficha é canônica por dois fatos **econômicos**, e vale registrá-los
+  porque explicam o mundo inteiro. Primeiro: receitas de elevação são **propriedade de clã**
+  e não circulam. Segundo: quem tem o Gu-matéria mas não a receita fica **dependente de
+  quem tem a receita** — o dono do Liquor Worm foi convidado a vendê-lo ao clã em troca de
+  **cinco anos de direito de uso** do produto final, com compensação caso o refino
+  falhasse. Essa cláusula de compensação revela um terceiro fato: **o refino desta cadeia
+  pode falhar e destruir o material**. E há um detalhe estrutural raro: esta rota
+  **reconverge** com a rota principal do Liquor Worm no Seven Fragrances — a **única
+  reconvergência de rota explicitamente afirmada em toda a obra**.
+
+---
+
+# Gu de rank 2 que a obra só nomeia
+
+Sete dos Gu catalogados acima existem no cânone **apenas como nome**, ou como nome mais
+uma pista de contexto. Eles têm ficha completa nas seções anteriores, com o campo de
+efeito dizendo explicitamente que a obra cala — mas vale reuni-los aqui, porque juntos
+eles formam a lista mais útil desta nota para quem vai desenhar: **é aqui que se pode
+inventar sem contradizer nada**.
+
+| Gu | Caminho | O que a obra dá | O que falta |
+|---|---|---|---|
+| **Water Boar Gu** | Força | O nome; a família (Gu de javali, variante aquática); o rank do portador; a função social de "assinatura de combatente" | Efeito, dieta, custo, refino — tudo |
+| **Golden Qi Gu** | Metal | O nome e o **preço de balcão exato**: cinquenta pedras primevas, num pregão de caravana | Efeito, dieta, custo de uso, receita |
+| **Black Hair Gu** | Homem | O nome; a família dos Gu de cabelo; o **pré-requisito de cabelo comprido** e a regra de manutenção | O efeito |
+| **Steel Hair Gu** | Homem | O nome; a mesma família e o mesmo pré-requisito | O efeito (a leitura "endurece os fios até virarem aço" é dedução pelo nome) |
+| **Illusionary Moon Gu** | Linhagem lunar | O nome; a posição como um dos **três clássicos** da linhagem; a dieta; o volume de experiência de refino acumulada | O efeito |
+| **Moon Harbinger Gu** | Linhagem lunar | O nome; a **posição exata na cadeia de refino** e o que a cadeia produz no fim | O efeito próprio |
+| **Double Orifice Stove Gu** | Fogo | O efeito **em parte** (armazena calor utilizável para atacar; aquece o corpo o bastante para derreter neve no contato) e a cadeia de refino inteira | Quanto calor armazena e **qual é a forma do ataque** |
+
+Além destes, dois Gu têm o efeito descrito mas **nenhum número**: o `Grand Bear Gu`, de
+que a obra não informa duração nem custo, e o `Poison Needle Gu`, de que ela não informa
+o veneno, o alcance nem a quantidade de agulhas.
+
+> [!question] Um Gu de rank 2 sem ficha própria nesta nota
+> O `Bone Flesh Unity Gu` é declarado *series Gu* pela obra, comparado explicitamente à
+> família dos Gu de javali, e pertence à categoria de cultivo — mas **a obra nunca dá o
+> rank de nenhum degrau da série**, então não há como afirmar que exista um exemplar de
+> rank 2. Registrado aqui como pista, não como ficha.
+
+---
+
+# Tabela-resumo
+
+Uma linha por Gu, na ordem das seções. A coluna **Evolução** traz o Gu de rank 3 (ou
+superior) em que ele se transforma; "—" significa **rota não citada pela obra**, o que é
+terreno livre para a mesa.
+
+| Gu | Caminho | Categoria | O que faz, em uma linha | Evolução |
+|---|---|---|---|---|
+| Strength of Ten Jin Gu | Força | Suporte | +10 jin de força permanente, empilhável; ~690 pedras | — (é série, não árvore) |
+| Crocodile Strength Gu | Força | Suporte | Força permanente de crocodilo, com mordida e combate aquático | — |
+| Brown Bear Innate Strength Gu | Força | Suporte | Força permanente de urso, assentada em dias de uso; 4.100 pedras | — |
+| Grand Bear Gu | Força | Ataque | Irrompe com a força de um urso; empilha com o Gu de urso permanente | — |
+| Water Boar Gu | Força | Ataque | Efeito não descrito; família dos Gu de javali, variante aquática | — |
+| Bronze Skin Gu (rank 2) | Defesa | Defesa | Defesa de pele aumentada **por tempo limitado**, reativável | Bronze Skin Gu r3 → Ancient Bronze Skin Gu r4 |
+| White Jade Gu | Defesa | Defesa | Luz de jade branco; aguenta 30+ atacantes; drena essência | Heavenly Mugwort Gu r3 · Sky Canopy Gu r3 |
+| Water Shield Gu | Defesa | Defesa | Esfera de água que **dissipa** impacto; superior ao White Jade | Sky Canopy Gu r3 (tentativa que falhou e o matou) |
+| Carapace Gu | Defesa | Defesa | Couro de crocodilo do ombro à cintura; protege só as costas | — |
+| Scale Armor Gu | Defesa | Defesa | "Boa defesa"; receita pública de conhecimento corrente | — |
+| Water Shell Gu | Defesa | Defesa | Casca de água; **seis li de profundidade no mar**; essência mínima | — |
+| Monolith Gu | Defesa | Defesa | Pele de rocha no corpo inteiro; reforçável durante a luta | — |
+| Black Mane Gu | Defesa | Defesa | Pelo de todos os poros vira juba-armadura em segundos | Steel Mane Gu r3 |
+| Spiral Bone Spear Gu | Defesa | Ataque | Lança de osso estriada; perfura o que a versão lisa não vence | — (é ele o topo: evoluiu do Bone Spear) |
+| Water Drill Gu | Gelo e água | Ataque | Broca de água no punho em duas respirações; fura rocha e aço | — |
+| Icicle Gu | Gelo e água | Ataque | Cinco a dezenas de estacas de gelo por rajada; cobre área | — |
+| Iceblade Gu | Gelo e água | Ataque | Lâmina de gelo **regenerativa** e multiplicável; carrega frio | Ice Edge Gu r3 |
+| Double Orifice Stove Gu | Fogo | Suporte | Armazena calor ofensivo; aquece o corpo permanentemente | Three Orifices Fire Hut Gu r3 → tower r4 → pagoda r5 |
+| Nine Leaf Vitality Grass | Madeira | Cura | Nove folhas destacáveis, cada uma um Gu de cura de rank 1 vendável | Existe e a obra **não a nomeia** |
+| Love Separation Gu | Veneno | Ataque | Ferimentos **não curáveis nem por cura de rank 3**; o veneno nº 1 do rank | — |
+| Love Life Separation Gu | Veneno | Ataque | Unhas de 50 cm com veneno fatal ao toque; refino exige matar um amante | — |
+| Poison Needle Gu | Veneno | Ataque | Dispara agulhas envenenadas; nenhum detalhe além disso | — |
+| Acid Gu | Veneno | Ataque | Cospe ácido verde que corrói carne, aço e pedra | — |
+| Defecate Gu | Veneno | Ataque | Causa diarreia; é arma e é desintoxicante forçado de médico | Big Strength Defecate Gu r3 (**pior que o r2 na prática**) |
+| Scorpion Faeces Gu | Veneno | Utilidade | Veneno único no mundo; antídoto só do escorpião-pai, a cada 7 dias | — |
+| Clearing Heat Gu | Veneno | Cura | Cura veneno comum e veneno cadavérico; emprestável | — |
+| Big Soul Worm | Alma | Percepção | Borboleta intangível que voa e volta com o que viu | — |
+| Ghost Fire Gu | Alma | Ataque | Fogo azul **gélido** que queima a alma, não o corpo | Ghost Flame Gu r3 → Ghost Blaze Gu r4 |
+| Bear Enslavement Gu | Escravização | Utilidade | Controla um urso comum; **volta à mão do dono** se o urso morre | Versão r3 existe (alcança rei dos ursos) |
+| Wolf Enslavement Gu | Escravização | Utilidade | Fumaça azul a 200 passos; domina um rei de cem feras; uso único | — (série, receita própria por rank) |
+| Tiger Enslavement Gu | Escravização | Utilidade | Comanda um tigre pela vontade; grupo **fácil** (carnívoro) | — |
+| Deer Enslavement Gu | Escravização | Utilidade | Comanda um veado; grupo **difícil** (herbívoro gasta manipulação) | — |
+| Bull Enslavement Gu | Escravização | Utilidade | Comanda um touro; herbívoro, mas é gado disponível em qualquer aldeia | — |
+| Dog Enslavement Gu | Escravização | Utilidade | Aloja-se na **alma** do cão; controle total; morre junto com ele | — |
+| Fish Enslavement Gu | Escravização | Utilidade | Escraviza cardumes; falha causa contragolpe na alma do usuário | — |
+| Onion Explosion Gu | Escravização | Utilidade | Odor que enfurece feras selvagens e as joga contra pessoas | — |
+| Multitask Gu | Escravização | Suporte | **+2 tarefas simultâneas** ao teto mental natural do usuário | Versões de 3, 4 e 5 tarefas (série) |
+| Dog Guts Gu | Escravização | Suporte | Dobra ou triplica a coragem dos cães num raio; anula medo de rei de cem | Above Mountain r3 → Above Sea r4 → Above Heaven r5 |
+| Shadow Follower Gu | Espaço e movimento | Movimento | Bloco de sombra que desliza rápido e silencioso, ocultando o usuário | — |
+| Mudskin Toad | Espaço e movimento | Movimento | Montaria de carga aos saltos; come terra amarela; ~500 pedras | — (é material do Treasure Brass Toad) |
+| Earth Communication Ear Grass | Informação | Percepção | Audição multiplicada a **300 passos**; exige cortar a própria orelha | — |
+| Snake Tongue Gu | Informação | Percepção | Língua que sente calor; anuncia porte e direção; cego a sangue frio | — |
+| Heart Sound Gu | Informação | Suporte | Conversa mente a mente entre dois portadores, a até 100 passos | — |
+| Paper Crane Gu | Informação | Suporte | Grou de papel mensageiro; também guia o usuário pelo trajeto | — |
+| Digital Shade Gu | Informação | Utilidade | Grava **texto e imagem, não som**; cor da casca = classificação por rank | Photo-audio Gu r3 (grava também voz) |
+| Stealth Scales Gu | Furtividade | Utilidade | O corpo some em ondulações; não engana faro, calor nem rank 3+ | — |
+| Breath Concealment Gu | Furtividade | Utilidade | Oculta aura e nível de cultivo; cai ao usar Gu fora do corpo | Versão r5 existe; degraus **não nomeados** |
+| Plasma Gu | Som e raio | Ataque | Plasma azul pegajoso que interdita terreno e paralisa por corrente | — |
+| Thunder Roar Gu | Som e raio | Ataque | Onda sonora que mata por **vibração**; ignora armadura e evasão | — |
+| Soundwave Gu | Som e raio | Ataque | Grito que vira **empurrão** invisível em todas as direções | — |
+| Charred Thunder Potato Gu | Terra | Ataque | Mina enterrada que detona ao passo; dano cresce com a profundidade | — (sai de um Gu-mãe r3) |
+| Earth Mound Gu | Terra | Defesa | Ergue muro de terra; **soma entre usuários** até virar defesa de rank 3 | — |
+| Running Corpse Gu | Transformação | Utilidade | Faz de um cadáver um zumbi que **evolui sozinho** por cores | — (é produzido pelo Zombie Heart Gu r3) |
+| Roaming Zombie Gu | Transformação | Suporte | Resistência, regeneração e ausência de dor; zumbifica de verdade | Hairy r3 → Hopping r4 → Flying r5 → cinco grandes zumbis |
+| Four Flavors Liquor Worm | Refinamento | Refino | Purifica a essência um estágio acima; dobra os golpes caros suportados | Seven Fragrances r3 → Nine Eyes r4 (**r5 não existe**) |
+| Relic Gu (aço vermelho) | Refinamento | Refino | Uso único; salto de estágio com parede de abertura **mais grossa**; 8.000 pedras | — (série natural, não se refina nem evolui) |
+| Star Arrow Gu | Estrelas | Ataque | Milhares de flechas de luz estelar; muitos ferimentos, todos rasos | — |
+| Brilliance of Two Stars Gu | Estrelas | Suporte | Amplifica Gu do caminho das estrelas; barato e confiável | Degraus r3, r4 e r5 da mesma escada |
+| Sneak Attack Gu | Roubo | Ataque | Fantasma de bebê azul que atravessa defesas e ataca por dentro | — |
+| Plunder Gu | Roubo | Utilidade | Arranca um Gu de dentro de um inimigo vivo; taxa de sucesso baixíssima | — |
+| Eating Wind Gu | Vento | Utilidade | Permite **comer vento**: elimina a dependência de suprimentos | — |
+| Cool Wind Gu | Vento | Utilidade | Bando de peixes alados que sopra ar frio contínuo; frágil e velocíssimo | — |
+| Wind Snare Gu | Vento | Suporte | Brisa verde que se enrola nos membros do alvo; prende e atrasa | — |
+| Jade Wind Wheel Gu | Vento | Movimento | Ciclones de jade nos braços; devolve a velocidade perdida pela pedra | — |
+| Sabre Gu | Metal | Ataque | Marca na palma materializa um sabre novo e afiado a cada uso | — |
+| Golden Needle Gu | Metal | Ataque | Nuvem de agulhas douradas que **assume a natureza do Gu parceiro** | — |
+| Golden Qi Gu | Metal | Utilidade | Efeito não descrito; preço de balcão de cinquenta pedras primevas | — |
+| Black Hair Gu | Homem | Ataque | Efeito não descrito; usa o cabelo e exige cabelo comprido | — |
+| Steel Hair Gu | Homem | Ataque | Efeito não descrito; mesma família e mesmo pré-requisito | — |
+| Accumulate Virtue Gu | Homem | Refino | Sobe de rank sozinho conforme o dono pratica bondade | — (existe versão imortal, que não é evolução) |
+| Light Sphere Gu | Luz | Utilidade | Disparado ao céu, ilumina o campo e revela o inimigo no escuro | — |
+| Amplify Effect Gu | Regra | Suporte | Amplifica **qualquer** Gu de **qualquer** caminho; escala com o rank | Exemplares r3, r4 e r5 (o r5 multiplica por cinco) |
+| Large Belly Frog | Armazenamento | Utilidade | Barriga-depósito que vomita um item por vez, com coaxo alto | — |
+| Flowerbud Gu | Armazenamento | Utilidade | Cofre de cristal azul; avisa o dono se outra pessoa a refinar | — |
+| Lizard House Gu | Armazenamento | Utilidade | Lagarto do tamanho de um ônibus, com corredor e quartos por dentro | Large Lizard House Gu r3 |
+| Earth Treasury Flower Gu | Armazenamento | Utilidade | Faz um Gu **hibernar** no néctar do coração da flor; uso único e imóvel | Earth Treasury Flower King r5; degraus **não nomeados** |
+| Living Steel Gu | Cura e vida | Cura | Cura **outros Gu**: meio ano de recuperação vira uma hora; some no uso | — |
+| Moonglow Gu | Linhagem lunar | Ataque | Lâmina lunar com **poder ×3**, mesmo alcance; 4 a 16 lâminas por estágio | Golden Moon r3 · Frost Moon r3 · Illusory Moon r3 · Blood Moon r3 |
+| Moon Scar Gu | Linhagem lunar | Ataque | Lâmina lunar com **alcance ×2** (20 m), mesmo poder; ataque *subpar* | Várias receitas r3 do clã, **nenhuma nomeada** |
+| Moonwhirl Gu | Linhagem lunar | Ataque | Lâmina lunar verde de **trajetória curva**, mesmo poder | Várias receitas r3 do clã, **nenhuma nomeada** |
+| Moon Raiment (Moonveil) | Linhagem lunar | Defesa | Névoa lunar que defende o usuário **e os aliados** ao redor | Moonlight Treasure King Gu r5; degraus **não nomeados** |
+| Illusionary Moon Gu | Linhagem lunar | Utilidade | Efeito não descrito; um dos três clássicos da linhagem | — |
+| Moon Harbinger Gu | Linhagem lunar | Refino | Efeito não descrito; degrau 2 de 3 numa cadeia de elevação de cultivo | Seven Fragrances Liquor Worm r3 |
+
+---
+
+## Relações
+
+- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano completo
+  dos ranks 1 a 5, de onde vem o conteúdo verificado desta nota.
+- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — os Gu de rank 6 e acima,
+  únicos no mundo. Três Gu desta nota têm contraparte imortal, e isso **não é evolução**.
+- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão citadas aqui.
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a
+  mecânica de que o campo **Interações** de toda ficha depende.
+- [[16 - Dao Marks|Dao Marks]] — a teoria das marcas: como se ganham, como amplificam, por
+  que não regeneram.
+- [[07 - Fusão de Gu|Fusão de Gu]] — o procedimento geral que quase toda linha de
+  **Evolução** desta nota instancia.
+- [[06 - Refino de Gu|Refino de Gu]] — como um Gu passa a ser seu.
+- [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — o custo contínuo que a linha
+  **Dieta** de toda ficha representa.
+- [[08 - Killer Moves|Killer Moves]] — como dois ou mais Gu viram um golpe só; várias
+  fichas desta nota só rendem dentro de um.
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **fonte soberana**
+  dos números de ressonância, conflito e terreno hostil.
+- [[01 - Glossário EN-PT|Glossário EN-PT]] — os termos em inglês mantidos aqui.
+
+---
+
+## Notas de montagem
+
+**Quantos Gu.** Esta nota cataloga **83 Gu de rank 2**. Deles, **52** vêm marcados como
+rank 2 puro no catálogo plano; **18** vêm de linhas de faixa que incluem o rank 2 (do tipo
+"1-2", "2-3" ou "2 a 3 (ded.)"); e **13** foram acrescentados nesta montagem por
+verificação direta no texto-fonte, porque o catálogo plano os registrava sem rank ou com
+rank divergente. Os treze acrescentados são: `Bronze Skin Gu (rank 2)`, `Wolf Enslavement
+Gu`, `Dog Guts Gu`, `Monolith Gu`, `Iceblade Gu`, `Jade Wind Wheel Gu`, `Golden Needle
+Gu`, `Plunder Gu`, `Earth Treasury Flower Gu`, `Breath Concealment Gu`, `Light Sphere Gu`,
+`Amplify Effect Gu` e `Accumulate Virtue Gu`. Além disso, duas fichas do catálogo plano
+foram **fundidas numa só** (`Moon Raiment` e `Moonveil Gu`, que a verificação mostrou ser
+o mesmo Gu com duas grafias).
+
+**Quantos ficaram sem evolução citada.** **Cinquenta e um** dos 83 Gu recebem a linha
+"Evolução: não citada pela obra". Isso é **61%**, e a proporção é coerente com o
+levantamento geral do projeto, que encontrou cerca de um Gu com evolução citada para cada
+seis sem. **O silêncio é a regra, não a exceção** — e é essa lista que autoriza a designer
+a inventar rotas sem contradizer o cânone.
+
+Dentro dos 32 que **têm** rota citada, vale separar três qualidades diferentes de
+informação, porque elas não valem o mesmo:
+
+- **Rota nomeada com receita fechada** (o melhor caso): `White Jade Gu`, `Black Mane Gu`,
+  `Moonglow Gu`, `Moon Scar Gu`, `Moonwhirl Gu`, `Moon Raiment`, `Four Flavors Liquor
+  Worm`, `Defecate Gu`, `Double Orifice Stove Gu`, `Ghost Fire Gu`.
+- **Rota nomeada sem o segundo componente** (o caso mais comum): `Iceblade Gu`, `Digital
+  Shade Gu`, `Lizard House Gu`, `Roaming Zombie Gu`, `Dog Guts Gu`, `Bronze Skin Gu`,
+  `Multitask Gu`, `Brilliance of Two Stars Gu`, `Amplify Effect Gu`.
+- **Rota afirmada e não nomeada** (encaixe canônico aberto — o mais útil para a mesa):
+  `Nine Leaf Vitality Grass` ("mesmo a opção de avanço não é satisfatória", e a obra nunca
+  diz qual é), `Moon Scar Gu` e `Moonwhirl Gu` (várias receitas de rank 3 do clã exigem um
+  dos dois como base, e nenhuma é nomeada), `Moon Raiment` (as duas pontas da cadeia até o
+  rank 5, e nenhum degrau do meio), `Breath Concealment Gu` (a versão de rank 5 existe e
+  os degraus não), `Earth Treasury Flower Gu` (o rei de rank 5 existe e os degraus não),
+  `Bear Enslavement Gu` (a versão de rank 3 existe e não tem receita descrita).
+
+**O que precisou ser deduzido.** Cinco tipos de dedução aparecem nesta nota, e todos estão
+marcados no lugar em que ocorrem:
+
+1. **Dieta por escala de rank.** Onde a obra não dá o cardápio de um Gu, o **ritmo** de
+   alimentação por rank é regra do mundo e foi aplicado: no rank 2, de poucos em poucos
+   dias, a um custo da ordem de uma a duas pedras primordiais por dia. O ritmo é canônico;
+   o cardápio, onde falta, ficou como silêncio. Apenas **duas** dietas nesta nota são
+   invenção marcada com `*` — a do `Monolith Gu` e a do `Defecate Gu`.
+2. **Rank deduzido pela faixa.** Sete Gu — `Tiger`, `Deer` e `Bull Enslavement Gu`,
+   `Thunder Roar Gu`, `Soundwave Gu`, `Wind Snare Gu` e `Illusionary Moon Gu` — são
+   situados pela obra numa faixa de rank 2 a 3 sem número exato, e `Black Hair`, `Steel
+   Hair`, `Cool Wind`, `Golden Qi` e `Sabre Gu` na faixa 1 a 2. O `Moon Scar Gu` e o
+   `Moonwhirl Gu` são deduzidos como rank 2 por serem rotas irmãs do Moonglow, que é rank
+   2 declarado.
+3. **Categoria funcional.** A obra não classifica Gu por função — a divisão em Ataque,
+   Defesa, Movimento, Percepção, Suporte, Cura, Utilidade e Refino é organização deste
+   catálogo, feita a partir do efeito descrito. Nenhuma categoria foi criada para forçar
+   simetria: uma seção de caminho traz só as categorias que efetivamente existem nele, e
+   por isso o caminho da madeira tem uma só e o da escravização tem duas.
+4. **Interações por regra geral.** Onde uma ficha diz que o Gu sofre com marcas de força,
+   isso vem da regra canônica de conflito e não de uma cena com aquele Gu específico —
+   está marcado com `(ded.)` sempre que é o caso. Os únicos conflitos que a obra afirma
+   por escrito são os cinco pares listados no início desta nota.
+5. **Desvantagem por leitura do efeito.** Onde a obra descreve o mecanismo mas não comenta
+   o custo, a desvantagem foi deduzida do próprio mecanismo (um jato pela boca tem curto
+   alcance; uma mina plantada é estática) e marcada.
+
+**Duas correções aplicadas.** Esta nota corrige dois pontos em relação aos catálogos
+anteriores do vault, ambos verificados no texto-fonte:
+
+- O **`Iceblade Gu` é rank 2 e o `Ice Edge Gu` é rank 3**, sendo o segundo o avanço do
+  primeiro. O catálogo plano inverte a leitura, provavelmente por ter tomado o rank do
+  usuário pelo rank do Gu.
+- O **`Moonveil Gu` e o `Moon Raiment` são o mesmo Gu**, com duas grafias. As fichas foram
+  fundidas, e a lacuna que o Moonveil carregava desapareceu.
+
+E duas correções externas já verificadas foram **respeitadas** e não reproduzidas: o
+`Emperor Yama` não é um Gu e sim um golpe imortal de rank 8, portanto não aparece aqui em
+lugar nenhum; e o refino reverso do `Essence Iron Bone Gu` corre **do rank 4 para o iron
+bone Gu**, e não o contrário — a direção invertida que consta do catálogo de receitas não
+foi propagada para esta nota.
+
+**Uma dúvida deixada em aberto em vez de resolvida.** O `Love Separation Gu` e o `Love
+Life Separation Gu` recebem da obra descrições quase idênticas — ambos chamados de "o
+número um dos venenos de rank 2", ambos com ferimentos não curáveis por rank 3 — e nunca
+aparecem lado a lado. As duas fichas foram mantidas separadas e a dúvida está registrada
+em nota de rodapé. Fundi-las seria uma decisão nossa disfarçada de leitura do texto.

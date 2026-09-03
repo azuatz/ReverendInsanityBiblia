@@ -1184,3 +1184,1169 @@ tem como base o Footless Bird de rank 3, e não este — a obra não liga os doi
 **Interações.** Multiplicador de velocidade de ataque, e portanto ressoa com qualquer
 conjunto corpo a corpo — o hand blade Gu e o iron hand Gu, em particular (ded.). Como
 reforço corporal, deixa camada de lei que atrasa a cura (ded.).
+
+---
+
+# Caminho da luz
+
+A escola da velocidade e do corte de energia. É também o caminho com a incompatibilidade
+mais dura do sistema: **marcas de força fazem os Gu de luz falharem**, e a falha destrói o
+Gu. Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+
+## Ataque
+
+### Broadsword Light Gu (Gu do Espadão de Luz)
+
+**O que faz.** Ao ativar, o Mestre Gu agarra o ar com as duas mãos e delas se formam
+**dois espadões de luz de brilho ofuscante**, que ele empunha para golpear em combate
+corpo a corpo — no texto, desceu ambos os espadões de cima para baixo sobre o inimigo. O
+corte é forte o bastante para **partir escudos e quebrar armaduras de defesa**: dois deles
+cortaram ao meio os escudos do flying bone shield Gu e seguiram adiante. A obra o
+classifica, junto do sword shadow Gu, como **um dos dois Gu de ataque mais fortes de todo
+o rank 3**.
+
+**Como é.** — (o efeito são dois espadões de luz materializados nas mãos). A obra grafa
+tanto **Broadsword Light Gu** quanto **Broadsword of Light Gu**; é o mesmo Gu.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** É **arma de contato** — obriga o usuário a fechar distância e a entrar no
+alcance do inimigo. E no arranjo canônico ele é **apoio, não núcleo**: o núcleo do
+conjunto é um Gu de movimento, o rainbow light Gu, o que significa que este Gu depende de
+mobilidade para ser entregue ao alvo. Duração, alcance e dano numérico: —
+
+**Como se obtém.** Peça de suporte típica no conjunto de um Mestre de luz que use o
+Rainbow Light como núcleo (ded.).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ressoa com o resto de um conjunto de luz, e em particular com o **light
+source Gu**, que existe justamente para reduzir o gasto de essência dos Gu de luz do
+conjunto. Sofre a incompatibilidade central do caminho: num corpo com marcas de força, o
+custo dispara ou a ativação falha (ded., aplicando a regra que a obra enuncia para o
+rainbow light Gu).
+
+### Sword Shadow Gu (Gu da Sombra de Espada)
+
+**O que faz.** Produz uma **lâmina feita de sombra**. A obra não descreve o disparo em
+detalhe; descreve a versão superior, que abre um leque de sombras que **envolvem e
+prendem** o alvo enquanto o golpeiam. É o outro dos dois ataques mais fortes de todo o
+rank 3.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** —
+
+**Como se obtém.** Comprado pronto. Serve de **referência de preço** no mercado de rank 3:
+foi avaliado em **trinta e dois mil pedras primordiais**, abaixo das 45.000 do
+Self-reliance Gu.
+
+**Evolução.** **Não citada pela obra.** Existe um *Multiple Sword Shadow Gu* de rank 4, e
+o catálogo plano do vault afirma que um evolui do outro — mas o texto **menciona os dois
+Gu e nunca afirma a ligação**. Os nomes sugerem; a obra cala. Trate a rota como dedução
+plausível, não como cânone.
+
+**Interações.** Mesma dependência do caminho: ressoa com um conjunto homogêneo de luz e
+sofre com marcas de força no corpo (ded.).
+
+## Movimento
+
+### Rainbow Light Gu (Gu da Luz do Arco-Íris)
+
+**O que faz.** **Transforma o usuário num facho de luz** que atravessa mais de cinquenta
+metros num piscar de olhos. É o deslocamento mais rápido de todo o rank 3 — supera até
+muitos Gu de rank 4 — e serve tanto para fuga quanto para entrar e sair de combate à
+vontade. É o **núcleo** em torno do qual um Mestre de luz monta os Gu de suporte.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Duas, e as duas são estruturais.
+
+A primeira: **é rápido demais para o próprio dono**. A obra é explícita — "a velocidade é
+tão alta que o Mestre Gu não consegue reagir a tempo; para usá-lo é preciso usar o
+lightning thoughts Gu ou um flash of inspiration Gu, ou outros. Do contrário, quando o
+Mestre Gu reagir, já terá voado longe demais e até se chocado contra uma parede."
+
+A segunda: **exige um corpo livre de modificações de força**. Este é o Gu que a obra usa
+para enunciar a regra inteira do conflito de marcas. Num usuário que alterou o corpo para
+ficar mais forte, o custo de essência **dispara** — ou a transformação em luz **falha e o
+próprio Gu é destruído**. Não é uma penalidade percentual: é perda de patrimônio.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** **Não funciona sozinho** — precisa de um Gu de reação rápida ao lado
+(*lightning thoughts Gu* ou *flash of inspiration Gu*). Casa com o **light source Gu**,
+que reduz seu gasto de essência: a obra usa esse par como exemplo didático da regra de que
+Gu podem ser combinados para **aumentar a habilidade ou para cobrir a fraqueza**. E é o
+caso-modelo do conflito força × luz de toda a obra.
+
+## Cura
+
+### Therapy Light Gu (Gu da Luz Terapêutica)
+
+**O que faz.** Uma **luz branca e morna brota das mãos**, atinge um alvo e **reflete dele
+para os demais aliados próximos**: estanca sangramentos na hora, fecha por completo os
+ferimentos leves e resolve **cerca de metade** dos graves. Um acionamento alcança vários
+alvos ao mesmo tempo, coisa rara no rank 3.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.); cardápio
+provável, pétalas brancas e água de nascente `*`.
+
+**Desvantagem.** Cura por completo apenas ferimentos leves; nos graves, resolve metade.
+
+**Como se obtém.** Sem receita registrada. Numa defesa de clã, vários curandeiros o
+acionam ao mesmo tempo, lado a lado na formação — é **Gu de dotação coletiva**, produzido
+em quantidade suficiente para equipar a linha de suporte inteira (ded.).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Acumula **duas** incompatibilidades ao mesmo tempo, e por isso é a ficha
+mais instrutiva do rank sobre o assunto: é Gu de **luz** (prejudicado por marcas de força
+no usuário) **e** é Gu de **cura** (precisa sobrescrever a lei já presente no tecido de
+quem recebe). Num campo de batalha em que os feridos são lutadores de força com tendões de
+aço, ele cura devagar; contra ferimento de lei oposta à da cura, feriria. A regra prática
+que a obra deixa é de dois tempos: primeiro **neutralizar** as marcas estranhas do golpe,
+só então curar.
+
+## Utilidade
+
+### Light Fences Gu (Gu das Cercas de Luz)
+
+**O que faz.** Gu de **restrição**. Ativado, cada exemplar se transforma numa **cerca de
+luz** que prende o alvo — e o mecanismo interessante é que **os Gu se conectam entre si**:
+treze deles usados juntos formaram cercas interligadas que confinaram um relâmpago azul de
+aura extremamente poderosa, impedindo-o de irromper. É escalável por quantidade: quanto
+mais unidades, mais forte a gaiola resultante.
+
+**Como é.** — (o efeito é uma cerca de luz).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Rank baixo: exige **número grande** para produzir uma contenção
+significativa. Uma unidade sozinha não segura nada de relevante.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É Gu de **enxame**, e a obra o mostra funcionando dentro de um
+procedimento montado: treze Light Fences de rank 3, mais trinta e seis *little light Gu*
+de rank 1 (estrelinhas do tamanho de meia unha que dissipam a escuridão de uma caverna) e
+três Gu de luz de rank 5, todos operando juntos na abertura de uma herança. É o modelo
+canônico de como o caminho da luz monta uma operação: muitos Gu baratos em torno de poucos
+caros. Sofre a incompatibilidade com marcas de força (ded.).
+
+---
+
+# Caminhos do gelo e da água
+
+A obra classifica o **gelo como uma variação do tipo água**. A vantagem declarada do
+caminho do gelo, segundo um veterano do caminho da luz, está na **defesa** — e de fato as
+três transformações famosas do caminho são todas defensivas antes de serem ofensivas. É
+também o caminho com o par de conflito **mais bem quantificado** do sistema: um corpo
+saturado de marcas de força extrai de um Gu de água apenas **sessenta a setenta por cento**
+do poder normal.
+
+## Ataque
+
+### Ice Edge Gu (Gu do Fio de Gelo)
+
+**O que faz.** Materializa uma **lâmina de gelo** para combate próximo. O usuário pode
+criar uma segunda e lutar com as duas. Duas propriedades a definem. Ela é
+**regenerativa** — quebrada ao meio e cheia de rachaduras, basta passar a mão esquerda ao
+longo dela para o gelo se refazer, o fio voltar a ficar afiado e uma ponta nova crescer no
+lugar da quebrada; em combate prolongado ela cega ao bater em corpo e vegetação e o
+próprio poder do Gu a devolve ao fio. E ela é **substituível** — quando estilhaça de vez,
+o portador simplesmente despeja mais essência e forma uma lâmina nova. Além do corte, ela
+carrega frio: mesmo quebrada e atravessando um corpo, a névoa gélida congela a força vital
+que restava na vítima.
+
+O poder de corte é real: uma lâmina do Ice Edge **ficou tomada de rachaduras ao aparar** um
+golpe de mão-lâmina de metal do mesmo rank — ou seja, ela disputa de igual para igual com
+armas de metal e perde por pouco.
+
+**Como é.** Uma lâmina de gelo formada entre as palmas ou girando o pulso; nas mãos de um
+rank 3 tinha pouco mais de **um metro** de comprimento, e ao o dono subir de patamar
+passou a **dois metros**, com fio mais mortal e energia de geada maior.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Depende de contato ou de curtíssima distância. A lâmina se parte contra
+ataques de energia equivalentes — um moonblade dourado a estilhaçou por inteiro. Formar
+uma lâmina nova depois de a antiga estilhaçar consome essência de novo, e há registro de um
+praticante gastando **toda** a essência recuperada para formar uma única lâmina em
+emergência.
+
+**Como se obtém.** É o **avanço do Iceblade Gu de rank 2**: "ice edge Gu era o avanço do
+iceblade Gu de rank dois, tinha corpo mais resistente e lâmina mais afiada". Materiais e
+segundo componente: —
+
+> [!warning] Divergência de rank com o catálogo plano
+> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o **Iceblade Gu**
+> como rank 3 e o Ice Edge Gu como "2-3". O texto-fonte é explícito nos dois sentidos: o
+> Iceblade Gu é **rank 2** ("um Ice Blade Gu de rank dois, conseguindo bloquear minha
+> lâmina de rank três"), e o Ice Edge Gu é o **rank 3** que sai dele. É por isso que a
+> ficha de rank 3 aqui é a do Ice Edge; boa parte do que o catálogo plano descreve sob
+> "Iceblade" — a lâmina regenerativa, o golpe da tempestade de lâminas — pertence de fato
+> à linha inteira, e o exemplar mostrado em cena era o de rank 2.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça central do conjunto de gelo e água, que se combina com *icicle
+Gu*, *water shield Gu*, *blue bird ice coffin Gu*, *ice muscles Gu* e *frost demon Gu*. O
+uso mais temido é dentro de um golpe fatal: a **"tempestade de lâminas de gelo"**, criação
+pessoal de uma Mestra Gu, que combina a lâmina com o *Swirl Gu* (ou *revolving Gu*) e o
+*Fierce Wind Gu* (ou *whirlwind Gu*) — o usuário se apoia numa perna só, estende a lâmina
+e gira, acelerando até as marcas de corte formarem um tornado. O resultado ataca e defende
+ao mesmo tempo, cobre o chão de gelo duro (impedindo inimigos de emergir do solo), cresce
+em potência quanto mais tempo gira, e a obra afirma que **sem dois ou mais Gu defensivos
+trabalhando juntos não se resiste a ele** — nem a armadura do Sky Canopy bastaria. Ver
+[[08 - Killer Moves|Killer Moves]]. E o Gu é o exemplo canônico de que **o rank do Gu não
+é o teto do seu poder**: sob um físico extremo de gelo, o exemplar de rank 2 operado por
+um praticante de rank 3 bloqueou de frente uma lâmina de rank 3 e um golpe de lua dourada.
+
+### Snowball Gu (Gu da Bola de Neve)
+
+**O que faz.** Forma e dispara **muitas bolas de neve de uma vez**, numa torrente que
+quebra o avanço do inimigo à distância. É considerado do topo do rank 3 em potência bruta.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Custo alto** de essência em uso repetido: cinco ou seis disparos já
+pesam demais. Pior, é um custo **explorável** — um oponente esperto absorve os primeiros
+disparos de propósito só para esgotar a essência do atirador. A obra o chama, na prática,
+de pior negócio do arsenal de gelo.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra. Serve, em compensação, de **material de refino**:
+trinta exemplares foram consumidos de uma vez numa etapa de refino de um Gu Imortal.
+
+**Interações.** Ressoa com o conjunto de gelo. Sofre o conflito força × água quantificado
+(sessenta a setenta por cento do poder normal num corpo cheio de marcas de força).
+
+### Ice Explosion Gu (Gu da Explosão de Gelo)
+
+**O que faz.** **Detona qualquer gelo já existente** — estacas, lâminas, o próprio corpo
+cristalizado — numa explosão instantânea. Quanto maior, mais antigo e mais frio o gelo,
+maior a força: é uma potência sem teto fixo, que cresce com o material disponível.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Não cria gelo nenhum** — depende inteiramente de outro Gu ou do
+ambiente ter posto gelo ali antes. E a explosão **fere também quem a disparou**, se o
+alcançar.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É um Gu **parasita**, no melhor sentido: o valor dele é inteiramente
+função do que o resto do conjunto já colocou no campo. Com o Ice Crystal Gu produz um
+efeito visual quase idêntico ao de uma autodestruição fatal — **serve de farsa tanto
+quanto de arma**, e essa é uma das poucas aplicações de engano por Gu que a obra descreve
+em detalhe.
+
+### Frost Breath Gu (Gu do Sopro de Geada)
+
+**O que faz.** O Mestre Gu injeta essência primordial na língua, enche as bochechas e
+sopra: sai um **vento gélido azul-claro** que envolve o alvo. O efeito é duplo e foi
+anunciado pelo próprio leiloeiro na venda — **provoca queimaduras de frio e deixa o
+oponente lento**. Na demonstração, o vento cobriu os braços e metade do peito do
+adversário com uma camada de geada, o frio o assaltou como um balde de água gelada em
+pleno verão, ele tremeu, e **os ataques dele ficaram mais lentos**.
+
+**Como é.** Uma **insígnia de flor de gelo de seis lados na língua** do Mestre Gu.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Dano modesto — geada superficial, não incapacita. A lentidão é apoio, não
+finalizador. Alcance de sopro, portanto curto (ded.). Alcance e duração da lentidão: —
+
+**Como se obtém.** Vendido em leilões de grande porte, onde quase tudo é rank 3 ou acima.
+**Lance inicial de vinte e três mil pedras primordiais; arrematado por trinta e oito mil.**
+A obra classifica trinta a quarenta mil como preço **baixo** para os padrões de um leilão
+grande — um Gu de rank 4 comum chegava a cem mil.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** O grande diferencial é econômico: **cada ativação consome apenas cinco por
+cento da essência de prata-neve de um rank 3**, um dos custos mais baixos registrados em
+toda a obra, o que o torna repetível dezenas de vezes numa mesma luta. Encadeado com
+outros Gu de gelo numa barragem contínua, porém, o gasto total sobe bruscamente. Serve
+contra pessoas e contra criaturas invocadas: usado em sequência com o *frost arrow Gu*, a
+aura contínua de geada desacelerou e conteve a ofensiva de duas serpentes de fogo de rank
+4 — a resposta canônica do gelo ao fogo.
+
+### Blue Bird Ice Coffin Gu (Gu do Caixão de Gelo do Pássaro Azul)
+
+**O que faz.** É o ataque **teleguiado** do rank 3, e um dos mais temidos da faixa. Ao ser
+usado, o Mestre Gu abre a boca e **um passarinho azul-gelo salta de dentro dela**; a ave
+olha em volta, **trava o olhar num alvo específico** e voa até ele batendo as asas com
+força. A obra é explícita quanto ao que faz dele um pesadelo: **diferentemente do
+moonblade, uma vez lançado ele fica travado no alvo** — um grupo inteiro tentou se
+dispersar em pânico e não adiantou.
+
+No impacto ele se choca contra a vítima e detona: ar gelado se espalha por toda parte e
+uma luz azul penetrante ilumina o campo de batalha inteiro. Quando a luz se dispersa, no
+lugar há **um bloco de gelo parcialmente transparente com o Mestre Gu selado dentro**, com
+o rosto ainda estampando o medo do último instante e sem nenhum sinal de vida. Acerto
+significa **morte por selamento**, não dano.
+
+**Como é.** Um passarinho azul-gelo do tamanho e da fofura de um pombo — que **cresce com
+o portador**: sob o impulso de um físico de gelo extremo, o pássaro passou de tamanho de
+pombo a tamanho de águia durante o voo, circulou e só então mergulhou no alvo.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Esvazia a abertura de um rank 3 num uso.** Um Mestre Gu de rank 3 que
+suprimia a cultivação em rank 2 viu a essência ser rapidamente esgotada ao usá-lo, e ainda
+por cima não conseguiu manifestar o verdadeiro poder do Gu nessa condição. Pior: a obra
+registra que **depois de usá-lo há um período de vulnerabilidade** em que o inimigo pode
+aproveitar a brecha para atacar. Um só alvo por lançamento.
+
+**Como se obtém.** — (a obra não dá receita nem preço; era um dos dois únicos Gu de rank 3
+que sua portadora possuía mesmo com o apoio de um grande clã, o que sugere raridade e
+custo altos, ded.).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Funciona como o **piso de gasto** que define se um Mestre Gu ainda é
+perigoso: depois de esgotada, a abertura precisa recuperar essência até voltar a ter o
+suficiente "pelo menos para usar o blue bird ice coffin Gu". Escala de tamanho e força
+junto com o portador, e portanto ressoa fortemente com físicos e Gu de gelo. Efeito
+psicológico enorme — inimigos que o reconhecem entram em pânico, e o pânico é o efeito
+tático real.
+
+### Spiral Water Arrow Gu (Gu da Flecha d'Água em Espiral)
+
+**O que faz.** O usuário estende o dedo e dispara uma **flecha de água em espiral**. Poder
+observado: numa salva contra uma matilha, matou **três lobos instantaneamente e feriu mais
+cinco ou seis**; uma flecha atravessou o corpo de um corvo-sombra deixando um rastro de
+sangue — ou seja, perfura.
+
+**Como é.** — (o efeito é uma flecha d'água em espiral disparada do dedo). Rank 3 `(ded.)`.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Exige pontaria e sangue-frio, e a obra registra a repreensão exata: *"você
+precisa estar calma ao ativar o spiral water arrow Gu; se atirar de forma imprudente,
+estará apenas desperdiçando rapidamente sua preciosa essência primeva"*. Cada tiro custa
+essência, e o uso descontrolado é a causa apontada para a usuária viver sem reserva.
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça de ataque **barata** do conjunto padrão de uma Mestra Gu
+itinerante de água das Planícies do Norte, ao lado do three claw water dragon Gu (o caro).
+O contraste entre os dois dentro do mesmo conjunto é a lição: o mesmo caminho oferece um
+tiro repetível e um tiro caro, e escolher errado esvazia a abertura. Sofre o conflito
+força × água (sessenta a setenta por cento).
+
+### Three Claw Water Dragon Gu (Gu do Dragão d'Água de Três Garras)
+
+**O que faz.** Ativado empurrando com as palmas, forma-se um **dragão de água de três
+garras, azul-claro**, que sai assobiando e varre os arredores. Ao passar, **aumenta o vapor
+de água no ar da região** — efeito secundário que favorece outras técnicas de água. Como
+projétil, colide com o ataque inimigo e explode: na obra, chocou-se contra uma lâmina de
+vento de um rei-lobo de miríade e explodiu, causando uma garoa. Serviu para "controlar a
+situação" contra uma matilha de mais de uma dúzia de lobos.
+
+**Como é.** Um dragão de água de três garras, azul-claro. Rank 3 `(ded.)`.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Consumo de essência muito alto para um rank 3** — a repreensão na obra
+é literal: *"water dragon Gu desperdiça muita essência primordial, não use se não for
+necessário. É por isso que você está sempre ficando sem essência primordial!"* É o maior
+sorvedouro do conjunto inteiro da usuária.
+
+**Como se obtém.** — (a obra não dá receita nem preço). A obra registra que Gu de dragão
+como este são produzidos num lugar chamado Monte do Tornar-se Dragão, saturado de marcas
+do caminho da transformação, ao lado de golden dragon, earth dragon, dragon claw, dragon
+breath e dragon pearl Gu.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Além do dano, **enriquece o ar de vapor**, o que é uma sinergia de
+ambiente: ele prepara o campo para os demais Gu de água do conjunto (ded., quanto ao ganho
+mecânico — a obra afirma o efeito, não o bônus). Capaz de **interceptar e anular** ataques
+inimigos por colisão. Sofre o conflito força × água.
+
+## Defesa e transformação
+
+### Ice Crystal Gu (Gu do Cristal de Gelo)
+
+**O que faz.** Um dos **três Gu de transformação famosos do caminho do gelo**. Ativado,
+transforma o corpo inteiro em cristal de gelo: **o corpo passa a ser feito de gelo duro, e
+ataque e defesa se integram numa coisa só** — o corpo transformado é simultaneamente
+armadura e arma. A resistência é notável: um Mestre Gu especializado em lâminas nas mãos,
+que estava vencendo a luta e cobrindo a adversária de cortes, ao acertá-la já transformada
+só conseguiu abrir um arranhão pequeno no gelo. A transformação também permite **avançar
+de frente por um ataque** em vez de desviar: a portadora atravessou por dentro do ataque
+de duas serpentes de fogo de rank 4 e foi direto ao invocador. É revogável à vontade,
+devolvendo o corpo mortal original.
+
+**Como é.** — (o efeito é o corpo inteiro convertido em cristal de gelo).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Manter a transformação **drena essência de forma pesada** — a portadora
+revogou a transformação e voltou ao corpo mortal exatamente porque a abertura tinha secado
+por completo. A duração é, na prática, o tamanho da reserva. E a convenção do mundo o
+marca como **Gu masculino** (frost demon e snow fairy são "para mulheres", o ice crystal é
+"o mais adequado para homens"), com o estigma social que isso traz para uma usuária.
+
+**Como se obtém.** Comprado numa loja de Gu de cidade de clã por **vinte e oito mil pedras
+primordiais**. A obra afirma que ele é **fácil de encontrar e de repor** — perdê-lo, mesmo
+sendo o Gu vinculado à vida da portadora e com o contragolpe que isso implica, não teria
+influência grande a longo prazo, porque outro se acha.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Substitui um Gu de defesa dedicado no conjunto, liberando uma vaga. Casa
+com o **Ice Explosion Gu** para simular uma autodestruição fatal. Sendo transformação
+corporal ativa, é a alternativa "aluguel" à alternativa "compra" dos músculos de gelo
+permanentes — quem tem os dois soma defesa mas paga essência por um deles. Sofre o
+conflito força × água.
+
+### Frost Demon Gu (Gu do Demônio da Geada)
+
+**O que faz.** Transforma o usuário num **demônio da geada**, elevando muito seu poder de
+ataque gélido. É o ataque de gelo mais forte do rank. O Gu pode ainda ser
+**autodetonado**, irradiando frio extremo e destruindo-se no processo.
+
+**Como é.** — (o efeito é a forma de um demônio de geada).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O uso excessivo **congela e danifica as próprias articulações e músculos**
+do usuário. É a segunda das três transformações famosas do caminho, e a obra a descreve
+como mais adequada a mulheres.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** A sequela — congelar as próprias articulações — é **mitigada pelo ice
+muscle Gu**, que torna o corpo imune ao frio do próprio frost demon. Essa é a sinergia
+mais limpa do caminho do gelo e o motivo de a reforma corporal de gelo valer a pena: ela
+não defende contra o inimigo, ela defende contra o **seu próprio arsenal**.
+
+### Snow Fairy Gu (Gu da Fada da Neve)
+
+**O que faz.** Transforma o corpo do usuário no de uma **fada da neve**. É a terceira das
+três transformações famosas do caminho do gelo, indicada para mulheres pela convenção do
+mundo.
+
+**Como é.** A aparência resultante é **inconfundível e impossível de disfarçar**.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Revela a aparência e o gênero reais** de quem a usa — quem se disfarça
+escolhe a variante "errada" de propósito. E, como as demais transformações de gelo,
+carrega o risco de o usuário ficar preso na forma, virando estátua.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Faz trio com o Frost Demon e o Ice Crystal, e as três são alternativas
+entre si e não camadas cumulativas (ded.). Detalhe de mesa: como a convenção do mundo
+associa cada transformação a um gênero, a **escolha da transformação é uma declaração
+social** — e escolher a "errada" é uma ferramenta de disfarce reconhecida.
+
+## Controle
+
+### Water Prison Gu (Gu da Prisão d'Água)
+
+**O que faz.** O usuário **cospe uma bola de água azul** que se expande depressa e prende o
+alvo dentro. Por ser fluida, ela **absorve golpes de força bruta sem romper** — bater nela
+não adianta. É controle que neutraliza sem matar, útil para captura.
+
+**Como é.** Uma bola de água azul que se expande sobre o alvo.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Cede a ataques adaptados à água** — a resistência dela é específica, não
+geral. E é caro para quem está subindo: um lutador de arena tomou empréstimo a juros altos
+só para adquirir um antes de uma luta decisiva.
+
+**Como se obtém.** Comprado pronto, e caro para o rank.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o contra estrutural do **caminho da força**: contra um corpo cuja única
+resposta é bater com mais vontade, a prisão de água é inquebrável. Do outro lado, um
+conjunto de gelo ou de água a desfaz sem esforço. É a ficha que melhor ilustra a regra de
+que, neste sistema, **não há defesa geral — há defesas específicas.**
+
+## Percepção
+
+### Fog Sparrow Gu (Gu do Pardal de Névoa)
+
+**O que faz.** Condensa névoa em **pardais**, que voam para explorar a região. Tem
+**alcance enorme**, e a obra o classifica como "um Gu de investigação muito precioso entre
+os de rank três" — reconhecimento aéreo remoto sem expor o usuário.
+
+**Como é.** Pardais feitos de névoa.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Falha exatamente onde seria mais necessário**: numa névoa púrpura
+venenosa densa demais — a ponto de o usuário não enxergar a própria mão — o fog sparrow Gu
+"já havia perdido a utilidade", enquanto um método rival ainda alcançava mil passos. Os
+pardais são de névoa e presumivelmente frágeis (ded.).
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça de **reconhecimento** do conjunto mínimo de seis funções, e a obra
+o nomeia explicitamente nesse papel dentro de um conjunto de água completo. Sofre o
+conflito força × água.
+
+## Movimento
+
+### Water Trace Gu (Gu do Rastro d'Água)
+
+**O que faz.** Eleva a **velocidade de deslocamento** do usuário a um patamar que a obra
+descreve como capaz de **quase rivalizar com alguns Gu de rank 4** — desempenho acima do
+próprio rank, o que é raro.
+
+**Como é.** — (o efeito deixa pegadas molhadas).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** A única, e é elegante: **o rastro d'água deixa pegadas fáceis de
+rastrear**, e ainda molha os sapatos do usuário. Um Gu de fuga que denuncia a rota da fuga.
+
+**Como se obtém.** — (a obra não dá receita nem preço; aparece como peça padrão do conjunto
+de uma Mestra Gu viajante das Planícies do Norte).
+
+**Evolução.** **Wave Trace Gu (rank 4)**, "com efeito ainda mais forte". E daí em diante a
+obra dá uma das cadeias mais completas do sistema: no rank 5 o wave trace tem **duas
+direções de refino diferentes** — o *wandering wave trace Gu*, com propriedades de
+**esquiva instantânea**, e o *river wave trace Gu*, que permite **correr depressa sobre a
+superfície da água**. No rank 6 existe o famosíssimo *worldly wave trace Immortal Gu*.
+**Atenção:** a obra nomeia dois ranks 5 e depois um rank 6 **sem afirmar que as duas rotas
+convergem** nele. A convergência é dedução, não texto — e o catálogo de receitas do vault
+a apresenta como fato, o que não se sustenta.
+
+**Interações.** É a peça de **deslocamento** do conjunto mínimo de seis funções. Sofre o
+conflito força × água — e este Gu é justamente a linhagem em que a obra o quantifica: o
+exemplar imortal de rank 6 da mesma linha, na mão de um cultivador do caminho da força
+cheio de marcas, rendeu **sessenta a setenta por cento** do poder normal.
+
+## Cura
+
+### Spring Rain Gu (Gu da Chuva de Primavera)
+
+**O que faz.** **Cura em área ampla.** Ativado, forma-se uma nuvem da qual cai uma chuva
+leve; a chuva respinga sobre os corpos na área e fecha os ferimentos. O alcance de cura é
+descrito como **enorme**.
+
+**Como é.** Uma nuvem que produz chuva leve. Rank 3 `(ded.)`.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **É economicamente ruim fora de grupo grande**, e a obra diz isso duas
+vezes com todas as letras: *"este Gu tem um alcance de cura enorme, não é desperdício
+usá-lo só em mim? Desative-o"*, e *"não use o spring rain Gu, é um Gu de cura em larga
+escala que não vale a pena para só nós dois"*. Para curar um alvo só, um Gu de cura de rank
+4 operando com eficiência de rank 3 foi muito mais eficiente. A chuva presumivelmente marca
+a posição do grupo (ded.).
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça de **cura** do conjunto mínimo de seis funções, e o exemplo
+canônico de um Gu cuja eficiência depende do **tamanho do grupo** — o que o torna
+naturalmente um Gu de exército, clã ou caravana, e não de aventureiro solitário. Como toda
+cura, precisa sobrescrever a lei já presente no tecido de cada ferido, e num grupo de
+lutadores de força reformados isso significa cura lenta para todos ao mesmo tempo (ded.).
+
+---
+
+# Caminho do fogo
+
+Escola de dano bruto e de preparação de terreno. O rank 3 é o degrau em que ela ganha
+alcance curto (a garra), alcance longo (as pelotas), área (a lava) e — o mais interessante
+para desenho — **peças que não atacam e multiplicam o resto do conjunto**.
+
+## Ataque
+
+### Fire Pellet Gu (Gu da Pelota de Fogo)
+
+**O que faz.** Dispara **pelotas de fogo do dedo**, três por vez ou em rajadas densas,
+capazes de derreter estacas de gelo de rank inferior. Tem um segundo uso, mais raro e mais
+elegante: as pelotas podem ser **fundidas em outras construções de fogo do próprio
+usuário para reanimá-las** — absorvidas por uma serpente de fogo aliada, elas a "curam" em
+vez de explodir.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** —
+
+**Como se obtém.** Citado pela obra como exemplo de Gu **"muito comum"** — item de
+prateleira.
+
+**Evolução.** Não citada pela obra. Serve, em compensação, de **matéria-prima**: fundido
+com um *Soul Ball Gu* dentro de fogo fantasma, gera um **Ghost Fire Gu (rank 2)
+incompleto** — e essa é a primeira aresta de uma árvore inteira do caminho da alma
+(ghost fire → ghost flame → ghost blaze). A obra explica por que o refino é complicado: o
+ghost fire pertence **ao mesmo tempo ao caminho do fogo e ao da alma**, e mesmo um mestre
+refinador erra ali por azar puro.
+
+**Interações.** Dois papéis num Gu só: dano e **reabastecimento** de invocações de fogo
+aliadas. Ressoa com todo o conjunto de fogo; é potencializado pelo Flame Heart Gu.
+
+### Fiery Claw Gu (Gu da Garra Flamejante)
+
+**O que faz.** Faz brotar da palma uma **garra gigante de chama alaranjada, de três dedos
+como a de uma águia**, dirigida à vontade para agarrar e golpear. **Escalda antes de
+tocar** e incendeia o chão onde cai. É a resposta do caminho ao problema da distância
+curta, onde o fogo normalmente é fraco.
+
+**Como é.** Garra de chama alaranjada de três dedos.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Alcance de **poucos metros** do usuário — exige praticamente encostar no
+inimigo (ded.).
+
+**Como se obtém.** Sem receita registrada. Um especialista de fogo de rank 4 carregava
+**quatro exemplares ao mesmo tempo**, o que mostra que se obtém em série — mas perder dois
+deles numa única luta foi descrito como prejuízo desastroso, então a série não é barata
+(ded.).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Pode ser **reforçada gastando mais essência**, o que a torna escalável
+dentro de uma mesma luta. Ressoa com o conjunto de fogo e é potencializada pelo Flame Heart
+Gu.
+
+### Lava Explosion Gu (Gu da Explosão de Lava)
+
+**O que faz.** O usuário **cospe pela boca uma bola de lava vermelho-escura do tamanho de
+uma mó**; ao acertar, ela explode em cogumelo de fumaça, estilhaça rocha de montanha e
+abre uma cratera onde ainda escorre lava fresca até esfriar. É o dano mais pesado do rank
+no caminho.
+
+**Como é.** — (o projétil é uma bola de lava do tamanho de uma mó de pedra).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** —
+
+**Como se obtém.** Exemplar **selvagem**, de um crocodilo-rei de lava.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Deixa lava no terreno depois do impacto, o que o torna, na prática, um Gu
+de **negação de área** além de projétil (ded.). Ressoa com o conjunto de fogo.
+
+## Defesa
+
+### Flame Stomach Gu (Gu do Estômago de Chama)
+
+**O que faz.** Gu de **defesa térmica**: blinda o corpo com tal solidez que ataques de rank
+equivalente não a arranham. A função real, porém, é mais específica — protege **quem usa
+fogo do próprio fogo**.
+
+**Como é.** Aspecto **vítreo avermelhado**.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Serve **só contra calor**. E o próprio Gu é destruível em combate corpo a
+corpo: resistiu a ataques de sangue de rank 3, mas foi despedaçado por uma arma viva como
+a centopeia-serra. Ao ceder, o Gu se quebra junto.
+
+**Como se obtém.** Exemplar **selvagem**, da mesma fera que fornece o Lava Explosion Gu.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É, para o caminho do fogo, o que o ice muscle Gu é para o do gelo: o Gu que
+torna seguro usar o próprio arsenal. Como defesa parcial, empilha com uma camada geral por
+cima (ded.).
+
+### Self-ignition Gu (Gu da Autoignição)
+
+**O que faz.** Envolve o portador em **chamas carmesim permanentes**, com fumaça negra e
+espessa saindo pelas narinas de tempo em tempo. O valor tático não é o dano: é que a
+camada de fogo **queima o que se aproxima antes de chegar**. No caso documentado — o Gu
+estava instalado num rei-lobo de mil feras —, ele tornava o alvo praticamente imune a
+escravização, porque a fumaça do wolf enslavement Gu **era queimada antes mesmo de
+pousar** no animal.
+
+**Como é.** — (o efeito são chamas carmesim por todo o corpo do portador). É um Gu de
+rank 3 **raro**.
+
+**Dieta.** —
+
+**Desvantagem.** — (a obra não informa; presume-se que arda continuamente e denuncie a
+posição do portador a quilômetros, ded.).
+
+**Como se obtém.** — (no caso documentado, foi **implantado numa fera** por Mestres Gu para
+protegê-la de escravização).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o **contra canônico de todo Gu que entrega efeito por veículo físico**
+— fumaça, pó, névoa, nuvem —, e a obra o usa exatamente assim: contra a escravização. Para
+uma mesa, é a peça que ensina que defesa não precisa ser armadura; pode ser um ambiente
+hostil colado ao corpo. Sinergia óbvia com o resto do arsenal de fogo, e conflito óbvio
+com qualquer aliado que precise encostar no portador `*`.
+
+## Suporte
+
+### Flame Heart Gu (Gu do Coração de Chama)
+
+**O que faz.** **Fortalece os ataques de todos os Gu de fogo do portador** — a habilidade
+foi apresentada pelo leiloeiro como conhecida de todos. Não ataca sozinho: amplifica o
+conjunto inteiro. É o análogo ofensivo do que o light source Gu é para o custo.
+
+**Como é.** Tem a forma de um **vulcão em miniatura**, e depois de refinado **se aloja
+dentro do coração do Mestre Gu** — não fica solto na abertura como a maioria.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Nenhuma utilidade para quem não segue o caminho do fogo. Instalado dentro
+do coração, o que sugere que removê-lo não é trivial (ded.). E a obra **nunca quantifica o
+reforço**.
+
+**Como se obtém.** Vendido em leilão de grande porte, com **lance inicial de trinta mil
+pedras primordiais e arrematação na faixa de trinta a quarenta mil** — valor que a obra
+classifica como baixo para aquele leilão.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É um **multiplicador de conjunto**, e portanto o Gu que decide se vale a
+pena especializar-se: quanto mais Gu de fogo o dono tem, mais ele rende. É a expressão mais
+direta da regra da **ressonância de caminho** em formato de item. Por ficar instalado no
+coração, é provavelmente passivo depois de assentado (ded.).
+
+### Fuel Oil Gu (Gu do Óleo Combustível)
+
+**O que faz.** **Vomita pela boca uma cascata de óleo âmbar** de cheiro acre que em
+segundos submerge o campo de batalha inteiro numa camada espessa, quase um pântano. O óleo
+**resiste ao congelamento** e, aceso, transforma a área num mar de fogo. Existe nos ranks
+3 e 4.
+
+**Como é.** — (o efeito é uma cascata de óleo âmbar).
+
+**Dieta.** Dieta não informada; nessa faixa de rank o intervalo entre refeições vai de um
+mês a alguns meses (ded.).
+
+**Desvantagem.** **Sozinho não causa dano nenhum.** É preparação pura: sem um Gu de fogo
+para acender, é apenas sujeira.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra — a obra registra a existência das versões de rank 3 e
+rank 4 sem descrever passagem de uma para outra (é faixa de rank, não árvore).
+
+**Interações.** Multiplica qualquer Gu de fogo do conjunto ao dar-lhe combustível de área.
+E é o contra-contra do gelo: por **resistir ao congelamento**, ele não pode ser neutralizado
+pela resposta óbvia do caminho adversário.
+
+## Cura
+
+### Accumulating Ash Gu (Gu do Acúmulo de Cinzas)
+
+**O que faz.** Gu de cura que **regenera o portador de forma contínua durante a luta**,
+dando a ele enorme vantagem em combates de atrito.
+
+**Como é.** —
+
+**Dieta.** **Cinzas** — insumo que o próprio caminho do fogo produz de sobra. É a dieta
+mais barata e mais fácil de manter de todo o rank.
+
+**Desvantagem.** Fora de um cenário incendiado, falta insumo (ded.).
+
+**Como se obtém.** Exemplar **selvagem**, da mesma fera que fornece o Lava Explosion e o
+Flame Stomach.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o caso mais bonito de **ciclo fechado** do catálogo: o combate gera a
+própria comida do Gu. Um conjunto de fogo que queima o campo alimenta a própria cura, e a
+vantagem cresce quanto mais longa a luta. Como toda cura, sofre com camadas de lei já
+instaladas no corpo do paciente (ded.).
+
+## Percepção
+
+### Fire Eye Gu (Gu do Olho de Fogo)
+
+**O que faz.** Transforma os olhos do usuário em **olhos de fogo**, com a capacidade de
+**enxergar através de névoa**. É um Gu de **investigação**, e de **gasto único** — usa-se
+uma vez e acabou.
+
+**Como é.** — (o efeito são olhos convertidos em fogo).
+
+**Dieta.** Não se alimenta: é consumível, gasto no próprio uso (ded.).
+
+**Desvantagem.** É a desvantagem mais brutal do rank inteiro: **ele não funciona todas as
+vezes, e quando falha o usuário fica cego**. Não há meio-termo descrito — ou se enxerga
+através da névoa, ou se perde a visão.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** **Fire Pupil Gu (rank 4)**, e esta é uma das poucas receitas **fechadas** de
+avanço que a obra fornece para o rank 3: *"o fire pupil Gu de rank quatro era avançado
+usando o fire eye Gu de rank três, junto com o **sight blow Gu** e alguns materiais de
+refino associados"*. O produto faz **pegar fogo tudo aquilo em que o usuário fixa o
+olhar** — ataque cômodo e difícil de prever, em troca de exigir contato visual e de
+danificar os próprios olhos com o uso prolongado.
+
+**Interações.** Casa com o **Sight Blow Gu** do caminho da alma não em combate, mas na
+**bancada de refino**: os dois juntos produzem o rank 4. É um dos raros pares do catálogo
+que atravessa caminhos (fogo + alma) para produzir alguma coisa nova, e vale como modelo
+de receita cruzada para a mesa.
+
+---
+
+# Caminho da madeira e das plantas
+
+O caminho de infraestrutura do sistema: casa, campo minado, colheita e regeneração de
+essência. Quase nada aqui é arma direta, e quase tudo muda a natureza de uma campanha —
+uma base portátil e um Gu que produz munição por conta própria valem mais numa mesa do que
+um dano a mais.
+
+## Suporte
+
+### Wood Charm Gu (Gu do Encanto de Madeira)
+
+**O que faz.** Transforma o usuário num **espírito de árvore**, que **absorve essência
+primordial diretamente do ar** em vez de sacá-la de pedras primordiais. E o detalhe
+mecânico decisivo: ele absorve **sem dividir a atenção do usuário**, ao contrário de quem
+tenta sacar essência de pedras em pleno combate. É regeneração de recurso enquanto se luta.
+
+**Como é.** — (o usuário assume forma de espírito de árvore). Conta ao mesmo tempo como Gu
+do caminho da madeira e do caminho da transformação.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O custo está no uso, e é terminal: a transformação vegetal é
+**progressiva e irreversível**. Usá-lo por muito tempo **converte o corpo em madeira**,
+até virar um cadáver de árvore, e a corrosão avança até tomar a consciência. É poder de
+atrito quase infinito em troca de morte progressiva.
+
+**Como se obtém.** Refino reconhecidamente **difícil** — mais difícil que o dos outros Gu
+de rank 3 da mesma época.
+
+**Evolução.** A obra chama esta de **"uma das rotas de avanço mais extravagantes"** do
+mundo, e o motivo é puramente econômico: **os componentes são anos de vida**. Wood Charm
+Gu (rank 3) mais um **Lifespan Gu de cem anos** produz o *hundred-years Wood Charm Gu*
+(rank 4); este mais um **Lifespan Gu de mil anos** produz o *thousand-years Wood Charm Gu*
+(rank 5). A obra é explícita sobre o desfecho social dessa receita: **"todo mundo conhece
+essa rota de fusão, e Mestres Gu raramente a usam"** — porque quem acha um Lifespan Gu
+prefere engoli-lo para si. É a única rota da obra descrita como universalmente conhecida e
+universalmente evitada.
+
+**Interações.** **Amplifica todos os Gu de planta** do dono, o que faz dele o Gu-núcleo
+natural de um conjunto de madeira. E resolve o problema estrutural de qualquer construção
+que consuma muita essência — os Gu caros do gelo, do fogo e da luz — ao custo de o dono
+deixar de ser humano.
+
+## Ataque
+
+### Grass Puppet Gu (Gu do Boneco de Grama) — o degrau de rank 3
+
+**O que faz.** Ergue **do capim aos pés do usuário bonecos de grama do tamanho de um
+adulto**, que lutam por ele. É uma **série que cobre os ranks 1 a 4**, e o degrau de rank
+3 é o primeiro que produz soldados de verdade: no rank 1 os bonecos são só alvos de treino,
+no rank 2 já matam um caçador comum, e **no rank 3 eles saem armados com lâmina de bambu e
+escudo, capazes de matar um Mestre Gu de rank 1**.
+
+**Como é.** Bonecos de grama do tamanho de um adulto.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Depende de haver **capim no chão**: num terreno de pedra, areia ou água,
+é um Gu morto (ded.). E soldados de rank 3 morrem para qualquer coisa de rank 3.
+
+**Como se obtém.** — (a obra não dá receita nem preço para a versão mortal).
+
+**Evolução.** Não citada pela obra entre os degraus — é **série**, não árvore: os ranks 1 a
+4 existem, e a obra não descreve fusão de um no outro. Existe também uma **versão
+imortal** com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+
+**Interações.** É o Gu que transforma um cultivador solitário em pequena unidade militar, e
+por isso combina com qualquer coisa que precise de corpos entre o dono e o inimigo. Contra
+ele, fogo em área e Gu de som que derrubam formações inteiras — a obra mostra uma onda de
+ghost cry Gu fazendo desabar uma fileira de fantoches vegetais equivalentes.
+
+## Utilidade
+
+### Three Star Cave (Caverna das Três Estrelas)
+
+**O que faz.** É uma **casa**. Guardado, é uma semente; plantado no chão e alimentado com
+essência primordial de um Mestre Gu de suporte, **cresce instantaneamente numa árvore
+enorme e oca** de dezoito metros de altura e dez metros de diâmetro na base, com raízes
+grossas entrelaçadas como cobras. O tronco marrom não é maciço: contém **três andares de
+espaço interno**, com janelas que deixam entrar sol e ar fresco, duas portas largas na base
+e três cômodos distribuídos pelos andares. A capacidade defensiva desses cômodos é
+**incomparavelmente superior à das barracas** usadas pelo resto de uma caravana.
+
+Dois detalhes fazem dele uma peça de campanha e não um cenário. Primeiro, **a árvore molda
+mobília sob demanda**: ela cresce nos formatos que o Mestre Gu quiser, o que na prática
+permitiu converter os três andares em loja, com fileiras de balcões de madeira que fazem
+parte da própria árvore, mais banquinhos e bancos para os clientes. Segundo, **ela é uma
+arma**: um Mestre Gu de suporte monitorando de dentro pode, em caso de roubo, **fechar as
+portas na hora**, transformando o interior numa cela de prisão momentânea, e **fazer
+crescer incontáveis galhos que executam ataques em grupo** contra os invasores. Para
+recolher, a árvore volta a ser semente.
+
+**Como é.** Uma semente, quando guardada; uma árvore oca de dezoito metros, quando plantada.
+
+**Dieta.** Essência primordial.
+
+**Desvantagem.** Uma árvore de dezoito metros é **alvo fácil de raio em temporal**, e é
+exatamente por isso que **não se usa Three Star Cave como casa comum nas Planícies do
+Norte**. É visível a quilômetros, então não serve para esconder ninguém; exige um Mestre Gu
+de suporte dedicado para operar; e fica imóvel enquanto plantada.
+
+**Como se obtém.** É a **casa-Gu corriqueira das caravanas da Fronteira do Sul** — o tipo
+mais comum de "Gu house" da obra.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Não funciona sem um **operador dedicado** dentro dela: é a peça que
+transforma um Mestre Gu de suporte de rank 3, que sozinho não vale nada num combate, em
+sistema de segurança de um acampamento inteiro. Contraindicação geográfica explícita — o
+clima decide se o Gu serve ou não.
+
+### Charred Thunder Potato Mother Gu (Gu-Mãe da Batata de Trovão Chamuscada)
+
+**O que faz.** É uma **fábrica portátil de minas terrestres**. Recebendo essência
+primordial, ela brota, floresce e frutifica em **poucas respirações**, e cada fruto
+verde-escuro do tamanho de um dedo é um **Charred Thunder Potato Gu de rank 2** pronto para
+ser enterrado.
+
+**Como é.** Uma **batata irregular coberta de furinhos**.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Cada colheita **custa muita essência** — tanto que um Mestre Gu de rank 2
+não tem reserva para acioná-la sozinho e precisa de essência emprestada. O produto herda as
+limitações da mina: só funciona em solo, e quanto mais fértil melhor. E **carregar este Gu
+é assinatura**: quem cava armadilhas com ele vira suspeito imediato quando alguém morre
+pisando numa.
+
+**Como se obtém.** — (a obra não dá receita nem preço; o exemplar documentado foi pilhado
+do corpo de uma Mestra Gu demoníaca morta).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Transforma **essência primordial em campo minado**, sem depender de mercado
+nenhum — é o Gu que dá autonomia logística a um grupo isolado. Ver também o Muffled Thunder
+Potato Gu, abaixo, que é o degrau de rank 3 da munição em si.
+
+### Muffled Thunder Potato Gu (Gu da Batata de Trovão Abafada)
+
+**O que faz.** É a **mina de rank 3** da mesma família: enterrada no solo, detona quando
+pisada. A obra a registra em quantidade, misturada a exemplares de rank 4 num mesmo campo
+minado — ou seja, o uso canônico é **em massa e em camadas de rank**.
+
+**Como é.** — (uma batata, como o resto da família).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** — (o efeito específico e a força da explosão não são descritos).
+
+**Como se obtém.** — (a obra não dá receita nem preço; a família é produzida por Gu-mãe).
+
+**Evolução.** **Thunderclap Potato Gu (rank 4)**, que a obra nomeia lado a lado com este
+no mesmo campo minado, sem descrever a fusão entre os dois — a escada existe, a receita
+não é dada.
+
+**Interações.** Munição consumível: o valor está na quantidade e no fato de ser produzida
+internamente, não comprada. É o par natural do Charred Thunder Potato Mother Gu.
+
+### Cactus Pointer (Ponteiro de Cacto)
+
+**O que faz.** **Floresce um papel com uma palavra-pista**, reorganizando o que o usuário
+já sabe. Destrava uma linha de raciocínio travada **sem exigir informação nova**.
+
+**Como é.** Uma planta que floresce um papel.
+
+**Dieta.** Essência do próprio usuário.
+
+**Desvantagem.** **Só reorganiza o que o dono já sabia** — não descobre nada. E é
+consumível: morre ao ser colhido.
+
+**Como se obtém.** Especialidade **exclusiva de um clã** e **não vendida no mercado**: quem
+não é do clã não consegue um. A planta de origem cresce selvagem no Deserto Ocidental.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Faz para a investigação o que o flash of inspiration Gu faz para o refino —
+compare os dois: um é caro, comprável e destrava qualquer padrão; o outro é gratuito,
+inacessível e só arruma o que já está na cabeça. É a peça que dá a um clã pequeno uma
+vantagem de inteligência que nenhum dinheiro compra.
+
+---
+
+# Caminho do sangue
+
+Escola de dieta barata e de custo social alto. No rank 3 ela aparece com uma única peça
+catalogada, mas é uma peça que resume o caminho inteiro: poder de exército pelo preço de
+sangue.
+
+## Ataque
+
+### Bladewing Blood Bat Gu (Gu do Morcego de Sangue de Asa-Lâmina)
+
+**O que faz.** Produz **morcegos vermelhos de dois pares de asas, sem garras, cujas bordas
+cortam como lâminas de aço**. Voam muito rápido e atacam **em bando de centenas**,
+capazes de deixar um Mestre Gu à beira da morte. E o mecanismo de controle é o que faz
+dele valioso: **controla-se a colônia inteira dominando um único macho** — um Gu comanda
+um exército.
+
+**Como é.** Morcegos vermelhos com dois pares de asas cortantes.
+
+**Dieta.** **Sangue** — dieta barata e fácil de conseguir.
+
+**Desvantagem.** Ainda depende da essência do usuário para operar. Reconhecer o macho da
+colônia **exige familiaridade prévia com a espécie** — quem não conhece o bicho não
+consegue tomar o bando. E a dieta de sangue, mais o próprio enxame, **denunciam o usuário**
+socialmente (ded.).
+
+**Como se obtém.** Foi o **primeiro dos três grandes feitos de fusão do fundador do
+caminho do sangue**. Circula em pequenas heranças espalhadas pelo mundo, e é assim que
+Mestres de escravização adquirem colônias inteiras.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Casa naturalmente com o [[07 - Enslavement Path|caminho da escravização]],
+que fornece o método de dominar o macho. Contra ele, qualquer Gu de área — uma armadura de
+corpo inteiro como o Sky Canopy bloqueou um bando inteiro num túnel estreito, o que dá a
+medida certa: o enxame é letal em campo aberto e inofensivo contra defesa total em
+corredor.
+
+---
+
+# Caminho do veneno
+
+Escola de efeito lento, de controle e de infraestrutura social — no rank 3, o veneno é
+menos uma arma do que uma **coleira**. Ver [[10 - Poison Path|Poison Path]].
+
+## Utilidade
+
+### Poison Scorpion Gu (Gu do Escorpião Venenoso)
+
+**O que faz.** A obra é categórica e quase cômica: **este Gu de rank 3 tem uma única
+habilidade, defecar.** O que ele produz é que interessa — **as fezes de escorpião, pretas
+como feijão, são elas próprias um Gu de rank 2**. E o ditado do mundo explica o valor: "as
+fezes de escorpião são únicas no mundo". **Cada Gu de fezes carrega um veneno único, e
+quem for envenenado por ele precisa ser desintoxicado a cada sete dias pelo Poison Scorpion
+Gu correspondente** — aquele exato exemplar que o produziu, e nenhum outro.
+
+Por isso ele é **o método mais comum de controlar escravos** no mundo da obra. Existe o
+*slavery Gu*, de efeito melhor, mas ele é rank 5, caro e raro, e não pode ser usado em
+larga escala. O escorpião pode.
+
+Um detalhe mecânico precioso: **uma pessoa sem cultivo nenhum, incapaz de ativar o Gu e de
+fazê-lo defecar, ainda assim consegue fazê-lo ferroar alguém sem gastar essência primordial
+nenhuma** — ou seja, ele funciona como arma de defesa pessoal na mão de um civil.
+
+**Como é.** Corpo **branco como porcelana sem defeito**, do tamanho de dois dedos.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O Gu em si **não faz absolutamente nada além de defecar** — sem as fezes
+ele é inútil. O dono fica preso ao **calendário de sete dias**: precisa permanecer
+disponível ou perde o escravo. E se o exemplar específico morrer ou se perder, todos os
+envenenados por ele estão condenados (ded.).
+
+**Como se obtém.** Comprado legalmente **junto com escravos**, num mercado de escravos de
+cidade de clã, com toda a papelada resolvida em menos de quinze minutos e o Gu entregue
+pelo vendedor como parte do pacote. É artigo de comércio corriqueiro, não raridade. Um Gu
+já refinado pelo dono anterior **pode ser passado adiante e refinado de novo** por outra
+pessoa, o que se faz quando o novo dono não sabe refinar sozinho. Preço: — (a obra não o
+separa do preço dos escravos).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o exemplo mais claro do catálogo de um Gu cujo valor está inteiramente
+**fora dele**: ele não faz nada, o produto dele faz tudo. E a exclusividade química é o
+mecanismo de segurança — **nenhum outro Mestre Gu de veneno consegue soltar seus
+escravos**, porque nenhum outro escorpião produz aquele veneno. Para a mesa, é um vínculo
+de campanha pronto: o antídoto tem prazo e endereço.
+
+## Ataque
+
+### Tiger Poison Gu (Gu do Veneno de Tigre)
+
+**O que faz.** Emite **veneno de tigre**, de ação rápida e próprio para feras grandes:
+dissolve sangue, carne e órgãos em veneno roxo que escorre pelo corpo da vítima — e depois
+**reabsorve esse veneno para crescer**. Fica mais forte a cada vítima, sem custo adicional
+para o dono.
+
+**Como é.** Um **escorpião preto com a marca dourada do caractere "rei" na cabeça**.
+
+**Dieta.** **O veneno das presas que ele mata** — cresce comendo o que abate.
+
+**Desvantagem.** **Ineficaz contra alvos infantis** — "tigres não ferem filhotes". É uma
+das restrições mais estranhas e mais aproveitáveis do catálogo, porque é temática e não
+numérica.
+
+**Como se obtém.** Capturado na forma do escorpião preto com a marca de rei.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Combinado ao *Poison Liquid Gu*, forma um **tigre líquido venenoso de
+combate**. E o ciclo de crescimento por absorção faz dele um Gu que **melhora sozinho** ao
+longo de uma campanha, coisa rara — o que também significa que perdê-lo custa todo o
+investimento acumulado.
+
+## Cura
+
+### Big Strength Defecate Gu (Gu da Defecação Reforçada)
+
+**O que faz.** Provoca **diarreia** — e apesar da aparência e do nome, é um Gu **médico e
+valioso**: muitos médicos o usam para tratar doenças e para desintoxicação, forçando a
+expulsão pelo intestino. Tem a mesma função e a mesma aparência do Defecate Gu de rank 2,
+com o efeito **três vezes mais forte**.
+
+**Como é.** Um Gu **amarelo-acastanhado, parecido com um torrão de lama**, exalando um leve
+fedor de fezes.
+
+**Dieta.** **Come muito mais que o Defecate Gu de rank 2** — e a obra dá esse custo de
+manutenção como a razão principal da impopularidade dele.
+
+**Desvantagem.** Come muito mais sem fazer nada de novo, e há **casos registrados de
+diagnóstico errado em que ele foi aplicado indevidamente e a pessoa morreu de diarreia
+excessiva**. Para tratar, repetir o Gu de rank 2 é mais seguro.
+
+**Como se obtém.** **Fusão do Defecate Gu (rank 2) com o Big Strength Gu**, um Gu barato de
+loja que aumenta a força por cinquenta respirações. E o Defecate Gu, por sua vez, também é
+fusão: derrama-se grãos de arroz em lama podre dentro de uma urna e ativa-se
+**simultaneamente** (exigindo multitarefa mental) um *rice bag grass Gu* e um *smelly fart
+Gu* — o primeiro brilhando em verde, o segundo em laranja; as duas luzes se fundem, entram
+na urna, ela vibra intensamente e o novo Gu voa para fora. Preço: —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É **o exemplo canônico da obra** de que rank maior não é melhor, e por isso
+merece lugar de honra num catálogo por rank. Note também o que a fusão fez: o Big Strength
+Gu entrou na receita e **sua habilidade de dar força se perdeu inteira** — sobrou só a
+magnitude aplicada à outra função. É a regra de que a fusão herda uma habilidade só, em
+estado puro.

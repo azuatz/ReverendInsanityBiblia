@@ -2009,3 +2009,948 @@ nas condições de operar no mundo sem ser visto.
 - **Interações:** o truque é **reaplicável**: se o par escolhido se rebelar, escolhe-se outro
   par e refaz-se o processo. É a peça que transforma a posse de uma terra abençoada num
   problema de casting, não de conquista.
+
+---
+
+## Rank 7
+
+O rank 7 é onde o praticante deixa de ser um imortal recém-chegado e passa a ser uma
+**potência regional**. Três coisas mudam de natureza aqui.
+
+A primeira é a **alimentação**: as dietas do rank 7 já quase nunca são colhíveis — são
+materiais imortais específicos, feras raras, substâncias que só existem em pontos de
+recurso controlados. É neste patamar que a obra deixa de falar em comprar comida e passa a
+falar em **possuir a fonte**.
+
+A segunda é o surgimento dos **Gu que não fazem nada sozinhos e multiplicam todo o
+resto**: o Pass Gu, que barateia e prolonga qualquer golpe; o Precaution Gu, que multiplica
+qualquer defesa preparada; o par No + Care, que anula a punição por quebra de pacto. São
+peças de engenharia, não de combate, e são justamente as mais caçadas.
+
+A terceira é que **os Gu começam a impor condições ao mundo**, não só ao alvo: um Gu de
+rank 7 sela um trecho do Rio do Tempo, outro estabelece domínio sobre mil li de terreno,
+outro marca a hora exata da morte de uma pessoa.
+
+### Caminho do tempo
+
+#### Suporte e infraestrutura
+
+**⭐ After Gu**
+
+- **O que faz:** é o núcleo do golpe imortal **"Endless Trouble" (Encrenca Sem Fim)**:
+  ativado, ele **adia a calamidade ou tribulação atual para o momento da próxima**, de modo
+  que as duas sejam enfrentadas juntas. Também é o núcleo do golpe investigativo **"Three
+  Breaths Future Vision"**, que mostra ao imortal a própria situação futura — e esse futuro
+  se manifesta **dentro de três respirações**. Na cena mostrada, a visão revelou uma
+  emboscada que despedaçaria o usuário e, por ter sido pré-ativada, tornou a emboscada
+  inútil.
+- **Como é:** — a obra não descreve o verme. Foi encontrado no centro de uma bola de
+  formigas, e o nome, em chinês, soa igual a "formiga-rainha".
+- **Alimentação:** **mecânica única na obra.** O After Gu come qualquer coisa, mas **não
+  consegue se alimentar sozinho**. Ele **produz Gu mortais de formiga preta por conta
+  própria** e os envia para devorar todo tipo de material imortal; essas formigas são
+  resistentes, digerem o material, retêm os nutrientes, e o After Gu então **se alimenta
+  delas**. Ou seja, o que importa não é o material imortal — é **preservar as formigas
+  pretas**.
+- **Desvantagem:** duas, e as duas são excelentes ganchos de mesa. Primeira, a alimentação
+  vira ponto fraco militar: se muitas formigas forem destruídas, o Gu **passa fome**, e ele
+  só consegue produzir **uma formiga nova por mês**. Com poucas formigas, ele **morre de
+  fome no meio da fartura**. Segunda, e canônica: o golpe **não pode ser usado em excesso**,
+  porque adiar a tribulação **enfurece a Vontade do Céu** e as calamidades seguintes
+  aumentam enormemente de força. O criador do golpe usou-o **uma única vez na vida** e nunca
+  mais, e deu a ele o nome "Encrenca Sem Fim" de propósito, como aviso aos descendentes.
+- **Como se obtém:** foi encontrado dentro de uma bola de formigas. Existe ainda o **"Before
+  Immortal Gu"**, Gu irmão e complementar, muito cobiçado por quem tem o After.
+- **Evolução:** o mesmo Gu em rank maior — a obra o mostra de **rank 7 a rank 8**.
+- **Interações:** um usuário posterior **inverteu a lógica e transformou o defeito em
+  motor**: acelerou ao máximo o fluxo do tempo da própria abertura imortal para que as
+  tribulações viessem com mais frequência, e **adiou todas elas** — porque, embora a
+  tribulação final se torne monstruosa pela ira do céu, **atravessá-la rende uma quantidade
+  enorme de marcas de lei**. É o exemplo mais elegante do catálogo de um efeito colateral
+  convertido em estratégia.
+
+**⭐ Autumn Gu** e **⭐ Winter Gu**
+
+- **O que fazem:** são duas das quatro peças da **série das estações**. O **Autumn Gu** é o
+  núcleo do golpe investigativo de outono; o **Winter Gu** é o núcleo do golpe defensivo de
+  inverno. A obra **não detalha o que cada um faz sozinho** — apenas o que os golpes fazem.
+- **Como são:** o Autumn é um **grilo vermelho-escuro entalhado em madeira preciosa e
+  antiga, de canto altíssimo e retumbante**; o Winter é uma **pupa cinzenta que emite rajadas
+  de ar frio**.
+- **Alimentação:** folhas secas de outono e essência imortal `*` (Autumn); gelo antigo e
+  essência imortal `*` (Winter).
+- **Desvantagem:** — a obra não descreve custo de acionamento de nenhum dos dois.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra subida de rank.
+- **Interações:** completam o conjunto das quatro estações com o **Spring Gu** e o **Summer
+  Gu**, ambos de rank 8 — repare que a série não é homogênea em rank, o que é raro.
+
+#### Ataque
+
+**⭐ Time Needle**
+
+- **O que faz:** é puramente ofensivo: ativado, **dispara agulhas finíssimas** contra os
+  inimigos. A obra **não informa dano, quantidade nem alcance**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** limalha de metal envelhecida por séculos `*`
+- **Desvantagem:** — a obra não informa.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é um dos **poucos Gu de tempo puramente ofensivos** — o caminho do tempo é
+  quase todo feito de utilidade e manipulação, e isso o torna uma anomalia útil.
+
+#### Deslocamento e ocultação
+
+**⭐ Time Concealment**
+
+- **O que faz:** **apaga os rastros temporais do usuário**, a ponto de ele escapar da
+  varredura das Casas imortais dedicadas a investigar passado e presente.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** poeira assentada em ruínas antigas `*`
+- **Desvantagem:** — a obra não informa.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** o efeito é **amplificado dentro do próprio Rio do Tempo** — ele some do
+  único lugar onde se poderia procurá-lo. Um golpe imortal montado sobre ele **cega por
+  completo** a Casa **Present and Past Pavilion**, que existe justamente para detectar quem
+  entra no Rio do Tempo.
+
+### Caminho do espaço
+
+#### Deslocamento e fuga
+
+**⭐ Space Travel**
+
+- **O que faz:** tem **capacidade de deslocamento notável**; fora isso, a obra **não detalha
+  o mecanismo**.
+- **Como é:** **esfera de jade azul com um par de asas brancas**.
+- **Alimentação:** jade imortal moído `*`
+- **Desvantagem:** — a obra não informa.
+- **Como se obtém:** foi **capturado do corpo de uma fera desolada imemorial do tipo
+  pégaso** — ou seja, é um Gu selvagem que crescia dentro de uma criatura.
+- **Evolução:** — a obra não registra.
+- **Interações:** — a obra não registra.
+
+#### Defesa e negação de área
+
+**⭐ Suppress Space Gu**
+
+- **O que faz:** **impede o uso de qualquer método do caminho do espaço dentro de uma
+  área** — teleportes individuais e formações de teleporte inteiras. Um exemplar de rank 7
+  anula métodos de espaço de rank 7.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** fragmentos de espaço estilhaçado `*`
+- **Desvantagem:** o raio é **amplo e não ajustável**: prende **aliados junto com
+  inimigos**, e a única correção é o usuário **desligar o efeito por completo**. É o Gu que
+  obriga a escolher entre cercar o inimigo e manter a própria rota de fuga.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é a contramedida direta contra o caminho do espaço inteiro, e por isso o
+  contra natural do **Fixed Immortal Travel Gu** e do **Divine Travel Gu**. Distingue-se do
+  **Fixed Space Gu**, que não bloqueia o teleporte: sequestra o destino dele.
+
+#### Apenas nomeado neste rank
+
+**⭐ Capture Wind Gu** — Gu de movimento de rank 7. A obra registra sua existência e sua
+negociação, mas **não descreve o mecanismo** do deslocamento que ele concede.
+*Alimentação:* vento colhido em grande altitude `*`. *Peculiaridade histórica:* foi **o
+primeiro Gu Imortal registrado numa transação pública** — um marco na história do comércio
+de topo do mundo.
+
+### Caminho da sabedoria
+
+#### Suporte e infraestrutura
+
+**⭐ Self Love**
+
+- **O que faz:** o mecanismo-raiz é uma frase só — **ele faz uma vontade se amar e se
+  estimar a si mesma** — e dela saem três usos completamente diferentes. **(a) Auto-limpeza
+  de marcas de lei.** É o núcleo do golpe imortal "auto-limpeza", que **varre do corpo do Gu
+  Imortal todas as marcas de lei que lhe são desfavoráveis, preservando as favoráveis** —
+  inclui marcas deixadas por golpes de rastreamento alheios **e por acordos de aliança**, que
+  são desfeitos junto. O critério é **do próprio Gu, não do usuário**: um imortal que o usou
+  rompeu por completo o acordo de aliança com um clã (a ponto de as tábuas de vida e
+  lanternas de alma dele guardadas pelo clã se estilhaçarem), mas **os outros acordos que ele
+  tinha continuaram intactos**, porque não eram prejudiciais a ele. **(b)
+  Anti-autodetonação.** Aplicado a uma vontade presa dentro de um Gu ou item alheio, faz essa
+  vontade **passar a amar e valorizar a si mesma**, de modo que ela **não corre mais o risco
+  de se autodetonar** para negar o espólio ao captor — é o passo que **torna o roubo de Gu
+  Imortal viável**. **(c) Fábrica de vontades.** Acionado junto com o Gu Imortal da afeição e
+  alguns Gu mortais, **produz vontade própria em quantidade imensa** — uma maré de vontade
+  que se condensou num gigante de mais de trinta metros com a aparência do usuário, dando
+  "suprimento infinito de vontades" para golpes de clonagem.
+- **Como é:** **não parece um verme.** Parece um *zongzi* (bolinho de arroz em forma de
+  chifre) embrulhado numa camada de folhas de bambu, com fios cinza-esbranquiçados por cima
+  — mas a folha de bambu é **inteiriça com o interior**, e os fios cinzentos são as
+  **marcações do próprio Gu**, que **piscam e mudam de lugar a cada poucas respirações**.
+- **Alimentação:** — a obra não informa a dieta.
+- **Desvantagem:** não é golpe contínuo: **precisa ser reusado a cada vez, e cada uso dura um
+  tempo determinado** — contra um golpe de rastreamento de nível venerável, um uso
+  bem-sucedido **não bastou** para se livrar completamente. E o acionamento tem um efeito
+  colateral espetacular: ele **exala um cheiro doce, sem emitir luz nenhuma**, e o cheiro
+  **atrai e aciona sozinho grandes quantidades de Gu mortais**, que se juntam em torno dele
+  formando um "rio de Gu" — esse é o primeiro passo obrigatório do golpe de auto-limpeza, e
+  sem o Gu Imortal nenhum arranjo de Gu mortais substitui esse passo. O uso (c), sustentado,
+  consome essência imortal em ritmo alto.
+- **Como se obtém:** **precisa ser refinado já como rank 7 desde o início** — **não existe
+  versão mortal a promover**, o que torna o refino bem mais difícil. Um espírito de terra de
+  uma seita levou muito tempo e esforço máximo para consegui-lo. É uma exceção instrutiva à
+  ideia de que todo Gu Imortal tem uma escada mortal atrás dele.
+- **Evolução:** — a obra não registra subida de rank.
+- **Interações:** pode ser montado como **núcleo de uma formação imortal de rank 7** que limpa
+  marcas de lei prejudiciais **continuamente**, em vez de por acionamentos avulsos; nessa
+  montagem, **retirar o Gu do lugar derruba a formação**, e um espírito de formação só
+  consegue segurá-la por cerca de **catorze horas** enfiando no lugar dele um monte de Gu
+  mortais da mesma espécie — devolvido antes do prazo, nada se perde. Combinado ao
+  **Affection Gu**, gera vontade própria em massa.
+
+#### Defesa
+
+**⭐ Divination Tortoise Shell Gu**
+
+- **O que faz:** ativado, **cobre o portador com um casco de tartaruga adivinhatória** não
+  inferior ao de uma tartaruga ancestral, que **embaralha qualquer tentativa de deduzi-lo**.
+- **Como é:** — a obra não descreve o verme; descreve o casco que ele projeta.
+- **Alimentação:** alga de tinta antiga.
+- **Desvantagem:** é **puramente autoprotetor**: não faz nada além de guardar as próprias
+  costas, e **só protege o portador** — quem está ao lado dele continua exposto.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o contra dedicado dos Gu investigativos do caminho da sabedoria, e por
+  isso o companheiro natural de quem carrega segredo.
+
+#### Controle e captura
+
+**⭐ Wisdom Obstacle**
+
+- **O que faz:** ativado, **ergue no mesmo instante obstáculos numa área ampla** em volta do
+  usuário — uma barreira imediata. Dentro de um golpe, os mesmos obstáculos são **plantados
+  na mente do alvo**, onde **impedem os pensamentos dele de colidirem entre si**: pensar fica
+  lento e difícil. Como toda dedução do caminho da sabedoria depende de pensamentos
+  colidindo, isso é um ataque à faculdade, não ao corpo.
+- **Como é:** **caracol escuro que lampeja luz roxa**.
+- **Alimentação:** pensamentos confusos e energia mental `*`
+- **Desvantagem:** cobra **essência imortal e uma quantidade grande de vontade** — e, para a
+  aplicação mental, **exige perfurar fisicamente o cérebro** da vítima. O acesso físico
+  obrigatório o torna **arma de captura, não de duelo**.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** — a obra não registra combinações.
+
+### Caminho da alma
+
+#### Investigação
+
+**⭐ Soul Search Gu**
+
+- **O que faz:** **vasculha a alma do alvo e extrai parte das memórias guardadas nela**. Na
+  versão mortal de rank 3, que a obra detalha, o resultado sai **desordenado e incompleto**, e
+  o uso repetido **embaralha a alma revistada**, deixando a consciência dela turva. A obra
+  **não informa quanto a versão imortal melhora esses limites**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** fiapos das almas que revista `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento do exemplar imortal.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o irmão menor do **Devour Soul Gu**, e a obra formula a diferença numa
+  frase: onde este **lê fragmentos**, aquele **confisca a alma inteira**. A **versão mortal**,
+  de rank 3, tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+#### Controle e captura
+
+**⭐ Devour Soul Gu**
+
+- **O que faz:** **arranca a alma inteira de dentro do corpo do alvo e a confisca**. É o
+  núcleo do golpe de mesmo nome; sem ele, extrair a alma de um imortal exige um rodeio
+  trabalhoso de vários outros métodos.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** almas inteiras de mortais `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** eficiência muito maior que a do **Soul Search Gu**.
+
+**⭐ Change Soul**
+
+- **O que faz:** **troca as almas de duas pessoas de corpo**: cada uma passa a habitar o
+  corpo da outra, e a troca **se mantém até ser desfeita**. A alma leva junto os Gu que
+  carregava, mas **o controle sobre eles precisa ser retomado no corpo novo**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** fundação de alma `*`
+- **Desvantagem:** exige um **conjunto completo de Gu mortais de apoio**; sem repô-lo, não
+  há reuso. É usado em momento crítico — é a fuga definitiva de um corpo condenado, não uma
+  ferramenta de rotina.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** — a obra não registra combinações.
+
+#### Ataque
+
+**⭐ Soul Howl Gu**
+
+- **O que faz:** **solta um uivo que sacode as almas de todos numa área** que chega a cobrir
+  o céu.
+- **Como é:** — a obra não descreve. É hospedado dentro de uma **fera de alma**, e o poder
+  vem do animal, não do dono.
+- **Alimentação:** fundação de alma, em porções pequenas `*`
+- **Desvantagem:** a mais espetacular do rank. **Não gasta essência imortal: queima a
+  fundação de alma do hospedeiro**, e a queima é tão grande que **derruba o patamar dele de
+  um golpe só** — uma fera desolada imemorial cai a fera desolada comum. Uma alma de fundação
+  muito robusta aguenta o impacto sem ceder, mas essa é a exceção.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** com controle suficiente, o uivo **pode poupar aliados** dentro da área — é
+  um dos poucos efeitos de área do catálogo com filtro amigo/inimigo.
+
+### Caminho do sangue
+
+#### Investigação
+
+**⭐ Bloodline Gu**
+
+- **O que faz:** **verifica parentesco**, e o procedimento canônico é público e ritual: o
+  examinador segura o Gu diante do examinado e pede **uma gota de sangue**; ativa-o apontando
+  para o sangue na palma, e ele emite **uma luz vermelho-escura** — sem anomalia, o
+  parentesco está confirmado, e a partir dali o examinado é aceito publicamente como sangue
+  da família. É a peça central de um teste de identidade de clã: no caso registrado, o exame
+  vinha seguido de **centenas de perguntas** sobre a história pessoal do candidato, algumas
+  delas armadilhas sobre eventos que nunca aconteceram, e ainda haveria inspeção de alma e
+  ossos se houvesse parente vivo para comparar.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** sangue de parentes próximos `*`
+- **Desvantagem:** o limite mecânico é explícito e serve de **escala para todo o sistema
+  investigativo**: **o rank do Gu é o teto da fraude que ele detecta**. O teste de rank 7 foi
+  enganado por um impostor que embutiu um Gu Imortal de disfarce de sangue no seu golpe de
+  disfarce facial — e o próprio impostor observa que, **se o Gu fosse rank 8, ele
+  provavelmente não teria conseguido**.
+- **Como se obtém:** o clã que o detém o registra oficialmente como "espólio de guerra tomado
+  de um imortal demoníaco", quando na prática é **fruto de pesquisa própria**. A obra comenta
+  a economia disso: um clã do caminho reto **não elevaria um Gu do caminho do sangue a rank 8
+  por desperdício**, e **todo grande clã do caminho reto pesquisa o caminho do sangue às
+  escondidas**, porque ele é a via mais rápida de ganhar força de combate.
+- **Evolução:** — a obra não registra subida; registra a decisão econômica de **não** elevá-lo.
+- **Interações:** é **emprestável** e é **peça de formação**: entra em superformações de Gu
+  para aumentar-lhes a potência, e é um dos dois núcleos de uma formação imortal que
+  **converte pedras de essência imortal em contas de essência imortal rapidamente**. Para a
+  mesa, é o **detector de mentira genealógica** do mundo, e por isso um objeto político:
+  quem o segura arbitra sucessões.
+
+**⭐ Heart Blood Gu**
+
+- **O que faz:** é o **núcleo ideal do golpe imortal "premonição do sangue do coração"**:
+  ativado, o coração do usuário dispara, o **sangue cardíaco sobe e se choca contra as
+  paredes internas do próprio coração**, e desse tumulto físico nasce uma percepção. É uma
+  técnica do caminho do sangue que **imita o caminho da sabedoria** e deduz circunstâncias
+  perigosas ou favoráveis, entregando ao usuário uma sensação intensa de perigo **antes que
+  o perigo se manifeste**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** sangue tirado direto do coração `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento.
+- **Como se obtém:** foi **capturado selvagem dentro de uma Fossa da Terra** e **leiloado num
+  banquete público**, e sua simples aparição fez **dezenas de cultivadores do caminho do
+  sangue saírem do esconderijo** numa região onde esse caminho é proibido — inclusive imortais
+  do caminho reto que o cultivam em segredo. Acabou comprado por preço alto (um Gu Imortal do
+  caminho da água de rank 7) por um agente disfarçado da maior potência do caminho reto.
+- **Evolução:** — a obra não registra.
+- **Interações:** este é o Gu que fixa o **preço do contra-jogo** no mundo imortal. Foi a
+  proteção que manteve um imortal demoníaco vivo por décadas — ele acompanhou mais de dez
+  confrontos consecutivos de uma isca sem cair em nenhum. Para prendê-lo, **três Gu Imortais
+  do caminho da sabedoria tiveram que colaborar exclusivamente para interferir nesse golpe** e
+  cegá-lo, e só então dezesseis imortais (três de rank 7 e treze de rank 6) puderam
+  emboscá-lo. Ou seja: o contra deste Gu é caro e exige especialistas do caminho da sabedoria
+  em conjunto.
+
+### Caminho da sorte
+
+#### Cura e sobrevivência
+
+**⭐ Divert Disaster Gu**
+
+- **O que faz:** **desvia calamidades terrestres e tribulações celestes**: reduz muito a
+  força delas e chega a **aniquilá-las por completo**. É a pedra angular das fortalezas
+  imortais, que a cada dez anos abrem uma fresta para escoar por ali a calamidade acumulada.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** restos de tribulações já desviadas `*`
+- **Desvantagem:** tem um teto rígido, e forçá-lo além dele é catastrófico: **cega o usuário
+  e destrói o Gu**. É um dos Gu mais valiosos do mundo, e ainda assim autolimitado.
+- **Como se obtém:** — a obra não registra a procedência.
+- **Evolução:** — a obra não registra.
+- **Interações:** funciona como o **exato oposto do Calamity Beckoning Gu**, e faz parte da
+  mesma herança verdadeira ("sorte de todos os seres vivos") que o **Connect Luck** e o
+  **Break Luck**.
+
+**⭐ Calamity Beckoning Gu**
+
+- **O que faz:** quando uma calamidade terrestre ou tribulação celeste cai sobre alguém,
+  este Gu a **desprende do alvo original e a puxa para cima do próprio usuário**. É um Gu de
+  **autossacrifício puro**: só serve para se arruinar no lugar de outro.
+- **Como é:** **casulo cinzento do tamanho de um dedo mindinho**.
+- **Alimentação:** as próprias calamidades que atrai `*`
+- **Desvantagem:** o efeito é a desvantagem. E há uma condição de posse: ele **só aceita um
+  portador autossacrificial** — o Gu **julga o caráter de quem o carrega**, um requisito de
+  caráter e não de poder.
+- **Como se obtém:** — a obra não registra a procedência.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o inverso exato do **Divert Disaster Gu**.
+
+#### Cultivo e progressão
+
+**⭐ Blessing in Disguise**
+
+- **O que faz:** **dobra o rendimento de uma provação**: concluída a tribulação, o número de
+  marcas de lei que o imortal recebe é o **dobro** do normal. Como marcas de lei são o
+  recurso que faz todo o resto escalar, isso é progressão pura.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** marcas de lei avulsas, colhidas em provações `*`
+- **Desvantagem:** em troca, **torna a provação mais forte** — prêmio e risco sobem na mesma
+  proporção. É a aposta explícita do catálogo.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** casa perfeitamente com o **After Gu**, cuja estratégia invertida consiste
+  justamente em multiplicar tribulações para colher marcas.
+
+### Caminho da força
+
+#### Ataque
+
+**⭐ Myriad Self Immortal Gu**
+
+- **O que faz:** este é o **caso único e importantíssimo** do catálogo — um Gu Imortal que
+  **é um golpe imortal condensado em forma de verme**. O golpe original produzia
+  **incontáveis fantasmas do caminho da força com a forma do próprio usuário**, e para
+  ativá-lo era preciso mobilizar um Gu Imortal de força mais uma multidão de Gu mortais (de
+  esforço total, de força emprestada, de autossuficiência, de refino de espírito, de
+  amplificação de efeito, de força da terra, do fogo, da água, do vento, do raio, e
+  incontáveis outros). Refinado o Gu, **basta injetar essência imortal nele**: ele brilha e
+  os fantasmas saem de dentro da luz, com o mesmo efeito de antes.
+- **Como é:** **mais de dez metros de comprimento, como uma centopeia de brilho metálico**,
+  com peças bucais ameaçadoras, um par de antenas longas na testa e **cinco mil pernas de
+  cada lado, dez mil ao todo**.
+- **Alimentação:** minério imortal, em cargas enormes `*`
+- **Desvantagem:** **consome a alma do usuário** — tanto o Gu quanto o golpe original têm
+  essa base, e a obra a descreve como uma **falha inevitável do método**, não como um preço
+  que se possa contornar.
+- **Como se obtém:** a receita exige uma quantidade enorme de Gu de gume e um material
+  imortal raro de rank 7 achado nas profundezas de uma planície de lâminas ("vinho de lâmina
+  bebida"), além de fogo de vida flutuante, areia de sangue de campo de batalha e sangue do
+  coração. A taxa de sucesso da receita original é de **cinquenta por cento**, e uma versão
+  adulterada de propósito a derrubou para **quarenta por cento**. Detalhe de mesa: enquanto
+  está no centro da formação de refino e ainda não foi refinado por ninguém, o Gu fica **sem
+  dono e pode ser tomado por quem chegar primeiro**.
+- **Evolução:** a obra discute explicitamente o rank: se o Myriad Self fosse rank 6 ou 7 sem
+  mais, teria **marcas de lei de menos** e potência insuficiente para reproduzir o golpe
+  inteiro.
+- **Interações:** os ganhos práticos de condensar um golpe num Gu são de **cadência, não de
+  potência bruta**, e os números são generosos: um golpe derivado que antes exigia ativar o
+  golpe-mãe e estocar fantasmas na abertura passou a precisar de **menos de trinta Gu no
+  total**; outro passou a ser disparado **cinco a seis vezes** no tempo que antes rendia uma
+  ou duas; e golpes antes lentos demais para batalha real ficaram utilizáveis. E a
+  consequência de longo prazo é enorme: **condensar um golpe num Gu abre a possibilidade de
+  criar um caminho inteiramente novo**, coisa que um simples golpe não permite. Nem todo
+  golpe aceita o tratamento — alguns, condensados ao limite, resultam em **vários Gu
+  Imortais** em vez de um só, e depois exigem coordenar todos eles para o disparo.
+
+**⭐ Expend Strength Gu**
+
+- **O que faz:** **faz o alvo desperdiçar força em tudo que faz**. Na versão imortal de rank
+  7, é o núcleo do golpe **"setenta por cento de força gasta"**, cujo efeito medido é: **toda
+  ação e todo golpe imortal do alvo passam a exigir pelo menos mais de cinquenta por cento de
+  esforço** para serem completados. Na versão mortal de rank 4, o efeito é mais cru e mais
+  legível: **dobra o consumo de vigor** do alvo em qualquer movimento.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** carne magra e essência imortal `*`
+- **Desvantagem:** o golpe **não vence sozinho**, e a obra mostra por quê: contra um
+  adversário de vigor excepcional, o dobro de esforço **não o cansou dentro de dezenas de
+  trocas de golpes**, e a usuária acabou em desvantagem apesar de o golpe ter acertado — a
+  experiência de combate superior do alvo compensou a penalidade inteira. Para um Mestre Gu
+  mortal, o Gu pode ser vital, e então **entregá-lo ou perdê-lo causa contragolpe pesado**,
+  com o dono vomitando sangue aos borbotões.
+- **Como se obtém:** o exemplar de rank 7 usado em cena tinha sido **emprestado em segredo**
+  por uma grande potência a uma aliada, **sem registro público** — a obra o usa para ilustrar
+  a política dos empréstimos de Gu Imortal.
+- **Evolução:** — a obra não registra subida do exemplar imortal.
+- **Interações:** a vantagem tática é a **discrição**: a preparação do golpe **não emite aura
+  nenhuma e é furtiva**, e só no instante do disparo explode uma aura extraordinária — o alvo
+  tenta desviar e normalmente não consegue. É o Gu de "imposto sobre a ação": não tira poder
+  do alvo, **encarece cada coisa que ele faz**. A **versão mortal**, de rank 4, tem ficha em
+  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+### Caminho da transformação
+
+#### Ataque
+
+**⭐ Dragon Breath**
+
+- **O que faz:** concede **o sopro de dragão à forma assumida**: um jato **afiado como luz de
+  espada**, que corta um material imortal de rank 7 vários dedos de profundidade e parte
+  pedra maciça em duas. Além disso, **dobra o tamanho da forma assumida**.
+- **Como é:** — a obra não descreve o verme.
+- **Alimentação:** **peixe-dragão**.
+- **Desvantagem:** tem cadência medida, o que é raro: nas condições registradas, o usuário
+  solta **dezesseis sopros seguidos** antes de a garganta secar e exigir cerca de **cinco
+  minutos de descanso**.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** somar **Gu mortais de sopro** ao golpe aumenta o número de sopros por
+  sessão. É uma das quatro peças do golpe "transformação em dragão-espada antigo", com
+  **Dragon Strength** e **Dragon Scales**; e é um dos quatro núcleos da formação imortal que
+  engorda um ponto de recurso de peixes-dragão.
+
+#### Defesa
+
+**⭐ Dragon Scales Gu**
+
+- **O que faz:** **fornece as escamas de dragão ao corpo do usuário**. É uma das quatro peças
+  — com chifre, garra e olho de dragão — que compõem os golpes de transformação em dragão.
+  A função das escamas é **defesa** `(ded.)` — a obra afirma, sobre os homens-dragão, que "se
+  os Mestres Gu humanos não usarem Gu, seus socos e chutes não conseguem sequer ferir as
+  escamas de dragão de nossos corpos". Uso parcial confirmado: sem poder completar a
+  transformação, um cultivador conseguiu ao menos transformar braços e mãos em braços e
+  garras de dragão e **cobri-los de escamas** antes de ativar o Dragon Strength.
+- **Como é:** — a obra não descreve o verme.
+- **Alimentação:** escamas de feras dracônicas `*`
+- **Desvantagem:** **na prática nunca é ativado sozinho** — o texto sempre o mostra em
+  conjunto com grande quantidade de Gu mortais de escama, chifre, garra e olho de dragão,
+  mais os Gu Imortais-núcleo, formando o golpe de transformação.
+- **Como se obtém:** — a obra não registra a procedência do exemplar imortal.
+- **Evolução:** — a obra não registra.
+- **Interações:** aqui está a regra que faz o caminho da transformação ser barato: **"se
+  qualquer um desses Gu for um Gu Imortal, então o golpe vira um golpe imortal"** — como o
+  núcleo pode ser um único Change Form Gu, as peças periféricas podem ficar na versão mortal
+  e ainda assim compor um golpe imortal. Quem refinou antes uma "alma de dragão" com o dragon
+  soul Gu obtém **bônus** ao usar Dragon Scales, Dragon Strength e Dragon Travel. A **versão
+  mortal** — a que aparece aos milhares nos golpes de transformação — tem ficha em
+  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+
+### Caminho da regra
+
+#### Suporte e infraestrutura
+
+**⭐ Pass Gu**
+
+- **O que faz:** atua sobre a **permanência** de um golpe, e entrega **três benefícios numa
+  peça só**: quem o possui consegue **prolongar a duração de um golpe imortal**, **dispensar
+  a maior parte dos Gu mortais de apoio** daquele golpe e, por consequência, **reduzir a
+  dificuldade e o tempo necessários para ativá-lo**. Em cena, aparece como núcleo de uma
+  formação imortal de contenção: ativado, entra na areia amarela da formação e, pouco depois,
+  sombras que se transformavam sem parar **param de se transformar e assentam-se numa nuvem
+  amarelo-clara estável flutuando no ar** — ele **fixa e estabiliza o que estava em fluxo**.
+- **Como é:** parece uma **barata sem asas**, do tamanho do punho de um feto, **achatada, com
+  brilho metálico** e aparência de dureza.
+- **Alimentação:** limalha de metal e essência imortal `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento. A fraqueza geral do caminho da
+  regra vale para ele: usado sozinho, um Gu de regras **só produz efeito depois de dez
+  respirações**.
+- **Como se obtém:** — a obra não registra. Registra que **um Gu Imortal de elite passou
+  muito tempo procurando este Gu especificamente**.
+- **Evolução:** — a obra não registra.
+- **Interações:** é um Gu de **economia de engenharia** — não faz nada por si, mas torna todos
+  os outros golpes do dono mais baratos e mais longos. Por isso é caçado por especialistas
+  mesmo sem ter efeito espetacular. Faz par conceitual com o **Consecutive Gu** (rank 8), que
+  também não dá nenhum efeito novo e multiplica todo o arsenal.
+
+**⭐ Precaution Gu**
+
+- **O que faz:** é **defesa preparada de antemão**: somada a uma barreira de pensamentos já
+  erguida, **multiplica várias vezes a força dela**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** essência imortal, em doses regulares `*`
+- **Desvantagem:** é lenta de propósito — **só ativa na décima respiração** após ser
+  acionada. Contra uma emboscada entre imortais, em que a vida se decide num instante,
+  ativá-la já não dá tempo. É uma defesa que **exige antecipar o ataque com dez respirações
+  de folga**.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** foi usada como **substituto do Stubborn Gu** na remontagem do golpe "sorte
+  fixa", e é o **núcleo da defesa** da Casa **Myriad Year Flying Warship**. Também entra como
+  peça no golpe imortal composto montado sobre o **Vajra Thought Gu**.
+
+**⭐ No Gu** + **⭐ Care Gu** (par obrigatório)
+
+- **O que fazem:** **juntos**, permitem a um Gu Imortal **romper um pacto de aliança sem
+  sofrer o contragolpe** — e **nenhum dos dois faz isso sozinho** (o dono do Care Gu diz
+  explicitamente "mesmo tendo o Care Gu, não é suficiente"). O contexto necessário: no mundo
+  da obra, dois Gu Imortais que firmam um pacto ficam presos por marcas do dao, e quem quebra
+  o pacto — atacando um aliado, revelando um segredo que jurou guardar — sofre um contragolpe
+  automático que vai de ferimento grave à morte, valendo para pactos de **qualquer caminho**.
+  O procedimento é este: os dois donos acionam o No Gu e o Care Gu ao mesmo tempo, cada um
+  emitindo sua luz profunda — a do **No Gu é negra e vazia**, a do **Care Gu é vermelha e
+  quente como fogo** —; um **terceiro** Gu Imortal aciona uma formação de Gu que funde as duas
+  luzes num **pilar de luz espiralado, metade negro e metade vermelho**, que envolve o corpo
+  do beneficiário por inteiro, sem nenhuma fresta. A luz começa distorcida e leva um momento
+  até estabilizar; a partir daí o beneficiário **pode falar e agir contra os seus pactos
+  livremente**. `(ded.)` O No Gu contribui a negação pura — o "não" que anula a cláusula — e o
+  Care Gu o "não me importo" que anula a consequência; juntos formam o golpe imortal cujo
+  nome a obra dá em outro capítulo: **"do not care"**.
+- **Como são:** — a obra não descreve nenhum dos dois vermes; descreve as luzes.
+- **Alimentação:** — a obra não informa a dieta de nenhum dos dois.
+- **Desvantagem:** a proteção vale **estritamente enquanto os dois Gu estiverem sendo
+  acionados**: assim que param, uma nova quebra de pacto traz o contragolpe intenso de
+  sempre, e **não há proteção retroativa**. O consumo é contínuo e rápido — a obra registra a
+  essência imortal vermelha-tâmara dos dois donos sendo "rapidamente gasta" durante a
+  operação. E a operação exige **três participantes simultâneos**: os dois donos (ou vontades
+  deles carregando os Gu) mais um operador de formação.
+- **Como se obtém:** o **Care Gu** foi refinado por Limitless Demon Venerable, o criador do
+  caminho da regra, durante sua busca pelo **domínio selado de céu e terra chamado "Care"**,
+  registrado em *As Lendas de Ren Zu*. O dono do **No Gu** vive isolado numa caverna onde
+  sons demoníacos tornam as marcas do dao caóticas, inutilizam todos os materiais imortais e
+  impedem até a conexão com o bazar imortal. Os dois emprestaram os Gu **casualmente**, junto
+  com vontades suas e a própria essência imortal, a um terceiro que mal conheciam — e ficaram
+  calados quando o portador perguntou como faria para tomá-los emprestados de novo. Emprestar
+  não é de graça: o beneficiário pagou compensação combinada.
+- **Evolução:** — a obra não registra subida de rank de nenhum dos dois.
+- **Interações:** o **Care Gu** é o **quarto colocado da Lista dos Gu Místicos** — era o
+  terceiro até ser empurrado para baixo quando o **Spring Autumn Cicada** subiu de sétimo para
+  terceiro. O mito fundador dá o sentido do nome, e vale citado, porque é a chave do
+  mecanismo: em *As Lendas de Ren Zu*, um homem-fera oferece a Ren Zu dois Gu, **Lealdade e
+  Traição**; quando Ren Zu pega ambos, eles trocam de forma um no outro, e o homem-fera
+  explica: "lealdade aos outros é traição a si mesmo, traição aos outros é lealdade a si
+  mesmo". Ren Zu fica com a Traição, e é advertido: "agora que você tem a traição, não pode
+  ir a um lugar chamado 'Care'. Lá, a traição vai te ferir; mas **se você não se importar,
+  então a traição não pode te ferir de forma alguma**." É esse o princípio que o par
+  industrializa: **a punição por trair só morde quem se importa**. O par é recurso de
+  emergência conhecido no mundo — um imortal, ao enfrentar problemas de pacto anos depois,
+  considera "ir às Planícies do Norte pedir o No e o Care emprestados".
+
+**⭐ Limit Gu**
+
+- **O que faz:** **a obra nunca descreve o efeito isolado do Limit Gu.** O que ela afirma é
+  que ele e o **Region Gu** (rank 8) são, **juntos**, os Gu Imortais-núcleo tanto da Formação
+  do Limite das Cinco Regiões quanto do Qi de Luz Profunda das Cinco Restrições — os métodos
+  que **replicam o contragolpe das paredes que separam as regiões do mundo**. `(ded.)` Pela
+  divisão de trabalho sugerida pelos nomes, o Region Gu delimita *a região* (o volume de
+  espaço que passa a se comportar como muralha regional) e o Limit Gu impõe *o limite* (a
+  supressão e o contragolpe proporcional à força do método usado lá dentro).
+- **Como é:** — a obra não descreve.
+- **Alimentação:** — a obra não informa a dieta.
+- **Desvantagem:** — a obra não informa custo isolado.
+- **Como se obtém:** faz parte de uma **herança verdadeira deixada por um Gu Imortal rank 8
+  que não era Venerável** — e a obra observa que essa herança de um mero rank 8 **vale mais do
+  que a herança de alguns Veneráveis**, porque os métodos dela **contra-atacam métodos de
+  Venerável**: com a fumaça das cinco cores, uma formação suprema de Venerável e um golpe de
+  Venerável que amplifica exércitos inteiros de Gu Imortais **passam a se voltar contra quem
+  os usa**, já que quanto mais forte o efeito, maior o contragolpe.
+- **Evolução:** — a obra não registra.
+- **Interações:** inseparável do **Region Gu**. O mesmo pesquisador que deixou a herança era
+  também **grande grão-mestre do caminho da regra** e escondeu ali o próprio significado
+  verdadeiro: absorvê-lo eleva instantaneamente ao mesmo nível de proficiência alguém que não
+  tinha **nenhuma** base no caminho da regra.
+
+#### Defesa
+
+**⭐ Small (Big to Small)**
+
+- **O que faz:** cria um campo em que **todo ataque que se aproxima vai encolhendo e
+  enfraquecendo conforme avança**. Os exemplos que a obra dá são o melhor da ficha: um dragão
+  de gelo chegou como **uma cobrinha de gelo**, e uma mão gigante de força chegou com **menos
+  de um por cento** do tamanho original — fracos a ponto de serem aparados com um gesto de
+  manga. Não bloqueia nem desvia: **diminui**. É defesa por mudança de escala.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** essência imortal, em porções minúsculas e frequentes `*`
+- **Desvantagem:** como todo Gu da regra, **é o rank que decide**: um exemplar de rank 7 anula
+  a contramedida de um rank 6, e presumivelmente perde para um rank 8.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o gêmeo oposto do **Big Gu**, que aumenta o tamanho e nada mais.
+
+#### Controle e captura
+
+**⭐ Fight Gu**
+
+- **O que faz:** é o núcleo do golpe imortal **"escravização após vitória em combate"**, e o
+  efeito é exatamente o nome: **qualquer forma de vida derrotada pelo usuário tem alta chance
+  de ser escravizada por ele** — os derrotados param de fugir e passam a se reunir em torno
+  do vencedor.
+- **Como é:** em ação, **as costas do Gu se abrem e ele voa, desenhando um traço prateado no
+  céu com o corpo**, e é esse traço que entra na luz da formação e a acende.
+- **Alimentação:** despojos tomados dos derrotados `*`
+- **Desvantagem:** a ativação **pode falhar**, e a falha é cara: a luz profunda acumulada
+  explode, um grande número de Gu mortais é destruído, o próprio Fight Gu **cai no chão**, e o
+  contragolpe **sacode a alma do usuário e causa ferimentos graves**.
+- **Como se obtém:** foi criado por um antigo líder de seita que cultivava caminho da força e
+  caminho da sabedoria ao mesmo tempo.
+- **Evolução:** — a obra não registra.
+- **Interações:** a grande vantagem operacional é a **sustentação**: ao contrário da maioria
+  dos golpes imortais, que só podem ser usados por quem já os domina bem, este **só precisa
+  ser ativado antes da batalha e depois se mantém com facilidade**, deixando o usuário livre
+  para dirigir outros golpes ao mesmo tempo — no caso registrado, o usuário sustentava a
+  escravização enquanto convocava um exército inteiro de bestas por outro golpe. O custo de
+  essência do Gu em si é **baixo — três contas** numa das ativações registradas. Os Gu de
+  apoio usados com ele são do **caminho da sabedoria**, e é essa combinação que faz um Gu de
+  regras revelar seu valor único.
+
+**⭐ Death Sentence Awaits**
+
+- **O que faz:** **marca o momento exato da morte de uma pessoa**. Chegada a hora, ela morre
+  — e **nem ser Gu Imortal a salva**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** tempo de vida dos condenados `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** o que o torna jogável é que ele **não mata: agenda**. Enquanto o prazo
+  corre, o condenado continua vivo e livre — e quem aplicou a sentença é a **única esperança
+  de suspendê-la**, o que faz do Gu um instrumento de coerção em vez de uma arma.
+
+#### Alteração do mundo
+
+**⭐ Strong Gu**
+
+- **O que faz:** **encarna o princípio de que o forte devora o fraco** — não é bem um efeito,
+  é uma regra do mundo com voz e vontade próprias. Instalado dentro de um adversário ou de uma
+  adversidade, **torna aquilo muito mais forte e difícil de enganar**; e **devora
+  literalmente** quem se mostrar fraco diante dele.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** carne de criaturas mais fracas que ele `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento. A desvantagem é o próprio
+  princípio: ele fortalece o obstáculo, não o usuário.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** tem **ligação estreita com a constituição da grande força marcial**, e é o
+  exemplo mais literal do catálogo de um Gu que **é um princípio do mundo, não um efeito**.
+
+### Caminho do céu
+
+#### Ataque
+
+**⭐ Heaven's Envy Gu**
+
+- **O que faz:** pertence à família mais estranha do mundo — os Gu Imortais do caminho do
+  céu —, cuja regra fundamental é: **nenhum cultivador consegue ativá-los, nem mesmo um
+  Venerável de rank 9**. O Heaven's Envy é a exceção parcial que confirma a regra: **ele se
+  ativa sozinho, ressoando com emoções de inveja e ciúme** de quem o carrega — e por isso pode
+  ser usado até por um **mortal**, que não teria essência imortal nenhuma para gastar. O
+  efeito observado: do corpo do portador sobe **fumaça cinzenta** que flutua até a **nuvem de
+  tribulação** de alguém que esteja ascendendo, e a nuvem **se agita e dispara raios
+  adicionais** — a cada nova baforada, a tribulação fica mais forte, com mais bolas de raio
+  verde-pálidas caindo sobre o alvo, até o ponto de exigir a intervenção de um Gu Imortal
+  externo para o candidato sobreviver. E mesmo quem sobrevive sai lesado: a interferência
+  **consome o excesso de qi de céu e terra da ascensão**, e por isso o novo Gu Imortal **não
+  consegue refinar o próprio Gu vital em Gu Imortal** — perde o primeiro Gu Imortal que teria
+  ganhado de graça.
+- **Como é:** parece feito de cristal, tem **forma de pulga**, é do tamanho de um punho e
+  fica **enrolado numa bola, completamente silencioso**.
+- **Alimentação:** essência de rank 8 e **marcas celestiais**.
+- **Desvantagem:** brutal e explícita: **paga-se em tempo de vida**, em quantidade enorme por
+  ativação, e cada disparo envelhece visivelmente — o usuário registrado passou de rapaz a
+  homem de meia-idade e depois a velho no curso de **uma única tribulação**. E a ativação
+  **não é escolhida**: dispara sozinha quando o portador sente inveja.
+- **Como se obtém:** — a obra não registra a procedência. Registra o preço de mercado, que é
+  o pior do mundo: como ninguém consegue usá-los à vontade, **um Gu do caminho do céu, ainda
+  que rank 8, vale menos que um Gu Imortal de rank 6 de um caminho comum**, e nenhum Gu
+  Imortal em sã consciência trocaria algo útil por ele.
+- **Evolução:** — a obra não registra.
+- **Interações:** é da mesma família que **Heaven's Rage** e **Heaven's Sorrow**, e a família
+  inteira compartilha a regra de inativabilidade.
+
+### Caminho do homem
+
+#### Defesa
+
+**⭐ Perseverance Gu**
+
+- **O que faz:** a obra o descreve **em função do que ele habilita**, não isoladamente: é o
+  núcleo de um golpe defensivo que se materializa como uma **túnica branca de faixa azul** e
+  **devolve ao atacante o golpe que recebeu**, praticamente **sem se desgastar no processo**.
+  O efeito do Gu sozinho, fora desse golpe, **não é descrito**.
+- **Como é:** — a obra não descreve o verme; descreve a túnica que o golpe materializa.
+- **Alimentação:** **água do Rio de Fluxo Reverso** — abundante para quem tenha acesso a ele,
+  e por isso um dos Gu Imortais **mais baratos de manter** do catálogo.
+- **Desvantagem:** — a obra não descreve custo de acionamento.
+- **Como se obtém:** é nomeado na **lenda fundadora do mundo**, onde é a virtude de insistir
+  contra uma força que empurra de volta — lá, é o que teria permitido vencer um rio que corre
+  ao contrário. Boa parte da comunidade acreditava que ele existia **só dentro da lenda** e
+  não como Gu real que alguém pudesse refinar.
+- **Evolução:** — a obra não registra.
+- **Interações:** entra como peça no golpe imortal composto montado sobre o **Vajra Thought
+  Gu**. Atenção a um risco documentado: testar um golpe com **dois Gu Imortais de caminhos
+  diferentes** no núcleo — este, do caminho do homem, mais o **Pulling Water**, da força/água
+  — foi descrito como "muito arriscado", porque os dois **poderiam interferir e causar dano um
+  ao outro, podendo até ser destruídos**. Ver
+  [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+
+### Caminho da escravização
+
+#### Controle e captura
+
+**⭐ Beast Enslavement Gu**
+
+- **O que faz:** **subjuga bestas selvagens**, e a obra dá a lista exata de patentes que ele
+  alcança: **bestas mutantes, reis de miríade de bestas, imperadores de bestas, bestas
+  desoladas e bestas desoladas antigas** — mas **não as imemoriais**. O efeito é
+  **instantâneo** ao escravizar uma besta desolada, e a besta passa a ser **controlada
+  conforme o pensamento do dono**; o texto chama isso de exibição suprema do caminho da
+  escravização. Aplicações registradas: um espírito de terra manteve **doze bestas desoladas**
+  escravizadas simultaneamente, cada uma alojada num edifício da sua terra abençoada; e o Gu
+  foi emprestado junto com **oito bestas desoladas** para defender um território sob invasão.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** carne crua de fera imortal `*`
+- **Desvantagem:** o teto de patente (não alcança imemoriais) e, sobretudo, a unicidade: a
+  obra é enfática em que **existe um único Beast Enslavement Immortal Gu no mundo** — se ele
+  está numa terra abençoada, nenhum outro Gu Imortal do caminho da escravização o tem.
+- **Como se obtém:** o dono **cobra aluguel proporcional ao tempo** de quem toma emprestado;
+  comprar de vez a versão de rank 6 custou o equivalente a **dez mil pontos de contribuição**
+  de uma seita, e o Gu figurava numa **lista pública de itens trocáveis**.
+- **Evolução:** — a obra não registra subida de rank do exemplar imortal.
+- **Interações:** a unicidade **não é monopólio de função**: controlar bestas desoladas é
+  possível por muitos outros meios (caminhos da sabedoria, da água, do fogo) e por golpes
+  substitutos criados pelo próprio dono — só que **nenhum desses substitutos se compara ao
+  efeito do Gu**. Existe também a **série mortal correspondente**, e ela funciona de modo bem
+  diferente: os Beast Enslavement mortais são quase todos **consumíveis** — usados uma vez,
+  tenham sucesso ou não, **se dispersam** —, e a versão mortal de rank 4 já controla um rei de
+  miríade de bestas, o que faz de um bando inteiro um ativo militar para uma tribo e faz o
+  preço **disparar ao chegar ao rank 4**. Para a mesa, é o caso didático de **como um único Gu
+  Imortal vira instituição econômica**: uma organização inteira organizou seu sistema de
+  pontos, sua política de empréstimos e sua sucessão interna em torno de quem podia usar este
+  verme e por quanto tempo.
+
+**⭐ Reputation Restriction Gu**
+
+- **O que faz:** é uma **corda que amarra e submete feras**. A força do vínculo **varia
+  conforme a fama do dono**: quanto maior a reputação dele no mundo, mais poder o mesmo Gu
+  entrega.
+- **Como é:** — a obra não descreve o verme; descreve a corda que ele forma.
+- **Alimentação:** fibra vegetal imortal e sangue de fera `*`
+- **Desvantagem:** sozinho, um exemplar de rank 7 **não segura uma fera imemorial** com força
+  de rank 8 — para isso, precisa virar núcleo de um golpe.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o Gu do catálogo cujo poder depende de **política e reputação, não de
+  cultivo** — um gancho de campanha inteiro, porque melhorar o personagem passa a ser um
+  problema de relações públicas.
+
+**⭐ Master-Servant Gu**
+
+- **O que faz:** — **a obra nomeia o Gu, classifica-o como do caminho da escravização,
+  descreve sua aparência e conta como foi refinado e vendido, mas nunca descreve o efeito.**
+  O que ela cala: o que exatamente o vínculo senhor-servo faz, se é imposto ou consentido, se
+  é permanente ou temporário, qual o alcance, o custo, quantos servos suporta, se o senhor
+  sente o que o servo sente, e o que acontece se o vínculo for rompido.
+- **Como é:** parece uma **formiga, com a metade dianteira brilhante e a metade traseira
+  opaca, patas dianteiras curtas e fracas e patas traseiras longas e potentes** — o corpo do
+  próprio verme é a metáfora da relação que ele nomeia.
+- **Alimentação:** gotas de sangue dos dois lados do vínculo `*`
+- **Desvantagem:** — a obra não informa.
+- **Como se obtém:** aqui está o que a obra **dá**, e é aproveitável de duas maneiras. O
+  **custo humano do refino**: o refinador **falhou trinta e três vezes, ficou gravemente
+  ferido vinte e sete vezes e quase morreu dezenove vezes** antes de conseguir — e mesmo assim
+  é descrito como alguém cuja mente já não estava bem. E o **preço de mercado**: o exemplar
+  recém-refinado foi trocado, em transação pública, por **um ponto de recurso inteiro do
+  caminho da terra** de uma região central, negócio que a plateia de Gu Imortais considerou
+  vantajoso para quem entregou o território.
+- **Evolução:** — a obra não registra.
+- **Interações:** — a obra não registra.
+
+### Caminho dos sonhos
+
+#### Defesa
+
+**⭐ Dream Armor**
+
+- **O que faz:** é o Gu **defensivo** do caminho dos sonhos e a **peça de segurança padrão**
+  de quem entra em reinos de sonho. Usos registrados: **proteger o explorador dentro de um
+  reino de sonho** de tamanho médio; e **blindar quem enfrenta a tribulação de ascensão do
+  caminho dos sonhos** — um imortal cauteloso **só aceitou submeter seu clone à tribulação
+  depois de ter o Dream Armor em mãos**, e usou-o para acalmar os três qi e estabilizar a
+  terra abençoada recém-criada logo após a ascensão.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** essência imortal.
+- **Desvantagem:** dois limites explícitos, e ambos importam. Contra ataques de nível
+  superior, "métodos do nível do Dream Armor **não têm força suficiente para bloquear**"; e
+  num confronto registrado ele **não apresentou efeito nenhum**, apesar de ativado
+  desesperadamente. Sua potência ainda **depende de quem o alimenta**: mesmo sendo rank 7,
+  rendeu muito mais nas mãos de um clone que tinha à disposição a essência imortal do corpo
+  principal.
+- **Como se obtém:** — a obra não registra a procedência.
+- **Evolução:** — a obra não registra.
+- **Interações:** entra como peça de rank 7 num golpe imortal composto que reúne Gu Imortais
+  de rank 8 de vários caminhos (regras, sabedoria, tempo, água, som) em torno de um domínio
+  recluso de céu e terra — e a **ausência dele impede o uso desse golpe**. O dono o
+  considerava **mais útil que o Dream Token de rank 8**. É o item que a obra trata como
+  **pré-requisito de prudência**: explorar reino de sonho ou encarar tribulação onírica sem
+  ele é considerado ganância.
+
+#### Suporte e infraestrutura
+
+**⭐ Dreaming Gu**
+
+- **O que faz:** tem três empregos registrados. É o **Gu-núcleo do golpe "três vidas de sonho
+  reformam um eleito"**, o método que usa sonhos de vidas inteiras para refazer uma pessoa. É
+  núcleo de um **golpe imortal composto de investigação**. E, ativado diretamente, **cobre o
+  corpo do usuário com uma camada de luz profunda que defende contra parte das habilidades do
+  caminho dos sonhos**.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** essência imortal.
+- **Desvantagem:** limite registrado: contra uma tribulação do caminho dos sonhos
+  suficientemente ilusória, o golpe investigativo montado sobre ele **não foi capaz de
+  decifrar a verdade**.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** o dono o considerava **mais útil que o Dream Token de rank 8** no dia a dia,
+  e **menos útil que o Dream Armor** — a hierarquia de utilidade dentro do caminho dos sonhos
+  não segue a hierarquia de rank, e a obra faz questão de dizê-lo.
+
+### Caminho do roubo
+
+#### Suporte e infraestrutura
+
+**⭐ Great Thief Gu**
+
+- **O que faz:** é a **chave que destrava os golpes do caminho do roubo**: sem ele, **nem o
+  golpe supremo de rank 9 do caminho pode ser usado**. Combinado a esse golpe, forma uma **mão
+  fantasmagórica gigante** que entra no corpo do alvo e **arranca de lá até um Gu Imortal de
+  rank 8**.
+- **Como é:** **besouro do tamanho de um adulto**, cabeça achatada e chifre longo, carapaça
+  preta com brilho metálico.
+- **Alimentação:** bens roubados, de qualquer espécie `*`
+- **Desvantagem:** a mão **não dura muito e não sela nada**, então o Gu roubado **luta para
+  voltar** ao dono original — o roubo é uma janela, não uma transferência.
+- **Como se obtém:** — a obra não registra a procedência.
+- **Evolução:** — a obra não registra.
+- **Interações:** **habilita todos os demais golpes do caminho** — sem ele, o arsenal inteiro
+  fica inerte. Para completar o roubo é preciso ainda o **Self Love** (que impede a vontade
+  capturada de se autodetonar) e o **Attitude Gu** (que a convence de que continua com o dono
+  legítimo). Os três juntos são a tecnologia completa do roubo de Gu Imortal.
+
+### Caminho do qi
+
+#### Produção e economia
+
+**⭐ Big Family Qi**
+
+- **O que faz:** **absorve e guarda qi de todo tipo**, e o uso decisivo é o **qi de
+  tribulação**: sugando o qi de uma tribulação em curso, ele **enfraquece a própria
+  tribulação** e ainda deixa aquele qi **estocado para gastar depois**. É a versão imortal,
+  muito mais capaz, dos Gu mortais de armazenar qi.
+- **Como é:** — a obra não descreve.
+- **Alimentação:** uma parte do qi de tribulação que guarda `*`
+- **Desvantagem:** — a obra não descreve custo de acionamento.
+- **Como se obtém:** — a obra não registra.
+- **Evolução:** — a obra não registra.
+- **Interações:** é o Gu que **converte a própria provação em munição guardada** — e a obra o
+  usa para enunciar que **rank mais alto não significa mais útil**: o dono do **Big Qi** de
+  rank 8 declarou preferir, para o seu uso, este irmão menor de rank 7, porque ele permite
+  absorver o qi de céu e terra do mundo exterior e guardá-lo para soltar depois quando a
+  própria abertura precisar, **dispensando ter de expor a abertura para se reabastecer**.
+
+#### Cultivo e progressão
+
+**⭐ Human Qi Gu**
+
+- **O que faz:** **colhe o qi humano de outras pessoas, purifica e soma ao do usuário**. Como
+  mais qi humano significa mais qi de céu e terra absorvido no momento da ascensão, isso
+  **eleva muito a chance de sucesso na ascensão a Imortal** e aprofunda a fundação e o
+  potencial de quem passa. É, literalmente, converter população em progressão pessoal.
+- **Como é:** **abelha**.
+- **Alimentação:** qi humano colhido de cidades populosas `*`
+- **Desvantagem:** **só serve a quem ainda não ascendeu** — depois da ascensão, o efeito não
+  tem onde se aplicar.
+- **Como se obtém:** — a obra não registra a procedência. É um dos três "Gu dos três qi",
+  tesouros de uma única organização, a corte celestial, que se recusa a entregá-los a quem não
+  seja membro.
+- **Evolução:** o mesmo Gu em rank maior — a obra o mostra de **rank 7 a rank 8**.
+- **Interações:** é núcleo **insubstituível** do golpe **"retração dos três qi"**, ao lado do
+  **Heaven Qi Gu** e do **Earth Qi Gu** (ambos rank 8): sem esta peça, o golpe não existe.
+  Substituir qualquer um dos três por outro Gu Imortal do caminho do qi **derruba
+  drasticamente** o valor do golpe em combate. Ver a ficha do Heaven Qi Gu, no rank 8, para o
+  mecanismo completo do golpe.

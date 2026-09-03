@@ -21,8 +21,8 @@ juntos formariam um arquivo grande demais para consultar com conforto.
 
 | Nota | O que contém |
 |---|---|
-| [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] | Gu de rank 1 a 5, organizados por caminho. É o repertório do dia a dia: o que um personagem jogável realisticamente usa, compra, alimenta e perde. |
-| [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] | Gu de rank 6 a 9, também por caminho, mais um bloco dedicado aos rank 9 e às Casas de Gu Imortais. É material de patamar sobrenatural: artefatos únicos no mundo inteiro. |
+| [[04 - Catálogo de Gu - Mortais\|Catálogo de Gu - Mortais]] | Gu de rank 1 a 5, organizados por caminho. É o repertório do dia a dia: o que um personagem jogável realisticamente usa, compra, alimenta e perde. |
+| [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] | Gu de rank 6 a 9, também por caminho, mais um bloco dedicado aos rank 9 e às Casas de Gu Imortais. É material de patamar sobrenatural: artefatos únicos no mundo inteiro. |
 
 ## Quantos Gu existem catalogados
 
@@ -33,22 +33,22 @@ de itens para trabalhar, e em que patamar eles se concentram?
 
 | Rank | Gu mortais | Gu Imortais | Total |
 |---|---|---|---|
-| 1 | 42 | — | 42 |
-| 2 | 46 | — | 46 |
-| 3 | 111 | — | 111 |
-| 4 | 76 | — | 76 |
-| 5 | 93 | — | 93 |
-| 6 | — | 56 | 56 |
-| 7 | — | 55 | 55 |
+| 1 | 46 | — | 46 |
+| 2 | 53 | — | 53 |
+| 3 | 126 | — | 126 |
+| 4 | 85 | — | 85 |
+| 5 | 101 | — | 101 |
+| 6 | — | 66 | 66 |
+| 7 | — | 60 | 60 |
 | 8 | — | 40 | 40 |
-| 9 | — | 8 | 8 |
-| Entradas que cobrem **mais de um rank** | 33 | 22 | 55 |
-| Entradas **sem rank declarado** pela obra | 188 | 74 | 262 |
-| **Total** | **589** | **255** | **844** |
+| 9 | — | 7 | 7 |
+| Entradas que cobrem **mais de um rank** | 45 | 26 | 71 |
+| Entradas **sem rank declarado** pela obra | 193 | 74 | 267 |
+| **Total** | **649** | **273** | **922** |
 
-Somem-se ainda as **27 Casas de Gu Imortais**, que não são Gu e por isso ficam fora
+Somem-se ainda as **45 Casas de Gu Imortais**, que não são Gu e por isso ficam fora
 da conta: são fortalezas vivas feitas de dez ou mais Gu combinados, listadas ao fim
-do catálogo imortal.
+do catálogo imortal — e a seção delas abre com dez regras que valem para todas.
 
 Duas notas sobre a última linha antes da soma. A primeira: **"sem rank declarado" não
 é lacuna nossa, é silêncio da obra** — ela nomeia e descreve o efeito de muitos Gu sem
@@ -64,7 +64,7 @@ lenda de cenário, nunca como item disponível.
 
 Três coisas que essa contagem revela e que valem para o planejamento:
 
-- **O acervo tem o meio inchado.** O rank 3 sozinho tem 111 Gu mortais — mais que os
+- **O acervo tem o meio inchado.** O rank 3 sozinho tem 126 Gu mortais — mais que os
   ranks 1 e 2 somados. É a faixa que a obra mais detalha, e por sorte é também a
   faixa em que a maior parte das mesas vai jogar. Os ranks 1 e 2, onde os
   personagens **começam**, continuam sendo os mais magros do catálogo mortal: se você
@@ -74,7 +74,7 @@ Três coisas que essa contagem revela e que valem para o planejamento:
   imortal são Gu que **sobem de rank com o uso**, anotados como "6 → 7" ou "8 → 9" —
   um comportamento que os Gu mortais não têm e que rende ganchos de campanha
   sozinho.
-- **Vinte e um Gu existem nas duas classes ao mesmo tempo**, com uma linha em cada
+- **Vinte e oito Gu existem nas duas classes ao mesmo tempo**, com uma linha em cada
   catálogo. Não é duplicata: a obra mostra Gu que têm uma versão mortal e uma versão
   imortal, e chega a explicar que ter a imortal **não dispensa** ter a mortal, porque
   um Gu Imortal é único e não serve a dois golpes ao mesmo tempo. Nesses casos, cada
@@ -84,8 +84,8 @@ Três coisas que essa contagem revela e que valem para o planejamento:
 
 | Catálogo | Linhas com dieta informada | Proporção |
 |---|---|---|
-| Mortais | 402 de 589 | cerca de **68%** |
-| Imortais | 251 de 255 | cerca de **98%** |
+| Mortais | 537 de 649 | cerca de **83%** |
+| Imortais | 261 de 273 | cerca de **96%** |
 
 O contraste tem explicação: a obra trata a dieta de um Gu Imortal como parte da
 identidade dele — costuma ser um recurso raro e nomeado, e por isso quase sempre
@@ -93,7 +93,7 @@ aparece. Já a dieta de um Gu mortal comum quase nunca é dita, porque no mundo 
 trivial. Boa parte da cobertura mortal vem de uma dedução assumida e marcada: a obra
 dá a **frequência** de refeições por rank como regra geral do mundo, então as linhas
 sem cardápio ao menos trazem o ritmo da despesa, sempre com `(ded.)`. Na prática,
-**cerca de um terço dos Gu mortais vai precisar de uma dieta inventada por você**; a
+**cerca de um sexto dos Gu mortais vai precisar de uma dieta inventada por você**; a
 orientação sobre como inventá-la está no bloco "Para o design" mais abaixo.
 
 ## Como ler as tabelas

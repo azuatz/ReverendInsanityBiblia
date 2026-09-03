@@ -156,10 +156,47 @@ que o mesmo Gu aparecia com grafias diferentes:
   obra explica em detalhe, e que serve de caso-modelo para a regra inteira. Os três nomes
   foram normalizados e os três pares fecharam.
 
-Ao fim, os pares mortal × imortal passaram de 22 para **27** e todos são recíprocos, com
+Ao fim, os pares mortal × imortal passaram de 22 para **28** e todos são recíprocos, com
 rank e link nos dois sentidos — verificável por script, comparando nomes **normalizados**
 (sem o sufixo, sem a estrela, sem maiúsculas), que é a comparação que devia ter sido feita
 desde o início.
+
+#### Seis duplicatas que só a comparação agressiva de nomes encontrou
+
+Depois das inserções desta leva, a conferência foi refeita com uma normalização mais
+dura — minúsculas, sufixo "Gu" removido e **toda pontuação e espaço descartados** — e
+apareceram seis pares que nenhuma comparação anterior pegaria, porque a obra grafa o
+mesmo Gu de mais de uma maneira:
+
+| Ficou | Era também |
+|---|---|
+| Jade Bone Gu | Jade Bones Gu |
+| Giant Mountain Puppet Gu | Mountain Giant Puppet Gu (as palavras trocadas de lugar) |
+| Moon Scar Gu | Moonscar Gu (com e sem espaço) |
+| Breath Concealment Gu | Breath Concealing Gu |
+| Ironfist Grappling Gu | Iron Fist Grappling Gu |
+| Iceblade Gu | Ice Blade Gu |
+
+Em todos os seis a fusão **preservou o conteúdo das duas linhas**: a célula que ficou
+recebeu, entre parênteses e em itálico, a grafia alternativa e o que a obra registrava só
+sob aquele nome. Isso importa para além da higiene do arquivo: quem procurar "Ice Blade"
+no catálogo precisa cair na mesma ficha de quem procurar "Iceblade", senão o catálogo
+mente por omissão.
+
+A lição para a próxima varredura está no método, e é curta: **comparar nomes exatos não
+basta, e comparar sem maiúsculas também não.** É preciso descartar pontuação, espaços,
+o sufixo "Gu" e considerar troca de ordem entre as palavras — foi assim que apareceram
+seis duplicatas depois de duas auditorias que se declararam concluídas.
+
+Um sétimo caso não era duplicata e sim uma **célula na coluna errada**: a ficha do *Edge
+Gu* trazia um parágrafo inteiro dentro da coluna de rank, explicando que o Gu existe em
+versões mortais sem rank declarado e numa versão imortal de rank 7. A explicação foi para
+a célula de efeito, o rank mortal virou `—`, e a versão imortal ganhou **ficha própria no
+catálogo imortal** — onde, a propósito, já havia um *Edge Gu* de rank 7 descrito só como
+"um dos núcleos do golpe de corte temporal", que foi fundido na ficha nova. A dieta que
+essa ficha antiga trazia ("limalha de gumes gastos") era invenção nossa marcada com `*`,
+e foi substituída pelo dado canônico: **extrato de aço branco**, material imortal de rank
+7 do qual um bloco inteiro de aço branco rende uma tigelinha.
 
 #### Um defeito de sintaxe que atingia os dois catálogos
 
@@ -170,6 +207,14 @@ sobrando dentro do texto do link. Todas as 53 foram normalizadas para a convenç
 A conferência estrutural das tabelas (contagem de colunas por linha, respeitando o escape)
 passou a devolver zero linhas fora do padrão nos dois arquivos, e o auditor de links do
 projeto devolve zero links quebrados.
+
+O mesmo teste, aplicado às outras duas notas desta pasta, encontrou o defeito **oposto**
+e mais grave: nove linhas de tabela — duas na nota-índice `03` e sete no catálogo de
+receitas `06` — traziam wikilinks com o pipe **sem escape nenhum**. Num arquivo comum
+isso é inofensivo; dentro de uma célula de tabela, o pipe **parte a célula em duas** e a
+linha inteira sai desalinhada na renderização. Todas as nove foram escapadas. Hoje as
+quatro notas passam no mesmo teste: zero linhas com número de colunas divergente do
+cabeçalho da sua tabela.
 
 Outras três linhas tinham célula idêntica nos dois arquivos (Dragon Scales, Expend
 Strength e Territory Gu). Nesses casos a duplicação **não** era erro: cada célula rotula
@@ -353,6 +398,14 @@ linha e os capítulos de referência.
 | Exploding Egg Gu | 1 | Outros caminhos com poucos Gu | 323, 324, 346, 376 |
 
 ### No catálogo imortal
+
+### Segunda leva — a colheita dos relatórios de profundidade e da varredura
+
+As subseções abaixo cobrem **os dois catálogos**, e não apenas o imortal. A fonte foi
+dupla: os cinco relatórios `_pipeline/PROFUNDIDADE-paths-*.md`, cada um com uma seção
+listando Gu que talvez faltassem, e uma varredura de frequência refeita do zero sobre os
+seis volumes. Ao todo entraram **cerca de cem linhas novas** e o catálogo mortal foi de
+589 para 649 Gu; o imortal, de 255 para 273 Gu mais 45 Casas.
 
 #### Segunda leva — o caminho da sorte
 
@@ -552,20 +605,62 @@ Gravidez e a ressalva de que o nome "Reencarnação" promete mais do que o câno
 O Golden Aurora ainda mudou de casa: estava no caminho da luz e foi para o **caminho do
 metal**, que é o que a obra lhe atribui.
 
+#### Segunda leva — a família dos Gu de alma, lida na fonte
 
+Um capítulo enumera a família inteira dos Gu que refinam a alma, e o catálogo tinha só
+parte dela. A lista canônica traz quinze nomes — divine, dragon, ice, dream, moon,
+general, grudge, poem, horse e heroic **soul** Gu, mais qi, body, cloud, wind e tiger
+**spirit** Gu — e o catálogo cobria seis. **Oito entraram nesta leva** (o dragon soul
+veio pela pesquisa do caminho da força, com rank 3 declarado e mecanismo próprio).
 
-| Gu | Rank | Seção que recebeu | Capítulos |
-|---|---|---|---|
-| ⭐ Wooden Chicken Gu | — | Caminhos elementais e menores | 543, 587, 588, 590, 593, 594, 630, 638 |
-| ⭐ Eight-faced Prestige Wind Gu | 8 | Caminhos elementais e menores | 1218, 2079, 2151 |
-| ⭐ Earth Net Gu | 7 | Caminhos elementais e menores | 602 |
-| ⭐ Earth Prison Gu | 7 | Caminhos elementais e menores | 602 |
-| ⭐ Doting Mother Gu | — | Caminho do homem | 1156, 2111 |
-| ⭐ Traveling Son Gu | — | Caminho do homem | 1156, 2111 |
-| ⭐ Star Desolate Hound Strength Gu | 6 | Caminho da força | 714  , 752 |
-| ⭐ Dragon Scales Gu | — | Caminho da transformação | 442, 1197, 1198, 1377 |
+Sobre a lista inteira a obra diz uma frase só: *"esses Gu podiam refinar a alma, todos
+tinham seu uso próprio"*. Nenhum efeito individual é descrito, e as oito fichas novas
+dizem isso com todas as letras em vez de inventar oito efeitos plausíveis — o que teria
+sido fácil e seria exatamente o erro que a política dos quatro estados existe para
+impedir. O que elas trazem de aproveitável é o mecanismo da **classe** e o preço de
+mercado da categoria (7.700 pedras primevas por um Gu de alma de rank 3).
 
----
+Duas observações ficaram registradas nas células porque a designer vai tropeçar nelas:
+a obra alterna *soul* (alma) e *spirit* (espírito) dentro da mesma enumeração **sem
+explicar se é sinônimo ou subclasse**; e há um paralelo canônico útil para quem quiser
+inventar em cima — nove exemplares do wolf soul Gu convertem uma alma de cem homens em
+**alma-lobo**, o que sugere que empilhar exemplares do mesmo tema seja a mecânica da
+família toda, mas isso é dedução nossa e está marcado como tal.
+
+#### Segunda leva — a varredura final por frequência
+
+A varredura foi refeita do zero, em duas passadas: uma exigindo maiúsculas (nomes de Gu
+são nomes próprios) e outra insensível a maiúsculas. **A segunda foi indispensável** e
+confirma o achado que abre este relatório: Ice Blade Gu e Moonhand só aparecem em
+minúsculas na obra. Sobraram 392 candidatos, dos quais cerca de noventa foram verificados
+um a um com leitura de contexto.
+
+**Trinta e sete Gu novos, todos mortais.** O lado imortal não devolveu nenhum nome
+inédito, o que é em si um resultado: o catálogo imortal está fechado por este método.
+
+O achado mais volumoso foi a **escada inteira dos Gu de zumbi do caminho da
+transformação**: Roaming e Flying Zombie já estavam catalogados, mas faltavam os degraus
+intermediários (hairy, hopping) e os **cinco grandes zumbis voadores** nomeados — asura,
+demônio celeste, pesadelo, praga — mais um sexto, o Earth Chief Zombie. Entraram também
+famílias inteiras que existiam pela metade: os Beast Enslavement Gu (tigre, cervo,
+touro), o par Black Hair / Steel Hair, e o Golden Coat, que a varredura reencontrou por
+conta própria.
+
+Duas entradas foram **redigidas e depois retiradas** na verificação final, e o motivo
+vale como aviso metodológico: *Scar Stone Gu* e *Thunderwings Gu* já estavam catalogados
+sob outra grafia — o primeiro como "Stone Scar", o segundo com ficha própria de rank 3.
+No sentido inverso, o *Ironfist Grappling* foi descartado como falso positivo e depois
+**reabilitado**: o contexto mostra um Gu real de rank 5 — uma mão de ferro negro que rasga
+o céu, persegue o alvo e só se solta se ele a estilhaçar, pagando com quase todos os
+ossos.
+
+Os falsos positivos previstos reapareceram todos, e um deles merece registro permanente:
+**"Yellow Earth Gu" e "Green Lotus Gu" não existem** — a busca devolve zero ocorrências
+nos seis volumes. São facções, e já haviam entrado por engano numa lista de Gu antes.
+"Nu Er Gu" é pessoa da tribo Nu Er; "Rising Purple Lightning Gu Ting" é epíteto mais nome
+próprio; e "righteous" precisou de leitura caso a caso — quinze das vinte e duas
+ocorrências são a facção dos Mestres Gu do caminho justo, e apenas três são o Righteous
+Gu de verdade.
 
 ## Falsos positivos descartados
 
@@ -587,25 +682,36 @@ qualquer varredura futura vai reencontrá-los:
 5. **Nome truncado** — o n-grama cortou o começo do nome verdadeiro. Estes **não** são
    descartes: são correções, e entraram no catálogo com o nome canônico completo.
 
+A tabela abaixo trazia a coluna de veredito **em branco** na primeira leva, o que
+contradizia o texto que a apresenta. Ficou preenchida: cada descarte agora diz qual
+padrão o explica, e a designer (ou uma sessão futura) pode conferir em vez de confiar.
+
+| Candidato | Padrão | Veredito |
+|---|---|---|
+| `nu er` | 4 | "Nu Er Gu" é **pessoa** da tribo Nu Er, não Gu |
+| `wan` | 4 | recorte de "Wan Gu Chou", **nome próprio** |
+| `level year` | 5 | recorte de "mortal/immortal **level** year Gu" — o Gu é o **Year Gu** |
+| `level day` | 5 | idem, para o **Day Gu** |
+| `recon Gu` | 1 | **categoria funcional** (Gu de reconhecimento), não nome |
+| `mystical Gu` | 1 | categoria: os "Gu místicos" são uma **classe** de dez Gu Imortais, e cada um tem nome próprio |
+| `great movement Gu` | 1 | categoria funcional (Gu de movimento de grande porte) |
+| `great flying zombie` | 3 | adjetivo + **Flying Zombie Gu** |
+| `incomplete ghost fire Gu` | 3 | é o **Ghost Fire Gu** num estado de refino incompleto |
+| `wild lightning` · `wild light` · `wild year Gu` · `wild wisdom Gu` | 3 | "wild" (selvagem) diz apenas que o exemplar **nasceu na natureza** em vez de ter sido refinado; os Gu são Lightning, Light, Year e Wisdom |
+| `human shaped life` | 1 | descreve uma **forma de vida humanoide**, não um Gu |
+| `ideal healing` | 3 | recorte de "um Gu de cura ideal" — adjetivo do narrador; o Gu da cena é o **Accumulating Ash Gu** |
+| `lifebound Gu` | 1 | é o termo genérico para **Gu vital** (o Gu ao qual a vida do Mestre está atada), e não o nome de um Gu |
+| `purple digital shade` | 3 | os **Digital Shade Gu** são Gu-registro de receitas, e a **cor indica o rank das receitas guardadas** — verde para as baixas, amarelo para rank 4, roxo para rank 5. "Purple" é atributo, não nome |
+
+**Falsos positivos desta segunda leva**, todos verificados com leitura de contexto:
+
 | Candidato | Veredito |
 |---|---|
-| `nu er` | — |
-| `wan` | — |
-| `level year` | — |
-| `level day` | — |
-| `recon Gu` | — |
-| `mystical Gu` | — |
-| `great flying zombie` | — |
-| `human shaped life` | — |
-| `wild lightning` | — |
-| `wild light` | — |
-| `ideal healing` | — |
-| `great movement Gu` | — |
-| `incomplete ghost fire Gu` | — |
-| `wild year Gu` | — |
-| `wild wisdom Gu` | — |
-| `purple digital shade` | — |
-| `lifebound Gu` | — |
+| `Yellow Earth Gu` · `Green Lotus Gu` | **não existem**: a busca devolve zero ocorrências nos seis volumes. São **facções**, e já haviam entrado por engano numa lista de Gu numa leva anterior — este é o registro definitivo de que não são Gu |
+| `Rising Purple Lightning Gu Ting` | epíteto seguido de **nome próprio** (padrão 4) |
+| `righteous` | exigiu leitura caso a caso: **quinze das vinte e duas ocorrências** são a facção dos Mestres Gu do caminho justo. As outras três são o **Righteous Gu** de verdade, que entrou no catálogo |
+| `Dragonfish` | **não é Gu**: é uma espécie artificial criada pelo criador do caminho da comida para servir de comida universal de Gu, e é a fera desolada mais fraca do mundo |
+| `Star Night Mucus` · `Black Oil` · `Truthful Floating Ice` · `Lucky Jade` · `Qi Harvest Fruit` · `Nether Grass` | **materiais e consumíveis**, não Gu. Ficam fora dos catálogos de Gu por definição — e duas correções de grafia saíram daí: a obra escreve *lucky jade* (não "luck jade") e *qi harvest fruit* (não "harvest qi fruit") |
 
 ### Nomes truncados, corrigidos em vez de descartados
 
@@ -702,6 +808,82 @@ teto, e as rotas são **mutuamente excludentes**: tendões de aço somados a oss
 ou músculos de gelo somados a ossos de jade, ou ossos da impermanência para quem investe
 em alma. Escolher uma fecha as outras.
 
+### Segunda leva — mecanismo no lugar do rótulo
+
+Esta é a frente que mais muda a experiência de mesa, e o método foi o mesmo da primeira
+leva: extração programática das células de efeito, corte por comprimento e por construção
+referencial. O catálogo mortal saiu limpo — as seis linhas que o filtro pegou eram falsos
+positivos, células longas que casavam com o padrão. **O catálogo imortal tinha
+quarenta e três**, e foram todas resolvidas.
+
+**Vinte e um Gu Imortais** que se descreviam numa linha ganharam ficha inteira. Nove
+delas eram **erro, e não apenas escassez**:
+
+| Gu | O que a linha dizia | O que a obra diz |
+|---|---|---|
+| **Fate Armor** | "armadura de luz que resiste a feras imemoriais" | o mecanismo é **checagem do destino**: invencível se o portador não estiver fadado a morrer, papel se estiver. E o Gu é, de propósito, um **farol de rastreamento** para quem o emprestou. O limite de "cinquenta respirações" era da reserva de essência do portador, não do Gu |
+| **Blacksmith** | "Gu vital" | **não é Gu vital de ninguém**. O Gu vital era o *craftsman Gu*; o Blacksmith foi receita adicional, obtida por ressonância com uma herança do caminho do metal |
+| **Shadow Puppet** | rank `—` | **rank 6** — e é o único da série das profissões cujo perfil de caminhos a obra declara: homem + transformação + sombra |
+| **Liquor Worm** (rank 8) | "a única rota conhecida para essência de rank 9" | é a única rota **para quem não é Venerável**: a abertura imortal de um Venerável produz essência de rank 9 sozinha |
+| **Self Love** | "faz a vontade dentro de um Gu roubado amar a si mesma" | esse é o uso menor. O principal é ser **núcleo do golpe de auto-limpeza de marcas de lei**, que apaga rastreamentos e **rompe acordos de aliança** — e o critério do que apagar é do Gu, não do usuário: só sai o que for "prejudicial" |
+| **Perceivable Dao** | "mede as marcas de um caminho" | mede **todos os caminhos de uma vez**, é do **caminho da informação**, funciona em terras abençoadas inteiras e **não funciona em Gu Imortais** (que são fragmentos do Grande Dao, não marcas de lei) |
+| **Practice** | só a escultura do núcleo de formação | falta o uso maior: aplicado a uma pessoa, incha o corpo até o tamanho de um gigante e **oculta a aura por completo** — foi o passo com que um Venerável tentou ultrapassar o próprio patamar. E a origem está no mito fundador |
+| **Formation Spirit** | "gera uma inteligência que gerencia a formação" | o espírito **morre se a formação morrer**, **remenda a formação sozinho**, **opera formações melhor que um grão-mestre** — e **pode ser enganado, porque é ingênuo** |
+| **Dark Limit** | consumo genérico | a reserva de ocultação é **gasta por cada adivinhação inimiga** que incide sobre o portador, e há tempo de recarga longo depois de cada uso |
+
+Três dos vinte e um a obra **realmente só rotula**: Medicine Fragrance, Eat Fragrance e
+Dew — uma ou duas frases cada, sem raio, duração nem limite. As células dizem isso.
+
+Um número novo que vale sozinho: o **Snack Gu** alimenta outro Gu Imortal em **6% da
+refeição de um Gu de rank 6 por dose, com teto de 40%**, recarga de dias, e **morre se
+for forçado**. E um alerta de honestidade que o relatório precisa carregar: entre esses
+vinte e um Gu, a **única dieta canônica** é a do Vajra Thought (fruto de veado divino,
+rank 6, cerca de 1.350 pedras de essência por alimentação, que cresce nos chifres de uma
+fera desolada). Todas as demais dietas dessas linhas continuam sendo invenção nossa e
+seguem marcadas com `*`.
+
+**As vinte Casas de Gu Imortais** que tinham descrição de uma frase ganharam mecanismo
+completo, e nenhuma ficou no rótulo. Seis das descrições antigas estavam **erradas**:
+
+| Casa | Correção |
+|---|---|
+| Eternal Yacht | rank **7**, não 8 — a obra a classifica junto com o Present and Past Pavilion como "apenas rank sete" |
+| Cooking Luck Pot | **6 → 7**, não 7 → 8. A regra por trás: uma casa de rank N governa sorte de rank N e apenas *influencia* rank N+1 |
+| Thieves Den | rank **8**, não "pico" |
+| Star Constellation Chessboard | o teleporte em massa é função **secundária e cara** (exige a formação, as estrelas e a força de outro imortal; sozinha é ineficiente e derruba a dedução do operador). A função principal é ser a **número um do mundo em dedução** |
+| Winding Light Platform | o rótulo tinha invertido o fato: quem esmagou os Gu internos foi um inimigo **contra ela**, não ela contra o alvo |
+| Dragon Palace | a obra **não descreve teste formal de candidatos por reino de sonho** — o reino de sonho é barreira e isca, e a escolha do dono é decisão do **espírito da casa**. A célula diz isso com todas as letras |
+
+**Quatorze Casas ausentes entraram**, entre elas a **Turtle House**, que é a primeira
+Casa de Gu Imortal da história, e a **Demon Judgment Board**, que ao incorporar um único
+Gu Imortal de rank 8 de "relação de sangue" passou a **detectar todo cultivador do
+caminho do sangue do mundo que não seja de rank 9** — o exemplo mais claro do que
+acrescentar uma peça faz por uma Casa já pronta. A seção passou de 27 para **45 Casas**.
+
+A seção das Casas ganhou também **dez regras do mundo** no cabeçalho, que respondem à
+maioria das perguntas que uma mesa faz e que estavam espalhadas por dezenas de
+capítulos: a função vem do arranjo e não de um Gu; uma casa de rank 7 pode ter mais de
+três mil Gu; a potência é proporcional à essência gasta; perder o núcleo inutiliza a
+casa, mas o núcleo costuma sobreviver aos destroços e pode ser resgatado; construir uma
+casa pode fracassar; **a fraqueza genérica de toda casa é a previsibilidade** — "os
+métodos de uma casa são fixos e difíceis de mudar", e depois de mapeada a ameaça cai um
+patamar; o rank não é teto de desempenho; casas hospedam vontades residuais de imortais
+mortos; **uma casa pode ter espírito próprio, que escolhe o próprio mestre**; e refinar
+uma casa alheia é sobretudo compreendê-la, contra a resistência ativa dela.
+
+
+
+| Gu | Rank | Seção que recebeu | Capítulos |
+|---|---|---|---|
+| ⭐ Wooden Chicken Gu | — | Caminhos elementais e menores | 543, 587, 588, 590, 593, 594, 630, 638 |
+| ⭐ Eight-faced Prestige Wind Gu | 8 | Caminhos elementais e menores | 1218, 2079, 2151 |
+| ⭐ Earth Net Gu | 7 | Caminhos elementais e menores | 602 |
+| ⭐ Earth Prison Gu | 7 | Caminhos elementais e menores | 602 |
+| ⭐ Doting Mother Gu | — | Caminho do homem | 1156, 2111 |
+| ⭐ Traveling Son Gu | — | Caminho do homem | 1156, 2111 |
+| ⭐ Star Desolate Hound Strength Gu | 6 | Caminho da força | 714  , 752 |
+| ⭐ Dragon Scales Gu | — | Caminho da transformação | 442, 1197, 1198, 1377 |
+
 ---
 
 ## Decisões tomadas
@@ -758,6 +940,95 @@ sessão futura não as refaça em sentido contrário.
     aviso.** Foi o caso do par "Instant / That Time": em vez de apagar a linha, ela diz
     que o nome vem de fonte secundária e não é canônico, e descreve o que a obra de fato
     mostra. Apagar teria escondido a dúvida; manter sem aviso teria propagado um erro.
+13. **Comparar nomes exatos não basta para achar duplicata — nem comparar sem
+    maiúsculas.** A regra que passa a valer: normalizar para minúsculas, **remover o
+    sufixo "Gu", descartar toda pontuação e todo espaço** e considerar troca de ordem
+    entre palavras. Foi só assim que apareceram seis duplicatas reais (Jade Bone/Jade
+    Bones, Giant Mountain Puppet/Mountain Giant Puppet, Moon Scar/Moonscar, Breath
+    Concealment/Breath Concealing, Ironfist/Iron Fist Grappling, Iceblade/Ice Blade)
+    depois de duas auditorias que se declararam concluídas.
+14. **Duplicata se funde preservando as duas células, e a grafia alternativa fica
+    visível.** A ficha que sobrevive recebe, entre parênteses e em itálico, o outro nome
+    e o que a obra registrava só sob ele. O motivo é de uso: quem procurar "Ice Blade"
+    precisa cair na mesma ficha de quem procurar "Iceblade", senão o catálogo mente por
+    omissão.
+15. **Reciprocidade de par é obrigação dos dois lados, e menção em prosa não conta.**
+    Várias fichas imortais diziam "na versão mortal de rank 5, que a obra detalha…" e não
+    linkavam. Para uso em mesa isso não resolve: a designer precisa do salto. Toda ficha
+    de um par declara o rank da outra e traz o wikilink.
+16. **Quando duas fichas do mesmo Gu existem e uma é mais rica, fica a rica — mas ela
+    absorve o que só a pobre tinha.** Nunca se apaga uma linha sem transplantar o
+    conteúdo exclusivo dela, mesmo que seja um detalhe pequeno como a aparência do Gu ou
+    a rota de coleta.
+17. **Rank vai na coluna de rank; explicação vai na coluna de efeito.** Uma ficha trazia
+    um parágrafo inteiro dentro da célula de rank. Quando o rank é ambíguo, a célula leva
+    `—` mais uma nota curta entre parênteses, e a explicação inteira migra para o efeito.
+18. **Sintaxe de wikilink em tabela segue a convenção do vault**, que é o pipe escapado
+    com **uma** barra. Os dois catálogos usavam três, e eram os únicos arquivos do vault
+    a fazê-lo.
+19. **Um efeito que a obra descreve em detalhe nunca fica registrado como "a obra não
+    descreve".** Foi o erro do par Cause / Effect, cuja ficha afirmava que a obra calava
+    o mecanismo enquanto ela o descrevia por inteiro em três capítulos. Negativa também
+    se verifica antes de ser escrita — a regra do projeto vale nos dois sentidos.
+20. **Material, consumível e espécie não entram em catálogo de Gu.** Star Night Mucus,
+    Black Oil, Truthful Floating Ice, lucky jade, qi harvest fruit, nether grass e o
+    dragonfish foram identificados, descritos e **deixados de fora**, com o registro do
+    que são — para que uma varredura futura não os reencontre como "Gu faltando".
+21. **A regra de "nenhum nome de personagem nas fichas" foi auditada, não só declarada.**
+    A decisão 10 existia desde a primeira leva, mas quatro nomes tinham sobrevivido nas
+    células (dois membros de um clã, o epíteto de um pesquisador e um parente de um
+    portador). Todos viraram papéis — "o chefe daquela facção", "um Mestre Gu de clã", "um
+    pesquisador solitário do caminho do refino", "um parente idoso do portador". Uma
+    varredura por nomes próprios de três sílabas nos dois arquivos hoje devolve só nomes
+    de Gu. Vale como método: **decisão de política se verifica com busca, não com
+    memória**.
+
+---
+
+## Cobertura estimada
+
+Os números do fim desta leva, todos conferidos por script sobre os arquivos:
+
+| | Antes da leva | Depois |
+|---|---|---|
+| Gu no catálogo mortal | 589 | **649** |
+| Gu no catálogo imortal | 255 | **273** |
+| Casas de Gu Imortais | 27 | **45** |
+| Pares mortal × imortal | 22 (só 6 recíprocos) | **28, todos recíprocos** |
+| Linhas com dieta preenchida — mortais | 402 (68%) | **537 (83%)** |
+| Linhas com dieta preenchida — imortais | 251 (98%) | **261 (96%)** |
+| Linhas com efeito de uma frase, catálogo imortal | 43 | **0** |
+| Duplicatas internas | 1 intencional + 6 ocultas | **1 intencional** |
+| Linhas com número de colunas errado | não medido | **0 nos dois arquivos** |
+| Links quebrados no vault | 0 | **0** |
+
+A queda percentual da dieta imortal é aritmética, não perda: entraram dezoito Gu novos
+cuja dieta a obra não informa, e a política proíbe inventá-la sem marcar. O aumento no
+lado mortal vem do ritmo por rank aplicado como dedução declarada.
+
+**Quanto do acervo real isto cobre, não dá para saber, e é honesto dizer.** O que dá para
+afirmar é o que cada método esgotou:
+
+- A **varredura por n-grama sobre a palavra "Gu"** foi rodada duas vezes, em duas
+  passadas de sensibilidade a maiúsculas, e na segunda rodada os quarenta candidatos mais
+  frequentes já não devolviam nomes inéditos no lado imortal. Para os Gu que a obra nomeia
+  com o sufixo "Gu", este método está perto do fim do que rende.
+- Ele **não pega** o Gu que a obra menciona sem o sufixo, nem o que aparece só dentro de
+  uma lista de composição de golpe. A colheita dos relatórios de profundidade existiu
+  justamente para cobrir esse ângulo, e ela devolveu mais de cinquenta nomes que a
+  varredura não tinha achado — o que mostra que os dois métodos são complementares e que
+  **nenhum dos dois sozinho fecha o catálogo**.
+- O terceiro ângulo, ainda **não explorado**, são os **catálogos de golpes**
+  (`07` e `08`): todo golpe combinado lista os Gu que o compõem, e essa é a maior fonte
+  de nomes de Gu que resta no vault. Uma leva futura que cruze a lista de componentes dos
+  golpes com estes dois catálogos é a próxima coisa a fazer, e provavelmente ainda rende.
+
+Sobre a **profundidade** das linhas, o número que interessa é o das quarenta e três
+células de uma frase do catálogo imortal, que agora são zero. O catálogo mortal já estava
+limpo nesse critério antes da leva. Isso não quer dizer que toda linha responda "o que
+acontece, quanto, por quanto tempo, em quem e com que limite" — quer dizer que **onde ela
+não responde, a célula diz que a obra cala**, em vez de disfarçar o silêncio com um
+rótulo. É a diferença entre um catálogo incompleto e um catálogo enganoso.
 
 ---
 
@@ -791,9 +1062,17 @@ explicitamente, em vez de inventar:
   three orifices fire hut → four orifices fire tower → five orifices fire pagoda): a obra
   descreve a cadeia de refino inteira, degrau por degrau, e **nunca diz o que qualquer um
   deles faz** quando acionado;
-- os **seis Gu de alma temáticos** (divine, dream, moon, general, grudge, poem soul):
-  aparecem apenas em duas listas, com o mecanismo da **classe** descrito e o efeito
-  individual jamais;
+- os **Gu de alma temáticos**, que na segunda leva passaram de seis para **quinze**:
+  divine, dragon, ice, dream, moon, general, grudge, poem, horse e heroic **soul** Gu,
+  mais qi, body, cloud, wind e tiger **spirit** Gu. Todos aparecem apenas em duas listas
+  do mesmo capítulo, e sobre a lista inteira a obra diz uma frase só — "esses Gu podiam
+  refinar a alma, todos tinham seu uso próprio". O mecanismo da **classe** está descrito;
+  o efeito individual, **de nenhum deles**. Repare de passagem que a obra alterna *soul*
+  (alma) e *spirit* (espírito) dentro da mesma enumeração sem explicar se é sinônimo ou
+  subclasse — e as fichas dizem isso em vez de escolher em silêncio. O único da família
+  que escapa da regra é o wolf soul Gu, cujo mecanismo a obra descreve (nove exemplares
+  convertem uma alma de cem homens em alma-lobo), e agora também o dragon soul Gu, que
+  turbina todo o arsenal de tema dragão;
 - o **Kill**, Gu de rank 8 → 9: a obra registra a origem (nasceu sozinho no corpo de um
   Venerável, como reação do céu a um massacre) e a dieta (massacres), e **não descreve o
   efeito**;
@@ -808,8 +1087,44 @@ Gu mal alimentado; e prazo de vida natural de um Gu mortal. O ritmo de refeiçõ
 existe; a quantidade por refeição, não.
 
 **A dieta da maioria dos Gu mortais.** A obra a cala porque no mundo ela é trivial —
-cerca de um terço das linhas do catálogo mortal continua sem cardápio, e é onde a
-designer vai precisar inventar. O ritmo por rank, esse sim, é canônico e está em todas.
+hoje **cerca de um sexto** das linhas do catálogo mortal continua sem cardápio (eram um
+terço), e é onde a designer vai precisar inventar. O ritmo por rank, esse sim, é canônico
+e está em todas.
+
+No lado imortal a situação é a inversa e vale um aviso: a dieta de um Gu Imortal costuma
+ser parte da identidade dele, mas **as fichas dos Gu de caminho da sorte são a exceção
+quase completa** — a obra declara a dieta de apenas **dois** deles (areia da gaivota de
+areia mundana, para o Connect Luck; fezes de seis espécies de cães desolados, para o Dog
+Shit Luck). Tudo o mais naquele caminho está marcado com `*`. O mesmo vale para os vinte e
+um Gu Imortais aprofundados nesta leva, entre os quais só o Vajra Thought tem dieta
+canônica (fruto de veado divino, cerca de 1.350 pedras de essência por refeição).
+
+**Silêncios novos, registrados nesta leva.** Todos verificados com busca direta:
+
+- **A capacidade das Casas de Gu Imortais**, em número de imortais que comportam, **nunca
+  é informada** — para nenhuma das quarenta e cinco.
+- **As Casas da esquadra do Rio do Tempo** só existem como enumeração: a obra as lista em
+  série, num capítulo, como projeto da corte celestial, e **não dá ficha técnica de
+  nenhuma** exceto a Golden Age Platform. Aparência, Gu-núcleo e comparações de
+  velocidade e defesa tiveram de ser garimpados em cenas de batalha esparsas.
+- **A série dos números do caminho da regra** — one, two, three, four, five… — é descrita
+  como o maior conjunto de Gu do caminho e "praticamente ilimitada", a obra mostra um One
+  Gu e um Three Gu de rank 7 nominalmente, e **nunca descreve o efeito de nenhum deles**.
+- **Star Shield Gu** e **Bane Star Gu** têm uma ocorrência cada, na mesma linha, como
+  ingredientes de um golpe. Sem rank, efeito, dieta ou refino.
+- **Medicine Fragrance**, **Eat Fragrance** e **Dew Gu**: uma ou duas frases cada, sem
+  raio, duração, número ou limite.
+- **Peach Blossom Luck Gu**: a obra dá o nome e o preço alto, e nada mais. O efeito na
+  ficha é dedução a partir da descrição canônica da *sorte* de flor de pessegueiro, e está
+  marcado como dedução.
+- **Departure**, **Main** e **Ripe Gu** do caminho da regra: uma ocorrência cada, com
+  rank em um caso, contexto de uso, e **efeito nunca enunciado**.
+- **Os Gu de zumbi voador de topo** (asura, demônio celeste, pesadelo, praga): a obra os
+  nomeia como os "cinco grandes" e descreve a escada que leva até eles, mas o efeito
+  individual de cada um fica de fora.
+- **Iron Rod Gu** e **Leather Whip Gu**: uma ocorrência cada, na mesma frase. Só a
+  origem — o bastão é conversão do caminho do metal para o das armas, o chicote é
+  combinação de transformação com armas.
 
 **Preço.** A obra dá preço em pedras primordiais para poucas dezenas de Gu, e quase nunca
 para Gu Imortais — no patamar imortal ela é explícita em que **não há preço**, só troca,

@@ -347,8 +347,8 @@ caminho da luz e trocou para o da espada com sucesso**. Trocar de caminho não �
 | **Dragão de espada imemorial** | imortal | Forma de combate que **converte todas as marcas do Dao do usuário em marcas do caminho da espada**. Auge ofensivo; enquanto dura, nada mais dele é amplificado |
 | **Tribulação de miríade espadas** | imortal | Divide a espada voadora em **dez mil espadas** que caem como chuva sobre a área inteira |
 
-Catálogo completo em [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] e
-[[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]].
+Catálogo completo em [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] e
+[[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]].
 
 > [!info] Como ler a coluna "Nível"
 > **⭐** = Gu Imortal: existe **um único exemplar no mundo**. **`—`** = a obra **não

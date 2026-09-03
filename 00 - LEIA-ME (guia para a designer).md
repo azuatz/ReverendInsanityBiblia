@@ -105,7 +105,7 @@ sobretudo, com as **travas canônicas** que explicam por que ninguém mais poder
 o problema no lugar dos jogadores.
 
 Para o encontro do dia a dia, [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] explica a fauna e por que caçar é a
-profissão-base do mundo, e [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] é o manual de monstros propriamente dito,
+profissão-base do mundo, e [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] é o manual de monstros propriamente dito,
 com quase noventa criaturas nomeadas e descritas pela obra.
 
 Duas notas resolvem perguntas que aparecem cedo em qualquer mesa e não cabem nas fundações:

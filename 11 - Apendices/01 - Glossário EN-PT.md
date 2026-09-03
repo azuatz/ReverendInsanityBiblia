@@ -636,4 +636,4 @@ publicada, o inglês foi mantido e marcado com **°**.
 
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — os números por trás destes termos
 - [[03 - Catálogo de Gu|Catálogo de Gu]] — a lista de Gu individuais, por caminho
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a estrutura histórica do mundo
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a estrutura histórica do mundo

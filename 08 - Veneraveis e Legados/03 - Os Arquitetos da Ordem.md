@@ -221,7 +221,7 @@ Vale enunciar o que os dois primeiros construíram **juntos**, porque é o esque
 - [[27 - Os Caminhos Elementais#Terra (earth path)|Terra (earth path)]] · [[25 - Heaven Path|Heaven Path]] — os dois caminhos de Paradise Earth, que ele cultivou sem ter criado nenhum.
 - [[20 - Food Path|Food Path]] — a especialidade secreta de Spectral Soul, que Paradise Earth estudou para poder anulá-la.
 - [[12 - Heranças e Provações|Heranças e Provações]] — o que é uma herança e como se abre; a de Paradise Earth é o caso extremo.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a Antiguidade Remota destes dois, e a Tardia de Paradise Earth.
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a Antiguidade Remota destes dois, e a Tardia de Paradise Earth.
 - [[08 - Attainment|Attainment]] · [[16 - Dao Marks|Dao Marks]] — os dois eixos de progressão que o texto acima pressupõe.
 - [[26 - Dream Path|Dream Path]] — os reinos de sonho que Star Constellation deixou como heranças de ensino.
 - [[12 - Longevidade|Longevidade]] — os Gu de longevidade que Paradise Earth exauriu, e a trava que atingiu todos os dez.

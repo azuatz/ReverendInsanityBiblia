@@ -20,9 +20,9 @@ de Gu que um praticante comum — de rank 1 a 5 — consegue montar e disparar. 
 são a lista de itens deste sistema, os golpes são a **lista de magias**.
 
 Os golpes de patamar imortal, que exigem ao menos um Gu Imortal, estão em
-[[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]]. A mecânica completa — como um golpe nasce, como se
+[[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]]. A mecânica completa — como um golpe nasce, como se
 paga, como se quebra — está em [[08 - Killer Moves|Killer Moves]]. Os Gu individuais que aparecem nas
-receitas abaixo estão em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+receitas abaixo estão em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ## O que é um golpe assassino
 
@@ -100,7 +100,7 @@ há número, ele veio de uma destas três origens, e a coluna diz qual:
 ## Como usar este catálogo
 
 Cada seção é um **caminho** (*path*): a escola de cultivo a que o golpe pertence, do
-mesmo jeito que em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]. Um golpe que mistura caminhos aparece
+mesmo jeito que em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]. Um golpe que mistura caminhos aparece
 no caminho dominante, com os outros indicados na própria linha. Golpes que a obra nunca
 associou a caminho nenhum ficam na seção final.
 
@@ -660,7 +660,7 @@ Guardar a lista é mais útil que decorar golpe por golpe:
     ser Imortal para o golpe inteiro subir de mortal a imortal, e enuncia isso ao pé da
     letra sobre o *Iron Mask Equipment* e sobre o *Sword Dragon Transformation*. Os golpes
     marcados com esta nota existem nos dois patamares e por isso aparecem também em
-    [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]], com os dados da versão imortal. Duas ressalvas
+    [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]], com os dados da versão imortal. Duas ressalvas
     práticas: elevar um golpe mortal a imortal **leva anos**, mesmo com a fundação pronta e
     o nível de domínio adequado; e o inverso também acontece, com uma massa de Gu mortais
     substituindo temporariamente um Gu Imortal que falte, ao preço de o golpe consumir

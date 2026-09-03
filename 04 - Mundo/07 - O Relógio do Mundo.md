@@ -124,7 +124,7 @@ Este é o achado mais importante da seção, e ele muda como se conta a históri
 há contagem desde uma fundação, não há era de reinado numerada. O que existe é datação **por
 era nomeada**, e as eras levam o nome de quem as dominou: "a era do Venerável Sol Gigante", "a
 era dos dois Veneráveis", "a era dos três Veneráveis reinantes", "a Antiguidade Tardia, a era
-do Venerável Demônio Alma Espectral". Ver [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]].
+do Venerável Demônio Alma Espectral". Ver [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]].
 
 A consequência prática é bonita e vale explorar numa mesa: **este mundo mede o tempo em pessoas,
 não em números.** Perguntar "quando isso aconteceu?" produz o nome de um Venerável, não uma

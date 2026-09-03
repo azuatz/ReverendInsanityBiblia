@@ -311,7 +311,7 @@ fichas acima estão agrupadas por afinidade de legado, não cronologicamente.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o mapa das disciplinas de cultivo; cinco delas nasceram aqui.
 - [[04 - Strength Path|Strength Path]] · [[06 - Transformation Path|Transformation Path]] · [[12 - Soul Path|Soul Path]] · [[21 - Rule Path|Rule Path]] · [[23 - Luck Path|Luck Path]] · [[27 - Os Caminhos Elementais#Madeira (wood path)|Madeira]] — os cinco caminhos **principais** fundados pelos cinco desta nota, em detalhe de mesa. O caminho da madeira não tem nota própria porque é um dos elementais, e todos eles moram na mesma nota.
 - [[06 - Transformation Path|Transformation Path]] · [[28 - Painting Path|Painting Path]] · [[20 - Food Path|Food Path]] · [[03 - Blood Path|Blood Path]] — as **especialidades**, a metade escondida do legado de cada um.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes cinco viveu.
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes cinco viveu.
 - [[08 - Attainment|Attainment]] — o supremo grão-mestre, degrau sem o qual não se funda caminho nenhum.
 - [[17 - Cosmologia|Cosmologia]] — a fronteira do mundo, perfurada pela obra de Limitless.
 - [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — as aberturas imortais que Genesis Lotus aprendeu a guardar e que Spectral Soul aprendeu a engolir sem restrição.

@@ -93,4 +93,4 @@ substitui isso por uma vantagem que **não anda**: o segredo passa a residir na
 - [[06 - Refino de Gu|Refino de Gu]] — o ofício artesanal que este caso industrializa.
 - [[05 - Materiais e Cadeia Produtiva|Materiais e Cadeia Produtiva]] — o insumo que alimenta a linha.
 - [[28 - Guerra de Preços|Guerra de Preços]] — o que se faz com uma vantagem de custo depois de construída.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas que existem, e quais delas são segredo de alguém.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas que existem, e quais delas são segredo de alguém.

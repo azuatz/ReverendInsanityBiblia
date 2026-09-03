@@ -24,14 +24,14 @@ personagem lê de cima para baixo: escolhe o caminho, olha o que falta no conjun
 escolhe a peça.
 
 Os Gu dos outros ranks estão nos catálogos irmãos desta mesma pasta —
-[[11 - Gu de Rank 1|rank 1]], [[12 - Gu de Rank 2|rank 2]], [[13 - Gu de Rank 3|rank 3]] e
-[[15 - Gu de Rank 5|rank 5]]. O catálogo geral, plano e sem hierarquia, continua sendo o
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e é para lá que você vai
+[[04 - Gu de Rank 1|rank 1]], [[05 - Gu de Rank 2|rank 2]], [[06 - Gu de Rank 3|rank 3]] e
+[[08 - Gu de Rank 5|rank 5]]. O catálogo geral, plano e sem hierarquia, continua sendo o
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e é para lá que você vai
 quando quiser procurar um nome sem saber o rank.
 
 ## O que é o rank 4
 
-Se o [[13 - Gu de Rank 3|rank 3]] é a patente de ancião de clã, o rank 4 é a patente de
+Se o [[06 - Gu de Rank 3|rank 3]] é a patente de ancião de clã, o rank 4 é a patente de
 **quem manda no clã**. E a diferença entre os dois não é de grau: a obra chama o degrau
 entre eles de um abismo entre dois grandes reinos.
 
@@ -80,7 +80,7 @@ Cinco mudanças concretas separam o rank 4 do rank 3, e todas aparecem no catál
 > enfrentá-lo. Sabotar a alimentação dos Gu de um rank 4 é uma campanha jogável.
 
 > [!warning] Rank maior continua não sendo melhor
-> A regra que o [[13 - Gu de Rank 3|rank 3]] ensinou com um Gu ridículo vale aqui com um
+> A regra que o [[06 - Gu de Rank 3|rank 3]] ensinou com um Gu ridículo vale aqui com um
 > Gu sério: o `Strength of Ten Jun Gu`, de rank 4, é declaradamente **mais fraco** que um
 > Gu de força de fera do mesmo rank. Ele sobrevive no mercado por ser barato, empilhável e
 > fácil de refinar — e a linhagem antiga, mais potente, foi **eliminada pela concorrência**
@@ -607,7 +607,7 @@ conseguir um Gu, porque o combate destrói os vermes. Não havia exemplar de ran
 depósito de suprimentos de um exército inteiro.
 
 **Evolução.** Não citada pela obra. Existe uma **versão imortal de rank 7** com ficha
-própria em [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]], mas ela
+própria em [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]], mas ela
 **não é a evolução desta**: é o mesmo conceito instanciado noutra escala, como acontece com
 dezenas de Gu do sistema.
 
@@ -966,7 +966,7 @@ uma combinação montada significa comprar e alimentar três Gu para ter um golp
 
 **Evolução.** Não citada pela obra — e por um motivo de estrutura: este Gu é uma **série de
 ranks**, existindo em rank 4 e rank 5 com o mesmo nome, e a obra não descreve fusão entre os
-degraus. Ele aparece também na ficha correspondente do [[15 - Gu de Rank 5|catálogo de rank
+degraus. Ele aparece também na ficha correspondente do [[08 - Gu de Rank 5|catálogo de rank
 5]].
 
 **Interações.** Depende de luz solar disponível para colher (ded.) — e é o núcleo de
@@ -1137,7 +1137,7 @@ wave trace Gu" — e **não informa os componentes**.
 **Evolução.** **Bifurca em duas direções de rank 5**, e esta é uma das poucas bifurcações
 explícitas do catálogo mortal: o `Wandering Wave Trace Gu`, com propriedades de **esquiva
 instantânea**, e o `River Wave Trace Gu`, que permite **correr depressa sobre a superfície da
-água**. As duas estão no [[15 - Gu de Rank 5|catálogo de rank 5]].
+água**. As duas estão no [[08 - Gu de Rank 5|catálogo de rank 5]].
 
 **Interações.** É um Gu do caminho da água, e portanto **rende cerca de sessenta a setenta por
 cento** num corpo saturado de marcas de força — o único par de conflito com número declarado.
@@ -1606,7 +1606,7 @@ independentes, a obra não diz.
 
 **Interações.** Além de elevar a aptidão, ele **reverte efeitos nocivos de rank inferior**,
 incluindo os de um Gu que sabota a abertura alheia. Existe também uma **versão imortal**,
-com ficha própria em [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]]
+com ficha própria em [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]]
 — que não é evolução desta, e sim o mesmo conceito noutra escala.
 
 ## Utilidade
@@ -1933,7 +1933,7 @@ forte o bastante, ele não subjuga a alma-lobo. E o teto de rank 4 é declarado.
 
 **Evolução.** A obra descreve a família como **série de ranks**, com receita própria por
 degrau, e **não descreve fusão entre eles**. O degrau de rank 5 aparece no
-[[15 - Gu de Rank 5|catálogo de rank 5]].
+[[08 - Gu de Rank 5|catálogo de rank 5]].
 
 **Interações.** Combina com o `Impermanence Bone Gu` de forma quase obrigatória: uma alma
 maior precisa de um saco mais firme, e este Gu é o que faz a alma crescer.
@@ -3073,7 +3073,7 @@ além da administração e, na versão imortal, da alteração da paisagem.
 
 **Evolução.** Não citada pela obra: é o mesmo Gu em dois ranks mortais, mudando o raio e não a
 natureza. A **versão imortal de rank 7** tem ficha própria em
-[[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] e não é evolução desta.
+[[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] e não é evolução desta.
 
 **Interações.** É o Gu que **converte posse de fato em controle mecânico do terreno** — e, por
 isso, é a peça que conecta este catálogo à política do mundo. Ver
@@ -3099,7 +3099,7 @@ popular nos ranks 3 e 4.
 dentro — e tem ficha própria no catálogo imortal.
 
 **Interações.** Vale registrar a curiosidade econômica que ele produz no rank 5, e que está na
-ficha correspondente do [[15 - Gu de Rank 5|catálogo de rank 5]]: como Gu de rank 5 são
+ficha correspondente do [[08 - Gu de Rank 5|catálogo de rank 5]]: como Gu de rank 5 são
 raríssimos, ele é **o Gu de rank 5 mais fácil de conseguir do mundo**, e muitos Mestres Gu de
 rank 5 sem peça melhor carregam um só para não ficar sem nada no rank.
 
@@ -3174,7 +3174,7 @@ informado em nenhum degrau da escada** — a obra dá a cadeia e cala sobre as r
 
 **Evolução.** **`Flying Zombie Gu`, rank 5.** E a partir dele a escada abre na bifurcação mais
 larga de toda a obra: cinco grandes zumbis voadores, mais um sexto que não voa. Todos estão no
-[[15 - Gu de Rank 5|catálogo de rank 5]].
+[[08 - Gu de Rank 5|catálogo de rank 5]].
 
 **Interações.** Combina com Gu de reposição de sangue: a obra registra que parear um Gu de
 essência de sangue com o zumbi de rank 2 **reduz muito os efeitos colaterais**, permitindo ser
@@ -4194,7 +4194,7 @@ composição:
 
 Uma série de rank que atravessa o rank 4 **não** ganhou ficha aqui: o `Star Thought Gu`, porque é
 no rank 5 que a obra o descreve em ação, e repetir a descrição inteira nos dois catálogos seria
-duplicação sem ganho. Ele está no [[15 - Gu de Rank 5|catálogo de rank 5]].
+duplicação sem ganho. Ele está no [[08 - Gu de Rank 5|catálogo de rank 5]].
 
 **Quantos ficaram sem evolução citada.** **Noventa e nove** das 113 fichas abrem o campo
 *Evolução* com "não citada pela obra" — cerca de **88%**. Catorze trazem uma rota de verdade, e vale
@@ -4293,11 +4293,11 @@ nós.
 
 ## Relações
 
-- [[13 - Gu de Rank 3|Gu de Rank 3]] — o degrau abaixo, e a origem da maior parte das rotas que
+- [[06 - Gu de Rank 3|Gu de Rank 3]] — o degrau abaixo, e a origem da maior parte das rotas que
   chegam aqui.
-- [[15 - Gu de Rank 5|Gu de Rank 5]] — o teto do mundo mortal, e o destino das poucas evoluções
+- [[08 - Gu de Rank 5|Gu de Rank 5]] — o teto do mundo mortal, e o destino das poucas evoluções
   que este rank tem.
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano, para procurar um
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano, para procurar um
   nome sem saber o rank.
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a regra
   inteira por trás do campo "Interações".

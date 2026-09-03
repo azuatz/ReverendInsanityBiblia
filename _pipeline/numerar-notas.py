@@ -149,11 +149,17 @@ ORDEM = {
         "Explorar um Reino de Sonho",
     ],
     "11 - Apendices": [
+        # O currículo dos apêndices: primeiro o vocabulário, depois os números que mandam
+        # em tudo, depois a porta dos catálogos de Gu. Em seguida os seis catálogos POR RANK,
+        # que são a forma de uso principal — a hierarquia deles (rank, caminho, categoria)
+        # é a mesma de uma ficha de personagem. Só então as tabelas planas, que servem de
+        # índice alfabético para quem já sabe o nome do Gu que procura.
         "Glossário EN-PT", "Tabelas de Referência Rápida", "Catálogo de Gu",
-        "Catálogo de Gu - Mortais", "Catálogo de Gu - Imortais",
-        "Catálogo de Receitas", "Catálogo de Golpes - Mortais",
-        "Catálogo de Golpes - Imortais", "Catálogo de Bestas e Reis Fera",
-        "Linha do Tempo e Eras",
+        "Gu de Rank 1", "Gu de Rank 2", "Gu de Rank 3", "Gu de Rank 4", "Gu de Rank 5",
+        "Gu Imortais por Rank e Caminho",
+        "Catálogo de Gu - Mortais", "Catálogo de Gu - Imortais", "Catálogo de Receitas",
+        "Catálogo de Golpes - Mortais", "Catálogo de Golpes - Imortais",
+        "Catálogo de Bestas e Reis Fera", "Linha do Tempo e Eras",
     ],
     "06 - Forcas e Organizacoes": [
         "Visão Geral das Forças e Organizações", "Fronteira Sul",

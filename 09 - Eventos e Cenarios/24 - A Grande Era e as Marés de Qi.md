@@ -407,7 +407,7 @@ mesa é este:
   camada de mudança ambiental, que vem depois desta.
 - [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] — o estado do cenário
   quando tudo isto já aconteceu.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — onde a Grande Era se encaixa na
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — onde a Grande Era se encaixa na
   cronologia do mundo.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**; em caso de divergência com qualquer número citado aqui, aquela nota

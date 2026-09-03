@@ -37,8 +37,8 @@ partes** — e é o teto de poder de qualquer indivíduo neste mundo.
 >
 > **Esta nota explica o sistema; ela não lista os golpes.** Os exemplos concretos que a obra
 > descreve — nome, caminho, componentes, efeito e custo, um a um — estão em dois apêndices
-> separados pelo patamar de poder: [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] para os golpes de ranks
-> 1 a 5 e [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] para os de ranks 6 a 9. Vale abrir o primeiro
+> separados pelo patamar de poder: [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] para os golpes de ranks
+> 1 a 5 e [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] para os de ranks 6 a 9. Vale abrir o primeiro
 > assim que terminar a seção "As categorias", para ver as famílias com nome e cara.
 
 ## O que são
@@ -559,8 +559,8 @@ embalagens.
 
 ## Relações
 
-- [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] — os golpes de ranks 1 a 5 levantados da obra e agrupados por caminho de cultivo, com o que cada um faz e o que custa. É a nota para consultar quando você precisar de um golpe pronto para pôr na mão de um personagem.
-- [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — o mesmo levantamento para os ranks 6 a 9, mais as três categorias que só existem lá em cima: golpes de campo de batalha, golpes ancorados num domínio recluso e golpes compostos.
+- [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] — os golpes de ranks 1 a 5 levantados da obra e agrupados por caminho de cultivo, com o que cada um faz e o que custa. É a nota para consultar quando você precisar de um golpe pronto para pôr na mão de um personagem.
+- [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — o mesmo levantamento para os ranks 6 a 9, mais as três categorias que só existem lá em cima: golpes de campo de batalha, golpes ancorados num domínio recluso e golpes compostos.
 - [[02 - O que é um Gu|O que é um Gu]] — a regra de um poder por bicho, que torna combinar obrigatório.
 - [[16 - Gu Imortais|Gu Imortais]] — os núcleos dos golpes de topo, e por que são únicos.
 - [[06 - Refino de Gu|Refino de Gu]] — a máxima "todo golpe é uma receita incompleta" e a arte de condensar.

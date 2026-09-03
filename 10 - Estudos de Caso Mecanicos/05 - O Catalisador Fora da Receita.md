@@ -86,7 +86,7 @@ força. Fundir não é somar: é escolher.
 > **Regra, e ela redesenha a economia do conhecimento no cenário.** Se receitas evoluem,
 > então uma receita não é um item — é uma **versão**. Existe a versão que circula, a
 > versão que um clã guarda e a versão que ninguém ainda escreveu. Isso é o que torna
-> plausível toda a economia de segredos descrita em [[06 - Catálogo de Receitas|Catálogo de Receitas]]: as
+> plausível toda a economia de segredos descrita em [[12 - Catálogo de Receitas|Catálogo de Receitas]]: as
 > receitas de rank 5 para cima são guardadas "como a própria vida", e muitos Mestres Gu
 > morrem sem passá-las adiante.
 
@@ -109,4 +109,4 @@ força. Fundir não é somar: é escolher.
 - [[07 - Fusão de Gu|Fusão de Gu]] — a mecânica completa, incluindo a regra de que a fusão preserva só uma habilidade.
 - [[06 - Refino de Gu|Refino de Gu]] — a operação vizinha, e por que as duas compartilham a lógica de taxa de sucesso.
 - [[02 - Punhos Contra uma Camada de Defesa|Punhos Contra uma Camada de Defesa]] — o duelo em que a versão fraca desta defesa foi quebrada a soco.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra.

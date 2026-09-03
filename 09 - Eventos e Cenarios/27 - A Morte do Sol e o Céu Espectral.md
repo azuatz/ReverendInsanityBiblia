@@ -393,7 +393,7 @@ ambiente hostil visitável e ainda inteiramente inexplorado.
 - [[26 - Dream Path|Dream Path]] — o caminho que estes reinos de sonho fazem amadurecer.
 - [[15 - Vontade dos Céus|Vontade dos Céus]] — a vontade que estabiliza no fim do processo.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
-  [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as feras
+  [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as feras
   deslocadas e suas dietas.
 - [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]] — o estado político do
   cenário que convive com este estado ambiental.

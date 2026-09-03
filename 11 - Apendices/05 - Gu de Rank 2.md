@@ -708,7 +708,7 @@ concentrada, saturação de área e arma branca sustentada.
   bloqueou de frente uma lâmina de rank 3 e o golpe da lua dourada.
 
 > [!warning] Divergência de rank a corrigir no catálogo plano
-> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o Iceblade Gu como
+> O [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o Iceblade Gu como
 > rank 3 e o Ice Edge Gu como "2-3". O texto-fonte diz o contrário, e diz duas vezes: o
 > Iceblade é **rank 2** ("um Ice Blade Gu de rank dois, conseguindo bloquear minha lâmina
 > lunar de rank três"), e o Ice Edge é **rank 3**, sendo o avanço dele. O "rank 3" que
@@ -1872,7 +1872,7 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
   tempo houve um **único exemplar no mundo**, e o que os clãs cobiçavam era a **receita**,
   não o Gu — só ela permitiria produzi-lo em série.
 - **Evolução.** Não citada pela obra. Existe uma **versão imortal** deste Gu, sem rank
-  declarado, com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu -
+  declarado, com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu -
   Imortais]] — mas isso não é evolução: é o mesmo conceito instanciado em duas escalas.
 - **Interações.** É o Gu que a obra usa para explicar **por que o rank 2 é o calibre de
   produção em massa de um clã**: poder alto, consumo mínimo, e portanto capaz de armar
@@ -2160,7 +2160,7 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
 - **Como se obtém.** **Não há receita**: o refino é o comportamento do usuário ao longo da
   vida.
 - **Evolução.** Não citada pela obra como fusão. Existe uma **versão imortal** deste Gu,
-  sem rank declarado, com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu
+  sem rank declarado, com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu
   - Imortais]] — o que é o mesmo conceito em duas escalas, não uma rota de avanço.
 - **Interações.** É o único Gu de todo o catálogo cujo custo é **moral e não econômico**:
   o rank cresce sem gasto de material nenhum. Isso o coloca em relação direta com o resto
@@ -2482,7 +2482,7 @@ arriscado não por ser mais forte, mas por ninguém ter escrito como fazê-lo.
   decisiva a um praticante de rank 2, e um terceiro avisou o adversário antes da luta que
   ele "não teria muita vantagem" por causa disso.
 
-[^moonveil]: O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] traz `Moonveil
+[^moonveil]: O [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] traz `Moonveil
 Gu` como ficha separada, marcada como "a obra só dá o nome". A verificação no texto-fonte
 mostra que se trata de **variação de tradução do mesmo Gu**: as duas grafias aparecem em
 capítulos vizinhos, referem-se ao mesmo exemplar, refinado pelo mesmo personagem, no mesmo
@@ -2672,11 +2672,11 @@ terreno livre para a mesa.
 
 ## Relações
 
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano completo
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano completo
   dos ranks 1 a 5, de onde vem o conteúdo verificado desta nota.
-- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — os Gu de rank 6 e acima,
+- [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — os Gu de rank 6 e acima,
   únicos no mundo. Três Gu desta nota têm contraparte imortal, e isso **não é evolução**.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão citadas aqui.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão citadas aqui.
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a
   mecânica de que o campo **Interações** de toda ficha depende.
 - [[16 - Dao Marks|Dao Marks]] — a teoria das marcas: como se ganham, como amplificam, por

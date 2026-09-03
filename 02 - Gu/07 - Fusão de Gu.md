@@ -255,7 +255,7 @@ Como as receitas são guardadas, na prática:
   de um cofre, porque não está num cofre.
 
 O conteúdo desses cofres, na medida em que a obra o revela, está reunido em
-[[06 - Catálogo de Receitas|Catálogo de Receitas]]: as receitas nomeadas, as linhagens que pertencem a um clã
+[[12 - Catálogo de Receitas|Catálogo de Receitas]]: as receitas nomeadas, as linhagens que pertencem a um clã
 específico, as cadeias de evolução que dizem em que um Gu pode ser transformado e a lista
 das receitas que existem apenas como rumor. É de lá que se tira o tesouro concreto quando
 uma campanha precisar de um.
@@ -350,5 +350,5 @@ O dono de uma receita, portanto, não é um alvo. É um **partido**.
 - [[05 - Gu Vital|Gu Vital]] — o único componente que sobrevive a uma fusão fracassada.
 - [[16 - Gu Imortais|Gu Imortais]] — por que a regra de unicidade restringe fusões no topo.
 - [[03 - Catálogo de Gu|Catálogo de Gu]] — as árvores de evolução documentadas.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas em si: materiais, passos, donos e as cadeias que ligam um Gu ao seguinte.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas em si: materiais, passos, donos e as cadeias que ligam um Gu ao seguinte.
 - [[13 - Qualidade e Fraude|Qualidade e Fraude]] — a adulteração pelo outro lado: quando é você que está comprando.

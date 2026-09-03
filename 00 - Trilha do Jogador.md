@@ -150,10 +150,10 @@ morador do mundo sabe que existem — e a maioria deles é o que a mesa vai joga
   **com ressalva**: as três primeiras têm um bloco final de mestre; ver a tabela de cortes abaixo
 
 **Referência**
-- [[01 - Glossário EN-PT|Glossário EN-PT]] · [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]
-- [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — o manual de monstros: quase noventa criaturas nomeadas
+- [[01 - Glossário EN-PT|Glossário EN-PT]] · [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]
+- [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — o manual de monstros: quase noventa criaturas nomeadas
   e descritas pela obra
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — o que se combina para fabricar cada Gu
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — o que se combina para fabricar cada Gu
 
 ## Camada 2 — o que um praticante instruído sabe
 
@@ -171,10 +171,10 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
   corpos fabricados. **Com ressalva** — ver a tabela de cortes
 
 **Gu avançado**
-- [[16 - Gu Imortais|Gu Imortais]] · [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] · [[03 - Catálogo de Gu|Catálogo de Gu]] · [[09 - Formações de Gu|Formações de Gu]]
+- [[16 - Gu Imortais|Gu Imortais]] · [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] · [[03 - Catálogo de Gu|Catálogo de Gu]] · [[09 - Formações de Gu|Formações de Gu]]
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que dois Gu bons podem não funcionar no mesmo
   corpo; a regra que limita a montagem de arsenal
-- [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — **com ressalva**: ver a tabela de cortes
+- [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — **com ressalva**: ver a tabela de cortes
 
 **Caminhos de acesso restrito**
 - [[02 - Como se Escolhe um Caminho|Como se Escolhe um Caminho]] — o processo de escolha, e por que ele quase nunca é livre
@@ -202,7 +202,7 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 - [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — o índice comentado dos quarenta e oito casos, com o nível de
   cada seção declarado ali mesmo: as seções de rank baixo, combate, mercado e produção são
   liberáveis; a seção "Heranças, territórios e escala imortal" é inteira de mestre
-- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] · [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] · [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]
 
 > [!info] Por que estes caminhos são "avançados"
 > O critério não é força — vários caminhos da camada 1 batem mais forte. É **acesso ao
@@ -228,7 +228,7 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 > Algumas notas são majoritariamente liberadas e guardam segredo no fim ou em seções
 > marcadas. Entregue-as **cortadas**:
 >
-> - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] e [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — o fim traz as condições
+> - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] e [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — o fim traz as condições
 >   para virar Venerável e a mecânica profunda da virada de era.
 > - [[01 - Glossário EN-PT|Glossário EN-PT]] — os termos secretos estão marcados com 🔒.
 > - [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] — corte a seção sobre o conflito entre a lei do céu e o
@@ -251,11 +251,11 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 > - [[18 - Modificar o Próprio Corpo|Modificar o Próprio Corpo]] — o arsenal de reforço é comum; a troca de espécie, a
 >   possessão e os corpos fabricados não são.
 > - [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — quase tudo, exceto a existência dos dois céus.
-> - [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — que golpes imortais existem é sabido; **o conteúdo
+> - [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — que golpes imortais existem é sabido; **o conteúdo
 >   deste catálogo é arsenal**, e num mundo onde golpe conhecido é golpe deduzido, entregá-lo
 >   a jogadores dá a eles informação que os personagens pagariam caro para ter. Trate-o como
 >   material de mestre, liberado item a item conforme a mesa encontrar cada golpe. O mesmo
->   vale para os itens marcados com 🔒 no [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+>   vale para os itens marcados com 🔒 no [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 > [!note] Para o design
 > Essa divisão em duas camadas já é, por si só, uma sugestão de estrutura: a camada 1

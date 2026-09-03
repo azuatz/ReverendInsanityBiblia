@@ -124,7 +124,7 @@ Se for distribuí-las, corte o que está indicado:
 |---|---|
 | [[17 - Cosmologia\|Cosmologia]] | os nove céus imemoriais, o Rio do Tempo e **sobretudo** a fronteira do mundo. Libere as quatro primeiras seções — ver a tabela de corte no topo da própria nota |
 | [[02 - Tabelas de Referência Rápida\|Tabelas de Referência Rápida]] | as quatro condições para virar Venerável e a escala de fundação de alma acima do teto humano |
-| [[10 - Linha do Tempo e Eras\|Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
+| [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] | a mecânica profunda da virada de era e a origem da fronteira do mundo |
 | [[01 - Glossário EN-PT\|Glossário EN-PT]] | todos os termos marcados com 🔒 |
 | [[14 - Tribunal Celestial e Grandes Forças\|Tribunal Celestial e Grandes Forças]] | a seção final, sobre o que a instituição realmente faz |
 | [[02 - A Filosofia do Mundo\|A Filosofia do Mundo]] | o conflito entre a lei de equilíbrio do céu e o impulso humano de acumular — que é a explicação metafísica de por que cultivar atrai desastre — e a leitura da mitologia que explica o sentido do título |
@@ -141,13 +141,13 @@ Se for distribuí-las, corte o que está indicado:
 | [[07 - O Relógio do Mundo\|O Relógio do Mundo]] | que o dia e a noite são dois céus se revezando, que a luz fraca de hoje é resto de uma catástrofe, e que a nevasca decenal do norte não é meteorologia |
 | [[09 - As Plantas e os Bichos Comuns\|As Plantas e os Bichos Comuns]] | que pastos deixados em paz começam a produzir Gu sozinhos, e que uma árvore parada pode ser um adversário de patamar imortal |
 | [[11 - O Selvagem, as Ruínas e as Zonas Proibidas\|O Selvagem, as Ruínas e as Zonas Proibidas]] | que o rancor é substância manipulável e interrogável, que raio recorrente é **pista** de morte acumulada, e que há interditos cósmicos que ninguém pode levantar |
-| [[09 - Catálogo de Bestas e Reis Fera\|Catálogo de Bestas e Reis Fera]] | a escala real das bestas desoladas, que matá-las exige destruir marcas do Dao, que espécies inteiras foram **fabricadas**, e que no topo um "monstro" pode ser o inventário de alguém |
+| [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] | a escala real das bestas desoladas, que matá-las exige destruir marcas do Dao, que espécies inteiras foram **fabricadas**, e que no topo um "monstro" pode ser o inventário de alguém |
 | [[01 - Visão Geral das Forças e Organizações\|Visão Geral das Forças e Organizações]] e **as cinco notas regionais** | a seção final da nota-porta, mais cada trecho marcado `segredo` dentro de uma ficha: a natureza real de uma organização, os imortais cuja lealdade não pertence a quem eles servem, o cargo administrativo que lava a ficha de um demônio, os registros duplos e os espiões plantados no círculo de anciãos supremos. Corte linha a linha — as fichas em si são material de jogador |
 | [[13 - As Grandes Forças do Mundo\|As Grandes Forças do Mundo]] | a seção sobre organizações cuja natureza real é segredo, e cada parágrafo marcado `segredo` |
 | [[01 - Visão Geral dos Eventos\|Visão Geral dos Eventos]] e as quatro notas de evento com bloco final | ver a seção [[#A escala de mundo dentro da pasta de eventos]] |
 | [[01 - Estudos de Caso Mecânicos\|Estudos de Caso Mecânicos]] | a seção "Heranças, territórios e escala imortal" do índice, inteira |
-| [[08 - Catálogo de Golpes - Imortais\|Catálogo de Golpes - Imortais]] | **a nota inteira, na prática.** Que golpes imortais existem é sabido; o conteúdo do catálogo é arsenal, e neste mundo golpe conhecido é golpe deduzido. Libere item a item, conforme a mesa encontrar cada golpe |
-| [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] | as entradas marcadas com 🔒 |
+| [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] | **a nota inteira, na prática.** Que golpes imortais existem é sabido; o conteúdo do catálogo é arsenal, e neste mundo golpe conhecido é golpe deduzido. Libere item a item, conforme a mesa encontrar cada golpe |
+| [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] | as entradas marcadas com 🔒 |
 | [[01 - Visão Geral do Cultivo\|Visão Geral do Cultivo]], [[01 - Visão Geral dos Gu\|Visão Geral dos Gu]], [[01 - Visão Geral do Mundo\|Visão Geral do Mundo]], [[01 - Visão Geral da Sociedade\|Visão Geral da Sociedade]], [[01 - Visão Geral dos Paths\|Visão Geral dos Paths]], [[01 - Visão Geral da Economia\|Visão Geral da Economia]] e demais notas-porta | a seção "O que só o mestre sabe" no fim de cada uma, e as regras marcadas com 🔒 nas listas de "Regras do mundo" |
 
 > [!note] Para o design

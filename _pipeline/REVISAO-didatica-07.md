@@ -175,7 +175,7 @@ Genesis Lotus (Medieval) aparece em #4, antes de dois da era Antiga; Limitless (
 aparece em #7, depois de Giant Sun (Medieval). As eras estão intercaladas.
 
 Agravante: a tabela **não tem coluna de era** e a nota-porta **não linka
-`[[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`**. "Quando" é a segunda pergunta que faço depois de "quem", e a
+`[[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`**. "Quando" é a segunda pergunta que faço depois de "quem", e a
 pasta não responde nem aponta para quem responde.
 
 ### S3. Aliases duplicados — cada um dos dez nomes é alias de duas notas ao mesmo tempo
@@ -383,7 +383,7 @@ Aplicadas na ordem: bloqueadores primeiro, uma nota por vez.
 - **S1** — "nível de realização"/"níveis de domínio" → `attainment`, com link para
   `[[08 - Attainment|Attainment]]`.
 - **S2** — tabela dos dez reordenada por era, com **coluna de era** nova e link para
-  `[[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`.
+  `[[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]`.
 - **S3** — `aliases` reduzidos aos que designam a própria nota; os dez nomes próprios saem
   daqui e ficam nas fichas.
 - **S6** — a afirmação de fechamento passa a registrar a divergência das onze, remetendo ao

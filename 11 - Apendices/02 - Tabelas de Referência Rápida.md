@@ -1816,4 +1816,4 @@ independente do rank e da reserva.
 - [[06 - Refino de Gu|Refino de Gu]] · [[01 - Glossário EN-PT|Glossário EN-PT]] · [[03 - Catálogo de Gu|Catálogo de Gu]]
 - [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] · [[04 - As Cinco Regiões|As Cinco Regiões]] · [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] · [[01 - Visão Geral do Mundo|Visão Geral do Mundo]]
 - [[12 - Longevidade|Longevidade]] · [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[04 - Strength Path|Strength Path]] · [[12 - Soul Path|Soul Path]]
-- [[01 - Visão Geral da Economia|Visão Geral da Economia]] · [[06 - Mercados e Leilões|Mercados e Leilões]] · [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]
+- [[01 - Visão Geral da Economia|Visão Geral da Economia]] · [[06 - Mercados e Leilões|Mercados e Leilões]] · [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]

@@ -128,7 +128,7 @@ zera um ferimento de alma comum. Ele não apenas cura — **fortalece e expande 
 permanentemente, o que faz dele simultaneamente remédio e recurso de progressão. Um ferimento
 leve de alma num imortal de topo consumiu **cem doses**, o que dá a escala: a dosagem cresce
 com o tamanho da alma. E ele nasce num único lugar do mundo, o que faz dele uma commodity
-geograficamente estrangulada — os detalhes de mercado estão em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+geograficamente estrangulada — os detalhes de mercado estão em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 A alternativa comum, para quem não tem acesso ao guts Gu, é um Gu de rank 4 que **converte a
 vitalidade do corpo em nutrição para a alma**. O usuário emagrece na hora, visivelmente. É
@@ -769,5 +769,5 @@ disfarce anulam. Mais sobre a economia da caçada em
 - [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — os contratos que prendem sem corrente.
 - [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — mandados, caçadores e o preço de uma cabeça.
 - [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — disfarce, infiltração e o valor do que um prisioneiro sabe.
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as fichas dos Gu citados aqui.
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as fichas dos Gu citados aqui.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números.

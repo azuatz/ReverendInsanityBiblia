@@ -520,7 +520,7 @@ ser simplesmente o inventário de alguém.
   catálogo: marés de bestas, economia da caça, ritual de reconhecimento territorial.
 - [[09 - As Plantas e os Bichos Comuns|As Plantas e os Bichos Comuns]] — a flora e a
   fauna ordinária que não entra num bestiário.
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu que estas
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu que estas
   criaturas hospedam, e os Gu cujos nomes imitam bichos.
 - [[07 - Enslavement Path|Enslavement Path]] — o caminho que transforma tudo que está
   neste catálogo em exército próprio.

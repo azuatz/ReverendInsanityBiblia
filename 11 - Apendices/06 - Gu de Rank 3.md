@@ -24,7 +24,7 @@ personagem lê de cima para baixo: escolhe o caminho, olha o que falta no conjun
 escolhe a peça.
 
 Os Gu dos outros ranks estão nos catálogos irmãos desta mesma pasta; o catálogo geral,
-plano e sem hierarquia, continua sendo o [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]],
+plano e sem hierarquia, continua sendo o [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]],
 e é para lá que você vai quando quiser procurar um nome sem saber o rank.
 
 ## O que é o rank 3
@@ -335,7 +335,7 @@ sistema.
 
 **Evolução.** Não citada pela obra na faixa mortal — a obra registra exemplares de rank 3
 a rank 5 sem nomear a rota entre eles. Existe, porém, uma **versão imortal de rank 6**
-com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]], e a
+com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]], e a
 relação entre as duas é econômica e não evolutiva: o exemplar imortal é gasto para
 **fabricar em série** exemplares mortais de rank 3 do mesmo nome.
 
@@ -1146,7 +1146,7 @@ fere primeiro. **Exige um Gu de cura aceso ao lado** — sem isso, é suicídio 
 montanha dos demais Gu de osso deste catálogo.
 
 **Evolução.** Não citada pela obra na faixa mortal. Existe uma **versão imortal de rank 6**
-com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o
+com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o
 mesmo conceito em outra escala, não uma evolução por fusão.
 
 **Interações.** **Não funciona sozinho**: pede cura contínua ao lado, e por isso é o Gu
@@ -1390,7 +1390,7 @@ iceblade Gu de rank dois, tinha corpo mais resistente e lâmina mais afiada". Ma
 segundo componente: —
 
 > [!warning] Divergência de rank com o catálogo plano
-> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o **Iceblade Gu**
+> O [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o **Iceblade Gu**
 > como rank 3 e o Ice Edge Gu como "2-3". O texto-fonte é explícito nos dois sentidos: o
 > Iceblade Gu é **rank 2** ("um Ice Blade Gu de rank dois, conseguindo bloquear minha
 > lâmina de rank três"), e o Ice Edge Gu é o **rank 3** que sai dele. É por isso que a
@@ -2000,7 +2000,7 @@ conflitantes**. Quem quer produzir Gu de fogo em série precisa primeiro de um c
 é isto que faz o chão.
 
 > [!warning] Divergência de caminho com o catálogo plano
-> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] o lista sob o caminho da luz,
+> O [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] o lista sob o caminho da luz,
 > provavelmente pelo nome. A obra o classifica com todas as letras como **Gu do caminho do
 > fogo**, e é sob o fogo que ele aparece aqui.
 
@@ -2124,7 +2124,7 @@ escudo, capazes de matar um Mestre Gu de rank 1**.
 
 **Evolução.** Não citada pela obra entre os degraus — é **série**, não árvore: os ranks 1 a
 4 existem, e a obra não descreve fusão de um no outro. Existe também uma **versão
-imortal** com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+imortal** com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 **Interações.** É o Gu que transforma um cultivador solitário em pequena unidade militar, e
 por isso combina com qualquer coisa que precise de corpos entre o dono e o inimigo. Contra
@@ -2562,7 +2562,7 @@ de outrem, até um Gu Imortal separa exemplares como este em vez de descartá-lo
 (ded.).
 
 **Evolução.** Não citada pela obra na faixa mortal. Existe uma **versão imortal de rank 7**
-com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — mesmo
+com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — mesmo
 conceito em outra escala, não evolução por fusão.
 
 **Interações.** Fere a alma do alvo, o que significa que ele **estraga o que interroga**:
@@ -2622,7 +2622,7 @@ pode explorar para vencer a luta.
 efeito em escalas diferentes — é **faixa de rank**, não árvore.
 
 > [!warning] Divergência de rank com o catálogo plano
-> O [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o trio
+> O [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] registra o trio
 > "Djinn Heart / Body / Mind Gu" apenas como rank 4, que é o rank da cena do golpe fatal.
 > Mas o texto declara, noutra cena, **"rank três, djinn heart Gu, para fortalecer o
 > espírito"**. Os dois exemplares existem; a ficha aqui cobre a faixa inteira.
@@ -2967,7 +2967,7 @@ acima de 3), que guarda tempo em unidade de mês, e o **Year Gu**, que existe em
 mortais de um, dois e cinco anos — e que vira **imortal ao acumular dez anos**, único caso
 na obra em que a fronteira mortal/imortal de um Gu é definida por um **número acumulado** e
 não por refino. Existe também uma **versão imortal do Day Gu (rank 6)**, com ficha própria
-em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 **Interações.** É o **acelerador universal** do sistema: qualquer processo lento — um
 refino, a instalação de um fantasma de fera, a têmpera de um osso — encolhe se houver tempo
@@ -3573,7 +3573,7 @@ alteração de paisagem.
 
 **Evolução.** Não citada pela obra — os ranks 3, 4 e 7 coexistem com o mesmo mecanismo e o
 mesmo nome, mudando só o raio. É **faixa de rank**, não árvore. A versão imortal tem ficha
-própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 **Interações.** Interage com a regra mais estratégica do sistema: **território saturado por
 marcas de um caminho corta boa parte da potência de quem chega com marcas conflitantes** —
@@ -3938,7 +3938,7 @@ exemplares foi o número que o convenceu, e o serviço foi orçado em três pedr
 imortal.
 
 **Evolução.** Não citada pela obra. Existe uma **versão imortal** com ficha própria em
-[[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+[[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 **Interações.** Não é um Gu que se usa: é um Gu que se **gasta dentro de outro**. A
 interação relevante é com os **golpes** do caminho das estrelas, que o consomem aos
@@ -5207,11 +5207,11 @@ raio declarado (duzentos li).
 
 ## Notas relacionadas
 
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano de rank 1 a
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano de rank 1 a
   5, para procurar um nome sem saber o rank.
-- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as versões imortais dos Gu
+- [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as versões imortais dos Gu
   que aparecem aqui em duas escalas.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas propriamente ditas.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas propriamente ditas.
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a
   regra de que o campo "Interações" inteiro depende.
 - [[16 - Dao Marks|Dao Marks]] — a teoria das marcas.

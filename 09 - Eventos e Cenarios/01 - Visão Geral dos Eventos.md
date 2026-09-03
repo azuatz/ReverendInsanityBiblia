@@ -405,7 +405,7 @@ as regras do mundo — usáveis como pano de fundo em qualquer altura, mas escri
 - [[04 - As Cinco Regiões|As Cinco Regiões]] e
   [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]]
   — a geografia e as zonas de perigo onde a maioria destes eventos ocorre.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a cronologia;
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a cronologia;
   [[29 - Eventos Históricos de Fundo|Eventos Históricos de Fundo]] dá as causas.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos
   números do sistema**. Em caso de divergência com qualquer número citado aqui, aquela nota

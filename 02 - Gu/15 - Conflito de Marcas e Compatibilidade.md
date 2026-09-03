@@ -100,7 +100,7 @@ Vale registrar, porque muda o tom da mecânica inteira. O conflito de leis não 
 
 O exemplo documentado está nos contratos mágicos. Um Gu de juramento letal carrega a **lei da restrição** e permanece no corpo dos jurados restringindo-os; a marca fica invisível, à espera. Existe um segundo Gu que carrega a **lei oposta** e, por ser ligeiramente mais forte, força a marca de restrição a se manifestar e a extermina — quebrando o juramento sem punição nenhuma para quem o usou.
 
-Essa é exatamente a mesma regra ("a lei mais forte sobrescreve a mais fraca"), lida do outro lado. E ela é a razão de existir de uma família inteira de itens em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]: cada Gu de contrato tem, mais cedo ou mais tarde, um Gu que o anula, e esse tem o dele. Uma corrida armamentista jurídica movida por metafísica.
+Essa é exatamente a mesma regra ("a lei mais forte sobrescreve a mais fraca"), lida do outro lado. E ela é a razão de existir de uma família inteira de itens em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]: cada Gu de contrato tem, mais cedo ou mais tarde, um Gu que o anula, e esse tem o dele. Uma corrida armamentista jurídica movida por metafísica.
 
 ### O que a obra *não* diz
 
@@ -156,7 +156,7 @@ Na prática, o conflito de marcas aparece de quatro maneiras no cotidiano de que
 - [[16 - Dao Marks|Dao Marks]] — a teoria completa das marcas: como se ganham, como amplificam, por que não regeneram.
 - [[02 - O que é um Gu|O que é um Gu]] — a premissa de que todo Gu carrega um fragmento de lei.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **fonte soberana** dos números de ressonância, conflito e terreno hostil.
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — onde as incompatibilidades aparecem item a item, na coluna de desvantagem.
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — onde as incompatibilidades aparecem item a item, na coluna de desvantagem.
 - [[04 - Strength Path|Strength Path]] — o caminho que mais gera marcas e mais fecha portas.
 - [[14 - Space Path|Space Path]] — um dos dois caminhos que a obra nomeia como prejudicados pela força.
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — a lógica dos conjuntos de Gu e do alimento por caminho.

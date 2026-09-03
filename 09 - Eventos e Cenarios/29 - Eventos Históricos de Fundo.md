@@ -584,7 +584,7 @@ criaturas do mito são encontráveis, e obedecem às regras que o mito descreve.
 ## Relações
 
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — a nota-porta desta pasta.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — **a cronologia**; esta nota dá as
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — **a cronologia**; esta nota dá as
   causas, aquela dá as datas. As duas se leem juntas.
 - [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o corpo de mitos que funciona como documentação.
 - [[12 - Heranças e Provações|Heranças e Provações]] — a instituição da herança, cuja

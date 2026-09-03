@@ -31,7 +31,7 @@ O ponto de partida é uma pergunta simples que a maioria dos cenários de fantas
 responde: **de onde vêm as coisas?**
 
 Neste mundo a resposta é incomumente concreta. Um Gu não é forjado: ele é **cozinhado a
-partir de bichos, plantas, pedras e pessoas**, segundo uma [[06 - Catálogo de Receitas|receita]] que lista os
+partir de bichos, plantas, pedras e pessoas**, segundo uma [[12 - Catálogo de Receitas|receita]] que lista os
 ingredientes um a um. Isso significa que existe uma cadeia produtiva inteira por trás de
 cada item que os personagens compram — gente caçando, gente plantando, gente cavando,
 gente sendo vendida — e que essa cadeia é atacável, sabotável, monopolizável e
@@ -315,7 +315,7 @@ conquista o território dele.
 
 - [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]] — quanto custa cada coisa desta cadeia.
 - [[06 - Refino de Gu|Refino de Gu]] — o processo que consome tudo isto.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — que material entra em que Gu.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — que material entra em que Gu.
 - [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]] — a versão imortal da lavoura.
 - [[15 - Economia Imortal|Economia Imortal]] — pontos de recurso, monopólios e a praça onde tudo isso se vende.
 - [[06 - Mercados e Leilões|Mercados e Leilões]] — os balcões e leilões em que os lotes mudam de mãos.

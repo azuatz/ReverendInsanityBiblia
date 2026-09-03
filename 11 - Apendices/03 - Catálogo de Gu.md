@@ -21,8 +21,8 @@ juntos formariam um arquivo grande demais para consultar com conforto.
 
 | Nota | O que contém |
 |---|---|
-| [[04 - Catálogo de Gu - Mortais\|Catálogo de Gu - Mortais]] | Gu de rank 1 a 5, organizados por caminho. É o repertório do dia a dia: o que um personagem jogável realisticamente usa, compra, alimenta e perde. |
-| [[05 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] | Gu de rank 6 a 9, também por caminho, mais um bloco dedicado aos rank 9 e às Casas de Gu Imortais. É material de patamar sobrenatural: artefatos únicos no mundo inteiro. |
+| [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] | Gu de rank 1 a 5, organizados por caminho. É o repertório do dia a dia: o que um personagem jogável realisticamente usa, compra, alimenta e perde. |
+| [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] | Gu de rank 6 a 9, também por caminho, mais um bloco dedicado aos rank 9 e às Casas de Gu Imortais. É material de patamar sobrenatural: artefatos únicos no mundo inteiro. |
 
 ## Quantos Gu existem catalogados
 
@@ -103,7 +103,7 @@ consome, quando a obra informa. Um travessão (—) significa que a obra **não*
 aquele dado; nunca é invenção nossa.
 
 Sobre a marca ⭐, que costuma gerar dúvida: ela aparece **apenas no
-[[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]]**, prefixando o nome de cada Gu, e serve para lembrar a
+[[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]]**, prefixando o nome de cada Gu, e serve para lembrar a
 classe do item enquanto se percorre a lista. Como aquele catálogo é só de imortais,
 ela não distingue uma linha de outra — não procure significado extra nela, e não a
 espere no catálogo mortal, onde não é usada.
@@ -149,7 +149,7 @@ espere no catálogo mortal, onde não é usada.
 > hora de refinar**; até ali o falso passa por inspeção visual. O único aviso prévio é
 > o preço, e a vítima registrada pela obra não teve reparação nenhuma. As linhas destes
 > catálogos descrevem sempre o exemplar **autêntico** — o detalhe está no cabeçalho do
-> [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+> [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 > [!note] Quantos Gu um personagem carrega
 > Um Mestre Gu comum carrega **de três a cinco** Gu. A obra dá esse número
@@ -162,7 +162,7 @@ Para entender o que um Gu é antes de consultar as listas, comece por
 
 ## Notas relacionadas
 
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as duas listas.
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — as duas listas.
 - [[02 - O que é um Gu|O que é um Gu]] · [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] · [[06 - Refino de Gu|Refino de Gu]] — o que um Gu é,
   como se obtém e como se mantém.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — a referência correta para "quais caminhos existem",

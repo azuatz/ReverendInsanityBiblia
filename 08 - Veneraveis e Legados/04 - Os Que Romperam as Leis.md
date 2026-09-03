@@ -177,7 +177,7 @@ Vale enunciar, porque é o eixo da nota:
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — as quatro condições do rank 9, e a sorte inata que os dez tiveram.
 - [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]] — a instituição que passou um milhão de anos consertando o que Red Lotus quebrou; e Paradise Earth, o terceiro Venerável documentado lá.
 - [[16 - Dao Marks|Dao Marks]] — o atributo de progressão que a ocultação absoluta trava.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes dois viveu.
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — em que era cada um destes dois viveu.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — a fonte soberana dos números do sistema.
 
 [^1]: Duas coisas diferentes, que é fácil confundir. **Qual disciplina ele cultivava** a obra diz sem rodeios, e repete: o caminho do tempo, do qual ele foi o pico absoluto — os golpes dele, o Gu que carregava como vital e a herança que deixou são todos de tempo, e a maior instituição do mundo ficou fraca em especialistas de tempo por causa dele. **Quem criou aquela disciplina** é que a obra nunca diz: ao contrário de quase todas as outras, o caminho do tempo não tem fundador nomeado, e o vault registra isso como lacuna em vez de atribuí-la a ele por proximidade. Já a **especialidade** — o segundo caminho, secreto, que todo Venerável cultivava — nunca é declarada no caso dele.

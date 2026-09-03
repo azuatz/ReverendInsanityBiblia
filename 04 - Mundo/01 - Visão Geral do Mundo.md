@@ -147,5 +147,5 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 - [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] — as criaturas que são a magia deste cenário, e a razão pela qual a fauna e a geografia são assuntos econômicos.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e demoníaco: como os humanos se organizam dentro desta geografia.
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — as especializações de cultivo, várias delas com raízes geográficas e regionais.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a sequência histórica das eras nomeadas na regra 9, com o que mudou em cada uma.
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — a sequência histórica das eras nomeadas na regra 9, com o que mudou em cada uma.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema.** Sempre que uma nota desta pasta citar um número, é de lá que ele vem; em caso de divergência, aquela nota vence.

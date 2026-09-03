@@ -104,6 +104,6 @@ vigiá-lo, outro disparado para matá-lo.
 ## Relações
 
 - [[06 - Refino de Gu|Refino de Gu]] — a mecânica geral, e por que ela normalmente não tem garantias.
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra, incluindo as míticas.
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas nomeadas na obra, incluindo as míticas.
 - [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — o corpo de mitos de onde saiu esta receita, e por que ele é conhecimento popular.
 - [[05 - O Catalisador Fora da Receita|O Catalisador Fora da Receita]] — o outro lado da mesma moeda: receitas que evoluem para a frente.

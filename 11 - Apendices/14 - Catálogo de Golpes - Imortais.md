@@ -45,7 +45,7 @@ estão os exemplares nomeados.
 
 ## O que muda no patamar imortal
 
-Para quem já leu [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]], a diferença não é só de escala.
+Para quem já leu [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]], a diferença não é só de escala.
 São cinco mudanças estruturais, e vale internalizá-las antes de ler qualquer tabela.
 
 **1. Todo golpe imortal tem um Gu Imortal no núcleo.** Essa é a linha divisória
@@ -59,7 +59,7 @@ eleva junto todos os golpes construídos sobre ele, e por isso um golpe de rank 
 por mais refinado, quase não arranha uma existência de rank 8.
 
 **3. Um Gu Imortal, muitos golpes.** Como cada Gu Imortal é único no mundo (veja
-[[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]]), a prática normal é alimentar poucos Gu Imortais e
+[[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]]), a prática normal é alimentar poucos Gu Imortais e
 construir sobre cada um **um conjunto inteiro** de golpes — ataque, defesa,
 movimento, cura, investigação. O reverso é uma limitação dura: como o Gu é um só,
 **só um golpe daquele núcleo pode estar ativo por vez**. Quem usa o defensivo fica
@@ -1646,4 +1646,4 @@ só com golpes mortais.
 
 [^6]: Divergência de rank no *Angry Bird*. Uma faixa o registra explicitamente como golpe "de nível rank oito", criado pela usuária durante a recuperação de um acidente de cultivo; outra o agrupa com dois golpes de fogo classificando os três como **golpes de rank sete** que quase não afetam existências de rank 8. Registrado como 8 por ser a menção mais explícita e mais antiga; a leitura de rank 7 pode refletir o golpe visto por um observador de patamar superior.
 
-[^7]: Dois golpes célebres da mesma linhagem **não entram neste catálogo por serem mortais**, e vale registrar por quê, porque a ausência confunde. O **White Bone Chariot** aparece numa faixa marcado como rank 6, mas a descrição madura o classifica como golpe mortal — e como **o único golpe mortal de toda a história dos Gu Masters com poder ofensivo de um Gu Imortal**, o que é exatamente o motivo de sua fama. Ele está em [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]. Já as **Thirty-Eight Sealing Arts**, embora criadas por um Venerável, são executadas por grupos com Gu comuns e **não conseguem selar Gu Imortais** — são, portanto, um golpe de patamar mortal, por mais ilustre que seja sua origem.
+[^7]: Dois golpes célebres da mesma linhagem **não entram neste catálogo por serem mortais**, e vale registrar por quê, porque a ausência confunde. O **White Bone Chariot** aparece numa faixa marcado como rank 6, mas a descrição madura o classifica como golpe mortal — e como **o único golpe mortal de toda a história dos Gu Masters com poder ofensivo de um Gu Imortal**, o que é exatamente o motivo de sua fama. Ele está em [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]. Já as **Thirty-Eight Sealing Arts**, embora criadas por um Venerável, são executadas por grupos com Gu comuns e **não conseguem selar Gu Imortais** — são, portanto, um golpe de patamar mortal, por mais ilustre que seja sua origem.

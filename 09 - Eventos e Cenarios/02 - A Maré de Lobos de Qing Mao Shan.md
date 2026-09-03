@@ -348,7 +348,7 @@ Este é o leque estrutural, para a mesa escolher — não o que a obra registrou
 - [[04 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] — o
   acidente ambiental que, se der errado, **antecipa** uma maré de lobos.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e
-  [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — a hierarquia de
+  [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — a hierarquia de
   reis-fera e as espécies em campo.
 - [[02 - Clãs|Clãs]] — como uma vila-clã é governada, e o que são os salões de assuntos internos
   e externos.

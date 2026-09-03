@@ -15,7 +15,7 @@ conhecimento: segredo — o arsenal imortal é material de mestre. Um jogador de
 
 # Gu Imortais por Rank e Caminho
 
-Esta nota reorganiza o [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] na
+Esta nota reorganiza o [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] na
 ordem em que uma ficha de personagem precisa dele: **primeiro o rank, depois o caminho,
 depois a função em combate, e só então o Gu**. É a mesma matéria-prima, arrumada para
 quem está montando um personagem de topo e pergunta "o que existe no meu rank, dentro do
@@ -102,10 +102,10 @@ exemplar imortal cobre um deles — e o outro precisa ser servido por uma **mult
 mortais** do mesmo nome, atuando em paralelo no lugar dele. O mortal é fraco, mas é
 **múltiplo**, e nesse mundo múltiplo é uma propriedade que o único não tem.
 
-Esses pares estão mapeados no [[05 - Catálogo de Gu - Imortais|catálogo plano]] — são
+Esses pares estão mapeados no [[11 - Catálogo de Gu - Imortais|catálogo plano]] — são
 **28**, todos recíprocos (cada ficha aponta para a outra). Nas fichas abaixo, o campo
 **Interações** sempre registra quando existe contraparte mortal, com o link para
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ## Como ler a ficha
 
@@ -260,7 +260,7 @@ mais que qualquer quantia de dinheiro**.
 - **Interações:** com o **Time Anchor**, quebra a própria limitação nativa e passa a
   devolver um corpo à condição que tinha num **período específico** do passado, não apenas
   um instante atrás. A **versão mortal**, de rank 5, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e é bem mais limitada: só
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e é bem mais limitada: só
   afeta corpos humanos (não Gu) e **não pode ser usada no próprio dono**; a imortal pode.
 
 **⭐ Landscape As Before**
@@ -339,7 +339,7 @@ mais que qualquer quantia de dinheiro**.
 - **Interações:** é a base das versões imortais usadas nos golpes de tempo de uma era
   inteira, e faz par de escala com o **Month Gu** (escala mensal) e o **Year Gu** (escala
   anual). A **versão mortal**, de rank 3, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — e é o caso didático da regra
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — e é o caso didático da regra
   do único contra o múltiplo: quem tem o imortal continua precisando dos mortais para
   alimentar um segundo golpe simultâneo.
 
@@ -369,7 +369,7 @@ mais que qualquer quantia de dinheiro**.
 - **Interações:** o **Years Flow Like Water** (rank 8) o **produz** — mas a unicidade
   morde: enquanto o Year Gu imortal existir, nenhuma quantidade de essência fará outro Year
   Gu imortal nascer, só mortais. A **versão mortal** — a mesma criatura antes de acumular
-  dez anos — tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  dez anos — tem ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ### Caminho do espaço
 
@@ -465,7 +465,7 @@ tempo de vida e em energia mental é a norma, não a exceção.
 - **Como se obtém:** — a obra não registra a procedência do exemplar.
 - **Evolução:** — a obra não registra subida de rank.
 - **Interações:** a **versão mortal**, de rank 1 a 5, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]. O **Starlight Gu** aumenta
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]. O **Starlight Gu** aumenta
   enormemente a produção em série dos Gu mortais de pensamento-estrela, o que faz dos dois
   uma cadeia produtiva completa.
 
@@ -536,7 +536,7 @@ tempo de vida e em energia mental é a norma, não a exceção.
   contínuo enquanto a luta dura; e a forma dos pensamentos muda conforme os outros Gu do
   golpe (combinado com transformação, viram carapaças de tartaruga). A regra de escala
   citada no episódio vale para o sistema inteiro: **mil marcas de lei dobram o efeito**. A
-  **versão mortal** tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  **versão mortal** tem ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ### Caminho da alma
 
@@ -675,7 +675,7 @@ divide e vaza para quem estiver ligado a você.
   de alguém não muda quando o rosto muda. Está embutido como um dos núcleos da Casa
   **Cooking Luck Pot**, o que dá àquela Casa inspeção de sorte sem precisar de golpe. A
   **versão mortal**, de rank 1 a 5, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 **⭐ Luck Plan**
 
@@ -909,7 +909,7 @@ se o gargalo estiver na plataforma que as sustenta.
   como cada Gu Imortal é único, **quem quiser usar dois golpes que exigem Pulling Water ao
   mesmo tempo precisa de uma multidão de Gu mortais** para substituir o imortal num dos
   dois. A **versão mortal** tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e o dono do imortal precisa
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e o dono do imortal precisa
   mantê-la. Duas outras interações: um praticante de **constituição do caminho da força**
   ressoa com ele e libera **cento e trinta por cento** da potência normal, aprofundando o
   próprio entendimento do caminho a cada uso; e, apesar de oficialmente do caminho da
@@ -1297,7 +1297,7 @@ nível Gu Imortal" seria invenção.
 - **Como se obtém:** — a obra não registra a procedência do exemplar imortal.
 - **Evolução:** — a obra não registra.
 - **Interações:** a **versão mortal**, de rank 5, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — e a obra registra ali que
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — e a obra registra ali que
   existe **um veneno feito sob medida para neutralizá-la**, sem o qual o portador desaba de
   nível. É um dos raros casos de contramedida química a um Gu.
 
@@ -1322,7 +1322,7 @@ Imortais**.
 - **Como se obtém:** — a obra não registra a procedência.
 - **Evolução:** — a obra não registra subida de rank do exemplar imortal.
 - **Interações:** a **versão mortal**, de rank 1 a 5, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Cultivo e progressão
 
@@ -1431,7 +1431,7 @@ mais forte fica. Cresce com diversidade, não com volume.
   isso é possível: o que interessa ali não é o rank, é o **tipo de qi**. Pertence ao mesmo
   caminho do qi que o Atmosphere Gu mortal, e o refino converte um no outro. A **versão
   mortal**, de rank 3, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Suporte e infraestrutura
 
@@ -1603,7 +1603,7 @@ por caminhos hostis, o que os torna a escolha de quem opera longe de casa.
 - **Interações:** é o exemplo canônico do vault de que **um Gu Imortal sem o golpe certo não
   vale nada**: fora das mãos de um praticante de osso ele é peso morto, difícil de alimentar
   e impossível de usar. A **versão mortal**, de rank 3, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Ataque e controle — caminho do gelo
 
@@ -1751,7 +1751,7 @@ por caminhos hostis, o que os torna a escolha de quem opera longe de casa.
 - **Como se obtém:** — a obra não registra.
 - **Evolução:** — a obra não registra.
 - **Interações:** a **versão mortal**, de rank 1 a 4, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e produz **soldados-boneco de
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e produz **soldados-boneco de
   planta em massa** — de novo o par único × múltiplo: o imortal dá um negociador, os mortais
   dão um exército.
 
@@ -1772,7 +1772,7 @@ por caminhos hostis, o que os torna a escolha de quem opera longe de casa.
   comum nos ranks 1 e 2 e serve a Mestres Gu para erguer cidades. Ao chegar ao rank 6, volta
   a valer a unicidade: passa a existir um só no mundo.
 - **Evolução:** existe em toda a escada de ranks, do 1 ao 6; a **versão mortal** tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 - **Interações:** duas, e ambas notáveis. Primeira: a lama que ele produz é **material
   obrigatório para refinar outro exemplar dele** — o Gu fabrica o próprio insumo, e o terreno
   que ele arruinou vira minério valioso. Segunda: é a **contramedida direta** dos selos de
@@ -2254,7 +2254,7 @@ de topo do mundo.
 - **Evolução:** — a obra não registra.
 - **Interações:** é o irmão menor do **Devour Soul Gu**, e a obra formula a diferença numa
   frase: onde este **lê fragmentos**, aquele **confisca a alma inteira**. A **versão mortal**,
-  de rank 3, tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  de rank 3, tem ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Controle e captura
 
@@ -2473,7 +2473,7 @@ de topo do mundo.
   nenhuma e é furtiva**, e só no instante do disparo explode uma aura extraordinária — o alvo
   tenta desviar e normalmente não consegue. É o Gu de "imposto sobre a ação": não tira poder
   do alvo, **encarece cada coisa que ele faz**. A **versão mortal**, de rank 4, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ### Caminho da transformação
 
@@ -2520,7 +2520,7 @@ de topo do mundo.
   e ainda assim compor um golpe imortal. Quem refinou antes uma "alma de dragão" com o dragon
   soul Gu obtém **bônus** ao usar Dragon Scales, Dragon Strength e Dragon Travel. A **versão
   mortal** — a que aparece aos milhares nos golpes de transformação — tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ### Caminho da regra
 
@@ -3127,7 +3127,7 @@ de topo do mundo.
 - **Evolução:** — a obra não registra subida de rank.
 - **Interações:** a **linhagem mortal**, que a obra descreve como "um número imenso de Edge Gu
   mortais" num mesmo terreno e à qual nunca atribui rank, tem ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Cura e sobrevivência — caminho da água
 
@@ -3166,7 +3166,7 @@ de topo do mundo.
 - **Como se obtém:** — a obra não registra a procedência do exemplar imortal.
 - **Evolução:** — a obra não registra subida do exemplar imortal.
 - **Interações:** as **versões mortais** de rank 3 e 4 têm ficha em
-  [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e o uso delas é institucional e
+  [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e o uso delas é institucional e
   cotidiano: muitas aldeias da Fronteira Sul, mesmo sem nenhuma especialização no caminho da
   terra, tratam como prioridade conseguir um Territory Gu de rank 3 ou 4 e plantá-lo no solo
   da aldeia. **O mesmo Gu serve à aldeia e ao império** — só muda a escala.
@@ -3516,7 +3516,7 @@ mercado, que um Gu de rank 6 de um caminho comum.
   imortais de impurezas — com a sequela de deixar qi fantasma no material, que precisa ser
   removido depois por uma chama imortal. É também um dos quatro componentes principais do
   golpe imortal de rank 8 **Emperor Yama** — que é um golpe, não um Gu; ver
-  [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
+  [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
 
 #### Alteração do mundo
 
@@ -4308,7 +4308,7 @@ no núcleo é o que mais se aproxima disso.
   ninguém tenha completado a coleção.
 - **Evolução:** é **a evolução final do mesmo Liquor Worm de rank 1** que um praticante
   iniciante alimenta com vinho barato — a cadeia mais longa e mais humilde do catálogo. A
-  **versão mortal** tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+  **versão mortal** tem ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 - **Interações:** aparência do vinho perdido, como amostra do gênero: **vermelho, e ao romper o
   lacre o cheiro explode como uma chama violenta**, com o vapor se juntando sobre o barril como
   uma nuvem brilhante de fogo. Para a mesa, este Gu é uma campanha inteira: oito objetos, um
@@ -4633,7 +4633,7 @@ escala mensal: é a **peça suplementar do golpe que faz um mês dentro da abert
 o equivalente a um ano**, dispensando as pilhas de Month Gu mortais. Fora disso, a obra **não
 descreve mecanismo próprio**. *Alimentação:* água do Rio do Tempo. *Interações:* a **versão
 mortal** (de rank acima de 3) tem ficha em
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Suporte e infraestrutura
 
@@ -4791,7 +4791,7 @@ consome e se expande a partir da fundação de alma do usuário, **continuamente
 interrompido por **ataque direto**. *Interações:* é a peça central do conjunto de equipamento da
 alma, com o **Soul Shaking Flag** e o **Soul Shackle**; e é um dos quatro componentes principais
 do golpe imortal de rank 8 **Emperor Yama** — que é um golpe, não um Gu; ver
-[[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
+[[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
 
 #### Ataque
 
@@ -4819,7 +4819,7 @@ ela se desfaz numa poça de sangue.** Esse é o efeito da **versão mortal de ra
 a obra descreve; do exemplar imortal ela registra só a existência. *Alimentação:* sangue em
 grande volume `*`. *Como se obtém:* **recuperada por uma força regional**. *Interações:* a
 **versão mortal** (rank 5) tem ficha em
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 **⭐ Blood Skull Gu** — **voa até um cadáver e suga todo o sangue dele pelas duas órbitas
 vazias**; as listras do crânio vão ficando mais vivas conforme enche, até o Gu bater no próprio
@@ -4828,7 +4828,7 @@ uma fonte de sangue já purificado dentro da abertura do dono**, e é isso que *
 dele. *Como é:* **caveira de cristal com listras de sangue**. *Alimentação:* **sangue de
 parentes** — só o de parentes serve, e **o custo está na alimentação: é matar a própria
 família**. *Interações:* a **versão mortal** (rank 4) tem ficha em
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e a obra registra ali uma **versão
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e a obra registra ali uma **versão
 de rank 5 desenvolvida depois** que atinge o mesmo fim exigindo apenas **extrair** sangue dos
 parentes em vez de matá-los — prova canônica de que **uma receita pode ser reprojetada para
 baratear o custo moral**.
@@ -5277,7 +5277,7 @@ Um Gu Imortal passou a vida tentando refiná-la, **falhou mais de cem vezes** e 
 dedução própria, uma **receita mortal de substituto**. *Interações:* aparece como **material
 suplementar em receitas de Gu Imortal** — e, quando falta, um exemplar mortal pode substituí-lo,
 ao custo de o substituto **só render material de rank 5**. A **versão mortal**, de rank 5, tem
-ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Cultivo e progressão
 
@@ -5289,7 +5289,7 @@ inferior só às dez constituições extremas e **sem nenhum dos defeitos delas*
 **atos de bondade**. *Evolução:* aqui o refino **não é um evento, é o comportamento do usuário**
 — é o único Gu do catálogo cujo processo de fabricação é **uma vida inteira de conduta**.
 *Interações:* a **versão mortal**, sem rank declarado, tem ficha em
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Apenas nomeado
 
@@ -5344,7 +5344,7 @@ simples: ativado, **o alvo desmaia** — subir no palco, acionar o Gu, vencer. N
 o **núcleo de um golpe de campo de neblina que rouba Gu Imortais e desacelera o pensamento de
 quem está dentro** — as duas coisas ao mesmo tempo. *Alimentação:* névoa condensada e essência
 imortal `*`. *Interações:* a **versão mortal** (ranks 2 e 5) tem ficha em
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]; a de rank 5 solta **centenas** de
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]; a de rank 5 solta **centenas** de
 fantasmas simultâneos onde a de rank 2 solta um.
 
 #### Suporte e infraestrutura
@@ -5449,7 +5449,7 @@ natural do **Ice Heart**.
 abençoadas**. *Alimentação:* luz solar direta, em exposição longa `*`. *Desvantagem:* **três usos
 por mês** — passar disso e **o Gu se autodestrói**. E **não tem ataque próprio**: é o núcleo de
 três golpes lendários, e **nada sozinho**. *Interações:* existe também uma **versão mortal**, de
-rank 5, com ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], onde é o segundo
+rank 5, com ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], onde é o segundo
 estágio do maior golpe de luz conhecido.
 
 **⭐ Sight Light Gu** — **dispara um raio pelos olhos que fica mais forte quanto maior a distância
@@ -5478,7 +5478,7 @@ aparência de **broto de feijão**. *Alimentação:* grandes quantidades de **al
 que cresce em abundância num lago específico. *Interações:* quem o tem **deixa de comprar o Gu
 mortal correspondente e passa a fabricá-lo** — e a **versão do golpe que circula no mercado é uma
 edição simplificada, cortada de propósito** por quem detém o exemplar imortal. A **versão mortal**
-(rank 3) tem ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+(rank 3) tem ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 #### Alteração do mundo — caminho da madeira
 
@@ -6315,7 +6315,7 @@ não os confirma**.
 
 Uma linha por Gu, na mesma ordem das seções. A coluna **Notas** traz a escada de rank
 quando a obra registra uma, e marca `par mortal` quando existe contraparte de rank 1 a 5
-com ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — são os 28 pares
+com ficha em [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — são os 28 pares
 recíprocos, e lembre que **ter o imortal não dispensa o mortal**.
 
 ### Rank 6
@@ -6616,15 +6616,15 @@ recíprocos, e lembre que **ter o imortal não dispensa o mortal**.
 
 ## Notas relacionadas
 
-- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o mesmo material organizado por
+- [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o mesmo material organizado por
   caminho, em tabela, com as colunas de alimentação, uso e peculiaridade
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu de rank 1 a 5, e a outra
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu de rank 1 a 5, e a outra
   metade dos 28 pares
 - [[16 - Gu Imortais|Gu Imortais]] — o que muda no rank 6, a regra de unicidade, a trava de
   autodestruição e os quatro gargalos da escassez
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que
   dois Gu de caminhos opostos se atrapalham, e a lista completa dos pares que a obra nomeia
-- [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — os golpes montados sobre
+- [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — os golpes montados sobre
   estes Gu, inclusive o Emperor Yama
 - [[06 - Refino de Gu|Refino de Gu]] · [[16 - Dao Marks|Dao Marks]] ·
   [[15 - Essência Imortal|Essência Imortal]] · [[13 - Blessed Lands e Grotto-Heavens|Terra Abençoada]]
@@ -6654,7 +6654,7 @@ chão é firme.
 
 ### Cobertura contra o catálogo plano
 
-O [[05 - Catálogo de Gu - Imortais|catálogo plano]] tem **273 entradas**: 270 marcadas com ⭐ e 3
+O [[11 - Catálogo de Gu - Imortais|catálogo plano]] tem **273 entradas**: 270 marcadas com ⭐ e 3
 em itálico (o par *Instant / That Time* e os dois rumores de rank 10). A varredura foi feita por
 diferença de nomes, entrada a entrada, e **nenhuma ficou para trás em silêncio**. Das 270 entradas
 com ⭐:
@@ -6673,7 +6673,7 @@ com ⭐:
 nota como ficha**. Ele foi verificado no texto-fonte: seus "quatro componentes principais" são
 **dois golpes** (ghostly concealment e ghost official garment) e **dois Gu Imortais** (Soul Beast
 Token e Myriad Self). O lugar dele é o
-[[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]], onde já está.
+[[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]], onde já está.
 
 Boa notícia da varredura: **o catálogo plano de Gu Imortais já não o traz** — a correção foi feita
 antes desta nota. Ele aparece corretamente apenas no catálogo de golpes. As duas fichas desta nota
@@ -6703,7 +6703,7 @@ diferença estrutural anunciada na abertura.
 ### Os 28 pares mortal × imortal
 
 Estão todos marcados na tabela-resumo e no campo **Interações** da ficha correspondente, com link
-para [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e são recíprocos (a ficha mortal
+para [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e são recíprocos (a ficha mortal
 aponta de volta). São eles: **Year, Day, Month, Man As Before, Star Thought, Vajra Thought, Soul
 Search, Blood Skull, Blood Handprint, Luck Inspection, Pulling Water, Expend Strength, Dragon
 Scales, Justice, Accumulate Virtue, Wealth, Slavery, Beast Enslavement, Sneak Attack, Strength Qi,
@@ -6761,7 +6761,7 @@ Tudo está marcado no corpo da nota; aqui fica o mapa de onde a marcação se co
 
 - **Os golpes imortais.** Muitas fichas descrevem o golpe montado sobre o Gu, porque sem ele o Gu
   não faz sentido — mas o catálogo dos golpes é outro documento, o
-  [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
+  [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
 - **A economia do mercado imortal.** Preços, leilões, empréstimos e a exigência de pagamento em Gu
   de caminho convencional aparecem nas fichas onde a obra os dá, mas o tratamento sistemático está
   em [[15 - Economia Imortal|Economia Imortal]] e [[06 - Mercados e Leilões|Mercados e Leilões]].

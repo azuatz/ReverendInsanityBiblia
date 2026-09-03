@@ -207,10 +207,10 @@ tem como saber. Em uma mesa de jogo, é material de mestre.
 
 As notas acima explicam **como o sistema funciona**. Quando a pergunta virar "e o que existe,
 concretamente?", a resposta está nos apêndices: [[03 - Catálogo de Gu|Catálogo de Gu]] lista os bichos
-documentados, [[06 - Catálogo de Receitas|Catálogo de Receitas]] reúne o que a obra conta sobre como cada um é
+documentados, [[12 - Catálogo de Receitas|Catálogo de Receitas]] reúne o que a obra conta sobre como cada um é
 fabricado e as cadeias de evolução que ligam um ao seguinte, e os golpes prontos estão
-separados por patamar em [[07 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] (ranks 1 a 5) e
-[[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] (ranks 6 a 9).
+separados por patamar em [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]] (ranks 1 a 5) e
+[[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] (ranks 6 a 9).
 
 ## Relações
 

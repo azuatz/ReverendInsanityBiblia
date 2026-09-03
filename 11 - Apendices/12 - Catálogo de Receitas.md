@@ -161,7 +161,7 @@ dezenas. O silêncio é a regra, não a exceção.
 
 # Receitas de Gu mortais
 
-Os Gu de rank 1 a 5 são o repertório do dia a dia — ver [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]
+Os Gu de rank 1 a 5 são o repertório do dia a dia — ver [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]]
 para o que cada um faz. Aqui interessa só como cada um é produzido.
 
 Quase toda receita mortal é uma **fusão**. O procedimento geral é sempre o mesmo e
@@ -1032,7 +1032,7 @@ Gu Imortal de rank 6; a maioria dos de rank 7 passa a vida atrás de um; e é
   qualquer fusão.
 - [[07 - Fusão de Gu|Fusão de Gu]] — o procedimento geral que quase toda receita mortal instancia.
 - [[08 - Refinement Path|Refinement Path]] — o caminho de cultivo especializado em fabricação.
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o que cada Gu faz.
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] e [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o que cada Gu faz.
 - [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]] — o evento que distribui as marcas de sucesso.
 - [[12 - Heranças e Provações|Heranças e Provações]] — o formato em que as melhores receitas circulam.
 - [[06 - Mercados e Leilões|Mercados e Leilões]] — onde as receitas são compradas e vendidas.

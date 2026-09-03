@@ -23,11 +23,11 @@ primeiro o **caminho** (a escola de cultivo), depois a **categoria funcional** (
 movimento, e assim por diante) e só então o Gu.
 
 Os Gu dos outros ranks estão nos catálogos irmãos desta mesma pasta —
-[[11 - Gu de Rank 1|rank 1]], [[12 - Gu de Rank 2|rank 2]], [[13 - Gu de Rank 3|rank 3]] e
-[[14 - Gu de Rank 4|rank 4]]. Acima deste rank não há mais catálogo mortal: começa o
-[[16 - Gu Imortais por Rank e Caminho|catálogo dos Gu Imortais]], que obedece a outras regras. O
+[[04 - Gu de Rank 1|rank 1]], [[05 - Gu de Rank 2|rank 2]], [[06 - Gu de Rank 3|rank 3]] e
+[[07 - Gu de Rank 4|rank 4]]. Acima deste rank não há mais catálogo mortal: começa o
+[[09 - Gu Imortais por Rank e Caminho|catálogo dos Gu Imortais]], que obedece a outras regras. O
 catálogo geral, plano e sem hierarquia, continua sendo o
-[[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
+[[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]].
 
 ## O que é o rank 5
 
@@ -527,7 +527,7 @@ caríssima (ded.).
 **Como se obtém.** **Espólio**: saqueado do cadáver de um velho Mestre Gu do caminho do metal,
 junto com o conjunto inteiro que ele levou a vida toda acumulando — o mesmo conjunto de onde vêm
 o `Golden Dragon Gu`, o `Golden Coat Gu`, o `Golden Aurora Gu` e o `Golden Breeze Gu` do
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Evolução.** Não citada pela obra.
 
@@ -801,7 +801,7 @@ caríssima (ded.).
 
 **Evolução.** Não citada pela obra — é **série de ranks**, existindo em rank 4 e rank 5 com o
 mesmo nome, sem fusão descrita entre os degraus. Ele tem ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Depende de luz solar disponível para colher (ded.). É o alimentador dos dois Gu
 seguintes.
@@ -825,7 +825,7 @@ ataque.
 **Como se obtém.** —
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal** do mesmo conceito, com
-ficha própria em [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela
+ficha própria em [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela
 **não é a evolução desta**: é o mesmo conceito instanciado noutra escala, como acontece com
 dezenas de Gu do sistema.
 
@@ -906,7 +906,7 @@ estranhas e quase sem plantas. O local é um ponto de recurso de porte médio de
 cercado por uma formação imortal e guardado por um Gu Imortal de rank 6.
 
 **Evolução.** Não citada pela obra: é série de ranks natural. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Ele é **infraestrutura**, não arma: transforma um território num criadouro de Gu de
 fogo. É a explicação mecânica de por que certos lugares do mundo produzem certos Gu.
@@ -1325,7 +1325,7 @@ própria (ded.).
 mercado**.
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal** do mesmo conceito, com
-ficha própria em [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela não
+ficha própria em [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela não
 é a evolução desta.
 
 **Interações.** **Morte sem exceção declarada** para qualquer ser vivo que tenha sangue é uma
@@ -1437,7 +1437,7 @@ neste mundo, uma receita pode ser reprojetada para **baratear o custo moral** de
 **elevar o blood skull Gu a Gu Imortal** para poder usá-lo em si mesmo — e concluiu que precisaria da
 **receita de Gu Imortal** dele, que exigiria muito tempo e esforço. Ou seja: mesmo com a energia da
 ascensão, **um Gu de rank 5 sem receita imortal conhecida não atravessa**. Existe também uma versão
-imortal, com ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]].
+imortal, com ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]].
 
 ---
 
@@ -1598,7 +1598,7 @@ própria alma**: falhar em subjugar a alma-lobo é falhar dentro de si mesmo.
 **Como se obtém.** Refino que consome a alma de um lobo-imperador.
 
 **Evolução.** Não citada pela obra: é série de ranks, com receita própria por degrau. Ficha também
-no [[14 - Gu de Rank 4|catálogo de rank 4]].
+no [[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Faz par quase obrigatório com o `Impermanence Bone Gu` de rank 4, que **aumenta o
 teto de alma que o corpo suporta** — uma alma maior precisa de um recipiente mais firme, e a obra
@@ -1744,7 +1744,7 @@ basta para escravizar anciãos de um povo variante — mas a versão de rank 5 �
 grandeza.
 
 **Evolução.** Não citada pela obra: é série de ranks. A obra registra uma **versão imortal de rank
-6**, com ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
+6**, com ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
 evolução desta.
 
 **Interações.** **Distrair o alvo contorna a resistência dele**, o que torna o `Contact Heart Gu`
@@ -1875,7 +1875,7 @@ parte da mão de obra**. Reduzir essa mortalidade depende de elevar o domínio d
 de quem produz.
 
 **Evolução.** Não citada pela obra: é série de ranks. A obra registra uma **versão imortal de rank
-6**, com ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
+6**, com ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
 evolução desta.
 
 **Interações.** Ele é o **único tipo de pensamento que a obra mostra funcionando também como ataque
@@ -1978,7 +1978,7 @@ com o cadáver de uma fera antiga que valia várias centenas de pedras de essên
 receita, é **produzível em massa** em ninhos de pedra por trabalhadores refinadores.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Para um Mestre Gu Imortal, com essência primordial ilimitada, **ativar grandes
 quantidades destes é a opção de melhor custo-benefício** — muito mais barata do que gastar essência
@@ -2002,7 +2002,7 @@ comprada em leilão. Produzido em massa em ninho de pedra e **ainda assim insufi
 a luz da sabedoria.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** É a **única forma descrita na obra de recuperar memórias vagas ou perdidas com
 nitidez** — item de investigação, não de combate.
@@ -2027,7 +2027,7 @@ a obra frisa que os pensamentos produzidos pelo exemplar mortal têm **qualidade
 original, mudando só a quantidade — é o **substituto acessível de um Gu Imortal** (ded.).
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal de rank 6** com ficha
-própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]], que não é a evolução desta.
+própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]], que não é a evolução desta.
 
 **Interações.** A propriedade mais valiosa dele é operacional: os pensamentos são **reabsorvíveis na
 mente a qualquer instante, sem custo aparente** — desliga-se a defesa instantaneamente. E ele serve
@@ -2174,7 +2174,7 @@ do mecanismo descrito no começo desta nota: a travessia acontece na ascensão, 
 sobra dela.
 
 A **versão imortal**, de rank 6 e depois 7, tem ficha própria em
-[[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela é **ressurreição de
+[[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela é **ressurreição de
 fato**: revive uma pessoa morta a partir de uma única parte preservada do corpo, e **pode ser usada
 no próprio dono**, ao contrário desta. As duas restrições da versão mortal caem na travessia.
 
@@ -2255,7 +2255,7 @@ Preço de saída no leilão: vinte e duas pedras de essência imortal; arrematad
 considerado "no teto" pelos presentes.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** A obra registra uma tentativa fracassada que vale como regra: alguém quis usá-lo **no
 lugar do próprio tempo de vida** para pagar o preço de um golpe imortal. Os dois **podem** ser
@@ -2712,7 +2712,7 @@ como se compra papel. E a obra registra um detalhe econômico ótimo: numa corri
 demanda súbita fez o preço dele **triplicar de um dia para o outro**.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Ver [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]].
 
@@ -2737,7 +2737,7 @@ rank 5 mudou de mãos por **seiscentas e setenta mil pedras primordiais** num le
 valor de leilão registrado na obra.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** Ele é a **infraestrutura do mercado de receitas**. Ver [[06 - Refino de Gu|Refino de
 Gu]].
@@ -2903,7 +2903,7 @@ inimigos.
 Gu que pertencia a outra pessoa, com a cooperação do dono original acelerando o trabalho.
 
 **Evolução.** Não citada pela obra: é série de ranks. Ficha também no
-[[14 - Gu de Rank 4|catálogo de rank 4]].
+[[07 - Gu de Rank 4|catálogo de rank 4]].
 
 **Interações.** **Vários podem ser usados simultaneamente** — três de uma vez, junto com uma flauta.
 É a ponte entre o [[13 - Sound Path|caminho do som]] e o da escravização: a música é o veículo de
@@ -2983,7 +2983,7 @@ nos ranks 3 e 4.
 
 **Evolução.** Não citada pela obra: existe em todos os ranks mortais como Gu natural. A **versão
 imortal de rank 6** pega o mesmo efeito e o **vira do avesso**, apodrecendo montanhas por dentro — e
-tem ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]].
+tem ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]].
 
 **Interações.** Ele é o **Gu de rank 5 mais fácil de conseguir do mundo**, e a obra registra a
 consequência disso com todas as letras: como Gu de rank 5 são raríssimos, **muitos Mestres Gu de rank
@@ -3515,7 +3515,7 @@ usou (ded.).
 (ded.).
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal** do mesmo conceito, com
-ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução
+ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução
 desta.
 
 **Interações.** A propriedade que faz dele um pesadelo: **cada fantasma é velocíssimo e oculto, e
@@ -3643,7 +3643,7 @@ própria retidão**. Quem duvida de si mesmo simplesmente não consegue usá-lo.
 **Como se obtém.** —
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal de rank 6**, com ficha própria
-no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução desta.
+no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução desta.
 
 **Interações.** Ele **compõe com a série Soldado / Sargento / Tenente / Capitão um golpe combinado de
 comando**, sendo o núcleo dele. E pertence à mesma categoria rara do `Righteous Gu` de rank 4 e do
@@ -3683,7 +3683,7 @@ dúzia de exemplares** e recusava vender o lote inteiro a um só comprador — p
 permitiria **deduzir de volta a receita** e criar um concorrente.
 
 **Evolução.** Não citada pela obra. A obra registra a **versão imortal**, o exemplar lendário do mito
-fundador, com ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
+fundador, com ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a
 evolução desta, e sim o original de que esta é uma imitação deduzida.
 
 **Interações.** Ele é **dinheiro líquido universal no patamar mortal**, e a política de vendas dele é
@@ -4215,7 +4215,7 @@ próprio Gu** e dói nos olhos de quem olha, e que num ambiente de tribulação 
 **Como se obtém.** Família mortal completa, de rank 1 a 5.
 
 **Evolução.** Não citada pela obra: é série de ranks. A obra registra uma **versão imortal de rank 6**,
-com ficha própria no [[16 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução
+com ficha própria no [[09 - Gu Imortais por Rank e Caminho|catálogo imortal]] — que não é a evolução
 desta.
 
 **Interações.** Ele **lê um atributo que nenhum outro Gu revela**, e que decide o destino de campanhas
@@ -4613,12 +4613,12 @@ razoável. A dúvida fica registrada aqui em vez de ser decidida por nós.
 
 ## Relações
 
-- [[14 - Gu de Rank 4|Gu de Rank 4]] — o degrau abaixo, e a origem das poucas rotas que chegam aqui.
-- [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — o que existe do outro lado
+- [[07 - Gu de Rank 4|Gu de Rank 4]] — o degrau abaixo, e a origem das poucas rotas que chegam aqui.
+- [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — o que existe do outro lado
   da travessia, e as fichas dos Gu Imortais citados neste catálogo.
 - [[14 - Ascensão Imortal|Ascensão Imortal]] — o rito que decide se um Gu de rank 5 morre com o dono ou
   atravessa com ele. **Leitura obrigatória antes de usar o campo "Evolução" desta nota.**
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano, para procurar um nome
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o catálogo plano, para procurar um nome
   sem saber o rank.
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — a regra inteira
   por trás do campo "Interações".

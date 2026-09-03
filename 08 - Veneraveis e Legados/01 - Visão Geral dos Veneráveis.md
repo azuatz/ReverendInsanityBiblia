@@ -138,7 +138,7 @@ Vale registrar um terceiro estado, o mais raro: **uma era em que os métodos dei
 
 Esta é a **lista completa e consultável** dos dez, para não ser preciso abrir as três
 notas temáticas só para saber quem são. Estão em **ordem de era**, da mais antiga para a
-mais recente; as eras em si estão descritas em [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]]. A coluna
+mais recente; as eras em si estão descritas em [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]. A coluna
 "Onde ler" diz em qual nota desta pasta está a ficha de cada um — as fichas são
 agrupadas por **tipo de legado**, e não uma por Venerável, porque é o legado que
 interessa ao design, não a biografia.
@@ -200,7 +200,7 @@ ninguém.
 
 - [[19 - Tornar-se Venerável|Tornar-se Venerável]] — **a fonte única** sobre as quatro condições, o bloqueio celestial e o Dao Lord. Esta nota resume; aquela decide.
 - [[01 - Visão Geral do Mundo|Visão Geral do Mundo]] — o cenário que estes dez remodelaram.
-- [[10 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — as eras da coluna 3 da tabela dos dez, e o que nasceu em cada uma.
+- [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]] — as eras da coluna 3 da tabela dos dez, e o que nasceu em cada uma.
 - [[19 - Tribunal Celestial|Tribunal Celestial]] — a instituição fundada por Veneráveis e habitada pelas aberturas de três deles.
 - [[15 - Vontade dos Céus|Vontade dos Céus]] — a lei que todo Venerável precisou romper para chegar onde chegou.
 - [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] — a mitologia que os dez, sem exceção, leram como documento técnico.

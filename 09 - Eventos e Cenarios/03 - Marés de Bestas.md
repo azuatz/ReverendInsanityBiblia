@@ -294,7 +294,7 @@ maré, o que é uma campanha inteira do lado de lá.
   com calendário, aliança e placar.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis: rei de cem
   bestas, rei de mil bestas, rei de miríade de bestas, imperador-fera.
-- [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as espécies nomeadas.
+- [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as espécies nomeadas.
 - [[07 - Enslavement Path|Enslavement Path]] — o caminho de cultivo que transforma uma maré em arma.
 - [[12 - As Terras Ferozes e o Subsolo do Mundo|As Terras Ferozes e o Subsolo do Mundo]] — onde a
   maré deixa de ser um inimigo e vira clima.

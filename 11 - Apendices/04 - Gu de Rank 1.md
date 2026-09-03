@@ -20,7 +20,7 @@ conhecimento: comum — quase tudo nesta nota é o cotidiano de qualquer Mestre 
 
 Esta nota é o primeiro dos catálogos organizados **por rank**. A hierarquia dela foi montada para ser lida como a ficha de um personagem: **rank → caminho → função → Gu**. Se você quiser montar um praticante iniciante do caminho da lua especializado em ataque, você desce por `Rank 1 → Linhagem lunar → Ataque` e encontra o Moonlight Gu com tudo que a obra diz sobre ele, inclusive em que ele se transforma quando o personagem chegar ao rank 2.
 
-O [[04 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] continua sendo o inventário completo, com todos os ranks misturados numa tabela por caminho. Esta nota é a **fatia jogável** dele: só o rank 1, com cada Gu aberto em ficha, com evolução e com interações.
+O [[10 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] continua sendo o inventário completo, com todos os ranks misturados numa tabela por caminho. Esta nota é a **fatia jogável** dele: só o rank 1, com cada Gu aberto em ficha, com evolução e com interações.
 
 ---
 
@@ -487,7 +487,7 @@ A família mais importante do grupo é a dos **Gu de pele** (*Skin Gu*): Beast S
 - **Dieta.** Capim fresco, em fardos `*`.
 - **Desvantagem.** No rank 1 os bonecos não servem para combate. E o custo é contínuo: enquanto a tropa estiver de pé, a essência escorre.
 - **Como se obtém.** Um boneco montado sai por menos de **1,5 pedra primordial**, essência já incluída — é item de consumo de academia.
-- **Evolução.** Não citada como fusão. É uma **faixa de rank do mesmo Gu** (rank 1 a 4), em que o que muda é a **magnitude**: no rank 4, uma dúzia de soldados-de-casca-de-cipó se funde, sob comando, no **Grass Sword Elite Soldier**, soldado de elite que segura de pé a investida de uma matilha inteira. Existe também uma versão **imortal** de rank 6, com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+- **Evolução.** Não citada como fusão. É uma **faixa de rank do mesmo Gu** (rank 1 a 4), em que o que muda é a **magnitude**: no rank 4, uma dúzia de soldados-de-casca-de-cipó se funde, sob comando, no **Grass Sword Elite Soldier**, soldado de elite que segura de pé a investida de uma matilha inteira. Existe também uma versão **imortal** de rank 6, com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 - **Interações.** A matéria-prima é **gratuita e ilimitada** onde houver capim — e inexistente onde não houver. É o Gu que transforma o **terreno** em recurso de combate, e o contra dele é escolher onde lutar. Ver [[09 - Formações de Gu|Formações de Gu]] e [[10 - Como Funciona um Combate|Como Funciona um Combate]].
 
 ### Cura
@@ -638,7 +638,7 @@ O caminho que transforma bestas e pessoas em recursos. Duas regras estruturais v
 - **Dieta.** Não informada; a escala vai de poucos em poucos dias no rank 1 a um ou dois anos no rank 5 `(ded.)`.
 - **Desvantagem.** Caro e raro. E o rank do Gu **fixa o rank máximo do alvo** que ele consegue prender — um Slavery Gu de rank 1 não segura ninguém acima de rank 1.
 - **Como se obtém.** Um Mestre de rank 3 consegue refinar a versão de rank 3, que já basta para escravizar anciãos de um povo variante.
-- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5), mais uma versão **imortal** de rank 6 com ficha em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+- **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5), mais uma versão **imortal** de rank 6 com ficha em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 - **Interações.** É o Gu que define o teto moral do caminho: na versão de rank 5, escraviza um Mestre Gu de rank 5 inteiro. No rank 1, é uma ameaça de mesa perfeitamente calibrada — funciona só contra pares, e por isso é uma arma de conflito entre iguais, não de dominação de cima para baixo.
 
 ### Suporte
@@ -679,7 +679,7 @@ O caminho mais estranho do sistema, e o mais interessante para desenho de jogo, 
 - **Desvantagem.** **Uso único**: consumido no ato da transmissão. E a capacidade é limitada pelo rank `(ded.: é preciso rank alto para uma receita complexa — daí usarem um rank 4 para a receita de uma flor lendária)`.
 - **Como se obtém.** Comprado. É a **embalagem padrão de receitas** no comércio de Gu: quem vende refina o Gu já com a receita dentro, e o comprador o consome sem precisar refinar de novo. Foi assim que uma receita de rank 5 mudou de mãos por **670.000 pedras primordiais** num leilão de clã.
 - **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5), com um coração branco a mais por rank.
-- **Interações.** É a peça que faz o **mercado de receitas** existir. Um Heart Engraved Gu de rank 1 na mão de um personagem é um envelope lacrado: ele sabe que há informação ali, sabe quanto ela cabe (um coração = pouco), e só descobre o conteúdo gastando o Gu. Ver [[06 - Catálogo de Receitas|Catálogo de Receitas]] e [[06 - Mercados e Leilões|Mercados e Leilões]].
+- **Interações.** É a peça que faz o **mercado de receitas** existir. Um Heart Engraved Gu de rank 1 na mão de um personagem é um envelope lacrado: ele sabe que há informação ali, sabe quanto ela cabe (um coração = pouco), e só descobre o conteúdo gastando o Gu. Ver [[12 - Catálogo de Receitas|Catálogo de Receitas]] e [[06 - Mercados e Leilões|Mercados e Leilões]].
 
 ### Combustível de dedução
 
@@ -1290,7 +1290,7 @@ Ordenada por caminho, na mesma ordem das seções acima. A coluna **Evolução**
 
 ## Notas de montagem
 
-**O que foi catalogado.** **Setenta e cinco fichas**, cobrindo **setenta e sete nomes de Gu** — a ficha de `Iron / Bronze / Stone Skin Gu` cobre três nomes de uma vez, porque a obra os declara "parecidos em aparência e em efeito" e só diferencia o bronze. As fichas saíram do [[04 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] (73 linhas de rank 1 ou de faixa iniciando no rank 1) mais **três Gu que não constavam dele**: o **Stone Scar Gu**, o **Whirlwind Gu** e o **Fish Scale Gu**, todos rank 1 `(ded.)` por fundirem com um rank 1 para gerar um rank 2, e todos indispensáveis porque são os ingredientes que faltavam nas rotas lunar e de furtividade.
+**O que foi catalogado.** **Setenta e cinco fichas**, cobrindo **setenta e sete nomes de Gu** — a ficha de `Iron / Bronze / Stone Skin Gu` cobre três nomes de uma vez, porque a obra os declara "parecidos em aparência e em efeito" e só diferencia o bronze. As fichas saíram do [[10 - Catálogo de Gu - Mortais|catálogo plano de Gu mortais]] (73 linhas de rank 1 ou de faixa iniciando no rank 1) mais **três Gu que não constavam dele**: o **Stone Scar Gu**, o **Whirlwind Gu** e o **Fish Scale Gu**, todos rank 1 `(ded.)` por fundirem com um rank 1 para gerar um rank 2, e todos indispensáveis porque são os ingredientes que faltavam nas rotas lunar e de furtividade.
 
 **Evolução.** Distribuição das setenta e cinco fichas:
 
@@ -1310,12 +1310,12 @@ A proporção confirma a regra geral: **o silêncio é o padrão, não a exceç�
 - **Caminho.** Só atribuí caminho onde a obra atribui. Os Gu de pele, o Bone Spear, o Stealth Rock, o Quiet Steps, os três Gu de cura e o Exploding Egg estão em seções marcadas como **"sem caminho declarado"**, porque nos primeiros volumes o vocabulário formal de caminhos ainda não existia e a obra nunca voltou para classificá-los. A única atribuição por dedução é a do **Fire Cloak Gu** ao caminho do fogo, e ela está marcada na própria ficha.
 - **Interações.** O campo é canônico onde cita um dos **seis pares nomeados** (força × luz, força × espaço, força × vento, força × água, restrição × palavra, cura × qualquer lei instalada) ou uma sinergia registrada em cena. Onde ele diz que um Gu "fecha uma porta", trate como **tendência canônica sem número**: a obra afirma o mecanismo e nunca dá o limiar.
 
-**Correções já verificadas que esta nota respeita.** O `Emperor Yama` **não é um Gu**, é golpe imortal de rank 8, e por isso não aparece em catálogo de Gu nenhum. O refino reverso do `essence iron bone Gu` corre de rank 4 **para** o iron bone Gu, e não o contrário — a direção está invertida no [[06 - Catálogo de Receitas|Catálogo de Receitas]]. E o `Monolith Gu` **não** é evolução declarada do Rock Skin Gu: a obra apenas lista os dois lado a lado, e a ficha do Rock Skin registra isso.
+**Correções já verificadas que esta nota respeita.** O `Emperor Yama` **não é um Gu**, é golpe imortal de rank 8, e por isso não aparece em catálogo de Gu nenhum. O refino reverso do `essence iron bone Gu` corre de rank 4 **para** o iron bone Gu, e não o contrário — a direção está invertida no [[12 - Catálogo de Receitas|Catálogo de Receitas]]. E o `Monolith Gu` **não** é evolução declarada do Rock Skin Gu: a obra apenas lista os dois lado a lado, e a ficha do Rock Skin registra isso.
 
 ## Notas relacionadas
 
-- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o inventário completo, todos os ranks, tabela por caminho
-- [[06 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão, vistas do lado do refinador
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — o inventário completo, todos os ranks, tabela por caminho
+- [[12 - Catálogo de Receitas|Catálogo de Receitas]] — as receitas de fusão, vistas do lado do refinador
 - [[02 - O que é um Gu|O que é um Gu]] · [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] · [[05 - Gu Vital|Gu Vital]]
 - [[06 - Refino de Gu|Refino de Gu]] · [[07 - Fusão de Gu|Fusão de Gu]] · [[13 - Qualidade e Fraude|Qualidade e Fraude]]
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] · [[16 - Dao Marks|Dao Marks]]

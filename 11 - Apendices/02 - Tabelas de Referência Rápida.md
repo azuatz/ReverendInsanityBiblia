@@ -17,7 +17,7 @@ aliases:
   - Números do Sistema
   - Tabela de Escala e Distância
 status: verificado-no-texto
-fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 83", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 314-315", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 422", "cap. 443", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 723", "cap. 736", "cap. 737", "cap. 740", "cap. 819-820", "cap. 826", "cap. 852", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1033", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1346", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 1938", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
+fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 83", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 314-315", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 422", "cap. 443", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 723", "cap. 736", "cap. 737", "cap. 740", "cap. 819-820", "cap. 826", "cap. 852", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1033", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1346", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 1938", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2083", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
 conhecimento: misto — são conhecimento comum no mundo as tabelas de aptidão, ranks e cores, a escala e as distâncias da seção 13, os custos de essência e de vida (14, 19), a força em jun (15), a demografia (18) e a capacidade da abertura (20) e os números de combate (21); são conhecimento especializado dao marks, tribulações, essências imortais, attainment, grades de terra abençoada e a longevidade dos Veneráveis (17); são segredo de altíssimo nível as quatro condições para virar Venerável (11) e a escala de fundação de alma acima do teto humano (16)
 ---
 
@@ -440,12 +440,36 @@ Repare no salto: uma tribulação miríade rende mais de **dez vezes** uma grand
 tribulação. É essa curva — e não o número do rank — que explica por que um rank 8
 esmaga um rank 7 com tanta facilidade.
 
-Existe também uma **rota sem risco**, e ela é economicamente devastadora para o
-modelo heroico: uma única xícara de um certo chá feito de materiais imortais de rank
-8 rende cerca de **1.000 dao marks**, mais que uma tribulação celestial e uma
-calamidade terrena somadas, sem qualquer risco de morte. Quando um recurso desses
-existe, arriscar a vida numa tribulação deixa de ser destino e vira decisão
-econômica.
+Existe também uma **rota sem risco**, e ela é economicamente devastadora para o modelo
+heroico. Ela se chama **chá da mente extremamente serena** (*extreme serene mind tea*) e é
+um **golpe do [[20 - Food Path|caminho da comida]]** — não um Gu, e sim uma receita: gasta-se
+uma grande quantidade de **materiais imortais de rank 8 do caminho da terra** e o que sai é
+uma bebida que, ao ser bebida, **grava marcas do Dao do caminho da terra** no corpo de quem a
+tomou. Uma tigela rendeu **mil marcas** — exatamente o que uma tribulação celestial (750) e uma
+calamidade terrena (250) rendem **somadas**, e sem nenhum risco de morte. O chá em si é
+prosaico: cheira a terra depois da chuva, esfria em poucos suspiros, desce fresco e levemente
+doce, e é bebido em tigela, aos goles largos, não em xícara de cerimônia.
+
+Três ressalvas que a própria obra faz e que impedem de tratar isso como dinheiro comprando
+poder:
+
+- **O rendimento normal é menor.** Mil marcas foi o resultado num corpo excepcional, sem
+  conflito entre marcas de caminhos diferentes; para um Gu Imortal comum, a mesma tigela rende
+  "algumas centenas". Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas]].
+- **A eficiência é baixa e o custo é altíssimo.** Consome uma grande quantidade de material
+  imortal de rank 8 por tigela; só uma potência que **produza** esse material em escala pode
+  beber com frequência.
+- **O caminho da comida está quase todo perdido.** O chá é um dos legados que o
+  [[03 - Os Arquitetos da Ordem|Venerável Paradise Earth]] deixou dentro de uma herança verdadeira
+  específica; ele foi quem completou a ideia de transformar chá e vinho em golpes do caminho da
+  comida. No mundo atual, quase todo chá e todo vinho que circulam são **receitas de Gu do
+  caminho da comida incompletas** — servem para agradar o paladar e ostentar riqueza, e nada
+  mais. A rota existe; o que praticamente não existe é quem saiba percorrê-la.
+
+Mesmo com as três ressalvas, o ponto estrutural fica de pé, e a obra o enuncia: historicamente a
+fonte principal de marcas do Dao **eram as provações**, e um método assim **quebra esse
+monopólio**. Quando um recurso desses existe, arriscar a vida numa tribulação deixa de ser
+destino e vira decisão econômica.
 
 ### Faixas de dao marks por rank
 

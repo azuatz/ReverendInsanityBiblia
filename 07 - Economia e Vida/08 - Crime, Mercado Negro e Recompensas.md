@@ -12,7 +12,7 @@ aliases:
   - Recompensa por cabeça
   - Contrabando
 status: consolidado
-fontes: ["cap. 28-30", "cap. 36", "cap. 44-47", "cap. 78", "cap. 108", "cap. 147", "cap. 228", "cap. 233-246", "cap. 259", "cap. 266", "cap. 271", "cap. 276", "cap. 284", "cap. 293-296", "cap. 324", "cap. 330", "cap. 332", "cap. 335-337", "cap. 365", "cap. 403", "cap. 441", "cap. 470", "cap. 477", "cap. 481", "cap. 520", "cap. 545", "cap. 734", "cap. 823", "cap. 836", "cap. 841", "cap. 963", "cap. 1052", "cap. 1072", "cap. 1111-1113", "cap. 1199", "cap. 1210", "cap. 1451", "cap. 1608-1613", "cap. 1852", "cap. 1885", "cap. 1973", "cap. 2091", "cap. 2093", "cap. 2245"]
+fontes: ["cap. 28-30", "cap. 36", "cap. 44-47", "cap. 78", "cap. 108", "cap. 147", "cap. 154", "cap. 155", "cap. 178", "cap. 179", "cap. 228", "cap. 233-246", "cap. 259", "cap. 266", "cap. 271", "cap. 276", "cap. 284", "cap. 293-296", "cap. 324", "cap. 330", "cap. 332", "cap. 335-337", "cap. 365", "cap. 403", "cap. 441", "cap. 470", "cap. 477", "cap. 481", "cap. 520", "cap. 545", "cap. 734", "cap. 823", "cap. 836", "cap. 841", "cap. 963", "cap. 1052", "cap. 1072", "cap. 1111-1113", "cap. 1199", "cap. 1210", "cap. 1451", "cap. 1608-1613", "cap. 1852", "cap. 1885", "cap. 1973", "cap. 2091", "cap. 2093", "cap. 2245"]
 conhecimento: comum — a existência do crime organizado, dos mandados e do mercado negro é sabida por todos; a escada de lucro e as técnicas de lavagem são `especializado`
 ---
 
@@ -188,6 +188,14 @@ vinte e quatro horas** como prova de que o chantagista falava sério; o restante
 parcelas ao longo de meses. Foi essa entrada, e não o total, que obrigou a vítima a
 recorrer a agiotas e a penhorar os próprios Gu no mesmo dia. Ver
 [[07 - Crédito, Contratos e Tributos|Crédito, Contratos e Tributos]].
+
+**O que sustenta uma chantagem depois que a prova foi apagada** é o **rastro periférico**, e essa é
+a regra técnica da categoria. Um Gu de limpeza apaga a evidência dentro do corpo; ele não apaga o
+registro comercial de que alguém o comprou, quando e por quê. Foi por essa nota fiscal — e não por
+nenhuma prova direta, que já não existia — que um chantagista reconstruiu uma trapaça de família e
+converteu o herdeiro dopado em aliado forçado, obtendo dele cerca de **três mil pedras primordiais**
+e Gu emprestados, sendo o chantageado muito mais poderoso que ele. **O instrumento do encobrimento
+apaga o efeito, nunca a própria aquisição** — quem comprou, quem transportou, quem foi pago.
 
 **Extorsão de conveniência** é o degrau abaixo e é rotineira: cobrar por um resgate que já
 aconteceu, cobrar pedágio informal na porta de uma academia, cobrar "indenização" por uma

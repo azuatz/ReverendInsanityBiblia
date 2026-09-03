@@ -122,7 +122,7 @@ interrompido. Oitenta por cento da força explodiram em todas as partes do corpo
 ## Relações
 
 - [[02 - Punhos Contra uma Camada de Defesa|Punhos Contra uma Camada de Defesa]] — o outro jeito de vencer uma defesa: exceder a capacidade dela em vez de esgotar a atenção.
-- [[18 - Perder de Propósito e Cobrar Caro|Perder de Propósito e Cobrar Caro]] — o mesmo palco, e o que se faz quando a conta de atrito não fecha.
+- [[29 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] — o mesmo palco, e o que se faz quando a conta de atrito não fecha: gastar a última gota no patrimônio do vencedor.
 - [[19 - Guerra de Custos|Guerra de Custos]] — o teorema de orçamento em escala maior.
 - [[10 - Como Funciona um Combate|Como Funciona um Combate]] — o procedimento geral de uma luta no mundo.
 - [[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]] — o que se reforça no corpo, e o que fica descoberto.

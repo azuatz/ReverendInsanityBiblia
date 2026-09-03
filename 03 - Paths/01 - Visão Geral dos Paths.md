@@ -134,10 +134,10 @@ aula, e essa cronologia é a espinha dorsal de todo o domínio.
 | Era | Caminhos criados nela | Criador, quando a obra nomeia |
 |---|---|---|
 | **Antiguidade Imemorial** (a era do Ancestral Humano) | [[14 - Space Path\|espaço]] e [[18 - Time Path\|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
-| **Antiguidade Remota** | [[05 - Qi Path\|qi]] e [[07 - Enslavement Path\|escravização]] · [[16 - Wisdom Path\|sabedoria]] e [[19 - Star Path\|estrela]] · [[09 - Formation Path\|formação]] · [[08 - Refinement Path\|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
-| **Antiguidade Passada** | [[21 - Rule Path\|regra]] · [[06 - Transformation Path\|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
-| **Antiguidade Medieval** | madeira · [[15 - Theft Path\|roubo]] · [[23 - Luck Path\|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[17 - Information Path\|informação]] · [[13 - Sound Path\|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
-| **Antiguidade Tardia e era atual** | osso · [[22 - Phantom Path\|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
+| **Antiguidade Remota** | [[05 - Qi Path\|qi]] e [[07 - Enslavement Path\|escravização]] · [[16 - Wisdom Path\|sabedoria]] e [[19 - Star Path\|estrela]] · [[09 - Formation Path\|formação]] · [[08 - Refinement Path\|refino]] · fogo | qi e escravização, pelo **Primordial Origin Immortal Venerable**; sabedoria e estrela, pela **Star Constellation Immortal Venerable** (discípula dele); **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
+| **Antiguidade Passada** | [[21 - Rule Path\|regra]] · [[06 - Transformation Path\|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra, pelo **Limitless Demon Venerable**; transformação, pelo **Reckless Savage Demon Venerable** — que também é o criador do caminho da força, embora a enumeração canônica só liste a força como "criada nesta era" sem lhe dar autor; vento, luz e trevas, `—` |
+| **Antiguidade Medieval** | madeira · [[15 - Theft Path\|roubo]] · [[23 - Luck Path\|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[17 - Information Path\|informação]] · [[13 - Sound Path\|som]] | madeira, pelo **Genesis Lotus Immortal Venerable**; roubo, pelo **Thieving Heaven Demon Venerable**; sorte, pelo **Giant Sun Immortal Venerable**; a água, por **Shui Ni**, a mulher de rank 8 que fundou a Casa da Afinidade Espiritual (*Spirit Affinity House*) — e a criou tarde, apesar de existirem Gu de água selvagens desde a antiguidade imemorial; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
+| **Antiguidade Tardia e era atual** | osso · [[22 - Phantom Path\|fantasma]] · restrição · [[12 - Soul Path\|alma]] — e, no fim da linha do tempo, pílulas e armas | alma, pelo **Spectral Soul Demon Venerable**; fantasma, por um **Gu Imortal comum** (o único caminho da lista que não veio de um Venerável nem de um fundador de seita); pílulas, por **Ruan Dan**, um grou de jade verde imemorial; armas, por **Che Wei**, um Gu Imortal humano do [[19 - Tribunal Celestial\|Tribunal Celestial]]; osso e restrição, `—` |
 | **Ainda não criados** | [[26 - Dream Path\|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
 
 Três leituras que essa tabela permite:
@@ -147,9 +147,10 @@ Três leituras que essa tabela permite:
   popular do mundo.
 - **Os caminhos continuam sendo criados até hoje.** A obra termina com dois caminhos novos nascendo
   em cena. Este não é um sistema fechado.
-- **E fundar um caminho pode dar errado.** Um Venerável criou um caminho que *não conseguiu alcançar
-  a mudança qualitativa para se tornar um caminho totalmente novo*; outro tentou fundar o caminho da
-  matança, **falhou**, e criou o [[12 - Soul Path|caminho da alma]] como subproduto. Ver
+- **E fundar um caminho pode dar errado.** Giant Sun criou o **caminho do yin-yang**, que *não
+  conseguiu alcançar a mudança qualitativa para se tornar um caminho totalmente novo*; e Spectral
+  Soul tentou fundar o **caminho da matança**, **falhou**, e criou o
+  [[12 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
   [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 
 ### Caminhos principais e caminhos menores
@@ -288,27 +289,32 @@ A assimetria é deliberada e estratégica: garante um vetor de ataque que o riva
 neutralizar, porque não sabe que ele existe. Quem se prepara contra o caminho público está
 se preparando contra metade do inimigo.
 
-E a obra dá a **razão declarada** dessa arquitetura, pela boca de um dos Veneráveis:
+E a obra dá a **razão declarada** dessa arquitetura, pela boca do **Giant Sun Immortal Venerable**:
 
-> **Com um caminho principal e um caminho de especialidade, nós Veneráveis conseguimos competir uns
-> com os outros em pé de igualdade.**
+> Star Constellation, você cultiva o caminho da sabedoria principalmente, com o caminho da estrela
+> como secundário. Genesis Lotus cultiva o caminho da madeira e o caminho da pintura. Thieving
+> Heaven cultiva o roubo principalmente, com o espaço como secundário. **Com um caminho principal e
+> um caminho de especialidade, nós Veneráveis conseguimos competir uns com os outros em pé de
+> igualdade.** E no meu caso, escolhi o caminho do sangue.
 
 Os pares que a obra nomeia:
 
 | Venerável | Caminho principal | Caminho de especialidade |
 |---|---|---|
-| A criadora da sabedoria | [[16 - Wisdom Path\|sabedoria]] | [[19 - Star Path\|estrela]] |
-| O criador da madeira | madeira | [[28 - Painting Path\|pintura]] |
-| O criador do roubo | [[15 - Theft Path\|roubo]] | [[14 - Space Path\|espaço]] |
-| O criador da sorte | [[23 - Luck Path\|sorte]] | [[03 - Blood Path\|sangue]] |
-| O arquiteto da ordem | terra | [[25 - Heaven Path\|céu]] |
-| O criador da transformação | [[06 - Transformation Path\|transformação]] | [[04 - Strength Path\|força]] |
+| **Star Constellation Immortal Venerable** | [[16 - Wisdom Path\|sabedoria]] | [[19 - Star Path\|estrela]] |
+| **Genesis Lotus Immortal Venerable** | madeira | [[28 - Painting Path\|pintura]] |
+| **Thieving Heaven Demon Venerable** | [[15 - Theft Path\|roubo]] | [[14 - Space Path\|espaço]] |
+| **Giant Sun Immortal Venerable** | [[23 - Luck Path\|sorte]] | [[03 - Blood Path\|sangue]] |
+| **Paradise Earth Immortal Venerable** | terra | [[25 - Heaven Path\|céu]] |
+| **Reckless Savage Demon Venerable** | [[06 - Transformation Path\|transformação]] | [[04 - Strength Path\|força]] |
+| **Spectral Soul Demon Venerable** | [[12 - Soul Path\|alma]] | [[20 - Food Path\|comida]] `(ded.)` — a lista recitada acima não o inclui, mas ele tomou a herança verdadeira do caminho da comida do fundador dele e criou golpes de comida próprios |
 
-Repare em duas coisas. Primeiro, **a especialidade nem sempre é secreta na prática** — a obra
-registra um Venerável recitando os pares dos rivais em voz alta. O sigilo é um ideal que o tempo
-corrói. Segundo, **um dos dez tinha o [[25 - Heaven Path|caminho do céu]] como especialidade**, o que
-não contradiz a regra de que nenhum deles o cultivou *de verdade*: ele obteve e modificou um método
-daquele caminho, não construiu o caminho.
+Repare em duas coisas. Primeiro, **a especialidade nem sempre é secreta na prática** — a passagem
+citada acima é exatamente um Venerável recitando os pares dos rivais em voz alta, na cara deles. O
+sigilo é um ideal que o tempo corrói. Segundo, **Paradise Earth tinha o
+[[25 - Heaven Path|caminho do céu]] como especialidade**, o que não contradiz a regra de que nenhum
+deles o cultivou *de verdade*: ele obteve e modificou um método daquele caminho, não construiu o
+caminho.
 
 Essa arquitetura vale como modelo mesmo abaixo do nível de Venerável: cultivadores fortes
 tendem a ter um caminho de vitrine e um caminho de emboscada.
@@ -407,15 +413,17 @@ dos aliados.
   nenhuma riqueza alcança, e é o que separa quem domina o caminho de quem o expande.
 - **Que o [[26 - Dream Path|caminho dos sonhos]] ainda não existe formalmente** na era atual —
   há um caminho inteiro deitado no chão esperando um fundador. E que **o caminho da matança
-  também não existe, mas por outro motivo**: um Venerável Demônio *tentou* fundá-lo, **falhou**, e
-  criou o [[12 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
+  também não existe, mas por outro motivo**: o Spectral Soul Demon Venerable *tentou* fundá-lo,
+  **falhou**, e criou o [[12 - Soul Path|caminho da alma]] como subproduto do fracasso. Ver
   [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 - **Que o [[25 - Heaven Path|caminho do céu]] é cultivável**, com o limiar de entrada mais alto
   de todos. Nenhum dos dez Veneráveis o cultivou de verdade — e **o significado verdadeiro dele
   nunca existiu**, o que faz dele o único caminho do mundo sem atalho de herança possível.
-- **Que fundar um caminho pode dar errado, mesmo para um Venerável.** Existe o registro de um
-  caminho criado por um dos dez que *não conseguiu alcançar a mudança qualitativa* e nunca virou um
-  caminho de verdade. Isso desmonta a ideia de que poder absoluto garante criar uma escola nova.
+- **Que fundar um caminho pode dar errado, mesmo para um Venerável.** O **caminho do yin-yang**,
+  criado pelo Giant Sun Immortal Venerable a partir de pesquisa sobre as lendas do Ancestral Humano,
+  *não conseguiu alcançar a mudança qualitativa* e nunca virou um caminho de verdade — o próprio
+  criador concluiu que a ideia era rasa demais e desistiu. Isso desmonta a ideia de que poder
+  absoluto garante criar uma escola nova.
 - **Que existem caminhos sem marcas do Dao próprias**, cujo cultivo eleva o domínio do
   caminho-mãe em vez do próprio. Saber isso permite identificar quais escolas do mundo são reais e
   quais ainda são apenas conjuntos de técnicas — e é conhecimento que a maioria dos praticantes

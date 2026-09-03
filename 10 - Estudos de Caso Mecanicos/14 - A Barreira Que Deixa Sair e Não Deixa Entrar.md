@@ -87,4 +87,3 @@ estrutural: a ponte se rompe se algo for **interposto fisicamente** entre os doi
 - [[03 - Usar e Alimentar Gu|Usar e Alimentar Gu]] — a regra geral de que um efeito acionado tem enunciado próprio.
 - [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] — por que uma abertura de zumbi não regenera, e o que mais isso implica.
 - [[28 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] — o mesmo princípio aplicado a palavras em vez de paredes.
-- [[13 - O Refém que Cura os Dois Lados|O Refém que Cura os Dois Lados]] — o mesmo legalismo estrutural aplicado a um corpo em vez de a uma parede.

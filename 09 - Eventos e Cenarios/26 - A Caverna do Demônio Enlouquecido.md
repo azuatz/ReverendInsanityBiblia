@@ -31,6 +31,12 @@ despeja no peito de quem pisa nele==.
 > desceu, quem morreu, quem levou o quê e como a expedição terminou. Nenhuma figura de rank 9 aparece
 > por nome.
 
+> [!note] Como pôr isto na sua campanha
+> A caverna é **permanente**: está sempre lá, listada entre as grandes áreas ferozes da região, e as
+> camadas rasas recebem expedições pequenas o tempo todo. O que a obra narra é uma expedição de
+> larga escala em particular; o lugar em si independe dela. Use as camadas rasas como masmorra de
+> rotina e guarde as fundas para o clímax da campanha.
+
 ## O essencial
 
 - **O que é:** uma masmorra permanente de nove camadas nas [[03 - Planícies do Norte|Planícies do

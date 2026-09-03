@@ -24,6 +24,16 @@ coisa==.
 
 *Confiabilidade: texto simples = a obra afirma; `(ded.)` = dedução segura; `*` = invenção nossa; `—` = a obra não informa. Apagar tudo o que tem `*` devolve a nota a 100% canônica.*
 
+> [!note] Como pôr isto na sua campanha
+> Duas coisas de natureza diferente, e vale saber qual é qual. **O cerco** é um exemplar trabalhado
+> da categoria [[19 - Cercos e Invasões de Terras Abençoadas|Cercos e Invasões de Terras Abençoadas]]:
+> uma fortaleza cuja formação impõe regras permanentes a quem invade — qualquer
+> invasor, em qualquer época, cai no andar do seu rank e fica preso nele. Pendure essas regras na
+> terra abençoada que a sua campanha precisar sitiar. **O rio** é um lugar: um domínio autônomo com
+> leis próprias, que continua existindo depois, muda de dono uma vez a cada centenas de milhares de
+> anos e faz a mesma coisa com todo mundo que cai nele. Na obra os dois vêm colados porque o
+> colapso do primeiro despeja o segundo; na sua mesa eles podem ser usados separados.
+
 ## O essencial
 
 Os dois vêm no mesmo pacote porque na obra são o mesmo acontecimento: o cerco acaba quando a

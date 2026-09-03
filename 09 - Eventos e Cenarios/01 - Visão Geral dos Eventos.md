@@ -20,9 +20,37 @@ deixa a vaga aberta para gente pequena.
 
 *Confiabilidade, nesta pasta inteira: texto simples = a obra afirma; `(ded.)` = dedução segura; `*` = invenção nossa; `—` = a obra não informa. Apagar tudo o que tem `*` devolve estes documentos a 100% canônicos.*
 
+## O critério: por que estas notas estão aqui
+
+Antes da lista, o critério que a produziu — e ele vale mais do que a lista, porque é o que você vai
+usar quando inventar os seus. Uma pergunta decidiu cada nota desta pasta:
+==isto vai agregar para o mestre numa mesa de RPG?== A sua campanha não vai contar a história da
+obra; vai usar o **mesmo universo**, com outra vila, outros personagens e outro enredo. Então um
+acontecimento só entra se passar por **pelo menos uma** destas três portas:
+
+1. **Fenômeno recorrente que o mestre molda.** Acontece em qualquer lugar, e você só troca os
+   detalhes. A maré de bestas é o caso-modelo: basta decidir qual é a besta.
+2. **Lugar com regras próprias e permanentes.** Quem chega lá encontra aquilo, sempre,
+   independentemente da história que se esteja contando — uma herança que suprime quem entra, uma
+   área feroz, um rio onde nenhum Gu funciona.
+3. **Acontecimento de escala de mundo** que dá para encaixar numa campanha como pano de fundo ou
+   como clímax — uma mudança de era, uma guerra entre regiões.
+
+**O que reprova é o episódio particular da trajetória de um personagem da obra.** Um sapo que
+entupiu o rio de uma vila e a maré de lobos que caiu sobre uma montanha específica são a história
+*dele*, não o mundo: na sua mesa, aquela montanha pode nunca existir. Isso não faz o material ser
+jogado fora — ele vira **exemplo trabalhado dentro da nota de categoria**, que é onde a maré de
+lobos está hoje, dentro de [[03 - Marés de Bestas|Marés de Bestas]]. Já as feiras, as caravanas e os
+festivais entram sem discussão: existem em todo lugar, e os jogadores vão topar com um.
+
+**Escala não é o critério.** Um cenário pequeno com regras próprias e um relógio vale mais do que um
+acontecimento grandioso que só interessa a quem queira reencenar o livro. Quando for criar eventos
+novos, faça a mesma pergunta: se a resposta for *"isso só acontece na história da obra"*, o material
+é exemplo dentro de uma categoria, não cenário próprio.
+
 ## Como usar esta pasta
 
-São vinte e oito cenários. **Não são leitura corrida: são um acervo de consulta.** Comece pelo
+São vinte e sete cenários. **Não são leitura corrida: são um acervo de consulta.** Comece pelo
 recorte de oito da seção seguinte, que cobre o leque inteiro — de uma vila a um mundo —, e volte à
 tabela de escolha rápida quando precisar de um cenário com um formato específico.
 
@@ -37,12 +65,12 @@ um cenário, é um roteiro**.
 
 ## Leia estes primeiro
 
-Oito notas que cobrem o leque inteiro do que esta pasta sabe fazer. As outras vinte são acervo, para
-consultar quando a mesa pedir aquele formato — não leitura obrigatória.
+Oito notas que cobrem o leque inteiro do que esta pasta sabe fazer. As outras dezenove são acervo,
+para consultar quando a mesa pedir aquele formato — não leitura obrigatória.
 
 | # | Comece por | Por que esta |
 |---|---|---|
-| 1 | [[02 - A Maré de Lobos de Qing Mao Shan\|A Maré de Lobos de Qing Mao Shan]] | **A vila.** O cenário de entrada do mundo: rank 1 a 3, uma montanha, três clãs, um inverno inteiro de guerra defensiva com economia de méritos e política de aliança. Nenhuma nota ensina o cotidiano deste mundo melhor do que esta |
+| 1 | [[03 - Marés de Bestas\|Marés de Bestas]] | **A vila.** O cenário de entrada do mundo, e o desastre padrão que o mestre monta em qualquer lugar trocando a espécie. Termina com um exemplo trabalhado de uma maré de um ano inteiro — rank 1 a 3, uma montanha, três clãs, guerra defensiva de inverno com economia de méritos e política de aliança. Nenhuma nota ensina o cotidiano deste mundo melhor do que esta |
 | 2 | [[05 - Feiras, Caravanas e Festivais\|Feiras, Caravanas e Festivais]] | **A sessão sem combate.** Mostra que o cenário roda sem iniciativa e sem dano, e ensina a economia e a etiqueta que todas as outras notas pressupõem. É o contraponto barato, e a mesa vai voltar a ele |
 | 3 | [[09 - A Herança dos Três Reis\|A Herança dos Três Reis]] | **A masmorra.** A instituição mais característica do mundo — a herança — na sua versão mais extrema: lá dentro todo mundo entra igual, e há uma corrida do ouro rodando por fora. Se quiser uma masmorra mais simples de arbitrar, troque por [[15 - O Edifício dos Oitenta e Oito Andares\|O Edifício dos Oitenta e Oito Andares]] |
 | 4 | [[14 - O Ciclo Decenal das Planícies do Norte\|O Ciclo Decenal das Planícies do Norte]] | **O ciclo regional.** Um relógio de dez anos que organiza a política de uma região inteira, com fase social, fase militar e fase de exploração. É o modelo de como transformar um calendário em campanha |
@@ -58,8 +86,7 @@ tabela serve para varrer, não para ler em sequência.
 
 | Cenário | Tipo | Ranks | Dura | A trava que usa | Que sessão entrega |
 |---|---|---|---|---|---|
-| [[02 - A Maré de Lobos de Qing Mao Shan\|A Maré de Lobos de Qing Mao Shan]] | guerra defensiva | 1-3 | mais de um ano | não há ninguém forte: **menos de cinquenta rank 5 na região inteira** | Campanha de defesa de vila, com economia de méritos e política de aliança |
-| [[03 - Marés de Bestas\|Marés de Bestas]] | calamidade natural | 1-5 | de uma noite a mais de um ano | ser fraco é a credencial: a aura de um imortal provoca as feras, a de um mortal não | Cerco com contramedida de engenharia, cronômetro de distância e uma pista investigativa |
+| [[03 - Marés de Bestas\|Marés de Bestas]] | calamidade natural | 1-5 | de uma noite a mais de um ano | ser fraco é a credencial: a aura de um imortal provoca as feras, a de um mortal não | Cerco com contramedida de engenharia, cronômetro de distância e uma pista investigativa — e, no fim da nota, uma campanha de defesa de vila montada de ponta a ponta |
 | [[04 - Desastres Locais e Problemas Crônicos\|Desastres Locais e Problemas Crônicos]] | problema local | 1-3 | de uma expedição a um século | não há ninguém mais forte por perto | Quatro sessões fechadas: engenharia sem violência, evacuação, travessia, fuga |
 | [[05 - Feiras, Caravanas e Festivais\|Feiras, Caravanas e Festivais]] | social e econômico | 1-4 | de uma noite a meses | contratual: os poderosos estão na sala e **não podem usar a força que têm** | Sessão social e econômica, sem iniciativa nem dano |
 | [[06 - Assembleias, Alianças e Quadros de Mérito\|Assembleias, Alianças e Quadros de Mérito]] | diplomacia | 1-5 | dias a meses | os poderosos estão na sala de cima, e o palco existe para medir o que os seus valem | Diplomacia com placar: cada vitória vira concessão na mesa lá em cima |

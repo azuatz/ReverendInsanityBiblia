@@ -24,6 +24,12 @@ pisa==, de modo que o rank deixa de valer alguma coisa.
 
 *Confiabilidade: texto simples = a obra afirma; `(ded.)` = dedução segura; `*` = invenção nossa; `—` = a obra não informa. Apagar tudo o que tem `*` devolve a nota a 100% canônica.*
 
+> [!note] Como pôr isto na sua campanha
+> O mundo fechado continua lá e a cerimônia tem **periodicidade declarada**: quem chegar naquele
+> lugar na virada do ciclo encontra estas regras montadas, com ou sem os personagens da obra. A
+> estrada, do mesmo modo, cobra de todo mundo o mesmo preço proporcional. É a nota da pasta que
+> mais se parece com um módulo pronto justamente por isso — não há nada de irrepetível nela.
+
 ## O essencial
 
 É a nota que mais se parece com um módulo de RPG pronto em toda a obra: periodicidade declarada,

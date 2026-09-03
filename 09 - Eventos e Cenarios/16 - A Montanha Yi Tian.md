@@ -25,6 +25,14 @@ ninguém consegue abrir==.
 
 *Confiabilidade: texto simples = a obra afirma; `(ded.)` = dedução segura; `*` = invenção nossa; `—` = a obra não informa. Apagar tudo o que tem `*` devolve a nota a 100% canônica.*
 
+> [!note] Como pôr isto na sua campanha
+> As duas eras são **lugares com regras próprias**, não o relato de duas vezes em que alguém foi
+> lá. A zona proibida existe enquanto a fortaleza enterrada estiver funcionando, e ela cresce; a
+> cidade-guarnição é declaradamente "situação, não episódio", estável por anos. Na obra a primeira
+> era termina quando alguém refina a fortaleza — na sua campanha ela pode simplesmente ainda não
+> ter terminado. Troque a montanha de lugar e de nome à vontade: o que faz o cenário são a trava
+> de porta, o contrato de apostas e o condomínio de treze vizinhos armados.
+
 ## O essencial
 
 As duas eras estão separadas por décadas e **cada uma é um cenário completo**; não precisam ser

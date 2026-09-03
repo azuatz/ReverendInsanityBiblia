@@ -21,6 +21,14 @@ você tem e ficar com um único inseto de rank 1==.
 
 > Convenção: texto simples é canônico; `(ded.)` é dedução; `*` é invenção nossa; `—` é silêncio da obra. Apagar tudo o que tem `*` devolve a nota a cem por cento canônico.
 
+> [!note] Como pôr isto na sua campanha
+> Isto é um **lugar com regras próprias**, não o relato de uma vez em que alguém foi lá: quem entra
+> numa herança montada assim encontra sempre a mesma supressão de entrada, as mesmas cem rodadas e
+> o mesmo relógio. Na obra ela abre **uma vez só**, é saqueada em meio ano e a terra abençoada em
+> volta morre poucos anos depois — mas a sua campanha não segue a mesma história. Ponha a montanha
+> onde quiser, com outro nome e outros mestres mortos, e o cenário funciona intacto. As duas peças
+> que não se trocam sem perder o cenário são a **supressão na porta** e o **prazo da terra**.
+
 ## O essencial
 
 | | |

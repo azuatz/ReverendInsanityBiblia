@@ -7,7 +7,7 @@ aliases:
   - Insider trading de herança
   - Vender o mesmo segredo duas vezes
 status: verificado-no-texto
-fontes: ["cap. 112", "cap. 324", "cap. 325"]
+fontes: ["cap. 112", "cap. 324", "cap. 325", "cap. 326", "cap. 336"]
 conhecimento: comum
 ---
 
@@ -55,6 +55,24 @@ não converja para o vendedor.
 comprador não compra exclusividade — compra acesso. O risco não é o estoque acabar: é os dois
 compradores compararem notas.
 
+## Jogada 4 — dar de graça o que vai vazar sozinho
+
+**A regra:** cada informação tem um **prazo de validade** próprio, e é o prazo que decide se ela se
+vende ou se se doa. O que o mercado descobriria sozinho em poucos dias não vale dinheiro: tentar
+cobrar caro por isso é arriscar ser desmascarado dentro da semana. Entregue de graça e **antes** do
+vazamento, esse mesmo pedaço compra confiança — que não tem prazo.
+
+**A jogada registrada:** um cultivador de rank baixo sabia duas coisas sobre um mesmo sítio de
+herança. A primeira era que ele pertencera a um imortal, notícia que as pessoas entenderiam sozinhas
+em poucos dias; ele a deu de graça ao comprador, e com isso comprou acesso ao líder da organização.
+A segunda era o que havia dentro e o que matava as equipes de exploração — informação que **não vaza
+sozinha**, porque só se descobre entrando. Foi por essa que ele cobrou **quatrocentas mil
+[[02 - Pedras Primordiais|pedras primordiais]]**, no momento em que o comprador já havia decidido
+montar a expedição e o valor dela para ele era máximo.
+
+**A regra prática que sai daí:** separe o que você sabe em dois montes — o que vaza sozinho e o que
+só se descobre agindo. O primeiro é moeda social e deve ser gasto cedo; o segundo é a mercadoria.
+
 > [!warning] Um detalhe de precificação que vale guardar
 > Quando o vendedor da jogada 3 pediu quatrocentas mil, o comprador respondeu que era **pouco
 > demais** para informação sobre a herança de um cultivador imortal — e propôs pagar aquilo como
@@ -81,11 +99,15 @@ compradores compararem notas.
 > chega) permite operar no mercado antes do choque de demanda; o retorno documentado na obra é da
 > ordem de **três vezes** em dez dias. Quando a informação se torna pública, seu preço de venda cai
 > a zero — mas o lucro já obtido com ela permanece.*
+>
+> *Todo segredo recebe também um **prazo de validade**: o número de dias até virar conhecimento
+> comum sem a ajuda de ninguém. Segredos de prazo curto não se vendem por dinheiro — entregues de
+> graça e antes do vazamento, valem um favor ou um degrau de confiança junto a quem os recebe.
+> Segredos de prazo longo, os que só se descobrem agindo, são os que se cobram.*
 
 ## Relações
 
 - [[09 - Informação, Rumores e Espionagem|Informação, Rumores e Espionagem]] — como a informação circula, e quem a vende.
 - [[12 - Heranças e Provações|Heranças e Provações]] — por que uma abertura de herança é um evento econômico e não só uma aventura.
 - [[22 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma vantagem informacional aplicada dentro do pregão.
-- [[25 - Dar de Graça o que Vai Vazar|Dar de Graça o que Vai Vazar]] — o outro lado: o segredo cujo prazo de validade é curto demais para ser vendido.
-- [[30 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — quando a informação vale mais como ameaça do que como mercadoria.
+- [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]] — quando a informação vale mais como ameaça do que como mercadoria.

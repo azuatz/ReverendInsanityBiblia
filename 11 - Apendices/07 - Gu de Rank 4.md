@@ -11,7 +11,7 @@ aliases:
   - Rank 4 Gu
   - Catálogo de Gu Rank 4
 status: consolidado
-fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 111", "cap. 121", "cap. 126", "cap. 129", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 165", "cap. 166", "cap. 185", "cap. 192", "cap. 194", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 280", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 1097", "cap. 1288", "cap. 2072", "cap. 2108", "cap. 2298", "cap. 2312"]
+fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 111", "cap. 121", "cap. 126", "cap. 129", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 165", "cap. 166", "cap. 185", "cap. 192", "cap. 194", "cap. 199", "cap. 200", "cap. 201", "cap. 202", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 280", "cap. 286", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 1097", "cap. 1288", "cap. 1380", "cap. 1462", "cap. 2072", "cap. 2108", "cap. 2298", "cap. 2300", "cap. 2312"]
 conhecimento: comum — que os Gu de rank 4 existem e o que eles fazem em linhas gerais é sabido por qualquer Mestre Gu; as receitas, os preços de leilão e as rotas de avanço são conhecimento especializado, de ancião de clã para cima
 ---
 
@@ -2444,10 +2444,13 @@ rank 4 comum, e cento e oitenta mil sendo aproximadamente o preço de um rank 5 
 **Interações.** Duas, e ambas importantes. A positiva: ele funciona sobre **qualquer processo
 lento**, o que inclui os longos processos de tempera corporal desta nota — é o atalho de quem
 não tem paciência para o `Essence Iron Bone Gu`. A negativa é uma **incompatibilidade
-declarada**: quem carrega um certo Gu instável do caminho do tempo, descrito pela obra como
-uma bomba-relógio, **não pode usar o instant success Gu nem outros Gu do tempo** para acelerar
-refinos, sob pena de detonar o problema. Carregar um Gu instável fecha uma família inteira de
-ferramentas.
+declarada**, e a obra dá o caso com nome: quem carrega o `Spring Autumn Cicada` — Gu Imortal do
+caminho do tempo que a própria obra chama de bomba-relógio, porque fica se recuperando dentro da
+abertura do dono e pressionando-a — **não pode usar o instant success Gu nem nenhum outro Gu do
+tempo** para acelerar refinos, sob pena de detonar esse processo. A regra que a mesa deve tirar
+daqui é geral: **carregar um Gu instável do caminho do tempo fecha a família inteira de
+ferramentas daquele caminho**, porque acelerar o tempo à sua volta acelera também o que já está
+prestes a estourar dentro de você. Ver [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
 ### Inch of Time (Gu da Polegada de Tempo) — ranks 1 a 5
 
@@ -3275,10 +3278,23 @@ do refino continuam se perdendo. É a alternativa **inferior** entre as três ga
 que a obra conhece.
 
 **Como se obtém.** **Não está no mercado aberto**: existe nas mãos de uns poucos mestres de
-refino. E a comparação canônica é o que faz esta ficha valer — das três garantias de refino do
-mundo, a Terra de um certo Gu Imortal é longe demais para ser alcançada, o `Undefeated Hundred
-Battles Gu` está **extinto**, e este é "o único caminho com esperança real de obtenção:
-difícil de obter, mas ao menos existe alguma esperança".
+refino. E a comparação canônica é o que faz esta ficha valer, porque a obra enumera **as três
+únicas garantias de refino que existem no mundo** e explica por que duas delas não servem:
+
+1. **A Terra de Bu Bai** (*Land of Bu Bai*, "Terra do Invicto") — o legado de Bu Bai, no
+   [[04 - Continente Central|Continente Central]]. É a **terra sagrada dos mestres do refino**, e
+   quem chega lá refina com garantia. O problema é geográfico e não de preço: para quem vive nas
+   outras regiões ela fica **longe demais**, uma viagem inviável.
+2. O **`Undefeated Hundred Battles Gu`** — Gu **consumível de rank 5** que, gasto num refino,
+   **garante cem por cento de sucesso**. Era raríssimo já na antiguidade e hoje é dado como
+   **extinto**; exemplares avulsos só sobrevivem dentro de legados antigos ainda lacrados. Tem a
+   aparência banal de um disco de calcário cinzento.
+3. O **`Green Mountain Remains`** desta ficha — e é ele "o único caminho com esperança real de
+   obtenção: difícil de obter, mas ao menos existe alguma esperança".
+
+Note a diferença de natureza entre as três, que é o que a mesa deve aproveitar: as duas primeiras
+**garantem o sucesso do refino**; esta terceira **não garante nada** — ela apenas salva o Gu-núcleo
+quando o refino fracassa.
 
 **Evolução.** Não citada pela obra.
 
@@ -3350,27 +3366,84 @@ pode ter rotas caras**. Ver [[04 - Essência Primordial|Essência Primordial]].
 
 ### Yin Yang Rotation Gu (Gu da Rotação Yin-Yang)
 
-**O que faz.** **Troca o sexo do corpo do usuário.** A versão Yin ainda **cura estados de
-quase-morte**, e o par **suprime temporariamente constituições físicas extremas**.
+**O que faz.** É um **Gu de cura de rank 4 que a obra descreve como capaz de "trazer o morto de
+volta à vida"**, e faz isso por um mecanismo único no catálogo: em vez de reparar o corpo, ele
+**inverte o princípio que o rege**. São sempre **dois** Gu, e cada metade age num sexo:
 
-**Como é.** —
+- O **Gu Yin** é usado num **corpo masculino** e converte o yang em yin — o alvo é curado por
+  inteiro e **vira mulher**.
+- O **Gu Yang** é usado num **corpo feminino** e converte o yin em yang — o alvo é curado por
+  inteiro e **vira homem**.
 
-**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
-grande (ded.).
+Cada metade só produz efeito no corpo oposto ao que a outra já tratou; é por isso que só existem
+em par. A cura é total, não paliativa: a obra mostra o Gu Yin aplicado a uma pessoa já
+congelada e à beira de perder a consciência — o corpo estava sendo tomado por gelo e a
+consciência se dissipando — e o resultado foi uma pessoa inteira, de braços intactos e cor no
+rosto, saindo do bloco de gelo. **Uma coisa ele não faz: ressuscitar os Gu do alvo.** Os Gu que
+morreram junto com o dono continuam mortos.
 
-**Desvantagem.** **Cada uso reduz a aptidão em dez por cento** — permanentemente. Num sistema
-em que a aptidão é o teto de tudo, esse é um dos preços mais altos do catálogo. E a supressão
-de constituições extremas é temporária.
+O segundo uso, que é consequência aritmética do primeiro, é **desligar uma constituição física
+extrema** — ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]]. As dez
+constituições extremas exigem aptidão de **cem por cento** para se manifestar; como o Gu cobra
+dez pontos de aptidão, um alvo que estava em 100% cai para 90% e a constituição **simplesmente
+para de existir nele**. A obra é explícita quanto ao que isso é e ao que não é: mudar uma
+constituição extrema é dificílimo, e este método **não muda a constituição — ele derruba o
+requisito**.
 
-**Como se obtém.** Funciona em par: um Gu Yin e um Gu Yang.
+**Como é.** Dois vermes-Gu, um **preto** e um **branco**, que giram em órbita um em torno do
+outro formando uma **esfera de luz com o desenho do taiji** (o símbolo do yin-yang). O Gu Yang é
+descrito como "de armadura branca". Ao ser acionado, o Gu voa da abertura do usuário e **funde-se
+no corpo do alvo**; explode luz da cor da metade usada, o qi correspondente é sugado de toda a
+volta e forma um **vórtice de energia** no ar, e dentro do corpo do alvo nasce uma força vital
+inteiramente nova, que cresce a olhos vistos.
 
-**Evolução.** Não citada pela obra.
+**Dieta.** Aqui está o detalhe que faz deste par um caso raro: **enquanto os dois estiverem
+intactos e formando a esfera de taiji completa, eles se alimentam sozinhos** — a conversão
+mútua entre o qi yin e o qi yang de um para o outro é o próprio alimento deles, e o dono não
+precisa fazer nada. Quebrado o par, o Gu sobrevivente **passa a depender do dono**: é preciso
+soltá-lo de tempos em tempos para que absorva do ar o qi correspondente (o Gu Yang absorve qi
+yang). Um par completo é, portanto, um Gu de rank 4 de manutenção **zero**; meio par é um
+encargo.
 
-**Interações.** É o **disfarce absoluto** do mundo mortal — não há Gu de detecção que veja
-através de um corpo que realmente mudou. E a supressão temporária de constituição extrema
-resolve, por um tempo, o problema de quem nasceu com um corpo que atrai atenção. Ver
-[[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] e
-[[03 - Aptidão|Aptidão]].
+**Desvantagem.** **Cada uso reduz a aptidão do alvo em dez por cento**, e a obra trata isso como
+permanente. Num sistema em que a aptidão é o teto de carreira de um Mestre Gu, esse é um dos
+preços mais altos do catálogo. Some-se a isso a mudança de sexo, que não é efeito colateral e sim
+o mecanismo em si: **não há como usar o Gu e continuar com o mesmo corpo**. E a supressão da
+constituição extrema é temporária pelo pior dos motivos: **a aptidão volta a crescer com o
+cultivo**, até o dia em que atinge de novo cem por cento e a constituição retorna — e aí é
+preciso usar a outra metade, que cobra mais dez pontos e devolve o alvo ao sexo original. É um
+ciclo, não um conserto.
+
+O custo de acionamento também é alto: um Mestre Gu de **rank 1** que ainda guardava na abertura
+uma reserva de essência primordial de **rank 3** gastou **quase toda** essa reserva para acionar
+uma única metade.
+
+**Como se obtém.** A obra não dá receita. Dá o resto do quadro: são Gu **caros e cobiçados**,
+guardados por Mestres Gu poderosos, e uma metade solta vale por si — quem tem a metade retida
+tem poder sobre quem recebeu a outra, porque só ela desfaz o que a primeira fez. A trava
+canônica contra roubo é simples e vale registrar como regra de mesa: **um Gu já refinado obedece
+só ao refinador, que pode ordenar sua autodestruição com um pensamento** — refinar a metade
+retida de antemão torna roubá-la inútil.
+
+**Evolução.** Existe **versão imortal**, e a obra é clara sobre por que ela importa: um Mestre Gu
+que se tornou Imortal **não consegue mais reverter a mudança com o exemplar mortal de rank 4** —
+precisa antes elevar o Gu a nível imortal, tarefa do [[08 - Refinement Path|caminho do refino]] e
+muito difícil se o Gu não for o Gu vital de quem tenta. Na prática: **a janela para desfazer a
+troca fecha quando o alvo sobe de patamar**.
+
+**Interações.** É o **disfarce absoluto** do mundo mortal — nenhum Gu de detecção enxerga através
+de um corpo que de fato mudou, porque não há ilusão nenhuma para furar. E é a única ferramenta
+mortal do catálogo que resolve, por um tempo, o problema de quem nasceu com uma constituição
+extrema: ela é o maior talento possível e, em vários casos, **também o que mata o portador**. Ver
+[[03 - Aptidão|Aptidão]] e [[06 - Transformation Path|caminho da transformação]].
+
+> [!note] Para o design
+> Este Gu é um gerador de enredo pronto e completamente honesto — todo mundo na mesa vê a
+> mecânica. Quem aplica uma metade e guarda a outra cria uma dependência **estrutural**, não
+> mágica: o alvo não fica obrigado a obedecer, ele apenas sabe que só existe um fornecedor da
+> peça que o desfaz. E a dependência tem **cronômetro embutido**: a aptidão recresce, a
+> constituição volta, e o alvo precisa da outra metade de novo. Cada retorno é um gancho de
+> sessão que se renova sozinho.
 
 ### Atmosphere Gu (Gu da Atmosfera)
 
@@ -3910,9 +3983,13 @@ rank 5 quíntuplos.
 **Desvantagem.** **O rank do Gu fixa o número** — não há como ajustar caso a caso (ded.). Age
 uma vez, sobre uma gestação já iniciada (ded.).
 
-**Como se obtém.** É Gu do **caminho yin-yang**, fruto de uma pesquisa que o próprio criador
-acabou julgando rasa demais para virar um caminho novo — o yin-yang ficou como um punhado de
-resultados úteis combináveis com outros caminhos, e este é um deles.
+**Como se obtém.** É Gu do **caminho yin-yang**, e a obra dá a origem com nome: quem tentou
+fundar esse caminho foi o **[[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable|Giant
+Sun Immortal Venerable]]**, com a ambição de descrever *todos os seres do mundo* em termos de yin
+e yang. Ele desistiu: à medida que ganhou força e conhecimento, reconheceu que a própria
+formulação era rasa demais, e o yin-yang nunca deu o salto qualitativo que faz um caminho. O que
+sobrou foi um punhado de resultados soltos, aproveitáveis junto com outros caminhos — e este Gu é
+um deles.
 
 **Evolução.** Não citada pela obra: é série de ranks.
 

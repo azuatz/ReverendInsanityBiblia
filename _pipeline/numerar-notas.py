@@ -78,7 +78,7 @@ ORDEM = {
         "Os Arquitetos da Ordem", "Os Que Romperam as Leis",
     ],
     "09 - Eventos e Cenarios": [
-        "Visão Geral dos Eventos", "A Maré de Lobos de Qing Mao Shan",
+        "Visão Geral dos Eventos",
         "Marés de Bestas", "Desastres Locais e Problemas Crônicos",
         "Feiras, Caravanas e Festivais", "Assembleias, Alianças e Quadros de Mérito",
         "Torneios, Arenas e Duelos", "Aberturas de Herança",

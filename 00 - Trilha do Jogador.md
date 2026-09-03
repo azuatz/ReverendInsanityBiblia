@@ -133,7 +133,7 @@ Os grandes acontecimentos escritos como situação jogável. Estes são os que q
 morador do mundo sabe que existem — e a maioria deles é o que a mesa vai jogar.
 - [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] — os cinco motores que produzem evento grande, e as **travas**
   que mantêm os poderosos fora
-- Escala de vila e de clã: [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] · [[03 - Marés de Bestas|Marés de Bestas]] ·
+- Escala de vila e de clã: [[03 - Marés de Bestas|Marés de Bestas]] ·
   [[04 - Desastres Locais e Problemas Crônicos|Desastres Locais e Problemas Crônicos]] · [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] ·
   [[06 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] · [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]]
 - Heranças e lugares fechados: [[08 - Aberturas de Herança|Aberturas de Herança]] · [[09 - A Herança dos Três Reis|A Herança dos Três Reis]] ·

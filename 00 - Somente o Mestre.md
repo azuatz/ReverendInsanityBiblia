@@ -83,7 +83,7 @@ patamar **imortal** é material de mestre. Estas são as notas individuais de n�
   os dois casos que provam que **a aptidão não é fixa** e que existe preço para comprá-la. É a
   descoberta que mais desestabiliza a mesa, porque reabre o futuro de um personagem que se
   achava limitado — e mostra o custo humano de fazê-lo.
-- [[39 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] · [[40 - Anexação de Aberturas|Anexação de Aberturas]] ·
+- [[40 - Anexação de Aberturas|Anexação de Aberturas]] ·
   [[41 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] — o que se pode fazer contra a escada de
   poder, e por que quase ninguém consegue.
 - [[42 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[43 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·

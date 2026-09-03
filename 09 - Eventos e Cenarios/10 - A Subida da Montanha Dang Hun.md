@@ -22,6 +22,13 @@ cinco vezes mais rápido e só o primeiro a chegar ao topo leva alguma coisa==.
 
 > Convenção: texto simples é canônico; `(ded.)` é dedução; `*` é invenção nossa; `—` é silêncio da obra. Apagar tudo o que tem `*` devolve a nota a cem por cento canônico.
 
+> [!note] Como pôr isto na sua campanha
+> Isto é um **lugar com regras próprias**, não o relato de uma vez em que alguém foi lá: a casa da
+> falecida sela os Gu de quem entra, sempre, e mede a fundação de alma, sempre. Na obra a herança
+> tem **um herdeiro só** e é reclamada uma vez — mas a sua mesa não segue a mesma história. A
+> montanha pode estar fechada e intacta na sua campanha, com outras seitas em volta e outro morto
+> dentro. O que não se troca é a regra de porta: **sem Gu, sem morte, e sobe quem viveu mais**.
+
 ## O essencial
 
 | | |

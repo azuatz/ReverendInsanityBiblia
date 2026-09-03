@@ -21,7 +21,7 @@ aliases:
   - Yin-Yang Path
   - Seal Path
 status: consolidado
-fontes: ["cap. 268", "cap. 278", "cap. 292", "cap. 570", "cap. 584", "cap. 585", "cap. 595", "cap. 599", "cap. 703", "cap. 704", "cap. 775", "cap. 1014", "cap. 1323", "cap. 1340", "cap. 1345", "cap. 1500", "cap. 1563", "cap. 1649", "cap. 1176", "cap. 1787", "cap. 1865", "cap. 1869", "cap. 2023", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2137", "cap. 2154", "cap. 2163", "cap. 2181", "cap. 2284", "cap. 2286", "cap. 2293", "cap. 2298", "cap. 2299", "cap. 2300", "cap. 2321", "cap. 2328", "cap. 2332"]
+fontes: ["cap. 268", "cap. 278", "cap. 292", "cap. 570", "cap. 584", "cap. 585", "cap. 595", "cap. 599", "cap. 703", "cap. 704", "cap. 775", "cap. 1014", "cap. 1323", "cap. 1340", "cap. 1345", "cap. 1500", "cap. 1563", "cap. 1649", "cap. 1156", "cap. 1176", "cap. 1712", "cap. 1787", "cap. 1865", "cap. 1869", "cap. 2023", "cap. 2078", "cap. 2081", "cap. 2087", "cap. 2110", "cap. 2111", "cap. 2129", "cap. 2137", "cap. 2154", "cap. 2163", "cap. 2181", "cap. 2233", "cap. 2284", "cap. 2286", "cap. 2293", "cap. 2298", "cap. 2299", "cap. 2300", "cap. 2321", "cap. 2328", "cap. 2332"]
 conhecimento: especializado
 ---
 
@@ -157,9 +157,14 @@ núcleo; e emoção genuína e intensa **resiste à manipulação**. Ver [[26 - 
 a obra os reclassifica: *eram tidos como Gu do caminho da emoção, mas **na essência eram do caminho
 humano***. E um Gu Imortal do arrependimento pertence ao ramo da emoção, e por tabela ao caminho.
 
-**Uma pista cronológica bonita:** quando um certo mar se formou, *o caminho da emoção **ainda não
-existia***, e por isso um Gu dele podia ser usado ali sem perigo. O caminho tem data de nascimento
-verificável pelos efeitos que **não** produziu.
+**Uma pista cronológica bonita:** a **área de mar do fluxo turbulento** (*turbulent flow sea area*),
+no [[06 - Mar Oriental|Mar Oriental]], é saturada de marcas do Dao caóticas — e por isso Gu Imortais
+do [[14 - Space Path|caminho do espaço]] são perigosos de usar lá dentro. Mas o Gu do filho que
+viaja funciona ali sem risco, e a razão é cronológica: *quando a área de fluxo turbulento se formou,
+o caminho da emoção **ainda não tinha sido criado***, então não existem marcas caóticas de emoção
+naquele lugar. O caminho tem data de nascimento verificável pelos efeitos que **não** produziu — e
+a regra geral que isso revela vale para todo o cenário: **um terreno de marcas caóticas só embaralha
+os caminhos que já existiam quando ele se formou**.
 
 ### Caminho do encantamento (enchantment path)
 
@@ -211,11 +216,14 @@ especial, era bastante impensável*.
 
 ### Caminho das pílulas (pill path)
 
-**Criado na era atual** por uma criatura antiquíssima — um grou de jade verde imemorial, criado por
-uma seita e residente na maior instituição do mundo.
+**Criado na era atual** por uma criatura antiquíssima: **Ruan Dan**, um grou de jade verde
+imemorial, chocado e criado pela Seita do Grou Imortal (*Immortal Crane Sect*) e residente no
+[[19 - Tribunal Celestial|Tribunal Celestial]], onde cultiva em tempos normais. É um dos raros
+criadores de caminho que não é humano nem Venerável.
 
 **Função: cura.** *Embora o caminho das pílulas não fosse especializado em ofensa, ainda era **um
-caminho novo contra o qual [uma cidade fortificada] não conseguia se defender***. O praticante
+caminho novo contra o qual a Cidade Nuvem Ascendente (*Rising Cloud City*) não conseguia se defender*** — uma cidade
+fortificada inteira sem contramedida, só por o caminho ser novo. O praticante
 registrado ativava golpes de pílula continuamente para **curar os imortais do próprio lado** no meio
 de uma batalha.
 
@@ -242,9 +250,11 @@ golpes, mais de cinquenta deles imortais**.
 
 ### Caminho das armas (weapon path)
 
-**Criado muito recentemente** por um Gu Imortal de uma grande instituição — um humano puro-sangue. E
-a obra usa uma palavra dura: o caminho *foi criado **toscamente** por ele, recentemente*. É uma
-criação **imatura**, e o texto o diz.
+**Criado muito recentemente** por **Che Wei**, um Gu Imortal do [[19 - Tribunal Celestial|Tribunal
+Celestial]] e humano puro-sangue — a constituição de espiritualidade mais forte, o que importa aqui
+porque é ela que determina o ganho dele na formação de derivação. A obra usa uma palavra dura: o
+caminho *foi criado **toscamente** por ele, recentemente*. É uma criação **imatura**, e o texto o
+diz.
 
 **A mecânica de construção de um caminho novo por conversão** está aqui, e é o dado mais aproveitável
 do verbete:
@@ -379,11 +389,11 @@ caminho do selo*, e ele conseguiu **selar até um Gu mortal de rank 5**, impedin
 
 Este é o melhor gancho de campanha desta nota, e é inteiramente canônico.
 
-Um Venerável Demônio **queria criar o caminho da matança**. Para isso, usou métodos do
-[[20 - Food Path|caminho da comida]] para **devorar um espírito celeste imemorial** e fundi-lo a si
-mesmo. **Falhou** — e foi forçado a criar o [[12 - Soul Path|caminho da alma]] em lugar dele. Ainda
-assim, mesmo falhando, *ele apreendeu muitas profundidades que lhe permitiram criar o caminho da
-alma*.
+O **Spectral Soul Demon Venerable** **queria criar o caminho da matança** — não o caminho da alma.
+Para isso, usou métodos do [[20 - Food Path|caminho da comida]] para **devorar o espírito celeste
+imemorial do Céu Negro** (*black heaven*, um dos céus que cobrem o mundo) e fundi-lo a si mesmo.
+**Falhou** — e foi forçado a criar o [[12 - Soul Path|caminho da alma]] em lugar dele. Ainda assim,
+mesmo falhando, *ele apreendeu muitas profundidades que lhe permitiram criar o caminho da alma*.
 
 A filosofia proposta é sofisticada e vale citar quase inteira, porque é uma provocação a um caminho
 existente:
@@ -396,12 +406,13 @@ existente:
 
 Ou seja: o caminho da matança é proposto como o **superconjunto** do caminho da comida.
 
-E existe um **Gu do Matar**, que é *claramente o Gu Imortal-núcleo do caminho da matança; ele não se
-formou tão facilmente*. Dois detalhes registrados fecham o quadro e são os melhores ganchos daqui:
-o Gu-núcleo **se formou dentro do corpo de um ser vivo**, não numa bancada de refino; e a obra
-registra, muito depois da tentativa fracassada, que ==sinais do caminho da matança **voltaram a
-emergir**== — sem que ninguém estivesse tentando criá-lo conscientemente. O caminho continua
-pressionando para nascer.
+E existe um **Gu do Matar** (*Kill Gu*), que é *claramente o Gu Imortal-núcleo do caminho da
+matança; ele não se formou tão facilmente*. Dois detalhes registrados fecham o quadro e são os
+melhores ganchos daqui: o Gu-núcleo **se refinou sozinho dentro do corpo do próprio Spectral
+Soul**, não numa bancada de refino; e a obra registra, muito depois da tentativa fracassada, que
+==sinais do caminho da matança **voltaram a emergir**== nele — e desta vez **sem que ele estivesse
+lúcido nem tentando criá-lo**. O caminho continua pressionando para nascer, e a reação registrada
+do resto do mundo é afastar os próprios imortais da região onde isso acontece.
 
 > [!note] Para o design
 > **Um caminho abortado é diferente de um caminho não descoberto.** Os fenômenos existem, o
@@ -409,15 +420,17 @@ pressionando para nascer.
 > e o subproduto do fracasso foi uma das grandes escolas do mundo. É o par perfeito do
 > [[26 - Dream Path|caminho dos sonhos]], que também espera um fundador, mas sem a história de
 > tentativa e derrota. Numa mesa: alguém já tentou, e o que sobrou daquela tentativa está solto no
-> mundo.
+> mundo — inclusive o Gu-núcleo, que continua se formando por conta própria.
 
 ### Caminho do yin-yang — o caminho que fracassou
 
 O contraexemplo institucional, e o único caso da obra em que um Venerável **criou um caminho que não
 pegou**.
 
-Um dos dez Veneráveis criou um caminho novo a partir de pesquisa sobre as lendas do Ancestral
-Humano, e o chamou de caminho do yin-yang. O veredito canônico é seco:
+Quem o criou foi o **Giant Sun Immortal Venerable**, o mesmo Venerável que fundou o
+[[23 - Luck Path|caminho da sorte]], e a matéria-prima foi a pesquisa dele sobre *As Lendas do
+Ancestral Humano* (o texto sagrado que também é a base do [[24 - Human Path|caminho humano]]). Ele
+chamou o resultado de caminho do yin-yang. O veredito canônico é seco:
 
 > Embora houvesse alguns resultados de pesquisa no caminho do yin-yang, ele **não conseguiu alcançar
 > uma mudança qualitativa para se tornar um caminho totalmente novo**. No máximo, podia ser usado
@@ -425,10 +438,11 @@ Humano, e o chamou de caminho do yin-yang. O veredito canônico é seco:
 
 **Por que fracassou — e a resposta é conceitual, não de poder.** A ambição declarada era **usar o
 yin e o yang para descrever todos os seres do mundo**. A obra compara essa ambição, explicitamente,
-à do maior praticante do [[13 - Sound Path|caminho do som]], que queria *usar o som para expressar
-toda a vida deste mundo* — e o contraste é o ponto: o segundo chegou a nove canções, o primeiro
-desistiu. O motivo é registrado sem piedade: conforme sua força e seu conhecimento cresciam, ele
-**reconheceu que sua própria formulação de yin-yang era muito rasa** e abandonou o projeto.
+à de **Feng Jiu Ge**, o maior praticante vivo do [[13 - Sound Path|caminho do som]], que queria
+*usar o som para expressar toda a vida deste mundo* — e o contraste é o ponto: o segundo chegou a
+nove canções, o primeiro desistiu. O motivo é registrado sem piedade: conforme sua força e seu
+conhecimento cresciam, Giant Sun **reconheceu que sua própria formulação de yin-yang era muito
+rasa** e abandonou o projeto.
 ==Um Venerável falhou em fundar um caminho não por falta de poder, mas por a ideia não ser boa o
 bastante.==
 
@@ -444,7 +458,10 @@ nascimento:
 | **Feto Morto** | — a obra não descreve |
 | **Reencarnação** | — a obra não descreve |
 
-E há a **extensão de vida yin-yang**, guardada em cofre: um método que exige **um imortal homem e
+E há a **extensão de vida yin-yang**, guardada dentro do
+[[15 - O Edifício dos Oitenta e Oito Andares|Edifício dos Oitenta e Oito Yang Verdadeiros]] — a Casa
+de Gu Imortal de rank 8 do próprio Giant Sun, que é o cofre-masmorra das Planícies do Norte. O
+método exige **um imortal homem e
 uma imortal mulher cooperando, usando a cópula para estender a longevidade de um dos dois**. A
 falha é declarada e é o que impede o método de ser uma solução para a mortalidade: ==se um ganha
 tempo de vida, o outro **necessariamente perde**==. Não se cria longevidade — apenas se transfere.
@@ -498,9 +515,19 @@ próprias". Não significa: o caminho fantasma tem as suas.
 
 Este é o achado mais estranho e mais aproveitável da nota.
 
-Existe pelo menos um lugar no mundo onde marcas do Dao de todos os caminhos se misturam em caos
-permanente — e, ali, **marcas do Dao inteiramente novas se formam sozinhas**. Um perito capaz de
-lê-las encontrou, no mesmo lugar:
+Esse lugar tem nome: a ==[[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]==
+(*Crazed Demon Cave*), a escavação subterrânea que o **Limitless Demon Venerable** deixou no
+Continente Central. Lá dentro, marcas do Dao de todos os caminhos estão misturadas em caos
+permanente — e, ali, **marcas do Dao inteiramente novas se formam sozinhas**.
+
+O mecanismo é registrado com precisão, e é bonito: as marcas novas normalmente são **raras demais e
+espalhadas demais para alguém notar**. Quando os **sons demoníacos** da caverna começam a soar, eles
+põem todas as marcas em movimento; o atrito entre marcas de caminhos diferentes faz as marcas
+**semelhantes se juntarem**, cada caminho ganha uma cor única, e a massa resultante fica grande o
+bastante para ser vista. No sétimo nível da caverna, as marcas do metal se enrolavam como uma píton
+dourada, as da alma avançavam como nuvens escuras do tamanho de uma muralha — e, no chão, um filete
+fino de uma marca que não era de caminho nenhum. Um imortal com attainment alto em muitos caminhos
+encontrou, no mesmo lugar:
 
 - marcas que ele identificou como sendo do **caminho das pílulas** (que já existia);
 - marcas do **caminho da pintura** (que existia, mas em segredo absoluto);
@@ -536,13 +563,13 @@ Juntando o que os verbetes desta nota mostram, a obra documenta **três rotas** 
 
 E as **duas maneiras documentadas de fracassar** são de naturezas completamente diferentes:
 
-- **Fracasso conceitual** — o caminho do yin-yang. O criador tinha poder de Venerável e ambição de
-  descrever todos os seres do mundo, mas concluiu que **a própria formulação era rasa demais** e
-  desistiu. O caminho nunca alcançou a mudança qualitativa. ==Não é falta de força: é falta de ideia
-  boa o bastante.==
-- **Fracasso de substrato** — o caminho da matança. Outro Venerável tentou obtê-lo devorando um ser
-  cheio de vontade celeste e **falhou**, sendo forçado a criar outra escola com o que aprendeu no
-  caminho.
+- **Fracasso conceitual** — o caminho do yin-yang, de **Giant Sun Immortal Venerable**. O criador
+  tinha poder de Venerável e ambição de descrever todos os seres do mundo, mas concluiu que **a
+  própria formulação era rasa demais** e desistiu. O caminho nunca alcançou a mudança qualitativa.
+  ==Não é falta de força: é falta de ideia boa o bastante.==
+- **Fracasso de substrato** — o caminho da matança, do **Spectral Soul Demon Venerable**. Ele tentou
+  obtê-lo devorando um ser cheio de vontade celeste e **falhou**, sendo forçado a criar o
+  [[12 - Soul Path|caminho da alma]] com o que aprendeu no caminho.
 
 > [!note] Para o design
 > Estas cinco linhas são um sistema de "criar sua própria escola" quase pronto. Um grupo que queira
@@ -560,8 +587,10 @@ impedindo-os de inovar e **arruinando o desenvolvimento futuro**. A imagem que a
 agrícola: são brotos que acabaram de receber uma injeção de essência e precisam de muito tempo para
 se recuperar — *ajuda em excesso destruiria a criatividade deles*.
 
-A criatura antiquíssima que criou um dos caminhos novos, com uma vida longuíssima e experiências
-incontáveis, **não sofre esse limite** e obteve ganhos imensos. ==A moeda que a máquina consome é
+Ruan Dan, o grou imemorial que criou o caminho das pílulas, com uma vida longuíssima e experiências
+incontáveis, **não sofre esse limite** e obteve ganhos imensos — e Che Wei, que criou o caminho das
+armas havia muito menos tempo, obteve ganho equivalente **por ser humano puro-sangue**, de
+espiritualidade máxima. ==A moeda que a máquina consome é
 experiência de vida acumulada.==
 
 ### 5. Os caminhos pequenos guardam os fenômenos mais estranhos do sistema
@@ -601,8 +630,8 @@ esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que 
    experiências de vida diferentes é que o constroem.
 6. **Um caminho novo não tem contramedida no mundo**, e essa é a sua maior vantagem tática enquanto
    dura.
-7. **Fundar um caminho pode fracassar.** Um Venerável tentou e não conseguiu a mudança qualitativa; um
-   Venerável Demônio tentou outro, falhou e criou uma escola diferente como subproduto.
+7. **Fundar um caminho pode fracassar.** Giant Sun tentou o yin-yang e não conseguiu a mudança
+   qualitativa; Spectral Soul tentou a matança, falhou e criou o caminho da alma como subproduto.
 
 > [!note] Para o design
 > **Arquétipo entregue: o pioneiro.** Nenhum dos caminhos desta nota entrega um personagem pronto —
@@ -628,8 +657,9 @@ esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que 
 
 - **Não existe lista fechada de caminhos.** A enumeração canônica cobre os principais e diz
   explicitamente que omite os menores "por ora". O mundo tem **mais caminhos do que a obra nomeia**.
-- **Criador:** apenas as pílulas, as armas e o yin-yang têm criador nomeado entre os desta nota. Osso,
-  lâmina, lua, sombra, ilusão, selo e restrição — `—`.
+- **Criador:** entre os desta nota, só o yin-yang tem criador nomeado (Giant Sun); das pílulas e das
+  armas a obra descreve o criador sem lhe dar nome (o grou de jade verde e o Gu Imortal humano
+  puro-sangue). Osso, lâmina, lua, sombra, ilusão, selo e restrição — `—`.
 - **Mecânica:** dos caminhos da ilusão e do selo, a obra dá **apenas o nome e uma aparição**.
 - **A relação entre o caminho das armas criado e a profecia do caminho-guarda-chuva das armas.**
 - **Se o caminho da matança pode ainda ser criado por outra pessoa.**

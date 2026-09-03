@@ -7,7 +7,7 @@ aliases:
   - Reputação como infraestrutura
   - Pagar favores em público
 status: verificado-no-texto
-fontes: ["cap. 105", "cap. 286", "cap. 290", "cap. 293", "cap. 314"]
+fontes: ["cap. 105", "cap. 286", "cap. 290", "cap. 293", "cap. 312", "cap. 313", "cap. 314", "cap. 315", "cap. 316"]
 conhecimento: comum
 ---
 
@@ -44,14 +44,24 @@ reportou que ele era "utilizável, não vale a pena atacar". Reputação como **
 
 ## Duas variantes mais baratas
 
-**A derrota calculada.** Prestes a perder por esgotamento de energia, uma cultivadora gastou o que
-restava **não em tentar vencer**, mas em destruir três dos Gu de trunfo do adversário antes de se
-render. Ela perdeu a luta e um Gu; o vencedor ganhou a luta e perdeu patrimônio que levaria anos
-para repor. A regra por trás: num mundo em que o poder de uma pessoa é o inventário dela, **dano
-patrimonial vale mais que dano de placar**. O episódio está detalhado em
-[[18 - Perder de Propósito e Cobrar Caro|Perder de Propósito e Cobrar Caro]]; aqui interessa que a
-derrotada saiu com a reputação **aumentada** — leitura nossa `(ded.)`, decorrente de a plateia ter
-visto uma perdedora impor um prejuízo que o vencedor não conseguiu evitar.
+**A derrota calculada.** Num duelo de arena com regra de espólio — o vencedor tem direito de exigir
+um Gu do perdedor —, uma cultivadora de rank 3 prestes a perder por esgotamento de energia gastou o
+que restava **não em tentar vencer**, mas em destruir três dos Gu de trunfo do adversário antes de
+anunciar a rendição: dois de rank 3 e um de rank 4, todos alcançados no mesmo golpe porque ele
+acabara de concentrá-los num ponto só do campo. Ela perdeu a luta e um Gu; o vencedor ganhou a luta e
+saiu no prejuízo.
+
+A regra por trás: num mundo em que o poder de uma pessoa **é** o inventário dela, dano patrimonial
+vale mais que dano de placar. E a precisão que a obra faz questão de acrescentar — sem a qual a lição
+sai errada — é que o que pesa não é a destruição em si, é a **raridade** do que foi destruído: o Gu
+que a perdedora entregou era comum e reponível, e por isso a perda "não teve influência grande demais
+sobre ela"; parte do que ela destruiu, não. **O dano patrimonial que importa é o dano ao
+insubstituível.**
+
+Para quem está ganhando, a lição gêmea: **não junte todos os seus trunfos no mesmo lugar**, mesmo
+quando isso maximiza o dano — foi a concentração que entregou três Gu a um único golpe. E a derrotada
+saiu com a reputação **aumentada** — leitura nossa `(ded.)`, decorrente de a plateia ter visto uma
+perdedora impor um prejuízo que o vencedor não conseguiu evitar.
 
 **A ameaça de perder de propósito.** Num duelo público entre alguém que precisa parecer virtuoso e
 alguém sem reputação a perder, o segundo ameaçou **perder feio de propósito**, destruindo a imagem
@@ -90,4 +100,4 @@ mede virtude, mede previsibilidade. Por isso é comprável com dinheiro e teatro
 - [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]] — o sistema social completo de que este caso é um exemplo.
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — por que não há instituição que substitua a reputação.
 - [[22 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] — a mesma praça pública, usada para outro fim.
-- [[30 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] — o lado sujo do mesmo mercado de percepções.
+- [[14 - Espólio de Gu|Espólio de Gu]] — o que se pode e o que não se pode tirar de um derrotado.

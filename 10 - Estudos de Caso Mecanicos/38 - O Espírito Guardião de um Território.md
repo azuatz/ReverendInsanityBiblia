@@ -150,4 +150,4 @@ guardião e as mesmas três chances: a diferença foi ler as regras.
 - [[12 - Heranças e Provações|Heranças e Provações]] — como funcionam as heranças do mundo, e quem as guarda.
 - [[31 - Infiltrar-se numa Organização|Infiltrar-se numa Organização]] — a mesma técnica de disfarce, usada contra pessoas em vez de contra um guardião.
 - [[40 - Anexação de Aberturas|Anexação de Aberturas]] — o que se faz com o território depois de tomá-lo.
-- [[39 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] — o que uma única chance bem gasta pode virar nas mãos certas.
+- [[16 - Gu Imortais|Gu Imortais]] — a regra de unicidade que decide o que um espírito guardião consegue e o que não consegue entregar.

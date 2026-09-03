@@ -22,6 +22,13 @@ o placar é público e as missões premiam consertar o mundo em vez de matar o q
 
 > Convenção: texto simples é canônico; `(ded.)` é dedução; `*` é invenção nossa; `—` é silêncio da obra. Apagar tudo o que tem `*` devolve a nota a cem por cento canônico.
 
+> [!note] Como pôr isto na sua campanha
+> Este é o caso mais limpo de **lugar que produz o cenário sempre que alguém chega**: o paraíso não
+> abre em data marcada, não pertence a ninguém e continua sem dono depois de várias expedições ao
+> longo das eras. Quem encontrar a baleia encontra o obelisco funcionando — hoje, daqui a mil anos,
+> na sua campanha, com outros nomes no placar. Não há nada aqui que precise ser "encaixado na
+> história".
+
 ## O essencial
 
 | | |

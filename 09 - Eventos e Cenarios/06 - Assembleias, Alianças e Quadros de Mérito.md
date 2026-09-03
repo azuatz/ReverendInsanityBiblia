@@ -317,8 +317,8 @@ virar pó, e isso é uma pressão de mesa maravilhosa.
 
 ## Relações
 
-- [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] — a ameaça que convoca a
-  assembleia da escala 1, e o quadro de méritos em funcionamento.
+- [[03 - Marés de Bestas|Marés de Bestas]] — a ameaça que convoca a assembleia da escala 1, e o
+  quadro de méritos em funcionamento no exemplo trabalhado daquela nota.
 - [[07 - Torneios, Arenas e Duelos|Torneios, Arenas e Duelos]] — o que acontece quando a negociação
   fracassa e o palco decide.
 - [[14 - O Ciclo Decenal das Planícies do Norte|O Ciclo Decenal das Planícies do Norte]] — o calendário

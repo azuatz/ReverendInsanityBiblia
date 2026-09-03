@@ -353,9 +353,26 @@ tratada como uma anomalia à espera de correção, não como o estado normal das
 é raríssimo. Numa região inteira existem apenas algumas centenas de Imortais, a maioria
 de rank 6. O rank 8 é a camada política: cada movimento de um deles remodela uma região.
 
-**O que se perdeu e não volta:** a luz da glória imemorial; sete dos nove céus; o
-método de refinar um determinado Gu de fuga espacial, que fracassou nas mãos do maior
-refinador da história; e várias receitas cujos materiais vinham de céus destruídos.
+**O que se perdeu e não volta:** a luz da glória imemorial; sete dos nove céus; e várias
+receitas cujos materiais vinham de céus destruídos.
+
+**O problema técnico mais famoso ainda em aberto:** o ==Space Escape Gu== (Gu de fuga
+espacial). A **Porta do Espaço** (Space Door) é um lugar lendário do caminho do espaço, e
+o Thieving Heaven Demon Venerable quis a vida inteira entrar nela. Ele pesquisou pessoalmente
+a receita de um Gu Imortal que permitisse a travessia e encomendou o refino ao **Long Hair
+Ancestor**, o terceiro dos três Supremos Grão-Mestres de refinamento da história. O Long Hair
+Ancestor achou a receita boa, sugeriu melhorias, e os dois trabalharam **vinte e um anos**
+até refinar o Space Escape Gu **com sucesso**. Aí está o ponto que interessa ao design: o Gu
+ficou pronto, podia ser acionado normalmente — e **mesmo assim não entrava na Porta do
+Espaço, fizesse o Venerável o que fizesse**. Nem o refinador nem o Venerável descobriram o
+motivo, e pesquisa posterior com um segundo Venerável também não avançou. Ficou registrado
+como **o único fracasso da vida do Long Hair Ancestor**. É o exemplo mais limpo do cenário de
+que um Gu pode ser refinado corretamente, custar décadas de trabalho de dois dos maiores
+especialistas do mundo e ainda assim **não cumprir a função para a qual foi projetado** —
+porque a falha estava na concepção, não na execução. Um Imortal de rank 8 do caminho da
+sabedoria gastou **cinquenta anos do próprio tempo de vida** deduzindo o futuro para consolar
+o amigo moribundo, e a previsão que ele produziu — a chamada **Profecia dos Três Veneráveis**
+— diz que o problema só será resolvido pelo Venerável que ainda não nasceu.
 
 ---
 

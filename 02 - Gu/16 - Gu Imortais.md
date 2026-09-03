@@ -5,7 +5,7 @@ aliases:
   - Immortal Gu
   - Gu Imortal
 status: consolidado
-fontes: ["cap. 183", "cap. 189", "cap. 860", "cap. 909", "cap. 933", "cap. 950", "cap. 1030", "cap. 1044", "cap. 1058", "cap. 1114", "cap. 1129", "cap. 1161", "cap. 1186", "cap. 1212", "cap. 1230", "cap. 1242", "cap. 1284", "cap. 1299", "cap. 1441", "cap. 1444", "cap. 1457", "cap. 1478", "cap. 1511", "cap. 1529", "cap. 1608", "cap. 1681", "cap. 1790", "cap. 1852", "cap. 2020", "cap. 2108", "cap. 2119", "cap. 2151", "cap. 2178", "cap. 2246", "cap. 2251", "cap. 2292", "cap. 2327"]
+fontes: ["cap. 183", "cap. 189", "cap. 485", "cap. 486", "cap. 487", "cap. 860", "cap. 909", "cap. 933", "cap. 950", "cap. 1030", "cap. 1044", "cap. 1058", "cap. 1114", "cap. 1129", "cap. 1161", "cap. 1186", "cap. 1212", "cap. 1230", "cap. 1242", "cap. 1284", "cap. 1299", "cap. 1441", "cap. 1444", "cap. 1457", "cap. 1478", "cap. 1511", "cap. 1529", "cap. 1608", "cap. 1681", "cap. 1790", "cap. 1852", "cap. 2020", "cap. 2108", "cap. 2119", "cap. 2151", "cap. 2178", "cap. 2246", "cap. 2251", "cap. 2292", "cap. 2327"]
 conhecimento: especializado
 ---
 
@@ -71,6 +71,15 @@ terminal inexplicável significa que aquele Gu já existe em algum lugar, nas m�
   material principal** — sob risco de destruí-la.
 - **Vale para produção automática.** Um Gu que fabrica outros Gu só produz uma versão
   imortal se ainda não existir uma no mundo.
+- **A vaga reabre, e por isso pode ser cronometrada.** A unicidade não é uma decisão tomada
+  de uma vez: é uma **verificação que o mundo refaz o tempo todo**. No instante em que o único
+  exemplar é destruído — ou consumido como material de outro refino —, o lugar dele fica vago e
+  um novo pode nascer. Quem estiver com o processo de criação **já em andamento** naquele
+  instante ocupa a vaga; quem começar depois disputa em igualdade com o mundo inteiro. Há
+  registro de alguém que provocou de propósito o consumo de um exemplar e sincronizou o próprio
+  ritual com ele, colhendo **dois** artefatos onde a regra permitiria um. A consequência de mesa
+  é grande: destruir o artefato de um inimigo nunca é só dano — é **abrir uma vaga**,
+  possivelmente para quem estava esperando por ela.
 - **Existe uma cópia possível, e ela é oficialmente inferior.** Um Gu-caixa deixado por um
   venerável antigo, ao ficar algum tempo ao lado de **qualquer** Gu Imortal do mundo,
   **transforma-se nele** e pode ser acionado por quem o possui. É a única brecha conhecida

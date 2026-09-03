@@ -8,8 +8,10 @@ aliases:
   - Beast Tides
   - Beast Wave
   - Maré de bestas
+  - Wolf Tide
+  - Maré de Lobos
 status: verificado-no-texto
-fontes: ["cap. 31", "cap. 93", "cap. 95", "cap. 96", "cap. 97", "cap. 103", "cap. 118", "cap. 122", "cap. 145", "cap. 147", "cap. 191", "cap. 409", "cap. 451", "cap. 452", "cap. 453", "cap. 455", "cap. 850", "cap. 1034", "cap. 1035", "cap. 1036", "cap. 1085-1089", "cap. 1093", "cap. 2046", "cap. 2081-2082", "cap. 2139", "cap. 2220", "cap. 2287"]
+fontes: ["cap. 31", "cap. 93", "cap. 94", "cap. 95", "cap. 96", "cap. 97", "cap. 103", "cap. 110", "cap. 111-112", "cap. 117", "cap. 118", "cap. 122", "cap. 123", "cap. 124", "cap. 125", "cap. 127", "cap. 128", "cap. 131", "cap. 132", "cap. 145", "cap. 147", "cap. 148", "cap. 163", "cap. 168", "cap. 169", "cap. 170", "cap. 171", "cap. 178", "cap. 180", "cap. 186", "cap. 191", "cap. 305", "cap. 409", "cap. 451", "cap. 452", "cap. 453", "cap. 455", "cap. 850", "cap. 1034", "cap. 1035", "cap. 1036", "cap. 1085-1089", "cap. 1093", "cap. 2046", "cap. 2081-2082", "cap. 2139", "cap. 2220", "cap. 2287"]
 conhecimento: comum
 ranks: "1 a 5 no mundo mortal; 6 a 8 nas zonas selvagens"
 ---
@@ -36,9 +38,9 @@ resolve com engenharia em vez de heroísmo==.
 | **O que se ganha** | couro, presas, a chance de um Gu no corpo da besta; pontos de mérito; avanço de cultivo acelerado pela pressão; e, quando a maré é dirigida, os Gu de escravização do culpado |
 | **O que se perde** | uma tribo média pode ser apagada ou reduzida a vassala **em dois dias** |
 
-O resto da nota é aprofundamento opcional. Esta é a nota da **categoria**; o exemplo trabalhado
-do começo ao fim, com calendário, aliança e placar, está em
-[[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]].
+O resto da nota é aprofundamento opcional. Esta é a nota da **categoria**, e ela termina com um
+**exemplo trabalhado do começo ao fim** — uma maré grande de um ano inteiro, com calendário,
+aliança, placar e nove fases em ordem —, que serve de molde para montar a sua.
 
 ## Por que acontece
 
@@ -229,10 +231,122 @@ não devolve o mapa ao estado anterior.
   de terra, torres de arqueiro e várias camadas erguidas com Gu, mas não há regra geral.
 - **Como exatamente se dirige uma maré inteira** — a obra mostra o efeito e o custo, não o procedimento.
 
+## Exemplo trabalhado: como se monta uma maré de um ano inteiro
+
+Tudo o que veio até aqui é a categoria. Esta seção é **uma maré montada do começo ao fim**, com
+calendário, aliança e placar, para servir de molde: a obra registra uma delas com detalhe
+suficiente para virar campanha, e nada nela depende do lugar onde aconteceu. Troque a espécie,
+troque o número de clãs, troque a estação — a estrutura continua de pé.
+
+**O tabuleiro.** Uma montanha florestada com **três vilas-clã** e, espalhadas pelo sopé, **dezenas
+de aldeias mortais sem muro nenhum**, que são a primeira coisa que a maré come. Os três clãs são
+rivais históricos; um está em ascensão, e o mais fraco é o que fica **embaixo** — e por estar
+embaixo é **sempre o primeiro a ser atingido**. O teto de poder da montanha são os três chefes de
+clã, de rank 4. A espécie é o **lobo-relâmpago**, e o ciclo local é de **três anos**.
+
+**Por que ninguém vem salvar.** A região inteira tem menos de cinquenta Mestres Gu de rank 5 e
+nenhum deles mora nessa montanha. Quando um rank 5 finalmente aparece, é um investigador
+**itinerante**, de passagem, e a justificativa que ele dá é doutrinária, não pessoal: *a maré de
+bestas diz respeito a toda a humanidade, precisamos unir as mãos*. Socorro, aqui, custa concessão
+política ou depende da sorte de alguém estar passando.
+
+### As nove fases, em ordem
+
+As três primeiras acontecem **antes** de o primeiro lobo aparecer no muro, e são o melhor lugar
+para começar uma campanha.
+
+| # | Fase | O que acontece |
+|---|---|---|
+| 1 | **O prelúdio, um ano antes** | uma maré *pequena* se forma fora de hora. É anomalia com data: pela norma da região, lobos-relâmpago só apareciam a partir da **terceira onda** de uma maré pequena; virem já na primeira significa que a grande do ano seguinte será excepcional. Mobilização, três anciãos rank 3 estabilizando a linha, três dias de recolhimento de corpos, interrogatórios e **assembleia fúnebre coletiva** |
+| 2 | **Os sinais de inverno** | bandos de **lobos aleijados e expulsos** — algumas dezenas, feridos mas experientes e astutos, perigosos para um rank 2 médio — rondam a vila. Caçadores mortais param de subir, aldeões isolados morrem, o clã lança limpezas e a montanha satura de patrulhas |
+| 3 | **A negociação de aliança** | os três clãs travam por **semanas**. A aliança em si é consenso; o que trava é a divisão de custos e ganhos. Contendas públicas de Gu servem de exercício militar e de ficha de barganha |
+| 4 | **A economia de guerra** | assinatura das regras, montagem do quadro de méritos e cruzada conjunta para eliminar alcateias antes dos muros. Os três clãs **esvaziam as reservas guardadas** para armar os combatentes |
+| 5 | **Os cercos** | as alcateias passam a cercar vilas inteiras. A vila mais baixa é cercada repetidas vezes, uma delas por **seis dias e seis noites**. O socorro é sempre o mesmo padrão: ataque coordenado de dentro e de fora ao mesmo tempo, para quebrar o cerco em pedaços |
+| 6 | **A escalada de reis** | a hierarquia aparece de baixo para cima — *cinco tigres, um lamassu; três cães, um molosso; **dez lobos, um lycan***. Na prática: lobos comuns → lobos de elite → um **lobo de coroa trovejante** → bandos frenéticos com um **rei de mil bestas** → um **lycan-relâmpago**, rei de miríade de bestas |
+| 7 | **O estrategista** | o rei de miríade muda o jogo porque **pensa**: inteligência não inferior à humana. Detalhe abaixo |
+| 8 | **Uma vila cai** | quando uma das três não aguenta, a maré inteira se volta contra a seguinte e a pressão **dobra sem que tenha chegado um lobo a mais**. Daqui em diante lutam aposentados realistados e anciãos de gabinete de armadura |
+| 9 | **A intervenção e o rescaldo** | alguém de rank 5 assume, e **expulsa** — *"afugentar pela força é a melhor forma de lidar"*. Depois vêm meses de reabilitação, contagem, luto e ajuste de contas político |
+
+As três coisas que o rei de miríade da fase 7 faz e nenhuma outra besta faz:
+
+- **Cerco reverso**: prevê a rota de fuga de um grupo humano e manda alcateias fecharem por trás.
+- **Anula o campo de batalha**: carrega um Gu de rank 4 de Fumaça de Lobo, que cobre em instantes
+  um raio de mais de **cem li** — cerca de cinquenta quilômetros — de fumaça negra. Dentro dela
+  ninguém enxerga além de uma árvore, respirar é difícil, e a orientação passa a depender de Gu de
+  audição ou de direção. Ele ataca de dentro da fumaça com raios que atravessam os mesmos cem li.
+- **Escolhe alvos**: não é horda solta, é uma inteligência decidindo quem morre primeiro.
+
+### As dez regras de uma montanha mobilizada
+
+O que muda na vida de todo mundo quando a maré é declarada. É a parte mais transportável do
+exemplo: vale para qualquer aliança de emergência entre forças que não se gostam.
+
+1. **Mobilização obrigatória.** A maré é declarada **missão urgente** com ordem geral; recusar é
+   violação de regra de clã, com punição disciplinar. Não existe "prefiro não ir".
+2. **Regra do grupo perdido.** Literal: *Mestres Gu que ficarem para trás devem se fundir ao grupo
+   mais próximo e têm obrigação de continuar lutando.*
+3. **Interrogatório obrigatório no rescaldo.** Todo Mestre Gu que volta é interrogado no salão de
+   assuntos internos — para apurar as mortes **e** para coletar estatística de batalha. Tudo o que
+   o grupo fizer na floresta será perguntado depois.
+4. **Trégua obrigatória entre os clãs aliados** enquanto a maré durar: eles se socorrem mutuamente.
+5. **Proibição absoluta de matar entre aliados**, com um **grupo de batalha investigador**
+   dedicado a apurar assassinatos. Pena: expulsão, julgamento conjunto pelos clãs e morte — e, se
+   o assassino fugir da montanha, **a família responde com a vida**.
+6. **Todo Gu retirado de um cadáver deve ser entregue ao clã**, virando pontos de mérito; usar em
+   segredo um Gu tirado de um morto é tratado como assassinato. A regra existe porque o espólio é
+   o maior incentivo que há para matar o próprio aliado — ver [[14 - Espólio de Gu|Espólio de Gu]].
+7. **A fraqueza estrutural da espécie é a chave da campanha inteira.** Lobos-relâmpago têm visão
+   de águia e velocidade altíssima, mas **olfato apenas humano** — a natureza cobrou o preço.
+   Logo, qualquer Gu de furtividade visual funciona contra a maré inteira; contra cães ou lobos
+   comuns, o mesmo Gu não serviria para nada. Exceção: o rei chamado **lobo de coroa trovejante**
+   carrega nos olhos um Gu de Olho de Relâmpago que **enxerga através de qualquer camuflagem**.
+8. **A batalha é noturna e no inverno.** As operações começam à noite, com neve, e a obra é
+   explícita: batalha noturna é muito mais perigosa que diurna, porque se perde a direção no meio
+   do combate, e **grupo separado é grupo morto**. Os Mestres Gu saem em grupos de cinco ou seis,
+   em fluxo contínuo, cada grupo com um setor de floresta.
+9. **A vila fica sitiada mesmo quando não está.** No auge, **nove em cada dez casas estão vazias**;
+   as caravanas param de subir e as comunicações com fora são cortadas — ninguém entra, ninguém
+   sai, ninguém vem ajudar.
+10. **Enquanto a maré dura, a fiscalização para.** Investigações internas congelam, disputas
+    políticas ficam suspensas, dívidas não são cobradas. É uma **licença explícita para os
+    jogadores agirem** — e a razão pela qual crimes cometidos durante uma maré passam despercebidos.
+
+### O que custa, em números
+
+Antes da fase final, a estimativa dos próprios líderes é que **menos de um décimo** dos
+combatentes sobreviveria. No rescaldo, o balanço real é que os clãs perderam **pelo menos metade
+da população** — não os noventa por cento temidos, mas metade — e **uma vila-clã inteira deixou de
+existir**. O gargalo é declarado em voz alta: *"o clã pode sacrificar rank 2, mas rank 3 são os
+pilares, e cada perda é um dano enorme"* — um clã médio tem **pouco mais de vinte** anciãos rank 3
+depois de gerações de esforço. O que mata quem se distrai, no dia a dia, não é o rei: é que um
+lobo-relâmpago corre mais rápido do que o olho segue, que a maré ataca em massa e por trás, e que
+**a essência primordial acaba** — sem essência um Mestre Gu não vale um mortal, *"um fênix
+enfraquecido é inferior a uma galinha"*. Ver [[04 - Essência Primordial|Essência Primordial]].
+
+O prêmio, do outro lado da conta: a obra fala nos *"dez astros em ascensão surgidos da maré"*. Uma
+temporada de maré cria figuras públicas do nada.
+
+> [!note] Para o design
+> **É uma campanha inteira, não uma sessão**, porque tem calendário. Comece **um ano antes**, na
+> maré pequena da fase 1: os jogadores ganham de graça uma data e a sensação de terem visto vir.
+> Três engrenagens sustentam o ano sem que a mestra invente aventura — o **quadro de méritos**
+> (missões, dinheiro, placar público), a **aliança** (aliados que ninguém escolheu, regras
+> escritas, um investigador no cangote) e a **escalada de reis** (a curva de dificuldade pronta). A
+> licença de ouro está na regra 10: enquanto a maré dura, **ninguém fiscaliza nada**.
+>
+> `*` Ritmo que funciona: alterne uma sessão "dentro da floresta" (setor designado, isolamento,
+> essência acabando) com uma sessão "dentro da vila" (placar, política, feridos, o portão). A
+> guerra vira rotina — e é quando vira rotina que a fase 7 assusta.
+
+> [!question] O que a obra não diz sobre este exemplo
+> O efetivo humano — nem o total de Mestres Gu dos três clãs, nem mortes por vila, nem quantos
+> mortais viviam no sopé. A duração exata em meses: passa de um ano, o inverno abre e a primavera
+> chega com a maré ativa, mas a conta fechada, não. O raio da área afetada e o número total de
+> lobos: "dezenas de milhares" é o que há. E o tempo que a fauna leva para se repor, e portanto
+> quando a seguinte é possível. `—`
+
 ## Relações
 
-- [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] — o exemplar completo,
-  com calendário, aliança e placar.
 - [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] — a fauna e a hierarquia de reis.
 - [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — as espécies nomeadas.
 - [[07 - Enslavement Path|Enslavement Path]] — o caminho que transforma uma maré em arma.

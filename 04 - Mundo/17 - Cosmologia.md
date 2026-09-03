@@ -14,7 +14,7 @@ aliases:
   - Earth Trench
   - Os Nove Céus
 status: consolidado
-fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 755", "cap. 813", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1155", "cap. 1301", "cap. 1400", "cap. 1408", "cap. 1531", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 2053", "cap. 2001", "cap. 2140", "cap. 2145", "cap. 2170", "cap. 2267", "cap. 2277", "cap. 2278", "cap. 2333", "cap. 2192"]
+fontes: ["cap. 21", "cap. 34", "cap. 73", "cap. 187", "cap. 383", "cap. 389", "cap. 404", "cap. 466", "cap. 559", "cap. 722", "cap. 740", "cap. 743", "cap. 755", "cap. 813", "cap. 871", "cap. 920", "cap. 931", "cap. 936", "cap. 955", "cap. 970", "cap. 1028", "cap. 1044", "cap. 1131", "cap. 1155", "cap. 1301", "cap. 1400", "cap. 1408", "cap. 1531", "cap. 1707", "cap. 1716", "cap. 1734", "cap. 1779", "cap. 1849", "cap. 1859", "cap. 1931", "cap. 1968", "cap. 1970", "cap. 1972", "cap. 1990", "cap. 1992", "cap. 1993", "cap. 2001", "cap. 2032", "cap. 2053", "cap. 2140", "cap. 2145", "cap. 2170", "cap. 2171", "cap. 2172", "cap. 2192", "cap. 2267", "cap. 2277", "cap. 2278", "cap. 2333"]
 conhecimento: segredo
 ---
 
@@ -106,9 +106,13 @@ Três consequências que reorganizam o cenário inteiro na cabeça de quem as ou
 3. **E ele é o maior nó de veia de céu do mundo**, além do maior nó de veia de luz e de veia de
    fogo dos dois céus — ver [[#Veias de céu]].
 
-E, por ser uma coisa e não um princípio, **pode ser destruído**. Um Venerável fez exatamente
-isso: destruiu o sol, junto com pilares celestes e abismos celestiais, para acelerar a fusão dos
-dois céus remanescentes.
+E, por ser uma coisa e não um princípio, **pode ser destruído**. *Spectral Soul Demon Venerable*
+fez exatamente isso: destruiu o sol e, junto com ele, os pilares celestes, os abismos celestiais e
+os mundos privados assentados no céu branco — todos nós de veia de céu — para acelerar o colapso do
+céu branco e a fusão dele com o céu negro. As consequências foram imediatas e mundiais: as cinco
+regiões escureceram, a temperatura despencou (regiões vizinhas a áreas geladas foram as mais
+castigadas) e o equilíbrio entre caminhos se inverteu — **o caminho da luz entrou em declínio e o
+caminho das trevas prosperou**.
 
 > [!note] Para o design
 > Aqui está o segredo com o melhor retorno emocional do domínio inteiro, e ele cabe numa frase:
@@ -140,7 +144,7 @@ O que se perdeu junto com os sete céus:
 - **Três das grandes águas de céu e terra.** Materiais de rank supremo cuja produção dependia da existência dos nove. As três grandes chamas de céu e terra, em compensação, ainda existem.
 - **Receitas inteiras.** Fórmulas lendárias de Gu Imortais que exigem material de céus que já não existem são, na prática, receitas mortas — a menos que se encontre um fragmento.
 
-**Os fragmentos.** Os sete céus caídos deixaram pedaços: mundos isolados, cada um com o caráter do céu de origem — um fragmento verde que abriga uma cidade inteira, fragmentos amarelos que são a única fonte de um pó de ocultação, fragmentos roxos cobertos de flores venenosas. São frágeis: um visitante com muitas marcas de dao literalmente estoura o fragmento ao entrar, o que produz a situação absurda de grandes potências **competindo para enviar o representante mais fraco**.
+**Os fragmentos.** Os sete céus caídos deixaram pedaços: mundos isolados, cada um com o caráter do céu de origem — um fragmento verde que abriga uma cidade inteira, fragmentos amarelos que são a única fonte do **pó de ocultação celeste** (*concealing heaven dust*), material imortal de rank 8, fragmentos roxos cobertos de flores venenosas. São frágeis: um visitante com muitas marcas de dao literalmente estoura o fragmento ao entrar, o que produz a situação absurda de grandes potências **competindo para enviar o representante mais fraco**.
 
 E os fragmentos têm um uso de altíssimo valor: **fundir um fragmento de céu imemorial a um mundo privado promove esse mundo a um patamar superior** — mas ao custo de acorrentar o dono a ele para sempre e de abrir uma janela permanente pela qual o céu passa a vigiar aquele lugar. Ver [[13 - Blessed Lands e Grotto-Heavens#Fragmentos de céu]] e [[15 - Vontade dos Céus|Vontade dos Céus]].
 
@@ -178,7 +182,7 @@ Esta é, provavelmente, a chave técnica mais reaproveitável do domínio inteir
 
 1. **Sustentam as paredes regionais.** Cada região tem a sua, e cada uma dá àquela região uma energia ambiente de sabor próprio; a diferença entre duas vizinhas é a parede. Ver [[04 - As Cinco Regiões|As Cinco Regiões]].
 2. **Remodelam a superfície periodicamente.** Uma cratera do Deserto Ocidental é ligada diretamente à veia: **a cada cem anos o magma jorra da veia de terra**, enche a cratera inteira, transborda e altera o terreno em volta.
-3. **Acumulam o que a humanidade sente.** Ódio, raiva e rancor acumulados numa região **decantam nas veias de terra dela** — e podem gerar criaturas. A obra registra uma fera desolada imemorial "criada a partir de ódio, raiva e rancores sem fim, todas essas emoções negativas nas veias de terra do Continente Central". Pior: o texto avisa que ela **voltaria a se formar a partir de veias de terra novas**. Ver [[11 - O Selvagem, as Ruínas e as Zonas Proibidas#4.1 O ressentimento é uma substância]].
+3. **Acumulam o que a humanidade sente.** Ódio, raiva e rancor acumulados numa região **decantam nas veias de terra dela** — e podem gerar criaturas. A criatura em questão tem nome: ==**Di Zang Sheng**==, fera desolada imemorial lendária "criada a partir de ódio, raiva e rancores sem fim, todas essas emoções negativas nas veias de terra do Continente Central", e tida como a de maior poder de combate entre as feras imemoriais lendárias. Pior: o texto avisa que ela **voltaria a se formar a partir de veias de terra novas**. Ver [[11 - O Selvagem, as Ruínas e as Zonas Proibidas#4.1 O ressentimento é uma substância]].
 4. **Servem de fundação para construções mágicas de escala continental**, e criaturas colossais podem se ligar fisicamente a elas para extrair nutrientes.
 5. **Elas rangem antes da Grande Era, e o rangido é o alarme do mundo.** O prenúncio da unificação é literalmente o tremor das veias de terra: elas se fundem, as paredes somem, as cinco regiões viram uma.
 
@@ -196,7 +200,7 @@ O que importa na prática são os **nós** — os pontos onde a veia se concentr
 - **Um mundo privado instalado sobre um nó de veia de céu é nutrido por ela e produz mais recursos.** É por isso que as propriedades dos cultivadores mais poderosos do mundo são extraordinariamente ricas: não é só o dono que é forte, é o **endereço**.
 - **E o maior nó de veia de céu do mundo inteiro é o Sol.** A obra é literal: o Sol existe desde a era imemorial, tem poder vasto e sem limites, e é o **maior nó de veia de céu do mundo** — além de ser o maior nó de veia de luz e de veia de fogo dos dois céus. Isso costura a cosmologia com o céu ordinário de um jeito muito elegante: a mesma bola de luz que faz o dia dos camponeses é, tecnicamente, **a maior instalação energética do universo**. Ver [[#Sim, existe um sol — e os céus são filtros]].
 - **Nó tem contraindicação.** Quando as veias de céu começam a se fundir na Grande Era — o que acontece mais discretamente do que a fusão das veias de terra, a ponto de "ainda não ser muito aparente" —, os mundos privados assentados sobre nós começam a produzir um fruto anômalo que é tratado como calamidade. E a solução discutida é a mais reveladora possível: **mudar o mundo privado de lugar**, para longe do nó. Ver [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
-- **Destruir um nó é um ato de guerra de escala máxima.** Um Venerável destruiu o Sol e outros nós do céu branco de propósito, acelerando o colapso daquele céu e a fusão dele com o outro.
+- **Destruir um nó é um ato de guerra de escala máxima.** *Spectral Soul Demon Venerable* destruiu o Sol e os demais nós de veia de céu do céu branco — abismos celestiais, pilares celestes, os mundos privados de lá — de propósito, acelerando o colapso daquele céu e a fusão dele com o céu negro.
 
 > [!note] Para o design
 > "O endereço vale mais que o dono" é uma das ideias mais jogáveis do cenário. Uma propriedade imortal medíocre sobre um nó de veia de céu rende mais que uma propriedade excelente em terreno morto — o que transforma **imóvel místico** numa classe de ativo disputada, com corretagem, fraude, prospecção e despejo. E o fato de um mundo privado poder ser **mudado de lugar** dá à mesa uma jogada que parece impossível e não é.
@@ -205,7 +209,7 @@ O que importa na prática são os **nós** — os pontos onde a veia se concentr
 
 As mais estranhas e as mais fáceis de usar numa mesa. Elas se formam **onde os seres humanos se aglomeram continuamente**, e explicam uma coisa que qualquer jogador já observou em algum cenário sem receber explicação: **por que certos lugares produzem gênios em excesso**. A obra é direta — um lugar "produz talentos humanos por causa da veia humana principal do Continente Central".
 
-E há um detalhe que vale ouro para um mestre: a maior cidade mortal do mundo é um dos nós principais de veia humana da região, e a obra observa que, ao longo de eras de mudanças e reconstruções, **a cidade sempre acabou voltando a se assentar sobre o traçado da veia**. A cidade não fica onde está por decisão política. Ela é atraída.
+E há um detalhe que vale ouro para um mestre: a **Cidade Imperial** (*Emperor City*) do Continente Central — construída por *Primordial Origin Immortal Venerable* e, até hoje, o maior aglomerado humano do mundo — é o principal nó de veia humana da região, e a obra observa que, ao longo de eras de mudanças e reconstruções, **a cidade sempre acabou voltando a se assentar sobre o traçado da veia**. A cidade não fica onde está por decisão política. Ela é atraída. É por causa dessa veia que o Continente Central produz gênios em quantidade desproporcional, e quem consegue absorver a força guardada nela ganha um salto de sorte e o reconhecimento do caminho humano — o estatuto informal de "filho da humanidade".
 
 Por fim, o uso estratégico: quando as veias humanas das cinco regiões se interligam, a vontade coletiva do mundo inteiro vira um reservatório único — e, portanto, um recurso tático explorável.
 
@@ -240,7 +244,7 @@ assimétrico de um jeito que rende conflito sozinho:
 - Todo Gu Imortal **das cinco regiões** sente a própria dimensão interna tremer quando os dois qi
   colidem, e é **forçado a parar e se recuperar**. E a penalidade é invertida: **quanto mais forte
   a fundação da dimensão, mais tempo de recuperação ele precisa.**
-- Quem **não** é das cinco regiões — os que vivem nos dois céus, e a instituição suserana — não
+- Quem **não** é das cinco regiões — os que vivem nos dois céus, e o [[19 - Tribunal Celestial|Tribunal Celestial]] — não
   sofre esse efeito.
 
 > [!note] Para o design
@@ -295,7 +299,7 @@ Uma ==Earth Trench== (trincheira terrestre) é uma fenda no solo de escala conti
 
 **No mundo grande, e muito antes da Grande Era.** Aqui é preciso separar duas coisas que se confundem com facilidade.
 
-**As cinco trincheiras antigas já existem.** A obra é explícita: **cada uma das cinco regiões tem a sua Earth Trench** — o chão rasgado em ravinas gigantescas, algumas se estendendo por milhões de li, algumas com dezenas de milhares de quilômetros de profundidade, algumas insondáveis. O texto as chama de "uma das maravilhas naturais mais magníficas do mundo dos Mestres Gu". Não são novidade nem acidente recente: são acidentes geográficos permanentes, e cada uma tem dono. A das Planícies do Norte é guardada de perto por uma organização que construiu a própria cidade principal bem na boca dela, exatamente para ocupar aquele ponto de recurso — e isso importa muito, porque o norte é a região **mais pobre** das cinco em recursos de cultivo e é lá dentro que está a grande área rica dela. O preço: plantas e feras desoladas poderosas, em grande número.
+**As cinco trincheiras antigas já existem.** A obra é explícita: **cada uma das cinco regiões tem a sua Earth Trench** — o chão rasgado em ravinas gigantescas, algumas se estendendo por milhões de li, algumas com dezenas de milhares de quilômetros de profundidade, algumas insondáveis. O texto as chama de "uma das maravilhas naturais mais magníficas do mundo dos Mestres Gu". Não são novidade nem acidente recente: são acidentes geográficos permanentes, e cada uma tem dono. A das Planícies do Norte é guardada de perto pela **Zombie Alliance** (Aliança dos Zumbis) do norte, que construiu a própria capital — a **Dark Flow Giant City** (Cidade Gigante do Fluxo Escuro) — bem em cima da entrada da trincheira e mantém três imortais zumbis de rank 7 revezando-se na vigilância dela. O motivo é econômico e concreto: do fundo da trincheira se extrai **óleo negro** (*black oil*), que é a principal mercadoria de exportação da aliança, e as missões de descida para coletá-lo são as mais disputadas entre os imortais zumbis porque o coletor fica com tudo o que trouxer além da cota. Isso importa muito, porque o norte é a região **mais pobre** das cinco em recursos de cultivo e é lá dentro que está a grande área rica dela. O preço: plantas e feras desoladas poderosas, em grande número — a trincheira é tão vasta que caberiam nela inúmeras cidades do tamanho da capital, e a própria aliança nunca chegou ao fundo dela.
 
 **A Grande Era abre trincheiras novas.** Essas sim se rasgam pelos terremotos da unificação, sem padrão previsível — nem os cultivadores mais fortes conseguem antecipá-las. E nascem carregadas: campos de recurso de alto grau, Gu Imortais selvagens, óleo negro, materiais raros. Quem souber **onde e quando** uma trincheira vai abrir chega antes até dos donos legítimos do território. É informação de valor estratégico absoluto.
 
@@ -310,13 +314,13 @@ Depois da Grande Era, as trincheiras deixam de ser acidentes e viram uma categor
 
 `conhecimento: segredo` — este é o segredo de nível mais alto do cenário. Nem os cultivadores mais poderosos do mundo o conhecem por completo.
 
-O mundo de cultivo Gu tem uma **fronteira** — uma membrana externa que o separa do que quer que exista fora dele. Em um único lugar, no fundo de uma caverna de nove camadas escavada por um Venerável, essa membrana é fina.
+O mundo de cultivo Gu tem uma **fronteira** — uma membrana externa que o separa do que quer que exista fora dele. Em um único lugar, no fundo da ==**Crazed Demon Cave**== (Caverna do Demônio Enlouquecido), montada por *Limitless Demon Venerable* em seus últimos anos, essa membrana é fina. A caverna tem nove camadas; a oitava contém as derivações do Caminho Celestial e a nona, no ponto mais profundo, encosta na fronteira.
 
-E ali existe uma construção de escala Venerável cuja função é, deliberadamente, **perfurar a fronteira e puxar matéria de fora do mundo para dentro**, como matéria-prima. É assim que se geram, ao longo de eras, os pequenos mundos que nascem e morrem numa das camadas daquela caverna.
+E ali está instalada a **crazed demon ninth void formation** (formação do nono vazio do demônio enlouquecido), uma formação de escala Venerável cuja função é, deliberadamente, **perfurar a fronteira e puxar matéria de fora do mundo para dentro**, como matéria-prima. É assim que se geram, ao longo de eras, os grandes e pequenos mundos que nascem, se fundem e morrem na oitava camada, cada um deles produzindo marcas de dao do caminho do céu ao ser destruído. A caverna cobra caro por isso: sons demoníacos permanentes enlouquecem quem entra e as marcas de dao de todo material imortal levado para lá se embaralham, transformando tesouro em lixo.
 
 Isso explica, retroativamente, um dos fenômenos mais desconcertantes do cenário: **os demônios de outro mundo**. Seres cuja origem é externa a este mundo, que aparecem sem explicação e que são categoricamente imunes a certos mecanismos do destino — ver [[16 - Fate Gu|Fate Gu]]. Eles não são anomalia inexplicável nem intervenção divina. São **subproduto de infraestrutura**. Alguém abriu um furo, e coisas entram por ele.
 
-**O quase-apocalipse.** Há cerca de trezentos mil anos, a fronteira foi rompida de propósito, no ponto mais fino, por um Venerável que queria voltar para o próprio mundo natal. Pela brecha começou a jorrar algo descrito como a pior tribulação que o mundo já viu, ameaçando destruir não a caverna, mas o mundo inteiro. Quatro Veneráveis remendaram a fronteira, e o responsável a selou extraindo as próprias marcas de dao para servirem de tampão.
+**O quase-apocalipse.** Há cerca de trezentos mil anos, a fronteira foi rompida de propósito, no ponto mais fino, por *Thieving Heaven Demon Venerable* — ele próprio um demônio de outro mundo, que queria atravessar e procurar o mundo natal de onde viera. Pela brecha começou a jorrar o caos externo, descrito como a pior tribulação que o mundo já viu, e o buraco dobrou de tamanho em poucos fôlegos, ameaçando destruir não a caverna, mas o mundo inteiro. Foram precisos **quatro Veneráveis** para remendá-lo: *Limitless Demon Venerable*, que tentou selar sozinho e não conseguiu; *Reckless Savage Demon Venerable*, que acorreu trazendo consigo incontáveis feras; *Genesis Lotus Immortal Venerable*, que acorreu trazendo incontáveis árvores e ervas; e o próprio *Thieving Heaven Demon Venerable*, que forneceu a peça decisiva. A solução dele é a chave técnica do episódio: **todo demônio de outro mundo carrega no corpo as marcas de dao do mundo de origem** — é por isso, aliás, que o controle do [[16 - Fate Gu|Fate Gu]] sobre eles é limitado —, e ele usou as próprias marcas de dao de espaço vindas de fora para criar um subespaço que tampasse o furo enquanto os outros três costuravam a membrana em volta.
 
 **O remendo nunca foi completo.** O mundo de cultivo Gu vive, desde então, em cima de uma emenda mal feita. Ver [[04 - Os Que Romperam as Leis|Thieving Heaven Demon Venerable]] e [[02 - Os Criadores de Caminhos|Limitless Demon Venerable]].
 

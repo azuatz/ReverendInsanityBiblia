@@ -21,6 +21,13 @@ caco só de pisar dentro, e o tesouro se desfaz junto.
 
 > Convenção: texto simples é canônico; `(ded.)` é dedução; `*` é invenção nossa; `—` é silêncio da obra. Apagar tudo o que tem `*` devolve a nota a cem por cento canônico.
 
+> [!note] Como pôr isto na sua campanha
+> O cataclismo acontece uma vez na obra, e os cacos se desfazem depois de um tempo. Numa mesa, o
+> que interessa não é aquele mundo em particular: é o **formato** — um caco de mundo caído do céu,
+> com prazo de validade, onde só quem é fraco cabe dentro. Basta um mundo antigo qualquer se
+> despedaçar, por qualquer motivo que a mestra invente, para que tudo o que está descrito aqui
+> volte a valer sem mudar uma linha.
+
 ## O essencial
 
 | | |

@@ -1114,7 +1114,7 @@ A regra de manutenção pendurada nessa família é o que a torna útil numa mes
 - **Como é.** —
 - **Dieta.** Não informada; cada degrau come no ritmo do próprio rank `(ded.)`.
 - **Desvantagem.** O rank do Gu **fixa o número**: não há como ajustar caso a caso `(ded.)`. E o de rank 1 não faz nada que a natureza já não faça.
-- **Como se obtém.** Fruto de uma pesquisa que o próprio criador acabou julgando rasa demais para virar um caminho novo — o yin-yang ficou como um punhado de resultados úteis combináveis com outros caminhos, e este é um deles. É um dos **três Gu que a obra aponta como o núcleo do caminho yin-yang** tal como um Venerável o concebeu.
+- **Como se obtém.** É Gu do caminho yin-yang, e a obra dá a origem com nome: quem tentou fundar esse caminho foi o **[[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable|Giant Sun Immortal Venerable]]**, com a ambição de descrever *todos os seres do mundo* em termos de yin e yang. Ele desistiu: à medida que ganhou força e conhecimento, reconheceu que a própria formulação era rasa demais, e o yin-yang nunca deu o salto qualitativo que faz um caminho. O que sobrou foi um punhado de resultados soltos, aproveitáveis junto com outros caminhos — e este Gu é um deles. É também um dos **três que a obra aponta como o núcleo do yin-yang**, ao lado do `Abortion Gu` e do `Safe Pregnancy Gu`.
 - **Evolução.** Não citada como fusão. Faixa de rank do mesmo Gu (1 a 5).
 - **Interações.** Nenhuma de combate. O valor é **demográfico**: é a peça que transforma reprodução em planejamento, e portanto uma ferramenta de clã e não de aventureiro. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 

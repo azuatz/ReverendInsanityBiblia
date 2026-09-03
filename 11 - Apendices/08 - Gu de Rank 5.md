@@ -12,7 +12,7 @@ aliases:
   - Rank 5 Gu
   - Catálogo de Gu Rank 5
 status: consolidado
-fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "01 - Cultivo/14 - Ascensão Imortal.md", "cap. 105", "cap. 111", "cap. 121", "cap. 126", "cap. 156", "cap. 163", "cap. 165", "cap. 185", "cap. 192", "cap. 194", "cap. 230", "cap. 266", "cap. 275", "cap. 292", "cap. 307", "cap. 316", "cap. 320", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 428", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 462", "cap. 463", "cap. 475", "cap. 507", "cap. 522", "cap. 526", "cap. 544", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 604", "cap. 609", "cap. 672", "cap. 678", "cap. 679", "cap. 734", "cap. 758", "cap. 853", "cap. 1027", "cap. 1028", "cap. 1066", "cap. 1097", "cap. 1200", "cap. 1288", "cap. 1444", "cap. 1646", "cap. 1680", "cap. 1852", "cap. 2072", "cap. 2108", "cap. 2121", "cap. 2235", "cap. 2288", "cap. 2289", "cap. 2298", "cap. 2312"]
+fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "01 - Cultivo/14 - Ascensão Imortal.md", "cap. 105", "cap. 111", "cap. 121", "cap. 126", "cap. 156", "cap. 163", "cap. 165", "cap. 185", "cap. 192", "cap. 194", "cap. 230", "cap. 266", "cap. 275", "cap. 292", "cap. 307", "cap. 316", "cap. 320", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 428", "cap. 434", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 462", "cap. 463", "cap. 475", "cap. 507", "cap. 522", "cap. 526", "cap. 544", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 604", "cap. 609", "cap. 672", "cap. 678", "cap. 679", "cap. 734", "cap. 758", "cap. 853", "cap. 1027", "cap. 1028", "cap. 1066", "cap. 1097", "cap. 1200", "cap. 1288", "cap. 1444", "cap. 1646", "cap. 1680", "cap. 1852", "cap. 2072", "cap. 2073", "cap. 2108", "cap. 2121", "cap. 2235", "cap. 2288", "cap. 2289", "cap. 2298", "cap. 2312"]
 conhecimento: comum — que existem Gu de rank 5 e que eles são raríssimos é sabido por qualquer Mestre Gu; as receitas, as rotas e o que acontece com eles numa ascensão imortal são conhecimento especializado, de grão-mestre e de cúpula de grande força
 ---
 
@@ -1425,8 +1425,10 @@ parentes próximos.
 social, ainda que menor que o da versão anterior.
 
 **Como se obtém.** A versão de rank 4 é peça da herança do fundador do caminho do sangue e **não
-circula no mercado**. Esta, de rank 5, foi **criada séculos depois por um Venerável** e obtida por
-troca negociada.
+circula no mercado**. Esta, de rank 5, é **desenvolvimento posterior do
+[[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable|Giant Sun Immortal Venerable]]** — o
+mesmo Venerável de cuja linhagem o caminho do sangue saiu — e chega a quem a tem por troca
+negociada, não por compra.
 
 **Evolução.** Não citada pela obra. Mas o que separa esta versão da de rank 4 é o achado mais
 interessante da linha, e **não é potência: é moral**. A versão de rank 4 exige **matar** as vítimas; a
@@ -2316,9 +2318,12 @@ transportar Gu de até rank 4, até ser reforçado com dezesseis `Dried Pond Gu`
 **Como se obtém.** **Refinado**, e a receita é uma das mais completas do catálogo: `Golden and
 Silver Cup Gu` de rank 4, mais `Another Perspective Gu` de rank 4, mais `Moving Form Gu` de rank 4.
 
-A história da receita é ótima. Ela é de um dos Veneráveis, que a criou para **enviar a taça ao
-depósito do espaço e roubar de lá os incontáveis Gu guardados** — falhou nesse objetivo, mas o Gu
-deu certo de outra forma. A receita **vazou** quando a terra abençoada dele foi escavada quatrocentos
+A história da receita é ótima. Ela é do
+**[[02 - Os Criadores de Caminhos#Thieving Heaven Demon Venerable|Thieving Heaven Demon
+Venerable]]**, o criador do caminho do roubo, e o objetivo original era outro: mandar a taça para
+dentro do ==space cave== — o depósito lendário e proibido do caminho do espaço, onde se acumulam
+Gu selvagens em número incontável — e trazer de lá esses Gu. **Nisso ele fracassou**; o Gu deu
+certo de outra forma, e é essa outra forma que o mundo usa até hoje. A receita **vazou** quando a terra abençoada dele foi escavada quatrocentos
 anos depois, e ficou famosa nas cinco regiões; numa guerra posterior, virou **item obrigatório de
 todas as facções**, disputado até por Gu Imortais, justamente por ser **rank 5 e replicável** em vez
 de um Gu Imortal único.
@@ -3266,8 +3271,13 @@ mil pedras primordiais**, o recorde de leilão registrado na obra.
 
 **Evolução.** **A obra afirma a travessia.** Ele mais **onze** nascentes produzem o `Heavenly Essence
 Treasure Imperial Lotus` de **rank 6**, sexto colocado na lista dos Dez Grandes Gu Imortais do mundo —
-e daí em diante **o nome não muda**, subindo até o rank 9. Vale registrar que o exemplar imortal era o
-Gu vital de um dos Veneráveis, **o mais rico da história em essência imortal**.
+e daí em diante **o nome não muda**, subindo até o rank 9. O exemplar imortal era o Gu-núcleo do
+**[[02 - Os Criadores de Caminhos#Genesis Lotus Immortal Venerable|Genesis Lotus Immortal
+Venerable]]**, o criador do caminho da madeira e **o Venerável com a maior reserva de essência
+imortal da história** — e a obra explica a consequência prática disso em batalha: desde que começou
+a cultivar, ele nunca precisou se preocupar com essência primordial nem com essência imortal,
+enquanto os inimigos dele viviam a situação embaraçosa de **esgotar a própria essência no meio da
+luta**. Ter a fonte não é ter mais dano; é nunca ficar sem munição.
 
 **Interações.** A linhagem inteira **não foi encontrada: foi criada** por esse Venerável, há milênios. E
 ela resolve, de forma direta, o defeito estrutural do `Blood Wight Gu` e de todos os zumbis desta
@@ -4240,9 +4250,13 @@ quíntuplos**.
 **Desvantagem.** **O rank do Gu fixa o número** — não há como ajustar caso a caso (ded.). Age uma vez,
 sobre uma gestação já iniciada (ded.).
 
-**Como se obtém.** É Gu do **caminho yin-yang**, fruto de uma pesquisa que o próprio criador acabou
-julgando rasa demais para virar um caminho novo — o yin-yang ficou como um punhado de resultados úteis
-combináveis com outros caminhos, e este é um deles.
+**Como se obtém.** É Gu do **caminho yin-yang**, e a obra dá a origem com nome: quem tentou fundar
+esse caminho foi o **[[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable|Giant Sun Immortal
+Venerable]]**, com a ambição de descrever *todos os seres do mundo* em termos de yin e yang — a mesma
+ambição que outro cultivador teve com o caminho do som. Ele desistiu: à medida que ganhou força e
+conhecimento, reconheceu que a própria formulação era rasa demais, e o yin-yang nunca deu o salto
+qualitativo que faz um caminho. O que sobrou foi um punhado de resultados soltos, aproveitáveis junto
+com outros caminhos — e este Gu é um deles.
 
 **Evolução.** Não citada pela obra: é série de ranks.
 

@@ -315,9 +315,8 @@ aquela vila existir naquele lugar. Recurso destruído aqui não se repõe.
 
 ## Relações
 
-- [[03 - Marés de Bestas|Marés de Bestas]] — o desastre que o Caso A antecipa se der errado.
-- [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] — a montanha onde os
-  Casos A e D acontecem.
+- [[03 - Marés de Bestas|Marés de Bestas]] — o desastre que o Caso A antecipa se der errado, e o
+  exemplo trabalhado de uma maré de um ano inteiro numa montanha de três clãs.
 - [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] — a caravana que atravessa a
   rota do Caso C, e o leilão do Caso B visto de dentro.
 - [[03 - O Sapo de Rank 5 Que Ninguém Podia Tocar|O Sapo de Rank 5 Que Ninguém Podia Tocar]] — o

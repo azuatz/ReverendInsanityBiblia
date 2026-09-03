@@ -370,8 +370,7 @@ plateia recua alguns passos e continua assistindo, mais tranquila**.
 
 - [[06 - Assembleias, Alianças e Quadros de Mérito|Assembleias, Alianças e Quadros de Mérito]] — a
   negociação que o torneio substitui, e o palco cujas vitórias viram concessão.
-- [[02 - A Maré de Lobos de Qing Mao Shan|A Maré de Lobos de Qing Mao Shan]] — a crise cujo rescaldo
-  produz a competição da escala 1.
+- [[03 - Marés de Bestas|Marés de Bestas]] — a crise cujo rescaldo produz a competição da escala 1.
 - [[05 - Feiras, Caravanas e Festivais|Feiras, Caravanas e Festivais]] — a cidade-clã onde fica a
   arena permanente, com os pedágios por anel.
 - [[10 - Como Funciona um Combate|Como Funciona um Combate]], [[08 - Killer Moves|Killer Moves]] e

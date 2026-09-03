@@ -612,10 +612,12 @@ Duas ressalvas finais:
   caminhos conflitantes no mesmo objeto.
 
 > [!warning] Uma exceção que muda tudo para quem a tem
-> Existe um tipo de corpo excepcional cuja propriedade é absorver **cem por cento das marcas de
-> todos os caminhos**, sem o conflito que expulsa as estranhas. Quem o possui anexa qualquer
-> coisa e fica com tudo. É o topo absoluto do sistema e não é uma opção de personagem — é o que
-> um antagonista de campanha inteira tem.
+> O ==corpo imortal soberano== (*sovereign immortal body*) é um corpo cujas marcas do Dao **não
+> conflitam entre si**: ele absorve **cem por cento das marcas de todos os caminhos**, sem o
+> atrito que normalmente expulsa as estranhas. Quem o possui anexa qualquer abertura e fica com
+> tudo o que havia nela, cultiva todos os caminhos ao mesmo tempo sem penalidade recíproca, e é
+> imune a efeitos que punem qualquer Gu Imortal em atividade. É o topo absoluto do sistema e não
+> é uma opção de personagem — é o que um antagonista de campanha inteira tem.
 
 ### 5. Nascer com elas
 
@@ -903,9 +905,12 @@ Quatro fechamentos honestos, porque eles são o que mantém o sistema tenso:
 
 - **Não dá para recusar as marcas indesejadas.** Se a provação foi de um caminho que você não
   usa, as marcas entram e ficam. O vetor de qualquer imortal antigo tem entulho.
-- **Não dá para fugir sem pagar.** Existe um método lendário que concede **imunidade total a
-  tribulações** — a vontade dos céus simplesmente não sonda o portador. O preço é nunca mais
-  ganhar marcas por essa via. O mesmo vale para desacelerar ou congelar o fluxo de tempo da
+- **Não dá para fugir sem pagar.** A **Ocultação Divina** (*divine concealment*), um dos golpes
+  imortais de rank 9 que o Thieving Heaven Demon Venerable deixou em herança, concede **imunidade
+  total a tribulações**: ela reveste a alma do portador de marcas que impedem pensamento, vontade
+  e emoção de sondá-lo, e como a vontade dos céus é ela própria uma vontade, ela simplesmente não
+  o enxerga para lhe mandar desastre. O preço é nunca mais ganhar marcas por essa via. Ver
+  [[15 - Theft Path|Theft Path]]. O mesmo vale para desacelerar ou congelar o fluxo de tempo da
   própria abertura: adia as provações e **para o cultivo junto**. E uma abertura morta não
   sofre nenhuma provação e não ganha marca nenhuma. **Fugir é abrir mão do único multiplicador
   gratuito do sistema.**

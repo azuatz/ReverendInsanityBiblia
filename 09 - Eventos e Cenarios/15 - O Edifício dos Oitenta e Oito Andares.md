@@ -24,6 +24,12 @@ design, mas por construção física.
 
 > Convenção: texto simples é canônico; `(ded.)` é dedução; `*` é invenção nossa; `—` é silêncio da obra. Apagar tudo o que tem `*` devolve a nota a cem por cento canônico.
 
+> [!note] Como pôr isto na sua campanha
+> O edifício não é um episódio: é uma **construção que se remonta sozinha a cada dez anos**, saqueia
+> a região de novo e forma andares novos com o que roubou. Ninguém o esvazia — quem sobe leva o que
+> conseguiu e o prédio continua lá para a próxima década. Basta a mestra decidir em que ano da
+> campanha a década vira.
+
 ## O essencial
 
 | | |

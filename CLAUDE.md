@@ -77,6 +77,34 @@ contexto vivo se perde. Portanto:
 - `sintetizador-ri` (`.claude/agents/sintetizador-ri.md`) — funde notas brutas na
   base consolidada seguindo as convenções deste arquivo.
 
+## O teste que decide o que entra (regra do usuário)
+
+Antes de escrever qualquer coisa nesta base, faça a pergunta: **isso vai agregar para o mestre
+numa mesa de RPG?** O sistema não segue a história de Reverend Insanity — usa o mesmo universo.
+Quem for mestrar vai narrar outra história, em outra vila, com outros personagens.
+
+Um acontecimento entra se satisfizer **pelo menos uma** destas condições:
+
+1. **Fenômeno recorrente que o mestre molda** — acontece em qualquer lugar, e ele só troca os
+   detalhes. A maré de bestas é o caso-modelo: basta decidir qual é a besta.
+2. **Lugar com regras próprias e permanentes** — quem chega lá encontra aquilo, sempre,
+   independentemente da história que se esteja contando.
+3. **Acontecimento de escala de mundo** que dá para encaixar numa campanha como pano de fundo
+   ou como clímax.
+
+Reprova o **episódio particular da trajetória do protagonista**. O sapo que engolia o rio de
+uma vila e a maré de lobos daquela montanha específica são a história dele, não o mundo: numa
+mesa qualquer, podem nunca acontecer. Já feiras, caravanas e festivais entram, porque existem
+em todo lugar e os jogadores vão topar com um.
+
+Para estudos de caso, o mesmo teste produz dois motivos de reprovação: o caso **específico
+demais** para ser encontrado, que depende de um Gu único ou de um arranjo irrepetível; e o que
+é **traço de personagem e não regra do sistema** — blefar, perder de propósito para cobrar
+depois, espertezas que um jogador faria em qualquer RPG.
+
+Quando um material reprova, **resgate antes de apagar**: leve a mecânica reaproveitável para a
+nota de categoria correspondente, como exemplo trabalhado, e só então remova o resto.
+
 ## Regras de escrita
 
 - Documentos finais em **português brasileiro**; termos técnicos consagrados em inglês

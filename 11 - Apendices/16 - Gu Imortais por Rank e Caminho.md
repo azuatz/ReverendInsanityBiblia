@@ -6308,3 +6308,463 @@ não os confirma**.
   seus dois Gu-núcleo originais são o **Stubborn Gu** e o **Main Gu** — esses sim, Gu. A teoria por
   trás dele é a regra de mundo mais útil do caminho da sorte, e está na ficha do
   [[#Rank não declarado pela obra|Main Gu]].
+
+---
+
+## Tabela-resumo
+
+Uma linha por Gu, na mesma ordem das seções. A coluna **Notas** traz a escada de rank
+quando a obra registra uma, e marca `par mortal` quando existe contraparte de rank 1 a 5
+com ficha em [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — são os 28 pares
+recíprocos, e lembre que **ter o imortal não dispensa o mortal**.
+
+### Rank 6
+
+| Gu | Caminho | Função | Notas |
+|---|---|---|---|
+| ⭐ Spring Autumn Cicada | tempo | Sobrevivência e restauração | 6 → 7 |
+| ⭐ Man As Before | tempo | Sobrevivência e restauração | 6 → 7; **par mortal** |
+| ⭐ Landscape As Before | tempo | Sobrevivência e restauração | River + Mountain As Before → este; depois 6 → 8 |
+| ⭐ Time Anchor | tempo | Suporte e infraestrutura | — |
+| ⭐ Day Gu | tempo | Suporte e infraestrutura | **par mortal** |
+| ⭐ Year Gu | tempo | Produção e economia | 6 → 7 → 8 → 9 (o rank é a quantidade de anos); **par mortal** |
+| ⭐ Fixed Immortal Travel Gu | espaço | Deslocamento e fuga | 6 → 7 |
+| ⭐ Divine Travel Gu | espaço | Deslocamento e fuga | — |
+| ⭐ Unravel Mystery | sabedoria | Investigação | — |
+| ⭐ Reminiscence | sabedoria | Investigação | — |
+| ⭐ Star Thought Gu | sabedoria | Produção e economia | **par mortal** |
+| ⭐ Delight in Water and Mountain | sabedoria | Produção e economia | — |
+| ⭐ Kindness Thought | sabedoria | Produção e economia | — |
+| ⭐ Vajra Thought Gu | sabedoria | Ataque e defesa | sobe de rank, mas o rank só muda a quantidade de pensamentos; **par mortal** |
+| ⭐ Cleanse Soul | alma | Cultivo e progressão | 6 → 7 (o de rank 6 é o material principal) |
+| ⭐ Ice Soul Immortal Gu | alma | Alteração do mundo | — |
+| ⭐ Blood Asset Gu | sangue | Produção e economia | 6 → 8 |
+| ⭐ Blood Revenge / Cold Blood | sangue | Controle e captura | — |
+| ⭐ Blood Qi Gu | sangue | Apenas nomeados neste rank | — |
+| ⭐ Blood Deity Gu | sangue | Apenas nomeados neste rank | forma evoluída do Blood Guillotine mortal |
+| ⭐ Luck Inspection Gu | sorte | Investigação | **par mortal** |
+| ⭐ Luck Plan | sorte | Investigação | — |
+| ⭐ Dog Shit Luck | sorte | Cultivo e progressão | 6 → 7 → 8 |
+| ⭐ Connect Luck | sorte | Suporte e infraestrutura | — |
+| ⭐ Qi Luck | sorte | Suporte e infraestrutura | — |
+| ⭐ Conceal Luck Gu | sorte | Suporte e infraestrutura | — |
+| ⭐ Time Luck | sorte | Suporte e infraestrutura | — |
+| ⭐ Strength of a Thousand Jun | força | Ataque | — |
+| ⭐ Flying Bear Strength | força | Ataque | — |
+| ⭐ Star Desolate Hound Strength Gu | força | Ataque | — |
+| ⭐ Pulling Water Gu | força | Alteração do mundo | **par mortal** |
+| ⭐ Eat Strength | força | Cultivo e progressão | — |
+| ⭐ Self Strength | força | Suporte e infraestrutura | — |
+| ⭐ Flying Bear Phantom Gu | força | Suporte e infraestrutura | — |
+| ⭐ Dragon Strength | força | Suporte e infraestrutura | — |
+| ⭐ Change Form Gu | transformação | Suporte e infraestrutura | 6 → 7 → 8; houve um rank 9, destruído, e o mundo recomeçou do 6 |
+| ⭐ Everlasting Gu | transformação | Suporte e infraestrutura | — |
+| ⭐ Hard Liver Gu | transformação | Cultivo e progressão | 6 → 8 |
+| ⭐ White Noodle Immortal Ant | refinamento | Produção e economia | — |
+| ⭐ Red Copper Fire Ant | refinamento | Ataque | — |
+| ⭐ Disintegrate Gu | regra | Ataque e defesa | o Gu é o mesmo do 6 ao 8; o nome do golpe é que muda |
+| ⭐ Second Aperture Gu | céu | Cultivo e progressão | — |
+| ⭐ Blacksmith Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Shadow Puppet Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Farmer Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Musician Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Dancer Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Talented Girl Gu | homem | A família das profissões — mecânica comum | — |
+| ⭐ Justice Gu | homem | Ataque | **par mortal** |
+| ⭐ Slavery Gu | escravização | Controle e captura | **par mortal** |
+| ⭐ Immortal Slave | escravização | Cultivo e progressão | — |
+| ⭐ Dream Butterfly Gu | sonhos | Investigação | — |
+| ⭐ Dream Wings | sonhos | Deslocamento e fuga | — |
+| ⭐ Steal Life Gu | roubo | Ataque | 6 → 8 |
+| ⭐ Strength Qi Gu | qi | Produção e economia | **par mortal** |
+| ⭐ Qi Flow Gu | qi | Suporte e infraestrutura | — |
+| ⭐ Perceivable Dao | informação | Investigação | — |
+| ⭐ Sea Oath Gu | informação | Suporte e infraestrutura | — |
+| ⭐ Mountain Pledge Gu | informação | Suporte e infraestrutura | — |
+| ⭐ Dark Arrow Gu | elementais e menores | Ataque — caminho das trevas | — |
+| ⭐ Sole Blade Gu | elementais e menores | Ataque — caminho da lâmina | — |
+| ⭐ Woman's Heart Gu | elementais e menores | Ataque — caminho do veneno | — |
+| ⭐ Bone Spike Gu | elementais e menores | Ataque — caminho do osso | **par mortal** |
+| ⭐ Ice Heart | elementais e menores | Ataque e controle — caminho do gelo | — |
+| ⭐ Worldly Wave Trace | elementais e menores | Deslocamento e fuga — caminho da água | — |
+| ⭐ Star Eyes Gu | elementais e menores | Investigação — caminho das estrelas | — |
+| ⭐ Star Mark Gu | elementais e menores | Suporte e infraestrutura — caminho das estrelas | — |
+| ⭐ Iron Wall Gu | elementais e menores | Suporte e infraestrutura — caminho do metal | — |
+| ⭐ Mature Bamboo | elementais e menores | Investigação — caminho da madeira | — |
+| ⭐ Grass Puppet Gu | elementais e menores | Controle e captura — caminho da madeira | **par mortal** |
+| ⭐ Gruel Mud Gu | elementais e menores | Alteração do mundo — caminho da terra | **par mortal** |
+| ⭐ Yellow Sand | elementais e menores | Suporte e infraestrutura — caminho da terra | — |
+| ⭐ Snack | elementais e menores | Produção e economia — caminho da comida | 6 → 7, e aí passa a se chamar Big Snack |
+| ⭐ Eat Fragrance | elementais e menores | Produção e economia — caminho da comida | — |
+| ⭐ Formation Plate Gu | utilidade e abertura | Suporte e infraestrutura | — |
+| ⭐ No Loss Gu | utilidade e abertura | Suporte e infraestrutura | — |
+| ⭐ One's Own Way Gu | utilidade e abertura | Suporte e infraestrutura | 6 → 7 |
+| ⭐ Dark Limit | utilidade e abertura | Deslocamento, ocultação e sobrevivência | — |
+| ⭐ Possession Gu | utilidade e abertura | Deslocamento, ocultação e sobrevivência | — |
+| ⭐ False Emotion Fake Will Gu | utilidade e abertura | Controle e captura | — |
+
+### Rank 7
+
+| Gu | Caminho | Função | Notas |
+|---|---|---|---|
+| ⭐ After Gu | tempo | Suporte e infraestrutura | 7 → 8 |
+| ⭐ Autumn Gu | tempo | Suporte e infraestrutura | — |
+| ⭐ Time Needle | tempo | Ataque | — |
+| ⭐ Time Concealment | tempo | Deslocamento e ocultação | — |
+| ⭐ Space Travel | espaço | Deslocamento e fuga | — |
+| ⭐ Suppress Space Gu | espaço | Defesa e negação de área | — |
+| ⭐ Capture Wind Gu | espaço | Apenas nomeado neste rank | — |
+| ⭐ Self Love | sabedoria | Suporte e infraestrutura | — |
+| ⭐ Divination Tortoise Shell Gu | sabedoria | Defesa | — |
+| ⭐ Wisdom Obstacle | sabedoria | Controle e captura | — |
+| ⭐ Soul Search Gu | alma | Investigação | **par mortal** |
+| ⭐ Devour Soul Gu | alma | Controle e captura | — |
+| ⭐ Change Soul | alma | Controle e captura | — |
+| ⭐ Soul Howl Gu | alma | Ataque | — |
+| ⭐ Bloodline Gu | sangue | Investigação | — |
+| ⭐ Heart Blood Gu | sangue | Investigação | — |
+| ⭐ Divert Disaster Gu | sorte | Cura e sobrevivência | — |
+| ⭐ Calamity Beckoning Gu | sorte | Cura e sobrevivência | — |
+| ⭐ Blessing in Disguise | sorte | Cultivo e progressão | — |
+| ⭐ Myriad Self Immortal Gu | força | Ataque | — |
+| ⭐ Expend Strength Gu | força | Ataque | **par mortal** |
+| ⭐ Dragon Breath | transformação | Ataque | — |
+| ⭐ Dragon Scales Gu | transformação | Defesa | **par mortal** |
+| ⭐ Pass Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Precaution Gu | regra | Suporte e infraestrutura | — |
+| ⭐ No Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Limit Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Small (Big to Small) | regra | Defesa | — |
+| ⭐ Fight Gu | regra | Controle e captura | — |
+| ⭐ Death Sentence Awaits | regra | Controle e captura | — |
+| ⭐ Strong Gu | regra | Alteração do mundo | — |
+| ⭐ Heaven's Envy Gu | céu | Ataque | — |
+| ⭐ Perseverance Gu | homem | Defesa | — |
+| ⭐ Beast Enslavement Gu | escravização | Controle e captura | **par mortal** |
+| ⭐ Reputation Restriction Gu | escravização | Controle e captura | — |
+| ⭐ Master-Servant Gu | escravização | Controle e captura | — |
+| ⭐ Dream Armor | sonhos | Defesa | — |
+| ⭐ Dreaming Gu | sonhos | Suporte e infraestrutura | — |
+| ⭐ Great Thief Gu | roubo | Suporte e infraestrutura | — |
+| ⭐ Big Family Qi | qi | Produção e economia | — |
+| ⭐ Human Qi Gu | qi | Cultivo e progressão | 7 → 8 |
+| ⭐ Poem Wall Gu | informação | Defesa | — |
+| ⭐ Letter Seal Gu | informação | Suporte e infraestrutura | — |
+| ⭐ Flying Sword Immortal Gu | elementais e menores | Ataque — caminho da espada | — |
+| ⭐ Wave Sword Gu | elementais e menores | Ataque — caminho da espada | tentou 7 → 8, falhou e foi destruído; refeito no 6 |
+| ⭐ Sword Legged Dragon Centipede | elementais e menores | Ataque — caminho da espada | — |
+| ⭐ Sword Escape Immortal Gu | elementais e menores | Deslocamento e fuga — caminho da espada | — |
+| ⭐ Sword Eyebrows Gu | elementais e menores | Cultivo e progressão — caminho da espada | — |
+| ⭐ Edge Gu | elementais e menores | Ataque — caminho da lâmina e da espada | **par mortal** |
+| ⭐ Water Harmony Gu | elementais e menores | Cura e sobrevivência — caminho da água | — |
+| ⭐ Territory Gu | elementais e menores | Alteração do mundo — caminho da terra | **par mortal** |
+| ⭐ Earth Vein Gu | elementais e menores | Alteração do mundo — caminho da terra | — |
+| ⭐ Earth Prison Gu | elementais e menores | Controle e captura — caminho da terra | — |
+| ⭐ Cook | elementais e menores | Produção e economia — caminho da comida | — |
+| ⭐ Fan Wind Gu | elementais e menores | Apenas nomeado neste rank | 7 → 8 (a elevação foi a forma de pagamento) |
+| ⭐ Formation Flag | utilidade e abertura | Suporte e infraestrutura | — |
+| ⭐ Dew | utilidade e abertura | Suporte e infraestrutura | — |
+| ⭐ Winter Gu | tempo | Suporte e infraestrutura | — |
+| ⭐ Care Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Earth Net Gu | elementais e menores | Controle e captura — terra | — |
+
+### Rank 8
+
+| Gu | Caminho | Função | Notas |
+|---|---|---|---|
+| ⭐ Extreme Past | tempo | Investigação | Looking Back + Vivid Recollection → este |
+| ⭐ Years Flow Like Water | tempo | Produção e economia | — |
+| ⭐ Regret Gu | tempo | Produção e economia | — |
+| ⭐ Spring Gu | tempo | Alteração do mundo | — |
+| ⭐ Summer Gu | tempo | Alteração do mundo | — |
+| ⭐ Wisdom Sword Gu | sabedoria | Ataque | — |
+| ⭐ Soul Beast Token | alma | Controle e captura | — |
+| ⭐ Hatred Gu | alma | Alteração do mundo | 8 → 9 |
+| ⭐ Blood Relation Gu | sangue | Investigação | — |
+| ⭐ Fate Armor Gu | sorte | Defesa | — |
+| ⭐ Fortune Rivalling Heaven | sorte | Alteração do mundo | — |
+| ⭐ Responsive Luck | sorte | Apenas nomeado neste rank | — |
+| ⭐ Ability Gu | força | Cultivo e progressão | — |
+| ⭐ Fortitude Gu | força | Suporte e infraestrutura | — |
+| ⭐ Mutation Gu | transformação | Ataque | — |
+| ⭐ Adaptation Gu | transformação | Alteração do mundo | — |
+| ⭐ Advance Refinement Gu | refinamento | Produção e economia | 8 → 9 |
+| ⭐ Forceful Refinement | refinamento | Produção e economia | — |
+| ⭐ Slumbering Lightning Python | refinamento | Produção e economia | — |
+| ⭐ Water Refinement | refinamento | Produção e economia | — |
+| ⭐ Consecutive Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Suppression Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Region Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Quantity Change Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Addition Gu | regra | Apenas nomeados neste rank | — |
+| ⭐ Departure Gu | regra | Apenas nomeados neste rank | — |
+| ⭐ Heavenly Web Gu | céu | Defesa | 8 → 9 |
+| ⭐ Heal Injury | homem | Cura e restauração | — |
+| ⭐ Learning Gu | homem | Cultivo e progressão | — |
+| ⭐ Response Gu | escravização | Controle e captura | — |
+| ⭐ Dream Token | escravização | Controle e captura | — |
+| ⭐ Ant Nest Gu | escravização | Produção e economia | — |
+| ⭐ Imitation Gu | roubo | Produção e economia | — |
+| ⭐ Attitude Gu | roubo | Suporte e infraestrutura | — |
+| ⭐ Heaven Qi Gu | qi | Ataque | — |
+| ⭐ Earth Qi Gu | qi | Suporte e infraestrutura | — |
+| ⭐ Big Qi | qi | Suporte e infraestrutura | — |
+| ⭐ Treasure Light Gu | informação | Produção e economia | — |
+| ⭐ Sword Qi Gu | elementais e menores | Ataque — caminho da espada | — |
+| ⭐ Lightning Gu | elementais e menores | Alteração do mundo — caminho do raio | 8 → 9, por investimento no ambiente e nunca por refino |
+| ⭐ Medicine Fragrance | elementais e menores | Cura e restauração — caminho da comida | — |
+| ⭐ Liquor Worm Gu | elementais e menores | Produção e economia — caminho da comida | evolução final do Liquor Worm de rank 1; **par mortal** |
+| ⭐ Eight-faced Prestige Wind Gu | elementais e menores | Apenas nomeado neste rank | — |
+| ⭐ Weak Chicken Gu | utilidade e abertura | Cultivo e progressão | — |
+
+### Rank 9
+
+| Gu | Caminho | Função | Notas |
+|---|---|---|---|
+| ⭐ Fate Gu | céu | Alteração do mundo | seria o material do Destiny Gu de rank 10 |
+| ⭐ Heavenly Secret Gu | céu | Investigação | 7 → 8 → 9 |
+| ⭐ Wisdom Gu | sabedoria | Suporte e infraestrutura | — |
+| ⭐ Derivation Gu | regra | Alteração do mundo | — |
+| ⭐ Love Gu | amor | Alteração do mundo | — |
+| ⭐ Heavenly Essence Treasure Imperial Lotus | elementais e menores | Produção e economia | 6 → 9 (mortal: Treasure 3, Monarch 4, King 5) |
+| ⭐ Fire Gu | elementais e menores | Produção e economia | — |
+| ⭐ Light Gu | elementais e menores | Produção e economia | — |
+| ⭐ Sovereign Immortal Fetus Gu | homem | Cura e restauração | — |
+| ⭐ Kill | não declarado | Apenas nomeado neste rank | 8 → 9 |
+| ⭐ Destiny Gu | rumor de rank 10 | — | — |
+| ⭐ Eternal Gu | rumor de rank 10 | — | — |
+
+### Rank não declarado pela obra
+
+| Gu | Caminho | Função | Notas |
+|---|---|---|---|
+| ⭐ Looking Back | tempo | Investigação | componente do Extreme Past |
+| ⭐ Vivid Recollection | tempo | Investigação | componente do Extreme Past |
+| ⭐ Month Gu | tempo | Produção e economia | **par mortal** |
+| ⭐ Permanence Gu | tempo | Suporte e infraestrutura | — |
+| ⭐ Fixed Space Gu | espaço | Controle e captura | — |
+| ⭐ Expand Space | espaço | Alteração do mundo | — |
+| ⭐ Space Escape Gu | espaço | O fracasso | — |
+| ⭐ Affection Gu | sabedoria | Investigação | — |
+| ⭐ Distracting Thoughts | sabedoria | Ataque | — |
+| ⭐ Humility Gu | sabedoria | Controle e captura | — |
+| ⭐ Pride Gu | sabedoria | Controle e captura | — |
+| ⭐ Ghost Official Garment | alma | Defesa | o nome do patamar muda do rank 6 ao 9 |
+| ⭐ Soul Shaking Flag | alma | Ataque | — |
+| ⭐ Soul Shackle | alma | Ataque | — |
+| ⭐ Blood Handprint Gu | sangue | As nove heranças verdadeiras | **par mortal** |
+| ⭐ Blood Skull Gu | sangue | As nove heranças verdadeiras | **par mortal** |
+| ⭐ Menses Blood Gu | sangue | As nove heranças verdadeiras | — |
+| ⭐ Blood Shadow Gu | sangue | As nove heranças verdadeiras | — |
+| ⭐ Blood Sweat Gu | sangue | As nove heranças verdadeiras | — |
+| ⭐ Blood Battle Gu | sangue | As nove heranças verdadeiras | — |
+| ⭐ Blood Trace Gu | sangue | Criações recentes | — |
+| ⭐ Blood Oath Gu | sangue | Criações recentes | — |
+| ⭐ Good Luck Gu | sorte | Produção e economia | — |
+| ⭐ Gamble Gu | sorte | Produção e economia | — |
+| ⭐ Peach Blossom Luck Gu | sorte | Controle e captura | — |
+| ⭐ Leave Luck Gu | sorte | Controle e captura | — |
+| ⭐ Seal Luck Gu | sorte | Controle e captura | — |
+| ⭐ Transfer Luck Gu | sorte | Controle e captura | — |
+| ⭐ Break Luck Gu | sorte | Controle e captura | — |
+| ⭐ Luck Deduction Gu | sorte | Investigação | — |
+| ⭐ Main Luck | sorte | As duas peças teóricas | — |
+| ⭐ Sub Luck | sorte | As duas peças teóricas | — |
+| ⭐ Pulling Mountain | força | Alteração do mundo | — |
+| ⭐ Overturn River | força | Alteração do mundo | — |
+| ⭐ Cauldron Strength | força | Defesa | — |
+| ⭐ Iron Crown Eagle Strength Gu | força | Cultivo e progressão | — |
+| ⭐ Cause Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Effect Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Main Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Ripe Gu | regra | Suporte e infraestrutura | — |
+| ⭐ Big ("Da") | regra | Alteração do mundo | — |
+| ⭐ Become Real | regra | Alteração do mundo | — |
+| ⭐ Normal Gu | regra | Alteração do mundo | — |
+| ⭐ Heaven's Rage | céu | Apenas nomeados | — |
+| ⭐ Heaven's Sorrow | céu | Apenas nomeados | — |
+| ⭐ Heavenly Birth Gu | céu | Cura e restauração | — |
+| ⭐ Injury Mark Gu | homem | Defesa e cultivo | — |
+| ⭐ Doting Mother Gu | homem | Deslocamento e fuga | — |
+| ⭐ Wealth Gu | homem | Produção e economia | **par mortal** |
+| ⭐ Accumulate Virtue Gu | homem | Cultivo e progressão | o rank sobe com o acúmulo de boas ações; **par mortal** |
+| ⭐ Wine Drinker Gu | homem | Apenas nomeado | — |
+| ⭐ Dream Travel | sonhos | Deslocamento e fuga | — |
+| ⭐ Create Dream Gu | sonhos | Alteração do mundo | — |
+| ⭐ Sneak Attack Gu | roubo | Ataque | **par mortal** |
+| ⭐ Open Door / Close Door | roubo | Suporte e infraestrutura | — |
+| ⭐ Qi Escape Gu | qi | Deslocamento e fuga | refino reverso do Reputation Gu |
+| ⭐ Mutual Sense | informação | Investigação | — |
+| ⭐ Yes or No | informação | Investigação | — |
+| ⭐ Longevity Edict | informação | Suporte e infraestrutura | — |
+| ⭐ Sword Tongue Gu | informação | Ataque | — |
+| ⭐ Turn Sand Gu | elementais e menores | Alteração do mundo — caminho da terra | — |
+| ⭐ Melt Ice | elementais e menores | Defesa — caminho do gelo | — |
+| ⭐ Extreme Light Gu | elementais e menores | Ataque — caminho da luz | **par mortal** |
+| ⭐ Sight Light Gu | elementais e menores | Ataque — caminho da luz | — |
+| ⭐ Starlight Gu | elementais e menores | Produção e economia — caminho das estrelas | — |
+| ⭐ Star Shoot Gu | elementais e menores | Produção e economia — caminho das estrelas | **par mortal** |
+| ⭐ Wood Sprout | elementais e menores | Alteração do mundo — caminho da madeira | — |
+| ⭐ Rising Azure Cloud Gu | elementais e menores | Deslocamento e fuga — caminho da nuvem | — |
+| ⭐ Wooden Chicken Gu | elementais e menores | Apenas nomeado | — |
+| ⭐ Formation Spirit | utilidade e abertura | Suporte e infraestrutura | — |
+| ⭐ Practice Gu | utilidade e abertura | Cultivo e progressão | — |
+| ⭐ Traveling Son Gu | homem | Deslocamento e fuga | — |
+
+
+---
+
+## Notas relacionadas
+
+- [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o mesmo material organizado por
+  caminho, em tabela, com as colunas de alimentação, uso e peculiaridade
+- [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — os Gu de rank 1 a 5, e a outra
+  metade dos 28 pares
+- [[16 - Gu Imortais|Gu Imortais]] — o que muda no rank 6, a regra de unicidade, a trava de
+  autodestruição e os quatro gargalos da escassez
+- [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que
+  dois Gu de caminhos opostos se atrapalham, e a lista completa dos pares que a obra nomeia
+- [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — os golpes montados sobre
+  estes Gu, inclusive o Emperor Yama
+- [[06 - Refino de Gu|Refino de Gu]] · [[16 - Dao Marks|Dao Marks]] ·
+  [[15 - Essência Imortal|Essência Imortal]] · [[13 - Blessed Lands e Grotto-Heavens|Terra Abençoada]]
+- [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — escala das essências
+  imortais e taxas de refino
+
+---
+
+## Notas de montagem
+
+Registro do que esta nota contém, do que ela deixou de fora de propósito e do que precisou ser
+deduzido. Serve para a próxima pessoa que mexer nela — e para a designer, que assim sabe onde o
+chão é firme.
+
+### O que foi catalogado
+
+- **268 fichas de Gu Imortal**, distribuídas em **cinco seções de rank**: 80 no rank 6, 60 no rank
+  7, 44 no rank 8, 12 no rank 9 (dez fichas mais os dois rumores de rank 10, além dos oito
+  ponteiros para os Gu que chegaram lá vindos de baixo) e 72 na seção de **rank não declarado pela
+  obra**.
+- **45 entradas de Casa de Gu Imortal**, que nomeiam **47 Casas** — duas entradas cobrem um par
+  cada (Canary Pavilion · Yue Yang Palace e Chicken Dog Coop · Inquiry Dock). Distribuição: 3 de
+  rank 9, 16 de rank 8, 19 de rank 7, 1 de rank 6 e 6 sem rank declarado.
+- Cada ficha traz os sete campos pedidos — **O que faz, Como é, Alimentação, Desvantagem, Como se
+  obtém, Evolução e Interações**. Nas fichas curtas (Gu que a obra só nomeia) os campos vazios
+  foram fundidos em prosa em vez de repetidos como travessões, para não encher a página de nada.
+
+### Cobertura contra o catálogo plano
+
+O [[05 - Catálogo de Gu - Imortais|catálogo plano]] tem **273 entradas**: 270 marcadas com ⭐ e 3
+em itálico (o par *Instant / That Time* e os dois rumores de rank 10). A varredura foi feita por
+diferença de nomes, entrada a entrada, e **nenhuma ficou para trás em silêncio**. Das 270 entradas
+com ⭐:
+
+- **266 viraram ficha de Gu** nesta nota (as 268 fichas menos os dois rumores de rank 10, que a
+  nota apresenta como Gu que **não existem**).
+- **4 não são Gu individuais e por isso não viraram ficha**, mas estão declaradas e explicadas na
+  seção [[#Os Gu Imortais que a obra só nomeia|Os Gu Imortais que a obra só nomeia]]: **Wild
+  Immortal Gu** (é uma *categoria* — qualquer Gu Imortal nunca refinado); **Fixed Luck** (é um
+  *golpe imortal*, cujos núcleos Stubborn e Main são que são Gu); **Summary Gu** e **One / Three
+  ("Number Gu")** (nomes que **a busca direta no texto-fonte não confirma**).
+
+### A correção obrigatória: Emperor Yama
+
+**O `Emperor Yama` não é um Gu — é um golpe imortal de rank 8**, e por isso **não entrou nesta
+nota como ficha**. Ele foi verificado no texto-fonte: seus "quatro componentes principais" são
+**dois golpes** (ghostly concealment e ghost official garment) e **dois Gu Imortais** (Soul Beast
+Token e Myriad Self). O lugar dele é o
+[[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]], onde já está.
+
+Boa notícia da varredura: **o catálogo plano de Gu Imortais já não o traz** — a correção foi feita
+antes desta nota. Ele aparece corretamente apenas no catálogo de golpes. As duas fichas desta nota
+que o mencionam — **Soul Beast Token** e **Ghost Official Garment** — o citam como golpe e mandam
+o leitor ao catálogo certo.
+
+### Evolução: quantos ficaram sem
+
+Este foi o campo mais afetado pela natureza do material, e o resultado confirma a segunda
+diferença estrutural anunciada na abertura.
+
+- **35 Gu têm evolução registrada pela obra.** Dos 35, a esmagadora maioria é **o mesmo Gu em rank
+  maior, sem trocar de nome** — Spring Autumn Cicada 6→7, Dog Shit Luck 6→8, After Gu 7→8,
+  Heavenly Secret 7→8→9, Year Gu 6→9, Advance Refinement 8→9, e assim por diante.
+- **233 Gu ficaram sem evolução citada.** Não é lacuna de pesquisa: **é como o material é**. Um Gu
+  Imortal único, que aparece uma ou duas vezes na obra, simplesmente não tem escada documentada.
+- **Só quatro exceções trocam de nome**, e as quatro estão marcadas nas fichas: **Extreme Past**
+  (fusão de Looking Back + Vivid Recollection), **Landscape As Before** (fusão de River As Before +
+  Mountain As Before), **Qi Escape Gu** (refino *reverso* do lendário Reputation Gu) e **Blood
+  Deity Gu** (forma evoluída do Blood Guillotine mortal). Uma quinta é parcial: o **Snack** vira
+  **Big Snack** ao subir de 6 para 7 — o nome ganha um adjetivo, não muda.
+- Duas fichas carregam a regra de subida de rank em vez de só usá-la: o **Cleanse Soul**, onde a
+  obra enuncia que **a versão inferior é consumida como material principal**, e o **Wave Sword
+  Gu**, onde a tentativa de subir de 7 para 8 **falhou e destruiu o exemplar**, obrigando a
+  refazê-lo do rank 6.
+
+### Os 28 pares mortal × imortal
+
+Estão todos marcados na tabela-resumo e no campo **Interações** da ficha correspondente, com link
+para [[04 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]], e são recíprocos (a ficha mortal
+aponta de volta). São eles: **Year, Day, Month, Man As Before, Star Thought, Vajra Thought, Soul
+Search, Blood Skull, Blood Handprint, Luck Inspection, Pulling Water, Expend Strength, Dragon
+Scales, Justice, Accumulate Virtue, Wealth, Slavery, Beast Enslavement, Sneak Attack, Strength Qi,
+Edge, Territory, Gruel Mud, Extreme Light, Star Shoot, Grass Puppet, Bone Spike e Liquor Worm.**
+
+O par que carrega a regra é o **Pulling Water**: é nele que a obra afirma, com todas as letras, que
+o dono do exemplar imortal **continua precisando dos mortais**, porque um Gu único não serve a dois
+golpes ao mesmo tempo e uma multidão de mortais o substitui em paralelo.
+
+### O que precisou ser deduzido
+
+Tudo está marcado no corpo da nota; aqui fica o mapa de onde a marcação se concentra.
+
+- **`*` — invenção nossa, sem base textual: 172 marcas.** Quase todas no campo **Alimentação**, que
+  foi preenchido por inteiro para a mesa ter o que usar, porque **a obra cala a dieta da maioria
+  dos Gu Imortais**. Nenhuma outra informação da nota se apoia numa delas: **apagar todos os `*`
+  devolve o documento a cem por cento canônico**.
+- **`(ded.)` — dedução segura: 44 marcas.** As mais estruturais: o rank do **Permanence Gu** (7 ou
+  8, pela faixa que a obra dá aos núcleos das Casas do Tribunal Celeste), o do **Formation Spirit**
+  (7, pelos irmãos da mesma herança), o do **Ripe Gu** (ao menos 6, e provavelmente 7+), o do
+  **Practice Gu** (ao menos 6), o do **Star Desolate Hound Strength Gu** (6) e o da Casa **Regret
+  Pool** (ao menos 8, pelo núcleo). Fora rank, as deduções mais pesadas são o efeito do
+  **Permanence Gu** (impor permanência), a divisão de trabalho entre **Region Gu** e **Limit Gu**,
+  a contribuição de cada Gu de regra ao golpe que o contém (**Departure**, **Main**, **Cause**,
+  **Effect**) e o efeito do **Peach Blossom Luck Gu**, deduzido do *tipo* de sorte que dá nome a
+  ele.
+- **A categoria funcional é editorial.** O mundo de Reverend Insanity **não classifica Gu por
+  função**; nós classificamos, para que a hierarquia rank → caminho → função → Gu sirva de ficha de
+  personagem. Rank e caminho vêm da obra; a função é nossa, e está declarado no cabeçalho.
+- **Onde um Gu foi colocado é decisão nossa, não do texto.** A regra adotada — um Gu que existe em
+  vários ranks fica na seção do **menor** rank em que a obra o mostra, com a escada no campo
+  Evolução, e o rank 9 recebe ponteiros — está enunciada na abertura para que ninguém a confunda
+  com uma afirmação da obra.
+
+### Divergências e ressalvas registradas
+
+- **Cause e Effect, de que caminho são?** Um capítulo chama os dois de Gu do **caminho da regra**;
+  dois capítulos posteriores dizem que o Cause é da regra e o **Effect é do caminho da madeira**. A
+  formulação posterior é repetida duas vezes e é a mais provável. As duas versões estão na ficha,
+  num callout de aviso.
+- **Landscape As Before nasceu como?** O capítulo 544 descreve a criação como **deliberada**, com
+  River e Mountain As Before como materiais principais; o catálogo de receitas do vault a descreve
+  como **fusão espontânea durante a ascensão**. As duas estão registradas na ficha.
+- **Instant / That Time** — os nomes existem no texto **como Gu-núcleo da Casa Moment Stage**, e
+  não como um par avulso de Gu Imortais do caminho do tempo. Registrado na seção dos nomes que não
+  sobrevivem à verificação.
+- **Ranks corrigidos que herdamos do catálogo plano** e que esta nota adota: **Eternal Yacht é rank
+  7** (não 8), **Cooking Luck Pot é 6 → 7** (não 7 → 8) e **Thieves Den é rank 8** (o plano dizia
+  "pico").
+- **Winding Light Platform** — o catálogo plano trazia num rótulo antigo que ela "esmaga os Gu
+  internos do alvo"; **na obra é o contrário**: foi um inimigo que fez isso **com ela**. Esta nota
+  segue a obra.
+
+### O que ficou de fora, e por quê
+
+- **Os golpes imortais.** Muitas fichas descrevem o golpe montado sobre o Gu, porque sem ele o Gu
+  não faz sentido — mas o catálogo dos golpes é outro documento, o
+  [[08 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]].
+- **A economia do mercado imortal.** Preços, leilões, empréstimos e a exigência de pagamento em Gu
+  de caminho convencional aparecem nas fichas onde a obra os dá, mas o tratamento sistemático está
+  em [[15 - Economia Imortal|Economia Imortal]] e [[06 - Mercados e Leilões|Mercados e Leilões]].
+- **Quem tem o quê.** A nota diz de onde veio cada exemplar quando a obra registra, mas **não nomeia
+  personagens**, pela política de spoilers do vault: um Gu aparece como objeto e como história do
+  objeto, nunca como enredo.

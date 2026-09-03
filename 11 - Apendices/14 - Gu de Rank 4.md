@@ -1101,3 +1101,663 @@ prejuízo depois" que praticamente se escreve sozinha. Ver
 [[16 - Produzir Gu Dentro da Abertura|Produzir Gu Dentro da Abertura]].
 
 ---
+
+# Caminho do fogo
+
+O fogo é o caminho de ataque mais bem povoado deste rank, e a razão é que ele resolve o
+problema do rank 4 de um jeito que os outros caminhos não resolvem: **o fogo continua
+existindo depois de você lançá-lo**. Um golpe de força acaba quando o soco acaba; uma
+serpente de fogo continua lutando, e o invocador continua vivo lá atrás.
+
+Repare que a seção inteira gira em torno de **manutenção**: a serpente ferida é curada com
+essência, o dragão ferido mergulha numa fogueira e volta inteiro, a tocha humana queima até
+a vida acabar. O caminho do fogo, no rank 4, é uma discussão sobre quanto tempo você
+consegue manter alguma coisa acesa.
+
+## Ataque
+
+### Fiery Snake Gu (Gu da Serpente Ígnea)
+
+**O que faz.** Acionado, o Mestre Gu solta um bufo e **uma serpente de fogo sai pela
+narina**. Inicialmente do tamanho de um colar, ela se expande rapidamente e, num piscar de
+olhos, vira **uma píton flamejante de vários metros de comprimento e da largura de um
+balde**.
+
+Cada exemplar do Gu é **uma** serpente: para ter duas simultâneas, é preciso acionar dois
+Gu. As serpentes são pilotadas remotamente enquanto o invocador fica **fora do alcance da
+luta**, e a coordenação é o que faz o golpe funcionar — no ataque das serpentes gêmeas de
+um mestre famoso, uma barrava as lâminas do adversário pela frente enquanto a outra
+contornava pelo flanco e atacava as costas, e a obra registra que o oponente fica incapaz
+de defender os dois lados ao mesmo tempo.
+
+Dois pontos de mecânica declarados e importantes: **quando uma serpente é danificada, o
+invocador simplesmente gasta essência primordial e a cura** — o que torna inútil desgastá-la
+—, e **pilotar as serpentes custa energia mental, não só essência**.
+
+**Como é.** Uma píton inteiramente feita de chama, de vários metros e da grossura de um
+balde.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Uma serpente por Gu** — dobrar a ameaça significa dobrar o investimento e
+a alimentação. A pilotagem consome **energia mental** do usuário, e não é qualquer Mestre Gu
+que consegue dividir a atenção: o usuário citado conseguia dividir a mente em três tarefas
+simultâneas e, mesmo controlando só duas serpentes, a precisão exigida drenava mais energia
+mental que o normal. E há a contramedida óbvia: **um alvo que ignore as serpentes e vá
+direto no invocador quebra o esquema inteiro**.
+
+**Como se obtém.** — (a obra não dá receita nem preço). Como referência de mercado para o
+rank, um Gu de rank 4 comum custava até **cem mil pedras primordiais**.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a demonstração canônica do **teto mental** do sistema: o limite de quantos
+Gu se pilotam ao mesmo tempo não é de "espaços" na ficha, é de atenção. Ver
+[[06 - O Corpo e a Mente do Mestre Gu|O Corpo e a Mente do Mestre Gu]]. Contra ele, o
+`Swallow Fire Gu` desta mesma seção é o contra direto (ded., pela regra do caminho).
+
+### Fire Dragon Gu (Gu do Dragão de Fogo)
+
+**O que faz.** Sai da abertura como uma serpente de chamas que **cresce voando** até ganhar
+escamas, garras, chifres e presas e virar um **dragão de fogo enorme**. Ferido, ele encolhe
+— mas **mergulhar num incêndio o restaura**, e ele recupera força continuamente enquanto a
+chama durar.
+
+**Como é.** Um dragão inteiramente de fogo, que se forma a partir de uma serpente de chamas
+enquanto voa.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Depende de haver fogo no cenário para se sustentar** (ded.) — num terreno
+sem chamas, ele é um dragão que só encolhe.
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ele é a razão pela qual, no caminho do fogo, **incendiar o campo é meio
+caminho da vitória**: num terreno em chamas, o dragão é praticamente imortal. Combina de
+forma óbvia com qualquer Gu que ateie fogo em área — e o `Oil Dragon Gu` da subseção
+seguinte prepara exatamente esse terreno (ded.).
+
+### Human Torch Gu (Gu da Tocha Humana)
+
+**O que faz.** **Incendeia a carne, a pele e os ossos do próprio usuário.** Ele perde a voz,
+as pupilas escurecem, e vira uma tocha humana de **força imensa**, capaz de voar por
+propulsão das chamas — mas péssima em curvas. E queima **até esgotar a vida**: ou seja,
+mata.
+
+**Como é.** Um ser humano inteiramente em chamas, mudo, de pupilas escuras.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **É uma arma suicida.** Não há como desligá-la antes do fim, o deslocamento
+é só propulsão de chama, sem asas nem controle fino de trajetória, e o desfecho previsto é a
+morte do usuário — que pode, como último ato, se **autodetonar**.
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** — (a obra não o mostra combinado). Para a mesa, ele é o que um sistema de
+RPG raramente tem: uma opção que o jogador **pode** escolher e que encerra o personagem.
+Vale colocá-lo no mundo justamente por isso.
+
+### Fire Pupil Gu (Gu da Pupila de Fogo)
+
+**O que faz.** Faz **pegar fogo tudo aquilo em que o usuário fixa o olhar**. É um ataque
+cômodo e difícil de prever: não há projétil, não há gesto — olhar já é atacar.
+
+**Como é.** O efeito visível está nos olhos do usuário. O Gu em si: —.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** Exige **contato visual**, o que muitos recursos anulam — fumaça, escuridão,
+um Gu de cegueira, um adversário atrás de você. E o uso prolongado **danifica os próprios
+olhos**, com dano **cumulativo** que não se recupera sozinho: sem um Gu de cura de apoio, o
+portador vai ficando cego pelo próprio Gu.
+
+**Como se obtém.** Receita documentada e fechada: **`Fire Eye Gu` de rank 3 mais `Sight Blow
+Gu`**, com alguns materiais de refino associados.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Pede um Gu de cura acoplado, e essa dependência é permanente, não
+situacional. É um dos casos mais limpos do sistema de um Gu que **obriga a comprar outro Gu**
+para ser utilizável — o que, num orçamento de rank 4, é meio conjunto comprometido.
+
+## Suporte
+
+### Oil Dragon Gu (Gu do Dragão de Óleo)
+
+**O que faz.** Soprado pela boca, despeja uma **cascata de óleo negro** que toma no ar a
+forma de um dragão do porte de uma fera de rank 5. Sem corpo físico, ele é despedaçado com
+facilidade — **e isso já faz parte do plano**: ao morrer, ele **besunta o alvo de óleo**.
+
+**Como é.** Um dragão de óleo negro, grande como uma fera de rank 5, sem solidez.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **É inútil sem o parceiro que acende** (ded.). Rompê-lo causa contragolpe
+em quem o rompe, o que é uma pequena compensação — mas a função real dele não é ferir.
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** A função inteira é **preparar o alvo para o golpe seguinte**. É o Gu que
+transforma um ataque de fogo comum num incêndio — e, por dedução, o que cria o terreno em
+chamas de que o `Fire Dragon Gu` precisa para se regenerar (ded.). Um Gu que não faz nada
+sozinho e muda tudo em combinação é exatamente o tipo de peça que a
+[[08 - Killer Moves|montagem de golpes]] do sistema recompensa.
+
+## Defesa
+
+### Swallow Fire Gu (Gu de Engolir o Fogo)
+
+**O que faz.** Nominalmente, não é um Gu de ataque e sim de **armazenamento feito só para
+fogo**: o usuário **engole pela boca as chamas alheias** e as guarda. Na prática, isso o
+torna uma **contramedida ofensiva** contra outros usuários de fogo, muito além da função de
+estoque — a obra mostra um chefe de tribo inspirando fundo e **engolindo todo o fogo-fantasma
+de um adversário**, anulando a manobra de fuga dele.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Engolir muito de uma vez incha o ventre e faz sangrar olhos, nariz, boca
+e ouvidos.** Há um limite, e ultrapassá-lo fere o portador.
+
+**Como se obtém.** Comprado pronto por "um preço enorme", como aquisição estratégica planejada
+anos antes contra uma tribo do caminho do fogo. É o exemplo canônico de um Gu comprado não
+por ser bom, mas por ser **a resposta a um inimigo específico**.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o **contra direto declarado** da família do fogo-fantasma — `Ghost Fire Gu`
+(rank 2), `Ghost Flame Gu` (rank 3) e `Ghost Blaze Gu` (rank 4) —, e por extensão de
+qualquer ataque ígneo que o portador consiga engolir sem estourar. Para a mesa, ele
+transforma "que Gu eu compro?" em "contra quem eu vou lutar?", que é uma pergunta muito
+melhor.
+
+---
+
+# Caminho da madeira e das plantas
+
+Um só Gu de rank 4 catalogado — e é isso mesmo: nem todo caminho tem cobertura em todo rank,
+e forçar simetria seria inventar. O que ele tem é o exemplo mais puro do sistema de um Gu
+cujo poder **não está nele, e sim no terreno**.
+
+## Ataque
+
+### Grass Tree Army Gu (Gu do Exército de Ervas e Árvores)
+
+**O que faz.** Converte **toda** planta e árvore dentro de um raio ao redor do Mestre Gu em
+método **ofensivo**: a vegetação vira arma. A obra não detalha a forma dos ataques nem o raio
+exato, mas afirma o resultado tático numa frase que vale por uma tabela: *"nos terrenos da
+Fronteira Sul, era uma arma de matar absoluta"* — porque a Fronteira Sul é coberta de
+montanhas florestadas, ou seja, o Gu opera em quase todo o terreno da região.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Totalmente dependente do terreno.** É inútil numa planície nua, num
+deserto ou dentro de uma construção. Some-se o preço: ele custa duas vezes e meia o de um
+rank 4 comum.
+
+**Como se obtém.** A obra não dá receita, mas dá o **preço com precisão**, e ele é um dos
+melhores calibradores de economia do catálogo: foi leiloado por **duzentas e cinquenta mil
+pedras primordiais**, enquanto "um Gu de rank quatro comum custa até cem mil". Ou seja, ele
+já custava o preço de um Gu de **rank 5** comum — um comprador com quinhentas mil pedras no
+leilão só poderia levar dois. Para comparação no mesmo pregão: um `Frost Breath Gu` e um
+`Flame Heart Gu` saíram por trinta a quarenta mil cada, e o raro `Instant Success Gu`,
+também rank 4, foi arrematado por mais de cento e oitenta mil.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ele é o argumento mais forte do catálogo a favor de **escolher onde a luta
+acontece**. E encaixa direto na regra de terreno do sistema de marcas: quem luta no chão
+certo já ganhou parte da luta antes do primeiro golpe. Ver
+[[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+
+---
+
+# Caminho do sangue
+
+Os dois Gu de rank 4 do [[03 - Blood Path|caminho do sangue]] são, cada um à sua maneira,
+**atalhos** — e a obra usa os dois para dizer a mesma coisa sobre o caminho: ele oferece o
+que os outros não oferecem, e cobra num lugar onde ninguém pensa em olhar.
+
+## Avanço de cultivo
+
+### Blood Skull Gu (Gu do Crânio de Sangue)
+
+**O que faz.** Circunda cada cadáver recém-morto e **suga todo o sangue pelas órbitas**.
+Cheio ao limite — algumas centenas de corpos, ou cerca de cem quando são **parentes
+próximos** —, ele **vomita uma fonte de sangue purificado** sobre o dono, que entra na
+abertura e **eleva a aptidão em cerca de dez pontos percentuais por carga, de forma
+permanente**.
+
+A aptidão, no sistema, é a taxa com que o cultivador absorve energia do mundo: é o teto de
+tudo, e normalmente é fixa de nascença. Este Gu é um dos pouquíssimos métodos conhecidos de
+elevá-la — o que faz dele, em termos de mesa, um item que muda a ficha para sempre. Ver
+[[03 - Aptidão|Aptidão]].
+
+**Como é.** Um **crânio de cristal do tamanho de uma palma**.
+
+**Dieta.** **Sangue de vítimas do próprio usuário**, na ordem de centenas de corpos por
+carga. Sangue de parentes próximos e de gente de aptidão alta rende bem mais.
+
+**Desvantagem.** O custo está na alimentação, e ele é de **assassinato em série**. Além
+disso, os retornos são **decrescentes a cada carga**.
+
+**Como se obtém.** É um dos tesouros verdadeiros do fundador do caminho do sangue: peça de
+herança que **não circula no mercado**. O exemplar da obra chegou ao dono seguinte como
+espólio, ainda selado, e foi refinado na hora com uma única injeção de essência.
+
+**Evolução.** A obra registra uma **versão de rank 5**, criada séculos depois por um
+Venerável e obtida por troca negociada — mas a diferença entre as duas **não é de potência,
+é moral**: a de rank 5 exige apenas **extrair** o sangue dos parentes, sem matá-los. Isso a
+torna o exemplo canônico de que, neste mundo, uma receita pode ser reprojetada para
+**baratear o custo moral** de um poder. Se a rota entre as duas é um refino ou duas receitas
+independentes, a obra não diz.
+
+**Interações.** Além de elevar a aptidão, ele **reverte efeitos nocivos de rank inferior**,
+incluindo os de um Gu que sabota a abertura alheia. Existe também uma **versão imortal**,
+com ficha própria em [[16 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]]
+— que não é evolução desta, e sim o mesmo conceito noutra escala.
+
+## Utilidade
+
+### Blood Frenzy Gu (Gu do Frenesi de Sangue)
+
+**O que faz.** Este é, provavelmente, o Gu mais perigoso do catálogo mortal inteiro — e não
+por dano.
+
+Ele é a segunda das três conquistas de um Mestre Gu demoníaco de rank 7 que dedicou a vida a
+pesquisar Gu capazes de **absorver essência primordial natural do ambiente mesmo depois de
+refinados por um Mestre Gu**. Isso é o santo graal do mundo: um Gu que se alimenta sozinho é
+um Gu que não sangra a abertura do dono. Os Mestres Gu do caminho justo temiam tanto essa
+pesquisa que armaram incontáveis emboscadas para matar o autor.
+
+O efeito: **todo Gu infectado pela aura dele passa a absorver essência primordial natural de
+tempos em tempos**. O caso demonstrado é gradual e assustador — um Gu contaminado começou a
+puxar cada vez menos essência do dono e a se reabastecer do ar; no começo em intervalos
+curtos e raros, depois com intervalos cada vez mais curtos e durações cada vez mais longas.
+
+E aí vem a desvantagem, que é enorme e declarada: **os Gu afetados vão gradualmente
+escapando do controle do Mestre Gu e, depois de um período, se dissolvem numa poça de
+sangue.** O Gu do caso ficou cada vez mais fraco, ficou meio aleijado, tornou-se
+incontrolável e, sem um Gu especial para limpá-lo, **viraria água de sangue e se tornaria uma
+nova origem de contaminação**.
+
+**Como é.** **Sem forma**: uma bola de essência de sangue que sobrevive se agarrando a outros
+seres.
+
+**Dieta.** Muito fácil de sustentar — a obra afirma que nem ele, nem os outros dois legados
+do mesmo autor, exigem muito, e que todos os três **se criam e se multiplicam com
+facilidade**.
+
+**Desvantagem.** **A cura é pior que a doença.** Os Gu infectados perdem força, escapam do
+controle e terminam se desfazendo em sangue, virando novas fontes de contaminação. Só um Gu
+especial de limpeza reverte o processo. E a contaminação se espalha para **todo o plantel**
+se o Gu chegar à abertura do Mestre Gu.
+
+**Como se obtém.** De duas maneiras, e a segunda é o que faz dele um problema de mundo.
+Existe uma **receita de fusão criada pelo autor**, difundida através das centenas de milhares
+de terrenos de herança que ele espalhou de um continente inteiro até a fronteira sul antes de
+morrer. Mas nem é preciso refiná-lo: a obra diz que **em vales sem importância, aldeias
+pobres, desertos desabitados ou à beira de trilhas de montanha, é possível encontrar dois ou
+três desses Gu deixados casualmente** pelo autor. Preço: —.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É **arma de sabotagem**: contamina os Gu do inimigo à distância, pelo
+ambiente. O contágio é ambiental e por contato — havia um exemplar dentro de um lago de
+sangue, e bastou um portador se aproximar da água para o Gu dele ser infectado. Se o Blood
+Frenzy Gu tivesse entrado no corpo e chegado à abertura, **a maior parte dos Gu do portador
+teria sido contaminada de uma vez**; só uma armadura de luz ativada a tempo impediu isso.
+
+> [!note] Para o design
+> Este Gu resolve, sozinho, o problema econômico central do mundo — a essência primordial
+> finita —, e é **barato, fácil de achar e não exige aptidão alta**. É exatamente por isso
+> que a obra o trata como catástrofe social: o legado desse Mestre Gu foi um atalho de poder
+> ao alcance de qualquer um, e o caminho demoníaco floresceu por causa dele. Se a sua mesa
+> quiser um item que reorganize a sociedade em vez de melhorar um personagem, é este. E a
+> forma de contenção também já está pronta: um Gu de limpeza raro, que alguém precisa
+> encontrar antes que o plantel inteiro apodreça.
+
+---
+
+# Caminho da alma
+
+O [[12 - Soul Path|caminho da alma]] é a resposta do sistema à pergunta "e se a armadura não
+importar?". Quase tudo nesta seção **ignora o corpo**: o fogo-fantasma queima a alma e deixa
+a carne intacta, a aura da justiça ataca a mente sem tocar em ninguém, o Gu que explode
+crânios entra pelo ouvido. Contra um rank 4 do caminho da força, coberto de bronze e ferro,
+esta é a seção que funciona.
+
+Ela também traz a mecânica de mundo mais útil de toda a nota, e vale destacá-la antes das
+fichas: **o corpo humano é como um saco de couro onde a alma é guardada, e o saco tem
+limite**. É por isso que existem Gu que reformam o esqueleto para segurar uma alma maior — e
+é por isso que cultivar alma tem um teto físico, não só espiritual.
+
+## Ataque
+
+### Ghost Blaze Gu (Gu do Fogo-Fantasma Ardente) — degrau de rank 4 da linha do fogo-fantasma
+
+**O que faz.** Produz **fogo-fantasma azul sinistro** — e a chave da ficha é que ele é do
+caminho da alma, **não do caminho do fogo**. O fogo é **gélido, não quente**: o frio de gelar
+os ossos obriga inimigos a recuar. E o efeito no alvo é o que define a linha inteira: quando
+as bolas de fogo azul cobriram um grupo de Mestres Gu numa muralha, **o fogo não feriu os
+corpos deles — queimou diretamente as almas**, com dor descrita como extremamente intensa.
+
+A escala sobe com o rank, e é isso que distingue este degrau: o rank 3 lança **duas ou três
+bolas por disparo**; este rank 4 produziu **"numerosos" fogos-fantasma de uma vez**, o
+suficiente para **quebrar um cerco inteiro**.
+
+**Como é.** Bolas de fogo azul, disparadas pela boca ou lançadas contra uma posição.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses (ded.).
+
+**Desvantagem.** Existe um **contra direto e barato**: o `Swallow Fire Gu`, também rank 4, com
+o qual um chefe de tribo simplesmente **engoliu todo o fogo-fantasma**. E, como fogo azul
+chamativo, ele denuncia posição e intenção antes de chegar.
+
+**Como se obtém.** Encontrado **dentro de feras** — o exemplar de rank 4 estava no corpo de um
+rei-lobo noturno. Materiais e preço: —.
+
+**Evolução.** Ele **é** o topo declarado da linha: `Ghost Fire Gu` (rank 2) → `Ghost Flame Gu`
+(rank 3) → `Ghost Blaze Gu` (rank 4). Nenhum degrau de rank 5 é nomeado pela obra. Os
+componentes de cada avanço não são informados — só a cadeia.
+
+**Interações.** **Ignora defesa corporal, porque não ataca o corpo** (ded., a partir de "não
+feriu o corpo, queimou a alma"). É o contra-exemplo perfeito de toda a seção de reforço
+corporal deste catálogo: contra um portador de pele de bronze e ossos de ferro, ele funciona
+exatamente igual.
+
+### Ghost Face Gu (Gu da Face Fantasma)
+
+**O que faz.** Causa **"um impacto tremendo sobre a alma"** do alvo — é o degrau acima do
+`Ghost Cry Gu` de rank 3, que apenas emite um lamento fúnebre capaz de abalar a alma. Usado
+em massa, o efeito muda de gênero: um Mestre Gu ativa **várias centenas deles de uma vez**,
+combinados com um Gu de rank 5 da mesma família, e faz incontáveis espíritos voarem pelo ar
+com diferentes faces fantasmagóricas dançando "como uma mó de pedra esmagando tudo em seu
+caminho", causando dano a **exércitos inteiros de feras**.
+
+**Como é.** O Gu vive dentro dos **girassóis-de-face-fantasma**: flores de talo roxo-escuro,
+pétalas negras e estame do tamanho de uma bacia com **uma face humana pálida** no meio.
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** — (a obra não informa custo nem alcance). O gargalo real está na obtenção.
+
+**Como se obtém.** **Não é refinado: é um Gu selvagem, capturado.** Os girassóis brotam onde
+muita gente morreu injustamente — cada flor é um fantasma de morte injusta. E capturar Gu
+selvagens exige métodos específicos; por serem do caminho da alma, os Gu necessários para
+capturá-los são ainda mais peculiares. A obra registra um cultivador **cobiçando o campo de
+girassóis e não conseguindo colhê-lo** por lhe faltarem esses Gu especializados, enquanto
+outro os captura em massa com um golpe combinado próprio.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É o exemplo mais claro do catálogo de um ataque que **ignora defesas
+corporais**: numa cena, os corvos atingidos ficaram com o corpo ileso e a alma despedaçada.
+E é **acumulável em número**: a diferença entre um exemplar e trezentos é a diferença entre
+um ataque e uma arma de exército. Ver [[12 - Soul Path|Soul Path]].
+
+### Brain Explosion Gu (Gu da Explosão Cerebral)
+
+**O que faz.** Acionado, **entra pelo ouvido e se aloja no cérebro do alvo**. A partir daí a
+regra é cruel: **basta o alvo pensar um pouco mais rápido** e o Gu incha depressa até
+estourar o crânio. E, enquanto estiver instalado, mesmo sem detonar, ele **derruba muito a
+capacidade de combate da vítima** — que não pode raciocinar sob pressão sem morrer.
+
+**Como é.** —
+
+**Dieta.** **Massa cerebral do próprio hospedeiro**: instalado, ele se alimenta do cérebro em
+que está.
+
+**Desvantagem.** Precisa **entrar pelo ouvido** — contra quem cobre a cabeça ou tem defesa de
+corpo inteiro ativa, ele não chega. E é **peça única na prática**: sem receita, não se repõe.
+
+**Como se obtém.** **Não tem receita.** Foi encontrado por acaso num sítio arqueológico e
+batizado por quem o achou, que o guardou como carta na manga e construiu uma carreira de
+assassinatos em cima dele.
+
+**Evolução.** Não citada pela obra. Ela registra, porém, um destino curioso: por **refino
+reverso**, um exemplar implantado à força num crânio se decompôs em dois Gu de rank 3 mais um
+`Space Thought Gu` de rank 5 — o que é o inverso de uma evolução, e um dos poucos casos do
+sistema em que um Gu de rank menor sai de um de rank maior.
+
+**Interações.** A vítima só se salva **submetendo o Gu com uma aura muito superior**, e mesmo
+assim ele **continua alojado na cabeça**. É um ataque que pune exatamente aquilo que um
+Mestre Gu precisa fazer para lutar — pensar rápido — e que assassina **sem exigir superar a
+defesa do alvo**.
+
+## Controle
+
+### Righteous Gu (Gu da Retidão) — rank 4 (ded.)
+
+**O que faz.** É um Gu **do tipo mente**. Ativado, faz irromper do usuário uma **aura sem
+forma** que se espalha e engolfa tudo em volta — descrita como uma montanha inabalável, como
+se o próprio céu olhasse o mundo de cima e enxergasse através de todos. A aura ataca a mente
+diretamente, **sem tocar o corpo**.
+
+O efeito é **proporcional à culpa e inversamente proporcional à força de vontade**. Dentro do
+alcance, quanto menor a vontade do inimigo, maior o enfraquecimento. Quem é vil, ou tem mente
+e aspiração fracas, entra em pânico: a consciência pesada vira medo de tudo, o espírito de
+combate despenca e a pessoa passa a *sentir* que não consegue vencer, desmoronando sem que
+haja luta. Quem cometeu grandes pecados **inevitavelmente vacila**. Mesmo gente do caminho
+justo sente forte supressão no peito — porque facção não determina bondade e não existe
+humano perfeito —, e por isso as ocasiões em que o Gu não produz efeito nenhum são quase
+inexistentes.
+
+O registro de uso é impressionante: um praticante de rank 5 do caminho justo usou este Gu de
+rank 4 para fazer um Mestre Gu de **rank 4** perder toda a capacidade de combate e **se
+render** — descrito na obra como "a arte suprema de subjugar o inimigo sem lutar".
+
+**Como é.** —
+
+**Dieta.** —
+
+**Desvantagem.** Aqui está a coisa mais interessante desta ficha, e ela é uma **categoria
+inteira do sistema**: a restrição deste Gu não está na alimentação nem no refino, está no
+**uso**. Ele **só pode ser acionado por um Mestre Gu que tenha um coração justo** e sustente
+a justiça — e a obra o cita lado a lado com outro Gu que só funciona para quem nunca mentiu.
+Na prática, a maioria dos praticantes **não consegue nem ativá-lo**. Some-se que o efeito é
+**instável**: às vezes devastador, às vezes nulo. Há duas imunidades registradas —
+praticantes do caminho demoníaco de mente firme como aço, que simplesmente não são atingidos,
+e criaturas de vontade suficiente.
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É um **ataque de área que não pode ser bloqueado por defesa física** e que
+atinge simultaneamente inimigos e feras — sob a aura, um bando de morcegos-navalha perdeu a
+sustentação em voo e uma píton gigante baixou a cabeça.
+
+> [!note] Para o design
+> Um item cujo pré-requisito é o **caráter do personagem**, verificado pela ficção e não por
+> um atributo, é raríssimo e extremamente jogável. Ele funciona melhor exatamente contra quem
+> tem mais a esconder, e deixa de funcionar se o dono se corromper. Numa campanha, isso
+> transforma uma escolha moral numa escolha mecânica sem precisar de nenhum sistema de
+> alinhamento.
+
+## Cura
+
+### Refine Essence Spirit Gu (Gu do Refino de Espírito e Essência)
+
+**O que faz.** **Converte a essência da carne física do Mestre Gu numa forma misteriosa de
+energia capaz de nutrir e curar a alma.** O efeito é visível no corpo: ao usá-lo, o portador
+**emagrece imediatamente**, porque a vitalidade está sendo transformada em recurso para a
+alma. A obra afirma que existem muitos Gu capazes de curar a alma e que **este é muito
+superior a todos os seus pares**.
+
+As duas aplicações canônicas dele explicam para que serve um Gu assim. Para um Mestre Gu do
+[[16 - Wisdom Path|caminho da sabedoria]], que **danifica a própria alma toda vez que faz uma
+dedução**, ele é o suporte que permite continuar deduzindo — mas, nas palavras do próprio
+dono, **ele cura bem a alma e não trata a raiz do problema**. Para um Mestre Gu que cultiva
+escravização e força ao mesmo tempo, com corpo forte e alma constantemente exausta de
+comandar grupos de feras, ele é descrito como **a ponte perfeita entre os dois caminhos**: o
+excedente do corpo vira reparo da alma.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Paga-se com o próprio corpo**: emagrecimento e perda de vitalidade a cada
+uso, na proporção do que a alma recebe. E ele **trata o sintoma, não a causa** — quem sangra a
+alma cronicamente continua sangrando. Taxa de conversão e limite: —.
+
+**Como se obtém.** É **Gu de transmissão secreta de uma tribo do norte**, uma especialidade da
+casa. Existe uma **receita de refino**, e obter a receita mais o Gu equivale a obter os
+resultados experimentais inteiros da tribo. Preço: —.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça que **viabiliza combinações de caminhos que de outro modo se
+estrangulam** — sabedoria, escravização e força. Entra também como Gu mortal auxiliar de um
+golpe fatal de alto nível, ao lado do `Bitter Strength Gu`, do `Borrow Strength Gu`, do
+`Self-reliance Gu` e dos Gu de força elementais.
+
+> [!warning] Um Gu pode ser destruído por um pensamento do dono
+> A obra registra, a propósito deste Gu, uma regra geral que vale para o sistema inteiro:
+> **basta um pensamento do Mestre Gu para um Gu se autodetonar**. Em circunstâncias normais
+> não teria sido fácil arrancar este exemplar do dono anterior; só a desordem do momento
+> permitiu. Roubar Gu de alguém consciente é, por desenho, quase impossível.
+
+## Suporte
+
+### Impermanence Bone Gu (Gu do Osso da Impermanência)
+
+**O que faz.** **Transforma completamente os ossos do Mestre Gu em "ossos da impermanência".**
+A justificativa mecânica é uma das regras de mundo mais úteis da obra: o corpo humano é como
+um **saco de couro onde a alma é guardada**, e o saco tem limite. Os ossos da impermanência
+**tornam esse saco mais firme**, de modo que conter uma alma muito maior deixa de ser
+problema — no caso mostrado, o portador só passou a sustentar sem risco uma "alma de mil
+homens" depois de usar o Gu.
+
+É o análogo, para a alma, do que o `Iron Bone Gu` e o `Jade Bone Gu` são para a força.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** A obra é explícita: **ele não traz benefício nenhum ao caminho da força**.
+E o esqueleto é um só — escolher os ossos da impermanência é **abrir mão** dos ossos de ferro
+ou de jade e de todo o potencial de força que eles dariam. A escolha é excludente e
+permanente. Custo de essência, duração do processo e existência de dor: — (a obra não menciona
+dor, em contraste com o alarde que faz da dor do `Iron Bone Gu` e do `Jade Bone Gu`).
+
+**Como se obtém.** Não refinado: recebido de presente do líder de uma tribo, tirado do depósito
+dela, como retribuição por serviços militares. Preço: —.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ele está no centro de um **dilema estrutural** que a obra desenvolve, e que é
+a melhor demonstração prática da regra de conflito de marcas: quem cultiva escravização e
+força ao mesmo tempo descobre que os dois caminhos brigam **dentro do próprio corpo**. Ossos
+da impermanência mais pele reforçada não bastavam para sustentar quinhentos jun de força; e
+modificar músculos e tendões para a força os tornaria inadequados à escravização, e
+vice-versa. A raiz, diz o texto, é que **força e escravização se atrapalham** — ao contrário
+de alma com escravização, ou alma com sabedoria, que combinam bem. Não conflita com Gu de
+pele. Ver [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]].
+
+### Wolf Soul Gu (Gu da Alma de Lobo) — ranks 3 a 5
+
+**O que faz.** Acionado com essência primordial, vira uma **alma-lobo que colide com a alma
+do próprio usuário** e se funde a ela em cerca de cinco minutos — se a "alma de homem" dele
+for forte o bastante para subjugá-la. O resultado é uma **alma de homem-lobo**, que
+**triplica a capacidade de subjugar reis-lobo**. É empilhável: várias aplicações se somam.
+
+O que muda no rank 4: ele **trava na "alma de cem homens"**. Para ir além é preciso o degrau
+de rank 5, que exige a alma de um lobo-imperador e tem cerca de **cinquenta por cento** de
+sucesso.
+
+**Como é.** Um **boneco de lobo cinzento do tamanho do polegar**, feito de luz azul.
+
+**Dieta.** Dieta não informada; nessa faixa o intervalo vai de cerca de um mês (rank 3) a um
+ou dois anos (rank 5) (ded.).
+
+**Desvantagem.** O acionamento é um **ataque à própria alma**: se a alma do usuário não for
+forte o bastante, ele não subjuga a alma-lobo. E o teto de rank 4 é declarado.
+
+**Como se obtém.** —
+
+**Evolução.** A obra descreve a família como **série de ranks**, com receita própria por
+degrau, e **não descreve fusão entre eles**. O degrau de rank 5 aparece no
+[[15 - Gu de Rank 5|catálogo de rank 5]].
+
+**Interações.** Combina com o `Impermanence Bone Gu` de forma quase obrigatória: uma alma
+maior precisa de um saco mais firme, e este Gu é o que faz a alma crescer.
+
+## Utilidade
+
+### Burial Soul Toad (Sapo do Sepultamento de Almas)
+
+**O que faz.** **Só guarda almas** — humanas ou de fera —, sugadas nos campos de batalha. Não
+ataca, não defende: é um recipiente.
+
+**Como é.** Do tamanho da palma, cinzento e verrugoso, de olhos verdes. A **barriga incha
+conforme ele enche** e murcha quando é esvaziado — o estoque é visível de fora.
+
+**Dieta.** **Almas colhidas em campos de batalha.**
+
+**Desvantagem.** A dieta exige acesso a campos de batalha: é um Gu que **depende de guerra**
+(ded.).
+
+**Como se obtém.** Deixado como legado por um Gu Imortal.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** A obra registra um uso específico e muito jogável: **as almas guardadas nele
+viram um Gu diferente ao passar por uma montanha específica**. É um Gu de logística que
+converte uma batalha alheia em estoque de recurso — e que exige uma viagem para converter o
+estoque em produto.
+
+### Nauseous Crying Baby Gu (Gu do Bebê Chorão Nauseante)
+
+**O que faz.** É um **Gu de contramedida**, criado especificamente para anular um golpe
+combinado célebre de uma tribo do norte — um golpe que funde temporariamente as almas de três
+Mestres Gu numa só, deixando os três agindo como um ao defender, atacar ou recuar. A obra não
+descreve o mecanismo interno deste Gu, apenas o resultado: "teve grandes efeitos na batalha",
+e a tribo perdeu batalhas consecutivamente até aposentar o golpe.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 4 come de poucos em poucos meses, e cada refeição é
+grande (ded.).
+
+**Desvantagem.** **Utilidade estreitíssima**: serve para um único golpe combinado específico,
+e caducou quando esse golpe foi aposentado. E a **taxa de falha no refino é altíssima** mesmo
+para quem tem habilidade próxima do nível mestre — a obra registra **mais de dez tentativas e
+nenhum sucesso**. Cada falha explode o produto semiacabado numa poça de traços de sangue azul,
+com uma rajada de ar forte o bastante para estourar a vidraça e abrir um buraco na parede.
+
+**Como se obtém.** Os materiais **não são raros**; a **dificuldade** é que é extrema. Foi
+criado por um cultivador em parceria com uma mestra do caminho do refino, depois que ele
+obteve os segredos do golpe inimigo, e mais tarde a **receita se tornou pública** —
+deliberadamente liberada quando o golpe adversário foi roubado e aprimorado por outro
+continente, para que todos pudessem adaptá-la. Isso enterrou o golpe de vez.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ele é o exemplo canônico da **corrida armamentista** do sistema: para cada
+golpe de elite existe, mais cedo ou mais tarde, um Gu que o anula — e a história desse Gu é a
+história de uma tecnologia militar nascendo, sendo copiada, sendo aprimorada e sendo
+neutralizada por uma receita de domínio público. Ver [[08 - Killer Moves|Killer Moves]].
+
+---

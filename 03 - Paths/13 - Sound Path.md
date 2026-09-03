@@ -25,7 +25,8 @@ outros sofrem em território hostil. Para entender o que é um "caminho", veja
 ## Filosofia e identidade
 
 A obra **não enuncia um significado verdadeiro** para este caminho. O que ela dá no lugar é melhor:
-a aspiração declarada do maior praticante vivo, que virou o programa do caminho inteiro.
+a aspiração declarada de **Feng Jiu Ge** — o maior praticante vivo do caminho e a maior força de
+combate individual das dez grandes seitas —, que virou o programa do caminho inteiro.
 
 > Quando eu era jovem, eu amava música. Quando comecei a cultivar, tive uma grande aspiração: criar
 > um total de **nove canções — para expressar a mim mesmo, para expressar todos os seres vivos, e
@@ -79,8 +80,8 @@ O caminho **emergiu na Antiguidade Medieval**, na mesma leva que metal, água, g
 terra, relâmpago e informação. Como aqueles, ele **não tem Venerável fundador** — os caminhos dessa
 leva "surgiram um após o outro". Quem o criou: `—` a obra não informa.
 
-Há um detalhe biográfico estrutural que vale registrar: **um dos dez Veneráveis cultivou o caminho
-do som nos primeiros anos**, antes de se converter ao caminho da terra — e um dos golpes de controle
+Há um detalhe biográfico estrutural que vale registrar: o **Paradise Earth Immortal Venerable**
+cultivou o caminho do som nos primeiros anos, antes de se converter ao caminho da terra — e um dos golpes de controle
 de distância dele vem daí. (ded.) Ou seja, o caminho do som funciona bem como **degrau**, não só
 como destino.
 
@@ -132,7 +133,7 @@ informação, não acidente.
 
 | Contramedida | Como funciona |
 |---|---|
-| **Dois territórios famosos** — um deserto anti-som e uma colina do silêncio | Regiões onde *as marcas de som eram extremamente suprimidas e **todos os golpes do caminho ficavam muito enfraquecidos***. Valem contra qualquer praticante, inclusive aliados |
+| **O Deserto Anti-Som** (*anti-sound desert*, Deserto Ocidental) e a **Colina do Silêncio** (*silent hill*, Fronteira Sul) | Os dois lugares mais famosos do mundo nesse quesito, e a obra os cita sempre em par. Neles *as marcas de som são extremamente suprimidas e **todos os golpes do caminho ficam muito enfraquecidos***. Valem contra qualquer praticante, inclusive aliados. A colina é uma montanha pobre em recursos, o que a tornava barata — e ela pode ser **arrancada e transplantada** para dentro de uma abertura imortal |
 | **Um golpe imortal feito sob medida** | Uma organização criou um golpe explicitamente para conter o caminho do som. Peritos de topo têm defesa contra ele |
 | **A versão melhorada dele** | "Muitas vezes mais forte" que a anterior; contra ela, mesmo um rank 8 do caminho ficou *sem opções* |
 | **O Rio do Tempo** | Onde a densidade de marcas de tempo é máxima, os golpes sonoros caem para **menos de dez por cento** do poder original. Um praticante puro de som **não tem como escapar de lá** |
@@ -246,7 +247,7 @@ poder. O compositor do som chegou à sétima e, depois, à nona. Nunca vemos as 
 
 ## As nove canções
 
-O projeto de vida do maior praticante da era: nove canções para expressar a si mesmo, todos os seres
+O projeto de vida de Feng Jiu Ge: nove canções para expressar a si mesmo, todos os seres
 vivos, e o céu e a terra. A obra registra **sete criadas** num determinado ponto, mais a **nona**
 depois — e **nomeia oito das nove**. Só uma fica sem nome.
 
@@ -422,8 +423,8 @@ canções são compostas, tocadas em competições e avaliadas socialmente.
 - **Cooldowns longos.** O golpe de movimento tem catorze horas de espera — uma janela letal.
 
 > [!warning] Um cruzamento que vale registrar
-> O deserto que anula o caminho do som *foi, no passado, **roubado** por um Venerável Demônio* — o
-> mesmo que criou o [[15 - Theft Path|caminho do roubo]]. O terreno que neutraliza um caminho
+> O Deserto Anti-Som *foi, no passado, **roubado** pelo Thieving Heaven Demon Venerable* — o
+> criador do [[15 - Theft Path|caminho do roubo]]. O terreno que neutraliza um caminho
 > inteiro é espólio de outro caminho. É o tipo de detalhe que rende uma sessão inteira.
 
 ## O domínio
@@ -441,8 +442,8 @@ a granularidade que dá a outros caminhos. O que ela informa:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O compositor das nove canções** — o maior praticante da era, pilar de uma das grandes seitas
-  antigas. É o caso mecânico central do caminho: **rank 7 com força de combate de rank 8, por
+- **Feng Jiu Ge**, o compositor das nove canções — o maior praticante da era, pilar de uma das dez
+  grandes seitas e reconhecido como a maior força de combate individual entre elas. É o caso mecânico central do caminho: **rank 7 com força de combate de rank 8, por
   acúmulo de marcas do Dao e não por Gu Imortais de nível alto**. Autor das nove canções, e o
   **primeiro Gu Imortal da história capaz de convocar os ventos da assimilação** — feito que a obra
   trata como inédito e que colocou imortais de rank 8 a pesquisarem contramedidas contra um golpe
@@ -457,8 +458,8 @@ a granularidade que dá a outros caminhos. O que ela informa:
   praticante **não-combatente** do caminho.
 - **O que migrou** — um imortal que começou majorando som e mudou para o
   [[24 - Human Path|caminho humano]] depois de refinar um Gu Imortal daquele caminho. E, do outro
-  lado da história, **um dos dez Veneráveis** que cultivou som nos primeiros anos antes de se
-  converter à terra. Os dois mostram que este caminho é um **degrau** legítimo.
+  lado da história, **Paradise Earth Immortal Venerable**, que cultivou som nos primeiros anos antes
+  de se converter à terra. Os dois mostram que este caminho é um **degrau** legítimo.
 
 > [!note] Para o design
 > **Arquétipo entregue: o bardo que é uma arma de área.** Não o animador do grupo — o compositor

@@ -108,8 +108,11 @@ verdadeira de alguns deles é material de mestre**. Guarde para si:
   as fronteiras entre regiões se dissolvem e a guerra geral passa a ser considerada
   inevitável. Ver [[24 - A Grande Era e as Marés de Qi|A Grande Era e as Marés de Qi]] e
   [[28 - O Mundo em Véspera de Guerra|O Mundo em Véspera de Guerra]].
-- **Que existe um degrau de catástrofe acima de tudo o que os personagens conhecem**, vindo
-  de fora da fronteira do mundo, que apaga o que toca e persegue conexão. É a informação mais
+- **Que existe um degrau de catástrofe acima de tudo o que os personagens conhecem**: o
+  ==desastre caótico==, que não é gerado pelo caminho do céu e sim pelo **Caos que existe fora
+  da fronteira do mundo**. Ele apaga o que toca, persegue conexão e — ao contrário de
+  calamidades e tribulações — **não pode ser adiado nem driblado por método nenhum**. Um
+  Venerável o enfrenta a cada cem anos. É a informação mais
   pesada da pasta, e ela reaparece — sempre no bloco final — em
   [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]] e
   [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]].

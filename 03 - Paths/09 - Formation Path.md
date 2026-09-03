@@ -6,7 +6,7 @@ aliases:
   - Caminho das formações
   - Gu formation
 status: consolidado
-fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 771", "cap. 818", "cap. 837", "cap. 848", "cap. 871-874", "cap. 872", "cap. 878", "cap. 882-885", "cap. 884", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 943", "cap. 971", "cap. 979", "cap. 980", "cap. 1003", "cap. 1004-1008", "cap. 1020", "cap. 1030", "cap. 1038", "cap. 1067", "cap. 1069", "cap. 1070", "cap. 1089", "cap. 1090", "cap. 1119", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1333", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316"]
+fontes: ["cap. 556", "cap. 559", "cap. 561", "cap. 568", "cap. 741", "cap. 745", "cap. 771", "cap. 818", "cap. 837", "cap. 848", "cap. 871-874", "cap. 872", "cap. 878", "cap. 882-885", "cap. 884", "cap. 888-890", "cap. 905", "cap. 917", "cap. 936-938", "cap. 942", "cap. 943", "cap. 971", "cap. 979", "cap. 980", "cap. 1003", "cap. 1004-1008", "cap. 1020", "cap. 1030", "cap. 1038", "cap. 1067", "cap. 1069", "cap. 1070", "cap. 1089", "cap. 1090", "cap. 1119", "cap. 1212", "cap. 1239", "cap. 1249", "cap. 1251", "cap. 1252", "cap. 1270", "cap. 1322-1338", "cap. 1333", "cap. 1350", "cap. 1355", "cap. 1370", "cap. 1381", "cap. 1385", "cap. 1391", "cap. 1396", "cap. 1405", "cap. 1410-1415", "cap. 1418", "cap. 1430", "cap. 1435", "cap. 1466", "cap. 1467", "cap. 1502", "cap. 1586", "cap. 1589-1591", "cap. 1603", "cap. 1608", "cap. 1611", "cap. 1682", "cap. 1695", "cap. 1701", "cap. 1706-1709", "cap. 1727", "cap. 1728", "cap. 1730", "cap. 1731", "cap. 1732", "cap. 1757", "cap. 1767", "cap. 1770", "cap. 1773", "cap. 1779", "cap. 1780", "cap. 1787", "cap. 1788", "cap. 1794", "cap. 1795", "cap. 1804", "cap. 1809", "cap. 1817", "cap. 1856", "cap. 1881", "cap. 1882", "cap. 1898", "cap. 1899", "cap. 1901", "cap. 1904-1906", "cap. 1914", "cap. 1922", "cap. 1973", "cap. 2049", "cap. 2078", "cap. 2112", "cap. 2118", "cap. 2229", "cap. 2274", "cap. 2299", "cap. 2314", "cap. 2316"]
 conhecimento: comum
 ---
 
@@ -424,7 +424,7 @@ nível mais baixo, com sabedoria forte, satisfaz. Ainda assim, há marcos claros
 | **Rank 6** | A faixa das ferramentas: a placa de formação, que **monta sozinha** uma formação e **dispensa domínio nenhum** do usuário. Limite declarado: usar uma placa de rank 6 para montar formação de rank 7 **falha com frequência** |
 | **Rank 7** | A faixa das formações imortais completas e das Casas de Gu Imortal operadas em grupo. Quatro imortais de rank 7 dentro de uma formação de batalha antiga de terceira colocação histórica lutam **como um rank 8** |
 | **Rank 8** | O piso para **refinar** uma Casa de Gu Imortal: exige no mínimo rank 8 de cultivo. O nível da Casa acompanha o maior Gu Imortal dentro dela |
-| **Rank 9** | A obra mostra uma Venerável criando uma formação de rank 9 — e registra que, **por não ser uma Venerável de formação**, ela teve de gastar um número imenso de pensamentos para isso, apesar de ser "mais formidável que a maioria dos experts de rank 8 em formação". Especialização ainda importa no topo |
+| **Rank 9** | A obra mostra a **Star Constellation Immortal Venerable** criando a formação de cálculo estelar, de rank 9 — e registra que, **por não ser uma Venerável de formação**, ela teve de gastar um número imenso de pensamentos para isso, apesar de ser "mais formidável que a maioria dos experts de rank 8 em formação". Especialização ainda importa no topo |
 
 **A métrica que o caminho realmente usa é outra: camadas.** Uma formação de **doze camadas**
 fez de seu autor o número um reconhecido de uma região inteira; uma de **trinta camadas**
@@ -464,9 +464,9 @@ especialistas com Gu de comunicação. Um desafia o outro com um problema; quem 
 reputação. Existem "gênios" reconhecidos, títulos regionais ("o número um da região em
 formação") e disputas de prestígio.
 
-O retrato canônico do especialista é quase cômico e completamente utilizável numa mesa: um
-homem descoberto ainda menino por talento, que com rank 3 de cultivo já superava cultivadores
-de rank 5 na criação de formações; que recusou fama, fortuna e casamento para voltar à caverna
+O retrato canônico do especialista tem nome — **Chi Shang**, do clã Chi — e é quase cômico e
+completamente utilizável numa mesa: um homem descoberto ainda menino por talento, que com rank 3
+de cultivo já superava cultivadores de rank 5 na criação de formações; que recusou fama, fortuna e casamento para voltar à caverna
 e pesquisar; que se enclausura por mais de uma década seguida; que **esquece de comer** quando
 está pensando num problema e pararia no meio da rua — a ponto de o clã ter de cuidar dele para
 que não morra de inanição; e que chorou ao perceber que cem anos de vida são curtos demais para
@@ -476,10 +476,11 @@ A obra também registra o custo político desse perfil: *uma pessoa focada em pe
 e sem capacidade em conflitos políticos acabaria virando uma ferramenta usada pelos outros* —
 e, de fato, a influência dele dentro do próprio clã era a menor entre seus pares de nível.
 
-E há duas escolas institucionais, uma para cada metade do caminho: um clã célebre por
-**formações imóveis** (que a obra chama de mainstream do caminho) e outro célebre por **Casas de
-Gu Imortal**, isto é, formações móveis. O segundo é o clã com o maior **número** de imortais de
-formação do mundo.
+E há duas escolas institucionais, uma para cada metade do caminho: o **clã Chi**, da Fronteira
+Sul, célebre por **formações imóveis** (que a obra chama de mainstream do caminho) e reconhecido
+como a força número um da região neste caminho; e o **clã Fang**, do Deserto Ocidental, célebre
+por **Casas de Gu Imortal** — isto é, formações móveis —, projetadas e construídas por
+encomenda, e chamado de número um do Deserto Ocidental nessa especialidade "e talvez do mundo".
 
 > [!note] Para o design
 > **Arquétipo entregue: o engenheiro obsessivo.** Não é um mago de área — é um **projetista**.
@@ -508,11 +509,17 @@ formação do mundo.
 
 ## Praticantes notáveis (sem enredo)
 
-- **O clã das formações imóveis** — a força número um em formação de sua região, por acúmulo
+- **O clã Chi** (Fronteira Sul) — a força número um em formação da sua região, por acúmulo
   geracional: heranças imortais do caminho somadas a gerações de inovação sobre a fundação
-  original. Compensa a especialização sendo fraco em informação e sabedoria.
-- **O clã das Casas de Gu Imortal** — a outra escola do caminho, especializada em formações
-  **móveis**, e o clã com o maior número de imortais de formação do mundo.
+  original. Compensa a especialização sendo fraco em informação e sabedoria. Seu primeiro ancião
+  supremo, **Chi Qu You**, é grande grão-mestre de formação, e a maior formação que projetou é a
+  *formação das três melodias e nove lagoas*, feita já na velhice e usada pelos imortais do clã
+  numa guerra continental. Ver [[02 - Fronteira Sul|Fronteira Sul]].
+- **O clã Fang** (Deserto Ocidental) — a outra escola do caminho, especializada em formações
+  **móveis**: projeta e constrói Casas de Gu, mortais e imortais, por encomenda. Note a
+  peculiaridade que confirma a regra desta nota: o caminho de casa do clã Fang é o
+  [[16 - Wisdom Path|da sabedoria]], não o das formações, **porque projetar uma Casa de Gu é
+  deduzir golpes imortais novos**. Ver [[05 - Deserto Ocidental|Deserto Ocidental]].
 - **O grande grão-mestre solitário dos cinco elementos** — um imortal de rank 8 sem clã que
   cultiva formação e **imita os cinco caminhos elementais**. É a encarnação literal da regra de
   que grão-mestres imitam outros caminhos.
@@ -522,10 +529,10 @@ formação do mundo.
 - **O imortal que deixou o teste** — guardou sua herança atrás de uma formação-prova que
   premiava tanto quem tivesse domínio profundo quanto quem, tendo domínio baixo, **soubesse a
   hora de recuar**: "o único caminho para a frente é para trás".
-- **A criadora de caminhos que não era do caminho** — uma Venerável descrita como "mais
-  formidável que a maioria dos experts de rank 8 em formação", mas que, **por não ser uma
-  Venerável de formação**, teve de gastar um número imenso de pensamentos para criar uma
-  formação de rank 9. É a prova canônica de que especialização importa mesmo no topo.
+- **Star Constellation Immortal Venerable** — a Venerável do [[16 - Wisdom Path|caminho da
+  sabedoria]] e da [[19 - Star Path|estrela]], descrita como "mais formidável que a maioria dos
+  experts de rank 8 em formação", mas que, **por não ser uma Venerável de formação**, teve de
+  gastar um número imenso de pensamentos para criar a formação de cálculo estelar, de rank 9. É a prova canônica de que especialização importa mesmo no topo.
 
 ## O que a obra não diz
 

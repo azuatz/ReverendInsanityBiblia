@@ -84,8 +84,8 @@ detalhes finos aparecem no registro:
   golpe do caminho do roubo: o Gu é arrancado e refinado **no mesmo gesto**, o que torna
   repetível o uso do Gu Imortal alheio.
 
-Há também um artefato histórico com função equivalente: um caldeirão de refino, obra-prima de um
-dos maiores refinadores da história, capaz de **refinar à força os Gu Imortais de invasores**.
+Há também um artefato histórico com função equivalente: o ==Refinement Cauldron (Caldeirão de Refino)==, uma Casa de Gu Imortal de rank 8 tida como obra-prima de
+um dos maiores refinadores da história. O Gu-núcleo dela é o **Forceful Refinement (Refino Forçado)**, que não mata: ele **corta o vínculo entre o Gu Imortal e a abertura do dono** e o transfere a quem opera a casa — e um imortal assim esvaziado é capturado vivo.
 Ele foi usado para defender uma terra abençoada de sete ondas sucessivas de ataque — o defensor
 não repelia os atacantes, ele os **digeria**.
 
@@ -283,12 +283,12 @@ enquanto os insumos são. Confisca-se o que se pode usar.
 
 Duas categorias fecham a porta por completo:
 
-- **Gu Imortais de linhagem sanguínea.** Um clã cujo antepassado refinou Gu Imortais diretamente
-  na linhagem dos descendentes produz, de tempos em tempos, um membro em cujo corpo um Gu Imortal
+- **Gu Imortais de linhagem sanguínea.** O **clã Ni**, cujo antepassado refinou Gu Imortais diretamente
+  na linhagem dos descendentes, produz, de tempos em tempos, um membro em cujo corpo um Gu Imortal
   literalmente **cresce**. Esse Gu **não pode ser roubado** — até o refino reverso falha contra
   ele.
 - **O que já foi destruído.** Um Gu Imortal que se autodestruiu está fora do mundo. A única
-  ressurreição registrada é uma instalação lendária que **refaz** um Gu Imortal destruído a
+  ressurreição registrada é a **Piscina do Arrependimento (*Regret Pool*)**, que **refaz** um Gu Imortal destruído a
   partir de uma insígnia deixada por um refino anterior bem-sucedido daquele mesmo Gu — com taxa
   entre cinquenta e sessenta por cento, e a insígnia consumida a cada tentativa.
 

@@ -12,7 +12,7 @@ aliases:
   - Sociedade extraterritorial
   - O que existe fora do mapa
 status: consolidado
-fontes: ["cap. 366", "cap. 377", "cap. 408-410", "cap. 418", "cap. 461-468", "cap. 474-476", "cap. 486-487", "cap. 491-492", "cap. 537", "cap. 546", "cap. 549", "cap. 653", "cap. 661-662", "cap. 712", "cap. 722", "cap. 751-752", "cap. 777-779", "cap. 809", "cap. 813", "cap. 822", "cap. 863-870", "cap. 872", "cap. 878-885", "cap. 900", "cap. 932", "cap. 936", "cap. 972", "cap. 977-980", "cap. 985-990", "cap. 1032-1035", "cap. 1066", "cap. 1070-1074", "cap. 1077", "cap. 1081-1082", "cap. 1089-1094", "cap. 1116", "cap. 1131", "cap. 1133", "cap. 1147", "cap. 1185-1187", "cap. 1206", "cap. 1242-1243", "cap. 1338", "cap. 1441", "cap. 1461", "cap. 1470", "cap. 1559", "cap. 1596", "cap. 1636-1644", "cap. 1678", "cap. 1681", "cap. 1732", "cap. 1769", "cap. 1801", "cap. 1849", "cap. 1885", "cap. 1966", "cap. 1973", "cap. 1976", "cap. 1990", "cap. 2001", "cap. 2008", "cap. 2013", "cap. 2023-2026", "cap. 2053", "cap. 2112", "cap. 2118-2119", "cap. 2136", "cap. 2139", "cap. 2156", "cap. 2160", "cap. 2170-2171", "cap. 2229", "cap. 2241-2242", "cap. 2245", "cap. 2255-2257", "cap. 2263", "cap. 2273", "cap. 2299"]
+fontes: ["cap. 366", "cap. 377", "cap. 408", "cap. 418", "cap. 461", "cap. 474", "cap. 486", "cap. 491", "cap. 537", "cap. 546", "cap. 549", "cap. 653", "cap. 661", "cap. 712", "cap. 722", "cap. 751", "cap. 777", "cap. 809", "cap. 813", "cap. 822", "cap. 863", "cap. 872", "cap. 878", "cap. 900", "cap. 932", "cap. 936", "cap. 972", "cap. 977", "cap. 985", "cap. 1032", "cap. 1066", "cap. 1070", "cap. 1077", "cap. 1081", "cap. 1089", "cap. 1116", "cap. 1131", "cap. 1133", "cap. 1147", "cap. 1185", "cap. 1206", "cap. 1242", "cap. 1338", "cap. 1441", "cap. 1461", "cap. 1470", "cap. 1559", "cap. 1596", "cap. 1636", "cap. 1678", "cap. 1681", "cap. 1732", "cap. 1769", "cap. 1801", "cap. 1849", "cap. 1885", "cap. 1966", "cap. 1973", "cap. 1976", "cap. 1990", "cap. 1993", "cap. 2001", "cap. 2008", "cap. 2013", "cap. 2023", "cap. 2053", "cap. 2112", "cap. 2118", "cap. 2136", "cap. 2139", "cap. 2156", "cap. 2160", "cap. 2170", "cap. 2229", "cap. 2241", "cap. 2245", "cap. 2255", "cap. 2263", "cap. 2273", "cap. 2299"]
 conhecimento: misto — a existência dos dois céus é `comum`; quase todo o resto desta nota é `especializado` ou `segredo`, e cada seção diz qual
 ---
 
@@ -87,8 +87,8 @@ socialmente muito diferentes:
 
 1. **Nativos.** Nasceram ali e nunca estiveram em outro lugar. É o caso da população
    subterrânea de homens-de-pedra que ocupava a zona sul de uma terra abençoada de porte
-   médio, e o caso da imensa população de homens-peludos de uma terra com **trezentos mil
-   anos de história**. Populações nascidas dentro geram **lealdade extrema** e — quando são
+   médio, e o caso da imensa população de homens-peludos da **Lang Ya blessed land**, que tem
+   **trezentos mil anos de história**. Populações nascidas dentro geram **lealdade extrema** e — quando são
    humanas ou humanoides — chegam a **produzir espontaneamente receitas, Gu e técnicas
    novas**, sem que o dono precise deduzir nada. Do ponto de vista do dono, é a melhor
    população que existe.
@@ -146,8 +146,9 @@ Há três autoridades possíveis, e elas podem coexistir:
 - **O espírito da terra.** O administrador real. Ele não pode sair, conhece cada palmo do
   território, distribui missões, cobra preços, guarda o tesouro e defende o lugar. Numa terra
   sem dono vivo, ele é o governo inteiro.
-- **Uma instituição própria.** O caso mais desenvolvido da obra: uma terra abençoada cujo
-  espírito fundou uma **seita formal** dentro dela, com estrutura completa —
+- **Uma instituição própria.** O caso mais desenvolvido da obra: a **Lang Ya blessed land**,
+  cujo espírito da terra fundou dentro dela a **Lang Ya Sect** — uma seita formal, com
+  estrutura completa, tomando como modelo o sistema de seitas do Continente Central —
 
   - **patentes hereditárias por mérito** (os membros são numerados por posição: subir de
     "Sexto Pelo" para "Quinto Pelo" é promoção real);
@@ -180,8 +181,8 @@ Há três autoridades possíveis, e elas podem coexistir:
 A terra é a despensa e a fábrica do dono, e a mão de obra é o elo que faz isso funcionar.
 Produções documentadas:
 
-- **Refino de Gu em escala industrial.** Uma terra abençoada especializada em refino tinha
-  múltiplas salas de refino classificadas por grau e letra, cada uma com **quilômetros
+- **Refino de Gu em escala industrial.** A Lang Ya blessed land, especializada em refino,
+  tinha múltiplas salas de refino classificadas por grau e letra, cada uma com **quilômetros
   de diâmetro**, com caldeirões, fornalhas, tanques e casas-caverna. Os
   homens-peludos nascem com marcas de dao de refino no corpo e são, por isso, a melhor mão
   de obra de refino do mundo — a obra afirma pela boca deles que **o caminho do refino
@@ -190,8 +191,8 @@ Produções documentadas:
 - **Agricultura, pesca, cidades e navegação.** A mesma terra abriga três continentes sob uma
   camada de nuvens, com uma civilização completa: lavoura, pesca, cidades e exploração
   marítima.
-- **Criação de animais em escala absurda.** Uma terra de porte médio chegou a ter **4,7
-  milhões de raposas** antes de uma calamidade; outra criava lobos, mais outra águias em
+- **Criação de animais em escala absurda.** A **Hu Immortal blessed land**, de porte médio,
+  chegou a ter **4,7 milhões de raposas** antes de uma calamidade; outra criava lobos, mais outra águias em
   mais de cem ninhos suspensos no ar. O excedente é vendido no mercado imortal, o que alivia
   a pressão ecológica interna e vira renda.
 - **Bens de consumo de baixo custo marginal.** Terras com fluxo de tempo rápido produzem em
@@ -256,9 +257,12 @@ Os outros três destinos possíveis:
 
 `conhecimento: segredo`
 
-Levada ao limite, uma abertura imortal deixa de ser propriedade e vira **um país** — e a
-obra classifica uma dessas não como "super força" (potência regional), mas como **força
-suprema**, categoria até então reservada às duas maiores instituições do mundo. Uma pessoa
+Levada ao limite, uma abertura imortal deixa de ser propriedade e vira **um país**. O caso
+documentado é a **sovereign immortal aperture** (abertura imortal soberana) — a dimensão
+produzida artificialmente pelo *sovereign immortal fetus Gu* de rank 9, com mais de 335 mil
+km² organizados em dez camadas, cada uma reproduzindo uma parte do mundo. A obra a classifica
+não como "super força" (potência regional), mas como **força suprema**, categoria até então
+reservada ao Tribunal Celestial e ao Longevity Heaven. Uma pessoa
 passa a valer, institucionalmente, o mesmo que uma civilização milenar.
 
 O que essa abertura tem por dentro:
@@ -387,7 +391,7 @@ Vale listar, porque o silêncio é grande e é útil saber onde ele começa:
   [[19 - Tribunal Celestial|Tribunal Celestial]] para três preenchimentos compatíveis.
 
 > [!note] Para o design
-> A imagem de mesa é esta: os personagens entram na maior instituição do mundo e encontram
+> A imagem de mesa é esta: os personagens entram na sede do Tribunal Celestial e encontram
 > **corredores vazios**. Quase todo mundo está dormindo. Há alguém de plantão, um
 > procedimento antiquado a cumprir, e um silêncio de milhões de anos. Isso é muito mais
 > assustador — e muito mais jogável — do que um salão do trono cheio de deuses.
@@ -418,14 +422,15 @@ nem pelos mais poderosos da história.
 O que faz dele uma sociedade e não só uma loja:
 
 - **Quem manda é um administrador não-humano.** Um espírito celestial governa o lugar, e é
-  descrito como extremamente orgulhoso e **neutro**: ignora até a autoridade máxima do
-  mundo, e em uma ocasião **preferiu morrer a ceder a uma ameaça de um Venerável**. É a coisa
+  descrito como extremamente orgulhoso e **neutro**: ignora até o
+  [[19 - Tribunal Celestial|Tribunal Celestial]], e em uma ocasião **preferiu morrer a ceder à
+  ameaça de um Venerável**. É a coisa
   mais próxima de um Estado independente que o cenário tem.
 - **A lei do lugar é física, não jurídica.** Formações mágicas e golpes secretos
   **simplesmente não funcionam ali dentro**. Não existe polícia porque não existe a
   possibilidade de violência. A paz é uma propriedade do terreno.
 - **Todo mundo é anônimo, e ninguém consegue mudar isso.** A identidade de vendedores e
-  compradores pode ser ocultada e trocada à vontade, e **nem a maior instituição do mundo
+  compradores pode ser ocultada e trocada à vontade, e **nem o Tribunal Celestial
   consegue rastreá-la** — há registro de gente recomprando anonimamente os próprios bens
   saqueados, e de alguém lucrando dos dois lados da mesma cadeia de favores sem que nenhum
   participante percebesse a conexão.
@@ -470,10 +475,11 @@ eles **são habitados e disputados**, e que a vida social lá em cima tem regras
   específica daquele andar — uma praga que cresce dentro das grutas-céu até se autodetonar,
   destruindo o lugar inteiro. Tentaram resolvê-la por tentativa e erro e **destruíram várias
   grutas-céu no processo**.
-- **Há uma porta aberta a todos, e ela é disputada.** No Mar Oriental existe um lugar por
-  onde **qualquer pessoa, inclusive um mortal sem cultivo, entra direto nos céus** sem
-  enfrentar a muralha de vento celestial. Ele guarda a herança de um dos maiores refinadores
-  da história e é disputado por três super clãs **há mais de um século** — com uma regra
+- **Há uma porta aberta a todos, e ela é disputada.** No Mar Oriental fica a **Ascending
+  Heaven Plain**, por onde **qualquer pessoa, inclusive um mortal sem cultivo, entra direto
+  nos céus** sem enfrentar a muralha de vento celestial. Ela guarda a herança verdadeira de
+  **Old Eccentric Tian Nan**, o primeiro grão-mestre supremo do caminho do refino, e é
+  disputada pelos super clãs **Song**, **Ruo Lai** e **Cai** **há mais de um século** — com uma regra
   social clara: os três brigam entre si, mas **se unem imediatamente contra qualquer
   forasteiro** que tente entrar na disputa.
 - **Há um portal que se abre por temporada.** Um portão ligado a um pacto milenar entre cinco
@@ -566,8 +572,8 @@ mundo estão hoje na bagagem de particulares.**
 Os sete céus imemoriais destruídos deixaram fragmentos, e alguns viraram **mundos isolados
 habitáveis**. O caso documentado é o mais tocante do cenário:
 
-Uma raça humana variante alada vive num fragmento de céu verde, numa cidade voadora que é,
-ela própria, um artefato mágico de alto nível. O lugar é descrito como um **paraíso** — uma
+Os **homens-pena** (*feathermen*) vivem no fragmento do céu verde, na **Sacred Feather City**
+(Cidade Sagrada da Pena), que é, ela própria, uma Casa de Gu Imortal. O lugar é descrito como um **paraíso** — uma
 utopia isolada, fundada há eras. Essa gente **valoriza a liberdade acima da vida**: prefere
 o suicídio coletivo à escravização, e é justamente por isso que é cobiçada em outro lugar do
 mundo, onde há demanda anual de escravos da mesma raça para sacrifícios em massa.
@@ -589,21 +595,25 @@ ao invasor.
 Alguns mundos fechados foram desenhados para produzir um tipo de gente, e por isso têm
 culturas próprias:
 
-- **Uma gruta-céu inteiramente saturada de caminho da comida**, resultado de um Venerável
-  ter fundido a própria dimensão ao corpo de uma fera lendária. O efeito social é notável:
+- **A Myriad Beast Fusion Color Heaven** (Céu da Cor da Fusão da Miríade de Feras), a
+  abertura imortal de *Reckless Savage Demon Venerable*, que ele deixou **dentro do corpo do
+  sapo-demônio glutão** — e é essa fusão que satura a gruta-céu inteira de **caminho da
+  comida**. O efeito social é notável:
   os habitantes conseguem, **com pouquíssimo domínio pessoal daquela disciplina**, preparar
   comida capaz de gravar marcas de dao. O ambiente compensa a deficiência individual. E o
   conhecimento disso é `segredo` no mundo em geral e **`comum` para quem mora lá dentro** —
   um caso limpo de tecnologia isolada dentro de uma bolha.
-- **Uma gruta-céu de caminho da informação** sob um efeito ambiental permanente que faz da
-  **composição de poesia** uma via de progresso rápido e sem efeitos colaterais. Ela sedia
+- **A Profound Literature grotto-heaven** (gruta-céu da Literatura Profunda), do caminho da
+  informação, sob um efeito ambiental permanente que faz da **composição de poesia** uma via
+  de progresso rápido e sem efeitos colaterais. Ela sedia
   uma competição mundial de poesia — dezoito rodadas temáticas, cinco minutos por tema,
   metade dos concorrentes eliminada a cada rodada, sete dias corridos — que funciona
   oficialmente como seleção de talentos e que, na prática, é **manipulada por relações de
   mestre e aluno e por política de bastidores**. Uma sociedade literária inteira, com suas
   panelinhas, dentro de um mundo fechado.
-- **Uma estrutura flutuante em forma de colmeia** sobre um mar de refino, que é um domínio
-  recluso incompleto por si só, comporta um número ilimitado de refinadores mortais e até dez
+- **Uma estrutura flutuante em forma de colmeia** sobre o **Refinement Sea** (Mar do Refino)
+  da Lang Ya blessed land — o domínio recluso artificial e incompleto de **Long Hair
+  Ancestor** —, que comporta um número ilimitado de refinadores mortais e até dez
   imortais, e **produz artefatos continuamente** enquanto houver gente estacionada nela.
   Várias delas interligadas formam um sistema simbiótico com o mar embaixo. É uma fábrica que
   também é um bairro.
@@ -613,8 +623,8 @@ culturas próprias:
 `conhecimento: segredo` — e este é o único lugar desta nota onde a estrutura do cenário
 encosta em algo próximo de enredo, então fica no essencial.
 
-Existe um domínio deixado por um Venerável, organizado em **nove camadas** empilhadas, cada
-uma com sua ecologia: rocha em brasa, névoa branca com feras e uma **cidade** dentro dela,
+A **Crazed Demon Cave**, o campo de Dao que *Limitless Demon Venerable* montou em seus
+últimos anos, é organizada em **nove camadas** empilhadas, cada uma com sua ecologia: rocha em brasa, névoa branca com feras e uma **cidade** dentro dela,
 solo feito de material quase supremo mas inutilizável, e mais fundo um vazio onde **mundos
 pequenos nascem, amadurecem e são destruídos em ciclo**. Esse vazio produz ocasionalmente
 seres de aptidão extrema, "filhos da sorte", que nascem ali **independentemente de facção**.

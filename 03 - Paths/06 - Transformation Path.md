@@ -5,7 +5,7 @@ aliases:
   - Transformation Path
   - Caminho da transformação
 status: consolidado
-fontes: ["cap. 125", "cap. 185", "cap. 192", "cap. 523", "cap. 526", "cap. 534", "cap. 538", "cap. 569", "cap. 574", "cap. 597", "cap. 626", "cap. 712", "cap. 713", "cap. 714", "cap. 715", "cap. 717", "cap. 743", "cap. 751", "cap. 885", "cap. 947", "cap. 1066", "cap. 1099", "cap. 1154", "cap. 1161", "cap. 1166", "cap. 1185", "cap. 1188", "cap. 1200", "cap. 1204", "cap. 1227", "cap. 1228", "cap. 1237", "cap. 1240"]
+fontes: ["cap. 125", "cap. 185", "cap. 192", "cap. 523", "cap. 526", "cap. 534", "cap. 538", "cap. 569", "cap. 574", "cap. 597", "cap. 626", "cap. 712", "cap. 713", "cap. 714", "cap. 715", "cap. 717", "cap. 731", "cap. 743", "cap. 751", "cap. 885", "cap. 947", "cap. 1066", "cap. 1099", "cap. 1154", "cap. 1161", "cap. 1166", "cap. 1185", "cap. 1188", "cap. 1200", "cap. 1204", "cap. 1227", "cap. 1228", "cap. 1237", "cap. 1240"]
 conhecimento: comum
 ---
 
@@ -65,9 +65,9 @@ patamar de mestre, só consigo equilibrar três marcas do Dao diferentes; três 
 maior demonstração possível do meu domínio atual*. Sobe o domínio, sobe o número de coisas que
 cabem no mesmo corpo.
 
-O ser lendário que fundou o caminho superou esse limite de um jeito característico:
-**comendo** feras imemoriais, o que gravou totens no corpo, *abarcando incontáveis marcas do
-Dao no próprio corpo e permitindo transformar-se à vontade* — antecipando, por eras, uma
+O **Reckless Savage Demon Venerable**, que fundou o caminho, superou esse limite de um jeito
+característico: **comendo** feras imemoriais, o que gravou totens no corpo, *abarcando
+incontáveis marcas do Dao no próprio corpo e permitindo transformar-se à vontade* — antecipando, por eras, uma
 categoria inteira de técnica (ver [[08 - Killer Moves|Killer Moves]]).
 
 ### Transformação plena exige um conjunto completo
@@ -226,10 +226,12 @@ de **sete mil** marcas de transformação, contra mil de água e mil de terra.
 
 `conhecimento: segredo`
 
-Um último detalhe, e ele é uma faca de dois gumes: existe um artefato capaz de **suprimir as
-marcas de transformação do corpo de alguém e reverter a pessoa à forma anterior**. O caso
-documentado é o de uma pessoa cujo sexo havia sido trocado por Gu de transformação e que
-recuperou o corpo original enquanto o artefato agia sobre ela. Isto é: transformações do
+Um último detalhe, e ele é uma faca de dois gumes: a ==abertura fantasma== (*phantom aperture*),
+o artefato central do [[22 - Phantom Path|caminho fantasma]] que serve de abertura imortal
+postiça a quem não ascendeu, **suprime as marcas de transformação do corpo de quem a usa e
+reverte a pessoa à forma anterior** enquanto estiver ativa. O caso documentado é o de uma pessoa
+cujo sexo havia sido trocado pelo par de Gu da Rotação Yin-Yang: com a abertura fantasma ligada,
+ela volta ao corpo original; desligada, as marcas de transformação a devolvem à outra forma. Isto é: transformações do
 caminho **não são necessariamente irreversíveis** — mas quem tem o poder de revertê-las tem
 poder sobre a identidade de quem as carrega.
 
@@ -250,7 +252,7 @@ poder sobre a identidade de quem as carrega.
 
 | Gu | Nível | Efeito resumido |
 |---|---|---|
-| Mudar Forma ⭐ | 6 | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela. Foi destruído e refeito dezenas de vezes na história e quase sempre **volta em rank 6**; já houve um exemplar de rank 9, destruído junto com o dono, e desde então o mundo recomeça do 6. Ver [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] |
+| Mudar Forma ⭐ | 6 | A essência do caminho; com ele, transformar-se em **qualquer coisa** — bicho, planta, montanha, rio, estrela. Foi destruído e refeito dezenas de vezes na história e quase sempre **volta em rank 6**; já houve um exemplar de rank 9, destruído junto com o dono, e desde então o mundo recomeça do 6. Ver [[11 - Catálogo de Gu - Imortais\|Catálogo de Gu - Imortais]] |
 | Adaptação ⭐ | 8 | Converte marcas de qualquer caminho em marcas de transformação |
 | Mutação ⭐ | 8 | Muta partes do corpo do alvo em plantas ou animais |
 | Eterno ⭐ | — | Fixa uma transformação permanentemente |
@@ -281,8 +283,8 @@ poder sobre a identidade de quem as carrega.
   desolada; até três pares; conserva a sensação de dor; pode ser **detonado** de propósito.
   Descrito como o melhor custo-benefício de deslocamento que um mortal pode ter.
 - **A série do rosto: Rosto Desconhecido → Rosto Vagamente Familiar → Rosto Familiar.** A
-  linhagem de disfarce mais sofisticada da obra, herdada de um Venerável. O primeiro é um golpe
-  mortal comum. O segundo é **imortal**, com **três Gu Imortais no núcleo, dois deles de
+  linhagem de disfarce mais sofisticada da obra, e a herança dos dois degraus superiores é do
+  **Thieving Heaven Demon Venerable**. O primeiro é um golpe mortal comum. O segundo é **imortal**, com **três Gu Imortais no núcleo, dois deles de
   transformação** — e, quando usado, *a impostura fica realmente difícil de detectar*. Fundir o
   Gu Imortal da mudança de forma dentro dele **amplia enormemente a variedade de aparências**
   disponíveis. O topo da série não engana os olhos: engana a **mente** — a vítima **sente**
@@ -333,8 +335,9 @@ tempo de limpeza entre as formas.
   derrota específica deste caminho.
 - **Deriva de identidade.** Cada transformação deixa marcas permanentes. A longo prazo, o
   praticante deixa de ser inteiramente humano — e isso não é metáfora.
-- **Marcas podem ser suprimidas por terceiros.** Existe artefato capaz de reverter à força o que
-  o praticante fez de si mesmo.
+- **Marcas podem ser suprimidas por terceiros.** A abertura fantasma do
+  [[22 - Phantom Path|caminho fantasma]] reverte à força o que o praticante fez de si mesmo,
+  enquanto estiver ativa.
 - **Poucos golpes de ataque próprios.** O caminho ataca com o corpo que tomou emprestado, não
   com um repertório ofensivo autoral. Sem uma boa forma, ele não tem plano B.
 
@@ -395,7 +398,7 @@ tempo de limpeza entre as formas.
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco Selvagem Imprudente**, de rank 9 — progenitor do caminho, e também
+- **Reckless Savage Demon Venerable** (Venerável Demoníaco Selvagem Imprudente), de rank 9 — progenitor do caminho, e também
   do [[04 - Strength Path|Strength Path]]. Superou o limite de marcas simultâneas devorando feras imemoriais e
   carregando totens no corpo. Transformou-se numa fênix de gelo para criar uma planície gelada
   inteira no norte, e **imprimiu ali o verdadeiro sentido dos dois caminhos**: desde então,

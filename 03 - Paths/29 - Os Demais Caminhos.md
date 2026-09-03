@@ -53,7 +53,7 @@ era de criação, o instrutor termina assim:
 Portanto o mundo reconhece formalmente **duas categorias**. E os caminhos menores não são
 necessariamente fracos — o [[13 - Sound Path|caminho do som]] é chamado de menor e produziu grandes
 peritos de rank 8; o [[22 - Phantom Path|caminho fantasma]] é chamado de menor e sua profundidade
-suprema sustenta a maior organização do mundo. "Menor" significa **pouco praticado e pouco
+suprema sustenta o [[19 - Tribunal Celestial|Tribunal Celestial]]. "Menor" significa **pouco praticado e pouco
 desenvolvido**, não pouco potente.
 
 ## A árvore de derivação — de onde vêm os caminhos menores

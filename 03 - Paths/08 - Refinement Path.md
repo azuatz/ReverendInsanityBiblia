@@ -5,7 +5,7 @@ aliases:
   - Refinement Path
   - Caminho do refinamento
 status: consolidado
-fontes: ["cap. 262", "cap. 265", "cap. 275", "cap. 282", "cap. 284", "cap. 356", "cap. 358", "cap. 387", "cap. 486", "cap. 567", "cap. 572", "cap. 711", "cap. 735", "cap. 843", "cap. 845", "cap. 860", "cap. 861", "cap. 926", "cap. 937", "cap. 950", "cap. 1065", "cap. 1067", "cap. 1068", "cap. 1441", "cap. 1560", "cap. 1569", "cap. 1795", "cap. 1858", "cap. 2077", "cap. 2080", "cap. 2119", "cap. 2131", "cap. 2154", "cap. 2238"]
+fontes: ["cap. 262", "cap. 265", "cap. 275", "cap. 282", "cap. 284", "cap. 356", "cap. 358", "cap. 387", "cap. 486", "cap. 567", "cap. 572", "cap. 711", "cap. 735", "cap. 843", "cap. 845", "cap. 2232", "cap. 860", "cap. 861", "cap. 926", "cap. 937", "cap. 950", "cap. 1065", "cap. 1067", "cap. 1068", "cap. 1441", "cap. 1560", "cap. 1569", "cap. 1795", "cap. 1858", "cap. 2077", "cap. 2080", "cap. 2119", "cap. 2131", "cap. 2154", "cap. 2238"]
 conhecimento: comum
 ---
 
@@ -74,8 +74,11 @@ Cada estilo produz um tipo de personagem e de história diferente:
 - **Estilo 2** — refinar territórios e mundos em vez de bichos. É por isso que o topo do mundo
   compete por terra: a terra é matéria-prima.
 - **Estilo 3** — refinar Gu Imortais **dentro do corpo de descendentes**, ao longo de gerações.
-  Um clã inteiro construiu sua existência sobre isso. Quem domina o estilo consegue fazer
-  **engenharia reversa** dele e extrair os Gu direto do corpo dos membros desses clãs.
+  O caso canônico é o do **clã Ni**, cujo imortal **Ni Ren**, quase-supremo grão-mestre do
+  refino, implantou Gu Imortais fundo nas linhagens dos próprios descendentes: os membros
+  passam por provações cruéis, uma parcela deles entra em febre e desmaia, e dos que acordam
+  alguns despertam com um Gu Imortal já refinado dentro do corpo. Quem domina o estilo consegue
+  fazer **engenharia reversa** dele e extrair os Gu direto do corpo dos membros desses clãs.
 - **Estilo 4** — refinar corpos e almas humanos. Produz raças novas, corpos artificiais,
   ressurreições.
 
@@ -83,11 +86,12 @@ Cada estilo produz um tipo de personagem e de história diferente:
 
 No dia a dia, refina-se de duas maneiras:
 
-1. **Isolamento humano** — sozinho, sem assistência do ambiente. Taxa de sucesso mais baixa,
-   mas seguro.
-2. **Céu e terra** — usando as marcas do ambiente para assistir o processo. Taxa muito maior,
-   mas **atrai calamidades e tribulações**. As vantagens superam o risco para quem consegue
-   sobreviver a elas.
+1. **Isolamento humano** (*human isolation style*) — o estilo humano: sozinho, sem assistência
+   do ambiente. Taxa de sucesso mais baixa, mas seguro.
+2. **Céu e terra dos homens-peludos** (*hairy man heaven and earth style*) — usando as marcas do
+   ambiente para assistir o processo. Taxa muito maior, mas **atrai calamidades e tribulações**.
+   As vantagens superam o risco para quem consegue sobreviver a elas — a ponto de dois Veneráveis
+   terem ido pedir refinos a um homem-peludo em vez de refinarem sozinhos.
 
 Existe também o **refino a dois**, em que dois imortais dividem papéis: um conduz a técnica e
 as marcas, o outro processa o material crítico.
@@ -178,17 +182,23 @@ mundial** que aceita qualquer participante: demoníacos, mortais, criminosos. Os
 colocados levam, cada um, uma **marca do sucesso** — o item que garante que um refino dê certo.
 Por que tanta abertura?
 
-Porque **mais participantes significam mais fracassos, e os fracassos são o insumo**. Existe uma
-herança que **acumula os Gu de fracasso** produzidos pelos competidores e os converte em marcas
-do sucesso. Quando ela enche, tem **trinta e seis** marcas. E a maior potência política do
-mundo, que controla o lugar onde ela fica, **retira trinta** delas — deixando seis para os
-competidores, exatamente o número que a convenção premia. Nem essa potência consegue tomar as
-seis restantes.
+Porque **mais participantes significam mais fracassos, e os fracassos são o insumo**. A
+convenção tem nome — a **Convenção do Caminho do Refino do Continente Central** (*Central
+Continent Refinement Path Convention*) — e a máquina por trás dela também: a terra abençoada
+**Infallible** ("Infalível"), na Montanha do Pé Peludo, que é a **herança racial dos
+homens-peludos** e não tem entrada nenhuma. Ela **acumula os Gu de fracasso mortais** produzidos
+pelos competidores e os condensa em marcas do sucesso. Quando enche, tem **trinta e seis**
+marcas. O [[19 - Tribunal Celestial|Tribunal Celestial]], que capturou a terra e criou a
+convenção em volta dela exatamente para alimentá-la, **retira trinta** — deixando seis para os
+competidores, que é o número que a convenção premia, gravadas no corpo do vencedor na hora, sem
+chance de terceiros as tomarem. Nem o Tribunal consegue ficar com essas seis, e nem em milhares
+de anos conseguiu tomar a terra abençoada por completo.
 
-O detalhe que fecha o segredo: as marcas do sucesso dessa herança **não são iguais às marcas do
-sucesso comuns** — elas são *intimamente relacionadas ao caminho do refinamento*, e quem
-conseguisse **estudar uma** poderia **construir uma herança dessas para si**. É a receita da
-fábrica de sorte, e ninguém teve tempo de decifrá-la.
+O detalhe que fecha o segredo: as marcas do sucesso da Infallible **não são iguais às marcas do
+sucesso comuns** — elas contêm profundidade do caminho do refinamento **e também essência do
+[[24 - Human Path|caminho humano]]**, e é justamente a parte humana que impede de replicá-las.
+Quem conseguisse **estudar uma** poderia **construir uma herança dessas para si**. É a receita da
+fábrica de sorte, e ninguém decifrou.
 
 Numa mesa, isso é um cenário inteiro: um torneio aberto a todos, cuja função real é **colher o
 fracasso alheio**, operado por quem já leva cinco sextos do prêmio antes de a competição
@@ -421,13 +431,17 @@ exércitos, e que o acesso a elas é moeda de negociação.
 
 ## Praticantes notáveis (sem enredo)
 
-- **Os Três Anciãos** — os únicos três supremos grão-mestres de refinamento em toda a
-  história, um por era antiga. O primeiro deles, da mais remota antiguidade, tentou refinar **o
-  mundo inteiro** como território externo e falhou por não conseguir refinar marcas do Dao do
-  céu (ver [[25 - Heaven Path|Heaven Path]]). O segundo tem a pesquisa mais profunda já feita
-  sobre **aberturas mortais e imortais**, insuperada até hoje. O terceiro, um homem-peludo de
+- **Os Três Anciãos** (*Three Olds*) — os únicos três supremos grão-mestres de refinamento em
+  toda a história, um por era antiga, e a obra os nomeia: **Old Eccentric Tian Nan** (Antiguidade
+  Remota), **Old Immortal Kong Jue** (Antiguidade Passada) e **Long Hair Ancestor** (Antiguidade
+  Medieval). Tian Nan, o primeiro registrado, tentou refinar **o mundo inteiro** como território
+  externo e falhou por não conseguir refinar marcas do Dao do céu (ver
+  [[25 - Heaven Path|Heaven Path]]). Kong Jue tem a pesquisa mais profunda já feita sobre
+  **aberturas mortais e imortais**, insuperada até hoje. Long Hair Ancestor, um homem-peludo de
   rank 8, construiu as duas maiores casas de Gu do mundo — e deixou como legado a técnica de
-  refino ao ar livre que ficou insuperada por eras.
+  refino ao ar livre que ficou insuperada por eras. Os dois primeiros eram humanos, e por isso o
+  [[19 - Tribunal Celestial|Tribunal Celestial]] recolheu a maior parte das heranças verdadeiras
+  deles.
 - **Os quatro especialistas de uma região** — a obra usa uma região inteira para mostrar a
   escassez: os quatro maiores refinadores conhecidos ali são um imortal de rank 8 cuja erudição
   talvez ultrapasse grão-mestre, uma imortal que já refinou um Gu Imortal com sucesso, uma

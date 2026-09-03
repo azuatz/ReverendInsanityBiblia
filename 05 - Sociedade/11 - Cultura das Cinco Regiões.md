@@ -6,7 +6,7 @@ tags:
 aliases:
   - Regional cultures
 status: consolidado
-fontes: ["cap. 229", "cap. 260-283", "cap. 334-335", "cap. 353", "cap. 359", "cap. 427", "cap. 439-451", "cap. 456", "cap. 470", "cap. 477-489", "cap. 497-545", "cap. 585", "cap. 638", "cap. 673-674", "cap. 749", "cap. 795", "cap. 812-814", "cap. 864-869", "cap. 879", "cap. 892-899", "cap. 909-911", "cap. 954", "cap. 965", "cap. 1207", "cap. 1235-1236", "cap. 1303-1305", "cap. 1966", "cap. 1973", "cap. 2015", "cap. 2038", "cap. 2100", "cap. 2161", "cap. 2175", "cap. 2255"]
+fontes: ["cap. 229", "cap. 260", "cap. 334", "cap. 353", "cap. 359", "cap. 427", "cap. 439", "cap. 456", "cap. 470", "cap. 477", "cap. 497", "cap. 585", "cap. 638", "cap. 673", "cap. 749", "cap. 795", "cap. 812", "cap. 864", "cap. 879", "cap. 892", "cap. 909", "cap. 954", "cap. 965", "cap. 1207", "cap. 1235", "cap. 1303", "cap. 1966", "cap. 1973", "cap. 2015", "cap. 2038", "cap. 2047", "cap. 2100", "cap. 2161", "cap. 2175", "cap. 2255"]
 conhecimento: comum
 ---
 
@@ -32,36 +32,12 @@ sustentavam.
 
 ## As cinco regiões
 
-> [!warning] Por que quase nada aqui tem nome — e o que fazer com isso
-> Você vai reparar que as organizações desta nota aparecem descritas ("um clã número um
-> absoluto", "uma cidade governada por uma raça alada") em vez de nomeadas. Isso é
-> **deliberado**: os nomes próprios da obra estão amarrados ao enredo, e este vault foi
-> escrito para poder ser lido por quem ainda vai ler a história. A consequência ruim, e
-> real, é que uma dúzia de entidades sem nome vira névoa quando você tenta desenhar um
-> cenário em cima delas.
->
-> A solução adotada aqui: cada entidade recorrente ganha um **rótulo de trabalho entre
-> colchetes**, tipo `[Clã Número Um]`. Esses rótulos são ==invenção deste vault==, não
-> tradução de nada — a obra não os usa. Servem para você ter onde pendurar as coisas e
-> poder dizer "os personagens trabalham para o `[Clã da Prisão]`" sem precisar de nome
-> próprio. Troque-os pelos seus assim que tiver nomes melhores; nada no material depende
-> deles.
->
-> **Os nomes próprios existem, e estão em [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].**
-> Aquela nota traz a ficha completa de cada organização, com o nome que a obra usa; esta aqui
-> fica nos rótulos porque descreve **culturas**, e nomear cada clã no meio de uma descrição
-> cultural só atrapalharia. Se você quiser trocar os rótulos pelos nomes reais, a
-> correspondência é esta:
->
-> | Rótulo desta nota | Nome na obra |
-> |---|---|
-> | `[Clã Número Um]` | clã Wu |
-> | `[Clã Mercador]` | clã Shang |
-> | `[Clã da Prisão]` | clã Tie |
-> | `[Clã das Rotas]` | clã Yi |
-> | `[Cidade Alada]` | Cidade Sagrada da Pena |
->
-> Nenhum desses nomes estraga o enredo: são organizações, não pessoas nem reviravoltas.
+> [!info] As organizações aparecem aqui com o nome que a obra usa
+> Nomear um clã ou uma cidade não estraga enredo nenhum: organizações não são reviravoltas.
+> Esta nota descreve **culturas**, e por isso trata cada força pela vocação dela — mas com o
+> nome próprio junto, para que você possa dizer "os personagens trabalham para o clã Tie" sem
+> precisar inventar rótulo nenhum. A ficha completa de cada uma, com composição, imortais e
+> território, está em [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
 
 ### Fronteira Sul — o mundo dos clãs
 
@@ -70,30 +46,31 @@ a cidadania. A pergunta que se faz a um desconhecido é "de que clã você é?",
 determina como ele será tratado.
 
 - **Estrutura:** pirâmide de clãs por porte, do super clã milenar ao vilarejo de uma única
-  família. No topo da contagem mortal fica um clã número um absoluto — `[Clã Número Um]` —;
-  logo abaixo, um punhado de potências especializadas, comparáveis entre si.
+  família. São **treze super clãs do caminho correto**, e no topo da contagem mortal fica um
+  clã número um absoluto — o **clã Wu**, com sede na Wu Yi Mountain, no extremo sudoeste da
+  região; logo abaixo, um punhado de potências especializadas, comparáveis entre si.
 - **Especialização como identidade:** cada grande clã tem uma vocação econômica declarada,
   e é por ela que a região os distingue:
 
-  | Rótulo de trabalho | Vocação declarada | O que ele controla na prática |
-  |---|---|---|
-  | `[Clã Número Um]` | nenhuma — é o primeiro em tudo | o topo absoluto da contagem mortal da região |
-  | `[Clã Mercador]` | comércio | as cidades-mercado e o fluxo de bens da região |
-  | `[Clã da Prisão]` | investigação e justiça; "a nêmesis do caminho demoníaco" | a caça a demoníacos e a prisão mais famosa do mundo |
-  | `[Clã das Rotas]` | transporte aéreo | as rotas de viagem e a ligação com o Mar Oriental — e, com elas, a informação rápida |
+  | Clã | Sede | Vocação declarada | O que ele controla na prática |
+  |---|---|---|---|
+  | **Wu** | Wu Yi Mountain (extremo sudoeste) | nenhuma — é o primeiro em tudo | o topo absoluto da contagem mortal da região; quando os treze se unem, é ele que lidera |
+  | **Shang** | Shang Liang Mountain | comércio | as cidades-mercado em anéis concêntricos e o fluxo de bens da região, mais a casa que vende informação a qualquer um que pague |
+  | **Tie** | Wan Cheng Mountain | investigação e justiça; "a nêmesis do caminho demoníaco" | a caça a demoníacos, os Investigadores Divinos e a Torre de Supressão de Demônios, a prisão mais famosa do mundo |
+  | **Yi** | Lin Chi Mountain (canto nordeste, o ponto mais próximo do Mar Oriental) | transporte aéreo | as rotas de viagem e a ligação com o Mar Oriental — e, com elas, a informação rápida |
 
-  São **quatro** entidades ao todo, não mais: o clã do topo e três potências
-  especializadas. Os rótulos entre colchetes são nossos, não da obra — ver o aviso no
-  início desta seção.
+  São **quatro** entidades destacadas, não mais: o clã do topo e três potências
+  especializadas. Os outros nove super clãs — Ba, Hou, Luo, Qiao, Chai, Chi, Yang, Yao e
+  Tian Lan (do clã Luo) entre eles — estão fichados em
+  [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
 
 > [!note] Para o design
 > Essa tabela é, sozinha, um mapa de tensões da Fronteira Sul: quem controla o dinheiro
-> (`[Clã Mercador]`), quem controla o movimento (`[Clã das Rotas]`), quem
-> controla a violência legítima (`[Clã da Prisão]`) e quem está acima de todos eles
-> (`[Clã Número Um]`). Uma campanha de intriga regional cabe em decidir a qual desses
-> poderes os personagens devem favores — e o `[Clã da Prisão]` é o mais útil dos quatro em
-> mesa, porque emprega os personagens contra alvos que a própria mesa pode achar
-> simpáticos.
+> (**Shang**), quem controla o movimento (**Yi**), quem controla a violência legítima
+> (**Tie**) e quem está acima de todos eles (**Wu**). Uma campanha de intriga regional cabe
+> em decidir a qual desses poderes os personagens devem favores — e o clã **Tie** é o mais
+> útil dos quatro em mesa, porque emprega os personagens contra alvos que a própria mesa pode
+> achar simpáticos.
 - **Cultura:** hierárquica e cerimoniosa. Mortais se ajoelham diante de Mestres Gu, mesmo
   de rank 1. O desafio escrito é o instrumento padrão de disputa entre iguais.
 - **A regra da guerra formal:** clãs do caminho correto não tomam território por massacre.
@@ -110,8 +87,9 @@ determina como ele será tratado.
 Uma estepe nômade, dura, com um inverno catastrófico recorrente que reorganiza a política
 inteira a cada década. A forma normal de organização é a **tribo**, fundada em linhagem de
 sangue — e a seita, que se funda em vínculo de mestre e discípulo, é a ideologia rival.
-Não há proibição escrita: o que existe é hostilidade ativa do suserano da região, forte o
-bastante para que quem funda uma seita ali o faça em segredo ou em escala pequena. Seitas
+Não há proibição escrita: o que existe é hostilidade ativa do **Longevity Heaven**, a
+gruta-céu suserana da região, forte o bastante para que quem funda uma seita ali o faça em
+segredo ou em escala pequena. Seitas
 do norte existem, e a obra nomeia duas.
 
 - **Estrutura:** tribos pequenas, médias, grandes e **super tribos**. A definição de super
@@ -120,9 +98,10 @@ do norte existem, e a obra nomeia duas.
 - **Ideologia:** linhagem de sangue contra sistema mestre-discípulo, tratadas como
   ideologias rivais explícitas. O Continente Central é citado ali como exemplo cautelar do
   que acontece quando a segunda vence.
-- **Uma linhagem suprema — `[Linhagem Fundadora]`:** existe uma família descendente de uma
-  figura fundadora histórica cuja autoridade é regional e cuja **espessura de sangue dá
-  acesso mecânico** a certas heranças. Por decreto antigo, tribos dessa linhagem derrotadas não podem ser
+- **Uma linhagem suprema — a Huang Jin:** é a família descendente de *Giant Sun Immortal
+  Venerable*, o Venerável que fundou a ordem política do norte e cuja gruta-céu, o **Longevity
+  Heaven**, é a suserana da região. A autoridade dela é regional, e a **espessura do sangue dá
+  acesso mecânico** a certas heranças deixadas por ele. Por decreto antigo, tribos dessa linhagem derrotadas não podem ser
   exterminadas, apenas subjugadas — e o sobrenome pode ser concedido a estranhos para
   repor população, e retirado depois.
 - **Organização física do acampamento:** mortais em tendas no anel externo (os primeiros a
@@ -210,10 +189,11 @@ o clã ocidental se define por **rede comercial**. Daí o que segue:
   momentos de fraqueza do adversário, como um período de luto, para forçar o desafio.
 - **Cobrança de entrada nas cidades:** taxas por pessoa, pagas em pedras primordiais. Um
   detalhe pequeno que diz muito: a cidade é um serviço, e o acesso é mercadoria.
-- **Precedente sombrio — `[Clã Extinto]`:** um dos grandes clãs da região foi aniquilado
-  por completo em algum momento da história, e seu território virou um deserto-cemitério. É
-  a região onde a memória do extermínio total está mais viva, e o nome apagado é usado como
-  advertência.
+- **Precedente sombrio — o clã Qing:** um dos maiores clãs da região foi aniquilado por
+  completo, e o território dele — hoje o *green ghost desert* — virou um deserto-cemitério
+  saturado de marcas do caminho da alma, onde feras de alma nascem sozinhas e que se tornou a
+  principal fonte de núcleos de alma do mundo. É a região onde a memória do extermínio total
+  está mais viva, e o nome do clã morto é usado como advertência.
 
 ### Mar Oriental — o mundo das forças marítimas
 
@@ -259,10 +239,13 @@ universais numa mesa:
    escala industrial, com uma lógica de precificação por "controlabilidade" que é
    desconfortavelmente explícita. O catálogo desses povos — corpo, talento inato, cultura e
    posição social de cada um — está em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
-   Existem exceções notáveis: `[Cidade Alada]`, uma cidade
-   governada por uma raça alada — os homens-pena (*feathermen*) —, com sucessão por torneio e uma cultura de liberdade
-   tão radical que prefere o suicídio coletivo à escravização; e `[Raça Aliada]`, ao menos
-   uma raça que estabeleceu com humanos uma **aliança**, e não uma relação de posse.
+   Existem exceções notáveis: a **Sacred Feather City** (Cidade Sagrada da Pena), governada
+   pelos homens-pena (*feathermen*) dentro do fragmento do céu verde, com sucessão por torneio
+   e uma cultura de liberdade tão radical que prefere o suicídio coletivo à escravização; e a
+   **Corte Imperial dos Homens-Peixe**, no Mar Oriental, que a obra classifica como
+   **superforça** — a mesma categoria das grandes potências humanas —, com corte, política
+   externa e alianças de longo prazo, e em cujos mercados humanos e homens-peixe convivem com
+   status igual.
 
 > [!warning] Uma mudança estrutural tardia
 > Em determinado ponto da história do mundo as barreiras entre as cinco regiões **caem**, e
@@ -290,7 +273,7 @@ universais numa mesa:
 - [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — as regras que valem em todas as regiões.
 - [[02 - Clãs|Clãs]] — o modelo do sul, em detalhe.
 - [[03 - Seitas e Academias|Seitas e Academias]] — o modelo do centro, em detalhe.
-- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — as organizações concretas por trás dos rótulos de trabalho desta nota, com nome próprio e ficha.
+- [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — a ficha completa de cada organização citada aqui: composição, imortais, território e história.
 - [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — os povos não-humanos que habitam essas mesmas cinco regiões.
 - [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]] — os costumes de casamento, funeral e festa em que essas diferenças regionais aparecem em detalhe.
 - [[10 - Guerra Organizada|Guerra Organizada]] — a guerra ritualizada do Norte vista por dentro: formação, mérito e logística.

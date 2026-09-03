@@ -9,7 +9,7 @@ aliases:
   - Arsenal Imortal
   - Immortal Gu by Rank
 status: consolidado
-fontes: ["11 - Apendices/05 - Catálogo de Gu - Imortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "02 - Gu/16 - Gu Imortais.md", "cap. 292", "cap. 544", "cap. 568", "cap. 678", "cap. 734", "cap. 746", "cap. 758", "cap. 1288", "cap. 1444", "cap. 1562", "cap. 2140", "cap. 2247", "cap. 2250", "cap. 2252"]
+fontes: ["11 - Apendices/05 - Catálogo de Gu - Imortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "02 - Gu/16 - Gu Imortais.md", "cap. 292", "cap. 544", "cap. 568", "cap. 678", "cap. 734", "cap. 746", "cap. 758", "cap. 1288", "cap. 1444", "cap. 1562", "cap. 2140", "cap. 2247", "cap. 2250", "cap. 2252", "cap. 461", "cap. 1436", "cap. 2077", "cap. 2298", "cap. 2328"]
 conhecimento: segredo — o arsenal imortal é material de mestre. Um jogador de mesa sabe que Gu Imortais existem e que são únicos; saber *quais* existem, o que cada um faz e quem o tem é informação estratégica que no mundo circula entre pouquíssimas pessoas. Vale aqui a mesma regra que o vault aplica ao catálogo de golpes imortais: golpe conhecido é golpe deduzido, e Gu Imortal conhecido é Gu Imortal caçado.
 ---
 
@@ -55,7 +55,8 @@ a descrição de um item que um personagem pode adquirir; é ler a descrição d
 exemplar que existe**, que neste momento está com alguém. Não há mercado, só troca e
 roubo. Não há "a alternativa mais barata": há aquele objeto, e mais nada. E destruir um
 Gu Imortal é um evento irreversível na história do mundo — com uma única tecnologia de
-exceção, que refaz um Gu destruído a partir da insígnia do refino original.
+exceção, o **Regret Pool**, que refaz um Gu destruído a partir da insígnia deixada no refino
+original, com cinquenta a sessenta por cento de sucesso.
 
 > [!note] Para o design
 > Um item lendário que existe em um só exemplar transforma a economia inteira do topo. O
@@ -82,8 +83,8 @@ E subir de rank aqui tem um preço que o mundo mortal não cobra: **a versão in
 consumida como material principal** do refino da versão superior. Não existem um Cleanse
 Soul de rank 6 e um de rank 7 ao mesmo tempo — a unicidade proíbe. Elevar é apostar o
 exemplar que se tem: se o refino falhar, ele foi destruído, e o mundo perdeu aquele Gu.
-Um Gu de espada da obra falhou exatamente assim ao tentar ir de 7 para 8, e foi preciso
-refazê-lo do rank 6 e reconstruir toda a subida.
+O **Wave Sword Gu** falhou exatamente assim ao tentar ir de 7 para 8: o exemplar foi destruído,
+e foi preciso refazê-lo do rank 6 e reconstruir toda a subida.
 
 As pouquíssimas exceções — Gu Imortais que **nascem da fusão de outros dois, com nome
 novo** — estão todas registradas nas fichas: são o Extreme Past (de Looking Back +
@@ -586,7 +587,7 @@ a mecânica mais próxima de "recurso finito de campanha" que a obra oferece.
 
 ### Caminho do sangue
 
-Um caminho historicamente suprimido pela instituição de topo do mundo, com uma
+Um caminho historicamente suprimido pelo [[19 - Tribunal Celestial|Heavenly Court]], com uma
 consequência mecânica visível: seus Gu **batem num teto de rank** e não conseguem chegar
 ao rank 9. As nove heranças verdadeiras que o fundam são o estudo de caso canônico da
 unicidade — umas foram recuperadas, uma sumiu do mundo, outra foi destruída e refeita, e
@@ -647,7 +648,8 @@ caminho ficou permanentemente sem essa peça.
 
 O "outro braço" do mesmo mecanismo das calamidades, e o caminho mais politicamente
 sensível do sistema: cultivá-lo é usurpar a função administrativa do céu, e por isso seu
-criador nunca foi aceito na instituição de topo. A regra do mundo que organiza o caminho
+criador — o **Giant Sun Immortal Venerable**, que nunca revelou a autoria em vida — nunca foi
+aceito no [[19 - Tribunal Celestial|Heavenly Court]]. A regra do mundo que organiza o caminho
 inteiro é esta: **sorte é uma substância**, que se gera, se estoca, se gasta, se rouba, se
 divide e vaza para quem estiver ligado a você.
 
@@ -697,7 +699,7 @@ divide e vaza para quem estiver ligado a você.
 **⭐ Dog Shit Luck**
 
 - **O que faz:** **eleva a sorte do dono**. É a peça-chave da herança verdadeira "sorte do
-  próprio" e foi o Gu vital de um Venerável na juventude dele. O que a obra o mostra fazendo
+  próprio" e foi o Gu vital do **Giant Sun Immortal Venerable** na juventude dele (só na velhice ele refinou o Fortune Rivalling Heaven para substituí-lo). O que a obra o mostra fazendo
   concretamente: **reduzir a potência de calamidades terrestres** quando mantido ativo antes
   e durante a tribulação; **proteger um Gu Imortal em processo de refino**, aumentando a
   chance de sucesso a ponto de o responsável proibir o dono de sair de perto no momento
@@ -1196,8 +1198,8 @@ arrancadas de tribulações. Praticamente tudo aqui é segredo de mestre.
 
 O caminho fundado pelo ancestral humano, e o mais subestimado do sistema. A obra revela no
 fim que **todos os dez Veneráveis criaram golpes deste caminho**, porque é a única via
-eficaz de interferir no próprio Caminho Celestial. Ele é um **caminho novo**, criado
-deliberadamente por uma instituição do Continente Central: por ser novo, **não tem
+eficaz de interferir no próprio Caminho Celestial. Ele é um **caminho novo**, desenvolvido
+deliberadamente pelo [[19 - Tribunal Celestial|Heavenly Court]], no Continente Central: por ser novo, **não tem
 contra-caminho estabelecido no mundo**, o que lhe dá vantagem — mas também não tem
 antecessores, então quase não existem receitas imortais prontas.
 
@@ -3586,7 +3588,7 @@ mercado, que um Gu de rank 6 de um caminho comum.
   que, mantendo a armadura ligada, **a essência imortal dele não duraria cinquenta
   respirações** — a armadura não tem duração própria, ela dura enquanto houver combustível. É
   **o custo, não o Gu, que fecha a janela**.
-- **Como se obtém:** vem do tesouro de uma instituição do Continente Central que **quase não
+- **Como se obtém:** vem do tesouro do [[19 - Tribunal Celestial|Heavenly Court]], que **quase não
   guarda Gu Imortais avulsos** — a maior parte está embutida em Casas de Gu, e uma pequena
   parcela é **emprestada a pessoas escolhidas nas dez grandes seitas**.
 - **Evolução:** — a obra não registra.
@@ -3641,8 +3643,8 @@ mercado, que um Gu de rank 6 de um caminho comum.
 
 #### Apenas nomeado neste rank
 
-**⭐ Responsive Luck** — Gu de sorte de rank 8 cuja receita saiu do **manuscrito de um Venerável
-do caminho**. A obra registra sua raridade e o fato de ser **peça-chave para construir golpes
+**⭐ Responsive Luck** — Gu de sorte de rank 8 cuja receita saiu do **manuscrito do Giant Sun
+Immortal Venerable**, criador do caminho da sorte. A obra registra sua raridade e o fato de ser **peça-chave para construir golpes
 de sorte novos**, mas **não descreve o efeito**. *Alimentação:* qi de sorte em grande volume,
 e raramente `*`.
 
@@ -3708,7 +3710,8 @@ e raramente `*`.
   barriga, um ânus nas costas que vira ponto fraco óbvio para o inimigo mirar. Por isso
   **usá-lo sozinho é arriscado e de efeito misto**; e, como ele é rank 8, as mutações que
   dispara são de **nível rank 8**, com impacto enorme no corpo.
-- **Como se obtém:** é núcleo de uma **herança verdadeira deixada por um Venerável** — sem
+- **Como se obtém:** é núcleo de uma das **heranças verdadeiras deixadas pelo Reckless Savage
+  Demon Venerable**, criador dos caminhos da força e da transformação — sem
   ele, o dono da herança tem enorme dificuldade em ativar a maioria dos seus métodos e perde
   muita força. Foi **perdido ao ficar preso dentro de um reino de sonho** junto com a pessoa
   que o carregava, e o dono, um Gu Imortal de rank 8, teve de **expor a própria situação ao
@@ -3945,7 +3948,7 @@ efeito.** Aparece uma única vez, listado entre os componentes de um golpe imort
 quase-rank 9 chamado "Partida Chocante da Onda de Sonho do Ano e do Som de Dang Hun", ao lado
 de um Gu de sabedoria, um de tempo, um de sonho, um de água e um de som; o núcleo do golpe não
 é ele, e sim um domínio selado de céu e terra. O golpe **limpa o campo de batalha de forma
-dominadora** e quebrou de uma vez uma sequência de três golpes encadeados de uma Venerável.
+dominadora** e quebrou de uma vez uma sequência de três golpes encadeados de um Venerável.
 `(ded.)` Pela lógica de nomenclatura do caminho da regra — cada Gu encarna um conceito abstrato
 e empresta esse conceito ao golpe —, a sílaba "Partida" do nome do golpe é a contribuição do
 Departure Gu: fazer algo *partir / ir embora*. `*` Numa mesa, use-o como o componente que
@@ -4116,8 +4119,9 @@ no núcleo é o que mais se aproxima disso.
   elas.
 - **Desvantagem:** consome **energia mental, não essência**; manter o disfarce por muito tempo
   **desgasta a mente**.
-- **Como se obtém:** é uma das três chaves de uma herança verdadeira deixada por um Venerável
-  numa torre do Tribunal Celeste, ao lado do **Adaptation Gu** e do **Mutation Gu**.
+- **Como se obtém:** é uma das três chaves das heranças verdadeiras que o **Reckless Savage
+  Demon Venerable** deixou na **Embroidered Tower** do Tribunal Celeste, ao lado do
+  **Adaptation Gu** e do **Mutation Gu**.
 - **Evolução:** — a obra não registra.
 - **Interações:** é a terceira peça da **tecnologia completa do roubo de Gu Imortal**, com o
   **Great Thief Gu** (que arranca) e o **Self Love** (que impede a vontade capturada de se
@@ -4462,7 +4466,7 @@ listados junto com os demais:
 - **O que faz:** **come o que lhe entregam** — corpos, e até **reinos de sonho inteiros que vêm
   atrás do cheiro** — e, quando seu estômago arrebenta, o que sai é **vida nova**: foi assim que
   surgiu a primeira leva de mortais do mundo. Também **deriva mundos novos** e produz **marcas
-  de lei que ainda não existiam**, e foi por isso que um Venerável do caminho da regra o quis.
+  de lei que ainda não existiam**, e foi por isso que o **Limitless Demon Venerable**, criador do caminho da regra, o quis.
 - **Como é:** — a obra não descreve.
 - **Alimentação:** essência imortal de rank 9, num volume que só um Venerável sustenta `*`
 - **Desvantagem:** — a obra não descreve custo de acionamento.
@@ -4575,8 +4579,12 @@ listados junto com os demais:
 
 #### Apenas nomeado neste rank
 
-**⭐ Kill** — Gu que **encarna a matança**. Nasceu **sozinho dentro do corpo de um Venerável,
-como reação do próprio céu a um massacre**, e se alimenta de massacres. A obra registra a
+**⭐ Kill** — Gu que **encarna a matança**, e o Gu-núcleo do **caminho da matança**. Refinou-se
+**sozinho dentro do corpo do Spectral Soul Demon Venerable**, que naquele momento já não estava
+lúcido e não o refinou de propósito, e se alimenta de massacres. O mundo leu aquilo como sinal
+de que um caminho novo estava para nascer — e a ironia registrada pela obra é que esse mesmo
+Venerável tinha tentado criar o caminho da matança deliberadamente na juventude, fracassado, e
+acabado criando o caminho da alma em seu lugar. A obra registra a
 origem e a dieta, mas **não descreve o efeito que ele produz quando acionado** — quem for
 usá-lo em mesa está inventando sobre silêncio da obra, não contra ela. *Evolução:* o mesmo Gu
 em rank maior, de **rank 8 a rank 9**. *Como se obtém:* ninguém o refinou; ele apareceu.
@@ -4916,7 +4924,7 @@ enviesar o dado**, e a probabilidade de vitória ficou **igual para os dois lado
 Gu **não tem nenhum poder ofensivo** e é inofensivo qualquer que seja o resultado; toda a
 periculosidade está no golpe montado sobre ele. *Alimentação:* uma parte do que é apostado,
 sempre `*`. *Desvantagem:* reutilizável, mas **depois de exposto perde eficácia contra um
-adversário que passe a se precaver**. *Como se obtém:* foi refinado por um Venerável **gastando
+adversário que passe a se precaver**. *Como se obtém:* foi refinado pelo **Thieving Heaven Demon Venerable** **gastando
 as próprias marcas de lei extramundanas do caminho do roubo** — e é justamente essa origem fora
 das regras deste mundo que faz **o acaso dele ser inviolável**. Depois, escapou de uma herança
 verdadeira que estava sendo saqueada e passou **centenas de milhares de anos vagando** até **ser
@@ -5063,7 +5071,7 @@ efeito chega a **rivalizar com um golpe imortal de deslocamento**.
 chama de rank 9 na versão original, e ao ser substituído por um Gu de rank 7 mais Gu mortais o
 golpe **cai para rank 6**.
 
-- **O que faz:** **a obra afirma que ele é o Gu-núcleo dos dois golpes de karma de um Venerável,
+- **O que faz:** **a obra afirma que ele é o Gu-núcleo dos dois golpes de karma do Genesis Lotus Immortal Venerable, criador do caminho da madeira,
   e nunca descreve o seu efeito isolado** — o que ela descreve em detalhe é o que os golpes
   fazem. Karma, no vocabulário da obra, é a **cadeia causa→efeito**, e o par Cause + Effect
   encarna literalmente os dois lados dela. O golpe principal é a **árvore divina do karma**:
@@ -5349,8 +5357,9 @@ fantasmas simultâneos onde a de rank 2 solta um.
 
 #### Suporte e infraestrutura
 
-**⭐ Open Door / Close Door** (par) — chaves do **caminho do espaço** para entrar num espaço de
-herança selado por um Venerável. O **Open Door** "permite que os predestinados entrem" no vale
+**⭐ Open Door / Close Door** (par, rank 5 os dois) — chaves do **caminho do espaço** para entrar
+no **Luo Po Valley** (Vale Luo Po), o espaço de herança que o **Thieving Heaven Demon Venerable**
+selou. O **Open Door** "permite que os predestinados entrem" no vale
 selado — sem ele, métodos normais simplesmente não funcionam. O **Close Door** faz o inverso e
 serve à discrição: **fecha a passagem depois da entrada**, para impedir que ela seja exposta e que
 outros entrem atrás. *Alimentação:* essência imortal, dividida entre os dois `*`. *Como se
@@ -5364,8 +5373,8 @@ de ser um demônio de outro mundo**, e por isso o Venerável que o selou **espal
 dois Gu por toda parte, de propósito**, deixando-as fáceis demais de obter — quem entra com a
 chave certa e **sem a condição certa** encontra, do lado de dentro, **tornados de vento de
 assimilação que só um demônio de outro mundo dissipa ao toque**. *Interações:* são o exemplo
-canônico da obra de que **acesso e permissão são coisas diferentes** — um Venerável desenhou a
-fechadura para que **muita gente conseguisse abri-la e quase ninguém pudesse atravessar**.
+canônico da obra de que **acesso e permissão são coisas diferentes** — o Thieving Heaven Demon
+Venerable desenhou a fechadura para que **muita gente conseguisse abri-la e quase ninguém pudesse atravessar**.
 
 ### Caminho do qi
 
@@ -5557,7 +5566,7 @@ deles.
 
 #### Cultivo e progressão
 
-**⭐ Practice Gu** — rank não declarado; um Venerável se refere a ele como "este Gu Imortal", então
+**⭐ Practice Gu** — rank não declarado; o **Limitless Demon Venerable** se refere a ele como "este Gu Imortal", então
 é **ao menos rank 6** `(ded.)`; a formação em que ele trabalha é de rank 9.
 
 - **O que faz:** é o Gu do **"exercitar / passar por vivências"**. A obra o apresenta primeiro no
@@ -5587,12 +5596,15 @@ deles.
   três operadores **subiram na peça de gelo flutuante e não conseguem mais descer**, salvo se a
   dedução terminar ou a formação for destruída; eles descrevem o trabalho como algo em que
   **apostam a própria vida**.
-- **Como se obtém:** foi **guardado por um Venerável durante mais de um milhão de anos**,
-  preparado desde o começo para ser acionado por **uma pessoa específica** no instante exato.
+- **Como se obtém:** foi **guardado pelo Limitless Demon Venerable durante mais de um milhão de
+  anos**, preparado desde o começo para ser acionado por **uma pessoa específica** no instante
+  exato. Quem o opera são três Gu Imortais que a vontade residual do Venerável escolheu, e que
+  precisam manter a ativação sem interrupção.
 - **Evolução:** — a obra não registra.
 - **Interações:** peculiaridade estrutural 🔒 — a obra amarra este Gu à tese de que **um Venerável
   só consegue dar o passo além do patamar de Venerável com a ajuda do próprio Guardião do Dao**.
-  Foi o passo com que um Venerável tentou **romper o próprio patamar e alcançar a vida eterna**.
+  Foi o passo com que o **Limitless Demon Venerable** tentou **romper o próprio patamar e alcançar
+  a vida eterna**.
   Note também a diferença entre as duas escalas: no mito ele é um dos três Gu que **fabricam o
   material do próprio tempo**; no presente, é operado por imortais comuns como **ferramenta de
   oficina**. A moral que a obra enuncia no mito vale como bloco de mesa: **quanto mais forte fica
@@ -6143,8 +6155,8 @@ sempre**. Imitações existem e são inferiores: uma formação de refino constr
 **algumas** de suas funções mas **só dura um dia**.
 
 **Turtle House** — **a primeira Casa de Gu Imortal da história**, criada por **sete irmãos**. A obra
-registra o fato histórico e o desdobramento: a existência dela foi **prevista por uma Venerável**,
-que construiu a própria Casa (a Star Constellation Chessboard) em resposta. Efeito, composição e
+registra o fato histórico e o desdobramento: a existência dela foi **prevista pela Star Constellation Immortal Venerable**,
+que construiu a própria Casa — o Star Constellation Chessboard — em resposta. Efeito, composição e
 destino: — a obra não informa. O valor desta entrada é **cronológico, não mecânico**.
 
 **Sun Palace** · *luz* — estrutura de uma super-potência com **vários Gu Imortais de luz de rank 8
@@ -6191,7 +6203,7 @@ importância política — e **nunca o que fazem**.
 | ⭐ Blood Battle Gu | — | sangue | a original foi destruída e uma cópia refinada do zero |
 | ⭐ Blood Sweat Gu | — | sangue | só o requisito: quem não sua jamais poderá usá-lo. Sumiu do mundo |
 | ⭐ Blood Handprint Gu | — | sangue | só a existência do exemplar imortal; o efeito descrito é o da versão mortal |
-| ⭐ Responsive Luck | 8 | sorte | receita saída do manuscrito de um Venerável; peça-chave de golpes novos |
+| ⭐ Responsive Luck | 8 | sorte | receita saída do manuscrito do Giant Sun Immortal Venerable; peça-chave de golpes novos |
 | ⭐ Main Luck | — | sorte | só o papel teórico de "sorte principal"; nunca aparece em cena |
 | ⭐ Sub Luck | — | sorte | só o papel teórico de "sorte secundária"; nunca aparece em cena |
 | ⭐ Capture Wind Gu | 7 | espaço | o primeiro Gu Imortal registrado numa transação pública |

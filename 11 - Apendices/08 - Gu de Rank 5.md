@@ -12,7 +12,7 @@ aliases:
   - Rank 5 Gu
   - Catálogo de Gu Rank 5
 status: consolidado
-fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "01 - Cultivo/14 - Ascensão Imortal.md", "cap. 105", "cap. 111", "cap. 121", "cap. 126", "cap. 156", "cap. 163", "cap. 165", "cap. 185", "cap. 192", "cap. 194", "cap. 230", "cap. 266", "cap. 275", "cap. 292", "cap. 307", "cap. 316", "cap. 320", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 428", "cap. 434", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 462", "cap. 463", "cap. 475", "cap. 507", "cap. 522", "cap. 526", "cap. 544", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 604", "cap. 609", "cap. 672", "cap. 678", "cap. 679", "cap. 734", "cap. 758", "cap. 853", "cap. 1027", "cap. 1028", "cap. 1066", "cap. 1097", "cap. 1200", "cap. 1288", "cap. 1444", "cap. 1646", "cap. 1680", "cap. 1852", "cap. 2072", "cap. 2073", "cap. 2108", "cap. 2121", "cap. 2235", "cap. 2288", "cap. 2289", "cap. 2298", "cap. 2312"]
+fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "01 - Cultivo/14 - Ascensão Imortal.md", "cap. 105", "cap. 111", "cap. 121", "cap. 126", "cap. 156", "cap. 163", "cap. 165", "cap. 185", "cap. 192", "cap. 194", "cap. 230", "cap. 266", "cap. 275", "cap. 292", "cap. 307", "cap. 316", "cap. 320", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 428", "cap. 434", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 462", "cap. 463", "cap. 475", "cap. 507", "cap. 522", "cap. 526", "cap. 544", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 604", "cap. 609", "cap. 672", "cap. 678", "cap. 679", "cap. 734", "cap. 758", "cap. 853", "cap. 1027", "cap. 1028", "cap. 1066", "cap. 1097", "cap. 1200", "cap. 1288", "cap. 1444", "cap. 1646", "cap. 1680", "cap. 1780", "cap. 1852", "cap. 2014", "cap. 2072", "cap. 2073", "cap. 2108", "cap. 2121", "cap. 2235", "cap. 2288", "cap. 2289", "cap. 2298", "cap. 2312"]
 conhecimento: comum — que existem Gu de rank 5 e que eles são raríssimos é sabido por qualquer Mestre Gu; as receitas, as rotas e o que acontece com eles numa ascensão imortal são conhecimento especializado, de grão-mestre e de cúpula de grande força
 ---
 
@@ -892,7 +892,8 @@ caminho do fogo, de qualidade bastante alta". O efeito documentado é **ambienta
 grande número, eles **criam um ambiente de caminho do fogo** — e é nesse ambiente que se criam
 muitos outros Gu de fogo.
 
-**Como é.** Vive entre os vaga-lumes ardentes de um deserto específico, e é fisicamente
+**Como é.** Vive misturado aos vaga-lumes ardentes do **deserto dos Vaga-Lumes Ardentes**
+(*burning firefly desert*), no [[05 - Deserto Ocidental|Deserto Ocidental]], e é fisicamente
 indistinguível deles a olho nu (ded.).
 
 **Dieta.** Dieta não informada; nessa faixa o intervalo vai de cerca de um mês (rank 3) a um ou
@@ -901,8 +902,9 @@ dois anos (rank 5) (ded.).
 **Desvantagem.** **Teto de rank 5** — o local jamais produziu um exemplar de rank 6 — e dependência
 de um bioma específico, o que torna a fonte um **ponto fixo, cobiçado e defendido militarmente**.
 
-**Como se obtém.** **Não é refinado: é colhido.** Nasce naturalmente num deserto de rochas
-estranhas e quase sem plantas. O local é um ponto de recurso de porte médio de um clã imortal,
+**Como se obtém.** **Não é refinado: é colhido**, e só no **deserto dos Vaga-Lumes Ardentes** —
+uma extensão de rochas estranhas e quase sem plantas, no Deserto Ocidental. O lugar é um ponto de
+recurso de porte médio do **clã Fang**, um clã imortal da região,
 cercado por uma formação imortal e guardado por um Gu Imortal de rank 6.
 
 **Evolução.** Não citada pela obra: é série de ranks natural. Ficha também no
@@ -1321,8 +1323,11 @@ caríssima (ded.).
 **Desvantagem.** **Só existe dentro de uma herança específica**: não há como refiná-lo por conta
 própria (ded.).
 
-**Como se obtém.** Pertence à herança verdadeira do fundador do caminho do sangue, **não ao
-mercado**.
+**Como se obtém.** Pertence a uma das **nove heranças verdadeiras** do
+[[03 - Blood Path|Ancestral do Mar de Sangue]] (*Blood Sea Ancestor*), o criador do caminho do
+sangue — que, sendo um Mestre Gu de rank 7, espalhou **centenas de milhares de sítios de herança**
+pelas cinco regiões, dos quais só nove são heranças verdadeiras. **Não passa pelo mercado**: quem
+o tem, tem porque abriu um desses sítios.
 
 **Evolução.** Não citada pela obra. A obra registra uma **versão imortal** do mesmo conceito, com
 ficha própria em [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — e ela não
@@ -1424,7 +1429,8 @@ parentes próximos.
 **Desvantagem.** Os retornos são **decrescentes a cada carga**. E o custo continua sendo moral e
 social, ainda que menor que o da versão anterior.
 
-**Como se obtém.** A versão de rank 4 é peça da herança do fundador do caminho do sangue e **não
+**Como se obtém.** A versão de rank 4 é peça da herança verdadeira do
+[[03 - Blood Path|Ancestral do Mar de Sangue]], o criador do caminho do sangue, e **não
 circula no mercado**. Esta, de rank 5, é **desenvolvimento posterior do
 [[02 - Os Criadores de Caminhos#Giant Sun Immortal Venerable|Giant Sun Immortal Venerable]]** — o
 mesmo Venerável de cuja linhagem o caminho do sangue saiu — e chega a quem a tem por troca
@@ -2319,7 +2325,7 @@ transportar Gu de até rank 4, até ser reforçado com dezesseis `Dried Pond Gu`
 Silver Cup Gu` de rank 4, mais `Another Perspective Gu` de rank 4, mais `Moving Form Gu` de rank 4.
 
 A história da receita é ótima. Ela é do
-**[[02 - Os Criadores de Caminhos#Thieving Heaven Demon Venerable|Thieving Heaven Demon
+**[[04 - Os Que Romperam as Leis#Thieving Heaven Demon Venerable|Thieving Heaven Demon
 Venerable]]**, o criador do caminho do roubo, e o objetivo original era outro: mandar a taça para
 dentro do ==space cave== — o depósito lendário e proibido do caminho do espaço, onde se acumulam
 Gu selvagens em número incontável — e trazer de lá esses Gu. **Nisso ele fracassou**; o Gu deu
@@ -3976,7 +3982,7 @@ caso extremo — ver abaixo.
 
 **Como se obtém.** **Fusão do `Blue Sky Gu` de rank 4 com o `Sky Well Gu`** — e é aqui que está a
 história. O Sky Well Gu é um **Gu natural**, que não se refina e só se coleta, e ele ocorre **em um
-único lugar do mundo conhecido**: uma ilha específica no Mar Oriental.
+único lugar do mundo conhecido**: a **ilha Tian Jing**, no [[06 - Mar Oriental|Mar Oriental]].
 
 A obra chama essa fusão de **"o melhor método"** para levar o Blue Sky Gu a rank 5 — o superlativo
 implica que existem outros métodos, e ela **não os nomeia**. É um espaço em branco autorizado.
@@ -3985,8 +3991,8 @@ implica que existem outros métodos, e ela **não os nomeia**. É um espaço em 
 
 **Interações.** A consequência geopolítica está registrada e é a parte mais útil desta ficha: fora da
 região de origem, o acesso ao ingrediente **depende de intermediários** — numa fronteira continental
-inteira, **apenas um clã**, dos de topo e com laços comerciais estreitos com o Mar Oriental, talvez
-tivesse um exemplar. **Quem controla a ilha controla a receita.** Ver
+inteira — a Fronteira Sul —, **apenas o clã Yi**, dos de topo e com laços comerciais estreitos com o
+Mar Oriental, talvez tivesse um exemplar. **Quem controla a ilha Tian Jing controla a receita.** Ver
 [[04 - As Cinco Regiões|As Cinco Regiões]].
 
 ### Gather Oil Gu (Gu de Reunir Óleo)

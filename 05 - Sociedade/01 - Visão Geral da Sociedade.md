@@ -188,18 +188,22 @@ em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
   não-humanas), por mais talentosos que sejam. Não é preconceito individual: é regra
   estrutural — e é a fratura que empurra essas raças para os blocos rivais. Ver
   [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
-- **Que uma instituição mundial inteira, de propósito genuinamente útil, regras
-  rigorosas e tabus sagrados, pode ter sido construída do zero para ser colhida um dia
-  por quem a fundou em segredo.** É o padrão narrativo mais poderoso desta pasta, e está
-  detalhado em [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
+- **Que a Aliança dos Zumbis — instituição mundial de propósito genuinamente útil, regras
+  rigorosas e tabus sagrados — foi construída do zero para ser colhida um dia.** Ela era
+  subordinada oculta da **Seita das Sombras**, cuja cúpula inteira era feita de fragmentos da
+  alma de *Spectral Soul Demon Venerable*. É o padrão narrativo mais poderoso desta pasta, e
+  está detalhado em [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
 - **Que grandes potências mantêm espiões plantados umas nas outras por oito, dez, mil
   anos**, com identidades completas — casamento, filhos, carreira — e ativação tardia.
   Um NPC leal há décadas pode ser um ativo dormente.
-- **Que a admissão da maior instituição do mundo usa métodos de verificação que não são
-  atualizados há eras**, o que já permitiu a um infiltrado operar mil anos lá dentro.
-- **Que existe uma máquina, no topo do mundo, que detecta sozinha todo praticante de um
-  determinado caminho de cultivo, em qualquer lugar** — e que ela é operada por alguém que
-  pratica exatamente esse caminho. Ver [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
+- **Que a admissão do Tribunal Celestial usa métodos de verificação que não são
+  atualizados há eras**, o que já permitiu à Seita das Sombras manter um infiltrado operando
+  mil anos lá dentro.
+- **Que a Placa de Julgamento dos Demônios é uma máquina viva, não uma lista**, e que ela
+  detecta sozinha, em qualquer lugar do mundo, todo cultivador do
+  [[03 - Blood Path|caminho do sangue]] que não seja rank 9 — e que quem a opera é, ele
+  próprio, um cultivador do caminho do sangue mantido em reclusão dentro do Tribunal
+  Celestial. Ver [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
 - **Que todo juramento tem uma saída**, e que os juramentos mais fortes do mundo estão
   ancorados em acidentes geográficos que podem ser destruídos. Ver
   [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]].

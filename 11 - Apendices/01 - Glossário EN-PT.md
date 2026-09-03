@@ -215,7 +215,7 @@ instruído domina.
 | great grandmaster | **grande grão-mestre** | Domínio de elite; permite desmontar e remontar movimentos livremente |
 | supreme grandmaster | **Supremo Grão-Mestre** | Topo da escala: exige **inovar** no caminho, não só compreendê-lo |
 | true meaning | *true meaning*° (verdadeiro significado) | Forma de herança que concede nível de domínio diretamente, sem processo gradual |
-| true inheritance | **verdadeira herança** | O corpo completo de conhecimento deixado por um Venerável |
+| true inheritance | **verdadeira herança** | O corpo completo de conhecimento deixado por um cultivador poderoso — em geral um Venerável, mas não só: o Blood Sea Ancestor, de rank 7, deixou nove |
 | self-harming move | *self-harming move*° (golpe autolesivo) | Categoria formal de golpe que **fere o próprio usuário e mata os Gu que o compõem** ao ser disparado; é escolha deliberada de projeto, não acidente |
 | refinement insignia | *refinement insignia*° (insígnia de refino) | A marca que o refinador deixa no Gu que produziu; é ela que permite **refazer** um Gu Imortal destruído |
 
@@ -248,8 +248,8 @@ mais próxima que o sistema oferece.
 | poison path | **caminho do veneno** | Toxinas e corrupção |
 | sword path | **caminho da espada** | Lâmina como princípio, não como arma |
 | human path | *human path*° (caminho do homem) | Caminho fundado pelo ancestral humano; opera sobre multidões e vontade coletiva |
-| heaven path | *heaven path*° (caminho do céu) | Cultivar as marcas do próprio Céu. Declarado impossível e depois praticado por rota indireta 🔒 |
-| theft path | *theft path*° (caminho do roubo) | Roubar Gu, tempo de vida, identidade; criado por um único Venerável 🔒 |
+| heaven path | *heaven path*° (caminho do céu) | Cultivar as marcas do próprio Céu. Declarado impossível e depois praticado por rota indireta — ver [[25 - Heaven Path\|Heaven Path]] 🔒 |
+| theft path | *theft path*° (caminho do roubo) | Roubar Gu, tempo de vida, identidade; criado pelo **Thieving Heaven Demon Venerable** 🔒 |
 | information path | *information path*° | Comunicação, ocultação e detecção de informação |
 | formation path | *formation path*° | A engenharia de formações Gu |
 | qi path | *qi path*° | Manipulação do qi bruto de céu e terra |
@@ -293,7 +293,7 @@ jogador e informação de mestre, esta tabela inteira fica do lado do mestre.
 | Heavenly Dao blockade | *Heavenly Dao blockade*° (bloqueio do Caminho Celestial) | Os três mecanismos com que o Céu impede o surgimento de novos Veneráveis 🔒 |
 | Dao Lord | *Dao Lord*° (Senhor do Dao) | Venerável que reivindicou todas as marcas naturais do próprio caminho num território 🔒 |
 | Dao Guardian | *Dao Guardian*° (Guardião do Dao) | A figura que acompanha o crescimento de todo Venerável — podendo ser amigo **ou** inimigo |
-| Primordial Domain | *Primordial Domain*° (Domínio Primordial) | Território ligado ao primeiro Venerável da história; entrar nele é uma das condições para reivindicar o Dao de um caminho 🔒 |
+| Primordial Domain | *Primordial Domain*° (Domínio Primordial) | Domínio recluso ligado ao **Primordial Origin Immortal Venerable**, o primeiro Venerável da história; fica na nona camada da Caverna do Demônio Enlouquecido, nas Planícies do Norte. Entrar nele eleva um caminho a Supremo Grão-Mestre, e é uma das condições para reivindicar o Dao de um caminho 🔒 |
 
 ---
 
@@ -371,7 +371,7 @@ vale.
 | super tribe / super force | *super force*° (super força) | Organização que possui Imortais **e** território imortal próprio; as únicas que atravessam eras |
 | Heavenly Court | Corte Celestial → **o vault escreve "Tribunal Celestial"** | A instituição de topo do mundo, dedicada a reparar o Gu do Destino; construída a duras penas por três Veneráveis — Primordial Origin, Star Constellation e Genesis Lotus 🔒 |
 | Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta operada pelas **almas fragmentadas do Spectral Soul Demon Venerable**, o criador do caminho da alma, que se dividiu em muitos fragmentos e passou dezenas de milhares de anos acumulando influência através dela; usa a Aliança dos Zumbis como fachada 🔒 |
-| Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
+| Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais, com filiais nas cinco regiões — e, na verdade, a **fachada pública da Shadow Sect**: era por meio dela que as almas fragmentadas do Spectral Soul acumulavam influência sem se expor 🔒 |
 | Lang Ya Sect | *Lang Ya Sect*° | A seita do refino, governada por um espírito da terra |
 | Imperial Court | *Imperial Court*° (Corte Imperial) | O trono decenal das Planícies do Norte e a terra-refúgio associada |
 | Demon Judgment Board | *Demon Judgment Board*° | O ranking público mundial dos cultivadores mais procurados |
@@ -505,7 +505,7 @@ a obra reconhece apenas duas; tudo abaixo disso é clã, tribo ou seita comum.
 | Longevity Heaven | *Longevity Heaven*° (Céu da Longevidade) | A abertura imortal do **Giant Sun Immortal Venerable**, deixada como base após a morte dele e hoje suserana das Planícies do Norte; a outra *ultimate force* 🔒 |
 | Lang Ya Sect | *Lang Ya Sect*° (Seita de Lang Ya) | A seita do refino, governada por um espírito da terra |
 | Shadow Sect | *Shadow Sect*° (Seita da Sombra) | Rede oculta operada pelas **almas fragmentadas do Spectral Soul Demon Venerable**, o criador do caminho da alma, que se dividiu em muitos fragmentos e passou dezenas de milhares de anos acumulando influência através dela; usa a Aliança dos Zumbis como fachada 🔒 |
-| Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais; na verdade uma fachada 🔒 |
+| Zombie Alliance | *Zombie Alliance*° (Aliança dos Zumbis) | Aliança mundial de zumbis imortais, com filiais nas cinco regiões — e, na verdade, a **fachada pública da Shadow Sect**: era por meio dela que as almas fragmentadas do Spectral Soul acumulavam influência sem se expor 🔒 |
 | Demon Expelling Sect | Seita da Expulsão de Demônios | Seita do Continente Central citada fora do bloco das dez |
 | Imperial Court | *Imperial Court*° (Corte Imperial) | O trono decenal das Planícies do Norte e a terra-refúgio associada |
 | Demon Judgment Board | *Demon Judgment Board*° | O ranking público mundial dos cultivadores mais procurados |

@@ -12,7 +12,7 @@ aliases:
   - Air bubble fish
   - Peixe-bolha
 status: consolidado
-fontes: ["cap. 466", "cap. 476", "cap. 491", "cap. 551", "cap. 668", "cap. 809", "cap. 1291", "cap. 1590", "cap. 2109", "cap. 2257"]
+fontes: ["cap. 466", "cap. 476", "cap. 491", "cap. 551", "cap. 668", "cap. 809", "cap. 878", "cap. 879", "cap. 882", "cap. 1065", "cap. 1067", "cap. 1291", "cap. 1590", "cap. 2077", "cap. 2109", "cap. 2257"]
 conhecimento: especializado
 ---
 
@@ -176,10 +176,17 @@ Duas maneiras documentadas de o sistema falhar, e as duas são boas para jogo:
 custos e riscos que isso implica, e é justamente por isso que a assimetria existe: o imortal
 tem Gu mortais aos milhares e Gu imortais a conta-gotas. Ver [[16 - Gu Imortais|Gu Imortais]].
 
-A única exceção registrada é uma **estrutura de altíssimo nível** — uma construção que
-abriga vários imortais do caminho do refino e, com eles instalados dentro, produz Gu imortais
-continuamente. É uma fábrica, não uma fazenda: depende de gente, não de terreno, e está fora
-do alcance de qualquer coisa que uma campanha normal vá possuir.
+A única exceção registrada é o ==Caldeirão de Refino== (*Refinement Cauldron*), a Casa de Gu
+Imortal de rank 8 que o **Long Hair Ancestor** — supremo grão-mestre do caminho do refino, ele
+próprio um homem-peludo — construiu e que hoje está fundida dentro da terra abençoada de Lang
+Ya, nas Planícies do Norte. Ela é uma **fábrica, não uma fazenda**: quanto mais Gu Imortais do
+caminho do refino estiverem instalados dentro dela, mais forte ela fica e mais depressa
+trabalha. Duas capacidades registradas: com ela em funcionamento, a chance de refinar um Gu
+Imortal novo sobe a **sessenta por cento** — um número que nenhum refinador solitário alcança —
+e ela **refina à força os Gu Imortais de quem invade o território**, transferindo-os ao dono
+da casa; foi assim que aquela terra abençoada rebateu sete ondas de invasão numa geração. Ela
+depende de gente, não de terreno, e está fora do alcance de qualquer coisa que uma campanha
+normal vá possuir.
 
 ## As regras do mundo, enumeradas
 

@@ -159,9 +159,10 @@ como uma **tecnologia em disputa**, com gerações sucessivas.
 | **Gu do papel preto e branco** | contrato de nova geração, imune ao anterior |
 | **Gu de distorcer preto e branco** | ataca o anterior |
 
-O voto venenoso, aliás, nem é antigo: nasceu com um líder tribal de uma região desértica e
-só se espalhou pelo mundo décadas depois; a geração seguinte foi inventada mais uma década
-adiante. A obra comenta o quadro com uma frase que vale como regra do mundo: **"esse é
+O voto venenoso, aliás, nem é antigo: nasceu com um líder tribal do **Deserto Ocidental** — a
+obra não lhe dá nome `—` — e só se espalhou pelo mundo décadas depois; o Gu do papel preto e
+branco, que o substituiu por ser imune ao Gu de comer as próprias palavras, foi inventado mais
+dez anos adiante. A obra comenta o quadro com uma frase que vale como regra do mundo: **"esse é
 apenas um pequeno trecho da luta entre os acordos e a quebra deles, que existe desde o
 início dos tempos e vai continuar."**
 

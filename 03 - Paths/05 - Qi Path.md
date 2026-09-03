@@ -462,8 +462,9 @@ Esta seção existe porque o caminho do qi é, no vault inteiro, o melhor estudo
 
 ## Praticantes notáveis (sem enredo)
 
-- **Primordial Origin Immortal Venerable** — o criador do caminho e primeiro líder da maior
-  instituição do mundo. Tem o entendimento mais profundo de qi que já existiu, e sua herança
+- **Primordial Origin Immortal Venerable** — o criador do caminho e fundador do
+  [[19 - Tribunal Celestial|Tribunal Celestial]], a instituição que governa o mundo imortal por
+  trás das cortinas. Tem o entendimento mais profundo de qi que já existiu, e sua herança
   verdadeira é a mais valiosa do mundo neste caminho. Ver
   [[19 - Tornar-se Venerável|Tornar-se Venerável]].
 - **O especialista dos noventa e nove monstros** — um imortal de rank 8 da Antiguidade Passada

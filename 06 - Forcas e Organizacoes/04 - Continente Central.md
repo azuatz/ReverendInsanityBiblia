@@ -8,7 +8,7 @@ aliases:
   - As dez grandes seitas ancestrais
   - Ten Great Ancient Sects
 status: verificado-no-texto
-fontes: ["cap. 192", "cap. 211", "cap. 334-341", "cap. 365-366", "cap. 375", "cap. 406-407", "cap. 419", "cap. 461", "cap. 489", "cap. 490", "cap. 552", "cap. 566-567", "cap. 622", "cap. 644", "cap. 654", "cap. 656", "cap. 658", "cap. 665", "cap. 669", "cap. 676", "cap. 679", "cap. 696-710", "cap. 712", "cap. 728-729", "cap. 733", "cap. 744-745", "cap. 751", "cap. 753", "cap. 756", "cap. 759", "cap. 776-777", "cap. 789", "cap. 791", "cap. 803", "cap. 811", "cap. 821", "cap. 827-832", "cap. 838-843", "cap. 848-849", "cap. 853-858", "cap. 886", "cap. 897", "cap. 900", "cap. 909-911", "cap. 915", "cap. 923", "cap. 925-927", "cap. 944", "cap. 949", "cap. 954-955", "cap. 957", "cap. 962-963", "cap. 984", "cap. 997", "cap. 1000", "cap. 1016", "cap. 1030", "cap. 1052", "cap. 1058", "cap. 1060-1061", "cap. 1069-1070", "cap. 1076", "cap. 1085", "cap. 1093", "cap. 1191-1192", "cap. 1222", "cap. 1226-1234", "cap. 1239-1252", "cap. 1388", "cap. 1409", "cap. 1438", "cap. 1442", "cap. 1522", "cap. 1530", "cap. 1540", "cap. 1553", "cap. 1628-1629", "cap. 1642", "cap. 1651", "cap. 1676", "cap. 1698-1709", "cap. 1717", "cap. 1727", "cap. 1744", "cap. 1748", "cap. 1753", "cap. 1756", "cap. 1760", "cap. 1771", "cap. 1821", "cap. 1833", "cap. 1840-1842", "cap. 1850", "cap. 1889", "cap. 1920", "cap. 1931", "cap. 1936", "cap. 1941", "cap. 1971", "cap. 1981", "cap. 1986", "cap. 1992", "cap. 2010", "cap. 2039-2044", "cap. 2063-2064", "cap. 2084", "cap. 2089", "cap. 2092-2094", "cap. 2246", "cap. 2288", "cap. 2324-2333"]
+fontes: ["cap. 192", "cap. 211", "cap. 334-341", "cap. 365-366", "cap. 375", "cap. 406-407", "cap. 419", "cap. 461", "cap. 489", "cap. 490", "cap. 552", "cap. 566", "cap. 566-567", "cap. 622", "cap. 644", "cap. 654", "cap. 656", "cap. 658", "cap. 665", "cap. 669", "cap. 676", "cap. 679", "cap. 696-710", "cap. 712", "cap. 728-729", "cap. 733", "cap. 744-745", "cap. 745", "cap. 751", "cap. 753", "cap. 756", "cap. 759", "cap. 776-777", "cap. 789", "cap. 791", "cap. 803", "cap. 811", "cap. 821", "cap. 827-832", "cap. 838-843", "cap. 839", "cap. 848-849", "cap. 853-858", "cap. 886", "cap. 897", "cap. 900", "cap. 909-911", "cap. 915", "cap. 923", "cap. 925-927", "cap. 944", "cap. 949", "cap. 954-955", "cap. 957", "cap. 962-963", "cap. 984", "cap. 997", "cap. 1000", "cap. 1016", "cap. 1030", "cap. 1052", "cap. 1058", "cap. 1060-1061", "cap. 1069-1070", "cap. 1076", "cap. 1085", "cap. 1093", "cap. 1191-1192", "cap. 1222", "cap. 1226-1234", "cap. 1239-1252", "cap. 1388", "cap. 1409", "cap. 1438", "cap. 1442", "cap. 1522", "cap. 1530", "cap. 1540", "cap. 1553", "cap. 1628-1629", "cap. 1642", "cap. 1651", "cap. 1676", "cap. 1698-1709", "cap. 1717", "cap. 1727", "cap. 1744", "cap. 1748", "cap. 1753", "cap. 1756", "cap. 1760", "cap. 1771", "cap. 1821", "cap. 1833", "cap. 1840-1842", "cap. 1850", "cap. 1889", "cap. 1920", "cap. 1931", "cap. 1936", "cap. 1941", "cap. 1971", "cap. 1981", "cap. 1986", "cap. 1992", "cap. 2010", "cap. 2039-2044", "cap. 2063-2064", "cap. 2084", "cap. 2089", "cap. 2092-2094", "cap. 2246", "cap. 2288", "cap. 2324-2333"]
 conhecimento: comum
 ---
 
@@ -321,8 +321,10 @@ pico da herança secreta.
 Duas outras coisas ficam dentro de casa. A primeira: a seita **recruta transmigrados de outro
 mundo** e chegou a colocar uma deles na posição mais alta que oferece — e mesmo assim a
 ostraciza, porque "as pessoas confiam mais em quem vem da mesma origem". A segunda é história
-antiga e constrangedora: quando um dos Veneráveis recrutou concubinas, as dez seitas do centro
-enviaram Mestras Gu bonitas, e a Casa da Afinidade Espiritual **enviou mais que qualquer outra**.
+antiga e constrangedora: quando **Giant Sun Immortal Venerable** — o criador secreto do caminho da
+sorte, que depois de virar Venerável passou a manter dezenas de milhões de concubinas — abriu
+recrutamento, as dez seitas do centro enviaram Mestras Gu bonitas, e a Casa da Afinidade Espiritual
+**enviou mais que qualquer outra**, tendo várias delas caído nas graças dele.
 
 **A instituição das fadas.** A marca registrada da casa. Cada geração escolhe uma **fada**
 (*fairy*), numerada — a obra acompanha a trigésima sexta, uma grão-mestra de refino, e a
@@ -551,14 +553,17 @@ exterminar as seitas menores e os imortais solitários** do continente — e tev
 advertência. A proposta diz tudo sobre a doutrina da casa. Rival da Doca das Miríades de Dragões,
 que a sonda por duelos.
 
-**Por dentro.** `segredo` — o projeto estratégico da casa é a tomada de uma **gruta-céu que flutuava
-no céu do Continente Central**, e do domínio de sonho de um Venerável guardado dentro dela. A
+**Por dentro.** `segredo` — o projeto estratégico da casa é a tomada da **Gruta-céu do Céu Estrelado**
+(*Starry Sky grotto-heaven*), que flutuava no céu do Continente Central, e do **reino de sonho de
+Star Constellation Immortal Venerable** guardado dentro dela — um reino de sonho da criadora do
+caminho da sabedoria, ligado à profecia do "Venerável do Grande Sonho" e, por isso, tratado como
+oportunidade de rank 9. A
 operação foi feita em silêncio, mas exigiu **retirar imortais de todos os postos ao mesmo tempo** —
 e as outras nove notaram o vazio. É um retrato exato de como um segredo grande vaza numa política de
 observação mútua: ninguém viu o que ela fez, todos viram o que ela deixou de fazer.
 
-E há um segundo segredo, pessoal: **Shi Lei obteve às escondidas várias heranças de um Venerável
-demoníaco**, e é com elas que cultiva o caminho da transformação. O maior campeão do combate correto
+E há um segundo segredo, pessoal: **Shi Lei obteve às escondidas várias heranças de Reckless Savage
+Demon Venerable**, o criador do caminho da transformação, e é com elas que o cultiva. O maior campeão do combate correto
 do centro luta com um legado demoníaco.
 
 **Assinatura.** A Casa de Gu Imortal **Acampamento do Elo da Lâmina** (*Edge Link Camp*), que é
@@ -697,8 +702,8 @@ interferiram na premonição de um demoníaco poderoso para tirar-lhe o aviso pr
 **Por dentro.** A casa **paga o cultivo dos seus melhores discípulos mortais**: há registro de um jovem
 alçado de rank 4 intermediário a rank 4 de pico às custas da instituição, só para render mais numa disputa
 de recursos. E, entre suas humilhações históricas, há uma que define a era dos Veneráveis: **uma primeira
-anciã suprema da casa, na véspera de ingressar no Tribunal Celestial, foi tomada como concubina por um
-Venerável, com uma única declaração dele**.
+anciã suprema da casa, na véspera de ingressar no Tribunal Celestial, foi tomada como concubina por
+Giant Sun Immortal Venerable, com uma única declaração dele**.
 
 **Assinatura.** O **Corte Incomparável da Lua Crescente** (*Peerless Crescent Moon Slash*), golpe imortal
 que **exige duas imortais operando o mesmo Gu de rank 7 simultaneamente**. É poderoso o bastante para ser
@@ -914,8 +919,8 @@ instituição.
 
 **A maior cidade mortal do mundo**, e a única que é, ela própria, uma **Casa de Gu — mortal**,
 construída com um número imenso de Gu mortais. Foi a **primeira Cidade Imperial**, erguida por
-decisão do mesmo Venerável que criou o sistema de seitas, e sua história remonta à ascensão da
-humanidade. **Já mudou de lugar mais de uma dezena de vezes**, sempre acompanhando a veia humana.
+decisão de **Primordial Origin Immortal Venerable**, o mesmo que criou o sistema de seitas, e sua
+história remonta à ascensão da humanidade. **Já mudou de lugar mais de uma dezena de vezes**, sempre acompanhando a veia humana.
 
 O que ela faz não é comercial, é demográfico: a cidade tem **dispositivos de [[24 - Human Path|caminho humano]] embutidos que atraem e criam gerações de gente talentosa**. Com a acumulação dos séculos,
 o "qi humano" ali é abundante, e a obra a chama de **o maior berço de Gu Imortais do mundo**. Mestres
@@ -942,8 +947,10 @@ concêntricas de Casas de Gu Imortal das seitas.
 > **reúne a força de todos que estão dentro dela, imortal, Mestre Gu ou mortal comum, e a usa
 > em conjunto**, e chega a deslocar o ponto de convergência da veia humana do continente.
 > Dentro dela existem **mundos de pintura**: cenas da história da cidade anterior transformadas
-> em lugares habitáveis, que absorvem moradores e os devolvem depois de um tempo. É guardada
-> pela vontade de um Venerável, e atacá-la equivale a enfurecer o Tribunal Celestial e
+> em lugares habitáveis, que absorvem moradores e os devolvem depois de um tempo — os mundos de
+> pintura vêm da Casa de Gu Imortal que se funde à cidade, o **Palácio do Feijão Divino**, do
+> Deserto Ocidental. É guardada pela vontade residual de **Genesis Lotus Immortal Venerable**, que
+> criou aquele palácio, e atacá-la equivale a enfurecer o Tribunal Celestial e
 > mobilizar o continente inteiro.
 
 ### A Montanha Tian Ti
@@ -977,7 +984,10 @@ Duas regras a governam, e as duas rendem mesa:
 
 *Reincarnation Battlefield* · território de treino permanente
 
-O **golpe de campo de batalha número um do mundo**, montado por um Venerável. Dentro dele, um imortal
+O **golpe de campo de batalha número um do mundo**, montado por **Paradise Earth Immortal
+Venerable**, o Venerável que a obra registra como o mais habilidoso de todos em golpes de campo de
+batalha — e montado com uma intenção declarada: ele não queria ver os imortais do Continente Central
+derramando sangue uns dos outros, então lhes deu um lugar onde brigar sem morrer. Dentro dele, um imortal
 pode "morrer" repetidamente sem perecer de verdade — só acumula ferimentos depois de mortes demais. As
 dez grandes seitas **ocupam a área há muitos anos** e disputam posição ali continuamente, e o resultado
 é que elas **formaram incontáveis imortais de elite usando o lugar**. É a academia militar do mundo

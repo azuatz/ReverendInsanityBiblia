@@ -168,10 +168,12 @@ que nenhum outro caminho faz:
 Aqui está a fraqueza que ninguém antecipa ao escolher a escola.
 
 Acumular marcas de estrela e de sabedoria em quantidade **inutiliza os métodos de cura de todos
-os outros caminhos** sobre o próprio corpo. A obra registra o caso extremo: uma cultivadora de
-sabedoria e estrelas de rank 9 ferida **não podia ser curada por nenhum método**, porque as
-marcas dela conflitavam com todos — a única exceção era o caminho humano, e não havia ninguém
-com domínio suficiente nele para tratá-la.
+os outros caminhos** sobre o próprio corpo. A obra registra o caso extremo: a própria
+**Star Constellation Immortal Venerable**, ferida, **não podia ser curada por nenhum método**,
+porque suas marcas conflitavam com todos — a única exceção era o
+[[24 - Human Path|caminho humano]], e nem no [[19 - Tribunal Celestial|Tribunal Celestial]] havia
+alguém com domínio suficiente nele para tratá-la. Ela era, nas palavras da obra, muito menos
+hábil em cura que o Giant Sun Immortal Venerable, que cultivava [[03 - Blood Path|sangue]].
 
 Ou seja: ==este é o caminho que produz o melhor apoio do mundo e o pior paciente do mundo.== Um
 grupo com um cultivador de estrelas ganha ordens de grandeza em investigação e perde a
@@ -180,8 +182,9 @@ capacidade de socorrê-lo.
 > [!note] A tese filosófica do caminho
 > O caminho das estrelas é o caminho da **observação transformada em capital**. Ele não age
 > sobre o mundo: ele o mede, o mapeia, o registra e o converte em estoque — estrelas refinadas,
-> pensamentos guardados, marcações permanentes, fragmentos que viram terreno. A criadora do
-> caminho é a mesma que criou o [[16 - Wisdom Path|caminho da sabedoria]], e a divisão de trabalho
+> pensamentos guardados, marcações permanentes, fragmentos que viram terreno. A
+> **Star Constellation Immortal Venerable** criou este caminho **e** o
+> [[16 - Wisdom Path|caminho da sabedoria]], e a divisão de trabalho
 > entre os dois diz tudo: um pensa, o outro **fabrica com o que foi pensado**. Por isso a
 > arquitetura clássica de quem os cultiva junto é sabedoria como caminho principal e estrelas
 > como especialidade — e não o contrário.
@@ -207,7 +210,7 @@ capacidade de socorrê-lo.
 | **Rebolo de nuvem estelar / Seis corpos ilusórios estelares / Fuga do fogo estelar / Corda-serpente estelar** | O quarteto de combate montado sobre os três Gu Imortais básicos, revezando-os como núcleo. Cobrem moagem de área, engano por múltiplos corpos, fuga e captura — o repertório completo de um imortal de rank 6 com um investimento mínimo. |
 | **Nuvem de pensamentos-estrela** | Ofensiva mental em massa: nuvens de pensamentos que atacam a mente **de qualquer direção**, rápidos demais para se esquivar. Mestres Gu de vontade fraca ficam idiotas na hora; os de vontade firme gastam a atenção destruindo pensamentos e param de lutar. Custo: **anos de tempo de vida** por batalha. |
 | **Conduzir incontáveis estrelas** | Golpe de rank 8+ que toma as estrelas do céu como alvo e como ferramenta ao mesmo tempo. |
-| **Formação de cálculo estelar** | Estrutura de rank 9: um campo tecido de marcas de estrela, protegido e reparado pelos fragmentos estelares, que sustenta ao mesmo tempo cálculo (dedução) e combate. Custou a um Venerável **todo o estoque de recursos estelares da maior instituição do mundo**. |
+| **Formação de cálculo estelar** | Estrutura de rank 9: um campo tecido de marcas de estrela, protegido e reparado pelos fragmentos estelares, que sustenta ao mesmo tempo cálculo (dedução) e combate. Custou à **Star Constellation Immortal Venerable** **todo o estoque de recursos estelares do [[19 - Tribunal Celestial\|Tribunal Celestial]]**. |
 
 ## Gu representativos
 
@@ -314,10 +317,13 @@ uma inversão elegante da curva usual, em que golpes de área são mais fracos p
 
 ## Praticantes notáveis (sem enredo)
 
-- A **criadora do [[16 - Wisdom Path|caminho da sabedoria]]** está intimamente associada a este
-  caminho — a casa de Gu que leva seu nome é ao mesmo tempo o instrumento supremo da sabedoria
-  e a estrutura de rastreamento estelar mais robusta do mundo. É o melhor exemplo de como os
-  dois caminhos se confundem no topo.
+- **Star Constellation Immortal Venerable** — criadora deste caminho **e** do
+  [[16 - Wisdom Path|caminho da sabedoria]], discípula do Primordial Origin Immortal Venerable, e
+  a segunda a reinar no [[19 - Tribunal Celestial|Tribunal Celestial]]. A Casa de Gu Imortal que
+  leva o nome dela — o **Tabuleiro Constelar** (*Star Constellation Chessboard*) — é ao mesmo
+  tempo o instrumento supremo da sabedoria e a estrutura de rastreamento estelar mais robusta do
+  mundo. É o melhor exemplo de como os dois caminhos se confundem no topo. Foi ela também quem
+  construiu a Torre que Observa o Céu e a formação de cálculo estelar de rank 9.
 - Um poeta imortal desenvolveu a série de amplificação estelar de rank 1 a 5, que é o produto
   mais difundido do caminho no mercado comum.
 

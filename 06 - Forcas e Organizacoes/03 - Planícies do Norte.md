@@ -6,7 +6,7 @@ aliases:
   - Northern Plains
   - Forças das Planícies do Norte
 status: verificado-no-texto
-fontes: ["cap. 335", "cap. 356-357", "cap. 409", "cap. 412", "cap. 426-427", "cap. 440", "cap. 447-451", "cap. 461", "cap. 470", "cap. 472-474", "cap. 478-481", "cap. 485", "cap. 488-490", "cap. 493", "cap. 495-497", "cap. 500-504", "cap. 506-511", "cap. 513-520", "cap. 522-529", "cap. 531-539", "cap. 541", "cap. 543-556", "cap. 558-567", "cap. 570-572", "cap. 584", "cap. 588", "cap. 592-594", "cap. 602-606", "cap. 610", "cap. 621", "cap. 633-638", "cap. 640", "cap. 646", "cap. 649", "cap. 651", "cap. 653-654", "cap. 656-666", "cap. 673", "cap. 676-677", "cap. 679", "cap. 682-683", "cap. 686-691", "cap. 696", "cap. 698", "cap. 705", "cap. 708", "cap. 711", "cap. 713", "cap. 731", "cap. 736-744", "cap. 747-749", "cap. 751-757", "cap. 761-767", "cap. 772", "cap. 776", "cap. 781-782", "cap. 784", "cap. 787", "cap. 794-801", "cap. 806", "cap. 808", "cap. 811-814", "cap. 820-821", "cap. 836", "cap. 844", "cap. 878-879", "cap. 886", "cap. 893", "cap. 919-921", "cap. 924", "cap. 929", "cap. 931", "cap. 940", "cap. 943", "cap. 945-946", "cap. 948", "cap. 951-954", "cap. 979-980", "cap. 992", "cap. 1020", "cap. 1022", "cap. 1037", "cap. 1050-1053", "cap. 1057-1058", "cap. 1060", "cap. 1063-1064", "cap. 1082-1085", "cap. 1089", "cap. 1091", "cap. 1093", "cap. 1097", "cap. 1100-1110", "cap. 1116-1118", "cap. 1140", "cap. 1144", "cap. 1159", "cap. 1163-1167", "cap. 1173-1177", "cap. 1179-1182", "cap. 1184", "cap. 1187-1194", "cap. 1196-1200", "cap. 1202", "cap. 1206-1211", "cap. 1235", "cap. 1238", "cap. 1251", "cap. 1286", "cap. 1292", "cap. 1314", "cap. 1408", "cap. 1444", "cap. 1450", "cap. 1546", "cap. 1571", "cap. 1718", "cap. 1763-1764", "cap. 1791", "cap. 1828", "cap. 1862", "cap. 2087", "cap. 2114", "cap. 2262", "cap. 2296"]
+fontes: ["cap. 335", "cap. 356-357", "cap. 409", "cap. 412", "cap. 426-427", "cap. 440", "cap. 447-451", "cap. 461", "cap. 470", "cap. 472-474", "cap. 478-481", "cap. 485", "cap. 488-490", "cap. 493", "cap. 495-497", "cap. 500-504", "cap. 506-511", "cap. 513-520", "cap. 522-529", "cap. 531-539", "cap. 541", "cap. 543-556", "cap. 552", "cap. 558-567", "cap. 570-572", "cap. 584", "cap. 588", "cap. 592-594", "cap. 602-606", "cap. 610", "cap. 621", "cap. 633-638", "cap. 640", "cap. 646", "cap. 649", "cap. 651", "cap. 653-654", "cap. 656-666", "cap. 673", "cap. 676-677", "cap. 679", "cap. 682-683", "cap. 686-691", "cap. 696", "cap. 698", "cap. 705", "cap. 708", "cap. 711", "cap. 713", "cap. 731", "cap. 736-744", "cap. 747-749", "cap. 751-757", "cap. 761-767", "cap. 772", "cap. 776", "cap. 781-782", "cap. 784", "cap. 787", "cap. 794-801", "cap. 806", "cap. 808", "cap. 811-814", "cap. 820-821", "cap. 836", "cap. 844", "cap. 878-879", "cap. 886", "cap. 893", "cap. 919-921", "cap. 924", "cap. 929", "cap. 931", "cap. 940", "cap. 943", "cap. 945-946", "cap. 948", "cap. 951-954", "cap. 979-980", "cap. 992", "cap. 1020", "cap. 1022", "cap. 1037", "cap. 1050-1053", "cap. 1057-1058", "cap. 1060", "cap. 1063-1064", "cap. 1082-1085", "cap. 1089", "cap. 1091", "cap. 1093", "cap. 1097", "cap. 1100-1110", "cap. 1116-1118", "cap. 1140", "cap. 1144", "cap. 1159", "cap. 1163-1167", "cap. 1173-1177", "cap. 1176", "cap. 1179-1182", "cap. 1184", "cap. 1187-1194", "cap. 1196-1200", "cap. 1202", "cap. 1206-1211", "cap. 1235", "cap. 1238", "cap. 1251", "cap. 1286", "cap. 1292", "cap. 1314", "cap. 1408", "cap. 1444", "cap. 1450", "cap. 1546", "cap. 1571", "cap. 1718", "cap. 1763-1764", "cap. 1791", "cap. 1828", "cap. 1862", "cap. 2047", "cap. 2087", "cap. 2114", "cap. 2262", "cap. 2296"]
 conhecimento: comum
 ---
 
@@ -30,16 +30,19 @@ defensável, um rebanho e o direito de estar em algum lugar quando o céu fechar
 o vale muda de vale. Tribo que perde a guerra muda de dono.
 
 Sobre esse chão nômade existe uma estrutura política única entre as cinco regiões: **um único
-sangue manda em quase tudo**. Um dos Veneráveis do passado espalhou descendentes pela região, e
-essas linhagens formam coletivamente a **família Huang Jin**. A obra é direta: no Norte, o
+sangue manda em quase tudo**. **Giant Sun Immortal Venerable** (Venerável Imortal Sol Gigante), o
+Venerável que criou em segredo o [[23 - Luck Path|caminho da sorte]], espalhou descendentes pela
+região — tomou dezenas de milhões de concubinas depois de chegar ao rank 9 e semeou a própria
+linhagem de propósito —, e essas linhagens formam coletivamente a **família Huang Jin**. A obra é direta: no Norte, o
 caminho correto e a família Huang Jin são praticamente a mesma coisa — os Gu Imortais do lado
 correto "são todos parte da família Huang Jin, têm a mesma origem". A família controla quase a
 região inteira, e faz isso do mesmo jeito que as dez seitas antigas controlam o Continente
 Central: por ocupação total do topo.
 
 Acima das tribos há um suserano, e ele é literalmente **a casa de um morto**: o
-[[13 - Blessed Lands e Grotto-Heavens|gruta-céu]] de rank 9 do Venerável fundador, chamado
-**Céu da Longevidade**, habitado hoje pelos descendentes de sangue mais próximo dele. O Céu da
+[[13 - Blessed Lands e Grotto-Heavens|gruta-céu]] de rank 9 que **era a abertura imortal de Giant
+Sun** e que ele deixou como base ao morrer, o **Céu da Longevidade** (*Longevity Heaven*), habitado
+hoje pelos descendentes de sangue mais próximo dele. O Céu da
 Longevidade governa por decreto à distância, com uma insígnia que circula de tribo em tribo —
 e, como se verá na ficha, essa autoridade tem um limite honesto que todo mundo conhece.
 
@@ -171,7 +174,7 @@ nevasca ela não existe: está desmontada em pequenas torres espalhadas pela ter
 a cada oito li. Quando a nevasca bate lá fora, as torres afundam e o edifício se ergue.
 
 Por dentro funciona como uma masmorra por andares. Cada andar tem rodadas, e cada rodada é
-avaliada em grau baixo, médio ou alto — porque o Venerável que a instalou queria não só deixar
+avaliada em grau baixo, médio ou alto — porque Giant Sun, que a instalou, queria não só deixar
 herança aos descendentes, mas **premiar os melhores entre eles**. As recompensas de rodada
 incluem **Gu Imortais**. Lá dentro é possível refinar Gu instantaneamente, e há uma sala do
 tesouro com paredes de cristal em que nada sai sem que algo de valor equivalente entre — cada
@@ -234,7 +237,7 @@ vezes paga uma tribo vassala inteira, transferida de dono como cláusula do acor
 
 A obra explica o porquê do desenho, e é a engrenagem mais elegante da região. Por causa do
 ambiente duro, o Norte nunca desenvolveu cultura de comércio: cada força pesquisava sozinha e
-guardava tudo. O Venerável fundador percebeu isso e montou esta arena gigantesca justamente para
+guardava tudo. Giant Sun percebeu isso e montou esta arena gigantesca justamente para
 **forçar a transferência de tecnologia** — via reparação de guerra, o conhecimento circula
 entre rivais que jamais o venderiam. Foi assim que a família dele conseguiu acumular saber
 através das eras sem nunca decair, e foi assim que o Norte virou a região mais forte em combate
@@ -242,7 +245,7 @@ depois do centro.
 
 Há um piso humanitário, e ele é interesseiro: prisioneiros valiosos são capturados vivos e
 resgatados, não mortos — matar uma "semente de imortal" de super tribo fura o piso das regras do
-torneio. E, por decreto do Venerável, **linhagem Huang Jin não pode ser exterminada**: uma tribo
+torneio. E, por decreto de Giant Sun, **linhagem Huang Jin não pode ser exterminada**: uma tribo
 derrotada pode ser esmagada até virar tribo pequena, mas não apagada.
 
 > [!note] Para o design
@@ -254,7 +257,7 @@ derrotada pode ser esmagada até virar tribo pequena, mas não apagada.
 
 > [!warning] `segredo` — o que só o mestre deve saber
 > O torneio não é tradição: é um mecanismo deliberado, com dois objetivos. Preservar a linhagem
-> do Venerável fundador através das eras — enfraquecendo todas as outras tribos a cada dez anos,
+> de Giant Sun através das eras — enfraquecendo todas as outras tribos a cada dez anos,
 > engordando as dele e filtrando as sementes de imortal. E drenar a riqueza da região: as
 > pequenas torres espalhadas pela terra abençoada absorvem Gu selvagens o ano inteiro e, na
 > nevasca, afundam no chão e ressoam com a tempestade lá fora, sugando tesouros e materiais do
@@ -282,13 +285,13 @@ desgastem primeiro.
 
 ### Céu da Longevidade
 
-*Longevity Heaven* · gruta-céu de rank 9, suserano regional · a abertura imortal do Venerável fundador
+*Longevity Heaven* · gruta-céu de rank 9, suserano regional · a própria abertura imortal de Giant Sun Immortal Venerable, deixada por ele como base ao morrer
 
 | | |
 |---|---|
 | **Manda quem** | Um colegiado: as **Oito Extremidades** (oito Gu Imortais ativos, um deles chamado **Extremidade do Céu**) e as **Quatro Desolações** (imortais adormecidos). Ranks individuais: `—`, mas o lugar tem rank 8 entre os seus |
 | **Caminho de casa** | **[[23 - Luck Path\|Caminho da sorte]]**, por herança direta do fundador |
-| **Por que esse caminho** | O Venerável Sol Gigante foi o grande mestre de caminho da sorte da história, e deixou aqui a terceira e mais profunda de suas três heranças verdadeiras: a da **sorte do céu e da terra**, criada nos últimos anos da vida dele |
+| **Por que esse caminho** | Giant Sun Immortal Venerable (Venerável Imortal Sol Gigante) **criou** o caminho da sorte e foi o maior mestre dele da história, e deixou aqui a terceira e mais profunda de suas três heranças verdadeiras: a da **sorte do céu e da terra**, criada nos últimos anos da vida dele |
 | **Porte** | Doze Gu Imortais nomeados na estrutura (oito ativos, quatro dormindo) `(ded.)`. É um gruta-céu de rank 9 |
 | **Alinhamento** | Caminho correto, e a autoridade dele |
 | **Território** | O interior da própria gruta-céu, cuja geografia se chama **Quatro Desolações e Oito Extremidades**. No centro fica o **Altar da Calamidade e da Sorte**, uma Casa de Gu Imortal de rank 8 |
@@ -1028,7 +1031,7 @@ filial. `—`
 |---|---|
 | **Manda quem** | **Chu Du**, "Imortal da Dominação", **rank 7** |
 | **Caminho de casa** | **[[04 - Strength Path\|Caminho da força]]** |
-| **Por que esse caminho** | Porque a seita nasceu como efeito colateral: Chu Du precisava do **verdadeiro significado do caminho da força** deixado por um Venerável e, para elevar seu próprio attainment, passou décadas nutrindo Mestres Gu mortais até torná-los imortais de caminho da força. Acumulou tantos que "os tratou como discípulos e casualmente criou uma seita, chamando-a de Chu Sect" |
+| **Por que esse caminho** | Porque a seita nasceu como efeito colateral: Chu Du precisava do **verdadeiro significado do caminho da força** que Reckless Savage Demon Venerable deixou impresso na planície de gelo do extremo norte e, para elevar seu próprio attainment, passou décadas nutrindo Mestres Gu mortais até torná-los imortais de caminho da força. Acumulou tantos que "os tratou como discípulos e casualmente criou uma seita, chamando-a de Chu Sect" |
 | **Porte** | Vários Gu Imortais de caminho da força, todos com **poucos Gu Imortais** e por isso de força de combate baixa |
 | **Alinhamento** | **Caminho demoníaco** |
 | **Território** | No presente do cenário, a **terra abençoada pessoal de Chu Du** `(ded.)` — a seita não tem sede coletiva própria. `[segredo]` Numa fase posterior da obra ele recebe de terceiros a **gruta-céu Hei Fan** (ver a ficha da tribo Hei) e passa a operar de lá; se a sua campanha se passa antes disso, a Chu Sect é uma seita **sem endereço** |
@@ -1145,10 +1148,13 @@ com séculos de vantagem local, só chegou a quarenta e dois passos.
 patronos internos que pagam em conhecimento e não em bens.
 
 > [!warning] `segredo` — o que só o mestre deve saber
-> A Caverna do Demônio Enlouquecido **não é uma área feroz natural**. Foi criada de propósito por
-> um dos Veneráveis nos últimos anos de vida dele, para perseguir o segredo da vida eterna. Ele
-> refinou ali um Gu lendário e se escondeu dentro para experimentar com ele; o Gu está na camada
-> mais profunda, cercado por uma super formação. Os sons demoníacos são efeito da formação, e a
+> A Caverna do Demônio Enlouquecido **não é uma área feroz natural**. Foi escavada de propósito por
+> **Limitless Demon Venerable**, o criador do caminho da regra, nos últimos anos de vida dele, para
+> perseguir o segredo da vida eterna. Ele refinou ali o **Derivation Gu** (Gu da Derivação), o Gu
+> lendário de rank 9 que as Lendas de Ren Zu apontam como a criatura de cujo estômago nasceram os
+> primeiros mortais, e se escondeu dentro para experimentar com ele; o Gu está na camada
+> mais profunda, cercado por uma super formação. Ele desapareceu misteriosamente, e **se conseguiu
+> ou não a obra deixa como incógnita**. Os sons demoníacos são efeito da formação, e a
 > loucura é **efeito colateral**: o objetivo real é alterar as marcas do dao dos seres vivos para
 > **criar marcas novas**, que a formação depois transporta para o fundo. Ver
 > [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]].
@@ -1165,16 +1171,18 @@ Não é uma organização, mas é um lugar com dono e com valor, e a designer pr
 
 **O que é.** O extremo norte das Planícies do Norte. Era pastagem, até que uma batalha entre
 grandes experts destruiu o terreno inteiro e o transformou em vazio absoluto. Para reparar o
-buraco, um dos Veneráveis se transformou numa **fênix de gelo imemorial** e soprou gelo profundo
-até congelar tudo. Ver [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]].
+buraco, **Reckless Savage Demon Venerable** — o criador dos caminhos da força e da transformação —
+se transformou numa **fênix de gelo imemorial** e soprou gelo profundo até congelar tudo. Ver [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]].
 
-**Por que importa.** Porque a transformação em fênix era um golpe de
-[[06 - Transformation Path|caminho da transformação]], e o Venerável, ao criar aquele chão,
+**Por que importa.** Porque a transformação em fênix era um golpe do
+[[06 - Transformation Path|caminho da transformação]], e Reckless Savage, ao criar aquele chão,
 **imprimiu ali o verdadeiro significado do caminho da força e do caminho da transformação**. A
 consequência é mecânica e concreta: **um Mestre Gu de força ou de transformação que ascenda a Gu
 Imortal ali provoca ressonância e recebe a infusão do verdadeiro significado** — o equivalente a
 receber a orientação pessoal de um Venerável. O rumor circula entre poucos imortais e é atribuído
-ao próprio Chu Du, que passou a tribulação dele ali trezentos anos atrás. Como poucos ascendem, e
+ao próprio Chu Du, que passou a tribulação dele ali trezentos anos atrás. A infusão vale **uma vez
+por pessoa**, e a quantidade recebida cresce com a violência da provação — o que dá um incentivo
+perverso a piorar de propósito a própria ascensão. Como poucos ascendem, e
 menos ainda por esses dois caminhos, quase ninguém conseguiu confirmar.
 
 **Quem mora lá.** Bem no subsolo, **super tribos criadas por rockmen e por snowmen** — raças
@@ -1281,8 +1289,8 @@ Cavalos da família ampliou o rebanho de guerra; e **fez acordo secreto com Gu I
 que cobiçavam o Edifício do Verdadeiro Yang, coisa que só o jovem senhor da tribo sabia.
 
 Perdeu. Pagou reparação, caiu de tribo grande a tribo pequena, e o vale imenso ficou vazio. Mas
-**não foi exterminada** — porque linhagem Huang Jin não pode ser exterminada, por decreto do
-Venerável. O novo líder diz, chorando: "nossa tribo Ma pode ter perdido, mas não fomos
+**não foi exterminada** — porque linhagem Huang Jin não pode ser exterminada, por decreto de
+Giant Sun. O novo líder diz, chorando: "nossa tribo Ma pode ter perdido, mas não fomos
 exterminados. Agora nem a tribo Hei pode nos erradicar. Voltaremos ao vale e subiremos de novo a
 partir desta perda."
 
@@ -1297,7 +1305,7 @@ partir desta perda."
 
 | Força | O que é | Manda quem | Caminho de casa | Onde fica | Por que importa numa mesa |
 |---|---|---|---|---|---|
-| **Céu da Longevidade** | Gruta-céu de rank 9, suserano regional | Oito Extremidades + Quatro Desolações | Sorte | Fora do mundo, dentro da abertura do Venerável | O Édito da Longevidade; o Altar que converte calamidade em sorte; autoridade sem coerção |
+| **Céu da Longevidade** | Gruta-céu de rank 9, suserano regional | Oito Extremidades + Quatro Desolações | Sorte | Fora do mundo, dentro da abertura imortal de Giant Sun | O Édito da Longevidade; o Altar que converte calamidade em sorte; autoridade sem coerção |
 | **Corte Imperial** | Terra abençoada + torneio decenal | Ninguém: é o prêmio | — | Região central do Norte | O motor da região: nevasca, torneio, méritos de batalha, reparação de guerra, herança de rank 8 |
 | **Tribo Yao** | Super tribo Huang Jin | Yao Huang, rank 8 | Refino / cura | `—` | O maior refinador do caminho correto; morrendo de velhice; padrinho dos forasteiros |
 | **Tribo Hei** | Super tribo Huang Jin | Colégio de 4+ anciãos supremos; Hei Cheng, rank 7 | Tempo | Terra Abençoada da Águia de Ferro, Yu Tian | Mais imortais que a média, porque um rank 8 desacelerou o tempo dentro deles; o estandarte negro; e uma gruta-céu perdida que só quatro pessoas da casa sabem achar |
@@ -1318,7 +1326,7 @@ partir desta perda."
 | **Chu Sect** | Seita pública | Chu Du, rank 7 | Força | Sem sede coletiva `(ded.)` | A rachadura ideológica do Norte com nome e chefe; aceita qualquer um, sem linhagem; pode ser dissolvida pelo próprio fundador |
 | **Lang Ya** | Seita secreta de homens peludos | O espírito da terra | Refino / receitas | Perto do Loose Tail Ridge | Rica em receitas de Gu Imortal, pobre em músculo, sob cerco — o melhor patrão do Norte |
 | **Caverna do Demônio Enlouquecido** | Área feroz habitada | Três Excêntricos, reclusos há séculos | Marcas do dao | Uma das dez áreas ferozes | Masmorra sem espólio vendável, que enlouquece até rank 8; patronos que pagam em conhecimento |
-| **Planície de Gelo** | Território, não organização | Ninguém | — | Extremo norte | Ascender ali como força ou transformação infunde o verdadeiro significado de um Venerável |
+| **Planície de Gelo** | Território, não organização | Ninguém | — | Extremo norte | Ascender ali como força ou transformação infunde o verdadeiro significado deixado por Reckless Savage |
 | **Cidade dos Inkmen** | Cidade de raça variante | Rei Mo Tan Sang | Qi | `—` | Aliado culto e ressentido, oprimido pelas tribos Huang Jin desde sempre |
 | **Rockmen e snowmen** | Super tribos não humanas | `—` | `—` | Fundo do subsolo da Planície de Gelo | A sociedade tribal fora do sistema Huang Jin |
 | **Tribos médias e pequenas** | Dezenas nomeadas | Líderes rank 3 a 5 | Variados | Espalhadas | O elenco de baixo nível; a tribo Ma é o arco de campanha completo em miniatura |

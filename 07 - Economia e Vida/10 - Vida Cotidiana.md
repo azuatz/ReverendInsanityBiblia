@@ -7,7 +7,7 @@ aliases:
   - Daily Life
   - Mortal life
 status: consolidado
-fontes: ["cap. 1", "cap. 3", "cap. 9", "cap. 11-12", "cap. 17-18", "cap. 31", "cap. 35", "cap. 39", "cap. 42-47", "cap. 50", "cap. 55", "cap. 61", "cap. 63-64", "cap. 67-69", "cap. 74", "cap. 78", "cap. 81", "cap. 87-92", "cap. 100", "cap. 103", "cap. 109-110", "cap. 119-120", "cap. 124", "cap. 129", "cap. 200", "cap. 229-231", "cap. 234-249", "cap. 259-263", "cap. 271", "cap. 302", "cap. 375", "cap. 423-424", "cap. 427", "cap. 437", "cap. 439-445", "cap. 459", "cap. 466", "cap. 489", "cap. 501", "cap. 524", "cap. 816", "cap. 879", "cap. 1155", "cap. 1318", "cap. 1635", "cap. 1853", "cap. 2012-2015", "cap. 2245"]
+fontes: ["cap. 1", "cap. 3", "cap. 9", "cap. 11-12", "cap. 17-18", "cap. 31", "cap. 35", "cap. 39", "cap. 42-47", "cap. 50", "cap. 55", "cap. 61", "cap. 63-64", "cap. 67-69", "cap. 74", "cap. 78", "cap. 81", "cap. 87-92", "cap. 100", "cap. 103", "cap. 109-110", "cap. 119-120", "cap. 124", "cap. 129", "cap. 200", "cap. 229-231", "cap. 234-249", "cap. 259-263", "cap. 271", "cap. 302", "cap. 375", "cap. 423-424", "cap. 427", "cap. 437", "cap. 439", "cap. 439-445", "cap. 459", "cap. 466", "cap. 489", "cap. 501", "cap. 524", "cap. 816", "cap. 879", "cap. 1155", "cap. 1318", "cap. 1635", "cap. 1853", "cap. 2012-2015", "cap. 2245"]
 conhecimento: comum
 ---
 
@@ -43,9 +43,10 @@ cem mortais — e, na região onde a hierarquia é mais cerimoniosa, mortais lit
 passagem na rua até para um cultivador de rank 1, identificável pelo uniforme e pela placa
 de rank no cinto.
 
-Vale notar a única variação regional relevante: numa das regiões, homens livres só se
-ajoelham diante do céu, dos ancestrais e dos anciãos da família — jamais diante de outro
-cultivador. Onde a etiqueta muda, muda o que o mestre pode fazer com uma cena de rua.
+Vale notar a única variação regional relevante: **nas Planícies do Norte**, os guerreiros
+livres só se ajoelham diante do céu, dos ancestrais e dos anciãos da própria família — e
+normalmente nem para o chefe da tribo ou para os anciãos tribais. É o oposto exato da Fronteira
+Sul, onde o mortal se ajoelha ao encontrar qualquer Mestre Gu. Onde a etiqueta muda, muda o que o mestre pode fazer com uma cena de rua.
 
 > [!note] Para o design
 > A régua de valor de vida é a ferramenta de tom mais eficiente do cenário. Você não precisa
@@ -329,9 +330,14 @@ A medicina deste mundo não é herbalismo: é uma aplicação de Gu, e por isso 
 espetacularmente desigual.
 
 - **Curandeiros de elite são celebridades regionais**, com apelidos, excentricidades
-  conhecidas e listas informais dos "melhores da região". As excentricidades são parte da
-  marca: há registro de um que só atende os ricos e bonitos, um que anda disfarçado de
-  mendigo, e um que cobra pela cura o preço de uma vida a ser tirada pelo próprio paciente.
+  conhecidas e listas fechadas dos "melhores da região" — na Fronteira Sul, por exemplo, o
+  título coletivo é o dos **Quatro Grandes Médicos**, e eles atendem tanto o caminho correto
+  quanto o demoníaco. As excentricidades são parte da marca: há registro de um que só atende os
+  ricos e bonitos, o **Médico Andarilho Jiu Zhi**, que anda disfarçado de velho mendigo, e o
+  **Médico Fantasma Assassino**, cujos métodos de cura só funcionam porque um Gu dele, guardado
+  na porta da vida e da morte, converte em força vital a energia de cada morte que ele causa —
+  quem é curado por ele foi curado com a vida de outra pessoa. Ver
+  [[02 - Fronteira Sul|Fronteira Sul]].
 - **Preços proibitivos.** Tratar um dano permanente com um especialista de rank alto custa
   da ordem de **cem mil pedras primordiais** — uma fortuna absolutamente fora do alcance de
   qualquer mortal, e mais de oito mil vezes o que uma família mortal consome num mês.

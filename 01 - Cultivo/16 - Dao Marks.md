@@ -7,7 +7,7 @@ aliases:
   - Marcas Dao
   - Marcas do caminho
 status: consolidado
-fontes: ["cap. 276", "cap. 292", "cap. 297", "cap. 307", "cap. 319-320", "cap. 685", "cap. 703", "cap. 715-718", "cap. 758-759", "cap. 769", "cap. 778", "cap. 816", "cap. 819-821", "cap. 836", "cap. 849-852", "cap. 866", "cap. 935-936", "cap. 942", "cap. 1033", "cap. 1064", "cap. 1119", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1167", "cap. 1204-1205", "cap. 1258-1259", "cap. 1302-1303", "cap. 1310", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1703", "cap. 2042", "cap. 2071", "cap. 2085", "cap. 2237", "cap. 2247"]
+fontes: ["cap. 276", "cap. 292", "cap. 297", "cap. 307", "cap. 319-320", "cap. 685", "cap. 703", "cap. 715-718", "cap. 758-759", "cap. 769", "cap. 778", "cap. 816", "cap. 819-821", "cap. 836", "cap. 849-852", "cap. 866", "cap. 935-936", "cap. 942", "cap. 1033", "cap. 1064", "cap. 1119", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1167", "cap. 1204-1205", "cap. 1258-1259", "cap. 1302-1303", "cap. 1310", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1703", "cap. 2042", "cap. 2071", "cap. 2085", "cap. 2237", "cap. 2247", "cap. 2049", "cap. 2083", "cap. 2108-2109"]
 conhecimento: especializado
 ---
 
@@ -140,7 +140,7 @@ números são o que são.
 **As vias alternativas todas têm alguma limitação:**
 
 - **Consumir** carne, vegetação ou materiais ligados a um caminho. É seguro, acumulável e sob medida — mas cada uso rende cerca de um milésimo do que rende uma calamidade.
-- **Recursos raros de alto nível.** Uma única xícara de um chá feito de materiais imortais, bebida com a técnica correta, rende cerca de **mil dao marks** — mais que uma tribulação celestial e uma calamidade terrena somadas, sem risco de morte. Quando um recurso desses existe, arriscar a vida numa tribulação vira decisão econômica, não destino.
+- **Recursos raros de alto nível.** Uma única xícara do ==chá da mente serena extrema (extreme serene mind tea)==, preparado com materiais imortais de rank 8 do caminho da terra, rende cerca de **mil dao marks de caminho da terra** — mais que uma tribulação celestial e uma calamidade terrena somadas, sem risco de morte. Duas condições: **beber em goles largos, não sorvendo**, e não ter marcas conflitantes no corpo (quem tem colhe só algumas centenas). Chás e vinhos cerimoniais comuns do mundo imortal são versões incompletas dessa mesma receita do caminho da comida; completadas, viram fonte de marcas. Quando um recurso desses existe, arriscar a vida numa tribulação vira decisão econômica, não destino.
 - **Nascer com eles.** Constituições extremas conferem dao marks natos que superam a maioria dos imortais rank 6 em condição equivalente — é o que explica como um mortal excepcional consegue suprimir poderes imortais. Certas variantes humanas nascem com marcas nativas do elemento a que pertencem.
 - **Anexar a abertura imortal de outro.** Esta é a rota de elite, e rende **milhões de uma vez** — contra os 86.750 da maior tribulação. Está descrita em [[13 - Tribulações e Calamidades|Tribulações e Calamidades]], porque seu efeito principal é pular provações inteiras.
 - **Converter de um caminho para outro.** Existem técnicas que transformam dao marks de uma linha em outra — o caminho da transformação funciona como conversor universal, o que lhe dá a menor barreira de entrada de todos.
@@ -270,7 +270,7 @@ Consequência política direta e muito jogável: **a aliança que constrói uma 
 - **Quantidade de dao marks é também um limite de entrada.** A capacidade de entrar num mundo pequeno é **inversa** às marcas do visitante: um rank 8 não consegue sequer entrar numa terra abençoada comum, porque ela estouraria. Consequência política direta: os mais poderosos do mundo dependem de clones e intermediários para invadir qualquer lugar pequeno.
 - **Alianças gravadas como dao marks.** Um pacto entre imortais pode ser fixado como marca no corpo. Enquanto a aliança não for prejudicial ao portador, a autolimpeza não a remove; se ele trair, a marca de punição dispara **instantaneamente** — não há tempo de removê-la depois.
 - **Materiais também se medem em dao marks.** A densidade de marcas de um material determina seu rank, e materiais de densidade altíssima emitem luz visível a olho nu — um identificador de raridade que dispensa perícia. Material de um caminho só serve para Gu daquele caminho, por mais alto que seja o rank.
-- **Existe um medidor.** Um Gu específico inspeciona a quantidade de dao marks de um caminho determinado num corpo ou numa alma. Serve tanto de métrica quanto de verificação: é assim que se confirma que uma armadilha foi totalmente removida.
+- **Existe um medidor.** O ==Perceivable Dao Immortal Gu (Gu Imortal do Dao Perceptível)==, de rank 6 e do caminho da informação, inspeciona a quantidade de dao marks de um caminho determinado num corpo ou numa alma. Serve tanto de métrica quanto de verificação: é assim que se confirma que uma armadilha foi totalmente removida.
 - **Ao se autodetonar, os dao marks de um imortal voltam para a própria abertura dele** — não para o matador. É por isso que imortais mortos não são fáceis de saquear: o vencedor só acessa aquele acúmulo se conseguir se tornar dono do mundo pequeno que restou.
 
 > [!warning] Uma exclusividade que separa os dez maiores dos demais

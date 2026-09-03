@@ -264,8 +264,8 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 > - **Quatro notas de eventos** — [[21 - Calamidades e Tribulações como Cenário|Calamidades e Tribulações como Cenário]],
 >   [[25 - A Guerra do Destino|A Guerra do Destino]], [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] e
 >   [[27 - A Morte do Sol e o Céu Espectral|A Morte do Sol e o Céu Espectral]]: o cenário é jogável e liberado, mas o bloco final
->   revela a causa verdadeira, e em três delas essa causa é a mesma — algo que vem de fora da
->   fronteira do mundo.
+>   revela a causa verdadeira, e em três delas essa causa é a mesma — o **Caos** que existe
+>   fora da fronteira do mundo, de onde vem o desastre caótico.
 > - [[18 - Modificar o Próprio Corpo|Modificar o Próprio Corpo]] — o arsenal de reforço é comum; a troca de espécie, a
 >   possessão e os corpos fabricados não são.
 > - [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — quase tudo, exceto a existência dos dois céus.

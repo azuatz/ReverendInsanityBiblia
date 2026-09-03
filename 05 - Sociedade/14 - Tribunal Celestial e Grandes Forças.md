@@ -7,7 +7,7 @@ aliases:
   - Super forces
   - Ultimate force
 status: consolidado
-fontes: ["cap. 700", "cap. 705", "cap. 741-742", "cap. 749", "cap. 764", "cap. 802", "cap. 848", "cap. 871", "cap. 875", "cap. 892-899", "cap. 908-911", "cap. 918-921", "cap. 927", "cap. 943-956", "cap. 966", "cap. 984-985", "cap. 1005", "cap. 1008-1011", "cap. 1069-1070", "cap. 1077", "cap. 1109-1110", "cap. 1127", "cap. 1163-1170", "cap. 1218", "cap. 1226-1242", "cap. 1261-1269", "cap. 1301", "cap. 1378-1385", "cap. 1984", "cap. 1990-1996", "cap. 2060", "cap. 2073", "cap. 2099-2100", "cap. 2115", "cap. 2136-2139", "cap. 2228", "cap. 2245-2258"]
+fontes: ["cap. 700", "cap. 705", "cap. 741", "cap. 749", "cap. 764", "cap. 802", "cap. 848", "cap. 871", "cap. 875", "cap. 892", "cap. 908", "cap. 918", "cap. 927", "cap. 943", "cap. 966", "cap. 984", "cap. 1005", "cap. 1008", "cap. 1069", "cap. 1076", "cap. 1077", "cap. 1109", "cap. 1127", "cap. 1163", "cap. 1218", "cap. 1226", "cap. 1261", "cap. 1301", "cap. 1378", "cap. 1984", "cap. 1990", "cap. 2060", "cap. 2073", "cap. 2099", "cap. 2115", "cap. 2136", "cap. 2228", "cap. 2245"]
 conhecimento: especializado
 ---
 
@@ -206,14 +206,16 @@ Os detalhes econômicos dessas manobras estão em [[15 - Economia Imortal|Econom
 
 ## Instrumentos formais de poder
 
-Os mecanismos institucionais que a autoridade máxima do mundo emprega, e que uma mesa pode
+Os mecanismos institucionais que o Tribunal Celestial emprega, e que uma mesa pode
 usar como estrutura de campanha:
 
 - **Uma lista oficial de procurados** — a ==Placa de Julgamento dos Demônios== —, atualizada
   em ciclos de décadas, catalogando os cultivadores considerados nocivos. Certos caminhos de
   cultivo são presença permanente nela, e por um motivo mecânico: a Placa não é um pergaminho,
-  é uma máquina viva que **detecta sozinha** os praticantes de um caminho específico em
-  qualquer lugar do mundo. Como ela funciona, o que custa entrar na lista e quem a opera está
+  é uma máquina viva que **detecta sozinha**, em qualquer lugar do mundo, todo cultivador do
+  [[03 - Blood Path|caminho do sangue]] que não seja rank 9 — e quem a opera é, ele próprio, um
+  cultivador do caminho do sangue mantido em reclusão dentro do Tribunal, o que faz da
+  instituição que persegue o caminho proibido a maior especialista nele. Como ela funciona, o que custa entrar na lista e quem a opera está
   em [[07 - Lei, Crime e Castigo|Lei, Crime e Castigo]].
 - **A proibição formal do extermínio sistemático** de seitas menores e cultivadores
   solitários pelas grandes seitas — uma proposta nesse sentido foi rejeitada com ameaça de
@@ -252,8 +254,8 @@ até aos membros das próprias instituições envolvidas.
   subsidiárias, muitos membros permanecem alinhados à seita de origem, e descendentes da
   mesma casa viram aliados políticos naturais lá dentro. É um condomínio de facções
   herdadas, não um bloco.
-- **A segurança da admissão está desatualizada há eras**, o que já permitiu a um infiltrado
-  operar mil anos dentro da instituição sem ser detectado.
+- **A segurança da admissão está desatualizada há eras**, o que já permitiu à **Seita das
+  Sombras** manter um infiltrado operando mil anos dentro da instituição sem ser detectado.
 - **A moeda é uma arma.** O Tribunal é a **fonte única** das pedras de essência imortal, a
   moeda universal da camada imortal, e restringe deliberadamente a distribuição desde uma
   guerra antiga, como instrumento de controle político sobre o mundo inteiro. Esse
@@ -266,27 +268,34 @@ até aos membros das próprias instituições envolvidas.
 
 ### A organização que era uma pessoa
 
-O segredo mais pesado do cenário, e o mais reaproveitável como estrutura de campanha.
+O segredo mais pesado do cenário, e o mais reaproveitável como estrutura de campanha. Ele tem
+nomes próprios, e vale dizê-los: a organização de fachada é a **Aliança dos Zumbis** (*Zombie
+Alliance*), a seita que a controlava é a **Seita das Sombras** (*Shadow Sect*), e a pessoa por
+trás das duas é *Spectral Soul Demon Venerable*, o criador do caminho da alma.
 
-Existiu uma organização mundial de propósito declarado nobre e verificável — uma
-cooperativa de pesquisa, com sede numa região e filiais nas outras quatro. Ela tinha tudo o
-que uma instituição legítima tem: regras internas rígidas, uma economia de pontos de
-contribuição, missões precificadas, postos lucrativos leiloados entre os membros, testes de
-admissão infalsificáveis e um tabu sagrado que a comunidade inteira defendia com fervor.
-Tudo isso era **real**.
+A Aliança dos Zumbis é, publicamente, uma cooperativa científica de zumbis imortais existente
+desde a Antiguidade Medieval, com sede no Mar Oriental — numa terra abençoada pública montada
+com pedaços de terras abençoadas doadas por quem virou zumbi — e filiais nas outras quatro
+regiões. Ela tinha tudo o que uma instituição legítima tem: regras internas rígidas, economia
+de pontos de contribuição, missões precificadas, postos de coleta tão lucrativos que o direito
+de explorá-los era leiloado entre os membros, testes de admissão **infalsificáveis** (a porta
+da filial do norte só abre para um zumbi imortal que tenha ascendido naquela região) e um tabu
+sagrado que a comunidade defendia com fervor — o cemitério de zumbis imortais, protegido por
+uma formação de treze Gu Imortais montada só para isso. Tudo isso era **real**, e o propósito
+declarado — pesquisar em conjunto a reversão da zumbificação — também.
 
-E tudo isso servia para acumular um tipo específico de recurso vivo em um único lugar. A
-organização inteira era, em segredo, subordinada de uma seita das sombras — no mesmo modelo
-em que as dez grandes seitas são subordinadas do Tribunal, e sem que nem os altos escalões
-soubessem. No momento devido, todos os seus membros mais valiosos foram ativados
-remotamente e consumidos como matéria-prima de um único artefato descartável, cujo preparo
-consumira cem mil anos e as fundações somadas das duas organizações. Uma instituição
-mundial construída ao longo de eras era o combustível de um item de uso único.
+E tudo isso servia para acumular zumbis imortais em um só lugar. A Aliança inteira, todas as
+filiais, era subordinada oculta da Seita das Sombras — no mesmo modelo em que as dez grandes
+seitas são subordinadas do Tribunal, e sem que nem os altos escalões soubessem. No momento
+devido, seus membros mais valiosos foram ativados remotamente e consumidos como matéria-prima
+do **sovereign immortal fetus Gu**, um Gu Imortal de rank 9 de uso único cujo preparo consumira
+cem mil anos e as fundações somadas das duas organizações. Uma instituição mundial construída
+ao longo de eras era o combustível de um item descartável.
 
-E a seita das sombras que a controlava era, ela própria, uma fachada: toda a sua cúpula
-histórica era composta de fragmentos da alma de **uma única pessoa**. A lealdade anormal de
-seus quadros — a disposição ao sacrifício total que impressionava seus inimigos — tinha
-explicação mecânica: as almas haviam sido fabricadas.
+E a Seita das Sombras era, ela própria, uma fachada: toda a sua cúpula histórica era composta
+de **fragmentos da alma de Spectral Soul**. A lealdade anormal de seus quadros — a disposição
+ao sacrifício total que impressionava seus inimigos — tinha explicação mecânica: as almas
+haviam sido fabricadas.
 
 > [!note] Para o design
 > Dois modelos de organização saem prontos daqui, e eles são complementares:

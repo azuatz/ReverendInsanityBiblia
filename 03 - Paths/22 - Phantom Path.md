@@ -70,7 +70,7 @@ poucas escolas do mundo cuja natureza **muda qualitativamente** ao cruzar a linh
 
 **A origem é biológica.** Existem **feras-fantasma** com a habilidade natural de virar fantasmas e
 evitar ataques, e *a inspiração para o caminho fantasma dos Mestres Gu foi obtida das feras-fantasma
-por um Gu Imortal* nomeado.
+pelo Gu Imortal **Xu Wu Xie***.
 
 Repare no que isso significa: **o criador foi um Gu Imortal comum, não um Venerável.** É um fato raro
 entre os caminhos, e (ded.) é a razão estrutural pela qual o caminho fantasma nunca teve por trás
@@ -169,9 +169,10 @@ fantasma** para guardar essência imortal e Gu.
 - O portador tem **fundação baixa e quase nenhuma marca do Dao**: *sem seus Gu, ela era **fraca como
   uma mortal***.
 
-E há um uso avançado documentado: uma Venerável **deduziu e modificou** um método do caminho
-fantasma para fazer aberturas fantasmas **conterem marcas do Dao de outro caminho e trazê-las de
-volta** — usando-as, portanto, como **recipiente de captura** do poder de golpes alheios.
+E há um uso avançado documentado: a **Star Constellation Immortal Venerable** **deduziu e
+modificou** um método do caminho fantasma para fazer as aberturas fantasmas dos imortais do
+Tribunal **conterem marcas do Dao de espada de um inimigo e trazê-las de volta** com eles —
+usando-as, portanto, como **recipiente de captura** do poder de golpes alheios.
 
 **Vulnerabilidades:** correntes ilusórias podem perfurar uma abertura fantasma e **selar todos os Gu**
 dentro dela; e um adversário mais forte pode simplesmente **sugá-la** junto com o conteúdo.
@@ -319,7 +320,7 @@ ao mesmo lugar por rotas diferentes.
 ### 5. O segredo mais caro do mundo é armazenado em cadáveres
 
 Já registrado acima, mas pertence a esta seção porque é o exemplo perfeito de camada escondida: os
-**corpos** dos imortais da maior instituição do mundo **retêm a profundidade suprema do caminho
+**corpos** dos imortais do [[19 - Tribunal Celestial|Tribunal Celestial]] **retêm a profundidade suprema do caminho
 fantasma**. Quem tiver domínio suficiente lê o segredo institucional mais bem guardado do cenário
 diretamente num defunto. Com domínio apenas comum, nem um Gu de sabedoria de alto nível consegue
 extrair nada.
@@ -376,7 +377,7 @@ descrito como *especializado em **esconder-se e atacar***, atravessando formaç�
    servem de âncora estável; e o caso mais extremo, uma **caverna-céu inteira** cujos imortais
    cultivam majoritariamente o caminho e que **pode virar forma fantasma por completo**, ficando com
    isso **imune a calamidades e tribulações**.
-3. **Abertura-substituta em escala institucional** — o sistema que permite a uma organização
+3. **Abertura-substituta em escala institucional** — o sistema que permite ao [[19 - Tribunal Celestial|Tribunal Celestial]]
    centralizar as aberturas imortais de seus membros e ainda assim mandá-los ao mundo com poder de
    combate e isentos de tribulação.
 
@@ -421,17 +422,17 @@ acabem se soltando.
 | **Mestre** | Destranca **montar formações fantasmas**; e, combinado com domínio noutro caminho, aprimorar técnicas de possessão |
 | **Grão-mestre** | O vazio passa a ser navegável |
 | **Grande grão-mestre** | Conseguir **danificar algo em forma fantasma** que se acreditava intocável — a obra registra a surpresa: *pensar que o domínio dele no caminho fantasma estava além do esperado; ele certamente era um grande grão-mestre* |
-| Profundidades supremas | A **abertura fantasma** e o **vazio**. Detidas institucionalmente pela maior organização do mundo |
+| Profundidades supremas | A **abertura fantasma** e o **vazio**. Detidas institucionalmente pelo [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 
 ## Praticantes notáveis (sem enredo)
 
-- **O criador** — um Gu Imortal comum, **não um Venerável**, que tirou das feras-fantasma a inspiração
+- **Xu Wu Xie**, o criador — um Gu Imortal comum, **não um Venerável**, que tirou das feras-fantasma a inspiração
   para o caminho. É o único dado que a obra dá sobre ele, e é um dado importante: este é um dos
   poucos caminhos do mundo fundado por alguém que não estava no topo.
 - **As feras-fantasma** — a origem biológica. Têm a habilidade **natural** de virar fantasmas; se
   aparece uma de nível antigo, é bloqueio absoluto. Seguraram um grupo inteiro de imortais justamente
   porque *uma vez que viravam fantasmas, nenhum golpe tinha qualquer efeito*.
-- **A maior instituição do mundo** — detentora das duas profundidades supremas do caminho e emissora
+- **O [[19 - Tribunal Celestial|Tribunal Celestial]]** — detentor das duas profundidades supremas do caminho e emissor
   das aberturas fantasmas. É o **maior empregador de caminho fantasma que existe**, mesmo não sendo
   uma organização do caminho.
 - **A caverna-céu dos nove fantasmas** — um território cujos imortais cultivam majoritariamente o

@@ -11,7 +11,7 @@ aliases:
   - Rank 4 Gu
   - Catálogo de Gu Rank 4
 status: consolidado
-fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 111", "cap. 121", "cap. 126", "cap. 129", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 165", "cap. 166", "cap. 185", "cap. 192", "cap. 194", "cap. 199", "cap. 200", "cap. 201", "cap. 202", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 280", "cap. 286", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 1097", "cap. 1288", "cap. 1380", "cap. 1462", "cap. 2072", "cap. 2108", "cap. 2298", "cap. 2300", "cap. 2312"]
+fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 111", "cap. 121", "cap. 126", "cap. 129", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 165", "cap. 166", "cap. 185", "cap. 192", "cap. 194", "cap. 199", "cap. 200", "cap. 201", "cap. 202", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 280", "cap. 286", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 410", "cap. 412", "cap. 413", "cap. 428", "cap. 431", "cap. 442", "cap. 443", "cap. 452", "cap. 454", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 505", "cap. 507", "cap. 510", "cap. 522", "cap. 526", "cap. 548", "cap. 560", "cap. 568", "cap. 570", "cap. 573", "cap. 579", "cap. 616", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 1097", "cap. 1288", "cap. 1380", "cap. 1462", "cap. 1780", "cap. 2072", "cap. 2108", "cap. 2298", "cap. 2300", "cap. 2312"]
 conhecimento: comum — que os Gu de rank 4 existem e o que eles fazem em linhas gerais é sabido por qualquer Mestre Gu; as receitas, os preços de leilão e as rotas de avanço são conhecimento especializado, de ancião de clã para cima
 ---
 
@@ -1372,21 +1372,26 @@ grande: acumulados em grande número, eles **criam um ambiente de caminho do fog
 ambiente que se criam muitos outros Gu de fogo. Funcionam, portanto, como **fonte de marcas de
 dao de fogo num território**.
 
-**Como é.** Vive entre os vaga-lumes ardentes de um deserto específico, e é fisicamente
+**Como é.** Vive misturado aos vaga-lumes ardentes do **deserto dos Vaga-Lumes Ardentes**
+(*burning firefly desert*), no [[05 - Deserto Ocidental|Deserto Ocidental]], e é fisicamente
 indistinguível deles a olho nu (ded.).
 
 **Dieta.** Dieta não informada; no rank 3 o intervalo entre refeições já é de cerca de um mês
 (ded.).
 
-**Desvantagem.** **Teto de rank 5** — o local jamais produziu um exemplar de rank 6 — e
-dependência de um bioma específico, o que torna a fonte um **ponto fixo, cobiçado e defendido
-militarmente**.
+**Desvantagem.** **Teto de rank 5** — o deserto jamais produziu um exemplar de rank 6 — e
+dependência de um bioma único e endereçável, o que torna a fonte um **ponto fixo, cobiçado e
+defendido militarmente**.
 
-**Como se obtém.** **Não é refinado: é colhido.** Nasce naturalmente num deserto de rochas
-estranhas e quase sem plantas, tomado por um inseto chamado vaga-lume ardente. O número de
-vaga-lumes ali é interminável, e entre eles há uma quantidade enorme destes Gu. O local é um
-ponto de recurso de porte médio de um clã imortal, cercado por uma formação imortal e guardado
-por um Gu Imortal de rank 6.
+**Como se obtém.** **Não é refinado: é colhido**, e só num lugar. O **deserto dos Vaga-Lumes
+Ardentes** é uma extensão de rochas estranhas e quase sem plantas, tomada por um inseto chamado
+vaga-lume ardente; o número de vaga-lumes ali é interminável, e entre eles vive uma quantidade
+enorme destes Gu, de rank 3 a 5. O deserto é um **ponto de recurso de porte médio do clã Fang**,
+um clã imortal do Deserto Ocidental, que instalou ali uma formação imortal e um Gu Imortal de
+rank 6 de guarda — e é por isso que ele funciona: o clã usa os próprios burning firefly Gu para
+manter no lugar um ambiente do caminho do fogo, e é dentro desse ambiente que ele cria muitos
+outros Gu de fogo. Perder o deserto custa a linha de produção inteira, não só os Gu que estavam
+lá.
 
 **Evolução.** Não citada pela obra: é série de ranks natural.
 
@@ -1449,8 +1454,10 @@ grande (ded.).
 e ouvidos.** Há um limite, e ultrapassá-lo fere o portador.
 
 **Como se obtém.** Comprado pronto por "um preço enorme", como aquisição estratégica planejada
-anos antes contra uma tribo do caminho do fogo. É o exemplo canônico de um Gu comprado não
-por ser bom, mas por ser **a resposta a um inimigo específico**.
+anos antes contra a **tribo Tang**, que prioriza o caminho do fogo em todo o seu arsenal. É o
+exemplo canônico de um Gu comprado não por ser bom, mas por ser **a resposta a um inimigo com
+nome e endereço** — e note que ele nem é um Gu ofensivo: é um Gu de armazenamento, usado em
+combate pela cabeça de quem o carrega.
 
 **Evolução.** Não citada pela obra.
 
@@ -1596,7 +1603,7 @@ carga. Sangue de parentes próximos e de gente de aptidão alta rende bem mais.
 **Desvantagem.** O custo está na alimentação, e ele é de **assassinato em série**. Além
 disso, os retornos são **decrescentes a cada carga**.
 
-**Como se obtém.** É um dos tesouros verdadeiros do fundador do caminho do sangue: peça de
+**Como se obtém.** É um dos tesouros verdadeiros do [[03 - Blood Path|Ancestral do Mar de Sangue]] (*Blood Sea Ancestor*), o criador do caminho do sangue: peça de
 herança que **não circula no mercado**. O exemplar da obra chegou ao dono seguinte como
 espólio, ainda selado, e foi refinado na hora com uma única injeção de essência.
 
@@ -1858,9 +1865,10 @@ grande (ded.).
 uso, na proporção do que a alma recebe. E ele **trata o sintoma, não a causa** — quem sangra a
 alma cronicamente continua sangrando. Taxa de conversão e limite: —.
 
-**Como se obtém.** É **Gu de transmissão secreta de uma tribo do norte**, uma especialidade da
-casa. Existe uma **receita de refino**, e obter a receita mais o Gu equivale a obter os
-resultados experimentais inteiros da tribo. Preço: —.
+**Como se obtém.** É **Gu de transmissão secreta da tribo Dong Fang**, das
+[[03 - Planícies do Norte|Planícies do Norte]] — especialidade da casa, não item de mercado.
+Existe uma **receita de refino**, e obter a receita mais o Gu equivale a obter os resultados
+experimentais inteiros da tribo. Preço: —.
 
 **Evolução.** Não citada pela obra.
 
@@ -1960,18 +1968,26 @@ conforme ele enche** e murcha quando é esvaziado — o estoque é visível de f
 
 **Evolução.** Não citada pela obra.
 
-**Interações.** A obra registra um uso específico e muito jogável: **as almas guardadas nele
-viram um Gu diferente ao passar por uma montanha específica**. É um Gu de logística que
-converte uma batalha alheia em estoque de recurso — e que exige uma viagem para converter o
-estoque em produto.
+**Interações.** A obra registra um uso específico e muito jogável, e o destino tem nome: as
+almas guardadas nele são despejadas na **Dang Hun Mountain** (Montanha que Sacode a Alma), um
+domínio recluso do caminho da alma. Lá elas se **despedaçam e se fundem à montanha**, e com o
+tempo o material sedimenta em **gutstones** — pedras que, quando quebradas, às vezes revelam um
+`Guts Gu`, que **fortalece a alma de quem o consome**. Três restrições fazem disso uma logística e
+não um botão: o `Guts Gu` **existe só por um instante** depois de libertado, e depois se dispersa
+ou é triturado outra vez pela montanha; as gutstones **não podem ser removidas** do lugar, de modo
+que é preciso ir até lá a pé e quebrá-las no local; e a alma tem teto — consumir `Guts Gu` demais
+numa alma que não esteja concentrada o bastante a **infla até um desastre de morte certa**. Ou
+seja: o sapo converte batalha alheia em matéria-prima, e a montanha converte matéria-prima em
+produto, mas só para quem for até ela. Ver [[12 - Catálogo de Receitas|Catálogo de Receitas]].
 
 ### Nauseous Crying Baby Gu (Gu do Bebê Chorão Nauseante)
 
-**O que faz.** É um **Gu de contramedida**, criado especificamente para anular um golpe
-combinado célebre de uma tribo do norte — um golpe que funde temporariamente as almas de três
-Mestres Gu numa só, deixando os três agindo como um ao defender, atacar ou recuar. A obra não
-descreve o mecanismo interno deste Gu, apenas o resultado: "teve grandes efeitos na batalha",
-e a tribo perdeu batalhas consecutivamente até aposentar o golpe.
+**O que faz.** É um **Gu de contramedida**, criado especificamente para anular a **alma
+combinada de três corações** (*three hearts combination soul*), o golpe célebre da **tribo Dong
+Fang**, das [[03 - Planícies do Norte|Planícies do Norte]] — um golpe que funde temporariamente as
+almas de três Mestres Gu numa só, deixando os três agindo como um ao defender, atacar ou recuar.
+A obra não descreve o mecanismo interno deste Gu, apenas o resultado: "teve grandes efeitos na
+batalha", e a tribo Dong Fang perdeu batalhas consecutivamente até aposentar o golpe.
 
 **Como é.** —
 
@@ -3555,10 +3571,10 @@ dois produz o `Blue Sky Well Gu` de rank 5.
 de um clã de topo, a cadeia inteira trava.
 
 **Como se obtém.** **Não se refina: é achado.** É Gu **natural** e ocorre **em um único lugar do
-mundo conhecido** — uma ilha específica no Mar Oriental. A obra registra a consequência
-geopolítica: fora daquela região, o acesso depende de intermediários, e numa fronteira inteira
-apenas **um** clã, dos de topo e com laços comerciais estreitos com o Mar Oriental, talvez
-tivesse um exemplar.
+mundo conhecido** — a **ilha Tian Jing**, no [[06 - Mar Oriental|Mar Oriental]]. A obra registra a
+consequência geopolítica com nome próprio: na Fronteira Sul inteira, apenas o **clã Yi** — dos de
+topo, e com laços comerciais estreitos com o Mar Oriental — talvez tivesse um exemplar. Fora da
+região de origem, portanto, o acesso passa obrigatoriamente por intermediários.
 
 **Evolução.** Ele **não evolui: ele é ingrediente**. A cadeia completa é `Sky Granary Gu` (rank
 3) → fusão → `Blue Sky Gu` (rank 4), com **taxa de sucesso baixa**, o que torna o Blue Sky raro

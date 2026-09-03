@@ -89,7 +89,7 @@ Ou seja: **variação é uma constante de todas as espécies**, e os povos varia
 
 Antes do catálogo, o fato que reordena a leitura de todo o resto, e que a maior parte dos personagens do mundo **não** tem presente:
 
-**Nas eras mais antigas, os humanos variantes dominavam o mundo e os humanos eram poucos.** A obra é explícita: durante a Era Imemorial e a Era Remota, os variantes controlavam a maior parte do mundo; havia o primeiro homem, seus dez filhos e dois futuros Veneráveis, e pouco mais. Foi na Era Remota que dois Veneráveis lideraram a humanidade numa revolta contra **o governo dos variantes**, e só na Era Antiga, com três Veneráveis demoníacos travando guerras e exterminando um dos povos, a supremacia humana se estabilizou.
+**Nas eras mais antigas, os humanos variantes dominavam o mundo e os humanos eram poucos.** A obra é explícita: durante a Era Imemorial e a Era Remota, os variantes controlavam a maior parte do mundo; havia o primeiro homem, seus dez filhos e dois futuros Veneráveis, e pouco mais. Foi na Era Remota que dois Veneráveis — *Primordial Origin Immortal Venerable* e, depois dele, *Star Constellation Immortal Venerable* — lideraram a humanidade numa revolta contra **o governo dos variantes**, e só na Era Antiga, com três Veneráveis demoníacos travando guerras e exterminando um dos povos, a supremacia humana se estabilizou.
 
 Portanto: a hierarquia atual não é a ordem natural das coisas. É o resultado de uma guerra que os humanos venceram — e os povos variantes sabem disso. Toda a política variante do cenário, da submissão humilhante à aliança militar, é lida melhor à luz desse fato.
 
@@ -194,7 +194,7 @@ Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imort
 
 ### Homens-cogumelo (*mushroommen*)
 
-Parecidos com humanos, com um chapéu de cogumelo na cabeça. Vivem num paraíso na Fronteira Sul, e o que os define é como esse paraíso surgiu: um Venerável **modificou uma terra abençoada** para que ela não enfrentasse mais calamidades nem tribulações, e a entregou a eles — porque não suportava ver os homens-cogumelo serem massacrados. Isso faz do lugar tanto um refúgio quanto um depósito de herança: o líder da força que o administra é reconhecido no mundo inteiro como herdeiro legítimo daquele Venerável, e ninguém contesta.
+Parecidos com humanos, com um chapéu de cogumelo na cabeça. Vivem num paraíso na Fronteira Sul, e o que os define é como esse paraíso surgiu: *Paradise Earth Immortal Venerable* **modificou uma terra abençoada** para que ela não enfrentasse mais calamidades nem tribulações, e a entregou a eles — porque não suportava ver os homens-cogumelo serem massacrados. Isso faz do lugar tanto um refúgio quanto um depósito de herança: o líder da força que o administra é reconhecido no mundo inteiro como herdeiro legítimo daquele Venerável, e ninguém contesta.
 
 ### Eggmen (*eggmen*)
 
@@ -278,7 +278,7 @@ Aqui está o segredo estrutural do domínio, e ele reenquadra tudo o que foi dit
 
 Quando os humanos variantes governavam o mundo, a vontade do céu — a força que mantém o equilíbrio deste universo — agiu através do Gu que administra o destino e produziu uma **revelação de que a humanidade reinaria suprema**. A partir daí, ela operou nos dois lados ao mesmo tempo:
 
-- **A favor dos humanos**, ajudando um cultivador específico a se tornar Venerável e favorecendo o desenvolvimento e o crescimento da espécie;
+- **A favor dos humanos**, ajudando *Primordial Origin* a se tornar Venerável e favorecendo o desenvolvimento e o crescimento da espécie;
 - **Contra os variantes**, influenciando-os de modo a **dividi-los e a lançá-los em conflitos internos intensos**, com os quais eles se enfraqueceram sozinhos.
 
 Ver [[15 - Vontade dos Céus|Vontade dos Céus]] e [[16 - Fate Gu|Fate Gu]].

@@ -22,8 +22,8 @@ Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão G
 ## Filosofia e identidade
 
 Este caminho tem uma história de origem distinta de quase todos os outros, e ela define sua
-identidade: foi **criado sozinho** por uma única pessoa — um cultivador de rank 8 no pico,
-quase-Venerável, que não foi Venerável.
+identidade: foi **criado sozinho** por uma única pessoa — **Bo Qing**, o Imortal (e Demônio) da
+Espada, um cultivador de rank 8 no pico, quase-Venerável, que nunca chegou a Venerável.
 
 Isso importa. A maior parte dos grandes caminhos foi fundada por seres de rank 9, com
 recursos, seitas e milênios. O caminho da espada foi construído por um indivíduo que nunca
@@ -266,7 +266,7 @@ O caminho da espada é o melhor laboratório da obra para uma pergunta que todo 
 enfrenta: o que vale mais, a habilidade ou o acúmulo? A obra responde nos dois sentidos, e as
 duas respostas são canônicas.
 
-- **Fundação sem técnica vence.** O criador do caminho, já reduzido a um corpo de zumbi
+- **Fundação sem técnica vence.** Bo Qing, o criador do caminho, já reduzido a um corpo de zumbi
   imortal, **com a abertura imortal completamente destruída**, ainda assim era aterrorizante —
   porque *suas marcas do Dao da espada não foram destruídas*. A obra é explícita: o crucial
   eram as marcas. Dois cultivadores usando **o mesmo Gu Imortal** produzem resultados
@@ -292,7 +292,7 @@ marcas e domínio.** Faltar qualquer um deles trava o caminho de um jeito difere
   "corpo de espada", não há membro que vire lâmina em definitivo, não há deformação por uso
   como acontece no caminho do espaço. A conversão total de marcas descrita acima é uma **forma
   temporária**, não um estado permanente.
-- **`—` Não há Venerável do caminho da espada.** O fundador parou no rank 8 de auge, e a obra
+- **`—` Não há Venerável do caminho da espada.** Bo Qing parou no rank 8 de auge, e a obra
   faz questão de dizer que ele era um cultivador solitário de origem humilde.
 
 ## Progressão por rank
@@ -310,7 +310,7 @@ marcas e domínio.** Faltar qualquer um deles trava o caminho de um jeito difere
 
 O caminho tem duas escadas de acesso, e as duas são ilustrativas do mundo inteiro:
 
-- **A herança do fundador** perdeu-se quando ele falhou na ascensão; um golpe lendário dela
+- **A herança de Bo Qing** perdeu-se quando ele falhou na ascensão; um golpe lendário dela
   reapareceu séculos depois, nas mãos de alguém de outra região e de outro caminho. Heranças
   vazam.
 - **A segunda grande herança** do caminho, deixada por um imortal de rank 8 de outra linhagem,

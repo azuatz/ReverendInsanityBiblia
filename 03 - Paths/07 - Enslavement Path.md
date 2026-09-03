@@ -35,12 +35,12 @@ origem" — três formas de operar sobre a mesma coisa.
 > A passagem acima é canônica: *o caminho da escravização originalmente se separou do caminho
 > da alma; quando Mestres Gu o combinaram com o antigo caminho da sabedoria, ele finalmente se
 > tornou um caminho independente*. Mas a enumeração histórica dos caminhos por era — a mesma
-> que estrutura [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — credita a criação dele a
-> um **Venerável nomeado**, o mesmo que criou o [[05 - Qi Path|caminho do qi]], na Antiguidade
-> Remota. As duas afirmações estão no texto e a obra nunca as concilia.
+> que estrutura [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — credita a criação dele ao
+> **Primordial Origin Immortal Venerable**, o mesmo que criou o [[05 - Qi Path|caminho do qi]],
+> na Antiguidade Remota. As duas afirmações estão no texto e a obra nunca as concilia.
 >
 > `(ded.)` A leitura que menos força o cânone é que elas descrevem **etapas** do mesmo
-> processo: o material era um ramo da alma, e o que o Venerável fez foi exatamente a operação
+> processo: o material era um ramo da alma, e o que Primordial Origin fez foi exatamente a operação
 > que a obra chama de "criar um caminho" — reunir técnicas dispersas num corpo doutrinário
 > coerente. Ver [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]. Registramos a divergência
 > em vez de escolher; se você precisar decidir para o seu jogo, as duas leituras são
@@ -253,7 +253,7 @@ Duas outras regras táticas na mesma linha:
 | **Rank 6 (imortal)** | O salto de categoria: existe Gu de escravização capaz de subjugar **um Gu Imortal**, e o fardo permanente de 20% da capacidade mental por escravo inteligente entra em cena. |
 | **Rank 7** | **Qualquer fera, inclusive as imemoriais.** Nada mais no mundo animal está fora de alcance. |
 | **Rank 8** | Escravizar **feras de alma** (ao custo de consumir a própria fundação de alma) e **cultivadores de rank 8** — até quatro de uma vez, por meio de uma casa de Gu dedicada. |
-| **Rank 9** | `—` **A obra não mostra nenhum Venerável usando a escravização como caminho principal**, nem descreve um repertório de rank 9 do caminho. O Venerável a quem a enumeração histórica credita a criação dele é conhecido no mundo pelo [[05 - Qi Path\|caminho do qi]], não por este. |
+| **Rank 9** | `—` **A obra não mostra nenhum Venerável usando a escravização como caminho principal**, nem descreve um repertório de rank 9 do caminho. O **Primordial Origin Immortal Venerable**, a quem a enumeração histórica credita a criação dele, é conhecido no mundo pelo [[05 - Qi Path\|caminho do qi]], não por este. |
 
 > [!note] Quão raro é ser mestre
 > Um número que calibra a escala do mundo: num torneio que reuniu os melhores talentos de uma
@@ -274,7 +274,7 @@ Duas outras regras táticas na mesma linha:
 | Escravização de Raposa | 1–5 (ded.) | A variante mais comum de "Gu sobressalente" de um comandante |
 | Tripas de Cão (série) | 1–5 | Remove o medo dos comandados, por patamar de ameaça |
 | Alma de Lobo | 3 | **Refina a alma até mudar-lhe a espécie**; empilhável — nove exemplares produzem uma alma-lobo |
-| Coragem (*guts*) | `efêmero` | Fortalece a alma diretamente; produzido por uma montanha específica, é o insumo que acelera anos de treino. Não persiste: existe por um instante e se desfaz |
+| Coragem (*guts*) | `efêmero` | Fortalece a alma diretamente; nasce ao se **quebrar as pedras-de-coragem (*gutstones*) da Montanha Dang Hun** (*Dang Hun Mountain*), o domínio recluso do [[12 - Soul Path\|caminho da alma]], e é o insumo que acelera anos de treino. As pedras **não podem ser transportadas** — é preciso ir até a montanha e usá-las no lugar. Não persiste: existe por um instante e ou se dispersa, ou é reabsorvido pela própria montanha |
 | Multitarefa | — | Divide a mente; suporte característico do caminho |
 
 > [!info] Como ler a coluna "Nível"

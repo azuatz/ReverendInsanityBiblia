@@ -9,7 +9,7 @@ aliases:
   - Tabela de renda
   - Custo de vida
 status: consolidado
-fontes: ["cap. 8", "cap. 9", "cap. 11-12", "cap. 16-18", "cap. 23", "cap. 26", "cap. 29", "cap. 36", "cap. 39-45", "cap. 48", "cap. 53", "cap. 62", "cap. 64", "cap. 69", "cap. 72", "cap. 78", "cap. 81", "cap. 86", "cap. 88-89", "cap. 92", "cap. 102-113", "cap. 117", "cap. 120-124", "cap. 146-147", "cap. 155", "cap. 157-158", "cap. 161-163", "cap. 174-182", "cap. 194", "cap. 233-246", "cap. 259-283", "cap. 289-296", "cap. 302-315", "cap. 322-337", "cap. 354-358", "cap. 421-424", "cap. 440-450", "cap. 470", "cap. 477", "cap. 481", "cap. 501", "cap. 517", "cap. 545", "cap. 829", "cap. 838", "cap. 1673", "cap. 1698", "cap. 1796", "cap. 1947", "cap. 1973", "cap. 2124"]
+fontes: ["cap. 8", "cap. 9", "cap. 11-12", "cap. 16-18", "cap. 23", "cap. 26", "cap. 29", "cap. 36", "cap. 39-45", "cap. 48", "cap. 53", "cap. 62", "cap. 64", "cap. 69", "cap. 72", "cap. 78", "cap. 81", "cap. 86", "cap. 88-89", "cap. 92", "cap. 102-113", "cap. 117", "cap. 120-124", "cap. 146-147", "cap. 155", "cap. 157-158", "cap. 161-163", "cap. 174-182", "cap. 194", "cap. 233-246", "cap. 259-283", "cap. 286", "cap. 289-296", "cap. 302-315", "cap. 322-337", "cap. 354-358", "cap. 421-424", "cap. 440-450", "cap. 470", "cap. 477", "cap. 481", "cap. 501", "cap. 517", "cap. 545", "cap. 829", "cap. 838", "cap. 1673", "cap. 1698", "cap. 1796", "cap. 1947", "cap. 1973", "cap. 2124"]
 conhecimento: comum
 ---
 
@@ -323,12 +323,13 @@ prática, o limite de quanto um personagem consegue movimentar:
 | Recipiente | Capacidade (em pedras primordiais) |
 |---|---|
 | Gu de armazenamento comum, rank 3 | 30.000 pedras |
-| Gu de armazenamento especializado em dinheiro, rank 3 | **1.000.000 de pedras** — e custa 6.600 em leilão |
+| **Primeval elder Gu** (Gu do Ancião Primordial), armazenamento especializado em dinheiro, rank 3 | **1.000.000 de pedras** — e custa 6.600 em leilão |
 | Um saco de dinheiro comum, o que uma pessoa carrega na mão | ~100 pedras |
 
-O Gu especializado é uma esfera translúcida com a imagem de um velho feito de nuvens
-dentro, e a **expressão do velho muda conforme o saldo** — sorridente quando cheio,
-encurvado e sofrido quando quase vazio. É o extrato bancário mais bonito de qualquer
+O ==primeval elder Gu== é uma bola de cristal meio transparente com um velho feito de nuvens
+dentro, e a **expressão do velho muda conforme o saldo** — sorri quando há muitas pedras, chora
+quando há poucas, e fica encurvado, dolorido e preocupado depois de uma compra que torrou várias
+centenas de milhares de uma vez. É o extrato bancário mais bonito de qualquer
 cenário de fantasia.
 
 ## Renda
@@ -381,14 +382,15 @@ sai da roda-viva. As quatro fontes documentadas:
 | Ativo | O que rende (em pedras primordiais) |
 |---|---|
 | **Nascente espiritual pequena** | **mais de cem milhões de pedras** ao longo dos cinquenta a sessenta anos de vida útil — o que dá algo entre **um milhão e setecentas mil e dois milhões de pedras por ano** `(ded.)`, que é só a divisão de um número da obra pelo outro. As médias passam de um século; as grandes duram séculos. |
-| **Nascente portátil** (um Gu de rank 3 que condensa uma nascente inteira) | **50 pedras por dia**, para sempre, sem consumir nada |
+| **Nascente portátil**: o *Heavenly Essence Treasure Lotus*, Gu-flor de rank 3 | **50 pedras por dia**, para sempre, sem consumir nada |
 | **Taverna de vila, mais três prédios de aluguel, terra e oito servos** | o pacote inteiro se paga com **dois ou três anos** de operação |
 | **Uma planta de cura excepcional, colhida diariamente** | ~400 pedras de lucro líquido por dia, com custo de produção quase nulo |
 
 A segunda linha é a mais útil para uma mesa. Cinquenta pedras por dia é
 aproximadamente **dez vezes o custo de vida de um Mestre Gu de rank 1** — ou seja, um
-único Gu, de rank 3, aposenta um personagem de rank baixo para sempre. É por isso que a
-existência desse Gu é segredo de clã e que extraí-lo mata a nascente de onde ele veio.
+único Gu-flor de rank 3 aposenta um personagem de rank baixo para sempre. É por isso que a
+existência do Heavenly Essence Treasure Lotus é segredo de clã e que retirá-lo da nascente
+inutiliza a nascente de onde ele veio — mesmo que alguém o devolva depois.
 
 E a terceira dá a régua de retorno de investimento do mundo mortal: **dois a três anos**.
 Se a sua mesa precisar precificar qualquer negócio que os personagens queiram comprar,

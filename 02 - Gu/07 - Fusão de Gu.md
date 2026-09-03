@@ -148,7 +148,7 @@ acionamento. Melhoria em vários eixos ao mesmo tempo, com um contrapeso.
 Um mesmo Gu de partida costuma ter várias árvores evolutivas, e escolher errado desperdiça
 o potencial dele para sempre.
 
-Há uma linhagem documentada em que o Gu-base tem duas rotas: uma que **preserva** a
+A linhagem documentada é a do ==verme do licor (liquor worm)==, o Gu que destila a própria essência do dono para o estágio acima: o bicho de partida tem duas rotas de evolução — uma que **preserva** a
 habilidade de refinar essência ao longo de toda a subida de nível, e outra que a **perde**
 já no primeiro passo. As duas rotas produzem Gu válidos; só uma produz um Gu que continua
 valendo a pena aos níveis altos.
@@ -317,8 +317,8 @@ convites, propostas de casamento.
 O dono de uma receita, portanto, não é um alvo. É um **partido**.
 
 > [!example] Caso mecânico
-> A cadeia de fusão de uma linhagem de Gu de refino de essência está documentada até o nível
-> 4. O rank 5 **não existe** — e não porque seja impossível: o pesquisador que trabalhava
+> A cadeia de fusão do **verme do licor** está documentada até o nível
+> 4, terminando no *nine eyes liquor worm*. O rank 5 **não existe** — e não porque seja impossível: o pesquisador que trabalhava
 > nele morreu antes de terminar. A árvore evolutiva do mundo tem buracos que são acidentes
 > biográficos, não limites naturais. Para uma campanha, cada buraco desses é um projeto
 > esperando um jogador.

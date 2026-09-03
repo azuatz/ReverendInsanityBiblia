@@ -14,7 +14,7 @@ aliases:
   - Regional Walls
   - Paredes Regionais
 status: consolidado
-fontes: ["cap. 29", "cap. 39", "cap. 334", "cap. 341", "cap. 421", "cap. 425", "cap. 426", "cap. 430", "cap. 440", "cap. 477", "cap. 489", "cap. 522", "cap. 545", "cap. 621", "cap. 673", "cap. 710", "cap. 812", "cap. 819", "cap. 928", "cap. 965", "cap. 1043", "cap. 1044", "cap. 1045", "cap. 1211", "cap. 1258", "cap. 1408", "cap. 1931", "cap. 1966", "cap. 2161", "cap. 2175"]
+fontes: ["cap. 29", "cap. 39", "cap. 334", "cap. 341", "cap. 404", "cap. 421", "cap. 425", "cap. 426", "cap. 428", "cap. 430", "cap. 440", "cap. 477", "cap. 489", "cap. 522", "cap. 545", "cap. 556", "cap. 558", "cap. 567", "cap. 612", "cap. 621", "cap. 673", "cap. 710", "cap. 812", "cap. 819", "cap. 928", "cap. 965", "cap. 1043", "cap. 1044", "cap. 1045", "cap. 1211", "cap. 1258", "cap. 1408", "cap. 1931", "cap. 1966", "cap. 2103", "cap. 2161", "cap. 2175"]
 conhecimento: comum
 ---
 
@@ -102,7 +102,7 @@ frase.
 - **A dificuldade de atravessar cresce brutalmente com o rank.** Um cultivador de rank 4 leva alguns minutos; a travessia mata cultivadores de rank 7; para um rank 8 a dificuldade é descrita como incontáveis vezes pior. O mundo é permeável para os fracos e quase sólido para os fortes.
 - **A parede se regenera atrás do viajante** e tem polaridade: a parede do destino *atrai* nativos que estão voltando para casa, enquanto a parede de origem *rejeita* quem está saindo. Voltar é sempre mais fácil que partir.
 - **O que a parede restringe são cultivadores, não objetos.** Um Gu Imortal desacompanhado atravessa livremente. E há uma exceção unificadora importante: **nada que esteja vinculado aos nove céus imemoriais é restringido** — os dois céus remanescentes cobrem as cinco regiões por cima, e quem viaja por eles não toca a parede. É por isso que certas construções e criaturas ligadas aos céus circulam pelo mundo como se as fronteiras não existissem. Ver [[17 - Cosmologia|Cosmologia]].
-- **Existem atalhos.** Um método imortal de teletransporte fixo ignora inteiramente o problema. E no Mar Oriental existe uma *maré de terra* anual que afina temporariamente a parede — as rotas mapeadas durante a maré são mercadoria cara e com prazo de validade, porque as forças de maré mudam.
+- **Existem atalhos.** O **Fixed Immortal Travel Gu** (Gu da Viagem Imortal Fixa), Gu Imortal de rank 6 de teletransporte cuja receita está registrada nas [[12 - Lendas de Ren Zu|Lendas de Ren Zu]], ignora inteiramente o problema. E no Mar Oriental existe uma *maré de terra* anual que afina temporariamente a parede — as rotas mapeadas durante a maré são mercadoria cara e com prazo de validade, porque as forças de maré mudam.
 
 > [!note] Para o design
 > A assimetria "a pessoa se adapta, o equipamento não" é uma mecânica pronta e cruel. Emigrar é uma decisão de personagem com um custo permanente embutido: você recupera o seu corpo, mas perde o seu arsenal. Isso cria automaticamente três tipos de personagem interessantes — o que fica, o que emigra e refaz tudo do zero, e o **contrabandista de Gu**, que existe porque a diferença de valor entre um Gu "nacional" e um "importado" é enorme e permanente. Também dá ao mestre uma razão diegética para trocar o inventário do grupo numa mudança de arco.
@@ -113,24 +113,24 @@ Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cad
 
 ### Continente Central
 
-**Geografia e caráter.** A maior e mais rica das cinco. A energia ambiente é a mais densa do mundo, o que significa que um cultivador nascido ali avança mais rápido e mais longe do que um nascido em qualquer outro lugar, com o mesmo esforço. É o centro civilizacional: onde estão as bibliotecas, as academias de refino e a maior cidade mortal do mundo.
+**Geografia e caráter.** A maior e mais rica das cinco. A energia ambiente é a mais densa do mundo, o que significa que um cultivador nascido ali avança mais rápido e mais longe do que um nascido em qualquer outro lugar, com o mesmo esforço. É o centro civilizacional: onde estão as bibliotecas, as academias de refino e a **Emperor City** (Cidade Imperial) — a maior cidade mortal do mundo, construída por *Primordial Origin Immortal Venerable* sobre o principal nó de veia humana da região, o que faz dela uma fábrica de gênios.
 
 **Cultura e política.** É a **única das cinco regiões dominada por seitas** em vez de clãs de sangue. Isso muda tudo: nas outras quatro regiões, o seu lugar no mundo é decidido pelo sobrenome com que você nasceu; no Continente Central, ele é decidido por qual instituição te aceitou. Dez grandes seitas ancestrais controlam a maior parte dos recursos da região, e todas as dez descendem de uma única origem comum — o [[19 - Tribunal Celestial|Tribunal Celestial]], que as suserana de longe.
 
-**Marcos.** A montanha número um do mundo, com mais de três mil quilômetros de altura, coberta de túmulos e heranças de buscadores de imortalidade e visitada anualmente por levas de herdeiros. Uma terra sagrada dedicada aos mestres refinadores. E um rio celeste que corre pelo alto, cuja correnteza diurna resiste até aos cultivadores mais fortes.
+**Marcos.** A ==**Tian Ti Mountain**==, montanha número um do continente, com mais de três mil quilômetros de altura — chamada "terra das heranças" e "montanha dos santos", foi originalmente a escadaria que ligava o mundo ao céu e hoje está coberta de túmulos e heranças de quem buscou a imortalidade e falhou, visitada anualmente por levas de herdeiros. A **Land of Bu Bai**, terra sagrada dos mestres de refino, destino de peregrinação tão longínquo que, visto da Fronteira Sul, é considerado inalcançável. E o **Falling Heavenly River** ("rio celeste cadente"), um rio gigante que despenca do céu, atravessa o continente e desemboca no Mar Oriental, cuja correnteza diurna nem um cultivador de rank 8 enfrenta e em cujo leito vivem feras imemoriais.
 
-**Termômetro de escala:** na maior cidade mortal do Continente Central, um Mestre Gu de rank 3 é uma pessoa comum na rua. Na Fronteira Sul, um rank 3 é um ancião de clã com autoridade sobre vidas.
+**Termômetro de escala:** na Emperor City, um Mestre Gu de rank 3 é uma pessoa comum na rua. Na Fronteira Sul, um rank 3 é um ancião de clã com autoridade sobre vidas.
 
 ### Planícies do Norte
 
-**Geografia e caráter.** Uma estepe sem referências fixas, onde a paisagem é tão uniforme que a bússola padrão do viajante é um Gu específico que aponta para casa. O clima é extremo e força migração constante.
+**Geografia e caráter.** Uma estepe sem referências fixas, onde a paisagem é tão uniforme que a bússola padrão do viajante não é um instrumento e sim um Gu: o **return heart Gu** ("Gu do coração que retorna"), um verme que aponta para casa. O clima é extremo e força migração constante.
 
 **O desastre que define a região.** A cada dez anos, uma nevasca catastrófica varre as Planícies do Norte inteiras. Dura meses, mata em massa, seca as nascentes espirituais que sustentam a economia mágica local e faz cada tribo encolher um degrau de porte. O calendário social, econômico e militar da região inteira gira em torno desse relógio de dez anos — e o período imediatamente após a nevasca é a melhor época de crescimento, porque nascentes novas brotam em abundância.
 
 **Cultura e política.** Tribos nômades organizadas por linhagem, com gestão descentralizada e caótica — o que torna a região fácil de infiltrar e difícil de conquistar. Tem a **maior densidade de Mestres Gu de combate do mundo**, forjados por guerra endêmica, e é a segunda região mais forte: a única capaz de resistir a uma invasão do Continente Central e revidar. Curiosamente, é também a região com **menos** imortais de rank 8 e a menor mortalidade entre imortais — muita gente forte na base, pouca no topo.
 
 > [!warning] O que a região não sabe sobre o próprio clima
-> `conhecimento: segredo` — A nevasca decenal não é meteorologia. É o desastre periódico que atingiria um mundo privado de escala colossal, deliberadamente **desviado para o mundo externo** por um artefato do caminho da sorte. Pior: a nevasca funciona como mecanismo de saque, destruindo nascentes e recolhendo Gu de toda a região, que depois reaparecem como recompensas dentro de uma construção pertencente a uma única linhagem. Uma região inteira é sistematicamente ordenhada por um desastre natural que não é natural. Ver [[15 - Vontade dos Céus|Vontade dos Céus]].
+> `conhecimento: segredo` — A nevasca decenal não é meteorologia. É o desastre periódico da **Imperial Court blessed land**, a terra abençoada de escala colossal deixada por *Giant Sun Immortal Venerable* nas Planícies do Norte, **desviado para o mundo externo** pelo Gu Imortal **Divert Disaster** ("desviar desastre"), do caminho da sorte, que é um dos pilares da construção mágica **Eighty-Eight True Yang Building** (Edifício dos Oitenta e Oito Sóis Verdadeiros). Pior: a nevasca funciona como mecanismo de saque, destruindo nascentes espirituais e recolhendo Gu de toda a região, que depois reaparecem como recompensas dentro da própria True Yang Building — ou seja, transferidos para a **linhagem Huang Jin**, os descendentes de sangue do Venerável. Uma região inteira é sistematicamente ordenhada por um desastre natural que não é natural. Ver [[15 - Vontade dos Céus|Vontade dos Céus]].
 
 ### Deserto Ocidental
 
@@ -148,7 +148,7 @@ Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cad
 
 **Cultura e política.** Sistema de clãs, com super clãs que mantêm redes de informação amplas e organizações obscuras nos bastidores. É a **região mais aberta a estrangeiros das cinco** — o extremo oposto da Fronteira Sul. A mentalidade portuária é um traço cultural real e usável: quem chega é avaliado pelo que traz, não pelo sangue.
 
-**Marcos.** A Planície da Ascensão Celeste, uma exceção geográfica notável: em toda parte, os céus são separados da terra por uma muralha de energia que só imortais muito fortes conseguem rasgar; ali existe uma entrada direta, aberta inclusive a mortais. O lugar é saturado de marcas instáveis do caminho do espaço, guarda a herança de um antigo mestre refinador e é disputado por super clãs há mais de um século.
+**Marcos.** A ==**Ascending Heaven Plain**== (Planície da Ascensão ao Céu), uma exceção geográfica notável: em toda parte, os céus são separados da terra por uma muralha de vento celestial que só imortais muito fortes conseguem rasgar; ali existe uma entrada direta para os nove céus imemoriais, aberta inclusive a mortais. O lugar é saturado de marcas instáveis do caminho do espaço, que se reorganizam a todo instante e o tornam mortalmente traiçoeiro, e guarda a herança verdadeira de **Old Eccentric Tian Nan**, o primeiro grão-mestre supremo do caminho do refino. Três super clãs — Song, Ruo Lai e Cai — o disputaram por mais de um século, e o clã Song ficou com a herança.
 
 **A maré de terra.** Fenômeno anual que afina temporariamente a parede regional do Mar Oriental — e que também pode ser induzido artificialmente por uma formação mágica de grande escala. É o principal ponto de permeabilidade do mundo.
 
@@ -165,7 +165,7 @@ Os cinco retratos abaixo são deliberadamente curtos: dão o **caráter** de cad
 ## Regras e limites
 
 - **Abertura a estrangeiros: três extremos nomeados, não um ranking de cinco.** A obra declara apenas as pontas e o meio, e é assim que convém usá-las: a **Fronteira Sul** é a mais fechada, o **Mar Oriental** é o mais aberto, e o **Continente Central** é seletivo — recebe, mas escolhe quem. As Planícies do Norte e o Deserto Ocidental ficam em algum ponto intermediário que a obra nunca ordena; trate-as como você precisar, sem contradizer nada.
-- **Intervir abertamente numa disputa formal de outra região provoca retaliação coletiva regional.** As cinco regiões se detestam e se ignoram, mas fecham fileiras contra ingerência externa. Isso limita drasticamente o alcance real das grandes potências: nem a instituição mais poderosa do mundo age livremente fora do Continente Central, e a parede regional é a razão física disso.
+- **Intervir abertamente numa disputa formal de outra região provoca retaliação coletiva regional.** As cinco regiões se detestam e se ignoram, mas fecham fileiras contra ingerência externa. Isso limita drasticamente o alcance real das grandes potências: nem o [[19 - Tribunal Celestial|Tribunal Celestial]] age livremente fora do Continente Central, e a parede regional é a razão física disso.
 - **Ninguém mapeou a própria região.** Isso não é ignorância dos personagens; é uma propriedade do cenário. Sempre existe mais mundo do que o mapa.
 - **(Antes da Grande Era) Cada Gu Imortal carrega a aura da sua região natal**, e leitores treinados identificam a origem de um desconhecido só por isso. Esta regra **deixa de valer** no mundo unificado — ver a tabela de conversão no fim desta nota.
 

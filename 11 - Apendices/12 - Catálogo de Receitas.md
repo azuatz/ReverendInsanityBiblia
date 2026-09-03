@@ -13,7 +13,7 @@ aliases:
   - Catálogo de Receitas
   - Recipe Catalogue
 status: consolidado
-fontes: ["cap. 8", "cap. 10-11", "cap. 15-23", "cap. 40-47", "cap. 57", "cap. 62-64", "cap. 75-76", "cap. 79-80", "cap. 98-100", "cap. 102-107", "cap. 111-116", "cap. 121-129", "cap. 138", "cap. 143", "cap. 148", "cap. 151-160", "cap. 162-169", "cap. 183-199", "cap. 204", "cap. 212", "cap. 222", "cap. 241-243", "cap. 261-265", "cap. 276-288", "cap. 294-296", "cap. 304-312", "cap. 320-330", "cap. 345", "cap. 351-358", "cap. 373-390", "cap. 400-405", "cap. 429-445", "cap. 452-455", "cap. 465-491", "cap. 496-520", "cap. 526-548", "cap. 564-596", "cap. 630-649", "cap. 667-671", "cap. 707-712", "cap. 735-763", "cap. 811-820", "cap. 836-868", "cap. 889-905", "cap. 926-950", "cap. 970-995", "cap. 1035-1083", "cap. 1103-1132", "cap. 1150-1198", "cap. 1212-1240", "cap. 1273-1299", "cap. 1338", "cap. 1373-1415", "cap. 1435-1487", "cap. 1508-1511", "cap. 1558-1570", "cap. 1755-1758", "cap. 1907-1919", "cap. 2019-2021", "cap. 2077-2080", "cap. 2172-2205", "cap. 2222-2298", "_pipeline/rascunho/catalogo-gu.md", "_pipeline/rascunho/gu-sistema.md", "_pipeline/rascunho/economia-e-vida.md", "_pipeline/rascunho/estudos-de-caso.md"]
+fontes: ["cap. 8", "cap. 10-11", "cap. 15-23", "cap. 40-47", "cap. 57", "cap. 62-64", "cap. 75-76", "cap. 79-80", "cap. 98-100", "cap. 102-107", "cap. 111-116", "cap. 121-129", "cap. 138", "cap. 143", "cap. 148", "cap. 151-160", "cap. 162-169", "cap. 183-199", "cap. 204", "cap. 212", "cap. 222", "cap. 241-243", "cap. 261-265", "cap. 276-288", "cap. 294-296", "cap. 304-312", "cap. 320-330", "cap. 345", "cap. 351-358", "cap. 373-390", "cap. 400-405", "cap. 429-445", "cap. 452-455", "cap. 465-491", "cap. 496-520", "cap. 526-548", "cap. 564-596", "cap. 630-649", "cap. 667-671", "cap. 707-712", "cap. 735-763", "cap. 811-820", "cap. 836-868", "cap. 889-905", "cap. 926-950", "cap. 970-995", "cap. 1035-1083", "cap. 1103-1132", "cap. 1150-1198", "cap. 1212-1240", "cap. 1273-1299", "cap. 1338", "cap. 1373-1415", "cap. 1435-1487", "cap. 1508-1511", "cap. 1558-1570", "cap. 1755-1758", "cap. 1907-1919", "cap. 2019-2021", "cap. 2077-2080", "cap. 2172-2205", "cap. 2222-2298", "cap. 194", "cap. 860", "cap. 2077", "cap. 2328", "_pipeline/rascunho/catalogo-gu.md", "_pipeline/rascunho/gu-sistema.md", "_pipeline/rascunho/economia-e-vida.md", "_pipeline/rascunho/estudos-de-caso.md"]
 conhecimento: especializado — a existência de receitas e o funcionamento básico da fusão é conhecimento comum; o conteúdo de qualquer receita específica é segredo de clã, seita ou herança
 ---
 
@@ -171,13 +171,19 @@ esfera com [[02 - Pedras Primordiais|Pedras Primordiais]] até ela se dissipar e
 quando uma entrada abaixo diz apenas "fusão de A com B", ela já é quase acionável: o
 que falta costuma ser o custo em pedras, a taxa de sucesso e os catalisadores.
 
-## A linhagem lunar — a assinatura de um clã
+## A linhagem lunar — a assinatura do clã Gu Yue
 
 Vale começar por esta porque é o exemplo mais completo que a obra oferece de um clã
-inteiro construído sobre uma receita.
+inteiro construído sobre uma receita: o **clã Gu Yue** ("Lua Antiga"), da Fronteira Sul.
 
 O Gu-raiz da linhagem, o **Moonlight Gu** (rank 1), não é uma criatura selvagem que
-alguém domou: foi **criado por fusão reversa** pelo primeiro líder do clã. Fusão
+alguém domou: foi **criado por fusão reversa** pelo primeiro líder do clã Gu Yue, por um
+método secreto. A obra é explícita sobre o que isso significa na prática: **o Moonlight Gu
+não se encontra em nenhum outro lugar do mundo** e é o símbolo do clã — a maioria dos
+jovens do clã o escolhe como Gu vital na cerimônia de despertar, e as aulas de combate são
+dadas em cima dele. E não é um caso isolado: a mesma cena registra que a Casa Xiong tem o
+*Bear Strength Gu* como Gu simbólico e a Casa Bai tem o *Stream Gu* — cada família de peso
+tem o seu. Fusão
 reversa é a técnica de reverter um Gu de rank alto para uma forma inferior — e o
 resultado pode ser uma espécie inteiramente nova, que ninguém mais no mundo possui.
 É assim que clãs fabricam Gu exclusivos: não descobrindo espécies raras, mas
@@ -185,7 +191,7 @@ inventando-as de cima para baixo, e depois guardando a receita.
 
 | Gu resultante | Rank | O que se sabe | Completude |
 |---|---|---|---|
-| **Moonlight Gu** | 1 | Nasceu de uma fusão reversa executada pelo fundador do clã. Não se diz de qual Gu superior ele foi revertido, nem por qual método. | **Fragmento** — só a origem |
+| **Moonlight Gu** | 1 | Nasceu de uma fusão reversa executada pelo fundador do clã Gu Yue, por método secreto do clã. Não se diz de qual Gu superior ele foi revertido, nem por qual método. | **Fragmento** — só a origem |
 | **Moonglow Gu** | 2 | Fusão de um Moonlight Gu com **dois** Little Light Gu. O efeito não é aditivo: o resultado triplica o dano, em vez de somá-lo. | **Parcial** — faltam custo e taxa de sucesso |
 | **Moon Raiment** | 2 | Fusão de Moonlight Gu com Jade Skin Gu. Troca ofensiva por defesa em área. | **Parcial** — só os componentes |
 | **Moon Scar Gu** | — | Fusão de Moonlight Gu com Stone Scar Gu. Mantém o dano e dobra o alcance. | **Parcial** — só os componentes |
@@ -227,7 +233,7 @@ desenvolvia morreu antes de terminar a pesquisa do rank 5. A receita nunca exist
 | **Nine Eyes Liquor Worm** | 4 | **Dois** Seven Fragrances Liquor Worms mais os **globos oculares de nove reis-de-cem-bestas de espécies diferentes**. O custo registrado de uma execução foi de quase duzentas mil pedras primordiais. Terceira repetição do mesmo padrão — e a que explica por que a linhagem fica cara depressa: o insumo deixa de ser comprável e passa a exigir nove caçadas distintas. | **Completa** |
 | *(versão rank 5)* | 5 | **Não existe.** A pesquisa foi interrompida pela morte do responsável. | **Fragmento** — a ausência é o fato |
 | **White Chrysalis** → **Mist Perspiring Butterfly** | 2 → 3 | A rota alternativa, que **perde** o refino de essência. Serve de contraexemplo documentado. | **Fragmento** — só a cadeia e a perda |
-| **Moon Harbinger Gu** | 2 | Terceira rota de evolução do Liquor Worm, mantida pelo clã. | **Fragmento** — só a existência da rota |
+| **Moon Harbinger Gu** | 2 | Terceira rota de evolução do Liquor Worm, mantida pelo clã Gu Yue. | **Fragmento** — só a existência da rota |
 
 > [!note] Para o design
 > "A receita de rank 5 não existe porque o pesquisador morreu" é um gancho de campanha
@@ -247,7 +253,7 @@ desenvolvia morreu antes de terminar a pesquisa do rank 5. A receita nunca exist
 | **Steel Mane Gu** | 3 | Evolui do Black Mane Gu. | **Fragmento** — só o Gu-base |
 | **Beast Skin Gu** | 1 | Não é uma receita, e sim uma observação de mercado: é o Gu de defesa mais comum e o que possui **mais rotas de fusão documentadas** de toda a série. Nenhuma delas é listada. | **Fragmento** — só a abundância de rotas |
 | **Scale Armor Gu** | — | Uma das duas rotas conhecidas do Fish Scale Gu, que a obra trata explicitamente como "material de fusão". | **Fragmento** — só a existência da rota |
-| **Blood Curtain Skyflower Gu** | 5 | Versão criada pelo fundador do clã a partir do Water Curtain Skyflower Gu (rank 4), corrigindo a falha do original: o criador pode sair da esfera, embora não possa reentrar. | **Fragmento** — só a origem e a diferença |
+| **Blood Curtain Skyflower Gu** | 5 | Versão fundida pessoalmente pelo fundador do clã Gu Yue a partir do Water Curtain Skyflower Gu (rank 4), corrigindo a falha do original: o criador pode sair da esfera, embora não possa reentrar. | **Fragmento** — só a origem e a diferença |
 
 A "presa de rei-javali" merece um parágrafo próprio, porque é o exemplo mais claro de
 como o conhecimento de receitas realmente avança neste mundo. O catalisador funciona,
@@ -358,19 +364,25 @@ Uma categoria que é fácil esquecer e que estrutura o sistema inteiro: alguns G
 - **Gu selvagens de rank alto** em geral entram no mundo por captura, não por
   produção. Ver [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] e [[09 - Aposta de Rochas|Aposta de Rochas]].
 
-E há um caso ainda mais estranho no topo da escala: um Gu lendário de rank 9 que **não
-pode ser refinado de forma alguma** — não porque seja difícil, mas porque refiná-lo o
-**inutiliza**. Ele precisa permanecer selvagem, absorvendo livremente a energia do
-ambiente, para funcionar como núcleo de uma formação. É o inverso exato de tudo o mais
-neste catálogo: aqui, domesticar destrói.
+E há um caso ainda mais estranho no topo da escala: o **Derivation Gu** (rank 9) — o mesmo
+Gu que, no mito fundador, devorou o Ancestral Humano e os dez filhos e cujo estômago
+arrebentado espalhou a vida pelo mundo. Ele **não pode ser refinado de forma alguma** — não
+porque seja difícil, mas porque refiná-lo o **inutiliza**. Precisa permanecer selvagem,
+absorvendo livremente a energia do ambiente, para servir de núcleo à formação da **Crazed
+Demon Cave** e à formação de derivação, que acelera o desenvolvimento de um caminho de
+cultivo inteiro. É o inverso exato de tudo o mais neste catálogo: aqui, domesticar destrói.
 
 No sentido contrário, a obra também registra Gu que **aparecem sem que ninguém os
 fabrique**:
 
-- Um Gu Imortal de rank 8 nasceu espontaneamente dentro do corpo de um cultivador como
-  reação da própria ordem do mundo a um massacre que ele cometera — nenhum refino
-  deliberado esteve envolvido. É a demonstração mais explícita de que um caminho de
-  cultivo inteiro pode nascer sem autor.
+- O **Kill Immortal Gu** (rank 8), o Gu-núcleo do **caminho da matança** (*killing path*),
+  refinou-se sozinho **dentro do corpo do Spectral Soul Demon Venerable** — que naquele
+  momento já não estava lúcido e não o refinou deliberadamente. O mundo leu aquilo como
+  sinal de que um caminho novo estava prestes a nascer, e a reação foi política: outro
+  Venerável mandou os seus se afastarem da região. É a demonstração mais explícita de que
+  um caminho de cultivo inteiro pode nascer sem autor — e o detalhe irônico é que esse
+  mesmo Venerável havia tentado criar o caminho da matança deliberadamente, na juventude,
+  e fracassado, acabando por criar o caminho da alma em seu lugar.
 - Quando um Gu Imortal de rank alto é destruído ou consumido, um Gu selvagem
   equivalente de rank **inferior** pode surgir espontaneamente em outro ponto do mundo.
   A justificativa que a obra dá é a lei de que vida e morte coexistem.
@@ -452,9 +464,15 @@ especializadas — o quadro completo do ofício está em [[08 - Refinement Path|
 
 - **Estilo do isolamento humano.** O refinador trabalha sozinho, sem assistência
   ambiental. Taxa de sucesso mais baixa, mas seguro.
-- **Estilo do céu e da terra.** Técnica racial de um povo antigo: refina-se ao ar
-  livre, aproveitando as marcas de lei do próprio terreno e usando fenômenos naturais
-  como ferramenta. Exige compreensão profunda de astrologia e de veios de terra —
+- **Estilo do céu e da terra** (*nature Gu refinement technique*). Técnica racial dos
+  **homens peludos** (*hairy men*), e a obra explica por que é deles: eles **nascem com
+  marcas de dao do caminho do refino no corpo**, e o caminho do refino **originou-se com
+  eles** — a acumulação da raça no ofício é dezenas de vezes mais profunda que a humana,
+  embora muito desse conhecimento tenha se perdido quando os humanos os massacraram.
+  Refina-se ao ar livre, aproveitando as marcas de lei do próprio terreno e usando
+  fenômenos naturais como ferramenta. Os números que a obra dá para um praticante de
+  grande sucesso são absurdos perto da média: **quatro em dez** no rank 6 e **um em vinte**
+  no rank 7, contra menos de um por cento e um em mil da média mundial. Exige compreensão profunda de astrologia e de veios de terra —
   cerca de cento e trinta anos de prática para um domínio mediano, mais de duzentos
   para o domínio pleno. O efeito colateral é sério: o processo **atrai calamidades e
   tribulações** durante o próprio refino, o que só um imortal sobrevive com folga.
@@ -515,7 +533,7 @@ chega a **quantificar** o quanto falta em algumas delas, o que é um presente ra
 | **Beggar Gu** e **Merchant Gu** | **incompletas, abandonadas** | Se funcionassem, dariam mão de obra sem risco de traição. Foram abandonadas por **falta de domínio** no caminho humano — não por falta de materiais. |
 | **Wealth Gu** (versão imortal) | **rara e incompleta** | Duas campanhas de tentativas estão registradas — uma de **oitenta e nove** tentativas por sacrifício humano, outra de mais de **cem** —, ambas sem sucesso. O desfecho é instrutivo: ninguém completou a receita imortal, mas alguém conseguiu deduzir por engenharia reversa uma **versão mortal de rank 5**, consumível, que se transforma em qualquer material de rank 5. E passou a vendê-la em doses pequenas e espaçadas, de propósito, para que nenhum comprador juntasse exemplares suficientes para reconstruir a receita imortal a partir dela. |
 | **Sole Blade Gu** | **receita perdida** | O Gu existe; a receita não. Ignora todas as defesas do mesmo rank e reside na arma em vez de no corpo, sobrevivendo à morte do dono. |
-| **Space Escape Gu** | **executada e falhada** | Um mestre lendário tentou refiná-la sob encomenda; o exemplar produzido **não pôde ser ativado**, e o pagamento foi parcialmente devolvido. Falha de produto, não de processo. |
+| **Space Escape Gu** | **executada com sucesso, produto inútil** | O caso mais instrutivo do catálogo. A receita foi pesquisada pelo **Thieving Heaven Demon Venerable**, que queria entrar na lendária **Space Door**, e executada pelo **Long Hair Ancestor**, o maior refinador da história, com melhorias sugeridas por ele — os dois trabalharam **vinte e um anos** e **refinaram o Gu com sucesso**. O Gu ficou pronto e podia ser acionado normalmente; simplesmente **não entrava na Porta do Espaço**, e nem o refinador nem o Venerável descobriram por quê. Ficou como o único fracasso da vida do Long Hair Ancestor, e ele tentou compensar refinando mais nove Gu de graça. **Falha de concepção, não de processo** — e a prova de que uma receita pode estar tecnicamente correta e ainda assim não produzir o efeito pretendido. |
 | **Extreme Light Gu** | **exemplar destruído** | Era a única fonte conhecida de um material específico. Morto o hospedeiro, a fonte acabou. |
 
 > [!note] Para o design
@@ -548,9 +566,11 @@ transforma um punhado de indivíduos em recursos estratégicos ambulantes.
 As marcas são distribuídas aos seis primeiros colocados de um evento periódico — uma
 marca cada. Ver [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]].
 
-Existe também um mecanismo de segunda chance: uma estrutura lendária capaz de
-**re-refinar automaticamente um Gu Imortal já destruído**, desde que se preserve uma
-insígnia de um refino anterior bem-sucedido. A taxa fica entre cinquenta e sessenta
+Existe também um mecanismo de segunda chance: o **Regret Pool** (Lago do Arrependimento),
+uma das **três piscinas lendárias do mundo** — as outras duas são o *Heavenly Pool* e o
+*Wine Pool*. Todo Gu Imortal refinado com sucesso dentro dele deixa uma **insígnia**; se
+esse Gu for depois destruído, o Regret Pool pode ser acionado e, usando a força de um
+afluente do **Rio do Tempo** mais a insígnia preservada, **refina o Gu de novo**. A taxa fica entre cinquenta e sessenta
 por cento, a insígnia é consumida a cada uso, e a estrutura é imóvel e praticamente
 indefesa depois de instalada. Na prática funcionou apenas em parte: a maioria dos
 resultados saiu num caminho diferente do pretendido.
@@ -982,7 +1002,7 @@ sistema.
 
 | Recurso | O que faz |
 |---|---|
-| **Terra sagrada dos mestres de refino** | Um local específico do mundo onde se refina com mais segurança. É território, não item — e por isso é objeto de política. |
+| **Land of Bu Bai** (Terra de Bu Bai) | A **terra sagrada dos mestres de refino**, no Continente Central: é a herança de Bu Bai, e refinar lá dentro é o método mais seguro que existe. É território, não item — e por isso é objeto de política. Para quem está nas outras quatro regiões, a distância a torna, na prática, inalcançável: é um recurso que existe e que quase ninguém pode usar. |
 | **Gu de cem batalhas invictas** (rank 5, uso único) | **Garantia total**: assegura o sucesso do refino em andamento. Está extinto. |
 | **Gu dos restos da montanha verde** (rank 4) | Protege o Gu-núcleo mesmo quando o refino falha. |
 | **Gu do sucesso imediato** | Eleva a taxa de sucesso. Custa mais que um Gu de relíquia de alto rank. |

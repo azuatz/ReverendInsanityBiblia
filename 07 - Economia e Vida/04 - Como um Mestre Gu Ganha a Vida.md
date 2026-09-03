@@ -7,7 +7,7 @@ aliases:
   - Making a Living as a Gu Master
   - Gu Master income
 status: consolidado
-fontes: ["cap. 12", "cap. 26", "cap. 39-45", "cap. 53-55", "cap. 64", "cap. 88-91", "cap. 102", "cap. 109-113", "cap. 119-120", "cap. 124", "cap. 132-133", "cap. 146-147", "cap. 155", "cap. 161", "cap. 209", "cap. 234", "cap. 240-249", "cap. 276-282", "cap. 289", "cap. 304-309", "cap. 315-327", "cap. 335", "cap. 354", "cap. 441", "cap. 459", "cap. 501", "cap. 516-522", "cap. 540", "cap. 663", "cap. 682", "cap. 702", "cap. 731-732", "cap. 779", "cap. 838", "cap. 1470", "cap. 1818", "cap. 2012-2015"]
+fontes: ["cap. 12", "cap. 26", "cap. 39-45", "cap. 53-55", "cap. 64", "cap. 88-91", "cap. 102", "cap. 109-113", "cap. 119-120", "cap. 124", "cap. 132-133", "cap. 146-147", "cap. 155", "cap. 161", "cap. 183", "cap. 209", "cap. 234", "cap. 240-249", "cap. 276-282", "cap. 289", "cap. 304-309", "cap. 315-327", "cap. 335", "cap. 354", "cap. 407", "cap. 441", "cap. 459", "cap. 501", "cap. 516-522", "cap. 540", "cap. 663", "cap. 682", "cap. 702", "cap. 731-732", "cap. 779", "cap. 838", "cap. 1470", "cap. 1818", "cap. 2012-2015"]
 conhecimento: comum
 ---
 
@@ -157,8 +157,13 @@ Profissões vizinhas, todas documentadas:
 - **Mestre de escravização de feras** — caríssimo de manter; só organizações grandes
   sustentam dois ou três.
 - **Corretor de informação** — vende dossiês, resultados de competições passadas,
-  fofoca política. Existe uma seita inteira construída sobre esse único negócio, erguida
-  do zero à relevância regional em cerca de um século. A escala de preço é ampla e
+  fofoca política. A ==Seita da Informação-Relâmpago== (*Lightning Information Sect*), do
+  Continente Central, é uma super força inteira construída sobre esse único negócio, erguida do
+  zero em pouco mais de um século por um homem só — um imortal expulso de uma das dez grandes
+  seitas, com o cultivo destruído, que recomeçou pelo caminho da informação. Hoje as próprias dez
+  compram informação dela. Vendedores uniformizados circulam nos grandes eventos oferecendo
+  dossiês, dão de graça a celebridades para cultivar relação e **pagam material imortal por
+  entrevistas**. A escala de preço é ampla e
   documentada: um boletim com a previsão de um analista sobre um torneio sai por dez
   pedras; uma gravação comprometedora, por dois mil; o segredo de que a nascente de um clã
   está secando, por três milhões.
@@ -218,8 +223,8 @@ um Gu do perdedor — e tudo, se o perdedor morrer. Matar é permitido, mas malv
 - **Renda:** milhares de pedras por luta, proporcional ao público. Um lutador de elite
   acumulou cerca de um milhão de pedras em ano e meio, e mais que o dobro disso em
   patrimônio total contando especulação.
-- **Efeito colateral valioso:** dominar a arena de certa cidade-mercado transforma um
-  cultivador demoníaco em ancião externo daquele clã — uma porta institucional de
+- **Efeito colateral valioso:** subir até o topo da arena da cidade do **clã Shang**, na
+  Fronteira Sul, transforma um cultivador demoníaco em ancião externo daquele clã — uma porta institucional de
   reabilitação social. Ver [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 - Casas de aposta sobre a arena podem ser **proibidas**, justamente para não corromper
   essa função; já o negócio de informação sobre lutadores é livre e lucrativo.
@@ -234,9 +239,10 @@ berço.
 - **Renda:** de nada a tudo. A distribuição é violentamente desigual.
 - **Risco:** letal, e pior no caminho demoníaco, cujas heranças são traiçoeiras por
   projeto.
-- **Ruído no mercado:** existem heranças-chamariz espalhadas às centenas de milhares por
-  uma figura histórica; uma potência comercial inteira, ao longo de gerações, encontrou
-  apenas duas verdadeiras.
+- **Ruído no mercado:** o Ancestral do Mar de Sangue (*Blood Sea Ancestor*), criador do
+  [[03 - Blood Path|caminho do sangue]], espalhou centenas de milhares de heranças-chamariz pelas
+  cinco regiões, escondendo entre elas apenas **nove verdadeiras**; o clã Shang, a maior casa
+  mercantil da Fronteira Sul, procurou-as por gerações e achou **duas**.
 - **Renda indireta:** vender a *localização* de uma herança pode ser mais lucrativo e
   infinitamente mais seguro que explorá-la — e a mesma informação pode ser vendida duas
   vezes, a compradores rivais.
@@ -316,8 +322,9 @@ a saída da roda-viva, e a obra documenta quatro portas para ela.
 - **Ser dono de uma nascente espiritual.** Uma nascente pequena produz mais de **cem
   milhões de pedras** ao longo dos cinquenta a sessenta anos de vida útil. É por isso que
   clã e nascente são, no fundo, a mesma coisa.
-- **Ser dono da versão portátil dela.** Existe um Gu de rank 3 que condensa uma nascente
-  inteira e produz **cinquenta pedras por dia**, para sempre, sem consumir nada. Cinquenta
+- **Ser dono da versão portátil dela.** O ==Heavenly Essence Treasure Lotus== (Lótus do Tesouro
+  da Essência Celeste), Gu-flor de rank 3 apelidado no mundo de "nascente espiritual portátil",
+  produz **cinquenta pedras por dia**, para sempre, sem consumir nada. Cinquenta
   por dia é cerca de dez vezes o custo de vida de um Mestre Gu de rank baixo: um único Gu
   aposenta um personagem inteiro. Extraí-lo, porém, mata a nascente de onde ele veio — a
   troca da renda perpétua de uma comunidade por um ativo único e móvel.

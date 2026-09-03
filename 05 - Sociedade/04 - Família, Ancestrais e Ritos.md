@@ -160,9 +160,10 @@ direito a **uma esposa e duas concubinas**, e a obra lista isso entre os privil�
 junto com direito a um Gu de rank 3 e acesso às receitas do clã. O número de cônjuges é parte
 da remuneração.
 
-No topo, a escala explode: um Venerável histórico teve dezenas de milhões de concubinas, e as
-grandes seitas do Continente Central **enviavam Mestras Gu formosas como oferta** para os
-aposentos dele. Registre-se sem enfeite, porque é ambientação: o casamento no alto nível é um
+No topo, a escala explode: *Giant Sun Immortal Venerable*, de natureza declaradamente
+dissoluta, construiu cinco grandes câmaras de repouso e teve **dezenas de milhões de
+concubinas**, e as grandes seitas do Continente Central **enviavam Mestras Gu formosas como
+oferta** para os aposentos dele. Registre-se sem enfeite, porque é ambientação: o casamento no alto nível é um
 canal de tributo.
 
 **Como se casa.**
@@ -271,8 +272,9 @@ claros:
 - **Ao fim, a família despede os convidados na saída**, e estar de pé ao lado dos anfitriões
   naquele momento é, por si só, uma declaração pública de posição.
 
-**E há culturas com outra regra.** O clã que se especializou em justiça tem um costume próprio
-e explícito: *os membros do clã são enterrados onde caem*, e morrer em batalha é a maior honra.
+**E há culturas com outra regra.** O **clã Tie**, o clã de investigação e justiça da Fronteira
+Sul, tem um costume próprio e explícito: *os membros do clã são enterrados onde caem*, e morrer
+em batalha é a maior honra.
 Não há repatriação do corpo.
 
 ## O que se acredita sobre depois
@@ -312,7 +314,7 @@ adoração, joelhos dobrados, gratidão desproporcional, títulos. É a religiã
 ela é laica.
 
 **3. O culto aos Veneráveis mortos.** Existe e é literal. Em muitos vilarejos da Fronteira do
-Sul, mortais **modelam estátuas de barro** de um dos Veneráveis Demônios e **rezam a elas
+Sul, mortais **modelam estátuas de barro de *Spectral Soul Demon Venerable*** e **rezam a elas
 durante festas e oferendas**. O detalhe que dá o tom do mundo: essa figura foi a existência
 mais destrutiva da história, e é o objeto de devoção popular de camponeses — não por
 desinformação, mas porque poder é o que se venera. Ver
@@ -368,9 +370,9 @@ precedido de oração aos ancestrais. É por isso que a nota começa onde a obra
 
 A obra nomeia festas de três tipos, e todas as três são anuais.
 
-**A festa de fundação.** O grande clã comercial da Fronteira do Sul celebra anualmente a
-Festa Auspiciosa, que comemora o dia em que o ancestral fundador **montou uma banca pela
-primeira vez**, milhares de anos atrás. O formato é ótimo e é fácil de usar:
+**A festa de fundação.** O **clã Shang**, o grande clã mercador da Fronteira Sul, celebra
+anualmente a Festa Auspiciosa, que comemora o dia em que o ancestral fundador **montou uma
+banca pela primeira vez**, milhares de anos atrás. O formato é ótimo e é fácil de usar:
 
 - a cidade interna se enche de lanternas e faixas coloridas;
 - **todas as grandes lojas, casas de prazer e restaurantes fecham** naquele dia;

@@ -475,10 +475,13 @@ Duas limitações que salvam o caminho de ser onipotente:
 
 ## Praticantes notáveis (sem enredo)
 
-- **A Venerável Imortal Constelação Estelar** — rank 9, criadora do caminho há cerca de três
-  milhões de anos, e a segunda a reinar na Corte Celestial. Diz-se que ela "empunhou o próprio
-  Gu da Sabedoria". Sua vontade residual continua ativa até hoje, e as contramedidas que ela
-  deixou operaram por séculos após sua morte.
+- **Star Constellation Immortal Venerable** (Venerável Imortal Constelação Estelar) — rank 9,
+  criadora do caminho há cerca de três milhões de anos, discípula do Primordial Origin Immortal
+  Venerable e a segunda a reinar no [[19 - Tribunal Celestial|Tribunal Celestial]]. Diz-se que ela
+  "empunhou o próprio Gu da Sabedoria". Ela criou também o [[19 - Star Path|caminho da estrela]],
+  sua especialidade. Sua vontade residual continua ativa até hoje: as contramedidas que ela deixou
+  operaram por séculos após a morte dela, e a obra registra deduções feitas por essa vontade
+  **mais de um milhão de anos** depois.
 - O caminho tem uma casa de Gu que é o instrumento número um da escola, capaz de multiplicar
   a capacidade dedutiva de quem a opera.
 

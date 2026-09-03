@@ -10,7 +10,7 @@ aliases:
   - Gu storage
   - Gu outside the aperture
 status: verificado-no-texto
-fontes: ["cap. 8", "cap. 41", "cap. 57", "cap. 62", "cap. 70", "cap. 75", "cap. 159", "cap. 161", "cap. 186", "cap. 202", "cap. 204", "cap. 222", "cap. 273", "cap. 283", "cap. 313", "cap. 346", "cap. 397", "cap. 424", "cap. 459", "cap. 500", "cap. 582", "cap. 650", "cap. 671", "cap. 969", "cap. 1027", "cap. 1058", "cap. 1077", "cap. 1094", "cap. 1252", "cap. 1477", "cap. 1750", "cap. 5", "cap. 6", "cap. 20", "cap. 22", "cap. 29", "cap. 132", "cap. 387", "cap. 398-405", "cap. 575"]
+fontes: ["cap. 8", "cap. 41", "cap. 57", "cap. 62", "cap. 70", "cap. 75", "cap. 159", "cap. 161", "cap. 186", "cap. 202", "cap. 204", "cap. 222", "cap. 273", "cap. 283", "cap. 313", "cap. 346", "cap. 397", "cap. 424", "cap. 459", "cap. 500", "cap. 582", "cap. 650", "cap. 671", "cap. 969", "cap. 1027", "cap. 1058", "cap. 1077", "cap. 1094", "cap. 1252", "cap. 1477", "cap. 1750", "cap. 5", "cap. 6", "cap. 20", "cap. 22", "cap. 29", "cap. 132", "cap. 387", "cap. 398-405", "cap. 575", "cap. 1070"]
 conhecimento: comum
 ---
 
@@ -201,11 +201,11 @@ por estar lá. Os registros são inequívocos:
 - e, quando a abertura já abriga um Gu Imortal, o teto vira absoluto: ela ainda comporta
   "alguns Gu mortais", mas **conter um segundo Gu Imortal é impossível**.
 
-Há uma exceção conhecida, e ela é artificial: um tipo especial de abertura fabricada, que
-não pode ser cultivada nem desenvolvida como as normais e precisa ser reabastecida
+Há uma exceção conhecida, e ela é artificial: a ==abertura fantasma (phantom aperture)==, o órgão de bolso que o [[19 - Tribunal Celestial|Tribunal Celestial]] entrega a quem lhe cedeu a própria abertura imortal. Ela só **armazena** — essência, Gu e vontade —, não
+pode ser cultivada nem desenvolvida como as normais e precisa ser reabastecida
 periodicamente, mas em compensação **guarda um Gu Imortal de qualquer nível sem risco de
 estourar** — inclusive um de rank 9. Poder de armazenamento comprado ao preço de não
-poder crescer.
+poder crescer. Detalhes em [[15 - Essência Imortal#O caso especial: a abertura fantasma|Essência Imortal]].
 
 | Fator | Efeito sobre quanto cabe | Confiabilidade |
 |---|---|---|

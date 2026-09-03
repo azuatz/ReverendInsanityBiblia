@@ -4,7 +4,7 @@ tags:
 aliases:
   - Soul Path
 status: consolidado
-fontes: ["cap. 366", "cap. 379", "cap. 398", "cap. 411", "cap. 412", "cap. 422", "cap. 442", "cap. 443", "cap. 457", "cap. 477", "cap. 501", "cap. 508", "cap. 511", "cap. 517", "cap. 532", "cap. 535", "cap. 540", "cap. 598", "cap. 599", "cap. 771", "cap. 772", "cap. 806", "cap. 808", "cap. 870", "cap. 877", "cap. 880", "cap. 883", "cap. 903", "cap. 909", "cap. 953", "cap. 986", "cap. 996", "cap. 997", "cap. 1009", "cap. 1011", "cap. 1185", "cap. 1198", "cap. 1257", "cap. 1405", "cap. 1448", "cap. 1471"]
+fontes: ["cap. 366", "cap. 379", "cap. 398", "cap. 411", "cap. 412", "cap. 422", "cap. 442", "cap. 443", "cap. 457", "cap. 477", "cap. 501", "cap. 508", "cap. 511", "cap. 517", "cap. 532", "cap. 535", "cap. 540", "cap. 598", "cap. 599", "cap. 771", "cap. 772", "cap. 806", "cap. 808", "cap. 870", "cap. 877", "cap. 880", "cap. 883", "cap. 903", "cap. 909", "cap. 953", "cap. 986", "cap. 996", "cap. 1549", "cap. 997", "cap. 1009", "cap. 1011", "cap. 1185", "cap. 1198", "cap. 1257", "cap. 1405", "cap. 1448", "cap. 1471", "cap. 2197"]
 conhecimento: comum
 ---
 
@@ -31,8 +31,11 @@ movimento — mais uma sétima que é só dele: **escravizar fantasmas**.
 
 Historicamente, teve um auge assustador: em determinado momento, **cinco em cada dez Mestres
 Gu** o cultivavam. Os massacres praticados por seus adeptos criaram um comércio de almas que
-existiu abertamente. Depois, uma figura de rank 9 o suprimiu **por meios pacíficos** — e hoje
-a venda de almas é rara e clandestina até no maior mercado do mundo.
+existiu abertamente. Depois, o **Paradise Earth Immortal Venerable** o suprimiu **por meios
+pacíficos** — e hoje a venda de almas é rara e clandestina até no maior mercado do mundo. A
+supressão, porém, foi de costume e não de conhecimento: o
+[[19 - Tribunal Celestial|Tribunal Celestial]] continua tendo domínio profundíssimo do caminho
+e muitos imortais de alma.
 
 ## Mecânicas típicas
 
@@ -41,13 +44,19 @@ a venda de almas é rara e clandestina até no maior mercado do mundo.
 O caminho tem **duas terras sagradas**, e a classificação foi feita pelo próprio fundador. A
 distinção entre elas é o eixo conceitual do caminho inteiro:
 
-- **A montanha que FORTALECE a alma** — aumenta a **quantidade**. Produz o Gu que é o número
-  um mundial em fortalecimento de alma.
-- **O vale que REFINA a alma** — melhora a **qualidade** e o tipo. Foi selado por um dos
-  grandes ladrões da história, e entrar nele exige um Gu específico.
+- **A Montanha Dang Hun** (*Dang Hun Mountain*), que **FORTALECE** a alma — aumenta a
+  **quantidade**. Nela se quebram as *pedras-de-coragem* (*gutstones*), que produzem o **Gu da
+  Coragem**, número um mundial em fortalecimento de alma. As pedras não podem ser transportadas:
+  é preciso ir até lá.
+- **O Vale Luo Po** (*Luo Po Valley*), que **REFINA** a alma — melhora a **qualidade** e o tipo.
+  Foi selado pelo **Thieving Heaven Demon Venerable**, e por isso os métodos normais não abrem:
+  é preciso um **Gu de Abrir a Porta** (*open door Gu*) de rank 5 para entrar, e um **Gu de Fechar
+  a Porta** de rank 5 para tornar a fechar a passagem atrás de si e impedir que outros a usem.
 
-Possuir as duas equivale, nas palavras do próprio fundador, a **dominar o mundo** neste
-caminho.
+Possuir as duas equivale, nas palavras do próprio Spectral Soul, a **dominar o mundo** neste
+caminho. Existe ainda um terceiro lugar da mesma família, o **Lago que Apazigua a Alma**
+(*Pacifying Soul Lake*): quem tivesse os três conseguiria, em tese, restringir por completo
+qualquer método do caminho da alma.
 
 A fundação de alma de um cultivador é medida numa escala própria — contada em "almas de
 homem", subindo por ordens de grandeza até números astronômicos. É um segundo medidor de
@@ -73,8 +82,9 @@ O uso mais extremo do caminho: um praticante supremo **fragmenta a própria alma
 independentes, cada um operando como um cultivador imortal completo, ligados por
 reconhecimento mútuo.
 
-Não são clones nem servos: são **você**, em várias pessoas ao mesmo tempo. É a base de uma
-das organizações mais perigosas do mundo.
+Não são clones nem servos: são **você**, em várias pessoas ao mesmo tempo. É a base da
+**Seita das Sombras** (*Shadow Sect*), a organização em que os "membros" são fragmentos de alma
+de um mesmo praticante — e que por isso é impossível de infiltrar ou de virar por dentro.
 
 O procedimento é mais difícil que qualquer golpe combinado padrão: a alma precisa **sair do
 corpo e deixar para trás pensamentos e vontades** para continuar manipulando os Gu à
@@ -410,13 +420,16 @@ Três limites importantes o impedem de ser dominante:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco da Alma Espectral** — rank 9, criador formal do caminho e a figura
-  com mais mortes em toda a história registrada. Gu de alma já existiam desde a era imemorial,
+- **Spectral Soul Demon Venerable** (Venerável Demoníaco da Alma Espectral) — rank 9, criador
+  formal do caminho e a figura com mais mortes em toda a história registrada. Ele não queria
+  criar este caminho: queria o **caminho da matança**, falhou, e o caminho da alma é o
+  subproduto do fracasso. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]]. Gu de alma já existiam desde a era imemorial,
   mas o **caminho** é obra dele. Sua imagem, com três cabeças e mil braços, ainda é objeto de
   culto entre mortais de uma região inteira.
-- **O Venerável que o suprimiu** — figura de rank 9 que reduziu o caminho da alma por meios
+- **Paradise Earth Immortal Venerable** — o rank 9 que reduziu o caminho da alma por meios
   pacíficos, não por guerra. É um dos poucos casos na obra em que um caminho declina por
-  política em vez de por esgotamento de recursos.
+  política em vez de por esgotamento de recursos — e a supressão nunca chegou a apagar o
+  conhecimento, apenas a empurrá-lo para dentro das instituições.
 
 ## Relações
 

@@ -357,8 +357,12 @@ ofensivo e combate um-contra-muitos**, e por domínio submarino.
 
 **É o único elemental com criador nomeado além da madeira** — e a passagem que o nomeia é a
 mais importante do domínio inteiro, porque explica o que "criar um caminho" significa (ver a
-regra 1 acima). O fundador de uma casa de cultivo célebre finalizou o caminho na Antiguidade
-Medieval, depois de eras em que Gu selvagens de água já existiam aos milhares.
+regra 1 acima). Quem o criou foi **Shui Ni**, a fundadora da **Casa da Afinidade Espiritual**
+(*Spirit Affinity House*), uma das dez grandes seitas antigas do Continente Central — que
+cultiva o caminho da água até hoje justamente por isso. Ela **finalizou** o caminho na
+Antiguidade Medieval, "depois de considerar todos os aspectos", numa época em que Gu selvagens
+de água já existiam aos milhares desde a antiguidade imemorial. É a demonstração canônica de que
+criar um caminho não é inventar os Gu: é **organizar em doutrina** o que o mundo já produzia.
 
 **A série progressiva.** A água tem o exemplo mais limpo de **linha evolutiva de Gu** que a obra
 oferece — rank 3 → 4 → 5 → 6 imortal, todos variações do mesmo tema de "rastro de água" e
@@ -453,9 +457,11 @@ que é a essência do caminho da madeira*.
 Portanto: **madeira = abundância de recurso + cura**. É o caminho da vitalidade e da sustentação,
 não do dano.
 
-**Criador nomeado e inequívoco:** um dos primeiros três Veneráveis da história, que era ele mesmo
-um Venerável de rank 9 do caminho da madeira, e que continuou criando golpes de madeira **depois**
-de já ser Venerável. Ver [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].
+**Criador nomeado e inequívoco:** o **Genesis Lotus Immortal Venerable**, da Antiguidade
+Medieval, que era ele mesmo um Venerável de rank 9 do caminho da madeira, e que continuou criando
+golpes de madeira **depois** de já ser Venerável. É o mesmo que criou, em segredo, o
+[[28 - Painting Path|caminho da pintura]] — a madeira era o caminho público dele, e a pintura o
+de especialidade. Ver [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].
 
 **A função "limpadora".** Marcas de madeira curaram um alvo e, no processo, **eliminaram as
 marcas de relâmpago** que estavam nele — sem conflitar com as marcas de transformação do mesmo
@@ -698,9 +704,9 @@ Imortal de trevas*. (ded.) Domínio governa **criação**; posse e uso básico, 
 *(Esta não é um décimo segundo verbete: é a comparação entre os dois anteriores, e ela está
 aqui porque a intuição de RPG diz que eles se opõem e a obra diz que não.)*
 
-A **única** passagem que opõe os dois descreve um evento global de escala de Venerável: um
-Venerável passou a arder permanentemente, tornou-se a maior fonte de luz do seu domínio, e *o
-ambiente do mundo de cultivo inteiro foi lentamente alterado* por ele. Só então: *a luz foi
+A **única** passagem que opõe os dois descreve um evento global de escala de Venerável: o
+**Giant Sun Immortal Venerable** passou a arder permanentemente, tornou-se a maior fonte de luz
+do seu domínio, e *o ambiente do mundo de cultivo inteiro foi lentamente alterado* por ele. Só então: *a luz foi
 suprimida enquanto as trevas foram amplificadas*. É uma mudança estrutural do mundo, do mesmo tipo
 das outras que os Veneráveis deixam — **não** uma regra de que luz e trevas se contêm.
 
@@ -723,10 +729,11 @@ distintos** — luz é velocidade e purificação, trevas é penetração e ocul
 
 Duas exceções canônicas ao custo de cultivar vários elementos:
 
-- Uma organização detinha **um método que permite a imortais cultivarem outros caminhos sem
-  enfrentar marcas conflitantes** — e ainda podia modificar domínios de céu e terra para que Gu de
-  certos caminhos fossem muito eficazes ali sem sofrer conflito. É um dos ativos mais valiosos que
-  a obra atribui a uma instituição.
+- A **Seita das Sombras** (*Shadow Sect*) detinha **um método que permite a imortais cultivarem
+  outros caminhos sem enfrentar marcas conflitantes** — e ainda podia modificar domínios reclusos
+  de céu e terra para que Gu de certos caminhos fossem muito eficazes ali sem sofrer conflito. É
+  um dos ativos mais valiosos que a obra atribui a uma instituição. Ver
+  [[12 - Soul Path|Soul Path]].
 - Existe um corpo especial com **marcas não-conflitantes**, que pode cultivar qualquer caminho.
   O preço é duro e vale como lição de design: *uma vez atingido por um ataque que penetrasse suas
   defesas, ele tomaria o dano **por inteiro**, pois os ataques **não seriam enfraquecidos pelas
@@ -780,8 +787,8 @@ Duas exceções canônicas ao custo de cultivar vários elementos:
 ## O que a obra não diz
 
 - **Não existe ciclo de cinco elementos.** Verificado no texto-fonte.
-- **Criador**: só a **madeira** (um Venerável) e a **água** (o fundador de uma casa de cultivo)
-  têm criador nomeado. Fogo, terra, metal, gelo-e-neve, relâmpago, vento, luz, trevas e nuvem —
+- **Criador**: só a **madeira** (Genesis Lotus Immortal Venerable) e a **água** (Shui Ni, fundadora
+  da Casa da Afinidade Espiritual) têm criador nomeado. Fogo, terra, metal, gelo-e-neve, relâmpago, vento, luz, trevas e nuvem —
   `—` a obra não informa.
 - **Essência declarada**: só **madeira**, **luz** e **trevas** têm uma frase de essência no texto.
   Os outros nove — `—`.

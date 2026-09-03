@@ -9,7 +9,7 @@ aliases:
   - Lei da selva
   - Ausência de karma
 status: consolidado
-fontes: ["cap. 2", "cap. 5", "cap. 33", "cap. 38", "cap. 68", "cap. 119", "cap. 126", "cap. 131", "cap. 143", "cap. 145", "cap. 158", "cap. 170", "cap. 208", "cap. 227", "cap. 234", "cap. 235", "cap. 236", "cap. 243", "cap. 289", "cap. 293", "cap. 315", "cap. 328", "cap. 375", "cap. 385", "cap. 389", "cap. 392", "cap. 436", "cap. 464", "cap. 475", "cap. 489", "cap. 495", "cap. 519", "cap. 539", "cap. 553", "cap. 579", "cap. 585", "cap. 599", "cap. 650", "cap. 762", "cap. 767", "cap. 824", "cap. 866", "cap. 867", "cap. 921", "cap. 945", "cap. 964", "cap. 1020", "cap. 1022", "cap. 1074", "cap. 1075", "cap. 1108", "cap. 1128", "cap. 1138", "cap. 1362", "cap. 1409", "cap. 1482", "cap. 1588", "cap. 1700", "cap. 1747", "cap. 1817", "cap. 1820", "cap. 1954", "cap. 1960", "cap. 2036", "cap. 2041", "cap. 2096", "cap. 8", "cap. 64", "cap. 78", "cap. 108", "cap. 1170", "cap. 2217"]
+fontes: ["cap. 2", "cap. 5", "cap. 8", "cap. 33", "cap. 38", "cap. 64", "cap. 68", "cap. 78", "cap. 108", "cap. 119", "cap. 126", "cap. 131", "cap. 143", "cap. 145", "cap. 158", "cap. 170", "cap. 208", "cap. 227", "cap. 234", "cap. 235", "cap. 236", "cap. 243", "cap. 289", "cap. 293", "cap. 315", "cap. 328", "cap. 375", "cap. 385", "cap. 389", "cap. 392", "cap. 436", "cap. 464", "cap. 475", "cap. 489", "cap. 495", "cap. 519", "cap. 539", "cap. 553", "cap. 579", "cap. 585", "cap. 599", "cap. 650", "cap. 762", "cap. 767", "cap. 824", "cap. 866", "cap. 867", "cap. 921", "cap. 945", "cap. 964", "cap. 1020", "cap. 1022", "cap. 1074", "cap. 1075", "cap. 1108", "cap. 1128", "cap. 1138", "cap. 1170", "cap. 1362", "cap. 1409", "cap. 1482", "cap. 1588", "cap. 1700", "cap. 1747", "cap. 1817", "cap. 1819", "cap. 1820", "cap. 1954", "cap. 1960", "cap. 2036", "cap. 2041", "cap. 2096", "cap. 2217"]
 conhecimento: comum
 ---
 
@@ -176,8 +176,9 @@ deixar a armadura virar corrente.
 > descrita como **tecnologia de sobrevivência coletiva**: real, eficaz, indispensável — e
 > humana, não cósmica. Ela funciona de verdade; só não tem garantia metafísica por trás.
 >
-> A cena onde esse argumento é feito é ainda mais generosa do que parece: o interlocutor,
-> que usava um Gu que exige convicção de justiça e havia perdido a capacidade de acioná-lo,
+> A cena onde esse argumento é feito é ainda mais generosa do que parece: o interlocutor
+> portava o **Justice Gu** (Gu da Justiça), que só se ativa se o usuário acreditar
+> sinceramente na própria retidão, e havia perdido a capacidade de acioná-lo; ele
 > **volta a conseguir usá-lo depois de ouvir o argumento**. Compreender que a justiça é
 > invenção humana o tornou mais capaz de sustentá-la, não menos.
 

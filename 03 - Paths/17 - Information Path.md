@@ -503,8 +503,9 @@ conexões**. As consequências documentadas:
 E a comparação de mercado que a própria obra faz: *coisas como esse Gu e aquele comércio **são
 muito raras e únicas** — como poderia a nossa ter demanda tão ampla?*
 
-Existe também **comércio formal de informação**: uma seita vende informes por dinheiro, e até as
-maiores organizações do mundo compram dela. Cenas de batalha gravadas em Gu são mercadoria. E
+Existe também **comércio formal de informação**: a **Seita da Informação do Relâmpago**
+(*Lightning Information Sect*), do Continente Central, vende informes por pedras primevas em
+balcão aberto, e **até as dez grandes seitas antigas compram dela**. Cenas de batalha gravadas em Gu são mercadoria. E
 especialistas do caminho publicam **rankings** — de imortais, de Casas de Gu Imortal — que geram
 competição feroz.
 
@@ -547,10 +548,13 @@ Duas notas de manejo que a tabela não cabe:
 
 ## Praticantes notáveis (sem enredo)
 
-- **A imortal do aluguel de juramentos** — imortal de rank 7, quase-grande-grão-mestra do caminho.
-  O caso mais instrutivo do vault inteiro sobre **como um caminho fraco em combate se torna
-  poderoso**: ela era cultivadora de madeira e terra, e **virou imortal do caminho da informação ao
-  obter o Gu da Promessa da Montanha e torná-lo seu Gu núcleo** — sem fundação sólida no caminho, e
+- **Fairy Li Shan**, a imortal do aluguel de juramentos — imortal de rank 7,
+  quase-grande-grão-mestra do caminho, e a maior rede de contatos do mundo: ela transitava entre o
+  lado justo, o lado demoníaco e os imortais solitários, e a obra a coloca acima de uma seita
+  inteira em capacidade de coletar informação. É o caso mais instrutivo do vault sobre **como um
+  caminho fraco em combate se torna poderoso**: ela era cultivadora de madeira e terra, e **virou
+  imortal do caminho da informação ao obter o Gu da Promessa da Montanha e torná-lo seu Gu
+  núcleo** — sem fundação sólida no caminho, e
   mantendo um território que continuava sendo de madeira. Força de combate baixa; quando lutava,
   usava técnicas de madeira. E demonstra a dupla face do caminho: *não só era hábil em fazer
   acordos, **também era capaz de quebrá-los*** — violou um acordo e continuou viva, porque havia
@@ -563,12 +567,13 @@ Duas notas de manejo que a tabela não cabe:
   **montanha flutuante feita pelo homem**, saturada de marcas do caminho, "equivalente a **meio
   domínio recluso de céu e terra**". É o exemplo canônico de que **um território de marcas pode
   substituir recursos e linhagem**.
-- **O expulso que virou fundador** — era imortal do caminho do relâmpago numa seita subsidiária;
-  quebrou regras, teve o cultivo aleijado e foi expulso. **Forçado a cultivar informação para
-  sobreviver**, combinou-a com sua experiência anterior, **criou um conjunto próprio de Gu** e
-  desenvolveu-se muito mais rápido do que antes. Fundou uma seita de informação que em pouco mais
-  de cem anos virou primeira linha — a ponto de **as maiores seitas antigas comprarem informação
-  dela**.
+- **Mi Lan Guang**, o expulso que virou fundador — era imortal do caminho do relâmpago no Solar
+  do Vento e da Nuvem (*Wind Cloud Manor*); quebrou as regras da seita, teve o cultivo aleijado e
+  foi expulso. **Forçado a cultivar informação para sobreviver**, combinou-a com sua experiência
+  anterior, **criou um conjunto próprio de Gu** e desenvolveu-se muito mais rápido do que antes.
+  Fundou a **Seita da Informação do Relâmpago**, que em pouco mais de cem anos virou uma super
+  força de primeira linha em caminho da informação — a ponto de **as dez grandes seitas antigas
+  comprarem informação dela**.
 - **O poeta que virou imortal** — um Mestre Gu que trocou seu Gu vital por um **Gu da Poesia** e
   criou **três golpes do caminho a partir de poemas coletados**, tornando-se o número um do seu
   território e depois ascendendo à imortalidade. É a prova de que este caminho tem uma porta de

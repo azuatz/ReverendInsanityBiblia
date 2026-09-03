@@ -7,7 +7,7 @@ aliases:
   - Attainment level
   - Nível de realização
 status: consolidado
-fontes: ["cap. 572", "cap. 627-628", "cap. 687", "cap. 731", "cap. 735", "cap. 838", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1210", "cap. 1236", "cap. 1261", "cap. 1367", "cap. 1394", "cap. 1487", "cap. 1569", "cap. 1679", "cap. 1782", "cap. 1796", "cap. 1980", "cap. 2028", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2095", "cap. 2118", "cap. 2131-2171", "cap. 2145", "cap. 2237", "cap. 2247", "cap. 2293"]
+fontes: ["cap. 572", "cap. 627-628", "cap. 687", "cap. 731", "cap. 735", "cap. 838", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1210", "cap. 1236", "cap. 1261", "cap. 1367", "cap. 1394", "cap. 1487", "cap. 1569", "cap. 1679", "cap. 1782", "cap. 1796", "cap. 1980", "cap. 2028", "cap. 2085-2086", "cap. 2088", "cap. 2091", "cap. 2095", "cap. 2118", "cap. 2131-2171", "cap. 2145", "cap. 2237", "cap. 2247", "cap. 2293", "cap. 2141", "cap. 2163-2164"]
 conhecimento: especializado
 ---
 
@@ -21,7 +21,7 @@ Rank diz quanta força você tem. Dao marks dizem quanto ela é amplificada. Att
 
 Três consequências concretas, todas documentadas:
 
-- **Attainment insuficiente trava heranças que você já possui.** Existe um método de altíssimo nível cujo modo oculto exige quase-supremo grão-mestre numa especialidade; usado por alguém que tem apenas grande grão-mestre, ele não falha silenciosamente — ele produz o efeito errado e **corta a própria vida do usuário por engano**. Ter o item e ter as instruções não basta.
+- **Attainment insuficiente trava heranças que você já possui.** O caso documentado é o do ==Steal Life Immortal Gu (Gu Imortal de Roubar Vida)==, peça central da herança do caminho do roubo deixada por um dos Veneráveis. No uso normal ele **rouba tempo de vida de outra pessoa**, tratando a longevidade pelo que ela é neste mundo — um tipo de marca de lei gravada no corpo. Mas o coração da herança é usá-lo **ao contrário**, doando o próprio tempo de vida a um alvo, e esse modo exige **quase-supremo grão-mestre no caminho do roubo**. Quem tenta com apenas grande grão-mestre não falha silenciosamente: ele simplesmente **corta a própria vida sem produzir efeito nenhum**. Ter o item e ter as instruções não basta.
 - **Attainment é o gargalo da rota de progressão mais poderosa do mundo.** Anexar a abertura imortal de outro cultivador exige attainment no caminho dominante do alvo. Quem é grão-mestre em cinco caminhos só pode caçar aberturas desses cinco. Mesmo depois de matar o dono e controlar tudo, sem o attainment correto a anexação não acontece — num caso, de três aberturas conquistadas, apenas duas puderam ser anexadas.
 - **Attainment decide taxas de sucesso, e a diferença é ordens de magnitude.** Uma receita deduzida por um quase-supremo grão-mestre de refino atingiu **50% de sucesso** — num mundo em que a maioria dos Gu Immortals ficaria feliz com **1%**.
 
@@ -83,7 +83,7 @@ Uma distinção que o mundo faz e vale reproduzir: **mestre não se fabrica com 
 1. **Reinos de sonho.** Ambientes lendários deixados por mestres do passado, perigosos e com ganho potencialmente **ilimitado**; um único reino de sonho pode ensinar mais de um caminho ao mesmo tempo. É a rota de maior retorno e maior risco.
 2. **Herança de "verdadeiro significado".** Salto instantâneo, com um teto — ver abaixo.
 3. **Insight intelectual puro.** É possível subir de grão-mestre a grande grão-mestre apenas **teorizando e deduzindo** sobre a mecânica de um caminho, sem combate e sem reino de sonho. O sistema recompensa o estudo desacompanhado de risco.
-4. **Golpes de ensino em massa.** Existem técnicas que elevam o attainment de outras pessoas por imersão. São seguras, mas têm usos limitados e retornos decrescentes sem experiência acumulada entre um uso e outro; e o ganho é **limitado pela aptidão, talento e compreensão pessoal do alvo** — se a profundidade transmitida exceder o que ele suporta, ele **alucina**, cada pessoa vendo coisas diferentes, até desmaiar. Falha por sobrecarga, categoricamente distinta de dano físico. Do lado do professor, ensinar custa **anos de vida**.
+4. **Golpes de ensino em massa.** O caso documentado é o golpe imortal ==aprendizado sem fim (endless learning)==, do caminho humano, que tem como núcleos a **Montanha dos Livros (Book Mountain)** — um dos domínios reclusos do céu e da terra — e o **Learning Gu**: ele produz *verdadeiro significado* e o entrega ao aluno, que o absorve e sobe de attainment. É de valor estratégico, capaz de elevar o patamar de uma organização inteira, e tem uma vantagem decisiva: **não consome o attainment de ninguém**, nem do professor. Técnicas assim elevam o attainment de outras pessoas por imersão. São seguras, mas têm usos limitados e retornos decrescentes sem experiência acumulada entre um uso e outro; e o ganho é **limitado pela aptidão, talento e compreensão pessoal do alvo** — se a profundidade transmitida exceder o que ele suporta, ele **alucina**, cada pessoa vendo coisas diferentes, até desmaiar. Falha por sobrecarga, categoricamente distinta de dano físico. Do lado do professor, ensinar custa **anos de vida**.
 
 Há ainda uma quinta via, que não é rota e sim janela: durante a [[14 - Ascensão Imortal|ascensão imortal]], o passo de fusão dos três qi é um momento único de comunhão direta com as leis do universo, e pode ser deliberadamente direcionado para um salto de compreensão num caminho escolhido.
 
@@ -99,7 +99,7 @@ Mas o sistema tem uma trava, e ela é a coisa mais importante desta nota:
 > **O que nenhuma herança faz é entregar o nono degrau: nenhum verdadeiro
 > significado documentado concede supremo grão-mestre** — porque supremo
 > grão-mestre exige **inovação própria**, e inovação, por definição, não se herda.
-> Um legado só contém o que o antecessor já criou. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar específico e quase inacessível, mencionado no mito fundador do mundo, cuja entrada eleva **um** caminho do visitante diretamente a supremo grão-mestre. Ele é, por isso, o gargalo geográfico de toda corrida pelo topo.
+> Um legado só contém o que o antecessor já criou. Este é o gargalo real do topo do mundo: um herdeiro pode receber de graça tudo o que a humanidade já descobriu sobre um caminho e ainda assim não ser Venerável, porque o último degrau exige acrescentar algo que ninguém escreveu. O único atalho conhecido é um lugar com nome e endereço: o ==Domínio Primordial (Primordial Domain)==, um dos domínios reclusos do céu e da terra, citado no mito fundador do mundo em termos vagos o bastante para cada leitor entender uma coisa. Quem entra nele tem **um** caminho elevado diretamente a supremo grão-mestre. Ele fica na **camada mais profunda, a nona, da [[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]** — não por acaso: um Venerável o retirou de onde estava originalmente e o instalou ali, usando-o junto com um Gu Imortal de rank 9 para derivar mundos novos e marcas de lei inéditas. É, por isso, o gargalo geográfico de toda corrida pelo topo.
 
 **Onde exatamente fica o teto, então?** A obra dá duas medidas que precisam ser
 lidas juntas. Como *regra enunciada*, ela diz que reinos de sonho e heranças
@@ -121,7 +121,7 @@ Duas restrições secundárias, úteis para worldbuilding: apenas alguns caminho
 
 ## Attainment está atrelado ao corpo
 
-Regra fácil de perder e cara de ignorar: **a velocidade de compreensão de um caminho depende do corpo do cultivador**. Um portador de constituição extrema tinha vantagem inata enorme em duas especialidades; **depois de converter o próprio corpo para uma raça diferente, a velocidade de compreensão nessas especialidades caiu drasticamente**, e o attainment que restou era, em sua maior parte, herança acumulada de antes da conversão.
+Regra fácil de perder e cara de ignorar: **a velocidade de compreensão de um caminho depende do corpo do cultivador**. O caso documentado é o de um portador de uma das [[10 - As Dez Constituições Extremas|dez constituições extremas]], a do gelo, que por isso tinha vantagem inata enorme no **caminho do gelo e da neve**: depois de **converter o próprio corpo em corpo de homem-dragão**, a velocidade de compreensão nesse caminho caiu abruptamente, e o nível de mestre que ele ainda ostentava era, em sua maior parte, acúmulo de antes da conversão.
 
 A regra do mundo enunciada no mesmo trecho: "o homem é o espírito de todos os seres vivos". O talento das constituições extremas humanas supera o de qualquer raça variante, e trocar de corpo **não é uma decisão neutra** — é uma decisão que muda o que você ainda é capaz de aprender.
 

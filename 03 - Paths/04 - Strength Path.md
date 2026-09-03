@@ -5,7 +5,7 @@ aliases:
   - Strength Path
   - Caminho da força
 status: consolidado
-fontes: ["cap. 161", "cap. 241", "cap. 266", "cap. 275", "cap. 280", "cap. 281", "cap. 285", "cap. 286", "cap. 288", "cap. 289", "cap. 291", "cap. 292", "cap. 293", "cap. 297", "cap. 299", "cap. 300", "cap. 304", "cap. 307", "cap. 316", "cap. 317", "cap. 318", "cap. 319", "cap. 320", "cap. 321", "cap. 337", "cap. 340", "cap. 342", "cap. 343", "cap. 345", "cap. 353", "cap. 360", "cap. 361", "cap. 363", "cap. 368", "cap. 377", "cap. 378", "cap. 422", "cap. 442", "cap. 443", "cap. 454", "cap. 459", "cap. 463", "cap. 484", "cap. 495", "cap. 498", "cap. 500", "cap. 504", "cap. 511", "cap. 517", "cap. 534", "cap. 536", "cap. 546", "cap. 548", "cap. 549", "cap. 554", "cap. 560", "cap. 569", "cap. 593", "cap. 597", "cap. 618", "cap. 626", "cap. 627", "cap. 630", "cap. 648", "cap. 649", "cap. 650", "cap. 662", "cap. 663", "cap. 664", "cap. 711", "cap. 714", "cap. 736", "cap. 754", "cap. 758", "cap. 769", "cap. 777", "cap. 782", "cap. 845", "cap. 870", "cap. 1058", "cap. 1099", "cap. 1183", "cap. 1248", "cap. 1323", "cap. 1465"]
+fontes: ["cap. 161", "cap. 241", "cap. 266", "cap. 275", "cap. 280", "cap. 281", "cap. 285", "cap. 286", "cap. 288", "cap. 289", "cap. 291", "cap. 292", "cap. 293", "cap. 297", "cap. 299", "cap. 300", "cap. 304", "cap. 307", "cap. 316", "cap. 317", "cap. 318", "cap. 319", "cap. 320", "cap. 321", "cap. 337", "cap. 340", "cap. 342", "cap. 343", "cap. 345", "cap. 353", "cap. 360", "cap. 361", "cap. 363", "cap. 368", "cap. 377", "cap. 378", "cap. 422", "cap. 442", "cap. 443", "cap. 454", "cap. 459", "cap. 463", "cap. 484", "cap. 495", "cap. 498", "cap. 500", "cap. 504", "cap. 511", "cap. 517", "cap. 534", "cap. 536", "cap. 546", "cap. 548", "cap. 549", "cap. 554", "cap. 560", "cap. 569", "cap. 593", "cap. 597", "cap. 618", "cap. 626", "cap. 627", "cap. 630", "cap. 648", "cap. 649", "cap. 650", "cap. 662", "cap. 663", "cap. 664", "cap. 686", "cap. 711", "cap. 714", "cap. 736", "cap. 754", "cap. 758", "cap. 769", "cap. 777", "cap. 782", "cap. 845", "cap. 870", "cap. 1058", "cap. 1099", "cap. 1183", "cap. 1248", "cap. 1323", "cap. 1465"]
 conhecimento: comum
 ---
 
@@ -303,11 +303,15 @@ cultivador**, multiplicado:
 
 `conhecimento: segredo`
 
-Há um segredo geográfico que muda a economia inteira do caminho. Uma planície gelada das
-Planícies do Norte foi criada por um Venerável de rank 9 que era, ao mesmo tempo, o
-progenitor do caminho da força e do [[06 - Transformation Path|caminho da transformação]] — ele
-se transformou numa fênix de gelo e soprou o gelo profundo que formou a planície. Ao fazê-lo,
-**imprimiu no lugar o *verdadeiro sentido* (true meaning) dos dois caminhos**.
+Há um segredo geográfico que muda a economia inteira do caminho. A **planície gelada do norte**
+(*northern icy plain*, também chamada de campo de batalha do gelo absoluto), no extremo norte das
+Planícies do Norte, **não é natural**: o **Reckless Savage Demon Venerable** — o mesmo rank 9 que
+é progenitor do caminho da força e do [[06 - Transformation Path|caminho da transformação]] —
+travou ali uma batalha que destruiu um pedaço da região e o reduziu a vazio; para reparar o
+estrago, ele se transformou na fera desolada imemorial **fênix de gelo** e soprou o gelo profundo
+absoluto que congelou e refez o lugar. Como a transformação em fênix de gelo é, ela própria, um
+golpe do caminho da transformação executado por quem tinha domínio supremo nos dois caminhos, ele
+**imprimiu no lugar o *verdadeiro sentido* (true meaning) dos dois**.
 
 A consequência: quando um cultivador de **força** ou de **transformação** faz sua
 [[14 - Ascensão Imortal|ascensão imortal]] ali, a calamidade que vem enfrentá-lo não é uma
@@ -334,7 +338,7 @@ O que muda, faixa por faixa. Onde a obra não dá o número, a linha está marca
 | **Rank 5** | **100 jun ou mais.** O corpo já foi refinado (pele, ossos, tendões) para conter o que se acumulou, e é a segunda camada que decide quem chega aqui. Com um amplificador de rank 5 acoplado, há registro de **500 jun** disparados — com a ressalva de que o corpo se desfaz antes do alvo. Golpes combinados de força com escravização começam a valer mais que a força pura. |
 | **Rank 6 (imortal)** | Um único Gu Imortal concede **1.000 jun**. Surgem as categorias que não existiam: **defesa** (Caldeirão de Força), **acúmulo dirigido de marcas** (Comer Força) e os **fantasmas de si mesmo**. A vantagem clássica do imortal — essência ilimitada — vale **quase nada** aqui, porque o caminho já era o que menos gastava essência. |
 | **Rank 7–8** | Fantasmas gigantes aos dezesseis, capazes de matar um imortal; golpes híbridos com alma e escravização; e o acúmulo de marcas do Dao como projeto de vida, já que cada mil marcas dobra tudo. `—` a obra não detalha um teto próprio do caminho nessas faixas. |
-| **Rank 9 (Venerável)** | O progenitor do caminho encerra a escada: devorou feras imemoriais, gravou **totens** no corpo, e com isso escapou de todas as limitações descritas acima. Ver [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]]. |
+| **Rank 9 (Venerável)** | **Reckless Savage Demon Venerable** encerra a escada: devorou feras imemoriais, gravou **totens** no corpo, e com isso escapou de todas as limitações descritas acima. Ver [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]]. |
 
 ## Gu representativos
 
@@ -480,7 +484,7 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 ## Sinergias e conflitos
 
 **Combina com:**
-- **[[06 - Transformation Path|Transformation Path]]** — historicamente ligados; o mesmo ser lendário fundou os dois, e os dois dividem o mesmo presente na planície gelada.
+- **[[06 - Transformation Path|Transformation Path]]** — historicamente ligados; **Reckless Savage Demon Venerable** fundou os dois, e os dois dividem o mesmo presente na planície gelada do norte.
 - **[[07 - Enslavement Path|Enslavement Path]]** — a combinação que gerou todos os grandes golpes modernos do caminho. **Com um conflito real embutido**: as modificações corporais que servem à força **não servem** à escravização, e vice-versa. A obra chama isso de "o problema não resolvido" de quem cultiva os dois, e contrasta com pares que não têm esse atrito (alma com escravização, alma com sabedoria).
 - **[[12 - Soul Path|Soul Path]]** — a alma é o que transforma fantasmas em membros obedientes, no golpe mais forte do caminho.
 - **[[21 - Rule Path|Rule Path]]** — Gu de amplificação universais funcionam perfeitamente sobre força, e são a forma mais barata de multiplicar um efeito simples. Foi um amplificador de rank 5 que produziu o pico de 500 *jun* documentado.
@@ -526,7 +530,7 @@ Reunidos num lugar só, porque são muitos e são o que dá caráter ao caminho:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Demoníaco Selvagem Imprudente** — figura de rank 9, progenitor tanto deste
+- **Reckless Savage Demon Venerable** (Venerável Demoníaco Selvagem Imprudente) — figura de rank 9, progenitor tanto deste
   caminho quanto do [[06 - Transformation Path|Transformation Path]]. Comeu feras imemoriais e
   gravou totens no corpo, escapando das limitações que definem o caminho para todos os outros.
   Deixou o verdadeiro sentido dos dois caminhos impresso numa planície gelada do norte.

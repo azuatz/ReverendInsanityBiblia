@@ -66,7 +66,7 @@ Estas são as condições formais, enunciadas explicitamente pela obra, e são a
 
 ### O bloqueio do Caminho Celestial
 
-O céu não é passivo neste sistema; ele mantém um mecanismo formal de três componentes para impedir o surgimento de novos Veneráveis. Os três são: uma **tribulação suprema acima da miríade**; o **Gu de longevidade**, que é um item de lei celeste que ninguém consegue fabricar (ver [[12 - Longevidade|Longevidade]]); e o **Gu do Destino**.
+O céu não é passivo neste sistema; ele mantém um mecanismo formal de três componentes para impedir o surgimento de novos Veneráveis. Os três são: uma **tribulação suprema acima da miríade**; o **Gu de longevidade**, que é um item de lei celeste que ninguém consegue fabricar (ver [[12 - Longevidade|Longevidade]]); e o [[16 - Fate Gu|Fate Gu]] (Gu do Destino), o Gu de rank 9 que fixa o caminho de vida de todo ser vivo.
 
 Existem atalhos conhecidos para superá-lo — o caminho da sorte é citado nominalmente como um deles. E há um padrão histórico: **todos os dez Veneráveis tiveram sorte inata imensa**, vinda de uma de duas fontes. Ou o **favor direto da vontade do céu** — um deles foi favorecido para reequilibrar um mundo em que as raças variantes dominavam os humanos —, ou a **adoração coletiva de multidões**: reverência e devoção humana em escala, a ponto de a tribulação de nascimento de um deles ter precisado ser bloqueada por três dignitários da maior organização do mundo, de tão imensa que era sua sorte de "filho da humanidade".
 
@@ -92,7 +92,7 @@ Leia de novo, porque a implicação é grande: não é que ele seja muito bom no
 
 - **Perde-se por saturação do caminho.** Se muitos rank 8 de topo do mesmo caminho acumularem avanços coletivos até que o caminho, no mundo, ultrapasse um limiar qualitativo, o Venerável deixa de ser "equivalente ao caminho" e é **expulso do supremo grão-mestre** — perdendo junto o senhorio e a capacidade de refinar as marcas naturais daquele caminho. É a razão pela qual um Dao Lord tem interesse ativo em manter o próprio caminho **em segredo** e subdesenvolvido: a pesquisa alheia é uma ameaça direta ao seu trono.
 - **Perde-se por perda da própria mente.** Há registro de um Venerável que sobreviveu à morte sem sanidade e por isso **não conta como Dao Lord verdadeiro** — tem apenas os instintos do cargo, e o efeito dele vaza inclusive para inimigos do mesmo caminho.
-- **Recupera-se** num lugar específico e quase inacessível do mundo, capaz de restituir o attainment supremo a quem o perdeu.
+- **Recupera-se** no ==Domínio Primordial (Primordial Domain)==, o domínio recluso de céu e terra escondido na camada mais profunda da [[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]]: entrar nele eleva **um** caminho do visitante direto a supremo grão-mestre, e por isso devolve o senhorio a um Venerável que o perdeu. É o único atalho conhecido para o nono degrau de [[08 - Attainment|attainment]].
 
 > [!note] Para o design
 > Um trono que se perde quando os súditos ficam bons demais é uma engenhoca de

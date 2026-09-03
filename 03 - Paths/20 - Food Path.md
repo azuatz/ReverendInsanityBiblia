@@ -204,19 +204,23 @@ sorte** do comensal por meia jornada, com ênfase em sobrevivência — comida p
 [[23 - Luck Path|caminho da sorte]]. Um mestre que assistiu comentou exatamente isso: usar um
 método de comida para obter efeito de sorte é "excepcional".
 
-E há a fronteira sombria do caminho: combinando comida com [[12 - Soul Path|alma]], um
-cultivador criou um método de **devorar almas** que não apenas o restaurava ao auge como lhe
-entregava **as memórias e a experiência de cultivo de vidas inteiras** dos devorados. É a razão
-apontada para que essa figura tivesse domínio altíssimo em praticamente todos os caminhos sem
-nunca ter estudado nenhum deles do zero. ==Comer é a única forma documentada de adquirir
+E há a fronteira sombria do caminho: combinando comida com [[12 - Soul Path|alma]], o
+**Spectral Soul Demon Venerable** — que possuía a herança verdadeira do caminho da comida —
+criou o **método de devoração de almas** (*soul devouring method*), que não apenas o restaurava
+ao auge como lhe entregava **as memórias e a experiência de cultivo de vidas inteiras** dos
+devorados. É a razão apontada para que ele tivesse ao menos grande grão-mestria em praticamente
+todos os caminhos, inclusive formação e sabedoria, sem nunca ter estudado nenhum deles do zero.
+Repare na ressalva que a obra faz, porque ela salva a regra geral: o método entrega **memórias**,
+e ele ainda teve de **cultivar a partir delas** — o único jeito de elevar domínio instantaneamente
+continua sendo absorver um significado verdadeiro. ==Comer é a única forma documentada de adquirir
 *attainment* alheio.== Ver [[08 - Attainment|Attainment]].
 
 > [!note] A tese filosófica do caminho
 > Todo caminho responde "o que eu faço com o mundo?". Este responde "**o que eu incorporo do
 > mundo?**". O fundador — que não era humano, e é por isso que o caminho nunca se espalhou —
 > chegou a um ponto em que *comia pedras e vento para se saciar, e comia Gu para aumentar as
-> próprias marcas do Dao*: comeu marcas sem parar por mil anos. E foi um Venerável Demônio
-> quem apontou o degrau acima: *comer é matar* — comemos carne, então caçamos; comemos vegetais,
+> próprias marcas do Dao*: comeu marcas sem parar por mil anos. E foi o **Spectral Soul Demon
+> Venerable** quem apontou o degrau acima, na cara do próprio fundador: *comer é matar* — comemos carne, então caçamos; comemos vegetais,
 > então arrancamos; mesmo quem só come vento e bebe orvalho engole e digere. A comida é, nessa
 > leitura, um **caso particular do abate**. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
 
@@ -229,7 +233,7 @@ nunca ter estudado nenhum deles do zero. ==Comer é a única forma documentada d
 | **Rank 6** | A entrada imortal. Substituição de alimentação de outros Gu Imortais, saciedade por *qi* de fragrância, e o Gu de cultivo por ingestão que grava marcas do Dao sem risco. |
 | **Rank 7** | `(ded.)` Culinária de nível imortal: preparações que destrancam totens, formações de comida capazes de sustentar criadouros e estruturas inteiras, e o primeiro patamar de golpes ofensivos que furam casas de Gu. |
 | **Rank 8** | Cura em área por fragrância; conversão de essência imortal de rank 8 em rank 9 com o auxílio dos oito vinhos supremos; e golpes combinados com outros caminhos capazes de esvaziar uma fortaleza. |
-| **Rank 9** | `(ded.)` Nenhum Venerável é registrado como cultivador principal do caminho da comida — o que existe no topo é um Venerável que **usava métodos de comida** para resolver a alimentação das próprias criações, e o fundador não humano do caminho, que chegou ao rank 8. A obra não descreve um repertório de rank 9 próprio: `—`. |
+| **Rank 9** | `(ded.)` Nenhum Venerável é registrado como cultivador **principal** do caminho da comida. O que existe no topo são dois casos de uso: o **Spectral Soul Demon Venerable**, que tinha a herança verdadeira do caminho e a converteu em golpes ofensivos e no método de devoração de almas; e o **Paradise Earth Immortal Venerable**, que pesquisou o caminho a fundo justamente para **anular** os golpes de comida do primeiro, e acabou levando a escola ao patamar mais alto que ela já teve. O fundador — não humano — chegou ao rank 8. A obra não descreve um repertório de rank 9 próprio: `—`. |
 
 ## Golpes de assinatura, e o mecanismo de cada um
 
@@ -353,9 +357,18 @@ exatamente o que permite converter território em autonomia.
 
 ## Praticantes notáveis (sem enredo)
 
-- **Paradise Earth Immortal Venerable** — figura de rank 9 associada à completude dos
-  métodos de comida deste caminho, e uma das poucas a converter esse conhecimento em ganho de
-  marcas do Dao em escala.
+- **Paradise Earth Immortal Venerable** — o rank 9 que **levou o caminho da comida ao patamar
+  mais alto que ele já teve**, e por um motivo defensivo: passou a vida consertando o estrago que
+  o Spectral Soul fez no mundo e, para isso, **pesquisou o caminho da comida a fundo**. Criou dois
+  golpes — *sofrer uma perda é uma bênção* e *toda vida é amarga* — feitos sob medida para anular
+  os dois golpes de comida com que o Spectral Soul havia matado incontáveis imortais.
+- **Spectral Soul Demon Venerable** — não era do caminho da comida, mas possuía a herança
+  verdadeira dele e a usou de três maneiras que definem o lado sombrio da escola: criou golpes
+  ofensivos de comida, criou o método de devoração de almas, e tentou usar métodos de comida
+  para fundar o caminho da matança. Ver [[29 - Os Demais Caminhos|Os Demais Caminhos]].
+- **O fundador não humano** — um Gu Imortal de uma raça variante (um homem-fera), que chegou ao
+  rank 8. A obra o mostra dizendo, com todas as letras: *eu inventei o caminho da comida*. É o
+  único fundador de caminho que a obra descreve sem lhe dar nome próprio.
 - Como referência de escassez: as verdadeiras heranças do caminho são tão poucas que a
   aparição de **uma** delas num mercado atrai propostas simultâneas de vários cultivadores de
   rank 8.
@@ -368,7 +381,7 @@ exatamente o que permite converter território em autonomia.
 - [[07 - Enslavement Path|Enslavement Path]] — o caminho mais dependente de logística alimentar.
 - [[25 - Heaven Path|Heaven Path]] — a via de aquisição de marcas que passa pela comida.
 - [[08 - Killer Moves|Killer Moves]] — os golpes totêmicos, adquiridos por ingestão.
-- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, proposto por um Venerável Demônio como o **superconjunto** deste ("comer é matar"), e que ele tentou fundar usando métodos do caminho da comida.
+- [[29 - Os Demais Caminhos|Os Demais Caminhos]] — o caminho da matança, proposto pelo **Spectral Soul Demon Venerable** como o **superconjunto** deste ("comer é matar"), e que ele tentou fundar usando métodos do caminho da comida.
 - [[16 - Dao Marks|Dao Marks]] — a via lenta e segura de ganhá-las, e o único método documentado de gastá-las de propósito.
 - [[09 - Formações de Gu|Formações de Gu]] — a camada de alimentação sem a qual nenhuma formação sobrevive ao tempo.
 - [[12 - Soul Path|Soul Path]] — a fronteira sombria do caminho, onde comer vira roubar experiência de vida.

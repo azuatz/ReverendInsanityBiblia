@@ -19,7 +19,7 @@ aliases:
   - Immortal aperture origin core
 status: verificado-no-texto
 conhecimento: especializado
-fontes: ["cap. 377", "cap. 379", "cap. 387", "cap. 409-410", "cap. 416", "cap. 460", "cap. 463", "cap. 466", "cap. 587", "cap. 608", "cap. 611", "cap. 616", "cap. 638", "cap. 641-642", "cap. 650-655", "cap. 666", "cap. 678-684", "cap. 699", "cap. 703", "cap. 710", "cap. 729", "cap. 750", "cap. 767", "cap. 788-794", "cap. 804", "cap. 810", "cap. 820", "cap. 851", "cap. 971", "cap. 1008", "cap. 1038", "cap. 1051", "cap. 1070", "cap. 1082", "cap. 1094-1096", "cap. 1129", "cap. 1166", "cap. 1207", "cap. 1245", "cap. 1252", "cap. 1427", "cap. 1449", "cap. 1457", "cap. 1459", "cap. 1468", "cap. 1547", "cap. 1556", "cap. 1625", "cap. 1633", "cap. 1644", "cap. 1681", "cap. 1766", "cap. 1777", "cap. 1925", "cap. 2073", "cap. 2085", "cap. 2090", "cap. 2182", "cap. 2196", "cap. 2207", "cap. 2221", "cap. 2225-2229", "cap. 2235-2247", "cap. 2285", "cap. 2293", "cap. 2297-2298", "cap. 2302"]
+fontes: ["cap. 377", "cap. 379", "cap. 387", "cap. 409-410", "cap. 416", "cap. 460", "cap. 463", "cap. 466", "cap. 587", "cap. 608", "cap. 611", "cap. 616", "cap. 638", "cap. 641-642", "cap. 650-655", "cap. 666", "cap. 678-684", "cap. 699", "cap. 703", "cap. 710", "cap. 729", "cap. 750", "cap. 767", "cap. 788-794", "cap. 804", "cap. 810", "cap. 820", "cap. 851", "cap. 971", "cap. 1008", "cap. 1038", "cap. 1051", "cap. 1070", "cap. 1082", "cap. 1094-1096", "cap. 1129", "cap. 1166", "cap. 1207", "cap. 1245", "cap. 1252", "cap. 1427", "cap. 1449", "cap. 1457", "cap. 1459", "cap. 1468", "cap. 1547", "cap. 1556", "cap. 1625", "cap. 1633", "cap. 1644", "cap. 1681", "cap. 1766", "cap. 1777", "cap. 1925", "cap. 2073", "cap. 2085", "cap. 2090", "cap. 2182", "cap. 2196", "cap. 2207", "cap. 2221", "cap. 2225-2229", "cap. 2235-2247", "cap. 2285", "cap. 2293", "cap. 2297-2298", "cap. 2302", "cap. 872", "cap. 1194"]
 ---
 
 # Essência Imortal
@@ -108,9 +108,9 @@ O núcleo é um objeto: um Gu Imortal de alto nível o descreve como um **caroç
 
 Há um item que produz essência **fora** do núcleo, e a obra o descreve em detalhe — vale como modelo de "recurso lendário instalável", que é exatamente o tipo de coisa que rende design.
 
-É uma **flor de lótus imperial**, plantada dentro da abertura. A partir do rank 6 ela produz essência imortal; na sua forma mais alta, essência de rank 9. O ciclo funciona assim: a flor floresce e forma uma vagem; dentro da vagem há **oitenta e uma sementes, e cada semente é uma conta de damasco-amarelo**. Extraídas as contas, a flor se contrai, volta a ficar branca, absorve gotas de orvalho límpido e recomeça o processo do zero.
+É o ==Heavenly Essence Treasure Imperial Lotus (Lótus Imperial do Tesouro da Essência Celestial)==, uma flor plantada dentro da abertura. A partir do rank 6 ela produz essência imortal; na sua forma mais alta, essência de rank 9. O ciclo funciona assim: a flor floresce e forma uma vagem; dentro da vagem há **oitenta e uma sementes, e cada semente é uma conta de damasco-amarelo**. Extraídas as contas, a flor se contrai, volta a ficar branca, absorve gotas de orvalho límpido e recomeça o processo do zero.
 
-O dono histórico dessa flor foi o Venerável com as maiores reservas de essência de toda a história — a obra diz que ele nunca precisou se preocupar com essência primordial nem imortal, e que os inimigos dele é que se viam sem combustível no meio da luta. Uma floração dessa flor rendeu, num caso registrado, noventa e nove contas de damasco-amarelo de uma vez.
+O dono histórico dessa flor foi *Genesis Lotus Immortal Venerable*, o Venerável com as maiores reservas de essência de toda a história — a obra diz que ele nunca precisou se preocupar com essência primordial nem imortal, e que os inimigos dele é que se viam sem combustível no meio da luta. Uma floração dessa flor rendeu, num caso registrado, noventa e nove contas de damasco-amarelo de uma vez.
 
 Um espírito da terra que possua uma dessas flores consegue se sustentar sozinho por eras, e a recusa a negociá-la é absoluta: sem a flor, ele não resiste às calamidades e não refina mais nada.
 
@@ -141,7 +141,7 @@ Quem entra para o [[19 - Tribunal Celestial|Tribunal Celestial]] entrega a próp
 - em compensação, guarda Gu Imortal de **qualquer rank** sem arrebentar, o que uma abertura verdadeira do mesmo nível não faria;
 - e o portador não sofre calamidades nem tribulações, porque a abertura que as atrairia não é dele.
 
-O mesmo dispositivo, nas mãos de outra organização, é usado para fabricar **falsos imortais**: um mortal recebe uma abertura fantasma, passa a possuir essência de uva-verde e, com isso, consegue refinar e usar Gu Imortais sem nunca ter ascendido.
+O mesmo dispositivo, nas mãos da **Shadow Sect** (Seita das Sombras), é usado para fabricar **falsos imortais**: um mortal recebe uma abertura fantasma, passa a possuir essência de uva-verde e, com isso, consegue refinar e usar Gu Imortais sem nunca ter ascendido. Duas amarras vêm junto e são o motivo de a organização gostar do arranjo: a abertura fantasma também **suprime marcas de lei já gravadas no corpo do portador**, o que a torna um tratamento além de uma carteira; e ela precisa ser mantida pela organização que a concedeu — longe dela, perde efeitos e passa a funcionar por períodos limitados. É uma imortalidade alugada, com data de vencimento e senhorio.
 
 ## 5. Como se usa: a resposta literal
 
@@ -233,7 +233,7 @@ Existe um caso registrado que parece violar a regra: uma mortal conseguia usar G
 **A alternativa externa: pedras de essência imortal.** Um imortal pode converter **pedras de essência imortal** (a moeda da camada imortal, do tamanho de um ovo de pato, redonda como pérola, translúcida e com brilho de jade) em essência **sua**. A conversão é um ato deliberado, feito na base, e ela **imprime a assinatura dele** — pedra alheia vira essência própria. Mas o câmbio é péssimo e piora a cada rank: uma pedra dá uma conta de uva-verde, mas são precisas dez mil pedras para uma única lichia-branca. Por isso, diz a obra, imortais de rank 8 em geral **produzem a própria essência e a estocam**, em vez de comprar.
 
 > [!warning] Segredo de mestre: o que vem dentro da pedra
-> Só o [[19 - Tribunal Celestial|Tribunal Celestial]] consegue produzir pedras de essência imortal, e a origem delas é um dos segredos mais sujos do mundo: elas saem da abertura de uma criatura cativa, e saem **carregadas da vontade do céu** — só quando a criatura está insana. Sã, ela produz essência limpa; insana, produz pedras.
+> Só o [[19 - Tribunal Celestial|Tribunal Celestial]] consegue produzir pedras de essência imortal, e a origem delas é um dos segredos mais sujos do mundo: elas saem da abertura de ==Yi Qi Zi==, uma criatura que tem abertura imortal própria e foi mantida em cativeiro justamente para isso. Lúcida, ela produz essência imortal comum; **insana**, a mesma abertura produz pedras de essência imortal **carregadas da vontade do céu**. Ver [[15 - Vontade dos Céus|Vontade dos Céus]] e [[19 - Tribunal Celestial|Tribunal Celestial]].
 >
 > A consequência mecânica é concreta: quanto mais alto o rank da pedra, mais vontade do céu vem dentro, e o comprador precisa **expurgá-la** antes de absorver. Se fizer mal o serviço, uma pedra de rank 8 rende só meia conta em vez de uma; um refinador cuidadoso ainda perde cerca de trinta por cento. Pedras de rank 6 não têm esse problema, porque a quantidade de vontade do céu dentro delas é pequena demais — e é exatamente por isso que **só as de rank 6 são distribuídas ao mundo**. Todo imortal das cinco regiões usa, diariamente, uma moeda calibrada para não deixar rastro.
 
@@ -255,7 +255,7 @@ flowchart TD
     A["Territorio da abertura imortal<br/>area, pontos de recurso, anexacoes"] --> B["Nucleo de origem<br/>a fonte: profundidade define QUANTO"]
     R["Rank do dono<br/>define QUAL grau sai"] --> B
     T["Fluxo de tempo interno<br/>multiplica ou freia a producao"] --> B
-    L["Lotus imperial instalado<br/>81 sementes por floracao"] -.->|fonte paralela, rara| E
+    L["Heavenly Essence Treasure Imperial Lotus<br/>81 sementes por floracao"] -.->|fonte paralela, rara| E
     B -->|"tao natural quanto respirar"| E["Contas de essencia<br/>uva-verde / tamara / lichia / damasco"]
     P["Pedras de essencia imortal<br/>compradas no mercado"] -->|"conversao cara: 1 / 100 / 10.000 / 1.000.000"| E
     E --> S["Estoque dentro da abertura<br/>contas inteiras + fracao liquida"]
@@ -275,7 +275,7 @@ flowchart TD
 ## 10. As regras do mundo, enumeradas
 
 1. Só quem tem abertura imortal produz essência imortal. Um mortal pode *possuir* essência imortal emprestada ou uma abertura fantasma, mas não produzir.
-2. A essência sai do núcleo de origem da abertura, e de mais lugar nenhum — salvo o lótus imperial, um recurso lendário instalável.
+2. A essência sai do núcleo de origem da abertura, e de mais lugar nenhum — salvo o Heavenly Essence Treasure Imperial Lotus, um recurso lendário instalável.
 3. O **grau** da conta é determinado pelo rank do núcleo; a **quantidade**, pela fundação do território; a **velocidade aparente**, pelo fluxo de tempo interno.
 4. Um imortal não consegue produzir essência de rank acima do seu, por mais rica que seja sua terra.
 5. A conta é um objeto sólido, do tamanho da fruta que a nomeia, que cabe na palma da mão. Frações existem, e são líquidas.

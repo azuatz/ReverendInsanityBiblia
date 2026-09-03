@@ -10,7 +10,7 @@ aliases:
   - Cadeia produtiva
   - Immortal materials
 status: consolidado
-fontes: ["cap. 39", "cap. 62", "cap. 67", "cap. 106-110", "cap. 117", "cap. 146-148", "cap. 165", "cap. 208", "cap. 241-244", "cap. 273", "cap. 278", "cap. 296", "cap. 307", "cap. 357-358", "cap. 409", "cap. 412", "cap. 418", "cap. 421-424", "cap. 441", "cap. 466-476", "cap. 481", "cap. 487", "cap. 491", "cap. 517", "cap. 537", "cap. 545", "cap. 554-558", "cap. 666", "cap. 672", "cap. 729", "cap. 799", "cap. 954", "cap. 1072", "cap. 1148", "cap. 1291", "cap. 1314", "cap. 1327", "cap. 1338", "cap. 1451", "cap. 1474", "cap. 1615", "cap. 1635", "cap. 1817-1818", "cap. 1850", "cap. 1853", "cap. 2080", "cap. 2091", "cap. 2222"]
+fontes: ["cap. 39", "cap. 62", "cap. 67", "cap. 106-110", "cap. 117", "cap. 146-148", "cap. 163", "cap. 165", "cap. 208", "cap. 241-244", "cap. 273", "cap. 278", "cap. 296", "cap. 307", "cap. 345", "cap. 357-358", "cap. 409", "cap. 412", "cap. 418", "cap. 421-424", "cap. 441", "cap. 466-476", "cap. 481", "cap. 487", "cap. 491", "cap. 517", "cap. 537", "cap. 545", "cap. 554-558", "cap. 558", "cap. 666", "cap. 672", "cap. 729", "cap. 799", "cap. 954", "cap. 1009", "cap. 1072", "cap. 1148", "cap. 1291", "cap. 1314", "cap. 1327", "cap. 1338", "cap. 1451", "cap. 1474", "cap. 1615", "cap. 1635", "cap. 1817-1818", "cap. 1850", "cap. 1853", "cap. 2080", "cap. 2091", "cap. 2222"]
 conhecimento: comum — a existência dos materiais e o comércio deles é conhecimento de qualquer Mestre Gu; a composição de uma receita específica é `especializado`
 ---
 
@@ -67,9 +67,12 @@ Na prática, os materiais se agrupam em seis famílias:
 | **Vivo** | enxames de insetos comuns, rebanhos, humanos variantes | criação e escravização |
 | **Humano** | sangue e vitalidade humanas, e — no extremo — a própria abertura de um Mestre Gu | violência |
 
-Essa última linha não é exagero retórico. Existe um Gu cujo refino exige aberturas humanas
-como ingrediente, e a obra registra, sem rodeios, que a maneira de obtê-las é **comprar
-Mestres Gu escravizados e matá-los**. É o ponto em que a cadeia produtiva deste mundo
+Essa última linha não é exagero retórico. O ==second aperture Gu== (Gu da Segunda Abertura), um
+Gu Imortal de rank 6 que dá ao portador uma segunda abertura de cultivo, exige **aberturas
+humanas** como ingrediente de refino, e a obra registra, sem rodeios, que a maneira de obtê-las
+é **comprar Mestres Gu escravizados e matá-los**. Não é um caso isolado do andar de baixo: no
+patamar imortal existe registro de uma formação de refino montada para consumir **as aberturas
+imortais de Gu Imortais mortos** como matéria-prima. É o ponto em que a cadeia produtiva deste mundo
 deixa de ser uma curiosidade econômica e passa a ser a descrição de um horror.
 
 ## As seis fontes, uma a uma
@@ -123,16 +126,19 @@ lavoura acontece dentro do próprio mundo interno do cultivador.
 Existe mineração industrial neste mundo, e ela é organizada exatamente como se esperaria:
 uma super força é dona do território, e o trabalho braçal é feito por escravos.
 
-O caso mais bem documentado é um deserto inteiro cujo subsolo é minério de todos os tipos,
-em quantidade descomunal, controlado por uma única super força. Uma formação mágica
-permanente vigia o lugar e **controla os incontáveis mineiros escravizados** que trabalham
-lá dentro. E há uma divisão de trabalho técnica embutida: **o minério mortal é escavado
+O caso mais bem documentado é o **deserto das miríades de minérios** (*myriad ore desert*), no
+Deserto Ocidental, cujo subsolo é minério de todos os tipos em quantidade descomunal e que
+pertence inteiro ao **clã Shi**. O lugar existe porque um fragmento de um dos céus imemoriais caiu
+ali na antiguidade e, ao se dissipar, deixou as marcas de dao que converteram a areia em minério;
+no fundo ainda corre a **corrente de fragmentos de ouro**, um rio metálico que sobrou daquele
+fragmento e nunca secou. Uma formação de Gu permanente vigia o lugar e **controla os incontáveis
+mineiros rockmen escravizados** que trabalham lá dentro. E há uma divisão de trabalho técnica embutida: **o minério mortal é escavado
 pelos escravos; o minério de qualidade imortal precisa ser escavado pelos próprios
 cultivadores imortais**, porque está fundo demais e é resistente demais.
 
-Vale registrar o detalhe que torna isso desconfortavelmente coerente: a raça escravizada
-que faz essa mineração é uma raça que **vive no subsolo e come minério**, e da qual
-brotam minérios no próprio corpo. Ela não foi posta ali por acaso — foi posta ali porque
+Vale registrar o detalhe que torna isso desconfortavelmente coerente: os **rockmen**
+(homens-de-pedra) são uma raça que **vive no subsolo e come minério**, e da qual brotam minérios
+no próprio corpo. Ela não foi posta ali por acaso — foi posta ali porque
 é boa nisso.
 
 ### 4. Extração de território
@@ -142,8 +148,9 @@ duas versões disso, uma para cada patamar:
 
 - **Nascente espiritual**, no mundo mortal: produz [[02 - Pedras Primordiais|pedras primordiais]] continuamente. Uma
   nascente pequena entrega mais de **cem milhões de pedras** ao longo dos cinquenta a
-  sessenta anos de vida útil. Existe uma versão portátil, condensada num Gu de rank 3, que
-  produz **cinquenta pedras por dia** para sempre — e extraí-la mata a nascente original.
+  sessenta anos de vida útil. Existe uma versão portátil, o *Heavenly Essence Treasure Lotus* de
+  rank 3, que produz **cinquenta pedras por dia** para sempre — e extraí-la mata a nascente
+  original.
 - **Ponto de recurso**, no patamar imortal: produz material de cultivo continuamente,
   classificado por porte, sendo o porte o teto de rank do material que sai dali. Ver
   [[15 - Economia Imortal|Economia Imortal]].
@@ -275,10 +282,12 @@ pedras primordiais.
 | Corpo de fera desolada / de fera imemorial | ~40 / ~400 pedras de essência imortal |
 | Ovas do peixe que acelera a produção de Gu | 1 pedra de essência imortal — e o preço subiu cem vezes em guerra |
 
-E a unidade de custo mais brutal que a obra publica: uma linha de Gu de topo consome
-**nascentes espirituais inteiras** como ingrediente, sete delas para a versão de rank 4,
-nove para a de rank 5 e onze para a de rank 6 — com um acréscimo de sessenta por cento se
-as nascentes vierem de uma região de qualidade inferior. Não se compra esse material: se
+E a unidade de custo mais brutal que a obra publica: a linha do ==Heavenly Essence Treasure
+Lotus== — a das nascentes portáteis — consome **nascentes espirituais inteiras** como ingrediente.
+Refinar o exemplar de rank 3 já destrói uma nascente; avançá-lo custa **sete** nascentes para a
+versão de rank 4, **nove** para a de rank 5 e **onze** para a de rank 6 — com um acréscimo de
+sessenta por cento se as nascentes vierem de uma região de qualidade inferior. E elas precisam ser
+nascentes vivas e cheias: nascente velha, já secando, não serve. Não se compra esse material: se
 conquista o território dele.
 
 > [!example] Caso mecânico — o gargalo que não se compra

@@ -12,7 +12,7 @@ aliases:
   - Counterfeit Gu
   - Tampered Gu
 status: verificado-no-texto
-fontes: ["cap. 8", "cap. 41", "cap. 44", "cap. 57", "cap. 266", "cap. 276", "cap. 283", "cap. 318", "cap. 379", "cap. 421", "cap. 469", "cap. 475", "cap. 488", "cap. 491", "cap. 495", "cap. 496", "cap. 644", "cap. 650", "cap. 666", "cap. 671", "cap. 711", "cap. 937", "cap. 950", "cap. 1032", "cap. 1293", "cap. 1501", "cap. 1852", "cap. 2098", "cap. 2122", "cap. 2123", "cap. 2124", "cap. 2125", "cap. 2126", "cap. 2151", "cap. 2178", "cap. 2327"]
+fontes: ["cap. 8", "cap. 41", "cap. 44", "cap. 57", "cap. 266", "cap. 276", "cap. 283", "cap. 318", "cap. 379", "cap. 421", "cap. 469", "cap. 475", "cap. 488", "cap. 491", "cap. 495", "cap. 496", "cap. 644", "cap. 650", "cap. 666", "cap. 671", "cap. 711", "cap. 937", "cap. 950", "cap. 1032", "cap. 1293", "cap. 1501", "cap. 1852", "cap. 2098", "cap. 2122", "cap. 2123", "cap. 2124", "cap. 2125", "cap. 2126", "cap. 2151", "cap. 2178", "cap. 2327", "cap. 466"]
 conhecimento: comum
 ---
 
@@ -138,7 +138,7 @@ nenhum**.
   descobre que foi enganado, arma um escândalo público na porta da loja — e o vendedor
   simplesmente nega, exige prova que não existe, e encerra a discussão lembrando que **tem
   um irmão de rank 4**. O comprador engole.
-- No **maior mercado do mundo entre imortais**, o regime está escrito: o mercado cobra uma
+- No **Paraíso do Tesouro Dourado (*Treasure Yellow Heaven*)**, o mercado universal e anônimo dos imortais das cinco regiões, o regime está escrito: o mercado cobra uma
   taxa fixa de serviço, testa a "capacidade de discernimento" do comprador, e se ele levar
   mercadoria falsificada **só lhe resta culpar a própria má sorte** — a casa não se
   responsabiliza por perda nenhuma.
@@ -246,9 +246,9 @@ Três detalhes importam:
   registrado é comercialmente exato: ela vendeu tudo com desconto "por causa dos prejuízos
   do incidente dos Gu falsos", e saiu com a reputação maior do que antes.
 
-No nível imortal existe o análogo: um venerável antigo deixou registrada, como parte de uma
-herança de refino, a técnica de **fabricar Gu Imortais falsos** — e a mesma herança contém
-um Gu-caixa que, deixado ao lado de qualquer Gu Imortal do mundo, **se transforma nele** e
+No nível imortal existe o análogo: *Thieving Heaven Demon Venerable*, o Venerável do caminho do roubo, deixou registrada, como parte da
+herança de refino dele, a técnica de **fabricar Gu Imortais falsos** — ele já havia falsificado até uma estrutura lendária do mundo em vida. E a mesma herança contém
+o ==Imitation Gu (Gu da Imitação)==, um Gu-caixa que, deixado ao lado de qualquer Gu Imortal do mundo, **se transforma nele** e
 pode ser acionado. A cópia funciona, mas é sempre **mais fraca que o original**. É a única
 brecha conhecida na regra de unicidade dos [[16 - Gu Imortais|Gu Imortais]].
 

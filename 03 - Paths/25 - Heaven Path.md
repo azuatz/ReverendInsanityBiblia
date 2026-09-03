@@ -277,11 +277,12 @@ O modo de refinar uma marca do céu é o detalhe mais bonito do caminho inteiro,
 
 A resposta não é "porque é difícil". É **porque é tarde**.
 
-O criador do [[21 - Rule Path|caminho da regra]] resolveu o problema e criou o golpe de entrada
-— e mesmo assim **continuou sendo um cultivador da regra**. A obra explica: *talvez ele tenha
-pesquisado a marca celestial irrestrita para cultivar o caminho do céu, mas naquela altura ele
-**já havia se tornado um Venerável Demônio da regra e não podia mais voltar atrás***. O outro
-Venerável que dominou o golpe cultivava terra.
+O **Limitless Demon Venerable**, criador do [[21 - Rule Path|caminho da regra]], resolveu o
+problema e criou o golpe de entrada — e mesmo assim **continuou sendo um cultivador da regra**. A
+obra explica: *talvez ele tenha pesquisado a marca celestial irrestrita para cultivar o caminho
+do céu, mas naquela altura ele **já havia se tornado um Venerável Demônio da regra e não podia
+mais voltar atrás***. O outro Venerável que dominou o golpe foi o **Paradise Earth Immortal
+Venerable**, que cultivava terra — e o céu era exatamente o caminho de especialidade dele.
 
 `(ded.)` A trava final do caminho do céu, portanto, não é técnica: é **biográfica**. Quando
 alguém acumula domínio e marcas suficientes para chegar perto do caminho do céu, já está
@@ -392,11 +393,11 @@ O céu inveja o gênio. Literalmente.
 
 A linhagem do problema, em três atos, atravessa milhões de anos:
 
-1. O **primeiro supremo grão-mestre de refinamento** da história tentou refinar **o mundo
-   inteiro** como território externo — e **falhou** porque nunca conseguiu refinar marcas do
-   Dao do céu. O caminho começa como um obstáculo, não como uma escola.
-2. **Dois milhões de anos depois**, o criador do [[21 - Rule Path|caminho da regra]] resolveu o
-   problema.
+1. **Old Eccentric Tian Nan**, o primeiro supremo grão-mestre de refinamento da história, tentou
+   refinar **o mundo inteiro** como território externo — e **falhou** porque nunca conseguiu
+   refinar marcas do Dao do céu. O caminho começa como um obstáculo, não como uma escola.
+2. **Dois milhões de anos depois**, o **Limitless Demon Venerable**, criador do
+   [[21 - Rule Path|caminho da regra]], resolveu o problema.
 3. **Mais de um milhão de anos depois**, o Venerável **Paradise Earth** obteve o método e o
    **modificou** — essa versão modificada é a que circula no fim da obra.
 
@@ -439,7 +440,7 @@ essência imortal de rank 8 dentro de uma grande formação de refinamento.
 - **Impossibilidade de herança.** **Não existe "significado verdadeiro" do caminho do céu**
   para ninguém herdar, e a obra explica exatamente por quê: *ninguém consegue cultivar o caminho do
   céu... Nenhum Gu Imortal conseguia cultivá-lo; portanto, **o significado verdadeiro do caminho do
-  céu nunca existiu!*** Nem mesmo a maior instituição do mundo, com as fundações mais profundas que
+  céu nunca existiu!*** Nem mesmo o [[19 - Tribunal Celestial|Tribunal Celestial]], com as fundações mais profundas que
   existem, *jamais viu nem ouviu falar dele*. O atalho que serve ao [[21 - Rule Path|Rule Path]] e ao
   [[16 - Wisdom Path|Wisdom Path]] — e que, com esforço, serve a quase todos os outros caminhos —
   **não existe aqui**. Só a via dura das marcas.

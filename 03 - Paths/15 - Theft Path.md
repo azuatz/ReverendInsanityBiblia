@@ -76,8 +76,9 @@ E vale registrar o que a existência deste caminho fez com o mundo:
 
 ## História
 
-**Criado por um Venerável Demônio na Antiguidade Medieval**, na mesma onda em que nasceram os
-caminhos da madeira e da sorte. Duas particularidades do fundador importam:
+**Criado pelo Thieving Heaven Demon Venerable na Antiguidade Medieval**, na mesma onda em que
+nasceram os caminhos da madeira (Genesis Lotus) e da sorte (Giant Sun). Duas particularidades dele
+importam:
 
 - ele era um **demônio de outro mundo** — trazido para cá de fora, e portador de marcas do Dao
   estrangeiras;
@@ -92,7 +93,7 @@ passa a existir**.
 Ele deixou **dez heranças verdadeiras, distribuídas em pares** — obter uma dá pistas da outra.
 
 **E então o caminho murchou.** A obra é direta: *o caminho do roubo não era um caminho mainstream;
-apesar de ter sido criado por um Venerável, além dele os outros cultivadores do caminho geralmente
+apesar de ter sido criado por Thieving Heaven, além dele os outros cultivadores do caminho geralmente
 **não conseguiam realizar nada significativo***. E: *só ele conseguiu grande sucesso em sua época;
 depois dele, **nem mesmo imortais do caminho do roubo replicaram seus feitos***. Ainda assim, o
 caminho *chegou a se espalhar até certo ponto* pelas cinco regiões.
@@ -456,9 +457,12 @@ Vale enumerar, porque a resposta é econômica e não moral:
 
 ## Praticantes notáveis (sem enredo)
 
-- **O fundador** — Venerável Demônio, **demônio de outro mundo**, com marcas do Dao estrangeiras.
-  Roubo como caminho principal, espaço como especialidade. Deixou dez heranças verdadeiras em
-  pares. Ver [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]].
+- **Thieving Heaven Demon Venerable** — o fundador; Venerável Demônio, **demônio de outro mundo**
+  (*otherworldly demon*) trazido de fora deste mundo, com marcas do Dao estrangeiras. Roubo como
+  caminho principal, espaço como especialidade. Deixou dez heranças verdadeiras em pares, e as
+  guardou atrás de um requisito de identidade, não de força: **só outro demônio de outro mundo
+  consegue herdá-las** — foi por isso que até o Giant Sun Immortal Venerable, já rank 9, saiu de
+  uma delas de mãos vazias e prejudicado. Ver [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]].
 - **O refinador que cobrou em heranças** — um grande perito do refino que trabalhou para dois
   Veneráveis diferentes e cobrou como pagamento **uma herança verdadeira de cada um**. É por isso
   que a organização que ele fundou guarda, entre suas fundações, a herança verdadeira do caminho do

@@ -80,8 +80,7 @@ terminal inexplicável significa que aquele Gu já existe em algum lugar, nas m�
   ritual com ele, colhendo **dois** artefatos onde a regra permitiria um. A consequência de mesa
   é grande: destruir o artefato de um inimigo nunca é só dano — é **abrir uma vaga**,
   possivelmente para quem estava esperando por ela.
-- **Existe uma cópia possível, e ela é oficialmente inferior.** Um Gu-caixa deixado por um
-  venerável antigo, ao ficar algum tempo ao lado de **qualquer** Gu Imortal do mundo,
+- **Existe uma cópia possível, e ela é oficialmente inferior.** O **Imitation Gu (Gu da Imitação)**, deixado por *Thieving Heaven Demon Venerable* na herança do caminho do roubo, é um Gu-caixa que, ao ficar algum tempo ao lado de **qualquer** Gu Imortal do mundo,
   **transforma-se nele** e pode ser acionado por quem o possui. É a única brecha conhecida
   na unicidade — e a obra a fecha com o contrapeso certo: **a cópia é sempre mais fraca que
   o original**. A mesma herança que contém esse Gu contém também a técnica de **fabricar Gu
@@ -186,10 +185,9 @@ sucesso no próprio teto de nível**.
 
 Duas coisas rompem esse regime, e ambas são material de campanha:
 
-- **Instalações lendárias.** Existe uma síntese histórica do caminho do refinamento — uma
-  instalação que funde quatro tecnologias distintas, incluindo uma piscina capaz de
+- **Instalações lendárias.** Existe uma síntese histórica do caminho do refinamento, a **Four Elements Square Regret Blood Refinement Pool**: uma Casa de Gu Imortal de rank 9 que funde quatro tecnologias distintas, incluindo a **Piscina do Arrependimento (*Regret Pool*)**, capaz de
   **refazer** um Gu Imortal destruído a partir da insígnia deixada no refino original, com
-  50 a 60% de sucesso.
+  50 a 60% de sucesso. Ver [[09 - Formações de Gu#Formações de refino|Formações de Gu]].
 
   A ==insígnia (insignia)== merece definição, porque é a peça que faz isso funcionar: é um
   **registro que a instalação grava em todo Gu Imortal refinado por ela** — uma espécie de

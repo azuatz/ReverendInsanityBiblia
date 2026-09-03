@@ -12,7 +12,7 @@ aliases:
   - Otherworldly Demon
   - Demônio de Outro Mundo
 status: consolidado
-fontes: ["cap. 546", "cap. 722", "cap. 780", "cap. 843", "cap. 948", "cap. 956", "cap. 958", "cap. 966", "cap. 986", "cap. 1015", "cap. 1017", "cap. 1019", "cap. 1234", "cap. 1335", "cap. 1435", "cap. 1747", "cap. 1866", "cap. 1964", "cap. 1966", "cap. 2121"]
+fontes: ["cap. 546", "cap. 722", "cap. 780", "cap. 843", "cap. 948", "cap. 956", "cap. 958", "cap. 966", "cap. 986", "cap. 1015", "cap. 1017", "cap. 1019", "cap. 1051", "cap. 1076", "cap. 1234", "cap. 1335", "cap. 1435", "cap. 1747", "cap. 1866", "cap. 1964", "cap. 1966", "cap. 2105", "cap. 2121", "cap. 2135", "cap. 2171", "cap. 2219", "cap. 2297"]
 conhecimento: segredo
 ---
 
@@ -35,7 +35,7 @@ Três consequências saem diretamente daí, e é a partir delas que tudo o mais 
 
 1. **Só o próprio Caminho Celestial o controla diretamente.** Nenhum cultivador o ativa como se ativa um Gu comum — nem um Venerável. O máximo que um ser humano consegue é *observar* fragmentos dele ou *receber revelações*. Ele não é uma arma que alguém empunha; é um órgão do mundo do qual algumas pessoas conseguem ouvir os batimentos.
 2. **Existe uma família inteira de Gu Imortais do caminho do céu** — inveja do céu, ira do céu, tristeza do céu — que, por regra geral, **não podem ser ativados nem por um rank 9**. A única exceção documentada é um **mortal** que esteja em ressonância emocional genuína com a emoção correspondente, e ao preço de anos da própria vida. É uma das inversões mais bonitas do cenário: a coisa mais poderosa do mundo só responde a alguém completamente impotente que esteja sentindo a coisa certa.
-3. **Ninguém jamais cultivou formalmente o caminho do céu.** O maior refinador da Antiguidade Remota tentou refinar **o mundo inteiro** como se fosse um mundo privado externo, e falhou exatamente porque nunca conseguiu refinar marcas do caminho do céu. Morreu tentando.
+3. **Ninguém jamais cultivou formalmente o caminho do céu.** ==**Old Eccentric Tian Nan**==, o primeiro grão-mestre supremo do caminho do refino, na Antiguidade Remota, tentou refinar **o mundo inteiro** como se fosse um mundo privado externo, e falhou exatamente porque nunca conseguiu refinar marcas do caminho do céu. Morreu tentando. O problema só foi resolvido dois milhões de anos depois por *Limitless Demon Venerable*, que criou o golpe **unrestrained heavenly mark** ("marca celestial irrestrita") — o golpe de entrada do caminho do céu e o limiar de entrada mais alto de todos os caminhos; mesmo assim, ele continuou sendo um cultivador do caminho das regras, e nenhum dos dez Veneráveis chegou a cultivar o caminho do céu por completo.
 
 ## O que faz
 
@@ -47,7 +47,7 @@ Isso não significa que o mundo seja um roteiro em que ninguém decide nada. Sig
 
 > **O Fate governa a CERTEZA. O caminho da sorte governa a INCERTEZA.**
 
-São domínios distintos e complementares. Boa sorte é incerteza positiva; má sorte é incerteza negativa. E o par tem uma implicação que a maior instituição do mundo descobriu com amargura: **nem o Fate Gu plenamente reparado dá controle sobre a incerteza**. Quem controla o destino não controla a sorte. É por isso que o caminho da sorte, criado em segredo por um Venerável, é a peça que falta no tabuleiro de quem quer fechar o sistema — e é por isso que se especula sobre um Gu de "rank 10" que fundiria destino e sorte numa coisa só. Ele não existe.
+São domínios distintos e complementares. Boa sorte é incerteza positiva; má sorte é incerteza negativa. E o par tem uma implicação que o [[19 - Tribunal Celestial|Tribunal Celestial]] descobriu com amargura: **nem o Fate Gu plenamente reparado dá controle sobre a incerteza**. Quem controla o destino não controla a sorte. É por isso que o caminho da sorte — criado por *Giant Sun Immortal Venerable*, que o manteve deliberadamente em segredo e nunca o divulgou, deixando-o resumido em três heranças verdadeiras: **sorte própria** (repõe a si mesmo), **sorte dos seres vivos** (toma o excedente dos outros para repor a si mesmo) e **sorte de céu e terra** (toma o excedente do céu e da terra) — é a peça que falta no tabuleiro de quem quer fechar o sistema. Note a elegância: as três heranças são a lei do equilíbrio operada de propósito, e por isso o caminho da sorte "mira a operação dos princípios do céu". É também por isso que se especula sobre um Gu de "rank 10" que fundiria destino e sorte numa coisa só. Ele não existe.
 
 **Como o destino se manifesta na prática:** através de "revelações". O mecanismo não entrega ordens nem visões completas — entrega inclinações, coincidências favoráveis, o encontro certo na hora certa, o obstáculo que aparece do nada. Do lado de dentro, ninguém percebe. Uma pessoa vivendo o próprio destino não tem sensação alguma de estar sendo conduzida.
 
@@ -55,15 +55,20 @@ São domínios distintos e complementares. Boa sorte é incerteza positiva; má 
 
 `conhecimento: segredo` — a peça central da nota.
 
-O Fate Gu **foi ferido de propósito**. Um dos dez Veneráveis o atacou dentro do [[17 - Cosmologia#O Rio do Tempo|Rio do Tempo]] — o ato que a memória histórica registra como "quebrar as correntes que prendiam o destino". Ver [[04 - Os Que Romperam as Leis|Red Lotus Demon Venerable]].
+O Fate Gu **foi ferido de propósito** por ==*Red Lotus Demon Venerable*==, que o atacou dentro do [[17 - Cosmologia#O Rio do Tempo|Rio do Tempo]] — o ato que a memória histórica registra como "quebrar as correntes que prendiam o destino". Ver [[04 - Os Que Romperam as Leis|Red Lotus Demon Venerable]].
+
+Como ele conseguiu, se a regra é que só um demônio de outro mundo fere o Fate Gu? Este é um dos pontos mais bonitos do sistema, e a obra o responde diretamente: **Red Lotus não era um demônio de outro mundo** — ele portava o **rank 9 Love Gu** (Gu do amor), e foi o Love Gu que lhe permitiu ferir o Fate Gu. Por isso ele só conseguiu *danificá-lo*: passou a vida inteira tentando e nunca conseguiu destruí-lo nem ferir a Vontade do Céu.
 
 Desde então, o mundo tem um sistema de destino que funciona parcialmente. Os efeitos observáveis são espalhados por todo o cenário, e a maioria das pessoas nunca liga os pontos:
 
 - **Zumbis existem.** A consequência mais visível e mais banal. Uma alma que deveria deixar o corpo na morte e ser reivindicada pelo mecanismo não é reivindicada. Fica. Zumbis não são magia necromântica: são um **erro de contabilidade do destino**, e o mundo inteiro convive com ele sem saber o que está olhando.
 - **Seres podem escapar do julgamento do destino.** Surge uma categoria formal de existência que o mundo não consegue prever.
-- **A maior instituição do mundo perdeu a plenitude do seu poder** e passou mais de um milhão de anos tentando consertar a peça. Ver [[19 - Tribunal Celestial|Tribunal Celestial]].
+- **A Porta da Vida e da Morte enfraqueceu.** Com o Fate Gu íntegro, a alma de todo ser que morre volta para a **Door of Life and Death** (Porta da Vida e da Morte). Danificado o Fate Gu, a força de sucção da Porta caiu muito: almas fortes ficam no mundo dos vivos e, com o tempo, viram **feras de alma** — que hoje infestam o céu negro em quantidade. Este é o encadeamento completo por trás do item anterior, e é o mesmo motivo pelo qual *Spectral Soul Demon Venerable* conseguiu romper o limite da alma humana e criar o caminho da alma.
+- **O Tribunal Celestial perdeu a plenitude do seu poder** e passou mais de um milhão de anos tentando consertar a peça. Ver [[19 - Tribunal Celestial|Tribunal Celestial]].
 
-**O reparo.** Consertar o Fate Gu é o maior projeto de engenharia da história do mundo, e o custo é obsceno: uma formação mágica de refino operada por quatro cultivadores de rank 8 postados nos pontos cardeais, consumindo materiais raríssimos em massa, colhendo os subprodutos de uma competição centenária de refino que existe secretamente só para isso — e, como material mais importante de todos, **a própria Vontade do Céu**, atraída e absorvida ao longo de cerca de trezentos dias de exposição contínua que já mataram vários operadores.
+**O reparo.** Consertar o Fate Gu é o maior projeto de engenharia da história do mundo, e o custo é obsceno: uma formação mágica de refino operada por quatro cultivadores de rank 8 postados nos pontos cardeais, consumindo materiais raríssimos em massa, e — como material mais importante de todos — **a própria Vontade do Céu**, atraída e absorvida ao longo de cerca de trezentos dias de exposição contínua. Não é figura de linguagem: a Vontade do Céu é ilimitada, resistir a ela desgasta a mente dos operadores, e o Tribunal Celestial já perdeu vários imortais de rank 8 nesse posto.
+
+A competição que alimenta o projeto tem nome: a ==**Convenção do Caminho do Refino**== (*Refinement Path Convention*) do Continente Central, o grande torneio de refinadores do mundo, realizado de tempos em tempos e aberto às cinco regiões. O que ela produz de útil para o reparo é contraintuitivo e delicioso: a terra abençoada **Infallible** recolhe os **Gu de fracasso** mortais gerados pelos competidores e, quando enche, converte esse fracasso acumulado em **36 marcas do sucesso** — marcas de dao especialíssimas, muito ligadas ao caminho do refino. O Tribunal Celestial retira 30 delas e deixa 6 para a convenção. Em outras palavras: o torneio público de refino é, por baixo, uma **usina de reciclagem de fracasso** montada para consertar o destino do mundo.
 
 Ao longo da obra, a peça sobe de aproximadamente metade da capacidade para pouco mais de sessenta por cento. Nunca chega a cem.
 
@@ -93,7 +98,7 @@ O efeito prático é imunidade parcial aos mecanismos do céu. Há um caso docum
 - **Por contágio de associação.** Aliados próximos e prolongados de um demônio de outro mundo tornam-se foragidos do destino sem serem eles mesmos de fora. O critério exato e o limite do contágio nunca são fechados pela obra — o que, para uma mesa, é conveniente: o mestre define a régua.
 - **Sendo um zumbi imortal**, por existir fora do julgamento.
 
-Há também um caso especial e importante: a **posse de um artefato de regressão temporal** basta para tirar alguém do destino. Faz sentido dentro da lógica do cenário — quem pode reescrever o próprio passado não tem um caminho de vida fixo, tem vários.
+Há também um caso especial e importante: a **posse de um Gu de regressão temporal** — o **Spring Autumn Cicada** (Cigarra da Primavera e do Outono), que envia a consciência do portador de volta a um ponto anterior da própria vida — basta para tirar alguém do destino. Faz sentido dentro da lógica do cenário: quem pode reescrever o próprio passado não tem um caminho de vida fixo, tem vários.
 
 **A vigilância.** Foragidos são localizados por uma construção específica — a Torre que Observa o Céu, erguida sobre o próprio Fate Gu e operada pelo [[19 - Tribunal Celestial|Tribunal Celestial]]. Ela tem **quatro cegueiras publicadas** e um custo por consulta que um alvo hábil consegue encarecer de fora; a tabela completa dos limites, com a consequência de mesa de cada um, está em [[19 - Tribunal Celestial#A Torre que Observa o Céu]] — que é a nota dona do artefato.
 
@@ -109,11 +114,15 @@ A regra que fecha o dossiê é de uma economia notável:
 
 > **A imunidade ao Fate Gu deriva de um único status: ser um demônio de outro mundo.** Só um demônio de outro mundo não é restringido pelos grilhões do destino.
 
-E o inverso vale igualmente: **só um demônio de outro mundo consegue ferir o Fate Gu.** Imunidade e capacidade de dano vêm do mesmo fato ontológico. Um Venerável nativo atacou a instituição que guarda a peça e falhou em arranhá-la; o que não pertence a este mundo não está sujeito às leis dele nem em uma direção nem na outra.
+E o inverso vale igualmente: **só um demônio de outro mundo *completo* consegue destruir o Fate Gu.** Imunidade e capacidade de dano vêm do mesmo fato ontológico: o que não pertence a este mundo não está sujeito às leis dele nem numa direção nem na outra. E a obra fecha a trava com um detalhe cruel — **os demônios de outro mundo não chegam a este mundo completos**, de modo que, em condições normais, ninguém no mundo pode destruir o Fate Gu.
 
-**De onde eles vêm.** Não é mistério mágico. Existe uma perfuração deliberada e permanente na membrana externa do mundo, operada por uma construção de escala Venerável que puxa matéria de fora para dentro como matéria-prima. Os demônios de outro mundo são **subproduto de infraestrutura**. Ver [[17 - Cosmologia#A fronteira do mundo]].
+O teste histórico está registrado: três Demon Venerables — *Limitless*, *Reckless Savage* e *Red Lotus* — atacaram o Tribunal Celestial em gerações sucessivas, cada um invencível em seu tempo, e os três foram barrados pelos arranjos que *Star Constellation Immortal Venerable* deixou prontos antes de morrer, montados justamente em torno do Fate Gu. Nenhum deles conseguiu tomar nem destruir a peça.
 
-**Como se detecta um.** A categoria é mecanicamente verificável, o que é raro e útil: certas heranças **só se abrem** a demônios de outro mundo, e certos fenômenos ambientais que dissolvem qualquer coisa simplesmente não os tocam quando eles são "aceitos". Existe até uma instituição que os identifica e recruta ativamente — e há um Gu de rank 9 cuja função é **fabricar artificialmente** um corpo com esse status.
+**De onde eles vêm.** Não é mistério mágico. Existe uma perfuração deliberada e permanente na membrana externa do mundo, no fundo da **Crazed Demon Cave**, operada pela *crazed demon ninth void formation* de *Limitless Demon Venerable*, que puxa matéria de fora para dentro como matéria-prima. Os demônios de outro mundo são **subproduto de infraestrutura**. Ver [[17 - Cosmologia#A fronteira do mundo]].
+
+**O que eles carregam no corpo.** Todo demônio de outro mundo traz consigo a insígnia do mundo de origem, na forma de **marcas de dao de outro mundo** — marcas que não pertencem a este mundo. É essa bagagem, e não uma qualidade mística vaga, que limita o alcance do Fate Gu sobre eles. Ela também é utilizável: as marcas de dao de espaço vindas de fora foram o material com que a fronteira do mundo foi remendada depois de ser rompida.
+
+**Como se detecta um.** A categoria é mecanicamente verificável, o que é raro e útil: certas heranças **só se abrem** a demônios de outro mundo — *Thieving Heaven Demon Venerable*, ele próprio um demônio de outro mundo, deixou dez heranças verdadeiras com exatamente essa condição de acesso, e *Red Lotus Demon Venerable* fez o mesmo com a dele —, e certos fenômenos ambientais que dissolvem qualquer coisa simplesmente não os tocam quando eles são "aceitos". E há um Gu de rank 9 cuja função é **fabricar artificialmente** um corpo com esse status: o **sovereign immortal fetus Gu** (Gu do feto imortal soberano), refinado por *Spectral Soul Demon Venerable* ao longo de dezenas de milhares de anos justamente para produzir um demônio de outro mundo completo.
 
 > [!note] Para o design
 > "Personagem transmigrado de outro mundo" é o clichê fundador de metade das fantasias modernas. Aqui ele é convertido em **categoria mecânica com consequências de sistema**: o transmigrado é imune ao destino, é detectável por testes objetivos, é caçado institucionalmente por razões de manutenção, e é a única chave que abre certas portas. Se a designer quiser permitir personagens vindos de fora do mundo, o cenário já traz a ficha pronta — com vantagem, com marcador e com preço.
@@ -122,7 +131,7 @@ E o inverso vale igualmente: **só um demônio de outro mundo consegue ferir o F
 
 `conhecimento: segredo` — relevante para quem quiser ambientar depois da Grande Era.
 
-O Fate Gu **pode ser danificado por um instrumento específico**: um outro Gu de rank 9, associado ao amor. A demonstração canônica é elegante — usá-lo permitiu alterar um resultado que uma tribulação vinha recalibrando teimosamente para se repetir, ao preço formal de o usuário atravessar a tribulação sem ascender. Dois resultados fixos mudaram ao mesmo tempo, e é isso que prova a capacidade.
+O Fate Gu **pode ser danificado por um instrumento específico**: o **Love Gu** de rank 9 (Gu do amor), Gu-assinatura da seita **Spirit Affinity House**. Ele tem uma falha declarada que o torna jogável em vez de onipotente: **não se deixa comandar**. Pedir ataque e ele carrega o portador para longe voando; pedir defesa e ele cura; na hora em que se quer que ele funcione, não faz nada, e na hora em que não se quer, irrompe sozinho com toda a força. Nem um Venerável consegue refiná-lo à força. A demonstração canônica da capacidade é elegante: usá-lo permitiu alterar um resultado que uma tribulação vinha recalibrando teimosamente para se repetir, ao preço formal de o usuário atravessar a tribulação sem ascender. Dois resultados fixos mudaram ao mesmo tempo, e é isso que prova a capacidade.
 
 E existe um estado final documentado: no mesmo evento causal em que as cinco regiões se fundem numa só, o Fate Gu **não é destruído** — é **fragmentado em incontáveis porções e distribuído a cada pessoa das cinco regiões**, fundido à sorte individual de cada uma.
 

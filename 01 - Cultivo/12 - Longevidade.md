@@ -6,7 +6,7 @@ aliases:
   - Longevity
   - Tempo de vida
 status: consolidado
-fontes: ["cap. 126", "cap. 145-146", "cap. 145", "cap. 185-186", "cap. 192-193", "cap. 199", "cap. 210-211", "cap. 297", "cap. 367", "cap. 385", "cap. 390", "cap. 449-453", "cap. 461", "cap. 492", "cap. 537", "cap. 563", "cap. 588", "cap. 599-601", "cap. 615", "cap. 637-638", "cap. 646-647", "cap. 733", "cap. 767", "cap. 778", "cap. 823", "cap. 928", "cap. 947", "cap. 956", "cap. 1017", "cap. 1029", "cap. 1036-1039", "cap. 1054", "cap. 1069-1070", "cap. 1074", "cap. 1109", "cap. 1122-1123", "cap. 1128-1129", "cap. 1243", "cap. 1266", "cap. 1299-1301", "cap. 1331-1332", "cap. 1400", "cap. 1434", "cap. 1441", "cap. 1479", "cap. 1489", "cap. 1511", "cap. 1581", "cap. 1721", "cap. 1732", "cap. 1747", "cap. 1782", "cap. 1836", "cap. 1903", "cap. 1966", "cap. 2085", "cap. 2189", "cap. 2260", "cap. 2275", "cap. 2298", "cap. 2328"]
+fontes: ["cap. 126", "cap. 145-146", "cap. 145", "cap. 185-186", "cap. 192-193", "cap. 199", "cap. 210-211", "cap. 297", "cap. 367", "cap. 385", "cap. 390", "cap. 449-453", "cap. 461", "cap. 492", "cap. 537", "cap. 563", "cap. 588", "cap. 599-601", "cap. 615", "cap. 637-638", "cap. 646-647", "cap. 733", "cap. 767", "cap. 778", "cap. 823", "cap. 928", "cap. 947", "cap. 956", "cap. 1017", "cap. 1029", "cap. 1036-1039", "cap. 1054", "cap. 1069-1070", "cap. 1074", "cap. 1109", "cap. 1122-1123", "cap. 1128-1129", "cap. 1243", "cap. 1266", "cap. 1299-1301", "cap. 1331-1332", "cap. 1400", "cap. 1434", "cap. 1441", "cap. 1479", "cap. 1489", "cap. 1511", "cap. 1581", "cap. 1721", "cap. 1732", "cap. 1747", "cap. 1782", "cap. 1836", "cap. 1903", "cap. 1966", "cap. 2085", "cap. 2189", "cap. 2260", "cap. 2275", "cap. 2298", "cap. 2328", "cap. 344-345", "cap. 1154", "cap. 1255", "cap. 1450", "cap. 1176", "cap. 1817"]
 conhecimento: comum
 ---
 
@@ -56,7 +56,7 @@ O Lifespan Gu é, tecnicamente, um Gu **mortal** — tier baixo. E mesmo assim �
 A razão da escassez tem três camadas, e cada uma é mais interessante que a anterior:
 
 - **Camada demográfica:** Gu de longevidade **nascem de formas de vida**. A fórmula do mundo é acumulativa — mais população, mais história e mais espaço equivalem a mais Gu de longevidade acumulados numa região. É um recurso renovável, mas lentíssimo, e proporcional à densidade civilizacional.
-- **Camada histórica:** cada Venerável esvazia o suprimento mundial. Um deles usou uma estrutura lendária de rank 8 majoritariamente para **saquear os Gu de longevidade de uma região inteira** — alimentar seu Gu de sabedoria era objetivo secundário. Morto o Venerável, a produção recomeça, até o próximo grande saque.
+- **Camada histórica:** cada Venerável esvazia o suprimento mundial. Um deles construiu o **Eighty-Eight True Yang Building (Edifício dos Oitenta e Oito Yang Verdadeiros)**, uma estrutura de rank 8, e a usou majoritariamente para **saquear os Gu de longevidade da Planície Norte inteira** — alimentar seu Gu da Sabedoria era objetivo secundário. Era descrito como a melhor "colheitadeira" de Gu de longevidade do mundo, e foi perdido de forma irrecuperável. Morto o Venerável, a produção recomeça, até o próximo grande saque.
 - **Camada estrutural:** e essa fecha o assunto, ver a seção de segredos abaixo.
 
 **A única saída do ciclo de escassez** é produzir os próprios: fabricar Gu de longevidade dentro da própria abertura imortal é o **sétimo e último nível** da escada de desenvolvimento de um mundo pessoal — o topo formal da autossuficiência imortal.
@@ -71,12 +71,12 @@ Todos "contra a natureza", todos cobrando em outra moeda:
 |---|---|---|
 | **Zumbificação** | existência indefinida, sem conceito de tempo de vida | corpo morto-vivo com fraquezas fixas; a abertura "morre" e o cultivo estagna; sem provações, e portanto sem dao marks. A rota inteira está em [[17 - Zumbis e Corpos Transformados\|Zumbis e Corpos Transformados]] |
 | **Animação suspensa** em caixão selado | adia a morte enquanto restar um fio de vida | não cura nada; o portador emerge exatamente no estado em que entrou |
-| **Corpo de criança permanente** | acumula força vital e a libera devagar; um usuário chegou a mais de 180 anos | aparência e corpo de criança para sempre |
+| **Return to Childhood Gu** (Gu do Retorno à Infância) | acumula força vital e a libera devagar; o usuário documentado tinha **mais de 180 anos** com cultivo de rank 4 superior | aparência e corpo de criança para sempre — o dono é conhecido no mundo pelo apelido "Menino Centenário" |
 | **Possessão** de um corpo novo | escapa à morte trocando de corpo | criticado no próprio mundo como "mera luta na porta da morte"; a alma fica impura, com lapsos de memória |
 | **Transferência entre casais imortais** | move anos de uma pessoa para outra | **soma zero exata** — puro transporte, não cria vida nenhuma |
 | **Virar espírito de terra** | a obsessão residual se funde ao mundo pessoal e sobrevive à morte | rígido, preso à terra, sem memórias plenas |
 | **Dormir a maior parte do tempo** | reduz o consumo | vida não vivida |
-| **Extensão comercial** | anos vendidos a clientes por um especialista com herança própria | é um negócio estabelecido, com preço; mais de mil anos já vendidos por uma única fornecedora |
+| **Extensão comercial** | anos vendidos a clientes por uma imortal do caminho do refino, dona de uma herança específica de Gu de longevidade, que atrai clientela para a própria terra abençoada | é um negócio estabelecido, com preço; **mais de mil anos** já vendidos por essa única fornecedora |
 | **Extração direta de vida** de um prisioneiro dominado | recupera anos e poder de imediato | vítimas envelhecem e morrem; parece escapar ao teto de aplicabilidade do Gu de longevidade |
 
 > [!note] Para o design
@@ -114,7 +114,7 @@ Esta é a mecânica que mais aparece na mesa, e o mundo a trata com naturalidade
 
 **Como preço de adivinhação:**
 
-- Um Gu que responde perguntas de sim ou não cobra **cinquenta anos por resposta, custo fixo** — e se o consulente tiver menos de cinquenta anos restantes, o uso **o mata na hora**.
+- O ==Yes or No Gu (Gu do Sim ou Não)==, um Gu Imortal do caminho da informação, colhe a resposta diretamente de céu e terra, mas o portador só pode dizer "sim" ou "não". Cobra **cinquenta anos por resposta, custo fixo** — e se o consulente tiver menos de cinquenta anos restantes, o uso **o mata na hora**, o que já aconteceu. Detalhe que o torna ainda mais estranho: ele não é refinado, e sim **nasce dentro do corpo** de um membro de uma linhagem específica, que é mortal e normalmente não tem escolha sobre responder.
 - Um Gu de adivinhação de altíssimo nível falha em oito de cada dez tentativas, e cada falha custa de dez a setenta anos; uma consulta bem-sucedida chega a cerca de **cem anos**.
 - Uma única profecia importante custou **cinquenta anos** a quem a fez.
 - Adivinhação que **falha** também cobra: perda de anos e de juventude no backlash.
@@ -122,18 +122,18 @@ Esta é a mecânica que mais aparece na mesa, e o mundo a trata com naturalidade
 
 **Como preço de aceleração temporal:**
 
-- Um Gu que triplica o fluxo de tempo pessoal — cultivando e recuperando três vezes mais rápido — reduz o tempo de vida restante a **um terço**. Tudo o que amadurece dentro do usuário acelera junto, inclusive venenos e doenças. Deixa uma marca permanente no corpo, o que o torna público.
+- O ==Third Watch Gu (Gu da Terceira Vigília)==, de rank 5 e uso único, triplica o fluxo de tempo pessoal — cultivando e recuperando três vezes mais rápido — e reduz o tempo de vida restante a **um terço**. Tudo o que amadurece dentro do usuário acelera junto, inclusive venenos e doenças. Deixa no corpo uma **tatuagem triangular prateada** permanente, o que torna o uso público. Aplicado em dupla, num refino extremo, chega a nove vezes.
 - Um consumível comprime processos de meses em instantes, pagando exatamente o tempo comprimido em anos de vida.
 - Viver dentro de uma abertura imortal de fluxo acelerado **consome vida na proporção interna**, porque o tempo de vida de um imortal é definido como o total que seu corpo já **experienciou**, contando a dilatação. É por isso que imortais ricos preferem morar **fora** da própria abertura, entrando só quando necessário.
 
 **Como combustível de combate:**
 
 - Queimar a própria expectativa de vida **eleva o poder ofensivo**, permitindo lutar acima do próprio nível temporariamente. É prática geral, não exceção.
-- Um golpe de topo custou **cem anos por uso** ao seu dono, que o usou três vezes na vida inteira.
-- Existe uma técnica cujo custo é **visível e progressivo**: tatuagens de serpente avançam pelo corpo do usuário, e quando alcançam a cabeça significa morte. Enquanto ativa, amplia enormemente a capacidade dele.
+- O golpe **lâminas da reencarnação nove-nove (nine-nine reincarnation blades)** custava **cem anos por uso** ao seu dono, que o acionou três vezes na vida inteira.
+- O golpe **"o mover de um único pensamento, o florescer da serpente vermelha"**, do caminho do refino, tem custo **visível e progressivo**: tatuagens de serpente vermelha avançam pelo corpo do usuário, e quando alcançam a cabeça significa morte. Enquanto ativo, amplia enormemente a capacidade de refino dele.
 - E existe a mecânica invertida, o arquétipo do guerreiro que fica mais forte quanto mais perto da morte está: um golpe em que **quanto menor o tempo de vida restante, maior a amplificação** — e que é irreversível, porque uma vez ativado o tempo de vida só pode diminuir.
 
-**Como alvo de ataque:** o roubo de vida é arma real. Um golpe lendário retrai anos de **todos os seres vivos numa área**, sem distinguir aliado de inimigo, envelhecendo instantaneamente os atingidos e concentrando tudo no usuário. Suas regras revelam o desenho do sistema: limite inamovível de três usos; é um efeito puro, não um golpe de dano, então defesas parciais funcionam; e — o detalhe mais cruel — o roubo é **desproporcionalmente letal contra veteranos**, que já gastaram a maior parte dos próprios anos. Um ataque que mal arranha um jovem **mata um ancião de velhice instantânea**. Hibernar entre batalhas e ser vulnerável a roubo de vida são a mesma moeda.
+**Como alvo de ataque:** o roubo de vida é arma real. O ==Steal Life Immortal Gu (Gu Imortal de Roubar Vida)==, de rank 8 e núcleo da herança de um Venerável, retrai para o usuário anos de **todos os seres vivos numa área** — uma luz vermelha que se espalha e depois recolhe "como flechas voltando ao arco" —,, sem distinguir aliado de inimigo, envelhecendo instantaneamente os atingidos e concentrando tudo no usuário. Suas regras revelam o desenho do sistema: limite inamovível de três usos; é um efeito puro, não um golpe de dano, então defesas parciais funcionam; e — o detalhe mais cruel — o roubo é **desproporcionalmente letal contra veteranos**, que já gastaram a maior parte dos próprios anos. Um ataque que mal arranha um jovem **mata um ancião de velhice instantânea**. Hibernar entre batalhas e ser vulnerável a roubo de vida são a mesma moeda.
 
 Pior ainda, existe a versão silenciosa: o efeito por uso pode ser baixo, quase imperceptível, mas **cumulativo e oculto**. Um alvo pode ser drenado ao longo de anos sem jamais notar, e simplesmente **morrer de exaustão de vida** mais cedo do que deveria, no meio de uma batalha, sem nenhum ferimento que explique. É o assassinato mais indetectável que este sistema permite.
 
@@ -160,7 +160,13 @@ A obra distingue formalmente as duas coisas, e a distinção é o fecho do domí
 - **Longevidade** é muitos anos. Mesmo a de um Venerável continua sujeita a ser interrompida por um inimigo mais forte. É tudo o que qualquer ser já teve.
 - **Vida eterna** é **invencibilidade completa**: imunidade total e permanente ao tempo, ao espaço e aos seres vivos.
 
-Ninguém jamais alcançou a segunda. O ser mais bem preparado da história — com **um milhão de anos de planejamento** — construiu um projeto inteiro para isso e falhou: a última tentativa terminou com ele declarando que a vida eterna não existe e se desintegrando. O que sobrou do projeto foi tecnologia avulsa, não um método. E o próprio mundo não sabe responder: perguntar por um método de vida eterna através dos canais de inspiração natural **não obtém resposta alguma** — a pergunta excede o que o céu e a terra conseguem responder.
+Ninguém jamais alcançou a segunda, e a obra dá duas razões estruturais para isso — nenhuma delas dependente de quem tentou.
+
+A primeira é uma trava declarada: **enquanto o [[16 - Fate Gu|Fate Gu]] existir íntegro, nenhum ser pode ter vida eterna**. É afirmado como fato estabelecido no texto sagrado do mundo, e só deixa de valer quando esse Gu é fragmentado — momento a partir do qual a obra registra que "finalmente havia a possibilidade de perseguir a vida eterna". Até então, a busca não era difícil: era proibida por construção.
+
+A segunda é que os projetos de pesquisa que existiram fracassaram, e o maior deles está no mapa: o Venerável que criou o caminho da regra montou a [[26 - A Caverna do Demônio Enlouquecido|Caverna do Demônio Enlouquecido]] inteira — nove camadas e uma super formação de Gu em torno de um Gu Imortal de rank 9 de derivação — justamente para derivar marcas de lei novas e usá-las como pista para a vida eterna. A obra deixa deliberadamente em aberto se ele chegou a algum resultado, e gerações de excêntricos passaram séculos ali tentando repetir o trajeto.
+
+E o próprio mundo não sabe responder: perguntar por um método de vida eterna através dos canais de inspiração natural **não obtém resposta alguma** — a pergunta excede o que o céu e a terra conseguem responder.
 
 Mas atenção ao que o texto **não** diz: ele nunca declara a vida eterna impossível em princípio. Afirma que o mais preparado morreu tentando, e que a pergunta está além do que o mundo consegue responder. Se isso é um limite ontológico ou apenas o limite do conhecimento atual permanece deliberadamente em aberto — e é uma porta que qualquer campanha pode atravessar.
 

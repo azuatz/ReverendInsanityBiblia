@@ -15,7 +15,7 @@ aliases:
   - Trincheira Terrestre
   - Mineração
 status: consolidado
-fontes: ["cap. 1", "cap. 4", "cap. 15", "cap. 17", "cap. 88", "cap. 92", "cap. 156", "cap. 158", "cap. 409", "cap. 412", "cap. 414", "cap. 421", "cap. 423", "cap. 466", "cap. 640", "cap. 728", "cap. 741", "cap. 742", "cap. 743", "cap. 843", "cap. 931", "cap. 1155", "cap. 1301", "cap. 1312", "cap. 1408", "cap. 1653", "cap. 2145", "cap. 2297", "cap. 2298"]
+fontes: ["cap. 1", "cap. 4", "cap. 5", "cap. 15", "cap. 17", "cap. 88", "cap. 92", "cap. 156", "cap. 158", "cap. 409", "cap. 412", "cap. 414", "cap. 421", "cap. 423", "cap. 466", "cap. 640", "cap. 728", "cap. 741", "cap. 742", "cap. 743", "cap. 843", "cap. 931", "cap. 1155", "cap. 1301", "cap. 1312", "cap. 1408", "cap. 1653", "cap. 2044", "cap. 2050", "cap. 2145", "cap. 2297", "cap. 2298"]
 conhecimento: comum
 ---
 
@@ -43,9 +43,9 @@ as pedras que todo mundo gasta.
 
 Comece pelo caso mais bem documentado da obra, porque ele é o **padrão**, não a exceção.
 
-Séculos atrás, um clã migrou de uma região para outra e se estabeleceu numa montanha. O motivo
-está registrado em uma frase: **"foi quando eles encontraram uma nascente espiritual naquela
-caverna subterrânea"**. A caverna não é um detalhe pitoresco do lugar. É a razão do lugar.
+Séculos atrás, o **clã Gu Yue** migrou do Continente Central para a Fronteira Sul e se
+estabeleceu na **Qing Mao Mountain**. O motivo está registrado em uma frase: **"foi quando eles
+encontraram uma nascente espiritual naquela caverna subterrânea"**. A caverna não é um detalhe pitoresco do lugar. É a razão do lugar.
 
 **Como é lá dentro.** Desce-se por uma escadaria de pedra construída. A caverna é bonita:
 estalactites brilhando com as cores do arco-íris. Algumas centenas de passos adiante, escurece e
@@ -97,12 +97,16 @@ Três regras geográficas que decorrem disso:
 > energia primordial do mundo é infinita e as nascentes produzem pedras sozinhas, **mas ninguém
 > jamais encontrou uma "nascente imortal"** que produzisse a moeda dos cultivadores imortais. Não
 > existe. A lei do equilíbrio do mundo **não produziria** espontaneamente um recurso desses, e
-> produzi-lo exige literalmente manipular a Vontade do Céu — um laço impossível, que só foi
-> quebrado por meios extraordinários e que hoje é monopólio de uma única instituição. Ver
-> [[19 - Tribunal Celestial|Tribunal Celestial]] e [[15 - Vontade dos Céus|Vontade dos Céus]].
+> produzi-lo exige literalmente injetar Vontade do Céu dentro da pedra — um laço impossível, que
+> só foi quebrado por uma anomalia com nome próprio: **Yi Qi Zi**, uma criatura que possui
+> abertura imortal e cuja abertura, quando ela enlouquece, produz pedras de essência imortal
+> carregadas de Vontade do Céu. Foi assim que *Primordial Origin Immortal Venerable* começou a
+> fabricá-las, mantendo Yi Qi Zi em cativeiro; hoje a produção é monopólio do **Tribunal
+> Celestial**. Ver [[19 - Tribunal Celestial|Tribunal Celestial]] e
+> [[15 - Vontade dos Céus|Vontade dos Céus]].
 >
-> O que um personagem comum sabe é só isto: **a moeda dos imortais vem da instituição suserana.**
-> Por que ela é a única que consegue fabricá-la, quase ninguém no mundo sabe.
+> O que um personagem comum sabe é só isto: **a moeda dos imortais vem do Tribunal Celestial.**
+> Por que ele é o único que consegue fabricá-la, quase ninguém no mundo sabe.
 
 ## 2. Quem minera
 
@@ -179,7 +183,7 @@ incomparavelmente grande".
 - **É dividido em camadas.** Cada camada tem **pelo menos centenas de milhares de quilômetros
   quadrados**. Há de tudo: cavernas e túneis, alguns como labirintos, alguns com lagos
   subterrâneos gigantescos, alguns com chão plano.
-- **Ninguém chegou ao fim.** A grande seita que o controla passou **milhares de anos** explorando
+- **Ninguém chegou ao fim.** A **Ancient Soul Sect** (Seita da Alma Ancestral), uma das dez grandes seitas ancestrais do Continente Central e dona do Abismo, passou **milhares de anos** explorando
   e só mapeou por completo dezoito camadas, com incursões breves até a vigésima sétima; da vigésima
   oitava à trigésima sexta, apenas os imortais dela circulam, e raramente. O total descoberto
   eventualmente chega a **cento e sete camadas** — e nem isso é o fundo.
@@ -190,8 +194,8 @@ incomparavelmente grande".
   imortal abaixo da quadragésima camada escapa à detecção até de quem domina a região há milênios.
 - **Ele arrota.** Uma maré de bestas sem precedentes já **subiu de dentro do Abismo**, invadiu a
   superfície, arrastou consigo os bandos que já viviam em cima e assolou o Continente Central
-  inteiro; conter aquilo exigiu anos de esforço conjunto do caminho correto e do caminho
-  demoníaco. Depois disso, os dois lados passaram a explorar o Abismo juntos, caçando feras por
+  inteiro; as dez grandes seitas ancestrais levaram **vários anos** só para limpar a superfície,
+  e depois disso caminho correto e caminho demoníaco passaram a explorar o Abismo juntos. Depois disso, os dois lados passaram a explorar o Abismo juntos, caçando feras por
   recursos.
 
 ### As Trincheiras Terrestres (*Earth Trenches*)
@@ -204,11 +208,15 @@ mais magníficas do mundo dos Mestres Gu".
   Algumas se estendem por **milhões de li**; algumas têm **dezenas de milhares de quilômetros de
   profundidade**; algumas são insondáveis. A entrada é descrita como "a boca sangrenta de uma fera
   cruel", e a fenda **se alarga dezenas ou centenas de vezes** conforme se desce.
-- **Cada uma tem dono.** A das Planícies do Norte é guardada de perto por uma organização que
-  construiu a própria cidade principal **na boca dela** — para ocupar o ponto de recurso.
+- **Cada uma tem dono.** A das Planícies do Norte é guardada de perto pela **Zombie Alliance**
+  (Aliança dos Zumbis) do norte, que construiu a própria capital — a **Dark Flow Giant City** —
+  bem **na boca dela** para ocupar o ponto de recurso, e mantém três imortais zumbis de rank 7
+  em rodízio na vigilância da entrada.
 - **E vale a pena.** O norte é a região **mais pobre** das cinco em recursos de cultivo, e é
   dentro da trincheira dele que está a grande área rica. O produto principal é o **óleo negro**,
-  base do comércio da organização que a controla; há também caracóis de casco de terra que só
+  a principal mercadoria de exportação da Aliança dos Zumbis — as missões de descida para
+  coletá-lo são as mais disputadas entre os imortais zumbis, porque o coletor fica com tudo o que
+  trouxer além da cota; há também caracóis de casco de terra que só
   existem no fundo, plantas misteriosas e Gu selvagens cada vez mais fortes conforme se desce.
 - **E há trincheira debaixo do mar.** A obra reconhece "trincheiras terrestres de mar profundo"
   como categoria: uma ilha comum pode estar na **borda** de uma trincheira submarina, e as ilhas

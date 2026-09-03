@@ -6,7 +6,7 @@ aliases:
   - Immortal ascension
   - Ascensão 5 para 6
 status: consolidado
-fontes: ["cap. 492", "cap. 519", "cap. 544-546", "cap. 561", "cap. 563", "cap. 600", "cap. 606-612", "cap. 616", "cap. 626-634", "cap. 690", "cap. 693", "cap. 703", "cap. 939", "cap. 1027-1028", "cap. 1033", "cap. 1367-1368", "cap. 1439", "cap. 1449", "cap. 1459", "cap. 1461", "cap. 1489", "cap. 1646", "cap. 655", "cap. 665-666", "cap. 672", "cap. 692", "cap. 971", "cap. 1053", "cap. 1082", "cap. 1291", "cap. 1681", "cap. 2228", "cap. 2253"]
+fontes: ["cap. 492", "cap. 519", "cap. 544-546", "cap. 561", "cap. 563", "cap. 600", "cap. 606-612", "cap. 616", "cap. 626-634", "cap. 690", "cap. 693", "cap. 703", "cap. 939", "cap. 1027-1028", "cap. 1033", "cap. 1367-1368", "cap. 1439", "cap. 1449", "cap. 1459", "cap. 1461", "cap. 1489", "cap. 1646", "cap. 655", "cap. 665-666", "cap. 672", "cap. 692", "cap. 971", "cap. 1053", "cap. 1082", "cap. 1291", "cap. 1681", "cap. 2228", "cap. 2253", "cap. 600-601", "cap. 683-685"]
 conhecimento: especializado
 ---
 
@@ -75,7 +75,7 @@ O desequilíbrio entre os três qi mata de três maneiras distintas, e cada uma 
 - **Ascender não estende o tempo de vida.** Nem um ano. Ver [[12 - Longevidade|Longevidade]].
 - **Fusão espontânea de Gu:** na ressonância da ascensão, dois Gu rank 5 de leis afins podem se fundir sozinhos num Gu imortal — um Gu sem receita replicável, essencialmente um bônus. Só as aberturas de grau alto sobram energia para isso.
 - **O corpo é remodelado pela especialidade.** As três energias reconstroem o corpo conforme o Gu vital escolhido, produzindo um "corpo imortal" daquela especialidade: golpes e Gu da mesma linha ficam amplificados, os demais rendem apenas o comum.
-- **Existe um Gu que coleta o human qi de outras pessoas** e o soma ao próprio na ascensão, compensando acúmulo insuficiente e elevando muito a taxa de sucesso. É de alto rank e vem de uma herança lendária — mas registra a categoria: human qi é, tecnicamente, extraível de terceiros.
+- **Existe um Gu que coleta o human qi de outras pessoas**: o ==Human Qi Gu (Gu do Qi Humano)==, Gu Imortal de **rank 7** refinado pessoalmente por um dos Veneráveis e guardado numa herança lendária. Ele recolhe o qi humano alheio, **purifica** e o soma ao próprio na hora da ascensão, compensando acúmulo insuficiente — com ele, dizem no mundo, a taxa de imortais aumentaria drasticamente. O limite é de acesso: um mortal não consegue nem chegar perto, porque a aura vazada do Gu **devora a vontade de quem se aproxima** e a converte, ela mesma, numa porção de qi humano armazenada. E há a ironia estrutural: quem precisa dele é mortal, e só um imortal consegue usá-lo.
 
 ## As grades de abertura imortal
 
@@ -304,6 +304,7 @@ Cada item resolve um problema específico do processo.
 | **Uma segunda abertura** | seguro de vida | permite estilhaçar apenas uma e sobreviver ao fracasso; é a única rede de segurança conhecida |
 | **Gu de armazenamento externo à abertura** | perda do arsenal | o qi desenfreado destrói Gu mortais próximos; sem isso, o recém-ascendido acorda praticamente sem nada |
 | **Killer moves defensivos e de resistência** | tribulação de ascensão | a ruptura convoca uma provação, e há um período de fraqueza indefeso no passo 3 |
+| **Small Family Qi Gu** (Gu do Qi da Família Pequena), rank 5, do antigo caminho do qi | a força da provação de ascensão | absorve e estoca qi de céu e terra de todo tipo. Espalhados pelo terreno e recolhidos cheios, esses Gu **sugam parte da matéria-prima da tribulação** e chegam a adiar a formação da calamidade terrena. Não a controlam — apenas a influenciam —, muitos se autodetonam no processo e devolvem o qi ao mundo, e são difíceis de obter em quantidade. Evolui para um Gu Imortal equivalente |
 | **Local seguro e isolado** | interferência | ninguém pode ajudar durante o processo, e a tribulação atinge quem estiver perto; um inimigo que conheça a data tem o alvo mais vulnerável possível |
 | **Reserva cheia e essência no melhor estágio** | passo 1 | é um assalto único; não há segunda chance de encher |
 | **Aliados avisados, não presentes** | proteção pós-ascensão | quem sai vivo fica exausto, sem Gu e com um mundo novo instável para estabilizar |
@@ -315,7 +316,7 @@ Cada item resolve um problema específico do processo.
 
 ### Para quem não tem os pré-requisitos
 
-- **Sem acúmulo de vida suficiente:** existe um Gu de patamar alto que coleta e purifica
+- **Sem acúmulo de vida suficiente:** o **Human Qi Gu**, Gu Imortal de rank 7, coleta e purifica
   o qi humano de **outras pessoas** para somar ao próprio. Compensa acúmulo insuficiente
   e eleva bastante as chances — com o custo moral e prático de tomar isso de terceiros.
 - **Sem margem de segurança:** a segunda abertura é a única rede documentada, e ela mesma

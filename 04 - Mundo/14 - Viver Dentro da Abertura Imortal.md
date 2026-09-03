@@ -11,7 +11,7 @@ aliases:
   - Como funciona uma terra abençoada por dentro
   - Ecologia da terra abençoada
 status: consolidado
-fontes: ["cap. 379", "cap. 383", "cap. 410", "cap. 433", "cap. 466", "cap. 492", "cap. 494", "cap. 519", "cap. 549", "cap. 587", "cap. 608-612", "cap. 631-638", "cap. 690", "cap. 702", "cap. 730", "cap. 799", "cap. 939", "cap. 1027", "cap. 1184-1187", "cap. 1766", "cap. 1791", "cap. 2077", "cap. 2257"]
+fontes: ["cap. 379", "cap. 383", "cap. 410", "cap. 433", "cap. 466", "cap. 492", "cap. 494", "cap. 519", "cap. 528", "cap. 549", "cap. 587", "cap. 608-612", "cap. 631-638", "cap. 690", "cap. 702", "cap. 730", "cap. 799", "cap. 939", "cap. 1027", "cap. 1184-1187", "cap. 1766", "cap. 1791", "cap. 2077", "cap. 2257"]
 conhecimento: especializado
 ---
 
@@ -161,7 +161,11 @@ A terra é a maior vulnerabilidade do imortal, não apenas seu maior ativo:
 
 - **Calamidades e tribulações** atingem a terra e causam dano ecológico real.
 - Uma calamidade pode ser **induzida artificialmente** por um rival contra a terra
-  alheia — assassinato político quase indetectável.
+  alheia — assassinato político quase indetectável. O método não é folclore: ele vem das
+  técnicas de manipulação de sorte de *Giant Sun Immortal Venerable*, cujas heranças estão
+  guardadas no **Eighty-Eight True Yang Building** das Planícies do Norte, e circula entre as
+  tribos de linhagem Huang Jin que têm acesso a elas. O sintoma é sempre o mesmo: um desastre
+  periódico perfeitamente normal, na data esperada, que por acaso mata alguém já debilitado.
 - Aberturas imortais podem ser **devoradas** por outro imortal ou por um espírito de
   terra rival. Aberturas mortais, não.
 - Em último caso, o dono pode **cortar fora um pedaço da própria terra**, junto com a

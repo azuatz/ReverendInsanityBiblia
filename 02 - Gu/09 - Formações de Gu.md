@@ -340,7 +340,7 @@ Modalidades documentadas:
   força lotes de Gu meio-refinados dentro de uma Casa de Gu Imortal. O backlash escala com o
   tamanho da "dívida" de refino acumulada e **pode matar cerca de trinta por cento da formação**.
   Uma variante aprimorada transfere o backlash para a própria estrutura, em vez das pessoas.
-- **A síntese histórica.** No fim da obra aparece uma instalação que funde quatro tecnologias
+- **A síntese histórica: a ==Four Elements Square Regret Blood Refinement Pool (Piscina de Refino de Sangue dos Quatro Elementos e do Arrependimento Quadrado)==.** É uma Casa de Gu Imortal de rank 9 concebida fundindo Casas de Gu e formações imortais já existentes — inclusive a própria Piscina do Arrependimento, um caldeirão de refino e uma formação histórica de refino que foi **desmontada** para virar peça dela. Os "quatro elementos" do nome são seus quatro núcleos: três Gu Imortais de rank 8 e um de rank 7, mais vinte e tantos Gu Imortais suplementares e centenas de Gu mortais. Ela funde quatro tecnologias
   distintas de refino e incorpora dezenas de técnicas nomeadas ao longo da história. Ela reduz
   drasticamente o custo, eleva a taxa de sucesso e permite **produção em série de Gu Imortais de
   rank 8** — algo que a própria narrativa descreve como além da imaginação de qualquer

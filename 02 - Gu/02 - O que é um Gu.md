@@ -290,9 +290,7 @@ não têm abertura, então esses Gu ficam soltos na carne, localizáveis e **cap
 **Um Gu refinado perde essa autonomia para sempre.** Ao ser dominado, ele deixa de conseguir
 absorver energia do ambiente e passa a depender inteiramente da comida e da essência que o
 dono fornece. É uma troca irreversível: obediência em troca de dependência total. Esta
-limitação estrutural é tão incômoda que um dos grandes cultivadores demoníacos da história
-passou a vida tentando contorná-la — e o mais perto que chegou foi um Gu que devolve a
-autossuficiência a outros Gu, ao custo de corrompê-los e de fazê-los escapar ao controle.
+limitação estrutural é tão incômoda que o ==Blood Sea Ancestor (Ancestral do Mar de Sangue)==, um Mestre Gu demoníaco de rank 7 cujo nome ficou na história, passou a vida pesquisando Gu que continuassem absorvendo energia do ambiente **mesmo depois de refinados** — e o mundo do caminho correto se organizou em armadilhas para matá-lo justamente com medo de que ele conseguisse. O mais perto que ele chegou foi o **Blood Guillotine (Guilhotina de Sangue)**, um Gu de rank 5 em que **uso e alimentação são a mesma coisa**: ele se sustenta da própria guerra, multiplicando-se ao engolir o sangue de Mestres Gu, e **não pede nenhuma essência ao dono**. O preço é o que o mundo teme: os Gu que ele deixou espalhados pelo mundo em pequenas heranças de dois ou três exemplares são fáceis de criar e de multiplicar, e quem os herda tende a virar um massacrador — inclusive gente do caminho correto.
 
 Um Gu refinado também fica, nas palavras da obra, "ligeiramente rígido" — perde parte do
 instinto que tinha na natureza.

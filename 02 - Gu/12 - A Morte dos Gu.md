@@ -9,7 +9,7 @@ aliases:
   - Gu Injury
   - Ferimento de Gu
 status: consolidado
-fontes: ["cap. 17", "cap. 30", "cap. 40", "cap. 106", "cap. 121", "cap. 165", "cap. 177", "cap. 183", "cap. 188", "cap. 210", "cap. 211", "cap. 304", "cap. 326", "cap. 352", "cap. 389", "cap. 410", "cap. 431", "cap. 445", "cap. 465", "cap. 494", "cap. 513", "cap. 544", "cap. 567", "cap. 568", "cap. 586", "cap. 671", "cap. 735", "cap. 956", "cap. 995", "cap. 1054", "cap. 1103", "cap. 1128", "cap. 1129", "cap. 1273", "cap. 1299", "cap. 1376", "cap. 1441", "cap. 1457", "cap. 1477", "cap. 1481", "cap. 1795", "cap. 1842", "cap. 1862", "cap. 1925", "cap. 2077", "cap. 2122", "cap. 2124"]
+fontes: ["cap. 17", "cap. 30", "cap. 40", "cap. 106", "cap. 121", "cap. 165", "cap. 177", "cap. 183", "cap. 188", "cap. 210", "cap. 211", "cap. 304", "cap. 326", "cap. 352", "cap. 389", "cap. 410", "cap. 431", "cap. 445", "cap. 465", "cap. 494", "cap. 513", "cap. 544", "cap. 567", "cap. 568", "cap. 586", "cap. 671", "cap. 735", "cap. 956", "cap. 995", "cap. 1054", "cap. 1103", "cap. 1128", "cap. 1129", "cap. 1273", "cap. 1299", "cap. 1376", "cap. 1441", "cap. 1457", "cap. 1477", "cap. 1481", "cap. 1795", "cap. 1842", "cap. 1862", "cap. 1925", "cap. 2077", "cap. 2122", "cap. 2124", "cap. 566-568", "cap. 617"]
 conhecimento: comum
 ---
 
@@ -188,9 +188,9 @@ outra pessoa, essa vontade embutida reage **destruindo o próprio Gu**.
 Só o caminho da sabedoria abre exceção, suprimindo a vontade alheia — e a menor falha na
 supressão também destrói o Gu. Ver [[14 - Espólio de Gu|Espólio de Gu]] e [[16 - Gu Imortais|Gu Imortais]].
 
-Um mecanismo aparentado aparece em Gu de temperamento próprio: há um Gu Imortal de caminho da
-sorte cujo efeito é o autossacrifício genuíno, e que só aceita ser subjugado por quem tem, de
-fato, coração de sacrifício. Tentar subjugá-lo à força gera backlash ou a **autodestruição
+Um mecanismo aparentado aparece em Gu de temperamento próprio: o ==Calamity Beckoning Gu (Gu que Convoca a Calamidade)==, Gu Imortal de rank 7 do caminho da
+sorte, atrai para si a calamidade destinada a outra pessoa, e só aceita ser subjugado por quem tem, de
+fato, coração de autossacrifício. Tentar subjugá-lo à força gera backlash ou a **autodestruição
 fatal do próprio Gu**.
 
 ### 9. O Gu falso que se autodetona
@@ -261,8 +261,8 @@ E há uma lacuna histórica que vale muito para o design:
 > valor prático — imortais não sofrem escassez de Gu mortais — com **uma exceção que
 > importaria**: os Gu de longevidade.
 
-A única coisa parecida com ressurreição de Gu que a obra registra é uma instalação lendária de
-refino que consegue **refazer um Gu Imortal já destruído**, desde que exista uma insígnia
+A única coisa parecida com ressurreição de Gu que a obra registra é a ==Piscina do Arrependimento (Regret Pool)==, uma das três piscinas lendárias do mundo e a maior instalação de
+refino da categoria: ela usa um afluente do Rio do Tempo para **refazer um Gu Imortal já destruído**, desde que exista uma insígnia
 preservada de um refino anterior bem-sucedido daquele mesmo Gu. A taxa fica entre cinquenta e
 sessenta por cento, e a insígnia é consumida a cada tentativa. É uma peça de nível de fim de
 jogo, propriedade de uma única organização.

@@ -167,7 +167,8 @@ Aqui está a resposta ao mistério que a nota registra acima como "lacuna teóri
 explica o mecanismo interno do caminho da regra, mas mostra **o que o maior praticante dele fez
 com esse mecanismo**, e isso é ainda mais revelador.
 
-O criador do caminho queria vida eterna e sabia que não conseguiria contornar o Dao Celestial.
+O **Limitless Demon Venerable**, criador do caminho, queria vida eterna e sabia que não
+conseguiria contornar o Dao Celestial.
 Então **atacou o problema pela raiz**: pesquisou como *derivar marcas do Dao inteiramente novas*,
 para usar essas marcas como pista até a eternidade. E construiu a máquina para isso — um
 domínio primordial acoplado a um **Gu Imortal de derivação de rank 9**, que **cria e destrói
@@ -208,8 +209,8 @@ Mestre no meio da luta. Existe um Gu mortal dedicado a isso, e a passagem que o 
 de gente lamentando não tê-lo comprado quando podia: quando ele faz falta, não há substituto.
 Restrição é um caminho raro, com pouquíssimos praticantes.
 
-**Na escala grande, é o golpe supremo do caminho.** Um imortal de rank 8 do ramo da restrição
-estudou as **barreiras que separam as cinco regiões** — as paredes que fazem um cultivador
+**Na escala grande, é o golpe supremo do caminho.** **Tao Zhu**, imortal de rank 8 do ramo da
+restrição, estudou as **barreiras que separam as cinco regiões** — as paredes que fazem um cultivador
 estrangeiro sofrer supressão ao atravessá-las — e transformou o resultado em duas coisas: uma
 formação e um golpe. O golpe dispara luz em cinco cores, e o efeito é este:
 
@@ -239,8 +240,9 @@ A regra de que um sub-ramo sem separação **não tem marcas do Dao próprias** 
 acima, em "Os caminhos que brotaram deste". O que vale acrescentar é o **caso concreto** que a
 sustenta, porque ele é grande demais para ser nota de rodapé.
 
-O imortal de rank 8 que deixou aquele significado verdadeiro da regra **cultivava restrição** — e
-foi ele quem construiu, com as próprias mãos, a **cordilheira que separa as cinco regiões**. A
+**Tao Zhu**, o imortal de rank 8 que deixou aquele significado verdadeiro da regra, **cultivava
+restrição** — e foi ele quem construiu, com as próprias mãos, a **cordilheira das cinco regiões**
+(*five regional mountain range*). A
 obra é explícita: *aquela cadeia de montanhas não se formou naturalmente, era feita pelo homem*.
 Ele estudou as barreiras regionais para fazê-la, e desse estudo saíram o golpe e a formação
 descritos acima.
@@ -278,7 +280,7 @@ como raro — mais um sinal de que a raridade dele é de praticantes, não de re
 | Faixa | O que o caminho entrega |
 |---|---|
 | **Ranks 2–5** | Amplificação universal. O multiplicador é o rank: um Gu de amplificar efeito de rank 5 multiplica por **cinco**, e quanto mais alto o rank, maior o gasto de essência primordial. Serve a qualquer caminho — fogo, água, escravização, força —, e é por isso o Gu mais cobiçado por Mestres Gu que **nem cultivam a regra**. Nesta faixa o caminho não é uma escola: é um acessório que todo mundo quer. |
-| **A série da desintegração (ranks 6–8)** | Uma linha só que atravessa três ranks, e é o melhor exemplo de progressão limpa da obra inteira: **cem** desintegrações no rank 6, **mil** no rank 7, **dez mil** no rank 8, com o mesmo golpe. Ataca e defende ao mesmo tempo, e desfaz quase qualquer elemento místico. Um clã inteiro do Continente Central construiu sua reputação sobre esse único golpe. As duas linhas seguintes detalham o que **mais** entra em cada um desses ranks. |
+| **A série da desintegração (ranks 6–8)** | Uma linha só que atravessa três ranks, e é o melhor exemplo de progressão limpa da obra inteira: **cem** desintegrações no rank 6, **mil** no rank 7, **dez mil** no rank 8, com o mesmo golpe. Ataca e defende ao mesmo tempo, e desfaz quase qualquer elemento místico. O **clã Chen**, do Continente Central, especializou-se no caminho da regra e construiu sua reputação sobre essa única linha de golpes — no passado, muitos imortais das grandes seitas foram esmagados pela versão de dez mil desintegrações. As duas linhas seguintes detalham o que **mais** entra em cada um desses ranks. |
 | **Rank 7** | Os conceitos como leis físicas: campos que encolhem qualquer ataque recebido, defesas de temporização exata, fixação do momento da morte de um alvo, Gu que estendem golpes de outros caminhos. |
 | **Rank 8** | Núcleos de golpes que replicam as barreiras entre regiões, transferência de dano para o próprio corpo, e a série dos números — o maior conjunto de Gu do caminho, "um, dois, três, quatro... praticamente ilimitada". |
 | **Rank 9** | Derivação de marcas do Dao novas; golpes de regra que a obra descreve como *já no ápice, sem espaço para melhoria*; e formações que só puderam existir porque um mestre da regra se aliou a uma mestra da sabedoria — porque a regra sozinha, sem vontade, não fecha. |
@@ -290,7 +292,7 @@ como raro — mais um sinal de que a raridade dele é de praticantes, não de re
 | **Qi de luz profunda das cinco restrições** | Replica as cinco barreiras regionais em volta do usuário. Suprime todo imortal, de qualquer região, e faz formações e casas de Gu Imortal sofrerem contragolpe contínuo até se despedaçarem. As cinco cores se dominam uma de cada vez. |
 | **Formação-limite das cinco regiões** | A irmã do golpe acima, mesmos núcleos: em vez de um efeito móvel e curto, um efeito fixo e duradouro. As duas **nunca podem ser usadas ao mesmo tempo**. |
 | **Cem / mil / dez mil desintegrações** | O mesmo golpe em três ranks, com o número de desintegrações escalando por potências de dez. Desfaz quase qualquer elemento místico, sem distinguir o caminho de origem. |
-| **Um passo atrás** | Golpe de regra que um Venerável Demônio do roubo **reescreveu como golpe do caminho do espaço**, dando-lhe outro nome. É o registro mais claro de como um golpe migra entre escolas: o conceito é da regra, a implementação é de quem o adota. |
+| **Um passo atrás** | Golpe de regra que o **Thieving Heaven Demon Venerable** **reescreveu como golpe do caminho do espaço**, dando-lhe outro nome. É o registro mais claro de como um golpe migra entre escolas: o conceito é da regra, a implementação é de quem o adota. |
 | **Ruptura primeva** (ramo da restrição) | Corta a ligação entre a energia primeva do Mestre Gu e os Gu dele. Desliga o adversário em vez de feri-lo. |
 | **Causa** (regra) + **Efeito** (madeira) | O par de Gu Imortais que sustenta os golpes de **karma**. Causalidade é matéria-prima da regra; a consequência que brota dela é madeira. |
 | **Tornar-se real** | Deixa uma trilha prateada persistente que serve de **âncora** para outros golpes e rituais — e é o Gu que, aplicado a um ser nascido de um reino de sonho, o tornou **real**. |

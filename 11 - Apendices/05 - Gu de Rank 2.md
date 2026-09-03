@@ -9,7 +9,7 @@ aliases:
   - Catálogo de Rank 2
   - Rank Two Gu
 status: verificado-no-texto
-fontes: ["cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 98", "cap. 104", "cap. 105", "cap. 106", "cap. 109", "cap. 111", "cap. 121", "cap. 123", "cap. 126", "cap. 129", "cap. 150", "cap. 155", "cap. 156", "cap. 157", "cap. 162", "cap. 166", "cap. 185", "cap. 192", "cap. 222", "cap. 226", "cap. 230", "cap. 266", "cap. 275", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 320", "cap. 326", "cap. 343", "cap. 353", "cap. 354", "cap. 355", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 452", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 560", "cap. 568", "cap. 570", "cap. 573", "cap. 579", "cap. 652", "cap. 672", "cap. 678", "cap. 679", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 855", "cap. 1097", "cap. 1288", "cap. 2072", "cap. 2108", "cap. 2312", "_pipeline/ARVORES-DE-EVOLUCAO.md", "11 - Apendices/04 - Catálogo de Gu - Mortais.md"]
+fontes: ["cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 98", "cap. 104", "cap. 105", "cap. 106", "cap. 109", "cap. 111", "cap. 121", "cap. 123", "cap. 126", "cap. 129", "cap. 150", "cap. 155", "cap. 156", "cap. 157", "cap. 162", "cap. 166", "cap. 167", "cap. 185", "cap. 192", "cap. 222", "cap. 224", "cap. 226", "cap. 230", "cap. 239", "cap. 254", "cap. 266", "cap. 275", "cap. 289", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 320", "cap. 326", "cap. 343", "cap. 353", "cap. 354", "cap. 355", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 452", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 550", "cap. 560", "cap. 568", "cap. 570", "cap. 573", "cap. 579", "cap. 652", "cap. 670", "cap. 672", "cap. 678", "cap. 679", "cap. 711", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 855", "cap. 1097", "cap. 1288", "cap. 1654", "cap. 2072", "cap. 2108", "cap. 2312", "_pipeline/ARVORES-DE-EVOLUCAO.md", "11 - Apendices/04 - Catálogo de Gu - Mortais.md"]
 conhecimento: comum — a existência, o preço e o funcionamento básico dos Gu de rank 2 são conhecimento corrente entre Mestres Gu; receitas de clã e rotas de avanço fechadas são conhecimento especializado
 ---
 
@@ -259,9 +259,10 @@ para qualquer adversário que saiba ler.
 - **Evolução.** **Não citada pela obra — e neste caso o silêncio é uma afirmação.** A
   série jin/jun **não é uma árvore**: são quatro produtos separados, comprados em loja,
   consumíveis, empilháveis, e **nenhum se funde no outro**. A linha inteira foi inventada
-  por um Gu Imortal de rank 7 do Planalto Norte, que também refinou o `Strength of a
-  Thousand Jun` de rank 6 imortal no topo da mesma família. Um mil jun equivale a trinta
-  mil jin.
+  por **Chu Du**, um Gu Imortal de rank 7 do Planalto Norte conhecido pelo título de
+  **Imortal da Dominação** (*Domination Immortal*), que criou o `jin strength Gu` e o
+  `jun strength Gu` e refinou o `Strength of a Thousand Jun` de rank 6 imortal no topo da
+  mesma família. Um mil jun equivale a trinta mil jin.
 - **Interações.** Empilha sem conflito com os outros Gu de força, inclusive os de
   fantasma de fera, e ressoa com eles: um Gu do mesmo caminho das marcas que o usuário
   já carrega rende acima do nominal. Em compensação, cada dez jin instalados aprofundam
@@ -537,9 +538,11 @@ exposta, e montar defesa completa no rank 2 significa somar duas ou três peças
   corrosivas — mergulhadores que colhiam óleo negro no fundo do mar continuavam sofrendo
   a corrosão do óleo, e curar essa corrosão por completo exige Gu de rank 4 ou superior —
   nem contra ataques. E o limite de seis li é fixo.
-- **Como se obtém.** Caso raro e valioso de **receita criada do zero**: um cultivador
-  inspecionou a ilha em busca de materiais aproveitáveis e desenhou a receita
-  especificamente para aquela aldeia. O material central é a **concha em espiral
+- **Como se obtém.** Caso raro e valioso de **receita criada do zero**: um forasteiro com
+  patamar de refino muito acima do da aldeia — a aldeia inteira era de pescadores e o
+  próprio chefe dela era um Mestre Gu de rank 3 — passou dias treinando com os moradores
+  para entender o modo de vida e o método de cultivo deles, inspecionou a ilha em busca de
+  materiais aproveitáveis e desenhou a receita especificamente para aquela aldeia. O material central é a **concha em espiral
   encontrada na própria praia**, e todos os demais materiais também se acham na ilha — a
   receita foi feita para ser autossustentável com recursos locais. Ele distribuiu dez Gu
   prontos e dez cópias da receita, e ensinou os aldeões a refiná-los.
@@ -613,14 +616,17 @@ exposta, e montar defesa completa no rank 2 significa somar duas ou três peças
   leite.
 - **Desvantagem.** É escasso mesmo na fonte: para cada punhado de Bone Spear sai um só
   Spiral. E herda a dieta de leite, que é logística contínua.
-- **Como se obtém.** Sai do mesmo caldeirão da herança do Osso Branco que produz os Bone
-  Spear, mas em número muito menor.
+- **Como se obtém.** Sai do mesmo caldeirão da **herança do Osso Branco** — a herança de
+  montanha deixada pelo **Erudito do Osso Cinzento** (*Gray Bone Scholar*), Mestre Gu do
+  caminho justo — que produz os Bone Spear, mas em número muito menor.
 - **Evolução.** Não citada pela obra — e vale registrar a direção contrária, que a obra
   **sim** afirma: este Gu **é a evolução do `Bone Spear Gu`**. Ou seja, ele é o topo
   conhecido de sua própria linha, e o que vem depois dele é silêncio.
 - **Interações.** O Bone Spear é o Gu fundacional da herança do Osso Branco, na mesma
   posição estrutural que o `Moonlight Gu` ocupa no clã Gu Yue: a raiz de que todo o resto
-  do arsenal daquele grupo deriva.
+  do arsenal daquele grupo deriva — os escudos de osso, as asas de osso, os espinhos de
+  osso, os ossos de ferro e de jade e o `Flesh-bone Gu` de cura saem todos da mesma
+  herança, e todos são de rank 3.
 
 ---
 
@@ -696,13 +702,17 @@ concentrada, saturação de área e arma branca sustentada.
   assim **lasca ao trocar golpes com lâminas de metal do mesmo rank**. O segundo
   componente da fusão não é informado.
 - **Interações.** É a peça central de um conjunto de gelo e água e a base de um dos
-  golpes mortais mais temidos da obra: a **tempestade de lâminas de gelo**, criação
-  pessoal de uma Mestra Gu, que combina o Iceblade com o `Swirl Gu` (ou revolving Gu) e o
+  golpes mortais mais temidos da obra: a **tempestade de lâminas de gelo** (*iceblade
+  storm*), criação pessoal da Mestra Gu de rank 3 portadora do Físico de Alma de Gelo
+  Escuro do Norte, que combina o Iceblade com o `Swirl Gu` (ou revolving Gu) e o
   `Fierce Wind Gu` (ou whirlwind Gu) — o usuário se apoia numa perna só, estende a lâmina
   e gira, acelerando até as marcas de corte formarem um tornado que ataca e defende ao
   mesmo tempo, cobre o chão de gelo duro e **cresce em potência quanto mais tempo gira**.
   A obra afirma que sem dois ou mais Gu defensivos trabalhando juntos não se resiste a
-  ele — nem a armadura do `Sky Canopy Gu` bastaria. E ele traz o caso canônico de que
+  ele — nem a armadura do `Sky Canopy Gu` bastaria. O golpe tem, ainda assim, uma fraqueza
+  declarada, e é a mesma nas duas pontas: **não é fácil de montar nem de interromper** —
+  quem o aciona precisa de tempo e espaço para entrar em rotação, e depois de entrar não
+  para quando quer. E ele traz o caso canônico de que
   **o rank do Gu não é o teto do seu poder**: sob a constituição extrema do Físico de
   Alma de Gelo Escuro do Norte, operado por um praticante de rank 3, este Gu de rank 2
   bloqueou de frente uma lâmina de rank 3 e o golpe da lua dourada.
@@ -1226,7 +1236,8 @@ mesmas tarefas.
   usuário.
 - **Evolução.** Não citada pela obra.
 - **Interações.** A interação decisiva não é com outro Gu: é com a **alma do usuário**. Um
-  cultivador com alma reforçada disparou dezenas destes Gu de uma só vez, casualmente, e
+  cultivador cuja alma já fora condensada até o patamar de **alma de cem homens** disparou
+  dezenas destes Gu de uma só vez, casualmente, e
   **nenhuma escravização falhou** — o cardume passou a obedecer imediatamente. Ou seja: a
   força da alma do dono converte um Gu de uso cuidadoso e individual num Gu de uso em
   massa. É o exemplo mais limpo da obra de que o mesmo Gu rende coisas diferentes em
@@ -1537,10 +1548,12 @@ arquivamento — o kit completo de um batedor.
   nota de **um Gu que fecha uma porta de outro caminho**: o cultivador de força não pode
   usá-lo em combate. E há um dado histórico raro, muito útil ao mestre de jogo: no
   momento da narrativa este Gu **ainda não havia entrado no palco do mundo** — só se
-  tornaria popular cento e cinquenta anos depois, e só passaria a ser amplamente usado
-  nos cinquenta anos seguintes a isso, durante uma grande guerra. Antes disso, a
-  humanidade simplesmente não se preocupava em guardar a própria aura, o que faz dele uma
-  vantagem quase desleal para quem o tenha cedo demais.
+  tornaria popular cento e cinquenta anos depois, pela mão do **rei-caçador Sun Gan**, e
+  só passaria a ser amplamente usado nos cinquenta anos seguintes a isso, durante uma
+  grande guerra que abalou a Fronteira do Sul inteira. Antes disso, a humanidade
+  simplesmente não se preocupava em guardar a própria aura, e só **duzentos anos** depois
+  do momento da narrativa é que existiriam métodos e experiência acumulada para responder
+  a ele — o que faz dele uma vantagem quase desleal para quem o tenha cedo demais.
 
 ---
 
@@ -1675,9 +1688,17 @@ prolongar a vida**. Ver [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Tra
 ### Running Corpse Gu
 
 - **O que faz.** Transforma um **cadáver** num zumbi que obedece ao usuário — e que, ao
-  contrário de um corpo animado comum, **evolui por estágios marcados por cor**, do branco
-  ao azul, cada estágio tornando-o mais forte e mais difícil de derrubar. O rank 2 basta
-  para criar um servo permanente que não come, não cansa e não recua.
+  contrário de um corpo animado comum, **evolui por estágios marcados pela cor do pelo**,
+  e a obra nomeia os quatro: **zumbi de cabelo branco**, **de cabelo preto**, **de cabelo
+  verde** e **de cabelo azul**, cada estágio mais forte e mais difícil de derrubar que o
+  anterior. O degrau de entrada é fraco de verdade — um zumbi de cabelo branco é mais
+  fraco que uma fera selvagem comum, ataca sempre no mesmo padrão, é fácil de desviar,
+  move-se devagar e **é ferido pela luz do sol**, o que o prende à noite; ele serve de
+  bucha de canhão para gastar a essência primordial do inimigo. O mecanismo da subida é
+  alimentar: **anos bebendo sangue** convertem o de cabelo branco no de cabelo preto, que
+  é mais forte, mais resistente, salta bem mais rápido e, embora ainda sofra com o sol,
+  já não o teme. O rank 2 basta para criar um servo permanente que não come, não cansa e
+  não recua.
 - **Como é.** —
 - **Dieta.** Não informada; no rank 2 come de poucos em poucos dias, a um custo da ordem
   de uma a duas pedras primordiais por dia (ded.).
@@ -1840,15 +1861,25 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
 - **Desvantagem.** **Só serve para Gu do caminho das estrelas.** É amplificação "não
   convencional", de caminho único, e é degrau intermediário — para efeito maior é preciso
   subir na série (ded.).
-- **Como se obtém.** Receita **inventada de raiz** por um Mestre Gu de rank 5 do norte,
-  junto com os outros quatro degraus da escada. Materiais de refino **extremamente
-  comuns**, e taxa de sucesso muito maior que a do amplificador convencional.
-- **Evolução.** É série de cinco degraus, um por rank, e a obra não descreve fusão entre
-  eles — cada um foi criado como receita própria pelo mesmo inventor.
+- **Como se obtém.** Receita **inventada de raiz** por **Dou Min Jun** (também grafado
+  `Du Min Jun`), poeta das Planícies do Norte que a posteridade apelidou de **Imortal
+  Poeta**, junto com os outros quatro degraus da escada; a herança dele guardava as
+  receitas e praticamente todos os Gu estelares do Planalto Norte. Materiais de refino
+  **extremamente comuns**, e taxa de sucesso muito maior que a do amplificador
+  convencional.
+- **Evolução.** É série de cinco degraus, um por rank, e a obra **nomeia os cinco**:
+  `a bit of star Gu` (rank 1), este `brilliance of two stars Gu` (rank 2), `three stars
+  in the sky Gu` (rank 3), `four stars cube Gu` (rank 4) e `five stars aligned Gu`
+  (rank 5). A obra não descreve fusão entre eles — cada um foi criado como receita própria
+  pelo mesmo inventor.
 - **Interações.** Existe para competir com o `Amplify Effect Gu` do caminho da regra, que
   serve para **qualquer** caminho e é caro e falha muito. A troca é explícita: você abre
   mão da universalidade e ganha **preço baixo e confiabilidade**. Num arsenal estelar de
-  rank 2, o par natural é este Gu mais o `Star Arrow Gu` — volume amplificado.
+  rank 2, o par natural é este Gu mais o `Star Arrow Gu` — volume amplificado. E há uma
+  consequência de mundo que a obra enuncia por extenso: a escada inteira nunca foi posta
+  em circulação, e se fosse **o caminho das estrelas ficaria muito mais popular**, a ponto
+  de alterar o equilíbrio entre os caminhos. Ou seja, a receita está engavetada, e quem a
+  soltar mexe na economia do mundo, não só no próprio arsenal.
 
 ---
 
@@ -2051,8 +2082,8 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
 - **Como é.** Agulhas douradas finas, do comprimento de um dedo indicador.
 - **Dieta.** —
 - **Desvantagem.** Inútil sozinho (ded.), e exige que o usuário domine as combinações —
-  a praticante da cena levou **sete a oito dias** para ficar proficiente em quatro
-  combinações.
+  a Mestra Gu do clã Tie que a obra acompanha levou **sete a oito dias** para ficar
+  proficiente em quatro combinações.
 - **Como se obtém.** **Não é um Gu natural**: foi criado pelos Mestres Gu do clã Tie. Cada
   exemplar é rank 2, e eles são usados **às centenas de uma vez**.
 - **Evolução.** Não citada pela obra.
@@ -2064,10 +2095,18 @@ Gu estelares. Ver [[19 - Star Path|Star Path]].
     aliados de inimigos;
   - **+ `Vitality Gu`** → tem propriedades de **cura**.
 
-  Num só episódio, a mesma praticante usou as quatro: as agulhas mataram por veneno,
-  paralisaram, viraram os macacos uns contra os outros e depois, disparadas de novo,
-  **transformaram-se em bolas de luz dourada que percorreram as feridas e devolveram a
-  mobilidade aos sobreviventes**. Um Gu neutro que é quatro Gu conforme o parceiro.
+  Num só episódio, ela usou as quatro contra quase mil macacos-da-montanha: as agulhas
+  mataram por veneno, paralisaram, viraram os macacos uns contra os outros e depois,
+  disparadas de novo, **transformaram-se em bolas de luz dourada que percorreram as feridas
+  e devolveram a mobilidade aos sobreviventes**. Um Gu neutro que é quatro Gu conforme o
+  parceiro.
+
+  Há ainda uma segunda variável que a obra registra e que não é o parceiro: **o mesmo Gu
+  rende coisas diferentes conforme quem o comanda**. Um Mestre Gu do mesmo clã disparava
+  agulhas douradas **minúsculas como pingos de chuva**, que no ar formavam uma névoa
+  dourada em vez de uma nuvem de agulhas — e quem fosse atingido por elas tinha o corpo e
+  as vísceras perfurados de ponta a ponta. É o mesmo Gu de rank 2, montado como golpe
+  fatal.
 
 > [!note] Para o design
 > Se a mesa precisar de **um** exemplo de item para justificar um sistema de combinação,

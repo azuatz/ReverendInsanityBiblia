@@ -187,15 +187,18 @@ Esta é a consequência social do sistema, e é o achado mais surpreendente do d
 Quem possui um Gu de juramento reutilizável não vira um lutador melhor — o penhor de montanha
 não ataca, não defende e não move ninguém. Vira **a pessoa mais bem relacionada da região**.
 
-A obra descreve o negócio em detalhe. A dona de um penhor de montanha ganha a vida
-**emprestando o Gu para que outros firmem acordos entre si**, e o texto afirma que essa
-atividade é mais lucrativa que os ramos de comércio de alto valor da região. Os efeitos:
+A obra descreve o negócio em detalhe, e a pessoa tem nome: **Fairy Li Shan**, das Planícies do
+Norte, dona de um *mountain pledge Gu*, ganha a vida **emprestando o Gu para que outros firmem
+acordos entre si**, e o texto afirma que essa atividade é mais lucrativa que os ramos de
+comércio de alto valor da região. Os efeitos:
 
 - Ela é a única pessoa capaz de fazer **corretos e demoníacos trabalharem juntos**, porque só
   o juramento resolve a desconfiança mútua.
-- Uma organização gigantesca do caminho demoníaco foi construída **inteiramente sobre esse
-  fundamento**: acordos selados por penhor de montanha são a única razão pela qual demoníacos
-  — que desconfiam ainda mais uns dos outros — conseguem formar estrutura estável.
+- A **Snowy Mountain blessed land**, a maior organização demoníaca das Planícies do Norte —
+  dezenas de imortais demoníacos, um por pico da mesma montanha —, foi construída
+  **inteiramente sobre esse fundamento**: acordos selados por penhor de montanha são a única
+  razão pela qual demoníacos, que desconfiam ainda mais uns dos outros, conseguem formar
+  estrutura estável.
 - Toda grande operação passa por ela: ao montar um leilão de escala inédita, o organizador
   visitou cinco potências de rank 8 e **fechou acordo com todas usando o Gu emprestado**.
 - Perder esse Gu destruiria a posição dela por completo, e a obra registra que a mera sugestão

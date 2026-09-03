@@ -19,8 +19,10 @@ visível, mensurável, transferível e roubável. Para entender o que é um "cam
 
 Este é o caminho mais **secreto** de todos os que existem de fato.
 
-Ele foi inventado e mantido em segredo por um único ser de rank 9, que passou a existência
-lucrando com ele — roubando a sorte alheia e transferindo o azar. Publicamente, o caminho da
+Ele foi inventado e mantido em segredo pelo **Giant Sun Immortal Venerable**, que passou a
+existência lucrando com ele — roubando a sorte alheia e transferindo o azar. É o mesmo Venerável
+que fundou a ordem política das Planícies do Norte e que, depois de morto, mandou um clone criar
+o [[03 - Blood Path|caminho do sangue]]. Publicamente, o caminho da
 sorte era apenas uma **lenda nunca confirmada**. A maior parte do mundo, incluindo
 cultivadores de altíssimo nível, não sabe que ele é real.
 
@@ -450,7 +452,7 @@ A defesa mais famosa do caminho é **informe e incapturável** até por uma casa
 
 ## Praticantes notáveis (sem enredo)
 
-- **O Venerável Imortal Sol Gigante** — rank 9, inventor do caminho e responsável por
+- **Giant Sun Immortal Venerable** (Venerável Imortal Sol Gigante) — rank 9, inventor do caminho e responsável por
   mantê-lo em segredo. Sua estrutura mais famosa é sustentada por um Gu de sorte que desvia
   calamidades de toda uma região, ao custo de despejá-las em outra.
 - O caminho é tão fechado que boa parte do conhecimento sobre ele existe apenas como

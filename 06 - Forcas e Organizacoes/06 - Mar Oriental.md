@@ -80,8 +80,8 @@ indivíduo é usufrutuário; aqui o indivíduo é proprietário e a organizaçã
 associação de proprietários. A consequência é dura: **a posse é garantida pela própria força**.
 A obra mostra um imortal cuja área de mar particular foi tomada à força por uma invasora mais
 poderosa; ele foi implorar de volta e apanhou, ficou sem renda nenhuma e precisou virar
-mercenário de invasão de terra abençoada para sobreviver. Recorreu à maior organização da
-região para pressionar a invasora — e a organização é um **recurso de influência**, não um
+mercenário de invasão de terra abençoada para sobreviver. Recorreu à **Aliança dos Zumbis**, a
+maior organização da região — e a Aliança é um **recurso de influência**, não um
 tribunal. Não há tribunal.
 
 Existem também áreas de mar **sem dono**: são as pobres, escuras, com poucos peixes. Ninguém
@@ -919,7 +919,7 @@ as pessoas sem sobrenome **são** metade do mapa político.
 
 | Quem | Rank | O que é |
 |---|---|---|
-| **Granny Rong, Yang Zi He, Shi Miao, Zhang Yin** | 8 | os quatro rank 8 **solitários e demoníacos** do Leste. `segredo`: são, sem que os pares saibam, **generais escravizados de uma Casa de Gu Imortal perdida** — obrigados a defendê-la quando ela aparece |
+| **Granny Rong, Yang Zi He, Shi Miao, Zhang Yin** | 8 | os quatro rank 8 **solitários e demoníacos** do Leste. `segredo`: são, sem que os pares saibam, **generais escravizados do Dragon Palace** — a Casa de Gu Imortal de rank 8 dos extintos homens-dragão, descrita mais abaixo —, obrigados a defendê-la quando ela aparece |
 | **Zui Xian Weng** | 7 | caminho da comida; o **137º herdeiro** de um mestre lendário do vinho. Criou um **mar de vinho** onde esconde incontáveis vinhos e dá **uma recepção por ano**. Tem ligação com quase todas as forças corretas da região |
 | **Hua An** | — | o **segundo** dos três grandes dedutores; desertor do clã Hua, abrigado pelo Nan Gong, caçado desde então |
 | **Dragon Head Tortoise** | — | o **terceiro** dos três dedutores; vive dentro do **mar da adversidade** e é praticamente impossível de localizar — por isso quase ninguém consegue contratá-lo |
@@ -1195,7 +1195,7 @@ pergunta**, e essa é a força antagonista (ou patrona) da sua campanha.
 | **Clã Shen** | Shen Cong Sheng, **rank 8** | **som** | correto | sede numa **árvore viva que acalma o mar**; o **chá dos seis sons**; captura rank 8 **vivo** |
 | **Clã Tang** | primeiro ancião supremo, sem nome | `—` (há som na casa) | correto | comparado às **dez grandes seitas ancestrais** do Continente Central — e é o mais desconhecido |
 | **Clã Hua** | Hua Cai Yun, **rank 8** | **nuvem** | correto | única casa que **explora os dois céus imemoriais**; qi celestial rank 9 no cofre |
-| **Corte Imperial dos Homens-Peixe** | três sereias: Lian Ke Xin, Yu Zi, Xie Ning Si | `—` | neutro declarado | a **única super força de raça variante das cinco regiões**; protegida por um Venerável morto, e a proteção se desgasta |
+| **Corte Imperial dos Homens-Peixe** | três sereias: Lian Ke Xin, Yu Zi, Xie Ning Si | `—` | neutro declarado | a **única super força de raça variante das cinco regiões**; protegida por Paradise Earth Immortal Venerable, morto há eras, e a proteção se desgasta |
 | **Clã Qing Yue** | Qing Yue An, **rank 8** | `—` | correto | líder que resolve formação imortal **na força bruta** |
 | **Clãs Cai e Ruo Lai** | um rank 8 cada, sem nome | `—` | correto | rivais do Song há 100 anos e **aliados automáticos** dele contra terceiros; **nenhum dedutor forte** |
 | **Clã Nan Gong** | `—` | `—` | correto | abriga o **segundo maior dedutor** do Leste, desertor caçado pelo clã Hua |

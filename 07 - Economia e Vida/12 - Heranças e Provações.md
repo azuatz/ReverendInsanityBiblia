@@ -12,7 +12,7 @@ aliases:
   - Herança de força
   - Herança verdadeira
 status: consolidado
-fontes: ["cap. 46-47", "cap. 60-61", "cap. 63", "cap. 74", "cap. 79", "cap. 122", "cap. 164-165", "cap. 173", "cap. 192", "cap. 220-226", "cap. 296", "cap. 324", "cap. 374-375", "cap. 391-394", "cap. 546", "cap. 610-629", "cap. 1115-1128", "cap. 1428", "cap. 1435", "cap. 2067", "cap. 2099", "cap. 2101", "cap. 2311"]
+fontes: ["cap. 46-47", "cap. 60-61", "cap. 63", "cap. 74", "cap. 79", "cap. 122", "cap. 164-165", "cap. 173", "cap. 183", "cap. 192", "cap. 220-226", "cap. 296", "cap. 324", "cap. 374-375", "cap. 391-394", "cap. 407", "cap. 546", "cap. 610-629", "cap. 1115-1128", "cap. 1428", "cap. 1435", "cap. 2014", "cap. 2067", "cap. 2099", "cap. 2101", "cap. 2246", "cap. 2311"]
 conhecimento: comum
 ---
 
@@ -82,7 +82,13 @@ formatos observados:
 E há o mecanismo mais caracteristicamente demoníaco de todos: **a condição imposta ao
 herdeiro**. Certas heranças só se liberam mediante compromisso com uma tarefa — e a tarefa
 pode ser monstruosa. A obra documenta uma herança que exigia do herdeiro o **extermínio de
-um clã inteiro** como condição de acesso.
+um clã inteiro** como condição de acesso. O caso mais bem documentado do mesmo tipo é a
+**herança do clã Qing**, no Deserto Ocidental: o último ancião supremo daquele clã, à beira
+de ser exterminado por **Spectral Soul**, selou todo o patrimônio da casa e o enterrou em algum
+ponto do deserto do fantasma verde, com uma condição única para reclamá-lo — **vingar o clã**.
+Como o agressor virou Venerável e depois morreu, o alvo da vingança passou para a família, os
+amigos, os discípulos e os herdeiros dele. A herança nunca foi reclamada. Ver
+[[05 - Deserto Ocidental|Deserto Ocidental]].
 
 > [!warning] Uma ressalva de escopo
 > A obra não afirma que *toda* herança demoníaca impõe condição desse tipo; o caso mais
@@ -166,9 +172,12 @@ instituições permanentes, com provas em andares, sistemas de triagem que recru
 automaticamente, e câmaras internas que guardam o núcleo do acervo.
 
 E há um detalhe que muda o cálculo de valor: uma herança verdadeira pode exigir um tipo
-específico de herdeiro. A obra registra um caso de dez heranças verdadeiras deixadas pela
-mesma figura, **todas exigindo um herdeiro de uma natureza particular** que quase ninguém
-tem. Uma herança pode estar ali, aberta, e ser inútil para você.
+específico de herdeiro. **Thieving Heaven Demon Venerable** — o criador do caminho do roubo,
+que ele próprio era um *demônio de outro mundo*, isto é, uma alma vinda de fora deste mundo
+instalada num corpo nascido aqui — deixou **dez heranças verdadeiras**, e **todas as dez só se
+abrem para outro demônio de outro mundo**. Não é senha nem enigma: é uma verificação de
+natureza, impossível de falsificar. Nem outro Venerável conseguiu tomar uma delas. Uma herança
+pode estar ali, aberta, e ser inútil para você. Ver [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]].
 
 ## A trava de reconhecimento
 
@@ -219,11 +228,15 @@ Heranças movimentam uma economia própria, e ela é jogável.
   anunciados publicamente, o preço dos itens exigidos — muitas vezes Gu triviais de rank 1
   ou 2, usados como filtro de entrada — **triplica em questão de dias**. Existe especulação,
   e existe negociação com informação privilegiada.
-- **Heranças falsas poluem o mercado.** Uma figura histórica espalhou **centenas de milhares
-  de heranças falsas** pelo mundo, com pouquíssimas verdadeiras no meio. Uma potência
-  comercial inteira, buscando ao longo de gerações, encontrou apenas duas verdadeiras. A
-  raridade é tanta que a obra registra amizades corrompidas por novecentos anos por causa de
-  uma.
+- **Heranças falsas poluem o mercado.** O ==Ancestral do Mar de Sangue== (*Blood Sea Ancestor*),
+  o Mestre Gu demoníaco de rank 7 que criou o [[03 - Blood Path|caminho do sangue]], sabia que ia
+  morrer e usou o tempo que lhe restava para semear **centenas de milhares de sítios de herança**
+  pelas cinco regiões — cada um com dois ou três Gu baratos dentro. Entre eles escondeu apenas
+  **nove heranças verdadeiras**, onde estão os Gu pessoais, as receitas de fusão e os métodos
+  reais dele. As centenas de milhares são o disfarce das nove. O clã Shang, a maior potência
+  comercial da Fronteira Sul, colecionou-as por gerações usando a própria máquina de inteligência
+  e encontrou **duas**. A raridade é tanta que a obra registra amizades corrompidas por
+  novecentos anos por causa de uma.
 - **O anúncio público como isca.** Quando se anuncia um tesouro de patamar imortal, Mestres
   Gu de **todos** os ranks acorrem — inclusive os de rank 1 e 2, para quem a morte é quase
   certa. A obra documenta o uso deliberado disso: um cultivador poderoso anunciou um achado

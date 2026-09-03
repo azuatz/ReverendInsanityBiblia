@@ -123,9 +123,10 @@ O sentido mais corriqueiro e o menos sobrenatural: **todo clã e toda seita de p
 área proibida sua**, dentro do próprio território, normalmente muito guardada. É onde ficam os
 fundamentos da organização.
 
-O caso canônico é a **caverna subterrânea** que fica sob a vila de um clã. A obra descreve o
-padrão inteiro: o clã se instalou ali, séculos atrás, porque **encontrou uma nascente
-espiritual dentro daquela caverna** — e essa nascente, que produz continuamente as pedras que
+O caso canônico é a **caverna subterrânea** sob a vila do **clã Gu Yue**, na **Qing Mao
+Mountain** da Fronteira Sul. A obra descreve o padrão inteiro: o clã veio do Continente Central
+e se instalou ali, séculos atrás, porque **encontrou uma nascente espiritual dentro daquela
+caverna** — e essa nascente, que produz continuamente as pedras que
 sustentam o cultivo de todo o clã, é literalmente a fundação econômica do assentamento. Com as
 gerações, a caverna virou a base secreta do clã: guarda também o depósito de Gu de reserva, com
 exemplares de rank 3 e 4 que nem os anciãos veem. A entrada é **proibida a todos**, salvo
@@ -146,12 +147,16 @@ clã tem autoridade para entrar**.
 Aqui "proibida" quer dizer **proibida a seres vivos**, e não por decreto de ninguém: o lugar
 simplesmente mata.
 
-O exemplo mais bem descrito é uma pastagem envenenada organizada em anéis concêntricos. A
-névoa roxa obscurece a visão e obriga os viajantes a parar de falar para não respirar veneno; o
-capim venenoso cresce em massa; e **quanto mais fundo se vai, mais fortes ficam as feras**. O
-núcleo é declarado "área proibida a seres vivos", e muitos especialistas que foram explorá-lo
-não voltaram — os mortais da região batizaram o lugar de "pastagem venenosa" por puro medo. Ver
-[[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]].
+O exemplo mais bem descrito é a **pastagem envenenada** (*poison grassland*), organizada em
+anéis concêntricos. Nuvens escuras a cobrem o ano inteiro e o sol não é visível; a névoa roxa
+obscurece a visão e obriga os viajantes a parar de falar para não respirar veneno; o capim
+venenoso cresce em massa, lobos-de-barba-venenosa rondam os arredores; e **quanto mais fundo se
+vai, mais fortes ficam as feras**. O núcleo é declarado "área proibida a seres vivos", e muitos
+especialistas que foram explorá-lo não voltaram — os mortais da região a batizaram assim por
+puro medo. E a causa tem endereço: **a névoa vaza da Zi Du blessed land**, uma terra abençoada
+vizinha do caminho do veneno, cujo interior é um emaranhado de pântanos e brejos venenosos. É o
+caso mais claro da obra de um mundo privado que **altera o bioma do mundo real ao redor**. Ver
+[[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] e [[10 - Poison Path|Poison Path]].
 
 A estrutura em anéis é o que a torna jogável: **a zona tem gradiente**, não uma parede. Dá para
 entrar um pouco, ganhar um pouco, e a decisão de quanto avançar é do jogador.
@@ -254,10 +259,16 @@ de nivelamento que está por trás disso.
 ### 4.3 A ruína habitada pelo que ela produziu
 
 Nem toda ruína gera rancor difuso; algumas geram população. O caso mais conhecido do mundo é o
-de um clã inteiro chacinado por um cultivador de rank 5 que **transformou os cadáveres em
-zumbis** e ergueu, sobre as ruínas do clã, uma lápide gigantesca com o nome da esposa dele.
-Desde então a montanha leva o nome dessa lápide, e os zumbis vagam por ela livremente, matando
-feras selvagens e viajantes. O acontecimento sacudiu a Fronteira Sul inteira, e o resultado
+da **Mu Bei Mountain** — literalmente "montanha da lápide" —, na Fronteira Sul. Um servo de um
+clã teve a esposa tomada e humilhada até a morte por um Mestre Gu daquele clã; ele guardou o
+ódio por quase cem anos, obteve a herança do **Zombie King**, chegou ao rank 5, voltou com um
+exército de zumbis, chacinou o clã inteiro e **transformou os cadáveres em zumbis**. Depois
+ergueu, sobre as ruínas, uma lápide gigantesca com o nome da esposa — e é dessa lápide que vem
+o nome da montanha. Os zumbis vagam por ela livremente, matando feras selvagens e viajantes,
+e a putrefação que carregam **infecta os cadáveres e produz zumbis novos**, o que torna a
+população autorrenovável: os clãs organizam expedições de extermínio todo ano, gastam muito,
+ganham pouco e nunca terminam o serviço — basta um zumbi escapar. Uma das três grandes rotas
+comerciais do sul passa por ali. O acontecimento sacudiu a Fronteira Sul inteira, e o resultado
 geográfico é permanente: **um topônimo, um monumento e uma população hostil que se renova.**
 
 Este é o padrão a copiar quando se quiser criar uma ruína própria: um crime, um marco físico que

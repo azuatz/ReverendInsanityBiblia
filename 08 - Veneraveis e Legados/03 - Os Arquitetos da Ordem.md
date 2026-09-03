@@ -9,7 +9,7 @@ aliases:
   - Venerável Imortal Constelação Estelar
   - Paradise Earth Immortal Venerable
 status: consolidado
-fontes: ["cap. 467", "cap. 490", "cap. 492", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 657", "cap. 686", "cap. 704", "cap. 780", "cap. 788", "cap. 818", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 996", "cap. 1010", "cap. 1015", "cap. 1017", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1323", "cap. 1338", "cap. 1367", "cap. 1462", "cap. 1468-1469", "cap. 1475-1476", "cap. 1649", "cap. 1693", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2001", "cap. 2017", "cap. 2055", "cap. 2059", "cap. 2062", "cap. 2085", "cap. 2086", "cap. 2109", "cap. 2197", "cap. 2203", "cap. 2204", "cap. 2227", "cap. 2229", "cap. 2229-2231", "cap. 2296", "cap. 2297", "cap. 2298", "cap. 2302", "cap. 2328"]
+fontes: ["cap. 467", "cap. 490", "cap. 492", "cap. 522", "cap. 546", "cap. 580", "cap. 601", "cap. 657", "cap. 686", "cap. 704", "cap. 780", "cap. 788", "cap. 818", "cap. 821", "cap. 871", "cap. 912", "cap. 915", "cap. 948", "cap. 956", "cap. 993", "cap. 996", "cap. 1010", "cap. 1015", "cap. 1017", "cap. 1070", "cap. 1234", "cap. 1235", "cap. 1323", "cap. 1338", "cap. 1367", "cap. 1462", "cap. 1468-1469", "cap. 1475-1476", "cap. 1649", "cap. 1693", "cap. 1747", "cap. 1852", "cap. 1866", "cap. 1959", "cap. 2001", "cap. 2017", "cap. 2047", "cap. 2055", "cap. 2059", "cap. 2062", "cap. 2083", "cap. 2085", "cap. 2086", "cap. 2109", "cap. 2110", "cap. 2197", "cap. 2203", "cap. 2204", "cap. 2227", "cap. 2229-2231", "cap. 2229", "cap. 2296", "cap. 2297", "cap. 2298", "cap. 2302", "cap. 2328"]
 conhecimento: especializado
 ---
 
@@ -191,7 +191,16 @@ E o método merece atenção, porque é engenharia, não decreto. Ele **estudou 
 
 **5. O conceito de "paraíso".** Converteu ao menos uma [[13 - Blessed Lands e Grotto-Heavens|abertura imortal]] num tipo de lugar que antes não existia: um mundo interno **livre de calamidades e tribulações**. Como toda abertura imortal normalmente paga o preço periódico das provações — o relógio descrito em [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] —, um espaço isento é uma anomalia de altíssimo valor, e ele o acoplou à maior produção conhecida de um recurso raro de cultivo.
 
-**6. Um esgotamento.** Como os outros Veneráveis, varreu o mundo atrás dos [[12 - Longevidade|Gu de longevidade]], que estendem a vida, e **exauriu o suprimento da própria era**. Isso não é anedota: o suprimento desses Gu é finito, só o céu e a terra os produzem — ninguém consegue fabricá-los —, e cada Venerável que passa deixa o mundo empobrecido daquele recurso por um bom tempo depois de morrer.
+**6. O chá que substitui uma provação.** `conhecimento: segredo` — é o achado mais explosivo da ficha dele, e vem da metade do legado que quase ninguém associa ao seu nome: o [[20 - Food Path|caminho da comida]], que ele estudou primeiro como contramedida (item 4) e depois desenvolveu por conta própria, convencido de que a disciplina tinha potencial enorme e praticantes de menos.
+
+O ==chá da mente extremamente serena== (*extreme serene mind tea*) é um **golpe do caminho da comida**: gasta-se uma quantidade grande de material imortal de rank 8 do caminho da terra para preparar uma tigela, e quem bebe **ganha marcas de dao do caminho da terra** — algumas centenas por tigela, no caso registrado cerca de mil. O que torna isso perturbador é a comparação: mil marcas é o que um imortal colhe atravessando **uma tribulação celeste e uma calamidade terrestre somadas**, arriscando a vida nas duas. O chá entrega o mesmo sem risco nenhum.
+
+A obra afirma que um método assim, se desenvolvido, **muda a estrutura inteira do mundo dos Gu Imortais**, e o motivo é econômico: historicamente, a fonte principal de marcas de dao são as provações, e é essa escassez que organiza a hierarquia imortal. A eficiência baixa — muito material imortal por pouca marca — é a única coisa que segura a revolução.
+
+> [!note] Para o design
+> Uma bebida que converte **dinheiro em experiência**, sem risco, é a alavanca econômica mais desestabilizadora do cenário inteiro, e ela já existe: está numa herança, é cara e quase ninguém sabe fazer. Isso dá à mesa um objetivo comercial que vale mais do que qualquer arma — e dá ao mestre uma razão pronta para que uma potência estabelecida queira a receita destruída.
+
+**7. Um esgotamento.** Como os outros Veneráveis, varreu o mundo atrás dos [[12 - Longevidade|Gu de longevidade]], que estendem a vida, e **exauriu o suprimento da própria era**. Isso não é anedota: o suprimento desses Gu é finito, só o céu e a terra os produzem — ninguém consegue fabricá-los —, e cada Venerável que passa deixa o mundo empobrecido daquele recurso por um bom tempo depois de morrer.
 
 > [!note] Para o design
 > Paradise Earth é o Venerável mais imediatamente utilizável dos dez, e o motivo são os itens 1 e 2. Um legado que **emprega** os personagens em vez de premiá-los uma única vez resolve o problema mais chato de uma campanha longa: de onde vêm as missões, e por que este grupo específico as aceita. O quadro de missões com moeda própria dá ao mestre um botão de progressão que ele controla sem precisar de um NPC patrão presente em cena.

@@ -110,16 +110,19 @@ golpes e nada mais. E aqui vem o diagnóstico que explica tudo:
 > pessoas normais não os alcançam. Apesar do enorme potencial, **o caminho humano não tinha
 > fundações e por isso não conseguiu se desenvolver**.
 
-**Fase 2 — alguém constrói o chão.** Um Venerável criou um **mundo-pintura** dentro de uma
-cidade e usou as cenas do mundo mortal do último milhão de anos para **derivar as fundações do
-caminho**. A obra o chama de **"o pilar fundacional do caminho humano"**, e resume o feito numa
+**Fase 2 — Genesis Lotus constrói o chão.** O **Genesis Lotus Immortal Venerable**, com um golpe
+do [[28 - Painting Path|caminho da pintura]] chamado *estilo de vida contente*, criou um
+**mundo-pintura** dentro da **Cidade do Imperador Divino** (*Divine Emperor City*), no Continente
+Central, e usou as cenas do mundo mortal do último milhão de anos para **derivar as fundações do
+caminho**. É por isso que o mundo-pintura é tão vívido: ele é literalmente um golpe de pintura
+rodando, e as pessoas que vivem lá dentro cultivam sobretudo o caminho humano. A obra o chama de **"o pilar fundacional do caminho humano"**, e resume o feito numa
 imagem: antes dele o caminho *era como as folhas de uma árvore, dizia respeito só a um pequeno
 grupo*; ele *ergueu a árvore do caminho humano e sustentou seu tronco*. Resultado declarado:
 **o caminho humano passou a ser adequado para qualquer um cultivar**, quando antes só Veneráveis
 e talentos excepcionais o compreendiam.
 
 **Fase 3 — a aposta institucional.** *Desenvolver o caminho humano virou a estratégia principal*
-da maior instituição do mundo — e o motivo é explícito: *sem poder usar a vontade do céu, eles
+do [[19 - Tribunal Celestial|Tribunal Celestial]] — e o motivo é explícito: *sem poder usar a vontade do céu, eles
 decidiram desenvolver o caminho humano*.
 
 **Fase 4 — a popularização.** No fim da linha do tempo, cultivar o caminho humano vira tendência
@@ -141,7 +144,8 @@ Duas consequências jogáveis:
   vontade acumulada fica guardada dentro de um cofre institucional.
 - **Há retroalimentação.** Quanto mais vontade se acumula, mais poderosos ficam os golpes que
   dependem dela — e mais gente eles beneficiam, o que gera mais vontade. A obra descreve isso
-  como o estilo de golpe de um Venerável específico: um ciclo em que a força cresce sozinha.
+  como o estilo de golpe do **Primordial Origin Immortal Venerable**: um ciclo em que a força
+  cresce sozinha.
 
 Existe um Gu dedicado a isso, que **produz vontade humana capaz de se transformar em qualquer
 forma de vontade** — e que serve para manter uma vontade desencarnada existindo e ativa.
@@ -575,7 +579,7 @@ nele.** Para todos os outros, um grande especialista de caminho humano é invis�
   isso que todos os Veneráveis o estudaram.
 - **Que ele é ativamente suprimido pelo céu**, que modifica o ambiente para impedir seus recursos
   de crescerem.
-- **Que a maior instituição do mundo apostou nele como estratégia principal** por não conseguir
+- **Que o [[19 - Tribunal Celestial|Tribunal Celestial]] apostou nele como estratégia principal** por não conseguir
   usar a vontade do céu.
 - **Que a "criança da humanidade" existe** como categoria — pessoas cuja sorte imensa vem da
   adoração do caminho humano, e não do favor do céu.
@@ -588,11 +592,17 @@ nele.** Para todos os outros, um grande especialista de caminho humano é invis�
 
 - **O Ancestral Humano** — a figura fundacional; criou a humanidade e os dez físicos extremos, e
   suas lendas são a herança verdadeira do caminho. Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
-- **O primeiro Venerável** — criou o primeiro conjunto documentado de golpes do caminho e, com um
-  Gu de rank 9, instituiu o **domínio da humanidade**, que *deu aos humanos a esperança de
-  liberdade e a coragem de se revoltar*.
-- **O pilar fundacional** — o Venerável que construiu o mundo-pintura e derivou as fundações do
-  caminho a partir de um milhão de anos de vida mortal observada.
+- **Primordial Origin Immortal Venerable** — o primeiro dos dez. Criou o primeiro conjunto
+  documentado de golpes do caminho — *incontáveis formas de vida*, *os corações unidos do povo*,
+  *ódio ao inimigo comum* — depois de ler *As Lendas do Ancestral Humano*, e, com um Gu de rank 9,
+  instituiu o **domínio da humanidade**, que *deu aos humanos a esperança de liberdade e a coragem
+  de se revoltar*. São os métodos dele que precisam de um imortal vivo do caminho humano como
+  chave.
+- **Genesis Lotus Immortal Venerable**, o pilar fundacional — construiu o mundo-pintura dentro da
+  Cidade do Imperador Divino e derivou as fundações do caminho a partir de um milhão de anos de
+  vida mortal observada. É o mesmo Venerável que criou o caminho da madeira e o
+  [[28 - Painting Path|caminho da pintura]], e foi com um golpe de pintura que ele fez o
+  mundo-pintura.
 - **O especialista vivo de topo** — imortal de rank 8 e quase-supremo grão-mestre, o maior
   perito das cinco regiões. Criou um Gu Imortal de rank 8 próprio, uma herança verdadeira
   inteira, e formulou a taxonomia dos três tipos de Gu deste caminho.

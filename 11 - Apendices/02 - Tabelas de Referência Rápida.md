@@ -17,7 +17,7 @@ aliases:
   - Números do Sistema
   - Tabela de Escala e Distância
 status: verificado-no-texto
-fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 83", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 314-315", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 422", "cap. 443", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 723", "cap. 736", "cap. 737", "cap. 740", "cap. 819-820", "cap. 826", "cap. 852", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1033", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1346", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 1938", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2083", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
+fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 90-91", "cap. 314-315", "cap. 819-820", "cap. 1756-1758", "cap. 2085-2086", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 83", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 422", "cap. 443", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 723", "cap. 736", "cap. 737", "cap. 740", "cap. 826", "cap. 852", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1033", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1346", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 1938", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2083", "cap. 2085", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
 conhecimento: misto — são conhecimento comum no mundo as tabelas de aptidão, ranks e cores, a escala e as distâncias da seção 13, os custos de essência e de vida (14, 19), a força em jun (15), a demografia (18) e a capacidade da abertura (20) e os números de combate (21); são conhecimento especializado dao marks, tribulações, essências imortais, attainment, grades de terra abençoada e a longevidade dos Veneráveis (17); são segredo de altíssimo nível as quatro condições para virar Venerável (11) e a escala de fundação de alma acima do teto humano (16)
 ---
 
@@ -142,12 +142,17 @@ com números, e ele mostra que a mudança pode ser **enorme e rápida** quando o
 | Número de aplicações no total | **mais de dez** | **canônico** |
 | Rendimento das últimas aplicações | **decrescente** — "nas últimas vezes o efeito enfraquecia" | **canônico**, sem número |
 | Insumo de **uma** aplicação | o sangue de **cem pessoas** mortas, todas da mesma linhagem do beneficiário | **canônico** |
-| Queda causada por um Gu de cura de rank 4 que ressuscita | **−10 pontos percentuais**, permanente enquanto o Gu não for revertido | **canônico** |
+| Queda causada pelo `Yin Yang Rotation Gu`, o Gu de cura de rank 4 que ressuscita | **−10 pontos percentuais**, permanente enquanto a metade oposta não for usada — e usá-la cobra outros dez | **canônico** |
 | Queda causada por um método demoníaco de rank baixo | **−1 ponto percentual** no caso citado | **canônico** |
+
+O método por trás da subida documentada é o **`Blood Skull Gu`** — ver
+[[07 - Gu de Rank 4|Gu de Rank 4]] e [[08 - Gu de Rank 5|Gu de Rank 5]] —, e a queda de dez
+pontos é o preço fixo do **`Yin Yang Rotation Gu`**, que a mesma nota descreve por inteiro.
 
 > [!warning] Subir de aptidão pode **derrubar** o rank
 > Este é o efeito colateral que ninguém antecipa, e ele é canônico: no caso acima, o
-> cultivador subiu de C para B **e caiu de rank 3 para rank 2 no mesmo instante**.
+> cultivador subiu de C para B com o `Blood Skull Gu` **e caiu de rank 3 para rank 2 no mesmo
+> instante**.
 >
 > O motivo é aritmético e vale como regra geral. A aptidão é o **teto de armazenamento** da
 > abertura (seção 1), e o rank depende de quanto do teto está preenchido. Aumentar a aptidão
@@ -200,11 +205,15 @@ aptidão.
 > [!example] O que a expressão "sem situações especiais" está segurando
 > O enunciado canônico do 55% traz essa ressalva, e ela faz trabalho pesado. A obra
 > registra uma ruptura de **rank 2 para rank 3 gasta com apenas 38%** da reserva —
-> muito abaixo até do primeiro degrau. O truque foi engolir um Gu consumível de rank 3
-> que **converte toda a essência da abertura numa essência especial**, mais agressiva
-> contra a parede; a mesma essência é inútil para qualquer outra coisa e precisa ser
-> expelida logo depois, sob pena de contaminar a abertura e **derrubar a aptidão** de
-> forma permanente.
+> muito abaixo até do primeiro degrau. O truque tem nome: o
+> **[[09 - Avançar com Aptidão Baixa|`Man-beast Life Burial Gu`]]**, um Gu consumível de rank 3
+> do caminho demoníaco. Engolido, ele desce pela garganta como um fluxo de água preto e vermelho,
+> despeja-se dentro da abertura e **tinge toda a essência primordial de negro-avermelhado**,
+> convertendo-a numa essência especial, muito mais agressiva contra a parede de cristal. Essa
+> essência não serve para mais nada: injetada num Gu, **mata o Gu**; deixada dentro da abertura,
+> vai poluindo a parede e **derruba a aptidão** de forma permanente. Por isso o procedimento tem
+> um terceiro passo obrigatório — expulsar do corpo tudo o que sobrou, imediatamente após a
+> ruptura.
 >
 > Duas lições para a mesa. Primeira: a porcentagem exigida não mede volume de energia,
 > mede **poder de impacto** — mude a qualidade do impacto e o número muda junto.
@@ -382,8 +391,9 @@ Há uma âncora com a moeda dos mortais, e ela é o número mais vertiginoso des
 > as 50+ da melhor grade da seção 9. Não temos como reconciliar os dois números com
 > o texto na mão, e preferimos registrar a lacuna a inventar uma ponte. **Para uso
 > em mesa, calibre pelas grades da seção 9** — elas descrevem o caso típico — e
-> trate as 16 contas/dia como o extremo superior absoluto da escala, o patrimônio
-> de uma figura histórica.
+> trate as 16 contas/dia como o extremo superior absoluto da escala: a renda de uma
+> abertura imortal excepcional, do tipo que aparece uma vez por era, e não a de um rank 7
+> qualquer.
 
 > [!note] Para o design
 > Esta é uma economia de **três instrumentos diferentes**, e a distinção entre eles
@@ -814,8 +824,13 @@ Três regras de manejo que costumam ser contraintuitivas:
 
 - **A herança nunca entrega o degrau final.** Nenhum verdadeiro significado herdado
   concede Supremo Grão-Mestre, porque esse nível exige inovação própria — e inovação,
-  por definição, não se herda. O único atalho conhecido é um domínio lendário e
-  praticamente inacessível.
+  por definição, não se herda. O único atalho conhecido tem nome e endereço: o
+  **[[18 - Lugares Fora das Cinco Regiões#Primordial Domain — o Domínio Primordial|Domínio
+  Primordial]]** (*Primordial Domain*), um domínio recluso de céu e terra citado já em *As
+  Lendas de Ren Zu*. Quem consegue entrar nele **eleva um dos próprios caminhos a Supremo
+  Grão-Mestre** de uma vez. O que o torna praticamente inacessível não é um teste: é a
+  localização — ele fica na nona camada da Caverna do Demônio Enlouquecido, nas
+  [[03 - Planícies do Norte|Planícies do Norte]].
 - **Attainment insuficiente trava heranças que você já possui.** Usar um método acima
   do próprio nível não produz efeito fraco: produz o **efeito errado**. Há um caso
   documentado em que o modo reverso de um Gu, usado com attainment insuficiente,
@@ -1398,8 +1413,10 @@ A escada é decimal e a obra a enuncia inteira:
 Dois números avulsos que ajudam a calibrar:
 
 - Romper para *desolate soul* grava **cerca de 1.000 dao marks** na própria alma.
-- A ruptura do teto humano **só é possível por uma técnica específica**, herdada de um
-  único Venerável, e **só existe porque o Gu do Destino está danificado**. `[segredo]`
+- A ruptura do teto humano **só é possível pela verdadeira herança do Spectral Soul Demon
+  Venerable**, o criador do caminho da alma — é ela que descreve a escada de alma de um
+  milhão, de dez milhões, de cem milhões e, por fim, a alma desolada — e **só funciona porque
+  o Gu do Destino está danificado**. `[segredo]`
 
 > [!warning] Ruído de tradução num bloco de capítulos
 > Num trecho da obra, a tradução inglesa perde uma casa decimal e chama o mesmo estado

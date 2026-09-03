@@ -229,7 +229,7 @@ reconhecida — é uma forma de transportar algo por baixo de qualquer inspeçã
 
 O mercado é fraudável de duas maneiras documentadas, e ambas já aconteceram em escala.
 
-**Falsificação de pedras.** Um falsificador lendário vendeu grandes quantidades de pedras
+**Falsificação de pedras.** O falsificador conhecido como **Mestre Falsificador** vendeu grandes quantidades de pedras
 de grau sucata forjadas e, com isso sozinho, **derrubou a reputação e o valor de mercado
 desse grau numa região inteira**. Quase todos os grandes clãs da região emitiram mandado de
 prisão contra ele. O detalhe político: a fama de falsificador independente era, na verdade,

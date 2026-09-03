@@ -252,9 +252,12 @@ Para ser honesto sobre os limites desta seção:
   vários caminhos — o da espada tem a sua, o da sabedoria tem a sua. Aqui, não: procuramos por
   fundador nomeado, por declaração de princípio e por "significado verdadeiro do veneno"
   enunciado em palavras, e nada disso existe no texto. O que existe é o **significado verdadeiro
-  do caminho do veneno** como objeto: ele está guardado num reino de sonho deixado por um dos
-  Veneráveis, e absorvê-lo elevou o domínio de um cultivador de grão-mestre a grande
-  grão-mestre de uma vez. Ou seja: o caminho **tem** um significado verdadeiro, mas a obra nunca
+  do caminho do veneno** como objeto: ele está guardado num reino de sonho deixado pelo
+  **Paradise Earth Immortal Venerable** — o mesmo reino que contém o significado verdadeiro do
+  caminho da terra, o principal dele —, e absorvê-lo elevou o domínio de um cultivador de
+  grão-mestre a grande grão-mestre de uma vez. É um dado revelador: o Venerável que a história
+  registra como o consertador do mundo tinha veneno em domínio suficiente para deixar o
+  significado verdadeiro dele. Ou seja: o caminho **tem** um significado verdadeiro, mas a obra nunca
   o formula em uma frase. Ver [[08 - Attainment|Attainment]].
 - **`—` Não há fundador registrado.** Procuramos as fórmulas que a obra usa para creditar
   criadores de caminhos e nenhuma aponta para o veneno.

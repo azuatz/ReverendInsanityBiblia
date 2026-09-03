@@ -83,8 +83,8 @@ Mestre, e funciona quando o Mestre está distraído, dormindo ou enganado.
 
 ### Recuperação própria
 
-Um Gu Vital debilitado se regenera com o tempo, em ritmo próprio. Um deles se recupera por
-ciclos anuais de primavera e outono — o ritmo de regeneração é característica da espécie, não
+Um Gu Vital debilitado se regenera com o tempo, em ritmo próprio. O ==Spring Autumn Cicada (Cigarra da Primavera e do Outono)==, Gu Imortal de rank 6 do caminho do tempo, se recupera por
+ciclos anuais de primavera e outono — o nome descreve o ritmo. A velocidade de regeneração é característica da espécie, não
 do dono.
 
 ### Progressão como qualquer outro Gu
@@ -146,7 +146,7 @@ cultivo**.
 
 > [!warning] Uma contradição que a obra deixa em aberto
 > A regra geral é que **todo** cultivador que ascende a imortal tem um Gu Vital. Mas há um
-> caso registrado de uma abertura imortal de tipo especialíssimo que **não tem nenhum** — e o
+> caso registrado — a **abertura imortal soberana**, a que nasce junto com o corpo gerado pelo Gu Imortal de rank 9 descrito em [[18 - Modificar o Próprio Corpo#O corpo soberano|Modificar o Próprio Corpo]] — que **não tem nenhum**, e o
 > próprio dono estranha o fato e nunca obtém resposta. A obra não explica. Para uma mesa de
 > jogo, é uma brecha deliberada e utilizável.
 
@@ -161,7 +161,7 @@ como possibilidade: um Gu cuja casa é um objeto herdável quebra a regra de que
 Mestre destrói o arsenal.
 
 > [!example] Caso mecânico
-> Um cultivador de rank 1 carregava, como Gu Vital, um Gu de rank 6 gravemente debilitado —
+> Um cultivador de rank 1 carregava, como Gu Vital, o **Spring Autumn Cicada**, Gu Imortal de rank 6 gravemente debilitado —
 > um bicho que, no auge, estivera muito acima de qualquer coisa que ele pudesse manejar. A
 > combinação funciona porque o Gu Vital é definido pela **profundidade do vínculo**, não pelo
 > equilíbrio de níveis. O custo é que o Gu, à medida que se recupera, ameaça sobrecarregar a

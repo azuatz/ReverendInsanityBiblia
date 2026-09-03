@@ -59,8 +59,9 @@ a **congelar o sangue de imortais de rank 8 e matá-los**.
 Este caminho tem a biografia mais incomum da pasta, e ela é curta porque foi **deliberadamente
 apagada**.
 
-**Criador:** um dos dez Veneráveis — o mesmo que criou o [[27 - Os Caminhos Elementais|caminho da
-madeira]]. A pintura era o **caminho de especialidade** dele; a madeira era o principal. É a
+**Criador:** o **Genesis Lotus Immortal Venerable**, da Antiguidade Medieval — o mesmo que criou o
+[[27 - Os Caminhos Elementais|caminho da madeira]]. A pintura era o **caminho de especialidade**
+dele; a madeira era o principal. É a
 aplicação exata da arquitetura descrita em
 [[01 - Visão Geral dos Paths#Caminho principal + caminho de especialidade]].
 
@@ -83,7 +84,8 @@ que o criador deixou: *o caminho da pintura atual continuava no estado de pico d
 popular demais e ficar sem insumos; o outro se preservou intacto por nunca ter tido praticante
 nenhum.
 
-**A ressurreição.** No fim da linha do tempo, uma instituição encontra o caminho de outra forma:
+**A ressurreição.** No fim da linha do tempo, o [[19 - Tribunal Celestial|Tribunal Celestial]]
+encontra o caminho por outra via:
 usando uma **formação de derivação** — uma máquina que faz os resultados de pesquisa dos
 cultivadores colidirem com heranças de peritos antigos — ela consegue **nutrir os próprios imortais
 do caminho da pintura**, obtendo *uma vasta quantidade de receitas de Gu Imortais de pintura*. E um
@@ -185,9 +187,11 @@ qualquer outro caminho**. O caminho da pintura é o único cuja marca do Dao **r
 
 A propriedade central deixa de ser abstrata quando se vê o que ela permitiu.
 
-Um golpe imortal do criador do caminho ficou **escondido dentro da Casa de Gu Imortal de
-investigação número um do mundo** — a estrutura cujo ofício é justamente enxergar tudo. Ele
-permaneceu ali por eras. Nesse tempo, a Casa foi **modificada incontáveis vezes**, teve **muitos de
+Um golpe imortal de Genesis Lotus — uma **pintura de bambuzal** — ficou **escondido dentro da
+Torre que Observa o Céu** (*Heaven Overseeing Tower*), a Casa de Gu Imortal de investigação número
+um do mundo, no [[19 - Tribunal Celestial|Tribunal Celestial]]: a estrutura cujo ofício é
+justamente enxergar tudo. Ele permaneceu ali por eras, e quando finalmente se ativou, **absorveu
+uma leva inteira de imortais** e saiu voando da instituição sem deixar rastro. Nesse tempo, a Casa foi **modificada incontáveis vezes**, teve **muitos de
 seus Gu substituídos**, foi **danificada repetidamente e reparada**. E, mesmo assim:
 
 - o golpe **sobreviveu intacto** a todas as reformas;
@@ -325,17 +329,18 @@ O que cada degrau destranca: `—` a obra não informa.
 
 ## Praticantes notáveis (sem enredo)
 
-- **O criador** — um dos dez Veneráveis, cujo caminho principal era a madeira e cuja **especialidade
-  secreta** era a pintura. Guardou-a absolutamente: não a ensinou, não a divulgou e **não deixou
-  herança nenhuma dela** para seus descendentes. Ver
+- **Genesis Lotus Immortal Venerable**, o criador — cujo caminho principal era a madeira e cuja
+  **especialidade secreta** era a pintura. Guardou-a absolutamente: não a ensinou, não a divulgou e
+  **não deixou herança nenhuma dela** para seus descendentes. Ver
   [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]].
 - **Outro Venerável com domínio profundo** — a obra registra a surpresa de uma testemunha:
   *pensar que ele tinha domínio tão profundo no caminho da pintura; conseguiu salvar aquela pessoa
   com facilidade*. Ou seja: pelo menos dois dos dez o estudaram, ainda que só um o tenha criado.
-- **Os herdeiros artificiais** — no fim da linha do tempo, uma instituição consegue, por meio de uma
-  formação de derivação, **produzir os próprios imortais do caminho da pintura**, e um praticante
-  jovem foi identificado como tendo talento e futuro nele — recebendo instrução direta de uma
-  Venerável. É a primeira vez na história do mundo em que o caminho ganha alunos.
+- **Os herdeiros artificiais** — no fim da linha do tempo, o
+  [[19 - Tribunal Celestial|Tribunal Celestial]] consegue, por meio de uma formação de derivação,
+  **produzir os próprios imortais do caminho da pintura**, e um praticante jovem foi identificado
+  como tendo talento e futuro nele — recebendo instrução direta da vontade residual da
+  **Star Constellation Immortal Venerable**. É a primeira vez na história do mundo em que o caminho ganha alunos.
 
 > [!note] Para o design
 > **Arquétipo entregue: o herdeiro de uma escola que ninguém conhece.** Não é o especialista raro —

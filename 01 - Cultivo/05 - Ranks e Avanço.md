@@ -7,7 +7,7 @@ aliases:
   - Grande reino e pequeno reino
   - Ranks e Estágios de Cultivo
 status: consolidado
-fontes: ["cap. 4-6", "cap. 74", "cap. 90-91", "cap. 92", "cap. 105", "cap. 123", "cap. 126", "cap. 156", "cap. 162", "cap. 179-181", "cap. 200-202", "cap. 212", "cap. 214", "cap. 216-217", "cap. 230", "cap. 251", "cap. 273", "cap. 275", "cap. 278", "cap. 288", "cap. 301", "cap. 304", "cap. 306", "cap. 312-314", "cap. 326", "cap. 331", "cap. 337-338", "cap. 345", "cap. 351", "cap. 358", "cap. 370", "cap. 373", "cap. 426", "cap. 430", "cap. 469", "cap. 475", "cap. 477", "cap. 493", "cap. 509", "cap. 527-528", "cap. 538", "cap. 571", "cap. 589", "cap. 828", "cap. 832", "cap. 1501", "cap. 1590", "cap. 1657", "cap. 1659", "cap. 1796", "cap. 1819-1820", "cap. 1931"]
+fontes: ["cap. 4-6", "cap. 74", "cap. 90-91", "cap. 92", "cap. 105", "cap. 123", "cap. 126", "cap. 156", "cap. 162", "cap. 179-181", "cap. 200-202", "cap. 212", "cap. 214", "cap. 216-217", "cap. 230", "cap. 251", "cap. 273", "cap. 275", "cap. 278", "cap. 288", "cap. 301", "cap. 304", "cap. 306", "cap. 312-314", "cap. 326", "cap. 331", "cap. 337-338", "cap. 345", "cap. 351", "cap. 358", "cap. 370", "cap. 373", "cap. 426", "cap. 430", "cap. 469", "cap. 475", "cap. 477", "cap. 493", "cap. 509", "cap. 527-528", "cap. 538", "cap. 571", "cap. 589", "cap. 828", "cap. 832", "cap. 1501", "cap. 1590", "cap. 1657", "cap. 1659", "cap. 1796", "cap. 1819-1820", "cap. 1931", "cap. 148", "cap. 152", "cap. 187", "cap. 226"]
 conhecimento: comum
 ---
 
@@ -97,7 +97,7 @@ Quando a parede finalmente colapsa, os cacos se dissolvem no fundo do Mar Primor
 | Rank 1 pico → 2 | com pedras primordiais para recarregar durante o ataque | 3 a 4 dias |
 | Rank 2 pico → 3 | sozinho | mais de 24 horas |
 | Rank 2 pico → 3 | com transfusão de essência de rank 3 pico doada por terceiro | cerca de 6 horas |
-| Rank 3 superior → pico | com um consumível de avanço instantâneo | imediato |
+| Rank 3 superior → pico | com um *relic Gu* de rank 3, o consumível de avanço instantâneo descrito abaixo | imediato |
 | Rank 3 pico → 4 | mar a 90% + influxo externo contínuo de essência superior | cerca de 2 horas de influxo |
 
 ## Métodos de avanço forçado e seus custos
@@ -109,10 +109,10 @@ Este é o cardápio de atalhos do mundo mortal — e o mais interessante é que 
 | **Recarga com pedras primordiais durante a ruptura** | mantém a essência acima da taxa de cicatrização da parede | dias de cultivo ininterrupto, concentração total, gasto financeiro pesado |
 | **Itens que elevam a aptidão** | atacam a causa: elevam o teto, e com ele a possibilidade de romper | raríssimos; alguns são demoníacos e cobram vidas (ver [[03 - Aptidão\|Aptidão]]) |
 | **Gu de refino de essência** | destila a própria energia para o estágio acima, a 4 por 1 | é preciso possuir e alimentar o Gu; perde-se 75% do volume |
-| **Transfusão de essência de um aliado mais forte** | permite avançar com energia alheia, inclusive de **rank** | contamina a abertura, a menos que se use o par de Gu conversor; exige limpeza depois |
+| **Transfusão de essência de um aliado mais forte** | permite avançar com energia alheia, inclusive de **rank** | contamina a abertura, a menos que se use o par **Bone Flesh Unity Gu** (ver [[04 - Essência Primordial\|Essência Primordial]]); exige limpeza com o **Cleansing Water Gu** depois |
 | **Relic Gu** — "Gu-relíquia", esferas consumíveis do tamanho de um polegar, uma série de cinco, uma por rank | avança **um estágio inteiro instantaneamente**, sem sequelas | caríssimos, e **não cruzam a barreira de rank** — ver abaixo |
-| **Gu que converte a parede em pedra grossa** | salta direto ao estágio de pico do rank atual | queima o potencial de avanço de rank no futuro: teto permanente |
-| **Ritual demoníaco de fusão com sacrifício humano** | força o avanço de **um rank inteiro** | mortes humanas no ritual e resíduo que corrói a aptidão do usuário |
+| **Stone Aperture Gu** (Gu da Abertura de Pedra) — consumível que se desfaz num pó cinza impregnado nas paredes da abertura | engrossa a parede fina de luz numa parede de pedra e, com isso, salta direto ao estágio de pico do rank atual | consome todo o potencial de crescimento restante da abertura: o avanço de rank posterior fica quase impossível. Teto permanente |
+| **Man-beast Life Burial Gu** (Gu do Sepultamento de Homem e Fera) — receita de caminho demoníaco, criada por um antigo líder de seita para empurrar subordinados escada acima | engolido, desce como um fluxo de água preta e vermelha até o Mar Primordial e faz um Mestre Gu **do pico do rank 2 romper para o rank 3** sem ter aptidão para isso | refiná-lo exige uma fera devorar uma pessoa inteira sem sobrar um farelo, mais uns dez ingredientes; usá-lo deixa um traço preto-avermelhado permanente na essência, que custa **um a dois pontos percentuais de aptidão** mesmo depois de limpo |
 
 ### Relic Gu — a mecânica que mais ensina sobre a economia do mundo
 
@@ -139,11 +139,11 @@ furos.
 
 | # | A exceção | Por que funciona | O que ela custa |
 |---|---|---|---|
-| 1 | **Trocar o combustível** | um Gu de rank 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de rank 1 | dano corporal potencialmente letal com o uso repetido |
-| 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia — um deles só ativa se o usuário acreditar sinceramente estar do lado certo | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
-| 3 | **Vínculo de [[05 - Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de rank 6 carregado por um cultivador de rank 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
+| 1 | **Trocar o combustível** | o **Gather Oil Gu** (Gu de Recolher Óleo), de rank 5, não consome essência primordial e sim a **medula óssea** do usuário — por isso até um Mestre de rank 1 o aciona | cada uso tira medula do corpo; sem Gu do caminho do osso para repor, o uso repetido mata, e a obra registra quem morreu assim |
+| 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia: o **Justice Gu** (Gu da Justiça), de rank 5, explode em luz branca que amplia muito a força do usuário e anula veneno e efeitos debilitantes já em ação, mas **só ativa se ele acreditar sinceramente na própria retidão** | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
+| 3 | **Vínculo de [[05 - Gu Vital\|Gu Vital]]** | há caso documentado do **Spring Autumn Cicada** (Cigarra da Primavera e do Outono), Gu Imortal de rank 6 do caminho do tempo, alojado como Gu Vital no centro da abertura de um cultivador de **rank 1** — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno enquanto o portador não tiver rank para tanto; e perder um Gu Vital é catástrofe pessoal |
 | 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[06 - Refino de Gu\|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
-| 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de rank 6 que se camuflou de uma inspeção de rank 4 dentro da abertura de um Mestre de rank 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
+| 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — foi assim que o mesmo **Spring Autumn Cicada** de rank 6 passou despercebido por uma inspeção de abertura feita por um Mestre de rank 4 | é uma condição temporária: se o bicho se recuperar, o problema volta |
 
 Some a isso um sexto caso, o mais concreto de todos: existe registro de um Mestre Gu de
 **rank 3** que acionou o **Crânio de Sangue**, um Gu de **rank 4** do

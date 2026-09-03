@@ -285,12 +285,13 @@ Clãs vivem de competição ritualizada, o que os torna extremamente jogáveis:
 - **Exames e arenas de academia**, com prêmios em pedras e em prioridade de escolha.
 - **Torneios entre clãs aliados**, usados como válvula de escape social e como ficha de
   negociação política.
-- **Salões de ascensão** — em pelo menos um grande clã, treze arenas internas por onde se
-  sobe na hierarquia por mérito de combate.
+- **Salões de ascensão** — no **clã Tie**, da Fronteira Sul, são treze salões-arena por onde
+  se sobe na hierarquia por mérito de combate: vencer os treze é o que torna alguém um dos
+  oito jovens mestres do clã.
 - **Postos de jovem mestre** — em clãs grandes, um número fixo de posições administrativas
   (cerca de dez), cada uma responsável por um setor da economia do clã, com avaliação
   anual que elimina o pior colocado. Apenas os jovens mestres disputam a vaga única de
-  jovem líder. Num clã comercial documentado, o teste de admissão é puramente econômico:
+  jovem líder. No **clã Shang**, o clã mercador da Fronteira Sul, o teste de admissão é puramente econômico:
   o candidato recebe um capital inicial e tem três meses para multiplicá-lo — e os
   recordes históricos dessa prova são conhecidos e comentados como recordes esportivos.
 - **Caçadas e competições de caça**, frequentemente usadas como fachada para operações

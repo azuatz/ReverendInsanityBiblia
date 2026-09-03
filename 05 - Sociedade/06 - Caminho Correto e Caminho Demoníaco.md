@@ -12,7 +12,7 @@ aliases:
   - Lone Cultivator
   - Cultivador Solitário
 status: consolidado
-fontes: ["cap. 12-19", "cap. 46", "cap. 60", "cap. 74", "cap. 148", "cap. 151-152", "cap. 170", "cap. 178-180", "cap. 184", "cap. 192-198", "cap. 209", "cap. 227", "cap. 234", "cap. 253-257", "cap. 259-260", "cap. 265", "cap. 271", "cap. 280", "cap. 293", "cap. 315-329", "cap. 323", "cap. 335", "cap. 344", "cap. 352", "cap. 359", "cap. 365", "cap. 367", "cap. 369", "cap. 383", "cap. 392-393", "cap. 397", "cap. 446", "cap. 470", "cap. 530", "cap. 585-588", "cap. 591", "cap. 635", "cap. 691", "cap. 700", "cap. 705-706", "cap. 710", "cap. 734", "cap. 749", "cap. 800-801", "cap. 831", "cap. 848-849", "cap. 891", "cap. 893", "cap. 909", "cap. 959", "cap. 964", "cap. 991", "cap. 1035", "cap. 1052", "cap. 1058", "cap. 1072", "cap. 1101-1116", "cap. 1194", "cap. 1218", "cap. 1223", "cap. 1226", "cap. 1262", "cap. 1283", "cap. 1303-1305", "cap. 1339", "cap. 1345", "cap. 1382", "cap. 1507", "cap. 1536", "cap. 1817-1818", "cap. 1886", "cap. 2095", "cap. 2099", "cap. 2246", "cap. 704", "cap. 764", "cap. 813", "cap. 819"]
+fontes: ["cap. 12", "cap. 46", "cap. 60", "cap. 74", "cap. 148", "cap. 151", "cap. 170", "cap. 178", "cap. 184", "cap. 192", "cap. 209", "cap. 227", "cap. 234", "cap. 253", "cap. 259", "cap. 265", "cap. 271", "cap. 280", "cap. 293", "cap. 315", "cap. 323", "cap. 335", "cap. 344", "cap. 352", "cap. 359", "cap. 365", "cap. 367", "cap. 369", "cap. 383", "cap. 392", "cap. 397", "cap. 446", "cap. 470", "cap. 530", "cap. 585", "cap. 591", "cap. 635", "cap. 691", "cap. 700", "cap. 704", "cap. 705", "cap. 710", "cap. 734", "cap. 749", "cap. 764", "cap. 800", "cap. 813", "cap. 819", "cap. 831", "cap. 848", "cap. 891", "cap. 893", "cap. 909", "cap. 959", "cap. 964", "cap. 991", "cap. 1035", "cap. 1052", "cap. 1058", "cap. 1072", "cap. 1101", "cap. 1194", "cap. 1218", "cap. 1223", "cap. 1226", "cap. 1262", "cap. 1283", "cap. 1303", "cap. 1339", "cap. 1345", "cap. 1382", "cap. 1507", "cap. 1536", "cap. 1817", "cap. 1886", "cap. 2095", "cap. 2099", "cap. 2246"]
 conhecimento: misto — a existência das três facções, os mandados de captura e a porosidade das fronteiras são `comum`; o funcionamento interno da lista mundial de procurados e a pesquisa secreta de métodos proibidos pelo caminho correto são `especializado`
 ---
 
@@ -68,8 +68,8 @@ Mas não é só gente avulsa:
 
 - **Organizações inteiras se declaram neutras.** Existe a fórmula pronta, dita por líderes
   de grandes forças: "nós não nos envolvemos nos assuntos do mundo, somos parte neutra". Um
-  imortal de altíssimo nível pode manter acordo com a instituição máxima do mundo e ainda
-  assim insistir em permanecer neutro — e isso é lido pelos outros como uma **posição
+  imortal de altíssimo nível pode manter acordo com o [[19 - Tribunal Celestial|Tribunal
+  Celestial]] e ainda assim insistir em permanecer neutro — e isso é lido pelos outros como uma **posição
   política legítima**, não como covardia.
 - **Existem facções neutras dentro de organizações do caminho correto.** Uma grande seita do
   caminho correto tem entre seus supremos anciãos alguém descrito como "suprema anciã da
@@ -267,13 +267,15 @@ isso é imprevisível de um jeito que nenhum planejamento institucional cobre.
   caçada pouco atraente.
 - **Investigadores itinerantes** de alto rank, com autoridade moral e prática sobre clãs
   que não os empregam, funcionam como detetives e juízes ambulantes.
-- **Prisões perpétuas** existem: há uma torre de supressão célebre, com centenas de metros
-  de altura e cerca de cem andares, cujo propósito declarado não é apenas encarcerar, mas
-  reeducar e eventualmente **recrutar** os prisioneiros.
-- **Uma lista oficial de procurados** de âmbito mundial, atualizada em ciclos de décadas
-  pela autoridade máxima do mundo, na qual certos caminhos de cultivo são presença
-  permanente. Ela não é um pergaminho: é uma máquina que **detecta sozinha** os praticantes
-  de um caminho específico em qualquer lugar do mundo — ver
+- **Prisões perpétuas** existem: a **Torre de Supressão de Demônios** do **clã Tie**, no alto
+  da Wan Cheng Mountain, tem centenas de metros de altura e cerca de cem andares, e seu
+  propósito declarado não é apenas encarcerar, mas reeducar e eventualmente **recrutar** os
+  prisioneiros.
+- **A Placa de Julgamento dos Demônios** (*Demon Judgment Board*), a lista oficial de
+  procurados de âmbito mundial, atualizada a cada dez anos pelo [[19 - Tribunal Celestial|Tribunal
+  Celestial]], na qual o [[03 - Blood Path|caminho do sangue]] é presença permanente. Ela não é
+  um pergaminho: é uma máquina que **detecta sozinha** todo cultivador do caminho do sangue
+  abaixo do rank 9, em qualquer lugar do mundo — ver
   [[07 - Lei, Crime e Castigo#Camada 5 — a única lei mundial|Lei, Crime e Castigo]], onde
   todo este aparato repressivo está descrito em detalhe, com a tabela de penas.
 - **Seitas caçadoras** especializadas em perseguir cultivadores demoníacos.
@@ -282,11 +284,12 @@ isso é imprevisível de um jeito que nenhum planejamento institucional cobre.
   sobrevivem tendem a ser fortes, por seleção natural — o que faz da suspeita uma profecia
   bastante autorrealizável.
 
-**Como a lista mundial funciona por dentro.** Vale detalhar, porque a mecânica é excelente —
+**Como a Placa funciona por dentro.** Vale detalhar, porque a mecânica é excelente —
 e note que este é o único trecho da nota que não é conhecimento comum: o funcionamento
-interno da lista é sabido por cúpulas, não por Mestres Gu de rua. A lista não é um cartaz: é um **Gu Imortal de rank 8** — mais
-precisamente uma estrutura de Gu antiquíssima, à qual a autoridade máxima do mundo
-acrescentou um Gu de relação de sangue capturado. O efeito é que **todo praticante do
+interno da Placa é sabido por cúpulas, não por Mestres Gu de rua. Ela não é um cartaz: é uma
+**Casa de Gu Imortal de rank 8** em forma de lápide vermelha coberta de caracteres em
+movimento, à qual o Tribunal Celestial acrescentou um Gu Imortal de rank 8 de **relação
+sanguínea**, capturado selvagem em outra era. O efeito é que **todo praticante do
 caminho do sangue abaixo do rank 9 é detectado automaticamente**, em qualquer lugar do
 mundo, sem que ninguém precise investigar nada. A lista é publicada a cada dez anos, e a
 informação é repassada às forças do caminho correto das outras quatro regiões, para que
@@ -364,8 +367,10 @@ Não existe governo demoníaco, mas existem instituições informais:
   orientam novatos e transmitem experiência — e que ganham, entre os demoníacos, a
   reputação de formadores da geração seguinte.
 - **Organizações demoníacas de verdade existem.** A obra nomeia várias: seitas instaladas em
-  terras abençoadas, alianças, aldeias inteiras. Uma delas é descrita como a maior força
-  demoníaca de uma região. Ou seja, o caminho demoníaco **pode** se organizar — é apenas
+  terras abençoadas, alianças, aldeias inteiras. A maior delas é a **Snowy Mountain blessed
+  land** das Planícies do Norte — dezenas de imortais demoníacos, cada um num pico da mesma
+  montanha, e o conjunto só se sustenta porque os acordos internos são selados com o
+  *mountain pledge Gu* emprestado por terceiros. Ou seja, o caminho demoníaco **pode** se organizar — é apenas
   mais caro e mais instável fazê-lo, pelo motivo estrutural descrito acima.
 
 **Como se lidera um bando demoníaco.** A obra descreve o mecanismo com clareza, e ele é
@@ -450,7 +455,7 @@ limite reconhecido *pelos próprios demoníacos*, e é possível ficar abaixo de
 O ponto que mais surpreende quem espera um conflito maniqueísta: **as três facções
 negociam, cooperam e trocam de lado com frequência**.
 
-- **Portas institucionais de conversão existem.** Numa grande cidade-mercado, dominar a
+- **Portas institucionais de conversão existem.** Na cidade-mercado do clã Shang, dominar a
   arena local — vencer um número expressivo de lutas consecutivas no nível mais alto —
   transforma um cultivador demoníaco em **ancião externo** do clã anfitrião. Não é um
   perdão: é uma contratação. Três dos cinco grandes anciãos daquele clã chegaram por essa
@@ -467,11 +472,11 @@ negociam, cooperam e trocam de lado com frequência**.
   uma só — não lutar e não matar; fora isso, **qualquer** Mestre Gu entra, correto ou
   demoníaco, sem restrição nenhuma. A obra atribui a popularidade do evento exatamente a
   essa liberdade.
-- **Existe uma facção inteira dedicada a intermediar.** Uma das super forças mercantis do
-  mundo tem sua base no comércio e é descrita como "o maior conector entre o caminho
-  correto, o caminho demoníaco e os cultivadores solitários": negócios podem ser fechados
-  com qualquer um. Enquanto as arenas das outras super forças são só para membros do clã, a
-  dela aceita também demoníacos e solitários — e nas grandes cerimônias dessa casa,
+- **Existe uma facção inteira dedicada a intermediar: o clã Shang**, a super força mercantil
+  da Fronteira Sul, com base na Shang Liang Mountain. Ele é descrito como "o maior conector
+  entre o caminho correto, o caminho demoníaco e os cultivadores solitários": negócios podem
+  ser fechados com qualquer um. Enquanto as arenas das outras super forças são só para membros
+  do clã, a dele aceita também demoníacos e solitários — e nas grandes cerimônias dessa casa,
   demoníacos aparecem como **convidados de honra**.
 - **A neutralidade também é mantida por interesse coletivo.** Num célebre torneio de apostas,
   todos os imortais participantes — corretos, demoníacos e solitários, inclusive
@@ -499,8 +504,10 @@ demoníaco**. A proibição, portanto, é sobre publicidade e filiação, não s
 si.
 
 > [!example] Caso mecânico
-> Existe uma categoria de Gu que só pode ser usada por alguém de "coração correto", e cuja
-> aura enfraquece a vontade de inimigos vis. O detalhe mecanicamente delicioso: ela
+> O **Righteous Gu** (Gu da Retidão) só pode ser usado por alguém de "coração correto", e sua
+> aura enfraquece a força de vontade de inimigos vis dentro do alcance — quanto menor a
+> vontade do alvo, maior o enfraquecimento, a ponto de fazer um Mestre Gu de rank 4 perder a
+> disposição de lutar e se render sem combate. O detalhe mecanicamente delicioso: ela
 > **falha** contra naturezas profundamente demoníacas — as que não reconhecem os próprios
 > atos como pecado. A ferramenta que deveria punir os piores não os afeta, porque a
 > punição opera pela culpa. O efeito colateral é que a imunidade a esse Gu funciona como

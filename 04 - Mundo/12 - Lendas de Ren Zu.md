@@ -8,7 +8,7 @@ aliases:
   - Ren Zu
   - Ancestral Humano
 status: consolidado
-fontes: ["cap. 5", "cap. 38", "cap. 58", "cap. 59", "cap. 87", "cap. 135", "cap. 181", "cap. 287", "cap. 357", "cap. 371", "cap. 384", "cap. 404", "cap. 410", "cap. 411", "cap. 435", "cap. 495", "cap. 546", "cap. 590", "cap. 591", "cap. 673", "cap. 730", "cap. 807", "cap. 845", "cap. 870", "cap. 1175", "cap. 2085"]
+fontes: ["cap. 5", "cap. 38", "cap. 58", "cap. 59", "cap. 87", "cap. 135", "cap. 180", "cap. 181", "cap. 287", "cap. 357", "cap. 371", "cap. 384", "cap. 404", "cap. 410", "cap. 411", "cap. 422", "cap. 435", "cap. 477", "cap. 495", "cap. 508", "cap. 517", "cap. 546", "cap. 590", "cap. 591", "cap. 673", "cap. 730", "cap. 807", "cap. 838", "cap. 845", "cap. 870", "cap. 1019", "cap. 1175", "cap. 1431", "cap. 1473", "cap. 1804", "cap. 2085", "cap. 2172"]
 conhecimento: comum
 ---
 
@@ -30,7 +30,7 @@ Um "domínio recluso de céu e terra" é uma região física do mundo saturada p
 
 Some-se a isso:
 
-- **As lendas contêm receitas funcionais.** A fórmula de pelo menos um Gu Imortal famoso está registrada, por capítulo e seção, dentro do texto das lendas. Não como alegoria — como receita.
+- **As lendas contêm receitas funcionais.** A fórmula do **Fixed Immortal Travel Gu** (Gu da Viagem Imortal Fixa), um Gu Imortal de rank 6 de teleporte, está no capítulo 2, seção 3 das próprias Lendas — não como alegoria, como receita, com os quatro componentes listados. A do lendário **Wealth Gu**, que transmuta matéria em qualquer material inanimado do mundo, também está lá, e é hoje impossível de seguir porque exige materiais extintos (a água do mar azul e as mãos decepadas de Ren Zu). Um Gu ligado às Lendas de Ren Zu é, por definição, um pedido acima do padrão em qualquer mercado de receitas.
 - **Os dez Veneráveis, sem exceção, compreenderam algo das Lendas de Ren Zu** e a partir disso criaram os próprios métodos de topo do caminho humano. Isso não é um traço curioso da biografia deles: é uma das coisas que a obra lista como **traço comum obrigatório** de todo mundo que já chegou ao rank 9. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]].
 - **Gu Imortais continuam relendo o livro.** Não é leitura de criança que se abandona; é o texto que os seres mais poderosos do mundo revisitam depois de milhares de anos de vida.
 
@@ -45,7 +45,7 @@ Vale um aviso de leitura antes de entrar neles. As lendas fixam mecânica, mas f
 
 ### A esperança e o coração
 
-Ren Zu entregou o próprio coração à Esperança. Duas coisas permanentes saem daí: os insetos usados na cerimônia que revela a aptidão de uma criança para o cultivo descendem desse mito, e as feras primordiais associadas à aflição temem a luz da esperança. E como Ren Zu ficou sem coração, ele não conseguiu vestir uma máscara que capturou depois — porque "para quem tem coração, a atitude é uma máscara".
+Ren Zu entregou o próprio coração à Esperança. Duas coisas permanentes saem daí: o **Hope Gu** (Gu da Esperança) usado na cerimônia de despertar que revela a aptidão de uma criança para o cultivo descende desse mito — é ele que emite luz sobre o jovem, com intensidade proporcional à aptidão, e é ele que explode dentro do corpo para abrir a abertura —, e as feras primordiais associadas à aflição temem a luz da esperança. E como Ren Zu ficou sem coração, ele não conseguiu vestir uma máscara que capturou depois — porque "para quem tem coração, a atitude é uma máscara".
 
 ### Regras são mortas, pessoas são vivas
 
@@ -65,7 +65,7 @@ A moral in-universe, que os personagens citam como provérbio: **regras são mor
 
 Ao usar aquele par de Gu, Ren Zu ganhou força mas perdeu a sabedoria — e o que sobrou foram três Gu: Suspeita, Confiança e Atitude. Ele capturou o Atitude, que tinha forma de máscara, e não conseguiu usá-lo. Do episódio saem dois princípios que o mundo repete como senso comum: *atitude é tudo*, e a atitude é máscara apenas para quem tem coração.
 
-Mecanicamente, isto é a base mítica de uma família real de Gu que manipula a vontade impressa em objetos e a aceitação de um portador ilegítimo por um Gu roubado.
+Mecanicamente, isto é a base mítica de um Gu real e muito consequente: o **Attitude Gu** (Gu da Atitude), de rank 8. Todo Gu roubado ou emprestado carrega dentro de si a vontade residual do dono, e é essa vontade que faz um Gu recusar quem não é seu dono; o Attitude Gu engana essa vontade e **faz o Gu aceitar o portador como legítimo**. Ele tem ainda duas propriedades incomuns: não gasta essência para ser ativado, só energia mental, e combinado com métodos de disfarce esconde a identidade do portador até dos Gu selvagens, que passam a tratá-lo como animal genuíno.
 
 ### Os dez filhos e a origem da humanidade
 
@@ -82,7 +82,7 @@ Quando o Gu do destino visitou o Gu da equidade, formaram-se dois caminhos, que 
 - **O caminho da morte**, que vai da luz à escuridão. É coberto de Gu do sofrimento, afastáveis com o Gu da coragem — e o sofrimento **diminui** conforme se avança. No fim dele está o domínio da obsessão e da morte, onde reside o Gu da equidade, sob o princípio de que *vida e morte são a maior justiça*, e onde as almas dos mortos bebem um vinho que as apazigua. Uma alma "pesada" demais por reputação não pode ser resgatada de lá.
 - **O caminho da vida**, que é a saída, e no qual o sofrimento **aumenta** a cada passo. Tem três obstáculos: uma montanha que faz a alma tremer, um vale de neblina confusa e vento que corta almas, e um rio de fluxo invertido no qual é preciso avançar sem parar um segundo sequer, ou a correnteza devolve o viajante — *a vida é um barco contra a corrente*. Ren Zu falhou no último passo.
 
-**Por que isso é regra e não fábula:** essa montanha e esse vale **existem no mundo real** como domínios reclusos de céu e terra, e são reconhecidos como as duas terras sagradas de uma disciplina de cultivo inteira. Podem inclusive ser fisicamente arrancados do mundo e guardados dentro de um mundo privado, servindo de reserva de marcas de dao.
+**Por que isso é regra e não fábula:** essa montanha e esse vale **existem no mundo real**, têm nome e endereço, e são as duas terras sagradas do **caminho da alma**: a ==**Dang Hun Mountain**== (a montanha que faz a alma tremer), que **fortalece** a alma em quantidade, e o ==**Luo Po Valley**== (o vale de neblina), que a **refina** em qualidade. A classificação é do próprio criador do caminho da alma, *Spectral Soul Demon Venerable*, e possuir as duas é considerado dominar o caminho. Elas não são opcionais uma em relação à outra: são as duas metades de uma progressão que trava sem a segunda, e quem cultiva por elas chega ao mesmo patamar gastando **muito menos marcas de dao** do que quem usa métodos alternativos. Podem inclusive ser fisicamente arrancadas do chão e guardadas dentro de um mundo privado, servindo de reserva de marcas de dao — e o Luo Po Valley está selado, exigindo um Gu de abrir portas de rank 5 para se entrar nele.
 
 E há uma consequência que explica um fenômeno cotidiano do cenário: `especializado` — **a porta enfraqueceu** ao longo de eras e vários donos, e perdeu o controle pleno sobre as almas dos mortos. Essa é a explicação canônica da existência de **zumbis**: almas presas a corpos que a porta não reivindicou. Dois dos três obstáculos do caminho da vida já foram removidos por cultivadores que os capturaram, o que enfraqueceu ainda mais a filtragem.
 
@@ -90,7 +90,9 @@ E há uma consequência que explica um fenômeno cotidiano do cenário: `especia
 
 Uma montanha feita de incontáveis Gu do fracasso empilhados — cada pedra um fracasso que inflige males aleatórios a quem passa —, com um único Gu do sucesso no topo. Uma das filhas de Ren Zu subiu, terminou monstruosa e pegou o Gu errado por engano, sob a moral de que *a maior tragédia é perder o senso de si*.
 
-Isso é a base mítica de uma família real de Gu ligados a êxito imediato e acerto de primeira tentativa. E de um princípio operacional que um Venerável transformou em método: **todo fracasso tem valor** — existe um Gu que devora fracassos e absorve permanentemente o poder deles.
+Isso é a base mítica de uma família real de Gu ligados a êxito imediato e acerto de primeira tentativa. E de um princípio operacional enunciado no próprio mito pelo **Self Gu** (Gu do Eu), que diz a Ren Zu, com todas as letras: *"todo fracasso tem valor; eu passei por fracassos repetidos e os absorvi para ficar mais forte"*. O Self Gu devora fracassos e fica permanentemente mais forte — e é também ele que protege quem o possui de perder o senso de si ao quebrar um Gu do fracasso.
+
+Quem transformou o princípio em máquina não foi um Venerável: foi o **líder mítico dos homens-peludos**, cuja terra abençoada — a **Infallible** ("Infalível"), na Hairy Foot Mountain, uma terra abençoada sem nenhuma entrada — condensa os Gu de fracasso mortais gerados pelos refinadores do mundo e os converte em **marcas do sucesso**. O Tribunal Celestial capturou a terra e montou em volta dela a Convenção do Caminho do Refino justamente para alimentá-la de fracassos: é por isso que a convenção aceita literalmente qualquer um — demoníacos, mortais, criminosos —, porque mais participantes significa mais fracasso e mais marcas.
 
 É daqui que vêm as ==marcas do sucesso==, o item mais valioso da profissão de refinador: marcas gravadas no corpo que, consumidas num refino, eliminam a probabilidade natural de falha. A regra operacional — o que elas fazem, quantas cobrem cada nível, por que são intransferíveis e incomercializáveis — está em [[06 - Refino de Gu#As marcas do sucesso: de onde vêm e o que compram]]. O que este mito acrescenta é a **lógica** delas, e ela é notável: neste mundo, fracasso não é ausência de resultado, é matéria-prima. Alguém precisa fracassar muito para que outra pessoa acerte de primeira.
 
@@ -126,7 +128,7 @@ Um mar azul no centro de um deserto dourado, descrito como a fonte de todos os s
 ### Outros elementos com efeito no mundo
 
 - **A ponte da reputação:** um Gu que constrói, sobre um abismo intransponível, uma ponte proporcional à reputação de quem atravessa — com a nota amarga de que má reputação é mais fácil de obter que boa.
-- **O Gu da viagem divina**, que se condensa em quem beber os quatro vinhos supremos do mundo, e que na lenda só funciona quando o usuário está embriagado.
+- **O Divine Travel Gu** (Gu da Viagem Divina), Gu Imortal de rank 6, que se condensa em quem beber os quatro vinhos supremos do mundo e que na lenda só funciona quando o usuário está embriagado. No mundo real o efeito dele é **aleatório e perigoso mesmo para um imortal** — mas ele é o penúltimo componente do refino do Fixed Immortal Travel Gu, o que liga esta lenda diretamente à receita citada lá em cima.
 - **O Gu da longevidade**, que rejuvenesceu Ren Zu de cem anos para a aparência de vinte, e que é indetectável quando parado e mais rápido que a luz quando voa.
 - **A Árvore dos Mil Desejos** do Deserto Ocidental: mil frutos, um Gu por pedido bem-sucedido.
 - **O Gu do eu**, que mordeu uma das filhas de Ren Zu e o empurrou para fora de um abismo contra a vontade dele — episódio que os estudiosos do mundo citam como historicamente preciso, e não como metáfora.

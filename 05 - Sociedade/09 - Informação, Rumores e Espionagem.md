@@ -10,7 +10,7 @@ aliases:
   - Information Path
   - Feng Yu Manor
 status: verificado-no-texto
-fontes: ["cap. 39", "cap. 55", "cap. 97", "cap. 109", "cap. 148", "cap. 154-155", "cap. 178-181", "cap. 234", "cap. 259", "cap. 264", "cap. 275-285", "cap. 293", "cap. 306", "cap. 322", "cap. 327", "cap. 333", "cap. 342", "cap. 358", "cap. 434", "cap. 445", "cap. 458", "cap. 490", "cap. 505", "cap. 516", "cap. 553", "cap. 558", "cap. 570", "cap. 660", "cap. 697", "cap. 699", "cap. 705", "cap. 730", "cap. 743", "cap. 776", "cap. 796", "cap. 800", "cap. 814", "cap. 819", "cap. 838", "cap. 841", "cap. 857", "cap. 1233", "cap. 1388", "cap. 1495", "cap. 1568", "cap. 1744", "cap. 1768-1769", "cap. 1792", "cap. 1799"]
+fontes: ["cap. 39", "cap. 55", "cap. 97", "cap. 109", "cap. 148", "cap. 154", "cap. 178", "cap. 234", "cap. 259", "cap. 264", "cap. 275", "cap. 293", "cap. 306", "cap. 322", "cap. 327", "cap. 333", "cap. 342", "cap. 358", "cap. 434", "cap. 445", "cap. 458", "cap. 490", "cap. 505", "cap. 516", "cap. 553", "cap. 558", "cap. 570", "cap. 660", "cap. 697", "cap. 699", "cap. 705", "cap. 730", "cap. 743", "cap. 776", "cap. 796", "cap. 800", "cap. 814", "cap. 819", "cap. 838", "cap. 841", "cap. 857", "cap. 1233", "cap. 1388", "cap. 1495", "cap. 1568", "cap. 1744", "cap. 1768", "cap. 1792", "cap. 1799"]
 conhecimento: misto — o mercado de informação, os boatos e os mandados são `comum`; as redes de espionagem de longo prazo e as agências formais são `especializado`; os métodos de contra-dedução são `segredo`
 ---
 
@@ -96,7 +96,7 @@ ele é a espinha dorsal de toda organização grande. Não produz dano; produz *
 | Gu de informação de trepadeira | 1 | Registra e carrega um histórico verificável — usado como "carteira de atleta" numa arena, alugado ao competidor e editado pelo árbitro a cada luta |
 | Gu de informação genérico | 1 | Um recado avulso; refinado em minutos, comprado a esmo, jogado de mão em mão |
 | Gu janela do leste | 4 | Uma joaninha de carapaça quadrada como caixilho de janela, feita para **armazenar** informação importante |
-| Gu de tarefas institucional | 5 | Distribui missões e guarda segredo com qualidade excepcional; é o método de comunicação interna da maior organização do mundo |
+| Gu de tarefas institucional | 5 | Distribui missões e guarda segredo com qualidade excepcional; é o método de comunicação interna do [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 | Sentido Mútuo | 6 (imortal) | Sentir remotamente um lugar e o que há nele |
 | Penhor da Montanha · Juramento do Mar · Promessa | 6 (imortal) | Selar acordos (ver [[08 - Juramentos, Reputação e Favores\|Juramentos, Reputação e Favores]]) |
 | Pássaro Verde Portador de Cartas | imortal, rank não declarado | Carta que **atravessa as paredes entre regiões** — a única forma de correspondência inter-regional |
@@ -125,14 +125,15 @@ Dois detalhes com muito uso de mesa:
 O que mais surpreende no cenário é que a informação não é um serviço informal: é um **setor
 econômico com empresas nomeadas**.
 
-**A agência interna de um clã-potência.** O maior clã comercial da Fronteira do Sul mantém uma
-casa dedicada exclusivamente a vender informação. Ela vende **para qualquer um que pague**,
+**A agência interna de um clã-potência.** O **clã Shang**, o maior clã mercador da Fronteira
+Sul, mantém na sua cidade-mercado uma casa dedicada exclusivamente a vender informação. Ela vende **para qualquer um que pague**,
 inclusive para inimigos do clã: uma cena mostra alguém gastando uma soma grande ali para se
 informar sobre dois forasteiros, e outra em que um personagem manda o rival ir comprar o que
 precisa lá. Informação é um produto, não um favor.
 
-**A seita especializada.** Existe uma seita inteira construída sobre o caminho da informação.
-A história dela é o melhor resumo do cenário em três frases: o fundador era cultivador de
+**A seita especializada.** A **Lightning Information Sect** (Seita da Informação do Relâmpago)
+é uma seita inteira construída sobre o caminho da informação. A história dela é o melhor resumo
+do cenário em três frases: o fundador era cultivador de
 outro caminho numa seita subordinada ao topo do mundo; quebrou o regimento, teve o **cultivo
 aleijado e foi expulso**; para sobreviver, cultivou o caminho da informação combinando-o com
 a experiência antiga; criou um conjunto próprio de Gu, fundou a seita, e em pouco mais de cem
@@ -143,8 +144,8 @@ compram informação**.
 forças ficam **gritando e vendendo informação**, e o texto chama isso de negócio próspero. Não
 há discrição: é uma feira.
 
-**A rede pessoal.** Uma cultivadora imortal de rank 7, de força de combate medíocre, mantém
-uma rede de informação que cobre uma região inteira e permite a quem tem acesso a ela saber
+**A rede pessoal.** **Fairy Li Shan**, imortal de rank 7 das Planícies do Norte e de força de
+combate medíocre, mantém uma rede de informação que cobre a região inteira e permite a quem tem acesso a ela saber
 de qualquer mudança rapidamente. É, junto com o Gu de juramento que ela empresta, a base
 inteira do poder dela. **Informação e confiança são o mesmo negócio.**
 
@@ -206,8 +207,8 @@ A ativação vem tarde, para um único objetivo.
 
 **A via de entrada legítima.** Um espião não se infiltra por buraco na muralha; ele **entra
 pela porta da frente**, usando um caminho institucional que a organização-alvo oferece a
-qualquer forasteiro talentoso. No caso documentado, é uma arena pública que promove os
-vencedores a cargos internos. Toda porta de mérito aberta é uma porta de espionagem aberta,
+qualquer forasteiro talentoso. No caso documentado, é a arena pública da cidade-mercado do **clã Shang**, que promove os
+vencedores a ancião externo do clã. Toda porta de mérito aberta é uma porta de espionagem aberta,
 e as organizações sabem disso e mantêm as portas assim mesmo, porque precisam de talento.
 
 **A traição horizontal.** O detalhe mais bonito: espiões de clãs rivais infiltrados no mesmo
@@ -225,7 +226,7 @@ corrupção, mas como procedimento.
 
 **A duração desconfortável.** No andar imortal, a escala se estica: potências mantêm agentes
 plantados umas nas outras por **séculos ou milênios**, e há registro de infiltração que operou
-mil anos dentro da maior instituição do mundo porque os métodos de verificação de admissão
+mil anos dentro do Tribunal Celestial porque os métodos de verificação de admissão
 não eram atualizados havia eras.
 
 > [!note] Para o design
@@ -252,7 +253,7 @@ não eram atualizados havia eras.
 - Que espiões inimigos infiltrados no mesmo lugar frequentemente **cooperam entre si**.
 - Que existem métodos de sabedoria capazes de rastrear a origem de um boato, e portanto que a
   guerra de informação no alto nível tem consequências pessoais.
-- Que a maior instituição do mundo usa métodos de verificação de admissão que não são
+- Que o Tribunal Celestial usa métodos de verificação de admissão que não são
   atualizados há eras.
 
 ## Relações

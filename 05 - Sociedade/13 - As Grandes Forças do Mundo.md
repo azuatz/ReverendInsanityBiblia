@@ -10,7 +10,7 @@ aliases:
   - Major Powers
   - Super Forces
 status: consolidado
-fontes: ["cap. 157", "cap. 193-198", "cap. 211", "cap. 229", "cap. 231", "cap. 241-243", "cap. 271", "cap. 273-274", "cap. 281", "cap. 302", "cap. 334-335", "cap. 341", "cap. 353", "cap. 359", "cap. 366", "cap. 375", "cap. 397", "cap. 407", "cap. 419", "cap. 439-441", "cap. 445", "cap. 467-468", "cap. 470", "cap. 478-489", "cap. 492", "cap. 497", "cap. 514-529", "cap. 536-545", "cap. 552-569", "cap. 638", "cap. 654-658", "cap. 669", "cap. 673", "cap. 697", "cap. 700-705", "cap. 711", "cap. 729", "cap. 741-742", "cap. 744", "cap. 748-752", "cap. 764", "cap. 768", "cap. 775-777", "cap. 795", "cap. 797", "cap. 804", "cap. 812-814", "cap. 819", "cap. 827-832", "cap. 837", "cap. 839-849", "cap. 871", "cap. 892-899", "cap. 903", "cap. 906-911", "cap. 918-928", "cap. 931", "cap. 943-956", "cap. 963-966", "cap. 977-978", "cap. 980", "cap. 982-993", "cap. 1000", "cap. 1005", "cap. 1008-1011", "cap. 1016", "cap. 1030", "cap. 1035-1037", "cap. 1046", "cap. 1049-1051", "cap. 1060-1071", "cap. 1077", "cap. 1082", "cap. 1090", "cap. 1103", "cap. 1104", "cap. 1109-1111", "cap. 1120", "cap. 1127", "cap. 1146", "cap. 1151", "cap. 1155-1170", "cap. 1186", "cap. 1190-1199", "cap. 1207-1210", "cap. 1218", "cap. 1221-1242", "cap. 1248", "cap. 1254", "cap. 1257", "cap. 1261-1269", "cap. 1296-1297", "cap. 1301-1313", "cap. 1339-1345", "cap. 1355", "cap. 1375-1390", "cap. 1394-1395", "cap. 1412", "cap. 1435-1437", "cap. 1472", "cap. 1503-1508", "cap. 1516-1522", "cap. 1519-1521", "cap. 1530", "cap. 1553", "cap. 1574", "cap. 1582", "cap. 1592", "cap. 1596-1610", "cap. 1620-1621", "cap. 1628-1633", "cap. 1648-1652", "cap. 1688-1697", "cap. 1700-1708", "cap. 1725-1748", "cap. 1757", "cap. 1807", "cap. 1850-1885", "cap. 1906", "cap. 1915-1916", "cap. 1923", "cap. 1926", "cap. 1931", "cap. 1971-1996", "cap. 2010", "cap. 2038-2044", "cap. 2049-2089", "cap. 2099-2108", "cap. 2115", "cap. 2131", "cap. 2136-2139", "cap. 2160-2175", "cap. 2216-2220", "cap. 2239-2258", "cap. 2273", "cap. 2289", "cap. 2298-2299", "cap. 2321-2332"]
+fontes: ["cap. 157", "cap. 193", "cap. 211", "cap. 229", "cap. 231", "cap. 241", "cap. 271", "cap. 273", "cap. 281", "cap. 302", "cap. 334", "cap. 341", "cap. 353", "cap. 359", "cap. 366", "cap. 375", "cap. 397", "cap. 407", "cap. 419", "cap. 439", "cap. 445", "cap. 467", "cap. 470", "cap. 478", "cap. 492", "cap. 497", "cap. 514", "cap. 536", "cap. 552", "cap. 638", "cap. 654", "cap. 669", "cap. 673", "cap. 697", "cap. 700", "cap. 711", "cap. 729", "cap. 741", "cap. 744", "cap. 748", "cap. 764", "cap. 768", "cap. 775", "cap. 795", "cap. 797", "cap. 804", "cap. 812", "cap. 819", "cap. 827", "cap. 837", "cap. 839", "cap. 871", "cap. 892", "cap. 903", "cap. 906", "cap. 918", "cap. 931", "cap. 943", "cap. 963", "cap. 977", "cap. 980", "cap. 982", "cap. 1000", "cap. 1005", "cap. 1008", "cap. 1016", "cap. 1030", "cap. 1035", "cap. 1046", "cap. 1049", "cap. 1060", "cap. 1077", "cap. 1082", "cap. 1090", "cap. 1103", "cap. 1104", "cap. 1109", "cap. 1120", "cap. 1127", "cap. 1146", "cap. 1151", "cap. 1155", "cap. 1186", "cap. 1190", "cap. 1207", "cap. 1218", "cap. 1221", "cap. 1248", "cap. 1254", "cap. 1257", "cap. 1261", "cap. 1296", "cap. 1301", "cap. 1339", "cap. 1355", "cap. 1375", "cap. 1394", "cap. 1412", "cap. 1435", "cap. 1472", "cap. 1503", "cap. 1516", "cap. 1519", "cap. 1530", "cap. 1553", "cap. 1574", "cap. 1582", "cap. 1592", "cap. 1596", "cap. 1620", "cap. 1628", "cap. 1648", "cap. 1688", "cap. 1700", "cap. 1725", "cap. 1757", "cap. 1807", "cap. 1850", "cap. 1906", "cap. 1915", "cap. 1923", "cap. 1926", "cap. 1931", "cap. 1971", "cap. 2010", "cap. 2038", "cap. 2047", "cap. 2049", "cap. 2099", "cap. 2115", "cap. 2131", "cap. 2136", "cap. 2160", "cap. 2182", "cap. 2216", "cap. 2239", "cap. 2273", "cap. 2289", "cap. 2298", "cap. 2321"]
 conhecimento: misto
 ---
 
@@ -297,8 +297,8 @@ Duas regras estruturais definem tudo aqui:
 
 ### O Céu da Longevidade — o suserano do norte
 
-- **O que é:** uma gruta-céu de rank 9, fundada por um dos Veneráveis (ver
-  [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]]). É, literalmente, a abertura imortal de **uma única pessoa** —
+- **O que é:** uma gruta-céu de rank 9, deixada por *Giant Sun Immortal Venerable* como
+  fundação das Planícies do Norte (ver [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]]). É, literalmente, a abertura imortal de **uma única pessoa** —
   e mesmo assim serve como o equivalente regional do Tribunal Celestial. A obra faz a
   comparação de forma direta: onde o Tribunal reúne as aberturas fundidas de três
   Veneráveis mais doações de eras, o Céu da Longevidade é a de um só. A assimetria explica
@@ -311,8 +311,8 @@ Duas regras estruturais definem tudo aqui:
 
 ### A Família Huang Jin e a Corte Imperial
 
-A espinha dorsal política do norte é a **família Huang Jin**: a descendência sanguínea de um
-dos Veneráveis, espalhada por várias tribos que compartilham esse sobrenome e essa
+A espinha dorsal política do norte é a **família Huang Jin**: a descendência sanguínea de
+*Giant Sun Immortal Venerable*, espalhada por várias tribos que compartilham esse sobrenome e essa
 autoridade. Onze tribos Huang Jin existem no estado maduro da obra — **Liu, Ye Lui, Chanyu,
 Meng, Yuan, Nian Er, Murong, Guan, Nu Er, Yao e Gong**. Duas outras, **Dong Fang** e **Hei**,
 saíram da lista: uma se desfez, a outra foi anexada e teve o nome descartado do
@@ -410,9 +410,10 @@ constitui, de fato, a política do norte.
     provavelmente a maior biblioteca de receitas *acessível* que existe — e "acessível" é a
     palavra-chave: você entra, contribui e compra.
   - **Três heranças verdadeiras**, e a origem de duas delas é uma aula de worldbuilding:
-    uma de **refino**, deixada pelo fundador; uma de **[[23 - Luck Path|caminho da sorte]]**,
-    paga por um Venerável em troca de um refino que **deu certo**; e uma de **caminho do
-    roubo**, paga por outro Venerável por um refino que **falhou** — e por isso vale menos,
+    uma de **refino**, deixada pelo fundador; uma de **[[23 - Luck Path|caminho da sorte]]** — a herança da
+    **sorte própria** de *Giant Sun Immortal Venerable* —, paga em troca de um refino que
+    **deu certo**; e uma de **caminho do roubo**, de *Thieving Heaven Demon Venerable*, paga
+    por um refino que **falhou** — e por isso vale menos,
     já que parte do pagamento foi devolvida. Os honorários da oficina viraram patrimônio.
   - **Monopólios materiais:** possui o **único exemplar do mundo** de um Gu Imortal de
     escravização de feras, que dá controle instantâneo e total sobre uma besta desolada. E
@@ -561,8 +562,8 @@ ambientação para uma campanha de exploração:
   forma de rostos que gritam ao vento — e **riquíssima em bestas de alma**, incluindo
   exemplares imemoriais. É a fonte de material de [[12 - Soul Path|caminho da alma]] mais
   notória do mundo, e ela não tem dono.
-- **Palácio do Feijão Divino** — uma Casa de Gu Imortal criada por um dos Veneráveis e
-  escondida no Deserto do Oeste como parte do legado do clã extinto. De valor
+- **Palácio do Feijão Divino** (*Divine Bean Palace*) — uma Casa de Gu Imortal criada por
+  *Genesis Lotus Immortal Venerable* e escondida no Deserto do Oeste como parte do legado do clã extinto. De valor
   extremamente alto e historicamente notável; um dos super clãs da região a persegue há
   gerações. Um tesouro nomeado, localizado, e ainda em disputa.
 - **Cidade Sagrada da Pena** — sede de uma facção da raça variante dos homens-pena, dentro
@@ -606,7 +607,7 @@ pela obra; as demais aparecem já prontas, como instituições sem biografia.
 | **Casa da Afinidade Espiritual** (*Spirit Affinity House*) | **Caminho da água** — fundada pela própria criadora do caminho. **Quinze Mestres Gu Imortais** (dez mulheres), com **duas anciãs supremas de rank 8** — o único censo publicado entre as dez. Guarda um **Gu Imortal de rank 9** de controle emocional, o mais famoso do mundo nessa função. Mantém a instituição das "fadas", numeradas por geração, e é a seita com métodos próprios para **identificar e recrutar transmigrados de outro mundo** |
 | **Seita da Grua Imortal** (*Immortal Crane Sect*) | **Caça a cultivadores demoníacos** e **[[07 - Enslavement Path\|caminho da escravização]]**. Seu projeto estratégico próprio é uma **técnica de possessão "quase perfeita"** — corpo e alma se fundem sem folga e sem sequelas, ao contrário das possessões cruas. Mantém uma seita vassala há quase mil anos e uma instalação de treinamento de caminho do sangue |
 | **Doca das Miríades de Dragões** (*Myriad Dragon Dock*) | **Caminho do raio** e **fogo/refino**. Atualmente a mais forte e prestigiada das dez, em rivalidade aberta com a Grua Imortal. Detém a **receita incompleta de um Gu Imortal de caminho do sangue** — o que sobrou de uma herança destruída em mais da metade numa disputa entre as próprias dez |
-| **Seita do Lótus Celestial** (*Heavenly Lotus Sect*) | **Cura e recuperação** — fundada por um dos Veneráveis. Tem a maior frota de **Casas de Gu Imortal das dez: cinco**, todas criadas pessoalmente pelo fundador. Entre elas, uma de rank 8 cujos lótus individuais são, cada um, uma terra abençoada contida, e outra especializada em capturar feras voadoras. Co-controla um vale de caminho da luz que **gera sozinho um Gu Imortal selvagem a cada vinte anos em média** |
+| **Seita do Lótus Celestial** (*Heavenly Lotus Sect*) | **Cura e recuperação** — fundada por *Genesis Lotus Immortal Venerable*. Tem a maior frota de **Casas de Gu Imortal das dez: cinco**, todas criadas pessoalmente pelo fundador. Entre elas, uma de rank 8 cujos lótus individuais são, cada um, uma terra abençoada contida, e outra especializada em capturar feras voadoras. Co-controla um vale de caminho da luz que **gera sozinho um Gu Imortal selvagem a cada vinte anos em média** |
 | **Seita do Combate Imortal** (*Combat Immortal Sect*) | **Combate puro** — a identidade está na regra de admissão: cem candidatos disputam, só os dez melhores viram discípulos. Sua Casa de Gu Imortal tem forma de acampamento militar |
 | **Seita da Alma Antiga** (*Ancient Soul Sect*) | **A mais antiga das dez**; guarda relíquias de trezentos mil anos. Competência exibida: **caminho da sabedoria**. Controla o **Abismo da Terra**, um abismo subterrâneo de centenas de milhares de km² organizado em **camadas sobrepostas** — mais de cem já descobertas, cada uma mais funda com bestas mais antigas. A própria seita só explorou por completo até a décima oitava |
 | **Mansão da Inveja Celestial** (*Heaven's Envy Manor*) | Um **golpe assinatura refinado ao longo de várias gerações** de imortais da casa — é literalmente a especialidade institucional dela, e exige **duas "fadas" operando o mesmo Gu simultaneamente**. Também tem caminho da sabedoria |
@@ -715,8 +716,9 @@ penalidade se a transação não fechar.
 - **Clãs Su e Xie** — super forças citadas. **Só o nome.**
 - **Corte Imperial dos Homens-Peixe** — a **única super força de raça variante do mundo
   inteiro**, e por isso um caso único. Sociedade **matriarcal**: elege uma santa, não um
-  santo, e as fêmeas têm status mais alto. Foi fundada com o apoio de um dos Veneráveis, e
-  sua sobrevivência depende de uma proteção que **enfraquece a cada século** desde a última
+  santo, e as fêmeas têm status mais alto. Foi fundada com o apoio de *Paradise Earth Immortal
+  Venerable* — o único dos dez que se dedicou deliberadamente a proteger os povos variantes —,
+  e sua sobrevivência depende de uma proteção que **enfraquece a cada século** desde a última
   intervenção ativa dele — o que explica a urgência diplomática da corte. Sua estratégia
   declarada é a subserviência entre as forças humanas, praticando **casamentos de aliança** e
   absorvendo cultivadores solitários por matrimônio.
@@ -817,13 +819,15 @@ monopólio mais consequente do cenário:
 
 - **A moeda.** O Tribunal é a **fonte única** das pedras de essência imortal, a moeda
   universal da camada imortal. Ver [[15 - Economia Imortal|Economia Imortal]].
-- **A lista de procurados.** A lista oficial de cultivadores considerados nocivos,
-  atualizada em ciclos de décadas, é dele. Certos caminhos de cultivo são presença
-  permanente nela.
+- **A Placa de Julgamento dos Demônios.** A lista oficial de cultivadores considerados
+  nocivos, atualizada a cada dez anos, é dele — e não é uma lista: é uma Casa de Gu Imortal
+  de rank 8 que **detecta sozinha** todo praticante do [[03 - Blood Path|caminho do sangue]]
+  abaixo do rank 9, em qualquer lugar do mundo.
 - **Uma rede de informação de alcance mundial**, capaz de identificar um culpado e cercar
   um território quase instantaneamente.
 - **O arsenal de Casas de Gu Imortal de topo**, incluindo uma de rank 9 e a melhor Casa de
-  caminho da sabedoria do mundo, criada pessoalmente por um Venerável.
+  caminho da sabedoria do mundo — o **Star Constellation Chessboard**, criado pessoalmente por
+  *Star Constellation Immortal Venerable*.
 - **Fragmentos dos céus imemoriais** em quantidade significativa — um material que não
   existe em nenhum outro estoque conhecido.
 
@@ -885,7 +889,8 @@ finita.
   que nunca souberam de nada.
 
 **A verdade final:** toda a cúpula histórica da seita era composta de fragmentos da alma de
-**uma única pessoa** — um dos Veneráveis. A lealdade anormal de seus quadros, a disposição
+**uma única pessoa** — *Spectral Soul Demon Venerable*, o criador do caminho da alma, que se
+dividiu em almas fragmentadas e ocupou com elas os postos de comando ao longo de eras. A lealdade anormal de seus quadros, a disposição
 ao sacrifício total que impressionava seus inimigos, tinha explicação mecânica: as almas
 haviam sido fabricadas. Ver [[04 - Os Que Romperam as Leis|Os Que Romperam as Leis]].
 
@@ -914,9 +919,9 @@ encenação. E tudo isso servia para acumular zumbis imortais em um só lugar.
 **A verdade:** a Aliança inteira — todas as filiais das cinco regiões — era subordinada
 oculta da Seita das Sombras, no mesmo modelo em que as dez grandes seitas são subordinadas
 do Tribunal Celestial. Nem seus altos escalões sabiam. No momento devido, seus membros mais
-valiosos foram ativados remotamente e consumidos como matéria-prima de um único artefato
-descartável, cujo preparo consumira cem mil anos e as fundações somadas das duas
-organizações. Uma instituição mundial construída ao longo de eras era o combustível de um
+valiosos foram ativados remotamente e consumidos como matéria-prima do **sovereign immortal fetus Gu**, um Gu
+Imortal de rank 9 de uso único cujo preparo consumira cem mil anos e as fundações somadas das
+duas organizações — e cuja função é conceder ao portador o corpo de um demônio de outro mundo. Uma instituição mundial construída ao longo de eras era o combustível de um
 item de uso único.
 
 > [!note] Para o design
@@ -1051,7 +1056,8 @@ permanentemente — e ela pertence ao **[[03 - Blood Path|caminho do sangue]]**.
 O que a obra estabelece:
 
 - Esses Gu vêm de um conjunto específico: as **nove verdadeiras heranças do Mar de Sangue**,
-  deixadas pelo clone de um Venerável. O conjunto fundador do caminho do sangue.
+  deixadas pelo **Blood Sea Ancestor** — que era um clone de *Giant Sun Immortal Venerable*,
+  o criador secreto do caminho do sangue. O conjunto fundador do caminho.
 - **Não é uma organização que as detém.** As nove foram dispersas e hoje estão em mãos
   variadas: uma força da Fronteira do Sul recuperou duas delas, uma força das Planícies do
   Norte recuperou outra, uma foi levada e nunca reapareceu, uma teve o original destruído

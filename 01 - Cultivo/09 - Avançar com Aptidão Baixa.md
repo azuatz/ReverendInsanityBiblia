@@ -11,7 +11,7 @@ aliases:
   - Como um talento medíocre sobe de rank
   - Low aptitude advancement
 status: consolidado
-fontes: ["cap. 10", "cap. 26", "cap. 29", "cap. 34", "cap. 40-43", "cap. 50", "cap. 90-91", "cap. 105", "cap. 148", "cap. 151-153", "cap. 159", "cap. 198", "cap. 230-231", "cap. 245", "cap. 312", "cap. 331", "cap. 1155", "cap. 1160", "cap. 2131-2171"]
+fontes: ["cap. 10", "cap. 26", "cap. 29", "cap. 34", "cap. 40-43", "cap. 50", "cap. 90-91", "cap. 105", "cap. 148", "cap. 151-153", "cap. 159", "cap. 198", "cap. 230-231", "cap. 245", "cap. 312", "cap. 331", "cap. 1155", "cap. 1160", "cap. 2131-2171", "cap. 195", "cap. 267", "cap. 274", "cap. 377-378", "cap. 486-490", "cap. 2295", "cap. 2299"]
 conhecimento: especializado
 ---
 
@@ -59,7 +59,7 @@ Todos os métodos abaixo são variações dessas três ideias. Detalhes das esca
 
 ### Gu que elevam talento
 
-Existem Gu cuja função é exatamente essa. São **raros a ponto de um ancião de clã nunca
+Existem Gu cuja função é exatamente essa, e a obra nomeia vários: o **Polished Gold Gu** e o **Reform Gu** para humanos, e uma linha por espécie — **Unprocessed Jade Gu** para os homens-rocha, **Wood Origin Gu** para os homenzinhos, **Water Source Gu** para os homens-peixe. São consumíveis de uso único e **raros a ponto de um ancião de clã nunca
 ter visto um**, e é comum que uma pessoa passe décadas travada num rank esperando
 conseguir um. A obra mostra um cultivador de talento medíocre que ficou mais de cem
 anos preso no rank 2 até obter um por acaso.
@@ -69,8 +69,8 @@ anos preso no rank 2 até obter um por acaso.
 
 ### Absorver sangue de linhagem ou de gênios
 
-Métodos do caminho demoníaco convertem sangue alheio em aptidão permanente. A obra
-mostra um salto de dez pontos percentuais numa única cena, e menciona planos de longo
+O ==Blood Skull Gu (Gu do Crânio de Sangue)==, de rank 4, purifica o sangue dos **parentes consanguíneos mortos pelo usuário** e o despeja na abertura dele, convertendo-o em aptidão permanente. A obra
+mostra um salto de dez pontos percentuais numa única aplicação, e menciona planos de longo
 prazo em que uma linhagem inteira é criada e purificada com Gu de sangue para gerar um
 descendente excepcional, cujo sangue será então absorvido.
 
@@ -81,8 +81,7 @@ descendente excepcional, cujo sangue será então absorvido.
 ### Elevar aptidão em escala industrial
 
 Nos patamares mais altos, a obra mostra o problema resolvido como **infraestrutura de
-facção**: formações que elevam clãs inteiros a graus altos, disfarçadas de milagre; e
-métodos que despertam aberturas em quem nasceu sem talento algum.
+facção**. Três peças com nome: o golpe do caminho humano ==talento humano congregado (congregated human talent)==, com que um clã transfere para os próprios membros a aptidão de multidões de forasteiros criados numa montanha construída para isso; uma **formação anunciada como sendo do caminho dos sonhos e que por baixo é do caminho do sangue** — o clã inteiro adormece, todos se autodetonam menos um, que recebe o sangue dos demais, e a formação ressuscita e repete o ciclo até que **todos saiam com grau A**; e o ==Man Triumphing Heaven Gu==, de rank 5, que **desperta à força a abertura de quem nasceu sem talento algum**.
 
 - **Preço:** exige poder de nível imortal e recursos de território inteiro.
 - **Uso em jogo:** material de antagonista ou de recompensa de campanha longa, não de
@@ -94,9 +93,9 @@ métodos que despertam aberturas em quem nasceu sem talento algum.
 
 ### Gu de apoio que refinam a própria essência
 
-Este é o método **mais acessível e o mais importante para uma mesa**. Um Gu de apoio
-converte a essência inicial em essência de estágio superior antes da tentativa de
-ruptura. Como cada estágio dobra a densidade, uma reserva menor entrega o mesmo impacto.
+Este é o método **mais acessível e o mais importante para uma mesa**. O Gu que a obra nomeia é o ==Liquor Worm (Verme do Licor)==, um Gu de apoio que
+destila a essência inicial em essência de estágio superior antes da tentativa de
+ruptura — o mesmo Gu que, em versões mais altas da linhagem, refina essência de rank 4 e 5. Como cada estágio dobra a densidade, uma reserva menor entrega o mesmo impacto.
 
 A conversão não é gratuita: custa cerca de **quatro unidades para produzir uma**. Você
 troca volume por qualidade e paga a diferença em tempo e em pedras primordiais.
@@ -122,13 +121,12 @@ que qualquer clã ensina.
 Funciona, e a obra a apresenta como uma das três saídas clássicas. Mas cobra caro:
 a essência alheia **entra em conflito com a nativa e impregna as paredes da abertura**,
 sufocando o potencial futuro do receptor. Existe um Gu específico de purificação capaz
-de limpar essa contaminação — obtê-lo é, ele mesmo, um objetivo de campanha.
+de limpar essa contaminação, o ==Cleansing Water Gu (Gu da Água Purificadora)== — obtê-lo é, ele mesmo, um objetivo de campanha.
 
 - **Preço:** dano permanente ao potencial, salvo purificação posterior. A purificação tem
   uma versão caseira e parcial, que qualquer personagem executa sozinho, e uma versão
   definitiva que é objeto de campanha — ambas em [[07 - Perder Cultivo|Perder Cultivo]].
-- **Nuance:** a perda depende do vínculo entre doador e receptor. Há um Gu de
-  transferência cuja taxa de aproveitamento varia conforme o grau de parentesco — de
+- **Nuance:** a perda depende do vínculo entre doador e receptor. O ==Bone Flesh Unity Gu (Gu da União de Osso e Carne)==, par de rank 3 refinado pelos próprios dois usuários, tem taxa de aproveitamento que varia conforme o grau de parentesco — de
   fratricida a sangue do mesmo sangue, com aproveitamento crescente e sem perda alguma
   no vínculo mais próximo. Ou seja: **de quem você recebe importa mecanicamente.**
 - **A leitura correta do mecanismo:** o mundo não o classifica como doação, e sim como
@@ -150,8 +148,7 @@ reserva cheia durante um processo longo, em vez de esperar a recuperação natur
 ### Rituais demoníacos de avanço forçado
 
 A obra documenta receitas que **forçam um rank inteiro de avanço** por sacrifício
-ritual. O caso mais detalhado exige devorar ritualmente uma vítima específica por meio
-de um animal escravizado, e entrega o salto de rank imediatamente.
+ritual. A mais detalhada é a do ==Man-beast Life Burial Gu (Gu do Sepultamento de Homem e Fera)==, criada por um antigo líder de seita demoníaca para empurrar subordinados escada acima: refiná-lo exige que uma fera escravizada **devore uma pessoa inteira, sem sobrar um farelo**, mais cerca de dez ingredientes. Engolido, o Gu desce como um fluxo de água preta e vermelha até o Mar Primordial e leva um Mestre Gu **do pico do rank 2 ao rank 3** na hora, mesmo sem aptidão para isso.
 
 - **Preço:** perda **permanente** de aptidão — **um a dois pontos percentuais** (a obra dá os
   dois números em passagens diferentes; as [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]]
@@ -224,7 +221,7 @@ Nenhum destes é atalho gratuito; todos são investimentos de décadas ou pactos
 | **Obter um Gu Imortal antes de ascender** | garante o item que a nova estrutura precisa e melhora drasticamente a posição inicial | ver abaixo: é o gargalo econômico do mundo |
 | **Elevar o [[08 - Attainment\|attainment]] antes** | compreensão do caminho vale mais que rank e sustenta a ascensão | tempo, mestres, heranças |
 | **Ascender em local marcado por um Venerável morto** | a "verdade" impressa no lugar concede saltos de compreensão que levariam décadas | acesso ao local, e enfrentar a provação que ele impõe |
-| **Segunda abertura** | funciona como rede de segurança contra a falha na ascensão | exige um Gu Imortal específico e um processo longuíssimo |
+| **Segunda abertura** | funciona como rede de segurança contra a falha na ascensão: com duas aberturas, é possível estilhaçar só uma e sobreviver ao fracasso | exige o **Second Aperture Gu**, Gu Imortal de rank 6 e de uso único, cuja receita tem cerca de mil passos e consome outro Gu Imortal de rank 6 no passo final |
 | **Constituição extrema** | 100% de capacidade, dao marks natos, ascensão facilitada | herda uma condição geralmente fatal; ver a nota própria |
 
 ### A rota que o mundo inteiro disputa: conseguir um Gu Imortal sendo mortal

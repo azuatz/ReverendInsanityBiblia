@@ -8,7 +8,7 @@ aliases:
   - Sects
   - Academy
 status: consolidado
-fontes: ["cap. 7", "cap. 22-29", "cap. 48-54", "cap. 62-63", "cap. 81-86", "cap. 191-192", "cap. 334-335", "cap. 341", "cap. 366", "cap. 375", "cap. 419", "cap. 552", "cap. 566-567", "cap. 697", "cap. 900", "cap. 909-911", "cap. 954", "cap. 980", "cap. 1207", "cap. 1235-1236", "cap. 1029", "cap. 1116", "cap. 1198-1200"]
+fontes: ["cap. 7", "cap. 22", "cap. 48", "cap. 62", "cap. 81", "cap. 191", "cap. 334", "cap. 341", "cap. 366", "cap. 375", "cap. 419", "cap. 552", "cap. 566", "cap. 697", "cap. 838", "cap. 900", "cap. 909", "cap. 954", "cap. 980", "cap. 1029", "cap. 1116", "cap. 1198", "cap. 1207", "cap. 1235", "cap. 1976"]
 conhecimento: comum
 ---
 
@@ -212,16 +212,17 @@ Como uma seita ou um clã encontra gente nova, na ordem da mais comum à mais ex
 
 - **Exames públicos de admissão**, o método padrão das seitas.
 - **Cerimônia de despertar** no caso dos clãs: todo jovem do sangue é testado aos quinze.
-- **Arena.** Em pelo menos uma grande cidade-mercado, dominar a arena local rende ao
-  vencedor o cargo de ancião externo do clã anfitrião — inclusive a cultivadores de
-  origem demoníaca. É uma porta de reabilitação institucional, tratada em
+- **Arena.** Na cidade-mercado do **clã Shang**, na Shang Liang Mountain da Fronteira Sul,
+  dominar a arena local rende ao vencedor o cargo de ancião externo do clã anfitrião —
+  inclusive a cultivadores de origem demoníaca. É uma porta de reabilitação institucional, tratada em
   [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 - **Anciãos externos e patrocínio.** Imortais patrocinam talentos promissores de qualquer
   facção, esperando que um dia ascendam e se tornem "anciãos supremos externos" da
   organização. É expansão de poder entre gerações, sem sangue e sem contrato formal.
-- **Competições culturais.** Há registro de um concurso mundial de poesia — dezoito
-  rodadas temáticas, metade dos concorrentes eliminada por rodada, sete dias corridos —
-  cuja função declarada é peneirar candidatos a futuros imortais. Talento não precisa ser
+- **Competições culturais.** A **Profound Literature grotto-heaven** (gruta-céu da Literatura
+  Profunda) promove um concurso mundial de poesia — dezoito rodadas temáticas, cinco minutos
+  por tema, metade dos concorrentes eliminada por rodada, sete dias corridos, até três
+  tentativas por pessoa — cuja função declarada é peneirar candidatos a futuros imortais. Talento não precisa ser
   marcial para ser detectado.
 - **Convite espontâneo por competência demonstrada.** Um comerciante que negocia
   brilhantemente, um lutador que vence com método, um analista que resolve um problema em
@@ -237,13 +238,17 @@ Como uma seita ou um clã encontra gente nova, na ordem da mais comum à mais ex
 
 Duas variações valem registro porque ampliam o que "seita" pode significar:
 
-- Há uma seita inteira **construída sobre a venda de informação**, erguida do zero até a
-  relevância regional em cerca de um século. Nenhuma força de combate notável; só
+- A **Lightning Information Sect** (Seita da Informação do Relâmpago) é uma seita inteira
+  **construída sobre a venda de informação**, erguida do zero até a relevância regional em
+  cerca de um século. Nenhuma força de combate notável; só
   dossiês, enunciados de competições passadas e fofoca política bem catalogada.
-- E há uma seita **fundada por um espírito guardião de território** em vez de por uma
-  pessoa — estruturada como as do Continente Central, com um acervo de mais de duzentas
-  receitas de artefato trocáveis por pontos de contribuição, e uma guerra anual induzida
-  entre seus territórios internos como filtro deliberado de elite.
+- A **Lang Ya Sect** foi **fundada pelo espírito da terra da Lang Ya blessed land**, e não
+  por uma pessoa. O espírito se fez primeiro ancião supremo, tomou o sistema de seitas do
+  Continente Central como modelo e pôs os imortais homens-peludos da terra como os demais
+  anciãos supremos; oferece um acervo de mais de duzentas receitas de Gu Imortal trocáveis
+  por pontos de contribuição e provoca **uma guerra anual induzida** entre três reinos
+  internos, recrutando todo ano os homens-peludos mais capazes de cada um — um filtro de
+  elite deliberado, mantido por decreto.
 
 ## Relações
 

@@ -6,7 +6,7 @@ aliases:
   - Western Desert
   - Forças do Deserto Ocidental
 status: verificado-no-texto
-fontes: ["cap. 425", "cap. 545", "cap. 673-676", "cap. 693-696", "cap. 775-776", "cap. 836-837", "cap. 847-851", "cap. 864-870", "cap. 903", "cap. 907-908", "cap. 962", "cap. 971", "cap. 977-979", "cap. 996", "cap. 1393-1396", "cap. 1412-1413", "cap. 1432", "cap. 1435-1438", "cap. 1461", "cap. 1474-1475", "cap. 1491", "cap. 1503-1530", "cap. 1614-1617", "cap. 1708", "cap. 1727", "cap. 1775-1781", "cap. 1799-1803", "cap. 1807", "cap. 1851", "cap. 1856-1867", "cap. 1876", "cap. 1915", "cap. 1923-1925", "cap. 1967", "cap. 1972-1974", "cap. 1988", "cap. 2015-2016", "cap. 2035", "cap. 2040", "cap. 2130", "cap. 2178", "cap. 2222-2223", "cap. 2245-2263", "cap. 2302-2303"]
+fontes: ["cap. 425", "cap. 545", "cap. 673-676", "cap. 693-696", "cap. 775-776", "cap. 775", "cap. 836-837", "cap. 847-851", "cap. 864-870", "cap. 903", "cap. 907-908", "cap. 962", "cap. 971", "cap. 977-979", "cap. 996", "cap. 1393-1396", "cap. 1412", "cap. 1412-1413", "cap. 1432", "cap. 1435-1438", "cap. 1438", "cap. 1461", "cap. 1474-1475", "cap. 1491", "cap. 1497", "cap. 1503-1530", "cap. 1510", "cap. 1516", "cap. 1614-1617", "cap. 1708", "cap. 1727", "cap. 1775-1781", "cap. 1799-1803", "cap. 1807", "cap. 1851", "cap. 1856-1867", "cap. 1857", "cap. 1865", "cap. 1876", "cap. 1915", "cap. 1923-1925", "cap. 1967", "cap. 1972-1974", "cap. 1988", "cap. 2014", "cap. 2015-2016", "cap. 2035", "cap. 2040", "cap. 2130", "cap. 2178", "cap. 2222-2223", "cap. 2245-2263", "cap. 2302-2303"]
 conhecimento: comum
 ---
 
@@ -266,7 +266,8 @@ Casas de Gu alheias.
 
 > [!example] O tesouro que eles não conseguem consertar
 > O clã Fang possui uma Casa de Gu Imortal de [[15 - Theft Path|caminho do roubo]] chamada
-> **Covil dos Ladrões** (*Thieves Den*), que pertenceu a um dos Veneráveis. Ela está
+> **Covil dos Ladrões** (*Thieves Den*) — a Casa que **Thieving Heaven Demon Venerable**, o criador
+> do caminho do roubo, construiu e registrou dentro da própria herança verdadeira. Ela está
 > **danificada**, e gerações sucessivas de membros do clã tentaram consertá-la sem sucesso —
 > porque reparar exige atingimento de grão-mestre supremo em caminho do roubo, e **nenhum Gu
 > Imortal do clã Fang tem isso**. Quando o clã a obteve, não veio com o conteúdo completo.
@@ -277,7 +278,7 @@ Casas de Gu alheias.
 > um oásis-ponto de recurso rival.
 >
 > É o melhor gancho da região: **os melhores construtores de Casas de Gu do mundo têm na
-> garagem a Casa de um Venerável que não sabem consertar**, e falta-lhes exatamente um
+> garagem a Casa de Thieving Heaven e não sabem consertá-la**, e falta-lhes exatamente um
 > caminho — o do roubo. Um personagem que traga esse caminho tem preço próprio.
 
 **O que um personagem faz com isso.** Encomendar, comprar ou mandar reparar uma Casa de Gu.
@@ -359,7 +360,7 @@ comércio de almas e ter com que negociar.
 |---|---|
 | **Manda quem** | **Primeiro ancião supremo Tang Yang**. Há um **segundo ancião supremo** (a voz cautelosa da casa) e um **terceiro**. Rank `—` |
 | **Caminho de casa** | [[26 - Dream Path\|Caminho do sonho]], por **estratégia deliberada de clã** |
-| **Por que esse caminho** | Porque o clã **descobriu por acaso, há muitos anos, um reino onírico deixado por um dos Veneráveis** — e o achado incendiou a casa inteira de entusiasmo pelo caminho do sonho |
+| **Por que esse caminho** | Porque o clã **descobriu por acaso, há muitos anos, o reino de sonho de Thieving Heaven Demon Venerable** — um reino de sonho do tipo realista, que reencena a vida do próprio Venerável, é imenso e de dificuldade altíssima; e o achado incendiou a casa inteira de entusiasmo pelo caminho do sonho |
 | **Porte** | Escalão **médio-baixo** entre as super forças; "muitos Gu Imortais", mas em declínio |
 | **Alinhamento** | Caminho correto no papel — e disposto a negociar em segredo com o caminho demoníaco |
 | **Território** | Sede fortemente defendida, com **um afluente do Rio do Tempo bem ao lado dela** |
@@ -871,10 +872,11 @@ O maior território sem dono da região, e uma das melhores masmorras naturais d
   que ninguém do clã pise no deserto pelas próximas centenas de anos.
 
 **De onde ele veio.** Ali existia um **clã supremo do caminho da madeira**, o **clã Qing**,
-uma super força do Deserto Ocidental. Antes de se tornar Venerável, um dos futuros Veneráveis
-Demoníacos enfrentou o clã inteiro sozinho, por um conflito irreconciliável — o clã o havia
-menosprezado, confiando na própria superioridade em número e patrimônio — e chegou até a sede
-deles, massacrando o clã por completo. As marcas de dao dos golpes, os cadáveres dos Gu
+uma super força do Deserto Ocidental. Há cerca de **cem mil anos**, **Spectral Soul** — antes
+ainda de chegar ao rank 9 e virar o Venerável Demônio que criou o caminho da alma — enfrentou o
+clã inteiro sozinho, por um conflito irreconciliável em que o clã o havia menosprezado, confiando
+na própria superioridade em número e patrimônio; chegou até a sede deles e massacrou todos os Gu
+Imortais que estavam lá. As marcas de dao dos golpes, os cadáveres dos Gu
 Imortais e as marcas da destruição de suas aberturas imortais ficaram gravadas no terreno, e
 é isso que o deserto é hoje. O nome "fantasma **verde**" é uma referência ao próprio nome do
 clã apagado.
@@ -884,8 +886,9 @@ clã apagado.
 > enterrou em algum ponto do deserto do fantasma verde**, deixando uma herança.
 >
 > A herança tem **uma única condição para ser reclamada**: o herdeiro precisa **vingar o clã,
-> matando o agressor** — e, se ele já estiver morto, o alvo da vingança passa para a família,
-> os amigos e os discípulos dele.
+> matando Spectral Soul** — e, como ele já morreu, o alvo da vingança passa para a família, os
+> amigos, os discípulos e os herdeiros dele. É por isso que a fera de alma imemorial guardada
+> dentro do Palácio do Feijão Divino ataca gritando "descendente de Spectral Soul, morra!".
 >
 > Ela nunca foi reclamada. Está lá, e o clã Fang a persegue **há gerações** — a obra diz que a
 > determinação da casa em achá-la "não é assunto de uma ou duas gerações, foi carregada por
@@ -893,18 +896,23 @@ clã apagado.
 
 ### O Palácio do Feijão Divino
 
-*Divine Bean Palace* · **Casa de Gu Imortal de rank 8**, criada por um dos Veneráveis e
-deixada no Deserto Ocidental.
+*Divine Bean Palace* · **Casa de Gu Imortal de rank 8**, criada por **Genesis Lotus Immortal
+Venerable** — o criador do caminho da madeira — e largada de propósito por ele, há trezentos mil
+anos, num poço de aldeia mortal do Deserto Ocidental.
 
 Sua história é um dos melhores enredos de fundo do cenário. Depois que uma vila foi soterrada
 por uma tempestade de areia, o Palácio caiu nas mãos de mortais e circulou entre eles por
-incontáveis mãos até chegar ao clã Qing. O clã o reconheceu como possessão de um Venerável e
+incontáveis mãos até chegar ao clã Qing. O clã reconheceu nele uma possessão de Genesis Lotus e
 se orgulhou disso de forma arrogante — e foi esse orgulho que ajudou a desencadear seu
-extermínio. À beira da destruição, o primeiro ancião supremo do clã **enfiou a herança do clã
-dentro do próprio Palácio** e montou ali um método de renascimento cujas profundezas ele não
-compreendia. Os fragmentos de alma de todos os Gu Imortais mortos foram atraídos e armazenados
-lá dentro, e com o tempo formaram uma **fera da alma imemorial lendária, com inteligência
-superior à humana**, carregada de ódio.
+extermínio pelas mãos de Spectral Soul. À beira da destruição, o primeiro ancião supremo do clã
+**enfiou a herança do clã dentro do próprio Palácio** e montou ali um método de renascimento cujas
+profundezas ele não compreendia. Os fragmentos de alma de todos os Gu Imortais mortos foram
+atraídos e armazenados lá dentro, e com o tempo formaram uma **fera da alma imemorial lendária,
+com inteligência superior à humana**, carregada de ódio. Ela se batizou sozinha: manteve o
+sobrenome do clã morto e escolheu como nome próprio a palavra "rancor" — chama-se ==Qing Chou==.
+Nasceu dentro do Palácio e ficou **presa dentro dele por eras**, tentando destrinchar a máquina
+para tomá-la; e tem uma capacidade inata que faz dela peça política: **reconhece tudo o que tenha
+ligação com Spectral Soul**.
 
 **Quem o quer.** O clã Fang, por gerações. E, de fora da região, o Tribunal Celestial dá ordem
 expressa a uma das dez grandes seitas antigas do Continente Central para vir subjugá-lo, com
@@ -995,7 +1003,7 @@ pergunta**, e essa é a força antagonista (ou patrona) da sua campanha.
 | **Filial da Aliança dos Zumbis** | Madeira fosforescente | `—` | **Neutro** — a Aliança é aberta a corretos e demoníacos, e suprimida por ambos | A Cidade Cadáver móvel, escondida sob o deserto |
 | **Deserto do fantasma verde** | *Sem dono* | — | — | A maior concentração de feras da alma do mundo |
 | **Herança do clã Qing** | *Sem dono* | — | — | O patrimônio de uma super força inteira, com condição de vendeta |
-| **Palácio do Feijão Divino** | *Sem dono* | — | — | Casa de Gu Imortal de rank 8 feita por um Venerável |
+| **Palácio do Feijão Divino** | *Sem dono* | — | — | Casa de Gu Imortal de rank 8 feita por Genesis Lotus Immortal Venerable |
 
 ---
 

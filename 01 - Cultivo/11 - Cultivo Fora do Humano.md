@@ -11,7 +11,7 @@ aliases:
   - Variant humans
   - Desolate beast
 status: consolidado
-fontes: ["cap. 150", "cap. 188", "cap. 192", "cap. 204", "cap. 207", "cap. 356", "cap. 376", "cap. 391", "cap. 409", "cap. 414", "cap. 424", "cap. 441", "cap. 457", "cap. 491", "cap. 582", "cap. 597", "cap. 650", "cap. 651", "cap. 658", "cap. 661", "cap. 663", "cap. 666", "cap. 668", "cap. 682", "cap. 685", "cap. 701", "cap. 716", "cap. 722", "cap. 729", "cap. 758", "cap. 801", "cap. 950", "cap. 996", "cap. 1032", "cap. 1127", "cap. 1159", "cap. 1180", "cap. 1259", "cap. 1297", "cap. 1489", "cap. 2295"]
+fontes: ["cap. 150", "cap. 188", "cap. 192", "cap. 204", "cap. 207", "cap. 356", "cap. 376", "cap. 391", "cap. 409", "cap. 414", "cap. 424", "cap. 441", "cap. 457", "cap. 491", "cap. 582", "cap. 597", "cap. 650", "cap. 651", "cap. 658", "cap. 661", "cap. 663", "cap. 666", "cap. 668", "cap. 682", "cap. 685", "cap. 701", "cap. 716", "cap. 722", "cap. 729", "cap. 758", "cap. 801", "cap. 950", "cap. 996", "cap. 1032", "cap. 1127", "cap. 1159", "cap. 1180", "cap. 1259", "cap. 1297", "cap. 1489", "cap. 2295", "cap. 274", "cap. 2141"]
 conhecimento: especializado
 ---
 
@@ -73,7 +73,7 @@ Mecanicamente, eles são o caso mais próximo do humano, e é justamente por iss
 - **Cultivam como humanos.** Têm abertura, ranks, Gu, e chegam a Gu Imortais. Existem imortais variantes com Gu Imortais próprios e território próprio.
 - **Nascem com dao marks do próprio elemento.** Um homem-rocha já vem ao mundo com marcas do caminho da terra abundantes, que se somam ao que ele cultivar deliberadamente naquele caminho. É uma vantagem de partida real, e específica.
 - **Têm talentos raciais fixos.** Homens peludos são excepcionais no [[06 - Refino de Gu|refino de Gu]] — uma quantidade grande deles resolve o problema de suprimento de Gu de rank 5 de um imortal inteiro. Homens-rocha se destacam em batalha coletiva e em escavação.
-- **Têm insumos de cultivo próprios.** A obra registra recursos específicos por raça: um material de caminho da terra ideal para homens-rocha, um de caminho da madeira para os minúsculos, uma fonte de água para os sereianos.
+- **Têm insumos de cultivo próprios.** A obra registra até **Gu de elevar aptidão específicos por raça**, cada um casado com as marcas de lei do povo a que serve: o **Unprocessed Jade Gu (Gu do Jade Bruto)**, que grava marcas do caminho da terra e serve aos homens-rocha; o **Wood Origin Gu (Gu da Origem da Madeira)**, para os minúsculos; e o **Water Source Gu (Gu da Fonte de Água)**, para os sereianos. Para humanos puros nascidos sem talento algum existe a peça equivalente, o **Man Triumphing Heaven Gu**, que desperta a abertura à força.
 - **Perdem em inteligência.** A obra é direta: variantes são mais inteligentes que os demais seres vivos, mas ficam **longe da sabedoria humana** — e são descritos como ingênuos a ponto de crianças humanas os enganarem e venderem como escravos rotineiramente.
 - **Perdem no duelo, ganham no grupo.** Homens-rocha treinados até o patamar de rank 4 perdem individualmente para Mestres Gu humanos de rank 5, e o que eles fazem bem é lutar em formação.
 - **Não podem virar Veneráveis.** O texto usa a palavra "defeituosos" para explicar por quê. É o teto de espécie.
@@ -101,7 +101,7 @@ A escada de Gu de zumbificação, as cinco variantes de topo, as fraquezas eleme
 
 Fecha a nota a regra que amarra as anteriores. Se uma alma humana for instalada num corpo de fera, o resultado é uma fera **muito mais inteligente que o normal da espécie — e ainda assim menos inteligente que um humano comum**. Inteligência plena exige as duas metades: corpo humano *e* alma humana.
 
-A mesma lógica cobra caro em qualquer troca de corpo. A velocidade com que alguém compreende um caminho depende da constituição física que ele tem: um cultivador que converteu o próprio corpo para uma raça diferente viu o [[08 - Attainment|attainment]] futuro nas suas antigas especialidades **despencar**, restando-lhe sobretudo a compreensão acumulada antes da conversão. Trocar de corpo não é neutro: muda o que a pessoa ainda é capaz de aprender.
+A mesma lógica cobra caro em qualquer troca de corpo. A velocidade com que alguém compreende um caminho depende da constituição física que ele tem: um portador de uma constituição extrema de gelo que **converteu o próprio corpo em corpo de homem-dragão** viu a velocidade de compreensão do caminho do gelo e da neve **despencar**, restando-lhe sobretudo o [[08 - Attainment|attainment]] acumulado antes da conversão. Trocar de corpo não é neutro: muda o que a pessoa ainda é capaz de aprender.
 
 > [!note] Para o design
 > Esta nota entrega quatro perfis de adversário mecanicamente distintos, e nenhum deles é "o mesmo monstro com números maiores". **A fera** é um cofre ambulante: previsível, saqueável, e o prêmio está dentro dela. **A planta** prova que o relógio de calamidades é uma lei do universo e não uma perseguição — dá para pôr os personagens *ao lado* de uma tribulação alheia. **O variante** é um par com teto: aliado pleno, com talento racial próprio e um limite de carreira que gera drama político sozinho. **O morto-vivo** é o inimigo que não cresce: fortíssimo, congelado, dependente de dinheiro para ter energia e literalmente mais burro do que era em vida. Quatro fichas de antagonista saem prontas daqui.

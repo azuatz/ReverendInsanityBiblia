@@ -10,7 +10,7 @@ aliases:
   - Pensamentos
   - O que muda no corpo com o rank
 status: consolidado
-fontes: ["cap. 24", "cap. 43", "cap. 50", "cap. 72", "cap. 90", "cap. 123", "cap. 129", "cap. 140", "cap. 144", "cap. 145", "cap. 150", "cap. 162", "cap. 183", "cap. 205", "cap. 213", "cap. 232-233", "cap. 292", "cap. 454", "cap. 459", "cap. 493", "cap. 495", "cap. 505", "cap. 570", "cap. 637", "cap. 651-652", "cap. 971", "cap. 996", "cap. 1032", "cap. 1247", "cap. 1277", "cap. 2294"]
+fontes: ["cap. 24", "cap. 43", "cap. 50", "cap. 72", "cap. 90", "cap. 123", "cap. 129", "cap. 140", "cap. 144", "cap. 145", "cap. 150", "cap. 162", "cap. 183", "cap. 205", "cap. 213", "cap. 232-233", "cap. 292", "cap. 454", "cap. 459", "cap. 493", "cap. 495", "cap. 505", "cap. 570", "cap. 637", "cap. 651-652", "cap. 971", "cap. 996", "cap. 1032", "cap. 1247", "cap. 1277", "cap. 2294", "cap. 214", "cap. 226", "cap. 230"]
 conhecimento: comum
 ---
 
@@ -79,7 +79,7 @@ Três regras saem daí:
 2. **Pensar intensamente esgota o estoque.** Se o consumo supera a produção, o raciocínio desacelera — a pessoa fica literalmente mais burra enquanto o estoque não se repõe. **Dormir repõe**, porque durante o sono quase não se consome.
 3. **O melhor pensador possível é um humano inteiro.** A regra do mundo é que o ser humano é "o espírito de todos os seres vivos": uma alma humana instalada num corpo de fera produz uma fera muito mais esperta que o normal, e ainda assim **menos** esperta que um humano comum. Inteligência plena exige corpo humano *e* alma humana ao mesmo tempo. É a mesma regra que explica por que um morto-vivo — corpo morto, alma intacta — pensa devagar e prefere passar décadas dormindo, acumulando pensamentos para gastar de uma vez numa batalha.
 
-Sobre essa base se constrói o [[16 - Wisdom Path|caminho da sabedoria]], que trabalha diretamente com pensamentos: existem métodos que multiplicam a taxa de colisão até o limite, comprimindo horas de raciocínio em instantes, e existem ataques que consomem os pensamentos do alvo mais rápido do que ele os produz — desmontando o raciocínio dele sem tocar no corpo.
+Sobre essa base se constrói o [[16 - Wisdom Path|caminho da sabedoria]], que trabalha diretamente com pensamentos: existem métodos que multiplicam a taxa de colisão até o limite, comprimindo horas de raciocínio em instantes — o mais extremo é a **luz da sabedoria**, um campo de rank 9 dentro do qual uma dedução que levaria anos leva semanas, cobrando cada minuto em longevidade —, e existem ataques que consomem os pensamentos do alvo mais rápido do que ele os produz, desmontando o raciocínio dele sem tocar no corpo.
 
 ### O teto de multitarefa
 
@@ -102,12 +102,12 @@ Uma cortesia que a obra oferece de graça ao mestre: **o corpo avisa**. Um culti
 
 ### Cultivar acompanhado
 
-Cultivar não é obrigatoriamente solitário. A obra nomeia uma categoria própria para o cultivo em dupla, o ==cultivo em par (dual cultivation)==: um par de Gu gêmeos, refinado a partir de dois cultivadores, permite que os dois cultivem **juntos**, sentados frente a frente, e avancem **os dois** — "mais efeito com menos esforço". Não é doação de energia de um forte para um fraco (embora também sirva para isso); é uma forma de cultivo em que a dupla rende mais do que os dois separados renderiam.
+Cultivar não é obrigatoriamente solitário. A obra nomeia uma categoria própria para o cultivo em dupla, o ==cultivo em par (dual cultivation)==: o ==Bone Flesh Unity Gu (Gu da União de Osso e Carne)==, um par de Gu de rank 3 em forma de bracelete de jade, refinado pelos próprios dois cultivadores que vão usá-lo, permite que os dois cultivem **juntos**, sentados frente a frente, e avancem **os dois** — "mais efeito com menos esforço". Não é doação de energia de um forte para um fraco (embora também sirva para isso); é uma forma de cultivo em que a dupla rende mais do que os dois separados renderiam.
 
 Duas consequências que valem para o cenário. Primeiro, o par é **caro de formar**: o refino exige parentesco de sangue direto e carne fresca dos dois envolvidos, e o rendimento escala com a **profundidade emocional real** do vínculo — de inimigos de sangue a parentes diretos, o aproveitamento vai de um quinto a cem por cento. Vínculo afetivo é, aqui, uma estatística medida, não declarada. Segundo, existe a **versão coletiva**: organizações reúnem gente em território rico em recursos justamente para cultivar em conjunto, e o mundo trata a tecnologia do cultivo em par como capaz de produzir Mestres Gu em lote e desestabilizar a ordem política inteira. Os números e as regras do mecanismo estão em [[04 - Essência Primordial|Essência Primordial]] e [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]].
 
 > [!example] Caso mecânico
-> Um par de irmãos de uma família influente passou a carreira inteira cultivando em dupla com esse mecanismo e chegou aos dois ao topo do mundo mortal, ficando conhecido como "as estrelas gêmeas" de sua facção. O mesmo par de Gu, usado na direção oposta — um doador de nível superior despejando energia num receptor —, é o que permite a alguém com talento insuficiente romper uma parede que sozinho jamais romperia. O mecanismo é um só; o que muda é quem entrega e quem recebe.
+> Um par de irmãos de um clã influente passou a carreira inteira cultivando em dupla com o Bone Flesh Unity Gu e chegou aos dois ao rank 5, o topo do mundo mortal, ficando conhecido como "as estrelas gêmeas do caminho justo" e levando o clã junto ao auge. O mesmo par de Gu, usado na direção oposta — um doador de nível superior despejando energia num receptor —, é o que permite a alguém com talento insuficiente romper uma parede que sozinho jamais romperia. O mecanismo é um só; o que muda é quem entrega e quem recebe.
 
 ## Relações
 

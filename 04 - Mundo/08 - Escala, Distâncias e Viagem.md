@@ -11,7 +11,7 @@ aliases:
   - Escala do mundo
   - Transporte
 status: consolidado
-fontes: ["cap. 29", "cap. 39", "cap. 45", "cap. 46", "cap. 111", "cap. 150", "cap. 159", "cap. 161", "cap. 162", "cap. 168", "cap. 188", "cap. 200", "cap. 201", "cap. 206", "cap. 211", "cap. 222", "cap. 225", "cap. 232", "cap. 233", "cap. 234", "cap. 235", "cap. 239-265", "cap. 275", "cap. 307", "cap. 334", "cap. 341", "cap. 358", "cap. 364", "cap. 405", "cap. 407", "cap. 416", "cap. 418", "cap. 420", "cap. 423-425", "cap. 427", "cap. 429", "cap. 430", "cap. 434", "cap. 436", "cap. 439", "cap. 441", "cap. 445", "cap. 450", "cap. 451", "cap. 453", "cap. 459-466", "cap. 470", "cap. 473", "cap. 482", "cap. 486", "cap. 504", "cap. 507", "cap. 525", "cap. 528", "cap. 543", "cap. 545", "cap. 548", "cap. 549", "cap. 553", "cap. 556", "cap. 582", "cap. 587", "cap. 593", "cap. 605", "cap. 609", "cap. 654", "cap. 658", "cap. 673", "cap. 677", "cap. 680", "cap. 688", "cap. 695", "cap. 702", "cap. 707", "cap. 710", "cap. 714", "cap. 718", "cap. 728", "cap. 730", "cap. 737", "cap. 739", "cap. 837", "cap. 892", "cap. 893", "cap. 894", "cap. 928-935", "cap. 939", "cap. 955", "cap. 960", "cap. 962", "cap. 967", "cap. 1032", "cap. 1035", "cap. 1042", "cap. 1060", "cap. 1086", "cap. 1156", "cap. 1174", "cap. 1211", "cap. 1228", "cap. 1260", "cap. 1289", "cap. 1307", "cap. 1513", "cap. 1567", "cap. 1589", "cap. 1652", "cap. 1653", "cap. 1654", "cap. 1655", "cap. 1656", "cap. 1594", "cap. 1617", "cap. 1766", "cap. 1769", "cap. 1916", "cap. 1967", "cap. 2039", "cap. 2059", "cap. 2108", "cap. 2127", "cap. 2140"]
+fontes: ["cap. 29", "cap. 39", "cap. 45", "cap. 46", "cap. 111", "cap. 150", "cap. 159", "cap. 161", "cap. 162", "cap. 168", "cap. 188", "cap. 200", "cap. 201", "cap. 206", "cap. 211", "cap. 222", "cap. 225", "cap. 232", "cap. 233", "cap. 234", "cap. 235", "cap. 239-265", "cap. 275", "cap. 307", "cap. 334", "cap. 341", "cap. 358", "cap. 364", "cap. 404", "cap. 405", "cap. 407", "cap. 416", "cap. 418", "cap. 420", "cap. 423-425", "cap. 427", "cap. 429", "cap. 430", "cap. 434", "cap. 436", "cap. 439", "cap. 441", "cap. 445", "cap. 450", "cap. 451", "cap. 453", "cap. 459-466", "cap. 470", "cap. 473", "cap. 482", "cap. 486", "cap. 504", "cap. 507", "cap. 525", "cap. 528", "cap. 543", "cap. 545", "cap. 548", "cap. 549", "cap. 553", "cap. 556", "cap. 582", "cap. 587", "cap. 593", "cap. 605", "cap. 609", "cap. 654", "cap. 658", "cap. 673", "cap. 677", "cap. 680", "cap. 688", "cap. 695", "cap. 702", "cap. 707", "cap. 710", "cap. 714", "cap. 718", "cap. 728", "cap. 730", "cap. 737", "cap. 739", "cap. 837", "cap. 892", "cap. 893", "cap. 894", "cap. 928-935", "cap. 939", "cap. 955", "cap. 960", "cap. 962", "cap. 967", "cap. 1032", "cap. 1035", "cap. 1042", "cap. 1060", "cap. 1086", "cap. 1156", "cap. 1174", "cap. 1211", "cap. 1228", "cap. 1260", "cap. 1289", "cap. 1307", "cap. 1513", "cap. 1567", "cap. 1589", "cap. 1652", "cap. 1653", "cap. 1654", "cap. 1655", "cap. 1656", "cap. 1594", "cap. 1617", "cap. 1766", "cap. 1769", "cap. 1916", "cap. 1967", "cap. 2039", "cap. 2059", "cap. 2108", "cap. 2127", "cap. 2140"]
 conhecimento: comum
 ---
 
@@ -122,7 +122,7 @@ Uma tabela de calibração. As conversões são `(ded.)`.
 | Varredura de cavalaria de reconhecimento | raio de 600 li | 300 km |
 | Alarme de maré de bestas | dado a 3.000 li | 1.500 km |
 | Terceiro maior rio da Fronteira Sul | — | mais de 8.000 km |
-| A montanha número um do mundo | — | mais de 3.000 km de altura |
+| A **Tian Ti Mountain**, montanha número um do Continente Central | — | mais de 3.000 km de altura |
 | Uma cordilheira grande | centenas de milhares de li | 50.000+ km |
 | Fenda continental | milhões de li de extensão | 500.000+ km |
 
@@ -227,8 +227,10 @@ transporta objetos, não pessoas — e a distância entre as duas pontas é irre
 custo, que depende só de quanto se põe dentro. No patamar imortal há corredores logísticos
 inteiros que funcionam como redes comerciais e sustentam a riqueza de forças inteiras.
 
-**Teleporte pessoal.** O topo é um Gu Imortal que teleporta o usuário para onde ele quiser, e
-suas limitações são o melhor design de item do cenário: exige **memória vívida e compreensão
+**Teleporte pessoal.** O topo é o **Fixed Immortal Travel Gu** (Gu da Viagem Imortal Fixa), um
+Gu Imortal de rank 6 cuja receita está registrada nas [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] e
+que teleporta o usuário para onde ele quiser. Suas limitações são o melhor design de item do
+cenário: exige **memória vívida e compreensão
 clara do destino** — não se teleporta para onde nunca se esteve; leva **três respirações** para
 ativar, e essa é uma janela real em que um inimigo pode impedi-lo; **não transporta roupas**
 nem objetos externos, só o que estiver guardado na [[02 - Abertura|abertura]]; e **fica mais caro conforme o

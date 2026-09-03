@@ -11,7 +11,7 @@ aliases:
   - Rank 3 Gu
   - Catálogo de Gu Rank 3
 status: consolidado
-fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "03 - Paths/04 - Strength Path.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 98", "cap. 105", "cap. 106", "cap. 111", "cap. 121", "cap. 123", "cap. 126", "cap. 129", "cap. 150", "cap. 155", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 166", "cap. 185", "cap. 192", "cap. 222", "cap. 230", "cap. 266", "cap. 275", "cap. 280", "cap. 285", "cap. 289", "cap. 290", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 326", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 452", "cap. 457", "cap. 463", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 548", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 734", "cap. 758", "cap. 831", "cap. 853", "cap. 855", "cap. 1097", "cap. 1288", "cap. 2072", "cap. 2108", "cap. 2312"]
+fontes: ["11 - Apendices/04 - Catálogo de Gu - Mortais.md", "_pipeline/ARVORES-DE-EVOLUCAO.md", "02 - Gu/15 - Conflito de Marcas e Compatibilidade.md", "03 - Paths/04 - Strength Path.md", "cap. 47", "cap. 62", "cap. 64", "cap. 76", "cap. 98", "cap. 105", "cap. 106", "cap. 111", "cap. 121", "cap. 123", "cap. 126", "cap. 129", "cap. 150", "cap. 155", "cap. 156", "cap. 157", "cap. 162", "cap. 163", "cap. 166", "cap. 167", "cap. 179", "cap. 183", "cap. 185", "cap. 192", "cap. 222", "cap. 224", "cap. 226", "cap. 229", "cap. 230", "cap. 239", "cap. 243", "cap. 254", "cap. 256", "cap. 266", "cap. 275", "cap. 280", "cap. 285", "cap. 289", "cap. 290", "cap. 291", "cap. 292", "cap. 298", "cap. 301", "cap. 307", "cap. 308", "cap. 316", "cap. 317", "cap. 320", "cap. 321", "cap. 326", "cap. 343", "cap. 345", "cap. 353", "cap. 354", "cap. 355", "cap. 363", "cap. 368", "cap. 374", "cap. 412", "cap. 428", "cap. 431", "cap. 442", "cap. 452", "cap. 457", "cap. 463", "cap. 472", "cap. 475", "cap. 504", "cap. 507", "cap. 522", "cap. 526", "cap. 548", "cap. 550", "cap. 560", "cap. 570", "cap. 573", "cap. 579", "cap. 667", "cap. 670", "cap. 671", "cap. 711", "cap. 734", "cap. 758", "cap. 831", "cap. 833", "cap. 834", "cap. 846", "cap. 853", "cap. 855", "cap. 862", "cap. 1097", "cap. 1288", "cap. 2072", "cap. 2108", "cap. 2312"]
 conhecimento: comum — a existência e o uso dos Gu de rank 3 é conhecimento corrente entre Mestres Gu; receitas específicas e Gu antigos como o all-out effort Gu são conhecimento especializado
 ---
 
@@ -398,9 +398,10 @@ caso didático do vault: o jin strength Gu (rank 1, +1 jin, 220 pedras), o stren
 jin Gu (rank 2, +10 jin, 690 pedras), o jun strength Gu (rank 3, +1 jun, 4.550 pedras) e
 o strength of ten jun Gu (rank 4, +10 jun, 36.000 pedras) são **produtos separados,
 vendidos em loja com preços tabelados**. Ninguém funde um no outro. É uma **série**, não
-uma árvore, e tratá-la como árvore é erro. A linha foi inventada por um Gu Imortal de
-rank 7 das Planícies do Norte, que também refinou o Strength of a Thousand Jun de rank 6
-imortal no topo da mesma família.
+uma árvore, e tratá-la como árvore é erro. A linha foi inventada por **Chu Du**, um Gu
+Imortal de rank 7 das Planícies do Norte conhecido pelo título de **Imortal da Dominação**
+(*Domination Immortal*), que criou o jin strength Gu e o jun strength Gu e refinou o
+Strength of a Thousand Jun de rank 6 imortal no topo da mesma família.
 
 **Interações.** Acumula marcas da lei da força como qualquer Gu do caminho, e portanto
 interfere nos Gu de luz, de espaço, de vento e de água do próprio dono (ded.). Como não
@@ -1142,8 +1143,9 @@ ao autoinfligido**, na ordem de oitocentos no próprio usuário para cada mil no
 **Desvantagem.** O dano espelhado é quase equivalente: para ferir o inimigo, o usuário se
 fere primeiro. **Exige um Gu de cura aceso ao lado** — sem isso, é suicídio lento.
 
-**Como se obtém.** Gu vital da linhagem de um erudito de osso, ligado à mesma herança de
-montanha dos demais Gu de osso deste catálogo.
+**Como se obtém.** Gu vital do **Erudito do Osso Cinzento** (*Gray Bone Scholar*), dono da
+herança do Osso Branco — a mesma herança de montanha de onde saem os demais Gu de osso
+deste catálogo.
 
 **Evolução.** Não citada pela obra na faixa mortal. Existe uma **versão imortal de rank 6**
 com ficha própria em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — o
@@ -1402,14 +1404,17 @@ segundo componente: —
 
 **Interações.** É a peça central do conjunto de gelo e água, que se combina com *icicle
 Gu*, *water shield Gu*, *blue bird ice coffin Gu*, *ice muscles Gu* e *frost demon Gu*. O
-uso mais temido é dentro de um golpe fatal: a **"tempestade de lâminas de gelo"**, criação
-pessoal de uma Mestra Gu, que combina a lâmina com o *Swirl Gu* (ou *revolving Gu*) e o
+uso mais temido é dentro de um golpe fatal: a **"tempestade de lâminas de gelo"**
+(*iceblade storm*), criação pessoal da Mestra Gu portadora do Físico de Alma de Gelo
+Escuro do Norte, que combina a lâmina com o *Swirl Gu* (ou *revolving Gu*) e o
 *Fierce Wind Gu* (ou *whirlwind Gu*) — o usuário se apoia numa perna só, estende a lâmina
 e gira, acelerando até as marcas de corte formarem um tornado. O resultado ataca e defende
 ao mesmo tempo, cobre o chão de gelo duro (impedindo inimigos de emergir do solo), cresce
 em potência quanto mais tempo gira, e a obra afirma que **sem dois ou mais Gu defensivos
-trabalhando juntos não se resiste a ele** — nem a armadura do Sky Canopy bastaria. Ver
-[[08 - Killer Moves|Killer Moves]]. E o Gu é o exemplo canônico de que **o rank do Gu não
+trabalhando juntos não se resiste a ele** — nem a armadura do Sky Canopy bastaria. A
+fraqueza declarada do golpe está nas duas pontas: **ele não é fácil de montar nem de
+interromper** — quem o aciona precisa de tempo e espaço para entrar em rotação, e depois
+de entrar não para quando quer. Ver [[08 - Killer Moves|Killer Moves]]. E o Gu é o exemplo canônico de que **o rank do Gu não
 é o teto do seu poder**: sob um físico extremo de gelo, o exemplar de rank 2 operado por
 um praticante de rank 3 bloqueou de frente uma lâmina de rank 3 e um golpe de lua dourada.
 
@@ -2261,11 +2266,14 @@ já sabe. Destrava uma linha de raciocínio travada **sem exigir informação no
 
 **Dieta.** Essência do próprio usuário.
 
-**Desvantagem.** **Só reorganiza o que o dono já sabia** — não descobre nada. E é
-consumível: morre ao ser colhido.
+**Desvantagem.** **Só reorganiza o que o dono já sabia** — não descobre nada, e a obra
+acrescenta a ressalva na voz de quem o empresta: a sugestão se apoia apenas na informação
+que o usuário já tem, ela **especula por ele e pode simplesmente não estar certa**. E é
+consumível: colhido o botão, o cacto fica cinzento e morre em poucos segundos.
 
-**Como se obtém.** Especialidade **exclusiva de um clã** e **não vendida no mercado**: quem
-não é do clã não consegue um. A planta de origem cresce selvagem no Deserto Ocidental.
+**Como se obtém.** Especialidade **exclusiva do clã Tie** e **não vendida no mercado**:
+quem não é do clã não consegue um, e mesmo dentro dele o exemplar é emprestado pelo líder,
+não distribuído. A planta de origem cresce selvagem no Deserto Ocidental.
 
 **Evolução.** Não citada pela obra.
 
@@ -2301,11 +2309,32 @@ colônia **exige familiaridade prévia com a espécie** — quem não conhece o 
 consegue tomar o bando. E a dieta de sangue, mais o próprio enxame, **denunciam o usuário**
 socialmente (ded.).
 
-**Como se obtém.** Foi o **primeiro dos três grandes feitos de fusão do fundador do
-caminho do sangue**. Circula em pequenas heranças espalhadas pelo mundo, e é assim que
-Mestres de escravização adquirem colônias inteiras.
+**Como se obtém.** Foi o **primeiro dos três grandes feitos de fusão do Ancestral do Mar
+de Sangue** (*Blood Sea Ancestor*), um **Mestre Gu de rank 7 do caminho demoníaco** cujo
+nome ficou registrado na história — ele começou como mortal comum, entrou no caminho
+demoníaco por acaso e levou **oitocentos anos** subindo do degrau mais baixo até virar uma
+autoridade do caminho. A razão de ele ter se dedicado à fusão
+é mecânica e vale como aula de sistema: ele tinha **aptidão baixa**, portanto pouca
+essência primordial na abertura, e passou a vida procurando um Gu que **continuasse
+absorvendo essência primordial natural do ar mesmo depois de refinado** — porque um Gu
+selvagem se alimenta sozinho do ar e um Gu refinado perde essa capacidade e passa a
+depender só da abertura do dono. O caminho justo o cercou e o matou justamente com medo de
+que ele conseguisse. Ele nunca conseguiu, mas os três produtos laterais da pesquisa são a
+fundação do caminho do sangue até hoje. Antes de morrer, com o cultivo de rank 7, ele
+montou **centenas de milhares de terrenos de herança**, do Continente Central à Fronteira
+do Sul — é por isso que estes Gu aparecem largados em vales sem nome, aldeias pobres e
+beiras de estrada, e é assim que Mestres de escravização adquirem colônias inteiras. Os
+três são baratos de criar e de multiplicar, e servem a quem tem aptidão comum.
 
-**Evolução.** Não citada pela obra.
+**Evolução.** Não citada pela obra. O que a obra dá é a **família irmã**, com rank e
+mecanismo de cada uma: o `blood frenzy Gu` (rank 4), segundo feito, é uma bola de essência
+de sangue sem forma que sobrevive grudada em outro ser e faz **todo Gu tocado pela aura
+dela absorver essência primordial natural de tempos em tempos** — só que os Gu afetados
+**vão saindo do controle do dono** e, passado um tempo, viram uma poça de sangue; e o
+`blood guillotine` (rank 5), último feito e o mais avançado, funde uso e alimentação numa
+coisa só: ele **se sustenta da guerra**, multiplica-se engolindo o sangue de Mestres Gu e
+**não pede essência primordial nenhuma ao dono**. As três não são degraus uma da outra:
+são três respostas ao mesmo problema, em três ranks.
 
 **Interações.** Casa naturalmente com o [[07 - Enslavement Path|caminho da escravização]],
 que fornece o método de dominar o macho. Contra ele, qualquer Gu de área — uma armadura de
@@ -2886,10 +2915,16 @@ falha destrói tudo.
 **Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
 
 **Desvantagem.** O próprio Careful Gu **tem refino longo e cheio de passos** — para
-conseguir a ferramenta que facilita refinos, é preciso vencer um refino difícil.
+conseguir a ferramenta que facilita refinos, é preciso vencer um refino difícil. A obra dá
+o número, e ele é assustador: o discípulo que mais o dominava, e para quem ele era o Gu
+mais familiar de todos, **passou três anos treinando** e mesmo assim só tinha **oitenta por
+cento** de chance de sucesso.
 
-**Como se obtém.** **Herança secreta e exclusiva de um único mestre refinador** — não
-circula.
+**Como se obtém.** **Herança secreta e exclusiva do Velho Qi Shan** (*Old Man Qi Shan*),
+mestre refinador que a guardava sem deixá-la circular. A receita só saiu da família quando
+ele a mostrou a um adversário para bancar um duelo de refino do discípulo — e o formato do
+duelo é um achado de mesa: não se apostou o **sucesso** do refino, e sim o **tempo**, ou
+seja, ganhava quem terminasse primeiro, o que penaliza quem nunca viu a receita.
 
 **Evolução.** Não citada pela obra.
 
@@ -3301,10 +3336,11 @@ absoluta.
 **Como se obtém.** A planta é obtida de **leopardos-sombrios**. É tecnologia obscura, e a
 obra guarda para ela um dado histórico raro e muito útil ao mestre: no momento da narrativa
 o Breath Concealing Gu **ainda não havia entrado no palco do mundo** — só se tornaria
-popular **cento e cinquenta anos depois**, pela mão de um rei-caçador, e só nos cinquenta
-anos seguintes a essa popularização, durante uma grande guerra que abalou a Fronteira do
-Sul inteira, passaria a ser amplamente usado. Antes disso, a humanidade simplesmente não se
-preocupava em guardar a própria aura.
+popular **cento e cinquenta anos depois**, pela mão do **rei-caçador Sun Gan**, e só nos
+cinquenta anos seguintes a essa popularização, durante uma grande guerra que abalou a
+Fronteira do Sul inteira, passaria a ser amplamente usado. Antes disso, a humanidade
+simplesmente não se preocupava em guardar a própria aura, e só **duzentos anos** depois do
+momento da narrativa é que existiriam métodos e experiência acumulada para responder a ele.
 
 **Evolução.** Não citada pela obra.
 
@@ -3643,8 +3679,9 @@ uma operação de mortos-vivos funcionando (ded.).
 **Desvantagem.** A dieta é a desvantagem: é um Gu que só se paga a si mesmo se o dono já
 estiver no negócio.
 
-**Como se obtém.** **Exclusivo de uma linhagem** do caminho, e usado dentro dela como prova
-de identidade — **não circula fora**.
+**Como se obtém.** **Exclusivo da linhagem do Rei Zumbi** (*zombie king*), e usado dentro
+dela como prova de identidade — quem se apresenta como membro é desafiado a exibir o Gu, e
+saber **do que ele se alimenta** já conta como credencial. **Não circula fora.**
 
 **Evolução.** Não citada pela obra.
 
@@ -3753,7 +3790,7 @@ original do criador era exatamente essa — um Gu que **refine a essência alhei
 convertendo-a em essência do próprio receptor, de modo que a doação de cultivo não deixe
 aura misturada nenhuma.
 
-**Como é.** — (é um par de Gu, um para cada praticante).
+**Como é.** Um **par de braceletes de jade** amarrados um ao outro e inseparáveis: **um verde como grama, o outro vermelho como sangue**. Cada praticante fica com um.
 
 **Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
 
@@ -3777,9 +3814,14 @@ opostas se neutralizaram — e porque o refinador **adulterou a receita no últi
 
 **Como se obtém.** A receita exige **dois Mestres Gu trabalhando juntos**, e esses dois
 precisam ter **laço de sangue** — pais e filhos, ou gêmeos —, porque é a conexão da linhagem
-que permite transformar a essência primordial. O criador **nunca conseguiu executar a
-própria receita**: preparou tudo e parou no último passo por ser uma pessoa só, sem os dois
-candidatos qualificados; deixou o projeto escrito num pergaminho dentro do próprio túmulo,
+que permite transformar a essência primordial. O criador foi o **Erudito do Osso Cinzento**
+(*Gray Bone Scholar*), Mestre Gu do caminho justo dono da herança do Osso Branco — a mesma
+de onde saem quase todos os Gu de osso deste catálogo. O problema que ele passou a vida
+tentando resolver é o mesmo do Ancestral do Mar de Sangue e vale como retrato do mundo:
+ele tinha **aptidão baixa** e queria criar um Gu de uso amplo que compensasse isso. Ele
+**nunca conseguiu executar a própria receita**: preparou tudo e parou no último passo por
+ser uma pessoa só — tinha dois apelidos, mas era um homem —, sem os dois candidatos
+qualificados; deixou o projeto escrito num pergaminho dentro do próprio túmulo,
 um salão de mais de dois quilômetros quadrados com uma pirâmide de ossos, cujo mecanismo de
 abertura **exige duas pessoas cooperando** ("Gêmeos de uma só mente, três espíritos unidos"
 — os três espíritos sendo a mente, a palma e o olho de uma pessoa). O pergaminho é um
@@ -3792,8 +3834,9 @@ ranks — mas não descreve nenhuma delas nem qualquer fusão entre elas.
 **Interações.** Torna **segura** a transferência de essência entre duas pessoas, que de
 outro modo mataria ambas — e é por isso que ele **dispensa o raro *cleansing water Gu***,
 que é a única cura descrita para a sequela de "doar cultivo" a um herdeiro. Efeito histórico
-registrado: um casal de irmãos que cultivou em dupla com ele chegou ao rank 5 e virou "as
-estrelas gêmeas do caminho justo", levando o clã deles ao auge. Para a mesa, é o Gu que
+registrado: **Bai Sheng e Bai Hua**, irmãos do **clã Bai**, cultivaram em dupla com ele,
+chegaram ambos ao rank 5 e viraram "as estrelas gêmeas do caminho justo", levando o clã Bai
+ao auge do seu poder. Para a mesa, é o Gu que
 transforma **uma relação entre personagens numa estatística** — e um dos poucos que fazem
 isso em qualquer sistema.
 
@@ -3929,41 +3972,71 @@ consomem de três a quatro mil exemplares.
 **Desvantagem.** **Monopólio de fornecedor.** Quem compra um golpe que depende dele fica
 preso a um único vendedor, e a produção é lenta.
 
-**Como se obtém.** Cresce **sozinho** numa terra abençoada específica, sem receita à venda.
-E aqui está o detalhe que faz dele o melhor estudo de caso de propriedade intelectual da
-obra: **o criador adulterou o Gu de propósito para impedir engenharia reversa**. Um espírito
-de terra de nível de grão-mestre do refino declarou que **com um único exemplar é impossível
-deduzir a receita**, e que ela só se torna recuperável com um lote enorme — **cinco mil**
-exemplares foi o número que o convenceu, e o serviço foi orçado em três pedras de essência
-imortal.
+**Como se obtém.** Cresce **sozinho** na **terra abençoada Miríade de Estrelas** (*Myriad
+Star blessed land*), propriedade do Gu Imortal **Senhor Estelar Wan Xiang** (*Star Lord Wan
+Xiang*), e não existe receita à venda. E aqui está o detalhe que faz dele o melhor estudo de
+caso de propriedade intelectual da obra: **o Senhor Estelar adulterou o Gu de propósito
+para impedir engenharia reversa**. O **espírito da terra de Lang Ya**, de patamar de
+grão-mestre do refino, cheirou um exemplar e declarou na hora que o Gu "obviamente foi
+mexido", que refazer a receita exige no mínimo um grão-mestre do refino e que **com um
+único exemplar é impossível deduzir a receita**; ela só se torna recuperável com um lote
+enorme — **cinco mil** exemplares foi o número que o convenceu, e o serviço foi orçado em
+três pedras de essência imortal. Do outro lado do mesmo balcão, o dono se recusou a vender
+a receita mesmo por preço absurdo, alegando que o Gu "nasce sozinho na minha terra
+abençoada, não há receita" — a desculpa perfeita para um monopólio.
 
 **Evolução.** Não citada pela obra. Existe uma **versão imortal** com ficha própria em
 [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
-**Interações.** Não é um Gu que se usa: é um Gu que se **gasta dentro de outro**. A
-interação relevante é com os **golpes** do caminho das estrelas, que o consomem aos
-quinhentos, e com a **economia** — quem controla a terra onde ele nasce controla quem pode
-lutar com estrelas. Ver [[08 - Killer Moves|Killer Moves]].
+**Interações.** Não é um Gu que se usa: é um Gu que se **gasta dentro de outro**. O golpe
+que a obra nomeia como cliente dele é a **chuva estelar de primavera** (*spring star rain*)
+— e ela não é um ataque: usa grandes quantidades de `star rain Gu`, poucos `spring wind Gu`
+e alguns Star Shoot para fazer cair, por **três dias e três noites**, uma chuva cor de jade
+espessa como óleo que **aduba a terra e aumenta muito a produtividade agrícola** de uma
+terra abençoada. Ou seja, a munição mais monopolizada do caminho das estrelas é gasta em
+**agricultura**, não em combate. Ao lado dela, o mesmo vendedor oferece a **armadura
+estelar deslumbrante** (*dazzling star armor*), golpe defensivo que veste o Imortal de
+armadura de luz e consome muitos `starlight Gu`, alguns `bane star Gu` e vários `star shield
+Gu`. A outra interação é a **econômica** — quem controla a terra onde este Gu nasce controla
+quem pode lutar (e plantar) com estrelas. Ver [[08 - Killer Moves|Killer Moves]].
 
 ### Three Stars in the Sky Gu (Gu das Três Estrelas no Céu)
 
-**O que faz.** Terceiro degrau de uma escada nomeada, com a mesma função dos vizinhos e
-escala crescente entre o rank 2 (*Brilliance of Two Stars Gu*) e o rank 4 (*Four Stars Cube
-Gu*) (ded.). **A obra dá o nome e o rank e não descreve o efeito.**
+**O que faz.** **Amplifica os Gu do caminho das estrelas** — a obra atribui a função ao
+conjunto inteiro da escada e não a cada degrau, e o resumo dela é literal: estes Gu "eram
+voltados especificamente para Gu do caminho das estrelas e podiam elevar em grande medida
+os efeitos deles; equivaliam a um `Amplify Effect Gu` não convencional". Noutra passagem a
+obra especifica o **poder de ataque** dos Gu estelares e chama a peça de "versão enfraquecida
+do amplify effect Gu". Este é o **terceiro degrau** de uma escada de cinco que a obra nomeia
+inteira: `a bit of star Gu` (rank 1), `brilliance of two stars Gu` (rank 2), este (rank 3),
+`four stars cube Gu` (rank 4) e `five stars aligned Gu` (rank 5). O grau exato de
+amplificação de cada degrau **não é dado**; que ele fique entre o do rank 2 e o do rank 4 é
+dedução `(ded.)`.
 
 **Como é.** —
 
 **Dieta.** —
 
-**Desvantagem.** —
+**Desvantagem.** **Só serve para Gu do caminho das estrelas** — é amplificação de caminho
+único, ao contrário do `Amplify Effect Gu`, que serve a qualquer caminho. Em troca, tem
+taxa de sucesso de refino **muito maior** que a do amplificador universal, e os materiais
+são **extremamente comuns**.
 
-**Como se obtém.** —
+**Como se obtém.** A escada inteira foi criada de raiz por **Dou Min Jun** (também grafado
+`Du Min Jun`), poeta das Planícies do Norte que a posteridade apelidou de **Imortal Poeta**,
+e as receitas ficaram guardadas na herança pessoal dele, ao lado de praticamente todos os
+Gu estelares que o Planalto Norte conhecia. **Nunca entraram em circulação** — não se
+compram no mercado.
 
-**Evolução.** Não citada pela obra — a obra nomeia os degraus vizinhos por número de
-estrelas, mas **não afirma fusão** entre eles.
+**Evolução.** Não citada pela obra — a obra nomeia os cinco degraus por número de estrelas,
+mas **não afirma fusão** entre eles: cada um é receita própria do mesmo inventor. É série,
+não árvore.
 
-**Interações.** — (a obra cala; a única leitura segura é que ele pertence ao mesmo conjunto
-dos demais Gu de estrelas e portanto ressoa com eles, ded.).
+**Interações.** Amplifica todo o resto de um arsenal estelar, e é por isso que ele é
+estruturalmente mais importante do que a ficha sugere. A obra tira daí uma consequência de
+mundo que vale como gancho pronto: **se essas receitas fossem postas em circulação, o
+caminho das estrelas ficaria muito mais popular, a ponto de mexer no equilíbrio entre todos
+os caminhos**. Um Gu de rank 3 engavetado que é, na prática, uma alavanca política.
 
 ---
 
@@ -4061,22 +4134,24 @@ criadas por Gu equivalentes.
 
 ### Golden Silkworm Gu (Gu do Bicho-da-Seda Dourado)
 
-**O que faz.** Gu ofensivo de **"aguda força de ataque"**. A obra **não descreve a mecânica
-exata do ataque**; descreve o efeito estratégico, e ele é o mais consequente do catálogo:
-por conseguir produzi-lo **em massa**, um clã viu sua força de combate subir rapidamente, o
-que lhe permitiu **eliminar o clã rival e tomar a montanha inteira**. É, portanto, um Gu de
+**O que faz.** Gu ofensivo de **"aguda força de ataque"**. A obra dá o mecanismo em uma
+frase e mais nada: acionado, o bicho-da-seda **vira um raio de luz e investe** contra o
+alvo — é projétil, não construção nem área. O resto do que se sabe dele é estratégico, e é
+o efeito mais consequente do catálogo inteiro: por conseguir produzi-lo **em massa**, o
+**clã Jin** viu sua força de combate subir rapidamente, o que lhe permitiu **eliminar o clã
+Huang, seu vizinho e rival, e tomar a montanha Huang Jin inteira**. É, portanto, um Gu de
 ataque barato o bastante para armar um clã e mudar o equilíbrio militar de uma região.
 
-**Como é.** —
+**Como é.** — (o efeito visível é um raio de luz dourada em movimento).
 
 **Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
 
 **Desvantagem.** Depende inteiramente de **um único material insubstituível e de crescimento
 lento**, o que torna a produção vulnerável: destruir os campos paralisa a fabricação.
 
-**Como se obtém.** O material insubstituível da receita é a **grama Jinzan**, que o clã
+**Como se obtém.** O material insubstituível da receita é a **grama Jinzan**, que o clã Jin
 cultiva em campos próprios — **três acres, plantados às escondidas até dos próprios jovens
-mestres do clã**, para não alertar o rival. A grama Jinzan tem ciclo de crescimento muito
+mestres do clã**, que julgavam ser plantio por gosto, para não alertar o clã Huang. A grama Jinzan tem ciclo de crescimento muito
 longo: **quatro anos até amadurecer**. É recurso de guerra estratégico, insubstituível por
 outros materiais e raro no mercado aberto. O clã passou anos **aperfeiçoando a receita**
 antes de conseguir a produção em massa.
@@ -4282,12 +4357,20 @@ atravessa o mundo inteiro.
 
 **Desvantagem.** Serve à **preservação, não ao volume** (ded.) — não é um Gu de carga.
 
-**Como se obtém.** Gu de **criação recente**, nomeado por quem o desenvolveu, e o refino
-**depende de um Gu Imortal específico** (energia do caminho da força), o que o torna gargalo
-de um negócio inteiro.
+**Como se obtém.** Gu de **criação recente**, nomeado por quem o desenvolveu. O refino
+**depende do `strength qi Immortal Gu`** — o Gu Imortal do caminho da força que fornece a
+energia da operação —, e é isso que faz dele o gargalo de um negócio inteiro: quem tem o Gu
+Imortal produz Airsac Gu em série, quem não tem não produz nenhum. A produção em massa
+registrada é feita por **homens-pelo trabalhando dentro de ninhos de pedra**, com o
+imortal dono do `strength qi` alimentando o trabalho deles, e os exemplares prontos saem já
+com o Guts Gu dentro, direto para as grandes forças compradoras.
 
-**Evolução.** Não citada pela obra. A obra tampouco informa a receita ou se ele tem rotas —
-o que se sabe é a função e um insumo.
+**Evolução.** Não citada pela obra. O que a obra registra, e vale mais que uma rota, é que
+**a própria receita foi reescrita depois**: alguém a modificou para que a produção em massa
+tivesse **mais passos, porém mais simples**, e com isso o **risco do refino caiu trinta por
+cento**. É o caso canônico do sistema de que uma receita não é um dado fixo — ela é
+melhorável por engenharia, e a melhoria pode estar no número de etapas em vez de no
+material.
 
 **Interações.** É o exemplo mais claro do catálogo de um Gu que **converte geografia em
 mercadoria**: quem controlava a montanha controlava o Guts Gu, e a criação deste Gu
@@ -4411,8 +4494,12 @@ se abre por procedimento correto. Preço: —
 sobre osso branco"**: o flesh-bone Gu reconstitui o corpo e o *rising dead Gu* ressuscita. A
 combinação existe porque **o rising dead Gu exige que o corpo esteja inteiro** — se o
 cadáver está mutilado, primeiro se usa o flesh-bone para refazer a carne e só então o
-rising dead funciona. Ao longo da história essa dupla beneficiou muitos figurões, inclusive
-Veneráveis de rank 9. Como toda cura, precisa sobrescrever a lei já presente no tecido, e
+rising dead funciona. Vale conhecer o parceiro por extenso, porque é ele que define a
+janela de socorro: o `rising dead Gu` é reconhecido como **o Gu de cura número um do rank
+4** e ressuscita um Mestre Gu morto desde que **não tenham passado catorze horas da morte**
+e o corpo esteja íntegro; é **consumível de uso único**, e a obra registra que ele só se
+obtém por sorte, nunca por procura — procura alta, oferta nenhuma. Ao longo da história
+essa dupla beneficiou muitos figurões, inclusive Veneráveis de rank 9. Como toda cura, precisa sobrescrever a lei já presente no tecido, e
 por isso é lenta em corpos reformados (ded.).
 
 ### Endless Vitality Gu (Gu da Vitalidade Sem Fim)
@@ -4691,7 +4778,7 @@ começa o seu trabalho.
 
 | Gu | O que a obra dá | O que falta |
 |---|---|---|
-| **Three Stars in the Sky Gu** | O nome, o rank e a posição numa escada de "estrelas" que vai do rank 2 (*Brilliance of Two Stars*) ao rank 4 (*Four Stars Cube*). | **Tudo o mais.** Nenhum efeito, nenhuma cena de uso, nenhuma receita, nenhuma dieta. |
+| **Three Stars in the Sky Gu** | O nome, o rank, a escada inteira de cinco degraus com os cinco nomes, o inventor (o poeta Dou Min Jun) e a **função da escada**: amplificar os Gu do caminho das estrelas, como um `Amplify Effect Gu` de caminho único, com materiais comuns e alta taxa de sucesso. | **O número.** Quanto cada degrau amplifica, quanto custa acionar, o que come e como é o bicho. Tem ficha própria acima. |
 | **Flying Sword Letter Gu** | O nome, o rank e a categoria (Gu de carta, do mesmo patamar do grou de papel relâmpago). | Velocidade, alcance e qualquer particularidade que o distinga do grou. |
 | **Vagrant Warrior Gu** | O nome, o rank e que ele **produz um guerreiro errante** com golpes e métodos de cultivo próprios; que é o par barato do *Hero Gu*. | O que o guerreiro faz: força, armas, limites, quantos, por quanto tempo. |
 | **Sky Granary Gu** | O nome, o rank, que é de **armazenamento**, que é exclusivo do Mar Oriental e que é o material-base do Blue Sky Gu de rank 4. | Capacidade, aparência, alcance, custo — a obra o cita apenas como degrau de uma fusão. |
@@ -4701,7 +4788,7 @@ começa o seu trabalho.
 | **Golden Back Wolf Skin Gu** | O nome, o rank, que é defensivo de pele, e que avança para o Azure Wolf Skin Gu de rank 4 — com o dado precioso de que o refino registrado **só deu certo na terceira tentativa**. | O efeito no rank 3: quanto protege, por quanto tempo, a que custo. |
 | **Earth Wall Gu** | O nome, o rank, e a função de **padrão de comparação**: muitos *earth mound Gu* de rank 2 ativados juntos formam "uma barreira como a de um earth wall Gu de rank três". | Altura, espessura, duração, custo — tudo o que faria dele um item e não uma régua. |
 | **Burning Firefly Gu** | O nome, a faixa (ranks 3 a 5), o caminho (fogo), o bioma de origem e o efeito **ambiental**: acumulados, criam um ambiente de caminho do fogo. | **O efeito de combate.** A obra diz que é "de qualidade bastante alta" e não diz o que ele faz na mão de alguém. |
-| **Golden Silkworm Gu** | O nome, o rank, que tem "aguda força de ataque", a receita pelo material insubstituível (grama Jinzan, quatro anos de crescimento) e o **efeito estratégico** — armou um clã inteiro e mudou o equilíbrio militar de uma montanha. | **A mecânica do ataque.** Sabe-se o que ele fez a uma guerra e não o que ele faz a uma pessoa. |
+| **Golden Silkworm Gu** | O nome, o rank, que tem "aguda força de ataque", uma linha de mecânica (**vira um raio de luz e investe**), a receita pelo material insubstituível (grama Jinzan, quatro anos de crescimento) e o **efeito estratégico** — armou o clã Jin, que com ele eliminou o clã Huang e tomou a montanha Huang Jin. | **O número.** Quanto o raio fere, a que distância, quantos por ativação, a que custo de essência. |
 | **Thunder Roar Gu** | O nome, a faixa (ranks 2 a 3, ded.), o hospedeiro selvagem e a **natureza do dano**: mata por vibração sonora, em contraste declarado com o Soundwave Gu, que empurra. | Alcance, dano, e se existe defesa possível. |
 | **Muffled Thunder Potato Gu** | O nome, o rank, a família (minas enterradas), o uso em massa e o degrau seguinte (*Thunderclap Potato Gu*, rank 4). | A força da explosão, o raio, o gatilho, a receita. |
 | **Human Medicine Gu** | O nome, o rank, o efeito (**aumenta o tempo de vida**, uso único) e o processo de produção em detalhe cruel — uma criança humana como material principal, cultivada por anos. | **As "enormes desvantagens"**, que a obra menciona e não descreve. Quantos anos ele dá também não é dito. |
@@ -4988,7 +5075,7 @@ Onde a coluna diz "série", o Gu não evolui: ele coexiste com os irmãos de out
 |---|---|---|---|
 | Starlight Firefly Gu | Suporte | A única fonte portátil de **luz estelar verdadeira**; quinhentos sustentam um portão estelar por pouco tempo, e **não se reproduzem**. | Não citada |
 | Star Shoot Gu | Suporte | **Munição** de golpes estelares, gasta aos quinhentos por acionamento; adulterado de propósito para impedir engenharia reversa. | Não citada (há versão imortal) |
-| Three Stars in the Sky Gu | Suporte | Nome e rank; a obra não descreve o efeito. | Não citada |
+| Three Stars in the Sky Gu | Suporte | Terceiro degrau da escada de cinco de Dou Min Jun: **amplifica os Gu do caminho das estrelas**, com materiais comuns e alta taxa de sucesso; nunca entrou em circulação. | Série (os cinco degraus são receitas próprias) |
 
 ## Caminho do homem
 
@@ -5002,7 +5089,7 @@ Onde a coluna diz "série", o Gu não evolui: ele coexiste com os irmãos de out
 |---|---|---|---|
 | Hand Blade Gu | Ataque | Bordas das palmas viram lâminas; **Gu-núcleo** de um conjunto corpo a corpo, e pode ser tomado pelo vencedor de um duelo. | Não citada |
 | Iron Hand Gu | Ataque | Mãos de ferro; sozinho só endurece — **serve de base** ao hand blade, e a ordem de ativação importa. | Não citada |
-| Golden Silkworm Gu | Ataque | Ataque agudo barato o bastante para **armar um clã inteiro**; depende de uma grama de quatro anos de crescimento. | Não citada |
+| Golden Silkworm Gu | Ataque | Vira um **raio de luz** e investe; barato o bastante para armar o clã Jin inteiro, que com ele tomou a montanha Huang Jin. Depende de uma grama de quatro anos de crescimento. | Não citada |
 | Gold Eating Flying Ant Gu | Ataque | Enxame que **devora metal** e desfaz contenções metálicas; vendido em lotes de mais de cem. | Não citada |
 
 ## Caminho do vento

@@ -13,7 +13,7 @@ aliases:
   - Land Spirit
   - Espírito da Terra
 status: consolidado
-fontes: ["cap. 325", "cap. 346", "cap. 350", "cap. 366", "cap. 372", "cap. 374", "cap. 375", "cap. 379", "cap. 380", "cap. 383", "cap. 389", "cap. 433", "cap. 461", "cap. 466", "cap. 492", "cap. 601", "cap. 608", "cap. 610", "cap. 633", "cap. 690", "cap. 700", "cap. 726", "cap. 731", "cap. 740", "cap. 795", "cap. 851", "cap. 866", "cap. 879", "cap. 880", "cap. 897", "cap. 901", "cap. 939", "cap. 1027", "cap. 1119", "cap. 1131", "cap. 1152", "cap. 1163", "cap. 1167", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1211", "cap. 1217", "cap. 1228", "cap. 1400", "cap. 1449", "cap. 1461", "cap. 1487", "cap. 1489"]
+fontes: ["cap. 325", "cap. 346", "cap. 350", "cap. 366", "cap. 372", "cap. 374", "cap. 375", "cap. 379", "cap. 380", "cap. 383", "cap. 389", "cap. 433", "cap. 461", "cap. 466", "cap. 492", "cap. 601", "cap. 608", "cap. 610", "cap. 633", "cap. 690", "cap. 700", "cap. 726", "cap. 731", "cap. 740", "cap. 795", "cap. 851", "cap. 866", "cap. 879", "cap. 880", "cap. 897", "cap. 901", "cap. 939", "cap. 1027", "cap. 1119", "cap. 1131", "cap. 1152", "cap. 1163", "cap. 1167", "cap. 1184", "cap. 1187", "cap. 1206", "cap. 1211", "cap. 1217", "cap. 1228", "cap. 1400", "cap. 1449", "cap. 1461", "cap. 1487", "cap. 1489", "cap. 1783"]
 conhecimento: especializado
 ---
 
@@ -79,7 +79,7 @@ Esta tabela é reprodução de [[02 - Tabelas de Referência Rápida#9. Grades d
 daquela nota. O que decide a grade não é a aptidão do mortal e sim o **qi humano** que ele
 acumulou nos ranks 1 a 5 — a soma de tudo o que ele foi, fez, compreendeu e sofreu.
 
-Para escala: a dimensão mais extraordinária documentada na obra passa de **335 mil km² organizados em dez camadas** — uma ordem de grandeza inteiramente fora da tabela.
+Para escala: a dimensão mais extraordinária documentada na obra é a **sovereign immortal aperture** (abertura imortal soberana), produzida artificialmente pelo **sovereign immortal fetus Gu** de rank 9 em vez de nascer de uma ascensão normal, e passa de **335 mil km² organizados em dez camadas** — uma ordem de grandeza inteiramente fora da tabela.
 
 > [!warning] "Decidido na ascensão" quer dizer o **potencial**, não o estado atual
 > Este é o ponto que mais confunde, porque duas afirmações verdadeiras parecem se contradizer:
@@ -212,9 +212,9 @@ O subproduto é o fenômeno mais temido do mundo: os **ventos de assimilação**
 
 Uma ressalva registrada: os ventos **não** disparam automaticamente com a morte de todo dono — a condição exata não é especificada. E donos previdentes esvaziam ou destroem os próprios recursos antes de morrer, deixando ao assassino uma terra vazia.
 
-### 3. Supressão forçada
+### 3. Supressão forçada — *blood light spirit suppression*
 
-Existe um golpe imortal específico que **neutraliza a resistência do espírito sem cumprir a condição**, permitindo a anexação normal. O espírito sobrevive, mas fica **não cooperativo** — chora e não obedece. É a via do saqueador competente: você fica com a terra e não fica com o funcionário.
+O golpe imortal **Blood Light Spirit Suppression** ("supressão de espírito por luz de sangue"), do caminho do sangue, **neutraliza a resistência do espírito da terra sem cumprir a condição de reconhecimento**, e a partir daí a anexação segue as regras normais. O espírito sobrevive, mas fica **não cooperativo** — chora e não obedece. É a via do saqueador competente: você fica com a terra e não fica com o funcionário. E note o encaixe com a regra de anexação logo abaixo: suprimir o espírito **não** dispensa o nível de realização exigido na disciplina da terra; há registro de terras suprimidas que o conquistador não pôde anexar e teve de simplesmente deixar de lado.
 
 ### Anexação: engolir uma dimensão com a sua
 

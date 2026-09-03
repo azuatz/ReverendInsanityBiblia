@@ -8,7 +8,7 @@ aliases:
   - Eventos jogáveis
   - Inheritance trials
 status: consolidado
-fontes: ["cap. 46-47", "cap. 60-61", "cap. 79", "cap. 122", "cap. 149", "cap. 164-165", "cap. 173", "cap. 178-189", "cap. 192", "cap. 215-224", "cap. 240", "cap. 253-256", "cap. 265", "cap. 279-280", "cap. 296", "cap. 301", "cap. 315-328", "cap. 324", "cap. 416-418", "cap. 443-444", "cap. 461-465", "cap. 469", "cap. 489-501", "cap. 516-522", "cap. 536-546", "cap. 556-562", "cap. 585", "cap. 597", "cap. 828-859", "cap. 900", "cap. 912-916", "cap. 922", "cap. 961-964", "cap. 980", "cap. 998", "cap. 1115-1128", "cap. 1638-1644", "cap. 1698", "cap. 1888-1916", "cap. 1976", "cap. 2067", "cap. 2099", "cap. 2139"]
+fontes: ["cap. 46-47", "cap. 60-61", "cap. 79", "cap. 122", "cap. 149", "cap. 164-165", "cap. 173", "cap. 178-189", "cap. 183", "cap. 192", "cap. 215-224", "cap. 240", "cap. 253-256", "cap. 265", "cap. 279-280", "cap. 296", "cap. 301", "cap. 315-328", "cap. 324", "cap. 407", "cap. 416-418", "cap. 443-444", "cap. 461-465", "cap. 469", "cap. 489-501", "cap. 516-522", "cap. 536-546", "cap. 556-562", "cap. 585", "cap. 597", "cap. 828-859", "cap. 900", "cap. 912-916", "cap. 922", "cap. 961-964", "cap. 980", "cap. 998", "cap. 1115-1128", "cap. 1638-1644", "cap. 1698", "cap. 1888-1916", "cap. 1976", "cap. 2014", "cap. 2067", "cap. 2099", "cap. 2139"]
 conhecimento: comum
 ---
 
@@ -93,9 +93,10 @@ Esta é a diferença que define o tom de uma aventura:
 
 ### O ruído do mercado
 
-Uma figura histórica espalhou **centenas de milhares de heranças falsas** pelo mundo, com
-pouquíssimas verdadeiras entre elas. Uma potência comercial inteira, ao longo de gerações
-de busca, encontrou apenas duas verdadeiras. Isso significa que, numa campanha, a pergunta
+O ==Ancestral do Mar de Sangue== (*Blood Sea Ancestor*), criador do [[03 - Blood Path|caminho do
+sangue]], espalhou **centenas de milhares de sítios de herança** pelas cinco regiões e escondeu
+entre eles apenas **nove verdadeiros** — o resto é isca. O clã Shang, a maior casa mercantil da
+Fronteira Sul, procurou-os por gerações e achou **dois**. Isso significa que, numa campanha, a pergunta
 "esta herança é real?" é sempre legítima — e que vender a *localização* de uma herança pode
 ser mais lucrativo e infinitamente mais seguro que explorá-la.
 
@@ -114,9 +115,9 @@ ser mais lucrativo e infinitamente mais seguro que explorá-la.
   Prêmios em dinheiro e em prioridade de escolha de Gu e de grupo.
 - **Salões de ascensão** — em pelo menos um grande clã, treze arenas internas pelas quais se
   sobe na hierarquia por mérito de combate.
-- **Provas de sucessão comercial** — num clã mercantil, o teste de admissão ao cargo de
-  jovem mestre é puramente econômico: cada candidato recebe **cem mil pedras primordiais**
-  de capital inicial e **três meses** para multiplicá-lo. Os recordes históricos são conhecidos e comentados como recordes
+- **Provas de sucessão comercial** — no **clã Shang**, a casa mercantil da Fronteira Sul, o
+  teste de admissão ao cargo de jovem mestre é puramente econômico: cada candidato recebe **cem
+  mil pedras primordiais** de capital inicial e **três meses** para multiplicá-lo. Os recordes históricos são conhecidos e comentados como recordes
   esportivos, e a fraude contábil é punida mesmo em filhos do líder.
 
 ### Torneios entre organizações
@@ -146,8 +147,9 @@ Uma carreira completa, não um passatempo. Regras do modelo mais bem documentado
 | Prêmio | Um Gu do perdedor — e tudo, se o perdedor morrer |
 | Morte | Permitida, mas socialmente malvista |
 
-**O prêmio real não é o dinheiro:** dominar a arena transforma um cultivador demoníaco em
-ancião externo do clã anfitrião — uma porta institucional de reabilitação social. Ver
+**O prêmio real não é o dinheiro:** o modelo descrito acima é a arena da cidade do **clã
+Shang**, e chegar ao topo dela transforma um cultivador demoníaco em ancião externo do clã
+anfitrião — uma porta institucional de reabilitação social. Ver
 [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]].
 
 ## Caçadas e eventos de campo
@@ -176,8 +178,9 @@ ancião externo do clã anfitrião — uma porta institucional de reabilitação
   abatida valia mais que tudo o que se perdeu.
 - **Pedágios rituais** — passagens guardadas por criaturas que exigem uma prova específica.
   O caso mais bem documentado é uma cordilheira inteira em que cada bando de guardiões
-  mantém o próprio posto de cobrança: disputa-se uma queda de braço, e a caravana que vence
-  passa livre enquanto a que perde entrega parte da carga. Usar um Gu na disputa conta como
+  mantém o próprio posto de cobrança: disputa-se uma **queda de braço**, e a caravana que vence
+  passa livre enquanto a que perde entrega parte da carga; a travessia completa leva mais de
+  vinte dias e várias disputas. Usar um Gu na disputa conta como
   trapaça. A instituição existe porque um cultivador de rank 5 abriu a rota gerações atrás
   vencendo o líder dos guardiões no próprio jogo deles. Ver
   [[08 - Crime, Mercado Negro e Recompensas|Crime, Mercado Negro e Recompensas]].
@@ -186,17 +189,22 @@ ancião externo do clã anfitrião — uma porta institucional de reabilitação
 
 Certas heranças viraram **instituições permanentes**, com calendário e burocracia:
 
-- **Uma estrutura de cem rodadas em oitenta e oito andares**, que abre num período
-  específico. O acesso se dá por ficha de proprietário (automática para quem tem a linhagem
+- **O Edifício dos Oitenta e Oito Yang Verdadeiros** (*Eighty-Eight True Yang Building*), a
+  Casa de Gu Imortal de rank 8 que **Giant Sun Immortal Venerable** deixou dentro da abertura
+  imortal que serve de trono às Planícies do Norte: cem rodadas distribuídas por oitenta e oito
+  andares, e ela só se ergue durante a nevasca decenal — fora dela, está desmontada em pequenas
+  torres espalhadas pelo terreno. O acesso se dá por ficha de proprietário (automática para quem tem a linhagem
   certa) ou por ficha de convidado — de uso único e tão escassa que uma abertura pública
   inteira produziu apenas sete delas. Cada rodada tem três graus de avaliação, e há uma sala
   de tesouro onde se trocam itens por valor equivalente. O detalhe político: **o soberano da
   região pode vender o acesso** — com cota diária, taxa crescente e juramento de partilha
   dos ganhos — e pode fechá-lo unilateralmente.
-- **Uma [[13 - Blessed Lands e Grotto-Heavens|gruta-céu]] pública que abre uma vez a cada mil
-  anos** — gruta-céu é o mundo em miniatura, com céu, terra e tempo próprios, em que a
-  abertura de um Gu Imortal se transforma a partir do rank 8; algumas ficaram sem dono e
-  viraram território público. Os recursos escalonam em valor conforme se aproxima do
+- **A [[13 - Blessed Lands e Grotto-Heavens|gruta-céu]] pública dos Cinco Xiang, que abre uma
+  vez a cada mil anos** — gruta-céu é o mundo em miniatura, com céu, terra e tempo próprios, em
+  que a abertura de um Gu Imortal se transforma a partir do rank 8. Esta tem **cinco áreas**,
+  uma para cada linhagem descendente dos cinco imortais de rank 8 que fizeram a aposta milenar
+  da Fronteira Sul, todas ligadas a um salão central onde fica o prêmio final — e onde o selo
+  deles impede qualquer luta. Ver [[02 - Fronteira Sul|Fronteira Sul]]. Os recursos escalonam em valor conforme se aproxima do
   centro, e cada faixa é defendida por criaturas mais fortes.
 
 ## Convenções e competições formais
@@ -246,11 +254,12 @@ de campanha" do cenário:
 
 ## Grandes ciclos regionais
 
-### A disputa decenal pelo trono
+### A disputa decenal pelo trono da Corte Imperial
 
 O evento mais completo do cenário como estrutura de campanha longa. A cada dez anos, com a
-aproximação de um inverno catastrófico, as tribos de uma região inteira disputam o acesso a
-um refúgio de cota limitada. O ciclo:
+aproximação da grande nevasca, as tribos das **Planícies do Norte** disputam o acesso à **Terra
+Abençoada da Corte Imperial** — o refúgio de cota limitada que Giant Sun deixou para os
+descendentes. Ver [[03 - Planícies do Norte|Planícies do Norte]]. O ciclo:
 
 1. **Assembleias de heróis** simultâneas nas regiões famosas. Tribos pequenas querem
    sobreviver, médias querem subir, grandes querem defender a posição. Caminho correto e
@@ -297,8 +306,9 @@ escalas:
    venda de conhecimento; gasto em artefatos do tesouro, aluguel de artefatos, acervo de
    livros e aulas com especialistas. Ranking público de todos os membros.
 2. **Méritos de batalha** — a versão de guerra, descrita acima.
-3. **O obelisco de mérito** — a versão mais elaborada, dentro de uma herança antiga: uma
-   hierarquia de missões por porte, **títulos comprados como desbloqueios** (destravar
+3. **O Obelisco do Mérito** — a versão mais elaborada, dentro do **Paraíso da Baleia-Dragão**,
+   a herança que **Paradise Earth Immortal Venerable** guardou dentro do corpo de uma
+   baleia-dragão azul imemorial, no Mar Oriental: uma hierarquia de missões por porte, **títulos comprados como desbloqueios** (destravar
    missões maiores, poder compartilhar missões, poder se comunicar com o grupo, remover
    restrições contratuais, teleportar-se na saída), **saldo negativo** por fracasso
    catastrófico com prazo curto para recuperação sob pena de expulsão, **expiração da moeda

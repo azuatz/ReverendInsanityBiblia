@@ -10,7 +10,7 @@ aliases:
   - Lesão de abertura
   - Contaminação da abertura
 status: consolidado
-fontes: ["cap. 50", "cap. 140", "cap. 145", "cap. 152", "cap. 159", "cap. 188", "cap. 192", "cap. 198", "cap. 216", "cap. 273", "cap. 331", "cap. 440", "cap. 445", "cap. 450", "cap. 468", "cap. 495", "cap. 504", "cap. 606", "cap. 650", "cap. 658", "cap. 850", "cap. 1058", "cap. 1376", "cap. 1646", "cap. 1852"]
+fontes: ["cap. 50", "cap. 140", "cap. 145", "cap. 152", "cap. 159", "cap. 188", "cap. 192", "cap. 198", "cap. 216", "cap. 273", "cap. 331", "cap. 440", "cap. 445", "cap. 450", "cap. 468", "cap. 495", "cap. 504", "cap. 606", "cap. 650", "cap. 658", "cap. 850", "cap. 1058", "cap. 1376", "cap. 1646", "cap. 1852", "cap. 187", "cap. 195", "cap. 490", "cap. 767"]
 conhecimento: comum
 ---
 
@@ -40,9 +40,9 @@ Isso conversa diretamente com [[12 - Longevidade|Longevidade]]: tempo de vida é
 
 Esta é a mais interessante das cinco, porque é puramente mecânica e completamente previsível — logo, jogável.
 
-Vários métodos deste mundo **empurram artificialmente** o cultivo para cima: um deles endurece a parede da abertura em pedra, saltando direto ao estágio de pico. Se depois disso um método **de rank superior** agir sobre a mesma abertura, ele **sobrepõe** o primeiro. O efeito anterior é desfeito, a parede volta ao material que teria naturalmente — e todo o cultivo que aquele efeito sustentava **evapora junto**.
+Vários métodos deste mundo **empurram artificialmente** o cultivo para cima: o **Stone Aperture Gu (Gu da Abertura de Pedra)**, por exemplo, se desfaz num pó cinza que impregna a parede da abertura e a engrossa de membrana de luz para pedra, saltando direto ao estágio de pico. Se depois disso um método **de rank superior** agir sobre a mesma abertura, ele **sobrepõe** o primeiro. O efeito anterior é desfeito, a parede volta ao material que teria naturalmente — e todo o cultivo que aquele efeito sustentava **evapora junto**.
 
-O caso documentado é brutal e vale como parábola: um cultivador que havia forçado a própria abertura até o pico do rank 3 recebeu, em seguida, um efeito de rank 4 que elevava sua aptidão. A aptidão saltou de pouco mais de 40% para mais de 90% — e o cultivo despencou de **rank 3 para rank 1 inicial**, com a parede voltando de pedra para luz. Ele saiu do episódio com um teto de carreira muito maior e um poder atual muito menor.
+O caso documentado é brutal e vale como parábola: um cultivador que havia forçado a própria abertura até o pico do rank 3 com o Stone Aperture Gu recebeu, em seguida, o **Blood Skull Gu (Gu do Crânio de Sangue)**, um Gu de rank 4 que despeja na abertura o sangue purificado de parentes consanguíneos mortos e o converte em aptidão. A aptidão saltou de pouco mais de 40% para mais de 90% — e o cultivo despencou de **rank 3 para rank 1 inicial**, com a parede voltando de pedra para luz. Ele saiu do episódio com um teto de carreira muito maior e um poder atual muito menor.
 
 > [!warning] A regra por trás disso
 > Efeitos permanentes gravados num corpo são **leis** se sobrepondo. Leis de rank maior mandam nas de rank menor, e quando a de baixo é desfeita, tudo o que ela segurava cai. É a mesma lógica que faz Gu de cura falharem num corpo entupido de reforço de força — ver [[16 - Dao Marks|Dao Marks]] e [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]]. Se você adotar métodos de avanço forçado na sua mesa, adote junto esta consequência: **atalhos empilhados brigam entre si**.
@@ -55,7 +55,7 @@ Energia que não é sua, dentro da sua abertura, é veneno lento. Essência alhe
 
 O caso terminal. A abertura completamente estilhaçada mata o Mestre Gu na hora — com uma exceção deliberada, que é a [[14 - Ascensão Imortal|ascensão imortal]], em que estilhaçá-la é o objetivo. Um Gu Imortal que perde a abertura imortal perde junto **todos os recursos guardados dentro dela**, o que faz de cada provação um risco patrimonial e não apenas físico.
 
-E existe o caminho de volta mais caro do mundo: um imortal que perdeu a própria abertura precisa **refazer a escada inteira**, do rank 1 ao 6, usando um conjunto completo de Gu de segunda abertura, um por rank, até formar um novo mundo pessoal e só então voltar ao patamar que tinha. Não há atalho.
+E existe o caminho de volta mais caro do mundo: um imortal que perdeu a própria abertura precisa **refazer a escada inteira**, do rank 1 ao 6, usando um **conjunto completo de Second Aperture Gu (Gu da Segunda Abertura), um por rank**, até formar um novo mundo pessoal e só então voltar ao patamar que tinha. O Gu original é imortal e de rank 6, mas foi convertido numa série mortal de rank 1 a 6, cada exemplar abrindo uma abertura que sustenta o rank correspondente. Usá-lo dispensa energia: pinga-se sangue sobre o Gu, alimenta-se até ele ficar cheio, e ele **se autodetona** abrindo a cavidade nova. Não há atalho: quem só tem o exemplar de rank 1 volta a ser um Mestre Gu de rank 1.
 
 ## O que volta e o que não volta
 
@@ -67,14 +67,14 @@ Esta é a tabela que a mesa vai consultar.
 | Cultivo caído por **velhice** | **Não**, pela via normal | só um item que devolva juventude reverte o quadro; ver [[12 - Longevidade\|Longevidade]] |
 | Cultivo desfeito por **sobreposição de efeitos** | **Sim, como cultivo** | mas o efeito artificial perdido não volta; a subida seguinte é pela via normal |
 | **Contaminação** por essência alheia ou resíduo | **Parcialmente** | dois métodos, abaixo |
-| **Aptidão** derrubada por dano estrutural | **Quase nunca** | uma técnica proibida rebaixou permanentemente um grau A a grau B; a cura devolve a porcentagem, mas as rachaduras podem ficar |
+| **Aptidão** derrubada por dano estrutural | **Quase nunca** | uma **técnica proibida** — a família de golpes de desespero que compra força de combate explosiva pagando com o tempo de vida ou com a morte certa do usuário — encheu a abertura de rachaduras e rebaixou permanentemente um grau A a grau B; a cura devolve a porcentagem, mas as rachaduras podem ficar |
 | **Abertura destruída** | **Não** | morte, ou a reconstrução completa descrita acima |
 
 ### Os dois métodos de limpeza
 
 **O caseiro, gratuito e parcial.** Qualquer Mestre Gu consegue **expulsar do corpo toda a própria essência primordial** e reformá-la do zero, absorvendo [[02 - Pedras Primordiais|pedras primordiais]]. Cada rodada reduz a impureza aproximadamente pela metade: a primeira reforma tira metade, a segunda tira metade do que sobrou, e assim por diante — até chegar a um **traço residual que nenhuma repetição adicional remove**. É lento, custa pedras e não resolve o problema por completo, mas está ao alcance de qualquer personagem, imediatamente, sem depender de item raro.
 
-**O definitivo, raríssimo.** Um Gu de limpeza específico lava as paredes da abertura e remove a impureza de verdade. É objeto de campanha, não de inventário: aparece em leilão, some para uma facção rica, e vale tanto para curar quanto para **apagar a evidência** de que alguém foi dopado antes de uma avaliação pública.
+**O definitivo, raríssimo.** O ==Cleansing Water Gu (Gu da Água Purificadora)== lava as paredes da abertura e remove a impureza de verdade. É objeto de campanha, não de inventário: aparece em leilão, some para uma facção rica, e vale tanto para curar quanto para **apagar a evidência** de que alguém foi dopado antes de uma avaliação pública.
 
 > [!note] Para o design
 > Repare no desenho: existe uma solução acessível que **quase** resolve, e uma solução perfeita que praticamente não existe. Isso é melhor do que qualquer uma das duas sozinha, porque garante que o personagem sempre possa fazer *alguma coisa* — e garante que ele nunca fique satisfeito. O traço residual que não sai é uma cicatriz permanente com número, e o Gu que a removeria é um objetivo de arco inteiro.

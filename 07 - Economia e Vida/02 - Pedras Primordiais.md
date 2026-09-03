@@ -7,7 +7,7 @@ aliases:
   - Primeval Stones
   - Pedras Primordiais
 status: consolidado
-fontes: ["cap. 4", "cap. 5", "cap. 8", "cap. 10", "cap. 11", "cap. 12", "cap. 17-18", "cap. 23", "cap. 28-29", "cap. 34", "cap. 39-45", "cap. 43", "cap. 50", "cap. 53", "cap. 64", "cap. 111-113", "cap. 126", "cap. 132-133", "cap. 156", "cap. 158", "cap. 161-163", "cap. 182", "cap. 197", "cap. 241", "cap. 259-263", "cap. 271", "cap. 277-282", "cap. 292-296", "cap. 302-309", "cap. 320", "cap. 330", "cap. 421", "cap. 422", "cap. 424", "cap. 427-428", "cap. 441", "cap. 448-450", "cap. 466", "cap. 477-481", "cap. 501", "cap. 517", "cap. 554-558", "cap. 1155", "cap. 1973", "cap. 2297"]
+fontes: ["cap. 4", "cap. 5", "cap. 8", "cap. 10", "cap. 11", "cap. 12", "cap. 17-18", "cap. 23", "cap. 28-29", "cap. 34", "cap. 39-45", "cap. 43", "cap. 50", "cap. 53", "cap. 64", "cap. 111-113", "cap. 126", "cap. 132-133", "cap. 156", "cap. 158", "cap. 161-163", "cap. 163", "cap. 180", "cap. 182", "cap. 187", "cap. 197", "cap. 241", "cap. 259-263", "cap. 268", "cap. 271", "cap. 277-282", "cap. 286", "cap. 292-296", "cap. 302-309", "cap. 320", "cap. 330", "cap. 421", "cap. 422", "cap. 424", "cap. 427-428", "cap. 441", "cap. 448-450", "cap. 466", "cap. 477-481", "cap. 501", "cap. 517", "cap. 554-558", "cap. 558", "cap. 1155", "cap. 1973", "cap. 2297"]
 conhecimento: misto — a nota inteira é `comum` (material de manual do jogador), exceto o aviso "Só para o mestre: o que mais existe dentro da pedra", que é `segredo`
 ---
 
@@ -300,15 +300,24 @@ organização está secando é segredo de Estado, e já valeu extorsões da orde
 
 Duas notas técnicas com consequências grandes:
 
-- **Existe uma versão portátil.** Um Gu raríssimo condensa uma nascente inteira em algo
-  transportável — mas extraí-lo **mata a nascente para sempre**. É a decisão de trocar a
-  renda perpétua de uma comunidade por um ativo único e móvel, e o precedente documentado
-  destruiu a base econômica de uma região.
-- **Existe uma versão plantável.** Um Gu de rank alto, obtido de certa raça variante,
-  quando plantado **gera** uma nascente nova. Uma nascente pequena dura de cinquenta a
-  sessenta anos e produz mais de cem milhões de pedras ao longo da vida útil; as médias
-  passam de um século; as grandes duram séculos. Ativar o Gu exige a energia de um
-  cultivador de rank 5.
+- **Existe uma versão portátil: o ==Heavenly Essence Treasure Lotus==** (Lótus do Tesouro da
+  Essência Celeste), um Gu-flor de rank 3 apelidado no próprio mundo de "nascente espiritual
+  portátil". A habilidade inata dele é **produzir essência primordial natural**, que se condensa
+  em pedras primordiais — ou seja, ele é uma nascente que cabe na mão. Enquanto fica submerso na
+  nascente, ele repõe o que o clã extrai; **retirá-lo de lá inutiliza a nascente para sempre**, e
+  devolvê-lo depois não a ressuscita. É a decisão de trocar a renda perpétua de uma comunidade
+  por um ativo único e móvel, e o precedente documentado destruiu a base econômica de uma região.
+  Evoluí-lo até o exemplar de rank 6, o **Heavenly Essence Treasure Imperial Lotus** — sexto na
+  Lista dos Dez Grandes Gu Imortais —, custa **consumir uma nascente natural inteira e cheia**:
+  nascente velha e seca não serve, e ao fim do refino a nascente usada é destruída.
+- **Existe uma versão plantável: o ==spring egg Gu==** (Gu do Ovo de Nascente), obtido de uma
+  raça variante, que **plantado gera uma nascente nova**. A boca da nascente se forma em quatro
+  ou cinco dias, e a primeira leva de pedras se condensa alguns meses depois. Uma nascente
+  pequena dura de cinquenta a sessenta anos e produz **pelo menos cem milhões de pedras** ao
+  longo da vida útil; as médias passam de um século; as grandes duram séculos. Por isso o preço
+  do Gu é declaradamente **maior que cem milhões de pedras**, e os Gu Imortais o compram
+  rotineiramente para plantar dentro das próprias terras abençoadas. Ativar o Gu exige a energia
+  de um cultivador de rank 5.
 
 > [!note] Para o design
 > "Plantar uma nascente" é um objetivo de campanha perfeito para um grupo de nível médio:
@@ -514,9 +523,12 @@ estão em pedras primordiais**, sem exceção:
   de um ovo de pato; um saco de mão comporta cerca de cem, e dez mil pedras são carga para
   vários carregadores. Por isso a capacidade do Gu de armazenamento é, na prática, o teto
   de quanto um personagem consegue movimentar: um Gu de armazenamento comum de rank 3
-  guarda **30.000 pedras**, e o Gu especializado em dinheiro — uma esfera translúcida com
-  a imagem de um velho feito de nuvens dentro, cuja **expressão muda conforme o saldo** —
-  guarda **um milhão** e custa cerca de 6.600 em leilão. É o extrato bancário mais bonito
+  guarda **30.000 pedras**, e o Gu especializado em dinheiro, o ==primeval elder Gu== (Gu do Ancião
+  Primordial), **também de rank 3**, guarda **um milhão** e custa cerca de 6.600 em leilão. Ele é
+  uma bola de cristal meio transparente com um **velho feito de nuvens** lá dentro: o velho
+  **sorri quando há muitas pedras** e **chora quando há poucas**, e quando o dono torra várias
+  centenas de milhares de uma vez o velhinho aparece **encurvado, com cara de dor e de
+  preocupação**. É o extrato bancário mais bonito
   que um cenário de fantasia já teve.
 - **Crises monetizam-se sozinhas.** Quando uma emergência força todo mundo a cultivar ao
   mesmo tempo, as pedras somem de circulação — a demanda por combustível engole a oferta de

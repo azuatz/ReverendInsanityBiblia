@@ -200,7 +200,7 @@ Corrigindo a intuição errada (e uma versão anterior desta nota), a regra can�
 > caminho da sabedoria e o caminho da regra tinham a maior facilidade**. Quanto aos outros caminhos,
 > eles tinham de **alcançar certo nível de imitação desses caminhos** para deixar o seu significado
 > verdadeiro. Por exemplo, o significado verdadeiro de refino de um ancestral, ou o significado
-> verdadeiro de transformação de um Venerável Demônio.
+> verdadeiro de transformação de um Venerável Demônio [o Reckless Savage Demon Venerable].
 
 E a razão de fundo: *o significado verdadeiro envolve a **"verdade" do caminho da regra**, bem como a
 **vontade do caminho da sabedoria***. Os praticantes desses dois caminhos são também *mais hábeis em

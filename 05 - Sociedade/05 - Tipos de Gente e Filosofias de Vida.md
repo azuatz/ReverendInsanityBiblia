@@ -465,11 +465,11 @@ posição nº 1.
 
 ### 4. O sacrifício pela humanidade
 
-**Quem sustenta.** A instituição máxima do caminho correto e seus maiores nomes.
+**Quem sustenta.** O [[19 - Tribunal Celestial|Tribunal Celestial]] e seus maiores nomes.
 
 **O argumento.** O caminho correto não é glória e reputação — é **preço**. Manter a ordem
 exige pagamento e sacrifício, e quem não tem essa mentalidade sacrificial simplesmente não
-tem qualificação para entrar. Um dos maiores nomes da instituição jura perseverar até
+tem qualificação para entrar. Um dos maiores nomes do Tribunal jura perseverar até
 morrer, contribuindo cada gota do próprio sangue e suor pela humanidade e pelo futuro; e,
 diante do erro de um discípulo, assume o erro como pecado próprio e promete pagar por ele
 com todas as forças.
@@ -482,8 +482,8 @@ nos dois sentidos.
   genuíno. Uma das cenas mais tristes do material é a de alguém dizendo a uma imortal que
   ela sacrificou demais pela humanidade e que está na hora de viver para si — e a resposta:
   *"por uma vez, eu também quero ser egoísta"*.
-- A obra **também** mostra a mesma instituição cometendo atrocidades e manipulando o mundo
-  inteiro. Ver [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
+- A obra **também** mostra o mesmo Tribunal Celestial cometendo atrocidades e manipulando o
+  mundo inteiro. Ver [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
 
 As duas coisas são verdadeiras ao mesmo tempo, e é essa simultaneidade que faz a posição
 funcionar dramaticamente: **a convicção é real e os crimes também**.
@@ -495,8 +495,8 @@ funcionar dramaticamente: **a convicção é real e os crimes também**.
 > mundo, quase ninguém conhece. Ver [[16 - Fate Gu|Fate Gu]] e [[15 - Vontade dos Céus|Vontade dos Céus]]. Para jogadores,
 > apresente esta posição apenas como uma discussão filosófica abstrata sobre destino.
 
-**Quem sustenta.** Discípulos da própria instituição do caminho correto — inclusive uma
-jovem gênio impecavelmente "do lado bom".
+**Quem sustenta.** Discípulos do próprio Tribunal Celestial — inclusive uma jovem gênio
+impecavelmente "do lado bom".
 
 **O argumento.** *"Por que temos de aceitar os arranjos do destino? Se não houvesse
 destino, o mundo realmente cairia no caos? Não é possível que o mundo se tornasse um lugar

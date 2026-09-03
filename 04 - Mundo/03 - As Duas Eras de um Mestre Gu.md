@@ -14,7 +14,7 @@ aliases:
   - Onde ficam os imortais
   - O que os imortais fazem
 status: consolidado
-fontes: ["cap. 29", "cap. 39", "cap. 43", "cap. 46", "cap. 55", "cap. 64", "cap. 65", "cap. 87", "cap. 124", "cap. 148", "cap. 155", "cap. 161", "cap. 209", "cap. 216", "cap. 228", "cap. 258", "cap. 275", "cap. 278", "cap. 281", "cap. 325", "cap. 335", "cap. 341", "cap. 370", "cap. 373", "cap. 379", "cap. 383", "cap. 419", "cap. 421", "cap. 439", "cap. 466", "cap. 470", "cap. 477", "cap. 481", "cap. 514", "cap. 519", "cap. 523-525", "cap. 545", "cap. 552", "cap. 570", "cap. 597", "cap. 606-611", "cap. 627-633", "cap. 638", "cap. 666", "cap. 691", "cap. 729", "cap. 749", "cap. 750", "cap. 780", "cap. 892-893", "cap. 899", "cap. 911", "cap. 944", "cap. 954", "cap. 956", "cap. 966", "cap. 1069-1070", "cap. 1077", "cap. 1089", "cap. 1109-1110", "cap. 1163", "cap. 1167", "cap. 1180", "cap. 1184-1187", "cap. 1206", "cap. 1221", "cap. 1235", "cap. 1291", "cap. 1301", "cap. 1339", "cap. 1345", "cap. 1367", "cap. 1429", "cap. 1459", "cap. 1461", "cap. 1467", "cap. 1470", "cap. 1489", "cap. 1608", "cap. 1681", "cap. 1791", "cap. 1966", "cap. 2071", "cap. 2085", "cap. 2099", "cap. 2139", "cap. 2246", "cap. 2253", "cap. 2257", "cap. 2288"]
+fontes: ["cap. 29", "cap. 39", "cap. 43", "cap. 46", "cap. 55", "cap. 64", "cap. 65", "cap. 87", "cap. 124", "cap. 148", "cap. 155", "cap. 161", "cap. 209", "cap. 216", "cap. 228", "cap. 258", "cap. 275", "cap. 278", "cap. 281", "cap. 325", "cap. 335", "cap. 341", "cap. 370", "cap. 373", "cap. 379", "cap. 383", "cap. 419", "cap. 421", "cap. 439", "cap. 466", "cap. 470", "cap. 477", "cap. 481", "cap. 514", "cap. 519", "cap. 523-525", "cap. 545", "cap. 552", "cap. 570", "cap. 597", "cap. 606-611", "cap. 627-633", "cap. 638", "cap. 666", "cap. 691", "cap. 729", "cap. 749", "cap. 750", "cap. 780", "cap. 892-893", "cap. 899", "cap. 911", "cap. 944", "cap. 954", "cap. 956", "cap. 966", "cap. 1069-1070", "cap. 1077", "cap. 1089", "cap. 1109-1110", "cap. 1163", "cap. 1167", "cap. 1180", "cap. 1184-1187", "cap. 1206", "cap. 1221", "cap. 1235", "cap. 1291", "cap. 1301", "cap. 1339", "cap. 1345", "cap. 1367", "cap. 1429", "cap. 1459", "cap. 1461", "cap. 1467", "cap. 1470", "cap. 1489", "cap. 1608", "cap. 1681", "cap. 1747", "cap. 1791", "cap. 1903", "cap. 1966", "cap. 2047", "cap. 2071", "cap. 2085", "cap. 2099", "cap. 2139", "cap. 2246", "cap. 2253", "cap. 2257", "cap. 2288"]
 conhecimento: misto
 ---
 
@@ -322,9 +322,10 @@ para financiá-lo numa disputa. Perder a aposta pode **falir o patrono**. Os imo
 tribos rivais mantêm canais de cortesia entre si e **assistem às batalhas por projeção**,
 de dentro de terras neutras, como quem vê um jogo.
 
-**4. A regra que mantém tudo isso funcionando: os imortais jogam por procuração.** Numa
-disputa formal desenhada por um Venerável, os patronos imortais **não podem agir
-pessoalmente** — só através de peças: um Gu Imortal emprestado ao protegido, ou "sementes"
+**4. A regra que mantém tudo isso funcionando: os imortais jogam por procuração.** O caso
+canônico é a disputa decenal pela **Imperial Court blessed land** das Planícies do Norte — o
+trono supremo da estepe, cujas regras foram escritas por *Giant Sun Immortal Venerable*. Nela
+os patronos imortais **não podem agir pessoalmente** — só através de peças: um Gu Imortal emprestado ao protegido, ou "sementes"
 (humanos cultivados em segredo por décadas). E se um Gu Imortal emprestado for capturado
 por mortais durante a disputa, **os donos não podem retomá-lo à força**.
 
@@ -405,15 +406,19 @@ não tinha nenhum. A métrica real de poder, portanto, não é o rank do cultiva
 
 **O território: cada imortal vira dono de um mundo.** A abertura estilhaçada renasce como
 um mundo em miniatura com céu, chão, terreno, clima, recursos, fauna, flora e muitas vezes
-população mortal vivendo lá dentro, às vezes aos milhões. Uma abertura excepcionalmente
-desenvolvida chegou a **335 mil quilômetros quadrados**. O imortal deixa de carregar seus
+população mortal vivendo lá dentro, às vezes aos milhões. A abertura excepcionalmente
+desenvolvida da obra — a *sovereign immortal aperture*, produzida artificialmente pelo
+sovereign immortal fetus Gu de rank 9 — chegou a **335 mil quilômetros quadrados** em dez
+camadas. O imortal deixa de carregar seus
 recursos e passa a **cultivá-los** — e herda todos os problemas de quem administra um
 território: manutenção, orçamento, colheita, pragas e desastres. Ver
 [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] e [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 
 **O tempo de vida: mais anos, e ainda assim um relógio.** Ascender **não estende a vida por
-si só** — longevidade é um recurso separado do rank. Imortais vivem muito, mas morrem: o
-Venerável mais longevo da história chegou a vinte e cinco mil anos, e nem ele escapou. A
+si só** — longevidade é um recurso separado do rank. Imortais vivem muito, mas morrem:
+*Primordial Origin Immortal Venerable*, o mais longevo da história, chegou a vinte e cinco
+mil anos, e nem ele escapou — a segunda colocada, *Star Constellation*, ficou em dezenove
+mil, e a maioria dos dez não passou dos sete mil. A
 consequência de comportamento é que **veteranos hibernam entre crises**, para não gastar
 anos acordados à toa.
 
@@ -514,7 +519,8 @@ de vida, acordando só por convocação de emergência. Existe uma área dentro 
 organização do mundo onde imortais antiquíssimos hibernam há eras, e **ninguém sabe
 exatamente quantos estão lá**. Hibernação profunda é categoricamente mais eficiente que
 viver acordado — uma formação de selamento com extensão embutida permite ultrapassar cem
-mil anos, contra os vinte e cinco mil do Venerável mais longevo que viveu ativamente.
+mil anos, contra os vinte e cinco mil de *Primordial Origin Immortal Venerable*, o
+Venerável mais longevo que viveu ativamente.
 **Dormir rende mais anos que ser o ser mais poderoso do mundo.**
 
 **Refinar Gu.** É o maior custo da vida imortal — cerca de **metade** do orçamento de um
@@ -555,7 +561,7 @@ Poucos, e todos são exceções geográficas que valem como destino de campanha:
 | Lugar | O que é |
 |---|---|
 | **Tribunal Celestial** | a gruta-céu coletiva da organização nº 1 do mundo; só rank 8 e 9 estabelecem presença |
-| **Céu da Longevidade** | a abertura imortal de um único Venerável, funcionando como suserano de uma região inteira |
+| **Longevity Heaven** (Céu da Longevidade) | a gruta-céu que *Giant Sun Immortal Venerable* deixou como fundação: a abertura imortal de um único Venerável, funcionando como suserana das Planícies do Norte inteiras |
 | **Terras abençoadas-sede** | a base física de cada super clã ou super tribo, governada por seus anciãos supremos |
 | **Terras abençoadas públicas e sem dono** | disputadas, exploráveis, geralmente guardadas por um espírito da terra |
 | **Os dois céus imemoriais** | acima das cinco regiões; o "céu branco" é o palco convencionado das batalhas de rank 8 |
@@ -585,9 +591,14 @@ Muito pouco, e o pouco é filtrado por classe social:
   características** para o mundo externo ao longo de séculos, criando biomas alterados na
   região onde está. Quem estuda a geografia sabe deduzir o que há escondido ali. Uma
   planície de névoa venenosa perene é o vazamento da terra de alguém.
-- **Instituições inteiras existem por causa deles sem que ninguém saiba.** A maior
-  organização mortal de uma região pode ser um mecanismo desenhado por um Venerável morto
-  há eras, cujo propósito real nenhum participante conhece.
+- **Instituições inteiras existem por causa deles sem que ninguém saiba.** Dois exemplos
+  documentados: a disputa pela **Imperial Court blessed land**, que organiza a política
+  inteira das Planícies do Norte, é um mecanismo desenhado por *Giant Sun Immortal
+  Venerable* — e o desastre decenal em torno do qual ela gira serve, na prática, para
+  transferir a riqueza da região aos descendentes de sangue dele; e a **Convenção do
+  Caminho do Refino** do Continente Central, o maior torneio do mundo, existe para o
+  Tribunal Celestial colher marcas do sucesso destinadas ao reparo do
+  [[16 - Fate Gu|Fate Gu]] — coisa que nenhum competidor sabe.
 - **E há o momento em que a diferença fica visível.** Um mortal que consiga a posse de um
   Gu Imortal força hierarquias inteiras a negociar com ele — houve o caso de uma seita
   oferecer o cargo de ancião de seita, direto, a um mortal nessa situação.
@@ -613,9 +624,11 @@ pode ser desenhada com a regra explícita de que os patronos não podem entrar e
 **Usam como base de recrutamento.** Ninguém nasce imortal. Toda a era imortal se abastece
 da era mortal, e por isso as instituições mortais funcionam como peneira: competições de
 academia, arenas, torneios, concursos culturais, caravanas de deserto, promoção militar. No
-fim da obra isso chega a ser industrializado — uma organização passa a operar missões que
+fim da obra isso chega a ser industrializado: surgem as **missões de assistência a
+tribulação** — contrata-se apoio pago para atravessar as provações de ascensão —, e elas
 funcionam como **fábrica institucional de rank 8**, transformando o que era acidente de
-sorte e herança num processo administrado.
+sorte e herança num processo administrado, com uma lista de trocas de Gu Imortais de topo
+anexada.
 
 ### Por que um imortal raramente resolve um problema mortal diretamente
 

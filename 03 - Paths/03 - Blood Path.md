@@ -168,8 +168,9 @@ não técnica. `(ded.)` Se o sangue tivesse prosperado, ele seria hoje um Vener�
 E a obra registra o que o sangue lhe dava mesmo assim: *quando usava o método do caminho do sangue para reviver,
 **independentemente de quão graves fossem seus ferimentos, ele ficava completamente
 curado***. Era a carta na manga com que ele entrou em duelos contra outros Veneráveis. A obra
-compara diretamente: uma Venerável de sabedoria e estrelas **não era tão habilidosa em cura
-quanto ele, que cultivava o caminho do sangue**.
+compara diretamente: a **Star Constellation Immortal Venerable**, de sabedoria e estrelas,
+**não era tão habilidosa em cura quanto ele, que cultivava o caminho do sangue** — e é por isso
+que, quando ela se feriu, o Tribunal Celestial não conseguiu tratá-la.
 
 Isso reposiciona a escola inteira. O caminho tratado como o mais imundo do mundo é, no
 topo, **o melhor sistema de recuperação que a obra apresenta** — e é por isso que os

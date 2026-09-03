@@ -8,7 +8,7 @@ aliases:
   - Single refinement
   - Reverse refinement
 status: consolidado
-fontes: ["cap. 10", "cap. 17", "cap. 18", "cap. 20", "cap. 21", "cap. 42", "cap. 57", "cap. 129", "cap. 138", "cap. 162", "cap. 183", "cap. 186", "cap. 212", "cap. 265", "cap. 278", "cap. 286", "cap. 304", "cap. 320", "cap. 326", "cap. 421", "cap. 430", "cap. 507", "cap. 516", "cap. 593", "cap. 843", "cap. 860", "cap. 950", "cap. 1065", "cap. 1293", "cap. 1299", "cap. 1374", "cap. 1441", "cap. 1529", "cap. 1569", "cap. 1608", "cap. 1790", "cap. 1858", "cap. 2077", "cap. 2131", "cap. 2154"]
+fontes: ["cap. 10", "cap. 17", "cap. 18", "cap. 20", "cap. 21", "cap. 42", "cap. 57", "cap. 129", "cap. 138", "cap. 162", "cap. 183", "cap. 186", "cap. 212", "cap. 265", "cap. 278", "cap. 286", "cap. 304", "cap. 320", "cap. 326", "cap. 421", "cap. 430", "cap. 507", "cap. 516", "cap. 593", "cap. 843", "cap. 860", "cap. 950", "cap. 1065", "cap. 1293", "cap. 1299", "cap. 1374", "cap. 1441", "cap. 1529", "cap. 1569", "cap. 1608", "cap. 1790", "cap. 1858", "cap. 2077", "cap. 2131", "cap. 2154", "cap. 405", "cap. 1036-1039", "cap. 2299"]
 conhecimento: comum
 ---
 
@@ -244,11 +244,11 @@ mês**, para não acumular dano de alma. É um limite de ritmo, não de talento.
 
 Existem garantias compráveis, todas caras:
 
-- Um Gu consumível de rank 5, hoje extinto, que **garantia** o sucesso do refino em
-  andamento.
-- Um Gu de rank 4 que **protege o Gu núcleo** mesmo em caso de falha.
+- O ==Undefeated Hundred Battles Gu (Gu das Cem Batalhas Invictas)==, consumível de rank 5, hoje extinto, que **garantia** o sucesso do refino em
+  andamento — a apólice de seguro que permitia acelerar um processo perigoso sem medo.
+- O ==Green Mountain Remains Gu (Gu dos Restos da Montanha Verde)==, de rank 4, que **protege o Gu núcleo** mesmo em caso de falha — não salva o refino, salva a peça mais cara dele.
 - Gu que elevam a taxa de sucesso, mais caros que os Gu que produzem.
-- Refinar em terra sagrada — existe uma região inteira dedicada aos mestres do refino.
+- Refinar na **Land of Bu Bai (Terra de Bu Bai)**, no Continente Central: a terra sagrada dos mestres do refino, uma região inteira cujo ambiente eleva a taxa de sucesso.
 - E, no nível imortal, as **marcas do sucesso** — o item mais valioso da profissão, que
   merece explicação própria (abaixo).
 
@@ -271,8 +271,8 @@ matéria-prima do sucesso próprio.
 **Como se ganham.** Pela [[14 - Convenção do Caminho de Refino|Convenção do Caminho de Refino]], o torneio periódico de refino
 aberto a qualquer participante — e
 a abertura é interessada, porque mais competidores significam mais fracassos e portanto mais
-marcas colhidas. Cada ciclo produz no máximo **36 marcas**; a maior instituição do mundo
-retira **30** à força para os próprios fins e deixa **6** para os melhores colocados. A marca
+marcas colhidas. Cada ciclo produz no máximo **36 marcas**; o [[19 - Tribunal Celestial|Tribunal Celestial]]
+retira **30** à força para os próprios fins e deixa **6** para os seis primeiros colocados. A marca
 é gravada no corpo do vencedor na hora, sem intermediário.
 
 **O que elas não fazem.** Não cobrem erro de técnica, não cobrem interferência externa e não
@@ -345,10 +345,9 @@ Vale destacar cada estilo, porque cada um gera um tipo de história diferente:
   o que só imortais toleram.
 - **O estilo 2** é a razão pela qual territórios inteiros podem ser tratados como objetos
   refináveis, e o motivo pelo qual o topo do mundo compete por terra.
-- **O estilo 3** é o mais perturbador: um clã cujo fundador refinou Gu Imortais
-  **diretamente na linhagem sanguínea** dos descendentes. De tempos em tempos, um membro do
-  clã "desperta" e, se sobreviver, um Gu Imortal literalmente **cresce dentro do corpo
-  dele**. Esses Gu não podem ser roubados — nem o refino reverso funciona contra eles — e
+- **O estilo 3** é o mais perturbador, e tem endereço: o **clã Ni**, cujo fundador refinou Gu Imortais
+  **diretamente na linhagem sanguínea** dos descendentes. Quando o sangue do clã atinge certa densidade, nasce um membro que "desperta" e, se sobreviver, um Gu Imortal literalmente **cresce dentro do corpo
+  dele** — o primeiro deles é o [[12 - Longevidade|Yes or No Gu]], um Gu Imortal de informação que responde perguntas do céu e da terra cobrando cinquenta anos de vida do portador por resposta. O portador é mortal e normalmente não tem escolha sobre responder. Esses Gu não podem ser roubados — nem o refino reverso funciona contra eles — e
   foram desenhados para serem usáveis por mortais.
 - **O estilo 4** produz coisas como corpos artificiais e ressurreições. É o mais raro.
 

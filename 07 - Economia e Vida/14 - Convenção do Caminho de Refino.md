@@ -11,7 +11,7 @@ aliases:
   - Success dao mark
   - Dao mark de sucesso
 status: consolidado
-fontes: ["cap. 734", "cap. 780", "cap. 797", "cap. 823-824", "cap. 828-836", "cap. 837-847", "cap. 852-859", "cap. 862", "cap. 926", "cap. 970-971", "cap. 1335", "cap. 1698", "cap. 1920-1921"]
+fontes: ["cap. 734", "cap. 780", "cap. 797", "cap. 823-824", "cap. 828-836", "cap. 837-847", "cap. 845", "cap. 852-859", "cap. 858", "cap. 862", "cap. 926", "cap. 970-971", "cap. 1335", "cap. 1698", "cap. 1920-1921"]
 conhecimento: comum
 ---
 
@@ -212,14 +212,17 @@ inteira levanta: **por que um torneio de artesanato aceita criminosos procurados
 
 `[segredo]` — O que vem a seguir é conhecimento de mestre. Os participantes não sabem disso.
 
-Existe uma herança antiga, deixada por uma figura lendária cujo princípio de refino era que
-**o sucesso se refina a partir dos fracassos**. O legado que ela deixou é um mecanismo que
-faz exatamente isso: **recolhe os fracassos de refino alheios**, condensa-os numa forma
-material e, quando esses acumulados atingem número suficiente, eles se **condensam em dao
-marks de sucesso**.
+Existe uma herança antiga chamada ==Herança do Infalível== (*Infallible inheritance*), alojada
+dentro de uma terra abençoada, cujo princípio de refino é que **o sucesso se refina a partir
+dos fracassos** — a obra não nomeia quem a deixou `—`. O mecanismo faz exatamente o que o nome
+diz: **recolhe os fracassos de refino alheios**, refina-os em **Gu mortais do fracasso**
+(*failure Gu*) e, quando esses Gu se acumulam em número suficiente, eles se **condensam em dao
+marks de sucesso**. E os dao marks de sucesso desta herança em particular são diferentes dos
+comuns: estão intimamente ligados ao caminho do refino, e quem conseguisse estudá-los poderia,
+em tese, montar uma Herança do Infalível própria.
 
-O terreno que abriga esse mecanismo foi encontrado e capturado há muito tempo pela
-autoridade suprema do continente central. E é ela que **promove e infla deliberadamente a
+O terreno que abriga esse mecanismo foi encontrado e capturado há milhares de anos pelo
+[[19 - Tribunal Celestial|Tribunal Celestial]]. E é ela que **promove e infla deliberadamente a
 escala da Convenção** — porque cada tentativa fracassada de qualquer participante, em
 qualquer rodada, alimenta o sistema.
 
@@ -243,8 +246,9 @@ capacidade do terreno de se regenerar para o ciclo seguinte. Tomá-lo permanente
 exigiria dois especialistas de campos diferentes no patamar máximo simultaneamente, e
 cultivadores desse nível em qualquer um dos dois campos são raríssimos.
 
-**Para que servem os 30?** Para reparar um artefato de importância cosmológica danificado há
-mais de um milhão de anos — o projeto de longuíssimo prazo dessa autoridade. Ver
+**Para que servem os 30?** Para reparar o [[16 - Fate Gu|Fate Gu]] — o Gu de rank 9 através do
+qual o destino de todo mundo é administrado, ferido por **Red Lotus Demon Venerable** há mais de
+um milhão de anos. É o projeto de longuíssimo prazo do [[19 - Tribunal Celestial|Tribunal Celestial]]. Ver
 [[16 - Fate Gu|Fate Gu]] e [[19 - Tribunal Celestial|Tribunal Celestial]] para o contexto completo; para efeito desta nota, o que
 importa é que a Convenção é **o mecanismo de arrecadação de um projeto secreto**, disfarçado
 de campeonato.
@@ -293,8 +297,8 @@ O evento gera negócios próprios ao redor:
 
 - **Corretores de informação** vendem abertamente, por pedras primordiais, os enunciados de
   competições passadas, previsões e rankings. É um mercado legítimo, não um contrabando.
-  Existe registro de uma seita inteira de primeiro escalão construída do zero em cerca de
-  cem anos apenas comercializando informação — e até as maiores seitas compram dela.
+  A **Seita da Informação-Relâmpago** (*Lightning Information Sect*) foi construída do zero em
+  cerca de cem anos apenas com esse negócio — e até as dez grandes seitas compram dela.
 - **Treino antecipado com enunciados vazados.** Um competidor documentado dedicou mais de
   oitenta anos a comprar enunciados antigos e praticar exaustivamente cada tipo de tarefa —
   e a obra é explícita ao dizer que foi esse treino, e não talento, que formou seu patamar

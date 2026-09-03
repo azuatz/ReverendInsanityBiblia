@@ -237,14 +237,20 @@ imortal com teleporte fixo joga num mapa de cinco regiões; todos os outros joga
 
 Um detalhe cosmológico que só aparece uma vez, e que vale muito como material de mestre.
 
-Um dos Veneráveis do mundo **não era nativo dele**. A teoria que a obra registra é que, quando
-esse ser se tornou imortal do caminho do espaço, produziu um **tipo especial de marca do Dao do
-espaço**: marcas *originadas de outro mundo*, estranhas às cinco regiões e aos nove céus.
+O **Thieving Heaven Demon Venerable**, criador do [[15 - Theft Path|caminho do roubo]] e cujo
+caminho de especialidade era justamente o espaço, **não era nativo deste mundo**: ele veio de
+fora, e a obra o classifica como um *demônio de outro mundo* (*otherworldly demon*). A teoria
+que ela registra é que, quando ele se tornou imortal do caminho do espaço, produziu um **tipo
+especial de marca do Dao do espaço**: marcas *originadas de outro mundo*, estranhas às cinco
+regiões e aos nove céus.
 
 A consequência prática: as heranças que ele deixou estão guardadas em espaços que **parecem
 comuns mas já transcenderam o mundo dos Gu** — não estão dentro das cinco regiões nem dos nove
-céus. Um Venerável de rank 9 tentou tomar uma dessas heranças e **voltou de mãos vazias**,
-tendo saído prejudicado, sem conseguir fazer nada a respeito.
+céus. E o requisito de herdeiro é de identidade, não de força: **só um demônio de outro mundo
+consegue herdá-las**, e para quem cumpre esse requisito não há prova nenhuma. O **Giant Sun
+Immortal Venerable**, já rank 9, tentou tomar uma delas e **voltou de mãos vazias**, saindo
+prejudicado e sem conseguir fazer nada a respeito — a obra dá isso como a origem do ódio dele
+por demônios de outro mundo.
 
 Detalhe operacional que fecha a ideia: quem **não** conhece a herança fica preso lá dentro
 tentando investigar; quem conhece o procedimento correto simplesmente **não se mexe**, e é

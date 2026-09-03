@@ -162,7 +162,8 @@ como preparação para operações futuras de saque.
   descoberto, o organizador da caravana indenizou o comprador com **o dobro** do valor
   pago — o que revela que existe uma norma comercial de responsabilidade do intermediário
   pela idoneidade dos vendedores que ele hospeda.
-- **Falsificar em escala industrial.** Um falsificador lendário despejou enormes
+- **Falsificar em escala industrial.** O falsificador conhecido no mundo como o **Mestre
+  Falsificador** despejou enormes
   quantidades de pedras de aposta forjadas no mercado e, sozinho, **derrubou o valor de
   toda uma categoria de produto numa região inteira**. Quase todos os grandes clãs da
   região emitiram mandado contra ele. E o detalhe que torna o caso jogável: a fama de
@@ -297,8 +298,9 @@ dá quatro respostas, e nenhuma delas é "porque é errado":
    lugar nenhum é um mau negócio.
 2. **A inimizade é vitalícia e hereditária.** Um clã ofendido não esquece, e clãs vivem
    séculos. O custo do crime não é uma multa: é uma dívida com juros compostos de rancor.
-3. **Existe reabilitação institucional, e ela é barata em comparação.** Dominar a arena de
-   uma cidade-mercado transforma um cultivador demoníaco em ancião externo daquele clã. A
+3. **Existe reabilitação institucional, e ela é barata em comparação.** Subir até o topo da
+   arena da cidade do **clã Shang**, na Fronteira Sul, transforma um cultivador demoníaco em
+   ancião externo daquele clã. A
    porta de volta está aberta, e usá-la é mais fácil que sustentar uma vida de fuga.
 4. **Os poderosos se autopoliciam quando lhes convém.** Trapacear numa competição entre
    facções resulta em confisco e na inimizade de **toda** a região. O autopoliciamento

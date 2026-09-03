@@ -75,12 +75,13 @@ integralmente em tempo de vida.
 O uso mais poderoso e mais restrito: **voltar atrás**.
 
 Certas formações do [[08 - Refinement Path|caminho do refinamento]] retrocedem o tempo em curto
-prazo, permitindo desfazer erros durante um refino. Uma única organização possui **mais de
-dez** dessas formações, cada uma com sua desvantagem própria: consumo imenso de essência,
-número limitado de usos, teto de rank 6.
+prazo, permitindo desfazer erros durante um refino. A **Seita das Sombras** (*Shadow Sect*) — a
+organização cujos membros são fragmentos de alma de um mesmo praticante do
+[[12 - Soul Path|caminho da alma]] — possui **mais de dez** dessas formações, cada uma com sua
+desvantagem própria: consumo imenso de essência, número limitado de usos, teto de rank 6.
 
-A maior delas é uma das **Três Lagoas Lendárias** do mundo, e o mecanismo dela é
-extraordinário: ela **re-refina automaticamente um Gu Imortal já destruído**, usando um
+A maior delas é a **Lagoa do Arrependimento** (*Regret Pool*), uma Casa de Gu Imortal que é uma
+das **Três Lagoas Lendárias** do mundo, e o mecanismo dela é extraordinário: ela **re-refina automaticamente um Gu Imortal já destruído**, usando um
 afluente do Rio do Tempo, desde que exista uma **insígnia** preservada de um refino anterior
 bem-sucedido.
 
@@ -387,9 +388,10 @@ seguir este caminho.
 
 - O caminho não tem um criador nomeado como os outros: **espaço e tempo são anteriores à
   sistematização**, descritos como a base do céu e da terra desde a era imemorial.
-- A organização que domina o retrocesso temporal detém mais de dez formações de correção de
-  erro, incluindo uma das Três Lagoas Lendárias do mundo — patrimônio que não tem paralelo em
-  nenhum outro caminho.
+- A **Seita das Sombras** é quem domina o retrocesso temporal: detém mais de dez formações de
+  correção de erro, incluindo a **Lagoa do Arrependimento**, uma das Três Lagoas Lendárias do
+  mundo — patrimônio que não tem paralelo em nenhum outro caminho. Ver
+  [[12 - Soul Path|Soul Path]], que explica como essa organização é montada.
 
 ## Relações
 

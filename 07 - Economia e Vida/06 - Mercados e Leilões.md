@@ -158,9 +158,9 @@ O pagamento é contado e pesado **na hora, na frente de todo mundo**.
 - Não existe recibo de compra no varejo — **a conferência imediata é o recibo**. Existe, sim,
   documento escrito para **dívida**: um empréstimo se registra em papel escrito na hora e
   **assinado com a impressão digital** do devedor.
-- E existe a carteira viva: um Gu de armazenamento especializado em dinheiro, uma esfera
-  translúcida com a figura de um velho feito de nuvens dentro, cuja **expressão muda conforme
-  o saldo** — ele sorri quando há muitas pedras e chora quando há poucas. Quando o Gu troca de
+- E existe a carteira viva: o **primeval elder Gu** (Gu do Ancião Primordial), Gu de
+  armazenamento de rank 3 especializado em dinheiro — uma bola de cristal meio transparente com a
+  figura de um velho feito de nuvens dentro, cuja **expressão muda conforme o saldo** — ele sorri quando há muitas pedras e chora quando há poucas. Quando o Gu troca de
   dono, a nuvem simplesmente **vira o rosto e passa a sorrir para o novo proprietário**.
 
 ### O barulho
@@ -237,9 +237,10 @@ total.
 
 ### 3. Cidades-mercado
 
-O topo do comércio mortal. O modelo mais bem documentado é uma cidade construída em anéis
-concêntricos numa montanha: uma cidade externa caótica e cinco cidades internas cada vez
-mais restritas, em arquitetura tridimensional. Cada zona é temática e administrada por um
+O topo do comércio mortal. O modelo mais bem documentado é a **cidade do clã Shang**, na
+Fronteira Sul — a maior cidade da região, com mais de dez mil lojas —, construída em anéis
+concêntricos sobre a montanha inteira de Shang Liang: uma cidade externa caótica e cinco cidades
+internas cada vez mais restritas, em arquitetura tridimensional. Cada zona é temática e administrada por um
 "jovem mestre" do clã anfitrião: culinária, aposta de pedra, pensão de Gu, combate de Gu,
 zona de prazeres, refino por procuração, leilões e arena.
 
@@ -286,8 +287,10 @@ mecânica de moeda dupla funcionar, segue uma reconstrução utilizável:
 - A proteção que a ficha oferece vale **apenas dentro da cidade**, e não cobre o que
   acontece dentro da arena. Assassinar alguém na cidade custa a ficha.
 
-Há ainda um cofre ancestral notável: uma porta viva, obra de um cultivador imortal, que só
-**troca Gu por Gu de valor igual ou superior**. Nem o líder do clã retira nada sem pagar. E
+Há ainda um cofre ancestral notável, na mesma cidade: a **Porta do Tesouro Vivo** (*Living
+Treasure Door*), uma porta senciente e birrenta, obra de um Gu Imortal, que só **troca Gu por Gu
+de valor igual ou superior**. Nem o líder do clã retira nada sem pagar — ele mesmo teve de abrir
+mão do próprio Gu de assinatura para levar o que queria. E
 um Gu retirado tem poucas respirações antes de reverter ao estado selvagem — o cofre não
 guarda propriedade, guarda equilíbrio.
 
@@ -413,8 +416,10 @@ encontrarem.
 
 O que se comercializa: intel de arena (rankings e prognósticos de lutadores), segredos
 comprometedores de clã, localizações prováveis de heranças, enunciados de competições
-passadas e fofoca política. Existe até uma seita inteira construída sobre esse único
-negócio, erguida do zero à relevância regional em cerca de um século.
+passadas e fofoca política. Existe até uma super força inteira construída sobre esse
+único negócio: a **Seita da Informação-Relâmpago** (*Lightning Information Sect*) do Continente
+Central, erguida do zero em pouco mais de um século por um imortal expulso de uma das dez grandes
+seitas, e a quem hoje as próprias dez compram informação.
 
 Um caso documentado: uma informação estratégica **não confirmada** — a possível existência
 de um território de cultivo — foi vendida a uma potência por centenas de milhares de pedras

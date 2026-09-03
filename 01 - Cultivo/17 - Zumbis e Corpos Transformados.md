@@ -12,7 +12,7 @@ aliases:
   - Dead aperture
   - Corpos transformados
 status: consolidado
-fontes: ["cap. 125-126", "cap. 135", "cap. 137", "cap. 157", "cap. 185", "cap. 188", "cap. 192", "cap. 232-233", "cap. 253-257", "cap. 292", "cap. 432", "cap. 526", "cap. 531", "cap. 569-574", "cap. 580-581", "cap. 586", "cap. 590", "cap. 643", "cap. 646-647", "cap. 650-654", "cap. 658", "cap. 661", "cap. 666", "cap. 684", "cap. 686", "cap. 688", "cap. 698", "cap. 711", "cap. 715", "cap. 722", "cap. 740", "cap. 742-743", "cap. 758", "cap. 767", "cap. 780", "cap. 789", "cap. 790-791", "cap. 799", "cap. 809", "cap. 810-811", "cap. 845", "cap. 852", "cap. 857-858", "cap. 886", "cap. 897", "cap. 906", "cap. 918", "cap. 921", "cap. 927", "cap. 937-939", "cap. 947", "cap. 951", "cap. 960-962", "cap. 967-968", "cap. 994-996", "cap. 1019", "cap. 1071", "cap. 1135-1139", "cap. 1242-1244", "cap. 1281-1282", "cap. 1358-1359", "cap. 1373-1378", "cap. 1445-1446", "cap. 1480"]
+fontes: ["cap. 125-126", "cap. 135", "cap. 137", "cap. 157", "cap. 185", "cap. 188", "cap. 192", "cap. 232-233", "cap. 253-257", "cap. 292", "cap. 432", "cap. 526", "cap. 531", "cap. 569-574", "cap. 580-581", "cap. 586", "cap. 590", "cap. 643", "cap. 646-647", "cap. 650-654", "cap. 658", "cap. 661", "cap. 666", "cap. 684", "cap. 686", "cap. 688", "cap. 698", "cap. 711", "cap. 715", "cap. 722", "cap. 740", "cap. 742-743", "cap. 758", "cap. 767", "cap. 780", "cap. 789", "cap. 790-791", "cap. 799", "cap. 809", "cap. 810-811", "cap. 845", "cap. 852", "cap. 857-858", "cap. 886", "cap. 897", "cap. 906", "cap. 918", "cap. 921", "cap. 927", "cap. 937-939", "cap. 947", "cap. 951", "cap. 960-962", "cap. 967-968", "cap. 994-996", "cap. 1019", "cap. 1071", "cap. 1135-1139", "cap. 1242-1244", "cap. 1281-1282", "cap. 1358-1359", "cap. 1373-1378", "cap. 1445-1446", "cap. 1480", "cap. 903", "cap. 1817"]
 conhecimento: comum
 ---
 
@@ -50,7 +50,7 @@ A definição técnica está numa frase da obra e explica tudo o que vem depois:
 E é justamente aí que mora a explicação cosmológica de por que existem zumbis:
 
 > [!warning] Conhecimento de mestre
-> **Zumbis não existiam sempre.** Eles passaram a existir quando um dos [[01 - Visão Geral dos Veneráveis|Veneráveis]] feriu deliberadamente o Gu que administra o destino do mundo. Desde então a porta da vida e da morte enfraqueceu e deixou de recolher todas as almas — e uma alma que fica presa a um corpo morto é, por definição, um zumbi. O mesmo dano é o que permitiu o surgimento das feras de alma. Ver [[16 - Fate Gu|Fate Gu]].
+> **Zumbis não existiam sempre.** Eles passaram a existir quando *Red Lotus Demon Venerable* feriu deliberadamente o [[16 - Fate Gu|Fate Gu]], o Gu de rank 9 que administra o destino do mundo, atacando-o dentro do Rio do Tempo. Desde então a porta da vida e da morte enfraqueceu e deixou de recolher todas as almas — e uma alma que fica presa a um corpo morto é, por definição, um zumbi. O mesmo dano é o que permitiu o surgimento das feras de alma. Ver [[16 - Fate Gu|Fate Gu]].
 >
 > A consequência política é a parte deliciosa: como o zumbi é alguém que **escapou do destino**, ele é literalmente uma anomalia no sistema de contabilidade do céu. O [[19 - Tribunal Celestial|Tribunal Celestial]] se opõe à zumbificação e não consegue impedi-la — "não conseguiram resistir aos desejos dos homens" —, e **matar um zumbi imortal acelera diretamente o conserto do Gu do destino**. Isso transforma uma caçada num serviço público cósmico, e dá ao mestre uma facção inteira com motivo declarado para exterminar personagens que só queriam continuar existindo.
 
@@ -113,7 +113,7 @@ Esta é a categoria que muda o mundo, e ela merece tratamento próprio porque **
 
 Um Gu Imortal que chega ao fim do tempo de vida sem conseguir um item de longevidade tem, na prática, uma saída: virar ==zumbi imortal==. O texto é direto sobre a demografia — a maioria esmagadora dos zumbis imortais do mundo é composta de imortais que simplesmente ficaram sem anos e não tiveram escolha. Há também casos raros de conversão **voluntária** em busca de ganho de força, e existem rotas equivalentes reservadas a especialidades específicas (quem cultiva o caminho da madeira pode virar *homem-árvore* em vez de zumbi; quem cultiva força ou fogo, não).
 
-A prática é comum o bastante para sustentar uma organização mundial inteira dedicada a ela, com sede própria e pesquisa acumulada de gerações sobre a própria condição — ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
+A prática é comum o bastante para sustentar uma organização mundial inteira dedicada a ela: a ==Zombie Alliance (Aliança dos Zumbis)==, com filiais nas cinco regiões, sede própria e pesquisa acumulada de gerações sobre a própria condição — ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].
 
 ### A abertura morta
 
@@ -177,7 +177,7 @@ Dois detalhes fecham a mecânica. O material usado na revivificação **define a
 > Este é o melhor gancho de campanha de alto nível que o cenário oferece, e ele cabe numa frase: **a maldição é o ingrediente**. Um personagem que morre de velhice, vira morto-vivo, passa décadas congelado e então descobre que aquela condição era o material bruto de uma vantagem que nenhum vivo pode ter — isso é um arco inteiro com começo, meio e fim, e a mesa não precisa de nenhum vilão para movê-lo.
 
 > [!warning] Corpo de zumbi é matéria-prima cobiçada
-> Quando um zumbi imortal morre de vez, a abertura dele se dissipa e **os dao marks se concentram no corpo**. O cadáver vira material imortal de primeira linha — há registro de um corpo de zumbi cujos dao marks se fundiram à carne e o tornaram, literalmente, um material imortal de rank 6. Consequência direta: zumbis imortais são **caçados por peças**, e existiu uma organização que reunia zumbis imortais portadores de constituições extremas como pilares de uma formação ritual gigantesca, cada nó contribuindo com o poder da própria constituição. Ser um zumbi poderoso é ser um depósito ambulante de matéria-prima rara.
+> Quando um zumbi imortal morre de vez, a abertura dele se dissipa e **os dao marks se concentram no corpo**. O cadáver vira material imortal de primeira linha — há registro de um corpo de zumbi cujos dao marks se fundiram à carne e o tornaram, literalmente, um material imortal de rank 6. Consequência direta: zumbis imortais são **caçados por peças**, e existiu uma organização que reunia zumbis imortais portadores de constituições extremas como pilares da **Formação Sem Vida dos Dez Zumbis Imortais Extremos** (*Ten Extreme Immortal Zombie Lifeless Formation*), cada nó contribuindo com o poder da própria constituição. Ser um zumbi poderoso é ser um depósito ambulante de matéria-prima rara.
 
 ## O preço final
 
@@ -187,7 +187,7 @@ Quem vai até o fim da transformação — voluntária ou não — paga uma cont
 
 Em troca vem o pacote já descrito — sem tempo de vida a consumir, sem provações, regeneração e resistência de morto-vivo, e uma existência que não tem prazo.
 
-O retrato mais extremo do fim dessa estrada é o de um dos seres mais poderosos que já existiram, que se manteve como zumbi imortal por **trezentos mil anos** e chegou ao ponto de restar-lhe apenas um resquício de vontade e a capacidade de **um único ataque** antes de se dissipar — "se eu me mover ainda que levemente, vou desaparecer". Foi o que sobrou de alguém que, em vida, era o topo do mundo.
+O retrato mais extremo do fim dessa estrada é o de *Spectral Soul Demon Venerable*, o criador do caminho da alma, que se manteve como zumbi imortal por **trezentos mil anos** e chegou ao ponto de restar-lhe apenas um resquício de vontade e a capacidade de **um único ataque** antes de se dissipar — "se eu me mover ainda que levemente, vou desaparecer". Foi o que sobrou de alguém que, em vida, era o topo do mundo.
 
 > [!note] Para o design
 > A zumbificação é uma **classe de prestígio sombria** completa, e o desenho dela é exemplar: benefícios imediatos e claros (imortalidade barata, imunidade a dreno de vida, sem provações), fraquezas elementais publicadas (fogo, raio, luz, o próprio dia), uma economia punitiva (energia só com dinheiro), um custo de progressão absoluto (nunca mais subir), estigma social — e, no fim da linha, uma saída cara que reaproveita a própria condição. Se a sua mesa precisar de uma única mecânica que faça o jogador hesitar de verdade, é esta: ela não pede que ele arrisque a vida, pede que ele desista de crescer.
@@ -229,11 +229,11 @@ Conhecimento de especialista, que circula entre Mestres Gu instruídos e imortai
 
 ## O que só o mestre sabe
 
-- **Por que zumbis existem.** Eles são consequência direta do dano causado ao Gu que administra o destino do mundo por um dos Veneráveis. Antes disso, a porta da vida e da morte recolhia todas as almas e nenhum zumbi era possível.
+- **Por que zumbis existem.** Eles são consequência direta do dano que *Red Lotus Demon Venerable* causou ao [[16 - Fate Gu|Fate Gu]]. Antes disso, a porta da vida e da morte recolhia todas as almas e nenhum zumbi era possível.
 - **Que todo zumbi é um "fugitivo do destino"**, e que **matá-lo conserta o Gu do destino**. Depois de uma batalha que destruiu a maior parte dos zumbis imortais do mundo, a dificuldade de refinar aquele Gu **caiu drasticamente** — e as facções que trabalham para restaurá-lo sabem disso perfeitamente. A caçada aos zumbis não é preconceito: é engenharia cósmica.
 - **Que o Tribunal Celestial se opõe à zumbificação e fracassou em contê-la** — "não conseguiram resistir aos desejos dos homens".
 - **Que a abertura de vida-e-morte existe**, que ela corta calamidades e tribulações pela metade sem reduzir o ganho, e que ela sugere um roteiro em que zumbificar-se de propósito é o **primeiro passo** de um plano para chegar ao topo do mundo.
-- **Que até um dos dez maiores seres da história recorreu à zumbificação**, e passou trezentos mil anos reduzido a um resquício de vontade e a um único ataque restante.
+- **Que até um dos dez maiores seres da história recorreu à zumbificação** — *Spectral Soul Demon Venerable* —, e passou trezentos mil anos reduzido a um resquício de vontade e a um único ataque restante.
 
 ## Relações
 

@@ -7,7 +7,7 @@ aliases:
   - Alimentação de Gu
   - Expendable Gu
 status: consolidado
-fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292", "cap. 8", "cap. 10", "cap. 20", "cap. 22", "cap. 44", "cap. 156", "cap. 162", "cap. 297", "cap. 563", "cap. 575", "cap. 854", "cap. 923", "cap. 1791"]
+fontes: ["cap. 15", "cap. 23", "cap. 39", "cap. 40", "cap. 57", "cap. 62", "cap. 64", "cap. 79", "cap. 100", "cap. 128", "cap. 137", "cap. 156", "cap. 183", "cap. 186", "cap. 202", "cap. 210", "cap. 375", "cap. 410", "cap. 466", "cap. 671", "cap. 717", "cap. 735", "cap. 860", "cap. 1093", "cap. 1114", "cap. 1128", "cap. 1457", "cap. 1570", "cap. 1600", "cap. 1681", "cap. 2292", "cap. 8", "cap. 10", "cap. 20", "cap. 22", "cap. 44", "cap. 156", "cap. 162", "cap. 297", "cap. 563", "cap. 575", "cap. 854", "cap. 923", "cap. 1791", "cap. 566-568", "cap. 617"]
 conhecimento: comum
 ---
 
@@ -47,11 +47,8 @@ existem nos três ofícios**, e são categoria formal, não curiosidade:
 
 - **No alimentar** — a espécie só come uma coisa, e às vezes essa coisa não é um material.
   Ver a tabela de dietas mais abaixo.
-- **No refinar** — o Gu impõe requisitos ao candidato a dono. Um Gu do caminho da sorte só
-  se deixa dominar por quem tem, de fato, coração de sacrifício. Outro só aceita quem
-  nunca mentiu na vida — e, se um mentiroso tentar, o refino não apenas falha: **o Gu
-  morre na hora**.
-- **No usar** — a condição recai sobre quem aciona. O Gu que detecta mentiras **só pode ser
+- **No refinar** — o Gu impõe requisitos ao candidato a dono. O ==Calamity Beckoning Gu (Gu que Convoca a Calamidade)==, Gu Imortal de rank 7 do caminho da sorte, atrai para si a calamidade de outra pessoa e **só se deixa dominar por quem tem, de fato, coração de autossacrifício** — é uma trava psicológica, não técnica. O ==Bamboo Gentleman (Cavalheiro de Bambu)==, de rank 4, só aceita quem nunca mentiu na vida — e, se um mentiroso tentar, o refino não apenas falha: **o Gu morre na hora**.
+- **No usar** — a condição recai sobre quem aciona. O mesmo **Bamboo Gentleman** **só pode ser
   usado por um Mestre que nunca mentiu na vida**; um Gu de justiça exige que quem o aciona
   tenha coração justo. E as condições não são só morais: uma formação imortal registrada só
   funciona nas mãos de uma **raça** específica e mata qualquer outro que entre nela.
@@ -60,9 +57,9 @@ Há ainda condições **posicionais**: um Gu de rank 6 ou mais, uma vez consagra
 [[05 - Gu Vital|Gu Vital]], fica preso no centro da abertura e **não pode mais ser retirado
 nem manifestado** — funciona como fundação e nunca como arma.
 
-O exemplo que exibe os três eixos ao mesmo tempo é um Gu de rank 4 que detecta mentiras:
+O exemplo que exibe os três eixos ao mesmo tempo é justamente o **Bamboo Gentleman**, um Gu de rank 4 com corpo de jade verde envolto em luz branca, que detecta mentiras desde que nasce:
 ele **come** honestidade, só pode ser **refinado** por quem jamais mentiu, e só pode ser
-**usado** por quem jamais mentiu. Três travas empilhadas no mesmo bicho — e é por isso que
+**usado** por quem jamais mentiu. Em operação, ele é guardado na abertura de quem vai responder às perguntas e depois retirado à vista de todos: se tiver **mudado de cor**, houve mentira. Três travas empilhadas no mesmo bicho — e é por isso que
 ele é raríssimo apesar de não ser especialmente forte. Repare que a exigência é sobre a
 vida inteira da pessoa, não sobre o momento: uma única mentira dita anos antes já a
 desqualifica para sempre.

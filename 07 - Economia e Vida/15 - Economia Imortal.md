@@ -8,7 +8,7 @@ aliases:
   - Immortal essence stone
   - Treasure Yellow Heaven
 status: consolidado
-fontes: ["cap. 421", "cap. 466-476", "cap. 491", "cap. 508", "cap. 554-558", "cap. 663-668", "cap. 682-683", "cap. 692", "cap. 702", "cap. 712", "cap. 729-732", "cap. 750", "cap. 779", "cap. 852", "cap. 900", "cap. 907", "cap. 926-930", "cap. 979", "cap. 1029", "cap. 1065", "cap. 1116", "cap. 1131", "cap. 1148", "cap. 1168", "cap. 1183", "cap. 1198-1200", "cap. 1236", "cap. 1291", "cap. 1316", "cap. 1327", "cap. 1338", "cap. 1343", "cap. 1441-1470", "cap. 1478", "cap. 1600-1613", "cap. 1644", "cap. 1680-1681", "cap. 1732", "cap. 1791", "cap. 1817", "cap. 1850", "cap. 1862", "cap. 1885", "cap. 2080", "cap. 2139", "cap. 2225-2229", "cap. 2245-2263", "cap. 2273", "cap. 2289"]
+fontes: ["cap. 421", "cap. 466-476", "cap. 491", "cap. 508", "cap. 554-558", "cap. 663-668", "cap. 682-683", "cap. 692", "cap. 702", "cap. 712", "cap. 729-732", "cap. 750", "cap. 779", "cap. 852", "cap. 900", "cap. 907", "cap. 926-930", "cap. 979", "cap. 1029", "cap. 1065", "cap. 1116", "cap. 1131", "cap. 1132", "cap. 1148", "cap. 1168", "cap. 1183", "cap. 1198-1200", "cap. 1236", "cap. 1291", "cap. 1316", "cap. 1327", "cap. 1338", "cap. 1343", "cap. 1441-1470", "cap. 1451", "cap. 1452", "cap. 1478", "cap. 1600-1613", "cap. 1644", "cap. 1680-1681", "cap. 1732", "cap. 1791", "cap. 1817", "cap. 1850", "cap. 1862", "cap. 1885", "cap. 2080", "cap. 2139", "cap. 2225-2229", "cap. 2245-2263", "cap. 2273", "cap. 2289"]
 conhecimento: especializado
 ---
 
@@ -170,9 +170,13 @@ inteiro legível de relance.
   que os rompe é normalmente suprimido pelos veteranos coordenados.
 
 > [!warning] Quem emite a moeda — segredo de mestre
-> A **fonte única** das pedras de essência imortal é a autoridade máxima do mundo, que
-> restringe deliberadamente a distribuição desde uma guerra antiga, como instrumento de
-> controle político. A moeda universal é, na prática, uma alavanca. Esse escândalo chega a
+> A **fonte única** das pedras de essência imortal é o [[19 - Tribunal Celestial|Tribunal
+> Celestial]], que restringe deliberadamente a distribuição desde uma guerra antiga, como
+> instrumento de controle político. E a produção nunca foi natural: ela começou com uma fera
+> desolada imemorial capturada e mantida em cativeiro por **Primordial Origin Immortal
+> Venerable**, e continua hoje porque **Star Constellation**, assimilada à lei do céu, a
+> enxertou no núcleo da instituição — o que também explica por que só a denominação mais baixa,
+> a de rank 6, é produzida. Ver [[03 - Os Arquitetos da Ordem|Os Arquitetos da Ordem]]. A moeda universal é, na prática, uma alavanca. Esse escândalo chega a
 > ser explorado publicamente no próprio mercado por rivais, que manipulam o debate para
 > constranger a instituição — o fórum vira campo de guerra de propaganda. Ver
 > [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]].
@@ -182,8 +186,8 @@ inteiro legível de relance.
 Este é o dado que reorganiza qualquer expectativa trazida de outros cenários.
 
 **Os Gu Imortais não se compram.** Cada um é único no mundo, não se vende por moeda alguma,
-e só é obtido por troca direta (artefato por artefato) ou empréstimo. A autoridade máxima do
-mundo declara formalmente que artefatos não se vendem, mas podem ser emprestados — enquanto
+e só é obtido por troca direta (artefato por artefato) ou empréstimo. O [[19 - Tribunal Celestial|Tribunal
+Celestial]] declara formalmente que artefatos não se vendem, mas podem ser emprestados — enquanto
 **receitas e técnicas de combate imortais se vendem normalmente**.
 
 E a escassez é muito pior do que se imaginaria:
@@ -299,8 +303,10 @@ público de todos os membros. O recorde documentado foi um acúmulo de mais de n
 pontos, com mais de setenta mil gastos num único artefato de rank 7.
 
 > [!example] Caso mecânico — o sistema mais jogável da obra
-> Existe uma estrutura de missões dentro de uma herança antiga que funciona como um quadro
-> de tarefas completo, com todas as peças de um sistema de jogo:
+> O **Obelisco do Mérito** (*Merit Obelisk*), dentro do **Paraíso da Baleia-Dragão** — a
+> herança que Paradise Earth Immortal Venerable escondeu dentro do corpo de uma baleia-dragão
+> azul imemorial, no Mar Oriental —, é um quadro de tarefas completo, com todas as peças de um
+> sistema de jogo:
 >
 > - **Hierarquia de missões:** pequenas (1 a 10 pontos, acesso livre), médias (11 a 100,
 >   exigem um título comprado), grandes (centenas de pontos, exigem um título mais caro),
@@ -404,8 +410,11 @@ dez.
 
 O melhor exemplo mecânico de economia do cenário, e uma aula de vantagem estrutural.
 
-**A vantagem:** um cultivador possuía um artefato de **rank 8** capaz de produzir em massa
-um Gu **mortal** de rank baixo. O custo marginal dele era apenas a energia para ativar o
+**A vantagem:** um cultivador possuía o ==Years Flow Like Water== (Os Anos Correm Como Água), Gu
+Imortal de **rank 8** cuja única função é **produzir *year Gu*** — os Gu de ano, a mercadoria que
+o mundo imortal usa como unidade de tempo. Quanto mais essência imortal ele gasta, mais year Gu
+saem; e, como o exemplar imortal de year Gu já existe no mundo e a regra de unicidade impede um
+segundo, o que ele produz em série é o **year Gu mortal**. O custo marginal dele era apenas a energia para ativar o
 artefato. Se o custo dos três fornecedores tradicionais era "10", o dele era "3 ou 4".
 
 **O método, em quatro passos:**

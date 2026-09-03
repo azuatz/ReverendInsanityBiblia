@@ -121,9 +121,11 @@ e por isso valem como regras do domínio inteiro. As marcadas com 🔒 são segr
    território que regenera a energia de cultivo sozinho, guarda o acervo e esconde a
    organização. Uma casa sem território de cultivo próprio vive hospedada dentro das
    aberturas pessoais de seus imortais, não tem o que perder numa guerra e não tem o que
-   oferecer numa aliança. A obra tem exemplos das duas pontas: uma super tribo do norte sem
-   território nenhum, e um mercado que virou potência regional por ser apenas um endereço
-   neutro onde todo mundo aceita se encontrar.
+   oferecer numa aliança. A obra tem exemplos das duas pontas: a **tribo Nian Er**, super
+   tribo das Planícies do Norte que não ocupa um palmo do mundo exterior — e justamente por isso
+   ofende cultivadores demoníacos à vontade, porque não tem onde ser retaliada —, e a **Terra
+   Abençoada Hai Shi** do Mar Oriental, que virou o segundo maior mercado do mundo por ser apenas
+   um endereço neutro onde correto e demoníaco aceitam se encontrar.
 4. **A especialidade de caminho de uma força quase sempre vem de uma herança encontrada, não
    de uma escolha.** O padrão se repete nas cinco regiões: alguém achou o legado de um morto
    poderoso, a casa passou gerações destrinchando aquele acervo, e é por isso que ela é hoje
@@ -146,12 +148,12 @@ e por isso valem como regras do domínio inteiro. As marcadas com 🔒 são segr
    ascender — ou o líder de uma casa rival provoca retaliação de toda a região. O que se faz
    importa muito menos do que com quem se faz.
 8. **Não existe tribunal.** Quando um imortal do Mar Oriental teve sua área de mar tomada à
-   força, recorreu à maior organização da região — e a organização funcionou como **recurso
-   de influência**, não como instância de recurso. Vale nas cinco regiões: a proteção que uma
+   força, recorreu à **Aliança dos Zumbis**, a maior organização da região — e ela funcionou como
+   **recurso de influência**, não como instância de recurso. Vale nas cinco regiões: a proteção que uma
    organização oferece é poder de pressão, nunca direito.
-9. **Uma força cai por causa de uma única ausência.** O caso canônico é um clã do sul que era
-   super força e hoje é apenas "de grande porte" porque **seu último Gu Imortal não aparece há
-   cem anos**. Como o critério da regra 2 exige um imortal vivo e presente, uma casa inteira
+9. **Uma força cai por causa de uma única ausência.** O caso canônico é o **clã Xiao da Fronteira
+   Sul**, que era super força e hoje é apenas "de grande porte" porque **seu último Gu Imortal não
+   aparece há cem anos**. Como o critério da regra 2 exige um imortal vivo e presente, uma casa inteira
    muda de categoria quando uma pessoa some. Nenhuma organização deste mundo é maior que os
    seus imortais.
 10. **Toda potência mantém espiões plantados nas rivais, por décadas, com vida dupla
@@ -232,9 +234,10 @@ reservas:
 - **Que a subordinação das dez grandes seitas ao Tribunal Celestial é formal e operante** —
   imortais do Tribunal aparecem em socorro por teleporte, e o Tribunal já vetou uma iniciativa
   conjunta das dez. As dez parecem dez potências; funcionam como dez departamentos.
-- **Que existem forças cuja força de topo não pertence a elas.** No leste, imortais de rank 8
-  aparentemente solitários e independentes estão, na verdade, presos por escravização a um
-  tesouro perdido, e seus pares não sabem disso. Uma aliança inteira pode estar sendo movida
+- **Que existem forças cuja força de topo não pertence a elas.** No leste, quatro imortais de
+  rank 8 aparentemente solitários e independentes são, na verdade, generais escravizados do
+  **Dragon Palace** — a Casa de Gu Imortal perdida dos homens-dragão extintos —, e seus pares não
+  sabem disso. Uma aliança inteira pode estar sendo movida
   por uma coisa que nenhum de seus membros vê.
 - **Que a fronteira entre correto e demoníaco é um cargo administrativo.** Nas Planícies do
   Norte, o título de ancião externo lava a ficha de um imortal demoníaco. Um vilão perseguido

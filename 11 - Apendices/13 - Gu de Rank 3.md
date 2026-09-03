@@ -2350,3 +2350,635 @@ merece lugar de honra num catálogo por rank. Note também o que a fusão fez: o
 Gu entrou na receita e **sua habilidade de dar força se perdeu inteira** — sobrou só a
 magnitude aplicada à outra função. É a regra de que a fusão herda uma habilidade só, em
 estado puro.
+
+---
+
+# Caminho da alma
+
+O rank 3 é **o degrau natal do caminho da alma**, e por um motivo estrutural que a obra
+enuncia: para refinar a própria alma **não existe Gu de rank 4 — existe um monte de rank
+3**. Toda a tecnologia de fortalecimento de alma do mundo mortal está concentrada aqui.
+Ver [[12 - Soul Path|Soul Path]].
+
+Duas escalas de alma valem saber antes de ler as fichas: uma alma comum é "alma de um
+homem", e o cultivo do caminho a condensa rumo a **alma de cem homens**, **de mil** e **de
+dez mil**. Cada exemplar de Gu de alma refinado empurra o dono um pouco nessa direção — e
+nenhum sozinho basta.
+
+## Ataque
+
+### Sight Blow Gu (Gu do Golpe do Olhar)
+
+**O que faz.** Ativado, **uma luz penetrante e sinistra irrompe dos olhos do Mestre Gu e
+atinge quem ele estiver olhando**; a vítima sente a visão embaçar e cambaleia. Duas
+propriedades o tornam perigoso apesar do rank baixo: **o ataque contorna as medidas
+defensivas e atinge diretamente a alma**, e **o alcance é amplo — ele atinge qualquer um
+que o usuário consiga ver com os olhos**. O poder cai com a distância, e a obra dá o número
+exato: **trezentos passos é o limite; além disso ele tem ameaça zero**.
+
+**Como é.** — (o efeito é uma luz que irrompe dos olhos).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O dano em si é **pequeno**: a obra diz que ele "só serve como ataque
+surpresa" e que não muda uma situação desesperada. O alcance máximo é rígido — um adversário
+que se mantenha "um pouco mais de trezentos passos" fica **completamente imune**. Exige
+linha de visão. E há uma segunda condição limitante: **ataques baseados no olhar são uma
+disputa entre as almas dos dois Mestres Gu**, de modo que um alvo de alma muito forte — um
+Mestre do caminho da escravização, por exemplo, cuja alma é necessariamente robusta —
+simplesmente não pode ser atacado com proveito.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** Não citada pela obra como Gu-base de um rank 4 próprio. Ele é, em compensação,
+**componente de uma receita nomeada**: *fire eye Gu (rank 3) + sight blow Gu + materiais*
+produzem o **Fire Pupil Gu (rank 4)**.
+
+**Interações.** É a sinergia mais engenhosa de todo o rank 3, e vale desenhar em cima:
+emparelhado com o **Location Swap Gu de rank 4** — um Gu de deslocamento que **exige
+contato físico** com o outro para trocar de lugar —, **o golpe do olhar conta como o
+contato exigido**. Ou seja, o par permite ao usuário **teletransportar-se para a posição de
+qualquer pessoa que ele consiga enxergar dentro de trezentos passos**. Foi com esse par que
+um Mestre Gu demoníaco solitário ousou desafiar toda a cúpula de uma tribo, sequestrar a
+filha do chefe e extorqui-la sem medo de enfrentar uma multidão. O parceiro é caro — a obra
+registra gasto intenso de essência no Location Swap —, o que limita o número de trocas por
+combate.
+
+### Ghost Cry Gu (Gu do Choro de Fantasma)
+
+**O que faz.** **Solta um lamento fúnebre capaz de fazer a alma tremer.** Em uso massivo,
+cada exemplar emite um grito estridente e **as vozes não são iguais entre si** — a obra
+descreve umas como sons agudos de pavor, outras como balidos de ovelha, outras como se
+recontassem amarguras ocultas. Efeito de campo demonstrado: uma onda simultânea de gritos
+**fez desabar** a fileira de soldados-fantoche vegetais que avançava.
+
+**Como é.** — (nascem dentro dos girassóis-cara-de-fantasma; ver abaixo).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Rank baixo: o dano por unidade é tremor de alma, não destruição. Só se
+obtém por **captura de Gu selvagem com ferramentas especializadas raras**. E o ambiente
+onde nascem é perigoso — junto deles vêm os *ghost face Gu* de rank 4 e as caras de
+fantasma que se erguem do mar de girassóis.
+
+**Como se obtém.** **Não se refina: é Gu selvagem capturado.** Nasce e vive dentro dos
+**girassóis-cara-de-fantasma** — flores de haste roxo-escura, pétalas negras e estame do
+tamanho de uma bacia que exibe **um rosto humano pálido**. Esses girassóis crescem onde
+muita gente morreu e muitos fantasmas vagam, e **cada girassol é um fantasma que morreu
+injustamente**: um mar deles é indicador confiável de um antigo campo de batalha. A obra é
+explícita sobre a dificuldade: capturar Gu selvagem exige métodos específicos, e por serem
+Gu do caminho da alma os Gu necessários para capturá-los são ainda mais peculiares — no
+caso documentado, quem os encontrou reconheceu que eram bons e **teve de deixá-los para
+trás por não ter as ferramentas certas**.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É Gu de **enxame**: um campo de girassóis abriga incontáveis unidades, e um
+coro delas derruba formações inteiras de tropas e de fantoches. Classificado como Gu de
+**ataque** dentro do arsenal do caminho, ao lado do ghost fire, do ghost face e do ghost
+axe Gu — em contraste com os Gu de confinamento e confusão do mesmo caminho (ghost cage,
+ghost hand, ghost hitting wall). Ignora corpo e armadura e vai direto à alma, o que faz da
+**força da alma do alvo**, e não da defesa dele, a única variável que importa.
+
+### Ghost Flame Gu (Gu da Chama Fantasma)
+
+**O que faz.** É o degrau de rank 3 do fogo-fantasma: dispara **duas a três bolas de fogo
+fantasma por vez**. O fogo-fantasma é azul e **gélido**, e a propriedade que o define é que
+ele **queima a alma, não o corpo** — armadura nenhuma o detém.
+
+**Como é.** Bolas de fogo azul e frio.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Duas ou três bolas por disparo é pouco para conter um grupo — é o degrau
+seguinte, o *ghost blaze Gu* de rank 4, que solta "numerosas" de uma vez e serve para
+quebrar cerco.
+
+**Como se obtém.** **Avanço do Ghost Fire Gu (rank 2)**: "ghost fire Gu era um Gu de
+caminho da alma de rank dois; ao avançar, seria o ghost flame Gu de rank três". Componentes
+adicionais **não informados**. E o Gu-raiz da linha tem receita conhecida: *soul ball Gu +
+fire pellet Gu*, fundidos dentro de fogo de alma, produzem um ghost fire Gu **incompleto**.
+
+**Evolução.** **Ghost Blaze Gu (rank 4)**, que dispara muitas bolas de uma vez.
+Componentes não informados.
+
+**Interações.** Pertence **ao mesmo tempo ao caminho do fogo e ao da alma**, e é essa dupla
+natureza que torna o refino da linha inteira notoriamente difícil — tarefa de convenção de
+refinadores, em que mesmo um mestre erra por azar. Tem um **contra direto e canônico**: o
+*swallow fire Gu* de rank 4, com o qual um chefe de tribo simplesmente **engoliu todo o
+fogo-fantasma** e anulou a manobra.
+
+## Utilidade
+
+### Soul Search Gu (Gu da Busca de Alma)
+
+**O que faz.** O olhar do usuário emite um clarão que **já fere gravemente a alma do alvo**
+e, segurando-lhe a cabeça, **lê parte das memórias guardadas nela**. As memórias vêm
+**sempre desordenadas**. Extrai informação que a vítima jamais entregaria.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O custo é **cumulativo sobre a sanidade do interrogador**: usado com
+frequência, **embaralha a alma do próprio usuário**, e uma busca completa fere quem busca.
+As memórias desordenadas exigem trabalho de interpretação — ele não entrega respostas,
+entrega cacos.
+
+**Como se obtém.** Tratado como um dos Gu mortais **"excepcionais"**: ao confiscar o acervo
+de outrem, até um Gu Imortal separa exemplares como este em vez de descartá-los com o resto
+(ded.).
+
+**Evolução.** Não citada pela obra na faixa mortal. Existe uma **versão imortal de rank 7**
+com ficha própria em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] — mesmo
+conceito em outra escala, não evolução por fusão.
+
+**Interações.** Fere a alma do alvo, o que significa que ele **estraga o que interroga**:
+usá-lo antes de outros métodos de interrogatório queima a fonte. E, como todo ataque de
+alma, disputa contra a força da alma do alvo — quem refinou a própria alma com os Gu da
+seção seguinte resiste melhor.
+
+## Refino da alma
+
+A obra apresenta esta família como um **bloco**, e é assim que ela deve ser lida. São Gu de
+rank 3 vendidos em loja, cada um com um "tema", que se **consomem** para condensar e
+reforçar a alma do usuário. O procedimento, descrito em cena para o membro melhor
+documentado da família (o Wolf Soul Gu), é: injeta-se essência primordial, o Gu se expande
+numa alma-fantasma do bicho ou do conceito correspondente, ela **colide com a alma do
+usuário** e, se a alma dele for forte o bastante, é subjugada e **se funde** a ela em cerca
+de cinco minutos; o Gu se rompe e se esgota.
+
+Duas regras valem para todos:
+
+- **São acumuláveis, e um só não basta.** Um exemplar de rank 3 não converte ninguém em
+  alma de cem homens; a obra registra **nove** exemplares do mesmo tema para completar uma
+  conversão.
+- **Imprimem um caráter temático na alma**, e esse caráter **reforça os Gu do mesmo tema**.
+  Este é o efeito real da família, e a obra o afirma explicitamente para o Dragon Soul Gu:
+  quem refinou uma alma de dragão passa a ter **efeito reforçado ao usar Gu de tema
+  dragão** — Gu da força do dragão, das escamas de dragão, da viagem do dragão. Não é poder
+  direto: é uma **fundação temática que multiplica um arsenal inteiro**.
+
+**Preço de referência da família:** **7.700 pedras primevas** por um Gu de alma de rank 3,
+numa loja das Planícies do Norte.
+
+**Dieta.** — (a obra não dá dieta para nenhum membro da família; vários são consumidos no
+uso e portanto não chegam a ser sustentados, ded.).
+
+**Desvantagem comum.** Caro e lento: é preciso comprar **muitos** para completar um único
+tema, o que sai proibitivo. E **tranca o Mestre Gu num tema** — quem refinou alma de dragão
+fica ruim de trocar para outro arsenal. Some-se a fragilidade geral do caminho: mexer com a
+própria alma, quando dá errado, é dano direto no que o Mestre Gu **é**.
+
+**Evolução.** **Não citada pela obra para nenhum membro da família.** E aqui a ausência é
+estrutural, não acidental: a obra afirma que para refinar a alma **não existe Gu de rank
+4** — só um monte de rank 3. A escada, neste caso, é feita de quantidade, não de rank.
+
+**Interações.** Ressonância pura: cada exemplar refinado torna o dono melhor nos Gu do
+mesmo tema. E do outro lado, uma alma reforçada é a **defesa canônica contra ataques de
+olhar e de alma** — o Sight Blow Gu não faz nada contra quem investiu aqui.
+
+Os membros que a obra nomeia:
+
+| Gu | O que a obra dá |
+|---|---|
+| **Dragon Soul Gu** | O único com efeito descrito: refina a alma em **alma de dragão** e reforça os Gu de tema dragão nomeados acima. Rank 3 declarado. |
+| **Wolf Soul Gu** (ranks 3 a 5) | O único com **cena de uso** completa. Boneco de lobo cinzento do tamanho do polegar, de luz azul; a alma-lobo colide com a do usuário e se funde em cerca de cinco minutos. Empilhado, gera **alma de homem-lobo**, que **triplica a capacidade de subjugar reis-lobo**. A versão de rank 5 exige a alma de um lobo-imperador e tem **cerca de cinquenta por cento de sucesso**; a de rank 4 trava na alma de cem homens. |
+| **Divine Soul Gu** | Só o nome, dentro da lista. |
+| **Dream Soul Gu** | Só o nome. |
+| **Moon Soul Gu** | Só o nome. |
+| **General Soul Gu** | Só o nome. |
+| **Grudge Soul Gu** | Só o nome. |
+| **Poem Soul Gu** | Só o nome. Não confundir com o *Poetry Gu*, Gu vital de rank 5 do caminho da informação — são Gu diferentes. |
+| **Ice Soul Gu** | Só o nome; o tema seria o gelo `*`. |
+| **Horse Soul Gu** | Só o nome; o tema seria o cavalo. |
+| **Heroic Soul Gu** | Só o nome; o tema seria o heroísmo `*`. |
+| **Qi Spirit Gu**, **Body Spirit Gu**, **Cloud Spirit Gu**, **Wind Spirit Gu**, **Tiger Spirit Gu** | Só os nomes. Estes quatro trazem *spirit* (espírito) em vez de *soul* (alma) e a obra os arrola na mesma lista **sem explicar a diferença** — se é sinônimo ou subclasse, ela não diz. |
+
+---
+
+# Caminho da escravização
+
+Escola de multiplicação de força: em vez de um lutador, um lutador mais tudo o que ele
+domina. Ver [[07 - Enslavement Path|Enslavement Path]]. A regra que atravessa o caminho é
+que **a alma do Mestre Gu é o recurso limitante** — escravizar é uma disputa de alma, e
+falhar cobra contragolpe na alma de quem tentou.
+
+## Suporte
+
+### Beast Enslavement Gu — a família (Tiger, Deer, Bull, Fish)
+
+**O que faz.** Cada membro é dedicado a **uma espécie**: urso, lobo, tigre, veado, touro,
+peixe. O Gu é **implantado dentro do corpo do animal**, e a partir daí o Mestre Gu comanda
+a fera **só com a vontade**, à distância e sem contato — e o comando **vence a recusa
+instintiva do animal**, incluindo repugnância alimentar.
+
+O critério que a obra dá para separar os membros da família na prática é uma das
+mecânicas mais elegantes do sistema: **com carnívoros (urso, lobo, tigre) o controle é mais
+fácil**, porque a ordem já é do feitio do bicho; **com herbívoros (veado, touro) é preciso
+gastar a manipulação do Gu para forçá-los**. Ou seja, **o custo operacional do Gu depende da
+distância entre a ordem dada e o instinto do animal**.
+
+- **Tiger Enslavement Gu** (ranks 2 a 3, ded.) — grupo fácil. Comanda um predador de porte
+  sem rédea, sem contato e sem treino.
+- **Deer Enslavement Gu** (ranks 2 a 3, ded.) — grupo difícil. O animal é fraco e as ordens
+  fora do feitio dele cobram manipulação extra: o membro caro da família para o menor
+  retorno. A obra o cita com um "até", marcando-o como opção de recurso.
+- **Bull Enslavement Gu** (ranks 2 a 3, ded.) — grupo difícil, mesmo caso. Em troca,
+  escraviza um animal de grande massa e força bruta que é **gado**, disponível em qualquer
+  aldeia sem precisar caçar.
+- **Fish Enslavement Gu** (ranks 1 a 3) — escraviza **cardumes**. E aqui a obra mostra a
+  regra do caminho em ação: no uso normal o Mestre Gu precisa escravizar **um alvo por
+  vez**, com extremo cuidado, porque o grupo resiste; descuido faz a escravização falhar e,
+  em caso grave, o Mestre Gu sofre **contragolpe na própria alma**. Um cultivador de alma
+  reforçada (alma de cem homens) disparou **dezenas de exemplares de uma só vez,
+  casualmente, e nenhuma escravização falhou**.
+
+**Como é.** — (a obra não descreve a aparência dos Gu da família).
+
+**Dieta.** — (não informada para nenhum membro).
+
+**Desvantagem.** **Um Gu, uma espécie**: não transfere para outro tipo de fera, e sem o
+animal correspondente é um Gu inerte. Falha possível, com dano à alma do usuário.
+
+**Como se obtém.** — (a obra não dá receita nem preço; o exemplar de fish enslavement
+documentado foi fornecido em lote por um token de dono de terra abençoada e refinado na
+hora pelo usuário).
+
+**Evolução.** Não citada pela obra — é **faixa de rank**, não árvore. A obra registra da
+família como um todo que quase todos são **consumíveis** (usados uma vez, com sucesso ou
+não, se dispersam) e que **o preço dispara ao chegar ao rank 4**, porque a versão de rank 4
+já controla um rei-de-miríade-de-bestas.
+
+**Interações.** A família inteira funciona como **ingrediente** de uma receita maior:
+qualquer um deles serve como o componente "fera" do **Man-beast Life Burial Gu**, o Gu
+demoníaco de salto de rank descrito adiante. E o desempenho depende diretamente da **força
+da alma** do dono — o que amarra este caminho aos Gu de refino de alma da seção anterior.
+
+### Wolf Enslavement Gu — o degrau de rank 3
+
+**O que faz.** Lança uma **fumaça azulada a até uns duzentos passos**, que persegue o lobo
+alvo e se funde a ele em poucos fôlegos: a alma da fera resiste, mas perde para uma alma
+humana forte, e **a matilha inteira vem junto**. Some depois do uso. O que muda no rank 3 é
+a magnitude: a fumaça dele é "muito mais espessa" que a da versão de rank 2.
+
+**Como é.** Uma fumaça azulada.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Consumível — some após o uso. E tem contra declarado.
+
+**Como se obtém.** Série de ranks 1 a 5, e a obra dá o detalhe econômico: **cada rank tem
+suas próprias receitas, e há mais de uma por rank**. As de rank 1 a 3 se compram em mercado
+comum; as de rank 4 para cima são **monopólio de grandes tribos**.
+
+**Evolução.** Não citada pela obra — é **série**, não árvore: os cinco ranks coexistem, com
+receitas próprias, e nenhum se funde no outro.
+
+**Interações.** Tem um **contra canônico e barato**: o *self-ignition Gu* de rank 3,
+instalado na fera, **queima a fumaça antes que ela pouse**. É o modelo do sistema para
+"defesa por veículo": qualquer efeito entregue por fumaça, pó ou névoa tem uma resposta de
+mesmo rank. Depende da força da alma do usuário como todo o caminho.
+
+### Dog Guts Above Mountain Gu (Gu das Tripas de Cão Acima da Montanha)
+
+**O que faz.** É o degrau de rank 3 de uma escada muito bem documentada e muito específica:
+Gu que **anulam o medo instintivo dos cães diante de feras superiores**. O de rank 2 (*dog
+guts Gu*) permite a cães comuns suprimir o medo diante de um **rei de cem feras**; **este,
+de rank 3, permite resistir ao medo diante de um rei de mil feras**.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Serve **a cães**, não ao dono — é infraestrutura de matilha, e sem matilha
+não vale nada (ded.). E remove o medo, não a diferença de força: um cão sem medo diante de
+um rei de mil feras continua sendo um cão.
+
+**Como se obtém.** — (a obra não dá receita nem preço).
+
+**Evolução.** **Dog Guts Above Sea Gu (rank 4)**, que resiste à aura de um rei de miríade
+de feras; e no topo o **Dog Guts Above Heaven Gu (rank 5)**, "infame", que faz os cães
+entrarem em frenesi e atacarem como uma maré, com coragem para "derrubar o imperador dos
+cães". A obra dá os quatro nomes e os quatro ranks; **nenhum ingrediente**.
+
+**Interações.** É um Gu de **habilitação**, não de poder: ele não deixa o cão mais forte,
+deixa a matilha **utilizável** contra alvos que de outro modo a paralisariam. Casa
+diretamente com qualquer Gu de escravização canina e com o *wolf enslavement Gu* (ded.).
+
+---
+
+# Caminho da sabedoria
+
+Escola de processo: não bate, não defende, **resolve**. No rank 3 ela aparece com peças que
+atuam sobre etapas — refino, dedução, moral de tropa — e não sobre corpos.
+
+## Suporte
+
+### Flash of Inspiration Gu (Gu do Lampejo de Inspiração)
+
+**O que faz.** Entra no cérebro como um **clarão de luz branca** e **rasga de uma vez o nó
+do problema**, fechando a receita que estava a um passo do fim. Também **acelera a reação**
+do usuário, o que lhe dá um segundo emprego inteiramente diferente. Destrava uma receita ou
+qualquer padrão complexo, desde que haja dados suficientes.
+
+**Como é.** — (o efeito é um clarão branco dentro da cabeça).
+
+**Dieta.** Não se alimenta: consome-se no uso único (ded.).
+
+**Desvantagem.** **Uso único**, caro, e de **acesso politicamente restrito**.
+
+**Como se obtém.** Cerca de **29.000 pedras primordiais**, e exige um **selo de autorização
+de grau alto** para comprar — não basta ter o dinheiro.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É um dos dois Gu que a obra nomeia como **parceiro obrigatório do rainbow
+light Gu** (o outro é o *lightning thoughts Gu*): sem um deles, o usuário do Gu de luz voa
+rápido demais para reagir e se estatela na parede. Ou seja, a mesma peça serve para fechar
+uma receita na bancada e para não morrer numa fuga — dois usos que não têm nada a ver um com
+o outro, e essa é a assinatura do caminho da sabedoria.
+
+### Careful Gu (Gu do Cuidado)
+
+**O que faz.** Durante um refino, **resolve para o refinador justamente as etapas críticas
+que decidem a taxa de sucesso** da receita. É apoio de processo para os passos em que uma
+falha destrói tudo.
+
+**Como é.** — (tecnicamente do caminho da sabedoria).
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** O próprio Careful Gu **tem refino longo e cheio de passos** — para
+conseguir a ferramenta que facilita refinos, é preciso vencer um refino difícil.
+
+**Como se obtém.** **Herança secreta e exclusiva de um único mestre refinador** — não
+circula.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Multiplica a taxa de sucesso de **qualquer** receita, e portanto é o Gu que
+mais muda a economia de uma campanha centrada em refino. Complementa o Flash of Inspiration
+de forma exata: um resolve o **projeto** (a receita que não fecha), o outro resolve a
+**execução** (o passo que costuma falhar). Ver [[06 - Refino de Gu|Refino de Gu]].
+
+### Battle Thought Gu (Gu do Pensamento de Batalha) — ranks 3 e 4
+
+**O que faz.** Ao contrário dos outros Gu de pensamento, este é ativado **pelos comandantes
+de um exército sobre os soldados**, e não sobre si mesmos: os pensamentos de batalha entram
+no cérebro da tropa de elite e **fazem a intenção de combate deles disparar, tornando-os
+destemidos**. Visualmente são pensamentos vermelhos, que emergem e ficam pairando acima da
+tropa.
+
+Além de moral, funcionam como **blindagem mental coletiva**: no combate mostrado, uma nuvem
+de pensamentos estelares inimiga varreu vários exércitos de elite — massacrando os de um
+clã e deixando gritos de agonia —, mas a tropa protegida pelos pensamentos de batalha
+**resistiu de frente ao impacto**, apesar de eles serem poucos em número.
+
+**Como é.** Pensamentos vermelhos pairando acima da tropa.
+
+**Dieta.** Dieta não informada; nessa faixa o intervalo vai de cerca de um mês a alguns
+meses (ded.).
+
+**Desvantagem.** **Poucos pensamentos são gerados por ativação**, e o efeito **depende de
+tropa previamente treinada**: a obra é explícita de que aquela unidade já era formada por
+Mestres Gu selecionados a dedo, com treinamento maciço e recursos enormes investidos, cada
+um capaz de resistir sozinho ao impacto de pensamentos — os battle thought Gu só **somaram**
+a essa base. E ressalva a comparação: o atacante havia usado apenas metade da nuvem contra
+eles. Não protege quem não é da tropa alvo. Custo, duração e sequelas: —
+
+**Como se obtém.** **Equipamento militar de série**: uma tribo distribui exemplares de rank
+3 e 4 aos comandantes de sua tropa de elite, um por escalão (ded.).
+
+**Evolução.** Não citada pela obra — a obra registra as versões de rank 3 e 4 lado a lado,
+sem descrever passagem de uma para outra.
+
+**Interações.** Exige **ativação coordenada e simultânea por vários comandantes de patentes
+diferentes**, cada um com seu Gu (ded.: é efeito de estado-maior, não de soldado
+individual). É o **único contra-ataque coletivo à guerra mental** que a obra mostra, e
+portanto a resposta canônica aos Gu de pensamento ofensivos — do mesmo caminho, o que
+reforça a regra: contra sabedoria, sabedoria.
+
+---
+
+# Caminho do tempo
+
+O caminho mais caro e mais raro do mundo. No rank 3 ele aparece na sua forma mais simples e
+mais útil: tempo engarrafado.
+
+## Utilidade
+
+### Day Gu (Gu do Dia)
+
+**O que faz.** **Contém três dias de tempo**, liberados de uma vez. O tempo guardado tem
+dois usos: **acelerar um refino** ou **somar-se ao tempo de vida** do usuário.
+
+**Como é.** Uma **concha do tamanho da palma de uma criança**.
+
+**Dieta.** **Água do Rio do Tempo** — o que na prática significa **nenhum problema de
+alimentação** para quem tem acesso à fonte, e problema insolúvel para quem não tem.
+
+**Desvantagem.** O ganho de vida vem **ao custo de marcas de lei gravadas no corpo** — e
+marcas de tempo, como quaisquer outras, entram na conta de conflito com o resto do arsenal.
+A dieta exige acesso ao Rio do Tempo, o que não é trivial.
+
+**Como se obtém.** **Gu selvagem comum**: encontra-se em qualquer lugar das cinco regiões, e
+é abundante no Rio do Tempo. Quem tem a receita mortal correspondente compra os materiais e
+refina os próprios; quem não tem, compra os Gu prontos **a granel**.
+
+**Evolução.** Não citada pela obra. A obra registra, na mesma família, o **Month Gu** (rank
+acima de 3), que guarda tempo em unidade de mês, e o **Year Gu**, que existe em versões
+mortais de um, dois e cinco anos — e que vira **imortal ao acumular dez anos**, único caso
+na obra em que a fronteira mortal/imortal de um Gu é definida por um **número acumulado** e
+não por refino. Existe também uma **versão imortal do Day Gu (rank 6)**, com ficha própria
+em [[05 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+
+**Interações.** É o **acelerador universal** do sistema: qualquer processo lento — um
+refino, a instalação de um fantasma de fera, a têmpera de um osso — encolhe se houver tempo
+engarrafado para queimar. A obra registra que Mestres Gu comuns sem paciência para o
+trabalho de moagem **contratam Mestres do caminho do tempo** para acelerar o próprio fluxo
+de tempo, o que faz deste caminho um **serviço** antes de ser um arsenal. E deixa marcas de
+tempo no corpo, que interagem com tudo o mais pela regra geral (ded.).
+
+---
+
+# Caminhos do espaço e do movimento
+
+Duas famílias que a obra trata juntas na prática, e que compartilham a mesma fraqueza: o
+[[14 - Space Path|caminho do espaço]] é um dos dois que **falham** num corpo carregado de
+marcas de força.
+
+## Movimento
+
+### Vertical Crash Gu (Gu da Investida Vertical)
+
+**O que faz.** **Investida em linha reta de até cinquenta passos**, com a força do próprio
+corpo do usuário — o deslocamento em si **é** o ataque, e um alvo atingido em cheio é
+arremessado **vinte passos**.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Trajetória reta e previsível (ded.). Obstáculo no caminho encurta a
+investida; quem estiver a sessenta passos está simplesmente **fora de alcance**. Recarga de
+cinco respirações.
+
+**Como se obtém.** Comprado pronto no mercado.
+
+**Evolução.** **Charging Crash Gu (rank 4)** — receita fechada e das poucas totalmente
+explícitas do rank: **Vertical Crash Gu + Horizontal Charge Gu**, ambos rank 3 e ambos
+comprados prontos. O resultado **dobra o alcance e corta o tempo de recarga pela metade**,
+ao custo de mais essência por uso.
+
+**Interações.** O par com o **Horizontal Charge Gu** é a lição de tática mais concreta do
+catálogo: as recargas dos dois ficam **defasadas em três respirações**, de modo que,
+alternando entre eles, **sempre há uma investida disponível**. Combina com fantasmas de
+fera de corrida — a força de cavalo aumentou a velocidade da investida em trinta por cento
+em relação à de javali. E, sendo Gu de movimento e não de espaço propriamente dito, ele
+**não** sofre a falha de ativação que atinge o position swap: por isso é o deslocamento
+padrão de quem cultiva força.
+
+### Horizontal Charge Gu (Gu da Investida Horizontal)
+
+**O que faz.** Lança o corpo numa **investida lateral, como um caranguejo**, por cerca de
+cinquenta passos. Mesma lógica: a força é a do próprio corpo, então o deslocamento vira
+ataque.
+
+**Como é.** —
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Mesma previsibilidade do irmão (ded.). Recarga de poucas respirações.
+
+**Como se obtém.** Comprado pronto no mercado.
+
+**Evolução.** **Charging Crash Gu (rank 4)** — é a outra metade da mesma fusão.
+
+**Interações.** Cobre o eixo que o Vertical Crash não cobre, e é a metade que fecha o
+sistema de recarga alternada descrito acima. Comprar um sem o outro é comprar metade da
+peça.
+
+### Blitz Gu (Gu do Arranque)
+
+**O que faz.** **Aceleração explosiva**: acionado, o corpo dispara para a frente "como uma
+bala de canhão" — um impulso brusco, e não um aumento sustentado de deslocamento. O uso
+canônico é **perseguição**: num túnel estreito, onde o grupo perseguidor foi obrigado a se
+esticar numa fila indiana e ninguém conseguia ultrapassar ninguém, um ancião de clã acionou
+o Blitz Gu, **saiu da fila e alcançou sozinho o fugitivo** que já ia à frente.
+
+**Como é.** — Rank 3 `(ded.)`.
+
+**Dieta.** —
+
+**Desvantagem.** **Impulso, não corrida**: gasta-se num arranco e deixa o usuário isolado à
+frente dos aliados, ao alcance de quem ele acabou de alcançar. Duração, distância e custo: —
+
+**Como se obtém.** —
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Foi contido não por outro Gu de velocidade, mas por um golpe que
+**desacelerou** o usuário — uma lâmina de sangue disparada para trás. A lição de mesa é
+direta: contra um Gu de arranque, a resposta não é correr mais, é **frear o outro**.
+
+### Position Swap Gu (Gu da Troca de Posição)
+
+**O que faz.** **Troca instantaneamente a posição do usuário com um alvo** — aliado, inimigo
+ou a própria montaria. Escapa de qualquer emboscada e permite tirar um aliado do perigo no
+mesmo gesto em que se põe nele.
+
+**Como é.** — Rank 3 `(ded.)`.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Gasto alto de essência, que cresce com a distância e com o peso ou a
+força do alvo.** É um custo explorável, e a obra mostra exatamente como.
+
+**Como se obtém.** Obtido por **aposta de rochas** no caso documentado; receita não
+informada.
+
+**Evolução.** Não citada pela obra. Existe um **Location Swap Gu de rank 4** que faz coisa
+parecida exigindo contato físico, mas a obra **não afirma** que um venha do outro.
+
+**Interações.** É **um dos dois Gu que a obra nomeia** na regra do conflito força × espaço:
+num corpo com marcas de força, ele **falha ao ser usado**. E o mesmo Gu fornece o melhor
+estudo de caso de interação de toda a obra, do lado do alvo: como o custo cresce com a
+força de quem é trocado, um adversário do caminho da força **manifestou vários fantasmas de
+propósito** para tornar cada reposicionamento caríssimo — sabendo que os fantasmas não
+custam essência nenhuma a quem os invoca. Um usuário chegou a **remover todos os fantasmas
+do próprio corpo** só para baratear o Gu.
+
+> [!note] Para o design
+> A lição transferível é que, neste sistema, **compara-se o custo por ação dos dois lados,
+> não o dano**. Aquela luta foi decidida antes do primeiro soco por uma conta de aritmética.
+
+### Thunderwings Gu (Gu das Asas de Trovão)
+
+**O que faz.** Materializa um **par de asas de trovão nas costas** e concede **voo veloz**.
+Voo de verdade já no rank 3.
+
+**Como é.** Em repouso, **duas tatuagens de raio** nas costas.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** **Alto consumo** de essência — mais rápido ainda que a velocidade —, e o
+voo dura pouco. Serve para um reposicionamento, não para viajar.
+
+**Como se obtém.** **Espólio de combate**: tirado de um lobo-relâmpago-frenético abatido.
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** Ressoa com o arsenal de raio e de som (ded.). Como Gu de movimento, sofre o
+enfraquecimento por marcas de força — o registro canônico é de um Gu de vento de rank 4
+perdendo eficácia num corpo cheio de fantasmas de fera, e a mesma regra se aplica aqui
+(ded.).
+
+### Eagle Wings Gu (Gu das Asas de Águia)
+
+**O que faz.** Concede **voo com boa velocidade e altura**, e é **especialmente ágil para
+virar e manobrar no ar** — a obra o destaca justamente por girar e mudar de direção com
+facilidade.
+
+**Como é.** Fica no usuário como uma **tatuagem de par de asas de águia nas costas**.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.).
+
+**Desvantagem.** Um Mestre de rank 4 com um Gu de voo de rank 3 voa, mas **voa devagar para
+o padrão dele**: para velocidade e distância reais é preciso subir de rank.
+
+**Como se obtém.** Comprado pronto nos **mercados temporários das tribos das Planícies do
+Norte**.
+
+**Evolução.** **Eagle Rise Gu (rank 4)** — com risco documentado: uma tentativa registrada
+**só deu certo na terceira, depois de duas falhas**. E há um dado contraintuitivo que vale
+guardar: o de rank 3 tem **manobrabilidade melhor** que o de rank 4, que ganha em velocidade
+e distância. Subir de rank aqui é uma **troca**, não um ganho puro.
+
+**Interações.** Voo resolve categorias inteiras de problema — terreno, cerco, perseguição —
+e por isso ele é a peça de deslocamento que mais muda o desenho de um encontro. Sofre o
+enfraquecimento por marcas de força como todo Gu de movimento (ded.).
+
+## Logística
+
+### Blue Farm Slug Gu (Gu da Lesma Azul de Fazenda)
+
+**O que faz.** É um **contêiner vivo**: engolem-se os itens pelo corpo dela, que **incha até
+cinco vezes o tamanho original**. Expande a capacidade de carga em cinco vezes.
+
+**Como é.** Uma **lesma azul sem concha, maior que um elefante**.
+
+**Dieta.** Dieta não informada; no rank 3 come cerca de uma vez por mês (ded.). **Gasta
+pouquíssima essência.**
+
+**Desvantagem.** **Não ataca**, é lenta como caramujo, e **morre de frio sem aquecimento
+externo** — uma campanha em região fria a mata sozinha.
+
+**Como se obtém.** — (a obra a apresenta como ferramenta logística de **saque de guerra**,
+mais do que como equipamento de aventura).
+
+**Evolução.** Não citada pela obra.
+
+**Interações.** É a peça que decide o que um grupo consegue **levar embora** depois de
+vencer — e portanto interage menos com combate do que com economia. Ver
+[[14 - Espólio de Gu|Espólio de Gu]].

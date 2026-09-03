@@ -2696,39 +2696,51 @@ terreno livre para a mesa.
 
 ## Notas de montagem
 
-**Quantos Gu.** Esta nota cataloga **83 Gu de rank 2**. Deles, **52** vêm marcados como
-rank 2 puro no catálogo plano; **18** vêm de linhas de faixa que incluem o rank 2 (do tipo
-"1-2", "2-3" ou "2 a 3 (ded.)"); e **13** foram acrescentados nesta montagem por
-verificação direta no texto-fonte, porque o catálogo plano os registrava sem rank ou com
-rank divergente. Os treze acrescentados são: `Bronze Skin Gu (rank 2)`, `Wolf Enslavement
-Gu`, `Dog Guts Gu`, `Monolith Gu`, `Iceblade Gu`, `Jade Wind Wheel Gu`, `Golden Needle
-Gu`, `Plunder Gu`, `Earth Treasury Flower Gu`, `Breath Concealment Gu`, `Light Sphere Gu`,
-`Amplify Effect Gu` e `Accumulate Virtue Gu`. Além disso, duas fichas do catálogo plano
-foram **fundidas numa só** (`Moon Raiment` e `Moonveil Gu`, que a verificação mostrou ser
-o mesmo Gu com duas grafias).
+**Quantos Gu.** Esta nota cataloga **83 Gu de rank 2**. A composição:
 
-**Quantos ficaram sem evolução citada.** **Cinquenta e um** dos 83 Gu recebem a linha
-"Evolução: não citada pela obra". Isso é **61%**, e a proporção é coerente com o
-levantamento geral do projeto, que encontrou cerca de um Gu com evolução citada para cada
-seis sem. **O silêncio é a regra, não a exceção** — e é essa lista que autoriza a designer
-a inventar rotas sem contradizer o cânone.
+- **51** vêm de linhas marcadas como rank 2 puro no catálogo plano. Eram 52 linhas, mas
+  duas delas — `Moon Raiment` e `Moonveil Gu` — são o mesmo Gu com duas grafias, e foram
+  fundidas numa ficha só.
+- **17** vêm de linhas de faixa que incluem o rank 2, do tipo "1-2", "2-3" ou "2 a 3
+  (ded.)".
+- **15** foram acrescentados nesta montagem por verificação direta no texto-fonte, porque
+  o catálogo plano os registrava sem rank, com rank divergente, ou não os registrava como
+  Gu independentes. São eles: `Bronze Skin Gu (rank 2)`, `Wolf Enslavement Gu`, `Dog Guts
+  Gu`, `Monolith Gu`, `Iceblade Gu`, `Jade Wind Wheel Gu`, `Golden Needle Gu`, `Plunder
+  Gu`, `Earth Treasury Flower Gu`, `Breath Concealment Gu`, `Light Sphere Gu`, `Amplify
+  Effect Gu`, `Accumulate Virtue Gu`, `Moon Scar Gu` e `Moonwhirl Gu`.
 
-Dentro dos 32 que **têm** rota citada, vale separar três qualidades diferentes de
+**Quantos ficaram sem evolução citada.** **Cinquenta e oito** dos 83 Gu recebem a linha
+"Evolução: não citada pela obra" — ou seja, **70%**. Os outros **vinte e cinco** têm alguma
+rota registrada. Vale a comparação: o levantamento geral do projeto, feito sobre os
+catálogos mortal e imortal inteiros, encontrou cerca de um Gu com evolução citada para
+cada seis sem; aqui a proporção é de um para pouco mais de dois, o que faz do rank 2 uma
+das faixas **mais bem documentadas** de toda a obra. Isso é coerente com o que o rank 2 é
+no sistema: o andar onde as árvores de refino abrem.
+
+Ainda assim, o silêncio continua sendo a regra — e é justamente a lista dos 58 que
+autoriza a designer a inventar rotas sem contradizer o cânone.
+
+Dentro dos 25 que **têm** rota citada, vale separar duas qualidades muito diferentes de
 informação, porque elas não valem o mesmo:
 
-- **Rota nomeada com receita fechada** (o melhor caso): `White Jade Gu`, `Black Mane Gu`,
-  `Moonglow Gu`, `Moon Scar Gu`, `Moonwhirl Gu`, `Moon Raiment`, `Four Flavors Liquor
-  Worm`, `Defecate Gu`, `Double Orifice Stove Gu`, `Ghost Fire Gu`.
-- **Rota nomeada sem o segundo componente** (o caso mais comum): `Iceblade Gu`, `Digital
-  Shade Gu`, `Lizard House Gu`, `Roaming Zombie Gu`, `Dog Guts Gu`, `Bronze Skin Gu`,
-  `Multitask Gu`, `Brilliance of Two Stars Gu`, `Amplify Effect Gu`.
-- **Rota afirmada e não nomeada** (encaixe canônico aberto — o mais útil para a mesa):
-  `Nine Leaf Vitality Grass` ("mesmo a opção de avanço não é satisfatória", e a obra nunca
-  diz qual é), `Moon Scar Gu` e `Moonwhirl Gu` (várias receitas de rank 3 do clã exigem um
-  dos dois como base, e nenhuma é nomeada), `Moon Raiment` (as duas pontas da cadeia até o
-  rank 5, e nenhum degrau do meio), `Breath Concealment Gu` (a versão de rank 5 existe e
+- **Rota nomeada** — a obra dá o nome do Gu de destino. São dezoito: `Bronze Skin Gu`,
+  `White Jade Gu`, `Water Shield Gu` (e aqui o registro é de uma fusão que **falhou e
+  matou o Gu**, o que é ainda mais informativo), `Black Mane Gu`, `Iceblade Gu`, `Double
+  Orifice Stove Gu`, `Defecate Gu`, `Ghost Fire Gu`, `Wolf Enslavement Gu`, `Multitask
+  Gu`, `Dog Guts Gu`, `Digital Shade Gu`, `Roaming Zombie Gu`, `Four Flavors Liquor
+  Worm`, `Brilliance of Two Stars Gu`, `Lizard House Gu`, `Moonglow Gu` e `Moon Harbinger
+  Gu`. Destes, só dez trazem a **receita fechada** com todos os componentes; nos outros a
+  obra dá o Gu-base e cala sobre o segundo ingrediente, que é o padrão dela.
+- **Rota afirmada e não nomeada** — a obra diz que o degrau seguinte existe e nunca diz
+  qual é. São sete, e são os pontos mais úteis desta nota para a mesa, porque permitem
+  inventar **dentro** de um encaixe canônico: `Nine Leaf Vitality Grass` ("mesmo a opção
+  de avanço não é satisfatória", sem dizer qual é), `Bear Enslavement Gu` (a versão de
+  rank 3 existe e não tem receita descrita), `Breath Concealment Gu` (a de rank 5 existe e
   os degraus não), `Earth Treasury Flower Gu` (o rei de rank 5 existe e os degraus não),
-  `Bear Enslavement Gu` (a versão de rank 3 existe e não tem receita descrita).
+  `Moon Scar Gu` e `Moonwhirl Gu` (várias receitas de rank 3 do clã exigem um dos dois
+  como base, e nenhuma é nomeada) e `Moon Raiment` (as duas pontas da cadeia até o rank 5,
+  e nenhum degrau do meio).
 
 **O que precisou ser deduzido.** Cinco tipos de dedução aparecem nesta nota, e todos estão
 marcados no lugar em que ocorrem:

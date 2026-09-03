@@ -170,15 +170,28 @@ exames em intervalos fixos.
   para outra região atrás de oportunidades. A meritocracia não expulsa: ela torna a
   permanência inviável.
 
-### Deserto Ocidental — o mundo das cidades
+### Deserto Ocidental — clãs que governam cidades
 
-A região das grandes cidades e das rotas comerciais que as ligam. É a menos documentada
-das cinco em detalhe institucional, mas seu perfil é nítido: **a política ali roda em
-prestígio, não em direito**.
+A região das grandes cidades e das rotas comerciais que as ligam. Seu perfil é nítido:
+**a política ali roda em prestígio, não em direito**.
 
-- **Cidades e caravanas** como unidades sociais básicas. Caravanas mercantes do deserto,
-  com batedores especializados na vanguarda, são um dos poucos caminhos de ascensão social
-  abertos a mortais comuns.
+Antes de tudo, uma correção que muda a leitura da região: é fácil olhar para as cidades e
+as caravanas e concluir que a unidade social do Oeste é a cidade. Não é.
+
+> **A cidade é a unidade econômica; a unidade política continua sendo o clã.** Assim como
+> a Fronteira do Sul, o Deserto do Oeste se organiza em clãs — as catorze super forças da
+> região são catorze **clãs**, não catorze cidades. E as cidades pertencem a eles: uma
+> cidade grande é descrita como "uma das principais cidades do clã tal", e um oásis inteiro
+> é território de um clã, com as forças menores submetidas a ele nos anéis externos. Quem
+> manda numa cidade do Oeste é um senhor de cidade que responde ao clã dono do oásis.
+
+A diferença real em relação ao sul, então, não é a substituição do clã pela cidade — é o
+que o clã do Oeste faz com o que possui. O clã sulista se define por sangue e território;
+o clã ocidental se define por **rede comercial**. Daí o que segue:
+
+- **Cidades e caravanas são as unidades econômicas básicas** e a face visível da região.
+  Caravanas mercantes do deserto, com batedores especializados na vanguarda, são um dos
+  poucos caminhos de ascensão social abertos a mortais comuns.
 - **Fronteiras decididas por duelo.** Super forças da região resolvem limites territoriais
   por **cartas de desafio** e combate entre líderes — e rivais escolhem deliberadamente os
   momentos de fraqueza do adversário, como um período de luto, para forçar o desafio.
@@ -210,9 +223,9 @@ entrada natural para uma campanha de viajantes.
 
 | | Fronteira Sul | Planícies do Norte | Continente Central | Deserto Ocidental | Mar Oriental |
 |---|---|---|---|---|---|
-| Unidade social | Clã | Tribo | Seita | Cidade / caravana | Área marítima |
-| Critério de pertencimento | Sangue | Sangue e tribo | Talento | Comércio e prestígio | Posse territorial |
-| Pergunta que se faz | "De que clã?" | "De que tribo?" | "De que seita?" | "Com quem negocia?" | "De que mar?" |
+| Unidade social | Clã | Tribo | Seita | Clã (que governa cidades e caravanas) | Área marítima |
+| Critério de pertencimento | Sangue | Sangue e tribo | Talento | Sangue — mas a posição do clã se mede em comércio e prestígio | Posse territorial |
+| Pergunta que se faz | "De que clã?" | "De que tribo?" | "De que seita?" | "De que clã — e com quem ele negocia?" | "De que mar?" |
 | Instrumento de disputa | Desafio escrito, *spar* | Duelo de especialistas, trono decenal | Disputas acordadas, votação | Carta de desafio entre líderes | Guerra por território |
 | Traço marcante | Pretexto formal obrigatório | Escravidão e tabu da covardia | Burocracia e tributo | Prestígio como lei | Riqueza e abertura |
 

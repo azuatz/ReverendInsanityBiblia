@@ -10,7 +10,7 @@ aliases:
   - Major Powers
   - Super Forces
 status: consolidado
-fontes: ["cap. 157", "cap. 193-198", "cap. 211", "cap. 229", "cap. 231", "cap. 241-243", "cap. 271", "cap. 273-274", "cap. 281", "cap. 302", "cap. 334-335", "cap. 341", "cap. 353", "cap. 359", "cap. 366", "cap. 375", "cap. 397", "cap. 407", "cap. 419", "cap. 439-441", "cap. 445", "cap. 467-468", "cap. 470", "cap. 478-489", "cap. 492", "cap. 497", "cap. 514-529", "cap. 536-545", "cap. 552-569", "cap. 638", "cap. 654-658", "cap. 669", "cap. 697", "cap. 700-705", "cap. 711", "cap. 729", "cap. 741-742", "cap. 744", "cap. 748-752", "cap. 764", "cap. 768", "cap. 775-777", "cap. 795", "cap. 797", "cap. 804", "cap. 812-814", "cap. 819", "cap. 827-832", "cap. 837", "cap. 839-849", "cap. 871", "cap. 892-899", "cap. 903", "cap. 906-911", "cap. 918-928", "cap. 931", "cap. 943-956", "cap. 963-966", "cap. 977-978", "cap. 980", "cap. 982-993", "cap. 1000", "cap. 1005", "cap. 1008-1011", "cap. 1016", "cap. 1030", "cap. 1035-1037", "cap. 1046", "cap. 1049-1051", "cap. 1060-1071", "cap. 1077", "cap. 1082", "cap. 1090", "cap. 1103", "cap. 1104", "cap. 1109-1111", "cap. 1120", "cap. 1127", "cap. 1146", "cap. 1151", "cap. 1155-1170", "cap. 1186", "cap. 1190-1199", "cap. 1207-1210", "cap. 1218", "cap. 1221-1242", "cap. 1248", "cap. 1254", "cap. 1257", "cap. 1261-1269", "cap. 1296-1297", "cap. 1301-1313", "cap. 1339-1345", "cap. 1355", "cap. 1375-1390", "cap. 1394-1395", "cap. 1412", "cap. 1435-1437", "cap. 1472", "cap. 1503-1508", "cap. 1516-1522", "cap. 1519-1521", "cap. 1530", "cap. 1553", "cap. 1574", "cap. 1582", "cap. 1592", "cap. 1596-1610", "cap. 1620-1621", "cap. 1628-1633", "cap. 1648-1652", "cap. 1688-1697", "cap. 1700-1708", "cap. 1725-1748", "cap. 1757", "cap. 1850-1885", "cap. 1906", "cap. 1915-1916", "cap. 1923", "cap. 1926", "cap. 1931", "cap. 1971-1996", "cap. 2010", "cap. 2038-2044", "cap. 2049-2089", "cap. 2099-2108", "cap. 2115", "cap. 2136-2139", "cap. 2160-2175", "cap. 2216-2220", "cap. 2239-2258", "cap. 2273", "cap. 2298-2299", "cap. 2321-2332"]
+fontes: ["cap. 157", "cap. 193-198", "cap. 211", "cap. 229", "cap. 231", "cap. 241-243", "cap. 271", "cap. 273-274", "cap. 281", "cap. 302", "cap. 334-335", "cap. 341", "cap. 353", "cap. 359", "cap. 366", "cap. 375", "cap. 397", "cap. 407", "cap. 419", "cap. 439-441", "cap. 445", "cap. 467-468", "cap. 470", "cap. 478-489", "cap. 492", "cap. 497", "cap. 514-529", "cap. 536-545", "cap. 552-569", "cap. 638", "cap. 654-658", "cap. 669", "cap. 673", "cap. 697", "cap. 700-705", "cap. 711", "cap. 729", "cap. 741-742", "cap. 744", "cap. 748-752", "cap. 764", "cap. 768", "cap. 775-777", "cap. 795", "cap. 797", "cap. 804", "cap. 812-814", "cap. 819", "cap. 827-832", "cap. 837", "cap. 839-849", "cap. 871", "cap. 892-899", "cap. 903", "cap. 906-911", "cap. 918-928", "cap. 931", "cap. 943-956", "cap. 963-966", "cap. 977-978", "cap. 980", "cap. 982-993", "cap. 1000", "cap. 1005", "cap. 1008-1011", "cap. 1016", "cap. 1030", "cap. 1035-1037", "cap. 1046", "cap. 1049-1051", "cap. 1060-1071", "cap. 1077", "cap. 1082", "cap. 1090", "cap. 1103", "cap. 1104", "cap. 1109-1111", "cap. 1120", "cap. 1127", "cap. 1146", "cap. 1151", "cap. 1155-1170", "cap. 1186", "cap. 1190-1199", "cap. 1207-1210", "cap. 1218", "cap. 1221-1242", "cap. 1248", "cap. 1254", "cap. 1257", "cap. 1261-1269", "cap. 1296-1297", "cap. 1301-1313", "cap. 1339-1345", "cap. 1355", "cap. 1375-1390", "cap. 1394-1395", "cap. 1412", "cap. 1435-1437", "cap. 1472", "cap. 1503-1508", "cap. 1516-1522", "cap. 1519-1521", "cap. 1530", "cap. 1553", "cap. 1574", "cap. 1582", "cap. 1592", "cap. 1596-1610", "cap. 1620-1621", "cap. 1628-1633", "cap. 1648-1652", "cap. 1688-1697", "cap. 1700-1708", "cap. 1725-1748", "cap. 1757", "cap. 1807", "cap. 1850-1885", "cap. 1906", "cap. 1915-1916", "cap. 1923", "cap. 1926", "cap. 1931", "cap. 1971-1996", "cap. 2010", "cap. 2038-2044", "cap. 2049-2089", "cap. 2099-2108", "cap. 2115", "cap. 2131", "cap. 2136-2139", "cap. 2160-2175", "cap. 2216-2220", "cap. 2239-2258", "cap. 2273", "cap. 2289", "cap. 2298-2299", "cap. 2321-2332"]
 conhecimento: misto
 ---
 
@@ -458,7 +458,58 @@ clã dá acesso a políticas preferenciais e a uma rede comercial mais ampla —
 tempo **dificulta negociar com o clã rival e seus parceiros**. O comércio da região é, por
 desenho, um sistema de lealdades excludentes.
 
-### As super forças nomeadas
+### As catorze super forças
+
+A obra enumera a lista fechada de uma vez só. São **catorze clãs**:
+
+> **Lin · Xiao · Tian · Fang · Dong · Wan · Sun · Mo · Tang · Qin · Shi · Gong · Zuo Qiu · Tuoba**
+
+(*Zuo Qiu* e *Tuoba* são sobrenomes compostos — são dois clãs, não quatro.) Não existe
+ranking oficial de força entre elas, e a obra explica por quê: a força de uma super força
+vem de coisas diferentes — número de imortais, recursos, Casas de Gu Imortais — e cada casa
+é forte numa e fraca noutra. O Deserto do Oeste, ao contrário da Fronteira do Sul, **nunca
+teve uma primeira colocada reconhecida**. O que existe é um consenso vago: Xiao e Tian são
+as mais bem vistas, por terem tido os maiores negócios na última era de paz e por terem
+rank 8 na liderança.
+
+As fichas completas das catorze — quem manda, do que vivem, com quem brigam, que golpe
+assinam — estão em [[05 - Deserto Ocidental|Deserto Ocidental]]. O que vem abaixo é só o
+mapa de bolso, para você saber qual nome procurar lá.
+
+| Clã | O que domina, em uma linha |
+|---|---|
+| **Fang** | Casas de Gu, projeto e construção; herança própria de sabedoria dedicada a isso |
+| **Xiao** | A maior rede comercial da região; o token de transação mais valioso; rank 8 na liderança |
+| **Tian** | Madeira e terra, e a administração de aberturas imortais como serviço exportado; rank 8 na liderança |
+| **Tang** | Caminho do sonho, por escolha deliberada de casa; em declínio; controla um afluente do Rio do Tempo |
+| **Dong** | Rival comercial direto do Xiao no noroeste; vizinho tenso do Fang |
+| **Wan** | O articulador político: é a casa que monta coalizões contra quem cresce demais |
+| **Shi** | Minério — o Deserto das Miríades de Minérios e sua corrente subterrânea de fragmentos de ouro |
+| **Mo** | O deserto do lobo inteiro; recruta nas cidades Mestres Gu de aptidão A para nutrir como futuros imortais |
+| **Gong** | Combate a longa distância e golpes de maldição que matam a partir de um vestígio da sombra do alvo |
+| **Lin** | Caminho do osso `(ded.)`; rede de pontos de recurso cujas formações de defesa também teleportam |
+| **Sun** | A casa declaradamente mais covarde da região — e, por isso mesmo, a melhor em investigação |
+| **Zuo Qiu** | Golpe imortal que **restringe Casas de Gu Imortais**; forma bloco regional com Tuoba e Shi |
+| **Tuoba** | Vizinho e aliado estável do Zuo Qiu e do Shi; fornece a leitura política do bloco |
+| **Qin** | `—` A obra dá o nome e nada mais |
+
+> [!warning] Duas notas de lista que valem registro
+> **A décima quinta.** A própria obra abre a exceção: *"se o misterioso e recluso clã Yi
+> também for contado, seriam quinze clãs"*. O clã Yi do Deserto do Oeste é um super clã
+> oculto, poderoso e antiquíssimo, cuja existência as outras super forças tratam como boato
+> sem prova até topar com ele. Seus imortais são **homens-pena**, e a casa se mantém
+> escondida há eras usando um método deixado por um dos Veneráveis. Não confunda com o
+> **clã Yi da Fronteira do Sul**, que é outra casa, aberta e conhecida, no canto nordeste
+> daquela região.
+>
+> **A divergência do clã Xi.** O clã Xi é do Deserto do Oeste, tem primeiro ancião supremo
+> citado entre o escalão mais alto da região e teve um **ancestral de rank 8** de quem a
+> obra conta que saiu da reclusão e impôs ordem ao deserto inteiro pela força. Mesmo assim,
+> **ele não aparece na lista das catorze**. A obra não resolve a contradição: ou o clã Xi
+> não é formalmente "super força" apesar do rank 8, ou a lista é posterior a alguma mudança.
+> Registramos a ambiguidade em vez de escolher.
+
+### As mais desenvolvidas, em detalhe
 
 - **Clã Fang** — o mais bem documentado. **O que domina: o negócio de Casas de Gu.** É
   mundialmente famoso pela construção e pelo projeto de Casas de Gu, mortais e imortais, e
@@ -490,13 +541,13 @@ desenho, um sistema de lealdades excludentes.
   maioria de baixa utilidade. Possui Casa de Gu Imortal própria e **controla um afluente do
   Rio do Tempo** perto de sua sede, protegido por defesa pesada — um recurso territorial
   raríssimo.
-- **Clã Dong** — super clã, rival comercial direto do clã Xiao no noroeste da região. **Só
-  o nome e a rivalidade**: a obra não declara especialidade.
-- **Clã Mo** — super força; a Cidade do Lobo de Areia é uma de suas cidades principais.
-  Recruta ativamente Mestres Gu de aptidão de grau A e lealdade comprovada nas cidades, para
-  nutrir como sementes de futuros imortais. Entrar na cidade custa uma pedra primordial por
-  pessoa. **Só o nome e o método de recrutamento.**
-- **Clã Sun** — super força citada. **Só o nome.**
+- **Clã Mo** — a Cidade do Lobo de Areia é uma de suas cidades principais. Recruta ativamente
+  nas cidades Mestres Gu de aptidão de grau A e lealdade comprovada, para nutrir como sementes
+  de futuros imortais. Entrar na cidade custa uma pedra primordial por pessoa.
+
+As outras oito casas — Dong, Wan, Gong, Lin, Sun, Zuo Qiu, Tuoba e Qin — estão fichadas em
+[[05 - Deserto Ocidental|Deserto Ocidental]], junto com as pequenas casas de oásis, a Cidade
+Sagrada da Pena e os territórios sem dono.
 
 ### Territórios e legados que não pertencem a ninguém
 

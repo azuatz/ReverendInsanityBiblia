@@ -7,7 +7,7 @@ aliases:
   - Marcas Dao
   - Marcas do caminho
 status: consolidado
-fontes: ["cap. 276", "cap. 292", "cap. 297", "cap. 307", "cap. 319-320", "cap. 685", "cap. 703", "cap. 715-718", "cap. 758-759", "cap. 769", "cap. 778", "cap. 816", "cap. 819-821", "cap. 836", "cap. 849-852", "cap. 866", "cap. 935-936", "cap. 942", "cap. 1033", "cap. 1064", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1167", "cap. 1204-1205", "cap. 1258-1259", "cap. 1302-1303", "cap. 1310", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1703", "cap. 2042", "cap. 2071", "cap. 2085", "cap. 2237", "cap. 2247"]
+fontes: ["cap. 276", "cap. 292", "cap. 297", "cap. 307", "cap. 319-320", "cap. 685", "cap. 703", "cap. 715-718", "cap. 758-759", "cap. 769", "cap. 778", "cap. 816", "cap. 819-821", "cap. 836", "cap. 849-852", "cap. 866", "cap. 935-936", "cap. 942", "cap. 1033", "cap. 1064", "cap. 1119", "cap. 1151", "cap. 1156", "cap. 1161-1162", "cap. 1167", "cap. 1204-1205", "cap. 1258-1259", "cap. 1302-1303", "cap. 1310", "cap. 1400", "cap. 1404-1408", "cap. 1425", "cap. 1431", "cap. 1446", "cap. 1703", "cap. 2042", "cap. 2071", "cap. 2085", "cap. 2237", "cap. 2247"]
 conhecimento: especializado
 ---
 
@@ -64,8 +64,8 @@ arredondamento natural do que a regra produziria (×11 e ×51).
 | Rank imortal | Dao marks acumulados no caminho principal |
 |---|---|
 | 6 | 0 – 9.000 |
-| 7 | 9.000 – 30.000 |
-| 8 | 30.000 – 300.000 |
+| 7 | 10.000 – 30.000 |
+| 8 | 100.000 – 300.000 |
 | 9 | 300.000 ou mais (é condição formal) |
 
 Um perfil típico: um rank 7 comum acumula por volta de 10.000 dao marks no caminho
@@ -73,16 +73,32 @@ principal, depois de quarenta a cinquenta calamidades e algumas tribulações. A
 16.000 num único caminho tendo enfrentado apenas quatro calamidades é considerado três
 vezes acima do esperado — e isso significa que ele achou outra fonte.
 
-> [!example] Por que essas faixas são exatamente essas
-> Elas não são estimativas: caem do calendário de provações multiplicado pelo rendimento
-> de cada uma. Some você mesma, usando as tabelas de [[13 - Tribulações e Calamidades|Tribulações e Calamidades]]:
+> [!warning] Repare no vão entre o rank 7 e o rank 8
+> As quatro faixas acima são texto literal da obra, enunciadas de uma vez só. E elas não
+> se encostam: o rank 7 termina em 30.000 e o rank 8 só começa em 100.000. Setenta mil
+> marcas de distância que nenhuma provação de rank 7 preenche. É a expressão numérica de
+> uma frase que a obra repete: a distância entre rank 7 e rank 8 é incomparavelmente maior
+> que a distância entre rank 6 e rank 7. Passar de 7 para 8 não é continuar somando — é
+> um salto, e ele precisa de uma fonte que não seja o calendário de provações.
+
+> [!example] De onde vem o **teto** de cada faixa
+> As faixas em si são texto. Mas o topo de cada uma pode ser reconstruído a partir do
+> calendário de provações multiplicado pelo rendimento de cada uma, e a coincidência é
+> forte demais para ser acaso. Some você mesma, usando as tabelas de
+> [[13 - Tribulações e Calamidades|Tribulações e Calamidades]]:
 >
 > - **Rank 6** — 27 calamidades terrenas × 250, mais 3 tribulações celestes × 750 = **9.000**
 > - **Rank 7** — 24 × 250, mais 3 × 750, mais 3 grandes tribulações × 7.250 = **30.000**
 > - **Rank 8** — 24 × 750, mais 3 × 7.250, mais 3 tribulações miríade × 86.750 = **300.000**
 >
-> O total ao fim do rank 8 bate exatamente com os 300.000 exigidos como condição formal
-> para o rank 9 (ver [[19 - Tornar-se Venerável|Tornar-se Venerável]]). O sistema fecha sozinho.
+> Os três resultados batem com o **teto** canônico de cada rank, e o do rank 8 bate com os
+> 300.000 exigidos como condição formal para o rank 9 (ver
+> [[19 - Tornar-se Venerável|Tornar-se Venerável]]). A conta descreve alguma coisa real.
+>
+> O que ela **não** produz é o **piso** do rank 8, que a obra fixa em 100.000. Use as
+> faixas como estão na tabela e trate esta conta como estimativa de rendimento anual, não
+> como definição. A versão soberana dos números está em
+> [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]].
 
 > [!example] As duas escadas do sistema batem uma com a outra
 > Vale fazer a conferência, porque ela é o argumento de coerência mais forte do
@@ -124,6 +140,84 @@ números são o que são.
 - **Converter de um caminho para outro.** Existem técnicas que transformam dao marks de uma linha em outra — o caminho da transformação funciona como conversor universal, o que lhe dá a menor barreira de entrada de todos.
 
 **A regra de ouro que amarra tudo isso:** o método escolhido determina **quanto o mesmo resultado custa em dao marks**. Duas pessoas podem chegar à mesma fundação de alma, uma gastando poucos dao marks e a outra muitos, dependendo de por onde passaram. O caminho percorrido fica gravado no personagem.
+
+## A promoção mística — quando as marcas dispensam o Gu
+
+Até aqui, dao marks amplificaram alguma coisa: você usa um Gu e o Gu rende mais. Existe uma
+segunda coisa que elas fazem, e ela é de outra natureza — é a regra mais estranha e mais
+jogável do sistema inteiro.
+
+> ==Acumulado um certo número de dao marks de um caminho, o Gu Imortal recebe uma
+> **promoção mística** (*mystical promotion*): uma faculdade que passa a funcionar **sozinha,
+> sem nenhum Gu na mão**.==
+
+Repare no que isso significa. Todo o resto deste mundo depende de ter o inseto certo: sem o
+Gu, não há efeito. A promoção mística é a única exceção estrutural. O cultivador **virou** um
+pouco daquilo que estudou, e a faculdade não pode ser roubada, selada, confiscada nem gasta,
+porque não está em lugar nenhum fora dele. Não custa essência, não tem recarga e não pode
+ser desligada.
+
+A obra dá quatro exemplos concretos, na mesma cena:
+
+| Caminho | O que a promoção mística concede |
+|---|---|
+| [[08 - Refinement Path\|Refino]] | A capacidade de refino **sobe acentuadamente**, e durante o refino ele passa a **perceber minúcias** que antes lhe escapavam |
+| [[27 - Os Caminhos Elementais\|Fogo]] | Passa a **sentir à distância** Gu Imortais de fogo e feras desoladas de fogo — um faro para o próprio elemento |
+| [[16 - Wisdom Path\|Sabedoria]] | **Sem usar nenhum Gu**, a capacidade de dedução dele fica muito forte |
+| [[23 - Luck Path\|Sorte]] | Ganha **sensação da própria sorte e da sorte ao redor** — um radar interno de destino |
+
+`—` **A obra não informa o número de marcas necessário.** Ela diz apenas "um certo número", e
+não o repete em lugar nenhum. O que ela dá, em vez disso, é uma referência prática: o caso que
+ilustra a regra é o de alguém que **não tinha nem cultivo de rank 7**, mas, por ser o primeiro
+herdeiro de uma herança de sorte, tinha marcas de sorte "não inferiores às de um imortal de
+sorte de rank 7" — e era isso, e não o rank dele, que justificava a expectativa da promoção.
+
+> [!warning] A régua aqui é a marca, não o rank
+> Este é o ponto que a designer precisa levar da seção: **quem decide se a promoção chega é o
+> contador de dao marks, não o nível de cultivo**. Um personagem de rank baixo que tenha
+> herdado, comido ou anexado marcas suficientes de um caminho tem a faculdade; um imortal de
+> rank alto que espalhou suas marcas por vários caminhos pode não ter nenhuma. É a mesma
+> lógica que faz uma constituição extrema suprimir poderes acima do próprio rank.
+
+A lista de quatro caminhos acima é o que a obra nomeia, e nada mais. Para todos os outros
+caminhos, o conteúdo da promoção é `—`. Há inclusive um caso em que a ausência é significativa:
+o [[09 - Formation Path|caminho das formações]] **não gera dao marks próprias** — a expressão
+"marcas do Dao de formação" não aparece uma única vez na obra —, e por isso, coerentemente, não
+tem promoção mística nenhuma para ganhar.
+
+### É a mesma família dos fantasmas de fera e das feras fantasma
+
+A promoção mística é a regra geral por trás de dois fenômenos que as notas de caminho
+descrevem separadamente, e que parecem excêntricos até serem lidos juntos:
+
+- No [[04 - Strength Path|caminho da força]], as marcas acumuladas no corpo **se organizam
+  sozinhas na forma de fantasmas de fera** e se escondem ali dentro. Quando um deles se
+  manifesta, o cultivador bate com cem por cento da força do animal de onde a marca veio.
+- No [[14 - Space Path|caminho do espaço]], lugares onde as marcas se concentram em grande
+  quantidade **passam a produzir feras fantasma** por conta própria — normalmente raríssimas,
+  ali aparecem em bando.
+
+Nos três casos o padrão é o mesmo: **acumulação de marcas para de ser só um multiplicador e
+começa a agir por conta própria**, sem que ninguém ative nada. Num corpo, vira faculdade
+inata; num lugar, vira fauna.
+
+`(ded.)` **A aproximação entre os três é leitura nossa.** A obra usa o nome "promoção mística"
+apenas na cena dos quatro caminhos acima, e nunca o aplica aos fantasmas de fera nem às feras
+fantasma. O que ela afirma, e que sustenta a leitura, é que os três fenômenos nascem do mesmo
+lugar: marcas do Dao acumuladas em quantidade suficiente.
+
+> [!note] Para o design
+> Aqui está um marco de progressão que não é um número de ficha: é o momento em que o
+> personagem **para de precisar do equipamento** para uma coisa específica. Vale como
+> recompensa de campanha longa, e resolve sozinho um problema clássico de mesa — o
+> especialista desarmado que fica inútil. Dois usos imediatos:
+>
+> - **Como salvaguarda.** Um refinador que teve o laboratório tomado ainda enxerga as
+>   minúcias; um adivinho que teve os Gu selados ainda deduz. A cena de captura deixa de
+>   ser o fim do personagem.
+> - **Como sinal social.** A faculdade é passiva e visível em uso, então ela **denuncia**:
+>   quem fareja um Gu de fogo do outro lado da sala está anunciando quantas marcas de fogo
+>   carrega no corpo. Vira uma forma de reputação que não se pode blefar nem esconder.
 
 ## Por que o dano de dao marks não regenera
 

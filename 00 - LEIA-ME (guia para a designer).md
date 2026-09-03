@@ -21,15 +21,28 @@ Tudo aqui foi extraído da leitura integral do romance, capítulo por capítulo,
 conferido contra a wiki e discussões da comunidade. Onde a obra e as fontes externas
 divergiram, a obra prevaleceu e a divergência ficou anotada.
 
+São **mais de duzentas notas**, distribuídas em onze pastas temáticas. Ninguém precisa
+ler tudo, e ninguém deveria tentar: a seção [[#Por onde começar]] indica um caminho curto
+que dá a fundação inteira, e o resto se consulta conforme a mesa pedir.
+
 ## O que este material é (e o que deliberadamente não é)
 
 **É** um manual de como o mundo funciona: as regras do cultivo, o sistema de criaturas
-mágicas chamadas Gu, os caminhos de especialização, a economia, a estrutura social,
-a geografia e as leis cósmicas.
+mágicas chamadas Gu, os caminhos de especialização, como uma luta acontece, a economia,
+a estrutura social, quem manda em cada canto do mundo, a geografia, os grandes
+acontecimentos e as leis cósmicas.
 
 **Não é** um resumo da história. Isto foi uma decisão deliberada de escopo: você pode
 projetar o jogo inteiro sem saber o que acontece com os personagens do romance, e
 assim preserva a experiência de ler a obra depois, se quiser.
+
+Vale dizer o que essa decisão significa nas duas pastas onde ela é mais visível. Em
+[[01 - Visão Geral das Forças e Organizações|Forças e Organizações]], cada clã e cada
+seita é descrita **como está no presente do cenário** — o status quo com que uma campanha
+começa —, não pelo que a trama do romance faz com eles depois. E em
+[[01 - Visão Geral dos Eventos|Eventos e Cenários]], cada grande acontecimento entra como
+**situação**, nunca como história: a causa mecânica, as regras do lugar, os prêmios e o
+relógio ficam; quem venceu, quem morreu e quem traiu quem não entram.
 
 > [!warning] Aviso de spoiler
 > A base evita o enredo, mas **não é totalmente livre de spoilers**. Para explicar como
@@ -56,27 +69,44 @@ attainment, dao marks — e as notas de fundação usam esses termos entre si. O
 precisa ser decorado; basta você ter visto as palavras uma vez para que a primeira nota deixe
 de parecer um texto em código.
 
-Feito isso, **estas seis notas dão a fundação**, nesta ordem:
+Feito isso, **estas sete notas dão a fundação**, nesta ordem:
 
 1. [[01 - Visão Geral do Cultivo|Visão Geral do Cultivo]] — como uma pessoa comum vira alguém com poder, e o que
    limita esse crescimento.
 2. [[01 - Visão Geral dos Gu|Visão Geral dos Gu]] — as criaturas que são, ao mesmo tempo, magia, equipamento e
    recurso consumível deste mundo.
-3. [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como a especialização funciona, e por que ela define
+3. [[10 - Como Funciona um Combate|Como Funciona um Combate]] — o que acontece quando duas dessas pessoas se
+   enfrentam. Entrou nas fundações porque é a pergunta que qualquer designer faz primeiro e a
+   que mais depende de entender o sistema por dentro: aqui uma luta não é troca de pontos de
+   vida, é **disputa de orçamento sob informação incompleta** — cada lado queima energia e
+   atenção acionando bichos que fazem uma coisa só, e vence quem sabia mais sobre o arsenal do
+   outro. Sem esta nota, as regras das anteriores parecem abstratas.
+4. [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — como a especialização funciona, e por que ela define
    tanto a identidade quanto o arquétipo de um personagem.
-4. [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cotidiano econômico, que é onde a maior parte
+5. [[04 - Como um Mestre Gu Ganha a Vida|Como um Mestre Gu Ganha a Vida]] — o cotidiano econômico, que é onde a maior parte
    de uma campanha realmente acontece.
-5. [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e
+6. [[01 - Visão Geral da Sociedade|Visão Geral da Sociedade]] — clãs, seitas e a divisão entre caminho correto e
    demoníaco.
-6. [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] — o tom. Leia esta por último entre as fundações, e não a pule:
-   as cinco primeiras explicam **como o mundo funciona**, e esta explica **que tipo de
+7. [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] — o tom. Leia esta por último entre as fundações, e não a pule:
+   as seis primeiras explicam **como o mundo funciona**, e esta explica **que tipo de
    história essas regras servem**. As mesmas mecânicas produzem heroísmo clássico ou tragédia
    amoral dependendo de uma única questão — se o mundo recompensa quem age bem —, e aqui está
    a resposta que a obra dá.
 
-Depois disso, [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] mostra as regras em ação, com casos reais da obra
-descritos mecanicamente, e [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] cobre o que um grupo de personagens
-iniciantes de fato encontra e caça no dia a dia.
+**Terminadas as fundações, três notas transformam teoria em mesa.**
+[[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] mostra as regras em ação, com quase cinquenta casos reais da
+obra descritos mecanicamente e um veredito de "exceção ou regra replicável" em cada um.
+[[01 - Visão Geral das Forças e Organizações|Visão Geral das Forças e Organizações]] responde
+"quem são os outros?" — e é a nota que decide o formato da sua campanha, porque a forma de
+organização muda de região para região e com ela muda quão fácil é para o grupo dos jogadores
+pertencer a alguma coisa. E [[01 - Visão Geral dos Eventos|Visão Geral dos Eventos]] responde
+"o que está acontecendo?" — os grandes acontecimentos do mundo, com o relógio de cada um e,
+sobretudo, com as **travas canônicas** que explicam por que ninguém mais poderoso vem resolver
+o problema no lugar dos jogadores.
+
+Para o encontro do dia a dia, [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] explica a fauna e por que caçar é a
+profissão-base do mundo, e [[09 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] é o manual de monstros propriamente dito,
+com quase noventa criaturas nomeadas e descritas pela obra.
 
 Duas notas resolvem perguntas que aparecem cedo em qualquer mesa e não cabem nas fundações:
 [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] responde "quanto tempo leva chegar lá?" — a régua física do
@@ -94,20 +124,33 @@ geografia concreta de cada região, com os lugares, os bichos e as zonas que a p
 > dela.** As notas temáticas explicam o que um número significa e o que ele destranca; a
 > tabela decide quanto ele vale. Quando você for montar planilha, é de lá que os valores
 > saem — e é lá que uma correção precisa ser feita uma vez só.
+>
+> A exceção de escopo é **preço**: quanto custa cada coisa, quanto se ganha por trabalho e
+> quanto sai por ano manter um personagem vivo estão em
+> [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]], que é a planilha
+> econômica e responde à tabela em tudo o que as duas compartilham.
 
 ## Como as notas estão organizadas
 
-| Pasta | Conteúdo |
-|---|---|
-| `01 - Cultivo` | Progressão de poder: abertura, aptidão, essência, ranks, ascensão imortal, tribulações, longevidade. |
-| `02 - Gu` | O sistema de Gu: o que são, uso, alimentação, refino, fusão, killer moves. |
-| `03 - Paths` | Uma nota por caminho de especialização — **dezessete** ao todo —, cada uma no mesmo gabarito e fechando com o arquétipo de personagem que aquele caminho entrega. Comece pela [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]. |
-| `04 - Mundo` | Geografia, fauna, cosmologia, as leis do céu, as instituições que governam o mundo, e os mundos privados que os imortais carregam dentro de si. Inclui o **atlas** região a região, a **régua de escala e viagem** (distâncias, tempos, transporte) e a **filosofia** que dá o tom do cenário. |
-| `05 - Sociedade` | Clãs, seitas, academias, a divisão correto/demoníaco, cultura por região, os tipos de gente que o mundo reconhece e as filosofias de vida em disputa. |
-| `07 - Economia e Vida` | Moeda, profissões, mercados, eventos jogáveis, cotidiano. |
-| `08 - Veneráveis e Legados` | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
-| `10 - Estudos de Caso Mecânicos` | Regras em ação, com veredito de "exceção ou regra replicável". |
-| `11 - Apêndices` | Tabelas numéricas, glossário EN-PT, catálogos de Gu e de golpes assassinos, catálogo de receitas, linha do tempo. |
+| Pasta | Notas | Conteúdo |
+|---|---|---|
+| `01 - Cultivo` | 19 | Progressão de poder: abertura, aptidão, essência, ranks, ascensão imortal, tribulações, longevidade. Inclui o que o cultivo **não** melhora (o corpo e a mente do praticante), como se **perde** cultivo, a rota de virar morto-vivo e as formas de modificar o próprio corpo. |
+| `02 - Gu` | 16 | O sistema de Gu: o que são, onde moram, uso, alimentação, refino, fusão, killer moves, fraude e espólio. Inclui **como funciona um combate** e o que acontece depois dele — ferimento, cura e fuga. |
+| `03 - Paths` | 29 | Os caminhos de especialização. Vinte e cinco têm nota própria, no mesmo gabarito e fechando com o arquétipo de personagem que aquele caminho entrega; duas notas coletivas cobrem outros vinte e cinco (os elementais e os menores), fechando os **cinquenta e um** que a obra nomeia. Comece pela [[01 - Visão Geral dos Paths|Visão Geral dos Paths]]. |
+| `04 - Mundo` | 19 | Geografia, fauna, cosmologia, as leis do céu, os mundos privados que os imortais carregam dentro de si. Inclui o **atlas** região a região, a **régua de escala e viagem**, o **relógio do mundo** (calendário, sol, estações, clima), o **subsolo**, a natureza ordinária (mato, bicho de fazenda, lavoura), as **zonas proibidas** e a **filosofia** que dá o tom do cenário. |
+| `05 - Sociedade` | 15 | Como as pessoas se organizam: clãs, seitas, academias, família e ritos, a divisão correto/demoníaco, lei e castigo, juramentos e reputação, informação e espionagem, guerra organizada, cultura por região e os povos não-humanos que dividem o mundo com os humanos. |
+| `06 - Forças e Organizações` | 6 | **Quem manda em cada canto do mundo**, com uma nota por região e uma ficha por clã, tribo, seita, templo, mercado ou cidade que tenha poder real: quem lidera e em que rank, em que caminho a casa é especialista e por quê, porte, território, alinhamento, tensões internas e o gancho de mesa. Se Sociedade é o manual, esta pasta é a lista telefônica. |
+| `07 - Economia e Vida` | 16 | Moeda, preços e custo de vida, profissões, materiais e cadeia produtiva, mercados e leilões, crédito e contratos, crime e mercado negro, eventos comerciais, cotidiano. |
+| `08 - Veneráveis e Legados` | 4 | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
+| `09 - Eventos e Cenários` | 29 | Os grandes acontecimentos do mundo escritos como **cenários jogáveis** — causa mecânica, geografia, regras do local, prêmios e relógio —, ordenados da primeira sessão de uma mesa iniciante até o que muda o mundo inteiro. O eixo da pasta são as **travas canônicas**: os mecanismos pelos quais a obra impede os poderosos de entrar num cenário, e que é o que torna um evento de escala mundial jogável por personagens fracos. |
+| `10 - Estudos de Caso Mecânicos` | 49 | Regras em ação: um índice comentado mais **quarenta e oito casos**, um por nota, cada um com veredito de "exceção ou regra replicável". |
+| `11 - Apêndices` | 10 | Tabelas numéricas, glossário EN-PT, catálogos de Gu (mortais e imortais), de golpes assassinos, de receitas, o bestiário e a linha do tempo. |
+
+A ordem das pastas é a ordem de leitura sugerida, e a numeração das notas dentro de cada
+pasta também: **a barra lateral do Obsidian é o currículo**. Duas transições foram
+deliberadas — Forças vem logo depois de Sociedade (primeiro você aprende *o que é* um clã e
+uma seita, depois descobre *quem são*), e Eventos vem depois de Veneráveis, porque vários
+dos grandes acontecimentos do mundo só se explicam pelo que aquelas figuras deixaram para trás.
 
 Cada pasta tem uma nota "Visão Geral" que serve de porta de entrada, com um resumo, as
 **regras do mundo** daquele domínio em lista numerada, e a separação entre o que todo
@@ -122,6 +165,8 @@ personagem sabe e o que só o mestre deveria saber.
 - `conhecimento: especializado` — sabido por Mestres Gu instruídos, anciãos, estudiosos.
 - `conhecimento: segredo` — verdades ocultas do universo. Material de mestre; a maior
   parte dos habitantes do mundo vive e morre sem suspeitar disso.
+- `conhecimento: misto` — a nota tem níveis diferentes por dentro, e a própria linha de
+  metadados diz onde fica o corte.
 
 **No corpo das notas**, os destaques significam:
 
@@ -139,8 +184,10 @@ personagem sabe e o que só o mestre deveria saber.
 
 Nem toda nota mista usa 🔒: várias separam o segredo por **seção** (uma seção final "O que só
 o mestre sabe") ou por uma **tabela de corte** no topo, dizendo linha a linha o que liberar —
-é o caso de [[17 - Cosmologia|Cosmologia]]. [[00 - Somente o Mestre|Somente o Mestre]] concentra a lista de todas as notas que
-precisam de corte.
+é o caso de [[17 - Cosmologia|Cosmologia]]. Nas pastas de Forças e de Eventos, o segredo aparece
+ainda de um terceiro jeito: marcado **`segredo` dentro da ficha ou do parágrafo**, porque ali
+uma organização pode ser inteiramente pública e ter um único fato oculto no meio.
+[[00 - Somente o Mestre|Somente o Mestre]] concentra a lista de todas as notas que precisam de corte.
 
 ## Confiabilidade: o que é canônico e o que é reconstrução
 
@@ -153,6 +200,14 @@ de uma vez, mas **nunca** informa os limiares dos ranks seguintes. A progressão
 (65%, 75%, 85%) é uma reconstrução nossa, coerente com o comportamento descrito no
 romance — e está marcada como tal em todas as notas onde aparece. Você pode adotá-la,
 alterá-la ou ignorá-la sem contradizer a obra.
+
+As notas mais recentes usam uma convenção de quatro símbolos, declarada no cabeçalho de
+cada uma: **texto simples** é canônico, **`(ded.)`** é dedução segura a partir do que a obra
+afirma, **`*`** é invenção ou indução nossa sem base textual, e **`—`** significa que a obra
+não informa e nada foi preenchido. A promessa que essa convenção faz é literal: **apagar tudo
+o que estiver marcado com `*` devolve o documento a cem por cento canônico**. Um campo `—`
+não é uma falha da pesquisa — é espaço livre declarado, onde você pode inventar sem risco de
+contradizer nada.
 
 Também ficaram registradas as lacunas que a própria obra deixa em aberto — inclusive
 uma pergunta que ela recusa deliberadamente a responder, sobre se a vida eterna é

@@ -108,6 +108,19 @@ Para o encontro do dia a dia, [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera
 profissão-base do mundo, e [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] é o manual de monstros propriamente dito,
 com quase noventa criaturas nomeadas e descritas pela obra.
 
+**Quando chegar a hora de montar personagens e listas de itens**, a porta é
+[[03 - Catálogo de Gu|Catálogo de Gu]]. O acervo inteiro está catalogado duas vezes, e essa
+nota explica qual vista usar em cada situação. A vista principal são **seis catálogos por
+rank** — [[04 - Gu de Rank 1|rank 1]], [[05 - Gu de Rank 2|rank 2]],
+[[06 - Gu de Rank 3|rank 3]], [[07 - Gu de Rank 4|rank 4]], [[08 - Gu de Rank 5|rank 5]] e
+[[09 - Gu Imortais por Rank e Caminho|os Gu Imortais]] —, organizados na hierarquia
+**rank → caminho → categoria funcional → Gu**, que é a mesma de uma ficha de personagem: cada
+Gu vira uma ficha de sete campos, e dois deles (**evolução** e **interações**) só existem ali.
+As duas tabelas planas continuam servindo de índice alfabético, para achar um nome depressa.
+Vale ler os catálogos por rank também como texto: cada um abre explicando o que aquele
+patamar significa na vida de uma pessoa, e é o material mais direto que a base tem para
+calibrar em que rank a sua campanha deve começar.
+
 Duas notas resolvem perguntas que aparecem cedo em qualquer mesa e não cabem nas fundações:
 [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] responde "quanto tempo leva chegar lá?" — a régua física do
 mundo, sem a qual tudo fica convenientemente perto —, e [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] dá a
@@ -144,7 +157,7 @@ geografia concreta de cada região, com os lugares, os bichos e as zonas que a p
 | `08 - Veneráveis e Legados` | 4 | As dez figuras que moldaram o mundo, agrupadas pelo tipo de legado que deixaram. |
 | `09 - Eventos e Cenários` | 29 | Os grandes acontecimentos do mundo escritos como **cenários jogáveis** — causa mecânica, geografia, regras do local, prêmios e relógio —, ordenados da primeira sessão de uma mesa iniciante até o que muda o mundo inteiro. O eixo da pasta são as **travas canônicas**: os mecanismos pelos quais a obra impede os poderosos de entrar num cenário, e que é o que torna um evento de escala mundial jogável por personagens fracos. |
 | `10 - Estudos de Caso Mecânicos` | 49 | Regras em ação: um índice comentado mais **quarenta e oito casos**, um por nota, cada um com veredito de "exceção ou regra replicável". |
-| `11 - Apêndices` | 10 | Tabelas numéricas, glossário EN-PT, catálogos de Gu (mortais e imortais), de golpes assassinos, de receitas, o bestiário e a linha do tempo. |
+| `11 - Apêndices` | 16 | Tabelas numéricas, glossário EN-PT, catálogos de golpes assassinos, de receitas, o bestiário, a linha do tempo — e o acervo de Gu, que sozinho ocupa nove notas. Ele está catalogado **duas vezes**: seis notas **por rank** (`04` a `09`), onde cada Gu tem ficha completa na hierarquia rank → caminho → função, e duas tabelas **planas** (`10` e `11`), que servem de índice alfabético para quem já sabe o nome que procura. A porta de entrada das duas vistas é [[03 - Catálogo de Gu\|Catálogo de Gu]]. |
 
 A ordem das pastas é a ordem de leitura sugerida, e a numeração das notas dentro de cada
 pasta também: **a barra lateral do Obsidian é o currículo**. Duas transições foram

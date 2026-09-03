@@ -21,6 +21,21 @@ diretamente aproveitável para desenho de jogo.
 Os Gu de rank 6 ou acima são uma categoria à parte — únicos no mundo, um exemplar de
 cada — e estão em [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
 
+> [!important] Esta nota é o **índice alfabético**. A ficha completa está no catálogo do rank
+> Use esta tabela quando **já souber o nome** do Gu e quiser achá-lo depressa sem saber de
+> que rank ele é. Para **montar** um personagem — escolher um caminho, ver o que falta no
+> conjunto e escolher a peça —, vá ao catálogo do rank correspondente:
+> [[04 - Gu de Rank 1|rank 1]], [[05 - Gu de Rank 2|rank 2]], [[06 - Gu de Rank 3|rank 3]],
+> [[07 - Gu de Rank 4|rank 4]] e [[08 - Gu de Rank 5|rank 5]]. Lá cada Gu tem **ficha de sete
+> campos**, com dois que esta tabela não tem: **Evolução** (em que Gu do rank seguinte ele se
+> transforma, ou a declaração de que a obra não diz) e **Interações** (como ele se comporta na
+> presença de outros Gu e das marcas de dao já acumuladas).
+>
+> As duas vistas cobrem o mesmo acervo. Onde elas divergirem, **vale a nota por rank**: ela é
+> a leitura mais recente e foi verificada Gu a Gu no texto-fonte, corrigindo ranks trocados,
+> nomes duplicados e Gu ausentes desta tabela. O mapa das duas vistas está em
+> [[03 - Catálogo de Gu|Catálogo de Gu]].
+
 ## Como usar este catálogo
 
 Cada seção é um **caminho** (*path*): a escola de cultivo à qual o Gu pertence. Um

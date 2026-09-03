@@ -150,7 +150,16 @@ morador do mundo sabe que existem — e a maioria deles é o que a mesa vai joga
   **com ressalva**: as três primeiras têm um bloco final de mestre; ver a tabela de cortes abaixo
 
 **Referência**
-- [[01 - Glossário EN-PT|Glossário EN-PT]] · [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] · [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]
+- [[01 - Glossário EN-PT|Glossário EN-PT]] · [[13 - Catálogo de Golpes - Mortais|Catálogo de Golpes - Mortais]]
+- [[03 - Catálogo de Gu|Catálogo de Gu]] — a porta do acervo de Gu, que explica as duas vistas
+  e quando usar cada uma
+- [[04 - Gu de Rank 1|Gu de Rank 1]] · [[05 - Gu de Rank 2|Gu de Rank 2]] ·
+  [[06 - Gu de Rank 3|Gu de Rank 3]] — os catálogos dos três primeiros ranks, na hierarquia
+  **rank → caminho → função → Gu**, com ficha completa por Gu. É o material de montagem de
+  personagem: as três faixas em que uma mesa realisticamente joga, e o que qualquer Mestre Gu
+  conhece de vista
+- [[10 - Catálogo de Gu - Mortais|Catálogo de Gu - Mortais]] — a mesma coisa em tabela plana,
+  para procurar um nome sem saber o rank
 - [[15 - Catálogo de Bestas e Reis Fera|Catálogo de Bestas e Reis Fera]] — o manual de monstros: quase noventa criaturas nomeadas
   e descritas pela obra
 - [[12 - Catálogo de Receitas|Catálogo de Receitas]] — o que se combina para fabricar cada Gu
@@ -171,9 +180,18 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
   corpos fabricados. **Com ressalva** — ver a tabela de cortes
 
 **Gu avançado**
-- [[16 - Gu Imortais|Gu Imortais]] · [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] · [[03 - Catálogo de Gu|Catálogo de Gu]] · [[09 - Formações de Gu|Formações de Gu]]
+- [[16 - Gu Imortais|Gu Imortais]] · [[09 - Formações de Gu|Formações de Gu]]
+- [[07 - Gu de Rank 4|Gu de Rank 4]] e [[08 - Gu de Rank 5|Gu de Rank 5]] — os dois catálogos
+  do topo mortal. Que existem pessoas assim é senso comum de qualquer aldeão; o **conteúdo**
+  destas duas notas — receitas, preços de leilão, rotas de avanço — as próprias notas declaram
+  como saber de ancião de clã para cima, e no rank 5 de cúpula de grande força. Libere-os
+  quando o grupo chegar lá, ou quando encontrar quem já esteja
 - [[15 - Conflito de Marcas e Compatibilidade|Conflito de Marcas e Compatibilidade]] — por que dois Gu bons podem não funcionar no mesmo
-  corpo; a regra que limita a montagem de arsenal
+  corpo; a regra que limita a montagem de arsenal, e de que depende o campo "Interações" de
+  todas as fichas de Gu
+- [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]] e
+  [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — **com ressalva**: o
+  arsenal imortal é material de mestre. Ver a tabela de cortes
 - [[14 - Catálogo de Golpes - Imortais|Catálogo de Golpes - Imortais]] — **com ressalva**: ver a tabela de cortes
 
 **Caminhos de acesso restrito**
@@ -256,6 +274,16 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
 >   a jogadores dá a eles informação que os personagens pagariam caro para ter. Trate-o como
 >   material de mestre, liberado item a item conforme a mesa encontrar cada golpe. O mesmo
 >   vale para os itens marcados com 🔒 no [[11 - Catálogo de Gu - Imortais|Catálogo de Gu - Imortais]].
+> - [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]] — **a nota inteira**,
+>   pela mesma razão. Cada Gu Imortal existe em um único exemplar no mundo, de modo que a lista
+>   de Gu Imortais de uma facção **é a ficha de força dela**: golpe conhecido é golpe deduzido,
+>   e Gu Imortal conhecido é Gu Imortal caçado. Libere ficha a ficha, conforme a mesa esbarrar
+>   em cada um.
+> - [[07 - Gu de Rank 4|Gu de Rank 4]] e [[08 - Gu de Rank 5|Gu de Rank 5]] — não são segredo,
+>   mas não são material de manual básico: a existência dos Gu daquele patamar é senso comum,
+>   e o miolo das duas notas (receitas, preços de leilão, rotas de avanço) é declaradamente
+>   saber de ancião de clã para cima. Entregue por inteiro a uma mesa que já jogue nessa faixa;
+>   a uma mesa iniciante, use-os como material de mestre.
 
 > [!note] Para o design
 > Essa divisão em duas camadas já é, por si só, uma sugestão de estrutura: a camada 1

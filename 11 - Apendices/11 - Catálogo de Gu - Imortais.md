@@ -34,6 +34,21 @@ antes de ler qualquer tabela:
    os de rank 7 e 8 o normal é ter dois ou três. O gargalo não é o dinheiro: é
    **alimentá-los**.
 
+> [!important] Esta nota é o **índice alfabético**. A ficha completa está na nota por rank
+> Use esta tabela quando **já souber o nome** do Gu Imortal e quiser localizá-lo depressa.
+> Para trabalhar por rank e por caminho — "o que existe no meu rank, dentro do meu caminho,
+> que faça o que eu preciso?" —, vá a
+> [[09 - Gu Imortais por Rank e Caminho|Gu Imortais por Rank e Caminho]]. Lá cada Gu tem
+> **ficha de sete campos**, com dois que esta tabela não tem: **Evolução** (que aqui quase
+> sempre significa *o mesmo Gu em rank maior, com o mesmo nome* — só quatro Gu em toda a obra
+> trocam de nome ao subir) e **Interações** (como ele se comporta na presença de outros Gu e
+> das marcas de dao já acumuladas). Lá também estão as **47 Casas de Gu Imortal** e os 28
+> pares mortal × imortal, cada um apontando para a ficha correspondente.
+>
+> As duas vistas cobrem o mesmo acervo. Onde elas divergirem, **vale a nota por rank**: ela é
+> a leitura mais recente e foi verificada entrada a entrada contra esta tabela. O mapa das
+> duas vistas está em [[03 - Catálogo de Gu|Catálogo de Gu]].
+
 ## Como usar este catálogo
 
 As seções são por **caminho** — com uma exceção deliberada: **todo Gu de rank 9 tem a

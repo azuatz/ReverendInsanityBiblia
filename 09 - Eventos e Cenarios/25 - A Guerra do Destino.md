@@ -204,30 +204,25 @@ continente.
 > pessoas é a única vitória disponível para qualquer um**. A cena inteira é uma escolha: o próprio
 > tesouro ou uma rua cheia de gente; a família ou os desconhecidos; sair agora ou voltar mais uma vez.
 
-A obra também registra **uma variante em que a cidade é salva**, utilizável tal e qual: uma casa de
-Gu imortal de rank 8 pousa no centro da cidade e a envolve numa luz verde; pinturas da vida cotidiana
-afloram por todos os cantos, e a cidade inteira é convertida num **mundo-pintura** e fundida com a
-casa de Gu — passando a flutuar, e sendo simplesmente ignorada pela fenda. Não é improviso: é um
-**arranjo póstumo deixado séculos antes**, por alguém que previu a cena e posicionou a peça de
-antemão. `*` A designer pode usar qualquer uma das duas versões, e pode fazer da existência do
-arranjo póstumo a revelação final da campanha.
+A obra registra **uma variante em que a cidade é salva**, utilizável tal e qual: uma casa de Gu imortal
+de rank 8 pousa no centro, a envolve numa luz verde, e a cidade inteira é convertida num
+**mundo-pintura** e fundida com a casa de Gu — passando a flutuar, e sendo ignorada pela fenda. Não é
+improviso: é um **arranjo póstumo deixado séculos antes**, por alguém que previu a cena. `*` A designer
+pode usar qualquer uma das duas versões, e pode fazer da existência do arranjo a revelação final.
 
 ## O que um grupo de personagens faz aqui
 
-**Rank 3 a 5 (mortais)** — é aqui que está quase tudo, e é o ponto mais forte do cenário. **Competir
-no torneio**: viajar de outra região, sobreviver aos atentados na estrada e nos pontos de inscrição,
-descobrir que há imortais disfarçados entre os concorrentes, e escolher entre desistir para viver ou
-competir por convicção — a obra põe esta fala na boca de um participante comum: *somos mortais, mas
-não podemos desistir de resistir; participar da convenção e mantê-la de pé é a nossa vingança*.
-**Escoltar o comboio**, que precisa atravessar terreno hostil com todo mundo sabendo que ele existe.
-**Guardar um ponto de recurso esvaziado de imortais**, sendo a única linha de defesa contra
-saqueadores que não vão embora só porque alguém pediu. **Evacuar civis** — ou simplesmente estar na
-cidade errada no dia errado.
+**Rank 3 a 5 (mortais)** — é aqui que está quase tudo. **Competir no torneio**: viajar de outra
+região, sobreviver aos atentados na estrada, descobrir que há imortais disfarçados entre os
+concorrentes, e escolher entre desistir para viver ou competir por convicção — a obra põe esta fala na
+boca de um participante comum: *somos mortais, mas não podemos desistir de resistir; participar da
+convenção e mantê-la de pé é a nossa vingança*. **Escoltar o comboio.** **Guardar um ponto de recurso
+esvaziado de imortais**, sendo a única linha de defesa contra saqueadores. **Evacuar civis** — ou
+simplesmente estar na cidade errada no dia errado.
 
-**Rank 6 a 8 (Gu Imortais)** — escolher a frente, com custo real, porque estar numa é não estar nas
-outras três; comandar o rodízio de feridos; caçar os saqueadores avulsos que ninguém está caçando;
-ou, a jogada mais interessante, **ser um dos atacantes cujo motivo não é o motivo dos aliados**, e
-ter de decidir a hora de parar.
+**Rank 6 a 8** — escolher a frente, com custo real; comandar o rodízio de feridos; caçar os saqueadores
+avulsos que ninguém está caçando; ou, a jogada mais interessante, **ser um dos atacantes cujo motivo
+não é o motivo dos aliados**, e ter de decidir a hora de parar.
 
 ## Desfechos possíveis
 

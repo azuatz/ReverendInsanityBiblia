@@ -269,36 +269,27 @@ jogando, como uma abertura imortal funciona por dentro:
 | 8 | O céu novo, e as cinco regras permanentes | A nova normalidade do cenário |
 | 9 | Janela de ascensão e reinos de sonho caçadores | Corrida de carreira e um predador inédito |
 
-## O que um grupo de personagens faz aqui, por faixa
+## O que um grupo faz aqui, por faixa
 
-**Rank 1 a 3:** sobreviver ao escuro e ao frio, vender a informação de onde caiu alguma coisa (porque
-a posse está fora do alcance deles), guiar refugiados por uma rota que a geleira ainda não fechou — e
-depois viver debaixo das cinco regras novas.
-
-**Rank 3 a 5:** o núcleo do cenário. Localizar sítios de queda, proteger aldeias da chuva, escoltar
-cargas, disputar uma cratera com rivais, correr para entregar a cota da promoção antes que feche; e
-guarnecer a ascensão de alguém, segurando calamidades enquanto o candidato se concentra sozinho.
-
-**Rank 5 a 7:** evacuação e resgate. Estar dentro de um mundo privado sofrendo terremoto, enchente,
-erupção e chuva ácida ao mesmo tempo, com a ordem vinda de cima sendo sempre a mesma — **salvar as
-pessoas e abandonar os bens**. Ou estar na equipe de resgate, negociando o preço. Ou chegar depois,
-como oportunista, no mundo que ninguém salvou.
-
-**Rank 7 a 8:** a colheita de escala — subir ao céu para recolher material enquanto ele ainda flutua,
-disputar o direito de manusear a chama celestial, e explorar o céu novo, que é um ambiente hostil
-visitável e ainda inteiramente inexplorado.
+**Rank 1 a 3:** sobreviver ao escuro e ao frio, vender a informação de onde caiu alguma coisa, guiar
+refugiados por uma rota que a geleira ainda não fechou. **Rank 3 a 5**, o núcleo do cenário: localizar
+sítios de queda, proteger aldeias da chuva, escoltar cargas, disputar uma cratera, correr para entregar
+a cota da promoção — e guarnecer a ascensão de alguém, segurando calamidades enquanto o candidato se
+concentra sozinho. **Rank 5 a 7:** evacuação e resgate — estar dentro de um mundo privado sofrendo
+terremoto, enchente, erupção e chuva ácida ao mesmo tempo, com a ordem de cima sendo sempre **salvar as
+pessoas e abandonar os bens**; ou estar na equipe de resgate negociando o preço; ou chegar depois, como
+oportunista, no mundo que ninguém salvou. **Rank 7 a 8:** subir ao céu para recolher material enquanto
+ele ainda flutua, disputar o direito de manusear a chama celestial, e explorar o céu novo, ambiente
+hostil visitável e ainda inteiramente inexplorado.
 
 ## Desfechos possíveis
 
-- **O grupo enriquece** — chegou primeiro a uma cratera boa, e ela virou a fundação de algo. Ou **o
-  grupo perde o que tinha**: o ponto de recurso da família produzia material de luz, e o mercado dele
-  evaporou numa tarde.
-- **O resgate dá certo pela metade** — três de seis é o número que a obra registra, e é um desfecho
-  honesto. Ou **o resgate cobra o preço**: o mundo foi salvo e agora é peça de linha de frente de
-  outra pessoa.
-- **O mundo se adapta.** Passada a crise, a nova normalidade simplesmente vira normal — e é aí que as
-  cinco regras permanentes começam a moer as relações da mesa.
-- **Alguém é engolido**, e a campanha ganha uma caçada que não pode ser resolvida por força.
+- **O grupo enriquece**, chegando primeiro a uma cratera boa; ou **perde o que tinha**, porque o ponto
+  de recurso da família produzia material de luz e o mercado dele evaporou numa tarde.
+- **O resgate dá certo pela metade** — três de seis é o número que a obra registra —, ou **cobra o
+  preço**: o mundo foi salvo e agora é peça de linha de frente de outra pessoa.
+- **O mundo se adapta**, e é aí que as cinco regras permanentes começam a moer as relações da mesa.
+- **Alguém é engolido**, e a campanha ganha uma caçada que não se resolve por força.
 
 ## O que a obra não diz
 

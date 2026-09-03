@@ -251,40 +251,34 @@ de alto nível migra inteiro para o mercado permanente, que passa a acumular as 
 exigiam um salão físico — transação, praça pública, fonte de informação e cartório de apostas. Ao
 lado dele nascem duas instituições novas, e as duas são melhores para uma mesa do que um leilão.
 
-**Os quadros de uma facção**, o formato padrão de "quadro de missões" do mundo tardio, em três peças.
-O **quadro de contribuição** é um ranking público de subordinados por pontos acumulados, que serve ao
-mesmo tempo para estimular entusiasmo e para extrair recursos — os próprios súditos reconhecem que é
-"método de exploração dos superiores" e se engajam mesmo assim, e um **espírito da terra pode
-acumular e ser ranqueado ao lado de Gu Imortais**. O **quadro de missões** **nunca fica vazio**, e a
-escassez crônica de mão de obra obriga Gu Imortais a aceitar missões **fora do próprio caminho**, com
-eficiência estimada em torno de **vinte por cento** do potencial; as missões registradas servem de
-modelo direto — investigar por que um bando de feras ancestrais virou imemorial sozinho, limpar uma
-montanha de excremento que cai do céu e polui um lago, consertar uma formação de fluxo reverso numa
-área marítima, e uma de alto valor tratada com toda a seriedade: encontrar um especialista capaz de
-fazer um aborto seguro num Gu Imortal macho misteriosamente grávido, com risco de morte se falhar. E
-o **quadro de trocas** é a loja: no caso mais rico registrado, **mais de mil Gu Imortais de rank 6 a
-8**, incontáveis receitas, materiais e golpes, centenas de métodos de construção de casas imortais e
-heranças completas — e pontos de contribuição compram até **ajuda pessoal para passar por uma
-tribulação**. Todo subordinado admitido recebe exatamente **cinco Gu mortais de rank 5**: três para
-os três quadros, um para conectar ao mercado, e **um Gu de monitoramento obrigatório**, que deve ser
-mantido sempre consigo e, se destruído, reportado imediatamente — vigilância apresentada
-publicamente como dispositivo de segurança e resgate.
+**Os quadros de uma facção**, o formato padrão de "quadro de missões" do mundo tardio, em três peças. O
+**quadro de contribuição** é um ranking público de subordinados por pontos, que serve ao mesmo tempo
+para estimular entusiasmo e para extrair recursos — os próprios súditos reconhecem que é "método de
+exploração dos superiores" e se engajam mesmo assim, e um **espírito da terra pode ser ranqueado ao
+lado de Gu Imortais**. O **quadro de missões nunca fica vazio**, e a escassez crônica de mão de obra
+obriga Gu Imortais a aceitar missões **fora do próprio caminho**, com eficiência estimada em **vinte
+por cento** do potencial; as registradas servem de modelo — investigar por que um bando de feras
+ancestrais virou imemorial sozinho, limpar uma montanha de excremento que cai do céu e polui um lago, e
+uma de alto valor tratada com toda a seriedade: encontrar quem faça um aborto seguro num Gu Imortal
+macho misteriosamente grávido, com risco de morte se falhar. E o **quadro de trocas** é a loja: no caso
+mais rico, **mais de mil Gu Imortais de rank 6 a 8**, incontáveis receitas e golpes, e pontos que
+compram até **ajuda pessoal para passar por uma tribulação**. Todo subordinado admitido recebe
+exatamente **cinco Gu mortais de rank 5** — três para os quadros, um para o mercado, e **um Gu de
+monitoramento obrigatório**, apresentado publicamente como dispositivo de segurança e resgate. O
+formato completo de quadro com placar está em
+[[13 - O Paraíso da Baleia-Dragão e o Obelisco de Mérito|O Paraíso da Baleia-Dragão e o Obelisco de Mérito]].
 
 **O mercado aberto de refino** é a ruptura econômica mais importante do fim da obra, e existe porque
-**refino de Gu é o gargalo permanente do mundo**: mesmo depois de três milhões de anos de
-civilização, a maioria dos Gu Imortais **não consegue refinar um Gu Imortal de forma confiável nem
-com fartura de materiais** — a maioria dos rank 6 não possui sequer um Gu Imortal de rank 6, e a
-maioria dos rank 7 passa a vida tentando conseguir um de rank 7, o que vale até para os Veneráveis
-(ver [[06 - Refino de Gu|Refino de Gu]]). Uma facção passa então a oferecer **serviço aberto e pago
-de refino** — Gu mortal sem limite de quantidade, Gu Imortal até rank 8, a preço fixado, **sem
-distinção entre aliados e inimigos passados** —, com entrada e saída da aliança livres, taxa de
-adesão em pontos de recurso e **vinte por cento de desconto** para membros. Os instrumentos de
-mercado que ela usa são de manual: **transação pública inaugural** à vista de todos, para provar
-idoneidade; **evento promocional de emergência** aproveitando um desastre, com prazo curto, regra
-"os mais rápidos ganham mais" e encerramento ao atingir a cota; **cotas por membro individual**,
-usadas de propósito para pressionar clãs a aderirem inteiros em vez de mandarem um periférico de
-sonda; e, do outro lado, a contramedida dos clãs — **filiar primeiro um periférico** para testar os
-benefícios sem se comprometer.
+**refino de Gu é o gargalo permanente do mundo**: mesmo depois de três milhões de anos, a maioria dos
+Gu Imortais **não consegue refinar um Gu Imortal de forma confiável nem com fartura de materiais** — a
+maioria dos rank 6 não possui sequer um Gu Imortal de rank 6, o que vale até para os Veneráveis (ver
+[[06 - Refino de Gu|Refino de Gu]]). Uma facção passa a oferecer **serviço aberto e pago de refino**,
+Gu Imortal até rank 8, a preço fixado e **sem distinção entre aliados e inimigos passados**, com
+entrada e saída livres e **vinte por cento de desconto** para membros. Os instrumentos que ela usa são
+de manual: **transação pública inaugural** para provar idoneidade; **promoção de emergência**
+aproveitando um desastre, com prazo curto e encerramento ao atingir a cota; e **cotas por membro
+individual**, usadas para pressionar clãs a aderirem inteiros — ao que os clãs respondem **filiando
+primeiro um periférico**, para testar sem se comprometer.
 
 ## O que um grupo de personagens faz aqui
 

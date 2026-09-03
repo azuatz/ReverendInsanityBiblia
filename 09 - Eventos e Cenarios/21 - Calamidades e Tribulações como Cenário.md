@@ -268,32 +268,27 @@ ditado que o texto usa é "a boa sorte se esconde na má".
 Os valores médios por classe estão nas
 [[02 - Tabelas de Referência Rápida#6. Dao marks: rendimento por provação|Tabelas de Referência Rápida]],
 que são a fonte soberana: **250** marcas para uma calamidade terrena, **750** para uma tribulação
-celestial, **7.250** para uma grande tribulação e **86.750** para uma tribulação miríade. São médias
-literais — a mesma classe rende valores muito diferentes, porque **quanto mais perigosa a provação,
-maior o pagamento**. Há ainda o **cadáver completo** do monstro, matéria-prima valiosíssima que é
-reciclada depois em ativos comerciais. E há o custo, que precisa estar visível na mesa: quilômetros
-quadrados perdidos, décadas de desenvolvimento apagadas, populações mortas, e um patamar de
-desenvolvimento que pode cair pela metade numa única provação grande.
+celestial, **7.250** para uma grande tribulação e **86.750** para uma tribulação miríade — médias
+literais, porque **quanto mais perigosa a provação, maior o pagamento**. Há ainda o **cadáver completo**
+do monstro, matéria-prima valiosíssima reciclada depois em ativos comerciais. E o custo precisa estar
+visível na mesa: quilômetros quadrados perdidos, décadas de desenvolvimento apagadas, populações
+mortas, e um patamar de desenvolvimento que pode cair pela metade numa única provação grande.
 
 ## O que um grupo de personagens faz aqui
 
-**Como equipe contratada (rank 3 a 7)** — o papel central e o motivo de a nota existir. Os jogadores
-não matam a calamidade: tapam os buracos no céu, escoltam o espírito da terra, evacuam a população,
-tocam ondas de bestas-bucha na direção certa, removem solo contaminado sob prazo, caçam os núcleos
-escondidos dos monstros e decidem qual região amputar. É um cenário fechado, com relógio, ondas
-escalonadas e um patrono que perde dinheiro a cada erro — o que dá ao mestre um placar objetivo para
-mostrar entre as ondas.
+**Como equipe contratada (rank 3 a 7)** — o papel central e o motivo de a nota existir, já listado em
+[[#O essencial]]. É um cenário fechado, com relógio, ondas escalonadas e um patrono que perde dinheiro
+a cada erro, o que dá ao mestre um placar objetivo para mostrar entre as ondas.
 
 **Como população interna (qualquer rank)** — o ângulo mais humano. A bola de carne suga gente das
 cidades, o vento cinza apaga vales inteiros, e a ordem que vem de cima é a mais rara deste mundo:
-**salvar as pessoas e abandonar os bens**. Os jogadores são a equipe de evacuação, os guardiões de
-uma montanha-recurso condenada, ou os encarregados de reconstruir — a obra registra essa missão
-literalmente num quadro de missões: **reconstruir uma montanha de cobre partida pela tribulação**.
+**salvar as pessoas e abandonar os bens**. Os jogadores são a equipe de evacuação, os guardiões de uma
+montanha-recurso condenada, ou os encarregados de reconstruir — a obra registra essa missão
+literalmente num quadro: **reconstruir uma montanha de cobre partida pela tribulação**.
 
-**Como equipe de apoio numa ascensão (rank 3 a 5)** — escolher o local pesando qi ralo contra
-potencial futuro, comprar os Gu de mitigação, identificar cada camada pelo som antes que acerte o
-alvo certo, quebrar as fontes dentro da nuvem e proteger um corpo indefeso por horas, enquanto os
-inimigos do patrono sabem exatamente onde ele está.
+**Como equipe de apoio numa ascensão (rank 3 a 5)** — escolher o local pesando qi ralo contra potencial
+futuro, comprar os Gu de mitigação, identificar cada camada pelo som, quebrar as fontes dentro da nuvem
+e proteger um corpo indefeso por horas, enquanto os inimigos do patrono sabem onde ele está.
 
 **Como agressores** — o cálculo é canônico e padrão até entre os mais poderosos: **atacar um inimigo
 durante a provação dele**. Ninguém quer ser o primeiro a passar pela sua, porque isso expõe uma

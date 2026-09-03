@@ -122,20 +122,14 @@ do Rio de Fluxo Reverso. Cada regra dela é uma regra de mesa pronta:
 
 ## As três fraquezas
 
-Toda fortaleza desta obra tem porta dos fundos, e é isso que impede o cenário de virar impasse.
-
-**A formação não se quebra de frente — mas está enraizada num lugar.** Atacá-la é inútil; **destruir
-o terreno em que ela está plantada** a derruba sozinha. É a diferença entre lutar contra um castelo
-e cavar embaixo dele.
-
-**Quem a construiu plantou uma sub-formação clandestina**, e o dono da montanha, que não era do
-caminho das formações, nunca percebeu. Vira uma regra geral que a comunidade imortal aprendeu do
-pior jeito: ==uma super formação encomendada a terceiros é um risco permanente de sequestro==. Quem
-constrói a sua fortaleza pode entregá-la.
-
-**A formação corta a comunicação — inclusive a do dono com o mundo.** Enquanto está ativa, ninguém
-dentro pede socorro, contrata reforço ou verifica informação. `(ded.)` Um defensor cercado por uma
-fortaleza que o isola está sozinho tanto quanto o invasor.
+**A formação não se quebra de frente — mas está enraizada num lugar.** Atacá-la é inútil; **destruir o
+terreno em que ela está plantada** a derruba sozinha: a diferença entre lutar contra um castelo e cavar
+embaixo dele. **Quem a construiu plantou uma sub-formação clandestina**, e o dono da montanha, que não
+era do caminho das formações, nunca percebeu — donde a regra que a comunidade imortal aprendeu do pior
+jeito: ==uma super formação encomendada a terceiros é um risco permanente de sequestro==. E **a
+formação corta a comunicação, inclusive a do dono com o mundo**: enquanto está ativa, ninguém dentro
+pede socorro, contrata reforço ou verifica informação. `(ded.)` Um defensor cercado por uma fortaleza
+que o isola está sozinho tanto quanto o invasor.
 
 ## O relógio do cerco
 
@@ -234,13 +228,12 @@ desligado**.
 
 ## O que um grupo de personagens faz aqui
 
-É o **equalizador perfeito**: uma sessão inteira em que o poder de fogo do grupo vale zero e o que
-decide é fôlego, teimosia e o que cada um está disposto a fazer com as próprias mãos. Serve para três
-coisas que uma mesa raramente consegue — **pôr personagens fracos e fortes no mesmo plano** sem
-inventar regra nenhuma, porque a justificativa é canônica; **tirar o equipamento dos jogadores sem
-tirá-lo de fato**, já que tudo continua com eles, inerte, e basta sair para voltar a funcionar, de
-modo que a tentação de descer é constante; e **fazer da desistência uma jogada legítima**, que custa
-apenas tudo o que se veio buscar.
+O rio é o **equalizador perfeito**: uma sessão inteira em que o poder de fogo do grupo vale zero e o
+que decide é fôlego e teimosia. Serve para três coisas que uma mesa raramente consegue — **pôr
+personagens fracos e fortes no mesmo plano** com justificativa canônica; **tirar o equipamento dos
+jogadores sem tirá-lo de fato**, já que tudo continua com eles, inerte, e basta sair para voltar a
+funcionar, de modo que a tentação de descer é constante; e **fazer da desistência uma jogada
+legítima**, que custa apenas tudo o que se veio buscar.
 
 > [!note] Para o design
 > Rode os dois cenários **em sequência, na mesma noite**. O cerco diz aos jogadores que o inimigo

@@ -130,11 +130,10 @@ voam em grupos, e todos os grupos **orbitam lentamente um centro comum**; de lon
 uma esfera gigante, e a órbita é hipnótica a ponto de deixar tonto quem a observa por alguns
 segundos. Os pedaços **continuam crescendo**.
 
-**A regra de sobrevivência.** Cada pedaço de gelo é ao mesmo tempo um núcleo da formação e **o único
-lugar seguro**: qualquer outro ponto do vazio esmaga quem parar ali, com uma força que vem do
-sacrifício acumulado de incontáveis Gu Imortais e mundos inteiros, forte o bastante para matar
-qualquer coisa que exista neste mundo. Traduzido para regra de mesa: **a nona camada é um salto de
-pedra em pedra, e errar o salto não é queda, é aniquilação.**
+**A regra de sobrevivência.** Cada pedaço é ao mesmo tempo um núcleo da formação e **o único lugar
+seguro**: qualquer outro ponto do vazio esmaga quem parar ali, com uma força vinda do sacrifício
+acumulado de incontáveis Gu Imortais e mundos inteiros. Traduzido para regra de mesa: **a nona camada é
+um salto de pedra em pedra, e errar o salto não é queda, é aniquilação.**
 
 **O dano.** Pisar num pedaço despeja no peito de quem pisou **uma emoção intensa e alheia** — não um
 sentimento próprio, mas o sentimento inteiro de outra pessoa, inteiramente formado. A obra descreve
@@ -219,36 +218,32 @@ coletivamente.
 
 ## O que um grupo de personagens faz aqui
 
-**Rank 3 a 5.** As camadas 1 a 7 são um saque clássico e não exigem rank alto — bestas e plantas
-viciosas na primeira, calor e pedra na segunda, névoa e cidade-fantasma na terceira. O que muda tudo
-é a regra dos sons demoníacos: o grupo precisa **saber quando eles vêm e ter onde se abrigar**,
-porque um companheiro enlouquecido é mais perigoso que qualquer fera do andar. E há o problema
-comercial, ótimo para uma mesa: eles voltam com sacos cheios de material que **ninguém quer comprar**
-e precisam descobrir por quê — ou descobrir quem compra. A obra dá o gancho de entrada pronto, e ele
-é humilde: os três eremitas que moram lá **não conseguiam nem chegar à oitava camada sozinhos** e por
-isso recrutaram um forasteiro, que por sua vez recrutou terceiros. **Uma expedição a esta caverna
-começa com gente fraca demais contratando gente que também não dá conta.**
+**Rank 3 a 5.** As camadas 1 a 7 são um saque clássico e não exigem rank alto. O que muda tudo é a
+regra dos sons demoníacos: o grupo precisa **saber quando eles vêm e ter onde se abrigar**, porque um
+companheiro enlouquecido é mais perigoso que qualquer fera do andar. E há o problema comercial: eles
+voltam com sacos cheios de material que **ninguém quer comprar** e precisam descobrir por quê — ou
+descobrir quem compra. A obra dá o gancho de entrada pronto, e ele é humilde: os três eremitas que
+moram lá **não conseguiam nem chegar à oitava camada sozinhos** e por isso recrutaram um forasteiro,
+que por sua vez recrutou terceiros. **Uma expedição a esta caverna começa com gente fraca demais
+contratando gente que também não dá conta.**
 
-**Rank 5 a 7.** A oitava camada, onde o grupo pode ser **nativo de um mundo pequeno condenado**,
-vendo o próprio céu ser puxado para o centro e tendo semanas para decidir para onde migrar;
-mercenário de um dos três Grandes Mundos, numa guerra cujo verdadeiro propósito ninguém explicou; ou
-batedor mandado à frente para mapear o vazio antes das frotas chegarem.
+**Rank 5 a 7.** A oitava camada: ser **nativo de um mundo pequeno condenado**, vendo o próprio céu ser
+puxado para o centro e com semanas para decidir para onde migrar; mercenário de um dos três Grandes
+Mundos, numa guerra cujo propósito ninguém explicou; ou batedor mandado à frente para mapear o vazio.
 
-**Rank 7 a 8.** A nona camada e a corrida pelos núcleos — mas note que **a nona camada não premia
-poder**: um personagem de rank mais baixo com equilíbrio emocional avança mais que um rank 8
-assombrado. `(ded.)` É perfeitamente jogável levar um grupo misto até ali e deixar que o mais fraco
-chegue mais longe.
+**Rank 7 a 8.** A nona camada e a corrida pelos núcleos — mas ela **não premia poder**: um personagem
+de rank baixo com equilíbrio emocional avança mais que um rank 8 assombrado. `(ded.)` É perfeitamente
+jogável levar um grupo misto até ali e deixar que o mais fraco chegue mais longe.
 
 ## Desfechos possíveis
 
-- **A expedição comercial** — o grupo desce até a sétima camada, colhe o que consegue e sai. O
-  desfecho mais provável e o mais satisfatório para uma mesa de rank médio.
-- **A guerra pelo território.** Um dos Grandes Mundos cai, e o grupo estava dentro dele.
-- **O núcleo é extraído** por alguém — talvez pelos jogadores, talvez pela facção rival — e a
-  contramedida do construtor é ou não é acionada. Ou **a formação se completa** e a caverna entrega o
-  que quer que estivesse produzindo há um milhão de anos.
-- **A casca se rompe.** Todo mundo perde, e o problema deixa de ser da caverna e passa a ser do mundo.
-- **Ninguém sai.** Os sons demoníacos não perdoam quem se perde nos desvios.
+- **A expedição comercial** — desce até a sétima camada, colhe e sai. O mais provável, e o mais
+  satisfatório para uma mesa de rank médio.
+- **A guerra pelo território:** um dos Grandes Mundos cai, e o grupo estava dentro dele.
+- **O núcleo é extraído** e a contramedida do construtor é ou não é acionada; ou **a formação se
+  completa** e a caverna entrega o que estivesse produzindo há um milhão de anos.
+- **A casca se rompe**, e o problema deixa de ser da caverna e passa a ser do mundo. Ou **ninguém
+  sai**, porque os sons demoníacos não perdoam quem se perde nos desvios.
 
 ## O que a obra não diz
 

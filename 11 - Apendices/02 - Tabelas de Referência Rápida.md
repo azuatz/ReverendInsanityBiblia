@@ -10,24 +10,25 @@ tags:
   - economia
   - cultivo/longevidade
   - sociedade
+  - combate
 aliases:
   - Quick Reference Tables
   - Tabelas Numéricas
   - Números do Sistema
   - Tabela de Escala e Distância
 status: verificado-no-texto
-fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 736", "cap. 737", "cap. 740", "cap. 826", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
-conhecimento: misto — são conhecimento comum no mundo as tabelas de aptidão, ranks e cores, a escala e as distâncias da seção 13, os custos de essência e de vida (14, 19), a força em jun (15), a demografia (18) e a capacidade da abertura (20); são conhecimento especializado dao marks, tribulações, essências imortais, attainment, grades de terra abençoada e a longevidade dos Veneráveis (17); são segredo de altíssimo nível as quatro condições para virar Venerável (11) e a escala de fundação de alma acima do teto humano (16)
+fontes: ["_pipeline/pesquisa/CORRECAO-limiares-aptidao.md", "cap. 7", "cap. 10", "cap. 11", "cap. 22", "cap. 23", "cap. 24", "cap. 26", "cap. 29", "cap. 29", "cap. 64", "cap. 70", "cap. 75", "cap. 83", "cap. 90-91", "cap. 105", "cap. 106", "cap. 121", "cap. 137", "cap. 152", "cap. 156", "cap. 161", "cap. 168", "cap. 198", "cap. 212", "cap. 222", "cap. 230", "cap. 262", "cap. 265", "cap. 268", "cap. 273", "cap. 296", "cap. 299", "cap. 306", "cap. 312", "cap. 314-315", "cap. 331", "cap. 334", "cap. 344", "cap. 374", "cap. 379", "cap. 408", "cap. 409", "cap. 421", "cap. 422", "cap. 443", "cap. 460", "cap. 463", "cap. 466", "cap. 476", "cap. 484", "cap. 500", "cap. 504", "cap. 516", "cap. 534", "cap. 536", "cap. 538", "cap. 588", "cap. 591", "cap. 608", "cap. 609", "cap. 612", "cap. 627", "cap. 633", "cap. 666", "cap. 668", "cap. 690", "cap. 690", "cap. 723", "cap. 736", "cap. 737", "cap. 740", "cap. 819-820", "cap. 826", "cap. 852", "cap. 860", "cap. 865", "cap. 939", "cap. 969", "cap. 973", "cap. 1007", "cap. 1027", "cap. 1033", "cap. 1035", "cap. 1060", "cap. 1066", "cap. 1097", "cap. 1161", "cap. 1180", "cap. 1185", "cap. 1191", "cap. 1204", "cap. 1206", "cap. 1217", "cap. 1291", "cap. 1310", "cap. 1346", "cap. 1367", "cap. 1374", "cap. 1389", "cap. 1398", "cap. 1459", "cap. 1460", "cap. 1470", "cap. 1489", "cap. 1491", "cap. 1509", "cap. 1551", "cap. 1569", "cap. 1608", "cap. 1629", "cap. 1644", "cap. 1703", "cap. 1747", "cap. 1756-1758", "cap. 1817", "cap. 1842", "cap. 1903", "cap. 1938", "cap. 2042", "cap. 2071", "cap. 2077", "cap. 2079", "cap. 2080", "cap. 2085-2086", "cap. 2088", "cap. 2090", "cap. 2091", "cap. 2118", "cap. 2128", "cap. 2145", "cap. 2172", "cap. 2213", "cap. 2228", "cap. 2295"]
+conhecimento: misto — são conhecimento comum no mundo as tabelas de aptidão, ranks e cores, a escala e as distâncias da seção 13, os custos de essência e de vida (14, 19), a força em jun (15), a demografia (18) e a capacidade da abertura (20) e os números de combate (21); são conhecimento especializado dao marks, tribulações, essências imortais, attainment, grades de terra abençoada e a longevidade dos Veneráveis (17); são segredo de altíssimo nível as quatro condições para virar Venerável (11) e a escala de fundação de alma acima do teto humano (16)
 ---
 
 # Tabelas de Referência Rápida
 
 Esta é a nota de consulta rápida do projeto: todos os números que o sistema de
 Reverend Insanity fixa, reunidos num lugar só, para não ser preciso caçá-los pelas
-notas temáticas. São vinte seções, e elas cobrem, em ordem: o cultivador (1 a 12), o
+notas temáticas. São vinte e uma seções, e elas cobrem, em ordem: o cultivador (1 a 12), o
 mundo em que ele anda (13), a economia de ação de uma cena (14 a 16), quanto ele vive
-(17), quantos como ele existem (18), quanto tudo custa (19) e quanto ele consegue
-carregar (20). Cada tabela vem precedida de um parágrafo curto explicando o que
+(17), quantos como ele existem (18), quanto tudo custa (19), quanto ele consegue
+carregar (20) e como é a cena de combate em si (21). Cada tabela vem precedida de um parágrafo curto explicando o que
 ela mede e como lê-la — a ideia é que você consiga usar qualquer uma delas sem ter
 lido nenhuma outra nota antes.
 
@@ -127,6 +128,39 @@ Três observações práticas que a tabela não mostra sozinha:
 A aptidão **não é imutável**, mas mudá-la exige métodos raros, caros e em geral
 sombrios — e ela também pode **cair**, por dano à abertura ou contaminação por
 essência alheia. Os detalhes estão em [[03 - Aptidão|Graus de Aptidão]].
+
+### 1.1 Quanto a aptidão pode mudar
+
+A frase "a aptidão não é fixa" é fácil de subestimar. A obra documenta um caso completo,
+com números, e ele mostra que a mudança pode ser **enorme e rápida** quando o método existe.
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| Amplitude documentada de uma subida | de **43%** (grau C) a **mais de 90%** (grau A) | **canônico** |
+| Tempo que essa subida levou | **seis horas**, num único episódio | **canônico** |
+| Ganho da primeira aplicação | **+10 pontos percentuais** (43 → 53); a segunda repetiu (53 → 63) | **canônico** |
+| Número de aplicações no total | **mais de dez** | **canônico** |
+| Rendimento das últimas aplicações | **decrescente** — "nas últimas vezes o efeito enfraquecia" | **canônico**, sem número |
+| Insumo de **uma** aplicação | o sangue de **cem pessoas** mortas, todas da mesma linhagem do beneficiário | **canônico** |
+| Queda causada por um Gu de cura de rank 4 que ressuscita | **−10 pontos percentuais**, permanente enquanto o Gu não for revertido | **canônico** |
+| Queda causada por um método demoníaco de rank baixo | **−1 ponto percentual** no caso citado | **canônico** |
+
+> [!warning] Subir de aptidão pode **derrubar** o rank
+> Este é o efeito colateral que ninguém antecipa, e ele é canônico: no caso acima, o
+> cultivador subiu de C para B **e caiu de rank 3 para rank 2 no mesmo instante**.
+>
+> O motivo é aritmético e vale como regra geral. A aptidão é o **teto de armazenamento** da
+> abertura (seção 1), e o rank depende de quanto do teto está preenchido. Aumentar a aptidão
+> aumenta o denominador: a mesma essência que enchia uma abertura pequena passa a ocupar uma
+> fração menor de uma abertura maior. Quem tinha comprado o rank com um efeito de rank 3 e
+> depois recebeu um efeito de rank 4 de sinal contrário perdeu as duas coisas de uma vez.
+>
+> **A regra de resolução por trás disso vale para o cenário inteiro:** quando dois efeitos se
+> chocam, **vence o de rank mais alto, independentemente da ordem em que foram aplicados**.
+> O efeito de rank 3 tinha vindo primeiro e perdeu assim mesmo. É por isso que nenhum ganho
+> comprado com um Gu de rank baixo é definitivo.
+
+
 
 ---
 
@@ -478,21 +512,30 @@ ativação (ver a primeira regra abaixo), nem o attainment, nem a chance de acer
 | Dao marks no caminho | Amplificação do efeito | Origem |
 |---|---|---|
 | 100 | +10% (1,1×) | ponto citado na obra |
+| 200 | +20% (1,2×) | ponto citado na obra |
+| 600 | +60% (1,6×) | ponto citado na obra |
 | 1.000 | 2× (o dobro) | ponto citado na obra |
 | 10.000 | 10× | ponto citado na obra (arredondado — ver abaixo) |
 | 50.000 | 50× | ponto citado na obra (arredondado — ver abaixo) |
+| 1.000.000 | 1.000× | ponto citado na obra (arredondado) |
+| 1.500.000 | 1.500× | ponto citado na obra (arredondado) |
 
-São **quatro** pontos avulsos, e a obra nunca enuncia a fórmula que os liga. A
-fórmula abaixo é reconstrução nossa, e é o que recomendamos usar em mesa:
+São **oito** pontos avulsos, colhidos ao longo de toda a obra, e ela nunca enuncia a
+fórmula que os liga. A fórmula abaixo é reconstrução nossa, e é o que recomendamos usar
+em mesa:
 
 > **`inferido` — efeito final = efeito base × (1 + dao marks ÷ 1.000)`**
 
-Ela reproduz exatamente os dois primeiros pontos (100 marcas → 1,1×; 1.000 marcas →
-2×) e reproduz os dois últimos com um arredondamento que a própria obra
-evidentemente faz: 10.000 marcas dariam 11× e o texto diz "dez vezes"; 50.000
-dariam 51× e o texto diz "cinquenta vezes". Em números grandes, o "+1" da fórmula
-some no arredondamento, e é por isso que os quatro pontos parecem obedecer a duas
-regras diferentes quando olhados isoladamente.
+Ela reproduz **exatamente** os quatro primeiros pontos (100 → 1,1×; 200 → 1,2×; 600 →
+1,6×; 1.000 → 2×) e reproduz os quatro últimos com um arredondamento que a própria obra
+evidentemente faz: 10.000 marcas dariam 11× e o texto diz "dez vezes"; 50.000 dariam 51×
+e o texto diz "cinquenta vezes"; 1.500.000 dariam 1.501× e o texto diz "mil e quinhentas
+vezes". Em números grandes, o "+1" da fórmula some no arredondamento, e é por isso que os
+pontos parecem obedecer a duas regras diferentes quando olhados isoladamente.
+
+A confirmação vale ser dita com todas as letras, porque é rara: **a mesma fórmula acerta os
+extremos opostos da escala** — 100 marcas e um milhão e meio de marcas, colhidos em volumes
+diferentes e em caminhos diferentes. A curva do sistema é linear e vale do começo ao fim.
 
 O ganho prático de ter a fórmula escrita é poder **interpolar**, que é o que uma
 mesa faz o tempo todo e a lista de quatro pontos não permite: com 5.000 dao marks,
@@ -507,6 +550,12 @@ Duas regras tornam esse número o investimento de melhor retorno do sistema inte
 - **A amplificação por ambiente, não.** Um local que amplifique um golpe em cerca de
   100× multiplica o **custo de essência na mesma proporção**. Poder emprestado do
   cenário se paga; poder gravado no próprio corpo, não.
+- **Mas existem golpes que queimam as marcas como combustível.** É a exceção, e ela tem
+  número: um golpe ofensivo de assinatura de caminho da sabedoria consome **no mínimo 16
+  dao marks por acionamento**, além da essência imortal — e sem teto superior: quanto maior
+  a área ou a potência que se quer, mais marcas queimam. Como marcas gastas não voltam
+  sozinhas, um golpe desses **come o próprio multiplicador do usuário a cada uso**. Trate-o
+  como munição cara, não como golpe de rotina.
 
 É por isso que ninguém foge de tribulações indefinidamente, apesar do risco de
 morte: a alternativa é ficar permanentemente para trás.
@@ -1302,6 +1351,26 @@ A escada é decimal e a obra a enuncia inteira:
 | depois de 900 milhões | **não** vem 1 bilhão: vem uma **ruptura de categoria** para *desolate soul* | **canônico** |
 | 1 → 10 → … → **100 milhões de desolate soul** | a segunda escada, que recomeça do 1. O topo dela é o teto absoluto do mundo, com força de combate quase de rank 9 | **canônico** |
 
+> [!warning] A escada não é contínua: em 100 há uma parede
+> A tabela acima mede a escala inteira, mas ela **não é percorrível só somando**. O texto é
+> explícito: ==uma pessoa normal só consegue **fortalecer** a alma até cem vezes — a "alma de
+> cem homens" — e esse é o limite extremo==. Fortalecer um pouco além disso não dá um ganho
+> menor: **a alma explode e se dispersa no ar**, definitivamente. A imagem que a obra usa é a
+> de um estômago que arrebenta de comer demais.
+>
+> **O destravamento não é mais volume — é mudança de tipo.** Quem quer passar de 100 precisa
+> **refinar** a alma com Gu temáticos (divina, dragão, gelo, sonho, lua, general, rancor,
+> poema, lobo), que a levam a uma forma composta: alma de homem-lobo, por exemplo. Terminado
+> o processo, duas coisas acontecem de uma vez: a alma composta é **muitas vezes mais forte
+> que uma alma de cem homens comum**, e o cultivador **volta a poder fortalecer** — mil, dez
+> mil, e em tese sem limite.
+>
+> Duas consequências de mesa. Primeira: os dois lugares sagrados do caminho da alma, o que
+> **fortalece** e o que **refina**, não são duas opções concorrentes — são as **duas metades
+> obrigatórias** de uma progressão que trava sem a segunda. Segunda: o **corpo** tem teto
+> próprio. São as dao marks de alma gravadas nele que determinam quanta alma ele sustenta;
+> sem elas, a alma cresce além do que o recipiente aguenta. Ver [[16 - Dao Marks|Dao Marks]].
+
 Dois números avulsos que ajudam a calibrar:
 
 - Romper para *desolate soul* grava **cerca de 1.000 dao marks** na própria alma.
@@ -1639,6 +1708,103 @@ seções anteriores mediram a energia. Esta mede o estojo.
 > cresce ao subir. Sabemos que cresce (a fala citada acima só faz sentido assim) e sabemos
 > onde o patamar comum fica (três a cinco). O resto é seu para inventar — e, se inventar,
 > ancore no 3–5 como o normal e trate 7 como já notável.
+
+---
+
+## 21. Combate: ritmo, distância e conversão entre ranks
+
+As vinte seções anteriores medem o personagem, o mundo e a economia. Esta mede **a cena**:
+quanto tempo dura uma troca de golpes, a que distância as pessoas se batem, quanta defesa
+é preciso para segurar um ataque de um degrau acima, e que chance um azarão tem de fato.
+
+São os números mais úteis para converter a obra em regras, e também os mais escassos — a
+obra é precisa no ritmo e no alcance e **silenciosa** na conversão para relógio e metro.
+
+### 21.1 O relógio da luta
+
+A unidade de tempo do combate é a **respiração** (*breath*), e a obra a usa com precisão
+cirúrgica — chega a distinguir "a décima primeira respiração em vez da décima" como a causa
+de um fracasso. O que ela nunca faz é converter respiração em segundos.
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **Conversão rodada ↔ respiração** | **≈ 1 rodada por respiração** | **canônico**, mas de **uma única passagem** ("dez respirações davam para uma dúzia de rodadas de troca"). Use como régua, não como lei |
+| Respiração → segundos | — | **a obra nunca converte.** Qualquer valor em segundos é invenção |
+| Rodadas até resolver um combate entre mortais | **3 a 10** | **canônico** |
+| Rodadas até um mortal ficar ofegante | **algumas dezenas** | **canônico** |
+| Rodadas num combate entre imortais | **dezenas a mais de cem** | **canônico** |
+| Quanto uma defesa insuficiente segura um ataque acima do patamar | **meia respiração** | **canônico**, e recorrente |
+
+### 21.2 A distância de combate
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **Distância padrão de um duelo escolar** | **10 metros** | **canônico** |
+| **Distância de um combatente proficiente** | **6 metros** | **canônico** |
+| Raio de uma defesa corporal comum | **cerca de 1 metro** | **canônico** |
+| Conversão passo → metro | — | **a obra nunca a dá** |
+
+Os dez metros não são arbitrários: é o **alcance do projétil básico** que todo estudante
+usa, e o motivo da convenção está dito no texto. Mais longe que isso, o projétil se dissipa
+antes de chegar; mais perto, o aluno não tem tempo de reagir. Encurtar a distância para seis
+metros é justamente a marca de quem **já consegue** desviar — e a obra trata isso como um
+salto de proficiência visível de fora, comentado pelos espectadores.
+
+> [!note] Para o design
+> Aqui está uma régua de perícia que não precisa de ficha nenhuma: **a distância em que o
+> personagem escolhe lutar mede o quanto ele sabe**. Um mestre encurta; um novato mantém os
+> dez metros. É legível na mesa, sem rolagem, e vale como descrição.
+
+### 21.3 Conversão entre ranks: ataque, defesa e chance
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **Defender um ataque de rank 4** | exige **pelo menos dois Gu de rank 3** | **canônico** |
+| Camadas de defesa: uso corrente / risco de vida / especialista / imortal em crise | 1 / 2 / 3 / ~100 | **canônico** |
+| Defesa de área ampla × defesa de alvo único | a de área é **mais fraca** | **canônico** |
+| **Chance de um rank 3 excepcional contra um rank 4 de estágio inicial** | **30%** — e o texto comenta que, dado o vão entre os dois grandes reinos, 30% já é notável | **canônico** |
+| **A mesma chance, com um único Gu novo adequado** | **60%** — dobra | **canônico** |
+| Diferença de cerca de um rank e meio | **mais de cem vezes mais forte** | **canônico** |
+
+> [!note] Para o design
+> A segunda e a terceira linha da tabela de chance, lidas juntas, dão de graça a curva de
+> tensão de uma sessão inteira: **um Gu certo vale tanto quanto todo o resto do personagem**.
+> Trinta por cento é o preço de encarar alguém um degrau acima com o que se tem; sessenta é o
+> preço de ter feito o trabalho de casa antes. É a justificativa mecânica de uma aventura
+> inteira gastar suas cenas atrás de um item só.
+
+### 21.4 Atenção: o recurso que não é energia
+
+Um cultivador não gasta só essência numa luta: gasta **atenção**, e ela tem teto próprio,
+independente do rank e da reserva.
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| Tarefas simultâneas de um praticante forte, **sem erro** | **3** | **canônico** — "nem o forte conseguia dividir a mente em quatro por muito tempo sem cometer erros" |
+| Máximo documentado na obra | **5**, descrito como a mente "esticada até o limite", sem folga nenhuma | **canônico** |
+| Gu que concedem multitarefa | existem em escada: o de **duas** tarefas é **rank 2**, e sobem daí (três, quatro, cinco tarefas) | **canônico** |
+| Custo de **manter** uma tarefa já em curso | nenhum extra | **canônico** |
+| Custo de **trocar** o alvo da atenção | cobra do praticante — é o momento em que ele erra | **canônico** |
+
+> [!note] Para o design
+> Este é o teto que transforma "controlar muitas coisas" num problema real de mesa em vez de
+> uma vantagem grátis. Três é o número de mesa: três invocações, ou dois efeitos sustentados
+> e uma defesa. E como **manter é grátis e mudar é caro**, o contra-jogo contra um
+> multitarefa é **forçá-lo a redirecionar** — não somar ataques, mas somar *ângulos*.
+
+### 21.5 Requisitos de montagem de um golpe
+
+| Grandeza | Valor | Origem |
+|---|---|---|
+| **Golpe de campo de batalha de nível imortal** | exige **no mínimo três Gu Imortais**, e eles precisam estar **conectados entre si** de alguma forma | **canônico** |
+| Um golpe de campo imortal, em uma frase | replica temporariamente marcas do Dao incontáveis e cria um campo próprio — uma "quase-terra-abençoada" portátil | **canônico** |
+
+> [!warning] Regra de resolução: conflito de efeitos decide-se pelo rank, não pela ordem
+> Vale repetir aqui o que a seção 1.1 estabelece, porque é a regra de arbitragem mais usada
+> numa mesa: **quando dois efeitos se chocam, o de rank mais alto governa o de rank mais
+> baixo, independentemente de qual foi aplicado primeiro**. A obra mostra um efeito de rank 3
+> já instalado sendo sobrescrito por um de rank 4 aplicado depois — e o dono perdendo, junto,
+> tudo o que o de rank 3 lhe dava. Não existe "chegou primeiro" neste cenário.
 
 ---
 

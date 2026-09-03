@@ -197,7 +197,7 @@ descrevem separadamente, e que parecem excêntricos até serem lidos juntos:
   quantidade **passam a produzir feras fantasma** por conta própria — normalmente raríssimas,
   ali aparecem em bando.
 
-Nos três casos o padrão é o mesmo: **acumulação de marcas para de ser só um multiplicador e
+Nos três fenômenos o padrão é o mesmo: **acumulação de marcas para de ser só um multiplicador e
 começa a agir por conta própria**, sem que ninguém ative nada. Num corpo, vira faculdade
 inata; num lugar, vira fauna.
 

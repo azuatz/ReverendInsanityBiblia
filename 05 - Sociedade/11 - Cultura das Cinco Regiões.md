@@ -6,7 +6,7 @@ tags:
 aliases:
   - Regional cultures
 status: consolidado
-fontes: ["cap. 229", "cap. 260-283", "cap. 334-335", "cap. 353", "cap. 359", "cap. 427", "cap. 439-451", "cap. 456", "cap. 470", "cap. 477-489", "cap. 497-545", "cap. 585", "cap. 638", "cap. 749", "cap. 795", "cap. 812-814", "cap. 864-869", "cap. 879", "cap. 892-899", "cap. 909-911", "cap. 954", "cap. 965", "cap. 1207", "cap. 1235-1236", "cap. 1303-1305", "cap. 1966", "cap. 2015", "cap. 2038", "cap. 2100", "cap. 2161", "cap. 2175"]
+fontes: ["cap. 229", "cap. 260-283", "cap. 334-335", "cap. 353", "cap. 359", "cap. 427", "cap. 439-451", "cap. 456", "cap. 470", "cap. 477-489", "cap. 497-545", "cap. 585", "cap. 638", "cap. 673-674", "cap. 749", "cap. 795", "cap. 812-814", "cap. 864-869", "cap. 879", "cap. 892-899", "cap. 909-911", "cap. 954", "cap. 965", "cap. 1207", "cap. 1235-1236", "cap. 1303-1305", "cap. 1966", "cap. 1973", "cap. 2015", "cap. 2038", "cap. 2100", "cap. 2161", "cap. 2175", "cap. 2255"]
 conhecimento: comum
 ---
 

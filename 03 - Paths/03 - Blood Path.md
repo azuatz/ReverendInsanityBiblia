@@ -6,7 +6,7 @@ aliases:
   - Caminho do sangue
   - Bloodline path
 status: consolidado
-fontes: ["cap. 156", "cap. 157", "cap. 158", "cap. 165", "cap. 182", "cap. 183", "cap. 198", "cap. 274", "cap. 407", "cap. 463", "cap. 464", "cap. 469", "cap. 687", "cap. 706", "cap. 710", "cap. 775", "cap. 826", "cap. 848", "cap. 849", "cap. 850", "cap. 861", "cap. 863", "cap. 961", "cap. 970", "cap. 1044", "cap. 1058", "cap. 1061", "cap. 1062", "cap. 2203", "cap. 2204", "cap. 2212", "cap. 2221", "cap. 2262"]
+fontes: ["cap. 156", "cap. 157", "cap. 158", "cap. 165", "cap. 182", "cap. 183", "cap. 198", "cap. 274", "cap. 407", "cap. 463", "cap. 464", "cap. 469", "cap. 687", "cap. 706", "cap. 710", "cap. 775", "cap. 826", "cap. 848", "cap. 849", "cap. 850", "cap. 861", "cap. 863", "cap. 961", "cap. 970", "cap. 1044", "cap. 1058", "cap. 1061", "cap. 1062", "cap. 2080", "cap. 2203", "cap. 2204", "cap. 2212", "cap. 2221", "cap. 2246"]
 conhecimento: comum
 ---
 

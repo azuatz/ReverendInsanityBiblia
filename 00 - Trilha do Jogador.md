@@ -217,7 +217,7 @@ iniciante provavelmente não — libere conforme ele estuda, viaja ou sobe de ra
   [[26 - A Caverna do Demônio Enlouquecido|A Caverna do Demônio Enlouquecido]] — as duas últimas **com ressalva**
 
 **Referência avançada**
-- [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — o índice comentado dos quarenta e oito casos, com o nível de
+- [[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] — o índice comentado dos trinta e oito casos, com o nível de
   cada seção declarado ali mesmo: as seções de rank baixo, combate, mercado e produção são
   liberáveis; a seção "Heranças, territórios e escala imortal" é inteira de mestre
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] · [[16 - Linha do Tempo e Eras|Linha do Tempo e Eras]]

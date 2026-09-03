@@ -75,12 +75,11 @@ Existem, mas seu funcionamento profundo é conhecimento de pouquíssimos:
 
 ## Casos mecânicos que só o mestre deveria conhecer
 
-A pasta de estudos de caso é majoritariamente liberável, e o índice comentado em
-[[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]] declara o nível de cada seção.
-A seção final — "Heranças, territórios e escala imortal" — é inteira de mestre. Estas são as
-notas individuais de nível segredo:
+A pasta de estudos de caso é majoritariamente liberável. Na tabela de triagem de
+[[01 - Estudos de Caso Mecânicos|Estudos de Caso Mecânicos]], tudo o que estiver marcado como
+patamar **imortal** é material de mestre. Estas são as notas individuais de nível segredo:
 
-- [[08 - O Atalho Demoníaco de Rank|O Atalho Demoníaco de Rank]] e [[10 - Comprar Aptidão com Cem Vidas|Comprar Aptidão com Cem Vidas]] —
+- [[08 - O Atalho Demoníaco de Rank|O Atalho Demoníaco de Rank]] e [[09 - Os Dois Atalhos que se Anularam|Os Dois Atalhos que se Anularam]] —
   os dois casos que provam que **a aptidão não é fixa** e que existe preço para comprá-la. É a
   descoberta que mais desestabiliza a mesa, porque reabre o futuro de um personagem que se
   achava limitado — e mostra o custo humano de fazê-lo.
@@ -90,9 +89,9 @@ notas individuais de nível segredo:
 - [[44 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] · [[45 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] ·
   [[46 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] — os limites da previsão e da preparação: o que
   acontece quando o lado que planeja melhor ainda assim perde.
-- [[47 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] e [[48 - Fazenda de Tribulações|Fazenda de Tribulações]] — o
-  desastre celestial convertido em infraestrutura. Saber que dá para **plantar** tribulação é
-  saber que o céu tem uma brecha administrável.
+- [[47 - A Tribulação Como Matéria-Prima|A Tribulação Como Matéria-Prima]] — o desastre celestial
+  convertido em infraestrutura, dos dois lados: escolher o terreno da própria prova e colher a prova
+  alheia. Saber que dá para **plantar** tribulação é saber que o céu tem uma brecha administrável.
 
 ## A escala de mundo dentro da pasta de eventos
 

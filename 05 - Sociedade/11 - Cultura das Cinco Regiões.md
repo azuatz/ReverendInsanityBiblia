@@ -45,10 +45,23 @@ sustentavam.
 > tradução de nada — a obra não os usa. Servem para você ter onde pendurar as coisas e
 > poder dizer "os personagens trabalham para o `[Clã da Prisão]`" sem precisar de nome
 > próprio. Troque-os pelos seus assim que tiver nomes melhores; nada no material depende
-> deles. O [[01 - Glossário EN-PT|Glossário EN-PT]] registra os nomes próprios de algumas organizações cuja
-> menção não estraga o enredo, mas **não** os dos clãs da Fronteira Sul listados abaixo —
-> para esses, o rótulo de trabalho é tudo o que este vault oferece por decisão de política
-> de spoiler, e não por falta de informação.
+> deles.
+>
+> **Os nomes próprios existem, e estão em [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]].**
+> Aquela nota traz a ficha completa de cada organização, com o nome que a obra usa; esta aqui
+> fica nos rótulos porque descreve **culturas**, e nomear cada clã no meio de uma descrição
+> cultural só atrapalharia. Se você quiser trocar os rótulos pelos nomes reais, a
+> correspondência é esta:
+>
+> | Rótulo desta nota | Nome na obra |
+> |---|---|
+> | `[Clã Número Um]` | clã Wu |
+> | `[Clã Mercador]` | clã Shang |
+> | `[Clã da Prisão]` | clã Tie |
+> | `[Clã das Rotas]` | clã Yi |
+> | `[Cidade Alada]` | Cidade Sagrada da Pena |
+>
+> Nenhum desses nomes estraga o enredo: são organizações, não pessoas nem reviravoltas.
 
 ### Fronteira Sul — o mundo dos clãs
 
@@ -75,7 +88,7 @@ determina como ele será tratado.
 
 > [!note] Para o design
 > Essa tabela é, sozinha, um mapa de tensões da Fronteira Sul: quem controla o dinheiro
-> (`[Clã Mercador]`), quem controla o movimento (`[Clã das Rotas]` e `[Clã do Céu]`), quem
+> (`[Clã Mercador]`), quem controla o movimento (`[Clã das Rotas]`), quem
 > controla a violência legítima (`[Clã da Prisão]`) e quem está acima de todos eles
 > (`[Clã Número Um]`). Uma campanha de intriga regional cabe em decidir a qual desses
 > poderes os personagens devem favores — e o `[Clã da Prisão]` é o mais útil dos quatro em
@@ -244,9 +257,10 @@ universais numa mesa:
    quase sempre em posição subalterna. Elas só formam assentamentos de porte médio sob a
    proteção de algum cultivador imortal, e são compradas e vendidas como escravos em
    escala industrial, com uma lógica de precificação por "controlabilidade" que é
-   desconfortavelmente explícita. Existem exceções notáveis: `[Cidade Alada]`, uma cidade
-   governada por uma raça alada — os *feathermen* do original, um dos povos variantes
-   listados no [[01 - Glossário EN-PT|Glossário EN-PT]] —, com sucessão por torneio e uma cultura de liberdade
+   desconfortavelmente explícita. O catálogo desses povos — corpo, talento inato, cultura e
+   posição social de cada um — está em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
+   Existem exceções notáveis: `[Cidade Alada]`, uma cidade
+   governada por uma raça alada — os homens-pena (*feathermen*) —, com sucessão por torneio e uma cultura de liberdade
    tão radical que prefere o suicídio coletivo à escravização; e `[Raça Aliada]`, ao menos
    uma raça que estabeleceu com humanos uma **aliança**, e não uma relação de posse.
 

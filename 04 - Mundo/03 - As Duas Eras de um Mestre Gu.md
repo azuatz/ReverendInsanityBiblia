@@ -56,11 +56,11 @@ zona onde elas se tocam.
 | **O mundo é** | a região onde você nasceu; a montanha vizinha já é longe | as cinco regiões inteiras, e os dois céus acima delas |
 | **Você se move** | a pé, montado, em caravana — semanas de viagem | por teletransporte, quando se tem o Gu certo |
 | **Sua energia** | uma reserva finita que esvazia numa luta | uma renda periódica produzida pela sua própria terra |
-| **Seu dinheiro** | pedras primevas, que também são combustível de cultivo | pedras de essência imortal — e, acima delas, escambo |
+| **Seu dinheiro** | pedras primordiais, que também são combustível de cultivo | pedras de essência imortal — e, acima delas, escambo |
 | **Sua casa** | uma casa numa vila murada | um mundo em miniatura dentro de você, onde outras pessoas moram |
 | **Seu relógio** | cem anos de vida; anos para subir de estágio | séculos e milênios; o tempo interno corre até dezenas de vezes mais rápido |
 | **O que te mata** | feras, emboscada, um rank acima do seu, ficar sem essência | tribulação do céu, outro imortal, perder a própria terra |
-| **Quantos são** | milhões de rank 1; várias centenas de rank 4 por região | várias centenas de imortais por região inteira |
+| **Quantos são** | `*` milhões de rank 1 (a obra nunca publica a base da pirâmide; este número é indução nossa); **várias centenas** de rank 4 por região | **várias centenas** de imortais por região inteira |
 | **Sua propriedade** | Gu, receitas, uma nascente, um cargo | um território produtivo com clima, população e orçamento |
 | **A guerra** | grupos de cinco, cercos, marés de bestas | dois ou três indivíduos decidem o destino de uma região |
 
@@ -78,10 +78,13 @@ personagem que tenha crescido no mundo.
 
 ### A geografia: a região é o mundo
 
-O mundo tem cinco grandes regiões, e uma delas — a Fronteira do Sul — é descrita como
-tendo de **sete a oito vezes a superfície da Terra**, com "cem mil montanhas" dentro. O
-Continente Central sozinho tem cerca de **cinquenta milhões de quilômetros quadrados**.
-Nenhuma potência regional jamais mapeou a própria região inteira.
+O mundo tem cinco grandes regiões, e cada uma é um mundo em escala planetária. A Fronteira
+do Sul é descrita como tendo de **sete a oito vezes a superfície da Terra**, com "cem mil
+montanhas" dentro; as Planícies do Norte, **dez vezes** a superfície da Terra. A régua
+utilizável é de **três a cinco bilhões de km² por região** `(ded.)`. Nenhuma potência
+regional jamais mapeou a própria região inteira. (O único número de área que a obra dá e que
+não fecha é o do Continente Central; a divergência está registrada em
+[[04 - As Cinco Regiões|As Cinco Regiões]].)
 
 Para um mortal, esse tamanho não é grandiosidade: é **isolamento**. Cada montanha abriga
 um punhado de clãs e uma penca de vilarejos, e o terreno entre elas — feras, Gu selvagens,
@@ -113,7 +116,7 @@ que exija atravessar o mundo já é, por si só, um enredo excepcional.
 **O que é ser rank 3.** É o patamar em que se deixa de ser peça e se vira gente. Um rank 3
 vira ancião do clã automaticamente, e todos os anciãos têm status igual entre si — brigas
 entre eles são "assunto interno entre iguais" e o clã não intervém. O pacote material é
-concreto: cerca de cem pedras primevas por semana de salário (o triplo em tempos de
+concreto: cerca de cem pedras primordiais por semana de salário (o triplo em tempos de
 crise), um Gu de rank 3 de graça, acesso ao arquivo de receitas de rank 1 a 3 do clã e
 direito a uma esposa e duas concubinas. Um clã de porte médio acumula uns vinte e poucos
 anciãos ao longo de gerações.
@@ -158,7 +161,7 @@ exatamente o oposto do que virá depois.
 
 ### O dinheiro: o que é riqueza aqui
 
-A moeda é a **pedra primeva**, que é simultaneamente dinheiro e combustível de cultivo —
+A moeda é a **pedra primordial**, que é simultaneamente dinheiro e combustível de cultivo —
 duplo papel que ancora todo o valor do cenário (ver [[02 - Pedras Primordiais|Pedras Primordiais]]). Para
 calibrar:
 
@@ -280,14 +283,14 @@ O efeito prático dessa arquitetura é o coração do cenário:
 
 Números concretos, para calibrar:
 
-| Referência | Quantidade de Gu Imortais |
+| Referência | Quantidade de **Imortais** (cultivadores de rank 6 ou acima — pessoas, não insetos) |
 |---|---|
 | Critério formal de "super tribo" nas Planícies do Norte | **1 ou mais**, além de uma terra abençoada própria |
 | Uma seita pequena tentando se emancipar do vassalato | 3 — e perdeu um deles para o suserano |
 | Uma das dez grandes seitas do Continente Central | **15**, dos quais 2 são anciãos supremos rank 8 |
 | Um super clã do Mar do Leste | **18** |
 | Um clã do Deserto do Oeste em guerra | 6 imortais nomeados, com anciãos supremos numerados |
-| Uma **região inteira** | **várias centenas** de Gu Imortais, no total |
+| Uma **região inteira** | **várias centenas** de Imortais, no total |
 | Rank 8 publicamente conhecidos numa região inteira | **cinco** |
 
 Repita a penúltima linha em voz alta, porque ela recalibra tudo: **uma região inteira do
@@ -594,7 +597,7 @@ Muito pouco, e o pouco é filtrado por classe social:
 Três coisas, e nenhuma delas é governar:
 
 **Usam como recurso.** O mundo mortal é a mina de onde sai tudo o que a era imortal
-consome. As pedras primevas vêm das nascentes que os clãs guardam. Os Gu de longevidade —
+consome. As pedras primordiais vêm das nascentes que os clãs guardam. Os Gu de longevidade —
 a moeda mais forte do mundo imortal — **nascem de formas de vida**, o que significa que
 mais população, mais história e mais espaço equivalem a mais Gu de longevidade acumulados
 numa região. O escambo documentado é explícito e desconfortável: trinta mil lobos mais um
@@ -649,7 +652,7 @@ o fazer.**
 > |---|---|---|
 > | Unidade de tempo de sessão | dias e semanas | anos e décadas |
 > | Unidade de tempo de campanha | uma vida de cem anos | séculos |
-> | Unidade de dinheiro | pedras primevas, contadas em unidades | pedras de essência imortal, e cada rank divide seu poder de compra por 100 |
+> | Unidade de dinheiro | pedras primordiais, contadas em unidades | pedras de essência imortal, e cada rank divide seu poder de compra por 100 |
 > | Unidade de espaço | uma montanha, um vale, uma vila | uma região; um mundo particular de centenas de milhares de km² |
 > | Unidade de risco | um combate perdido | uma provação agendada pelo próprio mundo, a cada 10, 50 ou 100 anos |
 > | Unidade de posse | um Gu, uma receita, um cargo | um território produtivo com população e orçamento |

@@ -69,7 +69,7 @@ Todos "contra a natureza", todos cobrando em outra moeda:
 
 | Método | O que dá | O preço |
 |---|---|---|
-| **Zumbificação** | existência indefinida, sem conceito de tempo de vida | corpo morto-vivo com fraquezas fixas; a abertura "morre" e o cultivo estagna; sem provações, e portanto sem dao marks. A rota inteira está em [[17 - Zumbis e Corpos Transformados|Zumbis e Corpos Transformados]] |
+| **Zumbificação** | existência indefinida, sem conceito de tempo de vida | corpo morto-vivo com fraquezas fixas; a abertura "morre" e o cultivo estagna; sem provações, e portanto sem dao marks. A rota inteira está em [[17 - Zumbis e Corpos Transformados\|Zumbis e Corpos Transformados]] |
 | **Animação suspensa** em caixão selado | adia a morte enquanto restar um fio de vida | não cura nada; o portador emerge exatamente no estado em que entrou |
 | **Corpo de criança permanente** | acumula força vital e a libera devagar; um usuário chegou a mais de 180 anos | aparência e corpo de criança para sempre |
 | **Possessão** de um corpo novo | escapa à morte trocando de corpo | criticado no próprio mundo como "mera luta na porta da morte"; a alma fica impura, com lapsos de memória |

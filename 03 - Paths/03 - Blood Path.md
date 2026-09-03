@@ -156,9 +156,16 @@ sua, que continua crescendo sem você**.
 Todo mundo no mundo sabe que ferimentos de Gu Imortal são um problema terrível e demorado; até
 Veneráveis sofrem com isso. O caminho do sangue é a exceção documentada.
 
-O **Venerável Imortal Sol Gigante** — um dos rank 9 da história — cultivava o **caminho do
-sangue como caminho principal**, com o caminho da sorte como especialidade. E a obra registra
-o que isso lhe dava: *quando usava o método do caminho do sangue para reviver,
+O **Venerável Imortal Sol Gigante** — um dos rank 9 da história — cultivava sangue e
+[[23 - Luck Path|sorte]] juntos, e o caso dele tem uma torção que vale registrar. Ele
+**planejou** o sangue como caminho principal e a sorte como especialidade; mas o
+desenvolvimento do caminho do sangue foi barrado pelo mundo — a escola nunca virou
+*mainstream* e continuou tratada como abominação —, e por isso a lista canônica dos pares dos
+dez Veneráveis o registra na ordem inversa: **sorte como principal, sangue como
+especialidade**. É o único dos dez cujo par saiu diferente do planejado, e a razão é política,
+não técnica. `(ded.)` Se o sangue tivesse prosperado, ele seria hoje um Venerável do sangue.
+
+E a obra registra o que o sangue lhe dava mesmo assim: *quando usava o método do caminho do sangue para reviver,
 **independentemente de quão graves fossem seus ferimentos, ele ficava completamente
 curado***. Era a carta na manga com que ele entrou em duelos contra outros Veneráveis. A obra
 compara diretamente: uma Venerável de sabedoria e estrelas **não era tão habilidosa em cura
@@ -358,8 +365,8 @@ verdadeiramente perigoso para um cenário:
 - **[[12 - Soul Path|Soul Path]]** — corpo e alma são as duas metades do mesmo problema; muitos rituais
   demoníacos usam os dois.
 - **[[07 - Enslavement Path|Enslavement Path]]** — vínculos de sangue são um dos meios mais antigos de controle.
-- **[[23 - Luck Path|Luck Path]]** — o par escolhido pelo único Venerável documentado do caminho: sangue como
-  principal, sorte como especialidade.
+- **[[23 - Luck Path|Luck Path]]** — o par do único Venerável documentado do caminho, que
+  cultivou os dois (ver "A cura absoluta", acima, para qual dos dois acabou sendo o principal).
 - **[[16 - Wisdom Path|Wisdom Path]]** — necessário para completar receitas fragmentárias; sem ele, os melhores
   Gu do caminho permanecem lendas.
 
@@ -414,9 +421,11 @@ verdadeiramente perigoso para um cenário:
   de multiplicar. O resultado é o traço mais assustador do caminho: **ele não pode ser
   erradicado**. Cada herança é uma faísca, e muitos praticantes do caminho correto viraram de
   lado ao achar uma.
-- **O Venerável Imortal Sol Gigante** — rank 9, caminho do sangue como principal e caminho da
-  sorte como especialidade. Deixou descendência espalhada pelas cinco regiões, e a cura
-  absoluta como carta na manga contra outros Veneráveis.
+- **O Venerável Imortal Sol Gigante** — rank 9, o único Venerável que cultivou o caminho do
+  sangue. Queria fazer dele seu caminho principal e da sorte a especialidade; como o sangue
+  nunca vingou como escola, a lista canônica o registra ao contrário. Deixou descendência
+  espalhada pelas cinco regiões, e a cura absoluta como carta na manga contra outros
+  Veneráveis.
 - Existem praticantes de nível 7 contemporâneos entre os mais fortes do mundo demoníaco, e a
   obra os apresenta como *extremamente poderosos em combate*.
 

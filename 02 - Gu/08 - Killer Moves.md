@@ -269,7 +269,7 @@ de um killer move são as marcas do Dao**, e o Gu é apenas o intermediário hab
 | Ativação rápida e simples — "até um tolo consegue" | Custo de criação inicial altíssimo |
 | Manutenção barata — não há Gu para alimentar | Molda **permanentemente** o rumo de cultivo do usuário |
 | Acessível a qualquer caminho | Métodos fixos, fáceis de contra-atacar depois de conhecidos |
-| Fácil de disseminar em massa | Incompatível com o [[25 - Heaven Path|caminho do céu]] |
+| Fácil de disseminar em massa | Incompatível com o [[25 - Heaven Path\|caminho do céu]] |
 
 Há uma hierarquia em três graus: **totens básicos** (milhares deles, catalogados e
 replicáveis), **totens únicos** (desenvolvimento pessoal a partir de um básico, específicos à

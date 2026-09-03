@@ -157,7 +157,7 @@ Três degraus, portanto, e cada um pior que o anterior:
 | Degrau | O que acontece | Reversível? |
 |---|---|---|
 | Cultivo cai | o personagem perde ranks — há registro de quedas de dois ranks inteiros | **sim**, e recultivar é mais rápido que da primeira vez |
-| [[03 - Aptidão|Aptidão]] cai | o **teto** do personagem baixa: um grau A que vira B | a obra não mostra nenhum método de recuperar grau de aptidão perdido `—` |
+| [[03 - Aptidão\|Aptidão]] cai | o **teto** do personagem baixa: um grau A que vira B | a obra não mostra nenhum método de recuperar grau de aptidão perdido `—` |
 | Abertura estilhaçada | morte imediata | não |
 
 O detalhe que fecha o assunto é o que a obra diz sobre recultivar: a alguém cujo cultivo caiu

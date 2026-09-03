@@ -100,7 +100,7 @@ compra **liberdade progressiva** das restrições que a vontade do céu impõe a
 
 ### Como se obtêm marcas do céu
 
-Três fontes registradas:
+Cinco fontes registradas:
 
 1. **Um par de golpes** que normalmente serve para fundir ou substituir a vontade de um
    cultivador pela vontade do céu — e que, usado ao contrário, permite **sentir e capturar** as
@@ -416,8 +416,8 @@ essência imortal de nível 8 dentro de uma grande formação de refinamento.
   exatos; operacionalmente, ninguém sobrevive a um sem o outro.
 - **[[08 - Refinement Path|Refinement Path]]** — a única via de acesso. Refinar marcas do céu é uma operação de
   refinamento, e o caminho nasceu como um problema de refinadores.
-- **[[20 - Food Path|Food Path]]** — uma das três fontes de marcas passa por converter material roubado em
-  marcas do céu por ingestão.
+- **[[20 - Food Path|Food Path]]** — duas das cinco fontes de marcas passam por converter material
+  (roubado de uma tribulação ou de outra pessoa) em marcas do céu por ingestão.
 - **[[16 - Wisdom Path|Wisdom Path]]** — prever a forma seguinte de uma tribulação adaptativa é indispensável.
 - **Todos os outros caminhos**, indiretamente: cada marca refinada barateia todos os golpes do
   cultivador, qualquer que seja o caminho deles.
@@ -513,7 +513,7 @@ essência imortal de nível 8 dentro de uma grande formação de refinamento.
 
 - [[01 - Visão Geral dos Paths|Visão Geral dos Paths]] — o que é um caminho e o limiar de entrada deste.
 - [[08 - Refinement Path|Refinement Path]] — a única via de acesso.
-- [[20 - Food Path|Food Path]] — uma das três fontes de marcas do céu.
+- [[20 - Food Path|Food Path]] — duas das cinco fontes de marcas do céu passam pela boca.
 - [[21 - Rule Path|Rule Path]] — o caminho cujo criador resolveu o problema fundacional.
 - [[08 - Killer Moves|Killer Moves]] — a incompatibilidade com totens e estruturas externas.
 - [[23 - Luck Path|Luck Path]] — o caminho vizinho, que trata de sorte onde este trata de destino.

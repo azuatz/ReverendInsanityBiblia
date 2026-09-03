@@ -101,7 +101,7 @@ O que o sul tem, em vez de estações, são **três relógios**:
 
 | Nome (EN) | O que é | Por que importa |
 |---|---|---|
-| **Qing Mao Mountain** | Montanha compartilhada por três clãs — um à frente, um no meio, um no fundo junto à cachoeira — mais dezenas de vilarejos mortais na base | A montanha-modelo da região: é por ela que se aprende como funciona uma montanha do sul. Uma das vilas foi construída **sobre uma nascente espiritual** que produz pedras primevas, e é essa nascente que sustenta o clã |
+| **Qing Mao Mountain** | Montanha compartilhada por três clãs — um à frente, um no meio, um no fundo junto à cachoeira — mais dezenas de vilarejos mortais na base | A montanha-modelo da região: é por ela que se aprende como funciona uma montanha do sul. Uma das vilas foi construída **sobre uma nascente espiritual** que produz pedras primordiais, e é essa nascente que sustenta o clã |
 | **Wu Yi Mountain** | Sede do clã número um da região, no **extremo sudoeste** | Uma das três âncoras de orientação que a obra fornece |
 | **Lin Chi Mountain** | Sede de um super clã, no **canto nordeste** — o ponto da região mais próximo do Mar Oriental | Explica a vocação desse clã para transporte aéreo e para ligações com o mar |
 | **Yi Tian Mountain** | Montanha no **centro-oeste**, cercada pelas super forças em todas as direções; antigo campo de batalha de escala regional | Hoje a área ao redor manifesta **reinos de sonho** e está **selada como proibida a forasteiros** por decisão dos imortais da região — proibição política, não natural |
@@ -347,7 +347,7 @@ A flora do norte, ao contrário da do sul, é razoavelmente documentada:
 
 ### A paisagem
 
-O Continente Central é a região **cercada pelas outras quatro**: fica no meio do mundo e tem a essência primeva mais densa do ar entre as cinco. Essa densidade é a primeira coisa a sentir ao chegar — não é uma paisagem, é uma qualidade do ar que faz todo mundo cultivar mais rápido do que cultivaria em qualquer outro lugar.
+O Continente Central é a região **cercada pelas outras quatro**: fica no meio do mundo e tem a essência primordial mais densa do ar entre as cinco. Essa densidade é a primeira coisa a sentir ao chegar — não é uma paisagem, é uma qualidade do ar que faz todo mundo cultivar mais rápido do que cultivaria em qualquer outro lugar.
 
 > [!warning] O tamanho do Continente Central não é utilizável
 > Esta é a única das cinco regiões cuja medida a obra dá de forma que **não fecha**. O texto fala em "mais de cinquenta milhões de quilômetros" — e nenhuma das duas leituras possíveis funciona: lido como área, faz do centro do mundo uma região **cem vezes menor** que as Planícies do Norte; lido como largura linear, dá mais de mil vezes a circunferência da Terra.
@@ -476,7 +476,7 @@ Sobre a infraestrutura invisível, dois itens que valem como geografia: a instit
 
 ### O que a terra dá
 
-- **O ativo estrutural é o ar.** "A energia primeva era extremamente rica no ar" do Continente Central. É a única região cuja vantagem econômica é **ambiental e difusa**, e não concentrada em pontos de recurso: aqui, o recurso é estar aqui.
+- **O ativo estrutural é o ar.** "A energia primordial era extremamente rica no ar" do Continente Central. É a única região cuja vantagem econômica é **ambiental e difusa**, e não concentrada em pontos de recurso: aqui, o recurso é estar aqui.
 - **O ativo institucional é a moeda.** A instituição suserana é a fonte única de **pedras de essência imortal** do mundo, e restringe deliberadamente a distribuição como arma política. Como ela fica no Continente Central, **a moeda do mundo nasce nesta região**. Ver [[15 - Economia Imortal|Economia Imortal]].
 - **Menos Gu Imortais por cabeça, não menos poder.** O Continente Central é o **último** entre as cinco regiões em taxa de posse de Gu Imortais — simplesmente porque tem o maior número de imortais dividindo o mesmo estoque. A escassez relativa é efeito da abundância de gente, e é ela que alimenta as tensões internas.
 - **A estrutura de propriedade é institucional**: as dez seitas ancestrais controlam cerca de 80% dos recursos, e as subsidiárias pagam tributo mensal por contrato com prazo. Um "ponto de recurso" típico aqui é uma cadeia de montanhas, um vale ou uma praia de rio explorada por uma seita — não uma nascente única, como no sistema de clãs.
@@ -782,7 +782,7 @@ A tese central é simples: **o Mar Oriental é a região mais rica das cinco** �
 - **Águas nomeadas como material**: a água da fonte amarela e a água da alma negra, esta com marcas dos caminhos da alma e da escuridão. **O Mar Oriental produz líquidos nomeados como as montanhas produzem minérios** `(ded.)`.
 - **Materiais imortais de gelo e neve**; recursos de **escuridão e regra** em escala industrial; materiais de **qi** no núcleo remanescente da Qi Sea.
 - **Monopólios geográficos**: um Gu natural que só existe numa ilha, e um Gu de área de mar que só uma área produz.
-- **Exportação até para o mundo mortal**: os **blue sea cloud tea bricks** — tijolos de chá prensado produzidos no Mar Oriental e vendidos nas outras regiões em volume enorme, com grandes lucros. Servem para beber **e** para alimentar Gu de chá, e são baratos: cinco [[02 - Pedras Primordiais|pedras primevas]] o tijolo, ao alcance de um mortal.
+- **Exportação até para o mundo mortal**: os **blue sea cloud tea bricks** — tijolos de chá prensado produzidos no Mar Oriental e vendidos nas outras regiões em volume enorme, com grandes lucros. Servem para beber **e** para alimentar Gu de chá, e são baratos: cinco [[02 - Pedras Primordiais|pedras primordiais]] o tijolo, ao alcance de um mortal.
 - **Peixes e plantas aquáticas** do Mar Oriental são tão cobiçados que outras regiões os **importam para cultivar dentro das próprias terras abençoadas** e revender.
 
 A economia circula por uma malha que nenhuma outra região tem: **caravanas submarinas** que descem ao fundo com Gu próprios e usam as correntes para percorrer dez mil li, ou até cem mil, em pouco tempo; **mapas de corrente** como ativo — existe um tipo de mapa precioso que ignora ilhas e superfície e registra **só as correntes submarinas**, porque são elas a rota natural de transporte; e, ao lado deles, os **mapas de rota de maré**, que expiram. A região tem, portanto, **dois mercados de cartografia distintos, um permanente e um perecível**. Some-se o mercado de missões de restauração de áreas danificadas e os choques de oferta: quando uma área de mar foi envenenada e virou zona de morte, o preço do peixe que ela produzia decuplicou no mundo inteiro.

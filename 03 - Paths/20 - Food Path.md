@@ -79,8 +79,8 @@ revela quais nutrientes aquele corpo absorve melhor.
 
 Existe também uma rota mais exótica: um golpe de roubo captura as marcas caóticas de uma
 tribulação em curso e as fixa num material; **um golpe de comida depois consome esse material**,
-convertendo-o em marcas do [[25 - Heaven Path|caminho do céu]]. Comer é uma das três formas
-conhecidas de adquirir o caminho mais difícil do mundo.
+convertendo-o em marcas do [[25 - Heaven Path|caminho do céu]]. Comer é a etapa final de duas
+das cinco vias conhecidas de adquirir marcas do caminho mais difícil do mundo.
 
 ### Refino de essência por ingestão
 
@@ -307,7 +307,7 @@ exatamente o que permite converter território em autonomia.
   da transformação superou seus próprios limites justamente **devorando** feras imemoriais.
 - **[[08 - Refinement Path|Refinement Path]]** — as técnicas culinárias de alto nível pertencem ao repertório do
   refinamento; os dois caminhos se encontram na cozinha.
-- **[[25 - Heaven Path|Heaven Path]]** — uma das três vias de adquirir marcas do caminho do céu passa por aqui.
+- **[[25 - Heaven Path|Heaven Path]]** — duas das cinco vias de adquirir marcas do caminho do céu terminam aqui.
 
 **Sofre contra:**
 - **Combate direto.** Fora do ataque específico contra fortificações, o caminho não luta.

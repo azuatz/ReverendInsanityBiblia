@@ -142,7 +142,7 @@ declarada no texto.
 | Baixa | até 2.000 km² | 10+ contas de uva-verde |
 | Média | 2.700 a 4.000 km² | 20+ |
 | Alta | 4.700 a 6.000 km² | 30+ |
-| Super | mais de 6.700 km² | 50+ |
+| Super | **6.700 a 13.000 km²** (o teto é explícito) | 50+ |
 
 Duas leituras da coluna da direita. A **conta** é a pérola de energia que a terra produz
 sozinha, e é o combustível pessoal do imortal, não moeda: ela não se transfere. E a
@@ -248,8 +248,11 @@ de pessoal é parte planejada da operação, e as aldeias mortais do caminho sã
 não cenário.
 
 Alguns números de bolso: manter-se na estrada exige uma reserva de **pelo menos dez mil
-[[02 - Pedras Primordiais|pedras primordiais]]** para o básico, reposta de tempos em tempos; entrar numa cidade-clã custa **dez
-pedras por pessoa**; certas montanhas cobram pedágio ritualizado, com as caravanas disputando
+[[02 - Pedras Primordiais|pedras primordiais]]** para o básico, reposta de tempos em tempos;
+**entrar num lugar se paga por pessoa e por anel**, de **1 pedra** numa cidadezinha de fronteira
+e **10 pedras** no portão externo de uma grande cidade-clã até **600 pedras** nos anéis internos
+(a escada completa está em [[03 - Preços, Renda e Custo de Vida|Preços, Renda e Custo de Vida]]);
+certas montanhas cobram pedágio ritualizado, com as caravanas disputando
 queda de braço contra quem controla o desfiladeiro.
 
 `—` **A obra nunca diz quanto custa uma passagem de caravana.** O que ela mostra é o modelo
@@ -455,7 +458,7 @@ As medidas mais úteis para calibrar uma mesa, num lugar só.
 | 13 | Barreira regional, rank 8 | incontáveis vezes mais difícil que para um rank 6; sai gravemente ferido `—` a obra não cronometra |
 | 14 | Ativação do teleporte pessoal | 3 respirações |
 | 15 | Montaria comum | menos de 1 pedra primordial |
-| 16 | Pedágio de cidade-clã | 10 pedras por pessoa |
+| 16 | Pedágio urbano, por pessoa e por anel | 1 pedra (cidadezinha) · 10 (portão externo de cidade-clã) · 100 a 600 (anéis internos) · anel mais interno: só com ficha de autoridade, dinheiro não entra |
 | 17 | Reserva mínima para viver na estrada | 10.000 pedras primordiais |
 | 18 | Túnel fixo entre dois pontos | 200.000 pedras/ano de manutenção |
 | 19 | Sinal sonoro de fera | audível a 1.000 li |

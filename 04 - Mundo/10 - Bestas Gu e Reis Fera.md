@@ -40,8 +40,8 @@ Esta é a escala de **raridade e patamar de existência**. Vai do lobo comum at�
 |---|---|---|
 | Besta comum | o animal ordinário: lobo, javali, urso | mortal comum a Mestre Gu de rank baixo |
 | Besta mutante | variante rara e superior da espécie, com traços que a espécie normal não tem | uma adulta chega ao patamar de rei de miríade |
-| Besta desolada | criatura de outra ordem de existência | comparável a um Gu Imortal iniciante |
-| Besta desolada antiga | patamar acima | comparável a um imortal de meia-escada |
+| Besta desolada | criatura de outra ordem de existência | comparável a um **cultivador** imortal iniciante (rank 6) |
+| Besta desolada antiga | patamar acima | comparável a um cultivador imortal de meia-escada (rank 7) |
 | Besta desolada imemorial | as mais antigas e formidáveis do mundo | comparável ao topo prático do cultivo |
 
 > [!warning] A pegadinha da besta mutante
@@ -127,7 +127,7 @@ Três efeitos estruturais, e o terceiro é o mais sombrio:
 
 ## Por que a caça é a profissão básica — e o que a torna letal
 
-Para os mortais, caçar é subsistência. O preço de referência é brutalmente modesto: um javali de porte médio vale cerca de meia pedra primordial, e uma família mortal de três pessoas vive uns meses com cinco pedras. Carne é cara o bastante para muitas famílias comerem porco só na virada do ano, dependendo do que os caçadores trouxerem da montanha.
+Para os mortais, caçar é subsistência. O preço de referência é brutalmente modesto: um javali de porte médio vale cerca de **meia pedra primordial**, e uma família mortal de três pessoas vive **um mês inteiro com uma única pedra** — cinco pedras, portanto, sustentam essa família por cinco meses. Carne é cara o bastante para muitas famílias comerem porco só na virada do ano, dependendo do que os caçadores trouxerem da montanha.
 
 O ativo real de uma família de caçadores não é a arma: é o **mapa**. Mapas de pele de fera — couro de animal grande, com códigos de cor marcando território de feras, armadilhas e terreno — são acumulados e refinados por gerações e guardados como o tesouro de sobrevivência da linhagem. Uma cruz vermelha grande marca zona proibida, tipicamente o território de um rei. Mas as convenções **não são padronizadas**: cada família de caçadores desenvolve o próprio código, e o mesmo símbolo pode significar coisas opostas em dois mapas diferentes.
 
@@ -141,7 +141,7 @@ Para os Mestres Gu, caçar é outra coisa: é a via de aquisição de [[06 - Ref
 
 ### O outro lado: bestas como economia
 
-Depois de morta, a fera é mercadoria de alto valor. O corpo de uma besta desolada gira em torno de quarenta pedras imortais; o de uma desolada antiga, cerca de dez vezes isso — mas o lucro líquido é muito menor do que parece, porque o custo de abater uma consome quase toda a diferença, e só cultivadores de elite conseguem sequer tentar. Partes de bestas desoladas somem do mercado quase instantaneamente. Imperadores-fera raramente aparecem à venda, e quando aparecem costumam estar feridos, porque a força das feras que uma organização possui é uma medida direta da força da própria organização.
+Depois de morta, a fera é mercadoria de alto valor. O corpo de uma besta desolada gira em torno de **quarenta [[15 - Economia Imortal|pedras de essência imortal]]** — a moeda dos imortais, não a dos mortais; o de uma desolada antiga, cerca de dez vezes isso — mas o lucro líquido é muito menor do que parece, porque o custo de abater uma consome quase toda a diferença, e só cultivadores de elite conseguem sequer tentar. Partes de bestas desoladas somem do mercado quase instantaneamente. Imperadores-fera raramente aparecem à venda, e quando aparecem costumam estar feridos, porque a força das feras que uma organização possui é uma medida direta da força da própria organização.
 
 Nos [[13 - Blessed Lands e Grotto-Heavens|mundos particulares]] dos cultivadores imortais, onde o tempo corre acelerado, rebanhos e exércitos de bestas se reproduzem em escala industrial. Essa é uma das razões estruturais — e não morais — pelas quais o [[03 - Blood Path|caminho do sangue]] é proibido pelas organizações respeitáveis: fazendas de bestas dariam a um cultivador de sangue um suprimento praticamente infinito de matéria-prima. A proibição existe porque o caminho é **fácil demais**, não porque seja intrinsecamente maligno.
 

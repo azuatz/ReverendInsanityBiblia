@@ -15,6 +15,11 @@ prever comportamentos, projetar receitas e golpes que ninguém mais conseguiria 
 pagar por isso com **tempo de vida**. Para entender o que é um "caminho", veja
 [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—` e admite o buraco em vez de preenchê-lo.
+
 ## Filosofia e identidade
 
 Este é o caminho do estrategista, e é essencial entender o que ele **não** é: **não é
@@ -278,11 +283,11 @@ Isso dá ao caminho um perfil de custo que nenhum outro tem: ele cobra **nas tr�
 personagem ao mesmo tempo** — quanto ele viverá (longevidade), quão rápido ele pensa (mente) e
 quão forte ele é (marcas do Dao).
 
-Para dimensionar o que essas marcas valem, um número de referência que a obra dá no mesmo
-trecho: cem marcas do Dao rendiam uma amplificação de cerca de **vinte por cento**, e
-cultivadores experientes chegam a amplificações de *duas, três, quatro, cinco, dez vezes*.
-Dezesseis marcas por acionamento é uma mordida pequena numa fundação madura — e uma mutilação
-numa jovem. Ver [[16 - Dao Marks|Dao Marks]] e
+Para dimensionar o que essas marcas valem, use a régua canônica: **cem** marcas do Dao rendem
+cerca de **dez por cento** de amplificação, duzentas rendem vinte por cento, e mil **dobram** o
+efeito — daí para cima cultivadores experientes chegam a amplificações de *duas, três, quatro,
+cinco, dez vezes*. Dezesseis marcas por acionamento é uma mordida pequena numa fundação madura
+— e uma mutilação numa jovem. Ver [[16 - Dao Marks|Dao Marks]] e
 [[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks|Tabelas de Referência Rápida]].
 
 ### 5. O corpo muda: o coração maligno

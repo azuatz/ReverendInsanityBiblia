@@ -88,7 +88,7 @@ em qual delas a luta cai não é o poder dos envolvidos — é a **estrutura do 
 |---|---|---|
 | **O instante** | de meia respiração a poucas respirações | um lado tem vantagem decisiva de velocidade, informação ou posição — emboscada, execução, golpe preparado que acerta |
 | **A troca** | minutos a horas; dezenas de "rodadas" | forças comparáveis, ninguém consegue fechar a luta, os dois gastam |
-| **O cerco** | dias, semanas, anos | há posição fortificada, [[09 - Formações de Gu|formação]] ou exército envolvido — deixa de ser duelo e vira logística |
+| **O cerco** | dias, semanas, anos | há posição fortificada, [[09 - Formações de Gu\|formação]] ou exército envolvido — deixa de ser duelo e vira logística |
 
 Três referências canônicas calibram a escala curta, e valem mais que qualquer descrição: uma
 morte limpa e bem executada leva **três segundos**; a mesma criatura enfrentada sem vantagem
@@ -300,7 +300,7 @@ luta entre Mestres Gu comuns acontece num espaço do tamanho de um pátio, não 
 | A versão fundida de rank 4 | **200 passos** | e a recarga cai **pela metade** |
 | Defesa corporal comum | **cerca de um metro** ao redor do corpo | um ataque que não invade esse metro não pode ser defendido |
 | Deslocamento dentro de uma arena | **mais de cem metros** em poucos segundos | com Gu de movimento de rank 3 |
-| Alcance de um golpe de campo de batalha imortal | **milhares de quilômetros** | outra categoria; ver [[09 - Formações de Gu|Formações de Gu]] |
+| Alcance de um golpe de campo de batalha imortal | **milhares de quilômetros** | outra categoria; ver [[09 - Formações de Gu\|Formações de Gu]] |
 
 Vale acrescentar as réguas de percepção, porque elas definem quem vê primeiro: um Gu de visão
 comum enxerga **cinquenta passos** à frente — e menos de trinta na fumaça —, enquanto um Gu de

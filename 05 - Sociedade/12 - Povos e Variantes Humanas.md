@@ -50,7 +50,7 @@ fontes: ["cap. 356-358", "cap. 389", "cap. 391", "cap. 401", "cap. 409", "cap. 4
 
 O termo que a obra usa é ==variant human== (*humano variante*), e ele designa uma coisa bastante específica: **povos humanoides que descendem de uma linhagem paralela à humana**, fora da árvore genealógica que o mito fundador descreve para a humanidade comum. Ver [[12 - Lendas de Ren Zu|Lendas de Ren Zu]].
 
-Não são monstros e não são bestas. São povos: têm língua, cidades, reis, religião, casamento, luto e política. Falam com humanos sem intérprete. Cultivam Gu do mesmo jeito que um humano cultiva — abertura, níveis, refino, ascensão ao reino imortal. Ao lado deles, o mundo tem uma frase de bolso que enquadra a categoria:
+Não são monstros e não são bestas. São povos: têm língua, cidades, reis, religião, casamento, luto e política. Falam com humanos sem intérprete. Cultivam Gu do mesmo jeito que um humano cultiva — abertura, ranks, refino, ascensão ao reino imortal. Ao lado deles, o mundo tem uma frase de bolso que enquadra a categoria:
 
 > *"Entre dez lobos há um licano; entre os tigres, o Biao; entre os cães, o mastim; entre os humanos, o homem-peludo."*
 
@@ -99,7 +99,7 @@ O povo mais bem documentado da obra, e o mais estranho.
 
 **Escala política.** O sistema social deles é frouxo e **suporta no máximo cerca de cem mil indivíduos por grupo**; acima disso, disputas políticas partem a população em grupos novos, cada um migrando para uma fonte própria. É um teto demográfico embutido na cultura, e ótimo material de mesa.
 
-**No mundo.** Mão de obra de escavação cobiçadíssima — procura alta, oferta baixa. Individualmente perdem para Mestres Gu humanos do mesmo patamar e compensam lutando em formação. Existe um **Tribunal Imperial dos Homens-de-Pedra**, guardado dia e noite por vários Gu Imortais de nível 8 da raça, e ele chegou a abrigar um Gu de nível 9 — prova de que os homens-de-pedra são uma potência, não só uma população.
+**No mundo.** Mão de obra de escavação cobiçadíssima — procura alta, oferta baixa. Individualmente perdem para Mestres Gu humanos do mesmo patamar e compensam lutando em formação. Existe um **Tribunal Imperial dos Homens-de-Pedra**, guardado dia e noite por vários Gu Imortais de rank 8 da raça, e ele chegou a abrigar um Gu de rank 9 — prova de que os homens-de-pedra são uma potência, não só uma população.
 
 ### Homens-de-neve (*snowmen*)
 
@@ -129,7 +129,7 @@ Some as duas frases e você tem o que a obra faz com elas: houve quem se especia
 - **A cidade paga tributo** e é conjuntamente pressionada pelas tribos humanas da região.
 - **O rei se ajoelha quando precisa.** A obra registra um precedente notável: aproveitando uma guerra civil entre as forças humanas, um rei da raça expandiu rapidamente até controlar **centenas de cidades e um terço de uma região inteira** — e o fez porque, quando a repressão veio, **abandonou a própria dignidade de rei e se fez servo de um ancião de uma superforça humana**, comprando proteção com humilhação; depois, quando aquele protetor enfraqueceu, trocou-o por outro em pé de igualdade.
 
-**No mundo.** Uma dama da raça chegou a nível 7 e a "fada" — título institucional de discípula de elite — de uma das dez grandes seitas ancestrais do Continente Central. Prova de que o teto de uma pessoa variante não é o teto social que o mundo lhe reserva.
+**No mundo.** Uma dama da raça chegou a rank 7 e a "fada" — título institucional de discípula de elite — de uma das dez grandes seitas ancestrais do Continente Central. Prova de que o teto de uma pessoa variante não é o teto social que o mundo lhe reserva.
 
 ### Homens-pena (*feathermen*)
 
@@ -149,7 +149,7 @@ A sucessão do trono é por **torneio de arena**: quando o rei morre, os candida
 
 ### Minimen (*minimen*)
 
-Povo minúsculo — **do tamanho de um dedo**, com asas finas e transparentes nas costas —, que voa e trabalha em enxame como abelhas e se alimenta de néctar de flores e seiva de plantas. Nascem com **marcas do Dao do caminho da madeira**: onde eles moram, a vegetação cresce depressa e as flores abrem o ano inteiro. Guardam heranças agrícolas passadas por muitas gerações e são **a melhor raça do mundo em cultivo de plantas** — uma imortal do caminho da madeira relata que um campo de erva imortal de nível 7 que definhava havia anos voltou a viver e se expandiu em seis meses depois que os minimen se mudaram para lá.
+Povo minúsculo — **do tamanho de um dedo**, com asas finas e transparentes nas costas —, que voa e trabalha em enxame como abelhas e se alimenta de néctar de flores e seiva de plantas. Nascem com **marcas do Dao do caminho da madeira**: onde eles moram, a vegetação cresce depressa e as flores abrem o ano inteiro. Guardam heranças agrícolas passadas por muitas gerações e são **a melhor raça do mundo em cultivo de plantas** — uma imortal do caminho da madeira relata que um campo de erva imortal de rank 7 que definhava havia anos voltou a viver e se expandiu em seis meses depois que os minimen se mudaram para lá.
 
 Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imortais próprios, inclusive um do raríssimo caminho da regra. A conquista deles é o episódio mais frio do capítulo: eles se recusaram a cooperar com a nova dona, desconfiaram, resistiram — e ela **matou quarenta por cento da população** antes que a tribo se submetesse. Depois disso, houve quem cooperasse e houve quem continuasse leal ao que restava. É o retrato exato de como um povo variante troca de mãos.
 
@@ -164,7 +164,7 @@ Vivem numa montanha em miniatura registrada no mito fundador, e tiveram Gu Imort
 **Posição no mundo — e a exceção mais importante desta nota.** Existe uma corte dos homens-peixe no Mar Oriental que a obra classifica como **superforça** — a mesma categoria das grandes potências humanas. Ela tem fundações profundas, anciãos, investigadores próprios, escândalos internos e política externa: mantém alianças de longo prazo, abriga fugitivos de outras raças e foi procurada por todos os lados quando se formou uma grande aliança variante. Em mercados do Mar Oriental, humanos e homens-peixe convivem **com status igual**.
 
 > [!warning] Corrija a generalização antes de usá-la
-> É comum resumir o cenário dizendo que "toda facção variante acaba subjugada". A tendência histórica é essa, e ela é forte. Mas a corte dos homens-peixe é uma **superforça reconhecida**, tratada com cuidado até por quem despreza variantes; o Tribunal Imperial dos Homens-de-Pedra guarda Gu de nível 9 com vários imortais de nível 8; e existiu uma aliança variante de escala mundial contra a qual o Tribunal Celestial precisou mobilizar-se. Use "subalternos na média, com potências reais nas bordas" — é o que a obra sustenta.
+> É comum resumir o cenário dizendo que "toda facção variante acaba subjugada". A tendência histórica é essa, e ela é forte. Mas a corte dos homens-peixe é uma **superforça reconhecida**, tratada com cuidado até por quem despreza variantes; o Tribunal Imperial dos Homens-de-Pedra guarda Gu de rank 9 com vários imortais de rank 8; e existiu uma aliança variante de escala mundial contra a qual o Tribunal Celestial precisou mobilizar-se. Use "subalternos na média, com potências reais nas bordas" — é o que a obra sustenta.
 
 ### Homens-cogumelo (*mushroommen*)
 
@@ -172,7 +172,7 @@ Parecidos com humanos, com um chapéu de cogumelo na cabeça. Vivem num paraíso
 
 ### Eggmen (*eggmen*)
 
-O povo de que menos se sabe e o mais lembrado por um subproduto. São descritos como inocentes. Uma variedade deles, os "eggmen verdes", tem **grande número, constroi estruturas e castelos e é governada por uma imperatriz** — sociedade organizada e defensável, portanto, ainda que a obra a apresente de fora. Matar um imperador da raça produz um Gu que, enterrado fundo, **faz nascer uma fonte espiritual nova** — um dos poucos casos em que a obra transforma um povo em item de infraestrutura sem disfarce. Também são considerados os mais adequados para administrar vulcões, e há Gu Imortais deles em nível 8.
+O povo de que menos se sabe e o mais lembrado por um subproduto. São descritos como inocentes. Uma variedade deles, os "eggmen verdes", tem **grande número, constroi estruturas e castelos e é governada por uma imperatriz** — sociedade organizada e defensável, portanto, ainda que a obra a apresente de fora. Matar um imperador da raça produz um Gu que, enterrado fundo, **faz nascer uma fonte espiritual nova** — um dos poucos casos em que a obra transforma um povo em item de infraestrutura sem disfarce. Também são considerados os mais adequados para administrar vulcões, e há Gu Imortais deles em rank 8.
 
 ### Homens-fera (*beastmen*)
 
@@ -201,7 +201,7 @@ A obra menciona ainda povos e criaturas que orbitam a categoria sem tratamento c
 
 Cinco regras valem para todos os povos acima, e elas são o que a designer precisa para tratá-los como opção mecânica.
 
-**1. Todos cultivam, e cultivam como humanos.** Abertura, níveis, Gu, ascensão. Existem Gu Imortais variantes com Gu Imortais próprios, território próprio e herança própria. A mecânica de cultivo deles está em [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] e não se repete aqui.
+**1. Todos cultivam, e cultivam como humanos.** Abertura, ranks, Gu, ascensão. Existem Gu Imortais variantes com Gu Imortais próprios, território próprio e herança própria. A mecânica de cultivo deles está em [[11 - Cultivo Fora do Humano|Cultivo Fora do Humano]] e não se repete aqui.
 
 **2. Cada povo nasce com marcas do Dao de um caminho.** É a vantagem de partida mais concreta do cenário, e ela opera **sem nenhum Gu ativo**:
 
@@ -218,9 +218,9 @@ Cinco regras valem para todos os povos acima, e elas são o que a designer preci
 
 **3. Perdem em inteligência, e a obra não suaviza.** São mais inteligentes que os demais seres vivos e ficam **longe da sabedoria humana**. Os adjetivos que o texto usa, povo por povo, são "ignorantes", "inocentes", "ingênuos e bárbaros" — e a consequência prática é que crianças humanas conseguem enganá-los e vendê-los, o que é uma prática estabelecida.
 
-**4. O teto é o nível 8. O nível 9 é impossível.** Esta é a regra dura, e vale enunciá-la com precisão porque é fácil errá-la nos dois sentidos:
+**4. O teto é o rank 8. O rank 9 é impossível.** Esta é a regra dura, e vale enunciá-la com precisão porque é fácil errá-la nos dois sentidos:
 
-> Humanos variantes chegam a **Gu Imortais de nível 8** — a obra nomeia imortais de nível 8 entre homens-de-pedra, homens-peludos, eggmen e homens-dragão, e há um Tribunal Imperial de homens-de-pedra guardado por vários deles. O que não existe é o **nível 9**: os variantes são "defeituosos desde a origem" e **nunca produziram um Venerável**. Um homem-peludo foi o maior imortal do caminho do refino de toda a história, e o comentário do mundo sobre ele é exatamente este — se fosse humano, talvez tivesse alcançado o topo.
+> Humanos variantes chegam a **Gu Imortais de rank 8** — a obra nomeia imortais de rank 8 entre homens-de-pedra, homens-peludos, eggmen e homens-dragão, e há um Tribunal Imperial de homens-de-pedra guardado por vários deles. O que não existe é o **rank 9**: os variantes são "defeituosos desde a origem" e **nunca produziram um Venerável**. Um homem-peludo foi o maior imortal do caminho do refino de toda a história, e o comentário do mundo sobre ele é exatamente este — se fosse humano, talvez tivesse alcançado o topo.
 
 **5. Existe uma porta que nunca abre.** O Tribunal Celestial, a instituição que governa por cima de todas as regiões, **não admite humanos variantes**, por mais fortes que sejam. A justificativa registrada, na voz de um dos seus, é: *"O Tribunal Celestial é o santuário de nós, humanos. Como poderíamos deixar entrar esses variantes inferiores?"* Ver [[19 - Tribunal Celestial|Tribunal Celestial]].
 
@@ -233,7 +233,7 @@ Um povo variante neste mundo ocupa uma de quatro posições, e conhecê-las é o
 3. **Aliado.** Relação de posse trocada por acordo entre pares. A obra registra mercados em que humanos e homens-peixe convivem **com status igual**, e um **noivado** entre um cultivador humano e uma mulher homem-de-neve negociado com meses de sondagem mútua, com a tribo dela passando a apoiá-lo publicamente. Casamento interétnico é instrumento diplomático real — exceto onde a biologia o impede: homens-de-pedra, sendo só machos, não podem ter filhos com nenhuma outra raça.
 4. **Potência.** Raro, mas existe: superforça reconhecida, com religião, corte e política externa próprias — ou uma aliança de várias raças com força suficiente para o Tribunal Celestial precisar mobilizar-se contra ela.
 
-E há um quinto estado que atravessa os outros quatro: **a aliança entre raças variantes**. Nas Planícies do Norte, quatro povos — homens-peludos, homens-de-neve, homens-de-pedra e homens-de-tinta — formaram em segredo uma aliança de defesa mútua, apoiada em uma fera de nível 8. A lógica que a sustenta é enunciada em voz alta: *"somos todos variantes; num mundo em que os humanos dominam, variantes são amigos, não inimigos"*. Numa era tardia, essa lógica se expande para uma aliança de escala mundial liderada por um homem-dragão — que os adversários humanos acusam, com razão, de proteger variantes sacrificando humanos.
+E há um quinto estado que atravessa os outros quatro: **a aliança entre raças variantes**. Nas Planícies do Norte, quatro povos — homens-peludos, homens-de-neve, homens-de-pedra e homens-de-tinta — formaram em segredo uma aliança de defesa mútua, apoiada em uma fera de rank 8. A lógica que a sustenta é enunciada em voz alta: *"somos todos variantes; num mundo em que os humanos dominam, variantes são amigos, não inimigos"*. Numa era tardia, essa lógica se expande para uma aliança de escala mundial liderada por um homem-dragão — que os adversários humanos acusam, com razão, de proteger variantes sacrificando humanos.
 
 > [!warning] Solidariedade variante não é virtude automática
 > A obra cuida de não idealizar. O maior líder variante do cenário planeja, em pensamento privado, usar as outras raças variantes como instrumento para que a **sua própria** raça se torne a governante — e depois escravizar todas elas. A aliança entre oprimidos é tática, não moral. É exatamente o tipo de nuance que dá conflito interno a uma campanha sem precisar de vilão externo.
@@ -265,7 +265,7 @@ O que muda, na prática, para quem sentar à mesa com um personagem de um destes
 
 **Ganha-se de saída:** um pacote de marcas do Dao de um caminho específico, ativo sem gastar nada e sem poder ser desarmado; um talento racial concreto e negociável; e, em vários casos, longevidade muito acima da humana — um homem-de-pedra vive cerca de mil anos, contra os cerca de cem de um humano comum, o que muda a escala de tempo de qualquer plano que o personagem faça. Ver [[02 - Tabelas de Referência Rápida#17. Longevidade: quanto tempo se vive|Tabelas de Referência Rápida]].
 
-**Perde-se de saída:** o acesso à instituição mais poderosa do mundo, que exclui variantes por nascença; a presunção de liberdade, já que a escravidão de variantes é legal e organizada; e o topo da escala, porque o nível 9 não existe para a espécie.
+**Perde-se de saída:** o acesso à instituição mais poderosa do mundo, que exclui variantes por nascença; a presunção de liberdade, já que a escravidão de variantes é legal e organizada; e o topo da escala, porque o rank 9 não existe para a espécie.
 
 **Complica-se:** viajar sozinho é perigoso de um modo que não é perigoso para um humano — o valor de mercado do personagem é uma ameaça permanente; falar em nome do próprio povo é aceitar o dilema entre humilhação e extermínio que a obra encena repetidamente; e a inteligência abaixo da humana, que a obra afirma como fato biológico, é o item que uma mesa precisa decidir se importa ou se descarta.
 
@@ -286,8 +286,8 @@ O que muda, na prática, para quem sentar à mesa com um personagem de um destes
 
 ## O que um ancião de clã sabe
 
-- Que humanos variantes nascem com marcas do Dao do próprio elemento, e que isso os torna competitivos acima do que o nível deles sugere.
-- Que o teto da espécie é o nível 8, e que jamais houve um Venerável variante.
+- Que humanos variantes nascem com marcas do Dao do próprio elemento, e que isso os torna competitivos acima do que o rank deles sugere.
+- Que o teto da espécie é o rank 8, e que jamais houve um Venerável variante.
 - Que o Tribunal Celestial não os admite, por mais fortes que sejam.
 - Que existem alianças entre raças variantes, e que elas se formam sempre que a vigilância humana afrouxa.
 - Que nas eras antigas eram eles que governavam o mundo.

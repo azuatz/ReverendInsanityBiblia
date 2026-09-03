@@ -53,7 +53,7 @@ Confira os números em
 > [!note] Por que ser pequeno é uma vantagem
 > Esta é a demonstração mais limpa da regra 9 da [[01 - Visão Geral dos Paths|Visão Geral]]: em
 > território saturado de marcas hostis, um caminho comum perde 50–60% de potência e um caminho
-> "menor" perde só 20–39%. O caminho do som é o exemplo canônico. Ser minoritário tem um preço em
+> "menor" perde só 20–30%. O caminho do som é o exemplo canônico. Ser minoritário tem um preço em
 > prestígio e um bônus em **alcance operacional** — e há situações em que o bônus vale mais.
 
 ### Acumular marcas em vez de comprar nível

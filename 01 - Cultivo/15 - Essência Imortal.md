@@ -210,7 +210,7 @@ E há a regra irmã, para Gu emprestados: quando um Gu é emprestado, **a vontad
 | Dar uma conta a outro imortal para ele **alimentar uma Casa de Gu Imortal** | sim | a Casa aceita essência de qualquer um |
 | Mover fisicamente uma conta | sim | é um objeto; um Gu voador consegue carregá-la |
 | Emprestar o **Gu**, não a essência | sim | é a prática normal entre aliados |
-| Pagar, comprar, indenizar | sim, mas em **pedras de essência imortal** | ver [[15 - Economia Imortal|Economia Imortal]] |
+| Pagar, comprar, indenizar | sim, mas em **pedras de essência imortal** | ver [[15 - Economia Imortal\|Economia Imortal]] |
 | Tomar de um morto | sim | matar o dono e saquear a abertura é dito explicitamente |
 | Extrair o **núcleo de origem** de outro imortal | sim, e é o roubo definitivo | exige formação especializada; a vítima perde a fundação inteira |
 

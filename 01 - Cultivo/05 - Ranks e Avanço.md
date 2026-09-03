@@ -105,7 +105,7 @@ Este é o cardápio de atalhos do mundo mortal — e o mais interessante é que 
 | Método | O que faz | O preço |
 |---|---|---|
 | **Recarga com pedras primordiais durante a ruptura** | mantém a essência acima da taxa de cicatrização da parede | dias de cultivo ininterrupto, concentração total, gasto financeiro pesado |
-| **Itens que elevam a aptidão** | atacam a causa: elevam o teto, e com ele a possibilidade de romper | raríssimos; alguns são demoníacos e cobram vidas (ver [[03 - Aptidão|Aptidão]]) |
+| **Itens que elevam a aptidão** | atacam a causa: elevam o teto, e com ele a possibilidade de romper | raríssimos; alguns são demoníacos e cobram vidas (ver [[03 - Aptidão\|Aptidão]]) |
 | **Gu de refino de essência** | destila a própria energia para o estágio acima, a 4 por 1 | é preciso possuir e alimentar o Gu; perde-se 75% do volume |
 | **Transfusão de essência de um aliado mais forte** | permite avançar com energia alheia, inclusive de **rank** | contamina a abertura, a menos que se use o par de Gu conversor; exige limpeza depois |
 | **Relic Gu** — "Gu-relíquia", esferas consumíveis do tamanho de um polegar, uma série de cinco, uma por rank | avança **um estágio inteiro instantaneamente**, sem sequelas | caríssimos, e **não cruzam a barreira de rank** — ver abaixo |
@@ -139,8 +139,8 @@ furos.
 |---|---|---|---|
 | 1 | **Trocar o combustível** | um Gu de nível 5 que consome **medula óssea** em vez de essência pode ser acionado por um Mestre de nível 1 | dano corporal potencialmente letal com o uso repetido |
 | 2 | **Requisito de convicção** | alguns Gu cobram um **estado mental**, não uma quantidade de energia — um deles só ativa se o usuário acreditar sinceramente estar do lado certo | neutraliza-se induzindo dúvida ou vergonha genuínas, sem veneno nem combate |
-| 3 | **Vínculo de [[05 - Gu Vital|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
-| 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[06 - Refino de Gu|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
+| 3 | **Vínculo de [[05 - Gu Vital\|Gu Vital]]** | há caso documentado de um Gu Vital de nível 6 carregado por um cultivador de nível 1 — o vínculo vital opera por outra regra que não a de acionamento | o Gu não é *usado* no sentido pleno; e perder um Gu Vital é catástrofe pessoal |
+| 4 | **Gu projetado para mortais** | um dos estilos do caminho do refinamento produz Gu Imortais que crescem dentro do corpo de descendentes e **foram desenhados para serem usáveis por mortais** (ver [[06 - Refino de Gu\|Refino de Gu]]) | exige nascer na linhagem certa; e nem o refino reverso extrai esses Gu |
 | 5 | **Gu adormecido ou debilitado** | um Gu de nível alto em hibernação, faminto ou danificado opera muito abaixo da própria etiqueta — há registro de um Gu de nível 6 que se camuflou de uma inspeção de nível 4 dentro da abertura de um Mestre de nível 1 | é uma condição temporária: se o bicho se recuperar, o problema volta |
 
 Some a isso um sexto caso, o mais concreto de todos: existe registro de um Mestre Gu de

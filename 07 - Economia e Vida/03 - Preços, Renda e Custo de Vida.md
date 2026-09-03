@@ -109,9 +109,16 @@ com uma por mês. O mundo não tem duas moedas — tem uma moeda e duas escalas 
 
 ## Preços — o catálogo
 
+> [!info] A unidade de todas as tabelas desta seção
+> **Todo valor daqui até o fim da seção de renda está em pedras primordiais**, a moeda dos
+> mortais, e é **preço de varejo** — o que o personagem paga. Quando um número estiver em
+> outra unidade (pedras de essência imortal, pontos de mérito), a própria linha diz.
+> Onde a linha traz um período — "por dia", "por mês", "por ano" —, ele é parte do preço e
+> não pode ser ignorado ao montar uma planilha.
+
 ### Comida, bebida, hospedagem e moradia
 
-| Item ou serviço | Preço |
+| Item ou serviço | Preço (em pedras primordiais) |
 |---|---|
 | Javali inteiro, caçado | meia pedra |
 | Jarro de vinho regional de primeira | 2 |
@@ -134,19 +141,25 @@ Este é o dado que mais surpreende, e é a mecânica de exclusão social do cen�
 números. A cidade-mercado mais bem documentada é construída em anéis concêntricos, e cada
 anel tem seu próprio pedágio, cobrado **por pessoa, por entrada**:
 
-| Onde | Pedágio por pessoa |
+Uma advertência de leitura antes da tabela: os anéis internos são **contados de fora para
+dentro em ordem decrescente** — o quarto anel fica mais longe do centro que o terceiro, e o
+segundo é quase o miolo. Por isso o preço sobe conforme o número desce.
+
+| Onde (do lado de fora para o centro) | Pedágio por pessoa, por entrada |
 |---|---|
 | Cidade de deserto pequena, portão comum | 1 pedra |
 | Cidade grande, anel externo | 10 pedras |
-| Primeira cidade interna | 100 pedras |
-| Segunda cidade interna | 200 pedras |
-| Terceira cidade interna | 600 pedras — ou de graça, com a ficha de autoridade certa |
+| Cidade interna — o primeiro anel pago | 100 pedras |
+| Quarto anel interno | 200 pedras |
+| Terceiro anel interno | 600 pedras — ou de graça, com a ficha de autoridade certa |
+| Segundo anel interno e além | **dinheiro não entra**: só com ficha de autoridade do clã |
 
-Repare no efeito: no anel externo praticamente não há mortais, porque cem pedras por
-cabeça é dinheiro que nenhum servo tem, e a maioria dos Mestres Gu não paga isso pelos
-próprios criados. **A cidade não proíbe ninguém de entrar; ela apenas cobra.** E note que
-o pedágio da terceira cidade interna, seiscentas pedras, é mais caro que um Gu de rank 1 —
-ou seja, atravessar um portão custa mais que uma arma.
+Repare no efeito: já no primeiro anel pago praticamente não há mortais, porque cem pedras
+por cabeça é dinheiro que nenhum servo tem, e a maioria dos Mestres Gu não paga isso pelos
+próprios criados. **A cidade não proíbe ninguém de entrar; ela apenas cobra** — até o ponto
+em que para de vender: nos anéis mais internos nenhuma quantia substitui a autorização
+política. E note que o pedágio do terceiro anel, seiscentas pedras, é mais caro que um Gu
+de rank 1 — ou seja, atravessar um portão custa mais que uma arma.
 
 > [!note] Para o design
 > Uma escada de pedágio por anel é a maneira mais barata que existe de fazer uma cidade

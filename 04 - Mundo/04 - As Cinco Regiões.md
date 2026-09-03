@@ -22,9 +22,19 @@ conhecimento: comum
 
 **Em uma frase:** o mundo habitado é dividido em ==cinco regiões== continentais tão grandes que nenhuma potência jamais mapeou a própria por inteiro, separadas por membranas invisíveis que enfraquecem em **um rank inteiro** qualquer cultivador que as atravesse — e é essa penalidade, mais do que a distância, que manteve cinco civilizações separadas por milhões de anos.
 
+> [!info] Os quatro estados de confiabilidade (valem para a nota inteira)
+> Texto simples é **canônico**: a obra afirma. `(ded.)` é **dedução segura** a partir de algo
+> que a obra afirma — em geral uma conta feita em cima de um número dela. `*` é **invenção ou
+> indução nossa**, sem base textual. `—` significa que a obra **não informa**, e que nada foi
+> preenchido no lugar. Apagar tudo o que estiver marcado com `*` devolve este documento a cem
+> por cento canônico.
+
 ## Como funciona
 
-O primeiro erro de intuição a desfazer é o de escala. Uma "região" aqui não é um país nem um continente terrestre. A Fronteira Sul sozinha é descrita como tendo várias vezes a superfície de todo o planeta Terra; o Continente Central passa dos cinquenta milhões de quilômetros quadrados. Dentro de uma única região cabem centenas de milhares de montanhas, cada uma com seus próprios clãs, feras e economias locais que nunca se falaram.
+O primeiro erro de intuição a desfazer é o de escala. Uma "região" aqui não é um país nem um continente terrestre: é um mundo inteiro em tamanho planetário. As Planícies do Norte são descritas como tendo **cinco bilhões de quilômetros quadrados, dez vezes a superfície do planeta Terra**, e a Fronteira Sul, **sete a oito vezes a superfície da Terra** — e essa é a menor das duas medidas que a obra dá. A régua utilizável, portanto, é de **três a cinco bilhões de km² por região** `(ded.)`. Dentro de uma única região cabem centenas de milhares de montanhas, cada uma com seus próprios clãs, feras e economias locais que nunca se falaram.
+
+> [!warning] O único número de área que a obra dá e que não fecha é o do Continente Central
+> O texto o descreve como tendo "mais de cinquenta milhões de quilômetros" — um número que **não é utilizável em nenhuma das duas leituras possíveis**: lido como área, faria do centro do mundo uma região cem vezes **menor** que as Planícies do Norte; lido como largura linear, daria mais de mil vezes a circunferência da Terra. A decisão do projeto é tratá-lo como **não confiável** e dimensionar o Continente Central pela mesma régua das outras regiões, de três a cinco bilhões de km². Isso não contradiz nada do que a obra afirma sobre ele: o centro é descrito como a região mais **forte** e a mais densa em energia ambiente, nunca como a maior nem como a menor. O registro completo da divergência está em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]], seção 13.2, que é a fonte soberana dos números deste vault.
 
 O segundo é o do isolamento. As regiões não estão separadas por oceanos intransponíveis nem por muralhas construídas. Estão separadas por um fenômeno natural: cada região tem sua própria **veia de terra** subterrânea, e cada veia produz uma energia ambiente com um "sabor" próprio. Onde duas regiões vizinhas se encontram, a diferença constante entre essas duas energias forma uma faixa de turbulência permanente. Essa faixa é a ==parede regional==.
 

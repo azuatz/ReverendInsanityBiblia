@@ -268,7 +268,7 @@ Melhorar uma receita é uma atividade distinta de executá-la, com sua própria 
 dificuldade. Os níveis abaixo são degraus da escala de [[08 - Attainment|Attainment]] — o eixo de domínio
 teórico do sistema, que corre em paralelo ao nível de cultivo — e é lá que estão definidos:
 
-| Tarefa | Domínio mínimo exigido ([[08 - Attainment|Attainment]]) |
+| Tarefa | Domínio mínimo exigido ([[08 - Attainment\|Attainment]]) |
 |---|---|
 | Engenharia reversa de um Gu comum existente | mestre |
 | Deduzir uma receita nova | grão-mestre |

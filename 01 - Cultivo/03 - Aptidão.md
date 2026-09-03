@@ -67,7 +67,7 @@ Duas observações que a designer precisa ter em mãos. Primeiro: **não existe 
 
 O ponto que a maioria dos resumos erra: a aptidão **não é a velocidade com que o mar enche, é onde ele para de subir**. Um Mestre Gu de grau C com 44% cultiva a vida inteira e seu Mar Primordial trava em 44%, ainda que haja espaço físico sobrando dentro da abertura. Não há grind que resolva. Não há paciência que resolva.
 
-Isso também define a economia pessoal do personagem: quem tem teto baixo age menos vezes por dia. A ilustração mais limpa que a obra oferece é um Gu de emboscada, de rank 2, que consome apenas 10% de energia por uso — eficiência considerada alta. Um usuário de grau D, com 20 a 30% de reserva total, consegue **duas ativações** antes de secar. O grau não muda a *qualidade* do que a pessoa faz; muda **quantas vezes ela pode agir**.
+Isso também define a economia pessoal do personagem: quem tem teto baixo age menos vezes por dia. A ilustração mais limpa que a obra oferece é um Gu de emboscada, de rank 2, que consome apenas 10% de energia por uso — eficiência considerada alta. Um usuário de grau D, cujo teto vai de 20% a 39%, consegue **duas ou três ativações** antes de secar. O grau não muda a *qualidade* do que a pessoa faz; muda **quantas vezes ela pode agir**.
 
 ### Aptidão como trava de rank
 
@@ -80,7 +80,7 @@ de acrescentar a ressalva **"sem situações especiais"**. Essa ressalva não é
 ### Por que graus baixos ainda sobem de rank
 
 À primeira vista há uma contradição: se romper para o rank 2 exige 55% e o grau D tem
-teto de 30%, nenhum grau D deveria jamais alcançar o rank 2 — e no entanto a obra diz que
+teto de 39%, nenhum grau D deveria jamais alcançar o rank 2 — e no entanto a obra diz que
 ele alcança. A resposta está no fato de que **o limiar não mede quanto cabe na abertura,
 e sim quanta essência efetiva se entrega no golpe**. E essência tem duas variáveis:
 volume e densidade (ver [[04 - Essência Primordial|Essência Primordial]]).
@@ -228,9 +228,13 @@ jovens são formalmente Mestres Gu de rank 1. Antes disso têm abertura, mas nã
 
 ### As proporções
 
-Numa população comum, **cerca de cinco em cada dez jovens têm algum talento**. Num clã cujo
-fundador foi um cultivador poderoso, o sangue puxa para cima e a taxa chega a seis em dez — o
-que faz da linhagem, literalmente, um ativo.
+Entre os jovens que **de fato passam pela cerimônia**, **cerca de cinco em cada dez têm algum
+talento**. Num clã cujo fundador foi um cultivador poderoso, o sangue puxa para cima e a taxa
+chega a seis em dez — o que faz da linhagem, literalmente, um ativo.
+
+Cuidado para não ler essa proporção como demografia do mundo: metade **dos convocados** desperta,
+e só quem tem sangue do clã é convocado. Na população geral, Mestres Gu são cerca de um por cento
+— a conta completa está em [[05 - Ranks e Avanço#A pirâmide demográfica|Ranks e Avanço]].
 
 ### Como se frauda, fisicamente
 
@@ -255,7 +259,7 @@ O grau é apresentado ao jogador como fixo. Ele não é. E a forma como ele muda
 
 **Sobe.** Existem itens que elevam o talento permanentemente: os genéricos "Gu de elevar talento", raros a ponto de um ancião rank 3 nunca ter visto um; itens de herança capazes de levar um grau C a B; consumíveis mortais encontrados em ambientes específicos, cujo ganho o texto nunca quantifica. E existe a via demoníaca: um Gu que **absorve o sangue das vítimas mortas pelo usuário e converte em aptidão permanente**, com rendimento decrescente, rendendo mais quando o sangue é de parentes próximos ou de gente talentosa. Casos documentados levam alguém de 43% a mais de 90% em poucas horas de matança.
 
-**Cai.** Dano à abertura reduz o grau — uma técnica proibida rebaixou um grau A a grau B de forma permanente. Resíduo de rituais mal conduzidos custa pontos percentuais mesmo quando limpo depressa.[^2] Essência alheia acumulada sufoca o talento, e quanto mais tempo ela fica na abertura, mais pontos de aptidão consome. A queda de aptidão anda de mãos dadas com a queda de **rank**, que é assunto de [[07 - Perder Cultivo|Perder Cultivo]] — e as duas nem sempre andam juntas: há um caso documentado em que a aptidão saltou de pouco mais de 40% para mais de 90% **na mesma cena** em que o cultivo despencou de rank 3 para rank 1. E existe um item que reduz deliberadamente a aptidão do alvo em 10% por uso — usado, entre outras coisas, para rebaixar uma constituição extrema perigosa abaixo do limiar autodestrutivo.
+**Cai.** Dano à abertura reduz o grau — uma técnica proibida rebaixou um grau A a grau B de forma permanente. Resíduo de rituais mal conduzidos custa pontos percentuais mesmo quando limpo depressa.[^2] Essência alheia acumulada sufoca o talento, e quanto mais tempo ela fica na abertura, mais pontos de aptidão consome. A queda de aptidão anda de mãos dadas com a queda de **rank**, que é assunto de [[07 - Perder Cultivo|Perder Cultivo]] — e as duas nem sempre andam juntas: há um caso documentado em que a aptidão saltou de 43% para mais de 90% **na mesma cena** em que o cultivo despencou. A queda foi em duas etapas, e as duas são canônicas: no instante da primeira aplicação ele caiu de rank 3 para rank 2, e ao fim das seis horas de aplicações sucessivas chegou ao estágio inicial do rank 1. E existe um item que reduz deliberadamente a aptidão do alvo em 10% por uso — usado, entre outras coisas, para rebaixar uma constituição extrema perigosa abaixo do limiar autodestrutivo.
 
 **É transferida.** Esta é a parte que muda a escala do problema. Existe uma técnica que **concentra a aptidão de muitas pessoas num grupo pequeno**: um clã inteiro sustenta sua elite nutrindo forasteiros mortais de talento medíocre e colhendo deles a aptidão coletiva, numa instalação construída para isso. Aptidão vira, literalmente, uma safra. No fim da obra há ainda: uma versão do método sanguinário que eleva alguém a grau A extraindo apenas *parte* do sangue de seus parentes, sem precisar matá-los; uma formação apresentada publicamente como milagre religioso, que na verdade é sacrifício em massa para elevar **clãs inteiros ao grau A**, aplicada a pelo menos cinco clãs, com acesso vendido internamente por pontos de contribuição; e um Gu capaz de **despertar à força a abertura de quem nasceu sem talento nenhum** — a primeira rota conhecida para furar o piso dos 20%.
 
@@ -308,6 +312,4 @@ Uma última nota de mundo tardio, útil para ambientação: existe um golpe que 
 - [[14 - Ascensão Imortal|Ascensão Imortal]] — onde a aptidão para de importar.
 - [[07 - Perder Cultivo|Perder Cultivo]] — como o grau e o rank caem, e o que volta.
 
-[^2]: A obra diverge de si mesma quanto ao tamanho exato desse resíduo no caso mais documentado: uma passagem diz que a aptidão caiu dois pontos percentuais (de 44% para 42%) e outra, mais tarde, diz que caiu um (de 44% para 43%). Adotamos "cerca de dois pontos" porque é a formulação da passagem que descreve o efeito como regra; a diferença não muda nada de estrutural.
-
-[^1]: Uma passagem da obra descreve o grau D como tendo "vinte a trinta por cento" de essência, o que já nos levou a registrar a faixa como 20–30%. Revisamos: aquilo caracteriza o D típico, não o limite da banda. As quatro faixas são regulares de vinte pontos cada e cobrem 20–99 sem vãos, e nenhum personagem entre 31% e 39% recebe grau diferente. Fontes secundárias de comunidade também registram 20–39%.
+[^2]: A obra diverge de si mesma quanto ao tamanho exato desse resíduo no caso mais documentado: uma passagem diz que a aptidão caiu dois pontos percentuais (de 44% para 42%) e outra, mais tarde, diz que caiu um (de 44% para 43%). O vault registra a perda como **um a dois pontos percentuais** e, quando precisa de um número único, usa **um** — que é o valor adotado em [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] e o único compatível com os 43% de partida citados no caso desta nota. A diferença não muda nada de estrutural.

@@ -28,7 +28,7 @@ conhecimento: comum
 
 # Os Caminhos Elementais
 
-**Em uma frase:** os **doze caminhos da natureza física** — fogo, água, gelo-e-neve, terra,
+**Em uma frase:** os **onze caminhos da natureza física** — fogo, água, gelo-e-neve, terra,
 madeira, metal, relâmpago, vento, luz, trevas e nuvem — que juntos formam ==o grosso do mundo
 de cultivo==: os caminhos que quase todo mundo pratica, que abastecem todos os outros de
 matéria-prima, e que a obra trata como categoria própria. Para entender o que é um "caminho",
@@ -39,7 +39,7 @@ veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 > invenção nossa sem base textual — **não há nenhum `*` nesta nota**. Onde a obra não decide,
 > a nota diz `—` com todas as letras.
 >
-> **Por que estes doze estão juntos e não em doze notas.** Porque a obra os trata assim. Ela
+> **Por que estes onze estão juntos e não em onze notas.** Porque a obra os trata assim. Ela
 > os cria em bloco na mesma passagem histórica, os agrupa numa mesma categoria de refino
 > ("os cinco elementos, a luz e as trevas"), lhes dá a mesma fraqueza estrutural e a mesma
 > lógica de terreno. Individualmente, nenhum deles tem material para uma nota do tamanho das
@@ -73,9 +73,12 @@ avisos, antes de qualquer coisa:
    imortal**. Existem corpos imortais de fogo, de vento, de sabedoria — a obra fala em "corpos
    imortais dos respectivos caminhos". Ver
    [[02 - Como se Escolhe um Caminho|Como se Escolhe um Caminho]].
-3. **Marcas do Dao são um multiplicador mensurável.** O número canônico: com cerca de
-   **dezesseis mil** marcas de gelo-e-neve, o poder de um imortal usando um Gu do caminho é
-   **dezessete vezes** o de um imortal sem marca nenhuma usando o mesmo Gu.
+3. **Marcas do Dao são um multiplicador mensurável.** A régua canônica, enunciada num fôlego só
+   num trecho de gelo-e-neve: **cem** marcas amplificam o efeito de um Gu Imortal em **dez por
+   cento**; **mil** marcas **dobram** o efeito; **dezesseis mil** marcas dão **dezesseis vezes**
+   o efeito. A tabela completa está em
+   [[02 - Tabelas de Referência Rápida#7. Amplificação por dao marks|Tabelas de Referência Rápida]],
+   que é a fonte soberana dos números.
 4. **Marcas conflitantes cortam a eficácia — e servem de armadura.** Usar um Gu Imortal de
    outro caminho rende muito menos. Curar alguém cheio de marcas é mais difícil. Mas o inverso
    também vale: quem **não** tem marcas conflitantes toma o dano **por inteiro**, sem
@@ -148,7 +151,7 @@ métodos da água. Nada disso é ciclo — é ferramenta.
 
 ## A camada escondida
 
-A camada escondida dos caminhos elementais é **coletiva**: ela não está em nenhum dos doze
+A camada escondida dos caminhos elementais é **coletiva**: ela não está em nenhum dos onze
 separadamente, está no que acontece quando as marcas do Dao deles se acumulam num lugar. Esta é a
 seção mais importante da nota para quem for desenhar um sistema, porque é aqui que os elementais
 deixam de ser "dano com um tema" e viram **a camada física do mundo**.
@@ -284,7 +287,7 @@ Toda esta coluna vem da enumeração canônica do domínio (a mesma que estrutur
 
 | Era | Caminhos elementais nascidos nela |
 |---|---|
-| **Antiguidade Remota** | **fogo** — o mais antigo dos doze, contemporâneo do qi, do refino e da sabedoria |
+| **Antiguidade Remota** | **fogo** — o mais antigo dos onze, contemporâneo do qi, do refino e da sabedoria |
 | **Antiguidade Passada** | **vento**, **luz**, **trevas** |
 | **Antiguidade Medieval** | **metal**, **água**, **gelo-e-neve**, **nuvem**, **terra**, **relâmpago** — e a **madeira**, esta com criador nomeado |
 
@@ -317,7 +320,7 @@ marcas que os outros não veem.
 
 ---
 
-## Os doze verbetes
+## Os onze verbetes
 
 ### Fogo (fire path)
 
@@ -326,7 +329,7 @@ gelo buscam defesa e aprisionamento; *só os do fogo e do relâmpago focam em fo
 ao comparar com a luz: *a luz foca em velocidade e purificação, o poder destrutivo não se
 compara ao do fogo*.
 
-**O mais antigo dos doze**, nascido na Antiguidade Remota junto com o refino — e essa vizinhança
+**O mais antigo dos onze**, nascido na Antiguidade Remota junto com o refino — e essa vizinhança
 não é acaso: **refinar exige fogo**. Existe cargo institucional que só aceita candidatos "de
 cultivo do caminho do fogo **e** com domínio no caminho do refino", requisito que reduz
 drasticamente os elegíveis, e existem fornalhas especialmente boas para refinar Gu de fogo.
@@ -396,7 +399,7 @@ dá a eles **restrição de gênero**. Dois são para mulheres e um "é mais ade
 **A economia própria:** as *essências de cristal de gelo* permitem produzir monstros de neve em
 **linha de montagem**, como fonte de renda contínua. Com três delas, monta-se a produção.
 
-**A fraqueza mais específica de todos os doze é climática.** A obra é explícita: numa costa
+**A fraqueza mais específica de todos os onze é climática.** A obra é explícita: numa costa
 tropical, quente o ano inteiro, *era difícil para Mestres Gu do gelo sustentar o cultivo* — e por
 isso praticantes de gelo e de água migram para as ilhas frias. Este é o único caminho da obra
 cujo mapa-múndi determina onde ele pode existir.
@@ -464,7 +467,7 @@ morando dentro, *os recursos de madeira da abertura imortal eram produzidos em v
 acelerada*. Rank 8 dessa raça possuem cavernas-céu inteiras de madeira, que fornecem materiais
 imortais em abundância.
 
-**A contenção mais clara dos doze:** **o fogo a subjuga completamente**. Afirmado duas vezes.
+**A contenção mais clara dos onze:** **o fogo a subjuga completamente**. Afirmado duas vezes.
 
 **Fraqueza:** o fogo, mais a falta de poder ofensivo decisivo — a obra mostra um imortal de
 madeira em desvantagem tática precisando que um aliado imobilizasse o alvo antes que ele
@@ -482,7 +485,7 @@ metal, a reação registrada é *ele parece muito confiante na defesa dele*.
 **O fato de prestígio decisivo, e é uma frase só:** *eu trilho o caminho do metal, e **nenhum dos
 dez Veneráveis cultiva este caminho***.
 
-O metal é ==o único dos doze explicitamente sem nenhum Venerável==. A consequência é mecânica e
+O metal é ==o único dos onze explicitamente sem nenhum Venerável==. A consequência é mecânica e
 severa: **não existe reino de sonho de Venerável para herdar, nem herança verdadeira de topo**.
 (ded.) É um caminho estruturalmente **órfão** — forte no dia a dia, sem teto lendário.
 
@@ -586,7 +589,7 @@ caminho da nuvem antes porque você tem natureza alegre e não queria assumir re
 que combina com o caminho da nuvem. **Mas o caminho da nuvem é apenas um caminho menor, ele nunca
 poderá se comparar ao caminho da sabedoria***.
 
-O caminho da nuvem é ==o único dos doze explicitamente rotulado "caminho menor" pela obra==. E o
+O caminho da nuvem é ==o único dos onze explicitamente rotulado "caminho menor" pela obra==. E o
 argumento contra trocar dele não é o mérito, é o custo: *você já tem fundação de nuvem, seria
 trabalhoso e uma grande perda mudar agora*. (ded.) É o caminho **acessível, de baixo status e alta
 qualidade de vida** — ótimo para personagens iniciantes e para PNJs simpáticos.
@@ -595,7 +598,7 @@ qualidade de vida** — ótimo para personagens iniciantes e para PNJs simpátic
 justificativa é explícita: *minhas habilidades de tempo são especializadas em cura; se eu puder
 acrescentar o caminho da nuvem, ele compensa as outras deficiências*.
 
-**Afinidade racial, a mais forte dos doze e confirmada duas vezes:** os **homens-pluma nascem com
+**Afinidade racial, a mais forte dos onze e confirmada duas vezes:** os **homens-pluma nascem com
 marcas de nuvem e com asas**, voam livremente, e *todas as elites deles são mestres do voo*. E a
 implicação sombria, também canônica: *mesmo que eles não cultivem nuvem como caminho principal,
 matá-los renderia um bom número de marcas de nuvem, que podem ser acrescentadas à sua terra
@@ -605,7 +608,7 @@ abençoada*.
 nuvem* numa abertura imortal — e com as feras que moram dentro delas, o efeito é ainda melhor,
 gerando "um fluxo interminável".
 
-> [!question] O verbete mais pobre dos doze, e vale dizer com todas as letras
+> [!question] O verbete mais pobre dos onze, e vale dizer com todas as letras
 > **A obra nunca define a essência do caminho da nuvem, nunca nomeia seu criador, nunca mostra um
 > grão-mestre dele e nunca lhe dá uma relação de contenção.** O que ela dá, e dá bem, é o perfil
 > socioeconômico e a afinidade racial. Se você precisar de mais para o seu jogo, este é o

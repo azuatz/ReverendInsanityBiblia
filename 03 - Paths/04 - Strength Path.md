@@ -287,7 +287,7 @@ cultivador**, multiplicado:
   espectadores é direta: *essa força pode mesmo matar um imortal*. O preço é proporcional —
   mesmo uma das dez constituições extremas do mundo **não aguenta** o uso, e o gigante se
   dissipa com o usuário arfando.
-- **O golpe supremo é força fundida com escravização.** O ==Eu Miríade (myriad self)== tem
+- **O golpe supremo funde força, escravização e alma.** O ==Eu Miríade (myriad self)== tem
   como núcleo um Gu Imortal do [[12 - Soul Path|caminho da alma]], e é isso que o torna
   especial: os fantasmas de força que ele gera **carregam um fio da alma do usuário**, e por
   isso são manipulados *livremente, como extensões do próprio corpo*, ágeis e flexíveis — não

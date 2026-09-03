@@ -86,7 +86,7 @@ Este é o catálogo de reforço estrutural. Todos são **permanentes**, todos de
 | **Pele de cobre**, **músculos de gelo** | variantes temáticas do mesmo princípio | — |
 | **Costelas externas**, **escudo de costelas**, **asas ósseas no antebraço** | apêndices ósseos novos, crescidos de propósito | as asas de antebraço aumentam pouco a velocidade de deslocamento e **muito** a velocidade de ataque |
 | **Pele de lobo de jade-tartaruga** (nível 5) | defesa que responde sozinha ao ser atingida, **sem gastar energia** | o refino consome um **rei-fera vivo** da espécie correspondente |
-| **Gu de osso da impermanência** (nível 4) | amplia a capacidade do corpo de **conter uma alma poderosa** | é reforço de recipiente, não de músculo — ver [[12 - Soul Path|Soul Path]] |
+| **Gu de osso da impermanência** (nível 4) | amplia a capacidade do corpo de **conter uma alma poderosa** | é reforço de recipiente, não de músculo — ver [[12 - Soul Path\|Soul Path]] |
 | **Gu de modificação corporal** | adequa o corpo à alma e à força que ele já carrega | a peça genérica da categoria |
 
 Quatro regras governam a lista inteira:

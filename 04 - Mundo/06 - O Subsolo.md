@@ -94,7 +94,7 @@ Três regras geográficas que decorrem disso:
 
 > [!warning] `conhecimento: segredo` — a moeda dos imortais não tem nascente
 > Existe um contraste que a obra faz de propósito e que é um dos maiores segredos do cenário: a
-> energia primeva do mundo é infinita e as nascentes produzem pedras sozinhas, **mas ninguém
+> energia primordial do mundo é infinita e as nascentes produzem pedras sozinhas, **mas ninguém
 > jamais encontrou uma "nascente imortal"** que produzisse a moeda dos cultivadores imortais. Não
 > existe. A lei do equilíbrio do mundo **não produziria** espontaneamente um recurso desses, e
 > produzi-lo exige literalmente manipular a Vontade do Céu — um laço impossível, que só foi

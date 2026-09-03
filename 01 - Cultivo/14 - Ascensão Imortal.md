@@ -295,11 +295,11 @@ Cada item resolve um problema específico do processo.
 
 | Preparar | Resolve | Por quê |
 |---|---|---|
-| **Elevar a aptidão** | munição do passo 1 e um item do qi humano | mais capacidade significa assalto mais forte contra a parede, e a aptidão entra na soma do acúmulo; ver [[09 - Avançar com Aptidão Baixa|Avançar com Aptidão Baixa]] |
+| **Elevar a aptidão** | munição do passo 1 e um item do qi humano | mais capacidade significa assalto mais forte contra a parede, e a aptidão entra na soma do acúmulo; ver [[09 - Avançar com Aptidão Baixa\|Avançar com Aptidão Baixa]] |
 | **Acumular vida, não só rank** | qi humano — o item nº 1 | feitos, viagens, compreensão, encontros raros e autoconhecimento são literalmente o combustível do passo 2, e o contrapeso que impede o candidato de ser devorado |
 | **Fortalecer corpo e alma** | qi humano | resistência física e profundidade de alma são componentes explícitos da soma |
 | **Dominar de fato os próprios Gu** | qi humano | "familiaridade com os Gu" é um componente listado — carregar um arsenal que não se domina não conta |
-| **Elevar o [[08 - Attainment|attainment]]** | qi humano e o bônus do passo 2 | compreensão entra na conta; e o passo 2 é uma janela única de comunhão com o Grande Dao, direcionável para saltar de compreensão num caminho escolhido |
+| **Elevar o [[08 - Attainment\|attainment]]** | qi humano e o bônus do passo 2 | compreensão entra na conta; e o passo 2 é uma janela única de comunhão com o Grande Dao, direcionável para saltar de compreensão num caminho escolhido |
 | **Obter um Gu vital maduro e bem escolhido** | pré-requisito absoluto | sem Gu vital não há ascensão — e o Gu vital escolhido **define o caminho** do imortal resultante |
 | **Uma segunda abertura** | seguro de vida | permite estilhaçar apenas uma e sobreviver ao fracasso; é a única rede de segurança conhecida |
 | **Gu de armazenamento externo à abertura** | perda do arsenal | o qi desenfreado destrói Gu mortais próximos; sem isso, o recém-ascendido acorda praticamente sem nada |

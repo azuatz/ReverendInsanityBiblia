@@ -64,7 +64,7 @@ Esta é a tabela que a mesa vai consultar.
 | Perda | Recuperável? | Como |
 |---|---|---|
 | Cultivo caído por **ferimento** | **Sim** | tratamento e **reclusão** (cultivo fechado). E é mais rápido que da primeira vez: o mundo trata como certo que quem já esteve num patamar volta a ele depressa |
-| Cultivo caído por **velhice** | **Não**, pela via normal | só um item que devolva juventude reverte o quadro; ver [[12 - Longevidade|Longevidade]] |
+| Cultivo caído por **velhice** | **Não**, pela via normal | só um item que devolva juventude reverte o quadro; ver [[12 - Longevidade\|Longevidade]] |
 | Cultivo desfeito por **sobreposição de efeitos** | **Sim, como cultivo** | mas o efeito artificial perdido não volta; a subida seguinte é pela via normal |
 | **Contaminação** por essência alheia ou resíduo | **Parcialmente** | dois métodos, abaixo |
 | **Aptidão** derrubada por dano estrutural | **Quase nunca** | uma técnica proibida rebaixou permanentemente um grau A a grau B; a cura devolve a porcentagem, mas as rachaduras podem ficar |

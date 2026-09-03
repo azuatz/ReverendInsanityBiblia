@@ -17,6 +17,16 @@ conhecimento: misto — a nota inteira é `comum` (material de manual do jogador
 ao mesmo tempo como dinheiro e como combustível mágico — e é essa coincidência que
 organiza toda a economia e boa parte da política do mundo.[^1]
 
+> [!warning] Um nome, duas traduções — e você vai encontrar as duas
+> Em inglês o objeto se chama *primeval stone*. Em português ele aparece traduzido de
+> dois jeitos: **pedra primordial** e **pedra primeva**. **São exatamente a mesma coisa**,
+> e o mesmo vale para a energia que ela contém: **essência primordial** e **essência
+> primeva** são o mesmo recurso.
+>
+> Este vault padronizou **"pedra primordial"** e **"essência primordial"**. Se você topar
+> com "primeva" em outra pasta deste vault, na wiki ou numa tradução publicada, leia
+> "primordial" e siga em frente — não há um segundo conceito escondido ali.
+
 ## Como funciona
 
 Um Mestre Gu opera com uma reserva de energia interna chamada **essência primordial**, que
@@ -334,9 +344,9 @@ A referência mais útil para calibrar tudo o mais:
 | Cinco meses de vida de uma família mortal de três pessoas | 5 pedras | mortal |
 | Um javali de caça | meia pedra | mortal |
 | Um jarro do melhor vinho da região | 2 pedras (= 2 meses de despesas de uma família mortal) | mortal |
-| Entrada numa cidade, por pessoa | 1 pedra numa cidade pequena; 10 no anel externo de uma cidade grande; 100, 200 e 600 nos anéis internos | Mestre Gu (para o mortal, é uma barreira, não um preço) |
+| Entrada numa cidade, por pessoa e por entrada | 1 pedra numa cidade pequena; 10 no anel externo de uma cidade grande; 100 no primeiro anel interno pago, 200 no quarto anel, 600 no terceiro — a escada completa está em [[03 - Preços, Renda e Custo de Vida#Acesso: o que custa simplesmente entrar\|Preços, Renda e Custo de Vida]] | Mestre Gu (para o mortal, é uma barreira, não um preço) |
 | Aluguel de um imóvel modesto | 8 a 25 pedras por mês | Mestre Gu |
-| Mensalidade de uma "pensão" de Gu | 80 pedras | Mestre Gu |
+| Mensalidade de uma "pensão" de Gu, por Gu de rank 1 hospedado | 80 pedras por mês | Mestre Gu |
 | Um dia de vida de um Mestre Gu iniciante | 3 a 5 pedras | Mestre Gu |
 | Salário semanal de um ancião de clã | 100 pedras (300 em crise) | Mestre Gu |
 | Reserva mínima de um itinerante independente | ~10.000 pedras | Mestre Gu |
@@ -384,9 +394,10 @@ mesmo pelo valor cheio.
 
 ## Preço de Gu por rank
 
-A tabela que define as ordens de grandeza do mundo mortal:
+A tabela que define as ordens de grandeza do mundo mortal. Os valores são **preço de
+varejo, em pedras primordiais** — o que o comprador paga no balcão:
 
-| Rank do Gu | Faixa de preço |
+| Rank do Gu | Faixa de preço (em pedras primordiais) |
 |---|---|
 | 1 | ~500 pedras |
 | 2 | 500 a 1.000 |
@@ -448,9 +459,10 @@ cidade-mercado inteira foi uma receita, não um item. Ver [[06 - Mercados e Leil
 > para todas as categorias é nossa; o par 250/500 é da obra.
 
 Alguns números documentados, úteis como âncoras ao improvisar. **Todos os preços desta
-tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto:
+tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto — e **todos
+estão em pedras primordiais**, sem exceção:
 
-| Item ou serviço | Preço |
+| Item ou serviço | Preço (em pedras primordiais) |
 |---|---|
 | Chá comum, numa casa de chá | 5 pedras |
 | Ingresso de arena, como espectador | 20 |
@@ -567,7 +579,10 @@ tabela são da economia de Mestre Gu** — nenhum mortal comum compra nada disto
 - [[15 - Vontade dos Céus|Vontade dos Céus]] — o que vem de carona dentro de cada pedra absorvida (leitura de
   mestre).
 
-[^1]: A tradução brasileira publicada da obra usa **"pedra primordial"** para
-    *primeval stone*. Adotamos "pedra primordial" nesta base por consistência com "essência
-    primordial", mas os dois termos designam exatamente o mesmo objeto — vale conhecer os dois
-    se a designer for consultar a tradução em português.
+[^1]: **"Pedra primordial" e "pedra primeva" são a mesma coisa.** O original em inglês é
+    *primeval stone*, e circulam em português duas traduções: **pedra primordial** (a que
+    este vault adotou como nome oficial, por consistência com "essência primordial") e
+    **pedra primeva**. O mesmo vale para o par **essência primordial / essência primeva**.
+    Se você encontrar "primeva" em alguma nota de outra pasta deste vault, na wiki ou numa
+    tradução em português, leia "primordial": é o mesmo objeto e a mesma energia, sem
+    nenhuma diferença de significado.

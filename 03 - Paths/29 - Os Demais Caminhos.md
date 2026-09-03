@@ -644,5 +644,5 @@ esquisita**. Para uma mesa, os caminhos menores são de onde vêm as ideias que 
 - [[22 - Phantom Path|Phantom Path]] — o ramo da regra que virou nota própria.
 - [[11 - Sword Path|Sword Path]] — o irmão de raiz do caminho da lâmina.
 - [[12 - Soul Path|Soul Path]] e [[20 - Food Path|Food Path]] — os dois caminhos envolvidos na história do caminho da matança.
-- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — os doze caminhos naturais, tratados em conjunto.
+- [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] — os onze caminhos naturais, tratados em conjunto.
 - [[02 - Tabelas de Referência Rápida|Tabelas de Referência Rápida]] — **a fonte única dos números do sistema**.

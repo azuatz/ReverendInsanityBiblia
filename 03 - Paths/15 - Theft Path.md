@@ -237,8 +237,8 @@ verdade, um dos que mais cobram, e as cobranças são de cinco tipos distintos.
 | **Assinatura** | Cada roubo entrega uma amostra do método; exposição convida contra-ataque e dedução da identidade |
 | **Conflito interno de marcas** | Roubo e [[12 - Soul Path|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
 
-E há a cobrança mais elegante de todas, que já está registrada acima nesta nota e pertence
-conceitualmente a esta seção: o golpe de ocultação que torna o portador **invisível para a vontade
+E há a cobrança mais elegante de todas — detalhada adiante, em "Em combate e fora dele", mas que
+pertence conceitualmente a esta seção: o golpe de ocultação que torna o portador **invisível para a vontade
 do céu** também o torna **inelegível para tribulações** — e portanto **incapaz de acumular marcas do
 Dao e de continuar evoluindo**. O caminho que se especializou em obter coisas produziu, no seu ponto
 mais alto, um item que **impede permanentemente de obter mais**.

@@ -12,9 +12,29 @@ conhecimento: comum
 
 # Visão Geral do Mundo
 
-**Em uma frase:** o mundo de Reverend Insanity é um planeta imenso dividido em ==cinco regiões== mutuamente isoladas, coberto por dois céus que se revezam como dia e noite, e governado não por deuses, mas por uma **lei física de nivelamento** que derruba sistematicamente quem cresce demais.
+**Em uma frase:** o mundo de Reverend Insanity é um planeta imenso dividido em ==cinco regiões== mutuamente isoladas, com sol, lua e quatro estações como o nosso, coberto por dois céus que se revezam por cima do sol e fazem o dia e a noite, e governado não por deuses, mas por uma **lei física de nivelamento** que derruba sistematicamente quem cresce demais.
 
 Esta é a nota-porta da pasta **Mundo**. Ela dá o mapa geral; cada tópico tem nota própria, listada em [[#Mapa da pasta]].
+
+> [!warning] Duas palavras parecidas que você vai encontrar o tempo todo — e não são a mesma coisa
+> O vocabulário deste mundo tem uma armadilha que vale desarmar antes da primeira página, porque
+> ela aparece em quase toda nota:
+>
+> - **Gu** é o inseto mágico. Cada um contém um fragmento congelado de uma lei da natureza, e é
+>   usando Gu que se faz qualquer coisa neste cenário. Ver [[02 - O que é um Gu|O que é um Gu]].
+> - **Mestre Gu** é a *pessoa* que usa Gu — o cultivador. Existe do rank 1 ao rank 5.
+> - **Gu Imortal** é um *Gu* de rank 6 ou mais: o inseto de alto nível, do qual existe **um único
+>   exemplar no mundo inteiro**.
+> - **Imortal** (ou, por extenso, **Mestre Gu Imortal**) é a *pessoa* de rank 6 a 9 — o cultivador
+>   que já não é mortal. Ver [[14 - Ascensão Imortal|Ascensão Imortal]].
+>
+> Ou seja: o inseto de topo e a pessoa de topo têm nomes quase idênticos, e no original em inglês
+> a diferença é só a ordem das palavras (*Immortal Gu*, o bicho; *Gu Immortal*, a pessoa). Sempre
+> que houver risco de confusão, este material escreve **"Imortal"** ou **"cultivador imortal"**
+> para a pessoa e reserva **"Gu Imortal"** para o inseto. Onde uma frase disser "um Gu Imortal de
+> rank 8" e estiver claramente falando de alguém que age, decide ou luta, leia "um cultivador de
+> rank 8". A tabela completa de equivalências está em
+> [[01 - Glossário EN-PT|Glossário EN-PT]].
 
 ## Resumo
 
@@ -118,7 +138,7 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 > O nome em inglês funciona como **identificador estável** — a mesma figura é chamada da
 > mesma forma em todas as notas, e um leitor que encontre um nome numa nota reconhece a
 > pessoa em outra. Onde existe tradução publicada confirmada, ela aparece nos `aliases` das
-> notas de [[01 - Visão Geral dos Veneráveis|07 - Veneráveis e Legados]].
+> notas de [[01 - Visão Geral dos Veneráveis|Veneráveis e Legados]].
 
 ## Relações
 

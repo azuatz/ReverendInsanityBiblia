@@ -102,56 +102,56 @@ mundo.
 | [[06 - Um Gu Acima do Próprio Rank\|Um Gu Acima do Próprio Rank]] | O sistema arbitra vontades, não rótulos — e a aura de um mentor torna um refino de dias em um de segundos. |
 | [[07 - Romper o Rank 2 por Teimosia e Pedras\|Romper o Rank 2 por Teimosia e Pedras]] | Aptidão baixa não fecha a porta: põe pedágio nela. O caso mais importante da pasta para a economia do cenário. |
 | [[08 - O Atalho Demoníaco de Rank\|O Atalho Demoníaco de Rank]] | Um rank inteiro comprado com dois pontos permanentes de aptidão. A curva moral do caminho demoníaco em números. |
-| [[11 - Caçar o Que Não se Vê|Caçar o Que Não se Vê]] | Tudo o que a invisibilidade não esconde — e como vencer por assimetria de recuperação. |
-| [[12 - Roubar o Gu de um Moribundo|Roubar o Gu de um Moribundo]] | O custo de roubar um Gu cai conforme a vítima piora; e por que a ferramenta barata só rouba coisas baratas. |
-| [[13 - Fugir de um Enxame e Sair Montado|Fugir de um Enxame e Sair Montado]] | Uma fuga é administração de orçamento: enxames têm um nó que se corta, lixo vira isca, e uma besta adormecida vira montaria. |
-| [[09 - Comprar um Estágio de Cultivo com Todo o Futuro|Comprar um Estágio de Cultivo com Todo o Futuro]] | O atalho mais caro do sistema — e o único caso em que a obra mostra um atalho sendo desfeito, derrubando dois ranks. |
-| [[10 - Comprar Aptidão com Cem Vidas|Comprar Aptidão com Cem Vidas]] | A estatística "fixa" do sistema tem preço: sangue da própria linhagem, com rendimento decrescente. De 43% a 90% em seis horas. |
-| [[14 - O Refém que Cura os Dois Lados|O Refém que Cura os Dois Lados]] | Curar alguém com metade de um par e guardar a outra metade cria um contrato sem papel — que se renova sozinho. |
+| [[11 - Caçar o Que Não se Vê\|Caçar o Que Não se Vê]] | Tudo o que a invisibilidade não esconde — e como vencer por assimetria de recuperação. |
+| [[12 - Roubar o Gu de um Moribundo\|Roubar o Gu de um Moribundo]] | O custo de roubar um Gu cai conforme a vítima piora; e por que a ferramenta barata só rouba coisas baratas. |
+| [[13 - Fugir de um Enxame e Sair Montado\|Fugir de um Enxame e Sair Montado]] | Uma fuga é administração de orçamento: enxames têm um nó que se corta, lixo vira isca, e uma besta adormecida vira montaria. |
+| [[09 - Comprar um Estágio de Cultivo com Todo o Futuro\|Comprar um Estágio de Cultivo com Todo o Futuro]] | O atalho mais caro do sistema — e o único caso em que a obra mostra um atalho sendo desfeito, derrubando dois ranks. |
+| [[10 - Comprar Aptidão com Cem Vidas\|Comprar Aptidão com Cem Vidas]] | A estatística "fixa" do sistema tem preço: sangue da própria linhagem, com rendimento decrescente. De 43% a 90% em seis horas. |
+| [[14 - O Refém que Cura os Dois Lados\|O Refém que Cura os Dois Lados]] | Curar alguém com metade de um par e guardar a outra metade cria um contrato sem papel — que se renova sozinho. |
 
 ### Combate e estrutura
 
 | Nota | O que ela ensina |
 |---|---|
-| [[15 - A Barreira Que Deixa Sair e Não Deixa Entrar|A Barreira Que Deixa Sair e Não Deixa Entrar]] | Toda proteção de mão única é arma em potencial contra o próprio dono. E todo dreno "simétrico" é assimétrico. |
-| [[16 - O Ambiente Manda Mais que o Rank|O Ambiente Manda Mais que o Rank]] | Lugares que desligam categorias inteiras de ferramentas — e as isenções individuais que produzem massacres. |
-| [[18 - Emboscada de Um Contra Sete|Emboscada de Um Contra Sete]] | Como se quebra um grupo especializado: pelo detector e pela confiança, não pelo mais forte. |
-| [[20 - Guerra de Custos|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo de arena e numa guerra de exércitos. |
-| [[17 - Sobrecarregar o Defensor que Devolve o Golpe|Sobrecarregar o Defensor que Devolve o Golpe]] | Atenção é um recurso separado da energia, e o teto dele é três. Manter é grátis; mudar é que custa caro. |
-| [[19 - Perder de Propósito e Cobrar Caro|Perder de Propósito e Cobrar Caro]] | Uma **derrota**: quem vai perder ainda escolhe entre tentar vencer e encarecer a vitória do outro. |
-| [[21 - Um Trunfo que Nunca Foi Testado|Um Trunfo que Nunca Foi Testado]] | Ninguém mede força, todo mundo a infere — e um blefe bem montado compra dois patamares de aparência. |
+| [[15 - A Barreira Que Deixa Sair e Não Deixa Entrar\|A Barreira Que Deixa Sair e Não Deixa Entrar]] | Toda proteção de mão única é arma em potencial contra o próprio dono. E todo dreno "simétrico" é assimétrico. |
+| [[16 - O Ambiente Manda Mais que o Rank\|O Ambiente Manda Mais que o Rank]] | Lugares que desligam categorias inteiras de ferramentas — e as isenções individuais que produzem massacres. |
+| [[18 - Emboscada de Um Contra Sete\|Emboscada de Um Contra Sete]] | Como se quebra um grupo especializado: pelo detector e pela confiança, não pelo mais forte. |
+| [[20 - Guerra de Custos\|Guerra de Custos]] | Compare custo por ação, não dano. O mesmo teorema num duelo de arena e numa guerra de exércitos. |
+| [[17 - Sobrecarregar o Defensor que Devolve o Golpe\|Sobrecarregar o Defensor que Devolve o Golpe]] | Atenção é um recurso separado da energia, e o teto dele é três. Manter é grátis; mudar é que custa caro. |
+| [[19 - Perder de Propósito e Cobrar Caro\|Perder de Propósito e Cobrar Caro]] | Uma **derrota**: quem vai perder ainda escolhe entre tentar vencer e encarecer a vitória do outro. |
+| [[21 - Um Trunfo que Nunca Foi Testado\|Um Trunfo que Nunca Foi Testado]] | Ninguém mede força, todo mundo a infere — e um blefe bem montado compra dois patamares de aparência. |
 
 ### Dinheiro, mercado e informação
 
 | Nota | O que ela ensina |
 |---|---|
-| [[22 - Aposta de Rochas - Heurística, Perda e Álibi|Aposta de Rochas: Heurística, Perda e Álibi]] | Nove em dez pedras são vazias — e o verdadeiro produto da casa é o álibi de origem. |
-| [[23 - Ganhar um Leilão Sem Ser o Maior Lance|Ganhar um Leilão Sem Ser o Maior Lance]] | Três formatos de leilão, e em todos vence quem lê melhor as outras pessoas. |
-| [[24 - Colher a Flor Antes do Prazo|Colher a Flor Antes do Prazo]] | Um tesouro que cresce, um pagamento que tem de ser à vista, e uma comunidade que morre junto. |
-| [[25 - Comprar Antes que Seja Notícia|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, e vale zero quando todos a têm. |
-| [[27 - A Conta de uma Calamidade|A Conta de uma Calamidade]] | A planilha completa de um desastre: 666 km² perdidos, quarenta anos de atraso — e um cadáver que paga tudo. |
-| [[28 - Guerra de Preços|Guerra de Preços]] | Por que possuir um artefato lendário é o mesmo que possuir um setor inteiro da economia. |
-| [[26 - Dar de Graça o que Vai Vazar|Dar de Graça o que Vai Vazar]] | Todo segredo tem prazo de validade. O que vai vazar em três dias se dá de graça; cobra-se o que não vaza sozinho. |
+| [[22 - Aposta de Rochas - Heurística, Perda e Álibi\|Aposta de Rochas: Heurística, Perda e Álibi]] | Nove em dez pedras são vazias — e o verdadeiro produto da casa é o álibi de origem. |
+| [[23 - Ganhar um Leilão Sem Ser o Maior Lance\|Ganhar um Leilão Sem Ser o Maior Lance]] | Três formatos de leilão, e em todos vence quem lê melhor as outras pessoas. |
+| [[24 - Colher a Flor Antes do Prazo\|Colher a Flor Antes do Prazo]] | Um tesouro que cresce, um pagamento que tem de ser à vista, e uma comunidade que morre junto. |
+| [[25 - Comprar Antes que Seja Notícia\|Comprar Antes que Seja Notícia]] | Informação antecipa preços, não se gasta ao ser vendida, e vale zero quando todos a têm. |
+| [[27 - A Conta de uma Calamidade\|A Conta de uma Calamidade]] | A planilha completa de um desastre: 666 km² perdidos, quarenta anos de atraso — e um cadáver que paga tudo. |
+| [[28 - Guerra de Preços\|Guerra de Preços]] | Por que possuir um artefato lendário é o mesmo que possuir um setor inteiro da economia. |
+| [[26 - Dar de Graça o que Vai Vazar\|Dar de Graça o que Vai Vazar]] | Todo segredo tem prazo de validade. O que vai vazar em três dias se dá de graça; cobra-se o que não vaza sozinho. |
 
 ### Palavra, reputação e organizações
 
 | Nota | O que ela ensina |
 |---|---|
-| [[29 - Brechas de Contrato Mágico|Brechas de Contrato Mágico]] | Quatro brechas reais. O contrato confere palavras; ele não entende nada. |
-| [[30 - Reputação Comprada em Prestações|Reputação Comprada em Prestações]] | Quanto custa uma reputação regional, como se paga, e por que ela protege melhor que um Gu. |
-| [[31 - Chantagem e Extorsão por Informação|Chantagem e Extorsão por Informação]] | Como um segredo inverte uma situação de morte certa — e por que o chantagista competente cobra parcelado. |
-| [[32 - Infiltrar-se numa Organização|Infiltrar-se numa Organização]] | Identidade é verificada por vários canais independentes, e nenhum disfarce cobre hábitos. |
+| [[29 - Brechas de Contrato Mágico\|Brechas de Contrato Mágico]] | Quatro brechas reais. O contrato confere palavras; ele não entende nada. |
+| [[30 - Reputação Comprada em Prestações\|Reputação Comprada em Prestações]] | Quanto custa uma reputação regional, como se paga, e por que ela protege melhor que um Gu. |
+| [[31 - Chantagem e Extorsão por Informação\|Chantagem e Extorsão por Informação]] | Como um segredo inverte uma situação de morte certa — e por que o chantagista competente cobra parcelado. |
+| [[32 - Infiltrar-se numa Organização\|Infiltrar-se numa Organização]] | Identidade é verificada por vários canais independentes, e nenhum disfarce cobre hábitos. |
 
 ### Criar, refinar e produzir
 
 | Nota | O que ela ensina |
 |---|---|
-| [[33 - Uma Receita Lendária Cumprida com Substitutos|Uma Receita Lendária Cumprida com Substitutos]] | Receitas antigas pedem atributos, não objetos — e matéria-prima pode ser o ataque do inimigo. |
-| [[34 - Um Golpe Mal Testado Usado Além do Limite|Um Golpe Mal Testado Usado Além do Limite]] | Um **fracasso**: cada peça de um golpe impõe uma condição ao conjunto, e descobri-la doeu metade de uma alma. |
-| [[35 - Do Golpe à Formação|Do Golpe à Formação]] | A escada de três degraus que transforma um efeito caro e momentâneo num estado barato e compartilhável. |
-| [[36 - Todos os Multiplicadores de um Refino|Todos os Multiplicadores de um Refino]] | Um sucesso caríssimo e três fracassos sabotados, lado a lado. O item que zera a sorte e não zera a perícia. |
-| [[37 - A Linha de Produção de Gu|A Linha de Produção de Gu]] | Fatiar uma receita em etapas protege o segredo melhor do que guardá-lo. |
-| [[38 - O Gu Que Escolhe o Portador|O Gu Que Escolhe o Portador]] | Travas que avaliam o estado interno do candidato — e não a moral dele. |
+| [[33 - Uma Receita Lendária Cumprida com Substitutos\|Uma Receita Lendária Cumprida com Substitutos]] | Receitas antigas pedem atributos, não objetos — e matéria-prima pode ser o ataque do inimigo. |
+| [[34 - Um Golpe Mal Testado Usado Além do Limite\|Um Golpe Mal Testado Usado Além do Limite]] | Um **fracasso**: cada peça de um golpe impõe uma condição ao conjunto, e descobri-la doeu metade de uma alma. |
+| [[35 - Do Golpe à Formação\|Do Golpe à Formação]] | A escada de três degraus que transforma um efeito caro e momentâneo num estado barato e compartilhável. |
+| [[36 - Todos os Multiplicadores de um Refino\|Todos os Multiplicadores de um Refino]] | Um sucesso caríssimo e três fracassos sabotados, lado a lado. O item que zera a sorte e não zera a perícia. |
+| [[37 - A Linha de Produção de Gu\|A Linha de Produção de Gu]] | Fatiar uma receita em etapas protege o segredo melhor do que guardá-lo. |
+| [[38 - O Gu Que Escolhe o Portador\|O Gu Que Escolhe o Portador]] | Travas que avaliam o estado interno do candidato — e não a moral dele. |
 
 ### Heranças, territórios e escala imortal `[segredo]`
 
@@ -160,17 +160,17 @@ rank baixo não sabe nada disto, e a maior parte serve ao mestre.
 
 | Nota | O que ela ensina |
 |---|---|
-| [[39 - As Três Chances de um Espírito Guardião|As Três Chances de um Espírito Guardião]] | Regras de contagem assimétricas: dois herdeiros com o mesmo direito, resultados opostos. |
-| [[40 - Tomar um Território pelas Três Vias|Tomar um Território pelas Três Vias]] | Enganar, suprimir e — a via que **não funciona** — invadir e depois pedir. |
-| [[41 - Um Mortal Refina um Gu Imortal|Um Mortal Refina um Gu Imortal]] | A unicidade dos artefatos é uma verificação em tempo real, e pode ser cronometrada. |
-| [[42 - Anexação de Aberturas|Anexação de Aberturas]] | Fundação vence rank. Crescer para os lados adia crescer para cima. |
-| [[43 - Roubo de um Gu Imortal de Rank Superior|Roubo de um Gu Imortal de Rank Superior]] | O roubo é o elo fácil da corrente; o relógio de três dias é o difícil. |
-| [[46 - Curar o Dano para Repetir o Dano|Curar o Dano para Repetir o Dano]] | Ter o dano e a cura do dano converte um recurso finito em infinito — e o único freio é a fadiga do operador. |
-| [[47 - Escolher o Terreno da Própria Tribulação|Escolher o Terreno da Própria Tribulação]] | A prova é montada com o material do terreno — e o céu aprende com quem já o explorou. |
-| [[48 - Fazenda de Tribulações|Fazenda de Tribulações]] | Uma exploração em que as duas partes ganham de verdade, e mesmo assim uma delas é safra. |
-| [[49 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor: um explorador com hipóteses contra trinta e seis falhas. |
-| [[44 - A Armadilha que Engorda a Cada Teste|A Armadilha que Engorda a Cada Teste]] | Um **fracasso**: há defesas que lucram com cada tentativa de arrombá-las, e só a segunda medição revela isso. |
-| [[45 - Quando a Adivinhação Falha|Quando a Adivinhação Falha]] | Outro **fracasso**: a lista fechada do que bloqueia uma dedução — e por que acertar demais denuncia um patrono oculto. |
+| [[39 - As Três Chances de um Espírito Guardião\|As Três Chances de um Espírito Guardião]] | Regras de contagem assimétricas: dois herdeiros com o mesmo direito, resultados opostos. |
+| [[40 - Tomar um Território pelas Três Vias\|Tomar um Território pelas Três Vias]] | Enganar, suprimir e — a via que **não funciona** — invadir e depois pedir. |
+| [[41 - Um Mortal Refina um Gu Imortal\|Um Mortal Refina um Gu Imortal]] | A unicidade dos artefatos é uma verificação em tempo real, e pode ser cronometrada. |
+| [[42 - Anexação de Aberturas\|Anexação de Aberturas]] | Fundação vence rank. Crescer para os lados adia crescer para cima. |
+| [[43 - Roubo de um Gu Imortal de Rank Superior\|Roubo de um Gu Imortal de Rank Superior]] | O roubo é o elo fácil da corrente; o relógio de três dias é o difícil. |
+| [[46 - Curar o Dano para Repetir o Dano\|Curar o Dano para Repetir o Dano]] | Ter o dano e a cura do dano converte um recurso finito em infinito — e o único freio é a fadiga do operador. |
+| [[47 - Escolher o Terreno da Própria Tribulação\|Escolher o Terreno da Própria Tribulação]] | A prova é montada com o material do terreno — e o céu aprende com quem já o explorou. |
+| [[48 - Fazenda de Tribulações\|Fazenda de Tribulações]] | Uma exploração em que as duas partes ganham de verdade, e mesmo assim uma delas é safra. |
+| [[49 - Explorar um Reino de Sonho\|Explorar um Reino de Sonho]] | Método barato vence ferramenta melhor: um explorador com hipóteses contra trinta e seis falhas. |
+| [[44 - A Armadilha que Engorda a Cada Teste\|A Armadilha que Engorda a Cada Teste]] | Um **fracasso**: há defesas que lucram com cada tentativa de arrombá-las, e só a segunda medição revela isso. |
+| [[45 - Quando a Adivinhação Falha\|Quando a Adivinhação Falha]] | Outro **fracasso**: a lista fechada do que bloqueia uma dedução — e por que acertar demais denuncia um patrono oculto. |
 
 ## O que todo personagem sabe
 

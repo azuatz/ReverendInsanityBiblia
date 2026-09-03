@@ -60,6 +60,13 @@ tudo, a vida doméstica que produz as pessoas dessas instituições — nascimen
 adoção, herança, funeral, festa e culto aos ancestrais — está em
 [[04 - Família, Ancestrais e Ritos|Família, Ancestrais e Ritos]].
 
+Um último aviso de vocabulário, porque o termo reaparece em quase todas as notas desta pasta:
+nem toda gente deste mundo é humana. Ao lado do ser humano comum vive uma dúzia de povos
+humanoides não-humanos — os ==humanos variantes== (*variant humans*) —, cada um com corpo,
+talento inato e cultura próprios. Eles cultivam Gu como qualquer humano, e a maior parte deles
+é comprada e vendida legalmente. Quem são, o que sabem fazer e que posição social ocupam está
+em [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
+
 > [!note] Para o design
 > Esta é a estrutura mais reaproveitável do cenário: **toda organização é uma máquina de
 > redistribuir recursos escassos, e todo personagem tem uma posição declarada nessa
@@ -125,6 +132,10 @@ adoção, herança, funeral, festa e culto aos ancestrais — está em
 16. **A guerra consome energia, não vidas.** A tática dominante do mundo é gastar a reserva
     interna do inimigo com tropa descartável; e essa tropa quase nunca é humana. Ver
     [[10 - Guerra Organizada|Guerra Organizada]].
+17. **A supremacia humana é recente e foi conquistada.** Os povos humanoides não-humanos já
+    governaram o mundo inteiro; perderam uma guerra e hoje são, na média, mercadoria legal.
+    A hierarquia entre espécies é, portanto, um resultado histórico e não a ordem natural
+    das coisas. Ver [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 
 ## O que todo personagem sabe
 
@@ -173,7 +184,8 @@ adoção, herança, funeral, festa e culto aos ancestrais — está em
   afirma que há uma desvantagem oculta nessa troca e nunca revela qual.
 - **Que o Tribunal Celestial exclui categoricamente humanos variantes** (raças humanoides
   não-humanas), por mais talentosos que sejam. Não é preconceito individual: é regra
-  estrutural — e é a fratura que empurra essas raças para os blocos rivais.
+  estrutural — e é a fratura que empurra essas raças para os blocos rivais. Ver
+  [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]].
 - **Que uma instituição mundial inteira, de propósito genuinamente útil, regras
   rigorosas e tabus sagrados, pode ter sido construída do zero para ser colhida um dia
   por quem a fundou em segredo.** É o padrão narrativo mais poderoso desta pasta, e está
@@ -222,12 +234,15 @@ Vale ler as notas desta pasta nesta ordem:
 9. [[10 - Guerra Organizada|Guerra Organizada]] — o que acontece depois que a política falha: quem vai ao campo,
    em que formação, e o que a batalha realmente consome.
 10. [[11 - Cultura das Cinco Regiões|Cultura das Cinco Regiões]] — como tudo acima muda de forma conforme a geografia.
-11. [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — o catálogo, região por região, das organizações
+11. [[12 - Povos e Variantes Humanas|Povos e Variantes Humanas]] — quem mais habita essas regiões além do ser humano
+    comum: a dúzia de povos humanoides não-humanos, o talento inato de cada um e a posição
+    social que cada um ocupa. É a nota de onde saem as opções de personagem não-humano.
+12. [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] — o catálogo, região por região, das organizações
     que de fato mandam, com ficha de cada uma. É a nota de consulta da pasta, não a de leitura
     corrida.
-12. [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
+13. [[14 - Tribunal Celestial e Grandes Forças|Tribunal Celestial e Grandes Forças]] — a camada imortal, as super forças e o que
     está escondido atrás delas.
-13. [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
+14. [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] — tudo o que fica fora do mapa: quem mora dentro
     das aberturas imortais, como se vive na sede do Tribunal, os espaços neutros que não
     pertencem a região nenhuma e os domínios fechados.
 

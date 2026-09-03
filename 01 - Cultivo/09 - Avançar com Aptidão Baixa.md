@@ -223,7 +223,7 @@ Nenhum destes é atalho gratuito; todos são investimentos de décadas ou pactos
 |---|---|---|
 | **Acumular qi humano** | feitos, reputação, vontade forjada e compreensão elevam a qualidade do componente que a aptidão não fornece | uma vida inteira de riscos — é a rota "honesta" |
 | **Obter um Gu Imortal antes de ascender** | garante o item que a nova estrutura precisa e melhora drasticamente a posição inicial | ver abaixo: é o gargalo econômico do mundo |
-| **Elevar o [[08 - Attainment|attainment]] antes** | compreensão do caminho vale mais que rank e sustenta a ascensão | tempo, mestres, heranças |
+| **Elevar o [[08 - Attainment\|attainment]] antes** | compreensão do caminho vale mais que rank e sustenta a ascensão | tempo, mestres, heranças |
 | **Ascender em local marcado por um Venerável morto** | a "verdade" impressa no lugar concede saltos de compreensão que levariam décadas | acesso ao local, e enfrentar a provação que ele impõe |
 | **Segunda abertura** | funciona como rede de segurança contra a falha na ascensão | exige um Gu Imortal específico e um processo longuíssimo |
 | **Constituição extrema** | 100% de capacidade, dao marks natos, ascensão facilitada | herda uma condição geralmente fatal; ver a nota própria |

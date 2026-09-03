@@ -14,6 +14,11 @@ conhecimento: comum
 se refina, se rouba, se divide e se vende — e que hoje é um dos mais fortes e mais populares
 do mundo. Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—` e admite o buraco em vez de preenchê-lo.
+
 ## Filosofia e identidade
 
 A premissa é simples e sinistra: **a alma é matéria**. Tem quantidade, tem qualidade, tem

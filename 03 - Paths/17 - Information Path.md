@@ -274,7 +274,7 @@ Três regras finas que valem ouro numa mesa:
   matá-la; *sem hospedeiro, a força do voto desapareceu* — e ela então se ressuscitou com técnicas
   de cura, livre. (ded.) Morrer e ressuscitar é uma via canônica de escapar de um juramento.
 
-### As onze maneiras de romper um juramento
+### As doze maneiras de romper um juramento
 
 A regra geral, dita por um praticante: ==**acordos de aliança são besteira; qualquer acordo pode
 ser quebrado dado tempo suficiente, ou se você pagar um preço enorme.**==

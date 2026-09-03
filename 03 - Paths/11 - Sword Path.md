@@ -14,6 +14,11 @@ conhecimento: comum
 continuam corroendo a ferida depois do golpe — e que é obra de um único criador solitário.
 Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—` e admite o buraco em vez de preenchê-lo.
+
 ## Filosofia e identidade
 
 Este caminho tem uma história de origem distinta de quase todos os outros, e ela define sua

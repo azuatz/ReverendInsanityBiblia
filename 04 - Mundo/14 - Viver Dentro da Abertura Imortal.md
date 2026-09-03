@@ -59,8 +59,11 @@ Toda abertura imortal tem um **núcleo de origem** — sua fundação. É dele q
 extrai essência imortal, como quem tira água de uma fonte. Esse núcleo é, ao mesmo
 tempo, a carteira, a usina e o órgão vital do personagem:
 
-- A **produção anual** depende da grade da terra: uma terra pequena rende cerca de dez
-  contas de essência por ano, uma média mais de vinte, uma alta mais de trinta.
+- A **produção anual** depende da grade da terra, e se mede em **contas de uva verde** — a
+  denominação de essência imortal que um recém-ascendido (rank 6) produz. Uma terra de grade
+  baixa rende **10+ contas por ano**; uma média, **20+**; uma alta, **30+**; e uma de grade
+  super, **50+**. A tabela completa, com as áreas de cada grade, está em
+  [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]].
 - A **qualidade** da essência produzida sobe conforme o dono avança de patamar, e é
   literalmente uma das quatro condições formais para alcançar o topo do mundo.
 - Se o núcleo é danificado ou extraído, **a abertura inteira regride**: o espaço encolhe,
@@ -75,8 +78,9 @@ tempo, a carteira, a usina e o órgão vital do personagem:
 ## O tempo lá dentro
 
 O fluxo temporal interno é mais rápido que o externo, e a proporção varia por terra.
-As documentadas vão de cinco para um até mais de trinta para um, e a proporção tende a
-crescer com a área até estabilizar.
+As documentadas vão de **cinco para um até quarenta e seis para um** — isto é, até quarenta e
+seis dias lá dentro para cada dia lá fora —, e a proporção tende a crescer com a área até
+estabilizar no teto da grade.
 
 Na prática isso significa que o imortal **cultiva, refina, planta e pesquisa mais
 rápido que o mundo lá fora**. Um mês de ausência pode ser anos de trabalho interno. É a

@@ -82,7 +82,7 @@ A dificuldade não depende só do nível do bicho. Depende de **que vontade** mo
 | Extraído de fóssil | trivial | nasce fraco e quase sem consciência |
 | Deixado por Mestre morto | **muito** acima do nível aparente | retém a vontade tenaz do antigo dono |
 | Deixado por Mestre morto que odiava você | ainda pior, especificamente para você | a resistência é personalizada |
-| Gu Imortal já refinado por outro | **impossível pela força** | ver [[16 - Gu Imortais|Gu Imortais]] |
+| Gu Imortal já refinado por outro | **impossível pela força** | ver [[16 - Gu Imortais\|Gu Imortais]] |
 
 Um Gu órfão que ainda não foi redominado entra num comportamento instintivo padrão — há
 registro de um que repetia indefinidamente a última rota de fuga que o dono lhe ordenara. E

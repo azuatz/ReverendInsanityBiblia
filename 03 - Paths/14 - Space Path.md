@@ -14,6 +14,11 @@ conhecimento: comum
 teleporte, troca de lugar, perfuração de barreiras e portais fixos entre regiões. Para
 entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—` e admite o buraco em vez de preenchê-lo.
+
 ## Filosofia e identidade
 
 Junto com o [[18 - Time Path|caminho do tempo]], o espaço é descrito como **a base do céu e da
@@ -397,4 +402,4 @@ alcança.
 - [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] — o mundo de bolso cujo tamanho este caminho determina.
 - [[04 - As Cinco Regiões|As Cinco Regiões]] e [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] — as paredes regionais e o que custa atravessá-las sem este caminho.
 - [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] — os recintos que marcas de espaço de outro mundo puseram fora do mundo.
-- [[22 - Phantom Path|Phantom Path]] — o parceiro em ocultação de formações e o terceiro melhor recipiente sem forma.
+- [[22 - Phantom Path|Phantom Path]] — o parceiro em ocultação de formações, e o **melhor** recipiente sem forma do mundo: o espaço é o terceiro da fila, atrás dele e da força.

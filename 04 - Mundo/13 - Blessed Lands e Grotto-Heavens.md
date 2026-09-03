@@ -55,12 +55,24 @@ Dentro dela, a energia ambiente é dezenas de vezes mais densa que a do mundo ex
 
 A **grade** de uma terra abençoada é decidida no momento da ascensão do dono e define quase tudo sobre a vida dele dali em diante. As grades formais:
 
-| Grade | Área | Produção anual de energia | Bônus |
+| Grade | Área | Produção anual, em contas de uva verde | Bônus |
 |---|---|---|---|
-| Baixa | até 2.000 km² | 10+ contas | recursos escassos |
-| Média | 2.700 – 4.000 km² | 20+ contas | recursos abundantes |
-| Alta | 4.700 – 6.000 km² | 30+ contas | sobra energia para promover um Gu mortal a Gu Imortal já na ascensão |
-| Super | acima de 6.700 km² | 50+ contas | nasce de uma ascensão com Constituição Extrema; afluente gigante; nasce com dois ou mais Gu Imortais de brinde |
+| Baixa | até 2.000 km² | 10+ contas/ano | recursos escassos |
+| Média | 2.700 – 4.000 km² | 20+ contas/ano | recursos abundantes |
+| Alta | 4.700 – 6.000 km² | 30+ contas/ano | sobra energia para promover um Gu mortal a Gu Imortal já na ascensão |
+| Super | **6.700 – 13.000 km²** | 50+ contas/ano | nasce de uma ascensão com Constituição Extrema; afluente gigante; nasce com dois ou mais Gu Imortais de brinde |
+
+Duas leituras que a tabela não entrega sozinha, e que mudam qualquer conta que se faça com ela:
+
+- **A coluna de produção está em contas de *uva verde*, a denominação de rank 6, e é anual.**
+  A tabela descreve a terra **no momento em que nasce**, e quem acaba de ascender é rank 6.
+  Não misture essas contas com as de tâmara vermelha (rank 7) citadas em outros lugares: uma
+  tâmara vale **cem** uvas verdes, e comparar os dois números sem converter erra por duas
+  ordens de grandeza.
+- **A grade super tem teto, e ele é 13.000 km².** Não é uma categoria aberta. As faixas também
+  têm vãos — nada é dito sobre 2.000 a 2.700 km², nem sobre 4.000 a 4.700, nem sobre 6.000 a
+  6.700 —, porque são valores citados avulsos e não uma escala fechada. Preencha os vãos como
+  quiser.
 
 Esta tabela é reprodução de [[02 - Tabelas de Referência Rápida#9. Grades de blessed land]], que é a
 **fonte única dos números do sistema**. Se algum dia os dois textos divergirem, vale o
@@ -126,11 +138,13 @@ Para escala: a dimensão mais extraordinária documentada na obra passa de **335
 O tempo corre mais depressa dentro do que fora, sempre. A razão **não é atribuída de uma vez na ascensão**: ela cresce junto com a área da terra, por degraus, até estabilizar no teto da grade. É a demonstração mais clara do princípio da caixa acima — a grade é o destino, o fluxo atual é onde a terra chegou até agora.
 
 - terras jovens começam perto de 1:1 e sobem por degraus — 1:6, 1:12, 1:16;
-- uma terra de grade alta comum roda em torno de **1:30**;
-- uma terra nascida de Constituição Extrema chega a **1:38 a 1:40**;
+- uma terra de grade **alta** cujo dono cultiva o caminho do tempo roda a **1:33**;
+- uma terra antiquíssima e enorme, a **1:36**;
+- duas terras de grade **super** documentadas rodam a **1:38** e a **1:46** — e a obra descreve
+  esta última como "o padrão de uma terra abençoada de grade super, nada fora do normal";
 - e a dimensão excepcional citada acima roda a **1:60** — um dia lá fora são dois meses lá dentro.
 
-A faixa **documentada como ordinária** vai de 1:5 a 1:38, conforme [[02 - Tabelas de Referência Rápida#9. Grades de blessed land]]; o 1:60 é a exceção fora de escala, não o topo da tabela. Note ainda que a lista acima descreve o fluxo **típico** de cada patamar, e não uma propriedade travada: conectar a terra ao mundo externo para absorver qi **desacelera** a dilatação, e o parágrafo seguinte mostra que o fluxo pode ser deliberadamente alterado.
+A faixa **documentada como ordinária** vai de **1:5 a 1:46**, conforme [[02 - Tabelas de Referência Rápida#9. Grades de blessed land]]; o 1:60 é a exceção fora de escala, não o topo da tabela. Note ainda que a lista acima descreve o fluxo **típico** de cada patamar, e não uma propriedade travada: conectar a terra ao mundo externo para absorver qi **desacelera** a dilatação, e o parágrafo seguinte mostra que o fluxo pode ser deliberadamente alterado.
 
 **O trade-off é explícito e é a decisão econômica central do domínio:** tempo interno mais rápido significa mais produção de recursos **e desastres mais frequentes**. Desacelerar o tempo com métodos do caminho do tempo adia as provações, mas reduz a produção na mesma proporção. Não existe almoço grátis — existe escolha entre crescer rápido sob bombardeio ou crescer devagar em paz.
 

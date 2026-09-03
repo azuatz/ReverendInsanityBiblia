@@ -79,7 +79,7 @@ mudam tudo:
    [[08 - Attainment|Attainment]] e em [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]].
 9. **Conflito e ressonância entre caminhos são quantificados.** Em um território saturado
    de marcas hostis, um caminho comum perde 50–60% de potência; um caminho "menor" perde
-   apenas 20–39% — a vantagem estrutural de ser pequeno. Dentro do **Rio do Tempo** (a
+   apenas 20–30% — a vantagem estrutural de ser pequeno. Dentro do **Rio do Tempo** (a
    corrente do tempo que atravessa o mundo por baixo da realidade cotidiana, descrita em
    [[17 - Cosmologia#O Rio do Tempo]]), todo caminho que não seja o do tempo cai a menos de 10%. Dentro de um
    campo de batalha criado por um golpe inimigo, o caminho do criador suprime os demais —
@@ -315,27 +315,28 @@ porque separa **potência** de **competência**.
   barra de erudição, e ela é **por caminho**: alguém pode ser grão-mestre da sabedoria e
   completamente comum no refinamento.
 
-A escala tem **oito degraus**, e a lista completa, com o que cada degrau destranca, mora em
+A escala tem **nove degraus**, e a lista completa, com o que cada degrau destranca, mora em
 [[08 - Attainment|Attainment]] — que é a nota dona do assunto. Os números fechados estão em
 [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]]. Para orientar a leitura desta
 pasta, basta guardar a forma da escada:
 
-> comum → **mestre** → quase-grão-mestre → **grão-mestre** → quase-grande-grão-mestre →
-> **grande grão-mestre** → quase-supremo → **supremo grão-mestre**
+> comum → quase-mestre → **mestre** → quase-grão-mestre → **grão-mestre** →
+> quase-grande-grão-mestre → **grande grão-mestre** → quase-supremo → **supremo grão-mestre**
 
 Os quatro degraus em negrito são os patamares que o mundo reconhece e nomeia socialmente;
 os quatro "quase" são degraus reais e nomeados, não aproximações de linguagem — mas ninguém
 se apresenta por eles. Sempre que uma nota desta pasta disser "exige grão-mestre", é a esta
 escada que ela se refere.
 
-> [!warning] Não existe um degrau de "quase-mestre"
-> Uma versão anterior desta nota trazia a escala em **nove** degraus, inserindo um
-> "quase-mestre" entre comum e mestre. Era erro nosso: a obra não nomeia esse degrau, e a
-> inserção deslocava em um a posição de todos os outros, o que desalinhava todos os
-> pré-requisitos enunciados por nome no material ("exige grão-mestre", "mestre para anexar
-> uma terra de nível 6"). A escala de oito degraus acima é a correta. Se você precisar de um
-> degrau de entrada intermediário para o seu jogo, invente-o com liberdade — só não o
-> confunda com cânone.
+> [!warning] Conte os degraus pelo nome, nunca pela posição
+> Uma versão anterior desta nota trazia a escala em **oito** degraus, omitindo o
+> "quase-mestre" entre comum e mestre. Era erro nosso, e ele deslocava em um a posição de
+> todos os degraus seguintes — o que desalinhava os pré-requisitos enunciados por nome no
+> material ("exige grão-mestre", "mestre para anexar uma terra de nível 6"). A obra nomeia
+> o degrau: um cultivador é descrito como *"nem sequer um quase-mestre"*, e há registro de
+> gente que sobe de comum a quase-mestre num único reino de sonho. A escala de nove degraus
+> acima é a correta, e é a mesma de
+> [[08 - Attainment|Attainment]] e de [[02 - Tabelas de Referência Rápida#10. Níveis de attainment]].
 
 Duas consequências importantes:
 
@@ -389,7 +390,7 @@ dos aliados.
   recuperável — portanto disputável.
 - **Que todo Venerável esconde um segundo caminho.** Esta é a informação estratégica mais
   valiosa que existe no mundo, e é justamente a que ninguém tem.
-- **Os números de conflito entre caminhos** (50–60%, 20–39%, menos de 10%) — isso é
+- **Os números de conflito entre caminhos** (50–60%, 20–30%, menos de 10%) — isso é
   conhecimento técnico de imortal, não de mercado.
 - **Que herança tem teto em quase-supremo grão-mestre**, e portanto que nenhuma linhagem,
   por mais rica, produz um supremo grão-mestre sem talento genuíno. Isso desmonta a premissa
@@ -451,8 +452,9 @@ seção em vez de repeti-la.
 
 ## Mapa desta pasta
 
-São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que cobrem outros
-**vinte e cinco**. Este mapa agrupa por **função em jogo** — para que serve cada um numa mesa:
+São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que dão verbete
+próprio a **mais de vinte** outros. Este mapa agrupa por **função em jogo** — para que serve
+cada um numa mesa:
 
 **Caminhos de combate e corpo:** [[03 - Blood Path|Blood Path]] · [[04 - Strength Path|Strength Path]] · [[06 - Transformation Path|Transformation Path]] · [[11 - Sword Path|Sword Path]] · [[10 - Poison Path|Poison Path]] · [[15 - Theft Path|Theft Path]]
 
@@ -462,7 +464,7 @@ São **vinte e cinco** caminhos com nota própria, mais duas notas coletivas que
 
 **Caminhos de infraestrutura:** [[08 - Refinement Path|Refinement Path]] · [[20 - Food Path|Food Path]] · [[19 - Star Path|Star Path]] · [[09 - Formation Path|Formation Path]] · [[17 - Information Path|Information Path]] · [[28 - Painting Path|Painting Path]]
 
-**Caminhos históricos e coletivos:** [[05 - Qi Path|Qi Path]] (o caminho extinto) · [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] (doze caminhos naturais num só verbete cada) · [[29 - Os Demais Caminhos|Os Demais Caminhos]] (os menores, os ramos, o que fracassou e o que nunca nasceu)
+**Caminhos históricos e coletivos:** [[05 - Qi Path|Qi Path]] (o caminho extinto) · [[27 - Os Caminhos Elementais|Os Caminhos Elementais]] (onze caminhos naturais, um verbete cada) · [[29 - Os Demais Caminhos|Os Demais Caminhos]] (os menores, os ramos, o que fracassou e o que nunca nasceu)
 
 > [!note] Existe uma segunda partição dos mesmos caminhos
 > [[00 - Trilha do Jogador|Trilha do Jogador]] reparte esta lista por **camada de conhecimento** — o que

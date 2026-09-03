@@ -14,6 +14,11 @@ conhecimento: comum
 ferem sem cura, que exigem antídoto periódico, e que fazem do envenenador o dono da vida da
 vítima. Para entender o que é um "caminho", veja [[01 - Visão Geral dos Paths|Visão Geral dos Paths]].
 
+> [!important] Como esta nota está marcada
+> Texto normal é **canônico**: a obra afirma. `(ded.)` marca dedução segura a partir do que a
+> obra afirma. `*` marcaria invenção nossa sem base textual — **não há nenhum `*` nesta nota**.
+> Onde a obra não decide, a nota diz `—` e admite o buraco em vez de preenchê-lo.
+
 > [!warning] O que a obra dá e o que ela não dá
 > A obra apresenta **um único Gu Imortal declaradamente deste caminho**, não nomeia um fundador
 > e nunca formula em palavras a filosofia da escola. Nada disso, porém, significa que o caminho
@@ -106,7 +111,7 @@ assim que o caminho se apresenta, e é assim que quase todo mundo no mundo o ent
 
 Mas o veneno da obra não é um efeito que acontece e termina. Ele é uma **substância que se
 acumula** — no corpo de quem toma, no corpo de quem lança, no chão em que a briga
-aconteceu — e a soma dessas acumulações produz quatro fenômenos que a descrição básica não
+aconteceu — e a soma dessas acumulações produz cinco fenômenos que a descrição básica não
 deixa adivinhar.
 
 > **A convenção de confiabilidade desta seção** (e da nota inteira): texto sem marca é o que

@@ -82,7 +82,7 @@ prestigiada e um Gu de nível 4 de balcão não são a mesma compra.
 
 | Estado | O que aconteceu | Efeito |
 |---|---|---|
-| Ferido | rachaduras por combate, por falha de fusão ou por amplificação forçada | rende menos e precisa de reparo caro; ver [[12 - A Morte dos Gu|A Morte dos Gu]] |
+| Ferido | rachaduras por combate, por falha de fusão ou por amplificação forçada | rende menos e precisa de reparo caro; ver [[12 - A Morte dos Gu\|A Morte dos Gu]] |
 | Faminto | subalimentado por muito tempo | **regride de nível**, mantendo a vontade teimosa do nível antigo — o pior negócio possível |
 | Recém-extraído de fóssil | passou séculos auto-selado numa casca de rocha | nasce fraquíssimo e quase sem consciência: **refino trivial**, poder baixo |
 | Adulterado | alterado de propósito por quem o vendeu | ver a segunda metade desta nota |

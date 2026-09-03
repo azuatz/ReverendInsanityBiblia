@@ -180,8 +180,9 @@ declarado de colher e vender quando amadurecessem. Ver
 [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]].
 
 > [!warning] O atalho que torna a lavoura dispensável para um Mestre Gu
-> Existem Gu naturais de rank 1 que **produzem comida diretamente**: basta despejar essência
-> primeva neles e eles crescem — o miolo de uma flor secreta vinho de néctar, e a bolsa de um
+> Existem Gu naturais de rank 1 que **produzem comida diretamente**: basta despejar
+> [[04 - Essência Primordial|essência primordial]] — a energia interna do próprio Mestre Gu —
+> neles e eles crescem — o miolo de uma flor secreta vinho de néctar, e a bolsa de um
 > capim faz brotar arroz perfumado. Um Mestre Gu, portanto, **não depende de agricultura para
 > comer**: ele depende de energia própria.
 >
@@ -289,7 +290,7 @@ uma peça de infraestrutura estratégica, não um talento de cozinheiro.
 **O que se come, na prática**, tem faixa larga:
 
 - **Na vila**: vinho de arroz comum e vinho turvo nas tavernas; o produto premium local é um vinho
-  de bambu verde que chega a duas pedras primevas o jarro.
+  de bambu verde que chega a duas pedras primordiais o jarro.
 - **Na feira nômade do norte**: bolinho de arroz perfumado, chá prensado em tijolo de primeira
   qualidade, e o *kumis* de marca conhecida.
 - **No banquete de cidade**: a obra transcreve um cardápio inteiro de restaurante de luxo —

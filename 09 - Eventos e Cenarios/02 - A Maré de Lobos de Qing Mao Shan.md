@@ -209,9 +209,13 @@ alcateia. Concretamente, ele faz três coisas que nenhuma besta faz:
   atravessam os mesmos cem li.
 - **Escolhe alvos**: não é uma horda solta, é uma inteligência decidindo quem morre primeiro.
 
-**Fase 8 — A queda de uma vila e a concentração.** Uma das três vilas-clã cai, e a maré
-inteira se concentra na seguinte. A partir daqui, os clãs restantes lutam com os aposentados
-realistados e com anciãos de gabinete vestindo armadura.
+**Fase 8 — Uma vila cai, e a maré se concentra.** Esta é a fase em que o cerco deixa de ser
+distribuído: quando uma das três vilas-clã não aguenta, a maré inteira se volta contra a
+seguinte, e a pressão sobre quem sobrou **dobra sem que tenha chegado um lobo a mais**. A partir
+daqui, os clãs restantes lutam com aposentados realistados e com anciãos de gabinete vestindo
+armadura. Na edição registrada pela obra, uma vila cai de fato — mas **qual delas, e se alguma
+cai, é decisão da mesa**: a fase existe para dar a curva de pressão, e o leque completo está em
+[[#Desfechos possíveis]].
 
 **Fase 9 — A intervenção e o rescaldo.** Um rank 5 externo assume o problema. E aqui está a
 regra mais importante do evento para uma mesa: **reis-fera são expulsos, não mortos** — *"afugentar
@@ -285,7 +289,7 @@ portão. Negociar com o clã vizinho a divisão de um vale.
 
 Este é o leque estrutural, para a mesa escolher — não o que a obra registrou.
 
-- **A montanha aguenta.** As três vilas seguram os cercos até a primavera e a maré reflui
+- **Nenhuma vila cai.** As três seguram os cercos até a primavera e a maré reflui
   sozinha por exaustão. Custo: metade da população e o esvaziamento das reservas dos três
   clãs. É o desfecho "vitória" e ainda assim é uma catástrofe.
 - **Uma vila cai e as outras absorvem os sobreviventes.** O mapa político da montanha muda de

@@ -44,6 +44,19 @@ lendo só esta nota.
 > | **Escala de poder** | todas as tribos do mundo local, das que só têm cultivadores mortais às super tribos com rank 8 |
 > | **Quem pode entrar** | qualquer tribo. Na estrada final, só os expertos publicamente reconhecidos — e o teto de vagas é **oitenta e oito** |
 
+> [!warning] A trava canônica deste cenário
+> É a **trava 11** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]] — *o custo proporcional* — e
+> é a mais elegante da obra inteira, porque não exclui ninguém: **cada passo na Estrada da Vida
+> consome força, vontade e essência proporcionalmente à fundação de quem pisa**. A obra é
+> explícita ao dizer que há justiça para todos os que andam ali e que **todos experimentam a
+> mesma dificuldade**. O resultado registrado é que Mestres Gu mortais frequentemente
+> ultrapassam Gu Imortais.
+>
+> No torneio que antecede a estrada há uma segunda trava, mais simples: **só totens podem ser
+> usados em combate**, o que guarda no bolso o arsenal de todo mundo e transforma diferença de
+> patrimônio em diferença de nada.
+
 ## O mundo onde isto acontece
 
 Antes do evento, o lugar — porque metade do valor desta nota está nele.

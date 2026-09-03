@@ -26,6 +26,8 @@ que ela acerta: é ==o que ela não alcança==. Este caso é um fracasso, e o va
 o fracasso **é informação**: o padrão de falhas de um oráculo revela tanto quanto os acertos
 dele.
 
+Um termo aparece o tempo todo aqui e precisa estar claro de saída: a ==[[02 - Abertura|abertura]]== é o órgão sobrenatural que todo cultivador forma dentro do corpo aos quinze anos; quando ele ascende ao patamar imortal, essa abertura vira um **mundo em miniatura** autocontido, com céu, terra e fluxo de tempo próprios — a *abertura imortal*. É justamente por ser um mundo isolado que ela bloqueia adivinhação de fora, que é o eixo deste caso.
+
 ## A situação
 
 Um dos três maiores dedutores de uma região inteira, de **rank 7**, cuja herança de cultivo
@@ -45,7 +47,7 @@ solicitado a localizar a mesma pessoa. Duas vezes ele falha: *não consegui dedu
    dele**. Ele acertou uma das duas pernas por acaso, e a hipótese que faltava era justamente a
    decisiva.
 3. **Corrigir a própria lista, anos depois.** Na segunda vez, ele acrescenta o item que faltava:
-   *toda [[02 - Abertura|abertura imortal]] é um mundo pequeno, isolada do mundo exterior. Eu tenho apenas rank 7,
+   *toda abertura imortal é um mundo pequeno, isolada do mundo exterior. Eu tenho apenas rank 7,
    não é estranho que eu não consiga deduzir.* Desta vez ambas as pernas estavam certas.
 4. **Recusar-se a deduzir por etiqueta.** Antes de tentar, ele registra uma regra social do
    ofício: *vai contra os costumes e as boas maneiras de nós, Imortais do caminho da

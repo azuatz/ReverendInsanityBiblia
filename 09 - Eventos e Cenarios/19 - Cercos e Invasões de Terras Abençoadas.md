@@ -74,6 +74,20 @@ operação.
 **Terceiro, e o mais elegante: a janela da calamidade.** Este merece seção própria, mais
 abaixo, porque é a engrenagem que amarra todo o resto.
 
+> [!warning] A trava canônica deste cenário
+> É a **trava 8** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]] — *o espírito da terra que
+> se autodestrói* — combinada com a **trava 16**, *o poderoso é o alvo*. Um Gu Imortal não toma
+> uma terra abençoada à força porque o espírito dela pode se matar levando o mundo e o tesouro
+> junto, deixando o agressor ferido e sem nada; e violência bruta destrói exatamente aquilo que
+> se veio buscar, porque as defesas do lugar são feitas das marcas do Dao que **formam** o mundo.
+> A doutrina canônica de invasão é, por isso, **desvendar e não arrombar** — o que faz do recurso
+> escasso a perícia, e não a força.
+>
+> A consequência para a mesa é direta: nenhum dos quatro papéis jogáveis desta nota exige vencer
+> um imortal. Segurar trinta minutos, tapar buracos, evacuar e caçar o vazamento são todos
+> trabalhos de gente de rank médio, e o cerco depende deles.
+
 ## A regra que governa tudo: a calamidade é o anúncio e a porta
 
 Toda terra abençoada paga a conta do próprio privilégio. O céu deste mundo trabalha para

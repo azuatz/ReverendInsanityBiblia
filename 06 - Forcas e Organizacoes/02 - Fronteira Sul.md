@@ -118,16 +118,19 @@ cidade; o primeiro ancião supremo governa o clã.
 
 | | |
 |---|---|
-| **Manda quem** | Camada imortal: o **primeiro ancião supremo**, rank 8 — a obra nomeia **Wu Du Xiu**, mulher, no poder por milhares de anos, e depois **Wu Yong**, do caminho do vento. Camada mortal: a líder do clã, **Imperatriz Wu Ji** (*Empress Wu Ji*), rank 5 |
-| **Caminho de casa** | **[[27 - Os Caminhos Elementais\|Vento]]**, entre os imortais; **[[04 - Strength Path\|caminho da força]]**, entre os mortais |
+| **Manda quem** | Camada imortal: o **primeiro ancião supremo**, sempre **rank 8**. Dois nomes ocupam o posto em gerações diferentes e a obra dá os dois: **Wu Du Xiu**, mulher, que governou o clã por milhares de anos, e **Wu Yong**, do caminho do vento. Use um ou outro conforme a época em que a sua campanha se passa. Camada mortal: a líder do clã, **Imperatriz Wu Ji** (*Empress Wu Ji*), rank 5 |
+| **Caminho de casa** | **[[27 - Os Caminhos Elementais\|Vento]]**, entre os imortais. Entre os mortais o clã **detém** a herança do **[[04 - Strength Path\|caminho da força]]** — mas detê-la não é cultivá-la em massa: ver abaixo |
 | **Por que esse caminho** | O clã cultiva muitos caminhos, mas "é no vento que somos mais proficientes, e é por isso que estamos no topo do mundo dos Gu Imortais da Fronteira Sul" — o clã detém a **mais forte herança verdadeira do caminho do vento**. Já o caminho da força veio de fora: existem **três heranças antigas do caminho da força no mundo inteiro**, e o clã Wu ocupou e explorou a única que está na Fronteira Sul. Foi essa herança que o pôs no trono da região |
 | **Porte** | **No mínimo quatro Casas de Gu Imortal** (*Immortal Gu Houses*, fortalezas vivas feitas de dezenas de Gu), uma delas de rank 8. Território grande demais para o número de imortais — o próprio clã reconhece isso como sua maior fraqueza |
 | **Alinhamento** | Caminho correto, e o hegemon dele. Mas com poeira embaixo do tapete: a própria líder mortal mantém um Mestre Gu demoníaco como subordinado |
 | **Território** | Wu Yi Mountain e todo o baixo do "X" formado pelo cruzamento dos rios vermelho e amarelo. Pontos de recurso nomeados: a montanha-cadáver **Corpse Emperor Yu Ding Tian** (habitada por zumbis, produz Gu de zumbi e Gu de qi de zumbi), a **cachoeira venenosa**, o **Desfiladeiro da Nuvem Dourada** (metal e nuvem), a caverna do casulo da inspiração, a cordilheira do sol da primavera, e um dos sete Mount Snails conhecidos da região |
 
-**Como cresceu.** O caminho da força é hoje o caminho dos pobres: na Fronteira Sul inteira,
-segundo a obra, **uma única pessoa fez carreira nele** — a Imperatriz Wu Ji, e mesmo ela só
-conseguiu porque tinha a herança antiga. A história dela é o retrato do clã: quando jovem, a
+**Como cresceu.** Note a diferença, porque ela é fácil de ler errado: o clã Wu **possui** a
+única herança do caminho da força alcançável na região, e foi ela que o pôs no trono — mas
+**possuir não é praticar**. O caminho da força é hoje o caminho dos pobres, e na Fronteira Sul
+inteira, segundo a obra, **uma única pessoa fez carreira nele**: a Imperatriz Wu Ji, e mesmo ela
+só conseguiu porque tinha a herança antiga na mão. O clã guarda um tesouro que quase ninguém
+dentro dele consegue usar — o que é, sozinho, o melhor gancho da ficha. A história dela é o retrato do clã: quando jovem, a
 irmã mais velha lhe tomou o trono; para não ser vista como ameaça, ela cortou fora a própria
 ponte do nariz e se desfigurou, sobreviveu assim por mais de dez anos, e então derrubou a
 irmã e mandou arrancar-lhe os cinco sentidos, deixando-a viva sem poder escolher morrer.

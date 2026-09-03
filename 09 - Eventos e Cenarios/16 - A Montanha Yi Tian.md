@@ -71,6 +71,10 @@ E aí eles descobrem que não podem entrar.
 
 ## A trava, que é a razão de existir deste cenário
 
+É a **trava 1** do cardápio da
+[[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]] — *a zona que destrói quem é
+grande demais* — e é a mais radical de toda a pasta, porque não é uma regra, é uma sentença.
+
 Dentro da zona, **quanto mais fundo um Gu Imortal vai, mais fraco ele fica**. Os membros
 amolecem; a abertura imortal é comprimida por uma força sem forma. O cálculo que a obra registra
 é seco: a abertura imortal seria destruída antes de o imortal dar **cinquenta ou sessenta

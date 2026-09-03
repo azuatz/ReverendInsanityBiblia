@@ -55,9 +55,9 @@ organização-alvo consegue bancar, e dimensiona a fraude um degrau acima disso.
 - **dedução do [[16 - Wisdom Path|caminho da sabedoria]]** — a especialidade que transforma
   raciocínio e adivinhação em poder; um adivinho suficientemente bom localiza a pessoa por trás
   do rosto, e o texto diz sem rodeios que "o disfarce não é onipotente";
-- **a alma sem o corpo** — quando a alma do infiltrado entra num ==[[26 - Dream Path|reino de sonho]]== (um ambiente
+- **a alma sem o corpo** — quando a alma do infiltrado entra num ==reino de sonho== (um ambiente
   mental herdado de um mestre morto, em que só a alma entra e onde se aprende; ver
-  [[49 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]]), ela vai **sem o disfarce**, e
+  [[49 - Explorar um Reino de Sonho|Explorar um Reino de Sonho]] e [[26 - Dream Path|Dream Path]]), ela vai **sem o disfarce**, e
   pode ser identificada ali.
 
 ## A jogada complementar: fazer o anfitrião pagar a infiltração

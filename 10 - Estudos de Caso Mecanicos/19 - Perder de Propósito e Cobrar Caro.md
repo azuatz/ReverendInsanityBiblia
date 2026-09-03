@@ -25,6 +25,8 @@ qualquer jeito ainda tem uma escolha: gastar o que resta tentando virar o jogo, 
 que resta **destruindo o patrimônio do vencedor**. Este é um dos poucos casos da pasta que
 termina em derrota — e é por isso que ele ensina tanto.
 
+(A ==[[04 - Essência Primordial|essência primordial]]== é a energia interna que todo cultivador gasta para acionar seus Gu; ficar sem ela é ficar desarmado, e é a derrota que este caso descreve.)
+
 ## A situação
 
 Um duelo de arena com regra de espólio: *segundo as regras, o vencedor tem o direito de exigir
@@ -44,7 +46,7 @@ O arsenal do favorito, que é o que interessa: **quatro** Gu de garra flamejante
    fingimento dela*.
 2. **Provocar o inimigo a comprometer tudo.** Diante da aparente vantagem, ele **acionou as
    quatro garras de uma vez** e fundiu as duas serpentes num único dragão de fogo. O custo de
-   comprometer o arsenal é registrado: *a [[04 - Essência Primordial|essência primordial]] dele sofreu um golpe severo, o
+   comprometer o arsenal é registrado: *a essência primordial dele sofreu um golpe severo, o
    mar primordial dentro da abertura flutuou rapidamente enquanto o nível do mar dourado caía
    abruptamente*. Antes disso, ele já gastara **vinte por cento** da reserva só para devolver
    as serpentes ao tamanho e à potência de pico.

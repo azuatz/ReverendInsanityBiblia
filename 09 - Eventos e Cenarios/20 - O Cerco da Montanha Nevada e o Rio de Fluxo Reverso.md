@@ -28,6 +28,19 @@ valer alguma coisa==.
 > e nada foi preenchido. Apagar tudo o que está marcado com `*` devolve este documento a cem
 > por cento canônico.
 
+> [!warning] As duas travas canônicas desta nota
+> São a **trava 5** e a **trava 6** do cardápio da
+> [[01 - Visão Geral dos Eventos#As travas|Visão Geral dos Eventos]], e elas entram em sequência.
+> Primeiro, *a formação que prende cada um no seu andar*: a super formação teleporta o invasor à
+> força para o pico compatível com o rank dele, e **o senhor de cada pico não pode sair do seu —
+> inclusive o rank 8, que fica proibido de descer para esmagar quem é fraco**. Depois, *o lugar
+> onde nada funciona*: quando a formação colapsa, todo mundo cai no rio, nenhum Gu funciona,
+> nenhuma abertura abre, e a briga vira corpo a corpo.
+>
+> Rodadas em sequência, as duas dizem à mesa a mesma coisa por caminhos opostos: **o inimigo mais
+> forte do mundo está em campo e não vale nada contra vocês** — primeiro porque não pode
+> encostar, depois porque não tem com o que encostar.
+
 Esta é a nota mais diretamente jogável da faixa imortal, e a razão é simples: os dois cenários
 foram desenhados — dentro da ficção, por personagens que sabiam o que estavam fazendo — para
 **tirar a vantagem de quem tem mais poder bruto**. É exatamente o problema que uma mesa

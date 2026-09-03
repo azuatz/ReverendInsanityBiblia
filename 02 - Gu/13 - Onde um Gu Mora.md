@@ -10,7 +10,7 @@ aliases:
   - Gu storage
   - Gu outside the aperture
 status: verificado-no-texto
-fontes: ["cap. 8", "cap. 41", "cap. 57", "cap. 62", "cap. 70", "cap. 75", "cap. 159", "cap. 161", "cap. 186", "cap. 202", "cap. 204", "cap. 222", "cap. 273", "cap. 283", "cap. 313", "cap. 346", "cap. 397", "cap. 424", "cap. 459", "cap. 500", "cap. 582", "cap. 650", "cap. 671", "cap. 969", "cap. 1027", "cap. 1058", "cap. 1077", "cap. 1094", "cap. 1252", "cap. 1477", "cap. 1750"]
+fontes: ["cap. 8", "cap. 41", "cap. 57", "cap. 62", "cap. 70", "cap. 75", "cap. 159", "cap. 161", "cap. 186", "cap. 202", "cap. 204", "cap. 222", "cap. 273", "cap. 283", "cap. 313", "cap. 346", "cap. 397", "cap. 424", "cap. 459", "cap. 500", "cap. 582", "cap. 650", "cap. 671", "cap. 969", "cap. 1027", "cap. 1058", "cap. 1077", "cap. 1094", "cap. 1252", "cap. 1477", "cap. 1750", "cap. 5", "cap. 6", "cap. 20", "cap. 22", "cap. 29", "cap. 132", "cap. 387", "cap. 398-405", "cap. 575"]
 conhecimento: comum
 ---
 
@@ -64,6 +64,24 @@ Feras selvagens, que não têm abertura, pagam exatamente esse preço: os Gu que
 ficam **soltos na carne**, localizáveis por Gu de investigação e capturáveis assim que a
 fera morre.
 
+**Onde exatamente, no corpo.** A abertura fica **três polegadas abaixo do umbigo, entre os dois
+rins**, e não divide espaço com os órgãos: não aparece em dissecação e não pode ser alcançada
+por uma lâmina. Por dentro, é uma esfera com um mar de essência no fundo e um "céu" vazio acima
+dele — e é nesse céu que os Gu guardados **pairam**, imóveis, enquanto não são chamados. Gu
+aquáticos ficam boiando na superfície do mar. Um verme do licor solto ali dentro nada, mergulha
+e se espreguiça na água como quem toma banho quente. O interior está descrito em
+[[02 - Abertura#Por dentro: o que o cultivador vê quando "olha" para a própria abertura|Abertura]].
+
+**O dono sente que eles estão lá?** Não. A obra **nunca descreve peso, coceira, calor, pressão
+ou qualquer sensação corporal** associada a carregar Gu dentro de si. A prova mais eloquente é
+pelo avesso: um Mestre Gu experiente andou com um Gu que um inimigo havia plantado secretamente
+no próprio antebraço e **só descobriu quando lhe contaram**. Se o dono quiser saber o que tem
+guardado, ele faz o mesmo gesto de sempre — vira a atenção para dentro e olha.
+
+A única exceção é a sensação de **excesso**: um Gu de rank muito acima do seu pressiona a
+abertura por dentro, continuamente, e essa pressão é sentida e temida. É o assunto da seção
+"A pressão", mais abaixo.
+
 ### O corpo: o Gu como tatuagem
 
 Esta é a parte que quase todo resumo do sistema esquece, e é ela que dá ao mundo sua
@@ -86,6 +104,26 @@ marca na pele.** Os casos documentados são específicos e valem como imagem:
 E há um grau a mais: alguns Gu não ficam *sobre* o corpo, eles **viram** o corpo. Uma erva
 de audição, ao ser refinada, passou a ser **uma das orelhas do dono** e, em condições
 normais, nem aparece.
+
+#### Como a marca é, de perto
+
+Não é metáfora e não é aura: é **desenho colorido na pele**, com a forma do próprio Gu, do
+tamanho de uma tatuagem pequena. Uma lua crescente azul. Uma estrela de cinco pontas. Uma
+lanterna vermelha na língua. Dois raios nas costas. Uma pérola vermelha no peito. Uma insígnia
+de escamas cobrindo o dorso do ombro à cintura. Um diamante de oito faces enfiado no antebraço,
+projetando através da carne uma luz azul semitransparente e sinistra.
+
+Três propriedades fazem dela uma mecânica, e não um enfeite:
+
+1. **Ela anda.** A marca não fica onde foi posta: o dono a **move pelo corpo com um pensamento**,
+   e ela desliza pela pele até onde for útil. A cena canônica é um ancião abrindo a mão para os
+   alunos verem, e a lua crescente **descendo pelo braço dele até o centro da palma** antes do
+   golpe. Um mesmo Gu de luar aparece, em momentos diferentes, na testa, no braço, na palma e na
+   língua.
+2. **Ela acende.** Ao receber essência, a marca **brilha** com a cor do efeito — forte o
+   bastante para ser vista em pleno dia, "como se a mão estivesse concha de luar".
+3. **Ela é pública.** Coberta pela roupa, some; de manga arregaçada, é ficha de personagem
+   exposta.
 
 Duas consequências importam:
 
@@ -176,6 +214,31 @@ poder crescer.
 | Abertura morta (cultivador-zumbi) | suporta **mais** pressão que uma viva, mas se despedaça mais depressa quando cede | canônico |
 | Segundo Gu Imortal numa abertura mortal | impossível | canônico |
 | Número exato de Gu por nível de abertura | — | a obra **nunca** dá um número; qualquer tabela de "slots por rank" seria `*` invenção nossa |
+
+## Entrar e sair: dói? demora?
+
+Três casos, e eles são radicalmente diferentes — vale separá-los, porque a resposta muda a
+mecânica.
+
+**O seu próprio Gu, indo e voltando: instantâneo e indolor.** Um Gu chamado para fora sai da
+abertura como um risco de luz e atravessa o ar; guardado de volta, some. A obra descreve isso
+dezenas de vezes e **nunca menciona dor, esforço, tempo de espera ou qualquer sensação**. A
+palavra que ela usa é sempre a mesma: *com um pensamento*. Um Mestre Gu chegou a soltar mais de
+oitocentos Gu da própria abertura numa sequência, e o único custo registrado foi a atenção
+necessária para dirigi-los. Guardar de volta é igualmente trivial — e é a manobra de segurança
+padrão, porque um Gu dentro da abertura **para de vazar aura** e fica indetectável.
+
+**O Gu que outra pessoa plantou em você: praticamente irremovível.** Aqui está o contraste, e ele
+é brutal. Um Gu de rastreamento plantado às escondidas no antebraço de um cultivador não podia
+ser retirado por ele de jeito nenhum. As duas únicas saídas que a obra lista são: **quem plantou
+retirar pessoalmente**, ou o alvo **decepar o próprio antebraço** — e ele considera seriamente a
+segunda. Existiam métodos para desfazer aquilo, mas exigiam longa preparação, tempo que ele não
+tinha. Um Gu de escravidão plantado em alguém obedece à mesma lógica: quem o plantou controla.
+
+**O Gu de um cadáver: extrai-se com a mão.** Espólio é trabalho físico e imediato — o vencedor
+retira o Gu do corpo do morto e o guarda. Mas só vale para o que estava alojado em carne que
+sobreviveu: um Gu que morava no crânio de alguém morre junto com a cabeça. Ver
+[[10 - Espólio de Gu|Espólio de Gu]].
 
 ## Guardar mal denuncia você
 

@@ -18,6 +18,173 @@ conhecimento: comum
 uma vez por ano, a cidade-mercado com portões vigiados, o leilão, e a aposta de pedra — e
 em cada uma delas ==o acesso importa mais que o dinheiro==.
 
+## Como é comprar, fisicamente
+
+Antes das camadas e das regras, a cena. Esta seção existe para que a designer consiga
+**encenar uma compra em voz alta**: onde os bichos ficam, em que recipientes, como o
+comprador examina um antes de decidir, e como o dinheiro muda de mãos. Tudo o que segue é
+descrição literal da obra; o que ela não descreve está dito como tal.
+
+### A loja de Gu por dentro
+
+Não existe vitrine. Não existe vidro em lugar nenhum deste mundo — procuramos, e nem
+vitrine, nem frasco, nem lente de aumento aparecem em toda a obra. O que existe é o
+**balcão**.
+
+**A sala de guarda de Gu** (o modelo de "estoque", numa academia de clã) é o interior mais
+completo que a obra dá: uma sala **sem janelas**, com apenas uma **pequena clarabóia no
+teto**, e as quatro paredes tomadas por **nichos quadrados abertos na alvenaria**, uns
+grandes, outros pequenos. Dentro dos nichos ficam os recipientes, e dentro dos recipientes,
+os Gu.
+
+**A loja de varejo** é um cômodo com um balcão comprido e uma **gaveta** debaixo dele. O
+freguês põe a pedra primordial sobre o balcão e diz o que quer; o lojista pega a pedra,
+abre a gaveta, tira um **saquinho de papel** e o entrega dizendo a fórmula do ofício:
+*"dez pétalas, nem uma a menos — confira, por favor."*
+
+**A loja grande é vertical, e o andar é o preço.** A loja de Gu mais bem descrita da obra é
+uma casa-árvore de três pavimentos: **o primeiro andar vende Gu de rank 1, o segundo vende
+rank 2, o terceiro vende rank 3**. Quanto mais alto se sobe, menos exemplares há e mais caro
+fica cada um. É um sistema de sinalização perfeito e não precisa de placa nenhuma.
+
+**A barraca de feira** é uma **tenda grande e colorida** — há tendas vermelhas, azuis, verdes
+e amarelas, de formatos e tamanhos diferentes, montadas em volta da vila quando a caravana
+chega. Dentro, **três fileiras de balcões** de cada lado; sobre os balcões, a mercadoria; e
+**atrás do balcão, um atendente a cada poucos metros**, homens e mulheres — reconhecíveis
+pelo **cinto verde na cintura**, que revela que não são pessoas comuns, e sim Mestres Gu de
+rank 1. Nas pontas mais baratas, a mercadoria fica **empilhada uma sobre a outra**, e o
+próprio texto compara a cena às fileiras de legumes e frutas de um mercado.
+
+> [!note] Para o design
+> Guarde estas duas imagens, que resolvem sozinhas a estética comercial do cenário: **a
+> parede de nichos** (não prateleira, não vitrine: buracos quadrados na alvenaria, cada um
+> com um pote dentro) e **o andar que é o preço**. Nenhuma das duas exige regra, e as duas
+> juntas fazem qualquer loja parecer daquele mundo.
+
+### Em que os Gu ficam
+
+Um Gu é um bicho vivo. A obra resolve o problema de expô-lo à venda com quatro tipos de
+recipiente, todos citados no mesmo cômodo:
+
+| Recipiente | Observação |
+|---|---|
+| **Pote de pedra** | o mais comum |
+| **Pote de jade** | para os mais valiosos |
+| **Gaiola de capim trançado** | para os que precisam de ar |
+| **Louça de porcelana** | idem |
+
+Para o transporte e para as peças caras, há dois recursos a mais:
+
+- **A caixa.** Um Gu valioso viaja numa **caixinha de jade** ou numa **caixa de madeira**, e
+  a etiqueta de entrega é **oferecê-la com as duas mãos**. Dentro da caixa de jade, às vezes,
+  há ainda uma **placa de jade verde translúcida com o Gu selado dentro dela** — a peça é
+  visível através do jade, mas inacessível.
+- **O Gu que guarda outro Gu.** Existe um Gu de armazenamento cuja função é exatamente essa:
+  ele **sela outros Gu e os põe em sono profundo** para que possam ser guardados sem morrer,
+  e o resultado é descrito como uma peça presa dentro de um **âmbar bonito**. É o
+  equivalente, neste mundo, do estojo forrado de veludo.
+
+E há a solução que a natureza dá sozinha, e que sustenta a aposta de pedra: um Gu que fica
+sem comida pode **hibernar e se autosselar**. O brilho do corpo dele se apaga, ele deixa de
+ser cristalino e **vira uma pedra cinzenta com uma casca de rocha por fora** — ou, conforme a
+espécie, se enrola num **casulo branco** e dorme dentro dele.
+
+### Como se examina um Gu antes de comprar
+
+Aqui está a lacuna mais reveladora da obra, e ela é boa notícia para uma mesa: **a avaliação
+é totalmente tátil e experiencial, nunca instrumental**. Não existe lupa, não existe
+aparelho, não existe teste de laboratório. O que existe é a mão e o histórico do sujeito.
+
+Numa casa de aposta de pedra, a cena é esta: vários Mestres Gu de pé diante dos balcões, uns
+**observando meticulosamente** as rochas expostas, outros **pegando o fóssil e esfregando-o
+na mão para sentir**. E, enquanto examinam, conversam em voz alta — o texto registra as
+frases, que servem de modelo direto para um mestre de jogo interpretar um NPC avaliador:
+
+> *"Esta rocha, o ouro roxo está pontilhado como estrelas, mas ela é chata feito panqueca; não
+> tem sapo-de-pele-de-lama nenhum aí dentro."*
+> *"Esta tem uma cor de ouro roxo impressionante, mas é só do tamanho de um punho…"*
+> *"Este fóssil de ouro roxo é grande, mas a superfície é lisa demais, e a pele do sapo é
+> áspera e irregular; evidentemente não é este."*
+
+A razão de o exame ser tão precário é declarada: quando um Gu hiberna e vira fóssil natural,
+ele fica **indetectável pela maioria dos métodos de detecção do mundo**, e os métodos que
+restam são grosseiros a ponto de **matar na hora** o bicho enfraquecido lá dentro. Sobram
+palpite, experiência e sorte.
+
+Onde há mais dinheiro, contrata-se perícia humana em vez de aparelho. Uma casa grande anuncia
+os próprios **mestres dissecadores** por nome e por currículo — "temos o Mestre Duan, que se
+especializa em dissecar com ácido, com mais de cinquenta anos de experiência" —, e o
+argumento de venda é técnico: para pedra estelar usa-se magnetismo, para outra usa-se ácido,
+e **o método errado é um golpe fatal** no Gu adormecido.
+
+**A verificação de autenticidade não é feita antes da compra: é feita depois, em público.** A
+cena documentada de fraude é um comprador voltando à feira no dia seguinte com o bicho na
+mão erguida, **gritando para a multidão** que o mercador lhe vendeu um Gu falso por
+duzentas e cinquenta pedras e que, ao chegar em casa para refinar, descobriu que era um verme
+gordo e fedorento comum. **O tribunal é a praça.**
+
+> [!warning] Falsificação de Gu existe e é uma indústria
+> A obra registra um falsificador profissional conhecido pelo apelido de "Mestre
+> Falsificador", que despejou no mercado grandes quantidades de pedras de aposta falsas —
+> e teve mandados de captura emitidos por quase todos os clãs grandes da região por causa
+> disso. Num caso mais sofisticado, apareceram no mercado **Gu falsos idênticos aos
+> verdadeiros, que funcionavam de verdade**: usados, produziam o mesmo efeito. Só depois de
+> algum tempo é que se revelavam e **se autodetonavam**, com prejuízo enorme para o
+> comprador.
+>
+> Para uma mesa isso é ouro: a fraude perfeita neste mundo não é a que falha no teste, é a
+> que **passa no teste e só falha depois**. E como não há instrumento de verificação, a única
+> defesa real é a reputação do vendedor.
+
+### Como se paga, e quem confere
+
+O pagamento é contado e pesado **na hora, na frente de todo mundo**.
+
+- O dinheiro chega em **sacos cheios até a boca, de cem pedras cada**. Quem recebe **pesa
+  cada saco na mão** e confere.
+- A entrega grande é simultânea e pública: há cena de um vendedor **transferindo a mercadoria
+  ao comprador diante da multidão** e recebendo, no mesmo gesto, cinco sacos pesados.
+- O balcão de qualquer estabelecimento sério traz papel, **pincel, pedra de tinta e um
+  ábaco**. A contabilidade é escrita em **papel de bambu de tom verde-claro**, mais
+  quebradiço que o papel comum e escolhido por aguentar o clima úmido.
+- Não existe recibo de compra no varejo — **a conferência imediata é o recibo**. Existe, sim,
+  documento escrito para **dívida**: um empréstimo se registra em papel escrito na hora e
+  **assinado com a impressão digital** do devedor.
+- E existe a carteira viva: um Gu de armazenamento especializado em dinheiro, uma esfera
+  translúcida com a figura de um velho feito de nuvens dentro, cuja **expressão muda conforme
+  o saldo** — ele sorri quando há muitas pedras e chora quando há poucas. Quando o Gu troca de
+  dono, a nuvem simplesmente **vira o rosto e passa a sorrir para o novo proprietário**.
+
+### O barulho
+
+Um mercado deste mundo é, antes de tudo, **um lugar barulhento e cheirando a coisas**.
+Descrição literal: uma mistura enorme de barraquinhas no chão, **cheiros diferentes entrando
+no nariz**, gritaria e barganha por todo lado, e o freguês andando **quase ombro a ombro**
+com quem passa.
+
+E os pregões, que a obra registra palavra por palavra e que servem de fala pronta:
+
+> *"Venham ver, carne de bicho abatida hoje!"* · *"Leitelho, leitelho perfumado e doce…"* ·
+> *"Só restam dez peças de roupa, queima de estoque!"* · *"Venham provar o bolo de arroz
+> perfumado."* · *"Chá, chá, tijolo de chá da melhor qualidade!"* · *"O kumis da família Ah
+> Su, marca de dez anos — quem beber vai saber."* · *"Gu do Qi Dourado, só cinquenta pedras
+> primordiais!"*
+
+E, no meio disso, a fila de barracas inclui coisas que nenhum mercado nosso venderia: numa
+praça, **grandes gaiolas de madeira cheias de gente**, com Mestres Gu especializados fazendo
+a guarda do lado de fora, enquanto um homem gordo grita a plenos pulmões o preço do lote.
+
+Duas notas de ambiente que mudam o comportamento dos jogadores:
+
+- **Nas zonas comerciais das cidades-clã, brigar é proibido** — e a regra é enunciada com
+  orgulho por quem manda ("mesmo que outro clã venha aqui, não pode fazer nada"). A praça é
+  território neutro por decreto, e essa é a única razão pela qual inimigos declarados se
+  cruzam nos corredores sem se matar.
+- **A cidade grande é dividida em zonas temáticas anunciadas**, e o guia as apresenta uma a
+  uma: zona de combate de Gu, zona de refino por procuração, zona de leilões, zona de arena
+  com mais de oitenta palcos de luta. Entrar custa dez pedras por pessoa, cobradas pela
+  guarda no portão.
+
 ## As camadas do comércio
 
 ### 1. Varejo local e caravanas

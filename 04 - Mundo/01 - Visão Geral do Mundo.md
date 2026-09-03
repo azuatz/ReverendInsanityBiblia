@@ -101,24 +101,24 @@ Estes são os segredos estruturais do cenário. Um personagem só descobre qualq
 
 | Nota | O que cobre | Nível |
 |---|---|---|
-| [[02 - A Filosofia do Mundo|A Filosofia do Mundo]] | **O tom**: a lei da selva como tese declarada, a ausência de justiça cósmica, o karma que não é justiça, o que as pessoas deste mundo querem da vida | comum |
-| [[04 - As Cinco Regiões|As Cinco Regiões]] | Geografia, cultura e política de cada região; as barreiras regionais | comum |
-| [[05 - Atlas das Cinco Regiões|Atlas das Cinco Regiões]] | **O mapa físico**: terreno, clima, lugares com nome, fauna, flora e o que se extrai do chão de cada região — a nota de consulta na hora de descrever um lugar | comum |
-| [[06 - O Subsolo|O Subsolo]] | **O andar de baixo do mapa**: a caverna com a nascente dentro que explica por que cada vila existe onde existe, quem minera neste mundo, e as duas formações subterrâneas de escala continental | comum |
-| [[07 - O Relógio do Mundo|O Relógio do Mundo]] | **O cotidiano físico do tempo**: o calendário e os meses, as horas do dia, o sol, a lua e as estações, o que faz o clima mudar — e a regra estranha de que quase todo desastre deste mundo tem culpado | comum |
-| [[08 - Escala, Distâncias e Viagem|Escala, Distâncias e Viagem]] | O tamanho do mundo em números: a unidade de distância, quanto tempo leva ir de um lugar a outro, os meios de transporte de cada rank, o custo e o risco da estrada | comum |
-| [[09 - As Plantas e os Bichos Comuns|As Plantas e os Bichos Comuns]] | **A natureza ordinária**: mato, lavoura, javali, montaria, rebanho e comida — a camada não-mágica do mundo, e por que ela sustenta a mágica | comum |
-| [[11 - O Selvagem, as Ruínas e as Zonas Proibidas|O Selvagem, as Ruínas e as Zonas Proibidas]] | **O que separa o seguro do selvagem**: o rank que dá licença para sair da vila, os cinco sentidos de "zona proibida", e por que uma ruína continua perigosa mil anos depois | comum |
-| [[17 - Cosmologia|Cosmologia]] | Os dois céus, os nove céus imemoriais, o Rio do Tempo, as Earth Trenches, a fronteira do mundo | especializado / segredo |
-| [[18 - Lugares Fora das Cinco Regiões|Lugares Fora das Cinco Regiões]] | O que existe fora do mapa oficial, tratado como endereços visitáveis: o interior dos dois céus, os mundos fragmentados, os trechos do Rio do Tempo, os domínios reclusos de céu e terra, o andar subterrâneo | especializado / segredo |
-| [[15 - Vontade dos Céus|Vontade dos Céus]] | A lei impessoal × a vontade estratégica; quando o céu age e como se defender dele | segredo |
-| [[16 - Fate Gu|Fate Gu]] | O objeto que impõe destino; seu estado danificado; quem escapa dele | segredo |
-| [[19 - Tribunal Celestial|Tribunal Celestial]] | A instituição suprema: formação, ingresso, exclusões, arsenal e projeto de longo prazo | especializado / segredo |
-| [[12 - Lendas de Ren Zu|Lendas de Ren Zu]] | A mitologia fundadora tratada como manual de regras do mundo | comum |
-| [[10 - Bestas Gu e Reis Fera|Bestas Gu e Reis Fera]] | A fauna: onde os Gu selvagens nascem, a hierarquia de reis fera e as marés de bestas | comum |
-| [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] | Os mundos pequenos privados: grades, espíritos da terra, tempo próprio, conquista, anexação | especializado |
-| [[14 - Viver Dentro da Abertura Imortal|Viver Dentro da Abertura Imortal]] | Como é a vida *por dentro* de um mundo privado: moradores, economia doméstica, rotina | especializado |
-| [[03 - As Duas Eras de um Mestre Gu|As Duas Eras de um Mestre Gu]] | **Ambientação e escala**: o mundo mortal e o mundo imortal como dois cenários distintos; o patamar de poder das organizações; onde os imortais moram e o que fazem | misto |
+| [[02 - A Filosofia do Mundo\|A Filosofia do Mundo]] | **O tom**: a lei da selva como tese declarada, a ausência de justiça cósmica, o karma que não é justiça, o que as pessoas deste mundo querem da vida | comum |
+| [[04 - As Cinco Regiões\|As Cinco Regiões]] | Geografia, cultura e política de cada região; as barreiras regionais | comum |
+| [[05 - Atlas das Cinco Regiões\|Atlas das Cinco Regiões]] | **O mapa físico**: terreno, clima, lugares com nome, fauna, flora e o que se extrai do chão de cada região — a nota de consulta na hora de descrever um lugar | comum |
+| [[06 - O Subsolo\|O Subsolo]] | **O andar de baixo do mapa**: a caverna com a nascente dentro que explica por que cada vila existe onde existe, quem minera neste mundo, e as duas formações subterrâneas de escala continental | comum |
+| [[07 - O Relógio do Mundo\|O Relógio do Mundo]] | **O cotidiano físico do tempo**: o calendário e os meses, as horas do dia, o sol, a lua e as estações, o que faz o clima mudar — e a regra estranha de que quase todo desastre deste mundo tem culpado | comum |
+| [[08 - Escala, Distâncias e Viagem\|Escala, Distâncias e Viagem]] | O tamanho do mundo em números: a unidade de distância, quanto tempo leva ir de um lugar a outro, os meios de transporte de cada rank, o custo e o risco da estrada | comum |
+| [[09 - As Plantas e os Bichos Comuns\|As Plantas e os Bichos Comuns]] | **A natureza ordinária**: mato, lavoura, javali, montaria, rebanho e comida — a camada não-mágica do mundo, e por que ela sustenta a mágica | comum |
+| [[11 - O Selvagem, as Ruínas e as Zonas Proibidas\|O Selvagem, as Ruínas e as Zonas Proibidas]] | **O que separa o seguro do selvagem**: o rank que dá licença para sair da vila, os cinco sentidos de "zona proibida", e por que uma ruína continua perigosa mil anos depois | comum |
+| [[17 - Cosmologia\|Cosmologia]] | Os dois céus, os nove céus imemoriais, o Rio do Tempo, as Earth Trenches, a fronteira do mundo | especializado / segredo |
+| [[18 - Lugares Fora das Cinco Regiões\|Lugares Fora das Cinco Regiões]] | O que existe fora do mapa oficial, tratado como endereços visitáveis: o interior dos dois céus, os mundos fragmentados, os trechos do Rio do Tempo, os domínios reclusos de céu e terra, o andar subterrâneo | especializado / segredo |
+| [[15 - Vontade dos Céus\|Vontade dos Céus]] | A lei impessoal × a vontade estratégica; quando o céu age e como se defender dele | segredo |
+| [[16 - Fate Gu\|Fate Gu]] | O objeto que impõe destino; seu estado danificado; quem escapa dele | segredo |
+| [[19 - Tribunal Celestial\|Tribunal Celestial]] | A instituição suprema: formação, ingresso, exclusões, arsenal e projeto de longo prazo | especializado / segredo |
+| [[12 - Lendas de Ren Zu\|Lendas de Ren Zu]] | A mitologia fundadora tratada como manual de regras do mundo | comum |
+| [[10 - Bestas Gu e Reis Fera\|Bestas Gu e Reis Fera]] | A fauna: onde os Gu selvagens nascem, a hierarquia de reis fera e as marés de bestas | comum |
+| [[13 - Blessed Lands e Grotto-Heavens\|Blessed Lands e Grotto-Heavens]] | Os mundos pequenos privados: grades, espíritos da terra, tempo próprio, conquista, anexação | especializado |
+| [[14 - Viver Dentro da Abertura Imortal\|Viver Dentro da Abertura Imortal]] | Como é a vida *por dentro* de um mundo privado: moradores, economia doméstica, rotina | especializado |
+| [[03 - As Duas Eras de um Mestre Gu\|As Duas Eras de um Mestre Gu]] | **Ambientação e escala**: o mundo mortal e o mundo imortal como dois cenários distintos; o patamar de poder das organizações; onde os imortais moram e o que fazem | misto |
 
 **Sugestão de ordem de leitura desta pasta.** A pasta cresceu e passou a ter quatro movimentos distintos; vale lê-la nessa ordem, porque cada um deles pressupõe o anterior.
 

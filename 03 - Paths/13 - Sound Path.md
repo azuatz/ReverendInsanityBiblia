@@ -137,9 +137,9 @@ informação, não acidente.
 | **A versão melhorada dele** | "Muitas vezes mais forte" que a anterior; contra ela, mesmo um nível 8 do caminho ficou *sem opções* |
 | **O Rio do Tempo** | Onde a densidade de marcas de tempo é máxima, os golpes sonoros caem para **menos de dez por cento** do poder original. Um praticante puro de som **não tem como escapar de lá** |
 | **[[27 - Os Caminhos Elementais\|Vento]] com domínio de imitação** | Um praticante de vento capaz de imitar outros caminhos conseguia *usar métodos de vento para enfraquecer os efeitos* do golpe sonoro — mesmo tendo domínio **comum** no caminho do som |
-| **[[16 - Wisdom Path|Sabedoria]] imitando som** | Usada para *limpar os arredores* do efeito sonoro |
+| **[[16 - Wisdom Path\|Sabedoria]] imitando som** | Usada para *limpar os arredores* do efeito sonoro |
 | **Armadura de madeira** | *O golpe sonoro pousou sobre a armadura de madeira e as **ondas sonoras foram completamente absorvidas*** |
-| **Roubar o Gu-núcleo durante a ativação** | Vulnerabilidade genérica de golpes assassinos, mas exposta aqui: *o meu golpe não **falharia** na ativação, causando-me contragolpe e ferimentos graves?* Ver [[15 - Theft Path|Theft Path]] |
+| **Roubar o Gu-núcleo durante a ativação** | Vulnerabilidade genérica de golpes assassinos, mas exposta aqui: *o meu golpe não **falharia** na ativação, causando-me contragolpe e ferimentos graves?* Ver [[15 - Theft Path\|Theft Path]] |
 | **Velocidade pura** | Uma Casa de Gu Imortal rápida demais anula o golpe de separação e obriga o praticante a lutar de longe |
 
 ## A camada escondida

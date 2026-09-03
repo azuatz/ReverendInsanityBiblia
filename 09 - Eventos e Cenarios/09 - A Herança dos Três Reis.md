@@ -223,8 +223,8 @@ Concretamente, pelo que se sabe dos três:
 
 | Rei | Chave de entrada | O que ele era | O que deixou |
 |---|---|---|---|
-| **Rei do cão** | Gu de escravização de cães, rank 1 | mestre do [[07 - Enslavement Path|caminho da escravização]] | ao menos **três** Gu de escravização de rank 5 — com eles se domina um rei-fera de miríade e se comanda um exército |
-| **Rei do grou** | Gu de grou de papel, rank 2 | mestra do [[08 - Refinement Path|refino]] | um conjunto próprio de Gu de **informação**, criados por ela a partir de um Gu vulgar de rank 2 |
+| **Rei do cão** | Gu de escravização de cães, rank 1 | mestre do [[07 - Enslavement Path\|caminho da escravização]] | ao menos **três** Gu de escravização de rank 5 — com eles se domina um rei-fera de miríade e se comanda um exército |
+| **Rei do grou** | Gu de grou de papel, rank 2 | mestra do [[08 - Refinement Path\|refino]] | um conjunto próprio de Gu de **informação**, criados por ela a partir de um Gu vulgar de rank 2 |
 | **Rei do ovo** | Gu de ovo explosivo, rank 1 | explosão pura | — a obra não detalha |
 
 E, por baixo dos três, o prêmio que ninguém esperava: o lugar **é uma terra abençoada de Gu

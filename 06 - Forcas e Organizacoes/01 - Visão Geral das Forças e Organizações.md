@@ -43,8 +43,8 @@ procurar na errada custa tempo:
 
 | Se a sua pergunta é… | Vá para |
 |---|---|
-| **"O que faz de uma organização uma grande força?"** — o critério, a escada de porte, como as forças se relacionam, o que dispara guerra | [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]], na pasta Sociedade |
-| **"Como um clã funciona por dentro?"**, "como se entra numa seita?", "o que significa demoníaco?" | [[02 - Clãs\|Clãs]], [[03 - Seitas e Academias\|Seitas e Academias]], [[06 - Caminho Correto e Caminho Demoníaco|Caminho Correto e Caminho Demoníaco]] |
+| **"O que faz de uma organização uma grande força?"** — o critério, a escada de porte, como as forças se relacionam, o que dispara guerra | [[13 - As Grandes Forças do Mundo\|As Grandes Forças do Mundo]], na pasta Sociedade |
+| **"Como um clã funciona por dentro?"**, "como se entra numa seita?", "o que significa demoníaco?" | [[02 - Clãs\|Clãs]], [[03 - Seitas e Academias\|Seitas e Academias]], [[06 - Caminho Correto e Caminho Demoníaco\|Caminho Correto e Caminho Demoníaco]] |
 | **"Quem são elas? Como se chamam, quem lidera, onde ficam, o que dominam?"** | **esta pasta** |
 
 Em uma imagem: as notas de Sociedade são o **manual**, e esta pasta é a **lista telefônica**.
@@ -73,11 +73,11 @@ política dela hoje — e é essa a chave para usar a pasta.
 
 | Região | Forma dominante | O que é a unidade de território | Existe alguém acima? | O efeito disso na política |
 |---|---|---|---|---|
-| [[02 - Fronteira Sul|Fronteira Sul]] | **Clã de sangue** — treze super clãs nomeados | A montanha com a nascente espiritual dentro | Não. O clã Wu é hegemon **informal**, não governo | Tudo se resolve entre as partes: força mais pretexto. Parentesco e casamento são a moeda diplomática |
-| [[03 - Planícies do Norte|Planícies do Norte]] | **Tribo pastoril** — cerca de quinze super tribos, quase todas do mesmo sangue | O vale defensável e o rebanho, não um endereço fixo | Sim, em parte: o suserano Céu da Longevidade e a Corte Imperial | A guerra vira instituição com calendário, regulamento e contabilidade. Fora da temporada, atacar é crime político |
-| [[04 - Continente Central|Continente Central]] | **Seita de discipulado** — dez grandes seitas ancestrais | O domínio da seita, com fronteira reconhecida como divisa de província | **Sim, e é a única região assim**: o Tribunal Celestial | Hierarquia curta e explícita, conflito arbitrado por cima, sangue não vale nada e mérito vale tudo |
-| [[05 - Deserto Ocidental|Deserto Ocidental]] | **Clã de oásis** — catorze super forças | O oásis, em três anéis concêntricos | Não, e **nunca houve** em toda a história da região | Todo mundo negocia com todo mundo: destruir o oásis do rival mata os dois. Ceder é a norma, não fraqueza |
-| [[06 - Mar Oriental|Mar Oriental]] | **Área de mar de propriedade individual** — cerca de dez super forças, nunca enumeradas | Um recorte do oceano, com dono **pessoal** e posição num ranking público | Não | Multipolaridade pura: a região com mais poder de topo do mundo e nenhum lugar onde esse poder se some |
+| [[02 - Fronteira Sul\|Fronteira Sul]] | **Clã de sangue** — treze super clãs nomeados | A montanha com a nascente espiritual dentro | Não. O clã Wu é hegemon **informal**, não governo | Tudo se resolve entre as partes: força mais pretexto. Parentesco e casamento são a moeda diplomática |
+| [[03 - Planícies do Norte\|Planícies do Norte]] | **Tribo pastoril** — cerca de quinze super tribos, quase todas do mesmo sangue | O vale defensável e o rebanho, não um endereço fixo | Sim, em parte: o suserano Céu da Longevidade e a Corte Imperial | A guerra vira instituição com calendário, regulamento e contabilidade. Fora da temporada, atacar é crime político |
+| [[04 - Continente Central\|Continente Central]] | **Seita de discipulado** — dez grandes seitas ancestrais | O domínio da seita, com fronteira reconhecida como divisa de província | **Sim, e é a única região assim**: o Tribunal Celestial | Hierarquia curta e explícita, conflito arbitrado por cima, sangue não vale nada e mérito vale tudo |
+| [[05 - Deserto Ocidental\|Deserto Ocidental]] | **Clã de oásis** — catorze super forças | O oásis, em três anéis concêntricos | Não, e **nunca houve** em toda a história da região | Todo mundo negocia com todo mundo: destruir o oásis do rival mata os dois. Ceder é a norma, não fraqueza |
+| [[06 - Mar Oriental\|Mar Oriental]] | **Área de mar de propriedade individual** — cerca de dez super forças, nunca enumeradas | Um recorte do oceano, com dono **pessoal** e posição num ranking público | Não | Multipolaridade pura: a região com mais poder de topo do mundo e nenhum lugar onde esse poder se some |
 
 Três observações que essa tabela esconde e que valem mais que ela:
 
@@ -253,11 +253,11 @@ tabela — organizações, mais os lugares e títulos que pesam como organizaç�
 
 | Nota | Entradas | Forma dominante | O tipo de campanha que a região favorece |
 |---|---|---|---|
-| [[02 - Fronteira Sul|Fronteira Sul]] | 21 | Clã de sangue, treze super clãs, sem governo regional | Intriga política de baixo nível: sem instância superior, todo conflito é entre as partes — e um grupo de rank 2 ou 3 é do tamanho certo para *ser* o pretexto de alguém |
-| [[03 - Planícies do Norte|Planícies do Norte]] | 25 | Tribo pastoril, quase toda de um sangue só, sob um suserano e um torneio decenal | Campanha militar com relógio: personagens **mortais** decidem o destino de potências, porque os imortais estão fisicamente proibidos de entrar no torneio |
-| [[04 - Continente Central|Continente Central]] | 21 | Seita de discipulado, dez grandes seitas sob o Tribunal Celestial | Política de escola e carreira: exames, prestígio do mestre, promoção por mérito — e uma corte suprema que pode vetar qualquer coisa |
-| [[05 - Deserto Ocidental|Deserto Ocidental]] | 21 | Clã de oásis, catorze super forças que negociam de igual para igual | Campanha comercial e diplomática: caravanas, tokens de transação e a única região onde ceder é a jogada forte |
-| [[06 - Mar Oriental|Mar Oriental]] | 14 fichas de força, mais quatro lugares que pesam como força e um quadro de dez solitários notáveis | Área de mar com dono pessoal; nenhuma liderança regional | Ascensão social do zero: mercado livre, ranking público de propriedades, e a região que mais aceita forasteiros — sem por isso ser acolhedora |
+| [[02 - Fronteira Sul\|Fronteira Sul]] | 21 | Clã de sangue, treze super clãs, sem governo regional | Intriga política de baixo nível: sem instância superior, todo conflito é entre as partes — e um grupo de rank 2 ou 3 é do tamanho certo para *ser* o pretexto de alguém |
+| [[03 - Planícies do Norte\|Planícies do Norte]] | 25 | Tribo pastoril, quase toda de um sangue só, sob um suserano e um torneio decenal | Campanha militar com relógio: personagens **mortais** decidem o destino de potências, porque os imortais estão fisicamente proibidos de entrar no torneio |
+| [[04 - Continente Central\|Continente Central]] | 21 | Seita de discipulado, dez grandes seitas sob o Tribunal Celestial | Política de escola e carreira: exames, prestígio do mestre, promoção por mérito — e uma corte suprema que pode vetar qualquer coisa |
+| [[05 - Deserto Ocidental\|Deserto Ocidental]] | 21 | Clã de oásis, catorze super forças que negociam de igual para igual | Campanha comercial e diplomática: caravanas, tokens de transação e a única região onde ceder é a jogada forte |
+| [[06 - Mar Oriental\|Mar Oriental]] | 14 fichas de força, mais quatro lugares que pesam como força e um quadro de dez solitários notáveis | Área de mar com dono pessoal; nenhuma liderança regional | Ascensão social do zero: mercado livre, ranking público de propriedades, e a região que mais aceita forasteiros — sem por isso ser acolhedora |
 
 **Sugestão de ordem de leitura.** Comece pela [[02 - Fronteira Sul|Fronteira Sul]]: é a região
 mais detalhada da obra, a mais fácil de rodar em nível baixo e a que ensina o vocabulário

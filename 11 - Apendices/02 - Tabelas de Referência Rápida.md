@@ -95,7 +95,7 @@ inferidos da seção 2, esta coluna muda junto.
 | C | **40–59%** | **canônico** | rank 2 (só na faixa alta, de 55% a 59%); rank 3 é quase inédito |
 | B | **60–79%** | **canônico** | rank 3, eventualmente rank 4 |
 | A | **80–99%** | **canônico** | topo mortal (rank 5); 99% é o máximo "comum" |
-| Constituição Extrema | **100%** | **canônico** | ver [[10 - As Dez Constituições Extremas|As Dez Constituições Extremas]] |
+| Constituição Extrema | **100%** | **canônico** | ver [[10 - As Dez Constituições Extremas\|As Dez Constituições Extremas]] |
 
 > [!warning] O grau D só passa do rank 1 se a aptidão dele for elevada
 > Um grau D que **de fato** chegue ao rank 2 existe na obra, mas nunca como grau D:
@@ -1219,7 +1219,7 @@ enche mais rápido, o que é a segunda camada da injustiça do sistema.
 | A | **8% da reserva por hora** | 48% | **canônico** |
 | B | ~6% por hora | ~36% | `inferido` — interpolação entre as duas linhas canônicas |
 | D | ~2% por hora | ~12% | `inferido` — extrapolação para baixo |
-| Com [[02 - Pedras Primordiais|pedras primordiais]] | muito mais rápido; a obra não dá a taxa | — | **canônico** que é o método rápido; o número, não |
+| Com [[02 - Pedras Primordiais\|pedras primordiais]] | muito mais rápido; a obra não dá a taxa | — | **canônico** que é o método rápido; o número, não |
 
 Duas consequências que a tabela esconde e que valem mais que ela:
 

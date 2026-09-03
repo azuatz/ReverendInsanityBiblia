@@ -219,7 +219,7 @@ coincide razoavelmente com relevância de mesa.
 | | |
 |---|---|
 | **Manda quem** | **Primeiro ancião supremo Fang Gong**, **rank 8** — governa. **Segundo ancião supremo Fang Di Chang**, **rank 7** — o estrategista, e o único **grão-mestre supremo de caminho da sabedoria** que a casa produziu em mil anos. **Terceiro ancião supremo Fang Hua Sheng**, **rank 7** — especialista em métodos de cura e o negociador da casa |
-| **Caminho de casa** | [[16 - Wisdom Path|Caminho da sabedoria]], a serviço da construção de Casas de Gu |
+| **Caminho de casa** | [[16 - Wisdom Path\|Caminho da sabedoria]], a serviço da construção de Casas de Gu |
 | **Por que esse caminho** | Porque **projetar uma Casa de Gu é deduzir golpes imortais novos**, e isso não se faz sem caminho da sabedoria. A casa tem uma herança de sabedoria própria, dedicada a esse fim, aperfeiçoada por gerações |
 | **Porte** | Coloca **mais de dez Gu Imortais em campo ao mesmo tempo, metade deles rank 7**, mais três Casas de Gu Imortais — e isso é o que ela consegue destacar sem descuidar dos próprios territórios, não o total |
 | **Alinhamento** | Caminho correto; chamada de "uma das forças centrais do caminho correto do Deserto Ocidental" |
@@ -358,7 +358,7 @@ comércio de almas e ter com que negociar.
 | | |
 |---|---|
 | **Manda quem** | **Primeiro ancião supremo Tang Yang**. Há um **segundo ancião supremo** (a voz cautelosa da casa) e um **terceiro**. Rank `—` |
-| **Caminho de casa** | [[26 - Dream Path|Caminho do sonho]], por **estratégia deliberada de clã** |
+| **Caminho de casa** | [[26 - Dream Path\|Caminho do sonho]], por **estratégia deliberada de clã** |
 | **Por que esse caminho** | Porque o clã **descobriu por acaso, há muitos anos, um reino onírico deixado por um dos Veneráveis** — e o achado incendiou a casa inteira de entusiasmo pelo caminho do sonho |
 | **Porte** | Escalão **médio-baixo** entre as super forças; "muitos Gu Imortais", mas em declínio |
 | **Alinhamento** | Caminho correto no papel — e disposto a negociar em segredo com o caminho demoníaco |
@@ -459,7 +459,7 @@ chama derretida capturados, sobretudo para ganhar velocidade.
 | | |
 |---|---|
 | **Manda quem** | **Primeiro ancião supremo**, **rank 7** — sem força de combate notável, mas com uma qualidade que a obra nomeia: **visão intuitiva do quadro geral**. Nome `—` |
-| **Caminho de casa** | **Caminho da luz** `(ded.)`, pela Casa de Gu e pela armadura de luz de seus quadros; a casa também cultiva [[16 - Wisdom Path|caminho da sabedoria]] |
+| **Caminho de casa** | **Caminho da luz** `(ded.)`, pela Casa de Gu e pela armadura de luz de seus quadros; a casa também cultiva [[16 - Wisdom Path\|caminho da sabedoria]] |
 | **Por que esse caminho** | `—` |
 | **Porte** | Super clã; mobiliza três Gu Imortais coordenados como unidade de ataque padrão |
 | **Alinhamento** | Caminho correto, e usa a linguagem moral do caminho correto como ferramenta política |
@@ -558,7 +558,7 @@ qualquer proposta de fora.
 | | |
 |---|---|
 | **Manda quem** | `—` A obra não nomeia a liderança |
-| **Caminho de casa** | `—` A casa tem Gu Imortais de [[16 - Wisdom Path|caminho da sabedoria]] e de [[09 - Formation Path|caminho da formação]], mas nenhum é declarado como caminho de casa |
+| **Caminho de casa** | `—` A casa tem Gu Imortais de [[16 - Wisdom Path\|caminho da sabedoria]] e de [[09 - Formation Path\|caminho da formação]], mas nenhum é declarado como caminho de casa |
 | **Porte** | "Uma super força do Deserto Ocidental, um suserano que domina um território" |
 | **Alinhamento** | Caminho correto `(ded.)` |
 | **Território** | O **deserto do lobo**, inteiro. Roubar algo ali "é o mesmo que roubar o clã Mo" |

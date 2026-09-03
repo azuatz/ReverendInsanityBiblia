@@ -285,7 +285,7 @@ formações, instalações — e não Gu individuais.
 | Cem Batalhas Invicto | 5 (uso único) | **Garante** o sucesso de um refino em andamento — hoje extinto |
 | Sucesso Imediato | — | Eleva a taxa de sucesso; mais caro que os Gu que produz |
 | Restos da Montanha Verde | 4 | Protege o Gu núcleo mesmo em caso de falha |
-| Ativo de Sangue ⭐ | 6 | Protege parte dos materiais durante o refino e **os restaura** se ele falhar — um Gu do [[03 - Blood Path|caminho do sangue]] indispensável nesta profissão |
+| Ativo de Sangue ⭐ | 6 | Protege parte dos materiais durante o refino e **os restaura** se ele falhar — um Gu do [[03 - Blood Path\|caminho do sangue]] indispensável nesta profissão |
 | Gu Cuidadoso | 2–5 | Controla os passos críticos de um refino; fica **mais difícil conforme o refino avança** |
 
 > [!info] Como ler a coluna "Nível"

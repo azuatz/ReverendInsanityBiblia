@@ -235,7 +235,7 @@ verdade, um dos que mais cobram, e as cobranças são de cinco tipos distintos.
 | **Destrói a fonte para sempre** | Um acionamento **aleija um ponto de recurso natural sem nenhuma possibilidade de recuperação**. Isso não é apenas dano ao inimigo: é o caminho **esterilizando o mundo** de onde ele próprio vive. Cada uso é uma mina fechada |
 | **Custo operacional altíssimo** | Mesmo em quem tem a Casa de Gu Imortal do caminho, o golpe representa uma **carga enorme** sobre a estrutura e um gasto pesado de essência imortal — a ponto de o uso extensivo ser impossível e o golpe virar **carta na manga**, não rotina |
 | **Assinatura** | Cada roubo entrega uma amostra do método; exposição convida contra-ataque e dedução da identidade |
-| **Conflito interno de marcas** | Roubo e [[12 - Soul Path|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
+| **Conflito interno de marcas** | Roubo e [[12 - Soul Path\|alma]] — os dois caminhos que mais andam juntos aqui — **brigam dentro do mesmo corpo**, e o equilíbrio entre eles é descrito como algo que chega ao limite |
 
 E há a cobrança mais elegante de todas — detalhada adiante, em "Em combate e fora dele", mas que
 pertence conceitualmente a esta seção: o golpe de ocultação que torna o portador **invisível para a vontade

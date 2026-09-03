@@ -334,7 +334,7 @@ O que muda, faixa por faixa. Onde a obra não dá o número, a linha está marca
 | **Rank 5** | **100 jun ou mais.** O corpo já foi refinado (pele, ossos, tendões) para conter o que se acumulou, e é a segunda camada que decide quem chega aqui. Com um amplificador de nível 5 acoplado, há registro de **500 jun** disparados — com a ressalva de que o corpo se desfaz antes do alvo. Golpes combinados de força com escravização começam a valer mais que a força pura. |
 | **Rank 6 (imortal)** | Um único Gu Imortal concede **1.000 jun**. Surgem as categorias que não existiam: **defesa** (Caldeirão de Força), **acúmulo dirigido de marcas** (Comer Força) e os **fantasmas de si mesmo**. A vantagem clássica do imortal — essência ilimitada — vale **quase nada** aqui, porque o caminho já era o que menos gastava essência. |
 | **Rank 7–8** | Fantasmas gigantes aos dezesseis, capazes de matar um imortal; golpes híbridos com alma e escravização; e o acúmulo de marcas do Dao como projeto de vida, já que cada mil marcas dobra tudo. `—` a obra não detalha um teto próprio do caminho nessas faixas. |
-| **Rank 9 (Venerável)** | O progenitor do caminho encerra a escada: devorou feras imemoriais, gravou **totens** no corpo, e com isso escapou de todas as limitações descritas acima. Ver [[02 - Os Criadores de Caminhos|Os Criadores de Caminhos]]. |
+| **Rank 9 (Venerável)** | O progenitor do caminho encerra a escada: devorou feras imemoriais, gravou **totens** no corpo, e com isso escapou de todas as limitações descritas acima. Ver [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]]. |
 
 ## Gu representativos
 

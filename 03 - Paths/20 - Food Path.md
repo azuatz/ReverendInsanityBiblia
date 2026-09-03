@@ -241,7 +241,7 @@ nunca ter estudado nenhum deles do zero. ==Comer é a única forma documentada d
 | **Jantar de galinha** | Digerir uma ave desolada antiga **fortalece a sorte** do comensal enquanto a digestão dura (cerca de meia jornada), com ênfase em sobrevivência. Comida produzindo efeito de sorte. |
 | **Devorar forças (o Gu de cultivo)** | Come material rico em marcas de um caminho e grava essas marcas no corpo — ou, invertido, **gasta** marcas para trocar a aura regional do usuário. Risco zero, rendimento baixo, e a única fonte de marcas que não exige sobreviver a nada. |
 | **Formação imortal de comida** | Não é um golpe de combate: é a instalação que sustenta um criadouro ou uma estrutura. Usa poucos Gu Imortais e pouca essência, e é o que permite **melhorar uma espécie de geração em geração**. |
-| **Devoração de almas** | Fronteira com o [[12 - Soul Path|caminho da alma]]: devora a alma de um imortal e absorve as memórias e a experiência de cultivo dele. A única via documentada de tomar *attainment* de outra pessoa. |
+| **Devoração de almas** | Fronteira com o [[12 - Soul Path\|caminho da alma]]: devora a alma de um imortal e absorve as memórias e a experiência de cultivo dele. A única via documentada de tomar *attainment* de outra pessoa. |
 
 ## Gu representativos
 

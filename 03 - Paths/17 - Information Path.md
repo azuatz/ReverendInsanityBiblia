@@ -246,7 +246,7 @@ Quatro consequências importantes:
 | **Gu do Juramento do Mar** ⭐ | 6, **reutilizável** | O equivalente marítimo: o juramento é feito **de frente para o mar** |
 | **Gu da Promessa** ⭐ | — | Uso similar aos dois acima |
 | **Golpe assassino imortal** | — | Também se firma acordo **sem nenhum Gu dedicado**, por meio de um golpe imortal do caminho que restringe ambos os lados. Um caso registrado custou **duas mil pedras de essência imortal** |
-| **Acordo com prazo** | — | Usando um Gu de ano do [[18 - Time Path|caminho do tempo]] como núcleo mais muitos Gu mortais de informação, criou-se um acordo com **validade de cem anos** |
+| **Acordo com prazo** | — | Usando um Gu de ano do [[18 - Time Path\|caminho do tempo]] como núcleo mais muitos Gu mortais de informação, criou-se um acordo com **validade de cem anos** |
 
 Repare no detalhe do voto venenoso: ele **testa a sinceridade**. Não basta ler as palavras — os
 termos precisam corresponder ao que a pessoa realmente pretende. É um detector de mentiras que

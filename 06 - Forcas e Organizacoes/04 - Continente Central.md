@@ -90,7 +90,7 @@ porque atravessar às escondidas teria sido a ofensa.
 
 | Camada | Quem é | Quantos |
 |---|---|---|
-| Suserano | [[19 - Tribunal Celestial|Tribunal Celestial]] | um |
+| Suserano | [[19 - Tribunal Celestial\|Tribunal Celestial]] | um |
 | As dez grandes seitas ancestrais | potências regionais, várias imortais cada | dez |
 | Super forças fora das dez | seitas com dois ou três imortais próprios | poucas, nomeadas adiante |
 | Seitas grandes, médias, pequenas e minúsculas | de três imortais a nenhum | incontáveis |
@@ -200,11 +200,11 @@ uma disciplina do currículo.
 | | |
 |---|---|
 | **Manda quem** | **Duke Long**, líder no presente do cenário, com força de combate **quase de rank 9**. Abaixo dele, **Fairy Zi Wei**, rank 8, que já ocupou a liderança interina da instituição e responde pela supervisão do Continente Central; **Qin Ding Ling**, rank 8; e o **Senhor da Torre de Supervisão do Céu**, rank 8, guardião da casa de Gu de rank 9 da instituição |
-| **Caminho de casa** | nenhum, por desenho: reúne especialistas de todos os caminhos. Duke Long cultiva [[05 - Qi Path|caminho do qi]] como principal e [[06 - Transformation Path|caminho da transformação]] como secundário — foi fundindo refino e transformação que ele **criou do zero a raça variante dos homens-dragão**; Fairy Zi Wei, [[16 - Wisdom Path|caminho da sabedoria]]; Qin Ding Ling, [[23 - Luck Path|caminho da sorte]] |
-| **Por que esse caminho** | a instituição foi fundada pelo primeiro rank 9 da história, criador do caminho do qi e do [[07 - Enslavement Path|caminho da escravização]], e herdada por vários Veneráveis seguintes; a especialidade dela é **governar**, não cultivar |
+| **Caminho de casa** | nenhum, por desenho: reúne especialistas de todos os caminhos. Duke Long cultiva [[05 - Qi Path\|caminho do qi]] como principal e [[06 - Transformation Path\|caminho da transformação]] como secundário — foi fundindo refino e transformação que ele **criou do zero a raça variante dos homens-dragão**; Fairy Zi Wei, [[16 - Wisdom Path\|caminho da sabedoria]]; Qin Ding Ling, [[23 - Luck Path\|caminho da sorte]] |
+| **Por que esse caminho** | a instituição foi fundada pelo primeiro rank 9 da história, criador do caminho do qi e do [[07 - Enslavement Path\|caminho da escravização]], e herdada por vários Veneráveis seguintes; a especialidade dela é **governar**, não cultivar |
 | **Porte** | força suprema — a categoria máxima do mundo, com duas ou três entidades no total. Só admite rank 8, e nem todo rank 8 |
 | **Alinhamento** | caminho correto; é a própria definição institucional do caminho correto |
-| **Território** | uma **gruta-céu coletiva** que paira sobre o Continente Central, formada pela fusão das aberturas imortais de três Veneráveis mais doações de eras. Ver [[19 - Tribunal Celestial|Tribunal Celestial]] e [[13 - Blessed Lands e Grotto-Heavens|Blessed Lands e Grotto-Heavens]] |
+| **Território** | uma **gruta-céu coletiva** que paira sobre o Continente Central, formada pela fusão das aberturas imortais de três Veneráveis mais doações de eras. Ver [[19 - Tribunal Celestial\|Tribunal Celestial]] e [[13 - Blessed Lands e Grotto-Heavens\|Blessed Lands e Grotto-Heavens]] |
 
 **Como cresceu.** Foi fundado por Primordial Origin Immortal Venerable na Antiguidade Remota,
 há cerca de três milhões de anos, e herdado em seguida por outros Veneráveis: a segunda
@@ -293,7 +293,7 @@ rígidas justamente porque todas sabem que há um árbitro acima:
 | **Por que esse caminho** | foi fundada por **Shui Ni**, a mulher de rank 8 que **criou o caminho da água** — a seita é literalmente a casa do caminho. Ver [[02 - Os Criadores de Caminhos\|Os Criadores de Caminhos]] |
 | **Porte** | **quinze Mestres Gu Imortais: dez mulheres e cinco homens**, dos quais dois rank 8. É o **único censo publicado entre as dez** |
 | **Alinhamento** | caminho correto, com a maior taxa histórica de conversão de demoníacos entre as dez |
-| **Território** | Montanha do Coração do Lago, um **super ponto de recurso por si só**, com picos nomeados — o pico da herança secreta, o do frio menor, o da afeição, o do fogo feroz, o das flores celestes — mais o **Salão das Tabuletas de Vida das Fadas** e uma formação imortal de cultivo do [[18 - Time Path|caminho do tempo]]. Dentro dela fica o **Vale da Chuva Silenciosa**, que produz a "chuva silenciosa", material imortal de rank 6: quando ela cai, todo som ao redor é absorvido e se ouve o próprio coração |
+| **Território** | Montanha do Coração do Lago, um **super ponto de recurso por si só**, com picos nomeados — o pico da herança secreta, o do frio menor, o da afeição, o do fogo feroz, o das flores celestes — mais o **Salão das Tabuletas de Vida das Fadas** e uma formação imortal de cultivo do [[18 - Time Path\|caminho do tempo]]. Dentro dela fica o **Vale da Chuva Silenciosa**, que produz a "chuva silenciosa", material imortal de rank 6: quando ela cai, todo som ao redor é absorvido e se ouve o próprio coração |
 
 **Como cresceu.** Nasceu na Antiguidade Média, há trezentos mil anos, junto com o caminho que
 sua fundadora estava terminando de sistematizar. Cresceu como casa de água e de mulheres, e
@@ -368,7 +368,7 @@ num canto do mundo, e um empregador rico que paga por cada uma.
 | | |
 |---|---|
 | **Manda quem** | o **primeiro ancião supremo, rank 8**, no assento central do conselho; abaixo dele o segundo e o terceiro anciãos supremos, este último chamado **Lord Tiger Demon**. O **líder de seita** — o cargo mortal visível — é um rank 5, e não tem autoridade sobre os imortais |
-| **Caminho de casa** | [[07 - Enslavement Path|caminho da escravização]] e a manipulação de grous; secundariamente água, veneno e fogo |
+| **Caminho de casa** | [[07 - Enslavement Path\|caminho da escravização]] e a manipulação de grous; secundariamente água, veneno e fogo |
 | **Por que esse caminho** | a montanha-sede abriga **dezenas de milhares de grous, de mais de dez mil variedades**, e a seita construiu séculos de técnica em cima dessa vantagem territorial |
 | **Porte** | vários imortais, com rank 6 e rank 7 no corpo de anciãos supremos e um rank 8 no topo. É reconhecidamente **a mais fraca das dez** |
 | **Alinhamento** | caminho correto, com a vocação histórica de **caçar cultivadores demoníacos** |
@@ -483,7 +483,7 @@ até uma das dez.
 | | |
 |---|---|
 | **Manda quem** | conselho de anciãos supremos; a obra nomeia **Long Nǚ** como mestra do gênio da geração e **Guan Cao Ze** como voz da seita em negociações. O rank do topo: `—` |
-| **Caminho de casa** | [[27 - Os Caminhos Elementais\|caminho do raio]]; secundariamente fogo e [[08 - Refinement Path|refino]] |
+| **Caminho de casa** | [[27 - Os Caminhos Elementais\|caminho do raio]]; secundariamente fogo e [[08 - Refinement Path\|refino]] |
 | **Por que esse caminho** | a casa detém **a receita incompleta do Gu Imortal Deidade do Sangue** — o que sobrou de uma herança verdadeira que as dez destruíram em mais da metade brigando por ela — e a usou para deduzir seu golpe imortal característico, que mistura raio e sangue |
 | **Porte** | ao menos um rank 6 de força excepcional e vários rank 7; já perdeu **oito imortais numa única perseguição** |
 | **Alinhamento** | caminho correto |
@@ -531,7 +531,7 @@ depois.
 | | |
 |---|---|
 | **Manda quem** | um **primeiro ancião supremo** que governa por vontade projetada e distribui missões diretamente a imortais de rank 7. A figura pública é **Shi Lei, o "Rei Macaco Imortal"**, ancião supremo de **rank 7** |
-| **Caminho de casa** | **combate puro** — e, na prática, [[27 - Os Caminhos Elementais\|caminho da terra]] com [[06 - Transformation Path|caminho da transformação]] |
+| **Caminho de casa** | **combate puro** — e, na prática, [[27 - Os Caminhos Elementais\|caminho da terra]] com [[06 - Transformation Path\|caminho da transformação]] |
 | **Por que esse caminho** | a identidade está na regra de admissão, não numa herança: entra quem vence |
 | **Porte** | ao menos três imortais de rank 7 mobilizáveis ao mesmo tempo, e reservas suficientes para retirar toda a força de combate de todos os postos sem colapsar |
 | **Alinhamento** | caminho correto |
@@ -580,7 +580,7 @@ com noventa rivais e um antagonista que não precisa de motivo.
 | | |
 |---|---|
 | **Manda quem** | conselho de anciãos supremos; a obra nomeia **Yang Feng**, rank 7 de transformação, como o imortal de guarda dos recursos mais valiosos, e **Old Oracle**, imortal de sabedoria |
-| **Caminho de casa** | [[16 - Wisdom Path|caminho da sabedoria]], [[06 - Transformation Path|transformação]] e [[08 - Refinement Path|refino]] |
+| **Caminho de casa** | [[16 - Wisdom Path\|caminho da sabedoria]], [[06 - Transformation Path\|transformação]] e [[08 - Refinement Path\|refino]] |
 | **Por que esse caminho** | `—` a obra não dá razão histórica; o que ela dá é o território, e o território é uma mina |
 | **Porte** | capaz de destacar **três imortais de rank 7 de uma vez** só para investigar um desabamento |
 | **Alinhamento** | caminho correto |
@@ -628,7 +628,7 @@ primeiro ancião supremo. `—`
 | | |
 |---|---|
 | **Manda quem** | conselho de anciãos supremos, entre eles **Wu Fa**. Os nomes públicos são **Song Tao Zi**, rank 7 de pico cuja força de combate está **entre as três maiores de todos os rank 7 do Continente Central**, e **Old Man Bei Feng**, que rompeu para **rank 8** em reclusão |
-| **Caminho de casa** | [[27 - Os Caminhos Elementais\|caminho do vento e caminho da nuvem]]; também raio e [[09 - Formation Path|formações]] |
+| **Caminho de casa** | [[27 - Os Caminhos Elementais\|caminho do vento e caminho da nuvem]]; também raio e [[09 - Formation Path\|formações]] |
 | **Por que esse caminho** | os dois caminhos são o nome da casa e são o par que suas duas fortalezas encarnam |
 | **Porte** | ao menos um rank 8 formado em casa e vários rank 7 |
 | **Alinhamento** | caminho correto |
@@ -676,7 +676,7 @@ vez**.
 | | |
 |---|---|
 | **Manda quem** | conselho de anciãos supremos, com **pelo menos um rank 8**. Duas imortais são o rosto público da casa: **Fairy Ling Mei** e **Fairy Ao Xue**, que operam juntas o golpe de assinatura |
-| **Caminho de casa** | não há um caminho único: a especialidade da casa é **um golpe** — mais [[16 - Wisdom Path|sabedoria]] e cura |
+| **Caminho de casa** | não há um caminho único: a especialidade da casa é **um golpe** — mais [[16 - Wisdom Path\|sabedoria]] e cura |
 | **Por que esse caminho** | porque o golpe é o patrimônio: **gerações de imortais da casa o aperfeiçoaram, incontáveis vezes**, até torná-lo famoso no continente |
 | **Porte** | ao menos um rank 8 e várias imortais de rank alto |
 | **Alinhamento** | caminho correto |
@@ -720,7 +720,7 @@ assinatura é um alvo de intriga perfeito — não é preciso derrotar a seita, 
 | | |
 |---|---|
 | **Manda quem** | conselho de anciãos supremos, com **pelo menos um rank 8**. Nomeados: **Mu Ling Lan**, ancião supremo, rank 7 de água; **Han Cai Xin**, a "Concubina Imortal Borboleta Arco-Íris"; e a linhagem de **Xiao Bai Hong** |
-| **Caminho de casa** | [[17 - Information Path|caminho da informação]] — "a seita mais habilidosa em coleta de informação"; e [[18 - Time Path|caminho do tempo]] |
+| **Caminho de casa** | [[17 - Information Path\|caminho da informação]] — "a seita mais habilidosa em coleta de informação"; e [[18 - Time Path\|caminho do tempo]] |
 | **Por que esse caminho** | `—` a obra não dá origem, mas o efeito é constante: imortais do Vale sabem coisas que as outras nove não sabem, inclusive segredos guardados por elas |
 | **Porte** | ao menos um rank 8 e quatro imortais de rank 7 numa única unidade de combate |
 | **Alinhamento** | caminho correto |

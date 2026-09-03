@@ -395,9 +395,9 @@ articulados, e várias delas testadas em cena contra suas rivais.
 | 1 | Vida eterna acima de tudo | escapar da condição mortal | cultivadores demoníacos de longevidade |
 | 2 | Valor acima de duração | viver intensamente e morrer | uma jovem imortal renascida |
 | 3 | Aceitação serena da morte | não é um problema a resolver | anciãos de clã e velhos mestres |
-| 4 | Sacrifício pela humanidade | organizar a espécie contra o mundo | o [[19 - Tribunal Celestial|Tribunal Celestial]] |
+| 4 | Sacrifício pela humanidade | organizar a espécie contra o mundo | o [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 | 5 | Rebelião contra o destino | o arranjo pode ser desfeito | discípulos do próprio Tribunal |
-| 6 | Liberdade acima de tudo | o mal do mundo é a coerção, não a morte | escravos e as [[12 - Lendas de Ren Zu|lendas fundadoras]] |
+| 6 | Liberdade acima de tudo | o mal do mundo é a coerção, não a morte | escravos e as [[12 - Lendas de Ren Zu\|lendas fundadoras]] |
 | 7 | Bondade prática | derrotar o mal sem virar o mal | uma mortal célebre por sua bondade |
 | 8 | Estabilidade **contra** extremidade | durar sem correr risco × arriscar porque não há alternativa | o caminho correto × o caminho demoníaco |
 | 9 | Ressentimento e tomada | o céu foi injusto, então eu roubo | os preteridos por aptidão |

@@ -111,7 +111,7 @@ O que o sul tem, em vez de estações, são **três relógios**:
 | **Tian Lan Mountain** | Sede de um dos treze super clãs | Marco político |
 | **Fang Zhuan Mountain** | Montanha de um clã que vive ali há mais de mil anos | Exemplo de enraizamento milenar num único relevo |
 | **Ju Yu Mountain** | Montanha de chuva extrema, com a cidade construída **dentro de cavernas** | Arquitetura ditada pelo clima |
-| **Bai Tou Mountain** | Polo do *rock gambling* (aposta em pedras), com casas de aposta milenares em três vilarejos | Um mercado especulativo inteiro concentrado numa montanha. Ver [[09 - Aposta de Rochas|Aposta de Rochas]] |
+| **Bai Tou Mountain** | Polo do *rock gambling* (aposta em pedras), com casas de aposta milenares em três vilarejos | Um mercado especulativo inteiro concentrado numa montanha. Ver [[09 - Aposta de Rochas\|Aposta de Rochas]] |
 | **Bai Gu Mountain** | Chão de **pedra-osso**, com *milk springs* (nascentes de leite) | Terreno que enfraquece certos Gu; herança de um antigo mestre |
 | **Xiang Ya Mountain** | Montanha que "alcança as nuvens", com grandes manadas de elefantes; tropical embaixo, nevada em cima | O melhor exemplo de bioma vertical da obra |
 | **Huo Tan Mountain** | Vulcão adormecido, isolado e alto, com campo de visão amplo | O único vulcão nomeado do sul |
@@ -126,11 +126,11 @@ O que o sul tem, em vez de estações, são **três relógios**:
 | **Rotten Mud Mountain** | "Uma das montanhas famosas da Fronteira Sul", com floresta na encosta de trás | Ponto de reunião de cultivadores solitários e demoníacos |
 | **Wu Mountain** | Montanha "um tanto famosa entre as cem mil", território de um senhor local de caminho do veneno | Modelo de "montanha de um único dono" |
 | **Fierce Gorge** | Desfiladeiro nomeado, com um covil de bando famoso | O único desfiladeiro nomeado do sul |
-| **Myriad Snake Mountain** | Montanha cujas cavernas servem a reclusões de estudo de décadas | Geografia a serviço do [[11 - Ritmo de Cultivo e Reclusão|ritmo de reclusão]] |
+| **Myriad Snake Mountain** | Montanha cujas cavernas servem a reclusões de estudo de décadas | Geografia a serviço do [[11 - Ritmo de Cultivo e Reclusão\|ritmo de reclusão]] |
 | **Cloud Bamboo Mountain Range** | Cadeia de montanhas nomeada | Bambu, `(ded.)` pelo nome |
 | **Ju Feng / Nan / Jade Pot / Xuan Ci / Sun Crown / Copper Seal / Zhao Ze Mountain** | Montanhas nomeadas sem descrição desenvolvida — uma tem fama de território sem lei, outra é ponto de recurso disputado | Nomes prontos para você preencher |
 | **Luchuan river** | Região fluvial nomeada | Marco hidrográfico secundário |
-| **Five Regional Mountain Range** | Cadeia de montanhas **artificial**, resíduo de uma pesquisa de nível Venerável, hoje um acidente geográfico permanente | Terreno que é ruína de experimento. Ver [[01 - Visão Geral dos Veneráveis|Visão Geral dos Veneráveis]] |
+| **Five Regional Mountain Range** | Cadeia de montanhas **artificial**, resíduo de uma pesquisa de nível Venerável, hoje um acidente geográfico permanente | Terreno que é ruína de experimento. Ver [[01 - Visão Geral dos Veneráveis\|Visão Geral dos Veneráveis]] |
 | **Plunder Shadow Earth Trench** | Trincheira terrestre nomeada da região | Um dos dois pontos de concentração de reinos de sonho do sul |
 | **Silent hill** | Colina onde o som é anulado | Gêmea de fama mundial do *anti-sound desert* do oeste |
 | **Hu Immortal blessed land** | Terra abençoada que contém dentro de si a **Dang Hun Mountain** | A terra abençoada mais detalhada da obra |
@@ -235,7 +235,7 @@ Fora do ciclo decenal, o resto é magro: o clima extremo cotidiano é a razão m
 | Nome (EN) | O que é | Por que importa |
 |---|---|---|
 | **Tai Qiu** | Área feroz coberta de grama gigante, com feras e plantas perigosas e recursos abundantes | A área feroz mais explorada da obra; abrigou um terreno de herança |
-| **Crazed Demon Cave** | Área feroz que parece uma cratera e é, na verdade, uma estrutura de **nove camadas** | Superficialmente uma das dez; na verdade o campo de Dao deixado por um Venerável, e o ponto mais fino da fronteira do mundo. Ver [[17 - Cosmologia|Cosmologia]] |
+| **Crazed Demon Cave** | Área feroz que parece uma cratera e é, na verdade, uma estrutura de **nove camadas** | Superficialmente uma das dez; na verdade o campo de Dao deixado por um Venerável, e o ponto mais fino da fronteira do mundo. Ver [[17 - Cosmologia\|Cosmologia]] |
 | **Loose Tail Ridge** | Serra feroz que abriga dragões de gelo imemoriais | "Até imortais de rank 8 têm de ter cuidado ao explorá-la" |
 | **Jade Ring fierce area** | Área feroz com mais de dez anéis concêntricos de árvores antigas enormes | Formação vegetal única no mundo |
 | **Flower Forest Forbidden Land** | Floresta de cogumelos do tamanho de árvores | Bioma-assinatura do norte; é a área feroz mais próxima da gruta-céu suprema da região |
@@ -250,8 +250,8 @@ Fora do ciclo decenal, o resto é magro: o clima extremo cotidiano é a razão m
 |---|---|---|
 | **northern icy plain** | Planície gelada artificial no extremo norte; instável e encolhendo | O melhor lugar conhecido do mundo para passar a tribulação de ascensão com risco reduzido; sob ela vivem homens-de-neve e homens-de-pedra |
 | **poison grassland** | Pastagem de névoa roxa perene, nublada o ano inteiro, em anéis de perigo crescente | Um ecossistema tóxico completo, com fauna própria por anel |
-| **Reverse Flow River** | Um "rio" que é na verdade um **domínio recluso de céu e terra** | Um dos três obstáculos míticos do caminho da vida nas [[12 - Lendas de Ren Zu|lendas de Ren Zu]]; o exemplar do mundo fica aqui |
-| **Luo Po valley** | Domínio recluso do **caminho da alma**: nevoeiro de confusão e vento que corta almas | Com a Dang Hun Mountain do sul, "os dois tesouros do cultivo do caminho da alma"; também pode ser erguido fisicamente e guardado numa abertura imortal. Ver [[12 - Soul Path|Soul Path]] |
+| **Reverse Flow River** | Um "rio" que é na verdade um **domínio recluso de céu e terra** | Um dos três obstáculos míticos do caminho da vida nas [[12 - Lendas de Ren Zu\|lendas de Ren Zu]]; o exemplar do mundo fica aqui |
+| **Luo Po valley** | Domínio recluso do **caminho da alma**: nevoeiro de confusão e vento que corta almas | Com a Dang Hun Mountain do sul, "os dois tesouros do cultivo do caminho da alma"; também pode ser erguido fisicamente e guardado numa abertura imortal. Ver [[12 - Soul Path\|Soul Path]] |
 
 **Relevos, vales, lagos, planícies e cidades:**
 
@@ -260,14 +260,14 @@ Fora do ciclo decenal, o resto é magro: o clima extremo cotidiano é a razão m
 | **Snowy Mountain** | Maciço nevado de múltiplos picos, "fortaleza sólida, fácil de defender e difícil de atacar"; o vento ali é tão frio que "quase arranca a alma do corpo" | Cada pico é ocupado por um imortal demoníaco diferente: é o ponto de reunião do caminho demoníaco do norte |
 | **Hong Yan valley** | Vale com fogo subterrâneo, solo fértil, recursos abundantes | O refúgio anti-nevasca das tribos pequenas |
 | **crescent lake** | Lago "cheio de espiritualidade", com marcas de caminho da água e do refino em volta | Ponto de recurso e de caça, com muitos grupos de feras |
-| **Divine Needle Valley** | Vale que "não se formaria naturalmente": no fundo repousa um ouriço branco gigantesco, coberto de espinhos cheios de marcas do caminho da espada | O exemplo da obra de **acidente geográfico criado por uma criatura**. Ver [[11 - Sword Path|Sword Path]] |
+| **Divine Needle Valley** | Vale que "não se formaria naturalmente": no fundo repousa um ouriço branco gigantesco, coberto de espinhos cheios de marcas do caminho da espada | O exemplo da obra de **acidente geográfico criado por uma criatura**. Ver [[11 - Sword Path\|Sword Path]] |
 | **Demon Blood Hill** | "Área famosa do norte", nomeada a partir de uma aliança de quatro tribos contra um bando demoníaco | Nome-monumento: a geografia guardando a memória de um acordo |
 | **Blood Plain** | Planície nomeada, sede de competições marciais | Com a *Iron Eagle blessed land* e o *Tai Qiu*, forma um "V irregular" no mapa — a única triangulação geográfica explícita da região |
 | **dragon elephant plain** | Planície nomeada | Um dos nós de uma rede de formações de teleporte espalhada pela região |
 | **Feng Bo cliff** | Penhasco nomeado | Outro nó da mesma rede; um dos raros relevos verticais com nome |
 | **Xing Jiu peak** | Pico nomeado, local de heranças | Marco de herança |
 | **onion valley**, **Ku Mu Mountain**, **Bone Burial Field**, **Myriad Bean Garden** | Lugares nomeados sem descrição desenvolvida | Nomes prontos |
-| **Inkman City** | Cidade dos **inkmen** (homens-de-tinta, humanos variantes), com população acima de oitocentos mil e depois mais de um milhão | Prova que o norte abriga forças de humanos variantes com cidade própria — mas com apenas um imortal inkman conhecido publicamente. Ver [[15 - Sociedade Fora das Cinco Regiões|Sociedade Fora das Cinco Regiões]] |
+| **Inkman City** | Cidade dos **inkmen** (homens-de-tinta, humanos variantes), com população acima de oitocentos mil e depois mais de um milhão | Prova que o norte abriga forças de humanos variantes com cidade própria — mas com apenas um imortal inkman conhecido publicamente. Ver [[15 - Sociedade Fora das Cinco Regiões\|Sociedade Fora das Cinco Regiões]] |
 | **Dark Flow Giant City** | "Cidade Gigante do Fluxo Escuro": a escuridão fica mais densa quanto mais perto do centro; construída **sobre a boca de uma trincheira terrestre** | A sede da aliança de zumbis do norte |
 | **Old Earth City** | Cidade nomeada, com uma velha árvore de madeira-terra na entrada | Nome pronto |
 
@@ -275,14 +275,14 @@ Fora do ciclo decenal, o resto é magro: o clima extremo cotidiano é a razão m
 
 | Nome (EN) | O que é | Por que importa |
 |---|---|---|
-| **Longevity Heaven** | A gruta-céu suprema da região, que "está no céu" acima dela | É para o norte o que o [[19 - Tribunal Celestial|Tribunal Celestial]] é para o Continente Central: o poder suserano e o agente unificador do mundo imortal regional. Não pode ser inspecionada nem por métodos de roubo de segredo celeste |
-| **Luck Suppression Heavenly Palace** | Estrutura ligada à gruta-céu acima, que influencia as porções de céu negro e céu branco situadas **acima do norte** | A região tem controle institucional sobre o próprio céu regional. Ver [[17 - Cosmologia|Cosmologia]] |
+| **Longevity Heaven** | A gruta-céu suprema da região, que "está no céu" acima dela | É para o norte o que o [[19 - Tribunal Celestial\|Tribunal Celestial]] é para o Continente Central: o poder suserano e o agente unificador do mundo imortal regional. Não pode ser inspecionada nem por métodos de roubo de segredo celeste |
+| **Luck Suppression Heavenly Palace** | Estrutura ligada à gruta-céu acima, que influencia as porções de céu negro e céu branco situadas **acima do norte** | A região tem controle institucional sobre o próprio céu regional. Ver [[17 - Cosmologia\|Cosmologia]] |
 | **Imperial Court blessed land** | A **maior terra abençoada do norte** e uma "quase gruta-céu": tem ciclo próprio de dia e noite, o terreno **se restaura a cada ciclo**, comporta cerca de cinco milhões de pessoas, teleporta ao acaso quem entra e tem torres de Gu selvagens a cada oito li. Um dia lá fora equivale a mais de vinte dias lá dentro | O mundo privado mais bem descrito da obra — e sua tribulação periódica é a origem real da nevasca decenal |
 | **Snowy Mountain blessed land** | Ninho de dezenas de imortais demoníacos, um pico para cada um | A força demoníaca número um da região |
-| **Lang Ya blessed land** | A terra abençoada de **caminho do refino** da região: refinar Gu lá dentro tem maior chance de sucesso. É **móvel** — chegou a se esconder dentro de uma área feroz | Geografia que é ferramenta de ofício. Ver [[08 - Refinement Path|Refinement Path]] |
+| **Lang Ya blessed land** | A terra abençoada de **caminho do refino** da região: refinar Gu lá dentro tem maior chance de sucesso. É **móvel** — chegou a se esconder dentro de uma área feroz | Geografia que é ferramenta de ofício. Ver [[08 - Refinement Path\|Refinement Path]] |
 | **Jade Pool blessed land** | Terra abençoada de vocação **agrícola**: nela se plantavam recursos trazidos do Mar Oriental até darem fruto, para revenda aos imortais do norte | O exemplo mais claro de mundo privado usado como **fazenda de recursos** |
 | **Iron Eagle blessed land** | Sede de tribo, descrita como "ninho de águia" | Vértice do "V irregular" do mapa regional |
-| **Zi Du blessed land** | Terra abençoada de **caminho do veneno**, coberta de ervas venenosas e grandes brejos | Seu veneno **vaza para fora e criou a pastagem envenenada**. Ver [[10 - Poison Path|Poison Path]] |
+| **Zi Du blessed land** | Terra abençoada de **caminho do veneno**, coberta de ervas venenosas e grandes brejos | Seu veneno **vaza para fora e criou a pastagem envenenada**. Ver [[10 - Poison Path\|Poison Path]] |
 | **Hei Fan grotto-heaven** | Gruta-céu com montanhas, água e céu próprios | Ligada a uma herança verdadeira por tabuleta de pedra |
 | **Feng Xian grotto-heaven** | Gruta-céu nomeada, com salão de entrada próprio | Nome pronto |
 | **Star Form blessed land** | Terra abençoada com um sistema fluvial construído dentro dela | Curiosidade: o norte não tem rios, mas tem um rio artificial dentro de um mundo privado. **Atenção**: uma terra abençoada de mesmo nome aparece no Continente Central, no fundo do Earth Abyss — pode ser a mesma, relocada, ou um homônimo; a obra não esclarece `—` |
@@ -444,7 +444,7 @@ Sobre a infraestrutura invisível, dois itens que valem como geografia: a instit
 | **Starry Sky grotto-heaven** | Gruta-céu que flutuava alto no céu do continente, com paisagem de montanhas, florestas e névoa, povoada por feras desoladas e ancestrais. Absorveu um fragmento de céu imemorial, o que lhe deu capacidade espacial de prender intrusos | **Despedaçou-se em dezenas de fragmentos que caíram por toda a região** — mini-mundos exploráveis com dilatação temporal (duas horas fora equivalem a vários dias dentro) |
 | **Star Form blessed land** | Enterrada abaixo da **quadragésima camada do Earth Abyss**. Terreno em forma de **bacia gigante**: bordas de cadeias de montanhas contínuas formando uma muralha circular, chão subindo em direção às bordas e o centro sendo o ponto mais baixo. Só tem **noite, nunca dia** | Um mundo privado escondido no fundo de um mundo subterrâneo. A ausência de dia é sinal de terra abençoada prestes a virar gruta-céu |
 | **Hu Immortal blessed land** | Terra abençoada cuja herança abre no *Tian Ti Mountain*. Só tem **dia, nunca noite**; contém a *Dang Hun Mountain*, um lago de sangue subterrâneo e uma população de homens-de-pedra | Ver a ressalva de endereço na seção da Fronteira Sul |
-| **A sede do Tribunal Celestial** | **Gruta-céu coletiva** — a fusão das aberturas imortais de três Veneráveis com grutas-céu doadas por incontáveis membros ao longo de eras | É **livre de calamidades e tribulações**, aparentemente por ter devorado fragmentos dos céus imemoriais destruídos. Ver [[13 - Tribulações e Calamidades|Tribulações e Calamidades]] |
+| **A sede do Tribunal Celestial** | **Gruta-céu coletiva** — a fusão das aberturas imortais de três Veneráveis com grutas-céu doadas por incontáveis membros ao longo de eras | É **livre de calamidades e tribulações**, aparentemente por ter devorado fragmentos dos céus imemoriais destruídos. Ver [[13 - Tribulações e Calamidades\|Tribulações e Calamidades]] |
 | Terras abençoadas anônimas do **Tian Ti Mountain** | Incontáveis, sem nome | A montanha é uma camada de mundos privados empilhados |
 
 > [!warning] Nenhum domínio recluso é nativo do centro
@@ -711,9 +711,9 @@ Outros ciclos menores, todos úteis em mesa:
 
 | Nome (EN) | O que é | Por que importa |
 |---|---|---|
-| **Hai Shi blessed land** | Terra abençoada que abriga **o segundo maior mercado do mundo** — só perde para o grande mercado extra-regional — e o maior mercado do Mar Oriental. É a **maior força de cultivadores solitários** da região, mistura caminho correto e demoníaco em várias facções, e tem mais imortais do que a maior base demoníaca do norte. Governada por um colégio de anciãos | A "cidade franca" do mundo imortal: o lugar mais popular para vender espólio, e onde se distribuem as **missões de restauração de áreas de mar** danificadas. Ver [[06 - Mercados e Leilões|Mercados e Leilões]] |
+| **Hai Shi blessed land** | Terra abençoada que abriga **o segundo maior mercado do mundo** — só perde para o grande mercado extra-regional — e o maior mercado do Mar Oriental. É a **maior força de cultivadores solitários** da região, mistura caminho correto e demoníaco em várias facções, e tem mais imortais do que a maior base demoníaca do norte. Governada por um colégio de anciãos | A "cidade franca" do mundo imortal: o lugar mais popular para vender espólio, e onde se distribuem as **missões de restauração de áreas de mar** danificadas. Ver [[06 - Mercados e Leilões\|Mercados e Leilões]] |
 | **Undying Kingdom** | **Terra abençoada pública** no centro da área de mar amarela, sede mundial da aliança de zumbis. É feita de **pedaços de terras abençoadas doados** por imortais que se tornaram zumbis, fundidos por um método que preserva a vitalidade dos fragmentos | Mostra que um mundo privado pode ser um **agregado costurado de pedaços de mundos alheios**. Por dentro é cheia de vida — canto de pássaros e perfume de flores, ao contrário do que se esperaria |
-| **Yu Lu blessed land** | Terra abençoada herdada, **submersa em águas profundas** e com a entrada destruída; por dentro é organizada em **rodadas encadeadas** de golpes de campo de batalha | Modelo de masmorra imortal: um mundo afundado estruturado como sequência de provas. Ver [[12 - Heranças e Provações|Heranças e Provações]] |
+| **Yu Lu blessed land** | Terra abençoada herdada, **submersa em águas profundas** e com a entrada destruída; por dentro é organizada em **rodadas encadeadas** de golpes de campo de batalha | Modelo de masmorra imortal: um mundo afundado estruturado como sequência de provas. Ver [[12 - Heranças e Provações\|Heranças e Provações]] |
 | **Heavy Water blessed land** | Quartel-general de um dos super clãs da região | Exemplo de sede regional |
 | **Qing Yu blessed land**, **Lan Xu blessed land** | Terras abençoadas citadas — uma como ponto de descanso, outra como destino de viagem | Nomes prontos |
 | **Tian Jing island** | Única fonte natural conhecida de um **Gu que não existe em nenhuma outra parte do mundo**, e que é insumo obrigatório para elevar outro Gu ao rank 5 | O exemplo canônico de **monopólio geográfico**: uma ilha específica de uma região específica trava uma receita do mundo inteiro |
@@ -721,7 +721,7 @@ Outros ciclos menores, todos úteis em mesa:
 | **City Well** | **Domínio recluso de céu e terra** — ver ficha abaixo | Um poço com uma cidade em miniatura no fundo |
 | **Dragon Whale Paradise** | **Gruta-céu dentro do corpo de uma fera viva** — ver ficha abaixo | Um mundo inteiro que **nada pelo Mar Oriental** |
 | **Sea markets** | Instituição com forma física fixa: um núcleo numa ilha que submerge sazonalmente, cercado por casas de Gu em forma de barco cujos conveses se ligam formando o mercado periférico. Classificados por tamanho — pequeno, médio, grande, super — e por permanência | A forma urbana característica da região: **uma cidade que é metade ilha e metade frota atracada**, e que fecha quando a maré cobre o núcleo |
-| **Blue water regional wall** | A barreira regional do Mar Oriental, "a muralha de água azul" | É a fronteira; a maré de terra é o que a afina. Ver [[04 - As Cinco Regiões|As Cinco Regiões]] |
+| **Blue water regional wall** | A barreira regional do Mar Oriental, "a muralha de água azul" | É a fronteira; a maré de terra é o que a afina. Ver [[04 - As Cinco Regiões\|As Cinco Regiões]] |
 
 **Ascending Heaven Plain** (Planície da Ascensão ao Céu) é um domínio recluso registrado nas [[12 - Lendas de Ren Zu|lendas de Ren Zu]], saturado por um número incontável de marcas do **caminho do espaço**. Por fora é uma planície verde de grama nova e tenra, com pouquíssimas árvores — vê-se muito longe —, e nela se ergue um palácio flutuante esculpido em verde e ouro, com a superfície entalhada com mar, céu e montanhas, no estilo de uma era antiga. A propriedade que a torna única no mundo é esta: por causa dessas marcas, ela **conecta aos céus imemoriais**, e **qualquer um que a atravesse, até um mortal, pode subir**. Todo o resto do mundo depende de romper a muralha de vento celestial, o que exige força imortal enorme; esta planície é a porta dos fundos. Era segura numa era antiga; a destruição dos céus a atingiu junto, e hoje as marcas de espaço são "complexas como teias de aranha interligadas" e **mudam a todo instante**, sem padrão — parece pacífica e é cheia de armadilhas mortais. Três super clãs a disputaram por cem anos, e ao fim de um longo impasse várias forças acabaram **dividindo-a entre si**. Ver [[14 - Space Path|Space Path]] e [[17 - Cosmologia|Cosmologia]].
 

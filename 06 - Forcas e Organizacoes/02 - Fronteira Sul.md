@@ -284,7 +284,7 @@ tesouro dentro da montanha. `—`
 | | |
 |---|---|
 | **Manda quem** | Um líder de clã na camada mortal (a obra não lhe dá nome). Na camada imortal, os nomes que aparecem são **Tie Mian Shen**, o perito investigador, e **Tie Qu Zhong**, chamado **"Grande Senhor Tie"**. Qual deles é o primeiro ancião supremo, a obra não diz `—` |
-| **Caminho de casa** | Não há um caminho declarado; a especialidade do clã é **temática, não elemental**: a caça ao caminho demoníaco. O caminho da força é comum entre seus quadros mortais, e o clã tem mestres do [[08 - Refinement Path|caminho do refino]] |
+| **Caminho de casa** | Não há um caminho declarado; a especialidade do clã é **temática, não elemental**: a caça ao caminho demoníaco. O caminho da força é comum entre seus quadros mortais, e o clã tem mestres do [[08 - Refinement Path\|caminho do refino]] |
 | **Por que esse caminho** | Milênios de função policial acumulada e uma prisão que virou arquivo (ver abaixo) |
 | **Porte** | Super clã milenar, na camada logo abaixo do clã Wu, ao lado dos clãs Shang e Fei |
 | **Alinhamento** | Caminho correto, e a versão mais dura dele |
@@ -363,8 +363,8 @@ entrar pelos treze salões.
 
 | | |
 |---|---|
-| **Manda quem** | **Xia Cha**, primeira anciã suprema — uma velha senhora, rank 8, **grande especialista do [[18 - Time Path|caminho do tempo]]** |
-| **Caminho de casa** | **[[16 - Wisdom Path|Caminho da sabedoria]]** e [[27 - Os Caminhos Elementais\|caminho da luz]] |
+| **Manda quem** | **Xia Cha**, primeira anciã suprema — uma velha senhora, rank 8, **grande especialista do [[18 - Time Path\|caminho do tempo]]** |
+| **Caminho de casa** | **[[16 - Wisdom Path\|Caminho da sabedoria]]** e [[27 - Os Caminhos Elementais\|caminho da luz]] |
 | **Por que esse caminho** | Concentração deliberada e anômala: Gu Imortais do caminho da sabedoria são raríssimos no mundo, e **o clã Xia tem cinco**, alguns deles fortes. Entre todos os imortais de sabedoria da Fronteira Sul, o clã Xia é a força dominante, com uma proporção enorme deles. Isso faz do clã "especial na Fronteira Sul, e mesmo entre as cinco regiões" |
 | **Porte** | Super clã com rank 8 no topo e um contingente notável de imortais; mantém escravos em número industrial |
 | **Alinhamento** | Caminho correto. Reputação de conspirador: "o clã Xia tem muitos imortais do caminho da sabedoria, **eles são bons em tramar**" |
@@ -412,7 +412,7 @@ alguma organização interna. `—`
 
 | | |
 |---|---|
-| **Manda quem** | **Chi Qu You**, primeiro ancião supremo, rank 8, **grão-mestre supremo do [[09 - Formation Path|caminho da formação]]** |
+| **Manda quem** | **Chi Qu You**, primeiro ancião supremo, rank 8, **grão-mestre supremo do [[09 - Formation Path\|caminho da formação]]** |
 | **Caminho de casa** | **Caminho da formação** |
 | **Por que esse caminho** | "Entre as super forças da Fronteira Sul, o clã Chi é absolutamente a força número um em caminho da formação" |
 | **Porte** | Super clã com um rank 8; força de combate mediana, defesa excepcional |
@@ -569,7 +569,7 @@ Mar Oriental, ser perseguido pelo Pavilhão da Baía.
 | | |
 |---|---|
 | **Manda quem** | — A obra não nomeia o primeiro ancião supremo `—`. Os expoentes citados são **Yang Yin Guang** e **Yang Wen Kui** |
-| **Caminho de casa** | **[[12 - Soul Path|Caminho da alma]]** — "os Gu Imortais do clã Yang cultivam majoritariamente o caminho da alma" |
+| **Caminho de casa** | **[[12 - Soul Path\|Caminho da alma]]** — "os Gu Imortais do clã Yang cultivam majoritariamente o caminho da alma" |
 | **Por que esse caminho** | — |
 | **Porte** | Super clã de força de combate incomum: "eles tinham força de combate incrível e eram uma ameaça ao clã Chi" |
 | **Alinhamento** | Caminho correto de nome; **oportunista sistemático** de comportamento |
@@ -701,7 +701,7 @@ treze e, por isso mesmo, **o espaço mais livre da região para a designer preen
 | | |
 |---|---|
 | **Manda quem** | **Luo Zu**, primeiro ancião supremo, **rank 7** |
-| **Caminho de casa** | — Não declarado `—`. O expoente do clã é do **[[14 - Space Path|caminho do espaço]]** |
+| **Caminho de casa** | — Não declarado `—`. O expoente do clã é do **[[14 - Space Path\|caminho do espaço]]** |
 | **Por que esse caminho** | — |
 | **Porte** | Super clã **sem nenhum rank 8** — e isso define tudo |
 | **Alinhamento** | Caminho correto |
@@ -912,7 +912,7 @@ Passados os milênios, as cinco linhagens chegaram em estados absurdamente difer
 
 | Linhagem | O que cultiva | Estado |
 |---|---|---|
-| **Qi** | [[05 - Qi Path|Caminho do qi]] | O mais próspero, com vários anciãos imortais; base na **gruta-céu Qi Sea** |
+| **Qi** | [[05 - Qi Path\|Caminho do qi]] | O mais próspero, com vários anciãos imortais; base na **gruta-céu Qi Sea** |
 | **Ni** | — | Várias aldeias espalhadas pela Fronteira Sul, **mas nenhum Gu Imortal**; sede histórica na Rotten Mud Mountain |
 | **Xue** | [[03 - Blood Path\|Caminho do sangue]], por descendência direta | **Quase exterminado** |
 | **Bai** | — | **A última linhagem de sangue morreu recentemente.** Resta a **gruta-céu Bai Xiang** |
@@ -982,7 +982,7 @@ tantas vezes ao longo das gerações que ela já não os prende.
 | | |
 |---|---|
 | **Manda quem** | **Lu Wei Yin**, Gu Imortal de **rank 8**, reconhecido por todos como **o herdeiro de [[03 - Os Arquitetos da Ordem\|Paradise Earth Immortal Venerable]]** |
-| **Caminho de casa** | Terra e virtude, por herança do Venerável; os Gu Imortais homens-cogumelo do lugar são fortes no [[10 - Poison Path|caminho do veneno]] |
+| **Caminho de casa** | Terra e virtude, por herança do Venerável; os Gu Imortais homens-cogumelo do lugar são fortes no [[10 - Poison Path\|caminho do veneno]] |
 | **Por que esse caminho** | O Venerável deixou ali a sua **herança verdadeira da Virtude** — daí o segundo nome do lugar |
 | **Porte** | "Sua fundação é profunda e **não é em nada inferior às super forças**", na avaliação de um inimigo que estudava como atacá-lo |
 | **Alinhamento** | Caminho correto na prática — o líder participa das ações conjuntas do caminho correto da região — mas **estruturalmente à parte**, por não ser humano |

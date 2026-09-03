@@ -287,7 +287,7 @@ desgastem primeiro.
 | | |
 |---|---|
 | **Manda quem** | Um colegiado: as **Oito Extremidades** (oito Gu Imortais ativos, um deles chamado **Extremidade do Céu**) e as **Quatro Desolações** (imortais adormecidos). Ranks individuais: `—`, mas o lugar tem rank 8 entre os seus |
-| **Caminho de casa** | **[[23 - Luck Path|Caminho da sorte]]**, por herança direta do fundador |
+| **Caminho de casa** | **[[23 - Luck Path\|Caminho da sorte]]**, por herança direta do fundador |
 | **Por que esse caminho** | O Venerável Sol Gigante foi o grande mestre de caminho da sorte da história, e deixou aqui a terceira e mais profunda de suas três heranças verdadeiras: a da **sorte do céu e da terra**, criada nos últimos anos da vida dele |
 | **Porte** | Doze Gu Imortais nomeados na estrutura (oito ativos, quatro dormindo) `(ded.)`. É um gruta-céu de rank 9 |
 | **Alinhamento** | Caminho correto, e a autoridade dele |
@@ -337,7 +337,7 @@ tem. `—` Por que as Quatro Desolações dormem. `—`
 | | |
 |---|---|
 | **Manda quem** | **Yao Huang**, primeiro ancião supremo, **rank 8**, sangue Huang Jin puro. A obra o chama de o de reputação mais alta entre os cinco rank 8 do Norte |
-| **Caminho de casa** | **[[08 - Refinement Path|Caminho do refino]]**, com especialidade em **Gu de cura** |
+| **Caminho de casa** | **[[08 - Refinement Path\|Caminho do refino]]**, com especialidade em **Gu de cura** |
 | **Por que esse caminho** | Pela pessoa: o attainment de refino de Yao Huang "ultrapassou grão-mestre e talvez chegue a quase-grande-grão-mestre" — patamar de que o mundo inteiro só tem um punhado. A tribo é o que é porque ele é quem é |
 | **Porte** | Super força; vários Gu Imortais, alguns combatentes de peso mantidos deliberadamente na coleira pelo próprio Yao Huang `(ded.)` |
 | **Alinhamento** | Caminho correto, e a voz institucional dele |
@@ -384,7 +384,7 @@ da região.
 | | |
 |---|---|
 | **Manda quem** | Um líder tribal mortal (no ciclo documentado, **Hei Lou Lan**) e acima dele um colégio de **pelo menos quatro anciãos supremos** Gu Imortais. **Hei Cheng** é um rank 7 experiente e o mais ativo deles |
-| **Caminho de casa** | **[[18 - Time Path|Caminho do tempo]]**, por herança histórica |
+| **Caminho de casa** | **[[18 - Time Path\|Caminho do tempo]]**, por herança histórica |
 | **Por que esse caminho** | Um grande expert de rank 8 da tribo, **Hei Fan**, dominava o caminho do tempo — e usou isso da forma mais lucrativa possível: **desacelerou o tempo dentro das aberturas imortais de muitos Gu Imortais da tribo**, o que lhes deu muito mais folga para atravessar calamidades e tribulações. Resultado: com o passar das eras, **a tribo Hei acumulou mais Gu Imortais que as outras super forças** |
 | **Porte** | Mais Gu Imortais que a média das super forças, pelo motivo acima. Exército de elite renomado em toda a região. Pelo menos três tribos vassalas |
 | **Alinhamento** | Caminho correto — com recrutamento sistemático de imortais demoníacos como anciãos externos |
@@ -484,7 +484,7 @@ de recurso — ou para assaltá-lo, já que a própria dona anunciou o endereço
 | | |
 |---|---|
 | **Manda quem** | Líder tribal mortal (**Dong Fang Yu Liang**, rank 5, ele próprio de caminho da sabedoria); e o ancião supremo **Dong Fang Chang Fan**, o **Gu Imortal de caminho da sabedoria nº 1 das Planícies do Norte**, idoso e com a morte calculada por ele mesmo |
-| **Caminho de casa** | **[[16 - Wisdom Path|Caminho da sabedoria]]** |
+| **Caminho de casa** | **[[16 - Wisdom Path\|Caminho da sabedoria]]** |
 | **Por que esse caminho** | Pela pessoa e pela tradição que ela criou: a tribo vende dedução, e é a única do Norte que faz disso política externa |
 | **Porte** | Super força antiga. Régua útil: o titular do caminho, no auge, possuía **oito Gu Imortais** — e isso é o topo do Norte |
 | **Alinhamento** | Caminho correto |
@@ -580,7 +580,7 @@ sério demais. Ou ser o recado que alguém manda ao ancião externo ausente.
 | | |
 |---|---|
 | **Manda quem** | `—` para o cargo máximo. Imortais nomeados: **Nian Er Fu**, rank 7 (aparência de menino gordinho, voz de velho, ganancioso com despojos) e **Nian Er Yi Fang**, de caminho da madeira |
-| **Caminho de casa** | **[[11 - Sword Path|Caminho da espada]]** |
+| **Caminho de casa** | **[[11 - Sword Path\|Caminho da espada]]** |
 | **Por que esse caminho** | Por herança de um único homem: **Santo da Espada Nian Er**, Gu Imortal de **rank 8** da tribo, prodígio que **começou no caminho da luz e migrou para o da espada com sucesso** — feito raríssimo. Foi ele quem levou a tribo à linha de frente do caminho correto do Norte, e ao morrer deixou a **herança verdadeira do Santo da Espada** |
 | **Porte** | Super força; número de imortais `—` |
 | **Alinhamento** | Caminho correto — e a exceção agressiva dele |
@@ -622,7 +622,7 @@ inimigos de graça.
 | | |
 |---|---|
 | **Manda quem** | **Murong Jin Xiao**, rank 7, é o representante externo. Cargo máximo `—`. Imortais nomeadas: **Murong Xue Xiang**, refinadora, e **Murong Qing Si** |
-| **Caminho de casa** | **[[08 - Refinement Path|Caminho do refino]]**, com especialidade em **neve** |
+| **Caminho de casa** | **[[08 - Refinement Path\|Caminho do refino]]**, com especialidade em **neve** |
 | **Por que esse caminho** | Por uma refinadora: Murong Xue Xiang é uma das **quatro maiores do Norte** e já refinou com sucesso um **Gu Imortal de caminho da neve** |
 | **Porte** | Super força com **Casa de Gu Imortal própria** — incompleta (abaixo) |
 | **Alinhamento** | Caminho correto |
@@ -773,7 +773,7 @@ por um campeão. É o melhor patrão possível para um grupo mortal ambicioso.
 | | |
 |---|---|
 | **Manda quem** | Cargo máximo no presente `—`. Imortais nomeados: **Nu Er Qian** (estável, experiente, confiável) e **Nu Er Gu** (errático e agressivo, contido pela primeira) |
-| **Caminho de casa** | **Relâmpago**, por herança; **[[07 - Enslavement Path|escravização]]** de leopardos, na prática de guerra |
+| **Caminho de casa** | **Relâmpago**, por herança; **[[07 - Enslavement Path\|escravização]]** de leopardos, na prática de guerra |
 | **Por que esse caminho** | O relâmpago vem de **Nu Er Bao Xiong**, que cultivava exclusivamente caminho do relâmpago, foi um massacrador temido em todo o mundo imortal do Norte, e **enquanto foi primeiro ancião supremo da tribo Nu Er, ela era sem dúvida a força número um das Planícies do Norte** |
 | **Porte** | Super força; número de imortais `—` |
 | **Alinhamento** | Caminho correto |
@@ -860,7 +860,7 @@ potência do Norte sem contradizer nada do cânone. `*`
 | | |
 |---|---|
 | **Manda quem** | **Heavenly Lord Bai Zu**, **rank 8**, fundador |
-| **Caminho de casa** | **[[07 - Enslavement Path|Caminho da escravização]]**, o do fundador |
+| **Caminho de casa** | **[[07 - Enslavement Path\|Caminho da escravização]]**, o do fundador |
 | **Por que esse caminho** | Porque a tribo **é** o fundador: todos os seus Gu Imortais foram **criados dentro da gruta-céu dele**, e são seus descendentes de sangue |
 | **Porte** | Poucos Gu Imortais, mas todos formidáveis. Base material herdada de outra super força absorvida |
 | **Alinhamento** | Caminho correto — por concessão, não por origem |
@@ -907,7 +907,7 @@ alguém sem linhagem. É a porta de entrada dos de fora.
 | | |
 |---|---|
 | **Manda quem** | **Old Ancestor Xue Hu**, **rank 8**, "o Gu Imortal demoníaco número um das Planícies do Norte"; depois da batalha entre rank 8, alguns o coroaram como "o rank 8 mais forte" — apesar de ele **não possuir nenhum Gu Imortal de rank 8** |
-| **Caminho de casa** | Misto, com forte presença de **[[08 - Refinement Path|refino]]** e de neve/gelo `(ded.)` |
+| **Caminho de casa** | Misto, com forte presença de **[[08 - Refinement Path\|refino]]** e de neve/gelo `(ded.)` |
 | **Por que esse caminho** | Pela geografia (é uma montanha nevada) e pela segunda líder, uma das quatro maiores refinadoras do Norte |
 | **Porte** | **Dezenas de Gu Imortais.** Mandou seis a uma única disputa de campo. Comparada pela obra a "uma das bases principais das dez seitas antigas do Continente Central" |
 | **Alinhamento** | **Caminho demoníaco**, e o quartel-general dele |
@@ -1077,7 +1077,7 @@ linhagem, sem tribo, sem passado. É a porta mais aberta da região, e a que tem
 | | |
 |---|---|
 | **Manda quem** | O **espírito da terra de Lang Ya** — um espírito da terra, não uma pessoa. Ele emite missões, guarda receitas e comanda os imortais residentes |
-| **Caminho de casa** | **[[08 - Refinement Path|Refino]]** e criação de receitas de Gu Imortal |
+| **Caminho de casa** | **[[08 - Refinement Path\|Refino]]** e criação de receitas de Gu Imortal |
 | **Por que esse caminho** | Porque seus quadros são **homens peludos** (*hairy men*), a raça variante que tem **talento natural para refino de Gu** e inteligência baixa |
 | **Porte** | Muitos Gu Imortais homens peludos — e todos de **força de combate desprezível** |
 | **Alinhamento** | Neutro / oculto |
@@ -1194,7 +1194,7 @@ contato conhecido com uma sociedade tribal não humana da região.
 | | |
 |---|---|
 | **Manda quem** | O **Rei dos Inkmen**, **Mo Tan Sang** — eloquente, diplomático, "nem servil nem arrogante" |
-| **Caminho de casa** | **[[05 - Qi Path|Caminho do qi]]** ("nós da cidade dos inkmen temos algum attainment em caminho do qi") |
+| **Caminho de casa** | **[[05 - Qi Path\|Caminho do qi]]** ("nós da cidade dos inkmen temos algum attainment em caminho do qi") |
 | **Por que esse caminho** | `—` |
 | **Porte** | `—` |
 | **Alinhamento** | Neutro |

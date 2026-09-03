@@ -54,7 +54,7 @@ jogo se inverte: ali o rank vira **pré-requisito duro**, e nenhuma prova substi
 | Discípulo de legado | — | Exame a cada quinze anos |
 | Ancião de seita | **rank 4** | O rank é a condição; alcançá-lo é a promoção |
 | Líder de seita | **rank 5 ou acima** | O rank é a condição, mais escolha do conselho |
-| Anciãos supremos | **rank 6 ou acima** | Ascender a [[14 - Ascensão Imortal|Mestre Gu Imortal]]. Ficam em reclusão |
+| Anciãos supremos | **rank 6 ou acima** | Ascender a [[14 - Ascensão Imortal\|Mestre Gu Imortal]]. Ficam em reclusão |
 
 Os `—` da coluna do meio são a convenção do vault para "**a obra não diz**", e aqui isso é
 uma lacuna real: o texto nunca fixa um rank mínimo para cada degrau de discípulo. O que

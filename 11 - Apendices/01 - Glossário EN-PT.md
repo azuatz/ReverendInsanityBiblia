@@ -83,11 +83,11 @@ termos que a comunidade e a obra usam sem tradução estável.
 
 | Termo (EN) | A tradução brasileira escreve | **O vault escreve** | Por quê |
 |---|---|---|---|
-| rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[05 - Ranks e Avanço|Ranks e Avanço]] |
-| attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[08 - Attainment|Attainment]] |
-| refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[06 - Refino de Gu|Refino de Gu]] |
-| killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[08 - Killer Moves|Killer Moves]] |
-| Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[19 - Tribunal Celestial|Tribunal Celestial]] |
+| rank (1–9) | nível | **rank** | "Nível" é ambíguo: o sistema tem pelo menos três escadas diferentes (rank, estágio e attainment), e todas seriam "nível". Ver [[05 - Ranks e Avanço\|Ranks e Avanço]] |
+| attainment level | nível de realização | **attainment** | Mesmo problema de "nível", agravado: "realização" não sugere que se trata de **compreensão** de um caminho. Ver [[08 - Attainment\|Attainment]] |
+| refining | refinamento | **refino** | Mais curto e mais natural em português técnico ("oficina de refino", "taxa de refino"). Ver [[06 - Refino de Gu\|Refino de Gu]] |
+| killer move | movimento assassino | **killer move** | A tradução literal soa a golpe letal, quando o conceito é uma **combinação planejada** de vários Gu, nem sempre ofensiva. Ver [[08 - Killer Moves\|Killer Moves]] |
+| Heavenly Court | Corte Celestial | **Tribunal Celestial** | "Corte" em português puxa para corte real (nobres, cortesãos); a instituição é um órgão de julgamento e execução. Ver [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 
 > [!warning] Se encontrar as duas formas no vault, prevalece a coluna da direita
 > Notas escritas em momentos diferentes podem ainda trazer a forma antiga em alguma
@@ -453,7 +453,7 @@ do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão G
 
 | Termo (EN) | Leitura literal | Por que o nome aparece |
 |---|---|---|
-| Primordial Origin Immortal Venerable | "Venerável Imortal Origem Primordial" | O primeiro rank 9 da história; fundou o sistema de seitas e o [[19 - Tribunal Celestial|Tribunal Celestial]] |
+| Primordial Origin Immortal Venerable | "Venerável Imortal Origem Primordial" | O primeiro rank 9 da história; fundou o sistema de seitas e o [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 | Star Constellation Immortal Venerable | "Venerável Imortal Constelação Estelar" | Criou o caminho da sabedoria; a única mulher entre os dez |
 | Reckless Savage Demon Venerable | "Venerável Demônio Selvagem Impetuoso" | Criou os caminhos da força e da transformação |
 | Thieving Heaven Demon Venerable | "Venerável Demônio Roubador do Céu" | Criou o caminho do roubo; o mais rico da história |
@@ -462,7 +462,7 @@ do mundo. A ficha completa está em [[01 - Visão Geral dos Veneráveis|Visão G
 | Genesis Lotus Immortal Venerable | "Venerável Imortal Lótus da Gênese" | Criou o caminho da madeira |
 | Spectral Soul Demon Venerable | "Venerável Demônio Alma Espectral" | Criou o caminho da alma |
 | Paradise Earth Immortal Venerable | "Venerável Imortal Terra Paradisíaca" | Conteve o caminho da alma; deixou a melhor herança de combate da história |
-| Red Lotus Demon Venerable | "Venerável Demônio Lótus Vermelho" | Feriu o [[16 - Fate Gu|Fate Gu]]; teve a vida mais curta dos dez |
+| Red Lotus Demon Venerable | "Venerável Demônio Lótus Vermelho" | Feriu o [[16 - Fate Gu\|Fate Gu]]; teve a vida mais curta dos dez |
 
 > [!warning] "Immortal" e "Demon" no título não medem força nem crueldade
 > Os dois títulos designam **a mesma patente**, o rank 9. A palavra que muda indica só

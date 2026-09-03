@@ -315,7 +315,7 @@ Três sistemas inteiros do mundo são, por baixo, este caminho — e ninguém pe
 Esta é a espinha dorsal conceitual, e ela é elegante o bastante para sustentar um cenário
 inteiro. A obra opõe **dois caminhos com filosofias exatamente inversas**:
 
-| | **Caminho do céu** | **[[24 - Human Path|Caminho humano]]** |
+| | **Caminho do céu** | **[[24 - Human Path\|Caminho humano]]** |
 |---|---|---|
 | Princípio | *tira dos excessos para repor as faltas* | *reduz as faltas e aumenta os excessos* |
 | O que produz | equilíbrio de todos os seres | o forte fica mais forte |

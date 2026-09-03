@@ -359,7 +359,7 @@ mercado é policiado por dentro.
 | | |
 |---|---|
 | **Manda quem** | **Song Qi Yuan**, primeiro ancião supremo, **rank 8** há muitos anos, "força de combate insondável". Sucessor já reconhecido publicamente: o filho **Song Diao Ling**, **rank 7** |
-| **Caminho de casa** | **caminho da luz e caminho da água** — e, por cima, um pilar de [[16 - Wisdom Path|caminho da sabedoria]] e, agora, uma herança de [[08 - Refinement Path|caminho do refino]] |
+| **Caminho de casa** | **caminho da luz e caminho da água** — e, por cima, um pilar de [[16 - Wisdom Path\|caminho da sabedoria]] e, agora, uma herança de [[08 - Refinement Path\|caminho do refino]] |
 | **Por que esse caminho** | água é o caminho natural da região; o resto foi construído de propósito, ao longo de um século, por decisão de clã |
 | **Porte** | **dezoito Mestres Gu Imortais** de conhecimento público — o maior contingente que a obra dá a um clã. Entre as **dez maiores** super forças do Leste |
 | **Alinhamento** | **caminho correto** |
@@ -433,7 +433,7 @@ myriad sparrow island*)
 
 | | |
 |---|---|
-| **Manda quem** | **Shen Cong Sheng**, primeiro ancião supremo, **rank 8**, cultivador de [[13 - Sound Path|caminho do som]] |
+| **Manda quem** | **Shen Cong Sheng**, primeiro ancião supremo, **rank 8**, cultivador de [[13 - Sound Path\|caminho do som]] |
 | **Caminho de casa** | **caminho do som** |
 | **Por que esse caminho** | a própria sede é uma árvore que **produz som**, e o clã transformou isso em produto, em arma e em diplomacia |
 | **Porte** | super força; controla **sete áreas de mar** e "negócios enormes". `—` número de imortais |
@@ -888,7 +888,7 @@ forças do Leste **por dentro do mercado**, não pela porta da frente.
 
 | | |
 |---|---|
-| **Manda quem** | **Miao Ming Shen**, **rank 7**, [[14 - Space Path|caminho do espaço]] — o mais forte do grupo |
+| **Manda quem** | **Miao Ming Shen**, **rank 7**, [[14 - Space Path\|caminho do espaço]] — o mais forte do grupo |
 | **Caminho de casa** | espaço |
 | **Por que esse caminho** | porque o espaço é exatamente o que falta a todo imortal |
 | **Porte** | **quatro** pessoas: ele e **Gui Qi Ye** (rank 7), mais **Immortal Hua Die** e **Feng Jiang** (rank 6) |

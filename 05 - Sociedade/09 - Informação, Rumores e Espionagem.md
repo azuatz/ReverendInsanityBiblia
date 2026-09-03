@@ -98,7 +98,7 @@ ele é a espinha dorsal de toda organização grande. Não produz dano; produz *
 | Gu janela do leste | 4 | Uma joaninha de carapaça quadrada como caixilho de janela, feita para **armazenar** informação importante |
 | Gu de tarefas institucional | 5 | Distribui missões e guarda segredo com qualidade excepcional; é o método de comunicação interna da maior organização do mundo |
 | Sentido Mútuo | 6 (imortal) | Sentir remotamente um lugar e o que há nele |
-| Penhor da Montanha · Juramento do Mar · Promessa | 6 (imortal) | Selar acordos (ver [[08 - Juramentos, Reputação e Favores|Juramentos, Reputação e Favores]]) |
+| Penhor da Montanha · Juramento do Mar · Promessa | 6 (imortal) | Selar acordos (ver [[08 - Juramentos, Reputação e Favores\|Juramentos, Reputação e Favores]]) |
 | Pássaro Verde Portador de Cartas | imortal, rank não declarado | Carta que **atravessa as paredes entre regiões** — a única forma de correspondência inter-regional |
 
 Dois detalhes com muito uso de mesa:

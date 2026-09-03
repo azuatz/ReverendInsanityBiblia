@@ -133,12 +133,12 @@ aula, e essa cronologia é a espinha dorsal de todo o domínio.
 
 | Era | Caminhos criados nela | Criador, quando a obra nomeia |
 |---|---|---|
-| **Antiguidade Imemorial** (a era do Ancestral Humano) | [[14 - Space Path|espaço]] e [[18 - Time Path|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
-| **Antiguidade Remota** | [[05 - Qi Path|qi]] e [[07 - Enslavement Path|escravização]] · [[16 - Wisdom Path|sabedoria]] e [[19 - Star Path|estrela]] · [[09 - Formation Path|formação]] · [[08 - Refinement Path|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
-| **Antiguidade Passada** | [[21 - Rule Path|regra]] · [[06 - Transformation Path|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
-| **Antiguidade Medieval** | madeira · [[15 - Theft Path|roubo]] · [[23 - Luck Path|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[17 - Information Path|informação]] · [[13 - Sound Path|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
-| **Antiguidade Tardia e era atual** | osso · [[22 - Phantom Path|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
-| **Ainda não criados** | [[26 - Dream Path|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
+| **Antiguidade Imemorial** (a era do Ancestral Humano) | [[14 - Space Path\|espaço]] e [[18 - Time Path\|tempo]] — "estes dois caminhos pesquisaram e expuseram as profundidades do tempo e do espaço" | `—` |
+| **Antiguidade Remota** | [[05 - Qi Path\|qi]] e [[07 - Enslavement Path\|escravização]] · [[16 - Wisdom Path\|sabedoria]] e [[19 - Star Path\|estrela]] · [[09 - Formation Path\|formação]] · [[08 - Refinement Path\|refino]] · fogo | qi e escravização, por um Venerável; sabedoria e estrela, por outra Venerável; **o fundador do caminho das formações não pôde ser verificado**; refino e fogo, `—` |
+| **Antiguidade Passada** | [[21 - Rule Path\|regra]] · [[06 - Transformation Path\|transformação]] · [[04 - Strength Path\|força]] · vento · luz · trevas | regra e transformação, por dois Veneráveis Demônios; os outros três, `—` |
+| **Antiguidade Medieval** | madeira · [[15 - Theft Path\|roubo]] · [[23 - Luck Path\|sorte]] · metal · água · gelo-e-neve · nuvem · terra · relâmpago · [[17 - Information Path\|informação]] · [[13 - Sound Path\|som]] | madeira, roubo e sorte, por três Veneráveis; a água, pelo fundador de uma casa de cultivo; os demais "surgiram um após o outro", `—`. A obra chama esta de *"uma era em que todo tipo de caminho diverso apareceu"* |
+| **Antiguidade Tardia e era atual** | osso · [[22 - Phantom Path\|fantasma]] · restrição — e, no fim da linha do tempo, pílulas e armas | fantasma, por um **Gu Imortal comum**; pílulas e armas, por dois imortais nomeados; osso e restrição, `—` |
+| **Ainda não criados** | [[26 - Dream Path\|sonho]] · matança | Ninguém. Os fenômenos existem, os recursos existem, e falta o fundador |
 
 Três leituras que essa tabela permite:
 
@@ -297,12 +297,12 @@ Os pares que a obra nomeia:
 
 | Venerável | Caminho principal | Caminho de especialidade |
 |---|---|---|
-| A criadora da sabedoria | [[16 - Wisdom Path|sabedoria]] | [[19 - Star Path|estrela]] |
+| A criadora da sabedoria | [[16 - Wisdom Path\|sabedoria]] | [[19 - Star Path\|estrela]] |
 | O criador da madeira | madeira | [[28 - Painting Path\|pintura]] |
-| O criador do roubo | [[15 - Theft Path|roubo]] | [[14 - Space Path|espaço]] |
-| O criador da sorte | [[23 - Luck Path|sorte]] | [[03 - Blood Path\|sangue]] |
-| O arquiteto da ordem | terra | [[25 - Heaven Path|céu]] |
-| O criador da transformação | [[06 - Transformation Path|transformação]] | [[04 - Strength Path\|força]] |
+| O criador do roubo | [[15 - Theft Path\|roubo]] | [[14 - Space Path\|espaço]] |
+| O criador da sorte | [[23 - Luck Path\|sorte]] | [[03 - Blood Path\|sangue]] |
+| O arquiteto da ordem | terra | [[25 - Heaven Path\|céu]] |
+| O criador da transformação | [[06 - Transformation Path\|transformação]] | [[04 - Strength Path\|força]] |
 
 Repare em duas coisas. Primeiro, **a especialidade nem sempre é secreta na prática** — a obra
 registra um Venerável recitando os pares dos rivais em voz alta. O sigilo é um ideal que o tempo
@@ -444,14 +444,14 @@ seção em vez de repeti-la.
 
 | Notação | Significa |
 |---|---|
-| **⭐** | Gu Imortal: existe **um único exemplar no mundo inteiro**, e ele não é fabricável em série. Ver [[16 - Gu Imortais|Gu Imortais]]. |
+| **⭐** | Gu Imortal: existe **um único exemplar no mundo inteiro**, e ele não é fabricável em série. Ver [[16 - Gu Imortais\|Gu Imortais]]. |
 | **1 a 5** | Gu mortal. O número é o nível do Gu, e ele trava quem pode acioná-lo: usar um Gu acima do próprio rank danifica ou destrói a abertura. |
 | **6 a 8** | Gu Imortal. Só um Mestre Gu Imortal (rank 6 ou acima) aciona. |
 | **9** | Nível dos Veneráveis. Fora do alcance de qualquer personagem jogável. |
 | **`—`** | **A obra não informa o nível daquele Gu.** Não é zero, não é "irrelevante" e não foi esquecido: é lacuna real da fonte. Trate como espaço em branco que você pode preencher. |
 | **⭐ com `—`** | Caso comum e só *parcialmente* vazio: como todo Gu Imortal fica entre os níveis 6 e 8, a linha está **limitada a essa faixa** mesmo sem número. A obra nomeia o Gu e descreve o efeito, mas nunca diz o nível exato. |
 | **`efêmero`** | O Gu **não persiste**: existe por um instante e se desfaz. Nível não se aplica, porque o Gu não é um bem que alguém guarde ou acione duas vezes. |
-| **X → Y** | O Gu **evolui**: existe primeiro na forma de nível X e pode ser promovido à forma de nível Y, que **consome** a inferior. Não são duas versões coexistindo — [[16 - Gu Imortais|Gu Imortais]] estabelece que duas versões do mesmo Gu Imortal **não podem existir ao mesmo tempo no mundo**. A seta é uma linha do tempo, não uma faixa. |
+| **X → Y** | O Gu **evolui**: existe primeiro na forma de nível X e pode ser promovido à forma de nível Y, que **consome** a inferior. Não são duas versões coexistindo — [[16 - Gu Imortais\|Gu Imortais]] estabelece que duas versões do mesmo Gu Imortal **não podem existir ao mesmo tempo no mundo**. A seta é uma linha do tempo, não uma faixa. |
 | **X (máximo)** | O Gu chega até o nível X e **para ali**: um teto de evolução declarado pela obra, não uma lacuna. |
 
 > [!note] Para o design

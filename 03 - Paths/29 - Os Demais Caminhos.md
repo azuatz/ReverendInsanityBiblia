@@ -462,7 +462,7 @@ inteira** e enganam qualquer um.
 
 | Expressão | O que realmente é |
 |---|---|
-| **"Caminho justo" (*righteous path*)** | **Uma posição moral e política, não um caminho de cultivo.** É o "lado justo" — os clãs e seitas ortodoxos, as forças aliadas do lado justo, as heranças do lado justo. Um imortal do lado justo pode cultivar **qualquer** caminho. Ver [[13 - As Grandes Forças do Mundo|As Grandes Forças do Mundo]] |
+| **"Caminho justo" (*righteous path*)** | **Uma posição moral e política, não um caminho de cultivo.** É o "lado justo" — os clãs e seitas ortodoxos, as forças aliadas do lado justo, as heranças do lado justo. Um imortal do lado justo pode cultivar **qualquer** caminho. Ver [[13 - As Grandes Forças do Mundo\|As Grandes Forças do Mundo]] |
 | **"Caminho demoníaco" (*demonic path*)** | O oposto moral do anterior. A obra o usa para descrever ética e reputação — *heranças do lado justo geralmente não eram perigosas; **o lado demoníaco** era o das armadilhas viciosas e das tramas*. É julgamento de caráter, não tema de leis |
 | **"Caminho do submundo"** | Nome próprio de **um Gu** — uma borboleta rastreadora de um clã, que emite fragrância de alma e é implantada em outros Gu para seguir o rastro. Não existe caminho do submundo |
 | **"Caminho dourado"** | Uma **estrada dourada** literal, aberta como via de fuga por uma organização |
@@ -484,7 +484,7 @@ próprias?* e *ele tem significado verdadeiro próprio?*
 
 | Estado | Marcas do Dao próprias | Significado verdadeiro próprio | Exemplo canônico |
 |---|---|---|---|
-| **Conjunto de técnicas** | **Não** — *não existem marcas de encantamento e emoção neste mundo, só marcas do caminho da sabedoria* | Não | Caminho da **emoção** e do **encantamento**. Cultivá-los eleva o domínio no [[16 - Wisdom Path|caminho da sabedoria]] |
+| **Conjunto de técnicas** | **Não** — *não existem marcas de encantamento e emoção neste mundo, só marcas do caminho da sabedoria* | Não | Caminho da **emoção** e do **encantamento**. Cultivá-los eleva o domínio no [[16 - Wisdom Path\|caminho da sabedoria]] |
 | **Ramo com corpo próprio** | **Sim** — existem lugares saturados de marcas fantasmas, e peritos procuram "marcas de fantasma, de espaço ou de roubo" ao periciar um campo de batalha | **Não** — *avançar no domínio do caminho fantasma é, na essência, ainda o significado verdadeiro do caminho da regra* | Caminho **fantasma** |
 | **Caminho pleno** | Sim | Sim | Os caminhos principais |
 

@@ -101,7 +101,7 @@ enquadramento que ela precisa — porque nem tudo aqui tem o mesmo peso de jogo:
 
 | Povo | Existe no presente? | Papel numa mesa |
 |---|---|---|
-| Homens-peludos | **Sim**, em número relevante | **Povo jogável ou PNJ recorrente.** Têm regra de comportamento própria e são um dos grupos barrados pelo [[19 - Tribunal Celestial|Tribunal Celestial]] |
+| Homens-peludos | **Sim**, em número relevante | **Povo jogável ou PNJ recorrente.** Têm regra de comportamento própria e são um dos grupos barrados pelo [[19 - Tribunal Celestial\|Tribunal Celestial]] |
 | Homens-pena | **Sim** | **PNJ e recurso.** A morte deles produz um Gu que ninguém consegue capturar |
 | Homens-de-pedra | Míticos; sobrevivem como **referência cultural** | **Cor de fundo e alusão.** As pessoas os citam como citaríamos um conto de fadas |
 | Homens-de-tinta | Míticos | **Gancho de tesouro**, pelas lascas do espelho — item de colecionismo e de falsificação |
